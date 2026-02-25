@@ -42,7 +42,7 @@ La regla de oro de la inversión es la **'Asignación de Activos (Asset Allocati
 > **Mis activos:** `[80% acciones locales, 20% depósitos a plazo fijo]`.
 > **Solicitud:** Analiza cuál es el mayor riesgo de mi portafolio. ¿Qué pasaría si ocurre una crisis económica? Aconséjame cuánto y cómo debería aumentar la proporción de activos refugio.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Diagnóstico experto de rebalanceo)
 

@@ -42,7 +42,7 @@ Nutzen Sie diese Variante, wenn Sie in Sekundenschnelle die wichtigsten Do's und
 > **Rolle:** Du bist ein Kulturanthropologe und Experte für globale Etikette.
 > **Anfrage:** Nenne mir die 5 wichtigsten Verhaltensregeln und Tabus für Touristen in `[Reiseziel]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 
@@ -101,7 +101,7 @@ Dieser Prompt ist weitaus mächtiger als eine einfache Google-Suche. Reiseblogs 
 
 ### ❌ Before (Einfache Eingabe)
 
-> "Erzähl mir Vorsichtsmaßnahmen für meine Reise nach Dubai."
+"Erzähl mir Vorsichtsmaßnahmen für meine Reise nach Dubai."
 
 _Ergebnis:_ Eine generische, endlose Textwand mit Floskeln wie "Achte auf deine Kleidung" und "Respektiere die Kultur", ohne konkrete Handlungsanweisungen oder nützliche Details zu liefern.
 

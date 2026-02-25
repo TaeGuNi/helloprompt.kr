@@ -42,7 +42,7 @@ Si intentas resolver esto a base de clics, perderás más de una hora. Incluso s
 > **Rol:** Eres un `[Ingeniero de Sistemas Linux con 10 años de experiencia]`.
 > **Tarea:** Escribe un script de shell que `[clasifique automáticamente los archivos en la carpeta ~/Downloads por extensión y los mueva a subcarpetas (por ejemplo, los jpg a Images, los pdf a Docs)]`. Incluye las instrucciones sobre cómo otorgar los permisos de ejecución.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Análisis de Logs y Alertas en Tiempo Real vía Slack)
 

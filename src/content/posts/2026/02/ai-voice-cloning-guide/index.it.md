@@ -42,7 +42,7 @@ Ideale quando hai bisogno rapidamente di una narrazione di alta qualità. (Utili
 > **Ruolo:** Sei un `[Audio Director Professionista]`.
 > **Task:** Ti fornirò uno `[Script]`. Guidami su come impostare una voce femminile, calma e affidabile, adatta per la narrazione di un documentario, e spiegami la procedura per scaricare il file audio finale.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

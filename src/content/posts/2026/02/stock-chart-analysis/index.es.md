@@ -44,7 +44,7 @@ Toda la responsabilidad de la inversión recae en ti, pero ahora puedes recibir 
 > **Rol:** Eres un analista de gráficos bursátiles sumamente objetivo.
 > **Tarea:** Analiza la tendencia actual a corto, medio y largo plazo del gráfico adjunto. Indícame si estamos en una tendencia alcista, bajista o en un canal lateral, y señala los rangos de precios de las líneas de soporte y resistencia principales más evidentes.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

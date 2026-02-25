@@ -13,7 +13,7 @@ tags: ["Ações", "ChamadaResultados", "DivulgaçãoResultados", "AçõesEUA"]
 
 - **🎯 Recomendado para:** Investidores de varejo, Analistas Financeiros, Traders
 - **⏱️ Tempo necessário:** 60 minutos → 3 minutos
-- **🤖 Modelo recomendado:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (Modelos com grande janela de contexto)
+- **🤖 Modelo recomendado:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (Modelos com grande janela de contexto)
 
 - ⭐ **Dificuldade:** ⭐⭐☆☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Use esta versão quando precisar apenas de um panorama rápido da situação da 
 > **Papel:** Você é um `[Estrategista Sênior de Investimentos]` de um fundo de hedge de Wall Street.
 > **Solicitação:** Esta é a transcrição da teleconferência de resultados da `[Nome da Empresa]`. É um texto muito longo e em inglês. Por favor, traduza para português e resuma os pontos cruciais focando em receita, lucros e perspectivas futuras.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 
@@ -86,7 +86,7 @@ A verdadeira utilidade deste prompt não está apenas em traduzir os números, m
   - A: Sites financeiros como _Seeking Alpha_, _The Motley Fool_, ou a seção de "Relações com Investidores" (Investor Relations) no próprio site oficial da empresa costumam disponibilizar as transcrições na íntegra poucas horas após o evento.
 
 - **Q: O ChatGPT gratuito consegue processar uma transcrição inteira?**
-  - A: Depende da duração da chamada. Transcrições de 1 hora geram um volume massivo de texto. O ChatGPT gratuito pode truncar o documento ou perder o contexto inicial. Para esses casos, recomendo usar o Claude 3.5 Sonnet (gratuito) ou o Google AI Studio (Gemini 1.5 Pro), que lidam de forma excepcional com documentos longos.
+  - A: Depende da duração da chamada. Transcrições de 1 hora geram um volume massivo de texto. O ChatGPT gratuito pode truncar o documento ou perder o contexto inicial. Para esses casos, recomendo usar o Claude 3.5 Sonnet (gratuito) ou o Google AI Studio (Gemini 2.5 Pro), que lidam de forma excepcional com documentos longos.
 
 - **Q: Posso usar este prompt para analisar empresas brasileiras listadas na B3?**
   - A: Com certeza! Basta colar a transcrição em português da empresa da B3. O prompt orientará a IA a fazer a mesma análise crítica e estruturada, focando no que realmente importa para os seus investimentos.

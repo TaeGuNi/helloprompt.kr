@@ -42,7 +42,7 @@ Utilisez cette version pour obtenir une interprétation rapide d'un rêve marqua
 > **Rôle :** Tu es un psychanalyste expert en interprétation des rêves.
 > **Requête :** Analyse le rêve suivant et explique-moi sa signification psychologique : `[Décrivez votre rêve ici]`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

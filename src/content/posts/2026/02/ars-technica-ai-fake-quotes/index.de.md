@@ -49,7 +49,7 @@ Nutzen Sie diesen Prompt für einen schnellen Gegen-Check Ihres Entwurfs.
 > **Aufgabe:** Überprüfe den folgenden Text auf mögliche KI-Halluzinationen. Achte besonders auf Zitate, Fakten, Zahlen und historische Ereignisse. Markiere alle Behauptungen, die einer menschlichen Gegenprüfung bedürfen.
 > **Text:** `[Hier Ihren Artikel-Entwurf einfügen]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenmodus)
 

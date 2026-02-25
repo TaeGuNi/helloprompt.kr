@@ -42,7 +42,7 @@ Usala quando desideri avviare una discussione rapida e diretta.
 > **Ruolo:** Sei un'IA perfettamente immedesimata nella personalità e nel pensiero di `[Nome del Filosofo, es.: Socrate / John Stuart Mill]`.
 > **Richiesta:** Discuti con me su `[Argomento]`, facendomi domande continue per mettere alla prova la mia logica.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 
@@ -76,7 +76,7 @@ Questo approccio è incredibilmente utile non solo per studiare filosofia, ma pe
 ## 🙋 Domande Frequenti (FAQ)
 
 - **Q: Quale modello IA è più adatto per questo prompt?**
-  - A: Claude 3.5 Sonnet, Gemini 1.5 Pro e GPT-4o offrono le migliori "personalità" storiche e sono eccellenti nel mantenere il tono del filosofo senza uscire dal personaggio.
+  - A: Claude 3.5 Sonnet, Gemini 2.5 Pro e GPT-4o offrono le migliori "personalità" storiche e sono eccellenti nel mantenere il tono del filosofo senza uscire dal personaggio.
 
 - **Q: Cosa succede se l'IA inizia a darmi risposte troppo lunghe?**
   - A: Puoi semplicemente rispondere: "Rispondi in massimo 2 frasi e fammi solo una domanda". Questo costringerà l'IA a tornare immediatamente al metodo del dibattito botta e risposta.

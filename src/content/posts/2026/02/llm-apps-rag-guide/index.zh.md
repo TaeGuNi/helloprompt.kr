@@ -5,9 +5,6 @@ date: 2026-02-13
 pubDate: 2026-02-13
 description: " \"探索如何利用 awesome-llm-apps 资源库，构建企业级的大语言模型 (LLM) 应用与高可用 RAG 管道。\""
 author: "Hello Prompt"
-image:
-  url: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2560&auto=format&fit=crop"
-  alt: "AI Neural Network"
 tags: ["LLM", "RAG", "AI", "Development", "Guide"]
 ---
 
@@ -51,7 +48,7 @@ tags: ["LLM", "RAG", "AI", "Development", "Guide"]
 > **参考上下文:** `[检索到的文本内容]`
 > **用户问题:** `[用户的具体提问]`
 
-<br>
+\
 
 ### 🥇 Pro Version (专业版：企业级防幻觉)
 
@@ -135,7 +132,7 @@ AI回复：
 - **退款期限：** 客户需在购买后 7 个工作日内提出申请 [来源: 2026_客户服务SOP.pdf, 第12页]。
 - **处理时间：** 审核通过后，款项将在 3 个工作日内退回 [来源: 财务处理流转说明.docx]。
 
-> 💡 提示：超过 7 天的特殊退款申请，需提交至客服主管审批 [来源: 2026_客户服务SOP.pdf, 第13页]。
+💡 提示：超过 7 天的特殊退款申请，需提交至客服主管审批 [来源: 2026_客户服务SOP.pdf, 第13页]。
 ```
 
 ---

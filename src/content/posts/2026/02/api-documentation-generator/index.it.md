@@ -46,7 +46,7 @@ Usala quando hai bisogno di un risultato immediato senza troppi fronzoli.
 > **Richiesta:** Analizza il codice API seguente e convertilo in una documentazione Markdown chiara e strutturata, includendo endpoint, parametri e un esempio di risposta.
 > **Codice:** `[Incolla qui il tuo codice]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

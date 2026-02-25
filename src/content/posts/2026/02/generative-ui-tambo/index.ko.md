@@ -43,7 +43,7 @@ tags: ["Generative UI", "React", "AI", "Tambo SDK", "Frontend"]
 > **역할:** 너는 시니어 프론트엔드 개발자야.
 > **요청:** 내 Next.js (App Router) 프로젝트에 `@tambo/sdk`와 `ai` 패키지를 설치하고, 제너레이티브 UI를 지원하는 챗봇 페이지를 만들어줘. 장소 정보를 보여주는 `PlaceCard` 컴포넌트를 만들고 Tambo 레지스트리에 등록하는 코드까지 한 번에 작성해 줘.
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 

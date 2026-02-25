@@ -38,7 +38,7 @@ Utiliza esta versión cuando necesites una síntesis rápida para comprender el 
 > **Rol:** Eres un `[Analista de Robótica e IA]`.
 > **Tarea:** Resume el impacto actual de la `[IA Física y modelos como EXAONE]` basándote en las tendencias de adopción y el sentimiento general del mercado.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Profesional)
 

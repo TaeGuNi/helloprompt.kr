@@ -43,7 +43,7 @@ tags: ["CS", "고객경험", "자동화", "감정분석"]
 > **Tarea (Task):** Lee la siguiente consulta, determina la `[Categoría]` y la `[Urgencia (Alta/Media/Baja)]`, y entrégame el resultado.
 > **Consulta (Input):** `[Copia y pega la consulta del cliente aquí]`
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

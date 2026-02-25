@@ -42,7 +42,7 @@ Ideale quando hai bisogno di un'istruzione veloce, diretta e subito applicabile.
 > **Ruolo:** Agisci come un `[Esperto di Data Visualization]`.
 > **Richiesta:** Spiegami in modo semplice come trasformare una noiosa tabella dati in Excel in una dashboard visiva d'impatto utilizzando le funzioni Sparkline e la Formattazione Condizionale, affinché i trend mensili risaltino immediatamente.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Esperto)
 

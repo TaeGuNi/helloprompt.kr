@@ -45,7 +45,7 @@ Usala quando hai bisogno di capire rapidamente solo il nocciolo dell'articolo.
 > **Testo dell'articolo:**
 > `[Copia e incolla il testo della notizia]`
 
-<br>
+\
 
 ### 🥇 Versione Pro (Creazione Bozza Newsletter)
 
@@ -111,22 +111,22 @@ Se ti limiti a chiedere all'IA di riassumere un articolo, otterrai un risultato 
 
 ### ❌ Prima (Condivisione del semplice link all'articolo)
 
-> "Dicono che uscirà l'Apple Vision Pro 2. Trovate i dettagli nel link qui sotto. (Link all'articolo)"
+"Dicono che uscirà l'Apple Vision Pro 2. Trovate i dettagli nel link qui sotto. (Link all'articolo)"
 > _(Reazione del lettore: "E quindi? Cosa c'entra con me?")_
 
 ### ✅ Dopo (Curation del Senior Editor IA)
 
 > **🍎 Apple colpisce ancora? Vision Pro 2, finalmente inizia l'era della diffusione di massa!**
->
+
 > **Sintesi Chiave (What)**
->
-> - Il prezzo di lancio è stato drasticamente ridotto a circa 1.400€, la metà rispetto al modello precedente.
-> - Anche il peso si è dimezzato, eliminando la preoccupazione di dolori cervicali in caso di uso prolungato.
-> - Grazie al chip M4, la velocità di calcolo dell'IA on-device è migliorata di oltre 3 volte.
->
+
+- Il prezzo di lancio è stato drasticamente ridotto a circa 1.400€, la metà rispetto al modello precedente.
+- Anche il peso si è dimezzato, eliminando la preoccupazione di dolori cervicali in caso di uso prolungato.
+- Grazie al chip M4, la velocità di calcolo dell'IA on-device è migliorata di oltre 3 volte.
+
 > **🤔 Insight dell'Editor (Why & How)**
-> Non manca molto al giorno in cui sarà normale vedere persone gesticolare nel vuoto in metropolitana o al bar. Marketer, fate attenzione! Il mercato dei contenuti, finora limitato a testi e immagini 2D, si sta spostando in una dimensione completamente nuova: lo 'Spatial Computing' (Informatica Spaziale). È il momento di iniziare a pensare a come integrare elementi di 'interazione 3D' già dalle promozioni del prossimo mese. Questo è l'ultimo momento d'oro per cavalcare questa gigantesca onda!
->
+Non manca molto al giorno in cui sarà normale vedere persone gesticolare nel vuoto in metropolitana o al bar. Marketer, fate attenzione! Il mercato dei contenuti, finora limitato a testi e immagini 2D, si sta spostando in una dimensione completamente nuova: lo 'Spatial Computing' (Informatica Spaziale). È il momento di iniziare a pensare a come integrare elementi di 'interazione 3D' già dalle promozioni del prossimo mese. Questo è l'ultimo momento d'oro per cavalcare questa gigantesca onda!
+
 > _(Reazione del lettore: "Wow, devo davvero prepararmi. Non vedo l'ora di leggere la newsletter della prossima settimana!" \*Clicca su Iscriviti\* 👇)_
 
 ---

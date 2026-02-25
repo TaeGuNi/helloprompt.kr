@@ -42,7 +42,7 @@ Usala quando hai bisogno di un'immagine d'impatto nel minor tempo possibile.
 > **Ruolo:** Sei un esperto di arte digitale 3D e design minimalista.
 > **Richiesta:** Crea un prompt per un'illustrazione in stile Low Poly, utilizzando poligoni semplificati che ricordino un origami o un modello di Minecraft per il soggetto `[Soggetto]`.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Esperto)
 

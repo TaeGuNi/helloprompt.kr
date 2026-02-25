@@ -9,7 +9,7 @@ tags: ["Internet", "Archiving", "History", "Web"]
 
 - **🎯 Consigliato per:** Ricercatori, Content Curator, Archivisti Digitali, Marketer
 - **⏱️ Tempo richiesto:** 1 ora → ridotto a 1 minuto
-- **🤖 Modelli consigliati:** Modelli capaci di gestire contesti lunghi (consigliati Claude 3.5 Sonnet, Gemini 1.5 Pro)
+- **🤖 Modelli consigliati:** Modelli capaci di gestire contesti lunghi (consigliati Claude 3.5 Sonnet, Gemini 2.5 Pro)
 
 - ⭐ **Difficoltà:** ⭐⭐⭐☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -40,7 +40,7 @@ Usa questa versione quando hai bisogno di salvare rapidamente solo il testo prin
 > **Ruolo:** Sei un "Archivista Digitale" esperto.
 > **Compito:** Dal testo confuso della pagina web fornito di seguito, rimuovi tutto il rumore come menu o pubblicità e formatta solo il "contenuto principale" contenente le informazioni utili in un Markdown pulito.
 
-<br>
+\
 
 ### 🥇 Versione Pro
 
@@ -91,7 +91,7 @@ Brilla in modo particolare sulle pagine in cui i normali web clipper falliscono 
   - R: Funzionano entrambi. Tuttavia, per le moderne pagine a rendering dinamico, copiare il testo dopo aver selezionato tutto (Ctrl+A) direttamente dalla schermata del browser è molto più vantaggioso. Riduce enormemente il rumore degli script nascosti e passa all'IA esclusivamente il testo fondamentale.
 
 - **D: Il contenuto è troppo lungo e il modello IA mi restituisce un errore. Cosa posso fare?**
-  - R: Raschiare un'intera pagina web può far schizzare alle stelle il conteggio dei token. Ti raccomandiamo vivamente di utilizzare modelli con una finestra di contesto e un limite elevato per i token di input (ad es. Claude 3.5 Sonnet, Gemini 1.5 Pro).
+  - R: Raschiare un'intera pagina web può far schizzare alle stelle il conteggio dei token. Ti raccomandiamo vivamente di utilizzare modelli con una finestra di contesto e un limite elevato per i token di input (ad es. Claude 3.5 Sonnet, Gemini 2.5 Pro).
 
 ---
 
@@ -131,7 +131,7 @@ tags: ["Contenuti dinamici", "SPA", "Piattaforme chiuse"]
 
 Con l'aumento dei contenuti dinamici, delle SPA (Single Page Application) e delle piattaforme chiuse, preservare la storia dell'open web è sempre più difficile per gli archivisti digitali.
 
-> "Stiamo generando la maggior parte dei dati in questo momento, ma viviamo in un'epoca in cui stiamo perdendo dati alla massima velocità."
+"Stiamo generando la maggior parte dei dati in questo momento, ma viviamo in un'epoca in cui stiamo perdendo dati alla massima velocità."
 
 ... (Omissis: il corpo principale è logicamente mantenuto intatto e raffinato senza compromettere minimamente il contesto originale) ...
 ```

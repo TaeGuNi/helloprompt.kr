@@ -42,7 +42,7 @@ Nutzen Sie diese Variante, wenn Sie sofort eine schnelle Idee brauchen.
 > **Rolle:** Du bist ein kreativer Spiel- und Freizeitpädagoge.
 > **Anfrage:** Entwickle eine kurze Gamification-Strategie, um ein unordentliches Kinderzimmer in nur 10 Minuten aufzuräumen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

@@ -44,7 +44,7 @@ Perfect for when you just need a rapid grasp of the core context without any com
 >
 > `[Paste the meeting transcript here]`
 
-<br>
+\
 
 ### 🥇 Pro Version
 

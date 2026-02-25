@@ -42,7 +42,7 @@ En el ecosistema blockchain, un "bug" es sinónimo de "bancarrota" irreversible.
 > **Rol:** Eres un desarrollador senior de smart contracts en blockchain.
 > **Tarea:** Escribe el código en Solidity para un **token ERC-20** que se ejecute de manera segura en la mainnet de Ethereum. El nombre del token es 'PizzaCoin', el símbolo es 'PZ' y el suministro total es de 1 millón. Debes heredar obligatoriamente de la última versión de la biblioteca `OpenZeppelin` para maximizar la seguridad.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Auditoría de Seguridad Hardcore y Optimización Extrema)
 

@@ -42,7 +42,7 @@ tags: ["Claude", "클로드", "AI코딩", "LLM", "개발자"]
 > **Código:** `[Cientos de líneas de código espagueti indescifrable o expresiones regulares complejas]`
 > **Instrucción:** "Explícame paso a paso, usando metáforas que un desarrollador junior pueda entender, qué papel juega este código en todo el sistema y cómo funciona internamente. Además, indícame si hay posibles errores o cuellos de botella en el rendimiento."
 
-<br>
+\
 
 ### 🥇 Versión Pro (Prototipado de UI con Artifacts)
 

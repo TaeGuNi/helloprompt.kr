@@ -39,7 +39,7 @@ Use this for a quick, high-level overview of potential risks in your current set
 > **Role:** You are a strict cybersecurity and privacy expert.
 > **Task:** Analyze the privacy risks of my current smart devices: `[List your smart devices, e.g., Alexa, Ring doorbell, smart lights]`. Identify the top 3 vulnerabilities and suggest immediate fixes.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

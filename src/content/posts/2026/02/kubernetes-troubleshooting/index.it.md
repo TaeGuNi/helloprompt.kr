@@ -47,7 +47,7 @@ Utilizza questa versione quando hai bisogno di capire intuitivamente il signific
 > **Richiesta:**
 > Riassumi in modo estremamente semplice, dal punto di vista di uno sviluppatore, qual è la causa principale di questo errore (es. memoria insufficiente, errore di permessi, timeout di rete). Suggeriscimi anche le 2 azioni immediate da intraprendere per verificare il problema.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Ripristino Guasti e Report SRE)
 
@@ -118,14 +118,14 @@ Se fornisci all'IA solo frammenti dei log dell'applicazione in questa situazione
 
 - **Situazione:** Incolla gli eventi in fondo a `kubectl describe pod` nel prompt.
 - **Risposta dell'IA:**
-  > "L'analisi dei log indica un fallimento di scheduling dovuto a `Insufficient cpu`. Il nodo worker nel cluster non ha abbastanza CPU allocabile disponibile.
-  >
+"L'analisi dei log indica un fallimento di scheduling dovuto a `Insufficient cpu`. Il nodo worker nel cluster non ha abbastanza CPU allocabile disponibile.
+
   > **[Azione Immediata]**
-  > Per ripristinare il servizio ora, riduci temporaneamente i `resources.requests.cpu` di quel pod da 500m a 200m:
-  > `kubectl set resources deployment <nome-deploy> -c <nome-container> --requests=cpu=200m`
-  >
+Per ripristinare il servizio ora, riduci temporaneamente i `resources.requests.cpu` di quel pod da 500m a 200m:
+`kubectl set resources deployment <nome-deploy> -c <nome-container> --requests=cpu=200m`
+
   > **[Misure Preventive]**
-  > Configura e abilita il Cluster Autoscaler per permettere l'aggiunta automatica di nodi durante i picchi di traffico."
+Configura e abilita il Cluster Autoscaler per permettere l'aggiunta automatica di nodi durante i picchi di traffico."
 - **Risultato:** Pod di nuovo operativo in 1 minuto tramite un semplice copia/incolla. (Problema Risolto ✅)
 
 ---

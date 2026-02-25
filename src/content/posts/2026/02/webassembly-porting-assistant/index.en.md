@@ -48,7 +48,7 @@ Use this when you want to quickly convert and test simple computational function
 > **Code:**
 > `[Paste your C++/Go/Rust code here]`
 
-<br>
+\
 
 ### 🥇 Pro Version
 

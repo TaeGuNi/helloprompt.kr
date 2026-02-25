@@ -11,7 +11,7 @@ image: ""
 
 - **🎯 Recommandé pour :** Développeurs Frontend, Ingénieurs QA, Ingénieurs en Automatisation
 - **⏱️ Temps gagné :** 2 heures → 5 minutes
-- **🤖 Modèles recommandés :** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (via intégration MCP)
+- **🤖 Modèles recommandés :** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (via intégration MCP)
 
 - ⭐ **Difficulté :** ⭐⭐⭐⭐☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -40,7 +40,7 @@ Utilisez ce prompt lorsque vous avez besoin d'une analyse rapide de la page actu
 > **Rôle :** Tu es un `[Ingénieur Frontend Senior]`.
 > **Tâche :** Utilise l'outil Chrome DevTools MCP pour `[inspecter les erreurs de la console sur la page actuelle]` et propose une solution pour résoudre les avertissements React.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Expert)
 

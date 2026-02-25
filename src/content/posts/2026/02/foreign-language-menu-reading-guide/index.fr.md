@@ -48,7 +48,7 @@ Utilisez cette version quand vous êtes pressé et que le serveur attend votre c
 > **Rôle :** Tu es un critique gastronomique et un expert mondial en ingrédients.
 > **Requête :** Décris-moi les ingrédients et le goût du plat `[Nom du plat]`. Est-ce très épicé ?
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

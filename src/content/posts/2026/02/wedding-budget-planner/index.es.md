@@ -42,7 +42,7 @@ La preparación de una boda es una serie interminable de "elecciones" que rápid
 > **Rol:** Eres un `[Planificador de Bodas Profesional]` con 10 años de experiencia y asesor financiero.
 > **Solicitud:** Predice y ayúdame a ahorrar en todos los costos que ocurren en el proceso de preparación de una boda, desde el alquiler del vestido hasta la luna de miel.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -101,7 +101,7 @@ Planear una boda puede ser abrumador financieramente porque la industria está d
 
 ### ❌ Before (Entrada)
 
-> ¿Es posible hacer una boda con 30,000 dólares? Hazme un presupuesto.
+¿Es posible hacer una boda con 30,000 dólares? Hazme un presupuesto.
 
 ### ✅ After (Resultado)
 
@@ -110,9 +110,9 @@ Planear una boda puede ser abrumador financieramente porque la industria está d
 
 | Categoría                         | Presupuesto Asignado | Detalles y Costos Ocultos (¡Atención!)                                                                                                                                           |
 | :-------------------------------- | :------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Banquete y Salón**              | $14,000              | Comida (200 * $60) + Alquiler del lugar ($2,000). <br>⚠️ *Cuidado: Penalización si asisten menos de los 200 invitados garantizados. Bebidas alcohólicas suelen cobrarse extra.\* |
-| **Fotografía/Vestido/Maquillaje** | $3,500               | Paquete estándar. <br>⚠️ _Costos ocultos: Propinas para asistentes ($150-$200), tarifa por prueba de vestido, recargo por empezar muy temprano en la mañana._                    |
-| **Fotos/Video del Evento**        | $2,000               | Cobertura de ceremonia y recepción. <br>⚠️ _Verificar: Tarifa para comprar los archivos fotográficos originales (RAW) y viáticos del equipo si es fuera de la ciudad._           |
+| **Banquete y Salón**              | $14,000              | Comida (200 * $60) + Alquiler del lugar ($2,000). \⚠️ *Cuidado: Penalización si asisten menos de los 200 invitados garantizados. Bebidas alcohólicas suelen cobrarse extra.\* |
+| **Fotografía/Vestido/Maquillaje** | $3,500               | Paquete estándar. \⚠️ _Costos ocultos: Propinas para asistentes ($150-$200), tarifa por prueba de vestido, recargo por empezar muy temprano en la mañana._                    |
+| **Fotos/Video del Evento**        | $2,000               | Cobertura de ceremonia y recepción. \⚠️ _Verificar: Tarifa para comprar los archivos fotográficos originales (RAW) y viáticos del equipo si es fuera de la ciudad._           |
 | **Luna de Miel**                  | $6,000               | Vuelos, hotel y viáticos. (Suficiente para el Caribe o Sudeste Asiático, presupuesto ajustado para Europa).                                                                      |
 | **Anillos y Detalles**            | $2,500               | Alianzas y recuerdos para la familia. (Se recomienda simplificar los recuerdos).                                                                                                 |
 | **Fondo de Reserva**              | $2,000               | Invitaciones, tarifa del DJ/oficiante, gastos imprevistos de última hora.                                                                                                        |

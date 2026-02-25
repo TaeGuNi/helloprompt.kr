@@ -37,7 +37,7 @@ Usalo per cogliere rapidamente i concetti chiave di un documento voluminoso. (Da
 > **Ruolo:** Sei un Senior Data Analyst.
 > **Richiesta:** Leggi tutti i documenti allegati e riassumi i 5 insight chiave più importanti.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 

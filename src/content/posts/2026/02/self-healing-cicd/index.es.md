@@ -44,7 +44,7 @@ Este es el prompt central del agente de IA que se invoca en el pipeline CI (Job 
 > **Rol:** Eres un `[Desarrollador Frontend Senior]`.
 > **Tarea:** Revisa el registro de errores proporcionado y corrige única, rápida y precisamente los `[errores de linting y errores tipográficos]` del código, devolviendo el código completo corregido.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Agente de Autocuración Seguro y Avanzado)
 

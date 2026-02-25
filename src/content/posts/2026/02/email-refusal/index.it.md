@@ -44,7 +44,7 @@ Ideale da copiare e incollare per declinare rapidamente un invito a un meeting i
 > **Ruolo (Role):** Sei un `[esperto di comunicazione aziendale]`.
 > **Azione (Task):** Scrivi una bozza di email per rifiutare cortesemente una `[proposta di partnership / cold email]` ricevuta da un'azienda esterna. Il motivo del rifiuto è la `[mancanza di risorse interne al momento / esaurimento del budget per quest'anno]`.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Pro Version)
 

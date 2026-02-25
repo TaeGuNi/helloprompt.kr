@@ -42,7 +42,7 @@ Use esta versão quando precisar apenas de uma explicação rápida e visual.
 > **Papel:** Você é um `[Comunicador Científico]`.
 > **Solicitação:** Explique o conceito de `[Inserir Conceito]` usando uma analogia simples do dia a dia e um pequeno diagrama em formato de texto.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

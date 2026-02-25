@@ -47,7 +47,7 @@ Solucionar problemas en un entorno de Kubernetes (K8s) siempre es desconcertante
 > **Tarea:**
 > Resume de forma muy sencilla, desde la perspectiva de un desarrollador, cuál es la causa principal de este error (ej: falta de memoria, error de permisos, timeout de red, etc.). Además, indícame 2 puntos clave que deba revisar inmediatamente.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -118,14 +118,14 @@ En estos casos, si solo le proporcionas a la IA un fragmento de los logs del con
 
 - **Situación:** Se copian y pegan los eventos inferiores arrojados por `kubectl describe pod` directamente en el prompt.
 - **Respuesta de la IA:**
-  > "El análisis de los eventos revela un fallo de programación (scheduling failure) debido a `Insufficient cpu`. Actualmente, no existe suficiente cuota de CPU asignable en el pool de nodos worker del clúster para acomodar este Pod.
-  >
+"El análisis de los eventos revela un fallo de programación (scheduling failure) debido a `Insufficient cpu`. Actualmente, no existe suficiente cuota de CPU asignable en el pool de nodos worker del clúster para acomodar este Pod.
+
   > **[Acción Inmediata]**
-  > Para restaurar el servicio con urgencia, reduce temporalmente las peticiones de CPU de dicho Pod en el objeto Deployment de `500m` a `200m`:
-  > `kubectl set resources deployment <nombre-deploy> -c <nombre-contenedor> --requests=cpu=200m`
-  >
+Para restaurar el servicio con urgencia, reduce temporalmente las peticiones de CPU de dicho Pod en el objeto Deployment de `500m` a `200m`:
+`kubectl set resources deployment <nombre-deploy> -c <nombre-contenedor> --requests=cpu=200m`
+
   > **[Medida Preventiva]**
-  > Para absorber orgánicamente futuros picos de tráfico y demanda de recursos, es imperativo activar e instrumentar el componente Cluster Autoscaler, permitiendo el aprovisionamiento elástico y dinámico de nuevos nodos."
+Para absorber orgánicamente futuros picos de tráfico y demanda de recursos, es imperativo activar e instrumentar el componente Cluster Autoscaler, permitiendo el aprovisionamiento elástico y dinámico de nuevos nodos."
 - **Resultado:** Con solo copiar, auditar y pegar un único comando, el Pod inicia su secuencia de arranque con éxito en apenas 1 minuto. (Incidente resuelto ✅)
 
 ---

@@ -43,7 +43,7 @@ Utilisez cette version pour obtenir rapidement une recommandation légère et fa
 > **Contexte :** J'ai de la vodka, de la limonade et du jus d'orange dans mon frigo.
 > **Tâche :** Utilise ces ingrédients pour me donner les proportions d'un cocktail maison léger et sucré. (Exemple : proportions basées sur un verre à shot ou une cuillère à soupe).
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 
@@ -102,17 +102,17 @@ De plus, la contrainte `'N'utiliser aucun ingrédient non listé'` est vitale. S
 
 ### ❌ Avant (Le mélange hasardeux et raté)
 
-> Mélanger au pifomètre un fond de whisky avec du vieux jus d'orange.
+Mélanger au pifomètre un fond de whisky avec du vieux jus d'orange.
 > **Résultat :** "Beurk, c'est fade, amer et ça n'a aucun sens." (Le verre finit dans l'évier, et vous ne gardez que le mal de crâne 🤕)
 
 ### ✅ Après (La prescription de l'IA Mixologue)
 
 > **IA :** "Je vous propose votre cocktail signature exclusif, le **[Midnight Oasis]**."
->
-> - **Proportions :** 1 verre à shot de Whisky + 2 verres à shot de Jus d'orange + 1 verre à shot de Ginger Ale
-> - **Préparation :** Dans un verre rempli de glaçons, versez d'abord le whisky et le jus, puis remuez doucement 5 fois avec une baguette chinoise. Versez lentement le Ginger Ale à la toute fin pour préserver le pétillant.
-> - **Storytelling :** À la fin d'une longue journée épuisante, ce verre agit comme une douce oasis rafraîchissante au milieu du désert de votre quotidien.
->
+
+- **Proportions :** 1 verre à shot de Whisky + 2 verres à shot de Jus d'orange + 1 verre à shot de Ginger Ale
+- **Préparation :** Dans un verre rempli de glaçons, versez d'abord le whisky et le jus, puis remuez doucement 5 fois avec une baguette chinoise. Versez lentement le Ginger Ale à la toute fin pour préserver le pétillant.
+- **Storytelling :** À la fin d'une longue journée épuisante, ce verre agit comme une douce oasis rafraîchissante au milieu du désert de votre quotidien.
+
 > **Résultat :** "Wow, c'est encore meilleur et plus équilibré que dans un bar !" (L'ambiance et le goût sont au rendez-vous 🍹)
 
 ---

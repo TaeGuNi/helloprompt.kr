@@ -43,7 +43,7 @@ Use this when you need a fast, reliable result without overthinking the technica
 >
 > **Request:** Generate a high-quality product photo of a [Your Product] using professional studio lighting on a clean, solid background.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Configuration)
 

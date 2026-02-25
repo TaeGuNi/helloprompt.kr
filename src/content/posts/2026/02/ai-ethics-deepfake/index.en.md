@@ -38,7 +38,7 @@ Use this when you need a quick ethical assessment of an AI tool or use case.
 > **Role:** You are a Tech Ethicist.
 > **Task:** Analyze the ethical implications of `[Specific AI Use Case]`. Outline the top 3 risks regarding user consent and privacy.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

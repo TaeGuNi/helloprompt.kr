@@ -43,7 +43,7 @@ Nutzen Sie diese Version, wenn Sie nur schnell Ihren emotionalen Zustand und die
 > **Aufgabe:** Lies meinen folgenden Tagebucheintrag. Beschreibe das „Wetter“ meiner heutigen Emotionen und gib mir ein paar warme, tröstende Worte mit auf den Weg.
 > **Tagebucheintrag:** `[Heutiger Text]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

@@ -40,14 +40,14 @@ Espere um minuto! No momento em que você copia o código de resolução, sua ca
 Use este prompt básico quando estiver completamente travado e precisar apenas de um direcionamento inicial.
 
 > **Função (Role):** Você é um examinador sênior de testes de código de uma grande empresa de tecnologia e um especialista em algoritmos.
-> 
+
 > **Tarefa (Task):** Leia o problema de algoritmo abaixo e explique apenas a ideia central e a abordagem necessária para resolvê-lo.
-> 
+
 > **Problema:** `[Cole aqui o enunciado do problema do LeetCode/HackerRank/Beakjoon]`
-> 
+
 > **Restrições (Constraints):** Nunca forneça o código final com a resposta ou a lógica completa. Me dê apenas dicas sobre qual estrutura de dados seria mais vantajosa do ponto de vista da complexidade de tempo (Time Complexity).
 
-<br>
+\
 
 ### 🥇 Versão Pro (Coaching Passo a Passo e Code Review)
 

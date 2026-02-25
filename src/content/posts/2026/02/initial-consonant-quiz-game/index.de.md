@@ -42,7 +42,7 @@ Verwenden Sie diesen Prompt, wenn Sie schnell und unkompliziert loslegen möchte
 > **Rolle:** Du bist ein fröhlicher Kindergartenlehrer und Quizmaster.
 > **Aufgabe:** Ich möchte mit meinem Kind ein Anfangsbuchstaben-Quiz spielen. Bitte gib mir 5 einfache Tier-Begriffe und kindgerechte Hinweise dazu.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 
@@ -73,13 +73,13 @@ Nutzen Sie diesen detaillierten Prompt für maßgeschneiderte und interaktive Qu
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 Dieser Prompt ist ein echter Lebensretter für lange Autofahrten oder Wartezeiten im Restaurant. Anstatt dem Kind einfach ein Smartphone in die Hand zu drücken, fördern Sie die Interaktion und das gemeinsame Nachdenken. Der entscheidende Trick in der Pro-Version ist die **Trennung von Frage und Antwort**. Dadurch können Sie als Elternteil selbst mitraten oder sich die Spannung bewahren, während Sie das Quiz moderieren. Wenn Sie das Thema später variieren (z.B. von 'Tiere' zu 'Essen' oder 'Berufe'), entsteht in Sekunden ein völlig neues Spiel!
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q: Funktioniert das auch mit der kostenlosen Version von ChatGPT?**
   - A: Absolut! Da es sich um grundlegende Textgenerierung handelt, sind kostenlose Modelle wie ChatGPT (GPT-3.5/GPT-4o-mini) oder Claude 3 Haiku dafür perfekt geeignet.

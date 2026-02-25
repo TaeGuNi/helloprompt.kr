@@ -42,7 +42,7 @@ Use this when you need a quick, high-level overview.
 > **Role:** You are a Sleep Medicine Expert and a Behavioral Psychologist specializing in CBT-I (Cognitive Behavioral Therapy for Insomnia).
 > **Request:** Analyze my daily routine and sleep environment to provide a customized, actionable guide to overcoming my insomnia.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 
@@ -100,7 +100,7 @@ This prompt is incredibly effective because it leverages the principles of CBT-I
 
 ### ❌ Before (Input)
 
-> "Tell me how to sleep well."
+"Tell me how to sleep well."
 
 ### ✅ After (Result)
 

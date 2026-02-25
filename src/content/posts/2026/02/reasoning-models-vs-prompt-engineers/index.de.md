@@ -48,7 +48,7 @@ Nutzen Sie diese Variante, wenn Sie schnell ein auf den Punkt gebrachtes Ergebni
 > **Aufgabe:** Liefere die optimale Lösung für `[zu lösendes Problem]`.
 > **Einschränkungen:** Erkläre den Prozess nicht langatmig, sondern präsentiere ausschließlich das Endergebnis im `[Ausgabeformat]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten)
 

@@ -43,7 +43,7 @@ Nutzen Sie diesen Ansatz für schnelle, unkomplizierte Ergebnisse ohne großen S
 > **Rolle:** Du bist ein professioneller Fotograf und Konzeptkünstler.
 > **Aufgabe:** Generiere einen Bild-Prompt aus der Froschperspektive (Low Angle), der die überwältigende Größe und Würde des Motivs betont.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Prompt)
 

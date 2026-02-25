@@ -44,7 +44,7 @@ En este artículo, presentaremos prompts optimizados que permitirán a cualquier
 > **Rol:** Eres un desarrollador frontend Senior experto en WebGPU.
 > **Tarea:** Escribe el ejemplo de código HTML/JS más minimalista para ejecutar el modelo Llama-3-8B en el navegador utilizando la biblioteca `@mlc-ai/web-llm`. Aplica el método CDN.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

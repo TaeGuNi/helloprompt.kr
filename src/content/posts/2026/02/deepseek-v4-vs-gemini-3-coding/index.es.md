@@ -62,7 +62,7 @@ Estos son los prompts optimizados para extraer el máximo rendimiento de ambos m
 > **Rol:** Eres un `[Desarrollador Backend Senior]`.
 > **Tarea:** Analiza el siguiente código y refactorízalo centrándote en solucionar `[vulnerabilidades de seguridad y fugas de memoria]`.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

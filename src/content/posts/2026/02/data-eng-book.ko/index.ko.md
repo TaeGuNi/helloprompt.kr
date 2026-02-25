@@ -38,7 +38,7 @@ tags: ["data-engineering", "books", "opensource"]
 > **역할:** 너는 시니어 데이터 엔지니어 및 '데이터 엔지니어링 북'의 저자야.
 > **요청:** `[데이터 소스]`에서 데이터를 수집하여 `[목적지]`로 적재하는 파이프라인 아키텍처를 오픈소스 기반으로 추천해줘.
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 
@@ -97,11 +97,11 @@ tags: ["data-engineering", "books", "opensource"]
 
 ### ❌ Before (입력)
 
-> "AI 학습용 데이터 파이프라인 어떻게 만들어야 해?"
+"AI 학습용 데이터 파이프라인 어떻게 만들어야 해?"
 
 ### ✅ After (결과)
 
-> "Apache Kafka를 통한 실시간 수집, Apache Iceberg를 활용한 확장성 있는 저장, Apache Spark 중심의 분산 처리, 그리고 Airflow 기반의 파이프라인 오케스트레이션을 결합한 모던 데이터 스택 아키텍처를 제안합니다. 특히 수집 직후 Great Expectations를 활용한 데이터 품질 검증(Data Quality Check) 파이프라인을 추가하여 모델 학습의 안정성을 보장합니다."
+"Apache Kafka를 통한 실시간 수집, Apache Iceberg를 활용한 확장성 있는 저장, Apache Spark 중심의 분산 처리, 그리고 Airflow 기반의 파이프라인 오케스트레이션을 결합한 모던 데이터 스택 아키텍처를 제안합니다. 특히 수집 직후 Great Expectations를 활용한 데이터 품질 검증(Data Quality Check) 파이프라인을 추가하여 모델 학습의 안정성을 보장합니다."
 
 ---
 

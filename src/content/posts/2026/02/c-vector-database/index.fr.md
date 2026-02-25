@@ -9,7 +9,7 @@ tags: ["C", "Open Source", "Database", "AI"]
 
 - **🎯 Recommandé pour :** Développeurs embarqués, Ingénieurs système C/C++, Architectes IA Edge
 - **⏱️ Temps gagné :** De 5 heures de recherche et codage → à 1 minute
-- **🤖 Modèles recommandés :** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 Modèles recommandés :** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **Difficulté :** ⭐⭐⭐⭐☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -38,7 +38,7 @@ Utilisez cette version pour tester rapidement le squelette de la logique princip
 > **Rôle :** Tu es un `[Ingénieur Système Embarqué Senior]`.
 > **Tâche :** Rédige le code d'une `[base de données vectorielle Header-only]` en pur langage C, sans aucune dépendance. Il est impératif d'inclure une fonction de recherche utilisant la similarité cosinus.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

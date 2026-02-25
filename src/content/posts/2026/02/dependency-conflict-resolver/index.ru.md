@@ -48,7 +48,7 @@ tags: [AI, Node.js, npm, Debugging]
 > **package.json:**
 > `[Вставьте содержимое package.json]`
 
-<br>
+\
 
 ### 🥇 PRO-версия (Pro Version)
 

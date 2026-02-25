@@ -42,7 +42,7 @@ Verwenden Sie diese Variante, wenn Sie schnell und unkompliziert eine Übersicht
 > **Rolle:** Du bist ein professioneller Drohnenfotograf und Environment Concept Artist.
 > **Anfrage:** Erstelle mir eine detaillierte Landschaftsaufnahme aus der Vogelperspektive. Nutze den Kamerawinkel "Drone Shot", um das gesamte Areal von weit oben zu zeigen.
 
-<br>
+\
 
 ### 🥇 Pro-Version (Experten-Prompting)
 

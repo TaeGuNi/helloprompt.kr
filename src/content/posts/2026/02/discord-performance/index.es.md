@@ -40,7 +40,7 @@ En lugar de leer densos _whitepapers_, hoy usaremos un **Prompt de Ingeniería E
 > **Rol:** Eres un Arquitecto de Sistemas de nivel Staff.
 > **Tarea:** Explícame cómo `[Empresa, ej: Discord]` resolvió el problema de `[Problema, ej: cuello de botella en la base de datos]` y cuáles fueron las tecnologías clave que utilizaron.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 
@@ -105,24 +105,24 @@ Como ingenieros, a menudo nos enfrentamos a documentaciones técnicas abrumadora
 ### ✅ Después (Resultado estructurado por la IA)
 
 > **🔍 Análisis de Arquitectura: Discord**
->
+
 > **1. Cuello de Botella Principal:**
-> Sobrecarga extrema de concurrencia y degradación del rendimiento en la base de datos al manejar billones de mensajes. Esto se vio exacerbado por el problema de _Thundering Herd_ (miles de clientes consultando la API simultáneamente cuando ocurría una mención `@everyone` en servidores masivos).
->
+Sobrecarga extrema de concurrencia y degradación del rendimiento en la base de datos al manejar billones de mensajes. Esto se vio exacerbado por el problema de _Thundering Herd_ (miles de clientes consultando la API simultáneamente cuando ocurría una mención `@everyone` en servidores masivos).
+
 > **2. Solución Arquitectónica:**
->
-> - **Capa de Concurrencia:** Adopción del **Modelo de Actores** con Elixir/Erlang para gestionar procesos individuales (usuarios, servidores) que se comunican exclusivamente por mensajes, previniendo _deadlocks_.
-> - **Capa de Datos:** Migración de Cassandra a **ScyllaDB** (C++) para aprovechar el _sharding_ por núcleo y eliminar las interrupciones por recolección de basura (GC).
-> - **Capa de Servicios:** Desarrollo de microservicios veloces en **Rust** para aplicar coalescencia de solicitudes (Request Coalescing).
->
+
+- **Capa de Concurrencia:** Adopción del **Modelo de Actores** con Elixir/Erlang para gestionar procesos individuales (usuarios, servidores) que se comunican exclusivamente por mensajes, previniendo _deadlocks_.
+- **Capa de Datos:** Migración de Cassandra a **ScyllaDB** (C++) para aprovechar el _sharding_ por núcleo y eliminar las interrupciones por recolección de basura (GC).
+- **Capa de Servicios:** Desarrollo de microservicios veloces en **Rust** para aplicar coalescencia de solicitudes (Request Coalescing).
+
 > **3. Impacto y Trade-offs:**
-> Discord asumió una mayor complejidad operativa al mantener y orquestar múltiples lenguajes especializados (Elixir, Rust, C++), pero a cambio lograron una latencia predecible, mitigaron las pausas del servidor y redujeron drásticamente la carga de consultas repetitivas en la base de datos.
->
+Discord asumió una mayor complejidad operativa al mantener y orquestar múltiples lenguajes especializados (Elixir, Rust, C++), pero a cambio lograron una latencia predecible, mitigaron las pausas del servidor y redujeron drásticamente la carga de consultas repetitivas en la base de datos.
+
 > **4. Lecciones Prácticas:**
->
-> - Evita la memoria compartida en sistemas de alto tráfico; prefiere el paso de mensajes asíncronos.
-> - La recolección de basura (GC) es tu enemigo a escala de billones de eventos; el control manual de memoria con Rust o C++ es vital en estos niveles.
-> - Optimiza el cliente: A veces el cuello de botella está en el _frontend_ (Discord reescribió componentes clave de React Native a Kotlin nativo para acelerar el renderizado en Android).
+
+- Evita la memoria compartida en sistemas de alto tráfico; prefiere el paso de mensajes asíncronos.
+- La recolección de basura (GC) es tu enemigo a escala de billones de eventos; el control manual de memoria con Rust o C++ es vital en estos niveles.
+- Optimiza el cliente: A veces el cuello de botella está en el _frontend_ (Discord reescribió componentes clave de React Native a Kotlin nativo para acelerar el renderizado en Android).
 
 ---
 

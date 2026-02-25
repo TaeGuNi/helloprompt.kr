@@ -47,7 +47,7 @@ Utilisez cette version lorsque vous avez simplement besoin d'un aperçu rapide d
 >
 > **Tâche :** À partir des données ci-dessus, résume les 5 tâches les plus importantes que j'ai accomplies cette semaine, par ordre de priorité.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 
@@ -112,32 +112,32 @@ Petite astuce pratique : j'exécute ce prompt tous les vendredis à 16h50. Je ra
 
 ### ❌ Avant (Un rapport classique rédigé à la main)
 
-> Cette semaine, j'ai corrigé un bug dans le module de paiement du projet A. Jeudi, j'ai eu une réunion avec le responsable de l'entreprise B et l'ambiance était plutôt bonne. La semaine prochaine, je finirai de corriger les bugs restants et je m'occuperai du suivi de la réunion.
+Cette semaine, j'ai corrigé un bug dans le module de paiement du projet A. Jeudi, j'ai eu une réunion avec le responsable de l'entreprise B et l'ambiance était plutôt bonne. La semaine prochaine, je finirai de corriger les bugs restants et je m'occuperai du suivi de la réunion.
 
 _(Évaluation : Manque de professionnalisme. L'absence de résultats concrets ou de chiffres empêche de mesurer la qualité et l'impact du travail.)_
 
 ### ✅ Après (Le rapport généré par Gemini)
 
 > **[Rapport d'activité hebdomadaire - 2ème semaine de février]**
->
+
 > **✅ Réalisations clés**
->
-> - **Correction du bug du module de paiement (Projet A) :** Amélioration du taux de réussite des paiements de **98,5 % → 99,9 %**.
-> - **Réunion de partenariat avec l'entreprise B :** Validation des spécifications clés de l'intégration API et conclusion positive des échanges (Signature du protocole d'accord prévue la semaine prochaine).
->
+
+- **Correction du bug du module de paiement (Projet A) :** Amélioration du taux de réussite des paiements de **98,5 % → 99,9 %**.
+- **Réunion de partenariat avec l'entreprise B :** Validation des spécifications clés de l'intégration API et conclusion positive des échanges (Signature du protocole d'accord prévue la semaine prochaine).
+
 > **🚧 Projets en cours**
->
-> - Rédaction de la première version du guide d'intégration API pour l'entreprise B (Date d'achèvement prévue : 18/02).
->
+
+- Rédaction de la première version du guide d'intégration API pour l'entreprise B (Date d'achèvement prévue : 18/02).
+
 > **🚨 Problèmes et Risques**
->
-> - **Augmentation des coûts d'infrastructure serveur :** La hausse récente du trafic nécessite une augmentation de la capacité de l'instance de la base de données (Demande d'approbation budgétaire à prévoir la semaine prochaine).
->
+
+- **Augmentation des coûts d'infrastructure serveur :** La hausse récente du trafic nécessite une augmentation de la capacité de l'instance de la base de données (Demande d'approbation budgétaire à prévoir la semaine prochaine).
+
 > **📅 Plan d'action pour la semaine prochaine**
->
-> - Signature du protocole d'accord (MOU) avec l'entreprise B et examen du contrat.
-> - Déploiement d'un patch pour les bugs mineurs restants du module de paiement (erreurs d'affichage UI).
-> - Première recherche de solutions pour optimiser les coûts d'infrastructure.
+
+- Signature du protocole d'accord (MOU) avec l'entreprise B et examen du contrat.
+- Déploiement d'un patch pour les bugs mineurs restants du module de paiement (erreurs d'affichage UI).
+- Première recherche de solutions pour optimiser les coûts d'infrastructure.
 
 _(Évaluation : Mise en valeur claire des performances basées sur des données chiffrées, signalement proactif des problèmes et planification structurée pour la semaine à venir, ce qui maximise la confiance du manager.)_
 

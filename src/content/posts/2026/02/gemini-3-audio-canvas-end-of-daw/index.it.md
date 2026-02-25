@@ -48,7 +48,7 @@ Utilizza questo prompt per modificare rapidamente un suono in una sezione specif
 > **Ruolo:** Sei un sound designer esperto nel genere `[Genere musicale]`.
 > **Task:** Rimuovi `[Strumento/Suono specifico]` e sostituiscilo con `[Nuovo suono]` nel segmento che va da `[Minuto di inizio]` a `[Minuto di fine]` della traccia audio caricata.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

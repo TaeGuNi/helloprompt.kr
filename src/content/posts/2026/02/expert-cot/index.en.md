@@ -44,7 +44,7 @@ Use this when you need a quick logical breakdown without setting up a massive pr
 > **Role:** You are a meticulous `[Senior Project Manager]`.
 > **Task:** Solve the following `[Scheduling Problem]`. Before giving me the final answer, please think step-by-step and write down your reasoning process.
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -110,7 +110,7 @@ _AI Output:_
 "The project will take 10 days total (3+5+2). Since today is Monday, it will finish next Wednesday."
 _(Result: **Wrong**. It completely ignored the weekend rules and vacation variables, opting for simple, intuitive addition.)_
 
-<br>
+\
 
 ### ✅ After (Applying CoT Prompt)
 

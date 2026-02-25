@@ -43,7 +43,7 @@ Escribir a diario es uno de los hábitos más transformadores que puedes adquiri
 >
 > **Solicitud:** Ayúdame a construir el hábito de escribir. Crea una lista de 30 temas de escritura interesantes (con preguntas guía) adaptados a una persona interesada en `[Psicología y Productividad]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 
@@ -100,8 +100,8 @@ Al igual que en un entrenamiento físico, no puedes empezar levantando 100 kg el
 
 ### ❌ Before (Dependiendo de la fuerza de voluntad)
 
-> Día 1: Introducción sobre mí.
-> Día 2: Mmm... ¿debería escribir sobre el clima? (Abandono)
+Día 1: Introducción sobre mí.
+Día 2: Mmm... ¿debería escribir sobre el clima? (Abandono)
 
 ### ✅ After (Usando el Calendario de la IA)
 

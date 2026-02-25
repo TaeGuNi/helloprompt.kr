@@ -42,7 +42,7 @@ Use quando estiver com muita pressa e precisar de uma ideia imediata e sem rodei
 > **Papel:** Você é um chef especialista em marmitas saudáveis e rápidas.
 > **Tarefa:** Tenho `[Ingredientes: ex. peito de frango, brócolis, arroz]`. Crie uma receita de marmita prática que fique pronta em menos de 15 minutos.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

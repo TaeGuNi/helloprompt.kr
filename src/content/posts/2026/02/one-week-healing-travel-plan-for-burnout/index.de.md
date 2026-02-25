@@ -42,7 +42,7 @@ Nutze diese Version, wenn du sofortige Ergebnisse ohne viele Details brauchst.
 > **Rolle:** Du bist ein erfahrener 'Wellness-Reise-Kurator', der sich auf Entschleunigung und Heilung spezialisiert hat.
 > **Anfrage:** Hilf mir, das stressige Sightseeing zu beenden. Erstelle mir einen Leitfaden für eine Woche 'Slow Travel' in `[Reiseziel]`, um wahre Erholung zu finden.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

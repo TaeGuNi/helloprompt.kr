@@ -48,7 +48,7 @@ Verwenden Sie diesen Prompt für einen schnellen Übungsdurchlauf.
 > **Rolle:** Du bist ein akribischer HR-Manager.
 > **Anfrage:** Simuliere eine angespannte Gehaltsverhandlung. Ich werde Argumente für meine Gehaltserhöhung vorbringen, und du musst versuchen, diese innerhalb des Firmenbudgets abzuwehren. Zeige mir am Ende, wie ich meine Argumentation verbessern kann.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 
@@ -80,13 +80,13 @@ Verwenden Sie diesen detaillierten Prompt für eine realitätsnahe und anspruchs
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 In der Praxis scheitern die meisten Gehaltsverhandlungen nicht an mangelnder Leistung, sondern an mangelnder Vorbereitung. Dieser Simulator ist Ihr Sparringspartner. Als ich diesen Prompt zum ersten Mal vor einer echten Verhandlung genutzt habe, half er mir, die Standardausreden der HR-Abteilung ("Wir haben aktuell Budgetkürzungen") nicht als persönliches Nein, sondern als Teil des Spiels zu verstehen. Wenn Sie die Gegenargumente der KI erfolgreich abwehren können, wird Ihnen das echte Gespräch wie ein Kinderspiel vorkommen. Ein Geheimtipp: Lassen Sie die KI auch emotionale Manipulationen ("Wir sind doch eine Familie") simulieren, um Ihre emotionale Distanz und Sachlichkeit zu trainieren.
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q: Sollte ich bei der KI mein exaktes aktuelles Gehalt angeben?**
   - A: Nein, Sie können aus Datenschutzgründen auch fiktive, aber proportionale Zahlen (z.B. Basis 100) verwenden. Es geht primär um die Prozentpunkte und die Argumentationsstruktur.
@@ -99,7 +99,7 @@ In der Praxis scheitern die meisten Gehaltsverhandlungen nicht an mangelnder Lei
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🧬 Why it works?
 
 1.  **Rollenkonflikt (Role):** Durch die klare Zielvorgabe an den "HR-Manager", das Budget zu verteidigen, entsteht eine natürliche Reibung, die reale Verhandlungen perfekt imitiert.
 2.  **Strukturierte Leistungsdaten (Context):** Sie zwingen sich selbst dazu, Ihre Erfolge im Vorfeld konkret und messbar zu formulieren, bevor Sie verbal in den Ring steigen.
@@ -107,7 +107,7 @@ In der Praxis scheitern die meisten Gehaltsverhandlungen nicht an mangelnder Lei
 
 ---
 
-## 📊 증명: Before & After
+## 📊 Before & After
 
 ### ❌ Before (Appell an Emotionen)
 
@@ -127,7 +127,7 @@ HR-KI: "Ihre Zahlen sind beeindruckend, das bestreite ich nicht. Dennoch sind 10
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
 Eine Gehaltsverhandlung ist ein **'Deal'**, kein Betteln um Almosen. Wenn Sie von Ihrem Produkt (Ihrer Arbeitsleistung) überzeugt sind, sollten Sie den Preis dafür selbstbewusst und mit harten Fakten aushandeln.
 

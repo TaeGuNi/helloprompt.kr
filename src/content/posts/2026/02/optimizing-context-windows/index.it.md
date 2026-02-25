@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "optimizing-context-windows"]
 
 - **🎯 Consigliato per:** Sviluppatori AI, Ingegneri del Software, Architetti di Sistema
 - **⏱️ Tempo risparmiato:** Ore di latenza e centinaia di dollari → Risposte istantanee ed economiche
-- **🤖 Modello consigliato:** Tutti gli LLM con grandi finestre di contesto (GPT-4 Turbo, Claude 3 Opus, Gemini 1.5 Pro)
+- **🤖 Modello consigliato:** Tutti gli LLM con grandi finestre di contesto (GPT-4 Turbo, Claude 3 Opus, Gemini 2.5 Pro)
 
 - ⭐ **Difficoltà:** ⭐⭐⭐⭐☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -40,7 +40,7 @@ Usa questa struttura per query veloci e mirate, limitando le informazioni superf
 > **Contesto:** Ho un documento di 50 pagine, ma ti fornirò solo i `[3 paragrafi chiave]` rilevanti.
 > **Richiesta:** Basandoti ESCLUSIVAMENTE sui paragrafi forniti, rispondi alla `[Domanda dell'utente]`.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Pro Version)
 

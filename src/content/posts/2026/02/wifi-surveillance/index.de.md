@@ -44,7 +44,7 @@ Nutzen Sie diese Variante, wenn Sie sofortige Ergebnisse und grundlegende Abwehr
 > **Rolle:** Du bist ein `[Cyber-Sicherheitsexperte]`.
 > **Aufgabe:** Fasse die Gefahren der kürzlich stark diskutierten `[Überwachungstechnologie mittels WLAN-Sensing (CSI-Analyse)]` prägnant zusammen und nenne 3 sofort umsetzbare Schutzmaßnahmen für normale Privatpersonen.
 
-<br>
+\
 
 ### 🥇 Pro-Version (Für Experten & detaillierte Analysen)
 
@@ -114,7 +114,7 @@ Dieser Prompt geht weit über bloße Neugier hinaus. Er zwingt uns, die unzähli
 ### ❌ Vorher (Allgemeine Anfrage)
 
 > **Nutzer:** Man sagt, dass man Leute über WLAN ausspionieren kann. Wie kann ich das verhindern?
->
+
 > **KI:** Um sich vor WLAN-Hacking zu schützen, sollten Sie ein starkes Passwort für Ihren Router festlegen und darauf achten, sich nicht mit ungesicherten öffentlichen Netzwerken zu verbinden. (Viel zu oberflächlich, das eigentliche technische Problem des Signal-Sensings wird völlig ignoriert)
 
 ### ✅ Nachher (Mit dem Pro-Prompt)

@@ -48,7 +48,7 @@ Las acciones que damos por sentadas en nuestra cultura pueden ser vistas como un
 > **Rol:** Eres un `[Consultor Experto en Etiqueta Global]`.
 > **Solicitud:** Voy a viajar a `[País]`. Dime cuáles son los modales en la mesa más importantes y los errores culturales que un extranjero suele cometer allí al comer.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

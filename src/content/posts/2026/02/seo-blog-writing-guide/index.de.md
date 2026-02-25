@@ -52,7 +52,7 @@ Nutzen Sie diese Variante, wenn Sie die Sichtbarkeit eines bereits geschriebenen
 > **Mein Artikeltext:**
 > `[Fügen Sie hier den gesamten Text Ihres Artikels ein]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Perfektes SEO-Struktur-Design)
 

@@ -42,7 +42,7 @@ Usa questa versione quando hai bisogno di un'idea veloce per il menu senza tropp
 > **Ruolo:** Sei un esperto di cucina vegana e un evangelista del Meal Prep. Sei abile nel creare ricette che bilanciano gusto, nutrizione e facilità di conservazione.
 > **Richiesta:** Suggerisci ricette vegane nutrienti e il processo di preparazione (meal prep) per creare piatti deliziosi e sazianti, rigorosamente senza carne!
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 

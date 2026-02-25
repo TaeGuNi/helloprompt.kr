@@ -49,7 +49,7 @@ Ideal para quando você precisa verificar rapidamente apenas uma citação suspe
 > **Task (Tarefa):** Extraia todas as citações (`" "`) atribuídas a pessoas específicas no rascunho do artigo abaixo. Em seguida, faça uma validação cruzada utilizando buscas atualizadas na web para confirmar se a pessoa realmente fez tal declaração. Se não for possível encontrar a fonte original da fala, marque-a como 'Suspeita de Citação Falsa (Alucinação)'.
 > **Rascunho do Artigo:** `[Cole o conteúdo do seu artigo aqui]`
 
-<br>
+\
 
 ### 🥇 Versão Pro (Especialista)
 

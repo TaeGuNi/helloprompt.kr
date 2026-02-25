@@ -49,7 +49,7 @@ Utilizza questo prompt se hai poco tempo e ti serve subito una scheda pronta all
 > **Ruolo:** Sei un personal trainer esperto di bodybuilding con 20 anni di esperienza.
 > **Richiesta:** Crea una scheda di allenamento 'Total Body' di 3 giorni a settimana per un principiante, utilizzando esclusivamente macchinari guidati per evitare infortuni.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Esperto)
 
@@ -112,7 +112,7 @@ Questa struttura di prompt è la salvezza per chiunque si senta sopraffatto dall
 
 ### ❌ Prima (Input generico)
 
-> "Fammi una scheda da palestra per iniziare."
+"Fammi una scheda da palestra per iniziare."
 
 _Risultato dell'IA: Ti propone Squat con bilanciere, Stacchi rumeni e Panca Piana. Guardi la scheda, ti spaventi, e torni sul tapis roulant._
 

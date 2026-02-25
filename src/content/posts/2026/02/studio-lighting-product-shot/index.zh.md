@@ -42,7 +42,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Product", "Lighting"]
 > **角色:** 你是一位拥有20年经验的顶级商业产品摄影师。
 > **请求:** 请生成一张带有工作室照明（Studio lighting）的干净、专业的产品照片。背景必须是纯白色（Solid white background），确保光线均匀，没有杂乱的阴影。
 
-<br>
+\
 
 ### 🥇 Pro Version (专家版)
 

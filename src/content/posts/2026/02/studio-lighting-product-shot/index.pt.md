@@ -42,7 +42,7 @@ Ideal para protótipos rápidos ou quando você precisa de resultados imediatos 
 > **Papel:** Você é um fotógrafo comercial de alto nível.
 > **Solicitação:** Crie uma imagem de `[seu produto/assunto]` usando iluminação profissional de estúdio. O fundo deve ser limpo e o foco deve destacar perfeitamente os detalhes e as texturas.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

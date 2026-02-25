@@ -45,7 +45,7 @@ En este artículo, te enseñamos cómo condensar este flujo de valor en unas 10 
 > **Tarea:** Redacta un guion de **'Elevator Pitch'** que me permita explicar mi idea de negocio a un inversor en 30 segundos. Incluye un gancho (_hook_) poderoso en la primera oración y estructura el mensaje de manera ultra concisa en este orden: Problema - Solución - Mercado - Equipo.
 > **Mi Idea:** `[Una aplicación móvil que utiliza IA para analizar los ladridos de los perros y determinar instantáneamente sus emociones y estado de salud]`
 
-<br>
+\
 
 ### 🥇 Versión Pro (Estructura de 10 Diapositivas)
 

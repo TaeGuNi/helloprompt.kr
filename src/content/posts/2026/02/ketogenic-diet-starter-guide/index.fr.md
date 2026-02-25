@@ -42,7 +42,7 @@ Idéal pour obtenir une vue d'ensemble rapide sans entrer dans les détails ultr
 > **Rôle :** Tu es un diététicien expert en régime cétogène (LCHF).
 > **Demande :** Fournis-moi un guide simple étape par étape pour commencer le régime cétogène aujourd'hui, avec 3 exemples de repas faciles à préparer.
 
-<br>
+\
 
 ### 🥇 Pro Version (Modèle expert)
 

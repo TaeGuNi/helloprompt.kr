@@ -42,7 +42,7 @@ Use this when you need a quick sanity check on your architectural direction base
 > **Role:** You are a `[Senior Backend Architect with 10+ years of experience]`.
 > **Task:** Explain the top 3 biggest **Overheads** an early-stage startup will face if they adopt Microservices Architecture (MSA). Conversely, provide a comparative analysis of the **Technical Debt** that might accumulate if they stick with a Monolithic architecture.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

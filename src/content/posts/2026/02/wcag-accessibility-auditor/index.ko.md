@@ -47,7 +47,7 @@ tags: ["Accessibility", "HTML", "WCAG"]
 > [여기에 코드를 붙여넣으세요]
 > ```
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 
@@ -120,8 +120,6 @@ tags: ["Accessibility", "HTML", "WCAG"]
 ### ✅ After (결과: 키보드 포커스 & 스크린 리더 완벽 대응)
 
 ```html
-<!-- 의미 없는 장식용 이미지는 스크린 리더가 무시하도록 빈 alt 제공 또는 aria-hidden 처리 -->
-<!-- onClick뿐만 아니라 키보드 Enter/Space 대응이 기본 제공되는 button 태그 사용 -->
 <button type="button" class="submit-btn" onClick="sendData()">
   <img src="send-icon.png" alt="" aria-hidden="true" />
   <span>전송</span>

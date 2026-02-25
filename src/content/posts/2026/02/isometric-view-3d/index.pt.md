@@ -42,7 +42,7 @@ Use este prompt quando precisar de um resultado rápido e direto, sem muita pers
 > **Role (Papel):** Você é um artista 3D especialista em cenários em miniatura.
 > **Task (Tarefa):** Crie uma vista tridimensional e fofa de `[um quarto de gamer]`, com estética de jogos 3D ou ícones, usando um ângulo isométrico (Isometric view).
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Profissional)
 
@@ -109,7 +109,7 @@ A vista isométrica não é apenas uma escolha estética "bonitinha"; ela é ext
 
 ### ✅ Depois (Resultado)
 
-> Prompt completo com `Isometric view`, `Orthographic projection` e `Clay render` aplicado.
+Prompt completo com `Isometric view`, `Orthographic projection` e `Clay render` aplicado.
 
 **(Resultado):** Uma miniatura adorável e perfeitamente equilibrada. A ilusão de "caixa de corte" permite que todo o layout e mobiliário do quarto sejam vistos simultaneamente, iluminados perfeitamente como se fossem feitos em um estúdio 3D profissional.
 

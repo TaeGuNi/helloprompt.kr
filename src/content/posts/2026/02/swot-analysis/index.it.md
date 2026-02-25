@@ -42,7 +42,7 @@ Utilizza questa versione quando hai bisogno di un'analisi veloce e diretta.
 > **Ruolo:** Sei un `[Consulente Strategico]` presso una prestigiosa società di consulenza gestionale.
 > **Richiesta:** Analizza a colpo d'occhio i punti di forza, le debolezze, le opportunità e le minacce di `[Nome Azienda]` in cui intendo investire.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 
@@ -117,10 +117,10 @@ _(L'IA risponde con un testo lungo, discorsivo e spesso privo del contesto macro
 
 | Categoria | Dettagli |
 | :--- | :--- |
-| **💪 Punti di forza (S)** | 1. Flessibilità produttiva tra modelli ibridi (HEV) ed elettrici (EV).<br>2. Aumento della redditività (ASP) trainato dal successo del marchio premium Genesis.<br>3. Solida liquidità garantita dalla quotazione (IPO) della filiale indiana. |
-| **📉 Debolezze (W)** | 1. Lenta ripresa della quota di mercato in Cina.<br>2. Struttura dei costi del lavoro rigida e potenziali rischi sindacali.<br>3. Ritardo relativo nello sviluppo del software automobilistico (SDV). |
-| **🌟 Opportunità (O)** | 1. Forte impennata della domanda di veicoli ibridi nel mercato statunitense.<br>2. Espansione continua nei mercati emergenti chiave come India e ASEAN.<br>3. Nuovi flussi di ricavi da robotica e mobilità aerea avanzata (AAM). |
-| **⚠️ Minacce (T)** | 1. Incertezza legata alle politiche tariffarie e all'IRA (Inflation Reduction Act) negli USA.<br>2. Aggressiva guerra dei prezzi scatenata da Tesla e dai produttori cinesi di EV.<br>3. Rallentamento generale della domanda globale di auto nuove a causa degli alti tassi di interesse. |
+| **💪 Punti di forza (S)** | 1. Flessibilità produttiva tra modelli ibridi (HEV) ed elettrici (EV).\2. Aumento della redditività (ASP) trainato dal successo del marchio premium Genesis.\3. Solida liquidità garantita dalla quotazione (IPO) della filiale indiana. |
+| **📉 Debolezze (W)** | 1. Lenta ripresa della quota di mercato in Cina.\2. Struttura dei costi del lavoro rigida e potenziali rischi sindacali.\3. Ritardo relativo nello sviluppo del software automobilistico (SDV). |
+| **🌟 Opportunità (O)** | 1. Forte impennata della domanda di veicoli ibridi nel mercato statunitense.\2. Espansione continua nei mercati emergenti chiave come India e ASEAN.\3. Nuovi flussi di ricavi da robotica e mobilità aerea avanzata (AAM). |
+| **⚠️ Minacce (T)** | 1. Incertezza legata alle politiche tariffarie e all'IRA (Inflation Reduction Act) negli USA.\2. Aggressiva guerra dei prezzi scatenata da Tesla e dai produttori cinesi di EV.\3. Rallentamento generale della domanda globale di auto nuove a causa degli alti tassi di interesse. |
 
 **🔑 Punto Chiave di Osservazione:**
 "La capacità dell'azienda di difendere i propri margini attraverso le forti vendite di veicoli ibridi, mentre affronta il rallentamento globale del settore EV e la pressione sui prezzi, determinerà la traiettoria del titolo nel breve termine."

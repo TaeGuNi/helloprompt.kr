@@ -43,7 +43,7 @@ Utilize quando precisar compreender profundamente falhas lógicas em componentes
 > **Tarefa:** Reflita profundamente (Pondering) e analise as possíveis condições de corrida (Race Conditions) e vazamentos de memória (Memory Leaks) sutis no código abaixo. Forneça o código completo com a solução definitiva e fundamental.
 > **Código:** `[Cole aqui o trecho de código suspeito]`
 
-<br>
+\
 
 ### 🥇 Versão Pro (Especialista)
 

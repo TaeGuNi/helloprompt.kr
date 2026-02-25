@@ -42,7 +42,7 @@ Nutze diesen Prompt, wenn du sofort Hintergrundmusik brauchst, ohne viele Detail
 > **Rolle:** Du bist ein erfahrener Musiktherapeut und Produktivitäts-DJ.
 > **Aufgabe:** Erstelle mir eine 2-stündige Playlist für `[Meine aktuelle Aufgabe]`, die mir hilft, ohne Ablenkung im Flow zu bleiben. Gib mir konkrete YouTube- oder Spotify-Suchbegriffe.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für maximale Produktivität)
 

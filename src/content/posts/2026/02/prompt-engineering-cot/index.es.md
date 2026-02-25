@@ -10,7 +10,7 @@ description: " \"Descubre cómo la técnica Chain-of-Thought (CoT) puede potenci
 
 - **🎯 Público Objetivo:** Product Managers, Desarrolladores, Analistas de Datos y cualquiera cansado de las "respuestas incorrectas" de la IA.
 - **⏱️ Tiempo de Ejecución:** De 1 hora → a solo 3 minutos
-- **🤖 Modelos Recomendados:** Cualquier IA conversacional avanzada (GPT-4, Claude 3.5 Sonnet, Gemini 1.5 Pro, etc.)
+- **🤖 Modelos Recomendados:** Cualquier IA conversacional avanzada (GPT-4, Claude 3.5 Sonnet, Gemini 2.5 Pro, etc.)
 
 - ⭐ **Dificultad:** ⭐⭐⭐☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -39,7 +39,7 @@ Usa esta "frase mágica" al final de tu instrucción cuando necesites mejorar el
 > **Rol:** Eres un `[Analista Lógico]`.
 > **Tarea:** Resuelve la siguiente `[situación o problema complejo]`. **Sin embargo, antes de llegar a una conclusión, piensa lógica y detenidamente paso a paso (Think step-by-step).**
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 
@@ -94,7 +94,7 @@ En el mundo real, te recomiendo aplicar la Versión Pro en tareas como **"revisi
   - R: Intenta desglosar los 'criterios de los pasos' que la IA debe seguir y especifícalos más detalladamente en la sección 'Tarea'. Alternativamente, proporciona un ejemplo (Few-Shot) más largo y específico de *cómo* quieres que piense. La IA es excelente imitando flujos de pensamiento detallados.
 
 - **P: ¿Puedo usar este prompt en otros modelos de lenguaje (Claude, Gemini, etc.)?**
-  - R: ¡Por supuesto! CoT no es una función exclusiva de un modelo, sino una metodología universal que aprovecha el funcionamiento fundamental de los Grandes Modelos de Lenguaje (LLMs). De hecho, brilla aún más en modelos recientes optimizados para el razonamiento, como Claude 3.5 Sonnet o Gemini 1.5 Pro.
+  - R: ¡Por supuesto! CoT no es una función exclusiva de un modelo, sino una metodología universal que aprovecha el funcionamiento fundamental de los Grandes Modelos de Lenguaje (LLMs). De hecho, brilla aún más en modelos recientes optimizados para el razonamiento, como Claude 3.5 Sonnet o Gemini 2.5 Pro.
 
 - **P: ¿Debería usar CoT para todo?**
   - R: No. Para consultas simples de conocimiento, como "¿Cuál es la capital de Francia?", o para tareas de resumen básicas, la cadena de pensamiento es innecesaria. Solo desperdiciarás tokens (dinero) y tiempo de procesamiento. Úsalo como tu arma secreta exclusivamente cuando requieras 'lógica compleja'.

@@ -50,7 +50,7 @@ A medida que aumenta la fiebre por el running, muchos corredores sufren de la te
 >
 > **Solicitud:** He terminado de correr. Proporcióname una rutina de enfriamiento de 5 minutos para prevenir lesiones y evitar el dolor muscular de aparición tardía (DOMS).
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 
@@ -113,7 +113,7 @@ La verdadera magia de este prompt radica en la sección de **Contexto**. La mayo
 
 ### ❌ Before (Entrada)
 
-> "Dime estiramientos para después de correr."
+"Dime estiramientos para después de correr."
 
 _(Resultado: Una lista genérica y aburrida de estiramientos de educación física, sin tiempos ni consideraciones por el dolor articular específico)._
 

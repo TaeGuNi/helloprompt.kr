@@ -41,11 +41,11 @@ Ideale quando hai bisogno di estrapolare rapidamente poster commerciali o loghi 
 
 > **Ruolo (Role):** Sei un graphic designer di fama mondiale.
 > **Compito (Task):** Utilizza il seguente prompt per generare un poster in stile cyberpunk con il testo renderizzato in modo impeccabile.
->
-> **Prompt:**
-> `a cinematic cyberpunk neon poster with clear typography text "HELLO 2026", futuristic glowing city background, hyper-detailed --ar 2:3 --v 7.0 --style raw`
 
-<br>
+> **Prompt:**
+`a cinematic cyberpunk neon poster with clear typography text "HELLO 2026", futuristic glowing city background, hyper-detailed --ar 2:3 --v 7.0 --style raw`
+
+\
 
 ### 🥇 Versione Pro (Coerenza del Personaggio e Applicazioni)
 

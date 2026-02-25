@@ -44,7 +44,7 @@ Serverless（无服务器）架构最大的痛点莫过于“冷启动（Cold St
 > **角色：** 你是一位资深的 AWS Serverless 架构优化专家。
 > **任务：** 我的 AWS Lambda 函数目前冷启动耗时超过 2 秒。当前配置为 Node.js 20 运行时，128MB 内存。请为我解释增加内存对缩短冷启动时间及成本变化的相关性；并一步步指导我如何使用开源工具 `AWS Lambda Power Tuning`，精准找到内存与成本的最佳平衡点（Sweet Spot）。
 
-<br>
+\
 
 ### 🥇 Pro Version (代码级优化与架构进阶版)
 

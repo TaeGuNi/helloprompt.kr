@@ -10,7 +10,7 @@ tags: ["architecture", "frontend", "microservices", "web-development"]
 
 - **🎯 Público-alvo:** Arquitetos de Software, Desenvolvedores Frontend Sênior, Tech Leads
 - **⏱️ Tempo economizado:** Semanas de pesquisa → 5 minutos
-- **🤖 Modelos recomendados:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 Modelos recomendados:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **Dificuldade:** ⭐⭐⭐⭐☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -39,7 +39,7 @@ Use quando precisar de uma visão geral rápida ou de ideias iniciais para divid
 > **Função:** Você é um `[Arquiteto de Software Sênior]` especializado em Micro-Frontends.
 > **Tarefa:** Analise meu `[Frontend Monolítico Atual]` e sugira 3 abordagens eficientes para dividi-lo em micro-frontends baseados em domínios de negócios.
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 

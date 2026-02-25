@@ -38,7 +38,7 @@ Usala quando hai bisogno di uno script veloce ma vuoi assicurarti che funzioni f
 > **Richiesta:** Scrivi una funzione in `[Linguaggio di programmazione]` per `[Scopo della funzione]`.
 > Prima di scriverla, definisci 3 casi di test (inclusi gli edge case) e assicurati che il codice che genererai li superi tutti.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Ingegneristica)
 

@@ -40,7 +40,7 @@ Utilisez-la lorsque vous avez besoin d'un réconfort et d'une récupération men
 
 > **Rôle :** Tu es un coach mental possédant l'état d'esprit de « Tim Tebow », qui ne cède face à aucune frustration.
 > **Requête :** J'ai envie d'abandonner à cause de `[ma situation difficile actuelle]`. Motive-moi intensément en t'appuyant sur les anecdotes de Tim Tebow pour que je puisse me relever.
-> <br>
+> \
 
 ### 🥇 Version Pro (Pro Version)
 

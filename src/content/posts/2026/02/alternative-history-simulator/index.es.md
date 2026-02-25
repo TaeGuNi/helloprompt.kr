@@ -43,7 +43,7 @@ Utilízalo cuando desees invocar a una figura histórica en la era moderna (u ot
 > **Situación:** `[Situación ficticia, ej: Has sido nombrado Jefe de Operaciones Navales de Corea del Sur en 2026]`
 > **Instrucción:** Analiza la situación de seguridad actual de Corea del Sur (conflictos con países vecinos, etc.) y presenta un informe con tu primera orden como Jefe de Operaciones y tu estrategia de defensa nacional.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Simulación de efecto mariposa y construcción de mundos)
 

@@ -42,7 +42,7 @@ Use this when you need a quick, high-level overview of your data.
 > **Role:** You are a `[Senior Data Analyst]`.
 > **Task:** Analyze the provided `[chart/table data]` and extract the most critical insights and potential statistical traps.
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -82,7 +82,7 @@ This prompt is an absolute game-changer when you are preparing for a quarterly r
 ## 🙋 Frequently Asked Questions (FAQ)
 
 - **Q: Do I need ChatGPT Plus (Pro) to use this?**
-  - A: While the basic prompt works on free models if you paste text data (like CSVs), the Pro Version truly shines on models with strong vision capabilities (like GPT-4o, Claude 3.5 Sonnet, or Gemini 1.5 Pro) where you can directly upload a screenshot of your chart or graph.
+  - A: While the basic prompt works on free models if you paste text data (like CSVs), the Pro Version truly shines on models with strong vision capabilities (like GPT-4o, Claude 3.5 Sonnet, or Gemini 2.5 Pro) where you can directly upload a screenshot of your chart or graph.
 - **Q: What if my chart is extremely complex or has multiple overlapping lines?**
   - A: If the chart is too cluttered, the AI might hallucinate or miss details. It's best practice to upload a clear, high-resolution image, or provide the raw Excel/CSV data alongside the prompt for maximum accuracy.
 

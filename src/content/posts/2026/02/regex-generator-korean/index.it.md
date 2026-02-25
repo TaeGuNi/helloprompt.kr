@@ -44,7 +44,7 @@ Usala quando hai bisogno di un risultato immediato senza troppe spiegazioni.
 > **Ruolo:** Sei un Maestro di Regex.
 > **Richiesta:** Scrivi un'espressione regolare per `[inserisci il pattern desiderato, es. estrarre indirizzi IP]` in `[linguaggio di programmazione, es. Python]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 
@@ -107,7 +107,7 @@ Questo prompt è un salvavita assoluto per chiunque manipoli dati o crei form we
 
 ### ❌ Before (Input Utente Standard)
 
-> "Fammi una regex per una password sicura."
+"Fammi una regex per una password sicura."
 
 _(Risultato tipico: una stringa regex basilare, fornita senza contesto, che spesso dimentica di validare i caratteri speciali o la lunghezza minima, e senza alcuna riga di spiegazione sui linguaggi supportati)._
 

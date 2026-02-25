@@ -42,7 +42,7 @@ Usa questa versione quando vai di fretta e hai solo bisogno di un suggerimento r
 > **Ruolo:** Sei un personal stylist esperto di moda e meteorologia.
 > **Richiesta:** Consigliami cosa indossare oggi. La temperatura è di `[Temperatura]` gradi con `[Condizioni Meteo, es. pioggia/sole]`. Il mio stile preferito è `[Tuo Stile, es. casual/elegante]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

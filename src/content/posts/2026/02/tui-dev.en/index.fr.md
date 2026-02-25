@@ -38,7 +38,7 @@ Idéale lorsque vous avez besoin d'obtenir rapidement l'ossature et le layout de
 > **Rôle :** Tu es un développeur Senior `[Go/Rust/Python/Node.js]` et un expert en conception de TUI (Text User Interface).
 > **Tâche :** Rédige le code de scaffolding de base d'une application TUI destinée à `[Objectif de l'application]` en utilisant `[Langage et Framework]`. L'architecture doit comporter une barre latérale (sidebar) à gauche et une zone d'affichage principale (viewport) à droite.
 
-<br>
+\
 
 ### 🥇 Version Pro
 
@@ -98,7 +98,7 @@ La conception de ce prompt vise à franchir **les obstacles majeurs du développ
 
 ### ❌ Avant (Méthode Traditionnelle)
 
-> Un journal de logs textuel monochrome, défilant indéfiniment vers le haut, offrant une lisibilité médiocre.
+Un journal de logs textuel monochrome, défilant indéfiniment vers le haut, offrant une lisibilité médiocre.
 
 ```text
 [INFO] Starting server on port 8080...
@@ -109,7 +109,7 @@ La conception de ce prompt vise à franchir **les obstacles majeurs du développ
 
 ### ✅ Après (Résultat)
 
-> Un tableau de bord TUI interactif, implémenté sur la base du scaffolding généré par l'IA.
+Un tableau de bord TUI interactif, implémenté sur la base du scaffolding généré par l'IA.
 
 ```text
 ╭─ Services ────────────────╮ ╭─ Live Logs: Server Alpha ───────────────────╮

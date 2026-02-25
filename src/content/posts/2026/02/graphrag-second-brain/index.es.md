@@ -41,7 +41,7 @@ El mayor desafío y el núcleo fundamental al construir un pipeline de GraphRAG 
 > **Rol:** Eres un `[Analista de Datos]`.
 > **Tarea:** Analiza el texto proporcionado a continuación y extrae las palabras clave principales como nodos y las relaciones entre ellas como aristas. Presenta el resultado en formato JSON.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

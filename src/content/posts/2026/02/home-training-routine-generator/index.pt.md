@@ -43,7 +43,7 @@ Use esta versão para gerar um treino rápido sem muitas especificações.
 >
 > **Solicitação:** Crie um treino de 30 minutos para iniciantes usando apenas o peso do corpo, com foco em perder gordura abdominal.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert Version)
 

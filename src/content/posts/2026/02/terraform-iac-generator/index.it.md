@@ -45,7 +45,7 @@ Utilizza questa versione quando hai bisogno di configurare rapidamente una singo
 > **Compito:** Scrivi il codice Terraform per creare la risorsa AWS `[Nome del Servizio]`.
 > **Vincoli:** Utilizza l'ultima versione dell'AWS Provider e gestisci i parametri tramite variabili (variable), evitando qualsiasi hardcoding.
 
-<br>
+\
 
 ### 🥇 Versione Pro
 

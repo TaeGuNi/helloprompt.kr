@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "multimodal-reasoning-2026"]
 
 - **🎯 Pubblico Consigliato:** Sviluppatori, Product Manager, Data Scientist
 - **⏱️ Tempo Richiesto:** Ore di analisi manuale → 1 minuto
-- **🤖 Modelli Consigliati:** Modelli Multimodali (Gemini 1.5 Pro, GPT-4o, Claude 3.5 Sonnet)
+- **🤖 Modelli Consigliati:** Modelli Multimodali (Gemini 2.5 Pro, GPT-4o, Claude 3.5 Sonnet)
 
 - ⭐ **Difficoltà:** ⭐⭐⭐☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -39,7 +39,7 @@ Usa questa versione per estrarre rapidamente il significato generale da input di
 > **Ruolo:** Sei un Analista Multimodale.
 > **Richiesta:** Analizza il video, l'audio e il testo allegati. Sintetizza il messaggio principale e descrivi il tono emotivo generale.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 
@@ -77,7 +77,7 @@ Questo prompt è un vero e proprio punto di svolta per chi sviluppa applicazioni
 ## 🙋 Domande Frequenti (FAQ)
 
 - **Q: Quale modello restituisce i risultati migliori con questo prompt?**
-  - A: Attualmente, modelli come Gemini 1.5 Pro (eccellente per video lunghi) e GPT-4o offrono le migliori capacità di ragionamento cross-modale nativo.
+  - A: Attualmente, modelli come Gemini 2.5 Pro (eccellente per video lunghi) e GPT-4o offrono le migliori capacità di ragionamento cross-modale nativo.
 - **Q: Posso usarlo per scopi di programmazione (es. Context-Aware Code Assistants)?**
   - A: Assolutamente! Sostituisci il blocco "Contesto" chiedendo all'IA di confrontare uno schizzo architetturale fatto alla lavagna (immagine) con l'attuale repository del codice (testo) per trovare inconsistenze.
 

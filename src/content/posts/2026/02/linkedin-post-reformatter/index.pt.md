@@ -45,7 +45,7 @@ Use esta versão quando estiver com pressa e precisar de uma formatação rápid
 > **Tarefa:** Transforme as seguintes anotações em um post atraente para o LinkedIn: `[Insira suas anotações/rascunho aqui]`.
 > **Formato:** Use frases curtas, emojis relevantes e inclua uma pergunta no final para gerar engajamento nos comentários.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Profissional)
 
@@ -88,7 +88,7 @@ Muitos desenvolvedores e analistas têm receio de postar no LinkedIn porque acha
 ## 🙋 Perguntas Frequentes (FAQ)
 
 - **P: Preciso usar a versão paga do ChatGPT para obter bons resultados?**
-  - A: Não! Modelos como Claude 3.5 Sonnet, Gemini 1.5 Pro ou até a versão gratuita do ChatGPT (GPT-4o mini) lidam perfeitamente com este prompt, especialmente na captura do tom de voz humano e persuasivo.
+  - A: Não! Modelos como Claude 3.5 Sonnet, Gemini 2.5 Pro ou até a versão gratuita do ChatGPT (GPT-4o mini) lidam perfeitamente com este prompt, especialmente na captura do tom de voz humano e persuasivo.
 
 - **P: E se o post gerado ficar muito longo ou formal demais?**
   - A: Basta adicionar uma restrição extra na seção "Constraints" do seu prompt: "- Limite o texto a no máximo 150 palavras" ou "- Reescreva em um tom mais conversacional e amigável".

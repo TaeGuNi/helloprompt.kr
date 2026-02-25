@@ -43,7 +43,7 @@ Usa questo prompt per generare rapidamente descrizioni per le PR o per semplici 
 > **Ruolo:** Sei un Senior Technical Writer.
 > **Compito:** Analizza il seguente `[Git Diff]` che ho appena modificato e riscrivi in Markdown le parti del `[README.md]` che necessitano di aggiornamento. Ignora le modifiche relative a semplici errori di battitura o refactoring.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 
@@ -61,7 +61,7 @@ Un prompt sofisticato progettato per essere integrato in una pipeline CI/CD (es.
 > 1. Confronta e analizza il `[Git Diff]` fornito con l'intero contenuto del `[Target Document]`.
 > 2. Determina se questa modifica del codice influisce sull'onboarding degli utenti o sulla configurazione dell'ambiente di altri sviluppatori in misura tale da richiedere un aggiornamento del documento. (Ignora categoricamente i semplici refactoring, le modifiche ai nomi delle variabili e le correzioni di refusi).
 > 3. Se ritieni che sia necessario un aggiornamento, riscrivi l'intero documento in formato Markdown, mantenendo perfettamente il tono di voce (tone of voice e formattazione) del documento originale.
-> 4. In fondo al documento, lascia un commento nascosto nel formato `<!-- Motivo della modifica: breve spiegazione del perché hai modificato questa sezione -->`.
+> 4. In fondo al documento, lascia un commento nascosto nel formato ``.
 > 5. Se si tratta di un semplice commit che non richiede l'aggiornamento del documento, stampa esclusivamente `[NO_UPDATE_REQUIRED]`.
 >
 > **Vincoli (Constraints):**
@@ -89,7 +89,7 @@ Applicando questo prompt ai repository backend della nostra azienda, la cosa pi�
 - **Q: L'IA cerca costantemente di documentare i promemoria personali degli sviluppatori o i TODO scritti nei commenti. Come posso evitarlo?**
   - A: È un problema che si verifica perché l'IA è troppo "diligente". Per questo è fondamentale la frase nei **Vincoli (Constraints)** del prompt: `- Il codice incompleto commentato (es. TODO, FIXME) non deve mai essere incluso nella documentazione.`. Questa singola riga risolve il problema in modo pulito.
 
-- **Q: Funziona allo stesso modo anche con Gemini 1.5 Pro o GPT-4o?**
+- **Q: Funziona allo stesso modo anche con Gemini 2.5 Pro o GPT-4o?**
   - A: Può funzionare. Tuttavia, se si inserisce l'intero documento e gli interi file di codice, Gemini 3 Pro ha un vantaggio schiacciante in termini di limiti di token e costi di Context Caching. Per progetti "giocattolo" con file di piccole dimensioni, anche GPT-4o può restituire ottimi risultati.
 
 ---
@@ -98,7 +98,7 @@ Applicando questo prompt ai repository backend della nostra azienda, la cosa pi�
 
 1. **Logica di Bypass (Sospensione del Giudizio):** Costringendo l'agente a restituire `[NO_UPDATE_REQUIRED]` per i commit semplici che non richiedono aggiornamenti, evitiamo alla radice la generazione infinita e inutile di PR.
 2. **Mantenimento del Tone of Voice:** Abbiamo fornito esplicitamente il contesto "mantenendo perfettamente il tono di voce del documento originale" per evitare che l'IA ignori lo stile preesistente e sovrascriva tutto con il suo tipico tono robotico e distaccato.
-3. **Spiegazione Nascosta (Hidden Explanation):** Utilizzando i commenti HTML (`<!-- -->`) per registrare il motivo della modifica, permettiamo al reviewer di verificare in modo facile e rapido il processo di ragionamento dell'IA al momento dell'approvazione della PR.
+3. **Spiegazione Nascosta (Hidden Explanation):** Utilizzando i commenti HTML (``) per registrare il motivo della modifica, permettiamo al reviewer di verificare in modo facile e rapido il processo di ragionamento dell'IA al momento dell'approvazione della PR.
 
 ---
 
@@ -130,7 +130,7 @@ DB_USER=root
 REDIS_URL=redis://localhost:6379
 ```
 
-<!-- Motivo della modifica: È stata aggiunta una nuova logica di caching Redis nel file src/cache/connection.ts, pertanto la variabile d'ambiente necessaria REDIS_URL è stata aggiunta alla guida iniziale. -->
+
 ````
 
 ---

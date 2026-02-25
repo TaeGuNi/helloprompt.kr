@@ -46,7 +46,7 @@ Utilizzala quando hai bisogno di un prompt rapido ma efficace per immagini fotor
 > **Ruolo:** Sei un fotografo commerciale professionista e un esperto creatore di prompt per Midjourney v7.
 > **Azione:** Basandoti sull'`[Argomento]` che ti fornirò, scrivi un prompt in inglese di una sola riga ottimizzato per generare la fotografia più realistica possibile su Midjourney v7.
 
-<br>
+\
 
 ### 🥇 Versione Pro
 

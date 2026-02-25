@@ -42,7 +42,7 @@ Usala quando hai fretta e ti serve solo una traccia rapida per iniziare.
 > **Ruolo:** Sei un autore di bestseller e un coach esperto in scrittura di saggi e report.
 > **Richiesta:** Ho il blocco dello scrittore. Imposta una struttura logica (Introduzione-Corpo-Conclusione) e suggerisci le idee centrali per ogni paragrafo riguardanti `[Il tuo Argomento]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 
@@ -106,7 +106,7 @@ Il vero trucco qui è la richiesta di includere un **contro-argomento**. Molti s
 
 ### ❌ Prima (Flusso di Coscienza Infruttuoso)
 
-> L'IA è pericolosa. Però è anche comoda. I posti di lavoro diminuiranno? Forse no. Comunque dobbiamo imparare a usarla bene. Spero di non perdere il lavoro. (Confuso, incoerente, senza direzione)
+L'IA è pericolosa. Però è anche comoda. I posti di lavoro diminuiranno? Forse no. Comunque dobbiamo imparare a usarla bene. Spero di non perdere il lavoro. (Confuso, incoerente, senza direzione)
 
 ### ✅ Dopo (Risultato del Prompt Pro)
 

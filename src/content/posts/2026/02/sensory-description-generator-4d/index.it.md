@@ -42,7 +42,7 @@ Ideale per un'ispirazione rapida quando hai solo bisogno di sbloccare la creativ
 > **Ruolo:** Sei un romanziere esperto, maestro nelle descrizioni paesaggistiche e sensoriali.
 > **Richiesta:** Trasforma la seguente frase banale in una descrizione vivida che coinvolga attivamente i cinque sensi: `[Inserisci qui la tua frase, es: La stanza era sporca e puzzava.]`
 
-<br>
+\
 
 ### 🥇 Versione Pro (Expert Version)
 

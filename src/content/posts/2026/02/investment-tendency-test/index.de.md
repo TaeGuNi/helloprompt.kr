@@ -48,7 +48,7 @@ Nutzen Sie diese Variante für ein schnelles Ergebnis ohne tiefgehende Analyse.
 > **Rolle:** Du bist ein `[Experte für Anlagepsychologie]` mit Fokus auf Verhaltensökonomie.
 > **Aufgabe:** Analysiere meine `[Risikotoleranz]` anhand von 3 kurzen Investitionsszenarien.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

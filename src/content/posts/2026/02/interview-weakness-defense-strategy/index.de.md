@@ -26,8 +26,8 @@ tags:
 - 🚀 **Nutzen:** ⭐⭐⭐⭐☆
 
 > _"Warum ist Ihre Abschlussnote so niedrig?", "Wie erklären Sie diese große Lücke in Ihrem Lebenslauf?"_
->
-> Wenn im Vorstellungsgespräch eine Frage genau auf Ihren wunden Punkt zielt, wird der Kopf plötzlich leer. Ausreden wirken unprofessionell, und ein unvorbereitetes Eingeständnis fühlt sich wie ein Scheitern an. Sie brauchen die Technik des **"Reframings"** – einen psychologischen Perspektivenwechsel, der Ihre Schwäche in eine Stärke verwandelt.
+
+Wenn im Vorstellungsgespräch eine Frage genau auf Ihren wunden Punkt zielt, wird der Kopf plötzlich leer. Ausreden wirken unprofessionell, und ein unvorbereitetes Eingeständnis fühlt sich wie ein Scheitern an. Sie brauchen die Technik des **"Reframings"** – einen psychologischen Perspektivenwechsel, der Ihre Schwäche in eine Stärke verwandelt.
 
 Mit dem richtigen Prompt bereiten Sie Antworten vor, die selbst die kritischsten Personaler überzeugen und Ihre Professionalität unterstreichen.
 
@@ -50,7 +50,7 @@ Nutzen Sie dies, wenn Sie nur eine schnelle und einfache Formulierungshilfe ben�
 > **Rolle:** Du bist ein strategischer Berater für Vorstellungsgespräche.
 > **Anfrage:** Entwickle eine Argumentationslogik, um fatale Schwächen (Lücke im Lebenslauf, Studienabbruch, schlechte Noten) ehrlich zuzugeben, aber gleichzeitig die daraus gezogenen Lehren und den Willen zur Verbesserung in den Vordergrund zu stellen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenform)
 

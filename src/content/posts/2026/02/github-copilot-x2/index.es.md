@@ -37,7 +37,7 @@ GitHub Copilot X2 se ha lanzado oficialmente. El núcleo de esta actualización 
 > **Rol:** Eres un desarrollador Senior experto en `[Lenguaje/Framework]`.
 > **Tarea:** Basándote en el contexto de todo mi espacio de trabajo, escribe el código más optimizado para implementar `[Función específica]`.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

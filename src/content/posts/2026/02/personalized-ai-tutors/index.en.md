@@ -8,7 +8,7 @@ date: "2026-02-14"
 
 - **🎯 Recommended for:** Teachers, Educators, Parents, and Self-Taught Students
 - **⏱️ Time Saved:** 3 hours of lesson planning → Reduced to 3 minutes
-- **🤖 Recommended Model:** GPT-4o, Claude 3.5 Sonnet, or Gemini 1.5 Pro
+- **🤖 Recommended Model:** GPT-4o, Claude 3.5 Sonnet, or Gemini 2.5 Pro
 
 - ⭐ **Difficulty:** ⭐⭐⭐☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -37,7 +37,7 @@ Use this when you need a quick, accessible explanation of a concept for a specif
 > **Role:** You are an expert `[Subject]` tutor.
 > **Task:** Explain `[Concept]` to a `[Grade Level]` student in simple, easy-to-understand terms. Provide one relatable, everyday example.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

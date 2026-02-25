@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "chain-of-thought-reasoning"]
 
 - **🎯 Target Audience:** Developers, Prompt Engineers, AI Enthusiasts
 - **⏱️ Time Saved:** Hours of debugging → Instant logical outputs
-- **🤖 Recommended Model:** GPT-4, Claude 3 Opus, Gemini 1.5 Pro (or higher)
+- **🤖 Recommended Model:** GPT-4, Claude 3 Opus, Gemini 2.5 Pro (or higher)
 
 - ⭐ **Difficulty:** ⭐⭐☆☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -41,7 +41,7 @@ Use this when you need a quick logic check without setting up complex context.
 > **Role:** You are an expert logical thinker.
 > **Task:** Solve the following problem: `[Insert complex math or logic problem]`. Let's think step by step.
 
-<br>
+\
 
 ### 🥇 Pro Version (Few-Shot CoT)
 

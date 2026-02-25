@@ -43,7 +43,7 @@ Nutzen Sie diesen Prompt, wenn Sie nur einen schnellen Überblick oder einen gro
 > **Rolle:** Du bist ein erfahrener Softwarearchitekt.
 > **Anfrage:** Schlage eine passende Softwarearchitektur und eine grundlegende Ordnerstruktur für `[Kurze Projektbeschreibung]` vor.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Level)
 

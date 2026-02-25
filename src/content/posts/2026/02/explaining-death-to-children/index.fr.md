@@ -42,7 +42,7 @@ Idéal lorsque vous êtes pris de court et avez besoin d'une réponse immédiate
 > **Rôle :** Tu es un expert en psychologie infantile, spécialisé dans l'accompagnement du deuil.
 > **Demande :** Mon enfant vient de perdre son animal de compagnie. Donne-moi les mots exacts, simples et chaleureux, pour lui expliquer ce qu'est la mort et le réconforter.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

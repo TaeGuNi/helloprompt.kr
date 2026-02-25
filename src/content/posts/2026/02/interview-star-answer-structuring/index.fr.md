@@ -43,7 +43,7 @@ Utilisez cette version lorsque vous avez besoin d'une réponse structurée en un
 > **Rôle :** Tu es un coach expert en prise de parole et en préparation aux entretiens d'embauche.
 > **Requête :** J'ai tendance à faire des digressions. Prends mon récit suivant et restructure-le de manière concise en utilisant la méthode STAR (Situation, Tâche, Action, Résultat). Voici mon récit : `[VOTRE HISTOIRE ICI]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Expert)
 

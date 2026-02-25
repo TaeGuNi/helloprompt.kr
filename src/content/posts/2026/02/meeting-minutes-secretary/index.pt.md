@@ -42,7 +42,7 @@ Ideal para quando você precisa de um resultado rápido e sem muitas diretrizes.
 > **Papel:** Você é uma `[Secretária Executiva Sênior com 10 anos de experiência]`.
 > **Solicitação:** Organize a transcrição desta reunião confusa em um resumo claro e liste os itens de ação.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

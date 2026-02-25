@@ -7,9 +7,6 @@ updatedDate: "2026-02-16"
 category: "AI 트렌드"
 description: " \"단어 선택에 집착하지 마세요. Gemini 3와 GPT-5 시대에는 문장이 아니라 '목표(Intent)'를 설계해야 합니다.\""
 tags: ["AI 트렌드", "에이전트", "Gemini 3", "GPT-5", "프롬프트 엔지니어링"]
-image:
-  url: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2565&auto=format&fit=crop"
-  alt: "추상적인 AI 에이전트 네트워크"
 ---
 
 # 📝 Prompt-Engineering ist tot. Willkommen in der Ära des „Intent Architecting“.
@@ -47,7 +44,7 @@ Das ist der alte Weg. Die Qualität der Ergebnisse ist Glückssache und sehr anf
 > **Rolle:** Du bist ein Tech-Blogger.
 > **Aufgabe:** Schreibe einen Artikel, der die Sprachen Rust und Go vergleicht. Mach es unterhaltsam.
 
-<br>
+\
 
 ### 🥇 Pro Version (Der Architekt)
 

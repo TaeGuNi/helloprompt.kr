@@ -44,7 +44,7 @@ Cet article vous présente un **'Prompt d'analyse approfondie des incidents de s
 > Contenu de l'article :
 > Le masque de sommeil Somnium X a transmis les données audio et les métadonnées de ses utilisateurs vers un serveur externe accessible sans authentification. L'entreprise explique qu'il s'agit d'une erreur liée à une fonction de débogage non supprimée.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

@@ -48,7 +48,7 @@ Use this when you need a quick verdict on whether someone's reaction is rooted i
 > **Task:** 
 > Analyze whether the person responding leans more towards Thinking (T) or Feeling (F). Then, suggest 2 specific reply examples I can use next to build a deeper emotional connection with them.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

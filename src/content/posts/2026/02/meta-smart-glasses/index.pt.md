@@ -38,7 +38,7 @@ Ideal para obter um resumo rápido das tendências de hardware de IA.
 > **Papel:** Você é um `[Especialista em Tendências de Tecnologia]`.
 > **Tarefa:** Analise o sucesso dos `[Óculos Inteligentes da Meta]` e explique por que eles estão superando os `[Headsets de Realidade Virtual tradicionais]`. Forneça 3 motivos principais.
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 

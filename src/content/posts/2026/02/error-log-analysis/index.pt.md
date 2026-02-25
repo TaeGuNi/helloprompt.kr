@@ -42,7 +42,7 @@ Use quando precisar apenas de um direcionamento rápido.
 > **Papel:** Você é um Engenheiro de Software Sênior.
 > **Solicitação:** Analise o erro a seguir e diga qual é a causa principal e como resolvê-lo em uma frase: `[Cole a mensagem de erro ou log]`
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert Version)
 

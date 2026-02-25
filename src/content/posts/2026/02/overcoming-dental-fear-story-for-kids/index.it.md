@@ -43,7 +43,7 @@ Usala quando sei di fretta e hai bisogno di un risultato immediato.
 > **Ruolo:** Sei uno psicoterapeuta infantile e uno scrittore di fiabe esperto nell'eliminare le fobie dei bambini.
 > **Richiesta:** Scrivi una breve storia per aiutare un bambino a superare la paura del dentista, trasformando la visita in un'avventura divertente contro i germi della carie.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Esperta)
 

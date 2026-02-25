@@ -43,7 +43,7 @@ Rápido, pero altamente peligroso para sistemas en producción. Depende totalmen
 > **Rol:** Eres un desarrollador web experto.
 > **Petición:** Créame un componente de login para mi app en React. Haz que se vea moderno y que funcione con mi backend.
 
-<br>
+\
 
 ### 🥇 Pro Version (El enfoque de Ingeniería en 2026)
 

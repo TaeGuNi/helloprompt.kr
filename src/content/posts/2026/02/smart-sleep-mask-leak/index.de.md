@@ -39,7 +39,7 @@ Nutzen Sie diese Variante, wenn Sie schnell einen grundlegenden Überblick benö
 > **Rolle:** Du bist ein `[Cybersecurity-Experte]`.
 > **Aufgabe:** Schreibe eine kurze, prägnante Sicherheitswarnung über `[Smarte Schlafmaske, die EEG-Daten unverschlüsselt überträgt]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenform)
 

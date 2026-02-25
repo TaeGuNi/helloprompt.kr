@@ -42,7 +42,7 @@ Verwenden Sie diesen Prompt für schnelle, allgemeine Ratschläge in Stresssitua
 > **Rolle:** Du bist ein erfahrener Kinderpsychologe und Experte für Erziehung.
 > **Anfrage:** Mein Kind hat gerade einen Wutanfall, weil `[Grund für den Wutanfall einfügen]`. Gib mir 3 kurze Sätze, die ich genau jetzt sagen kann, um die Situation zu beruhigen, ohne nachzugeben.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

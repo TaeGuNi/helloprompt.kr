@@ -39,7 +39,7 @@ Use this when you want a quick risk assessment of your current idea.
 > **Role:** You are a ruthless, top-tier Silicon Valley Venture Capital (VC) analyst.
 > **Task:** Diagnose if my AI service idea, `[Service Idea]`, is a mere API wrapper. Propose 3 actionable defense strategies to ensure it survives if OpenAI launches the exact same feature directly.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

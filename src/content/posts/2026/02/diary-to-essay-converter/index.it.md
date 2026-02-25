@@ -42,7 +42,7 @@ Utilizza questo prompt quando hai poco tempo e desideri un'elaborazione veloce d
 > **Ruolo:** Sei uno scrittore di saggi esperto, capace di svelare la filosofia nascosta nella banalità della vita quotidiana, con uno stile simile a quello di Haruki Murakami.
 > **Richiesta:** Trasforma questi brevi appunti del mio diario in un saggio letterario capace di emozionare i lettori: `[Inserisci qui gli appunti del tuo diario]`
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

@@ -43,7 +43,7 @@ El lenguaje que ha roto por completo este antiguo dilema del ecosistema backend 
 > **Rol:** Eres un desarrollador backend Senior.
 > **Tarea:** Explícame cómo se implementan los conceptos de `@RestController` y la Inyección de Dependencias (DI) de Spring Boot en Go. Proporcióname un ejemplo comparativo de código CRUD simple utilizando los frameworks `Gin` o `Echo`.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

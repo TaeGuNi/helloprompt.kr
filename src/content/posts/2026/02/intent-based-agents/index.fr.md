@@ -7,9 +7,6 @@ updatedDate: "2026-02-16"
 category: "AI 트렌드"
 description: " \"Ne vous focalisez plus sur le choix des mots. À l'ère de Gemini 3 et GPT-5, vous devez concevoir des 'objectifs' (Intents) et non plus de simples phrases.\""
 tags: ["AI 트렌드", "에이전트", "Gemini 3", "GPT-5", "프롬프트 엔지니어링"]
-image:
-  url: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2565&auto=format&fit=crop"
-  alt: "추상적인 AI 에이전트 네트워크"
 ---
 
 # 📝 L'ingénierie de prompt est révolue. Place à l'"Architecture d'Intention" (Intent Architecting).
@@ -47,7 +44,7 @@ C'est la méthode du passé. La qualité du résultat est aléatoire et extrême
 > **Rôle :** Tu es un blogueur tech.
 > **Tâche :** Rédige un article comparant Rust et Go. Fais en sorte que ce soit amusant.
 
-<br>
+\
 
 ### 🥇 Version Pro (Le profil Architecte)
 

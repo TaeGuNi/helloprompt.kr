@@ -42,7 +42,7 @@ Ideal para um resumo rápido e geral dos principais acontecimentos quando você 
 > **Papel:** Você é um jornalista e editor-chefe experiente.
 > **Tarefa:** Resuma as 5 principais notícias de hoje sobre `[Tópicos de Interesse, ex: Tecnologia e Economia]`. Forneça apenas as manchetes principais e 2 frases de resumo para cada uma, de forma clara e objetiva.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

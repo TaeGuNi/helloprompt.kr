@@ -9,7 +9,7 @@ tags: ["DevTools", "Vim", "Editor", "Release"]
 
 - **🎯 Recomendado para:** Usuários de Vim, Desenvolvedores, Engenheiros DevOps
 - **⏱️ Tempo economizado:** 30 minutos → 1 minuto
-- **🤖 Modelos recomendados:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (Excelentes para documentação técnica)
+- **🤖 Modelos recomendados:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (Excelentes para documentação técnica)
 
 - ⭐ **Dificuldade:** ⭐⭐☆☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -40,7 +40,7 @@ Ideal para quando você precisa verificar rapidamente os principais pontos da at
 > **Role (Função):** Você é um Desenvolvedor Sênior e Tradutor de Documentação Técnica.
 > **Task (Tarefa):** Leia as `[Notas de Lançamento do Vim 9.2]` abaixo e resuma as 3 mudanças mais importantes em português. Use uma linguagem simples que até um iniciante possa entender.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Profissional)
 
@@ -84,7 +84,7 @@ O verdadeiro poder deste prompt vai muito além de uma simples tradução do ing
   - R: Com certeza! Basta alterar a variável `[Tecnologia Específica]` para React, TypeScript, Docker ou qualquer outra tecnologia. O prompt funcionará perfeitamente.
 
 - **P: E se as notas de lançamento forem muito longas e não couberem na janela de chat?**
-  - R: Modelos como Claude 3.5 Sonnet ou Gemini 1.5 Pro conseguem lidar com volumes massivos de texto. Você pode enviar o link direto para a página de release (caso o modelo tenha acesso à web) ou salvar o texto como PDF/TXT e anexá-lo ao chat.
+  - R: Modelos como Claude 3.5 Sonnet ou Gemini 2.5 Pro conseguem lidar com volumes massivos de texto. Você pode enviar o link direto para a página de release (caso o modelo tenha acesso à web) ou salvar o texto como PDF/TXT e anexá-lo ao chat.
 
 ---
 

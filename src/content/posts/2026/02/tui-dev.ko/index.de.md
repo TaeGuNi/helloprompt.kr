@@ -9,7 +9,7 @@ tags: ["tui", "dev-tools", "cli"]
 
 - **🎯 Zielgruppe:** Backend-Entwickler, DevOps-Ingenieure, Entwickler von CLI-Tools
 - **⏱️ Zeitaufwand:** 1 Stunde → auf 3 Minuten reduziert
-- **🤖 Empfohlenes Modell:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (Modelle mit Programmier-Fokus empfohlen)
+- **🤖 Empfohlenes Modell:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (Modelle mit Programmier-Fokus empfohlen)
 
 - ⭐ **Schwierigkeitsgrad:** ⭐⭐⭐☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -38,7 +38,7 @@ Nutzen Sie diese Variante, wenn Sie lediglich ein schnelles Grundgerüst für ei
 > **Rolle:** Du bist ein Senior `[Sprache]`-Entwickler und ein absoluter Experte für TUI-Design.
 > **Aufgabe:** Schreibe den grundlegenden Boilerplate-Code für eine TUI-Anwendung mit `[Sprache/Framework]`, die folgende Funktion erfüllt: `[Zusätzliche Funktion]`. Füge außerdem eine kurze Anleitung zur Ausführung des Codes hinzu.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten)
 

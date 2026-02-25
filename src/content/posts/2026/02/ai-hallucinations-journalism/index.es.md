@@ -40,7 +40,7 @@ Ideal para una auditoría rápida de un borrador cuando el tiempo apremia y nece
 > **Rol:** Eres un 'Auditor de Datos' (Chief Fact-Checker) extremadamente riguroso.
 > **Instrucción:** Compara el `[Borrador del Artículo]` con los `[Datos Originales de la Entrevista]`. Identifica cualquier información añadida arbitrariamente, citas distorsionadas o expresiones exageradas que no estén respaldadas textualmente por el documento original.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

@@ -42,10 +42,10 @@ O ecossistema frontend atual está retornando à "leveza", e no centro dessa rev
 Use esta versão quando quiser definir o Astro como stack tecnológico e gerar imediatamente a estrutura básica de um blog em Markdown.
 
 > **Role (Papel):** Você é um Engenheiro Frontend Sênior e um Tech Blogger.
->
+
 > **Task (Tarefa):** Quero construir um blog de desenvolvimento baseado em Markdown/MDX usando o framework Astro. Sugira a estrutura completa de pastas do projeto e escreva um exemplo do código de roteamento principal (`[slug].astro`) que lê um arquivo Markdown específico e o renderiza como uma página detalhada.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Arquitetura Híbrida e Otimização de Performance)
 

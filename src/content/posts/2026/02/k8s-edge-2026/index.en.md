@@ -44,7 +44,7 @@ Use this when you need a quick recommendation for a lightweight cluster setup.
 >
 > **Task:** Recommend a lightweight Kubernetes distribution and GitOps strategy for `[number of clusters]` edge nodes with `[RAM size]` RAM and `[network condition]` connectivity. Provide a brief architectural summary.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

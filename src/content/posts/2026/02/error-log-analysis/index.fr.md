@@ -43,7 +43,7 @@ Utilisez cette version pour un diagnostic immédiat lorsque vous êtes pressé.
 > **Demande :** Analyse le log d'erreur ci-dessous, dis-moi exactement ce qui a planté et donne-moi le code pour le corriger.
 > **Log :** `[Collez votre erreur ici]`
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 
@@ -120,7 +120,7 @@ Exception in thread "main" java.lang.NullPointerException
     ... (100 lignes de trace de pile incompréhensibles)
 ```
 
-<br>
+\
 
 ### ✅ Après (Réponse de l'IA)
 

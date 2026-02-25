@@ -51,7 +51,7 @@ Nutzen Sie diesen grundlegenden Prompt, wenn Sie einem einzigen Modell sowohl di
 > **Rolle:** Du bist ein `[Senior AI Developer]`.
 > **Aufgabe:** Plane einen `[Autonomen Aktien-Investment-Agenten]` und schreibe den kompletten Python-Code für dessen Ausführung.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 
@@ -60,51 +60,51 @@ Dieser **zweistufige Chain-Prompt** kombiniert die Planungskompetenz von Gemini 
 #### Step 1. Planung durch Gemini 3 Ultra (Deep Think nutzen)
 
 > **Rolle (Role):** Du bist ein `[Senior AI Solutions Architect]` mit 15 Jahren Erfahrung.
->
+
 > **Kontext (Context):**
-> 
-> - Hintergrund: Ich möchte einen hybriden Agenten entwickeln, der die Coding-Fähigkeiten von GPT-5 mit dem Reasoning von Gemini 3 Ultra kombiniert.
-> - Ziel: Entwurf einer perfekten Systemarchitektur, die alle Edge-Cases berücksichtigt und absichert.
->
+
+- Hintergrund: Ich möchte einen hybriden Agenten entwickeln, der die Coding-Fähigkeiten von GPT-5 mit dem Reasoning von Gemini 3 Ultra kombiniert.
+- Ziel: Entwurf einer perfekten Systemarchitektur, die alle Edge-Cases berücksichtigt und absichert.
+
 > **Aufgabe (Task):**
-> 
-> 1. **Deep Analysis:** Prüfe die technische Machbarkeit der Idee für einen `[Autonomen Aktien-Investment-Agenten]` und identifiziere mindestens 3 potenzielle Risikofaktoren (Risk Factors).
-> 2. **Architecture Design:** Entwirf die Systemarchitektur inklusive Daten-Pipelines, benötigten KI-Modellen und externen APIs.
-> 3. **Prompt Strategy:** Schlage eine interne Prompting-Strategie (z. B. Few-Shot, Chain-of-Thought) vor, um diesen Agenten effizient zu betreiben.
->
+
+1. **Deep Analysis:** Prüfe die technische Machbarkeit der Idee für einen `[Autonomen Aktien-Investment-Agenten]` und identifiziere mindestens 3 potenzielle Risikofaktoren (Risk Factors).
+2. **Architecture Design:** Entwirf die Systemarchitektur inklusive Daten-Pipelines, benötigten KI-Modellen und externen APIs.
+3. **Prompt Strategy:** Schlage eine interne Prompting-Strategie (z. B. Few-Shot, Chain-of-Thought) vor, um diesen Agenten effizient zu betreiben.
+
 > **Einschränkungen (Constraints):**
-> 
-> - Die Ausgabe muss strikt als saubere Markdown-Liste formatiert sein.
-> - Erwartete API-Kosten und Rate-Limit-Probleme müssen explizit benannt werden.
->
+
+- Die Ausgabe muss strikt als saubere Markdown-Liste formatiert sein.
+- Erwartete API-Kosten und Rate-Limit-Probleme müssen explizit benannt werden.
+
 > **Warnung (Warning):**
-> 
-> - Nutze deinen Deep Think-Modus maximal aus, um tief verborgene logische Fehler aufzudecken. Allgemeine und offensichtliche Binsenweisheiten sind strengstens untersagt.
+
+- Nutze deinen Deep Think-Modus maximal aus, um tief verborgene logische Fehler aufzudecken. Allgemeine und offensichtliche Binsenweisheiten sind strengstens untersagt.
 
 #### Step 2. Ausführung durch GPT-5 (Zero-Shot-Ausführung garantieren)
 
 > **Rolle (Role):** Du bist ein `[Senior Python Developer]`, ehemals bei Google.
->
+
 > **Kontext (Context):**
-> 
-> - Hintergrund: Ein perfektes, von einem Facharchitekten erstelltes technisches Spezifikationsdokument liegt vor.
-> - Ziel: Implementierung von sofort einsetzbarem, produktionsreifem (Production-Ready) Python-Code.
->
+
+- Hintergrund: Ein perfektes, von einem Facharchitekten erstelltes technisches Spezifikationsdokument liegt vor.
+- Ziel: Implementierung von sofort einsetzbarem, produktionsreifem (Production-Ready) Python-Code.
+
 > **Aufgabe (Task):**
-> 
-> 1. Implementiere perfekten Python-Code basierend auf `[dem von Gemini generierten technischen Spezifikationsdokument]`.
-> 2. **Environment Setup:** Definiere alle erforderlichen Bibliotheken in einer `requirements.txt`.
-> 3. **Core Logic:** Schreibe die zentrale Klasse (`class Agent`), die die Architektur umsetzt.
-> 4. **Error Handling:** Integriere robuste Verteidigungslogiken gegen API-Aufruffehler, Netzwerkabbrüche usw.
->
+
+1. Implementiere perfekten Python-Code basierend auf `[dem von Gemini generierten technischen Spezifikationsdokument]`.
+2. **Environment Setup:** Definiere alle erforderlichen Bibliotheken in einer `requirements.txt`.
+3. **Core Logic:** Schreibe die zentrale Klasse (`class Agent`), die die Architektur umsetzt.
+4. **Error Handling:** Integriere robuste Verteidigungslogiken gegen API-Aufruffehler, Netzwerkabbrüche usw.
+
 > **Einschränkungen (Constraints):**
-> 
-> - Der Code muss strikt modularisiert sein und sich an den PEP8-Styleguide halten.
-> - Jede Funktion muss mit detaillierten Docstrings versehen sein.
->
+
+- Der Code muss strikt modularisiert sein und sich an den PEP8-Styleguide halten.
+- Jede Funktion muss mit detaillierten Docstrings versehen sein.
+
 > **Warnung (Warning):**
-> 
-> - Erfinde keine imaginären Bibliotheken. Der Code muss beim ersten Versuch fehlerfrei ausführbar sein.
+
+- Erfinde keine imaginären Bibliotheken. Der Code muss beim ersten Versuch fehlerfrei ausführbar sein.
 
 ---
 

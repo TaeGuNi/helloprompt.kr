@@ -13,7 +13,7 @@ tags: ["Museum", "Art Gallery", "Audio Guide", "Docent", "Art Appreciation"]
 
 - **🎯 Recommended for:** Travelers, Art Enthusiasts, Museum Goers
 - **⏱️ Time Required:** 5 minutes
-- **🤖 Recommended Model:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro (Models with strong Vision capabilities)
+- **🤖 Recommended Model:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro (Models with strong Vision capabilities)
 
 - ⭐ **Difficulty:** ⭐⭐☆☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Use this when you need an immediate, bite-sized explanation without the fluff.
 > **Role:** You are a friendly, highly knowledgeable art docent.
 > **Task:** Explain the artwork in the attached image simply and engagingly. Tell me the title, artist, and why this piece is significant.
 
-<br>
+\
 
 ### 🥇 Pro Version (Deep Dive)
 

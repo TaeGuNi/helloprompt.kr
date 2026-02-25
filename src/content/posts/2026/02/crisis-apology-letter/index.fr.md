@@ -44,7 +44,7 @@ Tout le monde fait des erreurs dans le monde professionnel. La différence entre
 > **Situation :** Je suis arrivé avec `[10 minutes de retard à la réunion d'équipe]`.
 > **Tâche :** Rédige un court message d'excuse sur Slack/Teams pour mon manager. Ne cherche aucune excuse, présente des excuses sincères et indique brièvement comment je vais rattraper ce retard. Le ton doit être professionnel mais concis.
 
-<br>
+\
 
 ### 🥇 Version Pro (Accidents majeurs / Réclamations clients)
 
@@ -103,8 +103,8 @@ C'est ici que l'IA brille véritablement. En externalisant la rédaction à un m
 
 ### ❌ Avant (Brouillon rédigé sous la panique)
 
-> Bonjour M. Dupont,
-> Je vous écris car la neige est trop forte en ce moment, donc les camions ne peuvent pas rouler. Ce n'est pas de notre faute, c'est la météo qui bloque tout... Bref, je suis désolé pour le désagrément. Votre colis n'arrivera que dans 3 jours. Merci de votre compréhension.
+Bonjour M. Dupont,
+Je vous écris car la neige est trop forte en ce moment, donc les camions ne peuvent pas rouler. Ce n'est pas de notre faute, c'est la météo qui bloque tout... Bref, je suis désolé pour le désagrément. Votre colis n'arrivera que dans 3 jours. Merci de votre compréhension.
 
 ### ✅ Après (Généré avec l'IA via le prompt Pro)
 

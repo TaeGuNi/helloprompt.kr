@@ -7,9 +7,6 @@ updatedDate: "2026-02-16"
 category: "AI 트렌드"
 description: " \"Smetti di ossessionarti con la scelta delle parole. Nell'era di Gemini 3 e GPT-5, non devi progettare frasi, ma 'Intenti' (Intent).\""
 tags: ["AI 트렌드", "에이전트", "Gemini 3", "GPT-5", "프롬프트 엔지니어링"]
-image:
-  url: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2565&auto=format&fit=crop"
-  alt: "추상적인 AI 에이전트 네트워크"
 ---
 
 # 📝 La fine del Prompt Engineering: progetta il tuo 'Intento'
@@ -47,7 +44,7 @@ Questo è il metodo del passato. La qualità del risultato è lasciata al caso e
 > **Ruolo:** Sei un tech blogger.
 > **Compito:** Scrivi un articolo che confronta i linguaggi Rust e Go. Scrivilo in modo divertente.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Architetto)
 

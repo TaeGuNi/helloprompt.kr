@@ -51,7 +51,7 @@ Este prompt maximiza las funciones de 'Conciencia Ultra Gran Angular (Ultra-Wide
 > **Rol:** Eres un `[Desarrollador Backend Senior]`.
 > **Tarea:** Refactoriza la función `[Nombre de la función actual]` de este archivo utilizando la sintaxis más moderna y corrige por completo cualquier fuga de memoria o error potencial.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

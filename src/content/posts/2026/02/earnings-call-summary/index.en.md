@@ -42,7 +42,7 @@ Use this when you are in a rush and just need the bottom line immediately after 
 > **Role:** You are a Senior Equity Research Analyst at a top-tier Wall Street hedge fund.
 > **Task:** I will provide the transcript for `[Company Name]`'s latest earnings call. Summarize the core financial results (Beat/Miss), forward guidance, and the overall sentiment in bullet points.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

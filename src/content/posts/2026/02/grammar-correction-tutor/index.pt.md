@@ -45,7 +45,7 @@ Use esta versão quando precisar de uma correção rápida com uma explicação 
 >
 > **Tarefa:** Corrija os erros gramaticais e explique o motivo de cada correção de forma didática.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

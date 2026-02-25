@@ -42,7 +42,7 @@ Ideal para quando você precisa apenas de um rascunho rápido para se inspirar.
 > **Papel:** Você é um produtor e diretor criativo lendário de K-pop (nível SM, HYBE, JYP).
 > **Solicitação:** Crie rapidamente o conceito de um novo álbum de K-pop, a história do universo do grupo e um refrão marcante para a faixa-título.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert Version)
 
@@ -109,7 +109,7 @@ A mágica do K-pop está na coesão absoluta entre o que se ouve e o que se vê.
 
 ### ❌ Antes (Entrada Simples)
 
-> "Crie o conceito de um grupo feminino com tema de viagem no tempo."
+"Crie o conceito de um grupo feminino com tema de viagem no tempo."
 
 ### ✅ Depois (Resultado do Prompt Pro)
 

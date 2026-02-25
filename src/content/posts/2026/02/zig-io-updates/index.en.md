@@ -43,7 +43,7 @@ Use this when you need a quick core summary and basic code snippets.
 > **Role:** You are a senior `[Zig Systems Programmer]`.
 > **Task:** Summarize the major changes in Zig's asynchronous I/O (`io_uring`, `IOCP`, `kqueue`) updated in February 2026, and write a simple asynchronous socket server example utilizing them.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

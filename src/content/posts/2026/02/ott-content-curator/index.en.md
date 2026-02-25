@@ -42,7 +42,7 @@ Use this when you need a quick, reliable recommendation without overthinking.
 > **Role:** You are an elite Content Curator and Film Critic.
 > **Request:** Analyze my taste based on my favorite movie, `[Movie Title]`, and recommend a hidden gem available on `[Streaming Service]` that fits my current mood: `[Current Mood]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 
@@ -107,7 +107,7 @@ By providing three "All-Time Favorites" and a specific "Current Mood," you force
 
 ### ❌ Before (Input)
 
-> "Recommend a fun sci-fi show on Netflix."
+"Recommend a fun sci-fi show on Netflix."
 
 _(Result: AI spits out a generic list of top 10 trending sci-fi shows like Stranger Things or Black Mirror, which you've probably already seen.)_
 
@@ -116,11 +116,11 @@ _(Result: AI spits out a generic list of top 10 trending sci-fi shows like Stran
 _(Result: The AI provides a highly curated response tailored to the complex sci-fi taste profile.)_
 
 > **1. Dark (TV Series)**
->
-> - **Logline:** Two children go missing in a small German town, exposing the fractured relationships, double lives, and dark pasts of four families living there, revealing a mind-bending mystery that spans across generations.
-> - **Why I Recommend It:** Since you love the temporal mechanics of _Tenet_ and the dream-logic of _Inception_, _Dark_ is the ultimate time-loop masterpiece. It demands your full attention and rewards you with a perfectly constructed puzzle.
-> - **Ratings:** Rotten Tomatoes 95% | IMDb 8.7/10
-> - **Binge-Watching Time:** Approx. 26 hours (3 Seasons)
+
+- **Logline:** Two children go missing in a small German town, exposing the fractured relationships, double lives, and dark pasts of four families living there, revealing a mind-bending mystery that spans across generations.
+- **Why I Recommend It:** Since you love the temporal mechanics of _Tenet_ and the dream-logic of _Inception_, _Dark_ is the ultimate time-loop masterpiece. It demands your full attention and rewards you with a perfectly constructed puzzle.
+- **Ratings:** Rotten Tomatoes 95% | IMDb 8.7/10
+- **Binge-Watching Time:** Approx. 26 hours (3 Seasons)
 
 ---
 

@@ -42,7 +42,7 @@ Use this when you need a quick, high-level overview.
 > **Role:** You are an expert 'Solo Travel Consultant' who has backpacked across 50+ countries.
 > **Task:** Provide a customized itinerary for a solo traveler to `[Destination]`. Focus strictly on safe neighborhoods, budget-friendly solo dining, and organic ways to meet other travelers.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 
@@ -109,7 +109,7 @@ This prompt is incredibly powerful because it forces the AI to consider the **ps
 
 ### ❌ Before (Input)
 
-> "Recommend a 7-day Europe backpacking itinerary."
+"Recommend a 7-day Europe backpacking itinerary."
 
 _(Result: A generic, exhausting rush through London, Paris, and Rome, ignoring travel times, budget constraints, and solo safety.)_
 

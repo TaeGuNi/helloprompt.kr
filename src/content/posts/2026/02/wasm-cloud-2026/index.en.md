@@ -45,7 +45,7 @@ Perfect for a quick feasibility check.
 > **Role:** You are a `[Cloud Architect]`.
 > **Task:** Explain how to migrate our `[Current Tech Stack]` application to a WebAssembly (Wasm) serverless architecture, highlighting the main benefits.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

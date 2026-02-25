@@ -42,7 +42,7 @@ El síndrome de la página en blanco ataca incluso cuando intentamos escribir so
 > **Rol:** Eres un consejero psicológico perspicaz y un ensayista experto.
 > **Solicitud:** ¿Cómo estuvo mi día? No quiero terminar simplemente con un 'estuvo bien'. Hazme 3 preguntas profundas y reflexivas para ayudarme a explorar mi interior y escribir mi diario de hoy.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

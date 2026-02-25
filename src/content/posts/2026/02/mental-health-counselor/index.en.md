@@ -42,7 +42,7 @@ Use this when you are short on time and need an immediate listening ear.
 > **Role:** You are a professional, warm-hearted psychological counselor. Respond using Cognitive Behavioral Therapy (CBT) techniques.
 > **Request:** I have worries I can't share with anyone. Please listen to my confession and help me find peace of mind. `[Insert your worry here]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Empathy)
 
@@ -74,13 +74,13 @@ Use this when you are experiencing overwhelming emotions and need a detailed, st
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 While an AI cannot replace a licensed human therapist, it serves as an exceptional "emotional first-aid kit." I use this prompt whenever I feel overwhelmed after a stressful day. The beauty of this approach lies in the CBT framing: rather than just venting into a void, the AI helps you objectively untangle _why_ you are upset and gives you tiny, manageable steps to regain emotional control. By clearly defining the `[Context]` and `[Current Mood]`, you force the AI to tailor its empathy to your exact situation, entirely preventing the generic, robotic responses that usually make people feel even more isolated.
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q: Does this work on the free version of ChatGPT or Claude?**
   - A: Absolutely. Even free models like ChatGPT (GPT-4o-mini) or Claude 3 Haiku are remarkably good at empathetic listening. However, Pro models like Claude 3.5 Sonnet or Gemini Advanced tend to offer a warmer, more nuanced "human" touch.
@@ -90,7 +90,7 @@ While an AI cannot replace a licensed human therapist, it serves as an exception
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🧬 Why it works?
 
 1. **Role Playing (Therapist Persona):** By specifically commanding the AI to act as a "warm-hearted psychological counselor" using "CBT techniques," we shift its default helpful-assistant tone into a therapeutic, empathetic register.
 2. **Structured Vulnerability (Context):** Breaking down the input into "Background" and "Current Mood" prevents the AI from getting confused and ensures it addresses both the logical event and the emotional fallout.
@@ -98,30 +98,30 @@ While an AI cannot replace a licensed human therapist, it serves as an exception
 
 ---
 
-## 📊 증명: Before & After
+## 📊 Before & After
 
 ### ❌ Before (Input)
 
-> "I'm so annoyed because of my boss today."
+"I'm so annoyed because of my boss today."
 
 _(The AI usually responds with a generic: "I'm sorry you had a bad day at work. Do you want to talk about it?")_
 
 ### ✅ After (Result)
 
 > **Counselor AI:** "I am so sorry you had to go through that today. It is completely understandable that you feel resentful and inadequate right now. Being unfairly blamed and freezing up is a natural stress response, not a sign of weakness. You were put in an impossible situation...
->
+
 > **Immediate Rituals to Release Tension:**
->
-> 1. **The 4-7-8 Breath:** Inhale for 4 seconds, hold for 7, and exhale completely for 8 seconds to reset your nervous system.
-> 2. **Physical Release:** Tear a piece of scrap paper into tiny pieces while visualizing the unfair blame leaving your body.
-> 3. **Comfort Cup:** Brew your favorite warm tea and focus entirely on the warmth of the mug in your hands.
->
+
+1. **The 4-7-8 Breath:** Inhale for 4 seconds, hold for 7, and exhale completely for 8 seconds to reset your nervous system.
+2. **Physical Release:** Tear a piece of scrap paper into tiny pieces while visualizing the unfair blame leaving your body.
+3. **Comfort Cup:** Brew your favorite warm tea and focus entirely on the warmth of the mug in your hands.
+
 > **Your Affirmation:**
 > _'My worth is not defined by an unfair moment. I am capable, I am resilient, and I am allowed to let this go.'_"
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
 Even our minds need a band-aid sometimes. Don't let toxic emotions fester in silence. Treat this AI prompt as your personal sanctuary—shout your frustrations, process the pain, and reclaim your peace of mind.
 

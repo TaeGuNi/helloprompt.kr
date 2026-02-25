@@ -48,7 +48,7 @@ Idéale pour obtenir rapidement une trame de réponse générale.
 > **Rôle :** Tu es un coach en carrière et un psychologue du travail expert en psychologie positive.
 > **Requête :** Aide-moi à réinterpréter une période d'inactivité sur mon CV (voyage, repos, réflexion) en une étape de développement personnel pertinente pour ma lettre de motivation et mes futurs entretiens.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

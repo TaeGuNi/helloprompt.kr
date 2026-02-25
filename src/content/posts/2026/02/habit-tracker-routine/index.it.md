@@ -43,7 +43,7 @@ Usala quando hai bisogno di una routine semplice da mettere in pratica fin da qu
 > **Contesto:** Sono un normale impiegato e dopo il lavoro sono sempre troppo stanco per fare qualsiasi cosa.
 > **Task:** Crea un programma serale realistico che mi permetta di fare un po' di `[studio dell'inglese, allenamento a casa, lettura]` ogni giorno, anche solo per pochi minuti.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

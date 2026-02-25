@@ -13,7 +13,7 @@ tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 
 - **🎯 Recomendado para:** Oficinistas, analistas de datos, marketers y cualquier persona que sufra con Excel.
 - **⏱️ Tiempo requerido:** De 30 minutos de frustración → a solo 1 minuto.
-- **🤖 Modelo recomendado:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 1.5 Pro.
+- **🤖 Modelo recomendado:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 2.5 Pro.
 
 - ⭐ **Dificultad:** ⭐☆☆☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -43,7 +43,7 @@ Trabajar con Excel es el pan de cada día en la oficina, pero a menudo nos topam
 >
 > **Solicitud:** Ayúdame a crear una fórmula de Excel para esta situación: `[Describe tu problema, ej: Quiero sumar los valores de la columna B solo si la columna A dice 'Completado']`.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Expert Version)
 

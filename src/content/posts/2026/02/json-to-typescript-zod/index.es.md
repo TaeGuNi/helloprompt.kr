@@ -44,7 +44,7 @@ Con este prompt, solo necesitas copiar y pegar el JSON de respuesta de la API. L
 > **Rol:** Eres un Desarrollador Senior experto en el ecosistema TypeScript.
 > **Solicitud:** Convierte el siguiente JSON en interfaces de TypeScript y esquemas de Zod. JSON: `[Pega tu JSON aquí]`
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

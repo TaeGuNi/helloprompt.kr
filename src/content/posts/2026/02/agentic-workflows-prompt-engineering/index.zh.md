@@ -9,7 +9,7 @@ tags: ["AI", "Agentic Workflow", "Prompt Engineering", "LLM", "Tech"]
 
 - **🎯 推荐对象：** AI开发者、产品经理、提效工具狂热粉
 - **⏱️ 节省时间：** 复杂任务数小时 → 自动化几分钟
-- **🤖 推荐模型：** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 推荐模型：** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **难度系数：** ⭐⭐⭐⭐☆
 - ⚡️ **执行效果：** ⭐⭐⭐⭐⭐
@@ -45,7 +45,7 @@ tags: ["AI", "Agentic Workflow", "Prompt Engineering", "LLM", "Tech"]
 > 2. **反思环节：** 写完代码后，请立刻以“代码审查员”的视角，检查你刚才写的代码是否存在内存泄漏、可访问性（a11y）问题或边界条件错误。
 > 3. **最终输出：** 给出经过你自我修正后的最终版代码，并简述你发现并修复了哪些潜在Bug。
 
-<br>
+\
 
 ### 🥇 Pro Version (专业版)
 

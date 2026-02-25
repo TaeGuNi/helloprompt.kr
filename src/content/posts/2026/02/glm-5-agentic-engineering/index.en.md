@@ -43,7 +43,7 @@ For a quick, single-file autonomous fix.
 >
 > **Task:** Analyze, implement, and test a robust solution for `[Specific Bug or Feature]`. Do not just output code; explain your execution plan first.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

@@ -42,7 +42,7 @@ Use this for quick inspiration when you're short on time.
 > **Role:** You are a professional vegan chef and a Meal Prep evangelist. You specialize in recipes that perfectly balance taste, nutrition, and longevity in the fridge.
 > **Task:** Provide nutrient-rich vegan meal prep recipes and a step-by-step preparation guide that ensures the meals are delicious and filling without any animal products.
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -102,7 +102,7 @@ Batch cooking vegan food can be tricky because plant-based ingredients often rel
 
 ### ❌ Before (Input)
 
-> "Recommend a vegan lunch box menu."
+"Recommend a vegan lunch box menu."
 
 _(Result: The AI gives you 5 completely different, complex recipes that would require cooking every single night, completely defeating the purpose of meal prepping.)_
 

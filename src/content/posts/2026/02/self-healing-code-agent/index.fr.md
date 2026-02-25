@@ -11,7 +11,7 @@ image: "/images/2026/02/16/self-healing-code.jpg"
 
 - **🎯 Recommandé pour :** Développeurs, Ingénieurs Data, Leaders envisageant l'intégration d'agents IA
 - **⏱️ Temps gagné :** Du débogage infini → 0 minute grâce à l'automatisation
-- **🤖 Modèles recommandés :** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro (Modèles spécialisés en code)
+- **🤖 Modèles recommandés :** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro (Modèles spécialisés en code)
 
 - ⭐ **Difficulté :** ⭐⭐⭐⭐☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -44,7 +44,7 @@ Idéal pour corriger rapidement des erreurs simples.
 > **Rôle :** Tu es un `[Développeur Python Senior]`.
 > **Tâche :** Corrige les bugs du `[Code Source]` ci-dessous en te basant sur ce `[Message d'erreur]`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

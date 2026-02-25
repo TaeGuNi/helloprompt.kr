@@ -42,7 +42,7 @@ Usa questo prompt per ottenere una panoramica veloce e concettuale dei vantaggi 
 > **Ruolo:** Sei un esperto Ingegnere del Kernel Linux.
 > **Richiesta:** Spiegami in modo semplice perché il nuovo driver 'Tyr' scritto in Rust per le GPU Arm Mali è intrinsecamente più sicuro dei tradizionali driver scritti in C. Fornisci due chiari esempi di vulnerabilità di memoria che Rust previene a livello di compilazione.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

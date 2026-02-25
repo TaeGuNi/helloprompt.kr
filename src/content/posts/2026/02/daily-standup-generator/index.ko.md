@@ -49,7 +49,7 @@ tags: ["Scrum", "Agile", "Standup", "Communication"]
 > - 오늘: 회원가입 페이지 연동, 디자인 팀 미팅
 > - 이슈: AWS 서버 접속 불안정
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 

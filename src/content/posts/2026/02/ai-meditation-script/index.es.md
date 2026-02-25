@@ -42,7 +42,7 @@ Nuestro estado de ánimo cambia constantemente, y no podemos conformarnos con es
 > **Rol:** Eres un experto en meditación para el sueño.
 > **Tarea:** Mañana tengo un evento importante, no puedo dormir y siento mucha ansiedad. Escribe un guion de meditación de 5 minutos utilizando la técnica de "Escaneo Corporal" (Body Scan) para que pueda relajar completamente la tensión de mi cuerpo y caer en un sueño profundo. Enfatiza la sensación de relajación muy lenta y progresiva, desde la punta de los pies hasta la coronilla.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Profesional)
 

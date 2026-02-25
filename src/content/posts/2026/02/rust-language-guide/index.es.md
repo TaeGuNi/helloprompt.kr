@@ -13,7 +13,7 @@ tags: ["Rust", "러스트", "시스템프로그래밍", "백엔드", "WebAssembl
 
 - **🎯 Recomendado para:** Desarrolladores de sistemas agotados por las interminables fugas de memoria (Segfaults) de C/C++, e ingenieros backend que anhelan un rendimiento sin límites.
 - **⏱️ Tiempo estimado:** 20 minutos (para entender el concepto central de Propiedad/Ownership).
-- **🤖 Modelos recomendados:** Cualquier IA conversacional (ChatGPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro, etc.).
+- **🤖 Modelos recomendados:** Cualquier IA conversacional (ChatGPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro, etc.).
 
 - ⭐ **Dificultad:** ⭐⭐⭐⭐⭐
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ El compilador de Rust es como el supervisor de código más estricto del mundo. 
 > **Rol:** Eres un `[Desarrollador Senior de Rust]`.
 > **Tarea:** Explícame, a nivel de principiante, cómo escribir un código que imprima 'Hello World' en Rust. Además, guíame paso a paso a través de los comandos CLI para crear, compilar y ejecutar un nuevo proyecto usando `[Cargo]`.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

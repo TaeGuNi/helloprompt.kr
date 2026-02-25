@@ -39,7 +39,7 @@ Ce prompt maximise la puissante capacité de raisonnement de Gemini 3 Pro pour t
 > **Rôle :** Tu es un Chef de Produit (Product Manager) Senior.
 > **Tâche :** Explique-moi la logique métier principale et les risques potentiels concernant `[Idée de nouveau service]` en la divisant en 3 étapes.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

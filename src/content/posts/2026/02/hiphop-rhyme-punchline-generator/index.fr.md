@@ -42,7 +42,7 @@ Utilisez ce prompt quand vous cherchez juste une inspiration immédiate pour dé
 > **Rôle :** Tu es un rappeur de génie et un parolier (ghostwriter) de haut niveau.
 > **Requête :** Écris-moi 4 mesures de rap sur le thème de `[la détermination]`. Fais rimer les fins de phrases avec la sonorité `[eur / ar]`. Inclus une punchline marquante.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Expert)
 
@@ -111,11 +111,11 @@ Personnellement, je n'utilise jamais le texte de l'IA tel quel à 100%. Je m'en 
 
 ### ❌ Before (Entrée basique sans IA)
 
-> "Je veux réussir dans la vie.
-> Je serai le meilleur, c'est mon envie.
-> Personne ne pourra m'arrêter.
-> Je vais tous les surpasser."
->
+"Je veux réussir dans la vie.
+Je serai le meilleur, c'est mon envie.
+Personne ne pourra m'arrêter.
+Je vais tous les surpasser."
+
 > _(Rimes pauvres, flow plat, aucune image forte, style enfantin)_
 
 ### ✅ After (Résultat avec le Prompt Pro)

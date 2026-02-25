@@ -13,7 +13,7 @@ tags: ["독서", "요약", "학습", "지식관리"]
 
 - **🎯 Público objetivo:** Oficinistas, desarrolladores y estudiantes de posgrado con montañas de material por leer y poco tiempo.
 - **⏱️ Tiempo requerido:** Reducido de 1 hora → a 15 minutos.
-- **🤖 Modelos recomendados:** Claude 3.5 Sonnet (Excelente en contextos largos), Gemini 1.5 Pro.
+- **🤖 Modelos recomendados:** Claude 3.5 Sonnet (Excelente en contextos largos), Gemini 2.5 Pro.
 
 - ⭐ **Dificultad:** ⭐⭐☆☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -45,7 +45,7 @@ Este prompt transforma a la IA en tu 'tutor de lectura' personal 1:1. Desglosa c
 > **Tarea:** Lee el siguiente texto y resume los 3 puntos clave más importantes de forma que hasta un principiante pueda entenderlos fácilmente.
 > **Texto:** `[Inserta el texto aquí]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Profesional)
 
@@ -88,7 +88,7 @@ El cerebro humano aprende más rápido cuando conecta información desconocida c
 ## 🙋 Preguntas Frecuentes (FAQ) {#faq}
 
 - **P: ¿Puedo copiar y pegar un libro entero a la vez?**
-  - R: Depende del tamaño de la ventana de contexto (Context Window) del modelo de IA. Modelos recientes como Gemini 1.5 Pro o Claude 3.5 Sonnet pueden procesar fácilmente un PDF o texto de la longitud de un libro. Sin embargo, si deseas respuestas más precisas y detalladas, te recomiendo hacer preguntas dividiendo el contenido por capítulos.
+  - R: Depende del tamaño de la ventana de contexto (Context Window) del modelo de IA. Modelos recientes como Gemini 2.5 Pro o Claude 3.5 Sonnet pueden procesar fácilmente un PDF o texto de la longitud de un libro. Sin embargo, si deseas respuestas más precisas y detalladas, te recomiendo hacer preguntas dividiendo el contenido por capítulos.
 
 - **P: ¿Puedo confiar solo en el resumen y no leer el texto original?**
   - R: La IA es una excelente brújula, pero no captura todos los detalles del mapa. Usa este prompt como un 'aperitivo para captar el esqueleto y el contexto del libro antes de la lectura formal'. Si primero introduces la estructura general en tu cerebro y luego lees el texto original, absorberás el contenido como una esponja.

@@ -10,7 +10,7 @@ tags: ["AI Trends", "Multimodal", "Prompt Engineering", "2026"]
 
 - **🎯 推薦對象：** UI/UX 設計師、內容創作者、AI 開發者與專案經理
 - **⏱️ 溝通時間：** 60分鐘 → 3分鐘
-- **🤖 推薦模型：** GPT-4o, Gemini 1.5 Pro, Claude 3.5 Sonnet 等多模態模型
+- **🤖 推薦模型：** GPT-4o, Gemini 2.5 Pro, Claude 3.5 Sonnet 等多模態模型
 
 - ⭐ **難易度：** ⭐⭐⭐☆☆
 - ⚡️ **有效性：** ⭐⭐⭐⭐⭐
@@ -39,7 +39,7 @@ tags: ["AI Trends", "Multimodal", "Prompt Engineering", "2026"]
 > **角色：** 你是一位專業的 `[領域專家，例如：UI/UX 審查員]`。
 > **任務：** 請分析我提供的 `[圖片/音訊/影片]`，並針對 `[具體問題，例如：畫面中的紅色按鈕設計]` 給出具體的優化建議。
 
-<br>
+\
 
 ### 🥇 Pro Version (專業版)
 

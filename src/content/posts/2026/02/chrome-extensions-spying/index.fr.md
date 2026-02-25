@@ -47,7 +47,7 @@ Idéale pour obtenir un diagnostic de sécurité ultra-rapide en copiant simplem
 > - Nom : `[Nom de l'extension]`
 > - Autorisations requises : `[Copier/Coller la liste des autorisations affichée sur le Web Store]`
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 
@@ -115,7 +115,7 @@ Prenez la bonne habitude de taper régulièrement `chrome://extensions/` dans vo
 
 ### ❌ Avant (Une question banale)
 
-> Cette extension de conversion PDF est-elle sûre ? Elle demande l'autorisation 'lire les données de tous les sites'.
+Cette extension de conversion PDF est-elle sûre ? Elle demande l'autorisation 'lire les données de tous les sites'.
 
 ```text
 La plupart des convertisseurs PDF ont besoin de capturer le contenu de la page Web, cette autorisation peut donc être nécessaire. Cependant, il est recommandé de vérifier les avis pour s'assurer que le développeur est digne de confiance.

@@ -43,7 +43,7 @@ Idéal pour les problèmes récurrents comme les retards de livraison ou les dat
 > **Tâche :** Réponds à la demande suivante en t'excusant pour le retard de livraison estimé à `[Durée du retard]` en raison de `[Raison du retard]`. Formule une réponse polie précisant que si le client accepte de patienter encore un peu, il recevra `[Détail de la compensation]`.
 > **Demande du client :** `[Copier/Coller la demande réelle du client]`
 
-<br>
+\
 
 ### 🥇 Version Pro (Défense contre les clients abusifs / Refus de remboursement)
 

@@ -43,7 +43,7 @@ Utilizzala immediatamente quando vuoi aggiungere rigore logico a problemi legger
 > **Compito:** Risolvi perfettamente il seguente problema: `[Problema da risolvere]`.
 > **Condizione:** Non dare subito la risposta finale. Mostrami prima il processo di risoluzione dettagliato applicando l'approccio "Let's think step by step" (Pensiamo passo dopo passo).
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 
@@ -83,7 +83,7 @@ Lavorando con i più recenti modelli di ragionamento come DeepSeek R1 o o3-mini 
 
 ## 🙋 Domande Frequenti (FAQ) {#faq}
 
-- **D: Funziona anche con modelli standard come Gemini 1.5 Pro o GPT-4o?**
+- **D: Funziona anche con modelli standard come Gemini 2.5 Pro o GPT-4o?**
   - R: Sì, anche nei modelli standard, forzare il ragionamento step-by-step (CoT) aumenta significativamente l'accuratezza. Tuttavia, la sinergia è letteralmente esplosiva nei modelli più recenti specializzati nel ragionamento (come Gemini 3 Pro, DeepSeek R1), dove il processo cognitivo è stato interiorizzato.
 
 - **D: L'output diventa troppo lungo, non posso avere solo un riassunto?**

@@ -42,7 +42,7 @@ Ideale quando hai bisogno di un'alternativa rapida senza troppi dettagli.
 > **Ruolo:** Agisci come uno `[Sceneggiatore di Hollywood ed Esperto di Slang Americano]`.
 > **Richiesta:** Trasforma questa frase formale in un'espressione autentica e naturale, utilizzando slang o idiomi appropriati al contesto: `[Inserisci la frase]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

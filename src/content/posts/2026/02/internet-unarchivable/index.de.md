@@ -9,7 +9,7 @@ tags: ["Internet", "Archiving", "History", "Web"]
 
 - **🎯 Empfohlen für:** Researcher, Content-Kuratoren, digitale Archivare, Marketer
 - **⏱️ Zeitaufwand:** 1 Stunde → auf 1 Minute verkürzt
-- **🤖 Empfohlenes Modell:** Modelle mit großem Kontextfenster (Claude 3.5 Sonnet, Gemini 1.5 Pro empfohlen)
+- **🤖 Empfohlenes Modell:** Modelle mit großem Kontextfenster (Claude 3.5 Sonnet, Gemini 2.5 Pro empfohlen)
 
 - ⭐ **Schwierigkeit:** ⭐⭐⭐☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -40,7 +40,7 @@ Verwenden Sie diese Version, wenn Sie nur schnell den Haupttext einer Webseite a
 > **Rolle:** Du bist ein professioneller "Digitaler Archivar".
 > **Aufgabe:** Entferne aus dem unten eingefügten, unstrukturierten Webseiten-Text jegliches Rauschen wie Menüs oder Werbung und fasse ausschließlich den informativen "Haupttext" sauber in Markdown zusammen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten)
 
@@ -91,7 +91,7 @@ Er glänzt besonders auf Seiten, bei denen herkömmliche Web Clipper kläglich v
   - A: Beides funktioniert. Bei modernen, dynamisch gerenderten Seiten ist es jedoch oft viel effektiver, den gesamten Text auf dem Bildschirm (Strg+A) zu markieren und zu kopieren. So reduzieren Sie im Vorfeld verstecktes Skript-Rauschen und liefern der KI nur den relevanten, sichtbaren Text.
 
 - **F: Der Text ist zu lang und das KI-Modell gibt eine Fehlermeldung aus. Was kann ich tun?**
-  - A: Wenn Sie den Text einer gesamten Webseite kopieren, kann die Anzahl der Token rasant ansteigen. Ich empfehle dringend die Verwendung von Modellen mit einem sehr großen Kontextfenster, wie Claude 3.5 Sonnet oder Gemini 1.5 Pro, die mühelos mit massiven Datenmengen umgehen können.
+  - A: Wenn Sie den Text einer gesamten Webseite kopieren, kann die Anzahl der Token rasant ansteigen. Ich empfehle dringend die Verwendung von Modellen mit einem sehr großen Kontextfenster, wie Claude 3.5 Sonnet oder Gemini 2.5 Pro, die mühelos mit massiven Datenmengen umgehen können.
 
 ---
 
@@ -131,7 +131,7 @@ tags: ["Dynamische Inhalte", "SPA", "Geschlossene Plattformen"]
 
 Durch die Zunahme von dynamischen Inhalten, SPAs (Single Page Applications) und geschlossenen Plattformen wird es für digitale Archivare zunehmend schwieriger, die Geschichte des offenen Webs zu bewahren.
 
-> "Wir generieren heute die meisten Daten, aber wir leben auch in einer Ära, in der wir Daten am schnellsten wieder verlieren."
+"Wir generieren heute die meisten Daten, aber wir leben auch in einer Ära, in der wir Daten am schnellsten wieder verlieren."
 
 ... (Auslassung: Der bereinigte Haupttext bleibt logisch strukturiert, ohne den ursprünglichen Kontext zu zerstören) ...
 ```

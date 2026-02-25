@@ -42,7 +42,7 @@ Verwenden Sie diesen Prompt, wenn Sie sofortige Ergebnisse ohne viele Details be
 > **Rolle:** Du bist ein erfahrener 'Reiseplaner für Familienreisen' mit 10 Jahren Expertise.
 > **Anfrage:** Erstelle mir einen entspannten Reiseplan für einen Familienurlaub mit Kindern, der Spaß für die Kleinen und Erholung für die Eltern bietet. Berücksichtige dabei unbedingt kinderfreundliche Orte.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenmodus)
 
@@ -103,7 +103,7 @@ Als Elternteil weiß ich, dass eine Reise mit Kindern oft mehr Stress als Erholu
 
 ### ❌ Before (Eingabe ohne Struktur)
 
-> "Plane einen Familienurlaub in Da Nang für 3 Tage."
+"Plane einen Familienurlaub in Da Nang für 3 Tage."
 
 **Ergebnis:** Ein stressiger, generischer Touristenplan voller Tempelbesichtigungen bei 35 Grad im Schatten, ohne Berücksichtigung von Pausenzeiten, Kinderwagenwegen oder kinderfreundlichem Essen.
 

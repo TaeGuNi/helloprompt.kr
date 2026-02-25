@@ -42,7 +42,7 @@ Es muy común enfrentarse a cuellos de botella en el desarrollo frontend mientra
 > **Rol:** Eres un `[Desarrollador Frontend Senior]`.
 > **Tarea:** Crea 5 datos de prueba (JSON) de `[perfiles de usuario]` para pruebas de renderizado de UI en el frontend. Los campos que debes incluir son id, name y email.
 
-<br>
+\
 
 ### 🥇 Versión Pro
 

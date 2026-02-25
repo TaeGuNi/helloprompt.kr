@@ -42,7 +42,7 @@ Use this when you need a quick burst of inspiration without complex parameters.
 > **Role:** You are an expert writing coach and content curator.
 > **Request:** I want to build a daily writing habit. Please generate a 30-day list of engaging writing topics based on my interest in `[Insert Interest]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

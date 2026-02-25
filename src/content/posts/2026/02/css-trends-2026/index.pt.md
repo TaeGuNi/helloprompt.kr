@@ -12,7 +12,7 @@ tags: ["CSS", "Frontend", "Design"]
 
 - **🎯 Público-Alvo:** Desenvolvedores Frontend, Engenheiros de Software, Tech Leads
 - **⏱️ Tempo Gasto:** 2 horas → 2 minutos
-- **🤖 Modelos Recomendados:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 Modelos Recomendados:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **Dificuldade:** ⭐⭐☆☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -46,7 +46,7 @@ Ideal para converter pequenos blocos de CSS ou componentes simples de forma dire
 > **Task:** Refatore o código abaixo utilizando apenas **Nesting CSS Nativo** e **Tailwind CSS v5**. Remova completamente qualquer dependência de bibliotecas CSS-in-JS com runtime.
 > **Código:** `[INSIRA SEU CÓDIGO AQUI]`
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

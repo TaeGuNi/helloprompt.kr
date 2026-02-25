@@ -44,7 +44,7 @@ Como responsable de seguridad, debe enviar inmediatamente un correo de advertenc
 > **Rol:** Eres un `[Responsable de Seguridad TI]`.
 > **Tarea:** Redacta un mensaje de alerta de emergencia interno sobre `[CVE-2026-20841 (Vulnerabilidad RCE en el Bloc de notas de Windows)]`. Haz hincapié en que los empleados no deben abrir archivos txt externos a la ligera e ínstalos a actualizar la aplicación inmediatamente.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Profesional)
 

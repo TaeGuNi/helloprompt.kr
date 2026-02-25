@@ -41,10 +41,10 @@ Use esta versão quando precisar transformar rapidamente o roteiro do vídeo em 
 
 > **Função:** Você é um `[Editor profissional com 10 anos de experiência]`.
 > **Tarefa:** Transforme o `[roteiro do vídeo do YouTube abaixo]` em uma postagem de blog agradável de ler. Refine a linguagem coloquial para uma linguagem escrita natural e melhore a legibilidade dividindo o texto em parágrafos adequados.
->
-> [Insira o roteiro do vídeo do YouTube aqui]
 
-<br>
+[Insira o roteiro do vídeo do YouTube aqui]
+
+\
 
 ### 🥇 Versão Pro (Mestre do Multiúso por Plataforma)
 

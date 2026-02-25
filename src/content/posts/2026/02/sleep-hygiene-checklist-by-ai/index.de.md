@@ -42,7 +42,7 @@ Nutzen Sie diesen Prompt, wenn Sie sofortige, pragmatische Tipps ohne tiefgehend
 > **Rolle:** Du bist ein erfahrener Schlafmediziner.
 > **Anfrage:** Meine aktuelle Schlafumgebung und Gewohnheiten sind `[Ihr aktueller Zustand, z.B. zu warm, Smartphone im Bett]`. Bitte diagnostiziere, warum ich schlecht schlafe, und gib mir 3 einfache Tipps zur Verbesserung.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für die tiefgehende Diagnose)
 

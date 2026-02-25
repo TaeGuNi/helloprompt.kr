@@ -47,7 +47,7 @@ Utilizzala per un controllo rapido quando hai dubbi sull'accessibilità di un pu
 > [Incolla qui il tuo codice]
 > ```
 
-<br>
+\
 
 ### 🥇 Versione Pro
 
@@ -120,8 +120,8 @@ Quando si creano componenti complessi come Select Box personalizzate o Modal sul
 ### ✅ Dopo (Risultato: Supporto perfetto per tastiera e screen reader)
 
 ```html
-<!-- Immagine puramente decorativa: fornisce un alt vuoto o aria-hidden in modo che lo screen reader la ignori -->
-<!-- Usa il tag button che supporta nativamente Invio/Spazio da tastiera oltre all'onClick -->
+
+
 <button type="button" class="submit-btn" onClick="sendData()">
   <img src="send-icon.png" alt="" aria-hidden="true" />
   <span>Invia</span>

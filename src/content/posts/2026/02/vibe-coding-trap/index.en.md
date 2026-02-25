@@ -64,7 +64,7 @@ Use this when you want to validate code or ideas you've already formulated.
 > [Insert your code snippet here]
 > ```
 
-<br>
+\
 
 ### 🥇 Pro Version (The Architecture Inquisitor)
 
@@ -125,7 +125,7 @@ Recently, I also fell prey to the sweet allure of "vibe coding" while throwing t
 
 ### ❌ Before (The Vibe Coding Disaster)
 
-> "Write a React component that fetches and filters a user list."
+"Write a React component that fetches and filters a user list."
 
 _(Result: Blindly copy-pasting code without understanding how state is managed or if there are re-rendering issues, leading to mysterious memory leaks in production.)_
 

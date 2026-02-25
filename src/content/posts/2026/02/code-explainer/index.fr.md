@@ -42,7 +42,7 @@ Utilisez cette version lorsque vous avez juste besoin d'une explication rapide e
 > **Rôle :** Tu es un `[Mentor Développeur Senior Amical]`.
 > **Requête :** Explique-moi ce code ligne par ligne de manière simple, comme si j'étais un débutant. Voici le code : `[Insérez le code]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Version expert)
 

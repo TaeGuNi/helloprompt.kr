@@ -42,7 +42,7 @@ Verwende diese Version für einen schnellen Architektur-Überblick oder grundleg
 > **Rolle:** Du bist ein `[Senior Flutter Performance Engineer]`.
 > **Aufgabe:** Erkläre mir, wie ich `[mein Flutter-Projekt]` optimieren kann, um eine Performance ähnlich der Toyota Fluorite-Engine zu erreichen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Level)
 

@@ -47,7 +47,7 @@ Use this when you need a quick risk assessment by simply pasting the permission 
 > - Name: `[Extension Name]`
 > - Requested Permissions: `[Copy/Paste the requested permissions listed on the Web Store]`
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -115,7 +115,7 @@ Make it a habit to periodically type `chrome://extensions/` into your browser, d
 
 ### ❌ Before (Simple Question)
 
-> Is this PDF converter extension safe? Its permission is 'Read all site data'.
+Is this PDF converter extension safe? Its permission is 'Read all site data'.
 
 ```text
 Most PDF converters need to capture the entire content of a webpage, so this permission might be necessary. However, it is advisable to check the reviews to see if the developer is trustworthy.

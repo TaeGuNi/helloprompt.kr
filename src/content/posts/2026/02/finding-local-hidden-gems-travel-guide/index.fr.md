@@ -42,7 +42,7 @@ Idéal pour obtenir des recommandations rapides lorsque vous êtes déjà sur pl
 > **Rôle :** Tu es un habitant passionné et un guide local qui vit à `[Nom de la Ville]` depuis plus de 10 ans.
 > **Requête :** Je suis fatigué des endroits remplis de touristes ! Recommande-moi 3 endroits locaux authentiques (restaurants, cafés ou lieux secrets) qui n'apparaissent pas dans les guides touristiques classiques.
 
-<br>
+\
 
 ### 🥇 Version Pro
 
@@ -102,7 +102,7 @@ La magie de ce prompt réside dans la contrainte exigeant que "les avis Google M
 
 ### ❌ Avant (Entrée simple)
 
-> "Recommande-moi de bons restaurants à Osaka."
+"Recommande-moi de bons restaurants à Osaka."
 
 _(Résultat typique : L'IA propose Dotonbori, Ichiran Ramen, et les stands de takoyaki les plus célèbres – exactement les endroits où vous ferez 2 heures de queue avec d'autres touristes.)_
 

@@ -42,7 +42,7 @@ Usa questo prompt quando hai bisogno di una guida rapida e dritta al punto.
 > **Ruolo:** Agisci come un Senior Financial Modeler.
 > **Richiesta:** Spiegami in modo semplice come calcolare decine di scenari contemporaneamente utilizzando la funzione "Tabella Dati" di Excel per vedere di quanto diminuisce l'utile se il tasso di cambio sale del 10%.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

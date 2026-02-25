@@ -5,9 +5,6 @@ date: 2026-02-20
 pubDate: 2026-02-20
 description: " \"Aprenda a extrair dados JSON estruturados e precisos de LLMs utilizando a nova biblioteca LangExtract do Google.\""
 author: "Hello Prompt"
-image:
-  url: "https://docs.astro.build/assets/full-logo-light.png"
-  alt: "Google LangExtract Logo"
 tags: ["Google", "LLM", "Data Extraction", "Python", "AI"]
 ---
 
@@ -15,7 +12,7 @@ tags: ["Google", "LLM", "Data Extraction", "Python", "AI"]
 
 - **🎯 Público-alvo:** Desenvolvedores de IA, Engenheiros de Dados, Engenheiros de Prompt
 - **⏱️ Tempo economizado:** Horas de depuração de JSON → 5 minutos de configuração
-- **🤖 Modelo recomendado:** Gemini 1.5 Pro / Flash
+- **🤖 Modelo recomendado:** Gemini 2.5 Pro / Flash
 
 - ⭐ **Dificuldade:** ⭐⭐⭐☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -53,7 +50,7 @@ Geralmente, tentamos forçar a estrutura de dados usando apenas texto livre. Ess
 > - Não adicione blocos de código markdown, explicações ou introduções educadas.
 > - O JSON deve conter estritamente as chaves: "topic", "participants" (array) e "start_time".
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Profissional)
 
@@ -91,7 +88,7 @@ class MeetingInfo(BaseModel):
     start_time: datetime = Field(description="Data e hora de início da reunião no formato ISO")
     location: str | None = Field(description="Local da reunião (nulo se não houver ou for remoto)")
 
-# 2. Inicializar o extrator (usando o Gemini 1.5 Flash para altíssima velocidade e baixo custo)
+# 2. Inicializar o extrator (usando o Gemini 2.5 Flash para altíssima velocidade e baixo custo)
 extractor = DataExtractor(model="gemini-1.5-flash")
 
 email_content = """

@@ -42,7 +42,7 @@ Utilizza questa versione se hai poco tempo e desideri un risultato rapido ed ess
 > **Ruolo:** Agisci come un esperto di personal branding e un selezionatore del personale esperto.
 > **Richiesta:** Scrivi un potente riassunto professionale di 3-5 righe da inserire in cima al mio curriculum per massimizzare le possibilità di superare il primo screening. La mia professione attuale è `[Inserisci la tua professione]`.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Esperto)
 

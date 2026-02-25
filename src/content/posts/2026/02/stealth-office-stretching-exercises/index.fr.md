@@ -49,7 +49,7 @@ Pour un soulagement immédiat sans entrer dans les détails.
 > **Rôle :** Tu es un ergonome et un expert en étirements discrets.
 > **Requête :** Propose-moi une routine de 3 minutes d'étirements que je peux faire assis à mon bureau, sans que mes collègues en open space ne s'en rendent compte.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

@@ -49,7 +49,7 @@ Usala quando hai bisogno di un'ispirazione rapida senza troppi dettagli.
 > **Ruolo:** Sei un esperto 'Editore di una Rivista di Musica Indie' specializzato nella scena musicale di `[Nome Città]`.
 > **Richiesta:** Basta con la noiosa musica di sottofondo nei ristoranti per turisti. Consigliami 3 locali con musica dal vivo dove posso sentire la vera energia dei musicisti locali.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 
@@ -110,7 +110,7 @@ La scena musicale dal vivo nelle grandi città cambia molto rapidamente: i local
 
 ### ❌ Before (Input Povero)
 
-> "Consigliami dei jazz bar a New York."
+"Consigliami dei jazz bar a New York."
 
 _(Risultato tipico dell'AI: Ti suggerisce il Blue Note, il Birdland o il Village Vanguard. Posti storici e fantastici, ma estremamente turistici, costosi e dove è quasi impossibile trovare posto senza prenotare mesi prima.)_
 

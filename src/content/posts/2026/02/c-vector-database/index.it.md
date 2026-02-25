@@ -9,7 +9,7 @@ tags: ["C", "Open Source", "Database", "AI"]
 
 - **🎯 Consigliato per:** Sviluppatori Embedded, Ingegneri di Sistema C/C++, Architetti AI per dispositivi leggeri
 - **⏱️ Tempo richiesto:** 5 ore di ricerca e implementazione → Ridotto a 1 minuto
-- **🤖 Modelli consigliati:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 Modelli consigliati:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **Difficoltà:** ⭐⭐⭐⭐☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -38,7 +38,7 @@ Usa questa versione quando vuoi testare rapidamente la struttura della logica pr
 > **Ruolo:** Sei un `[Ingegnere di Sistemi Embedded Senior]`.
 > **Richiesta:** Scrivi un codice per un `[database vettoriale header-only]` in puro C, senza alcuna dipendenza. Deve assolutamente includere una funzione di ricerca basata sulla similarità del coseno.
 
-<br>
+\
 
 ### 🥇 Versione Pro
 

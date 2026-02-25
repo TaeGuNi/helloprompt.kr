@@ -44,7 +44,7 @@ Usala quando hai bisogno di modifiche immediate o di codice boilerplate nel file
 > **Prompt:**
 > Rifattorizza la funzione attualmente selezionata per renderla asincrona (`async/await`) e aggiungi una logica di gestione degli errori dettagliata utilizzando un blocco `try-catch`.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Refactoring dell'Intera Codebase)
 

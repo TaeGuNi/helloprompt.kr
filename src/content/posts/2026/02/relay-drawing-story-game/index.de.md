@@ -42,7 +42,7 @@ Nutzen Sie diese Variante, wenn Sie sofort und ohne großen Aufwand loslegen mö
 > **Rolle:** Du bist ein fantasievoller Kinderbuchautor.
 > **Aufgabe:** Schlage ein kreatives Spiel vor, bei dem wir absurde und lustige Situationen, die du dir ausdenkst, abwechselnd zeichnen und so eine Geschichte erfinden.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

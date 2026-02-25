@@ -42,7 +42,7 @@ Use esta versão para iniciar rapidamente um cenário sem configurações comple
 > **Papel:** Você é um Mestre de Jogo de Simulação Histórica.
 > **Solicitação:** E se eu fosse o Almirante Yi Sun-sin durante a Batalha de Myeongnyang? Permita-me vivenciar a história fazendo escolhas como em um jogo de aventura de texto.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 
@@ -107,7 +107,7 @@ Além disso, a inclusão da regra de "[Encerramento]" na versão Pro garante que
 
 ### ❌ Before (Estudo Passivo por Livro Didático)
 
-> "Na Batalha de Myeongnyang, o Almirante Yi Sun-sin derrotou uma frota japonesa de mais de 130 navios utilizando apenas 13 embarcações, aproveitando taticamente as fortes correntes do estreito de Uldolmok."
+"Na Batalha de Myeongnyang, o Almirante Yi Sun-sin derrotou uma frota japonesa de mais de 130 navios utilizando apenas 13 embarcações, aproveitando taticamente as fortes correntes do estreito de Uldolmok."
 
 ### ✅ After (Experiência Ativa com o Prompt)
 

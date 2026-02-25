@@ -39,7 +39,7 @@ Usala per abbozzare rapidamente la struttura di base di un team di agenti.
 > **Ruolo:** Sei uno `[Swarm Master di AutoGPT 2.0]`.
 > **Task:** Proponi i ruoli di 3 agenti e il flusso di lavoro necessari per eseguire perfettamente questa `[complessa attività di ricerca]`.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Pro Version)
 

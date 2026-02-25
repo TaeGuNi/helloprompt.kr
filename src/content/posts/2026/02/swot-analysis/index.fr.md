@@ -42,7 +42,7 @@ Utilisez cette version lorsque vous avez besoin d'un aperçu rapide sans entrer 
 > **Rôle :** Tu es un `[Consultant en Stratégie]` au sein d'un prestigieux cabinet de conseil en gestion.
 > **Demande :** Réalise une analyse SWOT (Forces, Faiblesses, Opportunités, Menaces) pour l'entreprise `[Nom de l'entreprise]`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 
@@ -120,10 +120,10 @@ Dis-moi les avantages et les inconvénients de Hyundai Motor.
 
 | Catégorie | Points Clés |
 | :--- | :--- |
-| **💪 Forces (S)** | 1. Flexibilité de production exceptionnelle permettant d'ajuster l'offre entre modèles thermiques, hybrides et électriques.<br>2. Montée en gamme réussie et amélioration des marges grâce à la marque premium Genesis.<br>3. Solidité financière renforcée par l'introduction en bourse (IPO) stratégique et lucrative de sa filiale indienne. |
-| **📉 Faiblesses (W)** | 1. Difficultés persistantes à regagner des parts de marché significatives en Chine, le plus grand marché automobile mondial.<br>2. Structure de coûts salariaux rigide et risques récurrents de blocages liés aux puissantes négociations syndicales.<br>3. Retard relatif dans la transition vers le Véhicule Défini par Logiciel (SDV) par rapport aux pure-players technologiques. |
-| **🌟 Opportunités (O)** | 1. Explosion de la demande pour les véhicules hybrides sur le marché nord-américain, compensant le ralentissement de l'électrique pur.<br>2. Fort potentiel de pénétration et de leadership sur les marchés émergents à forte croissance (Inde, ASEAN).<br>3. Diversification prometteuse dans les secteurs d'avenir comme la robotique (via Boston Dynamics) et la mobilité aérienne avancée. |
-| **⚠️ Menaces (T)** | 1. Incertitudes géopolitiques majeures liées aux politiques tarifaires américaines et aux évolutions réglementaires de l'IRA.<br>2. Guerre des prix intense menée par Tesla et l'agressivité tarifaire grandissante des constructeurs chinois de véhicules électriques (BYD).<br>3. Risque aigu de contraction de la demande automobile mondiale en cas de récession économique prolongée. |
+| **💪 Forces (S)** | 1. Flexibilité de production exceptionnelle permettant d'ajuster l'offre entre modèles thermiques, hybrides et électriques.\2. Montée en gamme réussie et amélioration des marges grâce à la marque premium Genesis.\3. Solidité financière renforcée par l'introduction en bourse (IPO) stratégique et lucrative de sa filiale indienne. |
+| **📉 Faiblesses (W)** | 1. Difficultés persistantes à regagner des parts de marché significatives en Chine, le plus grand marché automobile mondial.\2. Structure de coûts salariaux rigide et risques récurrents de blocages liés aux puissantes négociations syndicales.\3. Retard relatif dans la transition vers le Véhicule Défini par Logiciel (SDV) par rapport aux pure-players technologiques. |
+| **🌟 Opportunités (O)** | 1. Explosion de la demande pour les véhicules hybrides sur le marché nord-américain, compensant le ralentissement de l'électrique pur.\2. Fort potentiel de pénétration et de leadership sur les marchés émergents à forte croissance (Inde, ASEAN).\3. Diversification prometteuse dans les secteurs d'avenir comme la robotique (via Boston Dynamics) et la mobilité aérienne avancée. |
+| **⚠️ Menaces (T)** | 1. Incertitudes géopolitiques majeures liées aux politiques tarifaires américaines et aux évolutions réglementaires de l'IRA.\2. Guerre des prix intense menée par Tesla et l'agressivité tarifaire grandissante des constructeurs chinois de véhicules électriques (BYD).\3. Risque aigu de contraction de la demande automobile mondiale en cas de récession économique prolongée. |
 
 **🔑 Point de Vigilance Clé :**
 "La capacité de Hyundai à utiliser ses ventes actuelles exceptionnelles de véhicules hybrides comme bouclier financier pour financer sa transition vers l'électrique et le logiciel, tout en naviguant dans la féroce guerre des prix initiée par la Chine, déterminera la véritable trajectoire de son action à moyen terme."

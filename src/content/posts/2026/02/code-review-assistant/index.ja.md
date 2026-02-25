@@ -47,7 +47,7 @@ tags: ["コーディング", "バグ", "Refactoring", "ChatGPT", "開発者"]
 > [コードを貼り付け]
 > ```
 
-<br>
+\
 
 ### 🥇 Pro Version (専門家型)
 

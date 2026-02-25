@@ -46,7 +46,7 @@ tags: ["인테리어", "건축", "도면", "Midjourney", "집꾸미기"]
 >
 > **Промпт:** modern minimal house exterior, white concrete and wood, large glass windows, nature surrounding, warm lighting, photorealistic, 8k --ar 16:9
 
-<br>
+\
 
 ### 🥇 Продвинутая версия (Pro Version)
 

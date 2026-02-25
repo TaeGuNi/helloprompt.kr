@@ -42,7 +42,7 @@ Use isso quando você não tiver ideia de onde os custos estão vazando, para id
 > **Role (Função):** Você é um `[Arquiteto de Nuvem Sênior]`.
 > **Task (Tarefa):** Ao analisar o histórico de faturamento da AWS, noto que os custos de `[EBS Volume]` estão anormalmente altos. Identifique todos os volumes não anexados (Unattached), snapshots antigos ou IPs elásticos (Elastic IPs) alocados mas sem uso. Forneça os comandos exatos do AWS CLI para excluí-los, juntamente com os devidos avisos de segurança.
 
-<br>
+\
 
 ### 🥇 Pro Version (Especialista em Otimização de Arquitetura e Spot)
 

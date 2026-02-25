@@ -37,7 +37,7 @@ Verwenden Sie dies, wenn Sie schnell ein intuitives Bild mit einem bestimmten Sc
 > **Rolle:** Du bist ein kinoreifer Fotograf und Typografie-Designer.
 > **Aufgabe:** Erstelle ein fotorealistisches Bild einer dunklen nächtlichen Straßenszene mit einem Neonschild, auf dem "HELLO" steht.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Version)
 

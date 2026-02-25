@@ -43,7 +43,7 @@ Perfect when you just need a rapid summary of your chaotic notes for an internal
 > **Task:** Convert the following raw notes/commit logs into a structured daily standup update. Format it strictly into "Yesterday", "Today", and "Blockers".
 > **Input:** `[Paste your raw notes or git logs here]`
 
-<br>
+\
 
 ### 🥇 Pro Version
 

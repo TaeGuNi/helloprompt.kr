@@ -42,7 +42,7 @@ Use this when you need a quick, high-level overview of your sleep habits.
 > **Role:** You are an expert in sleep medicine and a bedroom environment consultant.
 > **Request:** I am having trouble sleeping. Analyze my current bedroom environment and evening habits, and provide a tailored sleep hygiene solution to help me get a deep, restorative sleep.
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -102,7 +102,7 @@ When I used this prompt, the AI pointed out that my 8 PM workouts were keeping m
 
 ### ❌ Before (Simple Input)
 
-> "Tell me how to sleep better at night."
+"Tell me how to sleep better at night."
 > _(AI output: "Drink warm milk, listen to calm music, and try to relax before bed.")_
 
 ### ✅ After (Using the Pro Prompt)

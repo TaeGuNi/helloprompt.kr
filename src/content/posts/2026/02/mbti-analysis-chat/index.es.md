@@ -48,7 +48,7 @@ No te quedes mirando la pantalla del móvil con ansiedad. Con solo el historial 
 > **Tarea (Task):**
 > Analiza si la persona que respondió tiende más al pensamiento lógico (T - Thinking) o al emocional (F - Feeling). Además, sugiéreme 2 ejemplos de cómo debería responder yo a continuación para crear un vínculo más profundo con esa persona.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version: Análisis profundo de los 16 tipos y estrategias)
 

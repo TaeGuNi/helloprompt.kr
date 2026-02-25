@@ -42,7 +42,7 @@ Las Expresiones Regulares (Regex) son una herramienta indispensable en el arsena
 > **Rol:** Eres un desarrollador de software Senior.
 > **Solicitud:** Escribe una expresión regular para validar `[Formato deseado, ej: números de tarjeta de crédito Visa]` en `[Lenguaje de programación, ej: JavaScript]`.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

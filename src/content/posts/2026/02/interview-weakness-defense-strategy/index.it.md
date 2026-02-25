@@ -48,7 +48,7 @@ Usala quando hai bisogno di uno spunto rapido prima di un colloquio imminente.
 > **Ruolo:** Sei un esperto consulente di carriera e formatore per colloqui di lavoro.
 > **Richiesta:** Preparami una strategia di risposta per giustificare il mio punto debole (es. un buco nel curriculum o un voto di laurea basso) in modo onesto, ma enfatizzando le lezioni che ho appreso e i miei sforzi per migliorare.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

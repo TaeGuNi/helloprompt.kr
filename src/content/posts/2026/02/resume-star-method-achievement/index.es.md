@@ -42,7 +42,7 @@ Los reclutadores no quieren saber qué hiciste; necesitan ver **qué tan bien** 
 > **Rol:** Eres un Headhunter Senior con 15 años de experiencia y experto en optimización de currículums.
 > **Solicitud:** Transforma el siguiente texto plano sobre mi experiencia laboral en viñetas atractivas y orientadas a logros, utilizando estricta y únicamente la técnica STAR (Situación, Tarea, Acción, Resultado).
 
-<br>
+\
 
 ### 🥇 Versión Pro (Expert Version)
 

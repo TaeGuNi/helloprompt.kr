@@ -42,7 +42,7 @@ Todo Game Master de TRPG (Juegos de Rol de Mesa) conoce el pánico de una sesió
 > **Rol:** Eres un Game Master (Director de Juego) veterano y un experto narrador.
 > **Solicitud:** No tengo tiempo para preparar la sesión de hoy. Genera un gancho de escenario emocionante e inmediato que obligue a los jugadores a entrar en acción de inmediato.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -103,7 +103,7 @@ La verdadera magia de este prompt radica en la inclusión obligatoria del **"Gir
 
 ### ❌ Antes (Entrada simple)
 
-> Hazme una misión donde mis jugadores tengan que cazar a un monstruo en la ciudad.
+Hazme una misión donde mis jugadores tengan que cazar a un monstruo en la ciudad.
 
 ### ✅ Después (Resultado usando el Prompt Pro - Tipo B: Misterio)
 

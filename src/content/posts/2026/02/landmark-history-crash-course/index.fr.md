@@ -42,7 +42,7 @@ Idéal pour obtenir rapidement l'essentiel avant de prendre une photo.
 > **Rôle :** Tu es un 'Auteur de romans historiques à succès' passionnant.
 > **Requête :** Raconte-moi l'histoire du `[Nom du Monument]` de manière captivante. Concentre-toi sur les anecdotes clés sans utiliser de jargon difficile ni de longues listes de dates.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 
@@ -104,7 +104,7 @@ En voyage, l'audio-guide traditionnel est souvent trop verbeux, monotone et nous
 
 ### ❌ Avant (Entrée basique)
 
-> "Explique-moi l'histoire du Colisée de Rome."
+"Explique-moi l'histoire du Colisée de Rome."
 
 **Résultat :** Le Colisée, à l'origine amphithéâtre Flavien, est un amphithéâtre ovoïde situé au centre de la ville de Rome. Sa construction a commencé sous l'empereur Vespasien en 72 apr. J.-C., et s'est achevée en 80 apr. J.-C. sous Titus. Il pouvait accueillir entre 50 000 et 80 000 spectateurs... _(long et ennuyeux)_
 

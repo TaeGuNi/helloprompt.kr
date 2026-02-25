@@ -42,7 +42,7 @@ Utilisez cette version pour obtenir des conseils rapides sur l'orientation archi
 > **Rôle :** Tu es un `[Architecte Backend Senior avec 10 ans d'expérience]`.
 > **Tâche :** Explique les 3 plus grands **fardeaux (Overheads)** qu'une jeune startup rencontrerait si elle adoptait l'architecture microservices (MSA). Ensuite, compare cela avec la **dette technique (Technical Debt)** qui pourrait s'accumuler si elle maintenait une architecture monolithique.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

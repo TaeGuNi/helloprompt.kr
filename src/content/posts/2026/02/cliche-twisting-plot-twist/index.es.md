@@ -42,7 +42,7 @@ Los clichés son cómodos porque resultan familiares, pero al mismo tiempo son a
 > **Rol:** Eres un guionista experto en giros argumentales.
 > **Solicitud:** Dame 3 ideas impactantes para cambiar este final predecible: `[El héroe derrota al rey demonio y salva a la princesa]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 
@@ -99,7 +99,7 @@ Personalmente, recomiendo usar las respuestas de la IA no como un producto final
 
 ### ❌ Before (Entrada)
 
-> "El héroe mató al rey demonio y salvó el mundo."
+"El héroe mató al rey demonio y salvó el mundo."
 
 ### ✅ After (Propuesta de Giro Generada)
 

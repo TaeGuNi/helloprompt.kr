@@ -42,7 +42,7 @@ Idéal si vous avez besoin d'une formule immédiate sans détails complexes.
 > **Rôle :** Tu es un `[Expert en Modélisation Financière sur Excel]`.
 > **Requête :** Crée-moi un tableau d'amortissement de prêt sur Excel pour un emprunt avec des échéances constantes. Donne-moi les formules exactes.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Experte)
 
@@ -98,7 +98,7 @@ Les simulateurs bancaires en ligne sont pratiques, mais ils manquent souvent de 
 
 ### ❌ Avant (Entrée basique)
 
-> Comment calculer l'intérêt d'un prêt dans Excel ?
+Comment calculer l'intérêt d'un prêt dans Excel ?
 
 _(Résultat : Une explication théorique longue, verbeuse, sans formules prêtes à être glissées dans un tableau, vous obligeant à tout construire manuellement)._
 

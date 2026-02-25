@@ -40,12 +40,12 @@ Vous venez de passer des jours à tourner, dérusher et monter une vidéo except
 Utilisez ce prompt lorsque vous manquez de temps et avez besoin d'une liste rapide de titres percutants.
 
 > **Rôle :** Tu es le stratège de croissance d'une chaîne YouTube comptant 1 million d'abonnés.
->
+
 > **Tâche :** Génère 10 propositions de titres à très fort taux de clics (CTR) pour ma prochaine vidéo.
->
+
 > **Sujet de la vidéo :** `[Insérez le sujet de votre vidéo]`
 
-<br>
+\
 
 ### 🥇 Version Pro (Pack Miniature & Titre)
 

@@ -44,7 +44,7 @@ tags: ["英語文法", "作文校正", "プロンプト", "メール作成"]
 >
 > **対象の文章:** `[ここに文章を入力]`
 
-<br>
+\
 
 ### 🥇 Pro Version (専門家形)
 
@@ -105,7 +105,7 @@ tags: ["英語文法", "作文校正", "プロンプト", "メール作成"]
 
 ### ❌ Before (入力)
 
-> I look forward to hear from you soon. (よくある間違い)
+I look forward to hear from you soon. (よくある間違い)
 
 ### ✅ After (結果)
 

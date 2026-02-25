@@ -42,7 +42,7 @@ Ideale per impostare rapidamente scenari di automazione semplici e lineari.
 >
 > **Richiesta:** Progetta un flusso di lavoro dettagliato per un agente IA capace di eseguire autonomamente il seguente compito: `[Riassumere le newsletter quotidiane in arrivo via email e inviare una sintesi strutturata su Slack]`.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Professional)
 

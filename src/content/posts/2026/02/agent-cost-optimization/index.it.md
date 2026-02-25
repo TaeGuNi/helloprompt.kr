@@ -17,7 +17,7 @@ tags:
 
 - **🎯 Consigliato per:** Sviluppatori di agenti AI autonomi, Ingegneri in cerca di ottimizzazione dei costi, CTO di startup
 - **⏱️ Tempo richiesto:** 10 minuti per modificare il prompt → Centinaia di dollari risparmiati al mese
-- **🤖 Modelli consigliati:** Modelli con fatturazione a token come GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro, ecc.
+- **🤖 Modelli consigliati:** Modelli con fatturazione a token come GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro, ecc.
 
 - ⭐ **Difficoltà:** ⭐⭐⭐☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -55,7 +55,7 @@ Usa questa versione per ridurre la "Fluff Tax" (la tassa delle parole inutili) n
 > - È severamente vietato includere saluti, frasi come "Inizio l'analisi" o "Ecco i risultati".
 > - Stampa esclusivamente il risultato dell'analisi e l'azione richiesta.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

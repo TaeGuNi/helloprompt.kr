@@ -49,7 +49,7 @@ Use this when you just need a quick, no-frills workout plan to get moving immedi
 > **Role:** You are an expert home fitness coach specializing in zero-equipment bodyweight training.
 > **Request:** I want to transform my body at home with no equipment. Design a 30-day bodyweight workout challenge for a beginner. The routine should change slightly every day to keep it interesting.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 
@@ -129,9 +129,9 @@ AI: "Here is a great home workout:
 
 | Day | Workout Structure (20 mins) | Movements & Sets/Reps |
 | :--- | :--- | :--- |
-| **Day 1** | Full Body Control | Bodyweight Squats (3x12) <br> Knee Push-ups (3x10) <br> Plank Hold (3x30 sec) |
-| **Day 2** | Lower Body & Core | Reverse Lunges (3x10/leg) <br> Slow Mountain Climbers (3x20) <br> Superman Holds (3x15 sec) |
-| **Day 3** | Quiet Cardio | Slow Walkout/Burpees (4x8) <br> Glute Bridges (4x15) <br> Bear Crawl Holds (4x20 sec) |
+| **Day 1** | Full Body Control | Bodyweight Squats (3x12) \ Knee Push-ups (3x10) \ Plank Hold (3x30 sec) |
+| **Day 2** | Lower Body & Core | Reverse Lunges (3x10/leg) \ Slow Mountain Climbers (3x20) \ Superman Holds (3x15 sec) |
+| **Day 3** | Quiet Cardio | Slow Walkout/Burpees (4x8) \ Glute Bridges (4x15) \ Bear Crawl Holds (4x20 sec) |
 | **Day 4** | Active Recovery | 15 mins Dynamic Stretching & Yoga Flow |
 ```
 

@@ -42,7 +42,7 @@ Verwenden Sie diesen Prompt, wenn Sie sofortige, unkomplizierte Ergebnisse benö
 > **Rolle:** Du bist ein Einheimischer und erfahrener Redakteur, der seit über 10 Jahren in `[Stadtname]` lebt.
 > **Anfrage:** Ich habe genug von überfüllten Touristenorten! Verrate mir deine absoluten Geheimtipps und lokalen Hotspots, die noch nicht von Touristen überrannt sind.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenmodus)
 

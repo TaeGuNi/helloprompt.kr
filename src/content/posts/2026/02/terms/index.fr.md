@@ -39,7 +39,7 @@ Un résumé d'une minute pour les plus pressés. Retenez au moins ceci !
 > **Article 2 (Droits d'auteur) :** Les droits d'auteur de tous les prompts et contenus du site appartiennent à Hello Prompt.
 > **Article 3 (Limitation de responsabilité) :** Les informations du site sont fournies à titre indicatif. Le site décline toute responsabilité légale quant aux résultats de l'exécution de l'IA.
 
-<br>
+\
 
 ### 🥇 Version Pro (Conditions détaillées)
 

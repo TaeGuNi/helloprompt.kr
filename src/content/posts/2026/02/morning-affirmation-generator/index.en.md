@@ -44,7 +44,7 @@ Use this for a quick injection of positive energy, perfect for your morning comm
 > **Role:** You are the world's best `[motivational coach]`.
 > **Task:** Create 5 short, powerful positive affirmations tailored for me, so I can start my day overflowing with energy.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

@@ -43,7 +43,7 @@ Nutzen Sie diese Version, um schnell PR-Beschreibungen zu verfassen oder kleine 
 > **Rolle:** Du bist ein Senior Technical Writer.
 > **Aufgabe:** Analysiere den folgenden `[Git Diff]`, den ich gerade erstellt habe, und schreibe die Teile der `[README.md]` im Markdown-Format neu, die aktualisiert werden müssen. Ignoriere einfache Tippfehler oder reines Code-Refactoring.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 
@@ -61,7 +61,7 @@ Ein hochkomplexer Prompt, der in Ihre CI/CD-Pipeline (z. B. GitHub Actions) inte
 > 1. Vergleiche und analysiere den bereitgestellten `[Git Diff]` detailliert mit dem gesamten Inhalt des `[Target Document]`.
 > 2. Beurteile, ob diese Codeänderung Auswirkungen auf das User-Onboarding oder die Umgebungseinrichtung anderer Entwickler hat und somit ein Dokumentations-Update erfordert. (Ignoriere reines Refactoring, das Umbenennen von Variablen und Tippfehler strikt.)
 > 3. Falls du entscheidest, dass ein Update nötig ist, schreibe das gesamte Dokument im Markdown-Format neu. Behalte dabei den Tone of Voice (Klang und Formatierung) des Originaldokuments perfekt bei.
-> 4. Füge ganz unten im Dokument einen versteckten HTML-Kommentar im Format `<!-- Änderungsgrund: Kurze Erklärung, warum dieser Teil geändert wurde -->` hinzu.
+> 4. Füge ganz unten im Dokument einen versteckten HTML-Kommentar im Format `` hinzu.
 > 5. Wenn es sich um einen einfachen Commit handelt, der kein Doku-Update erfordert, gib ausschließlich `[NO_UPDATE_REQUIRED]` aus.
 >
 > **Einschränkungen (Constraints):**
@@ -89,7 +89,7 @@ Als ich diesen Prompt in unserem internen Backend-Repository anwendete, war die 
 - **Q: Die KI versucht ständig, persönliche Notizen oder TODOs der Entwickler aus den Kommentaren zu dokumentieren. Wie kann ich das blockieren?**
   - A: Das passiert, weil die KI zu eifrig arbeitet. Genau deshalb ist die folgende Anweisung im Abschnitt **Einschränkungen (Constraints)** zwingend erforderlich: `- Auskommentierter Code wie TODOs oder FIXMEs darf unter keinen Umständen in die Dokumentation aufgenommen werden.` Dieser einzelne Satz löst das Problem elegant.
 
-- **Q: Funktioniert das auch genauso gut mit Gemini 1.5 Pro oder GPT-4o?**
+- **Q: Funktioniert das auch genauso gut mit Gemini 2.5 Pro oder GPT-4o?**
   - A: Die grundsätzliche Funktion ist gegeben. Wenn Sie jedoch die Methode "Gesamtes Dokument + gesamte Codedatei" anwenden, ist Gemini 3 Pro im Hinblick auf Token-Limits und die Kosten für Context-Caching massiv im Vorteil. Handelt es sich jedoch um ein kleines Toy-Projekt mit geringen Dateigrößen, liefert auch GPT-4o hervorragende Ergebnisse.
 
 ---
@@ -98,7 +98,7 @@ Als ich diesen Prompt in unserem internen Backend-Repository anwendete, war die 
 
 1. **Bypass-Logik (Urteilsaufschub):** Durch die strikte Anweisung, bei einfachen Commits ohne Doku-Bedarf `[NO_UPDATE_REQUIRED]` zurückzugeben, wird die unendliche Generierung unnötiger PRs im Keim erstickt.
 2. **Beibehaltung des Tone of Voice:** Um zu verhindern, dass die KI den bestehenden Stil ignoriert und mit ihrem typisch steifen, unnatürlichen Ton überschreibt, wurde ihr explizit der Kontext zur Erhaltung des ursprünglichen Dokumentenstils mitgegeben.
-3. **Versteckte Erklärungen (Hidden Explanation):** Durch die Nutzung von HTML-Kommentaren (`<!-- -->`) für die Begründung der Änderung können Reviewer bei der PR-Freigabe den Gedankengang und die Schlussfolgerungen der KI extrem schnell und einfach validieren.
+3. **Versteckte Erklärungen (Hidden Explanation):** Durch die Nutzung von HTML-Kommentaren (``) für die Begründung der Änderung können Reviewer bei der PR-Freigabe den Gedankengang und die Schlussfolgerungen der KI extrem schnell und einfach validieren.
 
 ---
 
@@ -130,7 +130,7 @@ DB_USER=root
 REDIS_URL=redis://localhost:6379
 ```
 
-<!-- Änderungsgrund: In der Datei src/cache/connection.ts wurde eine neue Redis-Caching-Logik hinzugefügt. Die dafür erforderliche Umgebungsvariable REDIS_URL wurde entsprechend im Leitfaden 'Erste Schritte' ergänzt. -->
+
 ````
 
 ---

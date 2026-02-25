@@ -42,7 +42,7 @@ Utilisez cette version lorsque vous avez besoin d'une réponse immédiate avant 
 > **Rôle :** Tu es un « Expert en Communication Culturelle » maîtrisant parfaitement les langues et l'étiquette non-verbale du monde entier.
 > **Demande :** Je pars en `[Nom du Pays]`. Liste-moi les 3 salutations indispensables, les gestes à absolument éviter (qui pourraient être mal interprétés) et la bonne façon de saluer les locaux.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

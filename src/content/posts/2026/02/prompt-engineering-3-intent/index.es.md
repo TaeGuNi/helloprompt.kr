@@ -18,7 +18,7 @@ title: " \"Ingeniería de Prompts 3.0: La Intención es la Orden\""
 
 - **🎯 Público objetivo:** Marketers, Planificadores, Creadores de contenido, Profesionales en general
 - **⏱️ Tiempo ahorrado:** De 15 minutos redactando prompts → 10 segundos
-- **🤖 Modelos recomendados:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro o superiores
+- **🤖 Modelos recomendados:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro o superiores
 
 - ⭐ **Dificultad:** ⭐☆☆☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -47,7 +47,7 @@ Usa esto cuando subas un archivo o imagen y necesites que la IA intuya el resto 
 > **Archivo adjunto:** `[Tu imagen o documento]`
 > **Instrucción:** Para promo de Insta.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Profesional)
 

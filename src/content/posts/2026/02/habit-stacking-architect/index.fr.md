@@ -42,7 +42,7 @@ Utilisez-la lorsque vous avez besoin d'une idée légère et rapide à appliquer
 > **Rôle :** Tu es un `[coach en habitudes basé sur la psychologie comportementale]`.
 > **Tâche :** Je `[me brosse les dents tous les matins en me levant]`. Recommande-moi 3 "habitudes santé d'une minute" que je peux greffer immédiatement après cette action.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

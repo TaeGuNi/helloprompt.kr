@@ -42,7 +42,7 @@ Use this when you need a quick, beautiful blur without overthinking the technica
 > **Role:** You are an expert photographer.
 > **Request:** Create an image of a `[Subject]` with a beautifully blurred background featuring emotional, glowing light orbs (Bokeh). Make the subject stand out sharply against the soft background.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

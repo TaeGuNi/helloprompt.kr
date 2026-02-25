@@ -42,7 +42,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fantasy", "Color"]
 > **役割:** あなたはプロのコンセプトアーティストです。
 > **リクエスト:** 映画『アバター』のパンドラ惑星のように、自ら光を放つ生命体と環境を描画してください。
 
-<br>
+\
 
 ### 🥇 Pro Version (専門家型)
 

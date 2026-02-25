@@ -37,7 +37,7 @@ El nuevo modelo O3 de OpenAI va mucho más allá de la simple búsqueda y genera
 > **Rol:** Eres el analista de nivel más alto en `[Sector/Campo]`.
 > **Tarea:** Para resolver el siguiente `[Problema Complejo]`, no saques conclusiones precipitadas. Enumera y detalla exhaustivamente cada paso de tu proceso de razonamiento lógico.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

@@ -39,7 +39,7 @@ tags: ["Search", "AI", "Google", "OpenAI"]
 > **角色：** 你是一位资深的搜索引擎优化（SEO）和商业技术分析师。
 > **任务：** 请分析谷歌AI搜索与OpenAI（SearchGPT）在`[你的行业，例如：在线教育]`领域的优劣势，并给出3条应对建议。
 
-<br>
+\
 
 ### 🥇 专业版 (Pro Version)
 

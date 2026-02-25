@@ -43,7 +43,7 @@ Use this for quick, repetitive customer service tasks like shipping delays or re
 > **Task:** Respond to the customer's inquiry below. Apologize and inform them that shipping is delayed by `[Delay Duration]` due to `[Reason for Delay]`. Politely assure them that if they wait just a little longer, we will provide `[Compensation details]`.
 > **Customer Inquiry:** `[Paste the customer's actual inquiry here]`
 
-<br>
+\
 
 ### 🥇 Pro Version
 

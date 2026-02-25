@@ -45,7 +45,7 @@ Use this when you have zero ideas and need to brainstorm quickly.
 >
 > **Request:** Give me 5 highly spicy, fresh, and unconventional Shorts ideas that viewers simply cannot scroll past. For each idea, provide a catchy Title and a killer First Sentence (the Hook).
 
-<br>
+\
 
 ### 🥇 Pro Version
 

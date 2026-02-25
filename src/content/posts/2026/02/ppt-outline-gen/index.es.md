@@ -42,7 +42,7 @@ Diseñar diapositivas sin una estructura clara es como construir una casa sin pl
 > **Rol:** Eres un `[Experto en Presentaciones]`.
 > **Tarea:** Crea un esquema lógico para una presentación de PowerPoint sobre `[Tema de la presentación]`.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 
@@ -114,9 +114,9 @@ Necesito hacer un PPT sobre nuestra nueva campaña de marketing para el próximo
 ```text
 | Diapositiva | Título Propuesto | Puntos Clave (Bullet Points) | Sugerencia Visual |
 | :--- | :--- | :--- | :--- |
-| 1 | El Reto del Q3: Crecer en un Mercado Saturado | - Resumen del panorama actual<br>- Nuestro objetivo principal | Imagen heroica del target con overlay de texto audaz |
-| 2 | Por qué necesitamos un cambio de estrategia | - Caída del 15% en el engagement<br>- Aparición de nuevos competidores agresivos | Gráfico de líneas mostrando la tendencia a la baja vs competidores |
-| 3 | La Solución: Campaña "Conexión Real" | - Nuevo enfoque centrado en el usuario<br>- Uso de canales orgánicos y micro-influencers | Diagrama circular mostrando los 3 pilares de la campaña |
+| 1 | El Reto del Q3: Crecer en un Mercado Saturado | - Resumen del panorama actual\- Nuestro objetivo principal | Imagen heroica del target con overlay de texto audaz |
+| 2 | Por qué necesitamos un cambio de estrategia | - Caída del 15% en el engagement\- Aparición de nuevos competidores agresivos | Gráfico de líneas mostrando la tendencia a la baja vs competidores |
+| 3 | La Solución: Campaña "Conexión Real" | - Nuevo enfoque centrado en el usuario\- Uso de canales orgánicos y micro-influencers | Diagrama circular mostrando los 3 pilares de la campaña |
 | ... | ... | ... | ... |
 ```
 

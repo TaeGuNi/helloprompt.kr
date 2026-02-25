@@ -44,7 +44,7 @@ tags: ["翻译", "英语邮件", "商务英语", "ChatGPT", "DeepL"]
 > **句子：** `[Give me the report by tomorrow.]`
 > **请求：** 将上述句子重写为适合发给老板或重要客户的表达，要求**礼貌且专业（Polite & Professional）**。请提供3个不同正式程度的版本供我选择。
 
-<br>
+\
 
 ### 🥇 Pro Version (专业版)
 

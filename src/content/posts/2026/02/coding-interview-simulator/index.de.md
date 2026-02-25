@@ -14,7 +14,7 @@ tags:
 
 - **🎯 Empfohlen für:** Junior- und Mid-Level-Entwickler, Informatik-Studenten, Jobsuchende in der IT
 - **⏱️ Zeitaufwand:** 5 Minuten
-- **🤖 Empfohlenes Modell:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (Modelle mit starkem Programmierverständnis)
+- **🤖 Empfohlenes Modell:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (Modelle mit starkem Programmierverständnis)
 
 - ⭐ **Schwierigkeit:** ⭐⭐☆☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -45,7 +45,7 @@ Verwenden Sie diesen Prompt für eine schnelle, unkomplizierte Überprüfung Ihr
 > **Rolle:** Du bist ein erfahrener `[Senior Software Engineer / Interviewer bei Google/Meta]`.
 > **Anfrage:** Ich habe ein `[Algorithmus-Problem]` gelöst. Bitte überprüfe meinen Code, stelle kritische Rückfragen zu meiner Lösung und gib mir Feedback wie in einem echten technischen Interview.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Modus)
 

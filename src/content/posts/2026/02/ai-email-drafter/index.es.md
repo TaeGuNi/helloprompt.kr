@@ -43,7 +43,7 @@ En la comunicación empresarial, la formalidad de los correos electrónicos es c
 > 
 > **Tarea:** Escribe un correo electrónico formal al gerente Kim de nuestra empresa cliente para posponer la reunión de este viernes a las 14:00 horas del próximo lunes. El motivo es un cambio en la agenda de nuestra junta directiva.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Profesional)
 

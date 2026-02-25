@@ -13,7 +13,7 @@ tags: ["SQL", "DB Tuning", "Query Optimization", "Database"]
 
 - **🎯 Recommended For:** Backend Developers, DBAs, Junior Engineers
 - **⏱️ Time Required:** 5 minutes → 3 seconds
-- **🤖 Recommended Model:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Recommended Model:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Difficulty:** ⭐⭐☆☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -45,7 +45,7 @@ Use this when you need a quick fix for a relatively simple query.
 > **Request:** Analyze the following SQL query, optimize its performance, and recommend the best indexes.
 > **Query:** `[Paste your query here]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

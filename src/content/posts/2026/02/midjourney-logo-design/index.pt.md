@@ -40,11 +40,11 @@ Aquele pedido infame que faz a alma de qualquer designer querer abandonar o corp
 Use esta versão para aplicações rápidas, como ícones de apps, favicons ou projetos pessoais menores.
 
 > **Função (Role):** Você é um designer de logos minimalista de classe mundial.
->
-> **Tarefa (Task):**
-> `minimalistic vector logo of a [Blue Whale], simple shapes, flat design, white background --no text --v 6.0`
 
-<br>
+> **Tarefa (Task):**
+`minimalistic vector logo of a [Blue Whale], simple shapes, flat design, white background --no text --v 6.0`
+
+\
 
 ### 🥇 Versão Pro (Identidade de Marca)
 

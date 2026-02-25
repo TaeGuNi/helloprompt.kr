@@ -42,7 +42,7 @@ Usala quando hai bisogno di una spiegazione fulminea senza troppi dettagli.
 > **Ruolo:** Sei un esperto divulgatore informatico.
 > **Richiesta:** Spiega il concetto di `[Inserisci Termine IT]` in modo estremamente semplice, usando la metafora di `[Inserisci Situazione Quotidiana, es. un supermercato]`.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

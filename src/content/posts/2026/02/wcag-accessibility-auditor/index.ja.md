@@ -47,7 +47,7 @@ tags: ["Accessibility", "HTML", "WCAG"]
 > [ここにコードを貼り付けてください]
 > ```
 
-<br>
+\
 
 ### 🥇 Pro Version（専門家型）
 
@@ -120,8 +120,8 @@ tags: ["Accessibility", "HTML", "WCAG"]
 ### ✅ After（結果：キーボードフォーカス＆スクリーンリーダー完全対応）
 
 ```html
-<!-- 意味のない装飾用画像は、スクリーンリーダーが無視するように空のaltを提供するか、aria-hiddenで処理 -->
-<!-- onClickだけでなく、キーボードのEnter/Space対応が標準提供されるbuttonタグを使用 -->
+
+
 <button type="button" class="submit-btn" onClick="sendData()">
   <img src="send-icon.png" alt="" aria-hidden="true" />
   <span>送信</span>

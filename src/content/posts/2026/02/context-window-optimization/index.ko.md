@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "context-window-optimization"]
 
 - **🎯 추천 대상:** AI 엔지니어, 백엔드 개발자, 대규모 데이터 분석가
 - **⏱️ 소요 시간:** 1시간 삽질 → 5분 만에 구조화 완료
-- **🤖 추천 모델:** Gemini 1.5 Pro, Claude 3 Opus 등 대규모 컨텍스트 지원 모델
+- **🤖 추천 모델:** Gemini 2.5 Pro, Claude 3 Opus 등 대규모 컨텍스트 지원 모델
 
 - ⭐ **난이도:** ⭐⭐⭐☆☆
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
@@ -47,7 +47,7 @@ tags: ["AI", "Tech", "context-window-optimization"]
 >
 > **요청:** 위 `<document>` 태그 안의 내용을 바탕으로 `[핵심 질문]`에 대해 답변해줘.
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 

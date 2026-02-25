@@ -50,7 +50,7 @@ Use this when you are too overwhelmed to copy a long prompt and just need immedi
 >
 > **Request:** I am having a panic attack right now. Please guide me through the 5-4-3-2-1 grounding technique step-by-step to help me return to reality. Give me one step at a time and wait for my answer.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Guide)
 

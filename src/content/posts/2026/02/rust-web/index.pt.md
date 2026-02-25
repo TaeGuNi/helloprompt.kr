@@ -39,7 +39,7 @@ Use esta versão quando precisar rapidamente de uma estrutura inicial (Boilerpla
 > **Função:** Você é um `[Desenvolvedor Backend Rust Sênior]` com 10 anos de experiência.
 > **Tarefa:** Recomende a melhor combinação de framework web Rust e runtime assíncrono para o meu `[Descrição do Serviço]`, e escreva a estrutura básica do arquivo `main.rs`.
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 

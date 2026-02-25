@@ -47,7 +47,7 @@ Stellen Sie in nur 2 Minuten über das Terminal Ihren eigenen Senior-Agenten ein
 > **2. Planungs-Prompt ausführen:**
 > `/plan "Erstelle eine responsive Blog-Post-Listen-Seite mit dem Next.js 14 App Router. Ich möchte Tailwind CSS und shadcn/ui verwenden."`
 
-<br>
+\
 
 ### 🥇 Pro Version (TDD & Benutzerdefinierte Regeln erzwingen)
 

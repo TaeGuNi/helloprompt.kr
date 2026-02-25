@@ -47,7 +47,7 @@ Utilisez cette version pour obtenir rapidement un aperçu de votre journée et o
 > **Liste de tâches du jour :**
 > `[Insérez ici vos tâches de la journée en vrac]`
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 
@@ -135,12 +135,12 @@ Mes horaires : 9h30 à 18h30.
 
 | Catégorie | Tâche à accomplir | Action requise |
 | :--- | :--- | :--- |
-| **FAIRE (Urgent & Important)** | Assister à la réunion hebdo (11h00) <br> Rédiger le brouillon du rapport hebdo | **Action immédiate**, à placer en zone de concentration |
-| **DÉCIDER (Important, Pas Urgent)** | Analyser la promo du concurrent A <br> Réserver le resto pour le séminaire | **Planifier**, à placer dans l'après-midi |
-| **DÉLÉGUER (Urgent, Pas Important)** | Demander la correction du logo au design <br> Répondre aux e-mails en retard | **Déléguer/Liquider rapidement**, dès le début de journée |
+| **FAIRE (Urgent & Important)** | Assister à la réunion hebdo (11h00) \ Rédiger le brouillon du rapport hebdo | **Action immédiate**, à placer en zone de concentration |
+| **DÉCIDER (Important, Pas Urgent)** | Analyser la promo du concurrent A \ Réserver le resto pour le séminaire | **Planifier**, à placer dans l'après-midi |
+| **DÉLÉGUER (Urgent, Pas Important)** | Demander la correction du logo au design \ Répondre aux e-mails en retard | **Déléguer/Liquider rapidement**, dès le début de journée |
 | **ÉLIMINER (Pas Urgent, Pas Important)** | (Aucune tâche dans cette catégorie aujourd'hui) | - |
 
-<br>
+\
 
 ## 🕒 Votre emploi du temps (Time Blocking)
 

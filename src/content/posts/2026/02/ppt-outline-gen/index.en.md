@@ -45,7 +45,7 @@ Use this when you need a quick, rough structure for a simple internal team updat
 >
 > **Task:** Create a 5-slide outline for a presentation about `[Topic]`.
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -95,7 +95,7 @@ When you use the Pro Version, the AI doesn't just give you a list of topics; it 
 ## 🙋 Frequently Asked Questions (FAQ)
 
 - **Q: Does this work well with free AI models like ChatGPT-3.5 or Claude 3 Haiku?**
-  - A: Yes, it works. However, for complex strategic narratives, advanced models like GPT-4o, Claude 3.5 Sonnet, or Gemini 1.5 Pro yield significantly better pacing and deeper strategic insights.
+  - A: Yes, it works. However, for complex strategic narratives, advanced models like GPT-4o, Claude 3.5 Sonnet, or Gemini 2.5 Pro yield significantly better pacing and deeper strategic insights.
 
 - **Q: Can I use this for academic or technical presentations?**
   - A: Absolutely. Just change the `[Target Audience]` to "Academic peers" or "Senior Software Engineers," and adjust the `[Goal]` accordingly. The AI will adapt the tone, terminology, and depth of the content.

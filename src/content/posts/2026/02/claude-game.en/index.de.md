@@ -38,7 +38,7 @@ Nutzen Sie diesen Prompt, um schnell ein Projektgerüst aufzubauen und die Kernm
 > **Rolle:** Du bist ein Senior Game Client Developer.
 > **Aufgabe:** Erstelle ein browserbasiertes 2D-Golfspiel mit HTML5 Canvas. Es muss einen Ball, ein Loch (Hole) und eine "Drag-to-Shoot"-Mechanik (Maus ziehen und loslassen) enthalten.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

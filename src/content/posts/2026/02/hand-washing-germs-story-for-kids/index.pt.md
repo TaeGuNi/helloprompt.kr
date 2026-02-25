@@ -49,7 +49,7 @@ Use esta versão quando precisar de uma resposta rápida e direta.
 > **Papel:** Você é um microbiologista infantil e um excelente contador de histórias.
 > **Tarefa:** Crie uma história científica, mas divertida, para convencer uma criança pequena a lavar as mãos sem reclamar, explicando o que são germes.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

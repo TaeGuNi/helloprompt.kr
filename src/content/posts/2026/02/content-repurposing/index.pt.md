@@ -44,7 +44,7 @@ Use isso quando precisar transformar rapidamente o roteiro do vídeo em um rascu
 >
 > `[Cole o roteiro do vídeo aqui]`
 
-<br>
+\
 
 ### 🥇 Versão Pro (Profissional)
 
@@ -103,7 +103,7 @@ Portanto, em vez de simplesmente pedir à IA para "resumir", dar diretrizes clar
   - R: Se o vídeo foi criado por você, você é totalmente livre para usá-lo. Porém, é preciso muito cuidado ao escrever um post de blog baseado no vídeo de outra pessoa. Copiar o roteiro na íntegra (plágio) é uma clara violação de direitos autorais. Certifique-se de instruir a IA a "reescrever completamente com suas próprias palavras" (Rewrite) e respeitar estritamente os limites da 'citação', declarando claramente o link e a fonte do vídeo original no início ou no final do artigo.
 
 - **P: Se eu inserir um roteiro muito longo, a IA não vai parar no meio ou omitir conteúdo?**
-  - R: Para vídeos longos, com mais de 1 hora, os modelos comuns podem cortar o conteúdo devido ao limite da janela de contexto. Nesses casos, usar o **Claude 3.5 Sonnet** ou o **Gemini 1.5 Pro**, que conseguem processar um grande volume de tokens de uma só vez, é esmagadoramente vantajoso. Eles são especialistas em manter o contexto de textos longos até o fim, sem perder detalhes importantes.
+  - R: Para vídeos longos, com mais de 1 hora, os modelos comuns podem cortar o conteúdo devido ao limite da janela de contexto. Nesses casos, usar o **Claude 3.5 Sonnet** ou o **Gemini 2.5 Pro**, que conseguem processar um grande volume de tokens de uma só vez, é esmagadoramente vantajoso. Eles são especialistas em manter o contexto de textos longos até o fim, sem perder detalhes importantes.
 
 ---
 

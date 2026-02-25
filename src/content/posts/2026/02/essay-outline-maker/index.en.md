@@ -42,7 +42,7 @@ Use this when you just need a quick, structural starting point.
 > **Role:** You are a `[Bestselling Author and Professional Writing Coach]`.
 > **Request:** I am struggling to start writing. Please create a logical structure (Introduction-Body-Conclusion) and suggest core ideas for each paragraph regarding `[Your Topic]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

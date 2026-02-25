@@ -43,7 +43,7 @@ Use this when you just need a quick, no-fuss routine to get started.
 >
 > **Request:** Please create a gentle, easy-to-follow, 15-minute home yoga sequence for someone with a very stiff body who is too intimidated to attend a public yoga class.
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -106,7 +106,7 @@ In practice, specifying your daily habits (like sitting for 8 hours) allows the 
 
 ### ❌ Before (Simple Input)
 
-> "Recommend some yoga stretches for a beginner."
+"Recommend some yoga stretches for a beginner."
 
 _(The AI often recommends standard poses like Chaturanga or full Sun Salutations, which require significant upper body strength and hamstring flexibility that a stiff beginner doesn't have.)_
 

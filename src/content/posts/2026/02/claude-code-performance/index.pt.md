@@ -45,7 +45,7 @@ Use isso quando precisar de um script rápido ou ajustes menores sem a necessida
 > **Tarefa:** Refatore este `[código/função]`.
 > **Restrição:** Retorne APENAS o código otimizado, completo e sem comentários abreviados ou explicações no texto.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

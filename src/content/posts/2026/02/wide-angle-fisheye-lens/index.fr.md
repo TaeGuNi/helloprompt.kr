@@ -43,7 +43,7 @@ Utilisez cette formule lorsque vous avez besoin d'un résultat bluffant en un mi
 >
 > **Demande :** Génère une image en utilisant un objectif ultra grand angle pour capturer l'intégralité de la scène suivante : `[Description de votre scène]`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 
@@ -97,7 +97,7 @@ Ajouter simplement `14mm lens` ou `fisheye distortion` transforme radicalement l
 
 ### ❌ Avant (Sans optimisation)
 
-> `Spaceship cockpit.`
+`Spaceship cockpit.`
 
 _(Résultat : Un cadrage très serré et étouffant. On ne voit qu'un bout du tableau de bord, aucune sensation d'être dans un vaisseau.)_
 

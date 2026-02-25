@@ -12,7 +12,7 @@ image: "/images/2026/02/15/agent-workflow.jpg"
 
 - **🎯 Público-alvo:** Gerentes de Produto (PMs), Planejadores, Profissionais exaustos de organizar atas de reuniões e documentações repetitivas
 - **⏱️ Tempo necessário:** 1 hora → Reduzido para 3 minutos
-- **🤖 Modelo recomendado:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (Modelos otimizados para fluxos de trabalho de agentes)
+- **🤖 Modelo recomendado:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (Modelos otimizados para fluxos de trabalho de agentes)
 
 - ⭐ **Dificuldade:** ⭐⭐⭐☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -43,7 +43,7 @@ Use esta versão quando precisar capturar rapidamente apenas a essência de uma 
 > **Role (Papel):** Você é um `[Gerente de Projetos de TI]`.
 > **Task (Tarefa):** Leia a transcrição da reunião a seguir, extraia as principais decisões e liste as tarefas pendentes.
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 
@@ -88,7 +88,7 @@ Particularmente, a regra de ouro nas restrições ("Jamais presuma ou invente") 
 ## 🙋 Perguntas Frequentes (FAQ)
 
 - **P: A transcrição da nossa reunião é enorme (mais de 1 hora) e estou recebendo um erro de limite de texto. O que faço?**
-  - R: Modelos de fronteira atuais (como Claude 3.5 Sonnet ou Gemini 1.5 Pro) possuem janelas de contexto massivas, processando facilmente horas de transcrição de uma vez. Se estiver usando um modelo gratuito ou antigo (como o GPT-3.5), divida o texto em duas partes lógicas ou faça o upgrade para aproveitar as janelas de contexto estendidas.
+  - R: Modelos de fronteira atuais (como Claude 3.5 Sonnet ou Gemini 2.5 Pro) possuem janelas de contexto massivas, processando facilmente horas de transcrição de uma vez. Se estiver usando um modelo gratuito ou antigo (como o GPT-3.5), divida o texto em duas partes lógicas ou faça o upgrade para aproveitar as janelas de contexto estendidas.
 
 - **P: A IA está confundindo os participantes e atribuindo tarefas às pessoas erradas.**
   - R: Esse é um sintoma comum de transcrições brutas sem identificação de locutor (Diarization). A solução ideal é usar ferramentas nativas de transcrição de reuniões (como Fireflies.ai, Fathom ou Otter.ai) que separam o texto por "Pessoa A" e "Pessoa B". Inserir o texto já com os locutores identificados eleva a precisão do agente para quase 100%.

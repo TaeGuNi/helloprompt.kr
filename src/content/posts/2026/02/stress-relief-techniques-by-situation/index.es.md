@@ -43,7 +43,7 @@ Las causas del estrés son infinitas y muy variadas. Por lo tanto, la solución 
 >
 > **Solicitud (Task):** Estoy experimentando un pico de estrés severo en este momento. Sugiéreme 3 técnicas de alivio rápido y científicamente probadas que pueda aplicar de inmediato sin llamar la atención.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

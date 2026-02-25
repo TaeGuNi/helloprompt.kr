@@ -48,7 +48,7 @@ Ideale per le situazioni più comuni: il menu è già deciso e vi serve solo sce
 > 2. Seleziona vitigni popolari e facili da bere, adatti anche a chi è alle prime armi con il vino.
 > 3. Spiega il motivo dell'abbinamento per ciascun vino in una sola frase, andando dritto al punto.
 
-<br>
+\
 
 ### 🥇 Pro Version (Analisi Dettagliata dei Gusti)
 

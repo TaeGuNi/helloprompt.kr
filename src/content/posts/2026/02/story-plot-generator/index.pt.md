@@ -13,7 +13,7 @@ tags: ["태그1", "태그2"]
 
 - **🎯 Recomendado para:** Escritores de Web Novels, Autores de Ficção, Roteiristas
 - **⏱️ Tempo necessário:** De horas de frustração → 3 minutos
-- **🤖 Modelos recomendados:** ChatGPT (GPT-4), Claude 3 Opus, Gemini 1.5 Pro
+- **🤖 Modelos recomendados:** ChatGPT (GPT-4), Claude 3 Opus, Gemini 2.5 Pro
 
 - ⭐ **Dificuldade:** ⭐⭐☆☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Use quando precisar de uma faísca rápida de inspiração para um capítulo.
 > **Função:** Você é um autor experiente de web novels de fantasia.
 > **Tarefa:** Crie um enredo para um capítulo onde o protagonista descobre um poder oculto durante uma crise. Inclua um gancho no final.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

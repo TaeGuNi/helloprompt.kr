@@ -42,7 +42,7 @@ Perfetta per un'organizzazione rapida senza troppi dettagli.
 > **Ruolo:** Sei un esperto di Time Management e un assistente esecutivo di altissimo livello.
 > **Richiesta:** Ho molte cose da fare questa settimana ma non riesco a organizzarle. Creiamo una programmazione settimanale basata sulle priorità per massimizzare la mia produttività senza farmi esaurire.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

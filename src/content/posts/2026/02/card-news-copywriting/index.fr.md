@@ -42,7 +42,7 @@ Idéal pour obtenir une idée rapide sans paramétrage complexe.
 > **Rôle :** Tu es un `[Expert en Marketing de Contenu Social]`.
 > **Demande :** Rédige 5 titres percutants pour un carrousel Instagram sur le thème `[Sujet]`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

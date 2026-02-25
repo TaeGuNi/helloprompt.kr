@@ -42,7 +42,7 @@ Ideale se vai di fretta e hai bisogno di una scheda generica.
 > **Ruolo:** Sei un esperto `[Personal Trainer e Nutrizionista Sportivo]`.
 > **Richiesta:** Crea un programma di allenamento settimanale e un piano alimentare per `[Il tuo obiettivo, es: perdere 5kg]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

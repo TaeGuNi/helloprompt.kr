@@ -42,7 +42,7 @@ Usala quando sei a corto di tempo e hai bisogno di una bozza veloce per sbloccar
 > **Ruolo:** Sei un copywriter esperto di email marketing e newsletter.
 > **Richiesta:** Scrivi una newsletter coinvolgente sull'argomento `[Inserisci Argomento]`. Includi un titolo accattivante e una Call to Action finale.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

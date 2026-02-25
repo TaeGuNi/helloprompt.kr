@@ -48,7 +48,7 @@ Verwenden Sie diese Version für schnelle, alltägliche Logikprobleme und erste 
 > **Rolle:** Du bist ein `[Logik-Experte]`.
 > **Aufgabe:** Analysiere und löse das folgende Problem schrittweise: `[Problembeschreibung]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenform)
 
@@ -86,7 +86,7 @@ Die wahre Stärke von Gemini 3 liegt nicht nur darin, _dass_ es eine Antwort lie
 
 ## 🙋 Häufig gestellte Fragen (FAQ)
 
-- **F: Funktioniert dieser Prompt auch mit älteren Modellen wie Gemini 1.5 Pro?**
+- **F: Funktioniert dieser Prompt auch mit älteren Modellen wie Gemini 2.5 Pro?**
   - A: Er funktioniert bedingt, aber Sie werden nicht die gleiche Tiefe der autonomen Selbstkorrektur erleben. Gemini 3 ist architektonisch speziell für dieses mehrstufige Denken optimiert.
 - **F: Kann ich diesen Ansatz auch für geschäftliche Strategieentscheidungen nutzen?**
   - A: Absolut! Ersetzen Sie einfach die technische Rolle durch `[Business Strategist]` und passen Sie den Kontext entsprechend an. Das Modell wird die strategischen Handlungsoptionen mit derselben logischen Strenge bewerten wie Code.

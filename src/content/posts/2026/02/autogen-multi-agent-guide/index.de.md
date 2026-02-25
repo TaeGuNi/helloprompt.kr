@@ -48,7 +48,7 @@ Dieser Prompt generiert den Code für die grundlegendste 1:1-Agenteninteraktion.
 >
 > **Ziel:** Konfiguriere die beiden Agenten so, dass sie gemeinsam die Aufgabe "Finde alle Primzahlen zwischen 1 und 100 und speichere sie in einer txt-Datei" erfolgreich abschließen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Das virtuelle IT-Unternehmen: PM, Dev, QA)
 

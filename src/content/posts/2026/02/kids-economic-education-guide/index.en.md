@@ -42,7 +42,7 @@ Use this when you need a quick, straightforward explanation on the fly.
 > **Role:** You are an expert in early childhood economic education.
 > **Request:** Provide a short, easy-to-understand script that teaches a child the value of money and the meaning of hard work.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

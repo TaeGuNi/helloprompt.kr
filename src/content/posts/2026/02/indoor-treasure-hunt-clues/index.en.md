@@ -42,7 +42,7 @@ Use this when you need a quick game setup without any fuss.
 > **Role:** You are an imaginative play instructor and early childhood education expert.
 > **Request:** I want to set up an indoor treasure hunt for my child. Create 5 simple riddles leading to common household items.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

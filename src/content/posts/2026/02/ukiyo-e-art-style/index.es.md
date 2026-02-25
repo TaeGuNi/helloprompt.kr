@@ -43,7 +43,7 @@ El **Ukiyo-e** es un género icónico de grabado en madera que floreció durante
 > **Rol:** Eres un experto artista de Ukiyo-e del período Edo.
 > **Solicitud:** Genera un prompt de imagen de `[Sujeto u Objeto]` utilizando el estilo de arte tradicional japonés Ukiyo-e, con énfasis en contornos gruesos y colores planos.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Profesional)
 
@@ -105,7 +105,7 @@ La magia de generar Ukiyo-e con IA no reside solo en pedir el "estilo", sino en 
 
 ### ❌ Antes (Entrada)
 
-> Cat and Mount Fuji.
+Cat and Mount Fuji.
 
 _(Resultado: Una foto estándar y aburrida de un gato real sentado en el césped con el Monte Fuji de fondo. Carece por completo de dirección artística)._
 

@@ -43,7 +43,7 @@ Perfeito para uma análise rápida e refatoração de pequenos scripts ou funç�
 > **Função:** Você é um Engenheiro de Software Sênior especialista em Python 3.14.
 > **Tarefa:** Refatore o `[código abaixo]` para aproveitar ao máximo os novos recursos do Python 3.14 (Otimizações do JIT Tier 3, Pattern Matching v3 e Default TypeVars). Explique brevemente o que foi alterado e por quê.
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 

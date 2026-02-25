@@ -42,7 +42,7 @@ Use this when you need a quick, simple JSON array just to get the structure in p
 > **Role:** You are a `[Senior Frontend Developer]`.
 > **Task:** Generate 5 dummy `[User Profile]` data entries in JSON format for frontend UI testing. Include the fields: id, name, and email.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

@@ -50,7 +50,7 @@ Use esta versão quando precisar de um resumo rápido para consumo próprio ou a
 > **Transcrição:**
 > `[Cole o texto da transcrição aqui]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 
@@ -112,7 +112,7 @@ Ao pedir que a IA crie a tabela de responsabilidades e já redija o e-mail de fo
 
 ### ❌ Antes (Escrito por um Humano Cansado)
 
-> Resumo da reunião de hoje... O time de marketing falou que vai fazer 3 banners novos, a galera de dev disse que termina de integrar a API até o final dessa semana... Ah, pera, o que a equipe de design ficou de fazer mesmo? Acho que era revisar aquele guia lá. Enfim, é isso.
+Resumo da reunião de hoje... O time de marketing falou que vai fazer 3 banners novos, a galera de dev disse que termina de integrar a API até o final dessa semana... Ah, pera, o que a equipe de design ficou de fazer mesmo? Acho que era revisar aquele guia lá. Enfim, é isso.
 
 ### ✅ Depois (Automação com IA)
 
@@ -127,10 +127,10 @@ Ao pedir que a IA crie a tabela de responsabilidades e já redija o e-mail de fo
 **[Rascunho de E-mail]**
 
 > **Assunto:** [Ata e Próximos Passos] Reunião de Alinhamento Semanal - 08/02
->
-> Olá, equipe,
->
-> Gostaria de agradecer a participação de todos na reunião de hoje. Abaixo, compartilho as principais decisões tomadas e os próximos passos para mantermos nosso cronograma em dia... (continua)
+
+Olá, equipe,
+
+Gostaria de agradecer a participação de todos na reunião de hoje. Abaixo, compartilho as principais decisões tomadas e os próximos passos para mantermos nosso cronograma em dia... (continua)
 
 ---
 

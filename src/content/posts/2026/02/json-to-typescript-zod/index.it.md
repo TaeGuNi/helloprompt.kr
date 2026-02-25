@@ -44,7 +44,7 @@ Usala quando hai fretta e ti serve un risultato immediato senza troppe pretese.
 > **Ruolo:** Sei un Senior TypeScript Developer.
 > **Richiesta:** Converti questo JSON in un'interfaccia TypeScript e in uno schema Zod. [Inserisci il JSON qui]
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

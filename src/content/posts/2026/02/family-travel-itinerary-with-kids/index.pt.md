@@ -42,7 +42,7 @@ Use isto quando precisar de um esboço rápido e geral do roteiro.
 > **Papel:** Você é um planejador de viagens especialista em roteiros infantis.
 > **Pedido:** Crie um roteiro de viagem em família para `[Destino]` durante `[Dias]` com `[Número]` crianças de `[Idade]`, equilibrando a diversão dos pequenos e o descanso dos pais.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 
@@ -100,7 +100,7 @@ Este prompt é incrivelmente valioso porque força a IA a pensar como uma mãe o
 
 ### ❌ Antes (Entrada Simples)
 
-> "Monte um roteiro de viagem em família para Orlando de 3 dias com uma criança de 3 anos."
+"Monte um roteiro de viagem em família para Orlando de 3 dias com uma criança de 3 anos."
 
 _(Resultado ruim: A IA gera um roteiro lotado com 4 parques temáticos seguidos, restaurantes sofisticados e inadequados, sem nenhum tempo de descanso previsto, resultando em exaustão extrema.)_
 

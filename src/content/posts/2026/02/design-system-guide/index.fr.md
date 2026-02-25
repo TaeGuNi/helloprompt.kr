@@ -44,7 +44,7 @@ Utilisez ce prompt lorsque vous devez concevoir une palette de couleurs initiale
 > Je souhaite diviser les couleurs `[Primary (Bleu)]`, `[Secondary (Gris)]` et `[Error (Rouge)]` en 9 nuances allant de 100 à 900.
 > Recommande-moi un tableau contenant les codes hexadécimaux pour chaque nuance, associés à des noms intuitifs et sémantiques (par exemple, `text-primary`, `bg-surface-default`) afin que je puisse les appliquer directement dans mon code.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 

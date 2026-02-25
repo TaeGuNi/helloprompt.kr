@@ -44,7 +44,7 @@ Use this when you need a quick, no-frills setup for a side project.
 > **Role:** You are a Senior DevOps Engineer and Container Orchestration Expert.
 > **Request:** Create a basic `Dockerfile` and `docker-compose.yml` to containerize my `[Insert Tech Stack, e.g., Node.js 20 and Express]` application.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

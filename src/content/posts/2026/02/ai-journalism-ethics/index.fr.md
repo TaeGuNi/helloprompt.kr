@@ -47,7 +47,7 @@ Les articles rédigés par des agents IA automatisés inondent le web. Si cette 
 > **Requête :** Analyse l'article ci-dessous. Signale toute affirmation non sourcée, tout biais potentiel et toute formulation trompeuse. Propose des corrections.
 > **Article :** `[Insérer le texte ici]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Version expert)
 

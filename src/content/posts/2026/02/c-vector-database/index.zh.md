@@ -9,7 +9,7 @@ tags: ["C", "Open Source", "Database", "AI"]
 
 - **🎯 推荐对象：** 嵌入式开发者、C/C++ 系统工程师、轻量级 AI 架构师
 - **⏱️ 预计耗时：** 5 小时搜索与实现 → 缩短至 1 分钟
-- **🤖 推荐模型：** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 推荐模型：** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **难度：** ⭐⭐⭐⭐☆
 - ⚡️ **效果：** ⭐⭐⭐⭐⭐
@@ -38,7 +38,7 @@ tags: ["C", "Open Source", "Database", "AI"]
 > **角色：** 你是一位`[资深嵌入式系统工程师]`。
 > **任务：** 请为我编写一个完全没有任何外部依赖、纯 C 语言实现的`[Header-only 向量数据库]`代码。代码中必须包含基于余弦相似度的检索函数。
 
-<br>
+\
 
 ### 🥇 Pro Version (专业版)
 

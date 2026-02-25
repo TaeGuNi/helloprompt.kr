@@ -42,7 +42,7 @@ Ideale quando hai bisogno di un'animazione rapida e standard.
 > **Ruolo:** Sei un `[Sviluppatore UI Frontend]`.
 > **Richiesta:** Scrivi il codice di animazione CSS Keyframe per un `[messaggio di notifica che appare scivolando dall'angolo in alto a destra dello schermo]`.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Professional Version)
 

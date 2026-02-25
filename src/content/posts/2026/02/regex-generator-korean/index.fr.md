@@ -44,7 +44,7 @@ Utilisez cette version lorsque vous avez juste besoin d'un résultat immédiat s
 > **Rôle :** Tu es un développeur Senior expert en Regex.
 > **Demande :** Écris-moi une expression régulière en `[Langage, ex: JavaScript]` pour extraire `[Description du motif, ex: un numéro de téléphone français]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Expert)
 
@@ -113,7 +113,7 @@ Dans un contexte professionnel (ex: validation de formulaire, nettoyage de base 
 
 ### ❌ Before (Entrée)
 
-> "Je veux une regex pour vérifier un mot de passe. Il doit faire 8 caractères minimum, avec au moins une majuscule, une minuscule, un chiffre et un caractère spécial."
+"Je veux une regex pour vérifier un mot de passe. Il doit faire 8 caractères minimum, avec au moins une majuscule, une minuscule, un chiffre et un caractère spécial."
 
 ### ✅ After (Résultat)
 

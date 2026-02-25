@@ -47,7 +47,7 @@ Use esta versão quando precisar apenas de uma varredura rápida para encontrar 
 > [Cole o seu código aqui]
 > ```
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

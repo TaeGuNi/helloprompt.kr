@@ -45,7 +45,7 @@ Utilizza questo prompt quando incontri casualmente un investitore, quando invii 
 > **Compito:** Scrivi un copione per un **'Elevator Pitch'** che mi permetta di spiegare la mia idea di business a un investitore in soli 30 secondi. Inserisci un hook (gancio) potentissimo nella prima frase e strutturalo in modo estremamente conciso seguendo l'ordine: Problema - Soluzione - Mercato - Team.
 > **La mia idea:** `[Un'app basata sull'AI che analizza l'abbaiare dei cani per rivelarne le emozioni e lo stato di salute]`
 
-<br>
+\
 
 ### 🥇 Versione Pro (Struttura a 10 Slide)
 

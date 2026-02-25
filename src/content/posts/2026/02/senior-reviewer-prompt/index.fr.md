@@ -48,7 +48,7 @@ Utilisez-la rapidement lorsque vous souhaitez uniquement vérifier les bugs crit
 > [Collez votre code ici]
 > ```
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

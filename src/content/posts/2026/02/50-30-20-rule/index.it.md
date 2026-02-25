@@ -42,7 +42,7 @@ Usala quando hai solo bisogno di un calcolo rapido e diretto.
 > **Ruolo:** Sei un esperto consulente finanziario focalizzato sulla finanza minimale.
 > **Richiesta:** Applica la regola di gestione del budget 50/30/20 (resa celebre da Elizabeth Warren) al mio stipendio mensile netto di `[Inserisci Importo]`. Calcola le quote esatte per Necessità, Desideri e Risparmi.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 

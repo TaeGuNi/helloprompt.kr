@@ -44,7 +44,7 @@ Use this when you need a simple, fast template for a quick outreach message.
 > **Role:** You are a highly professional and charismatic networking expert.
 > **Request:** Write a polite, engaging cold email or LinkedIn DM asking an experienced industry professional for a brief coffee chat or career advice. Ensure the tone is respectful and encourages a reply without being pushy.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Networking)
 

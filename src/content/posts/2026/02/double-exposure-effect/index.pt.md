@@ -42,7 +42,7 @@ Use esta versão para rascunhos rápidos ou para gerar ideias conceituais.
 > **Papel:** Você é um especialista em fotografia fine art.
 > **Solicitação:** Crie uma imagem usando a técnica de `Double exposure` (dupla exposição) combinando a silhueta de uma pessoa com uma paisagem de floresta, em estilo surrealista e com fundo branco.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

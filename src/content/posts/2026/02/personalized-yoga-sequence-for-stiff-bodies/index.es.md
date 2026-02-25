@@ -43,7 +43,7 @@ tags:
 > **Rol:** Eres un instructor de yoga experto en terapia de rehabilitación y movilidad.
 > **Solicitud:** Diseña una rutina de yoga suave de 10 minutos para un oficinista muy rígido que sufre de dolor lumbar y tensión en los hombros. Incluye modificaciones fáciles.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Profesional)
 
@@ -103,7 +103,7 @@ La verdadera magia de este prompt radica en la sección de **Contexto** y la sol
 
 ### ❌ Antes (Entrada genérica)
 
-> "Dame una rutina de yoga para relajarme."
+"Dame una rutina de yoga para relajarme."
 
 _(Resultado: La IA recomienda posturas como el Perro Boca Abajo profundo, el Cuervo o el Saludo al Sol completo, lo cual es abrumador e inaccesible para alguien con rigidez severa)._
 

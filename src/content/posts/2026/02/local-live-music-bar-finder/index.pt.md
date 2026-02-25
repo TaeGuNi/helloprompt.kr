@@ -49,7 +49,7 @@ Ideal para quando você precisa de resultados rápidos e diretos.
 > **Papel:** Você é um `[Especialista em Música Indie/Local]`.
 > **Pedido:** Chega de armadilhas para turistas. Leve-me a uma jornada musical autêntica para sentir a verdadeira energia dos músicos locais em `[Nome da Cidade]`.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 
@@ -81,13 +81,13 @@ Para recomendações altamente detalhadas e personalizadas.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 A grande vantagem deste prompt é a capacidade de **filtrar o ruído turístico**. Quando você simplesmente pesquisa "melhores bares de jazz" no Google, acaba caindo nos mesmos locais superlotados, absurdamente caros e projetados exclusivamente para extrair dinheiro de visitantes. Ao atribuir à IA a persona de um "Editor de Revista Indie" e definir restrições claras (como segurança e conforto para viajantes solo), você acessa joias escondidas que normalmente exigiriam horas vasculhando fóruns obscuros do Reddit ou conversando com moradores locais. Além disso, ter uma estimativa de custos e saber de antemão a política de reservas evita grandes frustrações ao chegar na porta do estabelecimento.
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q: Posso usar este prompt para cidades menores ou menos conhecidas?**
   - A: Sim! No entanto, a IA pode ter menos dados granulares sobre cidades muito pequenas. Nesses casos, tente expandir a busca para a região metropolitana mais próxima ou altere a Tarefa (Task) pedindo "locais alternativos ou pubs charmosos para onde os moradores costumam ir".

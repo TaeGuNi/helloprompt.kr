@@ -62,7 +62,7 @@ Ideale per MacBook con chip M1/M2 o laptop Windows generici. Garantisce un'ottim
 > **Comando da eseguire:**
 > `ollama run deepseek-r1:8b`
 
-<br>
+\
 
 ### 🥇 Pro Version (Per PC High-End / Mac con M3 Max)
 

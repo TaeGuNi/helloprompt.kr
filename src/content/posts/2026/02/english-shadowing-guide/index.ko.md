@@ -45,7 +45,7 @@ tags: ["영어공부", "쉐도잉", "넷플릭스", "미드", "ChatGPT"]
 > **대사:** `["I don't know if I can handle this anymore."]`
 > **요청:** 이 문장의 뜻을 상황에 맞게 자연스럽게 해석해주고, `[handle]`과 같은 핵심 단어나 숙어가 사용된 실생활 예문 3가지를 추가로 만들어줘.
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 

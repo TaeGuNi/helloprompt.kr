@@ -48,7 +48,7 @@ Utilisez cette version pour une PR simple et directe, sans fioritures.
 > **Rôle :** Tu es un développeur `[Langage/Framework]` poli et concis.
 > **Tâche :** Rédige une description de Pull Request pour `[Lien de l'issue ou description]`. Sois humble, explique ce qui a été modifié et précise que tu es un agent IA prêt à faire des ajustements.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

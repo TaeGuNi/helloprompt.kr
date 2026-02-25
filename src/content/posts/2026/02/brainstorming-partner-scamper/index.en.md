@@ -42,7 +42,7 @@ Use this when you need a quick jolt of inspiration without complex setup.
 > **Role:** You are an elite Creativity Consultant.
 > **Request:** I am stuck trying to come up with ideas for `[Your Topic/Problem]`. Expand on this using the SCAMPER technique and give me 5 fresh perspectives.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

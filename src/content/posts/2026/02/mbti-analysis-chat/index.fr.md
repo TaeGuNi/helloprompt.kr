@@ -48,7 +48,7 @@ Utilisez cette version si vous souhaitez une réponse rapide pour trancher le di
 > **Tâche :**
 > Analyse si la personne qui a répondu a plutôt un profil axé sur la Pensée (T - Thinking) ou sur le Sentiment (F - Feeling). Ensuite, propose-moi 2 exemples de réponses que je pourrais envoyer pour créer un lien émotionnel plus profond avec cette personne.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 

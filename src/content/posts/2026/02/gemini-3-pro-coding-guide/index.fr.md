@@ -39,7 +39,7 @@ Utilisez cette version pour identifier rapidement les failles de sécurité et l
 > **Rôle :** Tu es un `[Développeur Backend Senior avec 20 ans d'expérience]`.
 > **Tâche :** Analyse le `[code legacy]` ci-dessous et identifie 3 problèmes majeurs liés à la sécurité et aux performances.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Expert)
 

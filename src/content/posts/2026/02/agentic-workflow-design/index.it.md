@@ -12,7 +12,7 @@ image: "/images/2026/02/15/agent-workflow.jpg"
 
 - **🎯 Consigliato per:** Project Manager (PM), Planner, e professionisti stanchi di redigere noiosi verbali e riordinare documenti all'infinito
 - **⏱️ Tempo risparmiato:** Da 1 ora → a soli 3 minuti
-- **🤖 Modelli raccomandati:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (ottimizzati per workflow agentici)
+- **🤖 Modelli raccomandati:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (ottimizzati per workflow agentici)
 
 - ⭐ **Difficoltà:** ⭐⭐⭐☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -43,7 +43,7 @@ Utilizza questo prompt quando hai bisogno di estrarre rapidamente solo i punti s
 > **Ruolo:** Sei un `[IT Project Manager]`.
 > **Task:** Leggi la seguente trascrizione della riunione e riassumi le decisioni principali e le cose da fare.
 
-<br>
+\
 
 ### 🥇 Versione Pro
 
@@ -85,7 +85,7 @@ In particolare, esplicitando nel prompt il vincolo di "non tirare a indovinare",
 ## 🙋 Domande Frequenti (FAQ)
 
 - **D: La trascrizione è troppo lunga e ricevo un errore. Come posso risolvere?**
-  - R: I modelli di ultima generazione (come Claude 3.5 Sonnet, Gemini 1.5 Pro) gestiscono agevolmente decine di migliaia di caratteri. Se stai utilizzando un modello meno recente, prova a dividere il testo in due parti o passa a una versione dotata di una finestra di contesto (Context Window) più ampia.
+  - R: I modelli di ultima generazione (come Claude 3.5 Sonnet, Gemini 2.5 Pro) gestiscono agevolmente decine di migliaia di caratteri. Se stai utilizzando un modello meno recente, prova a dividere il testo in due parti o passa a una versione dotata di una finestra di contesto (Context Window) più ampia.
 
 - **D: A volte l'IA assegna gli action item alla persona sbagliata. Perché succede?**
   - R: Questo si verifica generalmente quando i parlanti non sono chiaramente distinti nella trascrizione. Utilizzando la funzione "separazione dei parlanti" disponibile in strumenti di trascrizione avanzati (es. ClovaNote, Otter.ai) e inserendo quel testo, la precisione salirà vertiginosamente oltre il 99%.

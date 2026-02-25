@@ -45,7 +45,7 @@ Verwenden Sie diese Version, um kleinere Neuigkeiten, Events oder Produkteinfüh
 > **Aufgabe:** Verfasse basierend auf den folgenden Informationen eine kurze Pressemitteilung (Straight News) in einem objektiven Ton zur Verteilung an Medienunternehmen.
 > **Inhalt:** "Unser Unternehmen (Hello Prompt) hat ein neues KI-Schreibtool auf den Markt gebracht. Jeder kann es kostenlos nutzen, und es soll die Produktivität verzehnfachen."
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenmodus / Leitartikel & Finanzierungsrunden)
 

@@ -42,7 +42,7 @@ Use this when you need a quick, general approach to the topic.
 > **Role:** You are an expert child psychologist and grief counselor.
 > **Request:** How do I explain the concept of death to a young child and comfort them after a loss? Give me a brief, age-appropriate guide.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Script)
 

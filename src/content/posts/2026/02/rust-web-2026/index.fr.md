@@ -41,7 +41,7 @@ Pour obtenir rapidement une recommandation de stack technique Rust à jour.
 > **Rôle :** Tu es un Architecte Logiciel Senior expert en Rust.
 > **Tâche :** Dis-moi si je dois utiliser Rust pour `[mon_projet]` et recommande-moi les meilleurs frameworks backend et frontend selon les standards de 2026.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

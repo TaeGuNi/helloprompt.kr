@@ -13,7 +13,7 @@ tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 
 - **🎯 Empfohlen für:** Projektmanager, Teamleiter, Assistenten, Scrum Master
 - **⏱️ Zeitaufwand:** 60 Minuten → 3 Minuten
-- **🤖 Empfohlenes Modell:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 Empfohlenes Modell:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **Schwierigkeitsgrad:** ⭐⭐☆☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -43,7 +43,7 @@ Nutzen Sie diese Variante, wenn Sie unter Zeitdruck stehen und nur die wichtigst
 > **Aufgabe:** Fasse das folgende Meeting-Transkript prägnant zusammen. Extrahiere die wichtigsten Kernpunkte und Entscheidungen in Stichpunkten.
 > **Eingabe:** `[Hier das Transkript einfügen]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Für professionelle Protokolle)
 
@@ -82,7 +82,7 @@ Verwenden Sie diesen Prompt für formelle Meetings, bei denen eine exakte Dokume
 
 Dieser Prompt ist ein absoluter Lebensretter für alle, die regelmäßig an langen Abstimmungsrunden teilnehmen. Besonders effektiv ist er, wenn Sie Tools wie Microsoft Teams oder Zoom nutzen, die automatisch Transkripte erstellen. Anstatt das Transkript manuell zu überfliegen, übernimmt die KI das "Goldschürfen" für Sie.
 
-**Pro-Tipp:** Wenn Ihr Transkript extrem lang ist (über 1 Stunde), empfehle ich Modelle mit großem Kontextfenster wie **Claude 3.5 Sonnet** oder **Gemini 1.5 Pro**. Sie neigen weitaus weniger dazu, Details in der Mitte des Textes zu übersehen. Achten Sie darauf, das Transkript vorab kurz nach vertraulichen Passwörtern oder sensiblen Personaldaten zu durchsuchen und diese zu anonymisieren!
+**Pro-Tipp:** Wenn Ihr Transkript extrem lang ist (über 1 Stunde), empfehle ich Modelle mit großem Kontextfenster wie **Claude 3.5 Sonnet** oder **Gemini 2.5 Pro**. Sie neigen weitaus weniger dazu, Details in der Mitte des Textes zu übersehen. Achten Sie darauf, das Transkript vorab kurz nach vertraulichen Passwörtern oder sensiblen Personaldaten zu durchsuchen und diese zu anonymisieren!
 
 ---
 

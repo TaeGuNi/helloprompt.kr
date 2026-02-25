@@ -43,7 +43,7 @@ Usala quando hai bisogno di un consiglio rapido e diretto.
 >
 > **Richiesta:** La mia stanza è davvero un ambiente adatto per dormire? Analizza la mia camera da letto e le mie abitudini quotidiane e offrimi soluzioni pratiche per migliorare la qualità del mio sonno.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 
@@ -97,7 +97,7 @@ Spesso tendiamo a medicalizzare l'insonnia o a cercare soluzioni in costosi inte
 
 ### ❌ Prima (Input generico)
 
-> "Dimmi come posso dormire meglio."
+"Dimmi come posso dormire meglio."
 > _(Risultato: Bevi una tazza di latte caldo prima di andare a letto e cerca di rilassarti.)_
 
 ### ✅ Dopo (Risultato con il Prompt Pro)

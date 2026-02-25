@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "context-window-optimization"]
 
 - **🎯 推薦對象：** AI 工程師、後端開發者、架構師
 - **⏱️ 節省時間：** 數小時的 Debug 縮短至 5 分鐘
-- **🤖 推薦模型：** 支援超長上下文的模型 (Gemini 1.5 Pro, Claude 3 Opus, GPT-4 Turbo)
+- **🤖 推薦模型：** 支援超長上下文的模型 (Gemini 2.5 Pro, Claude 3 Opus, GPT-4 Turbo)
 
 - ⭐ **難易度：** ⭐⭐⭐☆☆
 - ⚡️ **有效性：** ⭐⭐⭐⭐⭐
@@ -49,7 +49,7 @@ tags: ["AI", "Tech", "context-window-optimization"]
 > `[貼上相關程式碼]`
 > </source_code>
 
-<br>
+\
 
 ### 🥇 Pro Version (專業版)
 

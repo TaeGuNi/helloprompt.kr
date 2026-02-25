@@ -13,7 +13,7 @@ tags: ["운동", "헬스", "PT", "스쿼트", "ChatGPT"]
 
 - **🎯 Recommended for:** Office workers experiencing joint pain during home workouts, college students and young professionals burdened by expensive PT costs
 - **⏱️ Time Required:** 1 minute (Video recording and upload)
-- **🤖 Recommended AI:** ChatGPT (GPT-4o Vision), Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Recommended AI:** ChatGPT (GPT-4o Vision), Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Difficulty:** ⭐☆☆☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Use this when you want a quick, straightforward diagnosis of your current postur
 > **Role:** You are a personal trainer with 10 years of experience.
 > **Task:** The attached video shows my `[squat]` posture. Identify any incorrect movements that could lead to injury and rate my form out of 10.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

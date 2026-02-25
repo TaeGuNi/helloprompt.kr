@@ -44,7 +44,7 @@ Lo que necesitas es una técnica para obligar a la IA a tomarse su **"tiempo par
 > **Rol:** Eres un `[Gerente de Proyecto Senior (PM)]` experto en detectar errores lógicos.
 > **Solicitud:** Resuelve este `[problema complejo]`, pero antes de darme la respuesta final, piensa paso a paso y explícame tu razonamiento.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

@@ -39,7 +39,7 @@ Nutzen Sie diese Basisstruktur, um irrelevante Daten schnell herauszufiltern.
 > **Rolle:** Du bist ein `[Datenanalyst]`.
 > **Aufgabe:** Fasse das beigefügte Dokument auf die `[Kernpunkte]` zusammen und entferne alle irrelevanten Füllinformationen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

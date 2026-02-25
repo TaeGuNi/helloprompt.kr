@@ -52,7 +52,7 @@ Se non hai tempo per digitare manualmente centinaia di righe di dati, sfrutta un
 > 2. Per ogni domanda, scrivi 10 risposte (Output) professionali e altamente motivazionali.
 > 3. L'output DEVE essere rigorosamente formattato in formato JSONL (`{"instruction": "...", "output": "..."}`).
 
-<br>
+\
 
 ### 🥇 Pro Version (Generatore di Codice per la Pipeline di Addestramento)
 

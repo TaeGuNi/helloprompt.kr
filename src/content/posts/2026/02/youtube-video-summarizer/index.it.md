@@ -13,7 +13,7 @@ tags: ["유튜브", "요약", "ChatGPT", "생산성", "공부"]
 
 - **🎯 Consigliato per:** Persone moderne che non hanno abbastanza tempo nemmeno guardando a velocità 2x, impiegati e studenti che vogliono cogliere rapidamente il nocciolo dell'informazione senza cadere nelle trappole delle miniature acchiappaclick.
 - **⏱️ Tempo Richiesto:** 20 minuti di visione del video → Ridotti a soli 10 secondi.
-- **🤖 Modelli Consigliati:** ChatGPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro (È fondamentale la capacità di elaborare contesti lunghi).
+- **🤖 Modelli Consigliati:** ChatGPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro (È fondamentale la capacità di elaborare contesti lunghi).
 
 - ⭐ **Difficoltà:** ⭐☆☆☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -44,7 +44,7 @@ Usalo quando sei in movimento o vuoi semplicemente capire rapidamente se vale la
 > **Ruolo:** Sei un esperto nel riassumere contenuti in modo rapido e preciso.
 > **Azione:** Il testo seguente è la trascrizione di un video di YouTube. Escludi le chiacchiere irrilevanti e riassumi l'argomento principale e le conclusioni più importanti del video in modo chiaro, usando esattamente 3 frasi.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Esperto)
 
@@ -93,7 +93,7 @@ Se sei su un PC, ti consiglio vivamente di installare un'estensione gratuita per
   - R: Grazie ai rapidi progressi nella tecnologia di generazione automatica dei sottotitoli di YouTube, la maggior parte dei video ne è provvista. Se non ce ne sono affatto, dovrai prima estrarre l'audio dal video e generare una trascrizione utilizzando l'API Whisper di OpenAI o un altro strumento STT (Speech-to-Text).
 
 - **D: Se incollo l'intera trascrizione di un video molto lungo (oltre un'ora), l'IA si blocca?**
-  - R: I modelli più recenti, come GPT-4o, Claude 3.5 Sonnet e Gemini 1.5 Pro, hanno una finestra di contesto (Context Window) estremamente ampia e gestiscono senza problemi testi che corrispondono a 1 o 2 ore di video. Tuttavia, se usi modelli più vecchi (es. GPT-3.5), il testo potrebbe essere tagliato, quindi ti consiglio di dividerlo a metà e riassumerlo in due parti.
+  - R: I modelli più recenti, come GPT-4o, Claude 3.5 Sonnet e Gemini 2.5 Pro, hanno una finestra di contesto (Context Window) estremamente ampia e gestiscono senza problemi testi che corrispondono a 1 o 2 ore di video. Tuttavia, se usi modelli più vecchi (es. GPT-3.5), il testo potrebbe essere tagliato, quindi ti consiglio di dividerlo a metà e riassumerlo in due parti.
 
 - **D: Vengono copiati anche i numeri dei timestamp presenti nella trascrizione. Devo cancellarli prima di incollarli?**
   - R: Non c'è alcun bisogno di cancellarli. Incollali esattamente così come sono. In realtà, l'IA utilizzerà in modo intelligente quei timestamp per suddividere accuratamente i capitoli e fornire riferimenti temporali utili.

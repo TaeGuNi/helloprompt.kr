@@ -49,7 +49,7 @@ Use isto quando precisar de ideias rápidas para entreter as crianças instantan
 > **Papel:** Você é um professor de educação física especialista no desenvolvimento psicomotor infantil.
 > **Pedido:** Crie 5 comandos divertidos e criativos para o jogo 'O Mestre Mandou' para melhorar a concentração do meu filho.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

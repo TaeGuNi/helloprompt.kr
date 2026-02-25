@@ -44,7 +44,7 @@ Sin embargo, por muy potente que sea la herramienta, un prompt simple como "una 
 > **Prompt:**
 > `A cinematic drone shot of a futuristic cyberpunk city at sunset, flying cars, neon lights, 4k resolution, photorealistic`
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

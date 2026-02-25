@@ -52,7 +52,7 @@ Use este prompt básico para resumir ou traduzir documentos rapidamente em um am
 > **Role:** Você é um `[Assistente de Segurança]` que opera em um ambiente offline, sem internet.
 > **Task:** Analise e resuma o `[texto]` fornecido. Baseie-se exclusivamente no conteúdo fornecido, sem recorrer a conhecimentos externos.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

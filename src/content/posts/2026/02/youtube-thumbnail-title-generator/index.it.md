@@ -50,7 +50,7 @@ Quando hai solo bisogno di titoli accattivanti e in fretta.
 > **Compito:** Genera 10 titoli ad alto CTR per il mio video.
 > **Argomento:** `[Argomento Video]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

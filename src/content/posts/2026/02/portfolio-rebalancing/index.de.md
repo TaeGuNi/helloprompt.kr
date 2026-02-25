@@ -42,7 +42,7 @@ Nutzen Sie diese Variante, wenn Sie einen schnellen und unkomplizierten Überbli
 > **Rolle:** Du bist ein professioneller `[Portfoliomanager]`, der die Vermögenswerte von VIP-Kunden bei einer renommierten Vermögensverwaltungsfirma verwaltet.
 > **Anfrage:** Überprüfe meinen aktuellen Asset-Allokationsstatus und schlage ein optimales Rebalancing-Verhältnis vor.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

@@ -42,7 +42,7 @@ Utilisez cette version pour obtenir un plan d'action rapide et direct.
 > **Rôle :** Tu es un psychologue comportementaliste et un expert en création d'habitudes.
 > **Requête :** En t'appuyant sur la théorie "Atomic Habits", crée un système de formation d'habitudes basé sur les neurosciences pour m'aider à `[votre objectif]`, sans que j'aie à compter sur ma seule volonté.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Expert)
 
@@ -98,7 +98,7 @@ Ce prompt est redoutablement efficace car il s'attaque à la véritable cause de
 
 ### ❌ Avant (Requête classique)
 
-> "Comment faire pour étudier l'anglais régulièrement tous les jours ?"
+"Comment faire pour étudier l'anglais régulièrement tous les jours ?"
 > _(L'IA répond par des conseils vagues : "Fixez-vous un objectif, trouvez du temps, restez motivé...")_
 
 ### ✅ Après (Résultat avec notre prompt)

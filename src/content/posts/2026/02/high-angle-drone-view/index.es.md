@@ -43,7 +43,7 @@ El **Ángulo Alto** (o **Vista de Pájaro**, **Toma de Dron**) desde una posici�
 > **Rol:** Eres un experto en fotografía de paisajes y urbanismo.
 > **Solicitud:** Crea un prompt para un generador de imágenes que utilice un Ángulo Alto/Toma de Dron para mostrar el terreno y la disposición general de una `[Tipo de Ciudad o Paisaje]` desde un punto de vista aéreo.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

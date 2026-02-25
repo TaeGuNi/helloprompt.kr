@@ -48,7 +48,7 @@ Idéal pour une vérification de sécurité basique avant publication.
 > **Rôle :** Tu es un `[Rédacteur en chef / Fact-checker intraitable]`.
 > **Tâche :** Révise le texte suivant et identifie toutes les affirmations ou citations qui nécessitent une vérification humaine rigoureuse. Ne corrige pas, signale simplement les risques potentiels d'hallucination.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Expert)
 

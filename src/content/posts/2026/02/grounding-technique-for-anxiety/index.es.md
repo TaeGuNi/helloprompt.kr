@@ -51,7 +51,7 @@ Ideal para cuando necesitas ayuda inmediata y no tienes tiempo de copiar textos 
 > **Rol:** Eres un experto en primeros auxilios psicológicos.
 > **Solicitud:** Estoy sufriendo un ataque de ansiedad. Guíame paso a paso a través de la técnica de arraigo 5-4-3-2-1 para calmarme. Ve dándome las instrucciones una a una y espera mi respuesta antes de avanzar.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

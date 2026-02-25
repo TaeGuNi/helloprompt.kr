@@ -42,7 +42,7 @@ El **Pixel Art** es la esencia del arte digital clásico, creado estampando píx
 > **Rol:** Eres un artista experto en pixel art de la era de los 16 bits.
 > **Solicitud:** Genera una imagen de `[tu idea, ej: un caballero luchando contra un dragón]` en estilo pixel art de 16 bits, con colores vibrantes y estética de videojuego retro.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Profesional)
 

@@ -49,7 +49,7 @@ Verwenden Sie diesen Prompt für sofortiges Debugging einer einzelnen Funktion o
 > **Aufgabe:** Analysiere den folgenden Code, identifiziere den Fehler und schreibe ihn für maximale Performance und Lesbarkeit neu.
 > **Code:** `[Füge deinen fehlerhaften Code hier ein]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Für projektweites Refactoring)
 

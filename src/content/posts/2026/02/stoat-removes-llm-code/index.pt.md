@@ -47,7 +47,7 @@ Use quando precisar reduzir rapidamente o número de linhas de código (LOC).
 > **Task (Tarefa):** Revise o código abaixo e reescreva-o reduzindo o número de linhas ao mínimo absoluto, mantendo a funcionalidade 100% idêntica. Elimine impiedosamente abstrações desnecessárias, lógicas redundantes e códigos mortos.
 > **Código:** `[Cole o código a ser refatorado aqui]`
 
-<br>
+\
 
 ### 🥇 Versão Pro (Especialista)
 

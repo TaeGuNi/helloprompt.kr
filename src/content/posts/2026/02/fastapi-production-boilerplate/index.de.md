@@ -42,7 +42,7 @@ Nutzen Sie diese, wenn Sie schnell einen einfachen API-Mockup-Server benötigen.
 > **Rolle:** Du bist ein Senior Python Backend-Entwickler.
 > **Aufgabe:** Schreibe den grundlegendsten `main.py` Code mit FastAPI, der eine GET-Anfrage auf der Route `/items/{item_id}` empfängt und einen optionalen Query-Parameter `q` verarbeitet. Füge den Befehl zum Ausführen mit `uvicorn` als Kommentar hinzu.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 
@@ -118,7 +118,7 @@ async def create_user(user: UserCreate):
     return user
 ```
 
-> Wenn Sie den Code speichern und `http://localhost:8000/docs` aufrufen, wird automatisch eine interaktive API-Dokumentation (Swagger UI) generiert, die der Frontend-Entwickler sofort testen kann. Wenn die Datentypen nicht übereinstimmen, gibt FastAPI automatisch einen freundlichen "422 Unprocessable Entity"-Fehler zurück. Die Kommunikationskosten mit dem Frontend sinken auf "0".
+Wenn Sie den Code speichern und `http://localhost:8000/docs` aufrufen, wird automatisch eine interaktive API-Dokumentation (Swagger UI) generiert, die der Frontend-Entwickler sofort testen kann. Wenn die Datentypen nicht übereinstimmen, gibt FastAPI automatisch einen freundlichen "422 Unprocessable Entity"-Fehler zurück. Die Kommunikationskosten mit dem Frontend sinken auf "0".
 
 ---
 

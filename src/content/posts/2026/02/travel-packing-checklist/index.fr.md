@@ -42,7 +42,7 @@ Utilisez cette version lorsque vous êtes pressé et avez besoin d'une liste imm
 > **Rôle :** Tu es un grand voyageur expert et un maître de l'optimisation des bagages.
 > **Demande :** Crée-moi une checklist de voyage parfaite, en tenant compte de la météo locale, de la culture et des activités touristiques pour ma destination.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

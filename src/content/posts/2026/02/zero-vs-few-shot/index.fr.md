@@ -43,7 +43,7 @@ Le **Zero-Shot** consiste à donner une instruction directe, en s'appuyant uniqu
 > **Rôle :** Tu es un traducteur expert.
 > **Requête :** Traduis la phrase suivante en espagnol : "Le climat est très agréable aujourd'hui."
 
-<br>
+\
 
 ### 🥇 Le Prompt Few-Shot (L'apprentissage par l'exemple)
 
@@ -116,12 +116,12 @@ Voici les personnes extraites du texte :
 ### ✅ After (Few-Shot maîtrisé)
 
 > **Requête :** Extrais les informations selon le modèle exact ci-dessous. Ne dis rien d'autre.
->
-> Texte: "Lucie, 22 ans. Pierre a 45 ans."
-> Résultat: Lucie:22, Pierre:45
->
-> Texte: "Marc a 34 ans. Sophie est née il y a 28 ans. Le vieux Jean de 60 ans."
-> Résultat:
+
+Texte: "Lucie, 22 ans. Pierre a 45 ans."
+Résultat: Lucie:22, Pierre:45
+
+Texte: "Marc a 34 ans. Sophie est née il y a 28 ans. Le vieux Jean de 60 ans."
+Résultat:
 
 _Résultat de l'IA (Précis et exploitable par du code) :_
 

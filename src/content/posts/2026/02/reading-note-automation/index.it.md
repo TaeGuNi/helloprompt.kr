@@ -43,11 +43,11 @@ Ecco il segreto per "automatizzare gli appunti di lettura", trasformando testi i
 Usalo quando ti serve solo conservare il testo sottolineato e cogliere rapidamente il messaggio chiave dell'autore.
 
 > **(Carica la foto della pagina del libro)**
->
-> **Richiesta:**
-> Estrai accuratamente il testo dalla foto allegata. Successivamente, riassumi in una sola frase l'argomento centrale che l'autore vuole comunicare in questa pagina.
 
-<br>
+> **Richiesta:**
+Estrai accuratamente il testo dalla foto allegata. Successivamente, riassumi in una sola frase l'argomento centrale che l'autore vuole comunicare in questa pagina.
+
+\
 
 ### 🥇 Versione Pro (Recensione Approfondita e Piano d'Azione)
 
@@ -110,7 +110,7 @@ Ti consiglio vivamente di archiviare questi risultati integrandoli con strumenti
 
 ### ❌ Prima (Semplice sottolineatura & Lettura passiva)
 
-> "La perfezione si raggiunge non quando non c'è più nulla da aggiungere, ma quando non c'è più nulla da togliere."
+"La perfezione si raggiunge non quando non c'è più nulla da aggiungere, ma quando non c'è più nulla da togliere."
 
 (Dopo aver chiuso il libro) "Ah, bella frase." -> 3 giorni dopo: "Qual era il contenuto di quel libro? (Completamente evaporato 📄)"
 

@@ -45,7 +45,7 @@ Use esta versão quando quiser entender rapidamente o significado e o uso princi
 > **Fala:** `["I don't know if I can handle this anymore."]`
 > **Tarefa (Task):** Traduza o significado desta frase de forma natural, de acordo com o contexto, e crie 3 exemplos adicionais de uso no dia a dia para palavras-chave ou expressões como `[handle]`.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

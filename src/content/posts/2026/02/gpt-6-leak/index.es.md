@@ -41,7 +41,7 @@ En lugar de dejarnos abrumar por el entusiasmo desmedido y la avalancha de herra
 > **Rol:** Eres un Estratega de IA de nivel directivo.
 > **Tarea:** Analiza el proyecto `[Nombre/Descripción del Proyecto]` y proyecta sus consecuencias, riesgos y viabilidad a 3 años vista.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

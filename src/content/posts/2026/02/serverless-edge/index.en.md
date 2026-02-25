@@ -38,7 +38,7 @@ Use this when you need a quick, high-level explanation of Serverless Edge for a 
 > **Role:** You are a Senior Cloud Architect.
 > **Task:** Explain the benefits of moving `[Your Application Type, e.g., a real-time multiplayer game]` to a Serverless Edge architecture. Keep it simple and focus on latency and cost.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

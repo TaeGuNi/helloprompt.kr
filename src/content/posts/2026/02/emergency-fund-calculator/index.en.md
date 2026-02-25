@@ -42,7 +42,7 @@ Use this when you just need a quick, rough estimate.
 > **Role:** You are a financial risk management expert.
 > **Request:** Calculate the optimal emergency fund size I need to survive a sudden job loss or accident without financial distress.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 
@@ -102,32 +102,32 @@ Building an emergency fund isn't just about math; it's about psychological freed
 
 ### ❌ Before (Input)
 
-> How much emergency fund do I need? I'm a freelancer.
+How much emergency fund do I need? I'm a freelancer.
 
 ### ✅ After (Result)
 
-> ### 🛡️ Custom Emergency Fund Design for Freelancers
->
+### 🛡️ Custom Emergency Fund Design for Freelancers
+
 > **1. Optimal Runway: 6 Months Minimum**
-> Because freelancers experience irregular income streams and higher income volatility than salaried employees, a 3-month runway is too risky. You need a 6-month safety net to weather dry spells, medical emergencies, or sudden client loss.
->
+Because freelancers experience irregular income streams and higher income volatility than salaried employees, a 3-month runway is too risky. You need a 6-month safety net to weather dry spells, medical emergencies, or sudden client loss.
+
 > **2. Target Amount Calculation**
->
-> - Monthly Fixed Expenses: $2,000
-> - Recommended Runway: 6 Months
-> - **Total Target Amount: $12,000**
->
+
+- Monthly Fixed Expenses: $2,000
+- Recommended Runway: 6 Months
+- **Total Target Amount: $12,000**
+
 > **3. Storage Recommendation: High-Yield Savings Account (HYSA)**
->
-> - **Recommendations:** Ally Bank, Marcus by Goldman Sachs, or SoFi Checking & Savings (currently yielding ~4.0% - 5.0% APY).
-> - **Reasoning:** These accounts pay significantly higher interest than traditional banks while allowing you to withdraw funds immediately without penalties. _Never_ lock this money in a Certificate of Deposit (CD) or the stock market.
->
+
+- **Recommendations:** Ally Bank, Marcus by Goldman Sachs, or SoFi Checking & Savings (currently yielding ~4.0% - 5.0% APY).
+- **Reasoning:** These accounts pay significantly higher interest than traditional banks while allowing you to withdraw funds immediately without penalties. _Never_ lock this money in a Certificate of Deposit (CD) or the stock market.
+
 > **4. Actionable Accumulation Plan**
->
-> - Goal: $12,000
-> - Monthly Savings Target: $1,000
-> - **Timeline to Completion: 12 Months**
-> - _Strategy:_ Aggressively save to hit your first 3 months ($6,000) as fast as possible. Once you hit the halfway mark, you can slightly reduce the monthly contribution if you need to allocate cash flow elsewhere, but aim to finish within a year.
+
+- Goal: $12,000
+- Monthly Savings Target: $1,000
+- **Timeline to Completion: 12 Months**
+- _Strategy:_ Aggressively save to hit your first 3 months ($6,000) as fast as possible. Once you hit the halfway mark, you can slightly reduce the monthly contribution if you need to allocate cash flow elsewhere, but aim to finish within a year.
 
 ---
 

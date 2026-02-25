@@ -48,7 +48,7 @@ Usala quando hai bisogno di un controllo rapido per individuare bug critici o er
 > [Incolla il codice qui]
 > ```
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 

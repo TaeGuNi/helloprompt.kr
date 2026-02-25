@@ -40,7 +40,7 @@ Usa questa versione per task rapidi che richiedono un'impostazione chiara, ma ch
 >
 > **Obiettivo (Task):** Devi risolvere `[Problema specifico]` rispettando sempre e solo `[Regola fondamentale]`.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Pro Version)
 

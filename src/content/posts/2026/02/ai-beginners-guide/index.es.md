@@ -46,7 +46,7 @@ La mayoría de las personas usan la IA como si fuera Google, escribiendo frases 
 
 > **Petición:** Dime cómo hacer una receta de pollo.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Expert Version)
 
@@ -70,7 +70,7 @@ El mayor talento de la IA es el **procesamiento del lenguaje**. Es el momento de
 
 > **Petición:** Resume este texto: `[Pegar texto aquí]`
 
-<br>
+\
 
 ### 🥇 Versión Pro (Expert Version)
 
@@ -98,7 +98,7 @@ Cuando le dices a la IA **"Eres un [Rol Profesional]"**, automáticamente ajusta
 
 > **Petición:** Enséñame a usar fórmulas de Excel.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Expert Version)
 

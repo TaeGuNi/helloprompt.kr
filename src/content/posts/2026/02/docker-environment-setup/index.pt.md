@@ -44,7 +44,7 @@ Use esta versão quando precisar apenas de um esqueleto rápido para testes loca
 > **Papel:** Você é um Engenheiro DevOps sênior especializado em conteinerização.
 > **Solicitação:** Crie um `Dockerfile` simples e um `docker-compose.yml` para um aplicativo construído em `[Sua Stack de Tecnologia, ex: Node.js e MongoDB]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

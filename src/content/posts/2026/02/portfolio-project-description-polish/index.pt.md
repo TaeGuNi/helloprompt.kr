@@ -42,7 +42,7 @@ Use esta versão quando precisar de um resultado rápido para estruturar as idei
 > **Papel:** Você é um Tech Lead sênior e Tech Recruiter em uma grande empresa de tecnologia.
 > **Solicitação:** Refine a descrição do projeto que vou fornecer, transformando-a em uma narrativa envolvente. Destaque o processo de resolução de problemas e o impacto da minha contribuição, substituindo a simples listagem de tarefas implementadas.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Qualidade de Portfólio)
 

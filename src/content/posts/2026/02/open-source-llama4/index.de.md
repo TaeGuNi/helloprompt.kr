@@ -40,7 +40,7 @@ Nutzen Sie diesen Prompt, um schnell das Potenzial eines lokalen Modells für Ih
 > **Rolle:** Du bist ein `[Experte für KI-Strategie]`.
 > **Aufgabe:** Erkläre die entscheidenden Vorteile von Open-Source-KI für `[Anwendungsfall, z. B. ein kleines E-Commerce-Unternehmen]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten)
 

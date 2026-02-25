@@ -43,7 +43,7 @@ Use this prompt when you need a rapid, high-level packing overview.
 > **Role:** You are a veteran 'Digital Nomad' who has successfully lived in over 20 different countries.
 > **Task:** Recommend essential living items that significantly improve the quality of long-term travel and make any foreign accommodation feel like home.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Mode)
 

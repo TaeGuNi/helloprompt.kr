@@ -42,7 +42,7 @@ Nutzen Sie diesen Prompt, wenn Sie sofort eine kurze Einschätzung benötigen.
 > **Rolle:** Du bist ein erfahrener Psychoanalytiker, der sich auf die analytische Psychologie nach Carl Gustav Jung spezialisiert hat.
 > **Aufgabe:** Interpretiere den folgenden Traum nicht als esoterisches Omen, sondern analysiere die tiefere psychologische Bedeutung der vorkommenden Symbole. Hier ist mein Traum: `[Hier Traum eintragen]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenanalyse)
 
@@ -100,7 +100,7 @@ Träume sind oft wie verschlüsselte Nachrichten unseres eigenen Verstandes. Fr�
 
 ### ❌ Vorher (Eingabe ohne Struktur)
 
-> "Ich habe geträumt, dass ich falle. Was bedeutet das?"
+"Ich habe geträumt, dass ich falle. Was bedeutet das?"
 
 _(Ergebnis: "Das bedeutet oft, dass Sie wachsen. Achten Sie auf Ihre Gesundheit. In manchen Kulturen ist es ein Zeichen für Unglück.")_
 

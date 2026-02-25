@@ -43,7 +43,7 @@ Nutzen Sie diesen Prompt, wenn Sie schnelle, direkte Handlungsanweisungen benöt
 > **Rolle:** Du bist ein klinischer Psychologe und Experte für CBT-I (Kognitive Verhaltenstherapie bei Insomnie).
 > **Aufgabe:** Hilf mir, meine Schlaflosigkeit mit wissenschaftlich fundierten CBT-I-Methoden zu behandeln, ohne auf Medikamente zurückgreifen zu müssen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 

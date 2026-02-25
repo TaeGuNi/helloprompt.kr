@@ -42,7 +42,7 @@ Use this when you need a structurally sound result without the fuss.
 > **Role:** You are an expert AI image generation director.
 > **Request:** Generate an image of a vintage pink hotel lobby featuring a perfectly symmetrical composition, centered view, and Wes Anderson style.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

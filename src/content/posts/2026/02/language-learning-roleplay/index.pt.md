@@ -42,7 +42,7 @@ Ideal para iniciar uma conversa rápida sem muitas configurações.
 > **Papel:** Você é um `[Atendente de um café em Nova York]`.
 > **Tarefa:** Inicie uma conversa comigo. Eu sou um `[Turista com inglês básico]`. Vamos conversar, e por favor, corrija meus erros.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert Version)
 
@@ -102,11 +102,11 @@ Esta técnica de "Role-Play" (encenação) com IA revoluciona o aprendizado de i
 
 ### ❌ Antes (Sem Estrutura)
 
-> Quero praticar inglês. Vamos fingir que estamos numa cafeteria. Você é o atendente.
+Quero praticar inglês. Vamos fingir que estamos numa cafeteria. Você é o atendente.
 
 _(A IA frequentemente responde com textos enormes, apresentando todas as opções do cardápio e preços de uma só vez, tornando impossível uma conversa fluida para um iniciante)._
 
-<br>
+\
 
 ### ✅ Depois (Com o Prompt Pro)
 

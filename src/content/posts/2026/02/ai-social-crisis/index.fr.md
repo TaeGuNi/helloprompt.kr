@@ -42,7 +42,7 @@ Utilisez cette version pour corriger rapidement un texte trop mécanique.
 > **Tâche :** Réécris le texte suivant pour qu'il paraisse 100% humain, chaleureux et sans aucun jargon d'IA. Supprime tous les mots clichés comme "Naviguer", "Paysage", ou "Révolutionnaire".
 > **Texte :** `[Insérer le texte IA ici]`
 
-<br>
+\
 
 ### 🥇 Version Pro (Recommandée)
 

@@ -13,7 +13,7 @@ tags: ["DIY", "집수리", "절약", "생활꿀팁"]
 
 - **🎯 Recommandé pour :** Étudiants, jeunes mariés, grands débutants terrifiés à l'idée de changer une ampoule, ou toute personne souhaitant éviter des frais d'intervention inutiles.
 - **⏱️ Temps requis :** 5 minutes de diagnostic + temps de réparation → Économise 1 jour d'attente pour un technicien.
-- **🤖 Modèles recommandés :** Toute IA conversationnelle (GPT-4o, Gemini 1.5 Pro, etc., **Reconnaissance d'image indispensable**).
+- **🤖 Modèles recommandés :** Toute IA conversationnelle (GPT-4o, Gemini 2.5 Pro, etc., **Reconnaissance d'image indispensable**).
 
 - ⭐ **Difficulté :** ⭐⭐☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Lorsqu'on cherche des tutoriels de bricolage sur YouTube, on tombe souvent sur d
 > **Rôle :** Tu es un artisan vétéran avec 30 ans d'expérience en `[Plomberie / Électricité / Aménagement intérieur]`.
 > **Tâche :** J'ai un problème avec mon/ma `[Lieu ou nom de l'appareil défectueux]` à la maison. Les symptômes sont les suivants : `[Description détaillée du problème]`. Explique-moi la cause probable et donne-moi 3 méthodes de résolution, de la plus simple à la plus complexe, que je peux réaliser moi-même sans faire appel à un professionnel. Si nécessaire, recommande-moi des outils basiques que je peux acheter dans une quincaillerie de quartier.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

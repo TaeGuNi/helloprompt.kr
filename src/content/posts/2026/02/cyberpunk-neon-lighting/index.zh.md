@@ -42,7 +42,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Sci-Fi", "Color"]
 > **角色:** 你是一位顶尖的科幻概念艺术指导。
 > **请求:** 请为我生成一段提示词，要求画面呈现强烈的粉色与蓝色对比，并带有赛博朋克风格的霓虹灯照明效果。
 
-<br>
+\
 
 ### 🥇 Pro Version (专家版)
 

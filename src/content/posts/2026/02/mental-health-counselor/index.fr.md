@@ -42,7 +42,7 @@ Utilisez cette version lorsque vous êtes submergé par l'émotion et que vous a
 > **Rôle :** Tu es un psychologue clinicien expert et chaleureux.
 > **Requête :** J'ai eu une journée horrible aujourd'hui. Écoute-moi et aide-moi à apaiser mon stress en utilisant les principes de la thérapie cognitivo-comportementale (TCC).
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

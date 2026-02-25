@@ -42,7 +42,7 @@ Use this when you need a quick, high-level estimate.
 > **Role:** You are a highly meticulous `[Professional Travel Guide]`.
 > **Task:** Create a travel budget for my trip to `[Destination]` that stays within a 10% margin of error, factoring in real-time local prices from flights to daily meals.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

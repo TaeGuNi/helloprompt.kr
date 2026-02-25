@@ -42,7 +42,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Portrait", "Lighting"]
 > **Subject (피사체):** `[인물 묘사]`
 > **Lighting (조명):** Rembrandt lighting, dark background, cinematic
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 

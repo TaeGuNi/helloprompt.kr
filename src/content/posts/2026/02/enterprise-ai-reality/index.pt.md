@@ -39,7 +39,7 @@ Ideal para quando você precisa identificar rapidamente os principais prós e co
 > **Papel:** Você é um Arquiteto de TI Corporativa com 15 anos de experiência e um consultor incisivo em Transformação Digital (DX).
 > **Tarefa:** Nossa empresa está avaliando a adoção da ferramenta `[Nome da Solução de IA em Análise]`. Ignorando o discurso de vendas, aponte 3 desvantagens críticas que enfrentaremos na prática e os custos ocultos (Hidden Costs) que precisamos obrigatoriamente verificar.
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro)
 

@@ -42,7 +42,7 @@ Use esta versão quando precisar apenas de um resultado rápido e direto.
 > **Papel:** Você é um `[Consultor Financeiro Especialista em Frugalidade]`.
 > **Solicitação:** Minhas despesas fixas estão consumindo todo o meu orçamento. Quais são os pontos de economia ocultos que a maioria das pessoas ignora?
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert)
 

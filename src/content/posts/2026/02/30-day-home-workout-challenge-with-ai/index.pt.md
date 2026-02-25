@@ -49,7 +49,7 @@ Use isto quando precisar de um treino rápido sem muita personalização.
 > **Papel:** Você é um personal trainer especialista em treinos em casa.
 > **Pedido:** Crie uma rotina de exercícios de 30 dias usando apenas o peso do corpo. Sem equipamentos. O treino deve mudar todos os dias para evitar o tédio.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 
@@ -115,7 +115,7 @@ Recomendo que, após gerar o plano, você faça um pedido adicional à IA: _"Ger
 
 ### ❌ Antes (Entrada Simples)
 
-> "Recomende exercícios para fazer em casa."
+"Recomende exercícios para fazer em casa."
 
 _(Resultado: A IA recomenda cegamente 100 burpees e polichinelos saltando -> Ocorre reclamação do vizinho de baixo no primeiro dia -> Você desiste no 2º dia)_
 

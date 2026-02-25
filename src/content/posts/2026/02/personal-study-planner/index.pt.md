@@ -42,7 +42,7 @@ Use esta versão quando precisar de um cronograma rápido e direto ao ponto.
 > **Papel:** Você é um `[Coordenador de Estudos Implacável e Metódico]`.
 > **Tarefa:** Crie um plano de estudos realista para o `[Meu Objetivo]`, considerando que tenho `[Tempo Disponível]` por dia, e assuma a responsabilidade por me manter motivado.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

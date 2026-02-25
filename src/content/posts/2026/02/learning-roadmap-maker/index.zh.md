@@ -13,7 +13,7 @@ tags: ["Learning", "Roadmap", "Education", "SelfImprovement"]
 
 - **🎯 推荐对象：** 职场新人、转行准备者、需要快速掌握新技能的营销人员与开发者
 - **⏱️ 节省时间：** 搜集资料与规划原本需 3小时 → 缩短至 1分钟
-- **🤖 推荐模型：** 所有对话型 AI (ChatGPT, Claude 3.5 Sonnet, Gemini 1.5 Pro 等)
+- **🤖 推荐模型：** 所有对话型 AI (ChatGPT, Claude 3.5 Sonnet, Gemini 2.5 Pro 等)
 
 - ⭐ **难度：** ⭐⭐☆☆☆
 - ⚡️ **效果：** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ tags: ["Learning", "Roadmap", "Education", "SelfImprovement"]
 > **角色：** 你是一位拥有 10 年经验的`[领域，例如：前端开发]`资深导师。
 > **任务：** 请为我制定一份能在`[3天/3周]`内快速掌握`[具体技能，例如：React 基础]`的行动计划。每天的学习时间只有`[例如：1小时]`。
 
-<br>
+\
 
 ### 🥇 Pro Version (专业版)
 

@@ -44,7 +44,7 @@ Use esta versão quando precisar apenas de um comando rápido ou um script simpl
 > **Papel:** Você é um Especialista Sênior em Linux e DevOps.
 > **Solicitação:** Crie um Shell Script seguro para `[descreva a tarefa, ex: excluir logs com mais de 7 dias na pasta /var/log e fazer backup do restante]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

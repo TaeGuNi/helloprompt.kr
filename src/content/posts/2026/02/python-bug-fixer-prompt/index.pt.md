@@ -44,7 +44,7 @@ Use esta versão para erros simples ou quando estiver com muita pressa.
 > **Erro:** `[Cole a mensagem de erro do terminal aqui]`
 > **Código:** `[Cole seu código Python aqui]`
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 

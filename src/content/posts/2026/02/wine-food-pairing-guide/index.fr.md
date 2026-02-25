@@ -43,12 +43,12 @@ Idéal pour les situations courantes : votre menu est fixé, et vous voulez choi
 > **Contexte :** Ce soir, je mange `[des lasagnes à la bolognaise maison]`.
 > **Tâche :** Recommande-moi les 3 meilleurs vins pour accompagner ce plat.
 > **Contraintes :**
-> 
-> 1. Choisis des vins au bon rapport qualité-prix, entre `[15 et 30 euros]`.
-> 2. Privilégie des cépages populaires et accessibles aux novices.
-> 3. Explique en une seule phrase claire pourquoi chaque vin s'accorde avec ce plat.
 
-<br>
+1. Choisis des vins au bon rapport qualité-prix, entre `[15 et 30 euros]`.
+2. Privilégie des cépages populaires et accessibles aux novices.
+3. Explique en une seule phrase claire pourquoi chaque vin s'accorde avec ce plat.
+
+\
 
 ### 🥇 Version Pro (Analyse Précise des Goûts)
 

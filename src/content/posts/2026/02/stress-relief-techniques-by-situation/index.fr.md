@@ -42,7 +42,7 @@ Idéal lorsque vous êtes à bout et avez besoin d'une solution instantanée.
 > **Rôle :** Tu es un psychothérapeute clinicien expert en neurosciences.
 > **Requête :** Je suis actuellement très stressé à cause de mon travail. Donne-moi trois techniques scientifiquement prouvées pour faire redescendre la pression immédiatement sans avoir à quitter mon bureau.
 
-<br>
+\
 
 ### 🥇 Version Pro (Sur mesure)
 

@@ -14,7 +14,7 @@ tags:
 
 - **🎯 Recomendado para:** Desenvolvedores, Engenheiros de Software, Analistas de QA
 - **⏱️ Tempo necessário:** 2 horas → 5 minutos
-- **🤖 Modelo recomendado:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (Modelos avançados em código)
+- **🤖 Modelo recomendado:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (Modelos avançados em código)
 
 - ⭐ **Dificuldade:** ⭐⭐☆☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -45,7 +45,7 @@ Use isso quando precisar de um palpite rápido para destravar o seu pensamento.
 > **Papel:** Você é um Engenheiro de Software Sênior especialista em depuração.
 > **Solicitação:** Analise o erro `[mensagem_de_erro]` no seguinte código e sugira a correção: `[trecho_de_codigo]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

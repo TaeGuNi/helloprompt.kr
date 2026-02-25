@@ -42,7 +42,7 @@ Utilisez cette version pour une analyse rapide de votre situation.
 > **Rôle :** Tu es un expert en médecine du sommeil et un consultant en aménagement d'espace.
 > **Requête :** Ma chambre est-elle vraiment adaptée au sommeil ? Analyse ma chambre et mes habitudes de vie pour me donner des solutions concrètes pour mieux dormir.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

@@ -37,7 +37,7 @@ Idéal pour obtenir rapidement une image intuitive contenant un texte spécifiqu
 > **Rôle :** Tu es un photographe cinématique et un designer typographique.
 > **Tâche :** Génère une image réaliste d'une ruelle sombre la nuit, avec un panneau en néon affichant exactement le mot "HELLO".
 
-<br>
+\
 
 ### 🥇 Version Pro
 

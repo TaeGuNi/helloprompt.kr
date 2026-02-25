@@ -40,15 +40,15 @@ Sviluppato da Microsoft (MS), **AutoGen** è un potente framework multi-agente c
 Usa questo prompt per generare il codice di interazione 1:1 più semplice tra due agenti.
 
 > **Ruolo:** Sei uno `[Sviluppatore Senior Python]`.
->
+
 > **Richiesta:** Scrivi uno script Python in cui due agenti collaborano utilizzando il framework AutoGen.
->
-> 1. **AssistantAgent (Coder):** Incaricato di scrivere il codice Python.
-> 2. **UserProxyAgent (Executor):** Incaricato di eseguire il codice scritto dal Coder in ambiente locale e fornire un feedback diretto sui risultati.
->
+
+1. **AssistantAgent (Coder):** Incaricato di scrivere il codice Python.
+2. **UserProxyAgent (Executor):** Incaricato di eseguire il codice scritto dal Coder in ambiente locale e fornire un feedback diretto sui risultati.
+
 > **Obiettivo:** Imposta i due agenti affinché completino il compito di "trovare i numeri primi (Prime Number) da 1 a 100 e salvarli in un file txt".
 
-<br>
+\
 
 ### 🥇 Versione Pro (Azienda IT Virtuale: PM, Dev, QA)
 

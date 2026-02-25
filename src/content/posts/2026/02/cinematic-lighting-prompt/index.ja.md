@@ -42,7 +42,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Lighting", "Cinematic"]
 > **役割:** あなたはプロの画像生成プロンプトエンジニアです。
 > **要請:** `[作成したい画像のテーマ]` をハリウッド映画のワンシーンのようにドラマチックに描画するための英語プロンプトを作成してください。必ず「Cinematic lighting」というキーワードを含めてください。
 
-<br>
+\
 
 ### 🥇 Pro Version (専門家形)
 

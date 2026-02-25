@@ -42,13 +42,13 @@ Pare de estudar gramática de forma passiva por texto. Use o Modo de Voz da IA p
 Use esta versão como um ensaio quando estiver nervoso antes de uma viagem internacional ou de negócios.
 
 > **Role (Papel):** Você é um oficial de imigração rigoroso e exigente no aeroporto JFK, em Nova York.
->
-> **Context (Contexto):** Eu acabei de sair do avião e estou na fila da imigração, de frente para você.
->
-> **Task (Tarefa):**
-> Faça perguntas detalhadas sobre o propósito da minha visita, duração da estadia, endereço da acomodação e minha profissão. Se minhas respostas forem vagas ou se eu gaguejar muito, conduza a conversa como se fosse um interrogatório sob pressão, ameaçando negar minha entrada. Comece imediatamente com a primeira pergunta.
 
-<br>
+> **Context (Contexto):** Eu acabei de sair do avião e estou na fila da imigração, de frente para você.
+
+> **Task (Tarefa):**
+Faça perguntas detalhadas sobre o propósito da minha visita, duração da estadia, endereço da acomodação e minha profissão. Se minhas respostas forem vagas ou se eu gaguejar muito, conduza a conversa como se fosse um interrogatório sob pressão, ameaçando negar minha entrada. Comece imediatamente com a primeira pergunta.
+
+\
 
 ### 🥇 Versão Pro (Small Talk Corporativo e Preparação para Exames)
 

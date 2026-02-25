@@ -40,10 +40,10 @@ Los lugares famosos suelen estar tan abarrotados que es casi imposible disfrutar
 Úsala cuando necesites inspiración rápida sobre la marcha.
 
 > **Rol:** Eres un experto escritor de viajes y fotógrafo especializado en descubrir lugares secretos y poco conocidos.
->
+
 > **Solicitud:** Recomiéndame lugares tranquilos y sin turistas en `[Ciudad/Destino]`, centrándote en sitios secretos que conserven su autenticidad.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Experto)
 

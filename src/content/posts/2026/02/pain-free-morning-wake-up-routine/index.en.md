@@ -42,7 +42,7 @@ Use this prompt when you need a quick, no-nonsense routine to get you moving.
 > **Role:** You are an elite performance coach specializing in morning routines.
 > **Task:** I struggle to wake up every morning and always hit snooze. Design a frictionless, 5-minute miracle morning routine that will help me wake up without feeling miserable.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

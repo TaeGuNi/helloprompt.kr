@@ -42,7 +42,7 @@ Verwenden Sie diese Version, wenn Sie nur eine schnelle Strukturierung ohne viel
 > **Rolle:** Du bist ein erfahrener Zeitmanagement-Coach und meine persönliche Assistenz.
 > **Anfrage:** Ich habe diese Woche viel zu tun, weiß aber nicht, wo ich anfangen soll. Bitte strukturiere meine folgenden Aufgaben nach Priorität und erstelle einen einfachen Wochenplan: `[Hier unsortierte Aufgaben einfügen]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenmodus)
 
@@ -105,7 +105,7 @@ Dieser Prompt ist ein wahrer Lebensretter, wenn Sie sich von Aufgaben erdrückt 
 
 ### ❌ Before (Einfache Eingabe)
 
-> "Plane meine Woche. Ich muss einen Bericht bis Donnerstag schreiben, 3x ins Fitnessstudio, zum Zahnarzt am Dienstag um 15 Uhr, putzen und ein Geschenk kaufen."
+"Plane meine Woche. Ich muss einen Bericht bis Donnerstag schreiben, 3x ins Fitnessstudio, zum Zahnarzt am Dienstag um 15 Uhr, putzen und ein Geschenk kaufen."
 
 _(Ergebnis: Eine unrealistische Liste, die alles auf Montag und Dienstag quetscht, ohne Arbeitszeiten oder Fahrwege zu berücksichtigen.)_
 

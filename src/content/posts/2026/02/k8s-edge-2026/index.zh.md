@@ -12,7 +12,7 @@ tags: ["Kubernetes", "Edge Computing", "DevOps"]
 
 - **🎯 推荐对象:** DevOps 工程师、系统架构师、云原生开发人员
 - **⏱️ 所需时间:** 3 天 → 10 分钟
-- **🤖 推荐模型:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 推荐模型:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **难度:** ⭐⭐⭐⭐☆
 - ⚡️ **有效性:** ⭐⭐⭐⭐⭐
@@ -43,7 +43,7 @@ tags: ["Kubernetes", "Edge Computing", "DevOps"]
 > **角色：** 你是资深的 `[云原生架构师]`。
 > **请求：** 请为我设计一个针对 `[例如：拥有500家门店的零售企业]` 的边缘 Kubernetes 集群架构方案。需要包含轻量级 Kubernetes 发行版的选择以及基于 GitOps 的应用分发策略。
 
-<br>
+\
 
 ### 🥇 Pro Version (专业版)
 

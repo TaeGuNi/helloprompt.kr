@@ -45,7 +45,7 @@ Nutze diesen Prompt, wenn du in Eile bist und schnell einen soliden Post brauchs
 > **Notizen:**
 > `[Füge hier deine Stichpunkte ein]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Für maximale Reichweite)
 

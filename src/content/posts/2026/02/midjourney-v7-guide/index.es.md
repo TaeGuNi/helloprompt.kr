@@ -56,7 +56,7 @@ Midjourney ha dejado de ser un simple "generador aleatorio de imágenes" para ev
 > - El texto debe ir estrictamente entre comillas (`" "`).
 > - Se debe incluir el parámetro `--style raw` para lograr un realismo cinematográfico libre de sobreestilización.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Profesional)
 

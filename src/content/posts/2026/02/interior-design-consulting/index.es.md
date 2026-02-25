@@ -42,7 +42,7 @@ Cuando te mudas a una casa nueva o simplemente quieres cambiar la estructura de 
 > **Rol:** Eres un diseñador de espacios con gran sentido estético.
 > **Tarea:** Revisa la foto de la habitación adjunta y recomiéndame 3 accesorios (como alfombras, iluminación, plantas, etc.) que se puedan comprar por menos de 100 dólares para que el espacio luzca más luminoso y amplio. Indícame también dónde colocar cada uno de ellos.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

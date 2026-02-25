@@ -44,48 +44,48 @@ Ecco una guida ingegneristica pratica per mantenere i tuoi agenti intelligenti t
 Se non stai utilizzando la funzione di **Context Caching** offerta dalle API più recenti, stai letteralmente buttando i soldi dalla finestra. La maggior parte degli agenti reinvia lo stesso `System Prompt` + `Esempi Few-Shot` + `Documentazione API` a ogni singolo turno. Utilizzando la cache, puoi "caricare una volta e leggere a un prezzo stracciato".
 
 > **Come funziona e quando applicarlo:**
->
-> - Quando il prompt di sistema supera i 1.000 token.
-> - Quando carichi nel contesto documenti PDF voluminosi o intere codebase.
-> - Quando l'agente gestisce conversazioni multi-turno (Multi-turn).
->
+
+- Quando il prompt di sistema supera i 1.000 token.
+- Quando carichi nel contesto documenti PDF voluminosi o intere codebase.
+- Quando l'agente gestisce conversazioni multi-turno (Multi-turn).
+
 > _Pro Tip:_ Posiziona i contenuti statici (regole, esempi) in cima al prompt e i contenuti dinamici (query dell'utente, conversazione recente) in fondo. Il caching funziona in base al prefisso (Prefix) del testo!
 
-<br>
+\
 
 ### 🥇 Pattern 2: Il Loop "Summarize-and-Forget" (Riassumi e Dimentica)
 
 Invece di portarti dietro l'intero log grezzo composto da "Pensiero: X, Azione: Y, Risultato: Z...", costringi l'agente a gestire autonomamente una **State Card**.
 
 > **Ruolo (Role):** Sei un agente a stati finiti (State-machine) che gestisce le risorse con estrema efficienza.
->
+
 > **Contesto (Context):**
->
-> - Background: Dobbiamo impedire che la cronologia della conversazione diventi infinitamente lunga, facendo esplodere i costi dell'API.
-> - Obiettivo: Comprimere i progressi attuali e aggiornare la State Card alla fine di ogni turno.
->
+
+- Background: Dobbiamo impedire che la cronologia della conversazione diventi infinitamente lunga, facendo esplodere i costi dell'API.
+- Obiettivo: Comprimere i progressi attuali e aggiornare la State Card alla fine di ogni turno.
+
 > **Richiesta (Task):**
->
-> 1. Alla fine di ogni turno, devi tassativamente aggiornare il tuo `Internal_State`.
-> 2. Nel turno successivo, invece dell'intera cronologia, riceverai solo questo `Internal_State` e l'ultima `Observation` (il risultato dell'azione appena compiuta).
-> 3. Comprimi rigorosamente lo stato attuale seguendo il formato JSON qui sotto.
->
+
+1. Alla fine di ogni turno, devi tassativamente aggiornare il tuo `Internal_State`.
+2. Nel turno successivo, invece dell'intera cronologia, riceverai solo questo `Internal_State` e l'ultima `Observation` (il risultato dell'azione appena compiuta).
+3. Comprimi rigorosamente lo stato attuale seguendo il formato JSON qui sotto.
+
 > **Vincoli (Constraints):**
->
-> - L'output deve rispettare rigorosamente la seguente struttura JSON.
->
-> ```json
-> {
->   "thought": "Ragionamento logico sulla fase attuale...",
->   "action": "function_name(args)",
->   "new_state": {
->     "goal": "Trovare il bug nel file auth.ts",
->     "completed_steps": ["Lettura di auth.ts completata", "Trovata variabile d'ambiente mancante"],
->     "next_step": "Controllare il file .env",
->     "blockers": "Nessuno"
->   }
-> }
-> ```
+
+- L'output deve rispettare rigorosamente la seguente struttura JSON.
+
+```json
+{
+  "thought": "Ragionamento logico sulla fase attuale...",
+  "action": "function_name(args)",
+  "new_state": {
+    "goal": "Trovare il bug nel file auth.ts",
+    "completed_steps": ["Lettura di auth.ts completata", "Trovata variabile d'ambiente mancante"],
+    "next_step": "Controllare il file .env",
+    "blockers": "Nessuno"
+  }
+}
+```
 
 ---
 

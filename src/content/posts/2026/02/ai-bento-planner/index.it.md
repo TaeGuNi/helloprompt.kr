@@ -42,7 +42,7 @@ Usa questa versione quando hai troppa fame (o troppo sonno) per pensare a strutt
 > **Ruolo:** Sei uno chef esperto in pasti veloci e sani.
 > **Richiesta:** Ho a disposizione `[lista ingredienti, es: uova, riso, pomodorini, mezza cipolla]`. Crea una ricetta per un pranzo al sacco (bento) che si prepari in massimo 10 minuti.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Per i maniaci del Meal Prep)
 

@@ -42,7 +42,7 @@ Use this when you need a quick overview and immediate direction.
 > **Role:** You are a top-tier executive career coach with 20 years of experience in the tech industry.
 > **Task:** Transform my vague career aspirations into a concrete roadmap. Design actionable goals for 1, 3, and 5 years, detailing the exact skill sets I need to acquire.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

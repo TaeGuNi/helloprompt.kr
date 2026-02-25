@@ -42,7 +42,7 @@ Utilisez cette version lorsque vous souhaitez un programme immédiat sans trop d
 > **Rôle :** Tu es un coach sportif professionnel diplômé avec 10 ans d'expérience.
 > **Demande :** Crée-moi un programme d'entraînement à la maison de 30 minutes sans matériel pour un niveau débutant.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Expert)
 
@@ -106,7 +106,7 @@ La magie de ce prompt réside dans sa gestion des **contraintes environnementale
 
 ### ❌ Avant (Entrée)
 
-> Fais-moi un programme de sport pour la maison.
+Fais-moi un programme de sport pour la maison.
 
 _(L'IA génère un long texte générique, vous propose de courir sur place, de faire des burpees bruyants, et oublie complètement que vous avez mal aux genoux et que vous habitez au 3ème étage sans isolation phonique)._
 

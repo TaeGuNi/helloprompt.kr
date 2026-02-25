@@ -42,7 +42,7 @@ Usala quando hai bisogno di un'ispirazione veloce senza troppi dettagli.
 > **Ruolo:** Sei un romanziere esperto di naming e un appassionato antropologo.
 > **Richiesta:** Genera un nome perfetto che rifletta la personalità, l'origine e l'epoca del seguente personaggio: `[inserisci una breve descrizione]`.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

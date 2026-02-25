@@ -42,7 +42,7 @@ Usala quando hai bisogno di una categorizzazione veloce delle tue spese mensili.
 > **Ruolo:** Sei un `[consulente finanziario esperto]`.
 > **Richiesta:** Analizza queste `[spese mensili]` e raggruppale in categorie chiare. Dammi un breve riepilogo su dove spendo di più e su dove posso risparmiare.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Per analisi dettagliate)
 

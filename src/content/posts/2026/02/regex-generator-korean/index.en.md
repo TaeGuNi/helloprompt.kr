@@ -42,7 +42,7 @@ Use this when you need a quick regex snippet without deep explanations.
 > **Role:** You are a Senior Backend Engineer and Regex Master.
 > **Request:** Write a regular expression for `[Enter the pattern you need, e.g., US phone numbers]`. Provide only the regex code and a brief example of a match.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

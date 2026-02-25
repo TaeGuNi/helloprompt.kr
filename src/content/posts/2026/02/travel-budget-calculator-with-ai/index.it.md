@@ -42,7 +42,7 @@ Usala quando hai bisogno di una stima rapida senza troppi dettagli.
 > **Ruolo:** Sei un esperto consulente finanziario di viaggi.
 > **Richiesta:** Calcola un budget giornaliero per un viaggio di `[Numero di giorni]` giorni a `[Destinazione]` con uno stile di viaggio `[Economico/Medio/Lusso]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 
@@ -103,7 +103,7 @@ Questo prompt è un vero e proprio salvavita per chi, come me, odia fare i conti
 
 ### ❌ Prima (Input Semplice)
 
-> "Spese di viaggio in Giappone per 3 notti e 4 giorni."
+"Spese di viaggio in Giappone per 3 notti e 4 giorni."
 
 _Risultato:_ L'IA fornisce una risposta generica e pigra ("circa 500-1000 euro") senza spiegare come spenderli, in quali categorie, o se servono contanti.
 

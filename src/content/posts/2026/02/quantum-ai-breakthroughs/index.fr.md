@@ -37,7 +37,7 @@ Pour obtenir une synthèse rapide et compréhensible des enjeux de l'IA quantiqu
 > **Rôle :** Tu es un `[Expert en Informatique Quantique]`.
 > **Tâche :** Explique-moi les `[Avancées récentes de l'IA quantique]` de manière simple, concise et compréhensible pour un non-technicien.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

@@ -49,7 +49,7 @@ Verwenden Sie diesen Prompt, wenn Sie sofort loslegen möchten.
 > **Rolle:** Du bist ein professioneller Bodybuilding-Coach mit 20 Jahren Erfahrung.
 > **Aufgabe:** Erstelle für mich als Fitness-Anfänger einen sicheren Trainingsplan für den Muskelaufbau. Konzentriere dich dabei ausschließlich auf geführte Maschinen, um das Verletzungsrisiko zu minimieren.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 
@@ -111,7 +111,7 @@ Dieser Prompt ist ein echter Gamechanger für alle, die sich im Fitnessstudio no
 
 ### ❌ Before (Einfache Eingabe)
 
-> "Erstelle mir einen Trainingsplan für Anfänger."
+"Erstelle mir einen Trainingsplan für Anfänger."
 
 _(Ergebnis: Die KI spuckt oft komplexe Übungen wie Langhantel-Kniebeugen, Kreuzheben oder Überkopfdrücken aus, die ohne einen Trainer für Anfänger gefährlich sein können und schnell überfordern.)_
 

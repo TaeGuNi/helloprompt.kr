@@ -44,7 +44,7 @@ Nutzen Sie diesen Prompt, um die Kernkonzepte von Spring Boot und Go in einem di
 >
 > **Aufgabe:** Erkläre mir, wie die Konzepte von `@RestController` und Dependency Injection (DI) aus Spring Boot in Go umgesetzt werden. Zeige mir dazu ein einfaches CRUD-Beispiel unter Verwendung des `Gin`- oder `Echo`-Frameworks und vergleiche es prägnant mit Java.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

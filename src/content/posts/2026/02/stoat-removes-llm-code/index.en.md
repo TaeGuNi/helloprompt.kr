@@ -51,7 +51,7 @@ Use this when you need a rapid, localized cleanup of a specific file or function
 >
 > **Task:** Refactor the provided `[code snippet]` with the sole objective of reducing Lines of Code (LOC) without altering functionality. Delete all redundant logic, unnecessary abstractions, and AI-generated boilerplate.
 
-<br>
+\
 
 ### 🥇 Pro Version (Deep Codebase Audit)
 

@@ -48,7 +48,7 @@ Nutzen Sie dies als Trockenübung, wenn Sie vor einer Auslandsreise oder Geschä
 > **Aufgabe (Task):**
 > Durchlöchere mich mit Fragen zum Zweck meiner Einreise, zur Aufenthaltsdauer, zur Adresse meiner Unterkunft und zu meinem Beruf. Wenn meine Antworten unklar sind oder ich stottere, warne mich streng, dass du mir die Einreise verweigern könntest, und führe das Gespräch wie ein Stressinterview. Beginne sofort mit der ersten Frage.
 
-<br>
+\
 
 ### 🥇 Pro Version (Business Small Talk & Prüfungsvorbereitung)
 

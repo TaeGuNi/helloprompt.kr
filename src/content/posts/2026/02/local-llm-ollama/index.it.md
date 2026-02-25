@@ -41,7 +41,7 @@ Usa questo prompt per compiti veloci e testare le capacità del tuo modello loca
 > **Ruolo:** Sei un assistente di programmazione esperto e conciso.
 > **Richiesta:** Spiegami come installare e avviare un modello con Ollama sul mio Mac/PC in 3 passaggi semplici.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

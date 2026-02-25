@@ -40,7 +40,7 @@ Use this when you quickly need to grasp the core logical structure of a complex 
 > **Role:** You are a highly insightful `[Data Analyst / Theoretical Physicist]`.
 > **Task:** Analyze the core logic of the following `[document/theory]` step-by-step, and identify any contradictions or conflicts with existing paradigms.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

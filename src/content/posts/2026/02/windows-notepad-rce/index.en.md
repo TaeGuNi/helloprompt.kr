@@ -44,7 +44,7 @@ Use this when you need a short, hard-hitting warning to share quickly on interna
 > **Role:** You are an `[IT Security Officer]`.
 > **Task:** Draft an urgent internal warning message regarding `[CVE-2026-20841 (Windows Notepad RCE Vulnerability)]`. Emphasize that employees must absolutely not open external .txt files carelessly, and urge them to update the app immediately.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

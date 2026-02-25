@@ -42,7 +42,7 @@ Use isto quando quiser identificar rapidamente seus principais interesses incons
 > **Função (Role):** Você é um analista de dados e conselheiro psicológico.
 > **Tarefa (Task):** Extraia o Top 5 de substantivos e adjetivos que mais aparecem no texto do diário de uma semana que fiz o upload. Com base nessas palavras, resuma o meu estado psicológico atual em uma única frase.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Análise de Séries Temporais Emocionais & Relatório Visual)
 
@@ -109,17 +109,17 @@ Se você não tem o hábito de escrever um diário, experimente exportar e anali
 
 ### ❌ Antes (Desgaste Emocional Vago)
 
-> "Este mês foi realmente terrível. Sinto que todo dia foi cansativo e irritante. Por que estou tão deprimido?"
-> (Caindo em uma sensação de impotência vaga sem saber a causa exata)
+"Este mês foi realmente terrível. Sinto que todo dia foi cansativo e irritante. Por que estou tão deprimido?"
+(Caindo em uma sensação de impotência vaga sem saber a causa exata)
 
 ### ✅ Depois (Retrospectiva Objetiva Baseada em Dados)
 
 > **[📈 Relatório de Análise Emocional por IA]**
-> 
-> - **Ponto Mais Baixo das Emoções (15 e 22 de Fevereiro):** Pontuação Emocional -8.
->   - Palavras-chave Causadoras Principais: `hora extra`, `delivery de comida`, `auto-aversão`
->   - Análise: Observa-se um padrão onde, nos dias em que você faz horas extras e come compulsivamente por não conseguir controlar o estresse, emoções negativas continuam fortemente até o dia seguinte.
-> - **💡 Conselho Baseado em Dados:** Nos dias em que a hora extra for inevitável, bloquear aplicativos de delivery de comida e fazer uma caminhada leve, mesmo que por 10 minutos, será extremamente vantajoso para sua defesa emocional.
+
+- **Ponto Mais Baixo das Emoções (15 e 22 de Fevereiro):** Pontuação Emocional -8.
+  - Palavras-chave Causadoras Principais: `hora extra`, `delivery de comida`, `auto-aversão`
+  - Análise: Observa-se um padrão onde, nos dias em que você faz horas extras e come compulsivamente por não conseguir controlar o estresse, emoções negativas continuam fortemente até o dia seguinte.
+- **💡 Conselho Baseado em Dados:** Nos dias em que a hora extra for inevitável, bloquear aplicativos de delivery de comida e fazer uma caminhada leve, mesmo que por 10 minutos, será extremamente vantajoso para sua defesa emocional.
 
 ---
 

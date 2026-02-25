@@ -43,7 +43,7 @@ No son solo los grandes logros los que se vuelven virales. De hecho, la vulnerab
 >
 > **Solicitud:** Convierte este pequeño incidente de mi trabajo hoy `[tu anécdota]` y lo que aprendí de ello `[tu aprendizaje]` en una publicación atractiva y profesional para LinkedIn.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

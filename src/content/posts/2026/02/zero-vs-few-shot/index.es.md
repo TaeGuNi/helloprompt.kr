@@ -38,7 +38,7 @@ En el mundo de los Grandes Modelos de Lenguaje (LLM), _cómo_ pides algo es tan 
 > **Tarea:** Traduce el siguiente texto al español manteniendo un tono formal.
 > **Texto:** "The weather is nice today, but we should prepare for the upcoming storm."
 
-<br>
+\
 
 ### 🥇 Versión Few-Shot (Avanzada / Pro)
 

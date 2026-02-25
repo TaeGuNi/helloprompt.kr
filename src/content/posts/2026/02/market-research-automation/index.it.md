@@ -47,7 +47,7 @@ Utile quando hai bisogno di analizzare rapidamente un piccolo campione di circa 
 > 
 > **Dati delle recensioni:** `[Incolla qui il testo delle recensioni]`
 
-<br>
+\
 
 ### 🥇 Versione Pro
 

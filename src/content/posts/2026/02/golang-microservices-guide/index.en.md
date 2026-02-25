@@ -43,7 +43,7 @@ Use this when you want a quick 1:1 mapping of core concepts between Spring Boot 
 > **Role:** You are a Senior Backend Developer.
 > **Task:** Explain how to implement Spring Boot's `@RestController` and Dependency Injection (DI) concepts in Go. Compare them using a simple CRUD example code utilizing the `Gin` or `Echo` framework.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

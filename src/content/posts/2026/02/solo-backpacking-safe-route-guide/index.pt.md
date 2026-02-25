@@ -42,7 +42,7 @@ Use esta versão quando precisar de um esboço rápido e prático do seu roteiro
 > **Papel:** Você é um 'Viajante Solo Expert' com vasta experiência desbravando o mundo por conta própria.
 > **Pedido:** Crie um guia de viagem personalizado para quem viaja sozinho. Me dê um roteiro de mochilão que priorize a segurança, otimize o orçamento e sugira formas de conhecer novas pessoas.
 
-<br>
+\
 
 ### 🥇 Versão Especialista (Pro Version)
 
@@ -108,7 +108,7 @@ Este prompt resolve exatamente isso. Ele força a IA a atuar como aquele amigo n
 
 ### ❌ Antes (Entrada Simples)
 
-> "Recomende um roteiro de mochilão na Europa para quem viaja sozinho."
+"Recomende um roteiro de mochilão na Europa para quem viaja sozinho."
 
 **(Resultado Fraco):** A IA sugere destinos turísticos óbvios (Paris, Roma, Londres), ignora o orçamento limitado, recomenda restaurantes românticos (péssimos para quem está só) e não menciona absolutamente nada sobre bairros que devem ser evitados à noite.
 

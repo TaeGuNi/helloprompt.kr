@@ -38,7 +38,7 @@ Use esta versão para criar a estrutura inicial do projeto e testar rapidamente 
 > **Role:** Você é um desenvolvedor sênior de jogos client-side.
 > **Task:** Crie um jogo de golfe 2D para navegador usando HTML5 Canvas. O jogo deve incluir uma bola, um buraco (hole) e uma mecânica de atirar arrastando o mouse (drag-to-shoot).
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro)
 

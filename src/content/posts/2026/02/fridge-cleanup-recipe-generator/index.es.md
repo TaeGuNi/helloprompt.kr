@@ -42,7 +42,7 @@ tags: ["Cocina", "Receta", "Dieta", "Limpieza de Refrigerador"]
 > **Rol:** Eres un chef experto en cocina casera de aprovechamiento.
 > **Solicitud:** Dime qué puedo cocinar de forma rápida y saludable usando `[huevos, cebolla y espinacas]`.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

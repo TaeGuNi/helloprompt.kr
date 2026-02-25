@@ -9,7 +9,7 @@ cover: "./cover.jpg"
 
 - **🎯 Recommandé pour :** Analystes de marché, Journalistes tech, Stratèges produit
 - **⏱️ Temps requis :** 2 heures → 3 minutes
-- **🤖 Modèles recommandés :** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modèles recommandés :** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Difficulté :** ⭐⭐☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -38,7 +38,7 @@ Idéal pour obtenir une vue d'ensemble rapide de la tendance.
 > **Rôle :** Tu es un `[Analyste Tech]`.
 > **Tâche :** Rédige une synthèse concise expliquant le succès des `[Lunettes Intelligentes Meta]` et l'évolution du marché de `[l'IA Wearable]`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

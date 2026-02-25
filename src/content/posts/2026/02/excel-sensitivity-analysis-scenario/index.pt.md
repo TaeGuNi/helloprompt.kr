@@ -13,7 +13,7 @@ tags: ["Excel", "AnáliseSensibilidade", "Cenário", "TabelaDados"]
 
 - **🎯 Recomendado para:** Analistas Financeiros, Planejadores Estratégicos, Profissionais de Dados
 - **⏱️ Tempo necessário:** 5 minutos para aprender, 1 segundo para aplicar
-- **🤖 Modelo recomendado:** ChatGPT (GPT-4), Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modelo recomendado:** ChatGPT (GPT-4), Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Dificuldade:** ⭐⭐☆☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Use isso quando precisar de um resultado rápido e direto.
 > **Papel:** Você é um `[Especialista em Modelagem Financeira]` trabalhando em uma consultoria estratégica de alto nível.
 > **Solicitação:** Como posso calcular dezenas de cenários de uma só vez usando a função Tabela de Dados do Excel para descobrir quanto o lucro diminui se a taxa de câmbio subir 10%?
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

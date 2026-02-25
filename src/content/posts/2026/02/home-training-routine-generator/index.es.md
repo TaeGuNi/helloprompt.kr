@@ -42,7 +42,7 @@ Seguir videos de YouTube está bien, pero es difícil saber si la intensidad es 
 > **Rol:** Eres un Entrenador Personal Profesional con 10 años de experiencia y Especialista en Rehabilitación.
 > **Solicitud:** Diseña la rutina de entrenamiento en casa óptima adaptada a mi nivel físico y al equipo que tengo disponible.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -110,7 +110,7 @@ Como consejo profesional: guarda los resultados de este prompt y, cada dos seman
 
 ### ❌ Antes (Entrada)
 
-> "Recomienda una rutina de entrenamiento en casa."
+"Recomienda una rutina de entrenamiento en casa."
 
 **Resultado típico:** Una lista genérica de flexiones, abdominales y sentadillas con salto que podrían causar dolor de rodillas, no abordan los problemas de postura de oficina y generarían quejas inmediatas por el ruido de los vecinos.
 

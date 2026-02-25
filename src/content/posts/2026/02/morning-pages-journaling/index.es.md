@@ -43,7 +43,7 @@ Escribir con el flujo de conciencia a primera hora de la mañana, conocido como 
 > **Tarea:** Lee el siguiente diario que he escrito, indícame el clima de mis emociones de hoy y ofréceme unas palabras de consuelo y calidez.
 > **Diario:** `[Lo que escribí hoy]`
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

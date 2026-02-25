@@ -44,7 +44,7 @@ Use quando precisar de uma resposta rápida e direta para um problema simples.
 > **Papel:** Você é um DBA Sênior com 20 anos de experiência.
 > **Solicitação:** Analise a seguinte consulta SQL, encontre os gargalos de desempenho e sugira uma versão otimizada com recomendações de índices.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 
@@ -141,9 +141,9 @@ CREATE INDEX idx_orders_price_userid ON orders(price, user_id);
 ```
 
 > _Explicação Técnica:_
->
-> - A query foi otimizada substituindo a subconsulta por um `INNER JOIN`, permitindo que o otimizador do banco de dados escolha o melhor plano de execução.
-> - O índice composto `(price, user_id)` permite que o banco filtre rapidamente os pedidos de alto valor e faça a junção com a tabela de usuários usando o próprio índice (_Index-Only Scan_), evitando leituras desnecessárias no disco rígido.
+
+- A query foi otimizada substituindo a subconsulta por um `INNER JOIN`, permitindo que o otimizador do banco de dados escolha o melhor plano de execução.
+- O índice composto `(price, user_id)` permite que o banco filtre rapidamente os pedidos de alto valor e faça a junção com a tabela de usuários usando o próprio índice (_Index-Only Scan_), evitando leituras desnecessárias no disco rígido.
 
 ---
 

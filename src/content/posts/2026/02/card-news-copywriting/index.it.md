@@ -42,7 +42,7 @@ Usala quando hai un blocco dello scrittore e ti serve un'idea al volo.
 > **Ruolo:** Sei un esperto di Copywriting e Social Media Marketing.
 > **Richiesta:** Scrivi 5 titoli accattivanti per una card news su Instagram che parla di `[argomento]`. Devono fermare lo scorrimento e generare curiosità.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

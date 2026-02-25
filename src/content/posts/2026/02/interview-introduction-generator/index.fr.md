@@ -42,20 +42,20 @@ Utilisez un copywriter IA pour transformer vos expériences, même les plus ordi
 À utiliser lorsque vous souhaitez transmettre votre passion et votre potentiel avec un maximum d'impact.
 
 > **Rôle (Role) :** Tu es un responsable RH d'une grande entreprise et un recruteur principal avec 10 ans d'expérience.
->
-> **Contexte (Context) :**
->
-> - Profil du candidat : `[Diplômé en gestion, président du club universitaire de marketing, 1 an de travail à temps partiel dans une supérette]`
-> - Poste visé : `[Débutant en marketing de biens de consommation B2C]`
->
-> **Tâche (Task) :**
-> Rédige un script de présentation d'une minute capable de captiver immédiatement l'attention des recruteurs.
->
-> 1. Mets en valeur "l'expérience de l'identification des besoins clients sur le terrain" comme atout principal.
-> 2. Exclus les expressions abstraites (assiduité, effort, etc.) et utilise des anecdotes concrètes.
-> 3. Rédige des phrases courtes et fluides avec un ton conversationnel naturel pour faciliter la prise de parole.
 
-<br>
+> **Contexte (Context) :**
+
+- Profil du candidat : `[Diplômé en gestion, président du club universitaire de marketing, 1 an de travail à temps partiel dans une supérette]`
+- Poste visé : `[Débutant en marketing de biens de consommation B2C]`
+
+> **Tâche (Task) :**
+Rédige un script de présentation d'une minute capable de captiver immédiatement l'attention des recruteurs.
+
+1. Mets en valeur "l'expérience de l'identification des besoins clients sur le terrain" comme atout principal.
+2. Exclus les expressions abstraites (assiduité, effort, etc.) et utilise des anecdotes concrètes.
+3. Rédige des phrases courtes et fluides avec un ton conversationnel naturel pour faciliter la prise de parole.
+
+\
 
 ### 🥇 Version Pro (Pour les profils expérimentés)
 

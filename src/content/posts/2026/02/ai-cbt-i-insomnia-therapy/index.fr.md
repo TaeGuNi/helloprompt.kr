@@ -42,7 +42,7 @@ Utilisez cette version pour obtenir une première évaluation rapide de votre nu
 > **Rôle :** Tu es un psychologue clinicien expert en TCC-I (Thérapie Cognitivo-Comportementale pour l'Insomnie).
 > **Demande :** J'ai passé 8 heures au lit la nuit dernière, mais je n'ai dormi que 4 heures. Je suis très anxieux à l'idée de ne pas dormir ce soir. Aide-moi à appliquer les principes de la TCC-I pour calmer mon anxiété et me donner une consigne claire pour ce soir.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

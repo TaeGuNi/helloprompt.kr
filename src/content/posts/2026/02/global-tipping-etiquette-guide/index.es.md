@@ -48,7 +48,7 @@ Un mundo de propinas donde dar muy poco te hace quedar mal y dar demasiado te de
 > **Rol:** Eres un guía de viajes experto internacional.
 > **Solicitud:** Estoy en `[País]`. Acabo de comer en un `[Tipo de restaurante]`. ¿Cuánto debo dejar de propina y cómo se entrega habitualmente?
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 
@@ -110,7 +110,7 @@ Este prompt me ha salvado de más de un apuro, especialmente en la "zona gris" e
 
 ### ❌ Before (Entrada Pobre)
 
-> "¿Cuánta propina se deja en Italia?"
+"¿Cuánta propina se deja en Italia?"
 
 _(Respuesta típica de la IA: "Depende de tu nivel de satisfacción. Normalmente se deja algo, pero el servicio suele estar incluido en la mayoría de los lugares...")_ -> **Demasiado ambiguo para ser útil en el momento de pagar.**
 

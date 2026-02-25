@@ -39,7 +39,7 @@ Use this when you want to quickly grasp the core pros and cons of a specific sol
 > **Role:** You are a 15-year enterprise IT architect and a sharp DX (Digital Transformation) consultant.
 > **Task:** We are planning to adopt `[Name of AI Solution under review]` for our company. Stripping away the sales hype, tell me 3 critical drawbacks we will face in actual operations and the hidden costs we must check.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

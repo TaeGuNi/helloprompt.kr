@@ -42,7 +42,7 @@ Use this when you just need a quick result without specific details.
 > **Role:** You are a professional interpreter, fluent in both the local language and culture.
 > **Task:** Create a practical, immediate-use conversation cheat sheet for common travel situations, from ordering at restaurants and hotel check-ins to handling emergencies.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

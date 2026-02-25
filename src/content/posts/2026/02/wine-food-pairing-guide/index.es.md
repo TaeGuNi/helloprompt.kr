@@ -43,12 +43,12 @@ Esta es la situación más común. Úsala cuando ya tienes decidida la comida y 
 > **Situación:** El menú para la cena de hoy es `[Tteokbokki picante y frituras variadas]`.
 > **Tarea:** Recomiéndame 3 vinos que combinen perfectamente con esta comida.
 > **Condiciones:**
->
-> 1. Elige vinos con buena relación calidad-precio, que no sean demasiado caros (entre 15 y 35 dólares/euros).
-> 2. Selecciona variedades populares y fáciles de beber para un principiante en vinos.
-> 3. Explica en una sola oración por qué cada vino combina bien con esta comida.
 
-<br>
+1. Elige vinos con buena relación calidad-precio, que no sean demasiado caros (entre 15 y 35 dólares/euros).
+2. Selecciona variedades populares y fáciles de beber para un principiante en vinos.
+3. Explica en una sola oración por qué cada vino combina bien con esta comida.
+
+\
 
 ### 🥇 Versión Pro (Análisis Preciso de Preferencias)
 

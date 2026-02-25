@@ -42,10 +42,10 @@ Você não precisa mais postar fotos em fóruns ou grupos de jardinagem e espera
 Use esta versão quando estiver com pressa e precisar apenas identificar a causa do problema.
 
 > **(Faça o upload da foto da área doente da planta)**
->
+
 > **Ação:** As pontas das folhas da minha Monstera nesta foto estão ficando marrons e secas. É falta de água ou excesso? Existe alguma doença? Diga-me a causa e o que devo fazer de forma breve.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Solução de Ressuscitação Especializada)
 
@@ -100,12 +100,12 @@ Ao usar este prompt, a IA não vai se limitar a um conselho vago como "regue men
 
 ### ❌ Antes (Dependendo de suposições)
 
-> "Nossa, as folhas estão caídas. Ela deve estar com muita sede." (Você dá mais um litro de água ➡️ As raízes já apodrecidas entram em colapso total ➡️ A planta morre irreversivelmente ⚰️)
+"Nossa, as folhas estão caídas. Ela deve estar com muita sede." (Você dá mais um litro de água ➡️ As raízes já apodrecidas entram em colapso total ➡️ A planta morre irreversivelmente ⚰️)
 
 ### ✅ Depois (Diagnóstico objetivo da IA)
 
 > **IA:** "Com base nos sintomas atuais e na frequência de rega, isso é um caso grave de **excesso de água**! Pare de regar imediatamente e mova o vaso para uma área fresca e sombreada com boa ventilação. Você deve esperar pelo menos uma semana até que o solo seque completamente."
-> (Resultado: Seguindo as instruções da IA, o apodrecimento do caule parou após 3 dias, e novos brotos firmes começaram a aparecer 🌱)
+(Resultado: Seguindo as instruções da IA, o apodrecimento do caule parou após 3 dias, e novos brotos firmes começaram a aparecer 🌱)
 
 ---
 

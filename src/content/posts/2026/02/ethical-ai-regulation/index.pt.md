@@ -18,7 +18,7 @@ title: " \"Ética e Regulação da IA 2026: Regras para Coexistência\""
 
 - **🎯 Público-alvo:** Desenvolvedores, Gerentes de Produto, Especialistas em Compliance
 - **⏱️ Tempo economizado:** Horas de pesquisa jurídica → 2 minutos de análise
-- **🤖 Modelos recomendados:** GPT-4, Claude 3 Opus, Gemini 1.5 Pro (Modelos com alto raciocínio)
+- **🤖 Modelos recomendados:** GPT-4, Claude 3 Opus, Gemini 2.5 Pro (Modelos com alto raciocínio)
 
 - ⭐ **Dificuldade:** ⭐⭐⭐☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -49,7 +49,7 @@ Use esta versão para uma verificação rápida de sanidade ética de uma ideia 
 > **Função:** Você é um `[Especialista em Ética de IA e Compliance]`.
 > **Tarefa:** Avalie o seguinte projeto de IA: `[Descrição breve do projeto/funcionalidade]`. Aponte os 3 principais riscos éticos (ex: viés algorítmico, privacidade, transparência) e sugira mitigações rápidas e práticas.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Auditoria Completa de Compliance 2026)
 

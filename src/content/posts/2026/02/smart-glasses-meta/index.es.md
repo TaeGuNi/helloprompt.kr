@@ -38,7 +38,7 @@ En el panorama tecnológico de 2026, la Inteligencia Artificial portátil se ha 
 > **Rol:** Eres un `[Analista de Mercado Tecnológico Senior]`.
 > **Tarea:** Analiza las razones del éxito comercial de `[Gafas Inteligentes de Meta]` y resume los 3 factores principales que triplicaron sus ventas.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

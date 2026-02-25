@@ -43,7 +43,7 @@ Use esta versão quando precisar de um cardápio simples e rápido, sem muitas f
 > **Papel:** Você é um nutricionista clínico com 10 anos de experiência.
 > **Pedido:** Crie um plano de refeições semanal simples e saudável para mim, focado em `[seu objetivo, ex: perda de peso]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 
@@ -112,7 +112,7 @@ Este prompt é poderoso porque ele elimina essa fricção do dia a dia. Ao forne
 
 ### ❌ Before (Entrada)
 
-> "Monte uma dieta para mim."
+"Monte uma dieta para mim."
 
 _(O resultado geralmente é um texto longo e chato, com sugestões genéricas como "coma mais vegetais e beba água" e nenhum plano real aplicável no dia a dia)._
 

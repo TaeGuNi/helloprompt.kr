@@ -40,10 +40,10 @@ Le **Steampunk** est bien plus qu'un simple sous-genre de la science-fiction ; c
 Utilisez cette version lorsque vous avez besoin d'une inspiration visuelle immédiate.
 
 > **Rôle :** Tu es un artiste conceptuel expert en rétro-futurisme.
->
+
 > **Demande :** Crée un prompt pour générer une image de style Steampunk, représentant une vision futuriste du 19ème siècle, dominée par des engrenages en laiton et des machines à vapeur.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 
@@ -100,7 +100,7 @@ Pour éviter cela, le secret est de donner à l'IA une **fonction** mécanique. 
 
 ### ❌ Avant (Entrée basique)
 
-> Un hibou robot.
+Un hibou robot.
 
 **(Résultat typique :)** Un hibou robotique futuriste, blanc, épuré, ressemblant à du plastique ou de la science-fiction moderne spatiale. Lisse et sans âme victorienne.
 

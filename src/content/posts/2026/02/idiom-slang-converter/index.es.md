@@ -42,7 +42,7 @@ Más del 50% de las expresiones que los hablantes nativos usan en su día a día
 > **Rol:** Eres un guionista de Hollywood y un experto en jerga estadounidense.
 > **Solicitud:** Convierte mi frase "I am very tired" en expresiones nativas, modismos y jerga actual.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

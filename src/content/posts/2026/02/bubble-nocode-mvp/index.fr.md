@@ -46,7 +46,7 @@ Utilisez ce prompt lorsque vous êtes bloqué sur la création d'un Workflow sp�
 > **Tâche :** Détaille-moi étape par étape, de 1 à la fin, le **Workflow Bubble** exact lorsque l'utilisateur clique sur le bouton "S'inscrire" : 1) Vérifier que les mots de passe correspondent, 2) Enregistrer les informations de l'utilisateur dans la base de données, 3) Envoyer un e-mail de bienvenue, et 4) Rediriger vers la page 'Accueil'.
 > **Contraintes :** Explique-moi en te basant sur l'interface de Bubble (précise sur quels menus ou Actions je dois cliquer).
 
-<br>
+\
 
 ### 🥇 Version Pro (Architecture globale et Base de données du service)
 

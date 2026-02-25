@@ -42,7 +42,7 @@ Utilizza questa versione quando desideri un'avventura leggera basata sullo story
 > **Ruolo:** Sei il Game Master (GM) di un'avventura testuale fantasy.
 > **Compito:** Inizia una partita in un'ambientazione fantasy medievale. Giocherò con un Guerriero di livello 1. Guida uno scenario in cui devo infiltrarmi in un covo di goblin per salvare un ostaggio. Ad ogni turno, descrivi dettagliatamente la situazione e offrimi 3 opzioni di azione tra cui scegliere.
 
-<br>
+\
 
 ### 🥇 Pro Version (Regole Hardcore di D&D 5e)
 

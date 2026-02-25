@@ -18,7 +18,7 @@ title: " \"Prompt Engineering 3.0: Die Absicht ist Befehl\""
 
 - **🎯 Empfohlen für:** Marketer, Projektmanager, KI-Anfänger und alle, die Zeit sparen wollen
 - **⏱️ Zeitersparnis:** Von 10 Minuten Grübeln → 10 Sekunden Ausführung
-- **🤖 Empfohlene Modelle:** Alle modernen dialogorientierten KIs (ChatGPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro)
+- **🤖 Empfohlene Modelle:** Alle modernen dialogorientierten KIs (ChatGPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro)
 
 - ⭐ **Schwierigkeitsgrad:** ⭐☆☆☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -49,7 +49,7 @@ Früher mussten wir der KI mühsam jeden noch so kleinen Schritt vorkauen, um br
 > **Aufgabe:** Schreibe eine Instagram-Caption.
 > **Einschränkungen:** Verwende genau 3 Emojis, maximal 5 Hashtags, schreibe in einem lockeren, aber professionellen Tonfall und füge am Ende einen Call-to-Action hinzu.
 
-<br>
+\
 
 ### 🥇 Die Gegenwart (Prompt 3.0 - Absichtsbasiert)
 

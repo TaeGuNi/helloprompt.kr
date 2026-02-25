@@ -42,7 +42,7 @@ Utilisez cette version si vous voulez évaluer rapidement la gravité de votre �
 > **Rôle :** Tu es un `[psychologue spécialisé dans le secteur de l'informatique]`.
 > **Tâche :** "En ce moment, je déteste coder et je me sens complètement léthargique. Pose-moi 5 questions clés pour déterminer s'il s'agit d'une simple baisse de régime ou d'un véritable burn-out."
 
-<br>
+\
 
 ### 🥇 Version Pro (Analyse précise basée sur le MBI)
 

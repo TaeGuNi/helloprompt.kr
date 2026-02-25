@@ -49,7 +49,7 @@ Utilisez ce prompt pour obtenir rapidement une légende frissonnante sans trop d
 > **Rôle :** Tu es un 'Chercheur de Mystères' qui collectionne des histoires étranges et des légendes urbaines du monde entier.
 > **Demande :** Raconte-moi une légende locale ou une histoire de fantôme effrayante liée à `[Nom de la Ville/Région]`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 
@@ -93,7 +93,7 @@ Les guides de voyage traditionnels (comme le Routard ou le Lonely Planet) se con
   - A : Oui, cela peut arriver si la région est très peu documentée. C'est pourquoi la contrainte "Ne crée pas de fausses légendes" (Warning) est cruciale dans la version Pro. Vérifiez toujours rapidement sur Google si le lieu physique existe vraiment avant de vous y rendre.
 
 - **Q : Quel modèle d'IA est le plus doué pour le storytelling ?**
-  - A : Pour le ton narratif et l'ambiance "feu de camp", Claude 3.5 Sonnet donne actuellement les récits les plus immersifs et les plus nuancés, tandis que GPT-4o ou Gemini 1.5 Pro excellent pour trouver des adresses géographiques précises et sourcées.
+  - A : Pour le ton narratif et l'ambiance "feu de camp", Claude 3.5 Sonnet donne actuellement les récits les plus immersifs et les plus nuancés, tandis que GPT-4o ou Gemini 2.5 Pro excellent pour trouver des adresses géographiques précises et sourcées.
 
 ---
 

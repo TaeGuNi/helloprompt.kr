@@ -39,7 +39,7 @@ Ideal para consultas rápidas sobre un concepto específico que no logras compre
 > **Rol:** Eres un profesor experto y muy paciente.
 > **Instrucción:** Explícame `[concepto difícil]` como si tuviera 12 años, usando una analogía sencilla y dándome un ejemplo práctico de la vida real.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

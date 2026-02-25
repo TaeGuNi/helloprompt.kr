@@ -13,7 +13,7 @@ tags: ["Frontend", "React", "Vue", "Tailwind", "Componente UI"]
 
 - **🎯 Recomendado para:** Desarrolladores Frontend, Diseñadores UI/UX, Full-Stack Developers
 - **⏱️ Tiempo ahorrado:** De 30 minutos a apenas 1 minuto
-- **🤖 Modelo recomendado:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (Modelos con gran capacidad de codificación)
+- **🤖 Modelo recomendado:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (Modelos con gran capacidad de codificación)
 
 - ⭐ **Dificultad:** ⭐⭐☆☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Ideal para cuando necesitas un componente funcional en segundos sin demasiadas e
 > **Rol:** Eres un desarrollador frontend Senior y un experto en UI/UX.
 > **Solicitud:** Crea un componente UI para `[Describe el componente, ej: un formulario de login]` utilizando `[Tu stack, ej: React y Tailwind]`. Asegúrate de que sea responsivo.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

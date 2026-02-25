@@ -42,7 +42,7 @@ Utilizza questo prompt quando hai bisogno di un'ispirazione immediata senza trop
 > **Ruolo:** Sei un consulente esperto di YouTube e un copywriter fenomenale che ha portato numerosi canali a oltre 1 milione di iscritti.
 > **Richiesta:** Genera 10 nomi accattivanti e memorabili per un canale YouTube che tratta di `[Il tuo argomento]`. I nomi devono essere ottimizzati per l'algoritmo e facili da cercare.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

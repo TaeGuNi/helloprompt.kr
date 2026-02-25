@@ -50,7 +50,7 @@ Nutzen Sie diesen Prompt, wenn Sie sofort loslegen möchten, ohne viele Details 
 >
 > **Aufgabe:** Erstelle mir einen 30-Tage-Trainingsplan für zu Hause. Ich möchte nur mit meinem eigenen Körpergewicht trainieren und habe keine Geräte zur Verfügung. Der Plan soll abwechslungsreich sein und jeden Tag andere Übungen enthalten.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 

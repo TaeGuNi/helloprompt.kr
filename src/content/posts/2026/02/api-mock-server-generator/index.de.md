@@ -43,7 +43,7 @@ Nutzen Sie diese Variante, wenn Sie schnell eine einfache Mock-API benötigen.
 > **Rolle:** Du bist ein `[Senior Backend-Entwickler]`.
 > **Aufgabe:** Schreibe basierend auf der folgenden `[API-Spezifikation]` den vollständigen, sofort ausführbaren Code für einen Mock-Server in einer `[Express.js]` Umgebung.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 

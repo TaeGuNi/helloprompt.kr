@@ -13,7 +13,7 @@ tags: ["Depuración", "ArregloErrores", "Desarrollador", "Productividad"]
 
 - **🎯 Recomendado para:** Desarrolladores de todos los niveles, desde Juniors hasta Seniors.
 - **⏱️ Tiempo de ejecución:** 1 minuto (Ahorra horas de depuración)
-- **🤖 Modelo recomendado:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro o superior
+- **🤖 Modelo recomendado:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro o superior
 
 - ⭐ **Dificultad:** ⭐⭐☆☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Pasamos, en promedio, el 80% de nuestro tiempo de desarrollo depurando código. 
 > **Rol:** Eres un Ingeniero de Software Senior y un experto "Cazador de Bugs".
 > **Solicitud:** Analiza el siguiente mensaje de error `[PEGA EL ERROR]` en este código `[PEGA EL CÓDIGO]`, encuentra la causa exacta y dame la solución corregida.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Análisis Experto)
 

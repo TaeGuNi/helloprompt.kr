@@ -41,7 +41,7 @@ Usa questo prompt per un controllo rapido e immediato della tua idea di video.
 > **Ruolo:** Sei un esperto legale specializzato nell'EU AI Act.
 > **Azione:** Verifica se il seguente concept video generato dall'AI è conforme alle nuove normative: `[Inserisci la descrizione del tuo video o del tuo workflow]`. Evidenzia i rischi principali in un elenco puntato.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

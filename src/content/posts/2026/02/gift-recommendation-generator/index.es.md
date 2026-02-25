@@ -48,7 +48,7 @@ Dicen que lo que verdaderamente importa al regalar es la intención y no el obje
 > **Rol:** Eres un Personal Shopper de lujo con un gusto impecable y un experto en la recomendación de regalos.
 > **Solicitud:** Sugiere una lista de regalos infalibles para un `[Género]` de `[Edad]` años. Mi relación con esta persona es de `[Relación]` y tengo un presupuesto de `[Presupuesto]`.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -111,7 +111,7 @@ El verdadero valor de este prompt radica en la sección de **"Intereses / Caract
 
 ### ❌ Before (Entrada simple)
 
-> Recomienda un regalo para un hombre de 30 años.
+Recomienda un regalo para un hombre de 30 años.
 
 _(Resultado típico de la IA: "1. Reloj, 2. Perfume, 3. Cartera, 4. Ropa, 5. Libro. Son opciones clásicas que nunca fallan...")_ -> Aburrido, genérico y predecible.
 

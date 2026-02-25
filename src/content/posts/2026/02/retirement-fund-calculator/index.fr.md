@@ -42,7 +42,7 @@ Combien vous faut-il pour maintenir un pouvoir d'achat de 3 000 € (ou équival
 > **Rôle :** Tu es un `[Conseiller en Gestion de Patrimoine (CGP)]` certifié, expert en préparation à la retraite.
 > **Requête :** Aide-moi à dissiper mes craintes concernant ma retraite. Calcule précisément le capital dont j'aurai besoin et l'effort d'épargne mensuel que je dois fournir dès aujourd'hui.
 
-<br>
+\
 
 ### 🥇 Pro Version (Modèle Expert)
 

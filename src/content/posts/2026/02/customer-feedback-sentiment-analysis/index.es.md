@@ -42,7 +42,7 @@ La Voz del Cliente (VOC) es el activo más valioso de cualquier empresa, pero cl
 > **Rol:** Eres un experto en Experiencia del Cliente (CX) y Análisis de Datos.
 > **Solicitud:** Analiza los siguientes comentarios de clientes y clasifícalos por sentimiento (Positivo/Neutral/Negativo), resumiendo los puntos clave de cada categoría.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -77,14 +77,14 @@ La Voz del Cliente (VOC) es el activo más valioso de cualquier empresa, pero cl
 
 ## 💡 Comentario del Autor (Insight)
 
-Analizar el VOC (Voice of Customer) es crucial, pero la fatiga de leer queja tras queja a menudo nos hace perder la perspectiva. Este prompt es una herramienta indispensable en mi día a día porque elimina el sesgo emocional. Al delegar la categorización inicial a la IA, puedes enfocarte en lo que realmente aporta valor: diseñar soluciones estratégicas basadas en los datos estructurados que la IA te devuelve. Te recomiendo exportar tus reseñas desde Excel o tu CRM y pegarlas directamente en el bloque de datos; modelos con ventanas de contexto amplias como Claude 3.5 Sonnet o Gemini 1.5 Pro hacen maravillas con bases de datos enormes.
+Analizar el VOC (Voice of Customer) es crucial, pero la fatiga de leer queja tras queja a menudo nos hace perder la perspectiva. Este prompt es una herramienta indispensable en mi día a día porque elimina el sesgo emocional. Al delegar la categorización inicial a la IA, puedes enfocarte en lo que realmente aporta valor: diseñar soluciones estratégicas basadas en los datos estructurados que la IA te devuelve. Te recomiendo exportar tus reseñas desde Excel o tu CRM y pegarlas directamente en el bloque de datos; modelos con ventanas de contexto amplias como Claude 3.5 Sonnet o Gemini 2.5 Pro hacen maravillas con bases de datos enormes.
 
 ---
 
 ## 🙋 Preguntas Frecuentes (FAQ)
 
 - **Q: ¿Existe un límite en la cantidad de comentarios que puedo analizar a la vez?**
-  - A: Depende del modelo de IA que utilices. Versiones gratuitas (como ChatGPT básico) pueden procesar unos pocos cientos de comentarios a la vez debido a los límites de tokens. Para analizar miles de reseñas simultáneamente, recomiendo usar Claude 3.5 Sonnet o Gemini 1.5 Pro, que manejan contextos mucho más amplios.
+  - A: Depende del modelo de IA que utilices. Versiones gratuitas (como ChatGPT básico) pueden procesar unos pocos cientos de comentarios a la vez debido a los límites de tokens. Para analizar miles de reseñas simultáneamente, recomiendo usar Claude 3.5 Sonnet o Gemini 2.5 Pro, que manejan contextos mucho más amplios.
 
 - **Q: ¿Qué pasa si los comentarios están en diferentes idiomas?**
   - A: ¡Esa es otra gran ventaja! Puedes añadir una instrucción extra al prompt como: _"Traduce todos los insights al español independientemente del idioma original del comentario"_. La IA analizará los sentimientos multilingües y te entregará el informe unificado en tu idioma, ahorrándote el paso de la traducción previa.

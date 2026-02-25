@@ -39,7 +39,7 @@ tags: ["AI", "Tech", "role-playing-personas"]
 > **角色：** 你是一位`[資深後端工程師]`。
 > **任務：** 請幫我寫一個`[連接資料庫]`的函式。
 
-<br>
+\
 
 ### 🥇 Pro Version (專家型)
 

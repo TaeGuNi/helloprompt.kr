@@ -42,7 +42,7 @@ Usala quando hai bisogno di un risultato rapido e senza troppi fronzoli.
 > **Ruolo:** Sei un `[Sviluppatore Senior esperto in Clean Code]`.
 > **Richiesta:** Rifattorizza questo codice disordinato in un codice pulito, che sia `[facile da leggere e da manutenere]`.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Professional Version)
 

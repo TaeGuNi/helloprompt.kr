@@ -42,7 +42,7 @@ Use this when you need immediate, simple advice to comfort a crying child.
 > **Role:** You are a compassionate child psychologist and social skills coach.
 > **Task:** My 6-year-old child was rejected by a friend at the playground today and is very hurt. Give me exactly what to say to comfort them and explain why kids sometimes say no to playing.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

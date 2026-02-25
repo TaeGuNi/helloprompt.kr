@@ -40,7 +40,7 @@ Verwenden Sie diese Version, wenn Sie schnelles Feedback zu Ihrer aktuellen Arch
 > **Rolle:** Du bist ein erfahrener Senior Data Engineer mit 10 Jahren Berufspraxis und kennst die Kernprinzipien aus 'The Data Engineering Book' in- und auswendig.
 > **Aufgabe:** Analysiere meine `[aktuelle Datenpipeline-Architektur]` und schlage 3 konkrete Verbesserungen in Bezug auf Datenqualität und Skalierbarkeit vor.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

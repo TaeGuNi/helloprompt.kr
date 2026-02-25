@@ -39,7 +39,7 @@ Para quem está com pressa, aqui está o resumo de 1 minuto. Por favor, lembre-s
 > **Artigo 2 (Direitos Autorais):** Os direitos autorais de todos os prompts e conteúdos deste Site pertencem ao Hello Prompt.
 > **Artigo 3 (Limitação de Responsabilidade):** As informações do Site são apenas para referência. Não nos responsabilizamos legalmente pelos resultados obtidos através da execução das IAs.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Termos Detalhados)
 

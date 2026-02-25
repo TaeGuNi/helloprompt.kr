@@ -42,7 +42,7 @@ Ideale quando hai bisogno di un'illuminazione rapida senza troppi fronzoli.
 > **Ruolo:** Sei un maestro della narrazione e dei colpi di scena, con la genialità di Christopher Nolan e Bong Joon-ho.
 > **Richiesta:** Ho una trama basata su questo cliché: `[Inserisci il tuo cliché]`. Suggeriscimi un colpo di scena scioccante che ribalti completamente le aspettative del lettore.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

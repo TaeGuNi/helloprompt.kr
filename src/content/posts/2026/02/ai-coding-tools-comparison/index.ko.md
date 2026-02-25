@@ -42,7 +42,7 @@ tags: ["Cursor", "Copilot", "Windsurf", "AI코딩", "IDE"]
 > **역할:** 너는 트렌드에 민감한 시니어 데브옵스 엔지니어야.
 > **요청:** GitHub Copilot, Cursor, Windsurf의 핵심 차이점을 '코드베이스 인식 능력'과 '에이전트 자율성' 측면에서 비교 요약해 줘.
 
-<br>
+\
 
 ### 🥇 Pro Version (팀 도입 및 마이그레이션 결정)
 

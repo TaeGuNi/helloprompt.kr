@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "optimizing-context-windows"]
 
 - **🎯 推薦對象：** AI 開發者、提示詞工程師 (Prompt Engineer)、產品經理
 - **⏱️ 節省時間：** 減少 50% 以上的 API 請求延遲與除錯時間
-- **🤖 推薦模型：** 所有支援長文本的對話型 AI (GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro)
+- **🤖 推薦模型：** 所有支援長文本的對話型 AI (GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro)
 
 - ⭐ **難易度：** ⭐⭐⭐☆☆
 - ⚡️ **有效性：** ⭐⭐⭐⭐⭐
@@ -43,7 +43,7 @@ tags: ["AI", "Tech", "optimizing-context-windows"]
 > **角色：** 你是一位專業的 `[資料分析師]`。
 > **任務：** 請根據以下提供的簡短資訊，精準回答 `[使用者的問題]`。若資訊不足，請直接回答「資訊不足」，切勿自行編造。
 
-<br>
+\
 
 ### 🥇 Pro Version (專業版)
 

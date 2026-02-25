@@ -43,7 +43,7 @@ Utilisez cette version pour un test rapide ou si vous manquez de temps.
 > **Rôle :** Tu es un illustrateur spécialisé dans l'impression vintage.
 > **Demande :** Crée l'image d'un `[Sujet]` dans un style d'impression Risograph. Assure-toi d'inclure des couleurs vives, une texture granuleuse et un léger décalage des couches d'encre.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Expert)
 

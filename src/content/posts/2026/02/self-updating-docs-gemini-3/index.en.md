@@ -43,7 +43,7 @@ Use this for rapidly writing PR descriptions or when you need a quick, localized
 > **Role:** You are a Senior Technical Writer.
 > **Task:** Review the `[Git Diff]` I just modified and rewrite the sections in `[README.md]` that require updates in Markdown. Ignore trivial typos or simple refactoring changes.
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -61,7 +61,7 @@ This is a highly sophisticated prompt designed to be embedded in your CI/CD pipe
 > 1. Conduct a comprehensive comparative analysis between the provided `[Git Diff]` and the entire `[Target Document]`.
 > 2. Determine if these code changes impact user onboarding or developer environments, thus requiring a documentation update. (Strictly ignore simple refactoring, variable renaming, or typo fixes.)
 > 3. If an update is deemed necessary, rewrite the entire updated document in Markdown format while flawlessly maintaining the original tone and manner.
-> 4. Append a hidden comment at the very bottom of the document in this format: `<!-- Change Reason: A brief explanation of why this section was modified -->`.
+> 4. Append a hidden comment at the very bottom of the document in this format: ``.
 > 5. If the commit is trivial and requires no documentation update, output ONLY `[NO_UPDATE_REQUIRED]`.
 >
 > **Constraints (Constraints):**
@@ -93,7 +93,7 @@ When deploying this prompt to our internal backend repository, the most mind-blo
 - **Q: The AI keeps trying to document personal developer notes and TODOs found in the comments. How do I stop this?**
   - A: This happens because the AI is too diligent. That's why the directive `- Never include commented-out incomplete code like TODOs or FIXMEs in the documentation.` in the **Constraints** section of the prompt is mandatory. This single line cleanly resolves the issue.
 
-- **Q: Will this work the same way if I use Gemini 1.5 Pro or GPT-4o?**
+- **Q: Will this work the same way if I use Gemini 2.5 Pro or GPT-4o?**
   - A: It will function, but when you adopt the "Entire Document + Entire Source Code" approach, Gemini 3 Pro holds an overwhelming advantage in terms of token limits and Context Caching costs. If you are working on a small toy project with tiny files, GPT-4o can also yield excellent results.
 
 ---
@@ -102,7 +102,7 @@ When deploying this prompt to our internal backend repository, the most mind-blo
 
 1. **Bypass Logic:** By strictly commanding the AI to return `[NO_UPDATE_REQUIRED]` for trivial commits that don't need doc updates, we fundamentally prevent the endless generation of useless PRs.
 2. **Tone & Manner Preservation:** To prevent the AI from overriding your docs with its typical stiff, robotic tone, we provided an explicit context directive to "maintain the original tone and manner."
-3. **Hidden Explanations:** By leveraging HTML comments (`<!-- -->`) to document the reasons for the changes, we made it incredibly fast and easy for human reviewers to verify the AI's reasoning process when approving the PR.
+3. **Hidden Explanations:** By leveraging HTML comments (``) to document the reasons for the changes, we made it incredibly fast and easy for human reviewers to verify the AI's reasoning process when approving the PR.
 
 ---
 
@@ -134,7 +134,7 @@ DB_USER=root
 REDIS_URL=redis://localhost:6379
 ```
 
-<!-- Change Reason: Redis caching logic was newly added in src/cache/connection.ts, so the required REDIS_URL environment variable has been reflected in the Getting Started guide. -->
+
 ````
 
 ---

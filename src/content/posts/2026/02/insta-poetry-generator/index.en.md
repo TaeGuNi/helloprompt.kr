@@ -42,7 +42,7 @@ Use this when you need a quick burst of inspiration on the go.
 > **Role:** You are an elite social media poet and viral copywriter with millions of engaged followers.
 > **Request:** Write a short, emotionally resonant 4-line poem about `[Topic]` that will drive massive engagement on Instagram.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

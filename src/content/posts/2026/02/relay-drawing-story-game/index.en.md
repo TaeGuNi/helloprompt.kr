@@ -42,7 +42,7 @@ Use this when you just need a quick prompt to get started.
 > **Role:** You are a highly creative children's book author.
 > **Request:** Give me 3 ridiculous and funny drawing prompts for a 7-year-old. Format them as 'Who + Where + Doing What'.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

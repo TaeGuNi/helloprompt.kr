@@ -48,7 +48,7 @@ Verwenden Sie diesen kurzen Prompt, wenn Sie hungrig sind und einfach nur schnel
 > **Rolle:** Du bist ein erfahrener Restaurantkritiker und lokaler Food-Guide.
 > **Anfrage:** Bitte erkläre mir kurz und verständlich, woraus das Gericht `[Name des Gerichts]` besteht und wie es schmeckt.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 
@@ -109,11 +109,11 @@ Dieser Prompt rettet mir auf Reisen regelmäßig das Leben – und den Magen! Be
 
 ### ❌ Before (Eingabe ohne klaren Kontext)
 
-> Was ist "Som Tum" und "Tom Yum Goong"?
+Was ist "Som Tum" und "Tom Yum Goong"?
 
 **(Standard-Antwort einer einfachen Übersetzungs-App):**
 
-> Som Tum ist ein thailändischer Papayasalat. Tom Yum Goong ist eine Garnelensuppe.
+Som Tum ist ein thailändischer Papayasalat. Tom Yum Goong ist eine Garnelensuppe.
 
 ### ✅ After (Mit unserem Pro-Prompt)
 

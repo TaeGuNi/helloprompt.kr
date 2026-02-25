@@ -43,7 +43,7 @@ Idéale pour obtenir des conseils rapides et généraux.
 > **Rôle :** Tu es un expert en survie par temps froid et un maître de l'optimisation de bagages.
 > **Demande :** Ma valise déborde à cause de mes vêtements d'hiver. Donne-moi tes meilleures astuces pour faire mes bagages efficacement.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 
@@ -77,13 +77,13 @@ Idéale pour obtenir des conseils rapides et généraux.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 En tant que grand voyageur, j'ai souvent commis l'erreur d'emporter des pulls en grosse maille qui prenaient toute la place et m'étouffaient une fois à l'intérieur. Ce prompt est redoutablement efficace car il force l'IA à penser en termes de "système de couches" plutôt qu'en termes de "gros vêtements". L'astuce cruciale ici est la contrainte : _"Le chauffage intérieur risque d'être fort, privilégie des vêtements faciles à mettre et à enlever"_. C'est ce détail précis qui transforme une réponse générique en un conseil d'expert digne d'un guide de voyage professionnel. Utilisez ce prompt avant de faire vos achats, cela vous évitera des dépenses inutiles !
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q : Dois-je vraiment acheter des sacs de compression ?**
   - A : Oui, absolument. L'IA vous recommandera souvent des sous-vêtements thermiques (comme les Heattech) et des polaires. Même s'ils sont fins, les compresser permet de gagner jusqu'à 30% d'espace supplémentaire.
@@ -93,14 +93,14 @@ En tant que grand voyageur, j'ai souvent commis l'erreur d'emporter des pulls en
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🧬 Why it works?
 
 1. **Rôle d'Expert (Role) :** En attribuant le rôle d'"expert en expédition", l'IA puise dans des bases de données liées à l'alpinisme et à la survie, offrant des techniques de superposition bien plus pointues que les simples articles de blog lifestyle.
 2. **Contraintes Stratégiques (Constraints) :** Préciser que vous portez le vêtement le plus gros sur vous (la doudoune) et souligner les contrastes de température (froid extrême dehors, chauffage fort dedans) oblige l'IA à fournir des solutions modulables et réalistes.
 
 ---
 
-## 📊 증명: Before & After
+## 📊 Before & After
 
 ### ❌ Before (Entrée basique)
 
@@ -129,7 +129,7 @@ Roulez les vêtements thermiques à l'intérieur de vos chaussettes, utilisez de
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
 Ne laissez plus le froid dicter la taille de vos bagages. En planifiant intelligemment avec l'IA, vous pouvez voyager léger tout en restant parfaitement au chaud.
 

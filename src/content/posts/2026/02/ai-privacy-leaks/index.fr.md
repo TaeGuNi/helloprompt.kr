@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "ai-privacy-leaks"]
 
 - **🎯 Recommandé pour :** Développeurs IoT, Ingénieurs Sécurité, Utilisateurs soucieux de leur vie privée
 - **⏱️ Temps requis :** 45 minutes → 2 minutes
-- **🤖 Modèles recommandés :** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 Modèles recommandés :** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **Difficulté :** ⭐⭐☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -41,7 +41,7 @@ Idéal pour une analyse rapide des risques d'un produit spécifique que vous sou
 > **Rôle :** Tu es un `[Expert en Cybersécurité]`.
 > **Requête :** Analyse les risques de confidentialité de ce `[Appareil Connecté]` et fournis-moi un résumé clair des dangers liés à la collecte de données.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Architecte)
 

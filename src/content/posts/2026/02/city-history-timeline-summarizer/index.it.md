@@ -48,7 +48,7 @@ Usala quando hai bisogno di un'infarinatura generale prima di iniziare un tour a
 > **Ruolo:** Sei un esperto 'Designer di Infografiche Storiche' specializzato nel rendere semplice la storia complessa.
 > **Richiesta:** Riassumi la storia di `[Nome Città]` in una breve cronologia essenziale che colleghi il suo passato con i monumenti visibili oggi.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Esperto)
 
@@ -91,7 +91,7 @@ La vera magia di questo prompt non sta solo nel riassumere le date, ma nel conce
   - A: Assolutamente sì! Basta inserire il nome del Paese (es. "Giappone") al posto della città. In questo caso, l'IA si concentrerà sugli eventi macro-storici e sulle grandi capitali o regioni.
 
 - **Q: L'IA potrebbe inventarsi date o eventi falsi (allucinazioni)?**
-  - A: I modelli più recenti (come GPT-4 o Gemini 1.5) sono estremamente precisi sulla storia generale e documentata. Tuttavia, per città molto piccole o con documentazione scarsa, è sempre bene fare un rapido controllo incrociato su Google.
+  - A: I modelli più recenti (come GPT-4 o Gemini 2.5) sono estremamente precisi sulla storia generale e documentata. Tuttavia, per città molto piccole o con documentazione scarsa, è sempre bene fare un rapido controllo incrociato su Google.
 
 - **Q: Posso chiedere di concentrarsi su un'epoca specifica?**
   - A: Certo! Puoi modificare il contesto aggiungendo, ad esempio: _"Concentrati esclusivamente sul periodo dell'Impero Romano"_. L'IA adatterà la cronologia focalizzandosi solo su quell'arco temporale.
@@ -110,7 +110,7 @@ La vera magia di questo prompt non sta solo nel riassumere le date, ma nel conce
 
 ### ❌ Prima (Input generico)
 
-> Raccontami la storia di Berlino.
+Raccontami la storia di Berlino.
 
 _(Risultato: Un muro di testo accademico di 4 pagine, partendo dai margravi del Brandeburgo nel XIII secolo, impossibile da leggere camminando per strada)._
 

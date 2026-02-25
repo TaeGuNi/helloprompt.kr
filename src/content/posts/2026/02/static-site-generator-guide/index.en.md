@@ -44,7 +44,7 @@ Use this when you've settled on Astro as your tech stack and want to instantly g
 > **Role:** You are a Senior Frontend Engineer and Tech Blogger.
 > **Task:** I want to build a Markdown/MDX-based developer blog using the Astro framework. Propose a complete folder structure for the blog project, and write an example of the core routing code (`[slug].astro`) that reads specific markdown files and renders them into detail pages.
 
-<br>
+\
 
 ### 🥇 Pro Version (Hybrid Architecture & Performance Optimization)
 

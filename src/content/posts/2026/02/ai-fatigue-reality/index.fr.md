@@ -9,7 +9,7 @@ cover: "./cover.jpg"
 
 - **🎯 Public ciblé :** Rédacteurs, Marketeurs, Créateurs de contenu, Éditeurs
 - **⏱️ Gain de temps :** Des heures de révision → 2 minutes
-- **🤖 Modèles recommandés :** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 Modèles recommandés :** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **Difficulté :** ⭐⭐☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Idéal pour un nettoyage rapide d'un texte généré par l'IA.
 > **Rôle :** Tu es un `[Rédacteur en chef expert]`.
 > **Requête :** Réécris ce `[texte généré par l'IA]` pour supprimer tous les clichés de l'IA (ex: "Dans un monde en constante évolution...", "Il est important de noter que...") et rends-le plus naturel, direct et humain.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 
@@ -83,7 +83,7 @@ La fatigue de l'IA est le plus grand défi des créateurs de contenu en 2026. Ce
 ## 🙋 Foire Aux Questions (FAQ)
 
 - **Q : Ce prompt fonctionne-t-il aussi bien sur les anciens modèles comme GPT-3.5 ?**
-  - R : Non, les anciens modèles ont trop de mal à abandonner leurs tics de langage. Utilisez au minimum GPT-4o, Claude 3.5 Sonnet ou Gemini 1.5 Pro pour un résultat probant.
+  - R : Non, les anciens modèles ont trop de mal à abandonner leurs tics de langage. Utilisez au minimum GPT-4o, Claude 3.5 Sonnet ou Gemini 2.5 Pro pour un résultat probant.
 
 - **Q : L'IA peut-elle vraiment imiter une "imperfection humaine" ?**
   - R : Pas parfaitement, mais en lui demandant explicitement de varier la longueur des phrases et d'éliminer son propre jargon, le texte devient infiniment plus digeste et passe sous le radar de la plupart des lecteurs fatigués par l'IA.

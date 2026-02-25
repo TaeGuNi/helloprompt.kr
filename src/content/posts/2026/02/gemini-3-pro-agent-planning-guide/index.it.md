@@ -46,7 +46,7 @@ Ideale per abbozzare rapidamente la struttura di un'idea durante una riunione.
 > **Compito:** Basandoti sull'`[Idea]` che ti fornirò, definisci 3 funzionalità essenziali che questo agente AI deve avere e 1 potenziale problema previsto durante lo sviluppo.
 > **Idea:** `[Inserisci qui la descrizione dell'agente che desideri creare]`
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata - Ottimizzata per Deep Think)
 

@@ -40,10 +40,10 @@ Le cœur du SEO (Search Engine Optimization) consiste à trouver le point de ren
 Utilisez cette version pour obtenir un plan rapidement et sans fioritures.
 
 > **Rôle :** Tu es un `[Expert en Marketing de Contenu SEO]`.
->
+
 > **Demande :** Crée-moi un plan d'article de blog optimisé pour le SEO sur le sujet `[Mot-clé]`. Utilise une structure que l'algorithme de Google privilégie.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 
@@ -107,11 +107,11 @@ D'après mon expérience, utiliser ce prompt avec **Claude 3.5 Sonnet** ou **GPT
 
 ### ❌ Avant (Entrée simple)
 
-> Je vais écrire un article pour recommander des applications de dessin sur iPad. Fais-moi une table des matières.
+Je vais écrire un article pour recommander des applications de dessin sur iPad. Fais-moi une table des matières.
 
 _(Résultat typique : Une simple liste de 5 applications sans aucune considération pour les critères de choix, les alternatives gratuites ou les questions fréquentes des internautes.)_
 
-<br>
+\
 
 ### ✅ Après (Résultat avec le prompt Pro)
 

@@ -48,7 +48,7 @@ Use this when you need a quick, standard checklist.
 > **Role:** You are a pharmacist specializing in travel medicine.
 > **Request:** I am traveling abroad. Create a comprehensive checklist for an essential first-aid and emergency medicine kit, categorized by common travel symptoms and situations.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 
@@ -105,7 +105,7 @@ When traveling to regions with different water quality or hygiene standards, "tr
 
 ### ❌ Before (Input)
 
-> What emergency medicine should I pack for travel?
+What emergency medicine should I pack for travel?
 
 _(Returns a generic, unhelpful list like "painkillers, stomach medicine, and bandages" without any actionable specifics.)_
 

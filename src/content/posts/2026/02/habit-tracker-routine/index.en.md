@@ -43,7 +43,7 @@ Use this when you need a simple, actionable routine to start tonight without any
 > **Context:** I am an ordinary office worker, and I'm always too exhausted after work to do anything.
 > **Task:** Create a realistic evening routine schedule that allows me to do a little bit of `[studying English, home workouts, reading]` every day.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

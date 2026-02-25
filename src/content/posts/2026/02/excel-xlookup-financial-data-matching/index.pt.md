@@ -42,7 +42,7 @@ Use este prompt quando precisar apenas de uma resposta rápida da IA.
 > **Papel:** Você é um `[Analista de Dados Senior]` mestre em funções avançadas do Excel.
 > **Solicitação:** Estou com problemas na função `[VLOOKUP/PROCV]`. Quero mudar para a função `[XLOOKUP/PESQUISEX]`. Crie a fórmula correta para o meu caso: `[Descreva o problema brevemente]`.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert Version)
 

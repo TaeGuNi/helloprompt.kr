@@ -42,7 +42,7 @@ Utilisez ce prompt lorsque vous avez besoin de mettre en place rapidement le squ
 > **Rôle :** Tu es un `[Développeur Backend NestJS]`.
 > **Tâche :** Je souhaite créer un `[serveur API basique pour un forum avec NestJS]`. Génère la structure de dossiers de base incluant les modules `User` et `Post`, ainsi que le code de configuration pour `app.module.ts`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

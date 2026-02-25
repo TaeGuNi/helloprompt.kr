@@ -43,7 +43,7 @@ Usala quando hai bisogno di un'idea rapida o di sbloccare la creatività.
 > **Ruolo:** Agisci come un Senior Web Copywriter e UX Writer esperto in conversion rate optimization (CRO).
 > **Richiesta:** Scrivi l'Hero Copy per una landing page di `[il tuo prodotto/servizio]`. L'obiettivo è catturare l'attenzione del visitatore in 3 secondi. Fornisci un Titolo Principale, un Sottotitolo e un pulsante CTA.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

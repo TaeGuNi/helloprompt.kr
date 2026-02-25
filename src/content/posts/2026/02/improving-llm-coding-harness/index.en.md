@@ -40,7 +40,7 @@ Use this when you need a quick script with fundamental validation.
 > **Role:** You are an `[Expert Software Test Engineer]`.
 > **Task:** Fix the `[Python function]` so that it strictly passes the provided `[Test Cases]`. Output only the complete, functional code.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

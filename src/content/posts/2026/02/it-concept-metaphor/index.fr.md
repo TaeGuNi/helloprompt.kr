@@ -42,7 +42,7 @@ Idéal pour obtenir une réponse rapide et intuitive.
 > **Rôle :** Tu es un `[Expert en vulgarisation informatique]`.
 > **Demande :** Explique-moi le concept de `[Terme IT]` en utilisant une métaphore de la vie quotidienne pour qu'un enfant de 10 ans puisse comprendre.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 

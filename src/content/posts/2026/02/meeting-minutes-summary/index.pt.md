@@ -13,7 +13,7 @@ tags: ["회의", "요약", "생산성"]
 
 - **🎯 Público-alvo:** Gestores de projeto, Secretários, Profissionais de Marketing e qualquer pessoa cansada de fazer anotações manuais.
 - **⏱️ Tempo necessário:** 30 minutos → Reduzido para 1 minuto
-- **🤖 Modelos recomendados:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modelos recomendados:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Dificuldade:** ⭐⭐☆☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -45,7 +45,7 @@ Ideal para quando você precisa apenas de um resumo rápido de uma transcrição
 > **Transcrição:**
 > `[Cole a transcrição da sua reunião aqui]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 
@@ -99,7 +99,7 @@ A verdadeira mágica deste prompt não está apenas em resumir texto, mas em **e
   - A: Modelos avançados como GPT-4 e Claude 3.5 são excelentes em entender o contexto. O prompt inclui a instrução "corrija mentalmente pequenos erros", então a IA geralmente consegue deduzir a palavra correta mesmo que o áudio estivesse ruim.
 
 - **Q: Posso usar este prompt para gravações muito longas (ex: 2 horas)?**
-  - A: Sim, mas preste atenção ao limite de tokens do modelo que você está usando. Para reuniões muito longas, o Claude 3.5 Sonnet ou o Gemini 1.5 Pro (que possuem janelas de contexto gigantescas) são as melhores opções.
+  - A: Sim, mas preste atenção ao limite de tokens do modelo que você está usando. Para reuniões muito longas, o Claude 3.5 Sonnet ou o Gemini 2.5 Pro (que possuem janelas de contexto gigantescas) são as melhores opções.
 
 ---
 

@@ -44,7 +44,7 @@ Use this when you are in a rush and need a quick, high-level summary.
 >
 > `[Paste transcript here]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

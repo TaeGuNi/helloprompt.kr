@@ -37,7 +37,7 @@ Usa questa versione quando hai bisogno di una spiegazione rapida per te stesso.
 > **Ruolo:** Sei un esperto di Quantum AI e un divulgatore scientifico.
 > **Richiesta:** Spiegami in modo semplice quali sono le primissime scoperte (early breakthroughs) dell'Intelligenza Artificiale Quantistica e perché sono importanti per il futuro.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Pro)
 

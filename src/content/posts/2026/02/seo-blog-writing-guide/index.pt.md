@@ -53,7 +53,7 @@ Use este prompt quando quiser aumentar a probabilidade de rankeamento de um arti
 > **Corpo do meu artigo:**
 > `[Cole todo o texto que você escreveu aqui]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

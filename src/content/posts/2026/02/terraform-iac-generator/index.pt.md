@@ -45,7 +45,7 @@ Use esta versão para subir recursos de teste rapidamente.
 > **Tarefa (Task):** Escreva o código Terraform para criar o recurso `[Nome do Serviço]` na AWS.
 > **Restrições (Constraints):** Use a versão mais recente do AWS Provider e utilize variáveis (variables) em vez de hardcoding.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Profissional)
 

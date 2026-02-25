@@ -13,7 +13,7 @@ tags: ["Rust", "러스트", "시스템프로그래밍", "백엔드", "WebAssembl
 
 - **🎯 Empfohlen für:** Systementwickler, die ständige Speicherlecks (Segfaults) in C/C++ satt haben; Backend-Ingenieure, die sich nach grenzenloser Performance sehnen.
 - **⏱️ Zeitaufwand:** 20 Minuten (um das Kernkonzept der Ownership zu verstehen)
-- **🤖 Empfohlenes Modell:** Alle konversationsfähigen KI-Modelle (ChatGPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro, etc.)
+- **🤖 Empfohlenes Modell:** Alle konversationsfähigen KI-Modelle (ChatGPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro, etc.)
 
 - ⭐ **Schwierigkeitsgrad:** ⭐⭐⭐⭐⭐
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Verwenden Sie diesen Prompt, wenn Sie die grundlegende Syntax und das Build-Syst
 > **Rolle:** Du bist ein Senior `[Rust-Entwickler]`.
 > **Aufgabe:** Erkläre mir anfängerfreundlich, wie ich mit `[Cargo]` ein neues Projekt erstelle, baue und ausführe. Zeige mir dazu die entsprechenden CLI-Befehle und den Code für eine 'Hello World'-Ausgabe in Rust.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 

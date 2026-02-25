@@ -42,7 +42,7 @@ Verwenden Sie diese Version, wenn Sie sofort ein simples Grundgerüst benötigen
 > **Rolle:** Du bist ein erfahrener UI/UX-Designer und Senior Frontend-Entwickler.
 > **Aufgabe:** Generiere mir den Code für eine `[gewünschte UI, z.B. Profilkarte]` unter Verwendung von `[Tech-Stack, z.B. React und Tailwind]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 
@@ -126,7 +126,7 @@ const ProductCard = ({ image, title, price }) => {
         <button
           className="absolute top-3 right-3 p-2 bg-white/80 backdrop-blur-sm rounded-full text-gray-500 hover:text-red-500 hover:bg-white transition-colors"
           aria-label="Zur Wunschliste hinzufügen"
-        >
+
           <Heart size={20} />
         </button>
       </div>
@@ -142,7 +142,7 @@ const ProductCard = ({ image, title, price }) => {
         <button
           className="w-full bg-gray-900 hover:bg-gray-800 text-white font-medium py-3 px-4 rounded-lg flex items-center justify-center gap-2 transition-colors focus:ring-4 focus:ring-gray-200"
           aria-label={`${title} in den Warenkorb legen`}
-        >
+
           <ShoppingCart size={18} />
           In den Warenkorb
         </button>

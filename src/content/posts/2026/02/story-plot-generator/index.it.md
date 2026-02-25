@@ -13,7 +13,7 @@ tags: ["태그1", "태그2"]
 
 - **🎯 Consigliato per:** Scrittori di web novel, autori in blocco creativo, creatori di storie
 - **⏱️ Tempo impiegato:** 3 ore → 3 minuti
-- **🤖 Modelli consigliati:** ChatGPT (GPT-4), Claude 3 Opus, Gemini 1.5 Pro
+- **🤖 Modelli consigliati:** ChatGPT (GPT-4), Claude 3 Opus, Gemini 2.5 Pro
 
 - ⭐ **Difficoltà:** ⭐⭐☆☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Usa questa versione per ottenere rapidamente un'idea generale o sbloccare l'ispi
 > **Ruolo:** Sei un autore di web novel di successo e un esperto editor.
 > **Richiesta:** Crea una breve sinossi per una web novel di genere `[Inserisci il genere, es. Fantasy romantico]`. Il protagonista è `[Breve descrizione del protagonista]`. Includi un incidente scatenante e un obiettivo principale.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

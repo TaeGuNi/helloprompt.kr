@@ -42,7 +42,7 @@ Verwenden Sie dies, wenn Sie ein schnelles Ergebnis benötigen.
 > **Rolle:** Du bist ein Experte für ATS (Applicant Tracking Systems) und ein professioneller Karriereberater.
 > **Anfrage:** Integriere die wichtigsten Schlüsselwörter aus der folgenden `[Stellenbeschreibung]` natürlich in meinen `[Lebenslauf]`, um ein automatisches Aussortieren durch das ATS zu verhindern.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

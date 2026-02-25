@@ -42,7 +42,7 @@ Ideale per quando hai poco tempo e ti serve un risultato istantaneo.
 > **Ruolo:** Sei un istruttore esperto di meditazione e mindfulness. Usa un tono calmo e rassicurante.
 > **Richiesta:** Scrivi un breve script di meditazione di 3 minuti per aiutarmi a superare `[la mia ansia attuale]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

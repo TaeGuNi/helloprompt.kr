@@ -42,7 +42,7 @@ Utilisez cette version lorsque vous avez besoin de relancer la conversation imm�
 > **Rôle :** Tu es un animateur de soirée diabolique et provocateur.
 > **Requête :** Génère 5 questions de jeu d'équilibre (Tu préfères A ou B ?) totalement absurdes et hilarantes pour briser la glace.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Experte)
 

@@ -52,7 +52,7 @@ Hoy, en lugar de escribir código repetitivo (boilerplate) a mano, te presentamo
 > **Rol:** Eres un desarrollador Senior de TypeScript.
 > **Tarea:** Usando `@modelcontextprotocol/sdk`, escribe el código para un servidor MCP sencillo que cumpla con el siguiente propósito: `[Propósito deseado, ej: proporcionar el clima de una ciudad específica]`.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

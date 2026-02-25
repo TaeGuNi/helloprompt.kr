@@ -42,7 +42,7 @@ Es viernes por la noche, pediste tu comida favorita y te sientas frente al telev
 > **Rol:** Eres un curador de contenido experto, con la misma perspicacia que el mejor crítico de cine.
 > **Solicitud:** Basado en que me encantan las películas de misterio y ciencia ficción con giros inesperados, recomiéndame una película excelente que esté disponible en Netflix en este momento.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -109,7 +109,7 @@ Este prompt funciona de maravilla porque utiliza un enfoque de **triangulación 
 
 ### ❌ Before (Entrada)
 
-> "Recomiéndame una película de ciencia ficción buena en Netflix."
+"Recomiéndame una película de ciencia ficción buena en Netflix."
 
 _(Resultado: La IA arroja una lista genérica y predecible de películas que probablemente ya viste, sin explicar por qué te gustarían, como 'Matrix' o 'Stranger Things')._
 

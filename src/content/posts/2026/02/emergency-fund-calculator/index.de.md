@@ -42,7 +42,7 @@ Nutzen Sie diese Version für eine schnelle und unkomplizierte Berechnung.
 > **Rolle:** Du bist ein erfahrener Experte für finanzielles `[Risikomanagement]`.
 > **Aufgabe:** Berechne den für mich optimalen Notgroschenbetrag, der mich bei `[plötzlicher Arbeitslosigkeit oder Unfällen]` absichert.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

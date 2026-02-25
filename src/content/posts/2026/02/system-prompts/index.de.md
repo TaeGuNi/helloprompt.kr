@@ -39,7 +39,7 @@ Für schnelle, unkomplizierte Aufgaben, bei denen eine klare Rolle ausreicht, um
 > **Rolle:** Du bist ein erfahrener `[Berufsbezeichnung, z.B. Senior Python Entwickler]`.
 > **Aufgabe:** Erledige `[Aufgabe]`. Halte dich kurz, präzise und liefere direkt das Ergebnis ohne Umschweife.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

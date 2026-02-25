@@ -44,11 +44,11 @@ Así como los humanos usamos **párrafos, comillas y signos de puntuación** par
 > **Rol:** Eres un asistente de redacción experto.
 > **Instrucción:** Extrae las 3 ideas principales del siguiente texto.
 > **Texto:**
-> """
-> `[Pega tu texto o artículo aquí]`
-> """
+"""
+`[Pega tu texto o artículo aquí]`
+"""
 
-<br>
+\
 
 ### 🥇 Versión Pro (Estructura Avanzada)
 

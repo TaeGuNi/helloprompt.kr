@@ -37,7 +37,7 @@ Utilisez ceci pour obtenir rapidement les étapes logiques d'un problème.
 > **Rôle :** Tu es un analyste de haut niveau, expert en `[Domaine]`.
 > **Tâche :** Pour résoudre le problème suivant : `[Problème complexe]`, ne tire pas de conclusions hâtives. Détaille et structure minutieusement chaque étape de ton processus de réflexion.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

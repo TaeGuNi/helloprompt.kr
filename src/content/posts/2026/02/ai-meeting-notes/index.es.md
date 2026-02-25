@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "ai-meeting-notes"]
 
 - **🎯 Recomendado para:** Gerentes de proyecto, Scrum Masters, Asistentes ejecutivos, Cualquier profesional que asista a múltiples reuniones
 - **⏱️ Tiempo estimado:** 30 minutos → 2 minutos
-- **🤖 Modelos recomendados:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modelos recomendados:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Dificultad:** ⭐⭐☆☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -40,7 +40,7 @@ Las reuniones son el motor de cualquier empresa, pero documentarlas es una tarea
 > **Tarea:** Toma las siguientes notas crudas de nuestra reunión y redacta un resumen claro destacando los puntos clave y las tareas pendientes.
 > **Notas:** `[Pega aquí tus notas de la reunión]`
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

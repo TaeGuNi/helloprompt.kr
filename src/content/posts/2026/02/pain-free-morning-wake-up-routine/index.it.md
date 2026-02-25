@@ -42,7 +42,7 @@ Ideale quando hai bisogno di un'ispirazione rapida e senza fronzoli.
 > **Ruolo:** Sei un energy coach esperto in routine mattutine.
 > **Richiesta:** Progetta una routine di risveglio di 10 minuti, indolore e scientifica, per una persona che odia la mattina e fa fatica ad alzarsi.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 

@@ -45,7 +45,7 @@ Idéal pour un correctif immédiat ou une explication rapide d'un bug mineur.
 > **Rôle :** Tu es un développeur Senior spécialisé en `[Langage]`.
 > **Requête :** Corrige et optimise ce code. Explique la cause du problème en une seule phrase : `[Insérer le code]`
 
-<br>
+\
 
 ### 🥇 Version Pro (Architecte Logiciel)
 

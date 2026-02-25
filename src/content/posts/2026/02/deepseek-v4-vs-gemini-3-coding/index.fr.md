@@ -62,7 +62,7 @@ Voici les prompts optimisés pour tirer le meilleur parti de ces deux modèles.
 > **Rôle :** Tu es un `[Développeur Backend Senior]`.
 > **Tâche :** Analyse le code suivant et refactorise-le en te concentrant sur les `[vulnérabilités de sécurité et les fuites de mémoire]`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 

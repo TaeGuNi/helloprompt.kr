@@ -42,7 +42,7 @@ Verwenden Sie diesen Prompt, wenn Sie nur ein schnelles, einfaches Ergebnis ohne
 > **Rolle:** Du bist ein erfahrener `[Finanz-Excel-Experte]`.
 > **Anfrage:** Erstelle mir eine Vorlage für einen Darlehenszinsrechner, den ich direkt in Excel aufbauen kann, ohne externe Bankseiten besuchen zu müssen. Erkläre mir die dafür wichtigsten Finanzfunktionen kurz und prägnant.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenmodus)
 
@@ -101,7 +101,7 @@ Dieser Ansatz ist besonders wertvoll, weil Banken in ihren Finanzierungsangebote
 
 ### ❌ Vorher (Einfache Eingabe)
 
-> Wie berechnet man Darlehenszinsen in Excel?
+Wie berechnet man Darlehenszinsen in Excel?
 
 ### ✅ Nachher (Ergebnis durch KI mit unserem Prompt)
 

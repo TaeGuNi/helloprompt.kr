@@ -13,7 +13,7 @@ tags: ["LinkedIn", "Writing", "PersonalBranding", "Viral"]
 
 - **🎯 Public cible :** Développeurs, Marketeurs, Créateurs de contenu, Professionnels du B2B
 - **⏱️ Temps gagné :** De 45 minutes → à 2 minutes
-- **🤖 Modèles recommandés :** Claude 3.5 Sonnet (Recommandé pour l'écriture), GPT-4o, Gemini 1.5 Pro
+- **🤖 Modèles recommandés :** Claude 3.5 Sonnet (Recommandé pour l'écriture), GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **Difficulté :** ⭐⭐☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -43,7 +43,7 @@ Idéal si vous êtes pressé et que vous souhaitez juste un reformatage rapide e
 > **Tâche :** Rédige un post LinkedIn engageant à partir des notes suivantes. Rends-le lisible, ajoute des emojis et termine par une question ouverte.
 > **Notes :** `[Insérez vos notes ici]`
 
-<br>
+\
 
 ### 🥇 Version Pro
 

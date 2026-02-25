@@ -38,7 +38,7 @@ Verwenden Sie diese Version, um Ideen schnell zu skizzieren.
 > **Rolle:** Du bist ein `[auf SVG spezialisierter Frontend-Entwickler]`.
 > **Aufgabe:** Schreibe den perfekten SVG-Code, der einen `[Fahrrad fahrenden Pelikan]` darstellt.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenniveau)
 
@@ -110,16 +110,16 @@ Indem man der KI jedoch die Persona eines 'Experten für mathematische Prinzipie
 
 ```xml
 <svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Neonblauer Himmelshintergrund -->
+  
   <rect width="500" height="500" fill="#0a0a2a"/>
 
-  <!-- Fahrradreifen mit Farbverlauf und Neoneffekt -->
+  
   <circle cx="150" cy="350" r="60" stroke="#00f3ff" stroke-width="6" fill="none"/>
   <circle cx="350" cy="350" r="60" stroke="#ff00e5" stroke-width="6" fill="none"/>
 
-  <!-- Die Silhouette des Pelikans mittels komplexer Bézierkurven (gekürzt) -->
+  
   <path d="M220 200 C..." fill="#ffffff" stroke="#00f3ff" stroke-width="3"/>
-  <!-- Hunderte Zeilen an fehlerfreiem, perfekt renderbarem Vektorcode auf Expertenniveau -->
+  
 </svg>
 ```
 

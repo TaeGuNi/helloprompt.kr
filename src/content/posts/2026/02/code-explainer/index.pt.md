@@ -43,7 +43,7 @@ Use esta versão quando precisar apenas de um panorama rápido e direto.
 > **Tarefa:** Analise o código a seguir e explique seu propósito geral, adicionando comentários elucidativos linha a linha para que um programador iniciante consiga compreendê-lo perfeitamente.
 > **Código:** `[Cole o código aqui]`
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert Version)
 

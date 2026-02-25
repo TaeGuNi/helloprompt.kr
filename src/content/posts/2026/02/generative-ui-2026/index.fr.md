@@ -39,7 +39,7 @@ Idéal pour obtenir rapidement la structure JSON d'un composant dynamique.
 > **Rôle :** Tu es un ingénieur frontend expert en Generative UI.
 > **Requête :** Crée-moi la structure JSON d'un composant `[Nom du composant, ex: Graphique de dépenses]` qui s'affichera dynamiquement en réponse à la requête utilisateur : `[Requête utilisateur]`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

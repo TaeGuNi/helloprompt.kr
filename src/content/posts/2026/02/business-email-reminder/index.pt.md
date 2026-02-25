@@ -43,7 +43,7 @@ Ideal para quando você está com pressa e precisa de um esboço rápido para um
 >
 > **Solicitação:** Escreva um e-mail curto cobrando amigavelmente um parceiro de negócios que não respondeu à minha solicitação de dados há 3 dias. Mantenha um tom profissional, compreensivo, mas firme quanto à urgência.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

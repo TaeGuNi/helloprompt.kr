@@ -47,7 +47,7 @@ Utilisez-la pour vérifier rapidement l'accessibilité d'un bouton ou d'un formu
 > [Collez votre code ici]
 > ```
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 
@@ -120,8 +120,8 @@ Dans un contexte professionnel, lorsque vous développez une boîte de sélectio
 ### ✅ Après (Résultat : Parfaitement adapté au clavier et lecteurs d'écran)
 
 ```html
-<!-- Fournit un alt vide ou aria-hidden pour que le lecteur d'écran ignore l'image purement décorative -->
-<!-- Utilise la balise button qui gère nativement les événements clavier (Entrée/Espace) en plus du clic -->
+
+
 <button type="button" class="submit-btn" onClick="sendData()">
   <img src="send-icon.png" alt="" aria-hidden="true" />
   <span>Envoyer</span>

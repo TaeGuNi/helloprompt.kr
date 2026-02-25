@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "chain-of-thought-reasoning"]
 
 - **🎯 推薦對象：** AI 開發者、提示詞工程師、資料分析師
 - **⏱️ 節省時間：** 解決複雜問題的時間從 60 分鐘 → 縮短至 5 分鐘
-- **🤖 推薦模型：** 所有大型語言模型 (ChatGPT, Claude 3, Gemini 1.5 Pro 等)
+- **🤖 推薦模型：** 所有大型語言模型 (ChatGPT, Claude 3, Gemini 2.5 Pro 等)
 
 - ⭐ **難易度：** ⭐⭐☆☆☆
 - ⚡️ **有效性：** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ tags: ["AI", "Tech", "chain-of-thought-reasoning"]
 > **任務：** 請解決以下問題：`[在此輸入你的複雜問題]`。
 > **指令：** 請務必**一步步地思考 (Let's think step by step)**，並寫下你的推導過程，最後再給出結論。
 
-<br>
+\
 
 ### 🥇 Pro Version (專業版：少樣本思維鏈)
 

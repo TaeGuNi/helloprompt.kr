@@ -46,7 +46,7 @@ Ideal para esboçar rapidamente a estrutura de uma ideia durante uma reunião.
 > **Task:** Com base na `[ideia]` que vou fornecer, liste 3 recursos essenciais que este agente de IA deve ter e 1 problema técnico que podemos enfrentar durante o desenvolvimento.
 > **Idea:** `[Insira a descrição do agente que deseja criar aqui]`
 
-<br>
+\
 
 ### 🥇 Versão Pro (Otimizada para Deep Think)
 

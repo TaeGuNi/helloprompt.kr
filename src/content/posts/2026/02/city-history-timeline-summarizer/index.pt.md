@@ -49,7 +49,7 @@ Ideal para quando você está no aeroporto e precisa de um panorama rápido ante
 >
 > **Pedido:** Crie um resumo cronológico de uma página sobre a história de `[Nome da Cidade]`, destacando os principais eventos e conectando-os aos pontos turísticos atuais.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Professional Version)
 
@@ -110,7 +110,7 @@ A verdadeira magia deste prompt não está apenas em gerar um resumo da Wikipedi
 
 ### ❌ Antes (Entrada Simples)
 
-> "Conte-me a história de Istambul."
+"Conte-me a história de Istambul."
 
 _(Resultado: Textos longos e entediantes parecidos com um livro didático, misturando impérios, sultões e datas sem conexão clara com o que o turista vai realmente ver)._
 

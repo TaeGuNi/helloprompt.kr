@@ -47,7 +47,7 @@ Use this when you need a rapid, high-level ethical assessment of a new concept o
 > **Role:** You are a senior AI Ethics and Compliance Officer.
 > **Task:** Evaluate the following `[AI Feature Description]` for potential ethical risks and basic regulatory compliance (e.g., EU AI Act). Point out any immediate red flags.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

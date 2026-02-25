@@ -48,7 +48,7 @@ Terraforming Mars, Gloomhaven, Ark Nova... O defeito fatal desses jogos de tabul
 > 2. Resuma em ordem as ações que posso realizar na minha vez (Turno).
 > 3. Aponte os 3 erros de regras mais comuns que as pessoas cometem na primeira partida.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version) {#pdf}
 

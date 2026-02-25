@@ -42,7 +42,7 @@ Il salto più significativo nell'ecosistema Wasm è stata la maturità del **Was
 
 Il cuore di questo modello è l'abbattimento delle barriere linguistiche. Una logica di business scritta in Rust, un gestore di rete in Go e un modulo di elaborazione dati in Python possono comunicare fluidamente senza essere compilati in un unico binario massiccio.
 
-> Questo riduce drasticamente il complesso overhead delle chiamate di rete tipico delle architetture a microservizi. Gli sviluppatori possono ora concentrarsi sulle "interfacce tra componenti" piuttosto che sull'infrastruttura di "comunicazione tra servizi".
+Questo riduce drasticamente il complesso overhead delle chiamate di rete tipico delle architetture a microservizi. Gli sviluppatori possono ora concentrarsi sulle "interfacce tra componenti" piuttosto che sull'infrastruttura di "comunicazione tra servizi".
 
 ### 🥇 Il Partner Ideale per Serverless ed Edge Computing
 

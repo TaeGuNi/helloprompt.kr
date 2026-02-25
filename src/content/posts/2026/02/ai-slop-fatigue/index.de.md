@@ -41,7 +41,7 @@ Nutzen Sie diesen Prompt, wenn Sie einen bestehenden, roboterhaft klingenden Tex
 > **Rolle:** Du bist ein erfahrener Redakteur und Anti-KI-Slop-Experte.
 > **Aufgabe:** Schreibe den folgenden `[Text]` komplett um. Entferne alle typischen KI-Phrasen (wie "Zusammenfassend lässt sich sagen", "Tauchen wir ein", "bahnbrechend"). Schreibe stattdessen in einem natürlichen, leicht konversationsartigen Ton, als würdest du es einem Kollegen bei einem Kaffee erklären. Nutze kurze Sätze und echte, nachvollziehbare Beispiele.
 
-<br>
+\
 
 ### 🥇 Pro Version (Der Meister-Prompt)
 

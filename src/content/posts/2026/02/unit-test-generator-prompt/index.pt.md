@@ -43,7 +43,7 @@ Ideal para funções simples e utilitárias onde você só precisa do código de
 > **Solicitação:** Escreva testes unitários cobrindo todos os cenários possíveis para a função a seguir usando `[Framework desejado, ex: Jest]`.
 > **Código:** `[Cole seu código aqui]`
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert Version)
 

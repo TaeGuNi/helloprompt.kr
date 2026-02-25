@@ -38,7 +38,7 @@ Usa questa versione quando hai bisogno di una panoramica immediata per comprende
 > **Ruolo:** Sei un `[Analista di Mercato Tech Senior]`.
 > **Azione:** Analizza il successo di `[Occhiali Smart Meta]`, spiegando in dettaglio perché stanno superando `[i visori VR/MR ingombranti]`. Fornisci i punti chiave del loro vantaggio competitivo.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Analisi Dettagliata)
 

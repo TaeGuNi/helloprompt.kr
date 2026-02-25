@@ -40,7 +40,7 @@ Use this when you need a quick conceptual blend.
 > **Role:** You are an expert art historian and digital artist.
 > **Task:** Create an image of `[Subject, e.g., Shin Yun-bok's Portrait of a Beauty]` painted exactly in the style of `[Artist, e.g., Claude Monet]`.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

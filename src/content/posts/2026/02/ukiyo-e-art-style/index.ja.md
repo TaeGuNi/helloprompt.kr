@@ -42,7 +42,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Traditional"]
 > **役割 (Role):** あなたは江戸時代の天才浮世絵師です。
 > **要求 (Task):** `[描きたい被写体、例：富士山と巨大な猫]` を、日本独自の美学である浮世絵（Ukiyo-e）スタイルで描画するための画像生成プロンプトを作成してください。
 
-<br>
+\
 
 ### 🥇 Pro Version (専門家形)
 

@@ -39,7 +39,7 @@ Use this when you quickly need to outline the logical framework of an idea.
 > **Role:** You are a `[Expertise]`.
 > **Task:** Explain the core business logic and potential risks for `[New Service Idea]` in 3 steps.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

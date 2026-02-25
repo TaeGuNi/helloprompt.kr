@@ -37,7 +37,7 @@ Usala quando hai bisogno di individuare rapidamente le aree di miglioramento del
 > **Ruolo:** Sei un `[Core Contributor di Rust 2026]`.
 > **Azione:** Ottimizza questo `[vecchio codice Rust]` allineandolo ai più recenti standard asincroni del 2026.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Esperto)
 

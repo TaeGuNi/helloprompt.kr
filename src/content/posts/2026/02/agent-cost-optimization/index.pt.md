@@ -17,7 +17,7 @@ tags:
 
 - **🎯 Recomendado para:** Desenvolvedores de Agentes de IA Autônomos, Engenheiros focados em Otimização de Custos, CTOs de Startups
 - **⏱️ Tempo Estimado:** 10 minutos para ajustar prompts → Economia de centenas de dólares por mês
-- **🤖 Modelos Recomendados:** Modelos tarifados por token como GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modelos Recomendados:** Modelos tarifados por token como GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Dificuldade:** ⭐⭐⭐☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -55,7 +55,7 @@ Use esta versão para reduzir a "taxa de enrolação (Fluff Tax)" gerada durante
 > - É estritamente proibido incluir saudações amigáveis ou explicações adicionais como "Iniciarei a análise" ou "Os resultados são os seguintes".
 > - Produza exclusivamente o resultado da análise e a ação solicitada.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

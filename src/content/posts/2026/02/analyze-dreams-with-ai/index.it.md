@@ -44,7 +44,7 @@ Utilizzala quando vuoi un'analisi immediata senza troppi dettagli.
 > **Ruolo:** Sei un esperto analista dei sogni.
 > **Richiesta:** Interpreta questo sogno che ho fatto stanotte: `[Descrizione del sogno]`. Spiegami il significato psicologico dei simboli principali.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

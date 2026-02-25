@@ -44,7 +44,7 @@ Verwenden Sie diesen Prompt, um komplexen Notebook-Code schnell in eine Kubeflow
 > **Bedingungen:** Definiere die Typen der Argumente und Rückgabewerte (Return) der Funktion klar und binde alle benötigten Bibliotheken als `import`-Anweisungen innerhalb der Funktion ein.
 > **Code:** `[Füge hier deinen Vorverarbeitungs-Code ein]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Für den gesamten Workflow)
 

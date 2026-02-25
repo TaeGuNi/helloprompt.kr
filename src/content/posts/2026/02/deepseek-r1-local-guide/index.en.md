@@ -54,7 +54,7 @@ Perfect for standard laptops (e.g., M1/M2 MacBook Air) with limited RAM. First, 
 > **Code:**
 > `[Insert Code Here]`
 
-<br>
+\
 
 ### 🥇 Pro Version
 

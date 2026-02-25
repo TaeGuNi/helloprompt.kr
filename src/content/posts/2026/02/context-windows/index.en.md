@@ -41,7 +41,7 @@ Use this quick reset when you sense the AI is starting to lose track of the conv
 > **Role:** You are a highly efficient project manager.
 > **Task:** Summarize the key requirements, decisions made, and the current state of our work so far. Exclude all conversational filler.
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -85,7 +85,7 @@ By treating the context window as a finite, depletable resource, you take back c
 - **Q: Exactly how many words is a "token"?**
   - A: As a general rule of thumb, 1,000 tokens equal about 750 English words. However, this varies heavily by language. For languages like Korean, Japanese, or Chinese, a single character or word might consume significantly more tokens compared to English due to how the AI tokenizes non-Latin scripts.
 
-- **Q: Models like Gemini 1.5 Pro have a 1-million token window. Do I still need to use this strategy?**
+- **Q: Models like Gemini 2.5 Pro have a 1-million token window. Do I still need to use this strategy?**
   - A: Surprisingly, yes. While massive context windows are incredible—allowing you to upload entire codebases or novels—AI models can still suffer from "Lost in the Middle" syndrome. This is where they struggle to retrieve specific facts buried deep in the middle of a massive prompt. Keeping your active context clean and resetting when necessary still yields the highest, most accurate output quality.
 
 - **Q: Can I automate this reset process?**

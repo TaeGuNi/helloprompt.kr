@@ -42,7 +42,7 @@ Idéale pour une urgence absolue en pleine partie.
 > **Rôle :** Tu es un Maître de Jeu vétéran, expert en improvisation.
 > **Requête :** Crée-moi instantanément un PNJ `[Garde de la ville]`. Donne-lui un nom, une apparence marquante, un trait de personnalité et un petit secret. Reste très concis.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 
@@ -105,7 +105,7 @@ En tant que MJ de longue date, le plus grand défi de l'improvisation n'est pas 
 
 ### ❌ Avant (Entrée)
 
-> Fais-moi un forgeron nain pour mon jeu de rôle.
+Fais-moi un forgeron nain pour mon jeu de rôle.
 
 _(L'IA génère 4 paragraphes d'histoire denses sur son enfance dans les montagnes, totalement impossibles à lire en pleine partie)_
 

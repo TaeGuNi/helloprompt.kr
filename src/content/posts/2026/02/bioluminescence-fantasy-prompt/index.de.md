@@ -43,7 +43,7 @@ Verwenden Sie diesen Prompt, wenn Sie schnelle, aber dennoch beeindruckende Erge
 > **Aufgabe:** Erstelle ein Bild eines magischen, dunklen Waldes.
 > **Schlüsselwort:** Integriere biolumineszierende Pflanzen und leuchtende Pilze (`Bioluminescence`).
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Prompt)
 

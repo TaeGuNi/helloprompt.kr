@@ -42,7 +42,7 @@ Verwenden Sie diese Version, wenn Sie schnell ein solides Grundgerüst für Ihr 
 > **Rolle:** Du bist ein erfahrener YouTube-Produzent mit Kanälen von über einer Million Abonnenten.
 > **Anfrage:** Strukturiere ein YouTube-Videoskript zum Thema `[Dein Thema]`. Achte darauf, dass Zuschauer in den ersten 5 Sekunden gefesselt werden und bis zum Ende bleiben.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

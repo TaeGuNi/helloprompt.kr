@@ -44,7 +44,7 @@ En lugar de sufrir, simplemente explícale la situación a la IA. Te devolverá 
 > **Rol:** Eres un Desarrollador Senior bilingüe experto en Clean Code.
 > **Solicitud:** Necesito un nombre para `[explica brevemente para qué sirve la variable o función]`. Recomiéndame 3 opciones en inglés usando `[camelCase / snake_case]` y elige la mejor.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

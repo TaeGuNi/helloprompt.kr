@@ -42,7 +42,7 @@ Verwenden Sie diese Version, wenn Sie nur eine schnelle Empfehlung benötigen.
 > **Rolle:** Du bist Informatikprofessor und Experte für Algorithmen.
 > **Anfrage:** Ich bin unsicher, welche Datenstruktur ich für `[Ihren Anwendungsfall]` verwenden soll. Empfiehl mir die optimale Struktur, die perfekt zu dieser Situation passt.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

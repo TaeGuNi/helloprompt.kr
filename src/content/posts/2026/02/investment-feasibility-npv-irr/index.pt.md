@@ -42,7 +42,7 @@ Use esta versão quando precisar apenas das fórmulas diretas sem muita explica�
 > **Papel:** Você é um `[Especialista em Modelagem Financeira]`.
 > **Solicitação:** Devo investir neste negócio? Explique-me como calcular facilmente o Valor Presente Líquido (VPL) e a Taxa Interna de Retorno (TIR) no Excel, pois são indicadores-chave para decisões de investimento.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Especialista)
 

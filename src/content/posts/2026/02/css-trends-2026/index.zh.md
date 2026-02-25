@@ -12,7 +12,7 @@ tags: ["CSS", "Frontend", "Design"]
 
 - **🎯 推荐对象：** 前端工程师、React 开发者、UI/UX 工程师
 - **⏱️ 节省时间：** 手动重构 1 小时 → AI 自动转换 1 分钟
-- **🤖 推荐模型：** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 推荐模型：** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **难度：** ⭐⭐⭐☆☆
 - ⚡️ **效率：** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ tags: ["CSS", "Frontend", "Design"]
 >
 > **任务：** 请将以下 `[CSS-in-JS / 旧版 CSS]` 代码重构为结合了 **Tailwind CSS v5** 和 **CSS 原生嵌套 (Native Nesting)** 的现代写法。移除所有不必要的运行时依赖。
 
-<br>
+\
 
 ### 🥇 Pro Version (专家版)
 
@@ -142,7 +142,7 @@ export default function MyComponent({ isError }) {
     <div
       className="bg-white p-4 rounded-lg hover:shadow-md transition-shadow"
       style={{ "--title-color": isError ? "red" : "black" }}
-    >
+
       <h2 className="text-xl font-bold text-[color:var(--title-color)]">
         Hello World
       </h2>

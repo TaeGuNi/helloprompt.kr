@@ -42,7 +42,7 @@ Verwenden Sie dies, wenn Sie unter Zeitdruck stehen und nur ein schnelles Ergebn
 > **Rolle:** Du bist ein leitender DBA (Datenbankadministrator) mit 20 Jahren Erfahrung und ein absoluter Experte für SQL-Tuning.
 > **Anfrage:** Optimiere die folgende langsame SQL-Abfrage und schlage notwendige Indizes vor: `[Ihre SQL-Abfrage hier einfügen]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

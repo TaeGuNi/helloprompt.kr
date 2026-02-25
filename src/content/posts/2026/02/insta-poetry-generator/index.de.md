@@ -42,7 +42,7 @@ Nutze diese Variante, wenn du nur eine schnelle Inspiration ohne viele Vorgaben 
 > **Rolle:** Du bist ein gefühlvoller Essayist und Poet mit Hunderttausenden von Followern auf Instagram.
 > **Aufgabe:** Schreibe ein extrem kurzes, emotionales Gedicht über `[Thema]`, das innerhalb von 10 Sekunden gelesen werden kann und stark zum Teilen und Liken anregt.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenmodus)
 

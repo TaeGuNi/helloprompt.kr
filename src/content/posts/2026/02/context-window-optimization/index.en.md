@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "context-window-optimization"]
 
 - **🎯 Target Audience:** AI Engineers, Prompt Designers, Backend Developers
 - **⏱️ Time Saved:** 5 hours of debugging → 10 minutes of structural design
-- **🤖 Recommended Model:** Claude 3.5 Sonnet, Gemini 1.5 Pro, GPT-4o
+- **🤖 Recommended Model:** Claude 3.5 Sonnet, Gemini 2.5 Pro, GPT-4o
 
 - ⭐ **Difficulty:** ⭐⭐⭐☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Use this when you need a fast analysis of a large, single-domain document or a f
 > **Task:** Analyze the provided codebase and identify performance bottlenecks.
 > **Context:** The entire application code is wrapped strictly within the `<codebase>` tags below. Do not reference outside concepts unless explicitly asked.
 
-<br>
+\
 
 ### 🥇 Pro Version (The Master Architect)
 

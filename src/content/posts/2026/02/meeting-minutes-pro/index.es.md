@@ -44,7 +44,7 @@ Lograste obtener la transcripción usando herramientas de voz a texto como Zoom,
 > 
 > `[Pega aquí la transcripción de la reunión]`
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 
@@ -114,13 +114,13 @@ Este prompt es mi 'arma secreta' que utilizo a diario, integrada directamente en
 
 ### ❌ Antes (Entrada: Transcripción cruda)
 
-> "Ah, oye Carlos, sobre eso... los diseños del banner principal, ¿los tienes para esta semana? Ah, por cierto, ¿qué vamos a comer hoy? (risas) En fin, eso es importante, así que por favor trata de cumplir con la fecha..."
+"Ah, oye Carlos, sobre eso... los diseños del banner principal, ¿los tienes para esta semana? Ah, por cierto, ¿qué vamos a comer hoy? (risas) En fin, eso es importante, así que por favor trata de cumplir con la fecha..."
 
 ### ✅ Después (Resultado: Informe resumido por la IA)
 
 > **🏃‍♂️ Tareas Asignadas (Action Items)**
->
-> - [ ] **Carlos**: Creación y diseño del banner principal (Fecha límite: Se espera para este viernes) _※ Alta importancia_
+
+- [ ] **Carlos**: Creación y diseño del banner principal (Fecha límite: Se espera para este viernes) _※ Alta importancia_
 
 ---
 

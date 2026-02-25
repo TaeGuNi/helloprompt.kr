@@ -48,7 +48,7 @@ Usala quando hai bisogno di informazioni essenziali e veloci prima di una riunio
 > **Ruolo:** Sei un "Consulente Aziendale Internazionale" con 20 anni di esperienza.
 > **Richiesta:** Spiegami brevemente l'etichetta aziendale essenziale per un incontro di lavoro in `[Nome Paese]`, concentrandoti su saluti, scambio di biglietti da visita e argomenti da evitare assolutamente.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 
@@ -108,7 +108,7 @@ Prepararsi per un incontro internazionale richiede molto più che conoscere la l
 
 ### ❌ Before (Input)
 
-> "Dimmi le buone maniere aziendali cinesi."
+"Dimmi le buone maniere aziendali cinesi."
 
 _(Risultato scarso: Un elenco Wikipedia generico e poco strutturato, che non considera il ruolo della controparte o lo scopo dell'incontro, risultando inutile per una trattativa reale)._
 

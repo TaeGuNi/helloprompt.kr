@@ -44,7 +44,7 @@ Ideale per testare rapidamente la tenuta logica delle tue argomentazioni tramite
 > **Contesto:** Sono un Digital Marketer con 3 anni di esperienza. Il mio stipendio precedente era di 40.000€. Attualmente sto richiedendo una RAL di 50.000€.
 > **Richiesta:** Quando ti presento la mia richiesta di 50.000€, devi contestarla aspramente. Sii meticoloso, solleva dubbi sul mio effettivo valore e cerca di mettermi in difficoltà con obiezioni logiche. Lasciami senza parole.
 
-<br>
+\
 
 ### 🥇 Pro Version (Modello Esperto)
 
@@ -71,7 +71,7 @@ Per la massima efficacia, attiva la **Modalità Vocale (icona delle cuffie)** su
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 Il vero terrore della negoziazione salariale deriva dall'ignoto: non sappiamo quali obiezioni solleverà il recruiter. Utilizzare l'IA in questo modo ribalta la dinamica di potere. Abituandoti a sentirti dire "sei troppo costoso" o "non abbiamo questo budget" da un'IA implacabile, desensibilizzi la tua risposta emotiva al rifiuto.
 
@@ -79,7 +79,7 @@ Nella mia esperienza, i candidati che provano la Modalità Vocale anche solo per
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q: Questo prompt funziona anche con la versione gratuita di ChatGPT?**
   - A: Assolutamente sì. La versione testuale (Basic) funziona benissimo su GPT-3.5 o GPT-4o-mini. Tuttavia, per la simulazione vocale avanzata (Pro), raccomando l'app mobile con le funzionalità vocali di GPT-4o per un realismo ineguagliabile.

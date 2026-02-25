@@ -42,7 +42,7 @@ Use este prompt quando precisar de uma pausa rápida e sem complicação.
 > **Papel:** Você é um instrutor experiente de meditação e conselheiro especializado em relaxamento. Mantenha um tom reconfortante, sereno e acolhedor.
 > **Solicitação:** Crie um roteiro de meditação guiada de 3 minutos adequado para a minha situação atual de `[coração acelerado antes de uma reunião]` no `[escritório]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Profissional)
 
@@ -104,7 +104,7 @@ A verdadeira mágica deste prompt não está em simplesmente "pedir uma meditaç
 
 ### ❌ Antes (Entrada Simples)
 
-> "Escreva um texto de meditação para me acalmar."
+"Escreva um texto de meditação para me acalmar."
 
 _(A IA gera um texto longo, poético e genérico sobre rios fluindo e luzes douradas, o que não cria uma conexão com o pico de ansiedade de um ambiente corporativo)._
 

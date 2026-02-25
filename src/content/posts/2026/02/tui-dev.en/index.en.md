@@ -38,7 +38,7 @@ Use when you just need the skeleton and layout of a TUI app quickly.
 > **Role:** You are a senior `[Go/Rust/Python/Node.js]` developer and a TUI (Text User Interface) design expert.
 > **Task:** Write the basic scaffolding code for a TUI application intended for `[App Purpose]` using `[Language and Framework]`. The layout must feature a sidebar on the left and a main viewport on the right.
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -98,7 +98,7 @@ This prompt was engineered to let AI overcome the highest hurdles in TUI develop
 
 ### ❌ Before (The Old Way)
 
-> Endless, scrolling, monochrome text logs with terrible readability.
+Endless, scrolling, monochrome text logs with terrible readability.
 
 ```text
 [INFO] Starting server on port 8080...
@@ -109,7 +109,7 @@ This prompt was engineered to let AI overcome the highest hurdles in TUI develop
 
 ### ✅ After (The AI-Generated Result)
 
-> An interactive TUI dashboard built upon the AI-scaffolded foundation.
+An interactive TUI dashboard built upon the AI-scaffolded foundation.
 
 ```text
 ╭─ Services ────────────────╮ ╭─ Live Logs: Server Alpha ───────────────────╮

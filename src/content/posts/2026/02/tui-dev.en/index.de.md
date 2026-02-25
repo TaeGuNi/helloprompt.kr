@@ -38,7 +38,7 @@ Verwenden Sie diesen Prompt, wenn Sie nur schnell das Grundgerüst und das Layou
 > **Rolle:** Du bist ein Senior `[Go/Rust/Python/Node.js]`-Entwickler und Experte für TUI (Text User Interface) Design.
 > **Aufgabe:** Schreibe den grundlegenden Scaffolding-Code für eine TUI-Anwendung mit dem Ziel `[Zweck der App]` unter Verwendung von `[Sprache & Framework]`. Die Struktur muss aus einer Seitenleiste auf der linken Seite und einem Haupt-Viewport auf der rechten Seite bestehen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Der Experten-Modus)
 
@@ -98,7 +98,7 @@ Dieser Prompt wurde mit der klaren Absicht entworfen, der KI die größten Hürd
 
 ### ❌ Vorher (Der alte Weg)
 
-> Ein endlos scrollender, schwer lesbarer, einfarbiger Text-Log.
+Ein endlos scrollender, schwer lesbarer, einfarbiger Text-Log.
 
 ```text
 [INFO] Starting server on port 8080...
@@ -109,7 +109,7 @@ Dieser Prompt wurde mit der klaren Absicht entworfen, der KI die größten Hürd
 
 ### ✅ Nachher (Das Ergebnis)
 
-> Ein interaktives TUI-Dashboard, basierend auf dem von der KI generierten Scaffolding.
+Ein interaktives TUI-Dashboard, basierend auf dem von der KI generierten Scaffolding.
 
 ```text
 ╭─ Services ────────────────╮ ╭─ Live Logs: Server Alpha ───────────────────╮

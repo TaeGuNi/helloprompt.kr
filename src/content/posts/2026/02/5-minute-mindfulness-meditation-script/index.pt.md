@@ -42,7 +42,7 @@ Use esta versão quando precisar de alívio rápido e imediato, sem tempo para c
 > **Papel:** Você é um instrutor sênior de meditação mindfulness com uma voz extremamente suave, compassiva e acolhedora.
 > **Pedido:** Não preciso pagar por um aplicativo de meditação. Escreva um guia de meditação de 5 minutos, perfeitamente adaptado à minha situação atual e às emoções que estou sentindo agora.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 
@@ -104,7 +104,7 @@ Se você estiver usando o Claude ou Gemini no computador, pode gerar o texto e c
 
 ### ❌ Before (Entrada Simples)
 
-> "Escreva um texto de meditação para me acalmar antes da minha apresentação."
+"Escreva um texto de meditação para me acalmar antes da minha apresentação."
 
 _(Resultado: Um bloco de texto denso, abstrato e sem ritmo. "Relaxe. Pense em coisas boas. A vida é bela e você vai se sair bem. Respire fundo e elimine os pensamentos negativos.")_
 

@@ -45,7 +45,7 @@ Use this when you need a rapid, baseline draft to build upon.
 >
 > **Input:** `[Insert JD here]` | `[Insert your brief background here]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Tailoring)
 

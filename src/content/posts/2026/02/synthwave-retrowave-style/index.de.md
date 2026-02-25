@@ -42,7 +42,7 @@ Verwenden Sie diese Version, wenn Sie schnell und unkompliziert ein typisches 80
 > **Rolle:** Du bist ein erfahrener Digital-Künstler.
 > **Anfrage:** Erstelle einen Synthwave-Kunst-Prompt mit 80er-Neon-Nostalgie, Palmensilhouetten und einem leuchtenden Gitterboden.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

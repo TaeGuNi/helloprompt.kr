@@ -42,7 +42,7 @@ Use this when you're in a rush and just need a quick, high-level understanding.
 > **Role:** You are a `[Friendly Senior Developer Mentor]`.
 > **Task:** Please explain the following `[Programming Language]` code block so that a complete beginner can understand it. Break down what it does line by line.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

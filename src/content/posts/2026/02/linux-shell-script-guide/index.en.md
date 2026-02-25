@@ -42,7 +42,7 @@ Use this when you need a quick script to organize a messy desktop or downloads f
 > **Role:** You are a `[Linux System Engineer with 10 years of experience]`.
 > **Task:** Write a `[shell script that automatically categorizes files in the ~/Downloads folder by extension, creates subfolders (e.g., Images for jpg, Docs for pdf), and moves the files accordingly]`. Also, explain how to grant execution permissions to this script.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

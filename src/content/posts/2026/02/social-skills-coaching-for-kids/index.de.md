@@ -42,7 +42,7 @@ Verwenden Sie diesen Prompt, wenn Sie sofortige, unkomplizierte Ratschläge ben�
 > **Rolle:** Du bist ein erfahrener Kinderpsychologe und Experte für soziale Entwicklung.
 > **Aufgabe:** Gib mir konkrete Ratschläge, wie ich ein Kind trösten und coachen kann, das von Gleichaltrigen beim Spielen abgewiesen wurde.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für tiefgehende Analysen)
 

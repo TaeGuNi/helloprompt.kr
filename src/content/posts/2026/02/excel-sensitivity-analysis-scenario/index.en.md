@@ -42,7 +42,7 @@ Use this when you need a rapid, straightforward result.
 > **Role:** You are a `[Financial Modeling Expert]` in a strategic planning department.
 > **Request:** Explain how to use Excel's Data Table function to calculate dozens of scenarios at once. Specifically, I want to know how much our operating profit decreases if the exchange rate rises by 10%.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

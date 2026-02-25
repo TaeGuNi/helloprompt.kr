@@ -5,9 +5,6 @@ date: 2026-02-20
 pubDate: 2026-02-20
 description: " \"Googleの新しいLangExtractライブラリを活用し、LLMから正確にJSONや構造化データを抽出する実践的な手法を解説します。\""
 author: "Hello Prompt"
-image:
-  url: "https://docs.astro.build/assets/full-logo-light.png"
-  alt: "Google LangExtract Logo"
 tags: ["Google", "LLM", "Data Extraction", "Python", "AI"]
 ---
 
@@ -15,7 +12,7 @@ tags: ["Google", "LLM", "Data Extraction", "Python", "AI"]
 
 - **🎯 おすすめの対象:** バックエンドエンジニア、データエンジニア、AIプロダクト開発者
 - **⏱️ 所要時間:** 3時間 → 10分に短縮
-- **🤖 推奨モデル:** Gemini 1.5 Pro / Flash
+- **🤖 推奨モデル:** Gemini 2.5 Pro / Flash
 
 - ⭐ **難易度:** ⭐⭐⭐☆☆
 - ⚡️ **効果性:** ⭐⭐⭐⭐⭐
@@ -46,7 +43,7 @@ tags: ["Google", "LLM", "Data Extraction", "Python", "AI"]
 > **役割:** あなたは優秀なデータ抽出アシスタントです。
 > **指示:** 以下の入力テキストから会議の情報を抽出し、必ず有効なJSON形式のみで出力してください。挨拶文やMarkdownのコードブロック（\`\`\`json など）は絶対に含めないでください。
 
-<br>
+\
 
 ### 🥇 Pro Version (専門家型)
 
@@ -115,7 +112,7 @@ tags: ["Google", "LLM", "Data Extraction", "Python", "AI"]
   - A: 現時点では、LangExtractはGoogleのエコシステムに最適化されたライブラリです。OpenAIのモデルを使用する場合は、OpenAI APIがネイティブで提供している `response_format={ "type": "json_schema" }` (Structured Outputs機能) や、`Instructor` といった外部ライブラリの使用を推奨します。
 
 - **Q: 抽出対象のテキストが非常に長い場合でも正常に機能しますか？**
-  - A: はい、問題なく機能します。Gemini 1.5 Proは最大200万トークンの巨大なコンテキストウィンドウを持つため、長大なPDFドキュメントや複数スレッドに渡るメールのやり取りからでも、必要な情報を正確に抽出することが可能です。
+  - A: はい、問題なく機能します。Gemini 2.5 Proは最大200万トークンの巨大なコンテキストウィンドウを持つため、長大なPDFドキュメントや複数スレッドに渡るメールのやり取りからでも、必要な情報を正確に抽出することが可能です。
 
 ---
 

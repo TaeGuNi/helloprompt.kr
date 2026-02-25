@@ -42,7 +42,7 @@ Verwenden Sie dies für ein schnelles, solides Grundgerüst.
 > **Rolle:** Du bist ein `[Experte für SEO & Content-Marketing]`.
 > **Aufgabe:** Erstelle eine SEO-optimierte Blog-Gliederung zum Thema `[Dein Thema]`, die perfekt auf die Google-Suchkriterien abgestimmt ist.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 

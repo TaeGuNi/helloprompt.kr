@@ -47,7 +47,7 @@ Use isso quando quiser rodar uma IA no seu computador instantaneamente, sem comp
 > ollama run llama3
 > ```
 
-<br>
+\
 
 ### 🥇 Versão Pro (Profissional)
 

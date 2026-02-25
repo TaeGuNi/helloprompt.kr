@@ -42,7 +42,7 @@ Use this when you are completely exhausted and just need a quick, reliable stret
 > **Role:** You are a specialized rehabilitation trainer for elite marathon runners.
 > **Request:** I just finished a run. Provide a quick, 5-minute cool-down stretching routine to prevent injury and drastically reduce delayed onset muscle soreness (DOMS) for tomorrow.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Detail)
 

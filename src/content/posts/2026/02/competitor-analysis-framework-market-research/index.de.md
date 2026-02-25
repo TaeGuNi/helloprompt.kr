@@ -42,7 +42,7 @@ Verwenden Sie diese Version, wenn Sie nur einen schnellen Überblick benötigen.
 > **Rolle:** Du bist ein erfahrener Marktforschungsanalyst.
 > **Anfrage:** Analysiere die Stärken und Schwächen von `[Wettbewerber-Name]` und nenne mir drei konkrete Punkte, die wir für `[Mein Produkt/Service]` benchmarken können.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenmodus)
 

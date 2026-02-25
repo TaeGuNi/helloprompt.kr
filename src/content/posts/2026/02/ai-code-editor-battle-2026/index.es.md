@@ -73,7 +73,7 @@ Este es el prompt más básico para solicitar la implementación de funciones si
 >
 > **Instrucción:** Soluciona `[el problema o la función a añadir]` en el archivo `[nombre_del_archivo]` que está abierto actualmente. Escribe el código respetando estrictamente la comprobación de tipos de TypeScript y las convenciones de Tailwind CSS.
 
-<br>
+\
 
 ### 🥇 Pro Version (Para refactorización de arquitectura en Windsurf / OpenClaw)
 

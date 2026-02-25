@@ -57,7 +57,7 @@ Use this when you need to quickly apply caching to simple read APIs. It generate
 > - Explicitly implement the logic to fetch from the DB and save to Redis upon a Cache Miss.
 > - You MUST include error handling: if the Redis connection fails, the system must gracefully fall back to querying the DB normally without crashing.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

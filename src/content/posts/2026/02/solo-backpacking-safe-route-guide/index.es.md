@@ -40,10 +40,10 @@ Viajar en solitario es, sin duda, una de las experiencias más transformadoras d
 Ideal para obtener sugerencias rápidas sin entrar en demasiados detalles.
 
 > **Rol:** Eres un 'Viajero Solitario Experto' con años de experiencia recorriendo el mundo con una mochila.
->
+
 > **Solicitud:** Necesito una guía de viaje en solitario. Crea un itinerario que priorice mi seguridad, ajuste mi presupuesto y me ofrezca oportunidades para conocer a otros viajeros.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Recomendada)
 
@@ -104,7 +104,7 @@ Planificar un viaje en solitario requiere equilibrar la espontaneidad con la pre
 
 ### ❌ Antes (Entrada simple)
 
-> Recomienda un itinerario para viajar de mochilero por Bogotá durante 5 días.
+Recomienda un itinerario para viajar de mochilero por Bogotá durante 5 días.
 
 _(Resultado: La IA ofrece una lista genérica de puntos turísticos sin advertir sobre precauciones nocturnas, uso de aplicaciones de transporte seguras, ni lugares idóneos para cenar a solas sin sentirse expuesto.)_
 

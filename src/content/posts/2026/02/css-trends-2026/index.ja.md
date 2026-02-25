@@ -41,7 +41,7 @@ tags: ["CSS", "Frontend", "Design"]
 > **役割:** あなたは優秀なフロントエンドエンジニアです。
 > **タスク:** 以下の `[レガシーなSass/CSS-in-JSコード]` を、ビルドツール不要のブラウザネイティブなCSSネスティング記法に変換し、不要なランタイムを取り除いてください。
 
-<br>
+\
 
 ### 🥇 Pro Version（専門家型）
 
@@ -138,7 +138,7 @@ Tailwind v5の恩恵を最大限に引き出し、パフォーマンスと保守
 ### ✅ After (出力: 最新のTailwind v5 + ネイティブCSS)
 
 ```html
-<!-- HTML: レイアウトと基本スタイルはTailwindで処理 -->
+
 <div class="profile-card bg-white p-6 rounded-lg">
   <img src="avatar.jpg" class="w-16 h-16 rounded-full" alt="Avatar" />
 </div>

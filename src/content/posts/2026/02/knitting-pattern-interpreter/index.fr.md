@@ -40,18 +40,18 @@ tags: ["뜨개질", "코바늘", "대바늘", "도안해석", "DIY"]
 À utiliser pour transformer rapidement un patron textuel en anglais en instructions rédigées en français.
 
 > **Rôle (Role) :** Tu es un(e) `[Maître Tricoteur/euse]` amical(e) avec 20 ans d'expérience en tricot et crochet.
->
-> **Tâche (Task) :**
-> Traduis le patron de tricot en anglais suivant en instructions détaillées en français, faciles à comprendre même pour un débutant.
-> Ne fais pas de traduction littérale, utilise la terminologie française exacte du tricot (par exemple : yo -> jeté, ssk -> surjet simple ou glisser-glisser-tricoter).
->
-> **Patron fourni (Input) :**
-> `[Collez ici le texte du patron en anglais]`
->
-> **Format de sortie (Format) :**
-> Saute une ligne pour chaque rang (Row/Round) afin que ce soit clair et facile à lire sans confusion.
 
-<br>
+> **Tâche (Task) :**
+Traduis le patron de tricot en anglais suivant en instructions détaillées en français, faciles à comprendre même pour un débutant.
+Ne fais pas de traduction littérale, utilise la terminologie française exacte du tricot (par exemple : yo -> jeté, ssk -> surjet simple ou glisser-glisser-tricoter).
+
+> **Patron fourni (Input) :**
+`[Collez ici le texte du patron en anglais]`
+
+> **Format de sortie (Format) :**
+Saute une ligne pour chaque rang (Row/Round) afin que ce soit clair et facile à lire sans confusion.
+
+\
 
 ### 🥇 Version Pro (Interprétation de grilles & Calcul de taille sur mesure)
 

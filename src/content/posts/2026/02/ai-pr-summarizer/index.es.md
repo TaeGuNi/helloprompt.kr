@@ -13,7 +13,7 @@ tags: [Git, Github, Collaboration, Productivity, AI]
 
 - **🎯 Público objetivo:** Desarrolladores Senior, Tech Leads, y cualquier desarrollador agotado por las revisiones de código.
 - **⏱️ Tiempo estimado:** De 1 hora → a 3 minutos
-- **🤖 Modelos recomendados:** Claude 3.5 Sonnet, Gemini 1.5 Pro, GPT-4o
+- **🤖 Modelos recomendados:** Claude 3.5 Sonnet, Gemini 2.5 Pro, GPT-4o
 
 - ⭐ **Dificultad:** ⭐☆☆☆☆
 - ⚡️ **Eficacia:** ⭐⭐⭐⭐⭐
@@ -47,7 +47,7 @@ Navegar por un mar de código es agotador. ¿No sería increíble poder extraer 
 > **[Datos de Git Diff]**
 > `[Pega aquí el resultado de git diff o la descripción del PR]`
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 
@@ -94,7 +94,7 @@ Incluso si tu equipo no cuenta con herramientas comerciales costosas como Github
 ## 🙋 Preguntas Frecuentes (FAQ)
 
 - **P: ¿Qué hago si el texto del diff es tan largo que la IA rechaza el input?**
-  - R: Modelos recientes como Claude 3.5 Sonnet o Gemini 1.5 Pro cuentan con ventanas de contexto masivas, capaces de procesar decenas de miles de líneas sin pestañear. Sin embargo, si aún así superas el límite, utiliza `git diff --stat` para que la IA resuma primero la lista de archivos, o filtra el diff para enviar únicamente los archivos de la lógica de dominio (core business logic) para su análisis.
+  - R: Modelos recientes como Claude 3.5 Sonnet o Gemini 2.5 Pro cuentan con ventanas de contexto masivas, capaces de procesar decenas de miles de líneas sin pestañear. Sin embargo, si aún así superas el límite, utiliza `git diff --stat` para que la IA resuma primero la lista de archivos, o filtra el diff para enviar únicamente los archivos de la lógica de dominio (core business logic) para su análisis.
 
 - **P: ¿Es seguro subir código fuente privado de la empresa a una IA?**
   - R: **Debes tener extrema precaución.** El código fuente es un activo crítico. Si usas versiones públicas de ChatGPT o Claude, asegúrate rigurosamente de activar la opción de no entrenamiento de datos ("Data Opt-out") en la configuración. La ruta más segura y recomendada es utilizar planes empresariales que garanticen la privacidad de los datos, o implementar LLMs locales (como Ollama) dentro de la infraestructura segura de tu empresa.

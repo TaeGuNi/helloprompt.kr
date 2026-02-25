@@ -47,7 +47,7 @@ Utilisez cette méthode pour lancer instantanément une IA sur votre PC sans con
 > ollama run llama3
 > ```
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

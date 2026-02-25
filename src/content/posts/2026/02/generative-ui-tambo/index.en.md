@@ -46,7 +46,7 @@ Before writing code, you must instruct the AI on _how_ to use your UI components
 >
 > **Task:** When a user asks for travel recommendations, do not just list them in text. You MUST use the `showPlace` UI tool to render interactive cards for each destination.
 
-<br>
+\
 
 ### 🥇 Pro Version (The React Implementation)
 
@@ -137,7 +137,7 @@ Tambo SDK elegantly solves this by treating React components directly as LLM Too
   - A: Absolutely. The AI only orchestrates _which_ component to render and supplies the _data_ (props). The actual styling, layout, and interactivity of the `PlaceCard` are completely in your control as a frontend developer.
 
 - **Q: Does this work with any LLM?**
-  - A: It requires models with robust "Tool Calling" or "Function Calling" capabilities. GPT-4o, Claude 3.5 Sonnet, and Gemini 1.5 Pro are highly recommended. Smaller or older models might struggle to return valid JSON matching your Zod schemas.
+  - A: It requires models with robust "Tool Calling" or "Function Calling" capabilities. GPT-4o, Claude 3.5 Sonnet, and Gemini 2.5 Pro are highly recommended. Smaller or older models might struggle to return valid JSON matching your Zod schemas.
 
 - **Q: What happens if the AI generates the wrong props?**
   - A: Tambo SDK utilizes Zod for runtime validation. If the LLM returns data that fails the schema check, the tool call is rejected, preventing your React app from crashing due to `undefined` props.

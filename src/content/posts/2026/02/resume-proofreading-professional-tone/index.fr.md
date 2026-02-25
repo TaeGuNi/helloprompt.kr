@@ -49,7 +49,7 @@ Utilisez cette version pour obtenir un résultat rapide et direct sans instructi
 > **Requête :** Corrige le texte suivant pour qu'il adopte un ton professionnel et persuasif adapté à un CV. Élimine toutes les fautes d'orthographe et reformule les phrases maladroites pour maximiser la crédibilité.
 > **Texte :** `[Insérez votre texte ici]`
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

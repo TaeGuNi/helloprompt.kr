@@ -42,7 +42,7 @@ Verwenden Sie dies, wenn Sie sofort eine kurze, beruhigende Geschichte benötige
 > **Rolle:** Du bist ein erfahrener Kindertherapeut und Meditationsleiter.
 > **Anfrage:** Erzähle mir eine kurze, sanfte Einschlafgeschichte für ein unruhiges Kind, die einfache Atem- und Entspannungstechniken enthält.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Level)
 

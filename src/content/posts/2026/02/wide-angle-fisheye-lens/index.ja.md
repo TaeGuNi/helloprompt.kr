@@ -42,7 +42,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Landscape"]
 > **役割:** あなたはプロの風景カメラマンです。
 > **リクエスト:** `[生成したい被写体や空間]` を描写し、プロンプトの最後に `wide angle lens, panoramic view` を追加して画像を生成してください。
 
-<br>
+\
 
 ### 🥇 Pro Version (専門家形)
 

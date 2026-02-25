@@ -42,7 +42,7 @@ Usa questa versione quando hai bisogno di una correzione veloce con una breve sp
 > **Ruolo:** Sei un `[Tutor Professionale di Scrittura Inglese]`.
 > **Richiesta:** Correggi gli errori grammaticali nella mia frase e spiegami in modo semplice `[perché ho sbagliato]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 

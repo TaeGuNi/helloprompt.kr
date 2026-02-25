@@ -44,7 +44,7 @@ Ideal para reuniones rápidas (*Daily Scrums*) o encuentros informales donde sol
 >
 > [Pega aquí tus notas de la reunión]
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 
@@ -90,7 +90,7 @@ En mi día a día, utilizo herramientas de transcripción de voz y copio directa
 ## 🙋 Preguntas Frecuentes (FAQ)
 
 - **P: ¿Puede procesar de una sola vez la transcripción de una reunión de más de 1 hora?**
-  - R: Sí. La mayoría de los modelos recientes (Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro, etc.) cuentan con ventanas de contexto amplias. Sin embargo, el "truco" para maximizar la calidad y evitar alucinaciones (respuestas inventadas) es dividir la transcripción por temas (Agenda) e ingresarla en 2 o 3 partes.
+  - R: Sí. La mayoría de los modelos recientes (Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro, etc.) cuentan con ventanas de contexto amplias. Sin embargo, el "truco" para maximizar la calidad y evitar alucinaciones (respuestas inventadas) es dividir la transcripción por temas (Agenda) e ingresarla en 2 o 3 partes.
 
 - **P: Por políticas de seguridad de mi empresa, no me siento cómodo ingresando contenido interno en la IA.**
   - R: Es un punto crucial. Si la reunión contiene información confidencial, te recomiendo encarecidamente "enmascarar" (anonimizar) los nombres propios o cifras exactas (ej. cambiar el nombre por 'Empresa A', o los montos por 'Presupuesto X') antes de usar el prompt. Para garantizar la protección de datos, utiliza únicamente entornos empresariales (*Enterprise*) donde tus datos no se usen para entrenar al modelo.

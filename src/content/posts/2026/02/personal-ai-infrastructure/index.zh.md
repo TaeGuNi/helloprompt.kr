@@ -4,9 +4,6 @@ date: 2026-02-13
 pubDate: 2026-02-13
 description: " \"了解如何构建个人 AI 基础设施，摆脱 SaaS 依赖，获得绝对的数据隐私和高度定制的自由。\""
 author: "Hello Prompt"
-image:
-  url: "https://cdn.example.com/ai-stack.png"
-  alt: "Personal AI Stack Diagram"
 tags: ["AI", "Infrastructure", "Privacy", "Daniel Miessler"]
 ---
 
@@ -47,7 +44,7 @@ tags: ["AI", "Infrastructure", "Privacy", "Daniel Miessler"]
 > **角色：** 你是一位精通本地部署的 AI 架构师。
 > **任务：** 我有一台 `[您的设备型号，如 M3 MacBook Pro 16GB]`，请推荐最简单的方法在本地运行开源大语言模型，并列出所需的软件（如 Ollama）和推荐的模型。
 
-<br>
+\
 
 ### 🥇 Pro Version (专家版)
 

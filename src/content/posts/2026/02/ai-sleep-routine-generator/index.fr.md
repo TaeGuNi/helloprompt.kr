@@ -42,7 +42,7 @@ Utilisez cette version si vous souhaitez un résultat rapide sans entrer dans le
 > **Rôle :** Tu es un psychologue comportementaliste et un coach expert en sommeil, spécialiste de la création d'habitudes.
 > **Demande :** Conçois une routine du soir apaisante qui m'aidera à m'endormir facilement en associant des actions spécifiques au sommeil, comme le réflexe de Pavlov.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 

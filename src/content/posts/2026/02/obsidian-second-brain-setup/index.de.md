@@ -42,7 +42,7 @@ Ideal für einen schnellen Start mit Daily Notes und einer simplen Grundstruktur
 > **Rolle:** Du bist ein `[Obsidian Produktivitäts-Experte]`.
 > **Aufgabe:** Erstelle für einen absoluten Obsidian-Anfänger ein intuitives, minimalistisches `[Daily Note Template]` sowie eine einfache `[Ordnerstruktur (max. 3 Ordner)]`. Das Daily Note sollte Datum, To-Dos, Hauptnotizen und ein Dankbarkeitstagebuch umfassen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten)
 

@@ -42,7 +42,7 @@ Utilisez cette version lorsque vous avez besoin d'une réponse immédiate sans f
 > **Rôle :** Tu es un Expert Excel et Analyste de Données avec 20 ans d'expérience.
 > **Demande :** Je veux rechercher le nom du produit de la colonne A dans la colonne B et renvoyer la valeur de la colonne C. Donne-moi uniquement la formule Excel exacte.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

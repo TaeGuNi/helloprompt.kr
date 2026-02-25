@@ -38,7 +38,7 @@ Quando hai bisogno di un'idea di massima per iniziare a esplorare le opzioni.
 > **Ruolo:** Sei un esperto Cloud Architect specializzato in Edge Computing.
 > **Richiesta:** Progetta un'architettura Serverless Edge di base per `[inserisci il tipo di applicazione, es. un e-commerce globale]`. Includi i provider consigliati, i vantaggi principali e come gestiresti il database.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Per documenti di progettazione tecnica)
 

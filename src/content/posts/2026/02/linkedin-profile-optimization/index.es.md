@@ -42,7 +42,7 @@ LinkedIn no es un simple repositorio de currículums, sino un **'motor de búsqu
 > **Rol:** Eres un consultor de reclutamiento global y un experto en SEO para LinkedIn.
 > **Solicitud:** Redacta un Titular optimizado para búsquedas y una sección "Acerca de" convincente que multiplique por 10 mis ofertas de trabajo.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

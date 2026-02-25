@@ -13,7 +13,7 @@ tags: [Linux, Cron, Automation, Server, AI]
 
 - **🎯 Zielgruppe:** Backend-Entwickler, DevOps-Ingenieure, Systemadministratoren
 - **⏱️ Zeitaufwand:** 10 Minuten → auf 30 Sekunden verkürzt
-- **🤖 Empfohlene Modelle:** ChatGPT, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Empfohlene Modelle:** ChatGPT, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Schwierigkeitsgrad:** ⭐☆☆☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Nutzen Sie diesen Prompt, wenn Sie einfach nur schnell den richtigen Cron-Ausdru
 > **Rolle:** Du bist ein `[DevOps-Ingenieur]`.
 > **Aufgabe:** Erstelle einen Linux Crontab-Ausdruck für `[jeden letzten Freitag im Monat um 23:00 Uhr]`. Füge eine kurze Erklärung hinzu, wann genau dieser ausgeführt wird.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

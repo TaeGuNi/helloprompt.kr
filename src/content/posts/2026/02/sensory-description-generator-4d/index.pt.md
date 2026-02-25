@@ -42,7 +42,7 @@ Use esta versão quando precisar de um resultado rápido para expandir uma ideia
 > **Papel:** Você é um escritor de literatura aclamado por sua rica expressividade e maestria em descrições de cenários.
 > **Solicitação:** Transforme a frase a seguir em uma descrição vívida e envolvente, estimulando os cinco sentidos (Visual, Auditivo, Olfativo, Gustativo e Tátil): `[Insira sua frase simples aqui]`
 
-<br>
+\
 
 ### 🥇 Versão Pro (Especialista)
 
@@ -102,11 +102,11 @@ A maior armadilha para escritores iniciantes é querer explicar tudo para o leit
 
 ### ❌ Antes (Entrada)
 
-> "O mar de inverno estava frio. Dava para ouvir o som das ondas."
+"O mar de inverno estava frio. Dava para ouvir o som das ondas."
 
 ### ✅ Depois (Resultado - Versão Terror/Suspense)
 
-> "O vento cortante esbofeteava o rosto como lâminas invisíveis. Diante dele, o mar de um azul quase negro uivava, esmagando sua espuma suja contra as rochas pontiagudas. Misturado ao salitre, um odor denso e metálico — como algo há muito afogado — rastejava e perfurava as narinas."
+"O vento cortante esbofeteava o rosto como lâminas invisíveis. Diante dele, o mar de um azul quase negro uivava, esmagando sua espuma suja contra as rochas pontiagudas. Misturado ao salitre, um odor denso e metálico — como algo há muito afogado — rastejava e perfurava as narinas."
 
 ---
 

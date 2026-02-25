@@ -13,7 +13,7 @@ tags: ["Réunion", "Résumé", "Productivité"]
 
 - **🎯 Recommandé pour :** Chefs de projet, Commerciaux, Marketeurs, Tout professionnel participant à de multiples réunions
 - **⏱️ Temps gagné :** 60 minutes → 1 minute
-- **🤖 Modèles recommandés :** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modèles recommandés :** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Difficulté :** ⭐☆☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -43,7 +43,7 @@ Idéal lorsque vous avez une transcription courte et que vous souhaitez simpleme
 > **Tâche :** Résume la transcription de réunion suivante. Extraits-en les points clés, les décisions prises et les prochaines étapes.
 > **Transcription :** `[Collez votre texte de transcription ici]`
 
-<br>
+\
 
 ### 🥇 Version Pro (Pour les réunions stratégiques)
 

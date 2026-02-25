@@ -42,7 +42,7 @@ Use esta versão para tarefas rápidas, isoladas e que não exigem profundo conh
 > **Papel:** Você é um Engenheiro de Software Sênior.
 > **Tarefa:** Escreva um script em `[linguagem]` para `[sua necessidade, ex: extrair dados de uma API e salvar em um CSV]`. Inclua tratamento de erros e comentários explicativos.
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 

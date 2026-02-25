@@ -43,7 +43,7 @@ Antes, usávamos a IA como um mero dicionário avançado de sintaxe.
 > **O Processo:** O desenvolvedor escreve um comentário como `// Função para validar email` e a IA preenche o trecho imediatamente abaixo.
 > **A Falha:** Faltava visão do todo. Se houvesse erro de dependência ou lógica sistêmica, o humano precisava debugar e consertar tudo manualmente.
 
-<br>
+\
 
 ### 🥇 A Era Agêntica 2026 (Execução Ativa e Contexto Profundo)
 

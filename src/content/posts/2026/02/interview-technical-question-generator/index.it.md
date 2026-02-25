@@ -44,7 +44,7 @@ Usala quando hai bisogno di prepararti in pochi secondi e vuoi subito metterti a
 > **Ruolo:** Sei un Senior Tech Lead con 20 anni di esperienza nel ruolo di `[Nome Ruolo]`.
 > **Richiesta:** Genera una lista di 10 domande probabili per un colloquio tecnico e le relative risposte ideali, basandoti sul mio ruolo e sui miei anni di esperienza.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

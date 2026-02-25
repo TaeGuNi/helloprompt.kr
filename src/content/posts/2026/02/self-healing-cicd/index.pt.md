@@ -44,7 +44,7 @@ Use isto para corrigir rapidamente pequenos erros de sintaxe do Prettier ou ESLi
 > **Papel:** Você é um `[Desenvolvedor Frontend Sênior]`.
 > **Tarefa:** Analise o log de erros fornecido, corrija com rapidez e precisão apenas os `[erros de lint e erros de digitação]` no código e retorne o código completo modificado.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Agente de Autocura Seguro)
 

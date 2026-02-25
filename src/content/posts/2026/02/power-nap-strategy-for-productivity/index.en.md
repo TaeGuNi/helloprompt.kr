@@ -42,7 +42,7 @@ Use this when you just need a fast recommendation and protocol.
 > **Role:** You are an expert sleep scientist and productivity consultant.
 > **Request:** I'm experiencing a severe post-lunch slump. I don't want to just push through it. Explain the 'Coffee Nap' technique so I can sleep exactly 20 minutes and wake up fully refreshed.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Level)
 

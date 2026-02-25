@@ -5,9 +5,6 @@ date: 2026-02-13
 pubDate: 2026-02-13
 description: " \"Impara a costruire potenti applicazioni LLM e pipeline RAG utilizzando la collezione awesome-llm-apps.\""
 author: "Hello Prompt"
-image:
-  url: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2560&auto=format&fit=crop"
-  alt: "AI Neural Network"
 tags: ["LLM", "RAG", "AI", "Development", "Guide"]
 ---
 
@@ -46,7 +43,7 @@ Usa questo prompt se hai solo bisogno di un'idea generale su quali strumenti uti
 > **Ruolo:** Sei un Senior AI Engineer.
 > **Azione:** Voglio costruire un'app LLM che `[inserisci cosa deve fare l'app, es: risponda a domande sui manuali PDF aziendali]`. Suggeriscimi uno stack tecnologico semplice (Framework, Database Vettoriale, UI) e spiegami brevemente come farli comunicare tramite RAG.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Per sistemi in produzione)
 

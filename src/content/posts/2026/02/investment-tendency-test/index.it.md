@@ -48,7 +48,7 @@ Usala quando hai bisogno di un risultato immediato.
 > **Ruolo:** Sei un consulente di finanza comportamentale e psicologia degli investimenti.
 > **Richiesta:** Sottoponimi a un breve test per scoprire la mia reale propensione al rischio, evitando i classici e noiosi questionari bancari.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

@@ -48,7 +48,7 @@ Use this when you need a quick, straightforward conversion without complex rules
 > **Data:**
 > `[Paste your raw data here]`
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -97,7 +97,7 @@ The true power of this prompt lies in the **Field Mapping & Constraints** sectio
   - A: It depends on your company's policy and the subscription tier you use. Free tiers often use data for training, which is a security risk for sensitive PII (Personally Identifiable Information). Always use enterprise/API tiers (which typically do not train on your data) or thoroughly anonymize sensitive fields (like real names, emails, or phone numbers) before pasting them into the AI.
 
 - **Q: What is the maximum file size or data length I can convert at once?**
-  - A: This is limited by the context window of the AI model. For models like Claude 3.5 Sonnet or Gemini 1.5 Pro, you can easily paste tens of thousands of rows. However, for massive datasets (e.g., a 100MB CSV file), it's still better to write a Python script. This prompt shines for ad-hoc, everyday data wrangling.
+  - A: This is limited by the context window of the AI model. For models like Claude 3.5 Sonnet or Gemini 2.5 Pro, you can easily paste tens of thousands of rows. However, for massive datasets (e.g., a 100MB CSV file), it's still better to write a Python script. This prompt shines for ad-hoc, everyday data wrangling.
 
 - **Q: Can it handle messy, unstructured data?**
   - A: Absolutely! That's where AI beats traditional scripts. If you paste a messy block of text copied directly from a PDF or a poorly formatted email, the AI can usually infer the intended tabular structure and extract it cleanly into JSON or CSV.

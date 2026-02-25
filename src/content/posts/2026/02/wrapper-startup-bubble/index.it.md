@@ -39,7 +39,7 @@ Ideale quando si desidera valutare rapidamente il livello di rischio dell'idea a
 > **Ruolo:** Sei uno spietato analista di Venture Capital (VC) di livello Tier 1 della Silicon Valley.
 > **Azione:** Valuta se la mia idea di servizio AI `[Idea del Servizio]` è un semplice API Wrapper. Proponi 3 strategie di difesa per sopravvivere nel caso in cui OpenAI rilasciasse questa stessa identica funzionalità.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

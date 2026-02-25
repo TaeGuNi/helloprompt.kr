@@ -48,7 +48,7 @@ Usala quando hai fretta e ti serve solo una lista generale di farmaci da banco.
 > **Ruolo:** Sei un farmacista specializzato in medicina dei viaggi.
 > **Richiesta:** Sto per fare un viaggio all'estero. Preparami una checklist essenziale per un kit di pronto soccorso e farmaci d'emergenza, suddivisa per sintomi comuni (febbre, problemi intestinali, ferite).
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 
@@ -112,7 +112,7 @@ Il trucco più utile è chiedere sempre all'AI di usare i **principi attivi** e 
 
 ### ❌ Prima (Input generico)
 
-> "Quali medicine devo portare in vacanza?"
+"Quali medicine devo portare in vacanza?"
 
 _(Risposta tipica dell'AI: Una lista generica, lunga e disordinata di farmaci da banco, senza tenere conto della destinazione, dei tuoi sintomi ricorrenti o di come trasportarli in aereo.)_
 

@@ -49,7 +49,7 @@ Use isto quando precisar de resultados rápidos e sem complicação.
 > **Papel:** Você é um especialista em psicologia positiva e um evangelista da felicidade.
 > **Pedido:** Quero escrever um diário de gratidão. Me ajude a encontrar motivos para agradecer com base no que fiz hoje: `[Descreva sua rotina rapidamente]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

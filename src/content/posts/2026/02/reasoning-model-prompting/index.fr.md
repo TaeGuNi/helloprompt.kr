@@ -54,7 +54,7 @@ Les modèles de raisonnement offrent des performances optimales lorsqu'on leur f
 > def c(a,b): return a+b
 > </code_snippet>
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

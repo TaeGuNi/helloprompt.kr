@@ -42,7 +42,7 @@ No necesitas mostrar cada detalle para crear una obra maestra. Utilizar el **con
 > **Rol:** Eres un experto en fotografía e iluminación.
 > **Solicitud:** Genera un prompt de imagen utilizando la técnica de contraluz para crear una silueta oscura del sujeto principal, resaltando la belleza de la forma y la atmósfera sobre un fondo luminoso.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

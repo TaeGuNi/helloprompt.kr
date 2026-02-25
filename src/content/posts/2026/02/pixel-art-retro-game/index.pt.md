@@ -42,7 +42,7 @@ Use esta estrutura para testes rápidos de conceito.
 > **Role (Papel):** Você é um pixel artist veterano dos anos 90.
 > **Task (Tarefa):** Crie uma arte em pixel art de `[personagem/cenário]`. A imagem deve ter uma paleta de cores limitada e blocos de pixels bem definidos.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

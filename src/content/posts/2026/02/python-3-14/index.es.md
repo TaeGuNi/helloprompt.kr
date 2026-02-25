@@ -43,7 +43,7 @@ Ideal para actualizar fragmentos de código pequeños y rápidos.
 > **Rol:** Eres un Ingeniero de Software Senior experto en Python.
 > **Tarea:** Actualiza el siguiente `[CÓDIGO]` para aprovechar al máximo las nuevas características de Python 3.14 (JIT, Pattern Matching v3, tipado genérico avanzado).
 
-<br>
+\
 
 ### 🥇 Versión Pro
 

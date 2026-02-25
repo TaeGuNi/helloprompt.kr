@@ -39,7 +39,7 @@ Idéal pour mettre en place rapidement le squelette (boilerplate) du jeu.
 >
 > **Tâche :** Crée un jeu de golf 2D par navigateur en utilisant `[HTML5 Canvas]`. Le jeu doit comporter une balle et un trou, et utiliser une mécanique de type "glisser-pour-tirer" (drag-to-shoot) à la souris.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

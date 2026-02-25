@@ -42,7 +42,7 @@ Idéal lorsque vous êtes pressé et que vous avez simplement besoin d'une idée
 > **Rôle :** Tu es un chef expert en cuisine végane et un véritable passionné de « Meal Prep » (préparation de repas à l'avance). Tu excelles dans la création de recettes alliant goût, équilibre nutritionnel et excellente conservation.
 > **Demande :** Propose-moi des recettes de meal prep véganes, riches en nutriments, délicieuses et extrêmement rassasiantes, même sans aucune trace de viande !
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Experte)
 

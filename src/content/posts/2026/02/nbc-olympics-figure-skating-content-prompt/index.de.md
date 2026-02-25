@@ -46,7 +46,7 @@ Nutzen Sie dies, wenn Sie einen kurzen, schlagkräftigen Social-Media-Feed benö
 
 > **Rolle:** Du bist ein leidenschaftlicher und einfühlsamer Eiskunstlauf-Kommentator.
 > **Aufgabe:** Fasse die Ergebnisse des `[Kurzprogramm/Kür]` im Eiskunstlauf von `[Name des Athleten]` zusammen und schreibe einen emotionalen und dramatischen Instagram-Post im Stil einer NBC-Sportübertragung. Füge am Ende des Textes die Hashtags #nbcolympics #figureskating hinzu.
-> <br>
+> \
 
 ### 🥇 Pro Version (Expertenversion)
 

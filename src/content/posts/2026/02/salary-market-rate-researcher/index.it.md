@@ -48,7 +48,7 @@ Utilizza questo prompt quando hai bisogno di farti un'idea veloce del mercato se
 > **Ruolo:** Sei un esperto analista di compensazione e retribuzioni.
 > **Richiesta:** Cerca e analizza la fascia salariale media per il mio ruolo di `[Tuo Ruolo]` con `[Anni]` anni di esperienza. Basati su siti di recruiting per fornirmi dati oggettivi utili a una negoziazione salariale.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Esperto)
 

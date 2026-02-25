@@ -42,7 +42,7 @@ Idéal pour transformer un paragraphe à la volée.
 > **Rôle :** Tu es un `[Auteur de Best-sellers et Maître en Storytelling]`.
 > **Requête :** Transforme cette liste de faits ennuyeuse en une histoire captivante qui touche les émotions du lecteur : `[Insérer le texte brut]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Expert)
 

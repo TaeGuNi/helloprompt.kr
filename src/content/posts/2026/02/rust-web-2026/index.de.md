@@ -45,7 +45,7 @@ Schnelle Strukturierung für ein neues Rust-Webprojekt, wenn Sie direkt loslegen
 > **Rolle:** Du bist ein erfahrener Rust-Softwarearchitekt im Jahr 2026.
 > **Aufgabe:** Erstelle eine optimale, skalierbare Backend-Architektur für ein `[Art des Projekts]` unter Verwendung von Axum und Tokio.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

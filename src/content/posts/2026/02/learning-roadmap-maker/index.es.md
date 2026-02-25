@@ -13,7 +13,7 @@ tags: ["Learning", "Roadmap", "Education", "SelfImprovement"]
 
 - **🎯 Público objetivo:** Estudiantes, profesionales en transición, desarrolladores junior, especialistas en marketing
 - **⏱️ Tiempo ahorrado:** De horas de planificación → a solo 1 minuto
-- **🤖 Modelos recomendados:** GPT-4, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modelos recomendados:** GPT-4, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Dificultad:** ⭐⭐☆☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Aprender una nueva habilidad a menudo se siente abrumador. Pasamos más tiempo b
 > **Rol:** Eres un `[Experto en la materia / Tutor Senior]`.
 > **Tarea:** Crea un plan de estudio de `[3 días / 3 semanas]` para aprender `[Tema a aprender]`. Incluye qué debo hacer cada día de forma práctica.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

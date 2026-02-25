@@ -48,7 +48,7 @@ Nutzen Sie diese Variante für einen schnellen Check zwischendurch.
 > **Rolle:** Du bist ein erfahrener Apotheker und Ernährungsmediziner.
 > **Anfrage:** Bitte erstelle mir einen optimalen Einnahmeplan für meine aktuellen Nahrungsergänzungsmittel, um Doppelungen zu vermeiden und die körperliche Aufnahme zu maximieren.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

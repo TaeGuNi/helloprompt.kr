@@ -40,7 +40,7 @@ Usa questa versione quando hai bisogno di comprendere rapidamente la struttura l
 > **Ruolo:** Sei un `[Data Analyst / Fisico Teorico]` dotato di profonda intuizione.
 > **Compito:** Analizza la logica fondamentale del seguente `[documento/teoria]` passo dopo passo, e individua eventuali contraddizioni rispetto ai paradigmi esistenti.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 

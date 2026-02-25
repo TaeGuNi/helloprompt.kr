@@ -42,7 +42,7 @@ Use this when you need a rapid, high-level overview.
 > **Role:** You are a `[Strategy Consultant]`.
 > **Request:** Perform a quick SWOT analysis on `[Target Company]` to help me decide if it's a good investment.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Analysis)
 
@@ -115,10 +115,10 @@ Tell me the pros and cons of Hyundai Motor.
 
 | Category                 | Content                                                                                                                                                                                                                                                          |
 | :----------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **💪 Strengths (S)**     | 1. Highly flexible production capacity across hybrid and EV lineups.<br>2. Significant profitability (ASP) improvements driven by the successful premium Genesis brand.<br>3. Strong capital influx from the successful IPO of its India subsidiary.             |
-| **📉 Weaknesses (W)**    | 1. Protracted delay in recovering lost market share in China.<br>2. Ongoing union risks and a structurally high labor cost burden.<br>3. Relative lag in Software-Defined Vehicle (SDV) technological competitiveness.                                           |
-| **🌟 Opportunities (O)** | 1. Surging consumer demand for hybrid vehicles in the US market.<br>2. Rapid market expansion in emerging economies like India and the ASEAN region.<br>3. Strategic business diversification into autonomous driving and robotics.                              |
-| **⚠️ Threats (T)**       | 1. Heightened uncertainty surrounding US IRA policies and potential tariff hikes.<br>2. Aggressive price-cutting wars initiated by Tesla and emerging Chinese EV makers.<br>3. Potential slowdown in global new car demand due to macroeconomic recession fears. |
+| **💪 Strengths (S)**     | 1. Highly flexible production capacity across hybrid and EV lineups.\2. Significant profitability (ASP) improvements driven by the successful premium Genesis brand.\3. Strong capital influx from the successful IPO of its India subsidiary.             |
+| **📉 Weaknesses (W)**    | 1. Protracted delay in recovering lost market share in China.\2. Ongoing union risks and a structurally high labor cost burden.\3. Relative lag in Software-Defined Vehicle (SDV) technological competitiveness.                                           |
+| **🌟 Opportunities (O)** | 1. Surging consumer demand for hybrid vehicles in the US market.\2. Rapid market expansion in emerging economies like India and the ASEAN region.\3. Strategic business diversification into autonomous driving and robotics.                              |
+| **⚠️ Threats (T)**       | 1. Heightened uncertainty surrounding US IRA policies and potential tariff hikes.\2. Aggressive price-cutting wars initiated by Tesla and emerging Chinese EV makers.\3. Potential slowdown in global new car demand due to macroeconomic recession fears. |
 
 **🔑 Key Observation Point:**
 "The critical catalyst for future stock price appreciation hinges on whether the current boom in hybrid sales can adequately offset the broader global slowdown in pure EV demand."

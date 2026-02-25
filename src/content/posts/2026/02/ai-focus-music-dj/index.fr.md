@@ -42,7 +42,7 @@ Utilisez cette version quand vous avez besoin d'une suggestion rapide pour déma
 > **Rôle :** Tu es un `[DJ expert en productivité]`.
 > **Tâche :** Recommande-moi une `[playlist de 2 heures]` idéale pour `[rédiger un rapport complexe]`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

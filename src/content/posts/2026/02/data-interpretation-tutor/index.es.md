@@ -14,7 +14,7 @@ tags:
 
 - **🎯 Recomendado para:** Profesionales del marketing, gestores de proyectos, analistas junior y estudiantes.
 - **⏱️ Tiempo requerido:** 30 minutos → Reducido a 1 minuto
-- **🤖 Modelo recomendado:** Todos los modelos visuales (GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro)
+- **🤖 Modelo recomendado:** Todos los modelos visuales (GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro)
 
 - ⭐ **Dificultad:** ⭐⭐☆☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -43,7 +43,7 @@ La alfabetización de datos es una habilidad de supervivencia esencial en el ent
 > **Rol:** Eres un `[Experto Analista de Datos y Especialista en Estadística]`.
 > **Solicitud:** Analiza los `[datos o imagen adjunta]` y extrae los 3 insights clave, identificando cualquier anomalía estadística.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

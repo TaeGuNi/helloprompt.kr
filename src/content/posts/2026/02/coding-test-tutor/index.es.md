@@ -40,14 +40,14 @@ tags: ["코딩테스트", "알고리즘", "파이썬", "ChatGPT", "취업"]
 Utiliza este prompt básico cuando te sientas estancado y solo necesites un pequeño empujón en la dirección correcta.
 
 > **Rol:** Eres un examinador de pruebas de código de una gran empresa tecnológica y un experto en algoritmos.
->
+
 > **Tarea:** Lee el problema de algoritmo proporcionado a continuación y explícame únicamente la idea central y el enfoque general necesario para resolverlo.
->
+
 > **Problema:** `[Copia y pega aquí la descripción del problema de LeetCode/HackerRank]`
->
+
 > **Restricciones:** No me des el código con la respuesta ni la lógica terminada bajo ninguna circunstancia. Solo dame pistas sobre qué estructura de datos sería más ventajosa desde la perspectiva de la complejidad temporal (Time Complexity).
 
-<br>
+\
 
 ### 🥇 Versión Pro (Coaching y Revisión Paso a Paso)
 

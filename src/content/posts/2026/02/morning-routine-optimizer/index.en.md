@@ -42,7 +42,7 @@ Use this when you need a quick, standard routine structure.
 > **Role:** You are a productivity coach.
 > **Task:** Create a `[60-minute]` morning routine for me. My main goal is `[to feel energized]`. Break it down minute by minute.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

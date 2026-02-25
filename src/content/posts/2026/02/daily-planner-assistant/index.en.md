@@ -47,7 +47,7 @@ Use this when you need a quick, rough overview of today's schedule and immediate
 > **Today's To-Do List:**
 > `[Brain-dump all the tasks you need to do today here]`
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -137,12 +137,12 @@ Working hours are 9:30 AM to 6:30 PM.
 
 | Category | Tasks | Action |
 | :--- | :--- | :--- |
-| **DO (Urgent & Important)** | Attend weekly meeting (11:00) <br> Draft weekly report | **Execute Immediately**, place in peak focus hours |
-| **DECIDE (Important, Less Urgent)** | Research competitor A's promo <br> Book workshop restaurant | **Schedule Time**, place in afternoon |
-| **DELEGATE (Urgent, Less Important)** | Request logo revision <br> Reply to email backlog | **Handle/Delegate Quickly**, do right at start of day |
+| **DO (Urgent & Important)** | Attend weekly meeting (11:00) \ Draft weekly report | **Execute Immediately**, place in peak focus hours |
+| **DECIDE (Important, Less Urgent)** | Research competitor A's promo \ Book workshop restaurant | **Schedule Time**, place in afternoon |
+| **DELEGATE (Urgent, Less Important)** | Request logo revision \ Reply to email backlog | **Handle/Delegate Quickly**, do right at start of day |
 | **DELETE (Less Urgent, Less Important)** | (None in the current list) | - |
 
-<br>
+\
 
 ## 🕒 Today's Time Blocking Schedule
 

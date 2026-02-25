@@ -47,7 +47,7 @@ Use this for a quick check when you suspect an accessibility issue in a specific
 > [Paste your code here]
 > ```
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -120,8 +120,8 @@ The core strength of this prompt is forcing the AI to strictly abide by the **"F
 ### ✅ After (Result: Flawless Keyboard & Screen Reader Support)
 
 ```html
-<!-- Meaningless decorative images are ignored by screen readers using empty alt or aria-hidden -->
-<!-- Uses the <button> tag, natively supporting keyboard Enter/Space interactions alongside onClick -->
+
+
 <button type="button" class="submit-btn" onClick="sendData()">
   <img src="send-icon.png" alt="" aria-hidden="true" />
   <span>Send</span>

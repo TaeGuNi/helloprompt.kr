@@ -47,7 +47,7 @@ Utiliza este prompt cuando solo quieras copiar la lista de permisos y comprobar 
 > - Nombre: `[Nombre de la extensión]`
 > - Permisos solicitados: `[Copia y pega la lista de permisos especificada en la Web Store]`
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 
@@ -115,7 +115,7 @@ Acostúmbrate a escribir periódicamente `chrome://extensions/` en la barra de d
 
 ### ❌ Antes (Pregunta simple)
 
-> ¿Es segura esta extensión para convertir PDF? Su permiso es 'Leer todos los datos de los sitios web'.
+¿Es segura esta extensión para convertir PDF? Su permiso es 'Leer todos los datos de los sitios web'.
 
 ```text
 La mayoría de los conversores de PDF necesitan capturar el contenido completo de la página web, por lo que es posible que requieran ese permiso. Sin embargo, es recomendable verificar las reseñas para saber si el desarrollador es confiable.

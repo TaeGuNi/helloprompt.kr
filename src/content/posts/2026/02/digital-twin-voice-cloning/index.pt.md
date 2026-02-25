@@ -42,13 +42,13 @@ Este protocolo é dividido em duas etapas: Etapa 1 para extração de tom de voz
 Use esta etapa para analisar e extrair suas diretrizes de estilo a partir de textos antigos.
 
 > **Função:** Você é o melhor especialista em análise de estilo literário e linguística do mundo.
->
-> **Tarefa:** Analise profundamente o estilo (Style), o tom (Tone), o vocabulário frequente (Vocabulary) e a estrutura das frases dos textos fornecidos abaixo. Organize o resultado em formato de 'diretrizes de prompt'.
->
-> **Dados:**
-> `[Cole aqui de 3 a 5 exemplos dos seus textos, conversas de WhatsApp, e-mails, etc.]`
 
-<br>
+> **Tarefa:** Analise profundamente o estilo (Style), o tom (Tone), o vocabulário frequente (Vocabulary) e a estrutura das frases dos textos fornecidos abaixo. Organize o resultado em formato de 'diretrizes de prompt'.
+
+> **Dados:**
+`[Cole aqui de 3 a 5 exemplos dos seus textos, conversas de WhatsApp, e-mails, etc.]`
+
+\
 
 ### 🥇 Versão Pro (Injeção de Persona - Etapa 2)
 

@@ -41,7 +41,7 @@ Inizia a riprendere il controllo con strumenti semplici ed efficaci.
 > **Azione:** Sostituisci la tua app di notizie predefinita e i feed dei social con un moderno lettore RSS (es. Feedly, Inoreader, o soluzioni self-hosted).
 > **Obiettivo:** Leggere esclusivamente le fonti che hai scelto in modo esplicito, rigorosamente in ordine cronologico. Il "conteggio dei non letti" diventa un traguardo di completamento, non un pozzo senza fondo di ansia.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

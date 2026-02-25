@@ -42,7 +42,7 @@ El efecto **Bokeh** es ese fenómeno visual donde los puntos de luz fuera de foc
 > **Rol:** Eres un fotógrafo profesional.
 > **Solicitud:** Genera la imagen de un `[sujeto]` con el fondo desenfocado y luces estéticas difuminadas (efecto bokeh).
 
-<br>
+\
 
 ### 🥇 Versión Pro (Experto)
 

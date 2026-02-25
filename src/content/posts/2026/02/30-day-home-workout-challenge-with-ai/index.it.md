@@ -49,7 +49,7 @@ Usala quando hai bisogno di risultati immediati e senza troppe specifiche.
 > **Ruolo:** Sei un personal trainer esperto in allenamenti a casa.
 > **Richiesta:** Progetta una routine di allenamento a corpo libero di 30 giorni. Non ho attrezzature. Ogni giorno deve essere diverso.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Esperto)
 

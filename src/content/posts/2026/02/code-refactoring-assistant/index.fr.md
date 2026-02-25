@@ -13,7 +13,7 @@ tags: ["코딩", "리팩토링", "클린코드"]
 
 - **🎯 Public cible :** Développeurs juniors, Ingénieurs logiciels, Tech Leads
 - **⏱️ Temps gagné :** De plusieurs heures de débogage → à 2 minutes
-- **🤖 Modèles recommandés :** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 Modèles recommandés :** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **Difficulté :** ⭐⭐☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -43,7 +43,7 @@ Idéale pour un nettoyage express d'une petite fonction.
 > **Tâche :** Refactore le code suivant pour le rendre plus lisible et maintenable, tout en conservant exactement la même fonctionnalité.
 > **Code :** `[Insérez votre code ici]`
 
-<br>
+\
 
 ### 🥇 Version Pro (Pour une restructuration experte)
 
@@ -102,7 +102,7 @@ J'utilise particulièrement cette version Pro lors des revues de code (Code Revi
   - A : C'est un risque. C'est pourquoi la contrainte "comportement strictement identique" est cruciale. Je vous recommande de toujours avoir des tests unitaires (TDD) en place avant d'appliquer le refactoring généré.
 
 - **Q : Quel modèle d'IA est le plus performant pour le refactoring ?**
-  - A : Actuellement, **Claude 3.5 Sonnet** excelle particulièrement dans la compréhension du contexte logiciel et produit un code extrêmement propre. **GPT-4o** et **Gemini 1.5 Pro** sont également d'excellents choix.
+  - A : Actuellement, **Claude 3.5 Sonnet** excelle particulièrement dans la compréhension du contexte logiciel et produit un code extrêmement propre. **GPT-4o** et **Gemini 2.5 Pro** sont également d'excellents choix.
 
 - **Q : Puis-je utiliser ce prompt pour n'importe quel langage de programmation ?**
   - A : Oui, l'IA adaptera automatiquement les conventions (PEP 8 pour Python, CamelCase pour JS/TS, etc.) en fonction du code que vous lui fournissez.

@@ -53,7 +53,7 @@ Perfect for when you just need a fast, organized checklist without overthinking.
 > - Format the output strictly as a Markdown Checkbox List (`- [ ]`).
 > - Order the tasks logically by sequence of execution for the day.
 
-<br>
+\
 
 ### 🥇 Pro Version (Eisenhower Matrix & Time-Blocking)
 

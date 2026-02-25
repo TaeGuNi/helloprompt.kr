@@ -48,7 +48,7 @@ Utilizzala quando vuoi identificare rapidamente i colli di bottiglia e i problem
 > [Incolla qui il tuo codice]
 > ```
 
-<br>
+\
 
 ### 🥇 Versione Pro
 

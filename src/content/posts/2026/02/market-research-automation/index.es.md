@@ -47,7 +47,7 @@ Los defectos críticos en los productos de tus competidores son el atajo más se
 >
 > **Datos de las reseñas:** `[Pega aquí el texto de las reseñas copiadas]`
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

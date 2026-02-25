@@ -13,7 +13,7 @@ tags: ["AI 에이전트", "자동화", "프롬프트 엔지니어링", "AutoGPT"
 
 - **🎯 Recomendado para:** Product Managers (PM) y planificadores que necesitan diseñar y ejecutar proyectos complejos de una sola vez.
 - **⏱️ Tiempo requerido:** 1 hora → 5 minutos (Reducción drástica del tiempo de planificación)
-- **🤖 Modelos recomendados:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modelos recomendados:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Dificultad:** ⭐⭐⭐☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ La era de intentar meterlo todo en un solo prompt ha terminado. La tendencia cla
 > **Rol:** Eres un Project Manager (PM) altamente competente.
 > **Tarea:** Sobre el `[Tema]`, ofrece opiniones profundas desde la perspectiva de un Planificador, un Desarrollador y un Diseñador. Luego, sintetízalas y propón la dirección óptima.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -94,7 +94,7 @@ Sin embargo, al forzar el rol de 'Crítico' y hacer que debatan entre sí, la IA
   - R: Si añades a las Restricciones la frase: *"El debate debe limitarse estrictamente a 3 turnos, y en el último turno, el Ejecutor debe liderar y alcanzar un consenso viable"*, la IA ajustará la longitud por sí sola y llegará a una conclusión sin problemas.
 
 - **P: ¿Funciona bien en versiones gratuitas como GPT-3.5?**
-  - R: Dado que requiere mantener múltiples perfiles sin confundirlos y liderar un debate lógico, te recomiendo encarecidamente usar modelos más recientes con alta capacidad de razonamiento complejo, como GPT-4o, Claude 3.5 Sonnet o Gemini 1.5 Pro. En modelos inferiores, la distinción de roles puede difuminarse y parecerá que la IA está hablando sola.
+  - R: Dado que requiere mantener múltiples perfiles sin confundirlos y liderar un debate lógico, te recomiendo encarecidamente usar modelos más recientes con alta capacidad de razonamiento complejo, como GPT-4o, Claude 3.5 Sonnet o Gemini 2.5 Pro. En modelos inferiores, la distinción de roles puede difuminarse y parecerá que la IA está hablando sola.
 
 ---
 

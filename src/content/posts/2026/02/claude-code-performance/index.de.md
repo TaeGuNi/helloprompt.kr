@@ -44,7 +44,7 @@ Nutzen Sie diesen Prompt für schnelle Code-Korrekturen, wenn die erste Antwort 
 > **Rolle:** Du bist ein Senior Software Engineer.
 > **Aufgabe:** Der vorherige Code enthält Logikfehler. Bitte ignoriere alle vorherigen Annahmen, analysiere das `[Problem]` von Grund auf neu und schreibe den Code korrigiert um.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Level)
 

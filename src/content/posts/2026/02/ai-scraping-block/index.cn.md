@@ -41,7 +41,7 @@ tags: ["AI", "Tech", "ai-scraping-block"]
 > **角色：** 你是一位精通网络协议与数据合规的`[高级数据工程师]`。
 > **任务：** 分析以下 `[网站URL]` 的 `robots.txt` 内容，告诉我它是否允许 AI 爬虫（如 GPTBot, CCBot 等）抓取数据，并给出简单的合规建议。
 
-<br>
+\
 
 ### 🥇 Pro Version (专业版)
 

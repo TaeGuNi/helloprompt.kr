@@ -49,7 +49,7 @@ Verwenden Sie diesen Prompt, wenn Sie schnell ein solides Ergebnis benötigen.
 > **Rolle:** Du bist ein Recruiter bei einem Tech-Unternehmen im US-Silicon-Valley und ein professioneller englischer Copywriter.
 > **Anfrage:** Übersetze meine Karrierestationen nicht einfach nur. Verwandle meinen koreanischen Lebenslauf in ein perfektes englisches Resume, das exakt den sprachlichen und strukturellen Standards der englischsprachigen Recruiting-Kultur entspricht.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 
@@ -80,13 +80,13 @@ Verwenden Sie diesen Prompt für maximale Qualität und Detailtiefe.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 Dieser Prompt ist ein absoluter Gamechanger für Bewerbungen bei internationalen Firmen. Das größte Problem bei herkömmlichen Übersetzungen ist, dass sie den koreanischen Satzbau beibehalten. Ein echtes englisches Resume lebt jedoch von Prägnanz und messbaren Resultaten. Durch die explizite Anweisung an die KI, **"Action Verbs"** zu verwenden und **Zahlen fett zu markieren**, generiert das Modell sofort einen Text, der aussieht, als hätte ihn ein teurer amerikanischer Karriereberater verfasst. Mein Tipp: Geben Sie der KI nicht nur den Text, sondern fügen Sie auch grobe Zahlen hinzu (z. B. "Umsatz um ca. 20% gesteigert") – die KI formuliert daraus beeindruckende Business-Statements.
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q: Funktioniert dieser Prompt auch mit der kostenlosen Version von ChatGPT?**
   - A: Ja, absolut. Für die reine Strukturierung und Übersetzung von Lebensläufen liefern auch kostenlose Modelle wie GPT-3.5 oder Claude 3 Haiku hervorragende Ergebnisse. Für besonders nuanciertes Branchenvokabular ist ein Pro-Modell (wie GPT-4o oder Claude 3.5 Sonnet) jedoch noch etwas feiner.

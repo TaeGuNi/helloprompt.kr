@@ -48,7 +48,7 @@ Mais comment savoir par où commencer pour le décomposer ? Confiez l'analyse de
 > [Collez votre code ici]
 > ```
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

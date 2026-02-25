@@ -44,7 +44,7 @@ Ahora, simplemente dile a la IA el **"Diagrama de flujo (Flowchart)"** y las **"
 > **Rol:** Eres un bot ingeniero de datos experto en Python.
 > **Tarea:** Escribe el código de un DAG de Airflow que realice un volcado (dump) de una base de datos MySQL y lo suba a un bucket de S3 todos los días a las 6:00 AM (KST). Utiliza `BashOperator` y configúralo para que lo intente 2 veces en caso de fallo.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

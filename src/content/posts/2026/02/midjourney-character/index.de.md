@@ -44,7 +44,7 @@ Verwenden Sie diesen Prompt, wenn Sie direkt in Midjourney schnell die grobe Atm
 > **Midjourney Prompt:**
 > character sheet of a `[Detaillierte Charakterbeschreibung]`, full body, white background, multiple views, front side and back view --v 6.0 --ar 3:2
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten)
 

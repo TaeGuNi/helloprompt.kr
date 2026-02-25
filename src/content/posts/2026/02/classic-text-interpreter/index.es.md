@@ -42,7 +42,7 @@ El verdadero sabor de la historia se encuentra en las fuentes primarias, no en l
 > **Rol:** Eres un `[Filólogo Clásico e Historiador Experto]`.
 > **Solicitud:** Traduce este `[documento antiguo/texto clásico]` a un lenguaje moderno y sencillo, y explícame brevemente su significado oculto.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Experto)
 

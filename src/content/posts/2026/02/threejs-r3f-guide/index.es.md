@@ -45,7 +45,7 @@ Sin embargo, usar Three.js puro requiere fórmulas matemáticas complejas, matri
 >
 > **Solicitud:** Usando React Three Fiber (R3F), muestra un cubo en el centro de la pantalla. Crea un componente interactivo donde el cubo aumente su tamaño a 1.2x al pasar el ratón (Hover), cambie a un color aleatorio al hacer clic, y gire sobre sí mismo constantemente usando el hook `useFrame`.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 
@@ -108,11 +108,11 @@ En la práctica, es vital comprimir los modelos usando **compresión Draco (Drac
 
 ### ❌ Antes (Imágenes 2D estáticas)
 
-> "¿No puedo ver los detalles de los puertos en la parte trasera ni el acabado del producto?" (No se puede ampliar ni girar, es una transmisión de información unidireccional y aburrida 🖼️)
+"¿No puedo ver los detalles de los puertos en la parte trasera ni el acabado del producto?" (No se puede ampliar ni girar, es una transmisión de información unidireccional y aburrida 🖼️)
 
 ### ✅ Después (Exhibición 3D reactiva al scroll)
 
-> El producto reacciona sutilmente al puntero del ratón. Al hacer scroll, los componentes internos y la batería se desensamblan en el aire, mostrando las especificaciones detalladas. (El tiempo de permanencia del cliente aumenta en más de un 300%, ofreciendo una experiencia de marca premium inmersiva 🚀)
+El producto reacciona sutilmente al puntero del ratón. Al hacer scroll, los componentes internos y la batería se desensamblan en el aire, mostrando las especificaciones detalladas. (El tiempo de permanencia del cliente aumenta en más de un 300%, ofreciendo una experiencia de marca premium inmersiva 🚀)
 
 ---
 

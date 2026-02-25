@@ -44,7 +44,7 @@ Sabemos cuánta sangre, sudor y lágrimas requiere planificar, grabar y editar u
 >
 > `[Pega aquí el guion del video]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 
@@ -99,7 +99,7 @@ Por lo tanto, en lugar de pedirle a la IA "Resumen esto", el secreto de la calid
   - R: Si el video es tuyo, tienes total libertad. Pero si basas tus artículos en videos de terceros, debes tener mucho cuidado. Copiar el guion literalmente (plagio) es una clara violación de los derechos de autor. Siempre debes indicarle a la IA que "reescriba y transforme completamente el texto con sus propias palabras" y, sobre todo, debes incluir el enlace y la fuente del video original al principio o al final de tu artículo para respetar los límites de la "cita justa".
 
 - **P: Si ingreso un guion muy largo, ¿la IA omitirá información o se detendrá a la mitad?**
-  - R: Si es un video de más de una hora, los modelos estándar pueden recortar la información debido a los límites de su ventana de contexto. En estos casos, es abrumadoramente mejor usar **Claude 3.5 Sonnet** o **Gemini 1.5 Pro**, ya que pueden procesar una cantidad masiva de tokens a la vez. Están diseñados específicamente para mantener el contexto de textos extensos sin perder un solo detalle hasta el final.
+  - R: Si es un video de más de una hora, los modelos estándar pueden recortar la información debido a los límites de su ventana de contexto. En estos casos, es abrumadoramente mejor usar **Claude 3.5 Sonnet** o **Gemini 2.5 Pro**, ya que pueden procesar una cantidad masiva de tokens a la vez. Están diseñados específicamente para mantener el contexto de textos extensos sin perder un solo detalle hasta el final.
 
 ---
 

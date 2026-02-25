@@ -48,7 +48,7 @@ Nutze diesen Prompt, wenn du nur eine kurze, formelle Anfrage senden möchtest.
 > **Rolle:** Du bist ein erfahrener Karrierecoach und Kommunikationsexperte.
 > **Anfrage:** Schreibe eine kurze, professionelle geschäftliche E-Mail an meinen Vorgesetzten, in der ich um ein Gespräch über meine bisherigen Leistungen und eine Gehaltsanpassung bitte. Der Ton soll höflich, aber selbstbewusst sein.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für maximale Überzeugungskraft)
 

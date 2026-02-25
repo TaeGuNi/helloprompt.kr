@@ -42,7 +42,7 @@ Idéal pour obtenir rapidement la structure d'un composant simple.
 > **Rôle :** Tu es un développeur frontend expert doublé d'un designer UI/UX.
 > **Demande :** Génère le code d'un `[Composant UI souhaité]` en utilisant `[Votre Stack Technique]`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 
@@ -130,7 +130,7 @@ const ProductCard = ({ image, title, price }) => {
         <button
           className="absolute top-3 right-3 p-2 bg-white/80 backdrop-blur-sm rounded-full text-gray-400 hover:text-red-500 hover:bg-white transition-colors focus:outline-none focus:ring-2 focus:ring-red-400"
           aria-label="Ajouter à la liste de souhaits"
-        >
+
           <Heart size={20} />
         </button>
       </div>
@@ -144,7 +144,7 @@ const ProductCard = ({ image, title, price }) => {
         <button
           className="w-full bg-indigo-600 hover:bg-indigo-700 text-white font-medium py-2.5 px-4 rounded-lg flex items-center justify-center gap-2 transition-colors focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
           aria-label={`Ajouter ${title} au panier`}
-        >
+
           <ShoppingCart size={18} />
           <span>Ajouter au panier</span>
         </button>

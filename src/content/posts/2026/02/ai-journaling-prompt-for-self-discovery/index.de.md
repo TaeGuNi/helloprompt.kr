@@ -49,7 +49,7 @@ Verwenden Sie diese Variante, wenn Sie schnelle Impulse für Ihre Tagebucheintr�
 > **Rolle:** Du bist ein einfühlsamer psychologischer Berater.
 > **Aufgabe:** Stell mir 3 tiefgründige Fragen, um meinen Tag zu reflektieren und mein inneres Selbst besser zu verstehen. Belasse es nicht bei oberflächlichen Fragen wie "Was hast du heute gemacht?".
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenmodus)
 
@@ -104,7 +104,7 @@ Dieser Prompt bewirkt wahre Wunder für all jene, die den therapeutischen Nutzen
 Ich möchte Tagebuch schreiben. Stell mir eine Frage.
 ```
 
-> KI: "Was war das beste Erlebnis deines heutigen Tages und was hast du zu Mittag gegessen?" _(Oberflächlich und eindimensional)_
+KI: "Was war das beste Erlebnis deines heutigen Tages und was hast du zu Mittag gegessen?" _(Oberflächlich und eindimensional)_
 
 ### ✅ Nachher (Mit Pro-Prompt)
 

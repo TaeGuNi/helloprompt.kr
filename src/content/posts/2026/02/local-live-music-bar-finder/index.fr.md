@@ -49,7 +49,7 @@ Idéal pour obtenir une suggestion rapide et spontanée.
 > **Rôle :** Tu es un 'Rédacteur en chef d'un magazine de musique indépendante' connaissant parfaitement la scène musicale de `[Nom de la Ville]`.
 > **Requête :** Fini la musique d'ambiance ennuyeuse des restaurants attrape-touristes. Recommande-moi un lieu authentique pour écouter de la musique live ce soir.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 

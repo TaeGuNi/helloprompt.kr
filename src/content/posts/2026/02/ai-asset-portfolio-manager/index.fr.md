@@ -42,7 +42,7 @@ Utilisez cette version pour évaluer rapidement le niveau de risque de votre por
 > **Mes actifs :** 80 % en actions françaises, 20 % en épargne (livrets).
 > **Requête :** Analyse le plus grand risque de mon portefeuille actuel. Que se passera-t-il en cas de crise économique ? Conseille-moi sur la manière d'augmenter la part de mes actifs refuges et dans quelle proportion.
 
-<br>
+\
 
 ### 🥇 Version Pro (Diagnostic Expert et Rééquilibrage)
 

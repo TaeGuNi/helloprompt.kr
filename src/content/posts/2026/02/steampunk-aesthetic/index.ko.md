@@ -41,7 +41,7 @@ Steampunk(스팀펑크)는 증기 기관이 고도로 발달한 대체 역사를
 
 > **Prompt:** A portrait of a `[피사체, 예: cat]`, steampunk style, wearing goggles, brass and copper gears, Victorian era, sepia tone, highly detailed.
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 

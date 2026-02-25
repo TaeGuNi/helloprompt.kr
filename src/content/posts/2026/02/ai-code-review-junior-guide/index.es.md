@@ -42,7 +42,7 @@ Pero la historia cambia por completo cuando conviertes a la **IA** en tu "mentor
 > **Tarea:** Revisa el siguiente código en busca de errores lógicos o problemas de legibilidad, y dame 3 puntos clave sobre cómo mejorarlo.
 > **Código:** `[Pega tu código aquí]`
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

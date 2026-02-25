@@ -42,7 +42,7 @@ Idéale pour obtenir une vue d'ensemble rapide sans entrer dans les détails com
 > **Rôle :** Tu es un `[Guide de Voyage Professionnel]` réputé pour ta minutie.
 > **Demande :** Calcule un budget de voyage réaliste pour `[Destination]`, incluant les vols, l'hébergement et la nourriture, avec une marge d'erreur inférieure à 10 %.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

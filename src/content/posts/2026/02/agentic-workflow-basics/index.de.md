@@ -13,7 +13,7 @@ tags: ["AI 에이전트", "자동화", "생산성", "워크플로우"]
 
 - **🎯 Empfohlen für:** Solopreneure, Freiberufler, überlastete Projektmanager und Marketer
 - **⏱️ Zeitaufwand:** 1 Stunde → auf 5 Minuten verkürzt (inklusive Planung und Überprüfung)
-- **🤖 Empfohlene Modelle:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro (Modelle mit herausragenden logischen Schlussfolgerungen werden dringend empfohlen)
+- **🤖 Empfohlene Modelle:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro (Modelle mit herausragenden logischen Schlussfolgerungen werden dringend empfohlen)
 
 - ⭐ **Schwierigkeitsgrad:** ⭐⭐⭐☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -44,7 +44,7 @@ Nutzen Sie diese Basis-Variante, wenn Sie schnell eine Projektstruktur und eine 
 > **Rolle:** Du bist ab sofort ein Senior `[Projektmanager]` mit 10 Jahren Berufserfahrung.
 > **Anweisung:** Um das `[Projektziel]` erfolgreich zu erreichen, plane die 3 wichtigsten Meilensteine. Erstelle für jede Phase eine tabellarische Übersicht, die zeigt, welche Fachkräfte (Rollen) eingesetzt werden müssen und welche konkreten Action Items sie auszuführen haben.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 

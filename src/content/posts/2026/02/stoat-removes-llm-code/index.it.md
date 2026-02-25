@@ -47,7 +47,7 @@ Utilizza questa versione quando hai bisogno di ridurre rapidamente le righe di c
 > **Azione:** Rivedi il codice seguente e riscrivilo riducendo al minimo le righe di codice, mantenendo le funzionalità identiche al 100%. Elimina senza pietà astrazioni inutili, logiche duplicate e dead code.
 > **Codice:** `[Incolla qui il codice da refattorizzare]`
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

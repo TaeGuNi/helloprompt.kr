@@ -42,7 +42,7 @@ Usalo quando hai bisogno di uno script per riordinare rapidamente un desktop o u
 > **Ruolo:** Sei un `[ingegnere di sistemi Linux con 10 anni di esperienza]`.
 > **Richiesta:** Scrivi uno `[script shell che classifichi automaticamente i file nella cartella ~/Downloads per estensione, crei sottocartelle (es. le immagini in Images, i pdf in Docs) e vi sposti i file all'interno]`. Spiegami anche come concedere i permessi di esecuzione allo script.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Analisi dei log e notifiche Slack in tempo reale)
 

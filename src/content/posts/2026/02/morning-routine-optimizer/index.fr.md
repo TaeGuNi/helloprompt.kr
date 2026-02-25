@@ -42,7 +42,7 @@ Utilisez ceci si vous avez juste besoin d'une structure simple et immédiate pou
 > **Rôle :** Tu es un coach en productivité et bien-être.
 > **Requête :** Crée-moi une routine matinale de 60 minutes incluant des étirements légers, un moment de calme et la préparation de ma journée de travail.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pour des résultats optimisés et sur mesure)
 

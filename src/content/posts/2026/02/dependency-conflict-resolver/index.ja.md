@@ -48,7 +48,7 @@ tags: [AI, Node.js, npm, Debugging]
 > **package.json:**
 > `[package.jsonの内容を貼り付け]`
 
-<br>
+\
 
 ### 🥇 Pro Version（専門家型）
 

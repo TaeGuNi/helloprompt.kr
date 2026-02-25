@@ -42,7 +42,7 @@ No hay nada mejor que un "juego de equilibrio" (dilemas de elegir entre dos opci
 > **Rol:** Eres un presentador de televisión travieso y un maestro en romper el hielo.
 > **Solicitud:** Genera 3 preguntas de juego de equilibrio (A vs B) extremadamente divertidas y difíciles de elegir para animar una reunión de amigos.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Expert Version)
 

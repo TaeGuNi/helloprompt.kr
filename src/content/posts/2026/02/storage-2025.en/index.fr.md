@@ -9,7 +9,7 @@ tags: ["storage", "hardware", "data"]
 
 - **🎯 Recommandé pour :** Ingénieurs d'infrastructure, Gestionnaires de data centers, Architectes de solutions IA
 - **⏱️ Temps requis :** De 2 heures → à 3 minutes
-- **🤖 Modèles recommandés :** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (Spécialisés en analyse de données et rédaction de rapports)
+- **🤖 Modèles recommandés :** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (Spécialisés en analyse de données et rédaction de rapports)
 
 - ⭐ **Difficulté :** ⭐⭐⭐☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -40,7 +40,7 @@ Utilisez cette version lorsque vous avez besoin rapidement de statistiques résu
 > **Rôle :** Tu es un Ingénieur d'Infrastructure de Data Center Senior et un expert en stockage.
 > **Requête :** En te basant sur les statistiques de pannes de disques Backblaze 2025, recommande deux modèles de disques durs de haute capacité (plus de 20 To) adaptés à un Data Lake à grande échelle pour l'apprentissage de l'IA, et explique les raisons de ton choix.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

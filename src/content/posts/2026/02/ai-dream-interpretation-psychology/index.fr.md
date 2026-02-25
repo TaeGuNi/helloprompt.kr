@@ -43,7 +43,7 @@ Utilisez ce prompt lorsque vous souhaitez une interprétation rapide et sans dé
 > **Rôle :** Tu es un analyste des rêves expert en psychologie analytique de Carl Jung.
 > **Requête :** Analyse les symboles psychologiques de mon rêve suivant pour en extraire le message de mon inconscient, au lieu d'en faire une interprétation superstitieuse : `[Insérez votre rêve ici]`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

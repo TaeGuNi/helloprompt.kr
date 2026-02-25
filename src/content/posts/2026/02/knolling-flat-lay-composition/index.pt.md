@@ -42,7 +42,7 @@ Use esta versão quando precisar de resultados estéticos rápidos sem precisar 
 > **Papel:** Você é um `[Especialista em Fotografia de Produtos]`.
 > **Solicitação:** Gere um prompt em inglês para IA descrevendo `[inserir tema, ex: equipamento de camping]` organizados com a técnica de Knolling, usando o estilo 'flat lay' e 'top-down view' sobre um fundo limpo.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert)
 
@@ -107,7 +107,7 @@ Ao adicionar comandos punitivos como `--no overlapping, messy, cluttered` e for�
 
 ### ❌ Antes (Entrada Simples)
 
-> Uma foto de itens de viagem espalhados em cima de uma mesa.
+Uma foto de itens de viagem espalhados em cima de uma mesa.
 
 **(Resultado Visual):** Os objetos estão jogados ao acaso. Uma câmera está em cima de um passaporte escondendo os detalhes, as alças de uma mochila estão emaranhadas, transmitindo uma forte sensação de desorganização, caos e ansiedade visual.
 

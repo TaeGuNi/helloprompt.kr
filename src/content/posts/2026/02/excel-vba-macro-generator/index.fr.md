@@ -42,7 +42,7 @@ Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide pour une tâc
 > **Rôle :** Tu es un Développeur Expert en Excel VBA.
 > **Requête :** Je veux automatiser la tâche suivante sur Excel : `[Décrivez votre tâche, ex: Supprimer toutes les lignes vides et mettre en gras les cellules contenant "Total"]`. Rédige le code VBA complet et explique-moi pas à pas comment l'intégrer, car je suis un grand débutant.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 

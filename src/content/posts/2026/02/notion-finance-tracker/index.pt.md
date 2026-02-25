@@ -45,7 +45,7 @@ Use esta versão quando precisar apenas de cálculos simples de adição e subtr
 > 
 > **Task (Tarefa):** Eu tenho um banco de dados no Notion com uma propriedade 'Valor' (número) e uma propriedade 'Tipo' (seleção: Receita/Despesa). Combine essas duas propriedades escrevendo uma fórmula com a função `if`: se o 'Tipo' for Receita, mantenha o valor positivo; se for 'Despesa', adicione um sinal de menos (-) na frente para calcular o 'Valor Real'.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Profissional)
 

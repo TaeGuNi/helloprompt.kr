@@ -42,7 +42,7 @@ tags: ["AI", "Tech", "prompt-engineering-zero-shot-vs-few-shot"]
 > **任務:** 請分析以下文本的情感。只能輸出「正向」、「負向」或「中立」。
 > **文本:** "服務速度有點慢，但食物非常美味。"
 
-<br>
+\
 
 ### 🥇 Pro Version (專家型 / Few-Shot)
 

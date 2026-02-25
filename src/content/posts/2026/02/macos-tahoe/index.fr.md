@@ -38,7 +38,7 @@ Parfait pour obtenir un résumé rapide et des pistes d'amélioration immédiate
 > **Rôle :** Tu es un `[Expert UX/UI]`.
 > **Requête :** Analyse la controverse autour de la fonctionnalité `[Intelligent Edge de macOS Tahoe]`. Explique pourquoi les professionnels la détestent et propose 3 solutions de design pour corriger le tir.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 

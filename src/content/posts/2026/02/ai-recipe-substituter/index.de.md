@@ -44,7 +44,7 @@ Nutzen Sie diese Version, wenn Sie mitten im Kochen stecken und nur schnell den 
 > **Rolle:** Du bist ein 3-Sterne-Michelin-Koch.
 > **Aufgabe:** Ich mache gerade `[Rahm-Pasta]` und habe keine `[Sahne]` mehr. Nenne mir kurz und knapp 3 gängige Zutaten, die ich stattdessen verwenden kann.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten & Perfektionisten)
 

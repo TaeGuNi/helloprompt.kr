@@ -42,7 +42,7 @@ Ideal para cuando necesitas una regla mnemotécnica rápida sin demasiados detal
 > **Rol:** Eres un experto en mnemotecnia y un escritor creativo con mucho sentido del humor.
 > **Solicitud:** Ayúdame a memorizar la fórmula `[Inserta tu fórmula aquí]` creando una historia corta y una regla mnemotécnica divertida para que nunca se me olvide.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

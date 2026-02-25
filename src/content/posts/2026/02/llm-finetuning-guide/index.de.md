@@ -52,7 +52,7 @@ Wenn Ihnen die Zeit fehlt, Hunderte von Datensätzen manuell abzutippen, nutzen 
 > 2. Schreibe für jede Frage eine fachlich fundierte, stark motivierende Antwort (Output).
 > 3. Die Ausgabe MUSS zwingend im JSONL-Format erfolgen (`{"instruction": "...", "output": "..."}`).
 
-<br>
+\
 
 ### 🥇 Pro Version (Code-Generator für die Trainings-Pipeline)
 

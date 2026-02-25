@@ -50,7 +50,7 @@ Utilisez ceci pour une amélioration rapide du code et des corrections de bugs i
 > **Rôle :** Tu es un `[Développeur Backend Senior]`.
 > **Tâche :** Refactorise la fonction `[nom de la fonction existante]` de ce fichier avec la syntaxe la plus récente, et corrige parfaitement les fuites de mémoire ou erreurs potentielles.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Expert)
 

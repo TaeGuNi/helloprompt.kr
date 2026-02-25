@@ -49,7 +49,7 @@ Verwenden Sie diesen Prompt, wenn Sie sofortige Ergebnisse ohne viele Vorgaben b
 >
 > **Aufgabe:** Korrigiere meinen Lebenslauf-Text. Beseitige alle Tippfehler, verbessere die Grammatik und passe den Tonfall so an, dass er absolut professionell, präzise und überzeugend für Personalverantwortliche klingt.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Level)
 

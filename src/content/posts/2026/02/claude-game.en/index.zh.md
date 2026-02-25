@@ -38,7 +38,7 @@ tags: ["ai", "gamedev", "claude"]
 > **角色：** 你是一位资深的游戏客户端开发者。
 > **任务：** 请使用 HTML5 Canvas 制作一款基于浏览器的 2D 高尔夫游戏。必须包含高尔夫球、球洞 (Hole) 以及通过鼠标拖拽击球 (drag-to-shoot) 的机制。
 
-<br>
+\
 
 ### 🥇 Pro Version (专业版)
 

@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "ai-privacy-leaks"]
 
 - **🎯 Consigliato per:** Sviluppatori IoT, Ingegneri del Software, Esperti di Sicurezza
 - **⏱️ Tempo richiesto:** 2 ore → 3 minuti
-- **🤖 Modelli consigliati:** GPT-4, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modelli consigliati:** GPT-4, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Difficoltà:** ⭐⭐☆☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -39,7 +39,7 @@ Ideale per una rapida analisi di un'idea di prodotto o di un singolo dispositivo
 > **Ruolo:** Sei un `[Esperto di Sicurezza IoT e Privacy]`.
 > **Richiesta:** Analizza il seguente dispositivo: `[Descrizione del dispositivo smart e dei suoi sensori]`. Identifica i 3 principali rischi per la privacy e suggerisci soluzioni rapide per mitigarli.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Pro Version)
 

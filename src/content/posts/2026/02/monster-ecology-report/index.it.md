@@ -42,7 +42,7 @@ Usala quando ti serve solo un'idea veloce per un incontro casuale o per riempire
 > **Ruolo:** Sei un biologo esperto e un ricercatore di mostri che sta esplorando un continente sconosciuto.
 > **Richiesta:** Sono stanco dei classici slime e goblin. Progetta un mostro originale, credibile e realistico, descrivendo il suo ecosistema, le sue abitudini e come caccia.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Esperto)
 
@@ -105,7 +105,7 @@ Questo approccio trasforma completamente il modo in cui il pubblico o i giocator
 
 ### ❌ Prima (Input)
 
-> Crea un mostro coccodrillo per una palude.
+Crea un mostro coccodrillo per una palude.
 
 _(Risultato: "Il Coccodrillo della Palude è un grosso rettile con scaglie verdi. Morde forte e vive nell'acqua fangosa. Quando viene sconfitto lascia cadere denti e pelle di coccodrillo.")_
 

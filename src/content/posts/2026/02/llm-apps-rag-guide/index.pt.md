@@ -5,9 +5,6 @@ date: 2026-02-13
 pubDate: 2026-02-13
 description: " \"Aprenda a construir aplicativos LLM poderosos e pipelines RAG usando a coleção awesome-llm-apps.\""
 author: "Hello Prompt"
-image:
-  url: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2560&auto=format&fit=crop"
-  alt: "AI Neural Network"
 tags: ["LLM", "RAG", "AI", "Development", "Guide"]
 ---
 
@@ -15,7 +12,7 @@ tags: ["LLM", "RAG", "AI", "Development", "Guide"]
 
 - **🎯 Público-alvo:** Desenvolvedores, Engenheiros de IA, Arquitetos de Software
 - **⏱️ Tempo economizado:** Horas de pesquisa e testes → 5 minutos de modelagem
-- **🤖 Modelo recomendado:** Qualquer modelo de ponta (GPT-4, Claude 3.5 Sonnet, Gemini 1.5 Pro)
+- **🤖 Modelo recomendado:** Qualquer modelo de ponta (GPT-4, Claude 3.5 Sonnet, Gemini 2.5 Pro)
 
 - ⭐ **Dificuldade:** ⭐⭐⭐☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -48,7 +45,7 @@ Ideal para obter um esboço inicial das ferramentas e do fluxo de dados que voc�
 > **Atue como:** Um Arquiteto de Software de IA.
 > **Tarefa:** Projete uma arquitetura básica de sistema RAG para `[seu caso de uso, ex: um assistente de suporte ao cliente interno]`. Liste os frameworks, banco de dados vetorial e LLM ideais para esse cenário.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Planejamento Completo)
 

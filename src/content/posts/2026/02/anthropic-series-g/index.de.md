@@ -14,7 +14,7 @@ title: "Anthropic Erhält Serie-G-Finanzierung"
 
 - **🎯 Empfohlene Zielgruppe:** Tech-Analysten, Investoren, Produktmanager, KI-Enthusiasten
 - **⏱️ Zeitaufwand:** 30 Minuten Recherche → auf 1 Minute verkürzt
-- **🤖 Empfohlene Modelle:** Alle konversationsfähigen KIs (Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro)
+- **🤖 Empfohlene Modelle:** Alle konversationsfähigen KIs (Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro)
 
 - ⭐ **Schwierigkeitsgrad:** ⭐⭐☆☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -48,7 +48,7 @@ Nutzen Sie diese Version, wenn Sie nur die Kernfakten und unmittelbaren Auswirku
 > **Aufgabe:** Fasse die folgende Nachricht zusammen und nenne die 3 wichtigsten Auswirkungen auf den KI-Markt.
 > **Nachricht:** `[Fügen Sie hier die News oder den Link zur Anthropic-Finanzierung ein]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Für tiefe strategische Einblicke)
 

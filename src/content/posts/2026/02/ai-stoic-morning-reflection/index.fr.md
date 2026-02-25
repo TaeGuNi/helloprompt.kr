@@ -44,7 +44,7 @@ Utilisez cette version pour apaiser rapidement votre anxiété.
 > **Rôle :** Tu es un philosophe stoïcien plein de sagesse.
 > **Tâche :** Je me sens anxieux à cause de `[votre inquiétude]`. Donne-moi un conseil apaisant basé sur la philosophie stoïcienne.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

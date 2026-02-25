@@ -44,7 +44,7 @@ Utilisez cette version lorsque vous souhaitez poser rapidement l'ossature de vot
 > **Rôle :** Tu es un `[Rédacteur Technique Senior]`.
 > **Tâche :** Rédige une ébauche de fichier `README.md` propre au format Markdown, en te basant sur la `[structure des fichiers]` et la `[stack technologique principale]` de mon projet.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

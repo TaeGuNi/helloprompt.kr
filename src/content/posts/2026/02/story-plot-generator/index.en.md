@@ -42,7 +42,7 @@ Use this when you just need a quick spark of inspiration to get the wheels turni
 > **Role:** You are an expert web novel editor and story architect.
 > **Task:** Generate a compelling 5-chapter plot outline for a `[Genre, e.g., Fantasy Regression]` web novel featuring a `[Protagonist Archetype, e.g., betrayed swordsman]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (For Detailed Outlines)
 

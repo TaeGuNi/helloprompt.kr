@@ -13,7 +13,7 @@ tags: ["독서", "요약", "학습", "지식관리"]
 
 - **🎯 Consigliato per:** Professionisti, sviluppatori e studenti universitari sommersi da documenti ma con poco tempo.
 - **⏱️ Tempo richiesto:** Da 1 ora → ridotto a 15 minuti.
-- **🤖 Modelli consigliati:** Claude 3.5 Sonnet (eccezionale per contesti lunghi), Gemini 1.5 Pro.
+- **🤖 Modelli consigliati:** Claude 3.5 Sonnet (eccezionale per contesti lunghi), Gemini 2.5 Pro.
 
 - ⭐ **Difficoltà:** ⭐⭐☆☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -45,7 +45,7 @@ Usalo quando devi cogliere rapidamente solo il contesto chiave di un documento.
 > **Azione:** Leggi il testo seguente e riassumi i 3 punti chiave più importanti in modo che anche un principiante possa capirli facilmente.
 > **Testo:** `[Inserisci il testo qui]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 
@@ -88,7 +88,7 @@ Il cervello umano impara più velocemente quando collega informazioni sconosciut
 ## 🙋 Domande Frequenti (FAQ)
 
 - **Q: Posso copiare e incollare un intero libro in una volta sola?**
-  - A: Dipende dalle dimensioni della finestra di contesto (Context Window) del modello IA. I modelli più recenti, come Gemini 1.5 Pro o Claude 3.5 Sonnet, gestiscono senza problemi PDF o testi lunghi quanto un libro. Tuttavia, per risposte più precise e accurate, ti consiglio di dividere le domande per capitolo.
+  - A: Dipende dalle dimensioni della finestra di contesto (Context Window) del modello IA. I modelli più recenti, come Gemini 2.5 Pro o Claude 3.5 Sonnet, gestiscono senza problemi PDF o testi lunghi quanto un libro. Tuttavia, per risposte più precise e accurate, ti consiglio di dividere le domande per capitolo.
 
 - **Q: Posso fidarmi solo del riassunto senza leggere l'originale?**
   - A: L'IA è un'ottima bussola, ma non può catturare ogni dettaglio della mappa. Usa questo prompt come un "antipasto per capire lo scheletro e il contesto del libro prima della vera lettura". Se inserisci prima la struttura generale nel tuo cervello e poi leggi l'originale, assorbirai le informazioni come una spugna.

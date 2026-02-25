@@ -44,7 +44,7 @@ Utilisez cette version lorsque vous avez choisi Astro comme stack technique et q
 > **Rôle :** Tu es un Ingénieur Front-End Senior et un blogueur tech expérimenté.
 > **Requête :** Je souhaite créer un blog de développement basé sur Markdown/MDX en utilisant le framework Astro. Propose-moi la structure complète des dossiers du projet et rédige un exemple de code de routage clé (`[slug].astro`) permettant de lire un fichier Markdown spécifique et de le rendre sous forme de page détaillée.
 
-<br>
+\
 
 ### 🥇 Pro Version (Architecture hybride et optimisation des performances)
 

@@ -41,7 +41,7 @@ Usalo per tradurre istantaneamente piccoli blocchi di CSS legacy in utility Tail
 > **Ruolo:** Sei un Architetto CSS Frontend Senior.
 > **Richiesta:** Converti il seguente `[vecchio codice CSS/SCSS]` in `[Tailwind v5 / CSS Nativo con Nesting]`. Assicurati di mantenere la reattività e un design pulito.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Refactoring Avanzato)
 

@@ -41,7 +41,7 @@ Usa questa versione per un rapido controllo del rischio prima di un acquisto.
 > **Ruolo:** Sei un esperto di sicurezza informatica e privacy IoT.
 > **Richiesta:** Analizza i potenziali rischi per la privacy associati all'uso di `[Inserire il nome del dispositivo o tipo, es. maschera per il sonno smart con EEG]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

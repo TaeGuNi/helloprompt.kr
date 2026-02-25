@@ -43,7 +43,7 @@ Ideal para un repaso rápido o una evaluación superficial de tu código.
 > **Rol:** Eres un `[Entrevistador Técnico Senior de Google]`.
 > **Solicitud:** Revisa el siguiente `[código]` que resuelve el `[problema]`, analiza su complejidad y hazme una pregunta para ver si puedo optimizarlo.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Recomendada)
 
@@ -111,16 +111,16 @@ Lo más valioso de este prompt es la instrucción de **no dar el código de la s
 ### ✅ Después (Con el Simulador de Entrevista)
 
 > **IA (Entrevistador):**
->
+
 > **[Análisis de Complejidad]**
-> Tu solución tiene una Complejidad Temporal de $O(N^2)$ debido al bucle anidado. La Complejidad Espacial es $O(1)$. Para un array de 10,000 elementos, esto ejecutará 100 millones de operaciones. Inaceptable en producción.
->
+Tu solución tiene una Complejidad Temporal de $O(N^2)$ debido al bucle anidado. La Complejidad Espacial es $O(1)$. Para un array de 10,000 elementos, esto ejecutará 100 millones de operaciones. Inaceptable en producción.
+
 > **[Revisión de Código]**
-> Usaste variables como `i`, `j` y `temp`. Aunque en problemas cortos es común, `temp` no describe qué está almacenando. Usa nombres descriptivos como `current_sum`.
->
+Usaste variables como `i`, `j` y `temp`. Aunque en problemas cortos es común, `temp` no describe qué está almacenando. Usa nombres descriptivos como `current_sum`.
+
 > **[Preguntas de Seguimiento]**
-> ¿Podrías optimizar la búsqueda del complemento para que la complejidad temporal baje a $O(N)$?
->
+¿Podrías optimizar la búsqueda del complemento para que la complejidad temporal baje a $O(N)$?
+
 > **[Pista]** Piensa en cómo podrías usar memoria adicional (espacio) para reducir el tiempo. ¿Hay alguna estructura de datos en tu lenguaje que ofrezca búsquedas en $O(1)$?
 
 > **Yo (Pensando):** "¡Ah, claro! Puedo usar un Hash Map (Diccionario) para guardar los valores que ya he visto..."

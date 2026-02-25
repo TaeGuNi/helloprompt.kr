@@ -41,7 +41,7 @@ Ideale per ottenere una panoramica rapida o risolvere dubbi architetturali fonda
 > **Ruolo:** Sei un Cloud Native Architect senior esperto in Kubernetes e Edge Computing.
 > **Azione:** Progettami un'architettura di base per gestire `[numero]` cluster all'Edge utilizzando K3s e GitOps. Evidenzia come gestire la connettività intermittente.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Pro Version)
 

@@ -42,7 +42,7 @@ Idéale pour une session rapide sans configuration complexe.
 > **Rôle :** Tu es un recruteur avec 10 ans d'expérience chez `[Nom de l'Entreprise]`. Tu es pointilleux, très logique, et tu repères la moindre incohérence chez les candidats.
 > **Requête :** Fais-moi passer un entretien sous pression en posant des questions de relance incisives, l'une après l'autre, comme dans un véritable entretien d'embauche.
 
-<br>
+\
 
 ### 🥇 Version Pro
 

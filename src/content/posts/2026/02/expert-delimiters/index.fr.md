@@ -43,12 +43,12 @@ Idéal pour des tâches simples où vous souhaitez éviter que l'IA ne se perde 
 
 > **Rôle :** Tu es un `[Assistant de Synthèse]` expert.
 > **Requête :** Résume le texte délimité par trois guillemets ci-dessous en trois points clés.
->
-> """
-> `[Collez votre texte ici]`
-> """
 
-<br>
+"""
+`[Collez votre texte ici]`
+"""
+
+\
 
 ### 🥇 Version Pro (Expert)
 

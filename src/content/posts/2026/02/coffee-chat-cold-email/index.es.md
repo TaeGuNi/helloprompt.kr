@@ -42,7 +42,7 @@ A la mayoría de los profesionales consolidados les halaga que los vean como un 
 > **Rol:** Eres un experto en networking y relaciones públicas.
 > **Solicitud:** Escribe un mensaje directo (DM) profesional y cortés para LinkedIn dirigido a `[Nombre del Profesional]`, pidiendo un breve consejo sobre `[Tema]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

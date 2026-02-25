@@ -5,9 +5,6 @@ date: 2026-02-13
 pubDate: 2026-02-13
 description: " \"awesome-llm-apps 컬렉션을 활용하여 강력한 LLM 애플리케이션과 RAG 파이프라인을 구축하는 방법을 알아보세요.\""
 author: "Hello Prompt"
-image:
-  url: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2560&auto=format&fit=crop"
-  alt: "AI Neural Network"
 tags: ["LLM", "RAG", "AI", "Development", "Guide"]
 ---
 
@@ -44,7 +41,7 @@ LLM(대규모 언어 모델) 애플리케이션, 특히 RAG(Retrieval-Augmented 
 > **역할:** 너는 10년 차 '시니어 AI 아키텍트'야.
 > **요청:** 우리가 `[만들고 싶은 서비스의 목적]`을 위한 RAG 기반 LLM 애플리케이션을 만들려고 해. 최적의 프레임워크와 Vector DB, 배포 환경을 추천해 주고 간단한 구조도를 마크다운으로 그려줘.
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 

@@ -44,7 +44,7 @@ Use this when you want to quickly visualize a rough idea. (Paste this directly i
 > **Prompt:**
 > `A cinematic drone shot of a futuristic cyberpunk city at sunset, flying cars, neon lights, 4k resolution, photorealistic`
 
-<br>
+\
 
 ### 🥇 Pro Version
 

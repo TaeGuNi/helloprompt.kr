@@ -42,7 +42,7 @@ Usala quando vai di fretta e hai bisogno solo di una soluzione rapida e indolore
 > **Ruolo:** Sei un `[Senior Software Engineer esperto di debugging]`.
 > **Richiesta:** Trova il bug nel seguente codice in base a questo messaggio di errore: `[Inserisci Errore]`. Codice: `[Inserisci Codice]`. Fornisci la soluzione.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

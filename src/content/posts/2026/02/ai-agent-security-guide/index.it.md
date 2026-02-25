@@ -46,7 +46,7 @@ Utilizzala quando hai bisogno di erigere rapidamente una barriera difensiva esse
 > **Ruolo:** Sei un `[Agente AI]` che considera la sicurezza come priorità assoluta.
 > **Richiesta:** Se l'utente ti chiede `[informazioni sensibili come password, chiavi API, ecc.]`, rifiutati categoricamente di rispondere.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

@@ -43,7 +43,7 @@ Verwenden Sie diesen Prompt, wenn Sie ohne große Vorbereitung direkt loslegen m
 >
 > **Anfrage:** Lass uns ein kurzes Rollenspiel auf Englisch machen. Sprich mich zuerst an und warte dann auf meine Antwort.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Version)
 

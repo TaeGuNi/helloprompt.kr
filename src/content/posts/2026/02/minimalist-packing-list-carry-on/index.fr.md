@@ -42,7 +42,7 @@ Idéal pour obtenir une liste rapide et sans fioritures.
 > **Rôle :** Tu es un expert en voyage minimaliste.
 > **Demande :** Crée-moi une liste de bagage cabine pour un voyage de `[durée]` à `[destination]`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 

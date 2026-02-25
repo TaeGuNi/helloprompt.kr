@@ -39,7 +39,7 @@ El problema de las alucinaciones de la IA ha sido durante mucho tiempo el mayor 
 > **Rol:** Eres un `[Analista de Datos Riguroso]`.
 > **Tarea:** Responde a la siguiente pregunta: `[Tu pregunta]`. Basa tu respuesta únicamente en hechos comprobables y cita tus fuentes con notas al pie. Si no sabes algo, di explícitamente "No tengo información verificada sobre esto".
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

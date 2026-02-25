@@ -42,7 +42,7 @@ Usala quando hai bisogno di un responso rapido e diretto.
 > **Ruolo:** Sei un Senior DBA con 15 anni di esperienza.
 > **Richiesta:** Ottimizza questa query SQL e suggeriscimi quali indici creare per migliorarne le prestazioni. `[Inserisci Query]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 

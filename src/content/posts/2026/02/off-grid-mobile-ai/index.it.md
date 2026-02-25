@@ -40,7 +40,7 @@ Perfetto per chi ha bisogno di un LLM sempre disponibile, anche in modalità aer
 > **Configurazione:** Scarica l'APK, carica un modello leggero come `Llama-3.2-3B`.
 > **Prompt di base:** "Riassumi i miei appunti di riunione. Non inventare dettagli. Scrivi in un italiano formale."
 
-<br>
+\
 
 ### 🥇 Pro Version (Analisi Multimodale Complessa)
 

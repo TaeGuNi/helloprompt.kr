@@ -40,12 +40,12 @@ Il problema cronico delle API REST si riassume in due concetti: **Over-fetching*
 Utilizza questo prompt quando desideri convertire rapidamente le specifiche di un'API REST esistente in uno schema GraphQL.
 
 > **Ruolo:** Sei un Senior Backend Engineer.
->
+
 > **Task:** Basandoti sul JSON di risposta dell'API REST fornito di seguito, definisci lo schema GraphQL (`type`) più ottimale e scrivi un esempio di query per richiedere i dati.
->
+
 > **Dati:** `[Copia/incolla qui la risposta JSON dell'API REST esistente]`
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata: Soluzione N+1 e Paginazione Perfetta)
 

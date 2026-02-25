@@ -42,7 +42,7 @@ Ideal, wenn Sie sofort eine schnelle Übung brauchen.
 > **Rolle:** Du bist ein Experte für Haltungskorrektur und Meister der unauffälligen Büro-Kommunikation.
 > **Anfrage:** Zeige mir eine extrem unauffällige 'Büro-Stretching'-Routine für Nacken und Schultern, die ich sitzend an meinem Platz machen kann, ohne dass meine Kollegen etwas merken.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Prompt)
 

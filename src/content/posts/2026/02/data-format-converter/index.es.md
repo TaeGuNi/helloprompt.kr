@@ -44,7 +44,7 @@ Simplemente copia los datos, pégalos y deja que la IA entienda perfectamente la
 > **Rol:** Eres un experto en Ingeniería de Datos y procesos ETL.
 > **Solicitud:** Convierte los siguientes datos de formato `[CSV]` a formato `[JSON]`.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

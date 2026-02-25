@@ -45,7 +45,7 @@ Utilisez cette approche lorsque vous avez besoin d'un résultat immédiat sans c
 > **Requête :** Convertis les données CSV suivantes en un tableau JSON. Change les clés en anglais (ex: 'Nom' -> 'name', 'Âge' -> 'age').
 > [Insérez vos données ici]
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Experte)
 
@@ -95,7 +95,7 @@ Cette méthode est particulièrement redoutable pour la génération de données
   - R : Évitez de soumettre des informations personnellement identifiables (PII) ou des données confidentielles, surtout sur les versions gratuites des modèles. Pour les données d'entreprise, anonymisez toujours les identifiants ou utilisez des modèles d'IA déployés en local (comme LLama 3) ou des versions Enterprise qui garantissent la non-utilisation de vos données pour l'entraînement.
 
 - **Q : L'IA peut-elle gérer des fichiers de données volumineux ?**
-  - R : Les modèles récents ont de grandes fenêtres de contexte (ex: Gemini 1.5 Pro ou Claude 3.5 Sonnet), mais ils peuvent tout de même tronquer les résultats si la sortie est trop massive. Pour les très gros fichiers, il est préférable de demander à l'IA d'écrire le script Python de conversion pour vous.
+  - R : Les modèles récents ont de grandes fenêtres de contexte (ex: Gemini 2.5 Pro ou Claude 3.5 Sonnet), mais ils peuvent tout de même tronquer les résultats si la sortie est trop massive. Pour les très gros fichiers, il est préférable de demander à l'IA d'écrire le script Python de conversion pour vous.
 
 - **Q : Peut-on convertir des formats de données très spécifiques ou obsolètes ?**
   - R : Absolument ! Tant que les données sont sous forme de texte brut (même des logs obscurs ou des formats propriétaires textuels), l'IA peut généralement en comprendre la structure et les convertir en JSON ou XML propre.

@@ -48,7 +48,7 @@ Los errores más aterradores son aquellos que fallan silenciosamente, o los que 
 > **Rol:** Eres un desarrollador Senior experto en depuración de código.
 > **Solicitud:** Revisa este código `[Pegar código]` y el siguiente error `[Pegar error]`. Encuentra la causa y dame la solución exacta.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

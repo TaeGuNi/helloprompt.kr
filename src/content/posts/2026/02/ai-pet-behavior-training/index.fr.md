@@ -40,15 +40,15 @@ Faire appel à un éducateur comportementaliste privé peut coûter des centaine
 Idéale pour les petits tracas du quotidien ou une simple curiosité.
 
 > **Rôle :** Tu es un spécialiste reconnu du comportement animal.
->
-> **Requête :** Mon chien fait `[Comportement]`. Pourquoi agit-il ainsi et comment puis-je corriger cela ?
->
-> **Informations :**
->
-> - Race / Âge : `[Ex: Beagle, 3 ans]`
-> - Situation : `[Ex: Il détruit les coussins quand je pars au travail]`
 
-<br>
+> **Requête :** Mon chien fait `[Comportement]`. Pourquoi agit-il ainsi et comment puis-je corriger cela ?
+
+> **Informations :**
+
+- Race / Âge : `[Ex: Beagle, 3 ans]`
+- Situation : `[Ex: Il détruit les coussins quand je pars au travail]`
+
+\
 
 ### 🥇 Version Pro (Programme Personnalisé)
 

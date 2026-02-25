@@ -42,7 +42,7 @@ Use esta versão quando quiser uma aventura leve e focada na narrativa, sem o pe
 > **Papel:** Você é um Mestre de Jogo (GM) de um jogo de aventura em texto de fantasia.
 > **Tarefa:** Inicie um jogo ambientado em um cenário de fantasia medieval. Jogarei como um personagem guerreiro de nível 1. Conduza um cenário onde me infiltro num covil de goblins para resgatar reféns. A cada turno, descreva a situação detalhadamente e forneça 3 opções de ação que eu possa escolher.
 
-<br>
+\
 
 ### 🥇 Pro Version (Regras Hardcore de D&D 5ª Edição)
 

@@ -43,7 +43,7 @@ Usala quando hai bisogno di risultati rapidi e idee immediate.
 > **Ruolo:** Sei un insegnante di educazione fisica esperto nello sviluppo psicomotorio infantile.
 > **Richiesta:** Crea 5 missioni divertenti per il gioco 'Simone Dice' adatte a bambini, mirate a migliorare la concentrazione e il controllo fisico.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 

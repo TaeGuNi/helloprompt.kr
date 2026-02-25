@@ -42,20 +42,20 @@ Use um copywriter de IA para transformar suas experiências aparentemente comuns
 Use isso quando quiser transmitir sua paixão, potencial e adequação à função de forma clara e impactante.
 
 > **Role (Papel):** Você é um gerente de RH de uma grande empresa e um recrutador sênior com 10 anos de experiência.
->
-> **Context (Contexto):**
->
-> - Perfil do Candidato: `[Formado em Administração, Presidente do Clube Universitário de Marketing, 1 ano de experiência como atendente de loja de conveniência]`
-> - Vaga Desejada: `[Assistente de Marketing de Bens de Consumo B2C]`
->
-> **Task (Tarefa):**
-> Escreva um roteiro de apresentação de 1 minuto que prenda a atenção do recrutador imediatamente.
->
-> 1. Destaque a experiência de "identificar as necessidades do cliente diretamente no campo de vendas" como a arma principal do candidato.
-> 2. Evite expressões abstratas (ex: dedicação, esforço, vontade de aprender) e foque em episódios concretos e práticos.
-> 3. Escreva em um tom coloquial e natural, com frases curtas que facilitem a fala, a respiração e a conexão visual.
 
-<br>
+> **Context (Contexto):**
+
+- Perfil do Candidato: `[Formado em Administração, Presidente do Clube Universitário de Marketing, 1 ano de experiência como atendente de loja de conveniência]`
+- Vaga Desejada: `[Assistente de Marketing de Bens de Consumo B2C]`
+
+> **Task (Tarefa):**
+Escreva um roteiro de apresentação de 1 minuto que prenda a atenção do recrutador imediatamente.
+
+1. Destaque a experiência de "identificar as necessidades do cliente diretamente no campo de vendas" como a arma principal do candidato.
+2. Evite expressões abstratas (ex: dedicação, esforço, vontade de aprender) e foque em episódios concretos e práticos.
+3. Escreva em um tom coloquial e natural, com frases curtas que facilitem a fala, a respiração e a conexão visual.
+
+\
 
 ### 🥇 Versão Pro (Para Profissionais Experientes)
 

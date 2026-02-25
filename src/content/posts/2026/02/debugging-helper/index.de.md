@@ -42,7 +42,7 @@ Nutzen Sie diese Variante, wenn Sie einfach nur schnell ein Ergebnis brauchen.
 > **Rolle:** Du bist ein `[genialer Bug-Jäger und Senior Software-Ingenieur]`.
 > **Anfrage:** Ich habe folgenden Code und diese Fehlermeldung. Finde die genaue Ursache und korrigiere den Code für mich: `[Hier Fehlermeldung und Code einfügen]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten)
 

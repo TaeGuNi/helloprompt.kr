@@ -46,7 +46,7 @@ Utilisez ceci pour une séparation rapide des fichiers. (Attention, les détails
 > **Rôle :** Tu es un `[Développeur Frontend]`.
 > **Tâche :** Le composant `[UserProfile.tsx]` est beaucoup trop volumineux. Sépare l'UI de la logique métier dans des fichiers distincts.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

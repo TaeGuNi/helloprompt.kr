@@ -47,7 +47,7 @@ La accesibilidad web (A11y) ya no es un simple "detalle de cortesía", sino el e
 > [Pega tu código aquí]
 > ```
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 
@@ -120,8 +120,8 @@ Al pasar componentes complejos de la vida real, como un Select Box personalizado
 ### ✅ Después (Output: Soporte nativo y perfecto para teclado y lectores de pantalla)
 
 ```html
-<!-- Se añade un alt vacío y aria-hidden para que el lector de pantalla ignore la imagen decorativa -->
-<!-- Se utiliza una etiqueta de botón nativa que ya soporta la interacción con Enter/Espacio en el teclado por defecto -->
+
+
 <button type="button" class="submit-btn" onClick="sendData()">
   <img src="send-icon.png" alt="" aria-hidden="true" />
   <span>Enviar</span>

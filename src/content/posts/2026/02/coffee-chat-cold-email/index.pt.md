@@ -42,7 +42,7 @@ Use quando precisar de uma estrutura rápida e direta.
 > **Papel:** Você é um profissional educado e excelente em networking.
 > **Tarefa:** Escreva uma DM (Mensagem Direta) fria, educada e persuasiva para pedir conselhos de carreira a um profissional experiente da minha área. A mensagem deve aumentar as chances de resposta sem parecer invasiva.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 
@@ -71,7 +71,7 @@ Use para personalizar a mensagem com detalhes específicos e garantir o máximo 
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 O maior erro no _cold outreach_ (contato frio) é fazer o outro trabalhar por você. Quando você diz "gostaria de tirar algumas dúvidas sobre a área", a pessoa ocupada pensa: "Isso vai tomar horas do meu dia".
 
@@ -79,7 +79,7 @@ Ao delimitar o tempo ("apenas 15 minutos") e dar a opção de responder por text
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q: É melhor enviar a mensagem pelo LinkedIn ou por E-mail?**
   - A: Depende da plataforma onde a pessoa é mais ativa. Se ela publica com frequência ou interage no LinkedIn, a DM lá é a escolha perfeita. Se o perfil parece inativo, ferramentas como o _Hunter.io_ podem ajudar a encontrar o e-mail corporativo dela. O e-mail corporativo costuma ter um tom ligeiramente mais formal.

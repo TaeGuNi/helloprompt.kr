@@ -73,7 +73,7 @@ The most fundamental prompt used when requesting simple feature implementation o
 >
 > **Task:** Fix `[the problem or feature to add]` in the currently open `[filename]` file. Ensure the code strictly adheres to TypeScript's strict type checking and Tailwind CSS conventions.
 
-<br>
+\
 
 ### 🥇 Pro Version (For Architectural Refactoring in Windsurf / OpenClaw)
 

@@ -43,7 +43,7 @@ Los modelos de IA basados en el razonamiento (Reasoning Models) tienen la capaci
 > **Tarea:** Resuelve `[el problema a resolver]` a la perfección.
 > **Condición:** No des la respuesta de inmediato. Debes aplicar el enfoque "pensemos paso a paso" (Let's think step by step) y mostrar el proceso de resolución detallado primero.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 
@@ -83,7 +83,7 @@ Al trabajar con los últimos modelos de razonamiento como DeepSeek R1 u o3-mini 
 
 ## 🙋 Preguntas Frecuentes (FAQ) {#faq}
 
-- **P: ¿Funciona también en modelos generales como Gemini 1.5 Pro o GPT-4o?**
+- **P: ¿Funciona también en modelos generales como Gemini 2.5 Pro o GPT-4o?**
   - R: Sí, incluso en modelos generales, forzar el razonamiento paso a paso (CoT) aumenta significativamente la tasa de respuestas correctas. Sin embargo, la sinergia es mucho más explosiva en los últimos modelos especializados en razonamiento (como Gemini 3 Pro, DeepSeek R1, etc.), donde el proceso de pensamiento está interiorizado.
 
 - **P: El resultado de salida es demasiado largo, ¿no puedo obtener solo un resumen?**

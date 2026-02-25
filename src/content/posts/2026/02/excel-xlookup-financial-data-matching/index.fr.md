@@ -42,7 +42,7 @@ Utilisez ce prompt lorsque vous avez besoin d'une formule rapidement, sans déta
 > **Rôle :** Tu es un `[Analyste de Données]` qui maîtrise parfaitement les fonctions Excel.
 > **Demande :** Rédige-moi une formule XLOOKUP simple pour remplacer un VLOOKUP qui génère des erreurs lors de la liaison de deux tableaux.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Experte)
 

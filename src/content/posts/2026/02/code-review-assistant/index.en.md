@@ -47,7 +47,7 @@ Use this when you need a quick scan for critical issues.
 > [Paste your code here]
 > ```
 
-<br>
+\
 
 ### 🥇 Pro Version
 

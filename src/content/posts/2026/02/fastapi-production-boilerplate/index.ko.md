@@ -42,7 +42,7 @@ tags: ["FastAPI", "Python", "백엔드", "비동기", "API"]
 > **역할:** 너는 시니어 파이썬 백엔드 개발자야.
 > **요청:** FastAPI를 사용해서 `/items/{item_id}` 경로로 GET 요청을 받고, 선택적 쿼리 파라미터 `q`를 처리하는 가장 기본적인 `main.py` 코드를 작성해 줘. 실행을 위한 `uvicorn` 명령어도 주석으로 포함해 줘.
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 
@@ -118,7 +118,7 @@ async def create_user(user: UserCreate):
     return user
 ```
 
-> 코드를 저장하고 `http://localhost:8000/docs`에 접속하면, 프론트엔드 개발자가 즉시 테스트 가능한 대화형 API 문서(Swagger UI)가 자동으로 생성되어 있습니다. 데이터 타입이 안 맞으면 FastAPI가 알아서 422 Unprocessable Entity 에러와 함께 친절한 안내를 반환합니다. 프론트엔드와의 소통 비용이 '0'에 수렴하게 됩니다.
+코드를 저장하고 `http://localhost:8000/docs`에 접속하면, 프론트엔드 개발자가 즉시 테스트 가능한 대화형 API 문서(Swagger UI)가 자동으로 생성되어 있습니다. 데이터 타입이 안 맞으면 FastAPI가 알아서 422 Unprocessable Entity 에러와 함께 친절한 안내를 반환합니다. 프론트엔드와의 소통 비용이 '0'에 수렴하게 됩니다.
 
 ---
 

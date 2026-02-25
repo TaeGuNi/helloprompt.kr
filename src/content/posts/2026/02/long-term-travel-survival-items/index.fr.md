@@ -48,7 +48,7 @@ Utilisez cette version si vous êtes pressé et souhaitez une liste d'idées gé
 > **Rôle :** Tu es un 'Nomade Digital Pro' qui a vécu plus d'un mois dans plus de 20 pays différents.
 > **Demande :** Recommande-moi des objets essentiels du quotidien, souvent oubliés, qui améliorent considérablement la qualité de vie lors des voyages de longue durée, pour se sentir partout comme à la maison.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

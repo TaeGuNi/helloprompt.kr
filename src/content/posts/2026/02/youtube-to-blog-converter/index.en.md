@@ -44,7 +44,7 @@ Use this when you quickly need to refine a video script into highly readable pro
 >
 > `[Insert YouTube Video Script Here]`
 
-<br>
+\
 
 ### 🥇 Pro Version
 

@@ -49,7 +49,7 @@ Ideal para quando você precisa de uma história rápida antes de dormir.
 > **Papel:** Você é um escritor especializado em contos de fadas infantis que transmitem lições de moral, no estilo das Fábulas de Esopo.
 > **Pedido:** Escreva uma história curta e divertida sobre a importância de compartilhar brinquedos com os amigos, sem usar um tom de sermão.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

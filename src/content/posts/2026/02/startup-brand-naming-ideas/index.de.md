@@ -42,7 +42,7 @@ Nutzen Sie diese Variante für schnelle, erste Ideen, wenn es eilt.
 > **Rolle:** Du bist ein erstklassiger Branding- und Naming-Experte.
 > **Aufgabe:** Generiere 10 einprägsame und kreative Markennamen für `[Idee/Produkt]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 
@@ -110,7 +110,7 @@ _Mein Tipp aus der Praxis:_ Wenn Sie eine Liste mit 10 Vorschlägen erhalten, ve
 
 ### ❌ Before (Einfache Eingabe)
 
-> Benenne eine App zur Resteverwertung aus dem Kühlschrank.
+Benenne eine App zur Resteverwertung aus dem Kühlschrank.
 
 **Ergebnis:**
 

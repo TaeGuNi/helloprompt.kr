@@ -42,7 +42,7 @@ Usala quando hai bisogno di una bozza veloce senza troppi dettagli.
 > **Ruolo:** Sei un consulente relazionale e un ghostwriter professionista, esperto nel toccare il cuore delle persone con le parole giuste.
 > **Richiesta:** Devo inviare un messaggio per `[Scopo/Situazione]`. Scrivi una lettera adatta al destinatario: `[Destinatario]`.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 
@@ -104,12 +104,12 @@ Il trucco per far funzionare questo prompt alla perfezione è nei "Dettagli fond
 
 ### ❌ Prima (Bozza di getto - Rifiuto prestito)
 
-> "Scusa, ma non ho soldi da darti. Non posso prestarteli."
+"Scusa, ma non ho soldi da darti. Non posso prestarteli."
 > _(Rischio elevato di sembrare insensibili e incrinare irreparabilmente l'amicizia)_
 
 ### ✅ Dopo (Ghostwriting IA - Tono Morbido)
 
-> "Ciao [Nome], ti ringrazio per avermi scritto e mi dispiace moltissimo sentire che ti trovi in una situazione così urgente. Vorrei davvero poterti dare una mano, ma purtroppo in questo periodo sono molto in difficoltà anche io con le spese e sto cercando di risparmiare per saldare un prestito. Mi fa malissimo non poter aiutare un amico così caro. Spero con tutto il cuore che la situazione si risolva al più presto per il meglio."
+"Ciao [Nome], ti ringrazio per avermi scritto e mi dispiace moltissimo sentire che ti trovi in una situazione così urgente. Vorrei davvero poterti dare una mano, ma purtroppo in questo periodo sono molto in difficoltà anche io con le spese e sto cercando di risparmiare per saldare un prestito. Mi fa malissimo non poter aiutare un amico così caro. Spero con tutto il cuore che la situazione si risolva al più presto per il meglio."
 
 ---
 

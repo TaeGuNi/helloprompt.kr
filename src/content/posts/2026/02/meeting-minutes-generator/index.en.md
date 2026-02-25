@@ -44,7 +44,7 @@ Useful for Daily Scrums or casual meetings where you just need a quick grasp of 
 >
 > [Paste your meeting notes here]
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -90,7 +90,7 @@ In practice, I simply copy and paste the raw transcript from an audio recording 
 ## 🙋 Frequently Asked Questions (FAQ)
 
 - **Q: Can it process transcripts from meetings longer than an hour all at once?**
-  - A: Yes, most modern models (Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro) support long context windows and can process it in one go. However, to maximize quality and minimize hallucinations, splitting the transcript into 2-3 chunks by agenda item often yields much sharper summaries.
+  - A: Yes, most modern models (Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro) support long context windows and can process it in one go. However, to maximize quality and minimize hallucinations, splitting the transcript into 2-3 chunks by agenda item often yields much sharper summaries.
 
 - **Q: I'm hesitant to input internal meeting data into AI due to company security policies.**
   - A: That is a critical point. For confidential meetings, it is highly recommended to anonymize (mask) proper nouns or specific figures (e.g., 'Company A', 'Project X', '10M') before inputting them. For robust data protection, only use enterprise AI environments where your data is opted out of model training.

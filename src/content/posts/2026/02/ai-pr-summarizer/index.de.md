@@ -13,7 +13,7 @@ tags: [Git, Github, Collaboration, Productivity, AI]
 
 - **🎯 Empfohlen für:** Senior Developer, Tech Leads und alle Entwickler, die von mühsamen Code-Reviews erschöpft sind
 - **⏱️ Zeitersparnis:** Von 1 Stunde → auf 3 Minuten
-- **🤖 Empfohlene Modelle:** Claude 3.5 Sonnet, Gemini 1.5 Pro, GPT-4o
+- **🤖 Empfohlene Modelle:** Claude 3.5 Sonnet, Gemini 2.5 Pro, GPT-4o
 
 - ⭐ **Schwierigkeitsgrad:** ⭐☆☆☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -47,7 +47,7 @@ Verwenden Sie diesen Prompt, wenn Sie lediglich einen schnellen Überblick und d
 > **[Git Diff Daten]**
 > `[Fügen Sie hier Ihr git diff oder die PR-Beschreibung ein]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten)
 
@@ -94,7 +94,7 @@ Selbst wenn Ihr Team keine teuren kommerziellen Tools wie Github Copilot Enterpr
 ## 🙋 Häufig gestellte Fragen (FAQ)
 
 - **F: Was passiert, wenn der Diff-Text zu lang ist und die KI die Eingabe verweigert?**
-  - A: Neueste Modelle wie Claude 3.5 Sonnet oder Gemini 1.5 Pro verfügen über gigantische Context Windows und verarbeiten zehntausende Zeilen Code mühelos. Sollten Sie dennoch an ein Token-Limit stoßen, generieren Sie mit `git diff --stat` zunächst nur eine statistische Dateizusammenfassung oder fordern Sie die Analyse isoliert für die Dateien an, die die kritische Core-Domain-Logik enthalten.
+  - A: Neueste Modelle wie Claude 3.5 Sonnet oder Gemini 2.5 Pro verfügen über gigantische Context Windows und verarbeiten zehntausende Zeilen Code mühelos. Sollten Sie dennoch an ein Token-Limit stoßen, generieren Sie mit `git diff --stat` zunächst nur eine statistische Dateizusammenfassung oder fordern Sie die Analyse isoliert für die Dateien an, die die kritische Core-Domain-Logik enthalten.
 
 - **F: Ist es sicher, proprietären internen Unternehmenscode in eine KI hochzuladen?**
   - A: **Hier ist höchste Vorsicht geboten.** Interner Code ist ein kritisches Unternehmens-Asset. Wenn Sie öffentliche Versionen von ChatGPT oder Claude nutzen, stellen Sie zwingend sicher, dass in den Datenschutz-Einstellungen "Data Opt-out" (Keine Nutzung der Daten für das Modelltraining) aktiviert ist. Der absolut sicherste Weg führt über dedizierte Enterprise-Lizenzen (die das Training vertraglich streng ausschließen) oder die Nutzung von lokal gehosteten LLMs (wie Ollama) vollständig isoliert innerhalb Ihres Firmennetzwerks.

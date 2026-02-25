@@ -42,7 +42,7 @@ Nutzen Sie diese Variante, wenn Sie sofort und ohne viele Einstellungen einen si
 > **Rolle:** Du bist ein Experte für Kognitionswissenschaften und Lernmanagement.
 > **Anfrage:** Erstelle mir einen optimalen Wiederholungsplan für mein heutiges Lernpensum, basierend auf der Ebbinghaus-Vergessenskurve, damit ich das Gelernte nie wieder vergesse.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für maximale Kontrolle und Qualität)
 

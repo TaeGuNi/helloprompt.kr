@@ -42,7 +42,7 @@ Use this when you just need a quick, no-frills workout.
 > **Role:** You are a highly motivating Crossfit and HIIT expert trainer.
 > **Request:** I am short on time but want to lose weight. Create a quick, intense 20-minute HIIT routine for me today.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 
@@ -103,7 +103,7 @@ I personally use this prompt when traveling. Hotel gyms are notoriously unpredic
 
 ### ❌ Before (Input)
 
-> Teach me a HIIT workout.
+Teach me a HIIT workout.
 
 _(The AI usually spits out a generic, uninspiring list: "Do 10 burpees, 10 pushups, 10 situps. Repeat.")_
 

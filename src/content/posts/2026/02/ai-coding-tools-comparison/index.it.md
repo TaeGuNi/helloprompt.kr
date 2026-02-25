@@ -42,7 +42,7 @@ Utilizza questo prompt quando hai bisogno di cogliere rapidamente le differenze 
 > **Ruolo:** Sei un Senior DevOps Engineer sempre aggiornato sulle ultime tendenze tecnologiche.
 > **Task:** Riassumi e confronta le differenze principali tra GitHub Copilot, Cursor e Windsurf, concentrandoti sulla "capacità di comprensione della codebase" e sul "livello di autonomia dell'agente".
 
-<br>
+\
 
 ### 🥇 Versione Pro (Per l'adozione in team e la migrazione)
 

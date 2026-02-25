@@ -47,7 +47,7 @@ AI 코딩 에이전트가 쏟아지는 지금, 여러분은 도구를 어떻게 
 > **2. 기획 프롬프트 실행:**
 > `/plan "Next.js 14 App Router를 사용해서 반응형 블로그 포스트 목록 페이지를 만들어줘. Tailwind CSS와 shadcn/ui를 사용할 거야."`
 
-<br>
+\
 
 ### 🥇 Pro Version (TDD 및 커스텀 룰 강제)
 

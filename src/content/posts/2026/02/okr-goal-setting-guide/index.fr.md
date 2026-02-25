@@ -42,7 +42,7 @@ Utilisez cette version pour obtenir une structure d'OKR rapide lorsque vous manq
 > **Rôle :** Tu es un Coach Expert en OKR certifié par Google.
 > **Demande :** Aide-moi à définir des Objectifs (O) inspirants et des Résultats Clés (KR) mesurables pour mon équipe de `[Votre Domaine, ex: Marketing]`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 
@@ -105,7 +105,7 @@ Ce prompt est conçu spécifiquement pour forcer l'IA à faire cette distinction
 
 ### ❌ Avant (Entrée basique)
 
-> Fais un OKR pour l'équipe marketing concernant le lancement du nouveau produit.
+Fais un OKR pour l'équipe marketing concernant le lancement du nouveau produit.
 
 **Résultat décevant :**
 

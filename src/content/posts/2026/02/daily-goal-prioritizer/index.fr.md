@@ -43,7 +43,7 @@ Utilisez cette version lorsque vous souhaitez trier rapidement vos priorités sa
 > **Tâche :** Analyse la liste de tâches ci-dessous, classe-les par ordre d'importance pour les choses à traiter impérativement aujourd'hui (du plus important au moins important), et explique brièvement pourquoi.
 > `[Insérer la liste de tâches]`
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

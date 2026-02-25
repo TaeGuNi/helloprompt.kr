@@ -43,7 +43,7 @@ Use esta versão para converter rapidamente pequenos scripts ou protótipos de p
 > **Role:** Você é um Engenheiro de Machine Learning especialista no ecossistema Apple Silicon.
 > **Task:** Escreva um script Python usando a biblioteca `mlx` para carregar, quantizar (4-bit) e realizar inferência em um modelo do Hugging Face `[INSERIR_NOME_DO_MODELO]`, otimizado para o chip M6.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Profissional)
 

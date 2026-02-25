@@ -39,7 +39,7 @@ tags: ["Prompt Engineering", "AI", "Chain-of-Thought", "Reasoning"]
 > **任務：** 請解決 `[複雜問題]`。
 > **要求：** 請讓我們一步一步來思考 (Let's think step by step)，並給出最終答案。
 
-<br>
+\
 
 ### 🥇 專業版 (Pro Version - Few-Shot)
 

@@ -42,7 +42,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Lighting"]
 > **主体:** `[你的主体，如：一位孤独的武士/一只咆哮的狼]`
 > **光影设定:** Silhouette, strong backlighting, highly contrasting background.
 
-<br>
+\
 
 ### 🥇 Pro Version (专家版)
 

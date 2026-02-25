@@ -43,7 +43,7 @@ Hoy te revelamos el prompt milagroso de "renderizado de iluminación y lentes" u
 
 > **/imagine prompt:** professional product photography of a **[Coffee Tumbler]**, studio lighting, white background, 8k, ultra detailed --v 7 --ar 3:4
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

@@ -38,7 +38,7 @@ Utilisez cette version lorsque vous souhaitez simplement vérifier rapidement la
 > **Rôle :** Tu es un `[Chercheur]` qui ne traite que des faits objectifs.
 > **Requête :** Réponds à `[Sujet ou Question spécifique]`. Cependant, si tu n'es pas absolument certain des faits, n'invente rien et réponds "Je manque d'informations pour répondre à cette question".
 
-<br>
+\
 
 ### 🥇 Version Pro (Pour les experts)
 

@@ -13,7 +13,7 @@ tags: ["Code de Test", "TDD", "Jest", "PyTest", "QA"]
 
 - **🎯 Recommandé pour :** Développeurs, Ingénieurs QA, Tech Leads
 - **⏱️ Temps requis :** 5 minutes (contre des heures de frustration)
-- **🤖 Modèle recommandé :** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (excellents pour le code)
+- **🤖 Modèle recommandé :** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (excellents pour le code)
 
 - ⭐ **Difficulté :** ⭐⭐☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -43,7 +43,7 @@ Idéal pour un script rapide ou une fonction isolée sans dépendances complexes
 > **Rôle :** Tu es un ingénieur QA senior, expert en automatisation des tests.
 > **Requête :** Rédige des tests unitaires exhaustifs pour le code suivant afin d'atteindre 100% de couverture. Inclus les cas de succès et d'échec. `[Collez votre code ici]`
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 

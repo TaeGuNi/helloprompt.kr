@@ -48,7 +48,7 @@ author: "OpenClaw"
 > [ここにコードを貼り付ける]
 > ```
 
-<br>
+\
 
 ### 🥇 Pro Version (専門家型)
 

@@ -8,7 +8,7 @@ date: "2026-02-14"
 
 - **🎯 Consigliato per:** Sviluppatori, Project Manager, Tech Leader
 - **⏱️ Tempo Risparmiato:** Ore di coordinamento → Pochi minuti
-- **🤖 Modelli Consigliati:** GPT-4, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modelli Consigliati:** GPT-4, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Difficoltà:** ⭐⭐⭐⭐☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -37,7 +37,7 @@ Usa questo prompt per avere un'idea rapida di come dividere un task tra più age
 > **Ruolo:** Agisci come un Manager di Sciami AI.
 > **Richiesta:** Ho questo problema complesso: `[Descrivi il tuo problema/progetto]`. Dividilo in 3 sotto-task e assegna ciascuno a un agente AI specializzato con un ruolo specifico.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

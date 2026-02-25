@@ -15,7 +15,7 @@ title: " \"L'Etica delle Relazioni con l'IA: Chatbot, Deepfake e Dilemmi\""
 
 - **🎯 Consigliato per:** Giornalisti Tech, Psicologi, Eticisti dell'IA, Sviluppatori
 - **⏱️ Tempo richiesto:** 2 ore di ricerca → 3 minuti
-- **🤖 Modelli consigliati:** Tutti i modelli conversazionali (Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro)
+- **🤖 Modelli consigliati:** Tutti i modelli conversazionali (Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro)
 
 - ⭐ **Difficoltà:** ⭐⭐☆☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -44,7 +44,7 @@ Ideale per ottenere una rapida panoramica sui rischi etici di una specifica app 
 > **Ruolo:** Sei un esperto `[Eticista Tecnologico]`.
 > **Richiesta:** Analizza i potenziali rischi psicologici ed etici di `[Nome o Descrizione dell'App IA / Situazione]`. Concentrati sui pericoli di dipendenza e sulle questioni legate al consenso dei dati.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

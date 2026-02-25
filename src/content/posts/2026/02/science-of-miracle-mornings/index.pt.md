@@ -44,7 +44,7 @@ Use esta versão quando precisar apenas de uma estrutura rápida e direta ao pon
 > **Função:** Você é um especialista em neurociência e produtividade.
 > **Tarefa:** Crie uma rotina de "Milagre da Manhã" de 1 hora para mim, focada em eliminar o cansaço mental e aumentar o meu nível de alerta para o dia, explicando brevemente o porquê científico de cada passo sugerido.
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 

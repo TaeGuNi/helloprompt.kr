@@ -45,7 +45,7 @@ Utilisez-la lorsque vous avez besoin d'un résultat rapide pour un test.
 > **Tâche :** Rédige le code Terraform pour créer la ressource AWS `[Nom du service]`.
 > **Contraintes :** Utilise la dernière version du Provider AWS et gère les paramètres avec des variables (sans codage en dur).
 
-<br>
+\
 
 ### 🥇 Version Pro
 

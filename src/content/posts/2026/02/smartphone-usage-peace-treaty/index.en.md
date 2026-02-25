@@ -42,7 +42,7 @@ Use this when you need a quick, simple set of rules.
 > **Role:** You are a fair and rational mediator.
 > **Request:** Help me negotiate and set rules with my child so they turn off YouTube without fighting.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

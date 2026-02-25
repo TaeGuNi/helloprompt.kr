@@ -44,7 +44,7 @@ Use este prompt quando precisar de um ponto de partida rápido para montar a pal
 > Quero dividir as cores `[Primary (Azul)]`, `[Secondary (Cinza)]` e `[Error (Vermelho)]` em 9 escalas diferentes, variando de 100 a 900.
 > Por favor, recomende os códigos hexadecimais para cada nível, organizados em uma tabela, acompanhados de nomes intuitivos e semânticos (ex: `text-primary`, `bg-surface-default`) para que eu possa aplicá-los diretamente no código.
 
-<br>
+\
 
 ### 🥇 Versão Especialista (Pro Version)
 

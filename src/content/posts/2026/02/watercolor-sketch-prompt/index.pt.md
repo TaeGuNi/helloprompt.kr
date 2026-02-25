@@ -43,7 +43,7 @@ Use esta versão para obter resultados rápidos sem a necessidade de configuraç
 > **Papel:** Você é um ilustrador especializado em artes tradicionais.
 > **Solicitação:** Crie um prompt detalhado para gerar uma imagem em aquarela emocional, combinando o efeito fluido da água com linhas precisas de esboço a lápis.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

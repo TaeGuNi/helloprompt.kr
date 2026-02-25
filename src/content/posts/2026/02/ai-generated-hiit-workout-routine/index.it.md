@@ -44,7 +44,7 @@ Ideale quando hai fretta e vuoi iniziare subito a sudare.
 > **Ruolo:** Sei un personal trainer esperto di Crossfit e HIIT.
 > **Richiesta:** Ho solo 20 minuti. Crea una routine di allenamento ad alta intensità a corpo libero da fare in casa per farti bruciare i grassi.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 
@@ -112,7 +112,7 @@ Il vero potere di questo prompt risiede nel **Contesto (Context)** e nei **Vinco
 
 ### ❌ Prima (Input generico)
 
-> "Insegnami un esercizio HIIT per dimagrire."
+"Insegnami un esercizio HIIT per dimagrire."
 
 **Risultato deludente:** L'IA si limita a spiegare cos'è l'HIIT e ti consiglia di fare 3 serie da 15 ripetizioni di burpees e squat, senza calcolare i tempi o strutturare un vero circuito.
 

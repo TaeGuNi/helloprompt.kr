@@ -9,7 +9,7 @@ tags: ["Prompt Engineering", "AI", "CoT"]
 
 - **🎯 Zielgruppe:** Produktmanager, Entwickler, Datenanalysten und alle, die es satt haben, von der KI "falsche Antworten" zu erhalten.
 - **⏱️ Zeitersparnis:** Von 1 Stunde → auf 3 Minuten reduziert.
-- **🤖 Empfohlene Modelle:** Alle leistungsstarken konversationalen KIs (GPT-4, Claude 3.5 Sonnet, Gemini 1.5 Pro usw.)
+- **🤖 Empfohlene Modelle:** Alle leistungsstarken konversationalen KIs (GPT-4, Claude 3.5 Sonnet, Gemini 2.5 Pro usw.)
 
 - ⭐ **Schwierigkeitsgrad:** ⭐⭐⭐☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -38,7 +38,7 @@ Wenn Sie die logischen Fähigkeiten der KI schnell und unkompliziert verbessern 
 > **Rolle:** Du bist ein `[logischer Analyst]`.
 > **Aufgabe:** Löse das folgende `[komplexe Problem oder Situation]`. **Aber bevor du eine Schlussfolgerung ziehst, denke langsam und logisch Schritt für Schritt nach (Think step-by-step).**
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten)
 
@@ -93,7 +93,7 @@ Probieren Sie diese Pro-Version in der Praxis insbesondere bei der **"Code-Revie
   - A: Versuchen Sie, die Kriterien für die 'Schritte', die die KI ableiten soll, feiner zu unterteilen und in der Aufgabe (Task) klar zu benennen. Alternativ können Sie im Beispiel-Teil (Few-Shot) ein ausführlicheres Muster des gewünschten Gedankengangs vorgeben. Die KI wird diesen Gedankenfluss dann exzellent imitieren.
 
 - **F: Kann ich diesen Prompt auch für andere Sprachmodelle (Claude, Gemini usw.) verwenden?**
-  - A: Ja, absolut. CoT ist keine auf ein bestimmtes Modell beschränkte Funktion, sondern eine universelle Methode, die die fundamentalen Mechanismen von Large Language Models (LLMs) nutzt. Sie glänzt besonders bei den neuesten auf logisches Schließen ausgerichteten Modellen wie Claude 3.5 Sonnet oder Gemini 1.5 Pro.
+  - A: Ja, absolut. CoT ist keine auf ein bestimmtes Modell beschränkte Funktion, sondern eine universelle Methode, die die fundamentalen Mechanismen von Large Language Models (LLMs) nutzt. Sie glänzt besonders bei den neuesten auf logisches Schließen ausgerichteten Modellen wie Claude 3.5 Sonnet oder Gemini 2.5 Pro.
 
 - **F: Ist es immer besser, CoT zu verwenden?**
   - A: Nein. Für einfache Wissensabfragen wie "Was ist die Hauptstadt von Südkorea?" oder reine Zusammenfassungen ist keine Gedankenkette erforderlich. Das würde nur Token (also Kosten) und Antwortzeit verschwenden. Setzen Sie diese Waffe gezielt nur dann ein, wenn 'komplexe Logik' gefragt ist.

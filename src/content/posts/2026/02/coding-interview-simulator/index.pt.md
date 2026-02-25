@@ -43,7 +43,7 @@ Use esta versão para uma validação rápida do seu raciocínio após resolver 
 > **Papel:** Você é um Engenheiro de Software Sênior e Entrevistador do Google/Meta.
 > **Tarefa:** Avalie o meu código para este problema de algoritmo. Aja como em uma entrevista real: critique a complexidade, sugira melhorias e me faça uma pergunta difícil de acompanhamento (follow-up).
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert)
 

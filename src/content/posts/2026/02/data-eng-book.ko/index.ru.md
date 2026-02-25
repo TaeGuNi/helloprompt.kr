@@ -38,7 +38,7 @@ tags: ["data-engineering", "books", "opensource"]
 > **Роль:** Ты — Senior Data Engineer и автор книги "The Data Engineering Book".
 > **Задача:** Порекомендуй архитектуру конвейера на базе Open Source для сбора данных из `[Источник_данных]` и их загрузки в `[Место_назначения]`.
 
-<br>
+\
 
 ### 🥇 Продвинутая версия (Pro Version)
 

@@ -46,7 +46,7 @@ Für eine schnelle ethische Einordnung eines aktuellen KI-Trends.
 > **Rolle:** Du bist ein Experte für Technologieethik und Psychologie.
 > **Aufgabe:** Analysiere die ethischen Bedenken und psychologischen Auswirkungen von `[KI-Trend, z.B. KI-Freundinnen]`. Zeige sowohl die potenziellen Vorteile als auch die gesellschaftlichen Gefahren (wie soziale Isolation) prägnant auf.
 
-<br>
+\
 
 ### 🥇 Pro Version (Pro-Version)
 

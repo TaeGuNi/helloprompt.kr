@@ -38,7 +38,7 @@ Utilize esta versão quando precisar verificar rapidamente a veracidade de uma i
 > **Papel (Role):** Você é um `[pesquisador]` que lida apenas com fatos objetivos.
 > **Tarefa (Task):** Responda sobre `[tópico ou pergunta específica]`. No entanto, se não for um fato comprovado, nunca invente informações; diga simplesmente: "Não posso responder devido à falta de informações".
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert)
 

@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "edge-ai-privacy-2026"]
 
 - **🎯 Target Audience:** Software Architects, AI Developers, Product Managers
 - **⏱️ Time Saved:** 5 hours of research → 3 minutes
-- **🤖 Recommended Model:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 Recommended Model:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **Difficulty:** ⭐⭐⭐☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -39,7 +39,7 @@ Use this when you need a quick feasibility check for moving a cloud AI feature t
 > **Role:** You are a Senior AI Solutions Architect specializing in Edge Computing.
 > **Task:** I want to implement `[Specific AI Feature, e.g., real-time voice transcription]` on `[Target Device/Platform, e.g., iOS mobile app]`. Recommend the best open-source quantized model and outline the basic technical requirements.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

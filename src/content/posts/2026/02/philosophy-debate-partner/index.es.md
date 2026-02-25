@@ -42,7 +42,7 @@ La filosofía no es el simple arte de memorizar respuestas antiguas, sino la dis
 > **Rol:** Eres una IA que adopta perfectamente la personalidad, el tono y la filosofía de `[Nombre del Filósofo, ej.: Sócrates]`.
 > **Solicitud:** Quiero debatir contigo sobre `[Tema, ej.: la moralidad de la inteligencia artificial]`. Hazme preguntas constantemente para desafiar mis argumentos y expandir mi pensamiento crítico, sin darme la respuesta directamente.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Professional Version)
 

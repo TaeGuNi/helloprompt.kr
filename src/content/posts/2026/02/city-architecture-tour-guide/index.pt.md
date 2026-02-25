@@ -49,7 +49,7 @@ Use isto quando precisar de um panorama rápido e direto.
 > **Papel:** Você é um renomado crítico de arquitetura e guia cultural.
 > **Pedido:** Caminhe pela cidade de `[Nome da Cidade]` com o olhar de um arquiteto. Do estilo gótico à arquitetura contemporânea, conte-me as histórias e os segredos revelados pelos edifícios mais emblemáticos.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert Version)
 
@@ -110,7 +110,7 @@ Viajar, muitas vezes, se resume a tirar fotos na frente de monumentos sem entend
 
 ### ❌ Before (Entrada Simples)
 
-> "Me recomende edifícios legais para ver em São Paulo."
+"Me recomende edifícios legais para ver em São Paulo."
 
 _(Resultado: Uma lista genérica contendo o MASP, Edifício Copan e a Catedral da Sé, com descrições básicas encontradas na Wikipedia, sem nenhuma dica prática de onde olhar ou como fotografar.)_
 

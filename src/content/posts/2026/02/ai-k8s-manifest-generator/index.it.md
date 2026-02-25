@@ -52,7 +52,7 @@ Ideale per test in locale o per avviare rapidamente un Pod.
 > 
 > **Vincoli:** Separa il Deployment e il Service con `---` per inserirli in un unico file.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Pro Version)
 

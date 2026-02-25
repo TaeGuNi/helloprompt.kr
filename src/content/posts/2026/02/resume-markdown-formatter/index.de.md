@@ -43,7 +43,7 @@ Verwenden Sie diese Variante, wenn Sie sofort ein strukturiertes Ergebnis ohne g
 > **Rolle:** Du bist ein Experte für Dokumentendesign und ein Meister in Markdown.
 > **Aufgabe:** Konvertiere den folgenden, völlig unstrukturierten Lebenslauf-Inhalt in ein sauberes Markdown-Format, um ihn optimal für eine PDF-Konvertierung oder die Erstellung eines Notion-Lebenslaufs vorzubereiten.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten)
 

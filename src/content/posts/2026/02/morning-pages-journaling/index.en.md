@@ -43,7 +43,7 @@ Use this when you want a light, quick check-in on your emotional state and key t
 > **Task:** Read the following journal entry I wrote, tell me the "weather" of my emotions today, and give me a word of warm comfort.
 > **Journal Entry:** `[Text written today]`
 
-<br>
+\
 
 ### 🥇 Pro Version
 

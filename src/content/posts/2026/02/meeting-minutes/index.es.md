@@ -46,7 +46,7 @@ Para reuniones rápidas de sincronización donde solo necesitas extraer lo más 
 >
 > [Pega la transcripción aquí]
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 
@@ -101,7 +101,7 @@ La magia de la "Versión Profesional" radica en su estructura: obliga a la IA a 
   - A: ¡Cuidado aquí! Si usas versiones gratuitas (como ChatGPT básico), tus datos podrían usarse para entrenar el modelo. Para información sensible (estrategia, datos financieros, RRHH), utiliza versiones Enterprise/Team que garanticen la privacidad de datos, o anonimiza nombres y cifras clave antes de pegar el texto.
 
 - **P: La transcripción es demasiado larga y la IA me da error por límite de caracteres. ¿Qué hago?**
-  - A: Si la reunión duró más de 1.5 horas, puedes dividir la transcripción en dos partes y pedirle a la IA que las combine después. Alternativamente, utiliza modelos con una ventana de contexto enorme como Gemini 1.5 Pro o Claude 3 Opus, que pueden digerir horas y horas de texto de una sola vez sin pestañear.
+  - A: Si la reunión duró más de 1.5 horas, puedes dividir la transcripción en dos partes y pedirle a la IA que las combine después. Alternativamente, utiliza modelos con una ventana de contexto enorme como Gemini 2.5 Pro o Claude 3 Opus, que pueden digerir horas y horas de texto de una sola vez sin pestañear.
 
 ---
 

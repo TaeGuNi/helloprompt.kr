@@ -42,7 +42,7 @@ Usala quando hai bisogno di un'ispirazione rapida o di un punto di partenza.
 > **Ruolo:** Sei un fotografo di fine art esperto di effetti visivi.
 > **Richiesta:** Crea un'immagine in `[Double exposure]` che sovrappone la silhouette di `[una persona]` con `[una foresta]`.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Pro Version)
 

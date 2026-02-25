@@ -42,7 +42,7 @@ Use esta versão para um brainstorming rápido quando precisar apenas de uma fa�
 > **Papel:** Você é um romancista best-seller e consultor criativo especialista em enredos.
 > **Solicitação:** Minha história está travada. Sugira 3 desenvolvimentos surpreendentes começando com "E se..." para a seguinte situação: `[Descreva a situação atual da história]`.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 
@@ -87,7 +87,7 @@ Este prompt é uma das ferramentas mais valiosas no meu arsenal de escrita. O ve
   - A: Absolutamente não. O prompt foi desenhado para agir como um parceiro de brainstorming. Você ainda é o autor e quem toma as decisões finais. Ele apenas ilumina caminhos que estavam escuros.
 
 - **Q: Qual modelo de IA funciona melhor para este prompt?**
-  - A: Modelos com forte capacidade de raciocínio criativo, como Claude 3.5 Sonnet ou GPT-4o, tendem a oferecer as reviravoltas mais sutis e menos clichês. O Gemini 1.5 Pro também se destaca ao analisar grandes contextos se você enviar capítulos anteriores.
+  - A: Modelos com forte capacidade de raciocínio criativo, como Claude 3.5 Sonnet ou GPT-4o, tendem a oferecer as reviravoltas mais sutis e menos clichês. O Gemini 2.5 Pro também se destaca ao analisar grandes contextos se você enviar capítulos anteriores.
 
 ---
 

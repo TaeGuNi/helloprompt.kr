@@ -13,7 +13,7 @@ tags: ["AI 에이전트", "자동화", "생산성", "워크플로우"]
 
 - **🎯 Recomendado para:** Emprendedores en solitario, freelancers, y directores de proyectos o marketers sobrecargados de trabajo.
 - **⏱️ Tiempo estimado:** De 1 hora → 5 minutos (incluyendo planificación y revisión).
-- **🤖 Modelos recomendados:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro (Se recomiendan modelos avanzados con alta capacidad de razonamiento).
+- **🤖 Modelos recomendados:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro (Se recomiendan modelos avanzados con alta capacidad de razonamiento).
 
 - ⭐ **Dificultad:** ⭐⭐⭐☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -45,7 +45,7 @@ Los profesionales no tratan a la IA como una única inteligencia masiva, sino co
 >
 > **Tarea:** Para alcanzar con éxito el `[Objetivo del proyecto]`, planifica 3 hitos clave. Organiza en formato de tabla los profesionales (roles) que deben intervenir en cada etapa y las acciones específicas (action items) que deben ejecutar.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Expert Version)
 

@@ -13,7 +13,7 @@ tags: ["AI 에이전트", "자동화", "생산성", "워크플로우"]
 
 - **🎯 Target Audience:** Solopreneurs, freelancers, and overwhelmed PMs/marketers
 - **⏱️ Time Saved:** 1 hour → 5 minutes (including planning & review)
-- **🤖 Recommended AI:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro (High-reasoning models strongly recommended)
+- **🤖 Recommended AI:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro (High-reasoning models strongly recommended)
 
 - ⭐ **Difficulty:** ⭐⭐⭐☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -45,7 +45,7 @@ Use this for a quick project outline and role assignment.
 >
 > **Task:** To successfully achieve the `[Project Goal]`, outline 3 core milestones. For each phase, specify the required specialist (role) and detail their specific action items in a markdown table format.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

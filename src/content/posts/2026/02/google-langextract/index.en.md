@@ -5,9 +5,6 @@ date: 2026-02-20
 pubDate: 2026-02-20
 description: " \"Learn how to extract precise, structured JSON data from LLMs using Google’s LangExtract library.\""
 author: "Hello Prompt"
-image:
-  url: "https://docs.astro.build/assets/full-logo-light.png"
-  alt: "Google LangExtract Logo"
 tags: ["Google", "LLM", "Data Extraction", "Python", "AI"]
 ---
 
@@ -15,7 +12,7 @@ tags: ["Google", "LLM", "Data Extraction", "Python", "AI"]
 
 - **🎯 Recommended for:** AI Engineers, Data Engineers, Backend Developers
 - **⏱️ Time Saved:** Hours of debugging JSON parsing errors → 5 minutes of schema design
-- **🤖 Recommended Model:** Gemini 1.5 Pro / Flash
+- **🤖 Recommended Model:** Gemini 2.5 Pro / Flash
 
 - ⭐ **Difficulty:** ⭐⭐⭐☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -46,7 +43,7 @@ Use this when you need a simple, straightforward extraction schema generated in 
 > **Role:** You are an expert Python Data Engineer.
 > **Task:** Create a Pydantic `BaseModel` for `[Subject e.g., Meeting Notes]`. Include detailed `Field(description="...")` annotations for each attribute to accurately guide the LLM's extraction process.
 
-<br>
+\
 
 ### 🥇 Pro Version (Advanced Schema & Logic)
 

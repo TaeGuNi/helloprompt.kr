@@ -41,11 +41,11 @@ Deja de perder el tiempo entrando a cada sitio web y dándole a actualizar. Si c
 
 > **Rol:** Eres un `[Experto en Resúmenes de TI]`.
 > **Tarea:** Resume el siguiente artículo en 3 líneas para que un profesional ocupado pueda leerlo en 10 segundos. Explica los términos técnicos difíciles de forma tan sencilla que hasta un estudiante de secundaria los entienda.
->
-> **Artículo completo:**
-> `[Pegar el texto del artículo aquí]`
 
-<br>
+> **Artículo completo:**
+`[Pegar el texto del artículo aquí]`
+
+\
 
 ### 🥇 Versión Pro (Redacción de Borradores)
 
@@ -112,23 +112,23 @@ Asegúrate de incluir en tu prompt preguntas específicas para tu sector, como: 
 
 ### ❌ Antes (Compartir un simple enlace)
 
-> "Dicen que salen las Apple Vision Pro 2. Revisa el enlace abajo para más detalles. (Enlace del artículo)"
+"Dicen que salen las Apple Vision Pro 2. Revisa el enlace abajo para más detalles. (Enlace del artículo)"
 > _(Reacción del lector: "¿Y qué? ¿A mí qué me importa?")_
 
 ### ✅ Después (Curación por el Editor Jefe IA)
 
 > **🍎 ¿Apple ataca de nuevo? ¡Las Vision Pro 2 finalmente abren las puertas a las masas!**
->
+
 > **Resumen Clave (What)**
->
-> - El precio de lanzamiento se ha reducido drásticamente a la mitad del original.
-> - El peso también se ha reducido a la mitad, aliviando las preocupaciones sobre problemas cervicales por uso prolongado.
-> - Con la incorporación del chip M4, la velocidad de procesamiento de IA on-device ha mejorado más de 3 veces.
->
+
+- El precio de lanzamiento se ha reducido drásticamente a la mitad del original.
+- El peso también se ha reducido a la mitad, aliviando las preocupaciones sobre problemas cervicales por uso prolongado.
+- Con la incorporación del chip M4, la velocidad de procesamiento de IA on-device ha mejorado más de 3 veces.
+
 > **🤔 Insight del Editor (Why & How)**
->
-> Ya no falta mucho para que ver a la gente gesticulando en el aire en el metro o en una cafetería sea algo habitual. ¡Marketers, presten atención! El mercado de contenidos, antes limitado a texto e imágenes 2D, se traslada a una dimensión completamente nueva: la 'Computación Espacial' (Spatial Computing). Es hora de empezar a pensar cómo integrar elementos de 'interacción 3D' en la planificación de tu próxima campaña. ¡Este es el momento dorado para subirse a esta ola gigante!
->
+
+Ya no falta mucho para que ver a la gente gesticulando en el aire en el metro o en una cafetería sea algo habitual. ¡Marketers, presten atención! El mercado de contenidos, antes limitado a texto e imágenes 2D, se traslada a una dimensión completamente nueva: la 'Computación Espacial' (Spatial Computing). Es hora de empezar a pensar cómo integrar elementos de 'interacción 3D' en la planificación de tu próxima campaña. ¡Este es el momento dorado para subirse a esta ola gigante!
+
 > _(Reacción del lector: "Vaya, de verdad tengo que prepararme. ¡Ya estoy esperando la newsletter de la próxima semana!" Clic en suscribirse 👇)_
 
 ---

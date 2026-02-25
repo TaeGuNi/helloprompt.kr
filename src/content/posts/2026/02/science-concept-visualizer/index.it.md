@@ -42,7 +42,7 @@ Usala quando hai bisogno di un risultato rapido e immediato.
 > **Ruolo:** Sei un `[Divulgatore Scientifico ed Esperto di Infografiche]`.
 > **Richiesta:** Spiegami il concetto di `[Inserisci Concetto]` utilizzando un diagramma in ASCII art e un'analogia semplice tratta dalla vita quotidiana.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Avanzata)
 
@@ -99,7 +99,7 @@ La potenza di questo prompt non risiede solo nella generazione del diagramma, ma
 
 ### ❌ Before (Input Semplice)
 
-> "Spiegami il TCP/IP 3-way Handshake."
+"Spiegami il TCP/IP 3-way Handshake."
 
 _(L'IA risponde con un muro di testo noioso sui pacchetti SYN e ACK, difficile da visualizzare)._
 

@@ -38,7 +38,7 @@ Utilize esta versão quando precisar de um rascunho rápido para o seu pipeline 
 > **Role (Papel):** Você é um Engenheiro de Dados Sênior e autor do 'The Data Engineering Book'.
 > **Task (Tarefa):** Recomende uma arquitetura de pipeline de dados baseada em tecnologias open-source para extrair dados de `[FONTE_DE_DADOS]` e carregá-los em `[DESTINO]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 
@@ -97,7 +97,7 @@ Este prompt vai muito além de uma simples recomendação de ferramentas. Ele fo
 
 ### ❌ Antes (Entrada Genérica)
 
-> "Como eu crio um pipeline de dados para treinar minha Inteligência Artificial?"
+"Como eu crio um pipeline de dados para treinar minha Inteligência Artificial?"
 
 ### ✅ Depois (Resultado do Prompt Pro)
 

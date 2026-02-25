@@ -39,7 +39,7 @@ Schnelle strategische Ausrichtung für kleinere Projekte, wenn Sie sofortige Üb
 > **Rolle:** Du bist ein Elite-Stratege für Unternehmensplanung.
 > **Aufgabe:** Entwickle einen langfristigen Plan (12 Monate) für `[Projekt/Ziel]`. Identifiziere die wichtigsten Meilensteine und potenziellen Risiken für jede Phase.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

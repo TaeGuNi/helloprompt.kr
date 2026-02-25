@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "generative-ui-2026"]
 
 - **🎯 推薦對象:** 前端工程師、UI/UX 設計師、AI 產品經理
 - **⏱️ 節省時間:** 數週的刻板 UI 開發 → 實時動態生成
-- **🤖 推薦模型:** Gemini 1.5 Pro, GPT-4o, Claude 3.5 Sonnet
+- **🤖 推薦模型:** Gemini 2.5 Pro, GPT-4o, Claude 3.5 Sonnet
 
 - ⭐ **難易度:** ⭐⭐⭐⭐☆
 - ⚡️ **效果:** ⭐⭐⭐⭐⭐
@@ -40,7 +40,7 @@ tags: ["AI", "Tech", "generative-ui-2026"]
 > **請求:** 請根據使用者的輸入，決定要顯示哪個 UI 元件，並以 JSON 格式回傳。
 > **可用元件:** `["Text", "LineChart", "Button"]`
 
-<br>
+\
 
 ### 🥇 Pro Version (專家型)
 

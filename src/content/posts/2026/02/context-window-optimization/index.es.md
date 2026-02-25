@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "context-window-optimization"]
 
 - **🎯 Recomendado para:** Desarrolladores AI, Ingenieros de Prompts, Arquitectos de Software
 - **⏱️ Tiempo de lectura:** 5 minutos
-- **🤖 Modelos recomendados:** Gemini 1.5 Pro, Claude 3 Opus/Sonnet, GPT-4o
+- **🤖 Modelos recomendados:** Gemini 2.5 Pro, Claude 3 Opus/Sonnet, GPT-4o
 
 - ⭐ **Dificultad:** ⭐⭐⭐⭐☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -51,7 +51,7 @@ Ideal para consultas rápidas sobre un par de archivos grandes.
 >
 > **Tarea:** Basado estrictamente en la documentación, encuentra el bug en el código y devuélvelo corregido.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

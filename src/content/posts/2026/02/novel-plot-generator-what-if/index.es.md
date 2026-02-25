@@ -42,7 +42,7 @@ Al escribir una novela o un guion, inevitablemente llega un momento en que choca
 > **Rol:** Eres un exitoso autor de novelas web y consultor experto en desarrollo de tramas.
 > **Solicitud:** Mi historia está atascada. El protagonista acaba de descubrir que su mentor es el villano. Dame 3 giros narrativos inesperados usando el formato "¿Y si...?".
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

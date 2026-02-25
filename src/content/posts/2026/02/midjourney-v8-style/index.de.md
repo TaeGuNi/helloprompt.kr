@@ -39,7 +39,7 @@ Nutzen Sie diese Version direkt in Discord oder der Midjourney Web-App, wenn Sie
 > **Anfrage:**
 > `/imagine prompt: [Zielmotiv, z. B. ein Roboter, der in einer Cyberpunk-Stadt Kaffee trinkt] --sref [URL_DES_REFERENZBILDES] --sw 800 --v 8`
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten: Multi-Prompt-Generator für Brand Assets)
 

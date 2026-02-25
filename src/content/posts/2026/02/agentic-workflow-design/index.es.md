@@ -12,7 +12,7 @@ image: "/images/2026/02/15/agent-workflow.jpg"
 
 - **🎯 Público objetivo:** PMs, Planificadores, Profesionales cansados de organizar actas de reuniones y documentos repetitivos.
 - **⏱️ Tiempo estimado:** De 1 hora → Reducido a 3 minutos.
-- **🤖 Modelo recomendado:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (Modelos optimizados para flujos de trabajo de agentes).
+- **🤖 Modelo recomendado:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (Modelos optimizados para flujos de trabajo de agentes).
 
 - ⭐ **Dificultad:** ⭐⭐⭐☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -43,7 +43,7 @@ Sin embargo, muchos siguen utilizando la IA simplemente como un chatbot intelige
 > **Rol:** Eres un `[Project Manager de TI]`.
 > **Tarea:** Lee la siguiente transcripción de la reunión y resume las decisiones principales y las tareas pendientes.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 
@@ -88,7 +88,7 @@ Especialmente, al establecer la restricción explícita de "no adivinar", bloque
 ## 🙋 Preguntas Frecuentes (FAQ)
 
 - **P: La transcripción es demasiado larga y me da error. ¿Qué hago?**
-  - R: Los modelos más recientes (Claude 3.5 Sonnet, Gemini 1.5 Pro, GPT-4o) procesan sin problemas decenas de miles de caracteres. Si utilizas un modelo más antiguo, prueba a dividir el texto en dos partes o utiliza una versión del modelo con una ventana de contexto (Context Window) más amplia.
+  - R: Los modelos más recientes (Claude 3.5 Sonnet, Gemini 2.5 Pro, GPT-4o) procesan sin problemas decenas de miles de caracteres. Si utilizas un modelo más antiguo, prueba a dividir el texto en dos partes o utiliza una versión del modelo con una ventana de contexto (Context Window) más amplia.
 
 - **P: A veces, la IA asigna las tareas (Action items) a la persona equivocada.**
   - R: Esto suele ocurrir cuando los oradores no están claramente identificados en la transcripción de origen. Si utilizas herramientas de transcripción de reuniones (como Otter.ai, Fireflies, o Whisper) que incluyan la función de "separación de oradores" (Speaker Diarization), la precisión aumentará drásticamente, superando el 99%.

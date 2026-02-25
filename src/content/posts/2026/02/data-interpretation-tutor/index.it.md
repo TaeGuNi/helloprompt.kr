@@ -43,7 +43,7 @@ Usala quando hai poco tempo e ti serve un'analisi rapida e dritta al punto.
 > **Ruolo:** Sei un esperto `[Analista Dati Senior]`.
 > **Richiesta:** Analizza `[questa immagine/tabella]` e spiegami le 3 intuizioni più importanti. Dimmi anche se noti anomalie evidenti nei dati.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 
@@ -79,7 +79,7 @@ La vera potenza di questo prompt non sta nel far leggere i numeri all'IA (cosa c
 ## 🙋 Domande Frequenti (FAQ)
 
 - **Q: Devo per forza caricare un'immagine del grafico? Non posso incollare i dati direttamente da Excel?**
-  - A: Puoi fare entrambe le cose! I modelli multimodali (come GPT-4o, Claude 3.5 Sonnet o Gemini 1.5 Pro) sono eccellenti sia nella lettura visiva (Vision) dei grafici, sia nell'analisi di dati grezzi incollati direttamente in formato CSV, Markdown o testo semplice.
+  - A: Puoi fare entrambe le cose! I modelli multimodali (come GPT-4o, Claude 3.5 Sonnet o Gemini 2.5 Pro) sono eccellenti sia nella lettura visiva (Vision) dei grafici, sia nell'analisi di dati grezzi incollati direttamente in formato CSV, Markdown o testo semplice.
 
 - **Q: Può elaborare grafici molto complessi con decine di linee sovrapposte?**
   - A: Sì, ma se il grafico è un cosiddetto "spaghetti chart" (troppo confuso), ti consiglio di aggiungere questa riga al prompt: _"Ignora il rumore di fondo e concentrati solo sulle 3 variabili che mostrano le anomalie o le tendenze più significative."_
@@ -98,7 +98,7 @@ La vera potenza di questo prompt non sta nel far leggere i numeri all'IA (cosa c
 
 ### ❌ Before (Occhio Umano Inesperto)
 
-> "Hmm... Dal grafico sembra che le vendite del 2024 siano molto più alte rispetto al 2023. Ottimo lavoro del team!"
+"Hmm... Dal grafico sembra che le vendite del 2024 siano molto più alte rispetto al 2023. Ottimo lavoro del team!"
 
 ### ✅ After (Risultato del Prompt)
 

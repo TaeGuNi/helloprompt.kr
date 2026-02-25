@@ -45,31 +45,31 @@ No passado recente, os módulos Wasm eram blocos de execução solitários, extr
 > **Cenário:** Módulos únicos executando em silos isolados.
 > **Desafio:** Dependência extrema de _glue code_ (código de cola) complexo e chamadas de rede lentas para estabelecer a comunicação entre microsserviços.
 
-<br>
+\
 
 ### 🥇 O Modelo de Componentes (2024–2026)
 
 O salto mais significativo na adoção foi a maturidade do **Modelo de Componentes Wasm (Wasm Component Model)**, que destruiu as barreiras entre as linguagens de programação.
 
 > **Conceito (Concept):** Interoperabilidade nativa e universal entre linguagens na memória.
->
+
 > **Estrutura (Context):**
->
-> - Base: `[Contêineres isolados tradicionais]`
-> - Objetivo: `[Comunicação direta sem overhead de rede]`
->
+
+- Base: `[Contêineres isolados tradicionais]`
+- Objetivo: `[Comunicação direta sem overhead de rede]`
+
 > **Ação (Task):**
->
-> 1. Conectar diferentes módulos de linguagens (Ex: core em Rust, rede em Go, dados em Python) de forma perfeita, sem precisar compilar em um binário monolítico.
-> 2. Substituir as chamadas de rede lentas (REST/gRPC) por comunicação direta e ultrarrápida na memória.
->
+
+1. Conectar diferentes módulos de linguagens (Ex: core em Rust, rede em Go, dados em Python) de forma perfeita, sem precisar compilar em um binário monolítico.
+2. Substituir as chamadas de rede lentas (REST/gRPC) por comunicação direta e ultrarrápida na memória.
+
 > **Restrições (Constraints):**
->
-> - Manter o rigoroso isolamento de memória e a arquitetura de segurança (_Zero Trust_) entre todos os componentes.
->
+
+- Manter o rigoroso isolamento de memória e a arquitetura de segurança (_Zero Trust_) entre todos os componentes.
+
 > **Aviso (Warning):**
->
-> - O Wasm não é um substituto imediato para bancos de dados pesados, mas sim uma solução incrivelmente otimizada para processos curtos, modulares e de alta densidade.
+
+- O Wasm não é um substituto imediato para bancos de dados pesados, mas sim uma solução incrivelmente otimizada para processos curtos, modulares e de alta densidade.
 
 ---
 

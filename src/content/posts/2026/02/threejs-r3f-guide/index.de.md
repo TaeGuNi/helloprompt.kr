@@ -45,7 +45,7 @@ Nutze diesen Prompt, um die Funktionsweise von R3F zu verstehen und erste schnel
 >
 > **Aufgabe:** Nutze React Three Fiber (R3F), um einen Würfel in der Mitte des Bildschirms zu platzieren. Schreibe den Code für eine interaktive Komponente: Wenn der Benutzer mit der Maus darüber fährt (Hover), soll der Würfel um das 1,2-fache wachsen. Beim Klicken ändert er seine Farbe zufällig. Verwende den `useFrame`-Hook, damit sich der Würfel kontinuierlich um die eigene Achse dreht.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten: Apple-Style Produkt-Showcase)
 
@@ -108,11 +108,11 @@ In der Praxis ist es unerlässlich, das Modell über 3D-Tools wie Blender oder O
 
 ### ❌ Vorher (Einfache 2D-Bilder)
 
-> "Gibt es eine Möglichkeit, die Anschlüsse auf der Rückseite oder die feine Verarbeitung des Produkts zu sehen?" (Kein Zoomen oder Drehen möglich, nur einseitige Informationsvermittlung 🖼️)
+"Gibt es eine Möglichkeit, die Anschlüsse auf der Rückseite oder die feine Verarbeitung des Produkts zu sehen?" (Kein Zoomen oder Drehen möglich, nur einseitige Informationsvermittlung 🖼️)
 
 ### ✅ Nachher (Scroll-reaktives 3D-Showcase)
 
-> Das Produkt reagiert subtil auf jede Bewegung des Mauszeigers. Beim Scrollen schweben die internen Chipsätze und der Akku förmlich auseinander und enthüllen die detaillierten Spezifikationen. (Erhöht die Verweildauer der Nutzer um über 300 % und bietet ein überwältigendes Premium-Markenerlebnis 🚀)
+Das Produkt reagiert subtil auf jede Bewegung des Mauszeigers. Beim Scrollen schweben die internen Chipsätze und der Akku förmlich auseinander und enthüllen die detaillierten Spezifikationen. (Erhöht die Verweildauer der Nutzer um über 300 % und bietet ein überwältigendes Premium-Markenerlebnis 🚀)
 
 ---
 

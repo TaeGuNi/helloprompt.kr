@@ -49,7 +49,7 @@ Use esta versão quando precisar de resultados rápidos e diretos.
 > **Papel:** Você é um 'Pesquisador de Mistérios' especializado em coletar lendas urbanas e histórias bizarras de todo o mundo.
 > **Pedido:** Estou viajando para `[Nome da Cidade/Região]`. Conte-me uma lenda local ou história de fantasma interessante sobre este lugar para tornar minha viagem mais divertida.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

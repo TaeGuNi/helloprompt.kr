@@ -48,7 +48,7 @@ Ideal, wenn der Regeltext bereits vorliegt oder wenn das Spiel so bekannt ist, d
 > 2. Fasse die Aktionen, die ich in meinem Spielzug (Turn) ausführen kann, in der richtigen Reihenfolge zusammen.
 > 3. Weise auf die 3 häufigsten Regelfehler (Detailregeln) hin, die bei der ersten Partie gemacht werden.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion) {#pdf}
 

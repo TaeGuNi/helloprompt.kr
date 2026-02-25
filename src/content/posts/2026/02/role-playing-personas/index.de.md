@@ -39,7 +39,7 @@ Nutzen Sie diese Variante, wenn Sie schnelle, aber zielgerichtete Ergebnisse fü
 > **Rolle:** Du bist ein erfahrener `[Fachexperte, z. B. Cybersecurity Analyst]`.
 > **Aufgabe:** Bitte analysiere und löse das folgende Problem aus deiner fachlichen Perspektive: `[Problembeschreibung]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Modus)
 
@@ -123,7 +123,7 @@ Ergebnis (KI):
 
 ---
 
-## 🎯 결론 (Fazit)
+## 🎯 Conclusion (Fazit)
 
 Die Präzision Ihrer Prompts ist das Fundament für effiziente KI-gestützte Arbeit. Je tiefer wir LLMs in unsere täglichen Workflows integrieren, desto wichtiger wird es, über generischen Einheits-Code hinauszugehen. Mit gezieltem Role Prompting verwandeln Sie die KI von einem fleißigen, aber naiven Praktikanten in einen hochspezialisierten Senior-Kollegen.
 

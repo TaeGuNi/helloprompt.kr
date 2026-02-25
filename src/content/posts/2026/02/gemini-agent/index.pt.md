@@ -47,7 +47,7 @@ Use esta versão para um brainstorming rápido de automações antes de uma reun
 > **Role (Papel):** Você é um Product Manager (PM) Sênior.
 > **Task (Tarefa):** Estamos planejando integrar o 'Gemini Agent Ecosystem' do Google ao nosso serviço, `[Nome do seu serviço e funcionalidade principal]`. Proponha 3 casos de uso de automação de alto impacto em que o usuário possa executar tarefas essenciais usando apenas comandos de voz, sem precisar abrir o aplicativo manualmente.
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 

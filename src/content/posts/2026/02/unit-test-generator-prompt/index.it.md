@@ -45,7 +45,7 @@ Usala quando hai bisogno di un risultato immediato senza troppe configurazioni.
 > **Richiesta:** Scrivi i test unitari per il seguente frammento di codice. Assicurati di coprire i casi di successo e gli errori principali.
 > **Codice:** `[Incolla il tuo codice qui]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

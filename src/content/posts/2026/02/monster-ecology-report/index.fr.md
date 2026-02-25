@@ -42,7 +42,7 @@ Utilisez cette version lorsque vous avez besoin d'un concept rapide sans entrer 
 > **Rôle :** Tu es un biologiste expert en tératologie et un chercheur de monstres explorant un continent inexploré.
 > **Demande :** Je suis fatigué des monstres classiques comme les slimes ou les gobelins. Conçois un monstre original en te basant sur un écosystème réaliste et décris ses habitudes de vie.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

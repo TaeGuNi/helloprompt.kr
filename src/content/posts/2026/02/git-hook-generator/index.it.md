@@ -44,7 +44,7 @@ Usala quando hai bisogno rapidamente di uno script hook per un'azione specifica.
 > **Ruolo:** Sei un `[Ingegnere DevOps]`.
 > **Azione:** Scrivi uno script di shell Git Hook e le relative istruzioni di configurazione utilizzando `[Husky]` per `[eseguire npm run lint prima di ogni git commit]`.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

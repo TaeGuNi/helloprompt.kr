@@ -42,7 +42,7 @@ tags: ["Cursor", "Copilot", "Windsurf", "AI코딩", "IDE"]
 > **役割:** あなたはトレンドに敏感なシニアDevOpsエンジニアです。
 > **タスク:** GitHub Copilot、Cursor、Windsurfの決定的な違いを「コードベースの認識能力」と「エージェントの自律性」の観点から比較・要約してください。
 
-<br>
+\
 
 ### 🥇 Pro Version (チーム導入および移行の決定)
 

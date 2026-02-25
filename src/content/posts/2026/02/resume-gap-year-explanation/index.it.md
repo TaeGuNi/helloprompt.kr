@@ -48,7 +48,7 @@ Usala quando hai bisogno di uno spunto immediato per rielaborare il tuo periodo 
 > **Ruolo:** Sei un career coach esperto e uno psicologo del lavoro.
 > **Richiesta:** Aiutami a reinterpretare il mio periodo di inattività lavorativa (gap year/viaggi/riposo) trasformandolo in un'esperienza significativa di crescita personale e ricarica, pronta per essere inserita in una lettera di presentazione o esposta a un colloquio.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

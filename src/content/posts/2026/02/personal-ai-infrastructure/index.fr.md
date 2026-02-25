@@ -4,9 +4,6 @@ date: 2026-02-13
 pubDate: 2026-02-13
 description: " \"Découvrez comment construire une infrastructure d'IA personnelle pour regagner votre liberté en matière de confidentialité des données, et libérez-vous de la dépendance aux solutions SaaS.\""
 author: "Hello Prompt"
-image:
-  url: "https://cdn.example.com/ai-stack.png"
-  alt: "Personal AI Stack Diagram"
 tags: ["AI", "Infrastructure", "Privacy", "Daniel Miessler"]
 ---
 
@@ -14,7 +11,7 @@ tags: ["AI", "Infrastructure", "Privacy", "Daniel Miessler"]
 
 - **🎯 Public cible :** Développeurs, passionnés de productivité, professionnels soucieux de la confidentialité
 - **⏱️ Temps gagné :** Des heures de recherche technique → Un plan d'action sur mesure en 1 minute
-- **🤖 Modèles recommandés :** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modèles recommandés :** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Difficulté :** ⭐⭐⭐☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -47,7 +44,7 @@ Idéal pour obtenir une recommandation rapide basée sur le matériel que vous p
 > **Rôle :** Tu es un Architecte Systèmes expert en IA locale et Open Source.
 > **Requête :** Je souhaite construire une infrastructure d'IA locale pour `[votre objectif, ex: résumer mes notes privées]`. Mon ordinateur possède `[votre configuration, ex: un Mac M2 avec 16 Go de RAM]`. Propose-moi les 3 meilleurs outils (LLM, interface, base de données) pour commencer facilement et sans coder.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pour les utilisateurs avancés)
 

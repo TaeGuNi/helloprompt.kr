@@ -41,7 +41,7 @@ Ideal para tareas lógicas rápidas donde necesitas que la IA "piense en voz alt
 > **Rol:** Eres un experto solucionador de problemas con pensamiento crítico avanzado.
 > **Instrucción:** Antes de dar la respuesta final a `[Tu Problema]`, escribe paso a paso tu proceso de razonamiento. Si detectas un error en tu lógica a mitad de camino, corrígelo explícitamente y continúa.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 
@@ -82,7 +82,7 @@ Al utilizar el **Prompt de la Versión Pro**, estás obligando incluso a modelos
 ## 🙋 Preguntas Frecuentes (FAQ)
 
 - **Q: ¿Necesito pagar por OpenAI o2 para que este prompt funcione?**
-  - A: No necesariamente. Aunque o2 realiza este proceso de forma nativa e invisible (Hidden CoT), puedes usar este prompt en modelos como GPT-4o, Claude 3.5 Sonnet o Gemini 1.5 Pro para forzar un nivel de razonamiento estructurado paso a paso, mejorando drásticamente la calidad de sus respuestas.
+  - A: No necesariamente. Aunque o2 realiza este proceso de forma nativa e invisible (Hidden CoT), puedes usar este prompt en modelos como GPT-4o, Claude 3.5 Sonnet o Gemini 2.5 Pro para forzar un nivel de razonamiento estructurado paso a paso, mejorando drásticamente la calidad de sus respuestas.
 
 - **Q: ¿Por qué la IA tarda más en responder cuando uso la Versión Pro?**
   - A: Al exigirle que desglose su pensamiento y evalúe sus propios errores, la IA debe generar y procesar más tokens antes de entregar el resultado final. Es un intercambio sumamente rentable: sacrificas unos segundos adicionales de espera a cambio de una precisión técnica casi absoluta.

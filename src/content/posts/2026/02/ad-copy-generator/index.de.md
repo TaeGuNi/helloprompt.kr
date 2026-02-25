@@ -48,7 +48,7 @@ Verwenden Sie diesen Prompt, wenn Sie unter Zeitdruck stehen und sofort eine sol
 > **Rolle:** Du bist ein erfahrener `[Performance-Marketing-Experte]`.
 > **Aufgabe:** Schreibe einen hochkonvertierenden, scroll-stoppenden Anzeigentext für `[Produkt/Dienstleistung]`, der die Klickrate maximiert.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 

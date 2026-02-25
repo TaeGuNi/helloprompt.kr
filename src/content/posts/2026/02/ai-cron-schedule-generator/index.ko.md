@@ -13,7 +13,7 @@ tags: [Linux, Cron, Automation, Server, AI]
 
 - **🎯 추천 대상:** 백엔드 개발자, DevOps 엔지니어, 서버 관리자
 - **⏱️ 소요 시간:** 10분 → 30초 단축
-- **🤖 추천 모델:** ChatGPT, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 추천 모델:** ChatGPT, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **난이도:** ⭐☆☆☆☆
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ tags: [Linux, Cron, Automation, Server, AI]
 > **역할:** 너는 `[DevOps 엔지니어]`야.
 > **요청:** `[매월 마지막 주 금요일 밤 11시]`를 Linux Crontab 표현식으로 만들어줘. 언제 실행되는지 설명도 덧붙여줘.
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 

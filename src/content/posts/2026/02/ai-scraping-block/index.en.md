@@ -39,7 +39,7 @@ Use this for a quick, copy-paste `robots.txt` configuration to stop the most com
 > **Role:** You are an expert Web Security Engineer.
 > **Task:** Write a `robots.txt` file that blocks all known AI web scrapers and LLM crawlers from accessing my website.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

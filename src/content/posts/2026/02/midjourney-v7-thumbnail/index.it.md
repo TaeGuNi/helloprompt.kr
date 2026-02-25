@@ -40,13 +40,13 @@ L'80% del traffico di un blog dipende dall'impatto del Titolo e della Miniatura 
 Ideale per uno stile pulito, moderno e in linea con i trend di Notion o delle startup tech.
 
 > **Ruolo (Role):** Sei un generatore di prompt per icone 3D.
->
-> **Compito (Task):** Genera l'immagine in base al soggetto richiesto.
->
-> **Prompt (Copia e incolla su Midjourney):**
-> `cute 3d isometric icon of [coffee cup and laptop], pastel background, soft lighting, minimalism, c4d render, high quality --ar 16:9`
 
-<br>
+> **Compito (Task):** Genera l'immagine in base al soggetto richiesto.
+
+> **Prompt (Copia e incolla su Midjourney):**
+`cute 3d isometric icon of [coffee cup and laptop], pastel background, soft lighting, minimalism, c4d render, high quality --ar 16:9`
+
+\
 
 ### 🥇 Versione Pro (Arte per Massimizzare il CTR)
 

@@ -39,10 +39,10 @@ En 2026, l'Intelligence Artificielle ne se contente plus de « parler ». Elle p
 Idéal pour mettre en place rapidement des scénarios d'automatisation simples et linéaires.
 
 > **Rôle :** Tu es un `[Expert en Automatisation Commerciale]`.
->
+
 > **Demande :** Conçois un flux de travail détaillé pour qu'un agent IA effectue la tâche suivante : `[Résumer les newsletters reçues par e-mail et publier une synthèse sur Slack]`.
 
-<br>
+\
 
 ### 🥇 Version Pro
 

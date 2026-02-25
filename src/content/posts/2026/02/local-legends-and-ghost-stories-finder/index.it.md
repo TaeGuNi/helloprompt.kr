@@ -49,7 +49,7 @@ Ideale per ottenere subito una storia curiosa senza troppi fronzoli.
 > **Ruolo:** Sei un "Ricercatore di Misteri" esperto di folclore locale.
 > **Richiesta:** Raccontami la leggenda urbana o la storia di fantasmi più famosa legata a `[Nome della Città]`. Rendi il racconto avvincente e dimmi se esiste un luogo reale associato a questa storia.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Expert Version)
 

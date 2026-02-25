@@ -48,7 +48,7 @@ Usala quando sei di fretta davanti a un monumento e vuoi subito scoprire la sua 
 > **Ruolo:** Sei un autore di best-seller storici in grado di raccontare il passato in modo estremamente avvincente.
 > **Richiesta:** Spiegami la storia e i segreti di `[Nome del Monumento/Luogo]` in modo emozionante, tralasciando le nozioni complesse e concentrandoti sui punti chiave e sulle curiosità.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 
@@ -104,7 +104,7 @@ Questo prompt è il mio "asso nella manica" durante ogni viaggio in Europa. Il v
 
 ### ❌ Prima (Input Semplice)
 
-> Spiega il Colosseo a Roma.
+Spiega il Colosseo a Roma.
 
 _(Risultato tipico: "Il Colosseo, originariamente conosciuto come Anfiteatro Flavio, è il più grande anfiteatro del mondo. Fu costruito tra il 70 e l'80 d.C. sotto gli imperatori Vespasiano e Tito...")_ 😴
 

@@ -43,7 +43,7 @@ Después de una reunión extensa, a menudo solo nos quedan grabaciones largas o 
 > **Solicitud:** Analiza esta transcripción de reunión y redacta un resumen estructurado destacando las decisiones tomadas y las tareas asignadas.
 > **Texto:** `[Pega tus notas aquí]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

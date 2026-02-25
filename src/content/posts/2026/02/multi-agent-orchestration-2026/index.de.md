@@ -13,7 +13,7 @@ tags: ["AI 에이전트", "자동화", "프롬프트 엔지니어링", "AutoGPT"
 
 - **🎯 Empfohlen für:** Projektmanager (PMs) und Planer, die komplexe Projekte strategisch aufbauen und umsetzen wollen.
 - **⏱️ Zeitaufwand:** 1 Stunde → auf 5 Minuten verkürzt (Drastische Zeitersparnis bei der Planung)
-- **🤖 Empfohlene Modelle:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Empfohlene Modelle:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Schwierigkeitsgrad:** ⭐⭐⭐☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Nutzen Sie diese Version, wenn Sie schnell verschiedene Perspektiven und Ideen b
 > **Rolle:** Du bist ein erfahrener Projektmanager.
 > **Aufgabe:** Gib mir fundierte Einschätzungen zum `[Thema]` aus der Perspektive eines Planers, eines Entwicklers und eines Designers. Fasse diese anschließend zusammen und schlage die optimale Vorgehensweise vor.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten)
 
@@ -94,7 +94,7 @@ Indem wir jedoch die Rolle eines 'Kritikers' erzwingen und einen Streit provozie
   - A: Fügen Sie den Einschränkungen einfach folgenden Satz hinzu: "Die Diskussion ist strikt auf 3 Runden begrenzt. In der letzten Runde muss der Umsetzer einen realistischen und umsetzbaren Konsens erzwingen." So reguliert die KI die Länge der Konversation selbst und kommt zügig zum Punkt.
 
 - **F: Funktioniert das auch mit der kostenlosen Version von ChatGPT (GPT-3.5)?**
-  - A: Da das Modell verschiedene Personas gleichzeitig verwalten und eine logische Debatte führen muss, raten wir dringend zur Nutzung aktueller Modelle mit hoher komplexer Schlussfolgerungsfähigkeit wie GPT-4o, Claude 3.5 Sonnet oder Gemini 1.5 Pro. Bei älteren Modellen verschwimmen die Rollen schnell und es wirkt, als würde die KI nur wirres Zeug mit sich selbst reden.
+  - A: Da das Modell verschiedene Personas gleichzeitig verwalten und eine logische Debatte führen muss, raten wir dringend zur Nutzung aktueller Modelle mit hoher komplexer Schlussfolgerungsfähigkeit wie GPT-4o, Claude 3.5 Sonnet oder Gemini 2.5 Pro. Bei älteren Modellen verschwimmen die Rollen schnell und es wirkt, als würde die KI nur wirres Zeug mit sich selbst reden.
 
 ---
 

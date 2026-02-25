@@ -42,7 +42,7 @@ Entrar a una entrevista sin una preparación exhaustiva suele resultar en pregun
 > **Rol:** Eres un experto reclutador de una empresa tecnológica líder.
 > **Solicitud:** Basado en el puesto de `[Puesto a cubrir]`, genérame 5 preguntas de entrevista incisivas que evalúen tanto habilidades técnicas como resolución de problemas.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

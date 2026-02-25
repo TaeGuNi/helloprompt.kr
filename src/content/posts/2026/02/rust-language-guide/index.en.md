@@ -13,7 +13,7 @@ tags: ["Rust", "러스트", "시스템프로그래밍", "백엔드", "WebAssembl
 
 - **🎯 Target Audience:** System developers exhausted by C/C++ memory leaks (Segfaults), backend engineers craving limitless performance
 - **⏱️ Time Required:** 20 minutes (To understand the core concepts of Ownership)
-- **🤖 Recommended Model:** Any conversational AI (ChatGPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro, etc.)
+- **🤖 Recommended Model:** Any conversational AI (ChatGPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro, etc.)
 
 - ⭐ **Difficulty:** ⭐⭐⭐⭐⭐
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Use this when you want to quickly grasp Rust's basic syntax and its package mana
 > **Role:** You are a Senior `[Rust Developer]`.
 > **Task:** Explain from a beginner's perspective how to output 'Hello World' in Rust. Include the series of CLI commands to create, build, and run a new project using `[Cargo]`.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

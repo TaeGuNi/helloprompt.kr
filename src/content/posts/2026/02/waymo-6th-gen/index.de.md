@@ -40,7 +40,7 @@ Nutzen Sie diesen Prompt, wenn Sie nur eine kurze, knackige Zusammenfassung für
 > **Rolle:** Du bist ein erfahrener Technologie-Journalist.
 > **Aufgabe:** Fasse die neuesten Updates zum `[Waymo Fahrer der 6. Generation]` zusammen und betone dabei insbesondere die Sensoren, das Wetterhandling und das Fahrverhalten.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten)
 

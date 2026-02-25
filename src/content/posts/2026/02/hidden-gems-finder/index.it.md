@@ -42,7 +42,7 @@ Usala quando hai bisogno di un suggerimento rapido e immediato.
 > **Ruolo:** Sei uno scrittore di saggi di viaggio e un fotografo specializzato nello scoprire "gemme nascoste" e luoghi poco noti.
 > **Richiesta:** Consigliami dei luoghi tranquilli e senza turisti in `[Inserisci Città/Regione]`. Voglio scoprire posti segreti e autentici.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 
@@ -104,7 +104,7 @@ Questo prompt è straordinariamente utile perché trasforma l'IA da una semplice
 
 ### ❌ Prima (Input generico)
 
-> "Raccomandami luoghi tranquilli a Jeju."
+"Raccomandami luoghi tranquilli a Jeju."
 
 _(Risultato tipico: Ti suggerisce spiagge un po' meno note, ma comunque presenti in tutte le guide turistiche principali, o musei del tè che si riempiono di comitive a mezzogiorno.)_
 

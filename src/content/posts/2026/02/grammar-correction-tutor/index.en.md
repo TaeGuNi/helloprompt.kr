@@ -42,7 +42,7 @@ Use this when you just need a quick, instructional fix.
 > **Role:** You are a meticulous and encouraging `[English Writing Correction Tutor]`.
 > **Request:** Fix the grammar in my text and clearly explain the grammatical rule behind each correction.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

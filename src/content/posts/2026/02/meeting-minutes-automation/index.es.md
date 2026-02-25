@@ -42,13 +42,13 @@ A continuación, te presento el flujo de trabajo definitivo para pasar de **Grab
 Utiliza este prompt cuando solo necesites extraer la esencia de la reunión de forma rápida.
 
 > **Rol:** Eres un asistente ejecutivo altamente eficiente.
->
-> **Petición:** Analiza la transcripción de la reunión proporcionada y resúmela en 3 secciones clave: [Agenda / Decisiones Tomadas / Próximos Pasos].
->
-> **Transcripción:**
-> `[Pega la transcripción aquí]`
 
-<br>
+> **Petición:** Analiza la transcripción de la reunión proporcionada y resúmela en 3 secciones clave: [Agenda / Decisiones Tomadas / Próximos Pasos].
+
+> **Transcripción:**
+`[Pega la transcripción aquí]`
+
+\
 
 ### 🥇 Versión Pro (Actas Perfectas y Listas para Enviar)
 

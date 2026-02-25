@@ -54,7 +54,7 @@ Use this when you need to convey your passion and potential with maximum impact.
 > 2. Exclude abstract fluff (e.g., hard-working, passionate) and use a concrete, brief anecdote instead.
 > 3. Write in short, conversational sentences so it sounds natural when spoken aloud.
 
-<br>
+\
 
 ### 🥇 Pro Version (For Experienced Professionals)
 

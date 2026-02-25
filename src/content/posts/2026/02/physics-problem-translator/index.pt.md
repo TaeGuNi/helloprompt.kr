@@ -42,7 +42,7 @@ Utilize esta versão para obter uma resposta rápida e direta para um problema s
 > **Papel:** Você é um `[Professor de Física Especialista em Resolução de Problemas]`.
 > **Solicitação:** Leia o seguinte problema de física, analise a situação e me diga passo a passo como resolvê-lo e qual fórmula devo usar: `[Insira o enunciado do problema aqui]`.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert)
 

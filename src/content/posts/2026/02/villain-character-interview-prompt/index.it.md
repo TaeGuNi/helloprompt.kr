@@ -42,7 +42,7 @@ Usala quando hai bisogno di un'idea rapida per sbloccare la trama.
 > **Ruolo:** Sei `[Nome del Cattivo]`, l'antagonista principale della mia storia.
 > **Richiesta:** Rispondi alle mie domande immedesimandoti completamente nel personaggio. Dimmi perché odi così tanto il protagonista e cosa ti spinge ad agire.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Expert Version)
 

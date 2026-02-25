@@ -7,9 +7,6 @@ updatedDate: "2026-02-16"
 category: "AI 트렌드"
 description: " \"단어 선택에 집착하지 마세요. Gemini 3와 GPT-5 시대에는 문장이 아니라 '목표(Intent)'를 설계해야 합니다.\""
 tags: ["AI 트렌드", "에이전트", "Gemini 3", "GPT-5", "프롬프트 엔지니어링"]
-image:
-  url: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2565&auto=format&fit=crop"
-  alt: "추상적인 AI 에이전트 네트워크"
 ---
 
 # 📝 프롬프트 엔지니어링은 끝났습니다. 이제 '의도 설계'하세요.
@@ -47,7 +44,7 @@ image:
 > **Role:** 너는 기술 블로거야.
 > **Task:** Rust와 Go 언어를 비교하는 글을 써줘. 재미있게 써줘.
 
-<br>
+\
 
 ### 🥇 Pro Version (아키텍트형)
 

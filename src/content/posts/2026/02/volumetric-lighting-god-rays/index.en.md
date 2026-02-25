@@ -44,7 +44,7 @@ Use this when you need an immediate cinematic feel without overcomplicating your
 > **Subject:** `[Your Subject, e.g., A lone knight in a dark forest]`
 > **Requirement:** Ensure distinct, visible light beams (God rays) are pouring down from above, illuminating the subject.
 
-<br>
+\
 
 ### 🥇 Pro Version (Cinematic Detail)
 

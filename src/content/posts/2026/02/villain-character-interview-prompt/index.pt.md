@@ -42,7 +42,7 @@ Use esta versão quando precisar apenas de um rascunho rápido de ideias.
 > **Papel:** A partir de agora, você assumirá a identidade do vilão principal, `[Nome do Vilão]`, da minha história.
 > **Solicitação:** Um vilão cativante é a essência de uma boa narrativa. Quero te entrevistar diretamente para desvendar suas motivações e sua história oculta. Responda às minhas perguntas fielmente como se fosse o personagem.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

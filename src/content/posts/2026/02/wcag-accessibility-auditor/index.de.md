@@ -47,7 +47,7 @@ Verwenden Sie dies für eine schnelle Überprüfung, wenn Sie an der Barrierefre
 > [Fügen Sie hier Ihren Code ein]
 > ```
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -120,8 +120,8 @@ Wenn Sie diesen Prompt in der Praxis bei der Erstellung komplexer Custom-Select-
 ### ✅ Nachher (Ergebnis: Perfekte Unterstützung für Tastaturfokus & Screenreader)
 
 ```html
-<!-- Bedeutungslosen dekorativen Bildern wird ein leeres alt-Attribut oder aria-hidden zugewiesen, damit Screenreader sie ignorieren -->
-<!-- Verwendung des button-Tags, das von Haus aus nicht nur onClick, sondern auch die Enter/Space-Tasten unterstützt -->
+
+
 <button type="button" class="submit-btn" onClick="sendData()">
   <img src="send-icon.png" alt="" aria-hidden="true" />
   <span>Senden</span>

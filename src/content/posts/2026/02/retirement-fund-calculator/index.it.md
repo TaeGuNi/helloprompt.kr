@@ -42,7 +42,7 @@ Usala quando hai bisogno di una stima rapida e immediata.
 > **Ruolo:** Sei un `[Promotore Finanziario / CFP]` esperto in pianificazione previdenziale.
 > **Richiesta:** Elimina la mia incertezza sul futuro. Calcola con precisione quanti fondi mi servono per la pensione e quanto devo risparmiare e investire mensilmente.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 
@@ -114,7 +114,7 @@ Questo prompt è uno strumento formidabile per trasformare l'ansia per il futuro
 
 ### ❌ Prima (Input)
 
-> Quanto mi serve per andare in pensione? Voglio spendere 3.000 € al mese.
+Quanto mi serve per andare in pensione? Voglio spendere 3.000 € al mese.
 
 ### ✅ Dopo (Risultato)
 

@@ -42,7 +42,7 @@ Donde fueres, haz lo que vieres. El verdadero problema es cuando no tienes idea 
 > **Rol:** Eres un experto antropólogo cultural y un instructor profesional de etiqueta global.
 > **Solicitud:** Voy a viajar a `[País/Ciudad]`. Dime qué gestos, comportamientos y normas de etiqueta (incluyendo propinas) debo conocer obligatoriamente para no ofender a los locales.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

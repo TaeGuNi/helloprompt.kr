@@ -44,7 +44,7 @@ tags: ["Email", "Automation", "ChatGPT", "Business"]
 > **邮件内容：** `[粘贴收到的邮件]`
 > **我的指示：** `[例如：委婉拒绝，并提议下周三下午2点开会]`
 
-<br>
+\
 
 ### 🥇 Pro Version (专业版)
 

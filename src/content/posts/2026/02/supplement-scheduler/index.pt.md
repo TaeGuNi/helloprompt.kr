@@ -42,7 +42,7 @@ Use esta versão para uma resposta rápida e direta sem precisar detalhar muito 
 > **Papel:** Você é um Farmacêutico Especialista e Consultor de Nutrição.
 > **Solicitação:** Analise os seguintes suplementos: `[Lista de Suplementos]`. Crie um cronograma de ingestão otimizado que evite conflitos de absorção e interações negativas.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert Version)
 
@@ -107,7 +107,7 @@ Este prompt é incrivelmente útil porque transforma a IA em um auditor rigoroso
 
 ### ❌ Antes (Entrada)
 
-> "Me diga a ordem certa para tomar meus suplementos: Vitamina C, Ômega 3, Magnésio e Probióticos."
+"Me diga a ordem certa para tomar meus suplementos: Vitamina C, Ômega 3, Magnésio e Probióticos."
 
 _(A IA fornece uma resposta longa e confusa, sem considerar sintomas ou interações específicas, apenas listando regras gerais de bula e exigindo muita leitura.)_
 

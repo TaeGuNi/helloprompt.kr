@@ -43,7 +43,7 @@ Usalo quando lo schermo si rompe, compare un errore in console e vuoi una soluzi
 > **Ruolo:** Sei un Senior Frontend Engineer.
 > **Azione:** Tramite il server MCP, connettiti al tab attivo di Chrome. Leggi gli ultimi errori e avvisi (warnings) nella Console, spiegami la causa radice del problema e forniscimi il codice esatto per risolverlo.
 
-<br>
+\
 
 ### 🥇 Pro Version (Debugging Profondo di DOM e Stili)
 

@@ -43,7 +43,7 @@ Verwenden Sie diesen Prompt, wenn Sie sofort und ohne viele Voreinstellungen los
 > **Rolle:** Du bist ein `[Geschichtssimulations-Spielleiter]`.
 > **Anfrage:** Was wäre, wenn ich Admiral Yi Sun-sin wäre? Lass mich die Geschichte erleben, indem ich wie in einem Text-Adventure Entscheidungen treffe.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenmodus)
 
@@ -106,7 +106,7 @@ Dieser Prompt ist ein herausragendes Werkzeug für den Bildungsbereich und für 
 
 ### ❌ Before (Klassisches Lehrbuch)
 
-> "In der Schlacht von Myeongnyang 1597 besiegte Admiral Yi Sun-sin eine überlegene japanische Flotte von 133 Schiffen mit nur 13 eigenen Schiffen, indem er die starken Gezeitenströmungen der Meerenge von Uldolmok strategisch nutzte."
+"In der Schlacht von Myeongnyang 1597 besiegte Admiral Yi Sun-sin eine überlegene japanische Flotte von 133 Schiffen mit nur 13 eigenen Schiffen, indem er die starken Gezeitenströmungen der Meerenge von Uldolmok strategisch nutzte."
 
 ### ✅ After (Ergebnis des Prompt-Spiels)
 

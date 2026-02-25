@@ -42,7 +42,7 @@ Use this when you are in a rush and just need a quick result.
 > **Role:** You are an `[Expert Software Engineer]`.
 > **Request:** I encountered `[Error Message]`. Here is my `[Code]`. Find the bug and fix it.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

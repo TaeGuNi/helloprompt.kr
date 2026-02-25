@@ -40,11 +40,11 @@ Utilisez-vous toujours VS Code avec GitHub Copilot ? Si Copilot est un excellent
 Idéal lorsque vous avez besoin d'une modification immédiate ou de générer du code boilerplate dans le fichier actuellement ouvert.
 
 > **Raccourci :** `Cmd + K` (Generate)
->
-> **Prompt :**
-> Refactorise la fonction actuellement sélectionnée pour utiliser l'asynchronisme (`async/await`) et ajoute une gestion détaillée des erreurs à l'aide d'un bloc `try-catch`.
 
-<br>
+> **Prompt :**
+Refactorise la fonction actuellement sélectionnée pour utiliser l'asynchronisme (`async/await`) et ajoute une gestion détaillée des erreurs à l'aide d'un bloc `try-catch`.
+
+\
 
 ### 🥇 Version Pro (Refactoring Global de la Base de Code)
 

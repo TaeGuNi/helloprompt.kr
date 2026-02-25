@@ -42,7 +42,7 @@ Use this when you are in a rush and need a quick overview.
 > **Role:** You are an expert Data Scientist.
 > **Request:** Analyze this raw Excel data filled with numbers and extract key business implications.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

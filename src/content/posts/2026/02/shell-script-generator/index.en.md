@@ -42,7 +42,7 @@ Ideal for quick, low-risk automation tasks.
 > **Role:** You are a Senior DevOps Engineer and Linux System Administrator.
 > **Task:** Write a safe and efficient Bash script that solves `[Describe your problem]`. Include inline comments explaining each command.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 
@@ -108,7 +108,7 @@ Writing bash scripts from scratch is a notoriously error-prone process. Even sen
 
 ### ❌ Before (Input Requirement)
 
-> "Move all JPG files in the current folder to an 'images' folder, and change the filename to today's date + original name."
+"Move all JPG files in the current folder to an 'images' folder, and change the filename to today's date + original name."
 
 ### ✅ After (Result)
 

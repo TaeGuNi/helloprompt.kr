@@ -42,7 +42,7 @@ Verwenden Sie diese Version für schnelle, alltägliche Notizen, wenn Sie sofort
 > **Rolle:** Du bist ein präziser, lokaler KI-Assistent.
 > **Aufgabe:** Fasse den folgenden `[Text]` in 3 kurzen Stichpunkten zusammen. Erfinde absolut keine Fakten hinzu.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

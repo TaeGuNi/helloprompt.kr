@@ -5,9 +5,6 @@ date: 2026-02-13
 pubDate: 2026-02-13
 description: " \"Aprende a construir potentes aplicaciones LLM y pipelines RAG utilizando la colección awesome-llm-apps.\""
 author: "Hello Prompt"
-image:
-  url: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2560&auto=format&fit=crop"
-  alt: "AI Neural Network"
 tags: ["LLM", "RAG", "AI", "Development", "Guide"]
 ---
 
@@ -15,7 +12,7 @@ tags: ["LLM", "RAG", "AI", "Development", "Guide"]
 
 - **🎯 Recomendado para:** Desarrolladores, Ingenieros de IA, Arquitectos de Software
 - **⏱️ Tiempo estimado:** 30 minutos → Reducido a 1 minuto
-- **🤖 Modelos recomendados:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modelos recomendados:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Dificultad:** ⭐⭐⭐☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -46,7 +43,7 @@ En este artículo, transformaremos la forma en que abordas el desarrollo basánd
 > **Rol:** Eres un Ingeniero de IA Senior especializado en sistemas RAG.
 > **Tarea:** Diseña y escribe el código base en Python para una aplicación RAG simple usando LangChain, ChromaDB y OpenAI para responder preguntas sobre un documento PDF.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

@@ -48,7 +48,7 @@ Usala quando hai bisogno di una lista rapida e senza troppi fronzoli.
 > **Ruolo:** Sei un "Nomade Digitale Esperto" che ha vissuto in oltre 20 paesi diversi per lunghi periodi.
 > **Richiesta:** Consigliami 10 oggetti essenziali (non i soliti vestiti o passaporto) che migliorano drasticamente la qualità della vita durante un viaggio a lungo termine all'estero, facendoti sentire sempre a casa.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Expert Version)
 
@@ -108,7 +108,7 @@ L'errore più comune che si fa prima di un lungo viaggio è preparare la valigia
 
 ### ❌ Prima (Input generico)
 
-> Fammi una lista di cose da mettere in valigia per un mese in Europa.
+Fammi una lista di cose da mettere in valigia per un mese in Europa.
 
 ### ✅ Dopo (Risultato con il Prompt Pro)
 

@@ -17,7 +17,7 @@ tags:
 
 - **🎯 Recomendado para:** Desarrolladores de agentes de IA autónomos, ingenieros enfocados en la optimización de costos, CTOs de startups
 - **⏱️ Tiempo requerido:** 10 minutos para editar el prompt → Cientos de dólares ahorrados al mes
-- **🤖 Modelos recomendados:** Modelos con cobro por token (GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro, etc.)
+- **🤖 Modelos recomendados:** Modelos con cobro por token (GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro, etc.)
 
 - ⭐ **Dificultad:** ⭐⭐⭐☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -55,7 +55,7 @@ Hoy revelaremos **patrones prácticos de optimización de tokens** que reducen d
 > - Prohibido usar saludos amables, frases como "Comenzaré el análisis" o explicaciones adicionales como "El resultado es el siguiente".
 > - Imprime exclusivamente el resultado del análisis y la acción solicitada.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Profesional)
 

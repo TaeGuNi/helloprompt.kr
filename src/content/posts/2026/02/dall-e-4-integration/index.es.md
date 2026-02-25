@@ -37,7 +37,7 @@ La llegada de DALL-E 4 ha cambiado por completo las reglas del juego en la gener
 > **Rol:** Eres un fotógrafo cinemático y diseñador tipográfico.
 > **Tarea:** Genera una escena fotorrealista de una calle oscura de noche con un letrero de neón que diga "HELLO".
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

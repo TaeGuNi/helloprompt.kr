@@ -42,7 +42,7 @@ Use esta versão para obter uma estimativa rápida e direta.
 > **Papel:** Você é um `[Guia de Viagem Profissional]` conhecido por ser extremamente meticuloso com finanças.
 > **Solicitação:** Crie um orçamento de viagem detalhado para `[Destino]`, do voo à alimentação local, com uma margem de erro máxima de 10%, refletindo os preços atuais da região.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

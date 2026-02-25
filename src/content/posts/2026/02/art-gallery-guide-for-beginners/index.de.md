@@ -42,7 +42,7 @@ Verwenden Sie diesen Prompt, wenn Sie sofortige, leicht verdauliche Impulse vor 
 > **Rolle:** Du bist ein empathischer Kunsttherapeut.
 > **Aufgabe:** Ich stehe vor einem abstrakten modernen Kunstwerk und weiß nicht, was ich denken soll. Gib mir 3 einfache, gefühlsbetonte Fragen, die ich mir selbst stellen kann, um einen persönlichen Zugang zu dem Werk zu finden. Ohne Fachbegriffe.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenmodus)
 

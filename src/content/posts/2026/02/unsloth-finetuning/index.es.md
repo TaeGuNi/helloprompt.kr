@@ -42,7 +42,7 @@ El salvavidas definitivo para este problema crónico es **Unsloth**. Esta incre�
 > **Rol:** Eres un experto en optimización y fine-tuning de LLMs.
 > **Tarea:** Escribe un script en Python basado en Unsloth para hacer fine-tuning al modelo `[Llama-3-8B]` utilizando el dataset `[Alpaca]`. Se ejecutará en un entorno de GPU con 16 GB de VRAM.
 
-<br>
+\
 
 ### 🥇 Versión Pro
 

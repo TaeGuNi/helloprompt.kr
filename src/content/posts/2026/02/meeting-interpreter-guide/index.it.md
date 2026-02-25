@@ -49,7 +49,7 @@ Usa questo prompt quando hai a disposizione la registrazione o la trascrizione (
 > 2. Elenca in ordine di priorità gli 'Action Item' (attività pratiche) che devo gestire da oggi, in quanto responsabile del progetto.
 > 3. Se ci sono parti in cui le sfumature della discussione erano ambigue (es. un rifiuto indiretto, un'approvazione condizionata, ecc.), interpretale e chiariscile.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Assistente in Tempo Reale per Traduzioni e Risposte)
 
@@ -120,10 +120,10 @@ Quando il cliente lancia una domanda difficile con una frase lunghissima, ti bas
 **Cliente:** *(Stessa frase di sopra)*
 **Assistente IA (Output in Tempo Reale):**
 
-> - **Interpretazione:** Temono che il backend non regga se gli utenti triplicano nel Q3. Chiedono qual è il nostro piano B.
-> - **Sfumature:** Mancanza di fiducia nell'attuale architettura dei server. Vogliono garanzie, dati e contromisure concrete.
-> - **Risposta 1 (Preparata):** "We already have an auto-scaling group configured. Let me share the stress test results after this meeting." *(Abbiamo già configurato l'auto-scaling. Condividerò i risultati dello stress test dopo la riunione.)*
-> - **Risposta 2 (Prendere tempo):** "That’s a valid point. Our lead engineer is reviewing the exact metrics for Q3. We will get back to you by tomorrow." *(Ottima osservazione. Il nostro ingegnere capo sta rivedendo le metriche esatte per il Q3. Vi daremo una risposta entro domani.)*
+- **Interpretazione:** Temono che il backend non regga se gli utenti triplicano nel Q3. Chiedono qual è il nostro piano B.
+- **Sfumature:** Mancanza di fiducia nell'attuale architettura dei server. Vogliono garanzie, dati e contromisure concrete.
+- **Risposta 1 (Preparata):** "We already have an auto-scaling group configured. Let me share the stress test results after this meeting." *(Abbiamo già configurato l'auto-scaling. Condividerò i risultati dello stress test dopo la riunione.)*
+- **Risposta 2 (Prendere tempo):** "That’s a valid point. Our lead engineer is reviewing the exact metrics for Q3. We will get back to you by tomorrow." *(Ottima osservazione. Il nostro ingegnere capo sta rivedendo le metriche esatte per il Q3. Vi daremo una risposta entro domani.)*
 
 **Tu:** *(Guardando il monitor con un sorriso rilassato)* "That’s a valid point. We already have an auto-scaling..." (Credibilità alle stelle 📈 Professionalità assicurata 😎)
 

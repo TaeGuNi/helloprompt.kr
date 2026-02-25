@@ -43,7 +43,7 @@ Parfait quand vous avez simplement le bout de la fonction sur la langue ou besoi
 > **Contexte :** La colonne A contient le 'Nom du Produit', la B le 'Prix', et la C la 'Quantité'.
 > **Demande :** Écris-moi une formule pour la colonne D qui calcule les 'Ventes Totales (Prix\*Qté)', et affiche "VIP" si le total est supérieur à 1000€, sinon "Standard".
 
-<br>
+\
 
 ### 🥇 Version Pro (Mode Analyste de Données)
 

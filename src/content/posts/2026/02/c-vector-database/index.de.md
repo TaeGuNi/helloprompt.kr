@@ -9,7 +9,7 @@ tags: ["C", "Open Source", "Database", "AI"]
 
 - **🎯 Empfohlene Zielgruppe:** Embedded-Entwickler, C/C++ Systemingenieure, Leichtbau-KI-Architekten
 - **⏱️ Zeitaufwand:** 5 Stunden Recherche & Implementierung → auf 1 Minute verkürzt
-- **🤖 Empfohlenes Modell:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 Empfohlenes Modell:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **Schwierigkeitsgrad:** ⭐⭐⭐⭐☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -38,7 +38,7 @@ Verwenden Sie diese Version, wenn Sie nur schnell das Grundgerüst der Kernlogik
 > **Rolle:** Du bist ein `[Senior Embedded Systems Engineer]`.
 > **Aufgabe:** Schreibe eine `[Header-only Vektordatenbank]` in reinem C ohne jegliche Abhängigkeiten. Eine Suchfunktion basierend auf Cosinus-Ähnlichkeit (Cosine Similarity) muss zwingend enthalten sein.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 

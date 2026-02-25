@@ -46,7 +46,7 @@ Use this when you need a quick, strictly-typed implementation without the full a
 >
 > **Constraints:** Do not use any external libraries unless specified. Handle all edge cases explicitly and return early on errors.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

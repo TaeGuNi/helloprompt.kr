@@ -42,7 +42,7 @@ Hoy en día, la inmensa mayoría de las empresas utilizan sistemas ATS (Applican
 > **Rol:** Eres un experto en algoritmos ATS (Applicant Tracking System) y editor de currículums.
 > **Solicitud:** Analiza mi currículum y la oferta de trabajo. Integra de forma natural las palabras clave que el sistema de reclutamiento busca para prevenir la eliminación automática de mi documento.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

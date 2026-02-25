@@ -42,7 +42,7 @@ Use esta versão quando precisar de um roteiro rápido e direto ao ponto.
 > **Papel:** Você é um Recrutador Sênior de uma grande empresa de tecnologia.
 > **Solicitação:** Crie 5 perguntas de entrevista afiadas para avaliar as capacidades técnicas e comportamentais de um candidato à vaga de `[Insira o Cargo]`.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

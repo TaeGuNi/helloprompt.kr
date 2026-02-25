@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "optimizing-context-windows"]
 
 - **🎯 Recommended for:** AI Developers, Prompt Engineers, Backend Engineers
 - **⏱️ Time Saved:** 2 hours of debugging → 3 minutes
-- **🤖 Recommended Model:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 Recommended Model:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **Difficulty:** ⭐⭐⭐☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -39,7 +39,7 @@ Use this when you need a quick summarization of a long document before feeding i
 > **Role:** You are an expert `[Data Analyst]`.
 > **Task:** Extract only the most crucial facts and figures from the following `[Long Document]` that are directly relevant to `[Specific Question]`. Discard all filler content.
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -73,7 +73,7 @@ Use this in your automated pipelines to aggressively compress context payloads, 
 
 ## 💡 Writer's Insight
 
-This approach is an absolute game-changer when building Retrieval-Augmented Generation (RAG) pipelines. Instead of directly passing the retrieved chunks to the final generation model, inserting this "Context Curator" step acts as a powerful filter. Yes, you use two LLM calls instead of one, but the first call uses a fast, cheap model (like Gemini 1.5 Flash or Claude 3.5 Haiku) to compress the payload. This allows the heavy, expensive model (like Gemini 1.5 Pro or GPT-4o) to process a much smaller, cleaner prompt. This drastically reduces overall latency, slashes costs, and completely eliminates the 'lost in the middle' degradation.
+This approach is an absolute game-changer when building Retrieval-Augmented Generation (RAG) pipelines. Instead of directly passing the retrieved chunks to the final generation model, inserting this "Context Curator" step acts as a powerful filter. Yes, you use two LLM calls instead of one, but the first call uses a fast, cheap model (like Gemini 2.5 Flash or Claude 3.5 Haiku) to compress the payload. This allows the heavy, expensive model (like Gemini 2.5 Pro or GPT-4o) to process a much smaller, cleaner prompt. This drastically reduces overall latency, slashes costs, and completely eliminates the 'lost in the middle' degradation.
 
 ---
 
@@ -82,7 +82,7 @@ This approach is an absolute game-changer when building Retrieval-Augmented Gene
 - **Q: Won't using a summarization prompt lose important details?**
   - A: Not if you strictly define the `[Intent/Query]`. The model acts as a sniper, extracting only what matters for that specific execution, rather than writing a generic book report.
 - **Q: Which model should I use for the Pro version?**
-  - A: Fast and cost-effective models like Gemini 1.5 Flash or Claude 3.5 Haiku are perfect for this context-curation layer.
+  - A: Fast and cost-effective models like Gemini 2.5 Flash or Claude 3.5 Haiku are perfect for this context-curation layer.
 
 ---
 

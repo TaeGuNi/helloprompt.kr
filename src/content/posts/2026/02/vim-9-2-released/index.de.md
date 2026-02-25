@@ -9,7 +9,7 @@ tags: ["DevTools", "Vim", "Editor", "Release"]
 
 - **🎯 Empfohlen für:** Vim-Nutzer, Entwickler, DevOps-Ingenieure
 - **⏱️ Zeitaufwand:** 30 Minuten → auf 1 Minute verkürzt
-- **🤖 Empfohlene Modelle:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (Hervorragend für technische Dokumentationen)
+- **🤖 Empfohlene Modelle:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (Hervorragend für technische Dokumentationen)
 
 - ⭐ **Schwierigkeitsgrad:** ⭐⭐☆☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -40,7 +40,7 @@ Nutze diese Version, wenn du nur einen raschen Überblick über die wichtigsten 
 > **Rolle:** Du bist ein Senior-Entwickler und Übersetzer für technische Dokumentationen.
 > **Aufgabe:** Lies die folgenden `[Vim 9.2 Release Notes]` und fasse die 3 wichtigsten Änderungen auf Deutsch zusammen. Verwende eine leicht verständliche Sprache, die auch für Anfänger nachvollziehbar ist.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten)
 
@@ -84,7 +84,7 @@ Der wahre Wert dieses Prompts liegt nicht darin, englischen Text stumpf ins Deut
   - A: Absolut! Egal ob React, TypeScript oder Docker – ersetze einfach den Platzhalter `[Spezifische Technologie]` in den Klammern, und der Prompt funktioniert tadellos für jede technische Dokumentation.
 
 - **F: Was ist, wenn die Release Notes zu lang sind und nicht in das Eingabefenster des Prompts passen?**
-  - A: Modelle wie Claude 3.5 Sonnet oder Gemini 1.5 Pro besitzen riesige Kontextfenster und verarbeiten auch massive Textmengen mühelos. Ich empfehle, entweder direkt die URL der Release Notes in den Prompt einzufügen oder den Text als Datei (z. B. PDF) hochzuladen.
+  - A: Modelle wie Claude 3.5 Sonnet oder Gemini 2.5 Pro besitzen riesige Kontextfenster und verarbeiten auch massive Textmengen mühelos. Ich empfehle, entweder direkt die URL der Release Notes in den Prompt einzufügen oder den Text als Datei (z. B. PDF) hochzuladen.
 
 ---
 

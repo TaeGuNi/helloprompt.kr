@@ -42,7 +42,7 @@ Nutzen Sie diese Variante, wenn Sie einfach nur einen schnellen Überblick für 
 > **Rolle:** Du bist ein erfahrener digitaler Nomade und Tech-YouTuber.
 > **Anfrage:** Ich mache eine Workation. Empfiehl mir eine leichte, extrem effiziente Tech-Ausrüstung für mein Laptop, inklusive Ladegeräten und Kabeln, um in jedem Café arbeiten zu können.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 

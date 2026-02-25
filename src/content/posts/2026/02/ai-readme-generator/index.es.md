@@ -44,7 +44,7 @@ Ahora, concéntrate solo en programar. Simplemente entrégale a la IA la estruct
 > **Rol:** Eres un `[Escritor Técnico Senior]`.
 > **Tarea:** Basándote en la `[Estructura de archivos]` y el `[Stack tecnológico principal]` de mi proyecto, redacta un borrador limpio y estructurado para un README.md en formato Markdown.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

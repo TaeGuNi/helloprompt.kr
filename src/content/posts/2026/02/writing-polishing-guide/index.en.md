@@ -45,7 +45,7 @@ Use this when you're in a hurry and only need to fix typos and basic grammar.
 > **Task:** Check the spelling and spacing in the `[Draft]` below. Naturally correct any awkward phrasing or grammatical errors. Absolutely do not alter the original meaning.
 > **Draft:** `[Paste your text here]`
 
-<br>
+\
 
 ### 🥇 Pro Version
 

@@ -52,7 +52,7 @@ image: "/images/2026/02/16/mcp-server-tutorial.jpg"
 > **역할:** 너는 시니어 TypeScript 개발자야.
 > **요청:** `@modelcontextprotocol/sdk`를 사용하여 `[원하는 목적, 예: 특정 도시의 날씨를 알려주는]` 역할을 하는 간단한 MCP 서버 코드를 작성해 줘.
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 

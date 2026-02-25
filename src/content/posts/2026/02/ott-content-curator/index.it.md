@@ -42,7 +42,7 @@ Usala quando vuoi un consiglio veloce senza troppi dettagli.
 > **Ruolo:** Sei un esperto curatore di contenuti cinematografici.
 > **Richiesta:** Consigliami un film disponibile su `[Netflix/Prime Video]` simile a `[Nome del Film]`. L'atmosfera che cerco oggi è `[Atmosfera/Umore]`.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 
@@ -105,7 +105,7 @@ Questo prompt è un salvavita assoluto per i weekend. Il segreto del suo success
 
 ### ❌ Prima (Input Semplice)
 
-> "Consigliami un bel film da vedere stasera."
+"Consigliami un bel film da vedere stasera."
 
 _(Risultato: Una lista generica di film popolarissimi che hai già visto 100 volte, senza considerare i tuoi gusti attuali.)_
 

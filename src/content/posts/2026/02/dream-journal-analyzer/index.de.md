@@ -42,7 +42,7 @@ Nutze diese Version, wenn du schnell eine erste, einfache Deutung brauchst.
 > **Rolle:** Du bist ein `[Traumdeuter und Psychologe]`.
 > **Aufgabe:** Interpretiere den folgenden `[Traum]`. Was könnte mein Unterbewusstsein mir damit sagen?
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

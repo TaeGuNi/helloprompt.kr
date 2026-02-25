@@ -43,7 +43,7 @@ Use this when you need a quick, no-fuss recommendation.
 > **Role:** You are a culinary expert and a therapist specializing in decision paralysis.
 > **Request:** I don't know what to eat for dinner tonight. Ask me a few quick questions to recommend a menu.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 
@@ -105,7 +105,7 @@ This prompt is surprisingly effective because it shifts the cognitive load of de
 
 ### ❌ Before (Simple Input)
 
-> "What should we eat for dinner tonight?"
+"What should we eat for dinner tonight?"
 
 _(AI usually responds with a boring, generic list: 1. Pizza, 2. Salad, 3. Pasta, 4. Sushi, leaving you exactly where you started.)_
 

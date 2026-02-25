@@ -42,7 +42,7 @@ Use esta versão para uma geração rápida e direta.
 > **Papel:** Você é um artista digital especialista em estética dos anos 80.
 > **Solicitação:** Crie um prompt detalhado de arte no estilo Synthwave, destacando a nostalgia do neon, o sol retrô, as palmeiras em silhueta e o piso de grade digital.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert)
 

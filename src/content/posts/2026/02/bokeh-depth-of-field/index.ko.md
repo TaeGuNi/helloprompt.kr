@@ -42,7 +42,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Photography", "Effect"]
 > **역할:** 너는 전문 포토그래퍼야.
 > **요청:** 배경을 흐릿하게 날려서 피사체인 `[피사체, 예: 책상 위 커피잔]`을 돋보이게 하고, 배경에는 감성적인 빛망울(보케) 효과를 넣어줘.
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 
@@ -89,7 +89,7 @@ DSLR 카메라로 촬영한 듯한 디테일한 퀄리티와 시네마틱한 분
 
 ### ❌ Before (단순 입력)
 
-> Musician in street night.
+Musician in street night.
 
 **(결과 분석):** 배경의 간판 글씨와 지나가는 사람들까지 모두 선명하게 초점이 맞아 사진이 평면적이고, 시선이 분산되어 산만한 이미지가 생성됩니다.
 

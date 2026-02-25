@@ -44,7 +44,7 @@ Veloce, ma produce risposte banali e generiche.
 
 > **Richiesta:** Dimmi come cucinare un buon petto di pollo.
 
-<br>
+\
 
 ### 🥇 Versione Pro (L'approccio corretto)
 
@@ -66,7 +66,7 @@ Il riassunto sarà un muro di testo noioso.
 
 > **Richiesta:** Riassumi questo testo: [Incolla il testo]
 
-<br>
+\
 
 ### 🥇 Versione Pro (L'approccio corretto)
 
@@ -96,7 +96,7 @@ La risposta sarà corretta, ma spiegata in modo freddo e robotico.
 
 > **Richiesta:** Come si usa il CERCA.VERT su Excel?
 
-<br>
+\
 
 ### 🥇 Versione Pro (L'approccio corretto)
 

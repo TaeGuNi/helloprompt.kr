@@ -42,7 +42,7 @@ Nutzen Sie diesen Prompt, wenn Sie keine Ahnung haben, wo die Kosten entstehen, 
 > **Rolle:** Du bist ein Senior Cloud Architekt.
 > **Aufgabe:** Meine AWS-Rechnung zeigt, dass die Kosten für `[EBS Volumes]` ungewöhnlich hoch sind. Finde alle nicht verbundenen (unattached) Volumes, veraltete Snapshots und ungenutzte Elastic IPs. Zeige mir die genauen AWS CLI-Befehle, um diese zu löschen, und weise mich auf mögliche Risiken hin.
 
-<br>
+\
 
 ### 🥇 Pro Version (Spot-Instanzen & Architektur-Optimierung)
 

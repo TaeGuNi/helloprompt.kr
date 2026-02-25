@@ -41,7 +41,7 @@ Usa questo prompt semplice quando vuoi iniziare una partita veloce.
 
 > **Richiesta:** Giochiamo a parole a catena (ogni parola deve iniziare con l'ultima lettera della parola precedente). Inizia tu. Nota: sono valide solo le parole italiane presenti nel vocabolario.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 

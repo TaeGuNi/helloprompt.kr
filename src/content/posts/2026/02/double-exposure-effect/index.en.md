@@ -42,7 +42,7 @@ Use this when you need a rapid, aesthetically pleasing result without complex tw
 > **Role:** You are a surrealist digital artist.
 > **Request:** Create a double exposure portrait. Combine the side profile silhouette of a young woman with a dense, misty pine forest. Clean white background.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Detail)
 

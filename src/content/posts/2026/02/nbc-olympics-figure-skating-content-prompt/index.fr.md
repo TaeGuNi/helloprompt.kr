@@ -46,7 +46,7 @@ Utilisez ceci lorsque vous avez besoin d'une publication courte et percutante su
 
 > **Rôle :** Tu es un commentateur de patinage artistique passionné et très expressif.
 > **Tâche :** Résume le résultat du programme `[Court/Libre]` de l'athlète `[Nom du patineur]`, et rédige une publication Instagram émouvante et dramatique, digne d'une retransmission sur NBC Sports. Inclus les hashtags #nbcolympics #figureskating à la fin du texte.
-> <br>
+> \
 
 ### 🥇 Version Pro (Pro Version)
 

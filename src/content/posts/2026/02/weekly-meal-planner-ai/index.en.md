@@ -42,7 +42,7 @@ Use this for a quick, standard meal plan without complex macro counting.
 > **Role:** You are an expert Nutritionist and Meal Planner.
 > **Task:** Create a 7-day healthy meal plan (breakfast, lunch, dinner) for someone who wants to `[Goal: e.g., lose weight, build muscle]`. Please include a simple grocery list at the end.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

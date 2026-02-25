@@ -50,7 +50,7 @@ Idéal pour mettre de l'ordre rapidement via la fonction intégrée de Notion AI
 > **Rôle :** Tu es un assistant d'organisation personnelle.
 > **Requête :** Classe les tâches ci-dessus en **[Urgent/Important]**, **[Corvées]**, et **[Travail]**. Réécris-les sous forme de liste de cases à cocher dans l'ordre chronologique d'exécution logique.
 
-<br>
+\
 
 ### 🥇 Version Pro (Matrice d'Eisenhower & Emploi du temps complet)
 

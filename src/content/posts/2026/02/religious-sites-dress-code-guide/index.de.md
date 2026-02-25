@@ -42,7 +42,7 @@ Nutzen Sie diesen Prompt für eine schnelle, unkomplizierte Übersicht.
 > **Rolle:** Du bist ein erfahrener Reiseleiter für religiöse und kulturelle Stätten weltweit.
 > **Anfrage:** Ich plane einen Besuch in `[Name der religiösen Stätte]` in `[Stadt/Land]`. Wie lautet die genaue Kleiderordnung, damit mir der Zutritt sicher gewährt wird?
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 
@@ -100,7 +100,7 @@ Dieser Prompt ist ein wahrer Lebensretter auf Reisen. Besonders in Ländern mit 
 
 ### ❌ Before (Einfache Google-Suche)
 
-> "Was ziehe ich im Grand Palace in Bangkok an?"
+"Was ziehe ich im Grand Palace in Bangkok an?"
 > _(Ergebnis: Meist ungenaue Blog-Artikel, widersprüchliche Aussagen zu Sandalen, keine klaren Infos, ob Tücher als Schulterbedeckung ausreichen.)_
 
 ### ✅ After (Mit unserem Pro-Prompt)

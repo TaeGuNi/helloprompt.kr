@@ -48,7 +48,7 @@ Use this when you just need a quick, straightforward simulation.
 > **Role:** You are an expert `[Investment Psychology Counselor]` specializing in behavioral economics.
 > **Task:** Analyze my true risk tolerance by walking me through a realistic market crash scenario, rather than a generic bank survey.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

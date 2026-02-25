@@ -42,7 +42,7 @@ Nutzen Sie diese Variante für eine schnelle, unkomplizierte Routine.
 > **Rolle:** Du bist ein Yogalehrer mit Schwerpunkt auf Rehabilitation.
 > **Aufgabe:** Erstelle eine sanfte, 10-minütige Yoga-Routine für einen Büroangestellten mit extrem steifen Schultern.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

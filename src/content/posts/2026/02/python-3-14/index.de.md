@@ -44,7 +44,7 @@ Perfekt, um schnell ein einzelnes Skript zu aktualisieren und die neuen Typhinwe
 > **Aufgabe:** Refaktorisiere den folgenden Code, um die neuen Funktionen von Python 3.14 (insbesondere Pattern Matching v3 und erweiterte Typhinweise) optimal zu nutzen. Erkläre die vorgenommenen Änderungen kurz und prägnant.
 > **Code:** `[Füge deinen Python-Code hier ein]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenmodus)
 

@@ -43,7 +43,7 @@ Use this when you quickly need to refine a rigid, report-style text into a natur
 > **Task:** Rewrite the presentation script below into a natural, confident, spoken tone, as if speaking directly to an audience. Keep the sentences short to allow for easy breathing, and use **bold text** for the parts that need emphasis.
 > **Script:** `[Paste your existing script here]`
 
-<br>
+\
 
 ### 🥇 Pro Version
 

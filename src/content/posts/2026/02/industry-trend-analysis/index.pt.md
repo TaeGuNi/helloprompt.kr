@@ -42,7 +42,7 @@ Use esta versão quando precisar apenas de um panorama rápido sobre um setor.
 > **Papel:** Você é um `[Especialista em Análise de Setores]` de uma consultoria global de ponta (ex: McKinsey, BCG).
 > **Solicitação:** Analise as tendências da indústria de `[nome da indústria]` em rápido crescimento e descubra as principais ações que se beneficiarão desse movimento.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

@@ -44,7 +44,7 @@ Utilisez cette version pour transformer rapidement un script vidéo en un texte 
 >
 > [Insérez le script de la vidéo YouTube ici]
 
-<br>
+\
 
 ### 🥇 Version Pro (Maître de l'omnimédia)
 
@@ -108,16 +108,16 @@ Si vous demandez simplement à l'IA de "transformer ce script en texte", vous ob
 
 ### ❌ Avant (Source brute et négligée)
 
-> "Euh, bonjour tout le monde. Aujourd'hui on va parler de l'automatisation du marketing, alors... si vous regardez mon écran..."
-> (Un script décousu laissé à l'abandon, le trafic stagne péniblement à 1 000 vues sur YouTube)
+"Euh, bonjour tout le monde. Aujourd'hui on va parler de l'automatisation du marketing, alors... si vous regardez mon écran..."
+(Un script décousu laissé à l'abandon, le trafic stagne péniblement à 1 000 vues sur YouTube)
 
 ### ✅ Après (Recyclage OSMU optimisé)
 
 > **[Blog]** H2 : Comment quitter le bureau 3 heures plus tôt grâce à l'automatisation marketing (Top du classement SEO)
 > **[Instagram]** (Slide 1) "Amis marketeurs, vous faites encore ces tâches manuellement ?" (Explosion des partages et sauvegardes)
 > **[Twitter]** Maîtrisez ces 5 outils marketing pour accomplir le travail de 3 personnes. Explications dans ce thread 👇 (Viralité par RT)
->
-> 📈 **Portée totale (Reach) multipliée par 10, chaque canal alimentant les autres dans un cercle vertueux parfait.**
+
+📈 **Portée totale (Reach) multipliée par 10, chaque canal alimentant les autres dans un cercle vertueux parfait.**
 
 ---
 

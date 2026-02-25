@@ -40,15 +40,15 @@ Com a evolução da tecnologia de Agentes (Agents), entrámos na era da colabora
 Ideal para estruturar a base de um pipeline simples de pesquisa e resumo. Permite gerar código rapidamente para realizar os primeiros testes.
 
 > **Role (Papel):** És um especialista em escrever scripts Python para o CrewAI.
->
-> **Task (Tarefa):** Escreve um script básico em Python usando o CrewAI, composto por dois agentes:
->
-> 1.  **Researcher (Investigador):** O seu papel é pesquisar as "Últimas Tendências de IA de 2026" na web e resumir os pontos principais.
-> 2.  **Writer (Redator):** O seu papel é pegar no resumo do Researcher e redigir um artigo de blog cativante e fácil de ler.
->
-> Configura o processo como `Sequential` para garantir que os dois agentes operem por ordem e conclui o código.
 
-<br>
+> **Task (Tarefa):** Escreve um script básico em Python usando o CrewAI, composto por dois agentes:
+
+1.  **Researcher (Investigador):** O seu papel é pesquisar as "Últimas Tendências de IA de 2026" na web e resumir os pontos principais.
+2.  **Writer (Redator):** O seu papel é pegar no resumo do Researcher e redigir um artigo de blog cativante e fácil de ler.
+
+Configura o processo como `Sequential` para garantir que os dois agentes operem por ordem e conclui o código.
+
+\
 
 ### 🥇 Versão Pro (Relatório de Análise de Ações)
 

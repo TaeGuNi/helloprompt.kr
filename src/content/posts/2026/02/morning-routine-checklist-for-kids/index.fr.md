@@ -43,7 +43,7 @@ Utilisez cette version pour obtenir une idée rapide et générale.
 > **Rôle :** Tu es un coach en parentalité positive et en gestion des habitudes.
 > **Requête :** Propose-moi des astuces simples pour aider mon enfant à se préparer tout seul le matin sans que j'aie besoin de crier ou de le presser.
 
-<br>
+\
 
 ### 🥇 Version Experte (Pro Version)
 

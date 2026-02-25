@@ -42,7 +42,7 @@ Use esta versão quando precisar apenas de algumas ideias rápidas para destrava
 > **Papel:** Você é um especialista sênior em _branding_ e _naming_, responsável por criar nomes de marcas inovadoras e memoráveis.
 > **Solicitação:** Crie ideias de nomes fáceis de pronunciar e com forte significado para o meu novo negócio: `[Insira a ideia do negócio]`.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 
@@ -109,7 +109,7 @@ O maior erro ao criar um nome é tentar explicar tudo o que a empresa faz em uma
 
 ### ❌ Antes (Entrada Simples)
 
-> "Me dê ideias de nomes para um app que ajuda a esvaziar a geladeira."
+"Me dê ideias de nomes para um app que ajuda a esvaziar a geladeira."
 
 ### ✅ Depois (Resultado com o Prompt Pro)
 

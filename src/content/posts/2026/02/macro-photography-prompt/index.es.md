@@ -43,7 +43,7 @@ La **Fotografía Macro** es una técnica fascinante que magnifica enormemente a 
 > **Rol:** Eres un fotógrafo experto en fotografía macro.
 > **Solicitud:** Crea una imagen macro que capture detalles diminutos e imperceptibles a simple vista de un insecto, con un enfoque extremadamente nítido.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -98,7 +98,7 @@ La clave para una fotografía macro generada por IA que no parezca artificial re
 
 ### ❌ Before (Entrada Básica)
 
-> `A dragonfly eye.`
+`A dragonfly eye.`
 
 _(Resultado: Una imagen genérica de una libélula entera posada en una rama, donde los ojos son apenas un detalle menor de la composición general.)_
 

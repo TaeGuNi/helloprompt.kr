@@ -40,7 +40,7 @@ Utilize esta versão quando precisar suavizar um tom de voz rígido e formal rap
 > **Função:** Você é um ensaísta e editor com 10 anos de experiência.
 > **Tarefa:** Reescreva o texto a seguir de forma que não pareça ter sido escrito por uma IA. Use um tom natural e emocional, como se contivesse a experiência real de uma pessoa. Remova todas as conjunções mecânicas (ex: 'em conclusão', 'em resumo').
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 

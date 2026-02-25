@@ -50,7 +50,7 @@ Usala quando hai bisogno di un'illustrazione veloce senza impazzire con i parame
 > **Richiesta:** Genera un'immagine di `[Soggetto, es: un gatto che dorme su un libro]`.
 > **Stile:** Disegno a matita con colorazione ad acquerello leggera, stile urban sketch, colori pastello, sfondo bianco con texture di carta.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Esperto Midjourney / DALL-E)
 

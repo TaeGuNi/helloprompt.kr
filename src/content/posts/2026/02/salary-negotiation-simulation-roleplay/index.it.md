@@ -48,7 +48,7 @@ Usala quando hai bisogno di un rapido riscaldamento prima di entrare nell'uffici
 > **Ruolo:** Sei un manager HR estremamente rigoroso e conservatore.
 > **Richiesta:** Simula con me una tesa negoziazione salariale. Il mio obiettivo è trovare le migliori argomentazioni logiche e le espressioni più efficaci per massimizzare la mia percentuale di aumento annuale. Inizia tu.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

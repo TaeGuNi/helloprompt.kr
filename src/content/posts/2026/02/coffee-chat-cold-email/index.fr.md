@@ -42,7 +42,7 @@ Ne vous inquiétez pas. La plupart des professionnels apprécient qu'on les cons
 > **Rôle :** Tu es un expert en réseautage, sociable, poli et très professionnel.
 > **Requête :** Rédige-moi un message à froid (Cold DM/Email) poli et engageant pour demander conseil et proposer un échange (Coffee chat) à un professionnel expérimenté de mon secteur.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

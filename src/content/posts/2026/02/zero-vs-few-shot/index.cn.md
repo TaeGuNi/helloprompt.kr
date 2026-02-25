@@ -40,7 +40,7 @@ description: " \"深入解析零样本(Zero-Shot)与少样本(Few-Shot)提示的
 >
 > **输入文本 (Input):** "今天天气真好，适合出门散步。"
 
-<br>
+\
 
 ### 🥇 Pro Version (少样本：Few-Shot)
 

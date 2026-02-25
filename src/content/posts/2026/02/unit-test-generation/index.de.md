@@ -42,7 +42,7 @@ Verwenden Sie dies, wenn Sie unter extremem Zeitdruck stehen und sofort ein einf
 > **Rolle:** Du bist ein erfahrener `[Senior QA Engineer]`.
 > **Anfrage:** Schreibe Unit-Tests für den folgenden Code: `[Code einfügen]`. Berücksichtige dabei Edge Cases und verwende das Framework `[Framework-Name]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

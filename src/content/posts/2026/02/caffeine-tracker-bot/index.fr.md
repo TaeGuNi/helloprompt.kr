@@ -42,7 +42,7 @@ Utilisez cette version pour un calcul rapide et direct sans détails complexes.
 > **Rôle :** Tu es un `[Expert en Sommeil et Nutrition]`.
 > **Tâche :** J'ai bu `[Nombre]` tasses de `[Type de Café]` à `[Heure]`. Dis-moi quand je serai le plus concentré et à quelle heure je pourrai m'endormir ce soir.
 
-<br>
+\
 
 ### 🥇 Version Pro
 

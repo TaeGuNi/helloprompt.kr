@@ -42,7 +42,7 @@ Use this when you need quick, straightforward flashcards without complex formatt
 > **Role:** You are an `[Expert Study Assistant]`.
 > **Request:** Convert the following `[lecture notes/text]` into simple flashcard Q&A pairs that can be imported into Anki or Quizlet.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 
@@ -104,7 +104,7 @@ This prompt fundamentally changes how you approach learning. The biggest bottlen
 
 ### ❌ Before (Text Input)
 
-> "Mitochondria are often referred to as the powerhouses of the cell. They generate most of the cell's supply of adenosine triphosphate (ATP), used as a source of chemical energy. Unlike most other organelles, mitochondria have their own independent DNA and reproduce independently of the cell."
+"Mitochondria are often referred to as the powerhouses of the cell. They generate most of the cell's supply of adenosine triphosphate (ATP), used as a source of chemical energy. Unlike most other organelles, mitochondria have their own independent DNA and reproduce independently of the cell."
 
 ### ✅ After (Prompt Result)
 

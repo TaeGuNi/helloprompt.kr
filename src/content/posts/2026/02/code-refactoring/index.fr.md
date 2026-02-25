@@ -42,7 +42,7 @@ Idéal pour un nettoyage express d'un petit script ou d'une fonction isolée.
 > **Rôle :** Tu es un `[Architecte Logiciel Senior]` expert en Clean Code.
 > **Demande :** Refactorise ce code pour le rendre extrêmement propre, lisible et facile à maintenir. La logique métier doit rester strictement identique.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Expert)
 

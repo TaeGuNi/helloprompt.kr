@@ -41,7 +41,7 @@ Idéal pour un résumé rapide juste après une discussion, sans réseau.
 > **Tâche :** Résume les notes de réunion suivantes en 3 points clés et liste les actions à entreprendre.
 > **Notes :** `[Collez vos notes brutes ici]`
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

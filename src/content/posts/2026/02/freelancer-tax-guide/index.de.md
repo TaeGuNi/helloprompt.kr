@@ -42,7 +42,7 @@ Nutzen Sie diese Variante, wenn Sie sofortige, grundlegende Tipps benötigen.
 > **Rolle:** Du bist ein erfahrener `[Steuerberater]`, der auf Freelancer spezialisiert ist.
 > **Aufgabe:** Erstelle mir eine übersichtliche Liste mit den wichtigsten Steuerspartipps und absetzbaren Betriebsausgaben für Freelancer.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für maximale Erstattungen)
 

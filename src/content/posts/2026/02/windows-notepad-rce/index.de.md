@@ -44,7 +44,7 @@ Verwenden Sie diese Version für schnelle, prägnante Warnungen in internen Mess
 > **Rolle:** Du bist ein `[IT-Sicherheitsbeauftragter]`.
 > **Aufgabe:** Verfasse eine dringende interne Warnmeldung zur Schwachstelle `[CVE-2026-20841 (Windows Notepad RCE)]`. Betone ausdrücklich, dass Mitarbeiter keine externen .txt-Dateien leichtfertig öffnen dürfen, und fordere sie auf, die Anwendung sofort zu aktualisieren.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

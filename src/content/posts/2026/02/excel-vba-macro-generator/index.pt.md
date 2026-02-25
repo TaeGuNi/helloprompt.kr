@@ -42,7 +42,7 @@ Use esta versão para automações muito simples ou correções rápidas em plan
 > **Papel:** Você é um Desenvolvedor Especialista em VBA para Excel.
 > **Solicitação:** Crie um código VBA para automatizar a seguinte tarefa: `[Descreva sua tarefa, ex: Excluir todas as linhas em branco e pintar de vermelho os valores negativos da coluna B]`. Me ensine como instalar e rodar a macro.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Profissional)
 

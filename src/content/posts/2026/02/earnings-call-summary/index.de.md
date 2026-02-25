@@ -45,7 +45,7 @@ Verwenden Sie diesen Prompt, wenn Sie nur rasch wissen möchten, ob die Erwartun
 > **Aufgabe:** Fasse das beigefügte Transkript der Ergebniskonferenz von `[Firmenname]` auf Deutsch zusammen. Konzentriere dich auf Umsatz, Gewinn, den Ausblick für das nächste Quartal und die wichtigsten Fragen der Analysten.
 > `[Transkript hier einfügen]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Für professionelle Investoren)
 

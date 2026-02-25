@@ -48,7 +48,7 @@ Use este prompt quando precisar de ideias rápidas para testar ângulos diferent
 > **Papel:** Você é um `[Especialista em Marketing de Performance e Copywriter de Resposta Direta]`. Você é mestre em escrever copys de anúncios com altíssimo CTR (Taxa de Cliques) e CVR (Taxa de Conversão).
 > **Solicitação:** Escreva 3 variações de texto principal para um anúncio de `[Seu Produto/Serviço]` focado em `[Principal Benefício]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Profissional)
 
@@ -116,7 +116,7 @@ Este prompt é a minha "carta na manga" para combater a fadiga. A verdadeira gen
 
 ### ❌ Antes (Entrada Simples e Genérica)
 
-> "Compre nosso tapete de yoga. Ele é muito bom e confortável. Estamos com 40% de desconto hoje. Clique no link e aproveite."
+"Compre nosso tapete de yoga. Ele é muito bom e confortável. Estamos com 40% de desconto hoje. Clique no link e aproveite."
 
 ### ✅ Depois (Resultado da IA com o Prompt Pro)
 

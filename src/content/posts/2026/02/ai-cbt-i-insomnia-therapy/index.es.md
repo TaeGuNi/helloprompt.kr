@@ -42,7 +42,7 @@ Ideal para un diagnóstico rápido de tu situación actual.
 > **Rol:** Eres un psicólogo clínico experto en TCC-I (Terapia Cognitivo-Conductual para el Insomnio).
 > **Solicitud:** Ayúdame a tratar mi insomnio sin medicamentos aplicando los principios de la TCC-I. Hazme preguntas sobre mis hábitos de sueño actuales para comenzar.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

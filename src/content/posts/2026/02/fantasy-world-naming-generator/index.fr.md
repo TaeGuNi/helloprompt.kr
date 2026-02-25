@@ -42,7 +42,7 @@ Idéal lorsque vous êtes en pleine session d'écriture ou de jeu et qu'il vous 
 > **Rôle :** Tu es un linguiste expert en langues anciennes et un maître bâtisseur de mondes de fantasy.
 > **Requête :** Génère un nom crédible et immersif pour `[une forêt elfique ancienne]`. Donne-moi juste le nom et sa signification.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Expert)
 
@@ -104,7 +104,7 @@ En tant que Maître du Jeu et écrivain, j'ai souvent bloqué pendant des heures
 
 ### ❌ Avant (Entrée)
 
-> Nomme une chaîne de montagnes de glace.
+Nomme une chaîne de montagnes de glace.
 
 _(Résultat typique : Montagnes de Givre, Pic des Glaces, Frostpeak... Banals et sans saveur)_
 

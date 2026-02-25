@@ -8,7 +8,7 @@ date: "2026-02-14"
 
 - **🎯 Consigliato per:** Ingegneri del software, Cloud Architect, CTO
 - **⏱️ Tempo richiesto:** 2 ore → 3 minuti
-- **🤖 Modelli raccomandati:** ChatGPT (GPT-4), Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modelli raccomandati:** ChatGPT (GPT-4), Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Difficoltà:** ⭐⭐⭐☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -37,7 +37,7 @@ Usa questo prompt per una rapida valutazione delle inefficienze nel tuo flusso d
 > **Ruolo:** Sei un esperto di Cloud Architecture e Green AI.
 > **Azione:** Analizza il seguente `[Flusso di lavoro AI]` e suggerisci tre modi pratici per ridurre il consumo di token, ottimizzare le GPU e tagliare i costi computazionali.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

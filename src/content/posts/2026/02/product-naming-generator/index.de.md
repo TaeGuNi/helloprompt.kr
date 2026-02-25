@@ -42,7 +42,7 @@ Verwenden Sie dies, wenn Sie schnelle, erste Inspirationen benötigen.
 > **Rolle:** Du bist ein erfahrener Experte für Markenbenennung.
 > **Anfrage:** Erstelle 10 attraktive und einprägsame Produktnamen für ein `[Produkt/Dienstleistung]`, das sich an `[Zielgruppe]` richtet.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 
@@ -104,7 +104,7 @@ Aus meiner Erfahrung im Marketing ist die Namensfindung oft der längste und fru
 
 ### ❌ Before (Eingabe)
 
-> Empfehle einen Namen für ein neues Hundeshampoo. Es ist besonders mild zur Haut.
+Empfehle einen Namen für ein neues Hundeshampoo. Es ist besonders mild zur Haut.
 
 ### ✅ After (Ergebnis)
 

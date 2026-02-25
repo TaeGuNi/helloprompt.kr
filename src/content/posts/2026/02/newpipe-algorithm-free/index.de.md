@@ -39,7 +39,7 @@ Nutzen Sie diesen Prompt, wenn Sie sofort alternative Informationsquellen für I
 > **Rolle:** Du bist ein Experte für digitalen Minimalismus und Open-Source-Medien.
 > **Aufgabe:** Erstelle mir eine Liste mit 5 hochwertigen, werbefreien RSS-Feeds oder Mastodon-Accounts zum Thema `[Dein Interesse, z.B. Webentwicklung, KI-Ethik]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Version)
 

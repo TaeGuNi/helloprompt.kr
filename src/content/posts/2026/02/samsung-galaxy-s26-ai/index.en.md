@@ -38,7 +38,7 @@ Use this when you need a quick, punchy social media caption to announce the devi
 > **Role:** You are an elite tech copywriter.
 > **Task:** Write a short, engaging caption for the new Samsung Galaxy S26, highlighting the raw power of the Exynos 2600 and the smart features of Galaxy AI.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

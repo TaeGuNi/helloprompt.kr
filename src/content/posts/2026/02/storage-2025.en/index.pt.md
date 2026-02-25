@@ -9,7 +9,7 @@ tags: ["storage", "hardware", "data"]
 
 - **🎯 Recomendado para:** Engenheiros de infraestrutura, gerentes de data center, arquitetos de soluções de IA
 - **⏱️ Tempo economizado:** De 2 horas → 3 minutos
-- **🤖 Modelos recomendados:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (Especializados em análise de dados e redação de relatórios)
+- **🤖 Modelos recomendados:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (Especializados em análise de dados e redação de relatórios)
 
 - ⭐ **Dificuldade:** ⭐⭐⭐☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -40,7 +40,7 @@ Utilize quando precisar de um resumo rápido de estatísticas de HDs específico
 > **Função:** Você é um Engenheiro de Infraestrutura de Data Center Sênior e especialista em armazenamento.
 > **Tarefa:** Com base nas estatísticas de taxa de falha de drives da Backblaze de 2025, recomende dois modelos de HDD de alta capacidade (20TB ou mais) ideais para um Data Lake de grande escala focado em treinamento de IA, explicando o motivo das suas escolhas.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

@@ -43,7 +43,7 @@ Use isso quando precisar vender sua ideia em 1 minuto ao encontrar um investidor
 > **Task (Tarefa):** Escreva o roteiro de um **'Elevator Pitch'** para explicar minha ideia de negócio a um investidor em 30 segundos. Comece com um "Hook" (gancho) poderoso na primeira frase e estruture o discurso de forma extremamente concisa na ordem: Problema-Solução-Mercado-Equipe.
 > **Minha ideia:** `[Um aplicativo que usa IA para analisar o latido de cachorros e informar sobre seu estado emocional e de saúde]`
 
-<br>
+\
 
 ### 🥇 Versão Pro (Estrutura de 10 Slides)
 

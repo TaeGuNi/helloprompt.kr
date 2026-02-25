@@ -18,7 +18,7 @@ title: " \"Prompt Engineering 3.0: Intent Is Command\""
 
 - **🎯 Recommended for:** Marketers, Product Managers, and anyone exhausted by complex prompt templates
 - **⏱️ Time Saved:** 15 minutes of prompt tweaking → 10 seconds of context sharing
-- **🤖 Recommended AI Models:** Advanced Multimodal AI (GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro)
+- **🤖 Recommended AI Models:** Advanced Multimodal AI (GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro)
 
 - ⭐ **Difficulty:** ⭐☆☆☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -47,7 +47,7 @@ Use this when the AI has enough context (like an uploaded image, document, or ra
 > **Intent:** `[Upload your product photo / raw CSV document]`
 > Make an Insta promo for this.
 
-<br>
+\
 
 ### 🥇 Pro Version (The 2.0 to 3.0 Hybrid)
 

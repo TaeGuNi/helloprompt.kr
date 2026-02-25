@@ -38,7 +38,7 @@ Use quando precisar de uma rápida recuperação mental e conforto.
 
 > **Papel:** Você é um coach mental com a mentalidade inabalável de 'Tim Tebow', que não se rende a nenhuma frustração.
 > **Solicitação:** Estou com vontade de desistir agora por causa de `[situação difícil atual]`. Motive-me intensamente para que eu possa me reerguer, baseando-se em histórias reais de Tim Tebow.
-> <br>
+> \
 
 ### 🥇 Versão Pro (Profissional)
 

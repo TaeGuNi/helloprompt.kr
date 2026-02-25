@@ -42,7 +42,7 @@ Verwenden Sie diese Version, wenn Sie nur einen schnellen Überblick über die w
 > **Rolle:** Du bist ein Nachrichtensprecher, der für schnelle und präzise morgendliche News-Briefings zuständig ist.
 > **Aufgabe:** Fasse die 5 wichtigsten Nachrichten zusammen, die zwischen gestern Abend und heute Morgen passiert sind.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

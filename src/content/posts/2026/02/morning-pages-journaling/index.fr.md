@@ -43,7 +43,7 @@ tags: ["AI", "ChatGPT", "Dawn"]
 > **Tâche :** Lis le journal que je viens d'écrire, décris la météo de mes émotions du jour et offre-moi un mot de réconfort bienveillant.
 > **Contenu du journal :** `[Texte écrit aujourd'hui]`
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

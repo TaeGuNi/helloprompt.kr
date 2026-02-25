@@ -45,7 +45,7 @@ Usalo quando hai bisogno di convertire rapidamente un componente React specifico
 > **Input:** `[Codice del componente React contenente useState e useEffect]`
 > **Task:** Converti perfettamente il codice React fornito utilizzando la più recente sintassi **Runes (`$state`, `$derived`, `$effect`)** di Svelte 5. Il codice deve essere conciso e mantenere lo stile idiomatico di Svelte.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Analisi Architetturale Profonda e Strategia di Migrazione)
 

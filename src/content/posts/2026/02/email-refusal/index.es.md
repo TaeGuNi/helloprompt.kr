@@ -45,7 +45,7 @@ Ideal para rechazos rápidos, como propuestas en frío o conflictos de agenda.
 >
 > **Tarea:** Redacta un correo electrónico de rechazo educado para una `[Propuesta de servicios / Solicitud de reunión]` que ha recibido mi empresa. El motivo principal del rechazo es `[Falta de presupuesto en este trimestre / Conflicto de disponibilidad]`.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

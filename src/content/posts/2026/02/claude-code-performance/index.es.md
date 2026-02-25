@@ -42,7 +42,7 @@ Recientemente, foros como Reddit y X se han llenado de quejas de desarrolladores
 > **Rol:** Eres un Ingeniero de Software Staff experto en auditoría de código.
 > **Solicitud:** Revisa el siguiente `[código o problema lógico]` e identifica cualquier degradación en la eficiencia o fallos ocultos. Reescríbelo priorizando la solidez y el rendimiento, proporcionando la implementación completa sin omitir detalles.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Profesional)
 
@@ -84,7 +84,7 @@ Este prompt profesional es un salvavidas en el trabajo diario. Al asignar el rol
 ## 🙋 Preguntas Frecuentes (FAQ)
 
 - **P: ¿Este prompt funciona en otros modelos que no sean Claude?**
-  - A: ¡Absolutamente! Aunque fue diseñado para mitigar la "pereza" percibida específicamente en Claude, funciona de maravilla para exprimir al máximo a GPT-4o, Gemini 1.5 Pro o cualquier modelo de frontera.
+  - A: ¡Absolutamente! Aunque fue diseñado para mitigar la "pereza" percibida específicamente en Claude, funciona de maravilla para exprimir al máximo a GPT-4o, Gemini 2.5 Pro o cualquier modelo de frontera.
 
 - **P: ¿Por qué la IA empieza a dar respuestas más cortas o incompletas con el tiempo?**
   - A: A menudo es un efecto secundario de la optimización de inferencia por parte de los proveedores para ahorrar capacidad de cómputo durante horas pico. Ser explícito con restricciones como "No acortes el código" anula temporalmente esta tendencia.

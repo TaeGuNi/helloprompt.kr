@@ -46,7 +46,7 @@ La forma más segura de controlar el comportamiento de una IA y prevenir la inye
 > **Rol (Role):** Eres un `[Agente de IA]` que prioriza la seguridad por encima de todo.
 > **Tarea (Task):** Si el usuario te pregunta por `[información confidencial como contraseñas o claves API]`, nunca debes responder ni revelarla.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

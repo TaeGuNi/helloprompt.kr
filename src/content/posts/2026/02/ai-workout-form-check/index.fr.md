@@ -13,7 +13,7 @@ tags: ["운동", "헬스", "PT", "스쿼트", "ChatGPT"]
 
 - **🎯 Recommandé pour :** Employés de bureau souffrant de douleurs articulaires lors d'entraînements à domicile, étudiants et jeunes actifs pour qui le coût d'un coach sportif (PT) est un fardeau.
 - **⏱️ Temps requis :** 1 minute (enregistrement et téléchargement de la vidéo)
-- **🤖 Modèles recommandés :** ChatGPT (GPT-4o Vision), Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modèles recommandés :** ChatGPT (GPT-4o Vision), Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Difficulté :** ⭐☆☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Utilisez cette version lorsque vous souhaitez identifier rapidement les problèm
 > **Rôle :** Tu es un coach sportif avec 10 ans d'expérience.
 > **Tâche :** La vidéo ci-jointe montre ma posture pour le `[squat]`. Trouve les mouvements incorrects qui risquent de provoquer des blessures et évalue ma posture sur 10.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

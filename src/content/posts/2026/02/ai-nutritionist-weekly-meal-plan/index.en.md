@@ -42,7 +42,7 @@ Use this when you need a quick, no-frills meal plan.
 > **Role:** You are a certified clinical nutritionist and personal trainer.
 > **Request:** Create a healthy 7-day meal plan for me. I want to lose weight. Include a grocery list.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 
@@ -106,7 +106,7 @@ This prompt is a game-changer because it eliminates decision fatigue, which is t
 
 ### ❌ Before (Input)
 
-> Make me a diet meal plan for a week.
+Make me a diet meal plan for a week.
 
 _(Result: Vague suggestions, no portion sizes, no calorie counts, and ignores personal tastes or time constraints.)_
 

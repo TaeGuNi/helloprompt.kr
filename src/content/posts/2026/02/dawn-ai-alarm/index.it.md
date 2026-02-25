@@ -42,7 +42,7 @@ Ideale per una scarica di adrenalina veloce e senza troppe configurazioni.
 > **Ruolo:** Sei un life coach severo e motivazionale.
 > **Richiesta:** Scrivi un breve script di sveglia (30 secondi) per costringermi ad alzarmi dal letto. Ricordami che il mio obiettivo principale è `[il tuo obiettivo, es. cambiare lavoro / mettermi in forma]`. Sii diretto e spietato.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Pro Version)
 

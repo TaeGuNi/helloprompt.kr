@@ -42,7 +42,7 @@ Nutzen Sie dies, wenn Sie schnell und sicher einen Standard-Token-Code benötige
 > **Rolle:** Du bist ein Senior Blockchain Smart Contract Entwickler.
 > **Aufgabe:** Schreibe den Solidity-Code für einen **ERC-20 Token**, der sicher im Ethereum-Mainnet läuft. Der Token-Name ist 'PizzaCoin', das Symbol 'PZ' und die Gesamtmenge ist auf 1 Million festgelegt. Du musst zwingend von der neuesten Version der `OpenZeppelin`-Bibliothek erben, um die Sicherheit zu maximieren.
 
-<br>
+\
 
 ### 🥇 Pro Version (Hardcore-Sicherheitsaudit & Extreme Optimierung)
 

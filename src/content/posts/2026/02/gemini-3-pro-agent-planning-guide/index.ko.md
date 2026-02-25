@@ -11,7 +11,6 @@ tags: ["Gemini 3 Pro", "AI Agent", "Planning", "Prompt Engineering"]
 
 # 🤖 Gemini 3 Pro: 'Deep Think'로 완벽한 AI 에이전트 기획하기
 
-<!-- ⚠️ [Lint Rule] 이모지 리스트를 사용하세요. 표(Table) 사용 시 모바일에서 깨질 수 있습니다. -->
 
 - **🎯 추천 대상:** 사내 AI 도입을 준비하는 PM, AI 에이전트를 개발하려는 주니어 엔지니어, 1인 창업가
 - **⏱️ 소요 시간:** 3일간의 기획 핑퐁 → 단 15분으로 단축
@@ -21,7 +20,6 @@ tags: ["Gemini 3 Pro", "AI Agent", "Planning", "Prompt Engineering"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐⭐
 
-<!-- ⚠️ [Lint Rule] 인용구(>)는 Basic/Pro 섹션 외에는 이탤릭체(_..._)와 함께 사용해야 에러가 나지 않습니다. -->
 
 > _"AI 에이전트 프로젝트가 산으로 가는 이유는 AI의 지능 부족이 아닙니다. 당신의 기획안에 뚫려 있는 수많은 '엣지 케이스(Edge Case)' 때문입니다."_
 
@@ -42,7 +40,6 @@ Gemini 3 Pro의 **'Deep Think'** 모드는 바로 이 지점에서 진가를 발
 
 ## 🚀 해결책: "The AI Agent Architect" 프롬프트
 
-<!-- ⚠️ [Lint Rule] 인용구(>)는 이곳(Prompt 섹션)에서만 프롬프트 박스로 변환됩니다. -->
 
 ### 🥉 Basic Version (기본형)
 
@@ -52,7 +49,7 @@ Gemini 3 Pro의 **'Deep Think'** 모드는 바로 이 지점에서 진가를 발
 > **요청:** 내가 제시하는 `[아이디어]`를 바탕으로, 이 AI 에이전트가 가져야 할 필수 기능 3가지와 개발 시 예상되는 문제점 1가지를 정리해 줘.
 > **아이디어:** `[여기에 만들고 싶은 에이전트 설명 입력]`
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형 - Deep Think 최적화)
 
@@ -93,7 +90,6 @@ Gemini 3 Pro의 **'Deep Think'** 모드는 바로 이 지점에서 진가를 발
 
 ---
 
-<!-- ✅ [Lint Rule] 필수 섹션입니다. 누락 시 CI 에러가 발생합니다. -->
 
 ## 💡 작성자 코멘트 (Insight)
 
@@ -105,7 +101,6 @@ Gemini 3 Pro의 **'Deep Think'** 모드는 바로 이 지점에서 진가를 발
 
 ---
 
-<!-- ⚠️ [Lint Rule] 권장 섹션입니다. 누락 시 경고가 발생합니다. -->
 
 ## 🙋 자주 묻는 질문 (FAQ)
 

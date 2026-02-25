@@ -45,7 +45,7 @@ Verwenden Sie diese Version, wenn Sie nur schnell eine Aufgabenliste extrahieren
 > **Konzept:** `[Gesamtes Konzept hier einfügen]`
 > **Aufgabe:** Teile dieses Konzept in detaillierte **Tasks** auf, an denen Entwickler sofort arbeiten können, und erstelle eine Checkliste. Trenne dabei Frontend- und Backend-Aufgaben klar voneinander.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten)
 

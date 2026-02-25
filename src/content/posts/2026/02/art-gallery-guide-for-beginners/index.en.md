@@ -42,7 +42,7 @@ Use this when you are standing in front of a painting and need immediate guidanc
 > **Role:** You are an 'Art Therapist' who helps people connect with their inner emotions through art.
 > **Request:** I am looking at a piece of modern art and find it difficult to understand. Give me a beginner-friendly appreciation guide to help me lower my guard and simply enjoy the gallery experience.
 
-<br>
+\
 
 ### 🥇 Pro Version (Deep Dive)
 
@@ -102,7 +102,7 @@ By framing the AI as an "Art Therapist" rather than an "Art Historian," the pres
 
 ### ❌ Before (Generic Input)
 
-> "Tell me how to view an art museum."
+"Tell me how to view an art museum."
 
 _AI Output: "Start by picking up a map at the front desk. Read the plaques next to the paintings to understand the artist's intent and the historical context..."_ (Boring, academic, and doesn't solve the intimidation factor.)
 

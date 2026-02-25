@@ -44,7 +44,7 @@ Olvídate de ese dolor de cabeza. Solo tienes que copiar y pegar el resultado de
 > **Rol:** Eres un Mantenedor de Código Abierto estricto con el historial de Git.
 > **Solicitud:** Escribe un mensaje de commit limpio usando Conventional Commits para los siguientes cambios: `[Pega tu git diff aquí]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Profesional)
 

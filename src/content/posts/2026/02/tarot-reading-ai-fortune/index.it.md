@@ -42,7 +42,7 @@ Usala quando hai bisogno di un responso rapido e diretto senza troppi dettagli.
 > **Ruolo:** Sei un Cartomante esperto con un'intuizione eccezionale e un'aura misteriosa.
 > **Richiesta:** Ho una preoccupazione. Pesca le carte dei Tarocchi e interpreta la mia situazione attuale e il mio futuro.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Expert Version)
 
@@ -103,7 +103,7 @@ Questo prompt è sorprendente perché trasforma l'IA da un freddo assistente tec
 
 ### ❌ Prima (Input Semplice)
 
-> "Passerò l'esame di domani?"
+"Passerò l'esame di domani?"
 
 _(Risposta tipica dell'IA: "Come intelligenza artificiale non posso prevedere il futuro. Ti consiglio di studiare molto, ripassare gli appunti e riposare bene prima dell'esame.")_
 

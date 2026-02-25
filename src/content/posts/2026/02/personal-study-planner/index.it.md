@@ -42,7 +42,7 @@ Ideale per ottenere una bozza rapida senza troppi dettagli.
 > **Ruolo:** Sei un `[Rigoroso Coach per la Preparazione agli Esami]`.
 > **Richiesta:** Crea un piano di studio realistico per il mio `[Obiettivo]` considerando il mio `[Tempo a disposizione]`, e mantieni alta la mia motivazione con fermezza.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

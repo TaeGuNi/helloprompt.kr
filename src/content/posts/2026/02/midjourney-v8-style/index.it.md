@@ -37,9 +37,9 @@ Non si tratta più di un semplice generatore di immagini, ma di una piattaforma 
 Utilizzala direttamente su Discord o sull'interfaccia web di Midjourney quando hai già un'immagine di riferimento che ti piace e desideri estrarne lo stile per applicarlo a una nuova creazione.
 
 > **Richiesta:**
-> `/imagine prompt: [Soggetto da disegnare, es: Un robot che beve caffè in una città cyberpunk] --sref [URL dell'immagine di riferimento] --sw 800 --v 8`
+`/imagine prompt: [Soggetto da disegnare, es: Un robot che beve caffè in una città cyberpunk] --sref [URL dell'immagine di riferimento] --sw 800 --v 8`
 
-<br>
+\
 
 ### 🥇 Versione Pro (Generatore di prompt multipli per asset di brand)
 

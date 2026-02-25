@@ -40,14 +40,14 @@ Attendez une seconde ! Au moment où vous copiez-collez la solution, votre capac
 Utilisez ce prompt de base lorsque vous êtes bloqué et que vous avez juste besoin d'une orientation globale.
 
 > **Rôle :** Tu es un concepteur de tests techniques pour une grande entreprise technologique et un expert en algorithmique.
-> 
+
 > **Tâche :** Lis le problème algorithmique ci-dessous. Explique-moi uniquement l'idée principale et l'approche globale pour le résoudre.
-> 
+
 > **Problème :** `[Collez ici la description du problème LeetCode/HackerRank]`
-> 
+
 > **Contraintes :** Ne fournis en aucun cas le code de la solution ou la logique complète. Donne-moi seulement un indice sur la structure de données la plus avantageuse à utiliser d'un point de vue de la complexité temporelle (Time Complexity).
 
-<br>
+\
 
 ### 🥇 Version Pro (Coaching Étape par Étape et Revue)
 

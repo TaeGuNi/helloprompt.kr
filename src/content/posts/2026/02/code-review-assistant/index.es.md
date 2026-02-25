@@ -47,7 +47,7 @@ Ahora puedes someter tu código a la revisión de un evaluador de IA con el nive
 > [Pega tu código aquí]
 > ```
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

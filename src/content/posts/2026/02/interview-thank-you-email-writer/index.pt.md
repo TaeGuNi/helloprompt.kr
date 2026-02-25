@@ -48,7 +48,7 @@ Use esta versão quando precisar de um rascunho rápido e não houver muito cont
 > **Papel:** Você é um especialista em carreira e comunicação corporativa.
 > **Solicitação:** Escreva um e-mail de agradecimento profissional e educado para enviar logo após uma entrevista de emprego. O tom deve ser de gratidão, reforçando meu entusiasmo pela vaga.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert)
 

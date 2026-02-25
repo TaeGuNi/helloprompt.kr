@@ -9,7 +9,7 @@ tags: ["Prompt Engineering", "AI", "CoT"]
 
 - **🎯 Consigliato per:** Product Manager, Sviluppatori, Data Analyst e chiunque sia stanco delle "risposte sbagliate" dell'IA
 - **⏱️ Tempo richiesto:** Da 1 ora → ridotto a 3 minuti
-- **🤖 Modelli consigliati:** Qualsiasi IA conversazionale ad alte prestazioni (GPT-4, Claude 3.5 Sonnet, Gemini 1.5 Pro, ecc.)
+- **🤖 Modelli consigliati:** Qualsiasi IA conversazionale ad alte prestazioni (GPT-4, Claude 3.5 Sonnet, Gemini 2.5 Pro, ecc.)
 
 - ⭐ **Difficoltà:** ⭐⭐⭐☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -38,7 +38,7 @@ Usala quando vuoi migliorare le capacità di ragionamento dell'IA nel modo più 
 > **Ruolo:** Sei un `[Analista Logico]`.
 > **Richiesta:** Fornisci una risposta alla seguente `[Situazione o problema complesso]`. **Tuttavia, prima di trarre una conclusione, pensa in modo logico e procedi passo dopo passo (Think step-by-step).**
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 
@@ -93,7 +93,7 @@ Nella pratica lavorativa, prova ad applicare questa versione Pro per compiti com
   - R: Prova a dettagliare ulteriormente i 'criteri per gli step' che l'IA deve seguire, esplicitandoli nel Task. Oppure, scrivi un campione più lungo e specifico del processo di ragionamento che desideri nella sezione [Esempio] (Few-Shot): l'IA imiterà perfettamente quel flusso di pensiero.
 
 - **D: Posso usare questo prompt con altri modelli linguistici (Claude, Gemini, ecc.)?**
-  - R: Assolutamente sì. Il CoT non è una funzione limitata a uno specifico modello, ma una metodologia universale che sfrutta i principi fondamentali di funzionamento degli LLM (Large Language Models). Brilla in particolar modo con i modelli di ragionamento più recenti, come Claude 3.5 Sonnet o Gemini 1.5 Pro.
+  - R: Assolutamente sì. Il CoT non è una funzione limitata a uno specifico modello, ma una metodologia universale che sfrutta i principi fondamentali di funzionamento degli LLM (Large Language Models). Brilla in particolar modo con i modelli di ragionamento più recenti, come Claude 3.5 Sonnet o Gemini 2.5 Pro.
 
 - **D: È sempre meglio usare il CoT in ogni situazione?**
   - R: No. Per ricerche di nozioni semplici come "Qual è la capitale dell'Italia?" o per semplici riassunti, la catena di pensieri non è necessaria. Al contrario, farebbe solo sprecare token (e quindi denaro) e tempo di attesa. Usalo come un'arma speciale solo quando ti serve una 'logica complessa'.

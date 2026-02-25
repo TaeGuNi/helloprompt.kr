@@ -41,7 +41,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Art Style"]
 
 > **Prompt:** `A vintage hotel lobby, symmetrical composition, centered view.`
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 

@@ -42,7 +42,7 @@ Usala quando hai bisogno di una panoramica rapida e immediata.
 > **Ruolo:** Agisci come un `[Tutor Esperto]`.
 > **Richiesta:** Crea un piano di studi di `[3 giorni / 3 settimane]` per imparare `[Argomento]`. Includi solo gli argomenti essenziali e suggerisci un'esercitazione pratica quotidiana.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

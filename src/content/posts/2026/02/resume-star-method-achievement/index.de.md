@@ -42,7 +42,7 @@ Verwenden Sie diesen Prompt, wenn Sie nur ein schnelles, erstes Ergebnis benöti
 > **Rolle:** Du bist ein Senior-Headhunter mit 15 Jahren Erfahrung im Recruiting und Experte für Lebenslaufberatung.
 > **Aufgabe:** Verwandle meinen einfachen Lebenslauftext unter Anwendung der STAR-Methode (Situation-Task-Action-Result) in überzeugende, ergebnisorientierte Aufzählungspunkte. Hier ist mein Text: `[Ihre Erfahrung]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Prompt)
 

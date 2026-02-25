@@ -49,7 +49,7 @@ Use isto quando precisar de ideias rápidas para quebrar o gelo.
 > **Papel:** Você é um roteirista de programas infantis de comédia e um especialista em psicologia infantil.
 > **Pedido:** Crie 5 perguntas divertidas e criativas de "O que você prefere?" (Jogo de Equilíbrio) para fazer uma criança do ensino fundamental começar a falar animadamente.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

@@ -45,7 +45,7 @@ Use this when you need a rapid, beautiful outcome without overcomplicating the p
 >
 > **Subject:** `[Your Subject, e.g., A cozy Parisian street cafe]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Detail)
 
@@ -82,7 +82,7 @@ Use this structured prompt when you demand absolute control over the atmospheric
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 This specific prompt structure is incredibly valuable because AI image generators naturally gravitate toward overly polished, hyper-realistic, or "plasticky" digital renders. By explicitly commanding the AI to incorporate "graphite lines" and the "wet-on-wet technique," we force it to simulate physical, real-world imperfections.
 
@@ -90,7 +90,7 @@ I've found this technique particularly effective for architectural visualization
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q: Does this work well in ChatGPT (DALL-E 3) as well as Midjourney?**
   - A: Yes, DALL-E 3 handles this beautifully! However, DALL-E tends to make colors highly vibrant by default. If you want a more muted, melancholic look, explicitly add "muted color palette" or "desaturated tones" to your prompt.

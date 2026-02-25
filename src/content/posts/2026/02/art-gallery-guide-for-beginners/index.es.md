@@ -42,7 +42,7 @@ Encuentras una galería fascinante durante tu viaje. Quieres entrar, pero te det
 > **Rol:** Eres un experto 'Terapeuta de Arte'.
 > **Solicitud:** Estoy frente a una obra de arte contemporáneo que no entiendo. Hazme 3 preguntas sencillas y emocionales para ayudarme a conectar con ella sin usar jerga académica.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Recomendada)
 
@@ -101,7 +101,7 @@ _Consejo de experto:_ Guarda este prompt en las notas de tu teléfono. La próxi
 
 ### ❌ Antes (Búsqueda Tradicional)
 
-> "Explícame cómo apreciar el arte abstracto."
+"Explícame cómo apreciar el arte abstracto."
 
 _(Resultado típico de la IA: "El arte abstracto surgió a principios del siglo XX como una ruptura con la representación tradicional. Artistas como Kandinsky buscaban expresar... [continúa un texto largo, aburrido y académico]")_
 

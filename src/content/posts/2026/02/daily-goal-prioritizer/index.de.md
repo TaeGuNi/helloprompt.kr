@@ -43,7 +43,7 @@ Nutzen Sie diese Version, wenn Sie ohne komplexe Einstellungen schnell Prioritä
 > **Aufgabe:** Analysiere die unten stehende To-Do-Liste. Ordne die Aufgaben nach der höchsten Dringlichkeit für heute von 1 abwärts und erkläre kurz den Grund für diese Reihenfolge.
 > `[Hier To-Do-Liste einfügen]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Für detaillierte Planung)
 

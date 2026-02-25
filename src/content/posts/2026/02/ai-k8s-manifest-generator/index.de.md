@@ -52,7 +52,7 @@ Verwenden Sie diesen Prompt, wenn Sie schnell einen Pod für lokale Tests starte
 > 
 > **Einschränkungen:** Trenne Deployment und Service mit `---` und fasse sie in einer einzigen Datei zusammen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten & Produktion)
 

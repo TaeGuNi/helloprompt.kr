@@ -48,7 +48,7 @@ Utilize esta versão quando precisar apenas de um panorama rápido e direto.
 > **Papel:** Você é um coach de carreira experiente e um consultor de recrutamento pragmático.
 > **Solicitação:** Compare a Descrição da Vaga (JD) fornecida com o meu currículo para identificar as competências que faltam (Gap) e crie uma estratégia prática para suprir essas lacunas.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert)
 

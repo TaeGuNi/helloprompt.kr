@@ -13,7 +13,7 @@ tags: ["Macro", "Nutrient", "Diet", "ChatGPT", "Meal Log"]
 
 - **🎯 Recommended for:** Dieters, Bodybuilders, Busy Professionals, Health Enthusiasts
 - **⏱️ Time required:** 5 minutes → 1 minute
-- **🤖 Recommended model:** Any Vision-capable AI (ChatGPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro)
+- **🤖 Recommended model:** Any Vision-capable AI (ChatGPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro)
 
 - ⭐ **Difficulty:** ⭐⭐☆☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Use this for a quick, hassle-free estimate when you are short on time.
 > **Role:** You are an expert sports nutritionist and dietitian.
 > **Request:** I just ate a standard serving of spicy stir-fried pork with rice and a small rolled omelet. Give me a rough estimate of the calories and the carb-protein-fat breakdown.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Planner)
 

@@ -45,7 +45,7 @@ Use this when you need a clear, immediate direction rather than a complex, drawn
 > **Context:** Our team currently consists of `[3 React developers and 1 Node.js backend developer]`, and we are building a `[location-based food delivery app]`.
 > **Task:** Given this situation, should we choose React Native or Flutter? Give me a definitive answer supported by the 3 most critical reasons.
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -109,15 +109,15 @@ Ultimately, the deciding factors are your **'Team DNA'** and **'Business Velocit
 
 ### ❌ Before (Relying on Community Hearsay)
 
-> "I heard Flutter is the big trend right now! Google is backing it. Let's go with Flutter!"
+"I heard Flutter is the big trend right now! Google is backing it. Let's go with Flutter!"
 
 *Result:* Existing React frontend developers wasted 2 months learning Dart and new state management paradigms (BLoC/Provider). The MVP launch was delayed, and the project eventually stalled because they couldn't hire experienced Flutter developers when it was time to scale. 🐢
 
 ### ✅ After (AI Architect's Consulting Decision)
 
 > **AI CTO:** "Given that your entire team is proficient in React and Node.js, introducing Flutter carries a fatal risk of **'burning through your runway due to a steep learning curve.'**
->
-> Since your top priority is launching an MVP within 3 months, **React Native** is overwhelmingly advantageous, allowing you to reuse over 80% of your existing knowledge. Any performance concerns are adequately offset by the new Fabric architecture. Do not look back—choose RN."
+
+Since your top priority is launching an MVP within 3 months, **React Native** is overwhelmingly advantageous, allowing you to reuse over 80% of your existing knowledge. Any performance concerns are adequately offset by the new Fabric architecture. Do not look back—choose RN."
 
 *Result:* Leveraged the team's existing React expertise to complete the MVP in just 1 month. Successfully validated the market and secured Series A funding. 🚀
 

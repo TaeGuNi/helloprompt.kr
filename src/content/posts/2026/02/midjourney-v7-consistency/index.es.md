@@ -39,7 +39,7 @@ La narrativa visual con inteligencia artificial ha dado un salto gigantesco. Man
 > **Rol:** Eres un asistente experto en Midjourney.
 > **Prompt:** Un retrato cinematográfico de una persona caminando por una ciudad cyberpunk, luces de neón `--cref [URL_DE_TU_IMAGEN]` `--cw 0`
 
-<br>
+\
 
 ### 🥇 Versión Profesional
 

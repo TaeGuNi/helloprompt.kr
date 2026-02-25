@@ -12,7 +12,7 @@ tags: ["AI Fatigue", "Hype Cycle", "Tech Burnout"]
 
 - **🎯 추천 대상:** 쏟아지는 AI 뉴스에 지친 기획자, 개발자, 일반 직장인
 - **⏱️ 소요 시간:** 10분 뉴스 읽기 → 1분 핵심 요약
-- **🤖 추천 모델:** Perplexity, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 추천 모델:** Perplexity, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **난이도:** ⭐☆☆☆☆
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
@@ -45,7 +45,7 @@ tags: ["AI Fatigue", "Hype Cycle", "Tech Burnout"]
 >
 > 기사 내용: `[기사 본문 또는 링크]`
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 

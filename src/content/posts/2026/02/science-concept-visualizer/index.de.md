@@ -42,7 +42,7 @@ Verwenden Sie diese Variante, wenn Sie sofort ein schnelles Ergebnis benötigen.
 > **Rolle:** Du bist ein `[Wissenschaftskommunikator und Infografik-Designer]`.
 > **Anfrage:** Erstelle ein Textdiagramm (ASCII-Art) und eine treffende Alltagsanalogie, um `[hier schwieriges Konzept einfügen]` einfach und intuitiv zu erklären.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

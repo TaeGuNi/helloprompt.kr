@@ -42,7 +42,7 @@ Use esta versão quando precisar apenas de um esboço rápido e geral do orçame
 > **Papel:** Você é um `[Planejador de Casamento Profissional]` com 10 anos de experiência e conselheiro financeiro de casais.
 > **Solicitação:** Crie um orçamento básico e preveja os custos para um casamento de `[30.000 Reais/Dólares]`, incluindo dicas de como economizar nas armadilhas comuns.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert Version)
 
@@ -114,12 +114,12 @@ _(O resultado geralmente é uma lista em texto genérica, com valores irreais e 
 
 | Categoria                         | Valor Estimado | Alertas de Custos Ocultos (Fique Atento)                                                                                                          |
 | :-------------------------------- | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Salão & Buffet**                | 18.000         | Buffet (200 x 80) + Locação Básica. <br>⚠️ _Verifique taxa de quebra de copos, taxa de rolha de bebidas e alimentação da equipe técnica._         |
-| **Vestido, Traje e Beleza**       | 4.000          | Aluguel/Compra e Dia da Noiva(o). <br>⚠️ _Cuidado com taxa de ajuste final de costura, prova de maquiagem extra e taxa de deslocamento ao hotel._ |
-| **Fotografia & Vídeo**            | 3.500          | Cobertura total do dia. <br>⚠️ _Fique de olho na taxa de horas extras na festa e possível cobrança pelos arquivos RAW originais._                 |
-| **Lua de Mel**                    | 2.500          | Pacote nacional de 5 a 7 dias. <br>⚠️ _Taxas de turismo da cidade, translado do aeroporto não incluso e refeições fora do resort._                |
-| **Convites & Lembrancinhas**      | 1.000          | Convites digitais e bem-casados físicos. <br>⚠️ _Custo de frete na entrega dos itens e caligrafia especial cobrada à parte._                      |
-| **Fundo de Reserva (Emergência)** | 1.000          | Para imprevistos críticos. <br>⚠️ _Mantenha intocável até a semana do evento._                                                                    |
+| **Salão & Buffet**                | 18.000         | Buffet (200 x 80) + Locação Básica. \⚠️ _Verifique taxa de quebra de copos, taxa de rolha de bebidas e alimentação da equipe técnica._         |
+| **Vestido, Traje e Beleza**       | 4.000          | Aluguel/Compra e Dia da Noiva(o). \⚠️ _Cuidado com taxa de ajuste final de costura, prova de maquiagem extra e taxa de deslocamento ao hotel._ |
+| **Fotografia & Vídeo**            | 3.500          | Cobertura total do dia. \⚠️ _Fique de olho na taxa de horas extras na festa e possível cobrança pelos arquivos RAW originais._                 |
+| **Lua de Mel**                    | 2.500          | Pacote nacional de 5 a 7 dias. \⚠️ _Taxas de turismo da cidade, translado do aeroporto não incluso e refeições fora do resort._                |
+| **Convites & Lembrancinhas**      | 1.000          | Convites digitais e bem-casados físicos. \⚠️ _Custo de frete na entrega dos itens e caligrafia especial cobrada à parte._                      |
+| **Fundo de Reserva (Emergência)** | 1.000          | Para imprevistos críticos. \⚠️ _Mantenha intocável até a semana do evento._                                                                    |
 
 **💡 Dica Estratégica do Planejador:**
 Invista pesado na Fotografia e Vídeo (são as únicas memórias reais que ficam após a festa) e corte gastos nas Lembrancinhas e Convites impressos (a grande maioria dos convidados descarta estes itens).

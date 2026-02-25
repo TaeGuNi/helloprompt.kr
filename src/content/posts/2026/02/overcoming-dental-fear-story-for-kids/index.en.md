@@ -42,7 +42,7 @@ Use this when you need a quick, simple bedtime story.
 > **Role:** You are a child psychologist and expert storyteller.
 > **Request:** Write a short, encouraging story to help a child overcome their fear of going to the dentist tomorrow. Make it fun and empowering.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 
@@ -102,7 +102,7 @@ This prompt leverages a well-known psychological technique called "cognitive ref
 
 ### ❌ Before (Input)
 
-> Tell my kid a story so they aren't scared of the dentist tomorrow.
+Tell my kid a story so they aren't scared of the dentist tomorrow.
 
 _(Result: A dry, generic explanation about how dentists are nice people who look at teeth, which does little to soothe genuine panic.)_
 
@@ -110,7 +110,7 @@ _(Result: A dry, generic explanation about how dentists are nice people who look
 
 _(Excerpt from the Pro Prompt output)_
 
-> "Suddenly, Dr. Smile activated the Super-Duper Bug Vacuum. _Whirr, whirr, whirr!_ it hummed. 'Hear that?' whispered Dr. Smile. 'That's the sound of the bug-chasing laser!' The Cavity Bugs shrieked, 'Oh no, it's too clean! Run away!' and slid right out of `[Child's Name]`'s mouth. `[Child's Name]` giggled because the vacuum tickled just a little bit."
+"Suddenly, Dr. Smile activated the Super-Duper Bug Vacuum. _Whirr, whirr, whirr!_ it hummed. 'Hear that?' whispered Dr. Smile. 'That's the sound of the bug-chasing laser!' The Cavity Bugs shrieked, 'Oh no, it's too clean! Run away!' and slid right out of `[Child's Name]`'s mouth. `[Child's Name]` giggled because the vacuum tickled just a little bit."
 
 ---
 

@@ -42,7 +42,7 @@ Utilizza questo prompt quando hai fretta e ti serve una risposta immediata.
 > **Ruolo:** Sei un Senior Software Engineer.
 > **Richiesta:** Analizza il seguente log di errore, spiegami la causa principale e indicami come risolverla nel modo più conciso possibile: `[INCOLLA QUI IL LOG]`
 
-<br>
+\
 
 ### 🥇 Versione Pro (Esperto)
 

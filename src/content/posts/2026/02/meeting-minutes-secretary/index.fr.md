@@ -42,7 +42,7 @@ Vous sortez d'une longue réunion. Tout ce qu'il vous reste, c'est un enregistre
 > **Rôle :** Tu es un `[Assistant de direction expert]`.
 > **Requête :** Résume cette transcription de réunion de manière claire et extrais les principales tâches à accomplir.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

@@ -43,7 +43,7 @@ La "Hero Section" o sección principal determina la primera impresión de cualqu
 > **Rol:** Eres un `[Experto en Redacción Web]` y `[UX Writer]`. Tienes una habilidad excepcional para crear ganchos que cautivan la atención del usuario en menos de 3 segundos.
 > **Instrucción:** Escribe el texto principal (Hero Copy) para una landing page sobre `[Tu Producto/Servicio]` que resuelva `[Problema Principal]`. Dame 3 opciones atractivas y orientadas a la conversión.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

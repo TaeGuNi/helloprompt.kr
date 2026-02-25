@@ -38,7 +38,7 @@ Utilisez ce prompt pour mettre en place rapidement le squelette du projet et tes
 > **Rôle :** Tu es un développeur client de jeux senior.
 > **Tâche :** Crée un jeu de golf 2D sur navigateur en utilisant HTML5 Canvas. Il doit inclure une balle, un trou, et une mécanique de tir par glisser-déposer (drag-to-shoot).
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Expert)
 

@@ -42,7 +42,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Craft"]
 > **역할:** 너는 전문 일러스트레이터이자 페이퍼 크래프트 아티스트야.
 > **요청:** `[주제]`를 페이퍼 컷아웃(Paper Cutout) 스타일로 그려줘. 여러 겹의 파스텔톤 종이를 오려 붙인 듯한 입체감과 레이어 사이의 부드러운 그림자를 강조해 줘.
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 

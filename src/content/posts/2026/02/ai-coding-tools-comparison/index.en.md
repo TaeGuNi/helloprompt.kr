@@ -42,7 +42,7 @@ Use this when you need a quick breakdown of the latest core differences between 
 > **Role:** You are a trend-savvy Senior DevOps Engineer.
 > **Task:** Summarize the core differences between GitHub Copilot, Cursor, and Windsurf, focusing specifically on 'codebase awareness' and 'agent autonomy'.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

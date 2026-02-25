@@ -46,7 +46,7 @@ Use quando precisar de um feed de mídia social curto e impactante para entrar r
 
 > **Papel:** Você é um comentarista de patinação artística apaixonado e expressivo.
 > **Tarefa:** Resuma os resultados da apresentação `[Curta/Livre]` do(a) patinador(a) `[Nome do Atleta]` e escreva uma postagem de Instagram emocionante e dramática, semelhante a uma transmissão esportiva da NBC. Inclua as hashtags #nbcolympics #figureskating no final do texto.
-> <br>
+> \
 
 ### 🥇 Pro Version (Versão Profissional)
 

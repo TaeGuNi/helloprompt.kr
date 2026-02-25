@@ -43,7 +43,7 @@ Nutzen Sie diese Vorlage, wenn Sie einfach nur schnell ein Ergebnis brauchen.
 > **Aufgabe:** Strukturiere meine unordentlichen Notizen in ein klares Daily Standup-Format (Gestern, Heute, Blocker).
 > **Meine Notizen:** `[Hier Ihre rohen Notizen einfügen]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

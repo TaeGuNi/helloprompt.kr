@@ -42,7 +42,7 @@ La evaluación de personal debe ser justa, los comentarios deben ser específico
 > **Rol:** Eres un experto Entrenador de Liderazgo Corporativo.
 > **Solicitud:** Redacta un comentario de evaluación de desempeño constructivo para un empleado que es bueno en `[habilidad técnica]`, pero necesita mejorar en `[área de mejora]`. Usa un tono profesional, empático y motivador.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

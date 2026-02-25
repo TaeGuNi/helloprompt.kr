@@ -48,7 +48,7 @@ Use isso quando precisar refinar rapidamente a estrutura básica e os comentári
 > **Código:**
 > `[Cole seu código aqui]`
 
-<br>
+\
 
 ### 🥇 Versão Pro (Profissional)
 

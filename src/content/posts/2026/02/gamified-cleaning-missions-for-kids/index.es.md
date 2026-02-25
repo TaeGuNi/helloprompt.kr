@@ -43,7 +43,7 @@ Ideal para esos momentos en los que necesitas una idea al instante antes de que 
 > **Rol:** Eres un experto en recreación infantil y gamificación.
 > **Solicitud:** Dame 3 ideas de juegos rápidos y emocionantes para que mis hijos limpien una habitación muy desordenada en menos de 10 minutos.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Master Class)
 

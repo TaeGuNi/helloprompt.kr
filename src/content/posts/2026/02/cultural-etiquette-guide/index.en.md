@@ -42,7 +42,7 @@ Use this when you need a quick overview of the destination.
 > **Role:** You are an expert Cultural Anthropologist and Global Etiquette Instructor.
 > **Request:** I am traveling to `[Country/City]`. Please tell me the most critical etiquette rules, tipping culture, and gestures to avoid so I don't offend the locals.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

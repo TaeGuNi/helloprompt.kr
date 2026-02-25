@@ -49,7 +49,7 @@ Verwenden Sie diesen Prompt, wenn Sie sofortige, unkomplizierte Hilfe benötigen
 > **Rolle:** Du bist ein ruhiger, professioneller Berater für psychologische Erste Hilfe.
 > **Aufgabe:** Ich habe gerade starke Angst. Führe mich schrittweise durch die 5-4-3-2-1 Erdungstechnik, um mich zu beruhigen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

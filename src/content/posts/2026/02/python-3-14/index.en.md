@@ -14,7 +14,7 @@ title: " \"Python 3.14: A Leap Forward in Speed and Type Safety\""
 
 - **🎯 Target Audience:** Backend Developers, Data Engineers, Tech Leads
 - **⏱️ Time Saved:** 2 hours → 5 minutes
-- **🤖 Recommended Model:** Claude 3.5 Sonnet, GPT-4o, or Gemini 1.5 Pro
+- **🤖 Recommended Model:** Claude 3.5 Sonnet, GPT-4o, or Gemini 2.5 Pro
 
 - ⭐ **Difficulty:** ⭐⭐⭐☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -43,7 +43,7 @@ Use this for quick, single-file logic updates.
 > **Role:** You are a Senior Python Engineer.
 > **Task:** Refactor the following Python code to utilize Python 3.14 features (Pattern Matching v3, TypeVar defaults) and ensure it is optimized for the new JIT compiler.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

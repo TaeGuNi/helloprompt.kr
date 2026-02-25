@@ -43,7 +43,7 @@ Idéale pour obtenir un premier jet rapidement sans entrer dans des détails com
 > **Requête :** Retravaille la description de mon projet sous forme de narration. Mets en évidence mon processus de résolution de problèmes et mes contributions spécifiques, plutôt que de faire une simple liste de fonctionnalités.
 > **Mon projet :** `[Insérer une brève description du projet]`
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

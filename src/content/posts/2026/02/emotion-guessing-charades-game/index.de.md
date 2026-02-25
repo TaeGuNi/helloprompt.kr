@@ -42,7 +42,7 @@ Nutzen Sie diese Variante für schnelle, unkomplizierte Ergebnisse.
 > **Rolle:** Du bist ein erfahrener Kinderpsychologe und Schauspiellehrer.
 > **Anfrage:** Schlage ein KI-Rollenspiel vor, um die Empathie und den emotionalen Ausdruck eines Kindergartenkindes zu entwickeln.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

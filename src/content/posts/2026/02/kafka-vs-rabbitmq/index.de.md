@@ -44,7 +44,7 @@ Verwenden Sie diesen Prompt, um die Kernkonzepte schnell zusammenzufassen – id
 > **Rolle:** Du bist ein Senior Backend-Architekt mit 10 Jahren Erfahrung.
 > **Aufgabe:** Erkläre den entscheidenden Unterschied zwischen Kafka und RabbitMQ so, dass ihn auch ein Junior-Entwickler versteht. Fasse die Kernpunkte zusammen und konzentriere dich dabei auf die zwei Aspekte **„Message Persistence (Nachrichtenpersistenz)“** und **„Consumption Model (Push vs. Pull)“**.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

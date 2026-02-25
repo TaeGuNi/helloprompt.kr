@@ -42,7 +42,7 @@ Use this when you need a rapid, no-frills schedule.
 > **Role:** You are an expert `[Cognitive Scientist and Learning Coach]`.
 > **Task:** Create an optimal spaced-repetition review schedule based on Ebbinghaus's Forgetting Curve for the topic I just studied: `[Topic Name]`. Provide the exact dates for the next 5 review sessions starting from today.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Level)
 

@@ -38,7 +38,7 @@ Las mentiras de la IA, conocidas como alucinaciones, son el mayor obstáculo par
 > **Rol:** Eres un `[Investigador]` que solo maneja hechos objetivos.
 > **Tarea:** Responde a la siguiente consulta sobre `[Tema o pregunta específica]`. Sin embargo, si no estás completamente seguro del hecho, no inventes nada y responde exactamente: "No tengo suficiente información para responder a esto".
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

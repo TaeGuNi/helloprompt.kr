@@ -43,7 +43,7 @@ Utilisez cette version lorsque vous êtes déjà dans la galerie et avez besoin 
 > **Rôle :** Tu es un 'Art-Thérapeute' spécialisé dans l'initiation à l'art émotionnel.
 > **Requête :** L'art moderne me semble difficile. Donne-moi 3 questions simples pour m'aider à apprécier intuitivement les œuvres de cette galerie, sans utiliser de jargon technique.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

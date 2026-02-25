@@ -45,7 +45,7 @@ Use this for quick, isolated scaffolding when you just need a starting point.
 > **Role:** You are an expert Full-Stack Developer.
 > **Task:** Build a responsive login page component using React and Tailwind CSS. Ensure it includes basic email and password validation.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

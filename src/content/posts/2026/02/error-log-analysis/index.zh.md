@@ -42,7 +42,7 @@ tags: ["调试", "错误日志", "故障排除"]
 > **角色:** 你是一位资深的 `[后端开发专家]`。
 > **请求:** 帮我分析以下这段 `[报错信息]`，并给出修复建议。
 
-<br>
+\
 
 ### 🥇 Pro Version (专家版)
 
@@ -114,7 +114,7 @@ Exception in thread "main" java.lang.NullPointerException
     ... (不知所云的 100 行堆栈跟踪)
 ```
 
-<br>
+\
 
 ### ✅ After (结果)
 

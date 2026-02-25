@@ -42,7 +42,7 @@ Las transcripciones automáticas de reuniones suelen estar llenas de coloquialis
 > **Rol:** Eres un asistente ejecutivo experto.
 > **Solicitud:** Resume la siguiente transcripción de la reunión, extrayendo solo los puntos clave y las decisiones tomadas. `[Pega aquí tu transcripción]`
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -85,7 +85,7 @@ Este prompt es un verdadero salvavidas para quienes pasan más del 30% de su sem
   - A: ¡Absolutamente! Modelos como GPT-4 o Claude 3.5 son excelentes traductores simultáneos. Simplemente agrega una instrucción en la sección de "Restricciones" que diga: _"Redacta el acta final únicamente en español profesional, independientemente de los idiomas originales utilizados en la transcripción"_.
 
 - **Q: ¿Qué pasa si la transcripción es demasiado larga y la IA me da un error de límite de texto?**
-  - A: Si tu archivo supera los límites de tokens (algo común en reuniones de más de 2 horas), te recomiendo dividir el texto en dos partes. Alternativamente, puedes utilizar modelos con ventanas de contexto ampliadas como Claude 3.5 Sonnet o Gemini 1.5 Pro, que pueden procesar libros enteros de una sola vez sin perder información.
+  - A: Si tu archivo supera los límites de tokens (algo común en reuniones de más de 2 horas), te recomiendo dividir el texto en dos partes. Alternativamente, puedes utilizar modelos con ventanas de contexto ampliadas como Claude 3.5 Sonnet o Gemini 2.5 Pro, que pueden procesar libros enteros de una sola vez sin perder información.
 
 - **Q: ¿Es seguro subir las transcripciones de reuniones confidenciales de mi empresa a la IA?**
   - A: Depende de las políticas de seguridad de tu empresa. Si usas versiones gratuitas (como ChatGPT estándar), tus datos podrían usarse para el entrenamiento del modelo. Para información altamente sensible, utiliza versiones corporativas (ChatGPT Enterprise, Copilot for M365) o, como mejor práctica, reemplaza manualmente los nombres de clientes y datos financieros críticos con "Empresa A" o "Cliente B" antes de pegar el texto.

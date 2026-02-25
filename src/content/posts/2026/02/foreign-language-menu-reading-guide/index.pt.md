@@ -19,7 +19,7 @@ tags:
 
 - **🎯 Recomendado para:** Viajantes iniciantes, pessoas com restrições alimentares, foodies exploradores
 - **⏱️ Tempo necessário:** 5 minutos → 30 segundos
-- **🤖 Modelo recomendado:** ChatGPT (GPT-4o), Gemini 1.5 Pro, Claude 3.5 Sonnet (Recomendados modelos com visão/análise de imagem)
+- **🤖 Modelo recomendado:** ChatGPT (GPT-4o), Gemini 2.5 Pro, Claude 3.5 Sonnet (Recomendados modelos com visão/análise de imagem)
 
 - ⭐ **Dificuldade:** ⭐☆☆☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -48,7 +48,7 @@ Use isto para uma resposta rápida e direta quando o garçom já estiver esperan
 > **Papel:** Você é um Guia Gastronômico Especialista.
 > **Pedido:** Explique o prato `[Nome do Prato ou Foto]` de forma simples e me diga como pedir sem `[ingrediente indesejado, ex: coentro/pimenta]` no idioma local.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

@@ -37,7 +37,7 @@ Use this when you need a quick overview of Quantum AI use cases and expected imp
 > **Role:** You are the world's leading Quantum AI Technology Strategy Consultant.
 > **Task:** Clearly analyze 3 real-world use cases and the expected business impacts of hybrid Quantum AI algorithms currently utilized in the `[Specific Industry, e.g., Finance, Pharmaceuticals, Logistics]` sector as of 2026.
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -101,7 +101,7 @@ By doing so, the AI will stop acting like a generic tech wiki and start deliveri
 
 ### ❌ Before (Simple Input)
 
-> Tell me how our logistics company can use Quantum AI technology in 2026.
+Tell me how our logistics company can use Quantum AI technology in 2026.
 
 **(Result)**
 *Quantum computing uses qubits to process data based on the principles of superposition and entanglement. Logistics companies can use Quantum AI for route optimization. It enables faster calculations and increases logistics efficiency...* (A boring, textbook explanation everyone already knows)

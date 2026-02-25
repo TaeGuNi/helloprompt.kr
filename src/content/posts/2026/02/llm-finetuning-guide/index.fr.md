@@ -50,7 +50,7 @@ Si vous n'avez pas le temps de taper des centaines de données vous-même, utili
 > 2. Pour chaque question, rédige 10 réponses (Output) professionnelles et très motivantes.
 > 3. Tu dois impérativement formater le résultat en JSONL (`{"instruction": "...", "output": "..."}`).
 
-<br>
+\
 
 ### 🥇 Version Pro (Générateur de code pour Pipeline d'entraînement)
 

@@ -42,7 +42,7 @@ Verwenden Sie diesen Prompt, wenn Sie sofortige, unkomplizierte Ergebnisse benö
 > **Rolle:** Du bist ein professioneller Fotograf und Art Direktor.
 > **Aufgabe:** Erstelle einen Prompt für ein Bild mit starkem Gegenlicht (Silhouette), der die formale Ästhetik und Atmosphäre betont, indem das Hauptmotiv als dunkler Umriss vor einer hellen Lichtquelle dargestellt wird.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für maximale Kontrolle)
 

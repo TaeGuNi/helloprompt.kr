@@ -49,7 +49,7 @@ Utilisez cette version pour obtenir un résultat rapide et direct, sans paramét
 > **Rôle :** Tu es un illustrateur spécialisé en art traditionnel japonais.
 > **Requête :** Crée un prompt de génération d'image pour dessiner `[Sujet, ex: un paysage de montagne]` dans le style Ukiyo-e, en reprenant l'esthétique classique des estampes japonaises.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version expert)
 

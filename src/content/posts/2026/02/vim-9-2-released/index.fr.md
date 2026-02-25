@@ -9,7 +9,7 @@ tags: ["DevTools", "Vim", "Editor", "Release"]
 
 - **🎯 Recommandé pour :** Utilisateurs de Vim, Développeurs, Ingénieurs DevOps
 - **⏱️ Temps gagné :** De 30 minutes → à 1 minute
-- **🤖 Modèles recommandés :** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (Excellents pour l'analyse technique)
+- **🤖 Modèles recommandés :** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (Excellents pour l'analyse technique)
 
 - ⭐ **Difficulté :** ⭐⭐☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -40,7 +40,7 @@ Ce prompt déploie un **"Analyste de Documentation Technique Sur-Mesure"** qui r
 > **Rôle :** Tu es un Développeur Senior et un traducteur expert en documentation technique.
 > **Tâche :** Lis les `[Notes de version de Vim 9.2]` ci-dessous et résume les 3 changements les plus importants en français. Utilise des termes simples et accessibles même pour les débutants.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 
@@ -84,7 +84,7 @@ La véritable puissance de ce prompt ne réside pas dans la simple traduction de
   - R : Absolument ! Qu'il s'agisse de React, TypeScript, Docker ou Kubernetes, il vous suffit de modifier la variable `[Technologie spécifique]` entre crochets pour que l'analyse s'adapte parfaitement.
 
 - **Q : Que faire si le texte des notes de version est trop long pour la fenêtre de chat ?**
-  - R : Les modèles comme Claude 3.5 Sonnet ou Gemini 1.5 Pro gèrent d'énormes fenêtres de contexte sans problème. Nous vous recommandons de fournir directement l'URL de la release dans le prompt, ou de joindre le fichier texte/PDF.
+  - R : Les modèles comme Claude 3.5 Sonnet ou Gemini 2.5 Pro gèrent d'énormes fenêtres de contexte sans problème. Nous vous recommandons de fournir directement l'URL de la release dans le prompt, ou de joindre le fichier texte/PDF.
 
 ---
 

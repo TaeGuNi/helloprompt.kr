@@ -42,7 +42,7 @@ Verwenden Sie diesen Prompt für schnelle, situative Ratschläge im stressigen A
 > **Rolle:** Du bist ein erfahrener Lernpsychologe und Familiencoach.
 > **Anfrage:** Gib mir 3 einfache Gesprächstechniken, wie ich mein Kind dazu bringe, von selbst mit den Hausaufgaben anzufangen, ohne es unter Druck zu setzen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenform)
 

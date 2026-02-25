@@ -44,7 +44,7 @@ Verwenden Sie diese Version, um das grundlegende Design und den Ton (Tone & Mann
 > **Aussehen:** Gelber Körper, oranger Schnabel, ein grüner Spross auf dem Kopf.
 > **Stil:** 2D-Vektor-Stil, einfache und dicke Linien (Thick Outline), weißer Hintergrund.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

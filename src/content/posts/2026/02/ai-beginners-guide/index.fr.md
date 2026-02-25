@@ -47,7 +47,7 @@ Pour un résultat générique et souvent décevant.
 > **Rôle :** Tu es un cuisinier.
 > **Requête :** Donne-moi la recette d'un pot-au-feu.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version pro)
 
@@ -86,7 +86,7 @@ Une requête simple mais qui donne souvent un bloc de texte indigeste.
 > **Rôle :** Tu es un assistant.
 > **Requête :** Résume ce texte : `[Collez votre long rapport ici]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Version pro)
 
@@ -127,7 +127,7 @@ L'IA répondra correctement, mais de manière très scolaire.
 > **Rôle :** Tu es un expert en informatique.
 > **Requête :** Comment extraire le mois d'une date sur Excel ?
 
-<br>
+\
 
 ### 🥇 Pro Version (Version pro)
 

@@ -49,7 +49,7 @@ Usala quando vai di fretta e hai bisogno di risultati rapidi davanti a un'opera.
 > **Ruolo:** Sei un esperto di storia dell'arte e un docente museale appassionato.
 > **Richiesta:** Spiegami l'opera d'arte presente in questa foto in modo semplice e coinvolgente. Quali sono i dettagli più importanti da guardare?
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

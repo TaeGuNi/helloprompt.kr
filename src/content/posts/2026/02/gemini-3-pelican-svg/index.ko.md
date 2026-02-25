@@ -38,7 +38,7 @@ tags: ["AI", "Gemini", "SVG", "Generative Tech"]
 > **역할:** 너는 `[SVG 전문 프론트엔드 개발자]`야.
 > **요청:** `[자전거를 타는 펠리컨]`을 묘사하는 완벽한 SVG 코드를 작성해 줘.
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 
@@ -110,17 +110,13 @@ tags: ["AI", "Gemini", "SVG", "Generative Tech"]
 
 ```xml
 <svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- 네온 블루 톤의 하늘 배경 -->
-  <rect width="500" height="500" fill="#0a0a2a"/>
+    <rect width="500" height="500" fill="#0a0a2a"/>
 
-  <!-- 자전거 바퀴 그라데이션 및 네온 효과 -->
-  <circle cx="150" cy="350" r="60" stroke="#00f3ff" stroke-width="6" fill="none"/>
+    <circle cx="150" cy="350" r="60" stroke="#00f3ff" stroke-width="6" fill="none"/>
   <circle cx="350" cy="350" r="60" stroke="#ff00e5" stroke-width="6" fill="none"/>
 
-  <!-- 복잡한 베지어 곡선을 활용한 펠리컨의 실루엣 (생략됨) -->
-  <path d="M220 200 C..." fill="#ffffff" stroke="#00f3ff" stroke-width="3"/>
-  <!-- 완벽하게 렌더링되는 수백 줄의 전문가급 벡터 코드가 오류 없이 출력됨 -->
-</svg>
+    <path d="M220 200 C..." fill="#ffffff" stroke="#00f3ff" stroke-width="3"/>
+  </svg>
 ```
 
 _(결과물을 브라우저에서 열면 놀라울 정도로 정교하고 기발한 사이버펑크 스타일의 일러스트를 확인할 수 있습니다.)_

@@ -42,7 +42,7 @@ La gestión de la bandeja de entrada es una de las tareas que más tiempo consum
 > **Rol:** Eres un `[Asistente Ejecutivo Experto]`.
 > **Tarea:** Lee los siguientes `[Correos Electrónicos]` y clasifícalos por prioridad. Luego, redacta una breve respuesta de cortesía para cada uno.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Profesional)
 

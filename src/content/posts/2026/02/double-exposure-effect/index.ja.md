@@ -42,7 +42,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Effect", "Surrealism"]
 > **役割:** あなたはプロのデジタルアーティストです。
 > **リクエスト:** `[人物の横顔のシルエット]` と `[星降る夜の森]` を組み合わせた、神秘的で夢幻的な二重露出（Double Exposure）の画像を生成してください。背景は白にしてください。
 
-<br>
+\
 
 ### 🥇 Pro Version (専門家形)
 

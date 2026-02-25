@@ -42,7 +42,7 @@ Verwenden Sie diesen Prompt, wenn Sie sofort eine kurze Geschichte für den Allt
 > **Rolle:** Du bist ein freundlicher Mikrobiologe und ein fesselnder Geschichtenerzähler für Kinder.
 > **Aufgabe:** Erfinde eine kurze, spannende Geschichte, die ein Kind wissenschaftlich und spielerisch davon überzeugt, sich sofort und ohne Nörgeln die Hände zu waschen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Prompt)
 
@@ -97,7 +97,7 @@ Dieser Prompt ist ein echter Gamechanger für Eltern, die es leid sind, jeden Ab
 
 ### ❌ Before (Einfache Eingabe)
 
-> Erkläre einem Kind, warum es sich die Hände waschen muss.
+Erkläre einem Kind, warum es sich die Hände waschen muss.
 
 **Ergebnis der KI (langweilig & belehrend):**
 Du musst dir die Hände waschen, weil sich darauf Bakterien und Viren befinden, die man mit bloßem Auge nicht sehen kann. Wenn du diese Mikroorganismen mit dem Essen aufnimmst, kannst du krank werden und Fieber bekommen. Deshalb ist Hygiene wichtig.

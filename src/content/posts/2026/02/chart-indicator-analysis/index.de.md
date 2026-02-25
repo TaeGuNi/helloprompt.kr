@@ -42,7 +42,7 @@ Verwenden Sie diese Variante, wenn Sie sofort ein schnelles Ergebnis benötigen.
 > **Rolle:** Du bist ein erfahrener `[Technischer Trader]` mit 15 Jahren Expertise an der Wall Street.
 > **Aufgabe:** Interpretiere die aktuelle Situation für `[Aktienname]` und analysiere Chart-Indikatoren wie RSI, MACD und Bollinger Bänder einfach und verständlich.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

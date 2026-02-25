@@ -42,7 +42,7 @@ Utilizza questa versione quando hai bisogno di idee rapide per il menù.
 > **Ruolo:** Sei uno chef creativo.
 > **Compito:** Nel mio frigorifero ho `[2 uova, 1 fetta di pane in cassetta, pomodorini]`. Consigliami 3 menù per la colazione che posso preparare in 15 minuti con questi ingredienti.
 
-<br>
+\
 
 ### 🥇 Versione Pro
 
@@ -109,7 +109,7 @@ Questo prompt va ben oltre la semplice raccomandazione di ricette. Imponendo vin
 
 ### ❌ Prima (Domanda generica)
 
-> "A casa ho uova, pane in cassetta e pomodorini. Cosa posso preparare per colazione?"
+"A casa ho uova, pane in cassetta e pomodorini. Cosa posso preparare per colazione?"
 
 _(Risposta tipica dell'AI: Puoi preparare dei french toast o uova strapazzate. Sbatti le uova...)_ 👉 Manca di informazioni nutrizionali e il tempo di preparazione non è chiaro, rendendolo poco pratico per una mattina frenetica.
 

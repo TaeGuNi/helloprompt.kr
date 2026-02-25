@@ -44,7 +44,7 @@ Use isso quando quiser apenas verificar rapidamente a tendência geral atual (se
 > **Função:** Você é um analista objetivo de gráficos de ações.
 > **Tarefa:** Analise a tendência atual de curto e médio/longo prazo do gráfico de ações em anexo. Diga-me se está em tendência de alta, de baixa ou lateralizado, e aponte as faixas de preço das linhas de suporte e resistência mais evidentes.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Profissional)
 

@@ -41,9 +41,9 @@ Mensajes de Slack y bombardeo de correos electrónicos nada más llegar a la ofi
 
 > **Rol:** Eres un `[Asistente Ejecutivo Experto]`.
 > **Tarea:** Analiza la siguiente lista de tareas, ordénalas desde la más importante que debo hacer hoy mismo, y explica brevemente el porqué de cada una.
-> `[Pega aquí tu lista de tareas]`
+`[Pega aquí tu lista de tareas]`
 
-<br>
+\
 
 ### 🥇 Versión Pro
 

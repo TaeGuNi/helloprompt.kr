@@ -40,7 +40,7 @@ Use this when you need a quick, high-level SEO check for AI search.
 > **Role:** You are an AI Search SEO Expert.
 > **Task:** Analyze my `[Topic or Keyword]` and tell me how to optimize my content specifically for AI search engines like Google's AI Overview and SearchGPT.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

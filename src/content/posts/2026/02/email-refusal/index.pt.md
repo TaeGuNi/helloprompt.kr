@@ -44,7 +44,7 @@ Ideal para recusar rapidamente um convite para reunião ou quando as agendas sim
 > **Role (Papel):** Você é um `[Especialista em Comunicação Corporativa]`.
 > **Task (Tarefa):** Escreva o rascunho de um e-mail recusando educadamente uma `[proposta de parceria / cold e-mail]`. O motivo da recusa é `[falta de recursos internos no momento / orçamento anual esgotado]`.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Especialista)
 

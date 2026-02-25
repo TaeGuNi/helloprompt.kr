@@ -42,7 +42,7 @@ Verwenden Sie diese Version, wenn Sie schnell einschätzen möchten, ob Ihr aktu
 > **Rolle:** Du bist ein `[auf IT spezialisierter psychologischer Berater]`.
 > **Aufgabe:** "Ich habe in letzter Zeit absolut keine Lust mehr zu programmieren und fühle mich völlig antriebslos. Stelle mir 5 Schlüsselfragen, um zu diagnostizieren, ob das nur ein einfaches Tief oder ein echtes Burnout ist."
 
-<br>
+\
 
 ### 🥇 Pro Version (Detaillierte MBI-basierte Analyse)
 

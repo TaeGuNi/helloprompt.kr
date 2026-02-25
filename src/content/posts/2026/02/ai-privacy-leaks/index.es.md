@@ -41,7 +41,7 @@ Ya no hablamos solo de cookies o datos de ubicación. La "fusión de sensores" e
 > **Rol:** Eres un experto en ciberseguridad y privacidad IoT.
 > **Petición:** Analiza los riesgos de privacidad y fuga de datos del siguiente dispositivo: `[Nombre del dispositivo o sensor]`. Destaca especialmente cómo podría recolectar datos biométricos o de comportamiento para alimentar modelos de IA sin mi consentimiento explícito.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

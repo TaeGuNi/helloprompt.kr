@@ -44,7 +44,7 @@ tags: [Github, Documentation, OpenSource, Branding, AI]
 > **角色：** 你是一位 `[资深技术撰稿人 (Senior Technical Writer)]`。
 > **任务：** 请根据我项目的 `[文件结构]` 和 `[主要技术栈]`，编写一份格式清晰的 Markdown 版 README.md 草稿。
 
-<br>
+\
 
 ### 🥇 Pro Version (专业版)
 

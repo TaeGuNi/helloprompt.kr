@@ -40,11 +40,11 @@ tags: ["Cursor", "IDE", "코딩", "AI", "생산성"]
 Úsalo cuando necesites modificaciones instantáneas o código boilerplate en el archivo que estás editando actualmente.
 
 > **Atajo:** `Cmd + K` (Generar)
->
-> **Prompt:**
-> Refactoriza la función seleccionada actualmente a un enfoque asíncrono (`async/await`) y añade una lógica de manejo de errores detallada utilizando un bloque `try-catch`.
 
-<br>
+> **Prompt:**
+Refactoriza la función seleccionada actualmente a un enfoque asíncrono (`async/await`) y añade una lógica de manejo de errores detallada utilizando un bloque `try-catch`.
+
+\
 
 ### 🥇 Versión Pro (Refactorización Completa del Codebase)
 

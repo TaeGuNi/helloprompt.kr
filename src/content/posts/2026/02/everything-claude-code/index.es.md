@@ -41,13 +41,13 @@ Hoy te presentamos cómo aprovechar el repositorio **[`everything-claude-code`](
 Contrata a un agente senior directamente en tu terminal en solo 2 minutos.
 
 > **1. Instalación del plugin (Para Claude Code):**
-> `/plugin marketplace add affaan-m/everything-claude-code`
-> `/plugin install everything-claude-code@everything-claude-code`
->
-> **2. Ejecución del prompt de planificación:**
-> `/plan "Crea una página de lista de artículos de blog responsiva utilizando Next.js 14 App Router. Usaremos Tailwind CSS y shadcn/ui."`
+`/plugin marketplace add affaan-m/everything-claude-code`
+`/plugin install everything-claude-code@everything-claude-code`
 
-<br>
+> **2. Ejecución del prompt de planificación:**
+`/plan "Crea una página de lista de artículos de blog responsiva utilizando Next.js 14 App Router. Usaremos Tailwind CSS y shadcn/ui."`
+
+\
 
 ### 🥇 Versión Pro (TDD y reglas personalizadas)
 

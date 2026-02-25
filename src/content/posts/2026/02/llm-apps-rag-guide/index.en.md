@@ -5,9 +5,6 @@ date: 2026-02-13
 pubDate: 2026-02-13
 description: " \"Discover how to build powerful LLM applications and enterprise-grade RAG pipelines using the awesome-llm-apps collection.\""
 author: "Hello Prompt"
-image:
-  url: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2560&auto=format&fit=crop"
-  alt: "AI Neural Network"
 tags: ["LLM", "RAG", "AI", "Development", "Guide"]
 ---
 
@@ -46,7 +43,7 @@ Use this when you need a high-level architecture overview for a new LLM project.
 > **Role:** You are a Senior AI Architect.
 > **Task:** Design a basic RAG (Retrieval-Augmented Generation) pipeline for a `[Company Type]` company that wants to build a `[App Purpose]`. List the core technologies I need to use.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

@@ -44,7 +44,7 @@ Utilisez cette version lorsque vous avez juste besoin d'une astuce mnémotechniq
 > **Rôle :** Tu es un `[Génie Mnémotechnique]`.
 > **Demande :** Crée un moyen mnémotechnique amusant pour que je n'oublie jamais la formule `[Formule]`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 
@@ -100,7 +100,7 @@ Pourquoi s'acharner à répéter 100 fois une formule quand notre cerveau est li
 
 ### ❌ Before (Entrée)
 
-> Je veux mémoriser la formule quadratique : $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$
+Je veux mémoriser la formule quadratique : $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$
 
 ### ✅ After (Résultat)
 

@@ -41,7 +41,7 @@ Usate questa versione quando avete bisogno di trovare velocemente un buon locale
 
 > **Richiesta:** Consigliami solo 3 `[caffè]` con una fantastica `[vista mare]` vicino a `[Aewol-eup, Isola di Jeju]`. Per favore, cerca posti non troppo affollati e con parcheggio facile.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

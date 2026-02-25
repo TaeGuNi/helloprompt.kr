@@ -48,7 +48,7 @@ Perfect for when you already have the rulebook text or when playing a widely pop
 > 2. Summarize the actions I can take on my Turn in sequential order.
 > 3. Point out the top 3 most common rule mistakes (misplays/edge cases) people make during their first playthrough.
 
-<br>
+\
 
 ### 🥇 Pro Version {#pdf}
 

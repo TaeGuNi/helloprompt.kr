@@ -42,7 +42,7 @@ Verwenden Sie diesen Prompt, wenn Sie sofortige Ergebnisse ohne viele Details be
 > **Rolle:** Du bist ein erfahrener `[Finanzcoach]`, der auf minimalistisches Budgetmanagement spezialisiert ist.
 > **Aufgabe:** Wende die 50/30/20-Regel auf mein monatliches Nettoeinkommen von `[Betrag einfügen]` an und zeige mir die Aufteilung.
 
-<br>
+\
 
 ### 🥇 Pro-Version (Für detaillierte Finanzplanung)
 
@@ -118,7 +118,7 @@ Berechne die 50 30 20 Regel für 2.500 Euro.
 | :--- | :--- | :--- | :--- |
 | **Bedürfnisse (Needs)** | 50 % | **1.250 €** | Warmmiete, Strom, Lebensmittel, Internet/Mobilfunk, Versicherungen, Pendelkosten |
 | **Wünsche (Wants)** | 30 % | **750 €** | Restaurantbesuche, Hobbys, Urlaubskasse, Netflix/Spotify, Shopping |
-| **Ersparnisse (Savings)** | 20 % | **500 €** | **Prio 1:** Notgroschen aufbauen (3-6 Monatsausgaben)<br>**Prio 2:** ETF-Sparplan, Schuldentilgung |
+| **Ersparnisse (Savings)** | 20 % | **500 €** | **Prio 1:** Notgroschen aufbauen (3-6 Monatsausgaben)\**Prio 2:** ETF-Sparplan, Schuldentilgung |
 
 **💡 Rat Ihres Finanzcoachs:**
 Da Sie in einer Stadt mit hohen Mietkosten leben, könnten die 1.250 € für "Bedürfnisse" schnell aufgebraucht sein. Wenn Ihre Miete allein 1.000 € beträgt, ist das 50/30/20-Modell zu starr.

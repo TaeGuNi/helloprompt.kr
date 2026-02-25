@@ -43,7 +43,7 @@ Hoy revelaremos el prompt para construir un flujo de trabajo de **'Self-Updating
 > **Rol:** Eres un Technical Writer Senior.
 > **Tarea:** Revisa el contenido del siguiente `[Git Diff]` que acabo de modificar. Encuentra las partes que necesitan ser actualizadas en el `[README.md]` y reescríbelas en formato Markdown. Ignora cualquier cambio relacionado con simples errores tipográficos o refactorización de código.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 
@@ -61,7 +61,7 @@ Un prompt sofisticado diseñado para integrarse en tu pipeline CI/CD (como GitHu
 > 1. Analiza y compara exhaustivamente el `[Git Diff]` proporcionado con el contenido completo del `[Target Document]`.
 > 2. Determina si este cambio en el código afecta el proceso de *onboarding* de los usuarios o la configuración del entorno para otros desarrolladores y, por lo tanto, requiere una actualización de la documentación. (Ignora estrictamente las refactorizaciones simples, cambios de nombres de variables o correcciones tipográficas).
 > 3. Si determinas que se necesita una actualización, reescribe todo el documento modificado en formato Markdown, manteniendo perfectamente el tono y estilo (Tone & Manner) del documento original.
-> 4. En la parte inferior del documento, añade un comentario oculto con este formato: `<!-- Razón del cambio: Breve explicación de por qué modificaste esta sección -->`.
+> 4. En la parte inferior del documento, añade un comentario oculto con este formato: ``.
 > 5. Si es un *commit* simple que no requiere actualizar la documentación, imprime EXCLUSIVAMENTE el texto `[NO_UPDATE_REQUIRED]`.
 >
 > **Restricciones (Constraints):**
@@ -89,7 +89,7 @@ Al aplicar este prompt en el repositorio backend de nuestra empresa, lo más imp
 - **P: La IA intenta documentar constantemente las notas personales o los TODOs de los desarrolladores. ¿Cómo lo evito?**
   - R: Este es un problema derivado de que la IA es "demasiado diligente". Por eso es crucial la instrucción en la sección de **Restricciones (Constraints)**: `- Nunca incluyas código incompleto o comentado (como TODOs o FIXMEs) en la documentación.` Esta simple línea soluciona el problema de raíz.
 
-- **P: ¿Funcionará igual de bien si uso Gemini 1.5 Pro o GPT-4o?**
+- **P: ¿Funcionará igual de bien si uso Gemini 2.5 Pro o GPT-4o?**
   - R: Técnicamente funcionará. Pero cuando se trata de inyectar "todo el documento + todo el archivo de código", Gemini 3 Pro tiene una ventaja abrumadora en términos de límite de tokens y costos de *Context Caching*. Si es un proyecto pequeño, también obtendrás excelentes resultados con GPT-4o.
 
 ---
@@ -98,7 +98,7 @@ Al aplicar este prompt en el repositorio backend de nuestra empresa, lo más imp
 
 1. **Lógica de Derivación (Bypass Logic):** Al forzar a la IA a devolver `[NO_UPDATE_REQUIRED]` para *commits* que no necesitan documentación, bloqueamos de raíz la generación infinita de PRs innecesarios.
 2. **Mantenimiento del Tono (Tone & Manner):** Añadimos la instrucción explícita de "mantener el tono y estilo original" para evitar que la IA sobrescriba el documento con su típico estilo robótico y rígido.
-3. **Explicación Oculta (Hidden Explanation):** Al usar comentarios HTML (`<!-- -->`) para dejar el motivo de la modificación, facilitamos enormemente al revisor la validación rápida del proceso de razonamiento de la IA al aprobar el PR.
+3. **Explicación Oculta (Hidden Explanation):** Al usar comentarios HTML (``) para dejar el motivo de la modificación, facilitamos enormemente al revisor la validación rápida del proceso de razonamiento de la IA al aprobar el PR.
 
 ---
 
@@ -130,7 +130,7 @@ DB_USER=root
 REDIS_URL=redis://localhost:6379
 ```
 
-<!-- Razón del cambio: Se ha añadido lógica de caché de Redis en el archivo src/cache/connection.ts, por lo que se ha reflejado la variable de entorno REDIS_URL necesaria en la guía de inicio. -->
+
 ````
 
 ---

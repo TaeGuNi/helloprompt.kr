@@ -44,7 +44,7 @@ Utilisez cette version pour obtenir rapidement l'essence de votre rêve pendant 
 > **Rôle :** Tu es un psychanalyste spécialisé dans l'interprétation des rêves.
 > **Tâche :** Analyse le `[Contenu du rêve]` que j'ai fait cette nuit d'un point de vue psychologique. Identifie la signification des symboles principaux et déduis-en le lien potentiel avec mon état psychologique actuel.
 
-<br>
+\
 
 ### 🥇 Version Pro
 

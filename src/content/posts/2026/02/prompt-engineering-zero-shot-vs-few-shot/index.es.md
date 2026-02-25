@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "prompt-engineering-zero-shot-vs-few-shot"]
 
 - **🎯 Recomendado para:** Desarrolladores, Ingenieros de Prompts, Product Managers
 - **⏱️ Tiempo de ahorro:** De horas de depuración de alucinaciones → Resultados predecibles al instante
-- **🤖 Modelos recomendados:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modelos recomendados:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Dificultad:** ⭐⭐⭐☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -41,14 +41,14 @@ A continuación, te mostramos cómo transformar un prompt inestable (Zero-Shot) 
 Úsalo solo para consultas rápidas o cuando el formato de salida no rompa tu sistema.
 
 > **Rol:** Eres un `[Analista de Datos]`.
->
+
 > **Tarea:** Clasifica el sentimiento del siguiente texto.
->
+
 > **Texto:** `[El servicio fue lento, pero la comida excelente.]`
->
+
 > **Restricciones:** Responde solo con Positivo, Negativo o Neutral.
 
-<br>
+\
 
 ### 🥇 Few-Shot Version (El enfoque profesional)
 

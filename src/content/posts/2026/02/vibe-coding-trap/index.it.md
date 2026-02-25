@@ -64,7 +64,7 @@ Utilizza questo prompt quando desideri una revisione del codice o di un'idea che
 > [Inserisci qui lo snippet di codice da revisionare]
 > ```
 
-<br>
+\
 
 ### 🥇 Pro Version (Prompt per l'Inquisitore Architetturale)
 
@@ -125,7 +125,7 @@ Recentemente anch'io ho ceduto al fascino del "Vibe Coding" per creare un piccol
 
 ### ❌ Prima (Il disastro del Vibe Coding)
 
-> "Scrivimi un componente React per recuperare e filtrare una lista di utenti."
+"Scrivimi un componente React per recuperare e filtrare una lista di utenti."
 
 *(Risultato: Codice copiato e incollato alla cieca, senza sapere come viene gestito lo stato o se ci sono problemi di re-rendering. Conseguenza: memory leak inspiegabili in produzione).*
 

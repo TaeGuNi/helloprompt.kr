@@ -57,7 +57,7 @@ Para sacar el 100% de herramientas como Cursor o Windsurf, necesitas dejar de pe
 > **Rol:** Eres un desarrollador Frontend Senior.
 > **Tarea:** Refactoriza este componente React para usar TailwindCSS en lugar de CSS puro. Asegúrate de mantener la accesibilidad (Aria tags).
 
-<br>
+\
 
 ### 🥇 Pro Version (El Prompt Arquitectónico)
 

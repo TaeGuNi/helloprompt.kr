@@ -46,7 +46,7 @@ Nutzen Sie diese Version, wenn Sie schnell einen brauchbaren, fotorealistischen 
 > **Rolle:** Du bist ein professioneller Werbefotograf und ein Experte für Midjourney v7 Prompts.
 > **Aufgabe:** Erstelle mir basierend auf dem Thema `[Dein Thema/Motiv]` einen einzeiligen englischen Prompt für Midjourney v7, der ein absolut fotorealistisches Bild erzeugt.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

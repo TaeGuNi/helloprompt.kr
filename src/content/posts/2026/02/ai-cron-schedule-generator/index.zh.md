@@ -13,7 +13,7 @@ tags: [Linux, Cron, Automation, Server, AI]
 
 - **🎯 推荐人群：** 后端开发者、DevOps 工程师、服务器管理员
 - **⏱️ 预计耗时：** 10 分钟 → 缩短至 30 秒
-- **🤖 推荐模型：** ChatGPT, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 推荐模型：** ChatGPT, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **难度：** ⭐☆☆☆☆
 - ⚡️ **效果：** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Cron 表达式是服务器自动化的核心，但它晦涩难懂且极易出错
 > **角色 (Role)：** 你是一名 `[DevOps 工程师]`。
 > **任务 (Task)：** 请帮我把 `[每个月最后一周的星期五晚上 11 点]` 转换成 Linux Crontab 表达式，并附带执行时间的通俗解释。
 
-<br>
+\
 
 ### 🥇 Pro Version (专业版)
 

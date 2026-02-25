@@ -13,7 +13,7 @@ tags: ["가드닝", "식집사", "반려식물", "플랜테리어"]
 
 - **🎯 Recommandé pour :** Les "tueurs de plantes" en série, les débutants en décoration végétale, et les citadins qui rêvent d'un potager sur leur balcon.
 - **⏱️ Temps requis :** 5 minutes (pour l'analyse de l'environnement et le diagnostic)
-- **🤖 Modèle recommandé :** GPT-4o, Gemini 1.5 Pro (Un modèle de vision est indispensable pour détecter les changements subtils sur les photos des plantes)
+- **🤖 Modèle recommandé :** GPT-4o, Gemini 2.5 Pro (Un modèle de vision est indispensable pour détecter les changements subtils sur les photos des plantes)
 
 - ⭐ **Difficulté :** ⭐☆☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -54,7 +54,7 @@ Utilisez ce prompt lorsque vous cherchez la plante parfaite qui s'adaptera à vo
 > **Format de sortie :**
 > Inclus pour chaque plante : la "Raison de la recommandation", la "Signification de la plante", le "Niveau de difficulté d'arrosage" et des "Conseils de décoration d'intérieur".
 
-<br>
+\
 
 ### 🥇 Pro Version (Diagnostic d'urgence & Solution de récupération)
 

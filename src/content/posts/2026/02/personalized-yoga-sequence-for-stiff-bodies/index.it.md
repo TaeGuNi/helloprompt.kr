@@ -13,7 +13,7 @@ tags: ["Yoga", "Stretching", "Flessibilità", "Allenamento a Casa", "ChatGPT"]
 
 - **🎯 Consigliato per:** Impiegati, principianti assoluti dello yoga, chiunque abbia una mobilità ridotta.
 - **⏱️ Tempo richiesto:** 15 minuti al giorno.
-- **🤖 Modello consigliato:** ChatGPT, Claude 3.5 Sonnet, Gemini 1.5 Pro.
+- **🤖 Modello consigliato:** ChatGPT, Claude 3.5 Sonnet, Gemini 2.5 Pro.
 
 - ⭐ **Difficoltà:** ⭐⭐☆☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Ideale quando hai poco tempo e vuoi subito una routine semplice.
 > **Ruolo:** Sei un istruttore di yoga esperto in terapia riabilitativa. Sei bravissimo a creare sequenze dolci e accessibili per chi ha un corpo molto rigido.
 > **Richiesta:** Crea una sequenza di yoga di 10 minuti per principianti assoluti per sciogliere le spalle e il collo. Non usare termini complessi in sanscrito senza spiegarli.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 
@@ -106,7 +106,7 @@ Il vero potere di questo prompt risiede nella sezione **Context**. Inserendo esa
 
 ### ❌ Prima (Input generico)
 
-> "Consigliami degli esercizi di yoga per sciogliermi."
+"Consigliami degli esercizi di yoga per sciogliermi."
 
 _(Risultato: L'IA consiglia posizioni complesse come il Corvo o piegamenti all'indietro estremi, senza alternative, aumentando il rischio di infortuni per un principiante rigido.)_
 

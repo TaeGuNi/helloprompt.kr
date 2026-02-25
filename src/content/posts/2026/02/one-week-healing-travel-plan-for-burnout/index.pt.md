@@ -42,7 +42,7 @@ Use este prompt quando precisar de ideias rápidas para desacelerar.
 > **Papel:** Você é um 'Curador de Viagens de Bem-Estar' especializado em descanso e recuperação de burnout.
 > **Pedido:** Crie um roteiro de 7 dias focado em 'Slow Travel' para relaxamento profundo, evitando pontos turísticos lotados.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert Version)
 

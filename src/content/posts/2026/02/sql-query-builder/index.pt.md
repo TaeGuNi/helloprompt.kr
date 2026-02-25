@@ -42,7 +42,7 @@ Use esta versão quando precisar de consultas simples e diretas em bancos de dad
 > **Função:** Você é um Engenheiro de Dados Sênior.
 > **Tarefa:** Escreva uma consulta SQL para resolver o seguinte problema: `[Descreva o que você quer buscar, ex: Mostrar o total de vendas por mês no ano de 2025]`. Use o dialeto `[Dialeto SQL, ex: PostgreSQL, MySQL, BigQuery]`.
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 

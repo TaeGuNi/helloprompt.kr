@@ -49,7 +49,7 @@ Nutzen Sie diese Variante, wenn Sie ohne komplexe Einstellungen schnell einen er
 > **Rolle:** Du bist ein `[Experte für Produktivität und Zeitmanagement]`.
 > **Aufgabe:** Meine Aufwachzeit ist `[06:00 Uhr]` und ich habe `[1 Stunde und 30 Minuten]` Zeit, bevor ich zur Arbeit muss. Meine morgendlichen Ziele sind `[Dehnen, 10 Seiten lesen, ein leichtes Frühstück]`. Erstelle einen realistischen und effizienten Zeitplan für meine Morgenroutine, um diese Ziele zu erreichen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

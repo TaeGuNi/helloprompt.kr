@@ -42,7 +42,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Print"]
 > **角色:** 你是一位资深的复古印刷版画艺术家。
 > **请求:** 请为我生成一张带有孔版印刷 (Risograph) 风格的图像。请确保画面具有明显的网点图案、颗粒感以及轻微的色彩错位效果。
 
-<br>
+\
 
 ### 🥇 Pro Version (专家版)
 

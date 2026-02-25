@@ -43,7 +43,7 @@ Use this when you quickly need a single outfit recommendation for tomorrow.
 > **My Closet:** Navy suit, black slacks, white dress shirt, beige knit sweater, black dress shoes.
 > **Task:** Recommend exactly one guest outfit combination that looks sophisticated and clean without being too flashy. Also, advise me on whether I should wear a tie.
 
-<br>
+\
 
 ### 🥇 Pro Version (Capsule Wardrobe)
 

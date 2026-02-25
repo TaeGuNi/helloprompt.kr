@@ -43,7 +43,7 @@ Ideale per avere subito un'idea generale di viaggio senza troppi dettagli.
 > **Ruolo:** Sei un "Curatore di Viaggi Benessere" specializzato in riposo e guarigione dallo stress.
 > **Richiesta:** Smetti di propormi le classiche mete turistiche. Cremi un itinerario di una settimana all'insegna dello "Slow Travel" a `[Destinazione]` per un vero e profondo riposo.
 
-<br>
+\
 
 ### 🥇 Versione Esperto (Pro Version)
 

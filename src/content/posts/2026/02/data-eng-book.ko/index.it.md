@@ -38,7 +38,7 @@ Utilizza questo prompt quando hai bisogno di una bozza rapida per una pipeline d
 > **Ruolo:** Sei un Senior Data Engineer e l'autore del "The Data Engineering Book".
 > **Azione:** Consigliami un'architettura di pipeline open source per raccogliere dati da `[Origine dei Dati]` e caricarli in `[Destinazione]`.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Pro Version)
 
@@ -97,7 +97,7 @@ Questo prompt va ben oltre la semplice raccomandazione di strumenti software; si
 
 ### ❌ Prima (Input generico)
 
-> "Come creo una pipeline di dati per addestrare un'AI?"
+"Come creo una pipeline di dati per addestrare un'AI?"
 
 ### ✅ Dopo (Risultato del Prompt Pro)
 

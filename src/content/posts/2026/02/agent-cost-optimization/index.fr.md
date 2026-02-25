@@ -17,7 +17,7 @@ tags:
 
 - **🎯 Recommandé pour :** Développeurs d'agents IA autonomes, ingénieurs en optimisation des coûts, CTO de startups
 - **⏱️ Temps requis :** 10 minutes de modification de prompt → Des centaines de dollars économisés par mois
-- **🤖 Modèles recommandés :** Modèles facturés au token (GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro, etc.)
+- **🤖 Modèles recommandés :** Modèles facturés au token (GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro, etc.)
 
 - ⭐ **Difficulté :** ⭐⭐⭐☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -55,7 +55,7 @@ Idéal pour réduire la "taxe de blabla" (Fluff Tax) générée lors du processu
 > - Les formules de politesse du type "Voici votre analyse", ou "Je vais procéder à l'analyse" sont strictement interdites.
 > - Affiche uniquement le résultat de l'analyse et l'action demandée, rien d'autre.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

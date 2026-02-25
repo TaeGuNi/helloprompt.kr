@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "legacy-code-ai"]
 
 - **🎯 Target Audience:** Junior to Mid-level Developers, Tech Leads, Maintainers
 - **⏱️ Time Saved:** Days of manual code tracing → 5 minutes
-- **🤖 Recommended Model:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (Models with large context windows)
+- **🤖 Recommended Model:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (Models with large context windows)
 
 - ⭐ **Difficulty:** ⭐⭐⭐☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -39,7 +39,7 @@ Use this when you just need a quick, high-level summary of what a specific funct
 > **Role:** You are a Senior Staff Engineer.
 > **Task:** Explain what the following code does in plain English. `[Insert Code]`
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -78,7 +78,7 @@ Use this for deep architectural analysis, risk assessment, and step-by-step mode
 
 ## 💡 Writer's Insight
 
-This prompt is an absolute lifesaver when onboarding to an old, undocumented project. The most critical part of the Pro version is the **"Test Strategy"** request. You should _never_ refactor legacy code without tests. By asking the AI to first define the test cases based on its understanding of the legacy logic, you create a safety net before you even write a single line of modern code. I highly recommend using models with massive context windows (like Gemini 1.5 Pro or Claude 3.5 Sonnet) for this, as you can paste entire directories or multiple related files to give the AI a complete architectural picture.
+This prompt is an absolute lifesaver when onboarding to an old, undocumented project. The most critical part of the Pro version is the **"Test Strategy"** request. You should _never_ refactor legacy code without tests. By asking the AI to first define the test cases based on its understanding of the legacy logic, you create a safety net before you even write a single line of modern code. I highly recommend using models with massive context windows (like Gemini 2.5 Pro or Claude 3.5 Sonnet) for this, as you can paste entire directories or multiple related files to give the AI a complete architectural picture.
 
 ---
 

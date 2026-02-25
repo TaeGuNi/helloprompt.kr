@@ -42,7 +42,7 @@ Use esta versão quando precisar apenas de uma estrutura rápida sem muitas exig
 > **Papel:** Você é um `[Autor Best-seller e Treinador Profissional de Redação]`.
 > **Solicitação:** Estou com bloqueio criativo. Defina uma estrutura lógica (Introdução-Desenvolvimento-Conclusão) e sugira as ideias centrais de cada parágrafo para o tema: `[Insira seu tema aqui]`.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Especialista)
 
@@ -107,7 +107,7 @@ Sempre que me vejo travado em um artigo longo ou relatório denso, eu jogo minha
 
 ### ❌ Antes (Fluxo de Consciência Caótico)
 
-> "A IA é muito perigosa, mas também é muito conveniente e ajuda bastante. Será que os empregos vão diminuir? Talvez não todos. De qualquer forma, a gente precisa aprender a usar bem a IA para não ficar para trás." _(Argumentação fraca, sem direção clara e sem nenhum impacto)._
+"A IA é muito perigosa, mas também é muito conveniente e ajuda bastante. Será que os empregos vão diminuir? Talvez não todos. De qualquer forma, a gente precisa aprender a usar bem a IA para não ficar para trás." _(Argumentação fraca, sem direção clara e sem nenhum impacto)._
 
 ### ✅ Depois (Resultado do Prompt)
 

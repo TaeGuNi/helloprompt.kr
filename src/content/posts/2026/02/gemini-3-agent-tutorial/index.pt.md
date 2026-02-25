@@ -43,7 +43,7 @@ Ideal para testes rápidos e pesquisas simples.
 > **Função:** Você é um `[Agente de Pesquisa]`.
 > **Tarefa:** Realize uma pesquisa na web sobre `[Pergunta do Usuário]` e resuma os resultados com base em fatos reais e atualizados.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

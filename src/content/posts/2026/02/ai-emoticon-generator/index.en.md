@@ -44,7 +44,7 @@ Use this to establish the overall design, tone, and manner of your character.
 > **Appearance:** Yellow body, orange beak, green sprout on its head.
 > **Style:** 2D vector style, simple and thick outlines, solid white background.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

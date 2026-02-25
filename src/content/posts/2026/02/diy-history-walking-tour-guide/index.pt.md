@@ -42,7 +42,7 @@ Ideal para quando você precisa de um roteiro rápido e direto ao ponto.
 > **Papel:** Você é um 'Planejador de Passeios Narrativos' especializado em `[Nome da Cidade]`.
 > **Pedido:** Crie um roteiro de caminhada histórica pelo centro da cidade focado em `[Tema do seu interesse]`, incluindo 4 pontos principais e um local para descanso.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 
@@ -103,7 +103,7 @@ Além disso, a instrução para incluir os "nomes originais" e "endereços exato
 
 ### ❌ Antes (Entrada Simples)
 
-> "Me dê um roteiro de caminhada em Lisboa."
+"Me dê um roteiro de caminhada em Lisboa."
 
 _(Resultado genérico: A IA sugere a Praça do Comércio, a Torre de Belém e o Castelo de São Jorge — lugares distantes entre si, exigindo transporte público, sem um tema coeso e com descrições totalmente clichês.)_
 

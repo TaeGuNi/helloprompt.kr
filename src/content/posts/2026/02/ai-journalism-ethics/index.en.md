@@ -17,7 +17,7 @@ title: " \"AI Agents and Journalism Ethics: A New Debate\""
 
 - **🎯 Recommended for:** Journalists, Editors, Content Creators, Newsroom Managers
 - **⏱️ Time Saved:** 1 hour → 2 minutes
-- **🤖 Recommended AI:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 Recommended AI:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **Difficulty:** ⭐⭐⭐☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -46,7 +46,7 @@ Use this when you need a quick ethical scan of a generated news snippet.
 > **Role:** You are a strict Senior Editor and Fact-Checker.
 > **Task:** Review the following `[Article Draft]` for potential bias, hallucinations, and ethical violations. Point out any unverified claims.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

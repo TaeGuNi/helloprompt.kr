@@ -42,7 +42,7 @@ Nutzen Sie diese Variante, wenn Sie sofort eine grobe Struktur benötigen.
 > **Rolle:** Du bist ein erfahrener Lerncoach und Experte für Didaktik.
 > **Aufgabe:** Erstelle mir einen 3-wöchigen Lernplan für das Thema `[Thema]`. Ich bin Anfänger und habe täglich `[Zeit]` Minuten Zeit.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für tiefgehende Meisterschaft)
 

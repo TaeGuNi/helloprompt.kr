@@ -42,7 +42,7 @@ Use this when you need a quick, high-level overview of a competitor.
 > **Role:** You are a Senior Market Research Analyst.
 > **Request:** Analyze the core strengths, weaknesses, and key benchmarking points of `[Competitor Name]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

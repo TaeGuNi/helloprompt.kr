@@ -43,7 +43,7 @@ Ideal para quando você precisa de um texto rápido para as redes sociais sem mu
 > **Solicitação:** Transforme este rascunho de diário em um ensaio curto, literário e reflexivo.
 > **Meu Diário:** `[Insira seu texto aqui]`
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert Version)
 

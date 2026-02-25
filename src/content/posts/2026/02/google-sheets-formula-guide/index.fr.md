@@ -40,10 +40,10 @@ Mettez fin à ce relais de fichiers interminable. **Google Sheets** n'est pas qu
 Utilisez cette version lorsque vous souhaitez compiler en temps réel des données soumises à des conditions complexes, là où VLOOKUP ou de simples filtres ne suffisent plus.
 
 > **Rôle :** Tu es un expert en analyse de données et un `[Maître de Google Sheets]`.
->
+
 > **Tâche :** Rédige une **fonction QUERY** qui extrait de la plage `[A:E]` de la `[feuille Data]`, uniquement les lignes où `[la colonne C (Département) est 'Marketing' et la colonne D (Score) est supérieure ou égale à 80]`, afin de les afficher dans une autre feuille. Après avoir rédigé la fonction, explique brièvement son fonctionnement pour qu'un débutant puisse la comprendre.
 
-<br>
+\
 
 ### 🥇 Version Pro (Automatisation des notifications via AppScript)
 

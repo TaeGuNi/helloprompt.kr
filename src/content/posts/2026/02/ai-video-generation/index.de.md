@@ -44,7 +44,7 @@ Verwenden Sie diese grundlegende Beschreibung, wenn Sie eine Idee schnell visual
 > **Prompt:**
 > `A cinematic drone shot of a futuristic cyberpunk city at sunset, flying cars, neon lights, 4k resolution, photorealistic`
 
-<br>
+\
 
 ### 🥇 Pro Version (Profi-Version)
 

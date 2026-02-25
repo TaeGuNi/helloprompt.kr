@@ -38,7 +38,7 @@ El paradigma del desarrollo de juegos está cambiando radicalmente. En el pasado
 > **Rol:** Eres un `[desarrollador senior de videojuegos]`.
 > **Tarea:** Crea un juego de golf 2D basado en navegador usando `[HTML5 Canvas]`. Debe tener una bola y un hoyo, y la mecánica principal debe ser arrastrar y disparar (drag-to-shoot) usando el ratón.
 
-<br>
+\
 
 ### 🥇 Versión Pro
 

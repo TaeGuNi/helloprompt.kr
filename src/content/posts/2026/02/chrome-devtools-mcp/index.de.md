@@ -43,7 +43,7 @@ Nutzen Sie diesen simplen Prompt, wenn Sie einen offensichtlichen Fehler auf der
 > **Rolle:** Du bist ein Senior Frontend Developer.
 > **Aufgabe:** Verbinde dich über den Chrome DevTools MCP-Server mit meinem aktiven Tab (`[URL der lokalen App]`). Prüfe die Console auf Errors und sag mir, warum die Seite abstürzt.
 
-<br>
+\
 
 ### 🥇 Pro Version (Deep-Dive UI/UX Debugging)
 
@@ -75,7 +75,7 @@ Dieser Prompt zwingt die KI, methodisch vorzugehen: Erst Logs prüfen, dann das 
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 Dieser MCP-Server markiert einen Wendepunkt in der KI-gestützten Entwicklung. Bisher bestand unser Workflow aus stetigem Kontext-Wechsel: Browser öffnen, Fehler sehen, Error-Log kopieren, zur KI wechseln, Code pasten, Lösung probieren. Mit dem Chrome DevTools MCP-Server fällt dieser Flaschenhals weg.
 
@@ -83,7 +83,7 @@ Besonders beim Debuggen komplexer CSS-Grid-Layouts oder obskurer React-Hydration
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q: Funktioniert das auch mit anderen Browsern wie Firefox oder Safari?**
   - A: Aktuell ist dieser spezifische MCP-Server für Chromium-basierte Browser (Chrome, Edge, Brave) optimiert, da er das Chrome DevTools Protocol (CDP) nutzt.
@@ -96,14 +96,14 @@ Besonders beim Debuggen komplexer CSS-Grid-Layouts oder obskurer React-Hydration
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🧬 Why it works?
 
 1. **Live-Daten-Zwang:** Durch die Warnung ("Rate nicht blind") wird die KI gezwungen, ihre Annahmen mit harten Fakten aus dem DevTools-Protokoll zu verifizieren.
 2. **Methodische Reihenfolge:** Der Pro-Prompt gibt einen klaren Pfad vor (Logs -> DOM -> JS Execution). Das verhindert, dass die KI ziellos im DOM herumsucht und Tokens verschwendet.
 
 ---
 
-## 📊 증명: Before & After
+## 📊 Before & After
 
 ### ❌ Before (Ohne MCP-Server)
 
@@ -122,7 +122,7 @@ KI: "Ich habe mich verbunden. Die Console zeigt keine Fehler. Aber bei der DOM-I
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
 Der Chrome DevTools MCP-Server verwandelt Ihren KI-Agenten von einem reinen Textgenerator in einen vollwertigen, interaktiven Debugging-Partner. Wer diesen in seinen Workflow integriert, spart nicht nur Nerven, sondern löst Frontend-Bugs in Rekordzeit.
 

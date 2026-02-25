@@ -42,7 +42,7 @@ Use isto quando precisar de um plano rápido sem muitos detalhes.
 > **Papel:** Você é um cientista do sono e consultor de produtividade.
 > **Pedido:** Estou lutando contra um cansaço avassalador após o almoço. Ensine-me a técnica do 'Coffee Nap' para que eu possa descansar por exatamente 20 minutos e acordar com o máximo de energia.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert Version)
 

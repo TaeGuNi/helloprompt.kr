@@ -38,7 +38,7 @@ Idéal pour obtenir rapidement les grandes lignes d'un code de conduite interne.
 > **Rôle :** Tu es un `[Expert en Éthique de l'IA et Juriste d'Entreprise]`.
 > **Requête :** Rédige les `[5 règles fondamentales]` pour protéger les employés de notre entreprise contre l'usage abusif des deepfakes et de l'IA générative.
 
-<br>
+\
 
 ### 🥇 Version Pro (Le standard de l'industrie)
 

@@ -43,7 +43,7 @@ Use this when you need to quickly sort your priorities without complex configura
 > **Task:** Analyze the to-do list I provide below. Arrange the tasks in order of importance, starting from the ones I must tackle today, and briefly explain the reason for each priority.
 > `[Insert To-Do List Here]`
 
-<br>
+\
 
 ### 🥇 Pro Version
 

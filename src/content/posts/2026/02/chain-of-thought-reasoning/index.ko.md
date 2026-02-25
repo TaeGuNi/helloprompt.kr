@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "chain-of-thought-reasoning"]
 
 - **🎯 추천 대상:** 프롬프트 엔지니어, 기획자, 복잡한 데이터를 다루는 실무자
 - **⏱️ 소요 시간:** 10분 → 1분 단축 (오류 수정 및 디버깅 시간 대폭 감소)
-- **🤖 추천 모델:** GPT-4, Claude 3.5 Sonnet, Gemini 1.5 Pro 이상의 고성능 추론 모델
+- **🤖 추천 모델:** GPT-4, Claude 3.5 Sonnet, Gemini 2.5 Pro 이상의 고성능 추론 모델
 
 - ⭐ **난이도:** ⭐☆☆☆☆
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ tags: ["AI", "Tech", "chain-of-thought-reasoning"]
 >
 > **마법의 주문:** 정답을 바로 말하지 말고, **단계별로 차근차근 생각해 보자(Think step-by-step).**
 
-<br>
+\
 
 ### 🥇 Pro Version (퓨샷 CoT + 알고리즘적 구조화)
 

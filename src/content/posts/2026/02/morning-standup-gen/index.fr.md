@@ -43,7 +43,7 @@ Utilisez cette version lorsque vous êtes vraiment pressé et que vous avez just
 > **Tâche :** Résume les tâches suivantes pour mon daily stand-up en utilisant le format : 1. Ce que j'ai fait hier, 2. Ce que je fais aujourd'hui, 3. Points de blocage.
 > **Données :** `[Collez vos messages de commit ou vos notes en vrac ici]`
 
-<br>
+\
 
 ### 🥇 Version Pro
 

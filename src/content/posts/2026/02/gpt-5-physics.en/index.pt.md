@@ -40,7 +40,7 @@ Use esta versão para extrair rapidamente a estrutura lógica central de um conc
 > **Função:** Você é um `[Analista de Dados / Físico Teórico]` com uma visão analítica aguçada.
 > **Tarefa:** Analise a lógica central do seguinte `[documento/teoria]` passo a passo e encontre quaisquer contradições com os paradigmas existentes.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Avançada)
 

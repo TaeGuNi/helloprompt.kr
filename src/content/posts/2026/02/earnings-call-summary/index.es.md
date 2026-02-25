@@ -43,7 +43,7 @@ Las llamadas de ganancias (Earnings Calls) de las empresas estadounidenses son e
 > **Rol:** Eres un analista financiero experto de Wall Street.
 > **Solicitud:** Resume los puntos más importantes de esta transcripción de la llamada de ganancias, que es demasiado larga y compleja. Destaca si superaron las expectativas y cuál es su perspectiva para el futuro.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -87,10 +87,10 @@ Este prompt es una herramienta indispensable durante la temporada de presentaci�
   - A: Plataformas financieras como _Seeking Alpha_, _Yahoo Finance_ o _The Motley Fool_ suelen publicar las transcripciones completas ("Earnings Call Transcripts") de forma gratuita pocas horas después del evento. También puedes encontrarlas en la sección de "Relación con Inversores" (Investor Relations) de la propia empresa.
 
 - **Q: La transcripción es demasiado larga y la IA me da un error de límite de texto. ¿Qué hago?**
-  - A: Si utilizas versiones gratuitas con límites estrictos, divide la transcripción en dos partes: primero analiza el discurso introductorio de la directiva y luego procesa la sesión de Q&A. Alternativamente, te recomiendo usar Claude 3.5 Sonnet o Gemini 1.5 Pro, que manejan volúmenes masivos de texto sin problemas.
+  - A: Si utilizas versiones gratuitas con límites estrictos, divide la transcripción en dos partes: primero analiza el discurso introductorio de la directiva y luego procesa la sesión de Q&A. Alternativamente, te recomiendo usar Claude 3.5 Sonnet o Gemini 2.5 Pro, que manejan volúmenes masivos de texto sin problemas.
 
 - **Q: ¿Puede la IA analizar el tono de voz real si le subo el archivo de audio?**
-  - A: Sí, modelos avanzados como GPT-4o o Gemini 1.5 Pro pueden procesar archivos de audio directamente. Aunque este prompt está diseñado para texto, puedes subir el audio de la conferencia y pedirle a la IA que, además del contenido, evalúe el nerviosismo o la confianza en el tono de voz de los ponentes.
+  - A: Sí, modelos avanzados como GPT-4o o Gemini 2.5 Pro pueden procesar archivos de audio directamente. Aunque este prompt está diseñado para texto, puedes subir el audio de la conferencia y pedirle a la IA que, además del contenido, evalúe el nerviosismo o la confianza en el tono de voz de los ponentes.
 
 ---
 

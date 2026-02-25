@@ -44,7 +44,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Landscape"]
 > **역할:** 너는 전문 이미지 프롬프트 엔지니어야.
 > **요청:** `[미래형 친환경 해상 도시]`를 하늘에서 넓게 내려다보는 드론 시점(Aerial drone shot)의 고화질 이미지 생성용 영문 프롬프트를 쉼표로 구분하여 작성해줘.
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 

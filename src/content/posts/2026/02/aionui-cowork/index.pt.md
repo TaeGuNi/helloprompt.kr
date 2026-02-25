@@ -44,7 +44,7 @@ Use esta versão para delegar rapidamente uma tarefa direta e monitorar os resul
 > **Função:** Você é um `[Desenvolvedor Sênior]`.
 > **Tarefa:** Resolva a `[funcionalidade/bug específico]` do nosso projeto atual. Antes de iniciar qualquer modificação, faça um briefing obrigatório detalhando exatamente quais arquivos você planeja alterar. Após a aprovação, imprima as alterações passo a passo para que eu possa validá-las facilmente no AionUi.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Especialista)
 
@@ -107,7 +107,7 @@ Ao aplicar este prompt, você está **forçando a IA a planejar em voz alta e ex
 ### ❌ Antes (Ambiente CLI Cego)
 
 ```text
-> Iniciando agente autônomo...
+Iniciando agente autônomo...
 [Log] Lendo contexto: src/utils/api.ts
 [Log] Escrevendo no sistema de arquivos...
 [Log] Tarefa concluída com sucesso. (Mas espere, o que exatamente ele destruiu ou consertou...?)

@@ -40,10 +40,10 @@ Le sommeil est le pilier d'une bonne santé, mais le mode de vie moderne (caféi
 Utilisez ce prompt lorsque vous souhaitez un diagnostic rapide et des conseils généraux.
 
 > **Rôle :** Tu es un somnologue expert et psychologue comportemental.
->
+
 > **Demande :** J'ai du mal à dormir ces derniers temps. Voici ma journée type : `[décrivez brièvement votre journée, par ex : café à 16h, écrans jusqu'à minuit]`. Analyse ce qui ne va pas et propose-moi 3 règles strictes pour mieux dormir.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

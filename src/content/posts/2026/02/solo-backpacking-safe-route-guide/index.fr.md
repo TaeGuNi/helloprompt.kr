@@ -42,7 +42,7 @@ Idéal pour obtenir une trame rapide et des idées générales.
 > **Rôle :** Tu es un "Voyageur Solo Expert" avec une vaste expérience des voyages en sac à dos à travers le monde.
 > **Requête :** Crée-moi un itinéraire de voyage en solo sur mesure, en optimisant la sécurité, le budget et les opportunités de rencontres.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

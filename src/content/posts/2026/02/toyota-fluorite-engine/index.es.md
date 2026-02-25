@@ -42,7 +42,7 @@ Usa esta versión si solo necesitas un resumen rápido de las capacidades de est
 > **Rol:** Eres un `[Ingeniero de Software Senior]`.
 > **Tarea:** Explícame de forma sencilla qué es el motor de juegos `[Toyota Fluorite]` en Flutter y enumera 3 ejemplos prácticos de cómo podría beneficiar a la industria del desarrollo de apps.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Profesional)
 

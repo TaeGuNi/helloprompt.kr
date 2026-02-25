@@ -40,18 +40,18 @@ L'algorithme de Google ne se contente pas d'évaluer si « le texte est bon ». 
 Utilisez cette version lorsque vous souhaitez augmenter vos chances d'apparaître dans les résultats de recherche et maximiser le taux de clics (CTR) d'un article déjà rédigé.
 
 > **Rôle :** Tu es un Content Marketer SEO Senior avec 10 ans d'expérience.
->
-> **Tâche :** Analyse le `[Texte de mon article]` fourni ci-dessous et propose 3 versions optimisées pour la **Balise Titre (Title Tag, moins de 60 caractères)** et la **Méta-description (Meta Description, moins de 160 caractères)** afin d'inciter au clic dans les résultats de recherche Google.
->
-> **Contraintes :**
->
-> 1. Intégrer naturellement le `[Mot-clé cible]` dès le début de la balise titre.
-> 2. Inclure une accroche (Hook) qui suscite la curiosité du lecteur et laisse entrevoir la solution à son problème.
->
-> **Texte de mon article :**
-> `[Collez l'intégralité de votre article ici]`
 
-<br>
+> **Tâche :** Analyse le `[Texte de mon article]` fourni ci-dessous et propose 3 versions optimisées pour la **Balise Titre (Title Tag, moins de 60 caractères)** et la **Méta-description (Meta Description, moins de 160 caractères)** afin d'inciter au clic dans les résultats de recherche Google.
+
+> **Contraintes :**
+
+1. Intégrer naturellement le `[Mot-clé cible]` dès le début de la balise titre.
+2. Inclure une accroche (Hook) qui suscite la curiosité du lecteur et laisse entrevoir la solution à son problème.
+
+> **Texte de mon article :**
+`[Collez l'intégralité de votre article ici]`
+
+\
 
 ### 🥇 Version Pro (Conception de l'architecture SEO parfaite)
 

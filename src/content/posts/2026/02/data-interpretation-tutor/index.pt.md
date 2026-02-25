@@ -14,7 +14,7 @@ tags:
 
 - **🎯 Recomendado para:** Analistas, Profissionais de Marketing, Estudantes e Gestores
 - **⏱️ Tempo de execução:** 5 minutos → Reduzido para 1 minuto
-- **🤖 Modelo recomendado:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro (Modelos com boa visão computacional)
+- **🤖 Modelo recomendado:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro (Modelos com boa visão computacional)
 
 - ⭐ **Dificuldade:** ⭐⭐☆☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -43,7 +43,7 @@ Use esta versão quando precisar apenas de um resumo rápido e direto ao ponto.
 > **Papel:** Você é um `[Analista de Dados Sênior]`.
 > **Ação:** Analise a imagem fornecida (gráfico/tabela), extraia os 3 principais insights e aponte qualquer anomalia ou distorção nos dados.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert)
 
@@ -85,7 +85,7 @@ No mundo corporativo, muitos gráficos são intencionalmente manipulados (como c
 ## 🙋 Perguntas Frequentes (FAQ)
 
 - **Q: Qual IA é a melhor para ler gráficos?**
-  - A: Atualmente, o Claude 3.5 Sonnet e o ChatGPT (GPT-4o) possuem as melhores capacidades de visão computacional para ler planilhas e gráficos complexos. O Gemini 1.5 Pro também faz um excelente trabalho com grandes volumes de dados visuais.
+  - A: Atualmente, o Claude 3.5 Sonnet e o ChatGPT (GPT-4o) possuem as melhores capacidades de visão computacional para ler planilhas e gráficos complexos. O Gemini 2.5 Pro também faz um excelente trabalho com grandes volumes de dados visuais.
 
 - **Q: Posso enviar uma planilha em PDF ou Excel em vez de imagem?**
   - A: Sim! No ChatGPT e no Claude, você pode anexar o arquivo `.xlsx` ou `.pdf` diretamente. Nesses casos, basta adaptar a instrução inicial removendo a menção à "imagem" e referenciando o "arquivo em anexo".

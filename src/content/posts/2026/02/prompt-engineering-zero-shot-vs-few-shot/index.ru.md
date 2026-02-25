@@ -44,7 +44,7 @@ tags: ["AI", "Tech", "prompt-engineering-zero-shot-vs-few-shot"]
 >
 > **Ограничение:** Выведи только одно слово: Позитивный, Негативный или Нейтральный.
 
-<br>
+\
 
 ### 🥇 Pro Version (Few Shot — Профессиональный)
 

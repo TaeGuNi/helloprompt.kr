@@ -45,7 +45,7 @@ tags: ["Generative UI", "React", "AI", "Tambo SDK", "Frontend"]
 > **役割:** あなたはユーザーの要望に合わせて最適なUIコンポーネントを提供するAIアシスタントです。
 > **指示:** ユーザーが特定の場所や観光地について尋ねた場合は、必ず `showPlace` ツール（UIコンポーネント）を呼び出して応答してください。
 
-<br>
+\
 
 ### 🥇 Pro Version (実践向けシステムプロンプト)
 
@@ -74,7 +74,7 @@ tags: ["Generative UI", "React", "AI", "Tambo SDK", "Frontend"]
 >
 > - 存在しない架空の場所や、不正確な評価を生成しないこと（ハルシネーションの防止）。
 
-<br>
+\
 
 #### 💻 実装ステップ: Tambo SDKとAIの連携
 

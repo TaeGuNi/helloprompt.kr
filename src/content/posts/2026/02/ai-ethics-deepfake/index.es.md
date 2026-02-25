@@ -38,32 +38,32 @@ La adopción de tecnologías generativas ha aumentado exponencialmente. Lo que a
 > **El Problema:** Generación instantánea de imágenes, videos y voces sin consentimiento.
 > **El Impacto:** Robo de identidad, fraude financiero, desinformación política y daño psicológico severo a gran escala.
 
-<br>
+\
 
 ### 🥇 El marco regulatorio necesario (Perspectiva experta)
 
 Para abordar este problema estructural, necesitamos un enfoque que combine tecnología de procedencia, legislación punitiva y educación ciudadana.
 
 > **Rol (Role):** Eres un legislador experto en ética tecnológica y derechos humanos digitales.
->
+
 > **Contexto (Context):**
->
-> - Antecedentes: El uso malintencionado de IA generativa para crear material deepfake no consensuado está desestabilizando la confianza pública y arruinando reputaciones.
-> - Objetivo: Diseñar un marco de políticas de tolerancia cero y herramientas de protección proactiva para los ciudadanos.
->
+
+- Antecedentes: El uso malintencionado de IA generativa para crear material deepfake no consensuado está desestabilizando la confianza pública y arruinando reputaciones.
+- Objetivo: Diseñar un marco de políticas de tolerancia cero y herramientas de protección proactiva para los ciudadanos.
+
 > **Tareas (Task):**
->
-> 1. Tipificar legalmente la "Apropiación de Identidad Sintética" como un delito grave.
-> 2. Exigir a las plataformas tecnológicas la implementación obligatoria de `[Marcas de agua criptográficas]` inalterables (C2PA) para todo contenido generado por IA.
-> 3. Establecer protocolos de eliminación acelerada (Takedown) para las víctimas, invirtiendo la carga de la prueba hacia las plataformas de alojamiento.
->
+
+1. Tipificar legalmente la "Apropiación de Identidad Sintética" como un delito grave.
+2. Exigir a las plataformas tecnológicas la implementación obligatoria de `[Marcas de agua criptográficas]` inalterables (C2PA) para todo contenido generado por IA.
+3. Establecer protocolos de eliminación acelerada (Takedown) para las víctimas, invirtiendo la carga de la prueba hacia las plataformas de alojamiento.
+
 > **Restricciones (Constraints):**
->
-> - La regulación no debe ahogar el ecosistema de código abierto (Open Source), pero debe responsabilizar a los proveedores de modelos fundacionales que omitan filtros de seguridad.
->
+
+- La regulación no debe ahogar el ecosistema de código abierto (Open Source), pero debe responsabilizar a los proveedores de modelos fundacionales que omitan filtros de seguridad.
+
 > **Advertencia (Warning):**
->
-> - Evita la censura generalizada. El núcleo legislativo debe ser el "consentimiento explícito verificado" y la transparencia algorítmica.
+
+- Evita la censura generalizada. El núcleo legislativo debe ser el "consentimiento explícito verificado" y la transparencia algorítmica.
 
 ---
 
@@ -108,7 +108,7 @@ Los datos internos de métricas y tendencias que analizamos a mediados de febrer
 
 ---
 
-## 🎯 결론 (Conclusión)
+## 🎯 Conclusion (Conclusión)
 
 La inteligencia artificial nos ha otorgado herramientas de creatividad ilimitada, pero a costa de dinamitar la "presunción de verdad" en internet. El mundo virtual no consensuado es, sin duda, la externalidad negativa más crítica de nuestra era. Es hora de dejar de simplemente maravillarnos con la tecnología y empezar a gobernarla de manera responsable.
 

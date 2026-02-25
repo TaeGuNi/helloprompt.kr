@@ -43,7 +43,7 @@ Utilisez ceci lorsque vous avez simplement besoin d'un résultat rapide avec une
 > **Rôle :** Tu es un directeur de la photographie primé à Hollywood.
 > **Requête :** Génère une image d'une [votre scène, ex: rue pluvieuse de nuit] avec un éclairage cinématographique intense, des ombres dramatiques et un contraste élevé.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

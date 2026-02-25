@@ -13,7 +13,7 @@ tags: ["Erziehung", "Bildung", "KI-Prompts", "ChatGPT", "Erziehungstipps"]
 
 - **🎯 Empfohlene Zielgruppe:** Eltern, Erzieher, Lehrkräfte
 - **⏱️ Zeitersparnis:** 30 Minuten → 2 Minuten
-- **🤖 Empfohlenes Modell:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Empfohlenes Modell:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Schwierigkeitsgrad:** ⭐⭐☆☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Verwenden Sie diesen Prompt, wenn Sie schnell eine einfache Geschichte benötige
 > **Rolle:** Du bist ein preisgekrönter Kinderbuchautor mit fundierten Kenntnissen in der Zoologie.
 > **Aufgabe:** Schreibe eine kurze Abenteuergeschichte über Tierfreunde, die ökologisches Wissen mit kindgerechter Fantasie verbindet.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

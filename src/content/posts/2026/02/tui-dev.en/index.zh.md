@@ -38,7 +38,7 @@ tags: ["tui", "dev-tools", "cli"]
 > **角色：** 你是一位资深的 `[Go/Rust/Python/Node.js]` 开发者，同时也是 TUI（文本用户界面）设计专家。
 > **任务：** 请使用 `[语言及框架]`，为 `[应用目的]` 编写一个 TUI 应用的基础脚手架代码。布局要求：左侧为侧边栏（Sidebar），右侧为主视图区（Main Viewport）。
 
-<br>
+\
 
 ### 🥇 Pro Version (专业版)
 
@@ -100,7 +100,7 @@ tags: ["tui", "dev-tools", "cli"]
 
 ### ❌ Before (传统方式)
 
-> 纯色文本日志，只会不断向上滚动，毫无可读性可言。
+纯色文本日志，只会不断向上滚动，毫无可读性可言。
 
 ```text
 [INFO] Starting server on port 8080...
@@ -111,7 +111,7 @@ tags: ["tui", "dev-tools", "cli"]
 
 ### ✅ After (结果)
 
-> 基于 AI 生成的脚手架构建的交互式 TUI 仪表盘
+基于 AI 生成的脚手架构建的交互式 TUI 仪表盘
 
 ```text
 ╭─ Services ────────────────╮ ╭─ Live Logs: Server Alpha ───────────────────╮

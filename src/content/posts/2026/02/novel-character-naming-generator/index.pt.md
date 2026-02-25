@@ -43,7 +43,7 @@ Use esta versão quando precisar apenas de uma inspiração rápida e direta.
 >
 > **Solicitação:** Crie um nome de personagem perfeito que reflita sua personalidade, nacionalidade e a época em que vive, explicando o significado e a nuance por trás da escolha.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 
@@ -97,7 +97,7 @@ Criar o nome de um personagem é definir a primeira impressão que o leitor ter�
   - A: Sim! Basta adaptar as "Informações do Personagem" para "Informações do Local" (ex: Clima, Geografia, História da Fundação) e a IA gerará nomes geográficos com a mesma riqueza de detalhes e embasamento histórico.
 
 - **Q: O ChatGPT gratuito consegue fazer isso bem?**
-  - A: O ChatGPT gratuito (GPT-3.5/GPT-4o mini) fornece ótimos resultados, mas modelos mais avançados, como o GPT-4, Claude 3.5 Sonnet ou Gemini 1.5 Pro, tendem a ser significativamente melhores em capturar sutilezas etimológicas e mitológicas sem "alucinar" (inventar fatos que não existem).
+  - A: O ChatGPT gratuito (GPT-3.5/GPT-4o mini) fornece ótimos resultados, mas modelos mais avançados, como o GPT-4, Claude 3.5 Sonnet ou Gemini 2.5 Pro, tendem a ser significativamente melhores em capturar sutilezas etimológicas e mitológicas sem "alucinar" (inventar fatos que não existem).
 
 ---
 
@@ -112,7 +112,7 @@ Criar o nome de um personagem é definir a primeira impressão que o leitor ter�
 
 ### ❌ Antes (Entrada Simples)
 
-> "Recomende um nome para um cavaleiro que é muito bom de briga."
+"Recomende um nome para um cavaleiro que é muito bom de briga."
 
 _(A IA geralmente responde: Arthur, Lancelot, Richard - escolhas clichês e sem profundidade)._
 

@@ -42,7 +42,7 @@ Nutzen Sie diesen Prompt für schnelle, direkte Empfehlungen.
 > **Rolle:** Du bist ein erfahrener Redakteur eines Indie-Musikmagazins in `[Name der Stadt]`.
 > **Anfrage:** Schluss mit langweiliger Hintergrundmusik in Touristen-Restaurants. Empfiehl mir authentische Live-Musik-Locations, in denen ich die echte Energie lokaler Musiker spüren kann.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

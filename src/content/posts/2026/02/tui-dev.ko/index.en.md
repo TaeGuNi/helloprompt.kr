@@ -9,7 +9,7 @@ tags: ["tui", "dev-tools", "cli"]
 
 - **🎯 Target Audience:** Backend Developers, DevOps Engineers, CLI Tool Creators
 - **⏱️ Time Saved:** 1 hour → 3 minutes
-- **🤖 Recommended AI:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (Coding-specialized models preferred)
+- **🤖 Recommended AI:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (Coding-specialized models preferred)
 
 - ⭐ **Difficulty:** ⭐⭐⭐☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -38,7 +38,7 @@ Use this when you just need a quick, foundational TUI boilerplate for a specific
 > **Role:** You are a Senior `[Language]` Developer and a TUI expert.
 > **Task:** Write the basic TUI application boilerplate code using `[Language/Framework]` to implement `[Target Feature]`. Please also provide the instructions on how to run it.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

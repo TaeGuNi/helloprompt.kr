@@ -43,7 +43,7 @@ Tailwind CSS невероятно ускоряет разработку, но в
 > **Задача:** Преобразуй следующий CSS-код в наиболее подходящие утилитарные классы Tailwind CSS. Выдай только строку с классами.
 > **CSS:** `display: flex; justify-content: center; align-items: center; height: 100vh;`
 
-<br>
+\
 
 ### 🥇 Продвинутая версия (Pro Version)
 

@@ -43,7 +43,7 @@ Hoy, no solo te traemos las últimas novedades de la RTX 6090 Ti, sino que te pr
 > **Rol:** Eres un bloguero tecnológico experto en comunicar tendencias de TI de forma rápida y sencilla.
 > **Tarea:** Busca las últimas noticias internacionales y rumores sobre las especificaciones de la `[NVIDIA RTX 6090 Ti y la arquitectura Blackwell]`, y resúmelos en 3 párrafos fáciles de entender para el público general.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

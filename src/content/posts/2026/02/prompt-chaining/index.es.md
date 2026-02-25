@@ -39,12 +39,12 @@ En lugar de pedir "Escribe un artículo completo sobre un documento", utiliza es
 Úsala cuando necesites procesar información extensa en pasos claros y directos. Ejecuta cada prompt uno tras otro en la misma ventana de chat.
 
 > **Paso 1 (Extracción):** Actúa como un analista de datos Senior. Lee el siguiente `[Documento adjunto]` y extrae únicamente los 5 puntos clave más importantes, sin agregar información externa.
->
+
 > **Paso 2 (Estructuración):** Basado estrictamente en los 5 puntos clave extraídos en el paso anterior, crea un esquema jerárquico detallado para un artículo de blog.
->
+
 > **Paso 3 (Redacción):** Utilizando el esquema aprobado, redacta un borrador inicial del artículo empleando un tono `[Profesional/Persuasivo]`.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Flujo Agéntico con Autocorrección)
 

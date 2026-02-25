@@ -38,7 +38,7 @@ For when you just need the same face in a new, quick setting.
 
 > **Prompt:** A cinematic portrait of a young woman drinking coffee in a cyberpunk cafe, neon lighting, 8k, photorealistic --ar 16:9 --cref `[YOUR_CHARACTER_IMAGE_URL]`
 
-<br>
+\
 
 ### 🥇 Pro Version
 

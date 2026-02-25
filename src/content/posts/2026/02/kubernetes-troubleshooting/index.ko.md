@@ -47,7 +47,7 @@ tags: ["쿠버네티스", "K8s", "DevOps", "트러블슈팅", "서버관리"]
 > **요청:**
 > 이 에러가 발생한 핵심 원인이 무엇인지 개발자 관점에서 아주 쉽게 요약해 줘. (예: 메모리 부족, 권한 설정 오류, 네트워크 타임아웃 등) 당장 확인해 봐야 할 포인트 2가지를 함께 제시해 줘.
 
-<br>
+\
 
 ### 🥇 Pro Version (장애 복구 및 SRE 리포트)
 
@@ -118,14 +118,14 @@ tags: ["쿠버네티스", "K8s", "DevOps", "트러블슈팅", "서버관리"]
 
 - **상황:** 프롬프트에 `kubectl describe pod` 하단 이벤트를 복사해 넣음.
 - **AI 답변:**
-  > "로그 분석 결과 `Insufficient cpu`로 인한 스케줄링 실패입니다. 현재 클러스터의 워커 노드에 남은 CPU 할당량이 부족합니다.
-  >
+"로그 분석 결과 `Insufficient cpu`로 인한 스케줄링 실패입니다. 현재 클러스터의 워커 노드에 남은 CPU 할당량이 부족합니다.
+
   > **[즉각 조치]**
-  > 우선 서비스 정상화를 위해 해당 파드의 `resources.requests.cpu`를 500m에서 200m로 임시 하향 조정하여 배포하세요.
-  > `kubectl set resources deployment <deploy-name> -c <container-name> --requests=cpu=200m`
-  >
+우선 서비스 정상화를 위해 해당 파드의 `resources.requests.cpu`를 500m에서 200m로 임시 하향 조정하여 배포하세요.
+`kubectl set resources deployment <deploy-name> -c <container-name> --requests=cpu=200m`
+
   > **[재발 방지 대책]**
-  > 트래픽 스파이크에 대비해 Cluster Autoscaler를 활성화하여 노드가 자동으로 증설되도록 구성해야 합니다."
+트래픽 스파이크에 대비해 Cluster Autoscaler를 활성화하여 노드가 자동으로 증설되도록 구성해야 합니다."
 - **결과:** 명령어 복사/붙여넣기로 1분 만에 파드 구동 성공. (해결 완료 ✅)
 
 ---

@@ -45,7 +45,7 @@ Use esta versão para anunciar rapidamente novidades leves, eventos ou lançamen
 > **Tarefa:** Com base nas informações abaixo, escreva um press release curto (notícia direta) com um tom objetivo para ser distribuído à imprensa.
 > **Informações:** "Nossa empresa (Hello Prompt) acaba de lançar uma nova ferramenta de redação com IA. Qualquer pessoa pode usá-la gratuitamente, e dizem que ela aumenta a produtividade em 10 vezes."
 
-<br>
+\
 
 ### 🥇 Versão Pro (Profissional / Artigos de Fundo e Captação de Investimentos)
 
@@ -115,23 +115,23 @@ O segredo deste prompt é atribuir à IA a persona de um **"Diretor de PR com ex
 
 ### ❌ Antes (Entrada no nível de panfleto publicitário)
 
-> Nossa empresa, Hello Prompt, finalmente conseguiu um investimento incrível e surpreendente da Série A de 10 milhões! A melhor empresa de capital de risco, OO Ventures, participou. Agora, com esse dinheiro, vamos entrar no mercado global e nos tornar a empresa de IA número 1 do mundo. Contamos com o seu apoio!
+Nossa empresa, Hello Prompt, finalmente conseguiu um investimento incrível e surpreendente da Série A de 10 milhões! A melhor empresa de capital de risco, OO Ventures, participou. Agora, com esse dinheiro, vamos entrar no mercado global e nos tornar a empresa de IA número 1 do mundo. Contamos com o seu apoio!
 
 ### ✅ Depois (A notícia direta perfeita que os jornalistas adoram)
 
 > **[Título] Hello Prompt Capta Investimento Série A de 10 Milhões... Inicia Expansão Global**
-> 
+
 > **[Lide]** A Hello Prompt (CEO: Hong Gil-dong), uma startup de soluções B2B de IA generativa, anunciou no dia 11 que concluiu com sucesso uma rodada de investimentos da Série A no valor de 10 milhões.
-> 
+
 > **[Corpo]** Esta rodada de investimentos foi liderada pela OO Ventures, uma das principais empresas de capital de risco (VC) do país, e contou com a participação da XX Capital. A Hello Prompt é uma empresa que fornece soluções de prompt de IA para ajudar na automação de tarefas corporativas, e está demonstrando um rápido crescimento, com receitas aumentando mais de 300% em relação ao ano anterior. Com o capital garantido, a empresa planeja construir infraestrutura global para entrar no mercado norte-americano e contratar ativamente talentos essenciais em P&D (Pesquisa e Desenvolvimento).
-> 
+
 > **[Citação]** Hong Gil-dong, CEO da Hello Prompt, afirmou: "Esta captação de investimentos é o resultado do reconhecimento oficial da viabilidade no mercado e do potencial de crescimento da nossa tecnologia de IA", acrescentando: "Com os fundos garantidos, aceleraremos a nossa entrada no mercado internacional, adquirindo competitividade tecnológica em nível global."
-> 
+
 > **[Sobre a Empresa]**
-> 
-> - Nome da Empresa: Hello Prompt Inc.
-> - Data de Fundação: Maio de 2024
-> - Principais Serviços: Fornecimento de soluções personalizadas de prompt de IA B2B
+
+- Nome da Empresa: Hello Prompt Inc.
+- Data de Fundação: Maio de 2024
+- Principais Serviços: Fornecimento de soluções personalizadas de prompt de IA B2B
 
 ---
 

@@ -44,7 +44,7 @@ Use this to understand how R3F works and to run a quick, lightweight test.
 > **Role:** You are a Senior Frontend Developer.
 > **Task:** Use React Three Fiber (R3F) to render a single cube in the center of the screen. Write an interactive component where the cube grows by 1.2x on hover, changes to a random color on click, and continuously rotates on its own using the `useFrame` hook.
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -107,11 +107,11 @@ In production, it is absolutely essential to compress your models using **Draco 
 
 ### ❌ Before (Static 2D Images)
 
-> "Can I see the port layout on the back or the detailed finish?" (Impossible to zoom or rotate; a one-way, flat delivery of information 🖼️)
+"Can I see the port layout on the back or the detailed finish?" (Impossible to zoom or rotate; a one-way, flat delivery of information 🖼️)
 
 ### ✅ After (Scroll-Reactive 3D Showcase)
 
-> The product subtly reacts to the mouse pointer. As you scroll, the internal chipset and battery levitate into an exploded view, revealing detailed specs. (Increases user retention time by 300%+, delivering an overwhelming premium brand experience 🚀)
+The product subtly reacts to the mouse pointer. As you scroll, the internal chipset and battery levitate into an exploded view, revealing detailed specs. (Increases user retention time by 300%+, delivering an overwhelming premium brand experience 🚀)
 
 ---
 

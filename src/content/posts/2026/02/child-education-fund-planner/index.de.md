@@ -42,7 +42,7 @@ Nutzen Sie diese Variante, wenn Sie sofort einen groben Richtwert benötigen.
 > **Rolle:** Du bist ein `[erfahrener Finanzplaner]`, spezialisiert auf langfristige Ausbildungsfonds für Kinder.
 > **Anfrage:** Berechne, wie viel Geld ich in `[15 Jahren]` für ein 4-jähriges Studium benötigen werde, wenn die aktuellen Kosten bei 10.000 Euro pro Jahr liegen und die Bildungskosten jährlich um `[3%]` steigen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Prompt)
 

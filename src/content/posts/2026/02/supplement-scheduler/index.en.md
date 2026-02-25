@@ -42,7 +42,7 @@ Use this when you need a quick overview of your current supplements.
 > **Role:** You are an expert clinical pharmacist and clinical nutritionist.
 > **Request:** I am currently taking `[List your supplements]`. Please review this combination for any negative interactions, duplicate ingredients, and recommend an optimal daily intake schedule.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 
@@ -108,7 +108,7 @@ This prompt is incredibly effective because it forces the AI to consider your _p
 
 ### ❌ Before (Simple Input)
 
-> "When should I take probiotics, omega-3, and vitamin C?"
+"When should I take probiotics, omega-3, and vitamin C?"
 
 _(Result: A generic, boring list that doesn't account for your specific stomach issues or lifestyle.)_
 

@@ -44,7 +44,7 @@ Los correctores ortográficos tradicionales solo te dan el resultado final: "Est
 >
 > **Instrucción (Task):** Corrige el siguiente texto y explícame brevemente por qué estaban mal mis errores: `[inserta tu texto aquí]`.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -106,7 +106,7 @@ Este prompt es una herramienta invaluable no solo para estudiantes de inglés, s
 
 ### ❌ Before (Entrada)
 
-> "I look forward to hear from you soon. Please explain me what should I do."
+"I look forward to hear from you soon. Please explain me what should I do."
 
 ### ✅ After (Resultado)
 

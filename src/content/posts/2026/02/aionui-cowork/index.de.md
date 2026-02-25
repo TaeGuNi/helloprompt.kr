@@ -44,7 +44,7 @@ Ideal, wenn Sie dem Agenten eine einfache Aufgabe zuweisen und das Ergebnis schn
 > **Rolle:** Du bist ein `[Senior Developer]`.
 > **Aufgabe:** Behebe `[spezifisches Feature/Bug]` im aktuellen Projekt. Bevor du beginnst, präsentiere mir zwingend ein Briefing, welche Dateien du ändern wirst. Gib die Änderungen Schritt für Schritt so aus, dass sie in AionUi leicht zu überprüfen sind.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten)
 
@@ -105,7 +105,7 @@ Die Kombination aus diesem Prompt und AionUi ist ein Workflow, den ich besonders
 ### ❌ Vorher (Reine CLI-Umgebung)
 
 ```text
-> Agent wird ausgeführt...
+Agent wird ausgeführt...
 [Log] Durchsuche Dateien: src/utils/api.ts
 [Log] Code wird modifiziert...
 [Log] Abgeschlossen. (Aber was genau wurde eigentlich geändert...?)

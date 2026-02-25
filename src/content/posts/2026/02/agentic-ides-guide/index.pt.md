@@ -46,7 +46,7 @@ Use esta versão para instruções rápidas de separação de arquivos. (A quali
 > **Papel:** Você é um `[Desenvolvedor Frontend]`.
 > **Tarefa:** O componente `[UserProfile.tsx]` está muito grande. Separe a interface de usuário (UI) da lógica de negócios em arquivos diferentes.
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 

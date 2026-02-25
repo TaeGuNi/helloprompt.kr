@@ -38,7 +38,7 @@ Verwenden Sie diesen initialen Prompt, um schnell das Grundgerüst (Boilerplate)
 > **Rolle:** Du bist ein `[Senior Game Developer]`.
 > **Aufgabe:** Erstelle ein browserbasiertes 2D-Golfspiel mit `[HTML5 Canvas]`. Es muss einen Ball und ein Loch geben, und die Steuerung soll über eine "Drag-to-Shoot"-Mechanik (Ziehen und Loslassen der Maus) erfolgen.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

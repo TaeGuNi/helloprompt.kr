@@ -42,7 +42,7 @@ Utilisez cette version pour générer rapidement une trame d'emploi du temps mat
 > **Rôle :** Tu es un `[Coach de vie expert en productivité]`.
 > **Requête :** Je veux commencer à me lever à 4h du matin. Crée-moi une routine matinale simple de 2 heures incluant `[méditation, sport, et travail sur un projet personnel]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Expert)
 

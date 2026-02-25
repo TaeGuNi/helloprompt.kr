@@ -42,7 +42,7 @@ Use this when you need a quick phonetic breakdown without deep analysis.
 > **Role:** You are an `[expert phonetics coach]`.
 > **Request:** Break down the pronunciation of `[Word/Sentence]` visually, showing stress and intonation so I can practice without audio.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

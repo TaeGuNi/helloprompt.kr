@@ -41,7 +41,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Craft"]
 
 > **Prompt:** A `[subject]`, paper cutout style, layered craft paper, pastel colors, soft lighting, 3d effect.
 
-<br>
+\
 
 ### 🥇 Pro Version (专家版)
 

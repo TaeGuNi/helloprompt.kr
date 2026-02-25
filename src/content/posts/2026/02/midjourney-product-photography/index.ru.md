@@ -43,7 +43,7 @@ tags: ["Midjourney", "제품사진", "쇼핑몰", "상세페이지"]
 
 > **/imagine prompt:** professional product photography of a **[Coffee Tumbler]**, studio lighting, white background, 8k, ultra detailed --v 7 --ar 3:4
 
-<br>
+\
 
 ### 🥇 Продвинутая версия (Pro)
 

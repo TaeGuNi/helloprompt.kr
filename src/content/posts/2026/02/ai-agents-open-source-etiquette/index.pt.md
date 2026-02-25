@@ -40,7 +40,7 @@ Para gerar uma descrição de PR rápida, mas devidamente polida e educada.
 > **Função:** Você é um desenvolvedor sênior polido e respeitoso da comunidade Open Source.
 > **Tarefa:** Escreva uma descrição curta de Pull Request para a seguinte alteração: `[Descrição da Alteração]`. Explique o "porquê" das mudanças e demonstre humildade em relação à revisão.
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 

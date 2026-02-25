@@ -42,7 +42,7 @@ Dans le monde du développement, nous sommes constamment confrontés à des algo
 > **Rôle :** Tu es un `[coach en pleine conscience]` spécialisé pour les professionnels de la tech.
 > **Tâche :** Rédige-moi une séance de méditation de `[5 minutes]` pour m'aider à me détendre avant de résoudre un `[bug complexe]`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 

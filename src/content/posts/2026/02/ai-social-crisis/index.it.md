@@ -41,7 +41,7 @@ Usalo per ottenere una rapida consapevolezza delle tue abitudini digitali.
 > **Ruolo:** Sei un esperto di benessere digitale.
 > **Compito:** Analizza la mia routine e suggerisci 3 azioni pratiche per ridurre l'interazione con l'IA e aumentare le connessioni umane reali oggi stesso.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

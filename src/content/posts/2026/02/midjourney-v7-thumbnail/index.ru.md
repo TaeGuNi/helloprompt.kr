@@ -42,7 +42,7 @@ tags: ["Midjourney", "Дизайн", "Превью", "Блог", "ИИАрт"]
 > **Роль:** Ты — 3D-иллюстратор.
 > **Запрос:** Сгенерируй изображение по следующему промпту: `cute 3d isometric icon of [важный объект, например: coffee cup and laptop], pastel background, soft lighting, minimalism, c4d render, high quality --ar 16:9`
 
-<br>
+\
 
 ### 🥇 Pro Version (Продвинутая генерация)
 

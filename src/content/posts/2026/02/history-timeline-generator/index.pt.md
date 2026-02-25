@@ -42,7 +42,7 @@ Use esta versão quando precisar apenas de um resumo rápido e direto.
 > **Papel:** Você é um historiador experiente e um especialista em visualização de dados.
 > **Solicitação:** Organize os principais eventos sobre `[Tópico/Época]` em ordem cronológica, destacando suas causas e consequências de forma resumida.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert)
 
@@ -85,7 +85,7 @@ A verdadeira genialidade deste prompt não está em simplesmente listar datas, m
   - A: Absolutamente! Basta alterar o papel (Role) para "Analista de Tecnologia" ou "Especialista em Negócios" e inserir o tópico (ex: "Evolução dos Smartphones de 2007 a 2026"). A estrutura causal funciona perfeitamente para analisar o mercado.
 
 - **Q: A IA não pode cometer erros ou "alucinar" com datas antigas?**
-  - A: Sim, modelos mais antigos podem errar datas muito específicas ou eventos obscuros. Por isso, a restrição de "fatos históricos amplamente aceitos" foi adicionada. Sempre recomendo usar modelos avançados (GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro) para temas históricos e fazer uma checagem rápida em datas críticas.
+  - A: Sim, modelos mais antigos podem errar datas muito específicas ou eventos obscuros. Por isso, a restrição de "fatos históricos amplamente aceitos" foi adicionada. Sempre recomendo usar modelos avançados (GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro) para temas históricos e fazer uma checagem rápida em datas críticas.
 
 ---
 

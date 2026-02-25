@@ -46,7 +46,7 @@ tags: ["AI Trends", "System Prompt", "Prompt Engineering", "2026"]
 > 2. 所有代码必须包含完整的类型提示（Type Hinting）。
 > 3. 如果问题超出你的知识范围，请直接回答“我不知道”，禁止编造。
 
-<br>
+\
 
 ### 🥇 Pro Version (专业版)
 
@@ -70,7 +70,7 @@ tags: ["AI Trends", "System Prompt", "Prompt Engineering", "2026"]
 >   </constraints>
 >
 >   <dynamic_context>
->     <!-- 此处将由系统自动注入用户的历史偏好或项目特定的上下文 -->
+>     
 >     [User_Preference_Level]: [Expert]
 >     [Current_Framework]: [FastAPI]
 >   </dynamic_context>

@@ -37,7 +37,7 @@ Wenn Sie nur schnell den Kern eines neuen Konzepts erfassen möchten.
 > **Rolle:** Du bist ein Experte für Quanten-KI und ein exzellenter Lehrer.
 > **Aufgabe:** Erkläre das Konzept `[Name des Quanten-Durchbruchs oder Papers]` in einfachen Worten für einen Softwareentwickler.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Prompt)
 

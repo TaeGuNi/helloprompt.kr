@@ -49,7 +49,7 @@ Use esta versão quando precisar de um alívio rápido e direto ao ponto.
 > **Papel:** Você é um fisioterapeuta especialista em ergonomia e mestre em habilidades sociais corporativas.
 > **Pedido:** Crie uma rotina de 'Alongamento no Escritório' que eu possa fazer na minha própria mesa sem chamar a atenção dos meus colegas.
 
-<br>
+\
 
 ### 🥇 Versão Pro (전문가형)
 

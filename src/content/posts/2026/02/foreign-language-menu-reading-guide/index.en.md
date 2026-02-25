@@ -49,7 +49,7 @@ Use this when you need quick, high-level recommendations.
 > **Role:** You are a 'Cultural Experience Coordinator' specializing in traditional crafts and local artisans worldwide.
 > **Task:** I am tired of generic souvenirs. I want to make a one-of-a-kind travel memento with my own hands during my trip to `[City Name]`. Suggest 3 beginner-friendly traditional craft classes.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

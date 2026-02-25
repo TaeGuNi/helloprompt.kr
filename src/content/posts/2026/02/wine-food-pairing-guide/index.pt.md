@@ -43,12 +43,12 @@ Use esta versão para os cenários mais comuns: o prato já está decidido e voc
 > **Situação (Context):** O cardápio para o jantar de hoje é `[Tteokbokki picante com frituras variadas]`.
 > **Tarefa (Task):** Recomende 3 vinhos que harmonizem perfeitamente com este prato.
 > **Condições (Constraints):**
->
-> 1. Escolha vinhos com bom custo-benefício na faixa de `[15 a 30 euros/dólares]`.
-> 2. Selecione variedades de uvas populares que sejam fáceis de beber para iniciantes.
-> 3. Explique o principal motivo pelo qual cada vinho combina com a comida em apenas uma frase.
 
-<br>
+1. Escolha vinhos com bom custo-benefício na faixa de `[15 a 30 euros/dólares]`.
+2. Selecione variedades de uvas populares que sejam fáceis de beber para iniciantes.
+3. Explique o principal motivo pelo qual cada vinho combina com a comida em apenas uma frase.
+
+\
 
 ### 🥇 Versão Pro (Análise Profunda de Paladar)
 

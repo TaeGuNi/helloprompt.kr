@@ -13,7 +13,7 @@ tags: ["AI 에이전트", "자동화", "생산성", "워크플로우"]
 
 - **🎯 Recommandé pour :** Solopreneurs, freelances, chefs de projet et marketeurs débordés
 - **⏱️ Temps requis :** 1 heure → 5 minutes (planification et révision incluses)
-- **🤖 Modèles recommandés :** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro (Modèles avancés avec de fortes capacités de raisonnement recommandés)
+- **🤖 Modèles recommandés :** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro (Modèles avancés avec de fortes capacités de raisonnement recommandés)
 
 - ⭐ **Difficulté :** ⭐⭐⭐☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -45,7 +45,7 @@ Utilisez cette version lorsque vous avez besoin de définir rapidement la struct
 >
 > **Tâche :** Pour atteindre avec succès le `[Objectif du projet]`, planifie 3 étapes clés. Pour chaque étape, présente sous forme de tableau les profils nécessaires (rôles) et les actions spécifiques qu'ils doivent accomplir.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 
@@ -89,7 +89,7 @@ En forçant le persona du « Critique Principal », l'IA anticipe les cas partic
 ## 🙋 Foire Aux Questions (FAQ)
 
 - **Q : Est-ce que cela fonctionne bien avec un modèle gratuit (ex: la version gratuite de ChatGPT) ?**
-  - R : Cela fonctionne, mais les limites de performance sont évidentes. Ce prompt exige des capacités avancées de "raisonnement" et de "maintien du contexte". Pour éviter que l'IA ne confonde les 3 rôles, il est fortement recommandé d'utiliser des modèles de pointe comme GPT-4o, Claude 3.5 Sonnet ou Gemini 1.5 Pro.
+  - R : Cela fonctionne, mais les limites de performance sont évidentes. Ce prompt exige des capacités avancées de "raisonnement" et de "maintien du contexte". Pour éviter que l'IA ne confonde les 3 rôles, il est fortement recommandé d'utiliser des modèles de pointe comme GPT-4o, Claude 3.5 Sonnet ou Gemini 2.5 Pro.
 
 - **Q : Que faire si l'IA ignore les instructions et génère tout d'un coup ?**
   - R : Cela arrive parfois. Dans ce cas, ajoutez la phrase suivante dans la section Tâche (Task) : _"À la fin de chaque Phase, attends mon approbation avant de passer à la Phase suivante."_ Vous gagnerez énormément en contrôle.

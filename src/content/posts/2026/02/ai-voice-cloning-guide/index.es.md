@@ -42,7 +42,7 @@ Es totalmente posible. Ya hemos superado la época de los simples moduladores de
 > **Rol:** Eres un `[Director de Audio Profesional]`.
 > **Tarea:** Voy a leer un `[Guion]`. Dime cómo configurarlo con una voz femenina en español que transmita calma y confianza, adecuada para la narración de un documental, y explícame el proceso paso a paso para descargar el archivo de audio.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

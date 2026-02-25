@@ -42,7 +42,7 @@ Verwenden Sie diesen Prompt, wenn Sie unter Zeitdruck stehen und nur einen schne
 > **Rolle:** Du bist ein `[Senior Data Analyst und Statistik-Experte]`.
 > **Aufgabe:** Analysiere das hochgeladene Diagramm. Extrahiere die wichtigsten Erkenntnisse und decke versteckte statistische Fallen auf.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Version)
 

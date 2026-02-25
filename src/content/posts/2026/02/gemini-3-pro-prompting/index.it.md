@@ -39,7 +39,7 @@ Utilizzala quando vuoi definire rapidamente solo la struttura logica di un'idea.
 > **Ruolo:** Sei un Senior Product Manager.
 > **Richiesta:** Spiegami la logica di business principale e i potenziali rischi relativi a `[Idea per un nuovo servizio]`, dividendoli in 3 fasi.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

@@ -42,7 +42,7 @@ Use this when you just need a quick, high-level schedule outline.
 > **Role:** You are a Veteran Project Manager.
 > **Task:** Create a basic project schedule that breaks down tasks by calculating backward from the final deadline: `[Project Deadline]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

@@ -40,11 +40,11 @@ Il più grande dilemma di ogni lavoratore: scegliere cosa mangiare a pranzo. Da 
 Il prompt di raccomandazione casuale perfetto per sconfiggere rapidamente l'indecisione.
 
 > **Ruolo (Role):** Sei un assistente cordiale e simpatico, incaricato di scegliere il menù del pranzo per i colleghi.
-> 
-> **Richiesta (Task):**
-> Scegli casualmente una categoria tra cucina italiana, asiatica, messicana, fast food o healthy/insalate. Quindi, raccomanda 3 piatti rappresentativi all'interno di quella categoria che siano generalmente apprezzati dai lavoratori in pausa pranzo.
 
-<br>
+> **Richiesta (Task):**
+Scegli casualmente una categoria tra cucina italiana, asiatica, messicana, fast food o healthy/insalate. Quindi, raccomanda 3 piatti rappresentativi all'interno di quella categoria che siano generalmente apprezzati dai lavoratori in pausa pranzo.
+
+\
 
 ### 🥇 Versione Pro
 

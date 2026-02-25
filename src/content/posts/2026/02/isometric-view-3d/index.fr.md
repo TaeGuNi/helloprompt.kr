@@ -42,7 +42,7 @@ Utilisez cette formule lorsque vous avez besoin d'une génération rapide avec D
 > **Rôle :** Tu es un designer 3D expert.
 > **Demande :** Crée-moi une adorable petite chambre tridimensionnelle dans le style d'un jeu vidéo ou d'une icône 3D, en utilisant un angle isométrique.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 

@@ -42,7 +42,7 @@ Ideal für schnelle, unkomplizierte Automatisierungsszenarien.
 >
 > **Anfrage:** Entwirf einen effizienten Workflow für einen KI-Agenten, um die folgende Aufgabe autonom auszuführen: `[Täglichen E-Mail-Newsletter zusammenfassen und die wichtigsten Punkte an Slack senden]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Prompt)
 

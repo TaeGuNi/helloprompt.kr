@@ -38,7 +38,7 @@ El año 2025 ha marcado un punto de inflexión crítico en el sector del almacen
 > **Rol:** Eres un `[Ingeniero de Infraestructura Cloud]`.
 > **Tarea:** Analiza los `[Datos Estadísticos de Discos de Backblaze 2025]` y resume los 3 insights más importantes y aplicables para la construcción de almacenamiento para IA.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

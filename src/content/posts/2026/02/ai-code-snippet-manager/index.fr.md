@@ -50,7 +50,7 @@ Voici le prompt qui va transformer votre bloc-notes chaotique en une base de con
 > **Code :**
 > `[Collez votre code ici]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Expert)
 

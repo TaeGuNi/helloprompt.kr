@@ -38,7 +38,7 @@ Ideal para crear la estructura inicial del proyecto y validar rápidamente que l
 > **Rol:** Eres un Desarrollador Client-side de Videojuegos Senior.
 > **Tarea:** Crea un juego de golf 2D para navegador usando HTML5 Canvas. Debe incluir una pelota, un hoyo (Hole) y una mecánica de "arrastrar y soltar" (*drag-to-shoot*) controlada por el ratón para golpear la pelota.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

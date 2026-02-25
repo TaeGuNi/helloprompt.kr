@@ -43,11 +43,11 @@ Découvrez le secret de "l'automatisation des notes de lecture", une méthode po
 Utilisez cette version lorsque vous souhaitez simplement archiver rapidement le texte souligné et saisir l'idée maîtresse de l'auteur.
 
 > **(Téléversez la photo de la page du livre)**
->
-> **Requête :**
-> Extrais avec précision le texte de la photo ci-jointe. Ensuite, résume l'argument principal que l'auteur essaie de faire passer sur cette page en une seule phrase claire.
 
-<br>
+> **Requête :**
+Extrais avec précision le texte de la photo ci-jointe. Ensuite, résume l'argument principal que l'auteur essaie de faire passer sur cette page en une seule phrase claire.
+
+\
 
 ### 🥇 Version Pro (Analyse approfondie et plan d'action)
 
@@ -110,7 +110,7 @@ Je vous recommande vivement d'archiver ces résultats en les connectant à un ou
 
 ### ❌ Avant (Souligner bêtement & lire avec les yeux)
 
-> "La perfection est atteinte, non pas lorsqu'il n'y a plus rien à ajouter, mais lorsqu'il n'y a plus rien à retirer."
+"La perfection est atteinte, non pas lorsqu'il n'y a plus rien à ajouter, mais lorsqu'il n'y a plus rien à retirer."
 
 (Après avoir refermé le livre) "Ah, c'est une belle citation." -> 3 jours plus tard : "C'était quoi déjà, l'idée de ce livre ? (Oubli total 📄)"
 

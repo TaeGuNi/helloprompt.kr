@@ -13,7 +13,7 @@ tags: ["회의", "요약", "생산성"]
 
 - **🎯 Recommandé pour :** Chefs de projet, Commerciaux, Assistants de direction, Toute personne enchaînant les réunions
 - **⏱️ Temps gagné :** 45 minutes → Réduit à 1 minute
-- **🤖 Modèles recommandés :** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modèles recommandés :** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Difficulté :** ⭐☆☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -41,11 +41,11 @@ Nous connaissons tous ce moment redouté : la réunion est terminée, et vous vo
 
 > **Rôle :** Tu es un assistant de direction très efficace.
 > **Tâche :** Voici la transcription de notre dernière réunion. Résume les points principaux et fais une liste des actions à mener (To-Do list) avec les responsables assignés.
->
-> **Transcription :**
-> `[Insérez votre texte ou transcription brute ici]`
 
-<br>
+> **Transcription :**
+`[Insérez votre texte ou transcription brute ici]`
+
+\
 
 ### 🥇 Version Pro
 
@@ -93,7 +93,7 @@ En utilisant la _Version Pro_, vous forcez l'IA à appliquer une grille de lectu
 ## 🙋 Foire Aux Questions (FAQ)
 
 - **Q : Que faire si la réunion a duré 2 heures et que le texte est trop long pour l'IA ?**
-  - A : Pour les transcriptions très volumineuses, privilégiez **Claude 3.5 Sonnet** ou **Gemini 1.5 Pro**. Ces modèles possèdent une "fenêtre de contexte" beaucoup plus grande et peuvent ingérer des heures de texte sans tronquer l'information ni perdre le fil.
+  - A : Pour les transcriptions très volumineuses, privilégiez **Claude 3.5 Sonnet** ou **Gemini 2.5 Pro**. Ces modèles possèdent une "fenêtre de contexte" beaucoup plus grande et peuvent ingérer des heures de texte sans tronquer l'information ni perdre le fil.
 
 - **Q : L'IA comprend-elle le jargon technique ou les acronymes de mon entreprise ?**
   - A : En général, oui, grâce au contexte de la phrase. Cependant, si votre jargon est très spécifique, ajoutez simplement une ligne dans le bloc "Contexte" du prompt : _"Pour information, l'acronyme XYZ signifie [Définition], et ABC désigne [Projet]"_.

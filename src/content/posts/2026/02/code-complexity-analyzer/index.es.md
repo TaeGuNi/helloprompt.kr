@@ -48,7 +48,7 @@ Pero, ¿qué pasa si no sabes por dónde empezar a refactorizar? Deja que la IA 
 > [Pega tu código aquí]
 > ```
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

@@ -42,7 +42,7 @@ Use this when you need quick, straightforward results.
 > **Role:** You are a top-tier LinkedIn influencer and content editor.
 > **Task:** Transform my daily work experience and insights into highly engaging content to grow my LinkedIn influence, focusing on relatability rather than monumental achievements.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

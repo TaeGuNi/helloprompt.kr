@@ -48,7 +48,7 @@ El alma de un buen currículum reside en su **profesionalismo**. El tono coloqui
 > **Rol:** Eres un editor senior en una editorial de prestigio y experto en redacción de documentos de negocios.
 > **Solicitud:** Refina el tono de este currículum para que cumpla con los estándares corporativos. Corrige cualquier error tipográfico y gramatical para aumentar mi credibilidad.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Experto)
 

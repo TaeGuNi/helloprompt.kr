@@ -49,7 +49,7 @@ tags:
 >
 > **Instrucción:** Escribe 3 opciones de texto principal (Primary Text) para un anuncio de Facebook/Instagram sobre `[Tu Producto o Servicio]`. Asegúrate de que el primer enunciado funcione como un gancho que detenga el scroll inmediatamente.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 
@@ -114,24 +114,24 @@ Como _media buyer_, he aprendido a las malas que testear diferentes **ángulos d
 
 ### ❌ Antes (Entrada sin estructurar)
 
-> "Nuestra esterilla de yoga es muy buena y no resbala. Tenemos un descuento del 40% si compras ahora en nuestra tienda online."
+"Nuestra esterilla de yoga es muy buena y no resbala. Tenemos un descuento del 40% si compras ahora en nuestra tienda online."
 
 ### ✅ Después (Resultado de la Versión A - Storytelling)
 
-> ¿Otra vez se te resbalaron las manos a mitad de la postura del Perro Boca Abajo? 🧘‍♀️💦
->
-> Casi me lesiono la muñeca la semana pasada usando una esterilla delgada y barata del supermercado...
->
-> Hasta que probé la nueva Esterilla CloudGrip™. La diferencia es sencillamente brutal:
-> ✨ 20mm de grosor de alta densidad que protegen tus articulaciones como una nube.
-> ✨ Textura antideslizante inteligente que te sostiene firme, incluso si sudas a mares.
->
-> Llevo 5 días usándola y mis rodillas por fin dejaron de doler al hacer planchas.
->
-> 🎁 Para celebrar que somos el producto #1 en ventas este mes, acabamos de habilitar un **40% de Descuento** (Solo por las próximas 24 horas).
->
-> 👇 Deja de sufrir en cada postura y asegura la tuya antes de que se agote el stock:
-> [Enlace de tu tienda]
+¿Otra vez se te resbalaron las manos a mitad de la postura del Perro Boca Abajo? 🧘‍♀️💦
+
+Casi me lesiono la muñeca la semana pasada usando una esterilla delgada y barata del supermercado...
+
+Hasta que probé la nueva Esterilla CloudGrip™. La diferencia es sencillamente brutal:
+✨ 20mm de grosor de alta densidad que protegen tus articulaciones como una nube.
+✨ Textura antideslizante inteligente que te sostiene firme, incluso si sudas a mares.
+
+Llevo 5 días usándola y mis rodillas por fin dejaron de doler al hacer planchas.
+
+🎁 Para celebrar que somos el producto #1 en ventas este mes, acabamos de habilitar un **40% de Descuento** (Solo por las próximas 24 horas).
+
+👇 Deja de sufrir en cada postura y asegura la tuya antes de que se agote el stock:
+[Enlace de tu tienda]
 
 ---
 

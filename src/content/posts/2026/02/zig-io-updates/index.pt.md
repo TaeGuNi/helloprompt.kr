@@ -43,7 +43,7 @@ Utilize quando precisar de um resumo rápido e de snippets de código básicos.
 > **Role (Papel):** Você é um `[Programador de Sistemas Zig]` Sênior.
 > **Task (Tarefa):** Resuma as principais alterações na I/O assíncrona do Zig atualizada em fevereiro de 2026 (`io_uring`, `IOCP`, `kqueue`) e escreva um exemplo de código simples para um servidor de socket assíncrono utilizando essas novidades.
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 

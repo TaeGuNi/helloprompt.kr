@@ -42,7 +42,7 @@ Escribir boletines informativos (newsletters) o comunicados internos de forma re
 > **Rol:** Eres un editor de boletines (newsletter) experto y persuasivo.
 > **Solicitud:** Escribe un boletín corto sobre `[Tema]`. Incluye un título atractivo, una breve introducción, 3 puntos clave y un llamado a la acción al final.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Expert Version)
 
@@ -104,17 +104,17 @@ Personalmente, te recomiendo que **no uses el resultado tal cual**. Utiliza la I
 
 ### ❌ Antes (Entrada)
 
-> "Escribe un boletín sobre las últimas tendencias de Inteligencia Artificial."
+"Escribe un boletín sobre las últimas tendencias de Inteligencia Artificial."
 
 ### ✅ Después (Resultado)
 
 > **Asunto:** 🤖 ¿La IA te dejará sin trabajo? (Alerta de spoiler: Probablemente no)
->
-> ¡Hola, creadores! 👋
->
-> Sé que últimamente parece que hay una nueva herramienta de IA revolucionaria cada 5 minutos. Es abrumador, y entiendo perfectamente si a veces solo quieres cerrar el portátil.
->
-> Pero respira. Hoy vamos a separar el ruido de lo que realmente importa para tu productividad...
+
+¡Hola, creadores! 👋
+
+Sé que últimamente parece que hay una nueva herramienta de IA revolucionaria cada 5 minutos. Es abrumador, y entiendo perfectamente si a veces solo quieres cerrar el portátil.
+
+Pero respira. Hoy vamos a separar el ruido de lo que realmente importa para tu productividad...
 
 ---
 

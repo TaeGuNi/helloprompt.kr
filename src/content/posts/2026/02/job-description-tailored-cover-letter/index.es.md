@@ -42,7 +42,7 @@ La clave para superar el filtro inicial de Recursos Humanos es contar **la histo
 > **Rol:** Eres el Director de Recursos Humanos de una empresa líder en el sector.
 > **Solicitud:** Analiza la siguiente Descripción del Trabajo (JD) y escribe un borrador de carta de presentación convincente que alinee mi perfil con el candidato ideal en menos de 1 minuto.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

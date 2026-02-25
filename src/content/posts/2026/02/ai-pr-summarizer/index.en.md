@@ -13,7 +13,7 @@ tags: [Git, Github, Collaboration, Productivity, AI]
 
 - **🎯 Recommended for:** Senior Developers, Tech Leads, and any developer exhausted by code reviews
 - **⏱️ Time Saved:** 1 hour → 3 minutes
-- **🤖 Recommended Models:** Claude 3.5 Sonnet, Gemini 1.5 Pro, GPT-4o
+- **🤖 Recommended Models:** Claude 3.5 Sonnet, Gemini 2.5 Pro, GPT-4o
 
 - ⭐ **Difficulty:** ⭐☆☆☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -47,7 +47,7 @@ Use this when you simply need a quick overview and the general flow of the chang
 > **[Git Diff Data]**
 > `[Paste your git diff output or PR description here]`
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -94,7 +94,7 @@ Even without commercial tools like GitHub Copilot Enterprise, this approach serv
 ## 🙋 Frequently Asked Questions (FAQ)
 
 - **Q: What if the diff text is too long and the AI refuses the input?**
-  - A: Recent models like Claude 3.5 Sonnet and Gemini 1.5 Pro boast massive context windows that can easily handle tens of thousands of lines of code. However, if you still hit a limit, use `git diff --stat` to summarize the file list first, or extract and analyze only the diffs from the core domain logic files.
+  - A: Recent models like Claude 3.5 Sonnet and Gemini 2.5 Pro boast massive context windows that can easily handle tens of thousands of lines of code. However, if you still hit a limit, use `git diff --stat` to summarize the file list first, or extract and analyze only the diffs from the core domain logic files.
 
 - **Q: Is it safe to upload confidential internal company code to an AI?**
   - A: **You must exercise extreme caution.** Internal code is a core corporate asset. When using public services like ChatGPT or Claude, ensure that the "Data Opt-out" (do not use for model training) setting is enabled. The safest approach is to use Enterprise plans (which guarantee data privacy) or leverage a locally hosted LLM (like Ollama) within your company's secure network.

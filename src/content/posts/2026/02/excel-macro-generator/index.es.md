@@ -41,14 +41,14 @@ A partir de ahora, solo di: "Compara la Columna A y B, y resalta las diferencias
 Úsalo para obtener cálculos y fórmulas rápidas sin complicaciones.
 
 > **Rol:** Eres un experto analista en Excel.
->
-> **Tarea:** Dame una fórmula de Excel para obtener `[Resultado Deseado]` basada en los siguientes datos.
->
-> **Ejemplo de Datos:**
->
-> - Columna A: Nombre / Columna B: Puntuación / Columna C: Aprobado/Reprobado
 
-<br>
+> **Tarea:** Dame una fórmula de Excel para obtener `[Resultado Deseado]` basada en los siguientes datos.
+
+> **Ejemplo de Datos:**
+
+- Columna A: Nombre / Columna B: Puntuación / Columna C: Aprobado/Reprobado
+
+\
 
 ### 🥇 Versión Pro (Automatización con VBA)
 

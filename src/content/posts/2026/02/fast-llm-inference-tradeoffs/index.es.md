@@ -58,7 +58,7 @@ En este artículo, analizaremos estos dos enfoques opuestos y proporcionaremos c
 > **Formato (Format):**
 > Evalúa las respuestas de ambos modelos en una escala del 1 al 10 y declara un ganador.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

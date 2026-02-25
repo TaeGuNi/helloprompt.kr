@@ -52,7 +52,7 @@ Utilizza questo prompt di base per riassumere o tradurre rapidamente documenti i
 > **Ruolo:** Sei un `[assistente di sicurezza]` che opera in un ambiente offline, disconnesso da Internet.
 > **Compito:** Analizza e riassumi il `[testo]` fornito. Non utilizzare conoscenze esterne, ma basati esclusivamente sulle informazioni presenti nel documento.
 
-<br>
+\
 
 ### 🥇 Versione Pro
 

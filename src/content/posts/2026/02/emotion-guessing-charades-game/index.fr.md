@@ -43,7 +43,7 @@ Utilisez cette version pour générer des idées instantanément avant de commen
 > **Rôle :** Tu es un psychologue pour enfants et un professeur de théâtre.
 > **Demande :** Propose-moi un jeu de rôle amusant à faire avec mon enfant pour l'aider à développer son empathie et son vocabulaire émotionnel.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

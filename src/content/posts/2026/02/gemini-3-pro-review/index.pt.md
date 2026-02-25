@@ -41,7 +41,7 @@ Ideal para revisões rápidas, otimizações pontuais ou quando você precisa ap
 > **Função:** Você é um Engenheiro de Software Senior.
 > **Tarefa:** Analise este código `[Python/Rust/Java]`, identifique imediatamente o gargalo de performance ou erro lógico e reescreva a função seguindo as melhores práticas modernas.
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 
@@ -87,7 +87,7 @@ A dica de ouro aqui é o direcionamento no prompt: nunca peça simplesmente "con
 - **Q: O código gerado é seguro o suficiente para ser enviado direto para produção (Deploy)?**
   - A: Por mais impressionante que seja (como o ganho de 52x no Python), **nunca faça deploy cego**. Utilize a excelente explicação fornecida pelo Gemini para compreender a mudança, promova um rigoroso _Code Review_ e certifique-se de que a esteira de CI/CD (Testes Unitários/E2E) aprove o commit.
 
-- **Q: Posso rodar essas refatorações no Gemini 1.5 ou ChatGPT padrão?**
+- **Q: Posso rodar essas refatorações no Gemini 2.5 ou ChatGPT padrão?**
   - A: Modelos anteriores darão conta de refatorações sintáticas triviais. No entanto, o nível de abstração arquitetural — como sugerir uma refatoração em nível de _pointers/memory layout_ no Rust — exige o poder de raciocínio aprimorado exclusivo da geração atual (Gemini 3 Pro ou equivalentes _reasoning models_).
 
 ---

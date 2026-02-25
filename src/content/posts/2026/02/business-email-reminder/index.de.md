@@ -42,7 +42,7 @@ Verwenden Sie dies, wenn Sie schnell einen ersten, soliden Entwurf benötigen.
 > **Rolle:** Du bist ein erfahrener Experte für Geschäftskommunikation und Verhandlungsführung.
 > **Anfrage:** Schreibe eine kurze, höfliche Erinnerungs-E-Mail an einen Geschäftspartner, der seit 3 Tagen nicht auf meine letzte Nachricht geantwortet hat. Bitte höflich um ein Update.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 
@@ -70,7 +70,7 @@ Verwenden Sie dies, wenn Sie eine maßgeschneiderte, hochprofessionelle Nachrich
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 Das Schreiben von Erinnerungs-E-Mails kostet im Arbeitsalltag oft mehr Zeit und mentale Energie als das Verfassen der ursprünglichen Nachricht. Man tippt, löscht, formuliert um – stets aus der Sorge heraus, den falschen Ton zu treffen und den Geschäftspartner zu verärgern.
 
@@ -78,7 +78,7 @@ Dieser Prompt ist ein echter Lebensretter im Agentur- und B2B-Umfeld. Indem wir 
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q: Kann ich den Prompt auch für interne Kollegen verwenden?**
   - A: Ja, absolut! Ergänzen Sie einfach im Abschnitt "Kontext": _"Der Empfänger ist ein interner Kollege aus der Abteilung `[Abteilungsname]`, daher kann der Ton etwas lockerer und kollegialer, aber dennoch verbindlich sein."_
@@ -127,7 +127,7 @@ Vielen Dank im Voraus für Ihre Mühe und beste Grüße,
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
 Reduzieren Sie Ihre emotionale Arbeit und beschleunigen Sie Ihre tägliche Kommunikation erheblich. Sie können sich endlich von dem Stress unangenehmer Follow-up-E-Mails befreien.
 

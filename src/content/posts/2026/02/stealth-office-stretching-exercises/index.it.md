@@ -49,7 +49,7 @@ Ideale quando hai bisogno di un sollievo immediato e non hai tempo per i dettagl
 > **Ruolo:** Sei un esperto di ergonomia e correzione posturale.
 > **Richiesta:** Suggeriscimi 3 esercizi di stretching che posso fare ora alla mia scrivania senza che i miei colleghi se ne accorgano.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 
@@ -106,7 +106,7 @@ Questo prompt è un salvavita per chi lavora in ambienti open space o durante in
 
 ### ❌ Prima (Input debole)
 
-> "Dimmi come fare stretching in ufficio."
+"Dimmi come fare stretching in ufficio."
 
 _(Risultato dell'IA: "Alzati in piedi, intreccia le mani dietro la schiena e spingi il petto in fuori. Fai delle ampie rotazioni del bacino..." -> Assolutamente inapplicabile in un open space senza attirare l'attenzione)._
 

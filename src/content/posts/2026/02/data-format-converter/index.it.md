@@ -46,7 +46,7 @@ Usala quando hai bisogno di un risultato immediato senza troppe regole.
 >
 > `[Incolla i dati qui]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

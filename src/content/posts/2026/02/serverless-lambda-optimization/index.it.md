@@ -44,7 +44,7 @@ Utilizza questo prompt quando vuoi trovare rapidamente il miglior compromesso (s
 > **Ruolo:** Sei un esperto di ottimizzazione di architetture serverless su AWS.
 > **Compito:** Il cold start della mia funzione AWS Lambda supera i 2 secondi. Attualmente sto utilizzando il runtime Node.js 20 con 128MB di memoria. Spiegami la correlazione tra l'aumento della memoria, la riduzione del cold start e l'incremento dei costi. Inoltre, guidami passo dopo passo su come utilizzare lo strumento open source `AWS Lambda Power Tuning` per trovare l'equilibrio ideale tra memoria e costi.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Ottimizzazione del Codice e Architettura)
 

@@ -64,7 +64,7 @@ Aquí tienes dos prompts clave para evitar el copiar y pegar a ciegas y maximiza
 > [Inserta el fragmento de código a revisar]
 > ```
 
-<br>
+\
 
 ### 🥇 Versión Pro (Prompt del Inquisidor de Arquitectura)
 

@@ -10,7 +10,7 @@ tags: ["Coding", "AI Agents", "Devin", "GitHub"]
 
 - **🎯 Público objetivo:** Desarrolladores de software, Arquitectos de TI, Líderes técnicos
 - **⏱️ Tiempo de lectura/uso:** 10 minutos → Ahorra horas de codificación
-- **🤖 Modelo recomendado:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modelo recomendado:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Dificultad:** ⭐⭐⭐☆☆
 - ⚡️ **Eficacia:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Ideal para tareas rápidas de generación de scripts, consultas de sintaxis o re
 > **Rol:** Eres un `[Ingeniero de Software Senior]`.
 > **Tarea:** Escribe un script en `[Python/JavaScript]` que resuelva `[Descripción del problema o bug]`.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

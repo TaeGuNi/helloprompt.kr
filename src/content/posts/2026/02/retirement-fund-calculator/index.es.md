@@ -42,7 +42,7 @@ tags: ["Jubilación", "PrepVejez", "Pensión", "PlanificaciónFinanciera"]
 > **Rol:** Eres un `[Planificador Financiero Certificado (CFP)]` experto en jubilación.
 > **Solicitud:** Ayúdame a calcular cuánto dinero necesito para jubilarme y cuánto debo ahorrar al mes, eliminando la incertidumbre sobre mi futuro financiero.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

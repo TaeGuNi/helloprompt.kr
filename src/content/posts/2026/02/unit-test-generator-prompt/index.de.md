@@ -44,7 +44,7 @@ Nutzen Sie diesen Prompt, wenn Sie nur schnell ein funktionierendes Testgerüst 
 > **Rolle:** Du bist ein akribischer QA-Ingenieur.
 > **Aufgabe:** Schreibe ausführliche Unit-Tests für den folgenden Code. Berücksichtige dabei Erfolgsfälle, Fehlerfälle und Edge Cases.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Prompt)
 

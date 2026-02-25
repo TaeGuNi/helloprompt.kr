@@ -42,7 +42,7 @@ Utilisez cette version pour un diagnostic express d'une requête simple.
 > **Rôle :** Tu es un DBA (Administrateur de Base de Données) Senior avec 15 ans d'expérience.
 > **Demande :** Analyse la requête SQL suivante, identifie pourquoi elle est lente, et réécris-la pour maximiser ses performances. Suggère également les index manquants. Voici la requête : `[Insérez votre SQL ici]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Experte)
 
@@ -121,7 +121,7 @@ WHERE u.id IN (
 );
 ```
 
-<br>
+\
 
 ### ✅ Après (Résultat)
 

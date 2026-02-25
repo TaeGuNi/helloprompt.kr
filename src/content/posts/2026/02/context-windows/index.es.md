@@ -37,7 +37,7 @@ Utiliza este prompt cuando notes que la IA empieza a desvariar o a olvidar las r
 > **Rol:** Eres un `[Asistente Técnico]`.
 > **Acción:** Recuerda las siguientes reglas clave para el resto de nuestra conversación: `[Regla 1, Regla 2]`. No te desvíes de ellas bajo ninguna circunstancia.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Reinicio de Contexto / Summarize & Reset)
 
@@ -76,7 +76,7 @@ La técnica de "Resumir y Reiniciar" (Summarize and Reset) es probablemente el h
 
 ## 🙋 Preguntas Frecuentes (FAQ)
 
-- **P: ¿No es mejor usar simplemente un modelo con una ventana de contexto gigante (ej. Gemini 1.5 Pro)?**
+- **P: ¿No es mejor usar simplemente un modelo con una ventana de contexto gigante (ej. Gemini 2.5 Pro)?**
   - A: Aunque ayuda muchísimo, los modelos tienden a sufrir del problema de "Pérdida en el Medio" (Lost in the Middle), donde a menudo ignoran instrucciones cruciales enterradas en el centro de un historial gigantesco. Mantener un contexto limpio y estructurado siempre dará resultados más fiables.
 
 - **P: ¿Cómo sé exactamente cuándo la IA se está quedando sin contexto?**

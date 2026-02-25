@@ -13,7 +13,7 @@ tags: ["HIIT", "Tabata", "Dieta", "Ejercicio", "ChatGPT"]
 
 - **🎯 Recomendado para:** Oficinistas ocupados, padres con poco tiempo libre y entusiastas del fitness en casa.
 - **⏱️ Tiempo requerido:** 20 minutos de entrenamiento (1 minuto para generar el prompt).
-- **🤖 Modelo recomendado:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 1.5 Pro.
+- **🤖 Modelo recomendado:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 2.5 Pro.
 
 - ⭐ **Dificultad:** ⭐⭐☆☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -45,7 +45,7 @@ Ideal cuando estás a punto de ponerte las zapatillas y necesitas una rutina de 
 >
 > **Petición:** Tengo muy poco tiempo pero necesito quemar grasa. Créame una rutina HIIT de 20 minutos usando solo mi peso corporal que pueda hacer hoy mismo en el salón de mi casa.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Expert Version)
 
@@ -108,7 +108,7 @@ Al incluir la regla "NO PUEDO HACER SALTOS", la IA inteligentemente sustituye lo
 
 ### ❌ Antes (Entrada Genérica)
 
-> "Dame una rutina de HIIT rápida para hacer en casa."
+"Dame una rutina de HIIT rápida para hacer en casa."
 
 **Resultado de la IA:** (Te da una lista genérica de 10 ejercicios que incluyen saltos de caja (¿quién tiene una caja pliométrica en el salón?), dura 45 minutos en total y no te dice cuánto tiempo descansar).
 

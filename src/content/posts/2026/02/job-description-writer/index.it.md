@@ -42,7 +42,7 @@ Usala quando hai poco tempo e ti serve una bozza rapida da perfezionare al volo.
 > **Ruolo:** Sei un Recruiter Senior e un Esperto di Employer Branding.
 > **Richiesta:** Scrivi una Job Description accattivante per la posizione di `[Inserisci Posizione]`. Evidenzia i vantaggi per il candidato e usa un tono professionale ma moderno.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

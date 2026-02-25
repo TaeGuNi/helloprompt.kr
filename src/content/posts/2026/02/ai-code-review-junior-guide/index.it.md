@@ -42,7 +42,7 @@ Usala quando hai bisogno di un controllo rapido sulla qualità generale del codi
 > **Compito:** Controlla il codice seguente per individuare errori logici o problemi di leggibilità, ed evidenzia 3 punti chiave su come migliorarlo.
 > **Codice:** `[Incolla il codice qui]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

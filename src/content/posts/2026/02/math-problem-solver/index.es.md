@@ -42,7 +42,7 @@ La razón principal por la que muchos abandonan las matemáticas no es por la di
 > **Rol:** Eres un experto en educación matemática y un tutor privado muy paciente.
 > **Solicitud:** En lugar de darme solo la respuesta correcta, resuelve el siguiente problema explicando detalladamente tu proceso de pensamiento paso a paso: `[Inserta tu problema aquí]`
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

@@ -42,7 +42,7 @@ Verwenden Sie diesen Prompt, wenn Sie mitten im Spiel stehen und sofort eine Ant
 > **Rolle:** Du bist ein meisterhafter Geschichtenerzähler und Charakterdesigner.
 > **Aufgabe:** Erschaffe mir sofort einen interessanten `[Beruf/Rolle]` NPC mit einem markanten Merkmal, einer seltsamen Angewohnheit und einem kleinen Geheimnis in Stichpunkten.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Level)
 
@@ -103,7 +103,7 @@ Der eigentliche Zauber dieses Prompts liegt in den Parametern **"Sprachmelodie"*
 
 ### ❌ Before (Einfache Eingabe)
 
-> Mach mir einen Zwergen-Schmied für mein Rollenspiel.
+Mach mir einen Zwergen-Schmied für mein Rollenspiel.
 
 _(Ergebnis: Ein generischer Textblock über einen Zwerg, der Eisen schmiedet und Äxte mag. Schwer am Tisch schnell zu lesen.)_
 

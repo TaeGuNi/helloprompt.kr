@@ -44,48 +44,48 @@ Apresentamos um guia de engenharia prático para manter seu agente inteligente e
 Se você não está utilizando os recursos de **Context Caching** fornecidos pelas APIs modernas, está literalmente jogando dinheiro no lixo. A maioria dos agentes retransmite a mesma combinação de `Prompt de Sistema` + `Exemplos Few-Shot` + `Documentação da API` a cada interação. Com o cache, o lema é: "Faça o upload uma vez, leia a preço de banana".
 
 > **Como Funciona e Quando Aplicar:**
->
-> - Quando o seu Prompt de Sistema ultrapassar a marca de 1.000 tokens.
-> - Quando PDFs extensos ou todo o código-fonte (codebase) precisarem ser carregados no contexto.
-> - Quando o agente for projetado para realizar conversas de múltiplos turnos (Multi-turn).
->
+
+- Quando o seu Prompt de Sistema ultrapassar a marca de 1.000 tokens.
+- Quando PDFs extensos ou todo o código-fonte (codebase) precisarem ser carregados no contexto.
+- Quando o agente for projetado para realizar conversas de múltiplos turnos (Multi-turn).
+
 > _Pro Tip:_ Posicione o conteúdo estático (regras, exemplos de código) no topo do prompt e o conteúdo dinâmico (consultas do usuário, histórico recente) na parte inferior. O cache opera com base no prefixo (Prefix) do texto!
 
-<br>
+\
 
 ### 🥇 Padrão 2: O Loop "Summarize-and-Forget" (Compressão de Estado)
 
 Em vez de carregar logs brutos e extensos no formato "Pensamento: X, Ação: Y, Resultado: Z...", force o agente a gerenciar autonomamente o seu próprio **Cartão de Estado (State Card)**.
 
 > **Função (Role):** Você é um agente baseado em máquina de estados (State-Machine) focado na gestão extremamente eficiente de recursos computacionais e tokens.
->
+
 > **Contexto (Context):**
->
-> - Cenário: O histórico de mensagens está crescendo indefinidamente, o que causará uma explosão nos custos da API se não for contido.
-> - Objetivo: Comprimir o progresso atual em uma atualização de estado (State Card) ao final de cada iteração.
->
+
+- Cenário: O histórico de mensagens está crescendo indefinidamente, o que causará uma explosão nos custos da API se não for contido.
+- Objetivo: Comprimir o progresso atual em uma atualização de estado (State Card) ao final de cada iteração.
+
 > **Tarefa (Task):**
->
-> 1. Ao final de cada turno, você **deve** atualizar a sua variável `Internal_State`.
-> 2. No próximo turno, em vez do histórico completo da conversa, você receberá apenas este `Internal_State` e a `Observation` (o resultado da última ação executada).
-> 3. Comprima rigorosamente o seu estado atual seguindo exatamente a estrutura JSON abaixo.
->
+
+1. Ao final de cada turno, você **deve** atualizar a sua variável `Internal_State`.
+2. No próximo turno, em vez do histórico completo da conversa, você receberá apenas este `Internal_State` e a `Observation` (o resultado da última ação executada).
+3. Comprima rigorosamente o seu estado atual seguindo exatamente a estrutura JSON abaixo.
+
 > **Restrições (Constraints):**
->
-> - O formato de saída deve ser **exclusivamente** um JSON válido que respeite esta estrutura estruturada:
->
-> ```json
-> {
->   "thought": "O raciocínio lógico focado apenas no passo atual...",
->   "action": "function_name(args)",
->   "new_state": {
->     "goal": "Encontrar a causa do erro de autenticação no arquivo auth.ts",
->     "completed_steps": ["Leitura do auth.ts concluída", "Identificada a ausência de variáveis de ambiente"],
->     "next_step": "Inspecionar o arquivo .env",
->     "blockers": "Nenhum no momento"
->   }
-> }
-> ```
+
+- O formato de saída deve ser **exclusivamente** um JSON válido que respeite esta estrutura estruturada:
+
+```json
+{
+  "thought": "O raciocínio lógico focado apenas no passo atual...",
+  "action": "function_name(args)",
+  "new_state": {
+    "goal": "Encontrar a causa do erro de autenticação no arquivo auth.ts",
+    "completed_steps": ["Leitura do auth.ts concluída", "Identificada a ausência de variáveis de ambiente"],
+    "next_step": "Inspecionar o arquivo .env",
+    "blockers": "Nenhum no momento"
+  }
+}
+```
 
 ---
 

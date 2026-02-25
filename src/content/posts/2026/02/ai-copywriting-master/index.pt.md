@@ -43,7 +43,7 @@ Ideal para quando você precisa de inspiração rápida para blogs, e-mails ou r
 > **Tarefa:** Escreva 5 opções de títulos magnéticos para um artigo de blog sobre `[suplementos para perda de peso]`.
 > **Condição:** Inclua a palavra-chave `[perder 3 kg em uma semana]`. O tom deve ser autêntico e coloquial, como uma avaliação sincera de um cliente real, evitando jargões publicitários clichês.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Profissional)
 

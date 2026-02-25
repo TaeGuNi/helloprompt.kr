@@ -42,7 +42,7 @@ Use isto quando precisar de uma base rápida para começar.
 > **Papel:** Você é um headhunter global e especialista em SEO focado no LinkedIn.
 > **Pedido:** Escreva um Título (Headline) otimizado para buscas e uma seção Sobre (About) atrativa para aumentar em 10x as minhas propostas de emprego. Aqui estão minhas informações: `[Seu Cargo e Habilidades]`
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

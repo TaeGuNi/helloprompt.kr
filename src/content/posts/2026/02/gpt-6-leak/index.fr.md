@@ -39,7 +39,7 @@ Idéal pour esquisser rapidement les grandes lignes et la faisabilité d'un proj
 > **Rôle :** Tu es un directeur stratégique expert en macro-planification.
 > **Requête :** Élabore un plan d'action sur 12 mois pour `[insérer votre projet]`, en identifiant uniquement les jalons critiques et les risques majeurs.
 
-<br>
+\
 
 ### 🥇 Version Pro
 

@@ -13,7 +13,7 @@ tags: ["AI 에이전트", "자동화", "프롬프트 엔지니어링", "AutoGPT"
 
 - **🎯 Target Audience:** PMs and Planners who want to design and execute complex projects flawlessly in one go.
 - **⏱️ Time Saved:** 1 hour → 5 minutes (Drastically reduces planning time)
-- **🤖 Recommended AI:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Recommended AI:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Difficulty:** ⭐⭐⭐☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Use this for quick, multi-perspective brainstorming.
 > **Role:** You are a highly capable Project Manager.
 > **Task:** Provide in-depth opinions on `[Topic]` from the perspectives of a Planner, a Developer, and a Designer. Then, synthesize these views to propose the optimal direction.
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -94,7 +94,7 @@ However, by enforcing a 'Critic' role and forcing debate, the AI identifies its 
   - A: You can add a constraint like: "Limit the debate to exactly 3 turns, and in the final turn, the Executor must drive them to a realistic consensus." The AI will pace the conversation and conclude accordingly.
 
 - **Q: Does this work well on the free ChatGPT (GPT-3.5)?**
-  - A: Because the AI needs to juggle multiple personas without losing character and sustain a logical debate, we strongly recommend using advanced models with high complex reasoning capabilities, like GPT-4o, Claude 3.5 Sonnet, or Gemini 1.5 Pro. Weaker models might blur the roles and end up looking like they are talking to themselves.
+  - A: Because the AI needs to juggle multiple personas without losing character and sustain a logical debate, we strongly recommend using advanced models with high complex reasoning capabilities, like GPT-4o, Claude 3.5 Sonnet, or Gemini 2.5 Pro. Weaker models might blur the roles and end up looking like they are talking to themselves.
 
 ---
 

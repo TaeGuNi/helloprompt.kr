@@ -42,7 +42,7 @@ image: "/images/posts/unsloth.png"
 > **役割:** あなたはLLM最適化およびファインチューニングの専門家です。
 > **タスク:** `[Llama-3-8B]`モデルを`[Alpaca]`データセットでファインチューニングするための、UnslothベースのPythonコードを作成してください。16GB VRAMのGPU環境で実行する予定です。
 
-<br>
+\
 
 ### 🥇 Pro Version (専門家型)
 

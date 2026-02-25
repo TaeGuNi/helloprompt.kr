@@ -40,10 +40,10 @@ Pendant la dernière décennie, Docker a régné en maître absolu sur l'écosys
 Utilisez ce prompt pour vérifier instantanément la compatibilité de vos commandes ou scripts `docker` existants dans un environnement `podman`. (Idéal pour repérer les nuances subtiles que l'alias `alias docker=podman` ne suffit pas à régler).
 
 > **Rôle :** Tu es un Architecte Certifié Red Hat et un expert en sécurité des conteneurs.
->
+
 > **Tâche :** Adapte ma commande ou mon script Docker existant `[Insérez votre commande docker run ou script]` pour qu'il fonctionne parfaitement en mode Rootless sous Podman. Identifie spécifiquement les erreurs potentielles liées aux ponts réseau (network bridges) et aux permissions de montage de volumes (y compris SELinux), et fournis les solutions adéquates.
 
-<br>
+\
 
 ### 🥇 Version Pro (Transition complète de docker-compose vers K8s)
 

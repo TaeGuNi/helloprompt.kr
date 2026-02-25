@@ -40,7 +40,7 @@ Utilisez cette version pour obtenir un avis express sur une courte liste de symp
 > **Rôle :** Tu es un `[médecin clinicien expérimenté]`.
 > **Tâche :** Analyse les symptômes suivants : `[liste des symptômes]` et donne-moi les 3 diagnostics différentiels les plus probables.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pour des cas cliniques complexes)
 

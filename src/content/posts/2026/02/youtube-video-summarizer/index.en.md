@@ -13,7 +13,7 @@ tags: ["유튜브", "요약", "ChatGPT", "생산성", "공부"]
 
 - **🎯 Target Audience:** Modern professionals with no time to watch at 2x speed, students, and anyone who wants to grasp core information without falling for clickbait thumbnails.
 - **⏱️ Time Saved:** 20 minutes of watching → Reduced to just 10 seconds.
-- **🤖 Recommended AI:** ChatGPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro (Large context window capability is essential)
+- **🤖 Recommended AI:** ChatGPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro (Large context window capability is essential)
 
 - ⭐ **Difficulty:** ⭐☆☆☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -44,7 +44,7 @@ Use this when you are on the go or just want to quickly verify if a video is act
 > **Role:** You are a fast and accurate content summarization expert.
 > **Task:** The following text is a YouTube video transcript. Exclude all unnecessary small talk and clearly summarize the core topic and the most important conclusion in exactly 3 lines.
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -93,7 +93,7 @@ If you are on a PC, I highly recommend installing free Chrome extensions like **
   - A: YouTube's auto-generated caption technology has advanced significantly, so most videos now have transcripts. If there genuinely isn't one, you would need to extract the video's audio and run it through a Speech-to-Text (STT) tool like OpenAI's Whisper API to generate the script first.
 
 - **Q: Will the AI crash if I paste the entire transcript of a video longer than an hour?**
-  - A: Modern AI models like GPT-4o, Claude 3.5 Sonnet, and Gemini 1.5 Pro have massive Context Windows and can easily process 1-2 hours' worth of text. However, if you are using older models (like GPT-3.5), the text might get cut off, so it is recommended to split the text in half and summarize it in parts.
+  - A: Modern AI models like GPT-4o, Claude 3.5 Sonnet, and Gemini 2.5 Pro have massive Context Windows and can easily process 1-2 hours' worth of text. However, if you are using older models (like GPT-3.5), the text might get cut off, so it is recommended to split the text in half and summarize it in parts.
 
 - **Q: The timestamps get copied along with the text. Do I need to delete them?**
   - A: There is absolutely no need to delete them. Paste them exactly as they are. In fact, the AI cleverly utilizes those timestamp numbers to structure chapters and generate highly accurate timeline references.

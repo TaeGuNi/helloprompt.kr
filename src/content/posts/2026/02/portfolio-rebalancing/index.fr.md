@@ -42,7 +42,7 @@ Utilisez cette version pour obtenir un résultat rapide et direct.
 > **Rôle :** Tu es un `[Gestionnaire de Patrimoine]` expert.
 > **Demande :** Analyse la répartition de mes actifs et propose-moi un plan de rééquilibrage optimal.
 
-<br>
+\
 
 ### 🥇 Version Pro
 

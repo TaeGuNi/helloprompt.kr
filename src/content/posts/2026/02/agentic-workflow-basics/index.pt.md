@@ -13,7 +13,7 @@ tags: ["AI 에이전트", "자동화", "생산성", "워크플로우"]
 
 - **🎯 Recomendado para:** Empreendedores individuais, freelancers, e gestores ou profissionais de marketing sobrecarregados.
 - **⏱️ Tempo Necessário:** De 1 hora → Reduzido para 5 minutos (incluindo planejamento e revisão).
-- **🤖 Modelos Recomendados:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro (Recomendam-se modelos de ponta com alta capacidade de raciocínio).
+- **🤖 Modelos Recomendados:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro (Recomendam-se modelos de ponta com alta capacidade de raciocínio).
 
 - ⭐ **Dificuldade:** ⭐⭐⭐☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -45,7 +45,7 @@ Use esta versão quando precisar estabelecer rapidamente a estrutura de um proje
 >
 > **Task (Tarefa):** Para alcançar com sucesso o `[Objetivo do Projeto]`, planeje 3 marcos (milestones) essenciais. Em seguida, organize em formato de tabela os profissionais (papéis) que devem atuar em cada fase e os itens de ação específicos que eles precisam executar.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Especialista)
 

@@ -44,7 +44,7 @@ Verwenden Sie diesen Prompt, wenn Sie schnell eine einfache Plus/Minus-Berechnun
 > **Rolle:** Du bist ein Experte für das Schreiben von Notion-Formeln.
 > **Aufgabe:** In meiner Notion-Datenbank gibt es die Eigenschaften "Betrag" (Zahl) und "Typ" (Auswahl: Einnahme/Ausgabe). Kombiniere diese beiden, um den "tatsächlichen Betrag" zu berechnen: Wenn der Typ "Einnahme" ist, bleibt der Betrag positiv, bei "Ausgabe" wird ein Minus (-) vorangestellt. Schreibe dafür eine `if`-Formel.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Version)
 

@@ -43,7 +43,7 @@ Utilizzalo quando hai bisogno di analizzare in profondità i difetti logici di u
 > **Compito:** Rifletti (Pondering) profondamente sulle possibili race condition nascoste e sulle perdite di memoria nel codice sottostante, analizzale con cura e forniscimi il codice completo che risolve questi problemi alla radice.
 > **Codice:** `[Inserisci lo snippet di codice sospetto]`
 
-<br>
+\
 
 ### 🥇 Versione Pro
 

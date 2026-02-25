@@ -10,7 +10,7 @@ tags: ["architecture", "frontend", "microservices", "web-development"]
 
 - **🎯 Empfohlen für:** Frontend-Architekten, Tech Leads, Senior Web-Entwickler
 - **⏱️ Zeitersparnis:** 3 Tage Recherche → 5 Minuten
-- **🤖 Empfohlenes Modell:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 Empfohlenes Modell:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **Schwierigkeitsgrad:** ⭐⭐⭐⭐☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -39,7 +39,7 @@ Nutzen Sie diese Basis-Version, um eine erste Machbarkeitsanalyse für Ihr Proje
 > **Rolle:** Du bist ein erfahrener Software-Architekt mit Fokus auf Frontend-Technologien.
 > **Aufgabe:** Erstelle eine einfache Gegenüberstellung der Vor- und Nachteile von Micro-Frontends für eine `[Art der App, z.B. E-Commerce Plattform]`. Empfiehl eine Implementierungsstrategie für das Jahr 2026.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für die tiefe technische Planung)
 

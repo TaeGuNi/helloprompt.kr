@@ -43,7 +43,7 @@ Tailwind CSS acelera drásticamente la velocidad de desarrollo, pero memorizar s
 > **Tarea:** Convierte el siguiente código CSS a las clases utilitarias de Tailwind CSS más apropiadas.
 > **CSS:** `display: flex; justify-content: center; align-items: center; height: 100vh;`
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

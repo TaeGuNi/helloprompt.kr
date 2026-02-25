@@ -48,7 +48,7 @@ Use this prompt when you have an audio recording or an auto-generated transcript
 > 2. List the 'Action Items' that I (the Korean representative) must handle immediately, prioritized by urgency.
 > 3. If any nuances during the discussion were ambiguous (e.g., sugar-coated rejections, conditional approvals), interpret them clearly and explicitly.
 
-<br>
+\
 
 ### 🥇 Pro Version (Live Interpreter & Response Coach)
 
@@ -116,10 +116,10 @@ When a client drops a long, complicated question mid-meeting, simply highlight t
 **Client:** (Same statement as above)
 **AI Assistant (Real-time Output):**
 
-> - **Interpretation:** They are worried if the backend can handle a 3x user growth in Q3. Asking what your Plan B is.
-> - **Nuance:** Lacks confidence in the current server architecture. Wants concrete countermeasures.
-> - **Response 1 (Prepared):** "We already have an auto-scaling group configured. Let me share the stress test results after this meeting." 
-> - **Response 2 (Buying Time):** "That’s a valid point. Our lead engineer is reviewing the exact metrics for Q3. We will get back to you by tomorrow." 
+- **Interpretation:** They are worried if the backend can handle a 3x user growth in Q3. Asking what your Plan B is.
+- **Nuance:** Lacks confidence in the current server architecture. Wants concrete countermeasures.
+- **Response 1 (Prepared):** "We already have an auto-scaling group configured. Let me share the stress test results after this meeting." 
+- **Response 2 (Buying Time):** "That’s a valid point. Our lead engineer is reviewing the exact metrics for Q3. We will get back to you by tomorrow." 
 
 **Me:** (Glancing at the monitor with a relaxed smile) "That’s a valid point. We already have an auto-scaling..." (Credibility spikes 📈 Professionalism secured 😎)
 

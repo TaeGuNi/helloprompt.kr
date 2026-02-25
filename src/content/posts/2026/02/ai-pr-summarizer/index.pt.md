@@ -13,7 +13,7 @@ tags: [Git, Github, Collaboration, Productivity, AI]
 
 - **🎯 Recomendado para:** Desenvolvedores Seniores, Tech Leads, e qualquer desenvolvedor exausto com revisões de código
 - **⏱️ Tempo necessário:** 1 hora → reduzido para 3 minutos
-- **🤖 Modelos recomendados:** Claude 3.5 Sonnet, Gemini 1.5 Pro, GPT-4o
+- **🤖 Modelos recomendados:** Claude 3.5 Sonnet, Gemini 2.5 Pro, GPT-4o
 
 - ⭐ **Dificuldade:** ⭐☆☆☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -47,7 +47,7 @@ Ideal para quando você precisa de um panorama rápido e direto ao ponto.
 > **[Dados do Git Diff]**
 > `[Cole o resultado do git diff ou a descrição do PR aqui]`
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 
@@ -94,7 +94,7 @@ Mesmo que sua empresa não pague por ferramentas caras como o Github Copilot Ent
 ## 🙋 Perguntas Frequentes (FAQ)
 
 - **P: E se o texto do Diff for tão longo que a IA recuse a entrada (limite de tokens)?**
-  - R: Modelos modernos de ponta, como o Claude 3.5 Sonnet e o Gemini 1.5 Pro, possuem janelas de contexto (Context Windows) gigantescas, capazes de engolir dezenas de milhares de linhas de código sem suar. Se por um acaso extremo você esbarrar em um limite, use o comando `git diff --stat` para resumir apenas a lista de arquivos alterados primeiro, ou filtre o diff para incluir apenas os arquivos do domínio principal (core logic).
+  - R: Modelos modernos de ponta, como o Claude 3.5 Sonnet e o Gemini 2.5 Pro, possuem janelas de contexto (Context Windows) gigantescas, capazes de engolir dezenas de milhares de linhas de código sem suar. Se por um acaso extremo você esbarrar em um limite, use o comando `git diff --stat` para resumir apenas a lista de arquivos alterados primeiro, ou filtre o diff para incluir apenas os arquivos do domínio principal (core logic).
 
 - **P: É seguro colar o código privado da minha empresa em uma IA pública?**
   - R: **Você deve ter extremo cuidado com isso.** O código-fonte da sua empresa é um ativo confidencial. Ao usar versões públicas do ChatGPT ou Claude, verifique obrigatoriamente nas configurações se a opção de "Não usar meus dados para treinar modelos (Data Opt-out)" está ativada. A abordagem definitiva e segura é utilizar os planos corporativos (Enterprise) que garantem a privacidade dos dados por contrato, ou rodar um LLM localmente na sua máquina (usando ferramentas como o Ollama).

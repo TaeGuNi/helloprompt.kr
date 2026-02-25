@@ -42,7 +42,7 @@ Use this for immediate relief without complex setups when you're spending the ni
 > **Role:** You are an expert sleep meditation guide.
 > **Task:** I have an important event tomorrow, and my anxiety is keeping me awake. Please write a 5-minute meditation script using the 'Body Scan' technique to help me completely release physical tension and fall into a deep sleep. Emphasize the sensation of slowly relaxing from the tips of my toes all the way up to the top of my head.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

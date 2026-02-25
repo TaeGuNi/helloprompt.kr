@@ -38,7 +38,7 @@ tags: ["tui", "dev-tools", "cli"]
 > **역할:** 너는 시니어 `[Go/Rust/Python/Node.js]` 개발자이자 TUI(Text User Interface) 디자인 전문가야.
 > **요청:** `[언어 및 프레임워크]`를 사용하여 `[앱 목적]`을 위한 TUI 애플리케이션의 기본 스캐폴딩 코드를 작성해 줘. 좌측에는 사이드바, 우측에는 메인 뷰포트가 있는 구조여야 해.
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 
@@ -98,7 +98,7 @@ tags: ["tui", "dev-tools", "cli"]
 
 ### ❌ Before (기존 방식)
 
-> 끝없이 위로 스크롤되어 올라가서 가독성이 떨어지는 단색 텍스트 로그
+끝없이 위로 스크롤되어 올라가서 가독성이 떨어지는 단색 텍스트 로그
 
 ```text
 [INFO] Starting server on port 8080...
@@ -109,7 +109,7 @@ tags: ["tui", "dev-tools", "cli"]
 
 ### ✅ After (결과)
 
-> AI가 생성한 스캐폴딩을 바탕으로 구현된 인터랙티브 TUI 대시보드
+AI가 생성한 스캐폴딩을 바탕으로 구현된 인터랙티브 TUI 대시보드
 
 ```text
 ╭─ Services ────────────────╮ ╭─ Live Logs: Server Alpha ───────────────────╮

@@ -13,7 +13,7 @@ tags: ["독서", "요약", "학습", "지식관리"]
 
 - **🎯 Recomendado para:** Profissionais, desenvolvedores e estudantes de pós-graduação que têm uma montanha de materiais para ler, mas pouco tempo
 - **⏱️ Tempo necessário:** De 1 hora → Reduzido para 15 minutos
-- **🤖 Modelos recomendados:** Claude 3.5 Sonnet (excelente para processar contextos longos), Gemini 1.5 Pro
+- **🤖 Modelos recomendados:** Claude 3.5 Sonnet (excelente para processar contextos longos), Gemini 2.5 Pro
 
 - ⭐ **Dificuldade:** ⭐⭐☆☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -45,7 +45,7 @@ Use esta versão quando precisar entender rapidamente apenas o contexto principa
 > **Task (Tarefa):** Leia o texto abaixo e resuma de forma simples, para que até um iniciante entenda, apenas os 3 pontos mais importantes.
 > **Texto:** `[Insira o texto aqui]`
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 
@@ -88,7 +88,7 @@ O cérebro humano aprende mais rápido quando conecta informações desconhecida
 ## 🙋 Perguntas Frequentes (FAQ) {#faq}
 
 - **P: Posso copiar e colar um livro inteiro de uma vez?**
-  - R: Depende do tamanho da janela de contexto (Context Window) do modelo de IA. Modelos mais recentes, como o Gemini 1.5 Pro ou Claude 3.5 Sonnet, conseguem processar facilmente PDFs ou textos com o volume de um livro inteiro. No entanto, se você deseja respostas mais precisas e refinadas, recomendo fazer perguntas divididas por capítulos.
+  - R: Depende do tamanho da janela de contexto (Context Window) do modelo de IA. Modelos mais recentes, como o Gemini 2.5 Pro ou Claude 3.5 Sonnet, conseguem processar facilmente PDFs ou textos com o volume de um livro inteiro. No entanto, se você deseja respostas mais precisas e refinadas, recomendo fazer perguntas divididas por capítulos.
 
 - **P: Posso confiar apenas no resumo e não ler o texto original?**
   - R: A IA é uma excelente bússola, mas não contém todos os detalhes do mapa. Use este prompt como um 'aperitivo para captar a estrutura e o contexto do livro antes da leitura aprofundada'. Se você inserir a estrutura geral no cérebro primeiro e depois ler o texto original, absorverá o conteúdo como uma esponja.

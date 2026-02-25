@@ -42,7 +42,7 @@ Idéal lorsque vous manquez d'inspiration ou pour trouver rapidement un angle po
 > **Rôle :** Tu es un expert en marketing digital.
 > **Requête :** Propose-moi 5 titres d'articles ou de posts pour `[Sujet/Produit, ex: des compléments alimentaires minceur]`. Inclus obligatoirement le mot-clé `[Mot-clé, ex: perdre 3 kg]` et adopte un ton `[Ton, ex: naturel et conversationnel, comme un avis honnête]`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pour Pages de Vente et Ads)
 

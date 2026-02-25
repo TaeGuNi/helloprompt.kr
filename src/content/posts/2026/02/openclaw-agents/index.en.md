@@ -38,7 +38,7 @@ Use this when you need a quick draft for a single, standalone agent.
 > **Role:** You are an `[OpenClaw Development Expert]`.
 > **Task:** Draft the system prompt and required tool list for an autonomous agent designed to perform `[Specific Task]`.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

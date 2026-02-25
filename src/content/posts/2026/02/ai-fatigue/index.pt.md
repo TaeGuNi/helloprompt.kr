@@ -43,7 +43,7 @@ Use isso para uma triagem rápida de notícias ou ferramentas que chegam até vo
 > **Papel:** Atue como um analista de tecnologia extremamente cético.
 > **Tarefa:** Analise este texto/notícia sobre uma nova IA: `[COLE A NOTÍCIA/DESCRIÇÃO AQUI]`. Diga-me em apenas 2 frases: 1) O que isso realmente faz na prática, sem usar jargões de marketing? 2) Isso é útil para um profissional comum ou é apenas hype de investidores?
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 
@@ -107,7 +107,7 @@ Ao adotar uma postura cética e usar esse framework para desmascarar o hype, con
 
 ---
 
-## 📊 증명: Before & After
+## 📊 Before & After
 
 ### ❌ Before (A Notícia de Marketing)
 

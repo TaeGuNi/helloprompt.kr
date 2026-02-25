@@ -44,7 +44,7 @@ Aquí te revelo un secreto de ingeniería de prompts para asegurar vistas fronta
 > **Prompt de Midjourney:**
 > character sheet of a `[descripción detallada del personaje]`, full body, white background, multiple views, front side and back view --v 6.0 --ar 3:2
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

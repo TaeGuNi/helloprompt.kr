@@ -42,7 +42,7 @@ Pour les extractions simples et rapides sans jointures complexes.
 > **Rôle :** Tu es un Analyste de Données Senior expert en `[Dialecte SQL, ex: PostgreSQL]`.
 > **Tâche :** Écris une requête SQL pour `[Ce que vous voulez extraire, ex: trouver le nombre d'utilisateurs actifs par mois]`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

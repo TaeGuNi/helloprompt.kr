@@ -52,7 +52,7 @@ Use this when you need to run a quick local test or spin up a simple Pod.
 >
 > **Constraints:** Separate the Deployment and Service with `---` to create a single file.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

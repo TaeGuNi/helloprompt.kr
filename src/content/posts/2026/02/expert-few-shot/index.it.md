@@ -45,7 +45,7 @@ Usa questo approccio rapido quando hai bisogno di un risultato immediato.
 > **Ruolo:** Sei un `[Critico Cinematografico]` esperto ed empatico.
 > **Richiesta:** Rispondi a un utente frustrato che ti chiede: `[Perché l'IA non capisce mai il tono che voglio?]`. Spiegagli la tecnica del Few-Shot in 3 righe.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 
@@ -112,7 +112,7 @@ IA: Avengers: Endgame è un film davvero toccante ed emozionante, in cui tutti i
 (Commento: Troppo generico e descrittivo, manca totalmente d'impatto narrativo.)
 ```
 
-<br>
+\
 
 ### ✅ Dopo (Con Few-Shot Prompting)
 

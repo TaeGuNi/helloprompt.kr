@@ -39,7 +39,7 @@ Ideal para tarefas simples onde você quer que a IA avalie e revise o próprio t
 >
 > **Task:** Escreva um `[Artigo sobre IA]`. Antes de me mostrar o resultado, avalie criticamente o seu próprio texto, corrija os erros, melhore a persuasão e o tom de voz. Só então me entregue a versão final, revisada e otimizada.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 
@@ -108,13 +108,13 @@ Quando aplicamos o padrão de _Reflection_ (Reflexão) e _Multi-Agent_ diretamen
 
 ### ❌ Before (A Abordagem 1.0)
 
-> "Escreva um script Python para analisar dados de vendas e gerar um gráfico."
+"Escreva um script Python para analisar dados de vendas e gerar um gráfico."
 
 **Resultado Prático:** O modelo cospe um código básico, sem tratamento de erros (`try/except`), com um gráfico de design pobre e sem lidar com a possibilidade de colunas vazias.
 
 ### ✅ After (Agentic Workflow 3.0)
 
-> (Usando a Versão Pro descrita acima)
+(Usando a Versão Pro descrita acima)
 
 **Resultado Prático:**
 

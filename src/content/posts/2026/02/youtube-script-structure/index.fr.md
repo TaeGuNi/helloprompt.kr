@@ -42,7 +42,7 @@ Utilisez cette version pour obtenir une trame rapide et efficace.
 > **Rôle :** Tu es un `[Producteur YouTube aux millions d'abonnés]`.
 > **Demande :** Crée un script de vidéo YouTube sur `[Sujet]` qui empêche les spectateurs de quitter dans les 5 premières secondes et maintient leur attention jusqu'à la fin.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 
@@ -106,7 +106,7 @@ Sur YouTube, les 5 premières secondes déterminent 80 % du succès d'une vidéo
 Écris-moi un script YouTube pour expliquer comment apprendre l'anglais à la maison. Parle du shadowing avec les séries, de la tenue d'un journal intime et du fait de parler seul.
 ```
 
-<br>
+\
 
 ### ✅ Après (Résultat avec la Version Pro)
 

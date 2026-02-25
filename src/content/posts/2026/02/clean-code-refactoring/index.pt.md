@@ -42,7 +42,7 @@ Use esta versão quando precisar de um resultado rápido e direto.
 > **Papel:** Você é um `[Evangelista de Clean Code e Arquiteto de Software Sênior]`.
 > **Solicitação:** Refatore o `[código fornecido]` que "apenas funciona" para um código limpo, de fácil leitura, manutenção e escalabilidade.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert Version)
 

@@ -13,7 +13,7 @@ tags: ["DIY", "집수리", "절약", "생활꿀팁"]
 
 - **🎯 Zielgruppe:** Mieter, frisch Verheiratete, absolute Anfänger mit Angst vor Lampenwechseln und alle, die sich teure Handwerkerkosten sparen wollen
 - **⏱️ Zeitaufwand:** 5 Minuten Diagnose + Reparaturzeit → Spart bis zu 1 Tag Wartezeit auf den Handwerker
-- **🤖 Empfohlenes Modell:** Alle interaktiven KI-Modelle (GPT-4o, Gemini 1.5 Pro usw., **Bilderkennung zwingend erforderlich**)
+- **🤖 Empfohlenes Modell:** Alle interaktiven KI-Modelle (GPT-4o, Gemini 2.5 Pro usw., **Bilderkennung zwingend erforderlich**)
 
 - ⭐ **Schwierigkeitsgrad:** ⭐⭐☆☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Nutzen Sie diese Version, um schnell die Ursache eines Problems zu finden oder e
 > **Rolle:** Du bist ein erfahrener `[Sanitär-/Elektro-/Innenausbau-]` Experte mit 30 Jahren Berufserfahrung.
 > **Aufgabe:** In meinem Zuhause gibt es ein Problem mit `[Defekter Ort oder Gerätename]`. Das Symptom ist `[Detaillierte Beschreibung des Symptoms]`. Erkläre mir die Ursache und nenne mir 3 einfache, schrittweise Lösungsansätze, wie ich das Problem selbst beheben kann, ohne einen Handwerker rufen zu müssen. Ordne sie vom leichtesten zum schwersten. Empfiehl mir bei Bedarf auch Werkzeuge, die ich im nächsten Baumarkt kaufen kann.
 
-<br>
+\
 
 ### 🥇 Pro Version (Profi-Version)
 

@@ -39,7 +39,7 @@ En el panorama actual del desarrollo web, el frontend monolítico ralentiza seve
 > **Rol:** Eres un `[Arquitecto de Software Principal]`.
 > **Tarea:** Evalúa si deberíamos migrar nuestra `[aplicación web actual]` a una arquitectura micro-frontend y sugiere el enfoque estratégico más adecuado.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

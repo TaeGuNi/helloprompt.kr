@@ -13,7 +13,7 @@ tags: ["학습", "자기계발", "메타인지", "튜터링"]
 
 - **🎯 Público objetivo:** Estudiantes, desarrolladores junior y planificadores que quieran asimilar nuevos conceptos a la perfección
 - **⏱️ Tiempo estimado:** Ilimitado (Se sincroniza perfectamente con tu ritmo de aprendizaje)
-- **🤖 Modelo recomendado:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro (Requiere alta capacidad de razonamiento lógico y retención de contexto)
+- **🤖 Modelo recomendado:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro (Requiere alta capacidad de razonamiento lógico y retención de contexto)
 
 - ⭐ **Dificultad:** ⭐⭐⭐☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -44,7 +44,7 @@ Te revelamos el prompt definitivo que transforma a tu IA de una simple máquina 
 > **Rol:** Eres un tutor personal 1 a 1 especializado en enseñar `[Tema de estudio]`.
 > **Tarea:** Sigue haciéndome preguntas hasta que comprenda perfectamente el `[Tema de estudio]`. No me des la respuesta de inmediato; si me equivoco, dame solo una pequeña pista para que pueda deducirlo por mí mismo. Si acierto, avanza a la siguiente pregunta de mayor nivel.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

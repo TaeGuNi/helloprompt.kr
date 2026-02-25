@@ -42,7 +42,7 @@ Verwenden Sie diese Version, wenn Sie nur eine rudimentäre Konfiguration für e
 > **Rolle:** Du bist ein erfahrener DevOps-Ingenieur und Docker-Experte.
 > **Aufgabe:** Schreibe ein `Dockerfile` und eine `docker-compose.yml` für eine `[Ihr Tech-Stack, z.B. Node.js Express]` Anwendung.
 
-<br>
+\
 
 ### 🥇 Pro Version (Produktionsreif)
 

@@ -47,7 +47,7 @@ Ideale per analisi rapide di manuali massicci o grandi dataset statici.
 >
 > **Richiesta:** Sulla base del materiale fornito, rispondi in modo esaustivo a questa domanda: `[Quali sono le dipendenze deprecate in questo sistema? / Ci sono clausole di rescissione nascoste in questi contratti?]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

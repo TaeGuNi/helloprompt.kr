@@ -42,7 +42,7 @@ Ideal para um diagnóstico rápido e sem complicações.
 > **Papel:** És um especialista em medicina do sono e consultor de ambientes de descanso.
 > **Pedido:** O meu quarto é realmente adequado para dormir? Analisa o meu espaço e os meus hábitos noturnos e fornece-me soluções práticas para alcançar um sono profundo e reparador.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

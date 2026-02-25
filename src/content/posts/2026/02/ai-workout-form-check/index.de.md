@@ -13,7 +13,7 @@ tags: ["운동", "헬스", "PT", "스쿼트", "ChatGPT"]
 
 - **🎯 Zielgruppe:** Berufstätige mit Gelenkschmerzen beim Home-Workout, Studenten und Berufsanfänger, denen Personal Training (PT) zu teuer ist.
 - **⏱️ Zeitaufwand:** 1 Minute (Videoaufnahme und Upload)
-- **🤖 Empfohlenes Modell:** ChatGPT (GPT-4o Vision), Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Empfohlenes Modell:** ChatGPT (GPT-4o Vision), Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Schwierigkeitsgrad:** ⭐☆☆☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Nutzen Sie diese Version, wenn Sie nur schnell die Hauptprobleme Ihrer aktuellen
 > **Rolle:** Du bist ein Fitnesstrainer mit 10 Jahren Berufserfahrung.
 > **Aufgabe:** Das angehängte Video zeigt meine `[Kniebeugen]`-Haltung. Finde fehlerhafte Bewegungen, die ein Verletzungsrisiko darstellen, und bewerte meine Ausführung auf einer Skala von 1 bis 10.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

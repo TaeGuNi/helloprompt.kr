@@ -37,7 +37,7 @@ En pleno 2026, la "IA Cuántica" (Quantum AI) —la fusión entre computación c
 > **Rol:** Eres el mejor consultor de estrategia tecnológica en IA Cuántica del mundo.
 > **Tarea:** Analiza de forma clara 3 casos de uso reales y los beneficios esperados de los algoritmos híbridos de IA Cuántica que se están utilizando actualmente (en 2026) en la industria de `[especificar industria, ej. finanzas, farmacéutica, logística]`.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -101,7 +101,7 @@ La IA no actuará como una simple enciclopedia técnica, sino que te proporciona
 
 ### ❌ Antes (Pregunta simple)
 
-> Dime cómo podemos usar la tecnología de IA Cuántica de 2026 en nuestra empresa de logística.
+Dime cómo podemos usar la tecnología de IA Cuántica de 2026 en nuestra empresa de logística.
 
 **(Resultado)**
 _La computación cuántica utiliza cúbits para procesar datos mediante principios de superposición y entrelazamiento. Una empresa de logística puede usar la IA Cuántica para la optimización de rutas. Permite cálculos rápidos, lo que aumenta la eficiencia logística..._ (Una explicación teórica aburrida que cualquiera podría saber).

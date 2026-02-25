@@ -42,7 +42,7 @@ Encontrar el nombre perfecto para tu marca puede ser un dolor de cabeza. Ejemplo
 > **Rol:** Eres un experto en naming y branding de primer nivel, creador de nombres innovadores para empresas unicornio.
 > **Solicitud:** Voy a lanzar un `[tipo de negocio/servicio]`. Genera 10 ideas de nombres que sean pegajosos, cortos y fáciles de recordar, e incluye una breve explicación para cada uno.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -106,16 +106,16 @@ El mayor error al buscar nombres con IA es pedirle simplemente "dame nombres par
 
 ### ❌ Antes (Entrada)
 
-> "Dame nombres para una app que te ayuda a cocinar con lo que sobra en la nevera."
+"Dame nombres para una app que te ayuda a cocinar con lo que sobra en la nevera."
 
 ### ✅ Después (Resultado)
 
-> 1. **[Compuesto] Frescipe**
->    - Fusión de _Fresh_ (fresco) y _Recipe_ (receta). Suena moderno, de alcance internacional y transmite la idea de crear platos deliciosos con lo que ya tienes.
-> 2. **[Intuitivo] SobraChef**
->    - Combina el problema (las sobras) con la solución (convertirte en un chef). Es directo, empático y tiene un toque divertido para el mercado hispanohablante.
-> 3. **[Abstracto] Noma**
->    - Corto, fácil de recordar y con una sonoridad premium. Evoca el concepto de "No más" (desperdicio), dándole un giro elegante a la sostenibilidad y economía en la cocina.
+1. **[Compuesto] Frescipe**
+   - Fusión de _Fresh_ (fresco) y _Recipe_ (receta). Suena moderno, de alcance internacional y transmite la idea de crear platos deliciosos con lo que ya tienes.
+2. **[Intuitivo] SobraChef**
+   - Combina el problema (las sobras) con la solución (convertirte en un chef). Es directo, empático y tiene un toque divertido para el mercado hispanohablante.
+3. **[Abstracto] Noma**
+   - Corto, fácil de recordar y con una sonoridad premium. Evoca el concepto de "No más" (desperdicio), dándole un giro elegante a la sostenibilidad y economía en la cocina.
 
 ---
 

@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "multimodal-reasoning-2026"]
 
 - **🎯 Target Audience:** Product Managers, UX Researchers, Marketers
 - **⏱️ Time Saved:** 2 hours → 3 minutes
-- **🤖 Recommended Model:** Gemini 1.5 Pro, GPT-4o, Claude 3.5 Sonnet
+- **🤖 Recommended Model:** Gemini 2.5 Pro, GPT-4o, Claude 3.5 Sonnet
 
 - ⭐ **Difficulty:** ⭐⭐⭐☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -39,7 +39,7 @@ Use this for a quick, high-level analysis of a single multimedia asset.
 > **Role:** You are an expert `[UX Researcher]`.
 > **Task:** Analyze this `[uploaded video/image]` and tell me exactly what the user is struggling with.
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -78,7 +78,7 @@ Why is this framework so powerful? Traditional analysis relies heavily on text t
 ## 🙋 Frequently Asked Questions (FAQ)
 
 - **Q: Do I need to convert my audio to text first?**
-  - A: Not anymore! Models like Gemini 1.5 Pro and GPT-4o can natively process audio files. Just upload the `.mp3` or `.mp4` directly alongside your text prompt.
+  - A: Not anymore! Models like Gemini 2.5 Pro and GPT-4o can natively process audio files. Just upload the `.mp3` or `.mp4` directly alongside your text prompt.
 
 - **Q: Is there a file size or length limit for videos?**
   - A: Yes, it varies by model. Gemini Advanced allows up to 1-hour videos, while others might have smaller limits. For longer sessions, consider trimming the video to the most critical interactions.

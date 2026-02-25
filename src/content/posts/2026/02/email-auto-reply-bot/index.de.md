@@ -43,7 +43,7 @@ Verwenden Sie diese Version, wenn Sie vor einer detaillierten Antwort schnell de
 >
 > Du bist mein professioneller Assistent. Analysiere den Inhalt der neu eingegangenen E-Mail und verfasse eine Antwort an den Absender in höflichem und stilvollem Business-Englisch, die besagt: "Wir haben Ihre E-Mail erhalten. Der zuständige Mitarbeiter wird den Inhalt prüfen und sich innerhalb von 24 Stunden mit einer ausführlichen Antwort bei Ihnen melden."
 
-<br>
+\
 
 ### 🥇 Pro Version (Kontextbasierte intelligente Antwort)
 

@@ -9,7 +9,7 @@ cover: "./cover.jpg"
 
 - **🎯 Recommandé pour :** Architectes Cloud, Développeurs Backend, Ingénieurs DevOps
 - **⏱️ Temps gagné :** 4 heures d'analyse architecturale → 3 minutes de génération
-- **🤖 Modèles recommandés :** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 Modèles recommandés :** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **Difficulté :** ⭐⭐⭐☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -40,7 +40,7 @@ Idéal pour obtenir une vue d'ensemble rapide ou vérifier la faisabilité techn
 > **Rôle :** Tu es un `[Architecte Cloud Senior]`.
 > **Requête :** Analyse la faisabilité de migrer mon application de `[cas d'usage, ex : traitement vidéo en temps réel]` vers une architecture Serverless Edge et liste les 3 principaux défis techniques à anticiper.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Expert)
 

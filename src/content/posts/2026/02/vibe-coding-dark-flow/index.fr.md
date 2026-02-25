@@ -8,11 +8,7 @@ tags: [AI, coding, productivity, prompt-engineering, psychology]
 
 # 📝 Le Piège du Vibe Coding : Comment Échapper à l'Addiction au Code IA (Dark Flow)
 
-<!-- ⚠️ [CRITICAL RULE] Support Multilingue (Traduction en 10 langues obligatoire) ⚠️
-Juste après avoir rédigé un nouvel article (`index.ko.md`) avec ce template,
-vous devez **impérativement** créer les 9 fichiers de traduction (`index.[lang].md`) dans le même répertoire.
-Langues supportées (9) : en, de, es, fr, it, ja, pt, ru, zh
-Un total de 10 fichiers (coréen + 9 langues étrangères) doit être présent dans le dossier pour que le déploiement réussisse. -->
+
 
 - **🎯 Recommandé pour :** Développeurs Junior/Intermédiaire, Utilisateurs d'outils de codage IA (Cursor, Copilot, etc.)
 - **⏱️ Temps gagné :** 1 heure de débogage et de revue de code → Réduit à 3 minutes

@@ -50,7 +50,7 @@ Si hasta ahora estabas planificando y escribiendo desde cero para cada plataform
 > 
 > **Texto original:** `[Pega aquí el contenido de tu artículo]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

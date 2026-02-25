@@ -48,7 +48,7 @@ Use quando precisar identificar rapidamente os problemas do código.
 > [Cole seu código aqui]
 > ```
 
-<br>
+\
 
 ### 🥇 Versão Pro (Profissional)
 

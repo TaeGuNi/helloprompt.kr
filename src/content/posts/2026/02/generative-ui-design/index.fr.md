@@ -19,7 +19,7 @@ title: " \"생성형 UI (Generative UI): 클릭 없는 인터페이스의 미래
 
 - **🎯 Recommandé pour :** Product Designers, Développeurs Front-end, Chefs de Projet
 - **⏱️ Temps gagné :** De 1 heure → à 3 minutes
-- **🤖 Modèles recommandés :** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 Modèles recommandés :** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **Difficulté :** ⭐⭐⭐☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -52,7 +52,7 @@ Idéal pour obtenir rapidement une idée de la structure d'un écran.
 > **Rôle :** Tu es un `[Lead Product Designer]`.
 > **Tâche :** Décris le layout d'un composant UI mobile présentant `[un itinéraire de voyage à Busan pour ce week-end]`. Inclus également des recommandations de classes Tailwind CSS.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

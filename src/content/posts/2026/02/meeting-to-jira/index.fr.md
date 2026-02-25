@@ -43,7 +43,7 @@ Idéal pour extraire rapidement les informations essentielles : qui fait quoi et
 > **Tâche :** À partir de la transcription de réunion fournie, extrais une liste claire et actionnable indiquant 'Qui (Assignee)', 'Pour quand (Due Date)', et 'Quoi (Task)'.
 > **Transcription :** `[Collez la transcription de la réunion ici]`
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

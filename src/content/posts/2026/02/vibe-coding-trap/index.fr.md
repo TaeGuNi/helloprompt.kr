@@ -64,7 +64,7 @@ Utilisez ce prompt lorsque vous souhaitez faire vérifier un code ou une idée q
 > [Insérez votre extrait de code ici]
 > ```
 
-<br>
+\
 
 ### 🥇 Version Pro (Prompt de l'Inquisiteur d'Architecture)
 
@@ -126,7 +126,7 @@ Récemment, j'ai moi-même succombé à la douce tentation du "Vibe Coding" pour
 
 ### ❌ Avant (Le désastre du Vibe Coding)
 
-> "Code-moi un composant React qui récupère une liste d'utilisateurs et la filtre."
+"Code-moi un composant React qui récupère une liste d'utilisateurs et la filtre."
 
 _(Résultat : Copier-coller aveugle de l'output sans comprendre la gestion de l'état asynchrone ni les problèmes de re-rendu, ce qui provoque une fuite de mémoire inexpliquée en production)_
 

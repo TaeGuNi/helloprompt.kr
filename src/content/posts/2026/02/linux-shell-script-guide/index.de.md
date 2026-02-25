@@ -42,7 +42,7 @@ Nutzen Sie diesen Prompt, wenn Ihr Desktop oder Download-Ordner unordentlich ist
 > **Rolle:** Du bist ein `[Linux-Systemingenieur mit 10 Jahren Berufserfahrung]`.
 > **Aufgabe:** Schreibe ein `[Shell-Skript, das die Dateien in meinem ~/Downloads-Ordner automatisch nach Dateiendung sortiert, entsprechende Unterordner erstellt (z. B. "Images" für jpg, "Docs" für pdf) und die Dateien dorthin verschiebt]`. Erkläre mir auch, wie ich dem Skript Ausführungsrechte erteile.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten: Log-Analyse & Echtzeit-Slack-Alerts)
 

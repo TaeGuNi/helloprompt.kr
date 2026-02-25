@@ -42,7 +42,7 @@ Idéale pour obtenir un résultat rapide et direct avant de partir au cabinet.
 > **Rôle :** Tu es un psychologue pour enfants et un auteur de contes bienveillant.
 > **Demande :** Raconte une courte histoire pour aider un enfant qui a très peur d'aller chez le dentiste demain, en transformant le soin en une aventure amusante.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 

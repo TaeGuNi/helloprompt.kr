@@ -39,7 +39,7 @@ Utilisez cette version pour une analyse de sécurité rapide d'un bout de code B
 > **Rôle :** Tu es un `[Expert en Sécurité IoT]`.
 > **Requête :** Analyse ce script de connexion Bluetooth et identifie les `[Vulnérabilités de fuite de données biométriques]`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

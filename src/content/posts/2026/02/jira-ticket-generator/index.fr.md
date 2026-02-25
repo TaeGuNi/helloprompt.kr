@@ -45,7 +45,7 @@ Utilisez cette version lorsque vous souhaitez générer rapidement une simple li
 > **Spécifications :** `[Collez l'intégralité de vos spécifications ici]`
 > **Tâche :** Découpe ces spécifications en **tâches détaillées (Tasks)** prêtes à être développées. Présente-les sous forme de checklist. Fais une distinction claire entre les tâches Front-end et Back-end.
 
-<br>
+\
 
 ### 🥇 Version Pro
 

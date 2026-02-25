@@ -40,7 +40,7 @@ Usa questo approccio per pulire rapidamente un testo palesemente generato dall'I
 > **Ruolo:** Agisci come un `[Editor Professionista e Critico Letterario]`.
 > **Richiesta:** Riscrivi questo `[testo]` eliminando tutte le frasi fatte tipiche dell'IA (es. "Nel mondo frenetico di oggi", "In conclusione", "Sblocca il potenziale", "Tuffiamoci"). Rendilo diretto, umano, conciso e conversazionale.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 
@@ -97,11 +97,11 @@ L'affaticamento da IA è reale e palpabile. Quando ogni tuo concorrente ha acces
 
 ### ❌ Before (Testo tipico dell'IA)
 
-> Nel panorama digitale in rapida evoluzione di oggi, l'intelligenza artificiale rappresenta una rivoluzione senza precedenti per le aziende moderne. Per sbloccare il vero potenziale del tuo team, è fondamentale implementare soluzioni basate sull'IA olistica. In conclusione, il futuro appartiene a coloro che abbracciano l'innovazione con sinergia.
+Nel panorama digitale in rapida evoluzione di oggi, l'intelligenza artificiale rappresenta una rivoluzione senza precedenti per le aziende moderne. Per sbloccare il vero potenziale del tuo team, è fondamentale implementare soluzioni basate sull'IA olistica. In conclusione, il futuro appartiene a coloro che abbracciano l'innovazione con sinergia.
 
 ### ✅ After (Risultato con il Filtro Anti-Slop)
 
-> L'abbiamo capito: l'intelligenza artificiale ha cambiato le regole del gioco. Ma se leggo un'altra email su LinkedIn che mi promette di "sbloccare il potenziale aziendale", giuro che scollego il router e torno alla macchina da scrivere. Il vero vantaggio competitivo oggi non è avere l'IA—ormai ce l'ha anche il mio panettiere—ma capire esattamente quali problemi noiosi e ripetitivi delegarle. Solo così avrai il lusso di dedicare tempo al lavoro che richiede vera intelligenza. Quella umana.
+L'abbiamo capito: l'intelligenza artificiale ha cambiato le regole del gioco. Ma se leggo un'altra email su LinkedIn che mi promette di "sbloccare il potenziale aziendale", giuro che scollego il router e torno alla macchina da scrivere. Il vero vantaggio competitivo oggi non è avere l'IA—ormai ce l'ha anche il mio panettiere—ma capire esattamente quali problemi noiosi e ripetitivi delegarle. Solo così avrai il lusso di dedicare tempo al lavoro che richiede vera intelligenza. Quella umana.
 
 ---
 

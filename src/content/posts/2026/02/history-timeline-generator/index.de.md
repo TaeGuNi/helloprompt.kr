@@ -44,7 +44,7 @@ Verwenden Sie dies, wenn Sie nur ein schnelles und einfaches Ergebnis benötigen
 >
 > **Anfrage:** Bitte ordne die wichtigsten Ereignisse zum Thema `[Historisches Thema]` chronologisch und erkläre kurz die Ursachen und Wirkungen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 
@@ -103,7 +103,7 @@ Dieser Prompt entfaltet seine wahre Stärke, wenn Sie ihn für komplexe geopolit
 
 ### ❌ Before (Einfache Textanfrage)
 
-> "Fasse den Ersten Weltkrieg zusammen."
+"Fasse den Ersten Weltkrieg zusammen."
 
 _(Ergebnis: Ein langer, schwer lesbarer Textblock, der mit Jahreszahlen überladen ist und bei dem man nach drei Sätzen den Faden verliert.)_
 

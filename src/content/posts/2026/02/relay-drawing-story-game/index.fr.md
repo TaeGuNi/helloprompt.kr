@@ -43,7 +43,7 @@ Idéal pour lancer une partie rapidement sans trop réfléchir.
 > **Rôle :** Tu es un auteur de contes pour enfants très créatif.
 > **Requête :** Propose-moi 3 idées de dessins absurdes et amusants que je peux réaliser avec mon enfant pour créer une histoire.
 
-<br>
+\
 
 ### 🥇 Version Experte (Pro Version)
 

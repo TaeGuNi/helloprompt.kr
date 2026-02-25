@@ -41,7 +41,7 @@ Nutzen Sie diesen Prompt, wenn Sie sofort ein gutes Restaurant in der Nähe find
 
 > **Anfrage:** Empfiehl mir genau 3 `[Cafés]` in der Nähe von `[Aewol-eup, Jeju]`, die einen fantastischen `[Meerblick]` bieten. Bitte suche Orte heraus, die nicht völlig überlaufen sind und gute Parkmöglichkeiten bieten.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten & Reiseplaner)
 

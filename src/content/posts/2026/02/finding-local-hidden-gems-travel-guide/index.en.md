@@ -13,7 +13,7 @@ tags: ["Hidden Spots", "Local Travel", "Hidden Places", "Exploration"]
 
 - **🎯 Recommended for:** Travelers, Digital Nomads, Backpackers seeking authentic experiences
 - **⏱️ Time required:** 5 minutes
-- **🤖 Recommended model:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 Recommended model:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **Difficulty:** ⭐⭐☆☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Use this when you need quick, high-level recommendations on the go.
 > **Role:** You are a savvy local editor who has lived in `[City Name]` for over 10 years.
 > **Request:** I am tired of places crowded with tourists! Reveal 5 hidden hotspots and local hangouts in `[City Name]` that rarely appear on standard tourist maps.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

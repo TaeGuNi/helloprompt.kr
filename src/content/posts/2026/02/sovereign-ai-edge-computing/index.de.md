@@ -52,7 +52,7 @@ Ein Basis-Prompt für die schnelle Zusammenfassung oder Übersetzung von Dokumen
 > **Rolle:** Du bist ein `[Sicherheitsassistent]`, der in einer vom Internet getrennten Offline-Umgebung arbeitet.
 > **Aufgabe:** Analysiere und fasse den bereitgestellten `[Text]` zusammen. Verwende kein externes Wissen, sondern stütze dich ausschließlich auf die gegebenen Informationen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten & sensible Daten)
 

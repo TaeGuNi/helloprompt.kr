@@ -44,7 +44,7 @@ Idéal pour corriger rapidement les erreurs de syntaxe mineures signalées par P
 > **Rôle :** Tu es un `[Développeur Frontend Senior]`.
 > **Tâche :** En analysant le journal d'erreurs fourni, corrige uniquement et avec précision les `[erreurs de linter et fautes de frappe]` dans le code, puis renvoie le code complet corrigé.
 
-<br>
+\
 
 ### 🥇 Version Pro (Agent d'auto-guérison - Sécurité avant tout)
 

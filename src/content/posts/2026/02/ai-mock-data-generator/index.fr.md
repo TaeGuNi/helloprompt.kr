@@ -42,7 +42,7 @@ Il est très fréquent de rencontrer des goulots d'étranglement lors du dévelo
 > **Rôle :** Tu es un `[Développeur Frontend Senior]`.
 > **Tâche :** Crée-moi 5 données fictives (JSON) de `[Profils Utilisateurs]` pour des tests d'interface frontend. Les champs à inclure sont id, name et email.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

@@ -44,7 +44,7 @@ Verwenden Sie dies, wenn Sie unter Zeitdruck stehen und nur ein schnelles, funkt
 > **Rolle:** Du bist ein erfahrener Software Engineer.
 > **Aufgabe:** Refaktoriere den folgenden unsauberen Code in leicht lesbaren Clean Code: `[HIER CODE EINFÜGEN]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Version)
 

@@ -39,7 +39,7 @@ Nutzen Sie diese Version, wenn Sie zügig ein Projekt-Boilerplate und Empfehlung
 > **Rolle:** Du bist ein `[Senior Rust Backend-Entwickler]` mit 10 Jahren Erfahrung.
 > **Aufgabe:** Empfiehl die optimale Kombination aus Rust-Web-Framework und asynchroner Runtime für meinen geplanten `[Service-Beschreibung]`. Erstelle außerdem eine grundlegende `main.rs`-Struktur für den Start.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten)
 

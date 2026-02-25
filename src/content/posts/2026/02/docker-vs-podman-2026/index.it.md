@@ -43,7 +43,7 @@ Utilizza questo prompt quando vuoi verificare al volo come adattare i tuoi coman
 > 
 > **Azione:** Converti il mio comando o script Docker esistente `[Inserisci qui il comando docker run o lo script]` affinché funzioni perfettamente nella modalità Rootless di Podman. Nello specifico, evidenzia i potenziali errori relativi ai permessi dei volumi montati (incluso SELinux) e al bridge di rete, fornendo le relative soluzioni.
 
-<br>
+\
 
 ### 🥇 Pro Version (Transizione perfetta da docker-compose a K8s)
 

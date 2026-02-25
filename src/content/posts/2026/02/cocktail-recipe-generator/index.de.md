@@ -43,7 +43,7 @@ Verwenden Sie diesen Prompt, wenn Sie schnell einen leckeren Drink brauchen.
 > **Situation:** In meinem Kühlschrank habe ich Wodka, Sprite und Orangensaft.
 > **Aufgabe:** Nenne mir das Mischverhältnis für einen leichten, süßen Home-Cocktail mit diesen Zutaten. (Nutze z.B. ein Schnapsglas als Maßeinheit)
 
-<br>
+\
 
 ### 🥇 Pro Version (Entwicklung eines Signature-Drinks)
 
@@ -102,17 +102,17 @@ Außerdem: Wenn Sie die Einschränkung (Constraint) `'Verwende keine Zutaten, di
 
 ### ❌ Vorher (Chaos-Mischung)
 
-> Ich mische den restlichen Whiskey und den Saft einfach nach Augenmaß.
+Ich mische den restlichen Whiskey und den Saft einfach nach Augenmaß.
 > **Ergebnis:** "Ugh, das schmeckt nach gar nichts und gleichzeitig eklig." (Am Ende landet es im Ausguss und nur der Kater bleibt 🤕)
 
 ### ✅ Nachher (Rezept des KI-Barkeepers)
 
 > **KI:** "Ich präsentiere Ihren Signature-Cocktail: **[Midnight Oasis]**."
->
-> - **Verhältnis:** 1 Shotglas Whiskey + 2 Shotgläser Orangensaft + 1 Shotglas Ginger Ale
-> - **Zubereitung:** Geben Sie Whiskey und Saft in ein mit Eis gefülltes Glas und rühren Sie mit einem Essstäbchen 5 Mal leicht um. Gießen Sie zum Schluss das Ginger Ale langsam hinzu, um die Kohlensäure zu erhalten.
-> - **Story:** Ein Drink wie eine süße Oase, auf die man nach einem langen, anstrengenden Tag in der Wüste des Alltags trifft.
->
+
+- **Verhältnis:** 1 Shotglas Whiskey + 2 Shotgläser Orangensaft + 1 Shotglas Ginger Ale
+- **Zubereitung:** Geben Sie Whiskey und Saft in ein mit Eis gefülltes Glas und rühren Sie mit einem Essstäbchen 5 Mal leicht um. Gießen Sie zum Schluss das Ginger Ale langsam hinzu, um die Kohlensäure zu erhalten.
+- **Story:** Ein Drink wie eine süße Oase, auf die man nach einem langen, anstrengenden Tag in der Wüste des Alltags trifft.
+
 > **Ergebnis:** "Wow, das schmeckt besser als in der Bar!" (Perfekte Balance und Stimmung 🍹)
 
 ---

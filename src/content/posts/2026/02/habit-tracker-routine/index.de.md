@@ -43,7 +43,7 @@ Verwenden Sie diesen Prompt, wenn Sie ohne komplexe Einstellungen sofort eine ei
 > **Situation:** Ich bin ein normaler Büroangestellter und nach Feierabend immer zu erschöpft, um noch etwas zu erledigen.
 > **Aufgabe:** Erstelle mir einen realistischen abendlichen Zeitplan, damit ich jeden Tag zumindest ein bisschen `[Englisch lernen, Home-Workouts machen, Lesen]` kann.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten)
 

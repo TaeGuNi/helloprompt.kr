@@ -42,10 +42,10 @@ No entanto, o Three.js puro exige fórmulas matemáticas complexas, como matrize
 Ideal para entender como o R3F funciona e fazer testes rápidos.
 
 > **Role (Papel):** Você é um Desenvolvedor Front-end Sênior.
->
+
 > **Task (Tarefa):** Usando React Three Fiber (R3F), crie um cubo no centro da tela. Quando o usuário passar o mouse por cima (Hover), o cubo deve aumentar de tamanho em 1.2x. Ao clicar, a cor deve mudar aleatoriamente. Use o hook `useFrame` para fazer o cubo girar continuamente de forma interativa.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Showcase de Produtos Estilo Apple)
 
@@ -108,11 +108,11 @@ Na prática profissional, comprimir os modelos usando a **compressão Draco** �
 
 ### ❌ Antes (Apenas imagens 2D estáticas)
 
-> "Não consigo ver como é a parte de trás do produto ou os detalhes do acabamento..." (Sem zoom, sem rotação, apenas a entrega de informação de forma unidirecional 🖼️)
+"Não consigo ver como é a parte de trás do produto ou os detalhes do acabamento..." (Sem zoom, sem rotação, apenas a entrega de informação de forma unidirecional 🖼️)
 
 ### ✅ Depois (Showcase 3D responsivo ao scroll)
 
-> O produto reage sutilmente ao movimento do mouse. Ao rolar a página, o dispositivo se desmonta no ar, revelando a bateria e o chipset interno enquanto as especificações técnicas aparecem suavemente. (Aumento de mais de 300% no tempo de permanência do usuário, oferecendo uma experiência de marca incrivelmente premium 🚀)
+O produto reage sutilmente ao movimento do mouse. Ao rolar a página, o dispositivo se desmonta no ar, revelando a bateria e o chipset interno enquanto as especificações técnicas aparecem suavemente. (Aumento de mais de 300% no tempo de permanência do usuário, oferecendo uma experiência de marca incrivelmente premium 🚀)
 
 ---
 

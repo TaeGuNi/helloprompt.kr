@@ -43,7 +43,7 @@ tags: ["TypeScript", "Zod", "JSON", "类型定义", "生产力"]
 > **任务:** 请将我提供的 JSON 数据转换为 TypeScript 接口，请确保所有嵌套对象都被正确分离。
 > **输入:** `[在此处粘贴您的 JSON 数据]`
 
-<br>
+\
 
 ### 🥇 Pro Version (专家版)
 

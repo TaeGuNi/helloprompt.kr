@@ -42,7 +42,7 @@ Use this when you need a quick burst of inspiration.
 > **Role:** From now on, you are the primary antagonist `[Villain Name]` from my novel.
 > **Request:** A compelling villain is the core of a great story. I am going to interview you directly to excavate your hidden narrative. Answer my questions in character.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

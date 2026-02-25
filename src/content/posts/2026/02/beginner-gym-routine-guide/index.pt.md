@@ -49,7 +49,7 @@ Use isto quando precisar de resultados rápidos e diretos.
 > **Papel:** Você é um personal trainer especialista em musculação com 20 anos de experiência.
 > **Tarefa:** Crie uma rotina de treino de corpo inteiro focada em máquinas para um iniciante na academia.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 
@@ -108,7 +108,7 @@ Para quem está começando na academia, o maior obstáculo não é o peso, mas a
 
 ### ❌ Antes (Entrada)
 
-> "Faça uma rotina de academia para mim."
+"Faça uma rotina de academia para mim."
 
 _(A IA gera listas genéricas com Supino Reto com Barra e Agachamento Livre, deixando o iniciante assustado e sob risco de lesão muscular)._
 

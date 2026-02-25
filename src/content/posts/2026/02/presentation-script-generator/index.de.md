@@ -42,7 +42,7 @@ Verwenden Sie diesen Prompt, wenn Sie schnell ein solides Grundgerüst benötige
 > **Rolle:** Du bist ein professioneller TED-Talk-Coach.
 > **Anfrage:** Schreibe mir ein natürliches Präsentationsskript für meine PPT-Folien, das ich direkt ablesen kann.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 

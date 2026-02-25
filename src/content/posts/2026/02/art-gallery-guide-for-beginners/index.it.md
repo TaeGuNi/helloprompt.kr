@@ -42,7 +42,7 @@ Ideale quando sei già davanti all'opera e vuoi solo uno spunto rapido.
 > **Ruolo:** Sei un Arteterapeuta empatico.
 > **Richiesta:** Sono in una galleria d'arte moderna ma non ci capisco nulla. Fammi 3 domande semplici per aiutarmi a connettermi emotivamente con l'opera che sto guardando, senza usare termini tecnici.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Esperto)
 
@@ -97,7 +97,7 @@ L'errore più comune che facciamo nei musei è cercare di "capire" il messaggio 
 
 ### ❌ Prima (Input generico)
 
-> Spiegami come guardare un quadro astratto.
+Spiegami come guardare un quadro astratto.
 
 _(Risultato tipico: Un lungo e noioso saggio sull'Espressionismo Astratto, su Jackson Pollock e la pittura d'azione, che ti fa passare immediatamente la voglia di guardare il quadro.)_
 

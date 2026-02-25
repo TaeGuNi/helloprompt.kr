@@ -42,7 +42,7 @@ Según investigaciones de la NASA, una siesta de tan solo 26 minutos puede mejor
 > **Rol:** Eres un científico del sueño y consultor de productividad.
 > **Solicitud:** Tengo mucho sueño después de almorzar. Explícame rápidamente la técnica del 'Coffee Nap' para dormir exactamente 20 minutos y despertar renovado, dándome los pasos a seguir ahora mismo.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

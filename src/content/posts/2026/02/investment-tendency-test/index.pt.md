@@ -48,7 +48,7 @@ Use isto quando precisar de um diagnóstico rápido e direto ao ponto.
 > **Papel:** Você é um `[Especialista em Psicologia Financeira e Economia Comportamental]`.
 > **Tarefa:** Chega de questionários padrão de banco. Faça uma avaliação rápida e interativa para descobrir minha verdadeira tolerância ao risco em investimentos.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

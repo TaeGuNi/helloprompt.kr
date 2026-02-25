@@ -51,7 +51,7 @@ Utilisez cette version pour obtenir un résultat rapide et direct.
 >
 > [Insérez le contenu de votre CV coréen ici]
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

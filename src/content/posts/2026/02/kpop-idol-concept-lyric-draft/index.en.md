@@ -42,7 +42,7 @@ Use this when you need a rapid burst of inspiration without detailed setup.
 > **Role:** You are a legendary K-POP creative director with experience at top-tier agencies like SM, HYBE, and JYP.
 > **Request:** I want to act as a producer. Plan a new idol group's overarching universe, their debut album concept, and draft the lyrics for their title track all at once.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Mode)
 
@@ -86,7 +86,7 @@ By defining the persona as a "legendary creative director from SM, HYBE, JYP," y
 ## 🙋 Frequently Asked Questions (FAQ)
 
 - **Q: Does this work well with free AI models like ChatGPT-3.5?**
-  - A: Yes, it works surprisingly well! However, for more nuanced lore and trendier musical concepts, advanced models like GPT-4o, Gemini 1.5 Pro, or Claude 3.5 Sonnet tend to provide much deeper and more culturally accurate K-POP references.
+  - A: Yes, it works surprisingly well! However, for more nuanced lore and trendier musical concepts, advanced models like GPT-4o, Gemini 2.5 Pro, or Claude 3.5 Sonnet tend to provide much deeper and more culturally accurate K-POP references.
 
 - **Q: Can I use this to plan a Boy Group instead of a Girl Group?**
   - A: Absolutely. Just change the `[Group Name & Gender]` variable. You might also want to adjust the `[Core Keywords]` to fit the typical intense performance or refreshing concepts often seen in boy groups.

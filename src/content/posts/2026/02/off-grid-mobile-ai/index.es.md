@@ -42,7 +42,7 @@ Los modelos locales (Small Language Models) requieren instrucciones mucho más d
 > **Rol:** Eres un asistente de redacción conciso.
 > **Tarea:** Resume el siguiente `[texto/documento adjunto]` en 3 viñetas clave y tradúcelo al `[idioma]`.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Análisis de Documentos y Visión)
 

@@ -42,7 +42,7 @@ Utilize esta versão quando precisar apenas de um resultado rápido e direto, se
 > **Papel:** Você é um `[Especialista em Aprendizagem e Memorização]`.
 > **Solicitação:** Converta as seguintes notas de aula em pares curtos de perguntas e respostas para eu adicionar ao meu aplicativo de flashcards.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 
@@ -94,7 +94,7 @@ Ao forçar a IA a colocar as explicações complementares entre parênteses e is
   - A: Com certeza! Basta alterar o Papel (Role) no prompt para `[Professor Nativo do Idioma X]` e pedir na Tarefa (Task) para focar na "extração de vocabulário avançado, expressões idiomáticas em uso e regras gramaticais". O Anki é a ferramenta número 1 dos poliglotas.
 
 - **Q: A IA consegue lidar com PDFs de livros inteiros de uma vez?**
-  - A: Depende da janela de contexto do modelo. O Gemini 1.5 Pro e o Claude 3 Opus conseguem processar livros inteiros perfeitamente. Contudo, para flashcards mais precisos e sem perda de informações ("Agulha no palheiro"), recomendo alimentar a IA com um capítulo ou subcapítulo de cada vez para garantir que nenhum detalhe crítico seja ignorado.
+  - A: Depende da janela de contexto do modelo. O Gemini 2.5 Pro e o Claude 3 Opus conseguem processar livros inteiros perfeitamente. Contudo, para flashcards mais precisos e sem perda de informações ("Agulha no palheiro"), recomendo alimentar a IA com um capítulo ou subcapítulo de cada vez para garantir que nenhum detalhe crítico seja ignorado.
 
 ---
 

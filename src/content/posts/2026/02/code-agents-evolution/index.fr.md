@@ -40,7 +40,7 @@ Utilisez cette approche pour générer rapidement des scripts simples, des fonct
 > **Rôle :** Tu es un `[Développeur Senior]`.
 > **Tâche :** Résous le `[Problème ou Bug]` dans le code fourni et explique brièvement ta démarche.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Expert)
 

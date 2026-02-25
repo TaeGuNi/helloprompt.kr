@@ -47,7 +47,7 @@ Verwenden Sie diesen Befehl, wenn Sie die KI ohne komplizierte Einrichtung sofor
 > ollama run llama3
 > ```
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten)
 

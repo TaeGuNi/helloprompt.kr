@@ -41,7 +41,7 @@ Usa este prompt si solo necesitas una guía rápida de integración.
 > **Rol:** Eres un experto en desarrollo de IA móvil.
 > **Solicitud:** Dame una guía paso a paso para integrar el modelo `[Modelo LLM, ej: Llama 3 8B]` en una aplicación `[Plataforma, ej: iOS/Android]` usando el framework `[Framework, ej: llama.cpp/MLC LLM]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Profesional)
 

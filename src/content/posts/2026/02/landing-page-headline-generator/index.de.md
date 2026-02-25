@@ -42,7 +42,7 @@ Verwenden Sie diesen Prompt, wenn Sie sofort eine solide Textgrundlage ohne viel
 > **Rolle:** Du bist ein erfahrener Web-Copywriter und Conversion-Rate-Optimierer.
 > **Aufgabe:** Schreibe eine fesselnde Headline und Subheadline für die Landingpage von `[Ihr Produkt/Ihre Dienstleistung]`. Der Text muss das Problem `[Hauptproblem des Kunden]` lösen und mit einem starken CTA enden.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 

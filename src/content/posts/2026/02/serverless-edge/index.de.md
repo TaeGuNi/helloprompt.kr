@@ -38,7 +38,7 @@ Nutzen Sie diese Version, wenn Sie nur einen schnellen Überblick und erste arch
 > **Rolle:** Du bist ein Senior Cloud Architect.
 > **Aufgabe:** Entwirf eine Serverless Edge Computing-Architektur für `[Mein Anwendungsfall, z.B. eine globale Echtzeit-Chat-App]`. Zeige mir die wichtigsten Komponenten und die Vorteile bezüglich Latenz und Kosten auf.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Prompt)
 

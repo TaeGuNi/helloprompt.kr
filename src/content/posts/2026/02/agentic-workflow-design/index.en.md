@@ -12,7 +12,7 @@ image: "/images/2026/02/15/agent-workflow.jpg"
 
 - **🎯 Recommended for:** PMs, Planners, and professionals exhausted by repetitive meeting minutes and documentation.
 - **⏱️ Time Saved:** 1 hour → 3 minutes
-- **🤖 Recommended AI:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (Models optimized for Agentic Workflows)
+- **🤖 Recommended AI:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (Models optimized for Agentic Workflows)
 
 - ⭐ **Difficulty:** ⭐⭐⭐☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -43,7 +43,7 @@ Use this when you need a quick grasp of the meeting's core points.
 > **Role:** You are an `[IT Project Manager]`.
 > **Task:** Read the following meeting transcript and summarize the key decisions and action items.
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -85,7 +85,7 @@ Crucially, explicitly stating "never guess" in the constraints almost entirely e
 ## 🙋 Frequently Asked Questions (FAQ)
 
 - **Q: My transcript is too long and causes an error. What should I do?**
-  - A: Modern models (like Claude 3.5 Sonnet or Gemini 1.5 Pro) can easily process tens of thousands of words. If you're hitting limits with older models, try splitting the text in half or switching to a version with a larger context window.
+  - A: Modern models (like Claude 3.5 Sonnet or Gemini 2.5 Pro) can easily process tens of thousands of words. If you're hitting limits with older models, try splitting the text in half or switching to a version with a larger context window.
 
 - **Q: The AI sometimes assigns action items to the wrong person.**
   - A: This typically happens when the speakers aren't clearly differentiated in the raw transcript. If you use a transcription tool with 'speaker diarization' (like Otter.ai or ClovaNote) and input the speaker-separated text, the accuracy will skyrocket to over 99%.

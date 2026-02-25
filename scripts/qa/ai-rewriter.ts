@@ -58,6 +58,7 @@ Your job is to REWRITE the provided Markdown file to perfection.
    - Tables for ratings are BANNED. You MUST use emoji lists (e.g. - ⭐ **난이도:** ⭐⭐☆☆☆).
 3. LOCALIZATION: If this file is a translation (e.g. index.en.md, index.ja.md), you must completely rewrite the translation to sound like a native professional. No awkward machine translation. It must sound expert and persuasive.
 4. QUALITY (Utility & Insight): Ensure the "Hook" sentence is captivating. Ensure "💡 작성자 코멘트 (Insight)" and "🙋 자주 묻는 질문 (FAQ)" exist and are highly valuable and localized to the target language.
+5. DO NOT add any extra frontmatter fields that were not in the original. Specifically, DO NOT add an 'image' property.
 
 RETURN FORMAT:
 Return ONLY the raw, perfectly rewritten Markdown file content. Do NOT wrap it in \`\`\`markdown JSON fences. Literally start with '---' for the frontmatter and end with the last character of the markdown file.

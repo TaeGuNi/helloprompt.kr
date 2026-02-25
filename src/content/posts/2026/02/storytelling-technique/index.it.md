@@ -13,7 +13,7 @@ tags: ["Storytelling", "Scrittura", "Saggio"]
 
 - **🎯 Consigliato per:** Copywriter, Content Creator, Marketer, Blogger
 - **⏱️ Tempo richiesto:** 5 minuti → 30 secondi
-- **🤖 Modello consigliato:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (eccellono nella scrittura creativa)
+- **🤖 Modello consigliato:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (eccellono nella scrittura creativa)
 
 - ⭐ **Difficoltà:** ⭐⭐☆☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Usala quando hai poco tempo e ti serve una riscrittura rapida.
 > **Ruolo:** Sei un `[Autore Bestseller e Copywriter Esperto]`.
 > **Richiesta:** Riscrivi il seguente testo, passando da un noioso elenco di fatti a una storia coinvolgente che faccia leva sulle emozioni. `[Testo: inserisci qui il tuo testo]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

@@ -43,7 +43,7 @@ El diseño visual debe ser el último de tus problemas. Primero, necesitas estab
 > **Solicitud:** Convierte el siguiente texto desordenado de mi currículum en un formato Markdown limpio y estructurado, optimizado para ser copiado a Notion o exportado a PDF.
 > **Texto:** `[Inserta tu texto aquí]`
 
-<br>
+\
 
 ### 🥇 Versión Pro (Expert Version)
 

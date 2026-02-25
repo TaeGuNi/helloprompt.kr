@@ -42,7 +42,7 @@ Use this when you need instant ideas for a quick playtime session.
 > **Role:** You are an expert child psychologist and acting coach.
 > **Request:** Suggest a simple role-playing game to help a kindergartner develop empathy and emotional expression.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Mode)
 

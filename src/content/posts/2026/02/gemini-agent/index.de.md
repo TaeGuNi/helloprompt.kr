@@ -47,7 +47,7 @@ Ideal für schnelles Brainstorming von Automatisierungsideen vor dem Meeting mit
 > **Rolle:** Du bist ein Senior Product Manager (PM).
 > **Aufgabe:** Ich möchte Googles „Gemini Agent Ecosystem“ in unseren Service `[Name und Kernfunktion des Services]` integrieren. Schlage 3 wirkungsvolle Automatisierungs-Use-Cases vor, die Nutzer allein durch Sprachbefehle ausführen können, ohne die App manuell öffnen zu müssen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenmodus)
 

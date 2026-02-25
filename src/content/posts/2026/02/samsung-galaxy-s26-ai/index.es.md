@@ -38,7 +38,7 @@ En el vertiginoso panorama tecnológico de 2026, entender el impacto del Galaxy 
 > **Rol:** Eres un `[Analista Tecnológico]`.
 > **Tarea:** Resume el impacto del `[Galaxy S26 y Exynos 2600]` en el mercado actual, destacando adopción, tecnología y sentimiento.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

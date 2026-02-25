@@ -42,7 +42,7 @@ Use this when you need a quick, no-nonsense outfit suggestion for the day.
 > **Role:** You are a `[Professional Fashion Stylist]`.
 > **Task:** Recommend an outfit based on today's weather: `[Current Weather, e.g., 15°C, sunny, breezy]`.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

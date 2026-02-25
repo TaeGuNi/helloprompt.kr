@@ -42,7 +42,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Craft"]
 > **役割:** あなたはプロのペーパークラフトアーティストです。
 > **リクエスト:** 何重もの紙を切り貼りしたようなペーパーカットアウト(Paper Cutout)と折り紙(Origami)スタイルの画像生成プロンプトを作成してください。
 
-<br>
+\
 
 ### 🥇 Pro Version (専門家形)
 

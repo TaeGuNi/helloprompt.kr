@@ -42,7 +42,7 @@ Usala quando hai bisogno di un'ottimizzazione rapida senza troppi dettagli.
 > **Ruolo:** Sei un esperto sviluppatore di algoritmi ATS e un consulente per la stesura di curriculum.
 > **Richiesta:** Rielabora il mio curriculum inserendo in modo naturale le parole chiave specifiche di questa Job Description, al fine di evitare l'eliminazione automatica da parte dei sistemi di reclutamento.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

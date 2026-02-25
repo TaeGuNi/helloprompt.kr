@@ -42,7 +42,7 @@ Perfekt für den schnellen Alltag, wenn Sie nur ein rasches Review benötigen.
 > **Rolle:** Du bist ein erfahrener `[Clean Code Evangelist und Software-Architekt]`.
 > **Aufgabe:** Refaktorisiere den folgenden Code, der zwar funktioniert, aber extrem unsauber ist. Mach ihn leicht lesbar, gut wartbar und erkläre kurz deine Änderungen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Der Experte)
 

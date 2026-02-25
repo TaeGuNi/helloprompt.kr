@@ -42,7 +42,7 @@ Use esta versão para obter um direcionamento rápido quando não tiver muito te
 > **Papel:** Você é um `[Consultor Financeiro Especialista em Gestão de Dívidas]`.
 > **Solicitação:** Preciso escolher entre a Estratégia Bola de Neve e a Estratégia Avalanche. Tenho `[3 empréstimos e posso pagar R$ 1.500 por mês]`. Analise minha situação e me diga qual é a melhor ordem de pagamento.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

@@ -42,7 +42,7 @@ Use quando quiser apenas ter um rascunho rápido para começar a organizar as id
 > **Papel:** Você é um `[Editor-Chefe de uma Editora de Sucesso]`.
 > **Solicitação:** Crie a estrutura de um índice cativante para um livro sobre `[Seu Tópico]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

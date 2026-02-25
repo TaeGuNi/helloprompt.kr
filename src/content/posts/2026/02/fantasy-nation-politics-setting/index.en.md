@@ -42,7 +42,7 @@ Use this when you need a quick burst of inspiration for a background setting.
 > **Role:** You are a professor of political science and a lead narrative designer for a civilization simulation game.
 > **Request:** A simple kingdom is boring. Design a nation with a complex, three-dimensional political system, such as a theocracy, a stratocracy, or a merchant republic.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

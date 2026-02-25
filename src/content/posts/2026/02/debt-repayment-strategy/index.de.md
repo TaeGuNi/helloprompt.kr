@@ -42,7 +42,7 @@ Nutzen Sie diese Variante, wenn Sie sofort eine grobe Einschätzung benötigen.
 > **Rolle:** Du bist ein erfahrener `[Finanzberater]` für Schuldenmanagement und Kreditwiederherstellung.
 > **Anfrage:** Optimiere meine Schuldenrückzahlung. Analysiere meine Kredite und entscheide zwischen der Schneeball- und der Lawinen-Strategie, um mir die beste Reihenfolge zur Tilgung zu nennen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für die detaillierte Finanzplanung)
 

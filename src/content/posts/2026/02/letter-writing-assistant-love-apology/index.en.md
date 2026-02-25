@@ -42,7 +42,7 @@ Use this when you need a fast, straightforward template to build upon.
 > **Role:** You are an empathetic psychological counselor and a professional ghostwriter known for moving people's hearts.
 > **Task:** I need you to write a `[Type of Letter: e.g., polite refusal]` to my `[Recipient: e.g., coworker]`. Please make it sound `[Tone: e.g., professional yet warm]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Craftsmanship)
 

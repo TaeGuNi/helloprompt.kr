@@ -5,9 +5,6 @@ date: 2026-02-20
 pubDate: 2026-02-20
 description: " \"Aprende a extraer JSON preciso y datos estructurados de LLMs usando la nueva biblioteca LangExtract de Google.\""
 author: "Hello Prompt"
-image:
-  url: "https://docs.astro.build/assets/full-logo-light.png"
-  alt: "Google LangExtract Logo"
 tags: ["Google", "LLM", "Data Extraction", "Python", "AI"]
 ---
 
@@ -15,7 +12,7 @@ tags: ["Google", "LLM", "Data Extraction", "Python", "AI"]
 
 - **🎯 Recomendado para:** Desarrolladores Backend, Ingenieros de Datos, Especialistas en IA
 - **⏱️ Tiempo estimado:** 30 minutos → 2 minutos
-- **🤖 Modelo recomendado:** Gemini 1.5 Flash, Gemini 1.5 Pro
+- **🤖 Modelo recomendado:** Gemini 2.5 Flash, Gemini 2.5 Pro
 
 - ⭐ **Dificultad:** ⭐⭐⭐☆☆
 - ⚡️ **Eficacia:** ⭐⭐⭐⭐⭐
@@ -49,7 +46,7 @@ Antes de LangExtract, dependíamos de instrucciones frágiles y muy propensas a 
 >
 > **Instrucción:** Extrae la información de la siguiente reunión a partir del texto proporcionado. Devuelve ÚNICAMENTE un JSON válido con las claves `topic` (string), `participants` (array de strings), `start_time` (formato ISO) y `location` (string). No incluyas texto adicional ni bloques de código markdown.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Profesional)
 
@@ -71,7 +68,7 @@ Con LangExtract, el "prompt" evoluciona y se convierte en una definición de esq
 > **Restricciones (Constraints):**
 >
 > - La salida final no es un texto, debe ser instanciada estrictamente como un `BaseModel` de Python.
-> - Se debe priorizar el uso de modelos rápidos como Gemini 1.5 Flash para minimizar la latencia.
+> - Se debe priorizar el uso de modelos rápidos como Gemini 2.5 Flash para minimizar la latencia.
 >
 > **Advertencia (Warning):**
 >
@@ -91,7 +88,7 @@ class MeetingInfo(BaseModel):
     start_time: datetime = Field(description="Fecha y hora de inicio de la reunión en formato ISO")
     location: str | None = Field(description="Ubicación física o enlace de la videollamada. Devuelve null si no se menciona.")
 
-# 2. Inicializar el extractor (Optimizado para baja latencia con Gemini 1.5 Flash)
+# 2. Inicializar el extractor (Optimizado para baja latencia con Gemini 2.5 Flash)
 extractor = DataExtractor(model="gemini-1.5-flash")
 
 email_content = """
@@ -124,7 +121,7 @@ Con LangExtract, si Pydantic falla al validar la respuesta (por ejemplo, el mode
   - A: Las expresiones regulares son extremadamente rígidas; si el remitente cambia "a las 2 PM" por "a las 14:00 hrs", el Regex fallará. LangExtract comprende el _significado semántico_ del texto, lo que le permite extraer con precisión los datos sin importar cuán diferente esté redactado el correo o el documento original.
 
 - **Q: ¿Este mecanismo de "autocorrección" disparará mis costos de API?**
-  - A: Solo incurre en un costo adicional si el modelo falla en el primer intento y necesita un segundo pase. Sin embargo, dado que Gemini 1.5 Flash es extremadamente económico e inteligente, ese costo de reintento es fraccional e insignificante en comparación con las horas de ingeniería que ahorras al no tener que depurar errores de _parsing_ a las 3 de la mañana.
+  - A: Solo incurre en un costo adicional si el modelo falla en el primer intento y necesita un segundo pase. Sin embargo, dado que Gemini 2.5 Flash es extremadamente económico e inteligente, ese costo de reintento es fraccional e insignificante en comparación con las horas de ingeniería que ahorras al no tener que depurar errores de _parsing_ a las 3 de la mañana.
 
 ---
 

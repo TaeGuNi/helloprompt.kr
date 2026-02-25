@@ -42,7 +42,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Details"]
 > **역할:** 너는 내셔널 지오그래픽 소속의 수석 매크로 포토그래퍼야.
 > **요청:** `[피사체]`를 피사계 심도가 매우 얕은 극한의 접사(Macro) 사진으로 촬영해 줘. 배경은 부드러운 보케(Bokeh)로 처리하고 피사체의 질감이 극도로 사실적으로 보이게 해 줘.
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 

@@ -42,7 +42,7 @@ Nutzen Sie diesen Prompt, wenn Sie nur einen schnellen Überblick benötigen.
 > **Rolle:** Du bist ein erfahrener Personal Trainer und zertifizierter Ernährungsberater.
 > **Anfrage:** Erstelle mir einen anfängerfreundlichen Trainingsplan für 3 Tage die Woche und grundlegende Ernährungstipps zum Abnehmen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 
@@ -119,7 +119,7 @@ Ich bin 175 cm groß, wiege 80 kg und will 5 kg abnehmen. Ich kann 4 Mal pro Woc
 
 _(Das Ergebnis ist meist eine generische Liste: "Mach 3x15 Kniebeugen, iss weniger Zucker..." – ohne echten Kontext oder verletzungspräventive Struktur.)_
 
-<br>
+\
 
 ### ✅ Nachher (Mit unserem Pro-Prompt)
 
@@ -129,10 +129,10 @@ Hier ist Ihr strukturierter 4-Wochen-Plan, abgestimmt auf Ihr Ziel (5 kg Fettabb
 ### Trainingsplan (Woche 1-4)
 | Tag | Fokus | Übungen (Sätze x Wiederholungen) | Wichtige Haltungsvorgaben / Anfängerfehler |
 |---|---|---|---|
-| Montag | Oberkörper | Brustpresse Maschine (3x10-12)<br>Latzug (3x10-12)<br>Schulterdrücken Kurzhanteln (3x10) | **Latzug:** Brust rausstrecken, Schultern tief lassen. Nicht aus dem unteren Rücken reißen! |
-| Dienstag | Unterkörper | Beinpresse (3x12-15)<br>Beinbeuger Maschine (3x12)<br>Wadenheben (3x15) | **Beinpresse:** Knie am obersten Punkt niemals komplett durchdrücken! Füße schulterbreit. |
+| Montag | Oberkörper | Brustpresse Maschine (3x10-12)\Latzug (3x10-12)\Schulterdrücken Kurzhanteln (3x10) | **Latzug:** Brust rausstrecken, Schultern tief lassen. Nicht aus dem unteren Rücken reißen! |
+| Dienstag | Unterkörper | Beinpresse (3x12-15)\Beinbeuger Maschine (3x12)\Wadenheben (3x15) | **Beinpresse:** Knie am obersten Punkt niemals komplett durchdrücken! Füße schulterbreit. |
 | Mittwoch | Pause | Leichte Bewegung (Spazieren) | Aktive Erholung fördert die Durchblutung und Regeneration. |
-| Donnerstag| Oberkörper | Rudern am Kabelzug (3x10-12)<br>Liegestütze auf Knien (3x Max)<br>Bizepscurls (3x12) | **Rudern:** Schulterblätter am Ende der Bewegung aktiv zusammenziehen. |
+| Donnerstag| Oberkörper | Rudern am Kabelzug (3x10-12)\Liegestütze auf Knien (3x Max)\Bizepscurls (3x12) | **Rudern:** Schulterblätter am Ende der Bewegung aktiv zusammenziehen. |
 ...
 
 ### Beispielhafter Ernährungsplan (ca. 2.100 kcal)

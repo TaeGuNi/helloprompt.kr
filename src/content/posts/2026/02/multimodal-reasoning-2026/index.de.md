@@ -39,7 +39,7 @@ Nutzen Sie diese Version für schnelle, alltägliche Analysen von hochgeladenen 
 > **Rolle:** Du bist ein `[multimodaler Medienanalyst]`.
 > **Aufgabe:** Analysiere dieses angehängte `[Video/Audio/Bild]` und erkläre mir kurz die wichtigste Kernaussage und die emotionale Stimmung.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

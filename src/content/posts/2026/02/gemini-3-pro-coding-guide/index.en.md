@@ -39,7 +39,7 @@ Use this when you quickly want to identify security and performance issues in yo
 > **Role:** You are a `[Senior Backend Developer with 20 years of experience]`.
 > **Task:** Analyze the following `[legacy code]` and identify exactly 3 security and performance issues.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

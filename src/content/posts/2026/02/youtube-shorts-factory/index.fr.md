@@ -40,12 +40,12 @@ Le succès des formats courts (YouTube Shorts, Instagram Reels, TikTok) repose s
 Idéal lorsque vous êtes face au syndrome de la page blanche et cherchez des concepts percutants.
 
 > **Rôle :** Tu es un YouTubeur à succès avec plus d'un million d'abonnés, expert en formats courts.
->
+
 > **Sujet :** `[Astuces pour vivre seul / Budget étudiant]`
->
+
 > **Demande :** Propose-moi 5 idées de Shorts originales et percutantes que les spectateurs ne pourront pas "zapper". Pour chaque idée, fournis le Titre et la Première Phrase d'accroche (le Hook).
 
-<br>
+\
 
 ### 🥇 Version Pro (Conducteur de Tournage)
 

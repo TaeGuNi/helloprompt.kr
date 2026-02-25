@@ -42,7 +42,7 @@ Usala quando sei nel mezzo di una sessione di gioco e ti serve un bottino intere
 > **Ruolo:** Sei un Game Designer esperto e un antico fabbro di reliquie magiche.
 > **Richiesta:** Crea un `[Tipo di oggetto]` magico di rarità `[Rarità]`. Non darmi solo semplici statistiche, ma descrivi il suo aspetto, un potere unico e una grave maledizione nascosta.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

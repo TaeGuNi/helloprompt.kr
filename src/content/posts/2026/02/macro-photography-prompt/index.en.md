@@ -43,7 +43,7 @@ Use this when you need a quick, stylized close-up without overthinking the techn
 >
 > **Request:** Generate a macro shot of `[Subject]`, focusing on its microscopic details. Ensure the background is completely blurred to isolate the subject.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

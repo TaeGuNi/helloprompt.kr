@@ -58,7 +58,7 @@ Utilize esta versão quando precisar aplicar cache rapidamente a uma API de busc
 > - Implemente claramente a lógica em que, havendo um _Cache Miss_, o sistema busca no BD e salva no Redis.
 > - O tratamento de exceções é obrigatório (a busca no BD deve funcionar normalmente mesmo que a conexão com o Redis falhe).
 
-<br>
+\
 
 ### 🥇 Versão Pro (Arquitetura de Proteção contra Cache Stampede)
 

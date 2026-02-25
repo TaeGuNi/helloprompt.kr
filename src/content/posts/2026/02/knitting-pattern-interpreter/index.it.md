@@ -40,18 +40,18 @@ tags: ["뜨개질", "코바늘", "대바늘", "도안해석", "DIY"]
 Usalo per convertire rapidamente gli schemi di testo in inglese in spiegazioni narrative in italiano.
 
 > **Ruolo (Role):** Sei un `[Maestro di Maglia]` amichevole con 20 anni di esperienza nel lavoro a maglia (ferri e uncinetto).
->
-> **Compito (Task):**
-> Traduci il seguente schema di maglia dall'inglese in uno schema discorsivo in italiano, facile da capire anche per un principiante.
-> Non tradurre letteralmente, ma utilizza la terminologia tecnica corretta del lavoro a maglia in italiano (es. yo -> gettato, ssk -> due maglie insieme a diritto ritorto, k2tog -> due maglie insieme a diritto).
->
-> **Input (Schema):**
-> `[Incolla qui il testo dello schema in inglese]`
->
-> **Formato (Format):**
-> Vai a capo per ogni ferro/giro (Row/Round) in modo che sia ordinato e facile da leggere senza confondersi.
 
-<br>
+> **Compito (Task):**
+Traduci il seguente schema di maglia dall'inglese in uno schema discorsivo in italiano, facile da capire anche per un principiante.
+Non tradurre letteralmente, ma utilizza la terminologia tecnica corretta del lavoro a maglia in italiano (es. yo -> gettato, ssk -> due maglie insieme a diritto ritorto, k2tog -> due maglie insieme a diritto).
+
+> **Input (Schema):**
+`[Incolla qui il testo dello schema in inglese]`
+
+> **Formato (Format):**
+Vai a capo per ogni ferro/giro (Row/Round) in modo che sia ordinato e facile da leggere senza confondersi.
+
+\
 
 ### 🥇 Versione Pro (Interpretazione dei Grafici & Calcolo delle Taglie)
 

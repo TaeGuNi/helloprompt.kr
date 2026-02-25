@@ -12,7 +12,7 @@ tags: ["Wasm", "Cloud", "Serverless"]
 
 - **🎯 Public cible :** Architectes Cloud, Développeurs Backend, Ingénieurs DevOps
 - **⏱️ Temps gagné :** Des jours de recherche architecturale → 1 minute de conception
-- **🤖 Modèle recommandé :** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 Modèle recommandé :** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **Difficulté :** ⭐⭐⭐☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -41,7 +41,7 @@ Idéal pour obtenir une vue d'ensemble rapide ou évaluer la faisabilité d'une 
 > **Rôle :** Tu es un Architecte Cloud Senior expert en WebAssembly.
 > **Requête :** Explique-moi comment migrer mon architecture `[Type d'application, ex: backend e-commerce Node.js]` vers des microservices WebAssembly. Quels sont les gains de performance attendus et les pièges à éviter absolument ?
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

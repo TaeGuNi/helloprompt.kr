@@ -42,7 +42,7 @@ Ideal si necesitas comprender rápidamente los riesgos y conocer las medidas def
 > **Rol:** Eres un `[Experto en Ciberseguridad]`.
 > **Tarea:** Resume los peligros de la reciente tecnología de `[Vigilancia mediante detección WiFi (Análisis CSI)]` y proporciona 3 medidas defensivas inmediatas que cualquier persona pueda implementar hoy mismo.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 
@@ -112,7 +112,7 @@ Este prompt va más allá de satisfacer la curiosidad técnica; es una herramien
 ### ❌ Antes (Pregunta genérica)
 
 > **Usuario:** Escuché que te pueden espiar por WiFi. ¿Cómo lo evito?
->
+
 > **IA:** Para evitar el hackeo de su WiFi, asegúrese de establecer una contraseña segura y evite conectarse a redes desconocidas. _(Respuesta genérica, superficial y desenfocada)_
 
 ### ✅ Después (Usando el Prompt Pro)

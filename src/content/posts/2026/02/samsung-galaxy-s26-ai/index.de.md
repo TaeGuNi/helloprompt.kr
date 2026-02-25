@@ -39,7 +39,7 @@ Für schnelle, prägnante Slogans zu neuen Tech-Features.
 > **Aufgabe:** Schreibe 3 kurze, knackige Werbeslogans für das neue `[Produkt, z.B. Galaxy S26]`.
 > **Fokus:** Hebe besonders die `[Hauptfunktion, z.B. Exynos 2600 Prozessor und Galaxy AI]` hervor.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

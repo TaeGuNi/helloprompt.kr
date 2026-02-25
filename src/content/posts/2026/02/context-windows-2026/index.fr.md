@@ -42,7 +42,7 @@ Idéale pour interroger rapidement un document massif (ex: un livre ou un rappor
 > **Contexte :** Voici l'intégralité du document : `[Insérer le texte/fichier massif]`.
 > **Requête :** Trouve et résume toutes les mentions concernant `[Sujet précis]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Audit Complexe Multidimensionnel)
 

@@ -49,7 +49,7 @@ Para uma brincadeira rápida sem muita preparação.
 > **Papel:** Você é um contador de histórias infantis muito criativo.
 > **Solicitação:** Sugira 3 situações absurdas e divertidas para eu e meu filho desenharmos em um jogo de revezamento.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

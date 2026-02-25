@@ -13,7 +13,7 @@ tags: ["Meeting", "Zusammenfassung", "Produktivität"]
 
 - **🎯 Empfohlen für:** Projektmanager, Teamleiter, Werkstudenten, Assistenzkräfte
 - **⏱️ Zeitaufwand:** 60 Minuten → 1 Minute
-- **🤖 Empfohlene Modelle:** Alle konversationsbasierten KIs (ChatGPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro)
+- **🤖 Empfohlene Modelle:** Alle konversationsbasierten KIs (ChatGPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro)
 
 - ⭐ **Schwierigkeitsgrad:** ⭐⭐☆☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -43,7 +43,7 @@ Perfekt, wenn Sie nur rasch die Kernaussagen aus einem kurzen, informellen Gespr
 > **Aufgabe:** Fasse das folgende Transkript in die wichtigsten Punkte und To-Dos zusammen. Lasse unwichtigen Smalltalk weg.
 > **Transkript:** `[Hier Transkript einfügen]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Für formelle Meetings)
 

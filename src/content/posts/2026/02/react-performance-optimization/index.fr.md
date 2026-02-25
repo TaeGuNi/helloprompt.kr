@@ -40,13 +40,13 @@ La mémorisation (Memoization) utilisée par habitude est un poison. Le cœur de
 Utilisez ce prompt lorsque vous souhaitez identifier rapidement pourquoi une fonction ou un objet est recréé en boucle, forçant le rendu des composants enfants.
 
 > **Rôle :** Tu es un développeur front-end Senior.
->
-> **Tâche :** Le composant ci-dessous est inutilement rendu chaque fois que son parent est mis à jour. Analyse-le pour déterminer ce qu'il faut appliquer (`React.memo`, `useMemo` ou `useCallback`) et à quel endroit pour briser cette chaîne de rendus. Ensuite, corrige le code.
->
-> **Code :**
-> `[Collez ici le code du composant qui cause le goulot d'étranglement]`
 
-<br>
+> **Tâche :** Le composant ci-dessous est inutilement rendu chaque fois que son parent est mis à jour. Analyse-le pour déterminer ce qu'il faut appliquer (`React.memo`, `useMemo` ou `useCallback`) et à quel endroit pour briser cette chaîne de rendus. Ensuite, corrige le code.
+
+> **Code :**
+`[Collez ici le code du composant qui cause le goulot d'étranglement]`
+
+\
 
 ### 🥇 Version Pro (Amélioration architecturale)
 

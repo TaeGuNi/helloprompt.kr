@@ -39,7 +39,7 @@ Utilize esta versão para delinear rapidamente um rascunho da estrutura da sua e
 > **Função (Role):** Você é um `[Mestre de Swarm do AutoGPT 2.0]`.
 > **Tarefa (Task):** Sugira 3 funções essenciais de agentes e o fluxo de trabalho necessário para executar perfeitamente a seguinte tarefa: `[pesquisa complexa de mercado]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

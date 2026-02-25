@@ -13,7 +13,7 @@ tags: ["AI 에이전트", "자동화", "프롬프트 엔지니어링", "AutoGPT"
 
 - **🎯 Recomendado para:** Gerentes de Produto (PMs) e Planejadores que desejam estruturar projetos complexos e planos de execução de uma só vez
 - **⏱️ Tempo economizado:** De 1 hora → para 5 minutos (Redução drástica no tempo de planejamento)
-- **🤖 Modelos recomendados:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modelos recomendados:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Dificuldade:** ⭐⭐⭐☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Use isso quando precisar rapidamente de opiniões e ideias a partir de diferente
 > **Role (Papel):** Você é um Gerente de Projetos altamente capacitado.
 > **Task (Tarefa):** Apresente opiniões aprofundadas sobre `[Tópico]` a partir das perspectivas de um planejador, um desenvolvedor e um designer, e então sintetize-as para propor a melhor direção.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Profissional)
 
@@ -77,7 +77,7 @@ Use esta versão quando precisar de um planejamento rigoroso e gerenciamento de 
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 O verdadeiro valor deste prompt reside no seu **'Mecanismo de Autocorreção' (Self-Correction)**. Normalmente, a IA possui um forte viés de "Yes-man" (Sycophancy), tendendo a concordar incondicionalmente com o usuário e fornecer respostas apenas em uma direção positiva.
 
@@ -85,7 +85,7 @@ No entanto, ao forçar a atribuição de um papel de 'Crítico' e induzir um deb
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **P: Posso adicionar mais personas de agentes (especialistas)?**
   - R: Sim, você pode adicionar um 'Profissional de Marketing', 'Consultor Jurídico' ou 'Especialista Financeiro', conforme a necessidade. No entanto, se o número passar de 4 ou 5 personas, a discussão pode se tornar muito dispersa e desperdiçar a Janela de Contexto (Context Window). Recomendamos manter uma equipe central de 3 especialistas alinhados com o seu objetivo principal.
@@ -94,7 +94,7 @@ No entanto, ao forçar a atribuição de um papel de 'Crítico' e induzir um deb
   - R: Basta adicionar a seguinte regra nas Restrições (Constraints): "O debate deve ser estritamente limitado a 3 rodadas, e na última rodada o Executor deve liderar a formação de um consenso viável". Isso fará com que a IA gerencie a duração e chegue a uma conclusão por conta própria.
 
 - **P: Isso funciona bem nas versões gratuitas, como o GPT-3.5?**
-  - R: Como o modelo precisa manter múltiplas personas sem confundi-las e conduzir um debate lógico e aprofundado, recomendamos fortemente o uso de modelos recentes com alta capacidade de raciocínio complexo, como GPT-4o, Claude 3.5 Sonnet ou Gemini 1.5 Pro. Em modelos inferiores, a distinção de papéis pode se tornar confusa, parecendo que a IA está apenas "falando sozinha".
+  - R: Como o modelo precisa manter múltiplas personas sem confundi-las e conduzir um debate lógico e aprofundado, recomendamos fortemente o uso de modelos recentes com alta capacidade de raciocínio complexo, como GPT-4o, Claude 3.5 Sonnet ou Gemini 2.5 Pro. Em modelos inferiores, a distinção de papéis pode se tornar confusa, parecendo que a IA está apenas "falando sozinha".
 
 ---
 

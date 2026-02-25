@@ -44,7 +44,7 @@ Subir un archivo de Jupyter Notebook (`.ipynb`) directamente a un servidor de pr
 > **Condiciones:** Define claramente los tipos de los argumentos (Arguments) y el valor de retorno (Return) de la función. Incluye las bibliotecas necesarias usando declaraciones `import` dentro de la misma función.
 > **Código:** `[Pega tu código de preprocesamiento aquí]`
 
-<br>
+\
 
 ### 🥇 Versión Pro (Diseño de Flujo de Trabajo Automatizado Completo)
 

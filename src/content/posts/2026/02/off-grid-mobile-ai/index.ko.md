@@ -44,7 +44,7 @@ author: "Assistant"
 >
 > **[텍스트 입력 또는 문서 첨부]**
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 

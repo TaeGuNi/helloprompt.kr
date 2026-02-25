@@ -45,7 +45,7 @@ Pour forcer Claude Code à retrouver son niveau d'excellence et à générer du 
 > **Tâche :** Récris entièrement la fonction `[nom_de_la_fonction]`.
 > **Règle absolue :** N'utilise JAMAIS d'espaces réservés comme "..." ou "// code existant". Tu dois me fournir le fichier complet et fonctionnel, de la première à la dernière ligne.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 

@@ -38,7 +38,7 @@ Nutzen Sie diese Version, wenn Sie schnell den Wahrheitsgehalt von Informationen
 > **Rolle:** Du bist ein `[Researcher]`, der sich ausschließlich mit objektiven Fakten befasst.
 > **Aufgabe:** Beantworte Fragen zum Thema `[Spezifisches Thema oder Frage]`. Erfinde jedoch absolut nichts, was nicht eindeutig belegt ist. Wenn du etwas nicht weißt, antworte mit: "Aufgrund mangelnder Informationen kann ich diese Frage nicht beantworten."
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

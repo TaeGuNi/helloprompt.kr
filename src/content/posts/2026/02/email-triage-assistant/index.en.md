@@ -44,7 +44,7 @@ Use this when you just need a quick categorization of your emails without detail
 > **Role:** You are an `[Executive Assistant]`.
 > **Task:** Please categorize these `[raw emails]` into 'Urgent', 'To Read', and 'Ignore', and give me a 1-sentence summary for the urgent ones.
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -79,7 +79,7 @@ Use this for complete email management: priority sorting, action item extraction
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 This prompt is an absolute game-changer for Monday mornings or post-vacation inbox recovery. The real magic isn't just the categorization—it's the **cognitive load reduction**. By having the AI draft the initial response, you bypass the "blank page syndrome" of email writing.
 
@@ -87,13 +87,13 @@ _Pro Tip:_ Instead of copying and pasting emails one by one, you can export your
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q: Is it safe to put my company emails into an AI?**
   - A: It depends on your company's security policy. Always redact highly sensitive information (like passwords, specific financial data, or PII) before pasting. For enterprise users, consider using an enterprise-tier AI (like ChatGPT Enterprise or Claude Pro) which guarantees that your data is not used for training.
 
 - **Q: Does this work well with long, forwarded email threads?**
-  - A: Yes! AI models with large context windows (like Claude 3.5 Sonnet or Gemini 1.5 Pro) excel at reading through massive threads and summarizing the exact point where your input is needed.
+  - A: Yes! AI models with large context windows (like Claude 3.5 Sonnet or Gemini 2.5 Pro) excel at reading through massive threads and summarizing the exact point where your input is needed.
 
 - **Q: Can I customize the tone of the draft replies?**
   - A: Absolutely. Simply add a line in the **Constraints** section, such as: _"Ensure the tone is warm and friendly, matching a startup culture,"_ or _"Keep the replies extremely brief and formal."_

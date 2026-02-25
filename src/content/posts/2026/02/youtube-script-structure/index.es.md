@@ -42,7 +42,7 @@ Para que el algoritmo de YouTube recomiende tu contenido, el 'porcentaje de rete
 > **Rol:** Eres un productor de YouTube experto que gestiona canales con más de 1 millón de suscriptores.
 > **Solicitud:** Crea la estructura para un guion de YouTube sobre `[Tu Tema]`. Enfócate en un gancho poderoso para los primeros 5 segundos y mantén la retención hasta el final.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -106,7 +106,7 @@ Te recomiendo que uses la salida de este prompt como un **esqueleto rígido**. N
 Voy a grabar un video sobre cómo estudiar inglés solo. Hablaré sobre el shadowing con series de TV, escribir un diario y hablar con uno mismo. Escríbeme un guion.
 ```
 
-<br>
+\
 
 ### ✅ After (Resultado)
 

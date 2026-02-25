@@ -44,7 +44,7 @@ Dominar este prompt te permitirá generar fondos de pantalla, portadas de álbum
 > **Rol:** Eres un director de arte experto en estética de los 80.
 > **Solicitud:** Crea un prompt detallado para generar una imagen de arte Synthwave, destacando la nostalgia del neón, palmeras en silueta y un suelo de cuadrícula digital.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

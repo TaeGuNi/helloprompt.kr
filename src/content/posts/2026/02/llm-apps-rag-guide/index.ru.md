@@ -5,9 +5,6 @@ date: 2026-02-13
 pubDate: 2026-02-13
 description: " \"Узнайте, как проектировать мощные LLM-приложения и RAG-пайплайны с помощью специализированного ИИ-промпта.\""
 author: "Hello Prompt"
-image:
-  url: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2560&auto=format&fit=crop"
-  alt: "AI Neural Network"
 tags: ["LLM", "RAG", "AI", "Development", "Guide"]
 ---
 
@@ -46,7 +43,7 @@ tags: ["LLM", "RAG", "AI", "Development", "Guide"]
 > **Роль:** Ты Senior AI Engineer.
 > **Запрос:** Порекомендуй стек технологий для создания RAG-приложения, которое будет отвечать на вопросы по `[тип данных, например: PDF-документам компании]`. Укажи фреймворк, векторную БД и UI-библиотеку.
 
-<br>
+\
 
 ### 🥇 Pro Version (Продвинутая версия)
 

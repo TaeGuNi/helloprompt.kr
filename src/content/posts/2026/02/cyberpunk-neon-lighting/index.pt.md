@@ -42,7 +42,7 @@ Use esta versão quando precisar de um resultado rápido e direto, para testar a
 > **Papel:** Você é um artista digital especializado em arte conceitual de ficção científica.
 > **Solicitação:** Crie um prompt de imagem em inglês para o Midjourney descrevendo uma cena cyberpunk à noite com forte iluminação neon rosa e azul, e ruas molhadas pela chuva.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert)
 

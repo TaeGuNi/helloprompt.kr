@@ -43,7 +43,7 @@ El desarrollo emocional es una etapa crucial en la infancia, y a menudo, las pal
 > **Rol:** Eres un psicólogo infantil y un profesor de teatro.
 > **Solicitud:** Sugiere un juego de roles rápido y divertido para ayudar a un niño pequeño a identificar y expresar diferentes emociones.
 
-<br>
+\
 
 ### 🥇 Versión Experta (Pro Version)
 

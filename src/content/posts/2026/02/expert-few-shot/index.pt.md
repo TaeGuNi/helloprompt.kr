@@ -44,7 +44,7 @@ Use isso quando precisar de um resultado rápido para entender o conceito.
 > **Papel:** Você é um `[Especialista em IA]`.
 > **Solicitação:** Explique o conceito de "Few-Shot Prompting" dando um exemplo simples de entrada e saída.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Profissional)
 
@@ -110,7 +110,7 @@ Ao simplesmente fornecer dois exemplos perfeitos de como a tabela deve ficar, a 
 
 ### ❌ Before (Apenas explicação, sem exemplos)
 
-> Entrada: "Escreva uma resenha de uma linha para Vingadores: Ultimato. Torne-a emotiva e poética, e coloque um emoji no final."
+Entrada: "Escreva uma resenha de uma linha para Vingadores: Ultimato. Torne-a emotiva e poética, e coloque um emoji no final."
 
 ```text
 IA: Vingadores: Ultimato é um filme realmente tocante e épico, onde a cena de todos os heróis se reunindo para a batalha final faz nosso coração bater mais forte e as lágrimas caírem. 😭

@@ -42,7 +42,7 @@ Ideal para obter uma visão geral rápida do projeto e seus objetivos.
 > **Role:** Você é um Engenheiro de Sistemas Sênior especialista em Rust.
 > **Task:** Explique o que é o projeto 'Tyr' (driver Rust para Arm Mali). Foque em explicar as vantagens práticas de segurança de memória e concorrência que o Rust oferece em comparação com os drivers tradicionais escritos em C.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 
@@ -108,7 +108,7 @@ Na minha experiência prática, pedir para a IA comparar diretamente um bloco de
 
 ### ❌ Antes (Entrada Simples)
 
-> "Como funciona o driver Tyr feito em Rust?"
+"Como funciona o driver Tyr feito em Rust?"
 
 _Resultado típico:_ Uma resposta genérica afirmando que Rust é seguro e que o Tyr é um driver para Arm Mali. Nenhuma explicação sobre a arquitetura do kernel ou como a segurança é aplicada na prática. Faltam profundidade e exemplos concretos.
 

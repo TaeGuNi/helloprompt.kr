@@ -42,7 +42,7 @@ Verwenden Sie diese Version, wenn Sie schnell und unkompliziert ein aufgeräumte
 > **Rolle:** Du bist ein professioneller Produktfotograf.
 > **Anfrage:** Erstelle einen Prompt für ein Bild im Knolling-Stil. Ordne `[Gegenstände, z.B. Kameraausrüstung]` perfekt im rechten Winkel an und fotografiere sie direkt von oben (`Flat lay`, `Top-down view`).
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

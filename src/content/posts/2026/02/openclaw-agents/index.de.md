@@ -38,7 +38,7 @@ Nutzen Sie diese Version, wenn Sie schnell einen ersten Grobentwurf für einen e
 > **Rolle:** Du bist ein Experte für die `[OpenClaw-Entwicklung]`.
 > **Aufgabe:** Erstelle einen System-Prompt und eine Liste benötigter Werkzeuge (Tools) für einen Agenten, der die `[spezifische Aufgabe]` völlig autonom ausführt.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

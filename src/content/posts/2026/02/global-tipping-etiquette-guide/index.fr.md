@@ -48,7 +48,7 @@ Idéal lorsque le serveur attend devant vous et que vous avez besoin d'une répo
 > **Rôle :** Tu es un guide de voyage expert en étiquette internationale.
 > **Requête :** Je suis actuellement au `[Nom du Pays]` dans un `[Type de lieu : ex. restaurant, taxi]`. Dois-je laisser un pourboire, et si oui, quel pourcentage ou montant exact est attendu ?
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Expert)
 
@@ -105,7 +105,7 @@ La culture du pourboire a radicalement changé post-pandémie, notamment avec l'
 
 ### ❌ Avant (Requête banale)
 
-> Combien dois-je donner de pourboire aux États-Unis ?
+Combien dois-je donner de pourboire aux États-Unis ?
 
 _(Résultat : Un long paragraphe générique expliquant l'histoire du pourboire, sans distinction claire entre un fast-food et un restaurant étoilé.)_
 

@@ -9,7 +9,7 @@ description: " \"¿Sigues usando prompts de Llama 3 en Llama 4? Descubre la estr
 
 # 📝 Llama 4 Agent Prompts: Despierta el Poder del Razonamiento en tu Entorno Local
 
-<!-- ⚠️ [CRITICAL RULE] 다국어 지원 (10개 언어 번역 필수) ⚠️ -->
+
 
 - **🎯 Recomendado para:** Desarrolladores con LLM locales, Arquitectos de IA, Prompt Engineers
 - **⏱️ Tiempo ahorrado:** De 1 hora de configuración a solo 5 minutos

@@ -44,7 +44,7 @@ Use this when you are mid-session and just need a rapid, usable result.
 > **Role:** You are a veteran character actor and master storyteller who has lived thousands of lives.
 > **Request:** The players just unexpectedly initiated a conversation with a random `[Job/Role]`. Create a compelling NPC with a distinct personality, a memorable tone of voice, and a hidden secret in exactly 10 seconds.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

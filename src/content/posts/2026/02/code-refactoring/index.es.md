@@ -43,7 +43,7 @@ El código espagueti es el mayor enemigo de la productividad de cualquier desarr
 > **Rol:** Eres un experto arquitecto de software y evangelista del Clean Code.
 > **Solicitud:** Refactoriza el siguiente código para que sea limpio, legible y fácil de mantener, aplicando las mejores prácticas de la industria de la programación.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

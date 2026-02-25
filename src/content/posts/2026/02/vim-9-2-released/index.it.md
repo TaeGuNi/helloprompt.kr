@@ -9,7 +9,7 @@ tags: ["DevTools", "Vim", "Editor", "Release"]
 
 - **🎯 Consigliato per:** Utenti Vim, Sviluppatori, Ingegneri DevOps
 - **⏱️ Tempo richiesto:** Da 30 minuti → a 1 minuto
-- **🤖 Modelli consigliati:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (Eccellenti nell'analisi di documenti tecnici)
+- **🤖 Modelli consigliati:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (Eccellenti nell'analisi di documenti tecnici)
 
 - ⭐ **Difficoltà:** ⭐⭐☆☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -40,7 +40,7 @@ Utilizza questa versione quando hai bisogno solo di una rapida panoramica degli 
 > **Ruolo:** Sei uno sviluppatore senior e un traduttore di documentazione tecnica.
 > **Azione:** Leggi le `[Note di rilascio di Vim 9.2]` qui sotto e riassumi in italiano i 3 cambiamenti più importanti. Usa una terminologia semplice e comprensibile anche per i principianti.
 
-<br>
+\
 
 ### 🥇 Versione Pro
 
@@ -84,7 +84,7 @@ Il vero valore di questo prompt non risiede nella semplice traduzione di un test
   - R: Assolutamente sì! Funziona perfettamente con la documentazione tecnica di React, TypeScript, Docker e altro ancora, semplicemente modificando la parte `[Tecnologia Specifica]` tra parentesi.
 
 - **D: Cosa devo fare se le note di rilascio sono troppo lunghe per essere inserite nella finestra del prompt?**
-  - R: Utilizzando modelli come Claude 3.5 Sonnet o Gemini 1.5 Pro, puoi gestire senza problemi testi molto estesi. Si consiglia di fornire direttamente l'URL della pagina delle note di rilascio nel prompt o di allegarlo come file di testo (es. PDF).
+  - R: Utilizzando modelli come Claude 3.5 Sonnet o Gemini 2.5 Pro, puoi gestire senza problemi testi molto estesi. Si consiglia di fornire direttamente l'URL della pagina delle note di rilascio nel prompt o di allegarlo come file di testo (es. PDF).
 
 ---
 

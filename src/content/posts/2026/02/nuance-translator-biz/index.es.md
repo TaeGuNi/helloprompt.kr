@@ -45,7 +45,7 @@ Ideal para cuando necesitas apurar a alguien o hacer una petición sin cruzar la
 >
 > **Petición (Task):** Convierte esta frase en una expresión **Cortés y Profesional**, adecuada para dirigirme a mi jefe o a un cliente importante. Proporcióname 3 versiones (Formal, Amigable, Urgente).
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

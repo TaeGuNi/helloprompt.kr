@@ -49,7 +49,7 @@ tags:
 >
 > **Solicitud:** Ayúdame a evitar que mis boletines terminen en la carpeta de spam. Crea asuntos de correo electrónico irresistibles para que los clientes sientan la necesidad inmediata de abrirlos, basándote en el siguiente tema: `[Tema del correo]`.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Expert Version)
 

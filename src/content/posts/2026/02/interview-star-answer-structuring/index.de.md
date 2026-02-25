@@ -42,7 +42,7 @@ Verwenden Sie diese Version, wenn Sie nur ein schnelles Ergebnis benötigen.
 > **Rolle:** Du bist ein professioneller Rhetorik-Coach und Interview-Experte.
 > **Aufgabe:** Strukturiere meine folgende Erfahrungsebisode nach der STAR-Methode (Situation, Task, Action, Result), damit ich im Vorstellungsgespräch präzise und auf den Punkt antworte, ohne abzuschweifen. Hier ist meine Erfahrung: `[Füge deine Erfahrung hier ein]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Version)
 

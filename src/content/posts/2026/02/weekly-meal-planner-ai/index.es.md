@@ -42,7 +42,7 @@ Planificar las comidas semanales puede ser una de las tareas más tediosas de la
 > **Rol:** Eres un nutricionista experto.
 > **Tarea:** Crea un menú semanal saludable (desayuno, almuerzo y cena) para una persona y dame la lista de compras.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Profesional)
 

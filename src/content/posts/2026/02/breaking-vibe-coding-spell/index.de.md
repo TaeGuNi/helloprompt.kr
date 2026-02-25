@@ -43,7 +43,7 @@ So arbeiten Anfänger: Schnell, aber extrem fehleranfällig.
 > **Rolle:** Du bist ein Senior Developer.
 > **Anfrage:** Schreibe mir eine React-Komponente für einen Login, die gut aussieht.
 
-<br>
+\
 
 ### 🥇 Pro Version (Constraint-Based Engineering)
 
@@ -87,7 +87,7 @@ Dieser "Pro"-Prompt zwingt die KI, deterministisch zu arbeiten. Indem Sie Schnit
   - A: Kurzfristig ja. Aber die Entwicklungszeit, die Sie im ersten Monat gewinnen, verlieren Sie im sechsten Monat bei der eskalierenden Fehlersuche wieder. Rigoroses Prompting spart auf lange Sicht hunderte Stunden an frustrierendem Debugging.
 
 - **F: Funktioniert dieser strikte Ansatz mit allen KI-Modellen?**
-  - A: Er funktioniert am besten mit Modellen, die auf logisches Denken und Code-Analyse spezialisiert sind (wie Claude 3.5 Sonnet, GPT-4o oder Gemini 1.5 Pro). Schwächere Modelle könnten mit den vielen Restriktionen überfordert sein und die Instruktionen ignorieren.
+  - A: Er funktioniert am besten mit Modellen, die auf logisches Denken und Code-Analyse spezialisiert sind (wie Claude 3.5 Sonnet, GPT-4o oder Gemini 2.5 Pro). Schwächere Modelle könnten mit den vielen Restriktionen überfordert sein und die Instruktionen ignorieren.
 
 ---
 

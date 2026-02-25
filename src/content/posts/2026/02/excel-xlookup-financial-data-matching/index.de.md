@@ -42,7 +42,7 @@ Verwenden Sie diesen Prompt, wenn Sie schnell eine einfache XLOOKUP-Formel benö
 > **Rolle:** Du bist ein erfahrener `[Datenanalyst]` und absoluter Excel-Experte.
 > **Anfrage:** Ich nutze bisher VLOOKUP (SVERWEIS), aber es ist zu fehleranfällig. Bitte erkläre mir kurz und prägnant, wie ich stattdessen XLOOKUP verwende, und gib mir ein einfaches Beispiel für den Abgleich von `[Kundendaten]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 
@@ -100,7 +100,7 @@ Aus meiner Erfahrung im Performance Marketing und in der Datenanalyse ist der We
 
 ### ❌ Before (Eingabe)
 
-> Gibt es eine bessere Excel-Formel als SVERWEIS? Ich kriege immer Fehler. Sag mir mal eine Formel.
+Gibt es eine bessere Excel-Formel als SVERWEIS? Ich kriege immer Fehler. Sag mir mal eine Formel.
 
 ### ✅ After (Ergebnis des Pro-Prompts)
 

@@ -45,7 +45,7 @@ Usalo quando vuoi capire rapidamente il significato principale e l'uso di una ba
 > **Battuta:** `["I don't know if I can handle this anymore."]`
 > **Task:** Traduci questa frase in modo naturale in base al contesto e crea altre 3 frasi di esempio di vita reale usando parole o espressioni chiave come `[handle]`.
 
-<br>
+\
 
 ### 🥇 Versione Pro
 

@@ -42,7 +42,7 @@ Usala quando hai bisogno di un'ispirazione rapida per sbloccarti.
 > **Ruolo:** Sei un autore di best-seller esperto nel catturare l'attenzione del lettore nei primi 3 secondi.
 > **Richiesta:** Devo iniziare il mio nuovo romanzo. Proponimi 10 prime frasi con un gancio (hook) fortissimo e irresistibile.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

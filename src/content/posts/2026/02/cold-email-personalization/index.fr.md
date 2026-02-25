@@ -43,7 +43,7 @@ Idéal pour entamer rapidement la conversation sans y passer des heures.
 > **Tâche :** Analyse le texte rédigé par le prospect cible ci-dessous et propose-moi 3 phrases d'accroche (ice-breakers) naturelles et intéressantes à utiliser comme introduction pour un cold e-mail.
 > **Texte du prospect :** `[Copiez-collez le contenu du post LinkedIn ou de l'interview du prospect]`
 
-<br>
+\
 
 ### 🥇 Version Pro
 

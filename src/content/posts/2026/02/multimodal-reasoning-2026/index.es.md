@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "multimodal-reasoning-2026"]
 
 - **🎯 Recomendado para:** Desarrolladores de IA, Arquitectos de Software, Innovadores
 - **⏱️ Tiempo ahorrado:** de horas de análisis manual → a segundos
-- **🤖 Modelo recomendado:** Gemini 1.5 Pro, GPT-4o, Claude 3.5 Sonnet (Modelos Multimodales)
+- **🤖 Modelo recomendado:** Gemini 2.5 Pro, GPT-4o, Claude 3.5 Sonnet (Modelos Multimodales)
 
 - ⭐ **Dificultad:** ⭐⭐⭐☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -39,7 +39,7 @@ El panorama de la Inteligencia Artificial ha evolucionado. Durante años, tratam
 > **Rol:** Eres un `[Experto en Análisis Multimodal]`.
 > **Tarea:** Analiza el archivo adjunto y explica `[el propósito/significado principal]` considerando tanto los elementos visuales como el texto o audio.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -78,7 +78,7 @@ Esta estructura de prompt cambia las reglas del juego. Anteriormente, si quería
 ## 🙋 Preguntas Frecuentes (FAQ)
 
 - **P: ¿Puedo subir videos muy largos con este prompt?**
-  - R: Depende del modelo. Gemini 1.5 Pro admite ventanas de contexto masivas, permitiendo horas de video. Otros modelos pueden requerir que recortes el clip a los fragmentos más relevantes.
+  - R: Depende del modelo. Gemini 2.5 Pro admite ventanas de contexto masivas, permitiendo horas de video. Otros modelos pueden requerir que recortes el clip a los fragmentos más relevantes.
 
 - **P: ¿Qué pasa si el video no tiene audio?**
   - R: El modelo se centrará en el razonamiento visual (acciones, textos en pantalla, diagramas). Simplemente omite la instrucción de audio en tu petición o deja que el modelo indique que no hay pista de audio.

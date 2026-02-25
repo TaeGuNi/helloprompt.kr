@@ -42,7 +42,7 @@ Utilizza questa versione quando hai bisogno di spunti veloci e generali.
 > **Ruolo:** Sei un `[Esperto di Finanza Personale e Frugalità]`.
 > **Richiesta:** Le mie spese fisse mensili sono troppo alte. Analizza le tipiche spese ricorrenti di un adulto e suggerisci metodi pratici e immediati per ridurle senza sacrificare drasticamente la qualità della vita.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

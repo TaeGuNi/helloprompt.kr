@@ -37,7 +37,7 @@ Usalo quando hai solo un'idea vaga e ti serve un concept veloce per iniziare a l
 > **Ruolo:** Sei un esperto produttore e sceneggiatore di Hollywood.
 > **Azione:** Sviluppa un breve pitch cinematografico basato su questa idea: `[Tua Idea Base]`. Includi genere, logline e una sinossi di 3 paragrafi.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Il Master Pitch)
 

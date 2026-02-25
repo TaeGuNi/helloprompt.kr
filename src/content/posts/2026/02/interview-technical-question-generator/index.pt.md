@@ -48,7 +48,7 @@ Use esta versão para obter resultados rápidos e direcionar seus estudos inicia
 > **Papel:** Você é um Diretor ou Especialista Técnico com 20 anos de experiência na área de `[Nome do Cargo]`.
 > **Solicitação:** Gere uma lista de possíveis perguntas para uma entrevista técnica, acompanhadas de respostas ideais que se encaixem perfeitamente no meu cargo, anos de experiência e conjunto de habilidades.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 
@@ -83,7 +83,7 @@ O grande diferencial deste prompt não é apenas gerar perguntas, mas prever o c
 ## 🙋 Perguntas Frequentes (FAQ)
 
 - **Q: Preciso usar uma IA paga como o ChatGPT Plus para obter boas perguntas?**
-  - A: Não necessariamente. Modelos gratuitos mais recentes (como o Claude 3.5 Sonnet ou Gemini 1.5 Flash) lidam muito bem com raciocínio técnico. No entanto, para cargos de altíssima complexidade arquitetural (ex: Staff Engineer em Big Tech), modelos premium tendem a gerar cenários de "resolução de problemas" um pouco mais desafiadores e realistas.
+  - A: Não necessariamente. Modelos gratuitos mais recentes (como o Claude 3.5 Sonnet ou Gemini 2.5 Flash) lidam muito bem com raciocínio técnico. No entanto, para cargos de altíssima complexidade arquitetural (ex: Staff Engineer em Big Tech), modelos premium tendem a gerar cenários de "resolução de problemas" um pouco mais desafiadores e realistas.
 
 - **Q: O prompt funciona para áreas fora da programação (como Marketing ou Design)?**
   - A: Absolutamente! Basta ajustar a variável `[Habilidades Chave]`. Por exemplo, se você é um Designer de Produto, pode inserir `[Figma, Design System, Teste de Usabilidade, Acessibilidade]`. A IA ajustará as perguntas para cenários práticos de design, como "Como você resolveria um conflito entre a equipe de desenvolvimento e a de design sobre a viabilidade técnica de um componente?".

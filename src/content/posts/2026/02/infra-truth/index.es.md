@@ -38,27 +38,27 @@ A simple vista, parece que todas las empresas están triunfando con la IA.
 
 > **El Espejismo:** "Nuestra nueva función de IA generativa aumentará la productividad en un 300% y revolucionará la industria."
 
-<br>
+\
 
 ### 🥇 La Verdadera Realidad (Lo que sucede en la infraestructura)
 
 Cuando analizamos los estados financieros y el flujo de caja operativo, la historia es completamente diferente.
 
 > **El Diagnóstico (Infra-verdad):** "NVIDIA y los grandes proveedores de la nube son los únicos que están haciendo dinero real."
->
+
 > **Contexto del Mercado:**
->
-> - El Costo: Entrenar y ejecutar modelos masivos consume cantidades brutales de recursos computacionales.
-> - El Retorno: Los usuarios finales se resisten a pagar suscripciones premium por cada nueva herramienta de IA.
->
+
+- El Costo: Entrenar y ejecutar modelos masivos consume cantidades brutales de recursos computacionales.
+- El Retorno: Los usuarios finales se resisten a pagar suscripciones premium por cada nueva herramienta de IA.
+
 > **La Consecuencia Inevitable:**
->
-> 1. Las startups de IA queman su capital pagando facturas de servidores y GPUs.
-> 2. Las ganancias se consolidan en la base de la pirámide tecnológica.
->
+
+1. Las startups de IA queman su capital pagando facturas de servidores y GPUs.
+2. Las ganancias se consolidan en la base de la pirámide tecnológica.
+
 > **Advertencia (Warning):**
->
-> - Confundir la valoración de mercado de una startup de IA con su viabilidad a largo plazo es un error financiero letal. No inviertas en promesas; invierte en quien vende la capacidad para procesarlas.
+
+- Confundir la valoración de mercado de una startup de IA con su viabilidad a largo plazo es un error financiero letal. No inviertas en promesas; invierte en quien vende la capacidad para procesarlas.
 
 ---
 

@@ -40,7 +40,7 @@ Verwenden Sie diese Version, wenn Sie nur schnell die wichtigsten Ergebnisse ben
 > **Rolle:** Du bist ein `[Wissenschaftsjournalist]`.
 > **Aufgabe:** Fasse die zentralen Erkenntnisse aus folgendem `[Text oder Link zum Paper]` sowie deren globale Auswirkungen in 3 prägnanten Punkten zusammen, sodass sie für einen Gymnasiasten verständlich sind.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Version)
 

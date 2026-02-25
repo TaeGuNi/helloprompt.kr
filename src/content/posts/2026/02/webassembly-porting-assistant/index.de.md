@@ -48,7 +48,7 @@ Verwenden Sie diese Version, wenn Sie eine simple Berechnungsfunktion (Algorithm
 > **Code:**
 > `[Fügen Sie hier Ihren zu konvertierenden C++/Go/Rust-Code ein]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten)
 

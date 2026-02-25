@@ -43,10 +43,10 @@ tags: ["TypeScript", "Zod", "JSON", "Определение типа", "Прод
 
 > **Роль:** Ты — Senior TypeScript Developer.
 > **Запрос:** Преобразуй этот JSON в интерфейс TypeScript и соответствующую схему Zod. Сделай код чистым и готовым к использованию.
->
-> `[Вставьте ваш JSON сюда]`
 
-<br>
+`[Вставьте ваш JSON сюда]`
+
+\
 
 ### 🥇 Pro Version (Для production-ready кода)
 

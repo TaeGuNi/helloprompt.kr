@@ -48,7 +48,7 @@ Utilizza questa versione per riassumere rapidamente i contenuti dello schermo o 
 > **Ruolo:** Sei il mio assistente personale.
 > **Richiesta:** Riassumi il contenuto sullo schermo in soli 3 punti chiave.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

@@ -42,7 +42,7 @@ Use esta versão para gerar ideias rápidas quando a criatividade estiver bloque
 > **Papel:** Você é um biólogo e criptozoólogo especialista na fauna de um continente inexplorado.
 > **Solicitação:** Estou cansado de monstros clichês como slimes e goblins. Projete uma criatura totalmente original para um cenário de fantasia sombria, focando em sua ecologia e hábitos de sobrevivência.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert Version)
 
@@ -107,7 +107,7 @@ Como Mestre de RPG (D&D 5e), eu uso essa estrutura constantemente. Uma vez criei
 
 ### ❌ Antes (Entrada Simples)
 
-> "Crie um monstro crocodilo do pântano para o meu jogo."
+"Crie um monstro crocodilo do pântano para o meu jogo."
 
 _(A IA provavelmente geraria apenas um crocodilo gigante que morde mais forte)._
 

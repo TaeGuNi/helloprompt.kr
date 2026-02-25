@@ -44,7 +44,7 @@ Use esta versão quando precisar de uma conversão simples e direta, sem regras 
 > **Papel:** Você é um Engenheiro de Dados especialista em processos de ETL (Extração, Transformação e Carga).
 > **Solicitação:** Converta os dados abaixo de `[CSV]` para `[JSON]`.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert)
 
@@ -89,7 +89,7 @@ A verdadeira mágica deste prompt não está apenas em mudar a extensão do arqu
 ## 🙋 Perguntas Frequentes (FAQ)
 
 - **Q: A IA consegue lidar com arquivos Excel muito grandes (milhões de linhas)?**
-  - A: Modelos modernos como o Claude 3.5 Sonnet ou Gemini 1.5 Pro têm janelas de contexto gigantescas (até 2 milhões de tokens), o que permite processar planilhas de milhares de linhas sem engasgar. No entanto, para bancos de dados de vários gigabytes, é melhor usar scripts Python ou ferramentas dedicadas. A IA é ideal para amostras rápidas, tabelas de configuração ou bases de dados de tamanho moderado.
+  - A: Modelos modernos como o Claude 3.5 Sonnet ou Gemini 2.5 Pro têm janelas de contexto gigantescas (até 2 milhões de tokens), o que permite processar planilhas de milhares de linhas sem engasgar. No entanto, para bancos de dados de vários gigabytes, é melhor usar scripts Python ou ferramentas dedicadas. A IA é ideal para amostras rápidas, tabelas de configuração ou bases de dados de tamanho moderado.
 
 - **Q: É seguro colar os dados da minha empresa no prompt da IA?**
   - A: Depende da política da sua empresa. Se estiver usando contas corporativas (Enterprise) ou acessando via API (onde os provedores garantem que os dados não treinam o modelo base), é seguro. Para versões gratuitas e públicas, recomendamos fortemente "anonimizar" informações confidenciais (como CPFs, emails de clientes ou senhas reais), substituindo-os por dados fictícios antes de colar no chat.

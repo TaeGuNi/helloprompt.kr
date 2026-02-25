@@ -45,7 +45,7 @@ Ideal para cuando necesitas opciones de títulos magnéticos en cuestión de seg
 > **Tarea:** Genera 10 títulos con un CTR (Click-Through Rate) altísimo para mi próximo video.
 > **Tema:** `[Inserta aquí el tema de tu video]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Paquete Completo: Título + Miniatura)
 

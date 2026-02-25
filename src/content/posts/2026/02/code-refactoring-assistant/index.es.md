@@ -46,7 +46,7 @@ El código espagueti no solo ralentiza a tu equipo de desarrollo, sino que tambi
 >
 > [Inserta tu código aquí]
 
-<br>
+\
 
 ### 🥇 Versión Pro (Advanced Version)
 

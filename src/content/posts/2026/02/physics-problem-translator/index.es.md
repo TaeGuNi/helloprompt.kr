@@ -42,7 +42,7 @@ Ideal cuando tienes prisa y solo necesitas saber qué ecuación aplicar de inmed
 > **Rol:** Eres un experto profesor de física y estratega en resolución de problemas.
 > **Solicitud:** Lee el siguiente problema de física, analiza las variables y dime exactamente qué fórmula debo usar y por qué: `[Inserta tu problema aquí]`
 
-<br>
+\
 
 ### 🥇 Versión Pro (Avanzada)
 
@@ -84,7 +84,7 @@ Este prompt es revolucionario porque obliga a la IA (y, por extensión, a ti) a 
 ## 🙋 Preguntas Frecuentes (FAQ)
 
 - **Q: ¿Funciona bien con problemas universitarios complejos o de física cuántica/relatividad?**
-  - A: Sí, pero el rendimiento dependerá del modelo de IA subyacente. Para física avanzada, recomiendo encarecidamente usar modelos con alto razonamiento (como GPT-4o, Claude 3.5 Sonnet o Gemini 1.5 Pro) e incluir la rama específica de la física en el `[Context]`.
+  - A: Sí, pero el rendimiento dependerá del modelo de IA subyacente. Para física avanzada, recomiendo encarecidamente usar modelos con alto razonamiento (como GPT-4o, Claude 3.5 Sonnet o Gemini 2.5 Pro) e incluir la rama específica de la física en el `[Context]`.
 
 - **Q: ¿Por qué le prohíbes a la IA resolver el problema completamente en la versión Pro?**
   - A: Por dos razones: primero, las IA a veces "alucinan" (se equivocan) en cálculos aritméticos complejos. Segundo, si te da la respuesta final, pierdes el valor pedagógico de entender _cómo_ se estructuró la solución. Queremos la receta, no el plato ya masticado.

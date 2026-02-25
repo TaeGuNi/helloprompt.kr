@@ -12,7 +12,7 @@ tags: ["Kubernetes", "Edge Computing", "DevOps"]
 
 - **🎯 Recomendado para:** Ingenieros DevOps, Arquitectos de Sistemas, SREs
 - **⏱️ Tiempo ahorrado:** de días de diseño manual → a 2 minutos
-- **🤖 Modelo recomendado:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 Modelo recomendado:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **Dificultad:** ⭐⭐⭐⭐☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -41,7 +41,7 @@ En 2026, el Edge Computing ha dejado de ser un experimento. En fábricas intelig
 > **Rol:** Eres un Ingeniero DevOps Senior experto en Kubernetes y Edge Computing.
 > **Tarea:** Diseña una arquitectura base de Kubernetes para `[Tipo de dispositivo, ej: servidores de fábrica 4GB RAM]` que sufren de `[Problema, ej: cortes de red diarios]`. Recomienda la distribución ideal (K3s/K0s) y el método de despliegue.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Avanzada)
 

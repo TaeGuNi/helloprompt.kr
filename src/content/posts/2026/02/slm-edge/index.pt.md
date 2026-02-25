@@ -38,7 +38,7 @@ Ideal para entender rapidamente a viabilidade técnica de um SLM para o seu proj
 > **Função:** Você é um Especialista em IA Edge.
 > **Tarefa:** Explique como posso rodar um Pequeno Modelo de Linguagem (SLM) no meu `[Plataforma/Dispositivo]` para resolver `[Problema Específico]`, considerando fortes limitações de memória e processamento.
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 

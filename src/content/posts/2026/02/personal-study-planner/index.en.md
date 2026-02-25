@@ -42,7 +42,7 @@ Use this when you just need a quick, no-frills study schedule.
 > **Role:** You are a strict and thorough `[Exam/Certification Coordinator]`.
 > **Task:** Create a realistic study plan based on my specific goal and available time, and take full responsibility for keeping me motivated.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

@@ -43,7 +43,7 @@ Verwenden Sie diesen Prompt, wenn Sie mitten in einer Stresssituation stecken un
 >
 > **Anfrage:** Ich denke gerade: 'Ich bin komplett ruiniert und habe alles vermasselt'. Bitte analysiere diese Situation objektiv aus einer neuen Perspektive und hilf mir, diese destruktive Energie in einen konstruktiven, positiven Ansatz zu verwandeln.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Prompt)
 

@@ -11,7 +11,7 @@ title: "Waymo comienza operaciones totalmente autónomas con el conductor de sex
 
 - **🎯 Recomendado para:** Periodistas tecnológicos, analistas de movilidad, creadores de contenido
 - **⏱️ Tiempo de uso:** 30 minutos → 2 minutos
-- **🤖 Modelo recomendado:** ChatGPT (GPT-4), Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modelo recomendado:** ChatGPT (GPT-4), Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Dificultad:** ⭐⭐☆☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Utiliza este prompt cuando necesites un resumen rápido y directo de una actuali
 > **Rol:** Eres un `[Periodista Tecnológico]`.
 > **Tarea:** Resume los 3 puntos clave de la actualización del `[Conductor de 6ª Generación de Waymo]`, enfocándote en las mejoras de hardware y software.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro)
 

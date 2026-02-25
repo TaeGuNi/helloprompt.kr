@@ -39,7 +39,7 @@ Utilizza questa versione quando hai bisogno di individuare rapidamente i pro e i
 > **Ruolo:** Sei un Enterprise IT Architect con 15 anni di esperienza e un acuto consulente di Digital Transformation (DX).
 > **Azione:** Stiamo valutando di implementare `[Nome della soluzione AI in esame]` nella nostra azienda. Ignorando l'hype del marketing, indicami 3 difetti critici che potremmo incontrare nell'uso reale e i costi nascosti (Hidden Costs) che dobbiamo assolutamente verificare prima dell'acquisto.
 
-<br>
+\
 
 ### 🥇 Versione Pro
 

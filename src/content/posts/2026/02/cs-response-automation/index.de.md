@@ -43,7 +43,7 @@ Nutzen Sie diese Vorlage zum schnellen Kopieren bei wiederkehrenden, einfachen C
 > **Aufgabe:** Antworte auf die folgende Kundenanfrage. Entschuldige dich höflich und erkläre, dass sich die Lieferung aufgrund von `[Verzögerungsgrund]` um `[Verzögerungsdauer]` verzögert. Bitte den Kunden um etwas Geduld und biete ihm als Entschädigung `[Entschädigungsangebot]` an.
 > **Kundenanfrage:** `[Kopierten Text der Kundenanfrage hier einfügen]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Für schwierige Kunden / Abwehr von Rückerstattungen)
 

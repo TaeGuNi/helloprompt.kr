@@ -42,7 +42,7 @@ Verwenden Sie diesen Prompt, wenn Sie schnell und unkompliziert einen fundierten
 > **Rolle:** Du bist ein erfahrener `[Vergleichender Historiker und Biograf]`.
 > **Aufgabe:** Vergleiche die beiden historischen Persönlichkeiten `[Person A]` und `[Person B]` detailliert miteinander, um ihre Gemeinsamkeiten und Unterschiede präzise herauszuarbeiten.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 
@@ -100,8 +100,8 @@ Dieser Prompt ist ein hervorragendes Werkzeug, um aus der isolierten Betrachtung
 
 ### ❌ Vorher (Einfache Suchanfrage)
 
-> Suche Yi Sun-sin: Koreanischer Admiral der Joseon-Dynastie, Schildkrötenschiff...
-> Suche Lord Nelson: Britischer Admiral, Schlacht von Trafalgar...
+Suche Yi Sun-sin: Koreanischer Admiral der Joseon-Dynastie, Schildkrötenschiff...
+Suche Lord Nelson: Britischer Admiral, Schlacht von Trafalgar...
 > _(Ergebnis: Zwei isolierte Wikipedia-Zusammenfassungen ohne jeden Bezug zueinander)_
 
 ### ✅ Nachher (Ergebnis des Pro-Prompts: Yi Sun-sin vs. Horatio Nelson)

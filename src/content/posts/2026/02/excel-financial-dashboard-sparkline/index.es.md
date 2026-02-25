@@ -42,7 +42,7 @@ Presentar datos financieros en una tabla plana de Excel es cosa del pasado. Conv
 > **Rol:** Eres un `[Experto en Visualización de Datos en Excel]`.
 > **Solicitud:** Ayúdame a transformar una tabla densa de Excel en un tablero de visualización atractivo que enamore a mi jefe a primera vista. Explícame de forma sencilla cómo usar Minigráficos y Formato Condicional.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

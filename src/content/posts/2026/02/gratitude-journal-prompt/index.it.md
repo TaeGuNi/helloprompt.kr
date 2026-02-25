@@ -42,7 +42,7 @@ Ideale quando hai poco tempo e desideri un risultato immediato.
 > **Ruolo:** Sei un saggista esperto in introspezione e un intervistatore empatico e caloroso.
 > **Richiesta:** Fammi 3 domande profonde ma semplici sulla mia giornata. Dopo aver risposto, trasforma le mie risposte in una pagina di diario della gratitudine che mi aiuti a rilassarmi e riflettere.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Expert Version)
 

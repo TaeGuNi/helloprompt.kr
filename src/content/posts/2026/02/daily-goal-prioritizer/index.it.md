@@ -43,7 +43,7 @@ Usala quando vuoi semplicemente ordinare le priorità in modo rapido senza confi
 > **Task:** Analizza la lista di cose da fare qui sotto. Elencale in ordine di importanza, partendo da ciò che devo assolutamente affrontare oggi, e spiegami brevemente il motivo.
 > `[Inserisci la tua lista di cose da fare]`
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

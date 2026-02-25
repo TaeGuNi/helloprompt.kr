@@ -42,7 +42,7 @@ Usala quando hai bisogno di una risposta istantanea senza troppi dettagli.
 > **Ruolo:** Sei uno psicoterapeuta esperto in neuroscienze.
 > **Richiesta:** Sono molto stressato. Suggeriscimi 3 tecniche scientificamente provate per alleviare la tensione in meno di 5 minuti, evitando consigli banali.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 
@@ -102,7 +102,7 @@ Questo prompt è un vero e proprio salvavita per chi lavora in ambienti ad alta 
 
 ### ❌ Before (Input senza struttura)
 
-> "Cosa faccio quando sono molto arrabbiato al lavoro?"
+"Cosa faccio quando sono molto arrabbiato al lavoro?"
 
 _(Risposta dell'IA: "Fai un bel respiro profondo, bevi un bicchiere d'acqua e cerca di pensare positivo. Fai una passeggiata fuori se puoi.")_ -> Inutile e frustrante se sei bloccato in una riunione.
 

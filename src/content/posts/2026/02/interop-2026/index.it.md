@@ -40,7 +40,7 @@ Usa questo prompt quando hai bisogno di una rapida revisione di un piccolo framm
 > **Ruolo:** Sei un Senior Frontend Engineer esperto negli standard web e nel progetto Interop 2026.
 > **Azione:** Analizza questo `[snippet di codice]` e spiegami come posso modernizzarlo sfruttando le nuove API web universali.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Avanzata)
 
@@ -110,7 +110,7 @@ function PageTransition({ children }) {
       animate={{ opacity: 1, x: 0 }}
       exit={{ opacity: 0, x: 20 }}
       transition={{ duration: 0.3 }}
-    >
+
       {children}
     </motion.div>
   );

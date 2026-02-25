@@ -42,7 +42,7 @@ Verwenden Sie diesen Prompt, wenn Sie sofort ein einfaches Ergebnis benötigen.
 > **Rolle:** Du bist ein erfahrener Sporternährungsexperte und Diätberater.
 > **Anfrage:** Erstelle mir einen gesunden 7-Tage-Ernährungsplan zum Abnehmen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten-Resultate)
 
@@ -106,7 +106,7 @@ _Tipp aus der Praxis:_ Wenn Ihnen ein vorgeschlagenes Gericht nicht schmeckt, an
 
 ### ❌ Vorher (Einfache Eingabe)
 
-> "Mach mir einen Diätplan zum Abnehmen."
+"Mach mir einen Diätplan zum Abnehmen."
 
 _(Ergebnis: Ein generischer, langweiliger Plan mit viel Hähnchen, Reis und Brokkoli, ohne Rücksicht auf persönliche Vorlieben, den exakten Kalorienbedarf oder den individuellen Arbeitsalltag.)_
 

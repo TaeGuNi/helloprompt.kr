@@ -49,7 +49,7 @@ Ideale quando avete pochissimo tempo e il bambino è già a letto sotto le coper
 > **Ruolo:** Sei uno scrittore esperto di fiabe per bambini e un appassionato zoologo.
 > **Richiesta:** Inventa una breve storia della buonanotte su un animale a scelta, mescolando un'avventura rilassante e un paio di fatti scientificamente reali sulla sua specie.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Expert Version)
 
@@ -112,7 +112,7 @@ Questa non è solo una generazione di testo; è un'esperienza educativa maschera
 
 ### ❌ Prima (Input Semplice)
 
-> "Raccontami una storia su un orso polare."
+"Raccontami una storia su un orso polare."
 
 **Risultato (Noioso e Piatto):**
 _C'era una volta un orso polare che viveva al Polo Nord. Aveva freddo ma andava in giro a cercare cibo. Un giorno incontrò un pinguino e diventarono amici. Poi tornò a casa e andò a dormire._

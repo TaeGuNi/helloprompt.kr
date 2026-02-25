@@ -43,7 +43,7 @@ O prompt mais rápido e eficaz para mesclar vários arquivos Excel que possuem e
 >
 > **Tarefa:** Escreva um código em Python que leia sequencialmente todos os arquivos Excel desta pasta, combine-os em um único DataFrame e salve-o na minha área de trabalho com o nome `total_merged.xlsx`. A estrutura dos cabeçalhos (nomes das colunas) é idêntica em todos eles. Adicione comentários explicativos no código e forneça um passo a passo sobre como executá-lo.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Especialista com Pré-processamento e Agregação)
 

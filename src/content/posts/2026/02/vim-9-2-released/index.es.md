@@ -9,7 +9,7 @@ tags: ["DevTools", "Vim", "Editor", "Release"]
 
 - **🎯 Público objetivo:** Usuarios de Vim, Desarrolladores, Ingenieros DevOps
 - **⏱️ Tiempo requerido:** 30 minutos → Reducido a 1 minuto
-- **🤖 Modelo recomendado:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (Excelentes para analizar documentos técnicos)
+- **🤖 Modelo recomendado:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (Excelentes para analizar documentos técnicos)
 
 - ⭐ **Dificultad:** ⭐⭐☆☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -40,7 +40,7 @@ Este prompt invoca a un **'Analista de Documentación Técnica Personalizado'** 
 > **Rol:** Eres un desarrollador senior y traductor de documentación técnica.
 > **Tarea:** Lee las `[Notas de lanzamiento de Vim 9.2]` a continuación y resume los 3 cambios más importantes en español. Usa un lenguaje sencillo que incluso un principiante pueda entender.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 
@@ -84,7 +84,7 @@ El verdadero valor de este prompt va mucho más allá de simplemente traducir te
   - R: ¡Por supuesto! Funciona perfectamente para cualquier documento técnico, como React, TypeScript, Docker, etc., simplemente cambiando la parte de `[Tecnología Específica]` entre corchetes.
 
 - **P: ¿Qué pasa si las notas de lanzamiento son demasiado largas y no caben en la ventana del chat?**
-  - R: Si utilizas modelos como Claude 3.5 Sonnet o Gemini 1.5 Pro, pueden procesar textos enormes sin problema. Te recomiendo proporcionar la URL de la página de las notas de lanzamiento directamente en el prompt, o adjuntarlo como un archivo de texto o PDF.
+  - R: Si utilizas modelos como Claude 3.5 Sonnet o Gemini 2.5 Pro, pueden procesar textos enormes sin problema. Te recomiendo proporcionar la URL de la página de las notas de lanzamiento directamente en el prompt, o adjuntarlo como un archivo de texto o PDF.
 
 ---
 

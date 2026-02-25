@@ -42,7 +42,7 @@ Verwenden Sie diesen Prompt, wenn Sie nur eine rasche Inspiration oder einen gro
 > **Rolle:** Du bist ein meisterhafter Krimiautor mit dem Intellekt von Agatha Christie und Keigo Higashino.
 > **Anfrage:** Entwirf einen genialen Trick für einen verschlossenen Raum und ein wasserdichtes Alibi, das selbst Sherlock Holmes ins Schwitzen bringen würde.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenform)
 

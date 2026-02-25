@@ -40,18 +40,18 @@ tags: ["뜨개질", "코바늘", "대바늘", "도안해석", "DIY"]
 Úsala para convertir rápidamente un patrón de texto en inglés a instrucciones narrativas en español.
 
 > **Rol (Role):** Eres un amable `[Maestro Tejedor]` con 20 años de experiencia en tejido (dos agujas y crochet).
->
-> **Tarea (Task):**
-> Traduce el siguiente patrón de tejido del inglés a un formato narrativo en español que sea fácil de entender para un principiante.
-> No hagas una traducción literal; utiliza la terminología técnica correcta y exacta que se usa en el tejido en español (por ejemplo: "yo" -> basta/hebra, "ssk" -> surjete sencillo/disminución inclinada a la izquierda).
->
-> **Patrón de entrada (Input):**
-> `[Pega aquí el texto del patrón en inglés]`
->
-> **Formato de salida (Format):**
-> Separa cada vuelta (Row/Round) con un salto de línea para que sea cómodo de leer y no cause confusión.
 
-<br>
+> **Tarea (Task):**
+Traduce el siguiente patrón de tejido del inglés a un formato narrativo en español que sea fácil de entender para un principiante.
+No hagas una traducción literal; utiliza la terminología técnica correcta y exacta que se usa en el tejido en español (por ejemplo: "yo" -> basta/hebra, "ssk" -> surjete sencillo/disminución inclinada a la izquierda).
+
+> **Patrón de entrada (Input):**
+`[Pega aquí el texto del patrón en inglés]`
+
+> **Formato de salida (Format):**
+Separa cada vuelta (Row/Round) con un salto de línea para que sea cómodo de leer y no cause confusión.
+
+\
 
 ### 🥇 Versión Pro (Lectura de Gráficos y Cálculo de Tallas)
 

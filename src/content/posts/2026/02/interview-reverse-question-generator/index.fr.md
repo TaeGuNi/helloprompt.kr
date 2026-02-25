@@ -43,7 +43,7 @@ Utilisez cette version lorsque vous avez besoin d'une inspiration rapide juste a
 > **Rôle :** Tu es un coach de carrière expert en stratégie d'entretien.
 > **Demande :** Crée des questions inversées intelligentes et percutantes à poser à la fin d'un entretien, lorsque le recruteur demande "Avez-vous des questions ?". Les questions doivent prouver mon intérêt pour l'entreprise et ma compréhension du poste.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 

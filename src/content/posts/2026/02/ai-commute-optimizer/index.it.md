@@ -42,7 +42,7 @@ Usa questa versione per un rapido controllo prima di uscire di casa.
 > **Ruolo:** Sei il mio assistente personale per il traffico.
 > **Richiesta:** Devo andare da `[Punto di Partenza]` a `[Destinazione]` entro le `[Orario di Arrivo]`. Considerando il traffico attuale, a che ora devo uscire e quale percorso mi consigli?
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

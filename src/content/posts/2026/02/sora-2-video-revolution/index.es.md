@@ -52,7 +52,7 @@ Sin embargo, tener la mejor cámara del mundo no te convierte en Spielberg. Para
 >
 > **Estilo:** Realista, dinámico y con colores vibrantes.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

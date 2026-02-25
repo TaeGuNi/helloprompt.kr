@@ -39,7 +39,7 @@ tags: ["AI", "Tech", "llm-distributed-systems"]
 > **角色:** 你是一位资深的分布式系统架构师。
 > **任务:** 请为我的 `[应用场景，例如：智能客服工单跨部门流转]` 设计一个结合了 LLM 和 Petri 网 (Petri Nets) 的微服务架构，以确保系统状态的确定性并避免死锁。
 
-<br>
+\
 
 ### 🥇 Pro Version (专业版)
 

@@ -42,7 +42,7 @@ No mundo corporativo, a formalidade do e-mail é essencial, mas o tempo e a ener
 > **Papel:** Você é um assistente de negócios altamente competente.
 > **Tarefa:** Escreva um e-mail educado para o Gerente Kim do nosso cliente, pedindo para adiar a reunião desta sexta-feira para a próxima segunda-feira, às 14h. O motivo é uma mudança na agenda da nossa diretoria.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

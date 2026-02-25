@@ -58,7 +58,7 @@ Use quando precisar comparar rapidamente apenas a disparidade de qualidade entre
 > **Format (Formato):**
 > Avalie as respostas de ambos os modelos em uma escala de 0 a 10 e anuncie o grande vencedor.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

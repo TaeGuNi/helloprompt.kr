@@ -43,7 +43,7 @@ Usala quando ti svegli di soprassalto e vuoi una risposta immediata.
 > **Ruolo:** Sei un esperto psicoanalista specializzato nell'interpretazione dei sogni secondo Carl Jung.
 > **Richiesta:** Analizza questo sogno: `[inserisci il tuo sogno]`. Spiegami quali emozioni o situazioni di vita reale potrebbe riflettere, evitando interpretazioni superstiziose.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 
@@ -98,7 +98,7 @@ Questo prompt è uno dei miei preferiti per il "self-care" mentale. Spesso ci sv
 
 ### ❌ Prima (Input generico)
 
-> Interpreta il mio sogno in cui cado.
+Interpreta il mio sogno in cui cado.
 
 **Risultato generico:** "Sognare di cadere indica insicurezza. Fai attenzione alla tua salute o a possibili fallimenti imminenti." _(Genera solo ansia inutile)._
 

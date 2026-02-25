@@ -42,7 +42,7 @@ Use esta versão quando precisar apenas de um ponto de partida rápido.
 > **Papel:** Você é um Consultor de Criatividade Sênior.
 > **Solicitação:** Estou sem ideias para `[Seu Tópico/Problema]`. Me dê 10 ideias novas e não convencionais usando a técnica SCAMPER.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert Version)
 

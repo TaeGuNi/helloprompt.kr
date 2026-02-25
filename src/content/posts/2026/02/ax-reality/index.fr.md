@@ -41,7 +41,7 @@ Utilisez ce prompt pour une évaluation rapide de votre projet IA.
 > **Rôle :** Tu es un `[Analyste critique de produits technologiques]`.
 > **Tâche :** Évalue la véritable utilité de `[Nom de votre fonctionnalité IA]`. Dis-moi si c'est une véritable innovation ou juste du "bruit" technologique.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

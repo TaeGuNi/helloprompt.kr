@@ -42,7 +42,7 @@ Use this when you need a quick recipe with zero fuss.
 > **Role:** You are an expert bento box chef and nutritionist.
 > **Task:** Create a 10-minute lunch box recipe using `[available ingredients]`. Keep it healthy and easy to pack.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Mode)
 

@@ -52,7 +52,7 @@ image: "/images/2026/02/16/mcp-server-tutorial.jpg"
 > **角色：** 你是一位资深 TypeScript 开发者。
 > **任务：** 请使用官方的 `@modelcontextprotocol/sdk`，编写一个简单的 MCP 服务器代码，它的主要功能是：`[填入你的目标，例如：提供特定城市的天气信息]`。
 
-<br>
+\
 
 ### 🥇 Pro Version (专业版)
 

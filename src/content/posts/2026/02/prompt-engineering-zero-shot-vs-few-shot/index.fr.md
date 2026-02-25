@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "prompt-engineering-zero-shot-vs-few-shot"]
 
 - **🎯 Recommandé pour :** Développeurs AI, Ingénieurs Prompt, Data Scientists
 - **⏱️ Temps gagné :** Des heures de débogage → Des résultats immédiats
-- **🤖 Modèles recommandés :** Tous les LLM (GPT-4, Claude 3.5, Gemini 1.5, etc.)
+- **🤖 Modèles recommandés :** Tous les LLM (GPT-4, Claude 3.5, Gemini 2.5, etc.)
 
 - ⭐ **Difficulté :** ⭐⭐⭐☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -39,7 +39,7 @@ Utilisez cette approche pour des tâches générales, de la génération d'idée
 > **Rôle :** Tu es un `[Analyste de données]`.
 > **Requête :** `[Classifie le sentiment de ce texte : "Le service était lent, mais la nourriture était excellente." Affiche uniquement Positif, Négatif ou Neutre.]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Few-Shot)
 

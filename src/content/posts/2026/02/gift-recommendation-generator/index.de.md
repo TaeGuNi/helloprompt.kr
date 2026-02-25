@@ -42,7 +42,7 @@ Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 > **Rolle:** Du bist ein erfahrener Personal Shopper aus einem Luxuskaufhaus und ein absoluter Experte für Geschenkempfehlungen.
 > **Anfrage:** Erstelle mir eine treffsichere Geschenkeliste. Der Empfänger ist `[Alter und Geschlecht]`, unsere Beziehung ist `[Beziehungsstatus]` und mein Budget liegt bei `[Budget]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

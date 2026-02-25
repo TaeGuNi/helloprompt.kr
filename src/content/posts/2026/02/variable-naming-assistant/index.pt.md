@@ -42,7 +42,7 @@ Use esta versão quando precisar de uma sugestão rápida e direta, sem muitas e
 > **Papel:** Você é um Desenvolvedor Sênior nativo em inglês.
 > **Solicitação:** Sugira 3 nomes de variáveis/funções em inglês (no formato camelCase) para `[descreva o que a função faz]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 
@@ -101,7 +101,7 @@ A maior vantagem deste prompt não é apenas gerar um nome que "funciona", mas s
 
 ### ❌ Before (Entrada)
 
-> "Variável para checar se o usuário já fez login no sistema (booleano)"
+"Variável para checar se o usuário já fez login no sistema (booleano)"
 
 ### ✅ After (Resultado do Prompt Pro)
 

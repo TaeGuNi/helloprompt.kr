@@ -39,7 +39,7 @@ Use esta versão quando precisar apenas estruturar a espinha dorsal lógica de u
 > **Role (Papel):** Você é um Product Manager Sênior.
 > **Task (Tarefa):** Explique a lógica de negócios central e os possíveis riscos para `[ideia do novo serviço]`, dividindo a explicação em 3 etapas lógicas.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Avançada)
 

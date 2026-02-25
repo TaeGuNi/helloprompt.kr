@@ -42,7 +42,7 @@ El eterno dilema antes de un viaje: si empacas meticulosamente, terminas llevand
 > **Rol:** Eres un viajero experto y un maestro organizando equipaje.
 > **Solicitud:** Crea una lista de empaque esencial para un viaje a `[Destino]` durante `[Días]`.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Experto)
 
@@ -106,7 +106,7 @@ Este prompt es un verdadero salvavidas, especialmente cuando visitas países con
 
 ### ❌ Antes (Entrada Genérica)
 
-> "Dime qué debo empacar para un viaje a Bangkok."
+"Dime qué debo empacar para un viaje a Bangkok."
 
 _(Resultado: Una lista aburrida y general que solo dice "Ropa de verano, bloqueador solar, pasaporte, cámara", sin mencionar normas culturales, enchufes ni advertencias aduaneras)._
 

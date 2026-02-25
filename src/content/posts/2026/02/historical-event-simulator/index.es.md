@@ -42,7 +42,7 @@ Ideal para experimentar rápidamente un escenario sin complicaciones.
 > **Rol:** Eres un `[Maestro de Juego de Simulación Histórica]`.
 > **Solicitud:** ¿Qué pasaría si yo fuera el Almirante Yi Sun-sin? Hazme experimentar la historia dándome opciones a elegir, como en un juego de aventuras conversacional.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Experto)
 

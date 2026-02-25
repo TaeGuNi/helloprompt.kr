@@ -12,7 +12,7 @@ image: "/images/2026/02/15/agent-workflow.jpg"
 
 - **🎯 Public ciblé :** Chefs de projet (PM), planificateurs, professionnels épuisés par la rédaction répétitive de comptes rendus de réunion.
 - **⏱️ Temps gagné :** 1 heure → réduit à 3 minutes
-- **🤖 Modèles recommandés :** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (modèles optimisés pour les flux de travail agentiques)
+- **🤖 Modèles recommandés :** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (modèles optimisés pour les flux de travail agentiques)
 
 - ⭐ **Difficulté :** ⭐⭐⭐☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -43,7 +43,7 @@ Utilisez cette version lorsque vous avez besoin de saisir rapidement les points 
 > **Rôle :** Tu es un `[Chef de projet IT]`.
 > **Tâche :** Lis la transcription de réunion suivante et résume les décisions principales ainsi que les tâches à accomplir.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 
@@ -88,7 +88,7 @@ De plus, en stipulant explicitement l'interdiction de "deviner" dans les contrai
 ## 🙋 Foire Aux Questions (FAQ)
 
 - **Q : La transcription est trop longue et génère une erreur. Que dois-je faire ?**
-  - R : Les modèles récents (comme Claude 3.5 Sonnet ou Gemini 1.5 Pro) gèrent sans problème des dizaines de milliers de caractères. Si vous utilisez un modèle plus ancien, essayez de diviser votre texte en deux ou passez à une version dotée d'une fenêtre de contexte (Context Window) plus large.
+  - R : Les modèles récents (comme Claude 3.5 Sonnet ou Gemini 2.5 Pro) gèrent sans problème des dizaines de milliers de caractères. Si vous utilisez un modèle plus ancien, essayez de diviser votre texte en deux ou passez à une version dotée d'une fenêtre de contexte (Context Window) plus large.
 
 - **Q : Parfois, l'IA attribue une tâche à la mauvaise personne.**
   - R : Cela se produit généralement lorsque les interlocuteurs ne sont pas clairement identifiés dans la transcription. Utilisez la fonction de "séparation des locuteurs" (Diarisation) de votre outil de transcription (ex. Otter.ai, Whisper) avant de soumettre le texte. La précision bondira à plus de 99 %.

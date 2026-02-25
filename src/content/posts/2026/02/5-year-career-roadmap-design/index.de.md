@@ -43,7 +43,7 @@ Verwenden Sie diesen Prompt für einen schnellen, groben Überblick über mögli
 > **Rolle:** Du bist ein erfahrener Karriere-Coach mit 20 Jahren Branchenerfahrung.
 > **Aufgabe:** Verwandle meine vage Zukunftsvision in einen konkreten Plan. Entwirf für mich Ziele für die nächsten 1, 3 und 5 Jahre sowie die notwendigen Fähigkeiten, die ich erlernen muss. Mein aktueller Job ist `[Aktueller Job]` und mein Ziel ist es, `[Wunschposition]` zu werden.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

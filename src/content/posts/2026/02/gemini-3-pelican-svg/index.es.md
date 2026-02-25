@@ -38,7 +38,7 @@ En 2026, la función 'Deep Think' del nuevo modelo Gemini 3 de Google está borr
 > **Rol:** Eres un `[desarrollador frontend experto en SVG]`.
 > **Tarea:** Escribe el código SVG perfecto que describa `[un pelícano montando en bicicleta]`.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 
@@ -110,16 +110,16 @@ Sin embargo, al asignar una persona experta que "entiende los principios matemá
 
 ```xml
 <svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Fondo del cielo en tonos azul neón -->
+  
   <rect width="500" height="500" fill="#0a0a2a"/>
 
-  <!-- Gradiente y efecto neón en las ruedas de la bicicleta -->
+  
   <circle cx="150" cy="350" r="60" stroke="#00f3ff" stroke-width="6" fill="none"/>
   <circle cx="350" cy="350" r="60" stroke="#ff00e5" stroke-width="6" fill="none"/>
 
-  <!-- Silueta del pelícano utilizando complejas curvas de Bézier (omitido por brevedad) -->
+  
   <path d="M220 200 C..." fill="#ffffff" stroke="#00f3ff" stroke-width="3"/>
-  <!-- Se generan cientos de líneas de código vectorial de nivel profesional que se renderizan perfectamente y sin errores -->
+  
 </svg>
 ```
 

@@ -48,7 +48,7 @@ Verwende diese Version, wenn du sofort einen Entwurf brauchst.
 > **Rolle:** Du bist ein professioneller Copywriter und Karriereberater.
 > **Anfrage:** Schreibe ein Skript für eine 1-Minuten-Selbstvorstellung für ein Vorstellungsgespräch. Verzichte auf Klischees und fokussiere dich darauf, meine Kernkompetenzen und meinen einzigartigen Wert prägnant zu vermitteln.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für maximale Überzeugungskraft)
 

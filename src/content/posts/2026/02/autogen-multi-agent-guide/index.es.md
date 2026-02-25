@@ -48,7 +48,7 @@ Este prompt genera el código básico de interacción 1:1 entre dos agentes.
 >
 > **Objetivo:** Configura a ambos agentes para que completen la siguiente tarea: 'Encontrar los números primos entre 1 y 100, y guardarlos en un archivo txt'.
 
-<br>
+\
 
 ### 🥇 Pro Version (Startup Virtual IT: PM, Dev, QA)
 

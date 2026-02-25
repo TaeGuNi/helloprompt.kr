@@ -43,7 +43,7 @@ Use esta versão quando quiser apenas uma visão geral rápida do seu estado emo
 > **Tarefa:** Leia o diário que escrevi abaixo, descreva o "clima emocional" do meu dia e me dê uma palavra de conforto e encorajamento.
 > **Conteúdo do Diário:** `[Cole o texto de hoje aqui]`
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 

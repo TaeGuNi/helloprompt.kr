@@ -41,7 +41,7 @@ Utilisez cette version pour obtenir un raisonnement rapide sans effort de concep
 > **Rôle :** Tu es un expert en résolution de problèmes logiques.
 > **Requête :** Résous ce `[problème]`. **Réfléchissons étape par étape.**
 
-<br>
+\
 
 ### 🥇 Version Pro (Few-Shot CoT)
 

@@ -42,7 +42,7 @@ Use esta versão quando precisar de um resultado rápido e direto ao ponto.
 > **Papel:** Você é um Coach de Gestão de Tempo focado em máxima eficiência e um Assistente Executivo profissional.
 > **Tarefa:** Tenho muitas tarefas e não consigo me organizar. Crie um planejamento semanal perfeito baseado em prioridades para as seguintes pendências: `[sua lista de tarefas]`.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert)
 

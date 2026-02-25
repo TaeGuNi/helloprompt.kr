@@ -42,11 +42,11 @@ Ne perdez plus des heures à décrypter la documentation de votre SGBD. En soume
 Utilisez cette version lorsque vous avez simplement besoin d'une correction immédiate sans trop d'explications.
 
 > **Rôle :** Tu es un DBA (Administrateur de Base de Données) Senior avec 20 ans d'expérience, expert en optimisation SQL.
->
-> **Demande :** Analyse la requête SQL suivante et réécris-la pour qu'elle soit plus rapide. Dis-moi aussi s'il manque des index.
-> `[Insérez la requête ici]`
 
-<br>
+> **Demande :** Analyse la requête SQL suivante et réécris-la pour qu'elle soit plus rapide. Dis-moi aussi s'il manque des index.
+`[Insérez la requête ici]`
+
+\
 
 ### 🥇 Version Pro (Expert)
 

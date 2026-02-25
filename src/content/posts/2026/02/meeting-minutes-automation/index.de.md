@@ -43,7 +43,7 @@ Wenn du nur schnell die wichtigsten Punkte für dich selbst festhalten willst.
 > **Aufgabe:** Analysiere das folgende Meeting-Transkript und fasse es prägnant in drei Bereichen zusammen: [Agenda / Kernentscheidungen / Nächste Schritte].
 > **Eingabe:** `[Hier den Text einfügen]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Das perfekte, versandfertige Protokoll)
 

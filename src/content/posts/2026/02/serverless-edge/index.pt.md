@@ -40,7 +40,7 @@ Ideal para obter um resumo rápido ou um _pitch_ de elevador antes de uma reuni�
 > **Role:** Você é um Arquiteto Cloud Sênior.
 > **Task:** Explique o conceito de "Serverless Edge Computing" para um `[Público-Alvo, ex: Gerente de Projetos]`, focando nos benefícios práticos e usando uma analogia simples do dia a dia.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Nível Especialista)
 

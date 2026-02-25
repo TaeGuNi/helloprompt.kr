@@ -44,7 +44,7 @@ Use this when you're in a rush and just need a quick, simple alternative.
 > **Role:** You are a 3-Michelin-star chef.
 > **Task:** I am making `[cream pasta]` right now, but I am out of `[heavy cream]`. Give me 3 common ingredient substitutes I can use immediately. Keep it short.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

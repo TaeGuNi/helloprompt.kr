@@ -41,9 +41,9 @@ Hoje, vamos mergulhar fundo no **Tambo SDK**, a ponte definitiva que transforma 
 Para começar, precisamos preparar o ambiente instalando as dependências e criando as "ferramentas visuais" que a IA terá à disposição.
 
 > **Objetivo:** Preparar o ecossistema instalando pacotes e criando a UI bruta.
->
+
 > **Ação 1 (Instalação):** Execute o comando `pnpm add @tambo/sdk ai zod` no seu terminal.
->
+
 > **Ação 2 (O Arsenal da IA):** Crie um componente React comum. A mágica é que a IA vai preencher dinamicamente as props (`name`, `description`, `rating`).
 
 ```tsx
@@ -72,7 +72,7 @@ export function PlaceCard({
 }
 ```
 
-<br>
+\
 
 ### 🥇 Versão Pro (Registro e Injeção de UI)
 

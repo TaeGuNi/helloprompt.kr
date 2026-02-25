@@ -42,7 +42,7 @@ Verwenden Sie dies, wenn Sie schnelle, präzise Erklärungen benötigen.
 > **Rolle:** Du bist ein erfahrener `[Professor für Linguistik und Experte für Vokabeltraining]`.
 > **Anfrage:** Erkläre mir das Wort `[Dein Wort]`. Zeige mir die genaue Bedeutung, Synonyme, feine Nuancen und gib mir praxisnahe Beispielsätze, damit ich es nicht nur auswendig lerne, sondern wirklich verstehe.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 

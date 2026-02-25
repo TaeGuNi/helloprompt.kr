@@ -43,7 +43,7 @@ Usa questa versione per testare rapidamente un'idea o se hai bisogno di un'illus
 > **Ruolo:** Sei un esperto illustratore specializzato in paper craft.
 > **Richiesta:** Genera l'immagine di `[il tuo soggetto, es. un gatto che dorme]` realizzata interamente in stile ritaglio di carta sovrapposta (layered paper cutout). L'immagine deve mostrare chiaramente la texture della carta e le ombre tra i vari strati per dare un effetto 3D.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

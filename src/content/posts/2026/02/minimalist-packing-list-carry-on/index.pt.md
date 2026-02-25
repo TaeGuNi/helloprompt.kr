@@ -43,7 +43,7 @@ Use esta versão para obter uma lista rápida e direta sem muitas complicações
 >
 > **Pedido:** Crie uma lista de bagagem de mão para uma viagem de `[Duração]` para `[Destino]`. O clima será `[Clima/Temperatura]`. Liste apenas o essencial absoluto.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

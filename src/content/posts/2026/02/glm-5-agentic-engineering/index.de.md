@@ -42,7 +42,7 @@ Der traditionelle, reaktive Weg, bei dem die KI nur kleine, isolierte Code-Fragm
 > **Rolle:** Du bist ein Senior Entwickler.
 > **Aufgabe:** Schreibe eine React-Komponente für einen Login-Button mit Tailwind CSS.
 
-<br>
+\
 
 ### 🥇 Pro Version (Agentic Engineering Ansatz)
 

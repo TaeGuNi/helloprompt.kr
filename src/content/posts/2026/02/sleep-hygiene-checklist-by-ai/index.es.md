@@ -42,7 +42,7 @@ Ideal para cuando necesitas un consejo rápido y directo antes de irte a la cama
 > **Rol:** Eres un experto en medicina del sueño y diseño de interiores enfocado en el descanso.
 > **Solicitud:** Mi habitación actual tiene `[luces LED encendidas y uso el móvil antes de dormir]`. ¿Es este un buen entorno para descansar? Analiza mi dormitorio y mis hábitos, y dame soluciones prácticas para dormir profundamente hoy mismo.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 
@@ -127,7 +127,7 @@ Incluso con los ojos cerrados, los fotorreceptores de tu piel y retinas detectan
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
 El sueño no es simplemente la línea de meta donde termina tu día; es el verdadero comienzo y la base fundamental de la preparación para tu mañana. Un descanso de calidad es, sin duda, el mejor _biohack_ que existe para disparar tu productividad, creatividad y bienestar mental.
 

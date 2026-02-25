@@ -49,7 +49,7 @@ Idéal pour une séance rapide sans équipement spécifique.
 > **Rôle :** Tu es un kinésithérapeute du sport spécialisé dans le suivi des marathoniens de haut niveau.
 > **Demande :** La phase de récupération est primordiale. Propose-moi une routine d'étirements post-course pour prévenir les blessures, soulager les muscles et éviter les courbatures demain matin.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 
@@ -110,7 +110,7 @@ L'erreur la plus fréquente des coureurs amateurs est d'appliquer une routine d'
 
 ### ❌ Avant (Entrée basique)
 
-> "Donne-moi des étirements après avoir couru."
+"Donne-moi des étirements après avoir couru."
 
 _(Résultat typique : Une liste basique et ennuyeuse d'exercices d'éducation physique, sans focus sur les zones réellement impactées par la course ou la douleur.)_
 

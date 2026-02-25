@@ -42,7 +42,7 @@ Use this when you just need a quick draft to get started.
 > **Role:** You are a top-tier lyricist, renowned for writing delicate and emotional lyrics.
 > **Request:** Write a first-verse lyric draft for a ballad using these 3 keywords: `[Keyword 1]`, `[Keyword 2]`, `[Keyword 3]`. The mood should be `[Mood]`.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

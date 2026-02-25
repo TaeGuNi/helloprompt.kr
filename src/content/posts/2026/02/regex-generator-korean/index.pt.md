@@ -42,7 +42,7 @@ Use isso quando precisar de um resultado rápido e direto.
 > **Papel:** Você é um Engenheiro de Software Sênior especialista em Regex.
 > **Solicitação:** Crie uma Expressão Regular para `[inserir o padrão desejado, ex: números de telefone do Brasil]` na linguagem `[JavaScript]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Profissional)
 

@@ -42,7 +42,7 @@ Nutzen Sie diese Variante, wenn Sie schnell ein brauchbares Ergebnis benötigen.
 > **Rolle:** Du bist ein preisgekrönter Schriftsteller, bekannt für deine außergewöhnlich bildhafte Sprache und meisterhaften Landschaftsbeschreibungen.
 > **Aufgabe:** Verwandle diesen simplen Satz in eine lebendige Szene, die alle fünf Sinne anspricht: `[Ihr Satz]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 

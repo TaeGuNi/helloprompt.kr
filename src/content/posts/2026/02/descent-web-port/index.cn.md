@@ -10,7 +10,7 @@ cover: "./cover.png"
 
 - **🎯 推荐对象:** Web 开发者、游戏引擎工程师、WASM 学习者
 - **⏱️ 预计节省时间:** 数天的源码阅读时间 → 1 分钟获取核心架构
-- **🤖 推荐模型:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 推荐模型:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **难度:** ⭐⭐⭐☆☆
 - ⚡️ **效率:** ⭐⭐⭐⭐⭐
@@ -43,7 +43,7 @@ cover: "./cover.png"
 > **角色:** 你是一位资深的 Web 前端架构师。
 > **任务:** 请简要分析《Descent》Web 移植版项目（结合了 Three.js 和 WASM），说明 C++ 代码是如何编译并在浏览器中与 JavaScript 协同工作的。
 
-<br>
+\
 
 ### 🥇 Pro Version (专家版)
 

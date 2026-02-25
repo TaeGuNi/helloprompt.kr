@@ -42,7 +42,7 @@ Utiliza este prompt cuando desees una aventura rápida centrada en la narrativa,
 > **Rol:** Eres el Game Master (GM) de un juego de aventuras de texto de fantasía.
 > **Tarea:** Inicia una partida ambientada en un mundo de fantasía medieval. Jugaré con un guerrero de nivel 1. Desarrolla un escenario en el que deba infiltrarme en una guarida de goblins para rescatar a un rehén. En cada turno, describe la situación de forma detallada y preséntame 3 opciones de acción entre las que pueda elegir.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Reglas hardcore de D&D 5.ª edición)
 

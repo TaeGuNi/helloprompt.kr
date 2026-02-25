@@ -44,7 +44,7 @@ Use this when you need a simple hook script that performs a specific action quic
 > **Role:** You are a `[DevOps Engineer]`.
 > **Task:** Write a Git Hook shell script and setup instructions that use `[Husky]` to `[run npm run lint before git commit]`.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

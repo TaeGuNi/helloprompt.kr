@@ -46,7 +46,7 @@ Perfekt, um die logischen Fähigkeiten und das dynamische Experten-Routing von V
 > **Rolle:** Du bist ein `[Senior Data Scientist]`.
 > **Aufgabe:** Analysiere `[diesen beigefügten Datensatz]` und erkläre mir die versteckten Muster in maximal drei prägnanten Sätzen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

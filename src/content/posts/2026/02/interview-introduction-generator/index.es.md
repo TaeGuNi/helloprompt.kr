@@ -42,20 +42,20 @@ Utiliza un redactor publicitario de IA para transformar tus experiencias ordinar
 Úsalo cuando quieras transmitir tu pasión y potencial por el puesto con gran impacto.
 
 > **Rol (Role):** Eres un responsable de recursos humanos de una gran empresa y un entrevistador principal con 10 años de experiencia.
->
-> **Contexto (Context):**
->
-> - Perfil del candidato: `[Graduado en Administración de Empresas, Presidente del club académico de marketing de la universidad, 1 año de experiencia trabajando a tiempo parcial en una tienda de conveniencia]`
-> - Puesto al que aplica: `[Junior en Marketing de Bienes de Consumo B2C]`
->
-> **Tarea (Task):**
-> Redacta un guion de presentación personal de 1 minuto que capte inmediatamente la atención del entrevistador.
->
-> 1. Destaca la "experiencia en identificar las necesidades del cliente directamente en el lugar de trabajo" como tu arma principal.
-> 2. Excluye expresiones abstractas (esfuerzo, responsabilidad, etc.) y cuéntalo a través de una anécdota concreta.
-> 3. Escríbelo en un tono conversacional, con pausas cortas para que suene muy natural al leerlo en voz alta.
 
-<br>
+> **Contexto (Context):**
+
+- Perfil del candidato: `[Graduado en Administración de Empresas, Presidente del club académico de marketing de la universidad, 1 año de experiencia trabajando a tiempo parcial en una tienda de conveniencia]`
+- Puesto al que aplica: `[Junior en Marketing de Bienes de Consumo B2C]`
+
+> **Tarea (Task):**
+Redacta un guion de presentación personal de 1 minuto que capte inmediatamente la atención del entrevistador.
+
+1. Destaca la "experiencia en identificar las necesidades del cliente directamente en el lugar de trabajo" como tu arma principal.
+2. Excluye expresiones abstractas (esfuerzo, responsabilidad, etc.) y cuéntalo a través de una anécdota concreta.
+3. Escríbelo en un tono conversacional, con pausas cortas para que suene muy natural al leerlo en voz alta.
+
+\
 
 ### 🥇 Versión Pro (Para profesionales con experiencia / Cambio de empleo)
 

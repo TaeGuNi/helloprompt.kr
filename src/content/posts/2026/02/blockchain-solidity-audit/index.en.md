@@ -42,7 +42,7 @@ Use this when you need a standard token code quickly and securely.
 > **Role:** You are a Senior Blockchain Smart Contract Developer.
 > **Task:** Write the Solidity code for an **ERC-20 token** that will safely operate on the Ethereum mainnet. The token name is 'PizzaCoin', the symbol is 'PZ', and the total supply is 1,000,000. You must maximize security by inheriting from the latest version of the `OpenZeppelin` library.
 
-<br>
+\
 
 ### 🥇 Pro Version (Hardcore Security Audit & Extreme Optimization)
 

@@ -42,7 +42,7 @@ Use esta versão quando precisar apenas de um resultado rápido e direto.
 > **Papel:** Você é um especialista em algoritmos de ATS (Applicant Tracking System) e um consultor sênior de currículos.
 > **Solicitação:** Analise meu currículo e a descrição da vaga fornecida. Incorpore de forma natural as palavras-chave que o sistema de recrutamento (ATS) prioriza, a fim de evitar a eliminação automática do meu documento.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert Version)
 

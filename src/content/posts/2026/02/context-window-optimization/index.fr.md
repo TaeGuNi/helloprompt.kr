@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "context-window-optimization"]
 
 - **🎯 Public cible :** Développeurs, Ingénieurs Prompt, Architectes IA
 - **⏱️ Temps gagné :** Des heures de débogage → Résolution instantanée
-- **🤖 Modèles recommandés :** Gemini 1.5 Pro, Claude 3 Opus (Modèles à très large contexte)
+- **🤖 Modèles recommandés :** Gemini 2.5 Pro, Claude 3 Opus (Modèles à très large contexte)
 
 - ⭐ **Niveau de difficulté :** ⭐⭐⭐☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -45,7 +45,7 @@ Idéal pour des requêtes rapides sur des documents de taille moyenne sans struc
 > `[Collez votre long texte ici]`
 > </document>
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 
@@ -90,7 +90,7 @@ Idéal pour des requêtes rapides sur des documents de taille moyenne sans struc
 
 ## 💡 L'avis de l'Expert (Insight)
 
-En tant que développeur, la première fois que j'ai eu accès à la fenêtre d'un million de tokens de Gemini 1.5 Pro, j'y ai jeté tout mon répertoire GitHub d'un coup. Le résultat ? Une latence énorme et des réponses génériques.
+En tant que développeur, la première fois que j'ai eu accès à la fenêtre d'un million de tokens de Gemini 2.5 Pro, j'y ai jeté tout mon répertoire GitHub d'un coup. Le résultat ? Une latence énorme et des réponses génériques.
 
 **Pourquoi ce prompt fonctionne ?** L'utilisation de balises XML pseudo-structurées (`<code_source>`, `<error_logs>`) agit comme une carte de navigation pour les mécanismes d'attention du Transformer. Au lieu de chercher une aiguille dans une botte de foin infinie, vous dites à l'IA : "L'aiguille que tu cherches est dans la boîte étiquetée `<error_logs>`, et voici le manuel d'instructions dans `<documentation>`."
 

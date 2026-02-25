@@ -39,7 +39,7 @@ Use this for a quick, high-level overview of how to split your current monolith.
 > **Role:** You are an Expert Frontend Architect.
 > **Task:** Provide a high-level strategy to migrate a `[Current Tech Stack, e.g., React SPA]` monolith into a Micro-Frontend architecture. Outline the best integration approach (e.g., Module Federation, Web Components, or Server-Side Composition) based on modern 2026 standards.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

@@ -12,7 +12,7 @@ image: "/images/2026/02/15/agent-workflow.jpg"
 
 - **🎯 Zielgruppe:** Produktmanager (PM), Planer, Fachkräfte, die von ständigen Besprechungsnotizen und Dokumentationen erschöpft sind
 - **⏱️ Zeitaufwand:** Von 1 Stunde → auf 3 Minuten reduziert
-- **🤖 Empfohlene Modelle:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (Optimiert für Agentic Workflows)
+- **🤖 Empfohlene Modelle:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (Optimiert für Agentic Workflows)
 
 - ⭐ **Schwierigkeitsgrad:** ⭐⭐⭐☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -43,7 +43,7 @@ Verwenden Sie diese Version, wenn Sie schnell nur die Kernaussagen eines Meeting
 > **Rolle:** Du bist ein `[IT-Projektmanager]`.
 > **Aufgabe:** Lies das folgende Besprechungstranskript und fasse die wichtigsten Entscheidungen und Aufgaben zusammen.
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -88,7 +88,7 @@ Besonders die Einschränkung "Keine Vermutungen anstellen" ist entscheidend. Sie
 ## 🙋 Häufig gestellte Fragen (FAQ)
 
 - **F: Das Transkript ist zu lang und verursacht einen Fehler. Was soll ich tun?**
-  - A: Moderne Modelle (wie Claude 3.5 Sonnet oder Gemini 1.5 Pro) können problemlos Zehntausende von Wörtern verarbeiten. Falls Sie ein älteres Modell nutzen, teilen Sie den Text in zwei Hälften oder wechseln Sie zu einer Version mit einem größeren Kontextfenster (Context Window).
+  - A: Moderne Modelle (wie Claude 3.5 Sonnet oder Gemini 2.5 Pro) können problemlos Zehntausende von Wörtern verarbeiten. Falls Sie ein älteres Modell nutzen, teilen Sie den Text in zwei Hälften oder wechseln Sie zu einer Version mit einem größeren Kontextfenster (Context Window).
 
 - **F: Die KI weist den Action Items manchmal die falschen Personen zu.**
   - A: Dies passiert meistens, wenn die Sprecher im Transkript nicht klar voneinander getrennt sind. Verwenden Sie die Funktion zur 'Sprechererkennung' in Ihrem Transkriptions-Tool und fügen Sie den strukturierten Text ein. Dadurch steigt die Genauigkeit auf über 99 %.

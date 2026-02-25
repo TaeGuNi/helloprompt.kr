@@ -47,7 +47,7 @@ Use este prompt quando tiver a gravação da reunião ou a transcrição gerada 
 > 2. Liste, em ordem de prioridade, os 'Action Items' que eu preciso resolver a partir de hoje.
 > 3. Se houve alguma parte da discussão com nuances ambíguas (ex: uma recusa indireta, aprovação condicional, etc.), explique-a com clareza em português.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Profissional)
 
@@ -118,10 +118,10 @@ Durante a reunião, se o cliente fizer uma pergunta difícil com frases longas, 
 **Cliente:** (Mesma fala acima)
 **Assistente de IA (Saída em tempo real):**
 
-> - **Interpretação:** Estão preocupados se o backend vai aguentar se o número de usuários triplicar no 3º trimestre (Q3). Querem saber qual é o seu plano B.
-> - **Nuances:** Falta de confiança na arquitetura atual do servidor. Querem medidas preventivas concretas e não apenas promessas.
-> - **Opção 1 (Preparado):** "We already have an auto-scaling group configured. Let me share the stress test results after this meeting." (Já configuramos o auto-scaling. Deixe-me compartilhar os resultados do teste de estresse após esta reunião.)
-> - **Opção 2 (Ganhando tempo):** "That’s a valid point. Our lead engineer is reviewing the exact metrics for Q3. We will get back to you by tomorrow." (É um ponto válido. Nosso engenheiro líder está revisando as métricas exatas para o Q3. Daremos um retorno até amanhã.)
+- **Interpretação:** Estão preocupados se o backend vai aguentar se o número de usuários triplicar no 3º trimestre (Q3). Querem saber qual é o seu plano B.
+- **Nuances:** Falta de confiança na arquitetura atual do servidor. Querem medidas preventivas concretas e não apenas promessas.
+- **Opção 1 (Preparado):** "We already have an auto-scaling group configured. Let me share the stress test results after this meeting." (Já configuramos o auto-scaling. Deixe-me compartilhar os resultados do teste de estresse após esta reunião.)
+- **Opção 2 (Ganhando tempo):** "That’s a valid point. Our lead engineer is reviewing the exact metrics for Q3. We will get back to you by tomorrow." (É um ponto válido. Nosso engenheiro líder está revisando as métricas exatas para o Q3. Daremos um retorno até amanhã.)
 
 **Você:** (Olhando para o monitor, sorrindo com confiança) "That’s a valid point. We already have an auto-scaling..." (Aumento de credibilidade 📈 Postura de liderança 😎)
 

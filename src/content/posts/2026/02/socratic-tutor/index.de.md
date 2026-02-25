@@ -13,7 +13,7 @@ tags: ["학습", "자기계발", "메타인지", "튜터링"]
 
 - **🎯 Zielgruppe:** Studenten, Junior-Entwickler, Produktmanager, die neue Konzepte wirklich meistern wollen
 - **⏱️ Zeitaufwand:** Unbegrenzt (Perfekt an das eigene Lerntempo angepasst)
-- **🤖 Empfohlene KI-Modelle:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro (Hohes logisches Denkvermögen und Kontextverständnis zwingend erforderlich)
+- **🤖 Empfohlene KI-Modelle:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro (Hohes logisches Denkvermögen und Kontextverständnis zwingend erforderlich)
 
 - ⭐ **Schwierigkeitsgrad:** ⭐⭐⭐☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -44,7 +44,7 @@ Ideal, um schnell mit einer direkten Frage-Antwort-Runde zu einem bestimmten Ker
 > **Rolle:** Du bist mein persönlicher 1:1-Nachhilfelehrer für das Thema `[Thema einfügen]`.
 > **Aufgabe:** Stelle mir so lange Fragen zu `[Thema einfügen]`, bis ich es vollständig verstanden habe. Verrate mir niemals direkt die Antwort. Wenn ich falsch antworte, gib mir nur einen winzigen Hinweis, damit ich selbst auf die Lösung komme. Wenn ich richtig antworte, gehe zur nächsten, tiefergehenden Frage über.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

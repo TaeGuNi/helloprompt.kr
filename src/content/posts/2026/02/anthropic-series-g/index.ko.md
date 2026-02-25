@@ -14,7 +14,7 @@ title: "Anthropic Series G 투자 유치"
 
 - **🎯 추천 대상:** IT 기획자, 투자자, 스타트업 종사자, 트렌드 분석가
 - **⏱️ 소요 시간:** 1시간 → 3분 단축
-- **🤖 추천 모델:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 추천 모델:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **난이도:** ⭐⭐⭐☆☆
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
@@ -44,7 +44,7 @@ Anthropic의 300억 달러 규모 Series G 투자 유치와 같은 대형 펀딩
 >
 > **요청:** 아래 `[Anthropic Series G 투자 기사]`를 읽고, 투자 규모, 주요 투자자, 투자 목적을 3가지 포인트로 요약해줘.
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 

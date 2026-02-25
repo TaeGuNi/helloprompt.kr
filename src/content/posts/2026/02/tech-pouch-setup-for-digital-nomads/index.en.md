@@ -42,7 +42,7 @@ Use this when you need a fast, generalized recommendation.
 > **Role:** You are a seasoned 'Full Stack Developer and Tech YouTuber' who codes while traveling the globe.
 > **Request:** I need to turn a cafe into my office. Please provide a high-efficiency remote work tech gear list, covering everything from laptops to cables, to maximize my productivity.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Detail)
 

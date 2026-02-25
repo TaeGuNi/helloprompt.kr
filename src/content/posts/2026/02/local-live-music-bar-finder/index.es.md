@@ -49,7 +49,7 @@ El jazz en Nueva York, el techno en Berlín o el flamenco en Sevilla... La verda
 > **Rol:** Eres un experto 'Editor de Revista de Música Indie' que conoce a la perfección la escena underground de `[Nombre de la Ciudad]`.
 > **Solicitud:** Estoy harto de la música comercial para turistas. Recomiéndame 3 bares de música en vivo en `[Nombre de la Ciudad]` donde realmente van los locales a escuchar `[Tu Género Favorito]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 
@@ -111,7 +111,7 @@ Al asignar el rol de "Editor de Revista Indie" y añadir la restricción de "lug
 
 ### ❌ Before (Entrada)
 
-> "Recomiéndame bares de jazz en Nueva York."
+"Recomiéndame bares de jazz en Nueva York."
 
 _(Resultado típico: Te sugiere el Blue Note o el Village Vanguard, lugares fantásticos pero que requieren reservas con meses de antelación, entradas de más de $50 USD y están repletos de turistas con cámaras.)_
 
@@ -119,12 +119,12 @@ _(Resultado típico: Te sugiere el Blue Note o el Village Vanguard, lugares fant
 
 _(Resultado aplicando el Prompt Pro)_
 
-> 📍 **Smalls Jazz Club (Greenwich Village)**
->
-> - **Atmósfera:** Íntima, subterránea, estilo "speakeasy". Auténtica vibra de los años 20 donde la música es la verdadera protagonista.
-> - **Ideal para ti:** Tienen una barra excelente al fondo donde puedes sentarte solo, tomar una cerveza artesanal y estar a escasos metros de los músicos.
-> - **Costo Estimado:** $25 USD (Entrada/Cover) + $10 USD (Bebida). Total: ~$35 USD.
-> - **Nota de acceso:** Las "Jam Sessions" después de la medianoche suelen ser más económicas y es donde los talentosos músicos locales van a tocar libremente. No se requiere reserva para las sesiones de madrugada.
+📍 **Smalls Jazz Club (Greenwich Village)**
+
+- **Atmósfera:** Íntima, subterránea, estilo "speakeasy". Auténtica vibra de los años 20 donde la música es la verdadera protagonista.
+- **Ideal para ti:** Tienen una barra excelente al fondo donde puedes sentarte solo, tomar una cerveza artesanal y estar a escasos metros de los músicos.
+- **Costo Estimado:** $25 USD (Entrada/Cover) + $10 USD (Bebida). Total: ~$35 USD.
+- **Nota de acceso:** Las "Jam Sessions" después de la medianoche suelen ser más económicas y es donde los talentosos músicos locales van a tocar libremente. No se requiere reserva para las sesiones de madrugada.
 
 ---
 

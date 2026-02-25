@@ -44,7 +44,7 @@ Use this when you need a quick, straightforward morning schedule.
 > **Role:** You are an expert `[Productivity Coach]`.
 > **Task:** Design a step-by-step 4 AM morning routine to help me achieve `[My Main Goal]`.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

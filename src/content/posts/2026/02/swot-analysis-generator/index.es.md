@@ -42,7 +42,7 @@ El análisis FODA (Fortalezas, Oportunidades, Debilidades y Amenazas) es el pila
 > **Rol:** Eres un Consultor Estratégico Senior (estilo McKinsey).
 > **Solicitud:** Realiza un análisis FODA exhaustivo para `[Tu Producto/Servicio/Empresa]`. Presenta los resultados en una tabla clara.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

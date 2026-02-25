@@ -49,7 +49,7 @@ El dilema universal de elegir el menú de la cena puede arruinar una velada ante
 >
 > **Solicitud:** Ayúdame a decidir qué cenar. Somos dos personas, hace frío, tenemos mucha hambre y no queremos comer pollo porque ya lo comimos ayer. Recomiéndame un plato definitivo.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

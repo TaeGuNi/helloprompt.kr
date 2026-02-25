@@ -47,7 +47,7 @@ tags: ["쿠버네티스", "K8s", "DevOps", "트러블슈팅", "서버관리"]
 > **任务：**
 > 请从开发者的视角，用最通俗易懂的语言总结导致此错误的核心原因是什么。（例如：内存不足、权限配置错误、网络超时等）。并同时提供 2 个我现在立刻需要去检查的关键排查点。
 
-<br>
+\
 
 ### 🥇 Pro Version (专业版 - 故障恢复与 SRE 报告)
 
@@ -119,14 +119,14 @@ tags: ["쿠버네티스", "K8s", "DevOps", "트러블슈팅", "서버관리"]
 
 - **场景：** 将 `kubectl describe pod` 结尾的事件日志复制到提示词中。
 - **AI 答复：**
-  > “日志分析显示，调度失败是由于 `Insufficient cpu` 引起的。当前集群的 Worker 节点剩余 CPU 分配量不足。
-  > 
+“日志分析显示，调度失败是由于 `Insufficient cpu` 引起的。当前集群的 Worker 节点剩余 CPU 分配量不足。
+
   > **[立即采取的行动]**
-  > 为了尽快恢复服务，请先暂时将该 Pod 的 `resources.requests.cpu` 从 500m 调低至 200m 并重新部署。
-  > `kubectl set resources deployment <deploy-name> -c <container-name> --requests=cpu=200m`
-  > 
+为了尽快恢复服务，请先暂时将该 Pod 的 `resources.requests.cpu` 从 500m 调低至 200m 并重新部署。
+`kubectl set resources deployment <deploy-name> -c <container-name> --requests=cpu=200m`
+
   > **[预防措施]**
-  > 为应对流量激增，建议启用 Cluster Autoscaler，以便在资源紧张时自动扩容节点。”
+为应对流量激增，建议启用 Cluster Autoscaler，以便在资源紧张时自动扩容节点。”
 - **结果：** 复制/粘贴命令，1 分钟内 Pod 成功调度并运行。（问题解决 ✅）
 
 ---

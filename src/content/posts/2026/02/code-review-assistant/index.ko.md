@@ -47,7 +47,7 @@ tags: ["코딩", "버그", "Refactoring", "ChatGPT", "개발자"]
 > [코드 붙여넣기]
 > ```
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 

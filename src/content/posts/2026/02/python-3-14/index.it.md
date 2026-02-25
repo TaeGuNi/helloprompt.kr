@@ -42,7 +42,7 @@ Usa questo prompt per un aggiornamento rapido di script semplici.
 > **Ruolo:** Sei un Senior Python Developer esperto in ottimizzazione.
 > **Azione:** Riscrivi il seguente codice per renderlo compatibile e altamente ottimizzato per le nuove funzionalità di Python 3.14, focalizzandoti su JIT, Pattern Matching v3 e Type Hints avanzati.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Pro Version)
 

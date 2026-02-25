@@ -42,7 +42,7 @@ Usala quando hai bisogno di un risultato rapido senza troppe specifiche.
 > **Ruolo:** Sei un cacciatore di teste senior con 15 anni di esperienza ed esperto nella revisione di curriculum.
 > **Richiesta:** Trasforma le descrizioni piatte delle mie esperienze lavorative in elenchi puntati accattivanti e orientati ai risultati, applicando la tecnica STAR (Situazione, Compito, Azione, Risultato).
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

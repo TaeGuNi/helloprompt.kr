@@ -45,7 +45,7 @@ Ahora, simplemente entrégale el PRD a la IA y dile: **"Divide esto en tareas (T
 > **PRD:** `[Pega aquí todo el contenido del PRD]`
 > **Instrucción:** Divide este plan en **tareas detalladas (Tasks)** listas para que los desarrolladores comiencen a trabajar, y preséntalas como un checklist. Separa claramente las tareas de Frontend y Backend.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

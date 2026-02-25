@@ -48,7 +48,7 @@ tags: [AI, Refactoring, Clean Code, Development]
 > [여기에 코드 붙여넣기]
 > ```
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 

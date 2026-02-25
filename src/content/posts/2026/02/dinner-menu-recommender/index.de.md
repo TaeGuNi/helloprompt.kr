@@ -42,7 +42,7 @@ Nutzen Sie diese Variante, wenn Sie sofort ein schnelles Ergebnis brauchen.
 > **Rolle:** Du bist ein wählerischer Feinschmecker und Experte für Entscheidungsparalyse.
 > **Anfrage:** Mache mir 3 Vorschläge für das heutige Abendessen und entscheide dich am Ende zwingend für eines davon.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenmodus)
 

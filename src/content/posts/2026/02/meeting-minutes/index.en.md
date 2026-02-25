@@ -13,7 +13,7 @@ tags: ["Meeting", "Summary", "Productivity"]
 
 - **🎯 Target Audience:** Project Managers, Marketers, Junior Employees
 - **⏱️ Time Saved:** 60 minutes → 1 minute
-- **🤖 Recommended AI:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Recommended AI:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Difficulty:** ⭐☆☆☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -45,7 +45,7 @@ Use this when you have a short, straightforward meeting and just need a quick re
 > **Task:** Summarize the following meeting transcript. Extract the main topics discussed, key decisions made, and a bulleted list of action items with assignees.
 > **Input:** `[Paste your transcript here]`
 
-<br>
+\
 
 ### 🥇 Pro Version
 

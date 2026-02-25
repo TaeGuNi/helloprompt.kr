@@ -42,7 +42,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "3D"]
 > **역할:** 너는 전문 3D 게임 에셋 디자이너야.
 > **요청:** 귀여운 게이머의 방을 아이소메트릭(Isometric view) 앵글로 3D 렌더링 해줘. 화이트 배경으로 깔끔하게 만들어.
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 

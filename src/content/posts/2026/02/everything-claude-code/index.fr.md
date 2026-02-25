@@ -41,13 +41,13 @@ Aujourd'hui, nous vous présentons comment exploiter le dépôt **[`everything-c
 Embauchez un agent senior en 2 minutes depuis votre terminal.
 
 > **1. Installation du plugin (pour Claude Code) :**
-> `/plugin marketplace add affaan-m/everything-claude-code`
-> `/plugin install everything-claude-code@everything-claude-code`
->
-> **2. Exécution du prompt de planification :**
-> `/plan "Crée une page de liste d'articles de blog responsive en utilisant Next.js 14 App Router. Je veux utiliser Tailwind CSS et shadcn/ui."`
+`/plugin marketplace add affaan-m/everything-claude-code`
+`/plugin install everything-claude-code@everything-claude-code`
 
-<br>
+> **2. Exécution du prompt de planification :**
+`/plan "Crée une page de liste d'articles de blog responsive en utilisant Next.js 14 App Router. Je veux utiliser Tailwind CSS et shadcn/ui."`
+
+\
 
 ### 🥇 Version Pro (TDD et application de règles personnalisées)
 

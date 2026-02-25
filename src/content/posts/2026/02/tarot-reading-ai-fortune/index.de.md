@@ -42,7 +42,7 @@ Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 > **Rolle:** Du bist ein erfahrener Tarot-Leser mit einer ausgezeichneten Intuition und einer mysteriösen Aura.
 > **Anfrage:** Ziehe virtuell Tarotkarten und deute meine Zukunft hinsichtlich meiner aktuellen Sorgen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Version)
 

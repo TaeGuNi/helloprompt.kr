@@ -42,7 +42,7 @@ Utilisez ceci lorsque vous avez besoin d'un script pour nettoyer rapidement un b
 > **Rôle :** Tu es un `[ingénieur système Linux avec 10 ans d'expérience]`.
 > **Requête :** Rédige un `[script shell qui classe les fichiers du dossier ~/Downloads par extension, crée automatiquement des sous-dossiers (par exemple, Images pour .jpg, Docs pour .pdf), et y déplace les fichiers]`. Explique-moi également comment lui attribuer les droits d'exécution.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

@@ -47,7 +47,7 @@ Ideale quando hai bisogno di rendere un'email rapida più cortese e professional
 >
 > **Richiesta (Task):** Trasforma questa frase troppo diretta in un'espressione **Cortese e Professionale**, adatta a un manager o a un cliente. Fornisci 3 opzioni diverse in base al grado di formalità.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 

@@ -45,7 +45,7 @@ Idéal lorsque vous êtes pressé et que vous avez besoin d'une base de discussi
 > **Rôle :** Tu es un médiateur familial équitable et rationnel, expert en psychologie infantile.
 > **Requête :** Aide-moi à établir des règles simples pour que mon enfant arrête de regarder YouTube sans faire de crise.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Experte)
 

@@ -43,7 +43,7 @@ Da usare quando hai fretta e ti serve un riassunto immediato.
 > **Compito:** Riassumi la seguente trascrizione della riunione evidenziando le decisioni prese e le azioni da compiere.
 > **Trascrizione:** `[INSERISCI QUI LA TRASCRIZIONE]`
 
-<br>
+\
 
 ### 🥇 Versione Pro (Professional)
 
@@ -88,10 +88,10 @@ Questo prompt è un salvavita, specialmente per riunioni tecniche, brainstorming
 ## 🙋 Domande Frequenti (FAQ)
 
 - **Q: Devo correggere o pulire la trascrizione prima di inviarla all'IA?**
-  - A: Assolutamente no. I modelli avanzati come GPT-4, Claude 3.5 o Gemini 1.5 sono perfettamente in grado di filtrare balbettii, digressioni e gli errori tipografici generati dai software di dettatura automatica.
+  - A: Assolutamente no. I modelli avanzati come GPT-4, Claude 3.5 o Gemini 2.5 sono perfettamente in grado di filtrare balbettii, digressioni e gli errori tipografici generati dai software di dettatura automatica.
 
 - **Q: Cosa succede se la riunione dura 2 ore e il testo è troppo lungo?**
-  - A: Ti consiglio di usare Claude (che ha una finestra di contesto enorme) oppure Gemini 1.5 Pro. Se usi la versione gratuita di ChatGPT, potresti dover dividere la trascrizione in due parti, chiedere un riassunto intermedio per ciascuna e poi fonderli alla fine.
+  - A: Ti consiglio di usare Claude (che ha una finestra di contesto enorme) oppure Gemini 2.5 Pro. Se usi la versione gratuita di ChatGPT, potresti dover dividere la trascrizione in due parti, chiedere un riassunto intermedio per ciascuna e poi fonderli alla fine.
 
 ---
 

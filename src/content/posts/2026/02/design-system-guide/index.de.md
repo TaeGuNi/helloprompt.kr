@@ -42,7 +42,7 @@ Nutzen Sie diesen Prompt, wenn Sie schnell Ergebnisse für Ihre anfängliche Far
 > **Rolle:** Du bist ein `[Experte für Design-Systeme]`.
 > **Aufgabe:** Ich plane die Farbpalette für das Design-System eines neuen Produkts. Unterteile die Farben `[Primary (Blau)]`, `[Secondary (Grau)]` und `[Error (Rot)]` in jeweils 9 Abstufungen (100 bis 900). Erstelle eine Tabelle mit den Hex-Codes für jede Stufe und füge intuitive, semantische Namen (z. B. `text-primary`, `bg-surface-default`) hinzu, damit sie direkt im Code angewendet werden können.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

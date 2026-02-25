@@ -42,7 +42,7 @@ Usala quando hai bisogno di un'idea veloce e senza troppi fronzoli.
 > **Ruolo:** Agisci come un Senior UI/UX Designer ed Esperto di Data Analytics.
 > **Richiesta:** Devo creare una dashboard. Quali indicatori chiave dovrei monitorare e come dovrei strutturare i componenti visivi?
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

@@ -42,7 +42,7 @@ Usa questa versione quando hai bisogno di un'immagine d'impatto nel minor tempo 
 > **Ruolo:** Sei un Concept Artist esperto in ambienti fantascientifici.
 > **Richiesta:** Genera l'immagine di una città futuristica di notte. Usa un'illuminazione al neon in stile cyberpunk con un intenso contrasto tra rosa magenta e blu ciano.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 
@@ -101,7 +101,7 @@ Molti principianti si concentrano nel descrivere tecnologie avanzate, ottenendo 
 
 ### ❌ Prima (Input Semplice)
 
-> Città futura di notte, motocicletta.
+Città futura di notte, motocicletta.
 
 _(Risultato: Una città buia, generica, priva di carattere. Le luci sono piatte e bianche, senza alcun senso di atmosfera o profondità artistica.)_
 

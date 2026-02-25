@@ -48,7 +48,7 @@ Verwenden Sie diese Version, wenn Sie nur schnell Kommentare und die Grundstrukt
 > **Code:**
 > `[Fügen Sie hier Ihren kopierten Code ein]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

@@ -9,7 +9,7 @@ tags: ["Prompt Engineering", "AI", "CoT"]
 
 - **🎯 Target Audience:** PMs, Developers, Data Analysts, and anyone tired of AI's confident wrong answers.
 - **⏱️ Time Saved:** 1 hour → 3 minutes
-- **🤖 Recommended Models:** All advanced conversational AIs (GPT-4, Claude 3.5 Sonnet, Gemini 1.5 Pro, etc.)
+- **🤖 Recommended Models:** All advanced conversational AIs (GPT-4, Claude 3.5 Sonnet, Gemini 2.5 Pro, etc.)
 
 - ⭐ **Difficulty:** ⭐⭐⭐☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -38,7 +38,7 @@ Use this "magic phrase" at the end of your prompt for the fastest, easiest way t
 > **Role:** You are a `[logical analyst]`.
 > **Task:** Provide an answer for the following `[complex problem or situation]`. **However, before jumping to a conclusion, think about it logically and step-by-step.**
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -89,7 +89,7 @@ In the field, I highly recommend applying the Pro Version specifically for **"co
   - A: Try breaking down the 'criteria for steps' more granularly in your Task instructions. Alternatively, provide a longer, more specific sample of your desired reasoning process in the Few-Shot example section. The AI will seamlessly mimic that exact flow of thought.
 
 - **Q: Can I use this prompt with other language models like Claude or Gemini?**
-  - A: Absolutely. CoT is not a model-specific feature; it's a universal methodology that exploits the fundamental operating principles of all Large Language Models (LLMs). It shines even brighter in the latest reasoning-heavy models like Claude 3.5 Sonnet and Gemini 1.5 Pro.
+  - A: Absolutely. CoT is not a model-specific feature; it's a universal methodology that exploits the fundamental operating principles of all Large Language Models (LLMs). It shines even brighter in the latest reasoning-heavy models like Claude 3.5 Sonnet and Gemini 2.5 Pro.
 
 - **Q: Should I just use CoT for everything?**
   - A: No. For simple factual retrieval (e.g., "What is the capital of South Korea?") or basic summarization, a chain of thought is completely unnecessary. It will only waste tokens (money) and response time. Keep this weapon sheathed until you actually need 'complex logic'.

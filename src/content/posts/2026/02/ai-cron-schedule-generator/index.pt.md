@@ -13,7 +13,7 @@ tags: [Linux, Cron, Automation, Server, AI]
 
 - **🎯 Público-Alvo:** Desenvolvedores Backend, Engenheiros DevOps, Administradores de Sistemas
 - **⏱️ Tempo Gasto:** 10 minutos → Reduzido para 30 segundos
-- **🤖 Modelos Recomendados:** ChatGPT, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modelos Recomendados:** ChatGPT, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Dificuldade:** ⭐☆☆☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Use isso quando precisar da expressão Cron rapidamente, sem complicações.
 > **Role:** Você é um `[Engenheiro DevOps]`.
 > **Task:** Crie uma expressão Crontab do Linux para `[toda última sexta-feira do mês às 23h]`. Adicione uma breve explicação de quando ele será executado.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

@@ -43,11 +43,11 @@ A continuación, revelamos el secreto para "automatizar tus notas de lectura" y 
 Úsalo cuando solo necesites guardar rápidamente el texto subrayado y comprender el mensaje central del autor.
 
 > **(Sube la foto de la página del libro)**
->
-> **Instrucción:**
-> Extrae con precisión todo el texto de la imagen adjunta. Luego, resume en una sola oración el argumento principal que el autor intenta transmitir en esta página.
 
-<br>
+> **Instrucción:**
+Extrae con precisión todo el texto de la imagen adjunta. Luego, resume en una sola oración el argumento principal que el autor intenta transmitir en esta página.
+
+\
 
 ### 🥇 Versión Pro (Reseña Profunda y Plan de Acción)
 

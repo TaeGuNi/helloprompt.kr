@@ -49,7 +49,7 @@ Sabemos que no puedes levantarte a hacer una sesión de yoga en medio de la jorn
 > **Rol:** Eres un experto fisioterapeuta especializado en ergonomía laboral y un maestro del camuflaje social en la oficina.
 > **Solicitud:** Diséñame una rutina de 'Estiramiento Sigiloso en la Oficina' que pueda realizar sentado en mi escritorio sin que ninguno de mis colegas se dé cuenta de que estoy haciendo ejercicio.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -109,7 +109,7 @@ Este prompt es sorprendentemente útil porque ataca un "pain point" (punto de do
 
 ### ❌ Before (Entrada Simple)
 
-> "Dime cómo estirar en la oficina."
+"Dime cómo estirar en la oficina."
 > _(Resultado de la IA: "Levántate, separa las piernas al ancho de los hombros, levanta los brazos hacia el techo y gira el torso..." -> Imposible de hacer sin morir de vergüenza)._
 
 ### ✅ After (Resultado del Prompt Pro)

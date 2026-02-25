@@ -43,7 +43,7 @@ Un solo día en una ciudad desconocida pasa volando. Si no optimizas tu ruta, te
 > **Rol:** Eres un guía turístico local especializado en `[Nombre de la Ciudad]` con 20 años de experiencia.
 > **Solicitud:** Planifica un itinerario óptimo de un día completo para disfrutar como un verdadero local, minimizando los tiempos de traslado y evitando las clásicas trampas para turistas.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

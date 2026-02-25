@@ -42,7 +42,7 @@ Use esta versão quando precisar de um panorama rápido e direto ao ponto.
 > **Papel:** Você é um Consultor de Gestão Sênior (ex-McKinsey).
 > **Solicitação:** Faça uma Análise SWOT detalhada para o seguinte negócio/tópico: `[Seu Negócio/Tópico]`.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert Version)
 

@@ -42,7 +42,7 @@ Ideal para obtener una estructura rápida y sencilla.
 > **Rol:** Eres un 'Curador de Viajes de Bienestar' especializado en descanso profundo y sanación mental.
 > **Solicitud:** Diseña un itinerario de 7 días de 'Viaje Lento' enfocado en el verdadero descanso, evitando por completo las atracciones turísticas concurridas.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 
@@ -107,7 +107,7 @@ Al utilizar la "Regla del Uno al Día" y exigir rutinas nocturnas de sanación, 
 
 ### ❌ Before (Entrada simple)
 
-> "Recomiéndame un itinerario de viaje de una semana a Mallorca."
+"Recomiéndame un itinerario de viaje de una semana a Mallorca."
 
 _(Resultado típico: Un horario estresante visitando la Catedral, haciendo fila en las Cuevas del Drach, buscando aparcamiento en playas abarrotadas y conduciendo 3 horas diarias)._
 

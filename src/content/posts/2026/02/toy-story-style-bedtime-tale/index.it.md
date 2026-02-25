@@ -49,7 +49,7 @@ Usa questo prompt quando sei di fretta e hai bisogno di una storia veloce prima 
 > **Ruolo:** Sei un talentuoso scrittore per bambini, capace di dare voce agli oggetti inanimati.
 > **Richiesta:** Scrivi una breve e dolce storia su una festa segreta organizzata dai giocattoli preferiti del bambino durante la notte.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 

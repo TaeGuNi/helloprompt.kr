@@ -45,7 +45,7 @@ Use this when you need a quick, high-level summary of a confusing paragraph.
 > **Task:** Translate the following legal text into plain English that a 10-year-old could understand, and point out any obvious red flags for me.
 > **Text:** `[Insert Contract Text Here]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Analysis)
 
@@ -111,7 +111,7 @@ This prompt is an absolute lifesaver for freelancers and renters. In my experien
 What does this mean? Is it bad for me?
 ```
 
-<br>
+\
 
 ### ✅ After (Result)
 

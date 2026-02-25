@@ -44,7 +44,7 @@ Use this when you want to lightly organize your emotions for the day without com
 > **Role:** You are a `[warm and thoughtful friend]`.
 > **Task:** Give me 3 reflection questions that will help me calmly look back on my day and process my emotions.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

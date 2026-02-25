@@ -43,7 +43,7 @@ Utilisez cette version lorsque vous avez juste besoin d'une idée rapide.
 > **Rôle :** Tu es un `[Expert en Réseaux Sociaux]` et `[Copywriter Instagram]`.
 > **Demande :** Rédige une légende Instagram engageante pour une photo montrant `[Description de la photo]`. Inclus des émojis et 5 hashtags pertinents.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 
@@ -102,22 +102,22 @@ La véritable force de ce prompt réside dans la séparation des **3 variantes**
 
 ### ❌ Avant (Entrée)
 
-> Je suis allé dans un café, le café est bon. Il fait beau aujourd'hui.
+Je suis allé dans un café, le café est bon. Il fait beau aujourd'hui.
 
 ### ✅ Après (Résultat de l'IA)
 
 > **[Variante 1 : Ton Chaleureux & Authentique]**
->
-> Les rayons de soleil de cet après-midi ont quelque chose de magique, vous ne trouvez pas ? ✨
->
-> Je viens de dénicher ce petit café caché et c'est exactement ce dont j'avais besoin pour déconnecter. L'odeur des grains fraîchement moulus, la place parfaite près de la fenêtre... C'est souvent dans ces moments suspendus que l'on trouve le plus de réconfort. ☕️🌿
->
-> Et vous, c'est quoi votre petit rituel pour recharger les batteries en pleine semaine ? Dites-le-moi en commentaire ! 👇
->
-> .
-> .
-> .
-> #PauseCafé #SlowLiving #BonheurSimple #DecouverteDuJour #CoffeeShopVibes #MomentPourSoi #InstaCafé
+
+Les rayons de soleil de cet après-midi ont quelque chose de magique, vous ne trouvez pas ? ✨
+
+Je viens de dénicher ce petit café caché et c'est exactement ce dont j'avais besoin pour déconnecter. L'odeur des grains fraîchement moulus, la place parfaite près de la fenêtre... C'est souvent dans ces moments suspendus que l'on trouve le plus de réconfort. ☕️🌿
+
+Et vous, c'est quoi votre petit rituel pour recharger les batteries en pleine semaine ? Dites-le-moi en commentaire ! 👇
+
+.
+.
+.
+#PauseCafé #SlowLiving #BonheurSimple #DecouverteDuJour #CoffeeShopVibes #MomentPourSoi #InstaCafé
 
 ---
 

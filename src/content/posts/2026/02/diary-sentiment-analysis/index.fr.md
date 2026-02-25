@@ -42,7 +42,7 @@ Utilisez ceci pour identifier rapidement vos centres d'intérêt principaux et v
 > **Rôle :** Tu es un analyste de données et un psychologue conseiller.
 > **Tâche :** À partir du texte de mon journal de la semaine dernière que j'ai uploadé, extrais le Top 5 des noms et le Top 5 des adjectifs les plus fréquents. En te basant sur ces mots, résume mon état psychologique actuel en une seule phrase.
 
-<br>
+\
 
 ### 🥇 Version Pro (Analyse chronologique des émotions & Rapport visuel)
 
@@ -105,17 +105,17 @@ Si vous ne tenez pas de journal, exportez et analysez vos conversations privées
 
 ### ❌ Avant (Épuisement émotionnel flou)
 
-> "Ce mois a été vraiment terrible. J'ai eu l'impression d'être fatigué et irrité tous les jours. Pourquoi suis-je si déprimé ?"
-> (Se retrouver bloqué dans un sentiment d'impuissance sans en connaître la cause réelle)
+"Ce mois a été vraiment terrible. J'ai eu l'impression d'être fatigué et irrité tous les jours. Pourquoi suis-je si déprimé ?"
+(Se retrouver bloqué dans un sentiment d'impuissance sans en connaître la cause réelle)
 
 ### ✅ Après (Rétrospective objective basée sur les données)
 
 > **[📈 Rapport d'Analyse Émotionnelle IA]**
->
-> - **Score Émotionnel le Plus Bas (15 et 22 février) :** Score de -8.
->   - Mots-clés déclencheurs : `heures supplémentaires`, `malbouffe`, `dégoût de soi`
->   - Analyse : Un schéma récurrent a été identifié : une perte de contrôle face au stress conduisant à des excès alimentaires après des heures supplémentaires, entraînant de fortes émotions négatives qui persistent jusqu'au lendemain.
-> - **💡 Conseil basé sur les données :** Les jours où les heures supplémentaires sont inévitables, il est préférable de bloquer vos applications de livraison de repas et de vous forcer à faire une marche légère, même de 10 minutes, pour protéger votre équilibre émotionnel et briser le cycle.
+
+- **Score Émotionnel le Plus Bas (15 et 22 février) :** Score de -8.
+  - Mots-clés déclencheurs : `heures supplémentaires`, `malbouffe`, `dégoût de soi`
+  - Analyse : Un schéma récurrent a été identifié : une perte de contrôle face au stress conduisant à des excès alimentaires après des heures supplémentaires, entraînant de fortes émotions négatives qui persistent jusqu'au lendemain.
+- **💡 Conseil basé sur les données :** Les jours où les heures supplémentaires sont inévitables, il est préférable de bloquer vos applications de livraison de repas et de vous forcer à faire une marche légère, même de 10 minutes, pour protéger votre équilibre émotionnel et briser le cycle.
 
 ---
 

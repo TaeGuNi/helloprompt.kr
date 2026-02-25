@@ -19,7 +19,7 @@ title: " \"생성형 UI (Generative UI): 클릭 없는 인터페이스의 미래
 
 - **🎯 推荐对象：** 产品设计师 (Product Designer)、前端开发者 (Frontend Developer)、产品经理 (PM)
 - **⏱️ 节省时间：** 1小时 → 缩短至 3分钟
-- **🤖 推荐模型：** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 推荐模型：** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **难度：** ⭐⭐⭐☆☆
 - ⚡️ **效果：** ⭐⭐⭐⭐⭐
@@ -52,7 +52,7 @@ title: " \"생성형 UI (Generative UI): 클릭 없는 인터페이스의 미래
 > **角色：** 你是一位`[资深产品设计师]`。
 > **任务：** 请描述一个展示`[本周末釜山旅行行程]`的移动端 UI 组件布局，并附上 Tailwind CSS 类名推荐。
 
-<br>
+\
 
 ### 🥇 Pro Version (专业版)
 

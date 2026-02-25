@@ -45,7 +45,7 @@ Usala quando hai bisogno di un controllo rapido e senza fronzoli.
 > **Ruolo:** Sei un Senior Software Engineer esperto.
 > **Richiesta:** Fai una revisione severa ma costruttiva di questo codice per migliorarne la qualità e le performance: `[INSERISCI_CODICE]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

@@ -42,7 +42,7 @@ Use this when you need a quick, simple answer on the fly.
 > **Role:** You are a kindergarten teacher who explains difficult science concepts easily and gently.
 > **Request:** Explain why the sky is blue to a 5-year-old using simple, relatable metaphors.
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -106,7 +106,7 @@ Explain why the sky is blue to a 5-year-old.
 
 _(AI's typical response)_
 
-> The sky is blue because gases and particles in Earth's atmosphere scatter sunlight in all directions. Blue light is scattered more than other colors because it travels as shorter, smaller waves.
+The sky is blue because gases and particles in Earth's atmosphere scatter sunlight in all directions. Blue light is scattered more than other colors because it travels as shorter, smaller waves.
 
 ### ✅ After (Using the Pro Prompt)
 

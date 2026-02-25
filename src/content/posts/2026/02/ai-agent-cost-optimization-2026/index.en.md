@@ -44,48 +44,48 @@ Here is a practical engineering guide to keep your agents smart while slashing y
 If you aren't using the **Context Caching** features provided by modern APIs, you are throwing money out the window. Most agents re-transmit the exact same `System Prompt` + `Few-Shot Examples` + `API Documentation` on every single turn. By utilizing caching, you can "upload once, read for pennies."
 
 > **How it works & When to apply:**
-> 
-> - When your system prompt exceeds 1,000 tokens.
-> - When you've loaded massive PDF documents or an entire codebase into the context.
-> - When the agent performs long, multi-turn conversations.
-> 
+
+- When your system prompt exceeds 1,000 tokens.
+- When you've loaded massive PDF documents or an entire codebase into the context.
+- When the agent performs long, multi-turn conversations.
+
 > *Pro Tip:* Place static content (rules, examples) at the very top of your prompt, and dynamic content (user queries, recent chat) at the bottom. Caching relies on the prefix of the text to work!
 
-<br>
+\
 
 ### 🥇 Pattern 2: The "Summarize-and-Forget" Loop
 
 Instead of carrying around the raw, exhaustive logs of "Thought: X, Action: Y, Observation: Z...", force the agent to manage its own **State Card**.
 
 > **Role:** You are a highly efficient state-machine agent that optimizes resource usage to the extreme.
-> 
+
 > **Context:**
-> 
-> - Background: We must prevent API costs from exploding due to endlessly growing conversation histories.
-> - Goal: Compress the current progress into a State Card update at the end of every single turn.
-> 
+
+- Background: We must prevent API costs from exploding due to endlessly growing conversation histories.
+- Goal: Compress the current progress into a State Card update at the end of every single turn.
+
 > **Task:**
-> 
-> 1. You MUST update your `Internal_State` at the conclusion of every turn.
-> 2. In the next turn, instead of the full chat history, you will only receive this `Internal_State` and the most recent `Observation` (the immediate result of your last action).
-> 3. Strictly compress and output your current state matching the JSON format below.
-> 
+
+1. You MUST update your `Internal_State` at the conclusion of every turn.
+2. In the next turn, instead of the full chat history, you will only receive this `Internal_State` and the most recent `Observation` (the immediate result of your last action).
+3. Strictly compress and output your current state matching the JSON format below.
+
 > **Constraints:**
-> 
-> - Your output format MUST strictly adhere to the following JSON structure:
-> 
-> ```json
-> {
->   "thought": "Logical reasoning for the current step...",
->   "action": "function_name(args)",
->   "new_state": {
->     "goal": "Find the bug in the auth.ts file",
->     "completed_steps": ["Finished reading auth.ts", "Discovered missing environment variables"],
->     "next_step": "Check the .env file",
->     "blockers": "None"
->   }
-> }
-> ```
+
+- Your output format MUST strictly adhere to the following JSON structure:
+
+```json
+{
+  "thought": "Logical reasoning for the current step...",
+  "action": "function_name(args)",
+  "new_state": {
+    "goal": "Find the bug in the auth.ts file",
+    "completed_steps": ["Finished reading auth.ts", "Discovered missing environment variables"],
+    "next_step": "Check the .env file",
+    "blockers": "None"
+  }
+}
+```
 
 ---
 

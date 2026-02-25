@@ -42,7 +42,7 @@ Use this when you are exhausted and just need a quick, soothing story right now.
 > **Role:** You are a pediatric sleep expert and gentle meditation guide.
 > **Task:** Tell a slow, comforting bedtime story infused with child-friendly meditation and relaxation techniques to help a restless child fall asleep immediately.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Craftsmanship)
 

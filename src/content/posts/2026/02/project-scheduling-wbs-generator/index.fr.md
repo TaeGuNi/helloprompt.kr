@@ -42,7 +42,7 @@ Utilisez cette version pour générer rapidement un squelette de projet.
 > **Rôle :** Tu es un Chef de Projet (PMO) expérimenté.
 > **Demande :** Crée un rétroplanning sous forme de WBS pour un projet de `[Nom du projet]`. La date limite est fixée au `[Date de fin]`. Répartis les tâches par phases et estime la durée de chacune dans un tableau.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

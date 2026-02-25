@@ -43,7 +43,7 @@ Ideal para quando você precisa de um resultado rápido e direto ao ponto.
 >
 > **Solicitação:** Crie uma imagem no estilo Steampunk. Mostre um cenário ou objeto do século XIX altamente tecnológico, utilizando exclusivamente materiais como latão, cobre e couro, movido a vapor e engrenagens.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert)
 

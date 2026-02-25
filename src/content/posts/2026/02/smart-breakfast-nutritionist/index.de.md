@@ -42,7 +42,7 @@ Nutzen Sie diese Version, wenn Sie nur eine schnelle Menü-Idee benötigen.
 > **Rolle:** Du bist ein kreativer Koch.
 > **Aufgabe:** In meinem Kühlschrank befinden sich `[2 Eier, 1 Scheibe Toastbrot, Kirschtomaten]`. Empfiehl mir aus diesen Zutaten genau 3 Frühstücksmenüs, die ich in unter 15 Minuten zubereiten kann.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten)
 
@@ -109,7 +109,7 @@ Dieser Prompt geht weit über gewöhnliche Rezeptempfehlungen hinaus. Durch die 
 
 ### ❌ Vorher (Standardanfrage)
 
-> "Ich habe Eier, Toast und Kirschtomaten zu Hause. Was soll ich zum Frühstück machen?"
+"Ich habe Eier, Toast und Kirschtomaten zu Hause. Was soll ich zum Frühstück machen?"
 
 *(Die typische, generische KI-Antwort: Machen Sie sich French Toast oder Rührei. Verquirlen Sie die Eier...)* 👉 Es fehlen jegliche Nährwertangaben, eine präzise Zeitangabe und somit der tatsächliche praktische Bezug für einen stressigen Morgen.
 

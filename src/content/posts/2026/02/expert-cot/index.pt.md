@@ -44,7 +44,7 @@ Use isso quando precisar de um resultado rápido para tarefas intermediárias.
 > **Papel:** Você é um `[Especialista/Gerente de Projeto]`.
 > **Solicitação:** Resolva este problema: `[Descrição do Problema]`. Pense o passo a passo da lógica antes de me fornecer a resposta final.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Profissional)
 

@@ -42,7 +42,7 @@ Verwenden Sie diesen Prompt, wenn Sie sich nur einen schnellen Überblick versch
 > **Rolle:** Du bist ein erfahrener `[Strategieberater]`.
 > **Aufgabe:** Führe eine prägnante SWOT-Analyse für das Unternehmen `[Zielunternehmen]` durch, in das ich investieren möchte.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenmodus)
 
@@ -118,10 +118,10 @@ Nenne mir Vor- und Nachteile von Hyundai Motor.
 
 | Kategorie | Kernpunkte |
 | :--- | :--- |
-| **💪 Stärken (S)** | 1. Flexible Produktionskapazität durch breites Hybrid- und EV-Lineup.<br>2. Deutliche Margenverbesserung durch erfolgreiche Etablierung der Premiummarke Genesis.<br>3. Solide Kapitalbeschaffung und Marktdurchdringung durch den Börsengang (IPO) in Indien. |
-| **📉 Schwächen (W)** | 1. Anhaltend schwache Marktanteile und verzögerte Erholung im chinesischen Markt.<br>2. Hohe Arbeitskostenstruktur und anhaltendes Streikrisiko der Gewerkschaften.<br>3. Aufholbedarf bei Software-Defined Vehicles (SDV) im Vergleich zu Tech-Pionieren. |
-| **🌟 Chancen (O)** | 1. Stark steigende Nachfrage nach margenstarken Hybridfahrzeugen (HEV) in den USA.<br>2. Enormes Wachstumspotenzial in aufstrebenden Märkten wie Indien und der ASEAN-Region.<br>3. Neue Geschäftsfelder durch Investitionen in Robotik (Boston Dynamics) und autonomes Fahren. |
-| **⚠️ Risiken (T)** | 1. Politische Unsicherheiten in den USA bezüglich Zollpolitik und IRA-Subventionen.<br>2. Aggressiver Preiskampf durch Tesla und stark subventionierte chinesische EV-Hersteller.<br>3. Drohende Abschwächung der globalen Neuwagennachfrage infolge einer potenziellen Rezession. |
+| **💪 Stärken (S)** | 1. Flexible Produktionskapazität durch breites Hybrid- und EV-Lineup.\2. Deutliche Margenverbesserung durch erfolgreiche Etablierung der Premiummarke Genesis.\3. Solide Kapitalbeschaffung und Marktdurchdringung durch den Börsengang (IPO) in Indien. |
+| **📉 Schwächen (W)** | 1. Anhaltend schwache Marktanteile und verzögerte Erholung im chinesischen Markt.\2. Hohe Arbeitskostenstruktur und anhaltendes Streikrisiko der Gewerkschaften.\3. Aufholbedarf bei Software-Defined Vehicles (SDV) im Vergleich zu Tech-Pionieren. |
+| **🌟 Chancen (O)** | 1. Stark steigende Nachfrage nach margenstarken Hybridfahrzeugen (HEV) in den USA.\2. Enormes Wachstumspotenzial in aufstrebenden Märkten wie Indien und der ASEAN-Region.\3. Neue Geschäftsfelder durch Investitionen in Robotik (Boston Dynamics) und autonomes Fahren. |
+| **⚠️ Risiken (T)** | 1. Politische Unsicherheiten in den USA bezüglich Zollpolitik und IRA-Subventionen.\2. Aggressiver Preiskampf durch Tesla und stark subventionierte chinesische EV-Hersteller.\3. Drohende Abschwächung der globalen Neuwagennachfrage infolge einer potenziellen Rezession. |
 
 **🔑 Schlüsselbeobachtungspunkt:**
 "Ob die starken Verkaufszahlen der Hybridmodelle ausreichen, um den Margendruck durch den globalen EV-Preiskampf und die schwächelnde Nachfrage vollständig abzufedern, wird entscheidend für die weitere Kursentwicklung sein."

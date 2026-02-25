@@ -42,7 +42,7 @@ Usala quando vai di fretta e hai bisogno di un'idea immediata.
 > **Ruolo:** Sei uno Chef di un ristorante 2 stelle Michelin e un esperto di cucina casalinga salutare.
 > **Richiesta:** Crea una ricetta sana e deliziosa utilizzando solo questi ingredienti: `[inserisci ingredienti]`.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 
@@ -103,7 +103,7 @@ Questo prompt è un salvavita (e un salva-portafoglio) per chiunque torni a casa
 
 ### ❌ Prima (Input generico)
 
-> "Cosa ci faccio con uova, spinaci e tofu?"
+"Cosa ci faccio con uova, spinaci e tofu?"
 
 **Risultato:** "Puoi fare le uova strapazzate con il tofu e gli spinaci. Sbatti le uova e aggiungi il tofu a cubetti. Cuoci tutto in padella." (Noioso, sapore piatto e consistenza molliccia).
 

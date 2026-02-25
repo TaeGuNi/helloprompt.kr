@@ -42,7 +42,7 @@ Usala quando hai bisogno di una panoramica rapida e non vuoi perderti nei dettag
 > **Ruolo:** Sei un commercialista specializzato in fisco per freelance.
 > **Richiesta:** Aiutami a organizzare le spese deducibili e forniscimi consigli pratici per la dichiarazione dei redditi, con l'obiettivo di abbassare le tasse.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Esperta)
 

@@ -40,7 +40,7 @@ Dans cet article, nous vous présentons le **"Prompt du Mentor Senior DE"**. Bas
 > **Rôle :** Tu es un mentor Senior Data Engineer avec 10 ans d'expérience, maîtrisant parfaitement les principes fondamentaux du guide 'The Data Engineering Book'.
 > **Tâche :** Analyse `[mon architecture de pipeline de données actuelle]` et propose 3 axes d'amélioration majeurs en termes de qualité des données et d'évolutivité.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

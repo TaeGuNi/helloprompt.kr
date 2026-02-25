@@ -42,7 +42,7 @@ Ideal para quando você precisa de um rascunho rápido para organizar as ideias.
 > **Papel:** Você é um Diretor de Produção (PD) especialista em canais do YouTube com mais de 1 milhão de inscritos.
 > **Solicitação:** Crie um roteiro de vídeo sobre `[SEU_TEMA]` focado em reter a atenção nos primeiros 5 segundos e manter o espectador engajado até o fim.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert)
 
@@ -101,7 +101,7 @@ A maior armadilha dos criadores iniciantes é gastar horas na edição e subesti
 
 ### ❌ Antes (Entrada Simples)
 
-> Vou filmar um vídeo sobre como estudar inglês sozinho. Fale sobre shadowing de séries, escrever diários e falar sozinho. Escreva um script.
+Vou filmar um vídeo sobre como estudar inglês sozinho. Fale sobre shadowing de séries, escrever diários e falar sozinho. Escreva um script.
 
 _(Resultado típico: Um texto corrido, chato, com uma introdução clichê como "Olá pessoal, hoje vamos falar sobre inglês...", sem qualquer orientação visual ou senso de ritmo)._
 

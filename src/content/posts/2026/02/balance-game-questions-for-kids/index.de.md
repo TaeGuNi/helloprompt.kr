@@ -42,7 +42,7 @@ Nutzen Sie diese Variante, wenn Sie sofort ein paar lustige Fragen brauchen.
 > **Rolle:** Du bist ein humorvoller Unterhaltungsautor und Experte für Kinderpsychologie.
 > **Anfrage:** Erstelle 5 kreative und lustige 'Entweder-Oder'-Fragen (Balance-Spiel), die ein Grundschulkind sofort zum Reden und Lachen bringen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenmodus)
 

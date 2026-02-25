@@ -42,7 +42,7 @@ Aquí es donde entra en juego el **Razonamiento en Cadena de Pensamiento (Chain 
 > **Instrucción:** Resuelve el siguiente problema: `[Descripción del problema]`.
 > **Regla de oro:** Pensemos paso a paso detalladamente antes de dar la respuesta final.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Few-Shot CoT)
 

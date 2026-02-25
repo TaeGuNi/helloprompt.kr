@@ -42,7 +42,7 @@ Utilizzala quando hai bisogno solo di una rapida panoramica delle questioni chia
 > **Ruolo:** Sei un giornalista incaricato di fornire un briefing mattutino rapido e accurato.
 > **Compito:** Riassumi solo le 5 notizie più importanti dalla scorsa notte a questa mattina.
 
-<br>
+\
 
 ### 🥇 Versione Pro
 

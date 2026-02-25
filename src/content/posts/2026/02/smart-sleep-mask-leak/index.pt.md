@@ -44,7 +44,7 @@ Use isto quando precisar apenas de um resumo rápido e direto ao ponto do incide
 > Conteúdo do Artigo:
 > A máscara de dormir Somnium X transmitiu áudio de usuários e metadados para um servidor externo acessível sem autenticação. A empresa explicou que foi um erro causado por uma função de depuração esquecida.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

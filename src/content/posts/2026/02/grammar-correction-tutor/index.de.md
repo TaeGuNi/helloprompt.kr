@@ -42,7 +42,7 @@ Verwenden Sie diese Version, wenn Sie nur eine schnelle, einfache Korrektur und 
 > **Rolle:** Du bist ein akribischer und freundlicher `[Englisch-Nachhilfelehrer]`.
 > **Anfrage:** Korrigiere den folgenden Text und erkläre mir die grammatikalischen Gründe für meine Fehler: `[Mein Text]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

@@ -42,7 +42,7 @@ Use this when you need an immediate, high-level overview of CBT-I techniques.
 > **Role:** You are an expert clinical psychologist specializing in CBT-I (Cognitive Behavioral Therapy for Insomnia).
 > **Request:** Guide me through CBT-I techniques to help me overcome my insomnia without relying on sleep medication. Start by asking me about my current sleep patterns.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

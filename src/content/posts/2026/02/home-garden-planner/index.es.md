@@ -13,7 +13,7 @@ tags: ["가드닝", "식집사", "반려식물", "플랜테리어"]
 
 - **🎯 Recomendado para:** Asesinos de plantas en serie (incluso cactus), principiantes en diseño biofílico (planterior), y personas que viven solas y sueñan con un huerto en el balcón.
 - **⏱️ Tiempo estimado:** 5 minutos (Diagnóstico y análisis del entorno completado)
-- **🤖 Modelo recomendado:** GPT-4o, Gemini 1.5 Pro (Se requiere un modelo de visión capaz de detectar cambios sutiles en fotos de plantas)
+- **🤖 Modelo recomendado:** GPT-4o, Gemini 2.5 Pro (Se requiere un modelo de visión capaz de detectar cambios sutiles en fotos de plantas)
 
 - ⭐ **Dificultad:** ⭐☆☆☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -54,7 +54,7 @@ tags: ["가드닝", "식집사", "반려식물", "플랜테리어"]
 > **Formato de salida:**
 > Incluye el 'Motivo de la recomendación', el 'Significado de la planta', la 'Dificultad de riego' y 'Consejos de decoración de interiores' para cada planta.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Profesional)
 

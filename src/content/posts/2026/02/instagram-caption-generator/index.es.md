@@ -42,7 +42,7 @@ Ideal para cuando tienes prisa y solo necesitas inspiración rápida.
 > **Rol:** Eres un experto en Redes Sociales y un Influencer de Instagram con alta tasa de engagement.
 > **Solicitud:** Escribe un pie de foto atractivo y persuasivo para una publicación sobre `[Describe tu foto]`. Incluye emojis y 10 hashtags relevantes al final.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Profesional)
 
@@ -99,7 +99,7 @@ El verdadero secreto del algoritmo de Instagram hoy en día no son solo los "Me 
 
 ### ❌ Antes (Entrada)
 
-> Fui a una cafetería, el café es bueno y el clima también. Haz un texto para Insta.
+Fui a una cafetería, el café es bueno y el clima también. Haz un texto para Insta.
 
 ### ✅ Después (Resultado con Versión Pro)
 

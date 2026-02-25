@@ -42,7 +42,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Art Style"]
 > **役割:** あなたはプロの映画監督兼カメラマンです。
 > **要求:** 左右が完璧に対称になる、安定的かつ少し奇妙な雰囲気の構図で画像を生成するプロンプトを作成してください。
 
-<br>
+\
 
 ### 🥇 Pro Version (専門家形)
 

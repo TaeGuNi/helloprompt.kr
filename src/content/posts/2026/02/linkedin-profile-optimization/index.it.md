@@ -48,7 +48,7 @@ Ideale se hai poco tempo e vuoi un'ottimizzazione rapida ma efficace.
 > **Ruolo:** Sei un Headhunter Senior e un esperto SEO specializzato in algoritmi di LinkedIn.
 > **Richiesta:** Riscrivi il mio Sommario e la sezione Informazioni di LinkedIn per massimizzare le offerte di lavoro. Il mio ruolo attuale è `[Inserisci il tuo ruolo]`.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

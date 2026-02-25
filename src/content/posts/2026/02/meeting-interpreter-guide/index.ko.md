@@ -47,7 +47,7 @@ tags: ["통역", "번역", "Zoom", "영어회의", "Whisper"]
 > 2. 한국인 담당자인 내가 당장 오늘부터 처리해야 할 'Action Item'을 우선순위대로 정리해.
 > 3. 논의 중 뉘앙스가 모호했던 부분(예: 돌려 말한 거절, 조건부 승인 등)이 있다면 명확하게 해석해줘.
 
-<br>
+\
 
 ### 🥇 Pro Version (실시간 통역 및 답변 추천 비서)
 
@@ -118,10 +118,10 @@ tags: ["통역", "번역", "Zoom", "영어회의", "Whisper"]
 **Client:** (위와 동일한 발언)
 **AI 비서 (실시간 출력):**
 
-> - **해석:** 3분기에 유저가 3배 늘면 백엔드가 버틸지 우려됨. 플랜 B가 뭐냐고 묻고 있음.
-> - **뉘앙스:** 현재 서버 아키텍처에 대한 확신이 부족함. 구체적인 대비책을 원함.
-> - **답변 1 (준비됨):** "We already have an auto-scaling group configured. Let me share the stress test results after this meeting." (오토스케일링 세팅해뒀고, 회의 후 스트레스 테스트 결과 공유할게.)
-> - **답변 2 (시간 벌기):** "That’s a valid point. Our lead engineer is reviewing the exact metrics for Q3. We will get back to you by tomorrow." (좋은 지적임. 리드 엔지니어가 수치 검토 중이니 내일까지 답변 주겠음.)
+- **해석:** 3분기에 유저가 3배 늘면 백엔드가 버틸지 우려됨. 플랜 B가 뭐냐고 묻고 있음.
+- **뉘앙스:** 현재 서버 아키텍처에 대한 확신이 부족함. 구체적인 대비책을 원함.
+- **답변 1 (준비됨):** "We already have an auto-scaling group configured. Let me share the stress test results after this meeting." (오토스케일링 세팅해뒀고, 회의 후 스트레스 테스트 결과 공유할게.)
+- **답변 2 (시간 벌기):** "That’s a valid point. Our lead engineer is reviewing the exact metrics for Q3. We will get back to you by tomorrow." (좋은 지적임. 리드 엔지니어가 수치 검토 중이니 내일까지 답변 주겠음.)
 
 **나:** (모니터를 보며 여유롭게 미소 지으며) "That’s a valid point. We already have an auto-scaling..." (신뢰도 상승 📈 전문성 확보 😎)
 

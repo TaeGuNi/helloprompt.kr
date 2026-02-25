@@ -42,7 +42,7 @@ Utilisez cette version lorsque vous avez simplement besoin d'un résultat rapide
 > **Rôle :** Tu es un expert en nutrition sportive avec 15 ans d'expérience et un diététicien professionnel.
 > **Requête :** Crée-moi un plan de repas diététique d'une semaine, adapté à ma morphologie, à mon objectif de perte de poids et à mes goûts, en incluant une liste de courses.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 

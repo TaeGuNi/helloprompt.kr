@@ -40,12 +40,12 @@ El problema crónico de las APIs REST es precisamente el **Over-fetching** (obte
 Úselo cuando necesite transformar rápidamente la especificación de una API REST existente a un esquema GraphQL.
 
 > **Rol:** Eres un Ingeniero Backend Senior.
->
+
 > **Tarea:** Basándote en el JSON de respuesta de la API REST proporcionado a continuación, define el esquema GraphQL (`type`) más ideal y redacta un ejemplo de consulta para solicitar estos datos.
->
+
 > **Datos:** `[Pega aquí la respuesta JSON de tu API REST actual]`
 
-<br>
+\
 
 ### 🥇 Versión Pro (Nivel Experto: Prevención N+1 y Paginación perfecta)
 

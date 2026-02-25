@@ -43,7 +43,7 @@ Idéal pour obtenir un résumé rapide et sans fioritures d'une petite réunion.
 > **Tâche :** Voici la transcription d'une réunion. Résume les points clés et liste les actions à faire.
 > **Texte :** `[Collez votre texte ici]`
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

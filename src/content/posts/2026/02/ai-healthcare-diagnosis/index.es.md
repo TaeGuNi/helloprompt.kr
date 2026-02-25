@@ -39,7 +39,7 @@ Utiliza esta versión para una consulta rápida sobre un conjunto de síntomas.
 > **Rol:** Eres un médico internista experto.
 > **Solicitud:** Sugiere un diagnóstico diferencial y un plan de acción básico para un paciente con `[Síntomas principales]` y antecedentes de `[Condiciones previas]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Profesional)
 

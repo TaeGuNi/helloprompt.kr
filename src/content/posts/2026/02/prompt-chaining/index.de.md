@@ -10,7 +10,7 @@ tags: ["AI Trends", "Prompt Chaining", "Agentic Workflow", "2026"]
 
 - **🎯 Empfohlen für:** KI-Ingenieure, Projektmanager, Entwickler
 - **⏱️ Zeitersparnis:** Stunden an Fehlersuche → Reibungslose Workflows
-- **🤖 Empfohlene Modelle:** ChatGPT (GPT-4), Claude 3.5, Gemini 1.5 Pro
+- **🤖 Empfohlene Modelle:** ChatGPT (GPT-4), Claude 3.5, Gemini 2.5 Pro
 
 - ⭐ **Schwierigkeitsgrad:** ⭐⭐⭐⭐☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -40,7 +40,7 @@ Nutzen Sie diese Struktur für einfache, sequenzielle Aufgaben, bei denen das Er
 > **Schritt 1:** Fasse das folgende Dokument in 3 Kernpunkten zusammen: `[Dokument einfügen]`.
 > **Schritt 2:** Erstelle basierend auf diesen 3 Punkten einen kurzen Social-Media-Post.
 
-<br>
+\
 
 ### 🥇 Pro Version (Pro-Version)
 
@@ -105,9 +105,9 @@ _(Ergebnis: Die KI überfordert sich selbst, übersieht wichtige Fehler, die Zus
 
 ### ✅ After (Der strukturierte Workflow)
 
-> 1. "Extrahiere die wichtigsten Finanzdaten aus dem Bericht." (Mensch prüft das Ergebnis)
-> 2. "Schreibe eine Executive Summary basierend auf diesen überprüften Daten."
-> 3. "Formuliere die Zusammenfassung als knackigen Social-Media-Beitrag um."
+1. "Extrahiere die wichtigsten Finanzdaten aus dem Bericht." (Mensch prüft das Ergebnis)
+2. "Schreibe eine Executive Summary basierend auf diesen überprüften Daten."
+3. "Formuliere die Zusammenfassung als knackigen Social-Media-Beitrag um."
 
 _(Ergebnis: Präzise Datenextraktion ohne Fehler, eine treffende Zusammenfassung und ein perfekt formatierter, zielgruppenorientierter Beitrag.)_
 

@@ -44,7 +44,7 @@ Utilisez ce prompt lorsque vous devez synthétiser rapidement les concepts clés
 > **Rôle :** Tu es un Architecte Backend Senior avec 10 ans d'expérience.
 > **Tâche :** Explique-moi les différences fondamentales entre Kafka et RabbitMQ de manière à ce qu'un développeur junior puisse les comprendre. Résume l'essentiel en te concentrant particulièrement sur deux aspects : la **"Persistance des messages (Persistence)"** et le **"Modèle de consommation (Push vs Pull)"**.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

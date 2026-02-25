@@ -42,7 +42,7 @@ Use this prompt when you are in a rush and just need an immediate dinner idea.
 > **Role:** You are a Michelin 2-star chef and a healthy home cooking expert.
 > **Request:** Create a simple, 5-star healthy recipe using only the ingredients I provide that are nearing their expiration date.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Culinary Guide)
 

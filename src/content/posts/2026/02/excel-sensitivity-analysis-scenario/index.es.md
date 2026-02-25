@@ -42,7 +42,7 @@ En la planificación de negocios, la incertidumbre es la única constante. Una t
 > **Rol:** Eres un `[Experto en Modelado Financiero]` de una oficina de planificación estratégica.
 > **Solicitud:** Explícame paso a paso cómo calcular decenas de escenarios a la vez utilizando la función 'Tabla de datos' de Excel, para responder a la pregunta: "¿Cuánto disminuye nuestro beneficio si el tipo de cambio sube un 10%?".
 
-<br>
+\
 
 ### 🥇 Versión Pro (Expert Version)
 

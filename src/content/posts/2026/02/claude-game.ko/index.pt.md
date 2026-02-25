@@ -38,7 +38,7 @@ Use este prompt de configuração inicial quando quiser criar rapidamente a estr
 > **Função:** Você é um `[Desenvolvedor de Jogos Sênior]`.
 > **Tarefa:** Crie um jogo de golfe 2D para navegador usando `[HTML5 Canvas]`. O jogo deve ter uma bola e um buraco, e utilizar uma mecânica de arrastar e atirar (drag-to-shoot) com o mouse.
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 

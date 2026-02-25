@@ -49,7 +49,7 @@ Cada destino esconde una leyenda. Esos relatos extraños que rara vez aparecen e
 > **Rol:** Eres un experto 'Investigador de Misterios Locales'.
 > **Solicitud:** Cuéntame una leyenda fascinante o historia de fantasmas sobre `[Nombre de Ciudad/Región]` que los turistas normales no conocen, y dime qué lugares reales están relacionados con ella.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

@@ -47,7 +47,7 @@ Ideal, wenn Sie Ihren Code in kürzester Zeit auf kritische Schwachstellen scann
 > [Code hier einfügen]
 > ```
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

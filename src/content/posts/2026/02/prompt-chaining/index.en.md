@@ -44,7 +44,7 @@ Use this when you need a quick, structured output without building an automated 
 >
 > **Step 3 (Drafting):** "Using the outline from Step 2, draft a comprehensive article."
 
-<br>
+\
 
 ### 🥇 Pro Version (The Agentic Workflow Simulator)
 

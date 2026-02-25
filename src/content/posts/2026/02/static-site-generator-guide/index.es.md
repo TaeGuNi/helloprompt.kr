@@ -44,7 +44,7 @@ Utiliza este prompt cuando ya te hayas decidido por Astro y necesites generar r�
 > **Rol:** Eres un Ingeniero Frontend Senior y un reconocido Tech Blogger.
 > **Tarea:** Quiero construir un blog de desarrollo basado en Markdown (Markdown/MDX) utilizando el framework Astro. Propón la estructura completa de carpetas para el proyecto y redacta un ejemplo del código clave de enrutamiento (`[slug].astro`) que lea un archivo Markdown específico y lo renderice como una página de detalles.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

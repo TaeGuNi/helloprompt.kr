@@ -37,7 +37,7 @@ La IA Cuántica (Quantum AI) ya no es ciencia ficción. Los recientes avances es
 > **Rol:** Eres un experto divulgador en tecnología cuántica.
 > **Tarea:** Explica de forma sencilla y con una analogía el impacto del `[último avance en IA cuántica o paper]`.
 
-<br>
+\
 
 ### 🥇 Versión Profesional
 

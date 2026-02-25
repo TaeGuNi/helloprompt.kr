@@ -42,7 +42,7 @@ tags: ["AI", "Tech", "role-playing-personas"]
 >
 > **Task (요청):** 내가 작성한 `[초안 내용]`을 읽고, 실무자의 관점에서 날카롭게 피드백해 줘.
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 
@@ -103,7 +103,7 @@ tags: ["AI", "Tech", "role-playing-personas"]
 
 ### ❌ Before (단순 요청)
 
-> 데이터베이스 연결하는 Go 언어 함수 짜줘.
+데이터베이스 연결하는 Go 언어 함수 짜줘.
 
 ```go
 // AI의 뻔한 답변 (제너럴리스트 모드)
@@ -119,7 +119,7 @@ func ConnectDB() (*sql.DB, error) {
 
 ### ✅ After (역할 프롬프팅 적용)
 
-> (위의 Pro Version 프롬프트 실행 결과)
+(위의 Pro Version 프롬프트 실행 결과)
 
 ```go
 // AI의 전문가 답변 (시니어 엔지니어 모드)

@@ -43,7 +43,7 @@ Usa questa versione quando vuoi "evocare" una figura storica nel presente o in u
 > **Contesto:** `[situazione ipotetica, es: Sei stato appena nominato Capo delle Operazioni Navali della Corea del Sud nel 2026]`
 > **Richiesta:** Analizza l'attuale situazione di sicurezza nazionale (es. tensioni con i paesi limitrofi) ed esponi il tuo primo ordine ufficiale e la tua strategia di difesa in qualità di Capo delle Operazioni Navali.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Simulazione Effetto Farfalla e World-Building)
 

@@ -42,7 +42,7 @@ Utilisez cette version si vous souhaitez comprendre rapidement les risques et le
 > **Rôle :** Tu es un `[Expert en cybersécurité]`.
 > **Tâche :** Résume les dangers de la `[Technologie de surveillance par détection WiFi (analyse CSI)]` qui fait l'actualité, et donne-moi 3 mesures de protection que le grand public peut appliquer immédiatement.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 
@@ -110,7 +110,7 @@ Bien que cette technologie (WiFi Sensing) ait été développée à des fins pos
 ### ❌ Avant (Question basique)
 
 > **Utilisateur :** On dit qu'on peut surveiller les gens avec le WiFi, comment je l'empêche ?
->
+
 > **IA :** Pour empêcher le piratage du WiFi, configurez un mot de passe complexe et ne vous connectez pas à des réseaux inconnus. (Réponse théorique et hors sujet)
 
 ### ✅ Après (Utilisation du prompt Pro)

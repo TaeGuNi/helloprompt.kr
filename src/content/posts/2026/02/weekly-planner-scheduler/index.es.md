@@ -42,7 +42,7 @@ La principal razón por la que tu lista de tareas (To-Do List) nunca se cumple, 
 > **Rol:** Eres un experto en productividad y mi asistente personal.
 > **Solicitud:** Toma mi lista de tareas `[Lista de tareas]` y organízala en un horario diario lógico, dejando tiempo para descansos.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 
@@ -104,7 +104,7 @@ Al indicarle a la IA que eres un "búho nocturno", evitará programar tareas de 
 
 ### ❌ Before (Entrada Pobre)
 
-> "Hazme un horario para esta semana. Tengo que ir al dentista el martes, hacer un informe, limpiar la casa, ir al gimnasio e ir a clases de inglés. Trabajo de 9 a 6."
+"Hazme un horario para esta semana. Tengo que ir al dentista el martes, hacer un informe, limpiar la casa, ir al gimnasio e ir a clases de inglés. Trabajo de 9 a 6."
 
 ### ✅ After (El Resultado de nuestro Prompt Pro)
 

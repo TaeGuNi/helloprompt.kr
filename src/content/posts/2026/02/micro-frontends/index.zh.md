@@ -39,7 +39,7 @@ tags: ["architecture", "frontend", "microservices", "web-development"]
 > **角色：** 你是一位资深的前端架构师。
 > **请求：** 我们团队目前维护着一个庞大的 `[React/Vue]` 单体应用，构建时间超过 10 分钟。请向我解释什么是微前端，并简要评估我们是否应该切换到微前端架构，列出 3 个核心收益和 3 个主要挑战。
 
-<br>
+\
 
 ### 🥇 Pro Version (专家版)
 

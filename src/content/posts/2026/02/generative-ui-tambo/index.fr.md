@@ -45,7 +45,7 @@ Idéal pour des interactions basiques où l'IA a l'initiative.
 > **Rôle :** Tu es un assistant de voyage intelligent.
 > **Requête :** Réponds aux questions de l'utilisateur. Si tu recommandes un lieu, utilise obligatoirement l'outil `showPlace` pour afficher une interface visuelle.
 
-<br>
+\
 
 ### 🥇 Pro Version (Prompt Système Avancé)
 
@@ -189,7 +189,7 @@ export default function ChatPage() {
           <button
             type="submit"
             className="px-4 py-2 bg-blue-600 text-white rounded-md"
-          >
+
             Envoyer
           </button>
         </form>

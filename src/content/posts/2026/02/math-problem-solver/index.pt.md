@@ -42,7 +42,7 @@ Ideal para quando você precisa de uma explicação rápida sem configurar muito
 > **Papel:** Você é um `[Doutor em Educação Matemática e Tutor Particular Amigável]`.
 > **Solicitação:** Em vez de me dar apenas a resposta final como um gabarito frio, explique o processo de raciocínio passo a passo para resolver o seguinte problema: `[Inserir Problema]`.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert Version)
 

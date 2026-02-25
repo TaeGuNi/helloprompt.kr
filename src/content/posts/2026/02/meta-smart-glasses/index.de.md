@@ -40,7 +40,7 @@ Verwenden Sie diesen Prompt, wenn Sie nur eine schnelle Zusammenfassung der aktu
 > **Rolle:** Du bist ein `[Technologie-Analyst]`.
 > **Aufgabe:** Analysiere den aktuellen Erfolg der `[Meta Smart Glasses]` und erkläre in drei kurzen Punkten, warum sie sich besser verkaufen als herkömmliche VR-Headsets.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für detaillierte Strategien)
 

@@ -40,10 +40,10 @@ Nous l'avons tous vécu : vous avez un besoin critique de données ou d'une vali
 Utilisez ce prompt lorsque vous manquez cruellement de temps et souhaitez une trame simple.
 
 > **Rôle :** Tu es un expert en communication d'entreprise et en relations commerciales.
->
+
 > **Demande :** Rédige un e-mail professionnel pour relancer un partenaire qui n'a pas répondu à ma précédente demande. Le ton doit être courtois, compréhensif, mais souligner l'urgence de la situation sans paraître agressif.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

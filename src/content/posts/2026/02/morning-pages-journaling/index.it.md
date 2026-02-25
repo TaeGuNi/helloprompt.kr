@@ -43,7 +43,7 @@ Usa questa versione quando vuoi un'analisi rapida e leggera del tuo stato emotiv
 > **Azione:** Leggi la pagina di diario che ho scritto oggi. Dimmi qual è il "meteo" delle mie emozioni e offrimi una breve parola di conforto.
 > **Diario:** `[Inserisci qui il testo di oggi]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 

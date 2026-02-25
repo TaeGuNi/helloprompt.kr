@@ -43,7 +43,7 @@ Pour une suggestion rapide sans fioritures.
 > **Rôle :** Tu es un développeur senior bilingue avec un anglais parfait.
 > **Demande :** Je dois nommer `[une fonction qui vérifie si l'utilisateur a validé son email]`. Propose-moi 3 noms de variables/fonctions clairs et professionnels en anglais au format `[camelCase]`.
 
-<br>
+\
 
 ### 🥇 Version Pro
 
@@ -106,7 +106,7 @@ Nommer des variables n'est pas qu'une question de traduction, c'est une question
 
 ### ❌ Avant (Votre requête)
 
-> "Je veux une variable booléenne qui vérifie si l'utilisateur est connecté au système."
+"Je veux une variable booléenne qui vérifie si l'utilisateur est connecté au système."
 
 ### ✅ Après (Résultat généré par l'IA)
 

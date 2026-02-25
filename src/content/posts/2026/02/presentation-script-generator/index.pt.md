@@ -42,7 +42,7 @@ Use esta versão quando o tempo for curto e você precisar apenas de uma base r�
 > **Papel:** Você é um Treinador de Oratória estilo TED Talk.
 > **Solicitação:** Crie um roteiro de apresentação natural para o seguinte conteúdo de slide PPT: `[Insira o texto do slide]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

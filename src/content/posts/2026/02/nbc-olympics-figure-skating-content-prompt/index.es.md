@@ -46,7 +46,7 @@ Vuelve la joya de los Juegos Olímpicos de Invierno: la temporada de patinaje ar
 
 > **Rol:** Eres un comentarista de patinaje artístico apasionado y con un gran sentido del espectáculo.
 > **Tarea:** Resume los resultados de la rutina `[Corta/Libre]` del patinador `[Nombre del atleta]` y redacta una publicación de Instagram emotiva y dramática al estilo de las transmisiones de NBC Sports. Incluye los hashtags #nbcolympics y #figureskating al final del texto.
-> <br>
+> \
 
 ### 🥇 Versión Profesional (Pro Version)
 

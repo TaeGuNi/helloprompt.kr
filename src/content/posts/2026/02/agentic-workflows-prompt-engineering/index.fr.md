@@ -9,7 +9,7 @@ tags: ["AI", "Agentic Workflow", "Prompt Engineering", "LLM", "Tech"]
 
 - **🎯 Recommandé pour :** Développeurs, Chefs de Produit (PM), Ingénieurs IA
 - **⏱️ Temps gagné :** Des heures d'itérations manuelles → Réduites à 5 minutes
-- **🤖 Modèles recommandés :** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro (Modèles à fort raisonnement)
+- **🤖 Modèles recommandés :** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro (Modèles à fort raisonnement)
 
 - ⭐ **Difficulté :** ⭐⭐⭐⭐☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -39,7 +39,7 @@ Idéal pour forcer l'IA à réfléchir avant de produire un résultat complexe.
 > **Requête :** Résous ce `[Problème]`.
 > **Instruction stricte :** Avant de me donner la réponse finale, tu DOIS d'abord rédiger un plan d'action en 3 étapes. Ensuite, exécute chaque étape mentalement. Enfin, critique ton propre résultat et corrige-le si nécessaire. Affiche l'intégralité de ton processus de réflexion.
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 
@@ -72,7 +72,7 @@ Pour des tâches critiques nécessitant une rigueur absolue et une auto-évaluat
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 L'ingénierie de prompt 3.0 ne consiste plus à chercher les "mots magiques", mais à **concevoir des systèmes**. En utilisant le prompt _Pro_ ci-dessus, vous forcez le LLM à activer ses capacités de raisonnement lent (System 2 thinking).
 
@@ -80,7 +80,7 @@ Dans mon quotidien d'ingénieur, l'ajout de cette simple phase de "Réflexion (R
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q : Est-ce que cela consomme plus de tokens (crédits API) ?**
   - A : Oui, absolument. C'est le compromis inévitable des flux de travail agentiques. Vous dépensez plus de tokens dans le processus de réflexion interne (Planification + Exécution + Réflexion) pour garantir une réponse finale de qualité supérieure. Utilisez ce prompt pour les tâches à forte valeur ajoutée où l'erreur n'est pas permise.
@@ -93,7 +93,7 @@ Dans mon quotidien d'ingénieur, l'ajout de cette simple phase de "Réflexion (R
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🧬 Why it works?
 
 1.  **Décomposition (Chain-of-Thought) :** En forçant la planification initiale, l'IA ne se précipite pas vers la conclusion, ce qui réduit drastiquement les erreurs de logique structurelle.
 2.  **Auto-Critique (Reflection) :** En obligeant le modèle à chercher ses propres failles, on simule l'interaction entre un "Créateur" et un "Réviseur" (Multi-agent Collaboration) au sein d'une seule session.
@@ -101,7 +101,7 @@ Dans mon quotidien d'ingénieur, l'ajout de cette simple phase de "Réflexion (R
 
 ---
 
-## 📊 증명: Before & After
+## 📊 Before & After
 
 ### ❌ Before (Prompt Classique)
 
@@ -124,7 +124,7 @@ Résultat : L'IA recrache immédiatement un code légèrement différent, souven
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
 L'avenir de l'automatisation n'appartient pas à ceux qui savent formuler de simples requêtes, mais à ceux qui savent orchestrer des agents de bout en bout. Commencez à déléguer vos tâches avec ce flux de travail structuré.
 

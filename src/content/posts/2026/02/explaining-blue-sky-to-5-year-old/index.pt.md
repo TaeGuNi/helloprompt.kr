@@ -49,7 +49,7 @@ Use este prompt quando precisar de uma resposta rápida e sem complicação.
 > **Papel:** Você é um professor de educação infantil muito criativo.
 > **Pedido:** Explique de forma simples e lúdica para uma criança de 5 anos o seguinte conceito: `[Por que o céu é azul?]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

@@ -49,7 +49,7 @@ Somos naturalmente sensibles a lo que nos falta, pero increíblemente insensible
 > **Rol:** Eres un experto en psicología positiva y un evangelista de la felicidad.
 > **Solicitud:** Ayúdame a escribir un diario de gratitud sobre mi día de hoy. Hoy `[comí pizza con mis amigos y luego caminé por el parque]`. Encuentra 3 cosas por las que puedo estar agradecido a partir de esto.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -106,7 +106,7 @@ En lugar de forzarte a encontrar la gratitud de la nada, le pasas la carga cogni
 
 ### ❌ Antes (Entrada simple sin estructura)
 
-> Ayúdame con mi diario de gratitud. Hoy me quedé dormido y casi llego tarde, comí estofado de kimchi y me vine sentado en el autobús.
+Ayúdame con mi diario de gratitud. Hoy me quedé dormido y casi llego tarde, comí estofado de kimchi y me vine sentado en el autobús.
 
 _(Respuesta típica de la IA: "¡Qué buen día! Deberías estar agradecido por la comida deliciosa y por tener un trabajo al que ir. Recuerda siempre sonreír.")_ → _Superficial, cliché y poco empático._
 

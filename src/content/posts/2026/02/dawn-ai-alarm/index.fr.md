@@ -42,7 +42,7 @@ Idéal pour une motivation rapide sans trop de détails.
 > **Rôle :** Tu es un coach de vie militaire extrêmement motivant.
 > **Tâche :** Rédige un court discours de réveil (3-4 phrases) pour me motiver à me lever à `[heure]` pour accomplir `[objectif principal]`. Sois direct, énergique et ne me laisse aucune excuse.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Expert)
 

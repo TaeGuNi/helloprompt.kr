@@ -39,7 +39,7 @@ Use this for a quick reality check on your daily tech habits when you're feeling
 > **Role:** You are a `[Digital Wellness Coach]`.
 > **Task:** Ask me 3 probing questions about my `[screen time and AI usage]` today, then suggest one `[offline activity]` to do right now to reconnect with humanity.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

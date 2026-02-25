@@ -42,7 +42,7 @@ Nutzen Sie diesen Prompt, wenn Sie sofort ein solides Basisbild benötigen.
 > **Rolle:** Du bist ein erfahrener Steampunk-Konzeptkünstler.
 > **Anfrage:** Erstelle eine detaillierte Bildbeschreibung für eine Steampunk-Szene. Das Motiv ist `[Dein Motiv, z.B. eine mechanische Eule]`. Fokus auf Messing, Dampfmaschinen und viktorianische Ingenieurskunst.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Prompt)
 

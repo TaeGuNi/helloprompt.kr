@@ -42,7 +42,7 @@ El término **Bioluminiscencia (Bioluminescence)** se utiliza para describir org
 > **Rol:** Eres un artista conceptual experto en ciencia ficción y fantasía.
 > **Solicitud:** Genera una imagen de un bosque nocturno donde las plantas y los animales emiten su propia luz brillante, similar al planeta Pandora de la película Avatar.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

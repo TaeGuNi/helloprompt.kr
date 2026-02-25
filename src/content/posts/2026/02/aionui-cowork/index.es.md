@@ -44,7 +44,7 @@ Simplemente abrir una interfaz gráfica no es suficiente. Necesitamos un prompt 
 > **Rol:** Eres un `[Desarrollador Senior]`.
 > **Tarea:** Resuelve el `[funcionalidad específica/bug]` del proyecto actual. Antes de empezar, debes proporcionar un reporte detallado de los archivos que planeas modificar. Además, muestra los cambios paso a paso para que sean fáciles de verificar visualmente en AionUi.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 
@@ -107,7 +107,7 @@ Sin embargo, al usar este prompt para **obligar al agente a visualizar y justifi
 ### ❌ Antes (Entorno CLI simple y oscuro)
 
 ```text
-> Ejecutando agente...
+Ejecutando agente...
 [Log] Buscando archivos: src/utils/api.ts
 [Log] Modificando código...
 [Log] Tarea completada. (¿Qué demonios acaba de cambiar...?)

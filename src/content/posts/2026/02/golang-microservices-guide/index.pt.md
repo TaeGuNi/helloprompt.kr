@@ -43,7 +43,7 @@ Use isto quando precisar mapear e entender rapidamente os conceitos fundamentais
 > **Role (Papel):** Você é um desenvolvedor backend sênior.
 > **Task (Tarefa):** Explique como os conceitos de `@RestController` e Injeção de Dependência (DI) do Spring Boot são implementados em Go. Forneça uma comparação com um exemplo simples de código CRUD usando os frameworks `Gin` ou `Echo`.
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 

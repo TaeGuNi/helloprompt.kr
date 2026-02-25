@@ -39,7 +39,7 @@ Use quando precisar identificar rapidamente problemas de segurança e gargalos d
 > **Role (Papel):** Você é um `[Desenvolvedor Backend Sênior com 20 anos de experiência]`.
 > **Task (Tarefa):** Analise o `[código legado]` abaixo e aponte apenas os 3 principais problemas de segurança e gargalos de desempenho.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Profissional)
 

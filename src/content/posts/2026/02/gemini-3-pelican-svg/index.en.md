@@ -38,7 +38,7 @@ Use this when you need a quick, simple geometric shape or icon.
 > **Role:** You are an expert SVG developer and vector artist.
 > **Task:** Generate clean, valid, and responsive SVG code for a `[pelican riding a bicycle]`. Use semantic tags and keep the code efficient.
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -79,7 +79,7 @@ I've found this incredibly useful for generating placeholder hero graphics, cust
 
 ## 🙋 Frequently Asked Questions (FAQ)
 
-- **Q: Does this work well with older models like GPT-4 or Gemini 1.5 Pro?**
+- **Q: Does this work well with older models like GPT-4 or Gemini 2.5 Pro?**
   - A: Older models can generate basic shapes (like circles or simple houses), but Gemini 3's "Deep Think" is significantly better at the complex spatial reasoning required to construct recognizable, multi-element compositions like a pelican on a bike.
 
 - **Q: Can I use these generated SVGs commercially?**
@@ -116,13 +116,13 @@ Result: Spending 45 minutes scrolling through stock vector sites, paying $15 for
       <stop offset="100%" stop-color="#0077ff" />
     </linearGradient>
   </defs>
-  <!-- Beautifully structured, valid SVG code of a pelican on a bike appears here instantly -->
+  
   <g id="vintage-bicycle">
     <circle cx="150" cy="350" r="80" fill="none" stroke="url(#neonCyan)" stroke-width="8"/>
-    <!-- ... -->
+    
   </g>
   <g id="pelican-rider">
-    <!-- ... -->
+    
   </g>
 </svg>
 ```

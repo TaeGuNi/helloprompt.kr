@@ -14,7 +14,7 @@ title: " \"Python 3.14: Un bond en avant en vitesse et sécurité des types\""
 
 - **🎯 Recommandé pour :** Développeurs Python, Ingénieurs Data, Architectes Logiciels
 - **⏱️ Temps gagné :** 2 heures de lecture de documentation → 1 minute d'optimisation
-- **🤖 Modèles recommandés :** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 Modèles recommandés :** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **Difficulté :** ⭐⭐☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -43,7 +43,7 @@ Idéal pour obtenir une vue d'ensemble rapide des changements applicables à vot
 > **Rôle :** Tu es un `[Expert Python]`.
 > **Tâche :** Résume les 3 nouveautés les plus importantes de Python 3.14 pour un développeur spécialisé en `[Ton domaine, ex: Data Science, Web Backend]`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pour la refactorisation de code)
 

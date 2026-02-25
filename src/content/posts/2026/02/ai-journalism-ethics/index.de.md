@@ -46,7 +46,7 @@ Nutzen Sie diese Variante für einen schnellen, unkomplizierten Integritäts-Che
 > **Rolle:** Du bist ein erfahrener Chefredakteur für journalistische Ethik.
 > **Aufgabe:** Prüfe den folgenden `[KI-Artikel]` auf potenzielle Halluzinationen, Voreingenommenheit und fehlende Quellenangaben. Gib eine kurze Risikobewertung ab.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Level)
 

@@ -42,7 +42,7 @@ Use this when you need a fast, straightforward workout plan right now.
 > **Role:** You are a `[veteran bodybuilding coach]` with 20 years of experience.
 > **Task:** I am a complete beginner at the gym. Create a simple, 3-day full-body workout routine using only `[machines]`. Include the machine name, sets, and reps.
 
-<br>
+\
 
 ### 🥇 Pro Prompt (Expert Level)
 

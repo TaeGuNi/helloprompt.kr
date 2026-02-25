@@ -43,7 +43,7 @@ Les IA de raisonnement (Reasoning Models) possèdent la capacité de "réfléchi
 > **Tâche :** Résous parfaitement `[le problème à résoudre]`.
 > **Contrainte :** Ne donne pas la réponse immédiatement. Tu dois impérativement appliquer l'approche "Let's think step by step" (Réfléchissons étape par étape) et détailler ton processus de réflexion en premier.
 
-<br>
+\
 
 ### 🥇 Version Expert (Pro Version)
 
@@ -79,7 +79,7 @@ En utilisant les derniers modèles de raisonnement comme DeepSeek R1 ou o3-mini 
 
 ## 🙋 Foire Aux Questions (FAQ) {#faq}
 
-- **Q : Est-ce que cela fonctionne aussi avec des modèles classiques comme Gemini 1.5 Pro ou GPT-4o ?**
+- **Q : Est-ce que cela fonctionne aussi avec des modèles classiques comme Gemini 2.5 Pro ou GPT-4o ?**
   - R : Oui, même avec des modèles standards, imposer un raisonnement par étapes (CoT) augmente significativement le taux de réponses correctes. Cependant, la synergie est bien plus explosive avec les modèles récents spécifiquement entraînés pour le raisonnement (Gemini 3 Pro, DeepSeek R1, etc.), où le processus de réflexion est natif et profondément intégré.
 
 - **Q : Le résultat généré est trop long, est-il possible de n'obtenir qu'un résumé ?**

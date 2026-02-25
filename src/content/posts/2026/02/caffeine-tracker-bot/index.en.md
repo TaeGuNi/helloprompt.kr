@@ -43,7 +43,7 @@ Use this when you just need a quick estimate of your current caffeine level.
 > **Task:** Based on my coffee intake today, tell me when my focus will peak and what time I can safely go to sleep.
 > **My Intake:** I drank `[Number]` cups of `[Type of Coffee]` at `[Time]`.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

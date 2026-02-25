@@ -41,7 +41,7 @@ Para los desarrolladores, este cambio representa una oportunidad crítica para c
 > **Rol:** Eres un experto Arquitecto de IA.
 > **Tarea:** Recomiéndame los mejores modelos LLM locales y estrategias de optimización para una aplicación de `[Tipo de Aplicación]`.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

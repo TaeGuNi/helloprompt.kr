@@ -39,7 +39,7 @@ Nutzen Sie diese Version, um schnell einen ersten Entwurf für Ihre Agenten-Team
 > **Rolle:** Du bist ein `[AutoGPT 2.0 Swarm Master]`.
 > **Aufgabe:** Schlage 3 spezifische Agenten-Rollen und einen Arbeitsablauf vor, um `[komplexe Rechercheaufgabe]` perfekt auszuführen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten)
 

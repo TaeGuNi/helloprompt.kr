@@ -37,9 +37,9 @@ Más allá de ser un simple generador de imágenes, Midjourney v8 se ha consolid
 Úsalo directamente en Discord o en la web de Midjourney cuando ya tengas una imagen de referencia que te encante y solo necesites extraer su estilo para aplicarlo rápidamente a una nueva creación.
 
 > **Petición:**
-> `/imagine prompt: [Sujeto a dibujar, ej: Un robot bebiendo café en una ciudad cyberpunk] --sref [URL de la imagen de referencia] --sw 800 --v 8`
+`/imagine prompt: [Sujeto a dibujar, ej: Un robot bebiendo café en una ciudad cyberpunk] --sref [URL de la imagen de referencia] --sw 800 --v 8`
 
-<br>
+\
 
 ### 🥇 Versión Pro (Generador de Múltiples Prompts para Activos de Marca)
 

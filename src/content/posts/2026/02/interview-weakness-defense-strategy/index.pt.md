@@ -48,7 +48,7 @@ Use esta versão quando precisar de um resultado rápido e direto.
 > **Papel:** Você é um consultor especialista em estratégia de entrevistas.
 > **Solicitação:** Crie um argumento lógico e persuasivo para reconhecer uma fraqueza crítica (como pausa na carreira, transição abrupta de área ou notas baixas) de forma honesta, mas enfatizando fortemente as lições aprendidas e os esforços proativos de melhoria.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert Version)
 

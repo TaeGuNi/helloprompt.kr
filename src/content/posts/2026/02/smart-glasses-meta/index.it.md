@@ -40,7 +40,7 @@ Perfetta quando hai bisogno di una panoramica rapida e immediata prima di una ri
 > **Ruolo:** Sei un `[Analista di Mercato Senior]`.
 > **Azione:** Analizza il recente successo di `[Prodotto/Tecnologia]` e spiegami in 3 punti chiave perché sta vendendo così tanto.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

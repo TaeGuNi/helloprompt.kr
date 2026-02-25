@@ -43,7 +43,7 @@ Idéal pour générer rapidement une ambiance générale sans entrer dans les d�
 >
 > **Demande :** Génère une image de rue urbaine nocturne. Utilise un éclairage néon de style cyberpunk avec un contraste intense de rose magenta et de bleu cyan. La rue doit être mouillée pour refléter les lumières.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Expert)
 
@@ -92,7 +92,7 @@ Le secret d'une image cyberpunk réussie ne réside pas seulement dans les coule
 
 ### ❌ Before (Entrée basique)
 
-> `Future city night, motorcycle, neon lights.`
+`Future city night, motorcycle, neon lights.`
 
 _(Résultat : Une ville sombre et générique, manquant de profondeur, avec des lumières plates et sans identité visuelle marquée ni véritable ambiance cinématographique.)_
 

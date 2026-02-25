@@ -42,7 +42,7 @@ Nutzen Sie diesen Prompt, wenn Sie schnell eine erste Idee oder Inspiration ben�
 > **Rolle:** Du bist ein erfahrener Kinderpsychologe und Coach für familiäre Gewohnheiten.
 > **Anfrage:** Erstelle mir eine einfache, kindgerechte Checkliste, damit mein Kind sich morgens selbstständig und ohne mein ständiges Ermahnen für die Schule fertigmacht.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Prompt)
 

@@ -43,7 +43,7 @@ Usa questo prompt quando hai bisogno di un refactoring veloce, sicuro e senza so
 > **Ruolo:** Sei un Senior Software Engineer esperto.
 > **Richiesta:** Esegui il refactoring di questo `[Codice]` esclusivamente per migliorare la leggibilità e la gestione degli errori, senza alterare in alcun modo la logica di business.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 

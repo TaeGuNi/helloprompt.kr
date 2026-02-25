@@ -42,7 +42,7 @@ Use this when your players are already at the table and you need a quick burst o
 > **Role:** You are a veteran TRPG Game Master and master storyteller.
 > **Request:** I am a GM with zero session prep time. Generate 3 exciting introductory scenario hooks that will immediately plunge my players into an adventure.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 
@@ -106,7 +106,7 @@ By providing the system, level, and party tendency, you ensure the AI balances t
 
 ### ❌ Before (Simple Input)
 
-> "Give me a quest about catching a monster."
+"Give me a quest about catching a monster."
 
 _Result: "The mayor asks you to go to the forest and kill a goblin that has been stealing sheep. He will pay you 50 gold pieces." (Boring, cliché, lacks urgency)._
 

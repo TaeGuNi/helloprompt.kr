@@ -16,7 +16,7 @@ title: " \"IA Physique : Hype vs Réalité\""
 
 - **🎯 Public cible :** Investisseurs, Journalistes Tech, Ingénieurs, Passionnés de Tech
 - **⏱️ Gain de temps :** Des heures de recherche → 2 minutes d'analyse
-- **🤖 Modèle recommandé :** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 Modèle recommandé :** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **Difficulté :** ⭐⭐☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -47,7 +47,7 @@ Idéale pour obtenir un avis immédiat sur une annonce technique croisée sur le
 > **Rôle :** Tu es un ingénieur senior en robotique.
 > **Tâche :** Analyse l'annonce suivante : `[Insérer le lien ou le texte de l'annonce du robot]`. Dis-moi de manière concise ce qui est techniquement faisable aujourd'hui et ce qui relève du pur marketing (hype), en te concentrant exclusivement sur les lois de la physique (batterie, perception, friction).
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Expert)
 

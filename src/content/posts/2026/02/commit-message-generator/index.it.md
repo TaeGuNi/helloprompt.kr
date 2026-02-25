@@ -44,7 +44,7 @@ Ideale quando vai di fretta e hai bisogno di un risultato immediato e senza fron
 > **Ruolo:** Sei un Maintainer Open Source esperto, ossessionato dalla perfezione della cronologia Git.
 > **Richiesta:** Genera un messaggio di commit pulito, seguendo rigorosamente lo standard **Conventional Commits**, basandoti sul `[git diff]` che ti fornirò di seguito.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 

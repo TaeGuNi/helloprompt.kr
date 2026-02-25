@@ -44,7 +44,7 @@ Use this when you need a quick sanity check on a suspicious query.
 >
 > **Query:** `[Insert your query here]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 
@@ -114,7 +114,7 @@ WHERE u.id IN (SELECT user_id FROM Orders WHERE created_at > '2024-01-01')
 -- A classic, inefficient IN-clause subquery that often leads to full table scans.
 ```
 
-<br>
+\
 
 ### ✅ After (Result)
 

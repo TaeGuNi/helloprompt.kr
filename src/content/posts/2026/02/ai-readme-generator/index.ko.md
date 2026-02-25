@@ -44,7 +44,7 @@ tags: [Github, Documentation, OpenSource, Branding, AI]
 > **역할:** 너는 `[시니어 테크니컬 라이터]`야.
 > **요청:** 내 프로젝트의 `[파일 구조]`와 `[주요 기술 스택]`을 바탕으로 깔끔한 마크다운 형식의 README.md 초안을 작성해 줘.
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 

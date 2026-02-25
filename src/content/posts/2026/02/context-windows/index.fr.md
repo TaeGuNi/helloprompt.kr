@@ -8,7 +8,7 @@ description: " \"Découvrez ce que sont les fenêtres de contexte, la véritable
 
 - **🎯 Recommandé pour :** Développeurs, Prompt Engineers, Utilisateurs intensifs d'IA
 - **⏱️ Temps gagné :** Des heures de frustration évitées
-- **🤖 Modèles recommandés :** GPT-4, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modèles recommandés :** GPT-4, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Difficulté :** ⭐⭐⭐☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -39,7 +39,7 @@ Pour un rafraîchissement rapide de la mémoire au milieu d'une conversation.
 > **Rôle :** Tu es mon assistant de projet.
 > **Requête :** Fais un résumé concis de tout ce que nous avons accompli et décidé jusqu'à présent dans cette discussion. Liste uniquement les faits et les décisions clés.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Expert)
 
@@ -79,7 +79,7 @@ La technique du **"State Document"** (présentée dans la Version Pro) a radical
 
 ## 🙋 Foire Aux Questions (FAQ)
 
-- **Q : Les modèles récents comme Gemini 1.5 Pro ont une fenêtre d'un million de tokens. Dois-je encore me soucier de cela ?**
+- **Q : Les modèles récents comme Gemini 2.5 Pro ont une fenêtre d'un million de tokens. Dois-je encore me soucier de cela ?**
   - A : Absolument ! Bien que la capacité soit immense, la faculté de l'IA à _retrouver_ une information précise enfouie au milieu d'un million de tokens n'est pas infaillible (c'est ce qu'on appelle l'effet "Lost in the middle"). Garder un contexte propre, épuré et structuré reste crucial pour des résultats d'une précision chirurgicale.
 
 - **Q : Comment savoir de manière certaine si l'IA a dépassé sa fenêtre de contexte ?**

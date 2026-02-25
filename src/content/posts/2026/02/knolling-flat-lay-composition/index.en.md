@@ -42,7 +42,7 @@ Use this when you just need a quick, clean result without overly complex paramet
 > **Role:** You are an expert product photographer.
 > **Request:** Create an image using the 'Knolling' technique that arranges the `[Target Objects]` neatly at perfect right angles, shot from directly above.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

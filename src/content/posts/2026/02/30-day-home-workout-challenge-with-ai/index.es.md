@@ -49,7 +49,7 @@ Los mayores enemigos del entrenamiento en casa son el 'aburrimiento' y la 'falta
 > **Rol:** Eres un entrenador personal experto en rutinas en casa (home workout).
 > **Solicitud:** Diseña un desafío de 30 días usando solo mi peso corporal, sin equipo especial, que cambie de ejercicios cada día para no aburrirme.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -110,7 +110,7 @@ El verdadero valor de este prompt no radica en simplemente obtener una lista de 
 
 ### ❌ Antes (Entrada Simple)
 
-> "Recomiéndame ejercicios para hacer en casa."
+"Recomiéndame ejercicios para hacer en casa."
 
 _(Resultado: La IA recomienda ciegamente 100 burpees y jumping jacks -> Terminamos con dolor de rodillas y quejas inminentes de los vecinos)_
 

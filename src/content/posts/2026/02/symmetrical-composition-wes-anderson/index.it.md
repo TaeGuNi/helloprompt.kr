@@ -49,7 +49,7 @@ Usala quando hai bisogno di un risultato rapido e d'impatto senza dover configur
 > **Ruolo:** Sei un fotografo e regista esperto in inquadrature simmetriche.
 > **Richiesta:** Genera un'immagine con una composizione stabile e peculiare, in cui i lati destro e sinistro siano perfettamente speculari, ispirata all'estetica dei film di Wes Anderson.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Esperto)
 

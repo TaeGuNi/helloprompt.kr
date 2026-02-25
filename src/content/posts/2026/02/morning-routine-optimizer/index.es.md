@@ -42,7 +42,7 @@ El éxito de tu día se define en la primera hora después de despertar. Sin emb
 > **Rol:** Eres un experto en productividad y neurociencia.
 > **Tarea:** Diseña una rutina matutina de 45 minutos para mí. Me despierto a las `[07:00 AM]` y mi objetivo principal es `[empezar el día sin estrés y con energía]`. Incluye tiempos específicos para cada actividad.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Profesional)
 

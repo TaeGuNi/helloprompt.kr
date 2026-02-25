@@ -13,7 +13,7 @@ tags: ["Código de Prueba", "TDD", "Jest", "JUnit"]
 
 - **🎯 Recomendado para:** Desarrolladores, Ingenieros de QA, Estudiantes de Programación
 - **⏱️ Tiempo requerido:** 5 minutos → Reducido a 30 segundos
-- **🤖 Modelo recomendado:** Claude 3.5 Sonnet (ideal para código), ChatGPT (GPT-4o), Gemini 1.5 Pro
+- **🤖 Modelo recomendado:** Claude 3.5 Sonnet (ideal para código), ChatGPT (GPT-4o), Gemini 2.5 Pro
 
 - ⭐ **Dificultad:** ⭐⭐☆☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Las pruebas unitarias (Unit Tests) son el pilar de un software estable y libre d
 > **Rol:** Eres un `[Ingeniero de QA Senior]`.
 > **Solicitud:** Escribe pruebas unitarias en `[Framework de pruebas, ej: Jest]` para la siguiente función, cubriendo casos de éxito y errores básicos: `[Pega tu código aquí]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

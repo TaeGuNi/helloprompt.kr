@@ -40,10 +40,10 @@ Por favor, detén esa interminable cadena de correos con archivos adjuntos. **Go
 Utiliza este prompt cuando necesites filtrar y recopilar datos en tiempo real bajo condiciones complejas que VLOOKUP o los filtros simples no pueden manejar.
 
 > **Rol:** Eres un experto en análisis de datos y un `[Maestro de Google Sheets]`.
->
+
 > **Tarea:** Redacta una **función QUERY** que extraiga únicamente las filas donde la `[Columna C (Departamento) sea 'Marketing' y la Columna D (Puntuación) sea 80 o superior]`, tomando como origen el rango `[A:E]` de la hoja `[Data]`, para mostrar los resultados en otra hoja. Después de escribir la fórmula, explica brevemente cómo funciona para que un principiante pueda entenderlo.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Automatización de Alertas con AppScript)
 

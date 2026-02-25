@@ -42,7 +42,7 @@ Ideal para quando você precisa de inspiração imediata para destravar a mente.
 > **Papel:** Você é um editor de romances best-sellers e especialista em prender a atenção do leitor nos primeiros 3 segundos.
 > **Solicitação:** Preciso começar meu livro. Dê-me 10 opções de primeiras frases altamente cativantes para um romance sobre `[inserir tema/protagonista]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 
@@ -108,7 +108,7 @@ O brilho deste prompt não está em fazer a IA escrever o seu livro, mas sim em 
 
 ### ❌ Antes (Sem Estratégia)
 
-> "O meu nome é Arthur e eu morri num acidente de carro na semana passada, mas agora estou de volta à vida."
+"O meu nome é Arthur e eu morri num acidente de carro na semana passada, mas agora estou de volta à vida."
 
 _(Monótono, excessivamente descritivo, entrega toda a informação sem gerar nenhum suspense ou mistério)._
 

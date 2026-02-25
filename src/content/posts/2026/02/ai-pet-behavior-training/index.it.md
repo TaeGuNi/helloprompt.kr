@@ -43,11 +43,11 @@ Utilizza questo prompt per problemi minori o per toglierti un dubbio veloce sul 
 > **Ruolo:** Sei uno specialista del comportamento animale.
 > **Domanda:** Il mio cane sta manifestando questo problema: `[inserisci il comportamento]`. Perché succede e come posso risolverlo?
 > **Informazioni sul cane:**
->
-> - Razza/Età: `[inserisci dati]`
-> - Situazione specifica: `[inserisci dettagli]`
 
-<br>
+- Razza/Età: `[inserisci dati]`
+- Situazione specifica: `[inserisci dettagli]`
+
+\
 
 ### 🥇 Versione Pro (Soluzione Personalizzata)
 
@@ -108,7 +108,7 @@ Inoltre, imponendo all'IA il vincolo del "Rinforzo Positivo", evitiamo che ci su
 
 ### ❌ Before (Richiesta Vaga)
 
-> Il mio cane continua ad abbaiare quando suonano alla porta. Fa un rumore infernale e non si ferma più. Come lo faccio smettere?
+Il mio cane continua ad abbaiare quando suonano alla porta. Fa un rumore infernale e non si ferma più. Come lo faccio smettere?
 
 ### ✅ After (Risultato con il Prompt Pro)
 

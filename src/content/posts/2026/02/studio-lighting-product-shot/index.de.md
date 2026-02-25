@@ -42,7 +42,7 @@ Verwenden Sie diese Version, wenn Sie nur ein schnelles, solides Ergebnis benöt
 > **Rolle:** Du bist ein professioneller Produktfotograf.
 > **Anfrage:** Generiere ein sauberes, hochauflösendes Produktfoto mit perfekter Studiobeleuchtung (Studio Lighting) vor einem weißen Hintergrund.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Version)
 
@@ -102,13 +102,13 @@ _Pro-Tipp:_ Wenn das Produkt zu flach wirkt, fügen Sie `Rim light` oder `Backli
 
 ### ❌ Vorher (Eingabe)
 
-> Ein Parfümflakon auf einem Tisch.
+Ein Parfümflakon auf einem Tisch.
 
 _(Ergebnis: Ein flaches, unspektakuläres Bild. Das Licht ist ungleichmäßig, der Hintergrund lenkt ab und es wirkt wie ein schneller Schnappschuss mit dem Smartphone.)_
 
 ### ✅ Nachher (Ergebnis)
 
-> Ein luxuriöser Parfümflakon, Studiobeleuchtung, Dreipunktbeleuchtung, Softbox, Kantenlicht, minimalistischer Hintergrund, kommerzielle Fotografie, 4k.
+Ein luxuriöser Parfümflakon, Studiobeleuchtung, Dreipunktbeleuchtung, Softbox, Kantenlicht, minimalistischer Hintergrund, kommerzielle Fotografie, 4k.
 
 _(Ergebnis: Ein atemberaubendes Bild in Magazin-Qualität. Das Glas funkelt, die Schatten sind weich und das Produkt wirkt extrem hochwertig und edel.)_
 

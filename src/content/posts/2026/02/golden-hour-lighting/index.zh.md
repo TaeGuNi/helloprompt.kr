@@ -42,7 +42,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Photography", "Lighting"]
 > **角色：** 你是一位专业的环境摄影师。
 > **请求：** 请生成一张包含 `[拍摄主体]` 的照片，必须使用 Golden Hour（黄金时刻）的光线。画面要温暖、柔和，带有长长的阴影。
 
-<br>
+\
 
 ### 🥇 Pro Version (专业版)
 

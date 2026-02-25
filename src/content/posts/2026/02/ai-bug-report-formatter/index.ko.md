@@ -48,7 +48,7 @@ tags: [AI, BugReport, QA, Communication]
 >
 > **설명:** `[여기에 발생한 버그 상황을 생각나는 대로 적어주세요]`
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 

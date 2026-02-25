@@ -42,7 +42,7 @@ Use this when you need a fast, stylistic result without complex parameters.
 > **Role:** You are an expert 3D environment artist.
 > **Request:** Create a 3D isometric view of a `[Subject]`. Ensure it looks cute, miniature, and has a plain white background.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Detail)
 

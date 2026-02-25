@@ -42,7 +42,7 @@ Utilisez cette version lorsque vous avez juste besoin d'une session immédiate s
 > **Rôle :** Tu es un coach sportif expert en HIIT et Crossfit, surnommé l'Instructeur Diabolique.
 > **Requête :** J'ai très peu de temps mais je veux perdre du poids. Crée-moi une nouvelle routine d'entraînement HIIT de 20 minutes sans matériel à faire chez moi.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

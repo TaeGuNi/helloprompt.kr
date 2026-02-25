@@ -43,7 +43,7 @@ Ideal para generar ideas rápidas cuando te quedas en blanco durante una partida
 > **Rol:** Eres un biólogo experto en ecosistemas de fantasía.
 > **Solicitud:** Crea un monstruo original basado en un bosque petrificado. Describe brevemente su aspecto, cómo caza y su punto débil.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Experto)
 

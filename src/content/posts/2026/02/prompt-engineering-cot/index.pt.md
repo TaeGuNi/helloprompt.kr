@@ -9,7 +9,7 @@ tags: ["Prompt Engineering", "AI", "CoT"]
 
 - **🎯 Público-Alvo:** Gestores de produto, desenvolvedores, analistas de dados e todos cansados de "respostas erradas" da IA
 - **⏱️ Tempo Economizado:** 1 hora → Reduzido para 3 minutos
-- **🤖 Modelos Recomendados:** GPT-4, Claude 3.5 Sonnet, Gemini 1.5 Pro e outros modelos de alto desempenho
+- **🤖 Modelos Recomendados:** GPT-4, Claude 3.5 Sonnet, Gemini 2.5 Pro e outros modelos de alto desempenho
 
 - ⭐ **Dificuldade:** ⭐⭐⭐☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -38,7 +38,7 @@ Use estas "palavras mágicas" no final da sua frase quando quiser melhorar o rac
 > **Função:** Você é um `[analista lógico]`.
 > **Tarefa:** Resolva a seguinte `[situação ou problema complexo]`. **No entanto, antes de chegar a uma conclusão, pense de forma lenta e lógica, passo a passo (Think step-by-step).**
 
-<br>
+\
 
 ### 🥇 Versão Pro (Especialista)
 
@@ -93,7 +93,7 @@ Experimente aplicar a Versão Pro na prática, especialmente em tarefas como **"
   - R: Tente ser mais granular ao definir os 'critérios das etapas' que a IA deve deduzir e explicite isso na Tarefa. Ou, na seção de Exemplo (Few-Shot), escreva uma amostra mais longa e específica do tipo de raciocínio que você deseja; a IA imitará perfeitamente esse fluxo de pensamento.
 
 - **P: Posso usar este prompt em outros modelos de linguagem (Claude, Gemini, etc.)?**
-  - R: Sim, com certeza. O CoT não é uma funcionalidade restrita a um modelo específico, mas uma metodologia universal que aproveita os princípios fundamentais de funcionamento dos LLMs (Grandes Modelos de Linguagem). Ele brilha ainda mais nos modelos de raciocínio mais recentes, como Claude 3.5 Sonnet ou Gemini 1.5 Pro.
+  - R: Sim, com certeza. O CoT não é uma funcionalidade restrita a um modelo específico, mas uma metodologia universal que aproveita os princípios fundamentais de funcionamento dos LLMs (Grandes Modelos de Linguagem). Ele brilha ainda mais nos modelos de raciocínio mais recentes, como Claude 3.5 Sonnet ou Gemini 2.5 Pro.
 
 - **P: Devo usar o CoT em todas as situações?**
   - R: Não. Para pesquisas de conhecimento simples como "Qual é a capital do Brasil?" ou tarefas de resumo direto, a cadeia de pensamento não é necessária. Isso apenas desperdiçará tokens (dinheiro) e tempo de resposta. Use-o como uma arma secreta apenas quando uma 'lógica complexa' for exigida.

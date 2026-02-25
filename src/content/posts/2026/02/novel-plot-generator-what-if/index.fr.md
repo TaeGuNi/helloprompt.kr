@@ -13,7 +13,7 @@ tags: ["ÉcritureRoman", "Intrigue", "Idée", "Création"]
 
 - **🎯 Recommandé pour :** Romanciers, scénaristes, auteurs de webtoons et écrivains amateurs
 - **⏱️ Temps requis :** 5 minutes → Réduit à 1 minute
-- **🤖 Modèle recommandé :** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (Les modèles créatifs sont idéaux)
+- **🤖 Modèle recommandé :** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (Les modèles créatifs sont idéaux)
 
 - ⭐ **Difficulté :** ⭐⭐☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Idéale pour un déblocage rapide et une inspiration instantanée.
 > **Rôle :** Tu es un auteur de best-sellers et un expert en construction narrative (plot doctor).
 > **Requête :** Mon histoire est bloquée. Le héros vient de découvrir que le méchant est son frère. Propose-moi 3 rebondissements originaux sous la forme de questions "Et si ?".
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

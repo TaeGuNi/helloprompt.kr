@@ -41,7 +41,7 @@ Für einen schnellen Architektur-Entwurf und eine erste Machbarkeitsprüfung.
 > **Rolle:** Du bist ein Senior Software Architect für verteilte Systeme.
 > **Aufgabe:** Entwirf eine Microservice-Architektur für `[Anwendungsfall, z.B. automatisiertes Ticket-Routing]`, die LLMs nutzt. Verwende das Konzept der Petri-Netze, um sicherzustellen, dass das System deterministisch bleibt und Deadlocks vermieden werden.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 

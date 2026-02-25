@@ -9,7 +9,7 @@ description: " \"Ainda usa os mesmos prompts do Llama 3 no Llama 4? Descubra a e
 
 # 📝 Prompts para Agentes Llama 4: Desbloqueie o Raciocínio Perfeito Localmente
 
-<!-- ⚠️ [CRITICAL RULE] Suporte Multilíngue (Tradução para 10 idiomas é obrigatória) ⚠️ -->
+
 
 - **🎯 Recomendado para:** Desenvolvedores, Arquitetos de IA e Engenheiros de Prompt que usam LLMs locais
 - **⏱️ Tempo necessário:** De 1 hora de configuração do agente → reduzido para 5 minutos

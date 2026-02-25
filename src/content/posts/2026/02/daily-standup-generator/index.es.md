@@ -43,7 +43,7 @@ Las reuniones diarias de Scrum (Daily Standup) son esenciales para la sincroniza
 > **Tarea:** Convierte las siguientes notas desordenadas en un reporte de Daily Standup usando el formato: 1. Ayer, 2. Hoy, 3. Bloqueos.
 > **Notas:** `[Inserta aquí tus tareas de forma desordenada]`
 
-<br>
+\
 
 ### 🥇 Versión Profesional
 

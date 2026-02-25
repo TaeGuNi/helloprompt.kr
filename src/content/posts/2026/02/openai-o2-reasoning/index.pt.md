@@ -41,7 +41,7 @@ Ideal para resoluções rápidas de problemas de lógica, matemática ou pequeno
 > **Função:** Você é um `[Especialista em Lógica/Programação]`.
 > **Tarefa:** Analise passo a passo e resolva o seguinte problema: `[Insira o problema]`. Se você detectar qualquer falha ou erro lógico em seu raciocínio preliminar, corrija-o imediatamente antes de fornecer a resposta final.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

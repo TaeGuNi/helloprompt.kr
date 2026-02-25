@@ -38,7 +38,7 @@ Utilizzala quando vuoi impostare rapidamente solo la struttura e il layout di un
 > **Ruolo:** Sei un Senior Developer esperto in `[Go/Rust/Python/Node.js]` e uno specialista nel design di TUI (Text User Interface).
 > **Richiesta:** Scrivi il codice di scaffolding di base per un'applicazione TUI destinata a `[scopo dell'app]` utilizzando `[linguaggio e framework]`. La struttura deve prevedere una barra laterale a sinistra e una viewport principale a destra.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Pro Version)
 
@@ -109,7 +109,7 @@ Questo prompt è stato progettato con l'intento preciso di far superare all'IA *
 
 ### ✅ Dopo (Il Risultato)
 
-> Una dashboard TUI interattiva implementata partendo dallo scaffolding generato dall'IA.
+Una dashboard TUI interattiva implementata partendo dallo scaffolding generato dall'IA.
 
 ```text
 ╭─ Services ────────────────╮ ╭─ Live Logs: Server Alpha ───────────────────╮

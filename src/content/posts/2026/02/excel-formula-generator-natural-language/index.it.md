@@ -42,7 +42,7 @@ Usala quando hai fretta e ti serve solo una formula rapida senza troppe spiegazi
 > **Ruolo:** Sei un analista dati esperto con 20 anni di esperienza in Excel.
 > **Richiesta:** Ho questo problema con Excel: `[inserisci la tua situazione, es. voglio unire il testo della colonna A e B mettendoci in mezzo un trattino]`. Scrivi la formula più adatta per risolverlo.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 

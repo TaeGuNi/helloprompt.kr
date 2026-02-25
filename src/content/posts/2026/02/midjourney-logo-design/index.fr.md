@@ -40,11 +40,11 @@ Confiez désormais cette fameuse requête — celle qui fait fuir l'âme de n'im
 Utilisez cette version pour créer rapidement une icône d'application, un favicon ou le logo d'un petit projet personnel.
 
 > **Rôle :** Tu es un designer de logos minimalistes de renommée mondiale.
->
-> **Tâche :**
-> `minimalistic vector logo of a [Blue Whale], simple shapes, flat design, white background --no text --v 6.0`
 
-<br>
+> **Tâche :**
+`minimalistic vector logo of a [Blue Whale], simple shapes, flat design, white background --no text --v 6.0`
+
+\
 
 ### 🥇 Version Pro (Identité de Marque)
 

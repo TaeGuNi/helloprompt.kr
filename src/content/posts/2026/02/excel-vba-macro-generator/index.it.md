@@ -42,7 +42,7 @@ Usala quando hai bisogno di un risultato immediato senza fornire troppe istruzio
 > **Ruolo:** Sei uno Sviluppatore VBA Excel Esperto.
 > **Richiesta:** Scrivi una macro VBA per `[descrivi la tua attività ripetitiva, es: unire i dati di due fogli]`. Assicurati che il codice sia pronto all'uso.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

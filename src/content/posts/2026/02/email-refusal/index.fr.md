@@ -13,7 +13,7 @@ tags: ["Courriel Pro", "Refus", "ChatGPT", "Productivité"]
 
 - **🎯 Cible :** Employés juniors, chefs de projet et commerciaux qui bloquent pendant 30 minutes sur la rédaction d'un refus.
 - **⏱️ Temps :** 20 min → 1 min
-- **🤖 Modèles Recommandés :** ChatGPT (GPT-4), Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modèles Recommandés :** ChatGPT (GPT-4), Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Difficulté :** ⭐☆☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -44,7 +44,7 @@ Idéal pour décliner rapidement une offre commerciale standard ou signaler un s
 > **Rôle :** Tu es un `[Expert en Communication d'Entreprise]`.
 > **Tâche :** Rédige un e-mail de refus courtois suite à une `[Proposition commerciale / Demande de rendez-vous]` adressée à mon entreprise. La raison est `[un manque de budget actuel / un planning surchargé]`.
 
-<br>
+\
 
 ### 🥇 Version Pro
 

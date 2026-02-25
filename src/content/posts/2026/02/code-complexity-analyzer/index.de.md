@@ -48,7 +48,7 @@ Nutze diesen Prompt, wenn du schnell die Schwachstellen eines Codes identifizier
 > [Füge deinen Code hier ein]
 > ```
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten)
 

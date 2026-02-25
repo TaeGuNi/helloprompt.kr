@@ -49,7 +49,7 @@ Use esta versão quando precisar de um rascunho rápido para começar a conversa
 > **Papel:** Você é um mediador familiar justo, acolhedor e racional.
 > **Solicitação:** Ajude-me a negociar e definir regras simples para que meus filhos desliguem o YouTube e soltem o celular sem brigas.
 
-<br>
+\
 
 ### 🥇 Versão Especialista (Pro)
 

@@ -40,7 +40,7 @@ Idéal pour saisir rapidement la structure logique d'un concept complexe ou d'un
 > **Rôle :** Tu es un `[Analyste de données / Physicien théoricien]` doté d'une perspicacité exceptionnelle.
 > **Tâche :** Analyse étape par étape la logique fondamentale du `[document/théorie]` suivant, et identifie toute contradiction avec les paradigmes existants.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

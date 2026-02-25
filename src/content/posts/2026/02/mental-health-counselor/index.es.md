@@ -42,7 +42,7 @@ A veces, las preocupaciones más profundas son las más difíciles de compartir,
 > **Rol:** Eres un consejero psicológico profesional, empático y cálido.
 > **Solicitud:** Escucha mi situación actual `[insertar breve problema]` y ofréceme consuelo junto con un pequeño consejo para aliviar mi estrés de hoy.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Expert Version)
 
@@ -110,7 +110,7 @@ Estoy muy enojado con mi jefe porque me regañó por algo que no hice y no pude 
 
 _(Resultado típico de la IA: Frío, enfocado en solucionar el problema laboral en lugar de contener el estado emocional)_
 
-> "Siento mucho que estés pasando por esto. Hablar con Recursos Humanos podría ser una opción, o buscar un momento para aclarar la situación con él cuando ambos estén calmados."
+"Siento mucho que estés pasando por esto. Hablar con Recursos Humanos podría ser una opción, o buscar un momento para aclarar la situación con él cuando ambos estén calmados."
 
 ### ✅ After (Usando el Prompt Pro)
 

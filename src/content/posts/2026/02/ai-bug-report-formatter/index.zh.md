@@ -48,7 +48,7 @@ tags: [AI, BugReport, QA, Communication]
 >
 > **描述 (Description)：** `[请在此处随意写下你所遇到的 Bug 状况]`
 
-<br>
+\
 
 ### 🥇 Pro Version (专业版)
 

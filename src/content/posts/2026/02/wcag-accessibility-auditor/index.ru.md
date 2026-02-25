@@ -47,7 +47,7 @@ tags: ["Accessibility", "HTML", "WCAG"]
 > [Вставьте ваш код сюда]
 > ```
 
-<br>
+\
 
 ### 🥇 Pro Version (Профессиональная версия)
 
@@ -120,8 +120,8 @@ tags: ["Accessibility", "HTML", "WCAG"]
 ### ✅ After (Результат: Идеальная работа с фокусом клавиатуры и экранным диктором)
 
 ```html
-<!-- Бессмысленные декоративные изображения должны игнорироваться экранным диктором с помощью пустого alt или aria-hidden -->
-<!-- Используется тег button, который по умолчанию поддерживает обработку Enter/Space с клавиатуры в дополнение к onClick -->
+
+
 <button type="button" class="submit-btn" onClick="sendData()">
   <img src="send-icon.png" alt="" aria-hidden="true" />
   <span>Отправить</span>

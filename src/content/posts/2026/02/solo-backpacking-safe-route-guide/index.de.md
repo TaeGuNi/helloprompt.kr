@@ -43,7 +43,7 @@ Nutzen Sie diese Variante für einen schnellen, groben Überblick Ihres Reisezie
 >
 > **Anfrage:** Erstelle mir einen Leitfaden für eine Solo-Reise nach `[Reiseziel]`. Berücksichtige dabei besonders meine Sicherheit, mein Budget und Möglichkeiten, unkompliziert andere Reisende kennenzulernen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenmodus)
 
@@ -106,7 +106,7 @@ Als jemand, der selbst monatelang allein durch Asien und Europa gereist ist, ken
 
 ### ❌ Before (Eingabe)
 
-> "Empfiehl mir eine Backpacking-Route für Neapel, ich reise allein."
+"Empfiehl mir eine Backpacking-Route für Neapel, ich reise allein."
 
 _(Ergebnis: Eine generische Liste von Sehenswürdigkeiten wie Pompeji und dem Vesuv. Keine Warnungen vor Taschendieben im Bahnhofsviertel bei Nacht und Empfehlungen für teure Pizzerien, in denen man als Einzelperson kaum einen Tisch bekommt.)_
 

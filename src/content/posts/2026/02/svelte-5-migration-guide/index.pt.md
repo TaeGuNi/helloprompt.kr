@@ -45,7 +45,7 @@ Utilize este prompt quando precisar converter rapidamente um componente React es
 > **Input (Entrada):** `[Código do componente React contendo useState e useEffect]`
 > **Task (Tarefa):** Converta perfeitamente o código React fornecido utilizando a mais nova **sintaxe Runes (`$state`, `$derived`, `$effect`)** do Svelte 5. O código deve ser conciso e manter o estilo idiomático do Svelte.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Análise Profunda de Arquitetura e Estratégia de Migração)
 

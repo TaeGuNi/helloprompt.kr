@@ -19,7 +19,7 @@ tags:
 
 - **🎯 Recommandé pour :** Analystes, Marketeurs, Étudiants, Professionnels
 - **⏱️ Temps requis :** 5 minutes → 1 minute
-- **🤖 Modèle recommandé :** Modèles avec vision (ChatGPT Plus, Claude 3.5 Sonnet, Gemini 1.5 Pro)
+- **🤖 Modèle recommandé :** Modèles avec vision (ChatGPT Plus, Claude 3.5 Sonnet, Gemini 2.5 Pro)
 
 - ⭐ **Difficulté :** ⭐⭐☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -48,7 +48,7 @@ Utilisez ce prompt lorsque vous avez besoin d'une analyse rapide et directe.
 > **Rôle :** Tu es un Analyste de Données Senior et un Expert en Statistiques.
 > **Requête :** Analyse l'image de ce graphique/tableau jointe. Dégage les 3 tendances principales et dis-moi si les données présentent des anomalies.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 
@@ -93,7 +93,7 @@ Ce prompt transforme littéralement la façon dont vous abordez les rapports d'a
   - A : Pas nécessairement ! Vous pouvez simplement faire une capture d'écran de votre tableau brut ou de votre graphique et la joindre au prompt. L'IA possède d'excellentes capacités de reconnaissance visuelle (OCR).
 
 - **Q : Quel modèle d'IA est le plus performant pour ce prompt ?**
-  - A : Pour l'analyse visuelle de graphiques, **Claude 3.5 Sonnet** et **ChatGPT (GPT-4o)** offrent les résultats les plus précis à ce jour. Gemini 1.5 Pro est également très bon pour traiter des documents volumineux.
+  - A : Pour l'analyse visuelle de graphiques, **Claude 3.5 Sonnet** et **ChatGPT (GPT-4o)** offrent les résultats les plus précis à ce jour. Gemini 2.5 Pro est également très bon pour traiter des documents volumineux.
 
 - **Q : L'IA peut-elle se tromper en lisant les chiffres sur l'image ?**
   - A : Oui, cela peut arriver si l'image est floue ou si les légendes sont minuscules. Vérifiez toujours rapidement que les chiffres cités par l'IA dans la section [Vérification des Faits] correspondent bien à votre graphique original avant de les présenter.

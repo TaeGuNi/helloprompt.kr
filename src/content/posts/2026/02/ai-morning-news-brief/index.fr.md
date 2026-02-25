@@ -42,7 +42,7 @@ Idéale pour un aperçu très rapide des grands titres du jour, juste avant de p
 > **Rôle :** Tu es un journaliste radio expérimenté.
 > **Requête :** Résume les 5 actualités mondiales les plus importantes d'aujourd'hui en une phrase très courte chacune.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

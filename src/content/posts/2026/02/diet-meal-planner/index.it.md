@@ -43,7 +43,7 @@ Usala quando hai solo bisogno di un risultato rapido senza troppi dettagli.
 >
 > **Richiesta:** Crea un piano pasti perfetto per una settimana considerando il mio corpo, il mio peso target e i miei cibi preferiti in un minuto.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 
@@ -105,7 +105,7 @@ Questo prompt è incredibilmente efficace perché risolve il più grande ostacol
 
 ### ❌ Prima (Input)
 
-> "Pianifica un pasto dietetico per dimagrire."
+"Pianifica un pasto dietetico per dimagrire."
 
 ### ✅ Dopo (Risultato)
 

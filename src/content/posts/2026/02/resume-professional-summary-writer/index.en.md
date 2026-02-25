@@ -42,7 +42,7 @@ Use this when you need a quick, solid baseline.
 > **Role:** You are a top-tier personal branding expert and professional resume editor.
 > **Request:** Write a powerful, 3-5 line Professional Summary to be placed at the top of my resume to significantly increase my initial screening pass rate. My current role is `[Current Job]`, and my target role is `[Target Job]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 
@@ -88,7 +88,7 @@ The strategy of requesting three distinct versions—Achievement, Skill, and Lea
 ## 🙋 Frequently Asked Questions (FAQ)
 
 - **Q: Does this work well with the free version of ChatGPT?**
-  - A: Yes, the basic version works perfectly fine with free models. However, for the Pro Version's nuanced tone and precise keyword arrangement, more advanced models like GPT-4o, Claude 3.5 Sonnet, or Gemini 1.5 Pro yield noticeably superior results.
+  - A: Yes, the basic version works perfectly fine with free models. However, for the Pro Version's nuanced tone and precise keyword arrangement, more advanced models like GPT-4o, Claude 3.5 Sonnet, or Gemini 2.5 Pro yield noticeably superior results.
 
 - **Q: What if I don't have quantifiable achievements (numbers)?**
   - A: Even without hard metrics, you can focus on the _scale_ or _impact_ of your work. Instead of numbers, input details like the types of projects you handled, the cross-functional teams you collaborated with, or the workflows you improved.

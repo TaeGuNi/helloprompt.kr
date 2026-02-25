@@ -37,7 +37,7 @@ Use this when you need a quick overview of potential code improvements.
 > **Role:** You are a `[Rust 2026 Core Contributor]`.
 > **Task:** Optimize this `[Legacy Rust Code]` to comply with the latest 2026 asynchronous programming standards.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

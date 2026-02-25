@@ -46,7 +46,7 @@ La automatización de noticias por parte de agentes de IA está revolucionando l
 > **Rol:** Eres un editor jefe de un periódico de prestigio internacional.
 > **Tarea:** Revisa este `[artículo o borrador]` e identifica cualquier sesgo político, afirmación sin evidencia o posible violación de la ética periodística. Señala los problemas en una lista corta.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

@@ -40,7 +40,7 @@ Usa questa versione quando hai bisogno di risultati rapidi e vuoi semplicemente 
 >
 > **Esempio:** Una donna cyberpunk che beve un caffè al neon, atmosfera piovosa, scatto cinematografico `--cref https://url-della-tua-immagine.jpg --cw 100`
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

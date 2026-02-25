@@ -51,7 +51,7 @@ Nutze diesen Prompt, um textbasierte englische Anleitungen schnell in ausgeschri
 > **Ausgabeformat (Format):**
 > Formatiere jede Reihe (Row/Round) mit einem Zeilenumbruch, damit die Anleitung übersichtlich und gut lesbar bleibt.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Strickschriften & maßgeschneiderte Größenberechnung)
 

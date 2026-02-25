@@ -47,7 +47,7 @@ Escribe un borrador del informe, llamar a mamá, comprar pasta de dientes, prepa
 > **Rol:** Eres un asistente ejecutivo experto.
 > **Solicitud:** Clasifica la lista de tareas anterior en **[Urgente e Importante]**, **[Tareas Domésticas]** y **[Trabajo]**, y reescríbela como una lista de verificación ordenada por prioridad de ejecución.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Matriz de Eisenhower y Cronograma)
 

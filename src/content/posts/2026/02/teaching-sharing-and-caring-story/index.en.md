@@ -42,7 +42,7 @@ Use this when you need a quick, simple story on the go.
 > **Role:** You are a seasoned children's author who writes engaging fairy tales with moral lessons, similar to Aesop's Fables.
 > **Request:** Write a short story to teach a 5-year-old child the joy of sharing instead of being greedy.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

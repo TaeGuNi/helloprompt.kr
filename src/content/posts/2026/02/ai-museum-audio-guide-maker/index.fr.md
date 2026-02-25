@@ -42,7 +42,7 @@ Idéale pour obtenir un résumé rapide et clair devant une œuvre.
 > **Rôle :** Tu es un historien de l'art passionné et un guide de musée très pédagogue.
 > **Requête :** Analyse la photo de cette œuvre d'art que je te fournis et explique-moi son histoire, sa signification et ce qui la rend unique, le tout de manière simple et captivante.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pour une immersion totale)
 
@@ -106,8 +106,8 @@ L'utilisation de l'IA comme audioguide a littéralement transformé mes voyages 
 
 ### ❌ Avant (Entrée basique)
 
-> (Photo de La Nuit Étoilée de Van Gogh)
-> "Explique-moi ce tableau."
+(Photo de La Nuit Étoilée de Van Gogh)
+"Explique-moi ce tableau."
 
 _Résultat de l'IA :_ "Ceci est La Nuit Étoilée de Vincent van Gogh, peinte en 1889. C'est une huile sur toile qui représente la vue depuis la chambre de l'asile de Saint-Rémy-de-Provence. Elle est conservée au MoMA." (Factuel, mais ennuyeux et digne d'une page Wikipédia).
 

@@ -42,7 +42,7 @@ Use this when you need a quick playlist without overthinking it.
 > **Role:** You are a focus and productivity music expert.
 > **Task:** Recommend a YouTube or Spotify search query for background music that will help me focus on `[your specific task, e.g., coding, writing, studying]`. I need something without lyrics.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

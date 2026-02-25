@@ -44,7 +44,7 @@ Yields generic, Wikipedia-style answers that require further research.
 
 > **Request:** How do I write a good marketing email?
 
-<br>
+\
 
 ### 🥇 Pro Version (The "Context" Approach)
 
@@ -72,7 +72,7 @@ The AI will summarize, but it might miss the specific angle you care about.
 
 > **Request:** Summarize this text: `[Paste long text]`
 
-<br>
+\
 
 ### 🥇 Pro Version (The "Framework")
 
@@ -101,7 +101,7 @@ This is the ultimate beginner "cheat code." By simply starting your prompt with 
 
 > **Request:** Explain how to use the VLOOKUP function in Excel.
 
-<br>
+\
 
 ### 🥇 Pro Version (The "Specialist")
 
@@ -125,7 +125,7 @@ This is the ultimate beginner "cheat code." By simply starting your prompt with 
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 When I first started using AI, my biggest hurdle wasn't the technology; it was my own mindset. I kept trying to use the perfect "magic words."
 
@@ -133,7 +133,7 @@ When I first started using AI, my biggest hurdle wasn't the technology; it was m
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q: Which AI model is the best for absolute beginners?**
   - A: For everyday tasks and incredibly natural conversation, **Claude 3.5 Sonnet** is currently unmatched. However, the free version of **ChatGPT (GPT-4o)** is universally accessible and more than capable for these beginner strategies.
@@ -146,7 +146,7 @@ When I first started using AI, my biggest hurdle wasn't the technology; it was m
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🧬 Why it works?
 
 The reason the "Pro Version" prompts consistently outperform basic requests boils down to three core principles:
 
@@ -156,7 +156,7 @@ The reason the "Pro Version" prompts consistently outperform basic requests boil
 
 ---
 
-## 📊 증명: Before & After
+## 📊 Before & After
 
 ### ❌ Before (입력)
 
@@ -181,7 +181,7 @@ Here is exactly how to set this up for your Customer IDs:
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
 AI is the most powerful lever of our generation, but it remains just a tool. A hammer is useless without a builder; AI is useless without clear direction. Your output will only ever be as good as your input.
 

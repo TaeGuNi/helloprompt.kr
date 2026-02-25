@@ -44,7 +44,7 @@ Il vous suffit désormais de donner à l'IA des « règles et modèles » clairs
 > **Rôle :** Tu es un `[Expert en données]`.
 > **Tâche :** Nettoie les `[données suivantes]` et organise-les proprement dans un tableau Markdown clair et sans erreurs.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

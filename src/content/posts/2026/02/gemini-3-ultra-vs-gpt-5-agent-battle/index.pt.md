@@ -51,7 +51,7 @@ Utilize este prompt quando quiser delegar tanto o planejamento quanto a codifica
 > **Role:** Você é um `[Desenvolvedor Sênior de IA]`.
 > **Task:** Planeje um `[Agente Autônomo de Investimento em Ações]` e escreva o código Python completo para executá-lo.
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 
@@ -84,27 +84,27 @@ Um prompt em cadeia (Chain Prompting) de 2 etapas que combina a genialidade de p
 #### Etapa 2. Codificação com GPT-5 (Garantia de Execução Zero-shot)
 
 > **Papel (Role):** Você é um `[Desenvolvedor Python Sênior]` ex-funcionário do Google.
->
+
 > **Contexto (Context):**
->
-> - Cenário: Uma especificação técnica perfeita foi elaborada por um arquiteto especialista.
-> - Objetivo: Implementar o código Python pronto para produção (Production-Ready) e implantação imediata.
->
+
+- Cenário: Uma especificação técnica perfeita foi elaborada por um arquiteto especialista.
+- Objetivo: Implementar o código Python pronto para produção (Production-Ready) e implantação imediata.
+
 > **Tarefa (Task):**
->
-> 1. Com base no conteúdo da `[Especificação Técnica gerada pelo Gemini]`, implemente o código Python impecável.
-> 2. **Configuração de Ambiente (Environment Setup):** Especifique as bibliotecas necessárias no `requirements.txt`.
-> 3. **Lógica Principal (Core Logic):** Escreva a classe central (`class Agent`) que materializa a arquitetura.
-> 4. **Tratamento de Erros (Error Handling):** Adicione lógicas de defesa robustas contra falhas em chamadas de API e erros de rede.
->
+
+1. Com base no conteúdo da `[Especificação Técnica gerada pelo Gemini]`, implemente o código Python impecável.
+2. **Configuração de Ambiente (Environment Setup):** Especifique as bibliotecas necessárias no `requirements.txt`.
+3. **Lógica Principal (Core Logic):** Escreva a classe central (`class Agent`) que materializa a arquitetura.
+4. **Tratamento de Erros (Error Handling):** Adicione lógicas de defesa robustas contra falhas em chamadas de API e erros de rede.
+
 > **Restrições (Constraints):**
->
-> - O código deve ser totalmente modularizado e seguir estritamente o guia de estilo PEP8.
-> - Inclua comentários detalhados (Docstrings) em todas as funções.
->
+
+- O código deve ser totalmente modularizado e seguir estritamente o guia de estilo PEP8.
+- Inclua comentários detalhados (Docstrings) em todas as funções.
+
 > **Avisos (Warning):**
->
-> - Não invente nem utilize bibliotecas imaginárias. O código deve ser executado com perfeição na primeira tentativa (Zero-shot), sem qualquer erro.
+
+- Não invente nem utilize bibliotecas imaginárias. O código deve ser executado com perfeição na primeira tentativa (Zero-shot), sem qualquer erro.
 
 ---
 

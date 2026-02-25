@@ -44,7 +44,7 @@ Idéale pour les points de synchronisation rapides (Daily Scrums) ou les réunio
 > 
 > [Collez vos notes de réunion ici]
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 
@@ -90,13 +90,13 @@ Dans la pratique, je copie-colle directement la transcription générée par un 
 ## 🙋 Foire Aux Questions (FAQ)
 
 - **Q : Est-ce que l'IA peut traiter la transcription d'une réunion d'une heure en une seule fois ?**
-  - R : Oui, la plupart des modèles récents (Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro) disposent d'une fenêtre de contexte suffisamment large. Cependant, pour une précision chirurgicale, il est recommandé de diviser la transcription par ordre du jour (Agenda) si la réunion a été particulièrement dense.
+  - R : Oui, la plupart des modèles récents (Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro) disposent d'une fenêtre de contexte suffisamment large. Cependant, pour une précision chirurgicale, il est recommandé de diviser la transcription par ordre du jour (Agenda) si la réunion a été particulièrement dense.
 
 - **Q : Je suis inquiet pour la confidentialité des données de mon entreprise.**
   - R : C'est une excellente remarque. Pour les réunions stratégiques, anonymisez les données sensibles avant de les soumettre à l'IA (remplacez les noms de clients par "Client A", les montants par "X euros"). Privilégiez toujours les environnements d'entreprise (Enterprise plans) où vos données ne sont pas utilisées pour entraîner les modèles.
 
 - **Q : Puis-je uploader directement mon fichier audio (.mp3) à l'IA ?**
-  - R : Bien que Gemini 1.5 Pro et certains modèles OpenAI commencent à bien gérer l'audio natif, il est souvent plus rapide et précis de passer d'abord par un outil de transcription dédié (Speech-to-Text), puis d'injecter le texte dans ce prompt.
+  - R : Bien que Gemini 2.5 Pro et certains modèles OpenAI commencent à bien gérer l'audio natif, il est souvent plus rapide et précis de passer d'abord par un outil de transcription dédié (Speech-to-Text), puis d'injecter le texte dans ce prompt.
 
 ---
 

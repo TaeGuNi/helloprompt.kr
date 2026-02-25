@@ -50,7 +50,7 @@ Idéale pour obtenir un diagnostic rapide sans entrer dans les détails techniqu
 > **Rôle :** Tu es un Professeur d'Informatique (CS) et un expert en optimisation d'algorithmes.
 > **Demande :** Analyse la complexité temporelle et spatiale du code ci-dessous et identifie les points d'amélioration possibles.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

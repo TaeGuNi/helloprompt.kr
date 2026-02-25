@@ -42,7 +42,7 @@ Usala quando vai di fretta e hai bisogno di un risultato immediato senza troppi 
 > **Ruolo:** Agisci come una `[Segretaria Direzionale con 10 anni di esperienza]`.
 > **Richiesta:** Riorganizza gli appunti di questa riunione in un verbale chiaro, evidenziando le decisioni e le cose da fare: `[Inserisci appunti]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

@@ -44,7 +44,7 @@ Usalo se vuoi solo scoprire velocemente se hai un sottotono caldo (Warm) o fredd
 > **(Dopo aver caricato la foto)**
 > **Task:** Analizza il mio incarnato, il colore dei capelli e degli occhi presenti in questa foto per determinare la mia stagione armocromatica (Primavera/Estate/Autunno/Inverno). Spiegami in modo dettagliato le ragioni visive che ti hanno portato a questo risultato.
 
-<br>
+\
 
 ### 🥇 Pro Version (Consulenza di Styling Personalizzata)
 

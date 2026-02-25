@@ -40,10 +40,10 @@ Le véritable repos ne se mesure pas au nombre de monuments visités, mais à l'
 Pour ceux qui souhaitent une inspiration immédiate et globale.
 
 > **Rôle :** Tu es un "Curateur de Slow Travel" spécialisé dans la relaxation profonde et la guérison mentale.
->
+
 > **Requête :** Je veux éviter les lieux touristiques bondés. Conçois-moi un itinéraire de "Slow Travel" d'une semaine axé sur le véritable repos.
 
-<br>
+\
 
 ### 🥇 Version Pro
 
@@ -105,7 +105,7 @@ L'astuce de ce prompt réside dans sa capacité à brider l'IA. Par défaut, les
 
 ### ❌ Avant (Entrée basique)
 
-> "Recommande-moi un itinéraire de voyage d'une semaine sur l'île de Jeju pour me reposer."
+"Recommande-moi un itinéraire de voyage d'une semaine sur l'île de Jeju pour me reposer."
 
 _(L'IA génère généralement : Ascension de Seongsan Ilchulbong à l'aube, visite de 3 musées très prisés dans l'après-midi, dîner dans un restaurant célèbre avec 2 heures d'attente... Bilan : Épuisement total.)_
 

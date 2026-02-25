@@ -44,7 +44,7 @@ Ideal para quando você precisa de uma imagem rápida, limpa e com estilo corpor
 > **Prompt de Geração:**
 > `cute 3d isometric icon of [coffee cup and laptop], pastel background, soft lighting, minimalism, c4d render, high quality --ar 16:9`
 
-<br>
+\
 
 ### 🥇 Pro Version (O Ímã de Cliques)
 
@@ -91,12 +91,12 @@ O maior erro de quem começa a usar o Midjourney para blogs é tentar colocar o 
 
 ### ❌ Antes (Pesquisa em Banco de Imagens Gratuito)
 
-> Busca por "Dinheiro e Sucesso" no Unsplash.
+Busca por "Dinheiro e Sucesso" no Unsplash.
 > **Resultado:** A clássica foto de um homem de terno genérico segurando notas de dólar com um sorriso artificial. Falta de personalidade e um clichê extremo que afasta leitores. 🤮
 
 ### ✅ Depois (Geração com a Fórmula Midjourney)
 
-> Prompt: `gold coins sprouting from a lush green soil inside a glowing glass jar, warm sunlight, beautiful bokeh effect, highly detailed 3d render, modern cute style --ar 16:9 --v 7.0`
+Prompt: `gold coins sprouting from a lush green soil inside a glowing glass jar, warm sunlight, beautiful bokeh effect, highly detailed 3d render, modern cute style --ar 16:9 --v 7.0`
 > **Resultado:** Uma arte 3D moderna, emocionalmente envolvente e que visualiza perfeitamente o conceito de "crescimento financeiro" com um toque lúdico e profissional. ✨
 
 ---

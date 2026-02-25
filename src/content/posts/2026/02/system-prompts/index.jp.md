@@ -39,7 +39,7 @@ tags: ["AI Trends", "System Prompt", "Prompt Engineering", "2026"]
 > **役割:** あなたは `[シニアPythonアーキテクト]` です。
 > **要求:** `[要件定義]` に基づいてコードを作成し、`[制約事項]` を厳守してください。
 
-<br>
+\
 
 ### 🥇 Pro Version（専門家型）
 

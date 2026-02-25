@@ -42,7 +42,7 @@ Use isso quando precisar de uma organização rápida e rascunhos simples no dia
 > **Função:** Você é um `[Assistente Executivo]`.
 > **Tarefa:** Classifique os seguintes `[E-mails]` por prioridade e escreva respostas curtas e educadas para os que precisam de resposta imediata.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Profissional)
 

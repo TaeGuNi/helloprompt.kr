@@ -44,7 +44,7 @@ Usala quando hai bisogno di un consiglio rapido e diretto senza troppi dettagli 
 > **Ruolo:** Sei un Senior Software Engineer esperto in algoritmi.
 > **Richiesta:** Devo memorizzare dei dati e non so quale struttura scegliere. Ti descriverò il mio caso d'uso e tu mi consiglierai la struttura dati ottimale, spiegandomi brevemente il perché.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 
@@ -82,14 +82,14 @@ Usala per decisioni architetturali critiche dove le performance e la corretta ge
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 L'errore più comune dei programmatori alle prime armi è la "sindrome del martello": conoscere solo Array e List e trattare ogni problema come un chiodo. Questo prompt è estremamente utile non solo per risolvere un dubbio sul momento, ma anche come **strumento di apprendimento continuo**.
 Chiedendo all'IA di giustificare la scelta tramite la notazione Big-O, ti abituerai a pensare alle performance prima ancora di scrivere la prima riga di codice. Personalmente, lo uso regolarmente in fase di progettazione di API ad alto traffico, per assicurarmi che la ricerca di un elemento non diventi il collo di bottiglia dell'intero sistema.
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q: Questo prompt va bene anche per linguaggi a basso livello come C o Rust?**
   - A: Assolutamente sì! Basta specificarlo nella variabile `[Linguaggio Utilizzato]`. Per il C, l'IA potrebbe suggerirti come implementare la struttura a mano o quale libreria standard usare, mentre per Rust indicherà i tipi specifici come `HashSet` o `BTreeMap`, considerando anche le stringenti regole di ownership.
@@ -99,7 +99,7 @@ Chiedendo all'IA di giustificare la scelta tramite la notazione Big-O, ti abitue
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🧬 Why it works?
 
 1. **Focus sulla Complessità (Big-O):** Costringe l'IA a fornire una giustificazione matematica e oggettiva invece di un semplice "secondo me è meglio questa".
 2. **Specificità del Linguaggio:** Richiedere la classe esatta (es. `LinkedHashMap` invece di un generico "Dizionario Ordinato") rende la risposta immediatamente applicabile al tuo sorgente.
@@ -107,7 +107,7 @@ Chiedendo all'IA di giustificare la scelta tramite la notazione Big-O, ti abitue
 
 ---
 
-## 📊 증명: Before & After
+## 📊 Before & After
 
 ### ❌ Before (Senza Prompt / Istinto Base)
 
@@ -128,7 +128,7 @@ Chiedendo all'IA di giustificare la scelta tramite la notazione Big-O, ti abitue
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
 Se nella tua cassetta degli attrezzi hai solo un martello, ogni problema ti sembrerà inevitabilmente un chiodo.
 Equipaggiati con l'arsenale completo delle strutture dati e lascia che l'IA ti guidi nel tirare fuori lo strumento perfetto al momento giusto.

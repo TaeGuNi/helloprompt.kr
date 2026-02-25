@@ -43,7 +43,7 @@ Ideale per bug fix minori o aggiornamenti di documentazione.
 > **Compito:** Risolvi l'issue indicata e prepara una Pull Request.
 > **Regola d'oro:** Non discutere mai con i maintainer. Se la PR viene rifiutata, ringrazia per il tempo dedicato e chiedi gentilmente se ci sono modifiche desiderate. Non aprire PR non richieste per refactoring stilistici.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Per agenti autonomi avanzati)
 

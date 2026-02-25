@@ -54,7 +54,7 @@ tags: ["OpenAI o1", "DeepSeek-R1", "프롬프트 엔지니어링", "AI 트렌드
 > def c(a,b): return a+b
 > </code_snippet>
 
-<br>
+\
 
 ### 🥇 Pro Version (専門家型)
 

@@ -40,7 +40,7 @@ image: "/images/2026/02/13/monet-beauty.jpg"
 > **角色：** 你是一位精通东西方艺术史的顶级AI数字艺术家。
 > **请求：** 请生成一幅画作，画中的主体是申润福《美人图》中的朝鲜时代女性，但请使用克劳德·莫奈的印象派风格（厚重的笔触、光影斑驳的花园背景）进行绘制。
 
-<br>
+\
 
 ### 🥇 Pro Version (专业版)
 
@@ -102,17 +102,17 @@ image: "/images/2026/02/13/monet-beauty.jpg"
 ### ❌ Before (普通输入)
 
 ```text
-> 提示词：Draw a woman from Shin Yun-bok's painting in Claude Monet style.
+提示词：Draw a woman from Shin Yun-bok's painting in Claude Monet style.
 
-> 结果：AI直接给申润福的原画盖上了一层粗糙的油画滤镜，或者画出了一个穿着西式洋装却长着亚洲面孔的怪异女性，由于缺乏权重分配，人物完全被背景吞噬，毫无美感可言。
+结果：AI直接给申润福的原画盖上了一层粗糙的油画滤镜，或者画出了一个穿着西式洋装却长着亚洲面孔的怪异女性，由于缺乏权重分配，人物完全被背景吞噬，毫无美感可言。
 ```
 
 ### ✅ After (专业版结果)
 
 ```text
-> 提示词：An elegant Korean woman wearing traditional Hanbok in the pose of Shin Yun-bok's Miindo. The background is Claude Monet's Giverny water lily garden, dappled sunlight, pastel blue and dreamlike purple color palette. Impasto brushstrokes for the environment, but highly detailed and clear fine lines for the woman's facial features, fusion art masterpiece --ar 4:5 --v 6.0
+提示词：An elegant Korean woman wearing traditional Hanbok in the pose of Shin Yun-bok's Miindo. The background is Claude Monet's Giverny water lily garden, dappled sunlight, pastel blue and dreamlike purple color palette. Impasto brushstrokes for the environment, but highly detailed and clear fine lines for the woman's facial features, fusion art masterpiece --ar 4:5 --v 6.0
 
-> 结果：一位端庄的朝鲜时代女性伫立在梦幻般的光影花园中。她的面庞保留着东方的温婉与细腻，而那原本沉稳的靛蓝色裙摆，却在莫奈式的阳光下折射出璀璨斑驳的色彩。一次完美的跨时空艺术碰撞！
+结果：一位端庄的朝鲜时代女性伫立在梦幻般的光影花园中。她的面庞保留着东方的温婉与细腻，而那原本沉稳的靛蓝色裙摆，却在莫奈式的阳光下折射出璀璨斑驳的色彩。一次完美的跨时空艺术碰撞！
 ```
 
 ---

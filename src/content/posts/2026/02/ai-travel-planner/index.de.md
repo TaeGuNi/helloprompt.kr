@@ -42,7 +42,7 @@ Verwenden Sie dies, wenn Sie nur eine schnelle Übersicht oder einen ersten Entw
 > **Rolle:** Du bist ein erfahrener lokaler Reiseführer.
 > **Anfrage:** Erstelle mir einen detaillierten Reiseplan für `[Reiseziel]` für `[Anzahl]` Tage, der die Wegezeiten minimiert und die besten lokalen Spots enthält.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Prompt)
 

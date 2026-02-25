@@ -9,7 +9,7 @@ tags: ["Internet", "Archiving", "History", "Web"]
 
 - **🎯 Recomendado para:** Investigadores, Curadores de contenido, Archivistas digitales, Especialistas en marketing
 - **⏱️ Tiempo requerido:** De 1 hora → a 1 minuto
-- **🤖 Modelo recomendado:** Modelos con gran ventana de contexto (Se recomiendan Claude 3.5 Sonnet o Gemini 1.5 Pro)
+- **🤖 Modelo recomendado:** Modelos con gran ventana de contexto (Se recomiendan Claude 3.5 Sonnet o Gemini 2.5 Pro)
 
 - ⭐ **Dificultad:** ⭐⭐⭐☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -40,7 +40,7 @@ Este prompt es una poderosa herramienta de preservación del conocimiento que fi
 > **Rol:** Eres un 'Archivista Digital' experto.
 > **Tarea:** Del texto de la página web proporcionado a continuación, elimina todo el ruido como menús o anuncios, y organiza únicamente el 'contenido principal' informativo en formato Markdown limpio.
 
-<br>
+\
 
 ### 🥇 Versión Pro
 
@@ -91,7 +91,7 @@ Brilla especialmente en páginas donde los web clippers convencionales fallan: n
   - R: Ambos métodos funcionan. Sin embargo, para las páginas modernas de renderizado dinámico, seleccionar todo el texto en el navegador (Ctrl+A) y copiarlo suele ser mucho más efectivo para reducir el ruido de los scripts ocultos y entregar únicamente el texto fundamental a la IA.
 
 - **P: El contenido es demasiado largo y el modelo de IA arroja un error. ¿Qué hago?**
-  - R: Al copiar una página web completa, el recuento de tokens puede dispararse. Te recomiendo encarecidamente utilizar modelos con un límite alto de tokens de entrada (como Claude 3.5 Sonnet o Gemini 1.5 Pro).
+  - R: Al copiar una página web completa, el recuento de tokens puede dispararse. Te recomiendo encarecidamente utilizar modelos con un límite alto de tokens de entrada (como Claude 3.5 Sonnet o Gemini 2.5 Pro).
 
 ---
 
@@ -131,7 +131,7 @@ tags: ["Contenido dinámico", "SPA", "Plataformas cerradas"]
 
 Debido al aumento del contenido dinámico, las SPA (Aplicaciones de Página Única) y las plataformas cerradas, cada vez es más difícil para los archivistas digitales preservar la historia de la web abierta.
 
-> "Actualmente generamos la mayor cantidad de datos, pero al mismo tiempo vivimos en una era donde los perdemos más rápido que nunca."
+"Actualmente generamos la mayor cantidad de datos, pero al mismo tiempo vivimos en una era donde los perdemos más rápido que nunca."
 
 ... (Omitido: Se mantiene el contexto original y solo se conserva el texto purificado de forma lógica) ...
 ```

@@ -58,7 +58,7 @@ Utilizza questo prompt quando devi applicare rapidamente una cache a una semplic
 > - Implementa chiaramente la logica: in caso di Cache Miss, il dato viene recuperato dal DB e poi salvato su Redis.
 > - **Fondamentale:** Includi la gestione degli errori. Se Redis è irraggiungibile, la richiesta deve procedere in fallback (graceful degradation) verso il DB senza interrompere il servizio.
 
-<br>
+\
 
 ### 🥇 Pro Version (Architettura Anti-Stampede)
 

@@ -43,7 +43,7 @@ Idéal pour générer une histoire simple et rapide juste avant le coucher.
 > **Rôle :** Tu es un auteur de livres pour enfants passionné par la zoologie.
 > **Demande :** Écris une courte histoire d'aventure mettant en scène des animaux, qui stimule l'imagination tout en enseignant de vraies notions écologiques.
 
-<br>
+\
 
 ### 🥇 Version Experte (Pro Version)
 

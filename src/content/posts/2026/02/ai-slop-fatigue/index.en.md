@@ -43,7 +43,7 @@ Use this when you need a rapid assessment of your text's "AI-ness."
 > **Role:** You are a strict `[Senior Content Editor]`.
 > **Task:** Analyze the provided `[Text]` and point out any clichés, robotic phrasing, or signs of "AI Slop." Rewrite it to sound natural, engaging, and genuinely human.
 
-<br>
+\
 
 ### 🥇 Pro Version (The 'Organic' Writer)
 

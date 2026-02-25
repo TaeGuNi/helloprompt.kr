@@ -48,7 +48,7 @@ Verwenden Sie diesen Prompt für einen schnellen, groben Überblick über Ihr fi
 > **Rolle:** Du bist ein professioneller `[Finanzplaner]`, der sich auf die FIRE-Bewegung spezialisiert hat.
 > **Aufgabe:** Ich möchte finanzielle Freiheit erreichen. Berechne mein benötigtes Zielvermögen und simuliere den Zeitpunkt meines vorzeitigen Ruhestands basierend auf meinem `[aktuellen Einkommen, Ausgaben und Alter]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Detaillierte Finanzplanung)
 

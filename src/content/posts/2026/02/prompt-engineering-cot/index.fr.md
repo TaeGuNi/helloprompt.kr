@@ -9,7 +9,7 @@ tags: ["Prompt Engineering", "AI", "CoT"]
 
 - **🎯 Recommandé pour :** Chefs de projet, développeurs, data analysts, et tous ceux qui en ont assez des "réponses à côté de la plaque" de l'IA.
 - **⏱️ Temps gagné :** De 1 heure → à 3 minutes.
-- **🤖 Modèles recommandés :** Tous les modèles conversationnels performants (GPT-4, Claude 3.5 Sonnet, Gemini 1.5 Pro, etc.).
+- **🤖 Modèles recommandés :** Tous les modèles conversationnels performants (GPT-4, Claude 3.5 Sonnet, Gemini 2.5 Pro, etc.).
 
 - ⭐ **Difficulté :** ⭐⭐⭐☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -38,7 +38,7 @@ Utilisez cette "formule magique" à la fin de votre phrase lorsque vous voulez a
 > **Rôle :** Tu es un `[analyste logique]`.
 > **Requête :** Trouve la solution à `[ce problème ou cette situation complexe]`. **Cependant, avant de donner ta conclusion finale, prends le temps de réfléchir logiquement, étape par étape (Think step-by-step).**
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Expert)
 
@@ -93,7 +93,7 @@ Sur le terrain, je vous conseille vivement d'utiliser la version Pro pour **la r
   - R : Essayez de diviser les "critères d'étape" de manière encore plus granulaire dans votre requête (Task). Sinon, allongez et détaillez davantage l'exemple (Few-Shot) avec le type de réflexion que vous attendez. L'IA est une excellente imitatrice et calquera parfaitement son raisonnement sur votre modèle.
 
 - **Q : Est-ce que ce prompt fonctionne avec d'autres modèles (Claude, Gemini, etc.) ?**
-  - R : Absolument. Le CoT n'est pas exclusif à OpenAI, c'est une méthodologie universelle basée sur le fonctionnement profond des LLM. Elle est même particulièrement redoutable avec les modèles de dernière génération comme Claude 3.5 Sonnet ou Gemini 1.5 Pro.
+  - R : Absolument. Le CoT n'est pas exclusif à OpenAI, c'est une méthodologie universelle basée sur le fonctionnement profond des LLM. Elle est même particulièrement redoutable avec les modèles de dernière génération comme Claude 3.5 Sonnet ou Gemini 2.5 Pro.
 
 - **Q : Faut-il utiliser le CoT tout le temps ?**
   - R : Non. Pour une requête basique comme "Quelle est la capitale de la France ?" ou un simple résumé, la chaîne de pensées est inutile. Vous ne feriez que gaspiller des tokens (et donc de l'argent) et du temps de génération. Gardez cette arme secrète pour les moments où une "logique complexe" est réellement requise.

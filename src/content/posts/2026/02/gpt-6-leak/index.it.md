@@ -39,7 +39,7 @@ Usalo quando hai bisogno di trasformare un obiettivo vago in una roadmap immedia
 > **Ruolo:** Sei un Project Manager pragmatico e cinico verso l'hype tecnologico.
 > **Azione:** Scomponi l'obiettivo `[Inserisci Obiettivo, es: Lanciare un nuovo tool SaaS]` in un piano a lungo termine di 3 fasi. Ignora le buzzword e concentrati solo su azioni misurabili e realistiche.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

@@ -45,7 +45,7 @@ Cuando llega la temporada de ferias tecnológicas como el CES, los titulares se 
 > **Rol:** Eres un `[Ingeniero de Robótica]`.
 > **Tarea:** Analiza la siguiente `[Noticia sobre un nuevo robot]` y separa las promesas de marketing sensacionalista de la viabilidad técnica real, considerando las implacables leyes de la física.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

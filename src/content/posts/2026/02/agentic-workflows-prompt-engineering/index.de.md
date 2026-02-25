@@ -40,7 +40,7 @@ Führt bei komplexen Anforderungen oft zu oberflächlichen, fehlerhaften oder un
 > **Rolle:** Du bist ein Senior Softwareentwickler.
 > **Aufgabe:** Schreibe ein Python-Skript für Web Scraping, extrahiere die Daten und speichere sie in einer PostgreSQL-Datenbank.
 
-<br>
+\
 
 ### 🥇 Pro Version (Agentischer System-Prompt)
 

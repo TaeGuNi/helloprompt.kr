@@ -47,7 +47,7 @@ Verwenden Sie diese Version, wenn Sie nur schnell einen groben Überblick und Pr
 > **Heutige To-do-Liste:**
 > `[Fügen Sie hier Ihre ungeordneten Aufgaben für heute ein]`
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -131,12 +131,12 @@ Meine Arbeitszeit ist von 09:30 bis 18:30 Uhr.
 
 | Kategorie | Aufgabe | Aktion |
 | :--- | :--- | :--- |
-| **DO (Dringend & Wichtig)** | Wöchentliches Meeting (11:00) <br> Entwurf Wochenbericht schreiben | **Sofort erledigen**, in der Fokuszeit platzieren |
-| **DECIDE (Wichtig, nicht dringend)** | Recherche Promo-Aktion Konkurrent A <br> Restaurant für Workshop buchen | **Zeitfenster planen**, für den Nachmittag vorsehen |
-| **DELEGATE (Dringend, nicht wichtig)** | Logo-Korrektur beim Design-Team anfragen <br> E-Mails beantworten | **Schnell abwickeln/delegieren**, direkt morgens erledigen |
+| **DO (Dringend & Wichtig)** | Wöchentliches Meeting (11:00) \ Entwurf Wochenbericht schreiben | **Sofort erledigen**, in der Fokuszeit platzieren |
+| **DECIDE (Wichtig, nicht dringend)** | Recherche Promo-Aktion Konkurrent A \ Restaurant für Workshop buchen | **Zeitfenster planen**, für den Nachmittag vorsehen |
+| **DELEGATE (Dringend, nicht wichtig)** | Logo-Korrektur beim Design-Team anfragen \ E-Mails beantworten | **Schnell abwickeln/delegieren**, direkt morgens erledigen |
 | **DELETE (Nicht dringend & nicht wichtig)** | (Derzeit keine Aufgaben in dieser Kategorie) | - |
 
-<br>
+\
 
 ## 🕒 Tagesplan (Time-Blocking)
 

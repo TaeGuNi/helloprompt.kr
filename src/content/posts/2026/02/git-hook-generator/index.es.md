@@ -44,7 +44,7 @@ Aquí es donde los **Git Hooks** entran al rescate. Sin embargo, si no estás fa
 > **Rol:** Eres un `[Ingeniero DevOps]`.
 > **Tarea:** Escribe un script de shell para un Git Hook usando `[Husky]` que ejecute `[npm run lint antes de hacer git commit]`, e incluye las instrucciones de configuración.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

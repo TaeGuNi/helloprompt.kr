@@ -11,7 +11,7 @@ image: "/images/2026/02/16/self-healing-code.jpg"
 
 - **🎯 推荐人群：** 开发者、数据工程师、考虑引入 AI Agent 的技术领导者
 - **⏱️ 预计耗时：** 无尽的 Debug → 自动化后 0 分钟
-- **🤖 推荐模型：** 所有代码生成 AI (GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro)
+- **🤖 推荐模型：** 所有代码生成 AI (GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro)
 
 - ⭐ **难度系数：** ⭐⭐⭐⭐☆
 - ⚡️ **预期效果：** ⭐⭐⭐⭐⭐
@@ -44,7 +44,7 @@ image: "/images/2026/02/16/self-healing-code.jpg"
 > **角色：** 你是一位 `[资深 Python 开发者]`。
 > **任务：** 请根据以下 `[错误信息]`，修复 `[原始代码]` 中的 Bug。
 
-<br>
+\
 
 ### 🥇 Pro Version (专业版)
 

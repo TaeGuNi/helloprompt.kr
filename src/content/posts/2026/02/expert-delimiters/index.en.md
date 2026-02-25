@@ -48,7 +48,7 @@ Use this when you need a fast result for a simple, everyday task.
 > `[Insert your lengthy text here]`
 > """
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Precision)
 
@@ -118,7 +118,7 @@ Summarize the following text. The quarterly results were great but revenue dropp
 
 _Result: The AI might get confused, summarize the instruction itself, or provide a disjointed response because the command and data are tangled together._
 
-<br>
+\
 
 ### ✅ After (Wrapping with tags)
 

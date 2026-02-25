@@ -43,7 +43,7 @@ Utilisez ceci pour nettoyer rapidement une petite fonction ou un script simple.
 > **Rôle :** Tu es un `[Développeur Senior expert en Clean Code]`.
 > **Tâche :** Refactorise ce `[bloc de code]` pour le rendre plus lisible et optimisé, sans changer son comportement. Fournis le code corrigé et de brefs commentaires.
 
-<br>
+\
 
 ### 🥇 Version Pro
 
@@ -86,7 +86,7 @@ L'erreur la plus commune lors du refactoring avec l'IA est de lui demander de "t
   - R : Il est recommandé d'utiliser des versions Enterprise (qui garantissent que vos données ne servent pas à l'entraînement) ou de passer par des API sécurisées. Pour les projets ultra-confidentiels, l'utilisation de modèles locaux (comme Llama 3) est la meilleure alternative.
 
 - **Q : L'IA peut-elle comprendre l'architecture globale de mon projet ?**
-  - R : Les modèles modernes avec un large contexte (Gemini 1.5/2.5 Pro) ou les IDE "agentiques" (Cursor, Windsurf) peuvent analyser des dossiers entiers. Cependant, pour un prompt isolé, pensez toujours à fournir les interfaces et dépendances clés.
+  - R : Les modèles modernes avec un large contexte (Gemini 2.5/2.5 Pro) ou les IDE "agentiques" (Cursor, Windsurf) peuvent analyser des dossiers entiers. Cependant, pour un prompt isolé, pensez toujours à fournir les interfaces et dépendances clés.
 
 ---
 

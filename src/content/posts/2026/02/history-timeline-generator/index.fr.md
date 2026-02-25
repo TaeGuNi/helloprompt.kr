@@ -42,7 +42,7 @@ Utilisez cette version pour obtenir rapidement un aperçu général.
 > **Rôle :** Tu es un historien et un expert en vulgarisation de données.
 > **Demande :** Organise les événements majeurs concernant `[Sujet/Époque]` sous forme de chronologie claire, en soulignant les relations de cause à effet.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

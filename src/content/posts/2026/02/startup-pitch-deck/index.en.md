@@ -43,7 +43,7 @@ Use this when you accidentally bump into an investor, or when you need to write 
 > **Task:** Write an **"Elevator Pitch"** script that explains my business idea to an investor in 30 seconds. Start with a powerful hook in the first sentence, and keep it extremely concise in the order of Problem - Solution - Market - Team.
 > **My Idea:** `[An AI app that analyzes a dog's bark to report its emotions and health status]`
 
-<br>
+\
 
 ### 🥇 Pro Version (10-Slide Structure)
 

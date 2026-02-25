@@ -13,7 +13,7 @@ tags: ["태그1", "태그2"]
 
 - **🎯 Público objetivo:** Escritores de novelas web, guionistas, autores con bloqueo creativo
 - **⏱️ Tiempo estimado:** 30 minutos → 3 minutos
-- **🤖 Modelos recomendados:** Claude 3.5 Sonnet, ChatGPT (GPT-4o), Gemini 1.5 Pro
+- **🤖 Modelos recomendados:** Claude 3.5 Sonnet, ChatGPT (GPT-4o), Gemini 2.5 Pro
 
 - ⭐ **Dificultad:** ⭐⭐☆☆☆
 - ⚡️ **Eficacia:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Escribir una novela web es un maratón, y es completamente normal enfrentarse al
 > **Rol:** Eres un exitoso autor de novelas web.
 > **Tarea:** Genera una idea de trama para una novela de género `[Género, ej. Fantasía de Venganza]`. Incluye un protagonista, su motivación principal, un giro inesperado y el objetivo final.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Profesional)
 

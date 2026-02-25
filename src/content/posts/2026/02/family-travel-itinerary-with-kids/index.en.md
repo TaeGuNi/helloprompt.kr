@@ -43,7 +43,7 @@ Use this when you need quick results without the fuss.
 >
 > **Request:** Create a family-friendly travel itinerary that protects the children's stamina and the parents' peace of mind.
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -87,7 +87,7 @@ Planning a trip with kids often feels like preparing for a military operation. I
   - A: Absolutely. Just be sure to specify the exact age (e.g., "7-month-old infant") in the `[Child Ages]` variable. The AI will adapt by prioritizing nursing rooms and stroller-friendly pathways over active playgrounds.
 
 - **Q: How accurate is the AI when recommending 'Yes-Kids Zones'?**
-  - A: While top-tier models like GPT-4 or Gemini 1.5 Pro are generally accurate, local business policies can change. I highly recommend doing a quick 1-minute Google Maps check or making a phone call to the specific restaurants suggested just to be 100% sure before you arrive.
+  - A: While top-tier models like GPT-4 or Gemini 2.5 Pro are generally accurate, local business policies can change. I highly recommend doing a quick 1-minute Google Maps check or making a phone call to the specific restaurants suggested just to be 100% sure before you arrive.
 
 ---
 
@@ -103,18 +103,18 @@ Planning a trip with kids often feels like preparing for a military operation. I
 
 ### ❌ Before (Input)
 
-> "Plan a 3-day family trip to Da Nang with a 4-year-old."
+"Plan a 3-day family trip to Da Nang with a 4-year-old."
 
 _(Result: A densely packed, exhausting schedule featuring 4-5 tourist attractions per day, long travel times, and zero mention of kid-friendly dining options.)_
 
 ### ✅ After (Result)
 
 > **Day 1: Arrival & Resort Relaxation**
->
-> - **Morning (10:00 AM):** Arrival & Check-in / Settle into the room.
-> - **Lunch (12:30 PM):** Madame Lan (Kid-friendly non-spicy Pho, high chairs available ✅)
-> - **Afternoon (3:00 PM):** Resort Kids Pool & Cabana Rest (Stroller accessible ✅)
-> - **Remarks:** Family Care Clinic located 10 mins away from the resort.
+
+- **Morning (10:00 AM):** Arrival & Check-in / Settle into the room.
+- **Lunch (12:30 PM):** Madame Lan (Kid-friendly non-spicy Pho, high chairs available ✅)
+- **Afternoon (3:00 PM):** Resort Kids Pool & Cabana Rest (Stroller accessible ✅)
+- **Remarks:** Family Care Clinic located 10 mins away from the resort.
 
 ---
 

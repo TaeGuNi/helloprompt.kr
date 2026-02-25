@@ -43,7 +43,7 @@ Use isto quando precisar decifrar e entender imediatamente o código complexo de
 >
 > **Solicitação:** "Explique passo a passo, usando analogias, qual é o papel deste código em todo o sistema e como ele funciona internamente, de uma forma que até mesmo um desenvolvedor júnior consiga entender. Além disso, aponte quaisquer bugs em potencial ou gargalos de desempenho."
 
-<br>
+\
 
 ### 🥇 Versão Pro (Prototipagem de UI com Artifacts)
 

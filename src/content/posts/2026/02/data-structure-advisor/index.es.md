@@ -49,7 +49,7 @@ Si le explicas tu situación a la IA, esta evaluará la complejidad temporal y l
 > **Rol:** Eres un profesor experto en Ciencias de la Computación y Algoritmos.
 > **Solicitud:** Tengo problemas para decidir qué estructura de datos usar. Te daré mi situación y quiero que me recomiendes la mejor estructura de datos para almacenar y gestionar mi información.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -114,7 +114,7 @@ En mi experiencia como desarrollador, he visto cómo sistemas enteros colapsan e
 
 ### ❌ Antes (La duda)
 
-> "Necesito guardar 1 millón de IDs de usuarios. No puede haber IDs repetidos y quiero comprobar muy rápido si un ID en particular ya está registrado o no."
+"Necesito guardar 1 millón de IDs de usuarios. No puede haber IDs repetidos y quiero comprobar muy rápido si un ID en particular ya está registrado o no."
 
 ### ✅ Después (El resultado de la IA)
 

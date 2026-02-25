@@ -43,7 +43,7 @@ Las consultas SQL que eran instantáneas al principio pueden convertirse en aut�
 > **Solicitud:** Analiza la siguiente consulta, optimiza su rendimiento y recomiéndame los índices necesarios para que vuele.
 > **Consulta:** `[Pega tu SQL aquí]`
 
-<br>
+\
 
 ### 🥇 Versión Pro (Expert Version)
 

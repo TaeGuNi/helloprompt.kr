@@ -43,7 +43,7 @@ Idéal pour une réponse rapide face à une situation d'urgence émotionnelle.
 >
 > **Tâche :** Mon enfant est triste car un ami a refusé de jouer avec lui. Donne-moi des mots simples et réconfortants pour lui expliquer que ce n'est pas de sa faute et pour l'aider à passer à autre chose positivement.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 

@@ -44,7 +44,7 @@ Para atrasos leves ou omissões simples no dia a dia.
 > **Situação:** Eu me atrasei `[10 minutos para a reunião de alinhamento]`.
 > **Pedido:** Escreva uma mensagem curta de desculpas para o meu chefe. Não dê desculpas esfarrapadas e inclua brevemente o que farei para compensar ou evitar que aconteça novamente.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

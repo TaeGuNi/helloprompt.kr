@@ -43,7 +43,7 @@ Verwende diese Version für schnelle Tests und einfache Suchanfragen.
 > **Rolle:** Du bist ein `[Research-Agent]`.
 > **Aufgabe:** Führe eine Websuche zur `[Benutzerfrage]` durch und fasse die Ergebnisse faktenbasiert zusammen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Version)
 

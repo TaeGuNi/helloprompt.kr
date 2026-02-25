@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "ai-scraping-block"]
 
 - **🎯 Consigliato per:** Sviluppatori AI, Data Scientist, Ricercatori
 - **⏱️ Tempo richiesto:** 20 minuti → 1 minuto
-- **🤖 Modelli raccomandati:** GPT-4, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modelli raccomandati:** GPT-4, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Difficoltà:** ⭐⭐☆☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -43,7 +43,7 @@ Usa questa versione per un'analisi rapida e diretta.
 > **Ruolo:** Sei un esperto di Web Scraping e Conformità Dati.
 > **Richiesta:** Analizza la policy del sito `[URL del sito]` e dimmi se posso raccogliere i loro dati per addestrare un modello AI in totale sicurezza.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

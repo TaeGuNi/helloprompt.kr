@@ -42,7 +42,7 @@ Redactar correos electrónicos de negocios, especialmente cuando se trata de rec
 > **Rol:** Eres un `[Asistente Ejecutivo Experto]`.
 > **Tarea:** Redacta una respuesta de correo electrónico profesional y cortés para `[rechazar la propuesta de reunión / solicitar un cambio de fecha]`. El correo original trata sobre `[tema del correo]`.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

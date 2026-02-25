@@ -42,7 +42,7 @@ Verwenden Sie diesen Prompt, wenn Sie sofort eine kompakte Liste benötigen.
 > **Rolle:** Du bist ein erfahrener 'Experte für minimalistisches Packen'.
 > **Anfrage:** Erstelle mir eine smarte, minimalistische Packliste für eine `[Reisedauer]`-Reise nach `[Reiseziel]`. Das Wetter dort ist `[Wetterbedingung]`. Ich reise nur mit Handgepäck.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für maximale Effizienz und Detailtiefe)
 
@@ -74,13 +74,13 @@ Nutzen Sie diese Variante, wenn Sie den Platz in Ihrem Handgepäck bis auf den l
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 Das Geheimnis dieses Prompts liegt in den **Constraints (Einschränkungen)**. Wenn man die KI einfach nur bittet, eine Packliste zu erstellen, erhält man oft Standardantworten, die Föhns, dicke Pullover und drei Paar Schuhe beinhalten. Indem wir der KI jedoch die strikte Vorgabe machen ("nur Handgepäck", "Wash-and-Wear-Prinzip" und "Flüssigkeitsbeschränkungen"), zwingen wir sie, wie ein echter Backpacker zu denken. In der Praxis hat mir dieser Prompt geholfen, mein Gepäck von einem 20-kg-Koffer auf einen schlanken 30-Liter-Rucksack zu reduzieren – das spart am Flughafen locker eine Stunde Wartezeit am Gepäckband!
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q: Kann die KI auch spezielle Ausrüstung (z. B. für Fotografie oder Wandern) berücksichtigen?**
   - A: Ja, absolut! Fügen Sie unter 'Kontext' einfach hinzu, dass Sie spezielles Equipment mitführen. Die KI wird das restliche Gepäck entsprechend noch minimalistischer planen, um das strenge Gewichtslimit nicht zu überschreiten.

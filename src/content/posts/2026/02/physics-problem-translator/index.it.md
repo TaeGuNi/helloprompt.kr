@@ -43,7 +43,7 @@ Usala quando hai fretta e vuoi solo capire che formula applicare al volo.
 > **Richiesta:** Leggi il seguente problema di fisica, dimmi quali sono i dati, cosa devo trovare e quale formula devo usare per risolverlo.
 > **Problema:** `[Inserisci qui il testo del problema]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 
@@ -75,13 +75,13 @@ Usala per comprendere profondamente la logica dietro il problema, ideale per pre
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 La vera utilità di questo prompt non sta nel farsi risolvere i compiti, ma nel superare il "blocco dello scrittore" matematico. Spesso gli studenti sanno fare i calcoli, ma non sanno da dove iniziare. Utilizzando questo framework in 4 step, si allena la mente a scomporre sistematicamente i problemi complessi in pezzi gestibili. È eccezionale per chi studia Ingegneria o Fisica al primo anno: ti insegna a pensare come un fisico, concentrandoti sulla modellazione piuttosto che sul mero calcolo numerico.
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q: Posso usarlo per problemi di fisica quantistica o termodinamica?**
   - A: Assolutamente sì! Il framework logico (estrarre variabili, trovare condizioni nascoste, impostare la strategia) è universale. Ricordati solo di specificare nel "Ruolo" la branca della fisica corretta (es. "Professore di Termodinamica").

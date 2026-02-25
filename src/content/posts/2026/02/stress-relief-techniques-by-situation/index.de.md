@@ -42,7 +42,7 @@ Nutzen Sie diese Variante, wenn Sie einfach nur schnelle, pragmatische Tipps bra
 > **Rolle:** Du bist ein erfahrener Psychotherapeut mit fundierten Kenntnissen in der Neurowissenschaft.
 > **Anfrage:** Ich bin gerade extrem gestresst. Nenne mir wissenschaftlich bewiesene, sofort anwendbare Techniken zum Stressabbau, die besser funktionieren als bloßes Frustessen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenmodus)
 
@@ -104,7 +104,7 @@ Dieser Prompt ist ein echter Lebensretter für genau solche **Mikro-Stress-Momen
 
 ### ❌ Vorher (Einfache Eingabe)
 
-> "Ich bin gerade total wütend auf meinen Chef, sitze aber im Büro. Was soll ich tun?"
+"Ich bin gerade total wütend auf meinen Chef, sitze aber im Büro. Was soll ich tun?"
 
 **Ergebnis:** (Standard-Floskeln der KI)
 "Versuchen Sie, tief durchzuatmen. Trinken Sie ein Glas Wasser. Gehen Sie spazieren oder sprechen Sie später in Ruhe mit Ihrem Chef über das Problem." _(→ Nicht hilfreich in der akuten Situation)_

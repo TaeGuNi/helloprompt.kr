@@ -43,7 +43,7 @@ Usala quando hai bisogno di idee rapide e di forte impatto per il copy principal
 > **Contesto:** Sto scrivendo il copy principale (Headline) per la landing page di una `[App per imparare l'inglese con l'IA]`. Il target è `[Professionisti con il terrore di parlare in inglese in pubblico]`.
 > **Azione:** Scrivi 5 headline d'impatto che catturino l'attenzione, enfatizzando il valore chiave: "Parla fluentemente in inglese anche senza interagire con un madrelingua".
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

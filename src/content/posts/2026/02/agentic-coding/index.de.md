@@ -43,7 +43,7 @@ Verwenden Sie diese Version, wenn Sie nur schnell das Grundgerüst einer einzeln
 > **Rolle:** Du bist ein erfahrener Senior Developer, spezialisiert auf `[Next.js]`.
 > **Aufgabe:** Füge unserem aktuellen Projekt eine `[Funktion zur Erfassung von Nutzer-Feedback]` hinzu. Erstelle automatisch alle dafür notwendigen UI-Komponenten und API-Routen und verknüpfe sie korrekt.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für den produktiven Einsatz)
 

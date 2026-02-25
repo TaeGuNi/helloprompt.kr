@@ -43,7 +43,7 @@ Usala quando hai poco tempo e ti serve una riorganizzazione immediata.
 > **Ruolo:** Sei un career coach esperto e consulente per colloqui di lavoro.
 > **Richiesta:** Riorganizza questo mio racconto utilizzando rigorosamente la tecnica STAR (Situazione, Compito, Azione, Risultato). Rendi il discorso logico, conciso e privo di divagazioni: `[INSERISCI QUI LA TUA ESPERIENZA]`
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

@@ -41,7 +41,7 @@ Use this when you need a quick overview of which local AI framework suits your a
 > **Role:** You are a Mobile AI Engineer.
 > **Task:** Recommend the best on-device AI framework (e.g., `llama.cpp`, MLC LLM, ExecuTorch) for a `[iOS/Android/Cross-platform]` app that does `[Core Feature]`. Explain the pros and cons simply.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

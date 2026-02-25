@@ -42,7 +42,7 @@ Usala quando hai poco tempo e vuoi un'analisi rapida delle tue abitudini.
 > **Ruolo:** Sei un medico esperto in medicina del sonno e uno psicologo comportamentale.
 > **Richiesta:** Soffro di insonnia. Analizza la mia routine quotidiana `[Sveglia alle 8:00, 3 caffè al giorno, smartphone a letto fino a tardi]` e dimmi quali sono i 3 errori principali che sto commettendo, suggerendomi come risolverli.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Professional Version)
 

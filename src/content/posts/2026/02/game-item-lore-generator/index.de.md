@@ -13,7 +13,7 @@ tags: ["Spiel", "Gegenstand", "TRPG", "Planung", "Fantasie"]
 
 - **🎯 Empfohlen für:** Game Designer, TRPG-Spielleiter (Dungeon Master), Fantasy-Autoren
 - **⏱️ Zeitaufwand:** 30 Minuten Brainstorming → auf 2 Minuten verkürzt
-- **🤖 Empfohlenes Modell:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (besonders stark in kreativem Schreiben)
+- **🤖 Empfohlenes Modell:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (besonders stark in kreativem Schreiben)
 
 - ⭐ **Schwierigkeitsgrad:** ⭐⭐☆☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Verwenden Sie diese Version, wenn Sie mitten im Spiel spontan ein interessantes 
 > **Rolle:** Du bist ein meisterhafter Game Designer und Geschichtenerzähler für Dark Fantasy.
 > **Aufgabe:** Erschaffe ein einzigartiges Schwert, das nicht nur Werte erhöht, sondern ein faszinierendes Gimmick und einen gefährlichen Fluch besitzt.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Version)
 

@@ -42,7 +42,7 @@ Nombres comunes como 'Kim Cheol-su' o 'John Doe' destruyen el encanto y la inmer
 > **Rol:** Eres un novelista experto y un antropólogo especializado en onomástica.
 > **Solicitud:** Sugiere 5 nombres completos para un personaje con esta `[Personalidad/Rol]` en un entorno `[Época/Nacionalidad]`. Explica brevemente el significado de cada uno.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -111,7 +111,7 @@ La creación de nombres es, a menudo, el mayor cuello de botella en el proceso d
 
 ### ❌ Antes (Entrada Simple)
 
-> "Recomiéndame un nombre para un caballero bueno que pelea."
+"Recomiéndame un nombre para un caballero bueno que pelea."
 
 _(Resultado típico: "Arturo", "Leonidas", "Sir Galahad") - Aburrido, trillado y sin profundidad._
 

@@ -13,7 +13,7 @@ tags: ["TestCodage", "EntretienTechnique", "Algorithme", "PréparationEmploi"]
 
 - **🎯 Recommandé pour :** Développeurs juniors, candidats aux grandes entreprises tech (GAFAM/BATX), étudiants en informatique
 - **⏱️ Temps requis :** 5 minutes par problème
-- **🤖 Modèles recommandés :** ChatGPT (GPT-4), Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modèles recommandés :** ChatGPT (GPT-4), Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Difficulté :** ⭐⭐☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Idéal pour une vérification rapide après avoir résolu un problème d'algorit
 > **Rôle :** Tu es un `[Lead Developer chez Google]`.
 > **Demande :** J'ai écrit ce code pour `[nom du problème]`. Fais-moi passer un entretien technique blanc en me posant des questions pointues sur mon approche.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

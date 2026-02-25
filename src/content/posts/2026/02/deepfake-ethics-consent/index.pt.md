@@ -42,7 +42,7 @@ Use isso quando precisar elaborar rapidamente um rascunho de política ética ou
 > **Função:** Você é um especialista em Ética de IA em uma empresa de tecnologia.
 > **Tarefa:** Escreva os '5 Princípios Fundamentais para Proibir a Criação e Distribuição de Deepfakes Não Consensuais' para proteger os usuários do nosso serviço.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Especialista)
 

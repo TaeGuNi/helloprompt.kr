@@ -42,7 +42,7 @@ Utilisez cette version lorsque vous êtes pressé et avez besoin d'un brouillon 
 > **Rôle :** Tu es un Rédacteur en Chef expert en newsletters.
 > **Demande :** Rédige une newsletter captivante sur le sujet suivant : `[Votre Sujet]`. Propose un titre accrocheur, une introduction empathique et 3 points clés.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

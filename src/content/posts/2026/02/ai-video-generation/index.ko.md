@@ -11,7 +11,6 @@ tags: ["영상제작", "Sora", "Runway", "크리에이터", "Gen-4"]
 
 # 🎥 Sora vs Runway Gen-4: 텍스트로 영상 만들기, 어디까지 왔나?
 
-<!-- ⚠️ [Lint Rule] 이모지 리스트를 사용하세요. 표(Table) 사용 시 모바일에서 깨질 수 있습니다. -->
 
 - **🎯 추천 대상:** 영상 제작자, 콘텐츠 마케터, 유튜브 크리에이터
 - **⏱️ 소요 시간:** 10분 → 2분 단축
@@ -21,7 +20,6 @@ tags: ["영상제작", "Sora", "Runway", "크리에이터", "Gen-4"]
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
 - 🚀 **활용도:** ⭐⭐⭐⭐☆
 
-<!-- ⚠️ [Lint Rule] 인용구(>)는 Basic/Pro 섹션 외에는 이탤릭체(_..._)와 함께 사용해야 에러가 나지 않습니다. -->
 
 > _"머릿속에 맴돌던 압도적인 시각 효과, 이제 텍스트 몇 줄이면 헐리우드급 영상으로 눈앞에 펼쳐집니다."_
 
@@ -41,7 +39,6 @@ tags: ["영상제작", "Sora", "Runway", "크리에이터", "Gen-4"]
 
 ## 🚀 해결책: "시네마틱 영상 프롬프트 디렉터"
 
-<!-- ⚠️ [Lint Rule] 인용구(>)는 이곳(Prompt 섹션)에서만 프롬프트 박스로 변환됩니다. -->
 
 ### 🥉 Basic Version (기본형)
 
@@ -50,7 +47,7 @@ tags: ["영상제작", "Sora", "Runway", "크리에이터", "Gen-4"]
 > **프롬프트:**
 > `A cinematic drone shot of a futuristic cyberpunk city at sunset, flying cars, neon lights, 4k resolution, photorealistic`
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 

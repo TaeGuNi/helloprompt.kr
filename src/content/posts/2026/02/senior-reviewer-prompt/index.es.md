@@ -48,7 +48,7 @@ No se trata simplemente de pedirle a la IA que haga el trabajo por ti. Es la for
 > [Pega tu código aquí]
 > ```
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

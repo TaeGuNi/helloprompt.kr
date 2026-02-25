@@ -40,10 +40,10 @@ Vim no es solo un simple editor de texto; es un **"idioma"** entre el desarrolla
 Úsalo cuando necesites conectarte a un servidor, editar un archivo de configuración de emergencia y salir rápidamente sin destruir nada.
 
 > **Rol:** Eres un Ingeniero DevOps Senior experto en entornos de servidores Linux.
->
+
 > **Tarea:** Explícame paso a paso y con total precisión la secuencia de teclas para abrir el archivo `[nombre_del_archivo]` con Vim desde la terminal, buscar la palabra `[palabra_a_buscar]`, cambiarla por `[nuevo_contenido]`, guardar los cambios y salir del editor de forma segura. Por favor, resalta cada pulsación de tecla utilizando acentos graves (`).
 
-<br>
+\
 
 ### 🥇 Versión Pro (Maestro de la Productividad - Macros y Registros)
 

@@ -42,7 +42,7 @@ Use this when you need a quick bedtime story on the fly.
 > **Role:** You are a creative children's book author who can speak to inanimate objects.
 > **Request:** Write a short bedtime story about a secret midnight meeting held by a child's favorite toys.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

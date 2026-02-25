@@ -42,7 +42,7 @@ Verwenden Sie diesen Prompt, wenn Sie einfach nur schnell eine erste Idee brauch
 > **Rolle:** Du bist ein erfahrener lokaler Reiseführer für `[Stadtname]`.
 > **Anfrage:** Plane mir einen optimalen, eintägigen Reiseplan ohne unnötige Wegekreuzungen, damit ich den Tag wie ein Einheimischer genießen kann.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

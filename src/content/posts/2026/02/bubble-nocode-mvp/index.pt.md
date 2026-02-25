@@ -42,14 +42,14 @@ Agora, você não precisa mais procurar exaustivamente por um desenvolvedor. Com
 Use esta versão quando estiver travado e não souber como estruturar o Workflow de uma função específica no Bubble (ex: cadastro de usuário, pagamento).
 
 > **Role (Papel):** Você é um desenvolvedor especialista de nível Top 1% em Bubble.io.
->
+
 > **Context (Contexto):** Atualmente, estou criando a página de `[cadastro e onboarding]`.
->
+
 > **Task (Tarefa):** Quando o usuário clicar no botão 'Cadastrar', explique detalhadamente, em ordem numérica, os **passos do Workflow do Bubble** para: 1) Verificar se as senhas coincidem, 2) Salvar as informações do usuário no banco de dados, 3) Enviar um e-mail de boas-vindas e 4) Redirecionar para a tela 'Home'.
->
+
 > **Constraints (Restrições):** Explique com base na interface do usuário (UI), indicando exatamente qual menu (Action) no editor do Bubble eu devo clicar.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Arquitetura e DB de Todo o Serviço)
 

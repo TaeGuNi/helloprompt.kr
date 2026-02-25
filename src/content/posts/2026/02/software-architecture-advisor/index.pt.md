@@ -42,7 +42,7 @@ Use isso quando precisar de um ponto de partida rápido para projetos pequenos.
 > **Papel:** Você é um Engenheiro de Software Sênior e Arquiteto de Sistemas.
 > **Solicitação:** Recomende a melhor arquitetura e a estrutura de pastas para um projeto de `[inserir breve descrição do projeto, ex: app de to-do em React]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

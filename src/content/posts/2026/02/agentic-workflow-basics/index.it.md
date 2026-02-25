@@ -13,7 +13,7 @@ tags: ["AI 에이전트", "자동화", "생산성", "워크플로우"]
 
 - **🎯 Consigliato per:** Imprenditori individuali, freelance, project manager e marketer sovraccarichi di lavoro.
 - **⏱️ Tempo richiesto:** 1 ora → 5 minuti (inclusa pianificazione e revisione)
-- **🤖 Modello consigliato:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro (si raccomandano vivamente modelli avanzati con elevate capacità di ragionamento)
+- **🤖 Modello consigliato:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro (si raccomandano vivamente modelli avanzati con elevate capacità di ragionamento)
 
 - ⭐ **Difficoltà:** ⭐⭐⭐☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -45,7 +45,7 @@ Utilizzatela quando avete bisogno di definire rapidamente la struttura del proge
 >
 > **Task (Richiesta):** Per raggiungere con successo l'`[Obiettivo del progetto]`, pianifica 3 milestone chiave. Struttura in formato tabella i professionisti (ruoli) che devono essere coinvolti in ciascuna fase e le azioni specifiche che dovranno intraprendere.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 
@@ -88,7 +88,7 @@ In particolar modo, forzando la persona del "Critico Capo", il modello riesce a 
 ## 🙋 Domande Frequenti (FAQ)
 
 - **D: Funziona bene anche sui modelli gratuiti (ad es. la versione free di ChatGPT)?**
-  - R: Funziona, tuttavia i limiti di performance si fanno evidenti fin da subito. Questo prompt necessita di elevate capacità di "ragionamento" e di "mantenimento del contesto". Per evitare che l'AI faccia confusione tra i 3 ruoli, si raccomanda caldamente l'utilizzo di modelli top di gamma quali GPT-4o, Claude 3.5 Sonnet o Gemini 1.5 Pro.
+  - R: Funziona, tuttavia i limiti di performance si fanno evidenti fin da subito. Questo prompt necessita di elevate capacità di "ragionamento" e di "mantenimento del contesto". Per evitare che l'AI faccia confusione tra i 3 ruoli, si raccomanda caldamente l'utilizzo di modelli top di gamma quali GPT-4o, Claude 3.5 Sonnet o Gemini 2.5 Pro.
 
 - **D: E se l'AI ignorasse le mie istruzioni e scrivesse tutto l'output in un colpo solo?**
   - R: È un'evenienza che ogni tanto si verifica. In tal caso, provate ad aggiungere questa frase all'interno della sezione Task (Richiesta): _"Alla fine di ogni Phase, prima di procedere alla successiva, attendi la mia esplicita approvazione"_. Questo innalzerà drasticamente il vostro livello di controllo sul processo.

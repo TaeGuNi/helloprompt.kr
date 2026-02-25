@@ -40,7 +40,7 @@ Nutzen Sie diese Basis-Struktur, wenn Sie schnell Bild, Ton oder Video mit einer
 > **Eingabe:** `[Angehängtes Bild / Audio / Video]`
 > **Anfrage:** Optimiere den markierten Bereich in dieser Datei.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Level)
 
@@ -88,7 +88,7 @@ Das spart endloses Tippen von CSS-Klassen und komplexen Beschreibungen. Diese Me
   - A: Ja! Native Audio-Modelle (wie der Voice Mode von GPT-4o oder Gemini's Audio-Eingabe) erfassen Dringlichkeit, Zögern oder Enthusiasmus. Wenn Sie panisch klingen, fällt die Antwort kürzer und prägnanter aus; bei einem ruhigen Tonfall erhalten Sie ausführlichere Erklärungen.
 
 - **F: Kann ich ein einstündiges Meeting-Video als Prompt hochladen?**
-  - A: Absolut. Modelle wie Gemini 1.5/2.5 Pro können dank riesiger Kontextfenster (über 1 bis 2 Millionen Token) ganze Filme analysieren. Für schnellere Antworten ist es jedoch Best Practice, die relevanten Zeitstempel (z. B. `[15:30 - 17:00]`) direkt im Prompt mit anzugeben.
+  - A: Absolut. Modelle wie Gemini 2.5/2.5 Pro können dank riesiger Kontextfenster (über 1 bis 2 Millionen Token) ganze Filme analysieren. Für schnellere Antworten ist es jedoch Best Practice, die relevanten Zeitstempel (z. B. `[15:30 - 17:00]`) direkt im Prompt mit anzugeben.
 
 ---
 
@@ -120,7 +120,7 @@ Ergebnis: Perfekter, isolierter Tailwind-Code exakt für das gewünschte Element
 
 ---
 
-## 🎯 결론 (Fazit)
+## 🎯 Conclusion (Fazit)
 
 Multimodales Prompting ist der evolutionäre Sprung von der starren Kommandozeile zur fließenden, grafischen Interaktion. Nutzen Sie Bilder, Videos und Ihre Stimme als Werkzeuge, um Ihre Gedanken direkt und verlustfrei in die Maschine zu übertragen.
 

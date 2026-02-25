@@ -42,7 +42,7 @@ Nutzen Sie diese Variante, wenn Sie schnell und unkompliziert starten möchten.
 > **Rolle:** Du bist ein professioneller Ernährungsberater, spezialisiert auf die ketogene (LCHF) Diät.
 > **Anfrage:** Erstelle mir einen einfachen Leitfaden, um mit der Keto-Diät zu beginnen, inklusive eines beispielhaften Tagesplans ohne komplizierte Makro-Berechnungen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

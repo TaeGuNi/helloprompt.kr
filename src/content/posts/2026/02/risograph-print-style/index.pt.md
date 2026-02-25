@@ -43,7 +43,7 @@ Use esta versão para testes rápidos de conceito ou quando a precisão absoluta
 > **Papel:** Você é um `[Especialista em Arte Digital e Impressão Vintage]`.
 > **Solicitação:** Crie uma imagem com o tema `[TEMA DA IMAGEM]` utilizando um autêntico estilo de impressão Risograph, destacando a textura granulada do papel e cores vibrantes, porém com uma paleta rigorosamente limitada.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert)
 

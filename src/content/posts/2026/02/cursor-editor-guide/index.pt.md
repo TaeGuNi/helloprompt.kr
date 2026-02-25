@@ -44,7 +44,7 @@ Use isto quando precisar de uma modificação instantânea ou de um código boil
 > **Prompt:**
 > Refatore a função selecionada atualmente para usar o formato assíncrono (`async/await`) e adicione uma lógica detalhada de tratamento de erros utilizando blocos `try-catch`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Refatoração de Toda a Base de Código)
 

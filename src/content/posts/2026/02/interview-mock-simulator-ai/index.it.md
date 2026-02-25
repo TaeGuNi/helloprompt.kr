@@ -43,7 +43,7 @@ Usala quando hai poco tempo e vuoi un setup immediato per testare le tue rispost
 > **Ruolo:** Sei un selezionatore con 10 anni di esperienza presso `[Nome Azienda Target]`. Sei esigente, logico e abile nello smascherare le incongruenze e le risposte vaghe dei candidati.
 > **Richiesta:** Conduci un colloquio di lavoro per la posizione di `[Ruolo Desiderato]`. Fammi una sola domanda alla volta e incalzami con domande di follow-up persistenti in base alle mie risposte.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

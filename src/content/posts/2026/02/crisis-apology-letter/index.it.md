@@ -44,7 +44,7 @@ Ideale per piccoli ritardi quotidiani o dimenticanze minori (es. ritardo a un me
 > **Situazione:** `[Sono arrivato con 15 minuti di ritardo alla riunione su Zoom]`.
 > **Richiesta:** Scrivi un breve messaggio di scuse al mio `[manager/team]`. Non cercare scuse o giustificazioni, ammetti l'errore e indica subito come intendo procedere (es. "Ho recuperato gli appunti e mi metto subito al lavoro sulla task X"). Tono umile ma operativo.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta per Incidenti Gravi / Reclami)
 
@@ -105,7 +105,7 @@ Costringendo l'IA a usare il framework delle "3A", l'attenzione viene immediatam
 
 ### ❌ Prima (Il disastro emotivo)
 
-> Gentile Dott. Rossi, mi scusi tanto per il ritardo. Purtroppo c'è stato un bug improvviso che ci ha fatto perdere tutti i dati e non è dipeso da noi. Stiamo cercando di sistemare tutto il prima possibile. Mi spiace ancora per il disagio.
+Gentile Dott. Rossi, mi scusi tanto per il ritardo. Purtroppo c'è stato un bug improvviso che ci ha fatto perdere tutti i dati e non è dipeso da noi. Stiamo cercando di sistemare tutto il prima possibile. Mi spiace ancora per il disagio.
 
 ### ✅ Dopo (L'approccio dell'IA Professionale)
 

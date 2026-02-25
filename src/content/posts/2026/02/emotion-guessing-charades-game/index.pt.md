@@ -49,7 +49,7 @@ Use isto para gerar ideias rápidas antes de começar a brincadeira.
 > **Papel:** Você é um psicólogo infantil e um especialista em teatro.
 > **Solicitação:** Sugira 5 situações curtas para um jogo de mímica focado em desenvolver a empatia e a expressão emocional de uma criança de 5 anos.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 
@@ -111,7 +111,7 @@ A grande mágica deste prompt não está apenas em gerar encenações, mas na ex
 
 ### ❌ Antes (Input Simples)
 
-> "Me dê ideias para brincar de adivinhar emoções com meu filho."
+"Me dê ideias para brincar de adivinhar emoções com meu filho."
 
 **(Resultado Típico do Antes)**
 

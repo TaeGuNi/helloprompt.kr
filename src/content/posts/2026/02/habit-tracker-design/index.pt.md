@@ -42,7 +42,7 @@ Use esta versão quando precisar de um resultado rápido e direto.
 > **Papel:** Você é um Psicólogo Comportamental e Especialista em Formação de Hábitos. Baseie seus conselhos na teoria de "Hábitos Atômicos" de James Clear.
 > **Solicitação:** Desenvolva um sistema de formação de hábitos baseado na neurociência que não dependa exclusivamente da força de vontade, focado no objetivo de `[Seu Objetivo]`.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert Version)
 

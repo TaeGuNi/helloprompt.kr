@@ -43,7 +43,7 @@ Use this when you need to convey urgency without coming across as demanding or o
 > **Original Sentence:** `[Give me the report by tomorrow.]`
 > **Request:** Rewrite this sentence to be **polite, professional, and diplomatic**, suitable for a senior executive or an important client. Please provide 3 different variations ranging from casual to highly formal.
 
-<br>
+\
 
 ### 🥇 Pro Version (The Diplomat)
 

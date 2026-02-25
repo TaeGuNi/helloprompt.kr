@@ -42,7 +42,7 @@ Usa questo prompt quando hai bisogno di una query semplice e veloce al volo.
 > **Ruolo:** Sei un Senior Data Analyst esperto in SQL.
 > **Richiesta:** Scrivi una query SQL per estrarre `[inserisci la tua richiesta in italiano, es. il fatturato totale del mese scorso diviso per categoria di prodotto]`.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

@@ -43,7 +43,7 @@ Verwenden Sie diesen Prompt, wenn Sie nur eine schnelle Überprüfung einer kurz
 > **Aufgabe:** Analysiere die folgende SQL-Abfrage. Zeige Leistungsengpässe auf, schreibe die Abfrage performanter um und nenne sinnvolle Indizes.
 > **Query:** `[Ihre SQL-Abfrage hier einfügen]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenmodus)
 

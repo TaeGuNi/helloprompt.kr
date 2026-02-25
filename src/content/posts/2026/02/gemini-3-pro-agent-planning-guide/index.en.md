@@ -5,25 +5,21 @@ author: "Unifactory Agent"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "AI Agent"
-description: " \"Planning precedes coding. Discover how to leverage Gemini 3 Pro's Deep Think mode to transform vague ideas into concrete, developer-ready AI agent specifications.\""
+description: "Planning precedes coding. Discover how to leverage Gemini 3 Pro's Deep Think mode to transform vague ideas into concrete, developer-ready AI agent specifications."
 tags: ["Gemini 3 Pro", "AI Agent", "Planning", "Prompt Engineering"]
 ---
 
 # 🤖 Gemini 3 Pro: Architecting the Perfect AI Agent with 'Deep Think'
 
-<!-- ⚠️ [Lint Rule] 이모지 리스트를 사용하세요. 표(Table) 사용 시 모바일에서 깨질 수 있습니다. -->
-
-- **🎯 Target Audience:** PMs preparing for internal AI adoption, junior engineers developing AI agents, and solopreneurs
-- **⏱️ Time Saved:** From 3 days of back-and-forth planning → down to just 15 minutes
-- **🤖 Recommended Model:** **Gemini 3 Pro (Deep Think Mode)**, OpenAI o3-high
+- **🎯 Target Audience:** Product Managers preparing for AI adoption, Junior Engineers building AI agents, and Solopreneurs.
+- **⏱️ Time Saved:** From 3 days of back-and-forth planning → down to just 15 minutes.
+- **🤖 Recommended Model:** **Gemini 3 Pro (Deep Think Mode)**, OpenAI o3-high.
 
 - ⭐ **Difficulty:** ⭐⭐⭐☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
 - 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-<!-- ⚠️ [Lint Rule] 인용구(>)는 Basic/Pro 섹션 외에는 이탤릭체(_..._)와 함께 사용해야 에러가 나지 않습니다. -->
-
-> _"AI agent projects don't derail because of the AI's lack of intelligence. They fail because of the countless 'edge cases' left undefined in your product specs."_
+> _"AI agent projects don't derail because the AI lacks intelligence. They fail because of the countless 'edge cases' left undefined in your product specs."_
 
 "Build a chatbot that finds company documents." or "Create an agent that automatically invests in stocks for me."
 Vague requirements like these are incredibly common in the field, and they drive developers to despair. How should exceptions be handled? Are permission levels separated? Which APIs need to be called? These critical details are often completely ignored during the planning phase.
@@ -35,14 +31,12 @@ This is exactly where Gemini 3 Pro's **'Deep Think'** mode shines. Moving far be
 ## ⚡️ 3-Line Summary (TL;DR)
 
 1. **Never Code Blindly:** Building an agent without defining its persona, tools, and edge cases is a recipe for disaster.
-2. **Leverage Reverse Prompting:** Don't just ask the AI for an answer. Force it to ask *you* piercing questions that expose the gaps in your logic.
-3. **The Power of Deep Think:** Gemini 3 Pro currently offers unparalleled performance when it comes to reasoning through complex constraints and designing robust workflows.
+2. **Leverage Reverse Prompting:** Don't just ask the AI for an answer. Force it to ask *you* piercing questions that expose gaps in your logic.
+3. **The Power of Deep Think:** Gemini 3 Pro currently offers unparalleled performance when reasoning through complex constraints and designing robust workflows.
 
 ---
 
 ## 🚀 Solution: "The AI Agent Architect" Prompt
-
-<!-- ⚠️ [Lint Rule] 인용구(>)는 이곳(Prompt 섹션)에서만 프롬프트 박스로 변환됩니다. -->
 
 ### 🥉 Basic Version
 
@@ -52,17 +46,17 @@ Perfect for quickly sketching out the skeleton of an idea during a meeting.
 > **Task:** Based on the `[idea]` I provide, outline 3 essential features this AI agent must have and identify 1 potential major challenge during development.
 > **Idea:** `[Insert a brief description of the agent you want to build]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Deep Think Optimized)
 
 Use this when you need a comprehensive, bulletproof specification ready to be handed off to an engineering team. This structure fully exploits Gemini 3 Pro's multi-step reasoning capabilities.
 
-> **Role:**
+> **Role (Role):**
 > You are a **Senior AI Solutions Architect** with 20 years of experience at a top-tier Silicon Valley tech giant.
 > Your objective is to analyze the user's abstract, vague requirements and generate a **flawless AI Agent Specification (PRD)** that engineers can immediately implement.
 >
-> **Task:**
+> **Task (Task):**
 > When the user inputs a `[Project Idea]`, DO NOT write the specification immediately. You must strictly follow the 2-step Chain of Thought process below.
 >
 > **Step 1: Deep Analysis & Interrogation**
@@ -82,7 +76,7 @@ Use this when you need a comprehensive, bulletproof specification ready to be ha
 >   5. **Edge Cases & Error Handling:** 3 major anticipated errors and their corresponding mitigation scenarios.
 >   6. **Few-Shot Examples:** Ideal conversation flows (1 successful case, 1 failure recovery case).
 >
-> **Constraints:**
+> **Constraints (Constraints):**
 >
 > - Maintain the professional, objective tone of a Lead Architect.
 > - Avoid fluff. Approach the design from a strictly technical and pragmatic perspective (focusing on cost, latency, and scalability).
@@ -93,19 +87,15 @@ Use this when you need a comprehensive, bulletproof specification ready to be ha
 
 ---
 
-<!-- ✅ [Lint Rule] 필수 섹션입니다. 누락 시 CI 에러가 발생합니다. -->
-
 ## 💡 Writer's Insight
 
-The true value of this prompt isn't just that it produces a nice-looking document—it's that it **pre-emptively strikes at the blind spots** of your planning.
+The true value of this prompt isn't just that it produces a nice-looking document—it's that it **preemptively strikes at the blind spots** of your planning phase.
 
-A standard prompt will usually spit out a plausible (but ultimately hollow) spec sheet when you say "build this." But when you feed the Pro prompt into Gemini 3 Pro, it starts acting like a meticulous Lead Developer. When I actually used this to plan an internal HR bot, Gemini stopped me and asked: _"If an employee asks for the salary or leave balance of a **colleague** rather than their own, how is the access control and authorization structured?"_
+A standard prompt will usually spit out a plausible (but ultimately hollow) spec sheet when you simply say "build this." But when you feed the Pro version into Gemini 3 Pro, it starts acting like a meticulous Lead Developer. When I actually used this to plan an internal HR bot, Gemini stopped me and asked: _"If an employee asks for the salary or leave balance of a **colleague** rather than their own, how is the access control and authorization structured?"_
 
 It caught a critical security flaw before a single line of code was written. The quality of your output is entirely dependent on the quality of the questions asked, and this prompt perfectly delegates that interrogative heavy lifting to the AI.
 
 ---
-
-<!-- ⚠️ [Lint Rule] 권장 섹션입니다. 누락 시 경고가 발생합니다. -->
 
 ## 🙋 Frequently Asked Questions (FAQ)
 
@@ -122,9 +112,9 @@ It caught a critical security flaw before a single line of code was written. The
 
 ## 🧬 Prompt Anatomy (Why it works?)
 
-1.  **Forced Chain-of-Thought:** By strictly dividing the task into `Step 1 (Ask)` and `Step 2 (Write)`, we prevent the AI from rushing to a premature conclusion. This is one of the most powerful techniques for reducing hallucinations.
-2.  **Specific Engineering Constraints:** Injecting trigger words like "cost," "latency," and "scalability" forces the AI to drop the marketing fluff and adopt a grounded, realistic engineering mindset.
-3.  **Mandatory Structural Rigidity:** Forcing sections like `Safety & Guardrails` and `Edge Cases` entirely eliminates the "Happy Path Only" planning trap.
+1. **Forced Chain-of-Thought:** By strictly dividing the task into `Step 1 (Ask)` and `Step 2 (Write)`, we prevent the AI from rushing to a premature conclusion. This is one of the most powerful techniques for reducing hallucinations.
+2. **Specific Engineering Constraints:** Injecting trigger words like "cost," "latency," and "scalability" forces the AI to drop the marketing fluff and adopt a grounded, realistic engineering mindset.
+3. **Mandatory Structural Rigidity:** Forcing sections like `Safety & Guardrails` and `Edge Cases` entirely eliminates the "Happy Path Only" planning trap.
 
 ---
 
@@ -132,16 +122,19 @@ It caught a critical security flaw before a single line of code was written. The
 
 ### ❌ Before (Basic Instruction)
 
-> **User:** "Design a Slack bot agent that explains company HR policies."
-> **AI:** "Here is your HR Bot specification. Core Features: Check annual leave, view payslips. Expected Benefits: Increased operational efficiency..." *(Generic content anyone could write)*
+```text
+User: "Design a Slack bot agent that explains company HR policies."
+AI: "Here is your HR Bot specification. Core Features: Check annual leave, view payslips. Expected Benefits: Increased operational efficiency..." (Generic content anyone could write)
+```
 
 ### ✅ After (Using the Pro Prompt - Step 1 Interrogation)
 
-> **Gemini 3 Pro:** "Before generating the specification, please confirm the following 3 points to prevent critical architectural flaws:
->
-> 1. **Data Freshness:** When HR policies are updated, does the bot access documents via real-time synchronization, or a scheduled batch update?
-> 2. **Authentication:** Which API will be used to map the user's Slack ID to their employee ID in the HR system?
-> 3. **Fallback Strategy:** If the bot receives an ambiguous question about a policy it cannot confidently answer, should it reply 'I don't know' or automatically mention a human representative (e.g., @HR_Team)?"
+```text
+Gemini 3 Pro: "Before generating the specification, please confirm the following 3 points to prevent critical architectural flaws:
+1. Data Freshness: When HR policies are updated, does the bot access documents via real-time synchronization, or a scheduled batch update?
+2. Authentication: Which API will be used to map the user's Slack ID to their employee ID in the HR system?
+3. Fallback Strategy: If the bot receives an ambiguous question about a policy it cannot confidently answer, should it reply 'I don't know' or automatically mention a human representative (e.g., @HR_Team)?"
+```
 
 *(Once the user answers these questions, it outputs a flawless, markdown-formatted spec ready for immediate deployment.)*
 

@@ -42,7 +42,7 @@ Use this when you need a quick, standard template to get started.
 > **Role:** You are a seasoned corporate communication expert and career coach.
 > **Request:** Write a concise, professional business email requesting a salary negotiation meeting with my manager. The tone should be polite but firm, clearly stating that the purpose is to discuss my recent performance and corresponding compensation adjustments, without coming across as demanding or ruining the professional relationship.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

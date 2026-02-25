@@ -43,7 +43,7 @@ Usala quando vuoi un drink veloce e senza pretese.
 > **Contesto:** Nel mio frigo ho della vodka, Sprite e succo d'arancia.
 > **Azione:** Usando solo questi ingredienti, dimmi le proporzioni esatte per creare un cocktail casalingo leggero e dolce. (Es. usa una tazzina da caffè come unità di misura).
 
-<br>
+\
 
 ### 🥇 Versione Pro (Sviluppo Menu d'Autore)
 
@@ -102,17 +102,17 @@ Inoltre, se non applichi il vincolo (Constraint) _"non usare ingredienti che non
 
 ### ❌ Before (Il Disastro Casalingo)
 
-> Mescolare a occhio quel po' di whisky avanzato con un succo di frutta a caso.
+Mescolare a occhio quel po' di whisky avanzato con un succo di frutta a caso.
 > **Risultato:** "Bleah, è annacquato e sa di sciroppo per la tosse." (Finisce dritto nel lavandino, lasciandoti solo un senso di delusione 🤕).
 
 ### ✅ After (La Cura del Bartender IA)
 
 > **IA:** "Ti presento il tuo cocktail d'autore: **[Oasi di Mezzanotte]**."
-> 
-> - **Proporzioni:** 1 tazzina di Whisky + 2 tazzine di Succo d'Arancia + 1 tazzina di Ginger Ale.
-> - **Preparazione:** Riempi un bicchiere di ghiaccio, versa prima il whisky e il succo, poi mescola delicatamente 5 volte con una bacchetta o un cucchiaio lungo. Infine, versa lentamente il ginger ale per preservare l'effervescenza.
-> - **La Storia:** Un sorso rinfrescante come un'oasi, pensato per lavare via la fatica di una lunga e arida giornata di lavoro.
-> 
+
+- **Proporzioni:** 1 tazzina di Whisky + 2 tazzine di Succo d'Arancia + 1 tazzina di Ginger Ale.
+- **Preparazione:** Riempi un bicchiere di ghiaccio, versa prima il whisky e il succo, poi mescola delicatamente 5 volte con una bacchetta o un cucchiaio lungo. Infine, versa lentamente il ginger ale per preservare l'effervescenza.
+- **La Storia:** Un sorso rinfrescante come un'oasi, pensato per lavare via la fatica di una lunga e arida giornata di lavoro.
+
 > **Risultato:** "Wow, è più buono di quello che fanno al bar giù in strada!" (Equilibrio perfetto e atmosfera da locale chic 🍹).
 
 ---

@@ -42,7 +42,7 @@ Idéal lorsque vous êtes pressé et que vous avez besoin d'une suggestion rapid
 > **Rôle :** Tu es un coach sportif professionnel et un nutritionniste expérimenté.
 > **Demande :** Je suis un homme de 80 kg pour 1m75. Je veux perdre 5 kg. Fais-moi un programme de musculation de 4 jours par semaine et un menu pour la journée.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Experte)
 

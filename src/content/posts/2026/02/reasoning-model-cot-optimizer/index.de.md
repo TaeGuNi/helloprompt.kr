@@ -43,7 +43,7 @@ Nutzen Sie diese Variante, wenn Sie bei kleineren Problemen oder alltäglichen A
 > **Aufgabe:** Löse das folgende `[Problem]` perfekt.
 > **Bedingung:** Gib nicht sofort die endgültige Antwort. Wende zwingend den Ansatz "Lass uns Schritt für Schritt denken" (Let's think step by step) an und zeige mir zuerst deinen detaillierten Lösungsansatz.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten)
 
@@ -83,7 +83,7 @@ Wenn man in der Praxis mit modernsten Reasoning-Modellen wie DeepSeek R1 oder o3
 
 ## 🙋 Häufig gestellte Fragen (FAQ) {#faq}
 
-- **F: Funktioniert das auch bei Standardmodellen wie Gemini 1.5 Pro oder GPT-4o?**
+- **F: Funktioniert das auch bei Standardmodellen wie Gemini 2.5 Pro oder GPT-4o?**
   - A: Ja, auch bei herkömmlichen Modellen steigt die Lösungsqualität signifikant, wenn man schrittweises Denken (CoT) erzwingt. Bei den neuesten, speziell auf logisches Schließen trainierten Modellen (wie Gemini 3 Pro oder DeepSeek R1), die diesen Denkprozess bereits verinnerlicht haben, ist die Synergie jedoch geradezu explosiv.
 
 - **F: Der Output wird dadurch extrem lang. Kann ich auch nur eine Zusammenfassung bekommen?**

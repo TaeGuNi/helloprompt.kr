@@ -42,7 +42,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Portrait", "Lighting"]
 > **Role:** 你是一位专业的人像摄影大师。
 > **Task:** 请生成一张展现深刻内心情感的肖像画，并应用伦勃朗布光法 (Rembrandt lighting)。
 
-<br>
+\
 
 ### 🥇 Pro Version (专家版)
 
@@ -100,15 +100,15 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Portrait", "Lighting"]
 
 ### ❌ Before (输入)
 
-> Portrait of an old man, highly detailed.
-> (一位老人的肖像，高度细节。)
+Portrait of an old man, highly detailed.
+(一位老人的肖像，高度细节。)
 
 _(结果：人物面部受光均匀，像一张毫无生气的高清证件照，缺乏情感共鸣与艺术深度。)_
 
 ### ✅ After (结果)
 
-> Portrait of an old man, Rembrandt lighting, dramatic chiaroscuro, deep background shadows, classic cinematic style, 8k.
-> (一位老人的肖像，伦勃朗布光，戏剧性的明暗对照，深沉的背景阴影，经典电影风格，8k。)
+Portrait of an old man, Rembrandt lighting, dramatic chiaroscuro, deep background shadows, classic cinematic style, 8k.
+(一位老人的肖像，伦勃朗布光，戏剧性的明暗对照，深沉的背景阴影，经典电影风格，8k。)
 
 _(结果：光线从侧上方倾泻而下，半张脸隐于幽暗之中，另一侧脸颊的阴影里透出一个完美的倒三角光斑，每一条皱纹都仿佛在诉说岁月的沧桑，极具艺术感染力。)_
 

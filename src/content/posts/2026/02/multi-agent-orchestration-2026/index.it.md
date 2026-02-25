@@ -13,7 +13,7 @@ tags: ["AI 에이전트", "자동화", "프롬프트 엔지니어링", "AutoGPT"
 
 - **🎯 Consigliato per:** Project Manager e Planner che desiderano ideare e pianificare progetti complessi in un solo colpo
 - **⏱️ Tempo richiesto:** Da 1 ora → a 5 minuti (riduzione drastica dei tempi di progettazione)
-- **🤖 Modelli consigliati:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modelli consigliati:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Difficoltà:** ⭐⭐⭐☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Usala quando hai bisogno di idee e opinioni rapide da diverse prospettive.
 > **Ruolo:** Sei un Project Manager altamente qualificato.
 > **Azione:** Fornisci opinioni approfondite su `[Argomento]` dal punto di vista di un Planner, di uno Sviluppatore e di un Designer. Quindi, sintetizza queste visioni e proponi la direzione ottimale.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Avanzata)
 
@@ -94,7 +94,7 @@ Tuttavia, forzando l'introduzione del ruolo del "Critico" e istigando il dibatti
   - R: Aggiungi ai "Vincoli" la seguente frase: "Il dibattito deve essere limitato a un massimo di 3 battute per agente e, nell'ultimo turno, l'Esecutore deve obbligatoriamente guidare verso un accordo realizzabile." L'AI regolerà autonomamente la lunghezza e arriverà a una conclusione.
 
 - **D: Funziona bene anche con la versione gratuita di ChatGPT (GPT-3.5)?**
-  - R: Poiché l'AI deve gestire diverse personas senza confonderle e guidare un dibattito logico, si raccomanda fortemente l'uso di modelli avanzati con elevate capacità di ragionamento complesso, come GPT-4o, Claude 3.5 Sonnet o Gemini 1.5 Pro. Con modelli inferiori, la distinzione dei ruoli diventa sfocata e l'output può sembrare un monologo disconnesso.
+  - R: Poiché l'AI deve gestire diverse personas senza confonderle e guidare un dibattito logico, si raccomanda fortemente l'uso di modelli avanzati con elevate capacità di ragionamento complesso, come GPT-4o, Claude 3.5 Sonnet o Gemini 2.5 Pro. Con modelli inferiori, la distinzione dei ruoli diventa sfocata e l'output può sembrare un monologo disconnesso.
 
 ---
 

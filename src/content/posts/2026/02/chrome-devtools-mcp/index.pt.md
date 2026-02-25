@@ -43,25 +43,25 @@ Em vez de fornecer um prompt isolado com pedaços de código, você conecta a su
 Quando a tela fica em branco ou a API falha, a IA não precisa mais do seu relato detalhado.
 
 > **Ação da IA (Automática):** O agente utiliza o MCP para se conectar à porta de depuração do Chrome e acessar a aba de Console e Network.
->
+
 > **Resultado:** Ao detectar um `Uncaught TypeError` ou um `Status 500`, a IA lê a pilha de execução instantaneamente, identifica a linha problemática no seu código-fonte local e propõe a correção estrutural sem que você digite uma única palavra sobre o erro.
 
-<br>
+\
 
 ### 🥇 Caso de Uso 2: Inspeção e Manipulação Avançada do DOM
 
 Resolver problemas espinhosos de CSS e layout agora é um processo visual e analítico para a máquina.
 
 > **Contexto (Context):**
->
-> - Problema: O layout quebrou em telas menores e o desenvolvedor pede à IA para investigar.
->
+
+- Problema: O layout quebrou em telas menores e o desenvolvedor pede à IA para investigar.
+
 > **Ação da IA (Task):**
->
-> 1. Inspecionar a árvore DOM renderizada via MCP.
-> 2. Analisar o estilo computado (`Computed Style`) do elemento defeituoso e de seu contêiner pai.
-> 3. Identificar propriedades conflitantes (ex: um `width: 100vw` causando scroll horizontal ou um `flex-direction` incorreto).
->
+
+1. Inspecionar a árvore DOM renderizada via MCP.
+2. Analisar o estilo computado (`Computed Style`) do elemento defeituoso e de seu contêiner pai.
+3. Identificar propriedades conflitantes (ex: um `width: 100vw` causando scroll horizontal ou um `flex-direction` incorreto).
+
 > **Execução e Validação:** A IA injeta a correção via execução de JavaScript no navegador para testar o visual _antes_ de sugerir a alteração definitiva nos seus arquivos de estilo (CSS/Tailwind).
 
 ---

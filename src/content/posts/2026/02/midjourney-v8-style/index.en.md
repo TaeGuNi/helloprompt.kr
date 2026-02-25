@@ -39,7 +39,7 @@ Use this directly in Midjourney (Discord or Web) when you already have a referen
 > **Task:**
 > `/imagine prompt: [Subject to draw, e.g., A robot drinking coffee in a cyberpunk city] --sref [URL of the reference image] --sw 800 --v 8`
 
-<br>
+\
 
 ### 🥇 Pro Version
 

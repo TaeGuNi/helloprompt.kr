@@ -47,7 +47,7 @@ Use this when you just want a quick summary and to save underlined text.
 > **Task:**
 > Accurately extract the text from the attached image. Then, summarize the author's core argument on this page in exactly one sentence.
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -110,7 +110,7 @@ I highly recommend archiving these outputs by integrating them with Second Brain
 
 ### ❌ Before (Just underlining & reading with eyes)
 
-> "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."
+"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."
 
 (Closing the book) "Ah, that's a great quote." -> 3 days later: "What was that book about again? (Completely evaporated 📄)"
 

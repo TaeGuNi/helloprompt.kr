@@ -42,7 +42,7 @@ Use isto quando precisar de uma estimativa rápida e direta.
 > **Papel:** Você é um 'Especialista em Orçamento de Viagens'.
 > **Pedido:** Vou viajar para `[Destino]` por `[Número]` dias. Meu estilo é `[Econômico/Luxo]`. Calcule um orçamento diário estimado e me diga quanto dinheiro devo levar em espécie.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

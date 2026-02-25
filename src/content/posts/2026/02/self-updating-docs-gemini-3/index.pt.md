@@ -43,7 +43,7 @@ Ideal para gerar descrições rápidas de PR ou para atualizações simples no `
 > **Função:** Você é um Tech Writer Sênior.
 > **Tarefa:** Analise o `[Git Diff]` das minhas modificações recentes e identifique as partes do `[README.md]` que precisam ser atualizadas. Reescreva essas seções em Markdown. Ignore alterações simples de digitação ou refatorações de código.
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 
@@ -61,7 +61,7 @@ Um prompt sofisticado projetado para ser integrado ao seu pipeline de CI/CD (ex:
 > 1. Compare e analise o `[Git Diff]` fornecido com o conteúdo completo do `[Documento Alvo]`.
 > 2. Determine se essa alteração no código afeta a integração de usuários (onboarding) ou as configurações de ambiente de outros desenvolvedores, justificando uma atualização na documentação. (Ignore estritamente simples refatorações, renomeação de variáveis ou correções ortográficas).
 > 3. Se uma atualização for necessária, reescreva todo o documento em formato Markdown, mantendo o tom de voz original (Tone & Manner) perfeitamente intacto.
-> 4. Adicione um comentário oculto no final do documento no formato `<!-- Motivo da alteração: Uma breve explicação do porquê esta seção foi modificada -->`.
+> 4. Adicione um comentário oculto no final do documento no formato ``.
 > 5. Se o commit for uma alteração simples que não exija atualização na documentação, retorne APENAS o texto `[NO_UPDATE_REQUIRED]`.
 >
 > **Restrições (Constraints):**
@@ -89,7 +89,7 @@ Ao aplicar este prompt no repositório backend da nossa empresa, a surpresa mais
 - **P: A IA continua tentando documentar notas pessoais ou TODOs deixados nos comentários do código. Como bloqueio isso?**
   - R: Esse é um sintoma da IA ser "diligente" demais. É por isso que a regra `- Código inacabado em comentários (como TODO, FIXME) NUNCA deve ser incluído na documentação.` na seção de **Restrições (Constraints)** é vital. Essa única frase resolve o problema instantaneamente.
 
-- **P: Funciona da mesma forma se eu usar Gemini 1.5 Pro ou GPT-4o?**
+- **P: Funciona da mesma forma se eu usar Gemini 2.5 Pro ou GPT-4o?**
   - R: Funciona, sim. Mas na abordagem de enviar "Documento Completo + Código Completo", o Gemini 3 Pro leva uma vantagem esmagadora em limites de tokens e custos de Context Caching. Para projetos menores (toy projects), o GPT-4o também entrega excelentes resultados.
 
 ---
@@ -98,7 +98,7 @@ Ao aplicar este prompt no repositório backend da nossa empresa, a surpresa mais
 
 1. **Lógica de Desvio (Bypass Logic):** Ao instruir rigidamente o retorno de `[NO_UPDATE_REQUIRED]` para commits que não afetam a documentação, eliminamos a criação de PRs inúteis e repetitivos.
 2. **Manutenção do Tom de Voz:** Para evitar que a IA substitua a redação original por um tom robótico e artificial, adicionamos o contexto explícito de "manter o tom de voz original (Tone & Manner) perfeitamente intacto".
-3. **Explicação Oculta (Hidden Explanation):** O uso de comentários HTML (`<!-- -->`) permite que a IA justifique a alteração. Isso torna o processo de validação muito mais fácil e rápido para o revisor humano durante a aprovação do PR.
+3. **Explicação Oculta (Hidden Explanation):** O uso de comentários HTML (``) permite que a IA justifique a alteração. Isso torna o processo de validação muito mais fácil e rápido para o revisor humano durante a aprovação do PR.
 
 ---
 
@@ -130,7 +130,7 @@ DB_USER=root
 REDIS_URL=redis://localhost:6379
 ```
 
-<!-- Motivo da alteração: A lógica de cache com Redis foi adicionada no arquivo src/cache/connection.ts, portanto, a variável de ambiente REDIS_URL necessária foi refletida no guia de inicialização. -->
+
 ````
 
 ---

@@ -42,7 +42,7 @@ Las ofertas de trabajo rígidas, aburridas y llenas de clichés no logran captar
 > **Rol:** Eres un Experto en Branding de Reclutamiento de Startups.
 > **Solicitud:** Redacta una descripción de puesto (JD) atractiva para el cargo de `[Nombre del Puesto]`, destacando el impacto del rol y los beneficios para el candidato.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

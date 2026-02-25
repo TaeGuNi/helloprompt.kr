@@ -42,7 +42,7 @@ Idéal pour un résultat rapide et percutant, sans se perdre dans les détails t
 > **Rôle :** Tu es un photographe professionnel expert en IA.
 > **Demande :** Génère une image de `[Sujet]`. Utilise un éclairage de type "Golden hour" (heure dorée) pour créer une atmosphère chaleureuse, douce et très émotionnelle.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Expert)
 

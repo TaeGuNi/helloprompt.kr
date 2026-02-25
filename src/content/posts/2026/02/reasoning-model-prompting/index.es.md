@@ -54,7 +54,7 @@ Los modelos de razonamiento alcanzan su máximo rendimiento cuando se les propor
 > def c(a,b): return a+b
 > </code_snippet>
 
-<br>
+\
 
 ### 🥇 Versión Pro (Expert)
 

@@ -39,7 +39,7 @@ Verwenden Sie dies für einen schnellen, oberflächlichen Risiko-Check Ihres Pro
 > **Rolle:** Du bist ein Experte für europäisches KI-Recht, spezialisiert auf den EU AI Act 2.
 > **Aufgabe:** Bewerte das folgende Projekt: `[Kurze Projektbeschreibung]`. Nenne mir die 3 größten Compliance-Risiken bezüglich generativer Videos.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

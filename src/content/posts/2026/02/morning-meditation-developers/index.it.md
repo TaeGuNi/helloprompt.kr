@@ -42,7 +42,7 @@ Quando hai solo due minuti mentre aspetti che la pipeline di CI/CD finisca il bu
 > **Ruolo:** Sei un maestro zen e un ex-sviluppatore senior.
 > **Azione:** Scrivi una brevissima meditazione guidata di 2 minuti per calmarmi prima di affrontare un bug difficile o una release critica.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

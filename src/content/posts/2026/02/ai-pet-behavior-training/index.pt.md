@@ -48,7 +48,7 @@ Ideal para tirar dúvidas rápidas ou lidar com problemas comportamentais leves 
 > - Raça/Idade: `[Inserir]`
 > - Situação detalhada: `[Inserir]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

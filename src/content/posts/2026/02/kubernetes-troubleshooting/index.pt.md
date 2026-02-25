@@ -47,7 +47,7 @@ Use esta versão para entender intuitivamente o significado dos logs de erro e d
 > **Task (Tarefa):**
 > Resuma de forma muito simples, do ponto de vista de um desenvolvedor, qual é a causa principal desse erro (ex: falta de memória, erro de permissão, timeout de rede, etc.). Além disso, indique 2 pontos críticos que eu devo verificar imediatamente.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Profissional)
 

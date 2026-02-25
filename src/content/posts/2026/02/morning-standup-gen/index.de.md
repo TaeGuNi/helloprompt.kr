@@ -42,7 +42,7 @@ Nutze diesen Prompt, wenn du unter Zeitdruck stehst und sofort ein Ergebnis brau
 > **Rolle:** Du bist ein erfahrener Softwareentwickler.
 > **Aufgabe:** Fasse die folgenden `[Commit-Logs oder Notizen]` zu einem kurzen, prägnanten Update für das Daily Stand-up zusammen. Strukturiere es in "Gestern", "Heute" und "Blocker".
 
-<br>
+\
 
 ### 🥇 Pro Version (Für maximale Professionalität)
 

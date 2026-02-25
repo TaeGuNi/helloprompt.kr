@@ -42,7 +42,7 @@ Use esta versão quando precisar apenas de um resultado rápido e direto.
 > **Papel:** Você é um `[Especialista em Fotografia]`.
 > **Solicitação:** Gere uma imagem focada em `[Assunto]`, desfocando fortemente o fundo para criar um efeito bokeh pronunciado.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

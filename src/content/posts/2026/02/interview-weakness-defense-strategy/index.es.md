@@ -48,7 +48,7 @@ Cuando un entrevistador toca tu punto débil, la mente suele quedarse en blanco.
 > **Rol:** Eres un consultor experto en estrategias de entrevistas de trabajo.
 > **Tarea:** Ayúdame a crear una respuesta persuasiva para defender mi mayor debilidad `[Mencionar debilidad, ej: un hueco de 2 años sin trabajar]` en una entrevista. Reconoce el hecho honestamente, pero enfócate en las lecciones que aprendí y los esfuerzos concretos que he hecho para mejorar.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

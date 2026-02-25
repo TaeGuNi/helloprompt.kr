@@ -41,12 +41,12 @@ Se você hesitar na mesa de negociação, você já perdeu. Mas com quem pratica
 Ideal para refinar seus argumentos e organizar sua lógica antes de falar.
 
 > **Papel (Role):** Você é um gerente de RH implacável, cujo principal objetivo é economizar o orçamento da empresa a todo custo.
->
+
 > **Contexto (Context):** Sou um Especialista em Marketing com 3 anos de experiência, e meu salário anterior era de R$ 4.000. Agora, minha pretensão é de R$ 5.500.
->
+
 > **Tarefa (Task):** Quando eu pedir os R$ 5.500, refute meu pedido usando argumentos lógicos e difíceis de rebater. Seja extremamente exigente e tente me deixar sem palavras.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Treino no Modo de Voz)
 

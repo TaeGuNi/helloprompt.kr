@@ -45,7 +45,7 @@ Use this when you quickly need a simple To-Do list extracted from the requiremen
 > **PRD:** `[Paste entire PRD content here]`
 > **Task:** Break down this PRD into a checklist of detailed, actionable **Tasks** that developers can start working on immediately. Clearly distinguish between Frontend and Backend tasks.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

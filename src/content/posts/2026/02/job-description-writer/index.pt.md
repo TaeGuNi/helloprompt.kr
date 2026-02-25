@@ -42,7 +42,7 @@ Use isso quando precisar de um rascunho rápido para estruturar uma vaga.
 > **Papel:** Você é um Especialista em Employer Branding e Recrutamento de Startups.
 > **Solicitação:** Escreva uma descrição de trabalho atraente para a vaga de `[Cargo]`, destacando as principais responsabilidades e os benefícios reais de trabalhar na nossa empresa.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert Version)
 

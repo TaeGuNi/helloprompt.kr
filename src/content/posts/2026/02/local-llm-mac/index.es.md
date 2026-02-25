@@ -47,7 +47,7 @@ Utiliza esto cuando necesites lanzar una IA en tu PC de inmediato y sin configur
 > ollama run llama3
 > ```
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

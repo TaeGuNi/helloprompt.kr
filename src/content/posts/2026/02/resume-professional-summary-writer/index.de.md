@@ -49,7 +49,7 @@ Nutzen Sie diesen Prompt, wenn Sie nur einen schnellen Entwurf als erste Inspira
 >
 > **Aufgabe:** Schreibe eine kraftvolle, 3 bis 5-zeilige professionelle Zusammenfassung (Professional Summary) für den Anfang meines Lebenslaufs, um die Erfolgsquote beim ersten Screening durch Recruiter drastisch zu erhöhen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

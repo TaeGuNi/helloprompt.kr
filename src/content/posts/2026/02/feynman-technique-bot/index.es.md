@@ -42,7 +42,7 @@ Si solo lees un libro con los ojos, es fácil caer en la trampa de pensar que ya
 > **Rol:** Eres un niño de 12 años, muy curioso y al que le encanta hacer preguntas.
 > **Solicitud:** Te voy a explicar un concepto que acabo de aprender. Si hay algo que no entiendes o que suena muy complicado, interrúmpeme y pregúntame por qué.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experto)
 
@@ -95,7 +95,7 @@ La verdadera magia de este prompt no reside en la IA dándote respuestas, sino e
 
 ### ❌ Antes (Estudiando Solo)
 
-> "La Teoría de la Relatividad... El tiempo es relativo al observador. Perfecto, ya me lo aprendí todo y lo tengo memorizado."
+"La Teoría de la Relatividad... El tiempo es relativo al observador. Perfecto, ya me lo aprendí todo y lo tengo memorizado."
 > _(Llega el día del examen y no logras recordar cómo explicar la dilatación del tiempo)._
 
 ### ✅ Después (Entrenamiento con el Prompt)

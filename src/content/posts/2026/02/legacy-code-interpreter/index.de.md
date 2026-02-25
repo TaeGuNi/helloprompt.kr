@@ -43,7 +43,7 @@ Verwenden Sie diese Version, wenn Sie nur schnell einen groben Überblick benöt
 >
 > **Aufgabe:** Analysiere den folgenden, schwer verständlichen Code ohne Kommentare und erkläre ihn Zeile für Zeile in einfachen, verständlichen Worten.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

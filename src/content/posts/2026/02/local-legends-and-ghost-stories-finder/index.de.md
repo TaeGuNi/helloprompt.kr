@@ -49,7 +49,7 @@ Verwenden Sie diese Variante, wenn Sie sofortige, kompakte Ergebnisse für unter
 > **Rolle:** Du bist ein erfahrener 'Mystery-Forscher'.
 > **Aufgabe:** Erzähle mir eine spannende, lokale Legende oder unheimliche Geistergeschichte über `[Reiseziel]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten & Content Creator)
 
@@ -105,7 +105,7 @@ Als Reise-Blogger oder Tourguide stößt man oft auf das Problem, dass die klass
 
 ### ❌ Before (Einfache Eingabe)
 
-> "Erzähl mir Legenden über Prag."
+"Erzähl mir Legenden über Prag."
 
 _(Das Ergebnis ist oft eine langweilige, lexikonartige Aufzählung: "1. Der Golem: Rabbi Löw baute ihn aus Lehm. 2. Die astronomische Uhr: Dem Erbauer wurden die Augen ausgestochen...")_
 

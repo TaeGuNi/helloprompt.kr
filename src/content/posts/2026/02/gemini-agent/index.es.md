@@ -47,7 +47,7 @@ En medio de este cambio de paradigma masivo, no basta con simplemente leer las n
 > **Rol:** Eres un Product Manager (PM) Senior.
 > **Tarea:** Queremos introducir el "Ecosistema de Agentes Gemini" de Google en nuestro servicio, `[Nombre del servicio y función principal]`. Propón 3 casos de uso de automatización de alto impacto que los usuarios puedan ejecutar solo con comandos de voz, sin tener que abrir la aplicación manualmente.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

@@ -48,7 +48,7 @@ Utilisez cette version lorsque vous souhaitez identifier rapidement la source du
 > **package.json :**
 > `[Collez le contenu de votre package.json ici]`
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

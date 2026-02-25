@@ -44,7 +44,7 @@ Utilisez cette version lorsque vous souhaitez simplement convertir rapidement le
 > 
 > `[Collez le script ici]`
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 
@@ -103,7 +103,7 @@ Par conséquent, au lieu de demander simplement à l'IA de « résumer », il es
   - R : Si c'est votre propre vidéo, vous êtes totalement libre. Mais si vous rédigez un article de blog basé sur la vidéo de quelqu'un d'autre, la prudence est de mise. Copier le script tel quel (plagiat) est une violation évidente des droits d'auteur. Vous devez impérativement demander à l'IA de « réécrire entièrement avec ses propres mots » (Rewrite) et respecter strictement les limites de la « citation » en indiquant clairement le lien et la source de la vidéo originale au début ou à la fin de votre article.
 
 - **Q : Si j'insère un script très long, l'IA ne risque-t-elle pas de s'arrêter au milieu ou d'oublier des informations ?**
-  - R : Pour une vidéo de plus d'une heure, les modèles classiques risquent de tronquer le contenu en raison de la limite de leur fenêtre de contexte. Dans ce cas, il est nettement plus avantageux d'utiliser **Claude 3.5 Sonnet** ou **Gemini 1.5 Pro**, capables de traiter un nombre massif de tokens en une seule fois. Ils sont spécialisés pour conserver le contexte des textes longs sans en perdre le fil.
+  - R : Pour une vidéo de plus d'une heure, les modèles classiques risquent de tronquer le contenu en raison de la limite de leur fenêtre de contexte. Dans ce cas, il est nettement plus avantageux d'utiliser **Claude 3.5 Sonnet** ou **Gemini 2.5 Pro**, capables de traiter un nombre massif de tokens en une seule fois. Ils sont spécialisés pour conserver le contexte des textes longs sans en perdre le fil.
 
 ---
 

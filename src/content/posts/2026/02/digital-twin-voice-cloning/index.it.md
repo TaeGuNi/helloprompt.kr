@@ -42,13 +42,13 @@ Questo protocollo si divide in due fasi: la Fase 1 per estrarre il tono di voce 
 Fase di analisi in cui diamo in pasto all'IA i dati testuali del passato per ricavare le linee guida del nostro stile.
 
 > **Ruolo:** Sei il miglior esperto al mondo di analisi stilistica e linguistica.
->
-> **Task:** Analizza in profondità lo stile, il tono, il vocabolario ricorrente e la struttura delle frasi dei testi forniti qui sotto. Riassumi i risultati sotto forma di 'Linee guida per Prompt'.
->
-> **Dati:**
-> `[Incolla qui 3-5 esempi di tuoi testi passati: articoli, chat, email, post sui social]`
 
-<br>
+> **Task:** Analizza in profondità lo stile, il tono, il vocabolario ricorrente e la struttura delle frasi dei testi forniti qui sotto. Riassumi i risultati sotto forma di 'Linee guida per Prompt'.
+
+> **Dati:**
+`[Incolla qui 3-5 esempi di tuoi testi passati: articoli, chat, email, post sui social]`
+
+\
 
 ### 🥇 Versione Pro (Persona Injection)
 

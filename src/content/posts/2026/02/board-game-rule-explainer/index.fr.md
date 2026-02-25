@@ -41,14 +41,14 @@ Idéal quand vous avez déjà le texte des règles sous la main ou qu'il s'agit 
 
 > **Rôle :** Tu es un `[animateur de bar à jeux]` super sympa et plein d'énergie.
 > **Tâche :** Explique les règles principales du jeu de société `[Nom du jeu]` à un débutant.
->
-> **Conditions :**
->
-> 1. Résume le but final du jeu (condition de victoire) en une seule phrase claire.
-> 2. Liste dans l'ordre les actions que je peux effectuer pendant mon tour (Turn).
-> 3. Souligne les 3 erreurs de règles les plus courantes lors d'une première partie.
 
-<br>
+> **Conditions :**
+
+1. Résume le but final du jeu (condition de victoire) en une seule phrase claire.
+2. Liste dans l'ordre les actions que je peux effectuer pendant mon tour (Turn).
+3. Souligne les 3 erreurs de règles les plus courantes lors d'une première partie.
+
+\
 
 ### 🥇 Version Pro {#pdf}
 

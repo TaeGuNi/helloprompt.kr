@@ -43,7 +43,7 @@ Utilisez ce prompt lorsque vous êtes pressé et que vous avez besoin d'une rép
 > **Tâche :** Rédige une réponse à cet e-mail pour `[refuser la proposition de réunion pour cette semaine et proposer la semaine prochaine]`. Rédige-le de manière professionnelle.
 > **E-mail reçu :** `[Collez l'e-mail ici]`
 
-<br>
+\
 
 ### 🥇 Version Pro (Pour des résultats parfaits)
 

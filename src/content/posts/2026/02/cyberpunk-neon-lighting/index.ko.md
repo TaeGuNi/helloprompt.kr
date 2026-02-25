@@ -43,7 +43,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Sci-Fi", "Color"]
 >
 > **Style & Lighting:** Cyberpunk style, neon noir, pink and cyan neon lights, glowing signs reflecting on a wet street
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 
@@ -89,13 +89,13 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Sci-Fi", "Color"]
 
 ### ❌ Before (입력)
 
-> Future city night, motorcycle, cool lighting.
+Future city night, motorcycle, cool lighting.
 
 _(결과: 광원이 불분명하여 입체감이 없고, 칙칙한 파란색 톤 위주의 단조롭고 평면적인 미래 도시 이미지가 출력됨)_
 
 ### ✅ After (결과)
 
-> A cyborg girl sitting on a motorcycle, night city street. Cyberpunk neon lighting, vibrant magenta and cyan lights, glowing neon signs reflecting on wet asphalt, Unreal Engine 5 render, ray tracing. --ar 16:9 --style raw
+A cyborg girl sitting on a motorcycle, night city street. Cyberpunk neon lighting, vibrant magenta and cyan lights, glowing neon signs reflecting on wet asphalt, Unreal Engine 5 render, ray tracing. --ar 16:9 --style raw
 
 _(결과: 쨍한 마젠타/시안 네온 조명이 피사체의 질감을 살려주고, 젖은 바닥에 맺힌 빛의 반사까지 완벽하게 구현된 8K급 시네마틱 아트워크가 출력됨)_
 

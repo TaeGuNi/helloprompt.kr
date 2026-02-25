@@ -44,7 +44,7 @@ No planifiques ni escribas desde cero. Ese 'guion de YouTube' (Script) en el que
 >
 > [Inserta aquí el guion del video de YouTube]
 
-<br>
+\
 
 ### 🥇 Pro Version (Maestro Multiuso por Plataforma)
 
@@ -108,16 +108,16 @@ Por lo tanto, si simplemente le dices a la IA "conviértelo en texto", obtendrá
 
 ### ❌ Antes (Fuente original abandonada)
 
-> "Hola a todos, hoy vamos a hablar sobre la automatización del marketing. Eh... bueno, si miran la pantalla..."
-> (El guion desorganizado se deja tal cual, el crecimiento del tráfico se estanca en las 1,000 visualizaciones de YouTube)
+"Hola a todos, hoy vamos a hablar sobre la automatización del marketing. Eh... bueno, si miran la pantalla..."
+(El guion desorganizado se deja tal cual, el crecimiento del tráfico se estanca en las 1,000 visualizaciones de YouTube)
 
 ### ✅ Después (Reelaboración OSMU completada)
 
 > **[Blog]** H2: Cómo adelantar tu hora de salida en 3 horas con la automatización del marketing (Alto posicionamiento en búsquedas)
 > **[Instagram]** (Diapositiva 1) "Marketer, ¿sigues haciendo el trabajo manual y pesado?" (Genera guardados y compartidos masivos)
 > **[Twitter]** Conocer solo 5 herramientas de marketing te permite hacer el trabajo de 3 personas. Abro hilo 👇 (Difusión masiva por RT)
->
-> 📈 **El alcance total (Reach) se multiplica por más de 10, completando un ciclo virtuoso donde cada canal impulsa el tráfico del otro.**
+
+📈 **El alcance total (Reach) se multiplica por más de 10, completando un ciclo virtuoso donde cada canal impulsa el tráfico del otro.**
 
 ---
 

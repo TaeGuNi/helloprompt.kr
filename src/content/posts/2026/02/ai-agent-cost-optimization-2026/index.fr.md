@@ -44,48 +44,48 @@ Voici un guide d'ingénierie pratique pour garder votre agent intelligent tout e
 Si vous n'utilisez pas la fonctionnalité de **mise en cache du contexte (Context Caching)** offerte par les API modernes, vous jetez l'argent par les fenêtres. La plupart des agents renvoient le même `Prompt Système` + `Exemples Few-Shot` + `Documentation API` à chaque tour. La mise en cache permet de "télécharger une fois, lire à bas prix".
 
 > **Principe de fonctionnement et critères d'application :**
->
-> - Lorsque le prompt système dépasse les 1 000 tokens.
-> - Lorsque des documents PDF volumineux ou l'intégralité d'une base de code sont chargés dans le contexte.
-> - Lorsque l'agent gère des conversations à tours multiples (Multi-turn).
->
+
+- Lorsque le prompt système dépasse les 1 000 tokens.
+- Lorsque des documents PDF volumineux ou l'intégralité d'une base de code sont chargés dans le contexte.
+- Lorsque l'agent gère des conversations à tours multiples (Multi-turn).
+
 > _Pro Tip :_ Placez le contenu statique (règles, exemples) tout en haut du prompt, et le contenu dynamique (requête utilisateur, conversations récentes) tout en bas. La mise en cache fonctionne sur la base du préfixe du texte !
 
-<br>
+\
 
 ### 🥇 Modèle 2 : Boucle "Résumer et Oublier (Summarize-and-Forget)"
 
 Au lieu de conserver le journal brut complet tel quel ("Pensée : X, Action : Y, Résultat : Z..."), forcez l'agent à gérer lui-même une **Carte d'état (State Card)**.
 
 > **Rôle (Role) :** Tu es un agent machine à états (State-machine) qui gère les ressources de manière extrêmement efficace.
->
+
 > **Contexte (Context) :**
->
-> - Contexte : Il faut éviter que les coûts d'API n'explosent à cause d'un historique de conversation qui s'allonge indéfiniment.
-> - Objectif : Mettre à jour la carte d'état en compressant les progrès actuels à la fin de chaque tour.
->
+
+- Contexte : Il faut éviter que les coûts d'API n'explosent à cause d'un historique de conversation qui s'allonge indéfiniment.
+- Objectif : Mettre à jour la carte d'état en compressant les progrès actuels à la fin de chaque tour.
+
 > **Tâche (Task) :**
->
-> 1. À la fin de chaque tour, tu dois impérativement mettre à jour ton `Internal_State`.
-> 2. Au tour suivant, au lieu de l'historique complet de la conversation, tu ne recevras que cet `Internal_State` et l'Observation (le résultat immédiat) qui vient de se produire.
-> 3. Compresse strictement ton état actuel en respectant le format JSON ci-dessous.
->
+
+1. À la fin de chaque tour, tu dois impérativement mettre à jour ton `Internal_State`.
+2. Au tour suivant, au lieu de l'historique complet de la conversation, tu ne recevras que cet `Internal_State` et l'Observation (le résultat immédiat) qui vient de se produire.
+3. Compresse strictement ton état actuel en respectant le format JSON ci-dessous.
+
 > **Contraintes (Constraints) :**
->
-> - Le format de sortie doit obligatoirement respecter la structure JSON suivante.
->
-> ```json
-> {
->   "thought": "Raisonnement logique sur l'étape actuelle...",
->   "action": "nom_de_la_fonction(arguments)",
->   "new_state": {
->     "goal": "Trouver le bug dans le fichier auth.ts",
->     "completed_steps": ["Lecture de auth.ts terminée", "Variable d'environnement manquante détectée"],
->     "next_step": "Vérifier le fichier .env",
->     "blockers": "Aucun"
->   }
-> }
-> ```
+
+- Le format de sortie doit obligatoirement respecter la structure JSON suivante.
+
+```json
+{
+  "thought": "Raisonnement logique sur l'étape actuelle...",
+  "action": "nom_de_la_fonction(arguments)",
+  "new_state": {
+    "goal": "Trouver le bug dans le fichier auth.ts",
+    "completed_steps": ["Lecture de auth.ts terminée", "Variable d'environnement manquante détectée"],
+    "next_step": "Vérifier le fichier .env",
+    "blockers": "Aucun"
+  }
+}
+```
 
 ---
 

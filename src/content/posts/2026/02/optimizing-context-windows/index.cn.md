@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "optimizing-context-windows"]
 
 - **🎯 推荐对象：** AI 开发者、提示词工程师、产品经理
 - **⏱️ 预计耗时：** 15分钟阅读 → 1分钟部署
-- **🤖 推荐模型：** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 推荐模型：** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **难度：** ⭐⭐⭐☆☆
 - ⚡️ **效果：** ⭐⭐⭐⭐⭐
@@ -41,7 +41,7 @@ tags: ["AI", "Tech", "optimizing-context-windows"]
 >
 > **输入文本：** `[粘贴你的长文本]`
 
-<br>
+\
 
 ### 🥇 Pro Version (专业进阶版)
 

@@ -13,7 +13,7 @@ tags: ["Refactorización", "Código Limpio", "Mantenimiento", "Productividad Dev
 
 - **🎯 Recomendado para:** Desarrolladores Junior, Ingenieros de Software, Líderes Técnicos
 - **⏱️ Tiempo requerido:** 5 minutos → Reducido a 1 minuto
-- **🤖 Modelo recomendado:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (Modelos avanzados de codificación)
+- **🤖 Modelo recomendado:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (Modelos avanzados de codificación)
 
 - ⭐ **Dificultad:** ⭐⭐☆☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -44,7 +44,7 @@ Con este prompt, puedes mejorar drásticamente la legibilidad, el rendimiento y 
 > **Rol:** Eres un Ingeniero de Software Senior experto en 'Clean Code'.
 > **Solicitud:** Refactoriza el siguiente código para que sea limpio, legible y fácil de mantener, sin cambiar su comportamiento.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "context-window-optimization"]
 
 - **🎯 おすすめの対象:** AI開発者、プロンプトエンジニア、データサイエンティスト
 - **⏱️ 所要時間:** 60分 → 5分に短縮
-- **🤖 おすすめのモデル:** Gemini 1.5 Pro, Claude 3.5 Sonnet, GPT-4o (大容量コンテキスト対応モデル)
+- **🤖 おすすめのモデル:** Gemini 2.5 Pro, Claude 3.5 Sonnet, GPT-4o (大容量コンテキスト対応モデル)
 
 - ⭐ **難易度:** ⭐⭐⭐⭐☆
 - ⚡️ **効果性:** ⭐⭐⭐⭐⭐
@@ -46,7 +46,7 @@ tags: ["AI", "Tech", "context-window-optimization"]
 >
 > **リクエスト:** このデータの中から、最も重要なインサイトを3つ抽出してください。
 
-<br>
+\
 
 ### 🥇 Pro Version (専門家型)
 

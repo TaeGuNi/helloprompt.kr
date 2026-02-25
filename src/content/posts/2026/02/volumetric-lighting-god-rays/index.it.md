@@ -42,7 +42,7 @@ Utilizza questa struttura quando hai bisogno di un risultato immediato senza tro
 > **Ruolo:** Sei un fotografo esperto in illuminazione cinematografica.
 > **Richiesta:** Genera l'immagine di una `[location, es. vecchia biblioteca]` illuminata da un'intensa `[volumetric lighting / god rays]` che filtra attraverso le finestre.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Esperto)
 

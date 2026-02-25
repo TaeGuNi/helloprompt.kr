@@ -42,7 +42,7 @@ El 80% del éxito de una entrada de blog recae en su título. Es el gancho defin
 > **Rol:** Eres un experto en redacción publicitaria y un blogger de élite con millones de visitas.
 > **Solicitud:** Crea 10 títulos de blog irresistibles y optimizados para SEO que inviten a hacer clic sobre `[Tu Tema/Palabra Clave]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 
@@ -103,7 +103,7 @@ A menudo veo a creadores de contenido usar prompts genéricos como "Escribe un t
 
 ### ❌ Before (Entrada Pobre)
 
-> Escribe un título sobre cómo aprender inglés.
+Escribe un título sobre cómo aprender inglés.
 
 _(Resultado de la IA: "Guía completa para aprender inglés fácilmente") - Aburrido, predecible y sin gancho._
 

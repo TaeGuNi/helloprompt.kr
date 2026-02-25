@@ -42,7 +42,7 @@ Ideal para obtener un cálculo rápido sin complicaciones.
 > **Rol:** Eres un experto en nutrición y dietética.
 > **Solicitud:** Analiza los macronutrientes (calorías, carbohidratos, proteínas, grasas) de `[1 porción de arroz frito con pollo]` y dame un resumen estimado.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -106,7 +106,7 @@ Especialmente útil es la parte donde la IA recomienda tu próxima comida basán
 
 ### ❌ Antes (Entrada simple)
 
-> ¿Cuántas calorías tiene un plato de ternera salteada con verduras?
+¿Cuántas calorías tiene un plato de ternera salteada con verduras?
 
 _(La IA responde con un número genérico y no te ayuda a planificar el resto de tu día)._
 

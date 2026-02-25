@@ -45,7 +45,7 @@ Verwende diese Version, wenn du nur die Kernbedeutung und die praktische Anwendu
 > **Dialog:** `["I don't know if I can handle this anymore."]`
 > **Aufgabe:** Übersetze diesen Satz so natürlich wie möglich in den gegebenen Kontext. Erstelle außerdem 3 alltagstaugliche Beispielsätze, die Schlüsselwörter oder Redewendungen wie `[handle]` verwenden.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten)
 

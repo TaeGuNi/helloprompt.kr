@@ -43,7 +43,7 @@ Usala quando hai bisogno di una risposta rapida e semplice senza troppi dettagli
 > **Ruolo:** Sei un dolcissimo insegnante di scuola materna che spiega concetti scientifici complessi in modo estremamente semplice.
 > **Richiesta:** Spiega a un bambino di 5 anni perché il cielo è blu usando metafore divertenti.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Esperto)
 

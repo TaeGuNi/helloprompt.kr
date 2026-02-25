@@ -48,7 +48,7 @@ Use this when you need a quick diagnosis of the conflict.
 > **package.json:**
 > `[Paste package.json content here]`
 
-<br>
+\
 
 ### 🥇 Pro Version
 

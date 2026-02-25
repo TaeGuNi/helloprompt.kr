@@ -41,7 +41,7 @@ tags: ["Coding", "AI Agents", "Devin", "GitHub"]
 > **요청:** `[React/Next.js]` 환경에서 동작하는 `[사용자 로그인 폼]` 컴포넌트를 만들어줘.
 > **조건:** Tailwind CSS를 사용하고, 에러 핸들링 로직을 포함해줘.
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 

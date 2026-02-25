@@ -42,7 +42,7 @@ Ideal para un diagnóstico rápido y directo.
 > **Rol:** Eres un `[Asesor Financiero Experto]` en gestión de deudas.
 > **Petición:** Tengo las siguientes deudas: `[Lista breve de deudas con montos e intereses]`. ¿Cuál es el orden óptimo para pagarlas y por qué?
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

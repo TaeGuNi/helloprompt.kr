@@ -47,7 +47,7 @@ Verwenden Sie diese Version, wenn Sie einfach die Liste der Berechtigungen kopie
 > - Name: `[Name der Erweiterung]`
 > - Angeforderte Berechtigungen: `[Kopieren/Einfügen der im Web Store angegebenen Berechtigungen]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 
@@ -115,7 +115,7 @@ Machen Sie es sich zur Gewohnheit, regelmäßig `chrome://extensions/` in die Ad
 
 ### ❌ Vorher (Einfache Frage)
 
-> Ist diese PDF-Konverter-Erweiterung sicher? Die Berechtigung lautet 'Daten aller Websites lesen'.
+Ist diese PDF-Konverter-Erweiterung sicher? Die Berechtigung lautet 'Daten aller Websites lesen'.
 
 ```text
 Die meisten PDF-Konverter müssen den gesamten Inhalt der Webseite erfassen, daher ist diese Berechtigung möglicherweise erforderlich. Es ist jedoch ratsam, Bewertungen zu prüfen, um festzustellen, ob es sich um einen vertrauenswürdigen Entwickler handelt.

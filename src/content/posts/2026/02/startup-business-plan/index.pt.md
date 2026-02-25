@@ -42,7 +42,7 @@ Use isto quando quiser testar rapidamente se a sua ideia tem o formato adequado 
 > **Role (Papel):** Você é um consultor especialista em editais de inovação e fomento para startups.
 > **Task (Tarefa):** Resuma as seções de **'Problema (Problem)'** e **'Solução (Solution)'** para a minha ideia de `[Aplicativo de match para passeadores de cães]` em tópicos curtos (bullet points) com uma linguagem corporativa e objetiva, usando no máximo 3 linhas para cada seção.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Estrutura PSST Completa)
 

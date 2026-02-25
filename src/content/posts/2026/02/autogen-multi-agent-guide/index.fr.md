@@ -40,15 +40,15 @@ tags: ["AutoGen", "멀티에이전트", "MS", "AI협업", "자동화"]
 Utilisez ce prompt pour générer le code d'interaction 1:1 le plus basique.
 
 > **Rôle :** Tu es un `[Développeur Python Senior]`.
->
+
 > **Requête :** Rédige un script Python utilisant AutoGen où deux agents collaborent.
->
-> 1. **AssistantAgent (Coder) :** Son rôle est d'écrire le code Python.
-> 2. **UserProxyAgent (Executor) :** Son rôle est d'exécuter localement le code rédigé par le Coder et de lui renvoyer les résultats en feedback.
->
+
+1. **AssistantAgent (Coder) :** Son rôle est d'écrire le code Python.
+2. **UserProxyAgent (Executor) :** Son rôle est d'exécuter localement le code rédigé par le Coder et de lui renvoyer les résultats en feedback.
+
 > **Objectif :** Configure les deux agents pour accomplir la tâche suivante : "Trouver les nombres premiers (Prime Numbers) de 1 à 100 et les sauvegarder dans un fichier .txt".
 
-<br>
+\
 
 ### 🥇 Version Pro (Entreprise IT virtuelle : PM, Dev, QA)
 

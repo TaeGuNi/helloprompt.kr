@@ -46,7 +46,7 @@ Ideal für kleinere Alltagsprobleme oder wenn Sie einfach nur neugierig auf die 
 > - Rasse/Alter: `[Eingabe, z.B. Dackel, 3 Jahre]`
 > - Spezifische Situation: `[Eingabe, z.B. knurrt, wenn jemand an der Tür klingelt]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Maßgeschneiderte Lösung)
 

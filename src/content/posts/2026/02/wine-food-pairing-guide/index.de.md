@@ -48,7 +48,7 @@ Die häufigste Situation: Das Essen steht bereits fest und Sie möchten schnell 
 > 2. Wähle beliebte Rebsorten, die auch für Weinanfänger leicht zu trinken sind.
 > 3. Erkläre in genau einem Satz, warum jeder Wein zu diesem Gericht passt.
 
-<br>
+\
 
 ### 🥇 Pro Version (Präzise Geschmacksanalyse)
 

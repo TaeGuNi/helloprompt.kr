@@ -42,7 +42,7 @@ Utilizza questa versione per afferrare rapidamente il significato generale di un
 > **Ruolo:** Sei un esperto filologo classico e un divulgatore storico.
 > **Richiesta:** Traduci questo documento antico in un italiano moderno e accessibile, spiegandone brevemente il significato nascosto: `[INSERISCI TESTO STORICO]`
 
-<br>
+\
 
 ### 🥇 Versione Pro (Analisi Approfondita)
 

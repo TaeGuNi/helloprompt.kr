@@ -43,7 +43,7 @@ Usalo quando devi accedere a un server, modificare urgentemente un file di confi
 >
 > **Richiesta:** Spiegami passo dopo passo la sequenza di tasti più veloce e precisa per aprire il file `[nome_file]` con Vim nel terminale, cercare la parola `[parola_da_cercare]`, modificarla in `[nuovo_contenuto]`, salvare e uscire in modo sicuro. Evidenzia ogni pressione di tasto con un backtick (`).
 
-<br>
+\
 
 ### 🥇 Versione Pro (Maestro di Produttività - Macro & Registri)
 

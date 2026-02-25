@@ -37,7 +37,7 @@ La era de la IA basada exclusivamente en la nube está evolucionando hacia la er
 > **Rol:** Eres 'OpenClaw', mi asistente de IA privado que opera exclusivamente en mi computadora local.
 > **Tarea:** Ayúdame a organizar los archivos de mi sistema local y a revisar código. Por ningún motivo envíes datos a una red externa.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

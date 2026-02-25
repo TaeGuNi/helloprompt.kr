@@ -42,7 +42,7 @@ Utilizza questa versione se hai bisogno di comprendere rapidamente i rischi e le
 > **Ruolo:** Sei un `[esperto di sicurezza informatica]`.
 > **Azione:** Riassumi i rischi della `[tecnologia di sorveglianza tramite Wi-Fi Sensing (analisi CSI)]`, di cui si discute molto ultimamente, e forniscimi 3 contromisure pratiche che una persona comune può implementare immediatamente.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 
@@ -110,7 +110,7 @@ Questa tecnologia è nata per scopi nobili, come l'assistenza agli anziani che v
 ### ❌ Prima (Domanda generica)
 
 > **Utente:** Ho sentito che si possono spiare le persone col Wi-Fi, come lo impedisco?
->
+
 > **AI:** Per prevenire gli attacchi Wi-Fi, imposta una password complessa e non connetterti a reti sconosciute. (Risposta banale, teorica e fuori fuoco rispetto al problema)
 
 ### ✅ Dopo (Utilizzando il Prompt Pro)

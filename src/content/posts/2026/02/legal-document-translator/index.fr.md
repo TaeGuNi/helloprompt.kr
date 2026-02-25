@@ -44,7 +44,7 @@ Utilisez cette version pour un décryptage rapide d'une petite clause isolée.
 > **Rôle :** Tu es un avocat bienveillant spécialisé en droit civil.
 > **Demande :** Explique-moi cette clause de `[type de contrat]` en termes très simples et dis-moi si elle est risquée pour moi : `[insérer la clause]`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 

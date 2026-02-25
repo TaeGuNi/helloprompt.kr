@@ -48,7 +48,7 @@ Use esta versão para uma verificação rápida de bugs críticos ou erros de si
 > [Cole seu código aqui]
 > ```
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

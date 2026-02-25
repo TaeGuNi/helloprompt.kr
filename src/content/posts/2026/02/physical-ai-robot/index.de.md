@@ -38,7 +38,7 @@ Nutzen Sie diese Variante für einen schnellen, fundierten Überblick über Ihre
 > **Rolle:** Du bist ein Experte für Robotik und Physical AI.
 > **Aufgabe:** Erkläre mir präzise, wie Physical AI die `[Ihre Branche]`-Branche in den nächsten 3 Jahren transformieren wird und nenne 3 konkrete, sofort umsetzbare Anwendungsfälle.
 
-<br>
+\
 
 ### 🥇 Pro-Version
 

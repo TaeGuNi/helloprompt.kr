@@ -43,7 +43,7 @@ Use this when you need a quick conversion of basic CSS properties into Tailwind 
 > **Task:** Convert the following CSS code into the most appropriate Tailwind CSS utility classes.
 > **CSS:** `display: flex; justify-content: center; align-items: center; height: 100vh;`
 
-<br>
+\
 
 ### 🥇 Pro Version (Component Generation)
 

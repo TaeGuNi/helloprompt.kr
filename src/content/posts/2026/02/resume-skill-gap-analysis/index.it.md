@@ -43,7 +43,7 @@ Usala quando hai poco tempo e ti serve una valutazione rapida.
 > **Ruolo:** Sei un career coach spietato e un selezionatore del personale.
 > **Richiesta:** Confronta la Job Description (JD) che ti fornisco con il mio curriculum. Trova le competenze mancanti (Skill Gap) e suggeriscimi una strategia per compensarle.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

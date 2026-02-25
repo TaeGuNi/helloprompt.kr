@@ -42,7 +42,7 @@ No tenemos tiempo para buscar manualmente cómo cerró Wall Street, las últimas
 > **Rol:** Eres un presentador de noticias encargado de ofrecer un resumen matutino rápido y preciso.
 > **Tarea:** Resume las 5 noticias más importantes ocurridas desde ayer por la noche hasta esta mañana.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

@@ -42,7 +42,7 @@ Idéal pour débloquer l'inspiration en un instant.
 > **Rôle :** Tu es un scénariste de génie, maître des retournements de situation imprévisibles.
 > **Requête :** Je veux écrire une histoire où `[le héros sauve la princesse]`. Propose-moi 3 twists choquants qui détruisent ce cliché, avec une idée d'indice subtil à placer au début de l'histoire pour chacun.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Expert)
 
@@ -101,17 +101,17 @@ La véritable force d'un bon retournement de situation ne réside pas dans l'eff
 
 ### ❌ Before (Entrée Cliché)
 
-> "Le héros intrépide a traversé les terres désolées, vaincu le Roi Démon dans son donjon et sauvé le monde de l'apocalypse."
+"Le héros intrépide a traversé les terres désolées, vaincu le Roi Démon dans son donjon et sauvé le monde de l'apocalypse."
 
 ### ✅ After (Résultat de l'IA)
 
 > **Idée 1 : Le Complexe du Berger**
->
-> - **Attente habituelle :** Le monde est enfin en paix.
-> - **Le Twist :** Le "Roi Démon" n'était pas un envahisseur, mais un gardien. Les monstres qu'il contrôlait étaient en réalité des anticorps protégeant la planète d'une entité parasite bien plus vaste : l'humanité. En le tuant, le héros a désactivé le système immunitaire de la Terre, déclenchant la véritable apocalypse. Le héros n'est pas le sauveur, mais le patient zéro.
-> - **Indices à planter (Foreshadowing) :**
->   1. La magie de guérison du héros accélère la putréfaction de la flore locale.
->   2. Les "monstres" du Roi Démon ne détruisaient jamais les villes, ils attaquaient uniquement les mines et les usines polluantes.
+
+- **Attente habituelle :** Le monde est enfin en paix.
+- **Le Twist :** Le "Roi Démon" n'était pas un envahisseur, mais un gardien. Les monstres qu'il contrôlait étaient en réalité des anticorps protégeant la planète d'une entité parasite bien plus vaste : l'humanité. En le tuant, le héros a désactivé le système immunitaire de la Terre, déclenchant la véritable apocalypse. Le héros n'est pas le sauveur, mais le patient zéro.
+- **Indices à planter (Foreshadowing) :**
+  1. La magie de guérison du héros accélère la putréfaction de la flore locale.
+  2. Les "monstres" du Roi Démon ne détruisaient jamais les villes, ils attaquaient uniquement les mines et les usines polluantes.
 
 ---
 

@@ -42,7 +42,7 @@ A la hora de pedir un préstamo, existen principalmente dos sistemas de amortiza
 > **Rol:** Eres un experto financiero y especialista en Excel avanzado.
 > **Solicitud:** Crea una plantilla de cálculo de intereses y amortización de préstamos en Excel, explicando paso a paso cómo usar las funciones financieras básicas para no depender de simuladores bancarios.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

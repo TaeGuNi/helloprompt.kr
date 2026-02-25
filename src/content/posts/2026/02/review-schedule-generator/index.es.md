@@ -42,7 +42,7 @@ El cerebro humano está diseñado para olvidar; es un mecanismo de supervivencia
 > **Rol:** Eres un `[Experto en Ciencia Cognitiva y Estrategias de Aprendizaje]`.
 > **Solicitud:** Crea un calendario de repasos basado en la Curva del Olvido de Ebbinghaus para el tema `[Nombre del Tema]`, empezando hoy.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Expert Version)
 

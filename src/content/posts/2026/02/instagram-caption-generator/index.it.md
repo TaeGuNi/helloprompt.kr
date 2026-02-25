@@ -42,7 +42,7 @@ Usala quando sei di fretta e hai bisogno di un risultato rapido senza troppe imp
 > **Ruolo:** Sei un esperto `[Copywriter per Social Media]`.
 > **Richiesta:** Scrivi una didascalia per Instagram su `[Argomento/Foto]` con un tono `[Atmosfera desiderata]` e includi 5 hashtag pertinenti.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 

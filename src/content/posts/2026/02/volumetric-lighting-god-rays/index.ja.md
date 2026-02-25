@@ -42,7 +42,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Lighting", "Atmosphere"]
 > **役割:** あなたはプロのライティングアーティストです。
 > **リクエスト:** `[主題]`を描写してください。その際、空気中の埃まで照らし出す神秘的な光の筋（God rays）やVolumetric lightingの効果を強調して、ドラマチックな雰囲気に仕上げてください。
 
-<br>
+\
 
 ### 🥇 Pro Version (専門家形)
 

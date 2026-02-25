@@ -42,7 +42,7 @@ Perfect for those exhausted evenings when you need a story in seconds.
 > **Role:** You are a children's book author and a theater director known for your warm, soothing sensibility.
 > **Task:** Write a short, calming shadow play script about a magical world that I can perform using just my hands and a flashlight.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

@@ -40,7 +40,7 @@ Nutzen Sie diesen Prompt, wenn Sie ein rohes Transkript schnell zusammenfassen m
 > **Aufgabe:** Fasse das folgende Meeting-Transkript zusammen und liste die wichtigsten Punkte sowie die nächsten Schritte auf.
 > **Transkript:** `[Hier Transkript einfügen]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Level)
 

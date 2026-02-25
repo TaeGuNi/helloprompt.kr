@@ -45,7 +45,7 @@ Use this when you want to quickly grasp the core meaning and usage of a line.
 > **Line:** `["I don't know if I can handle this anymore."]`
 > **Task:** Translate the meaning of this sentence naturally according to the context, and create 3 additional real-life example sentences using key words or idioms from it, like `[handle]`.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

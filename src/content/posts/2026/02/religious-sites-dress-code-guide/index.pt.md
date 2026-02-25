@@ -48,7 +48,7 @@ Ideal para quando você está na fila de entrada e precisa de uma resposta em 10
 > **Papel:** Você é um especialista em turismo cultural e etiqueta religiosa.
 > **Tarefa:** Vou visitar o `[Nome do Local Sagrado]` em `[Cidade/País]`. Diga-me rapidamente, em tópicos curtos, o que NÃO posso vestir para não ser barrado na entrada.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

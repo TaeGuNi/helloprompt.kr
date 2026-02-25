@@ -42,7 +42,7 @@ Idéal lorsque vous avez besoin rapidement d'une narration de haute qualité (en
 > **Rôle :** Tu es un `[Directeur Audio Expert]`.
 > **Tâche :** Je vais te fournir un `[Script]`. Explique-moi comment configurer une voix féminine française, calme et digne de confiance, adaptée à une narration de documentaire, et détaille la procédure pour télécharger le fichier audio final.
 
-<br>
+\
 
 ### 🥇 Version Pro
 

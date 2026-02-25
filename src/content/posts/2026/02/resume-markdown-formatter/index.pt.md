@@ -43,7 +43,7 @@ Use esta versão quando precisar apenas de um resultado rápido e direto.
 > **Solicitação:** Converta o seguinte conteúdo desordenado de currículo em um formato Markdown limpo e perfeitamente estruturado, para facilitar a conversão em PDF ou a criação de um currículo no Notion.
 > `[Cole o seu texto aqui]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

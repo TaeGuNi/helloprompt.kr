@@ -41,7 +41,7 @@ Usala quando hai un testo generato dall'IA (o una tua bozza frettolosa) e vuoi r
 > **Ruolo:** Sei un copywriter esperto e un editor spietato.
 > **Azione:** Riscrivi questo `[testo]` eliminando tutti i cliché tipici dell'IA (es. "Nel panorama odierno", "In conclusione", "Sbloccare il potenziale"). Rendilo diretto, conciso e con un tono di voce colloquiale ma professionale. Usa frasi brevi e verbi attivi.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

@@ -42,7 +42,7 @@ Use this when you need a fast, reliable set of questions before walking into the
 > **Role:** You are an elite, strategic career coach.
 > **Task:** Provide 3 smart, strategic reverse questions I can ask the interviewer when they say "Do you have any questions for us?" at the end of my job interview. Ensure the questions demonstrate my deep interest in the company and my insight into the role.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Craftsmanship)
 

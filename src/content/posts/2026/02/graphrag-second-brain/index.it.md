@@ -41,7 +41,7 @@ Usala direttamente in chat per test rapidi, quando vuoi solo estrarre le parole 
 > **Ruolo:** Sei un `[Analista Dati]`.
 > **Task:** Analizza il testo seguente, estrai le parole chiave principali come nodi e le relazioni tra di esse come archi. Restituisci il risultato in formato JSON.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

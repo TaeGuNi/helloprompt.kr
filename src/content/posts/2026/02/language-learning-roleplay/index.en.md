@@ -42,7 +42,7 @@ Use this when you just want to jump straight into a quick practice session.
 > **Role:** You are a `[New York Cafe Barista]` and I am a `[Tourist with basic English skills]`.
 > **Task:** Let's roleplay. Speak to me one sentence at a time, and wait for my response. Keep the vocabulary simple.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Mode)
 
@@ -108,7 +108,7 @@ Let's practice English. Let's pretend we are at a cafe. You be the cashier.
 
 _(Result: The AI often generates both sides of the conversation at once, or gives unnaturally long, textbook-style responses that don't mimic real life.)_
 
-<br>
+\
 
 ### ✅ After (Using the Pro Prompt)
 

@@ -13,7 +13,7 @@ tags: ["Rust", "러스트", "시스템프로그래밍", "백엔드", "WebAssembl
 
 - **🎯 Recomendado para:** Desenvolvedores de sistemas exaustos de vazamentos de memória (Segfaults) em C/C++, Engenheiros de Backend que buscam performance sem limites
 - **⏱️ Tempo estimado:** 20 minutos (para entender o conceito central de Ownership)
-- **🤖 Modelos recomendados:** Qualquer IA conversacional (ChatGPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro, etc.)
+- **🤖 Modelos recomendados:** Qualquer IA conversacional (ChatGPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro, etc.)
 
 - ⭐ **Dificuldade:** ⭐⭐⭐⭐⭐
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Use isto quando precisar aprender rapidamente a sintaxe básica e o sistema de b
 > **Role (Papel):** Você é um `[Desenvolvedor Rust]` Sênior.
 > **Task (Tarefa):** Explique no nível de um iniciante os comandos de CLI para criar, compilar e executar um novo projeto usando `[Cargo]`, acompanhado do código para imprimir 'Hello World' em Rust.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

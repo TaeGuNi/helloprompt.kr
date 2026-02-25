@@ -70,10 +70,10 @@ O verdadeiro poder de um editor de IA depende fundamentalmente de **'como você 
 Este é o prompt mais fundamental para solicitar correções de bugs ou implementações de funcionalidades simples. Cole-o diretamente na janela `Cmd+K` do Cursor.
 
 > **Função:** Você é um desenvolvedor frontend sênior com 10 anos de experiência.
->
+
 > **Tarefa:** Resolva o `[problema ou funcionalidade a ser adicionada]` no arquivo `[nome_do_arquivo]` que está aberto no momento. Certifique-se de que o código siga rigorosamente a verificação de tipos do TypeScript e as convenções do Tailwind CSS.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Para Refatoração de Arquitetura no Windsurf / OpenClaw)
 

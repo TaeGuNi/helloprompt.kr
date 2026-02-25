@@ -42,7 +42,7 @@ Nutzen Sie diese Version, wenn Sie sofort eine einfache Vorlage benötigen.
 > **Rolle:** Du bist ein Produktivitätsexperte und Coach für Zeitmanagement.
 > **Aufgabe:** Erstelle mir eine 30-minütige Morgenroutine, die mir hilft, wacher zu werden und mich auf meine wichtigsten Aufgaben zu fokussieren.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten & maximale Details)
 

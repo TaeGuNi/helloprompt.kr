@@ -43,7 +43,7 @@ Usala quando hai bisogno di un risultato rapido e d'impatto senza doverti preocc
 > **Ruolo:** Sei un fotografo professionista.
 > **Richiesta:** Genera l'immagine di `[Soggetto]` illuminato dalla luce calda ed emozionante della golden hour.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

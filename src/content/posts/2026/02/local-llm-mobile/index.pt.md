@@ -43,7 +43,7 @@ Para usuários que desejam experimentar a IA local sem configurações complexas
 > **Ferramentas:** Instale aplicativos como o _LM Studio_ (se disponível para mobile) ou o _Ollama_ via terminais adaptados.
 > **Ação:** Baixe um modelo leve (como Phi-3 Mini ou Llama 3 8B quantizado) e comece a conversar em modo avião.
 
-<br>
+\
 
 ### 🥇 Pro Version (Abordagem Profissional)
 

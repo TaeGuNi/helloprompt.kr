@@ -43,7 +43,7 @@ Verwende dies für schnelle, unkomplizierte 1:1 Konvertierungen ohne komplexe Lo
 > **Aufgabe:** Konvertiere die folgenden CSV-Daten in ein formatiertes JSON-Array. Entferne dabei alle leeren Felder.
 > **Daten:** `[Hier Daten einfügen]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Prompt)
 

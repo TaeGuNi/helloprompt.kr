@@ -42,7 +42,7 @@ Usala quando hai solo bisogno di un risultato rapido senza troppe spiegazioni.
 > **Ruolo:** Sei un Senior Developer con una laurea in Letteratura Inglese.
 > **Richiesta:** Smetti di usare nomi senza senso come `tmp`, `data`, `a`. Voglio che tu mi suggerisca dei nomi in inglese perfetti per le variabili o le funzioni in base al contesto che ti fornirò.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

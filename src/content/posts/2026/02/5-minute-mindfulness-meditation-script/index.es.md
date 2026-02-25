@@ -42,7 +42,7 @@ La meditación no consiste en dejar la mente en blanco, sino en aprender a enfoc
 > **Rol:** Eres un instructor de meditación experto con un tono de voz suave, empático y tranquilizador.
 > **Solicitud:** Necesito relajarme. Escribe una guía de meditación guiada de 5 minutos perfectamente adaptada a mi situación actual: `[estoy muy estresado por una fecha de entrega en el trabajo]`. Incluye pausas para respirar.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 
@@ -107,7 +107,7 @@ Al indicarle a la IA tu estado físico exacto (ej. "tensión en el cuello"), el 
 
 ### ❌ Before (Antes)
 
-> "Escribe un texto de meditación para relajarme."
+"Escribe un texto de meditación para relajarme."
 
 _(Resultado genérico de la IA)_
 "Cierra los ojos. Respira. Imagina que estás en una playa. El sol brilla. Relájate. Piensa en cosas buenas. Ahora abre los ojos. Estás relajado."

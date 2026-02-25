@@ -42,7 +42,7 @@ El verdadero núcleo de un informe persuasivo no es la cantidad de datos, sino s
 > **Rol:** Eres un Director de Estrategia corporativa altamente experimentado.
 > **Solicitud:** Crea una estructura de índice para un informe sobre `[Tema del Informe]`, asegurando un flujo lógico persuasivo y claro.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

@@ -42,7 +42,7 @@ Ideale quando hai bisogno di una bozza veloce per testare un'idea o creare una s
 > **Ruolo:** Agisci come un Producer di YouTube esperto di canali da oltre 1 milione di iscritti.
 > **Richiesta:** Crea la struttura di uno script per un video sul tema `[Argomento]`, massimizzando la retention ed evitando l'abbandono nei primi 5 secondi.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

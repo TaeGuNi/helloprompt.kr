@@ -9,7 +9,7 @@ tags: ["Internet", "Archiving", "History", "Web"]
 
 - **🎯 Público-Alvo:** Pesquisadores, Curadores de Conteúdo, Arquivistas Digitais, Profissionais de Marketing
 - **⏱️ Tempo Estimado:** 1 hora → Reduzido para 1 minuto
-- **🤖 Modelos Recomendados:** Modelos com ampla janela de contexto (Recomendado: Claude 3.5 Sonnet, Gemini 1.5 Pro)
+- **🤖 Modelos Recomendados:** Modelos com ampla janela de contexto (Recomendado: Claude 3.5 Sonnet, Gemini 2.5 Pro)
 
 - ⭐ **Dificuldade:** ⭐⭐⭐☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -40,7 +40,7 @@ Use esta versão quando precisar salvar rapidamente apenas o texto principal da 
 > **Role:** Você é um 'Arquivista Digital' especialista.
 > **Task:** A partir do texto confuso da página web fornecido abaixo, remova todo o ruído (como menus e anúncios) e organize apenas o 'conteúdo principal' informativo de forma limpa usando Markdown.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Professional Version)
 
@@ -91,7 +91,7 @@ Ele brilha especialmente em cenários onde os web clippers convencionais falham 
   - R: Ambos funcionam. No entanto, para as páginas modernas de renderização dinâmica, selecionar tudo (Ctrl+A) e copiar diretamente da tela do navegador é muito mais vantajoso. Isso reduz significativamente o ruído de scripts ocultos e entrega apenas o texto essencial para a IA.
 
 - **P: O texto é muito longo e o modelo de IA está retornando um erro. O que eu faço?**
-  - R: Copiar uma página web inteira pode causar um pico massivo na contagem de tokens. É altamente recomendável usar modelos que suportam um limite elevado de tokens de entrada (por exemplo, Claude 3.5 Sonnet ou Gemini 1.5 Pro).
+  - R: Copiar uma página web inteira pode causar um pico massivo na contagem de tokens. É altamente recomendável usar modelos que suportam um limite elevado de tokens de entrada (por exemplo, Claude 3.5 Sonnet ou Gemini 2.5 Pro).
 
 ---
 
@@ -131,7 +131,7 @@ tags: ["Conteúdo Dinâmico", "SPA", "Plataformas Fechadas"]
 
 Com o aumento de conteúdos dinâmicos, Single Page Applications (SPA) e ecossistemas fechados, preservar a história da web aberta está cada vez mais difícil para os arquivistas digitais.
 
-> "Estamos gerando o maior volume de dados da história, mas, simultaneamente, vivendo na era em que os perdemos mais rápido."
+"Estamos gerando o maior volume de dados da história, mas, simultaneamente, vivendo na era em que os perdemos mais rápido."
 
 ... (trecho omitido: O texto principal é logicamente mantido e refinado, sem qualquer perda do contexto original) ...
 ```

@@ -42,7 +42,7 @@ Utilisez cette version lorsque vous avez besoin d'un état des lieux express.
 > **Rôle :** Tu es un Analyste Stratégique Senior.
 > **Requête :** Fais-moi une analyse comparative des forces et faiblesses entre `[Mon Produit]` et `[Concurrent Principal]`, et identifie nos opportunités de différenciation.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

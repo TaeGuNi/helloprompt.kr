@@ -42,7 +42,7 @@ Nutze diesen Prompt, um das Risiko deines aktuellen Portfolios in Sekundenschnel
 > **Mein Portfolio:** 80 % deutsche/europäische Aktien, 20 % Tagesgeld.
 > **Anfrage:** Analysiere das größte Risiko in meinem Portfolio. Was passiert im Falle einer Wirtschaftskrise? Bitte gib mir konkrete Ratschläge, wie und in welchem Umfang ich den Anteil an sicheren Anlagen (Safe-Haven-Assets) erhöhen sollte.
 
-<br>
+\
 
 ### 🥇 Pro Version (Professionelles Rebalancing & Diagnose)
 

@@ -37,7 +37,7 @@ La industria cinematográfica de Hollywood está experimentando un cambio sísmi
 > **Rol:** Eres un `[guionista de Hollywood]`.
 > **Tarea:** Escribe un resumen de 3 párrafos para una película sobre `[tema de la película]`.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

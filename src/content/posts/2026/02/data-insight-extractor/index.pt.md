@@ -42,7 +42,7 @@ Use esta versão quando precisar de uma análise rápida e direta dos seus dados
 > **Papel:** Você é um Cientista de Dados Sênior.
 > **Solicitação:** Analise os seguintes dados numéricos e extraia as 3 principais implicações para o nosso negócio: `[Cole os dados aqui]`
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert Version)
 
@@ -82,7 +82,7 @@ Ao adicionar o papel de "Cientista de Dados Sênior com foco em inteligência de
 ## 🙋 Perguntas Frequentes (FAQ)
 
 - **Q: Posso colar muitos dados de uma vez só no chat?**
-  - A: Depende do modelo de IA que você está usando. O Claude 3.5 Sonnet e o Gemini 1.5 Pro possuem enormes janelas de contexto e lidam maravilhosamente bem com planilhas gigantescas. No ChatGPT (versão gratuita), o ideal é não colar dezenas de milhares de linhas para evitar que o modelo se perca, ou simplesmente anexar o arquivo `.csv` / `.xlsx` na conversa se a funcionalidade estiver disponível para você.
+  - A: Depende do modelo de IA que você está usando. O Claude 3.5 Sonnet e o Gemini 2.5 Pro possuem enormes janelas de contexto e lidam maravilhosamente bem com planilhas gigantescas. No ChatGPT (versão gratuita), o ideal é não colar dezenas de milhares de linhas para evitar que o modelo se perca, ou simplesmente anexar o arquivo `.csv` / `.xlsx` na conversa se a funcionalidade estiver disponível para você.
 
 - **Q: E se a IA errar nos cálculos matemáticos, corrompendo a minha análise?**
   - A: Ferramentas modernas como as versões pagas do ChatGPT (com "Advanced Data Analysis" ativado) na verdade rodam scripts Python em segundo plano, o que garante 100% de precisão nos cálculos. No entanto, se você utilizar a IA baseada puramente em texto, ela pode ocasionalmente sofrer _hallucinations_ em matemática complexa. Nesses casos, a dica de ouro é: peça para a IA **identificar as tendências comportamentais dos dados**, e não para somar os valores centavos por centavos. De qualquer modo, sempre faça uma leitura atenta antes de encaminhar um relatório para sua diretoria.

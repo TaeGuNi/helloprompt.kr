@@ -48,7 +48,7 @@ Use this lightly when you need a quick check for critical bugs or syntax errors.
 > [Paste your code here]
 > ```
 
-<br>
+\
 
 ### 🥇 Pro Version
 

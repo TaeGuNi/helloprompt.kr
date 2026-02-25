@@ -42,7 +42,7 @@ Nutzen Sie diese Variante, wenn Sie sofort Ergebnisse brauchen und wenig Zeit ha
 > **Rolle:** Du bist ein kreativer Erlebnispädagoge und Experte für spannende Kinderspiele.
 > **Anfrage:** Erstelle 5 kurze Rätsel für eine Schatzsuche in der Wohnung für ein 6-jähriges Kind. Die Verstecke sind: Sofa, Kühlschrank, Bett, Waschmaschine, Schuhschrank.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 

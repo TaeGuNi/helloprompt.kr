@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "edge-ai-privacy-2026"]
 
 - **🎯 Consigliato per:** Sviluppatori, Software Architect, Product Manager
 - **⏱️ Tempo risparmiato:** Ore di ricerca architetturale → 2 minuti
-- **🤖 Modelli consigliati:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modelli consigliati:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Difficoltà:** ⭐⭐⭐☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -39,7 +39,7 @@ Usa questa versione per ottenere rapidamente una panoramica sulle opzioni locali
 > **Ruolo:** Sei un Software Architect esperto in Edge AI.
 > **Richiesta:** Spiegami come integrare un LLM locale nella mia app `[Inserisci tipo di app, es. gestione spese]` per garantire la privacy degli utenti, suggerendomi un paio di modelli leggeri da testare.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

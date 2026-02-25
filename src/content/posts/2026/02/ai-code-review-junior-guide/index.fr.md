@@ -42,7 +42,7 @@ Cependant, si vous transformez l'**IA** en votre "mentor personnel", la donne ch
 > **Tâche :** Vérifie si le code ci-dessous comporte des erreurs logiques ou des problèmes de lisibilité, et propose 3 axes d'amélioration.
 > **Code :** `[Collez votre code ici]`
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

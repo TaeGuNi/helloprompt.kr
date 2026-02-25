@@ -42,7 +42,7 @@ Use this when you are in a pinch and need an immediate script.
 > **Role:** You are an expert child psychologist and gentle parenting coach.
 > **Request:** Write a short, empathetic script to calm my child who is currently throwing a tantrum because I said no to `[buying a toy/snack]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Craftsmanship)
 

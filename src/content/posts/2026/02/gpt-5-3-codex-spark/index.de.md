@@ -51,7 +51,7 @@ Nutzen Sie diese Version für schnelle Code-Verbesserungen und sofortige Bugfixe
 > **Rolle:** Du bist ein `[Senior Backend-Entwickler]`.
 > **Aufgabe:** Refaktorisiere die Funktion `[Name der bestehenden Funktion]` in dieser Datei mit modernster Syntax und behebe dabei mögliche Speicherlecks (Memory Leaks) oder Fehler restlos.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

@@ -45,7 +45,7 @@ Use este prompt quando precisar apenas corrigir erros de digitação e gramátic
 > **Tarefa:** Verifique a ortografia e o espaçamento do `[Texto]` abaixo e corrija naturalmente frases mal estruturadas. Nunca altere o significado original.
 > **Texto:** `[Cole seu texto aqui]`
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

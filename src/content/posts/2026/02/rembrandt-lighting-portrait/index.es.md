@@ -42,7 +42,7 @@ La "Iluminación Rembrandt", una técnica venerada por el maestro holandés del 
 > **Rol:** Eres un fotógrafo experto en retratos cinematográficos.
 > **Solicitud:** Genera la imagen de un `[Sujeto]` utilizando iluminación Rembrandt para resaltar la textura de su piel y darle un tono serio y profundo.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Expert)
 

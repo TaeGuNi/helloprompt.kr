@@ -44,7 +44,7 @@ Verwenden Sie diese Version, wenn Sie ein Videoskript einfach und schnell in ein
 >
 > `[Fügen Sie hier Ihr Skript ein]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 
@@ -103,7 +103,7 @@ Daher ist es entscheidend für die Qualität, der KI nicht einfach zu sagen "Fas
   - A: Wenn es Ihr eigenes Video ist, haben Sie völlige Freiheit. Wenn Sie jedoch einen Blogbeitrag auf Basis des Videos einer anderen Person schreiben, ist Vorsicht geboten. Das bloße Kopieren des Skripts (Plagiat) ist eine klare Urheberrechtsverletzung. Weisen Sie die KI zwingend an, den Text "in eigenen Worten komplett neu zu schreiben (Rewrite)", und geben Sie den Link sowie die Quelle des Originalvideos am Anfang oder Ende Ihres Beitrags deutlich an, um die Grenzen des 'Zitierens' strikt einzuhalten.
 
 - **F: Bricht die KI ab oder lässt sie Inhalte weg, wenn ich ein sehr langes Skript eingebe?**
-  - A: Bei Videos, die länger als eine Stunde dauern, kann es bei Standardmodellen vorkommen, dass Inhalte aufgrund des begrenzten Kontextfensters abgeschnitten werden. In solchen Fällen ist es von großem Vorteil, **Claude 3.5 Sonnet** oder **Gemini 1.5 Pro** zu verwenden, da diese Modelle enorme Mengen an Token auf einmal verarbeiten können. Sie sind darauf spezialisiert, den Kontext langer Texte bis zum Ende beizubehalten, ohne den Faden zu verlieren.
+  - A: Bei Videos, die länger als eine Stunde dauern, kann es bei Standardmodellen vorkommen, dass Inhalte aufgrund des begrenzten Kontextfensters abgeschnitten werden. In solchen Fällen ist es von großem Vorteil, **Claude 3.5 Sonnet** oder **Gemini 2.5 Pro** zu verwenden, da diese Modelle enorme Mengen an Token auf einmal verarbeiten können. Sie sind darauf spezialisiert, den Kontext langer Texte bis zum Ende beizubehalten, ohne den Faden zu verlieren.
 
 ---
 

@@ -13,7 +13,7 @@ tags: ["Riunione", "Riassunto", "Produttività"]
 
 - **🎯 Consigliato per:** Project Manager, Assistenti di Direzione, Team Leader e chiunque partecipi a troppe riunioni.
 - **⏱️ Tempo richiesto:** Da 30 minuti → Ridotto a solo 1 minuto
-- **🤖 Modelli consigliati:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 1.5 Pro (ottimi per contesti lunghi)
+- **🤖 Modelli consigliati:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 2.5 Pro (ottimi per contesti lunghi)
 
 - ⭐ **Difficoltà:** ⭐☆☆☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -45,7 +45,7 @@ Ideale per ottenere una panoramica rapida al volo, quando hai solo bisogno di ca
 >
 > **Input:** `[Incolla qui il testo o la trascrizione della riunione]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

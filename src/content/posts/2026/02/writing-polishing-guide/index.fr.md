@@ -45,7 +45,7 @@ Utilisez ce prompt lorsque vous avez besoin de corriger rapidement les fautes de
 > **Tâche :** Vérifie l'orthographe, la grammaire et la ponctuation du `[Texte]` ci-dessous. Corrige les phrases maladroites pour les rendre naturelles. Ne modifie en aucun cas le sens original du texte.
 > **Texte :** `[Insérer le texte ici]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Transformation du style et réécriture approfondie)
 

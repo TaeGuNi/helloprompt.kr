@@ -43,7 +43,7 @@ Verwenden Sie diese Version für schnelle, ausdrucksstarke Ergebnisse ohne groß
 >
 > **Anfrage:** Erstelle mir einen präzisen Bild-Prompt für ein Porträt mit klassischer Rembrandt-Beleuchtung, das dramatisch und tiefgründig wirkt.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Prompt)
 
@@ -90,13 +90,13 @@ Der Begriff `Rembrandt lighting` ist einer der mächtigsten "Cheat Codes" in der
 
 ### ❌ Vorher (Eingabe)
 
-> Ein Porträt eines alten Mannes.
+Ein Porträt eines alten Mannes.
 
 **(Ergebnis:)** Eine flache, langweilige Frontalaufnahme. Das Gesicht ist gleichmäßig ausgeleuchtet, die Textur der Haut wirkt künstlich und dem Bild fehlt jegliche emotionale Tiefe.
 
 ### ✅ Nachher (Ergebnis)
 
-> (Der oben genannte **Pro Version** Prompt mit Rembrandt-Beleuchtung)
+(Der oben genannte **Pro Version** Prompt mit Rembrandt-Beleuchtung)
 
 **(Ergebnis:)** Ein meisterhaftes, kinoreifes Porträt. Eine Gesichtshälfte liegt im dramatischen Schatten, während die andere Seite präzise ausgeleuchtet ist. Das ikonische Lichtdreieck auf der Wange ist sichtbar, jede Falte erzählt eine Geschichte, und das Bild strahlt eine unglaubliche Ernsthaftigkeit aus.
 

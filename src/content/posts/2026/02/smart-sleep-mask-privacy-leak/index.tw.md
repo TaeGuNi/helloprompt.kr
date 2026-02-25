@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "smart-sleep-mask-privacy-leak"]
 
 - **🎯 推薦對象:** 物聯網 (IoT) 開發者、資安工程師、產品經理
 - **⏱️ 節省時間:** 手動原始碼審查 2 小時 → AI 審查 2 分鐘
-- **🤖 推薦模型:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 推薦模型:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **難易度:** ⭐⭐⭐☆☆
 - ⚡️ **有效性:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ tags: ["AI", "Tech", "smart-sleep-mask-privacy-leak"]
 > **任務:** 請檢查以下 BLE 連線程式碼，指出是否存在未授權讀取或廣播敏感資料的安全漏洞，並提供修復建議。
 > **程式碼:** `[貼上你的 BLE 連線程式碼]`
 
-<br>
+\
 
 ### 🥇 Pro Version (專家版)
 

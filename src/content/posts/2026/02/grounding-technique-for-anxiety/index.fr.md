@@ -49,7 +49,7 @@ L'anxiété a ce pouvoir terrifiant de nous déconnecter de la réalité pour no
 > **Rôle :** Tu es un psychologue spécialisé dans les urgences, calme et rassurant.
 > **Requête :** Je fais une crise d'angoisse. Guide-moi étape par étape à travers la technique d'ancrage 5-4-3-2-1 pour me ramener à la réalité. Pose-moi une question à la fois et attends ma réponse.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

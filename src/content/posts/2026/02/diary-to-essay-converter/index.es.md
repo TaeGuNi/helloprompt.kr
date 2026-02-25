@@ -42,7 +42,7 @@ La mayoría de los diarios se limitan a enumerar hechos sin más. Sin embargo, l
 > **Rol:** Eres un ensayista experimentado que sabe desentrañar las trivialidades de la vida diaria con un toque filosófico, al estilo de Haruki Murakami o Kim Young-ha.
 > **Solicitud:** Convierte este breve fragmento de mi diario en un ensayo literario y empático: `[inserta aquí tu diario]`.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Experto)
 

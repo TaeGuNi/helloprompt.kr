@@ -44,7 +44,7 @@ Ideale per i Daily Scrum o i meeting informali dove ti serve solo capire rapidam
 >
 > [Incolla qui gli appunti della riunione]
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 
@@ -90,7 +90,7 @@ Nella mia esperienza pratica, di solito copio e incollo le trascrizioni audio ge
 ## 🙋 Domande Frequenti (FAQ)
 
 - **Q: Posso elaborare la trascrizione di una riunione durata più di un'ora in una sola volta?**
-  - A: La maggior parte dei modelli recenti (Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro) supporta finestre di contesto molto ampie e può gestirla in un colpo solo. Tuttavia, per massimizzare la qualità, il trucco è dividere la trascrizione in 2 o 3 parti in base all'ordine del giorno: questo riduce il rischio di allucinazioni e garantisce un riassunto molto più dettagliato.
+  - A: La maggior parte dei modelli recenti (Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro) supporta finestre di contesto molto ampie e può gestirla in un colpo solo. Tuttavia, per massimizzare la qualità, il trucco è dividere la trascrizione in 2 o 3 parti in base all'ordine del giorno: questo riduce il rischio di allucinazioni e garantisce un riassunto molto più dettagliato.
 
 - **Q: Le policy di sicurezza della mia azienda mi impediscono di inserire i dati delle riunioni in un'IA.**
   - A: È un punto fondamentale. Se la riunione contiene dati sensibili, ti consiglio vivamente di anonimizzare o mascherare nomi propri, clienti o cifre specifiche prima di incollare il testo (es. "Azienda A", "Progetto X", "100.000€"). Per la massima sicurezza, utilizza sempre gli ambienti Enterprise (che per contratto non usano i tuoi dati per l'addestramento dei modelli).

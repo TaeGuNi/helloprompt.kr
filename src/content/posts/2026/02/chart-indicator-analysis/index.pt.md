@@ -42,7 +42,7 @@ Use esta versão quando precisar apenas de uma leitura rápida do cenário atual
 > **Papel:** Você é um `[Trader Técnico Profissional]`.
 > **Tarefa:** Interprete de forma simples os indicadores do meu gráfico, como RSI, MACD e Bandas de Bollinger.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert)
 

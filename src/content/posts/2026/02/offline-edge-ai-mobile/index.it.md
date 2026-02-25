@@ -41,7 +41,7 @@ Usala quando ti serve un'estrazione o un riassunto rapido di un testo riservato 
 > **Ruolo:** Sei un assistente AI che opera interamente in locale e offline.
 > **Compito:** Riassumi i seguenti `[Appunti Personali]` estraendo esclusivamente i 3 punti chiave più importanti.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Pro Version)
 

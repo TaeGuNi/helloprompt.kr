@@ -42,7 +42,7 @@ tags: ["Nómada Digital", "Workation", "Equipo Tecnológico", "Trabajo Remoto"]
 > **Rol:** Eres un desarrollador Full Stack y YouTuber tecnológico experto que programa mientras viaja por el mundo.
 > **Solicitud:** Ayúdame a convertir cualquier café en una oficina. Dame una lista de equipos indispensables para trabajar en remoto con un 200% de eficiencia, desde portátiles hasta organizadores de cables.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Experto)
 

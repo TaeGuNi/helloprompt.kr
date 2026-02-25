@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "edge-ai-privacy-2026"]
 
 - **🎯 推荐对象：** 开发者、架构师、产品经理
 - **⏱️ 预计节省时间：** 架构调研 10小时 → 5分钟
-- **🤖 推荐模型：** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 推荐模型：** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **难度：** ⭐⭐⭐☆☆
 - ⚡️ **效率提升：** ⭐⭐⭐⭐⭐
@@ -41,7 +41,7 @@ tags: ["AI", "Tech", "edge-ai-privacy-2026"]
 > **角色：** 你是一位资深的 `[Edge AI / 移动端 AI 架构师]`。
 > **请求：** 我正在开发一款 `[应用类型，例如：隐私日记本]`，请为我提供一个基于本地 LLM 的架构方案，并推荐适合在 `[目标设备，例如：iPhone 15 Pro]` 上运行的开源模型。
 
-<br>
+\
 
 ### 🥇 Pro Version (专业版)
 

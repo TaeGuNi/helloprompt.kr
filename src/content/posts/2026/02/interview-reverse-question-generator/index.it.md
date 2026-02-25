@@ -42,7 +42,7 @@ Usala quando hai poco tempo e ti serve un'ispirazione immediata.
 > **Ruolo:** Sei un career coach strategico con anni di esperienza nel recruiting.
 > **Richiesta:** Creare domande inverse intelligenti e mirate per dimostrare il mio interesse per l'azienda e la mia perspicacia professionale quando mi viene chiesto "Hai qualche domanda?" alla fine del colloquio.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

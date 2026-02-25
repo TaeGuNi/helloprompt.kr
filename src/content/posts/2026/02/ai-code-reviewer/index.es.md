@@ -44,7 +44,7 @@ Pero, ¿qué pasaría si pudieras tener a un Ingeniero Principal (Principal Engi
 > **Rol:** Eres un Ingeniero Principal de Software con 15 años de experiencia en FAANG.
 > **Solicitud:** Revisa el siguiente código y señala 3 áreas de mejora clave en términos de rendimiento y legibilidad: `[Inserta tu código aquí]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

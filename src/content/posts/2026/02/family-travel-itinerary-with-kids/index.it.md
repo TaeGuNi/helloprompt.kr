@@ -43,7 +43,7 @@ Usala quando hai bisogno di risultati rapidi e un'idea generale.
 > **Ruolo:** Sei un esperto "Pianificatore di Viaggi per Famiglie" con 10 anni di esperienza.
 > **Richiesta:** Crea un itinerario di viaggio per `[Destinazione]` che protegga le energie dei bambini e la tranquillità dei genitori.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 
@@ -106,7 +106,7 @@ L'errore più comune quando si pianifica un viaggio in famiglia è riempire le g
 
 ### ❌ Prima (Input Semplice)
 
-> "Pianifica un itinerario di 3 giorni a Da Nang per la mia famiglia."
+"Pianifica un itinerario di 3 giorni a Da Nang per la mia famiglia."
 
 _(Risultato: Un elenco generico di attrazioni turistiche affollate, ristoranti eleganti senza seggioloni e spostamenti di un'ora sotto il sole cocente, che finirebbe inevitabilmente in capricci e pianti stanchi.)_
 

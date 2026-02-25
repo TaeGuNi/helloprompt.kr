@@ -38,7 +38,7 @@ Use this when you need a quick polish to remove obvious AI buzzwords and robotic
 > **Role:** You are an expert human copywriter.
 > **Task:** Rewrite the following `[AI-generated text]` to sound 100% natural and human. Remove all typical AI buzzwords (e.g., "delve," "tapestry," "realm") and write in a conversational, engaging tone.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

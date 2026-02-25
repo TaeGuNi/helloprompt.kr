@@ -42,12 +42,12 @@ Utiliza este prompt cuando tengas la grabación de la reunión o la transcripci�
 > **Rol:** Eres un Project Manager (PM) Senior en una empresa global de TI.
 > **Contexto:** Te proporcionaré el texto completo de la transcripción de una reunión en inglés que acaba de terminar.
 > **Tarea:**
->
-> 1. Resume la agenda principal y las conclusiones de la reunión en 3 líneas.
-> 2. Como responsable local, organiza mis 'Action Items' (tareas pendientes) en orden de prioridad para que pueda empezar a trabajar en ellas hoy mismo.
-> 3. Si hubo alguna parte de la discusión donde los matices fueron ambiguos (por ejemplo, un rechazo indirecto o una aprobación condicional), interprétala claramente.
 
-<br>
+1. Resume la agenda principal y las conclusiones de la reunión en 3 líneas.
+2. Como responsable local, organiza mis 'Action Items' (tareas pendientes) en orden de prioridad para que pueda empezar a trabajar en ellas hoy mismo.
+3. Si hubo alguna parte de la discusión donde los matices fueron ambiguos (por ejemplo, un rechazo indirecto o una aprobación condicional), interprétala claramente.
+
+\
 
 ### 🥇 Versión Pro (Intérprete en tiempo real y Asistente de respuestas)
 
@@ -118,10 +118,10 @@ Durante la reunión, cuando el cliente lance una pregunta difícil en una oraci�
 **Client:** (La misma declaración de arriba)
 **Asistente de IA (Salida en tiempo real):**
 
-> - **Interpretación:** Les preocupa si el backend resistirá si los usuarios se triplican en el tercer trimestre (Q3). Están preguntando cuál es nuestro plan B.
-> - **Matices:** Falta de confianza en la arquitectura actual del servidor. Quieren contramedidas específicas y concretas.
-> - **Respuesta 1 (Preparado):** "We already have an auto-scaling group configured. Let me share the stress test results after this meeting." (Ya tenemos configurado el auto-scaling. Permítame compartir los resultados de las pruebas de estrés después de esta reunión).
-> - **Respuesta 2 (Ganar tiempo):** "That’s a valid point. Our lead engineer is reviewing the exact metrics for Q3. We will get back to you by tomorrow." (Es un punto válido. Nuestro ingeniero principal está revisando las métricas exactas para el Q3. Le daremos una respuesta para mañana).
+- **Interpretación:** Les preocupa si el backend resistirá si los usuarios se triplican en el tercer trimestre (Q3). Están preguntando cuál es nuestro plan B.
+- **Matices:** Falta de confianza en la arquitectura actual del servidor. Quieren contramedidas específicas y concretas.
+- **Respuesta 1 (Preparado):** "We already have an auto-scaling group configured. Let me share the stress test results after this meeting." (Ya tenemos configurado el auto-scaling. Permítame compartir los resultados de las pruebas de estrés después de esta reunión).
+- **Respuesta 2 (Ganar tiempo):** "That’s a valid point. Our lead engineer is reviewing the exact metrics for Q3. We will get back to you by tomorrow." (Es un punto válido. Nuestro ingeniero principal está revisando las métricas exactas para el Q3. Le daremos una respuesta para mañana).
 
 **Tú:** (Mirando el monitor, sonriendo con naturalidad) "That’s a valid point. We already have an auto-scaling..." (Aumento masivo de la confianza 📈 Profesionalismo garantizado 😎)
 

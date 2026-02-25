@@ -42,7 +42,7 @@ Usala quando hai bisogno di una stima veloce e generale.
 > **Ruolo:** Sei un esperto `[Wedding Planner]` e consulente finanziario.
 > **Richiesta:** Aiutami a pianificare un budget realistico per un matrimonio, elencando tutti i possibili costi nascosti e suggerendo come risparmiare.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Esperta)
 
@@ -114,11 +114,11 @@ Ho 30.000 euro per il matrimonio e 100 invitati. Fammi un budget.
 
 | Categoria | Budget Stimato | Dettagli e Costi Nascosti (Attenzione!) |
 | :--- | :--- | :--- |
-| **Location & Catering** | 15.000 € | Menu (100x120€) + Affitto Location 3.000€ <br>⚠️ *Attenzione: Tassa SIAE (ca. 250€), Pasti staff (fotografi/musicisti), Straordinari open bar oltre mezzanotte.* |
-| **Abito & Trucco/Parrucco** | 4.000 € | Abito sposa/sposo + Trucco/Acconciatura <br>⚠️ *Costi extra per prove aggiuntive, trasferta truccatore in location, intimo sposa specifico.* |
-| **Foto & Video** | 2.500 € | Servizio fotografico completo e Video <br>⚠️ *Costo acquisto file RAW originali, sovrapprezzo per uso drone o fotografo extra.* |
-| **Luna di Miele** | 5.000 € | Volo e Soggiorno (es. Sud-est asiatico o USA on the road) <br>⚠️ *Assicurazione di viaggio, visti, escursioni non incluse nei pacchetti.* |
-| **Bomboniere, Fedi & Fiori** | 2.000 € | Allestimento floreale base, fedi nuziali, cadeau invitati <br>⚠️ *I fiori fuori stagione costano il triplo; ricarico per trasporto allestimenti.* |
+| **Location & Catering** | 15.000 € | Menu (100x120€) + Affitto Location 3.000€ \⚠️ *Attenzione: Tassa SIAE (ca. 250€), Pasti staff (fotografi/musicisti), Straordinari open bar oltre mezzanotte.* |
+| **Abito & Trucco/Parrucco** | 4.000 € | Abito sposa/sposo + Trucco/Acconciatura \⚠️ *Costi extra per prove aggiuntive, trasferta truccatore in location, intimo sposa specifico.* |
+| **Foto & Video** | 2.500 € | Servizio fotografico completo e Video \⚠️ *Costo acquisto file RAW originali, sovrapprezzo per uso drone o fotografo extra.* |
+| **Luna di Miele** | 5.000 € | Volo e Soggiorno (es. Sud-est asiatico o USA on the road) \⚠️ *Assicurazione di viaggio, visti, escursioni non incluse nei pacchetti.* |
+| **Bomboniere, Fedi & Fiori** | 2.000 € | Allestimento floreale base, fedi nuziali, cadeau invitati \⚠️ *I fiori fuori stagione costano il triplo; ricarico per trasporto allestimenti.* |
 | **Fondo Imprevisti (Riserva)** | 1.500 € | Partecipazioni, auto sposi, intrattenimento bimbi, mance. |
 
 **💡 Il Consiglio del Planner Finanziario:**

@@ -46,7 +46,7 @@ Nutzen Sie diesen Prompt, wenn Sie schnell die Ursache finden möchten, warum ei
 > **Code:**
 > `[Füge hier den Code der Komponente ein, bei der der Flaschenhals auftritt]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Architektur-Refactoring)
 

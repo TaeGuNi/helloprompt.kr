@@ -49,7 +49,7 @@ Use quando precisar de uma orientação rápida e direta logo após o treino.
 > **Papel:** Você é um treinador de reabilitação esportiva focado em corredores.
 > **Pedido:** Crie uma rotina rápida de desaquecimento de 5 minutos para fazer após uma corrida. O foco é prevenir lesões e evitar dores musculares intensas no dia seguinte.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 
@@ -109,7 +109,7 @@ A verdadeira mágica deste prompt está na personalização da dor e dos equipam
 
 ### ❌ Antes (Entrada Genérica)
 
-> "Me passe um alongamento para fazer depois de correr."
+"Me passe um alongamento para fazer depois de correr."
 
 _(Resultado: Uma lista monótona e robótica de "toque os dedos dos pés" ou "puxe a perna para trás", sem considerar dores específicas, tempo de execução ou foco no relaxamento muscular profundo.)_
 

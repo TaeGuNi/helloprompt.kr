@@ -47,7 +47,7 @@ Nutzen Sie diesen Prompt, wenn Sie schnell verstehen wollen, was ein bestimmter 
 > **Rolle:** Du bist ein erfahrener medizinischer Analyst.
 > **Aufgabe:** Erkläre mir, was `[Gesundheitswert, z.B. HRV von 40ms]` bedeutet und ob das in meinem Alter (`[Alter]`) normal ist. Gib mir 3 einfache Tipps zur Verbesserung im Alltag.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Version)
 

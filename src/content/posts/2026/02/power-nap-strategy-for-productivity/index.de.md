@@ -42,7 +42,7 @@ Nutze diese Version, wenn du sofort eine schnelle Anleitung brauchst.
 > **Rolle:** Du bist ein Experte für Schlafforschung und Produktivität.
 > **Anfrage:** Ich habe ein extremes Mittagstief. Erkläre mir die 'Coffee Nap'-Technik, damit ich jetzt genau 20 Minuten schlafen und danach sofort wieder hellwach arbeiten kann.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Modus)
 
@@ -100,7 +100,7 @@ Der 'Coffee Nap' ist kein Mythos, sondern pure Biologie. Koffein braucht etwa 20
 
 ### ❌ Vorher (Eingabe ohne Struktur)
 
-> Ich bin müde, habe aber gleich ein Meeting. Soll ich schlafen?
+Ich bin müde, habe aber gleich ein Meeting. Soll ich schlafen?
 
 _(Die KI antwortet mit langen, allgemeinen Texten über Schlafhygiene, rät von zu langem Schlaf ab, gibt aber keine klare Handlungsanweisung für die jetzige akute Notfallsituation.)_
 

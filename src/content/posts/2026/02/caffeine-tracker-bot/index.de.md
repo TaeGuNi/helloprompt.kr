@@ -42,7 +42,7 @@ Verwenden Sie diese Version, wenn Sie nur eine schnelle Einschätzung benötigen
 > **Rolle:** Du bist ein Schlaf- und Ernährungsexperte.
 > **Aufgabe:** Ich habe heute um `[Uhrzeit]` eine Tasse `[Kaffeeart]` getrunken. Sag mir, wann die Wirkung am stärksten ist und ob ich heute um `[gewünschte Schlafenszeit]` Uhr gut schlafen kann.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für detaillierte Analysen)
 

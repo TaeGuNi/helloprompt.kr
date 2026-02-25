@@ -42,7 +42,7 @@ Idéal pour obtenir une estimation rapide et sans effort.
 > **Rôle :** Tu es un nutritionniste expert.
 > **Requête :** Analyse les calories et les macros (glucides, protéines, lipides) de ce repas : `[Description du repas ou Photo]`.
 
-<br>
+\
 
 ### 🥇 Version Pro
 
@@ -84,7 +84,7 @@ La magie de ce prompt réside dans sa capacité à réduire drastiquement la fri
   - R : Non, une description détaillée fonctionne très bien (ex: "un grand bol de riz avec du poulet teriyaki"). Cependant, la photo aide l'IA à mieux estimer la taille des portions, améliorant ainsi la précision.
 
 - **Q : Les modèles gratuits (comme la version de base de ChatGPT ou Claude) peuvent-ils le faire ?**
-  - R : Oui, ils peuvent estimer les macros à partir du texte de manière très efficace. Toutefois, pour l'analyse d'images, vous aurez besoin de modèles récents prenant en charge la vision (comme GPT-4o, Claude 3.5 Sonnet ou Gemini 1.5 Pro).
+  - R : Oui, ils peuvent estimer les macros à partir du texte de manière très efficace. Toutefois, pour l'analyse d'images, vous aurez besoin de modèles récents prenant en charge la vision (comme GPT-4o, Claude 3.5 Sonnet ou Gemini 2.5 Pro).
 
 - **Q : Comment l'IA gère-t-elle les recettes faites maison ?**
   - R : Si vous précisez "fait maison avec moins d'huile" ou listez les ingrédients clés, l'IA ajustera ses calculs à la baisse. Le contexte supplémentaire que vous lui fournissez affine grandement ses résultats.

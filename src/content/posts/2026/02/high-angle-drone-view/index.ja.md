@@ -42,7 +42,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Landscape"]
 > **役割:** あなたはプロの風景写真家です。
 > **リクエスト:** `[主題（例：未来のエコシティ）]`を空から見下ろす視点で撮影した、ハイアングル/ドローンショットの画像生成プロンプトを作成してください。
 
-<br>
+\
 
 ### 🥇 Pro Version (専門家形)
 

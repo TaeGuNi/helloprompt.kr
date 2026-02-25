@@ -40,7 +40,7 @@ Use esta versão quando precisar entender rapidamente apenas os resultados funda
 > **Role (Papel):** Você é um `[jornalista científico]`.
 > **Task (Tarefa):** Resuma as principais descobertas do seguinte `[texto ou link do artigo]` e o impacto que elas terão no mundo, apresentando-as em 3 pontos-chave. A explicação deve ser tão simples que até um aluno do ensino fundamental consiga entender.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Especialista)
 

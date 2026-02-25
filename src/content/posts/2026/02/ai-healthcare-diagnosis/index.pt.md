@@ -40,7 +40,7 @@ Use para uma revisão rápida de protocolos padrão ou para refrescar a memória
 > **Função:** Você é um `[Especialista em Clínica Médica]`.
 > **Tarefa:** Forneça as diretrizes de tratamento atualizadas para `[Condição/Doença]`.
 
-<br>
+\
 
 ### 🥇 Versão Pro
 

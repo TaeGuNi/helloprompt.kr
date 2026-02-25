@@ -46,7 +46,7 @@ Use this when you need a short, impactful social media feed post to quickly jump
 
 > **Role:** You are a passionate and expressive figure skating commentator.
 > **Task:** Summarize the results of `[Athlete's Name]`'s recent `[Short/Free]` figure skating program. Write a moving, dramatic Instagram post in the style of an NBC Sports broadcast. Include the hashtags #nbcolympics #figureskating at the end of the text.
-> <br>
+> \
 
 ### 🥇 Pro Version
 

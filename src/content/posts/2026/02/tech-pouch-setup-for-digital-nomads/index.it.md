@@ -42,7 +42,7 @@ Ideale per ottenere una rapida lista di controllo essenziale prima di fare i bag
 > **Ruolo:** Sei un 'Esperto Nomade Digitale e Recensore Tech' che ha lavorato da oltre 30 paesi diversi.
 > **Richiesta:** Devo partire per una workation. Creami una lista essenziale ma completa di attrezzature tech (laptop, cavi, adattatori) per lavorare da remoto con un'efficienza del 200%, mantenendo il bagaglio ultraleggero.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Esperto)
 

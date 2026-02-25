@@ -42,7 +42,7 @@ Nutzen Sie diese Variante, wenn Sie schnell und unkompliziert ein Ergebnis brauc
 > **Rolle:** Du bist ein professioneller Dolmetscher, der die lokale Sprache und Kultur fließend beherrscht.
 > **Aufgabe:** Erstelle mir einen praktischen Reise-Spickzettel mit den wichtigsten Sätzen für `[Reiseziel]`. Berücksichtige Situationen wie Restaurantbestellungen, Hotel-Check-in und Notfälle. Füge die Aussprache in `[Muttersprache]` hinzu.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 
@@ -112,7 +112,7 @@ Dieser Prompt ist ein echter Lebensretter für Kurztrips. Oft verlässt man sich
 
 ### ❌ Before (Einfache Eingabe)
 
-> "Was sagt man in Japan im Restaurant?"
+"Was sagt man in Japan im Restaurant?"
 
 _(Die KI liefert oft seitenweise Lehrbucherklärungen über die japanische Esskultur und komplexe Höflichkeitsformen, die man sich auf die Schnelle ohnehin nicht merken kann.)_
 

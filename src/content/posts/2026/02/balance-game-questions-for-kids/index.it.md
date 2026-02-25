@@ -43,7 +43,7 @@ Usala quando hai poco tempo e ti servono idee immediate.
 > **Ruolo:** Sei uno scrittore di intrattenimento comico ed esperto di psicologia infantile.
 > **Richiesta:** Crea un generatore di domande stravaganti per il "gioco dell'equilibrio" (scegliere tra due opzioni assurde) che faccia venire voglia ai bambini delle elementari di parlare per primi.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Pro)
 
@@ -73,7 +73,7 @@ Usala per ottenere domande super personalizzate e di alta qualità, perfette per
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 Questo prompt è una vera e propria "bacchetta magica" per noi genitori. L'ho testato personalmente durante un lungo viaggio in auto che stava per trasformarsi in un incubo di capricci. Inserendo semplicemente "Minecraft" e "Dinosauri", l'IA ha generato dilemmi talmente assurdi che abbiamo riso per un'ora intera.
 
@@ -81,7 +81,7 @@ Il segreto di questo prompt non sta solo nel farli parlare, ma nel farli giustif
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q: Devo per forza usare ChatGPT Plus (a pagamento)?**
   - A: Assolutamente no! Questo prompt funziona meravigliosamente anche con le versioni gratuite di ChatGPT, Claude o Gemini. La struttura è così chiara che qualsiasi IA capirà perfettamente il compito.

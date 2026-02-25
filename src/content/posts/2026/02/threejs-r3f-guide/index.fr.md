@@ -42,10 +42,10 @@ Cependant, l'utilisation de Three.js pur implique des mathématiques complexes (
 Utilisez ce prompt pour comprendre le fonctionnement de R3F et faire un test rapide.
 
 > **Rôle :** Tu es un développeur frontend Senior.
->
+
 > **Tâche :** Utilise React Three Fiber (R3F) pour afficher un cube au centre de l'écran. Écris le code d'un composant interactif où le cube s'agrandit de 1,2 fois au survol (Hover), change pour une couleur aléatoire au clic, et tourne continuellement sur lui-même en utilisant le hook `useFrame`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Showcase Produit façon Apple)
 

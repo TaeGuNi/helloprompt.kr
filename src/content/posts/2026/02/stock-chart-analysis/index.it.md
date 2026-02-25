@@ -40,11 +40,11 @@ Tutta la responsabilità degli investimenti ricade su di te, ma puoi sicuramente
 Usala quando vuoi semplicemente avere un'idea rapida della tendenza generale (mercato rialzista o ribassista) senza addentrarti in analisi complesse.
 
 > **(Dopo aver caricato l'immagine del grafico)**
->
+
 > **Ruolo:** Sei un analista tecnico di borsa obiettivo.
 > **Compito:** Analizza le tendenze a breve e medio-lungo termine del grafico azionario allegato. Dimmi se siamo in un trend rialzista, ribassista o laterale, e individua i livelli di prezzo per i supporti e le resistenze più evidenti.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Analisi Tecnica e Scenari di Livello Esperto)
 

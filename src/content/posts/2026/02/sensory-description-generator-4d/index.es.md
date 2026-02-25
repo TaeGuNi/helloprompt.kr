@@ -42,7 +42,7 @@ Si escribes así, tus lectores no sentirán absolutamente nada. Para dominar la 
 > **Rol:** Eres un novelista experto en literatura descriptiva, maestro en plasmar paisajes y atmósferas.
 > **Solicitud:** Convierte la siguiente oración plana en una descripción vívida y rica que estimule los cinco sentidos (vista, oído, olfato, tacto y gusto): `[Inserta tu oración aquí]`.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Expert Version)
 
@@ -102,11 +102,11 @@ Te recomiendo usar este prompt no para copiar y pegar el resultado exacto, sino 
 
 ### ❌ Antes (Entrada)
 
-> "El mar de invierno estaba frío. Se escuchaba el sonido de las olas."
+"El mar de invierno estaba frío. Se escuchaba el sonido de las olas."
 
 ### ✅ Después (Resultado - Versión Terror/Thriller)
 
-> "El viento cortante y mordaz abofeteaba las mejillas como cuchillas de hielo. El mar, de un azul oscuro casi negro, aullaba como una bestia herida, estrellando su boca espumosa contra la roca con un estruendo ensordecedor. Mezclado con la fuerte salinidad, un hedor a cieno y algo pudriéndose en las profundidades perforaba la nariz, dejando un regusto metálico en la lengua."
+"El viento cortante y mordaz abofeteaba las mejillas como cuchillas de hielo. El mar, de un azul oscuro casi negro, aullaba como una bestia herida, estrellando su boca espumosa contra la roca con un estruendo ensordecedor. Mezclado con la fuerte salinidad, un hedor a cieno y algo pudriéndose en las profundidades perforaba la nariz, dejando un regusto metálico en la lengua."
 
 ---
 

@@ -42,7 +42,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Retro"]
 > **角色:** 你是一位精通 80 年代复古美学的数字艺术家。
 > **请求:** 请生成一幅以 80 年代霓虹色调、椰子树剪影和发光网格地板为核心特征的合成波 (Synthwave) 风格艺术画。
 
-<br>
+\
 
 ### 🥇 Pro Version (专家版)
 

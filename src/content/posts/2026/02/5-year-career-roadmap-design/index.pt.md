@@ -48,7 +48,7 @@ Ideal para um esboço rápido ou quando você quer apenas ter uma noção geral 
 > **Papel:** Você é um Coach de Carreira Sênior.
 > **Pedido:** Crie um roteiro de carreira de 5 anos para um `[Seu Cargo Atual]` que deseja se tornar `[Cargo Desejado]`. Divida em metas de 1, 3 e 5 anos.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

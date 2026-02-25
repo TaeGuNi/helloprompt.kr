@@ -46,7 +46,7 @@ Utilizza questo prompt per visualizzare l'atmosfera esterna e lo stile architett
 >
 > **Prompt:** modern minimal house exterior, white concrete and wood, large glass windows, nature surrounding, warm lighting, photorealistic, 8k --ar 16:9
 
-<br>
+\
 
 ### 🥇 Versione Pro (Planimetria & Vista Isometrica per Esperti)
 

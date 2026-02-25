@@ -39,7 +39,7 @@ Pour un brouillon rapide, dépourvu des clichés habituels de l'IA.
 > **Rôle :** Tu es un `[Copywriter Senior]`.
 > **Requête :** Rédige un texte sur `[Sujet]`. Interdiction formelle d'utiliser le jargon typique de l'IA (ex: "Dans un monde en constante évolution...", "Il est crucial de"). Utilise un ton direct, conversationnel et assume des opinions tranchées.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Pro)
 

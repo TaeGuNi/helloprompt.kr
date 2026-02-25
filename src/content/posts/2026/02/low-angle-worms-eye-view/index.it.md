@@ -49,7 +49,7 @@ Usala quando hai bisogno di un'immagine d'impatto in pochi secondi, per un risul
 > **Ruolo:** Sei un Direttore della Fotografia esperto in inquadrature epiche.
 > **Richiesta:** Genera l'immagine di un `[SOGGETTO]` visto dal basso. Utilizza un'inquadratura "low angle shot" per farlo apparire gigantesco, autorevole e travolgente.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 

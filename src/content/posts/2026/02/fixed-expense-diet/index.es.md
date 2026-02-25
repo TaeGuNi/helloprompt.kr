@@ -42,7 +42,7 @@ Reducir los gastos en comida o entretenimiento requiere una fuerza de voluntad c
 > **Rol:** Eres un `[Asesor Financiero Personal]` experto en frugalidad y optimización del costo de vida.
 > **Solicitud:** Revisa mis `[gastos fijos mensuales]` y encuentra puntos de ahorro ocultos o servicios que pueda optimizar.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 
@@ -77,7 +77,7 @@ Reducir los gastos en comida o entretenimiento requiere una fuerza de voluntad c
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 Auditar los gastos fijos es, sin lugar a dudas, la tarea con el mayor retorno de inversión (ROI) que puedes realizar en una tarde libre. Muchos de nosotros pagamos el "impuesto a la lealtad" a las compañías telefónicas tradicionales o mantenemos suscripciones a servicios de streaming que llevamos meses sin utilizar.
 
@@ -85,7 +85,7 @@ Al emplear este prompt, he comprobado que la IA es excelente para recordarnos so
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q: ¿Es seguro compartir mis datos de gastos con la IA?**
   - A: Sí, siempre y cuando **no compartas información de identificación personal (PII)** como números de tarjetas de crédito, datos bancarios o tu documento de identidad. Limítate a proporcionar únicamente las categorías y los montos redondeados.
@@ -110,7 +110,7 @@ Al emplear este prompt, he comprobado que la IA es excelente para recordarnos so
 
 ### ❌ Before (Entrada)
 
-> "Dime cómo gastar menos dinero cada mes."
+"Dime cómo gastar menos dinero cada mes."
 
 _(Resultado: Un bloque de texto genérico aconsejando hacer un presupuesto, cocinar en casa y no comprar café en la calle)._
 

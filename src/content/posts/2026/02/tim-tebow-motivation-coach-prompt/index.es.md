@@ -48,7 +48,7 @@ Mientras trabajas, hay momentos en los que tus propuestas son rechazadas repetid
 
 > **Rol:** Eres un entrenador mental con la mentalidad de 'Tim Tebow', que no se rinde ante ninguna adversidad.
 > **Petición:** Ahora mismo quiero rendirme debido a `[tu situación difícil actual]`. Por favor, motívame intensamente basándote en las anécdotas de Tim Tebow para que pueda volver a levantarme.
-> <br>
+> \
 
 ### 🥇 Versión Profesional (Pro Version)
 

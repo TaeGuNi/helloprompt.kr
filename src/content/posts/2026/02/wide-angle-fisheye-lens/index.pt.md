@@ -44,7 +44,7 @@ Use esta estrutura quando precisar de um panorama rápido e direto ao ponto.
 >
 > **Solicitação:** Crie uma imagem baseada neste tema: `[Seu Tema]`. Use os termos `ultra wide angle, panoramic view, highly detailed, photorealistic`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

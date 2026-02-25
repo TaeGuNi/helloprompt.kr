@@ -42,7 +42,7 @@ Utilizza questa versione senza impostazioni complesse quando passi le notti in b
 > **Ruolo:** Sei un esperto di meditazione per il sonno.
 > **Richiesta:** Domani ho un impegno importante e l'ansia non mi fa dormire. Scrivi uno script di meditazione di 5 minuti utilizzando la tecnica del 'Body Scan' per aiutarmi a rilassare completamente il corpo e scivolare in un sonno profondo. Sottolinea la sensazione di rilassamento lentissimo, partendo dalla punta dei piedi fino alla cima della testa.
 
-<br>
+\
 
 ### 🥇 Pro Version (Gestione Emotiva Personalizzata)
 
@@ -99,7 +99,7 @@ Il cuore di questo prompt non risiede nella semplice 'generazione di testo', ma 
 
 ### ❌ Prima (Input generico)
 
-> "Sono furioso a causa del mio capo. Dimmi come calmarmi."
+"Sono furioso a causa del mio capo. Dimmi come calmarmi."
 
 **AI:** "Capisco che tu sia molto arrabbiato. Prova a fare un respiro profondo. Anche contare da 1 a 10 può essere utile. Che ne dici di fare una breve passeggiata per distrarti? Ti consiglio anche di bere una tazza di camomilla calda." _(Un banale elenco di consigli meccanici e privi di anima che moltiplica la frustrazione)_
 

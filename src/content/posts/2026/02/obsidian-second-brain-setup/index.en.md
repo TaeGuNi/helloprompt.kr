@@ -42,7 +42,7 @@ Use this when you want a quick, lightweight start with just a daily note and a b
 > **Role:** You are an `[Obsidian Productivity Expert]`.
 > **Task:** Suggest the most intuitive and simple `[Daily Note Template]` and a basic `[Folder Structure (under 3 folders)]` for a beginner who just installed Obsidian. The daily note must include the date, to-dos, key memos, and a gratitude journal.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

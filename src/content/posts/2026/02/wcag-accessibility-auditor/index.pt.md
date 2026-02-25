@@ -47,7 +47,7 @@ Use esta versão para uma verificação rápida quando tiver dúvidas sobre a ac
 > [Cole o seu código aqui]
 > ```
 
-<br>
+\
 
 ### 🥇 Versão Pro (Especialista)
 
@@ -120,8 +120,8 @@ No dia a dia, ao construir componentes complexos como Caixas de Seleção (Selec
 ### ✅ Depois (Output: Foco no teclado e suporte impecável a leitores de tela)
 
 ```html
-<!-- Imagens decorativas sem significado recebem alt vazio ou aria-hidden para serem ignoradas por leitores de tela -->
-<!-- Uso da tag button, que nativamente suporta não apenas onClick, mas também interação pelo teclado (Enter/Espaço) -->
+
+
 <button type="button" class="submit-btn" onClick="sendData()">
   <img src="send-icon.png" alt="" aria-hidden="true" />
   <span>Enviar</span>

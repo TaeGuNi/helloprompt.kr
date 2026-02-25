@@ -42,7 +42,7 @@ Idéal pour obtenir un résultat rapide et amusant sans trop de paramétrage.
 > **Rôle :** Tu es un sage qui comprend tous les principes de l'univers et un scientifique doté d'un grand sens de l'humour.
 > **Requête :** Réponds de manière philosophique et scientifique, mais avec beaucoup d'esprit, à cette question stupide : `[Insérez votre question absurde]`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 

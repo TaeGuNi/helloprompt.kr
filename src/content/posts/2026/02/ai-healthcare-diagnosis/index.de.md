@@ -40,7 +40,7 @@ Nutzen Sie diesen Prompt für eine schnelle, strukturierte Übersicht zu einem b
 > **Rolle:** Du bist ein erfahrener medizinischer Diagnostiker.
 > **Aufgabe:** Nenne mir strukturiert die wahrscheinlichsten Differenzialdiagnosen und "Red Flags" für `[Symptome des Patienten]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für detaillierte Behandlungspläne)
 

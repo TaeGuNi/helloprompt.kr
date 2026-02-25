@@ -52,7 +52,7 @@ Utilisez cette version pour des tests locaux ou pour déployer rapidement un sim
 >
 > **Contraintes :** Sépare le Deployment et le Service avec `---` pour en faire un seul fichier.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

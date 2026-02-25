@@ -44,7 +44,7 @@ Utilizzalo quando hai bisogno di un avviso breve e d'impatto da condividere rapi
 > **Ruolo:** Sei un `[Responsabile della Sicurezza IT]`.
 > **Task:** Scrivi un messaggio di avviso aziendale urgente riguardante la `[Vulnerabilità RCE del Blocco note di Windows (CVE-2026-20841)]`. Sottolinea ai dipendenti di non aprire MAI file .txt esterni sospetti e invitali ad aggiornare immediatamente l'applicazione.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

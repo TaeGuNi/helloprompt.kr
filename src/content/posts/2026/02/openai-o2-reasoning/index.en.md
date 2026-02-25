@@ -37,7 +37,7 @@ In 2024, when OpenAI first introduced "System 2" thinking AI with 'o1', the AI c
 If o1 introduced "thinking time," o2 has maximized the depth and efficiency of that cognitive process.
 
 > **Dynamic Thought Depth:** o2 dynamically adjusts the steps of its thinking based on the difficulty of the problem. It responds instantly to simple questions but undergoes hundreds of internal reasoning steps for complex mathematical proofs or architectural design queries.
->
+
 > **Invisible Reasoning Optimization:** By dramatically reducing the computational overhead in the user-invisible 'Hidden CoT' process, it demonstrates response speeds over 40% faster than its predecessor, o1.
 
 ### 🥇 2. Perfection of Self-Correction Mechanisms

@@ -37,7 +37,7 @@ Use isto quando precisar rapidamente de uma imagem intuitiva contendo uma frase 
 > **Função:** Você é um fotógrafo cinematográfico e designer de tipografia.
 > **Tarefa:** Crie uma imagem fotorrealista de uma rua escura à noite com um letreiro em neon escrito "HELLO".
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

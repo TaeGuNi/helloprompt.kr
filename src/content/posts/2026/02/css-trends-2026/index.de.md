@@ -12,7 +12,7 @@ tags: ["CSS", "Frontend", "Design"]
 
 - **🎯 Empfohlene Zielgruppe:** Frontend-Entwickler, Tech-Leads, UI/UX-Designer
 - **⏱️ Zeitersparnis:** 4 Stunden → 2 Minuten
-- **🤖 Empfohlene Modelle:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 Empfohlene Modelle:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **Schwierigkeitsgrad:** ⭐⭐⭐☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -41,7 +41,7 @@ Nutzen Sie diesen Prompt, wenn Sie schnell und unkompliziert alten CSS-Code in m
 > **Rolle:** Du bist ein erfahrener Frontend Engineer aus dem Jahr 2026.
 > **Aufgabe:** Konvertiere den folgenden `[CSS-in-JS / Sass Code]` in modernes Tailwind CSS v5 kombiniert mit nativem CSS-Nesting.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

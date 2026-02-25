@@ -42,7 +42,7 @@ Use esta versão para gerar uma história relaxante rapidamente quando o sono es
 > **Papel:** Você é o melhor escritor de histórias de ninar do mundo e um especialista em relaxamento guiado.
 > **Pedido:** Contar carneirinhos é chato. Crie um "Conto de Fadas para Adultos" extremamente pacífico, lânguido e sem clímax para me ajudar a dormir agora.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

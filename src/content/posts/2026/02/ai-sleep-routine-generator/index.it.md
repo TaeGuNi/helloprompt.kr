@@ -42,7 +42,7 @@ Utilizza questo prompt se hai bisogno di una routine generica in pochi secondi.
 > **Ruolo:** Sei uno psicologo comportamentale e un coach del sonno esperto nella formazione di abitudini.
 > **Richiesta:** Progetta una breve routine pre-sonno per aiutarmi ad addormentarmi più velocemente, sfruttando il principio del riflesso condizionato.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Esperto)
 
@@ -104,8 +104,8 @@ Inoltre, il "Nudge" (la spinta comportamentale) per allontanare lo smartphone è
 
 ### ❌ Before (Input generico)
 
-> Utente: "Cosa dovrei fare prima di dormire per addormentarmi presto?"
-> IA: "Ti consiglio di leggere un libro, bere una tisana calda ed evitare gli schermi." (Troppo generico, nessuna strategia attuabile)
+Utente: "Cosa dovrei fare prima di dormire per addormentarmi presto?"
+IA: "Ti consiglio di leggere un libro, bere una tisana calda ed evitare gli schermi." (Troppo generico, nessuna strategia attuabile)
 
 ### ✅ After (Risultato del Prompt Pro)
 

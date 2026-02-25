@@ -43,7 +43,7 @@ Utilisez ceci pour obtenir des faits sans fioritures ni tentatives de l'IA de de
 > **Rôle :** Tu es un `[Expert Objectif]`.
 > **Requête :** Fournis-moi les faits bruts concernant `[Sujet]`. Ne tire aucune conclusion, n'ajoute pas de biais émotionnel et ne filtre pas l'information en fonction de ce que tu penses que j'ai envie d'entendre.
 
-<br>
+\
 
 ### 🥇 Version Pro
 

@@ -13,7 +13,7 @@ tags: ["AI 에이전트", "자동화", "프롬프트 엔지니어링", "AutoGPT"
 
 - **🎯 Recommandé pour :** Chefs de projet et Product Managers souhaitant planifier et structurer des projets complexes en une seule fois.
 - **⏱️ Temps requis :** 1 heure → 5 minutes (Réduction drastique du temps de conception)
-- **🤖 Modèles recommandés :** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modèles recommandés :** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Difficulté :** ⭐⭐⭐☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Utilisez cette version pour obtenir rapidement des idées et des opinions sous d
 > **Rôle :** Tu es un chef de projet (Project Manager) très compétent.
 > **Tâche :** Fournis-moi des opinions approfondies sur `[Sujet]` du point de vue d'un planificateur, d'un développeur et d'un designer. Ensuite, synthétise ces avis pour proposer la meilleure direction à suivre.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 
@@ -94,7 +94,7 @@ Cependant, en lui imposant le rôle de "Critique" et en provoquant un débat int
   - R : Ajoutez la phrase suivante dans les contraintes : "Le débat doit se limiter à un maximum de 3 échanges, et le dernier échange doit impérativement aboutir à un consensus réalisable, sous la direction de l'Exécutant." L'IA ajustera ainsi d'elle-même la longueur et conclura efficacement.
 
 - **Q : Est-ce que cela fonctionne bien avec la version gratuite de GPT-3.5 ?**
-  - R : Puisqu'il s'agit de maintenir plusieurs personas sans les confondre tout en menant un débat logique, nous recommandons fortement d'utiliser des modèles récents dotés d'excellentes capacités de raisonnement complexe, tels que GPT-4o, Claude 3.5 Sonnet ou Gemini 1.5 Pro. Avec des modèles inférieurs, la distinction des rôles devient floue et le résultat ressemblera davantage à un monologue brouillon.
+  - R : Puisqu'il s'agit de maintenir plusieurs personas sans les confondre tout en menant un débat logique, nous recommandons fortement d'utiliser des modèles récents dotés d'excellentes capacités de raisonnement complexe, tels que GPT-4o, Claude 3.5 Sonnet ou Gemini 2.5 Pro. Avec des modèles inférieurs, la distinction des rôles devient floue et le résultat ressemblera davantage à un monologue brouillon.
 
 ---
 

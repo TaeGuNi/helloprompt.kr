@@ -43,7 +43,7 @@ Los niños a menudo se quedan paralizados porque no saben exactamente qué paso 
 > **Rol:** Eres un experto en psicología infantil y coaching de hábitos.
 > **Solicitud:** Dime cómo ayudar a mi hijo a prepararse para la escuela por su cuenta, sin que yo tenga que gritar o estresarme cada mañana.
 
-<br>
+\
 
 ### 🥇 Versión Experta (Pro Version)
 

@@ -45,7 +45,7 @@ Nutzen Sie diesen Prompt, wenn Sie bestehende `docker`-Befehle oder einfache Skr
 > 
 > **Aufgabe:** Konvertiere meinen bisherigen Docker-Befehl oder mein Skript `[Dein bisheriger docker run Befehl oder Skript]`, sodass er/es perfekt im Rootless-Modus von Podman funktioniert. Weise insbesondere auf mögliche Fehler bei Netzwerk-Bridges und Volume-Mount-Berechtigungen (inklusive SELinux) hin und liefere direkt die passenden Lösungsansätze.
 
-<br>
+\
 
 ### 🥇 Pro Version (Perfekte Migration: docker-compose → K8s)
 

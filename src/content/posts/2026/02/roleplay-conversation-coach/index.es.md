@@ -42,7 +42,7 @@ El verdadero reto al hablar un idioma extranjero no es memorizar gramática, sin
 > **Rol:** Eres un `[Rol de tu interlocutor, ej., Barista amable / Oficial de inmigración estricto]`.
 > **Solicitud:** Vamos a hacer un juego de rol. Yo seré `[Tu rol, ej., Turista confundido / Viajero de negocios]`. Inicia la conversación y hablemos turno por turno.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

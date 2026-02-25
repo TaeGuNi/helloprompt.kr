@@ -45,7 +45,7 @@ Verwende diese Version, wenn du dringend eine einzelne Testressource benötigst.
 > **Aufgabe:** Schreibe den Terraform-Code, um eine AWS `[Dienstname]` Ressource zu erstellen.
 > **Bedingungen:** Verwende die neueste AWS-Provider-Version und arbeite mit Variablen (ohne Hardcoding).
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten)
 

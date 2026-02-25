@@ -43,7 +43,7 @@ El **Knolling** es el arte visual de organizar objetos relacionados en paralelo 
 >
 > **Solicitud:** Genera una imagen de `[OBJETOS]` utilizando la técnica de knolling. Dispón todos los elementos ordenadamente en ángulos de 90 grados sobre un fondo liso, capturados desde una vista superior (top-down view).
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

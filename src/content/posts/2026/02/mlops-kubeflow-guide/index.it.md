@@ -44,7 +44,7 @@ Utilizza questo prompt quando devi refactoringare rapidamente codice complesso d
 > **Condizioni:** Definisci chiaramente i tipi di argomenti (Argument) e i valori di ritorno (Return) della funzione, e includi le librerie necessarie con dichiarazioni `import` all'interno della funzione stessa.
 > **Codice:** `[Incolla qui il codice di pre-elaborazione]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Progettazione Automatica dell'Intero Workflow)
 

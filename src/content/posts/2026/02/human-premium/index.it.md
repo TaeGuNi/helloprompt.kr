@@ -40,7 +40,7 @@ Utilizza questo prompt quando hai bisogno di ammorbidire rapidamente uno stile t
 > **Ruolo:** Sei un saggista ed editor con 10 anni di esperienza.
 > **Richiesta:** Riscrivi completamente il seguente testo in modo che non sembri generato dall'IA. Usa un tono naturale ed empatico, come se fosse basato sull'esperienza reale di una persona. Elimina tutte le congiunzioni meccaniche (es. 'In conclusione', 'In sintesi').
 
-<br>
+\
 
 ### 🥇 Versione Pro
 

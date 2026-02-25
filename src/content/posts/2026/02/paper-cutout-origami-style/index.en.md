@@ -42,7 +42,7 @@ Use this when you just need a quick, stylized result without complex tweaking.
 > **Role:** You are an expert AI image generation prompt engineer.
 > **Request:** Generate a prompt for an illustration using a paper cutout and origami style. Make it look like multiple layers of craft paper have been cut, folded, and pasted together to create a 3D scene.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

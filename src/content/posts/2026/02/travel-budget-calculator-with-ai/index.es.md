@@ -43,7 +43,7 @@ Calcular el presupuesto de un viaje puede ser un verdadero dolor de cabeza. Hay 
 > **Rol:** Eres un experto 'Analista de Presupuestos de Viajes'.
 > **Solicitud:** Voy a viajar a `[Destino]` durante `[Número de días]`. Mi estilo de viaje es `[Mochilero / Estándar / Lujo]`. Calcúlame un presupuesto diario estimado y dime cuánto dinero en efectivo debería llevar.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -107,7 +107,7 @@ La verdadera magia de este prompt reside en la **"Proporción Efectivo/Tarjeta"*
 
 ### ❌ Antes (Entrada Simple)
 
-> "Dime cuánto dinero necesito llevar para un viaje a Tokio de 4 días."
+"Dime cuánto dinero necesito llevar para un viaje a Tokio de 4 días."
 
 ### ✅ Después (Resultado con Pro Version)
 

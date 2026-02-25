@@ -44,7 +44,7 @@ Usa questa versione quando vai di fretta al mattino e vuoi solo capire il signif
 > **Ruolo:** Sei un analista dei sogni basato sulla psicologia.
 > **Richiesta:** Analizza il seguente `[Contenuto del sogno]` da una prospettiva psicologica. Evidenzia il significato dei simboli principali e deduci come potrebbero essere collegati al mio stato psicologico attuale.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 

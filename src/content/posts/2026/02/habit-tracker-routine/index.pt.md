@@ -43,7 +43,7 @@ Use isso quando precisar de uma rotina simples para começar hoje à noite, sem 
 > **Contexto:** Sou um profissional comum. Depois do trabalho, chego em casa tão cansado que não consigo fazer nada.
 > **Tarefa:** Crie um cronograma noturno realista onde eu consiga fazer pelo menos um pouco de `[estudar inglês, treinar em casa, ler um livro]` todos os dias.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Especialista)
 

@@ -42,7 +42,7 @@ Utiliza esta versión si necesitas una explicación rápida y sencilla del conce
 > **Rol:** Eres un experto en ciberseguridad.
 > **Tarea:** Explícame de forma sencilla cómo el WiFi puede utilizarse para rastrear los movimientos de las personas y dame 3 consejos prácticos para proteger la privacidad de mi hogar.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

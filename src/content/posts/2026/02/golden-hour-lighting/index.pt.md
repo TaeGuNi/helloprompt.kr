@@ -42,7 +42,7 @@ Use esta versão quando precisar de resultados rápidos e não quiser gastar tem
 > **Papel:** Você é um fotógrafo profissional premiado.
 > **Solicitação:** Gere uma imagem de `[Assunto/Tema]`. Aplique a iluminação de "Golden Hour" para garantir que a foto tenha uma atmosfera quente, aconchegante e emocionante.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 
@@ -88,13 +88,13 @@ Adicionar apenas "Golden Hour" já resolve boa parte do problema, mas o verdadei
 
 ### ❌ Antes (Entrada)
 
-> Uma mulher em um campo de trigo.
+Uma mulher em um campo de trigo.
 
 _(Resultado: Uma foto com iluminação dura de meio-dia, parecendo uma imagem de banco de imagens genérica, sem emoção e com cores desbotadas.)_
 
 ### ✅ Depois (Resultado)
 
-> Uma jovem caminhando por um campo de trigo. Golden hour lighting, warm sunlight, soft long shadows, sun flare, rim lighting, 85mm lens.
+Uma jovem caminhando por um campo de trigo. Golden hour lighting, warm sunlight, soft long shadows, sun flare, rim lighting, 85mm lens.
 
 _(Resultado: Uma cena altamente cinematográfica onde os raios quentes do sol poente abraçam a personagem, criando um halo de luz dourada em seus cabelos e transmitindo uma profunda sensação de nostalgia.)_
 

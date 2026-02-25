@@ -42,7 +42,7 @@ Usala quando hai fretta e ti serve una formula o un consiglio rapido.
 > **Ruolo:** Sei un Esperto di Analisi Dati e Microsoft Excel.
 > **Richiesta:** Ho dei dati disordinati. Ad esempio, ho testi come `[inserire un esempio di cella]`. Spiegami il modo più veloce per separarli in colonne distinte o per uniformare il loro formato.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Esperto)
 

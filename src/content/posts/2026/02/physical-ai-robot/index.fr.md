@@ -38,7 +38,7 @@ Utilisez cette version pour obtenir un concept général et valider la faisabili
 > **Rôle :** Tu es un `[Expert en Robotique et IA]`.
 > **Tâche :** Conçois un scénario d'utilisation détaillé pour un robot doté d'IA dans le domaine de `[Secteur d'activité, ex : logistique, santé]`. Résous le problème spécifique suivant : `[Problème à résoudre]`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expertise Avancée)
 

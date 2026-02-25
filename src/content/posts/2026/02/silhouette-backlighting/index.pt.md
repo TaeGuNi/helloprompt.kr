@@ -42,7 +42,7 @@ Use isso quando precisar de um resultado rápido e direto.
 > **Papel:** Você é um fotógrafo e artista digital especialista em iluminação dramática.
 > **Solicitação:** Crie um prompt de geração de imagem focado em Luz de Fundo (Silhueta). O sujeito deve aparecer completamente escuro contra um fundo intensamente iluminado, enfatizando a atmosfera e a beleza das formas em vez dos detalhes.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

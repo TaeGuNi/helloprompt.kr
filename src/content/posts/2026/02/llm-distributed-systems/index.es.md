@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "llm-distributed-systems"]
 
 - **🎯 Recomendado para:** Arquitectos de Software, Ingenieros Backend, Desarrolladores de Sistemas Distribuidos
 - **⏱️ Tiempo estimado:** 2 horas → Reducido a 5 minutos
-- **🤖 Modelos recomendados:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modelos recomendados:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Dificultad:** ⭐⭐⭐⭐☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -39,7 +39,7 @@ Para estructurar rápidamente un flujo de trabajo distribuido.
 > **Rol:** Eres un Arquitecto de Sistemas Distribuidos.
 > **Solicitud:** Diseña una arquitectura basada en Redes de Petri para un sistema donde múltiples agentes LLM colaboran para `[insertar tarea, ej. procesar reembolsos de clientes]`. Identifica los lugares (estados) y las transiciones de forma clara.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

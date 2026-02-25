@@ -40,7 +40,7 @@ Utilizza questa versione quando hai bisogno di cogliere rapidamente solo i risul
 > **Ruolo:** Sei un `[giornalista scientifico]`.
 > **Task:** Riassumi le scoperte principali del seguente `[testo o link del paper]` e il loro impatto sul mondo in 3 punti chiave, spiegandoli in modo così semplice che anche un ragazzino delle scuole medie possa capirli.
 
-<br>
+\
 
 ### 🥇 Versione Pro
 

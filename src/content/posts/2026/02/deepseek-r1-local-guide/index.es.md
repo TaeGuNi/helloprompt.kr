@@ -40,20 +40,20 @@ En 2026, la tendencia absoluta entre los desarrolladores es, sin duda, el **"Loc
 Primero, necesitas el entorno para ejecutar el LLM, **Ollama**. Es una herramienta increíblemente ligera y mucho más amigable que configurar contenedores de Docker.
 
 > **Para Mac / Linux:**
->
-> Abre tu terminal y ejecuta el siguiente comando:
->
-> ```bash
-> curl -fsSL https://ollama.com/install.sh | sh
-> ```
->
-> **Para Windows:**
->
-> 1. Visita el [Sitio Oficial de Ollama](https://ollama.com).
-> 2. Haz clic en `Download for Windows`.
-> 3. Ejecuta el instalador descargado.
 
-<br>
+Abre tu terminal y ejecuta el siguiente comando:
+
+```bash
+curl -fsSL https://ollama.com/install.sh | sh
+```
+
+> **Para Windows:**
+
+1. Visita el [Sitio Oficial de Ollama](https://ollama.com).
+2. Haz clic en `Download for Windows`.
+3. Ejecuta el instalador descargado.
+
+\
 
 ### 🥈 Paso 2: Invocar a DeepSeek R1 (Básico / Pro)
 
@@ -75,7 +75,7 @@ Ahora, vamos a descargar y ejecutar el modelo. Elige la versión que mejor se ad
 > ollama run deepseek-r1:70b
 > ```
 
-<br>
+\
 
 ### 🥇 Paso 3: Integración Pro (VS Code)
 

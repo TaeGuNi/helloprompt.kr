@@ -44,7 +44,7 @@ tags: ["Windows", "Security", "RCE", "Vulnerability"]
 > **角色：** 你是一位 `[资深网络安全工程师]`。
 > **请求：** 请帮我写一段 `[PowerShell 脚本]`，用于检查当前 Windows 11 系统中记事本 (Notepad) 的版本，并判断是否受 CVE-2026-20841 漏洞影响。
 
-<br>
+\
 
 ### 🥇 Pro Version (专业版)
 

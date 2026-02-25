@@ -41,7 +41,7 @@ Pour obtenir rapidement des recommandations d'architecture globale.
 > **Rôle :** Tu es un Architecte DevOps Senior expert en Kubernetes et Edge Computing.
 > **Requête :** Conçois une architecture pour déployer `[Nombre]` clusters Edge équipés de `[Ressources par nœud]` de RAM. Propose une stack technique légère (K3s, K0s) et une stratégie de déploiement (GitOps).
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

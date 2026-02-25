@@ -42,7 +42,7 @@ Use esta versão quando precisar apenas testar o efeito de iluminação rapidame
 > **Papel:** Você é um mestre da fotografia clássica de retratos.
 > **Solicitação:** Gere uma imagem fotorrealista de um rosto humano utilizando "Rembrandt lighting", enfatizando o contraste dramático com um pequeno triângulo de luz na bochecha sombreada.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

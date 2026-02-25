@@ -48,7 +48,7 @@ Nutze diese Version, wenn du deinen Code nur rasch auf fatale Bugs oder kritisch
 > [Füge deinen Code hier ein]
 > ```
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten)
 

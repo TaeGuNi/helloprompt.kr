@@ -42,7 +42,7 @@ Use this when you need a quick burst of inspiration on the fly during a session.
 > **Role:** You are a master blacksmith and eccentric appraiser of ancient, cursed relics.
 > **Request:** A simple '+1 Sword' is boring. Forge a unique fantasy item complete with a living narrative, a powerful gimmick, and a dark penalty.
 
-<br>
+\
 
 ### 🥇 Pro Version (Mastercraft)
 

@@ -20,7 +20,7 @@ tags:
 
 - **🎯 Recomendado para:** Todos los viajeros, amantes de la historia, diseñadores
 - **⏱️ Tiempo requerido:** 5 minutos para preparar → 1 minuto de ejecución
-- **🤖 Modelo recomendado:** Todos los modelos de IA (GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro)
+- **🤖 Modelo recomendado:** Todos los modelos de IA (GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro)
 
 - ⭐ **Dificultad:** ⭐⭐☆☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -49,7 +49,7 @@ Una ciudad es un enorme museo de arquitectura al aire libre. No solo los monumen
 > **Rol:** Eres un experto 'Crítico de Arquitectura'.
 > **Solicitud:** Voy a viajar a `[Nombre de la Ciudad]`. Camina por la ciudad con ojo de arquitecto y cuéntame las historias que esconden sus edificios, desde el gótico hasta la arquitectura contemporánea.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -80,13 +80,13 @@ Una ciudad es un enorme museo de arquitectura al aire libre. No solo los monumen
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 Este prompt transforma cualquier viaje común en una clase magistral de historia del arte y diseño. Muchas veces caminamos por ciudades europeas o metrópolis modernas admirando su belleza superficial, pero sin comprender _por qué_ nos atraen. Al pedirle a la IA que asuma el rol de un crítico de arquitectura y exigiendo que evite los lugares turísticos obvios, logramos descubrir "joyas ocultas" que no aparecen en la primera página de Google. Es especialmente útil aplicar este prompt unas horas antes de salir a explorar o incluso mientras tomas un café cerca del centro histórico. ¡Te garantizo que tu forma de mirar los edificios cambiará por completo!
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q: ¿Puedo usar este prompt para ciudades pequeñas o pueblos poco conocidos?**
   - A: Sí, absolutamente. Aunque la IA tiene más datos sobre grandes urbes, si le proporcionas el nombre de un pueblo histórico, identificará el estilo predominante (ej. románico, arquitectura vernácula) y te ofrecerá una perspectiva fascinante basada en la región.

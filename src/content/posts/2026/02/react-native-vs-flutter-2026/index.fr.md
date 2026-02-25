@@ -45,7 +45,7 @@ Idéale lorsque vous avez besoin d'une direction claire et immédiate, sans anal
 > **Contexte :** Notre équipe est actuellement composée de `[3 développeurs React et 1 développeur backend Node.js]`, et nous voulons créer `[une application de livraison géolocalisée]`.
 > **Tâche :** Dans ce contexte, devrions-nous choisir React Native ou Flutter ? Donne-moi une réponse claire et tranchée, justifiée par les 3 arguments les plus critiques.
 
-<br>
+\
 
 ### 🥇 Version Pro (Analyse approfondie pour CTO)
 
@@ -109,15 +109,15 @@ Au final, ce qui fera la différence, c'est **"l'ADN de votre équipe"** et la *
 
 ### ❌ Avant (Décision basée sur les rumeurs)
 
-> "Il paraît que Flutter, c'est l'avenir ! Google est derrière. Partons sur Flutter !"
+"Il paraît que Flutter, c'est l'avenir ! Google est derrière. Partons sur Flutter !"
 
 *Résultat :* Les développeurs frontend React de l'équipe perdent 2 mois à apprendre le langage Dart et la gestion d'état spécifique (BLoC/Provider). La date de sortie du MVP est repoussée, et le projet finit par s'enliser faute de pouvoir recruter de nouveaux développeurs Flutter sur le marché. 🐢
 
 ### ✅ Après (Décision basée sur le consulting IA)
 
 > **CTO IA :** "Étant donné que votre équipe actuelle maîtrise parfaitement React et Node.js, l'adoption de Flutter représente un risque critique d'**'épuisement de votre runway dû à la courbe d'apprentissage'**.
->
-> Votre priorité absolue est de lancer un MVP dans les 3 mois. **React Native** est donc incontestablement le meilleur choix, car il permet de réutiliser plus de 80 % de vos connaissances actuelles. Les inquiétudes liées aux performances sont largement compensées par l'architecture Fabric. Ne cherchez pas plus loin et choisissez RN."
+
+Votre priorité absolue est de lancer un MVP dans les 3 mois. **React Native** est donc incontestablement le meilleur choix, car il permet de réutiliser plus de 80 % de vos connaissances actuelles. Les inquiétudes liées aux performances sont largement compensées par l'architecture Fabric. Ne cherchez pas plus loin et choisissez RN."
 
 *Résultat :* En capitalisant sur l'expertise React existante, l'équipe développe le MVP en seulement 1 mois. La validation sur le marché est un succès et permet de clôturer une levée de fonds en Série A. 🚀
 

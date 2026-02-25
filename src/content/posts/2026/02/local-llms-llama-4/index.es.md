@@ -41,7 +41,7 @@ Este es el prompt optimizado que debes usar cuando analices datos corporativos a
 > **Rol:** Eres un experto en seguridad de datos y analista de datos senior.
 > **Tarea:** Lee los siguientes `[Datos corporativos privados]` y resume los 3 problemas principales. Excluye cualquier conocimiento externo y responde basándote única y exclusivamente en el texto proporcionado.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

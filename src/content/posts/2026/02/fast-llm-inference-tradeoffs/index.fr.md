@@ -57,7 +57,7 @@ Utilisez cette version lorsque vous souhaitez comparer rapidement la différence
 > **Format :**
 > Évalue les réponses des deux modèles sur une échelle de 1 à 10 et désigne le grand gagnant.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

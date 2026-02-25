@@ -44,7 +44,7 @@ Ideal für schnelle, unkomplizierte Absagen, z. B. bei Terminkollisionen oder ei
 > **Rolle:** Du bist ein `[Experte für Geschäftskommunikation]`.
 > **Aufgabe:** Verfasse einen Entwurf für eine höfliche Absage-E-Mail auf eine externe `[Kooperationsanfrage / Cold-E-Mail]`. Der Grund für die Absage ist: `[derzeit fehlende interne Ressourcen / Budget für dieses Jahr bereits ausgeschöpft]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Level)
 

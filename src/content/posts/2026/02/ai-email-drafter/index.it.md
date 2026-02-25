@@ -42,7 +42,7 @@ Utile per scrivere rapidamente risposte o email informative dal contenuto sempli
 > **Ruolo:** Sei un assistente aziendale altamente qualificato.
 > **Compito:** Scrivi un'email formale al Sig. Rossi (Cliente) per posticipare la riunione di questo venerdì a lunedì prossimo alle 14:00. Il motivo è un cambio di programma del nostro management interno.
 
-<br>
+\
 
 ### 🥇 Versione Pro
 

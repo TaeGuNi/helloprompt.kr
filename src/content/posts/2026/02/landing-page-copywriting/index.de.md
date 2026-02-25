@@ -43,7 +43,7 @@ Nutzen Sie diesen Prompt, wenn Sie sofort eine starke Idee für Ihre Main Copy (
 > **Kontext:** Ich schreibe die Main Copy (Headline) für die Landingpage einer `[KI-Englisch-Lern-App]`. Die Zielgruppe sind `[Berufstätige, die Angst vor dem Englischsprechen haben]`.
 > **Aufgabe:** Schreibe 5 aufmerksamkeitsstarke Headlines, die den zentralen Mehrwert betonen: "Englisch fließend sprechen, auch ohne Muttersprachler zu sein".
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

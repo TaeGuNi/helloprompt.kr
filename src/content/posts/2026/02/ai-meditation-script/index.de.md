@@ -42,7 +42,7 @@ Nutze diese Version ohne komplizierte Einstellungen, wenn du nachts hellwach im 
 > **Rolle:** Du bist ein Experte für Schlafmeditation.
 > **Aufgabe:** Ich habe morgen einen wichtigen Termin, kann nicht schlafen und bin sehr unruhig. Schreibe mir ein 5-minütiges Meditationsskript mit der 'Body Scan'-Technik, das mir hilft, körperliche Anspannung abzubauen und in einen tiefen Schlaf zu fallen. Betone dabei das Gefühl der extrem langsamen Entspannung von den Zehenspitzen bis zur Kopfkrone.
 
-<br>
+\
 
 ### 🥇 Pro Version (Situative emotionale Betreuung)
 

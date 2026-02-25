@@ -9,7 +9,7 @@ tags: ["Internet", "Archiving", "History", "Web"]
 
 - **🎯 Public cible :** Chercheurs, curateurs de contenu, archivistes numériques, marketeurs
 - **⏱️ Temps gagné :** De 1 heure à 1 minute
-- **🤖 Modèles recommandés :** Modèles capables de gérer de longs contextes (Claude 3.5 Sonnet, Gemini 1.5 Pro recommandés)
+- **🤖 Modèles recommandés :** Modèles capables de gérer de longs contextes (Claude 3.5 Sonnet, Gemini 2.5 Pro recommandés)
 
 - ⭐ **Difficulté :** ⭐⭐⭐☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -40,7 +40,7 @@ Utilisez cette version lorsque vous souhaitez sauvegarder rapidement le texte pr
 > **Rôle :** Tu es un 'Archiviste Numérique' expert.
 > **Tâche :** À partir du texte complexe de la page web fourni ci-dessous, élimine tous les bruits tels que les menus ou les publicités, et organise proprement le 'contenu principal' contenant l'information au format Markdown.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 
@@ -91,7 +91,7 @@ Il brille particulièrement sur les pages où les web clippers habituels échoue
   - R : Les deux fonctionnent. Cependant, pour les pages récentes à rendu dynamique, sélectionner tout le texte sur l'écran du navigateur (Ctrl+A) puis le coller est bien plus efficace pour réduire le bruit des scripts cachés et ne transmettre que le texte essentiel à l'IA.
 
 - **Q : Le contenu est trop long et l'IA renvoie une erreur. Que dois-je faire ?**
-  - R : Copier une page web entière peut faire exploser le nombre de tokens. Il est fortement recommandé d'utiliser des modèles avec une limite élevée de tokens d'entrée (par exemple, Claude 3.5 Sonnet, Gemini 1.5 Pro).
+  - R : Copier une page web entière peut faire exploser le nombre de tokens. Il est fortement recommandé d'utiliser des modèles avec une limite élevée de tokens d'entrée (par exemple, Claude 3.5 Sonnet, Gemini 2.5 Pro).
 
 ---
 
@@ -131,7 +131,7 @@ tags: ["Contenu dynamique", "SPA", "Plateformes fermées"]
 
 Avec l'essor des contenus dynamiques, des SPA (Single Page Application) et des plateformes fermées, préserver l'histoire du web ouvert devient de plus en plus difficile pour les archivistes numériques.
 
-> "Nous vivons à une époque où nous générons la plus grande quantité de données, mais où nous les perdons également le plus rapidement."
+"Nous vivons à une époque où nous générons la plus grande quantité de données, mais où nous les perdons également le plus rapidement."
 
 ... (Omission : seul le corps du texte purifié est conservé logiquement, sans altérer le contexte d'origine) ...
 ```

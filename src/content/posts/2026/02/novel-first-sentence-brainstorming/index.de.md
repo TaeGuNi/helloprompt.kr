@@ -40,10 +40,10 @@ tags: ["Roman", "ErsterSatz", "Schreiben", "Intro", "Brainstorming"]
 Verwenden Sie diesen Prompt, wenn Sie nur einen schnellen Inspirationsschub benötigen.
 
 > **Rolle:** Du bist ein Bestsellerautor, dessen Spezialität es ist, Leser in den allerersten drei Sekunden in die Geschichte zu ziehen.
->
+
 > **Anfrage:** Ich muss meine Leser mit dem ersten Satz absolut fesseln. Gib mir 10 Empfehlungen für den ersten Satz meines Romans, die einen extrem starken Hook haben.
 
-<br>
+\
 
 ### 🥇 Experten-Version (Pro Version)
 
@@ -110,7 +110,7 @@ Dieser Prompt ist ein wahrer Lebensretter für Web-Novel-Autoren und Geschichten
 
 ### ❌ Vorher (Eingabe ohne Technik)
 
-> Der Protagonist starb und wachte plötzlich wieder auf, was sehr überraschend war.
+Der Protagonist starb und wachte plötzlich wieder auf, was sehr überraschend war.
 
 ### ✅ Nachher (Ergebnis durch den Prompt)
 

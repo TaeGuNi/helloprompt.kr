@@ -42,7 +42,7 @@ Es tentador querer visualizar absolutamente todos los datos disponibles, pero un
 > **Rol:** Eres un Diseñador UI/UX y Analista de Datos Senior.
 > **Solicitud:** Voy a crear un panel de control para mi equipo. ¿Qué indicadores clave (KPIs) debería mirar? Recomiéndame los componentes visuales y la estructura del panel de control.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

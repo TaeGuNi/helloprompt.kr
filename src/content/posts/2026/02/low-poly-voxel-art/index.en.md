@@ -42,7 +42,7 @@ Use this when you need a quick, stylized asset without complex parameters.
 > **Role:** You are a seasoned 3D technical artist specializing in stylized assets.
 > **Request:** Generate a `[Subject]` in a `[Low Poly or Voxel]` art style. Ensure the design features prominent geometric shapes, flat shading, and a clean, minimalist background.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

@@ -42,7 +42,7 @@ Utilisez cette version pour obtenir un plan d'action matinal simple et immédiat
 > **Rôle :** Tu es un coach en productivité spécialisé dans les routines matinales d'élite.
 > **Tâche :** Crée-moi une routine matinale de 2 heures, extrêmement focalisée, pour `[Objectif, ex: écrire un article de blog / finaliser un rapport]`. Inclus de courtes pauses stratégiques.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

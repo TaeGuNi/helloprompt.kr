@@ -42,7 +42,7 @@ Use esta versão quando precisar apenas de um brainstorming rápido e direto.
 > **Papel:** Você é um professor de ciência política e um designer de jogos de simulação de civilizações.
 > **Solicitação:** Um reino simples e clichê é monótono. Projete uma nação com um sistema político tridimensional e realista (ex: teocracia, república mercantil, oligarquia) para o meu mundo de fantasia.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert)
 
@@ -105,7 +105,7 @@ Na minha experiência, as melhores histórias surgem não das batalhas contra dr
 
 ### ❌ Antes (Entrada Simples)
 
-> "Crie um país no deserto. Tem um rei."
+"Crie um país no deserto. Tem um rei."
 
 ### ✅ Depois (Resultado com Versão Pro)
 

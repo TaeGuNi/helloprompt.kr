@@ -42,7 +42,7 @@ Utilisez cette version pour obtenir un résultat immédiat sans détails complex
 > **Rôle :** Tu es un coach expert en gestion du temps et un assistant de direction professionnel.
 > **Requête :** J'ai beaucoup de tâches à accomplir cette semaine et je n'arrive pas à m'organiser. Aide-moi à créer un planning hebdomadaire parfait basé sur mes priorités.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 
@@ -102,7 +102,7 @@ Ce prompt est redoutable car il ne se contente pas de placer des blocs dans un c
 
 ### ❌ Avant (Entrée basique)
 
-> "Fais-moi un emploi du temps pour cette semaine avec ces tâches : rapport, sport, dentiste, ménage."
+"Fais-moi un emploi du temps pour cette semaine avec ces tâches : rapport, sport, dentiste, ménage."
 
 _(L'IA génère souvent une liste dense et irréaliste, entassant toutes les tâches sur les deux premiers jours sans laisser le temps de respirer ou de se déplacer)._
 

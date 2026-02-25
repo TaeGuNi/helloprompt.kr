@@ -41,7 +41,7 @@ Ideale per implementare singole funzionalità o piccoli script all'interno di un
 > **Ruolo:** Sei un Senior Software Engineer esperto nel nostro stack tecnologico.
 > **Azione:** Implementa la funzionalità `[nome della funzionalità]` all'interno del file `[percorso del file]`. Analizza prima le dipendenze locali e rispetta le convenzioni di codifica del nostro progetto. Se noti la mancanza di pacchetti necessari, usa il terminale integrato per installarli.
 
-<br>
+\
 
 ### 🥇 Pro Version (Scaffolding di un Progetto Completo)
 
@@ -89,7 +89,7 @@ L'errore più ingenuo che vedo fare ancora oggi da molti sviluppatori è trattar
   - A: Assolutamente no. Gli IDE agentici moderni funzionano attraverso una "Diff view" (vista delle differenze). Nessuna riga di codice viene realmente committata o salvata senza la tua esplicita approvazione (Accept/Reject). Tu mantieni sempre il controllo assoluto.
 
 - **Q: Questo approccio funziona anche su basi di codice legacy enormi o monorepo aziendali?**
-  - A: Sì, ma l'efficacia dipende dal modello LLM che scegli di utilizzare come motore. Per monorepo molto complessi, affidati a modelli con un'ampia finestra di contesto (come Claude 3.5 Sonnet o Gemini 1.5 Pro). Questo è fondamentale per evitare "allucinazioni" strutturali dove l'agente perde il filo del progetto.
+  - A: Sì, ma l'efficacia dipende dal modello LLM che scegli di utilizzare come motore. Per monorepo molto complessi, affidati a modelli con un'ampia finestra di contesto (come Claude 3.5 Sonnet o Gemini 2.5 Pro). Questo è fondamentale per evitare "allucinazioni" strutturali dove l'agente perde il filo del progetto.
 
 - **Q: C'è un rischio per la sicurezza e la privacy del codice proprietario della mia azienda?**
   - A: Le versioni Enterprise dei principali strumenti come GitHub Copilot o Cursor offrono rigorose policy di "Zero Data Retention". Questo garantisce, a livello contrattuale, che il tuo codice sorgente non verrà mai immagazzinato o utilizzato per addestrare i modelli futuri dell'IA. Assicurati sempre che la tua azienda utilizzi queste versioni.

@@ -40,15 +40,15 @@ Non tormentarti fissando lo schermo dello smartphone. Se hai a disposizione la c
 Usalo quando vuoi capire rapidamente se le reazioni dell'altra persona sono dettate dalla logica (T) o dai sentimenti (F), il dubbio più comune nelle relazioni.
 
 > **Ruolo (Role):** Sei un esperto di psicologia delle relazioni interpersonali.
->
-> **Contesto (Context):**
-> Di seguito ti riporto una breve conversazione avuta con una persona.
-> Conversazione: "Oggi ero così stanco che ho saltato la pausa pranzo per lavorare ㅠㅠ" -> "Caspita, devi aver avuto un sacco di lavoro. Stasera assicurati di mangiare qualcosa di buono!"
->
-> **Richiesta (Task):**
-> Analizza se la persona che ha risposto è più orientata al Pensiero Logico (T) o al Sentimento (F). Suggeriscimi inoltre 2 esempi su come potrei rispondere per creare un legame più profondo.
 
-<br>
+> **Contesto (Context):**
+Di seguito ti riporto una breve conversazione avuta con una persona.
+Conversazione: "Oggi ero così stanco che ho saltato la pausa pranzo per lavorare ㅠㅠ" -> "Caspita, devi aver avuto un sacco di lavoro. Stasera assicurati di mangiare qualcosa di buono!"
+
+> **Richiesta (Task):**
+Analizza se la persona che ha risposto è più orientata al Pensiero Logico (T) o al Sentimento (F). Suggeriscimi inoltre 2 esempi su come potrei rispondere per creare un legame più profondo.
+
+\
 
 ### 🥇 Versione Pro (Analisi approfondita dei 16 tipi e Strategie di Conquista)
 

@@ -37,7 +37,7 @@ Use quando precisar implementar rapidamente uma função específica ou lógica 
 > **Papel:** Você é um desenvolvedor Sênior de `[Linguagem/Framework]`.
 > **Tarefa:** Consultando o contexto de todo o workspace, escreva o código mais otimizado possível para implementar `[Funcionalidade Específica]`.
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 
@@ -79,7 +79,7 @@ Para extrair o potencial máximo do Copilot X2, a chave é o quão cirurgicament
 - **Q: O resultado do prompt destruiu meu código existente ou gerou uma arquitetura que não pedi. Como corrigir?**
   - A: É muito provável que o contexto capturado pelo Copilot tenha sido tão vasto que ele "perdeu o foco". Tente restringir o escopo na seção Tarefa (Task) ou especifique uma regra absoluta nas Restrições (Constraints): "Altere APENAS a lógica e a estrutura interna do arquivo `auth.ts`, não toque nas exportações".
 
-- **Q: Posso usar este exato prompt em IDEs Agentic que utilizam outros modelos (Claude 3.5 Sonnet, Gemini 1.5 Pro, etc.)?**
+- **Q: Posso usar este exato prompt em IDEs Agentic que utilizam outros modelos (Claude 3.5 Sonnet, Gemini 2.5 Pro, etc.)?**
   - A: Sim, absolutamente. Este é um framework de prompt de arquitetura universal, projetado para funcionar de maneira excepcionalmente previsível em assistentes como Cursor, Cline ou outras ferramentas conversacionais avançadas. Basta fazer pequenos ajustes semânticos dependendo de como a sua IDE injeta o contexto.
 
 ---

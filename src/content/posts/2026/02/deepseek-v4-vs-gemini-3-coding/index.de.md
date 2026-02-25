@@ -62,7 +62,7 @@ Verwenden Sie diesen Prompt, um schnell Schwachstellen im Code zu finden. (Empfo
 > **Rolle:** Du bist ein `[Senior Backend Developer]`.
 > **Aufgabe:** Analysiere den folgenden Code und refaktorisiere ihn mit Fokus auf `[Sicherheitslücken und Speicherlecks]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Version)
 

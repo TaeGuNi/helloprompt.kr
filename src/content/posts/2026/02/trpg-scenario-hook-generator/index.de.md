@@ -42,7 +42,7 @@ Nutzen Sie diese Variante, wenn Sie unter massivem Zeitdruck stehen und nur eine
 > **Rolle:** Du bist ein erfahrener TRPG-Spielleiter und Meister-Geschichtenerzähler.
 > **Anfrage:** Ich habe keine Vorbereitungszeit für meine heutige Pen&Paper-Runde. Generiere mir 3 kurze, extrem spannende Szenario-Hooks, die die Spieler sofort mitten in ein Abenteuer werfen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

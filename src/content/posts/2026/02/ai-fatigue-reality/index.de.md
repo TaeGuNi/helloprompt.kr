@@ -39,7 +39,7 @@ Verwenden Sie dies für schnelle Korrekturen von offensichtlichem KI-Text.
 > **Aufgabe:** Überarbeite den folgenden KI-generierten Text. Entferne typische KI-Phrasen (wie "Zusammenfassend lässt sich sagen", "Tauchen wir ein") und mache den Text natürlicher, direkter und menschlicher.
 > **Text:** `[KI-Text einfügen]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

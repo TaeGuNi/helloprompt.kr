@@ -42,7 +42,7 @@ Use isto para obter um entendimento rápido e direto.
 > **Papel:** Você é um Engenheiro de Software Sênior com 30 anos de experiência e especialista em refatoração de código legado.
 > **Solicitação:** Analise o seguinte código sem documentação, explique o que ele faz de forma simples e aponte os principais riscos de alterá-lo: `[Cole o código aqui]`
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert)
 
@@ -82,7 +82,7 @@ A verdadeira utilidade deste prompt não está apenas em descobrir "o que o cód
 ## 🙋 Perguntas Frequentes (FAQ)
 
 - **Q: A IA consegue analisar arquivos muito grandes?**
-  - A: Sim. Modelos mais recentes como o Claude 3.5 Sonnet ou o Gemini 1.5 Pro possuem janelas de contexto gigantescas e conseguem processar milhares de linhas de código de uma só vez. No entanto, para obter a melhor precisão e análises mais profundas, recomendo enviar o código dividido por funções ou módulos.
+  - A: Sim. Modelos mais recentes como o Claude 3.5 Sonnet ou o Gemini 2.5 Pro possuem janelas de contexto gigantescas e conseguem processar milhares de linhas de código de uma só vez. No entanto, para obter a melhor precisão e análises mais profundas, recomendo enviar o código dividido por funções ou módulos.
 
 - **Q: É seguro colar código privado da minha empresa no ChatGPT?**
   - A: Depende estritamente das políticas da sua empresa. Se o código for confidencial, evite usar versões gratuitas que treinam seus modelos com os dados enviados. Prefira usar planos Enterprise (que garantem a não retenção de dados) ou utilize modelos rodando localmente (como o Llama 3) para garantir privacidade total.

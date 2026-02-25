@@ -49,7 +49,7 @@ Usala quando hai poco tempo e vuoi un controllo veloce su un singolo paragrafo.
 > **Richiesta:** Revisiona il testo seguente per renderlo professionale, correggendo tutti gli errori grammaticali e migliorando il tono per un curriculum vitae.
 > **Testo:** `[Inserisci qui il tuo testo]`
 
-<br>
+\
 
 ### 🥇 Versione Pro (Esperto)
 
@@ -113,7 +113,7 @@ Nella mia esperienza come selezionatore, ho scartato centinaia di CV eccellenti 
 
 ### ❌ Prima (Sensazione Amatoriale)
 
-> Sono diventato il capo del team e ho preso in carico il progetto, ho lavorato davvero tantissimo e ho comunicato un sacco con i membri. Alla fine, i risultati di vendita sono saliti moltissimo e tutti erano felici.
+Sono diventato il capo del team e ho preso in carico il progetto, ho lavorato davvero tantissimo e ho comunicato un sacco con i membri. Alla fine, i risultati di vendita sono saliti moltissimo e tutti erano felici.
 
 ### ✅ Dopo (Sensazione Professionale)
 

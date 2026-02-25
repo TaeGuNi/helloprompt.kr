@@ -51,7 +51,7 @@ El prompt más fundamental para cuando delegas tanto la planificación como la p
 > **Rol:** Eres un `[Desarrollador Senior de IA]`.
 > **Tarea:** Diseña un `[Agente de inversión bursátil autónomo]` y escribe el código Python completo para ejecutarlo.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

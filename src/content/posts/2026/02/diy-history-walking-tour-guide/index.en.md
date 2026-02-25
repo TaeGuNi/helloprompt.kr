@@ -42,7 +42,7 @@ Use this prompt when you need a quick, no-fuss itinerary.
 > **Role:** You are an expert 'Storytelling Tour Planner' who knows every hidden alley and secret of `[City Name]`.
 > **Request:** I want a fulfilling self-guided history walking tour without the cost of an expensive guided group. Create a captivating city walking course in `[City Name]` centered around the theme of `[Theme/Interest]`.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

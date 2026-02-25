@@ -41,7 +41,7 @@ tags: ["AI", "Tech", "prompt-engineering-zero-shot-vs-few-shot"]
 >
 > **テキスト:** 「提供は遅かったけど、料理は最高だった。」
 
-<br>
+\
 
 ### 🥇 Pro Version（専門家型: Few-Shot）
 

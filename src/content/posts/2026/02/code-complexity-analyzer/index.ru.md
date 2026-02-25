@@ -48,7 +48,7 @@ tags: [AI, Refactoring, Clean Code, Development]
 > [Вставьте ваш код сюда]
 > ```
 
-<br>
+\
 
 ### 🥇 Продвинутая версия (Pro Version)
 

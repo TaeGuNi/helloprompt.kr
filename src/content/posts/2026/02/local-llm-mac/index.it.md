@@ -47,7 +47,7 @@ Utilizza questa versione quando desideri avviare immediatamente l'AI sul tuo PC 
 > ollama run llama3
 > ```
 
-<br>
+\
 
 ### 🥇 Versione Pro (Pro Version)
 

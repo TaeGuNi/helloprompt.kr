@@ -42,7 +42,7 @@ Nutze diesen Prompt, wenn du nach dem Lauf sofort unter die Dusche willst, aber 
 > **Rolle:** Du bist ein erfahrener Reha-Trainer für Elite-Marathonläufer.
 > **Aufgabe:** Erstelle mir eine schnelle, aber hochwirksame 5-Minuten Cool-down-Routine direkt nach dem Laufen, um Muskelkater und Verletzungen vorzubeugen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für maximale Regeneration)
 

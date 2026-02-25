@@ -42,7 +42,7 @@ El botín es el alma de cualquier aventura, pero un simple aumento de estadísti
 > **Rol:** Eres un maestro herrero y tasador experto en reliquias antiguas y artefactos mágicos oscuros.
 > **Solicitud:** La clásica 'Espada +1' es aburrida. Crea un ítem de fantasía único que tenga una habilidad especial interesante, una penalización o maldición por usarlo, y una breve historia de fondo.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

@@ -18,7 +18,7 @@ title: " \"Prompt Engineering 3.0 : L'Intention est Loi\""
 
 - **🎯 Recommandé pour :** Marketeurs, Chefs de projet, Développeurs, Utilisateurs quotidiens de l'IA
 - **⏱️ Temps gagné :** 15 minutes → 10 secondes
-- **🤖 Modèles recommandés :** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modèles recommandés :** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Difficulté :** ⭐☆☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -47,7 +47,7 @@ Pour les tâches évidentes où le contexte visuel ou textuel se suffit à lui-m
 > **Contexte :** `[Fichier ou image jointe]`
 > **Demande :** Prépare ça pour `[Plateforme/Objectif, ex: un post Instagram]`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Cadrée mais souple)
 
@@ -79,7 +79,7 @@ L'évolution vers l'intention 3.0 change radicalement notre rapport à la machin
 ## 🙋 Foire Aux Questions (FAQ)
 
 - **Q : Est-ce que cette méthode fonctionne avec les anciens modèles gratuits comme GPT-3.5 ?**
-  - R : Difficilement. Les modèles d'anciennes générations ont encore besoin de la structure rigide du Prompting 2.0. L'approche basée sur l'intention (3.0) prend tout son sens avec des modèles avancés comme GPT-4o, Claude 3.5 ou Gemini 1.5, qui possèdent une excellente capacité de déduction et de raisonnement.
+  - R : Difficilement. Les modèles d'anciennes générations ont encore besoin de la structure rigide du Prompting 2.0. L'approche basée sur l'intention (3.0) prend tout son sens avec des modèles avancés comme GPT-4o, Claude 3.5 ou Gemini 2.5, qui possèdent une excellente capacité de déduction et de raisonnement.
 
 - **Q : L'IA ne risque-t-elle pas de faire du hors-sujet si ma demande est trop courte ?**
   - R : C'est tout le secret de la section "Garde-fous". Si vous exprimez une intention claire et ajoutez une règle d'or (ex: "Demande-moi si tu as un doute ou s'il manque des données"), l'IA préférera vous interroger plutôt que d'halluciner du contenu.

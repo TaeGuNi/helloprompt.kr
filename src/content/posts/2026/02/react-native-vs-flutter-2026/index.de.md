@@ -45,7 +45,7 @@ Nutzen Sie dies, wenn Sie eine klare Richtung ohne komplexe Analysen benötigen.
 > **Kontext:** Unser Team besteht aktuell aus `[3 React-Entwicklern und 1 Node.js-Backend-Entwickler]`. Wir planen die Entwicklung einer `[standortbasierten Liefer-App]`.
 > **Anweisung:** Sollen wir uns in dieser Situation für React Native oder Flutter entscheiden? Nenne mir die 3 wichtigsten, ausschlaggebenden Gründe für deine klare Empfehlung.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für tiefgehende CTO-Analysen)
 
@@ -109,15 +109,15 @@ Was letztendlich über Erfolg oder Misserfolg entscheidet, sind die **"DNA des T
 
 ### ❌ Vorher (Entscheidung basierend auf Community-Gerüchten)
 
-> "Flutter soll gerade der absolute letzte Schrei sein, und Google steht dahinter. Lass uns Flutter nehmen!"
+"Flutter soll gerade der absolute letzte Schrei sein, und Google steht dahinter. Lass uns Flutter nehmen!"
 
 *Ergebnis:* Die bestehenden React-Frontend-Entwickler verschwenden zwei wertvolle Monate damit, die Programmiersprache Dart und neue State-Management-Konzepte (BLoC/Provider) zu erlernen. Der MVP-Release verzögert sich massiv. Später können keine erfahrenen Flutter-Entwickler zur Skalierung gefunden werden, und das Projekt scheitert. 🐢
 
 ### ✅ Nachher (Entscheidung basierend auf KI-Architekturberatung)
 
 > **AI CTO:** "Da das gesamte Team bereits tiefgehende React- und Node.js-Kenntnisse besitzt, birgt die Einführung von Flutter das enorme Risiko, wertvolle Zeit und Kapital (Runway) durch eine steile Lernkurve zu verbrennen.
-> 
-> Ihr oberstes Ziel ist ein MVP-Launch in 3 Monaten. Daher ist **React Native** massiv im Vorteil, da Sie über 80 % Ihres bestehenden Wissens wiederverwenden können. Leistungsbedenken werden durch die neue Fabric-Architektur vollständig ausgeräumt. Entscheiden Sie sich ohne Wenn und Aber für RN."
+
+Ihr oberstes Ziel ist ein MVP-Launch in 3 Monaten. Daher ist **React Native** massiv im Vorteil, da Sie über 80 % Ihres bestehenden Wissens wiederverwenden können. Leistungsbedenken werden durch die neue Fabric-Architektur vollständig ausgeräumt. Entscheiden Sie sich ohne Wenn und Aber für RN."
 
 *Ergebnis:* Das Team nutzt sein React-Wissen voll aus und stellt das MVP in nur einem Monat fertig. Nach erfolgreicher Marktvalidierung wird erfolgreich eine Series-A-Finanzierung abgeschlossen. 🚀
 

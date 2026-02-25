@@ -42,7 +42,7 @@ Para quando você precisa começar a trabalhar imediatamente, sem perder tempo.
 > **Função:** Você é um DJ especialista em produtividade.
 > **Tarefa:** Crie uma lista com 5 gêneros musicais ou palavras-chave exatas de busca no YouTube/Spotify para me ajudar a focar intensamente na tarefa de `[Sua Tarefa, ex: Programar em Python / Escrever um artigo]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

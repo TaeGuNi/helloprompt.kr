@@ -37,7 +37,7 @@ Idéal pour obtenir une évaluation rapide des pratiques de durabilité de votre
 > **Rôle :** Tu es un `[Expert GreenOps et MLOps]`.
 > **Tâche :** Analyse `[mon architecture IA]` et propose 3 moyens simples de réduire son empreinte carbone.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version expert)
 

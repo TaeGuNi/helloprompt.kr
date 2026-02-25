@@ -11,7 +11,7 @@ image: "/images/2026/02/16/self-healing-code.jpg"
 
 - **🎯 Consigliato per:** Sviluppatori, Data Engineer, Tech Lead che valutano l'adozione di Agenti AI
 - **⏱️ Tempo richiesto:** Da debugging infinito → 0 minuti con l'automazione
-- **🤖 Modelli consigliati:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro (modelli specializzati nel coding)
+- **🤖 Modelli consigliati:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro (modelli specializzati nel coding)
 
 - ⭐ **Difficoltà:** ⭐⭐⭐⭐☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -44,7 +44,7 @@ Usala per correzioni rapide di errori banali.
 > **Ruolo:** Sei un `[Sviluppatore Python Senior]`.
 > **Azione:** Correggi i bug nel seguente `[Codice Originale]` basandoti su questo `[Messaggio di Errore]`.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

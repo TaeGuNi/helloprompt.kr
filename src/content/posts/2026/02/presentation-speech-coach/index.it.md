@@ -43,7 +43,7 @@ Utilizza questo prompt quando hai bisogno di trasformare velocemente un testo fo
 > **Azione:** Riscrivi il copione qui sotto trasformandolo in un discorso colloquiale, naturale e sicuro, come se stessi parlando davanti a un pubblico. Usa frasi brevi per facilitare la respirazione ed evidenzia in **grassetto** i concetti da enfatizzare.
 > **Copione:** `[Incolla qui il tuo copione originale]`
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

@@ -42,7 +42,7 @@ Nutzen Sie dies für schnelle, unkomplizierte Empfehlungen.
 > **Rolle:** Du bist ein erfahrener Reisejournalist und Fotograf, der sich auf unentdeckte Geheimtipps spezialisiert hat.
 > **Anfrage:** Empfiehl mir ruhige, touristenfreie Orte in `[Reiseziel]`. Zeige mir geheime Spots, die nicht in den typischen Reiseführern stehen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenmodus)
 

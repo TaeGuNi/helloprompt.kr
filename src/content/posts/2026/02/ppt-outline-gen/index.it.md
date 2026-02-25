@@ -42,7 +42,7 @@ Ideale per avere rapidamente un'idea dell'indice della presentazione.
 > **Ruolo:** Sei un esperto di presentazioni aziendali.
 > **Richiesta:** Crea una struttura in 10 slide per una presentazione sul tema `[Argomento]`. Includi il titolo di ogni slide e 3 punti chiave per ciascuna.
 
-<br>
+\
 
 ### 🥇 Versione Pro
 

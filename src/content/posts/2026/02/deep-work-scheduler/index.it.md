@@ -42,7 +42,7 @@ Usa questo prompt per ottenere rapidamente una struttura standard per le tue ore
 > **Ruolo:** Sei un esperto di produttività e un coach di "Deep Work".
 > **Richiesta:** Crea un programma di 2 ore per la mattina presto (dalle 5:00 alle 7:00) per aiutarmi a concentrarmi su `[obiettivo principale, es. scrivere codice/studiare una lingua]`. Includi brevi pause strategiche per non affaticarmi.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 

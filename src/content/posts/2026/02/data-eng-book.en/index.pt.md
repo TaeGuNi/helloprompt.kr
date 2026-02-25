@@ -40,7 +40,7 @@ Use esta versão quando precisar de um feedback rápido e direto sobre a sua arq
 > **Role (Papel):** Você é um Mentor e Engenheiro de Dados Sênior com 10 anos de experiência, que domina perfeitamente os princípios fundamentais do livro 'The Data Engineering Book'.
 > **Task (Tarefa):** Analise a `[arquitetura atual do meu pipeline de dados]` e sugira 3 pontos de melhoria pragmáticos focados na qualidade e escalabilidade dos dados.
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 

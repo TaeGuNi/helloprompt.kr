@@ -13,7 +13,7 @@ tags: ["독서", "요약", "학습", "지식관리"]
 
 - **🎯 Empfohlen für:** Marketer, Entwickler, Studenten und Berufstätige, die in Informationen ertrinken und wenig Zeit haben.
 - **⏱️ Zeitaufwand:** 1 Stunde → auf 15 Minuten reduziert
-- **🤖 Empfohlene Modelle:** Claude 3.5 Sonnet (überragend bei großen Kontexten), Gemini 1.5 Pro
+- **🤖 Empfohlene Modelle:** Claude 3.5 Sonnet (überragend bei großen Kontexten), Gemini 2.5 Pro
 
 - ⭐ **Schwierigkeitsgrad:** ⭐⭐☆☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -45,7 +45,7 @@ Verwenden Sie diesen Prompt, wenn Sie nur rasch den Kernkontext eines Dokuments 
 > **Aufgabe:** Lies den folgenden Text und fasse die 3 wichtigsten Kernpunkte so zusammen, dass sie auch ein Anfänger leicht versteht.
 > **Text:** `[Hier Text einfügen]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten und tiefgreifendes Verständnis)
 
@@ -88,7 +88,7 @@ Das menschliche Gehirn lernt am schnellsten, wenn es neue, fremde Informationen 
 ## 🙋 Häufig gestellte Fragen (FAQ) {#faq}
 
 - **F: Kann ich ein ganzes Buch auf einmal hineinkopieren?**
-  - A: Das hängt von der Größe des "Context Windows" des KI-Modells ab. Moderne Modelle wie Gemini 1.5 Pro oder Claude 3.5 Sonnet können problemlos PDFs oder Texte in Buchlänge verarbeiten. Für präzisere und tiefgründigere Antworten empfiehlt es sich jedoch, den Text kapitelweise einzuspeisen.
+  - A: Das hängt von der Größe des "Context Windows" des KI-Modells ab. Moderne Modelle wie Gemini 2.5 Pro oder Claude 3.5 Sonnet können problemlos PDFs oder Texte in Buchlänge verarbeiten. Für präzisere und tiefgründigere Antworten empfiehlt es sich jedoch, den Text kapitelweise einzuspeisen.
 
 - **F: Kann ich mich auf die Zusammenfassung verlassen und das Original ignorieren?**
   - A: Die KI ist ein hervorragender Kompass, zeigt aber nicht jedes Detail der Karte. Nutzen Sie diesen Prompt als "Vorspeise", um das Gerüst und den Kontext zu verstehen, bevor Sie richtig lesen. Wenn die Struktur im Kopf ist, saugen Sie das Original danach auf wie ein Schwamm.

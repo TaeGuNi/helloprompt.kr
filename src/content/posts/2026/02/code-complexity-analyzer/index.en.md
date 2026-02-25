@@ -48,7 +48,7 @@ Use this when you need a rapid assessment of code issues.
 > [Paste your code here]
 > ```
 
-<br>
+\
 
 ### 🥇 Pro Version
 

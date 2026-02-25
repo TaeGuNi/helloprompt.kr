@@ -49,7 +49,7 @@ Use this when you need a quick overview of a city's architectural vibe.
 > **Role:** You are a knowledgeable 'Architecture Critic'.
 > **Request:** I am visiting `[City Name]`. Walk me through the city with an architect's eye. Tell me the stories told by its buildings, from its historic roots to its modern skyline.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

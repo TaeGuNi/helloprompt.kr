@@ -44,7 +44,7 @@ Este prompt calcula con precisión cuántos años te faltan para presentar tu ca
 > **Rol:** Eres un `[Mentor y Planificador Financiero]` experto en el movimiento FIRE.
 > **Solicitud:** Calcula cuánto tiempo me tomará alcanzar la libertad financiera y cuál es mi número FIRE si mis gastos anuales son de `[36,000 USD]` y ahorro `[20,000 USD]` al año.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Experto)
 

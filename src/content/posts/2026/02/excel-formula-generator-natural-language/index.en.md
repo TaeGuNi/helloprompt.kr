@@ -42,7 +42,7 @@ Use this when you are in a rush and just need a quick formula.
 > **Role:** You are a Senior Data Analyst and Excel Expert with 20 years of experience.
 > **Request:** I need an Excel formula. `[Describe your data situation and what you want to calculate or extract]`. Write the exact formula I need and briefly explain how to apply it.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

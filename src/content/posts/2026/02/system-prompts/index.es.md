@@ -37,24 +37,24 @@ El Prompt del Sistema (System Prompt) ha dejado de ser una simple instrucción i
 Ideal para tareas de un solo turno donde necesitas precisión en el formato y cumplimiento estricto de reglas.
 
 > **`<system>`**
->
+
 > **`<role>`**
-> Eres un Arquitecto de Software Senior especializado en Python.
+Eres un Arquitecto de Software Senior especializado en Python.
 > **`</role>`**
->
+
 > **`<task>`**
-> Revisa el código proporcionado por el usuario y sugiere mejoras de rendimiento y refactorización.
+Revisa el código proporcionado por el usuario y sugiere mejoras de rendimiento y refactorización.
 > **`</task>`**
->
+
 > **`<constraints>`**
->
-> - No uses bibliotecas externas a menos que el usuario lo solicite explícitamente.
-> - El tipado estático (Type hinting) es estrictamente obligatorio en todo el código generado.
+
+- No uses bibliotecas externas a menos que el usuario lo solicite explícitamente.
+- El tipado estático (Type hinting) es estrictamente obligatorio en todo el código generado.
 >   **`</constraints>`**
->
+
 > **`</system>`**
 
-<br>
+\
 
 ### 🥇 Versión Pro (Framework Empresarial Completo)
 

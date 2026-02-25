@@ -51,7 +51,7 @@ tags: ["Gemini 3 Ultra", "GPT-5", "AI Agent", "LLM Comparison"]
 > **역할:** 너는 `[시니어 AI 개발자]`야.
 > **요청:** `[자율주행 주식 투자 에이전트]`를 기획하고, 이를 실행할 수 있는 전체 파이썬 코드를 작성해줘.
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 
@@ -60,51 +60,51 @@ Gemini의 기획력과 GPT-5의 코딩 능력을 결합한 **2단계 체인(Chai
 #### Step 1. 기획은 Gemini 3 Ultra에게 (Deep Think 활용)
 
 > **역할 (Role):** 너는 15년 경력의 `[Senior AI Solutions Architect]`야.
->
+
 > **상황 (Context):**
->
-> - 배경: GPT-5의 코딩 능력과 Gemini 3 Ultra의 추론 능력을 결합한 하이브리드 에이전트를 개발하려고 해.
-> - 목표: 완벽한 엣지 케이스 방어가 가능한 시스템 아키텍처 설계.
->
+
+- 배경: GPT-5의 코딩 능력과 Gemini 3 Ultra의 추론 능력을 결합한 하이브리드 에이전트를 개발하려고 해.
+- 목표: 완벽한 엣지 케이스 방어가 가능한 시스템 아키텍처 설계.
+
 > **요청 (Task):**
->
-> 1. **Deep Analysis:** `[자율주행 주식 투자 에이전트]` 아이디어의 기술적 실현 가능성을 검토하고, 잠재적인 위험 요소(Risk Factors)를 3가지 이상 식별해.
-> 2. **Architecture Design:** 필요한 데이터 파이프라인, AI 모델, 외부 API를 포함한 시스템 아키텍처를 설계해.
-> 3. **Prompt Strategy:** 이 에이전트를 구동하기 위해 필요한 내부 프롬프트 전략(Few-shot, Chain-of-Thought 등)을 제안해.
->
+
+1. **Deep Analysis:** `[자율주행 주식 투자 에이전트]` 아이디어의 기술적 실현 가능성을 검토하고, 잠재적인 위험 요소(Risk Factors)를 3가지 이상 식별해.
+2. **Architecture Design:** 필요한 데이터 파이프라인, AI 모델, 외부 API를 포함한 시스템 아키텍처를 설계해.
+3. **Prompt Strategy:** 이 에이전트를 구동하기 위해 필요한 내부 프롬프트 전략(Few-shot, Chain-of-Thought 등)을 제안해.
+
 > **제약사항 (Constraints):**
->
-> - 반드시 마크다운 리스트 형식으로 깔끔하게 출력해.
-> - 예상되는 API 비용과 Rate Limit 문제를 명시해.
->
+
+- 반드시 마크다운 리스트 형식으로 깔끔하게 출력해.
+- 예상되는 API 비용과 Rate Limit 문제를 명시해.
+
 > **주의사항 (Warning):**
->
-> - Gemini 3 Ultra의 Deep Think 모드를 최대한 활용하여, 겉으로 드러나지 않는 논리적 결함까지 깊게 파고들어. 일반론적인 뻔한 소리는 금지야.
+
+- Gemini 3 Ultra의 Deep Think 모드를 최대한 활용하여, 겉으로 드러나지 않는 논리적 결함까지 깊게 파고들어. 일반론적인 뻔한 소리는 금지야.
 
 #### Step 2. 코딩은 GPT-5에게 (Zero-shot 실행력 보장)
 
 > **역할 (Role):** 너는 Google 출신의 `[Senior Python Developer]`야.
->
+
 > **상황 (Context):**
->
-> - 배경: 전문 아키텍트가 작성한 완벽한 기술 명세서가 준비됨.
-> - 목표: 즉시 배포 및 실행 가능한(Production-Ready) 파이썬 코드 구현.
->
+
+- 배경: 전문 아키텍트가 작성한 완벽한 기술 명세서가 준비됨.
+- 목표: 즉시 배포 및 실행 가능한(Production-Ready) 파이썬 코드 구현.
+
 > **요청 (Task):**
->
-> 1. `[Gemini가 생성한 기술 명세서 내용]`을 바탕으로 완벽한 파이썬 코드를 구현해.
-> 2. **Environment Setup:** 필요한 라이브러리(`requirements.txt`)를 명시해.
-> 3. **Core Logic:** 아키텍처를 구현하는 핵심 클래스(`class Agent`)를 작성해.
-> 4. **Error Handling:** API 호출 실패, 네트워크 오류 등에 대한 방어 로직을 추가해.
->
+
+1. `[Gemini가 생성한 기술 명세서 내용]`을 바탕으로 완벽한 파이썬 코드를 구현해.
+2. **Environment Setup:** 필요한 라이브러리(`requirements.txt`)를 명시해.
+3. **Core Logic:** 아키텍처를 구현하는 핵심 클래스(`class Agent`)를 작성해.
+4. **Error Handling:** API 호출 실패, 네트워크 오류 등에 대한 방어 로직을 추가해.
+
 > **제약사항 (Constraints):**
->
-> - 코드는 철저하게 모듈화되어야 하며, PEP8 스타일 가이드를 준수해.
-> - 모든 함수에 상세한 주석(Docstring)을 포함해.
->
+
+- 코드는 철저하게 모듈화되어야 하며, PEP8 스타일 가이드를 준수해.
+- 모든 함수에 상세한 주석(Docstring)을 포함해.
+
 > **주의사항 (Warning):**
->
-> - 존재하지 않는 가상의 라이브러리를 임의로 사용하지 마. 에러 없이 단 한 번에 실행되어야 해.
+
+- 존재하지 않는 가상의 라이브러리를 임의로 사용하지 마. 에러 없이 단 한 번에 실행되어야 해.
 
 ---
 

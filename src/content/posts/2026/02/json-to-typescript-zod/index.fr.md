@@ -43,9 +43,9 @@ Utilisez cette version pour un besoin ponctuel et obtenir un résultat immédiat
 
 > **Rôle :** Tu es un développeur Senior expert de l'écosystème TypeScript.
 > **Demande :** Convertis le JSON suivant en interfaces TypeScript et génère le schéma Zod correspondant pour la validation.
-> `[Insérez votre JSON ici]`
+`[Insérez votre JSON ici]`
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

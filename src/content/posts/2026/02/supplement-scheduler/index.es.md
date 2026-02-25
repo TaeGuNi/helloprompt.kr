@@ -43,7 +43,7 @@ Vitaminas, Omega 3, Probióticos... ¿Tomas todo lo bueno para el cuerpo pero no
 > **Rol:** Eres un experto farmacéutico y nutricionista.
 > **Solicitud:** Revisa la siguiente lista de suplementos: `[Lista de tus suplementos]`. Crea una rutina de ingesta óptima para evitar la sobredosis de nutrientes y mejorar la tasa de absorción.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -103,7 +103,7 @@ La eficacia de los suplementos depende drásticamente de su biodisponibilidad y 
 
 ### ❌ Before (Entrada deficiente)
 
-> Dime en qué orden debo tomar mis suplementos: Omega 3, Vitamina C, Probióticos y Hierro.
+Dime en qué orden debo tomar mis suplementos: Omega 3, Vitamina C, Probióticos y Hierro.
 
 ### ✅ After (Resultado de nuestro Prompt Pro)
 

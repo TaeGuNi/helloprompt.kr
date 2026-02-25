@@ -41,7 +41,7 @@ Use esta versão quando precisar extrair rapidamente a essência dos dados, sem 
 > **Role (Papel):** Você é um especialista em segurança de dados e analista de dados sênior.
 > **Task (Tarefa):** Leia os seguintes `[dados internos confidenciais]` e resuma os 3 principais problemas. Ignore qualquer conhecimento externo e baseie sua resposta exclusivamente no texto fornecido.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Especialista)
 

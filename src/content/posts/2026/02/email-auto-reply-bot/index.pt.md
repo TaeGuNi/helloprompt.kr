@@ -43,7 +43,7 @@ Use esta versão para dar um retorno rápido de "recebimento", antes de enviar u
 >
 > Você é meu assistente executivo. Analise o conteúdo do novo e-mail recebido e escreva uma mensagem em inglês comercial polido e profissional informando ao remetente: "Recebemos seu e-mail com sucesso. Nossa equipe está analisando o conteúdo e retornaremos com uma resposta detalhada em até 24 horas."
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

@@ -9,7 +9,7 @@ tags: ["C", "Open Source", "Database", "AI"]
 
 - **🎯 Público objetivo:** Desarrolladores de sistemas embebidos, ingenieros de sistemas C/C++, arquitectos de IA ligera
 - **⏱️ Tiempo estimado:** De 5 horas de investigación a 1 minuto
-- **🤖 Modelo recomendado:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 Modelo recomendado:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **Dificultad:** ⭐⭐⭐⭐☆
 - ⚡️ **Eficacia:** ⭐⭐⭐⭐⭐
@@ -38,7 +38,7 @@ A medida que la tendencia de la IA se expande hacia los dispositivos *Edge* (per
 > **Rol:** Eres un `[Ingeniero Senior de Sistemas Embebidos]`.
 > **Tarea:** Escribe el código para una `[base de datos de vectores header-only]` en C puro, sin ninguna dependencia externa. Debe incluir obligatoriamente una función de búsqueda utilizando la similitud del coseno.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

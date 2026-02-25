@@ -42,7 +42,7 @@ Use this when you need a quick shift in perspective.
 > **Role:** You are an expert in Cognitive Behavioral Therapy (CBT). You excel at 'Reframing', helping clients shift negative thoughts into healthy, constructive perspectives.
 > **Task:** I am feeling overwhelmed because `[describe your situation/mistake]`. Please interpret this situation from a different, objective perspective and help me turn this negative energy into positive, actionable steps.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

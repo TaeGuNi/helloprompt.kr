@@ -48,7 +48,7 @@ Nada arruina más rápido unas vacaciones soñadas que enfermarse en un país de
 > **Rol:** Eres un farmacéutico experto especializado en medicina del viajero.
 > **Solicitud:** Voy a viajar al extranjero. Dime cómo preparar un botiquín de primeros auxilios básico y una lista de medicamentos de emergencia esenciales clasificados por síntomas.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -109,24 +109,24 @@ Por ejemplo, si le indicas a la IA que vas al sudeste asiático, priorizará med
 ### ❌ Before (Antes)
 
 > **Usuario:** ¿Qué medicinas debo llevar a Tailandia?
->
+
 > **IA:** Te recomiendo llevar analgésicos, algo para el estómago, curitas y protector solar. ¡Buen viaje! _(Demasiado vago, no proporciona dosis, nombres genéricos ni ayuda en una emergencia real)_
 
 ### ✅ After (Después)
 
 > **IA (Respuesta extraída de la Versión Pro):**
 > **1. Medicamentos Esenciales para Tailandia (Clima tropical / Comida picante):**
->
-> - **Antidiarréico:** Loperamida (Crucial para la intoxicación alimentaria o "Traveler's Diarrhea").
-> - **Rehidratación:** Sobres de suero oral (Para prevenir la deshidratación rápida por calor o diarrea).
-> - **Analgésico/Antipirético:** Paracetamol o Ibuprofeno.
-> - **Antihistamínico:** Cetirizina (Para alergias leves o picaduras de insectos tropicales).
->
+
+- **Antidiarréico:** Loperamida (Crucial para la intoxicación alimentaria o "Traveler's Diarrhea").
+- **Rehidratación:** Sobres de suero oral (Para prevenir la deshidratación rápida por calor o diarrea).
+- **Analgésico/Antipirético:** Paracetamol o Ibuprofeno.
+- **Antihistamínico:** Cetirizina (Para alergias leves o picaduras de insectos tropicales).
+
 > **3. Tarjetas de Emergencia (Inglés / Tailandés):**
->
-> - "Tengo diarrea severa y calambres estomacales."
->   - EN: I have severe diarrhea and stomach cramps.
->   - TH: ฉันมีอาการท้องร่วงอย่างรุนแรงและปวดท้อง (Chan mee a-kan thong ruang yang run-raeng lae puat thong)
+
+- "Tengo diarrea severa y calambres estomacales."
+  - EN: I have severe diarrhea and stomach cramps.
+  - TH: ฉันมีอาการท้องร่วงอย่างรุนแรงและปวดท้อง (Chan mee a-kan thong ruang yang run-raeng lae puat thong)
 
 ---
 

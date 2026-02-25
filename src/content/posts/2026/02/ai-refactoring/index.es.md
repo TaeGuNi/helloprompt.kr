@@ -43,7 +43,7 @@ En 2026, el desarrollo de software ha cambiado fundamentalmente. Ya no solo escr
 > **Rol:** Eres un `[Ingeniero de Software Senior]` experto en Clean Code.
 > **Tarea:** Refactoriza la siguiente función `[Nombre de la función/Código]` para mejorar su legibilidad y reducir la complejidad ciclomática, manteniendo exactamente la misma funcionalidad.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Avanzada)
 

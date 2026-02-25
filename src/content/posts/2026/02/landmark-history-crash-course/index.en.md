@@ -42,7 +42,7 @@ Use this when you need a quick, fascinating overview on the go.
 > **Role:** You are a bestselling historical storyteller who makes the past incredibly exciting.
 > **Request:** I am looking at `[Landmark Name]`. Give me the most fascinating story behind it without the boring academic lectures.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 
@@ -99,7 +99,7 @@ The secret sauce here is the instruction to "avoid boring dates" and ask for a "
 
 ### ❌ Before (Standard Input)
 
-> Explain the Colosseum.
+Explain the Colosseum.
 
 _(Result: A boring, multi-paragraph essay about its construction in 70-80 AD under Emperor Vespasian, made of travertine limestone, seating 50,000 spectators...)_
 

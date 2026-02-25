@@ -48,7 +48,7 @@ Idéal pour obtenir une vue d'ensemble rapide lorsque vous manquez de temps.
 > **Rôle :** Tu es un expert en coaching de carrière avec 20 ans d'expérience.
 > **Demande :** Transforme mon avenir professionnel incertain en un plan concret. Conçois des objectifs sur 1, 3 et 5 ans ainsi que les compétences nécessaires pour les atteindre.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

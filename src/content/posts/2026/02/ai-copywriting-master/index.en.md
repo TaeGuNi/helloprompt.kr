@@ -43,7 +43,7 @@ Use this when you need quick inspiration or are drafting titles for light conten
 > **Task:** Suggest 5 blog post titles for a diet supplement.
 > You must include the keyword 'lose 3kg in a week'. Write in a natural, conversational 'honest personal review' style so it doesn't feel like an obvious advertisement.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

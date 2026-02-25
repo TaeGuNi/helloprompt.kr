@@ -44,7 +44,7 @@ Use this when you need a quick text extraction or a simple, straightforward conv
 >
 > `[Paste your data list here]`
 
-<br>
+\
 
 ### 🥇 Pro Version
 

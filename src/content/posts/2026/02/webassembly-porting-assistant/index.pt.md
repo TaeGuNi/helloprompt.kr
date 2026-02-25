@@ -48,7 +48,7 @@ Use isto quando precisar converter e testar rapidamente uma função computacion
 > **Código:**
 > `[Cole aqui o código C++/Go/Rust que deseja converter]`
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

@@ -42,7 +42,7 @@ Use this when you just need a quick spark of inspiration to get started.
 > **Role:** You are a master mystery writer with the brilliant minds of Agatha Christie and Keigo Higashino.
 > **Request:** Please design an ingenious locked-room trick and a foolproof alibi that would leave even the greatest detectives stunned.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 
@@ -112,7 +112,7 @@ I highly recommend iterating on the **Decisive Clue** section. If the AI suggest
 
 ### ❌ Before (Simple Input)
 
-> "Recommend a locked-room murder trick."
+"Recommend a locked-room murder trick."
 
 _(The AI provides a generic response about slipping a key under the door with a piece of string—a trope used countless times since the 1920s.)_
 

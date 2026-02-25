@@ -42,7 +42,7 @@ Utilisez cette version pour obtenir une structure rapide sans entrer dans les d�
 > **Rôle :** Tu es un Expert en Data Visualisation et Concepteur UI/UX.
 > **Requête :** Je dois créer un tableau de bord pour `[Mon Département/Objectif]`. Quels KPI dois-je suivre en priorité et comment dois-je les organiser visuellement ?
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 

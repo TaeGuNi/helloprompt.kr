@@ -42,7 +42,7 @@ Use esta versão quando precisar de um esboço rápido para um projeto simples.
 > **Papel:** Você é um Gerente de Projetos Sênior.
 > **Solicitação:** Crie um cronograma de projeto dividindo as tarefas de trás para frente, partindo da data final `[Data de Entrega]`. O projeto é sobre `[Assunto do Projeto]`. Apresente o resultado em uma tabela.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert Version)
 
@@ -99,7 +99,7 @@ A maior vantagem deste prompt é o **cálculo retroativo**. Normalmente, os sere
 
 ### ❌ Antes (Entrada Simples)
 
-> "Monte um cronograma para refazer nosso site corporativo. Temos 3 meses para lançar."
+"Monte um cronograma para refazer nosso site corporativo. Temos 3 meses para lançar."
 
 _(A IA gera um texto longo e vago, com durações genéricas que não ajudam no controle diário e frequentemente ultrapassam os 3 meses se houver imprevistos)._
 

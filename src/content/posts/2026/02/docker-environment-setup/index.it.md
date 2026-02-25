@@ -13,7 +13,7 @@ tags: ["Docker", "Container", "Distribuzione", "DevOps"]
 
 - **🎯 Consigliato per:** Sviluppatori Backend, Ingegneri DevOps, CTO
 - **⏱️ Tempo richiesto:** Da ore di tentativi → 3 minuti
-- **🤖 Modello consigliato:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 Modello consigliato:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **Difficoltà:** ⭐⭐☆☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -43,7 +43,7 @@ Utilizza questa versione per progetti semplici o prototipi veloci.
 > **Ruolo:** Sei un Ingegnere DevOps Senior esperto in orchestrazione di container.
 > **Richiesta:** Scrivi un `Dockerfile` e un `docker-compose.yml` per containerizzare la mia applicazione basata su `[INSERISCI STACK]`.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Esperto)
 

@@ -42,7 +42,7 @@ El mayor desafío del autoestudio no es comprender el material, sino gestionar e
 > **Rol:** Eres un coordinador académico y preparador de exámenes sumamente estricto y meticuloso.
 > **Solicitud:** Crea un plan de estudio realista basado en mi `[Objetivo]` y el `[Tiempo Disponible]` que tengo. Asume la responsabilidad de mantener mi motivación alta.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -107,7 +107,7 @@ En mi experiencia, la sección de **[Preparación Mental]** es un cambio de jueg
 
 ### ❌ Antes (Planificando solo)
 
-> "Voy a terminar de leerme este libro de 500 páginas este mes. Eso son unas 16 páginas al día".
+"Voy a terminar de leerme este libro de 500 páginas este mes. Eso son unas 16 páginas al día".
 > _(Resultado real: Llegas cansado del trabajo, dices "hoy leo 0 y mañana 32", y al final del mes no has pasado del primer capítulo)._
 
 ### ✅ Después (Resultado con el Prompt)

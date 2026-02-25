@@ -42,7 +42,7 @@ Use esta versão quando precisar apenas de uma ideia rápida.
 > **Papel:** Você é um Mestre de Jogo (GM/DM) veterano e um mestre contador de histórias.
 > **Tarefa:** Crie 3 ideias rápidas de missões iniciais para uma sessão de RPG (D&D 5e), focadas em ação, para um grupo de aventureiros de nível 3.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert)
 

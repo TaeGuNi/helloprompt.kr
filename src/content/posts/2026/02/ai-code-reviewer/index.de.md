@@ -42,7 +42,7 @@ Ideal für einen schnellen Check zwischendurch, wenn die Zeit drängt.
 > **Rolle:** Du bist ein erfahrener Senior Software Engineer bei Google.
 > **Anfrage:** Führe ein strenges Code-Review für den folgenden Code durch und nenne mir die drei wichtigsten Verbesserungspotenziale: `[Ihr Code hier]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenmodus)
 
@@ -113,40 +113,40 @@ def s(x):
 ### ✅ Nachher (Review-Ergebnis)
 
 > **👍 Gut gemacht:** Die Funktion ist extrem prägnant und erfüllt grundsätzlich ihren mathematischen Zweck ohne unnötigen Overhead.
->
+
 > **🛠 Kritikpunkte:**
->
-> 1. **Namenskonventionen:** Weder der Funktionsname `s` noch das Argument `x` sind aussagekräftig. In einer größeren Codebase führt das unweigerlich zu Verwirrung. Besser wäre `calculate_square` oder einfach `square`.
-> 2. **Type Hints fehlen:** Es ist unklar, welche Datentypen erwartet werden. Python unterstützt Type Annotations, die hier zwingend genutzt werden sollten, um Fehler im Vorfeld zu vermeiden.
-> 3. **Dokumentation:** Ein Docstring fehlt komplett. Was macht diese Funktion? Gibt es Ausnahmen?
-> 4. **Error Handling:** Was passiert, wenn jemand einen String oder ein Dictionary übergibt? Die Funktion wird mit einem Typenfehler abstürzen.
->
+
+1. **Namenskonventionen:** Weder der Funktionsname `s` noch das Argument `x` sind aussagekräftig. In einer größeren Codebase führt das unweigerlich zu Verwirrung. Besser wäre `calculate_square` oder einfach `square`.
+2. **Type Hints fehlen:** Es ist unklar, welche Datentypen erwartet werden. Python unterstützt Type Annotations, die hier zwingend genutzt werden sollten, um Fehler im Vorfeld zu vermeiden.
+3. **Dokumentation:** Ein Docstring fehlt komplett. Was macht diese Funktion? Gibt es Ausnahmen?
+4. **Error Handling:** Was passiert, wenn jemand einen String oder ein Dictionary übergibt? Die Funktion wird mit einem Typenfehler abstürzen.
+
 > **🤔 Reflexionsfragen:**
-> Hast du bedacht, was passiert, wenn als Eingabewert keine Zahl, sondern ein anderer Datentyp (z. B. ein String) übergeben wird? Wie würdest du dieses Szenario in einer produktiven Umgebung sauber abfangen?
->
+Hast du bedacht, was passiert, wenn als Eingabewert keine Zahl, sondern ein anderer Datentyp (z. B. ein String) übergeben wird? Wie würdest du dieses Szenario in einer produktiven Umgebung sauber abfangen?
+
 > **✨ Refactoring:**
->
-> ```python
-> from typing import Union
->
-> def calculate_square(number: Union[int, float]) -> Union[int, float]:
->     """
->     Berechnet das Quadrat einer gegebenen Zahl.
->
->     Args:
->         number (int | float): Die Basiszahl.
->
->     Returns:
->         int | float: Das Quadrat der Eingabezahl.
->
->     Raises:
->         TypeError: Wenn die Eingabe keine gültige Zahl ist.
->     """
->     if not isinstance(number, (int, float)):
->         raise TypeError("Das Argument 'number' muss ein int oder float sein.")
->
->     return number ** 2
-> ```
+
+```python
+from typing import Union
+
+def calculate_square(number: Union[int, float]) -> Union[int, float]:
+    """
+    Berechnet das Quadrat einer gegebenen Zahl.
+
+    Args:
+        number (int | float): Die Basiszahl.
+
+    Returns:
+        int | float: Das Quadrat der Eingabezahl.
+
+    Raises:
+        TypeError: Wenn die Eingabe keine gültige Zahl ist.
+    """
+    if not isinstance(number, (int, float)):
+        raise TypeError("Das Argument 'number' muss ein int oder float sein.")
+
+    return number ** 2
+```
 
 ---
 

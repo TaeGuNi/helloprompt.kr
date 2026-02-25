@@ -47,7 +47,7 @@ Verwenden Sie diesen Prompt, um die Bedeutung der Fehlerprotokolle intuitiv zu e
 > **Aufgabe:**
 > Fasse die Hauptursache dieses Fehlers aus der Perspektive eines Entwicklers sehr einfach zusammen (z. B. Speichermangel, Berechtigungsfehler, Netzwerk-Timeout usw.). Nenne mir zudem die 2 wichtigsten Punkte, die ich sofort überprüfen sollte.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Incident Recovery & SRE-Berichte)
 
@@ -118,14 +118,14 @@ Wenn Sie der KI in einem solchen Fall nur bruchstückhafte App-Logs liefern, erh
 
 - **Situation:** Der untere "Events"-Bereich von `kubectl describe pod` wird in den Prompt eingefügt.
 - **KI-Antwort:**
-  > "Die Log-Analyse zeigt, dass das Scheduling aufgrund von `Insufficient cpu` fehlgeschlagen ist. Die verbleibende CPU-Kapazität auf den Worker-Nodes des Clusters reicht nicht aus.
-  >
+"Die Log-Analyse zeigt, dass das Scheduling aufgrund von `Insufficient cpu` fehlgeschlagen ist. Die verbleibende CPU-Kapazität auf den Worker-Nodes des Clusters reicht nicht aus.
+
   > **[Sofortmaßnahme]**
-  > Um den Dienst sofort wiederherzustellen, reduzieren Sie temporär die CPU-Anforderung des Pods von 500m auf 200m:
-  > `kubectl set resources deployment <deploy-name> -c <container-name> --requests=cpu=200m`
-  >
+Um den Dienst sofort wiederherzustellen, reduzieren Sie temporär die CPU-Anforderung des Pods von 500m auf 200m:
+`kubectl set resources deployment <deploy-name> -c <container-name> --requests=cpu=200m`
+
   > **[Präventivmaßnahme]**
-  > Um für Traffic-Spitzen gerüstet zu sein, sollten Sie den Cluster Autoscaler aktivieren, damit bei Bedarf automatisch neue Nodes hinzugefügt werden."
+Um für Traffic-Spitzen gerüstet zu sein, sollten Sie den Cluster Autoscaler aktivieren, damit bei Bedarf automatisch neue Nodes hinzugefügt werden."
 - **Ergebnis:** Durch einfaches Copy & Paste des Befehls läuft der Pod innerhalb von 1 Minute wieder. (Problem gelöst ✅)
 
 ---

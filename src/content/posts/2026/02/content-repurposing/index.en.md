@@ -44,7 +44,7 @@ Use this when you simply need to quickly convert a video script into a readable 
 > 
 > `[Paste the script here]`
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -103,7 +103,7 @@ Therefore, the quality of your output depends entirely on giving explicit instru
   - A: If it's your own video, you are completely free to use it. However, you must be cautious when writing a blog post based on someone else's video. Copying the script verbatim is a clear copyright violation (plagiarism). You must explicitly instruct the AI to "completely rewrite the concepts in your own words" and strictly adhere to the boundaries of 'fair use' by clearly stating the source and providing a backlink to the original video.
 
 - **Q: Will the AI cut off or omit information if I input a very long podcast or video script?**
-  - A: For videos longer than an hour, standard models might truncate the content due to context window limitations. In such heavy-lifting scenarios, it is overwhelmingly advantageous to use **Claude 3.5 Sonnet** or **Gemini 1.5 Pro**, which can comfortably process massive amounts of tokens at once. They are highly specialized in maintaining the context of long texts right to the very end without suffering from 'amnesia'.
+  - A: For videos longer than an hour, standard models might truncate the content due to context window limitations. In such heavy-lifting scenarios, it is overwhelmingly advantageous to use **Claude 3.5 Sonnet** or **Gemini 2.5 Pro**, which can comfortably process massive amounts of tokens at once. They are highly specialized in maintaining the context of long texts right to the very end without suffering from 'amnesia'.
 
 ---
 

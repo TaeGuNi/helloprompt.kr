@@ -42,7 +42,7 @@ Usala quando hai solo bisogno di un'idea veloce o di una bozza di itinerario.
 > **Ruolo:** Agisci come una guida turistica locale esperta.
 > **Richiesta:** Crea un itinerario di 3 giorni a Roma, concentrandoti su cibo locale e passeggiate rilassate.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 
@@ -110,7 +110,7 @@ _Consiglio Pro:_ Se usi Claude 3.5 Sonnet o GPT-4o, puoi persino fornire all'IA 
 
 ### ❌ Before (Input scadente)
 
-> Fai un itinerario di 4 giorni per Osaka e Kyoto. Siamo una coppia, ci piace il cibo e non vogliamo correre troppo.
+Fai un itinerario di 4 giorni per Osaka e Kyoto. Siamo una coppia, ci piace il cibo e non vogliamo correre troppo.
 
 _(Risultato tipico: Un elenco disordinato di 10 posti al giorno sparsi per tutta la città, nessuna indicazione su come spostarsi, garantendo solo vesciche ai piedi e liti di coppia per la stanchezza.)_
 

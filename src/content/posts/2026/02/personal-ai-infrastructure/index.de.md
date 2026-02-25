@@ -4,9 +4,6 @@ date: 2026-02-13
 pubDate: 2026-02-13
 description: " \"Erfahren Sie, wie Sie eine persönliche KI-Infrastruktur aufbauen, um Freiheit bei Datenschutz und Anpassung zu erlangen und sich von der SaaS-Abhängigkeit zu lösen.\""
 author: "Hello Prompt"
-image:
-  url: "https://cdn.example.com/ai-stack.png"
-  alt: "Personal AI Stack Diagram"
 tags: ["AI", "Infrastructure", "Privacy", "Daniel Miessler"]
 ---
 
@@ -47,7 +44,7 @@ Verwenden Sie diesen Prompt für einen schnellen, leicht verständlichen Überbl
 > **Rolle:** Du bist ein erfahrener DevOps-Ingenieur und KI-Architekt.
 > **Aufgabe:** Entwirf eine grundlegende, lokal gehostete KI-Infrastruktur für `[mein Betriebssystem, z. B. Mac M2 / Windows PC mit RTX 4090]`. Nenne mir die besten Tools für lokale LLMs, eine persönliche Wissensdatenbank und einfache Automatisierung. Erkläre die Schritte anfängerfreundlich.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Architektur)
 

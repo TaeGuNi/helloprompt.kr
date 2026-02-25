@@ -48,7 +48,7 @@ tags: [AI, Coding, Productivity, Refactoring]
 > **Код:**
 > `[Вставьте сюда скопированный код]`
 
-<br>
+\
 
 ### 🥇 Продвинутая версия (Pro Version)
 

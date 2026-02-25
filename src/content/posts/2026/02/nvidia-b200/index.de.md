@@ -43,7 +43,7 @@ Nutzen Sie diese Version, wenn Sie komplexe Specs überspringen und die wichtigs
 > **Rolle:** Du bist ein Tech-Blogger, der IT-Trends schnell und leicht verständlich vermittelt.
 > **Aufgabe:** Suche nach den neuesten internationalen Nachrichten und wichtigsten Spec-Gerüchten rund um `[NVIDIA RTX 6090 Ti und die Blackwell-Architektur]`. Fasse diese in 3 leicht verständlichen Absätzen für die breite Öffentlichkeit zusammen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Modus)
 

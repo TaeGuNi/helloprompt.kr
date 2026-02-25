@@ -42,7 +42,7 @@ Use this when you need a quick, high-level overview of keto principles.
 > **Role:** You are an elite coach specializing in the Ketogenic (LCHF) diet.
 > **Request:** Provide a beginner-friendly guide to starting the ketogenic diet safely, focusing on easy meal choices without requiring complex macronutrient calculations.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

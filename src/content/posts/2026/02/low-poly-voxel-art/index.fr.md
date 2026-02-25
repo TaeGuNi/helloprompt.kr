@@ -42,7 +42,7 @@ Utilisez cette version pour générer une image instantanément, sans vous souci
 > **Rôle :** Tu es un artiste 3D expert en minimalisme.
 > **Requête :** Génère-moi une image dans un style "Low Poly" représentant un renard dans une forêt, avec un rendu géométrique rappelant l'origami et aux couleurs pastel.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

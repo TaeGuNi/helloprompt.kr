@@ -46,7 +46,7 @@ Utilizzala quando hai bisogno di un post social breve e d'impatto per cavalcare 
 
 > **Ruolo:** Sei un telecronista di pattinaggio di figura appassionato e dal grande senso estetico.
 > **Compito:** Riassumi il risultato del programma `[Short/Free]` di pattinaggio di figura dell'atleta `[Nome Atleta]` e scrivi un post per Instagram emozionante e drammatico, proprio come una telecronaca di NBC Sports. Includi gli hashtag #nbcolympics #figureskating alla fine del testo.
-> <br>
+> \
 
 ### 🥇 Pro Version (Versione Esperta)
 

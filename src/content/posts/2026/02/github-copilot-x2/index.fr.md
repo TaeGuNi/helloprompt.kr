@@ -37,7 +37,7 @@ Idéale pour implémenter rapidement une fonction spécifique ou une logique uti
 > **Rôle :** Tu es un développeur Senior expert en `[Langage/Framework]`.
 > **Tâche :** En t'appuyant sur le contexte de mon espace de travail, rédige le code le plus optimisé pour implémenter `[Fonctionnalité spécifique]`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Niveau Expert)
 

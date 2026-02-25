@@ -45,7 +45,7 @@ Use this when you need to instantly generate commercial posters or brand logos w
 > **Prompt:**
 > `a cinematic cyberpunk neon poster with clear typography text "HELLO 2026", futuristic glowing city background, hyper-detailed --ar 2:3 --v 7.0 --style raw`
 
-<br>
+\
 
 ### 🥇 Pro Version (Character Consistency & Application)
 

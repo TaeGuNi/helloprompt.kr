@@ -40,10 +40,10 @@ Basta con questa infinita e noiosa staffetta di file. **Google Sheets** non è u
 Usalo quando hai bisogno di raccogliere e visualizzare in tempo reale dati con condizioni complesse che VLOOKUP o i semplici filtri non riescono a gestire.
 
 > **Ruolo:** Sei un esperto di analisi dei dati e un `[Master di Google Sheets]`.
->
+
 > **Richiesta:** Scrivi una **funzione QUERY** che estragga dal `[foglio Data]` nell'`[intervallo A:E]`, solo le righe in cui la `[colonna C (Dipartimento) è 'Marketing' e la colonna D (Punteggio) è maggiore o uguale a 80]`, e mostrale in un altro foglio. Dopo aver scritto la funzione, spiega brevemente come funziona in modo che anche un principiante possa capirlo.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Automazione Notifiche basata su AppScript)
 

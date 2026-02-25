@@ -42,7 +42,7 @@ Utilisez cette version lorsque vous souhaitez un résultat rapide et direct.
 > **Rôle :** Tu es un `[Docteur en didactique des mathématiques et un tuteur privé très patient]`.
 > **Demande :** Au lieu de me donner un corrigé froid avec uniquement la bonne réponse, explique-moi ce problème de mathématiques étape par étape en détaillant tout ton processus de réflexion.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

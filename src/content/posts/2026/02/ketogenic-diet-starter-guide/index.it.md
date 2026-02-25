@@ -42,7 +42,7 @@ Usala quando hai bisogno di risultati rapidi e immediati.
 > **Ruolo:** Sei un nutrizionista esperto in dieta Chetogena (LCHF).
 > **Richiesta:** Forniscimi una guida pratica e sicura per iniziare la dieta chetogena, evitando complessi calcoli manuali sui macronutrienti.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Avanzata)
 
@@ -67,14 +67,14 @@ Usala quando hai bisogno di un piano altamente dettagliato e personalizzato.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 Il passaggio a una dieta chetogena fallisce spesso non per mancanza di volontà, ma per la complessità iniziale nel tracciare i macronutrienti. Questo prompt trasforma l'IA nel tuo dietologo personale: invece di darti regole astratte, ti fornisce un piano d'azione basato sui cibi che ami (e su quelli che devi evitare).
 _Il mio consiglio:_ Sii molto specifico nel campo `[Riso/Pane/Pasta/Dolci]`. Se l'IA conosce le tue tentazioni maggiori, ti suggerirà alternative chetogeniche altamente soddisfacenti, riducendo drasticamente il rischio di sgarri durante la prima, delicata settimana!
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q: Devo per forza usare la versione a pagamento di ChatGPT o Claude?**
   - A: Assolutamente no! Questo prompt è stato ottimizzato per funzionare perfettamente anche sui modelli gratuiti. Tuttavia, i modelli più avanzati potrebbero fornirti ricette leggermente più creative.
@@ -99,7 +99,7 @@ _Il mio consiglio:_ Sii molto specifico nel campo `[Riso/Pane/Pasta/Dolci]`. Se 
 
 ### ❌ Prima (Input generico)
 
-> "Dimmi come fare la dieta LCHF."
+"Dimmi come fare la dieta LCHF."
 
 _(Risultato: Un muro di testo teorico sui corpi chetonici, l'insulina, e consigli estremi spesso inapplicabili nella vita quotidiana.)_
 

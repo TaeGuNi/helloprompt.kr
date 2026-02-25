@@ -13,7 +13,7 @@ tags: ["독서", "요약", "학습", "지식관리"]
 
 - **🎯 Recommandé pour :** Employés, développeurs et étudiants submergés par une montagne de documents à lire et manquant de temps.
 - **⏱️ Temps requis :** 1 heure → réduit à 15 minutes
-- **🤖 Modèles recommandés :** Claude 3.5 Sonnet (imbattable pour les longs contextes), Gemini 1.5 Pro
+- **🤖 Modèles recommandés :** Claude 3.5 Sonnet (imbattable pour les longs contextes), Gemini 2.5 Pro
 
 - ⭐ **Difficulté :** ⭐⭐☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -45,7 +45,7 @@ Idéal lorsque vous avez besoin d'extraire rapidement l'essence d'un document.
 > **Tâche :** Lis le texte ci-dessous et résume les 3 points les plus cruciaux de manière à ce qu'un débutant puisse les comprendre facilement.
 > **Texte :** `[Insérer le texte ici]`
 
-<br>
+\
 
 ### 🥇 Version Pro
 
@@ -88,7 +88,7 @@ Le cerveau humain apprend infiniment plus vite lorsqu'il connecte une informatio
 ## 🙋 Foire Aux Questions (FAQ) {#faq}
 
 - **Q : Puis-je copier-coller un livre entier d'un coup ?**
-  - R : Tout dépend de la fenêtre de contexte (Context Window) du modèle utilisé. Des modèles de pointe comme Gemini 1.5 Pro ou Claude 3.5 Sonnet avalent sans problème l'équivalent d'un livre entier en PDF ou en texte brut. Néanmoins, pour une précision chirurgicale, je vous recommande de procéder chapitre par chapitre.
+  - R : Tout dépend de la fenêtre de contexte (Context Window) du modèle utilisé. Des modèles de pointe comme Gemini 2.5 Pro ou Claude 3.5 Sonnet avalent sans problème l'équivalent d'un livre entier en PDF ou en texte brut. Néanmoins, pour une précision chirurgicale, je vous recommande de procéder chapitre par chapitre.
 
 - **Q : Puis-je me contenter du résumé sans lire le texte original ?**
   - R : L'IA est une boussole redoutable, mais elle ne remplace pas l'exploration du terrain. Utilisez ce prompt comme un "apéritif cognitif" pour saisir l'architecture du texte. Une fois la structure globale cartographiée dans votre esprit, la lecture de l'original devient fluide et le contenu s'absorbe comme dans une éponge.

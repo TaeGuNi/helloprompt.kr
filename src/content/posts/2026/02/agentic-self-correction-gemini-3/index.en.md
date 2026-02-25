@@ -45,7 +45,7 @@ Use this when you need a quick, self-corrected result without complex guardrails
 > **Role:** You are a `[Senior Backend Engineer]`.
 > **Task:** Write a function that `[merges two sorted lists]`. After writing the code, actively critique it to identify potential bugs or inefficiencies, and then provide the final, refined code based on your critique.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

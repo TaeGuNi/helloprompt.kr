@@ -42,7 +42,7 @@ La arquitectura de microservicios (MSA) no es una panacea. Si se implementa inco
 > **Rol:** Eres un `[Arquitecto Backend Senior con 10 años de experiencia]`.
 > **Tarea:** Explica las 3 principales **Sobrecargas (Overheads)** que enfrentaría una startup en fase inicial al adoptar MSA, y analiza en contraste la **Deuda Técnica (Technical Debt)** que se podría acumular si mantienen una arquitectura Monolítica.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

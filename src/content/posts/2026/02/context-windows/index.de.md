@@ -39,7 +39,7 @@ Für den schnellen Neustart zwischendurch, wenn die Antworten ungenau werden.
 > **Rolle:** Du bist ein `[KI-Assistent]`.
 > **Aufgabe:** Fasse unsere bisherige Unterhaltung präzise zusammen. Hebe alle wichtigen `[Entscheidungen, Regeln und Ergebnisse]` hervor, damit ich diese Zusammenfassung nutzen kann, um einen neuen Chat mit exakt demselben Wissensstand zu starten.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Level)
 
@@ -73,7 +73,7 @@ Für komplexe Coding-Projekte, lange Recherche-Sitzungen oder die Erstellung von
 
 In der Praxis ist das Kontextfenster oft der unsichtbare Produktivitätskiller. Viele Nutzer denken fälschlicherweise, die KI "verstehe sie nicht mehr" oder werde dümmer. Dabei hat sie schlichtweg den Anfang des Gesprächs vergessen.
 
-Ich wende diese "Summarize & Reset"-Methode standardmäßig alle 10 bis 15 Prompts in großen Projekten an. Das spart nicht nur Token (und damit bares Geld über die API), sondern hält die KI auch messerscharf fokussiert. Selbst bei Modellen mit riesigen Fenstern von über 1 Million Tokens (wie Gemini 1.5 Pro) neigt man dazu, endlos weiterzuschreiben. Doch auch hier sinkt die Präzision durch das sogenannte _'Lost in the Middle'-Phänomen_ (Informationen in der Mitte eines riesigen Textes werden oft übersehen). Ein regelmäßiger, sauberer Reset wirkt hier wahre Wunder für die Code- und Textqualität.
+Ich wende diese "Summarize & Reset"-Methode standardmäßig alle 10 bis 15 Prompts in großen Projekten an. Das spart nicht nur Token (und damit bares Geld über die API), sondern hält die KI auch messerscharf fokussiert. Selbst bei Modellen mit riesigen Fenstern von über 1 Million Tokens (wie Gemini 2.5 Pro) neigt man dazu, endlos weiterzuschreiben. Doch auch hier sinkt die Präzision durch das sogenannte _'Lost in the Middle'-Phänomen_ (Informationen in der Mitte eines riesigen Textes werden oft übersehen). Ein regelmäßiger, sauberer Reset wirkt hier wahre Wunder für die Code- und Textqualität.
 
 ---
 

@@ -44,7 +44,7 @@ Use quando precisar de uma API Mock básica rapidamente.
 > 
 > **Task (Tarefa):** Com base na `[Especificação da API]` que fornecerei, escreva o código completo de um Mock Server pronto para execução em um ambiente `[Express.js]`.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

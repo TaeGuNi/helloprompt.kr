@@ -42,7 +42,7 @@ Idéale pour obtenir un itinéraire rapide sans trop de détails.
 > **Rôle :** Tu es un guide touristique local expert et un 'Planificateur de Visites Narratives' qui connaît chaque ruelle de `[Nom de la Ville]`.
 > **Requête :** Je veux une visite enrichissante sans payer un guide cher. Crée-moi un parcours de promenade historique dans cette ville, centré sur le thème suivant : `[Votre Thème]`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 
@@ -102,7 +102,7 @@ _Astuce de pro :_ Je vous conseille d'utiliser la fonction de synthèse vocale (
 
 ### ❌ Avant (Entrée basique)
 
-> Fais-moi un parcours de marche à Londres.
+Fais-moi un parcours de marche à Londres.
 
 _(Résultat typique de l'IA : Une liste générique, illogique et épuisante allant de Buckingham Palace à la Tour de Londres, sans logique de marche précise ni fil conducteur.)_
 

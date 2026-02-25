@@ -50,7 +50,7 @@ Use esta versão quando precisar de textos rápidos para copiar e colar em vári
 > 
 > **Texto Original:** `[Cole o conteúdo do seu artigo aqui]`
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 

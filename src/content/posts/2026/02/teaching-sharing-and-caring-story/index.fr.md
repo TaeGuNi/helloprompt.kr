@@ -42,7 +42,7 @@ Idéal pour obtenir une petite histoire sur le pouce, juste avant l'heure du cou
 > **Rôle :** Tu es un auteur renommé de contes pour enfants, expert en psychologie infantile.
 > **Requête :** Écris-moi une courte fable sur un animal qui apprend la joie de partager ses jouets avec ses amis, après avoir été égoïste.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Expert)
 

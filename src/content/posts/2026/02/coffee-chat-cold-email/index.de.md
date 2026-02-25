@@ -42,7 +42,7 @@ Verwenden Sie diesen Prompt, wenn Sie wenig Zeit haben und eine solide Grundlage
 > **Rolle:** Du bist ein charismatischer, höflicher und professioneller Netzwerker.
 > **Aufgabe:** Verfasse für mich eine kurze, sympathische Kaltakquise-Nachricht (für LinkedIn oder E-Mail), in der ich einen erfahrenen Experten aus meiner Branche um einen kurzen Austausch (Coffee Chat) oder Karriere-Rat bitte. Die Nachricht soll eine hohe Antwortrate erzielen und keinesfalls aufdringlich wirken.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für maximale Konversionsraten)
 

@@ -13,7 +13,7 @@ tags: [Linux, Cron, Automation, Server, AI]
 
 - **🎯 Target Audience:** Backend Developers, DevOps Engineers, Server Administrators
 - **⏱️ Time Saved:** 10 mins → 30 secs
-- **🤖 Recommended AI:** ChatGPT, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Recommended AI:** ChatGPT, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Difficulty:** ⭐☆☆☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Use this when you need a quick cron expression without complex conditions.
 > **Role:** You are a `[DevOps Engineer]`.
 > **Task:** Convert `[every last Friday of the month at 11 PM]` into a Linux crontab expression. Briefly explain when it will run.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

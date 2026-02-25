@@ -42,7 +42,7 @@ Usalo quando ti serve rapidamente un array JSON semplice e basilare per far funz
 > **Ruolo:** Sei un `[Sviluppatore Frontend Senior]`.
 > **Task:** Crea 5 record di dati fittizi (JSON) per dei `[Profili Utente]` per testare la UI del frontend. I campi da includere sono id, name e email.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Pro Version)
 

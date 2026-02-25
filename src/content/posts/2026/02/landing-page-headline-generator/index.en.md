@@ -42,7 +42,7 @@ Use this when you need quick inspiration or a rapid draft.
 > **Role:** You are a world-class `[Web Copywriter]` and `[UX Writer]` specializing in high-converting landing pages.
 > **Request:** Write a landing page Hero Section copy for `[My Product/Service]` that instantly hooks the target audience in 3 seconds.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

@@ -42,7 +42,7 @@ Use isso quando precisar apenas de um resultado rápido e direto.
 > **Papel:** Você é um escritor de viagens experiente e fotógrafo local que conhece todos os segredos da cidade.
 > **Solicitação:** Recomende 3 lugares tranquilos e secretos em `[Nome da Cidade/Região]`, longe das multidões de turistas, que ofereçam uma experiência autêntica e boas oportunidades para fotos.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 
@@ -105,7 +105,7 @@ Este prompt é uma ferramenta incrivelmente poderosa para escapar das chamadas "
 
 ### ❌ Antes (Entrada Simples)
 
-> "Recomende lugares tranquilos em Jeju."
+"Recomende lugares tranquilos em Jeju."
 
 _(Resultado: A IA recomenda praias levemente menos famosas ou trilhas de montanha que, na realidade, já são bastante conhecidas pelos turistas, resultando em uma viagem clichê.)_
 

@@ -13,7 +13,7 @@ tags: ["Test Code", "TDD", "Jest", "JUnit"]
 
 - **🎯 Recommended For:** Developers, QA Engineers, Junior Developers
 - **⏱️ Time Required:** 5 minutes → 1 minute
-- **🤖 Recommended Model:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (Models with strong coding capabilities)
+- **🤖 Recommended Model:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (Models with strong coding capabilities)
 
 - ⭐ **Difficulty:** ⭐⭐☆☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Use this when you need a quick, standard test suite without complex configuratio
 > **Role:** You are a `[Senior QA Engineer]`.
 > **Request:** Write comprehensive unit test code for the following `[function/class]`, making sure to cover potential edge cases.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 
@@ -112,7 +112,7 @@ function divide(a, b) {
 }
 ```
 
-<br>
+\
 
 ### ✅ After (Result: Jest Framework)
 

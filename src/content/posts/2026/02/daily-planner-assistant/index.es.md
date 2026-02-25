@@ -47,7 +47,7 @@ El prompt que te presentaré hoy es tu **'Asistente de IA exclusivo para la plan
 > **Lista de tareas de hoy:**
 > `[Escribe aquí todas tus tareas pendientes sin preocuparte por el orden]`
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro)
 
@@ -135,12 +135,12 @@ Mi horario laboral es de 9:30 a.m. a 6:30 p.m.
 
 | Categoría | Tareas | Acción a tomar |
 | :--- | :--- | :--- |
-| **DO (Urgente e Importante)** | Asistir a la reunión semanal (11:00) <br> Redactar borrador del informe semanal | **Hacer de inmediato**, asignar a la hora de máxima concentración |
-| **DECIDE (Importante, No Urgente)** | Investigar promoción del competidor A <br> Reservar restaurante para el taller | **Programar**, asignar para la tarde |
-| **DELEGATE (Urgente, No Importante)** | Pedir corrección del logo al diseño <br> Responder correos atrasados | **Procesar/Delegar rápido**, hacer al inicio de la jornada |
+| **DO (Urgente e Importante)** | Asistir a la reunión semanal (11:00) \ Redactar borrador del informe semanal | **Hacer de inmediato**, asignar a la hora de máxima concentración |
+| **DECIDE (Importante, No Urgente)** | Investigar promoción del competidor A \ Reservar restaurante para el taller | **Programar**, asignar para la tarde |
+| **DELEGATE (Urgente, No Importante)** | Pedir corrección del logo al diseño \ Responder correos atrasados | **Procesar/Delegar rápido**, hacer al inicio de la jornada |
 | **DELETE (No Urgente, No Importante)** | (Sin tareas en esta categoría hoy) | - |
 
-<br>
+\
 
 ## 🕒 Horario Diario (Time Blocking)
 

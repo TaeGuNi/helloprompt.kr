@@ -42,7 +42,7 @@ tags: ["Linux", "Script de Shell", "DevOps", "Automatización", "Bash"]
 > **Rol:** Eres un administrador de sistemas Linux y experto en DevOps.
 > **Solicitud:** Escribe un script de Bash para `[tarea deseada, ej: buscar archivos mayores a 1GB y listarlos]`. Asegúrate de que sea seguro y no elimine nada sin preguntar.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

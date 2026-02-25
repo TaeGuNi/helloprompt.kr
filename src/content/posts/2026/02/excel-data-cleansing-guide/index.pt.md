@@ -42,7 +42,7 @@ Use esta versão quando precisar de uma fórmula rápida para um problema simple
 > **Papel:** Você é um Especialista em Processamento de Dados Excel.
 > **Solicitação:** Diga-me a melhor fórmula ou método para separar endereços e códigos postais misturados em uma única célula.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Especialista)
 

@@ -43,7 +43,7 @@ Use esta versão quando precisar iniciar uma conversa rapidamente.
 > **Task (Tarefa):** Analise o texto abaixo escrito pelo meu cliente-alvo e sugira 3 frases de quebra-gelo naturais e interessantes para iniciar um cold mail.
 > **Texto do Cliente:** `[Cole aqui a publicação do LinkedIn ou trecho de entrevista do cliente]`
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

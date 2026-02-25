@@ -14,7 +14,7 @@ tags:
 
 - **🎯 Recomendado para:** Nômades digitais, freelancers, profissionais remotos e viajantes
 - **⏱️ Tempo necessário:** 30 minutos de pesquisa → Reduzido para 1 minuto
-- **🤖 Modelo recomendado:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modelo recomendado:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Dificuldade:** ⭐⭐☆☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -43,10 +43,10 @@ Neste post, apresento o prompt definitivo para montar a sua **Mochila Tecnológi
 Use esta versão quando precisar de recomendações rápidas e diretas para sua próxima viagem.
 
 > **Papel:** Você é um Desenvolvedor Full Stack experiente e um YouTuber de Tecnologia famoso por viajar o mundo enquanto trabalha.
->
+
 > **Tarefa:** Transforme qualquer café em um escritório de alta performance. Crie uma lista definitiva e minimalista de equipamentos para trabalho remoto (desde laptops até cabos) que garanta 200% de eficiência.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Especialista)
 

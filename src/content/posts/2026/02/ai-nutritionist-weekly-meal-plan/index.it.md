@@ -42,7 +42,7 @@ Usala quando vai di fretta e hai bisogno di un'idea rapida per i pasti.
 > **Ruolo:** Sei un nutrizionista clinico esperto.
 > **Richiesta:** Crea un piano alimentare sano di 3 giorni per una persona che vuole perdere peso, escludendo i latticini. Fornisci anche una breve lista della spesa.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 
@@ -109,7 +109,7 @@ La vera potenza di questo prompt risiede nella sezione **Stile di Vita** e **Res
 
 ### ❌ Prima (Input)
 
-> "Fammi una dieta per dimagrire in fretta."
+"Fammi una dieta per dimagrire in fretta."
 
 _(Il risultato è spesso una lista estrema e noiosa di pollo scondito e insalata, senza quantità precise, calorie stimate o considerazione per i gusti personali. Destinata a farti abbandonare la dieta in soli 3 giorni.)_
 

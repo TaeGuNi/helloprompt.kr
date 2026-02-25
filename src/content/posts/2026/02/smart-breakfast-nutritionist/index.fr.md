@@ -42,7 +42,7 @@ Le matin, la course contre la montre rend difficile la préparation d'un repas s
 > **Rôle :** Tu es un chef cuisinier créatif.
 > **Tâche :** Dans mon frigo, j'ai `[2 œufs, 1 tranche de pain de mie, des tomates cerises]`. Recommande-moi 3 menus de petit-déjeuner que je peux préparer en 15 minutes avec ces ingrédients.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 
@@ -109,7 +109,7 @@ Ce prompt va bien au-delà d'une simple recommandation de recette. En imposant d
 
 ### ❌ Avant (Question classique)
 
-> "J'ai des œufs, du pain de mie et des tomates cerises chez moi, qu'est-ce que je peux faire pour le petit-déjeuner ?"
+"J'ai des œufs, du pain de mie et des tomates cerises chez moi, qu'est-ce que je peux faire pour le petit-déjeuner ?"
 
 _(Réponse typique de l'IA : Faites du pain perdu ou des œufs brouillés. Battez les œufs...)_ 👉 Aucun apport nutritionnel mentionné, un temps de préparation flou : l'utilité pratique est très faible.
 

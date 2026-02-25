@@ -42,7 +42,7 @@ Nutze diesen Prompt, wenn du nur einen schnellen Inspirationsschub brauchst.
 > **Rolle:** Du bist ein genialer Rapper und Texter mit erstklassigen Skills.
 > **Aufgabe:** Schreibe mir 4 Rap-Zeilen zum Thema `[Dein Thema]`. Nutze dabei komplexe Doppelreime und baue mindestens ein cleveres Wortspiel ein.
 
-<br>
+\
 
 ### 🥇 Pro Version (Der Meister-Ghostwriter)
 

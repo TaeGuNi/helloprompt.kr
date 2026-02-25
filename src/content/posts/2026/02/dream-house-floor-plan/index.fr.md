@@ -43,10 +43,10 @@ Utilisez cette version pour visualiser rapidement l'ambiance extérieure et le s
 
 > **Rôle :** Tu es un `[Architecte]` de renommée mondiale.
 > **Requête :** Dessine une vue en perspective réaliste de l'extérieur d'une `[maison minimaliste moderne]`.
->
+
 > **Prompt :** modern minimal house exterior, white concrete and wood, large glass windows, nature surrounding, warm lighting, photorealistic, 8k --ar 16:9
 
-<br>
+\
 
 ### 🥇 Version Pro (Plan d'Étage & Vue Isométrique)
 

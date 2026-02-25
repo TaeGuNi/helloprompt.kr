@@ -43,7 +43,7 @@ Ideale per generare rapidamente un server Axum funzionante per test o piccoli mi
 > **Ruolo:** Sei un Senior Rust Backend Engineer specializzato in Axum.
 > **Compito:** Scrivi un server web di base utilizzando Axum e Tokio che includa una rotta di health check e una semplice API REST per gestire un'entità `User`. Assicurati che il codice compili con le versioni stabili del 2026.
 
-<br>
+\
 
 ### 🥇 Pro Version (Modello Enterprise)
 
@@ -74,13 +74,13 @@ Ideale per impostare un'architettura di produzione scalabile, includendo gestion
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 Sebbene l'ecosistema web di Rust sia diventato "noioso" e stabile (che è un enorme vantaggio per le aziende!), la curva di apprendimento rimane ripida per i nuovi arrivati. L'utilizzo di questi prompt accelera drasticamente il processo di adozione. Invece di lottare per giorni con il _borrow checker_ o per capire come propagare correttamente gli errori in Axum, l'IA ti fornirà un pattern strutturale collaudato. Nel 2026, il vero vantaggio competitivo non è solo sapere usare Rust, ma saper guidare l'IA per generare l'infrastruttura di base, permettendoti di concentrarti esclusivamente sulla complessa logica di business.
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q: Devo usare Rust anche per semplici applicazioni CRUD?**
   - A: Non necessariamente. Se il tuo obiettivo primario è la validazione rapida del mercato e non prevedi carichi estremi, framework come Django, Laravel o Next.js offrono ancora un _time-to-market_ superiore. Rust brilla quando l'efficienza dei costi, le prestazioni estreme o la correttezza del dominio logico sono critici.
@@ -93,7 +93,7 @@ Sebbene l'ecosistema web di Rust sia diventato "noioso" e stabile (che è un eno
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🧬 Why it works?
 
 1. **Role Specifico (Principal Engineer):** Costringe l'IA a non scrivere codice da principiante (che in Rust spesso porta a cloni inutili o `Arc<Mutex<T>>` abusati), ma a usare pattern architetturali eleganti e sicuri.
 2. **Vincoli di Sicurezza (No unwrap):** Previene la generazione di codice fragile. Evitare i _panic_ in favore della propagazione tipizzata degli errori (`Result`) è il cuore del vero sviluppo in Rust.
@@ -101,7 +101,7 @@ Sebbene l'ecosistema web di Rust sia diventato "noioso" e stabile (che è un eno
 
 ---
 
-## 📊 증명: Before & After
+## 📊 Before & After
 
 ### ❌ Before (Apprendimento senza IA)
 
@@ -134,7 +134,7 @@ pub async fn get_user(
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
 Nel 2026, Rust per il web è una scommessa sicura e prevedibile. Lascia che l'intelligenza artificiale gestisca il boilerplate e la configurazione iniziale. Integra questi prompt nel tuo flusso di lavoro e inizia a costruire sistemi sicuri, fulminei e a prova di bomba!
 

@@ -42,7 +42,7 @@ Verwenden Sie diese Version, wenn Sie schnell einen ersten Entwurf für eine Eth
 > **Rolle:** Du bist ein KI-Ethikexperte in einem IT-Unternehmen.
 > **Aufgabe:** Verfasse die "5 Grundprinzipien zum Verbot der Erstellung und Verbreitung von Deepfakes ohne Zustimmung", um die Nutzer unseres Dienstes zu schützen.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

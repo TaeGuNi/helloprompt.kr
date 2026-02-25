@@ -40,7 +40,7 @@ Ideal para uma revisão rápida e detecção de informações falsas no rascunho
 > **Role:** Você é um 'Chefe de Fact-Checking' rigoroso e implacável.
 > **Task:** Compare o `[Rascunho da Matéria]` com os `[Dados Originais da Entrevista]` abaixo. Identifique qualquer conteúdo adicionado arbitrariamente pelo repórter que não conste na fonte original, bem como qualquer distorção em citações. Aponte imediatamente qualquer expressão exagerada ou sem embasamento.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Especialista)
 

@@ -44,7 +44,7 @@ Use this when you need instant modifications or boilerplate code in your current
 > **Prompt:**
 > Refactor the currently selected function into an asynchronous (`async/await`) pattern, and add detailed error handling logic using a `try-catch` block.
 
-<br>
+\
 
 ### 🥇 Pro Version (Entire Codebase Refactoring)
 

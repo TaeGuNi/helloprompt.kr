@@ -42,7 +42,7 @@ Descubre cómo sumergirte en la historia mientras recorres los callejones de cua
 > **Rol:** Eres un experto 'Planificador de Tours de Narrativa Histórica' que conoce cada rincón de `[Nombre de la Ciudad]`.
 > **Solicitud:** Diséñame una ruta a pie gratuita y fascinante sobre `[Tema de interés]`. Incluye 3 o 4 paradas clave.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Expert Version)
 
@@ -106,7 +106,7 @@ El verdadero "truco" de este prompt es pedirle a la IA que redacte el texto **"c
 
 ### ❌ Antes (Entrada simple)
 
-> "Hazme un recorrido a pie por Londres."
+"Hazme un recorrido a pie por Londres."
 
 **Resultado:** Una lista genérica, cansada y predecible (Big Ben, London Eye, Palacio de Buckingham) sin conexión temática, sin tiempos estimados y con explicaciones secas extraídas directamente de Wikipedia.
 

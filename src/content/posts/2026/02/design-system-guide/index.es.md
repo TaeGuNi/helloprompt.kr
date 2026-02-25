@@ -44,7 +44,7 @@ Utiliza este prompt cuando necesites estructurar la paleta de colores inicial y 
 > Quiero dividir los colores `[Primary (Azul)]`, `[Secondary (Gris)]` y `[Error (Rojo)]` en 9 niveles cada uno, desde el 100 hasta el 900.
 > Recomiéndame en una tabla los códigos Hex para cada nivel, acompañados de nombres semánticos e intuitivos (por ejemplo, `text-primary`, `bg-surface-default`) para que pueda aplicarlos directamente a nuestro código.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

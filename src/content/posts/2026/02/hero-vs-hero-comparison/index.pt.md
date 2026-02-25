@@ -42,7 +42,7 @@ Use isso quando precisar de um resultado rápido e direto.
 > **Papel:** Você é um `[Historiador Comparativo e Crítico Biográfico]`.
 > **Solicitação:** Compare `[Figura A]` e `[Figura B]` que viveram em épocas e países diferentes, analisando suas semelhanças, diferenças e impactos históricos em um formato 1:1.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 
@@ -82,7 +82,7 @@ Este prompt é uma ferramenta extraordinária não apenas para o estudo da hist�
   - A: Com certeza! Comparar um personagem de ficção (como Tony Stark) com uma figura real (como Elon Musk ou Nikola Tesla) gera resultados surpreendentes e ótimos insights sobre arquétipos e storytelling.
 
 - **Q: O modelo de IA não corre o risco de inventar fatos históricos?**
-  - A: Por isso incluímos a restrição de neutralidade e a instrução clara para não inventar fatos ("Evite alucinações"). Contudo, em modelos mais básicos, pequenos anacronismos na "conversa virtual" podem ocorrer. Recomenda-se usar modelos de ponta (como GPT-4, Gemini 1.5 Pro ou Claude 3.5 Sonnet) para a máxima precisão histórica.
+  - A: Por isso incluímos a restrição de neutralidade e a instrução clara para não inventar fatos ("Evite alucinações"). Contudo, em modelos mais básicos, pequenos anacronismos na "conversa virtual" podem ocorrer. Recomenda-se usar modelos de ponta (como GPT-4, Gemini 2.5 Pro ou Claude 3.5 Sonnet) para a máxima precisão histórica.
 
 ---
 

@@ -44,7 +44,7 @@ Use quando precisar apenas de sugestões rápidas de ingredientes substitutos.
 > **Role (Papel):** Você é um Chef com 3 estrelas Michelin.
 > **Task (Tarefa):** Estou preparando `[macarrão ao molho branco]`, mas não tenho `[creme de leite]`. Diga-me rapidamente 3 ingredientes comuns que posso usar como substitutos imediatos.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Profissional)
 

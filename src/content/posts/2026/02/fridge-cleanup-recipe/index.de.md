@@ -42,7 +42,7 @@ Verwenden Sie diesen Prompt, wenn Sie einfach nur schnell eine Idee brauchen.
 > **Rolle:** Du bist ein erfahrener `[Resteverwertungs-Koch]`.
 > **Anfrage:** Erstelle mir ein leckeres Rezept aus diesen Zutaten: `[Zutatenliste einfügen]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenform)
 
@@ -77,7 +77,7 @@ Nutzen Sie diesen detaillierten Prompt für maßgeschneiderte, hochwertige Ergeb
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 Dieser Prompt ist ein echter Gamechanger für den Alltag und mein persönlicher Lebensretter am Ende der Woche. Oft stehen wir vor dem Kühlschrank und sehen nur unzusammenhängende Einzelteile. Die KI hingegen erkennt Geschmacksprofile und Kombinationen, auf die wir im Alltagsstress nicht kommen.
 
@@ -85,7 +85,7 @@ _Ein Pro-Tipp:_ Wenn Sie eine bestimmte Richtung bevorzugen (z. B. "italienisch"
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q: Kann ich der KI auch genaue Mengenangaben geben?**
   - A: Absolut! Je genauer Ihre Angaben sind (z. B. "halbe Tasse Reis", "200g Hähnchen"), desto präziser kann die KI die Portionsgrößen und Würzverhältnisse im Rezept berechnen.

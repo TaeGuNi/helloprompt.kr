@@ -43,7 +43,7 @@ Use this for quick problem-solving or adding a layer of logic to your daily task
 > **Task:** Perfectly solve the following: `[Insert your problem here]`.
 > **Constraints:** Do not give me the answer immediately. You must apply the "Let's think step by step" approach and show me your detailed, concrete reasoning process first.
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -79,7 +79,7 @@ When working with the latest reasoning models like DeepSeek R1 or o3-mini in the
 
 ## 🙋 Frequently Asked Questions (FAQ) {#faq}
 
-- **Q: Does this work on standard models like Gemini 1.5 Pro or GPT-4o?**
+- **Q: Does this work on standard models like Gemini 2.5 Pro or GPT-4o?**
   - A: Yes, forcing step-by-step reasoning (CoT) yields a statistically significant increase in accuracy even on standard models. However, the synergy is far more explosive when used with the latest reasoning-specialized models (e.g., Gemini 3 Pro, DeepSeek R1) that have this cognitive process internalized.
 
 - **Q: The output gets way too long. Can I just get the summary?**

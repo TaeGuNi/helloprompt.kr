@@ -13,7 +13,7 @@ tags: ["PronunciaInglese", "Shadowing", "Prompt", "Parlare"]
 
 - **🎯 Consigliato per:** Studenti di lingue, professionisti che lavorano con l'estero, chiunque voglia migliorare la propria pronuncia inglese.
 - **⏱️ Tempo risparmiato:** Da ore di ascolto ripetitivo a 1 minuto di analisi visiva.
-- **🤖 Modello consigliato:** ChatGPT (GPT-4), Claude 3.5 Sonnet, Gemini 1.5 Pro.
+- **🤖 Modello consigliato:** ChatGPT (GPT-4), Claude 3.5 Sonnet, Gemini 2.5 Pro.
 
 - ⭐ **Difficoltà:** ⭐⭐☆☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Ideale per avere un'indicazione rapida su come pronunciare una singola frase.
 > **Ruolo:** Sei un esperto di fonetica inglese e un vocal coach per la riduzione dell'accento.
 > **Richiesta:** Mostrami come pronunciare in modo naturale la frase `[Inserisci frase]`. Usa simboli visivi per indicarmi dove cade l'accento e spiegami brevemente come unire le parole.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Professional Version)
 

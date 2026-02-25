@@ -10,7 +10,7 @@ tags: ["AI Trends", "System Prompt", "Prompt Engineering", "2026"]
 
 - **🎯 Public cible :** Ingénieurs Prompt, Développeurs IA, Chefs de produit tech
 - **⏱️ Gain de temps :** De plusieurs heures de débogage → 5 minutes de configuration
-- **🤖 Modèles recommandés :** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (modèles supportant les instructions système avancées)
+- **🤖 Modèles recommandés :** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (modèles supportant les instructions système avancées)
 
 - ⭐ **Difficulté :** ⭐⭐⭐⭐☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -40,7 +40,7 @@ Idéal pour configurer rapidement un comportement d'IA simple sans complexité e
 > **Tâche :** Réponds à toutes les requêtes en te concentrant exclusivement sur `[Domaine, ex: l'optimisation des performances et la sécurité]`.
 > **Contrainte :** Ne fournis aucune explication superflue. Donne uniquement du code propre et commenté.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 

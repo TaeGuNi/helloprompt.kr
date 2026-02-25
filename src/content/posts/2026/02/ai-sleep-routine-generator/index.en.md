@@ -42,7 +42,7 @@ Use this when you want a straightforward, no-nonsense bedtime schedule.
 > **Role:** You are a behavioral psychologist and elite sleep coach specializing in habit formation.
 > **Task:** Design a highly effective, frictionless sleep routine that conditions my brain to fall asleep quickly, utilizing principles of classical conditioning.
 
-<br>
+\
 
 ### 🥇 Pro Version (Deep Customization)
 
@@ -103,7 +103,7 @@ By explicitly asking the AI to design a barrier between you and your phone (like
 
 ### ❌ Before (Standard Input)
 
-> "Give me a good routine to help me sleep."
+"Give me a good routine to help me sleep."
 > _(Result: Generic advice like "Read a book, don't use your phone, drink warm milk.")_
 
 ### ✅ After (Using the Pro Prompt)

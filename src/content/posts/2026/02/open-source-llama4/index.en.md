@@ -40,7 +40,7 @@ Use this when you need a quick overview of the pros and cons.
 > **Role:** You are an AI Integration Strategist.
 > **Task:** Explain the pros and cons of migrating from closed-source AI to Meta's Llama 4 for a `[Your Industry]` company. Include a brief cost-benefit analysis.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

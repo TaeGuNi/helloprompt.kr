@@ -45,7 +45,7 @@ Verwenden Sie diesen Prompt, wenn Sie in Eile sind und lediglich Tippfehler sowi
 > **Aufgabe:** Überprüfe den folgenden `[Text]` auf Rechtschreibung sowie Zeichensetzung und korrigiere unnatürlich klingende Sätze, damit sie flüssig lesbar sind. Verändere dabei unter keinen Umständen die ursprüngliche Bedeutung des Textes.
 > **Text:** `[Fügen Sie hier Ihren Text ein]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Stiltransformation & Tiefenlektorat)
 

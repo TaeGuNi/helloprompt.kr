@@ -45,7 +45,7 @@ No te dejes llevar por rumores. Analizando exhaustivamente **los datos, los obje
 > **Contexto:** Nuestro equipo actual consta de `[3 desarrolladores React, 1 backend Node.js]`, y el servicio que queremos construir es `[una app de entrega de comida basada en geolocalización]`.
 > **Tarea:** En esta situación, ¿deberíamos elegir React Native o Flutter? Dame una respuesta clara con los 3 motivos más críticos y fundamentados para tu elección.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Análisis Profundo para CTOs)
 
@@ -109,15 +109,15 @@ Al final, lo que decide el éxito es el **'ADN del equipo'** y la **'Velocidad d
 
 ### ❌ Antes (Decisión basada en rumores de la comunidad)
 
-> "Últimamente dicen que Flutter es la tendencia, ¿no? Además, Google lo respalda. ¡Vámonos con Flutter!"
+"Últimamente dicen que Flutter es la tendencia, ¿no? Además, Google lo respalda. ¡Vámonos con Flutter!"
 
 *Resultado:* Los desarrolladores frontend de React existentes desperdiciaron 2 meses aprendiendo el lenguaje Dart y nuevos gestores de estado (BLoC/Provider). La fecha de lanzamiento del MVP se retrasó y el proyecto se estancó al no poder contratar más desarrolladores Flutter para escalar. 🐢
 
 ### ✅ Después (Decisión basada en la consultoría del CTO de IA)
 
 > **IA CTO:** "En una situación donde todo el equipo domina React y Node.js, introducir Flutter conlleva un riesgo fatal: **'consumir vuestra pista de aterrizaje (Runway) debido a la curva de aprendizaje'**.
->
-> Dado que su máxima prioridad es lanzar un MVP en 3 meses, **React Native** es abrumadoramente superior, ya que permite reutilizar más del 80% de los conocimientos actuales. Las preocupaciones de rendimiento se compensan por completo con la arquitectura Fabric. No miren atrás y elijan RN."
+
+Dado que su máxima prioridad es lanzar un MVP en 3 meses, **React Native** es abrumadoramente superior, ya que permite reutilizar más del 80% de los conocimientos actuales. Las preocupaciones de rendimiento se compensan por completo con la arquitectura Fabric. No miren atrás y elijan RN."
 
 *Resultado:* Aprovechando el conocimiento previo en React del equipo, completaron el desarrollo del MVP de la app en solo 1 mes. Tras una exitosa validación en el mercado, lograron captar una ronda de inversión Serie A. 🚀
 

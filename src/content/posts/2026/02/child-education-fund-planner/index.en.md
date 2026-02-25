@@ -42,7 +42,7 @@ Use this when you need a quick, high-level estimate without delving into complex
 > **Role:** You are an expert `[Financial Planner]` specializing in college fund planning.
 > **Request:** The cost of tuition is rising faster than inflation. How much money do I actually need to save for my child's college education, and where should I start?
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

@@ -43,7 +43,7 @@ Las habilidades artísticas aquí no importan en lo absoluto. Este es un juego c
 > **Rol:** Eres un escritor de cuentos infantiles con una imaginación desbordante.
 > **Solicitud:** Sugiere 3 situaciones de dibujo muy locas, divertidas y fáciles de dibujar para jugar a los relevos con mi hijo.
 
-<br>
+\
 
 ### 🥇 Versión Experta (Pro)
 

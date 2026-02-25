@@ -44,7 +44,7 @@ Ideal, wenn Sie ohne komplexes Format nur blitzschnell die Kernaussagen erfassen
 >
 > `[Hier das Meeting-Transkript einfügen]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten)
 
@@ -114,13 +114,13 @@ Dieser Prompt ist meine persönliche "Geheimwaffe", die ich direkt in meine Noti
 
 ### ❌ Before (Eingabe: Rohes Transkript)
 
-> "Ähm, hey Max, wegen dem... Entwurf für den Main-Banner bis Ende der Woche? Kannst du das übernehmen? Ach übrigens, was essen wir heute Mittag? (Lacht) Jedenfalls, das ist echt wichtig, also schau bitte, dass wir da im Zeitplan bleiben..."
+"Ähm, hey Max, wegen dem... Entwurf für den Main-Banner bis Ende der Woche? Kannst du das übernehmen? Ach übrigens, was essen wir heute Mittag? (Lacht) Jedenfalls, das ist echt wichtig, also schau bitte, dass wir da im Zeitplan bleiben..."
 
 ### ✅ After (Ergebnis: KI-Zusammenfassung)
 
 > **🏃‍♂️ Action Items (Nächste Schritte)**
->
-> - [ ] **Max**: Entwurf und Design für Main-Banner erstellen und teilen (Deadline: voraussichtlich diesen Freitag) _※ Hohe Priorität_
+
+- [ ] **Max**: Entwurf und Design für Main-Banner erstellen und teilen (Deadline: voraussichtlich diesen Freitag) _※ Hohe Priorität_
 
 ---
 

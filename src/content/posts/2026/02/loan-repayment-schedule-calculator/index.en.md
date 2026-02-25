@@ -42,7 +42,7 @@ Use this prompt when you just need the core formulas without the detailed breakd
 > **Role:** You are an `[Expert Financial Analyst]`.
 > **Request:** Provide the core Excel formulas to create a basic loan interest calculator, eliminating the need to use third-party banking websites.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Setup)
 

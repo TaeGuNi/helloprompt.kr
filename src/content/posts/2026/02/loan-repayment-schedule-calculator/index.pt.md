@@ -42,7 +42,7 @@ Use esta versão quando precisar apenas de uma resposta rápida ou da fórmula d
 > **Papel:** Você é um `[Especialista Financeiro em Excel]`.
 > **Tarefa:** Crie um modelo de calculadora de juros de empréstimo diretamente no Excel, explicando as funções necessárias para que eu não dependa de simuladores de sites bancários.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 
@@ -127,7 +127,7 @@ _(Resultado aproximado: R$ 1.036,38 - O valor fixo que você pagará todos os me
 ```
 
 > **💡 Análise Rápida:**
-> No início do empréstimo, o valor retornado por `IPGTO` (Juros) é alto e `PPGTO` (Principal) é baixo. Ao arrastar as fórmulas até o fim, você verá a porção do principal aumentar enquanto os juros diminuem até zerar.
+No início do empréstimo, o valor retornado por `IPGTO` (Juros) é alto e `PPGTO` (Principal) é baixo. Ao arrastar as fórmulas até o fim, você verá a porção do principal aumentar enquanto os juros diminuem até zerar.
 
 ---
 

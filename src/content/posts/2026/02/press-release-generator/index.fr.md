@@ -45,7 +45,7 @@ Utilisez cette version pour annoncer rapidement une nouvelle légère, un évén
 > **Tâche :** Rédige une brève de communiqué de presse (article factuel) destinée à être diffusée aux médias, en adoptant un ton purement objectif basé sur les informations ci-dessous.
 > **Contexte :** "Notre entreprise (Hello Prompt) vient de lancer un nouvel outil de rédaction par IA. Il est gratuit pour tous et permet de multiplier la productivité par 10."
 
-<br>
+\
 
 ### 🥇 Version Pro (Article de fond et Levée de fonds)
 
@@ -115,23 +115,23 @@ Le secret de ce prompt réside dans l'attribution du rôle de **"Directeur RP an
 
 ### ❌ Avant (Une simple publicité)
 
-> Notre entreprise Hello Prompt a enfin réussi à lever l'incroyable somme de 10 millions d'euros lors de sa Série A ! Le meilleur fonds de capital-risque, OO Ventures, y a participé. Avec cet argent, nous allons nous développer sur le marché mondial pour devenir l'entreprise d'IA numéro 1 au monde. Merci pour votre soutien !
+Notre entreprise Hello Prompt a enfin réussi à lever l'incroyable somme de 10 millions d'euros lors de sa Série A ! Le meilleur fonds de capital-risque, OO Ventures, y a participé. Avec cet argent, nous allons nous développer sur le marché mondial pour devenir l'entreprise d'IA numéro 1 au monde. Merci pour votre soutien !
 
 ### ✅ Après (L'article factuel que les journalistes adorent)
 
 > **[Titre] Hello Prompt lève 10 millions d'euros en Série A... et accélère son expansion internationale**
->
+
 > **[Amorce]** Hello Prompt (PDG : Jean Dupont), une startup proposant des solutions B2B basées sur l'IA générative, a annoncé le 11 avoir clôturé avec succès une levée de fonds de Série A d'un montant de 10 millions d'euros.
->
+
 > **[Corps du texte]** Ce tour de table a été mené par OO Ventures, un fonds de capital-risque (VC) de premier plan, avec la participation de XX Capital. Hello Prompt est spécialisée dans les solutions de prompts IA visant à automatiser les tâches en entreprise. La startup affiche une croissance fulgurante, avec un chiffre d'affaires ayant bondi de plus de 300 % par rapport à l'année précédente. Les fonds levés permettront à l'entreprise de développer son infrastructure mondiale en vue de pénétrer le marché nord-américain et de recruter massivement des talents clés en recherche et développement (R&D).
->
+
 > **[Citation]** "Cette levée de fonds est une reconnaissance officielle de la viabilité commerciale et du potentiel de croissance de notre technologie d'IA", a déclaré Jean Dupont, PDG de Hello Prompt. "Grâce aux capitaux obtenus, nous allons consolider notre compétitivité technologique au niveau mondial et accélérer notre conquête des marchés internationaux."
->
+
 > **[À propos de l'entreprise]**
->
-> - Nom de l'entreprise : Hello Prompt Inc.
-> - Date de création : Mai 2024
-> - Service principal : Solutions de prompts IA personnalisées pour le B2B
+
+- Nom de l'entreprise : Hello Prompt Inc.
+- Date de création : Mai 2024
+- Service principal : Solutions de prompts IA personnalisées pour le B2B
 
 ---
 

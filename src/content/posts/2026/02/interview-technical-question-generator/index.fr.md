@@ -43,7 +43,7 @@ Utilisez cette version si vous êtes pressé et souhaitez un aperçu rapide des 
 > **Rôle :** Tu es un recruteur technique senior (Lead/Head) avec 20 ans d'expérience dans le domaine `[Nom du Poste]`.
 > **Requête :** Prépare une liste des questions d'entretien technique les plus probables, accompagnées de leurs réponses modèles, parfaitement adaptées à mon profil de `[Nom du Poste]` avec `[N]` années d'expérience.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 

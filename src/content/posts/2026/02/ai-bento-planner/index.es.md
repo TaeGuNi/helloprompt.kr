@@ -42,7 +42,7 @@ Aquí te explico cómo dejar de preocuparte por el almuerzo de mañana y empezar
 > **Rol:** Eres un chef experto en comidas rápidas y saludables.
 > **Solicitud:** Dime qué puedo preparar para el almuerzo en 10 minutos con `[huevos, medio paquete de espinacas, arroz sobrante y un poco de pollo]`. Dame una receta súper sencilla.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Profesional)
 

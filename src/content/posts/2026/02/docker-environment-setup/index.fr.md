@@ -42,7 +42,7 @@ Idéal pour obtenir une configuration standard et rapide.
 > **Rôle :** Tu es un Expert en Orchestration de Conteneurs et Ingénieur DevOps.
 > **Requête :** Rédige un `Dockerfile` et un `docker-compose.yml` pour conteneuriser mon application. Ma stack est `[Insérez votre stack, ex: Node.js, Express, MongoDB]`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Prête pour la Production)
 

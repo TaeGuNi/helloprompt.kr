@@ -39,7 +39,7 @@ Use this when you need a quick answer and the format isn't strictly critical.
 > **Role:** You are a Sentiment Analysis Expert.
 > **Task:** Classify the sentiment of the following text: "The service was slow, but the food was excellent." Output only Positive, Negative, or Neutral.
 
-<br>
+\
 
 ### 🥇 Pro Version (Few-Shot)
 

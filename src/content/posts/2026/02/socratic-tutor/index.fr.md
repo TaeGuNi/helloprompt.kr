@@ -13,7 +13,7 @@ tags: ["학습", "자기계발", "메타인지", "튜터링"]
 
 - **🎯 Public cible :** Étudiants, développeurs juniors et chefs de projet désireux de maîtriser de nouveaux concepts à la perfection.
 - **⏱️ Temps requis :** Illimité (parfaitement synchronisé avec votre rythme d'apprentissage).
-- **🤖 Modèles recommandés :** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro (une grande capacité de raisonnement logique et de maintien du contexte est indispensable).
+- **🤖 Modèles recommandés :** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro (une grande capacité de raisonnement logique et de maintien du contexte est indispensable).
 
 - ⭐ **Difficulté :** ⭐⭐⭐☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -44,7 +44,7 @@ Idéale pour lancer rapidement une session de questions-réponses sur un concept
 > **Rôle :** Tu es mon professeur particulier en tête-à-tête, spécialisé dans l'enseignement de `[Sujet d'étude]`.
 > **Tâche :** Pose-moi continuellement des questions jusqu'à ce que je comprenne parfaitement `[Sujet d'étude]`. Ne donne jamais la réponse en premier. Si je me trompe, fournis-moi uniquement de très légers indices pour que je puisse m'en rendre compte par moi-même. Si je réponds correctement, passe à une question plus approfondie.
 
-<br>
+\
 
 ### 🥇 Version Pro
 

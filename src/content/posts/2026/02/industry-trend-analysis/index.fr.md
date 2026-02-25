@@ -42,7 +42,7 @@ En matière d'investissement, le potentiel de croissance du secteur est souvent 
 > **Rôle :** Tu es un `[Expert en Stratégie Industrielle]` travaillant pour un grand cabinet de conseil mondial.
 > **Requête :** Analyse les tendances actuelles du marché de `[Nom du Secteur, ex: la robotique humanoïde]` et identifie les entreprises cotées en bourse qui en bénéficieront le plus.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pour une analyse approfondie)
 

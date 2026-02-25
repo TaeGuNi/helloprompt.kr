@@ -42,7 +42,7 @@ Ideal cuando necesitas un boceto rápido para empezar a visualizar el viaje.
 > **Rol:** Eres un experto guía turístico local y un maestro en la planificación de itinerarios.
 > **Solicitud:** Crea un itinerario detallado de `[3 días]` para `[Osaka]`, considerando un ritmo de viaje `[relajado]`.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Expert Version)
 
@@ -109,7 +109,7 @@ Al especificar explícitamente el perfil de los viajeros (ej. "padres mayores") 
 
 ### ❌ Antes (Entrada Pobre)
 
-> "Hazme un itinerario de 3 días para Osaka con mis padres."
+"Hazme un itinerario de 3 días para Osaka con mis padres."
 
 _(Resultado típico: La IA sugiere visitar el Castillo de Osaka por la mañana, luego ir hasta el Acuario Kaiyukan (al otro lado de la bahía) y volver a Umeda en la misma tarde. Un caos logístico agotador, sin considerar el cansancio y sin detalles de cómo moverse)._
 

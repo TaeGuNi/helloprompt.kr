@@ -42,7 +42,7 @@ Utilizza questo prompt quando vuoi diagnosticare rapidamente il livello di risch
 > **I Miei Asset:** Azioni azionali 80%, Conti deposito 20%.
 > **Richiesta:** Analizza qual è il rischio maggiore del mio portafoglio. Cosa succederebbe in caso di crisi economica? Consigliami come e di quanto dovrei aumentare la percentuale di beni rifugio (asset sicuri).
 
-<br>
+\
 
 ### 🥇 Versione Pro (Diagnosi esperta per il ribilanciamento)
 

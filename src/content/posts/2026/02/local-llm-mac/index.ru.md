@@ -47,7 +47,7 @@ tags: ["로컬LLM", "보안", "Ollama", "개발자", "Llama3"]
 > ollama run llama3
 > ```
 
-<br>
+\
 
 ### 🥇 Продвинутая версия (Pro Version)
 

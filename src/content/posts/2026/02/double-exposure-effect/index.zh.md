@@ -42,7 +42,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Effect", "Surrealism"]
 > **角色:** 你是一位擅长图像生成的 AI 助手。
 > **请求:** 请生成一张将人物与森林结合的双重曝光（Double Exposure）照片，背景为纯白色。
 
-<br>
+\
 
 ### 🥇 Pro Version (专家版)
 
@@ -75,7 +75,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Effect", "Surrealism"]
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 双重曝光不仅仅是一种视觉特效，它更是一种极具隐喻性的叙事工具。在商业项目或创意设计中，我经常使用这种技法来表达“环保”、“科技与人类”、“心理健康”等抽象概念。
 
@@ -83,7 +83,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Effect", "Surrealism"]
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q: 为什么我生成的图像里，人物和背景只是并排站着，并没有重叠？**
   - A: 这是因为 AI 可能会错误理解你的空间指令。请务必在提示词中强调 `inside the silhouette`（在剪影内部），并且**不要**过度描述人物的五官、衣服等细节。描述得越详细，AI 越会优先还原人脸而不是单纯的剪影。

@@ -41,7 +41,7 @@ Nutzen Sie dies, um schnell eine konzeptionelle Idee für die Datenstruktur eine
 > **Rolle:** Du bist ein `[Senior Frontend Engineer]`.
 > **Anfrage:** Entwirf ein JSON-Schema für eine Generative UI-Komponente, die `[Nutzerabsicht, z.B. monatliche Ausgaben anzeigen]` basierend auf dem aktuellen Kontext visuell darstellt.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 
@@ -128,7 +128,7 @@ _(Das Frontend erkennt das Payload und rendert in Echtzeit ein interaktives, wun
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
 Die Rolle des Frontend-Engineers entwickelt sich massiv weiter. Wir sind nicht länger nur "Pixel-Schubser", die vorgegebene Figma-Designs in starren Code übersetzen. Wir werden zu Architekten von Design-Systemen und Logik-Einschränkungen, die es der künstlichen Intelligenz ermöglichen, sich visuell zu manifestieren.
 

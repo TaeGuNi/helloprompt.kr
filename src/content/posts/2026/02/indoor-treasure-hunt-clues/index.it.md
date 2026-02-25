@@ -43,7 +43,7 @@ Usala quando hai bisogno di risultati immediati e non hai tempo per i dettagli.
 > **Ruolo:** Sei un animatore per bambini creativo ed esperto di educazione infantile.
 > **Richiesta:** Crea 5 semplici indovinelli in rima per una caccia al tesoro in casa adatti a un bambino di 5 anni.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Expert)
 
@@ -101,7 +101,7 @@ _Il mio consiglio da pro:_ Se tuo figlio sta imparando a leggere, chiedi all'IA 
 
 ### ❌ Prima (Input generico)
 
-> Fammi degli indizi per una caccia al tesoro in casa per mio figlio.
+Fammi degli indizi per una caccia al tesoro in casa per mio figlio.
 
 _Risultato dell'IA:_
 "Indizio 1: Vai dove il cibo è freddo. (Risposta: Frigorifero)

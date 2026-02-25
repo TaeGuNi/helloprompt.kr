@@ -43,7 +43,7 @@ Usa questo prompt quando hai poco tempo e ti serve una routine rapida subito dop
 > **Ruolo:** Sei un fisioterapista sportivo specializzato in atleti di resistenza e maratoneti d'élite.
 > **Richiesta:** Ho appena finito di correre. Forniscimi una rapida routine di defaticamento per prevenire infortuni e svegliarmi fresco senza dolori muscolari domani.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 

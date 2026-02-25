@@ -42,7 +42,7 @@ Verwenden Sie dies, wenn Sie schnell ein akzeptables Ergebnis benötigen.
 > **Rolle:** Du bist ein erfahrener Senior-Entwickler.
 > **Anfrage:** Schlage mir passende englische Variablennamen für `[Beschreibung der Funktion/Variable]` vor.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenform)
 

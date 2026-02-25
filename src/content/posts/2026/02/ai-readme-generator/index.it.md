@@ -44,7 +44,7 @@ Utilizza questo prompt quando vuoi semplicemente delineare lo scheletro del tuo 
 > **Ruolo:** Sei un `[Technical Writer Senior]`.
 > **Task:** Basandoti sulla `[struttura dei file]` e sul `[tech stack principale]` del mio progetto, scrivi una bozza chiara e pulita di un README.md in formato Markdown.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

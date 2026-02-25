@@ -49,7 +49,7 @@ La negociación salarial es un **juego corporativo frío y calculador**. Si tu �
 >
 > **Solicitud:** Quiero simular una negociación de aumento de sueldo contigo. Evalúa mis argumentos y respóndeme como lo haría un gerente real que intenta cuidar el presupuesto de la empresa. Yo empezaré saludando.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Experto)
 

@@ -11,146 +11,134 @@ tags: ["Gemini 3 Pro", "AI Agent", "Planning", "Prompt Engineering"]
 
 # 🤖 Gemini 3 Pro: Diseñando el Agente de IA Perfecto con 'Deep Think'
 
-<!-- ⚠️ [Lint Rule] 이모지 리스트를 사용하세요. 표(Table) 사용 시 모바일에서 깨질 수 있습니다. -->
-
-- **🎯 Público objetivo:** PMs preparando la adopción de IA, ingenieros junior desarrollando agentes de IA, emprendedores (solopreneurs).
-- **⏱️ Tiempo ahorrado:** De 3 días de planificación → a solo 15 minutos.
+- **🎯 Público objetivo:** PMs que lideran la adopción de IA, ingenieros junior que desarrollan agentes, y emprendedores en solitario (solopreneurs).
+- **⏱️ Tiempo ahorrado:** De 3 días de planificación exhaustiva → a solo 15 minutos.
 - **🤖 Modelo recomendado:** **Gemini 3 Pro (Modo Deep Think)**, OpenAI o3-high.
 
 - ⭐ **Dificultad:** ⭐⭐⭐☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-<!-- ⚠️ [Lint Rule] 인용구(>)는 Basic/Pro 섹션 외에는 이탤릭체(_..._)와 함께 사용해야 에러가 나지 않습니다. -->
+> _"El fracaso de un Agente de IA rara vez se debe a la falta de inteligencia del modelo, sino a la avalancha de 'casos extremos' (Edge Cases) que se ignoraron durante la fase de planificación."_
 
-> _"La razón por la que los proyectos de agentes de IA fracasan no es la falta de inteligencia de la IA, sino la inmensa cantidad de 'casos extremos' (Edge Cases) que quedan sin resolver en tu planificación inicial."_
+"Crea un chatbot que busque en los documentos de la empresa" o "Hazme un agente que invierta automáticamente en bolsa basándose en noticias".
+Estas peticiones ambiguas, el pan de cada día en cualquier oficina, son la peor pesadilla de un desarrollador. ¿El motivo? En la fase de ideación casi nunca se define cómo manejar las excepciones, cómo estructurar los permisos de usuario o qué APIs exactas se van a consumir. 
 
-"Crea un chatbot que busque documentos de la empresa" o "Hazme un agente que invierta automáticamente en bolsa".
-Estas peticiones ambiguas, muy comunes en el entorno laboral, son la pesadilla de cualquier desarrollador. ¿Por qué? Porque en la fase de planificación no se ha definido cómo manejar las excepciones, cómo separar los permisos o qué APIs invocar.
-
-El modo **'Deep Think'** de Gemini 3 Pro brilla exactamente en este punto. Va más allá de la simple generación de texto: está especializado en el razonamiento lógico y la simulación de escenarios. En este artículo, presentaremos el **'Prompt de Arquitecto de IA'**, diseñado para transformar tus ideas más vagas en un **Documento de Requisitos de Producto (PRD) impecable**, que cualquier ingeniero podrá convertir en código inmediatamente.
+Aquí es exactamente donde brilla el modo **'Deep Think'** de Gemini 3 Pro. Este modelo no se limita a escupir texto; está diseñado para el razonamiento lógico profundo y la simulación exhaustiva de escenarios. En este artículo, desglosaremos el **'Prompt del Arquitecto de IA'**, una herramienta maestra diseñada para transformar tus ideas más difusas en un **Documento de Requisitos de Producto (PRD) impecable**, tan detallado que cualquier ingeniero podrá empezar a picar código de inmediato.
 
 ---
 
 ## ⚡️ Resumen en 3 líneas (TL;DR)
 
-1. **No programes a ciegas:** Empezar a programar sin definir la personalidad, las herramientas (Tools) y los casos extremos (Edge Cases) del agente es una receta para el desastre.
-2. **Usa el "Reverse Prompting" (Preguntas inversas):** No dejes que la IA te dé una respuesta definitiva de inmediato. Oblígala a hacerte preguntas agudas que expongan las lagunas de tu planificación.
-3. **El poder de razonamiento de Deep Think:** Gemini 3 Pro demuestra el mejor rendimiento actual a la hora de diseñar restricciones complejas y flujos de trabajo detallados.
+1. **El código ciego es un suicidio técnico:** Empezar a programar sin definir la personalidad, las herramientas (Tools) y los Edge Cases de tu agente es garantizar un proyecto fallido.
+2. **Domina el "Reverse Prompting" (Preguntas Inversas):** No dejes que la IA te dé una respuesta definitiva a la primera. Oblígala a hacerte preguntas críticas que expongan los agujeros lógicos de tu idea.
+3. **Aprovecha el razonamiento de Deep Think:** Para diseñar restricciones complejas y flujos de trabajo a prueba de balas, Gemini 3 Pro ofrece el mejor rendimiento del mercado actual.
 
 ---
 
-## 🚀 Solución: Prompt "The AI Agent Architect"
+## 🚀 Solución: Prompt "El Arquitecto de Agentes de IA"
 
-<!-- ⚠️ [Lint Rule] 인용구(>)는 이곳(Prompt 섹션)에서만 프롬프트 박스로 변환됩니다. -->
+### 🥉 Basic Version (Versión Básica)
 
-### 🥉 Versión Básica (Basic Version)
+Utiliza esta versión para aterrizar rápidamente la viabilidad de una idea durante una reunión de brainstorming.
 
-Ideal para esbozar rápidamente la estructura de una idea durante una reunión.
+> **Rol:** Eres un Product Manager Técnico (Technical PM) con 10 años de experiencia construyendo productos de IA.
+> **Instrucción:** Basándote en la `[idea]` que te presento, define 3 funcionalidades core indispensables para este agente de IA e identifica el mayor riesgo técnico previsible durante su desarrollo.
+> **Idea:** `[Inserta aquí la descripción general del agente]`
 
-> **Rol:** Eres un Product Manager de servicios IT con 10 años de experiencia.
-> **Instrucción:** Basándote en la `[idea]` que te presento, define 3 funciones esenciales que este agente de IA debe tener y 1 problema técnico anticipado durante el desarrollo.
-> **Idea:** `[Inserta aquí la descripción del agente que deseas crear]`
+\
 
-<br>
+### 🥇 Pro Version (Versión Profesional)
 
-### 🥇 Versión Profesional (Pro Version - Optimizada para Deep Think)
+Esta es la versión definitiva para generar una Especificación (Specification) lista para ser entregada a tu equipo de desarrollo. Su estructura en dos fases exprime al 200% la capacidad de razonamiento complejo de Gemini 3 Pro.
 
-Utiliza esta versión cuando necesites una especificación (Specification) perfecta, lista para ser entregada a tu equipo de desarrollo. Esta estructura aprovecha al 200% la capacidad de razonamiento multifase de Gemini 3 Pro.
-
-> **Role (Rol):**
-> Eres un **Senior AI Solutions Architect** con 20 años de experiencia en una empresa Big Tech de Silicon Valley.
-> Tu objetivo es analizar los requisitos abstractos y ambiguos del usuario para derivar una **AI Agent Specification (Especificación de Agente de IA) impecable**, detallada a un nivel que los ingenieros puedan implementar de inmediato.
+> **Rol (Role):**
+> Eres un **Senior AI Solutions Architect** con más de 15 años de experiencia liderando proyectos en empresas Big Tech de Silicon Valley.
+> Tu objetivo es analizar los requisitos abstractos del usuario y destilarlos en una **Especificación de Agente de IA (AI Agent Specification) absolutamente impecable**, con un nivel de detalle técnico que permita a los ingenieros comenzar la implementación de inmediato.
 >
-> **Task (Instrucción):**
-> Cuando el usuario introduzca la `[Idea del Proyecto]`, NUNCA escribas la especificación de inmediato. Debes seguir estrictamente el siguiente proceso de 2 pasos (Chain of Thought).
+> **Instrucción (Task):**
+> Cuando el usuario te proporcione la `[Idea del Proyecto]`, **NUNCA** redactes la especificación de inmediato. Debes seguir estrictamente este proceso de razonamiento en 2 pasos (Chain of Thought):
 >
-> **Step 1: Deep Analysis & Interrogation (Análisis Profundo y Preguntas Inversas)**
+> **Paso 1: Análisis Profundo e Interrogatorio (Deep Analysis & Reverse Prompting)**
+> - Analiza críticamente la idea en busca de lagunas lógicas, 'Edge Cases' omitidos, cuellos de botella en APIs y problemas de privacidad de datos.
+> - Formula **exactamente entre 3 y 5 preguntas técnicas y de negocio muy agudas** que el usuario deba responder para poder cerrar la planificación.
+> - *(Ejemplos de enfoque: "¿Cuál es la estrategia de Fallback si la API externa supera el límite de tiempo (timeout)?", "¿Cómo se gestionará el RBAC (Control de Acceso Basado en Roles) en la base de datos vectorial?", "¿Cuál es el presupuesto máximo por token tolerado por sesión?")*
+> - Detén tu generación aquí y espera pacientemente las respuestas del usuario.
 >
-> - Analiza de forma crítica las lagunas lógicas, los casos extremos (Edge Cases) omitidos y las restricciones de API/Datos de la idea proporcionada.
-> - Formula **entre 3 y 5 preguntas clave** al usuario que deban responderse obligatoriamente para poder completar la planificación.
-> - (Ejemplo: "¿Cuál es el escenario de Fallback si falla el pago?", "¿Cómo planeas gestionar la autenticación (Auth) de los usuarios?", "¿Existe un límite de presupuesto para las llamadas al LLM?")
-> - Espera pacientemente hasta que el usuario responda a estas preguntas.
+> **Paso 2: Generación de la Especificación (Specification Generation)**
+> - Una vez que el usuario responda a tus preguntas críticas, sintetiza toda la información y redacta un documento técnico en Markdown con la siguiente estructura estricta:
+>   1. **Agent Identity:** Nombre del sistema, rol principal, persona y tono de interacción.
+>   2. **Core Workflow:** Lógica paso a paso desde el input del usuario hasta el output final (descrito como un diagrama de secuencia en texto).
+>   3. **Tools & Integrations:** Lista exhaustiva de APIs externas requeridas y herramientas locales (Web Search, Code Interpreter, Base de Datos) con sus respectivos permisos necesarios.
+>   4. **Safety & Guardrails:** Acciones estrictamente prohibidas (Negative Prompts) y barreras de contención contra alucinaciones (Hallucination mitigation).
+>   5. **Edge Cases & Error Handling:** Los 3 escenarios de fallo más críticos y su flujo de resolución detallado.
+>   6. **Few-Shot Examples:** Ejemplos de diálogo (1 caso de éxito perfecto "Happy Path", 1 caso de gestión de un usuario hostil o error del sistema).
 >
-> **Step 2: Specification Generation (Generación de la Especificación)**
+> **Restricciones (Constraints):**
+> - Mantén un tono sumamente objetivo, analítico y profesional, propio de un Arquitecto de Software Senior.
+> - Descarta las ideas románticas de la IA; enfócate implacablemente en la viabilidad técnica, los costes de inferencia, la latencia y la escalabilidad.
 >
-> - Una vez que el usuario proporcione sus respuestas, sintetiza la información y redacta una especificación en formato Markdown siguiendo esta estructura:
->   1. **Agent Identity:** Nombre, rol, personalidad (persona) y tono de voz.
->   2. **Core Workflow:** Lógica paso a paso desde el input del usuario hasta el output final (explicación en texto a nivel de diagrama de secuencia).
->   3. **Tools & Integrations:** Lista de APIs externas, herramientas locales (búsqueda, cálculo, etc.) que el agente debe invocar, y los permisos necesarios.
->   4. **Safety & Guardrails:** Acciones estrictamente prohibidas (Do Not) y medidas de prevención contra alucinaciones (Hallucinations).
->   5. **Edge Cases & Error Handling:** 3 errores principales anticipados y sus respectivos escenarios de resolución.
->   6. **Few-Shot Examples:** Ejemplos de conversaciones ideales (1 caso de éxito, 1 caso de gestión de fallos).
->
-> **Constraints (Restricciones):**
->
-> - Mantén el tono objetivo y profesional propio de un Arquitecto de Software.
-> - Evita ideas vagas y enfócate rigurosamente en una perspectiva técnica y práctica (costes, latencia, escalabilidad).
->
-> **Input:**
->
-> - Idea del Proyecto: `[Bot de Slack que calcula y responde sobre días de vacaciones/salario basándose en el reglamento interno de RR.HH.]`
+> **Entrada de Datos:**
+> - Idea del Proyecto: `[Bot de Slack que responde dudas sobre vacaciones y nóminas consultando el manual interno de RR.HH. y el software de gestión]`
 
 ---
-
-<!-- ✅ [Lint Rule] 필수 섹션입니다. 누락 시 CI 에러가 발생합니다. -->
 
 ## 💡 Comentario del Autor (Insight)
 
-El verdadero valor de este prompt no reside solo en generar un documento excelente, sino en **atacar preventivamente los "puntos ciegos" de la planificación**.
+El verdadero superpoder de este prompt no es que te devuelva un documento bonito, sino que **ataca preventivamente los "puntos ciegos" de tu proyecto antes de escribir una sola línea de código**.
 
-Los prompts convencionales, ante la petición "créame esto", suelen escupir un plan que parece convincente pero que está vacío por dentro. Sin embargo, al aplicar este prompt en Gemini 3 Pro, la IA adopta la actitud de un desarrollador senior meticuloso y exigente. De hecho, cuando planeaba un bot de recursos humanos para mi empresa, Gemini me hizo la siguiente pregunta: _"Si un empleado pregunta por los días de vacaciones o información salarial de un **compañero en lugar de los suyos**, ¿cómo está diseñado el control de permisos de acceso?"_
+Si usas un prompt básico tipo "hazme un bot de RR.HH.", la IA te escupirá un plan genérico que suena bien en papel pero que es inútil en producción. Sin embargo, al aplicar la Versión Pro en Gemini 3 Pro, el modelo adopta la postura de un Tech Lead exigente. 
 
-Gracias a esto, pude tapar una brecha crítica que podría haber derivado en un incidente de seguridad antes de escribir una sola línea de código. La calidad de una planificación depende en última instancia de "cuán buenas son las preguntas que te haces", y este prompt delega esa tarea a la perfección.
+Hace poco, mientras planificaba un bot interno real para mi empresa, la IA me detuvo en el *Paso 1* con esta pregunta: _"Si el empleado 'A' le pide al bot que resuma el historial de evaluaciones de desempeño del empleado 'B', ¿cómo está diseñada la validación de permisos entre el bot de Slack y el ERP para evitar una fuga de datos confidenciales?"_
+
+Esa única pregunta me salvó de implementar una vulnerabilidad de seguridad masiva. La calidad del software que construyes depende directamente de "qué tan buenas son las preguntas que te haces al principio". Este prompt automatiza esa brillantez arquitectónica.
 
 ---
-
-<!-- ⚠️ [Lint Rule] 권장 섹션입니다. 누락 시 경고가 발생합니다. -->
 
 ## 🙋 Preguntas Frecuentes (FAQ)
 
-- **P: ¿Es estrictamente necesario usar Gemini Advanced (versión de pago)?**
-  - R: Sí. La función 'Deep Think', capaz de mantener y razonar lógicas complejas hasta el final, funciona correctamente en Gemini Advanced (o en los modelos Pro/Ultra a través de la API). Es muy probable que las versiones gratuitas (como Flash) ignoren el Step 1 (las preguntas inversas) y empiecen a inventarse una historia por su cuenta.
+- **Q: ¿Es obligatorio usar la versión de pago (Gemini Advanced / API Pro)?**
+  - A: Sí, altamente recomendado. La capacidad de mantener una "Cadena de Pensamiento" (Chain of Thought) rigurosa, pausar la ejecución en el Paso 1 y recordar el contexto complejo para el Paso 2 es algo donde los modelos avanzados (como Gemini 3 Pro o OpenAI o3) destacan. Los modelos más pequeños (como Flash o GPT-4o-mini) tienden a saltarse las instrucciones y darte la especificación inventada de inmediato.
 
-- **P: Si la especificación es muy larga, ¿no superará el límite de tokens?**
-  - R: Gemini 3 Pro presume de una ventana de contexto masiva de más de 2 millones de tokens. De hecho, si adjuntas toneladas de documentación de la API existente de tu empresa, código legacy o manuales internos (PDF) antes de ejecutar este prompt, obtendrás una especificación personalizada aún más sorprendente.
+- **Q: ¿Qué pasa si la especificación resultante es demasiado larga y corta el texto?**
+  - A: Gemini 3 Pro tiene una ventana de contexto masiva. Solo escribe "Continúa exactamente donde lo dejaste" y seguirá generando el documento con la misma calidad. De hecho, te recomiendo adjuntar la documentación de tu API (en PDF o TXT) junto al prompt para obtener un resultado hiper-personalizado.
 
-- **P: ¿Funciona en otros modelos (GPT-4o, Claude 3.5 Sonnet)?**
-  - R: Por supuesto. Sin embargo, en el ámbito del pensamiento crítico, donde se trata de indagar tenazmente en los 'Edge Cases', los modelos o1/o3 o el modo Deep Think de Gemini 3 Pro tienen una ventaja abrumadora.
-
----
-
-## 🧬 Anatomía del Prompt (¿Por qué funciona?)
-
-1.  **Imposición de Chain-of-Thought (Cadena de Pensamiento):** Al dividir la tarea en `Step 1 (Preguntas)` y `Step 2 (Redacción)`, evitamos que la IA llegue precipitadamente a una conclusión (la especificación). Esta es la técnica más potente para prevenir alucinaciones.
-2.  **Establecimiento de Restricciones (Constraints) Específicas:** Al inyectar palabras clave a las que los desarrolladores son muy sensibles, como 'costes', 'latencia' y 'escalabilidad', bajamos la visión de la IA a un nivel de ingeniería realista.
-3.  **Estructuración Clara (Format):** Al hacer obligatorios los apartados `Safety & Guardrails` y `Edge Cases`, bloqueamos de raíz cualquier planificación basada únicamente en el "camino feliz" (Happy Path Only).
+- **Q: ¿Este prompt funciona bien en Claude 3.5 Sonnet?**
+  - A: Sí, Claude 3.5 Sonnet es excelente redactando código y documentos. Sin embargo, para la fase de *cuestionamiento implacable* y detección de Edge Cases, el modo 'Deep Think' o los modelos de razonamiento (o1/o3) tienen una ventaja analítica notable.
 
 ---
 
-## 📊 Demostración: Antes y Después
+## 🧬 Anatomía del Prompt (Why it works?)
 
-### ❌ Antes (Instrucción simple)
+1. **Forzar la Cadena de Pensamiento (Chain-of-Thought):** Al dividir rígidamente la tarea en `Paso 1 (Preguntas)` y `Paso 2 (Redacción)`, evitamos que el LLM salte a conclusiones precipitadas. Esta pausa reflexiva es la mejor técnica conocida para minimizar alucinaciones en la planificación.
+2. **Inyección de Restricciones del Mundo Real (Constraints):** Al incluir términos que quitan el sueño a los ingenieros ('latencia', 'costes de inferencia', 'escalabilidad'), forzamos a la IA a abandonar la teoría y diseñar para el mundo real.
+3. **Estructura Anti-Happy Path (Format):** Hacer que las secciones `Safety & Guardrails` y `Edge Cases` sean obligatorias garantiza que el diseño contemple el fracaso como una parte natural del sistema.
 
-> **Usuario:** "Hazme la planificación de un agente bot de Slack que informe sobre las normas de RR.HH. de la empresa."
-> **IA:** "Claro, aquí tienes la planificación del bot de RR.HH. Funciones principales: consulta de vacaciones, consulta de nóminas. Efecto esperado: aumento de la eficiencia laboral..." (Contenido abstracto que cualquiera podría escribir).
+---
 
-### ✅ Después (Aplicando el Prompt Pro - Step 1: Preguntas Inversas)
+## 📊 Demostración: Before & After
 
-> **Gemini 3 Pro:** "Antes de comenzar a redactar la especificación, para evitar errores críticos, por favor confirme primero los siguientes 3 puntos:
+### ❌ Before (Prompt "Hazme")
+
+> **Usuario:** "Hazme la planificación de un bot de Slack para RR.HH."
+> **IA (Respuesta genérica):** "¡Claro! Aquí tienes tu bot. Características: Responderá preguntas de nóminas. Beneficios: Ahorrará tiempo. Interfaz: Slack. ¡Buena suerte con el desarrollo!" *(Un esquema vacío e inútil para un desarrollador)*.
+
+### ✅ After (Aplicando la Versión Pro - Fase de Preguntas)
+
+> **Gemini 3 Pro (Deep Think):** "Antes de proceder con la Especificación del Agente, y para mitigar riesgos críticos de arquitectura, necesito que definas los siguientes 3 puntos:
 >
-> 1. **Data Freshness (Actualización de Datos):** Cuando se revisa el reglamento de RR.HH., ¿los documentos que consulta el bot se sincronizan en tiempo real o mediante actualizaciones por lotes periódicas?
-> 2. **Authentication (Autenticación):** ¿A través de qué API se autentica el mapeo entre el ID de usuario de Slack y el número de empleado del sistema de RR.HH. interno?
-> 3. **Fallback:** Cuando se recibe una pregunta sobre una norma ambigua de la que el bot no está seguro, ¿debe responder 'no lo sé' o debe mencionar e invocar al responsable de recursos humanos (@HR_Team)?"
+> 1. **Data Freshness & Vectorización:** El manual de RR.HH. cambia anualmente. ¿El agente accederá a una base de datos vectorial (RAG) sincronizada en tiempo real, o utilizará embeddings pre-calculados con actualizaciones cronometradas?
+> 2. **Autenticación (Auth Mapping):** ¿Cómo mapearemos de forma segura el `user_id` de Slack con el `employee_id` del sistema interno de nóminas sin exponer tokens de acceso en el chat?
+> 3. **Protocolo de Escalamiento (Human-in-the-loop):** Si el agente tiene un nivel de confianza (confidence score) inferior al 80% al responder sobre un despido o una baja médica, ¿debe emitir un disclaimer genérico o abrir automáticamente un ticket en Jira para que un humano responda?"
 
-*(Una vez que el usuario responde a estas preguntas, se genera instantáneamente una especificación Markdown perfecta y lista para ser implementada en producción).*
+*(Tras responder a este interrogatorio, el usuario recibe un PRD técnico impecable, libre de puntos ciegos).*
 
 ---
 
 ## 🎯 Conclusión
 
-En la era de la IA, las barreras de la programación se están derrumbando. En el futuro, lo que determinará el valor de los ingenieros y los product managers no será "en qué lenguaje programas", sino **"qué tan impecablemente puedes definir lo que se va a construir (Defining What to Build)"**.
+En la nueva era del desarrollo con IA, la barrera técnica para escribir código está desapareciendo. El verdadero valor de un profesional ya no reside en "cuántos lenguajes de programación domina", sino en **"qué tan impecablemente puede definir lo que se debe construir (Defining What to Build)"**.
 
-Contrata hoy mismo a Gemini 3 Pro como tu planificador principal (Senior Architect) dedicado. Por el precio de una suscripción mensual, podrás prevenir defectos de planificación que podrían costar miles de horas y recursos.
+Contrata hoy mismo a Gemini 3 Pro como tu Arquitecto de Software dedicado. Por el coste de una suscripción mensual, detectarás fallos de diseño que de otro modo te costarían semanas de refactorización y dolores de cabeza.
 
-¡Ahora, entrégale una especificación perfecta a tus desarrolladores, gánate su respeto y sal del trabajo a tu hora! 🍷
+Define tus proyectos como un maestro, entrégale especificaciones blindadas a tus desarrolladores, y recupera tu tiempo libre. ¡A planificar se ha dicho! 🍷

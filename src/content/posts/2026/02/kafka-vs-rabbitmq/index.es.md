@@ -45,7 +45,7 @@ La línea de defensa esencial para evitar esta tragedia es la **Message Queue (C
 >
 > **Tarea (Task):** Explícame las diferencias fundamentales entre Kafka y RabbitMQ de forma que un desarrollador junior lo entienda sin problemas. Resume los puntos clave enfocándote especialmente en dos perspectivas: **'Persistencia de Mensajes (Persistence)'** y el **'Modelo de Consumo (Push vs Pull)'**.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

@@ -43,7 +43,7 @@ Ideal para quando você precisa apenas de uma ordem de execução rápida, sem c
 > **Tarefa:** Esta é a minha lista de tarefas de hoje. Organize-a em ordem de prioridade, da mais importante para a menos importante.
 > `[Cole aqui a sua lista de tarefas aleatoriamente]`
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

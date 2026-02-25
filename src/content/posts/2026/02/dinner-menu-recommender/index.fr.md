@@ -48,7 +48,7 @@ Utilisez cette version lorsque vous êtes pressé et avez juste besoin d'une id�
 > **Rôle :** Tu es un critique gastronomique et un expert pour résoudre l'indécision.
 > **Demande :** Choisis ce que je dois manger ce soir. J'ai très faim, il fait froid, et je veux éviter la restauration rapide.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 
@@ -106,7 +106,7 @@ La magie de ce prompt réside dans la section **Tâche n°3**. En forçant l'IA 
 
 ### ❌ Avant (Entrée classique)
 
-> Qu'est-ce qu'on mange pour le dîner ? On est deux, il pleut.
+Qu'est-ce qu'on mange pour le dîner ? On est deux, il pleut.
 
 ### ✅ Après (Résultat avec la Version Pro)
 

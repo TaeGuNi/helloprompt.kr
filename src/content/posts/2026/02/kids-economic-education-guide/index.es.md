@@ -42,7 +42,7 @@ En lugar de responder con un simple y frustrante "No tenemos dinero", este promp
 > **Rol:** Eres un experto en educación financiera infantil.
 > **Solicitud:** Escribe un guion sencillo para explicarle a mi hijo el valor del dinero y el significado del trabajo.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

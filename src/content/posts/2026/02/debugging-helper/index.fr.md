@@ -13,7 +13,7 @@ tags: ["Débogage", "CorrectionErreur", "Développeur", "Productivité"]
 
 - **🎯 Recommandé pour :** Développeurs juniors, Intégrateurs, Ingénieurs QA
 - **⏱️ Temps requis :** 30 minutes → 1 minute
-- **🤖 Modèle recommandé :** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (Excellents en analyse de code)
+- **🤖 Modèle recommandé :** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (Excellents en analyse de code)
 
 - ⭐ **Difficulté :** ⭐⭐☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ On dit souvent que 80 % du temps d'un développeur est consacré au débogage. E
 > **Rôle :** Tu es un ingénieur logiciel Senior expert en débogage.
 > **Requête :** Analyse ce message d'erreur `[Insérez l'erreur]` et ce code `[Insérez le code]`, puis donne-moi directement le code corrigé.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 

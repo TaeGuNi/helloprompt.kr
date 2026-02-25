@@ -50,7 +50,7 @@ Use this for quick, ad-hoc entity extraction without a strict schema.
 >
 > **Format:** Output as a simple list: "Concept A -> [Relates to / Causes / Influences] -> Concept B".
 
-<br>
+\
 
 ### 🥇 Pro Version
 

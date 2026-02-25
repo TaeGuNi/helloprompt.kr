@@ -48,7 +48,7 @@ Ideale per ottenere rapidamente una panoramica generale.
 > **Ruolo:** Sei un career coach esperto con 20 anni di esperienza.
 > **Richiesta:** Trasforma il mio futuro incerto in un piano concreto. Progetta obiettivi a 1, 3 e 5 anni e indicami le competenze necessarie per raggiungerli.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

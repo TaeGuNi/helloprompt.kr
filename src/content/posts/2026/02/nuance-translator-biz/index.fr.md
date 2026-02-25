@@ -43,7 +43,7 @@ Idéal pour formuler une demande rapide sans froisser votre interlocuteur.
 > **Contexte :** Ma phrase initiale est `[Give me the report by tomorrow.]` (Trop direct).
 > **Requête :** Transforme cette phrase en une expression **polie et professionnelle** adaptée pour un supérieur hiérarchique ou un client. Propose-moi 3 variantes.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pour les situations délicates)
 

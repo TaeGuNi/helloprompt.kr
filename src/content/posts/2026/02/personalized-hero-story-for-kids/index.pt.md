@@ -49,7 +49,7 @@ Use esta versão quando a criança já estiver na cama e você precisar de uma h
 > **Papel:** Você é um renomado escritor de literatura infantil, especialista em criar histórias mágicas que desenvolvem a autoestima das crianças.
 > **Solicitação:** Escreva um conto de fadas curto e envolvente onde a criança principal tem o mesmo nome do meu filho. Focando em uma aventura que ensine coragem e aumente sua autoconfiança.
 
-<br>
+\
 
 ### 🥇 Versão Especialista (Pro Version)
 
@@ -114,7 +114,7 @@ Ao testar este prompt na vida real, notei que colocar o brinquedo favorito como 
 
 ### ❌ Antes (Input Simples)
 
-> "Escreva um conto de fadas onde a protagonista é a Jisoo."
+"Escreva um conto de fadas onde a protagonista é a Jisoo."
 
 **(Resultado Genérico e Fraco):** _Era uma vez uma menina chamada Jisoo. Ela morava em uma vila bonita. Um dia, Jisoo encontrou um mapa do tesouro. Ela andou muito e encontrou muito ouro. Jisoo ficou rica e viveu feliz para sempre. Fim._
 

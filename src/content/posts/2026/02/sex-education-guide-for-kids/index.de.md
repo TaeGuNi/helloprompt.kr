@@ -42,7 +42,7 @@ Ideal für schnelle, unkomplizierte Antworten auf spontane Fragen.
 > **Rolle:** Du bist ein einfühlsamer Experte für kindliche Sexualpädagogik.
 > **Anfrage:** Erkläre einem `[Alter des Kindes]`-jährigen Kind auf natürliche, nicht beschämende Weise, woher Babys kommen. Antworte in direkter wörtlicher Rede.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 

@@ -42,7 +42,7 @@ Las maletas pesadas son el peor enemigo de un viaje libre y sin estrés. Moverse
 > **Rol:** Eres un experto en viajes minimalistas.
 > **Solicitud:** Voy a viajar a `[Destino]` durante `[Número]` días. El clima será `[Clima/Temperatura]`. Crea una lista de empaque para llevar estrictamente solo equipaje de mano.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -104,27 +104,27 @@ Si tienes dudas con el resultado, pídele a la IA un paso extra: _"Crea combinac
 
 ### ❌ Before (Entrada)
 
-> Dame una lista de equipaje para viajar a Europa por 2 semanas.
+Dame una lista de equipaje para viajar a Europa por 2 semanas.
 
 _(Resultado: Una lista interminable e inespecífica que incluye 14 mudas completas de ropa, un botiquín completo de primeros auxilios y artículos voluminosos que te obligarían a facturar una maleta de 20 kg)._
 
 ### ✅ After (Resultado)
 
 > **✈️ Ropa para el vuelo:** Chaqueta impermeable, zapatillas de caminar, pantalones cómodos, camiseta de algodón.
->
+
 > **🧳 Lista de Empaque (Equipaje de Mano):**
->
-> - [ ] 3 camisetas de secado rápido
-> - [ ] 1 pantalón desmontable o ligero
-> - [ ] 4 pares de calcetines y ropa interior de lana merino (lavables en el lavabo)
-> - [ ] 1 jabón sólido multiusos (cuerpo, cabello y ropa)
-> - [ ] 1 adaptador universal de corriente
->
+
+- [ ] 3 camisetas de secado rápido
+- [ ] 1 pantalón desmontable o ligero
+- [ ] 4 pares de calcetines y ropa interior de lana merino (lavables en el lavabo)
+- [ ] 1 jabón sólido multiusos (cuerpo, cabello y ropa)
+- [ ] 1 adaptador universal de corriente
+
 > **🗑️ Eliminar audazmente:**
->
-> 1. **Secador de pelo:** Ocupa demasiado espacio y tu alojamiento seguramente tendrá uno.
-> 2. **Botas/Zapatos extra:** Con el calzado versátil que llevas puesto en el vuelo es suficiente.
-> 3. **Laptop:** Si es un viaje de placer, con las aplicaciones de tu smartphone basta y sobra.
+
+1. **Secador de pelo:** Ocupa demasiado espacio y tu alojamiento seguramente tendrá uno.
+2. **Botas/Zapatos extra:** Con el calzado versátil que llevas puesto en el vuelo es suficiente.
+3. **Laptop:** Si es un viaje de placer, con las aplicaciones de tu smartphone basta y sobra.
 
 ---
 

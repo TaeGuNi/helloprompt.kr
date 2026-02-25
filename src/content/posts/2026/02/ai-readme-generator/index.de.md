@@ -44,7 +44,7 @@ Nutzen Sie diesen Prompt, wenn Sie schnell ein Grundgerüst für Ihr Projekt ben
 > **Rolle:** Du bist ein `[Senior Technical Writer]`.
 > **Aufgabe:** Erstelle basierend auf der `[Dateistruktur]` und dem `[Haupt-Tech-Stack]` meines Projekts einen sauberen README.md-Entwurf im Markdown-Format.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten)
 

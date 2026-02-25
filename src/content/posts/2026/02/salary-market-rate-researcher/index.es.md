@@ -48,7 +48,7 @@ Ideal para obtener una estimación rápida y directa sin complicaciones.
 > **Rol:** Eres un experto analista de compensación y beneficios.
 > **Solicitud:** Analiza el rango salarial promedio para mi puesto y años de experiencia basándote en datos reales del mercado laboral, para proporcionarme argumentos objetivos de negociación.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

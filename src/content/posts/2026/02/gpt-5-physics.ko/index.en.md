@@ -40,7 +40,7 @@ Use this when you need to quickly grasp the core results.
 > **Role:** You are a `[Science Journalist]`.
 > **Task:** Summarize the core discoveries of the following `[Paper text or link]` and its impact on the world into 3 key points, explained so easily that a middle schooler could understand it.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

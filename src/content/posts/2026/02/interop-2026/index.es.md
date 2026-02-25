@@ -40,7 +40,7 @@ image: "./cover.png"
 > **Rol:** Eres un Ingeniero Frontend experto en estándares web.
 > **Tarea:** Explícame brevemente cómo el proyecto Interop 2026 afecta mi desarrollo y dame un ejemplo práctico de cómo usar `[Tecnología, ej: CSS State Queries]`.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

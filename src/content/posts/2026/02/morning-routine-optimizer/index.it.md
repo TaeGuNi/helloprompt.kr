@@ -42,7 +42,7 @@ Usa questa versione per ottenere un'organizzazione rapida e senza fronzoli.
 > **Ruolo:** Sei un esperto di produttività e benessere.
 > **Richiesta:** Crea una routine mattutina di 1 ora per me. Il mio obiettivo principale è `[obiettivo, es. leggere 10 pagine e fare stretching]` e mi sveglio alle `[orario]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

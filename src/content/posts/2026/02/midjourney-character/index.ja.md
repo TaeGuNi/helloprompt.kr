@@ -44,7 +44,7 @@ AIアートを実務で活用する際、最大の難問となるのが「キャ
 > **Midjourney Prompt:**
 > character sheet of a `[キャラクターの詳細な描写]`, full body, white background, multiple views, front side and back view --v 6.0 --ar 3:2
 
-<br>
+\
 
 ### 🥇 Pro Version（専門家型）
 

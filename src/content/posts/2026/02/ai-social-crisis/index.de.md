@@ -10,7 +10,7 @@ tags: ["AI", "Trend", "2026"]
 
 - **🎯 Empfohlen für:** Produktmanager, Marketingleiter, UX-Designer
 - **⏱️ Zeitaufwand:** 60 Minuten → 5 Minuten
-- **🤖 Empfohlenes Modell:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 Empfohlenes Modell:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **Schwierigkeitsgrad:** ⭐⭐⭐☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -39,7 +39,7 @@ Nutzen Sie diese kurze Version für eine schnelle Überprüfung einzelner Texte.
 > **Rolle:** Du bist ein Experte für menschliche Kommunikation und UX-Psychologie.
 > **Aufgabe:** Analysiere den folgenden `[Text/Kunden-E-Mail]`. Zeige mir auf, wo er zu sehr nach "seelenloser KI" klingt, und formuliere ihn so um, dass er echte menschliche Empathie ausstrahlt, ohne unprofessionell zu wirken.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

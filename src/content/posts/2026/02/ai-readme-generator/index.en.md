@@ -44,7 +44,7 @@ Use this when you just need a quick skeleton of your project.
 > **Role:** You are a `[Senior Technical Writer]`.
 > **Task:** Based on my project's `[file structure]` and `[core tech stack]`, write a clean, well-structured `README.md` draft in Markdown format.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

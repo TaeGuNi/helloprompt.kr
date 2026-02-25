@@ -42,7 +42,7 @@ Utilisez cette version pour obtenir un résultat rapide et percutant.
 > **Rôle :** Tu es un directeur de la photographie expert en éclairage 3D.
 > **Requête :** Génère une image intégrant des faisceaux lumineux dramatiques et mystérieux (God rays) filtrant à travers la poussière en suspension dans l'air.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

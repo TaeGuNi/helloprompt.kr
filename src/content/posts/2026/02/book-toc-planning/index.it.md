@@ -42,7 +42,7 @@ Ideale per superare la sindrome da pagina bianca e ottenere una bozza rapida.
 > **Ruolo:** Sei il `[Caporedattore di una prestigiosa casa editrice]`.
 > **Richiesta:** Crea un piano editoriale e un indice dettagliato per un libro sul tema `[Il tuo argomento]`, strutturandolo in modo da massimizzare le vendite.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 
@@ -107,7 +107,7 @@ Questo prompt è un vero e proprio "game-changer" perché inverte il processo cr
 
 ### ❌ Prima (Input Semplice)
 
-> Sto scrivendo un libro sulla finanza personale per impiegati. Fammi un indice. Ho risparmiato 100.000 euro con i risparmi e un secondo lavoro, senza investire in borsa o nel mattone.
+Sto scrivendo un libro sulla finanza personale per impiegati. Fammi un indice. Ho risparmiato 100.000 euro con i risparmi e un secondo lavoro, senza investire in borsa o nel mattone.
 
 _Risultato:_ Un elenco noioso (Capitolo 1: L'importanza del risparmio. Capitolo 2: Come trovare un secondo lavoro...).
 

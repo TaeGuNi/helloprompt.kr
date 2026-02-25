@@ -45,7 +45,7 @@ Ideale quando hai bisogno di risultati rapidi e vuoi testare immediatamente il m
 > **Ruolo:** Agisci come un `[Senior Backend Engineer]`.
 > **Task:** Scrivi una `[funzione in Python per unire due liste ordinate]`. Dopo aver scritto il codice, analizzalo per individuare potenziali bug o inefficienze in autonomia. Sulla base di questa critica, fornisci il codice finale corretto e ottimizzato.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Pro Version)
 

@@ -43,7 +43,7 @@ Tailwind CSS는 개발 속도를 비약적으로 끌어올려 주지만, 수백 
 > **요청:** 다음 CSS 코드를 가장 적절한 Tailwind CSS 유틸리티 클래스로 변환해줘.
 > **CSS:** `display: flex; justify-content: center; align-items: center; height: 100vh;`
 
-<br>
+\
 
 ### 🥇 Pro Version (컴포넌트 생성)
 

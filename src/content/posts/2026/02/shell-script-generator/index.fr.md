@@ -43,7 +43,7 @@ Idéal pour exécuter une commande ponctuelle sans avoir besoin d'un script comp
 > **Rôle :** Tu es un ingénieur DevOps senior expert en systèmes Linux.
 > **Requête :** Donne-moi la commande exacte pour `[ex: trouver et supprimer tous les fichiers .tmp de plus de 7 jours dans /var/log]`. Explique-moi brièvement chaque argument.
 
-<br>
+\
 
 ### 🥇 Version Pro (Automatisation Sécurisée)
 
@@ -107,7 +107,7 @@ En forçant l'IA à adopter la posture d'un "ingénieur DevOps senior", le code 
 
 ### ❌ Avant (Requête simple et non sécurisée)
 
-> "Déplace tous les fichiers JPG du dossier courant vers le dossier images, change le nom du fichier en date_nomoriginal.jpg."
+"Déplace tous les fichiers JPG du dossier courant vers le dossier images, change le nom du fichier en date_nomoriginal.jpg."
 
 _(Ce qui se passe souvent : Si le dossier "images" n'existe pas, la commande écrase tous vos fichiers en un seul fichier appelé "images". Catastrophe garantie !)_
 

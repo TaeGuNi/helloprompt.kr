@@ -42,10 +42,10 @@ Ya no necesitas publicar fotos en foros o en grupos de internet esperando respue
 Úsalo cuando necesites descubrir la causa de los síntomas con urgencia.
 
 > **(Sube la foto de la parte enferma de la planta)**
->
+
 > **Petición:** Las puntas de las hojas de la Monstera en la foto se están quemando y volviendo marrones. ¿Le falta agua o me he pasado? Dime brevemente la causa y qué debo hacer por si está enferma.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Solución experta de reanimación)
 
@@ -100,12 +100,12 @@ Al usar este prompt, la IA no se limitará a decir "reduce el riego". Te proporc
 
 ### ❌ Antes (Dependiendo de suposiciones)
 
-> "Mmm... ¿las hojas están marchitas? Seguro que tiene sed y le falta agua." (Le echas un litro más de agua ➡️ Las raíces, que ya se estaban pudriendo, colapsan por completo ➡️ Muerte irreversible de la planta ⚰️)
+"Mmm... ¿las hojas están marchitas? Seguro que tiene sed y le falta agua." (Le echas un litro más de agua ➡️ Las raíces, que ya se estaban pudriendo, colapsan por completo ➡️ Muerte irreversible de la planta ⚰️)
 
 ### ✅ Después (Diagnóstico objetivo de la IA)
 
 > **IA:** "¡Considerando los síntomas actuales y la frecuencia de riego, se trata de un **exceso de riego severo**! Detén el riego de inmediato y traslada la maceta a un lugar fresco, en semisombra y bien ventilado. Debes esperar al menos una semana hasta que la tierra esté completamente seca."
-> (Resultado: A los 3 días de seguir las medidas indicadas por la IA, el tallo detuvo su pudrición y comenzaron a brotar nuevos brotes firmes 🌱).
+(Resultado: A los 3 días de seguir las medidas indicadas por la IA, el tallo detuvo su pudrición y comenzaron a brotar nuevos brotes firmes 🌱).
 
 ---
 

@@ -42,7 +42,7 @@ Verwenden Sie diesen Prompt, wenn Sie sofort eine kurze Geschichte für den Wart
 > **Rolle:** Du bist ein einfühlsamer Kinderpsychologe und Geschichtenerzähler.
 > **Aufgabe:** Schreibe eine kurze, mutmachende Geschichte für ein Kind, das Angst vor dem bevorstehenden Zahnarztbesuch hat. Mach den Zahnarzt zu einem Helden, der lustige "Zahnteufelchen" jagt.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 
@@ -102,7 +102,7 @@ _Tipp aus der Praxis:_ Fügen Sie im Prompt unter **Aufgabe** die Lieblingstiere
 
 ### ❌ Vorher (Eingabe)
 
-> "Erzähl meinem Kind eine Geschichte, damit es morgen keine Angst vor dem Zahnarzt hat."
+"Erzähl meinem Kind eine Geschichte, damit es morgen keine Angst vor dem Zahnarzt hat."
 
 _(Das Ergebnis ist oft trocken, belehrend und ignoriert die spezifischen Angst-Trigger wie Maschinenlärm oder Spritzen.)_
 

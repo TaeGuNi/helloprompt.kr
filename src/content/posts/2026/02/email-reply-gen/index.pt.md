@@ -42,7 +42,7 @@ Use esta versão para respostas rápidas no dia a dia, quando você precisa de v
 > **Papel:** Você é um `[Assistente Executivo / Especialista em Comunicação Corporativa]`.
 > **Tarefa:** Escreva um e-mail para `[Destinatário, ex: meu chefe / o cliente]`. O objetivo do e-mail é `[ex: remarcar a reunião de amanhã para a próxima terça-feira às 14h]`. Mantenha um tom profissional, direto e educado.
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 

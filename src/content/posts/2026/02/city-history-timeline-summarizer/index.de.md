@@ -48,7 +48,7 @@ Nutzen Sie diese Variante, wenn Sie einfach nur einen schnellen Überblick brauc
 > **Rolle:** Du bist ein professioneller Designer für historische Infografiken.
 > **Aufgabe:** Fasse die komplexe Geschichte von `[Stadtname]` übersichtlich zusammen. Erstelle eine Kernchronologie, die die wichtigsten historischen Ereignisse mit der Gegenwart und heutigen Sehenswürdigkeiten verbindet.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenform)
 
@@ -104,7 +104,7 @@ Dieser Prompt ist ein echter Gamechanger für alle, die gerne "geisteswissenscha
 
 ### ❌ Before (Eingabe)
 
-> Erzähl mir die Geschichte von Berlin.
+Erzähl mir die Geschichte von Berlin.
 
 _(Ergebnis: Ein langer, chronologischer Wikipedia-ähnlicher Text ohne Fokus auf die touristische Relevanz, der schwer zu lesen und noch schwerer zu behalten ist.)_
 

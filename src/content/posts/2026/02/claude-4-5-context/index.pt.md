@@ -37,7 +37,7 @@ Ideal para captar rapidamente os pontos-chave de um documento grande. (Utilize a
 > **Papel:** Você é um Analista de Dados Sênior.
 > **Tarefa:** Leia todos os documentos anexados e resuma os 5 insights mais críticos e importantes.
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 

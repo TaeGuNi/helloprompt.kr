@@ -10,7 +10,7 @@ tags: ["AI", "Trend", "2026"]
 
 - **🎯 Zielgruppe:** Tech-Analysten, Produktmanager, Entwickler, IT-Entscheider
 - **⏱️ Zeitaufwand:** 30 Minuten → auf 2 Minuten reduziert
-- **🤖 Empfohlenes Modell:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 Empfohlenes Modell:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **Schwierigkeitsgrad:** ⭐⭐☆☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -39,7 +39,7 @@ Für eine schnelle erste Einschätzung von Marketing-Texten und Pressemitteilung
 > **Rolle:** Du bist ein erfahrener Tech-Analyst und scharfsinniger Kritiker.
 > **Aufgabe:** Analysiere den folgenden `[KI-Marketingtext]` und identifiziere übertriebene Versprechen, unbewiesene Behauptungen und reine Buzzwords. Erkläre mir, was davon realistisch ist und was vermutlich nur dem Zweck dient, den Verkauf von Rechenleistung (GPUs) anzukurbeln.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

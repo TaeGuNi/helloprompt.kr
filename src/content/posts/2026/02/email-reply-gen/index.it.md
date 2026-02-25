@@ -42,7 +42,7 @@ Usa questa versione quando hai bisogno di una bozza veloce senza troppi fronzoli
 > **Ruolo:** Sei un `[assistente esecutivo senior]`.
 > **Richiesta:** Scrivi un'email di lavoro educata basata su questi punti: `[inserisci i tuoi punti chiave, es. "Non posso partecipare alla riunione di domani, spostiamo a giovedì?"]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

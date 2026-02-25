@@ -45,7 +45,7 @@ REST API의 고질적인 문제, 바로 **오버페칭(Over-fetching)**과 **언
 >
 > **데이터:** `[여기에 기존 REST API JSON 응답 복사/붙여넣기]`
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형: N+1 문제 및 페이지네이션 완벽 설계)
 

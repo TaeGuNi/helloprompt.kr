@@ -40,15 +40,15 @@ Avec l'évolution de la technologie des agents IA, l'ère de la collaboration en
 Idéal pour structurer rapidement un pipeline simple de collecte et de résumé d'informations. Vous pouvez générer le code et le tester en un clin d'œil.
 
 > **Rôle :** Tu es un expert en création de scripts CrewAI basés sur Python.
->
-> **Tâche :** Rédige un code Python de base utilisant CrewAI avec une équipe de deux agents.
->
-> 1. **Chercheur (Researcher) :** Son rôle est de rechercher les "dernières tendances de l'IA en 2026" sur le web et d'en résumer les points clés.
-> 2. **Rédacteur (Writer) :** Son rôle est de rédiger un article de blog attrayant et facile à lire, basé sur le résumé du chercheur.
->
-> Utilise un processus `Sequential` pour que les deux agents travaillent l'un après l'autre et finalise le code.
 
-<br>
+> **Tâche :** Rédige un code Python de base utilisant CrewAI avec une équipe de deux agents.
+
+1. **Chercheur (Researcher) :** Son rôle est de rechercher les "dernières tendances de l'IA en 2026" sur le web et d'en résumer les points clés.
+2. **Rédacteur (Writer) :** Son rôle est de rédiger un article de blog attrayant et facile à lire, basé sur le résumé du chercheur.
+
+Utilise un processus `Sequential` pour que les deux agents travaillent l'un après l'autre et finalise le code.
+
+\
 
 ### 🥇 Version Pro (Rapport d'analyse boursière)
 

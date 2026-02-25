@@ -43,7 +43,7 @@ Use this when you need a quick, high-level chronological summary.
 >
 > **Request:** I need to understand `[Historical Event or Era]`. Organize its major events in chronological order and explain their causal relationships in a simple timeline.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

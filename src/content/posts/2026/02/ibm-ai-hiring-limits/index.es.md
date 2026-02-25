@@ -43,7 +43,7 @@ Ideal para generar ideas rápidas sobre cómo actualizar un puesto de trabajo ob
 > **Rol:** Eres un experto en Recursos Humanos especializado en transformación digital.
 > **Tarea:** Rediseña el puesto de `[Nombre del puesto, ej. Analista Junior]` para que deje de ser un rol de tareas mecánicas y pase a ser un rol de supervisión y optimización utilizando herramientas de IA. Dame 3 responsabilidades clave.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Profesional)
 

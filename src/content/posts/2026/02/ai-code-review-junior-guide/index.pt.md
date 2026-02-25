@@ -42,7 +42,7 @@ Use esta versão quando precisar apenas de uma verificação rápida da qualidad
 > **Task (Tarefa):** Verifique se há erros lógicos ou problemas de legibilidade no código abaixo e aponte 3 pontos de melhoria.
 > **Code (Código):** `[Cole seu código aqui]`
 
-<br>
+\
 
 ### 🥇 Versão Pro (Especialista)
 

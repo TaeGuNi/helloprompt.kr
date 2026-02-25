@@ -42,7 +42,7 @@ Ideal para quando você precisa de uma visão geral em poucos segundos.
 > **Papel:** Você é um analista financeiro sênior de Wall Street.
 > **Solicitação:** Analise a demonstração financeira a seguir e resuma os 3 principais pontos positivos e os 3 principais riscos para um investidor iniciante.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 
@@ -74,7 +74,7 @@ Utilize este prompt para obter uma análise profunda e detalhada, ideal para emb
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 A verdadeira mágica deste prompt não está em simplesmente pedir para a IA "ler o balanço", mas em **direcionar o foco para as métricas que os investidores institucionais realmente olham** (ROE, Margem Operacional e Liquidez).
 
@@ -82,7 +82,7 @@ Na prática, eu costumo baixar o relatório de resultados (Earnings Release) em 
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q: Preciso assinar o ChatGPT Plus para usar este prompt?**
   - A: Não necessariamente. Modelos gratuitos como o GPT-4o mini ou o Claude 3 Haiku conseguem fazer um bom trabalho. No entanto, para analisar relatórios anuais em PDFs longos ou grandes volumes de dados numéricos sem erros, versões premium (GPT-4o ou Claude 3.5 Sonnet) entregam resultados muito mais precisos e consistentes.
@@ -95,7 +95,7 @@ Na prática, eu costumo baixar o relatório de resultados (Earnings Release) em 
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🧬 Why it works?
 
 1. **Role e Especialização:** Ao definir o papel como "Analista de Ações Sênior com 20 anos de Wall Street", a IA calibra seu vocabulário e rigor analítico, evitando respostas rasas e generalistas.
 2. **Task Estruturada:** Ao invés de pedir uma "análise geral", exigimos a busca por indicadores específicos (ROE, Liquidez, Endividamento), forçando a IA a focar no que matematicamente define o sucesso do negócio.
@@ -103,11 +103,11 @@ Na prática, eu costumo baixar o relatório de resultados (Earnings Release) em 
 
 ---
 
-## 📊 증명: Before & After
+## 📊 Before & After
 
 ### ❌ Before (Entrada)
 
-> "Veja as demonstrações financeiras da Apple dos últimos anos e me diga se é uma boa empresa."
+"Veja as demonstrações financeiras da Apple dos últimos anos e me diga se é uma boa empresa."
 
 _(Resultado comum: Um texto longo, genérico e focado apenas no lançamento de novos iPhones e Macs, ignorando as métricas cruciais de dívida e margem de lucro.)_
 
@@ -133,7 +133,7 @@ _(Resultado comum: Um texto longo, genérico e focado apenas no lançamento de n
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
 Não permita que relatórios complexos de 100 páginas afastem você das melhores oportunidades da bolsa de valores. Com a engenharia de prompt correta, você transforma o caos numérico em sinais de investimento cristalinos e acionáveis.
 

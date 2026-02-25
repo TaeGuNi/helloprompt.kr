@@ -48,7 +48,7 @@ Ideal para quando você precisa de dicas rápidas e eficientes antes de fechar a
 > **Papel:** Você é um especialista em esportes de inverno e mestre em organização de bagagens.
 > **Pedido:** Minha jaqueta acolchoada ocupa metade da mala. Crie um guia rápido sobre como otimizar o espaço para uma viagem de frio extremo.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

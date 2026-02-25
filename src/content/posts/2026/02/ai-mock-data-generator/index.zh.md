@@ -42,7 +42,7 @@ tags: [Frontend, Testing, JSON, Mocking, AI]
 > **角色：** 你是一位`[资深前端开发者]`。
 > **请求：** 请为前端UI测试生成5条`[用户个人资料]`的测试数据（JSON格式）。需要包含的字段有：id, name, email。
 
-<br>
+\
 
 ### 🥇 Pro Version (专业版)
 

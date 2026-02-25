@@ -40,10 +40,10 @@ Durante la última década, Docker ha sido el estándar absoluto en el ecosistem
 Utiliza esta versión cuando quieras comprobar sobre la marcha cómo adaptar tus comandos o scripts habituales de `docker` al entorno de `podman`. (Detecta esas sutiles diferencias que un simple `alias docker=podman` no puede resolver).
 
 > **Rol:** Eres un Arquitecto Certificado de Red Hat y un experto en seguridad de contenedores.
->
+
 > **Tarea:** Convierte el comando o script de Docker que suelo utilizar `[Tu comando docker run o script actual]` para que funcione perfectamente en el modo Rootless de Podman. En particular, indícame los posibles errores que podrían surgir con los puentes de red (network bridges) y los permisos de montaje de volúmenes (incluyendo SELinux), y proporcióname las soluciones adecuadas.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Transición perfecta de docker-compose a K8s)
 

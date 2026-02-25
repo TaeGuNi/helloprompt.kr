@@ -45,7 +45,7 @@ tags: ["Scrum", "Agile", "Standup", "Communication"]
 > **メモ:**
 > `[ここに昨日の記憶や今日の予定を思いつくままに入力]`
 
-<br>
+\
 
 ### 🥇 Pro Version (専門家型)
 

@@ -42,7 +42,7 @@ Ideal para testes rápidos e ideias iniciais.
 > **Papel:** Você é um especialista em arte digital e design 3D.
 > **Solicitação:** Crie um prompt para geração de imagem focado no estilo Low Poly, utilizando formas geométricas simplificadas e iluminação suave, como se fosse um origami digital.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert Version)
 
@@ -111,7 +111,7 @@ A beleza dos estilos Low Poly e Voxel reside na sua capacidade de transmitir inf
 
 ### ❌ Antes (Entrada Simples)
 
-> Raposa na neve 3D.
+Raposa na neve 3D.
 
 _(Resultado: Uma raposa 3D padrão, com pelos realistas e excessivamente detalhados, parecendo uma animação convencional da Disney. Foge completamente da estética minimalista desejada.)_
 

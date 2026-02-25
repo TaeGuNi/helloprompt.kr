@@ -37,7 +37,7 @@ Use quando precisar verificar rapidamente as etapas lógicas de um problema.
 > **Papel:** Você é um analista de elite especializado em `[Sua Área]`.
 > **Tarefa:** Para resolver `[Descreva o Problema Complexo]`, não tire conclusões precipitadas. Liste detalhadamente todo o seu processo de pensamento, etapa por etapa.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert Version)
 

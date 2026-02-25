@@ -47,7 +47,7 @@ Use this for quickly transforming sounds in specific sections or sketching out i
 > **Role:** You are an expert sound designer specializing in `[Genre]`.
 > **Task:** In the uploaded track, remove the `[Specific Instrument/Sound]` from the `[Start Time]` to `[End Time]` section and fill it with `[New Sound]`.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

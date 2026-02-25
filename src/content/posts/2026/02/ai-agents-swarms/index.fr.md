@@ -37,7 +37,7 @@ Utilisez cette version pour obtenir rapidement des avis divergents sur une idée
 > **Rôle :** Tu es un panel de 3 experts : un optimiste, un pessimiste et un pragmatique.
 > **Requête :** Débattez de mon idée suivante : `[Votre idée/Projet]`. Fournissez une conclusion commune.
 
-<br>
+\
 
 ### 🥇 Version Pro (Le Comité de Direction IA)
 

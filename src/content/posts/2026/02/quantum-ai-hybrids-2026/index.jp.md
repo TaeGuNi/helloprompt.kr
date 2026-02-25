@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "quantum-ai-hybrids-2026"]
 
 - **🎯 おすすめの対象:** 機械学習エンジニア、AIリサーチャー、シニア開発者
 - **⏱️ 所要時間:** 3時間 → 5分
-- **🤖 おすすめのモデル:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 おすすめのモデル:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **難易度:** ⭐⭐⭐⭐☆
 - ⚡️ **効果:** ⭐⭐⭐⭐⭐
@@ -39,7 +39,7 @@ tags: ["AI", "Tech", "quantum-ai-hybrids-2026"]
 > **役割:** あなたは量子機械学習の専門家です。
 > **要求:** 開発者向けに「量子AIハイブリッド」の基本概念を解説し、TensorFlow Quantumを用いた簡単なコード実装例を提示してください。
 
-<br>
+\
 
 ### 🥇 Pro Version (専門家型)
 

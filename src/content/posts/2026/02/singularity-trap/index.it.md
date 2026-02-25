@@ -10,7 +10,7 @@ tags: ["AI", "Trend", "2026"]
 
 - **🎯 Consigliato per:** Analisti Tech, Giornalisti, Marketer, CTO
 - **⏱️ Tempo risparmiato:** 3 ore → 5 minuti
-- **🤖 Modelli consigliati:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 Modelli consigliati:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 - ⭐ **Difficoltà:** ⭐⭐☆☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilità:** ⭐⭐⭐⭐☆
@@ -38,7 +38,7 @@ Usa questo prompt quando leggi un comunicato stampa o un articolo entusiastico s
 > **Ruolo:** Sei un analista tecnologico scettico e pragmatico.
 > **Compito:** Analizza il seguente annuncio tech `[Incolla l'annuncio/testo]` e dimmi in 3 punti se si tratta di una vera innovazione o di puro marketing (hype). Evidenzia le promesse irrealistiche.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

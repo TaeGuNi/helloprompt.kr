@@ -42,7 +42,7 @@ Ideal para quando você precisa apenas de uma narração de alta qualidade rapid
 > **Função (Role):** Você é um `[Diretor de Áudio Profissional]`.
 > **Tarefa (Task):** Vou fornecer um `[Roteiro]`. Preciso que você me instrua sobre como configurar uma voz feminina, calma e confiável (em português), adequada para a narração de um documentário, e me mostre o passo a passo para baixar o arquivo de áudio final.
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro)
 

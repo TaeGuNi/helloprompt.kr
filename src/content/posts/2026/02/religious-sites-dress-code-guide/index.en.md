@@ -42,7 +42,7 @@ Use this when you need quick, essential information on the go.
 > **Role:** You are a seasoned global travel guide specializing in religious and cultural etiquette.
 > **Task:** Tell me the exact dress code requirements for visiting `[Name of Temple/Cathedral/Mosque]` to ensure I don't get turned away at the entrance.
 
-<br>
+\
 
 ### 🥇 Pro Version (Deep Dive)
 

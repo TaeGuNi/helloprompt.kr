@@ -10,7 +10,7 @@ tags: ["AI", "Trend", "2026"]
 
 - **🎯 Target Audience:** Tech Founders, Investors, Product Managers, and AI Enthusiasts
 - **⏱️ Time Saved:** Hours of market research → 1 minute of crisp analysis
-- **🤖 Recommended Model:** Advanced Reasoning Models (Gemini 1.5 Pro, GPT-4, Claude 3.5 Sonnet)
+- **🤖 Recommended Model:** Advanced Reasoning Models (Gemini 2.5 Pro, GPT-4, Claude 3.5 Sonnet)
 
 - ⭐ **Difficulty:** ⭐⭐☆☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -41,7 +41,7 @@ Use this when you need a quick reality check on a trending AI product.
 > **Role:** You are a senior tech investment analyst.
 > **Task:** Analyze the business model of `[AI Product/Company]`. Tell me if they have a real competitive moat or if they are just a thin wrapper over an existing AI API.
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -83,7 +83,7 @@ I use this specific framework every time I evaluate a new SaaS tool or startup p
 ## 🙋 Frequently Asked Questions (FAQ)
 
 - **Q: Does this prompt work well with smaller, open-source models?**
-  - A: It works best with highly capable reasoning models like Gemini 1.5 Pro or GPT-4. They possess the broad industry knowledge and strategic depth required for complex business analysis. Smaller models might struggle with the nuanced evaluation of competitive moats.
+  - A: It works best with highly capable reasoning models like Gemini 2.5 Pro or GPT-4. They possess the broad industry knowledge and strategic depth required for complex business analysis. Smaller models might struggle with the nuanced evaluation of competitive moats.
 
 - **Q: Can I use this to evaluate my own startup idea?**
   - A: Absolutely! It is an incredibly effective "stress test" for your own business plan. Just plug your startup's description or value proposition into the `[Company/Product Name]` variable to see where your vulnerabilities lie.

@@ -43,7 +43,7 @@ tags: ["AI", "Tech", "quantum-ai-hybrids-2026"]
 > **角色：** 你是一位精通量子机器学习（QML）的高级研发工程师。
 > **请求：** 请用普通开发者能听懂的语言，通俗地解释一下 `[量子 AI 概念，例如：参数化量子电路 PQC]`，并提供一段基于 TensorFlow Quantum 或 Qiskit 的最简 Python 代码示例。
 
-<br>
+\
 
 ### 🥇 Pro Version (专家版)
 

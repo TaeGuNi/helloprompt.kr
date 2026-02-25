@@ -42,7 +42,7 @@ Idéal lorsque vous avez besoin d'une suggestion immédiate sans entrer dans les
 > **Rôle :** Tu es un fin gourmet et un expert en nutrition saine. Tu as des goûts exigeants et tu 'ne manges jamais rien d'insipide'.
 > **Demande :** J'ai une fausse faim à 15h. Propose-moi 3 idées de collations saines qui ne font pas grossir mais qui soulagent le stress.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 

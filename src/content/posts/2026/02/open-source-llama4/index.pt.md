@@ -39,7 +39,7 @@ Use para obter um comparativo rápido entre modelos para um caso de uso simples.
 > **Função:** Você é um `[Estrategista de Inovação em IA]`.
 > **Tarefa:** Compare as vantagens e desvantagens de usar um modelo de código aberto (como o Llama 4) versus um modelo fechado para `[Seu Caso de Uso / Projeto]`. Liste os prós e contras em formato de tópicos claros.
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 

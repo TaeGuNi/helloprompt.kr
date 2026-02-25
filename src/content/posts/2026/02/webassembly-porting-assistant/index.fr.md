@@ -42,13 +42,13 @@ Ce prompt va bien au-delà d'une simple traduction de code : il agit comme un pa
 Utilisez cette version pour convertir rapidement des fonctions de calcul simples (algorithmes, mathématiques) en Wasm pour des tests.
 
 > **Rôle :** Tu es un expert de haut niveau en Rust et WebAssembly.
->
-> **Tâche :** Convertis le code `[Langage d'origine]` ci-dessous en WebAssembly basé sur Rust (en utilisant `wasm-bindgen`).
->
-> **Code :**
-> `[Collez ici le code C++/Go/Rust à convertir]`
 
-<br>
+> **Tâche :** Convertis le code `[Langage d'origine]` ci-dessous en WebAssembly basé sur Rust (en utilisant `wasm-bindgen`).
+
+> **Code :**
+`[Collez ici le code C++/Go/Rust à convertir]`
+
+\
 
 ### 🥇 Version Pro
 

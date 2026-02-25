@@ -68,7 +68,7 @@ Inizia preparando l'ambiente e i componenti visivi che l'IA potrà utilizzare.
 > }
 > ```
 
-<br>
+\
 
 ### 🥇 Pro Version (Integrazione e Rendering)
 

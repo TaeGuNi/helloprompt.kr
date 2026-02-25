@@ -13,7 +13,7 @@ tags: ["DIY", "집수리", "절약", "생활꿀팁"]
 
 - **🎯 Consigliato per:** Studenti fuori sede, novelli sposi, principianti terrorizzati persino dal cambiare una lampadina, lavoratori che vogliono evitare spese inutili per le riparazioni.
 - **⏱️ Tempo richiesto:** 5 minuti per la diagnosi + tempo di lavoro → Risparmia 1 giorno di attesa per il tecnico.
-- **🤖 Modello consigliato:** Qualsiasi AI conversazionale (GPT-4o, Gemini 1.5 Pro, ecc., **il riconoscimento delle immagini è essenziale**).
+- **🤖 Modello consigliato:** Qualsiasi AI conversazionale (GPT-4o, Gemini 2.5 Pro, ecc., **il riconoscimento delle immagini è essenziale**).
 
 - ⭐ **Difficoltà:** ⭐⭐☆☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Usa questa versione quando vuoi capire rapidamente la causa di un guasto o otten
 > **Ruolo:** Sei un esperto `[idraulico/elettricista/interior designer]` con 30 anni di esperienza.
 > **Compito:** C'è un problema con `[zona della casa o elettrodomestico]`. I sintomi sono `[descrizione dettagliata del sintomo]`. Qual è la causa? Dammi 3 metodi passo-passo, in ordine di semplicità, per risolverlo da solo senza chiamare un tecnico. Se necessario, consigliami gli strumenti che posso acquistare in una ferramenta locale o in un negozio di bricolage.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Esperto)
 

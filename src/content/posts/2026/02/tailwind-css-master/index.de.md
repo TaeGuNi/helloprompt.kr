@@ -43,7 +43,7 @@ Nutze diesen Prompt, wenn du einfache CSS-Eigenschaften schnell in Tailwind-Klas
 > **Aufgabe:** Konvertiere den folgenden CSS-Code in die am besten geeigneten Tailwind CSS Utility-Klassen.
 > **CSS:** `display: flex; justify-content: center; align-items: center; height: 100vh;`
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

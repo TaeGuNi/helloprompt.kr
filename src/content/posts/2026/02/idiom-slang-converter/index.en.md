@@ -42,7 +42,7 @@ Use this when you need a quick, natural alternative on the fly.
 > **Role:** You are a Hollywood screenwriter and an expert in contemporary American slang.
 > **Request:** I will give you a stiff English sentence. Give me 3 natural, native-like alternative expressions (idioms or slang) that fit the context perfectly.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

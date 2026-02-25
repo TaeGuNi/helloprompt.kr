@@ -40,14 +40,14 @@ Le dépannage dans un environnement Kubernetes (K8s) est souvent une source de s
 À utiliser lorsque vous avez besoin de comprendre intuitivement le sens d'un log d'erreur et de définir une direction pour la résolution.
 
 > **Rôle :** Tu es un ingénieur DevOps Senior.
->
-> **Logs d'erreur :**
-> `[Collez ici le résultat de kubectl logs ou des événements describe]`
->
-> **Tâche :**
-> Résume-moi très simplement, du point de vue d'un développeur, la cause principale de cette erreur (ex : manque de mémoire, erreur de permissions, timeout réseau, etc.). Propose-moi également 2 points précis à vérifier immédiatement.
 
-<br>
+> **Logs d'erreur :**
+`[Collez ici le résultat de kubectl logs ou des événements describe]`
+
+> **Tâche :**
+Résume-moi très simplement, du point de vue d'un développeur, la cause principale de cette erreur (ex : manque de mémoire, erreur de permissions, timeout réseau, etc.). Propose-moi également 2 points précis à vérifier immédiatement.
+
+\
 
 ### 🥇 Version Pro (Restauration et Rapport SRE)
 
@@ -118,14 +118,14 @@ Dans ce cas de figure, fournir uniquement les logs applicatifs partiels à l'IA 
 
 - **Situation :** Copie-colle des événements situés en bas de `kubectl describe pod` dans le prompt.
 - **Réponse de l'IA :**
-  > "L'analyse des logs révèle un échec de planification dû à un `Insufficient cpu`. Le quota de CPU disponible sur les Nœuds (Worker Nodes) du cluster actuel est insuffisant.
-  >
+"L'analyse des logs révèle un échec de planification dû à un `Insufficient cpu`. Le quota de CPU disponible sur les Nœuds (Worker Nodes) du cluster actuel est insuffisant.
+
   > **[Action immédiate]**
-  > Pour rétablir le service en urgence, réduisez temporairement les requêtes CPU `resources.requests.cpu` de ce Pod de 500m à 200m et redéployez :
-  > `kubectl set resources deployment <deploy-name> -c <container-name> --requests=cpu=200m`
-  >
+Pour rétablir le service en urgence, réduisez temporairement les requêtes CPU `resources.requests.cpu` de ce Pod de 500m à 200m et redéployez :
+`kubectl set resources deployment <deploy-name> -c <container-name> --requests=cpu=200m`
+
   > **[Mesures préventives]**
-  > Pour anticiper les pics de trafic, vous devez activer le Cluster Autoscaler afin de configurer l'ajout automatique de Nœuds."
+Pour anticiper les pics de trafic, vous devez activer le Cluster Autoscaler afin de configurer l'ajout automatique de Nœuds."
 - **Résultat :** Pod démarré avec succès en 1 minute par un simple copier-coller. (Problème résolu ✅)
 
 ---

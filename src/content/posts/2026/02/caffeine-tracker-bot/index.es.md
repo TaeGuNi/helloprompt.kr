@@ -42,7 +42,7 @@ El café es el combustible indiscutible de los profesionales modernos, pero un m
 > **Rol:** Eres un experto en sueño y nutrición.
 > **Tarea:** He tomado `[cantidad y tipo de café]` a las `[hora]`. Dime a qué hora tendré mi pico de concentración y a qué hora podré dormir esta noche.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

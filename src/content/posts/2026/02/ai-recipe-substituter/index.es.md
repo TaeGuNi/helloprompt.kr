@@ -44,7 +44,7 @@ Sin embargo, la cocina es ciencia y adaptación. Aunque no sean exactamente igua
 > **Rol:** Eres un chef con 3 estrellas Michelin.
 > **Tarea:** Estoy preparando `[pasta a la crema]` pero me falta `[nata líquida]`. Dime brevemente 3 ingredientes comunes que pueda usar como sustitutos inmediatos.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Profesional)
 

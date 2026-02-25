@@ -46,7 +46,7 @@ Ideal para depuración ultrarrápida de un solo archivo o funciones específicas
 > **Rol:** Eres un Ingeniero de Software Senior experto en optimización.
 > **Tarea:** Analiza el siguiente fragmento de código, identifica posibles cuellos de botella de rendimiento y reescríbelo aplicando las mejores prácticas modernas.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

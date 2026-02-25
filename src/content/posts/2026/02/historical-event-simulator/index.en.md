@@ -42,7 +42,7 @@ Use this when you want to jump straight into the action with minimal setup.
 > **Role:** You are a `[History Simulation Game Master]`.
 > **Request:** I want to experience `[Specific Historical Event]`. Run a text-based adventure game where I have to make crucial decisions.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

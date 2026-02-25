@@ -13,7 +13,7 @@ tags: ["ScritturaRomanzo", "Trama", "Idea", "Creazione"]
 
 - **🎯 Consigliato per:** Scrittori amatoriali, Autori di Web Novel, Sceneggiatori
 - **⏱️ Tempo richiesto:** 5 minuti
-- **🤖 Modello consigliato:** Qualsiasi LLM avanzato (Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro)
+- **🤖 Modello consigliato:** Qualsiasi LLM avanzato (Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro)
 
 - ⭐ **Difficoltà:** ⭐⭐☆☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Usala quando hai solo bisogno di uno sblocco rapido e intuitivo.
 > **Ruolo:** Sei un editor e consulente narrativo esperto di best-seller.
 > **Richiesta:** La mia storia è bloccata. Il protagonista `[situazione attuale]`. Fammi 5 esempi di "E se..." per continuare la trama in modo sorprendente ma logico.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

@@ -42,7 +42,7 @@ Use this when you need a rapid, high-level recommendation for your dashboard.
 > **Role:** You are an expert UI/UX Designer and Senior Data Analyst.
 > **Request:** I need to build a dashboard for `[Department/Purpose]`. Recommend the core KPIs and a basic layout structure.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Level)
 

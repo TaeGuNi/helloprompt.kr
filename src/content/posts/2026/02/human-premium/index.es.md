@@ -40,7 +40,7 @@ Así como los alimentos orgánicos demuestran su valor al no usar fertilizantes 
 > **Rol:** Eres un ensayista y editor con 10 años de experiencia.
 > **Tarea:** Reescribe el siguiente texto para que no parezca generado por IA. Haz que suene completamente natural y emotivo, como si estuviera basado en la experiencia real de una persona. Elimina todos los conectores mecánicos (como 'en conclusión', 'en resumen').
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Profesional)
 

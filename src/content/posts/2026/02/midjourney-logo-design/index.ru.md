@@ -40,11 +40,11 @@ tags: ["Midjourney", "로고", "디자인", "브랜딩", "AI그림"]
 Используйте для быстрого создания иконок приложений, фавиконов или легких пет-проектов.
 
 > **Роль (Role):** Ты дизайнер логотипов мирового класса, специализирующийся на минимализме.
->
-> **Задача (Task):**
-> `minimalistic vector logo of a [Blue Whale], simple shapes, flat design, white background --no text --v 6.0`
 
-<br>
+> **Задача (Task):**
+`minimalistic vector logo of a [Blue Whale], simple shapes, flat design, white background --no text --v 6.0`
+
+\
 
 ### 🥇 Pro-версия (Айдентика бренда)
 

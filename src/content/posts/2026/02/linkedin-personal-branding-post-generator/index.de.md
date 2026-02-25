@@ -42,7 +42,7 @@ Nutzen Sie diese Variante, wenn Sie unter Zeitdruck stehen und ein schnelles Erg
 > **Rolle:** Du bist ein erfolgreicher LinkedIn-Influencer und erfahrener Content-Stratege.
 > **Aufgabe:** Verwandle meine heutige, alltägliche Arbeitserfahrung in einen authentischen und lehrreichen LinkedIn-Beitrag, der meine Personal Brand stärkt.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Modus)
 

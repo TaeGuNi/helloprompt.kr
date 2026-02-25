@@ -43,11 +43,11 @@ Descubra o segredo da 'Automação de Notas de Leitura', transformando textos es
 Ideal quando você precisa apenas salvar textos sublinhados e captar a mensagem principal do autor rapidamente.
 
 > **(Faça o upload da foto da página do livro)**
->
-> **Tarefa:**
-> Extraia o texto da imagem em anexo com precisão. Em seguida, resuma o argumento central que o autor quer transmitir nesta página em exatamente uma frase impactante.
 
-<br>
+> **Tarefa:**
+Extraia o texto da imagem em anexo com precisão. Em seguida, resuma o argumento central que o autor quer transmitir nesta página em exatamente uma frase impactante.
+
+\
 
 ### 🥇 Versão Pro (Resenha Profunda e Plano de Ação)
 
@@ -110,7 +110,7 @@ Recomendo fortemente arquivar esses resultados em ferramentas de "Segundo Céreb
 
 ### ❌ Antes (Apenas sublinhar e ler passivamente)
 
-> "A perfeição não é alcançada quando não há mais nada a acrescentar, mas quando não há mais nada a retirar."
+"A perfeição não é alcançada quando não há mais nada a acrescentar, mas quando não há mais nada a retirar."
 
 (Ao fechar o livro) "Nossa, que frase boa." -> 3 dias depois: "Espera, sobre o que era aquele livro mesmo? (Memória completamente apagada 📄)"
 

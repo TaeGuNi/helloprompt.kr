@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "context-window-optimization"]
 
 - **🎯 推荐对象：** AI 开发者、提示词工程师（Prompt Engineer）、高级系统架构师
 - **⏱️ 节省时间：** 无尽的 Debug 时间 → 结构化梳理只需 5 分钟
-- **🤖 推荐模型：** 支持超长上下文的 AI (Gemini 1.5 Pro, Claude 3 Opus, GPT-4 Turbo 等)
+- **🤖 推荐模型：** 支持超长上下文的 AI (Gemini 2.5 Pro, Claude 3 Opus, GPT-4 Turbo 等)
 
 - ⭐ **难度：** ⭐⭐⭐⭐☆
 - ⚡️ **有效性：** ⭐⭐⭐⭐⭐
@@ -47,7 +47,7 @@ tags: ["AI", "Tech", "context-window-optimization"]
 > `[在此粘贴你的长文档]`
 > </document>
 
-<br>
+\
 
 ### 🥇 Pro Version (专业版)
 

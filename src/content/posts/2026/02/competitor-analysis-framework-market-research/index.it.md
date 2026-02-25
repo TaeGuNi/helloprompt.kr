@@ -42,7 +42,7 @@ Usala quando hai bisogno di una panoramica rapida e immediata.
 > **Ruolo:** Sei un Analista di Ricerche di Mercato senior.
 > **Richiesta:** Analizza i punti di forza e di debolezza dei miei principali concorrenti `[Nome Concorrente 1]` e `[Nome Concorrente 2]` e suggeriscimi 3 opportunità di benchmarking.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Esperto)
 

@@ -42,7 +42,7 @@ Levantarse a las 4 AM no se trata de torturarse ni de dormir menos; se trata de 
 > **Rol:** Eres un experto en productividad y coaching de hábitos.
 > **Tarea:** Diseña una rutina matutina ininterrumpida de 2 horas (de 4:00 AM a 6:00 AM) enfocada exclusivamente en `[tu objetivo principal, ej: estudiar para mi certificación / escribir un libro]`.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

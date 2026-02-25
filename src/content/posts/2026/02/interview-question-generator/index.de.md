@@ -42,7 +42,7 @@ Verwenden Sie dies, wenn Sie sofort ein schnelles Ergebnis für das nächste Mee
 > **Rolle:** Du bist ein erfahrener Senior-Recruiter.
 > **Anfrage:** Erstelle einen Leitfaden mit tiefgehenden Interviewfragen, um die wahren Fähigkeiten eines Bewerbers kritisch zu prüfen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

@@ -42,7 +42,7 @@ Nutzen Sie diese Basis-Variante, wenn Sie unkompliziert und schnell sichtbare Li
 > **Rolle:** Du bist ein professioneller Lichtdesigner.
 > **Prompt-Zusatz:** Generiere das Bild mit "intense volumetric lighting, clear god rays shining through, dusty atmosphere".
 
-<br>
+\
 
 ### 🥇 Pro Version (Für maximale filmische Qualität)
 
@@ -88,7 +88,7 @@ Der eigentliche Geheimtipp in diesem Prompt ist die Kombination mit **"dust mote
 
 ### ❌ Vorher (Der Standard-Ansatz)
 
-> Ein Foto von einer alten Bibliothek mit großen Fenstern und Sonnenlicht, 8k.
+Ein Foto von einer alten Bibliothek mit großen Fenstern und Sonnenlicht, 8k.
 
 _(Ergebnis: Ein flaches, gleichmäßig und unspektakulär ausgeleuchtetes Zimmer. Die Fenster sind zwar hell, aber der Raum selbst hat keine filmische Tiefe.)_
 

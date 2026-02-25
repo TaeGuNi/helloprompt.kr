@@ -42,7 +42,7 @@ Usala quando hai bisogno di idee immediate senza troppi vincoli strutturali.
 > **Ruolo:** Sei un esperto consulente di Brand Naming con 20 anni di esperienza.
 > **Richiesta:** Crea 10 nomi accattivanti per `[inserisci il tuo prodotto/servizio]`.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

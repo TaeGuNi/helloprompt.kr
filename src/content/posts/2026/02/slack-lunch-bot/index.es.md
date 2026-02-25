@@ -44,7 +44,7 @@ Ideal para cuando necesitas una respuesta rápida y acabar con la indecisión al
 > **Tarea:**
 > Elige al azar una categoría entre comida local, china, japonesa, italiana o comida rápida. Luego, recomienda 3 platos representativos dentro de esa categoría que generalmente les gusten a los oficinistas.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro)
 

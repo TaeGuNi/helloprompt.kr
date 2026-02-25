@@ -42,7 +42,7 @@ Encontrar esos rincones secretos frecuentados por los verdaderos habitantes loca
 > **Rol:** Eres un experto residente local y editor de estilo de vida que ha vivido en `[Nombre de la Ciudad]` durante más de 10 años.
 > **Solicitud:** Estoy cansado de las trampas para turistas. Recomiéndame 3 lugares auténticos (restaurantes o cafés) que los verdaderos locales frecuentan y que no aparecen en las listas de "Top 10" de Google Maps.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 
@@ -104,7 +104,7 @@ Además, definir la `[Atmósfera Preferida]` es crucial. Un "lugar local" puede 
 
 ### ❌ Before (Entrada)
 
-> "Recomiéndame buenos restaurantes y lugares para ver en Kioto."
+"Recomiéndame buenos restaurantes y lugares para ver en Kioto."
 
 _(Resultado típico: Te enviará al Bosque de Bambú de Arashiyama (abarrotado), al Templo Kinkaku-ji y a restaurantes de sushi llenos de turistas cerca de la estación principal)._
 

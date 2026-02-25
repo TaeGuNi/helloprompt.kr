@@ -44,7 +44,7 @@ Ideale quando hai bisogno di cogliere rapidamente i punti chiave senza formattaz
 >
 > `[Incolla qui la trascrizione della riunione]`
 
-<br>
+\
 
 ### 🥇 Versione Pro (Pro Version)
 
@@ -114,13 +114,13 @@ Questo prompt è la mia 'arma segreta' che utilizzo quotidianamente, integrandol
 
 ### ❌ Before (Input: Trascrizione Grezza)
 
-> "Ah, senti Marco, per... per quella bozza del banner principale entro questa settimana? Me la potresti fare? Ah giusto, cosa mangiamo oggi a pranzo? (ride) Comunque quella cosa è importante, quindi per favore rispetta le tempistiche..."
+"Ah, senti Marco, per... per quella bozza del banner principale entro questa settimana? Me la potresti fare? Ah giusto, cosa mangiamo oggi a pranzo? (ride) Comunque quella cosa è importante, quindi per favore rispetta le tempistiche..."
 
 ### ✅ After (Risultato: Report IA)
 
 > **🏃‍♂️ Action Item (Cose da fare)**
->
-> - [ ] **Marco**: Creazione e condivisione della bozza del banner principale (Scadenza: Prevista per questo Venerdì) _※ Alta Priorità_
+
+- [ ] **Marco**: Creazione e condivisione della bozza del banner principale (Scadenza: Prevista per questo Venerdì) _※ Alta Priorità_
 
 ---
 

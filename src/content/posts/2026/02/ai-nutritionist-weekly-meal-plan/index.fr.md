@@ -43,7 +43,7 @@ Utilisez cette version pour une suggestion rapide sans trop de détails.
 > **Rôle :** Tu es un nutritionniste clinique.
 > **Requête :** Crée-moi un plan de repas hebdomadaire sain pour perdre du poids, incluant une liste de courses.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 
@@ -104,7 +104,7 @@ La véritable puissance de ce prompt réside dans sa capacité à réduire la "f
 
 ### ❌ Avant (Requête basique)
 
-> "Fais-moi un menu de régime."
+"Fais-moi un menu de régime."
 
 _(Résultat : Une liste générique de blancs de poulet bouillis et de brocolis, sans quantités ni saveur, impossible à tenir sur le long terme.)_
 

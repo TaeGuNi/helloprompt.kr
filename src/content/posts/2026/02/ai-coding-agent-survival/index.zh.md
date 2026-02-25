@@ -53,7 +53,7 @@ GitHub Copilot X2、Devin Pro 等**自主编程智能体 (Autonomous Coding Agen
 > **请求：** 请重构 `[src/legacy/auth.ts]` 文件，以提高其可读性并进行模块化。
 > **条件：** 绝对不要更改现有的 API 签名，并在修改后确保所有测试代码均能顺利通过。
 
-<br>
+\
 
 ### 🥇 Pro Version (专业版)
 

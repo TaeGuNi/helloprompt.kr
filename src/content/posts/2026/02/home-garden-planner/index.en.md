@@ -13,7 +13,7 @@ tags: ["가드닝", "식집사", "반려식물", "플랜테리어"]
 
 - **🎯 Recommended for:** Serial plant killers, planterior beginners, single-person households dreaming of a balcony garden
 - **⏱️ Time Required:** 5 minutes (Environment analysis and diagnosis complete)
-- **🤖 Recommended AI:** GPT-4o, Gemini 1.5 Pro (Vision model required to detect subtle changes in plant photos)
+- **🤖 Recommended AI:** GPT-4o, Gemini 2.5 Pro (Vision model required to detect subtle changes in plant photos)
 
 - ⭐ **Difficulty:** ⭐☆☆☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -53,7 +53,7 @@ Use this when you want to find a companion plant that perfectly matches your liv
 > **Output Format:**
 > Include the 'Reason for Recommendation', 'Flower Language', 'Watering Difficulty', and 'Interior Styling Tips' for each plant.
 
-<br>
+\
 
 ### 🥇 Pro Version (Plant Emergency Diagnosis & Recovery Solution)
 

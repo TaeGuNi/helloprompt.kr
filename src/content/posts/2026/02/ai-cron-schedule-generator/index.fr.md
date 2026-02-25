@@ -13,7 +13,7 @@ tags: [Linux, Cron, Automation, Server, AI]
 
 - **🎯 Public cible :** Développeurs Backend, Ingénieurs DevOps, Administrateurs Système
 - **⏱️ Temps gagné :** De 10 minutes à 30 secondes
-- **🤖 Modèles recommandés :** ChatGPT, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modèles recommandés :** ChatGPT, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Difficulté :** ⭐☆☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Utilisez cette version lorsque vous avez besoin d'un résultat rapide sans param
 > **Rôle :** Tu es un `[Ingénieur DevOps]`.
 > **Tâche :** Convertis `[chaque dernier vendredi du mois à 23h00]` en une expression Crontab Linux. Ajoute une brève explication sur le moment précis de son exécution.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

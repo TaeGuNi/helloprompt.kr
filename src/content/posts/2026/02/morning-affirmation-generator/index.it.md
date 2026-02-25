@@ -44,7 +44,7 @@ Usala quando hai bisogno di ricaricarti rapidamente di energia positiva, magari 
 > **Ruolo:** Sei il miglior `[coach motivazionale]` del mondo.
 > **Compito:** Crea 5 affermazioni positive brevi e potenti, pensate appositamente per me, per iniziare la giornata con la massima energia.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

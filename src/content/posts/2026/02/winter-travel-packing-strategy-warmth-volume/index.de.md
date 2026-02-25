@@ -42,7 +42,7 @@ Nutzen Sie diese Variante, wenn Sie sofortige, kompakte Ergebnisse benötigen.
 > **Rolle:** Du bist ein erfahrener Outdoor-Experte für extreme Kälte und ein Meister im effizienten Kofferpacken.
 > **Anfrage:** Mein Koffer ist wegen meiner Daunenjacke schon fast voll. Gib mir die besten Tipps, wie ich für eine Winterreise platzsparend packen und mich trotzdem warm halten kann.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für detaillierte Packlisten & Strategien)
 
@@ -99,7 +99,7 @@ Das Geheimnis eines perfekt gepackten Winterkoffers liegt nicht im Weglassen, so
 
 ### ❌ Vorher (Einfache, unpräzise Eingabe)
 
-> "Was soll ich für eine Winterreise nach Sapporo im Januar einpacken?"
+"Was soll ich für eine Winterreise nach Sapporo im Januar einpacken?"
 
 _Ergebnis: Eine generische Liste mit "dicken Pullovern", "Schal", "Mütze" und "Daunenjacke" – null Innovation, extrem platzraubend und oft unpraktisch._
 

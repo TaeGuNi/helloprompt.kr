@@ -44,7 +44,7 @@ Verwenden Sie diesen Prompt, wenn Sie nur schnell einen funktionierenden Ausdruc
 > **Rolle:** Du bist ein absoluter Regex-Experte.
 > **Anfrage:** Schreibe mir einen regulären Ausdruck (Regex) für `[Gewünschtes Muster, z.B. eine deutsche Handynummer]`. Zeige mir außerdem 3 Text-Beispiele, die passen, und 3, die absichtlich nicht passen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 

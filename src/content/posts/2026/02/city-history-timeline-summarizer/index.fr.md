@@ -48,7 +48,7 @@ Idéal lorsque vous êtes déjà dans l'avion ou le train et que vous avez besoi
 > **Rôle :** Tu es un guide touristique expert doublé d'un historien passionnant.
 > **Requête :** Fais-moi un résumé chronologique très simple des 5 événements historiques majeurs de la ville de `[Nom de la ville]`, et dis-moi quel monument ou attraction actuelle correspond à chaque événement.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expertise Avancée)
 
@@ -104,7 +104,7 @@ Je l'utilise personnellement pour créer des fiches de révision rapides sur mon
 
 ### ❌ Avant (Requête classique)
 
-> "Raconte-moi l'histoire de Berlin en résumé."
+"Raconte-moi l'histoire de Berlin en résumé."
 
 _(Résultat : Un bloc de texte dense de 4 paragraphes, difficile à lire sur un écran de téléphone, mentionnant la Prusse, la République de Weimar et la Guerre Froide sans jamais indiquer où se rendre pour en ressentir l'impact)._
 

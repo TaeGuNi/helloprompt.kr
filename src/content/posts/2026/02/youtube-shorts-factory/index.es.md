@@ -43,7 +43,7 @@ El secreto del formato corto (Shorts, Reels, TikTok) reside en la **constancia**
 > **Tema:** `[Trucos para Vivir Solo]`
 > **Petición:** Dame 5 ideas de Shorts impactantes, frescas y que la gente no pueda parar de ver. Incluye un Título atractivo y la Primera Frase (Hook) para cada una.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Escaleta de Rodaje Completa)
 
@@ -108,7 +108,7 @@ Al obligar a la IA a separar el "Audio" del "Visual", mentalmente ya estás visu
 
 ### ❌ Antes (Sin estructura de retención)
 
-> Hola a todos~ Hoy les voy a presentar algunos artículos muy buenos que compré en Ikea recientemente. El primero es este organizador de escritorio... (El 90% de los espectadores ya deslizó al siguiente video 👋)
+Hola a todos~ Hoy les voy a presentar algunos artículos muy buenos que compré en Ikea recientemente. El primero es este organizador de escritorio... (El 90% de los espectadores ya deslizó al siguiente video 👋)
 
 ### ✅ Después (Aplicando la Fábrica de IA)
 

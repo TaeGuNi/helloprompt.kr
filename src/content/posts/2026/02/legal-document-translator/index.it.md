@@ -44,7 +44,7 @@ Usala quando hai bisogno di capire velocemente il succo del discorso.
 > **Ruolo:** Sei un `[Avvocato Esperto e Chiaro]`.
 > **Richiesta:** Spiegami questo `[documento legale / contratto]` in parole semplici, come se parlassi a un bambino di 10 anni, e segnalami eventuali clausole rischiose.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 

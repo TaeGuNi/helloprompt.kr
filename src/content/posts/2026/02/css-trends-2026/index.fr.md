@@ -79,7 +79,7 @@ Pour une conversion rapide de vos anciens fichiers CSS classiques vers Tailwind 
 > **Rôle :** Tu es un développeur frontend expert des standards de 2026.
 > **Tâche :** Convertis le code `[CSS/CSS-in-JS]` suivant en utilisant uniquement Tailwind v5 et le CSS Native Nesting. Optimise le rendu pour un navigateur moderne.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Pro)
 

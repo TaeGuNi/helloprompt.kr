@@ -4,9 +4,6 @@ date: 2026-02-13
 pubDate: 2026-02-13
 description: " \"Aprende a diseñar tu propia infraestructura de IA local para garantizar la privacidad de tus datos y liberarte de la dependencia del SaaS.\""
 author: "Hello Prompt"
-image:
-  url: "https://cdn.example.com/ai-stack.png"
-  alt: "Personal AI Stack Diagram"
 tags: ["AI", "Infrastructure", "Privacy", "Daniel Miessler"]
 ---
 
@@ -45,7 +42,7 @@ Ideal para obtener recomendaciones rápidas de herramientas y dar el primer paso
 > **Rol:** Eres un Ingeniero DevOps especializado en IA local.
 > **Tarea:** Recomiéndame las mejores herramientas gratuitas para ejecutar un LLM localmente en mi `[Sistema Operativo: ej. Mac M2 / Windows con GPU RTX 3060]` para `[Caso de uso: ej. resumir PDFs confidenciales]`.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

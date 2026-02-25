@@ -50,7 +50,7 @@ Usa questo prompt quando hai bisogno di un'idea lampo per stasera.
 >
 > **Richiesta:** Suggerisci 3 giochi veloci (massimo 10 minuti) per convincere i miei figli a riordinare una stanza disordinata senza lamentele.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 

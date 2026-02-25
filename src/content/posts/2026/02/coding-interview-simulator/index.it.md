@@ -42,7 +42,7 @@ Usala quando hai bisogno di un feedback rapido e diretto sulla tua soluzione.
 > **Ruolo:** Sei un `[Senior Software Engineer di Google/Amazon]`.
 > **Richiesta:** Comportati come un intervistatore tecnico. Valuta il mio codice per il problema `[Inserisci il problema]` e fammi una domanda per migliorarlo.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 

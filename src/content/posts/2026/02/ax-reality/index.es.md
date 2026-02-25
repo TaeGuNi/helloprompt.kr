@@ -39,7 +39,7 @@ Utiliza este prompt para una auditoría rápida cuando te presenten una idea vag
 > **Rol:** Eres un `[Experto en Estrategia de IA]`.
 > **Tarea:** Analiza la siguiente propuesta de proyecto de IA: `[Descripción del proyecto]`. Dime de forma directa si realmente resuelve un problema de los usuarios o si es solo para subirse a la moda de la IA. Da 3 razones claras y objetivas.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

@@ -50,7 +50,7 @@ Ideal para tarefas rápidas do dia a dia, criando uma separação visual simples
 > [Cole o seu texto longo aqui]
 > """
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert)
 
@@ -138,7 +138,7 @@ Tradução para o Espanhol: El sector empresarial presenta una fuerte expansión
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
 Os maiores especialistas e desenvolvedores automatizados do mundo adotam o hábito inegociável de dividir sistematicamente **Seções** ao conceberem seus prompts avançados:
 

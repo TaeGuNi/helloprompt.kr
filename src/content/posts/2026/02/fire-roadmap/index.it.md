@@ -42,7 +42,7 @@ Usala quando hai bisogno di un calcolo rapido e immediato.
 > **Ruolo:** Sei un `[Consulente Finanziario Esperto]` specializzato nel movimento FIRE.
 > **Richiesta:** Calcola il mio obiettivo FIRE e gli anni necessari per raggiungerlo, sapendo che spendo `[3.000€]` al mese, ho un capitale di partenza di `[50.000€]` e risparmio `[1.000€]` mensilmente.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

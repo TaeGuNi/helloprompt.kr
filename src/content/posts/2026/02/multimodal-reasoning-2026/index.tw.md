@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "multimodal-reasoning-2026"]
 
 - **🎯 推薦對象：** AI 開發者、產品經理、內容創作者
 - **⏱️ 節省時間：** 數小時的手動分析 → 縮短至 1 分鐘
-- **🤖 推薦模型：** 支援多模態的 AI (Gemini 1.5 Pro, GPT-4o, Claude 3.5 Sonnet)
+- **🤖 推薦模型：** 支援多模態的 AI (Gemini 2.5 Pro, GPT-4o, Claude 3.5 Sonnet)
 
 - ⭐ **難易度：** ⭐⭐⭐☆☆
 - ⚡️ **效果：** ⭐⭐⭐⭐⭐
@@ -39,7 +39,7 @@ tags: ["AI", "Tech", "multimodal-reasoning-2026"]
 > **角色：** 你是一位專業的`[多媒體分析師]`。
 > **任務：** 請綜合分析我上傳的`[影片/音檔/圖片]`與`[文字說明]`，並告訴我其中最重要的三個核心訊息與潛在情緒。
 
-<br>
+\
 
 ### 🥇 Pro Version (進階專業版)
 
@@ -78,10 +78,10 @@ tags: ["AI", "Tech", "multimodal-reasoning-2026"]
 ## 🙋 常見問題 (FAQ)
 
 - **Q: 所有的 AI 模型都支援多模態提示詞嗎？**
-  - A: 目前並非所有模型都支援。請確保您使用的是原生支援多模態的模型，如 Google Gemini 1.5 Pro、OpenAI GPT-4o 或 Anthropic Claude 3.5 Sonnet。純文本模型無法直接處理影音檔案。
+  - A: 目前並非所有模型都支援。請確保您使用的是原生支援多模態的模型，如 Google Gemini 2.5 Pro、OpenAI GPT-4o 或 Anthropic Claude 3.5 Sonnet。純文本模型無法直接處理影音檔案。
 
 - **Q: 上傳的影片太長，AI 會分析失敗嗎？**
-  - A: 會受到模型的上下文窗口 (Context Window) 限制。例如 Gemini 1.5 Pro 支援極大的上下文，可以處理長達 1 小時的影片；但其他模型可能需要您先剪輯成較短的片段，或是只截取關鍵影格與音訊。
+  - A: 會受到模型的上下文窗口 (Context Window) 限制。例如 Gemini 2.5 Pro 支援極大的上下文，可以處理長達 1 小時的影片；但其他模型可能需要您先剪輯成較短的片段，或是只截取關鍵影格與音訊。
 
 ---
 

@@ -44,7 +44,7 @@ Use this when you need a basic mock API up and running instantly.
 >
 > **Task:** Based on the `[API Specification]` I provide, write the complete, immediately runnable code for a Mock Server in an `[Express.js]` environment.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

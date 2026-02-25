@@ -4,9 +4,6 @@ date: 2026-02-13
 pubDate: 2026-02-13
 description: " \"Saiba como projetar e construir uma infraestrutura de IA pessoal (Personal AI Stack) para garantir privacidade total de dados e automação sem depender de SaaS.\""
 author: "Hello Prompt"
-image:
-  url: "https://cdn.example.com/ai-stack.png"
-  alt: "Personal AI Stack Diagram"
 tags: ["AI", "Infrastructure", "Privacy", "Daniel Miessler"]
 ---
 
@@ -47,7 +44,7 @@ Ideal para descobrir rapidamente o que o seu computador atual é capaz de rodar.
 > **Papel:** Você é um Engenheiro de IA especialista em infraestrutura local.
 > **Tarefa:** Tenho um `[MacBook Pro M3 com 16GB de RAM]`. Me diga qual é a melhor configuração simples (LLM, interface e banco de dados) para rodar uma IA localmente, focada em `[análise de documentos em PDF e programação]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

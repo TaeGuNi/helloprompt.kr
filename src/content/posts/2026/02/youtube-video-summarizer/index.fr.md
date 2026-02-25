@@ -13,7 +13,7 @@ tags: ["유튜브", "요약", "ChatGPT", "생산성", "공부"]
 
 - **🎯 Recommandé pour :** Les professionnels et étudiants en manque de temps (même en vitesse x2), souhaitant extraire l'essentiel sans tomber dans les pièges des miniatures trompeuses (clickbait).
 - **⏱️ Temps requis :** 20 minutes de visionnage → Réduit à seulement 10 secondes.
-- **🤖 Modèles recommandés :** ChatGPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro (Capacité de traitement de long contexte indispensable).
+- **🤖 Modèles recommandés :** ChatGPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro (Capacité de traitement de long contexte indispensable).
 
 - ⭐ **Difficulté :** ⭐☆☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -44,7 +44,7 @@ En combinant la fonction **Transcription (Sous-titres)** de YouTube avec un prom
 > **Rôle :** Tu es un expert en résumé de contenu, rapide et précis.
 > **Tâche :** Le texte ci-dessous est la transcription d'une vidéo YouTube. En ignorant les bavardages inutiles, résume le sujet principal et la conclusion la plus importante de cette vidéo en exactement 3 lignes claires.
 
-<br>
+\
 
 ### 🥇 Version Pro
 
@@ -93,7 +93,7 @@ Sur PC, je vous recommande vivement d'installer une extension Chrome gratuite co
   - R : La technologie de génération automatique de sous-titres de YouTube s'est considérablement améliorée, couvrant désormais la grande majorité des vidéos. Si aucun sous-titre n'est disponible, vous devrez d'abord extraire l'audio et utiliser l'API Whisper d'OpenAI ou un outil de reconnaissance vocale (Speech-to-Text) dédié pour générer la transcription.
 
 - **Q : Si je colle la transcription d'une vidéo de plus d'une heure, l'IA risque-t-elle de planter ?**
-  - R : Les modèles récents tels que GPT-4o, Claude 3.5 Sonnet et Gemini 1.5 Pro disposent d'une immense fenêtre de contexte (Context Window) et peuvent traiter sans effort 1 à 2 heures de texte. Toutefois, si vous utilisez un modèle plus ancien (ex: GPT-3.5), le texte risque d'être tronqué. Dans ce cas, il est conseillé de le diviser en deux parties.
+  - R : Les modèles récents tels que GPT-4o, Claude 3.5 Sonnet et Gemini 2.5 Pro disposent d'une immense fenêtre de contexte (Context Window) et peuvent traiter sans effort 1 à 2 heures de texte. Toutefois, si vous utilisez un modèle plus ancien (ex: GPT-3.5), le texte risque d'être tronqué. Dans ce cas, il est conseillé de le diviser en deux parties.
 
 - **Q : Les horodatages sont copiés avec le texte. Dois-je les effacer avant de coller ?**
   - R : Surtout pas. Collez tout tel quel. L'IA utilise intelligemment ces horodatages pour structurer les chapitres et vous fournir des repères temporels précis.

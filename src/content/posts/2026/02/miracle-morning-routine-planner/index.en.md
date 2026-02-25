@@ -49,7 +49,7 @@ Use this when you want a quick draft of a routine based on your core goals witho
 > **Role:** You are a `[productivity and time management expert]`.
 > **Task:** My wake-up time is `[6:00 AM]`, and I have exactly `[1.5 hours]` before I need to leave for work. My morning goals are `[stretching, reading 10 pages of a book, and having a light breakfast]`. Create a realistic and efficient morning routine timeline that helps me achieve these goals.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

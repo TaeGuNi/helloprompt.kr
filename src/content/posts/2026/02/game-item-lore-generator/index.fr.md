@@ -42,7 +42,7 @@ Idéale pour improviser rapidement un trésor lors d'une session de jeu.
 > **Rôle :** Tu es un Maître de Donjon vétéran et un forgeron d'artefacts magiques.
 > **Demande :** Crée-moi une `[arme ou accessoire]` de rareté `[Légendaire/Maudite]`. Donne-lui un nom épique, une apparence détaillée, un pouvoir unique (pas juste des stats) et une terrible malédiction ou pénalité en contrepartie. Ajoute un court paragraphe d'histoire (Lore).
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 
@@ -106,7 +106,7 @@ En tant que MJ de longue date, j'ai remarqué que les joueurs oublient vite "l'�
 
 ### ❌ Avant (Entrée basique)
 
-> Une épée puissante qui tire du feu.
+Une épée puissante qui tire du feu.
 
 ### ✅ Après (Résultat avec la Version Pro)
 

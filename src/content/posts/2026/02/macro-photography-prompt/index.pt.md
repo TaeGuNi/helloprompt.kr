@@ -43,7 +43,7 @@ Use isso quando precisar apenas de um resultado rápido e direto.
 > **Papel:** Você é um fotógrafo especialista em macrofotografia da National Geographic.
 > **Solicitação:** Gere um prompt em inglês para criar uma imagem macro que capture detalhes minúsculos invisíveis a olho nu de `[um inseto/objeto]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

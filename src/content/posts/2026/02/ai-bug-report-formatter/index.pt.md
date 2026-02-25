@@ -48,7 +48,7 @@ Use esta versão quando precisar apenas estruturar rapidamente as informações 
 >
 > **Explicação:** `[Descreva aqui a situação do bug da forma como vier à sua mente]`
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro)
 

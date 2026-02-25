@@ -42,7 +42,7 @@ Verwenden Sie diesen Prompt, wenn Sie sofort loslegen möchten.
 > **Rolle:** Du bist ein Produktivitätsexperte und Deep-Work-Coach.
 > **Aufgabe:** Erstelle mir einen strukturierten 2-Stunden-Zeitplan für den frühen Morgen (05:00 - 07:00 Uhr), um an meinem Ziel `[Ziel eingeben, z.B. Programmieren lernen / Buch schreiben]` zu arbeiten.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für maximale Effizienz)
 

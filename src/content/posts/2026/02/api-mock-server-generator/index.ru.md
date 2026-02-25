@@ -43,7 +43,7 @@ tags: [AI, Backend, Frontend, Testing]
 > **Роль:** Ты — `[Senior Backend Developer]`.
 > **Задача:** На основе предоставленной мной `[спецификации API]` напиши полностью готовый к запуску код Mock-сервера на `[Express.js]`.
 
-<br>
+\
 
 ### 🥇 Продвинутая версия (Pro Version)
 

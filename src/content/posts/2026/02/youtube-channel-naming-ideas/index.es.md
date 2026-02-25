@@ -42,7 +42,7 @@ El nombre de tu canal de YouTube es tu marca y tu carta de presentación. Elegir
 > **Rol:** Eres un consultor estratégico de YouTube y un copywriter experto que ha conseguido más de 1 millón de suscriptores para diversos canales.
 > **Solicitud:** Necesito ideas atractivas para el nombre de mi nuevo canal de YouTube. Dame opciones creativas, memorables y optimizadas para el algoritmo que atraigan suscriptores desde el primer vistazo.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Expert Version)
 
@@ -94,7 +94,7 @@ Además, al incluir la creación del nombre del 'fandom' desde el principio, obl
 ## 🙋 Preguntas Frecuentes (FAQ)
 
 - **Q: ¿Puedo usar este prompt en la versión gratuita de ChatGPT?**
-  - A: ¡Totalmente! La versión gratuita de ChatGPT (o Claude, Gemini) generará resultados excelentes. Sin embargo, modelos avanzados como GPT-4o o Gemini 1.5 Pro tienden a ofrecer juegos de palabras más sutiles y nombres menos genéricos.
+  - A: ¡Totalmente! La versión gratuita de ChatGPT (o Claude, Gemini) generará resultados excelentes. Sin embargo, modelos avanzados como GPT-4o o Gemini 2.5 Pro tienden a ofrecer juegos de palabras más sutiles y nombres menos genéricos.
 
 - **Q: ¿Qué hago si ninguno de los nombres generados me convence al 100%?**
   - A: Tómalos como un punto de partida. Puedes pedirle a la IA: _"Me gustó el estilo de la opción 2, dame 10 variaciones más siguiendo esa misma vibra"_, o agregar detalles más específicos sobre ti en la sección de `Mi Apodo / Característica Principal`.

@@ -41,7 +41,7 @@ Nutzen Sie diesen Prompt, wenn Sie sofort und ohne lange Vorbereitung spielen m�
 
 > **Aufgabe:** Lass uns ein Wortketten-Spiel (Wortschlangenspiel) spielen. Du fängst an. Es dürfen nur Substantive verwendet werden und das letzte Zeichen meines Wortes muss das erste Zeichen deines Wortes sein.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

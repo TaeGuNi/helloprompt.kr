@@ -42,7 +42,7 @@ Use this when you just need a rapid overview of the discussion.
 > **Role:** You are a highly skilled Project Manager and Executive Assistant.
 > **Task:** Summarize the following meeting transcript. Extract the main topics, key decisions, and action items clearly.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Level)
 
@@ -86,7 +86,7 @@ By assigning the "Project Manager" persona and explicitly defining the four stru
 ## 🙋 Frequently Asked Questions (FAQ)
 
 - **Q: Does this work well with long transcripts (e.g., over an hour)?**
-  - A: Yes, but keep in mind the token limits of your chosen AI model. For very long meetings (e.g., 2+ hours), using models with large context windows like Claude 3.5 Sonnet or Gemini 1.5 Pro is highly recommended over standard free models.
+  - A: Yes, but keep in mind the token limits of your chosen AI model. For very long meetings (e.g., 2+ hours), using models with large context windows like Claude 3.5 Sonnet or Gemini 2.5 Pro is highly recommended over standard free models.
 
 - **Q: Can the AI understand industry-specific jargon?**
   - A: Generally, yes. However, if your meeting contains heavy internal acronyms, you can improve the output by adding a small glossary section to the "Context" part of the prompt (e.g., "- Note: Q1 means First Quarter, KPI means Key Performance Indicator").

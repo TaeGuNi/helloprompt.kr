@@ -41,14 +41,14 @@ Désormais, il suffit de formuler votre demande en langage naturel : "Compare le
 Idéal pour générer rapidement une formule complexe sans se prendre la tête.
 
 > **Rôle :** Tu es un expert avancé d'Excel.
->
-> **Tâche :** Rédige la formule Excel exacte pour obtenir `[Résultat souhaité]` à partir des données ci-dessous. Ne donne que la formule.
->
-> **Exemple de Données :**
->
-> - Colonne A : Nom / Colonne B : Score / Colonne C : Statut (Réussi/Échoué)
 
-<br>
+> **Tâche :** Rédige la formule Excel exacte pour obtenir `[Résultat souhaité]` à partir des données ci-dessous. Ne donne que la formule.
+
+> **Exemple de Données :**
+
+- Colonne A : Nom / Colonne B : Score / Colonne C : Statut (Réussi/Échoué)
+
+\
 
 ### 🥇 Version Pro (Automatisation VBA & Macros)
 

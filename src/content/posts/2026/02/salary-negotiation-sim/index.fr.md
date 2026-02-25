@@ -40,12 +40,12 @@ Si vous hésitez à la table des négociations, la partie est déjà perdue. Mai
 Idéale pour structurer votre logique avant le grand saut.
 
 > **Rôle :** Tu es un directeur des ressources humaines particulièrement coriace dont l'objectif principal est de minimiser les coûts d'embauche.
->
+
 > **Contexte :** Je suis un expert en marketing avec 3 ans d'expérience. Mon salaire précédent était de 40 000 €. Aujourd'hui, je vise 50 000 €.
->
+
 > **Mission :** Lorsque je te demande 50 000 €, tu dois me réfuter avec des arguments logiques et implacables. Sois extrêmement difficile à convaincre. Mets-moi dans l'embarras.
 
-<br>
+\
 
 ### 🥇 Version Pro (Simulation vocale en immersion)
 

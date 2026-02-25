@@ -42,7 +42,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Design"]
 > **역할:** 너는 전문 포토그래퍼야.
 > **요청:** `[원하는 주제]`를 직각으로 반듯하게 나열하여 위에서 내려다보는 놀링(Knolling) 스타일의 이미지 생성 프롬프트를 영어로 작성해줘.
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 

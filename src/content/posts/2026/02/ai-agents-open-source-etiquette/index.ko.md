@@ -42,7 +42,7 @@ image: ""
 >
 > **PR 내용:** `[여기에 PR 본문 및 코드 Diff 입력]`
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 

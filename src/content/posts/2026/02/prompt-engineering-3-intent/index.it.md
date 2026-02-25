@@ -18,7 +18,7 @@ title: " \"Prompt Engineering 3.0: L'Intenzione è Comando\""
 
 - **🎯 Consigliato per:** Marketer, Copywriter, Product Manager e chiunque interagisca quotidianamente con l'IA
 - **⏱️ Tempo richiesto:** 10 minuti → 10 secondi
-- **🤖 Modelli consigliati:** IA di ultima generazione e multimodali (GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro)
+- **🤖 Modelli consigliati:** IA di ultima generazione e multimodali (GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro)
 
 - ⭐ **Difficoltà:** ⭐☆☆☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -48,7 +48,7 @@ Il metodo classico: essenziale in passato, ma spesso eccessivamente verboso e ma
 > **Contesto:** Sto lanciando un nuovo brand di caffè freddo artigianale.
 > **Richiesta:** Scrivi una didascalia promozionale per Instagram. Usa emoji pertinenti, includi 5 hashtag di tendenza e mantieni un tono amichevole e persuasivo.
 
-<br>
+\
 
 ### 🥇 Approccio Moderno (Prompt 3.0)
 

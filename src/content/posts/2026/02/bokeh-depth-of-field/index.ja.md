@@ -43,7 +43,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Photography", "Effect"]
 > **Role（役割）:** あなたはプロのポートレート写真家です。
 > **Task（指示）:** 背景を美しくぼかして被写体を際立たせ、感性的な光の玉（Bokeh）を取り入れた写真のプロンプトを作成してください。
 
-<br>
+\
 
 ### 🥇 Pro Version（専門家形）
 

@@ -50,7 +50,7 @@ Wenn Sie die **Context Caching**-Funktion moderner APIs noch nicht nutzen, werfe
 >
 > _Pro-Tipp:_ Platzieren Sie statische Inhalte (Regeln, Beispiele) ganz oben im Prompt und dynamische Inhalte (User Query, aktueller Chat) ganz unten. Caching funktioniert basierend auf dem Prefix des Textes!
 
-<br>
+\
 
 ### 🥇 Pro Version (Die "Summarize-and-Forget"-Schleife)
 

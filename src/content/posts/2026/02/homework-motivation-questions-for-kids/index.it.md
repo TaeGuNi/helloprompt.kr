@@ -43,7 +43,7 @@ Usala quando hai bisogno di risultati rapidi senza troppi dettagli.
 > **Ruolo:** Sei un consulente esperto in psicologia dell'apprendimento infantile.
 > **Richiesta:** Forniscimi 3 tecniche di conversazione efficaci per far sedere mio figlio alla scrivania a studiare da solo, senza che io debba sgridarlo o costringerlo.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

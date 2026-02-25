@@ -42,7 +42,7 @@ Verwenden Sie diesen Prompt für eine schnelle, allgemeine Einschätzung.
 > **Rolle:** Du bist ein Experte für Schlafmedizin.
 > **Anfrage:** Ich kann nachts schlecht einschlafen. Bitte nenne mir 5 wissenschaftlich fundierte Tipps, um meine Schlafqualität heute Nacht zu verbessern.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Level)
 
@@ -71,7 +71,7 @@ Verwenden Sie diesen Prompt, um eine tiefgehende, personalisierte Analyse Ihrer 
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 Dieser Prompt nutzt die Prinzipien der **CBT-I (Cognitive Behavioral Therapy for Insomnia)**, der wissenschaftlich anerkanntesten Methode zur Behandlung von Schlafstörungen. Oft sind wir betriebsblind für unsere eigenen schlechten Gewohnheiten. Der späte Espresso nach dem Mittagessen oder das "nur noch kurz"-Scrollen auf Instagram scheinen harmlos, summieren sich aber dramatisch.
 
@@ -79,7 +79,7 @@ Indem Sie der KI Ihre ungeschönte Routine präsentieren, agiert sie als objekti
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q: Ersetzt diese KI-Analyse einen Arztbesuch?**
   - A: Absolut nicht. Dieser Prompt dient ausschließlich der Optimierung des Lebensstils (Schlafhygiene). Wenn Sie unter chronischer Schlaflosigkeit (länger als 3 Monate), Verdacht auf Schlafapnoe oder Schmerzen leiden, konsultieren Sie unbedingt einen echten Arzt.
@@ -92,7 +92,7 @@ Indem Sie der KI Ihre ungeschönte Routine präsentieren, agiert sie als objekti
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🧬 Why it works?
 
 1. **Spezifische Persona (CBT-I Experte):** Indem wir die KI nicht nur als "Arzt", sondern explizit als Experten für _kognitive Verhaltenstherapie bei Insomnie_ instruieren, erhalten wir verhaltensbasierte, psychologisch fundierte Ratschläge statt reiner medizinischer Fakten.
 2. **Datenbasierter Kontext:** Die Übergabe einer detaillierten Timeline (Wann Kaffee? Wann Smartphone?) ermöglicht es der KI, konkrete "Schlafkiller" mathematisch (z. B. Koffein-Halbwertszeit) und biologisch (Melatoninabbau) präzise zu berechnen.
@@ -100,7 +100,7 @@ Indem Sie der KI Ihre ungeschönte Routine präsentieren, agiert sie als objekti
 
 ---
 
-## 📊 증명: Before & After
+## 📊 Before & After
 
 ### ❌ Before (Schlechter Prompt)
 
@@ -121,7 +121,7 @@ Indem Sie der KI Ihre ungeschönte Routine präsentieren, agiert sie als objekti
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
 Ein gesunder Schlaf ist das absolute Fundament für einen produktiven und glücklichen Tag. Mit einer ehrlichen Bestandsaufnahme und der analytischen Kraft der KI können Sie Ihre Nächte wieder zu einer Zeit der echten, tiefen Erholung machen.
 

@@ -42,7 +42,7 @@ Usa questo prompt rapido quando hai bisogno di piccoli script senza doverti preo
 > **Ruolo:** Sei un Senior Software Engineer esperto.
 > **Richiesta:** Scrivi l'implementazione completa e funzionante per `[funzionalità]`. Non omettere alcuna parte del codice e non usare in nessun caso commenti segnaposto.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

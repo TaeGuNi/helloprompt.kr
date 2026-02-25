@@ -42,7 +42,7 @@ Verwenden Sie dies, wenn Sie einfach nur schnell ein funktionierendes Skript ben
 > **Rolle:** Du bist ein erfahrener Linux-Systemadministrator.
 > **Aufgabe:** Schreibe ein Bash-Skript, das `[hier Ihre Aufgabe eintragen, z.B. alle .log-Dateien im aktuellen Ordner löscht]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 
@@ -73,7 +73,7 @@ Verwenden Sie diesen Prompt für absolut sichere Skripte, die für den produktiv
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 Als Entwickler oder Admin googelt man oft stundenlang nach der perfekten Syntax für einen `awk`- oder `sed`-Befehl. Dieser Prompt ist ein Gamechanger, weil er nicht nur einen isolierten Befehl liefert, sondern ein _vollständiges, sicheres Skript_.
 
@@ -81,7 +81,7 @@ Das Wichtigste an diesem Prompt ist die explizite Anweisung für Fail-Fast-Mecha
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q: Kann ich das Skript direkt auf meinem Live-Server ausführen?**
   - A: Nein, führen Sie von der KI generierte Skripte _immer_ zuerst in einer sicheren Testumgebung (z.B. in einem Docker-Container oder einer lokalen VM) aus. Prüfen Sie den Code sorgfältig, bevor Sie ihn auf einem Produktionsserver einsetzen. Vertrauen ist gut, Kontrolle ist besser.
@@ -103,7 +103,7 @@ Das Wichtigste an diesem Prompt ist die explizite Anweisung für Fail-Fast-Mecha
 
 ### ❌ Before (Eingabeanforderung)
 
-> "Verschiebe alle JPG-Dateien im aktuellen Ordner in den Ordner images, ändere den Dateinamen in datum_originalname.jpg."
+"Verschiebe alle JPG-Dateien im aktuellen Ordner in den Ordner images, ändere den Dateinamen in datum_originalname.jpg."
 
 ### ✅ After (Ergebnis)
 

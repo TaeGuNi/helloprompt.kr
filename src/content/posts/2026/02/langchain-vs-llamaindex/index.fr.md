@@ -40,10 +40,10 @@ C'est le dilemme éternel des développeurs : le choix de l'outil. Lors de la cr
 Utilisez cette version pour comprendre rapidement et intuitivement les différences fondamentales entre les deux frameworks.
 
 > **Rôle :** Tu es un Consultant Technique doté de l'expertise d'un Ingénieur IA Senior.
-> 
+
 > **Tâche :** Compare clairement les 3 différences majeures entre LangChain et LlamaIndex. Explique spécifiquement quel framework est supérieur en termes de performances d'"Indexation de données (Indexing)" et de "Recherche (Retrieval)", en fournissant des raisons concrètes.
 
-<br>
+\
 
 ### 🥇 Version Pro
 

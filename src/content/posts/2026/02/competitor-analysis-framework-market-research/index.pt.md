@@ -42,7 +42,7 @@ Use esta versão para obter um panorama rápido quando o tempo for curto e a reu
 > **Papel:** Você é um Analista de Inteligência de Mercado.
 > **Solicitação:** Analise os concorrentes `[Concorrente A]` e `[Concorrente B]` no mercado de `[Seu Setor]`. Destaque seus principais pontos fortes, fraquezas e oportunidades de benchmarking em tópicos diretos.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert)
 
@@ -108,7 +108,7 @@ Na prática, recomendo rodar este prompt usando o **Perplexity AI** ou o **ChatG
 
 ### ❌ Antes (Entrada Simples)
 
-> Compare o Uber e o 99.
+Compare o Uber e o 99.
 
 _(O resultado costuma ser um texto longo, óbvio e inútil para negócios, como "Ambos são aplicativos de transporte... o Uber é americano, o 99 é brasileiro...")_
 

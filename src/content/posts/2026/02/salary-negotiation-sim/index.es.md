@@ -46,7 +46,7 @@ Ideal para estructurar y refinar tus argumentos lógicos antes de hablar.
 >
 > **Petición:** Cuando te pida los $50,000, refuta mi propuesta de forma lógica y contundente. Sé extremadamente crítico. Tu objetivo es dejarme sin argumentos.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta - Entrenamiento en Modo Voz)
 

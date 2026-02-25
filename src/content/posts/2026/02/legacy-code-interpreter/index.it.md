@@ -46,7 +46,7 @@ Usala quando hai poco tempo e ti serve solo capire a grandi linee cosa fa una fu
 >
 > `[Incolla il tuo codice qui]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 
@@ -95,7 +95,7 @@ Nella mia esperienza, l'aggiunta della sezione **Gestione dei Rischi** è il ver
   - A: Assolutamente sì. Modelli avanzati come GPT-4o, Claude 3.5 Sonnet o Gemini 2.5 Pro conoscono virtualmente tutti i linguaggi (da Cobol, Fortran, C++, fino a framework moderni o persino linguaggi proprietari di nicchia se la logica è deducibile).
 
 - **Q: Cosa faccio se il file è troppo lungo e supera il limite di token dell'IA?**
-  - A: Ottima domanda. Il consiglio è di procedere per "moduli" o singole funzioni. Isola il frammento di codice più critico (ad esempio, il blocco `while` più annidato o la funzione principale che orchestra il flusso) e analizza quello. Se usi modelli con context window molto ampie (come Gemini 1.5 Pro o superiore), puoi caricare file molto più grandi senza problemi.
+  - A: Ottima domanda. Il consiglio è di procedere per "moduli" o singole funzioni. Isola il frammento di codice più critico (ad esempio, il blocco `while` più annidato o la funzione principale che orchestra il flusso) e analizza quello. Se usi modelli con context window molto ampie (come Gemini 2.5 Pro o superiore), puoi caricare file molto più grandi senza problemi.
 
 - **Q: Posso fidarmi ciecamente delle "Precauzioni" segnalate dall'IA?**
   - A: L'IA è un eccellente co-pilota, ma il pilota resti tu. Usa le precauzioni come una checklist per i tuoi Unit Test. Se l'IA ti avverte di un possibile _overflow_, scrivi un test per verificare esattamente quello scenario.

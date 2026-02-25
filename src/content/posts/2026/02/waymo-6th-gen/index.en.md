@@ -42,7 +42,7 @@ Use this when you need a fast, straightforward summary of a technical press rele
 > **Role:** You are an expert tech journalist.
 > **Task:** Summarize the following `[Tech Press Release]` into a short, easy-to-read news snippet. Highlight the top 3 key features using bullet points.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

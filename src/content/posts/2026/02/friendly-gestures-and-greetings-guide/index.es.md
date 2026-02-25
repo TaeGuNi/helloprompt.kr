@@ -42,7 +42,7 @@ Un simple pulgar hacia arriba, que para muchos significa 'excelente', puede ser 
 > **Rol:** Eres un experto en comunicación intercultural.
 > **Solicitud:** Voy a viajar a `[País]`. Dime cuáles son los gestos con las manos que debo evitar para no ofender a nadie y enséñame 3 saludos básicos que a los locales les encante escuchar.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Nivel Consultor)
 
@@ -103,7 +103,7 @@ Este prompt actúa como un "escudo cultural". Te recomiendo ejecutarlo mientras 
 
 ### ❌ Antes (Entrada simple)
 
-> Dime saludos y gestos de Francia.
+Dime saludos y gestos de Francia.
 
 _(Resultado: Una lista genérica de "Bonjour", "Merci" y una mención vaga a que en Francia se dan besos, sin explicar cómo ni cuántos, dejándote a la deriva en una situación real)._
 

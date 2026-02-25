@@ -42,7 +42,7 @@ Use esta versão quando estiver sem tempo e precisar apenas de um direcionamento
 > **Papel:** Você é um ensaísta focado no mundo interior e um entrevistador acolhedor.
 > **Solicitação:** Faça-me perguntas reflexivas sobre o meu dia para que eu não trave diante da página em branco, e transforme minhas respostas em um diário de gratidão curto.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

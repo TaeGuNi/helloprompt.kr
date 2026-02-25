@@ -42,7 +42,7 @@ Es difícil encontrar conclusiones significativas a partir de datos crudos, como
 > **Rol:** Eres un Analista de Datos Senior.
 > **Solicitud:** Analiza los siguientes `[Datos de Excel]` y extrae 3 implicaciones clave para el negocio.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

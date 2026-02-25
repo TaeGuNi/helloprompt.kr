@@ -13,7 +13,7 @@ tags: ["태그1", "태그2"]
 
 - **🎯 Recomendado para:** Desarrolladores Junior, Científicos de Datos, Estudiantes de Python
 - **⏱️ Tiempo estimado:** De 1 hora → a 10 segundos
-- **🤖 Modelos recomendados:** GPT-4, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modelos recomendados:** GPT-4, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Dificultad:** ⭐☆☆☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -44,7 +44,7 @@ Todos los desarrolladores de Python conocen el dolor de buscar un error tipográ
 > **Código:** `[Inserta tu código aquí]`
 > **Error:** `[Inserta el mensaje de error aquí]`
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

@@ -44,7 +44,7 @@ Use this when you don't need a complex breakdown and just want a quick confirmat
 > **(After uploading your photo)**
 > **Task:** Based on the skin tone, hair color, and eye color of the person in the uploaded photo, analyze their personal color (Spring/Summer/Autumn/Winter). Explain the visual evidence that led to this conclusion in detail.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

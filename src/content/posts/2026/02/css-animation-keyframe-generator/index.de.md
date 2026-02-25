@@ -42,7 +42,7 @@ Nutzen Sie diesen Prompt, wenn Sie schnell einen Code für einfache Bewegungsabl
 > **Rolle:** Du bist ein `[Frontend UI-Entwickler]`.
 > **Aufgabe:** Schreibe den CSS-Keyframe-Code für eine `[Benachrichtigung, die sanft von oben rechts in den Bildschirm gleitet]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenmodus)
 

@@ -13,7 +13,7 @@ tags: [Git, Github, Collaboration, Productivity, AI]
 
 - **🎯 추천 대상:** 시니어 개발자, 테크 리드, 코드 리뷰에 지친 모든 개발자
 - **⏱️ 소요 시간:** 1시간 → 3분 단축
-- **🤖 추천 모델:** Claude 3.5 Sonnet, Gemini 1.5 Pro, GPT-4o
+- **🤖 추천 모델:** Claude 3.5 Sonnet, Gemini 2.5 Pro, GPT-4o
 
 - ⭐ **난이도:** ⭐☆☆☆☆
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
@@ -47,7 +47,7 @@ tags: [Git, Github, Collaboration, Productivity, AI]
 > **[Git Diff 데이터]**
 > `[여기에 git diff 결과나 PR 설명을 붙여넣으세요]`
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 
@@ -94,7 +94,7 @@ Github Copilot Enterprise 같은 상용 도구가 없더라도, 이 방식만으
 ## 🙋 자주 묻는 질문 (FAQ)
 
 - **Q: Diff 텍스트가 너무 길어서 AI가 입력을 거부하면 어떡하나요?**
-  - A: 최근 출시된 Claude 3.5 Sonnet이나 Gemini 1.5 Pro 모델은 매우 큰 컨텍스트 윈도우(Context Window)를 지원하여 수만 줄의 코드도 거뜬히 소화합니다. 그럼에도 제한에 걸린다면, `git diff --stat`으로 파일 목록만 먼저 요약하거나, 핵심 도메인 로직 파일의 변경분만 추려서 분석을 요청하세요.
+  - A: 최근 출시된 Claude 3.5 Sonnet이나 Gemini 2.5 Pro 모델은 매우 큰 컨텍스트 윈도우(Context Window)를 지원하여 수만 줄의 코드도 거뜬히 소화합니다. 그럼에도 제한에 걸린다면, `git diff --stat`으로 파일 목록만 먼저 요약하거나, 핵심 도메인 로직 파일의 변경분만 추려서 분석을 요청하세요.
 
 - **Q: 회사 내부 비공개 코드를 AI에게 올려도 안전한가요?**
   - A: **매우 주의해야 합니다.** 사내 코드는 기업의 핵심 자산입니다. 퍼블릭 ChatGPT나 Claude를 사용할 때는 반드시 설정에서 "데이터 학습 모델 사용 안 함(Data Opt-out)" 처리가 되어 있는지 확인하세요. 가장 안전한 방법은 기업용 엔터프라이즈 플랜(데이터 학습 제외 보장)을 사용하거나, 사내에 구축된 로컬 LLM(Ollama 등)을 활용하는 것입니다.

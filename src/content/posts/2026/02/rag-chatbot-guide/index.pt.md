@@ -44,7 +44,7 @@ Utilize esta versão para entender rapidamente a estrutura geral do RAG e seus c
 > **Prompt:**
 > Quero criar um chatbot interno que responda com precisão às perguntas dos funcionários com base em 100 documentos PDF internos. Supondo que usaremos o LangChain como framework, explique o fluxo de dados (Data Flow) passo a passo, de forma que até um iniciante absoluto possa entender. Além disso, recomende um banco de dados vetorial (Vector DB) gratuito, ideal para um projeto de estudo.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Profissional)
 

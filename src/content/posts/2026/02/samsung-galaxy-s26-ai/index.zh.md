@@ -9,7 +9,7 @@ cover: "./cover.jpg"
 
 - **🎯 推荐对象:** 科技产品营销人员、广告文案策划、品牌经理
 - **⏱️ 所需时间:** 2小时 → 3分钟
-- **🤖 推荐模型:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 推荐模型:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **难度:** ⭐⭐☆☆☆
 - ⚡️ **效果:** ⭐⭐⭐⭐⭐
@@ -38,7 +38,7 @@ cover: "./cover.jpg"
 > **角色:** 你是一位资深的科技品牌营销专家。
 > **任务:** 为即将发布的搭载 Exynos 2600 的 Galaxy S26 设计一个 15 秒的裸眼 3D 广告牌视觉概念，重点突出其 Galaxy AI 功能。
 
-<br>
+\
 
 ### 🥇 专业版 (Pro Version)
 

@@ -44,7 +44,7 @@ Perfekt für Daily Scrums oder informelle Meetings, bei denen Sie schnell die wi
 >
 > [Meeting-Notizen hier einfügen]
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 
@@ -90,7 +90,7 @@ In meiner Praxis kopiere ich einfach das Rohtranskript (z.B. von Clova Note oder
 ## 🙋 Häufig gestellte Fragen (FAQ)
 
 - **F: Kann die KI auch Transkripte von Meetings verarbeiten, die länger als eine Stunde dauern?**
-  - A: Ja. Die meisten aktuellen Modelle (wie Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro) bieten ein enormes Kontextfenster und können solche Textmengen problemlos am Stück verarbeiten. Um jedoch absolute Höchstqualität zu erreichen, empfiehlt es sich, extrem lange Transkripte in 2 bis 3 Themenblöcke (Agendapunkte) aufzuteilen. Das reduziert Halluzinationen drastisch und liefert präzisere Ergebnisse.
+  - A: Ja. Die meisten aktuellen Modelle (wie Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro) bieten ein enormes Kontextfenster und können solche Textmengen problemlos am Stück verarbeiten. Um jedoch absolute Höchstqualität zu erreichen, empfiehlt es sich, extrem lange Transkripte in 2 bis 3 Themenblöcke (Agendapunkte) aufzuteilen. Das reduziert Halluzinationen drastisch und liefert präzisere Ergebnisse.
 
 - **F: Wegen der Sicherheitsrichtlinien unseres Unternehmens zögere ich, interne Meetings an eine KI weiterzugeben.**
   - A: Ein sehr wichtiger Punkt! Wenn das Meeting vertrauliche Daten enthält, sollten Sie Eigennamen oder konkrete Zahlen vorab anonymisieren (z.B. 'Firma A', 'Projekt X', '10 Millionen'). Für maximale Datensicherheit sollten Sie ausschließlich Enterprise-Umgebungen nutzen, bei denen vertraglich zugesichert ist, dass Ihre Eingaben nicht für das Training der Modelle verwendet werden.

@@ -42,7 +42,7 @@ Use this when you need a quick, generic retro graphic.
 > **Role:** You are a veteran pixel artist from the 90s.
 > **Request:** Create an 8-bit pixel art illustration of a [subject], focusing on flat colors and distinct, clean pixels without any blurry filters.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

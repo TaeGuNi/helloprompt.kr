@@ -42,7 +42,7 @@ Use this when you just need a quick, straightforward framework.
 > **Role:** You are a Behavioral Psychologist and Habit Formation Expert.
 > **Task:** Create a fail-proof habit formation system based on brain science that doesn't rely on willpower to achieve `[your goal]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

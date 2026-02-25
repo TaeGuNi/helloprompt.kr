@@ -13,7 +13,7 @@ tags: ["유튜브", "요약", "ChatGPT", "생산성", "공부"]
 
 - **🎯 Empfohlen für:** Moderne Menschen, denen selbst die doppelte Wiedergabegeschwindigkeit zu langsam ist; Berufstätige und Studierende, die ohne Clickbait-Fallen direkt zum Kern der Information vordringen wollen.
 - **⏱️ Zeitaufwand:** 20 Minuten Videozeit → Reduziert auf nur 10 Sekunden.
-- **🤖 Empfohlene Modelle:** ChatGPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro (Fähigkeit zur Verarbeitung großer Kontexte ist zwingend erforderlich).
+- **🤖 Empfohlene Modelle:** ChatGPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro (Fähigkeit zur Verarbeitung großer Kontexte ist zwingend erforderlich).
 
 - ⭐ **Schwierigkeitsgrad:** ⭐☆☆☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -44,7 +44,7 @@ Ideal für unterwegs oder um schnell zu prüfen, ob ein Video überhaupt sehensw
 > **Rolle:** Du bist ein Experte für schnelle und präzise Content-Zusammenfassungen.
 > **Aufgabe:** Der folgende Text ist ein YouTube-Transkript. Ignoriere irrelevantes Geplauder und fasse das Hauptthema sowie das wichtigste Fazit dieses Videos in exakt 3 klaren Sätzen zusammen.
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -93,7 +93,7 @@ Bist du am PC, empfehle ich dir dringend die kostenlose Chrome-Erweiterung **'Yo
   - A: Die automatische Untertitelung von YouTube ist mittlerweile so fortschrittlich, dass fast jedes Video ein Transkript besitzt. Sollte es wirklich keines geben, kannst du die Audiospur herunterladen und ein Speech-to-Text (STT) Tool wie OpenAIs Whisper API nutzen, um vorher ein Transkript zu generieren.
 
 - **Q: Kann ich das gesamte Transkript eines über einstündigen Videos einfügen, ohne dass die KI abstürzt?**
-  - A: Moderne Modelle wie GPT-4o, Claude 3.5 Sonnet und Gemini 1.5 Pro verfügen über ein enormes Kontextfenster (Context Window) und verarbeiten problemlos Textmengen von 1–2 Stunden Videomaterial. Nutzt du jedoch ein älteres Modell (wie GPT-3.5), solltest du den Text in zwei Hälften aufteilen, da er sonst abgeschnitten werden könnte.
+  - A: Moderne Modelle wie GPT-4o, Claude 3.5 Sonnet und Gemini 2.5 Pro verfügen über ein enormes Kontextfenster (Context Window) und verarbeiten problemlos Textmengen von 1–2 Stunden Videomaterial. Nutzt du jedoch ein älteres Modell (wie GPT-3.5), solltest du den Text in zwei Hälften aufteilen, da er sonst abgeschnitten werden könnte.
 
 - **Q: Beim Kopieren des Transkripts werden die Zeitstempel mitkopiert. Muss ich diese vorher löschen?**
   - A: Nein, überhaupt nicht! Füge alles genau so ein, wie du es kopiert hast. Die KI nutzt diese Zeitstempel sogar intelligent, um die Kapitel sauber zu trennen und präzise Verweise auf bestimmte Stellen im Video zu erstellen.

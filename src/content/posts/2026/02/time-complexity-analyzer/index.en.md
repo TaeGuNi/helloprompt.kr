@@ -51,7 +51,7 @@ Use this when you just need a rapid assessment of a small snippet.
 > **Role:** You are a Senior Principal Engineer and Algorithm Expert.
 > **Task:** Analyze the time and space complexity of the provided code and suggest performance improvements.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Review)
 

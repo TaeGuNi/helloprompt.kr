@@ -49,7 +49,7 @@ Use this when you need a quick, accurate formula without the headache.
 > - Column B: `[Performance Score]`
 > - Column C: `[Pass/Fail Status]`
 
-<br>
+\
 
 ### 🥇 Pro Version (VBA Automation Specialist)
 

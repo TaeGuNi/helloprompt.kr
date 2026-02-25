@@ -42,7 +42,7 @@ Verwenden Sie diesen Prompt, wenn Sie schnelle, sofort einsetzbare Ergebnisse oh
 > **Rolle:** Du bist ein kreativer Sport- und Erlebnispädagoge für Kinder im Vorschulalter.
 > **Anfrage:** Erstelle mir 5 lustige und leicht verrückte 'Simon sagt'-Missionen, um die Konzentration und Körperbeherrschung meines Kindes zu trainieren.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 

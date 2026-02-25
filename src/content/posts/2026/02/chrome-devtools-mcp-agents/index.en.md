@@ -40,7 +40,7 @@ Use this when you need a quick console check or a simple DOM inspection.
 > **Role:** You are an expert Web Debugger.
 > **Task:** Connect to the active Chrome tab using the DevTools MCP and retrieve the latest console errors related to `[Framework/Library Name]`. Explain the root cause and provide a fix.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

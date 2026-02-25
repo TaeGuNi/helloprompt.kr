@@ -42,7 +42,7 @@ Ideal para uma avaliação rápida e direta dos seus hábitos quando você não 
 > **Papel:** Você é um Especialista em Medicina do Sono.
 > **Solicitação:** Analise minha rotina diária atual `[inserir rotina]` e identifique os 3 principais fatores que estão arruinando meu sono, sugerindo mudanças práticas imediatas.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert Version)
 
@@ -99,7 +99,7 @@ A insônia raramente é um problema isolado; ela é um sintoma cumulativo das pe
 
 ### ❌ Antes (Entrada Simples)
 
-> "Estou com insônia. Como faço para dormir melhor?"
+"Estou com insônia. Como faço para dormir melhor?"
 
 _(A IA responde com uma lista genérica e óbvia: beba chá de camomila, evite telas, leia um livro, tente relaxar. Zero personalização ou análise de causa.)_
 

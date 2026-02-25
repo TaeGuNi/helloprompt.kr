@@ -42,7 +42,7 @@ Verwenden Sie dies, wenn Sie schnell ein eindrucksvolles Bild ohne großen Aufwa
 > **Rolle:** Du bist ein professioneller Fotograf und KI-Künstler.
 > **Aufgabe:** Erstelle einen englischen Prompt für `[ein futuristisches Auto im Regen]`. Hänge am Ende zwingend die Phrasen "Cinematic lighting, volumetric lighting, 8k resolution" an.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 

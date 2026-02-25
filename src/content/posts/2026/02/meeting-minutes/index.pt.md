@@ -13,7 +13,7 @@ tags: ["reunião", "resumo", "produtividade"]
 
 - **🎯 Recomendado para:** Gerentes de projeto, Assistentes executivos, Qualquer pessoa cansada de documentar reuniões
 - **⏱️ Tempo economizado:** 60 minutos → 1 minuto
-- **🤖 Modelos recomendados:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (Excelentes com contextos longos)
+- **🤖 Modelos recomendados:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (Excelentes com contextos longos)
 
 - ⭐ **Dificuldade:** ⭐☆☆☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -41,10 +41,10 @@ Use esta versão quando precisar apenas de um resumo rápido e direto para alinh
 
 > **Papel:** Você é um `[Assistente Executivo Sênior]`.
 > **Tarefa:** Resuma a seguinte transcrição de reunião. Destaque as principais decisões e os próximos passos de forma clara.
->
+
 > **Transcrição:** `[Cole o texto da transcrição aqui]`
 
-<br>
+\
 
 ### 🥇 Versão Pro (Qualidade Executiva)
 
@@ -85,14 +85,14 @@ Use esta versão para extrair o máximo de precisão, ideal para reuniões de di
 
 Como alguém que costumava passar as sextas-feiras inteiras revisando gravações de reuniões do Zoom, este prompt mudou a minha vida. A chave do sucesso da versão **Pro** está na instrução: _"Se um responsável ou prazo não for mencionado, escreva explicitamente 'A definir'"_.
 
-Frequentemente, as IAs sofrem de _alucinação_ e tentam preencher as lacunas para parecerem prestativas, atribuindo tarefas às pessoas erradas. Ao forçar a IA a ser rigorosamente honesta sobre o que não foi estabelecido, você evita problemas de comunicação graves e pode cobrar sua equipe com base no que realmente foi acordado. Para reuniões de mais de uma hora, recomendo fortemente o uso do Claude 3.5 Sonnet ou Gemini 1.5 Pro, devido à sua excelente capacidade de reter contexto sem esquecer o meio da transcrição.
+Frequentemente, as IAs sofrem de _alucinação_ e tentam preencher as lacunas para parecerem prestativas, atribuindo tarefas às pessoas erradas. Ao forçar a IA a ser rigorosamente honesta sobre o que não foi estabelecido, você evita problemas de comunicação graves e pode cobrar sua equipe com base no que realmente foi acordado. Para reuniões de mais de uma hora, recomendo fortemente o uso do Claude 3.5 Sonnet ou Gemini 2.5 Pro, devido à sua excelente capacidade de reter contexto sem esquecer o meio da transcrição.
 
 ---
 
 ## 🙋 Perguntas Frequentes (FAQ)
 
 - **P: Posso enviar o arquivo de áudio diretamente para a IA?**
-  - A: Modelos modernos como Gemini 1.5 Pro e as versões pagas do ChatGPT aceitam áudio diretamente. No entanto, para maior precisão (especialmente para identificar _quem_ falou o quê), o melhor fluxo é usar a transcrição nativa do Teams, Google Meet ou Zoom, e então colar o texto gerado no prompt.
+  - A: Modelos modernos como Gemini 2.5 Pro e as versões pagas do ChatGPT aceitam áudio diretamente. No entanto, para maior precisão (especialmente para identificar _quem_ falou o quê), o melhor fluxo é usar a transcrição nativa do Teams, Google Meet ou Zoom, e então colar o texto gerado no prompt.
 
 - **P: E se a reunião foi caótica e as pessoas falaram ao mesmo tempo?**
   - A: O modelo Pro lida surpreendentemente bem com a desordem, pois foca em extrair as _decisões_ e não em criar um roteiro cronológico perfeito.

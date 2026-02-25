@@ -43,7 +43,7 @@ Use this when you want a quick, casual drink without overthinking it.
 > **Context:** I have Soju, Sprite, and orange juice in my fridge.
 > **Task:** Give me a home cocktail recipe using these ingredients that is light, sweet, and easy to drink. Provide the exact mixing ratios (e.g., using a standard Soju shot glass as a measurement).
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -102,17 +102,17 @@ Furthermore, if you don't impose the strict constraint to `'DO NOT use ingredien
 
 ### ❌ Before (The Disaster Drink)
 
-> Eyeballing leftover whiskey and juice, mixing them haphazardly.
+Eyeballing leftover whiskey and juice, mixing them haphazardly.
 > **Result:** "Ugh, this is watered down and tastes like cough syrup." (Ends up pouring it down the sink, leaving nothing but a hangover 🤕)
 
 ### ✅ After (The AI Mixologist's Prescription)
 
 > **AI:** "I present your signature cocktail, the **[Midnight Oasis]**."
->
-> - **Ratio:** 1 shot of Whiskey + 2 shots of Orange Juice + 1 shot of Ginger Ale.
-> - **Method:** Fill a glass with ice, pour in the whiskey and juice, and gently stir 5 times with a chopstick. Finally, slowly top it off with ginger ale to preserve the carbonation.
-> - **Story:** A sweet oasis discovered at the end of a grueling, desert-like day. Here's to surviving today.
->
+
+- **Ratio:** 1 shot of Whiskey + 2 shots of Orange Juice + 1 shot of Ginger Ale.
+- **Method:** Fill a glass with ice, pour in the whiskey and juice, and gently stir 5 times with a chopstick. Finally, slowly top it off with ginger ale to preserve the carbonation.
+- **Story:** A sweet oasis discovered at the end of a grueling, desert-like day. Here's to surviving today.
+
 > **Result:** "Wow, this tastes better than what they sell at the bar!" (Perfect balance and immaculate vibes 🍹)
 
 ---

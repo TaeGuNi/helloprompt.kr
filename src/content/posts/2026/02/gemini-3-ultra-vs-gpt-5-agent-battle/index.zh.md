@@ -51,7 +51,7 @@ tags: ["Gemini 3 Ultra", "GPT-5", "AI Agent", "LLM Comparison"]
 > **角色：** 你是一位`[资深AI开发者]`。
 > **任务：** 请为我规划一个`[自动驾驶股票投资Agent]`，并编写能够直接运行的完整Python代码。
 
-<br>
+\
 
 ### 🥇 Pro Version (专业版)
 
@@ -60,51 +60,51 @@ tags: ["Gemini 3 Ultra", "GPT-5", "AI Agent", "LLM Comparison"]
 #### Step 1. 让 Gemini 3 Ultra 负责规划 (利用 Deep Think)
 
 > **角色 (Role)：** 你是一位拥有15年经验的`[资深AI解决方案架构师]`。
->
+
 > **背景 (Context)：**
->
-> - 现状：我计划开发一个融合GPT-5编码能力与Gemini 3 Ultra推理能力的混合架构Agent。
-> - 目标：设计一个能够完美防御边缘情况（Edge Cases）的系统架构。
->
+
+- 现状：我计划开发一个融合GPT-5编码能力与Gemini 3 Ultra推理能力的混合架构Agent。
+- 目标：设计一个能够完美防御边缘情况（Edge Cases）的系统架构。
+
 > **任务 (Task)：**
->
-> 1. **深度分析 (Deep Analysis)：** 评估`[自动驾驶股票投资Agent]`创意的技术可行性，并至少识别出3个潜在的风险因素（Risk Factors）。
-> 2. **架构设计 (Architecture Design)：** 设计包含数据管道、AI模型调用以及外部API集成的完整系统架构。
-> 3. **提示词策略 (Prompt Strategy)：** 为该Agent的内部运行机制（如Few-shot、Chain-of-Thought等）提供提示词策略建议。
->
+
+1. **深度分析 (Deep Analysis)：** 评估`[自动驾驶股票投资Agent]`创意的技术可行性，并至少识别出3个潜在的风险因素（Risk Factors）。
+2. **架构设计 (Architecture Design)：** 设计包含数据管道、AI模型调用以及外部API集成的完整系统架构。
+3. **提示词策略 (Prompt Strategy)：** 为该Agent的内部运行机制（如Few-shot、Chain-of-Thought等）提供提示词策略建议。
+
 > **约束条件 (Constraints)：**
->
-> - 必须以清晰的Markdown列表格式输出。
-> - 必须明确指出预期的API成本及速率限制（Rate Limit）风险。
->
+
+- 必须以清晰的Markdown列表格式输出。
+- 必须明确指出预期的API成本及速率限制（Rate Limit）风险。
+
 > **注意事项 (Warning)：**
->
-> - 充分激活Gemini 3 Ultra的Deep Think模式，挖掘表面需求下隐藏的逻辑缺陷。禁止提供泛泛而谈的废话。
+
+- 充分激活Gemini 3 Ultra的Deep Think模式，挖掘表面需求下隐藏的逻辑缺陷。禁止提供泛泛而谈的废话。
 
 #### Step 2. 让 GPT-5 负责编码 (确保 Zero-shot 执行力)
 
 > **角色 (Role)：** 你是一位前Google核心团队的`[资深Python开发工程师]`。
->
+
 > **背景 (Context)：**
->
-> - 现状：我已经准备好了一份由专业架构师撰写的完美技术说明书。
-> - 目标：实现可以直接部署到生产环境（Production-Ready）的Python代码。
->
+
+- 现状：我已经准备好了一份由专业架构师撰写的完美技术说明书。
+- 目标：实现可以直接部署到生产环境（Production-Ready）的Python代码。
+
 > **任务 (Task)：**
->
-> 1. 根据以下`[Gemini生成的技术说明书内容]`，编写无懈可击的Python代码。
-> 2. **环境配置 (Environment Setup)：** 提供详细的依赖库清单（`requirements.txt`）。
-> 3. **核心逻辑 (Core Logic)：** 编写实现架构设计的核心类（`class Agent`）。
-> 4. **异常处理 (Error Handling)：** 增加针对API调用失败、网络抖动等情况的鲁棒性防御逻辑。
->
+
+1. 根据以下`[Gemini生成的技术说明书内容]`，编写无懈可击的Python代码。
+2. **环境配置 (Environment Setup)：** 提供详细的依赖库清单（`requirements.txt`）。
+3. **核心逻辑 (Core Logic)：** 编写实现架构设计的核心类（`class Agent`）。
+4. **异常处理 (Error Handling)：** 增加针对API调用失败、网络抖动等情况的鲁棒性防御逻辑。
+
 > **约束条件 (Constraints)：**
->
-> - 代码必须高度模块化，并严格遵守PEP 8代码风格指南。
-> - 所有函数必须包含详尽的文档字符串（Docstring）。
->
+
+- 代码必须高度模块化，并严格遵守PEP 8代码风格指南。
+- 所有函数必须包含详尽的文档字符串（Docstring）。
+
 > **注意事项 (Warning)：**
->
-> - 绝不允许凭空捏造不存在的第三方库。代码必须保证一次性成功运行，不得出现语法或逻辑错误。
+
+- 绝不允许凭空捏造不存在的第三方库。代码必须保证一次性成功运行，不得出现语法或逻辑错误。
 
 ---
 

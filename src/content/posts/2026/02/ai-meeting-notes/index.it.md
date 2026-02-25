@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "ai-meeting-notes"]
 
 - **🎯 Consigliato per:** Project Manager, Scrum Master, Assistenti Esecutivi, Professionisti e Freelance
 - **⏱️ Tempo risparmiato:** Da 45 minuti → a 2 minuti
-- **🤖 Modelli consigliati:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modelli consigliati:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Difficoltà:** ⭐⭐☆☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -40,7 +40,7 @@ Usala quando hai bisogno di un riassunto veloce e non hai tempo per i dettagli.
 > **Compito:** Riassumi i seguenti appunti della riunione. Estrai i punti chiave e le azioni da intraprendere.
 > **Appunti:** `[INSERISCI QUI GLI APPUNTI O LA TRASCRIZIONE]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Avanzata)
 
@@ -94,7 +94,7 @@ Il segreto del successo qui è la direttiva "Ignora le conversazioni fuori tema"
   - A: Nessun problema. I modelli linguistici avanzati (come GPT-4o) sono eccellenti nel dedurre il contesto e correggere gli errori di trascrizione "al volo" mentre redigono il verbale.
 
 - **Q: Quanto può essere lunga la trascrizione che inserisco?**
-  - A: Dipende dal modello (Context Window). Claude 3.5 Sonnet e Gemini 1.5 Pro possono gestire agevolmente trascrizioni di riunioni lunghe diverse ore senza perdere alcun dettaglio.
+  - A: Dipende dal modello (Context Window). Claude 3.5 Sonnet e Gemini 2.5 Pro possono gestire agevolmente trascrizioni di riunioni lunghe diverse ore senza perdere alcun dettaglio.
 
 ---
 

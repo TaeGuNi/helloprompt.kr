@@ -42,7 +42,7 @@ Nutzen Sie diesen Prompt, wenn Sie sofort einen einfachen Routine-Plan benötige
 > **Rolle:** Du bist ein erfahrener Produktivitäts-Coach und Experte für den "Miracle Morning".
 > **Aufgabe:** Erstelle mir einen einfachen, motivierenden Plan, um ab morgen um 4 Uhr aufzuwachen und die ersten zwei Stunden optimal für `[Mein Hauptziel, z.B. ein Buch schreiben]` zu nutzen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten)
 

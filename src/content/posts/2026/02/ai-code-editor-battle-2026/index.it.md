@@ -70,10 +70,10 @@ Le prestazioni di un Editor AI dipendono in definitiva da **come lo sviluppatore
 Questo è il prompt di base ideale per richiedere l'implementazione di funzionalità semplici o la correzione di bug. Incollalo direttamente nella finestra `Cmd+K` di Cursor.
 
 > **Ruolo:** Sei uno sviluppatore frontend Senior con 10 anni di esperienza.
->
+
 > **Task:** Nel file attualmente aperto `[nome_file]`, risolvi `[situazione_problematica_o_funzionalità_da_aggiungere]`. Assicurati di scrivere il codice rispettando rigorosamente i controlli di tipo di TypeScript e le convenzioni di Tailwind CSS.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Per Architetti & Refactoring)
 

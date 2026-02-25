@@ -40,7 +40,7 @@ Utiliza este prompt para tareas cotidianas donde necesitas un extra de fiabilida
 > **Rol:** Eres un Agente Autónomo de Planificación y Ejecución.
 > **Instrucción:** Para resolver el `[Problema o Tarea]`, no me des la respuesta inmediatamente. Primero, escribe un plan paso a paso. Segundo, ejecuta cada paso. Tercero, revisa tu propio trabajo buscando errores lógicos. Finalmente, entrégame solo la versión mejorada y final.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Arquitecto de IA)
 

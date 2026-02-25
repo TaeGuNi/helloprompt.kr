@@ -42,7 +42,7 @@ Utilisez-le immédiatement, sans configuration complexe, lorsque vous passez une
 > **Rôle :** Tu es un expert en méditation pour le sommeil.
 > **Tâche :** J'ai un événement important demain, mais je n'arrive pas à dormir et je me sens anxieux(se). Rédige-moi un script de méditation de 5 minutes utilisant la technique du "Balayage Corporel (Body Scan)" pour m'aider à relâcher complètement les tensions de mon corps et à sombrer dans un sommeil profond. Mets l'accent sur la sensation de relaxation très lente, des orteils jusqu'au sommet de la tête.
 
-<br>
+\
 
 ### 🥇 Pro Version (Soins Émotionnels Personnalisés)
 

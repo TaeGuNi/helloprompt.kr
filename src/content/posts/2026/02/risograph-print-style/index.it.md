@@ -42,7 +42,7 @@ Usala quando hai bisogno di un'immagine rapida e d'effetto senza troppi tecnicis
 > **Ruolo:** Sei un esperto di digital art e stampa vintage.
 > **Richiesta:** Genera un'illustrazione in stile Risograph. Soggetto: `[IL TUO SOGGETTO]`. Assicurati di includere colori neon limitati, texture sgranata e leggeri disallineamenti di stampa.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 
@@ -102,13 +102,13 @@ Il segreto per un Risograph convincente generato dall'IA risiede nelle "imperfez
 
 ### ❌ Before (Input)
 
-> Illustrazione di una ragazza con le cuffie.
+Illustrazione di una ragazza con le cuffie.
 
 _(Risultato: Un'illustrazione digitale standard, fin troppo pulita, senza carattere e dall'aspetto eccessivamente generico.)_
 
 ### ✅ After (Risultato)
 
-> Risograph print style, a girl listening to music with headphones, limited color palette neon pink and cyan, halftone dots, grain texture, color misalignment, overprinting --ar 3:4 --v 6.0
+Risograph print style, a girl listening to music with headphones, limited color palette neon pink and cyan, halftone dots, grain texture, color misalignment, overprinting --ar 3:4 --v 6.0
 
 _(Risultato: Un poster artistico ruvido ma stiloso, dove l'inchiostro rosa fluorescente e il ciano si sovrappongono in modo imperfetto, mostrando chiaramente i puntini della mezzatinta.)_
 

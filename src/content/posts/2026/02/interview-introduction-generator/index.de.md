@@ -54,7 +54,7 @@ Verwenden Sie diese Version, wenn Sie Ihre Leidenschaft und Ihr Potenzial für d
 > 2. Vermeide abstrakte Ausdrücke (Fleiß, Anstrengung etc.) und erzähle stattdessen eine konkrete, greifbare Episode.
 > 3. Schreibe in kurzen, prägnanten Sätzen und einem natürlichen, gesprochenen Tonfall (Umgangssprache), damit es flüssig klingt.
 
-<br>
+\
 
 ### 🥇 Pro-Version (Für Berufserfahrene & Jobwechsel)
 

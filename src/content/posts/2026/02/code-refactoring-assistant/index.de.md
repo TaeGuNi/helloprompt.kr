@@ -44,7 +44,7 @@ Verwende diese Version, wenn du nur schnell eine unübersichtliche Funktion aufr
 >
 > `[Dein Code hier]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Für tiefgreifendes Refactoring)
 

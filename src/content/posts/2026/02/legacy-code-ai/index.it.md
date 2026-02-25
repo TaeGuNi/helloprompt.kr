@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "legacy-code-ai"]
 
 - **🎯 Consigliato per:** Sviluppatori, Software Engineer, Tech Lead
 - **⏱️ Tempo richiesto:** Ore di refactoring → Pochi minuti
-- **🤖 Modello consigliato:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (eccellenti per la logica di programmazione)
+- **🤖 Modello consigliato:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (eccellenti per la logica di programmazione)
 
 - ⭐ **Difficoltà:** ⭐⭐⭐☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -39,7 +39,7 @@ Utilizzala per comprendere al volo un blocco di codice oscuro o una singola funz
 > **Ruolo:** Sei un Senior Software Engineer esperto.
 > **Richiesta:** Spiegami cosa fa esattamente questo `[codice o funzione]` e proponi una versione più pulita, moderna e performante.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

@@ -42,7 +42,7 @@ Usala quando hai bisogno di pianificare rapidamente e senza troppi dettagli.
 > **Ruolo:** Sei un esperto 'Pianificatore di Tour Narrativi' che conosce ogni segreto e vicolo di `[Nome Città]`.
 > **Richiesta:** Crea un itinerario storico a piedi a `[Nome Città]` incentrato sul tema `[Tuo Interesse]`. Fornisci il percorso logico, i luoghi da visitare e una breve curiosità per ciascuna tappa.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 
@@ -100,7 +100,7 @@ Questo prompt trasforma letteralmente il tuo smartphone in una guida turistica p
 
 ### ❌ Prima (Input Vago)
 
-> "Fammi un itinerario a piedi per Londra."
+"Fammi un itinerario a piedi per Londra."
 
 _(Risultato tipico: Un elenco banale come Big Ben, London Eye, Buckingham Palace, senza alcun filo conduttore storico o indicazione precisa sui tempi logistici.)_
 

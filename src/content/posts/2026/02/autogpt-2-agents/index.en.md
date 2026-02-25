@@ -39,7 +39,7 @@ Use this to quickly draft a basic agent team structure.
 > **Role:** You are an `[AutoGPT 2.0 Swarm Master]`.
 > **Task:** Propose the roles and workflow of 3 specialized agents required to flawlessly execute `[Complex Research Task]`.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

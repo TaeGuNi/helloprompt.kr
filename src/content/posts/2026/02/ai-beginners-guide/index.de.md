@@ -45,7 +45,7 @@ Schnell, aber oft ungenau und generisch.
 > **Rolle:** Du bist ein Koch.
 > **Anfrage:** Gib mir ein Rezept für Kimchi-Eintopf.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenform)
 
@@ -79,7 +79,7 @@ KI glänzt bei der Textverarbeitung. Statt Dokumente mühsam selbst zu lesen ode
 > **Rolle:** Du bist ein Assistent.
 > **Anfrage:** Fasse diesen Text zusammen: [Langer Text]
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenform)
 
@@ -117,7 +117,7 @@ Wenn Sie der KI sagen: "Du bist ein Experte für X", ändert sich nicht nur der 
 > **Rolle:** Du bist ein Excel-Experte.
 > **Anfrage:** Wie bekomme ich den Monat aus einem Datum in Excel?
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenform)
 

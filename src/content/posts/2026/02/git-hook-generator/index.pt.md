@@ -44,7 +44,7 @@ Use esta versão quando precisar rapidamente de um script de hook para executar 
 > **Role (Papel):** Você é um `[Engenheiro DevOps]`.
 > **Task (Tarefa):** Escreva um script de shell de Git Hook e as instruções de configuração usando `[Husky]` para `[executar npm run lint antes de cada git commit]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

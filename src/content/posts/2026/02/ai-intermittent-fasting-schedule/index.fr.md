@@ -42,7 +42,7 @@ Utilisez cette version pour générer une routine instantanée sans entrer dans 
 > **Rôle :** Tu es un expert en jeûne intermittent et en biohacking métabolique.
 > **Demande :** Conçois un programme de jeûne intermittent adapté aux débutants et donne-moi 3 astuces concrètes pour supporter la faim sans rompre le jeûne.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 
@@ -102,7 +102,7 @@ Le jeûne intermittent n'est pas un régime privatif, c'est une véritable repro
 
 ### ❌ Avant (Entrée basique)
 
-> "Fais-moi un planning de jeûne 16:8."
+"Fais-moi un planning de jeûne 16:8."
 
 _(Résultat : L'IA recommande aveuglément de jeûner de 20h00 à 12h00, sans se soucier du fait que vous finissez le travail à 20h30 et que vous dînez souvent à 21h00. Échec garanti en 3 jours.)_
 

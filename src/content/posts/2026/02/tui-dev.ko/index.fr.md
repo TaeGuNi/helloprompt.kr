@@ -9,7 +9,7 @@ tags: ["tui", "dev-tools", "cli"]
 
 - **🎯 Recommandé pour :** Développeurs Backend, Ingénieurs DevOps, Créateurs d'outils CLI
 - **⏱️ Temps nécessaire :** 1 heure → réduit à 3 minutes
-- **🤖 Modèles recommandés :** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (modèles spécialisés en code fortement recommandés)
+- **🤖 Modèles recommandés :** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (modèles spécialisés en code fortement recommandés)
 
 - ⭐ **Difficulté :** ⭐⭐⭐☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -38,7 +38,7 @@ Idéale lorsque vous avez besoin d'une structure de code rapide pour un langage 
 > **Rôle :** Tu es un développeur `[Langage]` Senior et un expert en conception TUI.
 > **Requête :** Rédige le code de base (boilerplate) d'une application TUI utilisant `[Langage/Framework]` pour implémenter la fonctionnalité suivante : `[Fonctionnalité à implémenter]`. Inclus également les instructions pour exécuter le code.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

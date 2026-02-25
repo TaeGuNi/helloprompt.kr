@@ -53,7 +53,7 @@ Utilize para solicitar rapidamente uma refatoração leve em um único arquivo.
 > **Task (Tarefa):** Refatore o arquivo `[src/legacy/auth.ts]` para melhorar a legibilidade e modularizá-lo.
 > **Constraints (Restrições):** Nunca altere a assinatura da API existente. Após a modificação, certifique-se de que passa nos testes.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Especialista)
 

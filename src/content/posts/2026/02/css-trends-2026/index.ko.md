@@ -12,7 +12,7 @@ tags: ["CSS", "Frontend", "Design"]
 
 - **🎯 추천 대상:** 프론트엔드 개발자, 퍼블리셔, 레거시 CSS를 유지보수하는 직장인
 - **⏱️ 소요 시간:** 1시간 → 3분 단축
-- **🤖 추천 모델:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 추천 모델:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **난이도:** ⭐⭐☆☆☆
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
@@ -45,7 +45,7 @@ tags: ["CSS", "Frontend", "Design"]
 >
 > `[여기에 기존 CSS 코드 입력]`
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 

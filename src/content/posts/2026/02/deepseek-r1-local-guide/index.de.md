@@ -51,7 +51,7 @@ Nutzen Sie das 8B-Modell für eine flüssige Leistung auf Standard-Laptops (z.B.
 > **Rolle:** Du bist ein erfahrener Entwickler.
 > **Aufgabe:** Refaktorisiere den folgenden Code, um die Performance zu verbessern: `[Dein Code hier]`
 
-<br>
+\
 
 ### 🥇 Pro Version (VS Code Integration & Senior Dev Prompt)
 
@@ -83,13 +83,13 @@ Für High-End-Rechner (32GB+ RAM, M3 Max) nutzen Sie das 70B-Modell und integrie
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 Der wahre Wert von DeepSeek R1 liegt in seiner `<think>`-Phase. Anders als herkömmliche Modelle zwingt sich DeepSeek dazu, das Problem architektonisch zu durchdenken, bevor es Code generiert. In meiner täglichen Arbeit hat diese lokale Setup-Kombination (Ollama + Continue + DeepSeek R1) mein Vorgehen revolutioniert. Besonders bei Projekten unter strengem NDA kann ich nun massiv Code refaktorieren lassen, ohne Angst haben zu müssen, dass sensible Unternehmensdaten an externe API-Server gesendet werden. Das 8B-Modell ist erstaunlich schnell, aber wenn Ihr Rechner es zulässt, bietet das 70B-Modell eine Qualität, die GPT-4 in Nichts nachsteht – und das komplett offline!
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q: Verlangsamt das lokale Ausführen des Modells meinen Computer stark?**
   - A: Während das Modell eine Antwort generiert, wird die CPU/GPU stark beansprucht. Das 8B-Modell benötigt etwa 6-8 GB RAM und läuft auf aktuellen Laptops sehr flüssig im Hintergrund. Das 70B-Modell benötigt jedoch mindestens 32 GB, idealerweise 64 GB RAM, um performant zu arbeiten.
@@ -102,7 +102,7 @@ Der wahre Wert von DeepSeek R1 liegt in seiner `<think>`-Phase. Anders als herk�
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🧬 Why it works?
 
 1. **Denkprozess erzwingen (`<think>`):** Indem wir DeepSeek explizit anweisen, seinen logischen Denkprozess auszugeben, reduzieren wir Flüchtigkeitsfehler bei komplexen Refaktorisierungen drastisch. Das Modell "plant" seine Schritte methodisch, bevor es auch nur eine Zeile Code schreibt.
 2. **Rolle als Senior Engineer:** Die Zuweisung dieser Persona ändert den Fokus der Antwort radikal. Das Modell achtet nun primär auf Wartbarkeit, saubere Architektur und Performance, anstatt nur eine funktionierende "schnelle Lösung" zu liefern.
@@ -110,7 +110,7 @@ Der wahre Wert von DeepSeek R1 liegt in seiner `<think>`-Phase. Anders als herk�
 
 ---
 
-## 📊 증명: Before & After
+## 📊 Before & After
 
 ### ❌ Before (Standard ChatGPT ohne Kontext)
 
@@ -133,7 +133,7 @@ Außerdem sind die Variablennamen 'a' und 'b' wenig aussagekräftig; ich werde s
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
 Ein **kostenloser Senior Developer** wohnt ab heute direkt auf Ihrem PC. Selbst wenn das Internet ausfällt oder die APIs anderer Anbieter unbezahlbar werden – Ihr lokales DeepSeek R1 bleibt für immer an Ihrer Seite.
 

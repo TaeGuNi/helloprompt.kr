@@ -46,7 +46,7 @@ Utilizzalo quando hai bisogno di migliorare rapidamente la leggibilità e la for
 > **Ruolo:** Sei uno `[Sviluppatore Backend Senior]`.
 > **Richiesta:** Migliora la leggibilità della seguente funzione `[Nome Funzione]` ed esegui un refactoring per rendere i nomi delle variabili più chiari e semantici. Aggiungi anche dei commenti concisi per spiegare la logica principale.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

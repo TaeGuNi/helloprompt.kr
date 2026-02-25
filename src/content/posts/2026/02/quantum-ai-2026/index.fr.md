@@ -37,7 +37,7 @@ Utilisez cette version lorsque vous avez besoin de comprendre rapidement des cas
 > **Rôle :** Tu es le meilleur consultant mondial en stratégie technologique d'IA quantique.
 > **Tâche :** Analyse de manière claire et concise 3 cas d'usage réels d'algorithmes d'IA quantique hybrides actuellement utilisés en 2026 dans le secteur de `[Secteur spécifique, ex : Finance, Pharmacie, Logistique]`, et détaille les bénéfices attendus.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 
@@ -101,7 +101,7 @@ L'IA ne se contentera pas de vous fournir une encyclopédie technologique, mais 
 
 ### ❌ Avant (Avec une question simple)
 
-> Comment notre entreprise de logistique peut-elle utiliser la technologie de l'IA quantique en 2026 ?
+Comment notre entreprise de logistique peut-elle utiliser la technologie de l'IA quantique en 2026 ?
 
 **(Résultat)**
 _L'informatique quantique utilise des qubits avec les principes de superposition et d'intrication pour traiter les données. Une entreprise de logistique peut utiliser l'IA quantique pour l'optimisation des itinéraires. Des calculs rapides deviennent possibles, ce qui augmente l'efficacité logistique..._ (Une explication théorique ennuyeuse que tout le monde connaît déjà)

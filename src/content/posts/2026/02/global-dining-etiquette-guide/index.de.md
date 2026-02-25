@@ -48,7 +48,7 @@ Nutzen Sie diesen Prompt, wenn Sie kurz vor dem Restaurantbesuch einen schnellen
 > **Rolle:** Du bist ein 'Globaler Etikette-Berater', der die weltweiten Esskulturen in- und auswendig kennt.
 > **Anfrage:** Nenne mir die wichtigsten Tischmanieren und die häufigsten kulturellen Fauxpas für ein Essen in `[Land]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Level)
 
@@ -107,7 +107,7 @@ Dieser Prompt ist ein echter Lebensretter, besonders bei internationalen Geschä
 
 ### ❌ Vorher (Eingabe ohne Struktur)
 
-> Erzähl mir was über die Essens-Etikette in Japan.
+Erzähl mir was über die Essens-Etikette in Japan.
 
 _(Ergebnis: Eine endlose, unstrukturierte Textwand über Sushi und allgemeine Höflichkeit, die schwer zu merken ist und wichtige Details zum Geschäftsessen auslässt.)_
 

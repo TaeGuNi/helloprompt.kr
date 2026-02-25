@@ -43,7 +43,7 @@ Use isso quando estiver com pressa e precisar de uma sugestão rápida na rua.
 >
 > **Solicitação:** Estou em `[Bairro/Cidade]`. Recomende 3 restaurantes não-turísticos de `[Tipo de Comida]` onde os moradores locais realmente comem.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert Version)
 
@@ -106,7 +106,7 @@ Muitas vezes, as buscas convencionais nos mostram os restaurantes com maior orç
 
 ### ❌ Antes (Entrada Simples)
 
-> "Recomende restaurantes em Paris."
+"Recomende restaurantes em Paris."
 
 _Resultado:_ A IA recomenda brasseries genéricas e extremamente caras perto da Torre Eiffel ou da Champs-Élysées, superlotadas de turistas e com comida industrializada.
 

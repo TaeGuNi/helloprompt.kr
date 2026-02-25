@@ -42,7 +42,7 @@ Utilisez cette version pour obtenir un résultat immédiat sans détails superfl
 > **Rôle :** Tu es un `[Scénariste Hollywoodien Américain et Expert en Argot]`.
 > **Demande :** Crée-moi un prompt qui trouve de vraies expressions natives, des mots à la mode et des idiomes introuvables dans les manuels, adaptés à ma situation.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 
@@ -75,7 +75,7 @@ Copiez le **PROMPT** ci-dessous et personnalisez-le selon vos besoins.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 L'apprentissage des langues a complètement changé avec l'IA. Avant, il fallait regarder des centaines d'heures de séries avec des sous-titres ou consulter des dictionnaires d'argot urbain souvent obsolètes pour trouver _la_ bonne expression. Ce prompt agit comme un véritable tuteur natif disponible 24h/24.
 
@@ -83,7 +83,7 @@ Ce que je trouve particulièrement puissant, c'est la section "Précautions" : e
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q : Ce prompt fonctionne-t-il avec d'autres langues que l'anglais (américain) ?**
   - R : Absolument ! Il suffit de modifier le `[Rôle]` (par exemple, "Scénariste Parisien" pour du français familier, ou "Expert en K-Drama" pour du coréen naturel) et de préciser la langue souhaitée dans le contexte.

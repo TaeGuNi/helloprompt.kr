@@ -43,7 +43,7 @@ Use quando precisar de uma bebida rápida e sem complicações.
 > **Context (Situação):** Na minha geladeira tenho soju, Sprite e suco de laranja.
 > **Task (Tarefa):** Usando esses ingredientes, crie uma receita de coquetel caseiro leve e doce. (Exemplo: use um copo de shot como medida)
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Profissional)
 
@@ -106,17 +106,17 @@ Além disso, se você não aplicar a restrição (`Constraints`) de `'não usar 
 
 ### ❌ Antes (O desastre da mistura aleatória)
 
-> Misturei o resto de whisky e suco a olho, sem medida.
+Misturei o resto de whisky e suco a olho, sem medida.
 > **Resultado:** "Eca, está aguado e com um gosto horrível." (Acabou indo para a pia, deixando apenas a ressaca 🤕)
 
 ### ✅ Depois (A prescrição do IA Bartender)
 
 > **IA:** "Apresento o seu coquetel exclusivo: **[Oásis da Meia-Noite]**."
->
-> - **Proporção:** 1 copo de shot de whisky + 2 copos de shot de suco de laranja + 1 copo de shot de Ginger Ale.
-> - **Preparo:** Em um copo com gelo, adicione primeiro o whisky e o suco, mexendo levemente 5 vezes com um hashi. Por fim, despeje lentamente o Ginger Ale para preservar o gás carbônico.
-> - **História:** No final de um dia exaustivo, este é o copo refrescante e doce como um oásis encontrado na rotina árida de um deserto.
->
+
+- **Proporção:** 1 copo de shot de whisky + 2 copos de shot de suco de laranja + 1 copo de shot de Ginger Ale.
+- **Preparo:** Em um copo com gelo, adicione primeiro o whisky e o suco, mexendo levemente 5 vezes com um hashi. Por fim, despeje lentamente o Ginger Ale para preservar o gás carbônico.
+- **História:** No final de um dia exaustivo, este é o copo refrescante e doce como um oásis encontrado na rotina árida de um deserto.
+
 > **Resultado:** "Uau, isso é melhor do que o que vendem no bar!" (Equilíbrio perfeito e uma ótima atmosfera 🍹)
 
 ---

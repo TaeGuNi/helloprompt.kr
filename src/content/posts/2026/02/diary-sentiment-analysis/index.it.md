@@ -42,7 +42,7 @@ Utilizza questo prompt quando vuoi capire rapidamente i tuoi principali interess
 > **Ruolo:** Sei un analista di dati e uno psicologo clinico.
 > **Compito:** Estrai la Top 5 dei sostantivi e degli aggettivi più ricorrenti dal testo del diario di una settimana che ho caricato. Basandoti su queste parole, riassumi in una singola frase il mio attuale stato psicologico.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Analisi Temporale Emotiva & Report Visivo)
 
@@ -109,17 +109,17 @@ Se non scrivi un diario, prova a esportare e analizzare la tua **chat personale 
 
 ### ❌ Prima (Vago esaurimento emotivo)
 
-> "Questo mese è stato terribile. Mi sentivo stanco e irritato ogni giorno. Perché sono così depresso?"
-> (Sprofondare in un vago senso di impotenza senza conoscerne la vera causa)
+"Questo mese è stato terribile. Mi sentivo stanco e irritato ogni giorno. Perché sono così depresso?"
+(Sprofondare in un vago senso di impotenza senza conoscerne la vera causa)
 
 ### ✅ Dopo (Retrospettiva oggettiva basata sui dati)
 
 > **[📈 Report di Analisi Emotiva AI]**
->
-> - **Picco Negativo Emotivo (15, 22 Febbraio):** Punteggio emotivo -8.
->   - Parole chiave principali: `straordinari`, `cibo a domicilio`, `disprezzo di sé`
->   - Analisi: Si nota un pattern in cui, dopo non aver gestito lo stress e aver ordinato cibo spazzatura a seguito di straordinari, le emozioni negative si protraggono intensamente fino al giorno successivo.
-> - **💡 Suggerimento Basato sui Dati:** Nei giorni in cui gli straordinari sono inevitabili, blocca le app di food delivery e fai una passeggiata leggera, anche solo di 10 minuti. È molto più efficace per la tua difesa emotiva.
+
+- **Picco Negativo Emotivo (15, 22 Febbraio):** Punteggio emotivo -8.
+  - Parole chiave principali: `straordinari`, `cibo a domicilio`, `disprezzo di sé`
+  - Analisi: Si nota un pattern in cui, dopo non aver gestito lo stress e aver ordinato cibo spazzatura a seguito di straordinari, le emozioni negative si protraggono intensamente fino al giorno successivo.
+- **💡 Suggerimento Basato sui Dati:** Nei giorni in cui gli straordinari sono inevitabili, blocca le app di food delivery e fai una passeggiata leggera, anche solo di 10 minuti. È molto più efficace per la tua difesa emotiva.
 
 ---
 

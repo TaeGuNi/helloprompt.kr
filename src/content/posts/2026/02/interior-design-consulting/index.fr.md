@@ -42,7 +42,7 @@ Lorsque vous emménagez dans un nouveau logement ou que vous souhaitez changer l
 > **Rôle :** Tu es un designer d'espace doté d'un grand sens de l'esthétique.
 > **Tâche :** En te basant sur la photo de la pièce ci-jointe, recommande-moi 3 petits accessoires (tapis, luminaire, plante, etc.) à moins de 70 euros pour rendre l'espace plus lumineux et visuellement plus grand. Indique également l'emplacement idéal pour chacun d'eux.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

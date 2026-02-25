@@ -41,7 +41,7 @@ Use this when you need immediate, domain-specific results without complex constr
 > **Role:** You are a `[Domain Expert, e.g., Senior Cybersecurity Analyst]`.
 > **Task:** Solve the following problem: `[Describe your problem]`. Provide your answer strictly from the perspective of your role.
 
-<br>
+\
 
 ### 🥇 Pro Version (For Production-Grade Output)
 
@@ -82,7 +82,7 @@ For instance, I once spent an hour trying to get an AI to write secure authentic
 ## 🙋 Frequently Asked Questions (FAQ)
 
 - **Q: Does this work on free versions like GPT-3.5 or Claude 3 Haiku?**
-  - A: Yes, role prompting significantly improves the output even on smaller or free models. However, advanced reasoning and strict adherence to complex constraints will always be more reliable on flagship models like GPT-4o, Claude 3.5 Sonnet, or Gemini 1.5 Pro.
+  - A: Yes, role prompting significantly improves the output even on smaller or free models. However, advanced reasoning and strict adherence to complex constraints will always be more reliable on flagship models like GPT-4o, Claude 3.5 Sonnet, or Gemini 2.5 Pro.
 
 - **Q: Can I combine multiple roles in one prompt?**
   - A: It is generally much better to stick to one highly focused role per prompt (e.g., "Senior DevOps Engineer"). Combining too many (e.g., "Act as a Designer, Developer, and Marketer") dilutes the model's focus. If you need multiple perspectives, utilize sequential prompting in separate conversation turns.

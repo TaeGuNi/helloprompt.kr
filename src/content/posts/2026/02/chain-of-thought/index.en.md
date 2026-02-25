@@ -41,7 +41,7 @@ Use this when you need a quick logic check without providing extensive examples.
 >
 > **Instruction:** Let's think step-by-step before providing the final answer.
 
-<br>
+\
 
 ### 🥇 Pro Version (Few-Shot CoT)
 

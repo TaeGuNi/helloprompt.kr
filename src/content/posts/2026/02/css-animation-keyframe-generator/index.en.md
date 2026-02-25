@@ -42,7 +42,7 @@ Use this when you need a quick, standard animation code without the fuss.
 > **Role:** You are a `[Frontend UI Developer]`.
 > **Task:** Write the CSS Keyframe animation code for a `[notification toast that slides in smoothly from the top right of the screen]`.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

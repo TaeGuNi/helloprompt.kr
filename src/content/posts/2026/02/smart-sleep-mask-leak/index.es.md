@@ -44,7 +44,7 @@ En este artículo, presentamos el **'Prompt de Análisis Profundo de Incidentes 
 > Contenido del artículo:
 > La máscara de sueño Somnium X transmitió audios y metadatos de los usuarios a un servidor externo accesible sin autenticación. La empresa explicó que fue un error derivado de una función de depuración olvidada.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

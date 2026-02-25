@@ -48,7 +48,7 @@ Use this prompt to analyze your past text data and extract a definitive guidelin
 > **Data:**
 > `[Paste 3-5 samples of your past blog posts, Slack messages, or emails here]`
 
-<br>
+\
 
 ### 🥇 Step 2: Persona Injection Prompt
 

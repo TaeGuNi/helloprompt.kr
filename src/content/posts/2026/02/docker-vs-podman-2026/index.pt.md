@@ -43,7 +43,7 @@ Use este prompt quando quiser verificar e adaptar instantaneamente seus comandos
 >
 > **Task:** Quero que você converta meu comando ou script Docker existente `[Seu comando ou script docker run atual]` para que funcione perfeitamente no modo Rootless do Podman. Especifique os possíveis erros relacionados a redes bridge e permissões de montagem de volumes (incluindo o contexto do SELinux) e forneça as soluções exatas e comandos de correção para cada problema.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Conversão Completa de docker-compose para K8s)
 

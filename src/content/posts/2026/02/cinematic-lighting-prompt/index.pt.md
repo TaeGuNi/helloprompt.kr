@@ -44,7 +44,7 @@ Use isso quando precisar de um resultado rápido e dramático sem complicar muit
 >
 > **Task (Tarefa):** Gere a imagem de `[Tema ou Sujeito]` aplicando uma iluminação cinematográfica intensa e contrastante.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Profissional)
 
@@ -73,13 +73,13 @@ Use isso para obter controle total sobre a atmosfera, profundidade e textura da 
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 A verdadeira mágica deste prompt não está apenas em pedir "luzes bonitas", mas em usar o vocabulário técnico exato que os modelos de IA associam a bancos de imagens de altíssima qualidade. Termos como _volumetric lighting_ (que cria aqueles feixes de luz visíveis na neblina, fumaça ou poeira) e _rim light_ (a luz de contorno brilhante que recorta e separa o personagem do fundo) são os verdadeiros divisores de águas do fotorrealismo. Na minha experiência diária criando concept art, a adição de _teal and orange color grading_ eleva instantaneamente o valor de produção percebido da imagem. É o esquema de cores mais utilizado nos blockbusters modernos justamente por criar um contraste natural e vibrante entre tons de pele (laranja) e cenários ou sombras (cerceta/azul-esverdeado).
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q: Esse prompt funciona bem no DALL-E 3 (ChatGPT Plus)?**
   - A: Sim, funciona perfeitamente! O DALL-E 3 compreende de forma excelente conceitos como _Cinematic Lighting_ e _Rim Light_. A única diferença é que você deve ignorar a seção de parâmetros (`--ar 16:9` etc.), que é exclusiva do Midjourney. Para o DALL-E, basta incluir na descrição: "Gere a imagem no formato horizontal 16:9".

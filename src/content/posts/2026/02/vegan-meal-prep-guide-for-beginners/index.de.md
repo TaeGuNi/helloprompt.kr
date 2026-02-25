@@ -42,7 +42,7 @@ Nutzen Sie diesen Prompt, wenn Sie einfach nur schnelle, unkomplizierte Inspirat
 > **Rolle:** Du bist ein erfahrener veganer Koch und ein absoluter Experte für Meal Prep.
 > **Aufgabe:** Erstelle mir einen simplen, aber proteinreichen veganen Meal-Prep-Plan für 5 Tage, der lecker, sättigend und leicht zuzubereiten ist.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

@@ -45,7 +45,7 @@ Use this when you need a quick, hassle-free syntax conversion for a specific Rea
 > **Input:** `[Insert your React component containing useState and useEffect]`
 > **Task:** Perfectly convert the provided React code into Svelte 5 using the latest **Runes syntax (`$state`, `$derived`, `$effect`)**. Ensure the output is concise, idiomatic, and adheres strictly to Svelte best practices.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

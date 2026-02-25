@@ -42,7 +42,7 @@ Use quando precisar de uma orientação rápida sobre o direcionamento arquitet�
 > **Role (Papel):** Você é um `[Arquiteto de Backend Sênior com 10 anos de experiência]`.
 > **Task (Tarefa):** Explique os 3 maiores **Overheads (Sobrecargas)** que uma startup em estágio inicial enfrentaria ao adotar MSA, e, em contrapartida, analise o **Technical Debt (Dívida Técnica)** que pode se acumular ao manter uma arquitetura Monolítica.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Especialista)
 

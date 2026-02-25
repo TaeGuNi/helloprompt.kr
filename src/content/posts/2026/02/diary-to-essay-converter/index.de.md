@@ -42,7 +42,7 @@ Verwenden Sie diese Version, wenn Sie in Sekundenschnelle einen ersten literaris
 > **Rolle:** Du bist ein erfahrener Essayist, der die Trivialitäten des Alltags philosophisch entwirrt, ähnlich wie Haruki Murakami.
 > **Aufgabe:** Verwandle meinen kurzen Tagebucheintrag `[Mein Tagebuch]` in einen kurzen, einfühlsamen Essay, mit dem sich Leser identifizieren können.
 
-<br>
+\
 
 ### 🥇 Pro Version (Der Meister-Essayist)
 

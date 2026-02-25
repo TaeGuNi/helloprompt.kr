@@ -43,7 +43,7 @@ Nutzen Sie diesen Prompt, wenn Sie komplexe Bedingungen in Echtzeit filtern müs
 >
 > **Aufgabe:** Schreibe mir eine **QUERY-Funktion**, die aus dem Bereich `[A:E]` im Tabellenblatt `[Data]` nur die Zeilen extrahiert, bei denen `[Spalte C (Abteilung) 'Marketing' ist und Spalte D (Punktzahl) 80 oder höher beträgt]`. Zeige mir das Ergebnis für ein anderes Tabellenblatt und erkläre die Funktionsweise der Formel so einfach, dass auch Anfänger sie verstehen.
 
-<br>
+\
 
 ### 🥇 Pro Version (AppScript-basierte Alarm-Automatisierung)
 

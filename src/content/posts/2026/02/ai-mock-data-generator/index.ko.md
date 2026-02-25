@@ -42,7 +42,7 @@ tags: [Frontend, Testing, JSON, Mocking, AI]
 > **역할:** 너는 `[시니어 프론트엔드 개발자]`야.
 > **요청:** 프론트엔드 UI 테스트를 위한 `[유저 프로필]` 더미 데이터(JSON) 5개를 만들어줘. 포함할 필드는 id, name, email이야.
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 

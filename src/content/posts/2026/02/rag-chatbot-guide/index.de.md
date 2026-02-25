@@ -44,7 +44,7 @@ Nutzen Sie diese Version, um die grundlegende Struktur von RAG schnell zu verste
 > **Anfrage:**
 > Ich möchte einen internen Chatbot entwickeln, der Fragen von Mitarbeitern basierend auf 100 internen PDF-Dokumenten präzise beantwortet. Gehe davon aus, dass wir LangChain als Framework nutzen. Erkläre den gesamten Datenfluss (Data Flow) Schritt für Schritt so, dass ihn auch ein absoluter Anfänger versteht. Empfiehl mir außerdem eine kostenlose Vektor-Datenbank, die sich gut für ein Toy-Projekt eignet.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

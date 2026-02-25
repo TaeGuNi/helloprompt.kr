@@ -42,7 +42,7 @@ Use this when you need an immediate answer and are pressed for time.
 > **Role:** You are a senior debugging expert.
 > **Request:** Please analyze the following `[Error Log]` and `[Code Snippet]`, identify the cause of the bug, and provide the fixed code.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Analysis)
 

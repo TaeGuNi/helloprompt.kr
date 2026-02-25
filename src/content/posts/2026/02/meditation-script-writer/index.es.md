@@ -42,7 +42,7 @@ Todos sabemos que la meditación es beneficiosa, pero para muchos, quedarse quie
 > **Rol:** Eres un instructor experto en meditación y mindfulness. Usa un tono cálido, reconfortante y sereno.
 > **Solicitud:** Escribe un guion corto de meditación guiada de 2 minutos para ayudarme a relajarme. Actualmente me siento `[estresado/ansioso/cansado]` debido a `[motivo, ej. exceso de trabajo]`. Incluye pausas marcadas para respirar.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -108,7 +108,7 @@ _Tip de uso:_ Si tienes un iPhone o un dispositivo Android, copia el guion gener
 
 ### ❌ Before (Entrada Genérica)
 
-> "Escribe un texto de meditación para relajarme."
+"Escribe un texto de meditación para relajarme."
 
 **(Resultado Típico de la IA):** "Imagina que estás en un bosque tranquilo. Los pájaros cantan. Respira profundo. Siente la paz..." _(Demasiado genérico, muy difícil de aplicar o tomar en serio en un entorno corporativo con altos niveles de estrés)._
 

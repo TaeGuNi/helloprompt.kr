@@ -42,7 +42,7 @@ Dicen que el 80% del éxito en una pérdida de peso depende de la alimentación.
 > **Rol:** Eres un experto en nutrición deportiva y consultor profesional de dietas.
 > **Solicitud:** Crea un plan de comidas de dieta para una semana basado en mi altura, peso actual y peso objetivo en 1 minuto.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -100,7 +100,7 @@ El mayor error al hacer dieta es intentar seguir un plan perfecto pero insosteni
 
 ### ❌ Antes (Entrada)
 
-> "Hazme una dieta para bajar de peso rápido."
+"Hazme una dieta para bajar de peso rápido."
 
 _(Resultado: Un texto genérico y aburrido que sugiere comer ensalada y pechuga hervida todos los días, sin considerar calorías exactas, gustos personales ni viabilidad de preparación)._
 

@@ -12,7 +12,7 @@ tags: ["Wasm", "Cloud", "Serverless"]
 
 - **🎯 Zielgruppe:** Cloud-Architekten, Backend-Entwickler, DevOps-Ingenieure
 - **⏱️ Zeitersparnis:** 2 Stunden → 5 Minuten
-- **🤖 Empfohlenes Modell:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Empfohlenes Modell:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Schwierigkeitsgrad:** ⭐⭐⭐⭐☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -43,7 +43,7 @@ Nutzen Sie diese Variante für einen schnellen Architektur-Überblick oder eine 
 > **Rolle:** Du bist ein Senior Cloud Native Architekt mit Spezialisierung auf WebAssembly (Wasm) und Serverless-Technologien.
 > **Aufgabe:** Erstelle ein High-Level-Architekturkonzept für `[Projekt- oder Anwendungsname]`, das primär auf Wasm-Modulen basiert, um Kaltstartzeiten und Hosting-Kosten radikal zu minimieren.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

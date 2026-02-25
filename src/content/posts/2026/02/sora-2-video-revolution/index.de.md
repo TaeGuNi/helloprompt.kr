@@ -49,7 +49,7 @@ Nutzen Sie diese Basis-Version, um schnell erste visuelle Entwürfe zu skizziere
 > **Rolle:** Du bist ein erfahrener Kameramann und Visual Effects Supervisor.
 > **Aufgabe:** Schreibe mir einen detaillierten Text-to-Video Prompt für Sora 2.0 basierend auf dieser Idee: `[Ihre einfache Video-Idee]`. Beschreibe das Hauptmotiv, die Umgebung und eine einfache Kamerabewegung auf Englisch.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für kinoreife Produktionen)
 
@@ -127,7 +127,7 @@ _(Ergebnis: Atemberaubende räumliche Tiefe, makellose Texturen der Raumanzüge,
 
 ---
 
-## 🎯 결론 (Fazit)
+## 🎯 Conclusion (Fazit)
 
 Die Kluft zwischen denen, die Technologie nur konsumieren, und denen, die sie als professionelles Werkzeug beherrschen, wird sich durch Sora 2.0 drastisch vergrößern. Mit dem richtigen Prompt-Engineering werden Sie nicht durch die KI ersetzt – Sie werden vom einfachen Ideengeber zum visionären Regisseur, der ein ganzes Studio in der Tastatur trägt.
 

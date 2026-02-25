@@ -42,7 +42,7 @@ Use this when you need a quick, generic neuroscience-backed morning routine to g
 > **Role:** You are a neuroscientist and peak performance coach.
 > **Task:** Create a basic 60-minute morning routine that optimizes cortisol and dopamine levels for a healthy adult waking up at 7 AM.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

@@ -42,7 +42,7 @@ Ideal para rascunhar rapidamente fluxos de automação simples.
 >
 > **Solicitação:** Projete um fluxo de trabalho detalhado para um agente de IA realizar a seguinte tarefa: `[Resumir newsletters importantes recebidas por e-mail e enviar um compilado para o Slack todas as manhãs]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

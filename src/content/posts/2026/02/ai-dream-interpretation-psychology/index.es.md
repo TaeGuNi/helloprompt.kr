@@ -43,7 +43,7 @@ Los sueños que tenemos a menudo no son simples premoniciones místicas, sino ex
 > **Rol:** Eres un analista de sueños experto en la psicología analítica de Carl Jung. Tu objetivo es interpretar el significado psicológico oculto en los símbolos, evitando cualquier tipo de interpretación supersticiosa o mística.
 > **Solicitud:** Anoche soñé con `[escribe tu sueño aquí]`. ¿Es solo un sueño absurdo o una señal de mi inconsciente? Interpreta el significado de mi sueño basándote en el análisis de símbolos psicológicos.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

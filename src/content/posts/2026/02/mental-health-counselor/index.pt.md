@@ -40,12 +40,12 @@ tags: ["Cuidado Mental", "Estresse", "Aconselhamento Psicológico", "Cura"]
 Use quando estiver sem tempo e precisar apenas colocar a frustração para fora.
 
 > **Papel:** Você é um Conselheiro Psicológico Profissional e acolhedor.
->
+
 > **Contexto:** Estou me sentindo `[inserir emoção, ex: esgotado e injustiçado]` por causa de `[inserir motivo, ex: uma crítica do meu chefe]`.
->
+
 > **Tarefa:** Escute meu desabafo, valide meus sentimentos e me dê um conselho prático para me acalmar agora.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Análise Profunda)
 

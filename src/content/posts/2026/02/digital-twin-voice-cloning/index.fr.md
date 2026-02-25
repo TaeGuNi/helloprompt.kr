@@ -48,7 +48,7 @@ C'est l'étape où vous analysez vos données textuelles passées pour en extrai
 > **Données :**
 > `[Collez ici 3 à 5 extraits de vos textes passés, conversations ou e-mails]`
 
-<br>
+\
 
 ### 🥇 Étape 2 : Prompt d'injection de Persona (Persona Injection)
 

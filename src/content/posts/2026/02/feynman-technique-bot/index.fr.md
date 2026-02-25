@@ -42,7 +42,7 @@ Idéal pour un test rapide et sans fioritures de vos connaissances.
 > **Rôle :** Tu es un élève de 12 ans, très curieux et qui adore poser des questions.
 > **Requête :** Je vais t'expliquer `[Sujet]`. Écoute-moi et pose-moi des questions si tu ne comprends pas certains termes ou si mon explication manque de clarté.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Expert)
 
@@ -101,7 +101,7 @@ Cette approche est un véritable "détecteur de failles" pour votre cerveau. En 
 
 ### ❌ Before (Étude classique et passive)
 
-> "Théorie de la Relativité... Le temps est relatif, la vitesse de la lumière est absolue. Ok, j'ai tout mémorisé."
+"Théorie de la Relativité... Le temps est relatif, la vitesse de la lumière est absolue. Ok, j'ai tout mémorisé."
 > _(Résultat : Panique totale le jour de l'examen face à une question de réflexion)_
 
 ### ✅ After (Entraînement avec la Technique Feynman)

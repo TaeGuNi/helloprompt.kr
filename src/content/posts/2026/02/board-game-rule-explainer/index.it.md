@@ -48,7 +48,7 @@ Ideale quando possiedi già il testo delle regole o stai giocando a un titolo mo
 > 2. Elenca in ordine le azioni che posso compiere durante il mio turno (Turn).
 > 3. Evidenzia i 3 errori di regole (micro-regole) più comuni che i giocatori commettono durante la loro prima partita.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Pro Version) {#pdf}
 

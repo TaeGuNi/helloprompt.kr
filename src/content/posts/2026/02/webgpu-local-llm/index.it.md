@@ -44,7 +44,7 @@ Utilizza questo prompt quando hai bisogno di un codice prototipo rapido.
 > **Ruolo:** Sei uno sviluppatore frontend senior esperto di WebGPU.
 > **Compito:** Scrivi l'esempio di codice HTML/JS più minimalista possibile per eseguire il modello Llama-3-8B nel browser utilizzando la libreria `@mlc-ai/web-llm`. Applica l'approccio tramite CDN.
 
-<br>
+\
 
 ### 🥇 Versione Pro
 

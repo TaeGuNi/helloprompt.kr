@@ -47,7 +47,7 @@ Use esta versão para verificar rapidamente o nível de risco copiando apenas a 
 > - Nome: `[Nome da extensão]`
 > - Permissões Exigidas: `[Copie e cole a lista de permissões exibida na Web Store]`
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 
@@ -115,7 +115,7 @@ Crie o hábito de digitar periodicamente `chrome://extensions/` na barra de ende
 
 ### ❌ Antes (Pergunta Simples)
 
-> Esta extensão de conversão de PDF é segura? A permissão exigida é "Ler dados de todos os sites".
+Esta extensão de conversão de PDF é segura? A permissão exigida é "Ler dados de todos os sites".
 
 ```text
 A maioria dos conversores de PDF precisa capturar o conteúdo completo da página da web, portanto, essa permissão pode ser necessária. No entanto, é recomendável verificar os comentários para ver se o desenvolvedor é confiável.

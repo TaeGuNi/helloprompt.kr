@@ -40,7 +40,7 @@ Use this when you need to quickly grasp only the core concepts and architectural
 > **Role:** You are a `[Senior Systems Programmer]`.
 > **Task:** Summarize the `[Rust driver 'Tyr' for Arm Mali GPUs]` in 3 simple lines, and explain why this is crucial for the embedded graphics ecosystem.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

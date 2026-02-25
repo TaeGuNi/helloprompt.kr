@@ -13,7 +13,7 @@ tags: ["Action", "ConférenceRésultats", "PublicationRésultats", "ActionUS"]
 
 - **🎯 Recommandé pour :** Investisseurs, Analystes financiers, Traders particuliers
 - **⏱️ Temps requis :** 1 heure → 3 minutes
-- **🤖 Modèle recommandé :** Claude 3 (Sonnet/Opus) ou Gemini 1.5 Pro (excellents pour les longs textes)
+- **🤖 Modèle recommandé :** Claude 3 (Sonnet/Opus) ou Gemini 2.5 Pro (excellents pour les longs textes)
 
 - ⭐ **Difficulté :** ⭐⭐☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Utilisez cette version lorsque vous avez juste besoin d'un aperçu instantané d
 > **Rôle :** Tu es un `[Stratège en Investissement Professionnel]` au sein d'un hedge fund de Wall Street.
 > **Requête :** Cette transcription de conférence de résultats est trop longue et complexe. Résume-moi uniquement l'essentiel à retenir pour ma stratégie d'investissement.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Experte)
 
@@ -88,7 +88,7 @@ L'astuce cruciale de ce prompt se trouve dans la section **"Risques Cachés"** e
   - A : Vous pouvez les trouver gratuitement sur des sites financiers comme Seeking Alpha (cherchez le ticker de l'action suivi de "Earnings Call Transcript"), Motley Fool, ou directement dans la section "Investor Relations" (IR) du site web officiel de l'entreprise.
 
 - **Q : La transcription est trop longue et l'IA affiche une erreur de limite de mots. Que faire ?**
-  - A : Privilégiez des modèles dotés d'une très large fenêtre de contexte comme Claude 3.5 Sonnet ou Gemini 1.5 Pro ; ils peuvent généralement avaler une transcription entière sans problème. Si vous utilisez une version standard de ChatGPT (limite plus basse), divisez le texte en deux parties (ex: Partie 1 : Discours d'ouverture, Partie 2 : Q&A) et demandez d'abord à l'IA de lire la première partie sans la résumer, puis fournissez la suite pour l'analyse globale.
+  - A : Privilégiez des modèles dotés d'une très large fenêtre de contexte comme Claude 3.5 Sonnet ou Gemini 2.5 Pro ; ils peuvent généralement avaler une transcription entière sans problème. Si vous utilisez une version standard de ChatGPT (limite plus basse), divisez le texte en deux parties (ex: Partie 1 : Discours d'ouverture, Partie 2 : Q&A) et demandez d'abord à l'IA de lire la première partie sans la résumer, puis fournissez la suite pour l'analyse globale.
 
 ---
 

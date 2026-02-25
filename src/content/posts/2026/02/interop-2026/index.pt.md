@@ -40,7 +40,7 @@ Para uma verificação rápida de compatibilidade em pequenos trechos de código
 > **Papel:** Você é um Engenheiro de Front-end Sênior especialista em padrões da web modernos.
 > **Tarefa:** Analise este `[inserir código]` e sugira melhorias diretas com base nos padrões estabelecidos pelo Interop 2026.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Profissional)
 

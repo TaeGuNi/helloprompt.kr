@@ -42,7 +42,7 @@ Use esta versão quando estiver com pressa e precisar de uma visão geral rápid
 > **Papel:** Você é um `[Guia de Viagem Especialista com Experiência Local]`.
 > **Solicitação:** Planeje um roteiro de viagem otimizado para `[Destino]` durante `[Duração]`, focando em `[Estilo de Viagem]`.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert)
 

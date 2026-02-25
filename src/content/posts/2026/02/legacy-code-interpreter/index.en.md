@@ -44,7 +44,7 @@ Use this when you need a quick overview of what the code does.
 > **Role:** You are a senior software craftsman and a legacy code analysis expert.
 > **Request:** Analyze the provided legacy code step-by-step and explain its core logic and potential risks in simple terms.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

@@ -42,7 +42,7 @@ Usa questo prompt per avviare rapidamente una conversazione senza troppi fronzol
 > **Ruolo:** Agisci come un `[ruolo del partner, es. cameriere gentile / ufficiale di dogana severo]`. Io sarò `[il tuo ruolo, es. un turista che ordina un caffè / un viaggiatore in aeroporto]`.
 > **Richiesta:** Iniziamo un gioco di ruolo in `[Lingua desiderata, es. Inglese]`. Fammi una domanda alla volta e aspetta la mia risposta.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 
@@ -73,7 +73,7 @@ Usa questo prompt per un'immersione totale, con feedback strutturato ed espressi
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 Questo prompt cambia le regole del gioco perché trasforma l'IA da un "dizionario passivo" a un "attore attivo".
 Il vero segreto di questo prompt è il comando `(Feedback)`. Nelle normali conversazioni con i madrelingua, raramente ti correggono per educazione, lasciandoti fossilizzare nei tuoi errori. Con questo sistema, puoi fare pratica in modo fluido e poi chiedere un'analisi chirurgica dei tuoi punti deboli.
@@ -81,7 +81,7 @@ Il vero segreto di questo prompt è il comando `(Feedback)`. Nelle normali conve
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q: Posso usare questo prompt per imparare altre lingue oltre all'inglese?**
   - A: Assolutamente sì! Basta cambiare il campo `[Lingua desiderata]` nel prompt. Funziona benissimo con spagnolo, francese, tedesco, giapponese, ecc.
@@ -94,7 +94,7 @@ Il vero segreto di questo prompt è il comando `(Feedback)`. Nelle normali conve
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🧬 Why it works?
 
 1. **Specificità del Ruolo e Contesto:** Fornire dettagli come "uno Starbucks affollato a New York" forza l'IA ad adattare il tono e il vocabolario, rendendo l'interazione molto più realistica rispetto a una chat generica.
 2. **Controllo del Flusso ("Una frase alla volta"):** Impedisce all'IA di generare lunghi muri di testo, simulando il vero "botta e risposta" di una conversazione umana.
@@ -102,7 +102,7 @@ Il vero segreto di questo prompt è il comando `(Feedback)`. Nelle normali conve
 
 ---
 
-## 📊 증명: Before & After
+## 📊 Before & After
 
 ### ❌ Before (Senza Prompt / Chatbot Generale)
 
@@ -125,7 +125,7 @@ Il vero segreto di questo prompt è il comando `(Feedback)`. Nelle normali conve
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
 Basta rimandare. Usa questo prompt per soli 10 minuti al giorno: durante il tragitto casa-lavoro o prima di andare a dormire. In poche settimane, l'ansia di parlare con gli stranieri svanirà e ti ritroverai a gestire situazioni reali con scioltezza nel tuo prossimo viaggio all'estero.
 

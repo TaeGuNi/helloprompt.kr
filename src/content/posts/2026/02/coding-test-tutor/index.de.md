@@ -47,7 +47,7 @@ Nutzen Sie diesen grundlegenden Prompt, wenn Sie feststecken und nur einen klein
 >
 > **Einschränkungen:** Liefere absolut keinen fertigen Code oder die vollständige Logik. Gib mir lediglich einen Hinweis darauf, welche Datenstruktur im Hinblick auf die Zeitkomplexität (Time Complexity) am vorteilhaftesten wäre.
 
-<br>
+\
 
 ### 🥇 Pro Version (Schritt-für-Schritt Coaching & Review)
 

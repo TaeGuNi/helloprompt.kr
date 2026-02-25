@@ -45,7 +45,7 @@ Use this when you need a quick, straightforward recommendation without getting b
 >
 > **Situation:** `[Insert your current coding problem or data requirements here]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

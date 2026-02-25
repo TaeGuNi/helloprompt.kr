@@ -42,7 +42,7 @@ Verwenden Sie dies, wenn Sie schnell ein solides Ergebnis benötigen.
 > **Rolle:** Du bist ein empathischer Kommunikationsberater und professioneller Ghostwriter.
 > **Aufgabe:** Schreibe eine `[Art der Nachricht, z.B. höfliche Absage]` an `[Empfänger]`. Der Grund ist `[Grund]`. Der Ton soll `[gewünschter Ton]` sein.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Version)
 

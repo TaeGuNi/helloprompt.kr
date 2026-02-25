@@ -42,7 +42,7 @@ Use this when you need a fast, atmospheric result without overthinking the detai
 > **Role:** You are an expert AI image prompt engineer.
 > **Request:** Write a concise image generation prompt focusing on strong backlighting and a dark silhouette of `[subject]`. The background should feature a bright `[light source]`. Keep the style minimalist and high contrast.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Crafting)
 

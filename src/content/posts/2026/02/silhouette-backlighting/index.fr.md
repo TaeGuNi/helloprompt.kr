@@ -42,7 +42,7 @@ Utilisez ce prompt lorsque vous souhaitez générer rapidement une image sans pa
 > **Rôle :** Tu es un directeur de la photographie expert en clair-obscur.
 > **Requête :** Génère l'image d'un `[Sujet, ex: loup solitaire]` en silhouette parfaite, se découpant contre un `[Arrière-plan lumineux, ex: soleil couchant écarlate]`. Utilise un rétroéclairage fort et un contraste élevé.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pour un contrôle absolu)
 
@@ -91,13 +91,13 @@ Cette technique est redoutable pour créer des affiches, des couvertures de livr
 
 ### ❌ Avant (Sans technique)
 
-> Samurai in front of moon.
+Samurai in front of moon.
 
 _(Résultat : Une image générique où le samouraï est éclairé de face de manière incohérente, révélant tous les détails de son armure et gâchant le mystère de la lune en arrière-plan.)_
 
 ### ✅ Après (Avec la technique Silhouette)
 
-> A lone samurai standing on a hill, strong backlighting, dark silhouette against a giant glowing red moon, rim light, high contrast, cinematic atmosphere.
+A lone samurai standing on a hill, strong backlighting, dark silhouette against a giant glowing red moon, rim light, high contrast, cinematic atmosphere.
 
 _(Résultat : Une affiche solennelle et percutante. Seule la forme menaçante du sabreur noir se détache avec une netteté absolue contre le rouge flamboyant d'une lune gigantesque.)_
 

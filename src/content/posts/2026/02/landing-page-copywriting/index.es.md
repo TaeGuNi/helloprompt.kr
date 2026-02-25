@@ -43,7 +43,7 @@ Deja de intentar explicar. **Tienes que seducir.** Al principio, a tu cliente no
 > **Situación:** Estoy a punto de escribir el copy principal (Headline) de la landing page para una `[app de conversación en inglés con IA]`. El público objetivo son `[profesionales que sienten pánico al hablar en inglés]`.
 > **Tarea:** Redacta 5 opciones de copy principal (Headline) que capten la atención al instante, destacando el valor central: "El inglés fluirá de tu boca sin necesidad de un hablante nativo".
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

@@ -13,7 +13,7 @@ tags: [Git, Github, Collaboration, Productivity, AI]
 
 - **🎯 推荐受众：** 资深开发者、技术负责人，以及所有对代码审查感到疲惫的开发者
 - **⏱️ 预计耗时：** 1 小时 → 缩短至 3 分钟
-- **🤖 推荐模型：** Claude 3.5 Sonnet, Gemini 1.5 Pro, GPT-4o
+- **🤖 推荐模型：** Claude 3.5 Sonnet, Gemini 2.5 Pro, GPT-4o
 
 - ⭐ **难度级别：** ⭐☆☆☆☆
 - ⚡️ **有效性：** ⭐⭐⭐⭐⭐
@@ -47,7 +47,7 @@ tags: [Git, Github, Collaboration, Productivity, AI]
 > **[Git Diff 数据]**
 > `[请在此处粘贴 git diff 结果或 PR 描述]`
 
-<br>
+\
 
 ### 🥇 Pro Version (专业版)
 
@@ -94,7 +94,7 @@ tags: [Git, Github, Collaboration, Productivity, AI]
 ## 🙋 常见问题 (FAQ)
 
 - **Q: 如果 Diff 文本太长，AI 拒绝处理或者被截断怎么办？**
-  - A: 最新发布的 Claude 3.5 Sonnet 或 Gemini 1.5 Pro 模型支持超大的上下文窗口 (Context Window)，处理数万行代码毫不费力。如果依然受限，你可以先使用 `git diff --stat` 命令仅让 AI 总结文件列表，或者只提取核心领域逻辑 (Domain Logic) 文件的变更点进行定向分析。
+  - A: 最新发布的 Claude 3.5 Sonnet 或 Gemini 2.5 Pro 模型支持超大的上下文窗口 (Context Window)，处理数万行代码毫不费力。如果依然受限，你可以先使用 `git diff --stat` 命令仅让 AI 总结文件列表，或者只提取核心领域逻辑 (Domain Logic) 文件的变更点进行定向分析。
 
 - **Q: 将公司内部的闭源私有代码发送给公开的 AI 模型安全吗？**
   - A: **需要极其谨慎。** 内部代码是企业的核心资产。在使用公开版本的 ChatGPT 或 Claude 时，请务必在设置中确认已开启“不使用数据训练模型 (Data Opt-out)”。最安全的做法是使用企业版方案（具备数据隐私保护协议），或者部署并使用公司内部的本地大语言模型（如基于 Ollama 运行的模型）。

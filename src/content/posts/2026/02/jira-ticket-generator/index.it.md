@@ -45,7 +45,7 @@ Usa questa versione quando hai bisogno solo di una rapida To-Do List.
 > **PRD:** `[Incolla l'intero contenuto del PRD]`
 > **Richiesta:** Suddividi questo progetto in **Task** dettagliati che gli sviluppatori possono iniziare a lavorare immediatamente, e creane una checklist. Separa chiaramente le attività di Frontend e Backend.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

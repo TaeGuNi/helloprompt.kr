@@ -47,7 +47,7 @@ Use this when you need an intuitive, high-level understanding of an error log to
 > **Task:**
 > Explain the root cause of this error in simple terms from a developer's perspective (e.g., Out of Memory, RBAC permission issue, Network Timeout). Then, provide the top 2 immediate action items I should investigate right now.
 
-<br>
+\
 
 ### 🥇 Pro Version (Incident Recovery & SRE Report)
 
@@ -120,14 +120,14 @@ If you ask the AI, *"This Pod died of OOM. Give me the follow-up commands to che
 
 - **Situation:** Pasted the `kubectl describe pod` events into the Pro Prompt.
 - **AI Response:**
-  > "Based on the logs, this is a scheduling failure due to `Insufficient cpu`. The cluster's worker nodes do not have enough unallocated CPU capacity.
-  > 
+"Based on the logs, this is a scheduling failure due to `Insufficient cpu`. The cluster's worker nodes do not have enough unallocated CPU capacity.
+
   > **[Immediate Action]**
-  > To restore service immediately, temporarily lower the CPU request for this deployment:
-  > `kubectl set resources deployment <deploy-name> -c <container-name> --requests=cpu=200m`
-  > 
+To restore service immediately, temporarily lower the CPU request for this deployment:
+`kubectl set resources deployment <deploy-name> -c <container-name> --requests=cpu=200m`
+
   > **[Preventive Measure]**
-  > To handle future traffic spikes safely, configure the **Cluster Autoscaler** so new worker nodes are provisioned automatically when resources are exhausted."
+To handle future traffic spikes safely, configure the **Cluster Autoscaler** so new worker nodes are provisioned automatically when resources are exhausted."
 - **Result:** Copied the command, ran it, and the Pod was running in 60 seconds. (Incident Resolved ✅)
 
 ---

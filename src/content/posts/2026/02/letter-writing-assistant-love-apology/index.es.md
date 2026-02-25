@@ -42,7 +42,7 @@ En la vida nos enfrentamos a situaciones donde las palabras correctas marcan la 
 > **Rol:** Eres un consejero psicológico y un experto redactor de cartas emocionales.
 > **Solicitud:** Ayúdame a escribir un mensaje para `[Destinatario]` con el objetivo de `[Propósito]`. Mantenlo sincero, natural y empático.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

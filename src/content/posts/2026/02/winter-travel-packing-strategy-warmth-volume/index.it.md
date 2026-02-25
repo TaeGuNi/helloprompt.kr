@@ -48,7 +48,7 @@ Usa questo prompt quando hai bisogno di una lista veloce per fare la valigia all
 > **Ruolo:** Sei un esperto di viaggi outdoor in climi freddi e un maestro nell'ottimizzazione degli spazi.
 > **Richiesta:** Parto per un viaggio invernale ma i miei vestiti occupano troppo spazio. Crea una lista essenziale e dammi consigli su come ridurre il volume del bagaglio senza rinunciare al calore.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 
@@ -106,7 +106,7 @@ Il vero segreto di questo prompt è il vincolo: _"Gli ambienti interni saranno m
 
 ### ❌ Prima (Input generico)
 
-> "Dimmi cosa preparare per un viaggio invernale a Sapporo."
+"Dimmi cosa preparare per un viaggio invernale a Sapporo."
 
 _(L'AI risponde con una lista generica: "Porta maglioni pesanti, sciarpe spesse, pantaloni da neve, tre paia di scarpe...", riempiendo virtualmente 3 valigie da stiva.)_
 

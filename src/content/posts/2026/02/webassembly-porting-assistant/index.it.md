@@ -48,7 +48,7 @@ Ideale quando hai bisogno di convertire e testare rapidamente semplici funzioni 
 > **Codice:**
 > `[Incolla qui il codice C++/Go/Rust da convertire]`
 
-<br>
+\
 
 ### 🥇 Versione Pro (Pro Version)
 

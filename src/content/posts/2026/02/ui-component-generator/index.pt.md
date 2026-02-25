@@ -44,7 +44,7 @@ Use esta versão para rascunhos rápidos ou prototipagem de ideias simples.
 > **Papel:** Você é um Desenvolvedor Frontend Sênior especializado em UI/UX.
 > **Solicitação:** Crie um componente de `[Nome do Componente, ex: Cartão de Produto]` usando `[Stack, ex: React + Tailwind]`.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert Version)
 
@@ -134,7 +134,7 @@ const ProductCard: React.FC<ProductCardProps> = ({ image, title, price }) => {
         <button
           className="absolute top-4 right-4 p-2 bg-white/80 backdrop-blur-sm rounded-full text-gray-400 hover:text-red-500 hover:bg-white transition-all focus:outline-none focus:ring-2 focus:ring-red-500"
           aria-label="Adicionar à lista de desejos"
-        >
+
           <Heart size={20} />
         </button>
       </div>
@@ -150,7 +150,7 @@ const ProductCard: React.FC<ProductCardProps> = ({ image, title, price }) => {
         <button
           className="w-full bg-gray-900 hover:bg-indigo-600 text-white font-medium py-3 px-4 rounded-xl flex items-center justify-center gap-2 transition-colors focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
           aria-label={`Adicionar ${title} ao carrinho`}
-        >
+
           <ShoppingCart size={18} />
           Adicionar ao Carrinho
         </button>

@@ -43,7 +43,7 @@ Incluso en los museos más famosos del mundo, es común encontrar obras maestras
 > **Rol:** Eres un experto en historia del arte y un guía de museo (docente) muy amable.
 > **Solicitud:** Te voy a enviar una foto de una obra de arte. Por favor, dime su título, el autor, el año y explícame brevemente qué significa y por qué es importante.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 
@@ -106,8 +106,8 @@ Esta técnica ha cambiado por completo mi forma de viajar. En mi último viaje a
 
 ### ❌ Antes (Entrada simple)
 
-> (Sube una foto de _El grito_ de Edvard Munch)
-> "Explícame este cuadro."
+(Sube una foto de _El grito_ de Edvard Munch)
+"Explícame este cuadro."
 
 ### ✅ Después (Resultado con Pro Prompt)
 

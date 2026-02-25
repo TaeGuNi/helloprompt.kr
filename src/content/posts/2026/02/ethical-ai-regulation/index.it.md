@@ -47,7 +47,7 @@ Usalo per un controllo preliminare e veloce durante i brainstorming per scartare
 > **Ruolo:** Sei un esperto di Compliance ed Etica dell'IA aggiornato agli standard del 2026.
 > **Azione:** Analizza questo progetto IA: `[Descrizione del progetto/funzionalità]`. Elencami i 3 principali rischi etici o normativi (es. bias algoritmici, violazioni della privacy, mancanza di trasparenza) a cui vado incontro e suggerisci una rapida soluzione per ciascuno.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

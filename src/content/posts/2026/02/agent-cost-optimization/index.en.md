@@ -17,7 +17,7 @@ tags:
 
 - **🎯 Target Audience:** Autonomous AI agent developers, engineers needing cost optimization, startup CTOs
 - **⏱️ Time Required:** 10 minutes to modify prompts → Save hundreds of dollars monthly
-- **🤖 Recommended Models:** Token-billed models like GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Recommended Models:** Token-billed models like GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Difficulty:** ⭐⭐⭐☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -55,7 +55,7 @@ Use this to reduce the 'Fluff Tax'—unnecessary filler tokens—generated durin
 > - Absolutely NO polite greetings, introductory phrases like "I will begin the analysis," or concluding remarks like "Here are the results."
 > - Output ONLY the analysis results and the requested action.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

@@ -41,15 +41,15 @@ Sin embargo, cada mal comportamiento tiene un **'detonante'**. Si describes la s
 Úsalo para problemas menores o curiosidad rápida sobre el lenguaje corporal de tu mascota.
 
 > **Rol:** Eres un especialista en comportamiento animal.
->
-> **Petición:** Mi perro está mostrando el siguiente comportamiento: `[Comportamiento]`. ¿Cuál es la causa psicológica y cómo puedo corregirlo?
->
-> **Información del paciente:**
->
-> - Raza y Edad: `[Tu entrada]`
-> - Situación en la que ocurre: `[Tu entrada]`
 
-<br>
+> **Petición:** Mi perro está mostrando el siguiente comportamiento: `[Comportamiento]`. ¿Cuál es la causa psicológica y cómo puedo corregirlo?
+
+> **Información del paciente:**
+
+- Raza y Edad: `[Tu entrada]`
+- Situación en la que ocurre: `[Tu entrada]`
+
+\
 
 ### 🥇 Versión Pro (Plan de intervención personalizado)
 

@@ -42,7 +42,7 @@ Usala quando hai bisogno di un'ispirazione rapida e immediata.
 > **Ruolo:** Sei un esperto di Copywriting.
 > **Richiesta:** Scrivi 5 titoli accattivanti per un post del blog sull'argomento `[Inserisci l'argomento]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

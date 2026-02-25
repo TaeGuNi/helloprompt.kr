@@ -43,7 +43,7 @@ Use this when you are in a rush and just need a quick overview of the sentiment.
 > **Request:** I will provide a list of customer reviews. Please perform a sentiment analysis (Positive/Neutral/Negative) and give me a brief summary of the overall mood and the most common complaint.
 > **Data:** `[Paste your review data here]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 
@@ -92,7 +92,7 @@ This prompt completely changed how I handle weekly reporting. When you dump a ra
   - A: Yes! Modern LLMs like GPT-4o and Claude 3.5 are incredibly good at understanding context, slang, and typos. You don't need to clean the data before pasting it.
 
 - **Q: How much data can I paste at once?**
-  - A: It depends on the model. For ChatGPT (Plus), you can comfortably paste a few hundred rows. If you use Claude 3.5 Sonnet or Gemini 1.5 Pro, you can literally drop in a CSV file with thousands of rows at once.
+  - A: It depends on the model. For ChatGPT (Plus), you can comfortably paste a few hundred rows. If you use Claude 3.5 Sonnet or Gemini 2.5 Pro, you can literally drop in a CSV file with thousands of rows at once.
 
 - **Q: Can I use this for App Store or Google Play reviews?**
   - A: Absolutely. You can just copy the text from your review tracking tool or scrape the page, dump it into the prompt, and the AI will perfectly categorize the app feedback.

@@ -43,7 +43,7 @@ El momento final de la entrevista no es una simple formalidad; es una **oportuni
 > **Rol:** Eres un coach de carrera estratégico.
 > **Solicitud:** Crea 3 preguntas inversas inteligentes y estratégicas que demuestren un profundo interés en la empresa y perspicacia profesional. Estas preguntas son para responder cuando el entrevistador me diga "¿Tienes alguna pregunta?" al final de la entrevista.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Expert Version)
 

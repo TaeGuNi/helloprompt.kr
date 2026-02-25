@@ -42,7 +42,7 @@ Incluso en una novela de fantasía, la inmersión del lector se rompe si los sis
 > **Rol:** Eres un profesor de ciencias políticas y un experto diseñador de juegos de simulación de civilizaciones.
 > **Solicitud:** Los reinos simples son aburridos. Diseña una nación ficticia con un sistema político tridimensional y complejo, como una teocracia absolutista o una república mercantil oligárquica.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

@@ -42,7 +42,7 @@ Idéal pour obtenir rapidement une trame standard.
 > **Rôle :** Tu es un Expert en Marque Employeur et un Copywriter RH d'élite.
 > **Demande :** Rédige une offre d'emploi pour le poste de `[Nom du Poste]` au sein de notre entreprise `[Nom/Secteur de l'entreprise]`. Rends-la moderne, claire et attrayante.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

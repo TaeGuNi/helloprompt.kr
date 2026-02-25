@@ -48,7 +48,7 @@ Use this when you need core results quickly. Drop the unnecessary process explan
 > **Task:** Provide the optimal solution for `[Problem to Solve]`.
 > **Constraints:** Do not explain the process at length; output only the final result in `[Output Format]`.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

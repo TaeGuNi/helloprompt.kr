@@ -47,7 +47,7 @@ Use this basic prompt when you're completely stuck and just need a slight nudge 
 >
 > **Constraints:** Do NOT provide the final code or complete logic under any circumstances. Only give me a hint about which data structure or algorithm would be optimal from a Time Complexity perspective.
 
-<br>
+\
 
 ### 🥇 Pro Version (Step-by-Step Coaching & Review)
 

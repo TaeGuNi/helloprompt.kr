@@ -42,7 +42,7 @@ Nutzen Sie diesen Prompt für einfache, KI-gestützte PR-Beschreibungen.
 > **Rolle:** Du bist ein höflicher, professioneller Softwareentwickler.
 > **Aufgabe:** Schreibe eine kurze und sehr respektvolle Pull-Request-Beschreibung für `[Problem]`. Erwähne, dass KI zur Unterstützung genutzt wurde.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 
@@ -125,7 +125,7 @@ Dieser PR behebt das Problem in Issue #[Issue-Nummer], indem die Datenbankabfrag
 - `query_builder.ts`: Redundante Schleife entfernt, um den Speicherverbrauch zu senken.
 - Unit-Tests in `query_builder.spec.ts` hinzugefügt, um die Stabilität der Anpassung zu bestätigen.
 
-> 🤖 **Hinweis:** Dieser Code und diese PR-Beschreibung wurden mit Unterstützung eines KI-Tools generiert, jedoch von mir lokal getestet, geprüft und validiert.
+🤖 **Hinweis:** Dieser Code und diese PR-Beschreibung wurden mit Unterstützung eines KI-Tools generiert, jedoch von mir lokal getestet, geprüft und validiert.
 
 Vielen Dank für Ihre Zeit und die Pflege dieses Projekts! Ich freue mich über jedes Feedback und passe den Code bei Bedarf sehr gerne an Ihre Projektstandards an.
 ```

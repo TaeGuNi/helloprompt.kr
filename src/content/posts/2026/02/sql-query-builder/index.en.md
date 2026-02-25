@@ -44,7 +44,7 @@ Use this when you have a simple database structure and need a quick query.
 > **Database:** I am using `[SQL Dialect, e.g., PostgreSQL, MySQL]`.
 > **Table Schema:** `[Briefly describe your tables, e.g., 'users' table with 'id', 'name', 'created_at']`.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

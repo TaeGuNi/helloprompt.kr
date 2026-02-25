@@ -13,7 +13,7 @@ tags: ["Ioga", "Alongamento", "Flexibilidade", "Treino em Casa", "ChatGPT"]
 
 - **🎯 Recomendado para:** Trabalhadores de escritório, iniciantes em yoga e pessoas com pouca flexibilidade
 - **⏱️ Tempo necessário:** 15 minutos de prática (1 minuto para gerar)
-- **🤖 Modelo recomendado:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modelo recomendado:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Dificuldade:** ⭐⭐☆☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Ideal para quando você precisa de uma rotina rápida e sem complicações.
 > **Papel:** Você é um instrutor de yoga especializado em reabilitação e iniciantes.
 > **Pedido:** Crie uma sequência de yoga de 10 minutos muito suave para uma pessoa com o corpo extremamente rígido que trabalha o dia todo sentada.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert)
 
@@ -106,7 +106,7 @@ Uma dica de ouro na hora de usar este prompt é ser extremamente específico sob
 
 ### ❌ Antes (Entrada Simples)
 
-> "Me passe alguns alongamentos de yoga para iniciantes."
+"Me passe alguns alongamentos de yoga para iniciantes."
 
 _(O resultado costuma ser excessivamente genérico, frequentemente recomendando posturas de equilíbrio difíceis ou flexões intensas que podem frustrar ou machucar pessoas com restrições articulares.)_
 

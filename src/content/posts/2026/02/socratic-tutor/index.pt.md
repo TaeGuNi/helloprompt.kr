@@ -13,7 +13,7 @@ tags: ["학습", "자기계발", "메타인지", "튜터링"]
 
 - **🎯 Público-Alvo:** Estudantes, Desenvolvedores Júnior e Gestores de Produto que desejam dominar novos conceitos de forma definitiva.
 - **⏱️ Tempo Estimado:** Ilimitado (Totalmente sincronizado com o seu próprio ritmo de aprendizagem).
-- **🤖 Modelo Recomendado:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro (Capacidade avançada de raciocínio lógico e manutenção de contexto é essencial).
+- **🤖 Modelo Recomendado:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro (Capacidade avançada de raciocínio lógico e manutenção de contexto é essencial).
 
 - ⭐ **Dificuldade:** ⭐⭐⭐☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -44,7 +44,7 @@ Use esta versão para iniciar rapidamente um questionamento prático sobre conce
 > **Função (Role):** Você é o meu professor particular dedicado a ensinar `[Tópico de Estudo]`.
 > **Tarefa (Task):** Continue me fazendo perguntas até que eu entenda completamente o `[Tópico de Estudo]`. Não me dê a resposta de imediato. Se eu der uma resposta errada, forneça apenas uma pequena dica para que eu mesmo perceba o erro. Se eu acertar, passe para a próxima pergunta de nível mais avançado.
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 

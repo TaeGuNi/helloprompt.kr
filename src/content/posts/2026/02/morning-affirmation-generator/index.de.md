@@ -44,7 +44,7 @@ Nutzen Sie diese Version, wenn Sie auf dem Weg zur Arbeit in der U-Bahn schnell 
 > **Rolle:** Du bist der weltbeste `[Motivationscoach]`.
 > **Aufgabe:** Erstelle 5 kurze, kraftvolle positive Affirmationen für mich, damit ich voller Energie in den heutigen Tag starten kann.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten)
 

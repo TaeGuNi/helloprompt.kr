@@ -42,7 +42,7 @@ Nutzen Sie diesen Prompt, wenn Sie sofort eine kurze Pause brauchen, um den Kopf
 > **Rolle:** Du bist ein erfahrener Achtsamkeits-Coach, der sich auf die psychische Gesundheit von Software-Entwicklern spezialisiert hat.
 > **Aufgabe:** Schreibe ein kurzes, beruhigendes 3-Minuten-Meditationsskript. Verwende IT-Metaphern (wie "den Cache leeren" oder "Hintergrundprozesse beenden"), um einem Programmierer zu helfen, akuten Stress abzubauen und sich neu zu fokussieren.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

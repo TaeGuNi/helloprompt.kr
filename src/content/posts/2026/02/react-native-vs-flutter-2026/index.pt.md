@@ -45,7 +45,7 @@ Use esta versão quando precisar de um direcionamento claro e imediato em vez de
 > **Contexto (Situação):** A composição atual da nossa equipe é `[3 desenvolvedores React, 1 backend Node.js]`, e o serviço que queremos criar é um `[app de delivery baseado em localização]`.
 > **Task (Tarefa):** Nesta situação, qual stack tecnológica devemos escolher entre React Native e Flutter? Dê uma resposta clara e fundamente-a com as 3 razões mais críticas.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Análise Profunda para CTO)
 
@@ -109,15 +109,15 @@ No final, o que define a vitória ou a derrota é o **'DNA da Equipe'** e a **'V
 
 ### ❌ Antes (Decisões baseadas em boatos da comunidade)
 
-> "Dizem que o Flutter é a tendência agora, né? O Google está investindo pesado. Vamos de Flutter também!"
+"Dizem que o Flutter é a tendência agora, né? O Google está investindo pesado. Vamos de Flutter também!"
 
 _Resultado:_ Os desenvolvedores frontend React originais desperdiçaram 2 meses tentando aprender a linguagem Dart e o novo gerenciamento de estado (BLoC/Provider). Consequentemente, a data de lançamento do MVP foi adiada e, ao não conseguirem contratar desenvolvedores Flutter adicionais, o projeto fracassou. 🐢
 
 ### ✅ Depois (Decisão baseada na consultoria do Arquiteto de IA)
 
 > **IA CTO:** "Na situação atual, onde todos os membros da equipe são proficientes em React e Node.js, a adoção do Flutter carrega o risco fatal de **'esgotamento de *Runway* devido à curva de aprendizado'**.
->
-> Como a prioridade máxima da sua empresa é lançar o MVP em 3 meses, o **React Native** é esmagadoramente mais vantajoso, pois permite reutilizar mais de 80% do conhecimento existente. As preocupações com o desempenho podem ser totalmente compensadas pela adoção da arquitetura Fabric. Escolha o RN sem olhar para trás."
+
+Como a prioridade máxima da sua empresa é lançar o MVP em 3 meses, o **React Native** é esmagadoramente mais vantajoso, pois permite reutilizar mais de 80% do conhecimento existente. As preocupações com o desempenho podem ser totalmente compensadas pela adoção da arquitetura Fabric. Escolha o RN sem olhar para trás."
 
 _Resultado:_ Ao alavancar o conhecimento existente em React da equipe, o desenvolvimento do MVP do aplicativo foi concluído em apenas 1 mês. Após a validação bem-sucedida no mercado, garantiram o investimento da Série A. 🚀
 

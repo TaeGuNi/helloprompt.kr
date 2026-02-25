@@ -42,7 +42,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Lighting"]
 > **역할:** 너는 `[전문 사진작가]`야.
 > **요청:** `[주제]`를 어둡게 처리하여 형태미와 분위기를 강조하는 역광(Silhouette) 이미지를 생성하는 `[AI 이미지 모델]` 프롬프트를 영어로 작성해줘.
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 

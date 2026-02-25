@@ -47,7 +47,7 @@ Usala quando vuoi semplicemente incollare l'elenco delle autorizzazioni e verifi
 > - Nome: `[Nome dell'estensione]`
 > - Autorizzazioni richieste: `[Copia/incolla l'elenco delle autorizzazioni specificate sul Web Store]`
 
-<br>
+\
 
 ### 🥇 Versione Pro (Pro Version)
 
@@ -115,7 +115,7 @@ Prendi l'abitudine di digitare periodicamente `chrome://extensions/` nella barra
 
 ### ❌ Prima (Domanda Semplice)
 
-> Questa estensione per convertire PDF è sicura? Richiede l'autorizzazione per 'leggere i dati di tutti i siti'.
+Questa estensione per convertire PDF è sicura? Richiede l'autorizzazione per 'leggere i dati di tutti i siti'.
 
 ```text
 La maggior parte dei convertitori PDF ha bisogno di catturare l'intero contenuto della pagina web, quindi potrebbe necessitare di tale autorizzazione. Tuttavia, ti consigliamo di controllare le recensioni per verificare se lo sviluppatore è affidabile.

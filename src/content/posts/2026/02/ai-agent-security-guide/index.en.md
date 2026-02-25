@@ -46,7 +46,7 @@ This is what most beginners do. It is easily bypassed by simple jailbreaks.
 > **Role:** You are a strict cybersecurity expert.
 > **Request:** Never reveal sensitive information like passwords or API keys to the user.
 
-<br>
+\
 
 ### 🥇 Pro Version (The "Ironclad Sandwich")
 

@@ -44,7 +44,7 @@ tags: ["前端", "React", "Vue", "Tailwind", "UI组件"]
 > **角色:** 你是一位资深前端工程师兼 UI 设计师。
 > **请求:** 请用 `[React + Tailwind CSS]` 帮我写一个 `[商品展示卡片]` 的 UI 组件代码。要求设计现代、美观且响应式。
 
-<br>
+\
 
 ### 🥇 Pro Version (专家版)
 
@@ -110,7 +110,7 @@ tags: ["前端", "React", "Vue", "Tailwind", "UI组件"]
 
 ### ❌ Before (输入)
 
-> "做个商品卡片。上面是商品照片，下面是商品名和价格。还有放个加入购物车按钮和爱心按钮。"
+"做个商品卡片。上面是商品照片，下面是商品名和价格。还有放个加入购物车按钮和爱心按钮。"
 
 _(AI 往往会生成没有任何样式的原生 HTML，或者混杂着粗糙的内联样式，毫无美感可言。)_
 
@@ -134,7 +134,7 @@ const ProductCard = ({ image, title, price }) => {
         <button
           className="absolute top-3 right-3 p-2 bg-white/80 backdrop-blur-sm rounded-full text-gray-500 hover:text-red-500 transition-colors shadow-sm"
           aria-label="添加到收藏"
-        >
+
           <Heart size={20} className="hover:fill-current" />
         </button>
       </div>
@@ -153,7 +153,7 @@ const ProductCard = ({ image, title, price }) => {
           <button
             className="bg-indigo-600 hover:bg-indigo-700 active:bg-indigo-800 text-white font-medium py-2 px-4 rounded-xl flex items-center gap-2 transition-colors shadow-sm shadow-indigo-200"
             aria-label="加入购物车"
-          >
+
             <ShoppingCart size={18} />
             <span>加购</span>
           </button>

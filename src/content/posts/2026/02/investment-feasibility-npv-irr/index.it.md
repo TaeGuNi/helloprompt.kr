@@ -42,7 +42,7 @@ Utilizza questo prompt quando hai bisogno di una risposta immediata e senza fron
 > **Ruolo:** Agisci come un Analista Finanziario Senior.
 > **Richiesta:** Spiegami come calcolare facilmente il Valore Attuale Netto (NPV) e il Tasso Interno di Rendimento (IRR) su Excel per valutare se un investimento è conveniente o meno.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

@@ -14,7 +14,7 @@ tags:
 
 - **🎯 Recommended for:** Software Engineers, Tech Leads, Legacy Code Maintainers
 - **⏱️ Time Saved:** Hours of manual tracing → Minutes of automated structuring
-- **🤖 Recommended Model:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (or later)
+- **🤖 Recommended Model:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (or later)
 
 - ⭐ **Difficulty:** ⭐⭐⭐☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -43,7 +43,7 @@ Use this when you need a quick cleanup of a single messy function or script.
 > **Role:** You are an expert Senior Software Engineer specializing in Clean Code.
 > **Task:** Refactor the provided `[Code Snippet]` to improve readability, reduce cyclomatic complexity, and follow SOLID principles. Maintain all existing functionality exactly as is.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

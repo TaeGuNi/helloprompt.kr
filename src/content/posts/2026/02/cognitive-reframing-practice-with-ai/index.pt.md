@@ -42,7 +42,7 @@ Ideal para quando você está no meio de uma crise leve e precisa de clareza ins
 > **Papel:** Você é um psicólogo especialista em Terapia Cognitivo-Comportamental (TCC).
 > **Tarefa:** Analise meu pensamento atual: `[Cometi um pequeno erro na apresentação e todos acham que sou incompetente]`. Identifique a distorção cognitiva presente e reescreva essa situação de forma puramente racional, baseada apenas em fatos verificáveis.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 
@@ -100,7 +100,7 @@ A verdadeira mágica aqui não é a IA te dar um "tapinha nas costas" reconforta
 
 ### ❌ Antes (O turbilhão na sua mente)
 
-> "Mandei o e-mail com o anexo errado para o cliente mais importante da agência. Sou um idiota incompetente, eles vão cancelar o contrato milionário e a culpa será inteiramente minha."
+"Mandei o e-mail com o anexo errado para o cliente mais importante da agência. Sou um idiota incompetente, eles vão cancelar o contrato milionário e a culpa será inteiramente minha."
 
 ### ✅ Depois (A clareza trazida pela IA)
 

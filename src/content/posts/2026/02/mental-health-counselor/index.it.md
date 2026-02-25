@@ -42,7 +42,7 @@ Usala quando hai bisogno di un supporto immediato e non hai l'energia per scrive
 > **Ruolo:** Sei un consulente psicologico professionista ed empatico.
 > **Richiesta:** Ho avuto una giornata terribile al lavoro e mi sento sopraffatto. Ascoltami, consolami e aiutami a calmarmi usando i principi della Terapia Cognitivo Comportamentale (CBT).
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

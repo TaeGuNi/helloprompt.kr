@@ -51,7 +51,7 @@ Usa questo prompt quando vuoi affidare sia la pianificazione che il coding a un 
 > **Ruolo:** Sei un `[Senior AI Developer]`.
 > **Task:** Progetta un `[Agent autonomo per il trading azionario]` e scrivi l'intero codice Python necessario per eseguirlo.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Avanzata)
 
@@ -60,51 +60,51 @@ Questo è un **prompt a catena (Chain Prompting) in 2 fasi** che unisce le doti 
 #### Step 1. Pianificazione con Gemini 3 Ultra (Sfruttando il Deep Think)
 
 > **Ruolo (Role):** Sei un `[Senior AI Solutions Architect]` con 15 anni di esperienza.
->
+
 > **Contesto (Context):**
->
-> - Background: Sto sviluppando un AI agent ibrido che combina l'eccellenza nel coding di GPT-5 con le capacità di ragionamento di Gemini 3 Ultra.
-> - Obiettivo: Progettare un'architettura di sistema infallibile, capace di gestire ogni possibile edge case.
->
+
+- Background: Sto sviluppando un AI agent ibrido che combina l'eccellenza nel coding di GPT-5 con le capacità di ragionamento di Gemini 3 Ultra.
+- Obiettivo: Progettare un'architettura di sistema infallibile, capace di gestire ogni possibile edge case.
+
 > **Task (Richiesta):**
->
-> 1. **Analisi Approfondita (Deep Analysis):** Valuta la fattibilità tecnica dell'idea `[Agent autonomo per il trading azionario]` e identifica almeno 3 fattori di rischio (Risk Factors) potenziali.
-> 2. **Design dell'Architettura:** Progetta l'architettura del sistema includendo data pipeline, modelli AI da utilizzare e integrazioni API esterne.
-> 3. **Strategia di Prompting:** Suggerisci le tecniche di prompting interne (es. Few-shot, Chain-of-Thought) necessarie per far funzionare l'agent in modo affidabile.
->
+
+1. **Analisi Approfondita (Deep Analysis):** Valuta la fattibilità tecnica dell'idea `[Agent autonomo per il trading azionario]` e identifica almeno 3 fattori di rischio (Risk Factors) potenziali.
+2. **Design dell'Architettura:** Progetta l'architettura del sistema includendo data pipeline, modelli AI da utilizzare e integrazioni API esterne.
+3. **Strategia di Prompting:** Suggerisci le tecniche di prompting interne (es. Few-shot, Chain-of-Thought) necessarie per far funzionare l'agent in modo affidabile.
+
 > **Vincoli (Constraints):**
->
-> - Restituisci l'output rigorosamente come una lista Markdown ben formattata.
-> - Specifica in modo chiaro i costi API stimati e i potenziali problemi di Rate Limit.
->
+
+- Restituisci l'output rigorosamente come una lista Markdown ben formattata.
+- Specifica in modo chiaro i costi API stimati e i potenziali problemi di Rate Limit.
+
 > **Avvertenze (Warning):**
->
-> - Sfrutta al massimo la modalità Deep Think di Gemini 3 Ultra per esplorare a fondo le vulnerabilità logiche nascoste. Evita banalità e concetti troppo generici.
+
+- Sfrutta al massimo la modalità Deep Think di Gemini 3 Ultra per esplorare a fondo le vulnerabilità logiche nascoste. Evita banalità e concetti troppo generici.
 
 #### Step 2. Coding con GPT-5 (Garantendo un'esecuzione Zero-shot)
 
 > **Ruolo (Role):** Sei un `[Senior Python Developer]` ex-dipendente di Google.
->
+
 > **Contesto (Context):**
->
-> - Background: Hai a disposizione specifiche tecniche perfette redatte da un architetto esperto.
-> - Obiettivo: Sviluppare codice Python immediatamente distribuibile ed eseguibile (Production-Ready).
->
+
+- Background: Hai a disposizione specifiche tecniche perfette redatte da un architetto esperto.
+- Obiettivo: Sviluppare codice Python immediatamente distribuibile ed eseguibile (Production-Ready).
+
 > **Task (Richiesta):**
->
-> 1. Scrivi un codice Python impeccabile basato su: `[Inserisci qui le specifiche tecniche generate da Gemini]`.
-> 2. **Setup dell'Ambiente:** Specifica tutte le librerie necessarie (in un file `requirements.txt`).
-> 3. **Logica Core:** Implementa la classe principale (`class Agent`) che materializza l'architettura progettata.
-> 4. **Gestione degli Errori (Error Handling):** Includi logiche di difesa robuste per gestire fallimenti delle chiamate API, timeout di rete e imprevisti.
->
+
+1. Scrivi un codice Python impeccabile basato su: `[Inserisci qui le specifiche tecniche generate da Gemini]`.
+2. **Setup dell'Ambiente:** Specifica tutte le librerie necessarie (in un file `requirements.txt`).
+3. **Logica Core:** Implementa la classe principale (`class Agent`) che materializza l'architettura progettata.
+4. **Gestione degli Errori (Error Handling):** Includi logiche di difesa robuste per gestire fallimenti delle chiamate API, timeout di rete e imprevisti.
+
 > **Vincoli (Constraints):**
->
-> - Il codice deve essere rigorosamente modulare e rispettare le linee guida di stile PEP8.
-> - Includi docstring dettagliate per ogni funzione e metodo.
->
+
+- Il codice deve essere rigorosamente modulare e rispettare le linee guida di stile PEP8.
+- Includi docstring dettagliate per ogni funzione e metodo.
+
 > **Avvertenze (Warning):**
->
-> - Non inventare o utilizzare librerie fittizie non esistenti. Il codice deve poter essere eseguito al primo tentativo senza alcun errore.
+
+- Non inventare o utilizzare librerie fittizie non esistenti. Il codice deve poter essere eseguito al primo tentativo senza alcun errore.
 
 ---
 

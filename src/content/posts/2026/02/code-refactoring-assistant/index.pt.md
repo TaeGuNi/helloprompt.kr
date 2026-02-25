@@ -13,7 +13,7 @@ tags: ["코딩", "리팩토링", "클린코드"]
 
 - **🎯 Recomendado para:** Desenvolvedores Júnior a Pleno, Engenheiros de Software, Tech Leads
 - **⏱️ Tempo economizado:** De horas de dor de cabeça → para 2 minutos
-- **🤖 Modelos recomendados:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modelos recomendados:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Dificuldade:** ⭐⭐☆☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -43,7 +43,7 @@ Use quando precisar de uma limpeza rápida em funções pequenas ou scripts simp
 > **Tarefa:** Refatore o código abaixo para torná-lo mais legível, limpo e eficiente. Mantenha a funcionalidade exata.
 > **Código:** `[Cole seu código aqui]`
 
-<br>
+\
 
 ### 🥇 Versão Especialista (Pro Version)
 

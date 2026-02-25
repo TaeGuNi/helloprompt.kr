@@ -42,7 +42,7 @@ Las órdenes directas y los regaños generan resistencia automática en el cereb
 > **Rol:** Eres un consejero experto en psicología del aprendizaje infantil.
 > **Solicitud:** Proporciona 3 técnicas de conversación y preguntas específicas para hacer que un niño se siente a hacer la tarea por voluntad propia, sin usar regaños, amenazas ni presiones.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Experto)
 

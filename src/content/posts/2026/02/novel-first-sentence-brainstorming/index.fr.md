@@ -42,7 +42,7 @@ Idéale pour débloquer l'inspiration en quelques secondes, sans trop de réglag
 > **Rôle :** Tu es un romancier à succès, expert pour capter l'attention du lecteur dès les trois premières secondes.
 > **Requête :** J'ai besoin de captiver mes lecteurs dès la toute première ligne. Propose-moi 10 idées de premières phrases avec une accroche puissante pour mon roman.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

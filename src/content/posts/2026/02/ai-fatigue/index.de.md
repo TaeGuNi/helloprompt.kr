@@ -43,7 +43,7 @@ Nutzen Sie diesen Prompt, um schnell zu prüfen, ob ein neues Tool Ihre Zeit üb
 > **Rolle:** Du bist ein pragmatischer Produktivitätsexperte.
 > **Aufgabe:** Bewerte kritisch, ob ich `[Neues KI-Tool / Feature, z.B. Sora]` für `[Meine aktuelle Aufgabe, z.B. Blogposts schreiben]` wirklich brauche oder ob es nur eine Ablenkung (Shiny Object) ist. Nenne mir 2 klare Pros und 2 schmerzhafte Contras.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Audit)
 
@@ -119,7 +119,7 @@ Mein Kernproblem als Marketer ist das Zusammenfassen von wöchentlichen Performa
 
 ---
 
-## 🎯 결론 (Fazit)
+## 🎯 Conclusion (Fazit)
 
 KI-Müdigkeit ist die vollkommen natürliche Reaktion unseres Gehirns auf die ständige, unnatürliche Informationsüberflutung der Tech-Branche. Der Ausweg aus dem Hamsterrad ist nicht, noch schneller zu rennen, sondern bewusst stehen zu bleiben. Nutzen Sie KI als gezielten Hebel für Ihre wichtigsten und zeitaufwendigsten Aufgaben – und lassen Sie den restlichen Lärm einfach an sich vorbeiziehen.
 

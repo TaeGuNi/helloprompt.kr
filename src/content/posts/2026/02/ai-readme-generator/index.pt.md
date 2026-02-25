@@ -44,7 +44,7 @@ Use esta versão quando precisar apenas estruturar rapidamente o esqueleto do pr
 > **Role (Papel):** Você é um `[Technical Writer Sênior]`.
 > **Task (Tarefa):** Com base na `[estrutura de arquivos]` e na `[stack tecnológica principal]` do meu projeto, crie um rascunho limpo de um README.md em formato Markdown.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Especialista)
 

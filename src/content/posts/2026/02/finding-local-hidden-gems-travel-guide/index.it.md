@@ -42,7 +42,7 @@ Usala quando sei in viaggio e hai bisogno di un consiglio immediato al volo.
 > **Ruolo:** Sei un abitante del posto che vive a `[Nome Città]` da oltre 10 anni.
 > **Richiesta:** Sono stanco dei posti per turisti. Consigliami 3 gemme nascoste locali (ristoranti o caffè) che non si trovano sulle guide turistiche.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

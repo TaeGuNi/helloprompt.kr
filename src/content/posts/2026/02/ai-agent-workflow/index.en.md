@@ -41,7 +41,7 @@ Use this when you need a high-level automation strategy mapped out quickly.
 > **Role:** You are a `[Business Automation Architect]`.
 > **Request:** Design a step-by-step automated workflow for an AI agent to completely handle the task of `[scraping industry newsletters, summarizing key trends, and posting a formatted digest to our team's Slack channel]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Architecture)
 

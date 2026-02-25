@@ -9,7 +9,7 @@ tags: ["storage", "hardware", "data"]
 
 - **🎯 Target Audience:** Infrastructure Engineers, Data Center Managers, AI Solution Architects
 - **⏱️ Time Saved:** 2 hours → 3 minutes
-- **🤖 Recommended AI:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (Specialized in data analysis and report generation)
+- **🤖 Recommended AI:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (Specialized in data analysis and report generation)
 
 - ⭐ **Difficulty:** ⭐⭐⭐☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -40,7 +40,7 @@ Use this when you quickly need summarized statistics and recommended drive lineu
 > **Role:** You are a Senior Data Center Infrastructure Engineer and Storage Expert.
 > **Task:** Based on the Backblaze 2025 Drive Stats, recommend two 20TB+ high-capacity HDD models suitable for a massive AI training data lake, and explain the reasoning behind your choices.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

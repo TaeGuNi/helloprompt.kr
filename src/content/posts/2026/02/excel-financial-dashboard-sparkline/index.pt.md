@@ -42,7 +42,7 @@ Ideal para quando você precisa de resultados imediatos e instruções diretas.
 > **Papel:** Você é um `[Especialista Sênior em Visualização de Dados e Excel]`.
 > **Tarefa:** Escreva um guia passo a passo rápido sobre como transformar uma tabela chata de números em um painel visual utilizando `[Minigráficos]` e `[Formatação Condicional]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

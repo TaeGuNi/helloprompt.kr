@@ -42,7 +42,7 @@ Utilisez ce prompt lorsque vous avez besoin d'une réponse rapide et directe.
 > **Rôle :** Tu es un `[Expert en Data Visualisation]`.
 > **Demande :** J'en ai marre des tableaux Excel illisibles. Crée-moi un guide étape par étape pour concevoir un tableau de bord financier visuellement percutant que mon manager adorera au premier coup d'œil, en utilisant principalement les Sparklines et la Mise en forme conditionnelle.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Experte)
 

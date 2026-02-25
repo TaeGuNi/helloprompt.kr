@@ -46,7 +46,7 @@ Use esta versão para visualizar rapidamente a atmosfera exterior e o estilo arq
 >
 > **Prompt:** modern minimal house exterior, white concrete and wood, large glass windows, nature surrounding, warm lighting, photorealistic, 8k --ar 16:9
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version - Planta Baixa & Isométrica)
 

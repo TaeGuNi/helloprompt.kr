@@ -48,7 +48,7 @@ Nutzen Sie diesen Prompt für einen schnellen, ersten strategischen Überblick.
 > **Rolle:** Du bist ein erfahrener Verhandlungsstratege und Karrierecoach.
 > **Aufgabe:** Vergleiche die folgenden Jobangebote `[Angebote einfügen]` und entwickle eine Strategie für ein Gegenangebot (Counter-Offer), um für mich die besten Konditionen herauszuholen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Prompt)
 
@@ -74,7 +74,7 @@ Für eine detaillierte, maßgeschneiderte Verhandlungsstrategie inklusive eines 
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 Verhandlungsgespräche scheitern oft an der emotionalen Bindung an den vermeintlichen "Traumjob". Man hat Angst, das Angebot durch Nachfragen zu verlieren. Die KI fungiert hier als neutraler Puffer, der Ihnen hilft, Ihren eigenen Marktwert völlig objektiv zu betrachten.
 
@@ -82,7 +82,7 @@ Besonders mächtig ist dieser Prompt, weil er nicht nur rationale Argumente lief
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q: Was ist, wenn die Firma das Gegenangebot ablehnt und das ursprüngliche Angebot wütend zurückzieht?**
   - A: In der professionellen Geschäftswelt passiert das äußerst selten, solange Sie respektvoll kommunizieren (genau dafür sorgt dieser KI-Prompt). Meistens heißt es bei einer Ablehnung einfach: "Leider ist das unser absolutes Maximum." Das ursprüngliche Angebot bleibt dann in der Regel bestehen.

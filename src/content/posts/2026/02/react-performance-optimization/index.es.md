@@ -40,13 +40,13 @@ La memoización por costumbre es un arma de doble filo. La clave para la optimiz
 Usa este prompt cuando quieras encontrar rápidamente la causa de que una función u objeto se recree constantemente, provocando el renderizado de componentes hijos.
 
 > **Rol:** Eres un desarrollador Frontend Senior.
->
-> **Tarea:** El siguiente componente se renderiza innecesariamente cada vez que su padre lo hace. Analiza qué debo aplicar (`React.memo`, `useMemo` o `useCallback`) y dónde debo hacerlo para romper esta cadena de renderizados, y corrige el código.
->
-> **Código:**
-> `[Pega aquí el código del componente que está causando el cuello de botella]`
 
-<br>
+> **Tarea:** El siguiente componente se renderiza innecesariamente cada vez que su padre lo hace. Analiza qué debo aplicar (`React.memo`, `useMemo` o `useCallback`) y dónde debo hacerlo para romper esta cadena de renderizados, y corrige el código.
+
+> **Código:**
+`[Pega aquí el código del componente que está causando el cuello de botella]`
+
+\
 
 ### 🥇 Versión Pro (Mejora a Nivel Arquitectónico)
 

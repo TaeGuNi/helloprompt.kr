@@ -45,7 +45,7 @@ Usa questo prompt essenziale quando hai fretta e desideri solo correggere refusi
 > **Azione:** Controlla l'ortografia e la punteggiatura del `[Testo]` seguente e correggi in modo naturale le frasi che suonano goffe o scorrette. Non alterare mai il significato originale del testo.
 > **Testo:** `[Incolla qui il tuo testo]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Trasformazione Stilistica ed Editing Profondo)
 

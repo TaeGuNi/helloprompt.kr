@@ -42,7 +42,7 @@ Usala quando hai bisogno di un'impostazione rapida e senza troppi dettagli.
 > **Ruolo:** Sei uno Psicologo Comportamentale ed Esperto in Formazione di Abitudini.
 > **Richiesta:** Ho l'obiettivo di `[studiare inglese ogni giorno]`. Basandoti sulla scienza del cervello, aiutami a creare un sistema di abitudini estremamente semplice per non fallire.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Pro Version)
 

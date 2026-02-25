@@ -42,7 +42,7 @@ Los registros del servidor o los mensajes de error de compilación suelen ser ex
 > **Rol:** Eres un `[Ingeniero de Software Senior]`.
 > **Solicitud:** Analiza el siguiente log de error, dime cuál es el problema principal y cómo solucionarlo paso a paso: `[Pega tu log aquí]`.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -90,7 +90,7 @@ Este prompt es invaluable porque no solo te dice "qué" falló, sino "por qué" 
   - A: Debes tener cuidado. Antes de pegar cualquier log, asegúrate de ocultar o eliminar información sensible como contraseñas, tokens de API o datos personales de los usuarios (PII). Muchas empresas tienen políticas estrictas sobre el uso de IAs públicas, así que siempre revisa tus directrices internas.
 
 - **Q: El log de error es demasiado largo y la IA me da un error de límite de tokens. ¿Qué hago?**
-  - A: Si el registro supera el límite, intenta copiar solo las primeras 50 líneas (donde suele estar la excepción principal) y las últimas 50 líneas del rastreo. También puedes usar modelos con mayor ventana de contexto, como Gemini 1.5 Pro o Claude 3.5 Sonnet.
+  - A: Si el registro supera el límite, intenta copiar solo las primeras 50 líneas (donde suele estar la excepción principal) y las últimas 50 líneas del rastreo. También puedes usar modelos con mayor ventana de contexto, como Gemini 2.5 Pro o Claude 3.5 Sonnet.
 
 ---
 

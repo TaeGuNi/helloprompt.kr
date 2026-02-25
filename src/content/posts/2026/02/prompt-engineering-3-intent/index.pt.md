@@ -51,7 +51,7 @@ Estruturado, detalhado, mas excessivamente longo. Engessa a criatividade do mode
 > **Tone:** Amigável, empolgante, focado em benefícios e não apenas em especificações técnicas.
 > **Constraints:** Use no máximo 5 emojis, inclua uma Chamada para Ação (CTA) forte para o link na bio, e divida o texto em parágrafos curtos para facilitar a leitura no celular.
 
-<br>
+\
 
 ### 🥇 Versão Baseada em Intenção (Prompt 3.0 - O Presente)
 

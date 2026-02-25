@@ -51,7 +51,7 @@ Utilisez cette approche lorsque vous souhaitez confier la planification et le co
 > **Rôle :** Tu es un `[Développeur IA Senior]`.
 > **Tâche :** Conçois un `[Agent d'investissement boursier autonome]` et rédige le code Python complet pour l'exécuter.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 
@@ -60,43 +60,43 @@ Un **prompt en chaîne (Chain Prompt) en 2 étapes** qui combine la vision archi
 #### Étape 1. La conception avec Gemini 3 Ultra (Exploitation du Deep Think)
 
 > **Rôle (Role) :** Tu es un `[Architecte Solutions IA Senior]` avec 15 ans d'expérience.
->
+
 > **Contexte (Context) :**
-> - Contexte : Je souhaite développer un agent hybride combinant les capacités de codage de GPT-5 et la puissance de raisonnement de Gemini 3 Ultra.
-> - Objectif : Concevoir une architecture système robuste, capable de gérer parfaitement les cas extrêmes (edge cases).
->
+- Contexte : Je souhaite développer un agent hybride combinant les capacités de codage de GPT-5 et la puissance de raisonnement de Gemini 3 Ultra.
+- Objectif : Concevoir une architecture système robuste, capable de gérer parfaitement les cas extrêmes (edge cases).
+
 > **Tâche (Task) :**
-> 1. **Analyse Profonde (Deep Analysis) :** Évalue la faisabilité technique de l'idée `[Agent d'investissement boursier autonome]` et identifie au moins 3 facteurs de risque potentiels (Risk Factors).
-> 2. **Conception d'Architecture :** Conçois l'architecture globale incluant les pipelines de données nécessaires, les modèles d'IA, et les API externes.
-> 3. **Stratégie de Prompt :** Propose une stratégie de prompting interne (Few-shot, Chain-of-Thought, etc.) pour faire fonctionner cet agent de manière optimale.
->
+1. **Analyse Profonde (Deep Analysis) :** Évalue la faisabilité technique de l'idée `[Agent d'investissement boursier autonome]` et identifie au moins 3 facteurs de risque potentiels (Risk Factors).
+2. **Conception d'Architecture :** Conçois l'architecture globale incluant les pipelines de données nécessaires, les modèles d'IA, et les API externes.
+3. **Stratégie de Prompt :** Propose une stratégie de prompting interne (Few-shot, Chain-of-Thought, etc.) pour faire fonctionner cet agent de manière optimale.
+
 > **Contraintes (Constraints) :**
-> - Formate ta réponse sous forme de liste Markdown claire et lisible.
-> - Précise explicitement les coûts d'API estimés et les limites de taux (Rate Limits) potentiels.
->
+- Formate ta réponse sous forme de liste Markdown claire et lisible.
+- Précise explicitement les coûts d'API estimés et les limites de taux (Rate Limits) potentiels.
+
 > **Avertissement (Warning) :**
-> - Utilise le mode Deep Think au maximum pour débusquer les failles logiques invisibles à première vue. Pas de généralités inutiles.
+- Utilise le mode Deep Think au maximum pour débusquer les failles logiques invisibles à première vue. Pas de généralités inutiles.
 
 #### Étape 2. Le codage avec GPT-5 (Garantie d'exécution Zero-shot)
 
 > **Rôle (Role) :** Tu es un `[Développeur Python Senior]` ayant travaillé chez Google.
->
+
 > **Contexte (Context) :**
-> - Contexte : Les spécifications techniques complètes rédigées par un architecte expert sont prêtes.
-> - Objectif : Implémenter un code Python prêt pour la production (Production-Ready) et déployable immédiatement.
->
+- Contexte : Les spécifications techniques complètes rédigées par un architecte expert sont prêtes.
+- Objectif : Implémenter un code Python prêt pour la production (Production-Ready) et déployable immédiatement.
+
 > **Tâche (Task) :**
-> 1. Rédige le code Python parfait en te basant sur `[Insérer ici les spécifications générées par Gemini]`.
-> 2. **Configuration (Environment Setup) :** Spécifie les bibliothèques requises (`requirements.txt`).
-> 3. **Logique Centrale (Core Logic) :** Implémente la classe principale (`class Agent`) qui concrétise l'architecture.
-> 4. **Gestion des Erreurs (Error Handling) :** Ajoute des mécanismes de défense robustes (échecs d'API, erreurs réseau, etc.).
->
+1. Rédige le code Python parfait en te basant sur `[Insérer ici les spécifications générées par Gemini]`.
+2. **Configuration (Environment Setup) :** Spécifie les bibliothèques requises (`requirements.txt`).
+3. **Logique Centrale (Core Logic) :** Implémente la classe principale (`class Agent`) qui concrétise l'architecture.
+4. **Gestion des Erreurs (Error Handling) :** Ajoute des mécanismes de défense robustes (échecs d'API, erreurs réseau, etc.).
+
 > **Contraintes (Constraints) :**
-> - Le code doit être strictement modulaire et respecter le guide de style PEP8.
-> - Inclus des docstrings détaillées pour chaque fonction.
->
+- Le code doit être strictement modulaire et respecter le guide de style PEP8.
+- Inclus des docstrings détaillées pour chaque fonction.
+
 > **Avertissement (Warning) :**
-> - N'invente pas de bibliothèques fictives. Le code doit s'exécuter parfaitement du premier coup, sans aucune erreur.
+- N'invente pas de bibliothèques fictives. Le code doit s'exécuter parfaitement du premier coup, sans aucune erreur.
 
 ---
 

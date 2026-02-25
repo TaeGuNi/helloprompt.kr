@@ -41,7 +41,7 @@ Utilisez ce prompt pour comprendre rapidement l'architecture globale du projet.
 > **Rôle :** Tu es un `[Expert en GameDev Web]`.
 > **Requête :** Explique-moi simplement comment `[Three.js et WASM]` travaillent ensemble dans le portage web du jeu classique Descent. Résume les avantages majeurs de cette approche d'architecture.
 
-<br>
+\
 
 ### 🥇 Pro Version (Pour les développeurs)
 

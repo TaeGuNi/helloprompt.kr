@@ -46,7 +46,7 @@ Sin embargo, antes de invertir miles de dólares en costosas consultas de diseñ
 > 
 > **Prompt:** modern minimal house exterior, white concrete and wood, large glass windows, nature surrounding, warm lighting, photorealistic, 8k --ar 16:9
 
-<br>
+\
 
 ### 🥇 Versión Pro (Planos e Isométricas Avanzadas)
 

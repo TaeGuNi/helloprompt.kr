@@ -10,7 +10,7 @@ tags: ["AI Trends", "Context Window", "LLM", "2026"]
 
 - **🎯 Zielgruppe:** KI-Entwickler, Datenanalysten, Softwarearchitekten
 - **⏱️ Zeitersparnis:** Stundenlanges Indexieren → 2 Minuten
-- **🤖 Empfohlene Modelle:** Gemini 1.5 Pro, Claude 3.5 Sonnet (Modelle mit extrem großem Kontext)
+- **🤖 Empfohlene Modelle:** Gemini 2.5 Pro, Claude 3.5 Sonnet (Modelle mit extrem großem Kontext)
 
 - ⭐ **Schwierigkeitsgrad:** ⭐⭐☆☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -41,7 +41,7 @@ Perfekt für schnelle, übergreifende Analysen von extrem langen Texten oder Rep
 > **Rolle:** Du bist ein Elite-Datenanalyst und Systemarchitekt.
 > **Aufgabe:** Analysiere die beigefügten 50 Dokumente / die gesamte Codebasis. Fasse die wichtigsten Kernpunkte zusammen und identifiziere alle systemkritischen Abhängigkeiten.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenform)
 

@@ -42,7 +42,7 @@ Verwenden Sie diese Version, wenn Sie nur ein schnelles, unkompliziertes Ergebni
 > **Rolle:** Du bist ein Bestseller-Romanautor mit einem brillanten Gespür für Namensgebung und zugleich ein erfahrener Anthropologe.
 > **Anfrage:** Generiere den perfekten Namen für meinen Charakter, der seine Persönlichkeit, seine Nationalität und die Epoche der Geschichte treffend widerspiegelt.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

@@ -41,11 +41,11 @@ Utilisez ceci lorsque vous avez besoin de saisir rapidement l'essence d'un artic
 
 > **Rôle :** Tu es un `[Expert en Synthèse IT]`.
 > **Tâche :** Résume l'article ci-dessous en 3 lignes pour qu'un professionnel très occupé puisse le lire en 10 secondes. Explique les termes techniques complexes avec des mots simples, de sorte qu'un débutant puisse comprendre.
->
-> **Article Complet :**
-> `[Coller le texte de l'article ici]`
 
-<br>
+> **Article Complet :**
+`[Coller le texte de l'article ici]`
+
+\
 
 ### 🥇 Version Pro (Générateur de Brouillon de Newsletter)
 

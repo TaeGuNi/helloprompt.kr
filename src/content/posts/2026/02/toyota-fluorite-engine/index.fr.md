@@ -44,7 +44,7 @@ Développer pour l'automobile signifiait historiquement lutter avec des système
 > **Approche traditionnelle :** Utiliser des systèmes lourds basés sur C++ ou des moteurs complets comme Unity/Unreal.
 > **Problème :** Ces solutions sont souvent trop gourmandes en ressources et complexes à intégrer harmonieusement avec le reste de l'UI du véhicule.
 
-<br>
+\
 
 ### 🥇 Pro Version (L'Approche Fluorite)
 
@@ -66,7 +66,7 @@ Toyota a pris le pari d'utiliser **Flutter** pour unifier l'intégralité du sys
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 L'annonce de Fluorite par Toyota est un véritable tremblement de terre dans la communauté de développement logiciel. Jusqu'à présent, le framework de jeu officiel de Flutter (Flame) était excellent pour la 2D, mais manquait d'ambition pour la 3D complexe de niveau AAA.
 
@@ -74,7 +74,7 @@ En créant un moteur de niveau console, Toyota ne fait pas qu'améliorer ses voi
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q : Fluorite est-il open-source et accessible au public ?**
   - A : Pour l'instant, Toyota garde Fluorite en tant que technologie propriétaire axée sur leurs systèmes embarqués de prochaine génération. Cependant, les optimisations qu'ils apportent continuellement au moteur Flutter de base (notamment sur Impeller) bénéficient indirectement à toute la communauté open-source.
@@ -84,14 +84,14 @@ En créant un moteur de niveau console, Toyota ne fait pas qu'améliorer ses voi
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🧬 Why it works?
 
 1. **Synergie d'Écosystème :** En utilisant un seul langage (Dart) pour l'UI et le jeu, Toyota réduit drastiquement la fragmentation du code, les coûts de maintenance et les délais de développement.
 2. **Impeller au maximum :** Fluorite court-circuite les limitations traditionnelles en écrivant des shaders personnalisés directement interprétés par Impeller, éliminant ainsi les saccades (jank) historiquement associées aux frameworks cross-platform.
 
 ---
 
-## 📊 증명: Before & After
+## 📊 Before & After
 
 ### ❌ Before (Avant Fluorite)
 
@@ -111,7 +111,7 @@ En créant un moteur de niveau console, Toyota ne fait pas qu'améliorer ses voi
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
 Toyota ne se contente plus de fabriquer des moyens de transport ; l'entreprise construit de véritables plateformes logicielles immersives sur roues. Avec Fluorite, Flutter prouve définitivement qu'il a sa place dans la cour des grands moteurs de rendu haute performance.
 

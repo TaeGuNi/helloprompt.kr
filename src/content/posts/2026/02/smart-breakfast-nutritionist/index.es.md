@@ -42,7 +42,7 @@ Es difícil preparar una comida saludable durante las mañanas ocupadas. Pedir c
 > **Rol:** Eres un chef creativo.
 > **Tarea:** En mi nevera tengo `[2 huevos, 1 rebanada de pan de molde, tomates cherry]`. Recomiéndame solo 3 menús de desayuno que pueda preparar en 15 minutos con esto.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

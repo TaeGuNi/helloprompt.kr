@@ -53,7 +53,7 @@ Utilizza questo prompt quando vuoi aumentare le probabilità di indicizzazione d
 > **Testo del mio articolo:**
 > `[Incolla qui l'intero testo del tuo articolo]`
 
-<br>
+\
 
 ### 🥇 Versione Pro (Progettazione della Struttura SEO Perfetta)
 

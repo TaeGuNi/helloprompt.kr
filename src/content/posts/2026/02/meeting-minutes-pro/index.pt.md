@@ -44,7 +44,7 @@ Você até conseguiu a transcrição pelo Zoom ou outra ferramenta, mas ao abrir
 >
 > `[Cole a transcrição da reunião aqui]`
 
-<br>
+\
 
 ### 🥇 Versão Pro (Especialista)
 
@@ -114,13 +114,13 @@ Este prompt é a minha 'arma secreta', que integrei ao template de atas do Notio
 
 ### ❌ Antes (Entrada: Transcrição bruta)
 
-> "Ah, o Sr. João, sabe aquele... rascunho do banner principal pra essa semana? Preciso que você veja isso. Ah, a propósito, o que vamos almoçar hoje? (risos) Enfim, isso é importante, então por favor não perca o prazo..."
+"Ah, o Sr. João, sabe aquele... rascunho do banner principal pra essa semana? Preciso que você veja isso. Ah, a propósito, o que vamos almoçar hoje? (risos) Enfim, isso é importante, então por favor não perca o prazo..."
 
 ### ✅ Depois (Resultado: Relatório resumido pela IA)
 
 > **🏃‍♂️ Action Items (Tarefas)**
->
-> - [ ] **João**: Criação e compartilhamento do design do banner principal (Prazo: Previsto para esta sexta-feira) _※ Alta prioridade_
+
+- [ ] **João**: Criação e compartilhamento do design do banner principal (Prazo: Previsto para esta sexta-feira) _※ Alta prioridade_
 
 ---
 

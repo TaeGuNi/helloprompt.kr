@@ -13,7 +13,7 @@ tags: ["WiFi", "Surveillance", "Privacy", "Security"]
 
 - **🎯 Recomendado para:** Profissionais de TI, Especialistas em Segurança, Defensores da Privacidade
 - **⏱️ Tempo economizado:** de horas de pesquisa e auditoria técnica → 2 minutos
-- **🤖 Modelo recomendado:** Modelos Avançados (Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro)
+- **🤖 Modelo recomendado:** Modelos Avançados (Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro)
 
 - ⭐ **Dificuldade:** ⭐⭐⭐☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -44,7 +44,7 @@ Ideal para entender o conceito rapidamente e aplicar configurações simples em 
 > **Função:** Você é um `[Especialista em Redes e Cibersegurança]`.
 > **Tarefa:** Explique de forma simples como funciona a tecnologia de rastreamento por Wi-Fi (Wi-Fi Sensing) e me dê 3 passos práticos para evitar que meu roteador monitore meus movimentos dentro de casa.
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 

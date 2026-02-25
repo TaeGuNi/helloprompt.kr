@@ -40,10 +40,10 @@ Apprendre les macros Excel (VBA) ? La syntaxe est obsolète. Lorsqu'il s'agit de
 Le prompt le plus rapide et le plus efficace lorsque vous devez simplement fusionner plusieurs fichiers Excel ayant exactement la même structure et les mêmes en-têtes (première ligne).
 
 > **Contexte :** Dans le dossier `C:/reports/` de mon PC, j'ai 12 fichiers Excel au format identique, comme `janvier.xlsx`, `février.xlsx`, etc.
->
+
 > **Requête :** Écris-moi un script Python qui lit séquentiellement tous les fichiers Excel de ce dossier, les combine en un seul DataFrame, puis enregistre le résultat sur mon bureau sous le nom `total_merged.xlsx`. La structure des en-têtes (noms des colonnes) est strictement identique pour tous les fichiers. Ajoute des commentaires clairs dans le code et explique-moi étape par étape comment l'exécuter.
 
-<br>
+\
 
 ### 🥇 Version Pro (Traitement de Données et Agrégation)
 

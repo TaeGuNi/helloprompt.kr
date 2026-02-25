@@ -46,7 +46,7 @@ tags: ["AI Coding", "Agentic IDE", "Cursor", "Productivity", "Junior Developer"]
 > **角色：** 你是一名 `[前端开发者]`。
 > **任务：** `[UserProfile.tsx]` 这个组件太臃肿了。请将 UI 和业务逻辑分离开来，拆分成独立的文件。
 
-<br>
+\
 
 ### 🥇 Pro Version (专业版)
 

@@ -45,7 +45,7 @@ Use este prompt quando quiser encontrar o ponto ideal de custo-benefício dos re
 >
 > **Task (Tarefa):** O Cold Start das minhas funções AWS Lambda está demorando mais de 2 segundos. A configuração atual usa o runtime Node.js 20 com 128MB de memória. Explique a correlação entre a redução do tempo de Cold Start e o aumento de custos ao alocar mais memória. Além disso, crie um guia passo a passo sobre como usar a ferramenta de código aberto `AWS Lambda Power Tuning` para encontrar o "Sweet Spot" (ponto ideal) entre memória e custo.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Pro: Otimização de Código e Arquitetura)
 

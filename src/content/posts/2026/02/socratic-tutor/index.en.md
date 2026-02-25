@@ -13,7 +13,7 @@ tags: ["학습", "자기계발", "메타인지", "튜터링"]
 
 - **🎯 Recommended for:** Students, junior developers, and planners who want to truly master and internalize new concepts.
 - **⏱️ Time to Value:** Unlimited (perfectly synced to your personal learning pace).
-- **🤖 Recommended AI:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro (Requires high-level logical reasoning and context retention).
+- **🤖 Recommended AI:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro (Requires high-level logical reasoning and context retention).
 
 - ⭐ **Difficulty:** ⭐⭐⭐☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -44,7 +44,7 @@ Use this for a quick, interactive Q&A session on core concepts.
 > **Role:** You are my dedicated 1:1 tutor teaching `[Topic]`.
 > **Task:** Keep asking me questions until I fully understand `[Topic]`. Do not give me the answer outright. If I answer incorrectly, provide only a tiny hint so I can figure it out myself. Once I answer correctly, move on to a more advanced question.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

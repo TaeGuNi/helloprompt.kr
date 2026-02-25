@@ -42,7 +42,7 @@ Verwenden Sie diesen Prompt, wenn Sie schnell und unkompliziert ein grundlegende
 > **Rolle (Role):** Du bist ein professioneller 3D-Environment-Artist.
 > **Aufgabe (Task):** Erstelle eine dreidimensionale, niedliche Ansicht eines [Raumtyps/Objekts] im Stil von modernen 3D-Spielen oder Icons, strikt im isometrischen Winkel (Isometric view).
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Level)
 

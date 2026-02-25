@@ -43,7 +43,7 @@ Utilisez ce prompt lorsque vous avez besoin d'une API mock basique et rapide.
 > **Rôle :** Tu es un `[Développeur Backend Senior]`.
 > **Tâche :** À partir des `[Spécifications de l'API]` que je te fournis, écris le code complet d'un Mock Server directement exécutable dans un environnement `[Express.js]`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

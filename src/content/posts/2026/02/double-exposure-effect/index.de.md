@@ -42,7 +42,7 @@ Verwenden Sie diese Vorlage, wenn Sie ohne große Vorbereitungen ein solides, sc
 > **Rolle:** Du bist ein professioneller digitaler Fotokünstler.
 > **Anfrage:** Erstelle ein Bild mit der Doppelbelichtungstechnik (Double Exposure), bei dem das Profil einer Frau mit einem dunklen Tannenwald überlagert wird. Der Hintergrund soll komplett weiß sein.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Level)
 

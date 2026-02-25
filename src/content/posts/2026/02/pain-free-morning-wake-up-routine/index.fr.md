@@ -42,7 +42,7 @@ Une solution rapide pour obtenir une routine simple et efficace.
 > **Rôle :** Tu es un expert en chronobiologie et un coach de vie matinal.
 > **Demande :** Je suis incapable de me réveiller le matin et j'abuse du bouton "snooze". Crée-moi une routine matinale de 5 minutes, étape par étape, pour me réveiller en douceur et sans douleur.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

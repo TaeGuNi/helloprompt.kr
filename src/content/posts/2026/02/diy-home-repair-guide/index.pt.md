@@ -13,7 +13,7 @@ tags: ["DIY", "집수리", "절약", "생활꿀팁"]
 
 - **🎯 Público-alvo:** Pessoas que moram sozinhas, recém-casados, iniciantes que têm medo até de trocar uma lâmpada, profissionais que querem evitar gastos desnecessários com taxas de visita.
 - **⏱️ Tempo estimado:** 5 minutos de diagnóstico + tempo do reparo → Economiza 1 dia inteiro de espera por um técnico.
-- **🤖 Modelo recomendado:** Qualquer IA conversacional (GPT-4o, Gemini 1.5 Pro, etc. **Reconhecimento de imagem é obrigatório**).
+- **🤖 Modelo recomendado:** Qualquer IA conversacional (GPT-4o, Gemini 2.5 Pro, etc. **Reconhecimento de imagem é obrigatório**).
 
 - ⭐ **Dificuldade:** ⭐⭐☆☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Use para identificar rapidamente a causa de um problema simples ou obter dicas d
 > **Role:** Você é um especialista veterano com 30 anos de experiência em `[hidráulica/elétrica/reparos em geral]`.
 > **Task:** O meu `[local ou nome do aparelho]` está com problemas. O sintoma é `[descrição detalhada do sintoma]`. Qual é a causa provável? Diga-me 3 passos simples, em ordem de dificuldade, para que eu possa consertar sozinho sem chamar um técnico. Se necessário, recomende ferramentas básicas que eu possa comprar em uma loja de ferragens local.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Profissional)
 

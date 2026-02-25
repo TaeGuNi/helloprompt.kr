@@ -41,7 +41,7 @@ Nutzen Sie diese Version für eine schnelle erste Einschätzung Ihrer aktuellen 
 > **Rolle:** Du bist ein erfahrener HR-Stratege und Experte für Organisationsentwicklung.
 > **Aufgabe:** Analysiere unsere `[Branche]`-Abteilung. Zeige auf, welche Einstiegsaufgaben durch KI automatisiert werden können und welche menschlichen Fähigkeiten (wie bei IBMs neuer Strategie) wir zwingend intern aufbauen müssen, um unsere künftige Führungsebene zu sichern.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

@@ -42,7 +42,7 @@ Usala quando hai poco tempo e vuoi un risultato immediato e pulito.
 > **Ruolo:** Sei un copywriter professionista e un influencer su LinkedIn.
 > **Richiesta:** Riscrivi questi appunti `[INSERISCI I TUOI APPUNTI QUI]` in un post coinvolgente per LinkedIn. Usa spazi bianchi, un gancio forte all'inizio e una domanda finale per stimolare i commenti.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Esperta)
 

@@ -42,7 +42,7 @@ El núcleo de cualquier buena novela de misterio reside en el "Cómo" y el "Por 
 > **Rol:** Eres un novelista de misterio con la brillantez analítica de Agatha Christie y Keigo Higashino.
 > **Solicitud:** Diseña un ingenioso truco de asesinato en una habitación cerrada y una coartada aparentemente perfecta.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Experto)
 
@@ -107,7 +107,7 @@ Si sientes que la "Pista Decisiva" generada es demasiado evidente, te recomiendo
 
 ### ❌ Antes (Entrada genérica)
 
-> Sugiéreme un truco de asesinato en una habitación cerrada.
+Sugiéreme un truco de asesinato en una habitación cerrada.
 
 _(Resultado típico: La IA sugiere el predecible truco de atar la llave a un hilo de pescar y tirar de él por debajo de la puerta una vez cerrada. Una decepción para cualquier lector moderno)._
 

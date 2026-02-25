@@ -48,7 +48,7 @@ Ideale per ottenere risposte rapide mentre sei in viaggio.
 > **Ruolo:** Sei un'esperta guida turistica globale, specializzata in turismo religioso e rispetto delle tradizioni locali.
 > **Richiesta:** Sto per visitare un luogo sacro. Spiegami in modo conciso quali sono le regole di abbigliamento da rispettare per non essere respinti all'ingresso.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 
@@ -110,7 +110,7 @@ Utilizzando la **Pro Version**, non ottieni solo la regola formale ("copri le gi
 
 ### ❌ Prima (Input generico)
 
-> Cosa mi metto per il Grand Palace di Bangkok?
+Cosa mi metto per il Grand Palace di Bangkok?
 
 _Risultato dell'IA:_ Mettiti qualcosa di sobrio che copra braccia e gambe perché è un luogo molto rispettato dai thailandesi.
 

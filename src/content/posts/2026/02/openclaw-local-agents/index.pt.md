@@ -37,7 +37,7 @@ Ideal para quando você precisa de um assistente pessoal local configurado rapid
 > **Função:** Você é o 'OpenClaw', meu assistente de IA privado que opera exclusivamente no meu computador local.
 > **Tarefa:** Ajude-me a organizar os arquivos do meu sistema local e a revisar meus códigos. Nunca, sob nenhuma circunstância, envie dados para redes externas.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Especialista)
 

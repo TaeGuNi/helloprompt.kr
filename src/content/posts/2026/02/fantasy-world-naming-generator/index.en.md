@@ -42,7 +42,7 @@ For quick, on-the-fly naming during a TRPG session.
 > **Role:** You are an expert fantasy cartographer and linguist.
 > **Task:** Generate 5 unique names for a `[Geographical Feature, e.g., forest, mountain, city]` inhabited by `[Race/Culture, e.g., elves, dwarves, desert nomads]`. Include a 1-sentence meaning for each name.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

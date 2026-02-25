@@ -7,9 +7,6 @@ updatedDate: "2026-02-16"
 category: "AI 트렌드"
 description: " \"Stop obsessing over word choices. In the era of Gemini 3 and GPT-5, you need to design 'Intents' rather than craft sentences.\""
 tags: ["AI 트렌드", "에이전트", "Gemini 3", "GPT-5", "프롬프트 엔지니어링"]
-image:
-  url: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2565&auto=format&fit=crop"
-  alt: "추상적인 AI 에이전트 네트워크"
 ---
 
 # 📝 Prompt Engineering is Dead. Welcome to 'Intent Architecting'.
@@ -47,7 +44,7 @@ This is the outdated method. The quality of the output relies entirely on luck a
 > **Role:** You are a tech blogger.
 > **Task:** Write a post comparing Rust and Go. Make it fun and engaging.
 
-<br>
+\
 
 ### 🥇 Pro Version (The Architect)
 

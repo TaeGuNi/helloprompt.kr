@@ -42,7 +42,7 @@ Use esta versão quando precisar de um panorama rápido e direto.
 > **Papel:** Você é um `[Consultor de Estratégia]` sênior em uma consultoria de negócios de ponta.
 > **Solicitação:** Faça uma análise SWOT (Forças, Fraquezas, Oportunidades e Ameaças) da empresa `[Nome da Empresa]`, focando estritamente na perspectiva de um investidor.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 
@@ -115,10 +115,10 @@ Quais são os prós e contras de investir na Hyundai Motor hoje?
 
 | Quadrante | Detalhes Principais |
 | :--- | :--- |
-| **💪 Forças (Strengths)** | 1. Portfólio de produção flexível, com forte liderança e alta rentabilidade no mercado de veículos híbridos.<br>2. Expansão contínua das margens de lucro globais impulsionada pelo sucesso do posicionamento da marca premium Genesis.<br>3. Forte injeção de capital estratégico garantida através do recente e bem-sucedido IPO da subsidiária na Índia. |
-| **📉 Fraquezas (Weaknesses)** | 1. Dificuldade persistente e atraso crônico na recuperação da participação de mercado na China.<br>2. Estrutura de custos trabalhistas rígida e historicamente elevada, fortemente atrelada a riscos sindicais sul-coreanos.<br>3. Desvantagem competitiva relativa em software corporativo e na transição para SDV (Software-Defined Vehicles) comparada à Tesla. |
-| **🌟 Oportunidades (Opportunities)** | 1. Aumento acentuado na demanda por veículos híbridos nos EUA servindo como ponte lucrativa para a eletrificação total.<br>2. Crescimento robusto e ganho de market share em mercados emergentes em ascensão, como Índia e bloco da ASEAN.<br>3. Avanços tangíveis em novas frentes de expansão de receita tecnológica, englobando mobilidade autônoma e robótica. |
-| **⚠️ Ameaças (Threats)** | 1. Alta incerteza macroeconômica envolvendo o IRA (Inflation Reduction Act) dos EUA e possíveis barreiras tarifárias na era pós-eleições.<br>2. Guerra de preços agressiva liderada por cortes da Tesla e pela rápida expansão global das montadoras chinesas eficientes (ex: BYD).<br>3. Risco iminente de desaceleração na demanda global por carros novos devido a um cenário prolongado de altas taxas de juros. |
+| **💪 Forças (Strengths)** | 1. Portfólio de produção flexível, com forte liderança e alta rentabilidade no mercado de veículos híbridos.\2. Expansão contínua das margens de lucro globais impulsionada pelo sucesso do posicionamento da marca premium Genesis.\3. Forte injeção de capital estratégico garantida através do recente e bem-sucedido IPO da subsidiária na Índia. |
+| **📉 Fraquezas (Weaknesses)** | 1. Dificuldade persistente e atraso crônico na recuperação da participação de mercado na China.\2. Estrutura de custos trabalhistas rígida e historicamente elevada, fortemente atrelada a riscos sindicais sul-coreanos.\3. Desvantagem competitiva relativa em software corporativo e na transição para SDV (Software-Defined Vehicles) comparada à Tesla. |
+| **🌟 Oportunidades (Opportunities)** | 1. Aumento acentuado na demanda por veículos híbridos nos EUA servindo como ponte lucrativa para a eletrificação total.\2. Crescimento robusto e ganho de market share em mercados emergentes em ascensão, como Índia e bloco da ASEAN.\3. Avanços tangíveis em novas frentes de expansão de receita tecnológica, englobando mobilidade autônoma e robótica. |
+| **⚠️ Ameaças (Threats)** | 1. Alta incerteza macroeconômica envolvendo o IRA (Inflation Reduction Act) dos EUA e possíveis barreiras tarifárias na era pós-eleições.\2. Guerra de preços agressiva liderada por cortes da Tesla e pela rápida expansão global das montadoras chinesas eficientes (ex: BYD).\3. Risco iminente de desaceleração na demanda global por carros novos devido a um cenário prolongado de altas taxas de juros. |
 
 **🔑 Ponto-Chave de Observação:**
 "A valorização da Hyundai no curto prazo dependerá crucialmente de sua capacidade de utilizar as altas margens de lucro dos seus veículos híbridos para financiar a agressiva guerra de preços e software dos veículos elétricos contra as montadoras chinesas, sem destruir sua própria rentabilidade no processo."

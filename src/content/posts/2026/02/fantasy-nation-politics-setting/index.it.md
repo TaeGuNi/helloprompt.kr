@@ -42,7 +42,7 @@ Usala quando hai bisogno di un'idea di base in pochi secondi.
 > **Ruolo:** Sei un professore di scienze politiche e un designer di giochi di simulazione di civiltà.
 > **Richiesta:** Un semplice regno fantasy è noioso. Progetta una nazione con un sistema politico tridimensionale (es. teocrazia, repubblica mercantile) basato su conflitti di potere realistici.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Esperto)
 

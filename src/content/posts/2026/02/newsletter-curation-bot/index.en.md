@@ -45,7 +45,7 @@ Use this when you quickly need to grasp the core points of an article.
 > **Article Text:**
 > `[Paste the body of the news article here]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Newsletter Draft Generator)
 

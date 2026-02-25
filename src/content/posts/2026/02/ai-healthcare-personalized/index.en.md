@@ -50,7 +50,7 @@ Use this quick prompt when you need a fast, personalized health summary based on
 > **Task:** Analyze the following `[Health Data]` and provide a personalized, easy-to-understand 3-step action plan for today.
 > **Health Data:** `[Insert data here, e.g., 5 hours of sleep, 3000 steps, high stress level]`
 
-<br>
+\
 
 ### 🥇 Pro Version
 

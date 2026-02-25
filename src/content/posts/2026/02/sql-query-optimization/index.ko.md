@@ -43,7 +43,7 @@ tags: ["SQL", "DB튜닝", "백엔드", "ChatGPT", "성능최적화"]
 > **쿼리:** `[여기에 느린 쿼리 입력, 예: SELECT * FROM users WHERE ...]`
 > **요청:** 이 쿼리의 실행 속도가 너무 느려. 동일한 결과를 반환하지만, 데이터베이스 엔진이 더 효율적으로 처리할 수 있도록 쿼리를 재작성해 줘. 불필요한 서브쿼리가 있다면 JOIN으로 변경하고, 이유를 짧게 설명해 줘.
 
-<br>
+\
 
 ### 🥇 Pro Version (실행 계획 분석 및 인덱스 설계)
 
@@ -120,12 +120,12 @@ _(결과: `type: ALL`, `rows: 50000000`, `Extra: Using filesort`)_
 
 **🤖 AI DBA의 진단 및 처방:**
 
-> "현재 쿼리는 `orders` 테이블 전체를 스캔하며 메모리 부하를 일으키는 `Using filesort`가 발생 중입니다. `user_id`로 필터링한 후 `created_at`으로 정렬하므로, 두 컬럼을 조합한 복합 인덱스가 필요합니다."
->
-> ```sql
-> -- 추천 인덱스 생성 쿼리
-> CREATE INDEX idx_orders_userid_createdat ON orders(user_id, created_at DESC);
-> ```
+"현재 쿼리는 `orders` 테이블 전체를 스캔하며 메모리 부하를 일으키는 `Using filesort`가 발생 중입니다. `user_id`로 필터링한 후 `created_at`으로 정렬하므로, 두 컬럼을 조합한 복합 인덱스가 필요합니다."
+
+```sql
+-- 추천 인덱스 생성 쿼리
+CREATE INDEX idx_orders_userid_createdat ON orders(user_id, created_at DESC);
+```
 
 _(인덱스 적용 후 결과: `type: ref`, `rows: 15`, `Extra: Using index condition`)_
 **해과:** 5천만 건을 뒤지던 탐색 범위가 단 15건으로 줄었습니다. 5초가 걸리던 응답 속도가 0.05초(100배 향상)로 최적화되었습니다. 🚀

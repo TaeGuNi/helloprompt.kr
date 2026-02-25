@@ -42,7 +42,7 @@ Use quando precisar de recomendações rápidas de itens decorativos para mudar 
 > **Função (Role):** Você é um designer de interiores com excelente senso estético.
 > **Tarefa (Task):** Analise a foto do quarto em anexo e recomende 3 itens decorativos (como tapetes, luminárias, plantas, etc.) que custem menos de R$ 300,00 no total, para tornar o espaço mais iluminado e visualmente mais amplo. Indique também o local ideal para posicionar cada item recomendado.
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 

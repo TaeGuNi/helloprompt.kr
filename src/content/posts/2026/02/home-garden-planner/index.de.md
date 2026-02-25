@@ -13,7 +13,7 @@ tags: ["가드닝", "식집사", "반려식물", "플랜테리어"]
 
 - **🎯 Empfohlen für:** "Serien-Pflanzenmörder", Planterior-Einsteiger, Singles mit dem Traum vom eigenen Balkongarten
 - **⏱️ Zeitaufwand:** 5 Minuten (für Umweltanalyse und Diagnose)
-- **🤖 Empfohlene Modelle:** GPT-4o, Gemini 1.5 Pro (Vision-Modelle sind für das Erkennen subtiler Veränderungen auf Pflanzenfotos unerlässlich)
+- **🤖 Empfohlene Modelle:** GPT-4o, Gemini 2.5 Pro (Vision-Modelle sind für das Erkennen subtiler Veränderungen auf Pflanzenfotos unerlässlich)
 
 - ⭐ **Schwierigkeitsgrad:** ⭐☆☆☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -53,7 +53,7 @@ Nutze diesen Prompt, wenn du die perfekte Pflanze für deine Räumlichkeiten und
 > **Ausgabeformat:** 
 > Gib für jede Pflanze Folgendes an: "Empfehlungsgrund", "Bedeutung der Pflanze", "Schwierigkeitsgrad beim Gießen" und "Tipps für die Inneneinrichtung".
 
-<br>
+\
 
 ### 🥇 Pro Version (Pflanzen-Notaufnahme & Heilungsplan)
 

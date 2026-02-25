@@ -44,7 +44,7 @@ Use this when you want to assign a single task quickly and monitor the results v
 > **Role:** You are a `[Senior Developer]`.
 > **Task:** Fix the `[Specific Feature/Bug]` in the current project. Before making any changes, you must brief me on exactly which files you plan to modify. Output your changes step-by-step so they are easy to verify in AionUi.
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -101,7 +101,7 @@ The combination of this prompt and AionUi is a workflow I strongly recommend, es
 ### ❌ Before (Standard CLI Environment)
 
 ```text
-> Agent running...
+Agent running...
 [Log] Scanning file: src/utils/api.ts
 [Log] Modifying code...
 [Log] Task completed. (Wait, what exactly did it change...?)

@@ -40,23 +40,23 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Освещение", "Атм
 Используйте этот шаблон, когда вам нужен мгновенный и красивый результат без долгих настроек.
 
 > **Роль:** Ты — профессиональный концепт-художник и мастер по свету.
->
+
 > **Запрос:** Нарисуй `[сцену, например: старинную библиотеку]`. Добавь эффект объемного освещения (`volumetric lighting`), где яркие лучи света (`god rays`) пробиваются сквозь `[преграду, например: высокие окна]`, освещая пылинки в воздухе.
 
-<br>
+\
 
 ### 🥇 Профессиональная версия (Midjourney/Stable Diffusion)
 
 Используйте этот промпт для достижения кинематографического качества с максимальной детализацией текстур и света.
 
 > **Prompt:**
->
+
 > **Subject:** `[An ancient library interior, floating books, magical dust particles]`.
->
+
 > **Lighting:** `[Intense volumetric lighting pouring through tall gothic windows, god rays, dust motes dancing in the light, chiaroscuro]`.
->
+
 > **Style:** `[Fantasy art, ethereal atmosphere, highly detailed, 8k, Unreal Engine 5 render style, cinematic lighting]`.
->
+
 > **Parameters (Midjourney):** `--ar 16:9 --v 6.0 --style raw --c 5`
 
 ---

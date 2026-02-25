@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "quantum-ai-hybrids-2026"]
 
 - **🎯 Recommandé pour :** Ingénieurs ML, Développeurs IA, Chercheurs
 - **⏱️ Temps gagné :** 2 heures de lecture de doc → 1 minute de code
-- **🤖 Modèles recommandés :** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modèles recommandés :** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Difficulté :** ⭐⭐⭐⭐☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -41,7 +41,7 @@ Idéal pour obtenir rapidement un squelette de code d'intégration quantique.
 > **Rôle :** Tu es un `[Ingénieur en Machine Learning Quantique]`.
 > **Requête :** Rédige-moi un script Python simple utilisant `[TensorFlow Quantum]` pour créer un modèle hybride classique-quantique avec une couche dense classique et un circuit quantique paramétré.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

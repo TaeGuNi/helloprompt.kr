@@ -48,7 +48,7 @@ tags:
 > **Rol:** Eres un experto psicólogo positivo y consultor de carrera senior.
 > **Solicitud:** Ayúdame a reinterpretar un período de inactividad en mi currículum (año sabático, descanso, viaje) como una etapa valiosa de autodesarrollo y recarga de energía. Dame ideas sobre cómo integrar esta perspectiva de forma natural en mi carta de presentación y entrevistas.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

@@ -48,7 +48,7 @@ Ideal cuando ya tienes el texto del manual a mano, o para juegos muy populares c
 > 2. Resume en orden cronológico las acciones que puedo realizar durante mi turno.
 > 3. Señala los 3 errores de reglas (rule errors/microrreglas) más comunes que la gente suele cometer en su primera partida.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta) {#pdf}
 

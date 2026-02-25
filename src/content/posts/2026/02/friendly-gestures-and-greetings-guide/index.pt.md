@@ -42,7 +42,7 @@ Use esta versão para obter respostas rápidas antes de um encontro ou viagem de
 > **Papel:** Você é um Especialista em Comunicação Cultural, mestre em etiqueta internacional e linguagem corporal.
 > **Pedido:** Vou viajar para `[País/Região]`. Quais são as saudações básicas que devo saber e quais gestos de mão ou posturas corporais eu **nunca** devo usar para não ofender os habitantes locais?
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert Version)
 

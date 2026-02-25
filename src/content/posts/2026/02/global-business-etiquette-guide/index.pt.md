@@ -48,7 +48,7 @@ Ideal para quando você está a poucos minutos de entrar na sala de reunião e p
 > **Papel:** Você é um consultor veterano em Negócios Internacionais.
 > **Pedido:** Vou ter uma reunião no país `[Nome do País]`. Diga-me rapidamente se devo entregar o cartão de visitas com as duas mãos, quem deve iniciar o aperto de mão e cite 3 erros fatais que devo evitar a todo custo.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Nível Especialista)
 

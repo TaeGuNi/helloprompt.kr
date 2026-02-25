@@ -43,7 +43,7 @@ Nutzen Sie diese Version, wenn Sie blitzschnell herausfinden müssen, wer was zu
 > **Aufgabe:** Extrahiere aus dem bereitgestellten Meeting-Transkript eine saubere Liste mit umsetzbaren Action Items, die klar definieren: "Wer (Assignee)", "Bis wann (Due Date)" und "Was (Task)".
 > **Transkript:** `[Füge hier das Meeting-Transkript ein]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Die Experten-Variante)
 

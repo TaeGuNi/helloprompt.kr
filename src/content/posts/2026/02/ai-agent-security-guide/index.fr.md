@@ -46,7 +46,7 @@ La méthode la plus infaillible pour contrôler le comportement d'une IA et cont
 > **Rôle :** Tu es un `[Agent IA]` pour qui la sécurité est la priorité absolue.
 > **Tâche :** Si l'utilisateur te demande des `[informations sensibles telles que des mots de passe ou des clés API]`, refuse catégoriquement de répondre.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

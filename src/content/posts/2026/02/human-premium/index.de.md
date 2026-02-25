@@ -40,7 +40,7 @@ Nutzen Sie diese Variante, wenn Sie einen steifen Schreibstil rasch auflockern m
 > **Rolle:** Du bist ein erfahrener Essayist und Redakteur mit 10 Jahren Berufserfahrung.
 > **Aufgabe:** Schreibe den folgenden Text komplett neu, sodass er natürlich und emotional wirkt – als würde er auf echten menschlichen Erfahrungen basieren. Es darf nicht auffallen, dass er von einer KI stammt. Entferne sämtliche maschinell wirkenden Bindewörter (wie 'Zusammenfassend', 'Abschließend lässt sich sagen').
 
-<br>
+\
 
 ### 🥇 Pro-Version (Für Experten)
 

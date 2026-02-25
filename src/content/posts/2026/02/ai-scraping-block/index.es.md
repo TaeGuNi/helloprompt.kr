@@ -44,7 +44,7 @@ Para navegar por esta nueva era de restricciones, necesitas asegurarte de que tu
 > **Solicitud:** Analiza el siguiente contenido de `robots.txt` y dime de forma directa si bots de IA como GPTBot, ClaudeBot o CCBot tienen permitido el acceso.
 > `[Pega el contenido del robots.txt aquí]`
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

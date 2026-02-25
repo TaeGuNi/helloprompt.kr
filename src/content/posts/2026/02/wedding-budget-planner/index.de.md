@@ -42,7 +42,7 @@ Nutzen Sie diese Variante für einen schnellen, groben Kostenüberblick.
 > **Rolle:** Du bist ein erfahrener `[Hochzeitsplaner]` mit 10 Jahren Berufserfahrung und Expertise in der Finanzberatung.
 > **Anfrage:** Erstelle mir eine vollständige Checkliste für alle anfallenden Hochzeitskosten und identifiziere typische Kostenfallen, um mein Budget zu schonen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 
@@ -115,13 +115,13 @@ Ist eine Hochzeit für 30.000 Euro möglich? Mach ein Budget.
 
 | Kategorie | Empfohlenes Budget | Details & Versteckte Kostenfallen (Achtung!) |
 | :--- | :--- | :--- |
-| **Location & Catering** | 12.000 € | Catering (80 Pers. x 100€) + Raummiete 4.000€ <br>⚠️ *Vorsicht: Korkgeld, Tellergeld für eigenen Kuchen, Überstundenzuschläge für Personal nach Mitternacht.* |
-| **Outfits & Styling** | 3.500 € | Brautkleid (inkl. Änderungen), Anzug, Ringe, Styling <br>⚠️ *Oft vergessen: Änderungskosten beim Schneider (oft 200-400€), Probe-Make-up, Schuhe.* |
-| **Foto & Video** | 3.000 € | Hochzeitsreportage (8 Stunden) <br>⚠️ *Prüfen: Sind alle bearbeiteten Bilder inklusive oder kostet der Download extra? Anfahrtskosten?* |
-| **Deko & Floristik** | 2.500 € | Brautstrauß, Tischdeko, Zeremonie <br>⚠️ *Liefer- und Aufbaukosten werden oft erst im finalen Angebot aufgeschlagen.* |
-| **Entertainment** | 2.000 € | DJ & Technik <br>⚠️ *Muss zusätzliche Lichttechnik gemietet werden? GEMA-Gebühren?* |
-| **Flitterwochen** | 5.000 € | Flug & Hotel <br>⚠️ *Touristensteuern vor Ort, Ausflüge, Mietwagen-Versicherungen.* |
-| **Sicherheitspuffer** | 2.000 € | Unvorhergesehenes (Porto, Dankeskarten, Gastgeschenke) <br>⚠️ *Planen Sie immer 10-15% des Budgets als Puffer ein!* |
+| **Location & Catering** | 12.000 € | Catering (80 Pers. x 100€) + Raummiete 4.000€ \⚠️ *Vorsicht: Korkgeld, Tellergeld für eigenen Kuchen, Überstundenzuschläge für Personal nach Mitternacht.* |
+| **Outfits & Styling** | 3.500 € | Brautkleid (inkl. Änderungen), Anzug, Ringe, Styling \⚠️ *Oft vergessen: Änderungskosten beim Schneider (oft 200-400€), Probe-Make-up, Schuhe.* |
+| **Foto & Video** | 3.000 € | Hochzeitsreportage (8 Stunden) \⚠️ *Prüfen: Sind alle bearbeiteten Bilder inklusive oder kostet der Download extra? Anfahrtskosten?* |
+| **Deko & Floristik** | 2.500 € | Brautstrauß, Tischdeko, Zeremonie \⚠️ *Liefer- und Aufbaukosten werden oft erst im finalen Angebot aufgeschlagen.* |
+| **Entertainment** | 2.000 € | DJ & Technik \⚠️ *Muss zusätzliche Lichttechnik gemietet werden? GEMA-Gebühren?* |
+| **Flitterwochen** | 5.000 € | Flug & Hotel \⚠️ *Touristensteuern vor Ort, Ausflüge, Mietwagen-Versicherungen.* |
+| **Sicherheitspuffer** | 2.000 € | Unvorhergesehenes (Porto, Dankeskarten, Gastgeschenke) \⚠️ *Planen Sie immer 10-15% des Budgets als Puffer ein!* |
 
 **💡 Planer-Tipp:**
 Investieren Sie in einen exzellenten Fotografen und gutes Essen (hier erinnern sich die Gäste). Sparen Sie bei Gastgeschenken und aufwendiger Papeterie – beides landet meist im Müll.

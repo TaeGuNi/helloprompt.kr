@@ -48,7 +48,7 @@ Utilisez cette version si vous manquez de temps et souhaitez une ébauche simple
 > **Rôle :** Tu es un expert en communication d'entreprise et en ressources humaines.
 > **Requête :** Rédige un e-mail professionnel et courtois pour demander un entretien de négociation salariale à mon manager. L'e-mail doit mentionner mes bonnes performances récentes de manière subtile, sans paraître agressif ni mentionner de montant exact.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

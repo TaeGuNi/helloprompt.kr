@@ -44,7 +44,7 @@ Previously, combining 3D elements with Flutter required clunky workarounds and h
 > **Approach:** Embedding Unity or Unreal Engine instances inside a Flutter app via platform channels (Platform Views).
 > **Problem:** Massive memory footprint, slow initialization times, and disconnected rendering layers that make UI overlays laggy and unsynchronized.
 
-<br>
+\
 
 ### 🥇 The Fluorite Architecture (Pro Approach)
 

@@ -41,7 +41,7 @@ Use this when you need to quickly find a good place nearby.
 
 > **Task:** Recommend exactly 3 `[cafes]` near `[Aewol-eup, Jeju Island]` that have an amazing `[ocean view]`. Please find places that aren't overly crowded and have convenient parking.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

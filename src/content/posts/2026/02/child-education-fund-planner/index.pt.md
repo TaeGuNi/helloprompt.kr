@@ -44,7 +44,7 @@ Use esta versão para ter uma estimativa rápida e direta.
 >
 > **Solicitação:** A taxa de inflação educacional é assustadora. Calcule aproximadamente de quanto dinheiro eu precisarei guardado quando meu filho de `[5 anos]` for para a faculdade aos 18 anos, e quanto devo investir por mês a partir de hoje.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

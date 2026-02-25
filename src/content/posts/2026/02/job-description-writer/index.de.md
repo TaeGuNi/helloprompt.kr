@@ -42,7 +42,7 @@ Nutzen Sie diesen Prompt, wenn Sie unter Zeitdruck stehen und einen soliden erst
 > **Rolle:** Du bist ein erfahrener Experte für Employer Branding und Recruiting.
 > **Aufgabe:** Schreibe eine überzeugende Stellenbeschreibung für die Position `[Jobtitel]`. Hebe deutlich hervor, warum diese Rolle in unserem Unternehmen spannend ist.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Level)
 
@@ -106,7 +106,7 @@ Dieser Prompt ist ein echter Gamechanger. Er zwingt die KI dazu, aus der reinen 
 ### ❌ Before (Einfacher Befehl)
 
 ```text
-> "Schreibe eine Stellenanzeige für einen Marketer in unserem E-Commerce Startup."
+"Schreibe eine Stellenanzeige für einen Marketer in unserem E-Commerce Startup."
 ```
 
 _(Ergebnis: Eine trockene Aufzählung von "Wir suchen... Du machst... Wir bieten einen Obstkorb.")_

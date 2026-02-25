@@ -42,7 +42,7 @@ Use this when you just need a quick baseline script.
 > **Role:** You are an expert career coach and image consultant.
 > **Request:** Write a 1-minute self-introduction script that firmly establishes my unique professional concept and core competencies, strictly avoiding any cliché metaphors.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 
@@ -79,7 +79,7 @@ Use this when you need a highly polished, interview-ready script.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 Why does this prompt work so well? Most candidates make the fatal mistake of using the 1-minute introduction to recite their resume chronologically. Interviewers already have your resume; they don't need an audio version of it.
 
@@ -89,7 +89,7 @@ _Pro Tip: Once the AI gives you the script, read it out loud several times and r
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q: Does this work well for fresh graduates with no work experience?**
   - A: Absolutely. Instead of professional experience, input your academic projects, leadership roles in clubs, or specific coursework into the `[Strength]` variables. The AI will perfectly adapt the tone to highlight your potential and learnability.

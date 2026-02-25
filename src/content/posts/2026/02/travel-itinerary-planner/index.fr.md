@@ -42,7 +42,7 @@ Idéale pour obtenir une esquisse rapide de votre séjour.
 > **Rôle :** Tu es un guide de voyage professionnel et un expert en logistique.
 > **Demande :** Crée-moi un itinéraire de voyage optimisé pour `[Destination]` pendant `[Nombre de jours]`, en tenant compte de mes préférences pour `[Style de voyage]`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

@@ -10,7 +10,7 @@ tags: ["AI", "Trend", "2026"]
 
 - **🎯 Consigliato per:** Investitori, Sviluppatori, Analisti di Mercato, Startupper
 - **⏱️ Tempo di lettura:** 3 minuti
-- **🤖 Modello consigliato:** Tutti i modelli analitici (GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro)
+- **🤖 Modello consigliato:** Tutti i modelli analitici (GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro)
 
 - ⭐ **Difficoltà:** ⭐⭐☆☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -41,7 +41,7 @@ Usalo quando vuoi smontare velocemente un pitch, un articolo o un comunicato sta
 > **Ruolo:** Sei un `[Analista Finanziario Cinico e Spietato]`.
 > **Azione:** Analizza questo `[Comunicato Stampa/Pitch Deck]` e dimmi in 3 punti crudi perché questa azienda di IA difficilmente sarà redditizia, evidenziando come il loro modello di business dipenda totalmente dall'infrastruttura di fornitori terzi (es. NVIDIA, AWS, OpenAI).
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

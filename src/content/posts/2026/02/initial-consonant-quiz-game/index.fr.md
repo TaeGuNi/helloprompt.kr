@@ -43,7 +43,7 @@ Idéal pour lancer une partie en quelques secondes quand l'impatience guette.
 > **Rôle :** Tu es un animateur de quiz passionné et un professeur des écoles bienveillant.
 > **Demande :** Organise un jeu de devinettes basé sur la première lettre d'un mot pour un enfant. Agis comme le maître du jeu.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Expert)
 

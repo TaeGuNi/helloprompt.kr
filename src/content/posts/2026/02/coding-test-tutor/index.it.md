@@ -40,14 +40,14 @@ Aspetta un attimo! Nel momento in cui copi e incolli la soluzione, la tua capaci
 Usa questo prompt di base quando sei bloccato e hai solo bisogno di trovare la giusta direzione.
 
 > **Ruolo:** Sei un esperto di algoritmi e un esaminatore per i test di programmazione delle principali aziende tech.
->
+
 > **Richiesta:** Leggi il problema algoritmico fornito di seguito e spiegami solo l'idea chiave e l'approccio necessario per risolverlo.
->
+
 > **Problema:** `[Incolla qui il testo del problema da LeetCode/HackerRank/ecc.]`
->
+
 > **Restrizioni:** Non fornire per nessun motivo il codice finale o la logica completa. Dammi solo un indizio su quale struttura dati sarebbe più vantaggioso utilizzare dal punto di vista della complessità temporale (Time Complexity).
 
-<br>
+\
 
 ### 🥇 Versione Pro (Coaching e Revisione Passo-Passo)
 

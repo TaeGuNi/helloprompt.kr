@@ -42,7 +42,7 @@ Ideal para conversas rápidas e destravamento inicial.
 > **Função:** Você é meu professor de `[Idioma que deseja aprender]`.
 > **Ação:** Vamos simular uma conversa sobre `[Tópico da conversa]`. Por favor, corrija meus erros e me ajude a soar mais natural durante o nosso papo.
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro)
 

@@ -42,7 +42,7 @@ Utilisez cette version lorsque vous avez besoin d'une inspiration immédiate san
 > **Rôle :** Tu es un Consultant en Créativité de renommée mondiale.
 > **Demande :** Je suis bloqué sur le sujet `[Votre Sujet/Problème]`. Propose-moi 10 idées novatrices et peu conventionnelles pour aborder ce sujet, en utilisant la méthode SCAMPER.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

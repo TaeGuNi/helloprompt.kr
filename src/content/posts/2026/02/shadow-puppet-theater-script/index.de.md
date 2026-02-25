@@ -42,7 +42,7 @@ Verwenden Sie diesen Prompt, wenn Sie sofort und ohne große Vorbereitung eine G
 > **Rolle:** Du bist ein einfühlsamer Märchenautor und kreativer Theaterregisseur.
 > **Anfrage:** Schreibe mir ein kurzes Schattenspiel-Skript für eine Gute-Nacht-Geschichte, das ich nur mit einer Taschenlampe und Handgesten an der Wand aufführen kann.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

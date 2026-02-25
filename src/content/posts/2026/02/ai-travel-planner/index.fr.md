@@ -42,7 +42,7 @@ Utilisez cette version pour obtenir un plan rapide sans entrer dans les détails
 > **Rôle :** Tu es un `[Guide de Voyage Local Expérimenté]`.
 > **Demande :** Conçois un itinéraire de voyage optimisé pour `[Destination]` sur `[Durée]`, en minimisant les temps de trajet et en incluant des adresses locales.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Expert)
 
@@ -84,7 +84,7 @@ L'une des plus grandes erreurs lors de l'utilisation de l'IA pour planifier un v
 ## 🙋 Foire Aux Questions (FAQ)
 
 - **Q : Est-ce que ChatGPT gratuit suffit pour ce prompt ?**
-  - R : Oui, la version gratuite (comme GPT-4o-mini) fournira un excellent point de départ. Cependant, utiliser des modèles plus avancés (comme GPT-4, Claude 3.5 Sonnet ou Gemini 1.5 Pro) donnera des recommandations de restaurants beaucoup plus pointues et une meilleure compréhension de la logistique des transports locaux.
+  - R : Oui, la version gratuite (comme GPT-4o-mini) fournira un excellent point de départ. Cependant, utiliser des modèles plus avancés (comme GPT-4, Claude 3.5 Sonnet ou Gemini 2.5 Pro) donnera des recommandations de restaurants beaucoup plus pointues et une meilleure compréhension de la logistique des transports locaux.
 
 - **Q : Comment puis-je m'assurer que les restaurants recommandés sont toujours ouverts ?**
   - R : L'IA peut parfois halluciner des informations temporelles ou posséder des données obsolètes. Utilisez toujours l'itinéraire généré comme une fondation, puis vérifiez rapidement les horaires d'ouverture des établissements sur Google Maps avant votre départ.

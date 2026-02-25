@@ -45,7 +45,7 @@ Use this when you urgently need to figure out the root cause of the symptoms.
 >
 > **Task:** The tips of my Monstera leaves in this photo are turning brown and crispy. Is it underwatered, or am I watering it too much? Please give me a brief diagnosis of the cause and how to treat it, in case it's a disease.
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -97,7 +97,7 @@ When you use this prompt, the AI doesn't just give you a generic "water it less.
 
 ### ❌ Before (Relying on Guesswork)
 
-> "Huh? The leaves are drooping? It must be thirsty." *(Pours another bucket of water ➡️ The already rotting roots completely disintegrate ➡️ Irreversible plant death ⚰️)*
+"Huh? The leaves are drooping? It must be thirsty." *(Pours another bucket of water ➡️ The already rotting roots completely disintegrate ➡️ Irreversible plant death ⚰️)*
 
 ### ✅ After (Objective AI Diagnosis)
 

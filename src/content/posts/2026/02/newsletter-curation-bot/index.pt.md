@@ -41,11 +41,11 @@ Use esta versão quando precisar apenas absorver o cerne da notícia em poucos s
 
 > **Papel:** Você é um `[Especialista em Resumos de TI]`.
 > **Tarefa:** Resuma o artigo abaixo em 3 linhas para que um profissional ocupado possa lê-lo em 10 segundos. Explique os termos técnicos difíceis de forma simples, para que até um estudante do ensino médio consiga entender.
->
-> **Artigo Completo:**
-> `[Cole o texto da notícia aqui]`
 
-<br>
+> **Artigo Completo:**
+`[Cole o texto da notícia aqui]`
+
+\
 
 ### 🥇 Versão Pro (Criação de Rascunho Profissional)
 

@@ -42,7 +42,7 @@ tags: ["개발자", "명상", "멘탈관리", "스트레스해소"]
 > **Rol:** Eres un instructor de meditación experto en _Mindfulness_ para profesionales de la tecnología.
 > **Tarea:** Guíame a través de una meditación de 3 minutos para calmar mi mente ansiosa por el código y prepararme para el día.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

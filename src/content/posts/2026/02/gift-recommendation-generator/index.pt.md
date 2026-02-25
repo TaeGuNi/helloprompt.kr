@@ -42,7 +42,7 @@ Use esta versão quando estiver com pressa e precisar de uma ideia rápida.
 > **Papel:** Você é um Personal Shopper de luxo e um especialista em curadoria de presentes.
 > **Solicitação:** Recomende um presente incrível para um(a) `[idade e gênero]`, que é meu/minha `[relacionamento/proximidade]`. Meu orçamento é de `[valor]`.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert)
 
@@ -104,7 +104,7 @@ Ao definir explicitamente as **Restrições (Constraints)** — como proibir per
 
 ### ❌ Before (Entrada Simples)
 
-> "Recomende um presente para um homem de 30 anos que vai casar."
+"Recomende um presente para um homem de 30 anos que vai casar."
 
 _(A IA geralmente responde com opções genéricas, entediantes e arriscadas: "Um relógio clássico, uma carteira de couro, uma garrafa de vinho genérica ou um porta-retratos digital.")_
 
@@ -121,7 +121,7 @@ _(A IA geralmente responde com opções genéricas, entediantes e arriscadas: "U
 
 ---
 
-## 🎯 결론 (Conclusão)
+## 🎯 Conclusion (Conclusão)
 
 Escolher presentes não precisa mais ser motivo de ansiedade e idas desesperadas ao shopping na véspera. Com um direcionamento estruturado, a IA faz o trabalho analítico e criativo pesado da curadoria, enquanto você colhe todos os elogios e sorrisos.
 

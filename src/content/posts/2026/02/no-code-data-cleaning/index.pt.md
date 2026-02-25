@@ -44,7 +44,7 @@ Ideal para extrações rápidas ou conversões simples de texto no dia a dia.
 >
 > `[Cole sua lista de dados aqui]`
 
-<br>
+\
 
 ### 🥇 Versão Pro (Especialista)
 

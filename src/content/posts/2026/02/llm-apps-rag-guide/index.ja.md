@@ -5,9 +5,6 @@ date: 2026-02-13
 pubDate: 2026-02-13
 description: " \"awesome-llm-appsのコレクションを活用し、強力なLLMアプリケーションとRAGパイプラインを構築するための実践的なプロンプトとノウハウを学びましょう。\""
 author: "Hello Prompt"
-image:
-  url: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2560&auto=format&fit=crop"
-  alt: "AI Neural Network"
 tags: ["LLM", "RAG", "AI", "Development", "Guide"]
 ---
 
@@ -15,7 +12,7 @@ tags: ["LLM", "RAG", "AI", "Development", "Guide"]
 
 - **🎯 おすすめの対象:** AI開発者、バックエンドエンジニア、プロダクトマネージャー
 - **⏱️ 所要時間:** 数十時間の調査 → 1分で構造化
-- **🤖 おすすめのモデル:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 おすすめのモデル:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **難易度:** ⭐⭐⭐⭐☆
 - ⚡️ **効果性:** ⭐⭐⭐⭐⭐
@@ -46,7 +43,7 @@ tags: ["LLM", "RAG", "AI", "Development", "Guide"]
 > **役割:** あなたはシニアAIエンジニアです。
 > **タスク:** `[特定のユースケース]`に最適なRAGアプリケーションの技術スタックと、簡単な実装ステップを提案してください。
 
-<br>
+\
 
 ### 🥇 Pro Version（専門家型）
 

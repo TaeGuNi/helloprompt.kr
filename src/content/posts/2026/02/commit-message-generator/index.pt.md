@@ -13,7 +13,7 @@ tags: ["Git", "Mensagem de Commit", "Colaboração", "Produtividade"]
 
 - **🎯 Recomendado para:** Desenvolvedores, Engenheiros de Software, Contribuidores Open Source
 - **⏱️ Tempo economizado:** De 5 minutos suando frio → 10 segundos
-- **🤖 Modelo recomendado:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modelo recomendado:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Dificuldade:** ⭐⭐☆☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -45,7 +45,7 @@ Para quando você está com pressa, fez uma alteração pequena e precisa de um 
 > **Solicitação:** Analise o `git diff` fornecido em seguida e escreva uma única mensagem de commit seguindo o padrão Conventional Commits em inglês. Retorne APENAS a mensagem de commit, sem introduções ou explicações extras.
 > **Alterações:** `[Cole seu git diff aqui]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 
@@ -93,7 +93,7 @@ O grande truque da **Versão Pro** é exigir **3 opções**. Um `git diff` costu
 ## 🙋 Perguntas Frequentes (FAQ)
 
 - **Q: O meu `git diff` é gigantesco (milhares de linhas). A IA consegue lidar com isso?**
-  - A: Modelos modernos como Claude 3.5 Sonnet ou Gemini 1.5 Pro possuem janelas de contexto imensas e lidam com diffs grandes perfeitamente. Porém, se o diff for colossal, considere uma boa prática de engenharia: fazer _commits atômicos_ (separando as mudanças lógicas em pequenos commits) em vez de um único commit gigante. O seu time vai agradecer.
+  - A: Modelos modernos como Claude 3.5 Sonnet ou Gemini 2.5 Pro possuem janelas de contexto imensas e lidam com diffs grandes perfeitamente. Porém, se o diff for colossal, considere uma boa prática de engenharia: fazer _commits atômicos_ (separando as mudanças lógicas em pequenos commits) em vez de um único commit gigante. O seu time vai agradecer.
 
 - **Q: Posso pedir para gerar a mensagem de commit em Português?**
   - A: Sim! Basta alterar a restrição final no prompt de "Inglês" para "Português". No entanto, recomendo fortemente manter em inglês. É o padrão global adotado na esmagadora maioria das empresas e praticamente obrigatório em projetos Open Source.

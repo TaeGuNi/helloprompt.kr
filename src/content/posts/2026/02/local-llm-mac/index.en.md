@@ -47,7 +47,7 @@ Use this when you want to instantly boot up an AI on your PC without complex con
 > ollama run llama3
 > ```
 
-<br>
+\
 
 ### 🥇 Pro Version
 

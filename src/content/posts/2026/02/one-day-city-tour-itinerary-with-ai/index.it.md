@@ -43,7 +43,7 @@ Ideale quando sei già in strada e hai bisogno di un consiglio al volo.
 > **Ruolo:** Sei una guida turistica locale esperta di `[Nome Città]`.
 > **Richiesta:** Creare un itinerario di un giorno ottimizzato e senza tempi morti per visitare `[Nome Città]`, includendo posti frequentati dalla gente del posto.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 
@@ -103,7 +103,7 @@ Questo prompt è un vero e proprio "salva-viaggio". Spesso le IA tendono a consi
 
 ### ❌ Prima (Input generico)
 
-> "Cosa posso fare oggi a Tokyo?"
+"Cosa posso fare oggi a Tokyo?"
 
 _(Risultato: Un elenco casuale di quartieri famosi come Shibuya, Shinjuku e Asakusa, senza un ordine logico, con il rischio di passare 3 ore in metropolitana per spostarsi da un estremo all'altro)._
 

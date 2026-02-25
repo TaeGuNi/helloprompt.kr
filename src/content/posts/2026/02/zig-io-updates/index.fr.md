@@ -43,7 +43,7 @@ Idéale pour obtenir un résumé rapide et des extraits de code fondamentaux.
 > **Rôle :** Tu es un `[Programmeur Système Zig]` Senior.
 > **Tâche :** Résume les principales nouveautés des E/S asynchrones de Zig (`io_uring`, `IOCP`, `kqueue`) introduites lors de la mise à jour de février 2026, et rédige un exemple de code simple pour un serveur socket asynchrone utilisant ces nouveautés.
 
-<br>
+\
 
 ### 🥇 Version Pro
 

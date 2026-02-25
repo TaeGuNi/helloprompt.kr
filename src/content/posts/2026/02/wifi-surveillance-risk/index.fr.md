@@ -13,7 +13,7 @@ tags: ["WiFi", "Surveillance", "Privacy", "Security"]
 
 - **🎯 Recommandé pour :** Ingénieurs sécurité juniors, Rédacteurs techniques, Responsables IT
 - **⏱️ Temps requis :** 3 heures → Réduit à 1 minute
-- **🤖 Modèles recommandés :** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modèles recommandés :** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Difficulté :** ⭐⭐☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Utilisez cette version pour obtenir une explication rapide et simple du concept.
 > **Rôle :** Tu es un expert en cybersécurité pédagogique.
 > **Requête :** Explique-moi comment le Wi-Fi peut être utilisé comme une caméra de surveillance (WiFi Sensing) et quels sont les principaux risques pour la vie privée, le tout en termes simples.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Expert)
 

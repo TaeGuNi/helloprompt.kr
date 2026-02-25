@@ -42,7 +42,7 @@ Use this when you need a rapid, expansive shot without complex details.
 > **Role:** You are a professional aerial photographer.
 > **Request:** Generate an image of `[Subject]` using a high angle drone shot, showing the overall layout from high above.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Detail)
 

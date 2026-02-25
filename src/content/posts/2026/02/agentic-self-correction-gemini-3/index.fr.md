@@ -45,7 +45,7 @@ Idéale lorsque vous souhaitez obtenir rapidement un résultat auto-corrigé san
 > **Rôle :** Tu es un `[Ingénieur Backend Senior]`.
 > **Tâche :** Rédige `[une fonction permettant de fusionner deux listes triées]`. Après avoir écrit le code, recherche toi-même les bugs potentiels ou les inefficacités pour critiquer ton travail, puis propose le code final corrigé en te basant sur cette critique.
 
-<br>
+\
 
 ### 🥇 Version Pro
 

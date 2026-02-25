@@ -46,7 +46,7 @@ Nutzen Sie dies, wenn Sie schnelle, aber zielgerichtete Ergebnisse brauchen.
 > **Beispiel:** "Titanic" -> "Die Wärme der ewigen Liebe, die selbst der kalte Ozean nicht abkühlen konnte. 🚢"
 > **Aufgabe:** Schreibe nun eine Kritik für "Avengers: Endgame" im exakt gleichen Stil.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 

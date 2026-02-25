@@ -48,7 +48,7 @@ Ideal para descobrir rapidamente se a pessoa toma decisões mais baseadas na Ló
 > **Tarefa (Task):**
 > Analise a resposta e me diga se a pessoa que respondeu tem maior tendência a ser Racional/Pensamento (T) ou Emocional/Sentimento (F). Além disso, sugira 2 exemplos de como eu devo responder para criar uma conexão mais profunda com ela.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Análise Profunda dos 16 Tipos e Estratégias)
 

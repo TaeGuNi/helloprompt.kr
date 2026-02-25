@@ -42,7 +42,7 @@ Use this when you just need a fast, reliable result without tweaking parameters.
 > **Role:** You are a master concept artist and lighting director.
 > **Task:** Generate an image prompt for a cyberpunk-style street scene featuring an intense, high-contrast mix of pink and blue neon lighting.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

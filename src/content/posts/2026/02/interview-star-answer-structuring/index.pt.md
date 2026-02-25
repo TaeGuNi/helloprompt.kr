@@ -43,7 +43,7 @@ Use esta versão quando precisar de uma estruturação rápida e direta.
 > **Solicitação:** Ajude pessoas que costumam divagar em entrevistas. Pegue o relato de experiência a seguir e reescreva-o de forma clara e objetiva usando a técnica STAR (Situação - Tarefa - Ação - Resultado).
 > **Relato:** `[Insira sua história de forma livre aqui]`
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert)
 

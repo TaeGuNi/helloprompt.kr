@@ -43,7 +43,7 @@ Nutzen Sie dies für einen schnellen Sicherheits-Check Ihres BLE-Codes.
 > **Rolle:** Du bist ein erfahrener IoT-Sicherheitsexperte.
 > **Aufgabe:** Analysiere den folgenden BLE-Verbindungscode auf Sicherheitslücken und fehlende Authentifizierung: `[Hier BLE-Code einfügen]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenform)
 

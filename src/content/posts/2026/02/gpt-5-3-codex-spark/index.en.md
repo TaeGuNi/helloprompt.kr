@@ -51,7 +51,7 @@ Use this directly in your IDE's built-in chatbot when you need rapid code improv
 > **Role:** You are a `[Senior Backend Developer]`.
 > **Task:** Refactor the `[Existing Function Name]` in this file using the latest syntax, and completely patch any potential memory leaks or errors.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

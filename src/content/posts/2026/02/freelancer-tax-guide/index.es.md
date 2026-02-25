@@ -42,7 +42,7 @@ Mientras que los trabajadores por cuenta ajena disfrutan de ajustes automáticos
 > **Rol:** Eres un `[Asesor Fiscal]` experto en trabajadores autónomos y freelancers.
 > **Solicitud:** Organiza una guía de deducción de gastos y consejos fiscales para freelancers y pluriempleados que preparan su declaración de la renta.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

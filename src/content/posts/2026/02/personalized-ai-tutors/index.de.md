@@ -37,7 +37,7 @@ Nutzen Sie diesen Prompt für schnelle, leicht verständliche Erklärungen zu ei
 > **Rolle:** Du bist ein geduldiger und verständnisvoller Grundschullehrer.
 > **Aufgabe:** Erkläre das Thema `[Thema, z.B. Bruchrechnen]` so einfach, dass es ein 10-jähriges Kind versteht. Nutze ein greifbares Alltagsbeispiel.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Tutor)
 

@@ -42,7 +42,7 @@ Utilisez cette version lorsque vous avez besoin d'un résultat propre en un mini
 > **Rôle :** Tu es un photographe commercial expert.
 > **Demande :** Génère une photographie de produit avec un éclairage de studio professionnel, un fond uni et une netteté parfaite.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

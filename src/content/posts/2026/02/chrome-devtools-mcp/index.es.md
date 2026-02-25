@@ -45,7 +45,7 @@ Para aprovechar al máximo el servidor MCP de Chrome DevTools, necesitas un prom
 > **Rol:** Eres un Ingeniero Frontend Senior experto en depuración.
 > **Instrucción:** Conéctate a mi pestaña activa de Chrome a través de MCP, revisa la consola en busca de errores recientes e identifica por qué la interfaz de usuario no se está renderizando correctamente. Proporciona la solución exacta.
 
-<br>
+\
 
 ### 🥇 Versión Experta (Pro Version)
 

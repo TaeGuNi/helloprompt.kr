@@ -42,7 +42,7 @@ Idéale pour obtenir une interprétation rapide d'un indicateur précis sans ent
 > **Rôle :** Tu es un `[Trader Technique Professionnel]` avec 15 ans d'expérience sur les marchés financiers.
 > **Demande :** Interprète de manière simple et accessible les indicateurs graphiques actuels de `[Nom de l'Action]`, notamment le RSI, le MACD et les Bandes de Bollinger, et dis-moi si c'est le bon moment pour l'acheter.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 

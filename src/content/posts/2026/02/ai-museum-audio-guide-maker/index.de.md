@@ -42,7 +42,7 @@ Verwenden Sie diesen Prompt, wenn Sie schnell und unkompliziert die wichtigsten 
 > **Rolle:** Du bist ein promovierter Kunsthistoriker und ein charismatischer Museumspädagoge.
 > **Anfrage:** Analysiere dieses angehängte Foto eines Kunstwerks. Nenne mir Titel, Künstler, Epoche und erkläre mir in drei kurzen Sätzen, warum dieses Werk so bedeutend ist.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 
@@ -105,11 +105,11 @@ Dieser Prompt verwandelt Ihr Smartphone in den mächtigsten Audioguide der Welt.
 
 _(Hochgeladenes Foto der Mona Lisa)_
 
-> "Erkläre das."
+"Erkläre das."
 
 _(Ergebnis der KI)_
 
-> "Dies ist die Mona Lisa, ein Ölgemälde von Leonardo da Vinci aus dem 16. Jahrhundert. Es hängt im Louvre in Paris und ist berühmt für das Lächeln der abgebildeten Frau, die vermutlich Lisa Gherardini ist." _(Gähn...)_
+"Dies ist die Mona Lisa, ein Ölgemälde von Leonardo da Vinci aus dem 16. Jahrhundert. Es hängt im Louvre in Paris und ist berühmt für das Lächeln der abgebildeten Frau, die vermutlich Lisa Gherardini ist." _(Gähn...)_
 
 ### ✅ After (Mit unserem Pro-Prompt)
 

@@ -42,7 +42,7 @@ Usala quando hai bisogno di un'infarinatura rapida prima di scendere dall'aereo.
 > **Ruolo:** Sei un esperto di comunicazione interculturale.
 > **Richiesta:** Sto per viaggiare in `[Nome Paese]`. Elencami i saluti di base e i gesti con le mani assolutamente da evitare per non offendere i locali.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 
@@ -100,7 +100,7 @@ Preparare un viaggio non significa solo prenotare volo e hotel. L'aspetto più t
 
 ### ❌ Prima (Input Povero)
 
-> Dimmi i saluti in Francia e cosa non fare.
+Dimmi i saluti in Francia e cosa non fare.
 
 _Risultato dell'AI:_ Ti fornirà una noiosa lista da vocabolario elementare (Bonjour, Au revoir) e forse un consiglio banale come "non essere maleducato". Non ti preparerà assolutamente alle vere interazioni sociali sul posto.
 

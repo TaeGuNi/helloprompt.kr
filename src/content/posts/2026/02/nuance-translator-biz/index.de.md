@@ -45,7 +45,7 @@ Nutzen Sie diesen Prompt, wenn Sie jemanden an eine Aufgabe erinnern müssen, oh
 >
 > **Anforderung:** Formuliere diesen Satz in **3 verschiedenen Versionen** um, die höflich, professionell und für die Kommunikation mit einem Vorgesetzten oder wichtigen Kunden angemessen sind.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für komplexe Verhandlungen)
 

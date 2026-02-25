@@ -11,7 +11,7 @@ image: "/images/2026/02/16/self-healing-code.jpg"
 
 - **🎯 Público objetivo:** Desarrolladores, ingenieros de datos, líderes técnicos que evalúan la adopción de agentes de IA.
 - **⏱️ Tiempo estimado:** De horas de depuración infinita → 0 minutos (Automatizado).
-- **🤖 Modelos recomendados:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro (Modelos especializados en código).
+- **🤖 Modelos recomendados:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro (Modelos especializados en código).
 
 - ⭐ **Dificultad:** ⭐⭐⭐⭐☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -44,7 +44,7 @@ En 2026, los ingenieros más avanzados ya no le piden a la IA que simplemente es
 > **Rol:** Eres un `[Desarrollador Senior de Python]`.
 > **Tarea:** Basándote en el siguiente `[Mensaje de error]`, corrige los errores del `[Código original]`.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

@@ -38,7 +38,7 @@ Ideale per abbozzare rapidamente un'idea.
 > **Ruolo:** Sei un `[Sviluppatore Front-end Esperto in SVG]`.
 > **Richiesta:** Scrivi un codice SVG perfetto che rappresenti `[un pellicano in bicicletta]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 
@@ -110,16 +110,16 @@ Tuttavia, assegnando una Persona (Role) di "esperto che comprende i principi mat
 
 ```xml
 <svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Sfondo cielo tono blu neon -->
+  
   <rect width="500" height="500" fill="#0a0a2a"/>
 
-  <!-- Gradiente e effetto neon per le ruote della bicicletta -->
+  
   <circle cx="150" cy="350" r="60" stroke="#00f3ff" stroke-width="6" fill="none"/>
   <circle cx="350" cy="350" r="60" stroke="#ff00e5" stroke-width="6" fill="none"/>
 
-  <!-- Silhouette del pellicano creata utilizzando complesse curve di Bézier (omesso per brevità) -->
+  
   <path d="M220 200 C..." fill="#ffffff" stroke="#00f3ff" stroke-width="3"/>
-  <!-- Vengono stampate centinaia di righe di codice vettoriale di livello professionale che si renderizzano perfettamente senza errori -->
+  
 </svg>
 ```
 

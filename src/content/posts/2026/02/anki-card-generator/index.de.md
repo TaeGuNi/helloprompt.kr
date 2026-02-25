@@ -42,7 +42,7 @@ Verwenden Sie diesen Prompt, wenn Sie schnell und unkompliziert erste Ergebnisse
 > **Rolle:** Du bist ein Experte für die didaktische Aufbereitung von Lernmaterialien.
 > **Anfrage:** Wandle den folgenden Text in Karteikarten-Paare (Frage und Antwort) für Anki/Quizlet um.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenform)
 
@@ -104,7 +104,7 @@ Zudem zwingt die Anweisung, Lückentexte zu erstellen, die KI dazu, das Verstän
 
 ### ❌ Vorher (Eingabetext)
 
-> "Mitochondrien werden oft als die Kraftwerke der Zelle bezeichnet, da sie durch Zellatmung Adenosintriphosphat (ATP) produzieren, die universelle Energiewährung des Körpers. Einzigartig ist, dass sie über eigene, zirkuläre DNA (mtDNA) verfügen, die fast ausschließlich mütterlicherseits vererbt wird. Dies ermöglicht ihnen eine gewisse Unabhängigkeit bei der Vermehrung innerhalb der Zelle."
+"Mitochondrien werden oft als die Kraftwerke der Zelle bezeichnet, da sie durch Zellatmung Adenosintriphosphat (ATP) produzieren, die universelle Energiewährung des Körpers. Einzigartig ist, dass sie über eigene, zirkuläre DNA (mtDNA) verfügen, die fast ausschließlich mütterlicherseits vererbt wird. Dies ermöglicht ihnen eine gewisse Unabhängigkeit bei der Vermehrung innerhalb der Zelle."
 
 ### ✅ Nachher (KI-Ergebnis)
 

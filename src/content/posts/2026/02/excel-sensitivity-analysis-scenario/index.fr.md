@@ -42,7 +42,7 @@ Utilisez cette version lorsque vous avez besoin d'une explication rapide pour d�
 > **Rôle :** Tu es un `[Expert en Modélisation Financière]` au bureau de la planification stratégique.
 > **Demande :** Mon bénéfice dépend du taux de change et du volume des ventes. Explique-moi comment utiliser la fonction "Table de données" d'Excel pour calculer automatiquement mon bénéfice pour plusieurs scénarios de taux de change et de ventes à la fois.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

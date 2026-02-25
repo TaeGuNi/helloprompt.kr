@@ -42,7 +42,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Print"]
 > **요청 (Prompt):**
 > A girl listening to music with headphones, Risograph print style, misaligned colors, halftone dots, grainy texture.
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 

@@ -49,7 +49,7 @@ Verwenden Sie diesen Prompt, wenn Sie schnell und unkompliziert die architektoni
 > **Rolle:** Du bist ein sachkundiger und passionierter 'Architekturkritiker'.
 > **Aufgabe:** Führe mich durch `[Name der Stadt]` und erkläre mir die architektonische Entwicklung von der Vergangenheit bis zur Moderne anhand der wichtigsten Gebäude.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenmodus)
 
@@ -108,19 +108,19 @@ Dieser Prompt verwandelt jede KI in Ihren ganz persönlichen, hochqualifizierten
 
 ### ❌ Vorher (Eingabe)
 
-> "Empfiehl mir Architektur in Barcelona."
+"Empfiehl mir Architektur in Barcelona."
 
 _(Ergebnis: Eine langweilige Liste mit Sagrada Familia, Park Güell und Casa Batlló, kopiert aus einem beliebigen Reiseführer, ohne wirklichen Kontext oder architektonische Tiefe.)_
 
 ### ✅ Nachher (Ergebnis)
 
 > **Architektonische Identität Barcelonas:** Eine Stadt, in der sich die radikale organische Formensprache des _Modernisme_ mit dem strengen, kühlen Minimalismus der Moderne auf engstem Raum mischt.
->
-> 1. **Barcelona-Pavillon (Ludwig Mies van der Rohe, 1929):**
->    - **Designmerkmale:** Die absolute Reduktion. Mies schuf hier einen fließenden Raum ohne geschlossene Räume, getrennt nur durch frei stehende Wände aus edlem Marmor, Travertin und Onyx dorée. (Minimalismus: Eine Stilrichtung, die sich auf das Notwendigste beschränkt).
->    - **Fotospot:** Stellen Sie sich an das Kopfende des großen Wasserbeckens. Die Spiegelung der klaren Linien und der Georg-Kolbe-Plastik im Wasser bei spätem Nachmittagslicht ist unvergleichlich.
-> 2. **Torre Glòries / Torre Agbar (Jean Nouvel, 2005):**
->    - _(Weitere brillante, detaillierte Erklärungen folgen...)_
+
+1. **Barcelona-Pavillon (Ludwig Mies van der Rohe, 1929):**
+   - **Designmerkmale:** Die absolute Reduktion. Mies schuf hier einen fließenden Raum ohne geschlossene Räume, getrennt nur durch frei stehende Wände aus edlem Marmor, Travertin und Onyx dorée. (Minimalismus: Eine Stilrichtung, die sich auf das Notwendigste beschränkt).
+   - **Fotospot:** Stellen Sie sich an das Kopfende des großen Wasserbeckens. Die Spiegelung der klaren Linien und der Georg-Kolbe-Plastik im Wasser bei spätem Nachmittagslicht ist unvergleichlich.
+2. **Torre Glòries / Torre Agbar (Jean Nouvel, 2005):**
+   - _(Weitere brillante, detaillierte Erklärungen folgen...)_
 
 ---
 

@@ -41,7 +41,7 @@ Nutze diesen Prompt für schnelle, allgemeine Aufgaben direkt im Terminal.
 > **Rolle:** Du bist ein präziser, analytischer Assistent.
 > **Aufgabe:** Fasse den folgenden `[Text]` in drei kurzen Stichpunkten zusammen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 

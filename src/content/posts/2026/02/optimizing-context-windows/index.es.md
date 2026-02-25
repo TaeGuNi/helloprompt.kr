@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "optimizing-context-windows"]
 
 - **🎯 Recomendado para:** Desarrolladores de IA, Ingenieros de Prompts, Arquitectos de Software
 - **⏱️ Tiempo ahorrado:** Horas de depuración → Optimización inmediata
-- **🤖 Modelos recomendados:** GPT-4, Claude 3, Gemini 1.5 Pro (Modelos de gran contexto)
+- **🤖 Modelos recomendados:** GPT-4, Claude 3, Gemini 2.5 Pro (Modelos de gran contexto)
 
 - ⭐ **Dificultad:** ⭐⭐⭐☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -39,7 +39,7 @@ Como desarrolladores que trabajamos con Grandes Modelos de Lenguaje (LLMs), a me
 > **Rol:** Eres un `[Analista de Datos Senior]`.
 > **Instrucción:** Analiza el siguiente texto y extrae únicamente `[los 3 puntos clave]`. Ignora cualquier información irrelevante o ejemplos redundantes.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

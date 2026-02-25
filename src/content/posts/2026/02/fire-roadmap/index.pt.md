@@ -44,7 +44,7 @@ Ideal para quando você precisa apenas de uma estimativa rápida e direta.
 > **Papel:** Você é um consultor financeiro especialista no movimento FIRE.
 > **Solicitação:** Simule o tempo necessário e o patrimônio exigido para que eu possa alcançar a liberdade financeira com base nos meus dados: tenho `[32 anos]`, gasto `[3.000 BRL por mês]` e invisto `[2.500 BRL por mês]`.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert Version)
 

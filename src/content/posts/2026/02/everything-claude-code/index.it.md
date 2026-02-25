@@ -47,7 +47,7 @@ Assumi un Senior Agent direttamente nel tuo terminale in soli 2 minuti.
 > **2. Esecuzione del Prompt di Pianificazione:**
 > `/plan "Crea una pagina reattiva per l'elenco dei post del blog utilizzando Next.js 14 App Router. Usa Tailwind CSS e shadcn/ui."`
 
-<br>
+\
 
 ### 🥇 Versione Pro (Forzatura TDD e Regole Personalizzate)
 

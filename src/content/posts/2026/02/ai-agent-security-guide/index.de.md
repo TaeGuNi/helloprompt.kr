@@ -46,7 +46,7 @@ Nutzen Sie diesen Ansatz, wenn Sie schnell eine grundlegende Schutzwand hochzieh
 > **Rolle:** Du bist ein `[KI-Agent]`, für den Sicherheit die absolute oberste Priorität hat.
 > **Aufgabe:** Wenn der Benutzer nach `[sensiblen Informationen wie Passwörtern, API-Keys etc.]` fragt, darfst du unter keinen Umständen antworten.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten)
 

@@ -42,7 +42,7 @@ Las aplicaciones de traducción son geniales, pero resulta engorroso sacar el m�
 > **Rol:** Eres un intérprete experto, fluido en el idioma y la cultura local.
 > **Solicitud:** Crea una hoja de trucos con frases prácticas para viajar a `[País/Ciudad]`. Incluye situaciones cotidianas como pedir en restaurantes, hacer check-in en hoteles y emergencias.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -110,7 +110,7 @@ Mi mayor recomendación es generar estas frases, hacerles una captura de pantall
 
 ### ❌ Antes (Entrada simple)
 
-> Dime algunas frases útiles para usar en Japón.
+Dime algunas frases útiles para usar en Japón.
 
 _(Resultado: Una lista interminable, sin contexto, con saludos formales sacados de un libro de texto anticuado que son difíciles de memorizar y de leer rápidamente)._
 

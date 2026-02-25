@@ -38,7 +38,7 @@ Use this when you need a quick, high-level summary of the trend.
 > **Role:** You are a `[Tech Trend Analyst]`.
 > **Task:** Summarize the top 3 reasons why `[Meta Smart Glasses]` sales have recently tripled. Focus on user experience and AI features.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

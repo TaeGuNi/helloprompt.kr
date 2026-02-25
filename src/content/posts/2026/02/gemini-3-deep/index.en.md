@@ -53,7 +53,7 @@ Use this for quick, everyday logic puzzles or minor debugging tasks.
 >
 > **Task:** Analyze the following `[Problem]` step-by-step and provide a strictly logical solution. Do not skip any intermediate reasoning steps.
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -92,7 +92,7 @@ Gemini 3's true potential isn't in its speed, but in its _deliberation_. In my o
 
 ## 🙋 Frequently Asked Questions (FAQ)
 
-- **Q: Does this prompt work on older models like Gemini 1.5 Pro or ChatGPT?**
+- **Q: Does this prompt work on older models like Gemini 2.5 Pro or ChatGPT?**
   - A: Yes, it significantly improves output quality across all major LLMs by enforcing Chain-of-Thought reasoning. However, Gemini 3's native "Deep Think" architecture processes these multi-step instructions much more natively and accurately.
 
 - **Q: Why does the Pro version take longer to generate an answer?**

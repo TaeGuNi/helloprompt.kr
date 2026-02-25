@@ -47,7 +47,7 @@ Idéal pour tester rapidement un concept créatif ou obtenir un brouillon visuel
 > **Rôle :** Tu es un réalisateur de vidéos IA utilisant Sora 2.0.
 > **Requête :** Génère un prompt décrivant une vidéo de `[sujet principal]` dans `[environnement]`, avec une ambiance `[atmosphère/émotion]`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Maîtrise Cinématographique)
 

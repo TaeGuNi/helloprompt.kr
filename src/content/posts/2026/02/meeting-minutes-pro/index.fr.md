@@ -44,7 +44,7 @@ Idéal lorsque vous n'avez pas besoin d'un format complexe et que vous souhaitez
 >
 > `[Collez la transcription de la réunion ici]`
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 
@@ -114,13 +114,13 @@ Ce prompt est mon "arme secrète". Je l'ai intégré dans notre modèle de compt
 
 ### ❌ Avant (Entrée : Transcription brute)
 
-> "Euh, alors, pour Jean, le... tu sais, la maquette de la bannière principale d'ici la fin de la semaine ? Tu peux t'en occuper ? Ah au fait, on mange quoi ce midi ? (Rires) Bref, c'est super important, essaie de respecter le délai..."
+"Euh, alors, pour Jean, le... tu sais, la maquette de la bannière principale d'ici la fin de la semaine ? Tu peux t'en occuper ? Ah au fait, on mange quoi ce midi ? (Rires) Bref, c'est super important, essaie de respecter le délai..."
 
 ### ✅ Après (Résultat : Rapport synthétisé par l'IA)
 
 > **🏃‍♂️ Plan d'action (Action Items)**
->
-> - [ ] **Jean** : Création et partage de la maquette de la bannière principale (Échéance : fin de cette semaine estimée) _※ Priorité élevée_
+
+- [ ] **Jean** : Création et partage de la maquette de la bannière principale (Échéance : fin de cette semaine estimée) _※ Priorité élevée_
 
 ---
 

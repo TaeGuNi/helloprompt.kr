@@ -41,7 +41,7 @@ Para analizar este tipo de controversias de UX y redactar informes o artículos 
 > **Tarea:** Analiza la controversia sobre la función `[Intelligent Edge en macOS Tahoe]`.
 > **Formato:** Dame 3 puntos a favor, 3 en contra y una conclusión sobre si es un avance o un error.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Profesional)
 
@@ -103,7 +103,7 @@ Este prompt es increíblemente útil no solo para redactar sobre Apple, sino par
 
 ---
 
-## 📊 증명: Before & After
+## 📊 Before & After
 
 ### ❌ Before (입력)
 
@@ -122,7 +122,7 @@ El 'Intelligent Edge' viola este principio al arrebatar el control del cursor de
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
 La controversia de macOS Tahoe nos deja una gran lección: cuando integras IA predictiva en flujos de trabajo mecánicos y precisos, caminas sobre una delgada línea entre la innovación y la fricción. Con este prompt, puedes desglosar cualquier decisión de diseño futura con la precisión de un investigador senior.
 

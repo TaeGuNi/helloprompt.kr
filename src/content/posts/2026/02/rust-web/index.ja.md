@@ -39,7 +39,7 @@ tags: ["rust", "web development", "backend", "performance"]
 > **役割:** あなたはシニアRustバックエンドエンジニアです。
 > **リクエスト:** `[フレームワーク]`を使用したRESTful APIサーバーの基本コードを作成してください。
 
-<br>
+\
 
 ### 🥇 Pro Version (専門家型)
 

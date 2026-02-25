@@ -41,14 +41,14 @@ Da oggi ti basterà dire: "Confronta la Colonna A e B, ed evidenzia le differenz
 Usalo per calcoli veloci e per trovare subito la formula giusta.
 
 > **Ruolo:** Sei un esperto analista di dati e un mago di Excel.
->
-> **Compito:** Fornisci la formula Excel più efficiente per ottenere `[Risultato Desiderato]` partendo dai dati descritti qui sotto.
->
-> **Esempio di Dati:**
->
-> - Col A: Nome / Col B: Punteggio / Col C: Promosso/Bocciato
 
-<br>
+> **Compito:** Fornisci la formula Excel più efficiente per ottenere `[Risultato Desiderato]` partendo dai dati descritti qui sotto.
+
+> **Esempio di Dati:**
+
+- Col A: Nome / Col B: Punteggio / Col C: Promosso/Bocciato
+
+\
 
 ### 🥇 Versione Pro (Automazione VBA Avanzata)
 

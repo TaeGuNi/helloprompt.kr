@@ -42,7 +42,7 @@ Ideale per una partita veloce o per testare un periodo storico senza troppi dett
 > **Ruolo:** Sei un esperto `[Game Master di Simulazione Storica]`.
 > **Richiesta:** Voglio vivere l'evento di `[Evento Storico]`. Fammi prendere decisioni come in un'avventura testuale, partendo dall'inizio della crisi.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

@@ -45,7 +45,7 @@ Nutzen Sie diese Variante, wenn Sie unter Zeitdruck stehen und nur schnell eine 
 > **Aufgabe:** Analysiere den folgenden API-Code und erstelle daraus eine übersichtliche API-Dokumentation mit allen Endpunkten, Parametern und Beispielantworten.
 > **Code:** `[Füge hier deinen Controller-Code ein]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Level)
 

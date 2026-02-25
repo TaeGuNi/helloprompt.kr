@@ -48,7 +48,7 @@ Use this when you need a reliable, structured persona without complex dynamic va
 > - Type hinting and docstrings are mandatory for every function.
 > - Always output the code in a single markdown block without any conversational filler.
 
-<br>
+\
 
 ### 🥇 Pro Version (The XML-Structured Agent)
 

@@ -8,7 +8,7 @@ description: " \"Scopri le finestre di contesto, la 'memoria' dei modelli AI, e 
 
 - **🎯 Consigliato per:** Sviluppatori, Prompt Engineer, Heavy User di ChatGPT/Claude/Gemini
 - **⏱️ Tempo risparmiato:** Ore di frustrazione evitate
-- **🤖 Modelli ideali:** Tutti gli LLM (GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro)
+- **🤖 Modelli ideali:** Tutti gli LLM (GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro)
 
 - ⭐ **Difficoltà:** ⭐⭐☆☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -39,7 +39,7 @@ Usa questo prompt quando inizi a notare i primi segni di "amnesia" o prima di un
 > **Ruolo:** Sei il mio assistente tecnico.
 > **Azione:** Stiamo per raggiungere il limite della memoria di questa chat. Riassumi i requisiti chiave, le decisioni prese finora e l'architettura generale di cui abbiamo discusso. Ignora i convenevoli e concentrati solo sui fatti tecnici, in modo che io possa usare questo riassunto per iniziare una nuova sessione senza perdere contesto.
 
-<br>
+\
 
 ### 🥇 Pro Version (Checkpoint Architetturale)
 
@@ -77,7 +77,7 @@ Spesso vedo utenti incollare l'intera base di codice ogni tre messaggi per "rinf
 
 ## 🙋 Domande Frequenti (FAQ)
 
-- **D: Ma modelli come Gemini 1.5 Pro non hanno 1 o 2 milioni di token? Devo davvero preoccuparmi?**
+- **D: Ma modelli come Gemini 2.5 Pro non hanno 1 o 2 milioni di token? Devo davvero preoccuparmi?**
   - A: Assolutamente sì. Anche se modelli d'élite hanno finestre immense, più il contesto diventa lungo, più il modello soffre del fenomeno noto come "Lost in the Middle" (incapacità di recuperare informazioni poste al centro del documento). Inoltre, contesti enormi fanno esplodere i tempi di risposta e i costi API. La concisione vince sempre.
 
 - **D: Cosa sono esattamente i "token"?**

@@ -42,7 +42,7 @@ Use this when you just need a quick result.
 > **Role:** You are a `[Senior System Engineer]`.
 > **Request:** Analyze the error log below, tell me the exact root cause, and explain how to fix it.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 
@@ -110,7 +110,7 @@ Exception in thread "main" java.lang.NullPointerException
     ... (100+ lines of cryptic stack trace)
 ```
 
-<br>
+\
 
 ### ✅ After (Result)
 

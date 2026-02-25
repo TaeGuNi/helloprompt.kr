@@ -42,7 +42,7 @@ Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide et global.
 > **Rôle :** Tu es un consultant en stratégie de haut niveau.
 > **Requête :** Fais une analyse SWOT détaillée et structurée pour `[Votre Produit/Entreprise]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version expert)
 

@@ -42,7 +42,7 @@ Use esta versão para obter resultados rápidos e direcionados quando estiver co
 > **Papel:** Você é um `[Especialista em Marketing de Conteúdo e SEO]`.
 > **Solicitação:** Crie um esboço otimizado para SEO sobre o tema `[Tópico]`, estruturado com as tags de cabeçalho adequadas (H1, H2, H3) que os algoritmos do Google favorecem.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

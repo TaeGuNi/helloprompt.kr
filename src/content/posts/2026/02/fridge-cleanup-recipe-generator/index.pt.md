@@ -42,7 +42,7 @@ Use esta versão quando precisar apenas de uma sugestão rápida e direta.
 > **Papel:** Você é um Chef de um restaurante com 2 estrelas Michelin e um especialista em culinária caseira saudável. Sua especialidade é extrair o máximo de sabor com o mínimo de ingredientes.
 > **Solicitação:** Crie uma receita saudável de 5 estrelas usando os ingredientes que estão sobrando na minha geladeira: `[ingredientes]`.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 
@@ -104,7 +104,7 @@ Este prompt é uma verdadeira salvação para o fim do mês ou para dias de cans
 
 ### ❌ Antes (Entrada Simples)
 
-> "O que posso fazer com ovos e tofu sobrando?"
+"O que posso fazer com ovos e tofu sobrando?"
 
 _(A IA fornece uma lista genérica e sem graça: "Ovos mexidos, sopa de tofu, tofu frito... sem detalhes ou proporções corretas")_
 

@@ -44,7 +44,7 @@ Utilisez cette version pour un besoin rapide sans paramétrage complexe.
 > **Rôle :** Tu es un Mainteneur Open Source extrêmement rigoureux sur la gestion de l'historique Git.
 > **Demande :** Rédige un message de commit clair et structuré selon la norme mondiale "Conventional Commits" en te basant sur le `git diff` ou les modifications que je vais te fournir.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Expert)
 
@@ -106,7 +106,7 @@ La véritable force de ce prompt ne réside pas seulement dans le gain de temps,
 
 ### ❌ Avant (Votre brouillon)
 
-> "Changé la couleur du bouton de connexion en rouge, corrigé le bug où la connexion ne fonctionnait pas. Ah, et ajouté le guide d'installation au readme."
+"Changé la couleur du bouton de connexion en rouge, corrigé le bug où la connexion ne fonctionnait pas. Ah, et ajouté le guide d'installation au readme."
 
 ### ✅ Après (Résultat de l'IA)
 

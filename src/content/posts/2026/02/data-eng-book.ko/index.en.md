@@ -38,7 +38,7 @@ Use this when you need a quick draft of a data pipeline architecture.
 > **Role:** You are a Senior Data Engineer and the author of 'The Data Engineering Book'.
 > **Task:** Recommend an open-source-based pipeline architecture that ingests data from `[Data Source]` and loads it into `[Destination]`.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

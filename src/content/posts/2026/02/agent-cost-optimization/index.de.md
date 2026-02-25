@@ -17,7 +17,7 @@ tags:
 
 - **🎯 Empfohlen für:** Entwickler autonomer KI-Agenten, Ingenieure für Kostenoptimierung, Startup-CTOs
 - **⏱️ Zeitaufwand:** 10 Minuten für Prompt-Anpassungen → Hunderte von Dollar monatlich sparen
-- **🤖 Empfohlene Modelle:** Token-basierte Modelle wie GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Empfohlene Modelle:** Token-basierte Modelle wie GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Schwierigkeitsgrad:** ⭐⭐⭐☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -55,7 +55,7 @@ Verwenden Sie dieses Muster, um die sogenannte „Fluff Tax“ (unnötige Füllw
 > - Freundliche Begrüßungen, Füllsätze wie „Ich beginne nun mit der Analyse“ oder „Das Ergebnis lautet wie folgt“ sind strengstens untersagt.
 > - Gib ausschließlich das Analyseergebnis und die angeforderte Aktion aus.
 
-<br>
+\
 
 ### 🥇 Pro Version (Die Experten-Methode)
 

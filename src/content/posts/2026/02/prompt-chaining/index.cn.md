@@ -10,7 +10,7 @@ tags: ["AI Trends", "Prompt Chaining", "Agentic Workflow", "2026"]
 
 - **🎯 推荐人群：** AI工程师、自动化架构师、资深业务人员
 - **⏱️ 预计节省时间：** 2小时 → 5分钟自动流转
-- **🤖 推荐模型：** 具备逻辑推理能力的大语言模型 (Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro)
+- **🤖 推荐模型：** 具备逻辑推理能力的大语言模型 (Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro)
 
 - ⭐ **难度：** ⭐⭐⭐⭐☆
 - ⚡️ **效果：** ⭐⭐⭐⭐⭐
@@ -48,7 +48,7 @@ tags: ["AI Trends", "Prompt Chaining", "Agentic Workflow", "2026"]
 > 角色：你是一位顶级商业撰稿人。
 > 任务：将步骤2的 `[初稿]` 修改为极具说服力的推介文案，确保符合 `[目标受众]` 的阅读习惯。
 
-<br>
+\
 
 ### 🥇 Pro Version (高级智能体工作流)
 

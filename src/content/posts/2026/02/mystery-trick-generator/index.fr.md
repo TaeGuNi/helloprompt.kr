@@ -13,7 +13,7 @@ tags: ["Déduction", "Mystère", "Astuce", "Roman", "Scénario"]
 
 - **🎯 Recommandé pour :** Écrivains en herbe, scénaristes de jeux de rôle, amateurs de romans policiers
 - **⏱️ Temps requis :** 5 minutes → 1 minute
-- **🤖 Modèles recommandés :** GPT-4, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modèles recommandés :** GPT-4, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Difficulté :** ⭐⭐☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Idéale lorsque vous avez besoin d'une idée d'intrigue rapide pour débloquer v
 > **Rôle :** Tu es un romancier spécialisé dans les romans policiers, avec le génie narratif d'Agatha Christie et la logique implacable de Keigo Higashino.
 > **Requête :** Invente une astuce de meurtre en chambre close ingénieuse et un alibi infaillible qui surprendraient même Sherlock Holmes.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 
@@ -102,7 +102,7 @@ La puissance de ce prompt réside dans sa capacité à fusionner la créativité
 
 ### ❌ Avant (Entrée simple)
 
-> "Donne-moi une idée de meurtre en chambre close."
+"Donne-moi une idée de meurtre en chambre close."
 
 L'IA répond souvent par le classique (et ennuyeux) "Le coupable a utilisé un fil de pêche pour tirer le verrou de l'intérieur en passant sous la porte."
 

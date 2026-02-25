@@ -44,7 +44,7 @@ Use this for quick application to app icons, favicons, or lightweight toy projec
 > **Task:** 
 > `minimalistic vector logo of a [Blue Whale], simple shapes, flat design, white background --no text --v 6.0`
 
-<br>
+\
 
 ### 🥇 Pro Version (Brand Identity)
 

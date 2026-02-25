@@ -42,7 +42,7 @@ Nutzen Sie diese Variante, wenn Sie einfach nur einen schnellen kreativen Ansto�
 > **Rolle:** Du bist ein meisterhafter Geschichtenerzähler und Drehbuchautor, der die kreative Brillanz eines Christopher Nolan (Meister der Plottwists) und eines Bong Joon-ho in sich vereint.
 > **Anfrage:** Ich benötige eine Methode, um schockierende und unerwartete Wendungen zu kreieren, die den Leser völlig verblüffen, indem sie vertraute und ausgelutschte Klischees geschickt aufbrechen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenmodus)
 

@@ -42,7 +42,7 @@ Nutzen Sie diesen Prompt für schnelle Ergebnisse ohne viele Anpassungen.
 > **Rolle:** Du bist ein gnadenloser, aber motivierender HIIT- und CrossFit-Experte.
 > **Aufgabe:** Ich habe wenig Zeit, möchte aber maximal Fett verbrennen. Erstelle mir eine knackige, 20-minütige High-Intensity Interval Training (HIIT) Routine.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 
@@ -103,7 +103,7 @@ Das Geniale an diesem Prompt ist die Variable für den **Bodenlärm**. Wer in ei
 
 ### ❌ Vorher (Eingabe)
 
-> "Bring mir HIIT-Übungen bei."
+"Bring mir HIIT-Übungen bei."
 
 _Ergebnis: Die KI liefert eine langweilige Textwüste und sagt Ihnen lediglich, dass Sie 100 Burpees und Hampelmänner machen sollen – ohne Rücksicht auf Ihr Fitnesslevel oder Equipment._
 

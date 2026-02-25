@@ -13,7 +13,7 @@ tags: ["유튜브", "요약", "ChatGPT", "생산성", "공부"]
 
 - **🎯 Público-Alvo:** Profissionais modernos sem tempo, estudantes e trabalhadores que desejam absorver o essencial sem cair em armadilhas de _clickbait_.
 - **⏱️ Tempo Gasto:** De 20 minutos de vídeo → Reduzido para apenas 10 segundos.
-- **🤖 Modelos Recomendados:** ChatGPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro (Janela de contexto longa é essencial).
+- **🤖 Modelos Recomendados:** ChatGPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro (Janela de contexto longa é essencial).
 
 - ⭐ **Dificuldade:** ⭐☆☆☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -44,7 +44,7 @@ Use esta versão quando estiver com pressa ou quiser verificar rapidamente se um
 > **Role (Papel):** Você é um especialista em resumir conteúdos de forma rápida e super precisa.
 > **Task (Tarefa):** O texto abaixo é a transcrição de um vídeo do YouTube. Ignore conversas fiadas e resuma o tema central e a conclusão mais importante em exatamente 3 tópicos claros.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 
@@ -93,7 +93,7 @@ Se estiver no computador, recomendo fortemente a instalação de extensões grat
   - R: Graças aos avanços na geração automática, quase todos os vídeos do YouTube possuem transcrições hoje. Se não houver, você pode baixar o áudio do vídeo e usar ferramentas de conversão de fala em texto (STT) como a API Whisper da OpenAI para gerar a transcrição antes de usar o prompt.
 
 - **P: Se eu colar a transcrição inteira de um vídeo de 1 hora, a IA não vai travar?**
-  - R: Modelos modernos como GPT-4o, Claude 3.5 Sonnet e Gemini 1.5 Pro possuem uma janela de contexto (Context Window) enorme e lidam facilmente com o texto equivalente a 1-2 horas de vídeo. Apenas tome cuidado com modelos mais antigos (como o GPT-3.5), que podem cortar o texto; nesse caso, divida a transcrição e envie em duas partes.
+  - R: Modelos modernos como GPT-4o, Claude 3.5 Sonnet e Gemini 2.5 Pro possuem uma janela de contexto (Context Window) enorme e lidam facilmente com o texto equivalente a 1-2 horas de vídeo. Apenas tome cuidado com modelos mais antigos (como o GPT-3.5), que podem cortar o texto; nesse caso, divida a transcrição e envie em duas partes.
 
 - **P: Os números de tempo (timestamps) são copiados junto com o texto. Preciso apagá-los antes de enviar para a IA?**
   - R: Não precisa apagar nada! Simplesmente cole tudo como está. A IA é inteligente o suficiente para usar esses números como referência temporal, ajudando a criar a divisão de capítulos e indicando em qual minuto o assunto foi abordado.

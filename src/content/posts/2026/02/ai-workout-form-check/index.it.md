@@ -13,7 +13,7 @@ tags: ["운동", "헬스", "PT", "스쿼트", "ChatGPT"]
 
 - **🎯 Consigliato per:** Lavoratori che soffrono di dolori articolari durante gli allenamenti a casa, studenti e giovani professionisti che vogliono risparmiare sui costi del Personal Trainer.
 - **⏱️ Tempo richiesto:** 1 minuto (per registrare e caricare il video)
-- **🤖 Modelli consigliati:** ChatGPT (GPT-4o Vision), Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modelli consigliati:** ChatGPT (GPT-4o Vision), Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Difficoltà:** ⭐☆☆☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Utilizza questo prompt se vuoi individuare rapidamente i problemi principali del
 > **Ruolo:** Sei un Personal Trainer con 10 anni di esperienza.
 > **Richiesta:** Il video in allegato mostra la mia postura durante lo `[squat]`. Individua eventuali errori che potrebbero causarmi infortuni e valuta la mia esecuzione con un punteggio da 1 a 10.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

@@ -47,7 +47,7 @@ Ideal para quando precisa apenas de organizar rapidamente o horário geral e as 
 > **Lista de Tarefas de Hoje:**
 > `[Escreva aqui as suas tarefas de forma desorganizada]`
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 
@@ -135,12 +135,12 @@ Horário de trabalho: das 9:30 às 18:30.
 
 | Categoria | Tarefa | Ação |
 | :--- | :--- | :--- |
-| **DO (Urgente & Importante)** | Participar na Reunião Semanal (11:00) <br> Rascunho do relatório semanal | **Fazer Agora**, alocar no período de maior foco |
-| **DECIDE (Importante & Não Urgente)** | Pesquisa de promoções do concorrente A <br> Reservar restaurante para workshop | **Agendar**, alocar no período da tarde |
-| **DELEGATE (Urgente & Não Importante)** | Pedir revisão de logótipo ao Design <br> Responder a e-mails atrasados | **Processar/Delegar Rápido**, logo no início do dia |
+| **DO (Urgente & Importante)** | Participar na Reunião Semanal (11:00) \ Rascunho do relatório semanal | **Fazer Agora**, alocar no período de maior foco |
+| **DECIDE (Importante & Não Urgente)** | Pesquisa de promoções do concorrente A \ Reservar restaurante para workshop | **Agendar**, alocar no período da tarde |
+| **DELEGATE (Urgente & Não Importante)** | Pedir revisão de logótipo ao Design \ Responder a e-mails atrasados | **Processar/Delegar Rápido**, logo no início do dia |
 | **DELETE (Não Urgente & Não Importante)** | (Nenhuma tarefa aplicável nesta lista) | - |
 
-<br>
+\
 
 ## 🕒 O Seu Horário de Time Blocking para Hoje
 

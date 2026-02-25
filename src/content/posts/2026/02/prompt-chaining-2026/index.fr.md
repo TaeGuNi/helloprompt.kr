@@ -37,10 +37,10 @@ En 2026, s'appuyer sur un seul prompt (single-shot) pour résoudre des problème
 Idéal pour les tâches simples en deux étapes, comme extraire des données puis les analyser.
 
 > **Étape 1 (Extraction) :** Tu es un analyste de données. Extrais uniquement les métriques clés (taux de conversion, rebond) de ce texte : `[Texte Brut]`.
->
+
 > **Étape 2 (Analyse) :** À partir des métriques extraites précédemment : `[Résultat Étape 1]`, rédige un court résumé identifiant la tendance principale.
 
-<br>
+\
 
 ### 🥇 Version Pro (Workflow Complet et Automatisable)
 

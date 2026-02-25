@@ -39,7 +39,7 @@ A medida que avanzamos en 2026, la convergencia de las arquitecturas _serverless
 >
 > **Tarea:** Explícame cómo puedo aplicar "Edge Serverless" para `[insertar tipo de aplicación, ej. una plataforma de analítica IoT]` y cuáles serían sus beneficios principales en cuanto a reducción de latencia y optimización de costos.
 
-<br>
+\
 
 ### 🥇 Versión Experta (Pro Version)
 

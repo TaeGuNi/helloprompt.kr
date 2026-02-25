@@ -42,7 +42,7 @@ Idéale pour obtenir un brouillon rapide en quelques secondes.
 > **Rôle :** Tu es un `[expert en communication / consultant senior]`.
 > **Tâche :** Rédige le plan d'une présentation PPT de `[nombre]` diapositives sur le sujet : `[sujet de la présentation]`. Donne-moi un titre accrocheur et les points clés pour chaque diapositive.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 
@@ -121,9 +121,9 @@ Slide 3 : Contexte (Copier-coller de 3 longs paragraphes depuis un document Word
 ```text
 | N° Slide | Titre | Message Principal | Points clés | Suggestion visuelle |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | Projet X : Réduire nos coûts de 20% | Une opportunité majeure d'optimiser notre budget IT annuel. | - Présentation de l'équipe<br>- Objectif clair du jour | Photo pleine page avec texte en gras |
-| 2 | Le problème actuel des licences | Nous payons à perte pour des outils inutilisés. | - 30% de licences fantômes<br>- Perte sèche de 50k€/an | Graphique en barres (Licences Utilisées vs Payées) |
-| 3 | La solution de consolidation | Regrouper nos outils sur une plateforme centralisée. | - Migration rapide en 2 mois<br>- ROI positif en seulement 6 mois | Tableau comparatif (Situation Avant / Après) |
+| 1 | Projet X : Réduire nos coûts de 20% | Une opportunité majeure d'optimiser notre budget IT annuel. | - Présentation de l'équipe\- Objectif clair du jour | Photo pleine page avec texte en gras |
+| 2 | Le problème actuel des licences | Nous payons à perte pour des outils inutilisés. | - 30% de licences fantômes\- Perte sèche de 50k€/an | Graphique en barres (Licences Utilisées vs Payées) |
+| 3 | La solution de consolidation | Regrouper nos outils sur une plateforme centralisée. | - Migration rapide en 2 mois\- ROI positif en seulement 6 mois | Tableau comparatif (Situation Avant / Après) |
 ```
 
 ---

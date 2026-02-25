@@ -38,7 +38,7 @@ Verwenden Sie diese Version für einen schnellen Pitch oder eine grobe Idee.
 > **Aufgabe:** Erstelle einen fesselnden One-Pager für einen Film über `[Thema, z.B. eine KI, die Emotionen entwickelt]`.
 > **Format:** Titel, Logline und eine kurze Zusammenfassung in 3 Akten.
 
-<br>
+\
 
 ### 🥇 Pro Version (Das Master-Konzept)
 
@@ -116,7 +116,7 @@ _(Ergebnis: Eine langweilige, generische Geschichte über Roboter, die die Welt 
 
 ---
 
-## 🎯 결론 (Fazit)
+## 🎯 Conclusion (Fazit)
 
 Die KI ersetzt keine guten Geschichten – aber sie gibt uns die revolutionären Werkzeuge, um sie deutlich schneller und visueller als je zuvor zu erzählen. Der Hollywood-Shift ist nicht erst auf dem Weg, er ist bereits da.
 

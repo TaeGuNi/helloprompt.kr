@@ -42,7 +42,7 @@ For when you just need quick, actionable results.
 > **Role:** You are an elite global recruitment consultant and LinkedIn SEO specialist.
 > **Task:** Optimize my LinkedIn profile to 10x my inbound job offers. Write a highly search-optimized Headline and a compelling, narrative-driven About section for a `[Your Job Title]`.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

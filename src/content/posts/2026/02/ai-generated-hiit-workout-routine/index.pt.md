@@ -42,7 +42,7 @@ Use esta versão quando quiser apenas apertar o 'play' e começar a suar sem pen
 > **Papel:** Você é um personal trainer especialista em Crossfit e HIIT, conhecido por treinos curtos e intensos.
 > **Pedido:** Crie um treino HIIT de 20 minutos focado em queima de gordura para ser feito em casa, sem equipamentos e sem saltos que façam barulho.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 
@@ -106,7 +106,7 @@ Ao informar explicitamente à IA que você precisa de um treino silencioso, ela 
 
 ### ❌ Before (Entrada Simples)
 
-> "Me passe um treino HIIT para emagrecer."
+"Me passe um treino HIIT para emagrecer."
 
 _(Sem contexto, a IA frequentemente cospe uma lista genérica com Burpees, saltos em caixas que você não tem, e não especifica os tempos de descanso exatos, deixando você confuso e propenso a desistir na hora de executar)._
 

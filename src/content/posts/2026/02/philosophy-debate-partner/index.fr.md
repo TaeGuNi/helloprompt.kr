@@ -13,7 +13,7 @@ tags: ["Philosophie", "PouvoirLogique", "Débat", "ExpérienceDePensée"]
 
 - **🎯 Recommandé pour :** Étudiants, professionnels, penseurs curieux et toute personne souhaitant affûter sa logique.
 - **⏱️ Temps requis :** 5 à 15 minutes par session.
-- **🤖 Modèle recommandé :** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (modèles avec une forte capacité de raisonnement).
+- **🤖 Modèle recommandé :** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (modèles avec une forte capacité de raisonnement).
 
 - ⭐ **Difficulté :** ⭐⭐☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Utilisez cette version pour lancer un débat sans paramétrages complexes.
 > **Rôle :** Tu es un expert en philosophie qui incarne parfaitement la personnalité et la pensée de `[Nom du Philosophe, ex : Socrate]`.
 > **Requête :** Débattons de `[Sujet, ex : la justice]`. Pose-moi des questions pour remettre en cause mes arguments et m'aider à approfondir ma réflexion.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

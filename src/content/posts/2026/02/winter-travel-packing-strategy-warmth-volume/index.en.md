@@ -42,7 +42,7 @@ Use this when you need a quick, high-level packing list.
 > **Role:** You are an expert in cold-weather outdoor survival and a minimalist packing master.
 > **Request:** I am traveling to a cold destination. Give me a comprehensive, space-saving packing strategy for winter travel, focusing on keeping warm without filling up my suitcase with just one thick jacket.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

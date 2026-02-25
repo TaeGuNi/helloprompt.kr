@@ -42,7 +42,7 @@ Idéal pour obtenir un aperçu rapide et essentiel avant le départ.
 > **Rôle :** Tu es un anthropologue culturel et un expert en étiquette internationale.
 > **Requête :** Rédige un guide rapide sur les erreurs à éviter pour un touriste en `[Pays/Ville]`, incluant les règles sur les pourboires et les gestes offensants.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 
@@ -101,7 +101,7 @@ Ce prompt est un véritable "gilet de sauvetage" culturel. Ce qui le rend puissa
 
 ### ❌ Avant (Entrée basique)
 
-> "Quelles sont les précautions pour un voyage à Dubaï ?"
+"Quelles sont les précautions pour un voyage à Dubaï ?"
 
 _(Résultat typique : "Il fait très chaud, prenez de la crème solaire. Respectez la religion locale. Habillez-vous correctement. La monnaie est le dirham.")_
 

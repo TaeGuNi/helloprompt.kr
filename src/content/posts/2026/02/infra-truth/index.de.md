@@ -39,7 +39,7 @@ Verwenden Sie diese Version, wenn Sie einen schnellen Realitätscheck für ein n
 > **Rolle:** Du bist ein kritischer Tech-Analyst.
 > **Aufgabe:** Analysiere den Trend `[Tech-Trend oder Produkt]` und bewerte knallhart, ob er einen echten, messbaren Mehrwert bietet oder nur reiner Hype ist. Wer profitiert wirklich davon?
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

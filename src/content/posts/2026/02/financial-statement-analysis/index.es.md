@@ -42,7 +42,7 @@ La base de cualquier inversión inteligente es el análisis fundamental corporat
 > **Rol:** Eres un experto analista financiero de Wall Street.
 > **Solicitud:** Analiza los estados financieros de `[Nombre de la Empresa]` y resume los 3 puntos más críticos para decidir si es una buena inversión.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

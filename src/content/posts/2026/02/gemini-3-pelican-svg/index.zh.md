@@ -40,7 +40,7 @@ tags: ["AI", "Gemini", "SVG", "Generative Tech"]
 > **角色:** 你是一位 `[精通 SVG 的前端开发者]`。
 > **任务:** 请编写一段完美的 SVG 代码，描绘 `[一只骑着自行车的鹈鹕]`。
 
-<br>
+\
 
 ### 🥇 Pro Version (专业版)
 
@@ -112,16 +112,16 @@ tags: ["AI", "Gemini", "SVG", "Generative Tech"]
 
 ```xml
 <svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- 霓虹深蓝色调的夜空背景 -->
+  
   <rect width="500" height="500" fill="#0a0a2a"/>
 
-  <!-- 自行车轮毂的渐变与霓虹发光效果 -->
+  
   <circle cx="150" cy="350" r="60" stroke="#00f3ff" stroke-width="6" fill="none"/>
   <circle cx="350" cy="350" r="60" stroke="#ff00e5" stroke-width="6" fill="none"/>
 
-  <!-- 利用复杂的贝塞尔曲线勾勒出的鹈鹕优美轮廓 (代码已省略展示) -->
+  
   <path d="M220 200 C..." fill="#ffffff" stroke="#00f3ff" stroke-width="3"/>
-  <!-- 最终输出数百行专家级矢量代码，且能完美渲染，零报错 -->
+  
 </svg>
 ```
 

@@ -44,7 +44,7 @@ Use esta versão quando precisar de ideias rápidas e fáceis de aplicar no dia 
 > **Função:** Você é um `[Coach de Hábitos baseado em Psicologia Comportamental]`.
 > **Tarefa:** Eu tenho a rotina diária de `[escovar os dentes logo após acordar]`. Recomende 3 "hábitos saudáveis de 1 minuto" que eu possa conectar imediatamente após essa ação.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

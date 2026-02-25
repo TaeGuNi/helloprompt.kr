@@ -49,7 +49,7 @@ Ideale per testi brevi e compiti veloci. Usa i tripli apici o i trattini per iso
 > `[Inserisci qui il tuo testo o articolo]`
 > """
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

@@ -47,7 +47,7 @@ Use esta versão quando precisar apenas de um resumo rápido do seu trabalho.
 >
 > **Tarefa:** Com base nos dados acima, resuma "o que eu fiz esta semana" destacando apenas os 5 pontos mais importantes, em ordem de relevância.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 
@@ -112,28 +112,28 @@ Uma dica prática da minha rotina: executo esse prompt toda sexta-feira, religio
 
 ### ❌ Antes (Relatório comum escrito manualmente)
 
-> Nesta semana eu consertei um bug no módulo de pagamento do projeto A. Na quinta-feira, tive uma reunião com o contato da empresa B e o clima foi muito bom. Na próxima semana, vou corrigir o resto dos bugs e dar continuidade ao trabalho da reunião.
+Nesta semana eu consertei um bug no módulo de pagamento do projeto A. Na quinta-feira, tive uma reunião com o contato da empresa B e o clima foi muito bom. Na próxima semana, vou corrigir o resto dos bugs e dar continuidade ao trabalho da reunião.
 
 _(Avaliação: Parece desleixado. Sem resultados ou números específicos, é impossível saber o impacto real do trabalho realizado.)_
 
 ### ✅ Depois (Relatório gerado pelo Gemini)
 
 > **[Relatório Semanal de Atividades - 2ª Semana de Fevereiro]**
->
+
 > **✅ Principais Conquistas**
-> - **Correção de Bug no Módulo de Pagamento (Projeto A):** Taxa de sucesso de pagamento melhorada de **98,5% para 99,9%**.
-> - **Reunião de Nova Parceria com a Empresa B:** Especificações centrais de integração de API confirmadas com discussões positivas (Assinatura de MOU prevista para a próxima semana).
->
+- **Correção de Bug no Módulo de Pagamento (Projeto A):** Taxa de sucesso de pagamento melhorada de **98,5% para 99,9%**.
+- **Reunião de Nova Parceria com a Empresa B:** Especificações centrais de integração de API confirmadas com discussões positivas (Assinatura de MOU prevista para a próxima semana).
+
 > **🚧 Tarefas em Andamento**
-> - Elaboração do rascunho do guia de integração de API da Empresa B (Previsão de conclusão: 18/02).
->
+- Elaboração do rascunho do guia de integração de API da Empresa B (Previsão de conclusão: 18/02).
+
 > **🚨 Problemas e Riscos**
-> - **Aumento de Custos na Infraestrutura de Servidores:** Necessidade de scale-up das instâncias de DB devido ao recente pico de tráfego (Solicita-se aprovação de orçamento para a próxima semana).
->
+- **Aumento de Custos na Infraestrutura de Servidores:** Necessidade de scale-up das instâncias de DB devido ao recente pico de tráfego (Solicita-se aprovação de orçamento para a próxima semana).
+
 > **📅 Plano para a Próxima Semana**
-> - Assinatura de MOU de parceria com a Empresa B e revisão de contratos.
-> - Deploy de patch para bugs menores residuais (erro de exibição na UI) no módulo de pagamento.
-> - 1ª pesquisa de estratégias para otimização de custos de infraestrutura.
+- Assinatura de MOU de parceria com a Empresa B e revisão de contratos.
+- Deploy de patch para bugs menores residuais (erro de exibição na UI) no módulo de pagamento.
+- 1ª pesquisa de estratégias para otimização de custos de infraestrutura.
 
 _(Avaliação: Destaca claramente as conquistas com base em números concretos, relata problemas proativamente e apresenta um plano estruturado para a próxima semana, maximizando a confiança da liderança.)_
 

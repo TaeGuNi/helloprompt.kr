@@ -42,7 +42,7 @@ Use this when you need a quick, safe, and professional template in a rush.
 > **Role:** You are an expert career coach and business communication specialist.
 > **Task:** Write a polite, professional thank-you email to an interviewer. Mention that I enjoyed our specific conversation today and reiterate my strong interest in joining the company. Keep it under 10 lines.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

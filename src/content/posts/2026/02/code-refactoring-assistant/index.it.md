@@ -44,7 +44,7 @@ Usa questa versione quando hai fretta e vuoi solo una rapida ripulita al volo.
 >
 > `[INSERISCI_IL_TUO_CODICE_QUI]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

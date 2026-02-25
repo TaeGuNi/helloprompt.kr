@@ -42,7 +42,7 @@ Nutzen Sie diese Version für schnelle, allgemeine Empfehlungen.
 > **Rolle:** Du bist ein Experte für Neurowissenschaften und Verhaltenspsychologie.
 > **Aufgabe:** Erstelle mir eine wissenschaftlich fundierte Morgenroutine, um meine Energie und Konzentration über den Tag hinweg zu maximieren.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 

@@ -44,7 +44,7 @@ Use esta estrutura descritiva básica quando quiser visualizar uma ideia rapidam
 > **Prompt:**
 > `A cinematic drone shot of a futuristic cyberpunk city at sunset, flying cars, neon lights, 4k resolution, photorealistic`
 
-<br>
+\
 
 ### 🥇 Versão Pro (Profissional)
 

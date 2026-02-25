@@ -43,7 +43,7 @@ Ideal cuando necesitas una sugerencia rápida para salir del paso.
 > **Rol:** Eres un mediador familiar justo, empático y racional.
 > **Solicitud:** Ayúdame a negociar y establecer reglas claras y amigables para que mi hijo apague YouTube sin pelear cuando se acabe su tiempo.
 
-<br>
+\
 
 ### 🥇 Versión Experta (Pro Version)
 

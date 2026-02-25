@@ -13,7 +13,7 @@ tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 
 - **🎯 Consigliato per:** Impiegati, Project Manager, Account Manager che collaborano con partner esterni
 - **⏱️ Tempo richiesto:** 15 minuti → 30 secondi
-- **🤖 Modello consigliato:** ChatGPT (GPT-4o), Claude 3.5 Sonnet o Gemini 1.5 Pro
+- **🤖 Modello consigliato:** ChatGPT (GPT-4o), Claude 3.5 Sonnet o Gemini 2.5 Pro
 
 - ⭐ **Difficoltà:** ⭐⭐☆☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Usala quando hai poco tempo e ti serve un risultato diretto.
 > **Ruolo:** Sei un esperto di comunicazione aziendale e negoziazione.
 > **Richiesta:** Scrivi una breve email per sollecitare un partner commerciale che non risponde da 3 giorni riguardo a `[Nome Progetto]`. Mantieni un tono molto cortese e professionale, ma ricorda chiaramente la scadenza.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Esperto)
 

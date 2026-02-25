@@ -49,7 +49,7 @@ Ideale quando sei già in strada e hai bisogno di un'infarinatura rapida prima d
 > **Ruolo:** Sei un critico e storico dell'architettura di fama internazionale.
 > **Richiesta:** Accompagnami in una passeggiata virtuale per `[Nome Città]`. Dal gotico al decostruttivismo, raccontami le storie e le peculiarità ingegneristiche degli edifici più rappresentativi, spiegando perché la città ha l'aspetto che ha oggi.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Analisi Dettagliata)
 

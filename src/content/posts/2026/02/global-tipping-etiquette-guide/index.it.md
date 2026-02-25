@@ -48,7 +48,7 @@ Usala quando hai bisogno di una risposta rapida mentre aspetti il conto al tavol
 > **Ruolo:** Sei un 'Esperto Globale di Galateo e Viaggi' sempre aggiornato.
 > **Richiesta:** Spiegami esattamente quanta mancia lasciare e come farlo in `[Nome del Paese]` per ristoranti, hotel e taxi.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 
@@ -108,7 +108,7 @@ Il problema più grande quando si viaggia non è solo _quanto_ dare, ma _come_ d
 
 ### ❌ Prima (Input Vago)
 
-> Quanta mancia devo lasciare negli Stati Uniti?
+Quanta mancia devo lasciare negli Stati Uniti?
 
 **(Risultato tipico e poco utile dell'IA):** "Negli Stati Uniti, la mancia è consuetudine. Dipende dal servizio ricevuto, ma di solito si lascia tra il 15% e il 20%. Negli hotel varia a seconda del tipo di personale."
 

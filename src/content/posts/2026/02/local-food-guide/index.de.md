@@ -42,7 +42,7 @@ Verwende diesen Prompt, wenn du unterwegs bist und sofort ein gutes Restaurant b
 > **Rolle:** Du bist ein erfahrener Michelin-Inspektor und ein absolut ortskundiger Foodie.
 > **Anfrage:** Zeig mir 3 authentische Restaurants in `[Aktueller Ort]`, die keine Touristenfallen sind, sondern wo die Einheimischen essen gehen. Nenne mir für jedes das beste Gericht.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für echte Feinschmecker)
 
@@ -104,16 +104,16 @@ Dieser Prompt ist ein absoluter Gamechanger für jede Reise. Das Geheimnis liegt
 
 ### ❌ Vorher (Eingabe)
 
-> "Empfiehl mir ein paar gute Restaurants in Paris."
+"Empfiehl mir ein paar gute Restaurants in Paris."
 
 ### ✅ Nachher (Ergebnis)
 
 > **Bistrot des Tournelles** (Google Maps: 4.8 ⭐)
->
-> - **Signature Dish:** Klassisches Entrecôte mit hausgemachter Pfeffersauce und Pommes Frites.
-> - **Warum hier?** Versteckt im Marais-Viertel, fast ausschließlich von lokalen Büroangestellten besucht. Faire Preise, fantastische Weinauswahl.
-> - **Menü-Tipp:** Starte mit der Zwiebelsuppe, wähle das Entrecôte als Hauptgang und ein Glas offenen Bordeaux.
-> - **Reservierung:** Ein kleines Bistro. Walk-ins sind zur Mittagszeit (vor 12:30 Uhr) möglich, abends ist eine Reservierung ratsam.
+
+- **Signature Dish:** Klassisches Entrecôte mit hausgemachter Pfeffersauce und Pommes Frites.
+- **Warum hier?** Versteckt im Marais-Viertel, fast ausschließlich von lokalen Büroangestellten besucht. Faire Preise, fantastische Weinauswahl.
+- **Menü-Tipp:** Starte mit der Zwiebelsuppe, wähle das Entrecôte als Hauptgang und ein Glas offenen Bordeaux.
+- **Reservierung:** Ein kleines Bistro. Walk-ins sind zur Mittagszeit (vor 12:30 Uhr) möglich, abends ist eine Reservierung ratsam.
 
 ---
 

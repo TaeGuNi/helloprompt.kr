@@ -42,7 +42,7 @@ Usala quando hai bisogno di una bozza rapida per farti un'idea generale.
 > **Ruolo:** Sei un Project Manager veterano.
 > **Richiesta:** Crea un programma di progetto suddividendo le attività necessarie e calcolando le tempistiche a ritroso, partendo dalla data di scadenza [Inserire Data].
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

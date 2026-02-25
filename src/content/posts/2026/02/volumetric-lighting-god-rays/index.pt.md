@@ -45,7 +45,7 @@ Ideal para quando você precisa de resultados rápidos e impactantes sem muita c
 >
 > **Prompt Base:** `[Cenário desejado], com iluminação volumétrica intensa, god rays, poeira visível no ar, iluminação cinematográfica.`
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

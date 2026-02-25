@@ -42,7 +42,7 @@ Ideale per test rapidi o per chi ha bisogno di un'ispirazione immediata e senza 
 > **Ruolo:** Sei un illustratore digitale esperto in concept art fantasy.
 > **Richiesta:** Genera un'immagine di una creatura o di un ambiente notturno che emette luce propria, utilizzando la bioluminescenza come fonte di illuminazione principale.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Expert Version)
 

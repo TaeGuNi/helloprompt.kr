@@ -42,7 +42,7 @@ Utilisez ce prompt lorsque vous avez besoin d'un code d'animation rapide pour un
 > **Rôle :** Tu es un `[Développeur UI Front-end]`.
 > **Tâche :** Rédige le code d'animation CSS Keyframe pour une `[fenêtre de notification qui apparaît en glissant depuis le coin supérieur droit de l'écran]`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

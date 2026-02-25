@@ -42,7 +42,7 @@ Las _Sleep Stories_ (historias para dormir) son contenidos diseñados para hacer
 > **Rol:** Eres el mejor escritor de cuentos para dormir y un experto en hipnosis clínica.
 > **Solicitud:** Contar ovejas ya no me funciona. Crea al instante una 'historia de cuna para adultos' extremadamente descriptiva, pacífica y relajante que me ayude a conciliar el sueño.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

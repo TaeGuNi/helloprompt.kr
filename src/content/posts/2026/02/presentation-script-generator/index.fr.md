@@ -42,7 +42,7 @@ Utilisez cette version lorsque vous avez besoin d'un script rapide sans trop de 
 > **Rôle :** Tu es un coach professionnel de conférences TED.
 > **Demande :** Génère-moi un script de présentation naturel pour chaque diapositive de mon PPT à partir des points clés fournis.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version expert)
 

@@ -39,7 +39,7 @@ Idéal pour des tests rapides ou pour générer des portraits simples dans de no
 > **Rôle :** Tu es un `[Directeur de la photographie]`.
 > **Prompt :** Un portrait photographique d'un homme buvant un café en terrasse à Paris, ambiance matinale --cref `[URL_DE_VOTRE_IMAGE]` --cw 100
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

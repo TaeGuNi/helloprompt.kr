@@ -45,7 +45,7 @@ tags: ["미드저니", "Midjourney", "AI그림", "프롬프트", "디자인"]
 > **プロンプト (Prompt):**
 > `a cinematic cyberpunk neon poster with clear typography text "HELLO 2026", futuristic glowing city background, hyper-detailed --ar 2:3 --v 7.0 --style raw`
 
-<br>
+\
 
 ### 🥇 Pro Version (キャラクターの一貫性維持と応用)
 

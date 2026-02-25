@@ -46,7 +46,7 @@ Utiliza estos prompts para evaluar si tu infraestructura actual debería migrar 
 > **Contexto:** Mi equipo utiliza actualmente `[Tecnología actual, ej: Docker/Kubernetes]` para desplegar `[Tipo de aplicación, ej: microservicios en Node.js]`.
 > **Tarea:** Analiza si migrar a WebAssembly (Wasm) nos beneficiaría. Dame 3 ventajas, 3 desventajas y una recomendación final clara.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

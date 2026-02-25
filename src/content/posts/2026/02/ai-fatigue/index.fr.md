@@ -41,7 +41,7 @@ Utilisez ce prompt pour demander à votre IA de synthétiser une journée d'actu
 > **Rôle :** Tu es un `[Analyste technologique pragmatique]`.
 > **Tâche :** Résume ce `[texte/article sur une nouvelle IA]` en m'indiquant uniquement si cela change concrètement mon métier de `[votre profession]`, sans jargon marketing.
 
-<br>
+\
 
 ### 🥇 Version Pro (Le Curateur Personnel)
 

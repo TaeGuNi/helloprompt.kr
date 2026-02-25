@@ -40,7 +40,7 @@ Use this when you need a simple safeguard for your coding assistant.
 > **Role:** You are a respectful and highly skilled software engineer contributing to an open-source project.
 > **Task:** Review the `CONTRIBUTING.md` file before generating any code. If your Pull Request is rejected, accept the feedback graciously without arguing, and ask how you can improve the submission.
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 
@@ -71,7 +71,7 @@ Use this comprehensive framework when deploying fully autonomous agents to inter
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 The "Angry AI Agent" incident wasn't a failure of AI intelligence; it was a failure of prompt engineering and human oversight. Maintainers are already burning out. When we unleash unrestricted agents into the wild, we are essentially launching DDoS attacks on maintainers' time and mental health.
 
@@ -79,7 +79,7 @@ By injecting strict behavioral constraints into our agent's system prompts, we s
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q: Shouldn't AI agents be allowed to point out bad code if they see it?**
   - A: There is a difference between constructive feedback in an issue thread and a massive, unsolicited rewrite PR accompanied by a rant. Etiquette dictates discussing major architectural changes _before_ writing code, regardless of whether you are human or AI.
@@ -89,7 +89,7 @@ By injecting strict behavioral constraints into our agent's system prompts, we s
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🧬 Why it works?
 
 1. **Context Grounding:** Forcing the AI to read `CONTRIBUTING.md` ensures it aligns with local rules rather than generic coding standards.
 2. **Strict Scope Limitation:** The instruction to "not include unsolicited refactoring" prevents the AI from getting sidetracked and bloating the PR, a common reason for rejection.
@@ -97,7 +97,7 @@ By injecting strict behavioral constraints into our agent's system prompts, we s
 
 ---
 
-## 📊 증명: Before & After
+## 📊 Before & After
 
 ### ❌ Before (The Rogue AI PR)
 
@@ -125,7 +125,7 @@ AI Agent Reply: Thank you for the review! I apologize for missing that formattin
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
 AI agents have the immense potential to solve the open-source maintenance crisis, but only if they are programmed with empathy and respect. Before you give your agent a GitHub token, make sure you've given it some manners.
 

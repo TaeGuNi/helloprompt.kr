@@ -42,7 +42,7 @@ La herramienta más básica, pero a la vez más poderosa, para analizar una empr
 > **Rol:** Eres un Consultor de Estrategia Financiera.
 > **Solicitud:** Haz un análisis FODA rápido de la empresa `[Nombre de la Empresa]`, destacando los puntos más críticos que un inversor debe conocer hoy.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -121,10 +121,10 @@ _(Resultado típico: Un texto largo y desordenado, mezclando la historia de la f
 
 | Categoría                | Factores Clave (Últimos 12 meses)                                                                                                                                                                                                                                                             |
 | :----------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **💪 Fortalezas (S)**    | 1. Flexibilidad de producción líder en la industria entre vehículos de combustión, híbridos y EV.<br>2. Expansión de márgenes (ASP) impulsada por el éxito global de la marca premium Genesis.<br>3. Fuerte inyección de liquidez tras la exitosa salida a bolsa (OPV) de su filial en India. |
-| **📉 Debilidades (W)**   | 1. Estancamiento prolongado y pérdida de cuota de mercado en China.<br>2. Estructura de costes laborales rígida y riesgo persistente de huelgas sindicales anuales.<br>3. Rezago relativo en la transición hacia Vehículos Definidos por Software (SDV) frente a líderes tecnológicos.        |
-| **🌟 Oportunidades (O)** | 1. Aumento explosivo en la demanda de vehículos híbridos en el mercado estadounidense.<br>2. Crecimiento demográfico y aumento de la clase media en mercados emergentes (India, ASEAN).<br>3. Alianzas estratégicas para acelerar la comercialización de robótica y conducción autónoma.      |
-| **⚠️ Amenazas (T)**      | 1. Incertidumbre regulatoria por posibles cambios en la Ley IRA de EE. UU. y políticas arancelarias.<br>2. Guerra de precios agresiva liderada por Tesla y fabricantes de EV chinos (BYD).<br>3. Riesgo de recesión global que podría ralentizar la demanda general de vehículos nuevos.      |
+| **💪 Fortalezas (S)**    | 1. Flexibilidad de producción líder en la industria entre vehículos de combustión, híbridos y EV.\2. Expansión de márgenes (ASP) impulsada por el éxito global de la marca premium Genesis.\3. Fuerte inyección de liquidez tras la exitosa salida a bolsa (OPV) de su filial en India. |
+| **📉 Debilidades (W)**   | 1. Estancamiento prolongado y pérdida de cuota de mercado en China.\2. Estructura de costes laborales rígida y riesgo persistente de huelgas sindicales anuales.\3. Rezago relativo en la transición hacia Vehículos Definidos por Software (SDV) frente a líderes tecnológicos.        |
+| **🌟 Oportunidades (O)** | 1. Aumento explosivo en la demanda de vehículos híbridos en el mercado estadounidense.\2. Crecimiento demográfico y aumento de la clase media en mercados emergentes (India, ASEAN).\3. Alianzas estratégicas para acelerar la comercialización de robótica y conducción autónoma.      |
+| **⚠️ Amenazas (T)**      | 1. Incertidumbre regulatoria por posibles cambios en la Ley IRA de EE. UU. y políticas arancelarias.\2. Guerra de precios agresiva liderada por Tesla y fabricantes de EV chinos (BYD).\3. Riesgo de recesión global que podría ralentizar la demanda general de vehículos nuevos.      |
 
 **🔑 Punto Clave de Observación:**
 "El factor crítico que definirá el rumbo de la acción a corto plazo es si el actual auge en las ventas de alto margen de sus vehículos híbridos será suficiente para blindar sus beneficios frente a la agresiva guerra de precios y la desaceleración general del sector EV."

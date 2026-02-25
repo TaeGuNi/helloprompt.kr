@@ -43,7 +43,7 @@ Nutzen Sie dies, wenn Sie zufällig einen Investor oder Juror treffen oder eine 
 > **Aufgabe:** Schreibe mir ein Skript für einen **„Elevator Pitch“**, mit dem ich meine Geschäftsidee einem Investor in nur 30 Sekunden erklären kann. Beginne den ersten Satz mit einem starken Hook und strukturiere den Text extrem prägnant in der Reihenfolge: Problem – Lösung – Markt – Team.
 > **Meine Idee:** `[Eine App, die Hundegebell mithilfe von KI analysiert, um Emotionen und Gesundheitszustand zu erkennen]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Struktur für 10 Slides)
 

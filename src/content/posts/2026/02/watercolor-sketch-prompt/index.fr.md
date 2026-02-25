@@ -49,7 +49,7 @@ Utilisez cette version lorsque vous avez besoin d'une illustration rapide sans c
 > **Rôle :** Tu es un illustrateur expert en art traditionnel.
 > **Demande :** Génère une image de `[Sujet]` dans un style de croquis à l'aquarelle, avec des lignes de crayon apparentes et de légères éclaboussures de peinture sur un fond blanc.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

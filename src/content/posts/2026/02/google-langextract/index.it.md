@@ -5,9 +5,6 @@ date: 2026-02-20
 pubDate: 2026-02-20
 description: " \"Scopri come dire addio ai parser fragili e ottenere JSON perfetti dagli LLM con la nuova libreria LangExtract di Google.\""
 author: "Hello Prompt"
-image:
-  url: "https://docs.astro.build/assets/full-logo-light.png"
-  alt: "Google LangExtract Logo"
 tags: ["Google", "LLM", "Data Extraction", "Python", "AI"]
 ---
 
@@ -15,7 +12,7 @@ tags: ["Google", "LLM", "Data Extraction", "Python", "AI"]
 
 - **🎯 Consigliato per:** Data Engineer, Sviluppatori Backend, AI Engineer
 - **⏱️ Tempo risparmiato:** Da ore di debug regex → A pochi minuti di setup
-- **🤖 Modelli consigliati:** Gemini 1.5 Pro, Gemini 1.5 Flash
+- **🤖 Modelli consigliati:** Gemini 2.5 Pro, Gemini 2.5 Flash
 
 - ⭐ **Difficoltà:** ⭐⭐☆☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -48,7 +45,7 @@ Prima di LangExtract, dovevi letteralmente "pregare" l'LLM di non sbagliare la s
 > **Ruolo:** Sei un estrattore di dati esperto e preciso.
 > **Compito:** Estrai i dettagli della riunione dal testo fornito. Devi restituire SOLO un JSON valido, senza testo aggiuntivo e senza blocchi markdown. Includi rigorosamente le chiavi: topic, participants, start_time, location.
 
-<br>
+\
 
 ### 🥇 Pro Version (L'Approccio Code-First & Sicuro)
 
@@ -106,7 +103,7 @@ LangExtract cambia completamente le regole del gioco perché sposta la responsab
   - A: Se l'estrazione ha successo al primo tentativo (e succede quasi sempre), la latenza è identica a una normale API call. Se entra in gioco l'auto-correzione, ci sarà inevitabilmente una latenza aggiuntiva dovuta alla seconda chiamata per risolvere l'errore. Tuttavia, è un compromesso eccellente: aspettare un paio di secondi in più è infinitamente meglio di un'applicazione che va in crash irreversibile in produzione.
 
 - **Q: È un approccio adatto per estrarre dati da documenti molto lunghi o complessi?**
-  - A: Assolutamente sì. Sfruttando l'enorme finestra di contesto di Gemini 1.5 Pro (fino a 2 milioni di token), puoi passare interi PDF aziendali a LangExtract e ottenere schemi estremamente complessi popolati con precisione millimetrica in un singolo passaggio.
+  - A: Assolutamente sì. Sfruttando l'enorme finestra di contesto di Gemini 2.5 Pro (fino a 2 milioni di token), puoi passare interi PDF aziendali a LangExtract e ottenere schemi estremamente complessi popolati con precisione millimetrica in un singolo passaggio.
 
 ---
 

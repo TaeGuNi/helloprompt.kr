@@ -13,7 +13,7 @@ tags: ["독서", "요약", "학습", "지식관리"]
 
 - **🎯 Recommended for:** Professionals, developers, and grad students overwhelmed by a mountain of reading material but short on time.
 - **⏱️ Time Required:** 1 hour → Reduced to 15 minutes
-- **🤖 Recommended AI:** Claude 3.5 Sonnet (Outstanding for long context windows), Gemini 1.5 Pro
+- **🤖 Recommended AI:** Claude 3.5 Sonnet (Outstanding for long context windows), Gemini 2.5 Pro
 
 - ⭐ **Difficulty:** ⭐⭐☆☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -45,7 +45,7 @@ Use this when you need to quickly grasp the core context of a document.
 > **Task:** Read the text below and summarize the 3 most important key points so that even a beginner can easily understand them.
 > **Text:** `[Insert your text here]`
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -88,7 +88,7 @@ The human brain learns fastest when connecting unfamiliar information to familia
 ## 🙋 FAQ {#faq}
 
 - **Q: Can I copy and paste an entire book into the prompt?**
-  - A: It depends on the AI model's context window size. Latest models like Gemini 1.5 Pro or Claude 3.5 Sonnet can easily digest a full book's worth of PDF or text. However, if you want more precise and accurate answers, I recommend asking chapter by chapter.
+  - A: It depends on the AI model's context window size. Latest models like Gemini 2.5 Pro or Claude 3.5 Sonnet can easily digest a full book's worth of PDF or text. However, if you want more precise and accurate answers, I recommend asking chapter by chapter.
 
 - **Q: Can I just rely on the summary and skip the original text?**
   - A: AI is an excellent compass, but it doesn't capture every detail of the map. Use this prompt as an 'appetizer to grasp the skeleton and context of the book before diving in.' Once you map the overall structure in your brain, you will absorb the original text like a sponge.

@@ -42,7 +42,7 @@ Use esta versão para extrair definições rápidas de objetos simples.
 > **Papel:** Você é um Desenvolvedor TypeScript Sênior.
 > **Solicitação:** Analise o seguinte `[JSON]` e gere as respectivas `interfaces` em TypeScript e esquemas de validação do Zod para ele.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

@@ -42,7 +42,7 @@ Idéal lorsque vous êtes en panne d'inspiration et avez besoin d'une idée imm�
 > **Rôle :** Tu es un parolier professionnel reconnu pour ta plume délicate et tes textes poignants, à l'image des plus grands auteurs de ballades.
 > **Requête :** Écris-moi les paroles d'une ballade triste en utilisant ces 3 mots-clés : [Mot 1], [Mot 2], [Mot 3].
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Expert)
 
@@ -106,7 +106,7 @@ La magie de ce prompt réside dans sa capacité à contourner le syndrome de la 
 
 ### ❌ Avant (Brainstorming désordonné)
 
-> "Canapé, pluie, téléphone... je suis triste et tu me manques dans le canapé."
+"Canapé, pluie, téléphone... je suis triste et tu me manques dans le canapé."
 
 ### ✅ Après (Résultat de l'IA avec le Prompt Pro)
 

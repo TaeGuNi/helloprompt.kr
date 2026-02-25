@@ -43,7 +43,7 @@ Idéale pour un compte-rendu rapide sans détails complexes.
 > **Tâche :** Rédige mon rapport de Daily Stand-up à partir des notes suivantes : `[Insérer vos notes en vrac]`.
 > **Format :** Utilise trois puces : 1. Ce que j'ai fait hier, 2. Ce que je prévois de faire aujourd'hui, 3. Les points de blocage (s'il y en a).
 
-<br>
+\
 
 ### 🥇 Version Pro (Recommandée)
 

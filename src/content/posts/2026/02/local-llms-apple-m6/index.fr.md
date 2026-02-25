@@ -41,7 +41,7 @@ Idéal pour obtenir rapidement un script de test fonctionnel.
 > **Rôle :** Tu es un expert en ingénierie IA spécialisé dans l'écosystème Apple Silicon.
 > **Requête :** Rédige un script Python utilisant la bibliothèque `mlx` pour télécharger et exécuter le modèle `[Nom du modèle, ex: Llama-3-8B-Instruct]` en quantification 4-bit sur une puce Apple M6.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

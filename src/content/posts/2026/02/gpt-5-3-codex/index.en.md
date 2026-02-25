@@ -48,7 +48,7 @@ Use this for rapid, single-function debugging and optimization.
 > **Role:** You are a Senior Staff Engineer.
 > **Task:** Analyze this `[Language/Framework]` code block and fix any potential bugs, memory leaks, or performance bottlenecks.
 
-<br>
+\
 
 ### 🥇 Pro Version (Project-Level Refactoring)
 

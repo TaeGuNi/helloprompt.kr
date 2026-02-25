@@ -42,7 +42,7 @@ tags: ["业务效率", "Excel", "报告书", "ChatGPT"]
 > **角色:** 你是曾在 Google 任职的资深 OKR 教练。
 > **请求:** 请帮我制定一个既激动人心 (Objective) 又完全可衡量 (Key Result) 的 OKR，用来解决 `[当前面临的业务挑战]`。
 
-<br>
+\
 
 ### 🥇 Pro Version (专家版)
 

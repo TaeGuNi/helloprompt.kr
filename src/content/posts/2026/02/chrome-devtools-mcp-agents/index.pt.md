@@ -42,7 +42,7 @@ Ideal para verificações rápidas de erros no console ou anomalias no layout.
 > **Função:** Você é um Engenheiro Frontend Sênior especializado em depuração web.
 > **Tarefa:** Use a integração do Chrome DevTools MCP para acessar a aba atual do navegador. Verifique se há algum erro no console e liste os elementos do DOM que estão sobrepostos na página inicial. Sugira a correção em CSS.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Profissional)
 

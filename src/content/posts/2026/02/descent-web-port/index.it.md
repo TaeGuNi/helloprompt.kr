@@ -41,7 +41,7 @@ Usa questo prompt per ottenere una panoramica rapida o risolvere piccoli bug di 
 > **Ruolo:** Sei un Senior WebGL e WASM Developer.
 > **Azione:** Spiegami come convertire questo `[Codice C legacy]` in un modulo WebAssembly utilizzabile in JavaScript, garantendo alte prestazioni.
 
-<br>
+\
 
 ### 🥇 Versione Pro
 

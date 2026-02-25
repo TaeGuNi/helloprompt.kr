@@ -43,7 +43,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Print"]
 > **Task（指示）:** 以下のテーマで、特有の網点と色ズレが魅力的なリソグラフ（Risograph）印刷スタイルの画像を生成してください。
 > **Theme（テーマ）:** `[描きたい被写体・風景などを入力]`
 
-<br>
+\
 
 ### 🥇 Pro Version (専門家形)
 
@@ -94,13 +94,13 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Print"]
 
 ### ❌ Before (入力)
 
-> Girl with headphones drawing.
+Girl with headphones drawing.
 
 _(結果：よくある綺麗で滑らかなデジタルイラスト)_
 
 ### ✅ After (結果)
 
-> Pro Versionの「Risograph」プロンプトを適用
+Pro Versionの「Risograph」プロンプトを適用
 
 _(結果：ネオンピンクのインクが際立ち、ハーフトーンの点々模様と版ズレが見える、ザラザラとしたヒップなアートポスター)_
 

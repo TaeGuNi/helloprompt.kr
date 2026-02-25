@@ -9,7 +9,7 @@ tags: ["storage", "hardware", "data"]
 
 - **🎯 Público objetivo:** Ingenieros de infraestructura, administradores de centros de datos, arquitectos de soluciones de IA
 - **⏱️ Tiempo requerido:** 2 horas → Reducido a 3 minutos
-- **🤖 Modelos recomendados:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (Especializados en análisis de datos y redacción de informes)
+- **🤖 Modelos recomendados:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (Especializados en análisis de datos y redacción de informes)
 
 - ⭐ **Dificultad:** ⭐⭐⭐☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -40,7 +40,7 @@ Este prompt utiliza las estadísticas de fallos de discos duros (AFR) de 2025 de
 > **Rol:** Eres un ingeniero senior de infraestructura de centros de datos y experto en almacenamiento.
 > **Tarea:** Basándote en las estadísticas de fallos de discos de Backblaze 2025, recomienda dos modelos de discos duros (HDD) de alta capacidad (más de 20TB) que sean ideales para un Data Lake masivo destinado al entrenamiento de IA, y explica detalladamente las razones de tu elección.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

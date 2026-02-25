@@ -38,7 +38,7 @@ Utilize para esboçar ideias de forma rápida e prática.
 > **Papel:** Você é um `[Desenvolvedor Front-end Especialista em SVG]`.
 > **Tarefa:** Escreva o código SVG perfeito e válido que represente `[um pelicano andando de bicicleta]`.
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro)
 
@@ -110,16 +110,16 @@ No entanto, ao atribuir a persona de um "especialista que entende de princípios
 
 ```xml
 <svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Fundo do céu em tom azul neon -->
+  
   <rect width="500" height="500" fill="#0a0a2a"/>
 
-  <!-- Efeito neon e gradiente nas rodas da bicicleta -->
+  
   <circle cx="150" cy="350" r="60" stroke="#00f3ff" stroke-width="6" fill="none"/>
   <circle cx="350" cy="350" r="60" stroke="#ff00e5" stroke-width="6" fill="none"/>
 
-  <!-- Silhueta do pelicano utilizando curvas de Bézier complexas (trecho omitido) -->
+  
   <path d="M220 200 C..." fill="#ffffff" stroke="#00f3ff" stroke-width="3"/>
-  <!-- Centenas de linhas de código vetorial de nível profissional, renderizadas perfeitamente e sem erros -->
+  
 </svg>
 ```
 

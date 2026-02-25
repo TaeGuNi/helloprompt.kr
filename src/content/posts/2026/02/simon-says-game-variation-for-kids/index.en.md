@@ -42,7 +42,7 @@ Use this prompt when you need quick, creative ideas right away.
 > **Role:** You are an expert pediatric physical education teacher.
 > **Task:** Generate 5 fun and creative 'Simon Says' missions to improve a child's concentration and body coordination.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

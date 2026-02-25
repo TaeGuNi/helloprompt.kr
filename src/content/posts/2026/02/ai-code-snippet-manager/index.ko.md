@@ -48,7 +48,7 @@ tags: [AI, Coding, Productivity, Refactoring]
 > **코드:**
 > `[여기에 복사한 코드 붙여넣기]`
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 

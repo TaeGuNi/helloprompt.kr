@@ -42,7 +42,7 @@ Para lograr esta fusión visual perfecta, no basta con escribir ambos nombres en
 > **Rol:** Eres un experto en arte de IA generativa.
 > **Petición:** Escribe un prompt en inglés para Midjourney que fusione el sujeto del cuadro 'Retrato de una Belleza' de `[Shin Yun-bok]` con el estilo pictórico impresionista de `[Claude Monet]`.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

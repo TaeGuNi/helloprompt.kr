@@ -38,7 +38,7 @@ Usa questa versione per ottenere rapidamente una panoramica generale.
 > **Ruolo:** Sei un Senior Tech Analyst.
 > **Compito:** Analizza come la "Physical AI" (come l'integrazione tra il modello EXAONE di LG e la robotica) cambierà il settore `[Inserisci il tuo settore, es. Logistica]`. Fornisci 3 opportunità di business e 3 rischi potenziali.
 
-<br>
+\
 
 ### 🥇 Versione Pro
 

@@ -41,7 +41,7 @@ Perfekt für einen schnellen, fundierten Überblick zur Portierung bestehender M
 > **Rolle:** Du bist ein erfahrener AI Performance Engineer für Apple Silicon.
 > **Aufgabe:** Erkläre mir präzise, wie ich mein `[Modellname, z. B. Llama-3-8B]` für den Apple M6-Chip optimieren und lokal ausführen kann.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Level)
 

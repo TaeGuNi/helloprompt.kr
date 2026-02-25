@@ -44,7 +44,7 @@ Descubre el "hechizo mágico" de la ingeniería de prompts para crear NPCs (Pers
 > **Rol:** Eres un actor veterano de improvisación y un maestro de la narrativa.
 > **Solicitud:** Genera rápidamente el perfil de un `[Profesión del NPC, ej. guardia cobarde]`. Dame su nombre, una característica visual llamativa, su forma de hablar y un secreto que oculta.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Expert Version)
 
@@ -108,7 +108,7 @@ Al incluir elementos como el tono de voz y un tic físico, la IA te da exactamen
 
 ### ❌ Antes (Entrada simple)
 
-> Hazme un herrero para mi partida.
+Hazme un herrero para mi partida.
 
 _Resultado de la IA:_ El herrero es un hombre fuerte que trabaja con metal. Tiene un martillo y un yunque. Vende espadas y armaduras a los aventureros. Es muy amable con los clientes. _(Aburrido y genérico)_
 

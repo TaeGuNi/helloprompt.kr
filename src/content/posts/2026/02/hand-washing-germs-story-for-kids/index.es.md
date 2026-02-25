@@ -42,7 +42,7 @@ A los ojos de los niños, si no hay manchas visibles, sus manos están impecable
 > **Rol:** Eres un microbiólogo experto en educación infantil y un cuentacuentos creativo.
 > **Solicitud:** Explícale a un niño de 5 años, de forma divertida y sin asustarlo, por qué debe lavarse las manos antes de comer aunque parezcan limpias.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

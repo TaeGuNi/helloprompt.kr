@@ -40,7 +40,7 @@ Use this when you just need a quick, personalized summary of the update.
 > **Role:** You are a senior DevOps engineer and Vim expert.
 > **Task:** Summarize the core updates in the Vim 9.2 release. Focus strictly on performance improvements and Vim9 script changes that a daily Vim user needs to know.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

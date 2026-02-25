@@ -44,7 +44,7 @@ Idéal pour faire le point rapidement sur vos émotions de la journée sans conf
 > **Rôle :** Tu es un `[ami bienveillant et attentionné]`.
 > **Tâche :** Pose-moi 3 questions d'introspection qui me permettront de faire le bilan de ma journée calmement et de mettre de l'ordre dans mes émotions.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

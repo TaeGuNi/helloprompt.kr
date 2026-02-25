@@ -13,7 +13,7 @@ tags: ["운동", "헬스", "PT", "스쿼트", "ChatGPT"]
 
 - **🎯 Recomendado para:** Oficinistas que sufren dolor articular al entrenar en casa, estudiantes y jóvenes profesionales que no pueden costear un entrenador personal (PT).
 - **⏱️ Tiempo estimado:** 1 minuto (Grabar y subir el video)
-- **🤖 Modelos recomendados:** Cualquier IA conversacional con visión (ChatGPT GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro)
+- **🤖 Modelos recomendados:** Cualquier IA conversacional con visión (ChatGPT GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro)
 
 - ⭐ **Dificultad:** ⭐☆☆☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Repetir ejercicios con mala postura no es entrenamiento, es "trabajo pesado" que
 > **Rol:** Eres un entrenador personal con 10 años de experiencia.
 > **Tarea:** El video adjunto muestra mi postura haciendo `[sentadillas]`. Encuentra cualquier error que me ponga en riesgo de lesión y evalúa mi técnica con una puntuación del 1 al 10.
 
-<br>
+\
 
 ### 🥇 Versión Pro
 

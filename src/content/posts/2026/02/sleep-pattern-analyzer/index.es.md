@@ -42,7 +42,7 @@ El sueño es el pilar fundamental de la salud física y mental. Sin embargo, en 
 > **Rol:** Eres un experto en Medicina del Sueño y Psicólogo Conductual especializado en el tratamiento cognitivo-conductual para el insomnio (TCC-I).
 > **Solicitud:** Revisa mi rutina de hoy y dime qué estoy haciendo mal para no poder dormir: `[Me levanté a las 8 AM, tomé 3 cafés durante la tarde, cené pesado a las 9 PM y estuve viendo TikTok hasta la 1 AM]`. Dame 3 consejos rápidos.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 
@@ -104,7 +104,7 @@ Al utilizar la IA no como un médico, sino como un **auditor de hábitos**, logr
 
 ### ❌ Before (Entrada Pobre)
 
-> "Dime cómo dormir bien. No puedo pegar ojo por las noches."
+"Dime cómo dormir bien. No puedo pegar ojo por las noches."
 
 **Resultado de la IA:** "Intenta acostarte temprano, no bebas café, relájate antes de dormir y asegúrate de que tu cama sea cómoda." _(Consejos genéricos de nivel de búsqueda básica en Google que no resuelven el problema de raíz)._
 

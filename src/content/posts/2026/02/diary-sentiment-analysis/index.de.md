@@ -42,7 +42,7 @@ Nutze diese Version, um schnell deine unbewussten Hauptinteressen und deinen akt
 > **Rolle:** Du bist ein erfahrener Datenanalyst und psychologischer Berater.
 > **Aufgabe:** Extrahiere die Top 5 der am häufigsten verwendeten Substantive und Adjektive aus dem hochgeladenen Tagebuchtext der letzten Woche. Fasse basierend auf diesen Wörtern meinen aktuellen psychologischen Zustand in einem einzigen, prägnanten Satz zusammen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Zeitreihenanalyse & Visualisierungsbericht)
 
@@ -109,17 +109,17 @@ Falls du kein klassisches Tagebuch führst: Exportiere stattdessen den Chatverla
 
 ### ❌ Vorher (Vage emotionale Erschöpfung)
 
-> "Dieser Monat war wirklich schrecklich. Ich glaube, ich war jeden Tag müde und genervt. Warum bin ich so deprimiert?"
+"Dieser Monat war wirklich schrecklich. Ich glaube, ich war jeden Tag müde und genervt. Warum bin ich so deprimiert?"
 > *(Gefangen in vager Hilflosigkeit, ohne die genaue Ursache zu kennen)*
 
 ### ✅ Nachher (Datengestützte, objektive Reflexion)
 
 > **[📈 KI-Stimmungsanalyse-Bericht]**
-> 
-> - **Tiefpunkt der Stimmung (15. & 22. Februar):** Stimmungsscore -8 Punkte.
->   - Zentrale Ursachen-Keywords: `Überstunden`, `Fast Food`, `Selbsthass`.
->   - Analyse: Es zeigt sich ein deutliches Muster: An Tagen, an denen du deinen Stress nicht kontrollieren konntest, nach Überstunden zu viel gegessen hast, hielten die starken negativen Emotionen bis tief in den nächsten Tag an.
-> - **💡 Datengestützter Rat:** An Tagen, an denen Überstunden unvermeidlich sind, blockiere deine Lieferdienst-Apps und mache stattdessen einen 10-minütigen Spaziergang, um deine emotionale Abwehrkraft zu stärken.
+
+- **Tiefpunkt der Stimmung (15. & 22. Februar):** Stimmungsscore -8 Punkte.
+  - Zentrale Ursachen-Keywords: `Überstunden`, `Fast Food`, `Selbsthass`.
+  - Analyse: Es zeigt sich ein deutliches Muster: An Tagen, an denen du deinen Stress nicht kontrollieren konntest, nach Überstunden zu viel gegessen hast, hielten die starken negativen Emotionen bis tief in den nächsten Tag an.
+- **💡 Datengestützter Rat:** An Tagen, an denen Überstunden unvermeidlich sind, blockiere deine Lieferdienst-Apps und mache stattdessen einen 10-minütigen Spaziergang, um deine emotionale Abwehrkraft zu stärken.
 
 ---
 

@@ -44,7 +44,7 @@ Idéal pour obtenir un résultat rapide sans trop d'efforts.
 > **Rôle :** Tu es un `[Critique de cinéma passionné]`.
 > **Demande :** Rédige une critique accrocheuse d'une ligne pour le film `[Nom du film]`, en t'inspirant de cet exemple : "Titanic -> La chaleur de l'amour éternel que même l'océan froid n'a pas pu refroidir. 🚢"
 
-<br>
+\
 
 ### 🥇 Version Pro
 

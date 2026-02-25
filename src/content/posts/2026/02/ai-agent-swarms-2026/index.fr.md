@@ -41,7 +41,7 @@ Idéal pour concevoir rapidement l'ébauche d'un système multi-agents pour un p
 > **Rôle :** Tu es un `[Architecte en Systèmes IA senior]`.
 > **Requête :** Conçois une architecture d'essaim d'agents IA pour résoudre le problème suivant : `[Développer un outil d'étude de marché automatisé]`. Définis les rôles de 3 agents spécialisés, leurs outils, et explique comment ils se transmettent l'information.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

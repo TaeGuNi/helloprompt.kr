@@ -5,9 +5,6 @@ date: 2026-02-20
 pubDate: 2026-02-20
 description: " \"Découvrez comment extraire du JSON précis et des données structurées à partir de LLMs en utilisant la nouvelle bibliothèque LangExtract de Google.\""
 author: "Hello Prompt"
-image:
-  url: "https://docs.astro.build/assets/full-logo-light.png"
-  alt: "Google LangExtract Logo"
 tags: ["Google", "LLM", "Data Extraction", "Python", "AI"]
 ---
 
@@ -15,7 +12,7 @@ tags: ["Google", "LLM", "Data Extraction", "Python", "AI"]
 
 - **🎯 Recommandé pour :** Développeurs Backend, Data Engineers, Ingénieurs IA
 - **⏱️ Gain de temps :** Des heures de débogage Regex → Quelques lignes de code
-- **🤖 Modèles recommandés :** Gemini 1.5 Pro / Flash
+- **🤖 Modèles recommandés :** Gemini 2.5 Pro / Flash
 
 - ⭐ **Difficulté :** ⭐⭐⭐☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -63,7 +60,7 @@ Si vous ne pouvez pas utiliser Python dans votre environnement, voici le prompt 
 >
 > - N'ajoute aucun texte, aucune balise markdown, ni aucune explication avant ou après le JSON.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Expert)
 

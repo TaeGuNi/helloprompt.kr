@@ -42,7 +42,7 @@ Use this when you quickly want to check the overall code quality.
 > **Task:** Check the code below for logical errors or readability issues, and point out 3 ways to improve it.
 > **Code:** `[Paste your code here]`
 
-<br>
+\
 
 ### 🥇 Pro Version
 

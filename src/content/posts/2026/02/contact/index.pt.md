@@ -40,7 +40,7 @@ Ideal para enviar feedbacks curtos, reportar pequenos bugs ou fazer perguntas si
 > **Destinatário:** support@helloprompt.kr
 > **Conteúdo:** Descreva de forma livre e direta o erro encontrado, sua sugestão de melhoria ou qualquer dúvida sobre os nossos serviços.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Propostas B2B & Parcerias Estratégicas)
 

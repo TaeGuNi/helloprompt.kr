@@ -48,7 +48,7 @@ Use this prompt to generate the foundational code for a 1:1 agent interaction.
 >
 > **Goal:** Configure the two agents to successfully complete the task: 'Find all prime numbers from 1 to 100 and save them to a txt file.'
 
-<br>
+\
 
 ### 🥇 Pro Version (Virtual IT Company: PM, Dev, QA)
 

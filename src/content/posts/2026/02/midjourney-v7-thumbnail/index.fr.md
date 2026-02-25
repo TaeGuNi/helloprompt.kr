@@ -40,9 +40,9 @@ tags: ["Midjourney", "Design", "Miniature", "Blog", "ArtIA"]
 Idéal pour un style épuré et moderne (façon Notion ou Toss).
 
 > **Prompt Midjourney :**
-> `cute 3d isometric icon of [Sujet, ex: coffee cup and laptop], pastel background, soft lighting, minimalism, c4d render, high quality --ar 16:9`
+`cute 3d isometric icon of [Sujet, ex: coffee cup and laptop], pastel background, soft lighting, minimalism, c4d render, high quality --ar 16:9`
 
-<br>
+\
 
 ### 🥇 Version Pro (Pour un maximum de clics)
 

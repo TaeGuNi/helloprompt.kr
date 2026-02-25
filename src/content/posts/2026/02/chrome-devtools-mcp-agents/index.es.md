@@ -42,7 +42,7 @@ Ideal para encontrar rápidamente la causa de un error evidente en la página ac
 > **Rol:** Eres un ingeniero frontend experto en depuración.
 > **Tarea:** Conéctate a la pestaña actual de Chrome mediante MCP, revisa los errores de la consola, dime qué archivo está fallando y proporciona el código para solucionarlo.
 
-<br>
+\
 
 ### 🥇 Versión Pro
 

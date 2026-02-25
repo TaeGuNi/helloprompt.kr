@@ -42,7 +42,7 @@ Perfetta per trovare l'ispirazione rapida quando hai un blocco dello scrittore s
 > **Ruolo:** Sei un copywriter esperto di digital marketing.
 > **Richiesta:** Scrivi 5 titoli accattivanti per un articolo di blog che parla di un integratore per la dieta. Includi la parola chiave "perdere 3 kg in una settimana". Il tono deve essere colloquiale, come se fosse la recensione onesta di un amico, evitando l'effetto "pubblicità palese".
 
-<br>
+\
 
 ### 🥇 Versione Pro
 

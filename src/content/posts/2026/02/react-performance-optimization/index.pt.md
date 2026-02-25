@@ -46,7 +46,7 @@ Use este prompt quando quiser encontrar rapidamente a causa de uma função ou o
 > **Código:**
 > `[Cole aqui o código do componente que está causando o gargalo]`
 
-<br>
+\
 
 ### 🥇 Versão Pro (Melhoria Estrutural a Nível de Arquitetura)
 

@@ -47,7 +47,7 @@ Usala quando hai bisogno di una scansione rapida per individuare solo i problemi
 > [Incolla qui il codice]
 > ```
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 

@@ -42,7 +42,7 @@ Use this when you need a quick refactor for a single CSS snippet or a specific J
 > **Role:** You are a Senior Web Standards Expert specializing in Interop 2026.
 > **Task:** Refactor the following `[Legacy Code]` to strictly utilize Interop 2026 standards (e.g., CSS State Queries, View Transitions Level 2). Provide a brief explanation of the modern improvements.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

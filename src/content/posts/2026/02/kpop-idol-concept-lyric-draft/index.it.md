@@ -42,7 +42,7 @@ Usala quando hai bisogno di un'idea fulminea per sbloccare la creatività.
 > **Ruolo:** Sei un leggendario direttore creativo K-POP che ha lavorato per le più grandi agenzie come SM, HYBE e JYP.
 > **Richiesta:** Pianifica l'universo narrativo, il concept di un nuovo album e scrivi una bozza del testo della title track per un nuovo gruppo idol, il tutto in una volta.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 
@@ -105,7 +105,7 @@ La costruzione di un "Universo" (Lore) coerente è ciò che trasforma un semplic
 
 ### ❌ Before (Input Povero)
 
-> Crea un concept per un gruppo femminile sul viaggio nel tempo e scrivi una canzone.
+Crea un concept per un gruppo femminile sul viaggio nel tempo e scrivi una canzone.
 
 ### ✅ After (Risultato Eccellente con Prompt Pro)
 

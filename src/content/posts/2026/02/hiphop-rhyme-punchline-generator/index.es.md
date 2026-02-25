@@ -42,7 +42,7 @@ La esencia del hip-hop reside en la métrica, el _flow_ y esos _punchlines_ que 
 > **Rol:** Eres un rapero y letrista genial con habilidades de primer nivel.
 > **Solicitud:** Escribe una estrofa de 8 barras sobre `[el esfuerzo para llegar a la cima]`. Asegúrate de terminar las líneas con palabras que rimen con `[ación/ión]`. Incluye al menos un punchline impactante.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Expert)
 

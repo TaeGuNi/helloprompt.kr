@@ -42,7 +42,7 @@ Usala quando hai bisogno di una panoramica veloce e risultati immediati.
 > **Ruolo:** Sei un nutrizionista esperto in digiuno intermittente e biohacking.
 > **Richiesta:** Progetta un programma di digiuno intermittente che si adatti al mio stile di vita caotico e dammi 3 consigli per resistere alla fame durante le ore di digiuno.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Esperto)
 
@@ -108,7 +108,7 @@ Nella mia esperienza personale, la parte più preziosa di questo prompt è il "P
 
 ### ❌ Prima (Input Banale)
 
-> "Impostami un programma di digiuno 16:8."
+"Impostami un programma di digiuno 16:8."
 
 _(L'IA ti fornisce un robotico "Mangia dalle 12 alle 20, bevi acqua". Praticamente inutile se lavori fino alle 21 e ceni tardi)._
 

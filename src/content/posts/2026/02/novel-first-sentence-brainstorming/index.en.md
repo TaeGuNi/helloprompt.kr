@@ -42,7 +42,7 @@ Use this when you need quick inspiration without complex setups.
 > **Role:** You are a bestselling author who knows how to immerse readers within the first 3 seconds.
 > **Request:** I need to captivate my readers from the very first sentence. Recommend 10 opening sentences with incredibly strong hooks.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

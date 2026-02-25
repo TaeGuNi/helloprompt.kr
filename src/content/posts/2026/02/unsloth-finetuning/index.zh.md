@@ -42,7 +42,7 @@ image: "/images/posts/unsloth.png"
 > **角色：** 你是一位 LLM 优化与微调专家。
 > **请求：** 请编写一段基于 Unsloth 的 Python 代码，用于使用 `[Alpaca]` 数据集对 `[Llama-3-8B]` 模型进行微调。该代码将在 16GB VRAM 的 GPU 环境下运行。
 
-<br>
+\
 
 ### 🥇 Pro Version (专业版)
 

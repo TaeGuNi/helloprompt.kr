@@ -42,7 +42,7 @@ Usa questa versione per applicare rapidamente il CoT senza dover strutturare un 
 > **Compito:** Risolvi il seguente problema: `[Inserisci il problema logico o matematico]`.
 > **Istruzione chiave:** **Pensa passo dopo passo** prima di fornire la risposta finale.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 

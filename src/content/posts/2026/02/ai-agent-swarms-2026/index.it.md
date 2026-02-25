@@ -39,7 +39,7 @@ Ideale per una rapida bozza strutturale.
 > **Ruolo:** Sei un Architetto di Sistemi AI esperto in Multi-Agent Systems.
 > **Richiesta:** Progetta un sistema di AI Agent Swarm per `[inserisci il tuo caso d'uso, es. automazione della ricerca di mercato]`. Definisci 3 agenti chiave e come interagiscono tra loro.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Pro Version)
 
@@ -82,7 +82,7 @@ Progettare uno sciame di agenti non significa semplicemente "usare più intellig
   - R: Dipende dal tuo stack. CrewAI è ottimo per iniziare rapidamente con processi sequenziali o gerarchici, LangGraph offre il massimo controllo sui flussi di stato complessi, mentre AutoGen è potente per le conversazioni libere tra agenti.
 
 - **D: L'utilizzo di più agenti non fa esplodere i costi delle API?**
-  - R: Può succedere. Chiamare più agenti in catena aumenta linearmente il consumo di token. È fondamentale usare modelli più piccoli ed economici (come Claude 3.5 Haiku o Gemini 1.5 Flash) per task semplici come il routing, riservando i modelli pesanti solo per le fasi di sintesi complessa.
+  - R: Può succedere. Chiamare più agenti in catena aumenta linearmente il consumo di token. È fondamentale usare modelli più piccoli ed economici (come Claude 3.5 Haiku o Gemini 2.5 Flash) per task semplici come il routing, riservando i modelli pesanti solo per le fasi di sintesi complessa.
 
 - **D: Come evito che gli agenti si blocchino in loop infiniti?**
   - R: Imposta un limite rigoroso alle iterazioni (max_steps) o introduci un agente "Supervisore" il cui unico scopo è monitorare il progresso e forzare una decisione o terminare il processo se rileva uno stallo.

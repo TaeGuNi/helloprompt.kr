@@ -42,7 +42,7 @@ Utilizza questa versione quando hai bisogno di una bozza veloce per iniziare a r
 > **Ruolo:** Sei un Coach Professionista di OKR esperto del metodo Google.
 > **Richiesta:** Aiutami a stabilire Obiettivi (Objective) entusiasmanti e Risultati Chiave (Key Result) misurabili per il mio team.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

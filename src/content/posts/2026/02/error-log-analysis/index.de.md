@@ -42,7 +42,7 @@ Nutzen Sie diesen Ansatz für eine schnelle Einschätzung, wenn Sie sofortige Er
 > **Rolle:** Du bist ein erfahrener `[System-Architekt / Senior Developer]`.
 > **Aufgabe:** Analysiere den folgenden Fehler und nenne mir in einem Satz die Ursache sowie einen Lösungsvorschlag. `[Fehlermeldung hier einfügen]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenmodus)
 

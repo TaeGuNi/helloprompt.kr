@@ -48,7 +48,7 @@ Ideale per ottenere risposte rapide appena prima di entrare in un ristorante.
 > **Ruolo:** Sei un 'Consulente di Galateo Globale', massimo esperto in cultura culinaria ed etichetta internazionale.
 > **Richiesta:** Spiegami le regole d'oro del galateo a tavola in `[Nome Paese]`. Evidenzia soprattutto gli errori più comuni e imbarazzanti che un turista rischia di commettere.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 
@@ -106,7 +106,7 @@ Viaggiare non significa solo collezionare timbri sul passaporto, ma immergersi g
 
 ### ❌ Before (Input Povero)
 
-> "Dimmi come comportarmi a tavola in Giappone."
+"Dimmi come comportarmi a tavola in Giappone."
 
 _(Risultato vago e scolastico: Usa le bacchette, non parlare a voce alta, togliti le scarpe prima di entrare in un locale con tatami. Troppo generico e poco salvavita per una cena reale.)_
 

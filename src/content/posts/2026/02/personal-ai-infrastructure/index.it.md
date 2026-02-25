@@ -4,9 +4,6 @@ date: 2026-02-13
 pubDate: 2026-02-13
 description: " \"Scopri come progettare e costruire un'infrastruttura AI personale per ottenere totale libertà, privacy dei dati e personalizzazione, dicendo addio alla dipendenza dai servizi SaaS.\""
 author: "Hello Prompt"
-image:
-  url: "https://cdn.example.com/ai-stack.png"
-  alt: "Personal AI Stack Diagram"
 tags: ["AI", "Infrastructure", "Privacy", "Daniel Miessler"]
 ---
 
@@ -45,7 +42,7 @@ Usa questa versione per ottenere una panoramica veloce sugli strumenti necessari
 > **Ruolo:** Sei un esperto di infrastrutture AI locali.
 > **Azione:** Spiegami come installare e configurare un LLM locale sul mio computer per garantire la massima privacy dei dati. Elenca gli strumenti essenziali gratuiti (come Ollama e Open WebUI).
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

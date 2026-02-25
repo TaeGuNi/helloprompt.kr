@@ -42,7 +42,7 @@ Utilisez cette version lorsque vous êtes pressé et avez juste besoin d'une id�
 > **Rôle :** Tu es un `[Chef Cuisinier Créatif]`.
 > **Demande :** Propose-moi une recette facile à réaliser avec les restes suivants : `[Liste des ingrédients]`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 

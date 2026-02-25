@@ -42,7 +42,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Details"]
 > **角色:** 你是一位屡获殊荣的微距摄影师。
 > **请求:** 请帮我生成一段用于 AI 绘图的微距摄影提示词，重点突出`[拍摄主体，例如：一片叶子上的露珠]`的微观细节，背景需要极度模糊处理。
 
-<br>
+\
 
 ### 🥇 Pro Version (专家版)
 

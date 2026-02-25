@@ -42,7 +42,7 @@ Ideal para quando você precisa de uma visão geral rápida e sem rodeios.
 > **Papel:** Você é um nutricionista especialista em Dieta Cetogênica (LCHF).
 > **Pedido:** Crie um guia simples e direto para eu começar a dieta cetogênica hoje, sem me preocupar com cálculos complexos de macronutrientes.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Professional Version)
 

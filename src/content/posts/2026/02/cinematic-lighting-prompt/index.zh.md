@@ -42,7 +42,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Lighting", "Cinematic"]
 > **提示词后缀：**
 > `, cinematic lighting, dramatic shadows, highly detailed, 8k resolution, photorealistic`
 
-<br>
+\
 
 ### 🥇 Pro Version (专家版)
 

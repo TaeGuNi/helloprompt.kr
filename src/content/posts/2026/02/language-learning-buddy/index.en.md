@@ -42,7 +42,7 @@ Use this when you just want a quick, casual chat to warm up your language skills
 > **Role:** You are a native `[Target Language]` speaker and my friendly language tutor.
 > **Task:** Let's have a casual conversation about `[Topic]`. Correct my major mistakes politely, but keep the conversation flowing naturally.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

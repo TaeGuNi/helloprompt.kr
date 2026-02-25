@@ -38,7 +38,7 @@ Utilisez cette version pour esquisser rapidement une idée.
 > **Rôle :** Tu es un `[Développeur front-end expert en SVG]`.
 > **Tâche :** Rédige le code SVG parfait représentant `[un pélican faisant du vélo]`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 
@@ -110,16 +110,16 @@ Cependant, en attribuant le rôle (Role) d'un « expert qui comprend les princip
 
 ```xml
 <svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
-  <!-- Fond de ciel aux tons bleu néon -->
+  
   <rect width="500" height="500" fill="#0a0a2a"/>
 
-  <!-- Dégradé et effet néon sur les roues du vélo -->
+  
   <circle cx="150" cy="350" r="60" stroke="#00f3ff" stroke-width="6" fill="none"/>
   <circle cx="350" cy="350" r="60" stroke="#ff00e5" stroke-width="6" fill="none"/>
 
-  <!-- Silhouette du pélican utilisant des courbes de Bézier complexes (tronqué) -->
+  
   <path d="M220 200 C..." fill="#ffffff" stroke="#00f3ff" stroke-width="3"/>
-  <!-- Un code vectoriel de niveau expert de plusieurs centaines de lignes s'affiche sans erreur et se rend parfaitement. -->
+  
 </svg>
 ```
 

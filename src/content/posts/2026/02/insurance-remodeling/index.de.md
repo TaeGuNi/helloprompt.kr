@@ -42,7 +42,7 @@ Nutzen Sie diesen Prompt, wenn Sie nur eine schnelle, allgemeine Einschätzung I
 > **Rolle:** Du bist ein objektiver und unabhängiger `[Experte für Versicherungsanalyse]`. Deine Aufgabe ist es, mich ausschließlich aus der Perspektive der Kostenersparnis für den Kunden zu beraten, nicht aus der Sicht eines Verkäufers.
 > **Anfrage:** Ist meine aktuelle Versicherungssituation sinnvoll? Bitte zeige mir eine Analysemethode auf, mit der ich meinen essenziellen Schutz behalte, aber alle unnötigen Prämien konsequent streiche.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Prompt)
 

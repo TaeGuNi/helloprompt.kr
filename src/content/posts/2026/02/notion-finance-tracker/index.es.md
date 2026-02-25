@@ -44,7 +44,7 @@ La respuesta definitiva es **Notion**. Crea una barra de progreso (_Progress Bar
 > **Rol:** Eres un experto en la redacción de fórmulas para Notion.
 > **Tarea:** En una base de datos de Notion, tengo una propiedad de 'Monto' (número) y una propiedad de 'Tipo' (selección: Ingreso/Gasto). Combinando estas dos, escribe una fórmula con la función `if` que calcule el 'Monto Real', dejando el monto tal cual si el 'Tipo' es ingreso, y añadiendo un signo negativo (-) si es 'Gasto'.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

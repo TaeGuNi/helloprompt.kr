@@ -42,7 +42,7 @@ Utilisez cette version lorsque vous avez besoin d'une suggestion immédiate sans
 > **Rôle :** Tu es un conservateur de contenu expert et un critique de cinéma renommé.
 > **Requête :** Analyse mes goûts et recommande-moi un chef-d'œuvre incontournable pour m'éviter de chercher pendant une heure sur Netflix.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 
@@ -98,7 +98,7 @@ En tant que passionné de cinéma, j'ai souvent perdu plus de temps à chercher 
 
 ### ❌ Avant (Requête classique)
 
-> "Recommande-moi un bon film de science-fiction sur Netflix."
+"Recommande-moi un bon film de science-fiction sur Netflix."
 > _(L'IA propose souvent des blockbusters génériques ou des contenus originaux mis en avant, sans tenir compte de vos goûts spécifiques.)_
 
 ### ✅ Après (Résultat avec la Version Pro)

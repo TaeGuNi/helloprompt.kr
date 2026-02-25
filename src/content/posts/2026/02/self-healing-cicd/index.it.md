@@ -44,7 +44,7 @@ Utilizzalo per correggere rapidamente semplici errori di sintassi di Prettier o 
 > **Ruolo:** Sei un `[Senior Frontend Developer]`.
 > **Task:** Analizza il log degli errori fornito e correggi in modo rapido e preciso esclusivamente gli `[errori di linting e i refusi]` presenti nel codice, restituendo il codice completo corretto.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Agente di Auto-Riparazione Sicura)
 

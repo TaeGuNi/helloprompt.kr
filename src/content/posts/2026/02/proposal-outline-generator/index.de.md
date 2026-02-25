@@ -42,7 +42,7 @@ Verwenden Sie dies, wenn Sie unter Zeitdruck stehen und nur einen schnellen Entw
 > **Rolle:** Du bist ein erstklassiger B2B-Texter und Vertriebsexperte.
 > **Anfrage:** Erstelle eine überzeugende Angebotsgliederung für unsere `[Dienstleistung/Produkt]`, die sich an `[Zielgruppe]` richtet und deren Hauptproblem `[Problem]` löst.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 
@@ -103,7 +103,7 @@ Dieser Prompt erzwingt einen Perspektivenwechsel der KI. Indem wir die Rolle ein
 
 ### ❌ Vorher (Eingabe ohne Struktur)
 
-> Schreibe ein Angebot für unsere Social-Media-Marketing-Agentur. Wir wollen einem lokalen Restaurant unsere Dienste anbieten. Wir posten 3x pro Woche auf Instagram und machen schöne Fotos.
+Schreibe ein Angebot für unsere Social-Media-Marketing-Agentur. Wir wollen einem lokalen Restaurant unsere Dienste anbieten. Wir posten 3x pro Woche auf Instagram und machen schöne Fotos.
 
 ### ✅ Nachher (Ergebnis mit Pro-Prompt)
 

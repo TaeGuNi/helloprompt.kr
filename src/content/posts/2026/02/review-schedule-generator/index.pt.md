@@ -43,7 +43,7 @@ Ideal para quando você precisa apenas de um cronograma rápido e direto.
 >
 > **Task:** Crie um cronograma de revisões baseado na Curva do Esquecimento de Ebbinghaus para o conteúdo `[Inserir o assunto estudado]`. Comecei a estudar hoje. Apresente o resultado em uma tabela simples.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert Version)
 

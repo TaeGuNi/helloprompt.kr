@@ -43,7 +43,7 @@ Use this when you're short on time and just need a quick perspective shift.
 > **Role:** You are an expert in positive psychology and a mindfulness coach.
 > **Request:** I want to start a gratitude journal. Ask me what I did today, and help me find 3 things to be grateful for based on my day.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

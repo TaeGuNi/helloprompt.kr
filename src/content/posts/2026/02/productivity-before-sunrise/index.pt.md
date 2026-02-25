@@ -42,7 +42,7 @@ Ideal para organizar os pensamentos rapidamente quando a lista de afazeres for c
 > **Função:** Você é um `[Especialista em Produtividade]`.
 > **Tarefa:** Analise minhas `[tarefas de amanhã]` e crie um cronograma priorizando o que deve ser concluído antes das 9h da manhã para gerar o maior impacto.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Nível Especialista)
 

@@ -13,7 +13,7 @@ tags: ["Debug", "Correzione Bug", "Risoluzione Problemi", "Risoluzione Errori"]
 
 - **🎯 Consigliato per:** Sviluppatori, Ingegneri del Software, Studenti di Informatica
 - **⏱️ Tempo richiesto:** 30 minuti → 2 minuti
-- **🤖 Modello consigliato:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (Ottimi nel ragionamento logico)
+- **🤖 Modello consigliato:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (Ottimi nel ragionamento logico)
 
 - ⭐ **Difficoltà:** ⭐⭐☆☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -43,7 +43,7 @@ Ideale per errori semplici o quando vai di fretta.
 > **Ruolo:** Sei un Senior Software Engineer esperto di debugging.
 > **Richiesta:** Ho questo errore: `[INSERISCI ERRORE]`. Analizza questo snippet di codice e dimmi dove sto sbagliando e come risolverlo: `[INSERISCI CODICE]`.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

@@ -13,7 +13,7 @@ tags: ["Rust", "러스트", "시스템프로그래밍", "백엔드", "WebAssembl
 
 - **🎯 Recommandé pour :** Développeurs système épuisés par les fuites de mémoire (Segfaults) en C/C++, ingénieurs backend avides de performances illimitées.
 - **⏱️ Temps nécessaire :** 20 minutes (pour comprendre le concept clé de la propriété)
-- **🤖 Modèles recommandés :** Toutes les IA conversationnelles (ChatGPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro, etc.)
+- **🤖 Modèles recommandés :** Toutes les IA conversationnelles (ChatGPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro, etc.)
 
 - ⭐ **Difficulté :** ⭐⭐⭐⭐⭐
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Utilisez ce prompt lorsque vous souhaitez assimiler rapidement la syntaxe de bas
 > **Rôle :** Tu es un `[Développeur Rust Senior]`.
 > **Tâche :** Fournis-moi le code pour afficher 'Hello World' en Rust. Ensuite, explique-moi avec des termes simples, adaptés à un débutant, la série de commandes CLI pour créer, compiler et exécuter un nouveau projet en utilisant `[Cargo]`.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expertise approfondie)
 

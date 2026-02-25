@@ -43,7 +43,7 @@ Use this when you just need a fast, high-level overview of an informal sync.
 > **Request:** Read the provided meeting transcript and summarize it into three clear sections: [Key Agenda / Final Decisions / Next Steps].
 > **Transcript:** `[Paste your raw transcript here]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Executive-Ready Minutes)
 
@@ -83,7 +83,7 @@ Use this when you need to share official, structured meeting minutes with your t
 
 This workflow fundamentally shifts your role in a meeting from a passive 'note-taker' to an active 'contributor'. In my experience, relying solely on human memory or manual typing inevitably leads to missed nuances and action items falling through the cracks. By automating the transcription and using a highly structured prompt, you eliminate the cognitive load of organizing messy thoughts.
 
-**Pro Tip:** If the transcript is incredibly long (e.g., a 2-hour strategic planning session), use Claude 3.5 Sonnet or Gemini 1.5 Pro, as their massive context windows handle lengthy raw text much better than standard models. Also, if you notice the AI hallucinating names due to poor audio, briefly prepend a list of attendees to the prompt (e.g., `Attendees: John (Marketing), Sarah (Dev)`).
+**Pro Tip:** If the transcript is incredibly long (e.g., a 2-hour strategic planning session), use Claude 3.5 Sonnet or Gemini 2.5 Pro, as their massive context windows handle lengthy raw text much better than standard models. Also, if you notice the AI hallucinating names due to poor audio, briefly prepend a list of attendees to the prompt (e.g., `Attendees: John (Marketing), Sarah (Dev)`).
 
 ---
 
@@ -113,7 +113,7 @@ This workflow fundamentally shifts your role in a meeting from a passive 'note-t
 
 ### ❌ Before (Manual Human Notes)
 
-> So we talked about the Q3 campaign. Marketing needs to make 3 banner drafts, I think Mark said he'd do it? Dev team has to do the API integration by this week... wait, what was the Design team supposed to do again? Need to ask Sarah later.
+So we talked about the Q3 campaign. Marketing needs to make 3 banner drafts, I think Mark said he'd do it? Dev team has to do the API integration by this week... wait, what was the Design team supposed to do again? Need to ask Sarah later.
 
 ### ✅ After (AI Automation)
 
@@ -128,15 +128,15 @@ This workflow fundamentally shifts your role in a meeting from a passive 'note-t
 **[Email Draft]**
 
 > **Subject:** [Action Required] Recap & Next Steps - Weekly Sync (Feb 8)
->
-> Hi Team,
->
-> Thank you for the productive discussion today. Please find the official meeting minutes and action items outlined above.
->
-> Let me know if there are any discrepancies. Let's make sure to hit our deadlines for the Q3 campaign prep.
->
-> Best,
-> ZZabbis
+
+Hi Team,
+
+Thank you for the productive discussion today. Please find the official meeting minutes and action items outlined above.
+
+Let me know if there are any discrepancies. Let's make sure to hit our deadlines for the Q3 campaign prep.
+
+Best,
+ZZabbis
 
 ---
 

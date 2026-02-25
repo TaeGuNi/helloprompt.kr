@@ -56,7 +56,7 @@ Usala quando non hai idea di come strutturare un Workflow specifico su Bubble (e
 > **Vincoli (Constraints):**
 > - Spiegami esattamente quali menu o azioni (Action) devo cliccare all'interno dell'editor UI di Bubble.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Pro Version)
 

@@ -42,7 +42,7 @@ Nutze diesen Prompt, wenn du einfach nur schnell und unkompliziert die Top-News 
 > **Rolle:** Du bist ein professioneller Nachrichtensprecher.
 > **Aufgabe:** Fasse mir die wichtigsten Nachrichten von heute zum Thema `[Dein Interessensgebiet, z.B. Künstliche Intelligenz und Wirtschaft]` in 3 kurzen Punkten zusammen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Version)
 

@@ -49,7 +49,7 @@ Verwenden Sie diesen Prompt, wenn Sie nur schnell einen allgemeinen Überblick b
 >
 > **Aufgabe:** Ich reise ins Ausland. Erstelle mir eine kompakte Checkliste für eine unverzichtbare Reiseapotheke und ein Erste-Hilfe-Kit, sortiert nach häufigen Symptomen und Notfallsituationen. Nenne universelle Wirkstoffnamen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 
@@ -80,13 +80,13 @@ Verwenden Sie diesen Prompt für eine maßgeschneiderte, hochdetaillierte Vorber
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 Dieser Prompt ist ein echter Lebensretter für die Reisevorbereitung. Das Geniale daran ist die Kombination aus Reiseziel und persönlichen Anfälligkeiten. Die KI berücksichtigt nicht nur Standardmedikamente, sondern warnt auch vor spezifischen Risiken des jeweiligen Landes (wie z. B. dem Bedarf an speziellen Elektrolytlösungen in den Tropen). Besonders wertvoll ist der dritte Teil des Prompts: Die generierten Übersetzungssätze auf dem Smartphone zu speichern, nimmt einem im Notfall komplett die Panik vor der Sprachbarriere in einer ausländischen Apotheke. Ich speichere mir diese Sätze vor jedem Urlaub als Screenshot auf dem Handy ab!
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q: Sollte ich wirklich nur nach Wirkstoffnamen fragen?**
   - A: Unbedingt! Deutsche Markennamen kennt der Apotheker in Vietnam oder Brasilien oft nicht. Wenn Sie jedoch "Acetylsalicylsäure" oder "Ibuprofen" vorlegen, weiß jeder Pharmazeut weltweit sofort, was Sie brauchen.
@@ -99,7 +99,7 @@ Dieser Prompt ist ein echter Lebensretter für die Reisevorbereitung. Das Genial
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🧬 Why it works?
 
 1. **Kontextbezogene Individualisierung:** Durch die Angabe des genauen Reiseziels und der individuellen Anfälligkeiten liefert die KI keine nutzlosen Standardantworten, sondern eine maßgeschneiderte Liste.
 2. **Internationale Ausrichtung (Task 1 & 3):** Die zwingende Aufforderung, Wirkstoffnamen zu verwenden und Sätze für den lokalen Apotheker zu übersetzen, macht das Ergebnis praxistauglich und rettet einen im Ernstfall vor Verständigungsproblemen.
@@ -107,7 +107,7 @@ Dieser Prompt ist ein echter Lebensretter für die Reisevorbereitung. Das Genial
 
 ---
 
-## 📊 증명: Before & After
+## 📊 Before & After
 
 ### ❌ Before (Einfache Frage)
 
@@ -136,7 +136,7 @@ Ergebnis-Auszug:
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
 Gesundheit ist die wichtigste Voraussetzung, um eine Reise wirklich genießen zu können. Mit diesem maßgeschneiderten KI-Reisearzt-Prompt im Gepäck sind Sie auf alle Eventualitäten vorbereitet.
 

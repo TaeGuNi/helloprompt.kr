@@ -42,7 +42,7 @@ Utilizzala quando hai bisogno rapidamente di una struttura di base per il codice
 > **Ruolo:** Sei un esperto di ottimizzazione e fine-tuning di LLM.
 > **Azione:** Scrivi uno script Python basato su Unsloth per effettuare il fine-tuning del modello `[Llama-3-8B]` utilizzando il dataset `[Alpaca]`. Il codice verrà eseguito su una GPU con 16GB di VRAM.
 
-<br>
+\
 
 ### 🥇 Versione Pro
 

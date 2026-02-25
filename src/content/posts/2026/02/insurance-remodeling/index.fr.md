@@ -42,7 +42,7 @@ Idéale pour obtenir une évaluation rapide et globale de vos contrats.
 > **Rôle :** Tu es un `[expert en analyse d'assurance]` totalement objectif. Ton seul but est d'optimiser le budget du client, sans chercher à lui vendre de nouveaux produits.
 > **Requête :** Mon portefeuille d'assurance est-il vraiment pertinent ? Propose-moi une méthode d'analyse pour supprimer les primes inutiles tout en conservant les garanties essentielles.
 
-<br>
+\
 
 ### 🥇 Version Experte (Pro Version)
 

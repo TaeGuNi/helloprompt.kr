@@ -41,7 +41,7 @@ Use this for quick, single-file conversions when you just need immediate results
 > **Role:** You are an expert Frontend Engineer from 2026.
 > **Task:** Convert the following `[legacy CSS/CSS-in-JS]` code into a hybrid of Tailwind CSS v5 utility classes and native CSS nesting.
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -141,7 +141,7 @@ export default function MyComponent({ themeColor }) {
     <div
       className="bg-white p-4 rounded-lg card-wrapper"
       style={{ "--theme-primary": themeColor }}
-    >
+
       <div className="font-bold header-text">Hello World</div>
     </div>
   );

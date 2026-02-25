@@ -42,7 +42,7 @@ Verwenden Sie diese Version, wenn Sie nur eine schnelle erste Idee oder einen Br
 > **Rolle:** Du bist ein erfahrener UI/UX-Designer und Senior Data Analyst.
 > **Aufgabe:** Ich baue ein Dashboard für `[Abteilung/Zweck, z.B. B2B Vertrieb]`. Welche 5 Indikatoren sollte ich unbedingt anzeigen und welche Diagramme passen dazu?
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Level)
 

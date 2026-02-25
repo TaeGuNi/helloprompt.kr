@@ -40,7 +40,7 @@ Use this for a quick, high-level overview of any company's tech stack and engine
 > **Role:** You are a `[Senior System Architect]`.
 > **Task:** Explain how `[Company Name]` solved `[Specific Engineering Problem, e.g., real-time messaging latency]`.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

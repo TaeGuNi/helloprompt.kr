@@ -42,7 +42,7 @@ Utilisez cette version pour obtenir rapidement une première trame.
 > **Rôle :** Tu es un psychologue conseiller et un rédacteur expert (prête-plume) spécialisé dans la communication interpersonnelle.
 > **Requête :** Rédige un message pour `[Objectif de la lettre/du message]` destiné à `[Destinataire]`. Trouve les mots justes pour exprimer mes sentiments de manière appropriée et polie.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

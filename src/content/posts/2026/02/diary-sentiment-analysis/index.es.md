@@ -42,7 +42,7 @@ Los registros se convierten en un activo a medida que se acumulan, pero si solo 
 > **Rol:** Eres un analista de datos y consejero psicológico.
 > **Petición:** Extrae el Top 5 de los sustantivos y adjetivos que más aparecen en el texto del diario de una semana que he subido. Basándote en estas palabras, resume en una sola línea cuál es mi estado psicológico actual.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Profesional)
 
@@ -109,17 +109,17 @@ Si no escribes un diario, intenta exportar y analizar el historial de tu **'chat
 
 ### ❌ Antes (Agotamiento emocional vago)
 
-> "Este mes fue realmente terrible. Siento que todos los días estuve cansado e irritado. ¿Por qué estoy tan deprimido?"
-> (Cayendo en una vaga impotencia sin conocer la causa exacta)
+"Este mes fue realmente terrible. Siento que todos los días estuve cansado e irritado. ¿Por qué estoy tan deprimido?"
+(Cayendo en una vaga impotencia sin conocer la causa exacta)
 
 ### ✅ Después (Retrospectiva objetiva basada en datos)
 
 > **[📈 Informe de Análisis Emocional por IA]**
->
-> - **Punto emocional más bajo (15 y 22 de febrero):** Puntuación emocional -8.
->   - Palabras clave causantes: `horas extras`, `comida a domicilio`, `odio hacia mí mismo`
->   - Análisis: Se confirma un patrón en el que, en los días en que pierdes el control del estrés y te das atracones después de trabajar horas extras, las emociones negativas continúan fuertemente hasta el día siguiente.
-> - **💡 Consejo basado en datos:** En los días que las horas extras sean inevitables, bloquea las aplicaciones de entrega de comida a domicilio y da un ligero paseo de al menos 10 minutos; será beneficioso para tu defensa emocional.
+
+- **Punto emocional más bajo (15 y 22 de febrero):** Puntuación emocional -8.
+  - Palabras clave causantes: `horas extras`, `comida a domicilio`, `odio hacia mí mismo`
+  - Análisis: Se confirma un patrón en el que, en los días en que pierdes el control del estrés y te das atracones después de trabajar horas extras, las emociones negativas continúan fuertemente hasta el día siguiente.
+- **💡 Consejo basado en datos:** En los días que las horas extras sean inevitables, bloquea las aplicaciones de entrega de comida a domicilio y da un ligero paseo de al menos 10 minutos; será beneficioso para tu defensa emocional.
 
 ---
 

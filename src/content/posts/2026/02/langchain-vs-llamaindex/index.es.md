@@ -43,7 +43,7 @@ El eterno dilema de todo desarrollador: elegir la herramienta adecuada. Cuando c
 >
 > **Tarea:** Compara claramente las 3 diferencias principales entre LangChain y LlamaIndex. En particular, explícame qué framework es superior en términos de rendimiento de 'Indexación de datos (Indexing) y Recuperación (Retrieval)', y dame razones específicas del porqué.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

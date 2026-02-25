@@ -42,7 +42,7 @@ Ideale quando ti serve solo una panoramica rapida e immediata.
 > **Ruolo:** Sei un antropologo culturale e un istruttore professionista di etichetta globale.
 > **Richiesta:** Crea una guida rapida su come non essere un turista maleducato in `[Nome Paese]`, includendo regole sulle mance e sui gesti da evitare.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

@@ -43,7 +43,7 @@ Use quando precisar apenas de uma categorização rápida.
 > **Tarefa (Task):** Leia as solicitações abaixo, determine a `[Categoria]` e o `[Nível de Urgência (Alto/Médio/Baixo)]` e forneça a resposta.
 > **Entrada (Input):** `[Cole/digite aqui o conteúdo da solicitação do cliente]`
 
-<br>
+\
 
 ### 🥇 Versão Pro (Especialista)
 

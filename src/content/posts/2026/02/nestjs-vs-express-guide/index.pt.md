@@ -42,7 +42,7 @@ Use isto quando quiser criar rapidamente a estrutura inicial do seu projeto.
 > **Função:** Você é um `[Desenvolvedor Backend NestJS]`.
 > **Tarefa:** Quero criar um `[servidor de API simples para um fórum usando NestJS]`. Escreva a estrutura básica de pastas, incluindo os módulos `User` e `Post`, além do código de configuração para o `app.module.ts`.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

@@ -45,7 +45,7 @@ Use this when you have a glaring error and need an immediate fix.
 > **Role:** You are an expert Frontend Engineer.
 > **Task:** Check the currently active Chrome tab using the DevTools MCP. Review the console logs for any errors, identify the root cause in the DOM or JS context, and provide the exact code fix.
 
-<br>
+\
 
 ### 🥇 Pro Version (Comprehensive UI/UX Audit)
 
@@ -88,7 +88,7 @@ The real magic of the Chrome DevTools MCP isn't just reading errors; it's the **
 ## 🙋 Frequently Asked Questions (FAQ)
 
 - **Q: Does this work with any AI model?**
-  - A: You need an MCP-compatible client (like Claude Desktop or an advanced IDE extension) and a model capable of robust tool use (like Claude 3.5 Sonnet or Gemini 1.5 Pro).
+  - A: You need an MCP-compatible client (like Claude Desktop or an advanced IDE extension) and a model capable of robust tool use (like Claude 3.5 Sonnet or Gemini 2.5 Pro).
 - **Q: Can the AI accidentally delete data on a live production site?**
   - A: Yes, if instructed to execute destructive JavaScript in the console. Always restrict debugging sessions to `localhost` or safe staging environments.
 

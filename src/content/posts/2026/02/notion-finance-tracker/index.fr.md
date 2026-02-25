@@ -44,7 +44,7 @@ La solution idéale est **Notion**. Avec l'aide de l'IA, créez en seulement 10 
 > **Rôle :** Tu es un expert en création de formules Notion (Notion Formula).
 > **Tâche :** Dans ma base de données Notion, j'ai une propriété "Montant" (Nombre) et une propriété "Type" (Sélection : Revenu/Dépense). En combinant ces deux éléments, rédige une formule utilisant la fonction `if` pour calculer le "Montant Réel" : si le "Type" est un "Revenu", le montant reste positif ; si c'est une "Dépense", ajoute un signe moins (-) devant le montant.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

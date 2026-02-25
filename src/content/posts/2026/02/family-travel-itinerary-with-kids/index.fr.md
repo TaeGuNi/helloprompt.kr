@@ -42,7 +42,7 @@ Utilisez cette version pour obtenir un brouillon rapide si vous manquez de temps
 > **Rôle :** Tu es un organisateur de voyages familial avec 10 ans d'expérience.
 > **Demande :** Planifie un voyage de 3 jours à [Destination] pour 2 adultes et [Nombre] enfants de [Âge] ans. Inclus des temps de repos et des endroits adaptés aux enfants.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

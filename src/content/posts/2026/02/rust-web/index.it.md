@@ -39,7 +39,7 @@ Utilizzala quando hai bisogno rapidamente di una struttura di base (boilerplate)
 > **Ruolo:** Sei un `[Sviluppatore Backend Rust Senior]` con 10 anni di esperienza.
 > **Compito:** Consigliami la migliore combinazione di framework web Rust e runtime asincrono per `[Descrizione del servizio]` che voglio creare, e scrivimi la struttura di base del file `main.rs`.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

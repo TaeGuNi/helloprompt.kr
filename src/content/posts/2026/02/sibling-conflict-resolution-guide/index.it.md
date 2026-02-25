@@ -49,7 +49,7 @@ Utilizza questo prompt quando la situazione è tesa e hai bisogno di un interven
 > **Ruolo:** Sei un mediatore familiare imparziale, saggio ed empatico.
 > **Richiesta:** Aiutami a far riappacificare i miei due figli che stanno litigando. Fai in modo che trovino un accordo equo e che si rendano conto dell'importanza del loro legame.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Avanzata)
 
@@ -109,7 +109,7 @@ Utilizzando questo prompt, l'IA non si sostituisce a te, ma ti fornisce un copio
 
 ### ❌ Prima (Input Vago)
 
-> "I miei figli di 8 e 5 anni litigano per la TV. Cosa devo fare per farli smettere?"
+"I miei figli di 8 e 5 anni litigano per la TV. Cosa devo fare per farli smettere?"
 
 _Risultato dell'IA:_ Ti dà consigli generici del tipo "Spegni la TV", "Stabilisci delle regole chiare" o "Cerca di parlare con loro e spiegare l'importanza della condivisione". Informazioni vere, ma totalmente inutilizzabili nel bel mezzo di una crisi di urla e pianti.
 

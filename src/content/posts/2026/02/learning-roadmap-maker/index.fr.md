@@ -42,7 +42,7 @@ Utilisez ce prompt lorsque vous avez besoin d'un point de départ très rapide s
 > **Rôle :** Tu es un `[expert en apprentissage accéléré et coach pédagogique]`.
 > **Tâche :** Crée-moi un plan d'apprentissage de `[3 jours / 3 semaines]` pour apprendre `[Sujet, ex: Python pour l'analyse de données]`. Le plan doit être très pratique et me permettre de réaliser un mini-projet concret à la fin.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

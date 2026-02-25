@@ -13,7 +13,7 @@ tags: ["Macro", "Nutriente", "Dieta", "ChatGPT", "Diario Alimentare"]
 
 - **🎯 Consigliato per:** Sportivi, persone a dieta, e chiunque voglia tracciare i macronutrienti senza stress.
 - **⏱️ Tempo richiesto:** Da 10 minuti di noiosi calcoli a soli 30 secondi per pasto.
-- **🤖 Modello consigliato:** GPT-4V (ChatGPT Plus), Gemini 1.5 Pro, Claude 3 Opus (Modelli con capacità visiva).
+- **🤖 Modello consigliato:** GPT-4V (ChatGPT Plus), Gemini 2.5 Pro, Claude 3 Opus (Modelli con capacità visiva).
 
 - ⭐ **Difficoltà:** ⭐☆☆☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Ideale quando vai di fretta e hai solo bisogno di una stima rapida delle calorie
 > **Ruolo:** Sei un nutrizionista esperto e preciso.
 > **Richiesta:** Analizza la foto che ti ho inviato. Elenca gli ingredienti visibili, stima il peso delle porzioni e calcola le calorie totali e i macronutrienti (carboidrati, proteine, grassi). Presenta i risultati in una tabella chiara.
 
-<br>
+\
 
 ### 🥇 Pro Version (Avanzata e Personalizzata)
 
@@ -103,8 +103,8 @@ La vera magia di questo prompt risiede nella **"Richiesta (Task) #4"**. L'IA non
 
 ### ❌ Prima (Input generico)
 
-> Utente: "Quante calorie ci sono in un piatto di pasta al ragù?"
-> IA: "Un piatto di pasta al ragù contiene in media circa 500-700 calorie." _(Risposta troppo vaga, assenza di calcolo dei macro, nessuna utilità strategica)._
+Utente: "Quante calorie ci sono in un piatto di pasta al ragù?"
+IA: "Un piatto di pasta al ragù contiene in media circa 500-700 calorie." _(Risposta troppo vaga, assenza di calcolo dei macro, nessuna utilità strategica)._
 
 ### ✅ Dopo (Con il Prompt Pro)
 

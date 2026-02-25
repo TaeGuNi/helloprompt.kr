@@ -44,7 +44,7 @@ Nutzen Sie diese Variante, um einfache Syntaxfehler von Prettier oder ESLint bli
 > **Rolle:** Du bist ein `[Senior Frontend Developer]`.
 > **Aufgabe:** Analysiere das bereitgestellte Fehlerprotokoll und korrigiere **ausschließlich** `[Lint-Fehler und Tippfehler]` im Code schnell und präzise. Gib den gesamten korrigierten Code zurück.
 
-<br>
+\
 
 ### 🥇 Pro Version (Sicherer Self-Healing Agent)
 

@@ -42,7 +42,7 @@ Use este prompt rápido quando precisar de uma orientação geral e imediata sob
 > **Papel:** Você é um psicólogo clínico especializado em TCC-I para insônia.
 > **Pedido:** Me guie nas práticas iniciais da TCC-I (Terapia Cognitivo-Comportamental para Insônia) para me ajudar a dormir melhor sem o uso de medicamentos. Faça perguntas sobre a minha rotina para começarmos.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 
@@ -103,29 +103,29 @@ A verdadeira eficácia deste prompt está no cálculo objetivo da 'Eficiência d
 
 ### ❌ Antes (Entrada)
 
-> "Eu não consigo dormir de jeito nenhum. Me ajude, o que eu faço para pegar no sono?"
+"Eu não consigo dormir de jeito nenhum. Me ajude, o que eu faço para pegar no sono?"
 
 _(A IA frequentemente responde com chavões inúteis para um insone crônico: "Tente contar carneirinhos, evite cafeína depois das 14h, ouça músicas relaxantes.")_
 
 ### ✅ Depois (Resultado)
 
 > **[Diagnóstico Inicial: Eficiência do Sono]**
->
-> - Tempo total na cama: 8 horas (480 minutos)
-> - Tempo real de sono: 4 horas (240 minutos)
-> - **Sua Eficiência do Sono é de 50%.**
+
+- Tempo total na cama: 8 horas (480 minutos)
+- Tempo real de sono: 4 horas (240 minutos)
+- **Sua Eficiência do Sono é de 50%.**
 >   _Nota Clínica: O nosso objetivo na TCC-I é alcançar e manter uma eficiência superior a 85%._
->
+
 > **[Sua Prescrição para Hoje: Restrição do Sono]**
->
-> - **Nova Hora de Deitar:** 02:00 AM _(Não vá para a cama antes deste horário, mesmo se estiver se sentindo exausto!)_
-> - **Hora Inegociável de Acordar:** 07:00 AM _(Levante-se imediatamente ao tocar o despertador, independentemente de quanto tenha dormido)._
-> - **Tempo Permitido na Cama:** 5 horas.
->
+
+- **Nova Hora de Deitar:** 02:00 AM _(Não vá para a cama antes deste horário, mesmo se estiver se sentindo exausto!)_
+- **Hora Inegociável de Acordar:** 07:00 AM _(Levante-se imediatamente ao tocar o despertador, independentemente de quanto tenha dormido)._
+- **Tempo Permitido na Cama:** 5 horas.
+
 > **[Reestruturação Cognitiva]**
->
-> - _Pensamento Ansioso:_ "Se eu não dormir hoje, vou arruinar o amanhã e meu rendimento será zero."
-> - _Pensamento Racional Substitutivo:_ "Ter uma noite ruim é muito desagradável, mas o corpo humano é incrivelmente resiliente. Já tive dias difíceis e cansativos antes e consegui sobreviver e trabalhar. Uma noite ruim apenas aumentará a minha pressão natural de sono para amanhã, ajudando a regular meu ciclo a longo prazo."
+
+- _Pensamento Ansioso:_ "Se eu não dormir hoje, vou arruinar o amanhã e meu rendimento será zero."
+- _Pensamento Racional Substitutivo:_ "Ter uma noite ruim é muito desagradável, mas o corpo humano é incrivelmente resiliente. Já tive dias difíceis e cansativos antes e consegui sobreviver e trabalhar. Uma noite ruim apenas aumentará a minha pressão natural de sono para amanhã, ajudando a regular meu ciclo a longo prazo."
 
 ---
 

@@ -42,7 +42,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "3D"]
 > **役割:** あなたはプロの3Dモデラーおよびコンセプトアーティストです。
 > **リクエスト:** 3Dゲームやアイコンのように立体的で可愛いビュー、アイソメトリック（Isometric）アングルで部屋をデザインしてください。
 
-<br>
+\
 
 ### 🥇 Pro Version (専門家形)
 

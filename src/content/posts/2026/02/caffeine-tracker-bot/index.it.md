@@ -44,7 +44,7 @@ Usa questa versione quando hai bisogno di una risposta rapida.
 > **Ruolo:** Sei un esperto di scienza del sonno e nutrizione.
 > **Richiesta:** Ho bevuto `[numero]` caffè alle `[orario]`. Dimmi a che ora il livello di caffeina scenderà abbastanza da permettermi di dormire, e quando avrò il picco di concentrazione oggi.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Consigliata)
 

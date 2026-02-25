@@ -43,7 +43,7 @@ Tener buen gusto para vestir no es un don innato; es una **fórmula** precisa. S
 > **Mi ropa:** Traje azul marino, pantalón de vestir negro, camisa blanca, jersey beige, zapatos de vestir negros.
 > **Tarea:** Recomiéndame una única combinación de ropa para invitado que se vea elegante y pulcra, sin ser demasiado llamativa. Aconséjame también sobre si debería llevar corbata o no.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Armario Cápsula y Rotación Semanal)
 

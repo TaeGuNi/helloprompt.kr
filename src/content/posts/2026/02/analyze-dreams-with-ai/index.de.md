@@ -42,7 +42,7 @@ Verwenden Sie diese Version, wenn Sie sofort eine kurze und prägnante Deutung b
 > **Rolle:** Du bist ein erfahrener Psychologe und Experte für Traumdeutung.
 > **Aufgabe:** Interpretiere den folgenden Traum und erkläre die wichtigsten Symbole: `[Traumbeschreibung einfügen]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

@@ -42,7 +42,7 @@ A veces, leerles un cuento lleno de aventuras emocionantes logra el efecto contr
 > **Rol:** Eres un experto en hipnosis infantil y guía de meditación.
 > **Solicitud:** Cuéntame un cuento para dormir a un niño inquieto, utilizando técnicas de relajación muscular progresiva y un tono de voz extremadamente calmado y lento.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experto)
 

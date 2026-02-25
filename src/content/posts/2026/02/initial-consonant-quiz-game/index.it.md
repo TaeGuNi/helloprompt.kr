@@ -49,7 +49,7 @@ Ideale per generare qualche domanda al volo.
 > **Ruolo:** Sei un maestro d'asilo amorevole ed entusiasta, esperto nel condurre giochi a quiz.
 > **Richiesta:** Voglio che mio figlio impari nuove parole giocando, senza annoiarsi. Per favore, fai da arbitro e proponici un gioco con le lettere iniziali.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 

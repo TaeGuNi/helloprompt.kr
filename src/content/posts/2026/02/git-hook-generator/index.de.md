@@ -44,7 +44,7 @@ Verwenden Sie dies, wenn Sie schnell ein einfaches Hook-Skript für eine spezifi
 > **Rolle:** Du bist ein `[DevOps-Ingenieur]`.
 > **Aufgabe:** Schreibe ein Git Hook Shell-Skript und eine Anleitung zur Einrichtung, das `[Husky]` verwendet, um `[npm run lint vor jedem git commit auszuführen]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Version)
 

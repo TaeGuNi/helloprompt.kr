@@ -44,7 +44,7 @@ Nutzen Sie diesen Ansatz für alltägliche, mittelschwere Probleme, wenn Sie sch
 > **Rolle:** Du bist ein **Senior Projektmanager (PM)**, der auf logische Fehler spezialisiert ist.
 > **Anfrage:** Erkläre mir die "Chain of Thought"-Technik. **Denke Schritt für Schritt**, bevor du die endgültige Antwort gibst.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Level)
 
@@ -118,7 +118,7 @@ Das Projekt dauert insgesamt 10 Tage (3+5+2). Da heute Montag ist, endet das Pro
 
 **-> Falsch.** Das Modell hat einfach die Arbeitstage addiert, aber die Abhängigkeiten, den Urlaub des Teamleiters und das Wochenende ignoriert oder völlig falsch kalkuliert.
 
-<br>
+\
 
 ### ✅ After (Mit Pro Version CoT)
 

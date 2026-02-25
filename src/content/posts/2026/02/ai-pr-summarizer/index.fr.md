@@ -13,7 +13,7 @@ tags: [Git, Github, Collaboration, Productivity, AI]
 
 - **🎯 Public cible :** Développeurs seniors, Tech Leads, et tout développeur fatigué des revues de code.
 - **⏱️ Temps requis :** De 1 heure à 3 minutes.
-- **🤖 Modèles recommandés :** Claude 3.5 Sonnet, Gemini 1.5 Pro, GPT-4o.
+- **🤖 Modèles recommandés :** Claude 3.5 Sonnet, Gemini 2.5 Pro, GPT-4o.
 
 - ⭐ **Difficulté :** ⭐☆☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -47,7 +47,7 @@ Utilisez cette version lorsque vous avez besoin d'un aperçu rapide et d'un rés
 > **[Données Git Diff]**
 > `[Collez ici le résultat de git diff ou la description de la PR]`
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 
@@ -89,7 +89,7 @@ Même sans outils commerciaux comme GitHub Copilot Enterprise, cette simple mét
 ## 🙋 Foire Aux Questions (FAQ)
 
 - **Q : Que faire si le texte du Diff est trop long et que l'IA refuse l'entrée ?**
-  - R : Les modèles récents comme Claude 3.5 Sonnet ou Gemini 1.5 Pro disposent d'une fenêtre de contexte (Context Window) très large, capable d'ingérer des dizaines de milliers de lignes de code sans broncher. Si vous atteignez tout de même une limite, utilisez `git diff --stat` pour obtenir d'abord un résumé de la liste des fichiers, ou n'extrayez que les modifications des fichiers contenant la logique métier (domain logic) pour demander une analyse ciblée.
+  - R : Les modèles récents comme Claude 3.5 Sonnet ou Gemini 2.5 Pro disposent d'une fenêtre de contexte (Context Window) très large, capable d'ingérer des dizaines de milliers de lignes de code sans broncher. Si vous atteignez tout de même une limite, utilisez `git diff --stat` pour obtenir d'abord un résumé de la liste des fichiers, ou n'extrayez que les modifications des fichiers contenant la logique métier (domain logic) pour demander une analyse ciblée.
 
 - **Q : Est-il sûr de soumettre le code privé et interne de mon entreprise à une IA ?**
   - R : **Il faut être extrêmement prudent.** Le code interne est un atout critique de l'entreprise. Lorsque vous utilisez des services publics comme ChatGPT ou Claude, assurez-vous impérativement que l'option « Ne pas utiliser mes données pour l'entraînement du modèle (Data Opt-out) » est activée dans les paramètres. La méthode la plus sûre reste d'utiliser un plan Enterprise (qui garantit l'exclusion des données de l'entraînement) ou de déployer un LLM local (comme Ollama) sur les serveurs de votre entreprise.

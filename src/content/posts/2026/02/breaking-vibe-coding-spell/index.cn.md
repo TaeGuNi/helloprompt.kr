@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "breaking-vibe-coding-spell"]
 
 - **🎯 推荐人群：** 软件工程师、架构师、技术开发团队
 - **⏱️ 节省时间：** 调试噩梦（数天） → 精准产出（数分钟）
-- **🤖 推荐模型：** 高级推理模型 (Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro)
+- **🤖 推荐模型：** 高级推理模型 (Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro)
 
 - ⭐ **难度：** ⭐⭐⭐☆☆
 - ⚡️ **有效性：** ⭐⭐⭐⭐⭐
@@ -41,7 +41,7 @@ tags: ["AI", "Tech", "breaking-vibe-coding-spell"]
 > **角色：** 你是一个资深程序员。
 > **任务：** 帮我写一个用户登录功能，用 React 和 Node.js。
 
-<br>
+\
 
 ### 🥇 Pro Version (专家型 - 严谨工程编程)
 

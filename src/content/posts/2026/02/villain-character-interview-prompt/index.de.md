@@ -42,7 +42,7 @@ Verwenden Sie diese Version für schnelle, spontane Inspirationen beim Brainstor
 > **Rolle:** Du bist ab sofort `[Name des Bösewichts]`, der Hauptantagonist in meiner Geschichte.
 > **Aufgabe:** Beantworte meine Fragen aus deiner Perspektive. Warum tust du das, was du tust? Was ist dein wahres Motiv?
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 
@@ -108,7 +108,7 @@ Ein Tipp aus meiner eigenen Praxis: Wenn die Antwort der KI zu klischeehaft oder
 
 ### ❌ Vorher (Das flache Konzept)
 
-> "Name: Jacques. Ein psychopathischer Mörder, der einfach gerne Chaos stiftet und den Helden hasst."
+"Name: Jacques. Ein psychopathischer Mörder, der einfach gerne Chaos stiftet und den Helden hasst."
 
 ### ✅ Nachher (Das KI-Interview-Ergebnis)
 

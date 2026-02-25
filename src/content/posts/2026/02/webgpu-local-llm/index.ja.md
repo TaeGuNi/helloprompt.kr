@@ -44,7 +44,7 @@ tags: ["WebGPU", "LLM", "WebLLM", "Llama-3", "Local AI"]
 > **役割:** あなたはWebGPUに精通したシニアフロントエンドエンジニアです。
 > **タスク:** `@mlc-ai/web-llm`ライブラリを活用し、ブラウザでLlama-3-8Bモデルを動かすための最もミニマルなHTML/JSのサンプルコードを作成してください。CDN方式を適用してください。
 
-<br>
+\
 
 ### 🥇 Pro Version (プロフェッショナル型)
 

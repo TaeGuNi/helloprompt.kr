@@ -42,7 +42,7 @@ Usala quando hai poco tempo e ti serve una struttura rapida per un'email o una b
 > **Ruolo:** Sei un Copywriter Esperto di Proposte Commerciali (tasso di conversione del 90%).
 > **Richiesta:** Crea una struttura persuasiva per proporre il nostro `[Tuo Servizio/Prodotto]` al cliente `[Nome Cliente]`, risolvendo il suo problema principale: `[Problema del Cliente]`.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Esperto)
 

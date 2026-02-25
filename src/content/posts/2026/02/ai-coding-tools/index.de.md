@@ -46,7 +46,7 @@ Verwenden Sie diese Version, um schnell die Lesbarkeit einer einzelnen Funktion 
 > **Rolle:** Du bist ein `[Senior Backend Developer]`.
 > **Aufgabe:** Verbessere die Lesbarkeit der folgenden Funktion `[Funktionsname]` und überarbeite die Variablennamen für mehr Klarheit. Füge außerdem prägnante Kommentare für die Kernlogik hinzu.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Version)
 

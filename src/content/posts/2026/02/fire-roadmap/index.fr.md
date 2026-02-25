@@ -42,7 +42,7 @@ Utilisez cette version pour obtenir une estimation rapide de votre situation.
 > **Rôle :** Tu es un `[Planificateur Financier Expert en mouvement FIRE]`.
 > **Demande :** Calcule mon objectif FIRE et le temps nécessaire pour l'atteindre en fonction de mes revenus, dépenses et actifs actuels.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

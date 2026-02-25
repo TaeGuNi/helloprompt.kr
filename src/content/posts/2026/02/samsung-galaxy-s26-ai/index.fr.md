@@ -37,7 +37,7 @@ Idéal pour obtenir un aperçu rapide des spécifications et de l'opinion géné
 > **Rôle :** Tu es un `[Analyste Tech]`.
 > **Tâche :** Résume les principales caractéristiques du `[Galaxy S26]` et analyse brièvement l'impact de `[Galaxy AI]` sur l'engagement des utilisateurs.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pour des analyses approfondies)
 

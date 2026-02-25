@@ -42,7 +42,7 @@ Use this when you need a quick, high-level budget breakdown.
 > **Role:** You are a top-tier `[Personal Finance Advisor]`.
 > **Request:** Create a realistic monthly budget plan based on my salary and fixed expenses.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

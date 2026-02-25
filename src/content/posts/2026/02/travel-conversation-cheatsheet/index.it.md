@@ -42,7 +42,7 @@ Usala quando hai bisogno di un risultato immediato e senza fronzoli.
 > **Ruolo:** Sei un interprete madrelingua esperto nella cultura locale.
 > **Richiesta:** Crea un elenco di frasi utili e pratiche da usare immediatamente sul posto, dall'ordinazione al ristorante al check-in in hotel, fino alle emergenze.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 
@@ -114,7 +114,7 @@ Questo prompt è un salvavita assoluto per chi viaggia spesso. Anche io, pur ave
 
 ### ❌ Before (Input Povero)
 
-> Dimmi alcune frasi in giapponese per un viaggio.
+Dimmi alcune frasi in giapponese per un viaggio.
 
 _(Il risultato sarà una lista generica lunghissima, non categorizzata e spesso piena di frasi troppo lunghe e difficili da memorizzare)_
 

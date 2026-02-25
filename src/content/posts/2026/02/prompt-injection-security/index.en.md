@@ -40,7 +40,7 @@ Use this for a quick vulnerability check of your current prompt.
 > **Task:** Review the following system prompt, identify potential prompt injection vulnerabilities, and suggest improvements.
 > **Target Prompt:** `[Insert your system prompt here]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Hardening)
 

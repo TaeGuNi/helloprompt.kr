@@ -48,7 +48,7 @@ Los negocios internacionales se basan en los detalles. Un pequeño gesto cultura
 > **Rol:** Eres un experto 'Consultor de Negocios Internacionales'.
 > **Solicitud:** Voy a tener una reunión en `[País]`. Explícame brevemente cómo debo saludar, entregar mi tarjeta de visita y qué temas de conversación debo evitar.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

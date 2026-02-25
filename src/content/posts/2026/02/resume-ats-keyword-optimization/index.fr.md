@@ -44,7 +44,7 @@ Utilisez cette version pour un diagnostic express et un résultat immédiat.
 > **Rôle :** Tu es un expert en recrutement et un spécialiste des algorithmes ATS.
 > **Demande :** Analyse la fiche de poste et mon CV, puis intègre de manière fluide et naturelle les mots-clés indispensables pour éviter que ma candidature ne soit rejetée par le système de tri automatique.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expertise Avancée)
 

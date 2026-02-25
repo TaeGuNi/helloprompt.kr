@@ -44,7 +44,7 @@ Ideale quando ti serve solo una rapida conversione dello script in un articolo p
 >
 > `[Incolla qui lo script del video]`
 
-<br>
+\
 
 ### 🥇 Versione Pro (Esperto)
 
@@ -103,7 +103,7 @@ Pertanto, invece di chiedere all'IA un banale "Riassumi questo", il segreto per 
   - R: Se il video è tuo, hai libertà assoluta. Se invece ti basi sui video di altri creator, devi prestare molta attenzione. Copiare lo script è violazione del copyright. Devi tassativamente ordinare all'IA di "Riscrivere completamente con parole tue (Rewrite)" e assicurarti di citare chiaramente la fonte e inserire il link al video originale all'inizio o alla fine dell'articolo, rispettando rigorosamente i limiti del "fair use".
 
 - **D: Inserendo uno script molto lungo, l'IA rischia di bloccarsi o tralasciare informazioni?**
-  - R: Con video superiori a un'ora, i modelli standard potrebbero troncare il testo a causa dei limiti della context window. In questi casi, è di vitale importanza affidarsi a modelli come **Claude 3.5 Sonnet** o **Gemini 1.5 Pro**. Sono ottimizzati per elaborare enormi quantità di token e mantenere il contesto dall'inizio alla fine senza perdere alcun dettaglio.
+  - R: Con video superiori a un'ora, i modelli standard potrebbero troncare il testo a causa dei limiti della context window. In questi casi, è di vitale importanza affidarsi a modelli come **Claude 3.5 Sonnet** o **Gemini 2.5 Pro**. Sono ottimizzati per elaborare enormi quantità di token e mantenere il contesto dall'inizio alla fine senza perdere alcun dettaglio.
 
 ---
 

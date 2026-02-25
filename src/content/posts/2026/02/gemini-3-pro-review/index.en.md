@@ -41,7 +41,7 @@ Use this for quick syntax fixes and simple logic optimization.
 > **Role:** You are a Senior Software Engineer.
 > **Task:** Optimize and fix the following `[Language]` code.
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -82,7 +82,7 @@ Gemini 3 Pro has truly transcended the role of a basic code generator. During ou
 - **Q: Do I need a massive context window for the legacy migration prompt?**
   - A: Yes. Legacy monolithic refactoring (like a 1,000-line Java controller) heavily leverages Gemini 3 Pro's massive context window. Make sure to feed it the relevant DTOs and interface definitions alongside the controller for accurate Dependency Injection mapping.
 
-- **Q: Does this prompt work on older models like Gemini 1.5 Pro?**
+- **Q: Does this prompt work on older models like Gemini 2.5 Pro?**
   - A: It will work, but the depth of architectural advice will be noticeably shallower. Gemini 3 Pro excels specifically in cross-file reasoning and modern language features (like Java 21 Record patterns).
 
 ---

@@ -44,7 +44,7 @@ Ideal para Daily Scrums ou reuniões rápidas e informais onde você só precisa
 >
 > [Cole as anotações da reunião aqui]
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Profissional)
 
@@ -90,7 +90,7 @@ Na minha rotina profissional, eu simplesmente copio a transcrição gerada por a
 ## 🙋 Perguntas Frequentes (FAQ)
 
 - **P: Posso processar a transcrição de uma reunião longa de mais de 1 hora de uma só vez?**
-  - R: Sim! A maioria dos modelos modernos (Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro) suporta janelas de contexto gigantescas e pode lidar com isso facilmente. No entanto, para maximizar a qualidade do resultado, um truque de ouro é dividir a transcrição por tópicos (Agenda) e processar em 2 ou 3 partes. Isso reduz o risco de alucinações e gera resumos muito mais precisos.
+  - R: Sim! A maioria dos modelos modernos (Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro) suporta janelas de contexto gigantescas e pode lidar com isso facilmente. No entanto, para maximizar a qualidade do resultado, um truque de ouro é dividir a transcrição por tópicos (Agenda) e processar em 2 ou 3 partes. Isso reduz o risco de alucinações e gera resumos muito mais precisos.
 
 - **P: Por causa das políticas de segurança da empresa, tenho receio de inserir dados de reuniões internas na IA.**
   - R: Esse é um ponto crucial. Se a reunião envolver informações confidenciais, é estritamente recomendado desidentificar (mascarar) nomes próprios, clientes ou valores específicos antes de usar o prompt (ex: trocar o nome real por "Empresa A", "Projeto X", "$10 Milhões"). Para segurança total, utilize apenas ambientes de IA corporativos (Enterprise), onde os dados não são usados para treinar o modelo.

@@ -42,7 +42,7 @@ Use this when you just need a quick, minimal API up and running.
 >
 > **Task:** Generate a minimal but complete HTTP REST API using Rust, Axum, and Tokio. It should include one GET endpoint (`/health`) and one POST endpoint (`/echo`). Please provide the `Cargo.toml` dependencies and the `main.rs` code.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

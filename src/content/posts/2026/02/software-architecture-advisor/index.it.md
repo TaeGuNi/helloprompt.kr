@@ -45,7 +45,7 @@ Usala quando hai bisogno di un'idea rapida e generale senza troppi dettagli.
 > **Ruolo:** Sei un Senior Software Architect esperto in sistemi scalabili.
 > **Richiesta:** Suggerisci la migliore architettura software (es. MVC, Clean Architecture) e la struttura delle cartelle per un progetto con queste caratteristiche: `[Inserisci qui la descrizione del progetto]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 

@@ -46,7 +46,7 @@ Nutzen Sie diesen Prompt, wenn Sie nicht wissen, wie Sie einen bestimmten Workfl
 > **Aufgabe:** Wenn der Nutzer auf den 'Registrieren'-Button klickt, möchte ich folgende **Bubble Workflow-Schritte** in genauer Reihenfolge (ab Schritt 1) erklärt haben: 1) Überprüfen, ob die Passwörter übereinstimmen, 2) Nutzerdaten in der Datenbank speichern, 3) Willkommens-E-Mail versenden und 4) auf die 'Home'-Seite weiterleiten.
 > **Bedingung:** Erkläre mir basierend auf der Benutzeroberfläche, auf welche Menüs (Actions) im Bubble-Editor ich genau klicken muss.
 
-<br>
+\
 
 ### 🥇 Pro Version (Komplette DB- & Architekturplanung)
 

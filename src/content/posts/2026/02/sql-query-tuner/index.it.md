@@ -45,7 +45,7 @@ Usala quando hai fretta e vuoi un fix al volo senza troppe spiegazioni tecniche.
 > **Richiesta:** Riscrivi questa query per renderla più veloce e dimmi quale indice creare.
 > **Query:** `[Incolla la query]`
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

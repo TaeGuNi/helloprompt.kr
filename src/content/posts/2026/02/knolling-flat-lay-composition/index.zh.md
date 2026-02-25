@@ -42,7 +42,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Design"]
 > **角色:** 你是一位专业的静物摄影师与艺术指导。
 > **请求:** 请生成一个关于 `[主题，例如：咖啡师的工具]` 的图像。使用 Knolling 技法，将所有物品在纯色背景上呈 90 度直角整齐排列，俯视拍摄（Top-down view）。
 
-<br>
+\
 
 ### 🥇 Pro Version (专家版)
 

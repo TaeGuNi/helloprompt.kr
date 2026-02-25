@@ -41,11 +41,11 @@ Idéal pour générer instantanément des affiches commerciales ou des logos int
 
 > **Rôle :** Tu es un designer graphique de renommée mondiale.
 > **Tâche :** Utilise le prompt suivant pour générer une affiche de style cyberpunk avec une typographie parfaitement lisible.
-> 
-> **Prompt :**
-> `a cinematic cyberpunk neon poster with clear typography text "HELLO 2026", futuristic glowing city background, hyper-detailed --ar 2:3 --v 7.0 --style raw`
 
-<br>
+> **Prompt :**
+`a cinematic cyberpunk neon poster with clear typography text "HELLO 2026", futuristic glowing city background, hyper-detailed --ar 2:3 --v 7.0 --style raw`
+
+\
 
 ### 🥇 Version Pro (Cohérence des personnages et variations)
 

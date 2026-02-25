@@ -43,7 +43,7 @@ Use esta versão para adicionar capacidade lógica a problemas simples ou tarefa
 > **Tarefa:** Resolva perfeitamente o seguinte `[problema a ser resolvido]`.
 > **Condição:** Não me dê a resposta imediatamente. Aplique a abordagem "vamos pensar passo a passo" (Let's think step by step) e mostre detalhadamente o processo de resolução antes da resposta final.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Especialista)
 
@@ -83,7 +83,7 @@ Ao trabalhar na prática com os modelos de raciocínio mais recentes, como DeepS
 
 ## 🙋 Perguntas Frequentes (FAQ) {#faq}
 
-- **P: Isso também funciona em modelos convencionais, como Gemini 1.5 Pro ou GPT-4o?**
+- **P: Isso também funciona em modelos convencionais, como Gemini 2.5 Pro ou GPT-4o?**
   - R: Sim. Forçar o raciocínio passo a passo (CoT) aumenta significativamente a taxa de precisão em modelos convencionais. No entanto, a sinergia é muito mais explosiva nos modelos especializados mais recentes (Gemini 3 Pro, DeepSeek R1, etc.), onde o processo de pensamento já é internalizado.
 
 - **P: A saída de texto fica muito longa. Posso pedir apenas um resumo?**

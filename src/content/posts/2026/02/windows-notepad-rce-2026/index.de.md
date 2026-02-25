@@ -48,7 +48,7 @@ Der schnellste Weg, um auf der sicheren Seite zu sein.
 > 2. Navigieren Sie zu **Windows Update**.
 > 3. Klicken Sie auf **"Nach Updates suchen"** und installieren Sie alle verfügbaren Sicherheitsupdates. Starten Sie Ihren PC danach neu.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für IT-Administratoren)
 

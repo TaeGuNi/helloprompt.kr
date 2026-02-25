@@ -13,7 +13,7 @@ tags: ["Marketing", "Naming", "Branding", "Copywriting"]
 
 - **🎯 Recommended For:** Marketers, Founders, Product Managers, and Copywriters
 - **⏱️ Time Required:** 5 minutes → Reduced to 1 minute
-- **🤖 Recommended Model:** GPT-4o, Claude 3.5 Sonnet, or Gemini 1.5 Pro
+- **🤖 Recommended Model:** GPT-4o, Claude 3.5 Sonnet, or Gemini 2.5 Pro
 
 - ⭐ **Difficulty:** ⭐⭐☆☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Use this when you need a quick burst of inspiration without detailed constraints
 > **Role:** You are a highly sought-after Brand Naming Consultant with 20 years of experience. You are a master of wordplay, cultural trends, and consumer psychology.
 > **Request:** Suggest 10 catchy and unique product names for a `[describe your product briefly, e.g., mild dog shampoo]`. Provide a brief reason for each name.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

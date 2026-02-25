@@ -54,7 +54,7 @@ Verwenden Sie dies, wenn Sie lediglich Daten und ein klares Ziel ohne komplexe A
 > def c(a,b): return a+b
 > </code_snippet>
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten)
 

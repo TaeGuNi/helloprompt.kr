@@ -43,7 +43,7 @@ Pour une réponse rapide et directe, sans fioritures.
 >
 > **Requête :** Rédige une explication simple, juste et bienveillante pour répondre à la question d'un enfant sur la conception, sans éluder le sujet.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

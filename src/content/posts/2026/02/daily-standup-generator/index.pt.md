@@ -43,7 +43,7 @@ Use quando precisar de resultados rápidos a partir de anotações curtas.
 > **Tarefa:** Formate as seguintes anotações no formato padrão de Daily Scrum (O que fiz ontem, O que farei hoje, Impedimentos).
 > **Anotações:** `[Cole aqui suas anotações confusas ou lista de tarefas]`
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 
@@ -88,7 +88,7 @@ Isso é especialmente útil para equipes remotas ou assíncronas que dependem de
 ## 🙋 Perguntas Frequentes (FAQ)
 
 - **Q: Preciso usar o ChatGPT Plus (Pago) para isso?**
-  - A: De forma alguma! Este é um prompt de formatação de texto muito simples. Modelos gratuitos como ChatGPT (GPT-3.5/GPT-4o mini), Claude 3 Haiku ou Gemini 1.5 Flash lidam com isso perfeitamente.
+  - A: De forma alguma! Este é um prompt de formatação de texto muito simples. Modelos gratuitos como ChatGPT (GPT-3.5/GPT-4o mini), Claude 3 Haiku ou Gemini 2.5 Flash lidam com isso perfeitamente.
 
 - **Q: O que eu faço se não tiver nenhum impedimento?**
   - A: Apenas não mencione nada ou escreva "Sem bloqueios" nas suas anotações brutas. A instrução do prompt garante que a IA preencherá a seção de impedimentos com "Nenhum" automaticamente, mantendo o formato intacto.

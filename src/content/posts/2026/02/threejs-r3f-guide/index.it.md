@@ -45,7 +45,7 @@ Usalo per comprendere il funzionamento di R3F e fare un test rapido.
 >
 > **Richiesta:** Usa React Three Fiber (R3F) per posizionare un cubo al centro dello schermo. Scrivi il codice di un componente interattivo che: si ingrandisca di 1.2 volte al passaggio del mouse (Hover), cambi colore in modo casuale al click e ruoti continuamente su se stesso utilizzando l'hook `useFrame`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 

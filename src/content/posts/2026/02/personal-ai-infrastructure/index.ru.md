@@ -4,9 +4,6 @@ date: 2026-02-13
 pubDate: 2026-02-13
 description: " \"Узнайте о создании личной ИИ-инфраструктуры для обеспечения конфиденциальности данных и свободы настройки, уходя от зависимости от SaaS.\""
 author: "Hello Prompt"
-image:
-  url: "https://cdn.example.com/ai-stack.png"
-  alt: "Personal AI Stack Diagram"
 tags: ["AI", "Infrastructure", "Privacy", "Daniel Miessler"]
 ---
 
@@ -45,7 +42,7 @@ tags: ["AI", "Infrastructure", "Privacy", "Daniel Miessler"]
 > **Роль:** Ты — мой локальный ИИ-ассистент, работающий на движке `[Ollama]`.
 > **Запрос:** Проанализируй этот `[локальный документ]` и выдели ключевые тезисы, сохраняя строгую конфиденциальность данных.
 
-<br>
+\
 
 ### 🥇 Pro Version (Уровень архитектора инфраструктуры)
 

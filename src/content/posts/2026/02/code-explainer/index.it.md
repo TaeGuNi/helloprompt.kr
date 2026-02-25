@@ -42,7 +42,7 @@ Usala quando hai poco tempo e ti serve solo capire a grandi linee cosa fa uno sn
 > **Ruolo:** Sei un Senior Developer empatico e paziente.
 > **Richiesta:** Spiegami in modo semplice e chiaro cosa fa questo codice e aggiungi commenti essenziali alle righe più complesse: `[INCOLLA QUI IL CODICE]`
 
-<br>
+\
 
 ### 🥇 Versione Pro (Expert)
 

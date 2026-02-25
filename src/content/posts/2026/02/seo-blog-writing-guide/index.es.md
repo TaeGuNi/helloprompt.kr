@@ -40,18 +40,18 @@ El algoritmo de búsqueda de Google va mucho más allá de evaluar si "el texto 
 Utiliza este prompt cuando ya tengas un artículo escrito y necesites aumentar sus probabilidades de aparecer en búsquedas y maximizar su tasa de clics (CTR).
 
 > **Rol (Role):** Eres un especialista senior en marketing de contenidos SEO con 10 años de experiencia.
->
-> **Tarea (Task):** Analiza el `[Cuerpo de mi artículo]` que te proporcionaré a continuación y sugiere 3 versiones optimizadas para el **Meta Título (Title Tag, máximo 60 caracteres)** y la **Meta Descripción (Meta Description, máximo 160 caracteres)** que inciten al clic en los resultados de Google.
->
-> **Condiciones (Constraints):**
->
-> 1. Ubica la palabra clave objetivo `[Palabra clave objetivo]` de forma natural al principio del texto.
-> 2. Incluye frases de enganche (Hook) que despierten la curiosidad del lector y sugieran una solución clara.
->
-> **Contexto (Context):**
-> `[Pega aquí el texto completo de tu artículo]`
 
-<br>
+> **Tarea (Task):** Analiza el `[Cuerpo de mi artículo]` que te proporcionaré a continuación y sugiere 3 versiones optimizadas para el **Meta Título (Title Tag, máximo 60 caracteres)** y la **Meta Descripción (Meta Description, máximo 160 caracteres)** que inciten al clic en los resultados de Google.
+
+> **Condiciones (Constraints):**
+
+1. Ubica la palabra clave objetivo `[Palabra clave objetivo]` de forma natural al principio del texto.
+2. Incluye frases de enganche (Hook) que despierten la curiosidad del lector y sugieran una solución clara.
+
+> **Contexto (Context):**
+`[Pega aquí el texto completo de tu artículo]`
+
+\
 
 ### 🥇 Versión Pro (Diseño de Estructura SEO Perfecta)
 

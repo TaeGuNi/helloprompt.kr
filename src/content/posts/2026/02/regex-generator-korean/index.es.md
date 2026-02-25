@@ -13,7 +13,7 @@ tags: ["Regex", "Expresión Regular", "Procesamiento de Cadenas", "Validación"]
 
 - **🎯 Recomendado para:** Desarrolladores, Analistas de Datos, QA Testers
 - **⏱️ Tiempo requerido:** 5 minutos → Reducido a 10 segundos
-- **🤖 Modelo recomendado:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modelo recomendado:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Dificultad:** ⭐⭐☆☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Las Expresiones Regulares (Regex) son increíblemente poderosas, pero cada vez q
 > **Rol:** Eres un Desarrollador Senior experto en Regex.
 > **Solicitud:** Crea una expresión regular para `[Describe el patrón, ej: validar una URL con https]`. Dame solo el código de la regex y un breve ejemplo de uso en `[Lenguaje de programación]`.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Profesional)
 

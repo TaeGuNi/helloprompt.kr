@@ -48,7 +48,7 @@ Hacer la maleta para una escapada de fin de semana no tiene nada que ver con pre
 > **Rol:** Eres un 'Nómada Digital Experto' que ha vivido al menos un mes en más de 20 países diferentes.
 > **Solicitud:** Voy a viajar a `[País/Ciudad]` durante `[Duración]`. Recomiéndame los 10 artículos esenciales y poco convencionales que mejorarán drásticamente mi calidad de vida allí y que definitivamente debería llevar desde mi país de origen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 
@@ -112,7 +112,7 @@ Este prompt es invaluable porque obliga a la IA a cruzar los datos de tu destino
 
 ### ❌ Before (Input Pobre)
 
-> Hazme una lista de equipaje para ir un mes a Tailandia.
+Hazme una lista de equipaje para ir un mes a Tailandia.
 
 _(Resultado: Lista genérica y obvia: Camisetas, pantalones cortos, protector solar, repelente de mosquitos, pasaporte, cámara... Cosas que ya sabías o que puedes comprar en cualquier tienda al llegar)._
 

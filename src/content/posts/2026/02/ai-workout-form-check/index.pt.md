@@ -13,7 +13,7 @@ tags: ["운동", "헬스", "PT", "스쿼트", "ChatGPT"]
 
 - **🎯 Recomendado para:** Profissionais que sentem dores articulares ao treinar em casa, estudantes e recém-formados que não querem gastar com personal trainer.
 - **⏱️ Tempo necessário:** 1 minuto (gravação e upload do vídeo)
-- **🤖 Modelos recomendados:** ChatGPT (GPT-4o Vision), Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modelos recomendados:** ChatGPT (GPT-4o Vision), Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Dificuldade:** ⭐☆☆☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Use esta versão quando quiser identificar rapidamente os problemas da sua postu
 > **Função:** Você é um personal trainer com 10 anos de experiência.
 > **Tarefa:** O vídeo em anexo mostra a minha postura no `[agachamento]`. Encontre os erros que apresentam risco de lesão e avalie a minha execução com uma nota de 0 a 10.
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 

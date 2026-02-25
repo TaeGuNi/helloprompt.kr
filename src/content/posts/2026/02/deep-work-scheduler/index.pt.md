@@ -42,7 +42,7 @@ Use esta versão quando precisar de um plano imediato sem muitos detalhes.
 > **Role:** Você é um especialista em produtividade e gestão de tempo.
 > **Task:** Crie um cronograma de _Deep Work_ de 2 horas focado em `[sua principal tarefa ou objetivo]` para ser executado de madrugada. Divida o tempo em blocos práticos e focados.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Alta Precisão e Personalização)
 

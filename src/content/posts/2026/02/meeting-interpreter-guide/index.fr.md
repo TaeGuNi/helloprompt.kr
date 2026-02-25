@@ -42,12 +42,12 @@ Utilisez ce prompt lorsque vous disposez de l'enregistrement ou de la transcript
 > **Rôle :** Tu es un Chef de Projet (PM) Senior dans une entreprise technologique mondiale.
 > **Contexte :** Je vais te fournir la transcription (Transcript) complète d'une réunion en anglais qui vient de se terminer.
 > **Tâche :**
->
-> 1. Résume les principaux sujets abordés et les conclusions en 3 points clés.
-> 2. Liste les 'Action Items' que je dois traiter dès aujourd'hui en tant que responsable, par ordre de priorité.
-> 3. S'il y a eu des nuances ambiguës lors des échanges (ex: un refus poli, une approbation sous condition), analyse-les et explique-les clairement.
 
-<br>
+1. Résume les principaux sujets abordés et les conclusions en 3 points clés.
+2. Liste les 'Action Items' que je dois traiter dès aujourd'hui en tant que responsable, par ordre de priorité.
+3. S'il y a eu des nuances ambiguës lors des échanges (ex: un refus poli, une approbation sous condition), analyse-les et explique-les clairement.
+
+\
 
 ### 🥇 Version Pro (Assistant en temps réel et Suggestions de réponses)
 

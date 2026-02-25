@@ -45,7 +45,7 @@ Da usare quando sei di fretta e hai bisogno di uno spunto immediato.
 > **Ruolo:** Sei un esperto di educazione finanziaria per l'infanzia.
 > **Richiesta:** Spiega in modo semplice a un bambino di 6 anni il valore del denaro, da dove viene e perché non possiamo comprare tutto quello che vogliamo.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

@@ -42,7 +42,7 @@ Use esta versão quando estiver com pressa e precisar de um esboço rápido do d
 > **Papel:** Você é um guia turístico local especialista em `[Nome da Cidade]` com 20 anos de experiência.
 > **Pedido:** Crie um itinerário de 1 dia altamente eficiente e sem perda de tempo, focado em experiências autênticas.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Especialista)
 
@@ -109,7 +109,7 @@ Muitas vezes, a IA sugere pontos turísticos incríveis que ficam em lados opost
 
 ### ❌ Antes (Entrada Simples)
 
-> "Faça um roteiro de 1 dia em Tóquio para mim."
+"Faça um roteiro de 1 dia em Tóquio para mim."
 
 **Resultado Típico:** Uma lista genérica (Templo Senso-ji, Cruzamento de Shibuya, Tokyo Skytree, Akihabara) sem considerar que o deslocamento entre a zona Leste (Asakusa) e a zona Oeste (Shibuya) consome muito tempo e energia se feito repetidamente no mesmo dia.
 

@@ -10,7 +10,7 @@ tags: ["AI Trends", "System Prompt", "Prompt Engineering", "2026"]
 
 - **🎯 추천 대상:** 프롬프트 엔지니어, AI 서비스 개발자, LLM 활용 기획자
 - **⏱️ 소요 시간:** 1시간 → 3분 단축
-- **🤖 추천 모델:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (XML 구조화에 뛰어난 최신 모델)
+- **🤖 추천 모델:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (XML 구조화에 뛰어난 최신 모델)
 
 - ⭐ **난이도:** ⭐⭐⭐☆☆
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
@@ -39,7 +39,7 @@ tags: ["AI Trends", "System Prompt", "Prompt Engineering", "2026"]
 > **역할:** 너는 수석 프롬프트 엔지니어(Senior Prompt Engineer)야.
 > **요청:** 내가 만들고 싶은 AI 봇의 목적은 `[AI 봇의 목적]`이야. 이를 위한 완벽한 시스템 프롬프트를 `<system>`, `<role>`, `<constraints>`, `<instructions>` XML 태그를 사용해서 작성해줘.
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 

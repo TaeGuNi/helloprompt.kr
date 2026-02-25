@@ -10,7 +10,7 @@ tags: ["AI", "Tech", "edge-ai-privacy-2026"]
 
 - **🎯 Public cible :** Développeurs, Architectes Logiciels, Ingénieurs Data
 - **⏱️ Gain de temps :** 5 heures de recherche et de conception → 2 minutes
-- **🤖 Modèles recommandés :** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 Modèles recommandés :** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **Difficulté :** ⭐⭐⭐☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -41,7 +41,7 @@ Utilisez ce prompt pour obtenir une vue d'ensemble rapide de la faisabilité d'u
 > **Rôle :** Tu es un Architecte Logiciel Senior spécialisé en Edge AI.
 > **Tâche :** Analyse la faisabilité de l'intégration d'un LLM local pour `[Mon projet/Application]`. Propose-moi 3 modèles quantifiés adaptés et liste les défis potentiels liés à la mémoire RAM et à la consommation de la batterie.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

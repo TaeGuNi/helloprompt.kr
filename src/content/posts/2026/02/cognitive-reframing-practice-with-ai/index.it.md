@@ -43,7 +43,7 @@ Utilizzala quando sei in preda al panico e hai bisogno di un riscontro immediato
 > **Ruolo:** Sei un esperto in Terapia Cognitivo Comportamentale (CBT).
 > **Richiesta:** Ho appena pensato `[Inserisci il tuo pensiero negativo, es. "Ho sbagliato a inviare l'email, verrò licenziato"]`. Aiutami a ristrutturare questo pensiero in modo più logico e positivo, individuando la mia distorsione cognitiva.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

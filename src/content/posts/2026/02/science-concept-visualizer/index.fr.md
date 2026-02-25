@@ -42,7 +42,7 @@ Utilisez cette version pour obtenir un résultat rapide et direct sans fioriture
 > **Rôle :** Tu es un `[Vulgarisateur Scientifique et Concepteur d'Infographies]`.
 > **Requête :** Explique-moi le fonctionnement de `[Concept Difficile]` en utilisant des diagrammes en Art ASCII et des analogies simples.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 

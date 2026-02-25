@@ -45,7 +45,7 @@ tags: ["MCP", "AI Agents", "Chrome DevTools", "Debugging"]
 > **角色：** 你是一个资深前端专家。
 > **任务：** 请通过 Chrome DevTools MCP 连接到我当前激活的标签页，检查 Console 里的红色报错，并告诉我哪行代码导致了这个问题。
 
-<br>
+\
 
 ### 🥇 Pro Version (专家版)
 

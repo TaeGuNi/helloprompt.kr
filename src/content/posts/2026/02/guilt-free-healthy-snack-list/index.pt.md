@@ -44,7 +44,7 @@ Use este prompt quando a fome bater de repente e você precisar de ideias imedia
 > **Papel:** Você é um nutricionista especialista em lanches saudáveis e um chef de sobremesas fit.
 > **Pedido:** Estou com aquela fome chata da tarde (15h). Me dê 5 ideias de lanches saudáveis e fáceis que aliviam o estresse, saciam a vontade de comer besteira e não estragam minha dieta.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Professional Version)
 
@@ -106,7 +106,7 @@ Este prompt atua como seu "nutricionista de bolso". A chave para o sucesso aqui 
 
 ### ❌ Antes (Entrada Simples)
 
-> "Quais lanches não engordam?"
+"Quais lanches não engordam?"
 
 _(Resultado da IA: "Coma tomates cereja, ovos cozidos, peito de peru, ou palitos de cenoura e aipo.") -> Totalmente desmotivador._
 

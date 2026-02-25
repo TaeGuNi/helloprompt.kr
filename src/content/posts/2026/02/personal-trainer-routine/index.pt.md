@@ -42,7 +42,7 @@ Use esta versão para obter um direcionamento rápido quando estiver com pressa.
 > **Role (Papel):** Você é um `[Treinador Pessoal de Elite e Nutricionista Esportivo]`.
 > **Task (Tarefa):** Crie um plano de treino e uma dieta básica para `[seu objetivo, ex: hipertrofia]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

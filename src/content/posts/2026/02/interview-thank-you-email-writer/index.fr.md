@@ -43,7 +43,7 @@ Utilisez cette version pour générer rapidement un e-mail courtois et efficace.
 > **Rôle :** Tu es un coach de carrière et un expert en communication professionnelle.
 > **Demande :** Rédige un e-mail de remerciement poli et impactant à envoyer juste après un entretien d'embauche. Il doit réaffirmer ma motivation et laisser une impression positive durable sur le recruteur.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

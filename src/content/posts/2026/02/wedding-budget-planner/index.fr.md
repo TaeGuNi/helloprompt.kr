@@ -42,7 +42,7 @@ Utilisez cette version pour obtenir une estimation rapide et globale des dépens
 > **Rôle :** Tu es un `[Wedding Planner expert et conseiller financier]`.
 > **Requête :** Prédit et optimise tous les coûts liés à la préparation d'un mariage, du choix du lieu jusqu'à la lune de miel, afin d'éviter les dépassements budgétaires.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 
@@ -115,12 +115,12 @@ _(Résultat typique : une liste générique qui oublie la moitié des dépenses 
 
 | Catégorie               | Montant Alloué | Détails & Frais Cachés à Anticiper                                                                                                                                           |
 | :---------------------- | :------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lieu & Traiteur**     | 14 000 €       | Location du domaine (4k€) + Repas (100x100€ = 10k€) <br>⚠️ _Frais cachés : Droit de bouchon, repas des prestataires (photographe, DJ), location de chaises supplémentaires._ |
-| **Tenues & Beauté**     | 3 500 €        | Robe (2k€), Costume (1k€), Coiffure/Maquillage (500€) <br>⚠️ _Frais cachés : Retouches de la robe, accessoires (voile, bijoux), essais coiffure supplémentaires._            |
-| **Photo & Vidéo**       | 3 000 €        | Photographe (1,8k€) + Vidéaste (1,2k€) <br>⚠️ _Frais cachés : Heures supplémentaires après minuit, frais de déplacement/hébergement, achat des fichiers bruts._              |
-| **Lune de Miel**        | 4 500 €        | Vols et Hébergements (Privilégier l'Asie du Sud-Est pour ce budget) <br>⚠️ _Frais cachés : Visas, assurance voyage, taxes de séjour, excédent de bagages._                   |
-| **Alliances & Cadeaux** | 2 500 €        | Alliances (1,5k€) + Cadeaux invités (1k€) <br>⚠️ _Frais cachés : Gravure des alliances, frais de port pour les cadeaux personnalisés._                                       |
-| **Fonds d'urgence**     | 2 500 €        | Imprévus et dépenses de dernière minute <br>⚠️ _À conserver impérativement sur un compte séparé pour les dépassements inévitables._                                          |
+| **Lieu & Traiteur**     | 14 000 €       | Location du domaine (4k€) + Repas (100x100€ = 10k€) \⚠️ _Frais cachés : Droit de bouchon, repas des prestataires (photographe, DJ), location de chaises supplémentaires._ |
+| **Tenues & Beauté**     | 3 500 €        | Robe (2k€), Costume (1k€), Coiffure/Maquillage (500€) \⚠️ _Frais cachés : Retouches de la robe, accessoires (voile, bijoux), essais coiffure supplémentaires._            |
+| **Photo & Vidéo**       | 3 000 €        | Photographe (1,8k€) + Vidéaste (1,2k€) \⚠️ _Frais cachés : Heures supplémentaires après minuit, frais de déplacement/hébergement, achat des fichiers bruts._              |
+| **Lune de Miel**        | 4 500 €        | Vols et Hébergements (Privilégier l'Asie du Sud-Est pour ce budget) \⚠️ _Frais cachés : Visas, assurance voyage, taxes de séjour, excédent de bagages._                   |
+| **Alliances & Cadeaux** | 2 500 €        | Alliances (1,5k€) + Cadeaux invités (1k€) \⚠️ _Frais cachés : Gravure des alliances, frais de port pour les cadeaux personnalisés._                                       |
+| **Fonds d'urgence**     | 2 500 €        | Imprévus et dépenses de dernière minute \⚠️ _À conserver impérativement sur un compte séparé pour les dépassements inévitables._                                          |
 
 **💡 Conseil du Wedding Planner :**
 Investissez sans compter sur le photographe et le repas, car c'est ce dont vos invités et vous vous souviendrez le plus. Faites des économies sur la papeterie (privilégiez les faire-part numériques) et la décoration florale (réutilisez les compositions de la cérémonie pour la salle de réception).

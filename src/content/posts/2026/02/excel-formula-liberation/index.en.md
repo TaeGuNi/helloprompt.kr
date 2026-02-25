@@ -43,7 +43,7 @@ Use this when you know what you want to do, but can't quite remember the right f
 > **Context:** Column A contains 'Product Name', Column B contains 'Price', and Column C contains 'Quantity'.
 > **Task:** Write an Excel formula for Column D to calculate 'Total Sales (Price \* Quantity)'. Then, if the total exceeds $1,000, label it "VIP"; otherwise, label it "Standard".
 
-<br>
+\
 
 ### 🥇 Pro Version (The Senior Analyst Mode)
 

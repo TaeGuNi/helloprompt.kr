@@ -44,7 +44,7 @@ Use esta versão se você quiser apenas uma estrutura rápida e simples para gui
 > **Função:** Você é um especialista em produtividade e hábitos de alto desempenho.
 > **Tarefa:** Crie uma rotina matinal simples de 1 hora para mim. Eu acordo às `[07:00]` e meu principal objetivo matinal é `[ter energia para o trabalho]`. Divida a rotina em blocos fáceis de 15 minutos.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

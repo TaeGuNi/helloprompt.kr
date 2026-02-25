@@ -44,7 +44,7 @@ tags:
 >
 > **Angle (구도):** Low angle shot, worm's eye view, looking up
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 

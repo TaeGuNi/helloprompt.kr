@@ -41,7 +41,7 @@ Idéal pour un dépannage rapide ou des requêtes spontanées nécessitant de la
 > **Requête :** `[Insérez votre problème complexe ici]`
 > **Instruction clé :** Avant de donner ta réponse finale, **pensons étape par étape** (Let's think step by step) pour analyser méticuleusement la situation.
 
-<br>
+\
 
 ### 🥇 Version Pro (Few-Shot CoT)
 

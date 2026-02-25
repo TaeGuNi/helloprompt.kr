@@ -42,7 +42,7 @@ Use this when you just need a quick estimate without detailed variables.
 > **Role:** You are an expert `[Financial Planner]` specializing in the FIRE movement.
 > **Task:** Help me calculate my FIRE number and estimate my early retirement timeline based on my `[current age, income, and savings]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Detailed & Strategic)
 

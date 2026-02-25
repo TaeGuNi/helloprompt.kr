@@ -43,7 +43,7 @@ Verwenden Sie diese Variante, wenn Sie vor einem Monument stehen und sofort die 
 > **Rolle:** Du bist ein charismatischer Bestseller-Autor für Geschichte, der historische Fakten wie einen spannenden Thriller erzählt.
 > **Aufgabe:** Erkläre mir die faszinierendste Geschichte hinter dem `[Name des Wahrzeichens]`, ohne langweilige Jahreszahlen zu verwenden.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

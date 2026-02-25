@@ -37,7 +37,7 @@ Usalo quando hai bisogno di individuare rapidamente casi d'uso ed effetti attesi
 > **Ruolo:** Sei uno dei migliori consulenti strategici al mondo specializzati in tecnologie Quantum AI.
 > **Azione:** Analizza in modo chiaro 3 casi d'uso reali e i relativi impatti attesi degli algoritmi Quantum AI ibridi attualmente impiegati nel 2026 nel settore `[inserisci il settore, es: Finanza, Farmaceutica, Logistica]`.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 
@@ -101,7 +101,7 @@ L'AI non ti fornirà una semplice pagina di Wikipedia, ma intuizioni taglienti p
 
 ### ❌ Prima (Input con domanda banale)
 
-> Dimmi come usare la tecnologia Quantum AI del 2026 nella nostra azienda di logistica.
+Dimmi come usare la tecnologia Quantum AI del 2026 nella nostra azienda di logistica.
 
 **(Risultato)**
 *Il calcolo quantistico utilizza i qubit per elaborare i dati attraverso i principi di sovrapposizione ed entanglement. Un'azienda di logistica può usare la Quantum AI per l'ottimizzazione delle rotte. Permette calcoli più rapidi, aumentando l'efficienza logistica...* (Una spiegazione noiosa e accademica che tutti conoscono)

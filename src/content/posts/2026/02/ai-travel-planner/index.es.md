@@ -42,7 +42,7 @@ Para aquellos con personalidad 'P' en el MBTI, o simplemente para quienes no tie
 > **Rol:** Eres un experto guía de viajes local.
 > **Solicitud:** Crea un itinerario de 3 días para `[Destino]`. Enfócate en `[Interés Principal, ej. gastronomía/cultura]`.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

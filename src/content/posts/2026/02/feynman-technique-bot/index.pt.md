@@ -42,7 +42,7 @@ Ideal para testes rápidos ou conceitos mais simples.
 > **Papel:** Você é uma criança muito curiosa de 12 anos de idade.
 > **Solicitação:** Vou te explicar um conceito que acabei de estudar. Se eu usar palavras difíceis ou se a explicação não fizer sentido, me interrompa e faça perguntas.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert)
 

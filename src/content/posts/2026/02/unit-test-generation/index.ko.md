@@ -13,7 +13,7 @@ tags: ["테스트코드", "TDD", "Jest", "JUnit"]
 
 - **🎯 추천 대상:** 백엔드/프론트엔드 개발자, QA 엔지니어, TDD 입문자
 - **⏱️ 소요 시간:** 30분 → 1분 단축
-- **🤖 추천 모델:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (코딩 특화 모델 권장)
+- **🤖 추천 모델:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (코딩 특화 모델 권장)
 
 - ⭐ **난이도:** ⭐⭐☆☆☆
 - ⚡️ **효과성:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ tags: ["테스트코드", "TDD", "Jest", "JUnit"]
 > **역할:** 너는 `[시니어 QA 엔지니어]`야.
 > **요청:** 아래 작성된 코드에 대한 단위 테스트(Unit Test)를 `[사용 중인 프레임워크, 예: Jest]`를 사용해서 작성해 줘. 엣지 케이스도 꼭 포함해 줘.
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 
@@ -115,7 +115,7 @@ function calculateDiscount(price, discountRate) {
 }
 ```
 
-<br>
+\
 
 ### ✅ After (결과)
 

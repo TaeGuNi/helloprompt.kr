@@ -64,7 +64,7 @@ Use isto quando quiser validar um código ou uma ideia que você já escreveu.
 > [Insira o snippet de código a ser revisado]
 > ```
 
-<br>
+\
 
 ### 🥇 Versão Pro (Prompt de Inquisidor de Arquitetura)
 
@@ -125,7 +125,7 @@ Recentemente, eu mesmo caí na doce tentação do "Vibe Coding" e construí uma 
 
 ### ❌ Antes (O Desastre do Vibe Coding)
 
-> "Crie um componente React que busca uma lista de usuários e a filtra."
+"Crie um componente React que busca uma lista de usuários e a filtra."
 
 _(Resultado: Copiar e colar às cegas sem entender como o estado é gerenciado ou se há problemas de re-renderização, resultando em um vazamento de memória inexplicável em produção.)_
 

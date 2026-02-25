@@ -43,7 +43,7 @@ Escribir consultas SQL complejas puede ser un dolor de cabeza, especialmente cua
 > **Tarea:** Escribe una consulta SQL para `[Describe lo que necesitas]`.
 > **Contexto:** La tabla se llama `[Nombre de la tabla]` y tiene las columnas `[Lista de columnas separadas por comas]`.
 
-<br>
+\
 
 ### 🥇 Versión Pro
 

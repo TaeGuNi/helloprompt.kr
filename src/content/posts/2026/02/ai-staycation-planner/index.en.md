@@ -46,7 +46,7 @@ Use this when you need a quick, rough schedule and a spark of inspiration.
 > **Role:** You are a `[5-Star Hotel Concierge]`.
 > **Task:** Plan a `[2-day, 1-night]` staycation itinerary for me to enjoy at home this weekend. The theme is `[Netflix Binge and Delivery Food Party]`.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

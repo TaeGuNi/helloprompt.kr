@@ -42,7 +42,7 @@ Absolutamente no. En el ecosistema de Python ya existe **FastAPI**, una herramie
 > **Rol:** Eres un desarrollador Backend Senior experto en Python.
 > **Tarea:** Usando FastAPI, escribe el código más básico para `main.py` que reciba una petición GET en la ruta `/items/{item_id}` y maneje un parámetro de consulta opcional `q`. Incluye también como comentario el comando `uvicorn` necesario para ejecutarlo.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 
@@ -118,7 +118,7 @@ async def create_user(user: UserCreate):
     return user
 ```
 
-> Al guardar el código y entrar a `http://localhost:8000/docs`, se genera automáticamente una documentación interactiva (Swagger UI) lista para que el desarrollador Frontend la pruebe al instante. Si los tipos de datos no coinciden, FastAPI devuelve automáticamente un error 422 Unprocessable Entity con una guía detallada. El costo de comunicación con el Frontend se reduce a cero.
+Al guardar el código y entrar a `http://localhost:8000/docs`, se genera automáticamente una documentación interactiva (Swagger UI) lista para que el desarrollador Frontend la pruebe al instante. Si los tipos de datos no coinciden, FastAPI devuelve automáticamente un error 422 Unprocessable Entity con una guía detallada. El costo de comunicación con el Frontend se reduce a cero.
 
 ---
 

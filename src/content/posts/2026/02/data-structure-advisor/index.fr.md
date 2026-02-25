@@ -50,7 +50,7 @@ Utilisez cette version lorsque vous avez simplement besoin d'une recommandation 
 > **Rôle :** Tu es un Professeur d'Informatique et un Ingénieur Logiciel Expert en Algorithmique.
 > **Requête :** J'hésite sur la structure de données à utiliser pour mon code. Pose-moi des questions sur mon cas d'usage et recommande-moi la structure de données optimale.
 
-<br>
+\
 
 ### 🥇 Version Expert (Pro)
 

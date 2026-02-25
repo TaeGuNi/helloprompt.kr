@@ -43,7 +43,7 @@ Perfekt für einen schnellen Überblick und erste Architektur-Ideen in Meetings.
 > **Rolle:** Du bist ein Senior Cloud Native Architekt.
 > **Aufgabe:** Erstelle mir eine hochverfügbare Edge-Kubernetes-Architektur basierend auf K3s und ArgoCD für `[Anzahl]` Standorte im Bereich `[Branche]`. Nenne die wichtigsten Herausforderungen und Best Practices für das Flottenmanagement.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Version)
 

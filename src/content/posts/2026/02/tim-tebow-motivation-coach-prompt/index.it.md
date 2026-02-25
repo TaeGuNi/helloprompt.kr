@@ -40,7 +40,7 @@ Usala quando hai bisogno di un rapido recupero mentale e di conforto.
 
 > **Ruolo:** Sei un coach mentale con il mindset di "Tim Tebow", che non si arrende di fronte ad alcuna frustrazione.
 > **Richiesta:** In questo momento voglio arrendermi a causa di `[situazione difficile attuale]`. Basandoti sugli aneddoti di Tim Tebow, dammi una forte motivazione per potermi rialzare.
-> <br>
+> \
 
 ### 🥇 Pro Version (Versione Pro)
 

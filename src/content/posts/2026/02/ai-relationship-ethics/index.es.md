@@ -15,7 +15,7 @@ title: " \"La Ética de las Relaciones con IA: Chatbots, Deepfakes y Dilemas\""
 
 - **🎯 Recomendado para:** Desarrolladores de IA, Diseñadores de UX, Investigadores de Ética
 - **⏱️ Tiempo estimado:** 2 horas de auditoría manual → 3 minutos
-- **🤖 Modelo recomendado:** GPT-4, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modelo recomendado:** GPT-4, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Dificultad:** ⭐⭐⭐☆☆
 - ⚡️ **Eficacia:** ⭐⭐⭐⭐⭐
@@ -44,7 +44,7 @@ Las historias de personas que forman profundos vínculos emocionales con chatbot
 > **Rol:** Eres un experto en ética de la IA y psicología digital.
 > **Tarea:** Analiza el siguiente `[Diálogo del Chatbot]` y dime si existe riesgo de generar dependencia emocional o si viola principios de consentimiento (ej. deepfakes). Sugiere una respuesta más segura.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

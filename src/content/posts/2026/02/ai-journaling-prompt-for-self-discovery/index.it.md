@@ -42,7 +42,7 @@ Utilizza questa versione quando hai poco tempo e desideri solo uno spunto rapido
 > **Ruolo:** Sei un consulente psicologico empatico e un saggista esperto.
 > **Richiesta:** Aiutami a riflettere sulla mia giornata. Fammi una domanda profonda per esplorare il mio io interiore, andando oltre il semplice racconto degli eventi.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

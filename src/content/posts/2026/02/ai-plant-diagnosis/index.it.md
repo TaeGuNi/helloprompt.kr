@@ -46,7 +46,7 @@ Utilizza questo prompt quando vai di fretta e hai solo bisogno di scoprire la ca
 > **Ruolo:** Sei un esperto di piante.
 > **Richiesta:** Le punte delle foglie di questa Monstera nella foto stanno diventando marroni e secche. Manca l'acqua o ne ho data troppa? È una malattia? Dimmi brevemente la causa e come rimediare.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Soluzione di Rianimazione Avanzata)
 
@@ -101,12 +101,12 @@ Utilizzando questo prompt, l'IA non si limiterà a un banale "dai meno acqua". T
 
 ### ❌ Prima (Affidarsi alle congetture)
 
-> "Oh, le foglie sono appassite. Forse ha sete." (Aggiunge un altro litro d'acqua ➡️ Le radici già marcescenti collassano del tutto ➡️ Morte irreversibile della pianta ⚰️)
+"Oh, le foglie sono appassite. Forse ha sete." (Aggiunge un altro litro d'acqua ➡️ Le radici già marcescenti collassano del tutto ➡️ Morte irreversibile della pianta ⚰️)
 
 ### ✅ Dopo (Diagnosi oggettiva dell'IA)
 
 > **IA:** "Sulla base dei sintomi e della frequenza di irrigazione, si tratta di un **grave eccesso di irrigazione**! Sospendi immediatamente le irrigazioni e sposta il vaso in una zona parzialmente ombreggiata e ben ventilata. Devi aspettare almeno una settimana, o finché il terriccio non sarà completamente asciutto."
-> (Risultato: Dopo aver seguito le indicazioni dell'IA, in 3 giorni il marciume si è fermato e sono spuntati nuovi germogli vigorosi 🌱)
+(Risultato: Dopo aver seguito le indicazioni dell'IA, in 3 giorni il marciume si è fermato e sono spuntati nuovi germogli vigorosi 🌱)
 
 ---
 

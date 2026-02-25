@@ -42,7 +42,7 @@ La fase más difícil de cualquier proceso de escritura es, sin duda, el comienz
 > **Rol:** Eres un experto redactor de best-sellers y un coach profesional de escritura.
 > **Solicitud:** Estoy atascado escribiendo sobre `[Tema]`. Por favor, diseña una estructura lógica (Introducción, Desarrollo y Conclusión) y sugiéreme las ideas centrales para cada párrafo.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 
@@ -105,7 +105,7 @@ Como creador de contenido, utilizo esta técnica constantemente. Generar solo el
 
 ### ❌ Before (Flujo de Conciencia Bloqueado)
 
-> La IA es peligrosa. Pero también es muy conveniente. No sé si los trabajos van a desaparecer. Tal vez no todos. De todos modos, hay que aprender a usar bien la IA para no quedarnos atrás. (Incoherente, sin dirección clara).
+La IA es peligrosa. Pero también es muy conveniente. No sé si los trabajos van a desaparecer. Tal vez no todos. De todos modos, hay que aprender a usar bien la IA para no quedarnos atrás. (Incoherente, sin dirección clara).
 
 ### ✅ After (Resultado del Prompt Pro)
 

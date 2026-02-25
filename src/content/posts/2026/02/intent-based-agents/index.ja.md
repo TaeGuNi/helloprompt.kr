@@ -7,9 +7,6 @@ updatedDate: "2026-02-16"
 category: "AI 트렌드"
 description: " \"単語選びに執着するのはやめましょう。Gemini 3とGPT-5の時代には、文章ではなく「目標 (Intent)」を設計する必要があります。\""
 tags: ["AI 트렌드", "에이전트", "Gemini 3", "GPT-5", "프롬프트 엔지니어링"]
-image:
-  url: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2565&auto=format&fit=crop"
-  alt: "抽象的なAIエージェントネットワーク"
 ---
 
 # 📝 プロンプトエンジニアリングは終わりました。これからは「インテント設計」です。
@@ -47,7 +44,7 @@ image:
 > **役割:** あなたは技術ブロガーです。
 > **タスク:** RustとGo言語を比較する記事を書いてください。面白く書いてください。
 
-<br>
+\
 
 ### 🥇 Pro Version (アーキテクト型)
 

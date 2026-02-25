@@ -42,7 +42,7 @@ Usala quando hai solo bisogno di un risultato rapido senza troppi dettagli.
 > **Ruolo:** Sei un viaggiatore esperto che ha girato il mondo e un maestro nel preparare i bagagli.
 > **Richiesta:** Creami una checklist infallibile per i bagagli considerando il meteo locale, la cultura e le attività previste per il mio viaggio.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 

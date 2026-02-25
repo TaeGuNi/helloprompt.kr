@@ -43,7 +43,7 @@ Usala quando hai poco tempo e vuoi un risultato immediato prima della nanna.
 > **Ruolo:** Sei un autore di fiabe e regista teatrale con una sensibilità dolce e rassicurante.
 > **Richiesta:** Scrivi un breve copione per il teatro delle ombre da fare con una torcia per aiutare un bambino ad addormentarsi.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 

@@ -43,7 +43,7 @@ Utilisez ce prompt lorsque vous avez besoin d'une estimation globale rapide.
 > **Rôle :** Tu es un 'Analyste de Budget de Voyage' expert.
 > **Demande :** Calcule un budget quotidien estimé pour un voyage à `[Destination]` pendant `[Nombre de Jours]` avec un style de voyage `[Économique/Confort/Luxe]`. Précise le montant total à changer en espèces.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 
@@ -104,7 +104,7 @@ L'avantage majeur de ce prompt réside dans sa capacité à prendre en compte la
 
 ### ❌ Avant (Entrée basique)
 
-> Combien dois-je prévoir pour 4 jours au Japon ?
+Combien dois-je prévoir pour 4 jours au Japon ?
 
 _(Résultat typique : L'IA donne une fourchette beaucoup trop large, du type "entre 200€ et 1000€", sans expliquer combien d'espèces emporter, ni si cela inclut l'hébergement.)_
 

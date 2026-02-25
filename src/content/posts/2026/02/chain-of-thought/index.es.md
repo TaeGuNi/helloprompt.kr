@@ -41,7 +41,7 @@ Es idéntico a cómo los humanos resolvemos un problema difícil: no adivinamos 
 > **Tarea:** Resuelve el siguiente `[Problema Matemático o Lógico]`.
 > **Instrucción Clave:** Pensemos paso a paso.
 
-<br>
+\
 
 ### 🥇 Few-Shot CoT (Versión Profesional)
 
@@ -119,7 +119,7 @@ _(Problema: Aunque en este ejemplo trivial la IA pueda acertar, en problemas cor
 
 ### ✅ Después (Chain-of-Thought)
 
-> Pregunta: En una cafetería, un café cuesta 3 dólares y un cruasán 2 dólares. Si compro 3 cafés y 2 cruasanes, y me aplican un descuento del 10% al total, ¿cuánto pago? Pensemos paso a paso.
+Pregunta: En una cafetería, un café cuesta 3 dólares y un cruasán 2 dólares. Si compro 3 cafés y 2 cruasanes, y me aplican un descuento del 10% al total, ¿cuánto pago? Pensemos paso a paso.
 
 ```text
 Razonamiento:

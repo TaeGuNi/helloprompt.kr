@@ -49,7 +49,7 @@ Use this when you just need a rapid, high-level translation.
 > **Role:** You are a senior recruiter at a Silicon Valley tech company and an expert English copy editor.
 > **Request:** Do not simply translate the following text. Perfectly adapt my Korean resume content to fit the expressions, formatting, and expectations of the English-speaking recruitment culture.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Polish)
 

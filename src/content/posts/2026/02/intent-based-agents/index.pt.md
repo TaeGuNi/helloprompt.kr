@@ -7,9 +7,6 @@ updatedDate: "2026-02-16"
 category: "AI 트렌드"
 description: " \"Pare de se apegar à escolha de palavras. Na era do Gemini 3 e GPT-5, você deve focar em projetar 'Intenções (Intent)' em vez de lapidar frases.\""
 tags: ["AI 트렌드", "에이전트", "Gemini 3", "GPT-5", "프롬프트 엔지니어링"]
-image:
-  url: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2565&auto=format&fit=crop"
-  alt: "추상적인 AI 에이전트 네트워크"
 ---
 
 # 📝 A Engenharia de Prompts Acabou. Chegou a Era do 'Design de Intenções'.
@@ -47,7 +44,7 @@ A abordagem do passado. A qualidade do resultado depende da sorte e é altamente
 > **Role (Papel):** Você é um blogueiro de tecnologia.
 > **Task (Tarefa):** Escreva um artigo comparando Rust e Go. Faça algo divertido.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Versão Arquiteto)
 

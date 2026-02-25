@@ -42,7 +42,7 @@ Use esta versão para obter uma estimativa rápida e direta.
 > **Papel:** Você é um `[Planejador Financeiro Certificado (CFP)]` especializado em planejamento de aposentadoria.
 > **Solicitação:** Preciso eliminar meu medo do futuro. Calcule com precisão de quanto dinheiro precisarei para me aposentar e qual valor devo investir mensalmente para chegar lá. Meu custo de vida desejado é `[R$ 10.000/mês]` e quero me aposentar aos `[60 anos]`.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

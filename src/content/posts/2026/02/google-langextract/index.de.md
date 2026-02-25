@@ -5,9 +5,6 @@ date: 2026-02-20
 pubDate: 2026-02-20
 description: " \"Erfahren Sie, wie Sie mit der neuen LangExtract-Bibliothek von Google präzises JSON und strukturierte Daten zuverlässig aus LLMs extrahieren.\""
 author: "Hello Prompt"
-image:
-  url: "https://docs.astro.build/assets/full-logo-light.png"
-  alt: "Google LangExtract Logo"
 tags: ["Google", "LLM", "Data Extraction", "Python", "AI"]
 ---
 
@@ -15,7 +12,7 @@ tags: ["Google", "LLM", "Data Extraction", "Python", "AI"]
 
 - **🎯 Empfohlen für:** Python-Entwickler, Data Engineers, KI-Architekten
 - **⏱️ Zeitersparnis:** Stundenlanges Regex-Debugging → 5 Minuten Setup
-- **🤖 Empfohlenes Modell:** Gemini 1.5 Pro / Flash
+- **🤖 Empfohlenes Modell:** Gemini 2.5 Pro / Flash
 
 - ⭐ **Schwierigkeitsgrad:** ⭐⭐⭐☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -57,7 +54,7 @@ Früher mussten wir das Modell mühsam instruieren, ausschließlich gültiges JS
 >
 > **Warnung:** Füge absolut keinen weiteren Text vor oder nach dem JSON hinzu!
 
-<br>
+\
 
 ### 🥇 Pro Version (Der LangExtract-Weg)
 

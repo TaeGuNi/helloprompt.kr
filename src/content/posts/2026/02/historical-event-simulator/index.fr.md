@@ -42,7 +42,7 @@ Utilisez cette version pour plonger rapidement dans l'action sans paramétrage c
 > **Rôle :** Tu es un `[Maître de Jeu de Simulation Historique]`.
 > **Demande :** Et si j'étais l'amiral Yi Sun-sin ? Fais-moi vivre l'Histoire en me proposant des choix, à la manière d'un jeu d'aventure textuel.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

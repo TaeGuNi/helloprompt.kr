@@ -14,7 +14,7 @@ tags:
 
 - **🎯 Público-Alvo:** Desenvolvedores, Engenheiros de Software, Arquitetos de Sistemas
 - **⏱️ Tempo de Execução:** 2 horas → 5 minutos
-- **🤖 Modelo Recomendado:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 Modelo Recomendado:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **Dificuldade:** ⭐⭐⭐☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -43,7 +43,7 @@ Use esta versão para melhorias rápidas, superficiais e pontuais em funções c
 > **Função:** Você é um Desenvolvedor Sênior especialista em Clean Code.
 > **Tarefa:** Refatore o `[trecho de código]` a seguir para melhorar a legibilidade e aplicar os princípios SOLID, adicionando comentários explicativos breves.
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 

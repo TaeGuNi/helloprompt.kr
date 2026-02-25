@@ -42,7 +42,7 @@ Verwenden Sie diese Variante, wenn Sie unter Zeitdruck stehen und sofort Ideen b
 > **Rolle:** Du bist ein erfahrener `[E-Mail-Marketing-Experte]`.
 > **Aufgabe:** Schreibe unwiderstehliche E-Mail-Betreffzeilen für `[Thema/Produkt]`, die eine extrem hohe Öffnungsrate erzielen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für maximale Performance)
 

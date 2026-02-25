@@ -44,7 +44,7 @@ Sin embargo, la historia cambia si utilizamos un modelo de IA con capacidades av
 > **(Después de subir la foto)**
 > **Solicitud:** Analiza mi color personal (Primavera/Verano/Otoño/Invierno) basándote en el tono de piel, color de cabello y color de ojos de la persona en la foto adjunta. Explica detalladamente las características visuales que justifican tu conclusión.
 
-<br>
+\
 
 ### 🥇 Pro Version (Consultoría de estilo personalizada)
 

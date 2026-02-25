@@ -42,7 +42,7 @@ Use this when you need a quick, no-frills summary of a brief discussion.
 >
 > **Transcript:** `[Paste transcript here]`
 
-<br>
+\
 
 ### 🥇 Pro Version
 

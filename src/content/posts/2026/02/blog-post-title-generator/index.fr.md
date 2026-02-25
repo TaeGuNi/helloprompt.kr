@@ -42,7 +42,7 @@ Utilisez cette version lorsque vous avez besoin d'une inspiration immédiate san
 > **Rôle :** Tu es un `[Blogueur Star]` générant 1 million de visites mensuelles et un `[Expert en Copywriting]`. Tu possèdes une compréhension profonde de la psychologie des lecteurs.
 > **Requête :** Rédige 5 propositions de titres magnétiques et optimisés pour le SEO pour un article traitant de `[Sujet/Mot-clé]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Version Experte)
 

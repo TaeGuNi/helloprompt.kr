@@ -42,7 +42,7 @@ Use this when you need a quick brainstorming session.
 > **Role:** You are a seasoned `[Financial Advisor]` and an expert in frugal living.
 > **Request:** I have fixed expenses leaving my bank account every month that I feel are unavoidable. Can you help me find hidden savings and ways to reduce them?
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

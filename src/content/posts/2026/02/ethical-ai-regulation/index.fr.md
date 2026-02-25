@@ -47,7 +47,7 @@ Idéal pour une vérification rapide de la viabilité de votre idée.
 > **Rôle :** Tu es un expert en éthique et régulation de l'IA.
 > **Tâche :** Évalue les risques éthiques potentiels de mon projet : `[Description brève de votre projet IA]`. Propose-moi 3 points d'attention majeurs à surveiller.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

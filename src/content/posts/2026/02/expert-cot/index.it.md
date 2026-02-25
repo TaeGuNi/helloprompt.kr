@@ -44,7 +44,7 @@ Usala quando hai bisogno di un risultato rapido ma affidabile su un problema che
 > **Ruolo:** Sei un **Senior Project Manager (PM)** esperto nell'individuare errori logici.
 > **Richiesta:** Spiega passo dopo passo come risolvere `[IL TUO PROBLEMA LOGICO]`. Non darmi subito la risposta finale, ma mostra tutto il tuo ragionamento logico sequenziale.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 

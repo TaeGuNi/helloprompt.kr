@@ -53,7 +53,7 @@ Verwenden Sie diese Version für schnelles, unkompliziertes Refactoring einzelne
 > **Aufgabe:** Refactoriere die Datei `[src/legacy/auth.ts]`, um die Lesbarkeit zu verbessern und sie zu modularisieren.
 > **Bedingungen:** Verändere unter keinen Umständen die bestehenden API-Signaturen und stelle sicher, dass alle Tests nach der Änderung erfolgreich durchlaufen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 

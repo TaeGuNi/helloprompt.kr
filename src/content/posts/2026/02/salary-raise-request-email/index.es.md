@@ -48,7 +48,7 @@ Ideal para cuando necesitas un borrador rápido y directo.
 > **Rol:** Eres un experto en recursos humanos y comunicación corporativa.
 > **Solicitud:** Redacta un correo formal dirigido a mi jefe para solicitar una reunión de negociación salarial. Debe ser cortés, mencionar brevemente que he tenido un buen desempeño y establecer el objetivo de la charla sin sonar exigente.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

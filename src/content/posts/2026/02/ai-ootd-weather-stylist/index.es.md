@@ -46,7 +46,7 @@ Con este prompt, convertirás a la IA en tu estilista personal. Ya no tendrás q
 > **Clima de hoy:** `[Temperatura actual, por ejemplo: 12°C, nublado]`.
 > **Ocasión:** `[Ej: Ir a la oficina, estilo casual]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

@@ -44,7 +44,7 @@ Pour une correction express sans fioritures lorsque vous êtes pressé par le te
 > **Code :** `[Collez votre code ici]`
 > **Erreur :** `[Collez le message d'erreur ici]`
 
-<br>
+\
 
 ### 🥇 Version Pro (Expertise & Mentorat)
 

@@ -42,7 +42,7 @@ Use esta versão quando precisar apenas de uma lista rápida e direta para ter u
 > **Papel:** Você é um Viajante Profissional que já rodou o mundo e um verdadeiro Mestre em Arrumar Malas.
 > **Solicitação:** Crie uma checklist de viagem impecável considerando o clima local, a cultura e as atividades do meu destino: `[Seu Destino]`.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Especialista)
 

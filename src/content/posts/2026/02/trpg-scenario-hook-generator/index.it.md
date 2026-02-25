@@ -42,7 +42,7 @@ Usala quando il tempo stringe e hai bisogno di un'idea lampo da sviluppare sul m
 > **Ruolo:** Sei un Game Master esperto nella narrazione di Giochi di Ruolo da tavolo.
 > **Richiesta:** Ho una sessione tra poco e nessuna preparazione. Crea 3 ganci narrativi d'impatto e immediati (Azione, Mistero, Interazione Sociale) per far iniziare subito l'avventura ai miei giocatori.
 
-<br>
+\
 
 ### 🥇 Pro Version (Avanzata)
 

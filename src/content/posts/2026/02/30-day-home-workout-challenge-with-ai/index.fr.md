@@ -50,7 +50,7 @@ Idéal pour obtenir une routine rapidement sans se casser la tête.
 >
 > **Requête :** Je veux me remettre en forme chez moi, sans aucun équipement. Conçois-moi une routine d'entraînement de 30 jours, avec des exercices qui changent chaque jour pour ne pas m'ennuyer.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 

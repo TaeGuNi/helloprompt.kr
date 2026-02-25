@@ -42,7 +42,7 @@ Ideale quando hai un disperato bisogno di un'idea immediata e non hai tempo di s
 > **Ruolo:** Sei un esperto nutrizionista e un buongustaio esigente.
 > **Richiesta:** Ho una voglia improvvisa di qualcosa di dolce e croccante ma non voglio rovinare la dieta. Consigliami 3 snack sani, veloci e davvero gustosi.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 
@@ -102,7 +102,7 @@ La fame emotiva o la classica "crisi delle 15:00" spesso non si combattono con l
 
 ### ❌ Prima (Input Semplice)
 
-> "Quali snack non fanno ingrassare?"
+"Quali snack non fanno ingrassare?"
 
 **(Risultato Tipico dell'IA):** "Mandorle (massimo 10), un uovo sodo, bastoncini di carota cruda, uno yogurt magro non zuccherato." _(Molto noioso, non risolve minimamente la voglia di cibo spazzatura)._
 

@@ -10,7 +10,7 @@ cover: "./cover.png"
 
 - **🎯 Público-alvo:** Desenvolvedores Web, Engenheiros de Software, Entusiastas de GameDev e Retro
 - **⏱️ Tempo economizado:** Horas de análise manual de código → 5 minutos
-- **🤖 Modelo recomendado:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 Modelo recomendado:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **Dificuldade:** ⭐⭐⭐☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -41,7 +41,7 @@ Ideal para obter uma visão geral e rápida do repositório.
 > **Função:** Você é um Engenheiro de Software Sênior especializado em WebAssembly e WebGL.
 > **Tarefa:** Analise o código-fonte do port do jogo `[Descent]` para a web. Resuma a arquitetura principal, focando em como a ponte entre o código original (compilado para WASM) e a renderização em Three.js foi implementada.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Profissional)
 

@@ -49,7 +49,7 @@ Use esta versão para ter ideias rápidas e simples para implementar agora mesmo
 > **Papel:** Você é um especialista em educação infantil e gamificação.
 > **Solicitação:** Crie um passo a passo simples e divertido para ajudar meu filho a se arrumar sozinho para a escola, sem que eu precise gritar ou apressá-lo.
 
-<br>
+\
 
 ### 🥇 Versão Especialista (Pro Version)
 

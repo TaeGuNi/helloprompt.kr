@@ -42,7 +42,7 @@ Usala quando hai bisogno di una bozza rapida e concisa da cui partire.
 > **Ruolo:** Sei un Coach di Leadership esperto.
 > **Richiesta:** Scrivi una breve valutazione delle prestazioni per un dipendente che lavora bene ma è spesso in ritardo. Il tono deve essere incoraggiante ma fermo sulla necessità di migliorare la puntualità.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperta)
 

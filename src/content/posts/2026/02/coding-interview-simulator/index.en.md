@@ -42,7 +42,7 @@ Use this when you need a quick, high-level review of your code after solving a p
 > **Role:** You are a `[Senior Software Engineer at a FAANG company]`.
 > **Request:** I have just written the solution for `[Algorithm Problem]`. Review my code, analyze its complexity, and ask me one technical interview follow-up question.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 
@@ -87,7 +87,7 @@ This prompt simulates the "sweaty palms" environment of a real interview. By rep
 ## 🙋 Frequently Asked Questions (FAQ)
 
 - **Q: Does this work well with the free version of ChatGPT?**
-  - A: Yes, GPT-3.5 or the free tier of Claude can handle the basic review. However, for deep architectural insights and nuanced follow-up questions, using advanced reasoning models like GPT-4o, Claude 3.5 Sonnet, or Gemini 1.5 Pro is highly recommended.
+  - A: Yes, GPT-3.5 or the free tier of Claude can handle the basic review. However, for deep architectural insights and nuanced follow-up questions, using advanced reasoning models like GPT-4o, Claude 3.5 Sonnet, or Gemini 2.5 Pro is highly recommended.
 
 - **Q: What if the AI gives me the wrong time complexity?**
   - A: AI can sometimes hallucinate Big-O notations on highly complex recursive functions or obscure dynamic programming solutions. Always double-check the mathematical logic yourself. The primary value here is the _interaction_ and the follow-up questions it generates to test your fundamental understanding.

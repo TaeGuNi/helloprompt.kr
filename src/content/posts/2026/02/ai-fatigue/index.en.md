@@ -44,7 +44,7 @@ Use this for a quick, surface-level check when you see a tool trending on social
 >
 > **Task:** Tell me if I actually need to use `[Name of AI Tool]`. My current job is `[Your Job Title]` and my biggest daily bottleneck is `[Your Biggest Problem]`. Be brutally honest about whether this tool solves my specific problem or if it is just a distraction.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

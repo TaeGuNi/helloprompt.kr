@@ -42,7 +42,7 @@ Use isto quando precisar de um conselho rápido para se acalmar.
 > **Papel:** Você é um psicoterapeuta especializado em neurociência.
 > **Pedido:** Estou muito estressado agora. Quais são algumas técnicas cientificamente comprovadas, além de comer compulsivamente, para aliviar o estresse imediatamente?
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 
@@ -118,7 +118,7 @@ Delegar essa função executiva à IA nos ajuda a quebrar o ciclo de raiva. Em v
 
 ---
 
-## 🎯 결론 (Conclusão)
+## 🎯 Conclusion (Conclusão)
 
 O estresse engolido a seco se transforma em doença física, mas quando dissipado de forma correta e analítica, torna-se apenas mais um obstáculo superado na sua carreira.
 

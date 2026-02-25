@@ -13,7 +13,7 @@ tags: ["가드닝", "식집사", "반려식물", "플랜테리어"]
 
 - **🎯 Público-Alvo:** "Assassinos em série" de plantas que conseguem secar até cactos, iniciantes em *planterior* (paisagismo interno) e pessoas que moram sozinhas e sonham com uma horta na varanda.
 - **⏱️ Tempo Estimado:** 5 minutos (Análise e diagnóstico do ambiente concluídos)
-- **🤖 Modelo Recomendado:** GPT-4o, Gemini 1.5 Pro (Modelos de visão são essenciais para detectar mudanças sutis nas fotos das plantas)
+- **🤖 Modelo Recomendado:** GPT-4o, Gemini 2.5 Pro (Modelos de visão são essenciais para detectar mudanças sutis nas fotos das plantas)
 
 - ⭐ **Dificuldade:** ⭐☆☆☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -40,20 +40,20 @@ Você já se sentiu culpado por comprar uma planta linda e vê-la murchar em ape
 Use isso quando quiser encontrar a planta perfeita para o seu espaço e estilo de vida.
 
 > **Função:** Você é um `[Designer Chefe de Paisagismo Interno (Planterior)]` com excelente conhecimento botânico e senso de design de interiores.
-> 
-> **Tarefa:**
-> Analise meu ambiente residencial e estilo de vida abaixo e recomende 3 plantas que absolutamente não morrerão e deixarão meu espaço lindo.
-> 
-> **Meu Ambiente:**
-> - Tipo de Residência: Varanda de apartamento (perto da janela da sala de estar estendida).
-> - Condições de Luz: Sudeste (luz solar direta das 9h às 13h).
-> - Ventilação: Pouca ventilação cruzada, as janelas ficam abertas menos de 1 hora por dia.
-> - Meu Estilo de Vida: Profissional ocupado (esqueço de regar com frequência; só consigo cuidar a cada 2 semanas no máximo).
-> 
-> **Formato de Saída:**
-> Inclua para cada planta: 'Motivo da Recomendação', 'Significado da Planta', 'Nível de Dificuldade da Rega' e 'Dicas de Decoração de Interiores'.
 
-<br>
+> **Tarefa:**
+Analise meu ambiente residencial e estilo de vida abaixo e recomende 3 plantas que absolutamente não morrerão e deixarão meu espaço lindo.
+
+> **Meu Ambiente:**
+- Tipo de Residência: Varanda de apartamento (perto da janela da sala de estar estendida).
+- Condições de Luz: Sudeste (luz solar direta das 9h às 13h).
+- Ventilação: Pouca ventilação cruzada, as janelas ficam abertas menos de 1 hora por dia.
+- Meu Estilo de Vida: Profissional ocupado (esqueço de regar com frequência; só consigo cuidar a cada 2 semanas no máximo).
+
+> **Formato de Saída:**
+Inclua para cada planta: 'Motivo da Recomendação', 'Significado da Planta', 'Nível de Dificuldade da Rega' e 'Dicas de Decoração de Interiores'.
+
+\
 
 ### 🥇 Versão Pro (Diagnóstico de Emergência e Solução de Recuperação)
 

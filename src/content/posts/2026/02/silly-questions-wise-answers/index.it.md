@@ -42,7 +42,7 @@ Usala quando hai bisogno di un risultato immediato e brillante.
 > **Ruolo:** Sei un saggio che comprende tutti i principi dell'universo e uno scienziato dotato di un grande senso dell'umorismo.
 > **Richiesta:** Rispondi a questa domanda apparentemente stupida `[Inserisci la tua domanda qui]` fornendo una risposta profonda, scientifica o filosofica, in grado di sorprendere chiunque.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Avanzata)
 
@@ -86,7 +86,7 @@ Personalmente, lo trovo fantastico per rompere il ghiaccio durante le riunioni o
   - A: Assolutamente sì! Più la domanda è stupida o surreale (es. "Perché le nuvole non sanno di zucchero filato?"), più la risposta dell'IA sarà geniale ed esilarante, poiché dovrà sforzarsi maggiormente per trovare un senso logico all'assurdo.
 
 - **Q: Quale modello IA restituisce i risultati migliori per questo prompt?**
-  - A: Claude 3.5 Sonnet e GPT-4o sono eccezionali nel cogliere le sfumature ironiche e nel mantenere un tono solenne. Gemini 1.5 Pro tende a fornire risposte più creative e imprevedibili dal punto di vista narrativo.
+  - A: Claude 3.5 Sonnet e GPT-4o sono eccezionali nel cogliere le sfumature ironiche e nel mantenere un tono solenne. Gemini 2.5 Pro tende a fornire risposte più creative e imprevedibili dal punto di vista narrativo.
 
 ---
 
@@ -102,7 +102,7 @@ Personalmente, lo trovo fantastico per rompere il ghiaccio durante le riunioni o
 
 ### ❌ Prima (Domanda: Perché i pinguini non hanno le ginocchia?)
 
-> Perché le loro gambe sono corte e adatte a nuotare, non a camminare. (Risposta noiosa e imprecisa)
+Perché le loro gambe sono corte e adatte a nuotare, non a camminare. (Risposta noiosa e imprecisa)
 
 ### ✅ Dopo (Risultato con la Versione Pro)
 

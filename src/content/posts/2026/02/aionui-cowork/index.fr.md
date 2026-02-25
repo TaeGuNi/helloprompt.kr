@@ -44,7 +44,7 @@ Lancer simplement l'interface utilisateur ne suffit pas. Vous avez besoin d'un p
 > **Rôle :** Tu es un `[développeur senior]`.
 > **Tâche :** Résous ce `[fonctionnalité/bug spécifique]` dans le projet actuel. Avant de commencer, tu dois impérativement m'expliquer quels fichiers tu prévois de modifier, et afficher les changements étape par étape afin qu'ils soient faciles à vérifier visuellement dans AionUi.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 
@@ -107,7 +107,7 @@ Cependant, en **obligeant l'agent à planifier, visualiser et rapporter ses éta
 ### ❌ Avant (Environnement CLI classique)
 
 ```text
-> Exécution de l'agent en cours...
+Exécution de l'agent en cours...
 [Log] Recherche du fichier : src/utils/api.ts
 [Log] Modification du code en cours...
 [Log] Terminé. (Mais qu'est-ce qu'il a changé au juste... ?)

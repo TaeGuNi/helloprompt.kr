@@ -42,7 +42,7 @@ Nutze diese Version, wenn du schnell hochwertige Voiceover-Ergebnisse benötigst
 > **Rolle:** Du bist ein `[professioneller Audio Director]`.
 > **Aufgabe:** Ich werde dir ein `[Skript]` geben. Erkläre mir, wie ich dafür eine ruhige, vertrauenerweckende weibliche Stimme (passend für eine Dokumentation) einstelle und wie der Download-Prozess der Audiodatei funktioniert.
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Experten)
 

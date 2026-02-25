@@ -42,7 +42,7 @@ Nutzen Sie diese Variante, wenn Sie schnell und unkompliziert ein Ergebnis benö
 > **Rolle:** Du bist ein `[Mnemonik-Genie und humorvoller Autor]`.
 > **Anfrage:** Erstelle mir eine leicht zu merkende, humorvolle Eselsbrücke für die folgende Formel: `[Formel eingeben]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

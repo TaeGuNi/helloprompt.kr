@@ -12,7 +12,7 @@ tags: ["Kubernetes", "Edge Computing", "DevOps"]
 
 - **🎯 Recomendado para:** Engenheiros DevOps, SREs e Arquitetos de Nuvem
 - **⏱️ Tempo Gasto:** 3 horas de pesquisa → 2 minutos
-- **🤖 Modelos Recomendados:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Modelos Recomendados:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Dificuldade:** ⭐⭐⭐⭐☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -41,7 +41,7 @@ Utilize para obter um rascunho rápido da arquitetura e instalação.
 > **Role:** Você é um Engenheiro DevOps Sênior especialista em Edge Computing.
 > **Task:** Crie um plano de arquitetura resumido para implantar Kubernetes (K3s) em `[Número]` dispositivos de borda com `[Especificações de Hardware]`, incluindo a estratégia básica de atualização via GitOps.
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro)
 

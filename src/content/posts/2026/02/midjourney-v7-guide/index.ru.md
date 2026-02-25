@@ -41,11 +41,11 @@ tags: ["미드저니", "Midjourney", "AI그림", "프롬프트", "디자인"]
 
 > **Роль (Role):** Ты — графический дизайнер мирового уровня.
 > **Задача (Task):** Создай постер в стиле киберпанк с чётко отрендеренным текстом, используя следующий промпт.
-> 
-> **Промпт (Prompt):** 
-> `a cinematic cyberpunk neon poster with clear typography text "HELLO 2026", futuristic glowing city background, hyper-detailed --ar 2:3 --v 7.0 --style raw`
 
-<br>
+> **Промпт (Prompt):** 
+`a cinematic cyberpunk neon poster with clear typography text "HELLO 2026", futuristic glowing city background, hyper-detailed --ar 2:3 --v 7.0 --style raw`
+
+\
 
 ### 🥇 PRO-версия (Сохранение согласованности персонажа)
 

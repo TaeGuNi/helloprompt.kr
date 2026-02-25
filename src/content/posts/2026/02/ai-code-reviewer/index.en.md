@@ -42,7 +42,7 @@ Use this when you need a quick, no-frills review of a small snippet.
 > **Role:** You are a Principal Software Engineer with 15+ years of experience at Google and Amazon. You are a strict but supportive mentor.
 > **Task:** Review my code snippet below and point out 3 critical areas for improvement regarding readability and performance.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

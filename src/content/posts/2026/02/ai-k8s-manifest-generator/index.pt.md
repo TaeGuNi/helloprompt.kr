@@ -52,7 +52,7 @@ Utilize para testes locais ou quando precisar subir um Pod rapidamente.
 >
 > **Constraints (Restrições):** Separe o Deployment e o Service com `---` para criar um único arquivo.
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 

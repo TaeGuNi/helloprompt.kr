@@ -48,7 +48,7 @@ Idéal pour obtenir une évaluation rapide et directe.
 > **Rôle :** Tu es un `[conseiller en psychologie de l'investissement]` expert en économie comportementale.
 > **Requête :** Fini les questionnaires bancaires ennuyeux. Pose-moi des questions de mise en situation pour déterminer ma véritable tolérance au risque en matière d'investissement.
 
-<br>
+\
 
 ### 🥇 Version Experte (Pro Version)
 

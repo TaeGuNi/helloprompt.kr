@@ -42,7 +42,7 @@ image: "/images/posts/unsloth.png"
 > **역할:** 너는 LLM 최적화 및 파인튜닝 전문가야.
 > **요청:** `[Llama-3-8B]` 모델을 `[Alpaca]` 데이터셋으로 파인튜닝하기 위한 Unsloth 기반의 Python 코드를 작성해 줘. 16GB VRAM GPU 환경에서 실행할 거야.
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 

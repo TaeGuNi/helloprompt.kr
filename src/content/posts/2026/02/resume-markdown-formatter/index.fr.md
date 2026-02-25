@@ -42,7 +42,7 @@ Utilisez cette version pour obtenir un résultat rapide sans instructions comple
 > **Rôle :** Tu es un expert en mise en page de documents et un maître du Markdown.
 > **Demande :** Convertis le brouillon de CV ci-dessous en un format Markdown propre et bien structuré pour faciliter sa conversion en PDF ou son intégration dans Notion.
 
-<br>
+\
 
 ### 🥇 Version Pro (Pro Version)
 

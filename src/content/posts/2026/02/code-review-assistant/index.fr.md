@@ -42,12 +42,12 @@ Utilisez cette version lorsque vous souhaitez un scan rapide pour détecter uniq
 
 > **Rôle :** Tu es un développeur Senior Backend/Frontend avec 10 ans d'expérience.
 > **Tâche :** Cherche des bugs critiques ou des anti-patterns (mauvaises pratiques) qui doivent être corrigés immédiatement dans le code ci-dessous.
->
-> ```plaintext
-> [Collez votre code ici]
-> ```
 
-<br>
+```plaintext
+[Collez votre code ici]
+```
+
+\
 
 ### 🥇 Version Pro (Expert)
 

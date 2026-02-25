@@ -44,7 +44,7 @@ tags: [Github, Documentation, OpenSource, Branding, AI]
 > **Роль:** Ты `[Senior Technical Writer]`.
 > **Задача:** Опираясь на `[Структуру файлов]` моего проекта и `[Основной стек технологий]`, напиши аккуратный черновик README.md в формате Markdown.
 
-<br>
+\
 
 ### 🥇 Продвинутая версия (Pro)
 

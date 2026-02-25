@@ -39,7 +39,7 @@ Usalo quando hai bisogno di un miglioramento logico immediato senza dover prepar
 > **Richiesta:** Ho un team di 5 persone. Due lavorano part-time (20 ore a settimana), tre a tempo pieno (40 ore a settimana). Dobbiamo completare un progetto di 300 ore in due settimane. Ce la faremo?
 > **Condizione Cruciale:** Pensiamo passo dopo passo e mostrami i calcoli dettagliati.
 
-<br>
+\
 
 ### 🥇 Pro Version (Few-Shot CoT)
 

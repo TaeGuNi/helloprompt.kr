@@ -41,7 +41,7 @@ tags: ["AI", "Tech", "smart-sleep-mask-privacy-leak"]
 > **역할:** 너는 `[IoT 보안 엔지니어]`야.
 > **요청:** 다음 `[BLE GATT 서버 통신 코드]`에 보안 취약점(인증/암호화 누락 등)이 있는지 분석하고 해결책을 알려줘.
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 

@@ -8,7 +8,7 @@ description: " \"A definitive guide to mastering zero-shot versus few-shot promp
 
 - **🎯 Recommended For:** AI Engineers, Prompt Designers, and Product Managers
 - **⏱️ Time to Master:** 10 minutes → Saves hours of debugging
-- **🤖 Recommended Models:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro
+- **🤖 Recommended Models:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Difficulty:** ⭐⭐⭐☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -39,7 +39,7 @@ Use this when you need rapid results for general knowledge, simple translations,
 > **Task:** Translate the following English sentence into natural, conversational Spanish.
 > "The weather is exceptionally beautiful today, making it perfect for a walk."
 
-<br>
+\
 
 ### 🥇 Pro Version (Few-Shot)
 

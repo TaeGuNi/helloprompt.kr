@@ -9,7 +9,7 @@ tags: ["storage", "hardware", "data"]
 
 - **🎯 Zielgruppe:** Infrastruktur-Ingenieure, Rechenzentrumsmanager, KI-Lösungsarchitekten
 - **⏱️ Zeitaufwand:** 2 Stunden → Reduziert auf 3 Minuten
-- **🤖 Empfohlenes Modell:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (Spezialisiert auf Datenanalyse und Berichterstellung)
+- **🤖 Empfohlenes Modell:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (Spezialisiert auf Datenanalyse und Berichterstellung)
 
 - ⭐ **Schwierigkeitsgrad:** ⭐⭐⭐☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -40,7 +40,7 @@ Nutzen Sie diese Version, wenn Sie schnell zusammengefasste Statistiken zu besti
 > **Rolle:** Du bist ein Senior Data Center Infrastructure Engineer und Speicherexperte.
 > **Aufgabe:** Empfehle basierend auf den Backblaze-Statistiken zu Laufwerksausfallraten von 2025 zwei HDD-Modelle mit hoher Kapazität (20 TB oder mehr), die für große Data Lakes für KI-Training geeignet sind, und begründe deine Auswahl.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 

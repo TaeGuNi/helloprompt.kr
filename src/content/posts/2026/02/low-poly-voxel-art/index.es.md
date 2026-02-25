@@ -42,7 +42,7 @@ El **Low Poly** es un estilo de arte 3D que se caracteriza por reducir intencion
 > **Rol:** Eres un experto en arte digital 3D.
 > **Solicitud:** Crea un prompt detallado para generar una imagen en estilo `[Low poly / Voxel]` de `[Sujeto, ej. un zorro sentado en el bosque]`. La estética debe ser puramente geométrica, minimalista y con una paleta de colores agradable.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

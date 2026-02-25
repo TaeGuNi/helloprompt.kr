@@ -43,7 +43,7 @@ Nutzen Sie diesen Prompt für eine schnelle, unkomplizierte Nährwertschätzung.
 >
 > **Aufgabe:** Ich habe gerade `[1 Portion scharf gebratenes Schweinefleisch mit Reis und eine Tasse Kaffee]` gegessen. Analysiere die geschätzten Kalorien sowie die Aufteilung von Kohlenhydraten, Proteinen und Fetten in Gramm. Stelle das Ergebnis in einer übersichtlichen Tabelle dar.
 
-<br>
+\
 
 ### 🥇 Pro Version (Experte)
 
@@ -106,7 +106,7 @@ Besonders wertvoll an diesem Prompt ist die **automatische Empfehlungsfunktion f
 
 ### ❌ Before (Einfache Eingabe)
 
-> "Wie viele Kalorien hat eine Portion scharf gebratenes Schweinefleisch mit Reis?"
+"Wie viele Kalorien hat eine Portion scharf gebratenes Schweinefleisch mit Reis?"
 
 **(Ergebnis der KI):** _Das hängt von der genauen Menge ab, aber scharf gebratenes Schweinefleisch mit Reis hat durchschnittlich etwa 600 bis 800 Kalorien._ (-> Liefert keine Makronährstoffe und hilft nicht bei der Tagesplanung)
 

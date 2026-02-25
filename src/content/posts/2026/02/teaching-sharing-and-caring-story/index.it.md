@@ -43,7 +43,7 @@ Usala quando hai bisogno di una favola rapida in pochi secondi.
 > **Ruolo:** Sei un autore esperto di favole educative per l'infanzia.
 > **Richiesta:** Scrivi una breve fiaba che insegni il valore della condivisione a un bambino che non vuole prestare i suoi giochi.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

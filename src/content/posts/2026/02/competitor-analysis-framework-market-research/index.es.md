@@ -42,7 +42,7 @@ Ideal para cuando necesitas una visión general en un abrir y cerrar de ojos.
 > **Rol:** Eres un Analista de Investigación de Mercado Senior.
 > **Solicitud:** Analiza brevemente las fortalezas y debilidades de `[Nombre del Competidor]` y compáralo con `[Mi Empresa]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

@@ -42,7 +42,7 @@ Utilizzala quando ti serve solo una rapida panoramica per capire se i risultati 
 > **Ruolo:** Sei uno `[Stratega di Investimento Professionale]` di un hedge fund di Wall Street.
 > **Richiesta:** Ti fornirò la trascrizione di una Earnings Call. Poiché è troppo lunga ed in inglese, estraine solo il nucleo fondamentale, le sorprese sugli utili e la guidance futura traducendoli in italiano.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Esperto)
 
@@ -87,7 +87,7 @@ Questo prompt è letteralmente un'arma letale durante la stagione degli utili. I
   - A: Piattaforme web come _Seeking Alpha_, _Motley Fool_ o app come _Quartr_ pubblicano le trascrizioni quasi in tempo reale subito dopo le chiamate. Puoi anche trovarle nella sezione "Investor Relations" (IR) sul sito web dell'azienda stessa.
 
 - **Q: La versione gratuita di ChatGPT è sufficiente per analizzare un intero script?**
-  - A: Dipende. Le trascrizioni delle chiamate sugli utili spesso superano le 10.000 parole. I modelli gratuiti o con finestre di contesto limitate potrebbero tagliare il testo, bloccarsi, o "dimenticare" le prime pagine. Ti raccomando vivamente di usare Claude 3.5 Sonnet, ChatGPT Plus (GPT-4o) o Gemini 1.5 Pro, nati appositamente per elaborare testi massicci.
+  - A: Dipende. Le trascrizioni delle chiamate sugli utili spesso superano le 10.000 parole. I modelli gratuiti o con finestre di contesto limitate potrebbero tagliare il testo, bloccarsi, o "dimenticare" le prime pagine. Ti raccomando vivamente di usare Claude 3.5 Sonnet, ChatGPT Plus (GPT-4o) o Gemini 2.5 Pro, nati appositamente per elaborare testi massicci.
 
 - **Q: Posso usare questo prompt anche per le azioni europee o asiatiche?**
   - A: Assolutamente sì! Finché disponi di un report ufficiale, di una presentazione dei risultati o di una trascrizione della chiamata (anche in lingue diverse, come francese o tedesco), l'IA applicherà la medesima logica di estrazione spietata e ti restituirà l'output tradotto in un italiano impeccabile.

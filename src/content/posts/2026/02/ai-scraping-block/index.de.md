@@ -41,7 +41,7 @@ Nutzen Sie diese Version für eine schnelle, unkomplizierte Überprüfung einer 
 > **Rolle:** Du bist ein erfahrener Data Engineer.
 > **Aufgabe:** Analysiere den folgenden Inhalt einer `robots.txt`-Datei und sag mir präzise, ob KI-Crawler blockiert werden: `[robots.txt Inhalt einfügen]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Experten-Level)
 

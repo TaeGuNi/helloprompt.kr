@@ -39,7 +39,7 @@ For a quick local inference script.
 > **Role:** You are an expert Apple Silicon AI Engineer.
 > **Task:** Write a Python script using Apple's `mlx` framework to load a Hugging Face `[Model Name]` and run basic text generation on an M6 chip.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

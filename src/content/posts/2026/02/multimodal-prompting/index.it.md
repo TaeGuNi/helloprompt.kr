@@ -39,7 +39,7 @@ Perfetto per correzioni rapide di interfacce o per spiegare layout visivi senza 
 > **Ruolo:** Sei un `[Sviluppatore Front-end Senior]`.
 > **Azione:** Analizza l'immagine allegata. Ho evidenziato con un cerchio rosso un elemento specifico dell'interfaccia. `[Aggiorna il codice CSS per rendere quell'elemento più moderno e perfettamente allineato al centro]`. Restituisci solo il codice aggiornato.
 
-<br>
+\
 
 ### 🥇 Pro Version (L'Orchestratore di Contenuti)
 

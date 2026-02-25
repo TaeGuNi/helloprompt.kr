@@ -42,7 +42,7 @@ Use esta versão quando quiser apenas obter ideias de cardápio rapidamente.
 > **Role (Papel):** Você é um chef criativo.
 > **Task (Tarefa):** Na minha geladeira tenho `[2 ovos, 1 fatia de pão de forma, tomate cereja]`. Recomende apenas 3 opções de café da manhã que eu possa preparar em até 15 minutos usando esses ingredientes.
 
-<br>
+\
 
 ### 🥇 Versão Profissional (Pro Version)
 

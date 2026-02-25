@@ -11,7 +11,7 @@ image: "/images/2026/02/16/self-healing-code.jpg"
 
 - **🎯 Empfohlen für:** Entwickler, Data Engineers, Führungskräfte, die KI-Agenten evaluieren
 - **⏱️ Zeitaufwand:** Endloses Debugging → 0 Minuten durch Automatisierung
-- **🤖 Empfohlene Modelle:** GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro (Code-spezifische Modelle)
+- **🤖 Empfohlene Modelle:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro (Code-spezifische Modelle)
 
 - ⭐ **Schwierigkeitsgrad:** ⭐⭐⭐⭐☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -44,7 +44,7 @@ Nutzen Sie dies für die schnelle Behebung von simplen Fehlern.
 > **Rolle:** Du bist ein `[Senior Python Entwickler]`.
 > **Aufgabe:** Behebe den Bug im `[Originalcode]` basierend auf der folgenden `[Fehlermeldung]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

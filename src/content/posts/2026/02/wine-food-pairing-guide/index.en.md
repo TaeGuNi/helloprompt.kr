@@ -48,7 +48,7 @@ Use this quick prompt when your dinner menu is locked in, and you need to grab a
 > 2. Select widely available, crowd-pleasing varietals that are approachable for wine beginners.
 > 3. Explain exactly _why_ each wine pairs beautifully with the food in one concise, compelling sentence.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

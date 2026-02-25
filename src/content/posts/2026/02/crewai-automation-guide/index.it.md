@@ -48,7 +48,7 @@ Ideale per impostare la struttura di base di una pipeline di raccolta e sintesi 
 > 
 > Configura il processo come `Sequential` affinché i due agenti operino in ordine logico, e completa il codice.
 
-<br>
+\
 
 ### 🥇 Pro Version (Report di Analisi Azionaria)
 

@@ -19,7 +19,7 @@ title: " \"Generative UI: O Futuro das Interfaces Sem Cliques\""
 
 - **🎯 Recomendado para:** Product Designers, Desenvolvedores Front-end, Product Managers
 - **⏱️ Tempo necessário:** 1 hora → 3 minutos
-- **🤖 Modelo recomendado:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 Modelo recomendado:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **Dificuldade:** ⭐⭐⭐☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -52,7 +52,7 @@ Ideal para quando você precisa obter apenas uma estrutura rápida e validar uma
 > **Role:** Você é um `[Product Designer Sênior]`.
 > **Task:** Descreva a estrutura de layout para um componente de UI mobile que exiba um `[roteiro de viagem para o fim de semana]`. Inclua também sugestões de classes do Tailwind CSS.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

@@ -44,7 +44,7 @@ Quando você precisa de títulos altamente magnéticos e está sem tempo.
 > **Tarefa:** Gere 10 títulos com altíssimo CTR (Taxa de Clique) para o meu novo vídeo.
 > **Tópico:** `[Seu Tópico do Vídeo]`
 
-<br>
+\
 
 ### 🥇 Versão Pro (Estratégia Completa de Título e Miniatura)
 

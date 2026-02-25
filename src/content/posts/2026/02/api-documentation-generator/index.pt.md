@@ -44,7 +44,7 @@ Use quando precisar de um rascunho rápido para alinhar com a equipe.
 > **Solicitação:** Leia o código de API abaixo e crie uma documentação clara em Markdown, incluindo método, endpoint, parâmetros e um exemplo de resposta JSON.
 > **Código:** `[Cole seu código aqui]`
 
-<br>
+\
 
 ### 🥇 Versão Pro (Pro Version)
 

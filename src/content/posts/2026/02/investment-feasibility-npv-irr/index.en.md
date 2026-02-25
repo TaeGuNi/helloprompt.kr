@@ -42,7 +42,7 @@ Use this when you just need a quick formula and explanation.
 > **Role:** You are a `[Financial Modeling Expert]`.
 > **Task:** Explain how to calculate the Net Present Value (NPV) and Internal Rate of Return (IRR)—the key indicators for investment decisions—using Excel. Make it easy to understand for beginners.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Quality)
 

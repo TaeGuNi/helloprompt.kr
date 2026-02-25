@@ -42,10 +42,10 @@ Oubliez l'attente interminable sur les forums de jardinage ou les groupes en lig
 Idéal pour identifier la cause d'un symptôme en urgence.
 
 > **(Téléchargez la photo de la partie malade de la plante)**
->
+
 > **Requête :** Le bout des feuilles de la Monstera sur cette photo devient brun et sec. Manque-t-elle d'eau ou, au contraire, est-elle trop arrosée ? Dis-moi brièvement s'il s'agit d'une maladie, quelle en est la cause et comment y remédier.
 
-<br>
+\
 
 ### 🥇 Version Pro (Solution de sauvetage experte)
 
@@ -100,7 +100,7 @@ En utilisant ce prompt, l'IA ne se contentera pas de vous dire de "réduire l'ar
 
 ### ❌ Avant (Au doigt mouillé)
 
-> "Oh, les feuilles sont flétries ? Elle doit avoir soif." (Vous versez une énorme quantité d'eau ➡️ Les racines déjà en train de pourrir se décomposent complètement ➡️ Mort cérébrale de la plante ⚰️)
+"Oh, les feuilles sont flétries ? Elle doit avoir soif." (Vous versez une énorme quantité d'eau ➡️ Les racines déjà en train de pourrir se décomposent complètement ➡️ Mort cérébrale de la plante ⚰️)
 
 ### ✅ Après (Le diagnostic objectif de l'IA)
 

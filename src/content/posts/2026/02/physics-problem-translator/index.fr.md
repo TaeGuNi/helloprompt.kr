@@ -42,7 +42,7 @@ Idéale lorsque vous souhaitez un éclaircissement immédiat sans trop de détai
 > **Rôle :** Tu es un `[Professeur de Physique et Expert en Résolution de Problèmes]`.
 > **Requête :** Analyse cet énoncé de physique `[Insérer l'énoncé]`, dis-moi quelles sont les variables connues/inconnues et quelle formule je dois utiliser pour le résoudre.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

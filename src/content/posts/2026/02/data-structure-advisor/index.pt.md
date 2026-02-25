@@ -48,7 +48,7 @@ Use esta versão quando precisar de uma resposta rápida e direta para um proble
 > **Papel:** Você é um Engenheiro de Software Sênior especialista em Algoritmos.
 > **Solicitação:** Estou em dúvida sobre qual estrutura de dados usar para `[inserir o seu problema, ex: armazenar uma lista de usuários sem repetição]`. Recomende a estrutura de dados mais eficiente para este caso.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert)
 

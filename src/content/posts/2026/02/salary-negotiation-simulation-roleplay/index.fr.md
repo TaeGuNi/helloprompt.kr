@@ -48,7 +48,7 @@ Utilisez cette version lorsque vous souhaitez un entraînement rapide sans entre
 > **Rôle :** Tu es un responsable RH très pointilleux et conservateur.
 > **Demande :** Simule une situation de négociation salariale tendue avec moi pour trouver les meilleurs arguments et maximiser mon pourcentage d'augmentation.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

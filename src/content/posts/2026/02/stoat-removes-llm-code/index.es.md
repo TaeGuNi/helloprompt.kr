@@ -47,7 +47,7 @@ Con la popularización de las herramientas de codificación basadas en LLMs, la 
 > **Tarea:** Revisa el siguiente código y reescríbelo minimizando drásticamente el número de líneas, manteniendo la funcionalidad 100% idéntica. Elimina sin piedad las abstracciones innecesarias, la lógica duplicada y el código muerto.
 > **Código:** `[Pega aquí el código a refactorizar]`
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 

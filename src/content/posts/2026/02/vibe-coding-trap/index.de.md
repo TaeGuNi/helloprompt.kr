@@ -64,7 +64,7 @@ Nutze diesen Prompt, wenn du bereits geschriebenen Code oder eine Idee überprü
 > [Füge hier dein Code-Snippet für das Review ein]
 > ```
 
-<br>
+\
 
 ### 🥇 Pro Version (Architektur-Inquisitor Prompt)
 
@@ -126,7 +126,7 @@ Vor Kurzem bin ich selbst der süßen Versuchung des "Vibe Coding" erlegen, als 
 
 ### ❌ Before (Das Desaster des Vibe Coding)
 
-> "Schreibe eine React-Komponente, die eine Benutzerliste abruft und filtert."
+"Schreibe eine React-Komponente, die eine Benutzerliste abruft und filtert."
 
 _(Ergebnis: Blindes Copy-Paste ohne Verständnis für State Management oder Re-Rendering-Probleme. Führt zu einem unerklärlichen Memory Leak in der Produktion.)_
 

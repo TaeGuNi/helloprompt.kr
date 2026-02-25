@@ -45,7 +45,7 @@ Ideal para cuando necesitas un icono 3D limpio y moderno al estilo de empresas t
 > **Tarea:** Genera el siguiente prompt en Midjourney.
 > `cute 3d isometric icon of [coffee cup and laptop], pastel background, soft lighting, minimalism, c4d render, high quality --ar 16:9 --v 7.0`
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

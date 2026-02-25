@@ -42,7 +42,7 @@ Usala quando hai bisogno di un inquadramento rapido e immediato.
 > **Ruolo:** Sei uno `[Storico esperto e Specialista in Data Visualization]`.
 > **Richiesta:** Organizza e spiegami le relazioni di causa ed effetto degli eventi riguardanti `[Argomento/Epoca]` in una cronologia chiara.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Esperto)
 

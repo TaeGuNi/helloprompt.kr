@@ -48,7 +48,7 @@ Desde la majestuosa Basílica de San Pedro en el Vaticano hasta el imponente Wat
 > **Rol:** Eres un experto 'Guía de Turismo Cultural y Religioso'.
 > **Solicitud:** Dime el código de vestimenta exacto y qué ropa debo evitar para visitar `[Nombre del lugar sagrado]` en `[Ciudad/País]`.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

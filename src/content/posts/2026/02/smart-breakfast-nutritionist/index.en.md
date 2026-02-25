@@ -42,7 +42,7 @@ Use this when you need a quick menu idea without the details.
 > **Role:** You are a creative chef.
 > **Task:** I have `[2 eggs, 1 slice of bread, cherry tomatoes]` in my fridge. Recommend 3 breakfast menus I can make with these in under 15 minutes.
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -102,7 +102,7 @@ Use this when you just need quick menu ideas without the fuss.
 > **Role:** You are a creative chef.
 > **Task:** I have `[2 eggs, 1 slice of bread, cherry tomatoes]` in my fridge. Recommend exactly 3 breakfast menus I can make with these in under 15 minutes.
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -169,7 +169,7 @@ This prompt goes far beyond standard recipe generators by enforcing strict const
 
 ### ❌ Before (Generic Query)
 
-> "I have eggs, bread, and cherry tomatoes at home. What should I make for breakfast?"
+"I have eggs, bread, and cherry tomatoes at home. What should I make for breakfast?"
 
 *(Typical AI Response: Make French toast or scrambled eggs. Beat the eggs...)* 👉 Lacks nutritional info, has no clear time limit, and provides zero practical structure.
 

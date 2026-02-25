@@ -13,7 +13,7 @@ tags: ["YouTube", "Resumen", "ChatGPT", "Productividad", "Estudio"]
 
 - **🎯 Público objetivo:** Profesionales modernos que no tienen tiempo ni siquiera viendo a velocidad 2x, trabajadores y estudiantes que quieren captar lo esencial sin caer en el clickbait.
 - **⏱️ Tiempo ahorrado:** De 20 minutos de visualización → a solo 10 segundos.
-- **🤖 Modelos recomendados:** ChatGPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro (se requiere capacidad de contexto largo).
+- **🤖 Modelos recomendados:** ChatGPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro (se requiere capacidad de contexto largo).
 
 - ⭐ **Dificultad:** ⭐☆☆☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -44,7 +44,7 @@ Combinando la función de **Transcripción (Subtítulos)** de YouTube con un pro
 > **Rol:** Eres un experto en resumir contenido de forma rápida y precisa.
 > **Tarea:** El siguiente texto es la transcripción de un video de YouTube. Omite cualquier charla innecesaria y resume el tema central y la conclusión más importante en exactamente 3 líneas claras y concisas.
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Pro Version)
 
@@ -93,7 +93,7 @@ Si estás en un ordenador, te recomiendo encarecidamente instalar una extensión
   - R: Recientemente, la tecnología de autogeneración de subtítulos de YouTube ha mejorado muchísimo, por lo que casi todos los videos los tienen. Si por alguna razón no hay transcripción, tendrás que extraer el audio del video y usar una herramienta de reconocimiento de voz (Speech-to-Text) o la API Whisper de OpenAI para generar la transcripción primero.
 
 - **P: ¿La IA se bloqueará si introduzco la transcripción completa de un video de más de 1 hora?**
-  - R: Los modelos más recientes como GPT-4o, Claude 3.5 Sonnet o Gemini 1.5 Pro tienen ventanas de contexto (Context Windows) enormes y pueden procesar fácilmente de 1 a 2 horas de texto. Sin embargo, si utilizas un modelo más antiguo (como GPT-3.5), el texto podría cortarse, por lo que se recomienda dividirlo y resumirlo en dos partes.
+  - R: Los modelos más recientes como GPT-4o, Claude 3.5 Sonnet o Gemini 2.5 Pro tienen ventanas de contexto (Context Windows) enormes y pueden procesar fácilmente de 1 a 2 horas de texto. Sin embargo, si utilizas un modelo más antiguo (como GPT-3.5), el texto podría cortarse, por lo que se recomienda dividirlo y resumirlo en dos partes.
 
 - **P: Las marcas de tiempo (números) se copian junto con el texto. ¿Debo borrarlas antes de enviarlas a la IA?**
   - R: No tienes que borrar absolutamente nada. Pégalo tal cual. De hecho, la IA utiliza inteligentemente esas marcas de tiempo para dividir los capítulos y crear referencias temporales muy útiles.

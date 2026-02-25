@@ -40,7 +40,7 @@ Usala per dividere compiti basici in due fasi logiche, migliorando drasticamente
 >
 > **Step 2:** Utilizzando esclusivamente i dati estratti qui di seguito, scrivi un breve riassunto esecutivo di 3 righe: `[Output dello Step 1]`
 
-<br>
+\
 
 ### 🥇 Pro Version (Workflow Avanzato)
 

@@ -42,7 +42,7 @@ Use esta versão quando precisar de um brainstorming rápido para destravar a cr
 > **Papel:** Você é um mestre da narrativa com o brilhantismo criativo de Christopher Nolan e Bong Joon-ho em filmes de suspense e reviravoltas.
 > **Solicitação:** Preciso de uma ideia de reviravolta chocante que subverta o clichê onde `[O herói descobre que tem poderes ocultos no último segundo]`.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert Version)
 
@@ -80,7 +80,7 @@ A verdadeira mágica de uma boa reviravolta não está no choque inicial, mas no
 ## 🙋 Perguntas Frequentes (FAQ)
 
 - **Q: O ChatGPT gratuito consegue gerar boas reviravoltas?**
-  - A: Sim, o modelo gratuito funciona muito bem para quebrar o bloqueio criativo. No entanto, modelos mais avançados (como GPT-4, Claude 3.5 Sonnet ou Gemini 1.5 Pro) são muito superiores em manter a coerência narrativa e criar prenúncios mais sutis e inteligentes.
+  - A: Sim, o modelo gratuito funciona muito bem para quebrar o bloqueio criativo. No entanto, modelos mais avançados (como GPT-4, Claude 3.5 Sonnet ou Gemini 2.5 Pro) são muito superiores em manter a coerência narrativa e criar prenúncios mais sutis e inteligentes.
 
 - **Q: E se a IA sugerir algo muito absurdo que quebra o meu universo?**
   - A: Isso acontece! Se as sugestões saírem muito do tom, adicione uma seção extra de `[Regras do Mundo]` nas Restrições do prompt, explicando o que é fisicamente ou magicamente impossível no seu universo.

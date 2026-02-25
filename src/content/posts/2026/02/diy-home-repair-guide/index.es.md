@@ -13,7 +13,7 @@ tags: ["DIY", "집수리", "절약", "생활꿀팁"]
 
 - **🎯 Recomendado para:** Personas que viven solas, recién casados, principiantes que temen cambiar una bombilla, oficinistas que desean evitar gastos innecesarios de reparación.
 - **⏱️ Tiempo estimado:** 5 minutos de diagnóstico + tiempo de trabajo → Ahorra 1 día de espera por un técnico.
-- **🤖 Modelos recomendados:** Cualquier IA conversacional (GPT-4o, Gemini 1.5 Pro, etc., **Reconocimiento de imágenes indispensable**).
+- **🤖 Modelos recomendados:** Cualquier IA conversacional (GPT-4o, Gemini 2.5 Pro, etc., **Reconocimiento de imágenes indispensable**).
 
 - ⭐ **Dificultad:** ⭐⭐☆☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -42,7 +42,7 @@ Cuando intentas hacer una reparación tú mismo y buscas en YouTube, a menudo en
 > **Rol:** Eres un experto veterano en `[fontanería/electricidad/interiores]` con 30 años de experiencia.
 > **Tarea:** Tengo un problema con `[lugar o aparato averiado]` en mi casa. El síntoma es `[descripción detallada del síntoma]`. Dime cuál es la causa y dame 3 métodos paso a paso, del más fácil al más difícil, para solucionarlo yo mismo sin tener que llamar a un técnico. Si es necesario, recomiéndame herramientas o repuestos que pueda comprar en una ferretería o tienda de bricolaje cercana.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

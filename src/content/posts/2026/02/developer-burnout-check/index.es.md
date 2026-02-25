@@ -42,7 +42,7 @@ No, no te has vuelto perezoso; **la batería de tu mente se ha agotado por compl
 > **Rol:** Eres un `[psicólogo experto en profesionales de TI]`.
 > **Tarea:** "Últimamente odio programar y me siento apático. Hazme 5 preguntas clave para diagnosticar si esto es un simple bajón o un burnout real."
 
-<br>
+\
 
 ### 🥇 Versión Pro (Análisis Preciso Basado en MBI)
 

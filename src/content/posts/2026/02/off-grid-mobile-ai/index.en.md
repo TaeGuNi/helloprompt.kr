@@ -42,7 +42,7 @@ Want to test your local AI's reasoning capabilities without an internet connecti
 > **Model:** Select `Llama-3.2-3B-Instruct.gguf`
 > **Prompt:** "Explain quantum computing in simple terms, using exactly two sentences. Do not use internet access."
 
-<br>
+\
 
 ### 🥇 Pro Version (Multimodal & Vision AI)
 

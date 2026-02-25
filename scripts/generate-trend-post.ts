@@ -80,7 +80,8 @@ CRITICAL RULES:
 4. VERY IMPORTANT: You must also output a special 'slug: "your-english-kebab-case-slug"' field in the frontmatter. We need this for the folder name.
 5. Do NOT use markdown Tables. Use emoji bullet lists instead (<QUALITY_MODEL> rule).
 6. Basic/Pro sections MUST use blockquotes (>). DO NOT use blockquotes (>) anywhere else in the document!
-7. Ensure the headers '## 💡 작성자 코멘트 (Insight)' and '## 🙋 자주 묻는 질문 (FAQ)' are exactly written as requested.
+8. DO NOT generate an 'image' property. Only strictly use the fields provided in <POST_TEMPLATE>!
+9. Ensure the headers '## 💡 작성자 코멘트 (Insight)' and '## 🙋 자주 묻는 질문 (FAQ)' are exactly written as requested.
 
 <POST_TEMPLATE>
 ${template}
@@ -118,7 +119,8 @@ CRITICAL RULES:
 2. Keep the 'date' and 'updatedDate' the exact same as the original.
 3. The UI structure MUST strictly follow the <POST_TEMPLATE> format. Keep all English HTML comments exactly the same!
 4. LOCALIZATION: Do not machine translate. Sound like a native professional.
-5. Output ONLY the raw Markdown file starting with '---'.
+5. DO NOT add any extra frontmatter fields that were not in the original (e.g. do NOT add an 'image' property).
+6. Output ONLY the raw Markdown file starting with '---'.
 
 <KOREAN_POST>
 ${koContent}

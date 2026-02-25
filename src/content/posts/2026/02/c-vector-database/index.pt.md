@@ -9,7 +9,7 @@ tags: ["C", "Open Source", "Database", "AI"]
 
 - **🎯 Público-Alvo:** Desenvolvedores de Sistemas Embarcados, Engenheiros de Sistemas C/C++, Arquitetos de IA Leve
 - **⏱️ Tempo Gasto:** De 5 horas de pesquisa e implementação → Reduzido para 1 minuto
-- **🤖 Modelos Recomendados:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro
+- **🤖 Modelos Recomendados:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
 
 - ⭐ **Dificuldade:** ⭐⭐⭐⭐☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -38,7 +38,7 @@ Use esta versão quando precisar testar rapidamente a estrutura central da lógi
 > **Role (Papel):** Você é um `[Engenheiro Sênior de Sistemas Embarcados]`.
 > **Task (Tarefa):** Escreva o código de um `[Banco de Dados Vetorial Header-only]` em C puro, sem nenhuma dependência externa. É obrigatório incluir uma função de busca utilizando Similaridade por Cosseno.
 
-<br>
+\
 
 ### 🥇 Versão Pro
 

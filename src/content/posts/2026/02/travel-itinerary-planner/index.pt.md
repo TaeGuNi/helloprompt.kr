@@ -42,7 +42,7 @@ Ideal para quando você precisa de um rascunho rápido para começar a se inspir
 > **Papel:** Você é um Guia Turístico Especialista no local e um mestre em otimização de roteiros.
 > **Tarefa:** Crie um itinerário de viagem perfeito de `[número de dias]` dias para `[destino]`, considerando meu ritmo e preferências: `[suas preferências]`.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert Version)
 
@@ -105,7 +105,7 @@ Ao definir exatamente onde é o seu hotel e limitar o número de atividades por 
 
 ### ❌ Antes (O jeito comum e ineficiente)
 
-> "Monte um roteiro de 3 dias em Osaka para mim e meus pais."
+"Monte um roteiro de 3 dias em Osaka para mim e meus pais."
 
 _(A IA gera uma lista genérica de 10 pontos turísticos aleatórios por dia, impossível de ser cumprida a pé, sem nenhuma dica de transporte ou opções de abrigo para chuva.)_
 

@@ -42,7 +42,7 @@ La véritable essence de l'histoire réside dans les sources primaires, et non d
 > **Rôle :** Tu es un `[Philologue Classique et Expert en Histoire]`.
 > **Demande :** Traduis ce `[document ancien ou texte source]` difficile à comprendre en un français moderne et clair, puis explique brièvement son sens caché ou son importance historique.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 
@@ -105,7 +105,7 @@ En tant que lecteur moderne, nous avons tendance à projeter nos valeurs actuell
 
 ### ❌ Before (Entrée - Extrait de la Déclaration d'indépendance des États-Unis, 1776)
 
-> "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness."
+"We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness."
 
 ### ✅ After (Résultat du Prompt)
 

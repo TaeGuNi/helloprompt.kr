@@ -43,7 +43,7 @@ Perfekt, wenn dir der genaue Name einer Funktion entfallen ist oder du eine simp
 > **Kontext:** In Spalte A steht der 'Produktname', in Spalte B der 'Preis' und in Spalte C die 'Menge'.
 > **Aufgabe:** Schreibe mir eine Excel-Formel für Spalte D, die den 'Gesamtumsatz (Preis \* Menge)' berechnet. Wenn der Umsatz über 1000€ liegt, gib "VIP" aus, ansonsten "Standard".
 
-<br>
+\
 
 ### 🥇 Pro Version (Für Datenanalysten & komplexe Aufgaben)
 

@@ -43,7 +43,7 @@ Llevar un registro de nuestros gastos diarios es fundamental para la salud finan
 > **Tarea:** Categoriza la siguiente lista de gastos y dame el total gastado en cada categoría.
 > **Gastos:** `[Pega aquí tu lista de gastos]`
 
-<br>
+\
 
 ### 🥇 Versión Profesional (Recomendada)
 

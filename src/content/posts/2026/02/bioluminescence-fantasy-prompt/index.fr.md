@@ -42,7 +42,7 @@ Utilisez cette version pour générer rapidement un concept général sans vous 
 > **Rôle :** Tu es un artiste conceptuel expert.
 > **Demande :** Dis-moi comment dessiner des créatures et des environnements qui émettent leur propre lumière, à l'instar de la planète Pandora dans Avatar.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert)
 

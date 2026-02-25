@@ -42,7 +42,7 @@ Use this when you want to quickly grasp your primary subconscious interests and 
 > **Role:** You are a data analyst and a psychological counselor.
 > **Task:** Extract the top 5 most frequently used nouns and adjectives from the week of diary text I uploaded. Based on these words, summarize my current psychological state in a single sentence.
 
-<br>
+\
 
 ### 🥇 Pro Version
 
@@ -109,17 +109,17 @@ If you don't keep a diary, try exporting and analyzing your **"Chat with Me" his
 
 ### ❌ Before (Vague Emotional Drain)
 
-> "This month was absolutely terrible. I felt tired and annoyed every single day. Why am I so depressed?"
-> (Falling into a vague sense of helplessness without knowing the exact cause)
+"This month was absolutely terrible. I felt tired and annoyed every single day. Why am I so depressed?"
+(Falling into a vague sense of helplessness without knowing the exact cause)
 
 ### ✅ After (Data-Driven Objective Retrospective)
 
 > **[📈 AI Emotional Analysis Report]**
->
-> - **Lowest Emotional Score (Feb 15, 22):** Emotional Score -8.
->   - Core Root Keywords: `overtime`, `delivery food`, `self-loathing`
->   - Analysis: A pattern is identified where, on days you fail to manage stress and binge-eat late after working overtime, strong negative emotions carry over into the following day.
-> - **💡 Data-Driven Advice:** On days when overtime is unavoidable, blocking food delivery apps and taking even a 10-minute light walk is highly effective for emotional defense.
+
+- **Lowest Emotional Score (Feb 15, 22):** Emotional Score -8.
+  - Core Root Keywords: `overtime`, `delivery food`, `self-loathing`
+  - Analysis: A pattern is identified where, on days you fail to manage stress and binge-eat late after working overtime, strong negative emotions carry over into the following day.
+- **💡 Data-Driven Advice:** On days when overtime is unavoidable, blocking food delivery apps and taking even a 10-minute light walk is highly effective for emotional defense.
 
 ---
 

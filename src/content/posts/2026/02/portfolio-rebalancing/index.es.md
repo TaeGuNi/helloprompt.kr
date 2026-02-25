@@ -44,7 +44,7 @@ Este prompt actúa como tu analista financiero personal: evalúa el peso actual 
 > **Rol:** Eres un experto `[Gestor de Carteras]`.
 > **Solicitud:** Revisa la distribución actual de mis activos en `[Acciones 70%, Bonos 30%]` y dime cómo ajustarla a mi objetivo ideal de `[Acciones 50%, Bonos 50%]`.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -109,7 +109,7 @@ En la práctica, te recomiendo hacer este ejercicio de forma trimestral o semest
 
 ### ❌ Antes (Entrada Simple)
 
-> Tengo 75.000 en acciones y 15.000 en bonos. Quiero que sean 60% acciones y 30% bonos. ¿Qué hago?
+Tengo 75.000 en acciones y 15.000 en bonos. Quiero que sean 60% acciones y 30% bonos. ¿Qué hago?
 
 _(Resultado de la IA: Una respuesta genérica que dice "deberías vender algunas acciones y comprar bonos" sin dar cifras exactas ni una tabla clara, dejándote a ti el trabajo de calcular los montos finales)._
 

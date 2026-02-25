@@ -42,7 +42,7 @@ Utilizzala quando hai bisogno di una pulizia rapida del codice per un risultato 
 > **Ruolo:** Sei un `[Evangelista del Clean Code e Chief Architect]`.
 > **Richiesta:** Esegui un refactoring di questo `[Codice disordinato]` per renderlo pulito, intuitivo e facilmente manutenibile, mantenendone intatte le funzionalità originali.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 

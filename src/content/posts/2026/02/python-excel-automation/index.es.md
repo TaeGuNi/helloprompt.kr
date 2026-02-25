@@ -43,7 +43,7 @@ El prompt más rápido y efectivo cuando solo necesitas fusionar de manera simpl
 >
 > **Tarea:** Escribe un código en Python que lea secuencialmente todos los archivos de Excel en esta carpeta, los combine en un único DataFrame y lo guarde en el escritorio con el nombre `total_merged.xlsx`. La estructura de los encabezados (nombres de las columnas) es idéntica en todos los archivos. Incluye comentarios claros y amigables en el código, y explícame paso a paso cómo debo ejecutarlo.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 

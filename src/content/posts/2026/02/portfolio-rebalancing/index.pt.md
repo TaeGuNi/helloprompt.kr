@@ -42,7 +42,7 @@ Ideal para uma verificação rápida e direta do seu portfólio.
 > **Papel:** Você é um `[Gerente de Portfólio]` experiente que administra patrimônio de clientes VIP.
 > **Tarefa:** Analise a minha alocação de ativos atual e sugira a proporção ideal para rebalanceamento.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert)
 

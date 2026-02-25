@@ -40,7 +40,7 @@ Utiliza este formato si simplemente deseas dejar una pregunta rápida o un feedb
 > **Destinatario:** support@helloprompt.kr
 > **Contenido:** Escribe aquí libremente sobre cualquier error que hayas encontrado, ideas de mejora para la plataforma o simplemente consultas generales sobre el servicio.
 
-<br>
+\
 
 ### 🥇 Pro Version (Propuesta de Negocios)
 

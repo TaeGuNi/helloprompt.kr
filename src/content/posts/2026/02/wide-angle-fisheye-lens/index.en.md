@@ -42,7 +42,7 @@ Use this when you need a quick, expansive result without overthinking the techni
 > **Role:** You are a `[Professional landscape photographer]`.
 > **Request:** Generate an image of `[your subject]` using a wide-angle or fisheye lens to capture the narrow space comprehensively and present the magnificent scenery at a glance.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert)
 

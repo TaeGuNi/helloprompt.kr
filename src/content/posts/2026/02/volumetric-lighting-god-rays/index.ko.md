@@ -41,7 +41,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Lighting", "Atmosphere"]
 
 > **프롬프트:** A dark forest with intense volumetric lighting and god rays shining through the tall trees, cinematic photography.
 
-<br>
+\
 
 ### 🥇 Pro Version (전문가형)
 

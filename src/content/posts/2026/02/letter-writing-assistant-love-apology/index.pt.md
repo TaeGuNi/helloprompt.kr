@@ -42,7 +42,7 @@ Use esta versão quando precisar de um rascunho rápido e direto ao ponto.
 > **Papel:** Você é um conselheiro psicológico e um ghostwriter profissional especializado em comunicação empática.
 > **Solicitação:** Preciso escrever uma mensagem para `[Destinatário]` sobre `[Situação/Problema]`. Escreva uma mensagem adequada que transmita minha intenção de forma clara, mas respeitosa.
 
-<br>
+\
 
 ### 🥇 Versão Pro (Expert Version)
 

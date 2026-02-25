@@ -42,7 +42,7 @@ Sin el contexto adecuado, los sitios históricos son solo montones de piedras y 
 > **Rol:** Eres un experto historiador y el mejor guía turístico del mundo.
 > **Solicitud:** Cuéntame la historia más interesante y los secretos ocultos de `[Nombre del Monumento]`.
 
-<br>
+\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -101,7 +101,7 @@ Viajar se trata de conectar con el lugar, no de aprobar un examen de historia. E
 
 ### ❌ Antes (Entrada simple)
 
-> Explícame la historia del Coliseo Romano.
+Explícame la historia del Coliseo Romano.
 
 ### ✅ Después (Resultado con la Versión Pro)
 

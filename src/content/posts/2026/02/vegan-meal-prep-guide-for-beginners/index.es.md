@@ -42,7 +42,7 @@ Ideal para cuando necesitas ideas rápidas y sin complicaciones.
 > **Rol:** Eres un chef experto en cocina vegana y un evangelista del "Meal Prep" (preparación de comidas semanales).
 > **Solicitud:** Diséñame un plan de meal prep vegano de 5 días que sea altamente nutritivo, saciante y no utilice carne. Incluye instrucciones de almacenamiento.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 
@@ -76,7 +76,7 @@ Ideal para cuando necesitas ideas rápidas y sin complicaciones.
 
 ---
 
-## 💡 작성자 코멘트 (Insight)
+## 💡 Insight
 
 La transición a una dieta vegana o basada en plantas suele fracasar por la falta de planificación, lo que lleva a recurrir a opciones ultraprocesadas o a abandonar el intento por falta de tiempo. Este prompt actúa como tu planificador personal, eliminando la fatiga de decidir qué comer cada día.
 
@@ -84,7 +84,7 @@ Un truco clave que he descubierto al usar este prompt es la técnica de congelar
 
 ---
 
-## 🙋 자주 묻는 질문 (FAQ)
+## 🙋 FAQ
 
 - **Q: ¿Tengo que cocinar platos diferentes para cada uno de los 5 días?**
   - A: ¡Para nada! La esencia del _Meal Prep_ es cocinar bases versátiles (como quinoa, garbanzos asados, o tofu marinado) y combinarlas con diferentes salsas o aderezos para evitar la monotonía sin trabajar de más.
@@ -97,7 +97,7 @@ Un truco clave que he descubierto al usar este prompt es la técnica de congelar
 
 ---
 
-## 🧬 프롬프트 해부 (Why it works?)
+## 🧬 Why it works?
 
 1. **Contexto Específico de Ingredientes:** Al indicarle exactamente qué tienes en el refrigerador, evitas que la IA genere listas de compras abrumadoras y aprovechas lo que ya posees, reduciendo el desperdicio.
 2. **Enfoque en "Batch Cooking":** No le pedimos "5 recetas separadas", sino una "guía de cocina por lotes". Esto obliga a la IA a pensar en términos de eficiencia de tiempo (ej. mientras se hornean los champiñones, se saltea el tofu).
@@ -105,7 +105,7 @@ Un truco clave que he descubierto al usar este prompt es la técnica de congelar
 
 ---
 
-## 📊 증명: Before & After
+## 📊 Before & After
 
 ### ❌ Before (입력)
 
@@ -139,6 +139,6 @@ _(Resultado: La IA sugiere 5 platos completamente diferentes y complejos, requir
 
 ---
 
-## 🎯 결론
+## 🎯 Conclusion
 
 El _Meal Prep_ vegano no es solo una práctica excelente para tu salud y el planeta, sino también una increíble herramienta para recuperar tu tiempo libre. Prepara tus almuerzos este fin de semana con la ayuda de la IA y transforma tus mediodías en el trabajo. ¡Te garantizo que empezarás a contar los minutos para la hora del almuerzo! 🌱

@@ -49,7 +49,7 @@ Ideal si ya estás en el vestuario y necesitas un plan urgente.
 > **Rol:** Eres un entrenador personal de élite con 20 años de experiencia.
 > **Petición:** Soy principiante en el gimnasio y solo quiero usar máquinas. Créame una rutina de cuerpo completo para hoy, indicando series y repeticiones.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versión Experta)
 

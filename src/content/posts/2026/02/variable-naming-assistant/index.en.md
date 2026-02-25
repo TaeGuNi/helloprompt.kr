@@ -44,7 +44,7 @@ Use this when you are in a rush and just need a quick suggestion.
 > **Role:** You are an expert Software Engineer.
 > **Task:** Suggest 3 clear, idiomatic English variable/function names for the following situation: `[Describe what the code does]`.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expert Level)
 
@@ -112,13 +112,13 @@ This prompt is an absolute lifesaver during code reviews. Often, developers use 
 ### ✅ After (Result)
 
 > **Recommendation List (JavaScript - camelCase):**
->
-> 1. `isLoggedIn` - The most common and standard way to represent a true/false authentication state.
-> 2. `isAuthenticated` - A more professional and formal expression, often preferred in enterprise security contexts.
-> 3. `hasActiveSession` - Best used if you want to emphasize the existence of a server session rather than just the UI state.
->
+
+1. `isLoggedIn` - The most common and standard way to represent a true/false authentication state.
+2. `isAuthenticated` - A more professional and formal expression, often preferred in enterprise security contexts.
+3. `hasActiveSession` - Best used if you want to emphasize the existence of a server session rather than just the UI state.
+
 > **🏆 Best Pick:** `isLoggedIn`
-> It is the most universally understood, intuitive, and concise convention for UI-level authentication checks.
+It is the most universally understood, intuitive, and concise convention for UI-level authentication checks.
 
 ---
 

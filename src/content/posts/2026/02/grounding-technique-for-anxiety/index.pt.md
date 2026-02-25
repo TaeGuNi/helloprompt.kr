@@ -49,7 +49,7 @@ Use isto quando precisar de uma intervenção imediata e não tiver tempo para f
 > **Papel:** Você é um psicólogo especialista em intervenção de crises.
 > **Pedido:** Estou tendo uma forte crise de ansiedade. Guie-me pela técnica de aterramento 5-4-3-2-1, um passo de cada vez, esperando minha resposta antes de avançar.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versão Especialista)
 

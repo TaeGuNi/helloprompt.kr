@@ -42,7 +42,7 @@ Usala quando hai bisogno di un risultato rapido e senza fronzoli.
 > **Ruolo:** Sei un Personal Trainer professionista con 10 anni di esperienza.
 > **Richiesta:** Crea una routine di allenamento a casa adatta al mio livello di fitness attuale e all'attrezzatura che ho a disposizione.
 
-<br>
+\
 
 ### 🥇 Versione Pro (Expert)
 
@@ -84,7 +84,7 @@ Questo prompt è straordinariamente utile perché risolve il problema numero uno
   - A: Assolutamente sì! Basta sostituire la variabile dell'attrezzatura con `[Nessuna attrezzatura, solo corpo libero]` e l'IA genererà esercizi calistenici efficaci.
 
 - **Q: Questo prompt funziona bene con la versione gratuita di ChatGPT?**
-  - A: Sì, i modelli gratuiti come GPT-3.5 o Claude 3 Haiku sono perfettamente in grado di generare tabelle di allenamento base. Tuttavia, per variazioni posturali più complesse e per evitare esercizi ripetitivi, modelli avanzati come GPT-4o, Claude 3.5 Sonnet o Gemini 1.5 Pro offrono risultati nettamente superiori e più creativi.
+  - A: Sì, i modelli gratuiti come GPT-3.5 o Claude 3 Haiku sono perfettamente in grado di generare tabelle di allenamento base. Tuttavia, per variazioni posturali più complesse e per evitare esercizi ripetitivi, modelli avanzati come GPT-4o, Claude 3.5 Sonnet o Gemini 2.5 Pro offrono risultati nettamente superiori e più creativi.
 
 - **Q: Posso chiedere all'IA di adattare la scheda se sento dolore durante un esercizio?**
   - A: Certamente. Se un esercizio generato ti causa fastidio, puoi semplicemente rispondere all'IA dicendo: _"L'esercizio X mi fa male alla spalla destra, suggerisci 3 alternative a basso impatto"_ e l'IA aggiornerà immediatamente la tua scheda.

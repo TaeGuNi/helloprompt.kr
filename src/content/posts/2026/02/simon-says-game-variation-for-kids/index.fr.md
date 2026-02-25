@@ -42,7 +42,7 @@ Idéale pour obtenir des idées rapidement sans préparation.
 > **Rôle :** Tu es un éducateur sportif spécialisé dans le développement psychomoteur des jeunes enfants.
 > **Demande :** Crée-moi une liste de missions originales pour le jeu "Jacques a dit" afin d'améliorer la concentration et la coordination de mon enfant.
 
-<br>
+\
 
 ### 🥇 Version Pro (Expert Version)
 

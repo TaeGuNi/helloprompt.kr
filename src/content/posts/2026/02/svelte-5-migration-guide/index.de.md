@@ -45,7 +45,7 @@ Nutzen Sie diesen Prompt, um schnell eine React-Komponente in die Svelte 5-Synta
 > **Eingabe:** `[React-Komponenten-Code mit useState und useEffect]`
 > **Aufgabe:** Konvertiere den bereitgestellten React-Code vollständig in die neueste **Runes-Syntax (`$state`, `$derived`, `$effect`)** von Svelte 5. Der Code muss präzise sein und dem idiomatischen Svelte-Stil entsprechen.
 
-<br>
+\
 
 ### 🥇 Pro Version (Tiefgreifende Architektur-Analyse & Migrationsstrategie)
 

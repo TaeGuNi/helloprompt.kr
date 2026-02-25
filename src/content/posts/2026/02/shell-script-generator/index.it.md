@@ -43,7 +43,7 @@ Usala quando hai bisogno di uno script rapido per un compito semplice, senza tro
 > **Ruolo:** Sei un esperto di Amministrazione di Sistema Linux e DevOps.
 > **Richiesta:** Scrivi uno script Bash per `[inserisci il tuo obiettivo, es. fare il backup della cartella /var/www in /backup]`. Assicurati che il codice sia sicuro e commentato.
 
-<br>
+\
 
 ### 🥇 Pro Version (Versione Esperto)
 
@@ -109,7 +109,7 @@ La vera forza di questo prompt non sta solo nel farsi scrivere il codice, ma nei
 
 ### ❌ Prima (Input dell'utente)
 
-> "Sposta tutti i file JPG della cartella corrente nella cartella 'images', e cambia il nome del file aggiungendo la data di oggi."
+"Sposta tutti i file JPG della cartella corrente nella cartella 'images', e cambia il nome del file aggiungendo la data di oggi."
 
 ### ✅ Dopo (Risultato generato dall'IA)
 

@@ -26,7 +26,7 @@ export const formatDate = (
 
   const date = new Date(dateString);
   // Invalid Date 체크
-  if (isNaN(date.getTime())) {
+  if (Number.isNaN(date.getTime())) {
     return dateString;
   }
 

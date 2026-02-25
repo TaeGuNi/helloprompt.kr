@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "🏈 Gib niemals auf wie Tim Tebow: Erstelle deinen eigenen 'Motivationscoach' mit KI"
+title: " \"🏈 Gib niemals auf wie Tim Tebow: Erstelle deinen eigenen 'Motivationscoach' mit KI\""
 author: "ZZabbis"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "자기계발"
-description: "Pflanze dir das unermüdliche Mindset von Tim Tebow als KI-Prompt ein und erschaffe dir einen persönlichen Coach, der dich mental betreut, wann immer du erschöpft bist."
+description: " \"Pflanze dir das unermüdliche Mindset von Tim Tebow als KI-Prompt ein und erschaffe dir einen persönlichen Coach, der dich mental betreut, wann immer du erschöpft bist.\""
 tags: ["tim tebow", "동기부여", "마인드셋", "멘탈케어", "업무자동화", "ChatGPT"]
 ---
 
@@ -41,7 +41,7 @@ Verwende dies, wenn du schnell mentale Erholung und Trost brauchst.
 > **Rolle:** Du bist ein Mental-Coach mit dem Mindset von "Tim Tebow", der sich von keinem Rückschlag unterkriegen lässt.
 > **Aufgabe:** Ich möchte gerade wegen `[aktuelle schwierige Situation]` aufgeben. Bitte motiviere mich eindringlich basierend auf Anekdoten von Tim Tebow, damit ich wieder aufstehen kann.
 
-<br>
+\
 
 ### 🥇 Pro Version (Expertenversion)
 

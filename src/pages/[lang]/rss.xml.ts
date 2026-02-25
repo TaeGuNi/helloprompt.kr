@@ -1,8 +1,8 @@
+import { getCollection } from "astro:content";
 import rss from "@astrojs/rss";
 import type { APIRoute } from "astro";
-import { getCollection } from "astro:content";
-import { uiStrings } from "../../utils/ui-translation";
 import { getLangStaticPaths } from "../../i18n/languages";
+import { uiStrings } from "../../utils/ui-translation";
 
 export const getStaticPaths = getLangStaticPaths;
 
@@ -14,8 +14,13 @@ export const GET: APIRoute = async (context) => {
   const allPosts = await getCollection("posts", ({ data }) => {
     return data.date <= now;
   });
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  const posts: any[] = [];
+  const posts: {
+    link: string;
+    title: string;
+    pubDate: Date;
+    description: string;
+    customData: string;
+  }[] = [];
 
   allPosts.forEach((post) => {
     if (post.id.endsWith(`index${lang}`)) {
@@ -37,7 +42,7 @@ export const GET: APIRoute = async (context) => {
   return rss({
     title: `Hello Prompt (${lang.toUpperCase()})`,
     description: uiStrings[lang]?.slogan || "AI Prompt Guide",
-    site: context.site!,
+    site: context.site || new URL("https://helloprompt.kr"),
     items: posts,
     customData: `<language>${lang}</language>`,
   });

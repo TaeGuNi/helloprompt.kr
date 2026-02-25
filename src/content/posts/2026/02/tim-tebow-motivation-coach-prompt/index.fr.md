@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "🏈 Le mental d'acier de Tim Tebow : Créer votre propre 'Coach de Motivation' avec l'IA"
+title: " \"🏈 Le mental d'acier de Tim Tebow : Créer votre propre 'Coach de Motivation' avec l'IA\""
 author: "ZZabbis"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "자기계발"
-description: "Intégrez le mental inébranlable de Tim Tebow dans un prompt IA pour créer un coach personnel qui prendra soin de votre santé mentale à chaque fois que vous vous sentez épuisé."
+description: " \"Intégrez le mental inébranlable de Tim Tebow dans un prompt IA pour créer un coach personnel qui prendra soin de votre santé mentale à chaque fois que vous vous sentez épuisé.\""
 tags: ["tim tebow", "동기부여", "마인드셋", "멘탈케어", "업무자동화", "ChatGPT"]
 ---
 
@@ -40,7 +40,7 @@ Utilisez-la lorsque vous avez besoin d'un réconfort et d'une récupération men
 
 > **Rôle :** Tu es un coach mental possédant l'état d'esprit de « Tim Tebow », qui ne cède face à aucune frustration.
 > **Requête :** J'ai envie d'abandonner à cause de `[ma situation difficile actuelle]`. Motive-moi intensément en t'appuyant sur les anecdotes de Tim Tebow pour que je puisse me relever.
-> <br>
+> \
 
 ### 🥇 Version Pro (Pro Version)
 

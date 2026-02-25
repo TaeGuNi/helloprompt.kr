@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "🏈 A Mentalidade Inabalável de Tim Tebow: Crie seu 'Coach Motivacional' com IA"
+title: " \"🏈 A Mentalidade Inabalável de Tim Tebow: Crie seu 'Coach Motivacional' com IA\""
 author: "ZZabbis"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "자기계발"
-description: "Incorpore o mindset de nunca desistir de Tim Tebow em um prompt de IA e crie um coach pessoal para cuidar da sua saúde mental sempre que você se sentir exausto."
+description: " \"Incorpore o mindset de nunca desistir de Tim Tebow em um prompt de IA e crie um coach pessoal para cuidar da sua saúde mental sempre que você se sentir exausto.\""
 tags: ["tim tebow", "동기부여", "마인드셋", "멘탈케어", "업무자동화", "ChatGPT"]
 ---
 
@@ -38,7 +38,7 @@ Use quando precisar de uma rápida recuperação mental e conforto.
 
 > **Papel:** Você é um coach mental com a mentalidade inabalável de 'Tim Tebow', que não se rende a nenhuma frustração.
 > **Solicitação:** Estou com vontade de desistir agora por causa de `[situação difícil atual]`. Motive-me intensamente para que eu possa me reerguer, baseando-se em histórias reais de Tim Tebow.
-> <br>
+> \
 
 ### 🥇 Versão Pro (Profissional)
 

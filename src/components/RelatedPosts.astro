@@ -1,6 +1,6 @@
 ---
-import type { Post } from "../utils/postUtils";
 import { formatDate } from "../utils/dateUtils";
+import type { Post } from "../utils/postUtils";
 
 interface Props {
   currentTags?: string[];
@@ -54,7 +54,7 @@ const TITLE_MAP: Record<string, string> = {
   en: "🔗 Related Posts",
   ja: "🔗 関連記事",
 };
-const sectionTitle = TITLE_MAP[lang] || TITLE_MAP["en"];
+const sectionTitle = TITLE_MAP[lang] || TITLE_MAP.en;
 ---
 
 {

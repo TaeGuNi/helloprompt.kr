@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "🏈 Unyielding Mentality Like Tim Tebow: Creating Your Own AI 'Motivational Coach'"
+title: " \"🏈 Unyielding Mentality Like Tim Tebow: Creating Your Own AI 'Motivational Coach'\""
 author: "ZZabbis"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "Self-Improvement"
-description: "Transplant the never-give-up mindset of Tim Tebow into an AI prompt, creating a dedicated coach that provides mental care whenever you feel exhausted."
+description: " \"Transplant the never-give-up mindset of Tim Tebow into an AI prompt, creating a dedicated coach that provides mental care whenever you feel exhausted.\""
 tags:
   [
     "tim tebow",
@@ -49,7 +49,7 @@ Use this when you need quick mental recovery and comfort.
 > **Role:** You are a mental coach with the mindset of 'Tim Tebow,' who never yields to any setback.
 > **Request:** I feel like giving up right now because of `[current difficult situation]`. Motivate me intensely based on Tim Tebow's anecdotes so I can get back on my feet.
 
-<br>
+\
 
 ### 🥇 Pro Version
 

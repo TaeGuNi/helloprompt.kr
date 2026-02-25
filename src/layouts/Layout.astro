@@ -22,17 +22,17 @@ export interface Props {
 
 const { frontmatter, headings, isHome = false } = Astro.props;
 
-import LanguageSwitcher from "../components/LanguageSwitcher.astro";
-import { uiStrings } from "../utils/ui-translation";
-import { determineCurrentLang } from "../utils/i18nUtils";
-import BaseHtml from "../components/BaseHtml.astro";
-import { formatDate } from "../utils/dateUtils";
 import AdUnit from "../components/AdUnit.astro";
+import BaseHtml from "../components/BaseHtml.astro";
+import LanguageSwitcher from "../components/LanguageSwitcher.astro";
 import RelatedPosts from "../components/RelatedPosts.astro";
 import Search from "../components/Search.astro";
+import { formatDate } from "../utils/dateUtils";
+import { determineCurrentLang } from "../utils/i18nUtils";
+import { uiStrings } from "../utils/ui-translation";
 
 const currentLang = determineCurrentLang(Astro.url.pathname, frontmatter.lang);
-const t = uiStrings[currentLang] || uiStrings["ko"];
+const t = uiStrings[currentLang] || uiStrings.ko;
 ---
 
 <BaseHtml lang={frontmatter.lang}>

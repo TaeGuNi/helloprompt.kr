@@ -1,11 +1,11 @@
-import { describe, it, expect } from "vitest";
-import { TrustReportGenerator } from "./TrustReport";
-import { PriceCalculator } from "../pricing/PriceCalculator";
+import { describe, expect, it } from "vitest";
+import { calculatePrice } from "../pricing/PriceCalculator";
+import { generateTrustReport } from "./TrustReport";
 
 describe("TrustReportGenerator", () => {
   it("should generate a report with receipt and spec", () => {
-    const pricing = PriceCalculator.calculate("STANDARD");
-    const report = TrustReportGenerator.generate(pricing);
+    const pricing = calculatePrice("STANDARD");
+    const report = generateTrustReport(pricing);
 
     expect(report.id).toBeDefined();
 
@@ -25,8 +25,8 @@ describe("TrustReportGenerator", () => {
   });
 
   it("should respect overrides", () => {
-    const pricing = PriceCalculator.calculate("SKINNY");
-    const report = TrustReportGenerator.generate(pricing, {
+    const pricing = calculatePrice("SKINNY");
+    const report = generateTrustReport(pricing, {
       model_name: "Custom-Model",
     });
 

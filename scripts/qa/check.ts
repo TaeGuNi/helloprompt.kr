@@ -1,6 +1,6 @@
+import path from "node:path";
 import { glob } from "glob";
 import { auditFile } from "./audit.js";
-import path from "path";
 
 async function runQa() {
   const args = process.argv.slice(2);

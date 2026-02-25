@@ -1,8 +1,8 @@
-import fs from "fs/promises";
-import path from "path";
+import { execFile } from "node:child_process";
+import fs from "node:fs/promises";
+import path from "node:path";
+import util from "node:util";
 import { glob } from "glob";
-import { execFile } from "child_process";
-import util from "util";
 
 const execFileAsync = util.promisify(execFile);
 const QUEUE_FILE = path.resolve(process.cwd(), "rewrite-queue.json");
@@ -42,7 +42,7 @@ async function initQueue() {
   return queue;
 }
 
-async function rewriteWithLocalCLI(
+export async function rewriteWithLocalCLI(
   content: string,
   qualityModel: string,
   postTemplate: string,
@@ -58,6 +58,7 @@ Your job is to REWRITE the provided Markdown file to perfection.
    - Tables for ratings are BANNED. You MUST use emoji lists (e.g. - ⭐ **난이도:** ⭐⭐☆☆☆).
 3. LOCALIZATION: If this file is a translation (e.g. index.en.md, index.ja.md), you must completely rewrite the translation to sound like a native professional. No awkward machine translation. It must sound expert and persuasive.
 4. QUALITY (Utility & Insight): Ensure the "Hook" sentence is captivating. Ensure "💡 작성자 코멘트 (Insight)" and "🙋 자주 묻는 질문 (FAQ)" exist and are highly valuable and localized to the target language.
+5. DO NOT add any extra frontmatter fields that were not in the original. Specifically, DO NOT add an 'image' property.
 
 RETURN FORMAT:
 Return ONLY the raw, perfectly rewritten Markdown file content. Do NOT wrap it in \`\`\`markdown JSON fences. Literally start with '---' for the frontmatter and end with the last character of the markdown file.
@@ -101,11 +102,10 @@ ${content}
   }
 
   // Clean off markdown fences if the CLI injected them despite instructions
-  text =
-    text
-      .replace(/^```markdown\n?/i, "")
-      .replace(/```$/i, "")
-      .trim() + "\n";
+  text = `${text
+    .replace(/^```markdown\n?/i, "")
+    .replace(/```$/i, "")
+    .trim()}\n`;
   return text;
 }
 
@@ -173,4 +173,7 @@ async function runRewriter() {
   console.log(`\n🎉 Queue completely exhausted!`);
 }
 
-runRewriter();
+// Only run queue normally if executed directly
+if (import.meta.url === `file://${process.argv[1]}`) {
+  runRewriter();
+}

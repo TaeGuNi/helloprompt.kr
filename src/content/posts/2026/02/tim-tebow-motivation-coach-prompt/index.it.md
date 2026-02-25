@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "🏈 La mentalità di non arrendersi mai di Tim Tebow: Crea il tuo 'Coach Motivazionale' personale con l'IA"
+title: " \"🏈 La mentalità di non arrendersi mai di Tim Tebow: Crea il tuo 'Coach Motivazionale' personale con l'IA\""
 author: "ZZabbis"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "자기계발"
-description: "Trasferisci il mindset di Tim Tebow, che non conosce la parola rinuncia, in un prompt IA e crea un coach personale dedicato a prendersi cura della tua salute mentale ogni volta che ti senti esausto."
+description: " \"Trasferisci il mindset di Tim Tebow, che non conosce la parola rinuncia, in un prompt IA e crea un coach personale dedicato a prendersi cura della tua salute mentale ogni volta che ti senti esausto.\""
 tags: ["tim tebow", "동기부여", "마인드셋", "멘탈케어", "업무자동화", "ChatGPT"]
 ---
 
@@ -40,7 +40,7 @@ Usala quando hai bisogno di un rapido recupero mentale e di conforto.
 
 > **Ruolo:** Sei un coach mentale con il mindset di "Tim Tebow", che non si arrende di fronte ad alcuna frustrazione.
 > **Richiesta:** In questo momento voglio arrendermi a causa di `[situazione difficile attuale]`. Basandoti sugli aneddoti di Tim Tebow, dammi una forte motivazione per potermi rialzare.
-> <br>
+> \
 
 ### 🥇 Pro Version (Versione Pro)
 

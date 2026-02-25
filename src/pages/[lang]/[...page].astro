@@ -1,22 +1,20 @@
 ---
-import type { Page } from "astro";
-import Layout from "../../layouts/Layout.astro";
-import { LANGUAGES } from "../../i18n/languages";
-import { formatDate } from "../../utils/dateUtils";
 import { getCollection } from "astro:content";
+import type { Page } from "astro";
+import { LANGUAGES } from "../../i18n/languages";
+import Layout from "../../layouts/Layout.astro";
+import { formatDate } from "../../utils/dateUtils";
 import type { Post } from "../../utils/postUtils";
 
 interface GetStaticPathsOptions {
   paginate: (
-    // eslint-disable-next-line @typescript-eslint/no-explicit-any
-    data: any[],
+    data: Post[],
     options: { params: { lang: string }; pageSize: number },
   ) => unknown[];
 }
 
 interface Props {
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  page: Page<any>;
+  page: Page<Post>;
 }
 
 export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {

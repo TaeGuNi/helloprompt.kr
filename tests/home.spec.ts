@@ -1,4 +1,4 @@
-import { test, expect } from "@playwright/test";
+import { expect, test } from "@playwright/test";
 
 test.describe("메인 페이지 BDD 시나리오", () => {
   test("사용자는 사이트에 접속하여 대문 제목을 볼 수 있어야 한다", async ({

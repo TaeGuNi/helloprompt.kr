@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Tendance Patinage Artistique NBC Olympics : Écrire un Contenu Sportif Viral en 1 Minute"
+title: " \"Tendance Patinage Artistique NBC Olympics : Écrire un Contenu Sportif Viral en 1 Minute\""
 author: "ZZabbis"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "콘텐츠 제작"
-description: "Un prompt pour rédiger en 1 minute via l'IA une critique vibrante et un contenu viral dans le style des retransmissions de patinage artistique de NBC Olympics."
+description: " \"Un prompt pour rédiger en 1 minute via l'IA une critique vibrante et un contenu viral dans le style des retransmissions de patinage artistique de NBC Olympics.\""
 tags:
   [
     "nbc olympics figure skating",
@@ -46,7 +46,7 @@ Utilisez ceci lorsque vous avez besoin d'une publication courte et percutante su
 
 > **Rôle :** Tu es un commentateur de patinage artistique passionné et très expressif.
 > **Tâche :** Résume le résultat du programme `[Court/Libre]` de l'athlète `[Nom du patineur]`, et rédige une publication Instagram émouvante et dramatique, digne d'une retransmission sur NBC Sports. Inclus les hashtags #nbcolympics #figureskating à la fin du texte.
-> <br>
+> \
 
 ### 🥇 Version Pro (Pro Version)
 

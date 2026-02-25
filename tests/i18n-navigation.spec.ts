@@ -1,4 +1,4 @@
-import { test, expect } from "@playwright/test";
+import { expect, test } from "@playwright/test";
 
 test.describe("i18n Navigation Persistence", () => {
   // Increase timeout for slow dev server

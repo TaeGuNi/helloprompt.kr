@@ -1,0 +1,176 @@
+---
+layout: /src/layouts/Layout.astro
+title: "복잡한 코드는 이제 그만! AI 복잡도 분석기 (Code Complexity Analyzer)"
+author: HelloBot
+date: 2026-02-12
+updatedDate: 2026-02-12
+category: Development
+description: " \"스파게티 코드를 분석하고 명확한 리팩토링 포인트를 짚어주는 AI 프롬프트입니다. 복잡한 로직을 단순하고 유지보수하기 쉽게 풀어내세요.\""
+tags: [AI, Refactoring, Clean Code, Development]
+---
+
+# 🍝 ¡Dile Adiós al Código Espagueti! Analizador de Complejidad de Código con IA (Code Complexity Analyzer)
+
+- **🎯 Recomendado para:** Desarrolladores Junior, responsables de mantenimiento con código heredado (Legacy Code), revisores de código (Code Reviewers).
+- **⏱️ Tiempo estimado:** De 1 hora → a 3 minutos.
+- **🤖 Modelo recomendado:** GPT-4o, Claude 3.5 Sonnet (Se recomiendan modelos con alta capacidad de razonamiento lógico).
+
+- ⭐ **Dificultad:** ⭐⭐⭐☆☆
+- ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
+
+> _"¿Alguna vez te has desesperado al encontrarte con un 'if' dentro de un 'for', que a su vez tiene otro 'if'... un código que funciona, pero que parece una bomba de relojería a punto de estallar si lo tocas?"_
+
+Durante el desarrollo, es inevitable encontrarse con código altamente complejo, el temido "código espagueti". A medida que se añaden funciones y se corrigen errores, el código se infla y la complejidad ciclomática (Cyclomatic Complexity) se dispara. Este tipo de código no solo es difícil de leer, sino que también es casi imposible predecir los efectos secundarios al modificarlo, convirtiéndose en la principal causa de las pesadillas de mantenimiento.
+
+Pero, ¿qué pasa si no sabes por dónde empezar a refactorizar? Deja que la IA analice la complejidad de tu código. Diagnosticará los problemas utilizando métricas objetivas y te ofrecerá estrategias de refactorización concretas basadas en patrones de diseño y principios de *Clean Code*.
+
+---
+
+## ⚡️ Resumen en 3 líneas (TL;DR)
+
+1. La IA analiza estructuralmente condicionales anidados difíciles de leer y funciones gigantescas.
+2. Recibes sugerencias prácticas de refactorización como el Retorno Anticipado (Early Return) y la Extracción de Funciones (Extract Method).
+3. Obtienes un código limpio, con la máxima legibilidad y mantenibilidad, sin alterar la lógica de negocio original.
+
+---
+
+## 🚀 Solución: "Prompt de Análisis y Refactorización de Complejidad"
+
+### 🥉 Versión Básica (Basic Version)
+
+Úsala cuando necesites identificar rápidamente los problemas de un bloque de código.
+
+> **Rol:** Eres un `[Desarrollador Backend Senior]`.
+> **Tarea:** Analiza la complejidad del siguiente código y dame 3 puntos clave sobre cómo debería refactorizarlo.
+>
+> ```
+> [Pega tu código aquí]
+> ```
+
+\
+
+### 🥇 Versión Pro (Pro Version)
+
+Úsala cuando necesites un análisis de métricas preciso y la aplicación de patrones de diseño específicos.
+
+> **Rol (Role):** Eres un `[Ingeniero de Software Senior con 10 años de experiencia]`, experto en la arquitectura *Clean Code*.
+>
+> **Contexto (Context):**
+>
+> - Fondo: Actualmente estoy refactorizando código heredado (legacy) escrito en `[Lenguaje/Framework, ej: TypeScript/NestJS]`.
+> - Objetivo: Reducir la complejidad ciclomática del código y maximizar tanto su legibilidad como su mantenibilidad.
+>
+> **Tarea (Task):**
+>
+> 1. **Diagnóstico de Complejidad:** Evalúa la complejidad ciclomática (Cyclomatic Complexity) y la complejidad cognitiva (Cognitive Complexity) del código proporcionado. Analiza las causas principales (anidamiento profundo, violación del principio de responsabilidad única, etc.).
+> 2. **Estrategia de Refactorización:** Propón técnicas específicas de refactorización como el uso de Cláusulas de Guarda (Guard Clauses / Early Return), Extracción de Métodos (Extract Method) y Polimorfismo (Polymorphism).
+> 3. **Código Mejorado:** Aplica las estrategias anteriores para escribir un código con una estructura mejorada, manteniendo exactamente (100%) la misma lógica de negocio original.
+>
+> **Entrada de Código (Code):**
+>
+> ```
+> [Pega aquí el código a refactorizar]
+> ```
+>
+> **Restricciones (Constraints):**
+>
+> - Añade comentarios breves en el código mejorado explicando cada cambio realizado.
+> - La explicación debe ser amigable y paso a paso, de modo que un desarrollador Junior pueda entenderla fácilmente.
+>
+> **Advertencia (Warning):**
+>
+> - La lógica de negocio del código original (resultados, efectos secundarios, etc.) NO debe cambiar bajo ninguna circunstancia.
+
+---
+
+## 💡 Comentario del Autor (Insight)
+
+Este es el primer prompt que utilizo en mi día a día cuando tengo que revisar o modificar código legacy escrito por otra persona (o por mi yo del pasado). Más allá de simplemente "acortar" el código, la IA proporciona justificaciones lógicas de peso, como: *"Esta condición tiene 4 niveles de profundidad, por lo que es mejor extraerla usando Cláusulas de Guarda"*.
+
+Es especialmente útil para auditar tu propio código antes de una revisión (Code Review). Si pasas tu código por este filtro antes de abrir una PR (Pull Request), las probabilidades de recibir el comentario *"Qué código tan limpio"* de tus compañeros aumentarán drásticamente.
+
+---
+
+## 🙋 Preguntas Frecuentes (FAQ)
+
+- **P: ¿Puedo pegar un archivo entero para que lo analice a la vez?**
+  - R: No te lo recomiendo debido a los límites de la ventana de contexto de los LLM y la pérdida de precisión. En lugar de archivos con cientos de líneas, obtendrás resultados de refactorización mucho más agudos y precisos si divides el código en fragmentos de 50 a 150 líneas, centrándote en una "función específica" o una "única clase".
+
+- **P: ¿Es seguro aplicar el código refactorizado por la IA directamente a producción?**
+  - R: ¡Nunca lo copies y pegues directamente! A veces, la IA puede pasar por alto casos extremos sutiles en la lógica de negocio y modificar el comportamiento (Alucinación). **Es imprescindible verificar que el nuevo código pasa las pruebas unitarias (Unit Tests) existentes** antes de integrarlo.
+
+- **P: ¿La IA adaptará las mejoras a mi lenguaje o framework específico?**
+  - R: Sí, si especificas en la variable `[Lenguaje/Framework]` de la Versión Pro algo como 'Java/Spring Boot' o 'Python/FastAPI', la IA mejorará el código aplicando las convenciones de nomenclatura y los patrones de diseño recomendados para ese ecosistema en particular.
+
+---
+
+## 🧬 Anatomía del Prompt (Why it works?)
+
+1. **Exigencia de un diagnóstico basado en métricas:** En lugar de un vago "hazlo más bonito", exigir métricas de ingeniería de software concretas como la "complejidad ciclomática" obliga a la IA a centrarse en los defectos estructurales.
+2. **Restricción de inmutabilidad del comportamiento (Constraints):** Al explicitar la primera regla de la refactorización ("invariabilidad del comportamiento externo"), minimizamos el riesgo de que la IA modifique la lógica de negocio a su antojo.
+
+---
+
+## 📊 Prueba: Antes y Después (Before & After)
+
+### ❌ Antes (Entrada: Código espagueti altamente anidado)
+
+```javascript
+function processOrder(order) {
+  if (order != null) {
+    if (order.status === "PENDING") {
+      if (order.items && order.items.length > 0) {
+        let total = 0;
+        for (let i = 0; i < order.items.length; i++) {
+          if (order.items[i].price > 0) {
+            total += order.items[i].price * order.items[i].quantity;
+          }
+        }
+        if (total > 100) {
+          order.discount = total * 0.1;
+        } else {
+          order.discount = 0;
+        }
+        return total - order.discount;
+      } else {
+        return 0;
+      }
+    } else {
+      throw new Error("Order is not pending");
+    }
+  } else {
+    throw new Error("Invalid order");
+  }
+}
+```
+
+### ✅ Después (Resultado: Código limpio usando Cláusulas de Guarda y métodos de array)
+
+```javascript
+function processOrder(order) {
+  // 1. Cláusulas de Guarda (Guard Clauses): Retorno anticipado para casos excepcionales (reduce el anidamiento)
+  if (!order) throw new Error("Invalid order");
+  if (order.status !== "PENDING") throw new Error("Order is not pending");
+  if (!order.items || order.items.length === 0) return 0;
+
+  // 2. Uso de Funciones de Orden Superior: Simplificación de bucles
+  const total = order.items
+    .filter((item) => item.price > 0)
+    .reduce((sum, item) => sum + item.price * item.quantity, 0);
+
+  // 3. Separación y simplificación de la lógica de negocio
+  const discount = total > 100 ? total * 0.1 : 0;
+  order.discount = discount;
+
+  return total - discount;
+}
+```
+
+---
+
+## 🎯 Conclusión
+
+No te rompas más la cabeza frente a un código intrincado. Si identificas el núcleo del problema mediante el análisis de la IA y aplicas las estrategias de refactorización sugeridas paso a paso, podrás escribir un código elegante y fácil de mantener.
+
+¡Ahora, ejecuta tus tests y termina tu jornada con tranquilidad! 🍷

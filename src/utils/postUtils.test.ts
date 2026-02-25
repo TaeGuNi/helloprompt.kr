@@ -1,5 +1,5 @@
-import { describe, it, expect } from "vitest";
-import { sortPostsByDate, filterPublishedPosts, type Post } from "./postUtils";
+import { describe, expect, it } from "vitest";
+import { filterPublishedPosts, type Post, sortPostsByDate } from "./postUtils";
 
 describe("Post Utils: 정렬 및 필터링", () => {
   // 더미 데이터

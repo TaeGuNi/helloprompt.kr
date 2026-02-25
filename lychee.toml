@@ -24,7 +24,16 @@ exclude = [
     "https://chatgpt.com.*",
     "https://claude.ai.*",
     "https://gemini.google.com.*",
-    "https://x.com/i/grok.*"
+    "https://x.com/i/grok.*",
+    
+    # 403 Forbidden (Bot Protection)
+    "https://www.namecheap.com.*",
+    "https://namecheap.com.*",
+    
+    # Timeout / Fails
+    "https://poly.pizza.*",
+    "https://helloprompt.kr.*",
+    "https://www.fast.ai.*"
 ]
 
 # Handle redirects

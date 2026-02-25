@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "NBC Olympics Figure Skating Trend: Write Viral Sports Content in 1 Minute"
+title: " \"NBC Olympics Figure Skating Trend: Write Viral Sports Content in 1 Minute\""
 author: "ZZabbis"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "Content Creation"
-description: "A prompt that uses AI to write vibrant, viral reviews in 1 minute, capturing the lively broadcasting style of NBC Olympics figure skating."
+description: " \"A prompt that uses AI to write vibrant, viral reviews in 1 minute, capturing the lively broadcasting style of NBC Olympics figure skating.\""
 tags:
   [
     "nbc olympics figure skating",
@@ -46,7 +46,7 @@ Use this when you need a short, impactful social media feed post to quickly jump
 
 > **Role:** You are a passionate and expressive figure skating commentator.
 > **Task:** Summarize the results of `[Athlete's Name]`'s recent `[Short/Free]` figure skating program. Write a moving, dramatic Instagram post in the style of an NBC Sports broadcast. Include the hashtags #nbcolympics #figureskating at the end of the text.
-> <br>
+> \
 
 ### 🥇 Pro Version
 

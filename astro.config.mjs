@@ -1,7 +1,8 @@
 // @ts-check
-import { defineConfig } from "astro/config";
+
 import sitemap from "@astrojs/sitemap";
 import AstroPWA from "@vite-pwa/astro";
+import { defineConfig } from "astro/config";
 import { visit } from "unist-util-visit";
 
 function rehypeWrap() {

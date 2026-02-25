@@ -51,15 +51,15 @@
     "workbox-window": "^7.4.0"
   },
   "lint-staged": {
+    "src/content/posts/**/*.md": [
+      "node scripts/strip_all_comments.mjs",
+      "pnpm qa"
+    ],
     "*.{js,ts,json,cjs,mjs}": [
       "biome check --write"
     ],
     "*.{js,ts}": [
       "vitest related --run"
-    ],
-    "src/content/posts/**/*.md": [
-      "node scripts/strip_all_comments.mjs",
-      "pnpm qa"
     ]
   }
 }

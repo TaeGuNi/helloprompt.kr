@@ -1,0 +1,32 @@
+---
+export interface Props {
+  title: string;
+  t: Record<string, string>;
+}
+
+const { title, t } = Astro.props;
+---
+
+<div class="share-buttons">
+  <button
+    id="copy-link-btn"
+    class="share-btn"
+    aria-label="Copy Link"
+  >
+    🔗 {t.link}
+  </button>
+  <a
+    href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(title)}&url=https://helloprompt.kr/`}
+    target="_blank"
+    class="share-btn twitter"
+  >
+    𝕏 {t.post}
+  </a>
+  <button
+    id="bookmark-btn"
+    class="share-btn bookmark"
+    aria-label="Bookmark this page"
+  >
+    <span class="icon">☆</span> {t.bookmark || "Bookmark"}
+  </button>
+</div>

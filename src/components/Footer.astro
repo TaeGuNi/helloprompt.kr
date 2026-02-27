@@ -1,0 +1,46 @@
+---
+import { uiStrings } from "../utils/ui-translation";
+
+interface Props {
+  currentLang: string;
+}
+
+const { currentLang } = Astro.props;
+const t = uiStrings[currentLang] || uiStrings.ko;
+---
+
+<footer>
+  <p>POWERED BY JAY & ZZABBIS</p>
+  <p style="color: #888; font-size: 0.9rem; margin: 5px 0;">
+    {t.slogan}
+  </p>
+  <p style="margin-top:10px; font-size: 0.7rem;">
+    <a
+      href={`/${currentLang}/rss.xml`}
+      style="color:#666; text-decoration:none; margin-right:10px;"
+    >
+      RSS
+    </a>
+    <a
+      href={`/${currentLang}/atom.xml`}
+      style="color:#666; text-decoration:none; margin-right:10px;"
+    >
+      ATOM
+    </a>
+    <a
+      href="/privacy"
+      style="color:#666; text-decoration:none; margin-right:10px;"
+    >
+      {t.privacy_policy}
+    </a>
+    <a
+      href="/terms"
+      style="color:#666; text-decoration:none; margin-right:10px;"
+    >
+      {t.terms || "Terms"}
+    </a>
+    <a href="/contact" style="color:#666; text-decoration:none;">
+      {t.contact || "Contact"}
+    </a>
+  </p>
+</footer>

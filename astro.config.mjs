@@ -5,6 +5,8 @@ import AstroPWA from "@vite-pwa/astro";
 import { defineConfig } from "astro/config";
 import { visit } from "unist-util-visit";
 
+import tailwindcss from "@tailwindcss/vite";
+
 function rehypeWrap() {
   /** @param {any} tree */
   return (tree) => {
@@ -62,10 +64,13 @@ function rehypeWrap() {
 // https://astro.build/config
 export default defineConfig({
   output: "server",
+
   adapter: vercel({
     isr: true,
   }),
+
   site: "https://helloprompt.kr",
+
   integrations: [
     AstroPWA({
       registerType: "autoUpdate",
@@ -96,8 +101,13 @@ export default defineConfig({
       },
     }),
   ],
+
   markdown: {
     // remarkPlugins: [remarkStrictTemplate], // Disabled: Causes synchronous event loop blocking on heavy multi-language builds
     rehypePlugins: [rehypeWrap],
   },
+
+  vite: {
+    plugins: [tailwindcss()]
+  }
 });

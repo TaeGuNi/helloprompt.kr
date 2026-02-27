@@ -1,0 +1,28 @@
+---
+/**
+ * Google Analytics (GA4) Component
+ * - Only load the script in the production environment to prevent dev/local traffic pollution.
+ */
+const isProd = import.meta.env.PROD;
+---
+
+{
+  isProd && (
+    <>
+      <script
+        is:inline
+        async
+        src="https://www.googletagmanager.com/gtag/js?id=G-P5MFF2LHX1"
+      />
+      <script is:inline>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+          // eslint-disable-next-line prefer-rest-params
+          dataLayer.push(arguments);
+        }
+        gtag("js", new Date());
+        gtag("config", "G-P5MFF2LHX1");
+      </script>
+    </>
+  )
+}

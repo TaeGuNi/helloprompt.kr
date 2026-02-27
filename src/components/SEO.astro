@@ -1,0 +1,181 @@
+---
+import { determineCurrentLang } from "../utils/i18nUtils";
+import { uiStrings } from "../utils/ui-translation";
+
+interface Props {
+  frontmatter: {
+    title: string;
+    description: string;
+    date: string;
+    updatedDate?: string;
+    author: string;
+    category?: string;
+    tags?: string[];
+    lang?: string;
+  };
+  isHome?: boolean;
+}
+
+const { frontmatter, isHome = false } = Astro.props;
+
+const currentLang = determineCurrentLang(Astro.url.pathname, frontmatter.lang);
+const t = uiStrings[currentLang] || uiStrings.ko;
+---
+
+<title>
+  {
+    isHome
+      ? `Hello Prompt | ${t.slogan || "AI가 낯선 당신을 위한 가장 친절한 가이드"}`
+      : `${frontmatter.title} | Hello Prompt`
+  }
+</title>
+<meta name="viewport" content="width=device-width" />
+<meta name="description" content={frontmatter.description} />
+<meta
+  name="naver-site-verification"
+  content="c0b3ad7ccd384b0cf7ceaf2b9a136504e0ba0cc7"
+/>
+
+<!-- [SEO] Canonical URL -->
+<link rel="canonical" href={new URL(Astro.url.pathname, Astro.site).href} />
+
+<!-- [SEO] i18n Hreflang Tags -->
+{
+  ["ko", "en", "de", "es", "fr", "it", "ja", "pt", "ru", "zh"].map(
+    (lang) => (
+      <link
+        rel="alternate"
+        hreflang={lang}
+        href={`${Astro.site}${lang === "ko" ? "" : lang + "/"}${Astro.url.pathname.replace(/^\/(?:[a-z]{2}\/)?/, "")}`}
+      />
+    ),
+  )
+}
+<link rel="alternate" hreflang="x-default" href={Astro.site} />
+
+<!-- [SEO] Sitemap & Robots -->
+<link rel="sitemap" href="/sitemap.xml" />
+
+<!-- [Feed] RSS & Atom Auto-Discovery -->
+<link
+  rel="alternate"
+  type="application/rss+xml"
+  title="Hello Prompt RSS Feed"
+  href={`/${currentLang}/rss.xml`}
+/>
+<link
+  rel="alternate"
+  type="application/atom+xml"
+  title="Hello Prompt Atom Feed"
+  href={`/${currentLang}/atom.xml`}
+/>
+
+<!-- [Social] Open Graph (SNS 공유 미리보기) -->
+<meta property="og:type" content={isHome ? "website" : "article"} />
+<meta
+  property="og:title"
+  content={isHome
+    ? `Hello Prompt | ${t.slogan || "AI가 낯선 당신을 위한 가장 친절한 가이드"}`
+    : frontmatter.title}
+/>
+<meta property="og:description" content={frontmatter.description} />
+<meta property="og:site_name" content="Hello Prompt" />
+<meta
+  property="og:image"
+  content={isHome
+    ? "https://helloprompt.kr/og-image.svg"
+    : `https://helloprompt.kr/api/og?title=${encodeURIComponent(frontmatter.title)}`}
+/>
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@helloprompt" />
+<meta name="twitter:creator" content="@CosmicZenJay" />
+<meta name="twitter:title" content={frontmatter.title} />
+<meta name="twitter:description" content={frontmatter.description} />
+<meta
+  name="twitter:image"
+  content={isHome
+    ? "https://helloprompt.kr/og-image.svg"
+    : `https://helloprompt.kr/api/og?title=${encodeURIComponent(frontmatter.title)}`}
+/>
+
+<!-- [SEO] JSON-LD Structured Data -->
+<script
+  is:inline
+  type="application/ld+json"
+  set:html={JSON.stringify(
+    isHome
+      ? {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          name: "Hello Prompt",
+          url: Astro.site,
+          description: t.slogan,
+          potentialAction: {
+            "@type": "SearchAction",
+            target: `${Astro.site}search?q={search_term_string}`,
+            "query-input": "required name=search_term_string",
+          },
+        }
+      : [
+          {
+            "@context": "https://schema.org",
+            "@type": "Article",
+            headline: frontmatter.title,
+            description: frontmatter.description,
+            image: `https://helloprompt.kr/api/og?title=${encodeURIComponent(frontmatter.title)}`,
+            datePublished: new Date(frontmatter.date).toISOString(),
+            dateModified: frontmatter.updatedDate
+              ? new Date(frontmatter.updatedDate).toISOString()
+              : new Date(frontmatter.date).toISOString(),
+            author: [
+              {
+                "@type": "Person",
+                name: frontmatter.author || "Zzabbis",
+                url: "https://helloprompt.kr/about",
+              },
+            ],
+            publisher: {
+              "@type": "Organization",
+              name: "Hello Prompt",
+              logo: {
+                "@type": "ImageObject",
+                url: "https://helloprompt.kr/favicon.svg",
+              },
+            },
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            itemListElement: [
+              {
+                "@type": "ListItem",
+                position: 1,
+                name: "Home",
+                item: Astro.site
+              },
+              ...(frontmatter.tags && frontmatter.tags.length > 0 ? [{
+                "@type": "ListItem",
+                position: 2,
+                name: frontmatter.tags[0],
+                item: `${Astro.site}${currentLang}/tags/${frontmatter.tags[0]}`
+              }] : []),
+              {
+                "@type": "ListItem",
+                position: frontmatter.tags && frontmatter.tags.length > 0 ? 3 : 2,
+                name: frontmatter.title,
+                item: new URL(Astro.url.pathname, Astro.site).href
+              }
+            ]
+          }
+        ]
+  )}
+/>
+
+<!-- [Fonts] Orbitron (Title), Noto Sans KR (Body), JetBrains Mono (Code) -->
+<link
+  href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Noto+Sans+KR:wght@300;400;700&family=JetBrains+Mono:wght@400&display=swap"
+  rel="stylesheet"
+/>
+
+<!-- [Favicon] -->
+<link rel="icon" type="image/svg+xml" href="/favicon.svg" />

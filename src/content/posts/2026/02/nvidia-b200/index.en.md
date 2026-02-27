@@ -39,7 +39,6 @@ Use this when you need a rapid, high-level summary of the new GPU's capabilities
 > **Role:** You are a senior tech news reporter.
 > **Task:** Summarize the key features, architectural upgrades, and market impact of the newly announced NVIDIA RTX 6090 Ti (Blackwell architecture) in 3 punchy bullet points.
 
-\
 
 ### 🥇 Pro Version
 

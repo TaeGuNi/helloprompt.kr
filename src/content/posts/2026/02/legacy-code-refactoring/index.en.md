@@ -55,10 +55,9 @@ Simply asking "Refactor this" carries a massive risk of breaking existing featur
 >
 > **Input Code:**
 >
-> ```python
+>
 > [Paste your legacy code here]
-> ```
-
+>
 ---
 
 ## 💡 Writer's Insight

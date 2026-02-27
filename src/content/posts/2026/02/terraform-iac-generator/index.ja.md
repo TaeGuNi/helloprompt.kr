@@ -45,7 +45,6 @@ tags: ["DevOps", "Terraform", "AWS"]
 > **タスク:** AWSの`[サービス名]`リソースを作成するためのTerraformコードを記述してください。
 > **制約事項:** 最新のAWS Providerバージョンを使用し、ハードコーディングをせずに変数（variable）で処理してください。
 
-\
 
 ### 🥇 Pro Version (専門家型)
 

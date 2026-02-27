@@ -45,7 +45,6 @@ Ideal, wenn Sie unter Zeitdruck stehen und schnell eingängige Titel-Optionen be
 > **Aufgabe:** Generiere 10 extrem klickstarke Titel (hohe CTR) für mein nächstes Video.
 > **Thema:** `[Video-Thema hier einfügen]`
 
-\
 
 ### 🥇 Pro Version (Thumbnail & Titel-Paket)
 

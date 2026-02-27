@@ -45,7 +45,6 @@ Use this when you need a quick fix for a relatively simple query.
 > **Request:** Analyze the following SQL query, optimize its performance, and recommend the best indexes.
 > **Query:** `[Paste your query here]`
 
-\
 
 ### 🥇 Pro Version (Expert)
 

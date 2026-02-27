@@ -41,7 +41,6 @@ Use this when you need a quick logic check without setting up complex context.
 > **Role:** You are an expert logical thinker.
 > **Task:** Solve the following problem: `[Insert complex math or logic problem]`. Let's think step by step.
 
-\
 
 ### 🥇 Pro Version (Few-Shot CoT)
 

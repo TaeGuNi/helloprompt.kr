@@ -44,7 +44,6 @@ Use esta versão quando precisar de uma conversão simples e direta, sem regras 
 > **Papel:** Você é um Engenheiro de Dados especialista em processos de ETL (Extração, Transformação e Carga).
 > **Solicitação:** Converta os dados abaixo de `[CSV]` para `[JSON]`.
 
-\
 
 ### 🥇 Versão Pro (Expert)
 

@@ -44,7 +44,6 @@ Ya no necesitas preprocesadores pesados. Aquí te mostramos cómo usar la IA par
 > **Tarea:** Convierte el siguiente código heredado de Sass/CSS-in-JS en CSS moderno utilizando **Anidamiento Nativo** puro y **Tailwind CSS v5**.
 > **Código a refactorizar:** `[Pega tu código aquí]`
 
-\
 
 ### 🥇 Pro Version (Versión Profesional)
 

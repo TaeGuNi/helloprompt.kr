@@ -42,7 +42,6 @@ Use this when you need quick inspiration without complex settings.
 > **Role:** You are a master novelist and cultural anthropologist with an exceptional sense for naming characters.
 > **Request:** I need a name for a `[Genre/Era]` character who is `[Key Personality/Trait]`. Suggest 5 names along with their hidden meanings.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

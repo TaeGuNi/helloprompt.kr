@@ -42,7 +42,6 @@ Use esta versão quando precisar apenas de um resultado rápido antes de entrar 
 > **Papel:** Você é um estrategista e coach de carreira sênior.
 > **Tarefa:** O recrutador acabou de me perguntar "Você tem alguma dúvida?". Crie 3 perguntas reversas inteligentes e estratégicas que demonstrem meu profundo interesse na empresa e minha visão analítica sobre a vaga.
 
-\
 
 ### 🥇 Versão Pro (Expert Version)
 

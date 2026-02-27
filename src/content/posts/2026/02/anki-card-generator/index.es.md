@@ -42,7 +42,6 @@ Las aplicaciones de tarjetas didácticas o _flashcards_ (como Anki o Quizlet) so
 > **Rol:** Eres un experto en técnicas de estudio y procesamiento de material didáctico.
 > **Solicitud:** Analiza el siguiente texto y conviértelo en pares de preguntas y respuestas breves para usarlas como tarjetas de memorización en aplicaciones como Anki o Quizlet.
 
-\
 
 ### 🥇 Versión Pro (Expert)
 

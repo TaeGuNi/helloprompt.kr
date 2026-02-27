@@ -42,7 +42,6 @@ Use este prompt quando precisar de resultados rápidos e diretos para continuar 
 > **Papel:** Você é um linguista especializado em idiomas antigos e um mestre em worldbuilding (construção de mundos). Você cria nomes com a mesma profundidade linguística de J.R.R. Tolkien.
 > **Solicitação:** Crie 5 nomes únicos para `[tipo de lugar, ex: uma floresta élfica, uma mina anã, uma cidade mercantil]`, incluindo seus significados originais e uma breve origem.
 
-\
 
 ### 🥇 Versão Pro (Expert)
 

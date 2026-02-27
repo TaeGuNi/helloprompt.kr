@@ -48,7 +48,6 @@ Verwenden Sie diese Version, wenn Sie nur schnell die Konfliktursache herausfind
 > **package.json:**
 > `[Inhalt der package.json hier einfügen]`
 
-\
 
 ### 🥇 Pro Version (Experten-Version)
 

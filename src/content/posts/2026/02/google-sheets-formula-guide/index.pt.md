@@ -43,7 +43,6 @@ Use esta versão quando precisar compilar dados em tempo real com condições co
 >
 > **Tarefa:** Crie uma **função QUERY** que extraia apenas as linhas onde `[a Coluna C (Departamento) é 'Marketing' e a Coluna D (Pontuação) é 80 ou mais]`, a partir do `[intervalo A:E]` da `[Planilha Dados]`, exibindo o resultado em outra aba. Após fornecer a função, explique brevemente como ela funciona para que um iniciante possa entender.
 
-\
 
 ### 🥇 Versão Pro (Automação de Alertas baseada em AppScript)
 

@@ -49,7 +49,6 @@ Use esta versão quando precisar de conselhos rápidos e diretos para o dia a di
 > **Papel:** Você é um especialista em psicologia da aprendizagem infantil.
 > **Pedido:** Sugira técnicas de conversa para encorajar uma criança a sentar na mesa de estudos de forma autônoma, sem que eu precise forçá-la ou gritar.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

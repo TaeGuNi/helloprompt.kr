@@ -43,7 +43,6 @@ tags: ["Letras", "EscrituraLetras", "Balada", "Música"]
 >
 > **Solicitud:** Escribe el borrador de la letra de una balada melancólica basándote únicamente en estas 3 palabras clave: sofá viejo, sonido de lluvia, y llamada perdida.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

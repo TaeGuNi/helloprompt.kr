@@ -43,12 +43,9 @@ Use esta versão quando precisar apenas de uma varredura rápida para encontrar 
 > **Role (Papel):** Você é um Desenvolvedor Sênior (Backend/Frontend) com 10 anos de experiência.
 > **Task (Tarefa):** Encontre bugs críticos ou anti-patterns que precisam ser corrigidos imediatamente no código abaixo.
 > 
-> ```plaintext
+>
 > [Cole o seu código aqui]
-> ```
-
-\
-
+>
 ### 🥇 Pro Version (Versão Especialista)
 
 Recomendada quando você deseja elevar a qualidade do código para o nível de produção (Production) e obter justificativas objetivas para a refatoração.
@@ -63,9 +60,9 @@ Recomendada quando você deseja elevar a qualidade do código para o nível de p
 >
 > **Input (Código):**
 >
-> ```plaintext
+>
 > [Cole o código a ser revisado aqui]
-> ```
+>
 >
 > **Task (Tarefa):**
 > Revise meu código rigorosamente sob as 4 perspectivas a seguir e forneça o código completo refatorado:

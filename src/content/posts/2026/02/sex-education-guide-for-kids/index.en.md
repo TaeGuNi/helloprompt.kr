@@ -42,7 +42,6 @@ Use this when you need a quick, reliable script on the spot.
 > **Role:** You are an expert in early childhood development and sex education.
 > **Request:** My 5-year-old just asked how babies are made. Give me a short, honest, and age-appropriate explanation without being awkward.
 
-\
 
 ### 🥇 Pro Version
 

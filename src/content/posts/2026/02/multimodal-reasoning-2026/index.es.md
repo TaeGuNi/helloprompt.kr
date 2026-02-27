@@ -39,7 +39,6 @@ El panorama de la Inteligencia Artificial ha evolucionado. Durante años, tratam
 > **Rol:** Eres un `[Experto en Análisis Multimodal]`.
 > **Tarea:** Analiza el archivo adjunto y explica `[el propósito/significado principal]` considerando tanto los elementos visuales como el texto o audio.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

@@ -45,7 +45,6 @@ tags: ["AI", "Tech", "offline-edge-ai-mobile"]
 >
 > **요청:** 내 모바일 앱에 `[Llama 3 8B]` 모델을 오프라인으로 탑재하고 싶어. 현재 가장 안정적인 프레임워크와 구현 단계를 요약해줘.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

@@ -37,7 +37,6 @@ Utilisez cette version pour des explications rapides et des concepts simples.
 > **Rôle :** Tu es un `[Tuteur IA Expert]`.
 > **Tâche :** Explique le concept de `[Sujet Complexe]` à un élève de `[Niveau Scolaire]`.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

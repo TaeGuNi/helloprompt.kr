@@ -44,13 +44,13 @@ Inizia preparando l'ambiente e i componenti visivi che l'IA potrà utilizzare.
 
 > **Passo 1: Installazione**
 >
-> ```bash
+>
 > pnpm add @tambo/sdk ai
-> ```
+>
 >
 > **Passo 2: Definizione del Componente**
 >
-> ```tsx
+>
 > // components/PlaceCard.tsx
 > import { Card, Text, Button } from "@tambo/ui";
 >
@@ -66,17 +66,14 @@ Inizia preparando l'ambiente e i componenti visivi che l'IA potrà utilizzare.
 >     </Card>
 >   );
 > }
-> ```
-
-\
-
+>
 ### 🥇 Pro Version (Integrazione e Rendering)
 
 Ora colleghiamo il componente al "cervello" dell'IA definendo uno schema rigoroso, e renderizziamo il risultato nell'interfaccia.
 
 > **Passo 3: Configurazione del Registro Tambo**
 >
-> ```tsx
+>
 > // lib/tambo.ts
 > import { createTambo } from "@tambo/sdk";
 > import { PlaceCard } from "../components/PlaceCard";
@@ -96,11 +93,11 @@ Ora colleghiamo il componente al "cervello" dell'IA definendo uno schema rigoros
 >     },
 >   },
 > });
-> ```
+>
 >
 > **Passo 4: Rendering Dinamico nell'UI**
 >
-> ```tsx
+>
 > // app/chat/page.tsx
 > import { useChat } from "ai/react";
 > import { TamboProvider, GenerativeUI } from "@tambo/sdk/react";
@@ -131,8 +128,7 @@ Ora colleghiamo il componente al "cervello" dell'IA definendo uno schema rigoros
 >     </TamboProvider>
 >   );
 > }
-> ```
-
+>
 ---
 
 ## 💡 Note dell'Autore (Insight)

@@ -43,7 +43,6 @@ Idéal pour générer une histoire rapide avant le coucher.
 > **Rôle :** Tu es un auteur de contes pour enfants à succès, reconnu pour tes histoires inspirantes qui donnent confiance.
 > **Tâche :** Écris une courte histoire d'aventure mettant en scène un enfant nommé `[Prénom de l'enfant]` afin de renforcer son estime de soi.
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 

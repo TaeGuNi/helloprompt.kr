@@ -39,7 +39,6 @@ tags: ["AI Trends", "Multimodal", "Prompt Engineering", "2026"]
 > **役割:** あなたはシニアUI/UXデザイナー兼フロントエンドエンジニアです。
 > **リクエスト:** 添付した画像のUIを分析し、よりモダンでユーザビリティの高いデザインに改善するためのコード（HTML/Tailwind CSS）を生成してください。
 
-\
 
 ### 🥇 Pro Version (専門家型)
 

@@ -40,7 +40,7 @@ Copia el siguiente prompt y lánzaselo a tu IA. A partir de ahora, la IA solo te
 > **Tarea:** Construye el `[Elemento UI]` que te indique utilizando Tailwind.
 >
 > **Restricciones:** Jamás utilices los corchetes `[]` para inyectar píxeles arbitrarios o códigos hex. Todos los espacios y colores deben ajustarse (snap) a los tokens por defecto de Tailwind (ej. `w-8`, `text-blue-500`). El orden de las clases debe ser estrictamente: layout -> tamaño -> tipografía -> decoración.
-\
+
 ### 🥇 Versión Pro (Control total del sistema de diseño)
 El cheat code definitivo para establecer las convenciones de todo un proyecto o diseñar componentes a gran escala.
 
@@ -67,7 +67,7 @@ El cheat code definitivo para establecer las convenciones de todo un proyecto o 
 > **Advertencia (Warning):**
 > 
 > - Violar cualquiera de estos principios se considerará un Bug. Si encuentro un magic number en tu código, lo rechazaré sin piedad, así que hazlo bien.
-\
+
 ### 💻 Cheat Code Prompt (Copy & Paste)
 ```text
 **Rol (Role):** Eres un arquitecto frontend y controlador de sistemas de diseño despiadado e intransigente. Déjate de adulaciones y preámbulos innecesarios típicos de la IA; limítate a escupir código perfectamente controlado.

@@ -40,7 +40,6 @@ tags: ["AI", "Gemini", "SVG", "Generative Tech"]
 > **角色:** 你是一位 `[精通 SVG 的前端开发者]`。
 > **任务:** 请编写一段完美的 SVG 代码，描绘 `[一只骑着自行车的鹈鹕]`。
 
-\
 
 ### 🥇 Pro Version (专业版)
 

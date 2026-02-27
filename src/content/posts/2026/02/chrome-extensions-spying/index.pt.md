@@ -47,7 +47,6 @@ Use esta versão para verificar rapidamente o nível de risco copiando apenas a 
 > - Nome: `[Nome da extensão]`
 > - Permissões Exigidas: `[Copie e cole a lista de permissões exibida na Web Store]`
 
-\
 
 ### 🥇 Versão Profissional (Pro Version)
 

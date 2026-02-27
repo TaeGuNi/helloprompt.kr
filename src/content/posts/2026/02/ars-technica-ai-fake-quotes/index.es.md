@@ -50,7 +50,6 @@ Para evitar que tu contenido sufra del mismo mal que el artículo coescrito por 
 > **Rol:** Eres un editor de noticias y verificador de datos (Fact-Checker) implacable.
 > **Tarea:** Analiza el siguiente `[Texto]` y resalta cualquier cita, estadística o afirmación factual que carezca de una fuente rastreable o que suene genérica, fabricada o alucinada.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

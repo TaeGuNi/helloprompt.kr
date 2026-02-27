@@ -48,7 +48,6 @@ Conversazione: "Oggi ero così stanco che ho saltato la pausa pranzo per lavorar
 > **Richiesta (Task):**
 Analizza se la persona che ha risposto è più orientata al Pensiero Logico (T) o al Sentimento (F). Suggeriscimi inoltre 2 esempi su come potrei rispondere per creare un legame più profondo.
 
-\
 
 ### 🥇 Versione Pro (Analisi approfondita dei 16 tipi e Strategie di Conquista)
 

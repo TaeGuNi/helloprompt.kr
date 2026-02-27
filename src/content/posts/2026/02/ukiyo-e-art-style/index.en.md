@@ -42,7 +42,6 @@ Use this when you need a quick, stylized result without complex parameters.
 > **Role:** You are an expert AI artist specializing in traditional Japanese art.
 > **Request:** Create an image of a giant cat playing with Mount Fuji, rendered strictly in a traditional Ukiyo-e woodblock print style with dramatic waves.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

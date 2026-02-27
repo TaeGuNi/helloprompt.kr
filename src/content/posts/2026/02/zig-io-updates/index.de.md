@@ -43,7 +43,6 @@ Nutze diese Version, wenn du schnell eine Zusammenfassung der Kernpunkte und gru
 > **Rolle:** Du bist ein Senior `[Zig Systemprogrammierer]`.
 > **Aufgabe:** Fasse die wichtigsten Änderungen der asynchronen I/O (`io_uring`, `IOCP`, `kqueue`) aus dem Zig-Update vom Februar 2026 zusammen und schreibe einen einfachen, darauf basierenden asynchronen Socket-Server als Beispielcode.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

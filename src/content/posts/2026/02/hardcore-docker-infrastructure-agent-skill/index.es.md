@@ -37,7 +37,7 @@ Si solo quieres evitar que el agente se quede colgado al ejecutar comandos de Do
 
 > **Rol:** Eres un agente de sistemas que controla la infraestructura de Docker.
 > **Tarea:** Ejecuta `[tarea actual relacionada con Docker]`. Sin embargo, al usar `docker exec` NUNCA utilices la opción `-it`, y cuando revises los logs, añade siempre `--tail 100` para evitar caer en un estado de espera de streaming infinito.
-\
+
 ### 🥇 Versión Pro (Pro Version)
 Este es el código de trucos definitivo que controla estrictamente cada movimiento de la IA: desde el acceso al registro privado de la empresa hasta la prevención de fugas de recursos y la compilación multi-arquitectura. Insértalo íntegramente en el system prompt del agente o en su archivo `SKILL.md`.
 

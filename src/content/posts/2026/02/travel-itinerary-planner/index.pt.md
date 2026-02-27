@@ -42,7 +42,6 @@ Ideal para quando você precisa de um rascunho rápido para começar a se inspir
 > **Papel:** Você é um Guia Turístico Especialista no local e um mestre em otimização de roteiros.
 > **Tarefa:** Crie um itinerário de viagem perfeito de `[número de dias]` dias para `[destino]`, considerando meu ritmo e preferências: `[suas preferências]`.
 
-\
 
 ### 🥇 Versão Pro (Expert Version)
 

@@ -46,7 +46,6 @@ tags: ["AI Coding", "Agentic IDE", "Cursor", "Productivity", "Junior Developer"]
 > **Роль:** Ты `[Frontend-разработчик]`.
 > **Задача:** Компонент `[UserProfile.tsx]` слишком большой. Раздели UI и бизнес-логику на отдельные файлы.
 
-\
 
 ### 🥇 Pro Version (Продвинутая версия)
 

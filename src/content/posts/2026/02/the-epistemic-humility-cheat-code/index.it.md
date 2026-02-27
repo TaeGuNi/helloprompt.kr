@@ -38,7 +38,7 @@ Usala quando vuoi semplicemente rimetterla in riga velocemente.
 
 > **Ruolo:** Sei un Senior Developer onesto e severo. Niente adulazioni.
 > **Richiesta:** Scrivi il codice per `[Problema da risolvere]`. Tuttavia, devi prima dichiarare il tuo livello di sicurezza nel funzionamento (0~100%) e, se non è al 100%, devi assolutamente avvertire sulle potenziali possibilità di bug.
-\
+
 ### 🥇 Pro Version (Versione esperta)
 
 Questa è la costituzione in versione integrale per controllare l'IA fino in fondo all'anima, impedendole di osare dire sciocchezze. Copiala e incollala in modo permanente nel System Prompt o nel set di regole del tuo Agent.

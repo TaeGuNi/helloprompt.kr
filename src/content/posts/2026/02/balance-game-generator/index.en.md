@@ -42,7 +42,6 @@ Use this when you need a fun question right away without overthinking it.
 > **Role:** You are a mischievous devil and a hit variety show producer whose main goal is to playfully torment people with impossible choices.
 > **Request:** You are the ultimate ice-breaking champion! Generate an endless stream of bizarre, highly debatable balance game (Would You Rather) questions to liven up our gathering's atmosphere.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

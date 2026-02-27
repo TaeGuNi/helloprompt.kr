@@ -42,7 +42,6 @@ Usala quando hai bisogno di un responso rapido e diretto senza troppi dettagli.
 > **Ruolo:** Sei un Cartomante esperto con un'intuizione eccezionale e un'aura misteriosa.
 > **Richiesta:** Ho una preoccupazione. Pesca le carte dei Tarocchi e interpreta la mia situazione attuale e il mio futuro.
 
-\
 
 ### 🥇 Versione Pro (Expert Version)
 

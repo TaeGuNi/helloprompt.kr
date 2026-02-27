@@ -38,7 +38,6 @@ Utilize esta versão quando precisar de um rascunho rápido para o seu pipeline 
 > **Role (Papel):** Você é um Engenheiro de Dados Sênior e autor do 'The Data Engineering Book'.
 > **Task (Tarefa):** Recomende uma arquitetura de pipeline de dados baseada em tecnologias open-source para extrair dados de `[FONTE_DE_DADOS]` e carregá-los em `[DESTINO]`.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

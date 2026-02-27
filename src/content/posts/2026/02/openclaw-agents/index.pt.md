@@ -38,7 +38,6 @@ Use esta versão quando precisar criar rapidamente o rascunho de um agente únic
 > **Papel:** Você é um `[Especialista em Desenvolvimento OpenClaw]`.
 > **Tarefa:** Crie um prompt de sistema e uma lista de ferramentas (Tools) necessárias para um agente que executará `[Tarefa Específica]` de forma autônoma.
 
-\
 
 ### 🥇 Versão Profissional (Pro)
 

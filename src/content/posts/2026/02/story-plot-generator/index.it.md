@@ -42,7 +42,6 @@ Usa questa versione per ottenere rapidamente un'idea generale o sbloccare l'ispi
 > **Ruolo:** Sei un autore di web novel di successo e un esperto editor.
 > **Richiesta:** Crea una breve sinossi per una web novel di genere `[Inserisci il genere, es. Fantasy romantico]`. Il protagonista è `[Breve descrizione del protagonista]`. Includi un incidente scatenante e un obiettivo principale.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

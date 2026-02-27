@@ -43,7 +43,6 @@ Use esta versão quando precisar de uma refatoração rápida e direta.
 > **Solicitação:** Refatore o código a seguir para que ele seja mais limpo, fácil de ler e de manter. Aplique boas práticas de nomenclatura e remova redundâncias estruturais.
 > **Código:** `[Cole seu código aqui]`
 
-\
 
 ### 🥇 Pro Version (Versão Profissional)
 

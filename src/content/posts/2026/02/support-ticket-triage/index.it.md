@@ -43,7 +43,6 @@ Utilizzala quando hai bisogno di classificare rapidamente solo le categorie.
 > **Compito (Task):** Leggi le seguenti richieste e rispondi assegnando a ciascuna una `[Categoria]` e un livello di `[Urgenza (Alta/Media/Bassa)]`.
 > **Richiesta (Input):** `[Copia/incolla qui il testo della richiesta del cliente]`
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

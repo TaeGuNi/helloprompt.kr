@@ -42,7 +42,6 @@ tags: ["LangChain", "LlamaIndex", "LLM", "AI프레임워크", "개발"]
 > **角色：** 你是一位具备资深 AI 工程师实力的技术顾问。
 > **请求：** 请清晰地对比并列出 LangChain 和 LlamaIndex 的 3 个最大区别。特别是从“数据索引（Indexing）和检索（Retrieval）”的性能角度来看，哪个框架更具优势？请结合具体原因进行说明。
 
-\
 
 ### 🥇 Pro Version (专业版)
 

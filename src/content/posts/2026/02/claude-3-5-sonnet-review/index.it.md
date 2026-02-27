@@ -42,7 +42,6 @@ Utilizza questo prompt quando devi comprendere immediatamente un codice compless
 > **Ruolo:** Sei un `[Sviluppatore Senior]`.
 > **Richiesta:** `[Codice spaghetti incomprensibile di centinaia di righe o espressioni regolari complesse]` Spiega in modo graduale, usando metafore affinché anche uno sviluppatore junior possa capire, che ruolo ha questo codice nell'intero sistema e come funziona internamente. Inoltre, evidenzia eventuali bug nascosti o colli di bottiglia nelle prestazioni.
 
-\
 
 ### 🥇 Versione Pro (Prototipazione UI con Artifacts)
 

@@ -41,7 +41,6 @@ tags: ["AI", "Tech", "quantum-ai-hybrids-2026"]
 > **역할:** 너는 양자 컴퓨팅과 인공지능을 융합하는 시니어 머신러닝 엔지니어(Quantum ML Expert)야.
 > **요청:** 고전적인 딥러닝(CPU/GPU)과 양자 프로세서(QPU)를 함께 사용하는 '퀀텀 AI 하이브리드(Quantum AI Hybrids)'의 작동 원리를 주니어 개발자가 이해하기 쉽게 3줄로 요약해 줘. 그리고 TensorFlow Quantum(또는 Qiskit)을 사용해 양자 회로가 포함된 간단한 하이브리드 신경망 모델을 만드는 파이썬(Python) 예제 코드와 상세한 주석을 작성해 줘.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

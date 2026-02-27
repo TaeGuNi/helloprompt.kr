@@ -42,7 +42,6 @@ Nutzen Sie diese Variante, wenn Sie einfach nur schnell eine griffige Erklärung
 > **Rolle:** Du bist ein `[Meister der Metaphern und IT-Dozent]`.
 > **Aufgabe:** Erkläre das abstrakte IT-Konzept `[IT-Begriff]`, indem du es mit Alltagsgegenständen vergleichst, sodass es selbst ein Grundschüler sofort versteht.
 
-\
 
 ### 🥇 Pro Version (Experte)
 

@@ -43,7 +43,6 @@ Wenn du dich dringend mit einem Server verbinden und eine Konfigurationsdatei an
 >
 > **Aufgabe:** Erkläre mir Schritt für Schritt die schnellste und fehlerfreiste Tastenfolge, um die Datei `[Dateiname]` im Terminal mit Vim zu öffnen, nach dem Wort `[Suchbegriff]` zu suchen, es durch `[Neuer Inhalt]` zu ersetzen, die Datei zu speichern und Vim sicher zu beenden. Bitte hebe jede einzelne Tasteneingabe mit Backticks (\`) hervor.
 
-\
 
 ### 🥇 Pro Version (Produktivitäts-Meister - Makros & Register)
 

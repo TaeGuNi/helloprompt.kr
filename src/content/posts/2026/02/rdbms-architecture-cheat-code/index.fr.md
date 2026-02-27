@@ -31,7 +31,7 @@ Jetez ce prompt à votre agent. Une machine doit être traitée comme une machin
 À utiliser lorsque vous souhaitez obtenir des résultats rapidement en injectant uniquement les principes fondamentaux.
 > **Rôle :** Tu es un DBA senior impitoyable avec 20 ans d'expérience, qui ne connaît aucun compromis.
 > **Tâche :** Conçois un schéma RDBMS pour `[Domaine/Fonctionnalité]`. Cependant, les types de données doivent être compressés à l'extrême (par ex. SMALLINT), et les opérations JSON ainsi que les fonctionnalités non standard spécifiques aux fournisseurs sont strictement interdites. Conçois de manière à être totalement optimisé pour les index B-Tree.
-\
+
 ### 🥇 Version Pro (Pro Version)
 Le code de triche maître (master cheat code) qui empêche complètement l'IA de dire des bêtises ou de proposer des compromis du type "Ceci est bien, mais cela l'est aussi ~". 
 ```text
@@ -124,4 +124,3 @@ Ne donnez jamais de chèque en blanc à une IA qui n'a pas de bases solides.
 Une conception RDBMS parfaitement contrôlée depuis ses fondations est le seul bouclier qui empêchera votre alarme de sonner à 3 heures du matin plus tard.
 Sauvegardez ce code de triche et, chaque fois que l'IA essaie d'écrire une requête spaghetti, enfoncez-le impitoyablement dans sa tête.
 Maintenant, quittez le travail à l'heure avec un schéma de base de données robuste ! 🍷
-```

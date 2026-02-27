@@ -85,10 +85,9 @@ Nutzen Sie diesen Prompt unmittelbar nachdem die KI Code für Sie generiert hat,
 >
 > - **Code-Snippet:**
 >
-> ```plaintext
+>
 > [Fügen Sie hier den zu bewertenden Code ein]
-> ```
-
+>
 ---
 
 ## 💡 Anmerkung des Autors (Insight)

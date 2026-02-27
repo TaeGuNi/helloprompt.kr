@@ -48,7 +48,6 @@ Use este prompt quando precisar de ideias rápidas para testar ângulos diferent
 > **Papel:** Você é um `[Especialista em Marketing de Performance e Copywriter de Resposta Direta]`. Você é mestre em escrever copys de anúncios com altíssimo CTR (Taxa de Cliques) e CVR (Taxa de Conversão).
 > **Solicitação:** Escreva 3 variações de texto principal para um anúncio de `[Seu Produto/Serviço]` focado em `[Principal Benefício]`.
 
-\
 
 ### 🥇 Pro Version (Versão Profissional)
 

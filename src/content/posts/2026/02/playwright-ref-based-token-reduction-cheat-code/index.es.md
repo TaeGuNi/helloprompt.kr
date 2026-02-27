@@ -32,7 +32,7 @@ Copia y pega esto para inyectar el rol a la IA en entornos de prueba ligeros.
 > **Tarea:** Al escribir pruebas E2E de Playwright, nunca leas el `innerHTML` ni el DOM completo. Extrae y controla únicamente los elementos visibles e interactivos de la pantalla basándote en referencias (Ref).
 > 
 > **Restricción:** Después de cualquier manipulación, debes verificar obligatoriamente el resultado con `expect`. De lo contrario, se considerará que la prueba ha fallado.
-\
+
 ### 🥇 Versión Pro (Código de trucos Hardcore)
 Esta es la constitución espartana extrema que se usa al infiltrarse en sitios web comerciales complejos (llenos de SPA y Shadow DOM). Cópialo y pégalo tal cual en el prompt del sistema o en el contexto del agente.
 > **[Constitución del Protocolo de Renderizado Agente-Navegador]**
@@ -149,4 +149,3 @@ await expect(page).toHaveURL(/.*dashboard/);
 Decirle a la IA "escríbelo bien por tu cuenta" es negligencia, no ingeniería. 
 Bloquea el ruido de los datos, comprime el contexto al extremo y verifica compulsivamente los resultados. 
 Una vez que apliques este truco, la terrible era en la que tu terminal escupía errores de alucinaciones llegará a su fin. ¡Ahora, sal temprano del trabajo! 🍷
-```

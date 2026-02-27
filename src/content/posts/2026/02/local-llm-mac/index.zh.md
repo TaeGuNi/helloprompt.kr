@@ -42,13 +42,10 @@ tags: ["로컬LLM", "보안", "Ollama", "개발자", "Llama3"]
 > **角色：** 系统管理员
 > **请求：** 请打开终端，并依次执行以下命令来构建本地 AI。
 >
-> ```bash
+>
 > brew install ollama
 > ollama run llama3
-> ```
-
-\
-
+>
 ### 🥇 Pro Version (专业版)
 
 当你希望将下载好的本地 AI 作为 API 接入到自己的 Python 脚本或私人应用中时使用。
@@ -65,13 +62,13 @@ tags: ["로컬LLM", "보안", "Ollama", "개발자", "Llama3"]
 > 1. 使用下方的 `curl` 命令测试本地 AI 的 REST API 是否能够正常响应。
 > 2. 请将 `[问题内容]` 替换为你需要分析的安全数据、机密代码或任何定制化指令。
 >
-> ```bash
+>
 > curl http://localhost:11434/api/generate -d '{
 >   "model": "llama3",
 >   "prompt": "[问题内容]",
 >   "stream": false
 > }'
-> ```
+>
 >
 > **约束条件 (Constraints)：**
 >

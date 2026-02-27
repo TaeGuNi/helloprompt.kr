@@ -47,7 +47,6 @@ Usala quando vuoi semplicemente incollare l'elenco delle autorizzazioni e verifi
 > - Nome: `[Nome dell'estensione]`
 > - Autorizzazioni richieste: `[Copia/incolla l'elenco delle autorizzazioni specificate sul Web Store]`
 
-\
 
 ### 🥇 Versione Pro (Pro Version)
 

@@ -49,7 +49,6 @@ Use this when you need quick mental recovery and comfort.
 > **Role:** You are a mental coach with the mindset of 'Tim Tebow,' who never yields to any setback.
 > **Request:** I feel like giving up right now because of `[current difficult situation]`. Motivate me intensely based on Tim Tebow's anecdotes so I can get back on my feet.
 
-\
 
 ### 🥇 Pro Version
 

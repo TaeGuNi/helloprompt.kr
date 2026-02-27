@@ -36,7 +36,7 @@ Utilisez-le lorsque vous souhaitez simplement établir rapidement la structure d
 > **Rôle :** Tu es un ingénieur QA Senior impitoyable.
 > **Tâche :** Écris le code de test pour `[Cible à tester]`. Ne rédige qu'un seul scénario de fonctionnement normal (Happy Path) et remplis tout le reste avec une logique de défense contre des scénarios d'échec (Failure) tels que des erreurs réseau, des coupures de base de données, etc.
 
-\
+
 ### 🥇 Pro Version (Version Expert)
 C'est le code de triche hardcore qui efface complètement l'ego de l'IA et lui injecte la philosophie du Chaos Monkey de Netflix.
 

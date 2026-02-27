@@ -44,7 +44,6 @@ Use this for simple, everyday rejections like passing on cold outreach or declin
 > **Role:** You are a `[Business Communication Expert]`.
 > **Task:** Draft a polite but firm refusal email in response to a `[proposal/meeting request]` sent to my company. The core reason for declining is `[budget constraints/scheduling conflicts]`.
 
-\
 
 ### 🥇 Pro Version
 

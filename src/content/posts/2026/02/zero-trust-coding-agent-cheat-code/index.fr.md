@@ -127,4 +127,3 @@ Essayez d'appliquer cette astuce. Vous verrez le regard de l'IA changer radicale
 L'IA est une excellente machine à écrire, mais ce n'est pas un excellent mentor (lead dev). Si vous attendez d'elle qu'elle joue ce rôle, vous devez lui implanter la structure cérébrale (constitution) appropriée. 
 Ce protocole Zero-Trust est à copier et à implanter de façon permanente dans votre IDE ou votre agent personnalisé. La lutte épuisante contre le code spaghetti obsolète est maintenant terminée. 
 Il est temps de faire de la véritable ingénierie. Maintenant, vous pouvez quitter le bureau à l'heure l'esprit tranquille ! 🍷
-```

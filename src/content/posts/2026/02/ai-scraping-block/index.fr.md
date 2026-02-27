@@ -41,7 +41,6 @@ Du procès historique du _New York Times_ contre OpenAI aux nouvelles tarificati
 > **Rôle :** Tu es un `[Expert en éthique des données et scraping légal]`.
 > **Requête :** Analyse les règles de `[URL du site]` ou son fichier robots.txt et dis-moi si j'ai le droit de scraper ses données textuelles pour entraîner un modèle d'IA.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

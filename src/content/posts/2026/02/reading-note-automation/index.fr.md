@@ -47,7 +47,6 @@ Utilisez cette version lorsque vous souhaitez simplement archiver rapidement le 
 > **Requête :**
 Extrais avec précision le texte de la photo ci-jointe. Ensuite, résume l'argument principal que l'auteur essaie de faire passer sur cette page en une seule phrase claire.
 
-\
 
 ### 🥇 Version Pro (Analyse approfondie et plan d'action)
 

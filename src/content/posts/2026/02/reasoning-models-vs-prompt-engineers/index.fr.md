@@ -48,7 +48,6 @@ Désormais, au lieu d'expliquer à l'IA "comment" résoudre un problème, vous d
 > **Tâche :** Propose la solution optimale pour résoudre `[le problème spécifique]`.
 > **Contraintes :** N'explique pas ton processus de réflexion. Affiche uniquement le résultat final au format `[format de sortie souhaité]`.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

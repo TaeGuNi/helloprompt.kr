@@ -37,7 +37,6 @@ Utilisez cette version lorsque vous avez besoin de comprendre rapidement des cas
 > **Rôle :** Tu es le meilleur consultant mondial en stratégie technologique d'IA quantique.
 > **Tâche :** Analyse de manière claire et concise 3 cas d'usage réels d'algorithmes d'IA quantique hybrides actuellement utilisés en 2026 dans le secteur de `[Secteur spécifique, ex : Finance, Pharmacie, Logistique]`, et détaille les bénéfices attendus.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

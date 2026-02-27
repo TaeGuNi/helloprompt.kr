@@ -42,7 +42,6 @@ Nutzen Sie diese Variante, wenn Sie unter extremem Zeitdruck stehen und nur eine
 > **Rolle:** Du bist ein erfahrener Strategieberater in einem Top-Tier-Beratungsunternehmen.
 > **Aufgabe:** Erstelle eine logisch aufgebaute und überzeugende Berichtsgliederung für `[Thema des Berichts]`.
 
-\
 
 ### 🥇 Pro Version (Experten-Level)
 

@@ -39,7 +39,6 @@ Usala quando hai bisogno di una panoramica rapida o di un punto di partenza conc
 > **Ruolo:** Sei un Software Architect esperto in architetture frontend.
 > **Azione:** Spiegami come dividere la mia applicazione `[Inserisci tipo di app, es. E-commerce]` in un'architettura micro-frontend.
 
-\
 
 ### 🥇 Versione Pro (Pro Version)
 

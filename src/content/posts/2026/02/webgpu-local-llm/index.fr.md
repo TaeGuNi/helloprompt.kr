@@ -44,7 +44,6 @@ Cet article présente des prompts optimisés qui permettront aux développeurs f
 > **Rôle :** Tu es un développeur frontend senior expert en WebGPU.
 > **Tâche :** Rédige le code d'exemple HTML/JS le plus minimaliste possible pour faire tourner le modèle Llama-3-8B dans le navigateur en utilisant la bibliothèque `@mlc-ai/web-llm`. Applique une approche via CDN.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

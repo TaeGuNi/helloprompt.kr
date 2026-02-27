@@ -48,7 +48,6 @@ Ideale quando hai bisogno di una bozza rapida, ma efficace.
 > **Ruolo:** Sei un career coach esperto in comunicazione aziendale.
 > **Richiesta:** Scrivi un'email di ringraziamento professionale da inviare a un selezionatore subito dopo un colloquio, ricordando un dettaglio specifico della conversazione per lasciare un'ottima impressione.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

@@ -44,7 +44,6 @@ Usala quando hai bisogno di una stima veloce senza troppi dettagli tecnici.
 > **Ruolo:** Sei un `[Pianificatore Finanziario]` specializzato nella creazione di fondi per l'istruzione dei figli.
 > **Richiesta:** Il costo dell'istruzione aumenta più dell'inflazione. Mio figlio ha `[5 anni]`. Calcola quanto mi servirà per pagare la sua `[università]` e indicami quanto devo iniziare a mettere da parte ogni mese.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

@@ -50,7 +50,6 @@ Copiez-collez ceci quand vous voulez simplement injecter des règles rapidement.
 > 1. Exécute toutes les requêtes en mode lecture seule. Pour modifier les données, tu dois obligatoirement utiliser le drapeau `--force-write`.
 > 2. Ajoute systématiquement `LIMIT 10` à toutes les requêtes `SELECT`.
 > 3. Ne génère pas de jolis tableaux pour les résultats, renvoie uniquement un tableau JSON pur.
-\
 
 ### 🥇 Pro Version (Version Expert)
 
@@ -73,7 +72,6 @@ Copiez-collez ceci quand vous voulez simplement injecter des règles rapidement.
 >
 > **Avertissement (Warning) :**
 > - Respecte à 100% les 3 principes architecturaux des SGBDR universels (Maximisation des E/S, agnosticité de la plateforme, interdiction stricte du JSON en base). Aucune exception. Si ce n'est pas conforme aux règles, refuse l'exécution.
-\
 
 Je l'ai également préparé sous forme de bloc de code Markdown pour faciliter la copie. Prenez-le tel quel et écrasez-le dans le prompt système.
 

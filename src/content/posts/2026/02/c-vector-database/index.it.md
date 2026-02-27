@@ -38,7 +38,6 @@ Usa questa versione quando vuoi testare rapidamente la struttura della logica pr
 > **Ruolo:** Sei un `[Ingegnere di Sistemi Embedded Senior]`.
 > **Richiesta:** Scrivi un codice per un `[database vettoriale header-only]` in puro C, senza alcuna dipendenza. Deve assolutamente includere una funzione di ricerca basata sulla similarità del coseno.
 
-\
 
 ### 🥇 Versione Pro
 

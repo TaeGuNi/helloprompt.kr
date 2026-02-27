@@ -42,7 +42,6 @@ Use this when you need to quickly set up the initial skeleton of a project.
 > **Role:** You are a `[NestJS Backend Developer]`.
 > **Task:** I want to build a `[simple board API server using NestJS]`. Please generate the basic folder structure, including `User` and `Post` modules, along with the configuration code for `app.module.ts`.
 
-\
 
 ### 🥇 Pro Version
 

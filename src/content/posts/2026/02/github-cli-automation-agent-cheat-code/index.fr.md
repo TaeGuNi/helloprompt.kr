@@ -37,7 +37,7 @@ Utilisez ceci si vous détestez la complexité et que vous voulez juste qu'il cr
 > **Rôle :** Tu es un ingénieur DevOps senior travaillant sous mes ordres. Ne me flatte pas, fais juste ton travail.
 > **Tâche :** Une fois les modifications de code terminées, crée une branche `feature`, pousse le code, ouvre une PR automatiquement avec la CLI `gh`, et si les tests passent, fais un squash merge immédiatement sans demander ma permission. S'il y a une erreur, corrige-la toi-même.
 
-\
+
 ### 🥇 Version Pro (Expert)
 Lorsque vous voulez supprimer complètement l'ego de l'IA et la transformer en une machine parfaite, injectez ce cheat code dans votre prompt système (SKILL.md).
 
@@ -129,4 +129,3 @@ Assistant IA :
 ## 🎯 Conclusion
 L'art de maîtriser l'IA se résume finalement à "la précision avec laquelle vous la contrôlez". Ne perdez plus votre temps dans des ping-pongs verbaux dénués de sens, prenez votre agent par le col avec ce cheat code et expérimentez l'automatisation extrême.
 Allez, maintenant, allons regarder un épisode de plus sur Netflix avec le temps gagné ! 🍷
-```

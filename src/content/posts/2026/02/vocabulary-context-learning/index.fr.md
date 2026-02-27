@@ -42,7 +42,6 @@ Utilisez cette version pour obtenir un résultat rapide et concis.
 > **Rôle :** Tu es un professeur de linguistique et un expert en apprentissage du vocabulaire anglais.
 > **Requête :** Explique-moi le mot `[Mot à apprendre]` avec sa définition, ses nuances par rapport à ses synonymes, et donne-moi 3 exemples d'utilisation en contexte.
 
-\
 
 ### 🥇 Pro Version (Version Expert)
 

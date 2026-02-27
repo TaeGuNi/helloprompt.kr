@@ -43,7 +43,6 @@ Use isso quando precisar apenas de um resumo rápido para seu próprio entendime
 > **Solicitação:** Leia a transcrição da reunião a seguir e resuma os principais pontos discutidos, decisões tomadas e os próximos passos (Action Items).
 > `[Insira a transcrição aqui]`
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

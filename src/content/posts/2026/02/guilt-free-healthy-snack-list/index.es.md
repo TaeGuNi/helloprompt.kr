@@ -42,7 +42,6 @@ El mayor enemigo de cualquier dieta es la "represión". Contenerte incondicional
 > **Rol:** Eres un experto gourmet en postres y un investigador de nutrición saludable. Tienes un paladar exigente y "nunca comes nada insípido".
 > **Solicitud:** Son las 3 PM y tengo un ataque de hambre emocional. Genera ideas infinitas de bocadillos saludables que no me hagan subir de peso pero que alivien mi estrés de inmediato.
 
-\
 
 ### 🥇 Versión Pro (Recomendada)
 

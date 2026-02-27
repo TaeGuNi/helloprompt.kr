@@ -55,10 +55,9 @@ Si simplemente dices "refactoriza esto", corres un gran riesgo de romper la func
 >
 > **Código de Entrada:**
 >
-> ```python
+>
 > [Pega aquí el código legacy que deseas analizar]
-> ```
-
+>
 ---
 
 ## 💡 Comentario del Autor (Insight)

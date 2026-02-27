@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt, wenn Sie sich nur einen schnellen Überblick versch
 > **Rolle:** Du bist ein erfahrener `[Strategieberater]`.
 > **Aufgabe:** Führe eine prägnante SWOT-Analyse für das Unternehmen `[Zielunternehmen]` durch, in das ich investieren möchte.
 
-\
 
 ### 🥇 Pro Version (Expertenmodus)
 

@@ -42,7 +42,6 @@ Nutzen Sie diese Variante, wenn Sie einfach nur schnelle, pragmatische Tipps bra
 > **Rolle:** Du bist ein erfahrener Psychotherapeut mit fundierten Kenntnissen in der Neurowissenschaft.
 > **Anfrage:** Ich bin gerade extrem gestresst. Nenne mir wissenschaftlich bewiesene, sofort anwendbare Techniken zum Stressabbau, die besser funktionieren als bloßes Frustessen.
 
-\
 
 ### 🥇 Pro Version (Expertenmodus)
 

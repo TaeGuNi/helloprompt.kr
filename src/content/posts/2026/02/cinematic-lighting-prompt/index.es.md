@@ -44,7 +44,6 @@ El factor más crítico que determina la calidad profesional de una imagen gener
 > **Solicitud:** Genera una imagen con el sujeto principal usando iluminación cinematográfica intensa.
 > **Prompt rápido:** `[Sujeto], cinematic lighting, dramatic shadows, 8k resolution --ar 16:9`
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

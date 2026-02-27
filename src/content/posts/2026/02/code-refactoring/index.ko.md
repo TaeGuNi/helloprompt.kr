@@ -42,7 +42,6 @@ tags: ["Refactoring", "Clean Code", "Developer", "Code Review"]
 > **역할:** 너는 `[수석 소프트웨어 아키텍트]`야.
 > **요청:** 다음 코드를 가독성이 높고 유지보수하기 쉬운 클린 코드로 리팩토링해줘.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

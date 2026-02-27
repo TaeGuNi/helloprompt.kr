@@ -42,7 +42,6 @@ Les fluctuations boursières américaines de la nuit, les dernières tendances d
 > **Rôle :** Tu es un présentateur de journal télévisé chargé de fournir un briefing matinal rapide et précis.
 > **Tâche :** Résume les 5 actualités les plus importantes survenues entre hier soir et ce matin.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

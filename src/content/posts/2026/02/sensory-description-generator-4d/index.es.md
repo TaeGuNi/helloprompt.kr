@@ -42,7 +42,6 @@ Si escribes así, tus lectores no sentirán absolutamente nada. Para dominar la 
 > **Rol:** Eres un novelista experto en literatura descriptiva, maestro en plasmar paisajes y atmósferas.
 > **Solicitud:** Convierte la siguiente oración plana en una descripción vívida y rica que estimule los cinco sentidos (vista, oído, olfato, tacto y gusto): `[Inserta tu oración aquí]`.
 
-\
 
 ### 🥇 Versión Pro (Expert Version)
 

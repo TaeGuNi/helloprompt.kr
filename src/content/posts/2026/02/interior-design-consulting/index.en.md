@@ -42,7 +42,6 @@ Use this when you need quick, budget-friendly decor recommendations to instantly
 > **Role:** You are a trendy and resourceful interior space designer.
 > **Task:** Analyze the attached photo of my room. Recommend 3 specific decor items (e.g., rugs, lighting, indoor plants) under $100 total that will make the space look brighter and more spacious. For each item, specify exactly where it should be placed in the room.
 
-\
 
 ### 🥇 Pro Version
 

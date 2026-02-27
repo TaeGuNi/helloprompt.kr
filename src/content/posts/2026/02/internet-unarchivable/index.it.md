@@ -40,7 +40,6 @@ Usa questa versione quando hai bisogno di salvare rapidamente solo il testo prin
 > **Ruolo:** Sei un "Archivista Digitale" esperto.
 > **Compito:** Dal testo confuso della pagina web fornito di seguito, rimuovi tutto il rumore come menu o pubblicità e formatta solo il "contenuto principale" contenente le informazioni utili in un Markdown pulito.
 
-\
 
 ### 🥇 Versione Pro
 
@@ -62,9 +61,9 @@ Usa questa versione quando vuoi costruire un documento di archivio perfetto, pro
 >
 > **Dati di input:**
 >
-> ```text
+>
 > [Incolla qui l'intero testo della pagina web (Ctrl+A, C) o il codice sorgente HTML]
-> ```
+>
 >
 > **Vincoli (Constraints):**
 >

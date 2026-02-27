@@ -43,7 +43,6 @@ Asignar un rol y reglas claras al agente es el paso más crítico. Inserta el si
 > **Rol:** Eres un `[Agente de Investigación]`.
 > **Tarea:** Realiza una búsqueda en la web sobre `[Pregunta del usuario]` y resume los resultados basándote estrictamente en los hechos.
 
-\
 
 ### 🥇 Versión Pro
 

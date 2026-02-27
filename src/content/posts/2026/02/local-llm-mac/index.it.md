@@ -42,13 +42,10 @@ Utilizza questa versione quando desideri avviare immediatamente l'AI sul tuo PC 
 > **Ruolo:** Amministratore di sistema
 > **Azione:** Apri il terminale ed esegui i seguenti comandi in sequenza per configurare l'AI locale.
 >
-> ```bash
+>
 > brew install ollama
 > ollama run llama3
-> ```
-
-\
-
+>
 ### 🥇 Versione Pro (Pro Version)
 
 Ideale quando desideri collegare l'AI locale scaricata ai tuoi script Python o ad app personali tramite API.
@@ -65,13 +62,13 @@ Ideale quando desideri collegare l'AI locale scaricata ai tuoi script Python o a
 > 1. Usa il comando `curl` sottostante per verificare che l'API REST dell'AI locale risponda correttamente.
 > 2. Sostituisci la sezione `[Inserisci la tua domanda qui]` con i dati sicuri o il codice che desideri analizzare.
 >
-> ```bash
+>
 > curl http://localhost:11434/api/generate -d '{
 >   "model": "llama3",
 >   "prompt": "[Inserisci la tua domanda qui]",
 >   "stream": false
 > }'
-> ```
+>
 >
 > **Vincoli (Constraints):**
 >

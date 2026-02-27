@@ -42,7 +42,6 @@ Una propuesta exitosa debe gritar "Resolveré tu problema", en lugar de murmurar
 > **Rol:** Eres un redactor experto de propuestas comerciales con una tasa de éxito del 90%.
 > **Tarea:** Crea un esquema persuasivo para una propuesta que convenza a mis clientes.
 
-\
 
 ### 🥇 Versión Pro (Experto)
 

@@ -48,7 +48,6 @@ Utilisez cette version pour un conseil immédiat et direct.
 > **Rôle :** Tu es un expert en négociation salariale et un conseiller en gestion de carrière.
 > **Requête :** J'ai reçu plusieurs offres d'emploi. Aide-moi à comparer ces offres objectivement et à élaborer une stratégie de contre-offre pour obtenir de meilleures conditions.
 
-\
 
 ### 🥇 Pro Version (Version Expert)
 

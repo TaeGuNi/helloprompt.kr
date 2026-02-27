@@ -42,7 +42,6 @@ Usala quando hai bisogno di un risultato rapido e immediato.
 > **Ruolo:** Sei un `[Divulgatore Scientifico ed Esperto di Infografiche]`.
 > **Richiesta:** Spiegami il concetto di `[Inserisci Concetto]` utilizzando un diagramma in ASCII art e un'analogia semplice tratta dalla vita quotidiana.
 
-\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

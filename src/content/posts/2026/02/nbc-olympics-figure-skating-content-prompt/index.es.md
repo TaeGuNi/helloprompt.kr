@@ -137,6 +137,4 @@ En el mercado de contenidos, seguir las tendencias es una "carrera de velocidad"
 Con este prompt cuidadosamente diseñado, tu cuenta de redes sociales y tu blog estándar se transformarán en el palco de transmisión olímpico más rápido y vibrante de todos. ¡Cópialo ahora mismo y comienza a publicar tu propio contenido estrella e imbatible!
 ¡Es hora de salir temprano del trabajo! 🍷
 
-```
 
-```

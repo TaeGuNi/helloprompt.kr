@@ -53,7 +53,6 @@ Analise meu ambiente residencial e estilo de vida abaixo e recomende 3 plantas q
 > **Formato de Saída:**
 Inclua para cada planta: 'Motivo da Recomendação', 'Significado da Planta', 'Nível de Dificuldade da Rega' e 'Dicas de Decoração de Interiores'.
 
-\
 
 ### 🥇 Versão Pro (Diagnóstico de Emergência e Solução de Recuperação)
 

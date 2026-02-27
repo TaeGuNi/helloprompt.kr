@@ -41,7 +41,6 @@ Use this for quick, single-file conversions when you just need immediate results
 > **Role:** You are an expert Frontend Engineer from 2026.
 > **Task:** Convert the following `[legacy CSS/CSS-in-JS]` code into a hybrid of Tailwind CSS v5 utility classes and native CSS nesting.
 
-\
 
 ### 🥇 Pro Version
 

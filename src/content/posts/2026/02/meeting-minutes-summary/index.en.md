@@ -44,7 +44,6 @@ Use this when you need a quick, no-frills summary of a short discussion.
 > **Role:** You are a highly efficient `[Executive Assistant]`.
 > **Task:** Summarize the following `[Meeting Transcript]`. Extract the main topics, key decisions, and action items.
 
-\
 
 ### 🥇 Pro Version
 

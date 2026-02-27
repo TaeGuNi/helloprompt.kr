@@ -45,7 +45,6 @@ Ideal cuando estás a punto de ponerte las zapatillas y necesitas una rutina de 
 >
 > **Petición:** Tengo muy poco tiempo pero necesito quemar grasa. Créame una rutina HIIT de 20 minutos usando solo mi peso corporal que pueda hacer hoy mismo en el salón de mi casa.
 
-\
 
 ### 🥇 Versión Pro (Expert Version)
 

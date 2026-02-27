@@ -44,7 +44,6 @@ Nutzen Sie diese Variante, wenn Sie unter Zeitdruck stehen und nur eine schnelle
 > **Rolle:** Du bist ein erfahrener, aber leicht verständlicher Anwalt.
 > **Aufgabe:** Übersetze den folgenden Vertragstext in einfache Alltagssprache und weise mich auf mögliche Stolpersteine hin.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

@@ -42,7 +42,6 @@ Verwenden Sie diese Version für schnelle, spontane Inspirationen beim Brainstor
 > **Rolle:** Du bist ab sofort `[Name des Bösewichts]`, der Hauptantagonist in meiner Geschichte.
 > **Aufgabe:** Beantworte meine Fragen aus deiner Perspektive. Warum tust du das, was du tust? Was ist dein wahres Motiv?
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

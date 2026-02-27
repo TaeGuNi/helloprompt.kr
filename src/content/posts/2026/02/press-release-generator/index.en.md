@@ -45,7 +45,6 @@ Use this when you need to quickly announce minor updates, events, or simple prod
 > **Task:** Write a short, objective press release (straight news format) for the media based on the following context.
 > **Context:** "Our company (Hello Prompt) just launched a new AI writing tool. It's free to use and boosts productivity by 10x."
 
-\
 
 ### 🥇 Pro Version
 

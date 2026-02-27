@@ -49,7 +49,6 @@ Usala quando hai poco tempo e vuoi un controllo veloce su un singolo paragrafo.
 > **Richiesta:** Revisiona il testo seguente per renderlo professionale, correggendo tutti gli errori grammaticali e migliorando il tono per un curriculum vitae.
 > **Testo:** `[Inserisci qui il tuo testo]`
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

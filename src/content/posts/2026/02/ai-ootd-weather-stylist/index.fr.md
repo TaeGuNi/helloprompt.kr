@@ -42,7 +42,6 @@ Idéal lorsque vous êtes en retard et avez juste besoin d'une suggestion rapide
 > **Rôle :** Tu es un styliste de mode expert.
 > **Requête :** Il fait `[Température]` degrés avec `[Conditions météorologiques, ex: de la pluie / du vent]` aujourd'hui à `[Votre Ville]`. Je dois aller `[Votre activité de la journée, ex: au bureau / au parc]`. Suggère-moi une tenue confortable et stylée.
 
-\
 
 ### 🥇 Version Pro (Pour un look pointu et personnalisé)
 

@@ -48,7 +48,6 @@ Este prompt va más allá de una simple traducción de código; actúa como tu '
 > **Código:**
 > `[Pega aquí el código C++/Go/Rust a convertir]`
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 
@@ -70,9 +69,9 @@ Este prompt va más allá de una simple traducción de código; actúa como tu '
 >
 > **Código de Entrada:**
 >
-> ```plaintext
+>
 > [Pega aquí el código original]
-> ```
+>
 >
 > **Restricciones (Constraints):**
 >

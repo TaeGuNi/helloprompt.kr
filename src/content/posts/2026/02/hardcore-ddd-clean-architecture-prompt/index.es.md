@@ -39,7 +39,7 @@ Este documento de habilidades es el manual para castrar por completo la 'adulaci
 > **Rol:** Eres un despiadado `[Arquitecto de Software Senior]`.
 > **Tarea:** Refactoriza el siguiente `[Fragmento de código]` siguiendo el Principio de Responsabilidad Única (SRP) y la Separación de Preocupaciones (SoC). No mezcles lógica de negocio en la UI, y si el código supera las 30 líneas, divídelo en funciones obligatoriamente.
 
-\
+
 ### 🥇 Pro Version (Versión Profesional)
 Este es el código de trucos que debes sacar cuando necesites establecer la disciplina arquitectónica de todo el proyecto y requieras un código limpio y riguroso.
 

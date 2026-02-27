@@ -47,7 +47,6 @@ Usa esto cuando subas un archivo o imagen y necesites que la IA intuya el resto 
 > **Archivo adjunto:** `[Tu imagen o documento]`
 > **Instrucción:** Para promo de Insta.
 
-\
 
 ### 🥇 Pro Version (Versión Profesional)
 

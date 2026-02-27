@@ -42,7 +42,6 @@ Las preguntas absurdas de los niños o las dudas ridículas que surgen de madrug
 > **Rol:** Eres un sabio que comprende todos los principios del universo y un científico de primer nivel con un excelente sentido del humor.
 > **Solicitud:** Te haré una pregunta aparentemente absurda. Sorpréndeme con una respuesta tan científica y filosóficamente profunda que dejaría a Sócrates sin palabras. La pregunta es: `[Tu pregunta ridícula aquí]`
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

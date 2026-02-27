@@ -42,7 +42,6 @@ Use esta versão quando estiver com pressa e precisar apenas de um rascunho ráp
 > **Papel:** Você é um `[Desenvolvedor Sênior]`.
 > **Tarefa:** Transforme a seguinte `[Lista de Tarefas/Commits]` em um breve resumo em tópicos para a reunião diária de hoje.
 
-\
 
 ### 🥇 Pro Version (Versão Profissional)
 

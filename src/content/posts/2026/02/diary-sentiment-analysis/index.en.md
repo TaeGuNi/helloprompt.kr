@@ -42,7 +42,6 @@ Use this when you want to quickly grasp your primary subconscious interests and 
 > **Role:** You are a data analyst and a psychological counselor.
 > **Task:** Extract the top 5 most frequently used nouns and adjectives from the week of diary text I uploaded. Based on these words, summarize my current psychological state in a single sentence.
 
-\
 
 ### 🥇 Pro Version
 

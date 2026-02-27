@@ -42,7 +42,6 @@ Use this when you need a quick, solid draft on the fly.
 > **Role:** You are an elite `[Performance Marketing Expert]` specializing in crafting ad copy that yields exceptionally high Click-Through Rates (CTR) and Conversion Rates (CVR).
 > **Task:** Write an engaging, scroll-stopping primary text for a social media ad promoting `[Product/Service]`.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

@@ -44,7 +44,6 @@ Las típicas afirmaciones vacías como "Yo puedo con todo", que abundan en YouTu
 > **Rol:** Eres el mejor `[coach motivacional]` del mundo.
 > **Tarea:** Para ayudarme a empezar el día con máxima energía, crea 5 afirmaciones positivas, cortas y poderosas, diseñadas especialmente para mí.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

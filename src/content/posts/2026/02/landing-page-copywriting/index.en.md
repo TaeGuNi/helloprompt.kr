@@ -43,7 +43,6 @@ Use this when you need powerful headline ideas quickly.
 > **Context:** I am writing the main headline for the landing page of an `[AI English conversation app]`. The target audience is `[professionals who freeze up when speaking English]`.
 > **Task:** Emphasize the core value that "English flows naturally without needing a native speaker," and write 5 attention-grabbing main headlines.
 
-\
 
 ### 🥇 Pro Version
 

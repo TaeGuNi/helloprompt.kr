@@ -41,7 +41,6 @@ Use this for quick syntax fixes and simple logic optimization.
 > **Role:** You are a Senior Software Engineer.
 > **Task:** Optimize and fix the following `[Language]` code.
 
-\
 
 ### 🥇 Pro Version
 

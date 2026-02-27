@@ -42,7 +42,6 @@ Usala quando hai bisogno di una bozza veloce senza troppi dettagli.
 > **Ruolo:** Sei un consulente relazionale e un ghostwriter professionista, esperto nel toccare il cuore delle persone con le parole giuste.
 > **Richiesta:** Devo inviare un messaggio per `[Scopo/Situazione]`. Scrivi una lettera adatta al destinatario: `[Destinatario]`.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

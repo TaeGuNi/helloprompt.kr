@@ -45,7 +45,6 @@ Utilisez cette version lorsque vous avez besoin de définir rapidement la struct
 >
 > **Tâche :** Pour atteindre avec succès le `[Objectif du projet]`, planifie 3 étapes clés. Pour chaque étape, présente sous forme de tableau les profils nécessaires (rôles) et les actions spécifiques qu'ils doivent accomplir.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

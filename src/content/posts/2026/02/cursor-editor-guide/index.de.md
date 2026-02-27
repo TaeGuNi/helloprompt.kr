@@ -46,7 +46,6 @@ Nutzen Sie dies, wenn Sie sofortige Anpassungen oder Boilerplate-Code in der akt
 > **Prompt:**
 > Refaktoriere die aktuell ausgewählte Funktion in eine asynchrone (`async/await`) Methode und füge eine detaillierte Fehlerbehandlung mittels eines `try-catch`-Blocks hinzu.
 
-\
 
 ### 🥇 Pro Version (Codebasis-weites Refactoring)
 

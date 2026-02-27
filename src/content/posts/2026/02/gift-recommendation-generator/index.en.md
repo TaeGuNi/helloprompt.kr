@@ -42,7 +42,6 @@ Use this when you are in a rush and need immediate suggestions.
 > **Role:** You are an elite Department Store Personal Shopper and an expert in gift recommendations.
 > **Request:** Recommend a foolproof gift list for a `[Age/Gender]`, who is my `[Relationship]`, with a budget of `[Budget]`.
 
-\
 
 ### 🥇 Pro Version (Expert Curator)
 

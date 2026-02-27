@@ -51,7 +51,6 @@ Non tradurre letteralmente, ma utilizza la terminologia tecnica corretta del lav
 > **Formato (Format):**
 Vai a capo per ogni ferro/giro (Row/Round) in modo che sia ordinato e facile da leggere senza confondersi.
 
-\
 
 ### 🥇 Versione Pro (Interpretazione dei Grafici & Calcolo delle Taglie)
 

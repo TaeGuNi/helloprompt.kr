@@ -43,7 +43,6 @@ Use esta versão quando quiser apenas uma visão geral rápida do seu estado emo
 > **Tarefa:** Leia o diário que escrevi abaixo, descreva o "clima emocional" do meu dia e me dê uma palavra de conforto e encorajamento.
 > **Conteúdo do Diário:** `[Cole o texto de hoje aqui]`
 
-\
 
 ### 🥇 Versão Profissional (Pro Version)
 
@@ -75,10 +74,9 @@ Use esta versão para uma exploração profunda do seu interior e para resgatar 
 > 
 > - **[Texto do Morning Pages]**:
 > 
-> ```text
+>
 > [Cole o conteúdo do seu Morning Pages de hoje aqui]
-> ```
-
+>
 ---
 
 ## 💡 Insights do Autor (Insight)

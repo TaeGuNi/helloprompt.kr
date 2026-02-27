@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt, wenn Sie nur ein schnelles, einfaches Ergebnis ohne
 > **Rolle:** Du bist ein erfahrener `[Finanz-Excel-Experte]`.
 > **Anfrage:** Erstelle mir eine Vorlage für einen Darlehenszinsrechner, den ich direkt in Excel aufbauen kann, ohne externe Bankseiten besuchen zu müssen. Erkläre mir die dafür wichtigsten Finanzfunktionen kurz und prägnant.
 
-\
 
 ### 🥇 Pro Version (Expertenmodus)
 

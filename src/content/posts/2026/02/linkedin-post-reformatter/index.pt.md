@@ -45,7 +45,6 @@ Use esta versão quando estiver com pressa e precisar de uma formatação rápid
 > **Tarefa:** Transforme as seguintes anotações em um post atraente para o LinkedIn: `[Insira suas anotações/rascunho aqui]`.
 > **Formato:** Use frases curtas, emojis relevantes e inclua uma pergunta no final para gerar engajamento nos comentários.
 
-\
 
 ### 🥇 Pro Version (Versão Profissional)
 

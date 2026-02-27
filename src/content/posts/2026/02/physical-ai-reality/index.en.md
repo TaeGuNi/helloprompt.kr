@@ -50,7 +50,6 @@ Use this for a rapid reality check on any tech news article.
 >
 > **Task:** Analyze the following `[Article/Press Release]` about a new robot/Physical AI. Identify what is an actual engineering achievement and what is purely media hype or unproven marketing.
 
-\
 
 ### 🥇 Pro Version
 

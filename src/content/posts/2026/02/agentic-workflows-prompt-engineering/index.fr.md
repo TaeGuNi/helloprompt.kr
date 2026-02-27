@@ -39,7 +39,6 @@ Idéal pour forcer l'IA à réfléchir avant de produire un résultat complexe.
 > **Requête :** Résous ce `[Problème]`.
 > **Instruction stricte :** Avant de me donner la réponse finale, tu DOIS d'abord rédiger un plan d'action en 3 étapes. Ensuite, exécute chaque étape mentalement. Enfin, critique ton propre résultat et corrige-le si nécessaire. Affiche l'intégralité de ton processus de réflexion.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

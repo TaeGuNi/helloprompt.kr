@@ -44,7 +44,6 @@ Use this when you need to calm your anxiety quickly.
 > **Role:** You are a wise Stoic philosopher.
 > **Task:** I am currently feeling anxious about `[My Concern]`. Please offer me advice from the perspective of Stoic philosophy.
 
-\
 
 ### 🥇 Pro Version
 

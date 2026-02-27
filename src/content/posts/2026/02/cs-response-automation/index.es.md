@@ -43,7 +43,6 @@ Utiliza este prompt para copiar y pegar rápidamente en consultas repetitivas co
 > **Tarea:** Responde a la siguiente consulta del cliente disculpándote e informando que el envío se retrasará por `[tiempo de retraso]` debido a `[motivo del retraso]`. Incluye un mensaje educado pidiendo un poco más de paciencia y ofrécele `[detalle de la compensación]` como agradecimiento.
 > **Consulta del cliente:** `[Pega aquí la consulta real del cliente]`
 
-\
 
 ### 🥇 Versión Pro (Para clientes conflictivos / Defensa contra reembolsos)
 

@@ -48,7 +48,6 @@ Use quando quiser identificar rapidamente a causa principal do conflito.
 > **package.json:**
 > `[Cole o conteúdo do seu package.json aqui]`
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

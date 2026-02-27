@@ -44,7 +44,6 @@ tags: ["データ変換", "JSON", "CSV", "Excel", "生産性"]
 > **役割:** あなたはデータエンジニアリングおよびETL(Extract, Transform, Load)の専門家です。
 > **タスク:** 以下のデータを`[CSV]`から`[JSON]`に変換してください。
 
-\
 
 ### 🥇 Pro Version (専門家形)
 

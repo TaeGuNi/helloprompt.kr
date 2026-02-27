@@ -52,7 +52,6 @@ Use this when you quickly need the skeletal structure of an MCP server.
 > **Role:** You are a Senior TypeScript Developer.
 > **Task:** Write a simple MCP server using the `@modelcontextprotocol/sdk` that serves the purpose of `[your goal, e.g., providing weather updates for a specific city]`.
 
-\
 
 ### 🥇 Pro Version
 

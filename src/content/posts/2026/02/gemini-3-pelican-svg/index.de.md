@@ -38,7 +38,6 @@ Verwenden Sie diese Version, um Ideen schnell zu skizzieren.
 > **Rolle:** Du bist ein `[auf SVG spezialisierter Frontend-Entwickler]`.
 > **Aufgabe:** Schreibe den perfekten SVG-Code, der einen `[Fahrrad fahrenden Pelikan]` darstellt.
 
-\
 
 ### 🥇 Pro Version (Expertenniveau)
 

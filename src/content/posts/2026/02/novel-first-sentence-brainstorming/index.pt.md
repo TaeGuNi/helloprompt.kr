@@ -42,7 +42,6 @@ Ideal para quando você precisa de inspiração imediata para destravar a mente.
 > **Papel:** Você é um editor de romances best-sellers e especialista em prender a atenção do leitor nos primeiros 3 segundos.
 > **Solicitação:** Preciso começar meu livro. Dê-me 10 opções de primeiras frases altamente cativantes para um romance sobre `[inserir tema/protagonista]`.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

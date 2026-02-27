@@ -42,7 +42,6 @@ Use this for quick ideation or when you need a foundational concept fast.
 > **Role:** You are a visionary concept artist specializing in retro-futurism.
 > **Request:** Generate a highly detailed Steampunk image featuring a `[Subject]`. Focus on brass gears, steam engines, and a 19th-century industrial atmosphere.
 
-\
 
 ### 🥇 Pro Version
 

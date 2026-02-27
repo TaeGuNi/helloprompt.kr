@@ -46,7 +46,6 @@ Use this when you need a quick formatting fix and improved readability for a sin
 > **Role:** You are a `[Senior Backend Developer]`.
 > **Task:** Refactor the `[Function Name]` function to improve readability and clarify variable names. Add concise comments explaining the core logic.
 
-\
 
 ### 🥇 Pro Version
 

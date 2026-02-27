@@ -44,7 +44,6 @@ Use isto para corrigir rapidamente pequenos erros de sintaxe do Prettier ou ESLi
 > **Papel:** Você é um `[Desenvolvedor Frontend Sênior]`.
 > **Tarefa:** Analise o log de erros fornecido, corrija com rapidez e precisão apenas os `[erros de lint e erros de digitação]` no código e retorne o código completo modificado.
 
-\
 
 ### 🥇 Versão Pro (Agente de Autocura Seguro)
 
@@ -71,13 +70,12 @@ Um prompt focado em produção que corrige estritamente erros de tipagem e de si
 >
 > **Formato de Saída (Format):**
 >
-> ```json
+>
 > {
 >   "file_path": "[Caminho do arquivo onde ocorreu o erro]",
 >   "fixed_content": "[Código completo corrigido]"
 > }
-> ```
-
+>
 ---
 
 ## 💡 Insight do Autor (Writer's Insight)

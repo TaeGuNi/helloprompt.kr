@@ -39,7 +39,6 @@ Con el lanzamiento de Llama 4, la democratización de la IA se ha acelerado de m
 > **Rol:** Eres un consultor experto en IA de código abierto.
 > **Tarea:** Crea una estrategia de adopción de modelos Open Source como Llama 4 para una empresa del sector `[Tu Industria]`. ¿Cómo nos ayuda a reducir costos y mejorar la privacidad?
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

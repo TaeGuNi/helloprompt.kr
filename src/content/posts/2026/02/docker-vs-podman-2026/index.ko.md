@@ -43,7 +43,6 @@ Docker는 지난 10년간 컨테이너 생태계의 절대적인 표준이었습
 >
 > **요청:** 내가 기존에 사용하던 도커 명령어 `[기존 docker run 명령어 또는 스크립트]`를 Podman의 Rootless 모드에서 완벽하게 동작하도록 변환해 줘. 특히 네트워크 브릿지와 볼륨 마운트 권한(SELinux 포함) 측면에서 발생할 수 있는 에러와 해결책을 함께 제시해 줘.
 
-\
 
 ### 🥇 Pro Version (docker-compose → K8s 완벽 전환형)
 
@@ -66,9 +65,9 @@ Docker는 지난 10년간 컨테이너 생태계의 절대적인 표준이었습
 >
 > - 타겟 환경: `[예: AWS EC2 t3.medium, RAM 4GB]`
 > - 기존 docker-compose.yml:
->   ```yaml
+>
 >   [여기에 기존 docker-compose.yml 내용을 복사해서 붙여넣으세요]
->   ```
+>
 >
 > **제약사항 (Constraints):**
 >

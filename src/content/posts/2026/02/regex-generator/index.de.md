@@ -42,7 +42,6 @@ Nutzen Sie diese Variante, wenn Sie sofort ein schnelles Ergebnis benötigen.
 > **Rolle:** Du bist ein erfahrener `[Senior Software-Entwickler]`.
 > **Anfrage:** Erstelle einen regulären Ausdruck für `[Dein gewünschtes Muster, z.B. deutsche Postleitzahlen]`.
 
-\
 
 ### 🥇 Pro Version (Expertenform)
 
@@ -113,7 +112,6 @@ Ohne Struktur liefert die KI oft nur den Code ohne Kontext, was bei Fehlern schw
 Schreib mir einen Regex für US-Telefonnummern. Bindestriche, Klammern oder nichts.
 ```
 
-\
 
 ### ✅ Nachher (Ergebnis)
 

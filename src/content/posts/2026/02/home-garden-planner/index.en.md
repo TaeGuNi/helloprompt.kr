@@ -53,7 +53,6 @@ Use this when you want to find a companion plant that perfectly matches your liv
 > **Output Format:**
 > Include the 'Reason for Recommendation', 'Flower Language', 'Watering Difficulty', and 'Interior Styling Tips' for each plant.
 
-\
 
 ### 🥇 Pro Version (Plant Emergency Diagnosis & Recovery Solution)
 

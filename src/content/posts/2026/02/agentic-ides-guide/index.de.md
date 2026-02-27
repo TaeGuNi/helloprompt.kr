@@ -46,7 +46,6 @@ Nutze diese Version, wenn du nur eine schnelle Dateiaufteilung benötigst. (Die 
 > **Rolle:** Du bist ein `[Frontend-Entwickler]`.
 > **Aufgabe:** Die Komponente `[UserProfile.tsx]` ist zu groß. Bitte trenne die UI von der Geschäftslogik und teile sie in separate Dateien auf.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

@@ -43,7 +43,6 @@ Sin embargo, muchos siguen utilizando la IA simplemente como un chatbot intelige
 > **Rol:** Eres un `[Project Manager de TI]`.
 > **Tarea:** Lee la siguiente transcripción de la reunión y resume las decisiones principales y las tareas pendientes.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

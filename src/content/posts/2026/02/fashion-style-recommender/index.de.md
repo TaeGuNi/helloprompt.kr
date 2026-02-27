@@ -43,7 +43,6 @@ Nutzen Sie diese Variante für einen schnellen, treffsicheren Look für den näc
 > **Mein Kleiderschrank:** Marineblauer Anzug, schwarze Stoffhose, weißes Hemd, beigefarbener Pullover, schwarze Lederschuhe.
 > **Aufgabe:** Stelle mir genau ein elegantes, gepflegtes Hochzeitsgast-Outfit zusammen, das nicht zu aufdringlich wirkt. Gib mir auch einen Rat, ob ich eine Krawatte tragen sollte oder nicht.
 
-\
 
 ### 🥇 Pro Version (Capsule Wardrobe & 1-Wochen-Rotation)
 

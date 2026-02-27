@@ -42,7 +42,6 @@ Use esta versão quando precisar de um rascunho rápido para se inspirar.
 > **Papel:** Você é um estrategista de carreira e redator especialista em discursos.
 > **Solicitação:** Escreva um roteiro de autoapresentação de 1 minuto destacando minhas competências centrais. Evite metáforas clichês e foque no impacto profissional.
 
-\
 
 ### 🥇 Versão Pro (Expert Version)
 

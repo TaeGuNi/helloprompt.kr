@@ -52,7 +52,6 @@ Use esta versão para uma verificação rápida quando você só precisa confirm
 > **Solicitação:** Analise a complexidade de tempo e espaço do seguinte código e indique o ponto crítico de gargalo de desempenho.
 > [Cole seu código aqui]
 
-\
 
 ### 🥇 Versão Pro (Expert)
 

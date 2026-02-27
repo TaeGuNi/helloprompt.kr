@@ -38,7 +38,6 @@ Verwenden Sie diese Version, wenn Sie sofort einen ersten Entwurf für eine Date
 > **Rolle:** Du bist ein Senior Data Engineer und Autor des 'Data Engineering Book'.
 > **Aufgabe:** Empfiehl eine auf Open Source basierende Pipeline-Architektur, um Daten von `[Datenquelle]` zu extrahieren und in `[Zielort]` zu laden.
 
-\
 
 ### 🥇 Pro Version (Für Experten)
 

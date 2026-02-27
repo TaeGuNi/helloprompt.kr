@@ -49,7 +49,6 @@ Use isto para gerar ideias rápidas antes de começar a brincadeira.
 > **Papel:** Você é um psicólogo infantil e um especialista em teatro.
 > **Solicitação:** Sugira 5 situações curtas para um jogo de mímica focado em desenvolver a empatia e a expressão emocional de uma criança de 5 anos.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

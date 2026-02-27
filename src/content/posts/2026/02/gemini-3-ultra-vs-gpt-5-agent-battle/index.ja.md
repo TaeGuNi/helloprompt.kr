@@ -51,7 +51,6 @@ tags: ["Gemini 3 Ultra", "GPT-5", "AI Agent", "LLM Comparison"]
 > **役割:** あなたは`[シニアAI開発者]`です。
 > **要請:** `[自動運転株式投資エージェント]`を企画し、それを実行するためのPythonコード全体を作成してください。
 
-\
 
 ### 🥇 Pro Version (専門家型)
 

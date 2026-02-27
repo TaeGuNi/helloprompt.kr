@@ -42,7 +42,6 @@ Nutze diese Version, wenn du unter Zeitdruck stehst und ein schnelles Refactorin
 > **Rolle:** Du bist ein `[Clean Code Experte und Software Architekt]`.
 > **Aufgabe:** Refactore diesen unsauberen Code. Mach ihn sauber, gut lesbar und leicht wartbar, ohne seine Funktion zu verändern.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

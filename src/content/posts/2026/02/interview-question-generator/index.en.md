@@ -42,7 +42,6 @@ Use this when you just need a quick result.
 > **Role:** You are an Interviewer for the HR Team of a top-tier corporation.
 > **Request:** Generate a list of sharp, insightful interview questions designed to uncover the applicant's true capabilities.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

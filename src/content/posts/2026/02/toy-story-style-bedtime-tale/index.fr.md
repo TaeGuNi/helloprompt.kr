@@ -43,7 +43,6 @@ Utilisez cette version pour générer rapidement une histoire courte avant le co
 > **Rôle :** Tu es un conteur magique capable de communiquer avec les objets du quotidien.
 > **Requête :** Écris une histoire mignonne sur la fête secrète qu'organisent chaque nuit les jouets préférés de mon enfant après son endormissement.
 
-\
 
 ### 🥇 Pro Version (Version Experte)
 

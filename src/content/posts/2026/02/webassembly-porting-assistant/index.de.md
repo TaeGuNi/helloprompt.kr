@@ -48,7 +48,6 @@ Verwenden Sie diese Version, wenn Sie eine simple Berechnungsfunktion (Algorithm
 > **Code:**
 > `[Fügen Sie hier Ihren zu konvertierenden C++/Go/Rust-Code ein]`
 
-\
 
 ### 🥇 Pro Version (Für Experten)
 
@@ -70,9 +69,9 @@ Verwenden Sie diese Version, wenn Sie ein absolut produktionsreifes Ergebnis ben
 >
 > **Eingabecode:**
 >
-> ```plaintext
+>
 > [Fügen Sie hier den bestehenden Code ein]
-> ```
+>
 >
 > **Einschränkungen (Constraints):**
 >

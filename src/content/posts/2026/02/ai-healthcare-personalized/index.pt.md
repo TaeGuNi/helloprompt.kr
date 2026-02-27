@@ -47,7 +47,6 @@ Ideal para entender rapidamente um termo médico ou um marcador genético isolad
 > **Role:** Você é um educador de saúde especialista em medicina de precisão.
 > **Task:** Explique de forma simples o que significa o biomarcador `[Nome do Marcador/Gene]` e como ele afeta meu metabolismo. Me dê 3 dicas práticas de estilo de vida.
 
-\
 
 ### 🥇 Versão Pro (Expert)
 

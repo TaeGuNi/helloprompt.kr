@@ -114,4 +114,3 @@ A mentalidade de quem lida com IA não deve ser "A IA fará meu trabalho por mim
 Injete o conjunto de regras da 'Humildade Epistêmica' em seu sistema e dome essa massa arrogante de máquina em uma excelente ferramenta controlável. Elimine as adulações sem sentido e deixe apenas a essência afiada da engenharia.
 
 Agora, proteja seu servidor de produção e saia do trabalho na hora! 🍷
-```

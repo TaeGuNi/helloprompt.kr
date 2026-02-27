@@ -37,7 +37,6 @@ En 2026, el ecosistema de Rust es más poderoso que nunca. La programación así
 > **Rol:** Eres un `[Core Contributor de Rust 2026]`.
 > **Tarea:** Optimiza este `[código antiguo de Rust]` adaptándolo al último estándar asíncrono de 2026.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

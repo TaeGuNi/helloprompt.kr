@@ -42,7 +42,6 @@ El código espagueti es el enemigo público número uno de cualquier equipo de d
 > **Rol:** Eres un experto Evangelista de Clean Code y Arquitecto Jefe de Software.
 > **Solicitud:** Refactoriza el siguiente código desordenado para que sea limpio, legible, eficiente y fácil de mantener, respetando las mejores prácticas del lenguaje.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

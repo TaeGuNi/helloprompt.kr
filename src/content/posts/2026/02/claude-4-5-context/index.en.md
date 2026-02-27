@@ -37,7 +37,6 @@ Use this to quickly grasp the overall core of massive documents. (Attach your do
 > **Role:** You are a Senior Data Analyst.
 > **Task:** Read all attached documents and summarize the top 5 core insights.
 
-\
 
 ### 🥇 Pro Version
 

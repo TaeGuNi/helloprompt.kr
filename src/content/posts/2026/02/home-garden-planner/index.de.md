@@ -53,7 +53,6 @@ Nutze diesen Prompt, wenn du die perfekte Pflanze für deine Räumlichkeiten und
 > **Ausgabeformat:** 
 > Gib für jede Pflanze Folgendes an: "Empfehlungsgrund", "Bedeutung der Pflanze", "Schwierigkeitsgrad beim Gießen" und "Tipps für die Inneneinrichtung".
 
-\
 
 ### 🥇 Pro Version (Pflanzen-Notaufnahme & Heilungsplan)
 

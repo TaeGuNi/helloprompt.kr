@@ -48,7 +48,6 @@ Use this when you need a rapid, high-level overview right before a quick call.
 > **Role:** You are an elite International Business Consultant with 20 years of cross-cultural negotiation experience.
 > **Request:** I have a meeting with a client from `[Country Name]`. Give me a concise bulleted list of the absolute most important business etiquette rules, greetings, and taboos I must know to avoid offending them.
 
-\
 
 ### 🥇 Pro Version
 

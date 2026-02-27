@@ -42,7 +42,6 @@ Utilisez cette version si vous êtes pressé et souhaitez simplement comprendre 
 > **Rôle :** Tu es un `[Tuteur Professionnel de Rédaction Anglaise]`.
 > **Requête :** Corrige le texte suivant et explique-moi en une phrase courte pourquoi j'ai fait cette erreur : `[Texte à corriger]`
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 

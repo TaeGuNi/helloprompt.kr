@@ -42,7 +42,6 @@ Verwenden Sie dies, wenn Sie schnelle, aber beeindruckende Ergebnisse benötigen
 > **Rolle:** Du bist ein preisgekrönter Naturfotograf.
 > **Anfrage:** Erstelle einen Makro-Aufnahme-Prompt für ein `[Motiv, z. B. Spinnennetz]`, der winzige Details und Texturen hyperrealistisch einfängt.
 
-\
 
 ### 🥇 Pro Version (Experten-Prompt)
 

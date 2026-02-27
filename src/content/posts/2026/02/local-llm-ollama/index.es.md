@@ -39,7 +39,6 @@ Ideal para pruebas rápidas y consultas cotidianas usando la terminal con Ollama
 > **Rol:** Eres un asistente técnico útil, experto y conciso.
 > **Tarea:** Explícame cómo optimizar y asegurar este fragmento de código: `[insertar código]`.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

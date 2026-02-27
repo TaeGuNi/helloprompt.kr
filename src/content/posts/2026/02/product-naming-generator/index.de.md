@@ -42,7 +42,6 @@ Verwenden Sie dies, wenn Sie schnelle, erste Inspirationen benötigen.
 > **Rolle:** Du bist ein erfahrener Experte für Markenbenennung.
 > **Anfrage:** Erstelle 10 attraktive und einprägsame Produktnamen für ein `[Produkt/Dienstleistung]`, das sich an `[Zielgruppe]` richtet.
 
-\
 
 ### 🥇 Pro Version (Experte)
 

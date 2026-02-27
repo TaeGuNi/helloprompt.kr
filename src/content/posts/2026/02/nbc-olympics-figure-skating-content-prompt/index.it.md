@@ -137,6 +137,4 @@ Nel mercato dei contenuti, le tendenze sono una "corsa contro il tempo". Non las
 Con questo singolo prompt ben progettato, il tuo blog e i tuoi account social si trasformeranno nella postazione di commento olimpico più veloce e vivace che ci sia. Copialo subito e inizia a pubblicare i tuoi contenuti killer ineguagliabili!
 Ora puoi staccare dal lavoro! 🍷
 
-```
 
-```

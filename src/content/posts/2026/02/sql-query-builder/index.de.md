@@ -44,7 +44,6 @@ Nutzen Sie diesen Prompt, wenn Sie eine einfache Tabelle haben und sofort ein Er
 > **Problem:** `[Beschreibe kurz, was du wissen möchtest, z.B. "Zeige mir den Gesamtumsatz pro Monat für das Jahr 2025."]`
 > **Tabelle:** `[Tabellenname und relevante Spalten einfügen]`
 
-\
 
 ### 🥇 Pro Version (Für komplexe Datenbankstrukturen)
 

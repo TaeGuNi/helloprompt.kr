@@ -46,7 +46,6 @@ Utiliza esta versión para aterrizar rápidamente la viabilidad de una idea dura
 > **Instrucción:** Basándote en la `[idea]` que te presento, define 3 funcionalidades core indispensables para este agente de IA e identifica el mayor riesgo técnico previsible durante su desarrollo.
 > **Idea:** `[Inserta aquí la descripción general del agente]`
 
-\
 
 ### 🥇 Pro Version (Versión Profesional)
 

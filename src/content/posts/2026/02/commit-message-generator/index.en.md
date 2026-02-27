@@ -45,7 +45,6 @@ Use this when you just need a fast, standard commit message without overthinking
 >
 > **Task:** Analyze the following code changes and write a clean, standard commit message following the Conventional Commits specification.
 
-\
 
 ### 🥇 Pro Version (Expert Mode)
 

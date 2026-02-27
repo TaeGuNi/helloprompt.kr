@@ -35,7 +35,7 @@ Inject this into your system prompt when you want a quick fix to stop your agent
 
 > **Role:** You are a merciless Senior MySQL Database Administrator (DBA).
 > **Task:** All database access MUST be performed in Read-Only mode, and results MUST be returned strictly as a JSON array.
-\
+
 ### 🥇 Pro Version
 Inject this when you need granular control and foolproof safety mechanisms in a terminal environment.
 

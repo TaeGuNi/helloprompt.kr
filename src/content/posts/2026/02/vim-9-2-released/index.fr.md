@@ -40,7 +40,6 @@ Ce prompt déploie un **"Analyste de Documentation Technique Sur-Mesure"** qui r
 > **Rôle :** Tu es un Développeur Senior et un traducteur expert en documentation technique.
 > **Tâche :** Lis les `[Notes de version de Vim 9.2]` ci-dessous et résume les 3 changements les plus importants en français. Utilise des termes simples et accessibles même pour les débutants.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

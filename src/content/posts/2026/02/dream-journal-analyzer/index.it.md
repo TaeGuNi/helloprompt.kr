@@ -42,7 +42,6 @@ Usa questa versione per un'interpretazione rapida ed essenziale la mattina appen
 > **Ruolo:** Sei un esperto `[Psicoanalista e Analista dei Sogni]`.
 > **Richiesta:** Interpreta questo sogno: `[Descrizione del sogno]`. Spiega i simboli principali e cosa potrebbero significare in relazione al mio attuale livello di stress lavorativo.
 
-\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

@@ -42,7 +42,6 @@ Ideale quando hai bisogno di un risultato immediato senza troppi fronzoli.
 > **Ruolo:** Sei un esperto di Scienze Cognitive e Learning Management.
 > **Richiesta:** Ho appena finito di studiare `[Argomento]`. Basandoti sulla Curva dell'Oblio di Ebbinghaus, generami un calendario di ripasso partendo da oggi (`[Data di Oggi]`) per assicurarmi di non dimenticare nulla.
 
-\
 
 ### 🥇 Versione Pro (Expert)
 

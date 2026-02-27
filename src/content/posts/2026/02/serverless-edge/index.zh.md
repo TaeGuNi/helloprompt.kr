@@ -38,7 +38,6 @@ cover: "./cover.jpg"
 > **角色：** 你是一位资深的云架构师。
 > **请求：** 请为我的 `[应用类型]` 设计一个基于无服务器边缘计算 (Serverless Edge) 的基础架构，并列出主要使用的云服务（如 Cloudflare Workers 或 AWS Lambda@Edge）。
 
-\
 
 ### 🥇 Pro Version (专业版)
 

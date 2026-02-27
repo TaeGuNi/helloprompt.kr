@@ -47,7 +47,6 @@ Ideal para resolver bugs rápidos o cuellos de botella algorítmicos aislados (e
 >
 > [Inserta tu código aquí]
 
-\
 
 ### 🥇 Pro Version (Versión Profesional)
 

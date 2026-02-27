@@ -48,7 +48,6 @@ Use esta versão quando estiver com pressa e precisar apenas de uma resposta rá
 > **Papel:** Você é um crítico gastronômico experiente e um especialista em curar a paralisia de decisão.
 > **Solicitação:** Estou em dúvida sobre o que jantar. Faça 3 recomendações incríveis e escolha uma definitivamente por mim.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

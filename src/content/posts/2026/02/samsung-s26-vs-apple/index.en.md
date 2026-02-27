@@ -50,7 +50,6 @@ Use this when you need a fast, high-level overview.
 > **Role:** You are a tech journalist.
 > **Task:** Briefly compare the on-device AI features of the Samsung Galaxy S26 and the Apple iPhone 17.
 
-\
 
 ### 🥇 Pro Version (Expert Analysis)
 

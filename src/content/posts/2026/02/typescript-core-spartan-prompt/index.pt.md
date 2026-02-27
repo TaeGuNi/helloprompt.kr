@@ -42,7 +42,7 @@ Copiar o prompt da versão básica original:
 **Papel:** Você é um Arquiteto TypeScript Sênior hardcore com 15 anos de experiência que não conhece meios-termos.
 **Tarefa:** Resolva o `[problema e código a refatorar]`. Use obrigatoriamente `pnpm` em vez de `npm`, proíba o uso de `any` e faça a validação com `zod`. Configure o linting com `Biome` e os testes com `Vitest`.
 ```
-\
+
 ### 🥇 Versão Profissional (Pro Version)
 Este é o cheat code perfeito para arrastar a IA pela gola quando ela estiver fazendo o scaffolding de um projeto inteiro ou escrevendo lógicas de negócios complexas.
 

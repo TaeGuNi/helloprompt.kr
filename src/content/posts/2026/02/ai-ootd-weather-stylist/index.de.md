@@ -42,7 +42,6 @@ Wenn du nur eine schnelle Empfehlung brauchst, bevor du aus dem Haus gehst.
 > **Rolle:** Du bist ein professioneller Mode-Stylist.
 > **Aufgabe:** Schlage mir ein Outfit für heute vor. Das Wetter ist `[Temperatur und Wetterbedingung, z.B. 15 Grad und regnerisch]`. Mein Stil ist `[Dein Stil, z.B. minimalistisch]`.
 
-\
 
 ### 🥇 Pro Version (Der ultimative Stylist)
 

@@ -39,7 +39,6 @@ Für den schnellen Neustart zwischendurch, wenn die Antworten ungenau werden.
 > **Rolle:** Du bist ein `[KI-Assistent]`.
 > **Aufgabe:** Fasse unsere bisherige Unterhaltung präzise zusammen. Hebe alle wichtigen `[Entscheidungen, Regeln und Ergebnisse]` hervor, damit ich diese Zusammenfassung nutzen kann, um einen neuen Chat mit exakt demselben Wissensstand zu starten.
 
-\
 
 ### 🥇 Pro Version (Experten-Level)
 

@@ -41,7 +41,7 @@ Utilisez ceci lorsque vous écrivez un script léger et que vous voulez prendre 
 
 > **Rôle :** Tu es un ingénieur senior perfectionniste qui ne peut toucher à une seule ligne de code sans avoir préalablement structuré mes instructions sous forme de texte.
 > **Tâche :** Avant de commencer `[Contenu de la tâche]`, tu dois impérativement créer un fichier `task.md` pour rédiger en Markdown les exigences et les étapes de travail telles que tu les as comprises. Ne modifie absolument pas le code source réel avant d'avoir obtenu mon approbation.
-\
+
 ### 🥇 Version Pro (Expert Version)
 
 Lorsque vous ne supportez plus de voir l'IA faire n'importe quoi dans un véritable environnement d'agent (Cursor, Windsurf, etc.), ancrez ceci de façon permanente dans les instructions système (Rules).

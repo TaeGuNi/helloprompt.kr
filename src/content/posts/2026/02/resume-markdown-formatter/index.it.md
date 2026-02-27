@@ -42,7 +42,6 @@ Usala quando hai solo bisogno di un risultato rapido.
 > **Ruolo:** Sei un esperto di design editoriale e un maestro del linguaggio Markdown.
 > **Richiesta:** Converti il contenuto disordinato del mio curriculum in un formato Markdown pulito e strutturato per facilitarne la conversione in PDF o la creazione di una pagina su Notion.
 
-\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

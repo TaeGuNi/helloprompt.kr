@@ -43,7 +43,6 @@ Use this for rapidly writing PR descriptions or when you need a quick, localized
 > **Role:** You are a Senior Technical Writer.
 > **Task:** Review the `[Git Diff]` I just modified and rewrite the sections in `[README.md]` that require updates in Markdown. Ignore trivial typos or simple refactoring changes.
 
-\
 
 ### 🥇 Pro Version
 

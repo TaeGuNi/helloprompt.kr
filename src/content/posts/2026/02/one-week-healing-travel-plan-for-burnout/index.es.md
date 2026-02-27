@@ -42,7 +42,6 @@ Ideal para obtener una estructura rápida y sencilla.
 > **Rol:** Eres un 'Curador de Viajes de Bienestar' especializado en descanso profundo y sanación mental.
 > **Solicitud:** Diseña un itinerario de 7 días de 'Viaje Lento' enfocado en el verdadero descanso, evitando por completo las atracciones turísticas concurridas.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

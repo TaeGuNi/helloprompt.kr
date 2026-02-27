@@ -40,7 +40,6 @@ Utilisez cette version lorsque vous souhaitez sauvegarder rapidement le texte pr
 > **Rôle :** Tu es un 'Archiviste Numérique' expert.
 > **Tâche :** À partir du texte complexe de la page web fourni ci-dessous, élimine tous les bruits tels que les menus ou les publicités, et organise proprement le 'contenu principal' contenant l'information au format Markdown.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 
@@ -62,9 +61,9 @@ Utilisez cette version pour créer un document d'archive parfait, prêt à être
 >
 > **Données d'entrée (Input Data) :**
 >
-> ```text
+>
 > [Collez ici l'intégralité du texte de la page web (Ctrl+A, C) ou le code source HTML]
-> ```
+>
 >
 > **Contraintes (Constraints) :**
 >

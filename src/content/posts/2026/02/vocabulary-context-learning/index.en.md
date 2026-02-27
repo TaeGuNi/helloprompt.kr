@@ -42,7 +42,6 @@ Use this when you just need a quick, no-frills breakdown.
 > **Role:** You are an expert `[Linguistics Professor and Vocabulary Coach]`.
 > **Task:** Explain the word `[Target Word]`. Provide its meaning, 3 synonyms with subtle nuance differences, and 3 example sentences in different contexts.
 
-\
 
 ### 🥇 Pro Version
 

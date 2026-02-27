@@ -41,7 +41,6 @@ Use this quick reset when you sense the AI is starting to lose track of the conv
 > **Role:** You are a highly efficient project manager.
 > **Task:** Summarize the key requirements, decisions made, and the current state of our work so far. Exclude all conversational filler.
 
-\
 
 ### 🥇 Pro Version
 

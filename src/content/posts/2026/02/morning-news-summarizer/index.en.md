@@ -42,7 +42,6 @@ Use this when you just need a quick, high-level overview of the night's biggest 
 > **Role:** You are a news anchor responsible for delivering fast and accurate morning briefings.
 > **Task:** Summarize the top 5 most important news stories that occurred between last night and this morning.
 
-\
 
 ### 🥇 Pro Version
 

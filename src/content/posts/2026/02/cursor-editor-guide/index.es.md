@@ -44,7 +44,6 @@ tags: ["Cursor", "IDE", "코딩", "AI", "생산성"]
 > **Prompt:**
 Refactoriza la función seleccionada actualmente a un enfoque asíncrono (`async/await`) y añade una lógica de manejo de errores detallada utilizando un bloque `try-catch`.
 
-\
 
 ### 🥇 Versión Pro (Refactorización Completa del Codebase)
 

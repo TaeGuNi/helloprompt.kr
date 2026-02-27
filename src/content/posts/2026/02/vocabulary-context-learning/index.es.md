@@ -42,7 +42,6 @@ Las palabras no existen en el vacío; viven y respiran dentro de un contexto. El
 > **Rol:** Eres un experto en lingüística y profesor de inglés con 20 años de experiencia.
 > **Solicitud:** Explícame la palabra `[palabra]` con su significado, matices y 3 ejemplos prácticos en diferentes contextos.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

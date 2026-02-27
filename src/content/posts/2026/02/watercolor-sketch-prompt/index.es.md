@@ -42,7 +42,6 @@ El **Boceto de Acuarela** es un estilo que fusiona el detalle preciso de las lí
 
 > **Prompt Base:** `[Tu sujeto/escena]`, watercolor sketch, loose brushstrokes, ink lines, pastel colors, white background.
 
-\
 
 ### 🥇 Pro Version (Versión Experto)
 

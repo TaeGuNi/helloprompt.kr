@@ -47,7 +47,6 @@ tags: [AI, ChatGPT, Prompt, Productivity, DailyPlan]
 > **今日のToDoリスト:**
 > `[ここに今日やるべきことを順不同で書き出してください]`
 
-\
 
 ### 🥇 Pro Version (専門家型)
 
@@ -140,7 +139,6 @@ tags: [AI, ChatGPT, Prompt, Productivity, DailyPlan]
 | **DELEGATE (緊急 & 重要でない)** | デザインチームへのロゴ修正依頼 \ 溜まったメールの返信 | **迅速に処理/委任**、業務開始直後に処理 |
 | **DELETE (緊急でも重要でもない)** | (現在のリストには該当なし) | - |
 
-\
 
 ## 🕒 今日1日のタイムブロッキング・スケジュール
 

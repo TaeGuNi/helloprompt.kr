@@ -60,12 +60,9 @@ Nutze diesen Prompt, wenn du bereits geschriebenen Code oder eine Idee überprü
 >
 > **Eingabe-Code:**
 >
-> ```javascript
+>
 > [Füge hier dein Code-Snippet für das Review ein]
-> ```
-
-\
-
+>
 ### 🥇 Pro Version (Architektur-Inquisitor Prompt)
 
 Ein 2-stufiger Prompt, der dich zwingt, Trade-offs abzuwägen, bevor du ein neues Feature implementierst.

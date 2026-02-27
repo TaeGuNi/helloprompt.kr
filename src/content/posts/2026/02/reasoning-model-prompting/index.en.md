@@ -54,7 +54,6 @@ Use this when you simply need to convey data and objectives without complex inst
 > def c(a,b): return a+b
 > </code_snippet>
 
-\
 
 ### 🥇 Pro Version
 

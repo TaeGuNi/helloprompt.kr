@@ -47,7 +47,6 @@ Use this basic prompt when you're completely stuck and just need a slight nudge 
 >
 > **Constraints:** Do NOT provide the final code or complete logic under any circumstances. Only give me a hint about which data structure or algorithm would be optimal from a Time Complexity perspective.
 
-\
 
 ### 🥇 Pro Version (Step-by-Step Coaching & Review)
 
@@ -60,9 +59,9 @@ Use this expert-level prompt when your code keeps failing (Time Limit Exceeded, 
 > - **Problem Summary:** `[Core objective of the problem]`
 > - **My Current Code:**
 >
-> ```python
+>
 > [Paste your failing code here]
-> ```
+>
 >
 > - **Issue:** When I submit this code, I get a `[Time Limit Exceeded / Runtime Error / Wrong Answer]`.
 >

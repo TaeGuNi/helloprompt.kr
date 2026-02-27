@@ -42,7 +42,6 @@ A necessidade inicial da Toyota era simples, mas tecnicamente exigente: renderiz
 > **Objetivo Inicial:** Criar um sistema de interface veicular (UI) extremamente responsivo e seguro.
 > **Solução Aplicada:** Integrar uma engine de renderização 3D nativa diretamente na árvore de widgets do Flutter, garantindo transições suaves e design impecável sem engasgos.
 
-\
 
 ### 🥇 Visão Profunda (A Evolução para Engine)
 

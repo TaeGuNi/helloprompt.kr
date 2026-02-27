@@ -47,7 +47,6 @@ Usala quando hai bisogno solo di un rapido riassunto delle attività.
 >
 > **Richiesta:** Sulla base dei dati qui sopra, riassumi le 5 cose più importanti che ho fatto questa settimana, in ordine di rilevanza.
 
-\
 
 ### 🥇 Versione Pro (Pro Version)
 

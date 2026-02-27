@@ -47,7 +47,6 @@ Idéale pour analyser rapidement une trentaine d'avis et se faire une première 
 >
 > **Données des avis :** `[Collez ici le texte des avis]`
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

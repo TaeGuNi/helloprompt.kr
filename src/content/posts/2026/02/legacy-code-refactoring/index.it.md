@@ -55,10 +55,9 @@ Chiedere semplicemente "Fai il refactoring" comporta un alto rischio di rompere 
 >
 > **Codice di Input:**
 >
-> ```python
+>
 > [Incolla qui il codice legacy da analizzare]
-> ```
-
+>
 ---
 
 ## 💡 Commento dell'Autore (Insight)

@@ -42,7 +42,6 @@ Use esta versão para respostas rápidas e diretas quando a curiosidade bater.
 > **Papel:** Você é um sábio que compreende todos os princípios do universo e um cientista com um excelente senso de humor.
 > **Solicitação:** Responda de forma profunda, poética e científica à seguinte pergunta absurda: `[Sua Pergunta Aqui]`
 
-\
 
 ### 🥇 Versão Pro (Expert)
 

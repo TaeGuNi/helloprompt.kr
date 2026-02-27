@@ -44,7 +44,6 @@ Para transformar la madrugada en tu mayor ventaja competitiva, necesitas estruct
 > **Rol:** Eres un coach de productividad extrema.
 > **Tarea:** Crea un horario de trabajo estructurado de 5:00 a. m. a 8:00 a. m. basado en mi objetivo principal de hoy: `[Tu objetivo del día]`. Incluye pausas breves para evitar el agotamiento mental.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

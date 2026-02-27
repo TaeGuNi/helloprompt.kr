@@ -50,7 +50,6 @@ Use this for a quick, high-level scan of short blog posts or daily news briefs.
 > **Role:** You are a senior fact-checker at a top-tier news organization.
 > **Task:** Review the following `[article text]` and identify any quotes, statistics, or bold claims that lack a clear source or could potentially be AI hallucinations. List them clearly.
 
-\
 
 ### 🥇 Pro Version
 

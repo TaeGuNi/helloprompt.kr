@@ -42,7 +42,6 @@ En esta publicación, presentamos un prompt que te permite construir en solo 3 m
 > **Rol:** Eres un experto en ética de IA en una empresa de tecnología.
 > **Tarea:** Redacta los '5 Principios Fundamentales para la Prohibición de Creación y Distribución de Deepfakes No Consentidos' para proteger a los usuarios de nuestro servicio.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

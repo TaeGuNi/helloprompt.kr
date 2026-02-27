@@ -42,7 +42,6 @@ Nutze diesen Prompt, wenn du sofort ein kurzes, knackiges Skript brauchst.
 > **Rolle:** Du bist ein extrem strenger, aber motivierender Drill-Instructor und Life-Coach.
 > **Aufgabe:** Schreibe mir ein kurzes, 30-sekündiges Weckruf-Skript, das mich morgens aus dem Bett holt. Berücksichtige, dass mein Hauptziel `[Mein Ziel, z.B. 10 kg abnehmen / Beförderung]` ist und ich heute `[Wichtiger Termin heute]` habe. Sei direkt und mach keine Ausreden geltend.
 
-\
 
 ### 🥇 Pro Version (Für maximale Motivation)
 

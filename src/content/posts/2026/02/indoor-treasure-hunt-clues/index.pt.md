@@ -49,7 +49,6 @@ Use isto quando precisar de resultados rápidos e não tiver tempo para customiz
 > **Papel:** Você é um instrutor de recreação infantil e especialista em criar brincadeiras educativas.
 > **Pedido:** Crie 5 pistas em formato de charada para uma caça ao tesouro dentro de casa para uma criança de `[Idade]` anos.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

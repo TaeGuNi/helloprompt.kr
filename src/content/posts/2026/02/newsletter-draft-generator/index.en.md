@@ -42,7 +42,6 @@ Use this when you are short on time and need a fast, foundational draft to build
 > **Role:** You are an expert Newsletter Editor.
 > **Request:** I need to write a newsletter about `[Topic]`. Please generate 3 catchy subject lines, an engaging introduction, and a brief outline for the main body.
 
-\
 
 ### 🥇 Pro Version (Expert Copywriter)
 

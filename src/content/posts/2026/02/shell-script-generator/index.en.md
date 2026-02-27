@@ -42,7 +42,6 @@ Ideal for quick, low-risk automation tasks.
 > **Role:** You are a Senior DevOps Engineer and Linux System Administrator.
 > **Task:** Write a safe and efficient Bash script that solves `[Describe your problem]`. Include inline comments explaining each command.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

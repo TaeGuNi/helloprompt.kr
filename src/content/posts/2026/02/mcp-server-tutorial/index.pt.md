@@ -52,7 +52,6 @@ Use esta versão quando precisar apenas de um esqueleto rápido do servidor MCP.
 > **Role (Papel):** Você é um desenvolvedor TypeScript Sênior.
 > **Task (Tarefa):** Escreva o código para um servidor MCP simples usando o `@modelcontextprotocol/sdk` que tenha o objetivo de `[insira o objetivo desejado, ex: informar o clima de uma cidade específica]`.
 
-\
 
 ### 🥇 Versão Pro (Profissional)
 

@@ -73,7 +73,6 @@ Il s'agit du prompt le plus basique à utiliser lorsque vous demandez l'impléme
 >
 > **Tâche :** Résous le `[Problème rencontré ou fonctionnalité à ajouter]` dans le fichier `[Nom du fichier]` actuellement ouvert. Rédige le code en respectant strictement la vérification des types de TypeScript et les conventions de Tailwind CSS.
 
-\
 
 ### 🥇 Pro Version (Pour la refactorisation d'architecture sur Windsurf / OpenClaw)
 

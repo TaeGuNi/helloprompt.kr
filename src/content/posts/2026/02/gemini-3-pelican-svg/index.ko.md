@@ -38,7 +38,6 @@ tags: ["AI", "Gemini", "SVG", "Generative Tech"]
 > **역할:** 너는 `[SVG 전문 프론트엔드 개발자]`야.
 > **요청:** `[자전거를 타는 펠리컨]`을 묘사하는 완벽한 SVG 코드를 작성해 줘.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

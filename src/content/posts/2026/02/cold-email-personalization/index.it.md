@@ -43,7 +43,6 @@ Usala quando hai bisogno di rompere il ghiaccio rapidamente per avviare una conv
 > **Task:** Analizza il testo scritto dal cliente target qui sotto e suggerisci 3 frasi di apertura (ice-breaking) naturali e interessanti da usare in una cold email.
 > **Testo del cliente:** `[Incolla qui il post di LinkedIn o l'intervista del cliente]`
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

@@ -42,7 +42,6 @@ Nutzen Sie diese Variante für einen schnellen, groben Kostenüberblick.
 > **Rolle:** Du bist ein erfahrener `[Hochzeitsplaner]` mit 10 Jahren Berufserfahrung und Expertise in der Finanzberatung.
 > **Anfrage:** Erstelle mir eine vollständige Checkliste für alle anfallenden Hochzeitskosten und identifiziere typische Kostenfallen, um mein Budget zu schonen.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

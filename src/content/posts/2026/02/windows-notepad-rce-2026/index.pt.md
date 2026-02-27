@@ -42,7 +42,6 @@ Use este prompt para entender rapidamente qualquer CVE e obter um plano de açã
 > **Role:** Você é um Especialista em Segurança Cibernética.
 > **Task:** Explique a vulnerabilidade `[CVE-2026-20841]` em termos simples e forneça um plano de ação passo a passo para mitigação em ambientes Windows.
 
-\
 
 ### 🥇 Versão Profissional (Pro Version)
 

@@ -38,7 +38,7 @@ Use this when you want to quickly pump out components while lightly adhering to 
 > **Task:** Create `[Component Name: e.g., Login Modal]`.
 > 
 > **Conditions:** Absolutely do not use magic numbers or hardcoded hex codes (`#123456`). All margins and padding must follow an 8px grid, and fonts and colors must strictly adhere to a Semantic Token structure. Do not offer useless praise or additional explanations; just spit out the code.
-\
+
 ### 🥇 Pro Version
 Use this when you need 'perfect architecture' that can be copy-pasted directly into production.
 
@@ -148,4 +148,3 @@ Premium code perfectly implementing semantic tokens, web accessibility (A11y), a
 A great design system doesn't come from laissez-faire, but from **'precise control'**. 
 The same goes for leaving your code to an AI. An AI that writes code without rules is a disaster that spawns technical debt, but an AI controlled under a perfect architectural constitution is the ultimate senior architect, easily doing the work of 100 people. 
 Copy this prompt right now and save your project! 🍷
-```

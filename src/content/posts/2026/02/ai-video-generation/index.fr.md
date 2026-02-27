@@ -44,7 +44,6 @@ Idéal pour obtenir des résultats rapidement sans se perdre dans les détails t
 > **Rôle :** Tu es un `[Directeur de la photographie]`.
 > **Tâche :** Rédige un prompt descriptif en anglais, riche en mots-clés, pour générer une vidéo réaliste de `[Votre scène]`.
 
-\
 
 ### 🥇 Pro Version (Version Expert)
 

@@ -48,7 +48,6 @@ Arrêtez d'étudier la grammaire de manière ennuyeuse à l'écrit. Utilisez le 
 > **Tâche (Task) :**
 Pose-moi des questions insistantes sur le but de ma visite, la durée de mon séjour, l'adresse de mon hébergement et ma profession. Si mes réponses sont floues ou si je bégaie, mène l'échange comme un interrogatoire sous pression en me menaçant strictement de me refuser l'entrée. Commence immédiatement par la première question.
 
-\
 
 ### 🥇 Version Pro (Small talk en entreprise et préparation aux examens)
 

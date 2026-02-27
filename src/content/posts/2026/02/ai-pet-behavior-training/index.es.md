@@ -49,7 +49,6 @@ Sin embargo, cada mal comportamiento tiene un **'detonante'**. Si describes la s
 - Raza y Edad: `[Tu entrada]`
 - Situación en la que ocurre: `[Tu entrada]`
 
-\
 
 ### 🥇 Versión Pro (Plan de intervención personalizado)
 

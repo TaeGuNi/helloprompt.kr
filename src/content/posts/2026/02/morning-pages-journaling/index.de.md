@@ -43,7 +43,6 @@ Nutzen Sie diese Version, wenn Sie nur schnell Ihren emotionalen Zustand und die
 > **Aufgabe:** Lies meinen folgenden Tagebucheintrag. Beschreibe das „Wetter“ meiner heutigen Emotionen und gib mir ein paar warme, tröstende Worte mit auf den Weg.
 > **Tagebucheintrag:** `[Heutiger Text]`
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 
@@ -76,10 +75,9 @@ Nutzen Sie diese Version, wenn Sie tiefe innere Erkundungen und die Wiederherste
 >
 > - **[Morning Pages Text]**:
 >
-> ```
+>
 > [Fügen Sie hier den Text Ihrer heutigen Morning Pages ein]
-> ```
-
+>
 ---
 
 ## 💡 Kommentar des Autors (Insight)

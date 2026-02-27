@@ -44,7 +44,6 @@ Idéal lorsque vous n'avez pas besoin d'un format complexe et que vous souhaitez
 >
 > `[Collez la transcription de la réunion ici]`
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

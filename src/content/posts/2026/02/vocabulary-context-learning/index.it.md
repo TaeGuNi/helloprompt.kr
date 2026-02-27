@@ -42,7 +42,6 @@ Usala quando hai poco tempo e vuoi un risultato immediato e conciso.
 > **Ruolo:** Sei un `[Professore di Linguistica]`.
 > **Richiesta:** Spiegami il significato, le sfumature e forniscimi 3 esempi pratici della parola `[INSERISCI PAROLA]`.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

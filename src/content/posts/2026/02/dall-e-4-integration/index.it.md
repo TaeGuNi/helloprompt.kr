@@ -37,7 +37,6 @@ Utilizza questa versione quando hai bisogno rapidamente di un'immagine intuitiva
 > **Ruolo:** Sei un fotografo cinematografico e un designer tipografico.
 > **Azione:** Crea un'immagine fotorealistica di una strada buia di notte con un'insegna al neon che recita esattamente "HELLO".
 
-\
 
 ### 🥇 Versione Pro
 

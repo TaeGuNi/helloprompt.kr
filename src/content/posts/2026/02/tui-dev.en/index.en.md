@@ -38,7 +38,6 @@ Use when you just need the skeleton and layout of a TUI app quickly.
 > **Role:** You are a senior `[Go/Rust/Python/Node.js]` developer and a TUI (Text User Interface) design expert.
 > **Task:** Write the basic scaffolding code for a TUI application intended for `[App Purpose]` using `[Language and Framework]`. The layout must feature a sidebar on the left and a main viewport on the right.
 
-\
 
 ### 🥇 Pro Version
 

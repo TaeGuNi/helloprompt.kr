@@ -42,7 +42,6 @@ Usalo se vuoi iniziare in modo leggero, impostando rapidamente le note giornalie
 > **Ruolo:** Sei un esperto di produttività specializzato in `[Obsidian]`.
 > **Richiesta:** Per un principiante che ha appena installato Obsidian, proponi un `[template per note giornaliere (Daily Note)]` estremamente intuitivo e semplice, e una `[struttura di cartelle di base (massimo 3)]`. La nota giornaliera deve includere la data, le cose da fare (to-do), gli appunti principali e un diario della gratitudine.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

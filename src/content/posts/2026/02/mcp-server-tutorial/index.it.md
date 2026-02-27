@@ -52,7 +52,6 @@ Utilizza questa versione quando hai bisogno rapidamente solo della struttura di 
 > **Ruolo:** Sei uno sviluppatore TypeScript Senior.
 > **Task:** Scrivi il codice per un semplice server MCP utilizzando `@modelcontextprotocol/sdk` che abbia il seguente scopo: `[Inserisci lo scopo, es: fornire il meteo di una città specifica]`.
 
-\
 
 ### 🥇 Versione Pro
 

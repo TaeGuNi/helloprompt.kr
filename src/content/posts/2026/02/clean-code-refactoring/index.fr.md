@@ -42,7 +42,6 @@ Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 > **Rôle :** Tu es un `[Évangéliste du Clean Code]`.
 > **Requête :** Transforme ce code `[Collez votre code ici]` en un code propre, lisible et facile à maintenir, sans en changer le comportement final.
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 

@@ -38,7 +38,6 @@ Utilizza questo prompt quando hai bisogno di una bozza rapida per una pipeline d
 > **Ruolo:** Sei un Senior Data Engineer e l'autore del "The Data Engineering Book".
 > **Azione:** Consigliami un'architettura di pipeline open source per raccogliere dati da `[Origine dei Dati]` e caricarli in `[Destinazione]`.
 
-\
 
 ### 🥇 Versione Pro (Pro Version)
 

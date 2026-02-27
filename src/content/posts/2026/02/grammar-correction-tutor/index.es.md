@@ -44,7 +44,6 @@ Los correctores ortográficos tradicionales solo te dan el resultado final: "Est
 >
 > **Instrucción (Task):** Corrige el siguiente texto y explícame brevemente por qué estaban mal mis errores: `[inserta tu texto aquí]`.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

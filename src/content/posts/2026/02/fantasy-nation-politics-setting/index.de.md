@@ -42,7 +42,6 @@ Verwenden Sie diese Version, wenn Sie nur eine grobe Idee oder einen schnellen E
 > **Rolle:** Du bist ein Professor für Politikwissenschaften und Lead Designer für komplexe Zivilisationssimulationen.
 > **Aufgabe:** Ein einfaches Königreich ist langweilig. Entwirf eine fiktive Nation mit einem tiefgründigen, dreidimensionalen politischen System (wie z. B. einer Theokratie oder Handelsrepublik) basierend auf einer rauen Wüstenumgebung.
 
-\
 
 ### 🥇 Pro-Version (Expertenmodus)
 

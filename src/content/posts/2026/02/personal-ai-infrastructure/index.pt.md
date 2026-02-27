@@ -44,7 +44,6 @@ Ideal para descobrir rapidamente o que o seu computador atual é capaz de rodar.
 > **Papel:** Você é um Engenheiro de IA especialista em infraestrutura local.
 > **Tarefa:** Tenho um `[MacBook Pro M3 com 16GB de RAM]`. Me diga qual é a melhor configuração simples (LLM, interface e banco de dados) para rodar uma IA localmente, focada em `[análise de documentos em PDF e programação]`.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

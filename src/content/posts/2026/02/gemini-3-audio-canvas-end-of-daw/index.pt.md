@@ -47,7 +47,6 @@ Utilize quando precisar alterar rapidamente um trecho sonoro ou fazer um esboço
 > **Função (Role):** Você é um sound designer especialista no `[Gênero Musical]`.
 > **Tarefa (Task):** Na faixa de áudio enviada, remova o `[Instrumento/Som Específico]` do intervalo entre `[Tempo de Início]` e `[Tempo de Fim]` e preencha com um `[Novo Som]`.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

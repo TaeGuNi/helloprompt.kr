@@ -42,7 +42,6 @@ Es una historia muy común: pasas horas diseñando unas diapositivas impecables,
 > **Rol:** Eres un experto entrenador de oratoria estilo TED.
 > **Solicitud:** Basado en el siguiente texto de mi diapositiva, escribe un guion natural y conversacional que pueda leer directamente al presentar. `[Inserta el texto de tu PPT aquí]`
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

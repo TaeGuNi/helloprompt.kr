@@ -42,7 +42,6 @@ Usala quando hai bisogno di un risultato immediato senza troppe pretese di illum
 > **Ruolo:** Sei un fotografo specializzato in still life e product design.
 > **Richiesta:** Genera un'immagine di `[INSERISCI OGGETTI, es. un kit di sopravvivenza]` utilizzando la tecnica del Knolling. Gli oggetti devono essere disposti ordinatamente ad angoli retti e fotografati dall'alto.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

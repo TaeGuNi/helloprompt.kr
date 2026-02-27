@@ -42,7 +42,6 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Photography", "Effect"]
 > **角色:** 你是一位专业的肖像摄影师。
 > **请求:** 请生成一张具有感性光斑 (Bokeh) 效果的照片，模糊背景以突出主体。主体是 `[你的被摄体，例如：一只正在喝咖啡的猫]`，背景是 `[场景，例如：夜晚的咖啡馆]`。
 
-\
 
 ### 🥇 Pro Version (专家版)
 

@@ -43,7 +43,6 @@ Utilizza questo prompt quando hai bisogno di estrarre rapidamente solo i punti s
 > **Ruolo:** Sei un `[IT Project Manager]`.
 > **Task:** Leggi la seguente trascrizione della riunione e riassumi le decisioni principali e le cose da fare.
 
-\
 
 ### 🥇 Versione Pro
 

@@ -43,7 +43,6 @@ Nutzen Sie diese Version, wenn Sie Anfragen nur schnell kategorisieren möchten.
 > **Aufgabe:** Lies die folgende Kundenanfrage, bestimme die `[Kategorie]` und die `[Dringlichkeit (Hoch/Mittel/Niedrig)]` und antworte entsprechend.
 > **Anfrage:** `[Kopieren Sie hier die Kundenanfrage hinein]`
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

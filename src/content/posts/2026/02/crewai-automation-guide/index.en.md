@@ -48,7 +48,6 @@ Ideal for grasping the foundational structure of a simple information gathering 
 >
 > Implement a `Sequential` process so the two agents operate one after the other.
 
-\
 
 ### 🥇 Pro Version (Stock Analysis Report)
 

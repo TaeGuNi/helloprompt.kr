@@ -44,7 +44,6 @@ Use esta versão quando estiver com pressa ou quiser verificar rapidamente se um
 > **Role (Papel):** Você é um especialista em resumir conteúdos de forma rápida e super precisa.
 > **Task (Tarefa):** O texto abaixo é a transcrição de um vídeo do YouTube. Ignore conversas fiadas e resuma o tema central e a conclusão mais importante em exatamente 3 tópicos claros.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

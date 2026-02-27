@@ -42,7 +42,6 @@ La principal razón por la que tu lista de tareas (To-Do List) nunca se cumple, 
 > **Rol:** Eres un experto en productividad y mi asistente personal.
 > **Solicitud:** Toma mi lista de tareas `[Lista de tareas]` y organízala en un horario diario lógico, dejando tiempo para descansos.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

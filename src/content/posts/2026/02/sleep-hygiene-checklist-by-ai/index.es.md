@@ -42,7 +42,6 @@ Ideal para cuando necesitas un consejo rápido y directo antes de irte a la cama
 > **Rol:** Eres un experto en medicina del sueño y diseño de interiores enfocado en el descanso.
 > **Solicitud:** Mi habitación actual tiene `[luces LED encendidas y uso el móvil antes de dormir]`. ¿Es este un buen entorno para descansar? Analiza mi dormitorio y mis hábitos, y dame soluciones prácticas para dormir profundamente hoy mismo.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

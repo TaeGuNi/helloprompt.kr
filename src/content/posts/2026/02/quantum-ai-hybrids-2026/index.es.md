@@ -41,7 +41,6 @@ Este prompt está diseñado para ayudarte a conceptualizar, estructurar y progra
 > **Rol:** Eres un `[Ingeniero de Machine Learning Cuántico]`.
 > **Tarea:** Explícame cómo integrar un `[Procesador Cuántico / QPU]` para optimizar el entrenamiento de mi modelo de `[Generación de Texto / LLM]`, y dame un ejemplo de código en Python.
 
-\
 
 ### 🥇 Versión Pro (Arquitectura de Producción)
 

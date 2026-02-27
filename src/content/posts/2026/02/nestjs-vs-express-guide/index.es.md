@@ -42,7 +42,6 @@ Express es libre, pero puede llevar al descontrol. Por el contrario, **NestJS** 
 > **Rol:** Eres un `[Desarrollador Backend de NestJS]`.
 > **Tarea:** Quiero crear una `[API básica para un foro usando NestJS]`. Genera la estructura de carpetas predeterminada que incluya los módulos `User` y `Post`, junto con el código de configuración para `app.module.ts`.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

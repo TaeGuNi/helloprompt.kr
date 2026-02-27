@@ -42,7 +42,6 @@ Ideal para uma manhã corrida quando você só precisa de uma resposta rápida.
 > **Função:** Você é um estilista de moda especializado em clima.
 > **Solicitação:** Sugira uma roupa adequada para hoje com base nestes dados: `[Temperatura e Clima Atuais]`.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

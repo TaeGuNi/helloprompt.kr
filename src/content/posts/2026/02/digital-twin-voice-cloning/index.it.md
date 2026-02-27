@@ -48,7 +48,6 @@ Fase di analisi in cui diamo in pasto all'IA i dati testuali del passato per ric
 > **Dati:**
 `[Incolla qui 3-5 esempi di tuoi testi passati: articoli, chat, email, post sui social]`
 
-\
 
 ### 🥇 Versione Pro (Persona Injection)
 

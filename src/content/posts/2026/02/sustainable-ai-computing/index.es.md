@@ -37,7 +37,6 @@ La adopción masiva de la Inteligencia Artificial está generando un impacto amb
 > **Rol:** Eres un Ingeniero Cloud especializado en IA Sostenible y Green Computing.
 > **Tarea:** Proporciona 3 estrategias rápidas y prácticas para reducir el consumo de GPU y la huella de carbono de un proyecto que utiliza `[Modelo de IA, ej: Llama-3]`.
 
-\
 
 ### 🥇 Versión Pro
 

@@ -37,7 +37,6 @@ Utilize esta versão quando precisar identificar rapidamente os pontos de melhor
 > **Função (Role):** Você é um `[Core Contributor do Rust 2026]`.
 > **Tarefa (Task):** Otimize este `[código Rust legado]` de acordo com os padrões assíncronos mais recentes de 2026.
 
-\
 
 ### 🥇 Versão Profissional (Pro Version)
 

@@ -60,7 +60,6 @@ Si vous ne pouvez pas utiliser Python dans votre environnement, voici le prompt 
 >
 > - N'ajoute aucun texte, aucune balise markdown, ni aucune explication avant ou après le JSON.
 
-\
 
 ### 🥇 Pro Version (Version Expert)
 

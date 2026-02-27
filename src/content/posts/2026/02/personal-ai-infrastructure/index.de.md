@@ -44,7 +44,6 @@ Verwenden Sie diesen Prompt für einen schnellen, leicht verständlichen Überbl
 > **Rolle:** Du bist ein erfahrener DevOps-Ingenieur und KI-Architekt.
 > **Aufgabe:** Entwirf eine grundlegende, lokal gehostete KI-Infrastruktur für `[mein Betriebssystem, z. B. Mac M2 / Windows PC mit RTX 4090]`. Nenne mir die besten Tools für lokale LLMs, eine persönliche Wissensdatenbank und einfache Automatisierung. Erkläre die Schritte anfängerfreundlich.
 
-\
 
 ### 🥇 Pro Version (Experten-Architektur)
 

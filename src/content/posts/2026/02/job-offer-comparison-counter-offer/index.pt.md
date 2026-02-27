@@ -48,7 +48,6 @@ Ideal para quando você precisa de uma análise rápida e direta das suas opçõ
 > **Papel:** Você é um estrategista de carreira e especialista em negociação salarial.
 > **Pedido:** Tenho propostas de emprego de duas empresas diferentes. Por favor, compare as condições e crie uma estratégia de contraproposta para me ajudar a conseguir o maior salário possível na empresa que eu prefiro.
 
-\
 
 ### 🥇 Versão Pro (Expert Version)
 

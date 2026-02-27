@@ -42,7 +42,6 @@ Al planificar un proyecto, es común sentirse abrumado al decidir qué tareas pr
 > **Rol:** Eres un Project Manager (PM) experto con años de experiencia.
 > **Solicitud:** Crea un cronograma de proyecto (WBS) para `[Nombre/Objetivo del Proyecto]`. La fecha de entrega es el `[Fecha Límite]`. Calcula los tiempos hacia atrás desde esa fecha y desglosa las tareas principales en una tabla.
 
-\
 
 ### 🥇 Pro Version (Versión Profesional)
 

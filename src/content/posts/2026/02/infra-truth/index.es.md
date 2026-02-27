@@ -38,7 +38,6 @@ A simple vista, parece que todas las empresas están triunfando con la IA.
 
 > **El Espejismo:** "Nuestra nueva función de IA generativa aumentará la productividad en un 300% y revolucionará la industria."
 
-\
 
 ### 🥇 La Verdadera Realidad (Lo que sucede en la infraestructura)
 

@@ -44,7 +44,6 @@ Use this to understand how R3F works and to run a quick, lightweight test.
 > **Role:** You are a Senior Frontend Developer.
 > **Task:** Use React Three Fiber (R3F) to render a single cube in the center of the screen. Write an interactive component where the cube grows by 1.2x on hover, changes to a random color on click, and continuously rotates on its own using the `useFrame` hook.
 
-\
 
 ### 🥇 Pro Version
 

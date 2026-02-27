@@ -42,7 +42,6 @@ Nutze diesen Prompt, wenn du es besonders eilig hast und nur eine grobe Rezeptid
 > **Rolle:** Du bist ein erfahrener Meal-Prep-Koch.
 > **Aufgabe:** Ich habe `[Zutaten im Kühlschrank]`. Erstelle mir daraus ein schnelles Lunchbox-Rezept, das in unter 10 Minuten zubereitet ist.
 
-\
 
 ### 🥇 Pro Version (Für die perfekte Nährstoffbalance)
 

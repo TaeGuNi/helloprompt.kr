@@ -44,7 +44,6 @@ Nutzen Sie diese Variante, wenn Sie schnell spezifische Texte extrahieren oder s
 >
 > `[Fügen Sie hier Ihre Datenliste ein]`
 
-\
 
 ### 🥇 Pro Version (Für Experten)
 

@@ -43,7 +43,6 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Print"]
 > **Task（指示）:** 以下のテーマで、特有の網点と色ズレが魅力的なリソグラフ（Risograph）印刷スタイルの画像を生成してください。
 > **Theme（テーマ）:** `[描きたい被写体・風景などを入力]`
 
-\
 
 ### 🥇 Pro Version (専門家形)
 

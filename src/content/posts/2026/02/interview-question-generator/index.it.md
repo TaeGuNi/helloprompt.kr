@@ -42,7 +42,6 @@ Utilizza questo prompt quando hai poco tempo e ti servono subito spunti interess
 > **Ruolo:** Sei un Recruiter Senior per il dipartimento HR di una multinazionale.
 > **Richiesta:** Crea una lista di 5 domande da colloquio acute e non convenzionali per valutare le reali competenze di un candidato per la posizione di `[Inserisci Ruolo]`.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

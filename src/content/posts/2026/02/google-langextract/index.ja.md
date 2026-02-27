@@ -43,7 +43,6 @@ tags: ["Google", "LLM", "Data Extraction", "Python", "AI"]
 > **役割:** あなたは優秀なデータ抽出アシスタントです。
 > **指示:** 以下の入力テキストから会議の情報を抽出し、必ず有効なJSON形式のみで出力してください。挨拶文やMarkdownのコードブロック（\`\`\`json など）は絶対に含めないでください。
 
-\
 
 ### 🥇 Pro Version (専門家型)
 
@@ -60,7 +59,7 @@ tags: ["Google", "LLM", "Data Extraction", "Python", "AI"]
 >
 > 以下のPythonコードを実行し、堅牢なデータ抽出を実装せよ。
 >
-> ```python
+>
 > from google.langextract import DataExtractor
 > from pydantic import BaseModel, Field
 > from datetime import datetime
@@ -84,7 +83,7 @@ tags: ["Google", "LLM", "Data Extraction", "Python", "AI"]
 > # 3. 実行（スキーマ違反時は自動エラー修正機能がバックグラウンドで機能する）
 > meeting = extractor.extract(MeetingInfo, email_content)
 > print(meeting.model_dump_json(indent=2))
-> ```
+>
 >
 > **制約事項 (Constraints):**
 >

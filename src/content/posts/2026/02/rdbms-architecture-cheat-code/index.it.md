@@ -156,4 +156,3 @@ Solo un progetto RDBMS perfettamente controllato fin dalle fondamenta è l'unico
 Salvate questo cheat code e, ogni volta che l'IA cerca di scrivere query spaghetti, imprimeteglielo spietatamente in testa.
 
 Ora, staccate in orario con uno schema DB solido! 🍷
-```

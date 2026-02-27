@@ -43,7 +43,6 @@ Use this when you need a quick sorting of your tasks without complex setups.
 > **Task:** Here is my to-do list for today. Please arrange them in order of importance, starting with the most critical.
 > `[Paste your randomized to-do list here]`
 
-\
 
 ### 🥇 Pro Version
 

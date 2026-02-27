@@ -43,7 +43,6 @@ Idéal pour un aperçu rapide de l'humeur générale.
 > **Demande :** Voici une liste d'avis clients. Résume le sentiment général (Positif/Négatif) et donne-moi les 3 plaintes principales.
 > **Données :** `[Insérer les avis ici]`
 
-\
 
 ### 🥇 Pro Version (Version Experte)
 

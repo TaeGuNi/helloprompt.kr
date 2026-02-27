@@ -43,7 +43,6 @@ Ideale quando ti serve una singola formula al volo e non hai tempo di cercare la
 > **Contesto:** Ho una tabella con la Colonna A ('Nome Prodotto'), Colonna B ('Prezzo unitario') e Colonna C ('Quantità venduta').
 > **Richiesta:** Scrivimi la formula esatta da inserire nella Colonna D per calcolare il fatturato totale (Prezzo \* Quantità). Inoltre, se il fatturato supera i 1000€, la formula deve restituire la scritta "VIP", altrimenti "Standard".
 
-\
 
 ### 🥇 Versione Pro (Analista Dati Avanzato)
 

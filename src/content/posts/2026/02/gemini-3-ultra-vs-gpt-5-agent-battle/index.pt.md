@@ -51,7 +51,6 @@ Utilize este prompt quando quiser delegar tanto o planejamento quanto a codifica
 > **Role:** Você é um `[Desenvolvedor Sênior de IA]`.
 > **Task:** Planeje um `[Agente Autônomo de Investimento em Ações]` e escreva o código Python completo para executá-lo.
 
-\
 
 ### 🥇 Versão Profissional (Pro Version)
 

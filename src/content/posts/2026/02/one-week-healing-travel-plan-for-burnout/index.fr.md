@@ -43,7 +43,6 @@ Pour ceux qui souhaitent une inspiration immédiate et globale.
 
 > **Requête :** Je veux éviter les lieux touristiques bondés. Conçois-moi un itinéraire de "Slow Travel" d'une semaine axé sur le véritable repos.
 
-\
 
 ### 🥇 Version Pro
 

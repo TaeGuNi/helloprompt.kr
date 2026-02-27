@@ -44,12 +44,9 @@ Usala quando hai bisogno di un controllo rapido per individuare bug critici o er
 > **Ruolo:** Sei un Senior Software Engineer.
 > **Compito:** Controlla il codice sottostante per vulnerabilità di sicurezza o errori logici ed elenca brevemente solo i problemi riscontrati.
 > 
-> ```
+>
 > [Incolla il codice qui]
-> ```
-
-\
-
+>
 ### 🥇 Pro Version (Versione Esperta)
 
 Un prompt di livello professionale che comprende il contesto del codice e controlla meticolosamente le vulnerabilità di sicurezza, i punti di refactoring e la leggibilità.
@@ -77,10 +74,9 @@ Un prompt di livello professionale che comprende il contesto del codice e contro
 > 
 > **Codice di Input (Input Code):**
 > 
-> ```
+>
 > [Incolla qui il codice da revisionare]
-> ```
-
+>
 ---
 
 ## 💡 Il Commento dell'Autore (Insight)

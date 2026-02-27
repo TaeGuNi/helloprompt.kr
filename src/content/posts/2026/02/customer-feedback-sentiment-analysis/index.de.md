@@ -42,7 +42,6 @@ Verwenden Sie diese Version für einen schnellen Überblick, wenn Sie sofortige 
 > **Rolle:** Du bist ein erfahrener Experte für CS (Customer Success) und Qualitätsmanagement.
 > **Aufgabe:** Analysiere die folgenden Kundenbewertungen, führe eine Sentiment-Analyse durch und fasse die wichtigsten positiven und negativen Punkte zusammen.
 
-\
 
 ### 🥇 Pro Version (Experten-Prompt)
 

@@ -49,7 +49,6 @@ Ideal para respostas rápidas e explicações curtas no dia a dia.
 > **Papel:** Você é um especialista em educação financeira infantil, com uma linguagem lúdica e empática.
 > **Pedido:** Crie um roteiro de explicação de 3 minutos para ensinar a uma criança de 6 anos o valor do dinheiro e que ele não é infinito.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

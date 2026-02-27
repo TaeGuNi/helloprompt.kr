@@ -42,7 +42,6 @@ Ideal para obtener recomendaciones rápidas de herramientas y dar el primer paso
 > **Rol:** Eres un Ingeniero DevOps especializado en IA local.
 > **Tarea:** Recomiéndame las mejores herramientas gratuitas para ejecutar un LLM localmente en mi `[Sistema Operativo: ej. Mac M2 / Windows con GPU RTX 3060]` para `[Caso de uso: ej. resumir PDFs confidenciales]`.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

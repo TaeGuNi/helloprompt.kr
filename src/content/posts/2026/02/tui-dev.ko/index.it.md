@@ -38,7 +38,6 @@ Ideale quando hai bisogno solo di un'impalcatura veloce per una TUI in un lingua
 > **Ruolo:** Sei uno sviluppatore Senior esperto in `[Linguaggio]` e specialista in UI per terminale (TUI).
 > **Azione:** Scrivi il codice boilerplate di base per un'applicazione TUI utilizzando `[Framework/Libreria]` per implementare `[Funzionalità Desiderata]`. Includi anche le istruzioni esatte per eseguire il codice.
 
-\
 
 ### 🥇 Versione Pro (Pro Version)
 

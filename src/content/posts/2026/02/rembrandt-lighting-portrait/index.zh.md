@@ -42,7 +42,6 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Portrait", "Lighting"]
 > **Role:** 你是一位专业的人像摄影大师。
 > **Task:** 请生成一张展现深刻内心情感的肖像画，并应用伦勃朗布光法 (Rembrandt lighting)。
 
-\
 
 ### 🥇 Pro Version (专家版)
 

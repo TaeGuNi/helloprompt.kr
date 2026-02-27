@@ -55,10 +55,9 @@ tags: ["Refactoring", "CleanCode", "UnitTesting", "Developer"]
 >
 > **Входной код (Input):**
 >
-> ```python
+>
 > [Вставьте сюда легаси-код для анализа]
-> ```
-
+>
 ---
 
 ## 💡 Комментарий автора (Insight)

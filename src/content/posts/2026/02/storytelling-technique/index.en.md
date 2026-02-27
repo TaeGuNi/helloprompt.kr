@@ -42,7 +42,6 @@ Use this when you are short on time and need an instant narrative boost.
 > **Role:** You are a `[Bestselling Essayist and Copywriter]`.
 > **Task:** Transform the following dry, fact-based text into an engaging, emotionally resonant story that touches the reader's heart.
 
-\
 
 ### 🥇 Pro Version (Expert Craftsmanship)
 

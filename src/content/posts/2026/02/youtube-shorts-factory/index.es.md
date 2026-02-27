@@ -43,7 +43,6 @@ El secreto del formato corto (Shorts, Reels, TikTok) reside en la **constancia**
 > **Tema:** `[Trucos para Vivir Solo]`
 > **Petición:** Dame 5 ideas de Shorts impactantes, frescas y que la gente no pueda parar de ver. Incluye un Título atractivo y la Primera Frase (Hook) para cada una.
 
-\
 
 ### 🥇 Versión Pro (Escaleta de Rodaje Completa)
 

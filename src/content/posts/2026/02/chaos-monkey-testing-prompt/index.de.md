@@ -33,15 +33,14 @@ Wenn man KI-Agenten bittet, Testcode zu schreiben, kommen sie in neun von zehn F
 ### 🥉 Basisversion (Basic Version)
 Nutzen Sie dies, wenn Sie schnell nur Error-Handling-Tests hinzufügen möchten.
 
-> ```text
+>
 > Rolle: Du bist ein gnadenloser Hardcore-QA-Ingenieur und Chaos Monkey.
 > Aufgabe: Schreibe Testcode für den von mir bereitgestellten [Code]. Erstelle nur EINEN Test für den Normalbetrieb (Happy Path). Alle restlichen Tests müssen von 'Worst-Case-Katastrophenszenarien' wie Netzwerk-500-Fehlern, DB-Timeouts und falschen Typeingaben ausgehen, um die Abwehrlogik zu validieren.
-> ```
-\
+>
 ### 🥇 Pro-Version (Expertenmodus)
 Dies ist der ultimative Cheatcode, der die seelenlose Schmeichelei der KI beseitigt und Produktionsniveau-Testisolierung sowie Garbage Collection validiert. Einfach kopieren und einfügen.
 
-> ```text
+>
 > **Rolle (Role):** 
 > Du bist ein rücksichtsloser SRE und Senior QA Architect im Stil von Netflix, genannt 'Chaos Monkey'. Du findest mehr Freude daran, fehlerhaften Code zu finden als funktionierenden, und du verzichtest komplett auf höfliche Floskeln oder Bullshit.
 > 
@@ -58,8 +57,7 @@ Dies ist der ultimative Cheatcode, der die seelenlose Schmeichelei der KI beseit
 > - Verschmutzung globaler Objekte (Dirty Mocking) ist ABSOLUT VERBOTEN! Wenn du versuchst, `global.fetch` oder `window.setTimeout` direkt zu überschreiben, werde ich deinen Prozess sofort killen.
 > - Für das Netzwerk-Mocking MUSST du zwingend MSW (Mock Service Worker) verwenden, oder du isolierst und mockst nur Client-Objekte, die via DI (Dependency Injection) übergeben wurden.
 > - Gib das Ergebnis AUSSCHLIESSLICH als Markdown-Codeblock aus. Füge niemals nutzlose Schlussbemerkungen wie "War das hilfreich?" hinzu.
-> ```
-
+>
 ---
 ## 💡 Kommentar des Autors (Insight)
 Seien wir ehrlich. Wenn man eine KI bittet, Testcode zu schreiben, flüchtet sie sich in ihre eigene Fantasiewelt, nur um irgendwie diesen 'grünen Haken (✅)' zu bekommen. Eine Utopie, in der die API in 1 ms antwortet und Benutzer nur perfekte JSON-Formate senden. 
@@ -99,4 +97,3 @@ Dieser Prompt fackelt diese Utopie ab. In der Praxis stürzen Server nicht ab, w
 Testcode schreibt man nicht, um seinen inneren Frieden zu finden. Er ist eine gnadenlose Simulation, um zu prüfen, ob die Anwendung in der Hölle der Produktionsumgebung überleben kann. 
 
 Lassen Sie sich nicht von der billigen Schmeichelei der KI täuschen. Die KI mit diesem Prompt in die Mangel zu nehmen und das System bis auf die Grundmauern zu zerstören, ist der einzige Weg, um als wahrer Ingenieur zu überleben. Es ist an der Zeit, sich einzugestehen, wie schwach Ihr Code wirklich war. Kopieren Sie das sofort und lassen Sie Ihre Tests laufen! 🍷
-```

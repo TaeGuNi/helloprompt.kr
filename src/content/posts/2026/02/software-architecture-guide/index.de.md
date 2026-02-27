@@ -42,7 +42,6 @@ Verwenden Sie diese Version, wenn Sie eine schnelle Einschätzung zur architekto
 > **Rolle:** Du bist ein `[Senior Backend Architect mit 10 Jahren Erfahrung]`.
 > **Aufgabe:** Erkläre die 3 größten **Overhead-Faktoren**, mit denen ein frühes Startup bei der Einführung von MSA konfrontiert wird. Vergleiche dies anschließend mit den **technischen Schulden (Technical Debt)**, die sich ansammeln können, wenn man zu lange bei einer monolithischen Architektur bleibt.
 
-\
 
 ### 🥇 Pro Version (Experte)
 

@@ -41,7 +41,7 @@ Copy the Basic Version prompt:
 **Role:** You are an uncompromising, hardcore senior TypeScript architect with 15 years of experience.
 **Task:** Solve `[The problem and code to refactor]`. You must use `pnpm` instead of `npm`, ban the `any` type, and validate with `zod`. Set up `Biome` for linting and `Vitest` for testing.
 ```
-\
+
 ### 🥇 Pro Version
 This is the ultimate cheat code to grab the AI by the collar and drag it along when scaffolding an entire project or writing complex business logic.
 

@@ -42,7 +42,6 @@ Use esta versão quando precisar de um rascunho rápido ou de uma estrutura simp
 > **Papel:** Você é um `[Estrategista Comercial]` experiente.
 > **Solicitação:** Crie um esboço de proposta comercial persuasiva para vender `[Nosso Serviço/Produto]` focando em resolver o `[Problema do Cliente]`.
 
-\
 
 ### 🥇 Versão Pro (Expert Version)
 

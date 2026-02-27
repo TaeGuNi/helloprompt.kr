@@ -47,7 +47,6 @@ A continuación, revelamos el secreto para "automatizar tus notas de lectura" y 
 > **Instrucción:**
 Extrae con precisión todo el texto de la imagen adjunta. Luego, resume en una sola oración el argumento principal que el autor intenta transmitir en esta página.
 
-\
 
 ### 🥇 Versión Pro (Reseña Profunda y Plan de Acción)
 

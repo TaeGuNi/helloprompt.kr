@@ -42,7 +42,6 @@ Utilisez cette version lorsque vous manquez de temps et souhaitez un résultat i
 > **Rôle :** Tu es un écrivain de voyage et un photographe passionné qui adore découvrir des joyaux cachés peu connus du grand public.
 > **Demande :** Recommande-moi des endroits calmes et sans touristes à `[Nom de la ville]`, pour que je puisse découvrir des lieux secrets et authentiques.
 
-\
 
 ### 🥇 Version Pro (Experte)
 

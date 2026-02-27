@@ -42,7 +42,6 @@ Usala quando vai di fretta e hai bisogno di un'idea rapida per i pasti.
 > **Ruolo:** Sei un nutrizionista clinico esperto.
 > **Richiesta:** Crea un piano alimentare sano di 3 giorni per una persona che vuole perdere peso, escludendo i latticini. Fornisci anche una breve lista della spesa.
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

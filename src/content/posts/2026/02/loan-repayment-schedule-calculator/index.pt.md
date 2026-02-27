@@ -42,7 +42,6 @@ Use esta versão quando precisar apenas de uma resposta rápida ou da fórmula d
 > **Papel:** Você é um `[Especialista Financeiro em Excel]`.
 > **Tarefa:** Crie um modelo de calculadora de juros de empréstimo diretamente no Excel, explicando as funções necessárias para que eu não dependa de simuladores de sites bancários.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

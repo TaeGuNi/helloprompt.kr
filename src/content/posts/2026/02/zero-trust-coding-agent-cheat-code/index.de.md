@@ -38,7 +38,7 @@ Verwenden Sie dies, wenn Sie die Codequalität schnell auf ein höheres Niveau h
 > **Aufgabe:** Schreibe den Code für `[Zu entwickelndes Feature]`.
 > **Einschränkungen:** Verwende ausschließlich die neuesten Standard-Syntaxen ab dem Jahr 2024. Es darf keine einzige Zeile Legacy-Code enthalten sein. Solltest du aufgrund deiner Wissensgrenzen unsicher bezüglich des neuesten Framework-Standards sein, erfinde absolut nichts, sondern fordere die Erlaubnis an, in der offiziellen Dokumentation suchen zu dürfen.
 
-\
+
 ### 🥇 Pro Version (Experte)
 Der ultimative Cheatcode, der die Denkweise der KI komplett umkrempelt.
 
@@ -129,4 +129,3 @@ KI ist eine großartige Schreibmaschine, aber kein großartiger Mentor. Wenn Sie
 Kopieren Sie dieses Zero-Trust-Protokoll und implantieren Sie es dauerhaft in Ihre IDE oder Ihren Custom-Agenten. Der ermüdende Kampf gegen veralteten Spaghetti-Code ist nun vorbei. 
 
 Es ist Zeit für echtes Engineering. Machen Sie jetzt entspannt und pünktlich Feierabend! 🍷
-```

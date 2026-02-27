@@ -47,7 +47,6 @@ Nutzen Sie diesen Prompt, wenn Sie einen Entwurf rasch auf offensichtliche ethis
 > **Rolle:** Du bist ein erfahrener Experte für digitale Ethik und Inklusion.
 > **Aufgabe:** Prüfe den folgenden `[Text/Inhalt]` auf mögliche Diskriminierung, unbewusste Vorurteile (Bias) und ethische Bedenken. Zeige problematische Stellen auf und mache neutrale, inklusive Verbesserungsvorschläge.
 
-\
 
 ### 🥇 Pro Version (Für Compliance & Risikomanagement)
 

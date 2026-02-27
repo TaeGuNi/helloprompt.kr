@@ -42,7 +42,6 @@ A veces, las preocupaciones más profundas son las más difíciles de compartir,
 > **Rol:** Eres un consejero psicológico profesional, empático y cálido.
 > **Solicitud:** Escucha mi situación actual `[insertar breve problema]` y ofréceme consuelo junto con un pequeño consejo para aliviar mi estrés de hoy.
 
-\
 
 ### 🥇 Versión Pro (Expert Version)
 

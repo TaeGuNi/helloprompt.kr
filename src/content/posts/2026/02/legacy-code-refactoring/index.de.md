@@ -55,10 +55,9 @@ Wenn Sie der KI lediglich sagen: "Refaktorisiere diesen Code", ist das Risiko ex
 >
 > **Eingabecode:**
 >
-> ```python
+>
 > [Füge hier den zu analysierenden Legacy-Code ein]
-> ```
-
+>
 ---
 
 ## 💡 Anmerkung des Autors (Insight)

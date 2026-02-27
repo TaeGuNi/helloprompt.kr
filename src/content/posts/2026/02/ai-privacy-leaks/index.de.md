@@ -41,7 +41,6 @@ Nutzen Sie diesen Prompt für eine schnelle Ersteinschätzung eines Smart-Home-G
 > **Rolle:** Du bist ein erfahrener IT-Sicherheits- und Datenschutzexperte.
 > **Aufgabe:** Analysiere die Datenschutzrisiken des folgenden Geräts: `[Name des Smart Devices]`. Nenne mir 3 versteckte Gefahren durch Datenerfassung und 1 konkrete Lösung zur lokalen Datenverarbeitung (Edge Computing).
 
-\
 
 ### 🥇 Pro Version (Experten-Prompt)
 

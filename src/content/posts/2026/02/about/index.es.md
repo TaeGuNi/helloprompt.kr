@@ -43,7 +43,6 @@ Ideal cuando necesitas una solución rápida y directa sin complicaciones.
 > **Rol:** Actúa como un `[Especialista]`.
 > **Tarea:** Resuelve este `[Problema]`.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

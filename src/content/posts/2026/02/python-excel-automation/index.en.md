@@ -43,7 +43,6 @@ This is the fastest and most effective prompt when you simply need to merge mult
 >
 > **Task:** In my `C:/reports/` folder, I have 12 Excel files with the same format, such as `Jan.xlsx`, `Feb.xlsx`, etc. Write a Python code that sequentially reads all the Excel files in this folder, merges them into a single dataframe, and saves it to my desktop as `total_merged.xlsx`. The header (column name) structure is identical across all files. Please include friendly comments in the code and explain step-by-step how I should run it.
 
-\
 
 ### 🥇 Pro Version
 

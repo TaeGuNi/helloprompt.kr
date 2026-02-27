@@ -42,7 +42,6 @@ Use this when you need a quick, reliable grammar and tone check.
 > **Role:** You are a senior editor at a top-tier publishing house and an expert in business document refinement.
 > **Task:** Refine the following resume draft to fit strict business standards. Catch all typos and grammatical errors, and elevate the tone to increase professional credibility. [Insert your text here]
 
-\
 
 ### 🥇 Pro Version (Expert)
 

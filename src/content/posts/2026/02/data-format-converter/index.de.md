@@ -43,7 +43,6 @@ Verwende dies für schnelle, unkomplizierte 1:1 Konvertierungen ohne komplexe Lo
 > **Aufgabe:** Konvertiere die folgenden CSV-Daten in ein formatiertes JSON-Array. Entferne dabei alle leeren Felder.
 > **Daten:** `[Hier Daten einfügen]`
 
-\
 
 ### 🥇 Pro Version (Experten-Prompt)
 
@@ -74,10 +73,9 @@ Nutze diesen Prompt, wenn du verschachtelte Daten umstrukturieren, Felder umbene
 >
 > **Quelldaten:**
 >
-> ```text
+>
 > [Hier deine Rohdaten einfügen]
-> ```
-
+>
 ---
 
 ## 💡 Autorenkommentar (Insight)

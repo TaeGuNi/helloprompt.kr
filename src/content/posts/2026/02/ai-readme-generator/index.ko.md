@@ -44,7 +44,6 @@ tags: [Github, Documentation, OpenSource, Branding, AI]
 > **역할:** 너는 `[시니어 테크니컬 라이터]`야.
 > **요청:** 내 프로젝트의 `[파일 구조]`와 `[주요 기술 스택]`을 바탕으로 깔끔한 마크다운 형식의 README.md 초안을 작성해 줘.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 
@@ -67,9 +66,9 @@ tags: [Github, Documentation, OpenSource, Branding, AI]
 > - **한 줄 소개:** `[프로젝트의 핵심 가치를 설명하는 한 줄]`
 > - **기술 스택:** `[예: React, TypeScript, TailwindCSS]`
 > - **파일 구조:**
->   ```text
+>
 >   [tree 명령어 결과 붙여넣기]
->   ```
+>
 >
 > **제약사항 (Constraints):**
 >
@@ -168,4 +167,3 @@ npm run dev
 개발의 완성은 배포가 아니라 문서화입니다. 당신의 피땀 어린 코드가 누군가에게 발견되고 가치 있게 쓰일 수 있도록, 오늘 당장 AI를 활용해 README.md를 업데이트해 보세요.
 
 잘 쓰인 문서 하나가 당신을 훌륭한 오픈소스 생태계의 주역으로 만들어 줄 것입니다! 🚀
-```

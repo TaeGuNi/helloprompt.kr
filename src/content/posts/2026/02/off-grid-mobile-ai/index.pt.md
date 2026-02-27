@@ -42,7 +42,6 @@ Para consultas rápidas na rua, sem conexão com a internet.
 > **Função:** Você é um assistente rápido e objetivo.
 > **Comando:** Análise a imagem em anexo e me diga em uma frase o que é e traduza o texto visível para o português.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

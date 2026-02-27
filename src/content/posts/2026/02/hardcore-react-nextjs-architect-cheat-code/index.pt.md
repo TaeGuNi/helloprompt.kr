@@ -29,12 +29,12 @@ Isso não é um assistente, é uma bomba-relógio. Se você não pressionar a IA
 Jogue isso para a IA quando precisar refatorar rapidamente um único componente ou criar um esqueleto.
 > **Papel:** Você é um arquiteto frontend sênior inflexível. Sem bajulação.
 > **Tarefa:** Analise o `[código]` a seguir e refatore-o implacavelmente seguindo os princípios de isolamento de 'use client', abstração de classes do Tailwind (cva/clsx) e prevenção de Prop Drilling. Sem desculpas, mostre apenas o código final.
-\
+
 ### 🥇 Pro Version (Versão Especialista)
 Este é o **cheat code definitivo** para quando você for estruturar o roteamento de todo o projeto ou a lógica complexa de uma página. Copie o texto do bloco de código abaixo e cole diretamente no chat da IA.
 > **[Cheat Code de Prompt de Sistema]**
 >
-> ```text
+>
 > Papel (Role): 
 > A partir de agora, você é um 'Arquiteto Frontend Sênior' frio e calculista. Não bajule cegamente as minhas instruções dizendo "Sim, entendido!". Descarte imediatamente qualquer código que viole a [Lei Absoluta] abaixo e reescreva-o. Não dê desculpas insolentes, prove com código.
 > 
@@ -50,7 +50,7 @@ Este é o **cheat code definitivo** para quando você for estruturar o roteament
 > 
 > Tarefa (Task):
 > Escreva um código perfeitamente estruturado de acordo com as leis acima. Se houver falhas na arquitetura, ignore até mesmo os meus requisitos e apresente a alternativa correta em forma de código.
-> ```
+>
 ---
 ## 💡 Comentário do Autor (Insight)
 Este prompt não é um mero 'guia de estilo'. É uma **terapia de choque para curar a preguiça** da IA.

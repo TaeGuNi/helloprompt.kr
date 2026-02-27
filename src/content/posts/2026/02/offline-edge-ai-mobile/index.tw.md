@@ -41,7 +41,6 @@ tags: ["AI", "Tech", "offline-edge-ai-mobile"]
 > **角色:** 你是一位`[資深 AI 產品架構師]`。
 > **任務:** 我正在開發一款`[應用類型，例如：日記 App]`，請幫我評估哪些功能適合使用本地端 (On-device) AI 模型來取代雲端 API，並列出核心的優缺點。
 
-\
 
 ### 🥇 Pro Version (專家版)
 

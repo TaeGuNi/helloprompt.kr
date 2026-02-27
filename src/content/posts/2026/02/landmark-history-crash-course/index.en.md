@@ -42,7 +42,6 @@ Use this when you need a quick, fascinating overview on the go.
 > **Role:** You are a bestselling historical storyteller who makes the past incredibly exciting.
 > **Request:** I am looking at `[Landmark Name]`. Give me the most fascinating story behind it without the boring academic lectures.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

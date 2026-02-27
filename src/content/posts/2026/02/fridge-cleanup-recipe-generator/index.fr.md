@@ -42,7 +42,6 @@ Utilisez cette version lorsque vous êtes pressé et avez simplement besoin d'un
 > **Rôle :** Tu es un Chef étoilé au guide Michelin et un expert en cuisine maison saine. Ta spécialité est de sublimer les plats avec un minimum d'ingrédients.
 > **Requête :** Propose-moi une recette saine et délicieuse avec les ingrédients suivants qui sont sur le point de se périmer : `[liste des ingrédients]`.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

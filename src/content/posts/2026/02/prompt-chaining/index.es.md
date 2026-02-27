@@ -44,7 +44,6 @@ En lugar de pedir "Escribe un artículo completo sobre un documento", utiliza es
 
 > **Paso 3 (Redacción):** Utilizando el esquema aprobado, redacta un borrador inicial del artículo empleando un tono `[Profesional/Persuasivo]`.
 
-\
 
 ### 🥇 Versión Pro (Flujo Agéntico con Autocorrección)
 

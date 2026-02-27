@@ -47,7 +47,6 @@ Use this for quick installation and basic project planning. Hire a senior agent 
 > **2. Execute Planning Prompt:**
 > `/plan "Build a responsive blog post list page using Next.js 14 App Router. I want to use Tailwind CSS and shadcn/ui."`
 
-\
 
 ### 🥇 Pro Version
 

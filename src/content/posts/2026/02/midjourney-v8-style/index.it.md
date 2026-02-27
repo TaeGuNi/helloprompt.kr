@@ -39,7 +39,6 @@ Utilizzala direttamente su Discord o sull'interfaccia web di Midjourney quando h
 > **Richiesta:**
 `/imagine prompt: [Soggetto da disegnare, es: Un robot che beve caffè in una città cyberpunk] --sref [URL dell'immagine di riferimento] --sw 800 --v 8`
 
-\
 
 ### 🥇 Versione Pro (Generatore di prompt multipli per asset di brand)
 

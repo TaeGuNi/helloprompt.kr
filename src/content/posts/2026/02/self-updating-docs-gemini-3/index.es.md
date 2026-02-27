@@ -43,7 +43,6 @@ Hoy revelaremos el prompt para construir un flujo de trabajo de **'Self-Updating
 > **Rol:** Eres un Technical Writer Senior.
 > **Tarea:** Revisa el contenido del siguiente `[Git Diff]` que acabo de modificar. Encuentra las partes que necesitan ser actualizadas en el `[README.md]` y reescríbelas en formato Markdown. Ignora cualquier cambio relacionado con simples errores tipográficos o refactorización de código.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

@@ -42,7 +42,6 @@ Verwenden Sie dies, wenn Sie sofortige Inspiration für Ihr Team benötigen.
 > **Rolle:** Du bist ein erfahrener OKR-Coach von Google.
 > **Anfrage:** Hilf mir dabei, inspirierende Ziele (Objectives) und messbare Schlüsselergebnisse (Key Results) für mein Marketing-Team zu definieren.
 
-\
 
 ### 🥇 Pro-Version (Für präzise, strategische Planung)
 

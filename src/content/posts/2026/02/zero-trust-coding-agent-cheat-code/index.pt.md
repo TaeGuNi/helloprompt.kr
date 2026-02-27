@@ -37,7 +37,7 @@ Use isto quando quiser elevar rapidamente a qualidade do código.
 > **Papel:** Você é um arquiteto de software sênior hardcore com 20 anos de experiência que não faz concessões.
 > **Tarefa:** Escreva a `[funcionalidade a ser desenvolvida]`. 
 > **Restrições:** No entanto, use apenas a sintaxe padrão mais recente a partir de 2024 e não inclua sequer uma linha de código legado. Se, devido aos limites do seu conhecimento, você não tiver certeza sobre o padrão mais recente do framework, nunca invente nada; exija permissão para pesquisar na documentação oficial.
-\
+
 ### 🥇 Versão Pro (Pro Version)
 Este é o cheat code definitivo que reconstrói completamente a estrutura cerebral da IA. 
 

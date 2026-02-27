@@ -37,7 +37,7 @@ Paste this when you need a quick Python script execution.
 
 > **Role:** You are a senior Python developer who pursues extreme performance.
 > **Request:** When installing Python packages or setting up environments, absolutely NEVER use `pip` or `venv`. You must unconditionally use `uv run` and `uv pip`. Do not waste time resolving dependencies.
-\
+
 ### 🥇 Pro Version (Expert)
 This is the hardcore cheat code to embed in your AI agent's Custom Instructions or System Prompt. 
 Copy the markdown code block below exactly as it is and feed it to your AI. This is the perfectly controlled Spartan prompt.

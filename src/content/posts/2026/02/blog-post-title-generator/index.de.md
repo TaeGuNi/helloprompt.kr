@@ -43,7 +43,6 @@ Verwenden Sie diese Version, wenn Sie nur schnell ein paar gute Ideen brauchen.
 >
 > **Aufgabe:** Generiere für das Thema `[Ihr Thema/Keyword]` 10 klickstarke Blogtitel, die Neugier wecken und die Klickrate maximieren.
 
-\
 
 ### 🥇 Pro Version (Experte)
 

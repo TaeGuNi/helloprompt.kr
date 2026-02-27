@@ -44,7 +44,6 @@ Utilisez cette version lorsque vous êtes pressé et avez besoin d'une inspirati
 > **Rôle :** Tu es un Expert en Copywriting Web et UX Writer.
 > **Requête :** Rédige le texte de la section Hero (Titre, Sous-titre, Bouton) pour `[Votre Produit]` qui résout `[Le problème du client]`.
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 

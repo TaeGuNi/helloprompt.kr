@@ -43,7 +43,6 @@ Utilizza questa versione quando hai bisogno solo di un risultato rapido.
 >
 > **Richiesta:** Crea un modello di calcolo degli interessi di un prestito direttamente in Excel, spiegandomi i passaggi in modo semplice, senza dover accedere a siti bancari esterni.
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

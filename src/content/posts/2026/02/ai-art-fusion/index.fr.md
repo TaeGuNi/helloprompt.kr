@@ -42,7 +42,6 @@ Idéal pour une expérimentation immédiate et pour tester la compréhension bru
 > **Rôle :** Tu es un historien de l'art et un peintre numérique de génie.
 > **Requête :** Génère une image du célèbre chef-d'œuvre « Portrait d'une Beauté » (Miindo) de Shin Yun-bok, mais peinte par Claude Monet dans un style purement impressionniste avec des touches de peinture épaisses.
 
-\
 
 ### 🥇 Version Pro (Maître)
 

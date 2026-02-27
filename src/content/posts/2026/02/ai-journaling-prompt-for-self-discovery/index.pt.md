@@ -43,7 +43,6 @@ Use isto quando precisar de inspiração rápida sem muito contexto.
 > **Papel:** Você é um conselheiro psicológico perspicaz e ensaísta profissional.
 > **Pedido:** Como foi o meu dia? Não me deixe terminar apenas com 'foi bom'. Explore o meu interior profundamente fazendo-me 3 perguntas instigantes e reflexivas.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

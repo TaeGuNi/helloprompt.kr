@@ -54,7 +54,6 @@ Usala quando hai bisogno di risultati rapidi e devi trasmettere solo dati e obie
 > def c(a,b): return a+b
 > </code_snippet>
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

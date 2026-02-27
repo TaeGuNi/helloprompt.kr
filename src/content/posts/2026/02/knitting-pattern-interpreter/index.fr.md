@@ -51,7 +51,6 @@ Ne fais pas de traduction littérale, utilise la terminologie française exacte 
 > **Format de sortie (Format) :**
 Saute une ligne pour chaque rang (Row/Round) afin que ce soit clair et facile à lire sans confusion.
 
-\
 
 ### 🥇 Version Pro (Interprétation de grilles & Calcul de taille sur mesure)
 

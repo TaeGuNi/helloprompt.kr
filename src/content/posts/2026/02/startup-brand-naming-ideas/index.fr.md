@@ -42,7 +42,6 @@ Idéal si vous cherchez juste un point de départ sans trop de détails.
 > **Rôle :** Tu es un directeur de création expert en naming de marque.
 > **Requête :** Trouve 10 idées de noms percutants, courts et mémorables pour `[votre idée de startup]`.
 
-\
 
 ### 🥇 Version Pro (Le Directeur Artistique)
 

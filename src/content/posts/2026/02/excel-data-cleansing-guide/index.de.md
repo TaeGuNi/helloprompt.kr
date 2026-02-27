@@ -42,7 +42,6 @@ Verwenden Sie diese Version, wenn Sie schnell und unkompliziert einen Lösungsan
 > **Rolle:** Du bist ein erfahrener Experte für Excel-Datenverarbeitung.
 > **Anfrage:** Zeige mir effiziente Methoden zur Datenbereinigung, wie z.B. das Trennen von Adressen und das Vereinheitlichen von Datumsformaten.
 
-\
 
 ### 🥇 Pro Version (Expertenmodus)
 

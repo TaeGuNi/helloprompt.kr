@@ -49,7 +49,6 @@ Verwenden Sie diesen Prompt, wenn Sie eine Aufzeichnung oder ein automatisch gen
 > 2. Erstelle eine nach Priorität geordnete Liste der "Action Items", die ich als verantwortlicher Ansprechpartner ab heute erledigen muss.
 > 3. Falls es während der Diskussion Unklarheiten oder versteckte Nuancen gab (z. B. indirekte Ablehnungen, bedingte Zustimmungen), erkläre diese präzise und verständlich.
 
-\
 
 ### 🥇 Pro Version (Echtzeit-Dolmetscher & Antwort-Coach)
 

@@ -48,7 +48,6 @@ Verwenden Sie diesen kurzen Prompt, wenn Sie hungrig sind und einfach nur schnel
 > **Rolle:** Du bist ein erfahrener Restaurantkritiker und lokaler Food-Guide.
 > **Anfrage:** Bitte erkläre mir kurz und verständlich, woraus das Gericht `[Name des Gerichts]` besteht und wie es schmeckt.
 
-\
 
 ### 🥇 Pro Version (Experte)
 

@@ -42,7 +42,6 @@ Use esta versão quando precisar apenas de um rascunho rápido para uma vaga de 
 > **Papel:** Você é um Recrutador Sênior (Tech Recruiter / Headhunter) de uma grande corporação.
 > **Solicitação:** Analise a Descrição da Vaga (JD) que fornecerei e escreva um rascunho de carta de apresentação para mim, garantindo que o meu perfil se encaixe perfeitamente com o talento desejado pela empresa.
 
-\
 
 ### 🥇 Versão Pro (Expert)
 

@@ -39,7 +39,6 @@ Use this when you need rapid results for general knowledge, simple translations,
 > **Task:** Translate the following English sentence into natural, conversational Spanish.
 > "The weather is exceptionally beautiful today, making it perfect for a walk."
 
-\
 
 ### 🥇 Pro Version (Few-Shot)
 

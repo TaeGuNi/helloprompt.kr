@@ -40,7 +40,6 @@ Copiez-collez ceci lorsque vous demandez l'exécution rapide d'un script Python.
 > **Rôle :** Tu es un développeur Python senior obsédé par les performances extrêmes.
 > **Tâche :** Lors de l'installation de paquets Python ou de la configuration d'un environnement, n'utilise sous aucun prétexte `pip` ou `venv`. Utilise impérativement `uv run` et `uv pip`. Ne perds pas de temps à résoudre les dépendances.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

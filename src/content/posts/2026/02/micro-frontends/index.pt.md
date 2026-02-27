@@ -39,7 +39,6 @@ Use quando precisar de uma visão geral rápida ou de ideias iniciais para divid
 > **Função:** Você é um `[Arquiteto de Software Sênior]` especializado em Micro-Frontends.
 > **Tarefa:** Analise meu `[Frontend Monolítico Atual]` e sugira 3 abordagens eficientes para dividi-lo em micro-frontends baseados em domínios de negócios.
 
-\
 
 ### 🥇 Versão Profissional (Pro Version)
 

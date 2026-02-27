@@ -42,7 +42,6 @@ Use this when you need a quick, high-level overview of your data.
 > **Role:** You are a `[Senior Data Analyst]`.
 > **Task:** Analyze the provided `[chart/table data]` and extract the most critical insights and potential statistical traps.
 
-\
 
 ### 🥇 Pro Version
 

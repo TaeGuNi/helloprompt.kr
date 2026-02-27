@@ -42,7 +42,6 @@ En el mundo del fitness, el 'cómo' combinas los ejercicios es mucho más import
 > **Rol:** Eres un `[Entrenador Personal y Nutricionista de Élite]`.
 > **Solicitud:** Crea una rutina de ejercicio semanal y un plan de dieta adaptado a mi objetivo de `[Pérdida de Peso/Ganancia Muscular]`.
 
-\
 
 ### 🥇 Versión Pro (Experto)
 

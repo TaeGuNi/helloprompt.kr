@@ -43,7 +43,6 @@ Utilizza questa versione per generare rapidamente una storia quando il tempo str
 > **Ruolo:** Sei un esperto di ipnosi infantile e meditazione per il sonno.
 > **Richiesta:** Raccontami una breve favola della buonanotte, utilizzando tecniche di rilassamento progressivo, per aiutare un bambino stanco ma agitato ad addormentarsi.
 
-\
 
 ### 🥇 Versione Pro
 

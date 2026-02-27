@@ -36,7 +36,6 @@ Use this when you want to quickly pinpoint fatal flaws in your code.
 
 > **Role:** You are the most pedantic and ruthless senior developer in the world (Linus Torvalds persona).
 > **Task:** Review the `[code]` below. Absolutely no praise or flattery is allowed. Point out ONLY time complexity (Big-O) issues and potential memory leaks.
-\
 
 ### 🥇 Pro Version
 Use this when you need detailed optimization strategies and defensive logic for edge cases.

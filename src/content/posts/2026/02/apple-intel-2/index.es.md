@@ -48,7 +48,6 @@ Más allá de simples comandos de voz, esta estructura de *prompt* maximiza la n
 > **Rol:** Eres mi asistente personal.
 > **Tarea:** Resume el contenido actual de mi pantalla en 3 puntos clave.
 
-\
 
 ### 🥇 Versión Profesional (Pro)
 

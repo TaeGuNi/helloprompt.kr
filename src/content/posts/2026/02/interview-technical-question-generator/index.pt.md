@@ -48,7 +48,6 @@ Use esta versão para obter resultados rápidos e direcionar seus estudos inicia
 > **Papel:** Você é um Diretor ou Especialista Técnico com 20 anos de experiência na área de `[Nome do Cargo]`.
 > **Solicitação:** Gere uma lista de possíveis perguntas para uma entrevista técnica, acompanhadas de respostas ideais que se encaixem perfeitamente no meu cargo, anos de experiência e conjunto de habilidades.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

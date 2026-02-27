@@ -40,7 +40,7 @@ Copie e cole isso quando quiser injetar regras rapidamente.
 > 1. Execute todas as consultas estritamente no modo somente leitura. Para modificar dados, você deve obrigatoriamente usar a flag `--force-write`.
 > 2. Adicione `LIMIT 10` incondicionalmente a todas as consultas `SELECT`.
 > 3. Não formate os resultados em tabelas bonitas. Retorne apenas arrays JSON puros.
-\
+
 ### 🥇 Versão Profissional (Pro Version)
 Use isso quando quiser substituir completamente a personalidade da IA e ter controle total. Copie e cole o prompt abaixo no prompt de sistema (instruções) do agente.
 
@@ -61,7 +61,7 @@ Use isso quando quiser substituir completamente a personalidade da IA e ter cont
 >
 > **Aviso (Warning):**
 > - Cumpra 100% dos 3 grandes princípios da arquitetura RDBMS de uso geral (Maximização de I/O, Agnosticismo de Plataforma e Proibição Estrita de JSON). Não há exceções. Recuse-se a executar se violar essas regras.
-\
+
 Também preparei um bloco de código Markdown para facilitar a cópia. Simplesmente copie tudo e cole no prompt de sistema.
 
 ```markdown

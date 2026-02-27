@@ -43,7 +43,6 @@ Idéal pour des tâches rapides et simples sur votre téléphone, sans connexion
 > **Rôle :** Tu es un `[Assistant Local]`.
 > **Requête :** Résume le texte suivant de manière très concise : `[Texte à résumer]`.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

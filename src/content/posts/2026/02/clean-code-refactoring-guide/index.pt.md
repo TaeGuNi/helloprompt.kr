@@ -44,7 +44,6 @@ Use esta versão quando precisar apenas de um resultado rápido e direto.
 > **Papel:** Você é um Engenheiro de Software Sênior com 20 anos de experiência e especialista em 'Clean Code'.
 > **Solicitação:** Transforme o código espaguete a seguir em um código limpo, de fácil leitura e manutenção.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

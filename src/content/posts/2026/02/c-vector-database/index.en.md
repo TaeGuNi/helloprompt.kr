@@ -39,7 +39,6 @@ Use this when you need a quick snippet to calculate cosine similarity between tw
 >
 > **Task:** Write a simple, header-only C function to calculate the cosine similarity between two `float` arrays (vectors). Include a small `main()` function to demonstrate its usage. Keep it under 50 lines.
 
-\
 
 ### 🥇 Pro Version
 

@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt, wenn Sie einfach nur schnell eine Idee brauchen.
 > **Rolle:** Du bist ein erfahrener `[Resteverwertungs-Koch]`.
 > **Anfrage:** Erstelle mir ein leckeres Rezept aus diesen Zutaten: `[Zutatenliste einfügen]`.
 
-\
 
 ### 🥇 Pro Version (Expertenform)
 

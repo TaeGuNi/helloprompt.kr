@@ -42,7 +42,6 @@ Use esta versão quando quiser uma orientação rápida e direta.
 > **Papel:** Você é um `[Arteterapeuta]` especialista em conectar pessoas e arte.
 > **Pedido:** Estou em uma galeria. Me dê 3 perguntas simples para me ajudar a apreciar a arte moderna de forma intuitiva e sem jargões.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

@@ -42,7 +42,6 @@ Use this for a quick explanation and basic defense tips.
 > **Role:** You are a seasoned Cybersecurity Expert.
 > **Task:** Explain how "WiFi Sensing" can be used for invisible physical surveillance and provide 3 immediate steps I can take to protect my home/office network.
 
-\
 
 ### 🥇 Pro Version
 

@@ -40,7 +40,6 @@ Para um resumo rápido e direto ao ponto.
 > **Papel:** Você é um jornalista de tecnologia experiente.
 > **Tarefa:** Escreva um breve artigo sobre o novo sistema de motorista de 6ª geração da Waymo, destacando: sensores aprimorados, melhor desempenho em climas adversos e uma condução mais suave.
 
-\
 
 ### 🥇 Versão Profissional (Pro)
 

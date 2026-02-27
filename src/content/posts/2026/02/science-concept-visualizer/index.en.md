@@ -42,7 +42,6 @@ Use this when you just need a quick, high-level structural overview.
 > **Role:** You are a `[Science Communicator and Infographic Designer]`.
 > **Task:** Explain the core principle of `[Difficult Concept]` using a simple ASCII text diagram and an easy-to-understand analogy.
 
-\
 
 ### 🥇 Pro Version
 

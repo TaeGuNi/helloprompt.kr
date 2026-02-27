@@ -43,7 +43,6 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Traditional"]
 >
 > **요청:** `[원하는 피사체, 예: 파리의 아늑한 노천 카페]`를 수채화 스케치 스타일로 그려줘. 연필 스케치 선이 살아있고, 물감이 맑고 투명하게 번지는 효과(Watercolor bleeding)를 넣어줘. 배경은 깨끗한 흰색으로 처리해.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

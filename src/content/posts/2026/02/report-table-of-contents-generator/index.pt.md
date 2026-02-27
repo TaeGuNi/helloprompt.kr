@@ -42,7 +42,6 @@ Use quando precisar de uma estrutura inicial rápida para não ter que encarar a
 > **Papel:** Você é um Gerente de Planejamento Estratégico Sênior.
 > **Solicitação:** Crie a estrutura de tópicos (índice) para um relatório sobre `[Tema do Relatório]`, focando em construir um fluxo lógico persuasivo.
 
-\
 
 ### 🥇 Versão Pro (Expert Version)
 

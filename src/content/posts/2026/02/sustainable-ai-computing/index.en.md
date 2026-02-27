@@ -37,7 +37,6 @@ Use this for a quick assessment of your current AI workflow's efficiency.
 > **Role:** You are a Cloud Optimization and Sustainable AI Expert.
 > **Task:** Analyze my `[current AI workflow description]` and suggest 3 immediate ways to reduce its compute cost and energy consumption.
 
-\
 
 ### 🥇 Pro Version
 

@@ -38,7 +38,6 @@ En el mundo del desarrollo de software, la terminal es un compañero poderoso e 
 > **Rol:** Eres un desarrollador Senior en `[Go/Rust/Python/Node.js]` y un experto en diseño de TUI (Text User Interface).
 > **Tarea:** Escribe el código base de _scaffolding_ para una aplicación TUI orientada a `[Propósito de la app]` utilizando `[Lenguaje y Framework]`. La estructura debe contar con una barra lateral a la izquierda y un _viewport_ principal a la derecha.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

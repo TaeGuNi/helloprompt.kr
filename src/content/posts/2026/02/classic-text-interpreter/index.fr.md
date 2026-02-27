@@ -42,7 +42,6 @@ La véritable essence de l'histoire réside dans les sources primaires, et non d
 > **Rôle :** Tu es un `[Philologue Classique et Expert en Histoire]`.
 > **Demande :** Traduis ce `[document ancien ou texte source]` difficile à comprendre en un français moderne et clair, puis explique brièvement son sens caché ou son importance historique.
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 

@@ -42,7 +42,6 @@ Nutzen Sie diese Variante, wenn Sie unter Zeitdruck stehen und schnell ein solid
 > **Rolle:** Du bist ein erfahrener Karriere-Coach und Experte für geschäftliche E-Mail-Kommunikation.
 > **Aufgabe:** Verfasse eine professionelle und wertschätzende Dankeschön-E-Mail nach einem Vorstellungsgespräch, die einen positiven, bleibenden Eindruck hinterlässt.
 
-\
 
 ### 🥇 Pro Version (Experten-Prompt)
 

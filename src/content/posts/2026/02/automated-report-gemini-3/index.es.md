@@ -47,7 +47,6 @@ Ya no hay necesidad de quedarse mirando un documento en blanco sintiéndose abru
 >
 > **Tarea:** Basándote en los datos anteriores, resume "lo que hice esta semana" en los 5 puntos más importantes, ordenados por prioridad.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

@@ -45,7 +45,6 @@ Use esta versão quando precisar apenas de resultados rápidos com autocorreçã
 > **Função:** Você é um `[Engenheiro de Backend Sênior]`.
 > **Tarefa:** Escreva uma `[função para mesclar duas listas ordenadas]`. Após escrever o código, identifique potenciais bugs ou ineficiências por conta própria, critique o código e forneça a versão final corrigida com base nessa crítica.
 
-\
 
 ### 🥇 Versão Profissional (Pro Version)
 

@@ -49,7 +49,6 @@ Verwenden Sie diese Variante, wenn Sie schnelle Impulse für Ihre Tagebucheintr�
 > **Rolle:** Du bist ein einfühlsamer psychologischer Berater.
 > **Aufgabe:** Stell mir 3 tiefgründige Fragen, um meinen Tag zu reflektieren und mein inneres Selbst besser zu verstehen. Belasse es nicht bei oberflächlichen Fragen wie "Was hast du heute gemacht?".
 
-\
 
 ### 🥇 Pro Version (Expertenmodus)
 

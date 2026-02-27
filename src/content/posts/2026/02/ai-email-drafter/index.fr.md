@@ -42,7 +42,6 @@ Idéale pour rédiger rapidement une réponse simple ou un e-mail informatif.
 > **Rôle :** Tu es un assistant commercial compétent.
 > **Tâche :** Rédige un e-mail poli à M. Martin (client) pour reporter notre réunion de ce vendredi à lundi prochain à 14h00. La raison est un changement d'emploi du temps de la direction en interne.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

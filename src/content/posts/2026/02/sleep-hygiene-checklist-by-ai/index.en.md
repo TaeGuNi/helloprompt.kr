@@ -42,7 +42,6 @@ Use this when you need a quick, high-level overview of your sleep habits.
 > **Role:** You are an expert in sleep medicine and a bedroom environment consultant.
 > **Request:** I am having trouble sleeping. Analyze my current bedroom environment and evening habits, and provide a tailored sleep hygiene solution to help me get a deep, restorative sleep.
 
-\
 
 ### 🥇 Pro Version
 

@@ -42,7 +42,6 @@ Usa questo prompt quando hai bisogno di un risultato immediato ed essenziale, de
 > **Ruolo:** Sei un fotografo ritrattista esperto in belle arti.
 > **Richiesta:** Genera il ritratto in primo piano di un anziano pescatore utilizzando l'illuminazione Rembrandt per enfatizzare le ombre e creare un'atmosfera drammatica.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

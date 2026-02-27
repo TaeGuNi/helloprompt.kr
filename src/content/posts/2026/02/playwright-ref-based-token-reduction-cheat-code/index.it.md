@@ -32,7 +32,7 @@ Copia e incolla questo quando assegni un ruolo all'AI in un ambiente di test leg
 > **Compito (Task):** Quando scrivi test E2E con Playwright, non leggere MAI `innerHTML` o l'intero DOM. Estrai e controlla esclusivamente gli elementi visibili e interattivi sullo schermo utilizzando un approccio basato su riferimenti (Ref).
 > 
 > **Vincolo (Constraint):** Dopo aver manipolato un elemento, devi assolutamente verificare il risultato con `expect`. Altrimenti, sarà considerato un fallimento del test.
-\
+
 ### 🥇 Versione Pro (Cheat Code Hardcore)
 Questa è la costituzione spartana definitiva da utilizzare quando ci si infiltra in complessi siti web commerciali (pieni di SPA e Shadow DOM). Copiala e incollala direttamente nel prompt di sistema o nel contesto dell'agente.
 > **[Costituzione del Protocollo di Rendering Agente-Browser]**
@@ -149,4 +149,3 @@ await expect(page).toHaveURL(/.*dashboard/);
 Dire all'AI "Arrangiati e scrivi bene" è negligenza, non ingegneria. 
 Blocca il rumore dei dati, comprimi radicalmente il contesto e verifica ossessivamente i risultati. 
 Dopo aver applicato questo cheat code, l'orribile era degli errori di allucinazione sparati dal tuo terminale giungerà al termine. Ora puoi staccare da lavoro in orario! 🍷
-```

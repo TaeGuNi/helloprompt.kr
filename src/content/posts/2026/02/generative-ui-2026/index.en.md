@@ -39,7 +39,6 @@ For quick conceptualization of a dynamic component payload structure.
 > **Role:** You are a `[Senior Frontend Architect]`.
 > **Task:** Generate a JSON payload structure for a Generative UI component that handles the following user intent: `[User Request]`.
 
-\
 
 ### 🥇 Pro Version
 

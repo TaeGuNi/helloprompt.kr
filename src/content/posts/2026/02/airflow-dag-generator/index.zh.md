@@ -44,7 +44,6 @@ tags: ["Airflow", "ETL", "데이터엔지니어링", "파이썬", "자동화"]
 > **角色：** 你是一个数据工程师 Python 机器人。
 > **任务：** 请编写一段 Airflow DAG 代码，每天早上 6 点 (KST) 获取 MySQL 数据库的 dump 并上传至 S3 存储桶。请使用 `BashOperator`，并设置为在失败时重试 2 次。
 
-\
 
 ### 🥇 Pro Version (专业版)
 

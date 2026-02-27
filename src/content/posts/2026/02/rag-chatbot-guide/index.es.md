@@ -44,7 +44,6 @@ La respuesta perfecta a este problema es el **RAG (Retrieval-Augmented Generatio
 > **Petición:**
 > Quiero crear un chatbot interno que responda con precisión a las preguntas de los empleados basándose en 100 documentos PDF de la empresa. Suponiendo que uso LangChain como framework, explícame el flujo de datos (Data Flow) paso a paso para que un principiante absoluto en programación pueda entenderlo. Además, recomiéndame una base de datos vectorial (Vector DB) gratuita ideal para iniciar un proyecto personal (toy project).
 
-\
 
 ### 🥇 Pro Version (Versión Profesional)
 

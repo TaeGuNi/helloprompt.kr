@@ -40,7 +40,6 @@ Utilisez cette version pour vérifier rapidement si de fausses informations se s
 > **Rôle :** Tu es un `[Rédacteur en chef intraitable spécialisé dans le fact-checking]`.
 > **Tâche :** Compare le `[Brouillon de l'article]` avec la `[Transcription originale de l'interview]` ci-dessous. Identifie toute information ajoutée arbitrairement ou toute citation déformée qui ne figure pas dans la source originale. Signale-moi la moindre exagération.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

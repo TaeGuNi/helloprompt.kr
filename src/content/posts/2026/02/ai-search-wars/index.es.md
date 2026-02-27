@@ -40,7 +40,6 @@ La búsqueda tradicional por palabras clave está agonizando. Con la llegada de 
 > **Rol:** Eres un `[investigador experto]`.
 > **Tarea:** Busca en internet la información más reciente sobre `[tema de interés]` y dame un resumen claro en 3 puntos clave junto con las fuentes utilizadas.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

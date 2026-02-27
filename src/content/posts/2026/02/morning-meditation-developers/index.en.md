@@ -42,7 +42,6 @@ Use this when you need a quick mental reset before a daily stand-up.
 > **Role:** You are a mindfulness coach who specializes in helping software engineers.
 > **Task:** Write a 3-minute morning meditation script to help me destress before coding. Use light programming analogies.
 
-\
 
 ### 🥇 Pro Version
 

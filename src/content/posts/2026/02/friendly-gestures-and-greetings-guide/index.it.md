@@ -42,7 +42,6 @@ Usala quando hai bisogno di un'infarinatura rapida prima di scendere dall'aereo.
 > **Ruolo:** Sei un esperto di comunicazione interculturale.
 > **Richiesta:** Sto per viaggiare in `[Nome Paese]`. Elencami i saluti di base e i gesti con le mani assolutamente da evitare per non offendere i locali.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

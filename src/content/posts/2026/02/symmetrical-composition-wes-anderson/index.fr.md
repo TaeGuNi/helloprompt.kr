@@ -49,7 +49,6 @@ Idéal pour obtenir un résultat immédiat sans réglages complexes.
 > **Rôle :** Tu es un directeur de la photographie expert en symétrie.
 > **Demande :** Génère un prompt d'image avec une composition parfaitement symétrique, centrée et stable, rappelant l'esthétique d'un film de Wes Anderson.
 
-\
 
 ### 🥇 Version Pro (Expertise Détaillée)
 

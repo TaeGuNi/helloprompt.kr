@@ -42,7 +42,6 @@ Use this when you want to quickly grasp Rust's basic syntax and its package mana
 > **Role:** You are a Senior `[Rust Developer]`.
 > **Task:** Explain from a beginner's perspective how to output 'Hello World' in Rust. Include the series of CLI commands to create, build, and run a new project using `[Cargo]`.
 
-\
 
 ### 🥇 Pro Version
 
@@ -57,11 +56,11 @@ Use this when you need to conquer 'Ownership' and 'Move'—the most notorious ba
 >
 > **Code:**
 >
-> ```rust
+>
 > let s1 = String::from("hello");
 > let s2 = s1;
 > println!("{}, world!", s1); // Compilation error occurs here
-> ```
+>
 >
 > **Task:**
 >

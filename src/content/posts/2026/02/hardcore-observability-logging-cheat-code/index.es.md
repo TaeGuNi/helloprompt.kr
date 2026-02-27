@@ -43,7 +43,7 @@ Este artículo es un código de trucos para transformar a tu IA de un "chatbot c
 > **Rol:** Eres un experto en arquitectura de sistemas. Omite los comentarios positivos inútiles y dame solo el código.
 > **Tarea:** Revisa el `[código/archivo]`, elimina todos los `console.log` y reemplázalos completamente con logging estructural JSON basado en Pino/Winston. Si es frontend, aplica un Error Boundary.
 
-\
+
 ### 🥇 Versión Pro (Pro Version)
 
 Esta es la versión definitiva para usar cuando necesitas un sistema de seguimiento de errores perfecto y un logging íntegro. Modifica la propia estructura cerebral de la IA.

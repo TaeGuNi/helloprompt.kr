@@ -42,7 +42,6 @@ Use quando precisar apenas dos resultados essenciais rapidamente.
 > **Função:** Você é um âncora de notícias responsável por fornecer um resumo matinal rápido e preciso.
 > **Tarefa:** Resuma as 5 notícias mais importantes e críticas que ocorreram entre a noite de ontem e a manhã de hoje.
 
-\
 
 ### 🥇 Versão Profissional (Pro Version)
 

@@ -42,7 +42,6 @@ Usa questo prompt quando hai bisogno di iniziare subito senza troppe configurazi
 > **Ruolo:** Sei un DJ esperto in neuroscienze e produttività.
 > **Richiesta:** Creami una strategia sonora di 2 ore per `[inserisci attività, es. programmare in Python / scrivere un saggio]` che favorisca lo stato di flow profondo. Fornisci 3 termini di ricerca esatti da copiare e incollare su YouTube o Spotify per trovare la playlist perfetta senza distrazioni.
 
-\
 
 ### 🥇 Pro Version (Avanzata e Personalizzata)
 

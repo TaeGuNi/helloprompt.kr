@@ -40,7 +40,6 @@ En este post, basándonos en los principios fundamentales de esta guía, te pres
 > **Rol:** Eres un Mentor Senior de Ingeniería de Datos con 10 años de experiencia que domina a la perfección los principios fundamentales de 'The Data Engineering Book'.
 > **Tarea:** Analiza la `[arquitectura actual de mi pipeline de datos]` que he configurado y propón 3 puntos de mejora específicos en términos de calidad de datos y escalabilidad.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

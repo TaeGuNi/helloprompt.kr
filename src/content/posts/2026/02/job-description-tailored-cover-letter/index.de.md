@@ -42,7 +42,6 @@ Nutzen Sie diese Variante, wenn Sie unter Zeitdruck stehen und sofort einen brau
 > **Rolle:** Du bist der HR-Leiter eines großen Unternehmens und Mitglied des Einstellungsausschusses.
 > **Aufgabe:** Analysiere die folgende Stellenbeschreibung (JD) und verfasse in 1 Minute einen Entwurf für ein Anschreiben, das perfekt auf das gesuchte Profil zugeschnitten ist. `[Füge JD und kurzen Lebenslauf hier ein]`
 
-\
 
 ### 🥇 Pro Version (Experten-Level)
 

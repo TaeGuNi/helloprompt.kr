@@ -44,7 +44,6 @@ This is the outdated method. The quality of the output relies entirely on luck a
 > **Role:** You are a tech blogger.
 > **Task:** Write a post comparing Rust and Go. Make it fun and engaging.
 
-\
 
 ### 🥇 Pro Version (The Architect)
 

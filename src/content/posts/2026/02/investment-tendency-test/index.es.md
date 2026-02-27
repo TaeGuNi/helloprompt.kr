@@ -48,7 +48,6 @@ Si no conoces tu verdadera tolerancia al riesgo, estás destinado a perder la ba
 > **Rol:** Eres un `[Asesor de Psicología Financiera]` especializado en economía conductual.
 > **Solicitud:** Evalúa mi tolerancia al riesgo mediante una breve simulación de crisis y dime qué tipo de inversor soy.
 
-\
 
 ### 🥇 Versión Pro (Experto)
 

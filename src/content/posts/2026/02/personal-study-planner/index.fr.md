@@ -42,7 +42,6 @@ Utilisez cette version lorsque vous avez besoin d'une trame rapide sans trop de 
 > **Rôle :** Tu es un `[Coach d'Examen et de Certification Strict et Minutieux]`.
 > **Demande :** Crée un plan d'étude réaliste pour atteindre `[Objectif]` en fonction de mon temps disponible, et agis comme mon mentor pour me garder motivé.
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 

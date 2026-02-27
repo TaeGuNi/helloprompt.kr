@@ -47,7 +47,6 @@ Use this when you need a quick risk assessment by simply pasting the permission 
 > - Name: `[Extension Name]`
 > - Requested Permissions: `[Copy/Paste the requested permissions listed on the Web Store]`
 
-\
 
 ### 🥇 Pro Version
 

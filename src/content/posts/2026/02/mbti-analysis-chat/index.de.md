@@ -48,7 +48,6 @@ Verwende diese Version, wenn du nur ein schnelles Ergebnis brauchst, um die oft 
 > **Aufgabe (Task):**
 > Analysiere die Antwort der zweiten Person: Neigt sie eher zum Denktyp (T - Thinking) oder zum Fühltyp (F - Feeling)? Bitte schlage mir außerdem 2 konkrete Antwortmöglichkeiten vor, mit denen ich eine tiefere emotionale Bindung zu dieser Person aufbauen kann.
 
-\
 
 ### 🥇 Pro Version (Für tiefgründige Analysen & Strategien)
 

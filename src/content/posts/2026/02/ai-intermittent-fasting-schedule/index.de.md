@@ -42,7 +42,6 @@ Nutzen Sie diese Variante, wenn Sie schnelle, unkomplizierte Ergebnisse benötig
 > **Rolle:** Du bist ein erfahrener Experte für Intervallfasten und Biohacking.
 > **Aufgabe:** Entwirf einen Intervallfasten-Plan, der exakt zu meinem Lebensstil passt, und gib mir 3 sofort anwendbare Tipps, wie ich Heißhungerattacken während der Fastenzeit überstehe.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

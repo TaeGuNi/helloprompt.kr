@@ -43,7 +43,6 @@ tags: ["Kubernetes", "Edge Computing", "DevOps"]
 > **角色：** 你是资深的 `[云原生架构师]`。
 > **请求：** 请为我设计一个针对 `[例如：拥有500家门店的零售企业]` 的边缘 Kubernetes 集群架构方案。需要包含轻量级 Kubernetes 发行版的选择以及基于 GitOps 的应用分发策略。
 
-\
 
 ### 🥇 Pro Version (专业版)
 

@@ -42,7 +42,6 @@ La **Iluminación de Estudio (Studio Lighting)** es la clave para eliminar fondo
 > **Rol:** Eres un fotógrafo profesional de productos.
 > **Solicitud:** Genera una imagen de `[tu producto]` utilizando iluminación de estudio. El fondo debe ser limpio y la luz debe resaltar las texturas del objeto.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

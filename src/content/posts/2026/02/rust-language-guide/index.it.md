@@ -42,7 +42,6 @@ Usala quando vuoi apprendere rapidamente la sintassi di base di Rust e il suo si
 > **Ruolo:** Sei un `[Sviluppatore Rust]` senior.
 > **Richiesta:** Spiegami, con un linguaggio adatto a un principiante, come stampare "Hello World" in Rust. Includi la sequenza di comandi CLI per creare, compilare ed eseguire un nuovo progetto utilizzando `[Cargo]`.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 
@@ -57,11 +56,11 @@ Usala quando vuoi comprendere a fondo i concetti di 'Ownership' (Proprietà) e '
 >
 > **Codice (Code):**
 >
-> ```rust
+>
 > let s1 = String::from("hello");
 > let s2 = s1;
 > println!("{}, world!", s1); // Punto in cui si verifica l'errore di compilazione
-> ```
+>
 >
 > **Richiesta (Task):**
 >

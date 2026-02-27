@@ -37,7 +37,6 @@ Utiliza este prompt cuando notes que la IA empieza a desvariar o a olvidar las r
 > **Rol:** Eres un `[Asistente Técnico]`.
 > **Acción:** Recuerda las siguientes reglas clave para el resto de nuestra conversación: `[Regla 1, Regla 2]`. No te desvíes de ellas bajo ninguna circunstancia.
 
-\
 
 ### 🥇 Versión Profesional (Reinicio de Contexto / Summarize & Reset)
 

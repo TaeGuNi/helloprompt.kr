@@ -44,7 +44,6 @@ Use this when you need a quick result for simple scheduling and single tasks.
 > **Role:** You are a Python Data Engineer Bot.
 > **Task:** Write an Apache Airflow DAG that dumps a MySQL DB and uploads it to an S3 bucket every morning at 6:00 AM (KST). Use `BashOperator` and configure it to retry twice upon failure.
 
-\
 
 ### 🥇 Pro Version
 

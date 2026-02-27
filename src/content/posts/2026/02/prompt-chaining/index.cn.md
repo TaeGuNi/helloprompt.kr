@@ -48,7 +48,6 @@ tags: ["AI Trends", "Prompt Chaining", "Agentic Workflow", "2026"]
 > 角色：你是一位顶级商业撰稿人。
 > 任务：将步骤2的 `[初稿]` 修改为极具说服力的推介文案，确保符合 `[目标受众]` 的阅读习惯。
 
-\
 
 ### 🥇 Pro Version (高级智能体工作流)
 

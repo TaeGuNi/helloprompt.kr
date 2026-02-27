@@ -39,7 +39,6 @@ Usa questa versione quando hai bisogno di un riassunto immediato di un thread te
 > **Ruolo:** Sei un Tech Lead esperto.
 > **Richiesta:** Analizza questa discussione di Slack `[INCOLLA MESSAGGI/THREAD]` e riassumi le decisioni tecniche prese, i compromessi accettati e i prossimi passi operativi.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

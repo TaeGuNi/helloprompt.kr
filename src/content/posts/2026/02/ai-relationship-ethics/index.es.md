@@ -44,7 +44,6 @@ Las historias de personas que forman profundos vínculos emocionales con chatbot
 > **Rol:** Eres un experto en ética de la IA y psicología digital.
 > **Tarea:** Analiza el siguiente `[Diálogo del Chatbot]` y dime si existe riesgo de generar dependencia emocional o si viola principios de consentimiento (ej. deepfakes). Sugiere una respuesta más segura.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

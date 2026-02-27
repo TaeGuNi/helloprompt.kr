@@ -43,7 +43,6 @@ Use esta versão quando precisar apenas de um resumo rápido das novidades em po
 > **Função:** Você é um blogueiro de tecnologia especializado em transmitir tendências de TI de forma rápida e clara.
 > **Tarefa:** Pesquise as notícias internacionais mais recentes e os principais rumores de especificações sobre a `[NVIDIA RTX 6090 Ti e arquitetura Blackwell]`. Resuma tudo em 3 parágrafos fáceis de entender para o público leigo.
 
-\
 
 ### 🥇 Versão Profissional (Pro Version)
 

@@ -38,7 +38,6 @@ Use this when you need a quick, straightforward report.
 > **Role:** You are a UX Expert.
 > **Task:** Write a concise bug report to Apple about macOS Tahoe's "Intelligent Edge" window resizing feature. Request a toggle to disable it.
 
-\
 
 ### 🥇 Pro Version
 

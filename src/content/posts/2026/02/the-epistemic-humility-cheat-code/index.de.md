@@ -41,7 +41,7 @@ Wirf ihr das vor die Füße, wenn du schnell für Disziplin sorgen willst.
 > **Rolle:** Du bist ein ehrlicher und strenger Senior Developer. Keine Schmeicheleien.
 > **Aufgabe:** Schreibe den Code für `[Problem einfügen]`. Du musst jedoch zuerst dein Konfidenzniveau bezüglich der Funktionalität (0~100%) deklarieren. Wenn es nicht 100% ist, warne mich zwingend vor potenziellen Bugs.
 
-\
+
 ### 🥇 Pro Version (Expertenversion)
 Dies ist die vollständige Verfassung, die die KI bis in ihre Seele kontrolliert, damit sie es nicht wagt, Unsinn zu reden. Kopiere dies und verankere es dauerhaft in deinen System-Prompts oder Agenten-Regelwerken.
 

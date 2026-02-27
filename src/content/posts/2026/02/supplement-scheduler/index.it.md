@@ -43,7 +43,6 @@ Usa questo prompt se vuoi una risposta rapida e una panoramica generale.
 > **Ruolo:** Agisci come un Farmacista Esperto e Nutrizionista Clinico.
 > **Richiesta:** Analizza questi integratori: `[inserisci elenco]`. Dimmi quali posso prendere insieme, quali devo separare e crea un orario di assunzione ottimale per massimizzare l'assorbimento.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

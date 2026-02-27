@@ -39,7 +39,6 @@ Investigaciones recientes han demostrado que el rendimiento de programación de 
 > **Rol:** Eres un `[Ingeniero de Software Senior]`.
 > **Tarea:** Escribe una función para `[Problema a resolver]`. Antes de devolver el código final, escribe 3 casos de prueba para verificar tu propia lógica.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

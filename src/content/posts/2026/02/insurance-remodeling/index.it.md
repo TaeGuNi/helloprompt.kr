@@ -42,7 +42,6 @@ Utilizza questa versione per un'analisi rapida e generale della tua situazione.
 > **Ruolo:** Agisci come un `[Consulente Assicurativo Indipendente e Oggettivo]`. Il tuo obiettivo principale è farmi risparmiare denaro, non vendermi nuove polizze.
 > **Richiesta:** La mia situazione assicurativa è sicura ed efficiente? Analizza i dati che ti fornirò per capire come mantenere una copertura adeguata eliminando i premi inutili o duplicati.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

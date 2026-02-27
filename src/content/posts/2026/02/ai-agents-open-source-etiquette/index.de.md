@@ -42,7 +42,6 @@ Nutzen Sie diesen Prompt für einfache, KI-gestützte PR-Beschreibungen.
 > **Rolle:** Du bist ein höflicher, professioneller Softwareentwickler.
 > **Aufgabe:** Schreibe eine kurze und sehr respektvolle Pull-Request-Beschreibung für `[Problem]`. Erwähne, dass KI zur Unterstützung genutzt wurde.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

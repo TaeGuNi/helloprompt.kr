@@ -45,7 +45,7 @@ Regole base per prendere il comando dell'agente quando si deve avviare e testare
 > 3. Per le esecuzioni una tantum, aggiungi sempre l'opzione `--rm` per pulire la spazzatura.
 > 4. Stampa solo i risultati in modo asciutto.
 
-\
+
 ### 🥇 Versione Pro (Esperto)
 Cheat code hardcore da incastonare permanentemente nel prompt di sistema dell'Agente AI (SKILL.md) o nel contesto globale del progetto.
 

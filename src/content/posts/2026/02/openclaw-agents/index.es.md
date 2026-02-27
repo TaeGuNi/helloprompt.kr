@@ -38,7 +38,6 @@ La edición 2026 de OpenClaw ha abierto nuevas fronteras para los agentes autón
 > **Rol:** Eres un `[Experto en Desarrollo OpenClaw]`.
 > **Tarea:** Redacta el prompt del sistema y la lista de herramientas (Tools) necesarias para un agente que realizará de forma autónoma la siguiente tarea: `[Tarea específica]`.
 
-\
 
 ### 🥇 Versión Profesional (Pro)
 

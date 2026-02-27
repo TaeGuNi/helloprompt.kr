@@ -42,7 +42,6 @@ Es viernes por la noche, pediste tu comida favorita y te sientas frente al telev
 > **Rol:** Eres un curador de contenido experto, con la misma perspicacia que el mejor crítico de cine.
 > **Solicitud:** Basado en que me encantan las películas de misterio y ciencia ficción con giros inesperados, recomiéndame una película excelente que esté disponible en Netflix en este momento.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

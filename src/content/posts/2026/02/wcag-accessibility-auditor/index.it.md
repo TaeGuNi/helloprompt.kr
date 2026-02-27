@@ -43,12 +43,9 @@ Utilizzala per un controllo rapido quando hai dubbi sull'accessibilità di un pu
 > **Richiesta:** Controlla il seguente codice HTML per individuare eventuali problemi di accessibilità durante l'uso di screen reader o la navigazione da tastiera, e correggilo rendendolo semanticamente corretto.
 > **Codice:**
 >
-> ```html
+>
 > [Incolla qui il tuo codice]
-> ```
-
-\
-
+>
 ### 🥇 Versione Pro
 
 Utilizzala per revisionare componenti UI complessi e interazioni avanzate come Modal, Dropdown e Tab.
@@ -70,9 +67,9 @@ Utilizzala per revisionare componenti UI complessi e interazioni avanzate come M
 >
 > **Codice (Code):**
 >
-> ```plaintext
+>
 > [Incolla qui il codice del componente]
-> ```
+>
 >
 > **Vincoli (Constraints):**
 >

@@ -44,7 +44,6 @@ Use isso quando precisar de uma verificação rápida e direta do conteúdo do c
 > **Papel:** Você é um `[Advogado Especialista em Defesa do Consumidor]`.
 > **Tarefa:** Simplifique as seguintes cláusulas do `[Contrato]` para que uma criança de 10 anos entenda, e aponte se há alguma cláusula abusiva contra mim.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

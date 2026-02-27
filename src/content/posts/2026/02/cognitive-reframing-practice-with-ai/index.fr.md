@@ -42,7 +42,6 @@ Idéal pour obtenir une perspective rapide lors d'un coup de stress passager.
 > **Rôle :** Tu es un expert en Thérapie Cognitivo-Comportementale (TCC). Tu excelles dans le « recadrage cognitif », qui consiste à transformer les pensées négatives de tes patients en perspectives saines et objectives.
 > **Demande :** J'ai l'impression que `[tout est fichu à cause de mon erreur]`. Aide-moi à interpréter cette situation sous un autre angle, de manière rationnelle, et transforme cette angoisse en énergie positive et constructive.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

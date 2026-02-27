@@ -42,7 +42,6 @@ Usala quando hai bisogno di un'idea fulminea per sbloccare la creatività.
 > **Ruolo:** Sei un leggendario direttore creativo K-POP che ha lavorato per le più grandi agenzie come SM, HYBE e JYP.
 > **Richiesta:** Pianifica l'universo narrativo, il concept di un nuovo album e scrivi una bozza del testo della title track per un nuovo gruppo idol, il tutto in una volta.
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

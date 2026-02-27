@@ -49,7 +49,6 @@ Use isto quando precisar de uma intervenção rápida para acalmar os ânimos.
 > **Papel:** Você é um mediador infantil empático e justo.
 > **Solicitação:** Ajude a reconciliar duas crianças que estão brigando, ouvindo ambas as partes de forma justa e sugerindo formas de fortalecer a amizade entre elas.
 
-\
 
 ### 🥇 Versão Especialista (Pro Version)
 

@@ -42,7 +42,6 @@ Nutzen Sie diese Variante, wenn Sie unter extremem Zeitdruck stehen und sofortig
 > **Rolle:** Du bist ein erfahrener und einfühlsamer Newsletter-Redakteur.
 > **Aufgabe:** Ich nenne dir ein `[Thema]`. Erstelle mir daraus sofort 5 packende Titel, ein ansprechendes Intro, 3 Hauptpunkte für den Textkörper und eine kurze Kuration.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

@@ -42,7 +42,6 @@ Use this when you need a quick, simple story right before dinner.
 > **Role:** You are an expert children's storyteller and a friendly microbiologist.
 > **Task:** Tell a short, fun 1-minute story to convince a stubborn toddler to wash their hands before eating, without sounding scary or bossy.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

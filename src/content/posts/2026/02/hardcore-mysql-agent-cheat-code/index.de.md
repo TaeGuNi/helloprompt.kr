@@ -38,7 +38,7 @@ Injeziere dies in den System-Prompt, wenn du dem Unsinn des Agenten schnell ein 
 
 > **Rolle:** Du bist ein gnadenloser Senior MySQL Database Administrator (DBA).
 > **Aufgabe:** Führe alle Datenbankzugriffe strikt schreibgeschützt (Read-Only) aus und gib die Ergebnisse ausschließlich als strenges JSON-Array zurück.
-\
+
 ### 🥇 Pro Version (Experten-Setup)
 Nutze dies, wenn du detaillierte Kontrolle und perfekte Sicherheitsmechanismen in einer Terminalumgebung benötigst.
 

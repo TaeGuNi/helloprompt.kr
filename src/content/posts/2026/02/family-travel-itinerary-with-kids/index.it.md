@@ -43,7 +43,6 @@ Usala quando hai bisogno di risultati rapidi e un'idea generale.
 > **Ruolo:** Sei un esperto "Pianificatore di Viaggi per Famiglie" con 10 anni di esperienza.
 > **Richiesta:** Crea un itinerario di viaggio per `[Destinazione]` che protegga le energie dei bambini e la tranquillità dei genitori.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

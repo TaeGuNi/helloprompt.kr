@@ -42,7 +42,6 @@ Nutzen Sie diese Variante für schnelle, erste Ideen, wenn es eilt.
 > **Rolle:** Du bist ein erstklassiger Branding- und Naming-Experte.
 > **Aufgabe:** Generiere 10 einprägsame und kreative Markennamen für `[Idee/Produkt]`.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

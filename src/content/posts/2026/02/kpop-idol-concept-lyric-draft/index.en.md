@@ -42,7 +42,6 @@ Use this when you need a rapid burst of inspiration without detailed setup.
 > **Role:** You are a legendary K-POP creative director with experience at top-tier agencies like SM, HYBE, and JYP.
 > **Request:** I want to act as a producer. Plan a new idol group's overarching universe, their debut album concept, and draft the lyrics for their title track all at once.
 
-\
 
 ### 🥇 Pro Version (Expert Mode)
 

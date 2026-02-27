@@ -42,7 +42,6 @@ Las pruebas unitarias (Unit Tests) son el pilar de un software estable y libre d
 > **Rol:** Eres un `[Ingeniero de QA Senior]`.
 > **Solicitud:** Escribe pruebas unitarias en `[Framework de pruebas, ej: Jest]` para la siguiente función, cubriendo casos de éxito y errores básicos: `[Pega tu código aquí]`.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 
@@ -66,9 +65,9 @@ Las pruebas unitarias (Unit Tests) son el pilar de un software estable y libre d
 >
 > **Código a probar:**
 >
-> ```
+>
 > [Pega tu código aquí]
-> ```
+>
 >
 > **Restricciones (Constraints):**
 >

@@ -39,7 +39,6 @@ tags: ["AI", "Tech", "ai-scraping-block"]
 > **역할:** 너는 `[웹 보안 전문가]`야.
 > **요청:** 내 웹사이트의 콘텐츠를 무단으로 수집하는 주요 AI 크롤러(OpenAI, Anthropic, Google 등)를 모두 차단하는 `robots.txt` 코드를 작성해 줘.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

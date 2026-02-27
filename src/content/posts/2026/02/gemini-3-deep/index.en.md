@@ -53,7 +53,6 @@ Use this for quick, everyday logic puzzles or minor debugging tasks.
 >
 > **Task:** Analyze the following `[Problem]` step-by-step and provide a strictly logical solution. Do not skip any intermediate reasoning steps.
 
-\
 
 ### 🥇 Pro Version
 

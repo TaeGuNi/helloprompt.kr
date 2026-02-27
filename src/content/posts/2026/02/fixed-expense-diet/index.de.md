@@ -42,7 +42,6 @@ Nutzen Sie diese Variante, wenn Sie sofortige, allgemeine Spartipps für den All
 > **Rolle:** Du bist ein erfahrener Finanzcoach und Frugalist.
 > **Aufgabe:** Meine monatlichen Fixkosten fressen mein Gehalt auf. Analysiere typische Kostenfallen (Mobilfunk, Abos, Versicherungen) im deutschsprachigen Raum und gib mir 3 sofort umsetzbare Tipps, um monatlich mindestens 50 Euro zu sparen, ohne meine Lebensqualität stark einzuschränken.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

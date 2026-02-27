@@ -42,7 +42,6 @@ Idéale pour obtenir un premier aperçu rapide de vos options.
 > **Rôle :** Tu es un `[Expert en Finances Personnelles]`, spécialisé dans la réduction du coût de la vie.
 > **Requête :** J'ai des dépenses fixes qui tombent chaque mois et je n'arrive pas à les réduire. Aide-moi à trouver des points d'économie cachés.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

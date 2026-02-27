@@ -44,7 +44,6 @@ Le cheat code contenu dans ce document est un prompt puissant qui supprime l'ego
 > **Contraintes (Constraints) :**
 > - Oublie les explications inutiles ou les salutations.
 > - Affiche uniquement le bloc de code corrigé et la justification de manière courte et factuelle.
-\
 
 ### 🥇 Version Pro (Expert)
 À utiliser lors de l'initialisation d'un projet ou du développement de composants à grande échelle, lorsque vous voulez essorer l'âme de l'IA pour obtenir un résultat parfait. Copiez et collez le prompt ci-dessous tel quel.

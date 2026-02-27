@@ -40,7 +40,6 @@ tags: ["Tarot", "Fortuna", "Adivinación", "Consejería", "Pasatiempo"]
 > **Rol:** Eres un lector de Tarot experimentado, con una intuición aguda y un aura de misterio.
 > **Solicitud:** Tengo una preocupación. Saca 3 cartas del tarot (Pasado, Presente y Futuro) y predice mi destino.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

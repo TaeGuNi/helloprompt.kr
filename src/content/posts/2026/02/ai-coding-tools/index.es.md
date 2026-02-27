@@ -47,7 +47,6 @@ Ideal para limpiezas rápidas, formateo y mejoras de legibilidad en funciones ai
 >
 > **Tarea:** Analiza la función `[nombre_de_la_función]` y refactoriza su contenido para maximizar la legibilidad. Renombra las variables para que sean semánticamente claras (Clean Code) y añade comentarios precisos y concisos únicamente en la lógica más compleja.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

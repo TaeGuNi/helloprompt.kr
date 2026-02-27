@@ -40,7 +40,6 @@ Utilizza questa versione per progetti personali o per ottenere rapidamente una s
 > **Ruolo:** Sei un Senior Software Architect.
 > **Richiesta:** Progetta l'architettura e la struttura delle cartelle per un `[Tipo di Applicazione, es. E-commerce in Next.js]`. Definisci lo stack tecnologico, i pattern di progettazione e fornisci i comandi iniziali per il setup del progetto.
 
-\
 
 ### 🥇 Versione Pro (Il Direttore d'Orchestra)
 

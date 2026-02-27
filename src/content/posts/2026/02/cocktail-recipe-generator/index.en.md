@@ -43,7 +43,6 @@ Use this when you want a quick, casual drink without overthinking it.
 > **Context:** I have Soju, Sprite, and orange juice in my fridge.
 > **Task:** Give me a home cocktail recipe using these ingredients that is light, sweet, and easy to drink. Provide the exact mixing ratios (e.g., using a standard Soju shot glass as a measurement).
 
-\
 
 ### 🥇 Pro Version
 

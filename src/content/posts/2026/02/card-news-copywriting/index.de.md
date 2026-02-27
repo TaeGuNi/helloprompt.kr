@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt, wenn Sie sofortige, solide Ergebnisse ohne großen 
 > **Rolle:** Du bist ein erfahrener `[Social Media Content Marketer]`.
 > **Anfrage:** Schreibe mir 5 extrem klickstarke Schlagzeilen für einen Instagram-Post über `[Thema]`.
 
-\
 
 ### 🥇 Pro Version (Experten-Prompt)
 

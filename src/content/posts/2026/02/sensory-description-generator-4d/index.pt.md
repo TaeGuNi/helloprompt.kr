@@ -42,7 +42,6 @@ Use esta versão quando precisar de um resultado rápido para expandir uma ideia
 > **Papel:** Você é um escritor de literatura aclamado por sua rica expressividade e maestria em descrições de cenários.
 > **Solicitação:** Transforme a frase a seguir em uma descrição vívida e envolvente, estimulando os cinco sentidos (Visual, Auditivo, Olfativo, Gustativo e Tátil): `[Insira sua frase simples aqui]`
 
-\
 
 ### 🥇 Versão Pro (Especialista)
 

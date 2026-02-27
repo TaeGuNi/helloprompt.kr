@@ -42,7 +42,6 @@ Für schnelle Überprüfungen und simple Code-Anpassungen im Arbeitsalltag.
 > **Rolle:** Du bist ein `[Senior Frontend Developer]`, spezialisiert auf moderne Webstandards.
 > **Aufgabe:** Aktualisiere den folgenden Code, damit er die `[Interop 2026 Richtlinien]` vollständig erfüllt und in allen modernen Browsern nativ und performant läuft.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

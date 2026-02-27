@@ -42,7 +42,6 @@ Usala quando sei di fretta e ti serve solo un riepilogo immediato.
 > **Ruolo:** Sei un Project Manager esperto.
 > **Richiesta:** Il testo seguente è la trascrizione confusa di una riunione. Riassumila estraendo solo i punti chiave, le decisioni prese e le prossime azioni da intraprendere.
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

@@ -42,7 +42,6 @@ Use this when you want to quickly jump into a conversation without complex setup
 > **Role:** You are a `[Role of partner, e.g., friendly cafe barista]`. I am a `[Your role, e.g., tourist who is not fluent in English]`.
 > **Task:** Start a roleplay conversation with me based on these roles.
 
-\
 
 ### 🥇 Pro Version
 

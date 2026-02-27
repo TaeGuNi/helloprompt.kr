@@ -39,7 +39,6 @@ tags: ["AI", "Tech", "llm-distributed-systems"]
 > **角色：** 你是一位精通分散式系統與正規方法（Formal Methods）的資深架構師。
 > **任務：** 請幫我設計一個結合 LLM 決策與 Petri Net 的系統流程，以解決 `[微服務中的具體問題，例如：多代理人客服協作時的狀態混亂]` 的問題。
 
-\
 
 ### 🥇 Pro Version (專家型)
 

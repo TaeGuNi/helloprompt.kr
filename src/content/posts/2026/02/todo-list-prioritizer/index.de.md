@@ -43,7 +43,6 @@ Nutzen Sie diesen Prompt, wenn Sie ohne komplexe Einstellungen sofort wissen mü
 > **Aufgabe:** Hier ist meine heutige To-Do-Liste. Bitte sortiere sie nach Wichtigkeit, beginnend mit der wichtigsten Aufgabe.
 > `[Fügen Sie hier Ihre ungeordnete To-Do-Liste ein]`
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

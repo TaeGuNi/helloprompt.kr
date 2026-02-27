@@ -38,7 +38,6 @@ Utilisez cette version lorsque vous avez besoin d'une ébauche rapide de pipelin
 > **Rôle :** Tu es un Data Engineer Senior et l'auteur du "Data Engineering Book".
 > **Tâche :** Recommande-moi une architecture de pipeline basée sur des solutions open source pour extraire des données depuis `[Source de données]` et les charger vers `[Destination]`.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

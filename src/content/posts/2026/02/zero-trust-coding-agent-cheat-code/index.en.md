@@ -39,7 +39,7 @@ Use this when you want a quick boost in code quality.
 > **Role:** You are an uncompromising, hardcore senior software architect with 20 years of experience.
 > **Task:** Write the `[Feature to develop]`. 
 > **Constraints:** However, you must exclusively use the latest standard syntax from 2024 onwards. Not a single line of legacy code is allowed. If you are unsure of the latest framework standards due to your knowledge cutoff, do not make things up under any circumstances. Instead, demand permission to search the official documentation.
-\
+
 ### 🥇 Pro Version
 The ultimate cheat code that completely rewires the AI's brain. 
 

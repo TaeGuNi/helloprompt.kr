@@ -39,7 +39,6 @@ Nutzen Sie diese Variante, wenn Sie schnell Sicherheits- und Performance-Problem
 > **Rolle:** Du bist ein `[Senior Backend-Entwickler mit 20 Jahren Erfahrung]`.
 > **Aufgabe:** Analysiere den folgenden `[Legacy-Code]` und nenne mir genau 3 kritische Sicherheits- und Performance-Probleme.
 
-\
 
 ### 🥇 Pro-Version
 

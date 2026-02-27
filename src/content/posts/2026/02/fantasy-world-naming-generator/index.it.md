@@ -42,7 +42,6 @@ Usala quando ti serve solo un'ispirazione rapida e senza troppi dettagli.
 > **Ruolo:** Sei un linguista esperto di lingue antiche e un maestro del worldbuilding fantasy, in stile J.R.R. Tolkien.
 > **Richiesta:** Crea dei nomi unici e affascinanti per luoghi e città che si adattino perfettamente a un mondo fantasy, andando dalla tipica foresta elfica fino alle profonde miniere dei nani.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

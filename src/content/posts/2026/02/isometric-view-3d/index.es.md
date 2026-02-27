@@ -42,7 +42,6 @@ La **Vista Isométrica (Isometric View)** es un ángulo de cámara mágico que e
 > **Rol:** Eres un experto en renderizado 3D y diseño de videojuegos.
 > **Solicitud:** Crea una ilustración en 3D de una habitación acogedora vista desde arriba, utilizando un ángulo isométrico perfecto.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

@@ -45,11 +45,11 @@ Nutzen Sie dies, wenn Sie Caching schnell auf eine einfache Lese-API anwenden mÃ
 >
 > **Aufgabe:** Wende das Redis `Look-aside` Caching-Muster auf die folgende Funktion an.
 >
-> ```javascript
+>
 > async function getUserProfile(userId) {
 >   return await db.users.findOne({ id: userId });
 > }
-> ```
+>
 >
 > **Bedingungen:**
 >
@@ -58,7 +58,6 @@ Nutzen Sie dies, wenn Sie Caching schnell auf eine einfache Lese-API anwenden mÃ
 > - Implementiere klar die Logik: Bei einem Cache Miss aus der DB abfragen und in Redis speichern.
 > - Integriere zwingend eine Fehlerbehandlung (die DB-Abfrage muss auch bei einem Ausfall der Redis-Verbindung normal funktionieren).
 
-\
 
 ### ðŸ¥‡ Pro Version (Cache Stampede Schutz-Architektur)
 

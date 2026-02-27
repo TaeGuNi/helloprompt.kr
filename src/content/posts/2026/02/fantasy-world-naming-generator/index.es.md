@@ -42,7 +42,6 @@ La inmersión en un mundo de fantasía depende en gran medida del **Naming (Crea
 > **Rol:** Eres un lingüista experto en la creación de mundos de fantasía (Worldbuilding).
 > **Solicitud:** Genera 5 nombres épicos para un/una `[tipo de lugar: bosque élfico, mina enana, etc.]` que encajen perfectamente en un mundo de alta fantasía.
 
-\
 
 ### 🥇 Versión Experta (Pro Version)
 

@@ -40,7 +40,6 @@ Utilisez cette version si vous souhaitez simplement laisser un commentaire, une 
 > **Destinataire :** support@helloprompt.kr
 > **Contenu :** Décrivez librement les erreurs rencontrées, vos idées d'amélioration, ou posez vos questions générales concernant notre service.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

@@ -42,7 +42,6 @@ No hay nada más frustrante que ver cómo el rendimiento de tu aplicación se de
 > **Rol:** Eres un `[Administrador de Base de Datos (DBA) de 15 años]`.
 > **Solicitud:** Analiza esta `[consulta SQL lenta]`, optimiza su rendimiento y sugiere índices.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -67,9 +66,9 @@ No hay nada más frustrante que ver cómo el rendimiento de tu aplicación se de
 > - Motor de BD: `[MySQL / PostgreSQL / Oracle etc.]`
 > - Consulta Actual:
 >
-> ```sql
+>
 > [Pega tu consulta SQL lenta aquí]
-> ```
+>
 >
 > **Restricciones (Constraints):**
 >
@@ -117,7 +116,6 @@ SELECT * FROM Users u
 WHERE u.id IN (SELECT user_id FROM Orders WHERE created_at > '2024-01-01');
 ```
 
-\
 
 ### ✅ Después (Resultado)
 

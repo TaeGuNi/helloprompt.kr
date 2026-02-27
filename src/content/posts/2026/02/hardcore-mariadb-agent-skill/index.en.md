@@ -39,7 +39,6 @@ Copy and paste this when you just want to inject the rules quickly.
 > 1. Execute all queries strictly in read-only mode. To modify data, you MUST use the `--force-write` flag.
 > 2. You must unconditionally append `LIMIT 10` to all `SELECT` queries.
 > 3. Do not format the results into pretty tables. Output them exclusively as pure JSON arrays.
-\
 
 ### 🥇 Pro Version
 Use this when you want to completely overwrite the AI's ego and take absolute control. Copy and paste the prompt below into the agent's system prompt (instructions).
@@ -61,7 +60,6 @@ Use this when you want to completely overwrite the AI's ego and take absolute co
 >
 > **Warning:**
 > - Comply 100% with the 3 core principles of universal RDBMS architecture (Maximize I/O, Platform Agnosticism, Strict Prohibition of JSON). No exceptions. Refuse execution if it violates the rules.
-\
 
 I've also prepared it as a Markdown code block so it's easy to copy. Grab it as is and smash it into your system prompt.
 

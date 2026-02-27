@@ -39,7 +39,6 @@ Use this when you need a quick synthesis of a messy team discussion or alert str
 > **Role:** You are a Senior DevOps AI Agent integrated into our company's Slack.
 > **Task:** Analyze the following `[Slack Conversation / Error Logs]` and provide a root cause summary, the immediate next step, and draft a message I can post back to the channel to update the team.
 
-\
 
 ### 🥇 Pro Version
 

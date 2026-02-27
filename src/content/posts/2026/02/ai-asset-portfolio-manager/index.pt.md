@@ -42,7 +42,6 @@ Use esta versão para um diagnóstico instantâneo do nível de risco da sua car
 > **Meus Ativos:** 80% em ações locais, 20% em poupança.
 > **Comando:** Analise o maior risco do meu portfólio atual. O que aconteceria em caso de crise econômica global? Aconselhe-me sobre como e quanto devo aumentar a proporção de ativos de segurança.
 
-\
 
 ### 🥇 Pro Version (Diagnóstico Avançado de Rebalanceamento)
 

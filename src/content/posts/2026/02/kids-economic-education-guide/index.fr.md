@@ -42,7 +42,6 @@ Utilisez cette version pour obtenir rapidement une explication simple.
 > **Rôle :** Tu es un expert en éducation financière pour enfants.
 > **Demande :** Rédige un petit discours très simple pour expliquer à un enfant de 6 ans la valeur de l'argent et le fait qu'il faut travailler pour pouvoir acheter des jouets.
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 

@@ -37,7 +37,6 @@ Use this when you need a quick, intuitive image featuring specific text.
 > **Role:** You are a cinematic photographer and typography designer.
 > **Task:** Create a photorealistic image of a dark city street at night with a neon sign that says "HELLO".
 
-\
 
 ### 🥇 Pro Version
 

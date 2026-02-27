@@ -42,7 +42,6 @@ Utilizza questa versione se hai bisogno di comprendere rapidamente i rischi e le
 > **Ruolo:** Sei un `[esperto di sicurezza informatica]`.
 > **Azione:** Riassumi i rischi della `[tecnologia di sorveglianza tramite Wi-Fi Sensing (analisi CSI)]`, di cui si discute molto ultimamente, e forniscimi 3 contromisure pratiche che una persona comune può implementare immediatamente.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

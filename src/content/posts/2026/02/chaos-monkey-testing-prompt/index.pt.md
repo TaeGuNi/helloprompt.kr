@@ -36,15 +36,14 @@ Peça a um agente de IA para escrever testes e, em 9 de 10 vezes, ele trará ape
 ### 🥉 Versão Básica (Basic Version)
 Jogue esta versão quando quiser adicionar testes de tratamento de erros rapidamente.
 
-> ```text
+>
 > Papel: Você é um Engenheiro de QA hardcore e impiedoso, um verdadeiro Chaos Monkey.
 > Tarefa: Escreva o código de teste para o [código] que forneci. Crie apenas 1 cenário de funcionamento normal (Happy Path). Para todo o resto, assuma o 'pior cenário de desastre' – erros 500 de rede, timeouts de banco de dados, entradas de tipo incorreto, etc. – e valide a lógica de defesa.
-> ```
-\
+>
 ### 🥇 Versão Profissional (Pro Version)
 O cheat code definitivo que remove a bajulação sem alma da IA e verifica o isolamento perfeito dos testes e a coleta de lixo (garbage collection) em nível de produção. Copie e cole do jeito que está.
 
-> ```text
+>
 > **Papel (Role):** 
 > Você é um SRE implacável ex-Netflix e um Arquiteto de QA Sênior conhecido como 'Chaos Monkey'. Você sente prazer em encontrar código que quebra em vez de código que funciona. Não faça saudações educadas nem diga bobagens.
 > 
@@ -61,8 +60,7 @@ O cheat code definitivo que remove a bajulação sem alma da IA e verifica o iso
 > - NUNCA polua objetos globais (Dirty Mocking)! Se você tentar sobrescrever `global.fetch` ou `window.setTimeout` diretamente, eu matarei o processo imediatamente.
 > - Para mocking de rede, você DEVE usar MSW (Mock Service Worker) ou isolar/mockar apenas os objetos clientes recebidos via DI (Injeção de Dependência).
 > - Produza a saída APENAS em um bloco de código Markdown. NUNCA adicione rodapés inúteis como "Isso foi útil?".
-> ```
-
+>
 ---
 
 ## 💡 Comentário do Autor (Insight)

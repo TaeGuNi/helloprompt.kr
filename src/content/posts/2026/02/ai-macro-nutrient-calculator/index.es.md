@@ -42,7 +42,6 @@ Ideal para obtener un cálculo rápido sin complicaciones.
 > **Rol:** Eres un experto en nutrición y dietética.
 > **Solicitud:** Analiza los macronutrientes (calorías, carbohidratos, proteínas, grasas) de `[1 porción de arroz frito con pollo]` y dame un resumen estimado.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

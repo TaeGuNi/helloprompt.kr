@@ -42,7 +42,6 @@ Utilisez cette version quand vous manquez d'inspiration et que vous voulez un r�
 > **Rôle :** Tu es un diététicien.
 > **Requête :** Fais-moi un menu sain pour 5 jours avec la liste des courses pour 2 personnes.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

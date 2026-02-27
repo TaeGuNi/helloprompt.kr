@@ -40,7 +40,6 @@ Nutzen Sie diesen Prompt, um blitzschnell eine grundlegende Agenten-Struktur fü
 > **Rolle:** Du bist ein erfahrener KI-Systemarchitekt.
 > **Aufgabe:** Entwirf eine Multi-Agenten-Struktur (AI Swarm) zur Lösung von `[Dein Problem, z.B. Automatisierung von Marktforschung]`. Nenne mir die benötigten Agenten-Rollen und ihre spezifischen Aufgaben in präzisen Stichpunkten.
 
-\
 
 ### 🥇 Pro Version (Experten-Version)
 

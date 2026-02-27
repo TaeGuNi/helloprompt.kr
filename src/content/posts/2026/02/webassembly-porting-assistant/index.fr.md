@@ -48,7 +48,6 @@ Utilisez cette version pour convertir rapidement des fonctions de calcul simples
 > **Code :**
 `[Collez ici le code C++/Go/Rust à convertir]`
 
-\
 
 ### 🥇 Version Pro
 
@@ -70,9 +69,9 @@ Utilisez cette version lorsque vous avez besoin d'un résultat prêt pour la pro
 >
 > **Code d'Entrée :**
 >
-> ```plaintext
+>
 > [Collez ici le code existant]
-> ```
+>
 >
 > **Contraintes (Constraints) :**
 >

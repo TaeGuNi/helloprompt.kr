@@ -46,7 +46,6 @@ Use esta versão quando precisar de recomendações rápidas e diretas para sua 
 
 > **Tarefa:** Transforme qualquer café em um escritório de alta performance. Crie uma lista definitiva e minimalista de equipamentos para trabalho remoto (desde laptops até cabos) que garanta 200% de eficiência.
 
-\
 
 ### 🥇 Versão Pro (Especialista)
 

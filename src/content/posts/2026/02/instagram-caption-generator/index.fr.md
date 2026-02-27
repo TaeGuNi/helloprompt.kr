@@ -43,7 +43,6 @@ Utilisez cette version lorsque vous avez juste besoin d'une idée rapide.
 > **Rôle :** Tu es un `[Expert en Réseaux Sociaux]` et `[Copywriter Instagram]`.
 > **Demande :** Rédige une légende Instagram engageante pour une photo montrant `[Description de la photo]`. Inclus des émojis et 5 hashtags pertinents.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

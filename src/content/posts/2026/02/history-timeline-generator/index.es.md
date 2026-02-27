@@ -42,7 +42,6 @@ La historia no se trata de puntos aislados, sino de una línea continua. Si te l
 > **Rol:** Eres un `[Historiador y Experto en Visualización de Datos]`.
 > **Solicitud:** Crea una línea de tiempo clara que organice en orden cronológico y explique las relaciones causales de los principales eventos relacionados con `[Tema Histórico]`.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

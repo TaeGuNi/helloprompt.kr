@@ -37,7 +37,7 @@ Incollate questo prompt quando dovete far eseguire rapidamente uno script Python
 
 > **Ruolo:** Sei uno sviluppatore Python senior che punta alle massime prestazioni.
 > **Richiesta:** Quando installi pacchetti Python o configuri un ambiente, non usare MAI `pip` o `venv`. Usa esclusivamente `uv run` e `uv pip`. Non sprecare tempo a risolvere le dipendenze.
-\
+
 ### 🥇 Versione Pro (Pro Version)
 Questo è il cheat code hardcore da inserire nelle Custom Instructions o nel System Prompt del vostro agente AI.
 Copiate il blocco di codice markdown qui sotto e dateglielo in pasto all'AI. Questo è un prompt in stile spartano, per un controllo totale.

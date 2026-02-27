@@ -47,7 +47,6 @@ Utilisez ce prompt de base lorsque vous êtes bloqué et que vous avez juste bes
 
 > **Contraintes :** Ne fournis en aucun cas le code de la solution ou la logique complète. Donne-moi seulement un indice sur la structure de données la plus avantageuse à utiliser d'un point de vue de la complexité temporelle (Time Complexity).
 
-\
 
 ### 🥇 Version Pro (Coaching Étape par Étape et Revue)
 
@@ -60,9 +59,9 @@ Utilisez ce prompt expert lorsque votre code échoue de manière répétée (Tim
 > - **Objectif du problème :** `[Objectif principal du problème]`
 > - **Mon Code Actuel (My Code) :**
 > 
-> ```python
+>
 > [Insérez votre code incorrect ici]
-> ```
+>
 > 
 > - **Problème rencontré :** Lorsque je soumets ce code, j'obtiens l'erreur `[Time Limit Exceeded / Runtime Error / Wrong Answer]`.
 > 

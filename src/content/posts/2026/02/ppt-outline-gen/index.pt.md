@@ -42,7 +42,6 @@ Use esta versão quando precisar de um esboço rápido e tiver pouco tempo.
 > **Função:** Você é um `[Especialista em Apresentações Executivas]`.
 > **Tarefa:** Crie uma estrutura de slides de `[Número]` páginas sobre `[Tópico/Assunto]`. Inclua o título e os pontos principais para cada slide.
 
-\
 
 ### 🥇 Versão Profissional (Pro Version)
 

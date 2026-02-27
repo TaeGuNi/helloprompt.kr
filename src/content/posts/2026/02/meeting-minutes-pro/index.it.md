@@ -44,7 +44,6 @@ Ideale quando hai bisogno di cogliere rapidamente i punti chiave senza formattaz
 >
 > `[Incolla qui la trascrizione della riunione]`
 
-\
 
 ### 🥇 Versione Pro (Pro Version)
 

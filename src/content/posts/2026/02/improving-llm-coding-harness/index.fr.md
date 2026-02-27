@@ -40,7 +40,6 @@ Idéal pour une évaluation rapide des petits scripts ou fonctions.
 > **Rôle :** Tu es un `[Ingénieur QA Senior]`.
 > **Tâche :** Rédige un harnais de test basique et isolé pour évaluer de manière robuste cette fonction : `[Nom de la fonction]`.
 
-\
 
 ### 🥇 Pro Version (Version Expert)
 

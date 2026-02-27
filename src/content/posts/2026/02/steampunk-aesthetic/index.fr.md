@@ -43,7 +43,6 @@ Utilisez cette version lorsque vous avez besoin d'une inspiration visuelle immé
 
 > **Demande :** Crée un prompt pour générer une image de style Steampunk, représentant une vision futuriste du 19ème siècle, dominée par des engrenages en laiton et des machines à vapeur.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

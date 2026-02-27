@@ -48,7 +48,6 @@ Usalo per una rapida scansione di un testo prima della revisione finale.
 > **Ruolo:** Sei un caporedattore spietato e un fact-checker esperto.
 > **Compito:** Analizza il seguente `[Testo]` ed evidenzia qualsiasi affermazione, dato o citazione che sembra sospetta, non supportata o potenzialmente inventata (allucinazione). Se trovi citazioni dirette, chiedimi esplicitamente di verificarne la fonte esatta prima di procedere.
 
-\
 
 ### 🥇 Versione Pro (Per articoli giornalistici e saggi)
 

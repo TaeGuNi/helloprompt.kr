@@ -42,7 +42,6 @@ Use esta versão para resultados imediatos naquelas noites em claro, sem precisa
 > **Role (Papel):** Você é um especialista em meditação para o sono.
 > **Task (Tarefa):** Tenho um compromisso importante amanhã, não consigo dormir e estou ansioso. Crie um script de meditação de 5 minutos utilizando a técnica de 'Escaneamento Corporal (Body Scan)' para relaxar completamente a tensão do meu corpo e me guiar a um sono profundo. Enfatize a sensação de relaxamento muito lento, da ponta dos pés até o topo da cabeça.
 
-\
 
 ### 🥇 Versão Pro (Cuidado Emocional Situacional)
 

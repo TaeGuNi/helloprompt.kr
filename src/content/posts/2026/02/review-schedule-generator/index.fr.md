@@ -42,7 +42,6 @@ Utilisez cette version pour générer un planning simple en quelques secondes.
 > **Rôle :** Tu es un `[Expert en sciences cognitives et coach d'apprentissage]`.
 > **Requête :** J'ai étudié `[Sujet]` aujourd'hui. Crée-moi un calendrier de révision basé sur la courbe de l'oubli d'Ebbinghaus.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

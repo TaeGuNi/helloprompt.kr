@@ -39,7 +39,6 @@ Use this when you just need a quick, high-level summary of what a specific funct
 > **Role:** You are a Senior Staff Engineer.
 > **Task:** Explain what the following code does in plain English. `[Insert Code]`
 
-\
 
 ### 🥇 Pro Version
 
@@ -61,9 +60,9 @@ Use this for deep architectural analysis, risk assessment, and step-by-step mode
 >
 > **Target Code:**
 >
-> ```
+>
 > [Paste your legacy code here]
-> ```
+>
 >
 > **Constraints (Constraints):**
 >

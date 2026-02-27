@@ -42,7 +42,6 @@ Use esta versão quando precisar de um brainstorming rápido para destravar a cr
 > **Papel:** Você é um mestre da narrativa com o brilhantismo criativo de Christopher Nolan e Bong Joon-ho em filmes de suspense e reviravoltas.
 > **Solicitação:** Preciso de uma ideia de reviravolta chocante que subverta o clichê onde `[O herói descobre que tem poderes ocultos no último segundo]`.
 
-\
 
 ### 🥇 Versão Pro (Expert Version)
 

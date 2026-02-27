@@ -38,7 +38,6 @@ En 2026, la función 'Deep Think' del nuevo modelo Gemini 3 de Google está borr
 > **Rol:** Eres un `[desarrollador frontend experto en SVG]`.
 > **Tarea:** Escribe el código SVG perfecto que describa `[un pelícano montando en bicicleta]`.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

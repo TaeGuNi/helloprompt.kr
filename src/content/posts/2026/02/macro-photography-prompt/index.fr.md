@@ -42,7 +42,6 @@ Utilisez cette version lorsque vous avez besoin d'une image macro simple et effi
 > **Rôle :** Tu es un photographe animalier primé spécialisé dans la macro.
 > **Requête :** Génère une image en macrophotographie de `[Sujet, ex: une coccinelle sur une feuille d'herbe]`. Assure-toi que les détails soient ultra-nets et l'arrière-plan flouté.
 
-\
 
 ### 🥇 Pro Version (Version Experte)
 

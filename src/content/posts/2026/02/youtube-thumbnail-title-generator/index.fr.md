@@ -45,7 +45,6 @@ Utilisez ce prompt lorsque vous manquez de temps et avez besoin d'une liste rapi
 
 > **Sujet de la vidéo :** `[Insérez le sujet de votre vidéo]`
 
-\
 
 ### 🥇 Version Pro (Pack Miniature & Titre)
 

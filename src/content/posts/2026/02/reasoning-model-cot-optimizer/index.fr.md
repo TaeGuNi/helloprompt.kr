@@ -43,7 +43,6 @@ Les IA de raisonnement (Reasoning Models) possèdent la capacité de "réfléchi
 > **Tâche :** Résous parfaitement `[le problème à résoudre]`.
 > **Contrainte :** Ne donne pas la réponse immédiatement. Tu dois impérativement appliquer l'approche "Let's think step by step" (Réfléchissons étape par étape) et détailler ton processus de réflexion en premier.
 
-\
 
 ### 🥇 Version Expert (Pro Version)
 

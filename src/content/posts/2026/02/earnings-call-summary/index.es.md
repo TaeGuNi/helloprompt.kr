@@ -43,7 +43,6 @@ Las llamadas de ganancias (Earnings Calls) de las empresas estadounidenses son e
 > **Rol:** Eres un analista financiero experto de Wall Street.
 > **Solicitud:** Resume los puntos más importantes de esta transcripción de la llamada de ganancias, que es demasiado larga y compleja. Destaca si superaron las expectativas y cuál es su perspectiva para el futuro.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

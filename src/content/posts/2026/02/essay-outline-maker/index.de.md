@@ -42,7 +42,6 @@ Verwenden Sie dies, wenn Sie schnell ein einfaches Ergebnis benötigen.
 > **Rolle:** Du bist ein `[Bestsellerautor und professioneller Schreibcoach]`.
 > **Aufgabe:** Ich leide unter einer Schreibblockade. Erstelle mir eine logische Gliederung (Einleitung-Hauptteil-Schluss) und schlage mir Kernideen für jeden Absatz vor, basierend auf dem Thema `[Mein Thema]`.
 
-\
 
 ### 🥇 Pro Version (Experten-Version)
 

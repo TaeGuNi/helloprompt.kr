@@ -38,7 +38,6 @@ Utilize para esboçar ideias de forma rápida e prática.
 > **Papel:** Você é um `[Desenvolvedor Front-end Especialista em SVG]`.
 > **Tarefa:** Escreva o código SVG perfeito e válido que represente `[um pelicano andando de bicicleta]`.
 
-\
 
 ### 🥇 Versão Profissional (Pro)
 

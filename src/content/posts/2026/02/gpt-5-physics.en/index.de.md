@@ -40,7 +40,6 @@ Nutzen Sie diese Variante, wenn Sie unter Zeitdruck stehen und nur die logische 
 > **Rolle:** Du bist ein messerscharf analysierender `[Datenanalyst / Theoretischer Physiker]`.
 > **Aufgabe:** Analysiere die Kernlogik des folgenden `[Dokuments/Konzepts]` Schritt für Schritt und identifiziere Widersprüche zu bestehenden Paradigmen.
 
-\
 
 ### 🥇 Pro Version (Für Experten)
 

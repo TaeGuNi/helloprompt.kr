@@ -40,7 +40,6 @@ Utilizza questa versione quando hai bisogno solo di una rapida panoramica degli 
 > **Ruolo:** Sei uno sviluppatore senior e un traduttore di documentazione tecnica.
 > **Azione:** Leggi le `[Note di rilascio di Vim 9.2]` qui sotto e riassumi in italiano i 3 cambiamenti più importanti. Usa una terminologia semplice e comprensibile anche per i principianti.
 
-\
 
 ### 🥇 Versione Pro
 

@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt, wenn Sie schnell eine einfache Geschichte benötige
 > **Rolle:** Du bist ein preisgekrönter Kinderbuchautor mit fundierten Kenntnissen in der Zoologie.
 > **Aufgabe:** Schreibe eine kurze Abenteuergeschichte über Tierfreunde, die ökologisches Wissen mit kindgerechter Fantasie verbindet.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

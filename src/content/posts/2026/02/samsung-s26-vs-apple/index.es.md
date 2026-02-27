@@ -41,7 +41,6 @@ Si aún dudas sobre qué ecosistema elegir en 2026, utiliza este prompt estructu
 > **Instrucción:** Analiza mi perfil de uso y recomiéndame qué smartphone comprar entre el Samsung Galaxy S26 y el Apple iPhone 17, justificando tu elección basada exclusivamente en sus capacidades de IA en el dispositivo.
 > **Mi perfil de uso:** `[Describe para qué usas el móvil. Ej: mucha edición de video para redes sociales, responder correos, y gestión de agenda]`
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

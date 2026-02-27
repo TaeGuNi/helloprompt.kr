@@ -44,7 +44,6 @@ Usala quando hai bisogno solo di una formula rapida per calcolare le entrate e l
 > **Ruolo:** Sei un esperto nella creazione di formule per Notion.
 > **Compito:** Ho un database su Notion con una proprietà "Importo" (numero) e una proprietà "Tipo" (selezione: Entrata/Uscita). Combinando queste due proprietà, scrivimi una formula con la funzione `if` che calcoli l'"Importo Reale": se il Tipo è "Entrata", il numero rimane positivo; se è "Uscita", aggiungi un segno meno (-) davanti all'importo.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

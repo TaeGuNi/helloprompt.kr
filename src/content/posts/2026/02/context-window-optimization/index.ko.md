@@ -47,7 +47,6 @@ tags: ["AI", "Tech", "context-window-optimization"]
 >
 > **요청:** 위 `<document>` 태그 안의 내용을 바탕으로 `[핵심 질문]`에 대해 답변해줘.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

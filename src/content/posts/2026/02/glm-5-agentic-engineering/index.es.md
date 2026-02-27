@@ -44,7 +44,6 @@ Para aprovechar al máximo las capacidades de razonamiento de modelos avanzados 
 > **Rol:** Eres un Ingeniero de Software Senior experto en arquitectura de sistemas.
 > **Tarea:** Analiza este `[código o problema]` y propón una solución estructurada en tres pasos lógicos antes de escribir cualquier código.
 
-\
 
 ### 🥇 Versión Pro
 

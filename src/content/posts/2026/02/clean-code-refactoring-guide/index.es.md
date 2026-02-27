@@ -44,7 +44,6 @@ Con este prompt, puedes mejorar drásticamente la legibilidad, el rendimiento y 
 > **Rol:** Eres un Ingeniero de Software Senior experto en 'Clean Code'.
 > **Solicitud:** Refactoriza el siguiente código para que sea limpio, legible y fácil de mantener, sin cambiar su comportamiento.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

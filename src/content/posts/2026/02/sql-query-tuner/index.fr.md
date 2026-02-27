@@ -46,7 +46,6 @@ Utilisez cette version lorsque vous avez simplement besoin d'une correction imm�
 > **Demande :** Analyse la requête SQL suivante et réécris-la pour qu'elle soit plus rapide. Dis-moi aussi s'il manque des index.
 `[Insérez la requête ici]`
 
-\
 
 ### 🥇 Version Pro (Expert)
 
@@ -71,9 +70,9 @@ Utilisez cette version pour une analyse approfondie et une qualité d'optimisati
 > - **SGBD Utilisé :** `[MySQL / PostgreSQL / Oracle / MS-SQL]`
 > - **Requête Cible :**
 >
-> ```sql
+>
 > [Collez votre requête lente ici]
-> ```
+>
 >
 > **Contraintes (Constraints) :**
 >

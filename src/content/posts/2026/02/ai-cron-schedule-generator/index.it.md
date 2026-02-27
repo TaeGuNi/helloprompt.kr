@@ -42,7 +42,6 @@ Utilizza questo prompt quando hai bisogno di ottenere rapidamente solo l'espress
 > **Ruolo:** Sei un `[Ingegnere DevOps]`.
 > **Task:** Converti `[ogni ultimo venerdì del mese alle 23:00]` in un'espressione Crontab per Linux. Aggiungi una breve spiegazione su quando verrà eseguito.
 
-\
 
 ### 🥇 Versione Pro
 

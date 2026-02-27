@@ -42,7 +42,6 @@ tags: ["Viaje", "Presupuesto", "PlanViaje", "Gastos"]
 > **Rol:** Eres un `[Guía de Viaje Profesional y Asesor Financiero]`.
 > **Solicitud:** Necesito que elabores un presupuesto de viaje para `[Destino]` durante `[Número de días]` días para `[Número de personas]` personas. Incluye vuelos, alojamiento, comida y transporte, con un margen de error máximo del 10% basado en los precios actuales.
 
-\
 
 ### 🥇 Versión Pro (Expert Version)
 

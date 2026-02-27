@@ -42,7 +42,6 @@ Use this prompt when you need a quick, imaginative story right before the lights
 > **Role:** You are an expert children's fairy tale writer with a deep knowledge of zoology.
 > **Task:** Write an engaging bedtime adventure about animal friends that seamlessly blends factual ecological knowledge with creative imagination.
 
-\
 
 ### 🥇 Pro Version
 

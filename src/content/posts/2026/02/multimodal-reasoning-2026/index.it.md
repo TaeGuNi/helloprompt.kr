@@ -39,7 +39,6 @@ Usa questa versione per estrarre rapidamente il significato generale da input di
 > **Ruolo:** Sei un Analista Multimodale.
 > **Richiesta:** Analizza il video, l'audio e il testo allegati. Sintetizza il messaggio principale e descrivi il tono emotivo generale.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

@@ -39,7 +39,6 @@ Usa questo prompt quando inizi a notare i primi segni di "amnesia" o prima di un
 > **Ruolo:** Sei il mio assistente tecnico.
 > **Azione:** Stiamo per raggiungere il limite della memoria di questa chat. Riassumi i requisiti chiave, le decisioni prese finora e l'architettura generale di cui abbiamo discusso. Ignora i convenevoli e concentrati solo sui fatti tecnici, in modo che io possa usare questo riassunto per iniziare una nuova sessione senza perdere contesto.
 
-\
 
 ### 🥇 Pro Version (Checkpoint Architetturale)
 

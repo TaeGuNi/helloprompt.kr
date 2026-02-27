@@ -42,7 +42,6 @@ Utilisez cette version lorsque vous devez rédiger rapidement une ébauche de po
 > **Rôle :** Tu es un expert en éthique de l'IA au sein d'une entreprise informatique.
 > **Tâche :** Rédige les "5 Principes Fondamentaux Interdisant la Création et la Diffusion de Deepfakes Non Consentis" pour protéger les utilisateurs de notre service.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

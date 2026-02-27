@@ -44,7 +44,6 @@ Utilizzalo per correggere rapidamente semplici errori di sintassi di Prettier o 
 > **Ruolo:** Sei un `[Senior Frontend Developer]`.
 > **Task:** Analizza il log degli errori fornito e correggi in modo rapido e preciso esclusivamente gli `[errori di linting e i refusi]` presenti nel codice, restituendo il codice completo corretto.
 
-\
 
 ### 🥇 Versione Pro (Agente di Auto-Riparazione Sicura)
 
@@ -71,13 +70,12 @@ Un prompt di livello production che corregge rigorosamente solo errori di tipo e
 >
 > **Formato di Output (Format):**
 >
-> ```json
+>
 > {
 >   "file_path": "[percorso_del_file_con_errore]",
 >   "fixed_content": "[codice_sorgente_completo_corretto]"
 > }
-> ```
-
+>
 ---
 
 ## 💡 Il Commento dell'Autore (Insight)

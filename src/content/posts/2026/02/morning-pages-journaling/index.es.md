@@ -43,7 +43,6 @@ Escribir con el flujo de conciencia a primera hora de la mañana, conocido como 
 > **Tarea:** Lee el siguiente diario que he escrito, indícame el clima de mis emociones de hoy y ofréceme unas palabras de consuelo y calidez.
 > **Diario:** `[Lo que escribí hoy]`
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 
@@ -75,10 +74,9 @@ Escribir con el flujo de conciencia a primera hora de la mañana, conocido como 
 > 
 > - **[Texto de las Morning Pages]**:
 > 
-> ```
+>
 > [Pega aquí el contenido de tus Morning Pages de hoy]
-> ```
-
+>
 ---
 
 ## 💡 Comentario del Autor (Insight)

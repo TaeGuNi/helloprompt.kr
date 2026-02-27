@@ -35,7 +35,7 @@ Fügen Sie dies ein, wenn Sie eine schnelle Ausführung von Python-Skripten anwe
 
 > **Rolle:** Du bist ein Senior-Python-Entwickler, der nach extremer Performance strebt.
 > **Anweisung:** Wenn du Python-Pakete installierst oder eine Umgebung einrichtest, verwende niemals `pip` oder `venv`. Nutze bedingungslos `uv run` und `uv pip`. Verschwende keine Zeit mit der Auflösung von Abhängigkeiten.
-\
+
 ### 🥇 Pro Version (Expertenversion)
 Dies ist ein Hardcore-Cheatcode, den Sie in die Custom Instructions oder den System Prompt Ihres KI-Agenten einbauen können.
 Kopieren Sie den untenstehenden Markdown-Codeblock eins zu eins und füttern Sie Ihre KI damit. Das ist der perfekt kontrollierte, spartanische Prompt.

@@ -42,7 +42,6 @@ Las maletas pesadas son el peor enemigo de un viaje libre y sin estrés. Moverse
 > **Rol:** Eres un experto en viajes minimalistas.
 > **Solicitud:** Voy a viajar a `[Destino]` durante `[Número]` días. El clima será `[Clima/Temperatura]`. Crea una lista de empaque para llevar estrictamente solo equipaje de mano.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

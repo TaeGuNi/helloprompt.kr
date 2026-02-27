@@ -44,7 +44,6 @@ Werfen Sie ihr das hin, wenn Sie ein schnelles CSS-Refactoring oder eine Korrekt
 > **Einschränkungen (Constraints):** 
 > - Lass unnötige Erklärungen oder Begrüßungen weg.
 > - Gib nur den korrigierten Codeblock und die Gründe kurz und trocken aus.
-\
 
 ### 🥇 Pro Version (Expertenversion)
 Verwenden Sie dies für das initiale Projekt-Setup oder die Entwicklung großer Komponenten, wenn Sie der KI die Seele aussaugen und ein perfektes Ergebnis wollen. Kopieren Sie den unten stehenden Prompt und fügen Sie ihn genau so ein.

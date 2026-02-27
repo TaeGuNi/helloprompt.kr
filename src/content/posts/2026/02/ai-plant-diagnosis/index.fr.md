@@ -45,7 +45,6 @@ Idéal pour identifier la cause d'un symptôme en urgence.
 
 > **Requête :** Le bout des feuilles de la Monstera sur cette photo devient brun et sec. Manque-t-elle d'eau ou, au contraire, est-elle trop arrosée ? Dis-moi brièvement s'il s'agit d'une maladie, quelle en est la cause et comment y remédier.
 
-\
 
 ### 🥇 Version Pro (Solution de sauvetage experte)
 

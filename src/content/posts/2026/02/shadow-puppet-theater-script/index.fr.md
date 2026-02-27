@@ -42,7 +42,6 @@ Idéale pour obtenir une petite histoire rapidement juste avant le coucher.
 > **Rôle :** Tu es un auteur de contes pour enfants et un metteur en scène bienveillant.
 > **Demande :** Écris-moi un court script de théâtre d'ombres pour endormir mon enfant, en utilisant des ombres faites avec les mains.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

@@ -46,7 +46,6 @@ Use this prompt when you need a quick fix to find out why a specific function or
 > **Code:**
 > `[Paste the code of the bottleneck component here]`
 
-\
 
 ### 🥇 Pro Version
 

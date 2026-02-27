@@ -44,7 +44,6 @@ Use isso quando precisar testar rapidamente a atmosfera geral do seu personagem 
 > **Prompt para o Midjourney:**
 > character sheet of a `[descrição detalhada do personagem]`, full body, white background, multiple views, front side and back view --v 6.0 --ar 3:2
 
-\
 
 ### 🥇 Versão Pro (Especialista)
 

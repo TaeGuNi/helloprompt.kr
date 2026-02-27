@@ -44,7 +44,6 @@ Use this when you need fundamental plus/minus calculation formulas for basic boo
 > **Role:** You are a Notion formula expert.
 > **Task:** My Notion database has an 'Amount (Number)' property and a 'Type (Select: Income/Expense)' property. Write an `if` formula that combines these two: if the 'Type' is Income, keep the amount as is; if it's Expense, attach a minus (-) sign to calculate the 'Actual Amount'.
 
-\
 
 ### 🥇 Pro Version
 

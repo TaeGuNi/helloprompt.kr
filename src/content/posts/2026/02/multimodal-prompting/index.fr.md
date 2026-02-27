@@ -39,7 +39,6 @@ Au lieu de décrire laborieusement ce que vous voulez changer, montrez-le direct
 > **Rôle :** Tu es un `[Designer UI/UX Senior et Développeur Front-end]`.
 > **Tâche :** Analyse l'image fournie. Concentre-toi **uniquement** sur la zone entourée en rouge. Rends cette section plus moderne, en utilisant `[Tailwind CSS]`, et fournis le code mis à jour.
 
-\
 
 ### 🥇 Prompting Vidéo (Analyse d'Expertise)
 

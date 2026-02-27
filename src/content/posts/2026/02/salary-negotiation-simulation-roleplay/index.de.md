@@ -48,7 +48,6 @@ Verwenden Sie diesen Prompt für einen schnellen Übungsdurchlauf.
 > **Rolle:** Du bist ein akribischer HR-Manager.
 > **Anfrage:** Simuliere eine angespannte Gehaltsverhandlung. Ich werde Argumente für meine Gehaltserhöhung vorbringen, und du musst versuchen, diese innerhalb des Firmenbudgets abzuwehren. Zeige mir am Ende, wie ich meine Argumentation verbessern kann.
 
-\
 
 ### 🥇 Pro Version (Experte)
 

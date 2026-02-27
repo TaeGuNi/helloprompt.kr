@@ -47,7 +47,6 @@ Utilizza questo prompt per problemi minori o per toglierti un dubbio veloce sul 
 - Razza/Età: `[inserisci dati]`
 - Situazione specifica: `[inserisci dettagli]`
 
-\
 
 ### 🥇 Versione Pro (Soluzione Personalizzata)
 

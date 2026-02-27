@@ -41,7 +41,6 @@ Verwenden Sie diese Version für schnelle, alltägliche Logikprobleme.
 > **Rolle:** Du bist ein `[Analytiker]`.
 > **Anfrage:** Löse dieses Problem: `[Problembeschreibung]`. Denke Schritt für Schritt.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

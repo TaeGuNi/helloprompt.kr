@@ -55,10 +55,9 @@ tags: ["Refactoring", "CleanCode", "UnitTesting", "Developer"]
 >
 > **输入代码：**
 >
-> ```python
+>
 > [请在此处粘贴需要分析的遗留代码]
-> ```
-
+>
 ---
 
 ## 💡 作者点评 (Insight)

@@ -42,7 +42,7 @@ The foundational rule you force down the agent's throat when you're in a rush to
 > 2. `docker logs -f` is strictly forbidden. Only check the tail with `--tail 200`.
 > 3. For one-off executions, you must unconditionally attach the `--rm` flag to clean up your mess.
 > 4. Output only the results drily.
-\
+
 ### 🥇 Pro Version
 The hardcore cheat code to permanently embed into your AI agent's system prompt (SKILL.md) or project global context.
 

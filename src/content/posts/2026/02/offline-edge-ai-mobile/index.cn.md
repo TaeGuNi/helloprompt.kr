@@ -43,7 +43,6 @@ tags: ["AI", "Tech", "offline-edge-ai-mobile"]
 > **角色：** 你是一位资深的`[移动端 AI 架构师]`。
 > **任务：** 请为我的`[iOS/Android 社交应用]`设计一个完全离线运行的`[文本摘要]`功能架构方案。
 
-\
 
 ### 🥇 Pro Version (专业版)
 

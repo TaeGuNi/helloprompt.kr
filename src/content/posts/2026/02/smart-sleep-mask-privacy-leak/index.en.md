@@ -41,7 +41,6 @@ Use this for a quick, generic BLE connection script to check for exposed charact
 > **Role:** You are a Senior IoT Security Researcher.
 > **Task:** Write a simple JavaScript Web Bluetooth API script to scan for a device named `[Device Name]` and attempt to connect to its primary service UUID `[Service UUID]` without a secure pairing handshake.
 
-\
 
 ### 🥇 Pro Version
 

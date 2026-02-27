@@ -42,7 +42,6 @@ Para quando você tem apenas 2 minutos antes da Daily Scrum.
 > **Role:** Você é um instrutor de mindfulness especializado em profissionais de tecnologia.
 > **Task:** Crie um roteiro de meditação guiada de 2 minutos focado em reduzir o estresse antes de começar a programar.
 
-\
 
 ### 🥇 Versão Profissional (Pro Version)
 

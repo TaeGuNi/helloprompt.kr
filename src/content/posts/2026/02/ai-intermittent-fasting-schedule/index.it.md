@@ -42,7 +42,6 @@ Usala quando hai bisogno di una panoramica veloce e risultati immediati.
 > **Ruolo:** Sei un nutrizionista esperto in digiuno intermittente e biohacking.
 > **Richiesta:** Progetta un programma di digiuno intermittente che si adatti al mio stile di vita caotico e dammi 3 consigli per resistere alla fame durante le ore di digiuno.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

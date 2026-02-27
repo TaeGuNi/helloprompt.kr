@@ -42,7 +42,6 @@ Utilisez ce prompt lorsque vous avez besoin d'une réponse rapide pour un cas si
 > **Rôle :** Tu es un `[Développeur Senior]`.
 > **Demande :** Crée une expression régulière pour `[Format souhaité, ex: valider un e-mail]` et donne-moi un exemple de code d'implémentation.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

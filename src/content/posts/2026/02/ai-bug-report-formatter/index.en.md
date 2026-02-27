@@ -48,7 +48,6 @@ Use this when you just need to quickly outline a basic bug report framework.
 >
 > **Description:** `[Write down whatever comes to mind about the bug you just experienced]`
 
-\
 
 ### 🥇 Pro Version
 

@@ -37,7 +37,6 @@ Ideal para entender el concepto rápidamente y dividir una tarea sencilla.
 > **Rol:** Eres un `[Director de Proyecto]`.
 > **Instrucción:** Divide la tarea `[Crear una estrategia de marketing para un nuevo software]` en 3 roles distintos (ej. Analista, Creativo, Crítico) y simula una conversación entre ellos para llegar a la mejor solución.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

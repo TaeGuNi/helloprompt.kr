@@ -39,7 +39,6 @@ Utilizzala per comprendere al volo un blocco di codice oscuro o una singola funz
 > **Ruolo:** Sei un Senior Software Engineer esperto.
 > **Richiesta:** Spiegami cosa fa esattamente questo `[codice o funzione]` e proponi una versione più pulita, moderna e performante.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

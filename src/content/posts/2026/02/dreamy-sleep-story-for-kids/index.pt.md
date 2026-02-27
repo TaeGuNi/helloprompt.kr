@@ -49,7 +49,6 @@ Use isto quando precisar de uma história rápida sem muita personalização.
 > **Papel:** Você é um especialista em meditação e relaxamento infantil.
 > **Pedido:** Crie uma história de ninar curta e suave sobre uma viagem no 'Trem das Nuvens', usando técnicas de relaxamento para ajudar uma criança a dormir rapidamente.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

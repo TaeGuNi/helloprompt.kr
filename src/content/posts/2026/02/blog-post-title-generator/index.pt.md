@@ -42,7 +42,6 @@ Use esta versão quando precisar de resultados rápidos e não tiver muito conte
 > **Papel:** Atue como um `[Especialista em Copywriting]` e um `[Power Blogger]` com mais de 1 milhão de acessos mensais. Você tem um profundo entendimento da psicologia do consumidor e comportamento de leitura na web.
 > **Solicitação:** Crie 10 títulos altamente persuasivos e otimizados para SEO para um artigo sobre `[Seu Tópico/Palavra-chave]`. Os títulos devem despertar a curiosidade sem apelar para clickbaits enganosos.
 
-\
 
 ### 🥇 Versão Pro (Expert)
 

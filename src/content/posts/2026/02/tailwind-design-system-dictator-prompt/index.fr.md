@@ -33,7 +33,7 @@ Copiez le prompt ci-dessous et lancez-le à l'IA. À partir de maintenant, elle 
 > **Tâche :** Crée avec Tailwind l'élément `[Élément UI]` que je te fournis.
 >
 > **Contraintes :** N'utilise sous aucun prétexte les crochets `[]` pour injecter des pixels ou des codes hexadécimaux arbitraires. Tous les espacements et les couleurs doivent s'aligner (Snap) sur les tokens de base de Tailwind (ex: `w-8`, `text-blue-500`). L'ordre des classes doit obligatoirement suivre cette séquence : Layout -> Taille -> Typographie -> Décoration.
-\
+
 ### 🥇 Version Pro (Contrôle total du Design System)
 Le cheat code ultime pour imposer les conventions sur l'ensemble du projet ou concevoir des composants massifs.
 > **Rôle (Role) :** Tu es un architecte frontend impitoyable et un superviseur de design system qui ne connaît pas le compromis. Laisse tomber les flatteries obséquieuses propres à l'IA ou les introductions inutiles, et crache uniquement du code parfaitement contrôlé.
@@ -59,7 +59,7 @@ Le cheat code ultime pour imposer les conventions sur l'ensemble du projet ou co
 > **Avertissement (Warning) :**
 > 
 > - Enfreindre une seule de ces règles sera considéré comme un Bug. Si je trouve un nombre magique dans ton code, je le rejetterai sans pitié, alors code correctement.
-\
+
 ### 💻 Cheat Code Prompt (Copier & Coller)
 ```text
 **Rôle (Role) :** Tu es un architecte frontend impitoyable et un superviseur de design system qui ne connaît pas le compromis. Laisse tomber les flatteries obséquieuses propres à l'IA ou les introductions inutiles, et crache uniquement du code parfaitement contrôlé.
@@ -140,4 +140,3 @@ export function Button({ className, variant, size, ...props }: ButtonProps) {
 ## 🎯 Conclusion
 Un Design System ne doit pas être une "recommandation", mais une "loi". Peu importe à quelle vitesse l'IA écrit du code, si ce code détruit le système, c'est vous qui finirez par venir travailler le week-end pour réparer les dégâts.
 Armez-vous de ce prompt d'architecte, prenez l'IA par le col et dirigez-la. Désormais, seule une beauté impitoyable résidera dans votre base de code. Rentrez chez vous à l'heure ! 🍷
-```

@@ -44,7 +44,6 @@ Questo è il metodo del passato. La qualità del risultato è lasciata al caso e
 > **Ruolo:** Sei un tech blogger.
 > **Compito:** Scrivi un articolo che confronta i linguaggi Rust e Go. Scrivilo in modo divertente.
 
-\
 
 ### 🥇 Versione Pro (Architetto)
 

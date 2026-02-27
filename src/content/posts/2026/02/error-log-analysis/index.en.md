@@ -42,7 +42,6 @@ Use this when you just need a quick result.
 > **Role:** You are a `[Senior System Engineer]`.
 > **Request:** Analyze the error log below, tell me the exact root cause, and explain how to fix it.
 
-\
 
 ### 🥇 Pro Version (Expert)
 
@@ -110,7 +109,6 @@ Exception in thread "main" java.lang.NullPointerException
     ... (100+ lines of cryptic stack trace)
 ```
 
-\
 
 ### ✅ After (Result)
 
@@ -140,4 +138,3 @@ The `getUser` method is attempting to access an object or database record that d
 Debugging shouldn't feel like finding a needle in a haystack. Give the AI the raw data, set the right constraints, and let it do the heavy lifting for you.
 
 Now go fix that bug and get your coffee! ☕
-```

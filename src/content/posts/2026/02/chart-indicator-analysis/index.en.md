@@ -42,7 +42,6 @@ Use this when you need a rapid, high-level overview of a chart.
 > **Role:** You are a seasoned `[Professional Technical Trader]`.
 > **Task:** Easily interpret difficult chart indicators such as RSI, MACD, and Bollinger Bands for the provided chart or data.
 
-\
 
 ### 🥇 Pro Version (Expert Analysis)
 

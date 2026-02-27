@@ -42,7 +42,6 @@ Usa questa versione per ottenere rapidamente una bozza della tua nuova routine m
 > **Ruolo:** Sei un esperto di produttività e peak performance.
 > **Richiesta:** Creare un piano d'azione per abituarmi a svegliarmi alle 4 del mattino. Sono un `[Tua Professione]` e il mio obiettivo principale al mattino presto è `[Il Tuo Obiettivo, es. scrivere un libro, allenarmi, studiare]`.
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

@@ -42,7 +42,6 @@ Use esta versão quando precisar apenas de uma resposta rápida no meio da sess�
 > **Papel:** Você é um mestre de RPG veterano e escritor de fantasia.
 > **Solicitação:** Crie um NPC `[profissão/papel]` com um nome, uma característica marcante de aparência, um tom de voz específico e um pequeno segredo. Seja breve.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

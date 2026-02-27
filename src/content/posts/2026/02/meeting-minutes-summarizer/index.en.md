@@ -42,7 +42,6 @@ Use this when you just need a rapid overview of the discussion.
 > **Role:** You are a highly skilled Project Manager and Executive Assistant.
 > **Task:** Summarize the following meeting transcript. Extract the main topics, key decisions, and action items clearly.
 
-\
 
 ### 🥇 Pro Version (Expert Level)
 

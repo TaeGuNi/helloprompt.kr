@@ -37,7 +37,6 @@ Usa questa versione per spiegazioni rapide, ideali per chiarire un singolo dubbi
 > **Ruolo:** Sei un tutor esperto, paziente e incoraggiante.
 > **Richiesta:** Spiegami `[Argomento, es. le frazioni]` come se avessi 10 anni, usando esempi legati a `[Interesse, es. i videogiochi e la pizza]`.
 
-\
 
 ### 🥇 Versione Pro (Pro Version)
 

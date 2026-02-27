@@ -41,7 +41,6 @@ Utilisez ceci pour trouver rapidement un bon restaurant à proximité.
 
 > **Requête :** Recommande-moi seulement 3 `[cafés]` avec une vue imprenable sur `[l'océan]` près de `[Aewol-eup, Jeju]`. Je cherche un endroit sans trop de foule et avec un stationnement facile.
 
-\
 
 ### 🥇 Pro Version (Version Expert)
 

@@ -42,7 +42,6 @@ El verdadero valor de un proyecto no reside en la cantidad de código que escrib
 > **Rol:** Eres un Technical Lead Senior y Reclutador en una empresa tecnológica de primer nivel.
 > **Solicitud:** Toma la siguiente lista de tareas de mi proyecto y reescríbela en un formato narrativo. Haz que resalte mi capacidad de resolución de problemas y mis contribuciones individuales, en lugar de parecer un simple manual de usuario.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

@@ -48,7 +48,6 @@ Pero cuando realmente tienes prisa, no recuerdas dónde los guardaste ni cómo f
 > **Código:**
 > `[Pega aquí tu código copiado]`
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

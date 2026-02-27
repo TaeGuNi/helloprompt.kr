@@ -42,7 +42,6 @@ Usala quando hai bisogno di idee e opinioni rapide da diverse prospettive.
 > **Ruolo:** Sei un Project Manager altamente qualificato.
 > **Azione:** Fornisci opinioni approfondite su `[Argomento]` dal punto di vista di un Planner, di uno Sviluppatore e di un Designer. Quindi, sintetizza queste visioni e proponi la direzione ottimale.
 
-\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

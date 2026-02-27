@@ -43,7 +43,6 @@ Use this when you need a quick, intuitive grasp of the core differences between 
 >
 > **Task:** Clearly compare the top 3 differences between LangChain and LlamaIndex. Specifically, explain which framework has the upper hand in terms of 'Data Indexing and Retrieval' performance, and provide concrete reasons why.
 
-\
 
 ### 🥇 Pro Version
 

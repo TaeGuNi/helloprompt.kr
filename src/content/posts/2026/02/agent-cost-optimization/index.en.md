@@ -55,7 +55,6 @@ Use this to reduce the 'Fluff Tax'—unnecessary filler tokens—generated durin
 > - Absolutely NO polite greetings, introductory phrases like "I will begin the analysis," or concluding remarks like "Here are the results."
 > - Output ONLY the analysis results and the requested action.
 
-\
 
 ### 🥇 Pro Version
 
@@ -77,13 +76,13 @@ This pattern yields the most significant cost savings. Instead of passing the en
 >
 > - Your output format MUST strictly adhere to the following JSON structure:
 >
-> ```json
+>
 > {
 >   "thought": "Logical reasoning for the current step...",
 >   "action": "Function name to execute or the next action",
 >   "new_state": "SUMMARY: [Summary of what has been achieved so far]. PENDING: [Current blockers or unresolved issues]. GOAL: [Next objective to tackle]."
 > }
-> ```
+>
 >
 > - The `[new_state]` value MUST be compressed to under 100 words.
 > - Retain only objective facts and decision-making details. Eliminate all conversational filler.

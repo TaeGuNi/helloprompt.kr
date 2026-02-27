@@ -47,7 +47,7 @@ La règle de base pour recadrer l'agent lorsque vous lancez rapidement un conten
 > 3. Pour les exécutions uniques, ajoute impérativement l'option `--rm` pour nettoyer les résidus.
 > 4. Affiche uniquement les résultats de manière factuelle.
 
-\
+
 ### 🥇 Version Pro (Expert Version)
 Le cheat code hardcore à ancrer de manière permanente dans le prompt système de votre agent IA (SKILL.md) ou dans le contexte global de votre projet.
 

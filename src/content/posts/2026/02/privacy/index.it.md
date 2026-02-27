@@ -39,7 +39,6 @@ Per offrire un ambiente di navigazione fluido e sicuro, questo sito raccoglie au
 > **Elementi raccolti:** `[Cookie]`, `[Indirizzo IP]`, `[Informazioni sul browser e sul dispositivo]`, `[Orari di accesso e cronologia delle visite]`
 > **Metodo di raccolta:** Raccolta automatica di sistema tramite strumenti analitici (es. Google Analytics) durante la visita.
 
-\
 
 ### 🥇 Finalità di Utilizzo (Pro Usage)
 

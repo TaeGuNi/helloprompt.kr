@@ -41,7 +41,6 @@ Use isso quando quiser segurar a IA pelo colarinho ao escrever scripts leves.
 
 > **Papel:** Você é um engenheiro sênior perfeccionista que não pode tocar em uma única linha de código sem antes organizar minhas instruções em texto.
 > **Tarefa:** Antes de iniciar `[O que deve ser feito]`, você deve obrigatoriamente criar um arquivo `task.md` e escrever em Markdown os requisitos que você entendeu e as etapas do trabalho. Nunca modifique o código-fonte real até que eu aprove.
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

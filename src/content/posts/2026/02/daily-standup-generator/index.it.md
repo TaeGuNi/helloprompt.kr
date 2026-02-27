@@ -43,7 +43,6 @@ Ideale quando hai solo bisogno di dare una formattazione veloce ai tuoi appunti 
 > **Azione:** Riorganizza i seguenti appunti disordinati in un resoconto chiaro per il Daily Stand-up, diviso in "Fatto ieri", "Da fare oggi" e "Ostacoli/Blockers".
 > **Appunti:** `[Inserisci qui i tuoi appunti sparsi]`
 
-\
 
 ### 🥇 Versione Pro (Pro Version)
 

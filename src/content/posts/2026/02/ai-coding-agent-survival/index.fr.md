@@ -53,7 +53,6 @@ Idéal pour déléguer rapidement un refactoring léger sur un fichier unique.
 > **Tâche :** Refactorise le fichier `[src/legacy/auth.ts]` pour en améliorer la lisibilité et la modularité.
 > **Contraintes :** Ne modifie absolument aucune signature d'API existante et assure-toi que le code passe les tests unitaires après modification.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

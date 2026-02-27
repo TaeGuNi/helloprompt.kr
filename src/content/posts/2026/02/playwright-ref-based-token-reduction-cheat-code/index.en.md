@@ -39,7 +39,6 @@ Copy and paste this when injecting a role into the AI in a lightweight testing e
 > **Task:** When writing Playwright E2E tests, never read `innerHTML` or the entire DOM. Extract only the visible, interactable elements on the screen and control them based on References (Ref).
 > 
 > **Constraint:** After any manipulation, you must verify the result using `expect`. Otherwise, it is considered a test failure.
-\
 
 ### 🥇 Pro Version (Hardcore Cheat Code)
 This is the ultimate Spartan constitution used when infiltrating complex commercial websites (plastered with SPAs and Shadow DOMs). Copy and paste this directly into your system prompt or agent context.

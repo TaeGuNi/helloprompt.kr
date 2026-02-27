@@ -38,7 +38,6 @@ Ideal para quando você precisa rapidamente apenas da estrutura básica do códi
 > **Role (Papel):** Você é um Desenvolvedor Sênior de `[Linguagem]` e especialista em UI/UX para TUI.
 > **Task (Tarefa):** Escreva o código boilerplate básico de um aplicativo TUI usando `[Linguagem/Framework]` para implementar `[Funcionalidade]`. Inclua também as instruções de como executar.
 
-\
 
 ### 🥇 Versão Pro (Especialista)
 

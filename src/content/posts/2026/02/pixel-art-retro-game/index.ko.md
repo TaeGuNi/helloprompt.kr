@@ -42,7 +42,6 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Retro"]
 > **Role:** 너는 고전 게임 에셋을 디자인하는 `[도트 그래픽 디자이너]`야.
 > **Task:** 배경이 흰색인 `[16-bit]` 레트로 게임 스타일의 `[귀여운 고양이 캐릭터]` 픽셀 아트를 그려줘.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

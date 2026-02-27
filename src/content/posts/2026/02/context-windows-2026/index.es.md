@@ -39,7 +39,6 @@ Ideal para consultas rápidas sobre un documento extenso (ej. un libro, un manua
 > **Rol:** Eres un analista de datos experto y asistente de investigación.
 > **Tarea:** Revisa meticulosamente todo el documento adjunto y responde a `[Pregunta o problema específico]`. Debes citar la sección y página/línea exacta de donde obtuviste la información.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

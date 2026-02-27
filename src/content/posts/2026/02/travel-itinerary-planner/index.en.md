@@ -42,7 +42,6 @@ Use this when you just need a quick, high-level itinerary sketch.
 > **Role:** You are a veteran local tour guide and a master of itinerary logistics.
 > **Request:** Create a highly efficient 3-day travel itinerary for `[Destination]` that balances popular attractions with hidden local gems, ensuring optimal routing to minimize travel time.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

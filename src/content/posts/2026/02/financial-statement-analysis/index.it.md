@@ -42,7 +42,6 @@ Utilizza questa versione quando hai bisogno di un'istantanea rapida senza entrar
 > **Ruolo:** Sei un `[Analista Finanziario Senior]` con 20 anni di esperienza a Wall Street.
 > **Richiesta:** Riassumi i punti chiave di questo bilancio finanziario in meno di un minuto, evidenziando solo ciò che è indispensabile per valutare l'acquisto di azioni.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

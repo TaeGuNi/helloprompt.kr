@@ -42,7 +42,6 @@ Transformar la percepción del hospital de un "lugar doloroso" a un "campo de ba
 > **Rol:** Eres un experto psicólogo infantil y cuentacuentos especializado en superar fobias.
 > **Solicitud:** Escribe un cuento corto para un niño que tiene mucho miedo de ir al dentista, transformando la experiencia en una aventura divertida.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

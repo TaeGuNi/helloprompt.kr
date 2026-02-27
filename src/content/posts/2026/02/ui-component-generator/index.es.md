@@ -42,7 +42,6 @@ Ideal para cuando necesitas un componente funcional en segundos sin demasiadas e
 > **Rol:** Eres un desarrollador frontend Senior y un experto en UI/UX.
 > **Solicitud:** Crea un componente UI para `[Describe el componente, ej: un formulario de login]` utilizando `[Tu stack, ej: React y Tailwind]`. Asegúrate de que sea responsivo.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

@@ -42,7 +42,6 @@ Un juego de búsqueda del tesoro en interiores no solo agota esa energía inagot
 > **Rol:** Eres un instructor de recreación infantil creativo.
 > **Solicitud:** Crea 5 pistas de búsqueda del tesoro para jugar en casa con un niño de 5 años.
 
-\
 
 ### 🥇 Versión Pro (Expert Version)
 

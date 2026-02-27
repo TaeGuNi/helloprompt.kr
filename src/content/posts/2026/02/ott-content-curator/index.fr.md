@@ -42,7 +42,6 @@ Utilisez cette version lorsque vous avez besoin d'une suggestion immédiate sans
 > **Rôle :** Tu es un conservateur de contenu expert et un critique de cinéma renommé.
 > **Requête :** Analyse mes goûts et recommande-moi un chef-d'œuvre incontournable pour m'éviter de chercher pendant une heure sur Netflix.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

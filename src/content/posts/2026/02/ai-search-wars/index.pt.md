@@ -39,7 +39,6 @@ Use quando precisar de um panorama rápido e direto sobre um tópico em disputa.
 > **Papel:** Você é um pesquisador especialista e imparcial.
 > **Tarefa:** Explique os principais pontos de debate atuais sobre `[tópico de pesquisa, ex: o futuro da busca por IA]`, comparando ativamente as diferentes visões no mercado (ex: abordagem do Google vs. abordagem da OpenAI). Destaque os prós e contras de cada lado.
 
-\
 
 ### 🥇 Versão Pro (Expert Version)
 

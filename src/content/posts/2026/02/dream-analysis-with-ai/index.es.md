@@ -44,7 +44,6 @@ Hoy te presentamos un prompt de análisis psicológico único impulsado por IA. 
 > **Rol:** Eres un analista de sueños experto en psicología.
 > **Tarea:** Analiza el siguiente `[Contenido del sueño]` desde una perspectiva psicológica. Identifica el significado de los símbolos principales y deduce cómo podrían estar relacionados con mi estado mental actual.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

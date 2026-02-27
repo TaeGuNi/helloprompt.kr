@@ -44,7 +44,6 @@ Use this when you want a quick, straightforward interpretation of a specific dre
 > **Role:** You are a professional psychoanalyst.
 > **Task:** Analyze my dream about `[falling from a tall building into a massive ocean]` and explain what it might signify regarding my current waking life.
 
-\
 
 ### 🥇 Pro Version
 

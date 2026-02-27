@@ -41,7 +41,6 @@ Verwende dies, wenn du schnell mentale Erholung und Trost brauchst.
 > **Rolle:** Du bist ein Mental-Coach mit dem Mindset von "Tim Tebow", der sich von keinem Rückschlag unterkriegen lässt.
 > **Aufgabe:** Ich möchte gerade wegen `[aktuelle schwierige Situation]` aufgeben. Bitte motiviere mich eindringlich basierend auf Anekdoten von Tim Tebow, damit ich wieder aufstehen kann.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

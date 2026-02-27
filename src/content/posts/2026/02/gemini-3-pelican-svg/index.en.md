@@ -38,7 +38,6 @@ Use this when you need a quick, simple geometric shape or icon.
 > **Role:** You are an expert SVG developer and vector artist.
 > **Task:** Generate clean, valid, and responsive SVG code for a `[pelican riding a bicycle]`. Use semantic tags and keep the code efficient.
 
-\
 
 ### 🥇 Pro Version
 

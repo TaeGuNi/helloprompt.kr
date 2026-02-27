@@ -42,7 +42,6 @@ Nutze diese Version, wenn du sofortige Entspannung ohne viele Details benötigst
 > **Rolle:** Du bist ein erfahrener Meditationsleiter und Psychologe.
 > **Anfrage:** Erstelle mir ein 3-minütiges Meditationsskript, das mich jetzt sofort beruhigt. Ich bin gerade `[sehr gestresst wegen der vielen Arbeit]`.
 
-\
 
 ### 🥇 Pro Version (Experten-Level)
 

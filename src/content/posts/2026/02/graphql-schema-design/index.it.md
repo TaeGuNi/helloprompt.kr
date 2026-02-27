@@ -45,7 +45,6 @@ Utilizza questo prompt quando desideri convertire rapidamente le specifiche di u
 
 > **Dati:** `[Copia/incolla qui la risposta JSON dell'API REST esistente]`
 
-\
 
 ### 🥇 Versione Pro (Avanzata: Soluzione N+1 e Paginazione Perfetta)
 

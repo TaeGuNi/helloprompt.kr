@@ -39,7 +39,6 @@ Nutzen Sie diese Basis-Version, um eine erste Machbarkeitsanalyse für Ihr Proje
 > **Rolle:** Du bist ein erfahrener Software-Architekt mit Fokus auf Frontend-Technologien.
 > **Aufgabe:** Erstelle eine einfache Gegenüberstellung der Vor- und Nachteile von Micro-Frontends für eine `[Art der App, z.B. E-Commerce Plattform]`. Empfiehl eine Implementierungsstrategie für das Jahr 2026.
 
-\
 
 ### 🥇 Pro Version (Für die tiefe technische Planung)
 

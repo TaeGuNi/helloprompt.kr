@@ -42,7 +42,6 @@ Verwenden Sie diese Version, wenn Sie mitten im Spiel spontan ein interessantes 
 > **Rolle:** Du bist ein meisterhafter Game Designer und Geschichtenerzähler für Dark Fantasy.
 > **Aufgabe:** Erschaffe ein einzigartiges Schwert, das nicht nur Werte erhöht, sondern ein faszinierendes Gimmick und einen gefährlichen Fluch besitzt.
 
-\
 
 ### 🥇 Pro Version (Experten-Version)
 
@@ -129,6 +128,4 @@ Ein wirklich meisterhaftes Item lässt den Spieler zögern: _"Ich könnte sterbe
 
 Nutzen Sie diesen Prompt, um genau diese magischen Rollenspiel-Momente zu erschaffen. Viel Erfolg beim Schmieden Ihrer eigenen Legenden! ⚔️
 
-```
 
-```

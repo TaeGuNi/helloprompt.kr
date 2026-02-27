@@ -43,7 +43,6 @@ Use this when you need to instantly compile data under complex conditions that `
 >
 > **Task:** In the `[Data sheet]` within the `[A:E range]`, extract only the rows where `[Column C (Department) is 'Marketing' and Column D (Score) is 80 or above]`, and write a **QUERY function** to display them on a different sheet. After writing the function, briefly explain how it works so a beginner can understand.
 
-\
 
 ### 🥇 Pro Version (AppScript-Based Alert Automation)
 

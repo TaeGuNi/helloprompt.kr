@@ -42,7 +42,6 @@ Verwenden Sie dies, wenn Sie einfach nur schnell ein funktionierendes Skript ben
 > **Rolle:** Du bist ein erfahrener Linux-Systemadministrator.
 > **Aufgabe:** Schreibe ein Bash-Skript, das `[hier Ihre Aufgabe eintragen, z.B. alle .log-Dateien im aktuellen Ordner löscht]`.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

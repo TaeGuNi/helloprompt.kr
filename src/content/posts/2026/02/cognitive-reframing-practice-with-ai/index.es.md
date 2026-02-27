@@ -42,7 +42,6 @@ Este patrón de pensamiento destructivo se conoce como 'Distorsión Cognitiva'. 
 > **Rol:** Eres un experto en Terapia Cognitivo-Conductual (TCC) especializado en 'Reencuadre Cognitivo'.
 > **Solicitud:** Cuando te comparta un pensamiento negativo como 'Estoy arruinado', interpreta la situación desde una perspectiva objetiva y ayúdame a convertirlo en energía positiva y constructiva. El pensamiento de hoy es: `[Escribe tu pensamiento negativo aquí]`
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

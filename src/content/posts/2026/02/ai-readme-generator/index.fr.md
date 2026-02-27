@@ -44,7 +44,6 @@ Utilisez cette version lorsque vous souhaitez poser rapidement l'ossature de vot
 > **Rôle :** Tu es un `[Rédacteur Technique Senior]`.
 > **Tâche :** Rédige une ébauche de fichier `README.md` propre au format Markdown, en te basant sur la `[structure des fichiers]` et la `[stack technologique principale]` de mon projet.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 
@@ -67,9 +66,9 @@ Utilisez cette version lorsque vous avez besoin de détails impeccables alignés
 > - **Description courte :** `[Une phrase expliquant la valeur fondamentale du projet]`
 > - **Stack technique :** `[ex: React, TypeScript, TailwindCSS]`
 > - **Structure des fichiers :**
->   ```text
+>
 >   [Collez ici le résultat de la commande tree]
->   ```
+>
 >
 > **Contraintes (Constraints) :**
 >

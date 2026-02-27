@@ -39,7 +39,6 @@ Idéale pour obtenir un résumé rapide des points abordés sans exigence de mis
 > **Rôle :** Tu es un `[Assistant de Direction]`.
 > **Tâche :** Résume cette `[Transcription de réunion]` en listant les points principaux et les actions à réaliser de façon claire et concise.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

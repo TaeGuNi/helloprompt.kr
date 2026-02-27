@@ -42,7 +42,6 @@ Use this when you need a quick overview of your current supplements.
 > **Role:** You are an expert clinical pharmacist and clinical nutritionist.
 > **Request:** I am currently taking `[List your supplements]`. Please review this combination for any negative interactions, duplicate ingredients, and recommend an optimal daily intake schedule.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

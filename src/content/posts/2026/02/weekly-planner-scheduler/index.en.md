@@ -43,7 +43,6 @@ Use this when you need a quick, no-frills schedule based on a simple list.
 >
 > **Task:** I have too much to do and cannot organize my time. Please create a perfect weekly schedule based on priority for the following tasks: `[Insert your messy to-do list here]`.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

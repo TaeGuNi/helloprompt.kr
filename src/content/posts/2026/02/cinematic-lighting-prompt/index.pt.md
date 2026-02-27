@@ -44,7 +44,6 @@ Use isso quando precisar de um resultado rápido e dramático sem complicar muit
 >
 > **Task (Tarefa):** Gere a imagem de `[Tema ou Sujeito]` aplicando uma iluminação cinematográfica intensa e contrastante.
 
-\
 
 ### 🥇 Pro Version (Versão Profissional)
 

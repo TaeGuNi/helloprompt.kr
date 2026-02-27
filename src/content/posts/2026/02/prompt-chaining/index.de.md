@@ -40,7 +40,6 @@ Nutzen Sie diese Struktur für einfache, sequenzielle Aufgaben, bei denen das Er
 > **Schritt 1:** Fasse das folgende Dokument in 3 Kernpunkten zusammen: `[Dokument einfügen]`.
 > **Schritt 2:** Erstelle basierend auf diesen 3 Punkten einen kurzen Social-Media-Post.
 
-\
 
 ### 🥇 Pro Version (Pro-Version)
 

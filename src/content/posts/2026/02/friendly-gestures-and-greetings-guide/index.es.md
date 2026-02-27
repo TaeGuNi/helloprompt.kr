@@ -42,7 +42,6 @@ Un simple pulgar hacia arriba, que para muchos significa 'excelente', puede ser 
 > **Rol:** Eres un experto en comunicación intercultural.
 > **Solicitud:** Voy a viajar a `[País]`. Dime cuáles son los gestos con las manos que debo evitar para no ofender a nadie y enséñame 3 saludos básicos que a los locales les encante escuchar.
 
-\
 
 ### 🥇 Versión Pro (Nivel Consultor)
 

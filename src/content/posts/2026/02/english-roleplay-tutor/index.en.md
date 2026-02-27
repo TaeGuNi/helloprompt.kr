@@ -48,7 +48,6 @@ Use this for a quick rehearsal when you're feeling nervous before an overseas tr
 > **Task:**
 > Interrogate me about my purpose of visit, length of stay, accommodation details, and occupation. If my answers are unclear or I stutter, strictly warn me that you might deny my entry, treating this like a pressure interview. Start the conversation immediately with your first question.
 
-\
 
 ### 🥇 Pro Version
 

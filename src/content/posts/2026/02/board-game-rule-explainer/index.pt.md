@@ -48,7 +48,6 @@ Terraforming Mars, Gloomhaven, Ark Nova... O defeito fatal desses jogos de tabul
 > 2. Resuma em ordem as ações que posso realizar na minha vez (Turno).
 > 3. Aponte os 3 erros de regras mais comuns que as pessoas cometem na primeira partida.
 
-\
 
 ### 🥇 Versão Pro (Pro Version) {#pdf}
 
@@ -136,4 +135,3 @@ A verdadeira essência e diversão dos jogos de tabuleiro está em "jogar com al
 Deixe o trabalho chato de memorizar e interpretar regras para o seu assistente inteligente de IA. Você só precisa ler o olhar dos seus amigos do outro lado da mesa e focar 100% na guerra psicológica e nas estratégias emocionantes.
 
 Que tal abrir aquela caixa de jogo de tabuleiro empoeirada e rolar os dados esta noite? 🎲
-```

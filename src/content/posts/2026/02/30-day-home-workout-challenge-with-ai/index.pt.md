@@ -49,7 +49,6 @@ Use isto quando precisar de um treino rápido sem muita personalização.
 > **Papel:** Você é um personal trainer especialista em treinos em casa.
 > **Pedido:** Crie uma rotina de exercícios de 30 dias usando apenas o peso do corpo. Sem equipamentos. O treino deve mudar todos os dias para evitar o tédio.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

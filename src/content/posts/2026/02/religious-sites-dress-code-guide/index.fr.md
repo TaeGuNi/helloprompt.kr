@@ -48,7 +48,6 @@ Idéal pour une vérification rapide avant de faire sa valise.
 > **Rôle :** Tu es un guide touristique expert en cultures et coutumes religieuses du monde entier.
 > **Demande :** Je vais visiter `[Nom du Lieu]`. Dis-moi brièvement quel est le code vestimentaire exact pour éviter d'être refoulé à l'entrée.
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 

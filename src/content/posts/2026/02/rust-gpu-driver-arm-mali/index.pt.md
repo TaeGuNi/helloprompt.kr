@@ -42,7 +42,6 @@ Ideal para obter uma visão geral rápida do projeto e seus objetivos.
 > **Role:** Você é um Engenheiro de Sistemas Sênior especialista em Rust.
 > **Task:** Explique o que é o projeto 'Tyr' (driver Rust para Arm Mali). Foque em explicar as vantagens práticas de segurança de memória e concorrência que o Rust oferece em comparação com os drivers tradicionais escritos em C.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

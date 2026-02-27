@@ -44,7 +44,6 @@ tags: ["Midjourney", "캐릭터 디자인", "AI 아트", "일관성"]
 > **Midjourney Prompt:**
 > character sheet of a `[详细的角色描述]`, full body, white background, multiple views, front side and back view --v 6.0 --ar 3:2
 
-\
 
 ### 🥇 Pro Version (专业版)
 

@@ -43,7 +43,6 @@ Use this when you need a high-level architecture overview for a new LLM project.
 > **Role:** You are a Senior AI Architect.
 > **Task:** Design a basic RAG (Retrieval-Augmented Generation) pipeline for a `[Company Type]` company that wants to build a `[App Purpose]`. List the core technologies I need to use.
 
-\
 
 ### 🥇 Pro Version
 

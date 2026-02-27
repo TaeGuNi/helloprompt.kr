@@ -42,7 +42,6 @@ Verwenden Sie diese Version, wenn Sie sofort ein simples Grundgerüst benötigen
 > **Rolle:** Du bist ein erfahrener UI/UX-Designer und Senior Frontend-Entwickler.
 > **Aufgabe:** Generiere mir den Code für eine `[gewünschte UI, z.B. Profilkarte]` unter Verwendung von `[Tech-Stack, z.B. React und Tailwind]`.
 
-\
 
 ### 🥇 Pro Version (Experte)
 

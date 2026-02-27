@@ -44,7 +44,6 @@ Usa questo prompt quando hai deciso di usare Astro come stack tecnologico e vuoi
 > **Ruolo:** Sei un Senior Frontend Engineer e Tech Blogger.
 > **Compito:** Voglio costruire un blog per sviluppatori basato su Markdown (Markdown/MDX) utilizzando il framework Astro. Proponi la struttura completa delle cartelle del progetto e scrivi un esempio di codice di routing principale (`[slug].astro`) per leggere un file Markdown specifico e renderizzarlo come pagina di dettaglio.
 
-\
 
 ### 🥇 Versione Pro (Architettura Ibrida e Ottimizzazione delle Prestazioni)
 

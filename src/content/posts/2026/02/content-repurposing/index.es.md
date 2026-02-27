@@ -44,7 +44,6 @@ Sabemos cuánta sangre, sudor y lágrimas requiere planificar, grabar y editar u
 >
 > `[Pega aquí el guion del video]`
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

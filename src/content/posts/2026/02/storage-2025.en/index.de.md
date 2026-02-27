@@ -40,7 +40,6 @@ Nutzen Sie diese Version, wenn Sie schnell zusammengefasste Statistiken zu besti
 > **Rolle:** Du bist ein Senior Data Center Infrastructure Engineer und Speicherexperte.
 > **Aufgabe:** Empfehle basierend auf den Backblaze-Statistiken zu Laufwerksausfallraten von 2025 zwei HDD-Modelle mit hoher Kapazität (20 TB oder mehr), die für große Data Lakes für KI-Training geeignet sind, und begründe deine Auswahl.
 
-\
 
 ### 🥇 Pro Version (Experte)
 

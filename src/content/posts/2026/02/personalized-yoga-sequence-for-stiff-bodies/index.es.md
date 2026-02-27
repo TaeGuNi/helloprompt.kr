@@ -43,7 +43,6 @@ tags:
 > **Rol:** Eres un instructor de yoga experto en terapia de rehabilitación y movilidad.
 > **Solicitud:** Diseña una rutina de yoga suave de 10 minutos para un oficinista muy rígido que sufre de dolor lumbar y tensión en los hombros. Incluye modificaciones fáciles.
 
-\
 
 ### 🥇 Pro Version (Versión Profesional)
 

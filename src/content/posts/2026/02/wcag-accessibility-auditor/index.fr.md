@@ -43,12 +43,9 @@ Utilisez-la pour vérifier rapidement l'accessibilité d'un bouton ou d'un formu
 > **Tâche :** Analyse le code HTML ci-dessous pour identifier tout problème d'accessibilité lors de la navigation au clavier ou avec un lecteur d'écran, et corrige-le pour le rendre parfaitement sémantique.
 > **Code :**
 >
-> ```html
+>
 > [Collez votre code ici]
-> ```
-
-\
-
+>
 ### 🥇 Version Pro (Pro Version)
 
 Idéal pour auditer des composants d'interface utilisateur complexes nécessitant des interactions avancées (Modales, Menus déroulants, Onglets).
@@ -70,9 +67,9 @@ Idéal pour auditer des composants d'interface utilisateur complexes nécessitan
 >
 > **Code (Code) :**
 >
-> ```plaintext
+>
 > [Collez le code de votre composant ici]
-> ```
+>
 >
 > **Contraintes (Constraints) :**
 >

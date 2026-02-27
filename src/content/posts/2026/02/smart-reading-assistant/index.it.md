@@ -45,7 +45,6 @@ Usalo quando devi cogliere rapidamente solo il contesto chiave di un documento.
 > **Azione:** Leggi il testo seguente e riassumi i 3 punti chiave più importanti in modo che anche un principiante possa capirli facilmente.
 > **Testo:** `[Inserisci il testo qui]`
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

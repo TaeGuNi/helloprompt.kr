@@ -42,7 +42,6 @@ La mayor alegría de viajar es la gastronomía, pero no hay nada más frustrante
 > **Rol:** Eres un Inspector de la Guía Michelin y un Experto en Gastronomía Local.
 > **Solicitud:** Estoy en `[Ubicación]`. Recomiéndame 3 restaurantes auténticos a los que van los locales, excluyendo lugares turísticos. Dime qué plato debo pedir en cada uno.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

@@ -41,7 +41,6 @@ Nutzen Sie diese Basisversion für schnelle Zusammenfassungen von Fehlerprotokol
 > **Rolle:** Du bist ein `[Senior DevOps Engineer]`.
 > **Aufgabe:** Analysiere das folgende `[Fehlerprotokoll aus Slack]` und nenne mir sofort die wahrscheinlichste Ursache.
 
-\
 
 ### 🥇 Pro Version (Expertenform)
 

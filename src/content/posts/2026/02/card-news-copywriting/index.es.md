@@ -42,7 +42,6 @@ Para sobrevivir en el océano de contenido de las redes sociales, necesitas capt
 > **Rol:** Eres un `[Experto en Copywriting y Marketing de Redes Sociales]`.
 > **Solicitud:** Crea un prompt que extraiga 5 titulares poderosos y textos persuasivos para un carrusel (card news) de Instagram sobre `[tu tema]`. El objetivo es que los usuarios detengan su scroll inmediatamente al leer la primera imagen.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

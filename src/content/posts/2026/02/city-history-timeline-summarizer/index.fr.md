@@ -48,7 +48,6 @@ Idéal lorsque vous êtes déjà dans l'avion ou le train et que vous avez besoi
 > **Rôle :** Tu es un guide touristique expert doublé d'un historien passionnant.
 > **Requête :** Fais-moi un résumé chronologique très simple des 5 événements historiques majeurs de la ville de `[Nom de la ville]`, et dis-moi quel monument ou attraction actuelle correspond à chaque événement.
 
-\
 
 ### 🥇 Version Pro (Expertise Avancée)
 

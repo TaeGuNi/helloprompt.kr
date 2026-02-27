@@ -43,7 +43,6 @@ Nutze diesen Prompt, wenn du sofortige Inspiration ohne viele Details benötigst
 >
 > **Aufgabe:** Vom geheimnisvollen Elfenwald bis zur dunklen Zwergenmine – generiere 10 einzigartige und faszinierende Namen für Orte und Städte, die perfekt in eine High-Fantasy-Welt passen.
 
-\
 
 ### 🥇 Pro Version (Experte)
 

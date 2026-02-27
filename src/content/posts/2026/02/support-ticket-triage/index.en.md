@@ -43,7 +43,6 @@ Use this when you just need quick and simple categorization.
 > **Task:** Read the following inquiry, determine its `[Category]` and `[Urgency (High/Medium/Low)]`, and provide the result.
 > **Input:** `[Paste the customer's inquiry here]`
 
-\
 
 ### 🥇 Pro Version
 

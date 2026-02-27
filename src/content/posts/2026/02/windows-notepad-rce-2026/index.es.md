@@ -42,7 +42,6 @@ El reciente descubrimiento del **CVE-2026-20841** ha sacudido a la comunidad de 
 > **Rol:** Eres un `[Analista de Ciberseguridad Senior]`.
 > **Tarea:** Explícame la vulnerabilidad `[CVE-2026-20841 en Windows Notepad]` de forma sencilla para perfiles no técnicos y dame 3 pasos inmediatos para proteger los servidores de mi empresa.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

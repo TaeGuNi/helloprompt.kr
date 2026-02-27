@@ -42,7 +42,6 @@ Si no cuentas con un fondo de emergencia, cualquier gasto imprevisto te empujar�
 > **Rol:** Eres un experto en gestión de riesgos financieros y finanzas personales.
 > **Solicitud:** Calcula el tamaño óptimo de mi fondo de emergencia para que mis finanzas no colapsen ante una pérdida repentina de empleo o un accidente, considerando que mis gastos fijos son de `[2.000 USD]` al mes.
 
-\
 
 ### 🥇 Versión Pro (Profesional)
 

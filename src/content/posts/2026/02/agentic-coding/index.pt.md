@@ -43,7 +43,6 @@ Ideal para criar rapidamente o esqueleto de uma única funcionalidade.
 > **Função (Role):** Você é um desenvolvedor sênior especialista em `[Next.js]`.
 > **Tarefa (Task):** Adicione um `[recurso de coleta de feedback do usuário]` ao projeto atual. Gere automaticamente e conecte todos os componentes de UI e rotas de API necessários.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

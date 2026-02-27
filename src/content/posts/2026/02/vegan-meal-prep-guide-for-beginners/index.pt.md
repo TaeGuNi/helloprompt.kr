@@ -42,7 +42,6 @@ Utilize este prompt quando precisar de ideias rápidas para cozinhar hoje.
 > **Role (Papel):** Você é um chef especialista em culinária vegana e um entusiasta do Meal Prep (preparação de marmitas).
 > **Task (Tarefa):** Crie um cardápio semanal de marmitas veganas que sejam ricas em proteínas, fáceis de preparar e que garantam saciedade mesmo sem o uso de carne.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

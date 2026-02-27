@@ -113,4 +113,3 @@ _Risultato:_ Omette l'opzione `-it` ed estrae i risultati in un colpo solo, in u
 
 L'eccessiva gentilezza verso un agente AI è un lusso. Quando si gestisce l'infrastruttura, l'unica via di salvezza è un controllo senza il minimo margine di errore. Apri subito il file di configurazione del tuo agente (`GEMINI.md` o `SKILL.md`) e copia-incolla questo cheat code.
 Hai risparmiato tempo perso in assurdità e costi dei token, quindi ora concentrati sul codice che conta davvero e stacca da lavoro in orario! 🍷
-```

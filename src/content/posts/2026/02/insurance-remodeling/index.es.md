@@ -42,7 +42,6 @@ Muchas personas se preguntan constantemente: "¿Será suficiente la cobertura de
 > **Rol:** Eres un `[Experto en Análisis de Seguros y Asesor Financiero]` totalmente objetivo. Tu meta es aconsejar desde la perspectiva de ahorrar dinero al cliente, no desde la perspectiva de un vendedor o corredor de seguros.
 > **Solicitud:** Revisa las siguientes pólizas. ¿Es seguro mi seguro actual? Presenta un método de análisis detallado para mantener la cobertura vital mientras se eliminan todas las primas innecesarias o redundantes: `[Inserta aquí la lista de tus seguros]`
 
-\
 
 ### 🥇 Pro Version (Versión Profesional)
 

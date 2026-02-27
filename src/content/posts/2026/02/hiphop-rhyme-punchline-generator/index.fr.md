@@ -42,7 +42,6 @@ Utilisez ce prompt quand vous cherchez juste une inspiration immédiate pour dé
 > **Rôle :** Tu es un rappeur de génie et un parolier (ghostwriter) de haut niveau.
 > **Requête :** Écris-moi 4 mesures de rap sur le thème de `[la détermination]`. Fais rimer les fins de phrases avec la sonorité `[eur / ar]`. Inclus une punchline marquante.
 
-\
 
 ### 🥇 Pro Version (Version Expert)
 

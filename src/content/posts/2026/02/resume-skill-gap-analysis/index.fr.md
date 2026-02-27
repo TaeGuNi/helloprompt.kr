@@ -43,7 +43,6 @@ Utilisez ce prompt pour obtenir une évaluation rapide et directe.
 > **Rôle :** Tu es un coach de carrière expert et un recruteur intransigeant.
 > **Requête :** Compare la description de poste (JD) suivante et mon CV pour identifier les compétences manquantes (Skill Gap) et propose-moi une stratégie pour compenser ces faiblesses.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

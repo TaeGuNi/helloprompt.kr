@@ -39,7 +39,6 @@ Use this when you need a rapid breakdown of a single image or audio snippet.
 > **Role:** You are an expert `[Role, e.g., UI Designer / Audio Analyst]`.
 > **Task:** Analyze this attached `[File Type, e.g., Image/Audio]` and provide 3 immediate areas for improvement.
 
-\
 
 ### 🥇 Pro Version (Deep Multimodal Reasoning)
 

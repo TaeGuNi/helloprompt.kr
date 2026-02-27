@@ -42,7 +42,6 @@ Utilizza questa versione senza impostazioni complesse quando passi le notti in b
 > **Ruolo:** Sei un esperto di meditazione per il sonno.
 > **Richiesta:** Domani ho un impegno importante e l'ansia non mi fa dormire. Scrivi uno script di meditazione di 5 minuti utilizzando la tecnica del 'Body Scan' per aiutarmi a rilassare completamente il corpo e scivolare in un sonno profondo. Sottolinea la sensazione di rilassamento lentissimo, partendo dalla punta dei piedi fino alla cima della testa.
 
-\
 
 ### 🥇 Pro Version (Gestione Emotiva Personalizzata)
 

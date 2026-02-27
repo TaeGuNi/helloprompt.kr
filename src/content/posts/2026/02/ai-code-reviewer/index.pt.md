@@ -44,7 +44,6 @@ Use isso quando precisar de um feedback rápido e direto.
 > **Role:** Você é um Engenheiro de Software Sênior.
 > **Task:** Revise o seguinte código, aponte os erros e sugira melhorias focando em legibilidade e desempenho: `[Insira seu código aqui]`
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

@@ -49,7 +49,6 @@ Usala quando hai bisogno di un'ispirazione rapida senza troppi dettagli.
 > **Ruolo:** Sei un esperto 'Editore di una Rivista di Musica Indie' specializzato nella scena musicale di `[Nome Città]`.
 > **Richiesta:** Basta con la noiosa musica di sottofondo nei ristoranti per turisti. Consigliami 3 locali con musica dal vivo dove posso sentire la vera energia dei musicisti locali.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

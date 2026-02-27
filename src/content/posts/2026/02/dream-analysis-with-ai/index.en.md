@@ -44,7 +44,6 @@ Use this when you want to quickly grasp the rough meaning of your dream on your 
 > **Role:** You are a psychology-based dream analyst.
 > **Task:** Interpret the `[Dream Content]` I had from a psychological perspective. Point out what the main symbols mean and infer how they might relate to my current psychological state.
 
-\
 
 ### 🥇 Pro Version
 

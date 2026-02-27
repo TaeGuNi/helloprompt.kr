@@ -43,7 +43,6 @@ Idéal pour poser rapidement les fondations d'une fonctionnalité unique.
 > **Rôle :** Tu es un développeur Senior expert en `[Next.js]`.
 > **Tâche :** Ajoute une fonctionnalité de `[collecte de retours utilisateurs]` au projet actuel. Génère et connecte automatiquement tous les composants UI et les routes API nécessaires.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

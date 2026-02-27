@@ -42,7 +42,6 @@ tags: ["AI", "Tech", "prompt-chaining-2026"]
 >
 > **步骤 2：** 基于你提取的关键指标，总结出三个主要的商业趋势。
 
-\
 
 ### 🥇 Pro Version (专业版)
 

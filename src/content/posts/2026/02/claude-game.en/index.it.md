@@ -38,7 +38,6 @@ Utilizza questo prompt per impostare la struttura iniziale del progetto e testar
 > **Ruolo:** Sei un Senior Game Client Developer.
 > **Task:** Crea un gioco di golf 2D basato su browser utilizzando HTML5 Canvas. Deve includere una pallina, una buca (Hole) e una meccanica "drag-to-shoot" (trascina per lanciare) con il mouse.
 
-\
 
 ### 🥇 Versione Pro
 

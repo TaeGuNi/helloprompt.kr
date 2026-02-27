@@ -42,7 +42,6 @@ Use this when you need a fast, reliable recommendation on the go.
 > **Role:** You are a Michelin Guide inspector and a local culinary expert.
 > **Request:** I want to avoid tourist traps. Recommend 3 highly-rated, authentic local restaurants near `[Location]` that serve `[Cuisine]`.
 
-\
 
 ### 🥇 Pro Version (Detailed & Expert)
 

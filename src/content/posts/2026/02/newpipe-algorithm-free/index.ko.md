@@ -41,7 +41,6 @@ tags: ["AI", "Tech", "newpipe-algorithm-free"]
 > **역할:** 너는 트렌드 분석에 능한 `[시니어 PM]`이야.
 > **요청:** 현재 `[서비스명]`에 알고리즘 추천 피드를 제거하거나 '조용한 소비(Quiet Consumption)' 기능을 도입하기 위한 핵심 아이디어 3가지를 제안해 줘.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

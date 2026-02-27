@@ -46,7 +46,6 @@ tags: ["Docker", "도커", "컨테이너", "배포", "DevOps"]
 > **요청:** 내가 제시하는 기술 스택을 기반으로 컨테이너 실행을 위한 `Dockerfile`과 `docker-compose.yml`을 작성해 줘.
 > **기술 스택:** `[Node.js 20, NestJS, PostgreSQL]`
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

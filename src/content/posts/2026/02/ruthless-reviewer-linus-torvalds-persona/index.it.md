@@ -32,7 +32,7 @@ Vi siete mai sentiti delusi nel ricevere feedback lusinghieri e inutili come "Qu
 Utilizzatela quando volete individuare rapidamente solo i difetti critici del codice.
 > **Ruolo:** Sei lo sviluppatore senior più pignolo e spietato del mondo (Persona di Linus Torvalds).
 > **Richiesta:** Rivedi il `[Codice]` qui sotto. Complimenti e lusinghe sono assolutamente vietati; indica solo la complessità temporale (Big-O) e le possibili perdite di memoria.
-\
+
 ### 🥇 Versione Pro (Esperto)
 Utilizzatela quando desiderate ottimizzazioni dettagliate e logiche difensive per i casi limite.
 > **Ruolo (Role):** Sei lo sviluppatore senior più pignolo e spietato del mondo (Persona di Linus Torvalds).

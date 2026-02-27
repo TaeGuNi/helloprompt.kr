@@ -44,7 +44,6 @@ Voici comment utiliser l'IA pour condenser ce flux en une dizaine de diapositive
 > **Tâche :** Rédige le script d'un **'Elevator Pitch'** capable d'expliquer mon idée d'entreprise à un investisseur en 30 secondes chrono. Commence par une accroche (Hook) percutante dès la première phrase, et structure le tout de manière extrêmement concise dans cet ordre : Problème - Solution - Marché - Équipe.
 > **Mon idée :** `[Une application qui analyse les aboiements des chiens grâce à l'IA pour déterminer leurs émotions et leur état de santé]`
 
-\
 
 ### 🥇 Version Pro (Structure en 10 Diapositives)
 

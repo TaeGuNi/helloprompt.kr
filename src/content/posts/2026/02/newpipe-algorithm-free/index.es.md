@@ -41,7 +41,6 @@ Sin embargo, la marea está cambiando. Estamos presenciando un giro significativ
 > **Rol:** Eres un experto en minimalismo digital.
 > **Petición:** Recomiéndame 5 fuentes de información (blogs, canales RSS, newsletters independientes) sobre `[Tu Tema de Interés]` que no dependan de los algoritmos de las redes sociales.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

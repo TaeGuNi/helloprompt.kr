@@ -47,7 +47,6 @@ Ideal para quando você precisa de um panorama rápido e direto ao ponto.
 > **[Dados do Git Diff]**
 > `[Cole o resultado do git diff ou a descrição do PR aqui]`
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

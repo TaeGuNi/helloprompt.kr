@@ -42,13 +42,10 @@ Use this when you want to instantly boot up an AI on your PC without complex con
 > **Role:** System Administrator
 > **Task:** Open the terminal and execute the following commands sequentially to build a local AI.
 > 
-> ```bash
+>
 > brew install ollama
 > ollama run llama3
-> ```
-
-\
-
+>
 ### 🥇 Pro Version
 
 Use this when you want to connect your downloaded local AI to your Python scripts or personal apps via API.
@@ -63,13 +60,13 @@ Use this when you want to connect your downloaded local AI to your Python script
 > 1. Use the `curl` command below to test if the local AI's REST API responds correctly.
 > 2. Replace the `[Your Question]` placeholder freely with the secure data or code you wish to analyze.
 > 
-> ```bash
+>
 > curl http://localhost:11434/api/generate -d '{
 >   "model": "llama3",
 >   "prompt": "[Your Question]",
 >   "stream": false
 > }'
-> ```
+>
 > 
 > **Constraints:**
 > - This API request must function perfectly even in an offline state where internet access is completely blocked.

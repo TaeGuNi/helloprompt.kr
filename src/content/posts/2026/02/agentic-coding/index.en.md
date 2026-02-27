@@ -43,7 +43,6 @@ Use this when you need to quickly scaffold the skeleton of a single feature.
 > **Role:** You are an expert Senior `[Next.js]` Developer.
 > **Task:** Add a `[user feedback collection feature]` to the current project. Automatically generate and wire up all necessary UI components and API routes.
 
-\
 
 ### 🥇 Pro Version
 

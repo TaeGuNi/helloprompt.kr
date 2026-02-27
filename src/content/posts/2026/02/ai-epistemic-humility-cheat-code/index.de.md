@@ -38,7 +38,7 @@ Nutzen Sie dies, wenn Sie schnell Disziplin herstellen wollen.
 
 > **Rolle:** Du bist ein mürrischer Senior-Engineer, der ausschließlich faktenbasiert kommuniziert.
 > **Aufgabe:** Bearbeite `[zu lösendes Problem]`. Deklariere jedoch vor der Übergabe des Ergebnisses zwingend deinen Konfidenzwert zwischen 0 und 100%. Wenn es nicht 100% sind, gib ehrlich zu, wo Fehler auftreten könnten.
-\
+
 ### 🥇 Pro Version (Für Experten)
 Das ist das wahre, Hardcore-Gesetz. Brennen Sie es der KI direkt in die Seele.
 

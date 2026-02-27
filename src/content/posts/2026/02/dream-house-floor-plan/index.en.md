@@ -46,7 +46,6 @@ Use this when you want to quickly visualize the overall exterior vibe and archit
 >
 > **Prompt:** modern minimal house exterior, white concrete and wood, large glass windows, nature surrounding, warm lighting, photorealistic, 8k --ar 16:9
 
-\
 
 ### 🥇 Pro Version (Floor Plan & Isometric)
 

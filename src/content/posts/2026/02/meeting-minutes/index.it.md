@@ -45,7 +45,6 @@ Ideale per ottenere una panoramica rapida al volo, quando hai solo bisogno di ca
 >
 > **Input:** `[Incolla qui il testo o la trascrizione della riunione]`
 
-\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

@@ -45,7 +45,6 @@ Use esta versão quando precisar entender rapidamente o conceito central e as di
 >
 > **Task (Tarefa):** Compare de forma clara as 3 principais diferenças entre os frameworks LangChain e LlamaIndex. Explique especificamente qual ferramenta tem vantagem em termos de desempenho de "Indexação de Dados (Indexing) e Recuperação (Retrieval)", fornecendo motivos técnicos concretos e fáceis de entender.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

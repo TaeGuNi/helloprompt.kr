@@ -44,7 +44,6 @@ Ideal para transições rápidas de escopo, forçando a IA a planejar antes de c
 > **Role:** Você é um Engenheiro de Software Sênior autônomo (GLM-5).
 > **Task:** Analise o problema a seguir e forneça um plano de execução passo a passo detalhado antes de escrever qualquer linha de código: `[problema/código]`
 
-\
 
 ### 🥇 Versão Especialista (Pro)
 

@@ -46,7 +46,6 @@ Cursor나 최신 VS Code Copilot Agent 같은 도구들은 더 이상 코드에 
 > **역할:** 너는 `[프론트엔드 개발자]`야.
 > **요청:** `[UserProfile.tsx]` 컴포넌트가 너무 큽니다. UI와 비즈니스 로직을 분리해서 별도의 파일들로 쪼개줘.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

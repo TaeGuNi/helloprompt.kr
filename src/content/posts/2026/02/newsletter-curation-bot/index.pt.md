@@ -45,7 +45,6 @@ Use esta versão quando precisar apenas absorver o cerne da notícia em poucos s
 > **Artigo Completo:**
 `[Cole o texto da notícia aqui]`
 
-\
 
 ### 🥇 Versão Pro (Criação de Rascunho Profissional)
 

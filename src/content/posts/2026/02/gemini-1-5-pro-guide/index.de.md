@@ -50,7 +50,6 @@ Verwenden Sie diesen Prompt, wenn Sie schnell und gezielt Kerninformationen aus 
 > 1. Fasse die 3 wichtigsten Kernaussagen in Stichpunkten (Bullet Points) zusammen.
 > 2. Gib zwingend die **Seitenzahl** des Originaldokuments an, die als Beleg für die jeweilige Aussage dient.
 
-\
 
 ### 🥇 Pro Version (Tiefenanalyse der gesamten Codebasis)
 

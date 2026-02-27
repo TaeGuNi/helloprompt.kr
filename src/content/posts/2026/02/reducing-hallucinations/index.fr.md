@@ -40,7 +40,6 @@ Idéal pour les recherches rapides où vous avez besoin de limiter les risques s
 > **Requête :** Explique-moi `[Votre Sujet]`.
 > **Règle stricte :** Si tu ne connais pas la réponse avec une certitude absolue, dis simplement "Je ne sais pas". Cite systématiquement tes sources pour chaque affirmation.
 
-\
 
 ### 🥇 Pro Version (Version Expert CoVe)
 

@@ -42,7 +42,6 @@ Use this when you need a quick, no-fuss cleanup for a small snippet.
 > **Role:** You are a `[Senior Software Architect and Clean Code Evangelist]`.
 > **Task:** Refactor the provided code snippet. Transform this messy, barely-working code into highly readable, maintainable, and idiomatic clean code.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

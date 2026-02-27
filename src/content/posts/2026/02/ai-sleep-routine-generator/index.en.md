@@ -42,7 +42,6 @@ Use this when you want a straightforward, no-nonsense bedtime schedule.
 > **Role:** You are a behavioral psychologist and elite sleep coach specializing in habit formation.
 > **Task:** Design a highly effective, frictionless sleep routine that conditions my brain to fall asleep quickly, utilizing principles of classical conditioning.
 
-\
 
 ### 🥇 Pro Version (Deep Customization)
 

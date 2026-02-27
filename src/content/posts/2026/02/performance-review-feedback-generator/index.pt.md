@@ -42,7 +42,6 @@ Use esta versão quando precisar de um rascunho rápido para uma avaliação sim
 > **Papel:** Você é um Treinador de Liderança Executiva e Especialista em RH.
 > **Solicitação:** Preciso escrever um feedback de avaliação para um membro da equipe. Ele entregou o projeto X no prazo, mas tem tido problemas de pontualidade nas reuniões diárias. Escreva um feedback construtivo, empático e profissional.
 
-\
 
 ### 🥇 Versão Pro (Especialista)
 

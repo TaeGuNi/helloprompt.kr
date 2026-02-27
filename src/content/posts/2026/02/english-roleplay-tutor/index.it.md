@@ -48,7 +48,6 @@ Usalo come prova generale quando sei nervoso prima di un viaggio all'estero o un
 > **Richiesta (Task):**
 > Fammi domande a raffica sullo scopo della mia visita, la durata del soggiorno, l'indirizzo del mio alloggio e la mia professione. Se le mie risposte sono vaghe o balbetto, comportati come se stessi conducendo un interrogatorio sotto pressione, minacciando severamente di negarmi l'ingresso. Inizia subito con la prima domanda.
 
-\
 
 ### 🥇 Versione Pro (Small Talk Aziendale e Preparazione Esami)
 

@@ -44,7 +44,6 @@ Verwenden Sie diese Version, wenn Sie nur schnell ein brauchbares Ergebnis benö
 > **Rolle:** Du bist ein Senior TypeScript-Entwickler.
 > **Anfrage:** Konvertiere dieses JSON in TypeScript-Interfaces und Zod-Schemata.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

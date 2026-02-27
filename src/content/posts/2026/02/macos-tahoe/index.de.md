@@ -40,7 +40,6 @@ Nutzen Sie diesen Prompt, wenn Sie das Problem schnell und präzise auf den Punk
 > **Rolle:** Du bist ein Senior QA-Tester für macOS.
 > **Aufgabe:** Formuliere einen kurzen, professionellen Fehlerbericht (Bug Report) über das "Intelligent Edge"-Feature in macOS Tahoe. Betone, dass die KI-Vorhersage beim Vergrößern von Fenstern die pixelgenaue Kontrolle für Designer stört. Bitte um eine Option zum Deaktivieren in den Systemeinstellungen.
 
-\
 
 ### 🥇 Pro Version (Für tiefgehende UX-Analysen)
 

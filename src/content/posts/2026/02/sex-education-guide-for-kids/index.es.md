@@ -42,7 +42,6 @@ Si balbuceas, cambias de tema o inventas historias fantasiosas, el niño puede p
 > **Rol:** Eres un experto en psicología infantil y educación sexual.
 > **Solicitud:** Dame una respuesta breve y natural para explicarle a un niño de `[Edad]` años cómo se hacen los bebés, sin usar metáforas confusas.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

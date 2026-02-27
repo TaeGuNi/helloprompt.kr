@@ -44,7 +44,6 @@ Use this when you just need a quick categorization of your emails without detail
 > **Role:** You are an `[Executive Assistant]`.
 > **Task:** Please categorize these `[raw emails]` into 'Urgent', 'To Read', and 'Ignore', and give me a 1-sentence summary for the urgent ones.
 
-\
 
 ### 🥇 Pro Version
 

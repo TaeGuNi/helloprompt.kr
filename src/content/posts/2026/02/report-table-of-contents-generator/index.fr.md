@@ -42,7 +42,6 @@ Utilisez ceci lorsque vous avez juste besoin d'une structure rapide pour démarr
 > **Rôle :** Tu es le Directeur de la Stratégie d'une grande entreprise.
 > **Demande :** Rédige un plan de rapport très structuré sur le sujet `[Votre sujet]`. Mets en évidence le flux logique.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

@@ -45,7 +45,6 @@ Utilisez cette approche lorsque vous avez besoin d'un résultat immédiat sans c
 > **Requête :** Convertis les données CSV suivantes en un tableau JSON. Change les clés en anglais (ex: 'Nom' -> 'name', 'Âge' -> 'age').
 > [Insérez vos données ici]
 
-\
 
 ### 🥇 Pro Version (Version Experte)
 
@@ -66,9 +65,9 @@ Utilisez ce prompt pour des conversions complexes, des données imbriquées, ou 
 >
 > **Données Source (Source Data) :**
 >
-> ```
+>
 > [Insérez les données brutes ici]
-> ```
+>
 >
 > **Règles de Conversion (Rules) :**
 >

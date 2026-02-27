@@ -50,7 +50,6 @@ Lee el documento completo y extrae únicamente la información relacionada con '
 1. Resume los 3 insights más importantes utilizando viñetas (bullet points).
 2. Debes incluir obligatoriamente el **número de página** original que respalda cada insight.
 
-\
 
 ### 🥇 Versión Pro (Análisis Profundo de Código Base)
 

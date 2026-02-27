@@ -61,7 +61,6 @@ Use this when you need a quick logic check or a fast code review.
 > **Role:** You are a Staff Software Engineer and AI Architect.
 > **Task:** Review the following `[Code Snippet]` for security vulnerabilities and optimize it for a multi-threaded environment. Provide the refactored code immediately.
 
-\
 
 ### 🥇 Pro Version
 

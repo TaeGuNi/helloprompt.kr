@@ -47,7 +47,6 @@ Ideal para gerar clipes rápidos para redes sociais, b-rolls genéricos ou teste
 > **Função:** Você é um `[Diretor de Fotografia]`.
 > **Ação:** Crie uma cena realista de `[Cenário ou Ação]`.
 
-\
 
 ### 🥇 Versão Profissional (Pro Version)
 

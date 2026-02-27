@@ -44,7 +44,6 @@ Idéal lorsque vous avez besoin d'une modification immédiate ou de générer du
 > **Prompt :**
 Refactorise la fonction actuellement sélectionnée pour utiliser l'asynchronisme (`async/await`) et ajoute une gestion détaillée des erreurs à l'aide d'un bloc `try-catch`.
 
-\
 
 ### 🥇 Version Pro (Refactoring Global de la Base de Code)
 

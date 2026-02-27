@@ -43,7 +43,6 @@ Utilisez-la pour des tests rapides et des recherches légères.
 > **Rôle :** Tu es un `[Agent de recherche]`.
 > **Tâche :** Effectue une recherche sur le web concernant `[Question de l'utilisateur]` et résume les résultats en te basant sur des faits.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

@@ -49,7 +49,6 @@ Verwenden Sie diesen Prompt, wenn Sie sofort loslegen möchten.
 > **Rolle:** Du bist ein professioneller Bodybuilding-Coach mit 20 Jahren Erfahrung.
 > **Aufgabe:** Erstelle für mich als Fitness-Anfänger einen sicheren Trainingsplan für den Muskelaufbau. Konzentriere dich dabei ausschließlich auf geführte Maschinen, um das Verletzungsrisiko zu minimieren.
 
-\
 
 ### 🥇 Pro Version (Experte)
 

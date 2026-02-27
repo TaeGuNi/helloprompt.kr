@@ -42,7 +42,6 @@ Use this prompt when you are too overwhelmed to type and just need immediate, ac
 > **Role:** You are an expert psychotherapist and neuroscientist.
 > **Request:** I am feeling extremely stressed right now because of `[Reason for stress]`. Give me 3 scientifically proven, immediate ways to calm my nervous system without leaving my current location.
 
-\
 
 ### 🥇 Pro Version (Expert Coping Mechanism)
 

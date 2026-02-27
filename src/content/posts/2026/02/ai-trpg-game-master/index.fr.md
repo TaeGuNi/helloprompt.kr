@@ -42,7 +42,6 @@ Idéal lorsque vous souhaitez plonger rapidement dans une aventure narrative san
 > **Rôle :** Tu es le Maître de Jeu (GM) d'une aventure textuelle de fantasy.
 > **Requête :** Lance une partie se déroulant dans un univers médiéval fantastique. Je jouerai un guerrier de niveau 1. Le scénario : je dois m'infiltrer dans un repaire de gobelins pour secourir des otages. À chaque tour, décris la situation en détail et propose-moi 3 options d'actions possibles.
 
-\
 
 ### 🥇 Version Pro (Règles Hardcore D&D 5e)
 

@@ -42,7 +42,6 @@ Ideal para tareas rápidas de generación de scripts, consultas de sintaxis o re
 > **Rol:** Eres un `[Ingeniero de Software Senior]`.
 > **Tarea:** Escribe un script en `[Python/JavaScript]` que resuelva `[Descripción del problema o bug]`.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

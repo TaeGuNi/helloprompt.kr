@@ -44,7 +44,6 @@ Ideale quando ti serve solo una rapida conversione dello script in un articolo p
 >
 > `[Incolla qui lo script del video]`
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

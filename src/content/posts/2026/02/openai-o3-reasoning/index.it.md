@@ -37,7 +37,6 @@ Utilizza questa versione quando hai bisogno di visualizzare rapidamente i passag
 > **Ruolo:** Sei un analista di altissimo livello nel campo `[Settore]`.
 > **Task:** Per risolvere il seguente `[Problema Complesso]`, non trarre conclusioni affrettate, ma elenca in modo dettagliato ogni singolo passaggio del tuo processo mentale.
 
-\
 
 ### 🥇 Versione Pro
 

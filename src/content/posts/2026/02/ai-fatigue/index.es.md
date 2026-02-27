@@ -43,7 +43,6 @@ Si solo quieres un respiro rápido y efectivo, aplica esta regla hoy mismo.
 > **Regla:** "Desactiva las notificaciones de noticias sobre IA durante todo un fin de semana."
 > **Acción:** No pruebes ninguna herramienta nueva a menos que resuelva un problema crítico e inmediato que tengas en este preciso instante.
 
-\
 
 ### 🥇 Pro Version (Auditoría de IA)
 

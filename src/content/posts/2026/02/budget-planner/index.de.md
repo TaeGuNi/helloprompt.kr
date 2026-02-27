@@ -42,7 +42,6 @@ Verwenden Sie dies, wenn Sie schnelle, grundlegende Ergebnisse benötigen.
 > **Rolle:** Du bist ein `[Finanzexperte]`.
 > **Anfrage:** Erstelle mir einen monatlichen Budgetplan basierend auf meinem `[Gehalt]` und meinen `[Fixkosten]`.
 
-\
 
 ### 🥇 Pro Version (Experten-Prompt)
 

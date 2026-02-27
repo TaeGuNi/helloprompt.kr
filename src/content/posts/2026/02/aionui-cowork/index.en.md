@@ -44,7 +44,6 @@ Use this when you want to assign a single task quickly and monitor the results v
 > **Role:** You are a `[Senior Developer]`.
 > **Task:** Fix the `[Specific Feature/Bug]` in the current project. Before making any changes, you must brief me on exactly which files you plan to modify. Output your changes step-by-step so they are easy to verify in AionUi.
 
-\
 
 ### 🥇 Pro Version
 

@@ -85,10 +85,9 @@ Utilisez ce prompt immédiatement après avoir laissé l'IA générer du code po
 >
 > - **Extrait de code :**
 >
-> ```plaintext
+>
 > [Collez ici le code à évaluer]
-> ```
-
+>
 ---
 
 ## 💡 L'avis de l'Expert (Insight)

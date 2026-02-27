@@ -43,7 +43,6 @@ Ideal para entender rapidamente se o Rust atende às necessidades do seu projeto
 > **Role:** Você é um Arquiteto de Software Sênior especialista em Rust.
 > **Task:** Analise meu `[Caso de Uso do Projeto]` e me diga se o uso de Rust (com Axum/Leptos) é a escolha correta e pragmática em 2026. Se for, gere um scaffold básico da arquitetura.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

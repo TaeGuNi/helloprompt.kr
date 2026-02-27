@@ -44,7 +44,6 @@ Use this to sharpen your logical arguments and build a baseline script before th
 > **Context:** I am a Marketer with 3 years of experience. My previous salary was $40,000, and my target is $50,000.
 > **Request:** I am going to ask for $50,000. Your job is to logically refute my request, be extremely picky, and try to make me speechless. Start the conversation by asking for my expected salary.
 
-\
 
 ### 🥇 Pro Version (Voice Mode Training)
 

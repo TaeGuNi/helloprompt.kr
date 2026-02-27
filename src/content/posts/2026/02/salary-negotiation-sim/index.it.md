@@ -44,7 +44,6 @@ Ideale per testare rapidamente la tenuta logica delle tue argomentazioni tramite
 > **Contesto:** Sono un Digital Marketer con 3 anni di esperienza. Il mio stipendio precedente era di 40.000€. Attualmente sto richiedendo una RAL di 50.000€.
 > **Richiesta:** Quando ti presento la mia richiesta di 50.000€, devi contestarla aspramente. Sii meticoloso, solleva dubbi sul mio effettivo valore e cerca di mettermi in difficoltà con obiezioni logiche. Lasciami senza parole.
 
-\
 
 ### 🥇 Pro Version (Modello Esperto)
 

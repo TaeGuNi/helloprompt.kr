@@ -40,7 +40,6 @@ Nutzen Sie diese Basis-Struktur, wenn Sie schnell Bild, Ton oder Video mit einer
 > **Eingabe:** `[Angehängtes Bild / Audio / Video]`
 > **Anfrage:** Optimiere den markierten Bereich in dieser Datei.
 
-\
 
 ### 🥇 Pro Version (Experten-Level)
 

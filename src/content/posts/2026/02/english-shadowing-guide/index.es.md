@@ -45,7 +45,6 @@ Sin embargo, la historia cambia cuando usas la IA como tu "coach personal de pro
 > **Diálogo:** `["I don't know if I can handle this anymore."]`
 > **Tarea:** Traduce esta frase de manera natural según el contexto, y crea 3 ejemplos adicionales de la vida real usando palabras clave o expresiones como `[handle]`.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

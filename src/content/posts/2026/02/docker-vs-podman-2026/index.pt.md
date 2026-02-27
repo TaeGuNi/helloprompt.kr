@@ -43,7 +43,6 @@ Use este prompt quando quiser verificar e adaptar instantaneamente seus comandos
 >
 > **Task:** Quero que você converta meu comando ou script Docker existente `[Seu comando ou script docker run atual]` para que funcione perfeitamente no modo Rootless do Podman. Especifique os possíveis erros relacionados a redes bridge e permissões de montagem de volumes (incluindo o contexto do SELinux) e forneça as soluções exatas e comandos de correção para cada problema.
 
-\
 
 ### 🥇 Versão Pro (Conversão Completa de docker-compose para K8s)
 
@@ -66,9 +65,9 @@ Este é um prompt poderoso e focado em engenharia de produção. Utilize-o para 
 >
 > - Ambiente Alvo: `[Exemplo: AWS EC2 t3.medium, RAM 4GB]`
 > - docker-compose.yml atual:
->   ```yaml
+>
 >   [Cole o conteúdo do seu docker-compose.yml existente aqui]
->   ```
+>
 >
 > **Constraints:**
 >

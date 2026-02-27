@@ -42,7 +42,6 @@ Dicen que el 80% del éxito en una pérdida de peso depende de la alimentación.
 > **Rol:** Eres un experto en nutrición deportiva y consultor profesional de dietas.
 > **Solicitud:** Crea un plan de comidas de dieta para una semana basado en mi altura, peso actual y peso objetivo en 1 minuto.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

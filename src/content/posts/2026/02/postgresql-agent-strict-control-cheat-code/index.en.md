@@ -43,7 +43,6 @@ The basic control net to stop the AI from spewing nonsense when you just want to
 > - NEVER modify data.
 > - ALWAYS append `LIMIT 10` to your results.
 > - Output ONLY the SQL query, with no greetings or explanations.
-\
 
 ### 🥇 Pro Version
 
@@ -68,7 +67,6 @@ The hardcore cheat code you smash into the system prompt when the agent interact
 > **Warning:**
 > - If you do something stupid like typing `BEGIN;` on its own in the terminal and then typing `UPDATE` on the next line, it will fail instantly.
 > - Full table dumps are strictly prohibited to prevent memory explosions.
-\
 
 **[Copy-and-Paste Cheat Code]**
 Paste this directly into your prompt chain or agent system prompt.

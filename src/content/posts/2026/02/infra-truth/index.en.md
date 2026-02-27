@@ -41,7 +41,6 @@ Use this when you need a quick reality check on a trending AI product.
 > **Role:** You are a senior tech investment analyst.
 > **Task:** Analyze the business model of `[AI Product/Company]`. Tell me if they have a real competitive moat or if they are just a thin wrapper over an existing AI API.
 
-\
 
 ### 🥇 Pro Version
 

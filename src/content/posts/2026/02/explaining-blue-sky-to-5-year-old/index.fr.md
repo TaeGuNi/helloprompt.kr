@@ -42,7 +42,6 @@ Utilisez ce prompt lorsque vous êtes pris au dépourvu et avez besoin d'une ré
 > **Rôle :** Tu es un enseignant de maternelle très doué pour expliquer simplement des concepts scientifiques complexes.
 > **Demande :** Explique-moi pourquoi le ciel est bleu, en utilisant des métaphores adaptées à un enfant de 5 ans.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

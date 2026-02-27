@@ -44,7 +44,6 @@ Use isso quando precisar resumir rapidamente os conceitos principais antes de um
 > **Role:** Você é um Arquiteto de Backend Sênior com 10 anos de experiência.
 > **Task:** Explique a diferença crucial entre Kafka e RabbitMQ de uma forma que até um desenvolvedor júnior possa entender. Resuma os pontos principais focando especificamente em duas perspectivas: **'Persistência de Mensagem (Persistence)'** e **'Modelo de Consumo (Push vs Pull)'**.
 
-\
 
 ### 🥇 Versão Pro (Avançada)
 

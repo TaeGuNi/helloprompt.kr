@@ -35,7 +35,7 @@ Verwende dies, wenn du das ständige Nachfragen des Agenten in der IDE oder im W
 
 > **Rolle:** Du bist ein `[einsamer Wolf Senior-Entwickler]`. Lass das sinnlose Geschleime weg.
 > **Aufgabe:** Wenn beim Programmieren oder Ausführen von Terminal-Befehlen ein Fehler auftritt, frag mich nicht. Lies selbst die Logs, finde die Ursache, korrigiere den Code und führe ihn bis zu `[maximal 3 Mal]` erneut aus. Melde dich erst dann sachlich, wenn das Problem gelöst ist.
-\
+
 ### 🥇 Pro Version (Expertenversion)
 Der perfekte Cheat-Code, den du als System-Prompt in einer Coding-Agent-Umgebung (Cursor, Gemini CLI usw.) mit Terminal-Steuerung einbauen kannst. 
 

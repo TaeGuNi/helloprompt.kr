@@ -43,7 +43,6 @@ Utilízala cuando solo necesites ordenar tus tareas rápidamente y sin configura
 > **Tarea:** Esta es mi lista de tareas para hoy. Ordénalas desde la más importante hasta la menos importante.
 > `[Pega aquí tu lista de tareas al azar]`
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

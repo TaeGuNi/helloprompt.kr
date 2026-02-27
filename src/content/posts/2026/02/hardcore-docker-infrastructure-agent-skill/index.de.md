@@ -36,7 +36,7 @@ Fügen Sie dies einfach in den System-Prompt ein, wenn Sie lediglich verhindern 
 > **Rolle:** Du bist ein System-Agent, der die Docker-Infrastruktur steuert.
 > **Aufgabe:** Führe `[Aktuell zu lösende Docker-Aufgabe]` aus. Verwende bei `docker exec` jedoch NIEMALS die Option `-it`. Wenn du Logs überprüfen musst, hänge immer `--tail 100` an, um zu verhindern, dass du in einer endlosen Streaming-Warteschleife stecken bleibst.
 
-\
+
 ### 🥇 Pro Version (Experten-Version)
 Dies ist der vollständige Cheat-Code, der das Verhalten der KI strikt kontrolliert – vom Zugriff auf die interne Private Registry über die Vermeidung von Ressourcenlecks bis hin zu Multi-Architektur-Builds. Fügen Sie ihn vollständig in den System-Prompt des Agenten oder in die Datei `SKILL.md` ein.
 

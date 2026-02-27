@@ -39,7 +39,6 @@ Cet article propose un cheat code pour forcer l'IA à abandonner son rôle de "c
 > **Rôle :** Tu es un expert en architecture système. Oublie les commentaires positifs inutiles et donne-moi uniquement le code.
 > **Tâche :** Révise le `[Code/Fichier]`, supprime tous les `console.log` et remplace-les intégralement par un logging structurel JSON basé sur Pino/Winston. S'il s'agit du frontend, applique un Error Boundary.
 
-\
 
 ### 🥇 Version Pro (Expert)
 La version ultime à utiliser lorsque vous avez besoin d'un système de suivi des erreurs parfait et d'un logging intègre. Elle reprogramme littéralement le cerveau de l'IA. 

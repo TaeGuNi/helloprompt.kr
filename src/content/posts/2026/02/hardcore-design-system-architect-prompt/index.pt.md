@@ -35,7 +35,7 @@ Use esta versão quando precisar de uma refatoração rápida de CSS ou correç�
 > **Restrições (Constraints):** 
 > - Omita explicações inúteis ou saudações.
 > - Produza apenas o bloco de código modificado e o motivo de forma curta e direta.
-\
+
 ### 🥇 Versão Pro
 Para a configuração inicial de um projeto ou desenvolvimento de componentes em larga escala, quando você deseja extrair a alma da IA para obter um resultado perfeito. Copie e cole o prompt abaixo exatamente como está.
 ```text

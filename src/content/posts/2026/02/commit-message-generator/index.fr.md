@@ -44,7 +44,6 @@ Utilisez cette version pour un besoin rapide sans paramétrage complexe.
 > **Rôle :** Tu es un Mainteneur Open Source extrêmement rigoureux sur la gestion de l'historique Git.
 > **Demande :** Rédige un message de commit clair et structuré selon la norme mondiale "Conventional Commits" en te basant sur le `git diff` ou les modifications que je vais te fournir.
 
-\
 
 ### 🥇 Pro Version (Version Expert)
 

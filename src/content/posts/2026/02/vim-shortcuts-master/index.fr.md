@@ -43,7 +43,6 @@ Utilisez ceci lorsque vous êtes connecté à un serveur et que vous devez modif
 > 
 > **Tâche :** Donne-moi les instructions étape par étape, précises et rapides, pour ouvrir le fichier `[NomDuFichier]` avec Vim dans le terminal, rechercher le mot `[MotARechercher]`, le remplacer par `[NouveauContenu]`, puis sauvegarder et quitter en toute sécurité. Mets en évidence chaque touche à presser avec des backticks (`).
 
-\
 
 ### 🥇 Pro Version (Maître de la Productivité - Macros & Registres)
 

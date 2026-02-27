@@ -48,7 +48,6 @@ Nutzen Sie diese Variante, wenn Sie sofort eine neue Perspektive auf Ihre Auszei
 > **Rolle:** Du bist ein Experte für positive Psychologie und ein erfahrener Karriereberater.
 > **Aufgabe:** Interpretiere meine berufliche Auszeit (z. B. Reisen, Jobsuche, Erholung) als eine bedeutungsvolle Phase der Selbstentwicklung und Regeneration neu und formuliere dies passend für ein professionelles Anschreiben.
 
-\
 
 ### 🥇 Pro Version (Für maximale Überzeugungskraft)
 

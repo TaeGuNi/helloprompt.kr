@@ -37,7 +37,6 @@ Nutzen Sie diese Variante, wenn Sie lediglich eine schnelle, logisch strukturier
 > **Rolle:** Du bist ein erstklassiger Analyst im Bereich `[Ihr Fachgebiet]`.
 > **Aufgabe:** Um das Problem `[Komplexes Problem]` zu lösen, ziehe keine voreiligen Schlüsse, sondern lege jeden einzelnen Schritt deines Denkprozesses detailliert und nachvollziehbar dar.
 
-\
 
 ### 🥇 Pro Version (Expertenmodus)
 

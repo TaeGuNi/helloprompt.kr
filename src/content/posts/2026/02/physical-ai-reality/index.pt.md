@@ -50,7 +50,6 @@ Use quando precisar filtrar rapidamente apenas os fatos essenciais de um artigo 
 > `[Artigo/Demonstração de Tecnologia]:`
 > (Cole o conteúdo do artigo aqui)
 
-\
 
 ### 🥇 Versão Pro (Especialista)
 

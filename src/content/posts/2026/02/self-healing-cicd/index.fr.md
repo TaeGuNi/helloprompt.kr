@@ -44,7 +44,6 @@ Idéal pour corriger rapidement les erreurs de syntaxe mineures signalées par P
 > **Rôle :** Tu es un `[Développeur Frontend Senior]`.
 > **Tâche :** En analysant le journal d'erreurs fourni, corrige uniquement et avec précision les `[erreurs de linter et fautes de frappe]` dans le code, puis renvoie le code complet corrigé.
 
-\
 
 ### 🥇 Version Pro (Agent d'auto-guérison - Sécurité avant tout)
 
@@ -67,13 +66,12 @@ Un prompt taillé pour la production, qui corrige strictement les erreurs de typ
 > - ⚠️ **Prévention des hallucinations :** Si tu n'es pas certain de la cause ou de la solution, ne tente rien au hasard et renvoie une réponse vide.
 >
 > **Format de sortie (Format) :**
-> ```json
+>
 > {
 >   "file_path": "[Chemin du fichier où l'erreur s'est produite]",
 >   "fixed_content": "[Code complet corrigé]"
 > }
-> ```
-
+>
 ---
 
 ## 💡 L'avis de l'expert (Insight)

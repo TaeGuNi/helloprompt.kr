@@ -46,7 +46,6 @@ Usala quando hai bisogno di separare i file rapidamente. (I dettagli del risulta
 > **Ruolo:** Sei uno `[Sviluppatore Frontend]`.
 > **Compito:** Il componente `[UserProfile.tsx]` è troppo grande. Separa la UI dalla logica di business e dividili in file distinti.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

@@ -44,7 +44,6 @@ Usa questo prompt per ottenere un riepilogo tecnico istantaneo della vulnerabili
 > **Ruolo:** Sei un Senior Security Analyst.
 > **Richiesta:** Spiega la vulnerabilità CVE-2026-20841 (Windows Notepad RCE) in termini semplici per un team direttivo aziendale. Includi i vettori di attacco principali e le azioni immediate da intraprendere. Mantieni la risposta concisa e sotto le 150 parole.
 
-\
 
 ### 🥇 Pro Version (Script di Audit e Mitigazione)
 

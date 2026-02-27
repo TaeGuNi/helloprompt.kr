@@ -37,7 +37,6 @@ Toss this when you quickly want to draft the skeleton for exception-handling tes
 
 > **Role:** You are a ruthless Senior QA Engineer.
 > **Task:** Write test code for `[Target to Test]`, but write only 1 normal operation scenario. Fill the rest entirely with defense logic against failure scenarios such as network errors and DB disconnections.
-\
 
 ### 🥇 Pro Version
 This is the hardcore cheat code that completely deletes the AI's ego and injects Netflix's Chaos Monkey philosophy.

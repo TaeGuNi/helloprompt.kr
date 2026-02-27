@@ -52,7 +52,6 @@ Ideal para quando você precisa obter apenas uma estrutura rápida e validar uma
 > **Role:** Você é um `[Product Designer Sênior]`.
 > **Task:** Descreva a estrutura de layout para um componente de UI mobile que exiba um `[roteiro de viagem para o fim de semana]`. Inclua também sugestões de classes do Tailwind CSS.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

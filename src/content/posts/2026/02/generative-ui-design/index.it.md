@@ -52,7 +52,6 @@ Ideale quando hai bisogno di strutturare rapidamente un'idea o un layout visivo.
 > **Ruolo:** Sei un `[Lead Product Designer]`.
 > **Task:** Descrivimi il layout per un componente UI mobile che mostri `[l'itinerario per un viaggio a Busan questo fine settimana]`. Includi i suggerimenti per le classi Tailwind CSS.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

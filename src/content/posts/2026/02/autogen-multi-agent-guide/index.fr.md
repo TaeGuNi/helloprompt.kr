@@ -48,7 +48,6 @@ Utilisez ce prompt pour générer le code d'interaction 1:1 le plus basique.
 
 > **Objectif :** Configure les deux agents pour accomplir la tâche suivante : "Trouver les nombres premiers (Prime Numbers) de 1 à 100 et les sauvegarder dans un fichier .txt".
 
-\
 
 ### 🥇 Version Pro (Entreprise IT virtuelle : PM, Dev, QA)
 

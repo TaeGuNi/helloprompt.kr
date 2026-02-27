@@ -39,7 +39,6 @@ En el cambiante panorama de la ingeniería de Modelos de Lenguaje Grande (LLM), 
 > **Rol:** Eres un `[Ingeniero de Software Senior]`.
 > **Tarea:** Escribe una función para `[conectar a una base de datos]`.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

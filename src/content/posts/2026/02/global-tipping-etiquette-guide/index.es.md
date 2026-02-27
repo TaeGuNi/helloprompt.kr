@@ -48,7 +48,6 @@ Un mundo de propinas donde dar muy poco te hace quedar mal y dar demasiado te de
 > **Rol:** Eres un guía de viajes experto internacional.
 > **Solicitud:** Estoy en `[País]`. Acabo de comer en un `[Tipo de restaurante]`. ¿Cuánto debo dejar de propina y cómo se entrega habitualmente?
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

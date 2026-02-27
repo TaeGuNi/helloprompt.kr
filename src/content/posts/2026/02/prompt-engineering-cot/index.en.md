@@ -38,7 +38,6 @@ Use this "magic phrase" at the end of your prompt for the fastest, easiest way t
 > **Role:** You are a `[logical analyst]`.
 > **Task:** Provide an answer for the following `[complex problem or situation]`. **However, before jumping to a conclusion, think about it logically and step-by-step.**
 
-\
 
 ### 🥇 Pro Version
 

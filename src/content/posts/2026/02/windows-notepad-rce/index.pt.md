@@ -44,7 +44,6 @@ Ideal para mensagens de alerta curtas e diretas para compartilhamento rápido em
 > **Função:** Você é um `[Profissional de Segurança de TI]`.
 > **Tarefa:** Escreva uma mensagem de alerta de emergência interna sobre o `[CVE-2026-20841 (Vulnerabilidade RCE no Bloco de Notas do Windows)]`. Enfatize fortemente que os funcionários não devem abrir arquivos .txt de origem externa e solicite a atualização imediata do aplicativo.
 
-\
 
 ### 🥇 Versão Pro (Especialista)
 

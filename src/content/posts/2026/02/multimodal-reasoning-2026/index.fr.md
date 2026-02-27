@@ -39,7 +39,6 @@ Pour obtenir une analyse rapide d'une image ou d'un document visuel.
 > **Rôle :** Tu es un `[expert en analyse de données / développeur / marketeur]`.
 > **Requête :** Analyse le fichier joint et explique-moi `[ce que je dois comprendre / le problème à résoudre]`.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

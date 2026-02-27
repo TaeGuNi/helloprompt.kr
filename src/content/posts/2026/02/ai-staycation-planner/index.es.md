@@ -44,7 +44,6 @@ Sin embargo, si te quedas en casa sin un plan, es muy probable que termines lava
 > **Rol:** Eres un `[conserje de un hotel de 5 estrellas]`.
 > **Tarea:** Organiza un itinerario de staycation de `[2 días y 1 noche]` para este fin de semana en casa. La temática es `[maratón de Netflix y fiesta de comida a domicilio]`.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

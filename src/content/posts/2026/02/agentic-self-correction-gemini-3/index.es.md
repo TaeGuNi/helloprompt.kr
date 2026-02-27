@@ -45,7 +45,6 @@ La clave de este prompt es separar claramente la fase de redacción (Drafting) d
 > **Rol:** Eres un `[Ingeniero Backend Senior]`.
 > **Tarea:** Escribe una `[función que fusione dos listas ordenadas]`. Después de escribir el código, busca proactivamente posibles errores o ineficiencias, critícalo y, basándote en esa crítica, presenta el código final corregido.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

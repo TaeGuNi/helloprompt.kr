@@ -48,7 +48,6 @@ In dieser Phase werden Ihre bisherigen Textdaten analysiert, um einen maßgeschn
 > **Daten:**
 > `[Fügen Sie hier 3-5 Beispiele Ihrer bisherigen Texte, Chat-Verläufe oder E-Mails ein]`
 
-\
 
 ### 🥇 Schritt 2: Persona-Injektion Prompt (Persona Injection)
 

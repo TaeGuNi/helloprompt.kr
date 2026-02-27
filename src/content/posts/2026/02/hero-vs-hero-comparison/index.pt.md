@@ -42,7 +42,6 @@ Use isso quando precisar de um resultado rápido e direto.
 > **Papel:** Você é um `[Historiador Comparativo e Crítico Biográfico]`.
 > **Solicitação:** Compare `[Figura A]` e `[Figura B]` que viveram em épocas e países diferentes, analisando suas semelhanças, diferenças e impactos históricos em um formato 1:1.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

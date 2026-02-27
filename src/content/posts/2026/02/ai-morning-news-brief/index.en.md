@@ -46,7 +46,6 @@ Use this when you have a few specific articles or text dumps and just need a qui
 >
 > `[Insert News Articles or URLs here]`
 
-\
 
 ### 🥇 Pro Version
 

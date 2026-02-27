@@ -43,7 +43,6 @@ Idéale pour rédiger rapidement une description de PR ou faire une mise à jour
 > **Rôle :** Tu es un Rédacteur Technique Senior.
 > **Tâche :** Analyse le `[Git Diff]` que je viens de modifier, identifie les sections à mettre à jour dans le `[README.md]` et réécris-les en Markdown. Ignore les modifications mineures comme les fautes de frappe ou le simple refactoring.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

@@ -45,7 +45,6 @@ Ideal para quando você precisa apenas de um resumo rápido de uma transcrição
 > **Transcrição:**
 > `[Cole a transcrição da sua reunião aqui]`
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

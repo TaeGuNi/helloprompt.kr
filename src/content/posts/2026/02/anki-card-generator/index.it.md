@@ -42,7 +42,6 @@ Ideale per appunti brevi o quando hai bisogno di un risultato immediato senza tr
 > **Ruolo:** Sei un `[Esperto in Tecniche di Apprendimento]`.
 > **Richiesta:** Converti questo testo in una serie di flashcard (Domanda e Risposta) adatte per essere studiate su Anki o Quizlet.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

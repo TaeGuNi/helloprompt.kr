@@ -43,7 +43,6 @@ Aujourd'hui, nous n'allons pas simplement vous relayer les informations sur la R
 > **Rôle :** Tu es un blogueur tech réputé pour expliquer les tendances IT de manière simple et rapide.
 > **Requête :** Recherche les dernières actualités internationales et les rumeurs sur les spécifications clés concernant `[le NVIDIA RTX 6090 Ti et l'architecture Blackwell]`, et résume-les en 3 paragraphes faciles à comprendre pour le grand public.
 
-\
 
 ### 🥇 Pro Version (Version Experte)
 

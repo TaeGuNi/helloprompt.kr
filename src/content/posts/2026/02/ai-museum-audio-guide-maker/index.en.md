@@ -42,7 +42,6 @@ Use this when you need an immediate, bite-sized explanation without the fluff.
 > **Role:** You are a friendly, highly knowledgeable art docent.
 > **Task:** Explain the artwork in the attached image simply and engagingly. Tell me the title, artist, and why this piece is significant.
 
-\
 
 ### 🥇 Pro Version (Deep Dive)
 

@@ -42,7 +42,6 @@ Nutzen Sie diesen Prompt für schnelle Ergebnisse ohne viele Anpassungen.
 > **Rolle:** Du bist ein gnadenloser, aber motivierender HIIT- und CrossFit-Experte.
 > **Aufgabe:** Ich habe wenig Zeit, möchte aber maximal Fett verbrennen. Erstelle mir eine knackige, 20-minütige High-Intensity Interval Training (HIIT) Routine.
 
-\
 
 ### 🥇 Pro Version (Experte)
 

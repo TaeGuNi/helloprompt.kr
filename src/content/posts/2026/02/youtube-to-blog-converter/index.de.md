@@ -44,7 +44,6 @@ Verwenden Sie diese Version, wenn Sie ein Video-Skript schnell in einen flüssig
 >
 > [Fügen Sie hier das YouTube-Skript ein]
 
-\
 
 ### 🥇 Pro Version (Multi-Plattform Master)
 
@@ -129,6 +128,4 @@ Wenn Sie ein meisterhaftes Skript (Masterpiece) erstellt haben, pressen Sie den 
 Es reicht, wenn Sie sich einmal richtig ins Zeug legen.
 Den Rest überlassen wir der **KI und dem System** – und wir bereiten uns auf die nächste Planung vor. 🍷
 
-```
 
-```

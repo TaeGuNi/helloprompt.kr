@@ -42,7 +42,6 @@ Ideale per superare la sindrome da pagina bianca e ottenere una bozza rapida.
 > **Ruolo:** Sei il `[Caporedattore di una prestigiosa casa editrice]`.
 > **Richiesta:** Crea un piano editoriale e un indice dettagliato per un libro sul tema `[Il tuo argomento]`, strutturandolo in modo da massimizzare le vendite.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

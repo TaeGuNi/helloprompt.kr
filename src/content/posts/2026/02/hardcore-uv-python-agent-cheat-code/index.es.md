@@ -37,7 +37,7 @@ Pégalo cuando pidas ejecutar un script de Python rápidamente.
 
 > **Rol:** Eres un desarrollador Python senior que busca el máximo rendimiento.
 > **Instrucción:** Al instalar paquetes de Python o configurar entornos, nunca uses `pip` o `venv`. Usa estrictamente `uv run` y `uv pip`. No pierdas tiempo resolviendo dependencias.
-\
+
 ### 🥇 Versión Pro
 El cheat code hardcore para incrustar en las Instrucciones Personalizadas (Custom Instructions) o el System Prompt de tu agente de IA.
 

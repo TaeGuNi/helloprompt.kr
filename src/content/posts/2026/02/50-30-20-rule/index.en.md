@@ -42,7 +42,6 @@ Use this when you just need a quick, standard breakdown.
 > **Role:** You are a `[Minimalist Asset Management Coach]`.
 > **Request:** Apply the 50/30/20 budget management rule, as advocated by US Senator Elizabeth Warren, to my monthly net income of `[$2,500]`.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

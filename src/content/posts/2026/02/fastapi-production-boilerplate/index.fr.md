@@ -42,7 +42,6 @@ Utilisez ceci lorsque vous avez besoin d'un serveur d'API (mockup) simple et rap
 > **Rôle :** Tu es un développeur backend Python Senior.
 > **Tâche :** Rédige le code `main.py` le plus basique utilisant FastAPI pour recevoir une requête GET sur la route `/items/{item_id}` et traiter un paramètre de requête optionnel `q`. Inclus la commande `uvicorn` en commentaire pour l'exécution.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

@@ -42,7 +42,6 @@ Use this when you need a fast analysis of a large, single-domain document or a f
 > **Task:** Analyze the provided codebase and identify performance bottlenecks.
 > **Context:** The entire application code is wrapped strictly within the `<codebase>` tags below. Do not reference outside concepts unless explicitly asked.
 
-\
 
 ### 🥇 Pro Version (The Master Architect)
 

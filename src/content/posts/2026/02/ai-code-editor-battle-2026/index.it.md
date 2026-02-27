@@ -73,7 +73,6 @@ Questo è il prompt di base ideale per richiedere l'implementazione di funzional
 
 > **Task:** Nel file attualmente aperto `[nome_file]`, risolvi `[situazione_problematica_o_funzionalità_da_aggiungere]`. Assicurati di scrivere il codice rispettando rigorosamente i controlli di tipo di TypeScript e le convenzioni di Tailwind CSS.
 
-\
 
 ### 🥇 Versione Pro (Per Architetti & Refactoring)
 

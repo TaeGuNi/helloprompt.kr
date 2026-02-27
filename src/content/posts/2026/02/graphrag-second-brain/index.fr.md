@@ -41,7 +41,6 @@ Idéal pour un test rapide dans votre interface de chat afin d'extraire les mots
 > **Rôle :** Tu es un `[Analyste de Données]`.
 > **Tâche :** À partir du texte ci-dessous, extrais les mots-clés essentiels sous forme de nœuds et leurs relations sous forme d'arêtes. Présente le résultat au format JSON.
 
-\
 
 ### 🥇 Version Pro
 

@@ -40,7 +40,6 @@ En lugar de leer densos _whitepapers_, hoy usaremos un **Prompt de Ingeniería E
 > **Rol:** Eres un Arquitecto de Sistemas de nivel Staff.
 > **Tarea:** Explícame cómo `[Empresa, ej: Discord]` resolvió el problema de `[Problema, ej: cuello de botella en la base de datos]` y cuáles fueron las tecnologías clave que utilizaron.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

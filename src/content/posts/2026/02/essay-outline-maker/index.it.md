@@ -42,7 +42,6 @@ Usala quando hai fretta e ti serve solo una traccia rapida per iniziare.
 > **Ruolo:** Sei un autore di bestseller e un coach esperto in scrittura di saggi e report.
 > **Richiesta:** Ho il blocco dello scrittore. Imposta una struttura logica (Introduzione-Corpo-Conclusione) e suggerisci le idee centrali per ogni paragrafo riguardanti `[Il tuo Argomento]`.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

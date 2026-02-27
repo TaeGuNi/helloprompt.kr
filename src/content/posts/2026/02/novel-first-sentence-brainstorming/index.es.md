@@ -42,7 +42,6 @@ Al igual que "El túnel hacia el país de nieve era largo" (Yasunari Kawabata, _
 > **Rol:** Eres un autor superventas experto en atrapar a los lectores en los primeros 3 segundos.
 > **Solicitud:** Necesito cautivar a mis lectores desde la primera línea. Genera 10 opciones de primeras frases con un gancho narrativo muy fuerte para mi novela basada en mi idea central.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

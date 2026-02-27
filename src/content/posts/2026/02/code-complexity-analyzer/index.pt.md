@@ -44,12 +44,9 @@ Use quando precisar identificar rapidamente os problemas do código.
 > **Função:** Você é um `[Desenvolvedor Backend Sênior]`.
 > **Tarefa:** Analise a complexidade do código abaixo e destaque 3 pontos principais de como ele pode ser refatorado.
 >
-> ```
+>
 > [Cole seu código aqui]
-> ```
-
-\
-
+>
 ### 🥇 Versão Pro (Profissional)
 
 Use quando precisar de análises de métricas precisas e aplicação de padrões de projeto específicos.
@@ -69,9 +66,9 @@ Use quando precisar de análises de métricas precisas e aplicação de padrões
 >
 > **Entrada de Código (Code):**
 >
-> ```
+>
 > [Cole o código a ser refatorado aqui]
-> ```
+>
 >
 > **Restrições (Constraints):**
 >

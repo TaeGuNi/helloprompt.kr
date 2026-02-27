@@ -42,7 +42,6 @@ Usa questa versione per ottenere rapidamente una struttura per la tua mattinata.
 > **Ruolo:** Sei un esperto di produttività e time management.
 > **Azione:** Creami una routine mattutina di 2 ore focalizzata sul completamento del mio task più importante: `[Inserisci il tuo task principale]`. Includi pause brevi.
 
-\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

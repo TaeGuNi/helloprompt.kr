@@ -42,7 +42,6 @@ Nutzen Sie diese Vorlage, um in Sekundenschnelle das Grundgerüst eines neuen Pr
 > **Rolle:** Du bist ein erfahrener `[NestJS Backend-Entwickler]`.
 > **Aufgabe:** Ich möchte einen einfachen `[API-Server für ein Forum mit NestJS]` erstellen. Generiere mir die grundlegende Ordnerstruktur inklusive der Module `User` und `Post` sowie den Konfigurationscode für die `app.module.ts`.
 
-\
 
 ### 🥇 Pro Version (Für Experten)
 

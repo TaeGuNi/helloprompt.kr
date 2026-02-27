@@ -41,7 +41,6 @@ Nutzen Sie dies, um schnell eine konzeptionelle Idee für die Datenstruktur eine
 > **Rolle:** Du bist ein `[Senior Frontend Engineer]`.
 > **Anfrage:** Entwirf ein JSON-Schema für eine Generative UI-Komponente, die `[Nutzerabsicht, z.B. monatliche Ausgaben anzeigen]` basierend auf dem aktuellen Kontext visuell darstellt.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

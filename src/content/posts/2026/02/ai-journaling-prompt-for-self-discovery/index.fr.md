@@ -43,7 +43,6 @@ Utilisez ce prompt lorsque vous manquez de temps et que vous souhaitez simplemen
 > **Rôle :** Tu es un conseiller psychologique perspicace et bienveillant.
 > **Demande :** Pose-moi une question profonde pour mon journal intime aujourd'hui, afin de m'aider à réfléchir sur ma journée autrement qu'en disant "c'était bien".
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 

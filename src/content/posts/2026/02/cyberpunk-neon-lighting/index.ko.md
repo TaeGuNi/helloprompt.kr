@@ -43,7 +43,6 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Sci-Fi", "Color"]
 >
 > **Style & Lighting:** Cyberpunk style, neon noir, pink and cyan neon lights, glowing signs reflecting on a wet street
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

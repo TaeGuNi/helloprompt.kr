@@ -42,7 +42,6 @@ Nutze diesen Prompt, wenn du sofort ein pragmatisches Ergebnis brauchst.
 > **Rolle:** Du bist ein professioneller Morgen-Coach, der Menschen hilft, energiegeladen in den Tag zu starten.
 > **Anfrage:** Ich wache jeden Morgen wie ein Zombie auf und drücke ständig die Snooze-Taste. Entwirf mir eine schmerzfreie 5-Minuten-Aufwachroutine, die sofort funktioniert.
 
-\
 
 ### 🥇 Pro Version (Für maximale Anpassung)
 

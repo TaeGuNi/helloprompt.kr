@@ -43,12 +43,9 @@ La accesibilidad web (A11y) ya no es un simple "detalle de cortesía", sino el e
 > **Tarea:** Revisa el siguiente código HTML para identificar posibles problemas de accesibilidad al navegar con teclado o usar lectores de pantalla, y refactorízalo usando marcado semántico.
 > **Código:**
 >
-> ```html
+>
 > [Pega tu código aquí]
-> ```
-
-\
-
+>
 ### 🥇 Versión Profesional (Pro Version)
 
 Ideal para auditar componentes de UI complejos e interactivos, como modales, menús desplegables (dropdowns) y sistemas de pestañas (tabs).
@@ -70,9 +67,9 @@ Ideal para auditar componentes de UI complejos e interactivos, como modales, men
 >
 > **Código (Code):**
 >
-> ```plaintext
+>
 > [Pega el código de tu componente aquí]
-> ```
+>
 >
 > **Restricciones (Constraints):**
 >

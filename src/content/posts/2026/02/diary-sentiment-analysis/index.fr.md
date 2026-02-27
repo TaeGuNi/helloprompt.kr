@@ -42,7 +42,6 @@ Utilisez ceci pour identifier rapidement vos centres d'intérêt principaux et v
 > **Rôle :** Tu es un analyste de données et un psychologue conseiller.
 > **Tâche :** À partir du texte de mon journal de la semaine dernière que j'ai uploadé, extrais le Top 5 des noms et le Top 5 des adjectifs les plus fréquents. En te basant sur ces mots, résume mon état psychologique actuel en une seule phrase.
 
-\
 
 ### 🥇 Version Pro (Analyse chronologique des émotions & Rapport visuel)
 

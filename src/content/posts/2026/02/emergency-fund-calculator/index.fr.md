@@ -42,7 +42,6 @@ Utilisez cette version pour obtenir une estimation rapide et globale.
 > **Rôle :** Tu es un `[Expert en gestion de patrimoine et risques financiers]`.
 > **Requête :** Calcule la taille optimale de mon fonds d'urgence pour que je ne sois pas en difficulté financière, même en cas de perte d'emploi soudaine ou d'accident.
 
-\
 
 ### 🥇 Version Pro (Recommandée)
 

@@ -42,7 +42,6 @@ Usala quando hai bisogno di un'ispirazione rapida o di un asset generico.
 > **Ruolo:** Sei un esperto di modellazione 3D e design di giochi.
 > **Richiesta:** Crea un'immagine tridimensionale in stile miniatura adorabile, con angolazione isometrica, di [Stanza/Oggetto].
 
-\
 
 ### 🥇 Versione Pro (Esperta)
 

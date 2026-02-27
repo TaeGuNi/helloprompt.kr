@@ -45,7 +45,6 @@ Idéale pour structurer votre logique avant le grand saut.
 
 > **Mission :** Lorsque je te demande 50 000 €, tu dois me réfuter avec des arguments logiques et implacables. Sois extrêmement difficile à convaincre. Mets-moi dans l'embarras.
 
-\
 
 ### 🥇 Version Pro (Simulation vocale en immersion)
 

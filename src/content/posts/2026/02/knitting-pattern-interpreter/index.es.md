@@ -51,7 +51,6 @@ No hagas una traducción literal; utiliza la terminología técnica correcta y e
 > **Formato de salida (Format):**
 Separa cada vuelta (Row/Round) con un salto de línea para que sea cómodo de leer y no cause confusión.
 
-\
 
 ### 🥇 Versión Pro (Lectura de Gráficos y Cálculo de Tallas)
 

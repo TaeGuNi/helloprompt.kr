@@ -48,7 +48,6 @@ El miedo a pedir comida en un país extranjero se acabó. Ya sea que le tomes un
 > **Rol:** Eres un experto 'Analista Gastronómico' que conoce todos los ingredientes y platillos del mundo.
 > **Solicitud:** Explícame qué es el plato `[Nombre del plato]` y a qué sabe.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

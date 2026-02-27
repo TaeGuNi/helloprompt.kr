@@ -45,7 +45,6 @@ Idéal pour des requêtes rapides sur des documents de taille moyenne sans struc
 > `[Collez votre long texte ici]`
 > </document>
 
-\
 
 ### 🥇 Pro Version (Expert)
 

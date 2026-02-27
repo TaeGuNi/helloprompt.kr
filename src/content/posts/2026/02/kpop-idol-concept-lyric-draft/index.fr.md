@@ -42,7 +42,6 @@ Idéale pour obtenir une idée rapide sans entrer dans les détails complexes.
 > **Rôle :** Tu es un directeur créatif K-pop légendaire.
 > **Demande :** Conçois un concept de groupe de K-pop incluant l'univers, l'esthétique de l'album et un refrain pour leur chanson titre.
 
-\
 
 ### 🥇 Version Pro
 

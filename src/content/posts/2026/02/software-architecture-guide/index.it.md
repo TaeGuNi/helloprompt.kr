@@ -42,7 +42,6 @@ Utilizzala quando hai bisogno di un consiglio rapido e diretto sulla direzione a
 > **Ruolo:** Sei un `[Architetto Backend Senior con 10 anni di esperienza]`.
 > **Task:** Spiega i 3 maggiori **Overhead** che una startup in fase iniziale affronterebbe adottando un'architettura MSA. Successivamente, confrontali con il **Debito Tecnico (Technical Debt)** che potrebbe accumularsi mantenendo un'architettura monolitica.
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

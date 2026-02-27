@@ -43,7 +43,6 @@ Ideal para situaciones rápidas donde necesitas una mediación inmediata.
 > **Rol:** Eres un mediador infantil imparcial y empático.
 > **Solicitud:** Ayúdame a reconciliar a mis dos hijos que están peleando, asegurando que ambos se sientan escuchados y fortaleciendo su relación.
 
-\
 
 ### 🥇 Versión Experta (Pro Version)
 

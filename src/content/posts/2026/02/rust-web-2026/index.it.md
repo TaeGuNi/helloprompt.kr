@@ -43,7 +43,6 @@ Ideale per generare rapidamente un server Axum funzionante per test o piccoli mi
 > **Ruolo:** Sei un Senior Rust Backend Engineer specializzato in Axum.
 > **Compito:** Scrivi un server web di base utilizzando Axum e Tokio che includa una rotta di health check e una semplice API REST per gestire un'entità `User`. Assicurati che il codice compili con le versioni stabili del 2026.
 
-\
 
 ### 🥇 Pro Version (Modello Enterprise)
 

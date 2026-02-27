@@ -40,7 +40,6 @@ Use this when you just need a quick sequence without strict programmatic logic.
 > **Task 1:** Extract the key metrics from the provided `[Raw Data]`.
 > **Task 2:** Based on the extracted metrics, write a short summary of the trends.
 
-\
 
 ### 🥇 Pro Version (The 2026 Standard)
 

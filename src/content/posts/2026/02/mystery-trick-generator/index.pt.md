@@ -42,7 +42,6 @@ Use esta versão quando precisar apenas de uma inspiração rápida e direta.
 > **Papel:** Você é um escritor de romances de mistério genial, combinando a astúcia de Agatha Christie com a lógica de Keigo Higashino.
 > **Solicitação:** Crie um truque engenhoso de assassinato em quarto fechado e um álibi perfeito para o culpado.
 
-\
 
 ### 🥇 Versão Pro (Expert)
 

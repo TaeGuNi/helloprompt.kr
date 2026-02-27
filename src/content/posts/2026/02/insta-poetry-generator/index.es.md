@@ -42,7 +42,6 @@ En plataformas como Instagram o TikTok, la 'Insta Poetry' (poesía corta y direc
 > **Rol:** Eres un poeta digital y creador de contenido emocional con cientos de miles de seguidores.
 > **Solicitud:** Escribe un poema corto (máximo 4 líneas) sobre `[el lunes por la mañana]` que sea `[divertido y sarcástico]` para publicar en Instagram.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt, wenn Sie schnell eine grundlegende Unsloth-Codestru
 > **Rolle:** Du bist ein Experte für LLM-Optimierung und Finetuning.
 > **Aufgabe:** Schreibe Python-Code basierend auf Unsloth, um das Modell `[Llama-3-8B]` mit dem Datensatz `[Alpaca]` zu finetunen. Der Code wird in einer Umgebung mit einer 16-GB-VRAM-GPU ausgeführt.
 
-\
 
 ### 🥇 Pro Version (Experte)
 

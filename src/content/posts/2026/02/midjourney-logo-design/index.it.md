@@ -44,7 +44,6 @@ Ideale per icone di app, favicon o per dare subito un volto a un piccolo progett
 > **Task:**
 > `minimalistic vector logo of a [Blue Whale], simple shapes, flat design, white background --no text --v 6.0`
 
-\
 
 ### 🥇 Versione Pro (Brand Identity)
 

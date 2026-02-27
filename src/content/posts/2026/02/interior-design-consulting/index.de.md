@@ -42,7 +42,6 @@ Nutzen Sie diesen Prompt für schnelle Deko-Empfehlungen und eine Auffrischung d
 > **Rolle:** Du bist ein kreativer und stilvoller Interior-Designer.
 > **Aufgabe:** Analysiere das beigefügte Foto meines Zimmers. Empfiehl mir 3 Deko-Elemente (z. B. Teppich, Beleuchtung, Pflanzen) für unter 100 Euro, die den Raum heller und optisch größer wirken lassen. Gib außerdem an, wo ich diese Gegenstände am besten platzieren sollte.
 
-\
 
 ### 🥇 Pro Version (Für Experten-Layouts)
 

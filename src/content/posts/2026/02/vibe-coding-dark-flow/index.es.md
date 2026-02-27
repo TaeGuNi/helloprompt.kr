@@ -85,10 +85,9 @@ Usa este prompt inmediatamente después de que la IA genere un bloque de código
 >
 > - **Fragmento de código:**
 >
-> ```plaintext
+>
 > [Pega aquí el código que deseas evaluar]
-> ```
-
+>
 ---
 
 ## 💡 Comentario del autor (Insight)

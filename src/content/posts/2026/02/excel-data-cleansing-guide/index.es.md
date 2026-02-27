@@ -42,7 +42,6 @@ El análisis de datos no es lo que más tiempo consume; es la limpieza de datos.
 > **Rol:** Eres un experto en procesamiento de datos en Excel.
 > **Solicitud:** Explícame la forma más rápida de limpiar y separar estos datos: `[Pegar datos de ejemplo]`. Dame la fórmula exacta o el atajo de teclado.
 
-\
 
 ### 🥇 Versión Pro (Experto)
 

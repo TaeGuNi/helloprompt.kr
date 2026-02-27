@@ -42,7 +42,6 @@ Utilisez cette version lorsque vous manquez de temps et avez besoin d'une réfle
 > **Rôle :** Tu es un essayiste spécialisé dans l'exploration intérieure et un intervieweur bienveillant.
 > **Demande :** Pose-moi 3 questions douces et introspectives sur ma journée pour m'aider à écrire mon journal sans me sentir bloqué devant une page blanche.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

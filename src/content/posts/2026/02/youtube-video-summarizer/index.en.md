@@ -44,7 +44,6 @@ Use this when you are on the go or just want to quickly verify if a video is act
 > **Role:** You are a fast and accurate content summarization expert.
 > **Task:** The following text is a YouTube video transcript. Exclude all unnecessary small talk and clearly summarize the core topic and the most important conclusion in exactly 3 lines.
 
-\
 
 ### 🥇 Pro Version
 

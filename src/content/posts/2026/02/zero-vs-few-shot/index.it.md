@@ -40,7 +40,6 @@ Ideale quando ti affidi interamente al ragionamento nativo del modello. Veloce, 
 >
 > **Vincoli:** Restituisci esclusivamente la traduzione, senza convenevoli.
 
-\
 
 ### 🥇 Few-Shot (L'approccio di precisione)
 

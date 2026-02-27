@@ -42,7 +42,6 @@ Repetir ejercicios con mala postura no es entrenamiento, es "trabajo pesado" que
 > **Rol:** Eres un entrenador personal con 10 años de experiencia.
 > **Tarea:** El video adjunto muestra mi postura haciendo `[sentadillas]`. Encuentra cualquier error que me ponga en riesgo de lesión y evalúa mi técnica con una puntuación del 1 al 10.
 
-\
 
 ### 🥇 Versión Pro
 

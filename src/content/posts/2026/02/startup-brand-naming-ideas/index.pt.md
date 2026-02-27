@@ -42,7 +42,6 @@ Use esta versão quando precisar apenas de algumas ideias rápidas para destrava
 > **Papel:** Você é um especialista sênior em _branding_ e _naming_, responsável por criar nomes de marcas inovadoras e memoráveis.
 > **Solicitação:** Crie ideias de nomes fáceis de pronunciar e com forte significado para o meu novo negócio: `[Insira a ideia do negócio]`.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

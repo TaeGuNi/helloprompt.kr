@@ -47,7 +47,6 @@ tags: [AI, ChatGPT, Prompt, Productivity, DailyPlan]
 > **今日待办事项列表：**
 > `[在此处随意写下今天需要完成的所有事情]`
 
-\
 
 ### 🥇 Pro Version (专业版)
 
@@ -140,7 +139,6 @@ tags: [AI, ChatGPT, Prompt, Productivity, DailyPlan]
 | **DELEGATE (紧急 & 不重要)** | 找设计部修改 Logo \ 回复堆积的邮件 | **快速处理/委派**，上班伊始优先解决 |
 | **DELETE (不紧急 & 不重要)** | (当前列表中暂无) | - |
 
-\
 
 ## 🕒 今日时间锁 (Time Blocking) 日程表
 

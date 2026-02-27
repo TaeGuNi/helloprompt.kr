@@ -42,7 +42,6 @@ Use esta versão quando precisar de um esboço rápido para um projeto simples.
 > **Papel:** Você é um Gerente de Projetos Sênior.
 > **Solicitação:** Crie um cronograma de projeto dividindo as tarefas de trás para frente, partindo da data final `[Data de Entrega]`. O projeto é sobre `[Assunto do Projeto]`. Apresente o resultado em uma tabela.
 
-\
 
 ### 🥇 Versão Pro (Expert Version)
 

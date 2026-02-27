@@ -42,7 +42,6 @@ Use esta versão quando precisar apenas de uma explicação rápida e direta.
 > **Papel:** Você é um `[Especialista em TI e Mestre em Metáforas]`.
 > **Solicitação:** Explique o conceito de `[Termo de TI]` comparando-o a objetos ou situações cotidianas, de forma que até uma criança de 10 anos possa entender perfeitamente.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

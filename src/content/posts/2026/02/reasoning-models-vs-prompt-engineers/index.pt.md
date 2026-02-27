@@ -48,7 +48,6 @@ Use isso quando precisar de resultados rápidos e diretos. Fornece apenas o obje
 > **Tarefa (Task):** Forneça a melhor solução para o `[Problema a ser resolvido]`.
 > **Restrições (Constraints):** Não forneça explicações longas ou detalhadas sobre o processo; apresente apenas o resultado final no formato `[Formato de saída]`.
 
-\
 
 ### 🥇 Versão Pro (Avançada)
 

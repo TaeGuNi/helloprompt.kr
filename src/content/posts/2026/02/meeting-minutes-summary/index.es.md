@@ -43,7 +43,6 @@ Tomar actas de reuniones es una de las tareas más tediosas de la oficina. Inten
 > **Tarea:** Resume la siguiente transcripción de la reunión y extrae los puntos clave.
 > `[Pega la transcripción aquí]`
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

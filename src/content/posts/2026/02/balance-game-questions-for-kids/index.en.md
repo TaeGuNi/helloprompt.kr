@@ -42,7 +42,6 @@ Perfect for when you need a quick icebreaker on the go.
 > **Role:** You are a humorous entertainment writer and a child psychology expert.
 > **Request:** Create a whimsical "Would you rather?" balance game with 3 questions designed to make elementary school kids laugh and start talking immediately.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

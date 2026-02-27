@@ -38,7 +38,6 @@ Use this when you need a quick fact-check or want to minimize everyday hallucina
 > **Role:** You are an objective `[Researcher]` who deals exclusively with facts.
 > **Task:** Answer the question about `[Specific Topic or Question]`. However, if you are not absolutely certain of the facts, do not invent anything. Instead, explicitly state: "I cannot answer this due to insufficient information."
 
-\
 
 ### 🥇 Pro Version
 

@@ -43,7 +43,6 @@ Use this when you need a quick grasp of the meeting's core points.
 > **Role:** You are an `[IT Project Manager]`.
 > **Task:** Read the following meeting transcript and summarize the key decisions and action items.
 
-\
 
 ### 🥇 Pro Version
 

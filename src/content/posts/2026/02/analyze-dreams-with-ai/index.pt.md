@@ -42,7 +42,6 @@ Use isto quando quiser uma resposta rápida e direta sobre um sonho simples.
 > **Função:** Você é um especialista em interpretação de sonhos.
 > **Tarefa:** Analise este sonho que tive: `[Descreva seu sonho brevemente]`. O que isso pode significar em termos psicológicos?
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

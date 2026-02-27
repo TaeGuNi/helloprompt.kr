@@ -47,7 +47,6 @@ En este artículo, exploraremos estrategias específicas de prompts para control
 > **Rol (Role):** Eres un diseñador de sonido experto en `[género]`.
 > **Tarea (Task):** En la pista subida, desde el `[tiempo de inicio]` hasta el `[tiempo de finalización]`, elimina el `[instrumento/sonido específico]` y reemplázalo con `[nuevo sonido]`.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

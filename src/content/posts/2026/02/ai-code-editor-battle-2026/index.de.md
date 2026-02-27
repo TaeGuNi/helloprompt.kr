@@ -72,7 +72,6 @@ Dies ist der grundlegende Prompt für einfache Feature-Implementierungen oder Bu
 > **Rolle:** Du bist ein Senior Frontend-Entwickler mit 10 Jahren Berufserfahrung.
 > **Aufgabe:** Behebe `[Problembeschreibung oder neues Feature]` in der aktuell geöffneten Datei `[Dateiname]`. Stelle sicher, dass der Code strikt den TypeScript-Typvorgaben und unseren Tailwind CSS-Konventionen entspricht.
 
-\
 
 ### 🥇 Pro Version (Für Architektur-Refactorings in Windsurf / OpenClaw)
 

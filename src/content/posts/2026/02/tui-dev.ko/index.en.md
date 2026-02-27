@@ -38,7 +38,6 @@ Use this when you just need a quick, foundational TUI boilerplate for a specific
 > **Role:** You are a Senior `[Language]` Developer and a TUI expert.
 > **Task:** Write the basic TUI application boilerplate code using `[Language/Framework]` to implement `[Target Feature]`. Please also provide the instructions on how to run it.
 
-\
 
 ### 🥇 Pro Version
 

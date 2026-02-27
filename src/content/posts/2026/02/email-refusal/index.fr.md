@@ -44,7 +44,6 @@ Idéal pour décliner rapidement une offre commerciale standard ou signaler un s
 > **Rôle :** Tu es un `[Expert en Communication d'Entreprise]`.
 > **Tâche :** Rédige un e-mail de refus courtois suite à une `[Proposition commerciale / Demande de rendez-vous]` adressée à mon entreprise. La raison est `[un manque de budget actuel / un planning surchargé]`.
 
-\
 
 ### 🥇 Version Pro
 

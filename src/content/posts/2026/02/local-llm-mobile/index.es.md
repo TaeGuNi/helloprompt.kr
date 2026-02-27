@@ -41,7 +41,6 @@ La inteligencia artificial en el dispositivo (On-device AI) está redefiniendo n
 > **Instrucción:** Resume el siguiente texto en exactamente 2 viñetas. Ve directo al punto, sin introducciones ni saludos.
 > **Texto:** `[Inserta tu texto aquí]`
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

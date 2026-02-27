@@ -37,7 +37,6 @@ Usala quando hai bisogno di implementare rapidamente una funzione specifica o un
 > **Ruolo:** Sei un Senior Developer esperto in `[Linguaggio/Framework]`.
 > **Task:** Facendo riferimento al contesto del workspace, scrivi il codice più ottimizzato per implementare la seguente `[Funzionalità Specifica]`.
 
-\
 
 ### 🥇 Versione Pro (Professional Version)
 

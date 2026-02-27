@@ -42,7 +42,6 @@ Usa questo prompt per avviare rapidamente una conversazione senza troppi fronzol
 > **Ruolo:** Agisci come un `[ruolo del partner, es. cameriere gentile / ufficiale di dogana severo]`. Io sarò `[il tuo ruolo, es. un turista che ordina un caffè / un viaggiatore in aeroporto]`.
 > **Richiesta:** Iniziamo un gioco di ruolo in `[Lingua desiderata, es. Inglese]`. Fammi una domanda alla volta e aspetta la mia risposta.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

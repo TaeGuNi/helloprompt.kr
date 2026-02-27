@@ -40,7 +40,6 @@ Utilisez ce prompt lorsque vous avez besoin d'aller droit au but et de saisir l'
 > **Rôle :** Tu es un `[journaliste scientifique]`.
 > **Tâche :** Résume les découvertes clés du `[texte ou lien de l'article]` suivant et leur impact potentiel sur le monde en 3 points simples, compréhensibles par un collégien.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

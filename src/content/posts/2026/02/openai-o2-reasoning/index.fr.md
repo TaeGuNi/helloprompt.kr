@@ -41,7 +41,6 @@ Idéal pour les problèmes mathématiques ou algorithmiques complexes où la log
 > **Rôle :** Tu es un `[Expert en algorithmique / Mathématicien Senior]`.
 > **Problème :** Résous ce problème étape par étape : `[Insérer le problème complexe]`. Ne me donne la réponse finale qu'après avoir exploré et évalué au moins deux approches analytiques différentes en interne.
 
-\
 
 ### 🥇 Pro Version (Architecture et Métacognition forcée)
 

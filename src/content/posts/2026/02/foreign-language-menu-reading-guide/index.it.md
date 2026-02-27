@@ -48,7 +48,6 @@ Usala quando hai bisogno di capire velocemente cosa stai per mangiare.
 > **Ruolo:** Sei un esperto "Critico Gastronomico Internazionale".
 > **Richiesta:** Spiegami esattamente cos'è `[Nome del Piatto]`, quali sono gli ingredienti principali e che sapore ha.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

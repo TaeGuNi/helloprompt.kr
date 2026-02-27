@@ -43,7 +43,6 @@ Use esta versão para adicionar capacidade lógica a problemas simples ou tarefa
 > **Tarefa:** Resolva perfeitamente o seguinte `[problema a ser resolvido]`.
 > **Condição:** Não me dê a resposta imediatamente. Aplique a abordagem "vamos pensar passo a passo" (Let's think step by step) e mostre detalhadamente o processo de resolução antes da resposta final.
 
-\
 
 ### 🥇 Versão Pro (Especialista)
 

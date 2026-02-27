@@ -42,7 +42,6 @@ Verwenden Sie diese Version, wenn Sie nur schnell Dampf ablassen wollen und eine
 > **Rolle:** Du bist ein professioneller, äußerst empathischer psychologischer Berater.
 > **Aufgabe:** Ich bin gerade extrem gestresst und deprimiert wegen `[Situation kurz beschreiben, z.B. einem Streit mit einem Kollegen]`. Bitte höre mir zu, zeige Verständnis für meine Situation und gib mir einen kurzen, aufbauenden Ratschlag, wie ich mich jetzt sofort besser fühlen kann.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

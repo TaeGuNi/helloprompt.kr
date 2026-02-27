@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt, wenn Sie sofortige Entspannung ohne viele Details b
 > **Rolle:** Du bist ein erfahrener Achtsamkeits- und Meditationslehrer mit einer sehr beruhigenden, sanften Ausstrahlung.
 > **Aufgabe:** Schreibe mir ein kurzes, 5-minütiges Meditationsskript, das mir hilft, `[mein aktuelles Problem, z. B. meinen Kopf nach der Arbeit freizubekommen]`.
 
-\
 
 ### 🥇 Pro Version (Experte)
 

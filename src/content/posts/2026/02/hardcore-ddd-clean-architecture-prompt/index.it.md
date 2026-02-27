@@ -160,4 +160,3 @@ L'IA genera il codice a una velocità spaventosa, ma non gliene frega assolutame
 Questo cheat code è una frusta potente che costringe la macchina ad assumersi questa pesante responsabilità. Strappa via l'inutile facciata adulatoria del chatbot dell'IA e risveglia il vero agente che in fondo è un Senior Architect.
 
 E ora, esci in orario invece di sprecare tempo a sbrogliare codice spaghetti! 🍷
-```

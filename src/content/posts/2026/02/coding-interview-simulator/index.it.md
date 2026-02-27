@@ -42,7 +42,6 @@ Usala quando hai bisogno di un feedback rapido e diretto sulla tua soluzione.
 > **Ruolo:** Sei un `[Senior Software Engineer di Google/Amazon]`.
 > **Richiesta:** Comportati come un intervistatore tecnico. Valuta il mio codice per il problema `[Inserisci il problema]` e fammi una domanda per migliorarlo.
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 
@@ -66,9 +65,9 @@ Usala quando vuoi simulare un vero colloquio tecnico approfondito. Copia il cont
 >
 > - **Problema:** `[Inserisci la descrizione del problema, es. Trovare la somma di due numeri in un array]`
 > - **Il Mio Codice:**
->   ```python
+>
 >   [Incolla qui il tuo codice]
->   ```
+>
 >
 > **Attenzione (Warning):**
 >

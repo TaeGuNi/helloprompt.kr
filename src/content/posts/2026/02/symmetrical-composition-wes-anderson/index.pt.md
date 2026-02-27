@@ -43,7 +43,6 @@ Use esta versão quando precisar de um resultado perfeitamente alinhado, rápido
 > **Papel:** Você é um diretor de fotografia especialista em simetria.
 > **Solicitação:** Crie um prompt de imagem para um saguão de hotel onde a composição seja perfeitamente simétrica e centralizada.
 
-\
 
 ### 🥇 Versão Pro (Expert)
 

@@ -42,7 +42,6 @@ Perfect for a quick glance at your spending habits without overcomplicating thin
 > **Role:** You are a `[Financial Advisor]`.
 > **Task:** Analyze the following `[monthly expense list]` and tell me where I am spending the most money.
 
-\
 
 ### 🥇 Pro Version
 

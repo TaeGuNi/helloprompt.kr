@@ -45,7 +45,6 @@ Use this when you have a glaring error and need an immediate fix.
 > **Role:** You are an expert Frontend Engineer.
 > **Task:** Check the currently active Chrome tab using the DevTools MCP. Review the console logs for any errors, identify the root cause in the DOM or JS context, and provide the exact code fix.
 
-\
 
 ### 🥇 Pro Version (Comprehensive UI/UX Audit)
 

@@ -42,7 +42,6 @@ La meditación no consiste en dejar la mente en blanco, sino en aprender a enfoc
 > **Rol:** Eres un instructor de meditación experto con un tono de voz suave, empático y tranquilizador.
 > **Solicitud:** Necesito relajarme. Escribe una guía de meditación guiada de 5 minutos perfectamente adaptada a mi situación actual: `[estoy muy estresado por una fecha de entrega en el trabajo]`. Incluye pausas para respirar.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

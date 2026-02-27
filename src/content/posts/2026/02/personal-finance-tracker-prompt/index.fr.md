@@ -42,7 +42,6 @@ Utilisez ce prompt si vous souhaitez simplement catégoriser rapidement une list
 > **Rôle :** Tu es un `[Expert en Finances Personnelles]`.
 > **Tâche :** Catégorise et additionne la liste de `[Dépenses Mensuelles]` suivante, puis donne-moi le total par catégorie.
 
-\
 
 ### 🥇 Version Pro (Pour une analyse complète)
 

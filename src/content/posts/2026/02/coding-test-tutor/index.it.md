@@ -47,7 +47,6 @@ Usa questo prompt di base quando sei bloccato e hai solo bisogno di trovare la g
 
 > **Restrizioni:** Non fornire per nessun motivo il codice finale o la logica completa. Dammi solo un indizio su quale struttura dati sarebbe più vantaggioso utilizzare dal punto di vista della complessità temporale (Time Complexity).
 
-\
 
 ### 🥇 Versione Pro (Coaching e Revisione Passo-Passo)
 
@@ -60,9 +59,9 @@ Un prompt avanzato per esperti, ideale quando il tuo codice continua a fallire (
 > - **Sintesi del problema:** `[Obiettivo principale del problema]`
 > - **Il mio codice attuale (My Code):**
 >
-> ```python
+>
 > [Il codice errato che ho scritto]
-> ```
+>
 >
 > - **Problema riscontrato:** Se invio questo codice, ottengo l'errore `[Time Limit Exceeded / Runtime Error / Wrong Answer]`.
 >

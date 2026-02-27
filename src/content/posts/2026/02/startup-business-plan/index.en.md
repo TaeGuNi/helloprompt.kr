@@ -42,7 +42,6 @@ Use this when you want to quickly test if your raw idea aligns with the tone and
 > **Role:** You are an expert consultant specializing in government startup grants.
 > **Task:** Summarize the **'Problem'** and **'Solution'** sections for my idea, `[a dog-walking buddy matching app]`, using professional, concise bullet points typically found in official business plans (e.g., "Expected to...", "Designed for..."). Limit to 3 bullet points per section.
 
-\
 
 ### 🥇 Pro Version (Full PSST Structure)
 

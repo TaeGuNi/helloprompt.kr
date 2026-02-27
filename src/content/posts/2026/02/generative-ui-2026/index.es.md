@@ -41,7 +41,6 @@ Ideal para pruebas de concepto (PoC) rápidas y para renderizar componentes aisl
 > **Rol:** Eres un asistente de interfaz de usuario (UI).
 > **Instrucción:** El usuario te pedirá información. En lugar de responder con texto normal, debes responder con un objeto JSON que represente el componente visual ideal para mostrar esa información. Utiliza únicamente componentes lógicos como `Card`, `Chart` o `Table`.
 
-\
 
 ### 🥇 Pro Version (Versión Profesional)
 

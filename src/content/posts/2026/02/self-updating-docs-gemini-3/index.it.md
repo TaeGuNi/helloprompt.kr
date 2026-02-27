@@ -43,7 +43,6 @@ Usa questo prompt per generare rapidamente descrizioni per le PR o per semplici 
 > **Ruolo:** Sei un Senior Technical Writer.
 > **Compito:** Analizza il seguente `[Git Diff]` che ho appena modificato e riscrivi in Markdown le parti del `[README.md]` che necessitano di aggiornamento. Ignora le modifiche relative a semplici errori di battitura o refactoring.
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

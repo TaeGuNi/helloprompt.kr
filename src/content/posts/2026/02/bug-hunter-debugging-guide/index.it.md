@@ -43,7 +43,6 @@ Ideale per errori semplici o quando vai di fretta.
 > **Ruolo:** Sei un Senior Software Engineer esperto di debugging.
 > **Richiesta:** Ho questo errore: `[INSERISCI ERRORE]`. Analizza questo snippet di codice e dimmi dove sto sbagliando e come risolverlo: `[INSERISCI CODICE]`.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

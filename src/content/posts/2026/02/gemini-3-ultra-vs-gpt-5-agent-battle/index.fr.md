@@ -51,7 +51,6 @@ Utilisez cette approche lorsque vous souhaitez confier la planification et le co
 > **Rôle :** Tu es un `[Développeur IA Senior]`.
 > **Tâche :** Conçois un `[Agent d'investissement boursier autonome]` et rédige le code Python complet pour l'exécuter.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

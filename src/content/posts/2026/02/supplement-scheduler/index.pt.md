@@ -42,7 +42,6 @@ Use esta versão para uma resposta rápida e direta sem precisar detalhar muito 
 > **Papel:** Você é um Farmacêutico Especialista e Consultor de Nutrição.
 > **Solicitação:** Analise os seguintes suplementos: `[Lista de Suplementos]`. Crie um cronograma de ingestão otimizado que evite conflitos de absorção e interações negativas.
 
-\
 
 ### 🥇 Versão Pro (Expert Version)
 

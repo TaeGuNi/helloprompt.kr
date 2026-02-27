@@ -58,7 +58,6 @@ Ideal para correções rápidas, revisões de sintaxe ou pequenos trechos de có
 > **Task:** Analise e refatore o código abaixo para melhorar a performance e a legibilidade. Explique as mudanças.
 > **Código:** `[Cole seu código aqui]`
 
-\
 
 ### 🥇 Pro Version (Versão Profissional)
 
@@ -79,9 +78,9 @@ Utilize esta versão para aproveitar a capacidade de raciocínio lógico profund
 >
 > **Código Alvo:**
 >
-> ```
+>
 > [Cole o código completo aqui]
-> ```
+>
 >
 > **Restrições (Constraints):**
 >

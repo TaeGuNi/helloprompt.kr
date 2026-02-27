@@ -44,7 +44,6 @@ Utilisez cette version si vous souhaitez simplement et rapidement savoir si vous
 > **(Après avoir téléchargé votre photo)**
 > **Requête :** En te basant sur mon teint, la couleur de mes cheveux et celle de mes yeux sur cette photo, analyse ma colorimétrie (Printemps/Été/Automne/Hiver). Explique-moi en détail les raisons de ton diagnostic en t'appuyant sur des caractéristiques visuelles précises.
 
-\
 
 ### 🥇 Version Pro
 

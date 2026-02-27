@@ -42,7 +42,6 @@ Use esta versão para iniciar rapidamente um cenário sem configurações comple
 > **Papel:** Você é um Mestre de Jogo de Simulação Histórica.
 > **Solicitação:** E se eu fosse o Almirante Yi Sun-sin durante a Batalha de Myeongnyang? Permita-me vivenciar a história fazendo escolhas como em um jogo de aventura de texto.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

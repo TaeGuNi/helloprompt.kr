@@ -40,7 +40,6 @@ Idéal pour obtenir rapidement un premier jet à partir de quelques mots-clés.
 > **Rôle :** Tu es un `[journaliste technologique expérimenté]`.
 > **Tâche :** Rédige un article informatif annonçant que `[Waymo lance son système de conduite autonome de 6e génération]`. Mets en avant les éléments suivants : `[nouveaux capteurs, gestion de la météo et fluidité de conduite]`.
 
-\
 
 ### 🥇 Version Pro
 

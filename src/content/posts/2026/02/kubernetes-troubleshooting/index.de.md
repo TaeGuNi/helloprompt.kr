@@ -47,7 +47,6 @@ Verwenden Sie diesen Prompt, um die Bedeutung der Fehlerprotokolle intuitiv zu e
 > **Aufgabe:**
 > Fasse die Hauptursache dieses Fehlers aus der Perspektive eines Entwicklers sehr einfach zusammen (z. B. Speichermangel, Berechtigungsfehler, Netzwerk-Timeout usw.). Nenne mir zudem die 2 wichtigsten Punkte, die ich sofort überprüfen sollte.
 
-\
 
 ### 🥇 Pro Version (Für Incident Recovery & SRE-Berichte)
 

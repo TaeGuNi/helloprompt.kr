@@ -44,7 +44,6 @@ tags: [AI, Git, DevOps, Automation]
 > **Роль:** Ты — `[DevOps инженер]`.
 > **Задача:** Напиши shell-скрипт Git Hook и инструкцию по настройке с использованием `[Husky]`, чтобы `[запускать npm run lint перед выполнением git commit]`.
 
-\
 
 ### 🥇 Pro Version (Продвинутая версия)
 

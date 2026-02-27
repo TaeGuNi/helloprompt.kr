@@ -43,7 +43,6 @@ AI 에디터(Cursor의 `Cmd+I` Composer 모드 또는 Windsurf의 Cascade 패널
 > **역할:** 너는 `[Next.js]` 전문 시니어 개발자야.
 > **요청:** 현재 프로젝트에 `[사용자 피드백 수집 기능]`을 추가해 줘. 필요한 UI 컴포넌트와 API 라우트를 모두 자동 생성하고 연결해.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

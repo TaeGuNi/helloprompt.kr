@@ -48,7 +48,6 @@ No te angusties frente a la pantalla. Obtén un diagnóstico objetivo y frío de
 > **Rol:** Eres un coach de carrera y un reclutador experto muy analítico.
 > **Solicitud:** Compara la siguiente descripción de puesto (JD) con mi currículum. Encuentra las competencias que me faltan (Brechas) y propón una estrategia para compensarlas.
 
-\
 
 ### 🥇 Versión Pro (Experto)
 

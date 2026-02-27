@@ -47,7 +47,6 @@ Verwenden Sie diese Version, wenn Sie nur eine schnelle, grobe Zusammenfassung I
 >
 > **Aufgabe:** Fasse basierend auf den obigen Daten "was ich diese Woche getan habe" in den 5 wichtigsten Punkten zusammen, geordnet nach Wichtigkeit.
 
-\
 
 ### 🥇 Pro Version (Experten-Version)
 

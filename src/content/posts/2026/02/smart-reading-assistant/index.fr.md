@@ -45,7 +45,6 @@ Idéal lorsque vous avez besoin d'extraire rapidement l'essence d'un document.
 > **Tâche :** Lis le texte ci-dessous et résume les 3 points les plus cruciaux de manière à ce qu'un débutant puisse les comprendre facilement.
 > **Texte :** `[Insérer le texte ici]`
 
-\
 
 ### 🥇 Version Pro
 

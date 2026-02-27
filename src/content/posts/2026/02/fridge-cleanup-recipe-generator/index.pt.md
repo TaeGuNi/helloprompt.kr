@@ -42,7 +42,6 @@ Use esta versão quando precisar apenas de uma sugestão rápida e direta.
 > **Papel:** Você é um Chef de um restaurante com 2 estrelas Michelin e um especialista em culinária caseira saudável. Sua especialidade é extrair o máximo de sabor com o mínimo de ingredientes.
 > **Solicitação:** Crie uma receita saudável de 5 estrelas usando os ingredientes que estão sobrando na minha geladeira: `[ingredientes]`.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

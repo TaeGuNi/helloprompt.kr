@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt, wenn Sie nur eine schnelle Umformulierung Ihrer Sti
 > **Rolle:** Du bist ein erfahrener HR-Business-Coach.
 > **Anfrage:** Formuliere die folgende Kritik so um, dass sie konstruktiv, motivierend und professionell klingt: `[Ihre Stichpunkte zur Kritik]`
 
-\
 
 ### 🥇 Pro-Version (Für detaillierte Leistungsbeurteilungen)
 

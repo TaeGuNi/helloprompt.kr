@@ -38,7 +38,6 @@ Utilisez cette version pour tester rapidement le squelette de la logique princip
 > **Rôle :** Tu es un `[Ingénieur Système Embarqué Senior]`.
 > **Tâche :** Rédige le code d'une `[base de données vectorielle Header-only]` en pur langage C, sans aucune dépendance. Il est impératif d'inclure une fonction de recherche utilisant la similarité cosinus.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

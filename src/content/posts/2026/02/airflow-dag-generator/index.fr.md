@@ -44,7 +44,6 @@ Utilisez cette version pour automatiser une tâche unique ou une planification s
 > **Rôle :** Tu es un bot Python expert en ingénierie des données.
 > **Tâche :** Rédige un code de DAG Airflow qui effectue un dump d'une base de données MySQL et le télécharge vers un bucket S3 tous les matins à 6h00 (KST). Utilise un `BashOperator` et configure-le pour effectuer 2 tentatives en cas d'échec.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

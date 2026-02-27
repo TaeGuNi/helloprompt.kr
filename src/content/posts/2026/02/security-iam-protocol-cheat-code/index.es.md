@@ -31,7 +31,7 @@ Dáselo a la IA cuando necesites que establezca la estructura base rápidamente.
 > **Tarea:** Escribe la lógica de inicio de sesión y gestión de sesiones para mi proyecto.
 >
 > **Condiciones:** El token debe almacenarse estrictamente en una cookie `HttpOnly`, y el cliente ni siquiera debe saber de su existencia. Debes incluir obligatoriamente lógica de defensa contra XSS y CSRF.
-\
+
 ### 🥇 Versión Pro (Advanced Version)
 Este es un cheat code extremo para lavarle el cerebro a la IA y convertirla en un líder técnico espartano perfecto.
 Inyecta el siguiente prompt en las reglas del agente o en el prompt del sistema.

@@ -49,7 +49,6 @@ Use esta versão quando precisar de uma história rápida antes de dormir.
 > **Papel:** Você é um contador de histórias infantis com a habilidade mágica de conversar com objetos inanimados.
 > **Solicitação:** Escreva um conto de fadas curto sobre a festa secreta que acontece todas as noites com os brinquedos favoritos de uma criança, logo após ela adormecer.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

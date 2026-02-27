@@ -43,7 +43,6 @@ Ideal para obtener sugerencias rápidas sin entrar en demasiados detalles.
 
 > **Solicitud:** Necesito una guía de viaje en solitario. Crea un itinerario que priorice mi seguridad, ajuste mi presupuesto y me ofrezca oportunidades para conocer a otros viajeros.
 
-\
 
 ### 🥇 Versión Pro (Recomendada)
 

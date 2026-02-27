@@ -55,7 +55,6 @@ Use esta versão para reduzir a "taxa de enrolação (Fluff Tax)" gerada durante
 > - É estritamente proibido incluir saudações amigáveis ou explicações adicionais como "Iniciarei a análise" ou "Os resultados são os seguintes".
 > - Produza exclusivamente o resultado da análise e a ação solicitada.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 
@@ -77,13 +76,13 @@ Este é o padrão com o maior impacto na redução de custos. Em vez de repassar
 >
 > - O formato de saída deve seguir estritamente o JSON abaixo:
 >
-> ```json
+>
 > {
 >   "thought": "Raciocínio lógico sobre a etapa atual...",
 >   "action": "Nome da função a ser executada ou a próxima ação",
 >   "new_state": "SUMMARY: [Resumo do que foi alcançado até agora]. PENDING: [Problema atual bloqueando o progresso]. GOAL: [Próximo objetivo a ser cumprido]."
 > }
-> ```
+>
 >
 > - O valor de `[new_state]` deve ser comprimido em um limite máximo de 100 palavras.
 > - Mantenha apenas fatos objetivos e decisões tomadas, eliminando qualquer conversa fiada.

@@ -49,7 +49,6 @@ Utilizza questo prompt quando la situazione è tesa e hai bisogno di un interven
 > **Ruolo:** Sei un mediatore familiare imparziale, saggio ed empatico.
 > **Richiesta:** Aiutami a far riappacificare i miei due figli che stanno litigando. Fai in modo che trovino un accordo equo e che si rendano conto dell'importanza del loro legame.
 
-\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

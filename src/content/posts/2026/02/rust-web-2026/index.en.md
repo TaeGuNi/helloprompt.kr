@@ -43,7 +43,6 @@ Use this when you need a quick, standard Axum backend setup for a microservice.
 > **Role:** You are a Senior Rust Developer in 2026.
 > **Task:** Scaffold a basic web server using the latest version of `axum` and `tokio`. Include a health check route and a simple JSON response endpoint.
 
-\
 
 ### 🥇 Pro Version
 

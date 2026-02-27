@@ -42,7 +42,6 @@ Nutzen Sie diesen Prompt, wenn Sie sofort ein grobes Verständnis oder eine schn
 > **Rolle:** Du bist ein `[Finanzmodellierungs-Experte]`.
 > **Anfrage:** Erkläre mir, wie ich die Excel-Datentabellen-Funktion nutze, um zu berechnen, wie sich mein Gewinn verändert, wenn der `[Wechselkurs]` um 10% steigt.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

@@ -43,7 +43,6 @@ Verwenden Sie diesen Prompt, wenn Sie ein kleines, isoliertes Skript oder eine e
 > **Rolle:** Du bist ein Senior Frontend Entwickler.
 > **Aufgabe:** Erstelle eine responsive `[Login-Komponente]` mit `[React und TailwindCSS]`. Achte strikt auf Barrierefreiheit (a11y) und eine sinnvolle Fehlerbehandlung bei der Eingabe.
 
-\
 
 ### 🥇 Pro Version (Der System-Architekt)
 

@@ -38,7 +38,6 @@ Nutzen Sie diesen Prompt, um schnell herauszufinden, ob Ihre Hardware für ein S
 > **Rolle:** Du bist ein Experte für Edge-KI und Systemarchitektur.
 > **Aufgabe:** Analysiere, ob ein `[Gerätemodell/Spezifikation]` ein lokales Sprachmodell mit `[Parameter-Größe, z. B. 2B]` Parametern für `[Anwendungsfall]` effizient ausführen kann. Nenne drei Vor- und Nachteile.
 
-\
 
 ### 🥇 Pro Version (Expertenmodus)
 

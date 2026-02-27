@@ -43,7 +43,6 @@ Utilisez cette version pour un diagnostic immédiat lorsque vous êtes pressé.
 > **Demande :** Analyse le log d'erreur ci-dessous, dis-moi exactement ce qui a planté et donne-moi le code pour le corriger.
 > **Log :** `[Collez votre erreur ici]`
 
-\
 
 ### 🥇 Version Pro (Expert)
 
@@ -65,9 +64,9 @@ Utilisez cette version pour une analyse approfondie des crashs complexes en prod
 >
 > **Journal d'Erreurs (Log) :**
 >
-> ```text
+>
 > [Collez la totalité de votre stack trace ou log d'erreur ici]
-> ```
+>
 >
 > **Contraintes (Constraints) :**
 >
@@ -120,7 +119,6 @@ Exception in thread "main" java.lang.NullPointerException
     ... (100 lignes de trace de pile incompréhensibles)
 ```
 
-\
 
 ### ✅ Après (Réponse de l'IA)
 

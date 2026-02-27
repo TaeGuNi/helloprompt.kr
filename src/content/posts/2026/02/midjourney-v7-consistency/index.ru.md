@@ -39,7 +39,6 @@ tags: ["AI", "Tech", "midjourney-v7-consistency"]
 > **Роль:** Ты — цифровой художник.
 > **Запрос:** Сгенерируй кинематографичный портрет: A cinematic portrait of a young woman in a cyberpunk city, neon lights `--cref [URL_ИЗОБРАЖЕНИЯ_ПЕРСОНАЖА]`
 
-\
 
 ### 🥇 Про-версия (Pro Version)
 

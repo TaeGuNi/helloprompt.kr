@@ -51,7 +51,6 @@ Se non stai utilizzando la funzione di **Context Caching** offerta dalle API piÃ
 
 > _Pro Tip:_ Posiziona i contenuti statici (regole, esempi) in cima al prompt e i contenuti dinamici (query dell'utente, conversazione recente) in fondo. Il caching funziona in base al prefisso (Prefix) del testo!
 
-\
 
 ### ðŸ¥‡ Pattern 2: Il Loop "Summarize-and-Forget" (Riassumi e Dimentica)
 

@@ -37,7 +37,6 @@ Idéal pour saisir rapidement l'essence d'un document volumineux. (À utiliser a
 > **Rôle :** Tu es un Analyste de Données Senior.
 > **Tâche :** Lis l'intégralité des documents ci-joints et résume les 5 insights les plus importants.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

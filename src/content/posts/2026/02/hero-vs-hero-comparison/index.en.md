@@ -42,7 +42,6 @@ Use this prompt when you need a quick, high-level comparison without too much de
 > **Role:** You are an expert `[Comparative Historian]`.
 > **Request:** Compare and analyze the similarities and differences between `[Historical Figure A]` and `[Historical Figure B]`.
 
-\
 
 ### 🥇 Pro Version
 

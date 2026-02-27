@@ -46,7 +46,6 @@ Usala quando hai bisogno di un rapido refactoring CSS o di una correzione delle 
 > **Vincoli (Constraints):** 
 > - Ometti spiegazioni inutili o saluti.
 > - Restituisci solo il blocco di codice corretto e una breve e arida spiegazione del motivo.
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

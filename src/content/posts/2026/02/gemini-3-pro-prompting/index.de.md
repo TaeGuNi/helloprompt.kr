@@ -39,7 +39,6 @@ Verwenden Sie diese Version, wenn Sie nur schnell das logische Grundgerüst eine
 > **Rolle:** Du bist ein Senior Product Manager.
 > **Aufgabe:** Erkläre die zentrale Geschäftslogik und mögliche Risiken für `[Idee für neuen Service]`, aufgeteilt in 3 logische Schritte.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

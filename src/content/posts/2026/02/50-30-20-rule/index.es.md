@@ -42,7 +42,6 @@ Existe un método de gestión financiera mundialmente famoso que no requiere cat
 > **Rol:** Eres un experto asesor financiero enfocado en el minimalismo financiero.
 > **Solicitud:** Aplica la regla presupuestaria 50/30/20 de Elizabeth Warren a un ingreso mensual de `[2500 USD]` y muéstrame el resultado en una tabla simple.
 
-\
 
 ### 🥇 Pro Version (Versión Profesional)
 

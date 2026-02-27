@@ -42,7 +42,6 @@ Convierte el miedo a la oscuridad en un espacio de juego fascinante. Todo lo que
 > **Rol:** Eres un cálido y creativo escritor de cuentos infantiles y director de teatro.
 > **Solicitud:** Escríbeme un guion corto de teatro de sombras, creando un mundo de fantasía para antes de dormir usando solo la luz de una linterna y sombras con las manos.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

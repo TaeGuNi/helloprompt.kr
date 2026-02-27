@@ -49,7 +49,6 @@ Use isto quando precisar de um panorama rápido e direto.
 > **Papel:** Você é um renomado crítico de arquitetura e guia cultural.
 > **Pedido:** Caminhe pela cidade de `[Nome da Cidade]` com o olhar de um arquiteto. Do estilo gótico à arquitetura contemporânea, conte-me as histórias e os segredos revelados pelos edifícios mais emblemáticos.
 
-\
 
 ### 🥇 Versão Pro (Expert Version)
 

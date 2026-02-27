@@ -50,7 +50,6 @@ Use this when you need rapid-fire text to copy and paste across multiple social 
 >
 > **Original Text:** `[Paste your blog post content here]`
 
-\
 
 ### 🥇 Pro Version
 

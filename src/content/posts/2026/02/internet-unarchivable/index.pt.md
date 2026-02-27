@@ -40,7 +40,6 @@ Use esta versão quando precisar salvar rapidamente apenas o texto principal da 
 > **Role:** Você é um 'Arquivista Digital' especialista.
 > **Task:** A partir do texto confuso da página web fornecido abaixo, remova todo o ruído (como menus e anúncios) e organize apenas o 'conteúdo principal' informativo de forma limpa usando Markdown.
 
-\
 
 ### 🥇 Versão Pro (Professional Version)
 
@@ -62,9 +61,9 @@ Ideal para criar um documento de arquivo perfeito que pode ser salvo instantanea
 >
 > **Input Data:**
 >
-> ```text
+>
 > [Cole todo o texto da página web (Ctrl+A, Ctrl+C) ou o código-fonte HTML aqui]
-> ```
+>
 >
 > **Constraints:**
 >

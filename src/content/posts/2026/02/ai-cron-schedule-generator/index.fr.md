@@ -42,7 +42,6 @@ Utilisez cette version lorsque vous avez besoin d'un résultat rapide sans param
 > **Rôle :** Tu es un `[Ingénieur DevOps]`.
 > **Tâche :** Convertis `[chaque dernier vendredi du mois à 23h00]` en une expression Crontab Linux. Ajoute une brève explication sur le moment précis de son exécution.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

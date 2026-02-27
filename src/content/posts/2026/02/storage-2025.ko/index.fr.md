@@ -38,7 +38,6 @@ Idéal pour obtenir un résumé statistique rapide.
 > **Rôle :** Tu es un `[Ingénieur Infrastructure Cloud]`.
 > **Tâche :** Analyse les `[Données statistiques des disques Backblaze 2025]` et résume 3 insights clés pour concevoir une architecture de stockage destinée à l'IA.
 
-\
 
 ### 🥇 Version Pro
 

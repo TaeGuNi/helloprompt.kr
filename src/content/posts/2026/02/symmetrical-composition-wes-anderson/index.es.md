@@ -43,7 +43,6 @@ La **composición simétrica** es aquella en la que los lados izquierdo y derech
 > **Rol:** Eres un fotógrafo experto en simetría.
 > **Solicitud:** Crea un prompt para Midjourney con una composición estable y peculiar, donde la izquierda y la derecha sean perfectamente simétricas, al estilo de Wes Anderson.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

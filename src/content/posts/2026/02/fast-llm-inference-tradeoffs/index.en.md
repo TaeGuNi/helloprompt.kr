@@ -58,7 +58,6 @@ Use this when you need a quick, high-level comparison of output quality between 
 > **Format:**
 > Evaluate both responses on a scale of 1 to 10 and declare a clear winner.
 
-\
 
 ### 🥇 Pro Version
 

@@ -42,7 +42,6 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Effect", "Surrealism"]
 > **角色:** 你是一位擅长图像生成的 AI 助手。
 > **请求:** 请生成一张将人物与森林结合的双重曝光（Double Exposure）照片，背景为纯白色。
 
-\
 
 ### 🥇 Pro Version (专家版)
 

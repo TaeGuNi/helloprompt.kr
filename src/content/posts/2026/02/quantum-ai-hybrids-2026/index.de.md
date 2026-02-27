@@ -41,7 +41,6 @@ Nutzen Sie diesen Prompt, wenn Sie schnell einen funktionsfähigen Code-Schnipse
 > **Rolle:** Du bist ein Experte für Quantum Machine Learning (QML).
 > **Aufgabe:** Schreibe mir ein kurzes Python-Skript mit `tensorflow_quantum` und `cirq`. Erstelle einen hybriden neuronalen Netz-Layer (PQC), um `[SPEZIFISCHES_PROBLEM, z.B. molekulare Bindungsoptimierung]` effizienter zu berechnen. Integriere diesen Layer in ein klassisches Keras-Modell.
 
-\
 
 ### 🥇 Pro Version (Experte)
 

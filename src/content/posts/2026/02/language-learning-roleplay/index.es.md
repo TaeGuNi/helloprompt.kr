@@ -43,7 +43,6 @@ El aprendizaje de un idioma no es solo estudio, es un hábito. Sin embargo, qued
 > **Rol:** Eres un `[Barista de una cafetería en Nueva York]`. Yo soy un `[Turista que no habla bien inglés]`.
 > **Solicitud:** Ayúdame a practicar inglés simulando que te pido un café. Habla de forma sencilla y corrige mis errores al final.
 
-\
 
 ### 🥇 Versión Pro (Expert Version)
 

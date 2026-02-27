@@ -51,7 +51,6 @@ Usala quando hai bisogno di una risposta rapida e diretta.
 > **Ruolo:** Sei un Professore di Informatica (CS) ed esperto in ottimizzazione di algoritmi.
 > **Richiesta:** Analizza la complessità temporale e spaziale del codice seguente e suggerisci come migliorarne le prestazioni: `[Inserisci qui il codice]`
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 
@@ -72,9 +71,9 @@ Usala per un'analisi approfondita, con spiegazioni riga per riga e codice ottimi
 >
 > **Codice (Code):**
 >
-> ```
+>
 > [Incolla qui il tuo codice da analizzare]
-> ```
+>
 >
 > **Vincoli (Constraints):**
 >

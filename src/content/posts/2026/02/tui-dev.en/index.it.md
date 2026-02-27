@@ -38,7 +38,6 @@ Utilizzala quando vuoi impostare rapidamente solo la struttura e il layout di un
 > **Ruolo:** Sei un Senior Developer esperto in `[Go/Rust/Python/Node.js]` e uno specialista nel design di TUI (Text User Interface).
 > **Richiesta:** Scrivi il codice di scaffolding di base per un'applicazione TUI destinata a `[scopo dell'app]` utilizzando `[linguaggio e framework]`. La struttura deve prevedere una barra laterale a sinistra e una viewport principale a destra.
 
-\
 
 ### 🥇 Versione Pro (Pro Version)
 

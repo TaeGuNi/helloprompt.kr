@@ -44,12 +44,9 @@ Use this lightly when you need a quick check for critical bugs or syntax errors.
 > **Role:** You are a senior software engineer.
 > **Task:** Review the following code for security vulnerabilities or logical errors, and briefly point out the issues.
 >
-> ```
+>
 > [Paste your code here]
-> ```
-
-\
-
+>
 ### 🥇 Pro Version
 
 This is a practical, battle-tested prompt that understands the context of your code and meticulously checks for security vulnerabilities, refactoring opportunities, and readability.
@@ -76,10 +73,9 @@ This is a practical, battle-tested prompt that understands the context of your c
 > - If the code is excellent, praise it generously!
 >
 > **Input Code:**
-> ```
+>
 > [Paste the code to be reviewed here]
-> ```
-
+>
 ---
 
 ## 💡 Writer's Insight

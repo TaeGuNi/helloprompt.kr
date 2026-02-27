@@ -42,7 +42,6 @@ Usala quando hai bisogno di un'idea generale in pochi secondi.
 > **Ruolo:** Sei una Guida Turistica Professionista e un Maestro della Logistica.
 > **Richiesta:** Crea un itinerario di `[3 giorni e 2 notti]` a `[Osaka, Giappone]` per `[una famiglia con genitori anziani]`, focalizzato su `[cibo e relax]`.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

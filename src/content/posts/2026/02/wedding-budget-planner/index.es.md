@@ -42,7 +42,6 @@ La preparación de una boda es una serie interminable de "elecciones" que rápid
 > **Rol:** Eres un `[Planificador de Bodas Profesional]` con 10 años de experiencia y asesor financiero.
 > **Solicitud:** Predice y ayúdame a ahorrar en todos los costos que ocurren en el proceso de preparación de una boda, desde el alquiler del vestido hasta la luna de miel.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

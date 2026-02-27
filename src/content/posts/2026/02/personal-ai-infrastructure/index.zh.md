@@ -44,7 +44,6 @@ tags: ["AI", "Infrastructure", "Privacy", "Daniel Miessler"]
 > **角色：** 你是一位精通本地部署的 AI 架构师。
 > **任务：** 我有一台 `[您的设备型号，如 M3 MacBook Pro 16GB]`，请推荐最简单的方法在本地运行开源大语言模型，并列出所需的软件（如 Ollama）和推荐的模型。
 
-\
 
 ### 🥇 Pro Version (专家版)
 

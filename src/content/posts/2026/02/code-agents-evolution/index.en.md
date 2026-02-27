@@ -40,7 +40,6 @@ Use this when you need a quick, standard implementation of a small feature or st
 > **Role:** You are an Expert System Architect and Senior Software Engineer.
 > **Task:** Implement `[feature name]` using `[tech stack]`. Ensure the code follows standard best practices, is fully typed, and includes basic error handling.
 
-\
 
 ### 🥇 Pro Version
 

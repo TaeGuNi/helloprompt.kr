@@ -43,7 +43,6 @@ Ideale quando hai bisogno di un'immagine d'impatto senza troppe complicazioni.
 > **Ruolo:** Sei un fotografo naturalista esperto di macro.
 > **Richiesta:** Genera un'immagine macro estremamente ravvicinata che catturi dettagli microscopici impossibili da vedere a occhio nudo.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

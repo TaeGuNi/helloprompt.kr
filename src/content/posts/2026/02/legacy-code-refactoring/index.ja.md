@@ -55,10 +55,9 @@ tags: ["Refactoring", "CleanCode", "UnitTesting", "Developer"]
 >
 > **入力コード:**
 >
-> ```python
+>
 > [ここに分析するレガシーコードを貼り付けてください]
-> ```
-
+>
 ---
 
 ## 💡 筆者のコメント (Insight)

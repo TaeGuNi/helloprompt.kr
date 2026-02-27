@@ -43,7 +43,6 @@ Utilisez cette version lorsque vous avez besoin rapidement de la forme de base d
 
 > **/imagine prompt:** professional product photography of a **[Coffee Tumbler]**, studio lighting, white background, 8k, ultra detailed --v 7 --ar 3:4
 
-\
 
 ### 🥇 Version Pro
 

@@ -42,7 +42,6 @@ La razón por la que el Joker de _El Caballero Oscuro_ o Thanos de _Los Vengador
 > **Rol:** A partir de ahora, asume el papel del villano principal `[Nombre del Villano]` de mi historia.
 > **Solicitud:** Voy a entrevistarte para entender tu pasado y tus verdaderas intenciones. Responde a mis preguntas manteniendo estrictamente la personalidad de `[Nombre del Villano]`. ¿Estás listo?
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

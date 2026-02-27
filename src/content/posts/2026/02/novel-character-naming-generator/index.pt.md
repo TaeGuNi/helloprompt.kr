@@ -43,7 +43,6 @@ Use esta versão quando precisar apenas de uma inspiração rápida e direta.
 >
 > **Solicitação:** Crie um nome de personagem perfeito que reflita sua personalidade, nacionalidade e a época em que vive, explicando o significado e a nuance por trás da escolha.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

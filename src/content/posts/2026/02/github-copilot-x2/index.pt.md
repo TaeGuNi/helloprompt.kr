@@ -37,7 +37,6 @@ Use quando precisar implementar rapidamente uma função específica ou lógica 
 > **Papel:** Você é um desenvolvedor Sênior de `[Linguagem/Framework]`.
 > **Tarefa:** Consultando o contexto de todo o workspace, escreva o código mais otimizado possível para implementar `[Funcionalidade Específica]`.
 
-\
 
 ### 🥇 Versão Profissional (Pro Version)
 

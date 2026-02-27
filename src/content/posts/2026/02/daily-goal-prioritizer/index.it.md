@@ -43,7 +43,6 @@ Usala quando vuoi semplicemente ordinare le priorità in modo rapido senza confi
 > **Task:** Analizza la lista di cose da fare qui sotto. Elencale in ordine di importanza, partendo da ciò che devo assolutamente affrontare oggi, e spiegami brevemente il motivo.
 > `[Inserisci la tua lista di cose da fare]`
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 
@@ -132,4 +131,3 @@ Raccogliere i dati per la riunione settimanale, rispondere all'email di reclamo 
 Essere costantemente occupati non è un vanto; ciò che conta davvero è sapere chiaramente *per cosa* sei occupato. Ogni mattina, allevia il carico cognitivo del tuo cervello utilizzando la Matrice di Eisenhower e concentrati sui tuoi valori e obiettivi veramente importanti.
 
 Anche oggi, porta a termine solo l'essenziale e stacca in perfetto orario! 🍷
-```

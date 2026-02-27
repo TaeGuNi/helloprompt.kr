@@ -42,7 +42,6 @@ Usala quando hai bisogno di farti un'idea generale in pochi secondi.
 > **Ruolo:** Sei un esperto di Customer Experience (CX).
 > **Richiesta:** Leggi le seguenti recensioni dei clienti e riassumi le lamentele principali e i punti di forza. `[Inserisci le recensioni qui]`
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

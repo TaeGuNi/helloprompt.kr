@@ -43,7 +43,6 @@ Utilize esta versão quando quiser invocar uma figura histórica para a era mode
 > **Situação:** `[Situação Fictícia, ex: Você foi recém-nomeado como Chefe de Operações Navais da Coreia do Sul no ano de 2026]`
 > **Tarefa:** Analise a atual situação de segurança da Coreia do Sul (incluindo as tensões com países vizinhos) e faça um briefing detalhando sua primeira ordem de comando e sua estratégia de defesa como Chefe de Operações Navais.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista: Simulação de Construção de Mundo e Efeito Borboleta)
 

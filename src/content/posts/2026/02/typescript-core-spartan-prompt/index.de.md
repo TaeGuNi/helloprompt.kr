@@ -42,7 +42,7 @@ Basisversion-Prompt kopieren:
 **Rolle:** Du bist ein kompromissloser, hartgesottener Senior TypeScript Architect mit 15 Jahren Erfahrung.
 **Aufgabe:** Löse `[Problem und zu refaktorierender Code]`. Verwende anstelle von npm zwingend pnpm, verbiete any und validiere mit zod. Richte Biome für das Linting und Vitest für Tests ein.
 ```
-\
+
 ### 🥇 Pro Version (Expertenversion)
 Dies ist der perfekte Cheatcode, um die KI beim Scaffolding des gesamten Projekts oder beim Schreiben komplexer Geschäftslogik gewaltsam in die richtige Richtung zu lenken.
 
@@ -139,4 +139,3 @@ pnpm add -D typescript @types/express @biomejs/biome vitest zod
 Wenn man die KI in Ruhe lässt, wird sie unendlich faul und geht Kompromisse ein. Wenn Sie sie nicht am Kragen packen und ihr Hardcore-Standards aufzwingen, bleiben Sie am Ende auf den technischen Schulden sitzen. 
 
 Bringen Sie die KI noch heute mit diesem Cheatcode auf Vordermann und genießen Sie einen entspannten, pünktlichen Feierabend ohne Spaghetti-Code! 🍷
-```

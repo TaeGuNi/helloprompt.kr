@@ -43,7 +43,6 @@ Usala quando hai bisogno di risultati immediati e non hai tempo per i dettagli.
 > **Ruolo:** Sei un animatore per bambini creativo ed esperto di educazione infantile.
 > **Richiesta:** Crea 5 semplici indovinelli in rima per una caccia al tesoro in casa adatti a un bambino di 5 anni.
 
-\
 
 ### 🥇 Versione Pro (Expert)
 

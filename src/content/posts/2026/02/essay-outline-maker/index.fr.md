@@ -42,7 +42,6 @@ Utilisez cette approche si vous manquez cruellement de temps et avez besoin d'un
 > **Rôle :** Tu es un `[Auteur à succès et coach en rédaction]`.
 > **Demande :** Je suis bloqué sur l'écriture de mon texte concernant `[Sujet]`. Définis une structure logique (Introduction-Développement-Conclusion) et suggère-moi les idées principales pour chaque paragraphe.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

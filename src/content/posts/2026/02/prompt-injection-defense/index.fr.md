@@ -47,7 +47,6 @@ L'injection de prompt (Prompt Injection) est une cyberattaque subtile mais redou
 
 `[Entrée Utilisateur]`
 
-\
 
 ### 🥇 Version Pro (Expert)
 

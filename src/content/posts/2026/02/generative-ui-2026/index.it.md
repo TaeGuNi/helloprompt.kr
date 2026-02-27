@@ -43,7 +43,6 @@ Ideale per testare rapidamente la logica di generazione su un singolo componente
 > **Ruolo:** Sei un esperto sviluppatore frontend.
 > **Richiesta:** Genera la struttura dati JSON per un componente React che mostri `[descrivi l'interfaccia desiderata, es. le spese mensili di un utente divise per categorie]`. Usa una struttura chiara e tipizzata.
 
-\
 
 ### 🥇 Versione Pro (Pro Version)
 

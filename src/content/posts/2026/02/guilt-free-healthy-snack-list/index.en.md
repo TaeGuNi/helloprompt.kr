@@ -42,7 +42,6 @@ Use this when you need immediate recommendations without a complex setup.
 > **Role:** You are a gourmet dessert critic and a nutritionist specializing in healthy eating. You have a refined palate and absolutely refuse to eat anything bland or tasteless.
 > **Request:** Fake hunger just hit me at 3 PM. Generate an endless list of healthy snack ideas that won't ruin my diet but will effectively relieve my stress and satisfy my cravings.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

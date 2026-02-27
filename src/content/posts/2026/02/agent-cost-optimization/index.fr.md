@@ -55,7 +55,6 @@ Idéal pour réduire la "taxe de blabla" (Fluff Tax) générée lors du processu
 > - Les formules de politesse du type "Voici votre analyse", ou "Je vais procéder à l'analyse" sont strictement interdites.
 > - Affiche uniquement le résultat de l'analyse et l'action demandée, rien d'autre.
 
-\
 
 ### 🥇 Version Pro (Expert)
 
@@ -77,13 +76,13 @@ C'est le modèle qui offre la plus forte réduction de coûts. Au lieu de transm
 > 
 > - Le format de sortie doit obligatoirement respecter la structure JSON ci-dessous :
 > 
-> ```json
+>
 > {
 >   "thought": "Déduction logique pour l'étape actuelle...",
 >   "action": "Nom de la fonction à exécuter ou prochaine action",
 >   "new_state": "SUMMARY: [Résumé des accomplissements jusqu'à présent]. PENDING: [Problème ou blocage actuel]. GOAL: [Prochain objectif à atteindre]."
 > }
-> ```
+>
 > 
 > - La valeur de `[new_state]` doit impérativement être compressée en moins de 100 mots.
 > - Ne conserve que les faits objectifs et les décisions. Supprime tout bavardage.

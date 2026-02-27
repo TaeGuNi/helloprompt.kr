@@ -42,7 +42,6 @@ Use this when you need a rapid, high-level summary of a company's financials.
 > **Role:** You are a `[Senior Equity Analyst]` with 20 years of experience on Wall Street.
 > **Request:** I will provide the recent financial statement data for `[Company Name]`. Summarize the key takeaways in 1 minute, focusing only on the metrics that matter most for a retail stock investor.
 
-\
 
 ### 🥇 Pro Version (Deep Dive)
 

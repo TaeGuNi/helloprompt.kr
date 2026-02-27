@@ -48,7 +48,6 @@ Use this when you need a fast, dramatic result without complex parameters.
 >
 > **Camera:** Extreme low angle, worm's eye view.
 
-\
 
 ### 🥇 Pro Version (Expert Detail)
 

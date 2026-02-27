@@ -45,7 +45,6 @@ Los profesionales no tratan a la IA como una única inteligencia masiva, sino co
 >
 > **Tarea:** Para alcanzar con éxito el `[Objetivo del proyecto]`, planifica 3 hitos clave. Organiza en formato de tabla los profesionales (roles) que deben intervenir en cada etapa y las acciones específicas (action items) que deben ejecutar.
 
-\
 
 ### 🥇 Versión Pro (Expert Version)
 

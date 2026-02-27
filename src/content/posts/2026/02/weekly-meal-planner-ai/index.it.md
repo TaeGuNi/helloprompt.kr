@@ -42,7 +42,6 @@ Ideale per avere subito un'idea generale senza fare troppi calcoli o impostare p
 > **Ruolo:** Sei un nutrizionista esperto.
 > **Richiesta:** Creami un piano alimentare settimanale sano per una persona che ha come obiettivo `[es. perdere peso / mangiare più sano]`. Includi colazione, pranzo e cena per ogni giorno della settimana.
 
-\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

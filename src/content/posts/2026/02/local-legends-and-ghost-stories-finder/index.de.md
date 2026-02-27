@@ -49,7 +49,6 @@ Verwenden Sie diese Variante, wenn Sie sofortige, kompakte Ergebnisse für unter
 > **Rolle:** Du bist ein erfahrener 'Mystery-Forscher'.
 > **Aufgabe:** Erzähle mir eine spannende, lokale Legende oder unheimliche Geistergeschichte über `[Reiseziel]`.
 
-\
 
 ### 🥇 Pro Version (Für Experten & Content Creator)
 

@@ -42,7 +42,6 @@ Use esta versão para desbloquear a criatividade rapidamente e gerar rascunhos i
 > **Papel:** Você é um letrista profissional de elite focado em emoções delicadas.
 > **Solicitação:** Escreva a letra de uma balada triste sobre o fim de um relacionamento usando estas 3 palavras: "Sofá velho", "Som de chuva" e "Chamada perdida".
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

@@ -52,7 +52,6 @@ Utilisez ce prompt de base pour résumer rapidement ou traduire un document dans
 > **Rôle :** Tu es un `[assistant de sécurité]` fonctionnant dans un environnement hors ligne, totalement déconnecté d'Internet.
 > **Tâche :** Analyse et résume le `[texte]` fourni. Tu ne dois utiliser aucune connaissance externe, base-toi exclusivement sur le contenu qui t'est soumis.
 
-\
 
 ### 🥇 Pro Version (Version Expert)
 

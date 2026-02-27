@@ -36,7 +36,6 @@ Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 
 > **Rôle :** Tu es un `[architecte senior intraitable]`.
 > **Tâche :** Tu vas créer la fonctionnalité `[fonctionnalité à implémenter]`, mais tu dois impérativement séparer la logique métier de l'interface utilisateur (UI). Je ne tolérerai aucun code spaghetti où plusieurs responsabilités sont mélangées dans un seul fichier.
-\
 
 ### 🥇 Version Pro (Pro Version)
 Utilisez-la lorsque vous avez besoin d'une qualité détaillée et d'une séparation parfaite des couches.
@@ -59,7 +58,6 @@ Utilisez-la lorsque vous avez besoin d'une qualité détaillée et d'une sépara
 >
 > **Avertissement (Warning) :**
 > - Si le code sent un tant soit peu le spaghetti, ce projet est voué à l'échec. Ne fais aucun compromis et propose l'architecture la plus propre et idéale possible.
-\
 
 ### 💻 Version bloc de code facile à copier (Cheat Code Prompt)
 
@@ -155,4 +153,3 @@ Le plus dangereux quand on confie le code à une IA, c'est de se retrouver avec 
 Attrapez l'IA par le col avec ce code de triche DDD hardcore et extrayez une architecture correcte dès le départ. Le vous du futur fera une standing ovation au vous du passé.
 
 Maintenant, rentrez chez vous à l'heure ! 🍷
-```

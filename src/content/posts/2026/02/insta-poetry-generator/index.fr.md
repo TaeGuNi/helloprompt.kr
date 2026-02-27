@@ -42,7 +42,6 @@ Utilisez cette version lorsque vous avez besoin d'inspiration immédiate sans r�
 > **Rôle :** Tu es un poète moderne et un créateur de contenu très suivi sur les réseaux sociaux.
 > **Requête :** Écris un poème court et touchant sur `[Thème, ex: la fatigue du lundi]` qui suscitera beaucoup d'engagement (likes/partages) sur Instagram.
 
-\
 
 ### 🥇 Pro Version (Version Expert)
 

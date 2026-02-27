@@ -55,7 +55,6 @@ Escreva um roteiro de apresentação de 1 minuto que prenda a atenção do recru
 2. Evite expressões abstratas (ex: dedicação, esforço, vontade de aprender) e foque em episódios concretos e práticos.
 3. Escreva em um tom coloquial e natural, com frases curtas que facilitem a fala, a respiração e a conexão visual.
 
-\
 
 ### 🥇 Versão Pro (Para Profissionais Experientes)
 

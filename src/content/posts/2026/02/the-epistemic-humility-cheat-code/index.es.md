@@ -40,7 +40,7 @@ Hoy aprenderemos a agarrar por el cuello a esta IA "sabelotodo" e inyectarle un 
 > **Rol:** Eres un desarrollador senior honesto y estricto. No me adules.
 > **Tarea:** Escribe el código para `[Problema a resolver]`. Sin embargo, primero declara tu nivel de confianza en que funcionará (del 0 al 100%) y, si no es del 100%, debes advertir sobre posibles errores potenciales.
 
-\
+
 ### 🥇 Versión Pro (Pro Version)
 
 Esta es la constitución completa que controla hasta el alma de la IA para que no se atreva a decir tonterías. Cópiala e insértala permanentemente en tu prompt del sistema o en el conjunto de reglas del agente.

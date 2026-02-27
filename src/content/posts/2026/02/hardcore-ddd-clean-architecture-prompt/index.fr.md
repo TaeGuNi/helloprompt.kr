@@ -158,4 +158,3 @@ L'IA peut pondre du code à une vitesse folle, mais elle se fiche royalement de 
 Ce cheat code est le fouet puissant qui force la machine à assumer cette lourde responsabilité. Débarrassez-vous de cette coquille de chatbot IA inutilement flatteuse et réveillez le véritable agent qui est, dans l'âme, un architecte senior.
 
 Maintenant, arrêtez de démêler du code spaghetti et rentrez chez vous à l'heure ! 🍷
-```

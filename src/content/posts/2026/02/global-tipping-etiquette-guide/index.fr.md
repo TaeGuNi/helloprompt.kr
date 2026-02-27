@@ -48,7 +48,6 @@ Idéal lorsque le serveur attend devant vous et que vous avez besoin d'une répo
 > **Rôle :** Tu es un guide de voyage expert en étiquette internationale.
 > **Requête :** Je suis actuellement au `[Nom du Pays]` dans un `[Type de lieu : ex. restaurant, taxi]`. Dois-je laisser un pourboire, et si oui, quel pourcentage ou montant exact est attendu ?
 
-\
 
 ### 🥇 Pro Version (Version Expert)
 

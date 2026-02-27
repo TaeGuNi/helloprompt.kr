@@ -42,7 +42,6 @@ El estilo **Cyberpunk** se ha convertido en un lenguaje visual fundamental, yend
 > **Rol:** Eres un experto en arte conceptual de ciencia ficción y fotografía cinemática.
 > **Solicitud:** Genera una imagen de una ciudad futurista con iluminación de neón estilo cyberpunk, utilizando un intenso contraste de colores rosa y azul.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

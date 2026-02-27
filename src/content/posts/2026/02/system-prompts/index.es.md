@@ -54,7 +54,6 @@ Revisa el código proporcionado por el usuario y sugiere mejoras de rendimiento 
 
 > **`</system>`**
 
-\
 
 ### 🥇 Versión Pro (Framework Empresarial Completo)
 
@@ -87,13 +86,13 @@ Para agentes autónomos y sistemas en producción que requieren máxima segurida
 >
 > **`<output_format>`**
 >
-> ```json
+>
 > {
 >   "status": "success | error | blocked",
 >   "vulnerabilities_found": ["lista de problemas"],
 >   "fixed_code": "código corregido aquí"
 > }
-> ```
+>
 >
 > **`</output_format>`**
 >

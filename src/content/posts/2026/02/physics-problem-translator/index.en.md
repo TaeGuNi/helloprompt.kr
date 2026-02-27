@@ -43,7 +43,6 @@ Use this when you need a quick direction for a straightforward problem.
 > **Task:** Read the following physics problem, extract the known variables, and tell me which formula to apply to solve for `[Unknown Variable]`.
 > **Problem:** `[Insert Problem Text]`
 
-\
 
 ### 🥇 Pro Version (Expert)
 

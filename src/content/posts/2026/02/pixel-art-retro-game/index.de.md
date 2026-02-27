@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt für schnelle Konzeptentwürfe und einfache Icons.
 > **Rolle:** Du bist ein erfahrener Pixel-Art-Künstler aus der 16-Bit-Ära.
 > **Anfrage:** Erstelle eine `[8-Bit / 16-Bit]` Pixel-Art-Illustration von `[Motiv, z.B. einem grünen Drachen]`, die pure Retro-Gaming-Nostalgie weckt. Die Farben sollen lebhaft sein.
 
-\
 
 ### 🥇 Pro Version (Experten-Version)
 

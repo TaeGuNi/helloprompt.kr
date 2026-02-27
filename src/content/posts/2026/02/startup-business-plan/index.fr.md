@@ -42,7 +42,6 @@ Les programmes de subventions gouvernementales (comme le Package Création d'Ent
 > **Rôle :** Tu es un consultant expert en création de startups et subventions d'État.
 > **Requête :** Résume en 3 points concis, avec un style direct et professionnel (style "bullet points" utilisé dans les business plans), les sections **"Identification du problème (Problem)"** et **"Solution (Solution)"** pour mon idée de `[Application de mise en relation de partenaires de promenade pour chiens]`.
 
-\
 
 ### 🥇 Version Pro (Rédaction complète du sommaire PSST)
 

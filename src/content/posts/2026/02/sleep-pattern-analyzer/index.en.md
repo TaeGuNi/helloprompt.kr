@@ -42,7 +42,6 @@ Use this when you need a quick, high-level overview.
 > **Role:** You are a Sleep Medicine Expert and a Behavioral Psychologist specializing in CBT-I (Cognitive Behavioral Therapy for Insomnia).
 > **Request:** Analyze my daily routine and sleep environment to provide a customized, actionable guide to overcoming my insomnia.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

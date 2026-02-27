@@ -42,7 +42,6 @@ Use this when you need a rapid baseline draft for a job posting.
 > **Role:** You are a Startup Recruitment Branding Expert.
 > **Request:** Write a highly attractive and modern Job Description for a `[Job Title]` position at a `[Industry]` startup. Focus on drawing in ambitious talent.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

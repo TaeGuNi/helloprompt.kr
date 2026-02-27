@@ -48,7 +48,6 @@ Use esta versão para os cenários mais comuns: o prato já está decidido e voc
 2. Selecione variedades de uvas populares que sejam fáceis de beber para iniciantes.
 3. Explique o principal motivo pelo qual cada vinho combina com a comida em apenas uma frase.
 
-\
 
 ### 🥇 Versão Pro (Análise Profunda de Paladar)
 

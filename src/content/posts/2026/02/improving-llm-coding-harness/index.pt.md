@@ -40,7 +40,6 @@ Utilize para testes rápidos e validações de funções isoladas no dia a dia.
 > **Papel:** Você é um `[Engenheiro de Testes de Software]`.
 > **Tarefa:** Gere o código funcional para `[sua função/algoritmo]` e inclua um ambiente de teste (test harness) básico utilizando `[framework de testes]`, garantindo que todas as dependências estejam devidamente importadas ou mockadas.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

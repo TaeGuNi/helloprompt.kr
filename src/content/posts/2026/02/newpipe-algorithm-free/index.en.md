@@ -40,7 +40,6 @@ Use this when you need a quick list of algorithm-free platforms and tools to get
 >
 > **Task:** Recommend 5 algorithm-free platforms or tools (like RSS readers or chronological networks) to replace my current social media habits.
 
-\
 
 ### 🥇 Pro Version
 

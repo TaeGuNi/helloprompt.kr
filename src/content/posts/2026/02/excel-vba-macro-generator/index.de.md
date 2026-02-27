@@ -42,7 +42,6 @@ Verwenden Sie dies, wenn Sie eine simple Aufgabe schnell erledigen möchten.
 > **Rolle:** Du bist ein erfahrener Excel-VBA-Entwickler.
 > **Anfrage:** Schreibe ein VBA-Makro für folgende Aufgabe: `[Kopiere Daten von Blatt1 nach Blatt2 und lösche alle leeren Zeilen]`. Erkläre mir auch Schritt für Schritt, wie ich den Code in Excel einfüge und ausführe.
 
-\
 
 ### 🥇 Pro Version (Expertenform)
 

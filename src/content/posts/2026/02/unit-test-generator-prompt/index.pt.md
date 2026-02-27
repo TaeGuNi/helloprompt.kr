@@ -43,7 +43,6 @@ Ideal para funções simples e utilitárias onde você só precisa do código de
 > **Solicitação:** Escreva testes unitários cobrindo todos os cenários possíveis para a função a seguir usando `[Framework desejado, ex: Jest]`.
 > **Código:** `[Cole seu código aqui]`
 
-\
 
 ### 🥇 Versão Pro (Expert Version)
 
@@ -71,10 +70,9 @@ Use esta versão para lógicas de negócios complexas que envolvem injeção de 
 >
 > **Código:**
 >
-> ```
+>
 > [Cole seu código ou arquivo aqui]
-> ```
-
+>
 ---
 
 ## 💡 Comentário do Autor (Insight)

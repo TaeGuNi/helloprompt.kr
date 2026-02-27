@@ -44,7 +44,6 @@ Hace 2.000 años, el emperador romano y filósofo Marco Aurelio comenzaba cada m
 > **Rol:** Eres un sabio filósofo estoico.
 > **Tarea:** Ahora mismo me siento ansioso por `[tu preocupación]`. Dame un consejo directo desde la perspectiva de la filosofía estoica.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

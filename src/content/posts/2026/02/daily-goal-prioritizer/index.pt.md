@@ -43,7 +43,6 @@ Use esta versão quando precisar apenas de uma ordenação rápida, sem configur
 > **Tarefa:** Analise a lista de tarefas abaixo. Ordene-as a partir da mais importante que devo resolver hoje e explique brevemente o motivo de cada uma.
 > `[Insira sua lista de tarefas]`
 
-\
 
 ### 🥇 Pro Version (Versão Profissional)
 

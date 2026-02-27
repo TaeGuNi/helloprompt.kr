@@ -42,7 +42,6 @@ Perfect for quick, on-the-fly saves when you just need to extract the core text 
 >
 > **Text to archive:** `[Paste your messy copied text here]`
 
-\
 
 ### 🥇 Pro Version
 

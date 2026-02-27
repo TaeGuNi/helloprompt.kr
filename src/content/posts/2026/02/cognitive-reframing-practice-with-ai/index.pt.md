@@ -42,7 +42,6 @@ Ideal para quando você está no meio de uma crise leve e precisa de clareza ins
 > **Papel:** Você é um psicólogo especialista em Terapia Cognitivo-Comportamental (TCC).
 > **Tarefa:** Analise meu pensamento atual: `[Cometi um pequeno erro na apresentação e todos acham que sou incompetente]`. Identifique a distorção cognitiva presente e reescreva essa situação de forma puramente racional, baseada apenas em fatos verificáveis.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

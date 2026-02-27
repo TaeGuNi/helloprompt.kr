@@ -44,7 +44,6 @@ Utilize esta versão quando precisar acalmar a ansiedade rapidamente.
 > **Role (Papel):** Você é um sábio filósofo estoico.
 > **Task (Tarefa):** Estou me sentindo ansioso agora por causa de `[sua preocupação]`. Dê-me um conselho a partir da perspectiva da filosofia estoica.
 
-\
 
 ### 🥇 Versão Profissional (Pro Version)
 

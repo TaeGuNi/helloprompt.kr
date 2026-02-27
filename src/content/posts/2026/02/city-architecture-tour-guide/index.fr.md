@@ -49,7 +49,6 @@ Utilisez cette version pour obtenir un aperçu rapide et essentiel lors de vos b
 > **Rôle :** Tu es un `[Critique d'Architecture]` de renommée internationale.
 > **Demande :** Fais-moi visiter `[Nom de la Ville]` avec l'œil d'un expert. De l'architecture historique au design contemporain, raconte-moi les histoires fascinantes que cachent ces bâtiments.
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 

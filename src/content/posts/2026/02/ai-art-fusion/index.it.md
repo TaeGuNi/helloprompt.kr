@@ -40,7 +40,6 @@ Usa questa versione per un risultato rapido e sorprendente, ideale per esplorazi
 > **Ruolo:** Sei un maestro d'arte digitale specializzato nella fusione di stili storici.
 > **Richiesta:** Genera un dipinto del celebre 'Ritratto di una Bellezza' di Shin Yun-bok, ma dipingilo nello stile impressionista di Claude Monet. Usa colori vibranti, pennellate visibili a impasto e la tipica luce del mattino impressionista.
 
-\
 
 ### 🥇 Versione Esperta (Pro Version)
 

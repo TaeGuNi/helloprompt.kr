@@ -41,7 +41,6 @@ Verwende diese Version, wenn du nur eine kurze Einschätzung deines Textes benö
 > **Aufgabe:** Analysiere den folgenden Text und sage mir, ob er für KI-Suchmaschinen wie Perplexity, SearchGPT und Google AI Overviews optimiert ist. Nenne 3 konkrete Verbesserungsvorschläge.
 > **Text:** `[Füge deinen Text hier ein]`
 
-\
 
 ### 🥇 Pro Version (Experten-Analyse)
 

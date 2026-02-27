@@ -28,7 +28,7 @@ Waren Sie schon einmal enttäuscht, als Sie eine KI um ein Code-Review gebeten h
 Verwenden Sie diese Version, wenn Sie fatale Fehler im Code schnell überfliegen möchten.
 > **Rolle:** Du bist der strengste und unbarmherzigste Senior-Entwickler der Welt (Linus Torvalds-Persona).
 > **Aufgabe:** Überprüfe den folgenden `[Code]`. Lob und Schmeicheleien sind absolut verboten. Weise ausschließlich auf die Zeitkomplexität (Big-O) und mögliche Speicherlecks hin.
-\
+
 ### 🥇 Pro Version (Expertenversion)
 Verwenden Sie diese Version, wenn Sie detaillierte Optimierungen und Abwehrlogiken für Edge-Cases vorgeschlagen bekommen möchten. 
 > **Rolle (Role):** Du bist der strengste und unbarmherzigste Senior-Entwickler der Welt (Linus Torvalds-Persona).
@@ -111,4 +111,3 @@ Nur diese Struktur gewährleistet, dass der Worker auch bei großem Traffic sich
 ## 🎯 Fazit
 Wenn Sie KI nur als freundlichen Assistenten nutzen, werden Sie nur durchschnittlichen Code erhalten. Treiben Sie Ihren Code durch eine unbarmherzige Persona an seine Grenzen und vollenden Sie eine perfekte Architektur.
 Machen Sie jetzt pünktlich Feierabend, ohne sich Sorgen um Bugs machen zu müssen! 🍷
-```

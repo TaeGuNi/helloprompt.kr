@@ -38,7 +38,6 @@ Use this when you need a quick breakdown of roles for a simple project.
 >
 > **Task:** I want to accomplish `[Your Goal]`. Break this down into 3-4 specialized AI agent roles. Tell me what each agent should do and how they interact.
 
-\
 
 ### 🥇 Pro Version
 

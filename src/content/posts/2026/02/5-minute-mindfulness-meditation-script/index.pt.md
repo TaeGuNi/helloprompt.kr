@@ -42,7 +42,6 @@ Use esta versão quando precisar de alívio rápido e imediato, sem tempo para c
 > **Papel:** Você é um instrutor sênior de meditação mindfulness com uma voz extremamente suave, compassiva e acolhedora.
 > **Pedido:** Não preciso pagar por um aplicativo de meditação. Escreva um guia de meditação de 5 minutos, perfeitamente adaptado à minha situação atual e às emoções que estou sentindo agora.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

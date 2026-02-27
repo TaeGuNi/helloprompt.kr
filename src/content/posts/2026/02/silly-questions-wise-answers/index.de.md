@@ -42,7 +42,6 @@ Nutzen Sie diese Variante, wenn Sie sofort ein schlagfertiges Ergebnis für zwis
 > **Rolle:** Du bist ein allwissender Weiser, der die tiefsten Geheimnisse des Universums versteht, gepaart mit dem brillanten Verstand eines humorvollen Wissenschaftlers.
 > **Anfrage:** Beantworte die folgende absurde Frage mit vollkommener Ernsthaftigkeit und einer philosophischen Note: `[Ihre absurde Frage hier einfügen]`.
 
-\
 
 ### 🥇 Pro Version (Der Meister-Philosoph)
 

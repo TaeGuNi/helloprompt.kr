@@ -42,7 +42,6 @@ Usala quando hai poco tempo e ti serve una riscrittura rapida.
 > **Ruolo:** Sei un `[Autore Bestseller e Copywriter Esperto]`.
 > **Richiesta:** Riscrivi il seguente testo, passando da un noioso elenco di fatti a una storia coinvolgente che faccia leva sulle emozioni. `[Testo: inserisci qui il tuo testo]`
 
-\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

@@ -44,7 +44,6 @@ Use this when you need a fast, intuitive way to find the optimal cost-to-perform
 > **Role:** You are an expert in AWS Serverless architecture optimization.
 > **Task:** My AWS Lambda function is suffering from cold starts of over 2 seconds. The current setup uses the Node.js 20 runtime with 128MB of memory. Explain the correlation between increasing memory, cold start reduction, and cost increases. Then, provide a step-by-step guide on how to use the open-source `AWS Lambda Power Tuning` tool to find the optimal memory/cost sweet spot.
 
-\
 
 ### 🥇 Pro Version
 

@@ -54,7 +54,6 @@ Ideal para o dia a dia, quando você precisa melhorar a legibilidade e padroniza
 > **Role:** Você é um `[Engenheiro de Software Backend Sênior]`.
 > **Task:** Refatore a função `[Nome da Função]` fornecida para maximizar sua legibilidade e tornar os nomes de variáveis e métodos semanticamente explícitos. Adicione comentários curtos e precisos apenas onde a lógica central exigir explicação.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

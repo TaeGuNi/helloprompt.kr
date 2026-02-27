@@ -42,7 +42,6 @@ Ideal für schnelle, einfache Antworten oder kurze Benachrichtigungen im Arbeits
 > **Rolle:** Du bist ein kompetenter Business-Assistent.
 > **Aufgabe:** Schreibe eine höfliche E-Mail an Herrn Müller (Kunde), um unser Meeting von diesem Freitag auf nächsten Montag um 14:00 Uhr zu verschieben. Der Grund ist eine interne Terminänderung der Geschäftsführung.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

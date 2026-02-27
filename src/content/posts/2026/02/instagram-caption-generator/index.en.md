@@ -42,7 +42,6 @@ Use this when you need a quick, reliable caption on the go.
 > **Role:** You are an expert `[Instagram Influencer]` and `[Social Media Copywriter]`.
 > **Task:** I have a photo about `[Photo Subject]`. Write an engaging, trendy Instagram caption that includes a strong hook, relevant emojis, and 10 popular hashtags.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

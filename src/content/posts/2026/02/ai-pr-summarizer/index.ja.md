@@ -47,7 +47,6 @@ tags: [Git, Github, Collaboration, Productivity, AI]
 > **[Git Diff データ]**
 > `[ここに git diff の結果やPRの説明を貼り付けてください]`
 
-\
 
 ### 🥇 Pro Version (専門家型)
 

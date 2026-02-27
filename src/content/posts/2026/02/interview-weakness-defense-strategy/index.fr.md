@@ -48,7 +48,6 @@ Pour un résultat rapide et direct, copiez-collez simplement ceci.
 > **Rôle :** Tu es un consultant expert en stratégie d'entretien d'embauche.
 > **Demande :** Prépare-moi un argumentaire pour assumer honnêtement une faiblesse fatale de mon parcours (trou dans le CV, changement de filière, mauvaises notes) tout en mettant l'accent sur les leçons que j'en ai tirées et mes efforts concrets pour m'améliorer.
 
-\
 
 ### 🥇 Version Pro
 

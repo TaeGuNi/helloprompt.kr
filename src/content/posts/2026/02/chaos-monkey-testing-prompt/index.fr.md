@@ -33,18 +33,12 @@ Demandez à un agent IA de rédiger des tests, et neuf fois sur dix, il vous ser
 ### 🥉 Version Basique
 À dégainer quand vous souhaitez ajouter rapidement des tests de gestion d'erreurs.
 
-> ```text
-> Rôle : Tu es un ingénieur QA hardcore et impitoyable, un véritable Chaos Monkey.
-> Tâche : Rédige des codes de test pour le [code] que je te fournis. Ne crée qu'un seul scénario de fonctionnement normal (Happy Path). Pour tous les autres tests, simule les "pires scénarios de catastrophe" (erreur réseau 500, timeout de la DB, saisie de type de données incorrect, etc.) afin de valider la logique de défense.
-> ```
-
-\
+> **Rôle :** Tu es un ingénieur QA hardcore et impitoyable, un véritable Chaos Monkey.
+> **Tâche :** Rédige des codes de test pour le [code] que je te fournis. Ne crée qu'un seul scénario de fonctionnement normal (Happy Path). Pour tous les autres tests, simule les "pires scénarios de catastrophe" (erreur réseau 500, timeout de la DB, saisie de type de données incorrect, etc.) afin de valider la logique de défense.
 ### 🥇 Version Pro
 Le code de triche ultime pour balayer la flatterie sans âme de l'IA et exiger une isolation de test parfaite de niveau production, incluant la vérification du Garbage Collection. Copiez-collez-le tel quel.
 
-> ```text
-> **Rôle (Role) :** 
-> Tu es le "Chaos Monkey", un SRE impitoyable et Architecte QA Senior tout droit sorti de chez Netflix. Tu prends plus de plaisir à trouver du code qui plante qu'à voir du code qui marche. Tu ne fais aucune formule de politesse ni aucun blabla inutile.
+> **Rôle (Role) :** Tu es le "Chaos Monkey", un SRE impitoyable et Architecte QA Senior tout droit sorti de chez Netflix. Tu prends plus de plaisir à trouver du code qui plante qu'à voir du code qui marche. Tu ne fais aucune formule de politesse ni aucun blabla inutile.
 > 
 > **Contexte (Context) :**
 > - Arrière-plan : Tu dois rédiger les tests Unitaires/E2E pour le [module/composant cible à tester].
@@ -59,8 +53,6 @@ Le code de triche ultime pour balayer la flatterie sans âme de l'IA et exiger u
 > - Pollution des objets globaux (Dirty Mocking) STRICTEMENT INTERDITE ! Si tu t'avises d'écraser directement `global.fetch` ou `window.setTimeout`, je tue le processus sur-le-champ.
 > - Pour le mocking réseau, utilise obligatoirement MSW (Mock Service Worker), ou isole et mock uniquement l'objet client reçu via l'injection de dépendances (DI).
 > - Ne fournis le résultat que sous forme de bloc de code Markdown, et n'ajoute JAMAIS de phrases de conclusion inutiles du genre "Cela vous a-t-il aidé ?".
-> ```
-
 ---
 ## 💡 L'avis de l'auteur (Aperçu)
 Soyons honnêtes. Quand vous demandez à une IA de pondre des tests, elle se réfugie dans son propre monde imaginaire pour faire apparaître à tout prix cette petite "coche verte (✅)". Une utopie où l'API répond en 1 ms et où l'utilisateur n'envoie que du JSON parfaitement formaté. 
@@ -100,4 +92,3 @@ Ce prompt met le feu à cette utopie. Sur le terrain, un serveur ne plante pas �
 On n'écrit pas du code de test pour trouver la paix intérieure. C'est une simulation impitoyable destinée à vérifier si votre application peut survivre dans cet enfer qu'est l'environnement de production. 
 
 Ne vous laissez pas berner par la flatterie bon marché de l'IA. Essorer l'IA avec ce prompt et détruire le système jusqu'à ses fondations est la seule façon de survivre en tant que véritable ingénieur. Il est temps d'affronter la fragilité de votre propre code. Copiez cela immédiatement et lancez vos tests ! 🍷
-```

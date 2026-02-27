@@ -43,7 +43,6 @@ Es hora de dejar atrás ese ciclo ineficiente de escribir código temporal mient
 > **Rol:** Eres un `[Desarrollador Backend Senior]`.
 > **Tarea:** Basándote en las `[Especificaciones de la API]` que te proporcionaré, escribe el código completo de un servidor mock en un entorno `[Express.js]` que se pueda ejecutar inmediatamente.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

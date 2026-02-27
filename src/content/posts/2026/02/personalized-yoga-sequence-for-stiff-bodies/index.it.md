@@ -42,7 +42,6 @@ Ideale quando hai poco tempo e vuoi subito una routine semplice.
 > **Ruolo:** Sei un istruttore di yoga esperto in terapia riabilitativa. Sei bravissimo a creare sequenze dolci e accessibili per chi ha un corpo molto rigido.
 > **Richiesta:** Crea una sequenza di yoga di 10 minuti per principianti assoluti per sciogliere le spalle e il collo. Non usare termini complessi in sanscrito senza spiegarli.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

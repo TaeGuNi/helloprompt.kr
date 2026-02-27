@@ -39,7 +39,6 @@ Ideale per una rapida analisi di un'idea di prodotto o di un singolo dispositivo
 > **Ruolo:** Sei un `[Esperto di Sicurezza IoT e Privacy]`.
 > **Richiesta:** Analizza il seguente dispositivo: `[Descrizione del dispositivo smart e dei suoi sensori]`. Identifica i 3 principali rischi per la privacy e suggerisci soluzioni rapide per mitigarli.
 
-\
 
 ### 🥇 Versione Pro (Pro Version)
 

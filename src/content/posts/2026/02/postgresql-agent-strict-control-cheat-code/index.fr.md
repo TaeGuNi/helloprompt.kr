@@ -41,7 +41,7 @@ Le filet de sécurité standard pour empêcher l'IA de dire des bêtises quand v
 > - Ne modifie JAMAIS les données.
 > - Les résultats DOIVENT inclure un `LIMIT 10`.
 > - Affiche UNIQUEMENT la requête SQL, sans salutations ni explications.
-\
+
 ### 🥇 Version Pro
 Le cheat code hardcore à balancer dans le prompt système lorsque l'agent interagit directement avec la BDD via un script Python helper.
 
@@ -64,7 +64,7 @@ Le cheat code hardcore à balancer dans le prompt système lorsque l'agent inter
 > **Avertissement :**
 > - Taper `BEGIN;` seul dans le terminal et `UPDATE` à la ligne suivante est une démarche stupide qui échouera instantanément.
 > - Pour éviter l'explosion de la mémoire, les dumps complets de tables sont strictement interdits.
-\
+
 **[Cheat Code Prêt à Copier-Coller]**
 Copiez-collez ceci directement dans votre chaîne de prompts ou le prompt système de votre agent.
 
@@ -139,4 +139,3 @@ N'hésitez pas si vous avez besoin d'autre chose !
 L'IA n'est pas votre collègue, ce n'est qu'un moteur performant. Ne laissez pas ce moteur changer de direction à sa guise. Des règles strictes, un timeout court, une lecture seule par défaut et du JSON pur. Mémorisez ces quatre points, et votre agent ne détruira jamais plus votre BDD de production.
 
 Maintenant, déployez le script et rentrez chez vous ! 🍷
-```

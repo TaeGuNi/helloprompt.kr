@@ -44,7 +44,6 @@ No planifiques ni escribas desde cero. Ese 'guion de YouTube' (Script) en el que
 >
 > [Inserta aquí el guion del video de YouTube]
 
-\
 
 ### 🥇 Pro Version (Maestro Multiuso por Plataforma)
 

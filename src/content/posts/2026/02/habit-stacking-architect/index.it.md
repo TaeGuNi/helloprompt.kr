@@ -42,7 +42,6 @@ Utilizzalo quando hai bisogno di un'idea rapida e leggera da applicare immediata
 > **Ruolo:** Sei un `[Coach di abitudini basato sulla psicologia comportamentale]`.
 > **Richiesta:** Ogni giorno `[mi lavo i denti appena sveglio]`; suggeriscimi 3 "abitudini salutari da 1 minuto" che posso agganciare immediatamente dopo questa azione.
 
-\
 
 ### 🥇 Versione Pro
 

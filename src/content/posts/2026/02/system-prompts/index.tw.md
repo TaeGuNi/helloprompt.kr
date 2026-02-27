@@ -45,7 +45,6 @@ tags: ["AI Trends", "System Prompt", "Prompt Engineering", "2026"]
 > - 永遠使用繁體中文（zh-TW）回答。
 > - 如果遇到不知道的資訊，請直接回答「我缺乏相關資訊」，絕不可捏造事實。
 
-\
 
 ### 🥇 Pro Version (企業級防禦與動態注入型)
 

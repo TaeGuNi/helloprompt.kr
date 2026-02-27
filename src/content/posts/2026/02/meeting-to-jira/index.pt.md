@@ -43,7 +43,6 @@ Ideal para quando você precisa apenas extrair rapidamente os "Action Items" (qu
 > **Task (Tarefa):** A partir da transcrição da reunião fornecida, extraia apenas os itens de ação (Action Items) executáveis em um formato de lista clara, indicando 'Quem (Assignee)', 'Até quando (Due Date)' e 'O quê (Task)'.
 > **Context (Transcrição):** `[Cole a transcrição da reunião aqui]`
 
-\
 
 ### 🥇 Versão Pro (Profissional)
 

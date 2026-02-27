@@ -42,7 +42,6 @@ La música adecuada puede llevarte a un estado de flujo (flow) en minutos. Pero 
 > **Rol:** Eres un `[DJ de Productividad]`.
 > **Tarea:** Recomiéndame 5 términos de búsqueda en YouTube para música de fondo ideal para `[Estudiar Matemáticas / Programar / Leer]`.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

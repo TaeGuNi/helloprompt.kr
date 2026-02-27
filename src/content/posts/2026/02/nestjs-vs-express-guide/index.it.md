@@ -42,7 +42,6 @@ Usa questo prompt quando hai bisogno di creare rapidamente l'ossatura iniziale d
 > **Ruolo:** Sei uno `[Sviluppatore Backend NestJS]`.
 > **Task:** Voglio creare una `[semplice API per una bacheca in NestJS]`. Scrivi la struttura base delle cartelle includendo i moduli `User` e `Post`, e fornisci il codice di configurazione per `app.module.ts`.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

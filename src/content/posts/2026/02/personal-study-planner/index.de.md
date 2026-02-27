@@ -42,7 +42,6 @@ Nutze diese Version, wenn du sofort eine grobe Struktur benötigst.
 > **Rolle:** Du bist ein strenger, aber fairer und extrem strukturierter KI-Lerncoach.
 > **Anfrage:** Erstelle mir einen realistischen Lernplan für mein `[Ziel]`. Berücksichtige dabei meine verfügbare Zeit und übernimm die Rolle meines Motivators, der mich in die Pflicht nimmt.
 
-\
 
 ### 🥇 Pro Version (Experten-Level)
 

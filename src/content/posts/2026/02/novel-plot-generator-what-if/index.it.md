@@ -42,7 +42,6 @@ Usala quando hai solo bisogno di uno sblocco rapido e intuitivo.
 > **Ruolo:** Sei un editor e consulente narrativo esperto di best-seller.
 > **Richiesta:** La mia storia è bloccata. Il protagonista `[situazione attuale]`. Fammi 5 esempi di "E se..." per continuare la trama in modo sorprendente ma logico.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

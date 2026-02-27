@@ -42,7 +42,6 @@ Use this when you need a quick, solid baseline.
 > **Role:** You are a top-tier personal branding expert and professional resume editor.
 > **Request:** Write a powerful, 3-5 line Professional Summary to be placed at the top of my resume to significantly increase my initial screening pass rate. My current role is `[Current Job]`, and my target role is `[Target Job]`.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

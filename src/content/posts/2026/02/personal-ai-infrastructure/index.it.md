@@ -42,7 +42,6 @@ Usa questa versione per ottenere una panoramica veloce sugli strumenti necessari
 > **Ruolo:** Sei un esperto di infrastrutture AI locali.
 > **Azione:** Spiegami come installare e configurare un LLM locale sul mio computer per garantire la massima privacy dei dati. Elenca gli strumenti essenziali gratuiti (come Ollama e Open WebUI).
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

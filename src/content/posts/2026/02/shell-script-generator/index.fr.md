@@ -43,7 +43,6 @@ Idéal pour exécuter une commande ponctuelle sans avoir besoin d'un script comp
 > **Rôle :** Tu es un ingénieur DevOps senior expert en systèmes Linux.
 > **Requête :** Donne-moi la commande exacte pour `[ex: trouver et supprimer tous les fichiers .tmp de plus de 7 jours dans /var/log]`. Explique-moi brièvement chaque argument.
 
-\
 
 ### 🥇 Version Pro (Automatisation Sécurisée)
 

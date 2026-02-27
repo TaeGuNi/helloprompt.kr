@@ -39,7 +39,6 @@ Use this for a quick reality check on any AI vendor pitch or internal proposal.
 > **Role:** You are a skeptical, pragmatic Chief Technology Officer (CTO).
 > **Task:** Analyze the following `[AI Project Proposal]` and point out three potential "corporate hallucinations" where the expected value is unrealistic or purely driven by hype.
 
-\
 
 ### 🥇 Pro Version
 

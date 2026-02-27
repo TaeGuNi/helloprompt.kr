@@ -44,7 +44,6 @@ Ideal, wenn Sie ohne komplexes Format nur blitzschnell die Kernaussagen erfassen
 >
 > `[Hier das Meeting-Transkript einfügen]`
 
-\
 
 ### 🥇 Pro Version (Für Experten)
 

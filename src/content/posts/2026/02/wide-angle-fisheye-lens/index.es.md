@@ -43,7 +43,6 @@ El **Gran Angular (Wide Angle)** aporta una magnificencia inigualable al expandi
 > **Rol:** Eres un fotógrafo profesional especializado en paisajes y arquitectura.
 > **Solicitud:** Genera un prompt para crear una imagen utilizando un lente gran angular o de ojo de pez para capturar un `[espacio estrecho o paisaje]` con máxima amplitud en una sola toma.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

@@ -47,7 +47,6 @@ Utilisez cette version lorsque vous avez simplement besoin d'un aperçu rapide d
 >
 > **Tâche :** À partir des données ci-dessus, résume les 5 tâches les plus importantes que j'ai accomplies cette semaine, par ordre de priorité.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

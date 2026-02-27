@@ -44,12 +44,9 @@ Pero, ¿qué pasa si no sabes por dónde empezar a refactorizar? Deja que la IA 
 > **Rol:** Eres un `[Desarrollador Backend Senior]`.
 > **Tarea:** Analiza la complejidad del siguiente código y dame 3 puntos clave sobre cómo debería refactorizarlo.
 >
-> ```
+>
 > [Pega tu código aquí]
-> ```
-
-\
-
+>
 ### 🥇 Versión Pro (Pro Version)
 
 Úsala cuando necesites un análisis de métricas preciso y la aplicación de patrones de diseño específicos.
@@ -69,9 +66,9 @@ Pero, ¿qué pasa si no sabes por dónde empezar a refactorizar? Deja que la IA 
 >
 > **Entrada de Código (Code):**
 >
-> ```
+>
 > [Pega aquí el código a refactorizar]
-> ```
+>
 >
 > **Restricciones (Constraints):**
 >

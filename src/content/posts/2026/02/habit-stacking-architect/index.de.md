@@ -42,7 +42,6 @@ Ideal, wenn Sie schnell eine einfache und sofort anwendbare Idee brauchen.
 > **Rolle:** Du bist ein `[Coach für Gewohnheiten, spezialisiert auf Verhaltenspsychologie]`.
 > **Aufgabe:** Ich mache jeden Tag Folgendes: `[morgens Zähne putzen]`. Empfiehl mir drei "1-Minuten-Gesundheitsgewohnheiten", die ich sofort im Anschluss an diese Handlung ausführen kann.
 
-\
 
 ### 🥇 Pro Version (Für Experten)
 

@@ -42,7 +42,6 @@ Usala quando hai solo bisogno di un'idea veloce o di una bozza di itinerario.
 > **Ruolo:** Agisci come una guida turistica locale esperta.
 > **Richiesta:** Crea un itinerario di 3 giorni a Roma, concentrandoti su cibo locale e passeggiate rilassate.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

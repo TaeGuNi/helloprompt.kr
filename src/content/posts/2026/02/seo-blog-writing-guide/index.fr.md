@@ -51,7 +51,6 @@ Utilisez cette version lorsque vous souhaitez augmenter vos chances d'apparaîtr
 > **Texte de mon article :**
 `[Collez l'intégralité de votre article ici]`
 
-\
 
 ### 🥇 Version Pro (Conception de l'architecture SEO parfaite)
 

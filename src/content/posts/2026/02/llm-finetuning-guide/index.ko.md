@@ -52,7 +52,6 @@ tags: ["파인튜닝", "LLM", "Llama3", "AI모델", "HuggingFace"]
 > 2. 각 질문에 대해 전문가답고 동기부여가 확실한 답변(Output) 10개를 작성하세요.
 > 3. 결과를 반드시 JSONL 형식(`{"instruction": "...", "output": "..."}`)으로 출력하세요.
 
-\
 
 ### 🥇 Pro Version (학습 파이프라인 코드 제네레이터)
 

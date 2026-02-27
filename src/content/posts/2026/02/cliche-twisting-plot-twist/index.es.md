@@ -42,7 +42,6 @@ Los clichés son cómodos porque resultan familiares, pero al mismo tiempo son a
 > **Rol:** Eres un guionista experto en giros argumentales.
 > **Solicitud:** Dame 3 ideas impactantes para cambiar este final predecible: `[El héroe derrota al rey demonio y salva a la princesa]`.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

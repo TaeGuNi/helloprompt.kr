@@ -43,7 +43,6 @@ Utilisez cette approche pour donner rapidement l'impression que "le message a bi
 
 Tu es mon assistant professionnel. Analyse le contenu de l'e-mail entrant et rédige une réponse à l'expéditeur indiquant : "Nous avons bien reçu votre e-mail. Notre équipe l'examine actuellement et vous fournira une réponse détaillée sous 24 heures." Le ton doit être poli, professionnel et rédigé dans un excellent anglais des affaires.
 
-\
 
 ### 🥇 Version Pro (Réponse Intelligente Basée sur le Contexte)
 

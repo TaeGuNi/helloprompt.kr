@@ -39,7 +39,6 @@ Usa questo prompt quando hai bisogno di un'infarinatura veloce su come integrare
 > **Ruolo:** Sei un Ingegnere esperto in Machine Learning Quantistico.
 > **Richiesta:** Spiegami in modo semplice come integrare un circuito quantistico in una rete neurale classica usando TensorFlow Quantum, fornendo un breve esempio di codice.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

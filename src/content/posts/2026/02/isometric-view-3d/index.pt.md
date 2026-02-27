@@ -42,7 +42,6 @@ Use este prompt quando precisar de um resultado rápido e direto, sem muita pers
 > **Role (Papel):** Você é um artista 3D especialista em cenários em miniatura.
 > **Task (Tarefa):** Crie uma vista tridimensional e fofa de `[um quarto de gamer]`, com estética de jogos 3D ou ícones, usando um ângulo isométrico (Isometric view).
 
-\
 
 ### 🥇 Pro Version (Versão Profissional)
 

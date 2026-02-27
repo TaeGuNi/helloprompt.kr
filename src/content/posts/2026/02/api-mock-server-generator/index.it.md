@@ -43,7 +43,6 @@ Usala quando hai bisogno rapidamente di una Mock API di base.
 > **Ruolo:** Sei un `[Sviluppatore Backend Senior]`.
 > **Task:** Basandoti sulle `[Specifiche API]` che ti fornisco, scrivi l'intero codice per un Mock Server immediatamente eseguibile in un ambiente `[Express.js]`.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

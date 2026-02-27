@@ -42,7 +42,6 @@ El análisis técnico es fundamental para detectar el momento oportuno al invert
 > **Rol:** Eres un `[Trader Técnico Profesional]`.
 > **Solicitud:** Explícame de forma sencilla qué indican actualmente los indicadores de este gráfico y si es un buen momento para comprar o vender el activo.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

@@ -41,7 +41,6 @@ Use this when you want to quickly grasp the core of your data.
 > **Role:** You are a data security expert and lead data analyst.
 > **Task:** Read the following `[confidential internal data]` and summarize the 3 main issues. Exclude any external knowledge and answer strictly based on the provided text.
 
-\
 
 ### 🥇 Pro Version
 

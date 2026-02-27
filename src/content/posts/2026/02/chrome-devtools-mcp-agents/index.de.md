@@ -40,7 +40,6 @@ Verwenden Sie diese Version, wenn Sie einen schnellen UI- oder Konsolenfehler ü
 > **Rolle:** Du bist ein Senior Frontend-Entwickler und QA-Experte.
 > **Aufgabe:** Verbinde dich über das Chrome DevTools MCP mit der aktuellen lokalen Entwicklungsumgebung (`http://localhost:3000`), analysiere die neuesten Konsolenfehler und schlage eine Behebung für das fehlerhafte Verhalten vor.
 
-\
 
 ### 🥇 Pro Version (Expertenmodus)
 

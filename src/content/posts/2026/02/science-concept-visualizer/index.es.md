@@ -42,7 +42,6 @@ Se dice que el cerebro humano procesa imágenes hasta 60.000 veces más rápido 
 > **Rol:** Eres un experto comunicador científico y diseñador de infografías.
 > **Solicitud:** Explícame el concepto de `[Concepto Difícil]` utilizando un diagrama de texto (ASCII Art) simple y una analogía de la vida cotidiana.
 
-\
 
 ### 🥇 Versión Pro (Expert Version)
 

@@ -47,7 +47,6 @@ Use this when you just want a quick summary and to save underlined text.
 > **Task:**
 > Accurately extract the text from the attached image. Then, summarize the author's core argument on this page in exactly one sentence.
 
-\
 
 ### 🥇 Pro Version
 

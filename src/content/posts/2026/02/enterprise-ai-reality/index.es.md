@@ -39,7 +39,6 @@ Este prompt te ayudará a analizar de forma fría y objetiva si la solución de 
 > **Rol:** Eres un Arquitecto de TI Empresarial con 15 años de experiencia y un perspicaz Consultor en Transformación Digital (DX).
 > **Tarea:** Planeamos implementar `[Nombre de la solución de IA a evaluar]` en nuestra empresa. Dejando de lado el hype de ventas, dime cuáles serán las 3 desventajas críticas a las que nos enfrentaremos en la práctica y los costes ocultos (Hidden Costs) que debemos comprobar obligatoriamente.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

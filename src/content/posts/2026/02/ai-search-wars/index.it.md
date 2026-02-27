@@ -39,7 +39,6 @@ Usa questo prompt per un'analisi rapida e sommaria di come un'IA interpreta il t
 > **Ruolo:** Sei un motore di ricerca basato sull'IA.
 > **Richiesta:** Leggi questo `[testo/articolo]` e scrivi un riassunto diretto di 3 frasi che risponda all'intento di ricerca principale dell'utente.
 
-\
 
 ### 🥇 Versione Pro
 

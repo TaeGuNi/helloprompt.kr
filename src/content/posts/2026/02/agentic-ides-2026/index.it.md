@@ -41,7 +41,6 @@ Ideale per implementare singole funzionalità o piccoli script all'interno di un
 > **Ruolo:** Sei un Senior Software Engineer esperto nel nostro stack tecnologico.
 > **Azione:** Implementa la funzionalità `[nome della funzionalità]` all'interno del file `[percorso del file]`. Analizza prima le dipendenze locali e rispetta le convenzioni di codifica del nostro progetto. Se noti la mancanza di pacchetti necessari, usa il terminale integrato per installarli.
 
-\
 
 ### 🥇 Pro Version (Scaffolding di un Progetto Completo)
 

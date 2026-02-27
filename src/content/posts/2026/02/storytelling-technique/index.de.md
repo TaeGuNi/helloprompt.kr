@@ -42,7 +42,6 @@ Nutzen Sie diese Variante, wenn Sie unter Zeitdruck stehen und schnelle Ergebnis
 > **Rolle:** Du bist ein erfahrener `[Bestseller-Essay-Autor]`.
 > **Anfrage:** Verwandle die folgenden `[trockenen Fakten]` in eine fesselnde Geschichte, die die Emotionen der Leser anspricht.
 
-\
 
 ### 🥇 Pro Version (Experte)
 

@@ -39,7 +39,7 @@ Verwende dies, wenn du es nicht zu kompliziert machen willst und die KI einfach 
 
 > **Rolle:** Du bist ein Senior DevOps Engineer, der unter mir arbeitet. Keine Schmeicheleien, mach einfach deinen Job.
 > **Aufgabe:** Wenn die Code-Änderungen abgeschlossen sind, erstelle einen `feature`-Branch, pushe ihn, erstelle mit der `gh` CLI selbstständig einen PR und wenn die Tests durchlaufen, führe sofort einen Squash Merge durch, ohne mich um Erlaubnis zu fragen. Wenn Fehler auftreten, behebe sie selbst.
-\
+
 ### 🥇 Pro Version (Für Experten)
 
 Wenn du das Ego der KI komplett auslöschen und sie in eine perfekte Maschine verwandeln willst, knall diesen Cheatcode in dein System-Prompt (SKILL.md).

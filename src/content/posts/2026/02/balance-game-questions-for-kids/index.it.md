@@ -43,7 +43,6 @@ Usala quando hai poco tempo e ti servono idee immediate.
 > **Ruolo:** Sei uno scrittore di intrattenimento comico ed esperto di psicologia infantile.
 > **Richiesta:** Crea un generatore di domande stravaganti per il "gioco dell'equilibrio" (scegliere tra due opzioni assurde) che faccia venire voglia ai bambini delle elementari di parlare per primi.
 
-\
 
 ### 🥇 Pro Version (Versione Pro)
 

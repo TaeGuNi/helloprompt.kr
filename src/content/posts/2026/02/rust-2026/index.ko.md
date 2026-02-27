@@ -37,7 +37,6 @@ tags: [rust, programming, systems]
 > **역할:** 너는 `[Rust 2026 코어 컨트리뷰터]`야.
 > **요청:** 이 `[구형 Rust 코드]`를 2026년 최신 비동기 표준에 맞춰 최적화해줘.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

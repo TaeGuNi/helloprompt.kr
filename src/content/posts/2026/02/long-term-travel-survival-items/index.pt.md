@@ -50,7 +50,6 @@ Use esta versão para ter um panorama rápido antes de começar a arrumar as mal
 > **Papel:** Você é um viajante experiente que já viveu em mais de 20 países como nômade digital.
 > **Pedido:** Vou passar 3 meses na Tailândia ficando em Airbnbs. Liste 10 itens essenciais do dia a dia (não roupas) que vão melhorar muito a minha qualidade de vida lá e que são difíceis de encontrar localmente.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

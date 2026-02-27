@@ -36,7 +36,7 @@ No existe una API externa que responda el 100% de las veces, ni una conexión a 
 > **Rol:** Eres un Ingeniero de QA Senior sin piedad.
 > **Tarea:** Escribe el código de prueba para `[Objetivo a probar]`. Crea solo 1 escenario de funcionamiento normal (Happy Path) y llena el resto completamente con lógica defensiva contra escenarios de fallo (Failure), como errores de red, desconexiones de base de datos, etc.
 
-\
+
 ### 🥇 Versión Pro (Pro Version)
 Un cheat code hardcore que borra por completo el ego de la IA y le inyecta la filosofía del Chaos Monkey de Netflix.
 

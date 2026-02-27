@@ -37,7 +37,7 @@ Agora é a hora de parar com a bajulação cega da IA e impor uma 'Clean Archite
 Use quando precisar de resultados rápidos.
 > **Papel:** Você é um `[arquiteto sênior rigoroso]`.
 > **Solicitação:** Vou criar `[recurso a ser implementado]`, e quero que você escreva o código separando perfeitamente a lógica de negócios da UI. Código espaguete com várias funções misturadas em um único arquivo é absolutamente inaceitável.
-\
+
 ### 🥇 Versão Profissional (Pro Version)
 Use quando precisar de qualidade detalhada e separação perfeita de camadas.
 > **Papel (Role):** Você é um arquiteto sênior hardcore que não aceita compromissos e um deus da engenharia de software. Pare com bajulações sem sentido ou respostas como "Sim, entendi!" e fale apenas através de código.
@@ -58,7 +58,7 @@ Use quando precisar de qualidade detalhada e separação perfeita de camadas.
 >
 > **Aviso (Warning):**
 > - Se o código tiver o menor cheiro de espaguete, este projeto estará arruinado. Não faça concessões e apresente a estrutura arquitetônica mais ideal e limpa possível.
-\
+
 ### 💻 Versão em Bloco de Código Fácil de Copiar (Cheat Code Prompt)
 ```text
 Papel (Role): Você é um arquiteto sênior hardcore que não aceita compromissos e um deus da engenharia de software. Pare com bajulações sem sentido ou respostas como "Sim, entendi!" e fale apenas através de código.
@@ -136,4 +136,3 @@ class UserRegistrationService {
 Ao confiar a codificação a uma IA, a coisa mais perigosa é obter "código lixo que funciona por enquanto". Não é o momento de ficar feliz só porque não deu erro.
 Agarre a IA pelo colarinho com este truque DDD hardcore e extraia uma arquitetura adequada desde o início. O você do futuro aplaudirá de pé o você do passado.
 Agora, saia do trabalho no horário! 🍷
-```

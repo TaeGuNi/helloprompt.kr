@@ -50,7 +50,6 @@ Use esta versão quando precisar de um resumo rápido para consumo próprio ou a
 > **Transcrição:**
 > `[Cole o texto da transcrição aqui]`
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

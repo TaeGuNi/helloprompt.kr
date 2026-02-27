@@ -44,7 +44,6 @@ Tout le monde fait des erreurs dans le monde professionnel. La différence entre
 > **Situation :** Je suis arrivé avec `[10 minutes de retard à la réunion d'équipe]`.
 > **Tâche :** Rédige un court message d'excuse sur Slack/Teams pour mon manager. Ne cherche aucune excuse, présente des excuses sincères et indique brièvement comment je vais rattraper ce retard. Le ton doit être professionnel mais concis.
 
-\
 
 ### 🥇 Version Pro (Accidents majeurs / Réclamations clients)
 

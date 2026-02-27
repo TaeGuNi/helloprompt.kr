@@ -42,7 +42,6 @@ Cuando intentas hacer una reparación tú mismo y buscas en YouTube, a menudo en
 > **Rol:** Eres un experto veterano en `[fontanería/electricidad/interiores]` con 30 años de experiencia.
 > **Tarea:** Tengo un problema con `[lugar o aparato averiado]` en mi casa. El síntoma es `[descripción detallada del síntoma]`. Dime cuál es la causa y dame 3 métodos paso a paso, del más fácil al más difícil, para solucionarlo yo mismo sin tener que llamar a un técnico. Si es necesario, recomiéndame herramientas o repuestos que pueda comprar en una ferretería o tienda de bricolaje cercana.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

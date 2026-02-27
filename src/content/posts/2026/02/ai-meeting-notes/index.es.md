@@ -40,7 +40,6 @@ Las reuniones son el motor de cualquier empresa, pero documentarlas es una tarea
 > **Tarea:** Toma las siguientes notas crudas de nuestra reunión y redacta un resumen claro destacando los puntos clave y las tareas pendientes.
 > **Notas:** `[Pega aquí tus notas de la reunión]`
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

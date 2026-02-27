@@ -44,7 +44,7 @@ Ein grundlegendes Kontrollnetz, um nur schnell die Datenstruktur zu erfassen und
 > - Hole Ergebnisse immer mit `LIMIT 10`.
 > - Gib nur die SQL-Query aus, ohne Begrüßungen oder Erklärungen.
 
-\
+
 ### 🥇 Pro Version (Expertenversion)
 
 Ein Hardcore-Cheatcode, den man ins System-Prompt hämmert, wenn der Agent über ein Python-Hilfsskript direkt mit der DB interagiert.
@@ -69,7 +69,7 @@ Ein Hardcore-Cheatcode, den man ins System-Prompt hämmert, wenn der Agent über
 > - Der dumme Versuch, `BEGIN;` allein ins Terminal einzugeben und in der nächsten Zeile `UPDATE` aufzurufen, wird sofort scheitern.
 > - Um Speicherüberläufe zu verhindern, sind vollständige Tabellen-Dumps strengstens verboten.
 
-\
+
 **[Cheat Code zum Kopieren & Einfügen]**
 Füge dies direkt in deine Prompt-Chain oder das Agenten-System-Prompt ein.
 

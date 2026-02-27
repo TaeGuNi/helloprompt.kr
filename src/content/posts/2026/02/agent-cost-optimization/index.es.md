@@ -55,7 +55,6 @@ Hoy revelaremos **patrones prácticos de optimización de tokens** que reducen d
 > - Prohibido usar saludos amables, frases como "Comenzaré el análisis" o explicaciones adicionales como "El resultado es el siguiente".
 > - Imprime exclusivamente el resultado del análisis y la acción solicitada.
 
-\
 
 ### 🥇 Pro Version (Versión Profesional)
 
@@ -77,13 +76,13 @@ Este es el patrón que genera el mayor ahorro de costos. En lugar de pasar todo 
 >
 > - El formato de salida debe cumplir estrictamente con la siguiente estructura JSON:
 >
-> ```json
+>
 > {
 >   "thought": "Razonamiento lógico sobre el paso actual...",
 >   "action": "Nombre de la función a ejecutar o siguiente acción",
 >   "new_state": "SUMMARY: [Resumen de los logros hasta ahora]. PENDING: [Problema o bloqueo actual]. GOAL: [Próximo objetivo a cumplir]."
 > }
-> ```
+>
 >
 > - El valor de `[new_state]` debe comprimirse a un máximo de 100 palabras.
 > - Elimina cualquier charla innecesaria, conservando solo hechos objetivos y decisiones.

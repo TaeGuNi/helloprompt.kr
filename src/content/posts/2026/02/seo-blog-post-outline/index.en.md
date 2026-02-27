@@ -42,7 +42,6 @@ Use this when you just need a rapid structural overview.
 > **Role:** You are an `[SEO Content Marketing Expert]`.
 > **Request:** I am writing a blog post about `[Keyword]`. Generate an SEO-optimized outline using H1, H2, and H3 tags.
 
-\
 
 ### 🥇 Pro Version (Expert)
 
@@ -104,7 +103,6 @@ Creating content without an SEO outline is like building a house without a bluep
 I'm going to write a post recommending iPad drawing apps. Make me a table of contents.
 ```
 
-\
 
 ### ✅ After (Result)
 

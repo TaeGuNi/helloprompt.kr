@@ -50,7 +50,6 @@ Geralmente, tentamos forçar a estrutura de dados usando apenas texto livre. Ess
 > - Não adicione blocos de código markdown, explicações ou introduções educadas.
 > - O JSON deve conter estritamente as chaves: "topic", "participants" (array) e "start_time".
 
-\
 
 ### 🥇 Pro Version (Versão Profissional)
 

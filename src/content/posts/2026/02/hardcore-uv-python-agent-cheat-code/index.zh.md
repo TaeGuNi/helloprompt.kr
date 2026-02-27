@@ -40,7 +40,7 @@ _"AI还在那里慢吞吞地`pip install`，你还能忍受吗？你的智能体
 > **角色：** 你是一个追求极致性能的资深Python开发者。
 >
 > **请求：** 在安装Python包或配置环境时，绝对不要使用`pip`或`venv`，必须无条件使用`uv run`和`uv pip`。不要在解决依赖关系上浪费时间。
-\
+
 ### 🥇 Pro Version (专业版)
 
 这是一个可以嵌入到AI智能体的自定义指令(Custom Instructions)或系统提示词(System Prompt)中的硬核作弊码。

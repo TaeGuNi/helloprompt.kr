@@ -47,7 +47,6 @@ Utilisez cette version lorsque vous avez besoin d'un aperçu rapide et d'un rés
 > **[Données Git Diff]**
 > `[Collez ici le résultat de git diff ou la description de la PR]`
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

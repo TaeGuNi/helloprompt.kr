@@ -44,7 +44,6 @@ Ideal para entender o conceito rapidamente e aplicar configurações simples em 
 > **Função:** Você é um `[Especialista em Redes e Cibersegurança]`.
 > **Tarefa:** Explique de forma simples como funciona a tecnologia de rastreamento por Wi-Fi (Wi-Fi Sensing) e me dê 3 passos práticos para evitar que meu roteador monitore meus movimentos dentro de casa.
 
-\
 
 ### 🥇 Versão Profissional (Pro Version)
 

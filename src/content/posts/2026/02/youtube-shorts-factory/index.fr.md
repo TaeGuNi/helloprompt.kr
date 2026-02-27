@@ -45,7 +45,6 @@ Idéal lorsque vous êtes face au syndrome de la page blanche et cherchez des co
 
 > **Demande :** Propose-moi 5 idées de Shorts originales et percutantes que les spectateurs ne pourront pas "zapper". Pour chaque idée, fournis le Titre et la Première Phrase d'accroche (le Hook).
 
-\
 
 ### 🥇 Version Pro (Conducteur de Tournage)
 

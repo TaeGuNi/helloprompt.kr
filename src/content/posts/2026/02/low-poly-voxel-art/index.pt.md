@@ -42,7 +42,6 @@ Ideal para testes rápidos e ideias iniciais.
 > **Papel:** Você é um especialista em arte digital e design 3D.
 > **Solicitação:** Crie um prompt para geração de imagem focado no estilo Low Poly, utilizando formas geométricas simplificadas e iluminação suave, como se fosse um origami digital.
 
-\
 
 ### 🥇 Versão Pro (Expert Version)
 

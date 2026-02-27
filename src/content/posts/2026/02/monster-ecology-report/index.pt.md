@@ -42,7 +42,6 @@ Use esta versão para gerar ideias rápidas quando a criatividade estiver bloque
 > **Papel:** Você é um biólogo e criptozoólogo especialista na fauna de um continente inexplorado.
 > **Solicitação:** Estou cansado de monstros clichês como slimes e goblins. Projete uma criatura totalmente original para um cenário de fantasia sombria, focando em sua ecologia e hábitos de sobrevivência.
 
-\
 
 ### 🥇 Versão Pro (Expert Version)
 

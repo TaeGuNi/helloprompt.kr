@@ -39,7 +39,6 @@ Use this when you need a quick summarization of a long document before feeding i
 > **Role:** You are an expert `[Data Analyst]`.
 > **Task:** Extract only the most crucial facts and figures from the following `[Long Document]` that are directly relevant to `[Specific Question]`. Discard all filler content.
 
-\
 
 ### 🥇 Pro Version
 

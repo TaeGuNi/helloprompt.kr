@@ -42,7 +42,6 @@ Use this when you just need quick, off-the-beaten-path recommendations.
 > **Role:** You are an expert travel essayist and local guide who specializes in discovering hidden, serene spots away from the tourist crowds.
 > **Request:** I am traveling to `[Destination]`. Recommend 3 quiet, secret places that locals love but tourists don't know about. Describe the vibe of each.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

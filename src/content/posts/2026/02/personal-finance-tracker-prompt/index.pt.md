@@ -42,7 +42,6 @@ Utilize esta versão para uma análise rápida das suas despesas mensais.
 > **Função:** És um consultor financeiro pessoal especializado em orçamentos familiares.
 > **Pedido:** Analisa a seguinte lista de despesas: `[COLE AS SUAS DESPESAS AQUI]`. Categoriza cada uma e diz-me onde posso cortar custos este mês.
 
-\
 
 ### 🥇 Versão Pro (Análise Profunda)
 

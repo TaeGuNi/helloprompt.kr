@@ -45,7 +45,6 @@ tags: ["AI", "Tech", "breaking-vibe-coding-spell"]
 > - 実行可能なテストコードを必ず同梱すること。
 > - 型定義（TypeScript等）を厳密に行い、エッジケースのハンドリングを含めること。
 
-\
 
 ### 🥇 Pro Version (専門家型)
 

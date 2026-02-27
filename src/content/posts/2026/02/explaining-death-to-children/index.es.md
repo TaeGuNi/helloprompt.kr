@@ -42,7 +42,6 @@ Si intentamos suavizar la muerte usando frases como 'se quedó dormido' o 'se fu
 > **Rol:** Eres un experto en psicología infantil y psicopedagogía especializado en el duelo.
 > **Solicitud:** Ayúdame a explicarle a mi hijo de `[Edad]` años que `[Mascota/Familiar]` ha fallecido, de forma comprensible y reconfortante.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

@@ -42,7 +42,6 @@ Nutzen Sie diesen Ansatz für eine schnelle Einschätzung, wenn Sie sofortige Er
 > **Rolle:** Du bist ein erfahrener `[System-Architekt / Senior Developer]`.
 > **Aufgabe:** Analysiere den folgenden Fehler und nenne mir in einem Satz die Ursache sowie einen Lösungsvorschlag. `[Fehlermeldung hier einfügen]`
 
-\
 
 ### 🥇 Pro Version (Expertenmodus)
 
@@ -146,4 +145,3 @@ Spring Boot versucht, den `UserController` zu instanziieren. Da jedoch die `@Aut
 Fehlersuche muss kein frustrierendes Wimmelbildrätsel mehr sein. Geben Sie der KI einfach eine Lupe und präzise Anweisungen, um die Antwort für Sie zu finden.
 
 So haben Sie den Kopf frei für die eigentliche Entwicklung. Viel Erfolg beim Debuggen! 🐛🔫
-```

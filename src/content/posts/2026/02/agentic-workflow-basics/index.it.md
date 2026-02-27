@@ -45,7 +45,6 @@ Utilizzatela quando avete bisogno di definire rapidamente la struttura del proge
 >
 > **Task (Richiesta):** Per raggiungere con successo l'`[Obiettivo del progetto]`, pianifica 3 milestone chiave. Struttura in formato tabella i professionisti (ruoli) che devono essere coinvolti in ciascuna fase e le azioni specifiche che dovranno intraprendere.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

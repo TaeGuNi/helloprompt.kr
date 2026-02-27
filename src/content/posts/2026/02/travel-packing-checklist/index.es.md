@@ -42,7 +42,6 @@ El eterno dilema antes de un viaje: si empacas meticulosamente, terminas llevand
 > **Rol:** Eres un viajero experto y un maestro organizando equipaje.
 > **Solicitud:** Crea una lista de empaque esencial para un viaje a `[Destino]` durante `[Días]`.
 
-\
 
 ### 🥇 Versión Pro (Experto)
 

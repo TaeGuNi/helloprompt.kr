@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt für eine schnelle, unkomplizierte Analyse Ihrer mon
 > **Rolle:** Du bist ein professioneller Finanzberater.
 > **Aufgabe:** Analysiere meine folgenden monatlichen Ausgaben und zeige mir, wo ich Geld sparen kann. Hier sind meine Daten: `[Ausgabendaten einfügen]`
 
-\
 
 ### 🥇 Pro Version (Für detaillierte Vermögensplanung)
 

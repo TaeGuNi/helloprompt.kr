@@ -45,11 +45,11 @@ Aquí tienes el **"Prompt Mágico de Caché"** que reducirá los tiempos de resp
 >
 > **Tarea:** Aplica el patrón de caché `Look-aside` de Redis a la siguiente función:
 >
-> ```javascript
+>
 > async function getUserProfile(userId) {
 >   return await db.users.findOne({ id: userId });
 > }
-> ```
+>
 >
 > **Condiciones:**
 >
@@ -58,7 +58,6 @@ Aquí tienes el **"Prompt Mágico de Caché"** que reducirá los tiempos de resp
 > - Implementa claramente la lógica para consultar la base de datos y guardar el resultado en Redis en caso de un *Cache Miss*.
 > - Incluye manejo de excepciones: si la conexión a Redis falla, la consulta a la BD debe seguir funcionando con normalidad.
 
-\
 
 ### 🥇 Versión Pro (Arquitectura de Defensa contra Estampidas)
 

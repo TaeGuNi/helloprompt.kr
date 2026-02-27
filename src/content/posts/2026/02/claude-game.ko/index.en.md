@@ -38,7 +38,6 @@ Use this initial setup prompt when you need to quickly establish the skeleton (b
 > **Role:** You are a `[Senior Game Developer]`.
 > **Task:** Build a browser-based 2D golf game using `[HTML5 Canvas]`. It must feature a ball, a hole, and a drag-to-shoot mechanic.
 
-\
 
 ### 🥇 Pro Version
 

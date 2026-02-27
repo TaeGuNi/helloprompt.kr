@@ -35,7 +35,6 @@ Insérez simplement ceci dans le prompt système de votre agent si vous voulez j
 
 > **Rôle :** Tu es un agent système contrôlant l'infrastructure Docker.
 > **Tâche :** Exécute `[la tâche Docker à résoudre]`. Cependant, lors de l'utilisation de `docker exec`, n'utilise JAMAIS l'option `-it`. Pour consulter les logs, ajoute toujours `--tail 100` afin d'éviter de rester bloqué dans une attente de flux infini.
-\
 
 ### 🥇 Version Pro (Expert Version)
 Voici le code de triche ultime qui contrôle rigoureusement chaque action de l'IA, de l'accès au registre privé de l'entreprise jusqu'à la prévention des fuites de ressources et aux builds multi-architectures. Intégrez-le en entier dans le prompt système de votre agent ou dans son fichier `SKILL.md`.
@@ -104,4 +103,3 @@ _Résultat :_ Il omet l'option `-it` et extrait directement les résultats dans 
 La gentillesse aveugle est un luxe inutile avec les agents IA. Lorsqu'il s'agit d'infrastructure, le contrôle absolu sans marge d'erreur est la seule voie possible. Ouvrez immédiatement le fichier de configuration de votre agent (`GEMINI.md` ou `SKILL.md`) et collez ce code de triche.
 
 Vous avez économisé le temps et l'argent (*tokens*) perdus en bêtises. Maintenant, concentrez-vous sur le code qui compte vraiment et rentrez chez vous à l'heure ! 🍷
-```

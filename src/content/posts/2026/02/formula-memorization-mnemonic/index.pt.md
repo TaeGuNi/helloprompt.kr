@@ -42,7 +42,6 @@ Use esta versão para resultados diretos e rápidos.
 > **Papel:** Você é um Mestre da Mnemônica e um comediante brilhante.
 > **Solicitação:** Crie um método divertido usando storytelling e mnemônicos para me ajudar a memorizar a `[fórmula]` para sempre.
 
-\
 
 ### 🥇 Versão Pro (Expert Version)
 

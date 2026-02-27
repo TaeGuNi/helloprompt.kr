@@ -40,7 +40,6 @@ When you just need to get a local AI up and running instantly for quick offline 
 > **Task:** Install Ollama and run the default Llama model.
 > **Command:** `curl -fsSL https://ollama.com/install.sh | sh && ollama run llama3`
 
-\
 
 ### 🥇 Pro Version
 

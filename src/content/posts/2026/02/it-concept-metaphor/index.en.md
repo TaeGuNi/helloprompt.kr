@@ -42,7 +42,6 @@ Use this when you just need a rapid explanation on the fly.
 > **Role:** You are an `[expert IT instructor who masters analogies]`.
 > **Request:** Explain the concept of `[IT term]` by comparing it to an everyday situation so that even a 5-year-old can easily understand it.
 
-\
 
 ### 🥇 Pro Version (Expert Detail)
 

@@ -41,7 +41,6 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Lighting", "Cinematic"]
 
 > `[원하는 피사체와 상황]`, cinematic lighting, dramatic shadows, volumetric lighting, rim light, moody atmosphere, 8k resolution, photorealistic, shot on IMAX 70mm, teal and orange color grading
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

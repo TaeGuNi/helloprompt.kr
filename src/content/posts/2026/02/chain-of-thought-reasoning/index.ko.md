@@ -42,7 +42,6 @@ tags: ["AI", "Tech", "chain-of-thought-reasoning"]
 >
 > **마법의 주문:** 정답을 바로 말하지 말고, **단계별로 차근차근 생각해 보자(Think step-by-step).**
 
-\
 
 ### 🥇 Pro Version (퓨샷 CoT + 알고리즘적 구조화)
 

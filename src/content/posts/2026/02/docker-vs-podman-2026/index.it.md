@@ -43,7 +43,6 @@ Utilizza questo prompt quando vuoi verificare al volo come adattare i tuoi coman
 > 
 > **Azione:** Converti il mio comando o script Docker esistente `[Inserisci qui il comando docker run o lo script]` affinché funzioni perfettamente nella modalità Rootless di Podman. Nello specifico, evidenzia i potenziali errori relativi ai permessi dei volumi montati (incluso SELinux) e al bridge di rete, fornendo le relative soluzioni.
 
-\
 
 ### 🥇 Pro Version (Transizione perfetta da docker-compose a K8s)
 
@@ -66,9 +65,9 @@ Un prompt potente da utilizzare per convertire il tuo `docker-compose.yml` di pr
 >
 > - Ambiente di destinazione: `[Es: AWS EC2 t3.medium, RAM 4GB]`
 > - `docker-compose.yml` esistente:
->   ```yaml
+>
 >   [Incolla qui il contenuto del tuo docker-compose.yml]
->   ```
+>
 >
 > **Vincoli (Constraints):**
 >

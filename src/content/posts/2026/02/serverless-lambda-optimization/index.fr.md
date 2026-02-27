@@ -44,7 +44,6 @@ De l'approche basique consistant à augmenter la mémoire, jusqu'à l'allègemen
 > **Rôle :** Tu es un expert en optimisation d'architecture Serverless AWS.
 > **Requête :** Le Cold Start de ma fonction AWS Lambda prend actuellement plus de 2 secondes. L'environnement est configuré avec le runtime Node.js 20 et 128 Mo de mémoire. Explique-moi la corrélation entre la réduction du Cold Start et l'augmentation des coûts si j'augmente la mémoire. Ensuite, guide-moi étape par étape sur la façon d'utiliser l'outil open-source `AWS Lambda Power Tuning` pour trouver le point d'équilibre parfait (Sweet Spot) entre mémoire et coût.
 
-\
 
 ### 🥇 Version Pro (Optimisation du Code et Architecture Avancée)
 

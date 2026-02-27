@@ -42,7 +42,6 @@ Use this when you need a quick, spooky story on the go.
 > **Role:** You are a seasoned 'Mystery Researcher' who collects strange local lore, chilling myths, and urban legends from around the world.
 > **Request:** I am traveling to `[City Name]`. Tell me the most famous local folktale or ghost story that will make my trip more thrilling.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

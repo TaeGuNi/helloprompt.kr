@@ -41,7 +41,6 @@ Use this when you need immediate, domain-specific results without complex constr
 > **Role:** You are a `[Domain Expert, e.g., Senior Cybersecurity Analyst]`.
 > **Task:** Solve the following problem: `[Describe your problem]`. Provide your answer strictly from the perspective of your role.
 
-\
 
 ### 🥇 Pro Version (For Production-Grade Output)
 

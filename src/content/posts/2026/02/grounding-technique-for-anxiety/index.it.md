@@ -49,7 +49,6 @@ Da utilizzare quando hai bisogno di un intervento immediato senza troppe istruzi
 > **Ruolo:** Sei un consulente psicologico specializzato in gestione delle emergenze, calmo e rassicurante.
 > **Richiesta:** Sto avendo un attacco d'ansia. Guidami passo dopo passo attraverso la tecnica di grounding 5-4-3-2-1 per aiutarmi a tornare alla realtà. Fammi una domanda alla volta e aspetta la mia risposta.
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

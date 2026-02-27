@@ -44,7 +44,6 @@ Ideal para reuniones rápidas (*Daily Scrums*) o encuentros informales donde sol
 >
 > [Pega aquí tus notas de la reunión]
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

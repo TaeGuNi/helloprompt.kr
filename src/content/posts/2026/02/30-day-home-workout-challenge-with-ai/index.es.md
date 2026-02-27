@@ -49,7 +49,6 @@ Los mayores enemigos del entrenamiento en casa son el 'aburrimiento' y la 'falta
 > **Rol:** Eres un entrenador personal experto en rutinas en casa (home workout).
 > **Solicitud:** Diseña un desafío de 30 días usando solo mi peso corporal, sin equipo especial, que cambie de ejercicios cada día para no aburrirme.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

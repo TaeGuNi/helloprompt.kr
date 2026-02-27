@@ -42,7 +42,6 @@ Utilisez cette version lorsque vous êtes pressé et avez besoin d'une histoire 
 > **Rôle :** Tu es un expert en relaxation pour enfants et un conteur d'histoires apaisantes.
 > **Requête :** Raconte-moi une histoire douce pour un enfant qui n'arrive pas à dormir, en intégrant des techniques de respiration et de relaxation musculaire progressive.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

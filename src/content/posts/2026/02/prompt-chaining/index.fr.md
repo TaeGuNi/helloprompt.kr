@@ -43,7 +43,6 @@ Idéal pour comprendre le concept étape par étape de manière manuelle.
 > **Étape 3 :** Rédige un brouillon de post LinkedIn en te basant sur ces `[mots-clés]`.
 > **Étape 4 :** Corrige le style du `[brouillon]` pour le rendre plus percutant.
 
-\
 
 ### 🥇 Version Pro (Workflow Automatisé via un Agent)
 

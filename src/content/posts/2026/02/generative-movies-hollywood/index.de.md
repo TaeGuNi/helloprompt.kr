@@ -38,7 +38,6 @@ Verwenden Sie diese Version für einen schnellen Pitch oder eine grobe Idee.
 > **Aufgabe:** Erstelle einen fesselnden One-Pager für einen Film über `[Thema, z.B. eine KI, die Emotionen entwickelt]`.
 > **Format:** Titel, Logline und eine kurze Zusammenfassung in 3 Akten.
 
-\
 
 ### 🥇 Pro Version (Das Master-Konzept)
 

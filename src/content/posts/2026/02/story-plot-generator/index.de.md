@@ -42,7 +42,6 @@ Nutze diesen Prompt, wenn du nur einen kleinen kreativen Schubs brauchst.
 > **Rolle:** Du bist ein erfahrener Bestseller-Autor von Web-Novels.
 > **Aufgabe:** Entwickle 3 spannende Plot-Ideen für eine `[Genre]`-Geschichte, in der `[Hauptcharakter]` versucht, `[Ziel]` zu erreichen, aber von `[Hindernis]` aufgehalten wird.
 
-\
 
 ### 🥇 Pro Version (Für tiefgründige Handlungsbögen)
 

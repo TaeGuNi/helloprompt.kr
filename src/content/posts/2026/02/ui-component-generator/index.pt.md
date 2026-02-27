@@ -44,7 +44,6 @@ Use esta versão para rascunhos rápidos ou prototipagem de ideias simples.
 > **Papel:** Você é um Desenvolvedor Frontend Sênior especializado em UI/UX.
 > **Solicitação:** Crie um componente de `[Nome do Componente, ex: Cartão de Produto]` usando `[Stack, ex: React + Tailwind]`.
 
-\
 
 ### 🥇 Versão Pro (Expert Version)
 

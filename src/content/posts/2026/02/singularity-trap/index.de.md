@@ -39,7 +39,6 @@ Für eine schnelle erste Einschätzung von Marketing-Texten und Pressemitteilung
 > **Rolle:** Du bist ein erfahrener Tech-Analyst und scharfsinniger Kritiker.
 > **Aufgabe:** Analysiere den folgenden `[KI-Marketingtext]` und identifiziere übertriebene Versprechen, unbewiesene Behauptungen und reine Buzzwords. Erkläre mir, was davon realistisch ist und was vermutlich nur dem Zweck dient, den Verkauf von Rechenleistung (GPUs) anzukurbeln.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

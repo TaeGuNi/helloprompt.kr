@@ -44,7 +44,6 @@ Descubre el "hechizo mágico" de la ingeniería de prompts para crear NPCs (Pers
 > **Rol:** Eres un actor veterano de improvisación y un maestro de la narrativa.
 > **Solicitud:** Genera rápidamente el perfil de un `[Profesión del NPC, ej. guardia cobarde]`. Dame su nombre, una característica visual llamativa, su forma de hablar y un secreto que oculta.
 
-\
 
 ### 🥇 Versión Pro (Expert Version)
 

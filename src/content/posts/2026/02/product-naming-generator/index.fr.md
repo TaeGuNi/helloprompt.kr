@@ -42,7 +42,6 @@ Utilisez cette version pour obtenir des idées en un clin d'œil.
 > **Rôle :** Tu es un `[Consultant Expert en Naming de Marque]` avec 20 ans d'expérience. Tu excelles dans les jeux de mots et les combinaisons lexicales tendances.
 > **Requête :** Propose-moi 10 idées de noms percutants pour `[nom ou description brève du produit/service]`.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

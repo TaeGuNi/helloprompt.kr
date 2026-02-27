@@ -42,7 +42,6 @@ Utilisez cette version pour obtenir un calcul rapide sans entrer dans les détai
 > **Rôle :** Tu es un `[Expert en Modélisation Financière]`.
 > **Requête :** Faut-il investir dans ce projet ? Donne-moi les formules Excel simples pour calculer la Valeur Actuelle Nette (VAN) et le Taux de Rentabilité Interne (TRI) à partir de mes flux de trésorerie.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

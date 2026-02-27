@@ -4,6 +4,7 @@ import vercel from "@astrojs/vercel";
 import AstroPWA from "@vite-pwa/astro";
 import { defineConfig } from "astro/config";
 import { visit } from "unist-util-visit";
+import { remarkStrictTemplate } from "./scripts/remark-strict-template.mjs";
 
 function rehypeWrap() {
   /** @param {any} tree */
@@ -97,6 +98,7 @@ export default defineConfig({
     }),
   ],
   markdown: {
+    // remarkPlugins: [remarkStrictTemplate], // Disabled: Causes synchronous event loop blocking on heavy multi-language builds
     rehypePlugins: [rehypeWrap],
   },
 });

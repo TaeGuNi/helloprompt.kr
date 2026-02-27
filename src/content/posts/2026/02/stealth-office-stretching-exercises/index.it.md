@@ -49,7 +49,6 @@ Ideale quando hai bisogno di un sollievo immediato e non hai tempo per i dettagl
 > **Ruolo:** Sei un esperto di ergonomia e correzione posturale.
 > **Richiesta:** Suggeriscimi 3 esercizi di stretching che posso fare ora alla mia scrivania senza che i miei colleghi se ne accorgano.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

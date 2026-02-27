@@ -45,7 +45,6 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Lighting"]
 >
 > **被写体:** `[ここに被写体を記入。例：丘の上に立つ侍]`
 
-\
 
 ### 🥇 Pro Version (専門家形)
 

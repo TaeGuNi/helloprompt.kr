@@ -36,7 +36,7 @@ Use isso quando precisar apenas de uma estrutura de código rápida ou de uma re
 
 > **Papel:** Você é um especialista em arquitetura de sistemas. Sem comentários positivos inúteis, apenas me dê o código.
 > **Tarefa:** Revise o `[código/arquivo]`, remova todos os `console.log` e substitua tudo por logging estruturado JSON baseado em Pino/Winston. Se for frontend, aplique Error Boundary.
-\
+
 ### 🥇 Versão Pro (Professional Version)
 A versão definitiva, usada quando você precisa de um sistema de rastreamento de erros perfeito e logging íntegro. Modifica completamente a estrutura cerebral da IA. 
 Fornecido abaixo como um bloco de código markdown para facilitar a cópia.

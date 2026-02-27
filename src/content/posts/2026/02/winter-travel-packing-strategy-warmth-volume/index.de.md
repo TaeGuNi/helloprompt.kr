@@ -42,7 +42,6 @@ Nutzen Sie diese Variante, wenn Sie sofortige, kompakte Ergebnisse benötigen.
 > **Rolle:** Du bist ein erfahrener Outdoor-Experte für extreme Kälte und ein Meister im effizienten Kofferpacken.
 > **Anfrage:** Mein Koffer ist wegen meiner Daunenjacke schon fast voll. Gib mir die besten Tipps, wie ich für eine Winterreise platzsparend packen und mich trotzdem warm halten kann.
 
-\
 
 ### 🥇 Pro Version (Für detaillierte Packlisten & Strategien)
 

@@ -50,7 +50,6 @@ Use this when you need to quickly extract core insights from thick, multi-hundre
 > 1. Summarize the 3 most critical insights using bullet points.
 > 2. You MUST include the exact **page number** from the original document as a reference for each insight.
 
-\
 
 ### 🥇 Pro Version
 

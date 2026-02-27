@@ -43,7 +43,6 @@ Utilisez ce prompt lorsque vous manquez cruellement de temps et souhaitez une tr
 
 > **Demande :** Rédige un e-mail professionnel pour relancer un partenaire qui n'a pas répondu à ma précédente demande. Le ton doit être courtois, compréhensif, mais souligner l'urgence de la situation sans paraître agressif.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

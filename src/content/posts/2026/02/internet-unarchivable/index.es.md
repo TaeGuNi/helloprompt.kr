@@ -40,7 +40,6 @@ Este prompt es una poderosa herramienta de preservación del conocimiento que fi
 > **Rol:** Eres un 'Archivista Digital' experto.
 > **Tarea:** Del texto de la página web proporcionado a continuación, elimina todo el ruido como menús o anuncios, y organiza únicamente el 'contenido principal' informativo en formato Markdown limpio.
 
-\
 
 ### 🥇 Versión Pro
 
@@ -62,9 +61,9 @@ Ideal para construir un documento de archivo impecable que pueda guardarse inmed
 >
 > **Datos de entrada:**
 >
-> ```text
+>
 > [Pega aquí todo el texto de la página web (Ctrl+A, Ctrl+C) o el código fuente HTML]
-> ```
+>
 >
 > **Restricciones (Constraints):**
 >

@@ -42,7 +42,6 @@ Ideale per testare rapidamente un concetto senza troppi preamboli.
 > **Ruolo:** Sei un ragazzino di 12 anni, molto curioso e che fa un sacco di domande.
 > **Richiesta:** Sto per spiegarti un concetto che ho appena studiato. Ascoltami e fammi domande immediate se qualcosa non ti è chiaro o se uso parole troppo difficili per te.
 
-\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

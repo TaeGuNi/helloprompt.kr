@@ -151,4 +151,3 @@ Código premium donde se aplican perfectamente los tokens semánticos, la accesi
 Un gran sistema de diseño no surge del laissez-faire (dejar hacer), sino del **'control preciso'**. 
 Lo mismo ocurre al delegar código a la IA. Una IA que programa sin reglas es un desastre que genera deuda técnica, pero una IA controlada bajo una constitución arquitectónica perfecta es el mejor Arquitecto Jefe, capaz de hacer el trabajo de 100 personas. 
 ¡Copia este prompt ahora mismo y salva tu proyecto! 🍷
-```

@@ -45,7 +45,6 @@ A partir de ahora, simplemente copia y pega el código de tu controlador. La IA 
 > **Rol:** Eres un escritor técnico meticuloso y desarrollador backend.
 > **Solicitud:** Analiza el siguiente código y genera la documentación de la API en formato Markdown o Swagger. `[Pega tu código aquí]`
 
-\
 
 ### 🥇 Pro Version (Versión Profesional)
 

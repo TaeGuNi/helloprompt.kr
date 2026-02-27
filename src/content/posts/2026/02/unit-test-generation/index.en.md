@@ -42,7 +42,6 @@ Use this when you need a quick, standard test suite without complex configuratio
 > **Role:** You are a `[Senior QA Engineer]`.
 > **Request:** Write comprehensive unit test code for the following `[function/class]`, making sure to cover potential edge cases.
 
-\
 
 ### 🥇 Pro Version (Expert)
 
@@ -112,7 +111,6 @@ function divide(a, b) {
 }
 ```
 
-\
 
 ### ✅ After (Result: Jest Framework)
 

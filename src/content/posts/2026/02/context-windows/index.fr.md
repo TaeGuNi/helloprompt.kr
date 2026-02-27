@@ -39,7 +39,6 @@ Pour un rafraîchissement rapide de la mémoire au milieu d'une conversation.
 > **Rôle :** Tu es mon assistant de projet.
 > **Requête :** Fais un résumé concis de tout ce que nous avons accompli et décidé jusqu'à présent dans cette discussion. Liste uniquement les faits et les décisions clés.
 
-\
 
 ### 🥇 Pro Version (Version Expert)
 

@@ -126,4 +126,3 @@ AI is an excellent typewriter, but the architect must ultimately be human. Do no
 Slam this cheat code into your agent's system prompt right now and defeat the mindless generation of spaghetti code. 
 
 Now, log off on time without any nonsense, enjoying your refreshing, clean context! 🍷
-```

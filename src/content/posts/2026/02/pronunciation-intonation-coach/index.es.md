@@ -44,7 +44,6 @@ Ideal para cuando necesitas resolver una duda rápida sobre cómo pronunciar una
 > **Rol:** Eres un experto en fonética inglesa y un entrenador especializado en corrección de acento para hispanohablantes.
 > **Solicitud:** Enséñame a pronunciar la siguiente frase de forma nativa, mostrándome dónde va el acento y cómo se conectan las palabras: `[Inserta tu frase aquí]`
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

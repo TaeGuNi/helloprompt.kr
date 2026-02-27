@@ -42,7 +42,6 @@ Da usare quando sei di fretta e hai bisogno di una risposta formale immediata.
 > **Ruolo:** Sei un assistente virtuale esperto in comunicazione aziendale.
 > **Richiesta:** Leggi questa `[email]` e scrivi una breve risposta educata spiegando che `[il tuo messaggio o la tua decisione]`.
 
-\
 
 ### 🥇 Versione Esperto (Pro Version)
 

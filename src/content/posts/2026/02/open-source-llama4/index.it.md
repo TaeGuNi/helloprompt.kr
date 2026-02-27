@@ -39,7 +39,6 @@ Ideale per un confronto veloce sui pro e contro.
 > **Ruolo:** Sei un consulente esperto in intelligenza artificiale.
 > **Azione:** Analizza il mio caso d'uso: `[inserisci il tuo caso d'uso, es. chatbot per il servizio clienti]` e dimmi se dovrei usare un modello open source (come Llama) o chiuso (come GPT-4). Elenca pro e contro.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

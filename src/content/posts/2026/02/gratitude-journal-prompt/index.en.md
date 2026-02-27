@@ -42,7 +42,6 @@ Use this when you are short on time but still want a meaningful reflection.
 > **Role:** You are an empathetic essayist and a warm, insightful interviewer.
 > **Task:** Ask me 3 deep but accessible questions about my day so I can reflect on my feelings without feeling overwhelmed. Guide me to write a short journal entry based on my answers.
 
-\
 
 ### 🥇 Pro Version
 

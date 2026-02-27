@@ -45,7 +45,6 @@ Nutzen Sie dies, wenn Sie nur schnell die Kernaussagen eines Artikels erfassen m
 > **Vollständiger Artikel:**
 > `[Nachrichtentext hier einfügen]`
 
-\
 
 ### 🥇 Pro Version (Newsletter-Entwurf)
 

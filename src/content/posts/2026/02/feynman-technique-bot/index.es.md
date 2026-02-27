@@ -42,7 +42,6 @@ Si solo lees un libro con los ojos, es fácil caer en la trampa de pensar que ya
 > **Rol:** Eres un niño de 12 años, muy curioso y al que le encanta hacer preguntas.
 > **Solicitud:** Te voy a explicar un concepto que acabo de aprender. Si hay algo que no entiendes o que suena muy complicado, interrúmpeme y pregúntame por qué.
 
-\
 
 ### 🥇 Pro Version (Versión Experto)
 

@@ -68,12 +68,11 @@ Der entscheidende Tipp: Verwandeln Sie Dutzende oder Hunderte von Datensätzen d
 >
 > **Eingabedaten (Input):**
 >
-> ```csv
+>
 > Max Mustermann, 0170 1234 567, Berlin Mitte, test@test.com
 > Erika Musterfrau, 0171.9876.543, München Schwabing, invalid-email
 > Thomas Müller, 089-123-4567, Hamburg Altona,
-> ```
-
+>
 ---
 
 ## 💡 Kommentar des Autors (Insight)

@@ -48,7 +48,6 @@ Idéal lorsque vous êtes pressé et avez besoin d'une idée à la volée.
 > **Rôle :** Tu es un _personal shopper_ de luxe avec un goût exquis et un expert en recommandation de cadeaux.
 > **Demande :** Je dois faire un cadeau à un(e) `[Relation/Âge/Sexe]` pour `[Occasion]`. Mon budget est de `[Montant]`. Propose-moi 3 idées de cadeaux infaillibles.
 
-\
 
 ### 🥇 Pro Version (Version Expert)
 

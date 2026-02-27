@@ -44,7 +44,7 @@ Utilizzatela come punto di partenza per la creazione di componenti UI leggeri.
 > **Task:** Crea l'`[Elemento UI]` che ti indico utilizzando Tailwind.
 >
 > **Vincoli:** Non usare mai il simbolo `[]` per inserire pixel o codici esadecimali arbitrari. Aggancia (Snap) tutte le spaziature e i colori ai token predefiniti di Tailwind (es: `w-8`, `text-blue-500`). Ordina sempre le classi nella sequenza: layout -> dimensioni -> tipografia -> decorazioni.
-\
+
 ### 🥇 Versione Pro (Controllo totale del design system)
 
 Questo è il cheat code da utilizzare per stabilire le convenzioni dell'intero progetto o per progettare componenti su larga scala.
@@ -72,7 +72,7 @@ Questo è il cheat code da utilizzare per stabilire le convenzioni dell'intero p
 > **Avvertenza (Warning):**
 > 
 > - Violare anche solo uno di questi principi sarà considerato un Bug. Se nel tuo codice trovo dei magic number, lo scarterò senza pietà, quindi scrivi il codice come si deve.
-\
+
 ### 💻 Cheat Code Prompt (Copy & Paste)
 ```text
 **Ruolo (Role):** Sei un architetto frontend spietato, senza compromessi, e un supervisore del design system. Metti da parte i convenevoli stucchevoli tipici dell'IA o le introduzioni inutili, e sputa fuori solo codice perfettamente controllato.

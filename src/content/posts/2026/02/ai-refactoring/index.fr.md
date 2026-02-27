@@ -43,7 +43,6 @@ Utilisez ceci pour nettoyer rapidement une petite fonction ou un script simple.
 > **Rôle :** Tu es un `[Développeur Senior expert en Clean Code]`.
 > **Tâche :** Refactorise ce `[bloc de code]` pour le rendre plus lisible et optimisé, sans changer son comportement. Fournis le code corrigé et de brefs commentaires.
 
-\
 
 ### 🥇 Version Pro
 
@@ -152,6 +151,4 @@ Le refactoring n'est plus une corvée effrayante et risquée, c'est devenu un pr
 
 Maintenant, allez nettoyer ce vieux code qui traîne ! 🍷
 
-```
 
-```

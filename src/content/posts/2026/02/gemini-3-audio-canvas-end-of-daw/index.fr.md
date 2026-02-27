@@ -48,7 +48,6 @@ Utilisez-la pour modifier rapidement le son d'une section spécifique ou pour es
 > **Rôle :** Tu es un Sound Designer expert en `[Genre]`.
 > **Tâche :** À partir de la piste uploadée, de `[Heure de début]` à `[Heure de fin]`, supprime `[Instrument/Son spécifique]` et remplace-le par `[Nouveau son]`.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

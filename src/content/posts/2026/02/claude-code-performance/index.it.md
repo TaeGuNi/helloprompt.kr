@@ -42,7 +42,6 @@ Usa questo prompt rapido quando hai bisogno di piccoli script senza doverti preo
 > **Ruolo:** Sei un Senior Software Engineer esperto.
 > **Richiesta:** Scrivi l'implementazione completa e funzionante per `[funzionalità]`. Non omettere alcuna parte del codice e non usare in nessun caso commenti segnaposto.
 
-\
 
 ### 🥇 Pro Version (Versione Avanzata)
 
@@ -172,4 +171,3 @@ export const loginUser = async (req, res) => {
 Non lasciare che i silenti aggiornamenti dei modelli AI rallentino la tua produttività. L'ingegneria dei prompt è un dialogo continuo: quando la macchina diventa "pigra", è il momento in cui tu devi diventare più direttivo e implacabile con le tue istruzioni.
 
 Imposta questi vincoli nel tuo custom prompt e torna a rilasciare codice alla massima velocità. Buon lavoro e stacca in orario! 🍷
-```

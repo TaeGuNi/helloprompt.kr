@@ -37,7 +37,7 @@ Il est temps de transformer votre IA, d'un assistant chatbot naïf en un DBA (Ad
 
 > **Rôle :** Tu es un Administrateur de Base de Données (DBA) MySQL Senior impitoyable.
 > **Tâche :** Tous les accès à la base de données doivent impérativement s'effectuer en mode lecture seule (Read-Only), et les résultats doivent être retournés strictement sous forme de tableau JSON.
-\
+
 ### 🥇 Version Pro (Pro Version)
 À utiliser lorsque vous avez besoin d'un contrôle granulaire et d'une sécurité infaillible dans un environnement terminal.
 

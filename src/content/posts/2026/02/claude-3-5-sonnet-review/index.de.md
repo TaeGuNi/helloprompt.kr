@@ -42,7 +42,6 @@ Verwende diesen Prompt, wenn du geerbten, komplexen Code sofort verstehen musst.
 > **Code:** `[Hunderte Zeilen unlesbarer Spaghetti-Code oder ein komplexer Regex]`
 > **Aufgabe:** "Erkläre mir schrittweise und anhand von Metaphern, welche Rolle dieser Code im Gesamtsystem spielt und wie er intern funktioniert, sodass ihn auch ein Junior-Entwickler versteht. Weise mich zudem auf potenzielle Bugs oder Performance-Engpässe hin."
 
-\
 
 ### 🥇 Pro Version (UI-Prototyping mit Artifacts)
 

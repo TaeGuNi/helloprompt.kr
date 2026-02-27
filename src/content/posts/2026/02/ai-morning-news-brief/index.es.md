@@ -42,7 +42,6 @@ Ideal cuando tienes prisa y solo necesitas saber qué está pasando en tu indust
 > **Rol:** Eres un presentador de noticias experto y conciso.
 > **Tarea:** Resume las 3 noticias más importantes de hoy sobre `[Tu Industria/Tema de interés]`.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

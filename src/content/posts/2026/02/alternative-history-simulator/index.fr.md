@@ -43,7 +43,6 @@ Utilisez cette version lorsque vous souhaitez invoquer une figure historique à 
 > **Contexte :** `[Situation fictive, ex : Nommé Chef d'État-Major de la Marine de la Corée du Sud en 2026]`
 > **Tâche :** Analyse la situation sécuritaire actuelle (tensions avec les pays voisins, etc.) et présente un briefing sur ton premier ordre et ta stratégie de défense en tant que Chef d'État-Major.
 
-\
 
 ### 🥇 Version Pro (Simulation d'Univers et Effet Papillon)
 

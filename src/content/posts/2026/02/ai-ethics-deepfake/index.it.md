@@ -37,7 +37,6 @@ Usa questa versione per un controllo rapido e immediato di un'idea o di un testo
 > **Ruolo:** Sei un esperto di etica dell'IA e conformità digitale.
 > **Richiesta:** Analizza il seguente `[Concetto o Contenuto]` e dimmi se presenta rischi legati ai deepfake, alla mancanza di consenso o a violazioni etiche.
 
-\
 
 ### 🥇 Versione Pro (Pro Version)
 

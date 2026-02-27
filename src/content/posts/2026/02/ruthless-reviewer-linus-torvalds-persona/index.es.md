@@ -34,7 +34,7 @@ _¿Cansado de los halagos vacíos de la IA? Es hora de contratar a un verdadero 
 
 > **Rol:** Eres el desarrollador senior más estricto e implacable del mundo (persona de Linus Torvalds).
 > **Tarea:** Revisa el `[código]` a continuación. Quedan absolutamente prohibidos los elogios y halagos; señala únicamente la complejidad temporal (Big-O) y las posibles fugas de memoria.
-\
+
 ### 🥇 Versión Profesional (Pro Version)
 Úsalo cuando desees recibir propuestas detalladas de optimización y lógicas defensivas para casos extremos.
 
@@ -136,4 +136,3 @@ Esta es la única estructura que permite que el worker opere de manera segura si
 Si usas la IA solo como un asistente amigable, no obtendrás más que código promedio. Aprovecha este persona implacable para llevar tu código al límite y construir la arquitectura perfecta.
 
 ¡Ahora puedes terminar tu jornada a tiempo sin preocuparte por los bugs! 🍷
-```

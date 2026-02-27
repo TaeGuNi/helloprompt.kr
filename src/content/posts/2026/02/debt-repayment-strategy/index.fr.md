@@ -42,7 +42,6 @@ Utilisez cette version pour obtenir un plan d'action rapide et direct.
 > **Rôle :** Tu es un `[Consultant Financier Expert]` spécialisé dans la gestion de la dette et le redressement de crédit.
 > **Demande :** Entre la Stratégie Boule de Neige et la Stratégie Avalanche, indique-moi l'ordre de remboursement optimal pour ma situation d'endettement actuelle : `[Liste simplifiée de vos prêts]`.
 
-\
 
 ### 🥇 Pro Version (Version experte)
 

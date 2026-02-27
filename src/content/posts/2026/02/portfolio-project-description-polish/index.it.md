@@ -43,7 +43,6 @@ Usala quando hai poco tempo e ti serve un risultato rapido.
 > **Ruolo:** Sei un Senior Tech Lead e Recruiter in un'azienda IT di primo piano.
 > **Richiesta:** Rielabora questa descrizione del progetto in formato storytelling, mettendo in risalto il processo di problem-solving e il mio contributo specifico, invece di fare un semplice elenco delle funzionalità.
 
-\
 
 ### 🥇 Versione Pro (Pro Version)
 

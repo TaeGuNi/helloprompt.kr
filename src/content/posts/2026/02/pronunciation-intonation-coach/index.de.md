@@ -42,7 +42,6 @@ Nutzen Sie diese Variante, wenn Sie ein schnelles, unkompliziertes Ergebnis ben�
 > **Rolle:** Du bist ein erfahrener `[Phonetik-Experte und Aussprache-Coach]`.
 > **Aufgabe:** Analysiere den folgenden Text und erkläre die phonetischen Symbole, Betonungen und die Intonation so visuell, dass ich sie auch ohne Audio-Feedback lernen kann. `[Text einfügen]`
 
-\
 
 ### 🥇 Pro Version (Expertenform)
 

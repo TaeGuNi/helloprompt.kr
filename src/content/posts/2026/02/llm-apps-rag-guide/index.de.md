@@ -43,7 +43,6 @@ Verwenden Sie diese Version für einen schnellen Überblick und erste Tool-Empfe
 > **Rolle:** Du bist ein Senior AI Solutions Architect.
 > **Aufgabe:** Entwirf eine grundlegende RAG-Pipeline für `[Anwendungsfall, z.B. einen internen HR-Chatbot]`. Nenne mir die besten Open-Source-Tools für das Framework, die Vektordatenbank und das LLM.
 
-\
 
 ### 🥇 Pro Version (Experte)
 

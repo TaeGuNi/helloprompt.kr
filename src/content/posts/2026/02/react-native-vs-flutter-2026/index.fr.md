@@ -45,7 +45,6 @@ Idéale lorsque vous avez besoin d'une direction claire et immédiate, sans anal
 > **Contexte :** Notre équipe est actuellement composée de `[3 développeurs React et 1 développeur backend Node.js]`, et nous voulons créer `[une application de livraison géolocalisée]`.
 > **Tâche :** Dans ce contexte, devrions-nous choisir React Native ou Flutter ? Donne-moi une réponse claire et tranchée, justifiée par les 3 arguments les plus critiques.
 
-\
 
 ### 🥇 Version Pro (Analyse approfondie pour CTO)
 

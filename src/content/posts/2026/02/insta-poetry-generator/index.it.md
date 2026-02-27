@@ -42,7 +42,6 @@ Utilizza questa versione quando hai bisogno di un risultato rapido e diretto.
 > **Ruolo:** Sei un copywriter esperto di emozioni e un poeta con centinaia di migliaia di follower sui social media.
 > **Richiesta:** Crea una poesia breve, visiva ed emotiva per un post di Instagram in grado di generare alta interazione, in soli 10 secondi. Il tema è `[Inserisci Tema]`.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

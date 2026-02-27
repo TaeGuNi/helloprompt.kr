@@ -42,7 +42,6 @@ Use esta versão quando precisar apenas de um cardápio rápido e direto ao pont
 > **Role (Papel):** Você é um Nutricionista Esportivo Especialista em Emagrecimento.
 > **Task (Tarefa):** Crie um cardápio semanal para mim. Eu peso `[80kg]`, quero chegar aos `[70kg]`, e não suporto comer `[pepino]`.
 
-\
 
 ### 🥇 Versão Pro (Expert)
 

@@ -45,7 +45,6 @@ Use isso quando precisar de um palpite rápido para destravar o seu pensamento.
 > **Papel:** Você é um Engenheiro de Software Sênior especialista em depuração.
 > **Solicitação:** Analise o erro `[mensagem_de_erro]` no seguinte código e sugira a correção: `[trecho_de_codigo]`.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

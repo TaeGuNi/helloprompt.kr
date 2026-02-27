@@ -41,7 +41,6 @@ Utilizza questa tecnica quando hai bisogno di risultati rapidi per task di compr
 > **Ruolo:** Sei un analista del sentiment esperto.
 > **Richiesta:** Classifica il sentiment di questo testo: "Il servizio era lento, ma il cibo era eccellente." Rispondi SOLO con Positivo, Negativo o Neutro.
 
-\
 
 ### 🥇 Versione Pro (Few-Shot)
 

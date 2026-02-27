@@ -43,7 +43,7 @@ Throw this in when you need quick CSS refactoring or design guideline correction
 > - Omit useless explanations or greetings.
 > - Output only the refactored code block and the reason, briefly and drily.
 
-\
+
 ### 🥇 Pro Version
 Use this for initial project setup or large-scale component development, when you want to extract the very soul of the AI for perfect results. Copy and paste the prompt below exactly as it is.
 
@@ -138,4 +138,3 @@ A design system collapses the moment sentimental compromises like "wouldn't this
 
 Perfectly correct your AI's coding habits with these 12 merciless rules. You can save hundreds of hours wasted debugging spaghetti CSS.
 Now stop making beautiful garbage and leave work on time! 🍷
-```

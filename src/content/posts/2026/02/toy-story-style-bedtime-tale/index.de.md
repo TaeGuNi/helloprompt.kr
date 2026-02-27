@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt, wenn Sie kurz vor dem Schlafengehen schnell eine kl
 > **Rolle:** Du bist ein fantasievoller Kinderbuchautor, der die geheime Sprache der Spielzeuge versteht.
 > **Aufgabe:** Schreibe eine kurze, herzerwärmende Gute-Nacht-Geschichte über eine heimliche Party, die die liegengelassenen Spielzeuge des Kindes nachts im kalten Wohnzimmer feiern.
 
-\
 
 ### 🥇 Pro Version (Für maximale Details)
 

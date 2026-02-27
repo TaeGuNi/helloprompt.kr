@@ -48,7 +48,6 @@ Verwenden Sie diesen Prompt, wenn Sie nur eine schnelle, allgemeine Übersicht b
 > **Rolle:** Du bist ein internationaler Unternehmensberater mit 20 Jahren Erfahrung in interkultureller Kommunikation.
 > **Anfrage:** Ich reise geschäftlich nach `[Zielland]`. Nenne mir die 5 wichtigsten Business-Etikette-Regeln, die ich unbedingt beachten muss, um einen guten Eindruck zu hinterlassen.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

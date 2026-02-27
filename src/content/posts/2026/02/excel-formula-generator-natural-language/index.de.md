@@ -42,7 +42,6 @@ Verwenden Sie diese Version, wenn Sie nur ein schnelles Ergebnis benötigen.
 > **Rolle:** Du bist ein erfahrener Excel-Experte.
 > **Anfrage:** Ich erkläre dir mein Problem in einfachen Worten. Bitte erstelle mir die perfekt passende Excel-Formel dafür. Hier ist das Problem: `[Bitte Problem hier beschreiben, z. B. 'Ich möchte den passenden Wert aus Spalte C anhand der ID in Spalte A finden']`.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

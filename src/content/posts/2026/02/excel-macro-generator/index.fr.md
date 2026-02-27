@@ -48,7 +48,6 @@ Idéal pour générer rapidement une formule complexe sans se prendre la tête.
 
 - Colonne A : Nom / Colonne B : Score / Colonne C : Statut (Réussi/Échoué)
 
-\
 
 ### 🥇 Version Pro (Automatisation VBA & Macros)
 

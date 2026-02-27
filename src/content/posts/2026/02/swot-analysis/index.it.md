@@ -42,7 +42,6 @@ Utilizza questa versione quando hai bisogno di un'analisi veloce e diretta.
 > **Ruolo:** Sei un `[Consulente Strategico]` presso una prestigiosa società di consulenza gestionale.
 > **Richiesta:** Analizza a colpo d'occhio i punti di forza, le debolezze, le opportunità e le minacce di `[Nome Azienda]` in cui intendo investire.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

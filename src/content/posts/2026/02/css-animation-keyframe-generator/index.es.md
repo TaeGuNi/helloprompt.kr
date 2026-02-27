@@ -42,7 +42,6 @@ Utiliza este prompt cuando necesites código de animación rápido para movimien
 > **Rol:** Eres un `[Desarrollador Frontend especializado en UI]`.
 > **Tarea:** Escribe el código de animación CSS con `@keyframes` para `[una notificación que aparece deslizándose suavemente desde la esquina superior derecha de la pantalla]`.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

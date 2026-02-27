@@ -45,7 +45,6 @@ Ohne ein Framework wie Tambo liefert die KI lediglich unstrukturierten Text.
 > **Rolle:** Du bist ein Reiseberater.
 > **Aufgabe:** Plane eine Reise zur Insel Jeju und nenne empfehlenswerte Orte.
 
-\
 
 ### 🥇 Pro Version (Tambo SDK & Function Calling)
 

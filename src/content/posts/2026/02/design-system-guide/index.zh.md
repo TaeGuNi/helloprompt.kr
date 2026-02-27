@@ -44,7 +44,6 @@ tags: ["디자인시스템", "Figma", "CSS", "UI-UX", "협업"]
 > 我想将 `[Primary(蓝色)]`、`[Secondary(灰色)]` 和 `[Error(红色)]` 这三种颜色，分别从 100 到 900 划分为 9 个层级。
 > 为了能将这些颜色直接应用到代码中，请为每个层级推荐直观且语义化 (Semantic) 的命名（例如：`text-primary`、`bg-surface-default`），并将每个层级对应的十六进制 (Hex) 代码整理成表格形式输出。
 
-\
 
 ### 🥇 Pro Version (专业版)
 

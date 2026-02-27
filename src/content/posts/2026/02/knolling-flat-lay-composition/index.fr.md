@@ -42,7 +42,6 @@ Utilisez cette version pour obtenir rapidement un résultat simple et efficace, 
 > **Rôle :** Tu es un directeur artistique spécialisé en photographie de produits.
 > **Demande :** Crée une image en utilisant la technique du Knolling. Arrange les objets suivants : `[Liste des objets, ex: équipement de camping]` de manière parfaitement ordonnée, à angles droits, photographiés de dessus sur un fond uni.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

@@ -42,7 +42,6 @@ Verwenden Sie diese Version, wenn Sie nur eine schnelle, grobe Schätzung benöt
 > **Rolle:** Du bist ein erfahrener und extrem akribischer `[Reiseberater]`.
 > **Aufgabe:** Erstelle mir eine realistische Budgetplanung für eine Reise nach `[Reiseziel]`. Berücksichtige dabei Flüge, lokale Verpflegung und Transportkosten, sodass die Abweichung am Ende unter 10 % liegt.
 
-\
 
 ### 🥇 Pro Version (Experten-Version)
 

@@ -51,7 +51,6 @@ Lis l'intégralité du document téléchargé et extrais uniquement les informat
 1. Résume les 3 insights les plus cruciaux sous forme de puces (bullet points).
 2. Pour chaque insight, tu dois impérativement indiquer le **numéro de page** du document original qui sert de source.
 
-\
 
 ### 🥇 Version Pro (Analyse Approfondie de Base de Code)
 

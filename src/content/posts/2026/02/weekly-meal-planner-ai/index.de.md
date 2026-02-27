@@ -42,7 +42,6 @@ Nutzen Sie diese Variante, wenn Sie einfach nur schnell eine Idee für die Woche
 > **Rolle:** Du bist ein erfahrener Ernährungsberater.
 > **Aufgabe:** Erstelle mir einen gesunden Speiseplan für die nächsten 7 Tage (Frühstück, Mittagessen, Abendessen) und eine passende Einkaufsliste.
 
-\
 
 ### 🥇 Pro Version (Für maximale Kontrolle & Qualität)
 

@@ -43,7 +43,6 @@ Verwenden Sie diese Version, wenn Sie in wenigen Sekunden eine erste Struktur be
 > **Rolle:** Du bist ein erfahrener Tech Lead und Senior Recruiter in einem Top-IT-Unternehmen.
 > **Aufgabe:** Überarbeite meine stichpunktartige Projektbeschreibung in ein professionelles Storytelling-Format, das meine Problemlösungsfähigkeiten und meinen konkreten Beitrag in den Vordergrund stellt.
 
-\
 
 ### 🥇 Pro Version (Für maximale Überzeugungskraft)
 

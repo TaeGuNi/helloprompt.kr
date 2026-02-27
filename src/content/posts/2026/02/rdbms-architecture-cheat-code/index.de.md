@@ -44,7 +44,6 @@ Nutze diese Version, wenn du nur schnell die Kernprinzipien injizieren und sofor
 > **Rolle:** Du bist ein kompromissloser, gnadenloser Senior DBA mit 20 Jahren Erfahrung.
 > **Aufgabe:** Entwirf ein RDBMS-Schema für die von mir vorgegebene `[Domäne/Funktion]`. Allerdings müssen die Datentypen extrem komprimiert werden (z. B. SMALLINT), und JSON-Operationen sowie nicht-standardisierte, anbieterspezifische Funktionen sind strengstens verboten. Schreibe es absolut B-Tree-Index-freundlich.
 
-\
 
 ### 🥇 Pro-Version (Für Experten)
 

@@ -45,7 +45,6 @@ Use this when you need a clear, immediate direction rather than a complex, drawn
 > **Context:** Our team currently consists of `[3 React developers and 1 Node.js backend developer]`, and we are building a `[location-based food delivery app]`.
 > **Task:** Given this situation, should we choose React Native or Flutter? Give me a definitive answer supported by the 3 most critical reasons.
 
-\
 
 ### 🥇 Pro Version
 

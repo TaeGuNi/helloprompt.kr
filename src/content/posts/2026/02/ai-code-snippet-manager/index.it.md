@@ -48,7 +48,6 @@ Utilizza questo prompt quando vuoi semplicemente sistemare la struttura e i comm
 > **Codice:**
 > `[Incolla qui il tuo codice]`
 
-\
 
 ### 🥇 Versione Pro
 

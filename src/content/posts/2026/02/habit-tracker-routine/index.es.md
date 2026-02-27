@@ -43,7 +43,6 @@ Nuestra fuerza de voluntad es exactamente igual a la batería de un smartphone. 
 > **Situación:** Soy un oficinista común y siempre llego a casa demasiado cansado para hacer cualquier cosa después del trabajo.
 > **Tarea:** Diseña un horario de rutina nocturna realista que me permita hacer `[estudiar inglés, hacer ejercicio en casa, leer]` aunque sea un poco cada día.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

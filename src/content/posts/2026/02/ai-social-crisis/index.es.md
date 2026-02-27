@@ -40,7 +40,6 @@ El mundo tecnológico se está ahogando en ruido. Lo que las empresas y ejecutiv
 > **Tarea:** Analiza el siguiente texto y dime si suena demasiado "robótico" o generado por IA. Reescríbelo para hacerlo más humano y empático.
 > **Texto:** `[Inserta tu mensaje aquí]`
 
-\
 
 ### 🥇 Versión Profesional
 

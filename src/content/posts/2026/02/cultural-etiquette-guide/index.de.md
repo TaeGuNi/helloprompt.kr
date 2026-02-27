@@ -42,7 +42,6 @@ Nutzen Sie diese Variante, wenn Sie in Sekundenschnelle die wichtigsten Do's und
 > **Rolle:** Du bist ein Kulturanthropologe und Experte für globale Etikette.
 > **Anfrage:** Nenne mir die 5 wichtigsten Verhaltensregeln und Tabus für Touristen in `[Reiseziel]`.
 
-\
 
 ### 🥇 Pro Version (Experte)
 

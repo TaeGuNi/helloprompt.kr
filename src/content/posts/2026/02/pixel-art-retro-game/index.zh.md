@@ -45,7 +45,6 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Retro"]
 >
 > **主题:** `[描述你想要的画面，例如：一只正在喝咖啡的赛博朋克猫咪]`
 
-\
 
 ### 🥇 Pro Version (专家版)
 

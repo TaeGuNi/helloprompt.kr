@@ -42,7 +42,6 @@ Nutzen Sie diese Variante, wenn Sie unter Zeitdruck stehen und nur schnelle Erge
 > **Rolle:** Du bist ein `[erfahrener Chefsekretär]`.
 > **Anfrage:** Strukturiere das folgende chaotische Besprechungsskript in eine übersichtliche Zusammenfassung und leite konkrete Action Items ab.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

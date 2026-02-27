@@ -49,7 +49,6 @@ Use esta versão para uma verificação rápida de sanidade ética de uma ideia 
 > **Função:** Você é um `[Especialista em Ética de IA e Compliance]`.
 > **Tarefa:** Avalie o seguinte projeto de IA: `[Descrição breve do projeto/funcionalidade]`. Aponte os 3 principais riscos éticos (ex: viés algorítmico, privacidade, transparência) e sugira mitigações rápidas e práticas.
 
-\
 
 ### 🥇 Versão Pro (Auditoria Completa de Compliance 2026)
 

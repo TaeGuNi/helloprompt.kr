@@ -46,7 +46,6 @@ Usa este prompt cuando quieras encontrar rápidamente la causa de que una funci�
 > **Código:**
 `[Pega aquí el código del componente que está causando el cuello de botella]`
 
-\
 
 ### 🥇 Versión Pro (Mejora a Nivel Arquitectónico)
 

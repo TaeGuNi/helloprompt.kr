@@ -42,7 +42,6 @@ Use isto quando precisar aprender rapidamente a sintaxe básica e o sistema de b
 > **Role (Papel):** Você é um `[Desenvolvedor Rust]` Sênior.
 > **Task (Tarefa):** Explique no nível de um iniciante os comandos de CLI para criar, compilar e executar um novo projeto usando `[Cargo]`, acompanhado do código para imprimir 'Hello World' em Rust.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 
@@ -57,11 +56,11 @@ Use isto quando quiser entender definitivamente os conceitos de 'Ownership' (Pos
 >
 > **Code (Código):**
 >
-> ```rust
+>
 > let s1 = String::from("hello");
 > let s2 = s1;
 > println!("{}, world!", s1); // Ponto onde ocorre o erro de compilação
-> ```
+>
 >
 > **Task (Tarefa):**
 >

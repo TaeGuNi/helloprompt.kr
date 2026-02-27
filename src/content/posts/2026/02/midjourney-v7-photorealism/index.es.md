@@ -46,7 +46,6 @@ Copia este prompt y pégalo en **ChatGPT (o Claude)**. ¡No lo introduzcas direc
 > **Rol:** Eres un fotógrafo comercial profesional y un creador de prompts experto en Midjourney v7.
 > **Tarea:** Basándote en el `[tema]` que te proporcionaré, redacta en una sola línea el mejor prompt en inglés para generar la fotografía más fotorrealista posible en Midjourney v7.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

@@ -38,7 +38,6 @@ Use estas "palavras mágicas" no final da sua frase quando quiser melhorar o rac
 > **Função:** Você é um `[analista lógico]`.
 > **Tarefa:** Resolva a seguinte `[situação ou problema complexo]`. **No entanto, antes de chegar a uma conclusão, pense de forma lenta e lógica, passo a passo (Think step-by-step).**
 
-\
 
 ### 🥇 Versão Pro (Especialista)
 

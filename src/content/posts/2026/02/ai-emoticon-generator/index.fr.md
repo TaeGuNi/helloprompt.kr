@@ -44,7 +44,6 @@ Utilisez cette version pour définir le design global et l'ambiance (Tone & Mann
 > **Apparence :** Corps jaune, bec orange, petite pousse verte sur la tête.
 > **Style :** Style vecteur 2D, contours épais et simples (Thick Outline), fond entièrement blanc.
 
-\
 
 ### 🥇 Version Pro
 

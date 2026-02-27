@@ -44,7 +44,6 @@ Utilizza questa versione se vuoi comprendere rapidamente la struttura generale d
 > **Richiesta:**
 > Voglio creare un chatbot aziendale capace di rispondere con precisione alle domande dei dipendenti basandosi su 100 documenti PDF interni. Ipotizzando l'uso di LangChain come framework, spiegami l'intero flusso di dati (Data Flow) passo dopo passo, in modo che sia comprensibile anche per un principiante assoluto. Inoltre, consigliami un Vector DB gratuito e facile da usare per un progetto pilota.
 
-\
 
 ### 🥇 Versione Pro
 

@@ -41,7 +41,6 @@ Usala quando hai bisogno di estrapolare velocemente l'essenza dei dati.
 > **Ruolo:** Sei un esperto di sicurezza dei dati e un Senior Data Analyst.
 > **Azione:** Leggi i seguenti `[Dati Aziendali Riservati]` e riassumi le 3 problematiche principali. Escludi qualsiasi conoscenza esterna e rispondi basandoti ESCLUSIVAMENTE sul testo fornito.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

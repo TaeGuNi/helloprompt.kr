@@ -47,7 +47,6 @@ tags: [AI, ChatGPT, Prompt, Productivity, DailyPlan]
 > **오늘의 할 일 목록:**
 > `[여기에 오늘 해야 할 일들을 두서없이 적어주세요]`
 
-\
 
 ### 🥇 Pro Version (전문가형)
 
@@ -140,7 +139,6 @@ tags: [AI, ChatGPT, Prompt, Productivity, DailyPlan]
 | **DELEGATE (긴급 & 덜 중요)** | 디자인팀 로고 수정 요청 \ 밀린 이메일 회신 | **빠르게 처리/위임**, 업무 시작 직후 처리 |
 | **DELETE (덜 긴급 & 덜 중요)** | (현재 목록에는 해당 사항 없음) | - |
 
-\
 
 ## 🕒 오늘 하루 타임 블로킹 스케줄
 

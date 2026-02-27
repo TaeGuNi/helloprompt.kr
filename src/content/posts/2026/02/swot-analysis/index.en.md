@@ -42,7 +42,6 @@ Use this when you need a rapid, high-level overview.
 > **Role:** You are a `[Strategy Consultant]`.
 > **Request:** Perform a quick SWOT analysis on `[Target Company]` to help me decide if it's a good investment.
 
-\
 
 ### 🥇 Pro Version (Expert Analysis)
 

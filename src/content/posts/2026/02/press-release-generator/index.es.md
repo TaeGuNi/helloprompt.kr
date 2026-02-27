@@ -45,7 +45,6 @@ Afortunadamente, la redacción basada en la regla de las 6W (quién, qué, cuán
 > **Instrucción:** Basándote en la siguiente información, redacta una nota de prensa breve (artículo directo) con un tono completamente objetivo para distribuirla a los medios de comunicación.
 > **Información:** "Nuestra empresa (Hello Prompt) acaba de lanzar una nueva herramienta de escritura con IA. Cualquiera puede usarla gratis y aumenta la productividad 10 veces."
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

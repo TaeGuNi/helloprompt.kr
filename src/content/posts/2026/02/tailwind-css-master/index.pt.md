@@ -43,7 +43,6 @@ Use esta versão quando precisar converter rapidamente propriedades CSS simples 
 > **Task (Tarefa):** Converta o seguinte código CSS para as classes utilitárias mais apropriadas do Tailwind CSS.
 > **CSS:** `display: flex; justify-content: center; align-items: center; height: 100vh;`
 
-\
 
 ### 🥇 Versão Pro (Criação de Componentes)
 

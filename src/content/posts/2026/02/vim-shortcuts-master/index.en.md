@@ -43,7 +43,6 @@ Use this when you urgently need to SSH into a server, edit a config file, and ge
 >
 > **Task:** Provide a step-by-step, highly accurate key sequence to open the file `[filename]` using Vim in the terminal, search for the word `[search_term]`, replace it with `[new_content]`, save the changes, and safely exit. Please highlight each keypress using backticks (`).
 
-\
 
 ### 🥇 Pro Version (Productivity Master - Macros & Registers)
 

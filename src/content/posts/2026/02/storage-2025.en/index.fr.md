@@ -40,7 +40,6 @@ Utilisez cette version lorsque vous avez besoin rapidement de statistiques résu
 > **Rôle :** Tu es un Ingénieur d'Infrastructure de Data Center Senior et un expert en stockage.
 > **Requête :** En te basant sur les statistiques de pannes de disques Backblaze 2025, recommande deux modèles de disques durs de haute capacité (plus de 20 To) adaptés à un Data Lake à grande échelle pour l'apprentissage de l'IA, et explique les raisons de ton choix.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

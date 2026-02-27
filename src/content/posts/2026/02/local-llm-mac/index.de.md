@@ -42,13 +42,10 @@ Verwenden Sie diesen Befehl, wenn Sie die KI ohne komplizierte Einrichtung sofor
 > **Rolle:** Systemadministrator
 > **Anweisung:** Öffnen Sie das Terminal und führen Sie die folgenden Befehle nacheinander aus, um die lokale KI einzurichten.
 >
-> ```bash
+>
 > brew install ollama
 > ollama run llama3
-> ```
-
-\
-
+>
 ### 🥇 Pro Version (Für Experten)
 
 Verwenden Sie diese Methode, wenn Sie die heruntergeladene lokale KI als API in Ihre eigenen Python-Skripte oder privaten Anwendungen integrieren möchten.
@@ -65,13 +62,13 @@ Verwenden Sie diese Methode, wenn Sie die heruntergeladene lokale KI als API in 
 > 1. Testen Sie mit dem folgenden `curl`-Befehl, ob die REST-API der lokalen KI ordnungsgemäß antwortet.
 > 2. Ersetzen Sie den Platzhalter `[Ihre Frage hier]` durch die Sicherheitsdaten oder den Code, den Sie analysieren möchten.
 >
-> ```bash
+>
 > curl http://localhost:11434/api/generate -d '{
 >   "model": "llama3",
 >   "prompt": "[Ihre Frage hier]",
 >   "stream": false
 > }'
-> ```
+>
 >
 > **Einschränkungen (Constraints):**
 >

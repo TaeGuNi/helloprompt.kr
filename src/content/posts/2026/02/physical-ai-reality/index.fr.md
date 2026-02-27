@@ -47,7 +47,6 @@ Idéale pour obtenir un avis immédiat sur une annonce technique croisée sur le
 > **Rôle :** Tu es un ingénieur senior en robotique.
 > **Tâche :** Analyse l'annonce suivante : `[Insérer le lien ou le texte de l'annonce du robot]`. Dis-moi de manière concise ce qui est techniquement faisable aujourd'hui et ce qui relève du pur marketing (hype), en te concentrant exclusivement sur les lois de la physique (batterie, perception, friction).
 
-\
 
 ### 🥇 Pro Version (Version Expert)
 

@@ -40,7 +40,7 @@ Usala quando vuoi semplicemente generare rapidamente componenti rispettando le r
 > 
 > **Condizioni:** Non usare MAI magic number o codici hex hardcoded (`#123456`). Tutti i margini e i padding devono seguire una griglia da 8 pixel. I font e i colori devono rigorosamente rispettare una struttura a Token Semantici (Semantic Token). Non fare complimenti inutili o spiegazioni aggiuntive; sputa subito il codice.
 
-\
+
 ### 🥇 Versione Pro (Esperti)
 Usala quando hai bisogno di una "architettura perfetta" da poter copiare e incollare direttamente in produzione.
 

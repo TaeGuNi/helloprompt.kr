@@ -45,7 +45,6 @@ Verwenden Sie diesen Prompt, wenn Sie nur rasch den Kernkontext eines Dokuments 
 > **Aufgabe:** Lies den folgenden Text und fasse die 3 wichtigsten Kernpunkte so zusammen, dass sie auch ein Anfänger leicht versteht.
 > **Text:** `[Hier Text einfügen]`
 
-\
 
 ### 🥇 Pro Version (Für Experten und tiefgreifendes Verständnis)
 

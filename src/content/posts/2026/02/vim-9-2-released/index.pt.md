@@ -40,7 +40,6 @@ Ideal para quando você precisa verificar rapidamente os principais pontos da at
 > **Role (Função):** Você é um Desenvolvedor Sênior e Tradutor de Documentação Técnica.
 > **Task (Tarefa):** Leia as `[Notas de Lançamento do Vim 9.2]` abaixo e resuma as 3 mudanças mais importantes em português. Use uma linguagem simples que até um iniciante possa entender.
 
-\
 
 ### 🥇 Versão Pro (Profissional)
 

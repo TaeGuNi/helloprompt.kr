@@ -37,7 +37,6 @@ Nutzen Sie diesen Prompt, um ressourcenhungrigen Code schnell zu identifizieren 
 > **Rolle:** Du bist ein Senior Cloud Architekt und Experte für Green Computing.
 > **Aufgabe:** Analysiere den folgenden Prozess und zeige mir drei direkte Wege, wie ich den API-Token-Verbrauch und die CPU-Auslastung reduzieren kann: `[Prozess/Code hier einfügen]`
 
-\
 
 ### 🥇 Pro Version (Für umfassende Systemarchitekturen)
 

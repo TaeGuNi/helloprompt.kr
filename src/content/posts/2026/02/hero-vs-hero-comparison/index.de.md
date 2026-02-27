@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt, wenn Sie schnell und unkompliziert einen fundierten
 > **Rolle:** Du bist ein erfahrener `[Vergleichender Historiker und Biograf]`.
 > **Aufgabe:** Vergleiche die beiden historischen Persönlichkeiten `[Person A]` und `[Person B]` detailliert miteinander, um ihre Gemeinsamkeiten und Unterschiede präzise herauszuarbeiten.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

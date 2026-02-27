@@ -48,7 +48,6 @@ Ideal para establecer la estructura inicial de un pipeline simple de recopilaci�
 >
 > Configura el proceso como `Sequential` (secuencial) para que los dos agentes trabajen en orden.
 
-\
 
 ### 🥇 Pro Version (Versión Profesional)
 

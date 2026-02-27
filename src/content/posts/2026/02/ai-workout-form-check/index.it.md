@@ -42,7 +42,6 @@ Utilizza questo prompt se vuoi individuare rapidamente i problemi principali del
 > **Ruolo:** Sei un Personal Trainer con 10 anni di esperienza.
 > **Richiesta:** Il video in allegato mostra la mia postura durante lo `[squat]`. Individua eventuali errori che potrebbero causarmi infortuni e valuta la mia esecuzione con un punteggio da 1 a 10.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

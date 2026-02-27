@@ -41,7 +41,6 @@ Idéal pour obtenir une vue d'ensemble rapide ou évaluer la faisabilité d'une 
 > **Rôle :** Tu es un Architecte Cloud Senior expert en WebAssembly.
 > **Requête :** Explique-moi comment migrer mon architecture `[Type d'application, ex: backend e-commerce Node.js]` vers des microservices WebAssembly. Quels sont les gains de performance attendus et les pièges à éviter absolument ?
 
-\
 
 ### 🥇 Version Pro (Expert)
 

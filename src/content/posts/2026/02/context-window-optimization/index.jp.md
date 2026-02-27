@@ -46,7 +46,6 @@ tags: ["AI", "Tech", "context-window-optimization"]
 >
 > **リクエスト:** このデータの中から、最も重要なインサイトを3つ抽出してください。
 
-\
 
 ### 🥇 Pro Version (専門家型)
 

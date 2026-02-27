@@ -42,7 +42,6 @@ Todos conocemos la ansiedad de mirar el reloj mientras los coches no avanzan. El
 > **Rol:** Eres un experto en movilidad urbana y tráfico.
 > **Petición:** Encuentra la ruta más rápida y con menos tráfico para ir desde `[Dirección de origen]` hasta `[Dirección de destino]` y llegar antes de las `[Hora de llegada]`. Dime a qué hora exacta debo salir hoy.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

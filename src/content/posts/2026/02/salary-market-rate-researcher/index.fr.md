@@ -48,7 +48,6 @@ Idéal pour se faire une idée rapide de sa valeur sur le marché.
 > **Rôle :** Tu es un expert en rémunération et avantages sociaux.
 > **Requête :** Analyse la fourchette de salaire moyen pour mon poste et mes années d'expérience en te basant sur des données de marché récentes, afin de me fournir des arguments de négociation objectifs et solides.
 
-\
 
 ### 🥇 Version Pro
 

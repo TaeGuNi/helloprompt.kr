@@ -44,7 +44,6 @@ Este es el prompt central del agente de IA que se invoca en el pipeline CI (Job 
 > **Rol:** Eres un `[Desarrollador Frontend Senior]`.
 > **Tarea:** Revisa el registro de errores proporcionado y corrige única, rápida y precisamente los `[errores de linting y errores tipográficos]` del código, devolviendo el código completo corregido.
 
-\
 
 ### 🥇 Versión Pro (Agente de Autocuración Seguro y Avanzado)
 
@@ -71,13 +70,12 @@ Un prompt robusto para producción que corrige estrictamente solo errores de tip
 >
 > **Formato de Salida (Format):**
 >
-> ```json
+>
 > {
 >   "file_path": "[Ruta del archivo donde ocurrió el error]",
 >   "fixed_content": "[Código completo corregido]"
 > }
-> ```
-
+>
 ---
 
 ## 💡 Comentario del Autor (Insight)

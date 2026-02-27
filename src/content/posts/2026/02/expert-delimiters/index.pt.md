@@ -50,7 +50,6 @@ Ideal para tarefas rápidas do dia a dia, criando uma separação visual simples
 > [Cole o seu texto longo aqui]
 > """
 
-\
 
 ### 🥇 Versão Pro (Expert)
 

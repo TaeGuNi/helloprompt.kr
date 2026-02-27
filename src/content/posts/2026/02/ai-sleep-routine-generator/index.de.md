@@ -43,7 +43,6 @@ Verwenden Sie dies, wenn Sie schnelle und unkomplizierte Ergebnisse benötigen.
 > **Rolle:** Du bist ein erfahrener Verhaltenspsychologe und Schlafcoach.
 > **Aufgabe:** Entwerfe eine magische Abendroutine, die mich allein durch wiederholte Handlungen schläfrig macht, ähnlich dem Prinzip des Pawlowschen Hundes.
 
-\
 
 ### 🥇 Pro Version (Experten-Version)
 

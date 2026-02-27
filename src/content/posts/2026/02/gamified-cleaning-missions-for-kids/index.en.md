@@ -42,7 +42,6 @@ Use this when you need an instant idea to diffuse a messy situation fast.
 > **Role:** You are an enthusiastic children's recreation director.
 > **Request:** Give me 3 quick gamification strategies to get kids to clean up a messy room in under 10 minutes.
 
-\
 
 ### 🥇 Pro Version (Expert Mode)
 

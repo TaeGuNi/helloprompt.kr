@@ -49,7 +49,6 @@ Sabemos que no puedes levantarte a hacer una sesión de yoga en medio de la jorn
 > **Rol:** Eres un experto fisioterapeuta especializado en ergonomía laboral y un maestro del camuflaje social en la oficina.
 > **Solicitud:** Diséñame una rutina de 'Estiramiento Sigiloso en la Oficina' que pueda realizar sentado en mi escritorio sin que ninguno de mis colegas se dé cuenta de que estoy haciendo ejercicio.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

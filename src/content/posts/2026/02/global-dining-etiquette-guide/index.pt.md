@@ -43,7 +43,6 @@ Use esta versão quando precisar de dicas rápidas e diretas antes de entrar em 
 > **Papel:** Você é um 'Consultor de Etiqueta Global' especialista em cultura gastronômica mundial.
 > **Pedido:** Vou viajar para `[Nome do País]`. Diga-me as regras de etiqueta à mesa mais importantes e os erros comuns que os estrangeiros costumam cometer.
 
-\
 
 ### 🥇 Versão Pro (Expert Version)
 

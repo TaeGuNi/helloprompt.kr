@@ -43,7 +43,6 @@ Idéal pour obtenir un résultat rapide et direct.
 > **Rôle :** Tu es un consultant en recrutement international et un expert en SEO LinkedIn.
 > **Requête :** Rédige-moi un "Titre" optimisé pour la recherche et une section "Infos" convaincante pour multiplier par 10 mes offres d'emploi. Mon poste actuel est `[Votre Poste]`.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

@@ -43,7 +43,6 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Traditional"]
 > **请求:** 请为我生成一幅最具日本美学、采用浮世绘 (Ukiyo-e) 风格的图像。
 > **主题:** `[你想要描绘的主题，例如：一只正在冲浪的赛博朋克猫]`
 
-\
 
 ### 🥇 Pro Version (专家版)
 

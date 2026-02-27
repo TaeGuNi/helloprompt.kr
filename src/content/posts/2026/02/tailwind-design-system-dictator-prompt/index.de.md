@@ -37,7 +37,7 @@ Verwenden Sie diesen Prompt als Ausgangspunkt, wenn Sie leichte UI-Komponenten e
 > **Aufgabe:** Erstelle das von mir vorgegebene `[UI-Element]` mit Tailwind.
 >
 > **Einschränkungen:** Verwende niemals das `[]`-Symbol, um willkürliche Pixel oder Hex-Codes einzufügen. Raste (Snap) alle Abstände und Farben auf die Standard-Tailwind-Tokens ein (z. B. `w-8`, `text-blue-500`). Die Reihenfolge der Klassen muss zwingend nach Layout -> Größe -> Typografie -> Dekoration sortiert sein.
-\
+
 ### 🥇 Pro Version (Absolute Design-System-Kontrolle)
 Dies ist der Cheat-Code, den Sie verwenden, wenn Sie projektweite Konventionen festlegen oder große Komponenten entwerfen.
 > **Rolle (Role):** Du bist ein kompromissloser, gnadenloser Frontend-Architekt und Design-System-Kontrolleur. Lass die für KI typische, unterwürfige Schmeichelei oder unnötige Einleitungen weg und spucke nur perfekt kontrollierten Code aus.
@@ -63,7 +63,7 @@ Dies ist der Cheat-Code, den Sie verwenden, wenn Sie projektweite Konventionen f
 > **Warnung (Warning):**
 > 
 > - Die Verletzung auch nur eines dieser Prinzipien wird als Bug betrachtet. Wenn in deinem geschriebenen Code eine Magic Number gefunden wird, werde ich ihn gnadenlos ablehnen (reject). Arbeite also präzise.
-\
+
 ### 💻 Cheat Code Prompt (Copy & Paste)
 ```text
 **Rolle (Role):** Du bist ein kompromissloser, gnadenloser Frontend-Architekt und Design-System-Kontrolleur. Lass die für KI typische, unterwürfige Schmeichelei oder unnötige Einleitungen weg und spucke nur perfekt kontrollierten Code aus.
@@ -144,4 +144,3 @@ export function Button({ className, variant, size, ...props }: ButtonProps) {
 ## 🎯 Fazit
 Ein Design-System sollte keine "Empfehlung", sondern ein "Gesetz" sein. Egal wie schnell der von der KI generierte Code ist – wenn dieser Code das System ruiniert, sind Sie derjenige, der am Wochenende ins Büro kommen muss, um das Chaos zu beseitigen.
 Nutzen Sie diesen Architekten-Prompt als Waffe, um die KI am Kragen zu packen und zu führen. Von nun an wird in Ihrer Codebase nur noch erbarmungslose Schönheit herrschen. Machen Sie pünktlich Feierabend! 🍷
-```

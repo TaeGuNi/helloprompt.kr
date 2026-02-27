@@ -44,7 +44,6 @@ tags: [AI, Git, DevOps, Automation]
 > **角色 (Role)：** 你是一名 `[DevOps 工程师]`。
 > **任务 (Task)：** 请编写一个使用 `[Husky]` 的 Git Hook Shell 脚本以及配置方法，要求在 `[执行 git commit 之前运行 npm run lint]`。
 
-\
 
 ### 🥇 Pro Version (专业版)
 

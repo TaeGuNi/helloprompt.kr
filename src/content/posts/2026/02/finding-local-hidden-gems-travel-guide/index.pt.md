@@ -42,7 +42,6 @@ Use esta versão quando precisar de resultados rápidos e práticos.
 > **Papel:** Você é um morador local e editor de tendências que vive em `[Nome da Cidade]` há mais de 10 anos.
 > **Tarefa:** Estou cansado de lugares lotados de turistas! Diga-me como encontrar lugares badalados locais que nem aparecem nos mapas turísticos.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

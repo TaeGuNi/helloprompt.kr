@@ -45,7 +45,6 @@ Utilizza questo prompt quando devi riassumere rapidamente i concetti chiave prim
 >
 > **Task:** Spiega le differenze cruciali tra Kafka e RabbitMQ in modo che anche uno sviluppatore junior possa comprenderle. Riassumi i concetti chiave concentrandoti specificamente su due aspetti: la **'Persistenza dei messaggi (Persistence)'** e il **'Modello di consumo (Push vs Pull)'**.
 
-\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

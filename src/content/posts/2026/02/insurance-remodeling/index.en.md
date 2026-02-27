@@ -42,7 +42,6 @@ Use this when you need a rapid, high-level assessment of your current situation.
 > **Role:** You are an objective `[Insurance Analysis Expert]`. Your sole priority is to save the customer money and optimize coverage, completely independent of any insurance sales commissions.
 > **Request:** I want to know if my current insurance setup is cost-effective. Provide a framework to analyze my policies so I can keep essential coverage while eliminating unnecessary premium costs.
 
-\
 
 ### 🥇 Pro Version (Deep Portfolio Remodeling)
 

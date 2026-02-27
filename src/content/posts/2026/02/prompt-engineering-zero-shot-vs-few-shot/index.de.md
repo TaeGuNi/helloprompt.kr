@@ -42,7 +42,6 @@ Verwende diese Methode für einfache, allgemeine Aufgaben, bei denen Genauigkeit
 > **Aufgabe:** Klassifiziere die Stimmung des folgenden Textes: `[Der Service war langsam, aber das Essen war hervorragend.]`
 > **Einschränkung:** Antworte nur mit Positiv, Negativ oder Neutral.
 
-\
 
 ### 🥇 Pro Version (Few-Shot)
 

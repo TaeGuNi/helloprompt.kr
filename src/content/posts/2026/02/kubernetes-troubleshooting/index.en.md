@@ -47,7 +47,6 @@ Use this when you need an intuitive, high-level understanding of an error log to
 > **Task:**
 > Explain the root cause of this error in simple terms from a developer's perspective (e.g., Out of Memory, RBAC permission issue, Network Timeout). Then, provide the top 2 immediate action items I should investigate right now.
 
-\
 
 ### 🥇 Pro Version (Incident Recovery & SRE Report)
 

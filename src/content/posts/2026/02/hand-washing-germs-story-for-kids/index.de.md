@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt, wenn Sie sofort eine kurze Geschichte für den Allt
 > **Rolle:** Du bist ein freundlicher Mikrobiologe und ein fesselnder Geschichtenerzähler für Kinder.
 > **Aufgabe:** Erfinde eine kurze, spannende Geschichte, die ein Kind wissenschaftlich und spielerisch davon überzeugt, sich sofort und ohne Nörgeln die Hände zu waschen.
 
-\
 
 ### 🥇 Pro Version (Experten-Prompt)
 

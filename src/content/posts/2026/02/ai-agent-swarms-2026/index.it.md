@@ -39,7 +39,6 @@ Ideale per una rapida bozza strutturale.
 > **Ruolo:** Sei un Architetto di Sistemi AI esperto in Multi-Agent Systems.
 > **Richiesta:** Progetta un sistema di AI Agent Swarm per `[inserisci il tuo caso d'uso, es. automazione della ricerca di mercato]`. Definisci 3 agenti chiave e come interagiscono tra loro.
 
-\
 
 ### 🥇 Versione Pro (Pro Version)
 

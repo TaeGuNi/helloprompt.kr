@@ -42,7 +42,6 @@ Nutzen Sie diesen Prompt, wenn Sie nur einen schnellen Überblick benötigen.
 > **Rolle:** Du bist ein erfahrener Personal Trainer und zertifizierter Ernährungsberater.
 > **Anfrage:** Erstelle mir einen anfängerfreundlichen Trainingsplan für 3 Tage die Woche und grundlegende Ernährungstipps zum Abnehmen.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 
@@ -119,7 +118,6 @@ Ich bin 175 cm groß, wiege 80 kg und will 5 kg abnehmen. Ich kann 4 Mal pro Woc
 
 _(Das Ergebnis ist meist eine generische Liste: "Mach 3x15 Kniebeugen, iss weniger Zucker..." – ohne echten Kontext oder verletzungspräventive Struktur.)_
 
-\
 
 ### ✅ Nachher (Mit unserem Pro-Prompt)
 

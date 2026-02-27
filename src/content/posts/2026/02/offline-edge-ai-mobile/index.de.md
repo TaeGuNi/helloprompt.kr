@@ -43,7 +43,6 @@ Nutzen Sie diese Variante für einen schnellen, groben Machbarkeitscheck Ihrer I
 > **Rolle:** Du bist ein erfahrener `[Mobile AI Engineer]`.
 > **Aufgabe:** Analysiere die Machbarkeit der Integration eines komplett lokalen KI-Modells für die Funktion `[App-Funktion]` auf der Plattform `[iOS / Android]`.
 
-\
 
 ### 🥇 Pro Version (Experten-Prompt)
 

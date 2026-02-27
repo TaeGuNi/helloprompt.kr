@@ -43,7 +43,6 @@ El estilo de **Recorte de Papel (Paper Cutout)** y **Origami** aporta una calide
 > **Rol:** Eres un experto generador de imágenes de IA.
 > **Solicitud:** Crea una imagen de un paisaje utilizando un estilo de arte de recorte de papel (paper cutout) tridimensional.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

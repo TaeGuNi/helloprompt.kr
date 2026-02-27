@@ -43,7 +43,6 @@ Use esta versão para resultados rápidos e diretos sem precisar configurar muit
 > **Role (Papel):** Você é um ilustrador especialista em papercraft.
 > **Task (Tarefa):** Crie uma imagem com estilo de recorte de papel em camadas sobre [inserir tema, ex: uma floresta mágica à noite]. Deve ter um efeito 3D claro.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

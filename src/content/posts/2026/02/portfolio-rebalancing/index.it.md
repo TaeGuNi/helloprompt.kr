@@ -42,7 +42,6 @@ Utilizza questa versione quando hai bisogno di un responso rapido e senza troppi
 > **Ruolo:** Sei un `[Gestore di Portafoglio]` esperto che amministra i capitali di clienti VIP presso una prestigiosa società di gestione patrimoniale.
 > **Richiesta:** Analizza il mio attuale portafoglio di investimenti e suggeriscimi il rapporto di ribilanciamento ottimale per massimizzare i rendimenti riducendo i rischi.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

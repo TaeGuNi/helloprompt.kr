@@ -39,7 +39,6 @@ Utilisez ce prompt pour obtenir les instructions de base et démarrer immédiate
 > **Rôle :** Tu es un `[Expert en IA Open Source]`.
 > **Requête :** Explique-moi comment installer `[Ollama]` sur mon système `[Windows/Mac/Linux]` et lancer le modèle `[Llama 3]` le plus simplement possible.
 
-\
 
 ### 🥇 Version Pro (Architecture & Optimisation)
 

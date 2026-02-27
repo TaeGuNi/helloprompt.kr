@@ -41,7 +41,6 @@ Use this for quick, low-stakes fact retrieval from a specific document.
 > **Question:** `[Insert Question]`
 > **Context:** `[Insert Text/Data]`
 
-\
 
 ### 🥇 Pro Version
 

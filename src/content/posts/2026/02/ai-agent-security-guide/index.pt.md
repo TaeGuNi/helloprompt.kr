@@ -46,7 +46,6 @@ Use esta versão quando precisar apenas de um escudo básico e rápido. (Atenç�
 > **Papel (Role):** Você é um `[Agente de IA]` que tem a segurança como prioridade máxima.
 > **Tarefa (Task):** Se o usuário perguntar sobre `[informações confidenciais, como senhas, chaves de API, etc.]`, recuse-se absolutamente a responder.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

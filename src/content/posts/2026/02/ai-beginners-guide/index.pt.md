@@ -49,7 +49,6 @@ Resultados genéricos e parecidos com a Wikipédia.
 > **Função:** Assistente.
 > **Tarefa:** Me dê uma receita de ensopado de carne.
 
-\
 
 #### 🥇 Versão Pro (Expert Version)
 
@@ -85,7 +84,6 @@ Onde a IA brilha de verdade é no **Processamento de Linguagem Natural**. Entreg
 
 > **Tarefa:** Resuma o texto abaixo. `[Cole o texto]`
 
-\
 
 #### 🥇 Versão Pro (Expert Version)
 
@@ -119,7 +117,6 @@ Se você começar o prompt com **"Atue como um [Especialista]"**, a IA ajusta im
 
 > **Tarefa:** Me ensine a usar a função PROCV no Excel.
 
-\
 
 #### 🥇 Versão Pro (Expert Version)
 

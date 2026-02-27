@@ -38,7 +38,6 @@ Use this when you need a quick, high-level overview of a tech trend.
 > **Role:** You are an expert `[Tech Journalist]`.
 > **Task:** Write a compelling market analysis article about `[Meta Smart Glasses and the rise of Wearable AI]`. Keep it engaging and focus on recent market shifts.
 
-\
 
 ### 🥇 Pro Version
 

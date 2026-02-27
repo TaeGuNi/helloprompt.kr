@@ -43,7 +43,6 @@ Usala quando hai solo bisogno di un risultato rapido senza troppi dettagli.
 >
 > **Richiesta:** Crea un piano pasti perfetto per una settimana considerando il mio corpo, il mio peso target e i miei cibi preferiti in un minuto.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

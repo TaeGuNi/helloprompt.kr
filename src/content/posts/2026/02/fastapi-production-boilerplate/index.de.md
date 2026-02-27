@@ -42,7 +42,6 @@ Nutzen Sie diese, wenn Sie schnell einen einfachen API-Mockup-Server benötigen.
 > **Rolle:** Du bist ein Senior Python Backend-Entwickler.
 > **Aufgabe:** Schreibe den grundlegendsten `main.py` Code mit FastAPI, der eine GET-Anfrage auf der Route `/items/{item_id}` empfängt und einen optionalen Query-Parameter `q` verarbeitet. Füge den Befehl zum Ausführen mit `uvicorn` als Kommentar hinzu.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

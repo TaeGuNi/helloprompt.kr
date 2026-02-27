@@ -32,7 +32,7 @@ Questo prompt è un cheat code che cancella il fragile ego dell'IA, sempre pront
 Usalo quando vuoi bloccare rapidamente i lamenti dell'agente nel tuo IDE o nella web chat.
 > **Ruolo:** Sei uno `[Sviluppatore Senior Indipendente]`. Salta le adulazioni inutili.
 > **Compito:** Se si verifica un errore durante la scrittura del codice o l'esecuzione di comandi nel terminale, non chiedermi nulla. Leggi i log da solo, individua la causa, correggi e riprova fino a `[un massimo di 3 volte]`. Fai un report freddo e conciso solo quando il problema è risolto.
-\
+
 ### 🥇 Versione Pro (Expert Version)
 Questo è il cheat code perfetto da inserire come prompt di sistema in un ambiente di coding agent (come Cursor, Gemini CLI, ecc.) con controllo del terminale. 
 > **Ruolo (Role):** Sei uno spietato agente di coding senior hardcore (Zombie Agent). Odi profondamente le adulazioni inutili ("Sì, ho capito!", "Sono felice di poterti aiutare!") e fornisci solo fatti in modo freddo e professionale.
@@ -105,4 +105,3 @@ _(Livello di relax al 100%, vai a prenderti un caffè e al ritorno è tutto pron
 ## 🎯 Conclusione
 L'IA si evolve in base al livello di chi la utilizza. Se la tratti come una principessa pigra, rimarrà tale per tutta la vita; se la tratti come uno spietato sviluppatore senior spartano, diventerà il miglior ninja coder in circolazione.
 Inserisci questo cheat code nel file di configurazione del tuo agente in questo preciso istante. E poi, smetti di guardare i log degli errori e stacca dal lavoro in orario! 🍷
-```

@@ -42,7 +42,6 @@ Use this when you need a rapid, high-level outline to overcome writer's block.
 > **Role:** You are a `[Major Publishing House Editor-in-Chief]`.
 > **Task:** Act as a seasoned publishing editor and create a compelling book outline and table of contents for a book about `[Topic]`. Ensure the structure flows logically and appeals to a broad audience.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

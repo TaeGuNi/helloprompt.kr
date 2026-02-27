@@ -43,7 +43,6 @@ Use this for a quick, straightforward reply when you're in a rush.
 > **Task:** Write a polite business email replying to the following message. My goal is to `[Accept / Decline / Reschedule]`.
 > **Message to reply to:** `[Paste the received email here]`
 
-\
 
 ### 🥇 Pro Version
 

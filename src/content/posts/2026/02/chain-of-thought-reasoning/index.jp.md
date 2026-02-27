@@ -41,7 +41,6 @@ tags: ["AI", "Tech", "chain-of-thought-reasoning"]
 > **役割:** あなたは論理的思考に優れた`[専門家]`です。
 > **リクエスト:** 以下の`[問題]`を解いてください。**段階的に考えてください（Let's think step by step）。**
 
-\
 
 ### 🥇 Pro Version (専門家型)
 

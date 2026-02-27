@@ -52,7 +52,6 @@ tags: [Kubernetes, DevOps, YAML, Infrastructure, AI]
 >
 > **제약사항:** Deployment와 Service를 `---`로 구분해서 하나의 파일로 만들어줘.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

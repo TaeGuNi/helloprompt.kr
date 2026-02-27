@@ -42,7 +42,6 @@ Usala quando hai poco tempo e ti serve una bozza rapida.
 > **Ruolo:** Sei un `[Esperto SEO e Content Marketer]`.
 > **Richiesta:** Crea una struttura (outline) per un articolo del blog ottimizzata per la SEO sull'argomento `[Tuo Argomento]`, strutturandola in modo che Google la posizioni in alto nei risultati di ricerca.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

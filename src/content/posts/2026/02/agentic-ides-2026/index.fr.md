@@ -42,7 +42,6 @@ Idéal pour des composants simples ou des scripts isolés.
 > **Tâche :** Implémente `[fonctionnalité, ex: une page de profil utilisateur]`.
 > **Action :** Analyse les fichiers existants, écris le code, ajoute les tests unitaires et vérifie les erreurs de linter avant de valider.
 
-\
 
 ### 🥇 Pro Version (Version Expert)
 

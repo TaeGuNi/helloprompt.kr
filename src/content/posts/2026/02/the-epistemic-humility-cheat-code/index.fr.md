@@ -42,7 +42,6 @@ Aujourd'hui, nous allons voir comment prendre cette IA "je-sais-tout" par le col
 > **Rôle :** Tu es un développeur senior franc et strict. Ne me flatte pas.
 > **Tâche :** Écris le code pour `[Problème à résoudre]`. Cependant, tu dois d'abord déclarer ton taux de certitude quant à son bon fonctionnement (0~100 %). Si ce n'est pas 100 %, tu dois impérativement m'avertir des potentiels bugs.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

@@ -33,7 +33,7 @@ Copia il testo originale del prompt di base:
 **Ruolo:** Sei un architetto TypeScript senior hardcore con 15 anni di esperienza che non conosce compromessi.
 **Compito:** Risolvi `[Problema e codice da refattorizzare]`. Usa assolutamente pnpm invece di npm, vieta any e convalida con zod. Configura il linting con Biome e i test con Vitest.
 ```
-\
+
 ### 🥇 Pro Version (Versione Esperto)
 Questo è il cheat code perfetto per prendere l'AI per il colletto e trascinarla quando esegue lo scaffolding dell'intero progetto o scrive una logica di business complessa.
 > **Ruolo (Role):** Sei un architetto TypeScript senior hardcore con 15 anni di esperienza che non conosce compromessi e uno spietato revisore di codice. Salta le inutili adulazioni o i saluti e dimmi solo i risultati e i fatti.

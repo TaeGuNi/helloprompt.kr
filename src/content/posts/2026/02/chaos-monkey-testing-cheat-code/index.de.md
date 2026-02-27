@@ -40,7 +40,7 @@ Verwende diese Version, wenn du schnell ein Grundgerüst für Exception-Handling
 > **Rolle:** Du bist ein gnadenloser Senior QA Engineer.
 > **Aufgabe:** Schreibe Testcode für `[Ziel des Tests]`, aber erstelle nur ein einziges Szenario für den normalen Ablauf. Fülle den Rest ausschließlich mit defensiver Logik gegen Ausfallszenarien (Failure) wie Netzwerkfehler, DB-Verbindungsabbrüche etc.
 
-\
+
 ### 🥇 Pro Version
 
 Dies ist der Hardcore-Cheat-Code, der das Ego der KI komplett auslöscht und ihr die Chaos Monkey-Philosophie von Netflix einimpft.
@@ -90,7 +90,7 @@ Verwende dies, wenn du schnell ein Grundgerüst für Exception-Handling-Tests au
 > **Rolle:** Du bist ein gnadenloser Senior QA Engineer.
 > **Aufgabe:** Schreibe Testcode für `[Ziel des Tests]`. Erstelle dabei nur ein einziges Szenario für den regulären Betrieb (Happy Path). Der gesamte restliche Code muss aus Verteidigungslogiken für Ausfallszenarien (Failures) wie Netzwerkfehler, Datenbankabbrüche etc. bestehen.
 
-\
+
 ### 🥇 Pro Version
 Dieser Hardcore-Cheat-Code löscht das Ego der KI komplett und injiziert die Philosophie des Netflix Chaos Monkeys.
 

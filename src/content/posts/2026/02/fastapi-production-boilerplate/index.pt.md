@@ -43,7 +43,6 @@ Ideal para criar um Mockup de API ou um servidor de testes rapidamente.
 >
 > **Task (Tarefa):** Escreva o código `main.py` mais limpo e direto usando FastAPI. Crie uma rota GET em `/items/{item_id}` que processe um parâmetro de query opcional `q`. Inclua o comando exato do `uvicorn` necessário para rodar o servidor como um comentário no topo do arquivo.
 
-\
 
 ### 🥇 Versão Profissional (Pro Version)
 

@@ -43,7 +43,6 @@ tags: ["NVIDIA", "RTX 6090 Ti", "Blackwell", "GPU", "Tech News"]
 > **角色：** 你是一位能快速、通俗易懂地传递IT趋势的科技博主。
 > **任务：** 搜索关于 `[NVIDIA RTX 6090 Ti 及 Blackwell 架构]` 的最新海外新闻与核心规格传闻，并用3个段落为普通读者进行通俗易懂的总结。
 
-\
 
 ### 🥇 Pro Version (专家版)
 

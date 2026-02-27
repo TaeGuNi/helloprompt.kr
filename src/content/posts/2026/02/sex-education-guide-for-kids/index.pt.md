@@ -49,7 +49,6 @@ Use este prompt quando precisar de uma resposta rápida e direta para uma pergun
 > **Papel:** Você é um psicólogo infantil e especialista em educação sexual.
 > **Pedido:** Me dê uma explicação simples e amorosa para uma criança que perguntou como os bebês nascem, sem usar metáforas irreais e baseada em fatos biológicos apropriados para a idade.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

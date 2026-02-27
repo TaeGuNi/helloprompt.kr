@@ -42,7 +42,6 @@ El 80% del éxito al escribir un libro radica en su índice. Si el esqueleto es 
 > **Rol:** Eres un `[Editor en Jefe de una Gran Editorial]`.
 > **Solicitud:** Ayúdame a planificar la estructura y el índice de un libro sobre `[Tema de tu libro]` para que sea un éxito de ventas.
 
-\
 
 ### 🥇 Versión Pro (Nivel Experto)
 

@@ -41,7 +41,6 @@ tags: ["AI Trends", "Prompt Chaining", "Agentic Workflow", "2026"]
 > **步驟 2：** 根據步驟 1 的總結，提取 5 個關鍵字。
 > **步驟 3：** 根據步驟 2 的關鍵字，撰寫一篇吸引人的`[社群平台]`貼文。
 
-\
 
 ### 🥇 專業版 (Pro Version)
 

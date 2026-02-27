@@ -48,7 +48,6 @@ tags: [AI, Coding, Productivity, Refactoring]
 > **コード:**
 > `[ここにコピーしたコードを貼り付ける]`
 
-\
 
 ### 🥇 Pro Version（専門家型）
 

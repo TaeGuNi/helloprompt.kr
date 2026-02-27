@@ -44,7 +44,6 @@ Utilizza questa versione per ottenere una panoramica veloce senza scendere tropp
 > **Ruolo:** Agisci come un esperto `[Storico Comparatista e Biografo]`.
 > **Richiesta:** Confronta `[Personaggio A]` e `[Personaggio B]`, evidenziando le loro principali similitudini e differenze in termini di leadership, impatto storico ed eredità culturale.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

@@ -43,7 +43,6 @@ Use isso quando precisar de um resultado rápido e sem muitas complicações.
 > **Papel:** Você é um fotógrafo profissional de drones.
 > **Solicitação:** Gere uma imagem com visão de drone mostrando o layout geral de uma metrópole futurista vista do céu.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

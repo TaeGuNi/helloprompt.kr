@@ -39,7 +39,6 @@ Utilisez cette approche pour des tâches générales, de la génération d'idée
 > **Rôle :** Tu es un `[Analyste de données]`.
 > **Requête :** `[Classifie le sentiment de ce texte : "Le service était lent, mais la nourriture était excellente." Affiche uniquement Positif, Négatif ou Neutre.]`
 
-\
 
 ### 🥇 Pro Version (Few-Shot)
 

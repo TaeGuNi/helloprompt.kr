@@ -39,7 +39,6 @@ A one-minute summary for the busy professional. Just remember these key points!
 > **Article 2 (Copyright):** The copyright for all prompts and content on the Site belongs to Hello Prompt.
 > **Article 3 (Limitation of Liability):** The information on the Site is for reference only. The Site holds no legal responsibility for the outcomes resulting from your AI execution.
 
-\
 
 ### 🥇 Pro Version (Detailed Terms)
 

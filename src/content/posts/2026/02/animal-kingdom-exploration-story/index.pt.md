@@ -49,7 +49,6 @@ Use isto quando precisar inventar uma história rapidamente antes dos olhos do s
 > **Papel:** Você é um autor premiado de contos de fadas infantis com amplo conhecimento em zoologia.
 > **Solicitação:** Escreva uma aventura curta sobre um `[Animal Escolhido]`, misturando fatos ecológicos reais com uma narrativa imaginativa e relaxante para a hora de dormir.
 
-\
 
 ### 🥇 Versão Especialista (Pro Version)
 

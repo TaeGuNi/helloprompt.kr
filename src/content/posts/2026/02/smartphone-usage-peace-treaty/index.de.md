@@ -42,7 +42,6 @@ Nutzen Sie diese Variante, wenn Sie sofort eine schnelle Richtlinie benötigen.
 > **Rolle:** Du bist ein fairer und einfühlsamer Vermittler in Erziehungsfragen.
 > **Anfrage:** Hilf mir dabei, faire Regeln für die Smartphone-Nutzung meines Kindes aufzustellen, sodass es YouTube freiwillig und ohne Streit ausschaltet.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

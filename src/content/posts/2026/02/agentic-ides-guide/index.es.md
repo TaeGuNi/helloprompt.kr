@@ -46,7 +46,6 @@ Para desatar el verdadero potencial de un IDE Agéntico, asígnale la tarea de s
 > **Rol:** Eres un `[Desarrollador Frontend]`.
 > **Tarea:** El componente `[UserProfile.tsx]` es demasiado grande. Separa la UI de la lógica de negocio en archivos distintos.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

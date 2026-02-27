@@ -44,7 +44,6 @@ Usala quando hai bisogno di un risultato immediato senza troppe spiegazioni.
 > **Ruolo:** Sei un Software Engineer esperto di 'Clean Code'.
 > **Richiesta:** Rifattorizza questo codice spaghetti per renderlo pulito, leggibile e facilmente manutenibile.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

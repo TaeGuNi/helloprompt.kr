@@ -47,7 +47,6 @@ Perfetta quando hai la mente offuscata e hai solo bisogno di fare ordine al volo
 >
 > [Inserisci qui la tua lista caotica]
 
-\
 
 ### 🥇 Pro Version (Matrice di Eisenhower & Timeline)
 

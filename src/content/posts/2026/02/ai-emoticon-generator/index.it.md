@@ -44,7 +44,6 @@ Ideale per stabilire il design generale e il "tone and manner" del tuo personagg
 > **Aspetto:** Corpo giallo, becco arancione, un piccolo germoglio verde sulla testa.
 > **Stile:** Illustrazione vettoriale 2D, linee esterne spesse e semplici (Thick Outline), sfondo completamente bianco.
 
-\
 
 ### 🥇 Versione Pro (Pro Version)
 

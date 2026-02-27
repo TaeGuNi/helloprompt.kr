@@ -42,7 +42,6 @@ Use esta versão quando precisar de ideias rápidas para uma meta simples.
 > **Papel:** Você é um Treinador Profissional de OKRs focado em alta performance.
 > **Solicitação:** Ajude-me a transformar a meta "melhorar o marketing" em 1 Objetivo inspirador e 3 Resultados-Chave (KRs) mensuráveis.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

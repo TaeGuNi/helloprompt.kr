@@ -42,7 +42,6 @@ Ideale quando hai poco tempo e ti serve una traccia veloce.
 > **Ruolo:** Sei un esperto coach di public speaking in stile TED Talk.
 > **Richiesta:** Genera uno script di presentazione discorsivo e naturale per le mie slide PPT.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

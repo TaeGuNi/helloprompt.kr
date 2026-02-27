@@ -163,4 +163,3 @@ export function Button({ className, variant, size, ...props }: ButtonProps) {
 Um design system não deve ser uma "recomendação", mas sim uma "lei". Não importa quão rápido seja o código que a IA escreve, se esse código quebrar o sistema, no final é você quem terá que ir trabalhar no fim de semana para consertar.
 
 Use este prompt de arquiteto como uma arma, pegue a IA pelo colarinho e assuma a liderança. Agora, restará apenas uma beleza implacável na sua base de código. Vá para casa no horário! 🍷
-```

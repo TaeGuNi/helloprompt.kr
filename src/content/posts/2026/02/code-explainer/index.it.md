@@ -42,7 +42,6 @@ Usala quando hai poco tempo e ti serve solo capire a grandi linee cosa fa uno sn
 > **Ruolo:** Sei un Senior Developer empatico e paziente.
 > **Richiesta:** Spiegami in modo semplice e chiaro cosa fa questo codice e aggiungi commenti essenziali alle righe più complesse: `[INCOLLA QUI IL CODICE]`
 
-\
 
 ### 🥇 Versione Pro (Expert)
 
@@ -69,10 +68,9 @@ Ideale per decifrare algoritmi complessi o imparare nuove best practice.
 >
 > **Codice da Analizzare:**
 >
-> ```
+>
 > [INCOLLA QUI IL TUO CODICE]
-> ```
-
+>
 ---
 
 ## 💡 Commento dell'Autore (Insight)

@@ -42,7 +42,6 @@ Use this when you are in a rush and need a quick, standard follow-up draft.
 > **Role:** You are a senior business communication expert.
 > **Task:** Write a polite follow-up email to a partner who hasn't replied to my request for data, ensuring it sounds professional and not angry.
 
-\
 
 ### 🥇 Pro Version
 

@@ -43,7 +43,6 @@ Use esta versão quando precisar apenas de um resumo rápido e direto ao ponto.
 > **Papel:** Você é um `[Analista de Dados Sênior]`.
 > **Ação:** Analise a imagem fornecida (gráfico/tabela), extraia os 3 principais insights e aponte qualquer anomalia ou distorção nos dados.
 
-\
 
 ### 🥇 Versão Pro (Expert)
 

@@ -37,7 +37,6 @@ Verwenden Sie diesen Prompt, wenn Sie schnell eine bestimmte Funktion oder Utili
 > **Rolle:** Du bist ein Senior `[Sprache/Framework]`-Entwickler.
 > **Aufgabe:** Schreibe den am stärksten optimierten Code zur Implementierung von `[Spezifische Funktion]`. Berücksichtige dabei unbedingt den gesamten Kontext des aktuellen Workspaces.
 
-\
 
 ### 🥇 Pro Version (Für Experten)
 

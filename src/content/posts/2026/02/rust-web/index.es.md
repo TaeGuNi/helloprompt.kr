@@ -41,7 +41,6 @@ Ideal cuando necesitas levantar un servidor funcional en segundos para validar u
 > **Rol:** Eres un desarrollador Senior especializado en Rust y desarrollo web.
 > **Tarea:** Escribe el código base para un servidor web HTTP usando el framework `[Axum o Actix-web]` y el runtime Tokio. Incluye una ruta GET simple que devuelva "Hello, Rust 2026!".
 
-\
 
 ### 🥇 Versión Pro (Para entornos de producción)
 

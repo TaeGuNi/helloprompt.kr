@@ -42,7 +42,6 @@ Use this prompt when you need a quick overview of essential do's and don'ts befo
 > **Role:** You are a highly experienced 'Cross-Cultural Etiquette Expert' fluent in global body language and local customs.
 > **Request:** I am traveling to `[Country Name]`. Tell me the most welcomed greetings and the most dangerous hand gestures I must absolutely avoid to prevent any misunderstandings.
 
-\
 
 ### 🥇 Pro Version
 

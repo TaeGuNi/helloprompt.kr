@@ -42,7 +42,6 @@ Idéale lorsque vous avez besoin d'une idée d'intrigue rapide pour débloquer v
 > **Rôle :** Tu es un romancier spécialisé dans les romans policiers, avec le génie narratif d'Agatha Christie et la logique implacable de Keigo Higashino.
 > **Requête :** Invente une astuce de meurtre en chambre close ingénieuse et un alibi infaillible qui surprendraient même Sherlock Holmes.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

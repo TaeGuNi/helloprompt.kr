@@ -48,7 +48,6 @@ tags: [AI, BugReport, QA, Communication]
 >
 > **説明:** `[ここに発生したバグの状況を思いつくままに書いてください]`
 
-\
 
 ### 🥇 Pro Version (専門家型)
 

@@ -43,7 +43,6 @@ Las bebidas también son gastronomía. La calidad del sabor cambia radicalmente 
 > **Situación:** En mi nevera tengo soju, Sprite y zumo de naranja.
 > **Tarea:** Usando estos ingredientes, dame la proporción exacta para preparar un cóctel casero ligero y dulce. (Ejemplo: usa medidas de vasos de chupito).
 
-\
 
 ### 🥇 Pro Version (Versión Profesional)
 

@@ -42,7 +42,6 @@ Utilisez cette version lorsque vous avez besoin d'un résultat immédiat sans r�
 > **Rôle :** Tu es un guide de méditation expert et un conseiller en hypnose psychologique. Utilise un ton réconfortant, calme et apaisant.
 > **Demande :** Rédige un court script de méditation guidée adapté à `[ma situation actuelle]` pour m'aider à ressentir `[l'émotion souhaitée]`.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

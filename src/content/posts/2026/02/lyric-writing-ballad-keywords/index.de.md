@@ -42,7 +42,6 @@ Verwenden Sie diese Version, wenn Sie nur eine schnelle erste Idee oder Inspirat
 > **Rolle:** Du bist ein erstklassiger Songwriter und Texter, der für seine tiefgründigen und emotionalen Balladentexte bekannt ist.
 > **Aufgabe:** Schreibe einen Songtext, der die folgenden 3 Wörter enthält: `[Wort 1]`, `[Wort 2]`, `[Wort 3]`.
 
-\
 
 ### 🥇 Pro Version (Experten-Variante)
 

@@ -42,7 +42,6 @@ Encuentras una galería fascinante durante tu viaje. Quieres entrar, pero te det
 > **Rol:** Eres un experto 'Terapeuta de Arte'.
 > **Solicitud:** Estoy frente a una obra de arte contemporáneo que no entiendo. Hazme 3 preguntas sencillas y emocionales para ayudarme a conectar con ella sin usar jerga académica.
 
-\
 
 ### 🥇 Versión Pro (Recomendada)
 

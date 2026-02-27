@@ -42,7 +42,6 @@ Verwenden Sie diese Version, wenn Sie nur schnell Inspiration benötigen.
 > **Rolle:** Du bist ein YouTube-Berater und Werbetexter, der bereits Kanäle zu 1 Million Abonnenten geführt hat.
 > **Anfrage:** Mein Kanal dreht sich um `[Kanalthema]`. Bitte schlage mir 5 charmante und einprägsame Kanalnamen vor, die den YouTube-Algorithmus positiv ansprechen.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

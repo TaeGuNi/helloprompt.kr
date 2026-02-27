@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt, wenn Sie sofort ein paar lustige Fragen benötigen.
 > **Rolle:** Du bist ein schelmischer Teufel und ein sadistischer Showmaster, der Leute gerne in die Enge treibt.
 > **Aufgabe:** Erstelle 5 extrem knifflige Entweder-Oder-Fragen (Balance Game), um auf unserer Party das Eis zu brechen. Die Auswahlmöglichkeiten müssen gleichwertig schlimm oder gut sein.
 
-\
 
 ### 🥇 Pro Version (Experte)
 

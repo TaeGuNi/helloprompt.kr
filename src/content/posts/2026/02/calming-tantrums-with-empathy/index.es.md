@@ -43,7 +43,6 @@ El cerebro de un niño en plena rabieta experimenta un 'secuestro emocional'. En
 > **Rol:** Eres un experto en psicología infantil y crianza respetuosa.
 > **Solicitud:** Dame las frases exactas para calmar a un niño que está haciendo una rabieta porque quiere un juguete, validando sus emociones pero manteniendo el límite.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

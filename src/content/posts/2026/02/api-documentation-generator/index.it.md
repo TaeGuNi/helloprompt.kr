@@ -46,7 +46,6 @@ Usala quando hai bisogno di un risultato immediato senza troppi fronzoli.
 > **Richiesta:** Analizza il codice API seguente e convertilo in una documentazione Markdown chiara e strutturata, includendo endpoint, parametri e un esempio di risposta.
 > **Codice:** `[Incolla qui il tuo codice]`
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 
@@ -162,4 +161,3 @@ La stesura della documentazione API non segna la fine dello sviluppo, ma l'inizi
 Eppure, non c'è motivo di sprecare le tue energie migliori su compiti ripetitivi. Lascia la scrittura dei file YAML all'IA e torna a concentrarti sulla logica di business e sull'architettura.
 
 Stacca la spina e goditi il tuo tempo libero! 🍷
-```

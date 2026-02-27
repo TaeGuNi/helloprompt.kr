@@ -43,7 +43,6 @@ Usa questa versione per dare rapidamente l'impressione che l'email sia stata pre
 
 Sei il mio assistente esecutivo esperto. Analizza il contenuto dell'email appena ricevuta e scrivi al mittente per confermare la ricezione, informandolo che "l'email è stata ricevuta correttamente e il responsabile fornirà una risposta dettagliata entro 24 ore dopo averne verificato il contenuto". Scrivi il messaggio in un inglese commerciale cortese, raffinato e altamente professionale.
 
-\
 
 ### 🥇 Versione Pro (Risposta Intelligente Basata sul Contesto)
 

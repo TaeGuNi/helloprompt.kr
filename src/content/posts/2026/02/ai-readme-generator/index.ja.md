@@ -44,7 +44,6 @@ tags: [Github, Documentation, OpenSource, Branding, AI]
 > **役割:** あなたは`[シニアテクニカルライター]`です。
 > **タスク:** 私のプロジェクトの`[ファイル構造]`と`[主要な技術スタック]`を基に、簡潔で分かりやすいMarkdown形式のREADME.mdの草案を作成してください。
 
-\
 
 ### 🥇 Pro Version (専門家型)
 
@@ -67,9 +66,9 @@ tags: [Github, Documentation, OpenSource, Branding, AI]
 > - **一言紹介:** `[プロジェクトのコアバリューを説明する一文]`
 > - **技術スタック:** `[例: React, TypeScript, TailwindCSS]`
 > - **ファイル構造:**
->   ```text
+>
 >   [treeコマンドの実行結果を貼り付け]
->   ```
+>
 >
 > **制約事項 (Constraints):**
 >

@@ -42,7 +42,6 @@ Use esta versão quando precisar de resultados rápidos e diretos antes de embar
 > **Papel:** Você é um intérprete fluente na língua e cultura de `[Destino, ex: Tóquio, Japão]`.
 > **Solicitação:** Crie um guia rápido de conversação com as 10 frases mais essenciais para um turista, incluindo a pronúncia adaptada para um falante de português.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

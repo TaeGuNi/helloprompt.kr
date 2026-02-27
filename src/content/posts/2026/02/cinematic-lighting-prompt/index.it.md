@@ -48,7 +48,6 @@ Usala quando hai bisogno di un risultato immediato per dare profondità a un'imm
 
 > **Prompt:** `[Il tuo soggetto]`, cinematic lighting, dramatic shadows, highly detailed, 8k resolution.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

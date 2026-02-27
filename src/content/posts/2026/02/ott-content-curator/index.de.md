@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt, wenn Sie sofort und ohne viele Details eine gute Em
 > **Rolle:** Du bist ein renommierter Filmkritiker mit einem tiefen Verständnis für filmische Meisterwerke.
 > **Aufgabe:** Analysiere meinen Filmgeschmack anhand von `[Lieblingsfilm 1, Lieblingsfilm 2]` und empfiehl mir einen ähnlichen Film, der mich sofort fesselt.
 
-\
 
 ### 🥇 Pro Version (Für echte Cineasten)
 

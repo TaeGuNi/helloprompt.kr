@@ -47,7 +47,6 @@ Utiliza este prompt cuando solo quieras copiar la lista de permisos y comprobar 
 > - Nombre: `[Nombre de la extensión]`
 > - Permisos solicitados: `[Copia y pega la lista de permisos especificada en la Web Store]`
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

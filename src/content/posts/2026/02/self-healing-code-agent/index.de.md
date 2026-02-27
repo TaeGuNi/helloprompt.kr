@@ -44,7 +44,6 @@ Nutzen Sie dies für die schnelle Behebung von simplen Fehlern.
 > **Rolle:** Du bist ein `[Senior Python Entwickler]`.
 > **Aufgabe:** Behebe den Bug im `[Originalcode]` basierend auf der folgenden `[Fehlermeldung]`.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 
@@ -73,16 +72,15 @@ Nutzen Sie dies, um eine automatisierte Debugging-Pipeline in Ihr Agenten-System
 > **Eingabedaten (Input Data):**
 > **Originalcode:**
 >
-> ```python
+>
 > [Fügen Sie hier den Originalcode ein]
-> ```
+>
 >
 > **Fehlerprotokoll:**
 >
-> ```text
+>
 > [Fügen Sie hier die stderr-Fehlermeldung ein]
-> ```
-
+>
 ---
 
 ## 💻 Automatisierung der Schleife mit Python (Implementation)

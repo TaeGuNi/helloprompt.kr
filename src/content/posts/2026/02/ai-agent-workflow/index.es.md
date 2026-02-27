@@ -44,7 +44,6 @@ Ideal para automatizaciones sencillas de un solo paso o tareas lineales sin gran
 >
 > **Solicitud:** Diseña un flujo de trabajo lógico para que un agente de IA realice la siguiente tarea: `[leer todos los correos entrantes de soporte, categorizarlos por urgencia y enviar un resumen a un canal específico de Slack]`. Describe los pasos secuenciales de manera clara.
 
-\
 
 ### 🥇 Versión Pro (Expert Version)
 

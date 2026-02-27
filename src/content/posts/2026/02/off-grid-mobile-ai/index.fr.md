@@ -42,7 +42,6 @@ Idéal pour une réponse rapide lorsque vous n'avez pas de réseau.
 > **Rôle :** Tu es un `[assistant polyvalent]`.
 > **Requête :** Résume ce `[texte/document]` en 3 points clés.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

@@ -55,7 +55,6 @@ Verwenden Sie dieses Muster, um die sogenannte „Fluff Tax“ (unnötige Füllw
 > - Freundliche Begrüßungen, Füllsätze wie „Ich beginne nun mit der Analyse“ oder „Das Ergebnis lautet wie folgt“ sind strengstens untersagt.
 > - Gib ausschließlich das Analyseergebnis und die angeforderte Aktion aus.
 
-\
 
 ### 🥇 Pro Version (Die Experten-Methode)
 
@@ -77,13 +76,13 @@ Dies ist das Muster mit dem größten Einsparpotenzial. Anstatt den gesamten Ges
 >
 > - Die Ausgabe muss strikt folgendem JSON-Format entsprechen:
 >
-> ```json
+>
 > {
 >   "thought": "Logische Schlussfolgerung zum aktuellen Schritt...",
 >   "action": "Name der auszuführenden Funktion oder nächste Aktion",
 >   "new_state": "SUMMARY: [Zusammenfassung des Bisherigen]. PENDING: [Aktuelles Hindernis]. GOAL: [Nächstes Ziel]."
 > }
-> ```
+>
 >
 > - Der Wert von `[new_state]` muss auf maximal 100 Wörter komprimiert werden.
 > - Behalte nur objektive Fakten und Entscheidungen bei. Entferne jeglichen Smalltalk.

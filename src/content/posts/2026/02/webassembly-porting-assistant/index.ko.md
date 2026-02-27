@@ -48,7 +48,6 @@ tags: ["WebAssembly", "Rust", "Performance"]
 > **코드:**
 > `[여기에 변환할 C++/Go/Rust 코드 붙여넣기]`
 
-\
 
 ### 🥇 Pro Version (전문가형)
 
@@ -70,9 +69,9 @@ tags: ["WebAssembly", "Rust", "Performance"]
 >
 > **입력 코드:**
 >
-> ```plaintext
+>
 > [여기에 기존 코드 붙여넣기]
-> ```
+>
 >
 > **제약사항 (Constraints):**
 >

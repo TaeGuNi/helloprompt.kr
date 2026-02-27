@@ -39,7 +39,6 @@ Use this when you need quick, actionable ideas on the fly.
 > **Role:** You are an expert Mobile Product Manager specializing in On-Device AI.
 > **Task:** Suggest 3 innovative features using local AI for my `[Insert App Type, e.g., Fitness Tracker]` app. Focus on user privacy and offline usage.
 
-\
 
 ### 🥇 Pro Version
 

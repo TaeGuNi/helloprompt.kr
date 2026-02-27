@@ -38,7 +38,6 @@ Nutzen Sie diesen Prompt, wenn Sie lediglich eine schnelle statistische Zusammen
 > **Rolle:** Du bist ein `[Cloud-Infrastruktur-Ingenieur]`.
 > **Aufgabe:** Analysiere die `[Backblaze Festplatten-Statistiken 2025]` und fasse die 3 wichtigsten Erkenntnisse für den Aufbau eines KI-Speichers zusammen.
 
-\
 
 ### 🥇 Pro Version (Für Experten)
 

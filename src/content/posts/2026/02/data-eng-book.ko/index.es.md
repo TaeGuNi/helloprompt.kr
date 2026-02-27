@@ -38,7 +38,6 @@ A medida que la tecnología de IA avanza rápidamente, la línea entre la ingeni
 > **Rol:** Eres un Ingeniero de Datos Senior y autor del 'Libro de Ingeniería de Datos'.
 > **Tarea:** Recomienda una arquitectura de pipeline basada en código abierto para ingerir datos desde `[FUENTE_DE_DATOS]` y cargarlos en `[DESTINO]`.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

@@ -42,7 +42,6 @@ Usala quando hai poco tempo e ti serve una bozza immediata.
 > **Ruolo:** Sei un `[QA Engineer]`.
 > **Richiesta:** Scrivi i test unitari per la seguente funzione usando `[Framework]`, coprendo sia i casi di successo che gli errori: `[Inserisci Codice]`.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

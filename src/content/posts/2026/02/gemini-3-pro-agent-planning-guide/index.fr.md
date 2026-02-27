@@ -45,7 +45,6 @@ Idéal pour structurer rapidement une idée à la volée, en pleine réunion.
 > **Requête :** À partir de l'`[idée]` que je te soumets, définis les 3 fonctionnalités indispensables que cet agent IA doit posséder et anticipe 1 obstacle technique majeur lors du développement.
 > **Idée :** `[Insérez ici la description de l'agent que vous souhaitez créer]`
 
-\
 
 ### 🥇 Version Pro (Optimisée pour Deep Think)
 

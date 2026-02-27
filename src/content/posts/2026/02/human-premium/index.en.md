@@ -40,7 +40,6 @@ Use this when you need a quick fix to soften stiff, formal writing.
 > **Role:** You are a 10-year veteran essayist and editor.
 > **Task:** Rewrite the following text completely so it doesn't sound like AI wrote it. Use a natural, emotional tone that feels like it stems from a real person's experience. Remove all mechanical transition words (e.g., 'In conclusion', 'To summarize', 'Furthermore').
 
-\
 
 ### 🥇 Pro Version
 

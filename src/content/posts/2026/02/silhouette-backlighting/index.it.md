@@ -43,7 +43,6 @@ Usala quando hai bisogno di un'immagine d'impatto in pochi secondi.
 > **Ruolo:** Sei un fotografo esperto in illuminazione drammatica.
 > **Richiesta:** Genera l'immagine di `[Soggetto]` come una silhouette scura in controluce, con `[Sfondo luminoso]` alle sue spalle.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

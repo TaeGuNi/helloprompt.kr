@@ -44,7 +44,6 @@ Use isso para definir o design geral e o tom do seu personagem.
 > **Aparência:** Corpo amarelo, bico laranja, um broto verde na cabeça.
 > **Estilo:** Estilo vetorial 2D, contornos grossos e simples (Thick Outline), fundo branco.
 
-\
 
 ### 🥇 Pro Version (Versão Profissional)
 

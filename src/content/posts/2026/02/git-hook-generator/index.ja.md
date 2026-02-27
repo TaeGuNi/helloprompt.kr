@@ -44,7 +44,6 @@ tags: [AI, Git, DevOps, Automation]
 > **役割:** あなたは`[DevOpsエンジニア]`です。
 > **タスク:** `[Husky]`を使用して、`[git commitする前にnpm run lintを実行]`するGit Hookシェルスクリプトと設定手順を作成してください。
 
-\
 
 ### 🥇 Pro Version (専門家型)
 

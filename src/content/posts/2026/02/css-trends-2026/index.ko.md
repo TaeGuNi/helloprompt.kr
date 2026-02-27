@@ -45,7 +45,6 @@ tags: ["CSS", "Frontend", "Design"]
 >
 > `[여기에 기존 CSS 코드 입력]`
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

@@ -43,12 +43,9 @@ Verwenden Sie dies für eine schnelle Überprüfung, wenn Sie an der Barrierefre
 > **Aufgabe:** Überprüfe den folgenden HTML-Code auf mögliche Barrierefreiheitsprobleme bei der Nutzung von Screenreadern oder Tastaturnavigation und korrigiere ihn semantisch.
 > **Code:**
 >
-> ```html
+>
 > [Fügen Sie hier Ihren Code ein]
-> ```
-
-\
-
+>
 ### 🥇 Pro Version
 
 Nutzen Sie dies für die Prüfung komplexer UI-Komponenten wie Modals, Dropdowns und Tab-Interaktionen.
@@ -70,9 +67,9 @@ Nutzen Sie dies für die Prüfung komplexer UI-Komponenten wie Modals, Dropdowns
 >
 > **Code (Code):**
 >
-> ```plaintext
+>
 > [Fügen Sie hier den Komponenten-Code ein]
-> ```
+>
 >
 > **Einschränkungen (Constraints):**
 >

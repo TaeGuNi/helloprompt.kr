@@ -47,7 +47,6 @@ Die Grundregel, um den Agenten an die kurze Leine zu nehmen, wenn man schnell ma
 > 3. Hänge bei einmaligen Ausführungen immer die Option `--rm` an, um den Müll sofort zu beseitigen.
 > 4. Gib die Ergebnisse nüchtern und sachlich aus.
 
-\
 
 ### 🥇 Pro-Version (Für Experten)
 

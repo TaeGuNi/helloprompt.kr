@@ -43,7 +43,6 @@ Nutzen Sie diese Variante für einen schnellen, groben Überblick Ihres Reisezie
 >
 > **Anfrage:** Erstelle mir einen Leitfaden für eine Solo-Reise nach `[Reiseziel]`. Berücksichtige dabei besonders meine Sicherheit, mein Budget und Möglichkeiten, unkompliziert andere Reisende kennenzulernen.
 
-\
 
 ### 🥇 Pro Version (Expertenmodus)
 

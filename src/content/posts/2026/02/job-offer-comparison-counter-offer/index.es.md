@@ -48,7 +48,6 @@ Recibir múltiples ofertas de trabajo es el sueño de cualquier profesional, per
 > **Rol:** Eres un experto negociador salarial y coach de carrera.
 > **Solicitud:** Compara las condiciones de dos ofertas de trabajo que he recibido y diseña una estrategia de 'tira y afloja' (contraoferta) para negociar mejores condiciones salariales sin sonar arrogante.
 
-\
 
 ### 🥇 Versión Pro (Expert Version)
 

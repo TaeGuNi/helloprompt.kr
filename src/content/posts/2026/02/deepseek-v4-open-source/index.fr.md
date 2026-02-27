@@ -42,7 +42,6 @@ Idéal pour une révision de code ponctuelle, la détection de bugs ou un refact
 > **Rôle :** Tu es un `[Senior Software Engineer]`.
 > **Tâche :** Analyse ce `[fichier de code]` et corrige les erreurs de logique, de sécurité ou de syntaxe en expliquant brièvement tes choix.
 
-\
 
 ### 🥇 Version Pro (Pour l'analyse de dépôts complets)
 

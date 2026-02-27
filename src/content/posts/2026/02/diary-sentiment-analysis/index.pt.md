@@ -42,7 +42,6 @@ Use isto quando quiser identificar rapidamente seus principais interesses incons
 > **Função (Role):** Você é um analista de dados e conselheiro psicológico.
 > **Tarefa (Task):** Extraia o Top 5 de substantivos e adjetivos que mais aparecem no texto do diário de uma semana que fiz o upload. Com base nessas palavras, resuma o meu estado psicológico atual em uma única frase.
 
-\
 
 ### 🥇 Versão Pro (Análise de Séries Temporais Emocionais & Relatório Visual)
 

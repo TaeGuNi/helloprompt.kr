@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt, wenn Sie die grundlegende Syntax und das Build-Syst
 > **Rolle:** Du bist ein Senior `[Rust-Entwickler]`.
 > **Aufgabe:** Erkläre mir anfängerfreundlich, wie ich mit `[Cargo]` ein neues Projekt erstelle, baue und ausführe. Zeige mir dazu die entsprechenden CLI-Befehle und den Code für eine 'Hello World'-Ausgabe in Rust.
 
-\
 
 ### 🥇 Pro Version (Experte)
 
@@ -57,11 +56,11 @@ Verwenden Sie diesen Prompt, um die größten Einstiegshürden in Rust – die K
 >
 > **Code:**
 >
-> ```rust
+>
 > let s1 = String::from("hello");
 > let s2 = s1;
 > println!("{}, world!", s1); // Hier tritt der Compiler-Fehler auf
-> ```
+>
 >
 > **Aufgabe (Task):**
 >

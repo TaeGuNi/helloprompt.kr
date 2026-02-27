@@ -42,7 +42,6 @@ Use esta versão quando precisar apenas de um resultado rápido e sem complicaç
 > **Papel:** Você é um roteirista de TV sádico e bem-humorado, especialista em criar dilemas morais divertidos.
 > **Solicitação:** Crie 5 perguntas extremamente difíceis de "O que você prefere?" para quebrar o gelo em uma festa. O equilíbrio entre as duas escolhas deve ser perfeito.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

@@ -42,7 +42,6 @@ Use this when you are already exhausted and just need a quick, soothing distract
 > **Role:** You are an expert sleep therapist and a master storyteller for adults.
 > **Task:** Counting sheep isn't working for me. Please write a peaceful, incredibly boring, yet vividly descriptive 'adult bedtime story' set in a cozy environment to help me fall asleep immediately. No plot twists or exciting events.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

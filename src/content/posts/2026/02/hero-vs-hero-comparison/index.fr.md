@@ -42,7 +42,6 @@ Utilisez ce prompt lorsque vous avez besoin d'une comparaison rapide et directe,
 > **Rôle :** Tu es un `[Historien spécialisé en études comparatives]`.
 > **Demande :** Compare `[Personnage A]` et `[Personnage B]` de manière concise, en mettant en évidence leurs principales similitudes et différences.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

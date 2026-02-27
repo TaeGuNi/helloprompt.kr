@@ -42,7 +42,6 @@ Usala quando hai bisogno di un risultato rapido e senza fronzoli.
 > **Ruolo:** Sei un Personal Trainer professionista con 10 anni di esperienza.
 > **Richiesta:** Crea una routine di allenamento a casa adatta al mio livello di fitness attuale e all'attrezzatura che ho a disposizione.
 
-\
 
 ### 🥇 Versione Pro (Expert)
 

@@ -41,7 +41,6 @@ tags: ["AI", "Tech", "breaking-vibe-coding-spell"]
 > **角色：** 你是一个资深程序员。
 > **任务：** 帮我写一个用户登录功能，用 React 和 Node.js。
 
-\
 
 ### 🥇 Pro Version (专家型 - 严谨工程编程)
 

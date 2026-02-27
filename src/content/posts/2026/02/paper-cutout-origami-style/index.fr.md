@@ -42,7 +42,6 @@ Utilisez cette version pour générer rapidement une image avec un effet de papi
 
 > **Prompt :** Une illustration de `[Sujet]`. Style paper cutout art, couches de papier superposées, ombres douces, texture de papier kraft.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

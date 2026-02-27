@@ -42,7 +42,6 @@ Escribir una novela web es un maratón, y es completamente normal enfrentarse al
 > **Rol:** Eres un exitoso autor de novelas web.
 > **Tarea:** Genera una idea de trama para una novela de género `[Género, ej. Fantasía de Venganza]`. Incluye un protagonista, su motivación principal, un giro inesperado y el objetivo final.
 
-\
 
 ### 🥇 Pro Version (Versión Profesional)
 

@@ -42,7 +42,6 @@ Use this when you need an immediate, high-level overview.
 > **Role:** You are an `[Industry Analysis Expert]` from a top-tier global consulting firm (e.g., McKinsey, BCG).
 > **Task:** Analyze rapidly growing industry trends and identify key beneficiary stocks based on recent data.
 
-\
 
 ### 🥇 Pro Version (Deep Dive)
 

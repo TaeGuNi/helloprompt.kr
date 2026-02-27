@@ -42,7 +42,6 @@ Usala quando hai bisogno di un responso rapido e diretto.
 > **Ruolo:** Sei un Senior DBA con 15 anni di esperienza.
 > **Richiesta:** Ottimizza questa query SQL e suggeriscimi quali indici creare per migliorarne le prestazioni. `[Inserisci Query]`
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 
@@ -66,9 +65,9 @@ Usala per un'analisi dettagliata, specifica per il tuo RDBMS (es. PostgreSQL, My
 > - **Motore DB:** `[Inserisci DB: es. PostgreSQL, MySQL 8.0, Oracle]`
 > - **Query Attuale:**
 >
-> ```sql
+>
 > [Incolla qui la tua query SQL lenta]
-> ```
+>
 >
 > - **Struttura Tabelle (Opzionale ma consigliato):** `[Incolla lo schema DDL delle tabelle coinvolte o descrivile brevemente]`
 >

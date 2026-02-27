@@ -45,7 +45,6 @@ Use esta versão para anunciar rapidamente novidades leves, eventos ou lançamen
 > **Tarefa:** Com base nas informações abaixo, escreva um press release curto (notícia direta) com um tom objetivo para ser distribuído à imprensa.
 > **Informações:** "Nossa empresa (Hello Prompt) acaba de lançar uma nova ferramenta de redação com IA. Qualquer pessoa pode usá-la gratuitamente, e dizem que ela aumenta a produtividade em 10 vezes."
 
-\
 
 ### 🥇 Versão Pro (Profissional / Artigos de Fundo e Captação de Investimentos)
 

@@ -43,7 +43,6 @@ Use this when you just need a fast, high-level overview of an informal sync.
 > **Request:** Read the provided meeting transcript and summarize it into three clear sections: [Key Agenda / Final Decisions / Next Steps].
 > **Transcript:** `[Paste your raw transcript here]`
 
-\
 
 ### 🥇 Pro Version (Executive-Ready Minutes)
 

@@ -44,7 +44,6 @@ Utilisez cette version pour créer rapidement une icône d'application, un favic
 > **Tâche :**
 `minimalistic vector logo of a [Blue Whale], simple shapes, flat design, white background --no text --v 6.0`
 
-\
 
 ### 🥇 Version Pro (Identité de Marque)
 

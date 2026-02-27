@@ -39,7 +39,6 @@ Bien plus qu'un simple générateur d'images, Midjourney v8 s'est imposé comme 
 > **Requête :** 
 `/imagine prompt: [Sujet à dessiner, ex: Un robot buvant un café dans une ville cyberpunk] --sref [URL de l'image de référence] --sw 800 --v 8`
 
-\
 
 ### 🥇 Version Pro (Générateur de prompts multiples pour ressources de marque)
 

@@ -43,7 +43,6 @@ Use esta versão quando precisar de um panorama rápido e direto ao ponto.
 > **Papel:** Você é um contador experiente especializado em freelancers e profissionais autônomos.
 > **Solicitação:** Organize as melhores dicas sobre processamento de despesas e deduções legais para freelancers que precisam fazer a declaração anual de imposto de renda e querem maximizar a sua restituição.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

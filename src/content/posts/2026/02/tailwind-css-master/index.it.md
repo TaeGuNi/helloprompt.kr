@@ -43,7 +43,6 @@ Utilizza questo prompt quando desideri convertire rapidamente semplici regole CS
 > **Compito:** Converti il seguente codice CSS nelle classi di utilità Tailwind CSS più appropriate.
 > **CSS:** `display: flex; justify-content: center; align-items: center; height: 100vh;`
 
-\
 
 ### 🥇 Versione Pro (Creazione di Componenti)
 

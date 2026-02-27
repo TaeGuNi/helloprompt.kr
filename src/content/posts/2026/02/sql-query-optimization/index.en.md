@@ -44,7 +44,6 @@ Use this when you need a quick sanity check on a suspicious query.
 >
 > **Query:** `[Insert your query here]`
 
-\
 
 ### 🥇 Pro Version (Expert)
 
@@ -71,10 +70,9 @@ Use this when dealing with production-level complexity where you need detailed e
 >
 > **Current Query:**
 >
-> ```sql
+>
 > [Paste your slow SQL query here]
-> ```
-
+>
 ---
 
 ## 💡 Writer's Insight
@@ -114,7 +112,6 @@ WHERE u.id IN (SELECT user_id FROM Orders WHERE created_at > '2024-01-01')
 -- A classic, inefficient IN-clause subquery that often leads to full table scans.
 ```
 
-\
 
 ### ✅ After (Result)
 

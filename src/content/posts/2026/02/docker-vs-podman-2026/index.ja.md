@@ -43,7 +43,6 @@ Dockerは過去10年間、コンテナエコシステムにおいて絶対的な
 >
 > **タスク:** 私がこれまで使用していたDockerコマンド`[既存のdocker runコマンドまたはスクリプト]`を、PodmanのRootlessモードで完璧に動作するように変換してください。特に、ネットワークブリッジやボリュームマウントの権限（SELinuxを含む）の側面で発生し得るエラーとその解決策も併せて提示してください。
 
-\
 
 ### 🥇 Pro Version（docker-compose → K8sへの完全移行）
 
@@ -66,9 +65,9 @@ Dockerは過去10年間、コンテナエコシステムにおいて絶対的な
 >
 > - ターゲット環境: `[例: AWS EC2 t3.medium, RAM 4GB]`
 > - 既存のdocker-compose.yml:
->   ```yaml
+>
 >   [ここに既存のdocker-compose.ymlの内容をコピー＆ペーストしてください]
->   ```
+>
 >
 > **制約事項 (Constraints):**
 >

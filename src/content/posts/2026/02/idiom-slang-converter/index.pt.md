@@ -42,7 +42,6 @@ Use esta versão quando precisar de um resultado rápido e direto ao ponto.
 > **Papel:** Você é um `[Roteirista de Hollywood e Especialista em Gírias Norte-Americanas]`.
 > **Requisição:** Reescreva a seguinte frase para soar natural: `[sua frase em inglês]`. Use expressões nativas reais e adequadas ao contexto.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

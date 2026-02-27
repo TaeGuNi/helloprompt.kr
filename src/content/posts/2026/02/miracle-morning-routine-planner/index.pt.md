@@ -49,7 +49,6 @@ Ideal para quando você precisa apenas de um rascunho rápido da sua rotina, foc
 > **Função:** Você é um `[especialista em produtividade e gestão de tempo]`.
 > **Tarefa:** Eu acordo às `[06:00]` e tenho `[1 hora e 30 minutos]` livres antes de ir para o trabalho. Os meus objetivos matinais são `[fazer alongamentos, ler 10 páginas de um livro e tomar um café da manhã leve]`. Crie uma linha do tempo realista e eficiente para a minha rotina matinal, garantindo que eu consiga cumprir todas essas metas.
 
-\
 
 ### 🥇 Versão Pro (Especialista)
 

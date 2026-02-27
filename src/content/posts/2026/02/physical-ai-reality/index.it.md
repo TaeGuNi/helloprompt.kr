@@ -50,7 +50,6 @@ Utilizzate questa versione quando avete bisogno di estrarre rapidamente solo i f
 > `[Contenuto della Notizia/Demo Tech]:`
 > (Incolla qui il testo dell'articolo)
 
-\
 
 ### 🥇 Versione Pro
 

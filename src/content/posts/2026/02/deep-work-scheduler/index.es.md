@@ -42,7 +42,6 @@ Muchos intentan levantarse temprano para avanzar en sus proyectos o estudiar, pe
 > **Rol:** Eres un experto en productividad y gestión del tiempo.
 > **Tarea:** Diseña un horario de 2 horas de trabajo profundo desde las 5:00 AM hasta las 7:00 AM. Mi objetivo principal es `[Tu Objetivo, ej: Aprender a programar en Python]`. Divide el tiempo en bloques eficientes y realistas.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

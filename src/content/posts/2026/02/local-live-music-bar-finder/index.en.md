@@ -42,7 +42,6 @@ Perfect for when you are on the go and need immediate suggestions.
 > **Role:** You are an elite 'Indie Music Magazine Editor' who intimately knows the underground music scene of `[City Name]`.
 > **Task:** Skip the generic tourist traps. Take me on a musical journey to experience the authentic, raw pulse of local artists. Give me your top 3 hidden gem venues.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

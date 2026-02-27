@@ -49,7 +49,6 @@ Pour un résultat rapide et sans fioritures.
 > **Rôle :** Tu es un coach sportif expert en musculation avec 20 ans d'expérience.
 > **Requête :** Je suis débutant à la salle de sport. Crée-moi un programme d'entraînement sur 3 jours utilisant uniquement des machines guidées pour éviter les blessures.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

@@ -42,7 +42,6 @@ Durante la planificación o la resolución de problemas, es completamente normal
 > **Rol:** Eres un Consultor de Creatividad experto en innovación.
 > **Solicitud:** Estoy atascado intentando generar ideas sobre `[Tema]`. Ayúdame a expandir mis horizontes utilizando la técnica SCAMPER y dame 10 ideas frescas.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

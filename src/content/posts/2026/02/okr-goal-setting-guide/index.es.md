@@ -42,7 +42,6 @@ Todos sabemos que la metodología OKR (Objectives and Key Results) es excelente,
 > **Rol:** Eres un Entrenador Profesional de OKR certificado por Google.
 > **Solicitud:** Ayúdame a establecer un Objetivo emocionante y 3 Resultados Clave medibles para mi objetivo principal: `[Describe tu meta brevemente]`.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

@@ -48,7 +48,6 @@ Use esta versão quando precisar de uma resposta rápida e direta para um proble
 > **Papel:** Você é um Engenheiro de Software Sênior especialista em Algoritmos.
 > **Solicitação:** Estou em dúvida sobre qual estrutura de dados usar para `[inserir o seu problema, ex: armazenar uma lista de usuários sem repetição]`. Recomende a estrutura de dados mais eficiente para este caso.
 
-\
 
 ### 🥇 Versão Pro (Expert)
 
@@ -155,4 +154,3 @@ _Nota de Trade-off:_ O `Set` ocupará um pouco mais de memória RAM do que um Ar
 Se você tem apenas um martelo na sua caixa de ferramentas, todo problema vai parecer um prego. Dominar e escolher a estrutura de dados correta é o que separa um programador comum de um engenheiro de software de excelência.
 
 Arme-se com este prompt e construa sistemas incrivelmente rápidos! 🍷
-```

@@ -38,7 +38,6 @@ Usa questo prompt di configurazione iniziale quando vuoi creare rapidamente lo s
 > **Ruolo:** Sei un `[Sviluppatore di giochi senior]`.
 > **Task:** Crea un gioco di golf 2D basato su browser utilizzando `[HTML5 Canvas]`. Deve avere una pallina e una buca, e il meccanismo di tiro deve essere "drag-to-shoot" (trascina e rilascia con il mouse).
 
-\
 
 ### 🥇 Versione Pro
 

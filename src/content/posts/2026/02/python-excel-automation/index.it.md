@@ -43,7 +43,6 @@ Il prompt più rapido ed efficace quando devi semplicemente unire più file Exce
 >
 > **Richiesta:** Scrivi uno script in Python che legga in sequenza tutti i file Excel presenti in questa cartella, li unisca in un unico DataFrame e salvi il risultato finale sul desktop con il nome `total_merged.xlsx`. La struttura delle intestazioni (nomi delle colonne) è identica in tutti i file. Aggiungi commenti chiari al codice e spiegami passo dopo passo come devo eseguirlo.
 
-\
 
 ### 🥇 Versione Pro (Elaborazione e Aggregazione Dati)
 

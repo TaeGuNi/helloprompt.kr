@@ -43,7 +43,6 @@ Use this for quick problem-solving or adding a layer of logic to your daily task
 > **Task:** Perfectly solve the following: `[Insert your problem here]`.
 > **Constraints:** Do not give me the answer immediately. You must apply the "Let's think step by step" approach and show me your detailed, concrete reasoning process first.
 
-\
 
 ### 🥇 Pro Version
 

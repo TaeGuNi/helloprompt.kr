@@ -36,7 +36,6 @@ Aprovecha ese tiempo para prepararte otro café. Con este único truco, converti
 
 > **Rol:** Eres un ingeniero DevOps senior trabajando bajo mi mando. Deja los halagos y dedícate a trabajar.
 > **Tarea:** Cuando termines de modificar el código, crea una rama `feature`, haz push, abre un PR automáticamente usando la CLI `gh` y, si pasan las pruebas, haz un squash merge sin pedirme permiso. Si hay errores, arréglalos tú mismo.
-\
 
 ### 🥇 Versión Pro (Para Expertos)
 Si quieres borrar por completo la "personalidad" de la IA y convertirla en una máquina perfecta, inyecta este truco directamente en tu prompt de sistema (SKILL.md).

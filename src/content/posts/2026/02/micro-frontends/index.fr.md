@@ -39,7 +39,6 @@ Utilisez ce prompt pour obtenir une vue d'ensemble rapide adaptée à votre proj
 > **Rôle :** Tu es un Architecte Logiciel Senior expert en Micro-Frontends.
 > **Requête :** Explique-moi comment diviser mon application `[nom_ou_type_app]` en micro-frontends. Indique-moi les avantages immédiats et les trois principaux défis techniques que mon équipe va rencontrer.
 
-\
 
 ### 🥇 Version Pro (Pour la stratégie de migration complète)
 

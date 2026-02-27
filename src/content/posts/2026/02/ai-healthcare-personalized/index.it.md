@@ -47,7 +47,6 @@ Ideale per ottenere consigli immediati basati sui dati di base del tuo smartwatc
 > **Ruolo:** Sei un esperto consulente di medicina preventiva e nutrizione.
 > **Azione:** Analizza questi dati relativi al mio sonno e alla mia attività di oggi `[Inserisci i dati del tuo wearable]` e dammi 3 consigli pratici per mantenere alta la mia energia nel pomeriggio.
 
-\
 
 ### 🥇 Versione Pro (Per ottimizzazione avanzata)
 

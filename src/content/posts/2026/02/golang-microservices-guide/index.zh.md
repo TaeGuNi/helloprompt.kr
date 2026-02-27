@@ -43,7 +43,6 @@ tags: ["Golang", "Go", "MSA", "백엔드", "마이크로서비스"]
 > **角色:** 你是一位资深后端工程师。
 > **任务:** 请向我解释 Spring Boot 中的 `@RestController` 和依赖注入 (DI) 概念在 Go 语言中是如何实现的，并结合使用 `Gin` 或 `Echo` 框架的简单 CRUD 示例代码进行对比说明。
 
-\
 
 ### 🥇 Pro Version (专家版)
 

@@ -39,7 +39,6 @@ Descubre cómo construir a tus propios 'Avengers de la IA' para automatizar tu p
 > **Rol:** Eres un `[Maestro de Enjambres AutoGPT 2.0]`.
 > **Tarea:** Para ejecutar perfectamente la `[tarea compleja de investigación]`, propón los roles de 3 agentes necesarios y su flujo de trabajo colaborativo.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

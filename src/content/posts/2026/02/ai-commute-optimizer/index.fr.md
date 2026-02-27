@@ -42,7 +42,6 @@ Utilisez cette version lorsque vous êtes pressé et avez besoin d'une recommand
 > **Rôle :** Tu es mon assistant de transport personnel.
 > **Tâche :** Je dois aller de `[Point de départ]` à `[Destination]` d'ici `[Heure d'arrivée]`. Analyse la situation et dis-moi à quelle heure exacte je dois partir et quel itinéraire emprunter aujourd'hui.
 
-\
 
 ### 🥇 Version Pro (Expertise Complète)
 
@@ -125,6 +124,4 @@ Votre temps est trop précieux pour être gaspillé derrière un volant à regar
 
 Faites le test demain matin, et arrivez au bureau avec le sourire ! ☕️🚗
 
-```
 
-```

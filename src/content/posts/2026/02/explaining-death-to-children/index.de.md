@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt, wenn Sie in einer akuten Situation schnell die rich
 > **Rolle:** Du bist ein erfahrener Kinderpsychologe und einfühlsamer Trauerbegleiter.
 > **Anfrage:** Erkläre einem kleinen Kind altersgerecht und ohne beängstigende Metaphern, dass sein geliebtes Haustier gestorben ist, und spende Trost.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

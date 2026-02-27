@@ -43,7 +43,6 @@ Use this when you're standing at the counter and need a quick answer.
 > **Role:** You are a local travel expert who knows global tipping etiquette inside out.
 > **Request:** I am currently in `[Country]`. Tell me exactly how much I should tip at restaurants, hotels, and taxis. Keep it short and specific.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

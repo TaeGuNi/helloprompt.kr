@@ -42,7 +42,6 @@ Perfect when you just need a quick, no-frills structural cleanup.
 > **Role:** You are an expert document designer and a Markdown master.
 > **Task:** Convert the provided unorganized resume draft into a clean, strictly formatted Markdown structure.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

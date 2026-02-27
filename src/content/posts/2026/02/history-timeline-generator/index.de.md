@@ -44,7 +44,6 @@ Verwenden Sie dies, wenn Sie nur ein schnelles und einfaches Ergebnis benötigen
 >
 > **Anfrage:** Bitte ordne die wichtigsten Ereignisse zum Thema `[Historisches Thema]` chronologisch und erkläre kurz die Ursachen und Wirkungen.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

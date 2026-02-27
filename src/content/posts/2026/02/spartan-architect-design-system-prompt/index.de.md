@@ -32,7 +32,7 @@ Verwenden Sie diese Version, wenn Sie nur die Kernregeln einhalten und Komponent
 > **Aufgabe:** Erstelle `[Komponentenname: z. B. - Login-Modal]`.
 > 
 > **Bedingungen:** Verwende niemals Magic Numbers oder hartcodierte Hex-Codes (`#123456`). Alle Abstände müssen einem 8-Pixel-Raster folgen, und Schriftarten sowie Farben müssen streng der Semantic-Token-Struktur entsprechen. Verzichte auf unnötige Lobeshymnen oder zusätzliche Erklärungen und spucke sofort den Code aus.
-\
+
 ### 🥇 Pro Version (Expertenversion)
 Verwenden Sie diese Version, wenn Sie eine "perfekte Architektur" benötigen, die Sie direkt in die Produktionsebene kopieren und einfügen können.
 > **Role (Rolle):**
@@ -126,4 +126,3 @@ Perfekter Premium-Code, in dem Semantic Tokens, Barrierefreiheit (A11y) und der 
 Ein exzellentes Design-System entsteht nicht durch Laissez-faire, sondern durch **"präzise Kontrolle"**. 
 Das Gleiche gilt, wenn man einer KI das Schreiben von Code überlässt. Eine KI, die ohne Regeln codiert, ist eine Katastrophe, die technische Schulden anhäuft. Doch eine KI, die durch eine perfekte Architekturverfassung kontrolliert wird, ist der beste Chefarchitekt, der problemlos die Arbeit von 100 Entwicklern erledigt. 
 Kopieren Sie diesen Prompt noch heute und retten Sie Ihr Projekt! 🍷
-```

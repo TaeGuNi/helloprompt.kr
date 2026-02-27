@@ -45,7 +45,6 @@ Use this for a quick, scannable summary of any startup funding news.
 > **Role:** You are a seasoned Venture Capital Analyst.
 > **Task:** Summarize the following funding news: `[Insert News Text]`. Focus strictly on the valuation, key investors, and the primary technical or business goal.
 
-\
 
 ### 🥇 Pro Version
 

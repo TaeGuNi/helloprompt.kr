@@ -42,7 +42,6 @@ Use isso quando precisar apenas de um resultado rápido e direto.
 
 > **Prompt:** `[Seu tema aqui], Ukiyo-e style, Japanese woodblock print --ar 3:4 --v 6.0`
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

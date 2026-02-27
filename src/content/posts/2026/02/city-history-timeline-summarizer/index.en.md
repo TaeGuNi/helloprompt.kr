@@ -42,7 +42,6 @@ Use this when you need a rapid, high-level summary while waiting in line at the 
 > **Role:** You are an expert 'History Infographic Designer' who simplifies complex historical timelines.
 > **Request:** I am traveling to `[City Name]`. Give me a concise, one-page chronological timeline of its most important historical events and connect each event to a modern-day location I can visit.
 
-\
 
 ### 🥇 Pro Version (Expert Depth)
 

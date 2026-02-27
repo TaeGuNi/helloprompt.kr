@@ -42,7 +42,6 @@ Usala quando hai bisogno di una bozza veloce.
 > **Ruolo:** Sei un copywriter esperto e un consulente d'immagine per la carriera.
 > **Richiesta:** Scrivi un'auto-presentazione di 1 minuto per un colloquio che metta in risalto le mie competenze chiave in modo professionale e senza usare metafore banali.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

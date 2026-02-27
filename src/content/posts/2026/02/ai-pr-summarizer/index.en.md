@@ -47,7 +47,6 @@ Use this when you simply need a quick overview and the general flow of the chang
 > **[Git Diff Data]**
 > `[Paste your git diff output or PR description here]`
 
-\
 
 ### 🥇 Pro Version
 

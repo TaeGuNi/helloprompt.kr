@@ -39,7 +39,6 @@ Der schnellste Weg, um die Logik der KI sofort zu verbessern. Perfekt für schne
 > **Aufgabe:** Löse das folgende Problem: `[Fügen Sie hier Ihr komplexes Problem ein]`.
 > **Wichtig:** Denke Schritt für Schritt nach und erkläre deinen Gedankengang, bevor du die finale Antwort gibst.
 
-\
 
 ### 🥇 Pro Version (Few-Shot CoT)
 

@@ -44,7 +44,6 @@ Antes de escribir la primera línea de código, confíale a la IA la creación d
 > **Rol:** Eres un Arquitecto de Software Senior a cargo del diseño de sistemas a gran escala.
 > **Solicitud:** Recomiéndame la mejor arquitectura de software (ej. MVC, Clean Architecture) y una estructura de carpetas para un `[tipo de proyecto, ej. e-commerce en React y Node]`.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

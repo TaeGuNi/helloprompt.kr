@@ -41,7 +41,6 @@ Idéal quand vous avez une erreur évidente dans la console et que vous voulez q
 > **Rôle :** Tu es un `[Développeur Frontend Senior]`.
 > **Action :** Connecte-toi à mon onglet Chrome via MCP, lis les logs de la console pour trouver la cause de l'erreur `[Uncaught TypeError]`, et donne-moi le code corrigé.
 
-\
 
 ### 🥇 Version Pro (Investigation complète)
 

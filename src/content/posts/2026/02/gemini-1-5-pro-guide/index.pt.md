@@ -50,7 +50,6 @@ Leia a totalidade do documento anexado e extraia exclusivamente o conteúdo rela
 1. Resuma os 3 insights centrais mais cruciais em tópicos (bullet points).
 2. É obrigatório incluir o **número da página** do texto original que fundamenta cada insight.
 
-\
 
 ### 🥇 Versão Pro (Análise Profunda de Base de Código)
 

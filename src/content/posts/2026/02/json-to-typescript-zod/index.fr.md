@@ -45,7 +45,6 @@ Utilisez cette version pour un besoin ponctuel et obtenir un résultat immédiat
 > **Demande :** Convertis le JSON suivant en interfaces TypeScript et génère le schéma Zod correspondant pour la validation.
 `[Insérez votre JSON ici]`
 
-\
 
 ### 🥇 Version Pro (Expert)
 

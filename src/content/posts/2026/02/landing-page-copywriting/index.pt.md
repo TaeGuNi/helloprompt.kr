@@ -43,7 +43,6 @@ Use quando precisar rapidamente de ideias fortes para a copy principal.
 > **Contexto:** Preciso escrever a copy principal (Headline) para a Landing Page de um `[Aplicativo de conversação em inglês com IA]`. O público-alvo são `[Profissionais que têm bloqueio e medo na hora de falar inglês]`.
 > **Tarefa:** Escreva 5 opções de copys principais altamente chamativas, destacando o valor central de que "o inglês flui naturalmente mesmo sem um professor nativo".
 
-\
 
 ### 🥇 Pro Version (Versão Profissional)
 

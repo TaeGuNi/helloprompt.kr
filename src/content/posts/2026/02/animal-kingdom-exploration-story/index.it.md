@@ -49,7 +49,6 @@ Ideale quando avete pochissimo tempo e il bambino è già a letto sotto le coper
 > **Ruolo:** Sei uno scrittore esperto di fiabe per bambini e un appassionato zoologo.
 > **Richiesta:** Inventa una breve storia della buonanotte su un animale a scelta, mescolando un'avventura rilassante e un paio di fatti scientificamente reali sulla sua specie.
 
-\
 
 ### 🥇 Versione Pro (Expert Version)
 

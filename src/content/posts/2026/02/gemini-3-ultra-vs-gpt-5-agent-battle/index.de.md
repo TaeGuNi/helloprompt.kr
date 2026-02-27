@@ -51,7 +51,6 @@ Nutzen Sie diesen grundlegenden Prompt, wenn Sie einem einzigen Modell sowohl di
 > **Rolle:** Du bist ein `[Senior AI Developer]`.
 > **Aufgabe:** Plane einen `[Autonomen Aktien-Investment-Agenten]` und schreibe den kompletten Python-Code für dessen Ausführung.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

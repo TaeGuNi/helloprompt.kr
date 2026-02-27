@@ -44,7 +44,6 @@ Usa questo prompt quando non sai da dove cominciare per strutturare la palette d
 > Vorrei dividere i colori `[Primary (Blu)]`, `[Secondary (Grigio)]` e `[Error (Rosso)]` in 9 gradazioni, da 100 a 900.
 > Per poter applicare questi colori direttamente al codice, organizzami una tabella con i codici esadecimali (Hex) per ogni livello, associandoli a nomi intuitivi e semantici (es. `text-primary`, `bg-surface-default`).
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

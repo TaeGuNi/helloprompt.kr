@@ -44,7 +44,6 @@ Usala quando ti serve solo il nome di una rapida alternativa.
 > **Ruolo:** Sei uno chef stellato Michelin.
 > **Prompt:** Sto preparando `[pasta alla crema]` ma non ho `[la panna]`. Suggeriscimi brevemente 3 ingredienti comuni che posso usare come sostituti immediati.
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

@@ -42,7 +42,6 @@ Use this when you just need a quick, beautiful result without overthinking the d
 > **Role:** You are an expert photographer.
 > **Request:** Generate an image of `[your subject]` illuminated by beautiful golden hour lighting.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

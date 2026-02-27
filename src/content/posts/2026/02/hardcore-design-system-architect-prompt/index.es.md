@@ -44,7 +44,6 @@ Los "cheat codes" incluidos en este documento borrarán el ego complaciente de l
 > **Restricciones (Constraints):** 
 > - Omite explicaciones innecesarias o saludos.
 > - Imprime de forma breve y seca solo el bloque de código modificado y las razones.
-\
 
 ### 🥇 Pro Version (Versión Profesional)
 Úsalo para la configuración inicial de un proyecto o el desarrollo de componentes a gran escala, cuando quieras exprimir el alma de la IA y obtener un resultado perfecto. Simplemente copia y pega el prompt a continuación tal cual.

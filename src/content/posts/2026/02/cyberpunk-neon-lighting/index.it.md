@@ -42,7 +42,6 @@ Usa questa versione quando hai bisogno di un'immagine d'impatto nel minor tempo 
 > **Ruolo:** Sei un Concept Artist esperto in ambienti fantascientifici.
 > **Richiesta:** Genera l'immagine di una città futuristica di notte. Usa un'illuminazione al neon in stile cyberpunk con un intenso contrasto tra rosa magenta e blu ciano.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

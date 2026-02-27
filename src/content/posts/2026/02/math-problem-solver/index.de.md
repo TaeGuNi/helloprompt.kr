@@ -42,7 +42,6 @@ Verwenden Sie diese Variante für schnelle, unkomplizierte Lösungswege.
 > **Rolle:** Du bist ein erfahrener und sehr geduldiger Nachhilfelehrer für Mathematik.
 > **Aufgabe:** Erkläre den Lösungsweg für die folgende Aufgabe Schritt für Schritt und leicht verständlich, anstatt nur das Endergebnis zu nennen: `[Hier Aufgabe einfügen]`
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

@@ -41,7 +41,6 @@ Usalo per un rapido "reality check" durante le sessioni di brainstorming.
 > **Ruolo:** Sei un Product Manager cinico ed esperto.
 > **Compito:** Valuta questa idea di funzionalità AI: `[Inserisci l'idea AI]`. Dimmi in 3 punti se risolve un problema reale dell'utente o se è solo puro "hype" tecnologico.
 
-\
 
 ### 🥇 Versione Pro (Analisi Strategica)
 

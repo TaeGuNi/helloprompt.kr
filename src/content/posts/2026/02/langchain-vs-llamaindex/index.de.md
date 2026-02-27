@@ -43,7 +43,6 @@ Verwenden Sie diese Version, um die wichtigsten Unterschiede auf intuitivste Wei
 >
 > **Aufgabe:** Vergleiche die 3 wichtigsten Unterschiede zwischen LangChain und LlamaIndex klar und verständlich. Erkläre insbesondere, welches Framework in Bezug auf "Data Indexing und Retrieval" überlegen ist und nenne konkrete Gründe dafür.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

@@ -73,7 +73,6 @@ Este é o prompt mais fundamental para solicitar correções de bugs ou implemen
 
 > **Tarefa:** Resolva o `[problema ou funcionalidade a ser adicionada]` no arquivo `[nome_do_arquivo]` que está aberto no momento. Certifique-se de que o código siga rigorosamente a verificação de tipos do TypeScript e as convenções do Tailwind CSS.
 
-\
 
 ### 🥇 Versão Pro (Para Refatoração de Arquitetura no Windsurf / OpenClaw)
 

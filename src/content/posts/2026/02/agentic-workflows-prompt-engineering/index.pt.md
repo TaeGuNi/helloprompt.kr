@@ -39,7 +39,6 @@ Ideal para tarefas simples onde você quer que a IA avalie e revise o próprio t
 >
 > **Task:** Escreva um `[Artigo sobre IA]`. Antes de me mostrar o resultado, avalie criticamente o seu próprio texto, corrija os erros, melhore a persuasão e o tom de voz. Só então me entregue a versão final, revisada e otimizada.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

@@ -40,7 +40,7 @@ Use-a quando quiser extrair componentes rapidamente, seguindo apenas as regras e
 >
 > **Condições:** Nunca use números mágicos (magic numbers) ou códigos hexadecimais hardcoded (`#123456`). Todos os espaçamentos devem seguir uma grade de 8 pixels, e as fontes e cores devem obedecer rigorosamente a uma estrutura de tokens semânticos (Semantic Tokens). Não faça elogios inúteis ou explicações adicionais, apenas cuspa o código.
 
-\
+
 ### 🥇 Versão Profissional (Pro Version)
 Use-a quando precisar de uma 'arquitetura perfeita' que possa ser copiada e colada diretamente no nível de produção.
 

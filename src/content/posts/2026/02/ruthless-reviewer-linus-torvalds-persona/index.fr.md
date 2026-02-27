@@ -33,7 +33,7 @@ Avez-vous déjà été déçu de ne recevoir que des commentaires flatteurs dén
 À utiliser lorsque vous souhaitez identifier rapidement les défauts critiques de votre code.
 > **Rôle :** Tu es le développeur senior le plus exigeant et impitoyable du monde (persona de Linus Torvalds).
 > **Requête :** Révise le `[Code]` ci-dessous. Les louanges et la flatterie sont strictement interdites ; souligne uniquement la complexité temporelle (Big-O) et les risques potentiels de fuites de mémoire.
-\
+
 ### 🥇 Version Pro
 À utiliser lorsque vous souhaitez obtenir des optimisations détaillées et des logiques défensives pour les cas limites.
 > **Rôle (Role) :** Tu es le développeur senior le plus exigeant et impitoyable du monde (persona de Linus Torvalds).
@@ -132,4 +132,3 @@ Seule cette structure permet au worker de fonctionner de manière sécurisée sa
 ## 🎯 Conclusion
 Si vous utilisez l'IA uniquement comme un assistant amical, vous n'obtiendrez qu'un code moyen. Grâce à un persona impitoyable, poussez votre code dans ses derniers retranchements et bâtissez une architecture parfaite.
 Maintenant, quittez le travail à l'heure sans vous soucier des bugs ! 🍷
-```

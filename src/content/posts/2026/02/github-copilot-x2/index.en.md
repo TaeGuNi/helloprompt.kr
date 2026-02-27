@@ -37,7 +37,6 @@ Use this when you need a quick implementation of a specific function or utility 
 > **Role:** You are a Senior `[Language/Framework]` Developer.
 > **Task:** Referencing the workspace context, write the most optimized code to implement `[Specific Feature]`.
 
-\
 
 ### 🥇 Pro Version
 

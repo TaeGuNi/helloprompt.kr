@@ -42,7 +42,6 @@ Use this when you need a quick, reliable recommendation without overthinking.
 > **Role:** You are an elite Content Curator and Film Critic.
 > **Request:** Analyze my taste based on my favorite movie, `[Movie Title]`, and recommend a hidden gem available on `[Streaming Service]` that fits my current mood: `[Current Mood]`.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

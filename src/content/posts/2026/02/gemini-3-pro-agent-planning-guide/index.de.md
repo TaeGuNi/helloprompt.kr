@@ -46,7 +46,6 @@ Nutzen Sie diese Version, wenn Sie in einem Meeting schnell das Grundgerüst ein
 > **Aufgabe:** Basierend auf der folgenden `[Idee]` für einen KI-Agenten, nenne mir 3 unverzichtbare Kernfunktionen und 1 potenzielles Problem bei der Entwicklung.
 > **Idee:** `[Beschreiben Sie hier den Agenten, den Sie erstellen möchten]`
 
-\
 
 ### 🥇 Pro Version (Experten-Version - Optimiert für Deep Think)
 

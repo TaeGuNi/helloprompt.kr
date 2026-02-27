@@ -42,7 +42,6 @@ Utilize esta versão quando precisar apenas de um cálculo rápido e direto do s
 > **Papel:** Você é um `[Consultor Financeiro]` focado em finanças minimalistas.
 > **Tarefa:** Aplique a regra de orçamento 50/30/20 na minha renda mensal de `[R$ 5.000,00]` e divida os valores para mim.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

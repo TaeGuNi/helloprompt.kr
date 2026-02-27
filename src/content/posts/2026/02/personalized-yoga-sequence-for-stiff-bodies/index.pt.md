@@ -42,7 +42,6 @@ Ideal para quando você precisa de uma rotina rápida e sem complicações.
 > **Papel:** Você é um instrutor de yoga especializado em reabilitação e iniciantes.
 > **Pedido:** Crie uma sequência de yoga de 10 minutos muito suave para uma pessoa com o corpo extremamente rígido que trabalha o dia todo sentada.
 
-\
 
 ### 🥇 Versão Pro (Expert)
 

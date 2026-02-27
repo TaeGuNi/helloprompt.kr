@@ -42,7 +42,6 @@ Usala quando hai solo bisogno di un'ispirazione rapida per sbloccare la creativi
 > **Ruolo:** Sei un geniale scrittore di gialli, con la mente di Agatha Christie e la logica di Keigo Higashino.
 > **Richiesta:** Progetta un ingegnoso trucco della stanza chiusa e un alibi perfetto per un omicidio in `[Luogo del delitto]`, assicurandoti che la risoluzione sia estremamente complessa.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

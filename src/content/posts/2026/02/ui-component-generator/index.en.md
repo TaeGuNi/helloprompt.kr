@@ -42,7 +42,6 @@ Use this when you just need a quick scaffolding or a simple result.
 > **Role:** You are an expert UI/UX designer and a senior frontend developer.
 > **Request:** Quickly generate a UI component based on my description using my preferred tech stack (e.g., React, Tailwind CSS).
 
-\
 
 ### 🥇 Pro Version (Expert)
 

@@ -44,7 +44,6 @@ Use this prompt when you are struggling to structure your initial color palette 
 > I want to divide the `[Primary (Blue)]`, `[Secondary (Gray)]`, and `[Error (Red)]` colors into 9 steps each, from 100 to 900.
 > Please recommend the hex codes for each step in a table format, along with intuitive and semantic variable names (e.g., `text-primary`, `bg-surface-default`) so that these colors can be directly applied to the codebase.
 
-\
 
 ### 🥇 Pro Version
 

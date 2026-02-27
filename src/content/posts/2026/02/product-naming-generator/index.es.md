@@ -42,7 +42,6 @@ El mayor dolor de cabeza antes de lanzar un nuevo producto es, sin duda, el _nam
 > **Rol:** Eres un `[Consultor Experto en Naming y Branding]` con 20 años de experiencia. Eres un maestro en juegos de palabras y tendencias del mercado.
 > **Solicitud:** Crea 5 opciones de nombres atractivos y pegadizos para un `[producto/servicio]` dirigido a `[público objetivo]`.
 
-\
 
 ### 🥇 Versión Pro (Profesional)
 

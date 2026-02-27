@@ -38,7 +38,6 @@ Idéal pour obtenir une vue d'ensemble rapide de la tendance.
 > **Rôle :** Tu es un `[Analyste Tech]`.
 > **Tâche :** Rédige une synthèse concise expliquant le succès des `[Lunettes Intelligentes Meta]` et l'évolution du marché de `[l'IA Wearable]`.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

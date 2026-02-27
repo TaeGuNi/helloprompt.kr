@@ -42,7 +42,6 @@ Use this when you want a quick, straightforward diagnosis of your current postur
 > **Role:** You are a personal trainer with 10 years of experience.
 > **Task:** The attached video shows my `[squat]` posture. Identify any incorrect movements that could lead to injury and rate my form out of 10.
 
-\
 
 ### 🥇 Pro Version
 

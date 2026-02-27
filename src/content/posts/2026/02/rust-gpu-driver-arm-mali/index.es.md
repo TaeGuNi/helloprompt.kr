@@ -40,7 +40,6 @@ El ecosistema de Rust se está expandiendo rápidamente hacia la programación d
 > **Rol:** Eres un ingeniero de sistemas experto en Rust y Linux.
 > **Tarea:** Explícame qué es el controlador de GPU 'Tyr' para Arm Mali y por qué usar Rust es una ventaja en este caso.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

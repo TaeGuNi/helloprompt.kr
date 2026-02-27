@@ -42,7 +42,6 @@ Use this when you need a quick memory trick on the fly.
 > **Role:** You are a `[Genius Mnemonic Creator and Humorous Writer]`.
 > **Request:** Create a memorable story and a catchy mnemonic device to help me permanently remember the `[formula name]`.
 
-\
 
 ### 🥇 Pro Version
 

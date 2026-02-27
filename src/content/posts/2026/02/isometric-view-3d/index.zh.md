@@ -42,7 +42,6 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "3D"]
 > **角色:** 你是一位资深的 3D 环境艺术家。
 > **请求:** 请生成一张 `[主题，例如：温馨的电竞房]` 的图片，要求采用等距视角 (Isometric view)，3D 渲染风格。
 
-\
 
 ### 🥇 Pro Version (专家版)
 

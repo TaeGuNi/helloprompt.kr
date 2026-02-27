@@ -38,7 +38,6 @@ Use esta versão quando precisar testar rapidamente a estrutura central da lógi
 > **Role (Papel):** Você é um `[Engenheiro Sênior de Sistemas Embarcados]`.
 > **Task (Tarefa):** Escreva o código de um `[Banco de Dados Vetorial Header-only]` em C puro, sem nenhuma dependência externa. É obrigatório incluir uma função de busca utilizando Similaridade por Cosseno.
 
-\
 
 ### 🥇 Versão Pro
 

@@ -42,7 +42,6 @@ Los registros se convierten en un activo a medida que se acumulan, pero si solo 
 > **Rol:** Eres un analista de datos y consejero psicológico.
 > **Petición:** Extrae el Top 5 de los sustantivos y adjetivos que más aparecen en el texto del diario de una semana que he subido. Basándote en estas palabras, resume en una sola línea cuál es mi estado psicológico actual.
 
-\
 
 ### 🥇 Pro Version (Versión Profesional)
 

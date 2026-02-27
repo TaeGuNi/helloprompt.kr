@@ -42,7 +42,6 @@ Idéale pour obtenir un résultat rapide sans s'attarder sur les détails techni
 > **Rôle :** Tu es un photographe professionnel expert en portraits.
 > **Demande :** Génère l'image d'un sujet principal parfaitement net avec un arrière-plan très flou contenant de magnifiques orbes de lumière (effet bokeh).
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 

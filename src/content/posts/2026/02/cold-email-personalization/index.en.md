@@ -43,7 +43,6 @@ Best for quickly breaking the ice and initiating a conversation.
 > **Task:** Analyze the following text written by a target prospect, and recommend 3 natural and engaging icebreaker sentences to use as the opening for a cold email.
 > **Prospect's Content:** `[Paste the prospect's LinkedIn post or interview article here]`
 
-\
 
 ### 🥇 Pro Version
 

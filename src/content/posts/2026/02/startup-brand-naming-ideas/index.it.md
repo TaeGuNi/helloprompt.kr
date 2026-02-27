@@ -43,7 +43,6 @@ Usala quando hai bisogno di un'ispirazione rapida senza troppi dettagli.
 >
 > **Richiesta:** Devo lanciare un `[tuo servizio/prodotto]`. Genera 10 idee di nomi originali, brevi e facili da ricordare, fornendo una breve spiegazione del significato per ciascuno.
 
-\
 
 ### 🥇 Versione Pro (Expert Version)
 

@@ -43,7 +43,6 @@ Use esta versão para obter um cálculo rápido e direto.
 > **Papel:** Você é um consultor financeiro especialista em gestão de risco.
 > **Solicitação:** Calcule o tamanho ideal do meu fundo de emergência para garantir estabilidade financeira em caso de desemprego repentino ou acidentes.
 
-\
 
 ### 🥇 Versão Especialista (Pro Version)
 

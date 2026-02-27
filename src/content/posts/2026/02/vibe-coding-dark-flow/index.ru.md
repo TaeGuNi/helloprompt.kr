@@ -85,10 +85,9 @@ tags: [AI, coding, productivity, prompt-engineering, psychology]
 >
 > - **Фрагмент кода:**
 >
-> ```plaintext
+>
 > [Вставьте сюда код для проверки]
-> ```
-
+>
 ---
 
 ## 💡 Комментарий автора (Insight)

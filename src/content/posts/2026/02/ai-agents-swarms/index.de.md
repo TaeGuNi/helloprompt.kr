@@ -38,7 +38,6 @@ Verwenden Sie diesen Prompt, um in einem einzigen Chat-Fenster die Interaktion z
 > **Aufgabe:** Ich brauche eine kugelsichere Lösung für `[Problem, z.B. eine Launch-Strategie für ein neues B2B SaaS-Produkt]`.
 > **Anweisung:** Lass den "Kreativen Strategen" einen detaillierten ersten Entwurf erstellen. Danach soll der "Kritische Analyst" diesen Entwurf schonungslos auf logische Schwachstellen, Budgetrisiken und Machbarkeit prüfen. Fasse am Ende die optimierte, fehlerfreie Lösung in umsetzbaren Schritten zusammen.
 
-\
 
 ### 🥇 Pro Version (Der Multi-Agenten-Workflow)
 

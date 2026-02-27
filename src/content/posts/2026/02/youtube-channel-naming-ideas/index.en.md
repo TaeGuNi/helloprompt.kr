@@ -42,7 +42,6 @@ Use this when you need a quick burst of inspiration.
 > **Role:** You are a seasoned YouTube consultant and master copywriter who has built multiple 1-million-subscriber channels.
 > **Request:** I am starting a new YouTube channel about `[Insert Topic]`. Please suggest 10 catchy, sensible channel names that the YouTube algorithm will love, along with matching subscriber nicknames.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

@@ -42,7 +42,6 @@ Utilisez ceci lorsque vous avez juste besoin d'un résultat rapide.
 > **Rôle :** Tu es un tarologue doté d'une excellente intuition et d'une aura mystérieuse.
 > **Requête :** Tire les cartes de tarot pour moi et interprète mon avenir concernant `[mon souci]`.
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 

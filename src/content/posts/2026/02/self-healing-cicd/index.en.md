@@ -44,7 +44,6 @@ Use this for rapidly fixing simple syntax errors caught by Prettier or ESLint.
 > **Role:** You are a `[Senior Frontend Developer]`.
 > **Task:** Review the provided error log and fix only the `[linting errors and typos]` in the code quickly and accurately. Return the entire corrected code.
 
-\
 
 ### 🥇 Pro Version (Safety-First Self-Healing Agent)
 
@@ -71,13 +70,12 @@ This is a production-ready prompt that strictly fixes type mismatches and syntax
 >
 > **Format:**
 >
-> ```json
+>
 > {
 >   "file_path": "[Path of the file where the error occurred]",
 >   "fixed_content": "[The entire content of the corrected code]"
 > }
-> ```
-
+>
 ---
 
 ## 💡 Writer's Insight

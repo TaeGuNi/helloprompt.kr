@@ -39,7 +39,6 @@ Use this for a quick architectural sanity check or initial modeling.
 > **Role:** You are a Senior Distributed Systems Architect.
 > **Task:** Model a `[Microservice Interaction involving an LLM]` using a basic Petri Net structure. Define the Places (states) and Transitions (actions/LLM decisions).
 
-\
 
 ### 🥇 Pro Version
 

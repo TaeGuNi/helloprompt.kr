@@ -43,7 +43,6 @@ Use this when you need an on-the-spot compatibility check for your existing `doc
 >
 > **Task:** Convert my existing Docker command or script `[Insert your docker run command/script here]` so that it works perfectly in Podman's Rootless mode. Specifically, identify potential errors related to network bridges and volume mount permissions (including SELinux) and provide the exact solutions.
 
-\
 
 ### 🥇 Pro Version (docker-compose → K8s Migration)
 
@@ -66,9 +65,9 @@ A powerful prompt designed to seamlessly transition your production `docker-comp
 >
 > - Target Environment: `[e.g., AWS EC2 t3.medium, 4GB RAM]`
 > - Existing docker-compose.yml:
->   ```yaml
+>
 >   [Paste your existing docker-compose.yml content here]
->   ```
+>
 >
 > **Constraints:**
 >

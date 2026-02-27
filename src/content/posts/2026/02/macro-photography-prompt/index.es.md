@@ -43,7 +43,6 @@ La **Fotografía Macro** es una técnica fascinante que magnifica enormemente a 
 > **Rol:** Eres un fotógrafo experto en fotografía macro.
 > **Solicitud:** Crea una imagen macro que capture detalles diminutos e imperceptibles a simple vista de un insecto, con un enfoque extremadamente nítido.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

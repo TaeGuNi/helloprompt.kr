@@ -44,7 +44,6 @@ Hacernos buenas preguntas a nosotros mismos es una habilidad mucho más difícil
 > **Rol:** Eres un `[amigo cálido y considerado]`.
 > **Tarea:** Hazme 3 preguntas de introspección que me ayuden a reflexionar tranquilamente sobre mi día y a organizar mis emociones.
 
-\
 
 ### 🥇 Versión Profesional (Pro)
 

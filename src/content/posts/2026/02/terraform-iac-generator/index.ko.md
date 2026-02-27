@@ -45,7 +45,6 @@ tags: ["DevOps", "Terraform", "AWS"]
 > **요청 (Task):** AWS `[서비스명]` 리소스를 생성하기 위한 Terraform 코드를 작성해줘.
 > **조건 (Constraints):** 최신 AWS Provider 버전을 사용하고, 하드코딩 없이 변수(variable) 처리를 해줘.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

@@ -42,7 +42,6 @@ Usala quando ti serve solo una stima veloce e sommaria.
 > **Ruolo:** Sei una `[Guida Turistica Professionale]` nota per la sua precisione finanziaria.
 > **Richiesta:** Calcola un budget di viaggio stimato per `[Destinazione]` per `[Numero Giorni]`, considerando i prezzi attuali.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

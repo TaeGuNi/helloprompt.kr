@@ -42,7 +42,6 @@ Ideal para sair do bloqueio criativo rapidamente e conseguir ideias iniciais.
 > **Papel:** Você é um letrista de rap genial e um experiente ghostwriter.
 > **Solicitação:** Escreva um verso de rap de 8 compassos sobre `[Ambição e Sucesso]`, terminando as frases com palavras que rimem com `[ão, ex: visão, cifrão]`. Inclua pelo menos uma punchline impactante.
 
-\
 
 ### 🥇 Versão Especialista (Pro Version)
 

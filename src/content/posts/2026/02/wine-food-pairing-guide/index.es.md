@@ -48,7 +48,6 @@ Esta es la situación más común. Úsala cuando ya tienes decidida la comida y 
 2. Selecciona variedades populares y fáciles de beber para un principiante en vinos.
 3. Explica en una sola oración por qué cada vino combina bien con esta comida.
 
-\
 
 ### 🥇 Versión Pro (Análisis Preciso de Preferencias)
 

@@ -42,7 +42,6 @@ Nutzen Sie diese Version, wenn Sie nur schnell die Hauptprobleme Ihrer aktuellen
 > **Rolle:** Du bist ein Fitnesstrainer mit 10 Jahren Berufserfahrung.
 > **Aufgabe:** Das angehängte Video zeigt meine `[Kniebeugen]`-Haltung. Finde fehlerhafte Bewegungen, die ein Verletzungsrisiko darstellen, und bewerte meine Ausführung auf einer Skala von 1 bis 10.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

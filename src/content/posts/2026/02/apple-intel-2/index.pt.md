@@ -48,7 +48,6 @@ Use isso quando precisar de um resumo rápido do que está na tela ou das notifi
 > **Role (Papel):** Você é minha assistente pessoal de alta eficiência.
 > **Task (Tarefa):** Resuma as informações principais do que está na tela agora em apenas 3 tópicos curtos.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

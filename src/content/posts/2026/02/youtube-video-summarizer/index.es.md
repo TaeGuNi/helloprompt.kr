@@ -44,7 +44,6 @@ Combinando la función de **Transcripción (Subtítulos)** de YouTube con un pro
 > **Rol:** Eres un experto en resumir contenido de forma rápida y precisa.
 > **Tarea:** El siguiente texto es la transcripción de un video de YouTube. Omite cualquier charla innecesaria y resume el tema central y la conclusión más importante en exactamente 3 líneas claras y concisas.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

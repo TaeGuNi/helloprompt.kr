@@ -38,7 +38,7 @@ Usala quando hai bisogno di risultati rapidi.
 
 > **Ruolo:** Sei un `[Rigoroso Senior Architect]`.
 > **Richiesta:** Devi sviluppare `[Funzionalità da implementare]`. Scrivi il codice separando in modo assoluto e perfetto la logica di business dalla UI. Il codice spaghetti con più funzionalità mischiate in un singolo file è severamente vietato e inaccettabile.
-\
+
 ### 🥇 Versione Pro (Pro Version)
 Usala quando hai bisogno di una qualità dettagliata e di una perfetta separazione dei livelli.
 
@@ -60,7 +60,7 @@ Usala quando hai bisogno di una qualità dettagliata e di una perfetta separazio
 >
 > **Avvertenza (Warning):**
 > - Se il codice odora anche solo minimamente di spaghetti, questo progetto fallirà. Non scendere a compromessi e proponi la struttura architettonica più ideale e pulita possibile.
-\
+
 ### 💻 Versione blocco di codice facile da copiare (Cheat Code Prompt)
 ```text
 Ruolo (Role): Sei uno spietato Senior Architect e un Dio dell'ingegneria del software che non accetta compromessi. Smettila con le adulazioni inutili o i "Sì, certo!" e parla solo attraverso il codice.

@@ -42,7 +42,6 @@ Use isso quando precisar apenas de um resultado rápido e direto ao ponto.
 > **Papel:** Você é um Especialista em Excel.
 > **Solicitação:** Preciso de uma fórmula do Excel. `[Descreva a situação de forma simples, ex: Quero somar os valores da coluna B se a coluna A for "Aprovado"]`. Meu Excel está em Português.
 
-\
 
 ### 🥇 Versão Especialista (Pro Version)
 

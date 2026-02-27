@@ -42,7 +42,6 @@ Use this when you need a quick, simple bedtime story.
 > **Role:** You are a child psychologist and expert storyteller.
 > **Request:** Write a short, encouraging story to help a child overcome their fear of going to the dentist tomorrow. Make it fun and empowering.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

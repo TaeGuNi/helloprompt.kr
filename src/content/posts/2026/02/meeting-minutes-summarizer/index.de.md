@@ -43,7 +43,6 @@ Nutzen Sie diese Variante, wenn Sie unter Zeitdruck stehen und nur die wichtigst
 > **Aufgabe:** Fasse das folgende Meeting-Transkript prägnant zusammen. Extrahiere die wichtigsten Kernpunkte und Entscheidungen in Stichpunkten.
 > **Eingabe:** `[Hier das Transkript einfügen]`
 
-\
 
 ### 🥇 Pro Version (Für professionelle Protokolle)
 

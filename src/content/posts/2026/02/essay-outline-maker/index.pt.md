@@ -42,7 +42,6 @@ Use esta versão quando precisar apenas de uma estrutura rápida sem muitas exig
 > **Papel:** Você é um `[Autor Best-seller e Treinador Profissional de Redação]`.
 > **Solicitação:** Estou com bloqueio criativo. Defina uma estrutura lógica (Introdução-Desenvolvimento-Conclusão) e sugira as ideias centrais de cada parágrafo para o tema: `[Insira seu tema aqui]`.
 
-\
 
 ### 🥇 Versão Pro (Especialista)
 

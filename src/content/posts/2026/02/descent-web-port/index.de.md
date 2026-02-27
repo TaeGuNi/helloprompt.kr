@@ -42,7 +42,6 @@ Nutzen Sie diesen Prompt, um einen schnellen Überblick über eine bestimmte Dat
 > **Aufgabe:** Erkläre mir, wie die folgende Code-Datei aus dem Descent-Web-Port funktioniert und welche Rolle sie im Rendering-Prozess spielt.
 > **Code:** `[Fügen Sie hier den Quellcode der Datei ein]`
 
-\
 
 ### 🥇 Pro Version (Architektur-Tauchgang)
 

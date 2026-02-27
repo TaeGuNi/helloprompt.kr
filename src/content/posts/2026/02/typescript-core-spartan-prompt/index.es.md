@@ -45,7 +45,7 @@ Copiar el texto original del prompt básico:
 **Tarea:** Resuelve `[Problema y código a refactorizar]`. Usa obligatoriamente pnpm en lugar de npm, prohíbe el uso de any y valida con zod. Configura Biome para el linting y Vitest para las pruebas.
 ```
 
-\
+
 ### 🥇 Versión Profesional (Pro Version)
 Este es el cheat code perfecto para arrastrar y forzar a la IA a hacer las cosas bien cuando hace el scaffolding de un proyecto completo o diseña lógica de negocio compleja.
 

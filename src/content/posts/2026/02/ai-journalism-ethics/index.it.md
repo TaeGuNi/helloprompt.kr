@@ -46,7 +46,6 @@ Usa questa versione per bozze rapide basate su fatti accertati e comunicati stam
 > **Ruolo:** Sei un `[giornalista professionista e imparziale]`.
 > **Compito:** Scrivi un breve articolo di cronaca sui `[fatti forniti]`. Attieniti rigorosamente ed esclusivamente a queste informazioni, senza aggiungere opinioni personali, commenti o speculazioni.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

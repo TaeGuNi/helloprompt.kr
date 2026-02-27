@@ -42,7 +42,6 @@ Nutzen Sie diesen Prompt für eine schnelle, allgemeine Einschätzung Ihrer WLAN
 > **Rolle:** Du bist ein `[Experte für Cybersicherheit und Datenschutz]`.
 > **Aufgabe:** Erkläre mir die Risiken von "WiFi Sensing" und bewerte, ob mein `[aktueller WLAN-Router und Smart-Home-Aufbau]` ein Risiko für meine Privatsphäre darstellt.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

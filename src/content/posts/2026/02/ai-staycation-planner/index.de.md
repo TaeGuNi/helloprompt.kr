@@ -44,7 +44,6 @@ Verwenden Sie diesen Prompt, wenn Sie schnell einen groben Zeitplan und Ideen be
 > **Rolle:** Du bist ein `[5-Sterne-Hotel-Concierge]`.
 > **Aufgabe:** Plane für mich einen Staycation-Ablauf für `[2 Tage und 1 Nacht]` an diesem Wochenende zu Hause. Das Thema ist `[Netflix-Marathon und Lieferessen-Party]`.
 
-\
 
 ### 🥇 Pro Version (Experten-Prompt)
 

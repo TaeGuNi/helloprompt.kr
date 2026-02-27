@@ -44,7 +44,6 @@ Utiliza esta versión cuando necesites un resultado rápido, pero estés dispues
 > **Rol:** Eres un `[Crítico de Cine Emocional]`.
 > **Solicitud:** Escribe una reseña de una sola línea sobre la película `[Avengers: Endgame]`. Haz que suene muy emotiva y épica.
 
-\
 
 ### 🥇 Pro Version (Versión Experto - Few-Shot)
 
@@ -116,7 +115,6 @@ A menudo, los usuarios intentan explicar el humor: _"Sé gracioso, pero no sarc�
 IA: Avengers: Endgame es una película increíblemente conmovedora y épica que cierra maravillosamente una década de historias de Marvel. La escena donde todos los héroes se reúnen para la batalla final te dejará sin aliento y con lágrimas en los ojos.
 ```
 
-\
 
 ### ✅ Después (Few-Shot: Usando los ejemplos proporcionados)
 

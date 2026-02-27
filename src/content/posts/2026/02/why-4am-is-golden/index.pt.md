@@ -42,7 +42,6 @@ Ideal para quando você precisa de um planejamento rápido e sem complicações.
 > **Função:** Você é um especialista em produtividade e gerenciamento de tempo.
 > **Tarefa:** Crie uma rotina matinal das 4h às 6h da manhã para me ajudar a focar em `[Meu Objetivo Principal]`. Divida os blocos de tempo em intervalos de 20 a 30 minutos.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

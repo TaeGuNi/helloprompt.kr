@@ -44,7 +44,6 @@ El método obsoleto del pasado. La calidad del resultado dependerá de la suerte
 > **Rol:** Eres un blogger de tecnología.
 > **Tarea:** Escribe un artículo comparando los lenguajes Rust y Go. Hazlo entretenido.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

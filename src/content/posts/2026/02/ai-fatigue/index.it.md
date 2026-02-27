@@ -41,7 +41,6 @@ Usa questo prompt per capire se un task ha _davvero_ bisogno dell'IA o se stai s
 > **Ruolo:** Sei un consulente di produttività minimalista.
 > **Azione:** Analizza questo task: `[inserisci il tuo task/progetto]`. Dimmi in 3 punti se l'uso dell'IA mi farà risparmiare tempo o se aggiungerà solo "attrito cognitivo", suggerendo l'approccio più semplice possibile.
 
-\
 
 ### 🥇 Pro Version (Sistema di Filtro Anti-Hype)
 

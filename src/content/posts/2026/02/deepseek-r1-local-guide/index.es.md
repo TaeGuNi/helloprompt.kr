@@ -53,7 +53,6 @@ curl -fsSL https://ollama.com/install.sh | sh
 2. Haz clic en `Download for Windows`.
 3. Ejecuta el instalador descargado.
 
-\
 
 ### 🥈 Paso 2: Invocar a DeepSeek R1 (Básico / Pro)
 
@@ -63,20 +62,17 @@ Ahora, vamos a descargar y ejecutar el modelo. Elige la versión que mejor se ad
 >
 > Funciona fluidamente en MacBooks con chip M1/M2 y en laptops estándar.
 >
-> ```bash
+>
 > ollama run deepseek-r1:8b
-> ```
+>
 >
 > **Versión Pro (Modelo 70B): Para PC de Gama Alta / Chips M3 Max**
 >
 > Requiere 32GB o más de memoria RAM. Ofrece capacidades de razonamiento a la altura de GPT-4.
 >
-> ```bash
+>
 > ollama run deepseek-r1:70b
-> ```
-
-\
-
+>
 ### 🥇 Paso 3: Integración Pro (VS Code)
 
 Interactuar desde la terminal está bien para pruebas, pero para un flujo de trabajo profesional, vamos a integrarlo en **VS Code** para que actúe como tu Copilot personal.

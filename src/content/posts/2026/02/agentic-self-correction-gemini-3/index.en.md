@@ -45,7 +45,6 @@ Use this when you need a quick, self-corrected result without complex guardrails
 > **Role:** You are a `[Senior Backend Engineer]`.
 > **Task:** Write a function that `[merges two sorted lists]`. After writing the code, actively critique it to identify potential bugs or inefficiencies, and then provide the final, refined code based on your critique.
 
-\
 
 ### 🥇 Pro Version
 
@@ -77,9 +76,9 @@ Use this for production-grade code quality and rigorous edge-case defense.
 >
 > ## 1. Initial Draft
 >
-> ```python
+>
 > (Initial Draft Code)
-> ```
+>
 >
 > ## 2. Self-Critique
 >
@@ -88,10 +87,9 @@ Use this for production-grade code quality and rigorous edge-case defense.
 >
 > ## 3. Final Polished Code
 >
-> ```python
+>
 > (Final Refined Code)
-> ```
-
+>
 ---
 
 ## 💡 Writer's Insight

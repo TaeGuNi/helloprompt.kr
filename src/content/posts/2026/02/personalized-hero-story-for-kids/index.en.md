@@ -42,7 +42,6 @@ Use this when you need a fun story in seconds right before bedtime.
 > **Role:** You are an award-winning children's book author known for writing stories that inspire hope and courage.
 > **Request:** Write a short, personalized adventure story featuring a child named `[Child's Name]` as the brave protagonist who saves the day.
 
-\
 
 ### 🥇 Pro Version (Expert Crafting)
 

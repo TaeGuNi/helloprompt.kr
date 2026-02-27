@@ -49,7 +49,6 @@ Use este prompt quando a bagunça estiver fora de controle e você precisar de u
 > **Papel:** Você é um especialista em recreação infantil e gamificação.
 > **Solicitação:** Sugira 3 estratégias em formato de jogo para fazer duas crianças limparem um quarto extremamente bagunçado em apenas 10 minutos, sem que percebam que estão fazendo uma tarefa doméstica.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

@@ -42,7 +42,6 @@ Usa questa versione quando vuoi capire rapidamente la causa di un guasto o otten
 > **Ruolo:** Sei un esperto `[idraulico/elettricista/interior designer]` con 30 anni di esperienza.
 > **Compito:** C'è un problema con `[zona della casa o elettrodomestico]`. I sintomi sono `[descrizione dettagliata del sintomo]`. Qual è la causa? Dammi 3 metodi passo-passo, in ordine di semplicità, per risolverlo da solo senza chiamare un tecnico. Se necessario, consigliami gli strumenti che posso acquistare in una ferramenta locale o in un negozio di bricolage.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

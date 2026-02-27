@@ -37,7 +37,6 @@ Nutzen Sie diese Version, um schnell den Kern umfangreicher Dokumente zu erfasse
 > **Rolle:** Du bist ein Senior Data Analyst.
 > **Aufgabe:** Lies alle angehängten Dokumente und fasse die 5 wichtigsten Kern-Erkenntnisse (Insights) zusammen.
 
-\
 
 ### 🥇 Pro Version (Für Experten)
 

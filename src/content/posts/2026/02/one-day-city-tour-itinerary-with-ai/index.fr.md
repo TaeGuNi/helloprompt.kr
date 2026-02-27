@@ -43,7 +43,6 @@ Une journée dans une ville inconnue passe à une vitesse folle. Si votre itiné
 > **Rôle :** Tu es un guide touristique local expert à `[Nom de la Ville]` avec 20 ans d'expérience.
 > **Demande :** Conçois-moi un itinéraire d'une journée complète et optimisée pour visiter `[Nom de la Ville]`, en évitant les allers-retours inutiles. Je veux vivre cette journée comme un vrai local !
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 

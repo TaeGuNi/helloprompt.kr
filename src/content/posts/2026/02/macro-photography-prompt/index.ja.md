@@ -42,7 +42,6 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Details"]
 > **役割:** あなたはプロのネイチャーカメラマンです。
 > **リクエスト:** `[被写体]` の目に見えない微細なディテールまで捉えた、マクロ（接写）撮影の画像生成プロンプトを作成してください。
 
-\
 
 ### 🥇 Pro Version (専門家形)
 

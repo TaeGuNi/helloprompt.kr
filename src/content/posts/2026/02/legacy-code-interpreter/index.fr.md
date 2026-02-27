@@ -43,7 +43,6 @@ Utilisez cette version pour obtenir une analyse rapide d'un extrait de code.
 > **Demande :** Analyse le code suivant, qui ne possède aucune documentation, et explique-le en termes simples.
 > **Code :** `[Insérez le code ici]`
 
-\
 
 ### 🥇 Pro Version (Version Experte)
 

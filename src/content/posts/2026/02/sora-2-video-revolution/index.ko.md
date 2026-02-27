@@ -53,7 +53,6 @@ tags: ["Sora 2.0", "AI Video", "Prompt Engineering", "Content Creation"]
 > - 조명은 보라색과 금색 톤이 섞인 무드 있고 시네마틱한 느낌을 유지할 것.
 > - 영상 내 텍스트나 로고 오버레이는 절대 넣지 말 것.
 
-\
 
 ### 🥇 Pro Version (영화적 숏폼 스토리텔링)
 
@@ -83,7 +82,6 @@ tags: ["Sora 2.0", "AI Video", "Prompt Engineering", "Content Creation"]
 > - 로봇의 금속 질감과 빛나는 파란색 눈동자 등 캐릭터 디테일이 영상 내내 뭉개지지 않고 일관되게 유지되어야 함.
 > - 화면 비율(Aspect Ratio)은 16:9로 고정할 것.
 
-\
 
 ### 🎨 Creative Version (추상적 아트 비디오)
 

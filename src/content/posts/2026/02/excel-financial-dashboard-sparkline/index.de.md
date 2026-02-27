@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt, wenn Sie eine schnelle Anleitung ohne viele Erklär
 > **Rolle:** Du bist ein erstklassiger `[Datenvisualisierungs-Experte]`.
 > **Anfrage:** Zeige mir, wie ich eine unübersichtliche Excel-Tabelle mit Verkaufsdaten in ein visuelles Dashboard verwandle. Erkläre mir kurz die Nutzung von Sparklines und der Bedingten Formatierung für eine bessere Übersicht.
 
-\
 
 ### 🥇 Pro Version (Expertenmodus)
 

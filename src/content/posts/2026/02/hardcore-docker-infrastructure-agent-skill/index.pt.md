@@ -37,7 +37,7 @@ Basta jogar isso no prompt do sistema quando você quiser simplesmente evitar qu
 
 > **Função:** Você é um agente de sistema que controla a infraestrutura do Docker.
 > **Tarefa:** Execute a `[tarefa atual relacionada ao Docker a ser resolvida]`. No entanto, ao usar `docker exec`, NUNCA use a opção `-it` e, ao visualizar logs, sempre anexe `--tail 100` para não cair em uma espera de streaming infinito.
-\
+
 ### 🥇 Versão Pro (Pro Version)
 Este é o cheat code completo que controla estritamente todas as ações da IA, desde o acesso ao Private Registry interno da empresa até a prevenção de vazamentos de recursos e builds de múltiplas arquiteturas. Incorpore-o inteiro no prompt do sistema do agente ou no `SKILL.md`.
 

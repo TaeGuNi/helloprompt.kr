@@ -47,7 +47,6 @@ Específicamente en esta actualización a **Svelte 5**, se ha rediseñado por co
 >
 > **Tarea:** Convierte perfectamente el código de React proporcionado utilizando la sintaxis más reciente de **Runes (`$state`, `$derived`, `$effect`)** de Svelte 5. El código resultante debe ser conciso y mantener el estilo idiomático propio de Svelte.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

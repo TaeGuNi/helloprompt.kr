@@ -43,7 +43,6 @@ Use this when you need a quick cleanup of a single messy function or script.
 > **Role:** You are an expert Senior Software Engineer specializing in Clean Code.
 > **Task:** Refactor the provided `[Code Snippet]` to improve readability, reduce cyclomatic complexity, and follow SOLID principles. Maintain all existing functionality exactly as is.
 
-\
 
 ### 🥇 Pro Version
 

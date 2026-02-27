@@ -39,7 +39,6 @@ tags: ["AI Trends", "System Prompt", "Prompt Engineering", "2026"]
 > **역할:** 너는 수석 프롬프트 엔지니어(Senior Prompt Engineer)야.
 > **요청:** 내가 만들고 싶은 AI 봇의 목적은 `[AI 봇의 목적]`이야. 이를 위한 완벽한 시스템 프롬프트를 `<system>`, `<role>`, `<constraints>`, `<instructions>` XML 태그를 사용해서 작성해줘.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

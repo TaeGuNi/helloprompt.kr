@@ -44,7 +44,6 @@ Ideale per una rapida correzione o per fare pratica su argomenti semplici.
 > **Ruolo:** Sei un insegnante madrelingua di `[Lingua target]`.
 > **Azione:** Conversa con me al livello `[Tuo livello, es. A2]`. Correggi ogni mio errore grammaticale o lessicale prima di rispondere alla mia frase. Iniziamo, fammi la prima domanda!
 
-\
 
 ### 🥇 Versione Pro (Expert Version)
 

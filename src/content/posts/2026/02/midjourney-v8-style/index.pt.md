@@ -39,7 +39,6 @@ Use isso diretamente no Discord ou na versão Web do Midjourney quando já tiver
 > **Prompt:**
 > `/imagine prompt: [O que desenhar, ex: Um robô tomando café em uma cidade cyberpunk] --sref [URL DA IMAGEM DE REFERÊNCIA] --sw 800 --v 8`
 
-\
 
 ### 🥇 Versão Pro (Gerador de Múltiplos Prompts para Ativos de Marca)
 

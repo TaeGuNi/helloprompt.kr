@@ -42,7 +42,6 @@ Use this when you need a quick cleanup for a small, isolated function.
 > **Role:** You are an expert Software Engineer.
 > **Task:** Refactor the following `[Language]` code to make it more readable, efficient, and maintainable. Briefly explain the changes you made.
 
-\
 
 ### 🥇 Pro Version
 

@@ -42,7 +42,6 @@ Usala quando hai bisogno di una panoramica super veloce su un settore.
 > **Ruolo:** Sei un Senior Industry Analyst presso una società di consulenza strategica globale (es. McKinsey, BCG).
 > **Richiesta:** Analizza il potenziale di crescita del settore `[Inserisci Settore, es. Robotica Umanoide]` e suggerisci le principali aziende correlate che ne beneficeranno.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

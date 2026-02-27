@@ -42,7 +42,6 @@ Utilisez cette version pour obtenir un résultat immédiat sans détails complex
 > **Rôle :** Tu es un coach expert en gestion du temps et un assistant de direction professionnel.
 > **Requête :** J'ai beaucoup de tâches à accomplir cette semaine et je n'arrive pas à m'organiser. Aide-moi à créer un planning hebdomadaire parfait basé sur mes priorités.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

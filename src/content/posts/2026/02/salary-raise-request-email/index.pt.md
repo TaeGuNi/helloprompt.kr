@@ -48,7 +48,6 @@ Use esta versão quando precisar de um rascunho rápido para se inspirar.
 > **Role:** Você é um especialista em comunicação corporativa e recursos humanos.
 > **Task:** Escreva um e-mail para o meu chefe solicitando uma reunião de negociação salarial. O tom deve ser educado, profissional e focado em apresentar meus resultados recentes de forma sutil, sem gerar desconforto.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

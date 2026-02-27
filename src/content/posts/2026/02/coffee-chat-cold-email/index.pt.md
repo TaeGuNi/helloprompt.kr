@@ -42,7 +42,6 @@ Use quando precisar de uma estrutura rápida e direta.
 > **Papel:** Você é um profissional educado e excelente em networking.
 > **Tarefa:** Escreva uma DM (Mensagem Direta) fria, educada e persuasiva para pedir conselhos de carreira a um profissional experiente da minha área. A mensagem deve aumentar as chances de resposta sem parecer invasiva.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

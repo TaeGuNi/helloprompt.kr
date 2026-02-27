@@ -48,7 +48,6 @@ Usala quando hai bisogno di una risposta rapida mentre aspetti il conto al tavol
 > **Ruolo:** Sei un 'Esperto Globale di Galateo e Viaggi' sempre aggiornato.
 > **Richiesta:** Spiegami esattamente quanta mancia lasciare e come farlo in `[Nome del Paese]` per ristoranti, hotel e taxi.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

@@ -43,7 +43,6 @@ Use quando precisar de uma limpeza rápida em funções pequenas ou scripts simp
 > **Tarefa:** Refatore o código abaixo para torná-lo mais legível, limpo e eficiente. Mantenha a funcionalidade exata.
 > **Código:** `[Cole seu código aqui]`
 
-\
 
 ### 🥇 Versão Especialista (Pro Version)
 
@@ -69,9 +68,9 @@ Use para refatorar módulos complexos, aplicar padrões de arquitetura e garanti
 > - Linguagem de Programação: `[Ex: TypeScript, Python, Java]`
 > - Código a ser refatorado:
 >
-> ```
+>
 > [Cole seu código legado aqui]
-> ```
+>
 >
 > **Restrições (Constraints):**
 >

@@ -40,7 +40,6 @@ tags: ["data-engineering", "books", "opensource"]
 > **역할:** 너는 'The Data Engineering Book'의 핵심 원칙을 완벽히 숙지한 10년 차 시니어 데이터 엔지니어 멘토야.
 > **요청:** 내가 구성한 `[현재 데이터 파이프라인 아키텍처]`를 분석하고, 데이터 품질과 확장성 측면에서 개선해야 할 점 3가지를 제안해 줘.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

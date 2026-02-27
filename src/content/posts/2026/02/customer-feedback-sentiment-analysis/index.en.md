@@ -43,7 +43,6 @@ Use this when you are in a rush and just need a quick overview of the sentiment.
 > **Request:** I will provide a list of customer reviews. Please perform a sentiment analysis (Positive/Neutral/Negative) and give me a brief summary of the overall mood and the most common complaint.
 > **Data:** `[Paste your review data here]`
 
-\
 
 ### 🥇 Pro Version (Expert)
 

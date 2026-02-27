@@ -40,7 +40,6 @@ tags: ["AI", "Tech", "local-llm-ollama"]
 > **启动：** 打开终端 (Terminal)，输入 `ollama run qwen2.5:7b`（以通义千问 7B 模型为例，系统会自动下载并运行）。
 > **测试：** 当出现输入提示符时，向它提问：“请用一句话解释什么是本地大模型。”
 
-\
 
 ### 🥇 Pro Version (专业版：定制专属模型系统提示词)
 
@@ -57,7 +56,7 @@ tags: ["AI", "Tech", "local-llm-ollama"]
 >
 > 1. 请在本地目录创建一个名为 `Modelfile` 的文件。
 > 2. 将以下内容复制并粘贴到文件中：
->    ```text
+>
 >    FROM qwen2.5:7b
 >    SYSTEM """
 >    你是一名资深的信息安全专家兼高级代码审查员。
@@ -68,7 +67,7 @@ tags: ["AI", "Tech", "local-llm-ollama"]
 >    3. ✨ 优化建议：提供更优雅的重构思路。
 >    请保持专业、客观，并且必须使用中文回复。
 >    """
->    ```
+>
 > 3. 在终端运行指令，构建你的定制模型：`ollama create my-reviewer -f ./Modelfile`
 > 4. 运行你的专属代码审查模型：`ollama run my-reviewer`
 >

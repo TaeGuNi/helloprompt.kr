@@ -42,7 +42,6 @@ Idéal pour un nettoyage rapide d'un texte généré par l'IA.
 > **Rôle :** Tu es un `[Rédacteur en chef expert]`.
 > **Requête :** Réécris ce `[texte généré par l'IA]` pour supprimer tous les clichés de l'IA (ex: "Dans un monde en constante évolution...", "Il est important de noter que...") et rends-le plus naturel, direct et humain.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

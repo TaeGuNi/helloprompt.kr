@@ -42,7 +42,6 @@ Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 > **Rolle:** Du bist ein erfahrener Weltenbummler und ein Meister des Packens.
 > **Anfrage:** Erstelle mir eine makellose Pack-Checkliste für meine Reise, die das lokale Wetter, die Kultur und meine Aktivitäten berücksichtigt.
 
-\
 
 ### 🥇 Pro-Version (Expert)
 

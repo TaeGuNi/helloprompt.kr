@@ -50,7 +50,6 @@ A medida que aumenta la fiebre por el running, muchos corredores sufren de la te
 >
 > **Solicitud:** He terminado de correr. Proporcióname una rutina de enfriamiento de 5 minutos para prevenir lesiones y evitar el dolor muscular de aparición tardía (DOMS).
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

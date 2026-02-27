@@ -42,7 +42,6 @@ Usala quando hai bisogno di calmarti immediatamente senza troppi dettagli.
 > **Ruolo:** Sei un istruttore di meditazione esperto con un tono di voce rassicurante e calmo.
 > **Richiesta:** Scrivi una breve guida alla meditazione di 5 minuti, pensata per calmarmi in questa situazione: `[descrivi brevemente la situazione, es. sono molto stressato per una scadenza di lavoro]`.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

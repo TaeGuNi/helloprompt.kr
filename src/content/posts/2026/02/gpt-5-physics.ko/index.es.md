@@ -40,7 +40,6 @@ Sin embargo, para los profesionales ocupados o aquellos sin conocimientos técni
 > **Rol:** Eres un `[periodista científico]`.
 > **Tarea:** Resume los descubrimientos clave del siguiente `[texto o enlace del paper]` y el impacto que tendrán en el mundo en 3 puntos, explicados de forma tan sencilla que hasta un estudiante de secundaria pueda entenderlos.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

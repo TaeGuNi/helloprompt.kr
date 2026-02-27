@@ -43,7 +43,6 @@ Utilisez cette version pour obtenir un plan rapidement et sans fioritures.
 
 > **Demande :** Crée-moi un plan d'article de blog optimisé pour le SEO sur le sujet `[Mot-clé]`. Utilise une structure que l'algorithme de Google privilégie.
 
-\
 
 ### 🥇 Version Pro (Expert)
 
@@ -111,7 +110,6 @@ Je vais écrire un article pour recommander des applications de dessin sur iPad.
 
 _(Résultat typique : Une simple liste de 5 applications sans aucune considération pour les critères de choix, les alternatives gratuites ou les questions fréquentes des internautes.)_
 
-\
 
 ### ✅ Après (Résultat avec le prompt Pro)
 

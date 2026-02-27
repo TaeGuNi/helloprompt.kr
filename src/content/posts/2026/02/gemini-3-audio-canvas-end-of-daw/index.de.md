@@ -48,7 +48,6 @@ Ideal für schnelle Änderungen an bestimmten Sound-Passagen oder zum Skizzieren
 > **Rolle:** Du bist ein professioneller Sounddesigner für das `[Genre]`.
 > **Aufgabe:** Entferne das `[bestimmtes Instrument/Geräusch]` in dem hochgeladenen Track im Zeitraum von `[Startzeit]` bis `[Endzeit]` und ersetze es durch `[neuer Sound]`.
 
-\
 
 ### 🥇 Pro Version
 

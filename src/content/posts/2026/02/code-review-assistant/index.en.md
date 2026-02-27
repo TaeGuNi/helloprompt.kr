@@ -43,12 +43,9 @@ Use this when you need a quick scan for critical issues.
 > **Role:** You are a Senior Backend/Frontend Developer with 10 years of experience.
 > **Task:** Review the code below and find any critical bugs or anti-patterns that need immediate improvement.
 > 
-> ```plaintext
+>
 > [Paste your code here]
-> ```
-
-\
-
+>
 ### 🥇 Pro Version
 
 Recommended when you want to elevate your code to production-level quality and secure objective reasoning for your refactoring.
@@ -63,9 +60,9 @@ Recommended when you want to elevate your code to production-level quality and s
 > 
 > **Input Code:**
 > 
-> ```plaintext
+>
 > [Paste the code to be reviewed here]
-> ```
+>
 > 
 > **Task:**
 > 

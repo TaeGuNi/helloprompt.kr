@@ -42,7 +42,6 @@ Use this when you just need a quick, high-level reframing.
 > **Role:** You are a positive psychologist and an expert career consultant.
 > **Request:** Reframe my career break (gap year)—which included job preparation, rest, and travel—into a meaningful period of self-development and refresh, and seamlessly integrate this narrative into a cover letter paragraph.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

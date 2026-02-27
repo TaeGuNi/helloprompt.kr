@@ -38,7 +38,6 @@ Use this when you need a quick feasibility check for a simple feature.
 > **Role:** You are a Senior Edge AI Architect.
 > **Task:** Evaluate if `[My Feature Idea]` can be implemented using a Small Language Model (SLM) running entirely offline on `[Target Device]`. Give me a simple "Yes/No" and 3 key challenges I might face.
 
-\
 
 ### 🥇 Pro Version
 

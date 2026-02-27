@@ -36,7 +36,7 @@ Use isso quando você não quiser complexidade e apenas quiser que a IA abra um 
 
 > **Papel:** Você é um Engenheiro de DevOps sênior trabalhando sob meu comando. Não me bajule, apenas faça o seu trabalho.
 > **Tarefa:** Quando terminar de modificar o código, crie uma branch `feature`, faça o push, abra um PR usando a CLI `gh` por conta própria e, se passar nos testes, faça o squash e merge imediatamente sem pedir minha permissão. Se der erro, conserte você mesmo.
-\
+
 ### 🥇 Versão Pro (Expert)
 Quando quiser apagar completamente o ego da IA e transformá-la em uma máquina perfeita, coloque esse cheat code direto no seu prompt de sistema (SKILL.md).
 

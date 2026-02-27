@@ -42,7 +42,6 @@ Verwenden Sie dies, wenn Sie schnell ein solides, traditionell wirkendes Ergebni
 > **Rolle:** Du bist ein erfahrener Ukiyo-e-Künstler aus der Edo-Zeit.
 > **Anfrage:** Zeichne ein Bild von `[Ihr Motiv, z.B. einer Katze vor dem Fuji]` im traditionellen japanischen Holzschnitt-Stil (Woodblock print).
 
-\
 
 ### 🥇 Pro Version (Expertenform)
 

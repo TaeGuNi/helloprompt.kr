@@ -45,7 +45,6 @@ Este prompt transforma una petición vaga como "levanta un EC2 y conéctalo a un
 > **Tarea:** Escribe el código Terraform necesario para crear el recurso `[nombre del servicio]` en AWS.
 > **Restricciones:** Utiliza la versión más reciente del AWS Provider y parametriza todo usando variables, sin dejar valores "hardcodeados".
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

@@ -39,7 +39,7 @@ Usalo quando hai bisogno di abbozzare rapidamente la struttura del codice o per 
 > **Ruolo:** Sei un esperto di architetture di sistema. Ometti i commenti positivi inutili e forniscimi solo il codice.
 > **Richiesta:** Rivedi `[codice/file]`, rimuovi tutti i `console.log` e sostituiscili completamente con un logging strutturato in JSON basato su Pino/Winston. Se si tratta di frontend, applica gli Error Boundary.
 
-\
+
 ### 🥇 Versione Pro (Esperto)
 Questa è la versione completa da usare quando hai bisogno di un sistema di tracciamento degli errori impeccabile e di un logging integro. Riprogramma letteralmente la struttura mentale dell'AI. 
 Per facilitare il copia e incolla, è fornito anche nel blocco di codice Markdown qui sotto.

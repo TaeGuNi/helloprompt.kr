@@ -42,7 +42,6 @@ Ideal para quando você precisa de uma visão geral em poucos segundos.
 > **Papel:** Você é um analista financeiro sênior de Wall Street.
 > **Solicitação:** Analise a demonstração financeira a seguir e resuma os 3 principais pontos positivos e os 3 principais riscos para um investidor iniciante.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

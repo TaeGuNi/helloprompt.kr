@@ -42,7 +42,6 @@ When you need a quick cleanup without overthinking it.
 > **Role:** You are a Senior Software Architect.
 > **Task:** Refactor the following code to make it clean, readable, and highly maintainable.
 
-\
 
 ### 🥇 Pro Version
 

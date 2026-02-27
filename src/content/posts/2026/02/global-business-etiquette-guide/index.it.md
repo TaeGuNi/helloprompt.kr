@@ -48,7 +48,6 @@ Usala quando hai bisogno di informazioni essenziali e veloci prima di una riunio
 > **Ruolo:** Sei un "Consulente Aziendale Internazionale" con 20 anni di esperienza.
 > **Richiesta:** Spiegami brevemente l'etichetta aziendale essenziale per un incontro di lavoro in `[Nome Paese]`, concentrandoti su saluti, scambio di biglietti da visita e argomenti da evitare assolutamente.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

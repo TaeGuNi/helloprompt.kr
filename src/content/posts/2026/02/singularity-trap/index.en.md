@@ -41,7 +41,6 @@ Use this when you need a fast reality check on an AI news article or product lau
 > **Role:** You are a skeptical, highly experienced tech journalist and AI researcher.
 > **Task:** Analyze the following `[Press Release / Article]`. Separate the actual, verifiable technological advancements from the marketing hype, speculation, and "Singularity" narratives. Give me a bulleted list of what is real and what is just noise.
 
-\
 
 ### 🥇 Pro Version
 

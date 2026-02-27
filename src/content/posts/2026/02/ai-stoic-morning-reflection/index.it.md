@@ -44,7 +44,6 @@ Usa questa versione quando hai bisogno di calmare l'ansia rapidamente.
 > **Ruolo:** Sei un saggio filosofo stoico.
 > **Azione:** Attualmente mi sento in ansia a causa di `[inserisci la tua preoccupazione]`. Dammi un consiglio dalla prospettiva della filosofia stoica.
 
-\
 
 ### 🥇 Versione Pro (Pro Version)
 

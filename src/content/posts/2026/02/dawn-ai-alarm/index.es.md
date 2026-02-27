@@ -44,7 +44,6 @@ Con este prompt, la IA generará un guion de "llamada de atención" personalizad
 > **Rol:** Eres un sargento instructor de motivación implacable.
 > **Tarea:** Escribe un breve y contundente mensaje de buenos días de 3 líneas para despertarme. Mi objetivo principal es `[Tu objetivo, ej: aprobar el examen de abogacía en 3 meses]`. No seas amable, sé directo.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

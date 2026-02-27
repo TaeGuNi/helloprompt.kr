@@ -43,7 +43,6 @@ Use this for a quick, casual breakdown of your dream.
 > **Task:** Interpret the following dream and explain its possible meanings.
 > **Dream:** `[Insert what you dreamed about here]`
 
-\
 
 ### 🥇 Pro Version
 

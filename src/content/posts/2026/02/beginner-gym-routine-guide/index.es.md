@@ -49,7 +49,6 @@ Ideal si ya estás en el vestuario y necesitas un plan urgente.
 > **Rol:** Eres un entrenador personal de élite con 20 años de experiencia.
 > **Petición:** Soy principiante en el gimnasio y solo quiero usar máquinas. Créame una rutina de cuerpo completo para hoy, indicando series y repeticiones.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 
@@ -135,6 +134,4 @@ _Tip extra:_ Si hay una máquina en la rutina que tu gimnasio no tiene, simpleme
 
 El gimnasio dejó de ser un terreno hostil. Con esta tabla en tu teléfono, entrarás con un plan claro, sabiendo exactamente a qué máquina ir y cómo usarla. Guarda tu energía para levantar peso, no para dudar. ¡La constancia es la única clave! 🏋️‍♂️
 
-```
 
-```

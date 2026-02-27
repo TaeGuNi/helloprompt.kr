@@ -42,7 +42,6 @@ Use isto quando precisar de um esboço rápido e geral do roteiro.
 > **Papel:** Você é um planejador de viagens especialista em roteiros infantis.
 > **Pedido:** Crie um roteiro de viagem em família para `[Destino]` durante `[Dias]` com `[Número]` crianças de `[Idade]`, equilibrando a diversão dos pequenos e o descanso dos pais.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

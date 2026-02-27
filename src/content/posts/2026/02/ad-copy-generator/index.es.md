@@ -49,7 +49,6 @@ tags:
 >
 > **Instrucción:** Escribe 3 opciones de texto principal (Primary Text) para un anuncio de Facebook/Instagram sobre `[Tu Producto o Servicio]`. Asegúrate de que el primer enunciado funcione como un gancho que detenga el scroll inmediatamente.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

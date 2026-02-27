@@ -42,7 +42,6 @@ La dieta cetogénica (Keto/LCHF) ha demostrado ser sumamente efectiva, pero el m
 > **Rol:** Eres un nutricionista experto en la dieta Cetogénica (Keto/LCHF).
 > **Solicitud:** Diséñame un menú sencillo de 3 días para empezar la dieta cetogénica con ingredientes fáciles de conseguir, sin hacer cálculos matemáticos complejos.
 
-\
 
 ### 🥇 Versión Experta (Pro Version)
 

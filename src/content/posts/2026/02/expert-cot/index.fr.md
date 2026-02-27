@@ -44,7 +44,6 @@ Utilisez cette approche lorsque vous avez besoin d'un résultat rapide sans entr
 > **Rôle :** Tu es un `[Chef de Projet Senior (PM)]` expert en détection d'erreurs logiques.
 > **Requête :** `[Le calendrier de notre projet est chaotique]`. Trouve une solution claire en réfléchissant étape par étape.
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 

@@ -43,7 +43,6 @@ Use this when you want a quick, high-level overview of how WASM and Three.js com
 > **Role:** You are a Senior WebGL Developer and Game Engine Architect.
 > **Task:** Analyze the source code structure of the web-based `[Descent Port]` and explain the high-level data flow between the WASM module and Three.js rendering engine in simple terms.
 
-\
 
 ### 🥇 Pro Version
 

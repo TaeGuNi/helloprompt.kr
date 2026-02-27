@@ -42,7 +42,6 @@ Usala quando hai poco tempo e ti serve un risultato diretto.
 > **Ruolo:** Sei un esperto di comunicazione aziendale e negoziazione.
 > **Richiesta:** Scrivi una breve email per sollecitare un partner commerciale che non risponde da 3 giorni riguardo a `[Nome Progetto]`. Mantieni un tono molto cortese e professionale, ma ricorda chiaramente la scadenza.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

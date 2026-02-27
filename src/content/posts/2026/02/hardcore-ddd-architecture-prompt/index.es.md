@@ -35,7 +35,6 @@ Es hora de detener la adulación ciega de la IA y forzar una 'Clean Architecture
 Úsala cuando solo necesites resultados rápidos.
 > **Rol:** Eres un `[Arquitecto Senior estricto]`.
 > **Tarea:** Voy a crear `[la función a implementar]`. Quiero que escribas el código separando completamente la lógica de negocio y la interfaz de usuario. No toleraré código espagueti donde múltiples funcionalidades se mezclen en un solo archivo.
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 Úsala cuando necesites una calidad detallada y una separación de capas perfecta.
@@ -57,7 +56,6 @@ Es hora de detener la adulación ciega de la IA y forzar una 'Clean Architecture
 >
 > **Advertencia (Warning):**
 > - Si el código huele mínimamente a espagueti, este proyecto fracasará. No hagas concesiones y presenta la arquitectura más limpia e ideal posible.
-\
 
 ### 💻 Versión en bloque de código fácil de copiar (Cheat Code Prompt)
 ```text

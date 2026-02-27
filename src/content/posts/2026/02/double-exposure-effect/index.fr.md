@@ -42,7 +42,6 @@ Idéal lorsque vous souhaitez un résultat rapide et esthétique sans vous perdr
 > **Rôle :** Tu es un artiste numérique expert en surréalisme.
 > **Demande :** Génère une image en double exposition : la silhouette de profil d'une femme remplie par une forêt étoilée, le tout sur un fond blanc.
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 

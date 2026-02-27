@@ -42,7 +42,6 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Retro"]
 > **역할:** 너는 `[레트로 아트 디렉터]`야.
 > **요청:** `[80년대 신스웨이브(Synthwave) 스타일의 네온빛 자동차 일러스트]`를 그려줘. 주된 색상은 보라색과 핑크색으로 하고, 격자무늬 바닥과 야자수를 필수로 포함해 줘.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

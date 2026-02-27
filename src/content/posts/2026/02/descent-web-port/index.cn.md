@@ -43,7 +43,6 @@ cover: "./cover.png"
 > **角色:** 你是一位资深的 Web 前端架构师。
 > **任务:** 请简要分析《Descent》Web 移植版项目（结合了 Three.js 和 WASM），说明 C++ 代码是如何编译并在浏览器中与 JavaScript 协同工作的。
 
-\
 
 ### 🥇 Pro Version (专家版)
 

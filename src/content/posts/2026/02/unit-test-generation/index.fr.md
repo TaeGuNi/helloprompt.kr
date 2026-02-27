@@ -42,7 +42,6 @@ Utilisez cette version lorsque vous avez besoin d'un résultat rapide sans entre
 > **Rôle :** Tu es un `[Ingénieur QA Senior]`.
 > **Demande :** Rédige des tests unitaires exhaustifs pour la fonction `[Nom de la fonction]`, en incluant les cas nominaux et les cas limites.
 
-\
 
 ### 🥇 Version Pro (Expert)
 
@@ -111,7 +110,6 @@ function divide(a, b) {
 }
 ```
 
-\
 
 ### ✅ Après (La Magie du Prompt QA)
 

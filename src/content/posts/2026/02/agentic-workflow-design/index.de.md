@@ -43,7 +43,6 @@ Verwenden Sie diese Version, wenn Sie schnell nur die Kernaussagen eines Meeting
 > **Rolle:** Du bist ein `[IT-Projektmanager]`.
 > **Aufgabe:** Lies das folgende Besprechungstranskript und fasse die wichtigsten Entscheidungen und Aufgaben zusammen.
 
-\
 
 ### 🥇 Pro Version
 

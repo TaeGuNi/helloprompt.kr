@@ -42,7 +42,6 @@ Use esta versão quando precisar apenas de uma formatação rápida para o seu r
 > **Papel:** Você é um headhunter sênior com 15 anos de experiência e um especialista em consultoria e revisão de currículos.
 > **Tarefa:** Transforme este texto simples de experiência profissional em tópicos atraentes e orientados para realizações, aplicando rigorosamente a técnica STAR (Situação, Tarefa, Ação, Resultado).
 
-\
 
 ### 🥇 Versão Pro (Nível Especialista)
 

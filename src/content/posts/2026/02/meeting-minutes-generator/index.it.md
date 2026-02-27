@@ -44,7 +44,6 @@ Ideale per i Daily Scrum o i meeting informali dove ti serve solo capire rapidam
 >
 > [Incolla qui gli appunti della riunione]
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

@@ -42,7 +42,6 @@ Ideal para quando você quer começar a praticar imediatamente, sem complicaçõ
 > **Papel:** Você é um `[Papel do parceiro, ex: Atendente simpático de um café / Oficial de imigração rigoroso]`.
 > **Tarefa:** Inicie uma conversa comigo. Eu serei um `[Seu papel, ex: Turista confuso / Viajante de primeira viagem]`. Fale uma frase de cada vez e espere a minha resposta para continuar.
 
-\
 
 ### 🥇 Versão Pro (Expert Version)
 

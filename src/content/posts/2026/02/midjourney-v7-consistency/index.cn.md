@@ -40,7 +40,6 @@ tags: ["AI", "Tech", "midjourney-v7-consistency"]
 > **要求:** 帮我生成带有角色参考的基础绘图提示词。
 > **公式:** `[画面主体描述]` --cref `[你的角色图片URL]`
 
-\
 
 ### 🥇 Pro Version (专业版)
 

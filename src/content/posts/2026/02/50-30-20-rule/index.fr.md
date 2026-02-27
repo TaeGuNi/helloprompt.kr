@@ -42,7 +42,6 @@ Utilisez cette version pour obtenir un calcul immédiat sans détails superflus.
 > **Rôle :** Tu es un `[Coach financier]` adepte du minimalisme.
 > **Demande :** Applique la règle budgétaire des 50/30/20 sur mon revenu mensuel net de `[Insérez votre montant]`.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

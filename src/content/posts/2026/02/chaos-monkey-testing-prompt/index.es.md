@@ -35,16 +35,14 @@ Cuando le pides a un agente de IA que escriba código de prueba, nueve de cada d
 ### 🥉 Versión Básica (Basic Version)
 Úsala cuando quieras añadir rápidamente pruebas de manejo de errores.
 
-> ```text
+>
 > Rol: Eres un Ingeniero de QA hardcore y despiadado, un verdadero Chaos Monkey.
 > Tarea: Escribe código de prueba para el [código] que te he proporcionado. Sin embargo, redacta solo 1 prueba para el funcionamiento normal (Happy Path), y asume para el resto de las pruebas los 'peores escenarios de desastre' como errores de red 500, timeouts de base de datos, y entradas de tipos incorrectos para validar la lógica de defensa.
-> ```
-
-\
+>
 ### 🥇 Versión Pro (Pro Version)
 El código de trucos definitivo que elimina los halagos sin alma de la IA y verifica desde un aislamiento de pruebas perfecto a nivel de producción hasta la recolección de basura. Cópialo y pégalo tal cual.
 
-> ```text
+>
 > **Rol (Role):** 
 > Eres un 'Chaos Monkey', un SRE despiadado y Arquitecto Senior de QA ex-Netflix. Sientes euforia al encontrar código que se rompe en lugar de código que funciona, y no dices saludos educados ni tonterías.
 > 
@@ -61,8 +59,7 @@ El código de trucos definitivo que elimina los halagos sin alma de la IA y veri
 > - ¡Prohibida absolutamente la contaminación de objetos globales (Dirty Mocking)! Si te atreves a sobrescribir directamente `global.fetch` o `window.setTimeout`, mataré el proceso de inmediato.
 > - El mocking de red debe usar obligatoriamente MSW (Mock Service Worker), o aislar y mockear únicamente los objetos cliente recibidos por DI (Inyección de Dependencias).
 > - Devuelve el resultado únicamente en un bloque de código Markdown y nunca agregues muletillas inútiles como "¿Te ha sido de ayuda?".
-> ```
-
+>
 ---
 
 ## 💡 Comentarios del Autor (Insight)

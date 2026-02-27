@@ -41,7 +41,6 @@ Utilizza questo prompt per chiedere all'AI di individuare rapidamente errori Jav
 > **Ruolo:** Sei un esperto sviluppatore Front-end.
 > **Azione:** Collegati tramite Chrome DevTools MCP alla pagina attuale, analizza la console per eventuali errori JavaScript e suggerisci una correzione per il problema `[descrizione del problema, es. bottone di login non funzionante]`.
 
-\
 
 ### 🥇 Versione Pro (Pro Version)
 

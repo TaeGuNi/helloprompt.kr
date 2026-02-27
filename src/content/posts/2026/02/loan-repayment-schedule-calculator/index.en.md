@@ -42,7 +42,6 @@ Use this prompt when you just need the core formulas without the detailed breakd
 > **Role:** You are an `[Expert Financial Analyst]`.
 > **Request:** Provide the core Excel formulas to create a basic loan interest calculator, eliminating the need to use third-party banking websites.
 
-\
 
 ### 🥇 Pro Version (Expert Setup)
 
@@ -142,4 +141,3 @@ If you drag these formulas down, you will see that in the early periods, `IPMT` 
 Visually confronting the sheer volume of interest you pay over time can be a powerful catalyst for aggressively paying down debt. By using AI to instantly draft your Excel financial models, you take back control of your financial planning.
 
 Now, go map out your financial freedom! 🍷
-```

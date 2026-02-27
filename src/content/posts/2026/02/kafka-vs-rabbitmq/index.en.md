@@ -44,7 +44,6 @@ Use this when you need to quickly organize core concepts ahead of a team tech re
 > **Role:** You are a Senior Backend Architect with 10 years of experience.
 > **Task:** Explain the decisive differences between Kafka and RabbitMQ so that even a junior developer can understand. Specifically, summarize the core concepts focusing on two perspectives: **'Message Persistence'** and **'Consumption Model (Push vs. Pull)'**.
 
-\
 
 ### 🥇 Pro Version
 

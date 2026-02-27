@@ -43,7 +43,6 @@ Use this for a quick, high-level career positioning summary.
 > **Role:** You are a senior HR strategist at a top-tier tech company.
 > **Task:** Analyze my `[Job Title]` role and tell me 3 specific "human context" skills I need to focus on so that I cannot be replaced by AI, along with how I can use AI to accelerate my daily tasks.
 
-\
 
 ### 🥇 Pro Version
 

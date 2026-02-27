@@ -40,7 +40,6 @@ Utilisez ce prompt lorsque vous avez besoin d'une analyse rapide de la page actu
 > **Rôle :** Tu es un `[Ingénieur Frontend Senior]`.
 > **Tâche :** Utilise l'outil Chrome DevTools MCP pour `[inspecter les erreurs de la console sur la page actuelle]` et propose une solution pour résoudre les avertissements React.
 
-\
 
 ### 🥇 Pro Version (Version Expert)
 

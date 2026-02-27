@@ -43,7 +43,6 @@ Nutzen Sie diese Version, um schnell PR-Beschreibungen zu verfassen oder kleine 
 > **Rolle:** Du bist ein Senior Technical Writer.
 > **Aufgabe:** Analysiere den folgenden `[Git Diff]`, den ich gerade erstellt habe, und schreibe die Teile der `[README.md]` im Markdown-Format neu, die aktualisiert werden müssen. Ignoriere einfache Tippfehler oder reines Code-Refactoring.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

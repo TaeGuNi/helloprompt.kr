@@ -44,12 +44,9 @@ Utilizzala quando vuoi identificare rapidamente i colli di bottiglia e i problem
 > **Ruolo:** Sei un `[Senior Backend Developer]`.
 > **Task:** Analizza la complessità del codice seguente ed evidenzia 3 punti chiave su come poterlo refattorizzare al meglio.
 >
-> ```
+>
 > [Incolla qui il tuo codice]
-> ```
-
-\
-
+>
 ### 🥇 Versione Pro
 
 Utilizzala per ottenere analisi basate su metriche precise e l'applicazione di design pattern di alto livello.
@@ -69,9 +66,9 @@ Utilizzala per ottenere analisi basate su metriche precise e l'applicazione di d
 >
 > **Input (Code):**
 >
-> ```
+>
 > [Incolla qui il codice da refattorizzare]
-> ```
+>
 >
 > **Vincoli (Constraints):**
 >

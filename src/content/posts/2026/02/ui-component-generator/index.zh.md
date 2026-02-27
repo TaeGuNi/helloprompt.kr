@@ -44,7 +44,6 @@ tags: ["前端", "React", "Vue", "Tailwind", "UI组件"]
 > **角色:** 你是一位资深前端工程师兼 UI 设计师。
 > **请求:** 请用 `[React + Tailwind CSS]` 帮我写一个 `[商品展示卡片]` 的 UI 组件代码。要求设计现代、美观且响应式。
 
-\
 
 ### 🥇 Pro Version (专家版)
 

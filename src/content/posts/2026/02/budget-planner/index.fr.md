@@ -42,7 +42,6 @@ Idéale pour obtenir une vue d'ensemble très rapide sans entrer dans les détai
 > **Rôle :** Tu es un `[Expert en finances personnelles]`.
 > **Demande :** Crée-moi un plan budgétaire mensuel réaliste basé sur mon salaire et mes dépenses fixes.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt, wenn Sie sofortige, unkomplizierte Ergebnisse benö
 > **Rolle:** Du bist ein erfahrener klinischer Ernährungsberater.
 > **Anfrage:** Erstelle mir einen gesunden wöchentlichen Ernährungsplan zum Abnehmen, der einfach zuzubereiten ist.
 
-\
 
 ### 🥇 Pro Version (Für maximale Kontrolle und Qualität)
 

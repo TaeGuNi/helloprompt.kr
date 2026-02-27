@@ -42,7 +42,6 @@ Nombres comunes como 'Kim Cheol-su' o 'John Doe' destruyen el encanto y la inmer
 > **Rol:** Eres un novelista experto y un antropólogo especializado en onomástica.
 > **Solicitud:** Sugiere 5 nombres completos para un personaje con esta `[Personalidad/Rol]` en un entorno `[Época/Nacionalidad]`. Explica brevemente el significado de cada uno.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

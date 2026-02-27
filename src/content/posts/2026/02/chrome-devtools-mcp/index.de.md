@@ -43,7 +43,6 @@ Nutzen Sie diesen simplen Prompt, wenn Sie einen offensichtlichen Fehler auf der
 > **Rolle:** Du bist ein Senior Frontend Developer.
 > **Aufgabe:** Verbinde dich über den Chrome DevTools MCP-Server mit meinem aktiven Tab (`[URL der lokalen App]`). Prüfe die Console auf Errors und sag mir, warum die Seite abstürzt.
 
-\
 
 ### 🥇 Pro Version (Deep-Dive UI/UX Debugging)
 

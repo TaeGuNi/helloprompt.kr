@@ -43,7 +43,6 @@ Utilisez ce prompt lorsque vous souhaitez un diagnostic rapide et des conseils g
 
 > **Demande :** J'ai du mal à dormir ces derniers temps. Voici ma journée type : `[décrivez brièvement votre journée, par ex : café à 16h, écrans jusqu'à minuit]`. Analyse ce qui ne va pas et propose-moi 3 règles strictes pour mieux dormir.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

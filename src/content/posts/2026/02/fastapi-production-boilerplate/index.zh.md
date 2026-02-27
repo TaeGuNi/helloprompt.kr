@@ -42,7 +42,6 @@ tags: ["FastAPI", "Python", "백엔드", "비동기", "API"]
 > **角色：** 你是一名资深的 Python 后端开发者。
 > **请求：** 请使用 FastAPI 编写一个最基础的 `main.py` 代码，要求能够接收 `/items/{item_id}` 路径的 GET 请求，并处理可选查询参数 `q`。请在注释中包含用于运行的 `uvicorn` 命令。
 
-\
 
 ### 🥇 Pro Version (专业版)
 

@@ -43,7 +43,6 @@ Usala quando hai bisogno di un consiglio rapido e diretto per gestire la situazi
 > **Ruolo:** Sei un esperto in psicologia infantile e sviluppo sociale.
 > **Richiesta:** Fornisci un breve consiglio su come consolare e guidare un bambino che è rimasto ferito perché un amico si è rifiutato di giocare con lui.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

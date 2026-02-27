@@ -44,7 +44,6 @@ Use isto quando precisar refatorar rapidamente códigos complexos de notebook em
 > **Constraints (Restrições):** Defina claramente as tipagens dos argumentos (Arguments) e dos valores de retorno (Returns) da função. Inclua todas as bibliotecas necessárias com declarações `import` dentro do escopo da própria função.
 > **Input (Código):** `[Cole seu código de pré-processamento aqui]`
 
-\
 
 ### 🥇 Versão Pro (Design de Automação de Fluxo de Trabalho Completo)
 

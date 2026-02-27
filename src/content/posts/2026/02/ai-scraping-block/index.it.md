@@ -43,7 +43,6 @@ Usa questa versione per un'analisi rapida e diretta.
 > **Ruolo:** Sei un esperto di Web Scraping e Conformità Dati.
 > **Richiesta:** Analizza la policy del sito `[URL del sito]` e dimmi se posso raccogliere i loro dati per addestrare un modello AI in totale sicurezza.
 
-\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

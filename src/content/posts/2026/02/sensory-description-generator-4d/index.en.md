@@ -43,7 +43,6 @@ Use this when you need a quick, on-the-fly descriptive boost.
 > **Task:** Transform the following plain, explanatory sentence into a vivid, highly detailed description that engages all five senses (visual, auditory, olfactory, gustatory, tactile).
 > **Input:** `[Insert your basic sentence here]`
 
-\
 
 ### 🥇 Pro Version (Expert)
 

@@ -42,7 +42,6 @@ Usala quando hai bisogno di un'ispirazione rapida o di un asset semplice.
 > **Ruolo:** Sei un esperto di pixel art degli anni '90.
 > **Richiesta:** Crea un prompt per generare un'immagine in stile pixel art a 16-bit, evocando l'atmosfera nostalgica dei giochi arcade classici. Soggetto: `[Inserisci il tuo soggetto]`.
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

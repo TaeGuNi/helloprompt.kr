@@ -49,7 +49,6 @@ Use isto quando precisar de uma história rápida e simples para acalmar a crian
 > **Papel:** Você é um especialista em psicologia infantil e um contador de histórias mágico.
 > **Pedido:** Crie uma história curta e divertida para uma criança de 5 anos que está com muito medo de ir ao dentista. Mostre que o dentista é um herói que ajuda a derrotar os germes maus.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

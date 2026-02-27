@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt, wenn Sie schnell testen möchten, ob Ihre Idee grun
 > **Rolle:** Du bist ein professioneller Consultant für staatliche Startup-Förderprogramme.
 > **Aufgabe:** Fasse die Abschnitte **'Problembewusstsein (Problem)'** und **'Lösungsansatz (Solution)'** für meine Geschäftsidee `[Matching-App für Hunde-Spaziergänge]` in jeweils 3 stichpunktartigen, prägnanten Sätzen zusammen, die genau so in einem offiziellen Businessplan stehen könnten.
 
-\
 
 ### 🥇 Pro Version (Vollständige PSST-Struktur)
 

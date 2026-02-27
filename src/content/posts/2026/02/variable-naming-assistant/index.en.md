@@ -44,7 +44,6 @@ Use this when you are in a rush and just need a quick suggestion.
 > **Role:** You are an expert Software Engineer.
 > **Task:** Suggest 3 clear, idiomatic English variable/function names for the following situation: `[Describe what the code does]`.
 
-\
 
 ### 🥇 Pro Version (Expert Level)
 

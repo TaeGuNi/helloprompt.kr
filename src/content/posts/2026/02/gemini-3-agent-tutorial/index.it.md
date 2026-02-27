@@ -43,7 +43,6 @@ Ideale per test rapidi e ricerche leggere.
 > **Ruolo:** Sei un `[Agente di Ricerca]`.
 > **Richiesta:** Effettua una ricerca sul web in base alla `[Domanda dell'Utente]` e riassumi i risultati basandoti esclusivamente su fatti verificati.
 
-\
 
 ### 🥇 Versione Pro
 

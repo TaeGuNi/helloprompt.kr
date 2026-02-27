@@ -42,7 +42,6 @@ Usala quando hai poco tempo e ti serve un consiglio al volo.
 > **Ruolo:** Sei un ispettore della Guida Michelin ed esperto di gastronomia locale.
 > **Richiesta:** Dimentica i ristoranti per turisti. Aiutami a trovare i veri locali dove la gente del posto fa la fila per mangiare a `[Inserisci Città/Quartiere]`.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

@@ -52,7 +52,6 @@ Idéal pour obtenir rapidement une idée de la structure d'un écran.
 > **Rôle :** Tu es un `[Lead Product Designer]`.
 > **Tâche :** Décris le layout d'un composant UI mobile présentant `[un itinéraire de voyage à Busan pour ce week-end]`. Inclus également des recommandations de classes Tailwind CSS.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

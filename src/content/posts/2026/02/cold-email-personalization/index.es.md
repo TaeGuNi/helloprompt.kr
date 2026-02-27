@@ -43,7 +43,6 @@ Ideal para cuando necesitas iniciar una conversación rápidamente.
 > **Tarea:** Analiza el siguiente texto escrito por mi cliente objetivo y recomiéndame 3 frases rompehielos naturales e interesantes que pueda usar como saludo inicial en un correo en frío.
 > **Texto del cliente:** `[Copia y pega la publicación de LinkedIn o la entrevista del cliente]`
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

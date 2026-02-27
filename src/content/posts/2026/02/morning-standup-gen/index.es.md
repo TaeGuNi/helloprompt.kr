@@ -43,7 +43,6 @@ Todos hemos pasado por eso. La reunión de _Daily Stand-up_ (o Scrum) está a pu
 > **Tarea:** Convierte la siguiente lista de tareas y _commits_ de ayer en un guion claro de 3 puntos para mi reunión de _Daily Stand-up_.
 > **Datos:** `[Pega aquí tus notas sueltas o logs de git]`
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

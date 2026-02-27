@@ -40,7 +40,6 @@ tags: ["AI", "Tech", "generative-ui-2026"]
 > **請求:** 請根據使用者的輸入，決定要顯示哪個 UI 元件，並以 JSON 格式回傳。
 > **可用元件:** `["Text", "LineChart", "Button"]`
 
-\
 
 ### 🥇 Pro Version (專家型)
 

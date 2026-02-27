@@ -40,7 +40,6 @@ Verwenden Sie diese Version, wenn Sie nur schnell den Haupttext einer Webseite a
 > **Rolle:** Du bist ein professioneller "Digitaler Archivar".
 > **Aufgabe:** Entferne aus dem unten eingefügten, unstrukturierten Webseiten-Text jegliches Rauschen wie Menüs oder Werbung und fasse ausschließlich den informativen "Haupttext" sauber in Markdown zusammen.
 
-\
 
 ### 🥇 Pro Version (Für Experten)
 
@@ -62,9 +61,9 @@ Verwenden Sie diese Version, wenn Sie ein perfektes Archivdokument erstellen mö
 >
 > **Eingabedaten:**
 >
-> ```text
+>
 > [Fügen Sie hier den gesamten Webseiten-Text (Strg+A, Strg+C) oder den HTML-Quellcode ein]
-> ```
+>
 >
 > **Einschränkungen (Constraints):**
 >

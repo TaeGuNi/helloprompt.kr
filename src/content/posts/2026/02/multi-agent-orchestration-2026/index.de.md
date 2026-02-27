@@ -42,7 +42,6 @@ Nutzen Sie diese Version, wenn Sie schnell verschiedene Perspektiven und Ideen b
 > **Rolle:** Du bist ein erfahrener Projektmanager.
 > **Aufgabe:** Gib mir fundierte Einschätzungen zum `[Thema]` aus der Perspektive eines Planers, eines Entwicklers und eines Designers. Fasse diese anschließend zusammen und schlage die optimale Vorgehensweise vor.
 
-\
 
 ### 🥇 Pro Version (Für Experten)
 

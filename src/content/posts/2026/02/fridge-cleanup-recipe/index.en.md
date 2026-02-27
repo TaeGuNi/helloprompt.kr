@@ -42,7 +42,6 @@ Use this when you just need a quick, no-fuss recipe suggestion.
 > **Role:** You are a `[Creative Culinary Expert]`.
 > **Request:** I have `[List of ingredients]`. Give me a simple, delicious recipe I can make right now.
 
-\
 
 ### 🥇 Pro Version (Expert)
 
@@ -109,7 +108,6 @@ Leftover chicken, onion, sour kimchi, rice. What should I make? Tell me a recipe
 
 _(The AI often suggests generic fried rice or tells you to add things you don't have, like sesame seeds, scallions, or specific garnishes.)_
 
-\
 
 ### ✅ After (Result)
 

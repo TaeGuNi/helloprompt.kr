@@ -43,7 +43,6 @@ Use this for quick tests and lightweight searches.
 > **Role:** You are a `[Research Agent]`.
 > **Task:** Conduct a web search regarding the `[User Query]` and summarize the results strictly based on factual data.
 
-\
 
 ### 🥇 Pro Version
 

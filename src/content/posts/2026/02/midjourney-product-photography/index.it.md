@@ -43,7 +43,6 @@ Usa questo prompt quando hai bisogno rapidamente della forma base del tuo prodot
 
 > **/imagine prompt:** professional product photography of a **[Coffee Tumbler]**, studio lighting, white background, 8k, ultra detailed --v 7 --ar 3:4
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

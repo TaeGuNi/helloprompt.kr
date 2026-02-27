@@ -42,7 +42,6 @@ Nutzen Sie diese Version, um schnell die Ursache eines Problems zu finden oder e
 > **Rolle:** Du bist ein erfahrener `[Sanitär-/Elektro-/Innenausbau-]` Experte mit 30 Jahren Berufserfahrung.
 > **Aufgabe:** In meinem Zuhause gibt es ein Problem mit `[Defekter Ort oder Gerätename]`. Das Symptom ist `[Detaillierte Beschreibung des Symptoms]`. Erkläre mir die Ursache und nenne mir 3 einfache, schrittweise Lösungsansätze, wie ich das Problem selbst beheben kann, ohne einen Handwerker rufen zu müssen. Ordne sie vom leichtesten zum schwersten. Empfiehl mir bei Bedarf auch Werkzeuge, die ich im nächsten Baumarkt kaufen kann.
 
-\
 
 ### 🥇 Pro Version (Profi-Version)
 

@@ -42,7 +42,6 @@ Use esta versão quando quiser apenas apertar o 'play' e começar a suar sem pen
 > **Papel:** Você é um personal trainer especialista em Crossfit e HIIT, conhecido por treinos curtos e intensos.
 > **Pedido:** Crie um treino HIIT de 20 minutos focado em queima de gordura para ser feito em casa, sem equipamentos e sem saltos que façam barulho.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

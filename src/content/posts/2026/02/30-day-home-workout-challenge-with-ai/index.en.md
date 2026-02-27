@@ -49,7 +49,6 @@ Use this when you just need a quick, no-frills workout plan to get moving immedi
 > **Role:** You are an expert home fitness coach specializing in zero-equipment bodyweight training.
 > **Request:** I want to transform my body at home with no equipment. Design a 30-day bodyweight workout challenge for a beginner. The routine should change slightly every day to keep it interesting.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

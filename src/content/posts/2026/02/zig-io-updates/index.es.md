@@ -43,7 +43,6 @@ El ecosistema de entrada/salida (I/O) en Zig ha evolucionado de manera constante
 > **Rol:** Eres un `[Programador de Sistemas Zig]` Senior.
 > **Tarea:** Resume los cambios principales en la I/O asíncrona de Zig (`io_uring`, `IOCP`, `kqueue`) introducidos en la actualización de febrero de 2026 y escribe un ejemplo sencillo de un servidor de sockets asíncrono utilizando estas novedades.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

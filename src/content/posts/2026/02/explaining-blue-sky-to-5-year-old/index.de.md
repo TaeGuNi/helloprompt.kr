@@ -42,7 +42,6 @@ Nutzen Sie diese Variante, wenn Sie unter Zeitdruck stehen und sofort eine einfa
 > **Rolle:** Du bist ein empathischer Kindergartenpädagoge, der komplexe Wissenschaft spielend leicht erklärt.
 > **Aufgabe:** Erkläre einem 5-jährigen Kind, warum der Himmel blau ist, und nutze dabei eine kindgerechte Metapher ohne Fachbegriffe.
 
-\
 
 ### 🥇 Pro Version (Für Experten)
 

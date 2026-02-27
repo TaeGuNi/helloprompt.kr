@@ -43,7 +43,6 @@ Idéale pour obtenir des conseils rapides et généraux.
 > **Rôle :** Tu es un expert en survie par temps froid et un maître de l'optimisation de bagages.
 > **Demande :** Ma valise déborde à cause de mes vêtements d'hiver. Donne-moi tes meilleures astuces pour faire mes bagages efficacement.
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 

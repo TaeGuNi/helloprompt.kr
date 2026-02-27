@@ -42,7 +42,6 @@ Descubre cómo sumergirte en la historia mientras recorres los callejones de cua
 > **Rol:** Eres un experto 'Planificador de Tours de Narrativa Histórica' que conoce cada rincón de `[Nombre de la Ciudad]`.
 > **Solicitud:** Diséñame una ruta a pie gratuita y fascinante sobre `[Tema de interés]`. Incluye 3 o 4 paradas clave.
 
-\
 
 ### 🥇 Versión Pro (Expert Version)
 

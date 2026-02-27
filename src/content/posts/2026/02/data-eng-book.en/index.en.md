@@ -40,7 +40,6 @@ Use this when you need a quick architectural sanity check.
 > **Role:** You are a 10-year Senior Data Engineering Mentor who has completely mastered the core principles of 'The Data Engineering Book'.
 > **Task:** Analyze my `[Current Data Pipeline Architecture]` and suggest 3 critical improvements regarding data quality and scalability.
 
-\
 
 ### 🥇 Pro Version
 

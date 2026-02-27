@@ -43,7 +43,6 @@ Usa este prompt cuando quieras empezar a jugar rápidamente sin complicaciones.
 
 > **Instrucción:** Juguemos a las palabras encadenadas (la siguiente palabra debe empezar con la última sílaba o letra de la palabra anterior). Empieza tú. Por favor, usa palabras válidas y reconocidas en el idioma español.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

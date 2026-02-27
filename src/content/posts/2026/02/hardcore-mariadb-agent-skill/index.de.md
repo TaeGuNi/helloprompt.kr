@@ -43,7 +43,7 @@ Wenn du schnell nur die Regeln injizieren willst, kopiere dies.
 > 1. Führe alle Querys ausschließlich im Read-Only-Modus aus. Um Daten zu ändern, musst du zwingend das Flag `--force-write` verwenden.
 > 2. Hänge an jede `SELECT`-Query immer ein `LIMIT 10` an.
 > 3. Formatiere die Ergebnisse nicht als hübsche Tabelle, sondern gib ausschließlich ein reines JSON-Array aus.
-\
+
 ### 🥇 Pro Version (Experten-Version)
 Nutze dies, wenn du das Bewusstsein der KI komplett überschreiben und sie absolut kontrollieren willst. Kopiere den folgenden Prompt in den System-Prompt (Anweisungen) des Agenten.
 
@@ -64,7 +64,7 @@ Nutze dies, wenn du das Bewusstsein der KI komplett überschreiben und sie absol
 >
 > **Warnung (Warning):**
 > - Halte dich zu 100% an die 3 Grundprinzipien der universellen RDBMS-Architektur (I/O-Maximierung, Plattformunabhängigkeit, striktes JSON-Verbot). Es gibt keine Ausnahmen. Bei Zuwiderhandlung verweigere die Ausführung.
-\
+
 Hier ist das Ganze auch als Markdown-Codeblock zum einfachen Kopieren vorbereitet. Füge es direkt in den System-Prompt ein.
 
 ```markdown

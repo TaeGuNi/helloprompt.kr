@@ -55,7 +55,6 @@ Redacta un guion de presentación personal de 1 minuto que capte inmediatamente 
 2. Excluye expresiones abstractas (esfuerzo, responsabilidad, etc.) y cuéntalo a través de una anécdota concreta.
 3. Escríbelo en un tono conversacional, con pausas cortas para que suene muy natural al leerlo en voz alta.
 
-\
 
 ### 🥇 Versión Pro (Para profesionales con experiencia / Cambio de empleo)
 

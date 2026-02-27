@@ -60,12 +60,9 @@ Use isto quando quiser validar um código ou uma ideia que você já escreveu.
 >
 > **Código de Entrada:**
 >
-> ```javascript
+>
 > [Insira o snippet de código a ser revisado]
-> ```
-
-\
-
+>
 ### 🥇 Versão Pro (Prompt de Inquisidor de Arquitetura)
 
 Antes de implementar uma nova funcionalidade, use este prompt de 2 etapas para se forçar a avaliar os _trade-offs_.

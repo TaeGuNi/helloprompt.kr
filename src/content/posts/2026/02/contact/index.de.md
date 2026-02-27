@@ -39,7 +39,6 @@ Verwenden Sie diese Vorlage, wenn Sie uns schnell eine Frage stellen oder Feedba
 > **Empfänger:** support@helloprompt.kr
 > **Inhalt:** Beschreiben Sie hier frei auftretende Fehler, Verbesserungsvorschläge oder einfache Fragen zur Nutzung unseres Dienstes.
 
-\
 
 ### 🥇 Pro Version (B2B Partnership Prompt)
 

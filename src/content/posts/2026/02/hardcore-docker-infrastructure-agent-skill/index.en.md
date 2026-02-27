@@ -39,7 +39,6 @@ Toss this into your system prompt if you simply want to prevent your agent from 
 > **Role:** You are a system agent that controls Docker infrastructure.
 > **Task:** Perform `[the current Docker-related task to be resolved]`. However, when using `docker exec`, absolutely NEVER use the `-it` flag, and when viewing logs, unconditionally append `--tail 100` so that you do not fall into an infinite streaming wait.
 
-\
 
 ### 🥇 Pro Version
 This is the ultimate cheat code that strictly dictates every action of the AI, from accessing in-house Private Registries to preventing resource leaks and handling multi-architecture builds. Slam this entirely into your agent's system prompt or `SKILL.md`.

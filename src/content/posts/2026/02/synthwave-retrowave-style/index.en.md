@@ -44,7 +44,6 @@ Use this when you need a quick, stylized background without fussing over complex
 > **Role:** You are an expert 80s retro-futuristic digital artist.
 > **Request:** Generate a classic Synthwave landscape featuring a glowing neon grid floor, silhouette palm trees, and a giant segmented sun in the background. Use a vibrant magenta, cyan, and deep purple color palette.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

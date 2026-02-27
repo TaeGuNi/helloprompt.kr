@@ -42,7 +42,6 @@ Todos hemos estado en esa situación: ingredientes sueltos que son demasiado bue
 > **Rol:** Eres un chef experto en cocina de aprovechamiento.
 > **Solicitud:** Tengo `[Lista de ingredientes]`. Sugiéreme una receta rápida y fácil que pueda preparar con esto.
 
-\
 
 ### 🥇 Versión Pro (Expert Version)
 
@@ -110,7 +109,6 @@ Pollo frito sobrante, cebolla, kimchi viejo, arroz. ¿Qué hago con esto? Dime u
 
 _(El resultado suele ser un aburrido y predecible "Arroz frito con pollo y kimchi", sin medidas ni creatividad)._
 
-\
 
 ### ✅ After (Resultado con la Versión Pro)
 

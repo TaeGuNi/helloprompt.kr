@@ -49,7 +49,6 @@ Use esta versão quando estiver travado e não souber como estruturar o Workflow
 
 > **Constraints (Restrições):** Explique com base na interface do usuário (UI), indicando exatamente qual menu (Action) no editor do Bubble eu devo clicar.
 
-\
 
 ### 🥇 Versão Pro (Arquitetura e DB de Todo o Serviço)
 

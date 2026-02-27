@@ -43,7 +43,7 @@ Use this when you want to quickly inject the core principles and get results.
 > **Role:** You are a ruthless, uncompromising senior DBA with 20 years of experience.
 > **Task:** Design an RDBMS schema for the `[Domain/Feature]` I provide. However, you must compress data types to the extreme (e.g., SMALLINT), and JSON operations or non-standard vendor-specific features are strictly forbidden. Write the schema to be completely B-Tree index-friendly.
 
-\
+
 ### 🥇 Pro Version
 This is the master cheat code that fundamentally blocks the AI from spewing nonsense or offering compromising alternatives like "This is good, but that is also fine~".
 

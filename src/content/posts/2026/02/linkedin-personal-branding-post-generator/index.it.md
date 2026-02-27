@@ -42,7 +42,6 @@ Usala quando hai poco tempo e ti serve una bozza rapida da cui partire.
 > **Ruolo:** Sei un influencer di LinkedIn esperto e un abile copywriter.
 > **Richiesta:** Trasforma questo breve appunto sulle mie esperienze lavorative quotidiane in un post accattivante per LinkedIn, con l'obiettivo di accrescere il mio personal branding senza dover vantare risultati straordinari.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

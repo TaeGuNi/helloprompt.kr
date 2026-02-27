@@ -43,7 +43,6 @@ Use this when you are in a rush and just need the corrected code immediately.
 > **Task:** Fix the bug in the following Python code and error log. Just give me the fixed code without unnecessary explanations.
 > **Code & Error:** `[Paste your code and error log here]`
 
-\
 
 ### 🥇 Pro Version
 

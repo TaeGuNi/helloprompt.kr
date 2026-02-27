@@ -42,7 +42,6 @@ Ideale quando sei già davanti all'opera e vuoi solo uno spunto rapido.
 > **Ruolo:** Sei un Arteterapeuta empatico.
 > **Richiesta:** Sono in una galleria d'arte moderna ma non ci capisco nulla. Fammi 3 domande semplici per aiutarmi a connettermi emotivamente con l'opera che sto guardando, senza usare termini tecnici.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

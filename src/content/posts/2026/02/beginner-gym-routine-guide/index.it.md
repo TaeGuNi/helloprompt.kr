@@ -49,7 +49,6 @@ Utilizza questo prompt se hai poco tempo e ti serve subito una scheda pronta all
 > **Ruolo:** Sei un personal trainer esperto di bodybuilding con 20 anni di esperienza.
 > **Richiesta:** Crea una scheda di allenamento 'Total Body' di 3 giorni a settimana per un principiante, utilizzando esclusivamente macchinari guidati per evitare infortuni.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

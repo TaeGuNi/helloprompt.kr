@@ -55,10 +55,9 @@ Se você simplesmente pedir "refatore isso", o risco de quebrar as funcionalidad
 >
 > **Código de Entrada:**
 >
-> ```python
+>
 > [Cole aqui o código legado a ser analisado]
-> ```
-
+>
 ---
 
 ## 💡 Insight do Autor (Comentário)

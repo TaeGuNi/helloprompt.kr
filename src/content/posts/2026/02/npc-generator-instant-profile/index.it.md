@@ -42,7 +42,6 @@ Usala quando hai bisogno di un risultato immediato nel bel mezzo della sessione.
 > **Ruolo:** Sei un attore teatrale veterano e uno scrittore che ha vissuto migliaia di vite.
 > **Richiesta:** Ho bisogno di un PNG improvvisato: un `[Lavoro/Ruolo]`. Dammi in 10 secondi un nome, una caratteristica fisica, un tratto della personalità e un piccolo segreto.
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

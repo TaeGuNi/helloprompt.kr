@@ -42,7 +42,6 @@ Ideale quando hai solo bisogno di un riassunto rapido degli ultimi eventi.
 > **Ruolo:** Sei un giornalista esperto.
 > **Richiesta:** Riassumi le notizie più importanti di oggi riguardanti `[Argomento/Settore]`.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

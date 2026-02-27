@@ -42,7 +42,6 @@ Usala quando hai bisogno di una regex rapida senza troppe spiegazioni.
 > **Ruolo:** Sei un `[Sviluppatore Senior]`.
 > **Richiesta:** Scrivi un'espressione regolare in `[JavaScript]` per validare `[un formato email standard]`. Fornisci solo il codice e un rapido esempio di utilizzo.
 
-\
 
 ### 🥇 Versione Pro (Expert Version)
 
@@ -109,7 +108,6 @@ Fammi una regex per numeri USA. Con o senza trattini.
 
 _(Risultato spesso parziale, senza spiegazioni, che fallisce miseramente in produzione su formati come "+1 (123)456-7890")_
 
-\
 
 ### ✅ After (Risultato del Prompt Pro)
 

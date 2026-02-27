@@ -38,7 +38,6 @@ Idéale lorsque vous avez besoin d'une structure de code rapide pour un langage 
 > **Rôle :** Tu es un développeur `[Langage]` Senior et un expert en conception TUI.
 > **Requête :** Rédige le code de base (boilerplate) d'une application TUI utilisant `[Langage/Framework]` pour implémenter la fonctionnalité suivante : `[Fonctionnalité à implémenter]`. Inclus également les instructions pour exécuter le code.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

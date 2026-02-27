@@ -49,7 +49,6 @@ Idéal pour une séance rapide sans équipement spécifique.
 > **Rôle :** Tu es un kinésithérapeute du sport spécialisé dans le suivi des marathoniens de haut niveau.
 > **Demande :** La phase de récupération est primordiale. Propose-moi une routine d'étirements post-course pour prévenir les blessures, soulager les muscles et éviter les courbatures demain matin.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

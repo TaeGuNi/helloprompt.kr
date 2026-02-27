@@ -49,7 +49,6 @@ Verwenden Sie diesen Prompt, wenn Sie nur schnell einen allgemeinen Überblick b
 >
 > **Aufgabe:** Ich reise ins Ausland. Erstelle mir eine kompakte Checkliste für eine unverzichtbare Reiseapotheke und ein Erste-Hilfe-Kit, sortiert nach häufigen Symptomen und Notfallsituationen. Nenne universelle Wirkstoffnamen.
 
-\
 
 ### 🥇 Pro Version (Experte)
 
@@ -142,6 +141,4 @@ Gesundheit ist die wichtigste Voraussetzung, um eine Reise wirklich genießen zu
 
 Bleiben Sie gesund und gute Reise! 💊✈️
 
-```
 
-```

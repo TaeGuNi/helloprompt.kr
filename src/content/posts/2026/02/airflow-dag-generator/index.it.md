@@ -44,7 +44,6 @@ Utilizza questo prompt per automatizzare scheduling semplici e singole attività
 > **Ruolo:** Sei un bot Python specializzato in Data Engineering.
 > **Compito:** Scrivi il codice per un DAG di Airflow che esegua il dump di un database MySQL e lo carichi su un bucket S3 ogni mattina alle 6:00 (KST). Utilizza `BashOperator` e imposta 2 tentativi di retry in caso di fallimento.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

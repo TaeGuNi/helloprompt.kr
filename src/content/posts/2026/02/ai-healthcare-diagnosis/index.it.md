@@ -39,7 +39,6 @@ Usa questa versione quando hai poco tempo e ti serve una traduzione istantanea d
 > **Ruolo:** Sei un medico estremamente empatico e rassicurante.
 > **Compito:** Spiega questa diagnosi e il relativo piano di trattamento `[Inserisci referto e prescrizioni, SENZA dati personali]` a un paziente, usando un linguaggio semplice e privo di gergo medico.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

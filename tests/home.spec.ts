@@ -19,7 +19,7 @@ test.describe("메인 페이지 BDD 시나리오", () => {
     await page.goto("http://localhost:4321");
 
     // Then: 검색창이 존재해야 함
-    const searchInput = page.locator("#search-input");
+    const searchInput = page.locator(".hero .search-input");
     await expect(searchInput).toBeVisible();
     await expect(searchInput).toHaveAttribute(
       "placeholder",

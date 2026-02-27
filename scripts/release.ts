@@ -4,10 +4,7 @@ import { readFileSync } from "node:fs";
 try {
   // 1. Run standard-version
   console.log("\n📦 Running standard-version...");
-  execSync(
-    "npx standard-version --scripts.postchangelog 'npx prettier --write CHANGELOG.md'",
-    { stdio: "inherit" },
-  );
+  execSync("npx standard-version", { stdio: "inherit" });
 
   // 2. Push to develop with tags
   console.log("\n🚀 Pushing changes to origin/develop...");

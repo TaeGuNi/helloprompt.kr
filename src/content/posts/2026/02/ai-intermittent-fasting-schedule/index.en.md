@@ -42,7 +42,6 @@ Use this when you need a rapid, straightforward baseline schedule.
 > **Role:** You are a world-class expert in intermittent fasting and biohacking.
 > **Request:** Design an intermittent fasting schedule that perfectly accommodates my current lifestyle and provide actionable tips for surviving the fasting window.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

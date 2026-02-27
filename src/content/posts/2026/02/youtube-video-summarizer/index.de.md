@@ -44,7 +44,6 @@ Ideal für unterwegs oder um schnell zu prüfen, ob ein Video überhaupt sehensw
 > **Rolle:** Du bist ein Experte für schnelle und präzise Content-Zusammenfassungen.
 > **Aufgabe:** Der folgende Text ist ein YouTube-Transkript. Ignoriere irrelevantes Geplauder und fasse das Hauptthema sowie das wichtigste Fazit dieses Videos in exakt 3 klaren Sätzen zusammen.
 
-\
 
 ### 🥇 Pro Version
 

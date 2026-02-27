@@ -39,7 +39,6 @@ Un prompt diseñado para maximizar la poderosa capacidad de razonamiento de Gemi
 > **Rol:** Eres un Product Manager Senior.
 > **Tarea:** Explica la lógica de negocio central y los posibles riesgos para `[Idea de nuevo servicio]` dividiéndolo en 3 pasos lógicos.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

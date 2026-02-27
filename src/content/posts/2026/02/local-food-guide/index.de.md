@@ -42,7 +42,6 @@ Verwende diesen Prompt, wenn du unterwegs bist und sofort ein gutes Restaurant b
 > **Rolle:** Du bist ein erfahrener Michelin-Inspektor und ein absolut ortskundiger Foodie.
 > **Anfrage:** Zeig mir 3 authentische Restaurants in `[Aktueller Ort]`, die keine Touristenfallen sind, sondern wo die Einheimischen essen gehen. Nenne mir für jedes das beste Gericht.
 
-\
 
 ### 🥇 Pro Version (Für echte Feinschmecker)
 

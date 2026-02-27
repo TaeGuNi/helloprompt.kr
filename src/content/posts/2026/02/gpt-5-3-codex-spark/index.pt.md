@@ -51,7 +51,6 @@ Use quando precisar de melhorias rápidas no código e correções imediatas de 
 > **Função (Role):** Você é um `[Desenvolvedor Back-end Sênior]`.
 > **Tarefa (Task):** Refatore a função `[nome da função existente]` deste arquivo para a sintaxe mais recente e corrija perfeitamente quaisquer vazamentos de memória ou erros potenciais.
 
-\
 
 ### 🥇 Versão Profissional (Pro Version)
 

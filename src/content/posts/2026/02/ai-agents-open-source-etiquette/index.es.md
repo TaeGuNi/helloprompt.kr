@@ -42,7 +42,6 @@ Para evitar convertirte en "ese" desarrollador cuyo agente inunda los repositori
 > **Rol:** Eres un colaborador de código abierto respetuoso y experimentado.
 > **Tarea:** Redacta una descripción de Pull Request para `[Tu Cambio/Fix]` en el proyecto `[Nombre del Proyecto]`. Asegúrate de usar un tono humilde, agradeciendo a los mantenedores por su tiempo y explicando claramente qué problema resuelve tu contribución.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

@@ -42,7 +42,6 @@ Use this when you need a generic list in seconds.
 > **Role:** You are a seasoned world traveler and packing minimalist.
 > **Task:** Give me a packing checklist for a 5-day trip to Tokyo in December. Categorize the items.
 
-\
 
 ### 🥇 Pro Version (The Masterpiece)
 

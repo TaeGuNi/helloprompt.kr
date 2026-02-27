@@ -37,7 +37,6 @@ Use this for quick concept generation and mood board creation.
 > **Role:** You are a seasoned Hollywood Cinematographer and Concept Artist.
 > **Task:** Generate a highly detailed prompt for an AI video generator (like Sora or Runway) based on `[Core Scene Idea]`. Include specific camera angles, lighting conditions, and film stock aesthetics.
 
-\
 
 ### 🥇 Pro Version
 

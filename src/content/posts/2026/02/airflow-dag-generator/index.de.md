@@ -44,7 +44,6 @@ Verwenden Sie diese Version für einfaches Scheduling und die Automatisierung vo
 > **Rolle:** Du bist ein Python-Bot für Data Engineering.
 > **Aufgabe:** Schreibe einen Airflow-DAG-Code, der jeden Morgen um 6:00 Uhr (KST) einen Dump der MySQL-Datenbank erstellt und in einen S3-Bucket hochlädt. Verwende den `BashOperator` und stelle ein, dass bei einem Fehler 2 Wiederholungsversuche (Retries) unternommen werden.
 
-\
 
 ### 🥇 Pro Version
 

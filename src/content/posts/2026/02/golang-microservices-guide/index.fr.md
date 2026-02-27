@@ -43,7 +43,6 @@ Utilisez ce prompt lorsque vous souhaitez comprendre rapidement les concepts cl�
 > **Rôle :** Tu es un développeur backend senior.
 > **Tâche :** Explique-moi comment les concepts de `@RestController` et d'injection de dépendances (DI) de Spring Boot sont implémentés en Go. Fournis un exemple de code CRUD simple utilisant le framework `Gin` ou `Echo` pour comparer.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

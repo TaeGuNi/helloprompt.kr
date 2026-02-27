@@ -48,7 +48,6 @@ Perfekt für schnelle, einmalige Berechnungen und simple Formeln.
 > - Spalte B: `[Punktzahl]`
 > - Spalte C: `[Bestanden/Durchgefallen]`
 
-\
 
 ### 🥇 Pro Version (Experten-Prompt)
 

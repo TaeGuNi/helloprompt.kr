@@ -47,7 +47,6 @@ Nutzen Sie diese Version, wenn Sie in Sekundenschnelle ein grundlegendes Gerüst
 > **Aufgabe:** Lies dir die folgende unstrukturierte Beschreibung durch und verwandle sie in einen sauberen, stichpunktartigen Bug-Report, den Entwickler sofort verstehen können.
 > **Beschreibung:** `[Hier einfach die fehlerhafte Situation so aufschreiben, wie sie Ihnen in den Sinn kommt]`
 
-\
 
 ### 🥇 Pro Version (Für Experten)
 

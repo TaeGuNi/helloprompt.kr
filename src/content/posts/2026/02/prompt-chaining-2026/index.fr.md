@@ -40,7 +40,6 @@ Idéal pour les tâches simples en deux étapes, comme extraire des données pui
 
 > **Étape 2 (Analyse) :** À partir des métriques extraites précédemment : `[Résultat Étape 1]`, rédige un court résumé identifiant la tendance principale.
 
-\
 
 ### 🥇 Version Pro (Workflow Complet et Automatisable)
 

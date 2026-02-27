@@ -42,7 +42,6 @@ Nutzen Sie diese Variante für schnelle, unkomplizierte Ergebnisse von unterwegs
 > **Rolle:** Du bist ein erfahrener Tourenplaner und lokaler Geschichtsexperte für `[Stadtname]`.
 > **Aufgabe:** Erstelle mir einen spannenden, selbstgeführten historischen Stadtrundgang zum Thema `[Dein Interesse]`.
 
-\
 
 ### 🥇 Pro Version
 

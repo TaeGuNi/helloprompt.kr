@@ -42,7 +42,6 @@ Verwenden Sie diese Version, wenn Sie nur einen schnellen, groben Entwurf benöt
 > **Rolle:** Du bist ein erfahrener Projektmanager.
 > **Anfrage:** Erstelle einen detaillierten Projektzeitplan, der die Aufgaben durch Rückwärtskalkulation von einer vorgegebenen Deadline aufschlüsselt.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

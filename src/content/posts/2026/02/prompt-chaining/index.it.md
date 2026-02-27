@@ -42,7 +42,6 @@ Ideale per automatizzare processi standard senza logiche complesse. Esegui quest
 >
 > **Step 3 (Rifinitura):** Agisci come un copywriter esperto. Rivedi l'email appena scritta, rendendo il tono più persuasivo e correggendo eventuali errori grammaticali.
 
-\
 
 ### 🥇 Pro Version (Flusso Agentico con Feedback)
 

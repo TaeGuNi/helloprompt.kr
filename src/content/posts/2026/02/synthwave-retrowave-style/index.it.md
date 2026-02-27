@@ -42,7 +42,6 @@ Usala quando hai bisogno di un risultato immediato senza troppe pretese.
 > **Ruolo:** Sei un esperto artista digitale specializzato in estetica retrò.
 > **Richiesta:** Crea un prompt per un'immagine in stile Synthwave caratterizzato da nostalgia neon degli anni '80, palme e pavimenti a griglia digitale.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

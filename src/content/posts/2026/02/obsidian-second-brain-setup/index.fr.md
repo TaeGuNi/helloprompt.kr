@@ -42,7 +42,6 @@ Obsidian n'est pas une simple application de prise de notes. C'est une **Base de
 > **Rôle :** Tu es un `[Expert en productivité Obsidian]`.
 > **Tâche :** Pour un débutant qui vient d'installer Obsidian, propose le `[modèle de note quotidienne]` le plus intuitif et simple, ainsi qu'une `[structure de dossiers de base (maximum 3)]`. La note quotidienne doit inclure la date, les tâches à faire, les notes principales et un journal de gratitude.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

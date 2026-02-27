@@ -47,7 +47,6 @@ Use this when you just need a quick, rough summary of your tasks.
 >
 > **Task:** Based on the data above, summarize the top 5 most important things I did this week.
 
-\
 
 ### 🥇 Pro Version
 

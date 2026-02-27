@@ -42,7 +42,6 @@ Use this when you need a quick diagnosis of a simple malfunction or basic mainte
 > **Role:** You are a veteran `[plumbing/electrical/interior]` expert with 30 years of experience.
 > **Task:** There is a problem with my home's `[broken area or appliance name]`. The specific symptom is `[detailed description of the issue]`. Tell me the likely cause and provide 3 step-by-step methods I can use to fix it myself without calling a professional, ordered from easiest to hardest. If necessary, recommend tools I can easily buy at a local hardware store.
 
-\
 
 ### 🥇 Pro Version
 

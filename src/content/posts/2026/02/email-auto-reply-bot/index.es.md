@@ -43,7 +43,6 @@ El mayor enemigo de los negocios globales es la barrera del idioma y el desfase 
 
 Eres mi asistente ejecutivo profesional. Analiza el contenido de los nuevos correos entrantes y redacta un mensaje en un inglés comercial pulido y educado para el remitente que diga: "Hemos recibido su correo correctamente. Nuestro equipo está revisando la información y le enviaremos una respuesta detallada en un plazo de 24 horas."
 
-\
 
 ### 🥇 Versión Pro (Respuesta inteligente basada en contexto)
 

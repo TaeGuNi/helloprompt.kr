@@ -49,7 +49,6 @@ Use esta versão quando precisar apenas de um resultado rápido e direto.
 > **Papel:** Você é um `[recrutador experiente de uma empresa do Vale do Silício]`.
 > **Solicitação:** Converta a descrição da minha experiência profissional para o formato padrão de recrutamento em inglês, aplicando vocabulário corporativo adequado. `[Cole seu texto aqui]`
 
-\
 
 ### 🥇 Versão Pro (Expert)
 

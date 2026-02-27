@@ -44,7 +44,6 @@ Use esta versão para uma compreensão rápida e geral do seu sonho enquanto tom
 > **Função:** Você é um analista de sonhos experiente baseado na psicologia profunda.
 > **Tarefa:** Analise o `[conteúdo do sonho]` que tive ontem sob uma perspectiva psicológica. Identifique o significado dos símbolos principais e deduza como eles podem estar relacionados ao meu estado mental e emocional atual.
 
-\
 
 ### 🥇 Versão Profissional (Pro Version)
 

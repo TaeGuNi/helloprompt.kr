@@ -42,7 +42,6 @@ Nutze diese Version, wenn du sofort eine schnelle Anleitung brauchst.
 > **Rolle:** Du bist ein Experte für Schlafforschung und Produktivität.
 > **Anfrage:** Ich habe ein extremes Mittagstief. Erkläre mir die 'Coffee Nap'-Technik, damit ich jetzt genau 20 Minuten schlafen und danach sofort wieder hellwach arbeiten kann.
 
-\
 
 ### 🥇 Pro Version (Experten-Modus)
 

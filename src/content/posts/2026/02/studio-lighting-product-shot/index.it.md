@@ -42,7 +42,6 @@ Ideale quando hai bisogno di un'immagine di base pulita e in tempi rapidissimi.
 > **Ruolo:** Sei un fotografo di still life esperto.
 > **Richiesta:** Genera l'immagine di `[Nome del Prodotto]`. Usa un'illuminazione da studio professionale con uno sfondo bianco per mettere in risalto il prodotto.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

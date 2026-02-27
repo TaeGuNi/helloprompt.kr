@@ -43,7 +43,6 @@ Utilisez cette version pour obtenir un résultat rapide et percutant.
 > **Rôle :** Tu es un photographe et un artiste 3D expert.
 > **Requête :** Génère un prompt d'image en contre-plongée (low angle) qui met en valeur la taille écrasante et la majesté du `[sujet]`.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

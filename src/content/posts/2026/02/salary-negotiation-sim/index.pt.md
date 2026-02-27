@@ -46,7 +46,6 @@ Ideal para refinar seus argumentos e organizar sua lógica antes de falar.
 
 > **Tarefa (Task):** Quando eu pedir os R$ 5.500, refute meu pedido usando argumentos lógicos e difíceis de rebater. Seja extremamente exigente e tente me deixar sem palavras.
 
-\
 
 ### 🥇 Versão Pro (Treino no Modo de Voz)
 

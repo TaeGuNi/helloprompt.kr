@@ -42,7 +42,6 @@ Usala quando hai bisogno di un'immagine d'impatto nel minor tempo possibile.
 > **Ruolo:** Sei un esperto di digital art retro-futuristica.
 > **Richiesta:** Crea un'illustrazione in stile Steampunk, rappresentando una visione futura ambientata nel XIX secolo, dominata da complessi ingranaggi in ottone e possenti macchine a vapore.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

@@ -43,12 +43,9 @@ Ideal, wenn Sie Ihren Code in kürzester Zeit auf kritische Schwachstellen scann
 > **Rolle:** Du bist ein erfahrener Senior Backend-/Frontend-Entwickler mit 10 Jahren Berufserfahrung.
 > **Aufgabe:** Analysiere den folgenden Code und finde heraus, ob es kritische Bugs oder Anti-Pattern gibt, die sofort behoben werden müssen.
 >
-> ```plaintext
+>
 > [Code hier einfügen]
-> ```
-
-\
-
+>
 ### 🥇 Pro Version (Expertenversion)
 
 Empfohlen, um die Codequalität auf echtes Produktionsniveau anzuheben und gleichzeitig handfeste, objektive Begründungen für jedes Refactoring zu erhalten.
@@ -63,9 +60,9 @@ Empfohlen, um die Codequalität auf echtes Produktionsniveau anzuheben und gleic
 >
 > **Code (Input):**
 >
-> ```plaintext
+>
 > [Fügen Sie hier den zu überprüfenden Code ein]
-> ```
+>
 >
 > **Aufgabe (Task):**
 > Überprüfe meinen Code strengstens anhand der folgenden vier Kriterien und stelle mir anschließend den vollständig überarbeiteten Code zur Verfügung.

@@ -44,7 +44,6 @@ tags: ["WebGPU", "LLM", "WebLLM", "Llama-3", "Local AI"]
 > **역할:** 너는 WebGPU에 능숙한 시니어 프론트엔드 개발자야.
 > **요청:** `@mlc-ai/web-llm` 라이브러리를 활용해 브라우저에서 Llama-3-8B 모델을 구동하는 가장 미니멀한 HTML/JS 예제 코드를 작성해 줘. CDN 방식을 적용해.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

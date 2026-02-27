@@ -45,7 +45,6 @@ Nutzen Sie diesen Prompt, wenn Sie bestehende `docker`-Befehle oder einfache Skr
 > 
 > **Aufgabe:** Konvertiere meinen bisherigen Docker-Befehl oder mein Skript `[Dein bisheriger docker run Befehl oder Skript]`, sodass er/es perfekt im Rootless-Modus von Podman funktioniert. Weise insbesondere auf mögliche Fehler bei Netzwerk-Bridges und Volume-Mount-Berechtigungen (inklusive SELinux) hin und liefere direkt die passenden Lösungsansätze.
 
-\
 
 ### 🥇 Pro Version (Perfekte Migration: docker-compose → K8s)
 
@@ -68,9 +67,9 @@ Ein leistungsstarker Prompt, um eine produktive `docker-compose.yml` in eine ded
 >
 > - Zielumgebung: `[z.B. AWS EC2 t3.medium, RAM 4GB]`
 > - Bisherige docker-compose.yml:
->   ```yaml
+>
 >   [Füge hier den Inhalt deiner bestehenden docker-compose.yml ein]
->   ```
+>
 >
 > **Einschränkungen (Constraints):**
 >

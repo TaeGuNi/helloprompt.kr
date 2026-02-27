@@ -44,7 +44,6 @@ Ideal für App-Icons, Favicons oder kleine Hobby-Projekte, bei denen du schnell 
 > **Aufgabe (Task):**
 > `minimalistic vector logo of a [Blue Whale], simple shapes, flat design, white background --no text --v 6.0`
 
-\
 
 ### 🥇 Pro Version (Expertenmodus)
 

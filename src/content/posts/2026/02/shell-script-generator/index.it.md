@@ -43,7 +43,6 @@ Usala quando hai bisogno di uno script rapido per un compito semplice, senza tro
 > **Ruolo:** Sei un esperto di Amministrazione di Sistema Linux e DevOps.
 > **Richiesta:** Scrivi uno script Bash per `[inserisci il tuo obiettivo, es. fare il backup della cartella /var/www in /backup]`. Assicurati che il codice sia sicuro e commentato.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

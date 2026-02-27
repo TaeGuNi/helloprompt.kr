@@ -42,7 +42,6 @@ Use isso quando precisar da expressão Cron rapidamente, sem complicações.
 > **Role:** Você é um `[Engenheiro DevOps]`.
 > **Task:** Crie uma expressão Crontab do Linux para `[toda última sexta-feira do mês às 23h]`. Adicione uma breve explicação de quando ele será executado.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

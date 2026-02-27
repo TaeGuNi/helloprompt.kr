@@ -58,7 +58,6 @@ Verwenden Sie diese Version, wenn Sie nur schnell den Qualitätsunterschied zwis
 > **Format:**
 > Bewerte die Antworten beider Modelle auf einer Skala von 1 bis 10 und küre einen Gewinner.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

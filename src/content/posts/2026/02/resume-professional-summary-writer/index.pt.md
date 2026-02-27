@@ -42,7 +42,6 @@ Utilize esta versão quando precisar de um resultado rápido e direto ao ponto.
 > **Papel:** Você é um especialista em personal branding e um editor de currículos altamente experiente.
 > **Solicitação:** Escreva um Resumo Profissional impactante de 3 a 5 linhas para o topo do meu currículo, com o objetivo de maximizar minha taxa de aprovação na triagem inicial.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

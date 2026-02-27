@@ -42,7 +42,6 @@ Obsidian no es solo una aplicación de notas. Es una **Base de Conocimiento Pers
 > **Rol:** Eres un `[Experto en Productividad con Obsidian]`.
 > **Tarea:** Para un principiante que acaba de instalar Obsidian, propón una `[plantilla de nota diaria]` que sea intuitiva y minimalista, además de una `[estructura de carpetas básica (máximo 3)]`. La nota diaria debe incluir: fecha, tareas del día, notas principales y un diario de gratitud.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

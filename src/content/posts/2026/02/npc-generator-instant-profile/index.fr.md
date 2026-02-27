@@ -42,7 +42,6 @@ Idéale pour une urgence absolue en pleine partie.
 > **Rôle :** Tu es un Maître de Jeu vétéran, expert en improvisation.
 > **Requête :** Crée-moi instantanément un PNJ `[Garde de la ville]`. Donne-lui un nom, une apparence marquante, un trait de personnalité et un petit secret. Reste très concis.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

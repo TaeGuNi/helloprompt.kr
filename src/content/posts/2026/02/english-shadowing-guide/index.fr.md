@@ -45,7 +45,6 @@ Cependant, si vous utilisez l'IA comme votre "coach personnel de prononciation h
 > **Réplique :** `["I don't know if I can handle this anymore."]`
 > **Tâche :** Traduis cette phrase naturellement en fonction du contexte, et crée 3 exemples concrets d'utilisation de mots-clés ou d'expressions idiomatiques comme `[handle]`.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

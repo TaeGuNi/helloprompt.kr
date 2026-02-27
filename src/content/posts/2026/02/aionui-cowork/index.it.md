@@ -44,7 +44,6 @@ Ideale per assegnare rapidamente una singola attività all'agente e monitorarne 
 > **Ruolo:** Sei un `[Sviluppatore Senior]`.
 > **Task:** Risolvi il seguente `[bug / funzionalità specifica]` nel progetto attuale. Prima di iniziare, fammi un briefing sui file che intendi modificare e mostra i cambiamenti passo dopo passo in modo che siano facilmente verificabili su AionUi.
 
-\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

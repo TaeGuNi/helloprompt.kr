@@ -43,7 +43,6 @@ Ideale quando hai bisogno solo del nocciolo della questione in tempi record.
 > **Richiesta:** Leggi la trascrizione della riunione fornita di seguito e riassumila strutturandola in 3 sezioni chiave: [Ordine del Giorno / Decisioni Prese / Prossimi Passi].
 > **Trascrizione:** `[Incolla il testo qui]`
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

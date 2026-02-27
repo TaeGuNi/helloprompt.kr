@@ -42,7 +42,6 @@ Nutzen Sie diese Variante, wenn Sie sofort ein grobes Ergebnis benötigen.
 > **Rolle:** Du bist ein erfahrener 'Reisebudget-Analyst'.
 > **Aufgabe:** Berechne mein Reisebudget für `[Reiseziel]` für `[Anzahl der Tage]` Tage im `[Reisestil]`-Stil. Sag mir genau, wie viel Bargeld ich wechseln muss.
 
-\
 
 ### 🥇 Pro Version (Expertenmodus)
 

@@ -46,7 +46,6 @@ Usa questo prompt quando hai bisogno di trovare rapidamente la causa di una funz
 > **Codice:**
 > `[Incolla qui il codice del componente che causa il collo di bottiglia]`
 
-\
 
 ### 🥇 Pro Version (Miglioramento Strutturale a Livello di Architettura)
 

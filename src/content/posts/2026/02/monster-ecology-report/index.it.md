@@ -42,7 +42,6 @@ Usala quando ti serve solo un'idea veloce per un incontro casuale o per riempire
 > **Ruolo:** Sei un biologo esperto e un ricercatore di mostri che sta esplorando un continente sconosciuto.
 > **Richiesta:** Sono stanco dei classici slime e goblin. Progetta un mostro originale, credibile e realistico, descrivendo il suo ecosistema, le sue abitudini e come caccia.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

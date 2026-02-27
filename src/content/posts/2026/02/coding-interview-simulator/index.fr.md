@@ -42,7 +42,6 @@ Idéal pour une vérification rapide après avoir résolu un problème d'algorit
 > **Rôle :** Tu es un `[Lead Developer chez Google]`.
 > **Demande :** J'ai écrit ce code pour `[nom du problème]`. Fais-moi passer un entretien technique blanc en me posant des questions pointues sur mon approche.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

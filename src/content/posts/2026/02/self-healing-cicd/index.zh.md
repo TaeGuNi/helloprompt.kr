@@ -42,7 +42,6 @@ image: "/images/2026/02/15/self-healing-cicd.jpg"
 > **角色：** 你是一名 `[资深前端开发者]`。
 > **任务：** 请查看提供的错误日志，**仅**快速、准确地修复代码中的 `[Lint 错误和拼写错误]`，并返回完整的代码。
 
-\
 
 ### 🥇 Pro Version (专业版)
 
@@ -69,13 +68,12 @@ image: "/images/2026/02/15/self-healing-cicd.jpg"
 >
 > **输出格式 (Format)：**
 >
-> ```json
+>
 > {
 >   "file_path": "[发生错误的文件路径]",
 >   "fixed_content": "[修复后的完整代码内容]"
 > }
-> ```
-
+>
 ---
 
 ## 💡 作者洞察 (Writer's Insight)

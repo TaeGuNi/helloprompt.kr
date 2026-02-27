@@ -42,7 +42,6 @@ Las transcripciones automáticas de reuniones suelen estar llenas de coloquialis
 > **Rol:** Eres un asistente ejecutivo experto.
 > **Solicitud:** Resume la siguiente transcripción de la reunión, extrayendo solo los puntos clave y las decisiones tomadas. `[Pega aquí tu transcripción]`
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

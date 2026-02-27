@@ -44,12 +44,9 @@ Use esta versão para uma verificação rápida de bugs críticos ou erros de si
 > **Role (Papel):** Você é um engenheiro de software sênior.
 > **Task (Tarefa):** Analise o código abaixo em busca de vulnerabilidades de segurança ou erros lógicos e aponte os problemas de forma breve.
 >
-> ```
+>
 > [Cole seu código aqui]
-> ```
-
-\
-
+>
 ### 🥇 Versão Pro (Pro Version)
 
 Este é um prompt prático e avançado que entende o contexto do seu código e verifica meticulosamente vulnerabilidades de segurança, pontos de refatoração e legibilidade.
@@ -79,10 +76,9 @@ Este é um prompt prático e avançado que entende o contexto do seu código e v
 >
 > **Código de Entrada (Input Code):**
 >
-> ```
+>
 > [Cole o código a ser revisado aqui]
-> ```
-
+>
 ---
 
 ## 💡 Insight do Autor (Writer's Insight)

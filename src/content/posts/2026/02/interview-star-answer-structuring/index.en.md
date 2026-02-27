@@ -42,7 +42,6 @@ Use this when you just need a quick, structured result.
 > **Role:** You are an expert speech coach and interview consultant.
 > **Task:** My interview answers tend to be long and lose focus. Please restructure my experience using the STAR method (Situation, Task, Action, Result) so I can answer questions clearly, concisely, and persuasively.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

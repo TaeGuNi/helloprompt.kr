@@ -55,7 +55,6 @@ Usa questa versione per ridurre la "Fluff Tax" (la tassa delle parole inutili) n
 > - È severamente vietato includere saluti, frasi come "Inizio l'analisi" o "Ecco i risultati".
 > - Stampa esclusivamente il risultato dell'analisi e l'azione richiesta.
 
-\
 
 ### 🥇 Pro Version (Versione Avanzata)
 
@@ -77,13 +76,13 @@ Questo è il pattern che garantisce il massimo risparmio. Invece di passare l'in
 >
 > - Il formato di output DEVE rispettare rigorosamente la seguente struttura JSON:
 >
-> ```json
+>
 > {
 >   "thought": "Ragionamento logico sul passaggio attuale...",
 >   "action": "Nome della funzione da eseguire o prossima azione",
 >   "new_state": "SUMMARY: [Sintesi di quanto ottenuto finora]. PENDING: [Problema attualmente bloccante]. GOAL: [Prossimo obiettivo da raggiungere]."
 > }
-> ```
+>
 >
 > - Il valore di `[new_state]` deve essere compresso in massimo 100 parole.
 > - Mantieni solo fatti oggettivi e decisioni. Elimina qualsiasi tipo di chiacchiera.

@@ -42,7 +42,6 @@ Usala quando hai bisogno di un controllo rapido sulla qualità generale del codi
 > **Compito:** Controlla il codice seguente per individuare errori logici o problemi di leggibilità, ed evidenzia 3 punti chiave su come migliorarlo.
 > **Codice:** `[Incolla il codice qui]`
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 
@@ -73,10 +72,9 @@ Usala per una validazione dettagliata della qualità, ad esempio appena prima di
 >
 > **Dati di Input (Input Code):**
 >
-> ```python
+>
 > [Incolla il tuo codice qui]
-> ```
-
+>
 ---
 
 ## 💡 Commento dell'Autore (Insight)

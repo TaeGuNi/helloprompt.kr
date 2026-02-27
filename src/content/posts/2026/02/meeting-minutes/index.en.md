@@ -45,7 +45,6 @@ Use this when you have a short, straightforward meeting and just need a quick re
 > **Task:** Summarize the following meeting transcript. Extract the main topics discussed, key decisions made, and a bulleted list of action items with assignees.
 > **Input:** `[Paste your transcript here]`
 
-\
 
 ### 🥇 Pro Version
 

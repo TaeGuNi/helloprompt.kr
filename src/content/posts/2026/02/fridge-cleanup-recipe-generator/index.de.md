@@ -42,7 +42,6 @@ Nutzen Sie diese Variante, wenn Sie einfach und schnell eine Idee brauchen.
 > **Rolle:** Du bist ein erfahrener Koch aus einem Michelin-Sterne-Restaurant und ein Experte für gesunde Hausmannskost.
 > **Anfrage:** Erstelle mir ein einfaches und gesundes Rezept aus folgenden Zutaten: `[Zutatenliste]`.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

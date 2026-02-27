@@ -41,7 +41,6 @@ Aquí entran en juego los **Enjambres de Agentes de IA (AI Agent Swarms)**: un p
 > **Rol:** Eres un Arquitecto de Sistemas de IA experto en flujos de trabajo multiagente.
 > **Solicitud:** Ayúdame a diseñar un enjambre de agentes de IA para `[tu proyecto o problema]`. Define qué roles necesito y cómo deben interactuar entre ellos.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

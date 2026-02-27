@@ -47,7 +47,6 @@ Usalo quando ti serve solo conservare il testo sottolineato e cogliere rapidamen
 > **Richiesta:**
 Estrai accuratamente il testo dalla foto allegata. Successivamente, riassumi in una sola frase l'argomento centrale che l'autore vuole comunicare in questa pagina.
 
-\
 
 ### 🥇 Versione Pro (Recensione Approfondita e Piano d'Azione)
 

@@ -42,7 +42,6 @@ Verwende diese Version, wenn du sofort Ergebnisse und frische Ideen brauchst.
 > **Rolle:** Du bist ein legendärer K-Pop-Creative-Director, der bereits für SM, HYBE und JYP bahnbrechende Konzepte entwickelt hat.
 > **Anfrage:** Erstelle mir ein komplettes Comeback-Konzept für eine neue K-Pop-Gruppe. Entwickle ein einzigartiges Universum, ein Albumkonzept und den Text für den Titelsong.
 
-\
 
 ### 🥇 Pro Version (Experte)
 

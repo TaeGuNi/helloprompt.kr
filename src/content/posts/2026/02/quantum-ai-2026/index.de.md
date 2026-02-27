@@ -37,7 +37,6 @@ Verwenden Sie diese Version, wenn Sie schnell branchenspezifische Anwendungsfäl
 > **Rolle:** Du bist ein weltweit führender Strategieberater für Quantum AI.
 > **Aufgabe:** Analysiere und erkläre drei konkrete Anwendungsfälle für hybride Quantum-AI-Algorithmen, die im Jahr 2026 in der `[Spezifische Branche, z. B. Finanzwesen, Pharmaindustrie, Logistik]` bereits produktiv eingesetzt werden, sowie deren messbare Mehrwerte.
 
-\
 
 ### 🥇 Pro Version (Experten-Version)
 

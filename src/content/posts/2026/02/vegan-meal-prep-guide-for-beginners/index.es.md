@@ -42,7 +42,6 @@ Ideal para cuando necesitas ideas rápidas y sin complicaciones.
 > **Rol:** Eres un chef experto en cocina vegana y un evangelista del "Meal Prep" (preparación de comidas semanales).
 > **Solicitud:** Diséñame un plan de meal prep vegano de 5 días que sea altamente nutritivo, saciante y no utilice carne. Incluye instrucciones de almacenamiento.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

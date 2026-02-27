@@ -41,7 +41,6 @@ Use this for a quick, high-level summary of a security issue.
 > **Role:** You are an expert `[Cybersecurity Analyst]`.
 > **Task:** Summarize the `[Somnium X data leak]` incident and suggest three immediate remediation steps.
 
-\
 
 ### 🥇 Pro Version
 

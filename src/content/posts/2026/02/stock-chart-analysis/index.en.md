@@ -44,7 +44,6 @@ Use this when you want a quick read on the overall market flow (bullish or beari
 > **Role:** You are an objective stock chart analyst.
 > **Task:** Analyze the current short-term and mid-to-long-term trends of the attached stock chart. Tell me if it's in an uptrend, downtrend, or moving sideways, and point out the most distinct support and resistance price levels.
 
-\
 
 ### 🥇 Pro Version (Expert Technical Analysis & Scenario Derivation)
 

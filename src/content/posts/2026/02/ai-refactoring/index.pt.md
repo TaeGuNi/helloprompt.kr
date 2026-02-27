@@ -43,7 +43,6 @@ Use esta versão para melhorias rápidas, superficiais e pontuais em funções c
 > **Função:** Você é um Desenvolvedor Sênior especialista em Clean Code.
 > **Tarefa:** Refatore o `[trecho de código]` a seguir para melhorar a legibilidade e aplicar os princípios SOLID, adicionando comentários explicativos breves.
 
-\
 
 ### 🥇 Versão Profissional (Pro Version)
 

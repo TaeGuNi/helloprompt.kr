@@ -42,7 +42,6 @@ Usa questo prompt per far generare all'AI la struttura iniziale di un progetto.
 > **Ruolo:** Sei un Senior Software Engineer.
 > **Richiesta:** Crea la struttura delle directory e i file di base per un'applicazione `[Tipo di app, es. web in React]`. Includi i file di configurazione essenziali.
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

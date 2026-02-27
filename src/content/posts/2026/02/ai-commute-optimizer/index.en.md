@@ -43,7 +43,6 @@ Use this when you need a quick recommendation right before walking out the door.
 > **Role:** You are an expert urban mobility and traffic analyst.
 > **Task:** Tell me the best way to commute from `[Home Address/Area]` to `[Work Address/Area]` arriving by `[Target Arrival Time]`. Consider current traffic and public transit delays.
 
-\
 
 ### 🥇 Pro Version
 

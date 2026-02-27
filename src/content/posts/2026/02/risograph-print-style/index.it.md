@@ -42,7 +42,6 @@ Usala quando hai bisogno di un'immagine rapida e d'effetto senza troppi tecnicis
 > **Ruolo:** Sei un esperto di digital art e stampa vintage.
 > **Richiesta:** Genera un'illustrazione in stile Risograph. Soggetto: `[IL TUO SOGGETTO]`. Assicurati di includere colori neon limitati, texture sgranata e leggeri disallineamenti di stampa.
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

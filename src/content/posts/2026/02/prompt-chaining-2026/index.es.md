@@ -40,7 +40,6 @@ En el vertiginoso panorama de la Inteligencia Artificial de 2026, el enfoque de 
 >
 > **Paso 2 (Síntesis):** Eres un redactor ejecutivo. Toma estas métricas: `[Resultado del Paso 1]` y redacta un resumen ejecutivo de un párrafo.
 
-\
 
 ### 🥇 Versión Experta (Pro Version)
 

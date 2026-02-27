@@ -44,7 +44,6 @@ Use this when you need to quickly refactor complex notebook code into Kubeflow c
 > **Constraints:** Clearly define the types for the function's arguments and return values. Include all necessary libraries as `import` statements inside the function.
 > **Code:** `[Paste your preprocessing code here]`
 
-\
 
 ### 🥇 Pro Version
 

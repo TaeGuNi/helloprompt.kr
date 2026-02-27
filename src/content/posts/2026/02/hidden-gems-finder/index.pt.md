@@ -42,7 +42,6 @@ Use isso quando precisar apenas de um resultado rápido e direto.
 > **Papel:** Você é um escritor de viagens experiente e fotógrafo local que conhece todos os segredos da cidade.
 > **Solicitação:** Recomende 3 lugares tranquilos e secretos em `[Nome da Cidade/Região]`, longe das multidões de turistas, que ofereçam uma experiência autêntica e boas oportunidades para fotos.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

@@ -43,7 +43,6 @@ Usalo quando hai bisogno di raccogliere e visualizzare in tempo reale dati con c
 
 > **Richiesta:** Scrivi una **funzione QUERY** che estragga dal `[foglio Data]` nell'`[intervallo A:E]`, solo le righe in cui la `[colonna C (Dipartimento) è 'Marketing' e la colonna D (Punteggio) è maggiore o uguale a 80]`, e mostrale in un altro foglio. Dopo aver scritto la funzione, spiega brevemente come funziona in modo che anche un principiante possa capirlo.
 
-\
 
 ### 🥇 Versione Pro (Automazione Notifiche basata su AppScript)
 

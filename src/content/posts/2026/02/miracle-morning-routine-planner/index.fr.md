@@ -49,7 +49,6 @@ Utilisez ce prompt pour obtenir rapidement une ébauche de routine centrée sur 
 > **Rôle :** Tu es un `[expert en productivité et en gestion du temps]`.
 > **Tâche :** Je me lève à `[6h00]` et j'ai `[1 heure et 30 minutes]` de libre avant de partir travailler. Mes objectifs matinaux sont : `[faire des étirements, lire 10 pages d'un livre, prendre un petit-déjeuner léger]`. Crée un emploi du temps réaliste et efficace pour ma routine matinale afin d'atteindre ces objectifs.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

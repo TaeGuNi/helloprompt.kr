@@ -42,7 +42,6 @@ Use this when you need a quick burst of inspiration without detailed constraints
 > **Role:** You are a highly sought-after Brand Naming Consultant with 20 years of experience. You are a master of wordplay, cultural trends, and consumer psychology.
 > **Request:** Suggest 10 catchy and unique product names for a `[describe your product briefly, e.g., mild dog shampoo]`. Provide a brief reason for each name.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

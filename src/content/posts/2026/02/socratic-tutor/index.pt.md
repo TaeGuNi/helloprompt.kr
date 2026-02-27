@@ -44,7 +44,6 @@ Use esta versão para iniciar rapidamente um questionamento prático sobre conce
 > **Função (Role):** Você é o meu professor particular dedicado a ensinar `[Tópico de Estudo]`.
 > **Tarefa (Task):** Continue me fazendo perguntas até que eu entenda completamente o `[Tópico de Estudo]`. Não me dê a resposta de imediato. Se eu der uma resposta errada, forneça apenas uma pequena dica para que eu mesmo perceba o erro. Se eu acertar, passe para a próxima pergunta de nível mais avançado.
 
-\
 
 ### 🥇 Versão Profissional (Pro Version)
 

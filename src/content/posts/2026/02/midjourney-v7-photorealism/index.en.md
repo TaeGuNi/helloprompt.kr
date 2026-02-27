@@ -46,7 +46,6 @@ Use this when you need a decent photorealistic prompt quickly.
 > **Role:** You are a professional commercial photographer and a Midjourney v7 prompt maker.
 > **Task:** Based on the `[Topic]` I provide, write a 1-line English prompt optimized for Midjourney v7 to generate the most photorealistic image possible.
 
-\
 
 ### 🥇 Pro Version
 

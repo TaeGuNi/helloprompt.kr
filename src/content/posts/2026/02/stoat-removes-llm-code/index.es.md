@@ -47,7 +47,6 @@ Con la popularización de las herramientas de codificación basadas en LLMs, la 
 > **Tarea:** Revisa el siguiente código y reescríbelo minimizando drásticamente el número de líneas, manteniendo la funcionalidad 100% idéntica. Elimina sin piedad las abstracciones innecesarias, la lógica duplicada y el código muerto.
 > **Código:** `[Pega aquí el código a refactorizar]`
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 
@@ -78,10 +77,9 @@ Con la popularización de las herramientas de codificación basadas en LLMs, la 
 > - Lenguaje/Framework: `[Ej: React, TypeScript]`
 > - Código original:
 >
-> ```
+>
 > [Pega aquí el código espagueti a optimizar]
-> ```
-
+>
 ---
 
 ## 💡 Comentario del Autor (Insight)

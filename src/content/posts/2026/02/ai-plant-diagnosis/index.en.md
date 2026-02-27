@@ -45,7 +45,6 @@ Use this when you urgently need to figure out the root cause of the symptoms.
 >
 > **Task:** The tips of my Monstera leaves in this photo are turning brown and crispy. Is it underwatered, or am I watering it too much? Please give me a brief diagnosis of the cause and how to treat it, in case it's a disease.
 
-\
 
 ### 🥇 Pro Version
 

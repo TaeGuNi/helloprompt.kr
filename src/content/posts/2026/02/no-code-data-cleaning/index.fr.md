@@ -44,7 +44,6 @@ Idéal lorsque vous n'avez besoin que d'extraire rapidement un texte spécifique
 >
 > `[Collez votre liste de données ici]`
 
-\
 
 ### 🥇 Version Pro (Expert)
 

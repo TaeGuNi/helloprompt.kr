@@ -43,7 +43,6 @@ Usala quando hai poco tempo e ti serve un'analisi rapida e dritta al punto.
 > **Ruolo:** Sei un esperto `[Analista Dati Senior]`.
 > **Richiesta:** Analizza `[questa immagine/tabella]` e spiegami le 3 intuizioni più importanti. Dimmi anche se noti anomalie evidenti nei dati.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

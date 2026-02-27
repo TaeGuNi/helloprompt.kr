@@ -43,7 +43,6 @@ Verwenden Sie diesen Prompt, wenn Sie nur einen schnellen Inspirationsschub ben�
 
 > **Anfrage:** Ich muss meine Leser mit dem ersten Satz absolut fesseln. Gib mir 10 Empfehlungen für den ersten Satz meines Romans, die einen extrem starken Hook haben.
 
-\
 
 ### 🥇 Experten-Version (Pro Version)
 

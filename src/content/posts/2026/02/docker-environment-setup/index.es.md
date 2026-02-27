@@ -44,7 +44,6 @@ Ideal para crear contenedores de prueba rápidamente sin preocuparse demasiado p
 > **Rol:** Eres un Ingeniero DevOps experto en Docker.
 > **Solicitud:** Crea un `Dockerfile` simple y un `docker-compose.yml` para una aplicación con `[Tu Stack Tecnológico, ej: Node.js y MongoDB]`.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

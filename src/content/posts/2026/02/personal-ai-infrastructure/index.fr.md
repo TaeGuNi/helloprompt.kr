@@ -44,7 +44,6 @@ Idéal pour obtenir une recommandation rapide basée sur le matériel que vous p
 > **Rôle :** Tu es un Architecte Systèmes expert en IA locale et Open Source.
 > **Requête :** Je souhaite construire une infrastructure d'IA locale pour `[votre objectif, ex: résumer mes notes privées]`. Mon ordinateur possède `[votre configuration, ex: un Mac M2 avec 16 Go de RAM]`. Propose-moi les 3 meilleurs outils (LLM, interface, base de données) pour commencer facilement et sans coder.
 
-\
 
 ### 🥇 Version Pro (Pour les utilisateurs avancés)
 

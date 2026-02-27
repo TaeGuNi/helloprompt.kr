@@ -42,7 +42,6 @@ Utilizza questo prompt se hai bisogno di una routine generica in pochi secondi.
 > **Ruolo:** Sei uno psicologo comportamentale e un coach del sonno esperto nella formazione di abitudini.
 > **Richiesta:** Progetta una breve routine pre-sonno per aiutarmi ad addormentarmi più velocemente, sfruttando il principio del riflesso condizionato.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

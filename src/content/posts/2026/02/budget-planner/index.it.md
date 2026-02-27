@@ -42,7 +42,6 @@ Utilizzala quando hai bisogno di una panoramica veloce senza troppi dettagli.
 > **Ruolo:** Sei un esperto consulente finanziario.
 > **Richiesta:** Crea un piano di bilancio mensile realistico basato sul mio stipendio di `[Inserire Stipendio]` e le mie spese fisse principali.
 
-\
 
 ### 🥇 Versione Pro (Esperta)
 

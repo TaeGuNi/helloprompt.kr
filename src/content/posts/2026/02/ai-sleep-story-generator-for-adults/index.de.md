@@ -42,7 +42,6 @@ Nutzen Sie diesen Prompt, wenn Sie sofort eine kurze, beruhigende Geschichte bra
 > **Rolle:** Du bist ein professioneller Autor für Schlafgeschichten und Hypnosetherapeut.
 > **Anfrage:** Schäfchen zählen ist langweilig. Erschaffe mir eine langsame, extrem friedliche Gute-Nacht-Geschichte für Erwachsene, die mich sofort entspannt und müde macht.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

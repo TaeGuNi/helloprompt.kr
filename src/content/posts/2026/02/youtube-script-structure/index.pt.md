@@ -42,7 +42,6 @@ Ideal para quando você precisa de um rascunho rápido para organizar as ideias.
 > **Papel:** Você é um Diretor de Produção (PD) especialista em canais do YouTube com mais de 1 milhão de inscritos.
 > **Solicitação:** Crie um roteiro de vídeo sobre `[SEU_TEMA]` focado em reter a atenção nos primeiros 5 segundos e manter o espectador engajado até o fim.
 
-\
 
 ### 🥇 Versão Pro (Expert)
 

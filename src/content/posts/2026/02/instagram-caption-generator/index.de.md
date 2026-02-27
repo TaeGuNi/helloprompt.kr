@@ -42,7 +42,6 @@ Verwenden Sie diese Version, wenn Sie nur ein schnelles, unkompliziertes Ergebni
 > **Rolle:** Du bist ein erfahrener `[Instagram-Influencer]` und `[Social-Media-Copywriter]`.
 > **Anfrage:** Schreibe eine ansprechende Instagram-Caption für ein Foto zum Thema `[Situation/Bildinhalt]`. Füge passende Hashtags und Emojis hinzu.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

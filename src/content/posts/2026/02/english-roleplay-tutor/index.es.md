@@ -45,7 +45,6 @@ Deja atrás los aburridos libros de gramática. Activa el modo de voz de la IA y
 > 
 > **Tarea (Task):** Acabo de bajar del avión y estoy en el control de pasaportes. Hazme preguntas detalladas sobre el propósito de mi viaje, la duración de mi estancia, la dirección de mi alojamiento y mi profesión. Si mis respuestas son poco claras o tartamudeo, presióname como en un interrogatorio y adviérteme severamente que podrías denegarme la entrada. Empieza directamente con la primera pregunta.
 
-\
 
 ### 🥇 Pro Version (Small Talk de Negocios y Preparación de Exámenes)
 

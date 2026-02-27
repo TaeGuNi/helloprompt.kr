@@ -42,7 +42,6 @@ Use this when you just need a quick, no-frills workout.
 > **Role:** You are a highly motivating Crossfit and HIIT expert trainer.
 > **Request:** I am short on time but want to lose weight. Create a quick, intense 20-minute HIIT routine for me today.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

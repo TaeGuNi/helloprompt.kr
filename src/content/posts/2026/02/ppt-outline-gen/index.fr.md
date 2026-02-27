@@ -42,7 +42,6 @@ Idéale pour obtenir un brouillon rapide en quelques secondes.
 > **Rôle :** Tu es un `[expert en communication / consultant senior]`.
 > **Tâche :** Rédige le plan d'une présentation PPT de `[nombre]` diapositives sur le sujet : `[sujet de la présentation]`. Donne-moi un titre accrocheur et les points clés pour chaque diapositive.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

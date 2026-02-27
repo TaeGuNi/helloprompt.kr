@@ -58,7 +58,6 @@ export function PlaceCard({ name, description, rating }) {
 }
 ```
 
-\
 
 ### 🥇 第二步：注册组件与大语言模型对接 (Pro Integration)
 
@@ -85,7 +84,6 @@ export const tambo = createTambo({
 });
 ```
 
-\
 
 ### 💎 第三步：在聊天界面渲染生成式 UI
 

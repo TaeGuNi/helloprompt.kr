@@ -51,7 +51,6 @@ Si no estás utilizando la funcionalidad de **Context Caching** que ofrecen las 
 
 > _Pro Tip:_ Coloca el contenido estático (reglas, ejemplos) en la parte superior del prompt y el dinámico (consultas del usuario, historial reciente) en la inferior. ¡La caché funciona basándose en el prefijo (Prefix) del texto!
 
-\
 
 ### 🥇 Patrón 2: El Bucle de "Resumir y Olvidar" (Summarize-and-Forget)
 

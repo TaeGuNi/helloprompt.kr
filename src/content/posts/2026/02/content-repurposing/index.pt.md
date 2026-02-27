@@ -44,7 +44,6 @@ Use isso quando precisar transformar rapidamente o roteiro do vídeo em um rascu
 >
 > `[Cole o roteiro do vídeo aqui]`
 
-\
 
 ### 🥇 Versão Pro (Profissional)
 

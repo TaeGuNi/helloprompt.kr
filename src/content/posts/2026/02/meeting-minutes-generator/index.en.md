@@ -44,7 +44,6 @@ Useful for Daily Scrums or casual meetings where you just need a quick grasp of 
 >
 > [Paste your meeting notes here]
 
-\
 
 ### 🥇 Pro Version
 

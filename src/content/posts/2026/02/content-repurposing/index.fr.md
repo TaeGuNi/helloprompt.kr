@@ -44,7 +44,6 @@ Utilisez cette version lorsque vous souhaitez simplement convertir rapidement le
 > 
 > `[Collez le script ici]`
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

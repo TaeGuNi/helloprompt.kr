@@ -42,7 +42,6 @@ Use this when you just need a quick dose of inspiration.
 > **Role:** You are a genius rapper and a top-tier lyricist.
 > **Request:** I need to write rap lyrics about `[Success]`. Give me 8 bars of lyrics where the end rhymes match the vowel sound of `[Sky]`. Make the punchlines hit hard.
 
-\
 
 ### 🥇 Pro Version (Expert Lyricist)
 

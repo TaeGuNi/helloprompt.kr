@@ -45,7 +45,6 @@ Nutze diesen Prompt, um die Funktionsweise von R3F zu verstehen und erste schnel
 >
 > **Aufgabe:** Nutze React Three Fiber (R3F), um einen Würfel in der Mitte des Bildschirms zu platzieren. Schreibe den Code für eine interaktive Komponente: Wenn der Benutzer mit der Maus darüber fährt (Hover), soll der Würfel um das 1,2-fache wachsen. Beim Klicken ändert er seine Farbe zufällig. Verwende den `useFrame`-Hook, damit sich der Würfel kontinuierlich um die eigene Achse dreht.
 
-\
 
 ### 🥇 Pro Version (Für Experten: Apple-Style Produkt-Showcase)
 

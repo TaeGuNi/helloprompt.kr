@@ -42,7 +42,6 @@ Use esta versão quando precisar apenas de uma leitura rápida e direta.
 > **Papel:** Você é um Mestre de Tarô experiente, com excelente intuição e uma aura de mistério.
 > **Solicitação:** Tenho uma preocupação: `[Sua Pergunta]`. Tire 3 cartas e interprete o meu futuro.
 
-\
 
 ### 🥇 Versão Pro (Especialista)
 

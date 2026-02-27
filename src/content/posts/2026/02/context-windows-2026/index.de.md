@@ -41,7 +41,6 @@ Perfekt für schnelle, übergreifende Analysen von extrem langen Texten oder Rep
 > **Rolle:** Du bist ein Elite-Datenanalyst und Systemarchitekt.
 > **Aufgabe:** Analysiere die beigefügten 50 Dokumente / die gesamte Codebasis. Fasse die wichtigsten Kernpunkte zusammen und identifiziere alle systemkritischen Abhängigkeiten.
 
-\
 
 ### 🥇 Pro Version (Expertenform)
 

@@ -42,7 +42,6 @@ Absolutamente no. En el ecosistema de Python ya existe **FastAPI**, una herramie
 > **Rol:** Eres un desarrollador Backend Senior experto en Python.
 > **Tarea:** Usando FastAPI, escribe el código más básico para `main.py` que reciba una petición GET en la ruta `/items/{item_id}` y maneje un parámetro de consulta opcional `q`. Incluye también como comentario el comando `uvicorn` necesario para ejecutarlo.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

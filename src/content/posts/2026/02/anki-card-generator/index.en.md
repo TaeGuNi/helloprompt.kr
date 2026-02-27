@@ -42,7 +42,6 @@ Use this when you need quick, straightforward flashcards without complex formatt
 > **Role:** You are an `[Expert Study Assistant]`.
 > **Request:** Convert the following `[lecture notes/text]` into simple flashcard Q&A pairs that can be imported into Anki or Quizlet.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

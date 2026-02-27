@@ -41,7 +41,6 @@ Use this for a quick, high-level risk assessment of your current AI project.
 > **Role:** You are a Senior EU AI Regulatory Consultant.
 > **Task:** Analyze the following `[AI Video Project Description]` and identify immediate red flags under the EU AI Act 2.0. Tell me if it falls under Unacceptable, High, Limited, or Minimal risk categories.
 
-\
 
 ### 🥇 Pro Version
 

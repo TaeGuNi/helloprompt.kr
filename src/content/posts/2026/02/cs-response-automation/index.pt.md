@@ -43,7 +43,6 @@ Use esta versão para copiar e colar rapidamente em casos de rotina, como atraso
 > **Task (Tarefa):** Escreva uma resposta educada para a dúvida do cliente abaixo. Peça desculpas e informe que a entrega está atrasada por `[Período de Atraso]` devido a `[Motivo do Atraso]`. Inclua também que, se ele aguardar mais um pouco, ofereceremos `[Detalhes da Compensação]`.
 > **Context (Dúvida do Cliente):** `[Cole aqui a mensagem real do cliente]`
 
-\
 
 ### 🥇 Versão Pro (Defesa contra Consumidores Problemáticos / Recusa de Reembolso)
 

@@ -46,7 +46,6 @@ Ya no necesitas suplicar por un desarrollador. Combinando **Bubble.io**, una pot
 > **Tarea:** Cuando el usuario haga clic en el botón 'Registrarse', explícame paso a paso y en orden el **Workflow de Bubble** para: 1) verificar que las contraseñas coinciden, 2) guardar la información del usuario en la base de datos, 3) enviar un correo electrónico de bienvenida, y 4) redirigir a la pantalla de 'Inicio'.
 > **Condiciones:** Explica basándote en la interfaz de usuario, indicando exactamente qué menú (Action) del editor de Bubble debo hacer clic para configurarlo.
 
-\
 
 ### 🥇 Versión Pro (Arquitectura y BD de todo el servicio)
 

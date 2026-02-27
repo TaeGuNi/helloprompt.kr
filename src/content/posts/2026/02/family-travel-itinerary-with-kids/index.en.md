@@ -43,7 +43,6 @@ Use this when you need quick results without the fuss.
 >
 > **Request:** Create a family-friendly travel itinerary that protects the children's stamina and the parents' peace of mind.
 
-\
 
 ### 🥇 Pro Version
 

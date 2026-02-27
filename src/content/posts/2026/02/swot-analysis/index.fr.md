@@ -42,7 +42,6 @@ Utilisez cette version lorsque vous avez besoin d'un aperçu rapide sans entrer 
 > **Rôle :** Tu es un `[Consultant en Stratégie]` au sein d'un prestigieux cabinet de conseil en gestion.
 > **Demande :** Réalise une analyse SWOT (Forces, Faiblesses, Opportunités, Menaces) pour l'entreprise `[Nom de l'entreprise]`.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

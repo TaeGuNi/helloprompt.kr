@@ -42,7 +42,6 @@ Usa questa versione quando hai bisogno di un risultato immediato senza troppi de
 > **Ruolo:** Sei un fotografo ritrattista professionista.
 > **Richiesta:** Genera l'immagine di un `[Soggetto]` in primo piano nitido. Lo sfondo deve essere una `[Ambientazione]` completamente sfocata con un bellissimo effetto bokeh sulle luci.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

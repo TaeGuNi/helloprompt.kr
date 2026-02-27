@@ -43,7 +43,6 @@ Use this when you need a quick burst of retro flair without overthinking the det
 > **Task:** Generate an image using a Risograph print style. Make sure to emphasize its unique halftones, bold neon colors, and slight color misalignment.
 > **Subject:** `[Describe your subject, e.g., A cat wearing sunglasses]`
 
-\
 
 ### 🥇 Pro Version
 

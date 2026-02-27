@@ -42,7 +42,6 @@ Use esta versão quando precisar de uma análise rápida e direta dos seus dados
 > **Papel:** Você é um Cientista de Dados Sênior.
 > **Solicitação:** Analise os seguintes dados numéricos e extraia as 3 principais implicações para o nosso negócio: `[Cole os dados aqui]`
 
-\
 
 ### 🥇 Versão Pro (Expert Version)
 

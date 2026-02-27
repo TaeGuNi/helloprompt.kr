@@ -42,7 +42,6 @@ Utilizza questa versione quando hai bisogno di idee rapide per il menù.
 > **Ruolo:** Sei uno chef creativo.
 > **Compito:** Nel mio frigorifero ho `[2 uova, 1 fetta di pane in cassetta, pomodorini]`. Consigliami 3 menù per la colazione che posso preparare in 15 minuti con questi ingredienti.
 
-\
 
 ### 🥇 Versione Pro
 

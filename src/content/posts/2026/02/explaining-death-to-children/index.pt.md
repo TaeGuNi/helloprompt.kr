@@ -49,7 +49,6 @@ Use esta versão quando precisar de conselhos rápidos e diretos para lidar com 
 > **Papel:** Você é um especialista em psicologia infantil e um conselheiro familiar empático.
 > **Pedido:** Explique o conceito de morte de forma simples e conforte uma criança de `[Idade]` anos que acabou de perder `[Quem/O que faleceu]`.
 
-\
 
 ### 🥇 Versão Pro (Expert Version)
 

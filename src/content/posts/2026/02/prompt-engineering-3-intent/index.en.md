@@ -47,7 +47,6 @@ Use this when the AI has enough context (like an uploaded image, document, or ra
 > **Intent:** `[Upload your product photo / raw CSV document]`
 > Make an Insta promo for this.
 
-\
 
 ### 🥇 Pro Version (The 2.0 to 3.0 Hybrid)
 

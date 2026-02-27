@@ -42,7 +42,6 @@ Une chasse au trésor est le jeu idéal pour canaliser l'énergie des enfants to
 > **Rôle :** Tu es un animateur pour enfants très créatif.
 > **Demande :** Crée 4 indices de chasse au trésor à la maison pour un enfant. Les cachettes sont : canapé, frigo, lit, et porte d'entrée.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

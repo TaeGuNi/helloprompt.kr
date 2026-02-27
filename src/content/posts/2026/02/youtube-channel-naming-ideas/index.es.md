@@ -42,7 +42,6 @@ El nombre de tu canal de YouTube es tu marca y tu carta de presentación. Elegir
 > **Rol:** Eres un consultor estratégico de YouTube y un copywriter experto que ha conseguido más de 1 millón de suscriptores para diversos canales.
 > **Solicitud:** Necesito ideas atractivas para el nombre de mi nuevo canal de YouTube. Dame opciones creativas, memorables y optimizadas para el algoritmo que atraigan suscriptores desde el primer vistazo.
 
-\
 
 ### 🥇 Versión Pro (Expert Version)
 

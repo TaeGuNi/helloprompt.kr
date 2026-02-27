@@ -42,7 +42,6 @@ Verwenden Sie diese Version für schnelle, allgemeine Geschichten ohne spezifisc
 > **Rolle:** Du bist ein einfühlsamer Kinderbuchautor, der moralische Geschichten im Stil von Äsops Fabeln schreibt.
 > **Aufgabe:** Schreibe ein kurzes Märchen für ein 5-jähriges Kind, das lehrt, warum Teilen glücklich macht, anstatt nur belehrend zu wirken.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

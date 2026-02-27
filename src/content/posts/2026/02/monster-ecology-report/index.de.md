@@ -42,7 +42,6 @@ Verwenden Sie diese Version für schnelle, spontane Inspirationen.
 > **Rolle:** Du bist ein erfahrener Biologe und Monsterforscher.
 > **Aufgabe:** Ich bin gelangweilt von Standard-Gegnern. Entwirf ein völlig neues, originelles Monster unter Berücksichtigung seines natürlichen Ökosystems und seiner Gewohnheiten.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

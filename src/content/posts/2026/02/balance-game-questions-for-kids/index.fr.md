@@ -42,7 +42,6 @@ Idéal pour obtenir des idées amusantes en un clin d'œil, sans personnalisatio
 > **Rôle :** Tu es un animateur pour enfants ultra-créatif et un expert en psychologie infantile.
 > **Demande :** Génère 5 questions de jeu "Tu préfères ?" (dilemmes amusants) pour faire rire et parler un enfant de `[Âge]` ans.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

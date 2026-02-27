@@ -38,7 +38,6 @@ Usala quando vuoi migliorare le capacità di ragionamento dell'IA nel modo più 
 > **Ruolo:** Sei un `[Analista Logico]`.
 > **Richiesta:** Fornisci una risposta alla seguente `[Situazione o problema complesso]`. **Tuttavia, prima di trarre una conclusione, pensa in modo logico e procedi passo dopo passo (Think step-by-step).**
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

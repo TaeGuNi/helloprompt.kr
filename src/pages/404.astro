@@ -2,8 +2,8 @@
 import BaseHtml from "../components/BaseHtml.astro";
 import {
   filterPublishedPosts,
-  getRandomPosts,
   type Post,
+  sortPostsByDate,
 } from "../utils/postUtils";
 
 // 1. 모든 포스트 가져오기 (한국어 + 다국어)
@@ -21,12 +21,13 @@ const postsByLang: Record<
   { title: string; description: string; url: string }[]
 > = {};
 
-// 한국어 처리
-postsByLang.ko = getRandomPosts(filterPublishedPosts(koPosts), 4).map((p) => ({
-  title: p.frontmatter.title,
-  description: p.frontmatter.description,
-  url: p.url,
-}));
+postsByLang.ko = sortPostsByDate(filterPublishedPosts(koPosts))
+  .slice(0, 4)
+  .map((p) => ({
+    title: p.frontmatter.title,
+    description: p.frontmatter.description,
+    url: p.url,
+  }));
 
 // 다국어 처리
 const groupedOthers: Record<string, Post[]> = {};
@@ -43,13 +44,13 @@ otherPosts.forEach((post) => {
 });
 
 for (const [lang, posts] of Object.entries(groupedOthers)) {
-  postsByLang[lang] = getRandomPosts(filterPublishedPosts(posts), 4).map(
-    (p) => ({
+  postsByLang[lang] = sortPostsByDate(filterPublishedPosts(posts))
+    .slice(0, 4)
+    .map((p) => ({
       title: p.frontmatter.title,
       description: p.frontmatter.description,
       url: p.url,
-    }),
-  );
+    }));
 }
 
 // 3. UI 번역 데이터
@@ -216,7 +217,7 @@ const uiStrings = {
 
       .post-grid {
         display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+        grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr));
         gap: 20px;
       }
 
@@ -304,6 +305,8 @@ const uiStrings = {
         const currentLang = supportedLangs.includes(firstSegment)
           ? firstSegment
           : "ko";
+          
+        document.documentElement.lang = currentLang;
 
         // 2. UI 텍스트 업데이트
         const ui = uiStrings[currentLang] || uiStrings["ko"];

@@ -42,7 +42,6 @@ Use esta versão para funções utilitárias simples e resultados ultrarrápidos
 > **Papel:** Você é um `[Líder de QA]`.
 > **Solicitação:** Escreva testes unitários exaustivos cobrindo cenários de sucesso e falha para o seguinte código: `[Cole o código aqui]`. Utilize o framework `[Jest / JUnit / pytest]`.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 
@@ -64,9 +63,9 @@ Use esta versão para garantir uma cobertura profunda, rigorosa documentação e
 >
 > **Código Alvo:**
 >
-> ```
+>
 > [Cole seu código aqui]
-> ```
+>
 >
 > **Restrições (Constraints):**
 >
@@ -117,7 +116,6 @@ function divide(a, b) {
 }
 ```
 
-\
 
 ### ✅ After (Testes Gerados Automaticamente usando Jest)
 

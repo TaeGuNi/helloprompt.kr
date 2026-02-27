@@ -50,7 +50,6 @@ Wenn Sie die **Context Caching**-Funktion moderner APIs noch nicht nutzen, werfe
 >
 > _Pro-Tipp:_ Platzieren Sie statische Inhalte (Regeln, Beispiele) ganz oben im Prompt und dynamische Inhalte (User Query, aktueller Chat) ganz unten. Caching funktioniert basierend auf dem Prefix des Textes!
 
-\
 
 ### 🥇 Pro Version (Die "Summarize-and-Forget"-Schleife)
 
@@ -70,7 +69,7 @@ Anstatt rohe Logs ("Gedanke: X, Aktion: Y, Ergebnis: Z...") endlos mitzuführen,
 > **Einschränkungen (Constraints):**
 > - Die Ausgabe MUSS zwingend die unten stehende JSON-Struktur einhalten.
 >
-> ```json
+>
 > {
 >   "thought": "Logische Schlussfolgerung zum aktuellen Schritt...",
 >   "action": "function_name(args)",
@@ -81,7 +80,7 @@ Anstatt rohe Logs ("Gedanke: X, Aktion: Y, Ergebnis: Z...") endlos mitzuführen,
 >     "blockers": "Keine"
 >   }
 > }
-> ```
+>
 >
 > **Warnung (Warning):**
 > - Erfinde keine Fakten. Wenn du etwas nicht weißt, antworte mit "Ich weiß es nicht". (Halluzinations-Schutz)

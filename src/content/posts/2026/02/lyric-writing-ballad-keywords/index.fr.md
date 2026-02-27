@@ -42,7 +42,6 @@ Idéal lorsque vous êtes en panne d'inspiration et avez besoin d'une idée imm�
 > **Rôle :** Tu es un parolier professionnel reconnu pour ta plume délicate et tes textes poignants, à l'image des plus grands auteurs de ballades.
 > **Requête :** Écris-moi les paroles d'une ballade triste en utilisant ces 3 mots-clés : [Mot 1], [Mot 2], [Mot 3].
 
-\
 
 ### 🥇 Pro Version (Version Expert)
 

@@ -49,7 +49,6 @@ Use esta versão quando a criança já estiver na cama e você precisar de uma h
 > **Papel:** Você é um renomado escritor de literatura infantil, especialista em criar histórias mágicas que desenvolvem a autoestima das crianças.
 > **Solicitação:** Escreva um conto de fadas curto e envolvente onde a criança principal tem o mesmo nome do meu filho. Focando em uma aventura que ensine coragem e aumente sua autoconfiança.
 
-\
 
 ### 🥇 Versão Especialista (Pro Version)
 

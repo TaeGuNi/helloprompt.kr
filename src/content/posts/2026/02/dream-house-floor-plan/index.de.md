@@ -46,7 +46,6 @@ Verwende diese Version, um die allgemeine Atmosphäre der Fassade und den Archit
 >
 > **Prompt:** modern minimal house exterior, white concrete and wood, large glass windows, nature surrounding, warm lighting, photorealistic, 8k --ar 16:9
 
-\
 
 ### 🥇 Pro Version (Experten-Grundriss & Isometrie)
 

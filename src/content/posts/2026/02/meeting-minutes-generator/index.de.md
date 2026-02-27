@@ -44,7 +44,6 @@ Perfekt für Daily Scrums oder informelle Meetings, bei denen Sie schnell die wi
 >
 > [Meeting-Notizen hier einfügen]
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

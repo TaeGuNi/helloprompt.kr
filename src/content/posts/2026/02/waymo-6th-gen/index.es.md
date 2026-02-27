@@ -42,7 +42,6 @@ Utiliza este prompt cuando necesites un resumen rápido y directo de una actuali
 > **Rol:** Eres un `[Periodista Tecnológico]`.
 > **Tarea:** Resume los 3 puntos clave de la actualización del `[Conductor de 6ª Generación de Waymo]`, enfocándote en las mejoras de hardware y software.
 
-\
 
 ### 🥇 Versión Profesional (Pro)
 

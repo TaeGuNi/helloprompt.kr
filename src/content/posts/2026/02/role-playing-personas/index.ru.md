@@ -39,7 +39,6 @@ tags: ["AI", "Tech", "role-playing-personas"]
 > **Роль:** Ты `[Senior Backend Engineer]`.
 > **Задача:** Напиши функцию для подключения к базе данных на `[Go]`.
 
-\
 
 ### 🥇 Pro Version (Продвинутая версия)
 

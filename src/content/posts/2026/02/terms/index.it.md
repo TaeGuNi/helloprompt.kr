@@ -39,7 +39,6 @@ Un riassunto di un minuto per chi ha poco tempo. Ricordate almeno questi punti!
 > **Articolo 2 (Copyright):** Tutti i diritti d'autore sui prompt e sui contenuti presenti nel Sito appartengono a Hello Prompt.
 > **Articolo 3 (Limitazione di Responsabilità):** Le informazioni sul Sito sono fornite a scopo consultivo. Il Sito non si assume alcuna responsabilità legale per i risultati derivanti dall'esecuzione dell'IA.
 
-\
 
 ### 🥇 Versione Pro (Termini Dettagliati)
 

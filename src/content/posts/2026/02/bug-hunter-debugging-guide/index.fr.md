@@ -43,7 +43,6 @@ Utilisez cette version lorsque vous êtes pressé et que vous souhaitez simpleme
 > **Rôle :** Tu es un développeur senior expert en débogage, doté d'une capacité d'analyse digne de Sherlock Holmes.
 > **Requête :** Analyse ce `[Message d'erreur]` et ce `[Extrait de code]`. Dis-moi exactement ce qui cloche et comment le réparer.
 
-\
 
 ### 🥇 Pro Version (Version Expert)
 

@@ -42,7 +42,6 @@ Todo Game Master de TRPG (Juegos de Rol de Mesa) conoce el pánico de una sesió
 > **Rol:** Eres un Game Master (Director de Juego) veterano y un experto narrador.
 > **Solicitud:** No tengo tiempo para preparar la sesión de hoy. Genera un gancho de escenario emocionante e inmediato que obligue a los jugadores a entrar en acción de inmediato.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

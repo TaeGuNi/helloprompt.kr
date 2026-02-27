@@ -40,7 +40,6 @@ El núcleo de este logro asombroso radica en la ingeniería de prompts, la cual 
 > **Rol:** Eres un `[Analista de Datos / Físico Teórico]` con una perspicacia aguda.
 > **Tarea:** Analiza la lógica central del siguiente `[documento/teoría]` paso a paso y encuentra si existen puntos de contradicción con los paradigmas actuales.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

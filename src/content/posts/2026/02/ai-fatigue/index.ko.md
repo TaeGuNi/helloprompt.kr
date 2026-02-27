@@ -45,7 +45,6 @@ tags: ["AI Fatigue", "Hype Cycle", "Tech Burnout"]
 >
 > 기사 내용: `[기사 본문 또는 링크]`
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

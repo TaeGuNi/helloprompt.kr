@@ -48,7 +48,6 @@ Utilisez cette version lorsque vous êtes pressé et avez juste besoin d'une id�
 > **Rôle :** Tu es un critique gastronomique et un expert pour résoudre l'indécision.
 > **Demande :** Choisis ce que je dois manger ce soir. J'ai très faim, il fait froid, et je veux éviter la restauration rapide.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

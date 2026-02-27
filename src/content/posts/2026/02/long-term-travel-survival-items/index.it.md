@@ -48,7 +48,6 @@ Usala quando hai bisogno di una lista rapida e senza troppi fronzoli.
 > **Ruolo:** Sei un "Nomade Digitale Esperto" che ha vissuto in oltre 20 paesi diversi per lunghi periodi.
 > **Richiesta:** Consigliami 10 oggetti essenziali (non i soliti vestiti o passaporto) che migliorano drasticamente la qualità della vita durante un viaggio a lungo termine all'estero, facendoti sentire sempre a casa.
 
-\
 
 ### 🥇 Versione Pro (Expert Version)
 

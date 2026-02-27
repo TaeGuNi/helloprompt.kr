@@ -39,7 +39,6 @@ El panorama ha cambiado drásticamente. Este post explora el impacto crítico de
 > **Rol:** Eres un experto en cumplimiento legal de la Ley de IA de la UE.
 > **Tarea:** Analiza el siguiente `[Descripción del vídeo y modelo usado]` y dime si cumple con los requisitos básicos de divulgación y derechos de autor de la EU AI Act 2.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

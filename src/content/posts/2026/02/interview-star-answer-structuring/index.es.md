@@ -42,7 +42,6 @@ La principal razón de rechazo en las entrevistas es la **falta de coherencia**.
 > **Rol:** Eres un experto coach de comunicación y consultor de entrevistas.
 > **Solicitud:** Para evitar divagar, estructura mi siguiente experiencia laboral utilizando la técnica STAR (Situación, Tarea, Acción, Resultado) para que mi respuesta sea clara y concisa.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

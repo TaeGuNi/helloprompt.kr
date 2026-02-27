@@ -42,7 +42,6 @@ tags: ["AI", "Tech", "smart-sleep-mask-privacy-leak"]
 > **任務:** 請檢查以下 BLE 連線程式碼，指出是否存在未授權讀取或廣播敏感資料的安全漏洞，並提供修復建議。
 > **程式碼:** `[貼上你的 BLE 連線程式碼]`
 
-\
 
 ### 🥇 Pro Version (專家版)
 

@@ -44,7 +44,6 @@ Perfetto per una rapida scansione iniziale del codice alla ricerca di vulnerabil
 > **Richiesta:** Analizza il seguente codice di connessione Bluetooth Low Energy (BLE) e individua eventuali vulnerabilità legate all'esposizione di dati sensibili senza handshake o crittografia.
 > **Codice:** `[Inserisci il tuo codice BLE qui]`
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

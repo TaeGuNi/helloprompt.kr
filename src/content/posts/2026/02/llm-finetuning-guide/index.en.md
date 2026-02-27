@@ -52,7 +52,6 @@ If you don't have time to manually type out hundreds of data points, leverage a 
 > 2. Write 10 professional, highly motivating answers (Output) for each question.
 > 3. You MUST output the results in JSONL format (`{"instruction": "...", "output": "..."}`).
 
-\
 
 ### 🥇 Pro Version (Training Pipeline Code Generator)
 

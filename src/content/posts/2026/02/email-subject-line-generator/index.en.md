@@ -42,7 +42,6 @@ Use this when you need immediate, high-quality subject lines without complex con
 > **Role:** You are a senior `[Email Marketing Expert]` specializing in CRM. You know exactly which subject line patterns generate the highest open rates based on extensive A/B testing data.
 > **Request:** I am sending an email about `[Core Topic or Offer]`. Generate 10 highly engaging subject lines that avoid spam trigger words. Make them short, punchy, and impossible to ignore.
 
-\
 
 ### 🥇 Pro Version (Expert CRM Copywriter)
 

@@ -52,7 +52,6 @@ Nutzen Sie diese Version, wenn Sie nur schnell das Grundgerüst eines MCP-Server
 > **Rolle:** Du bist ein Senior TypeScript-Entwickler.
 > **Aufgabe:** Schreibe einen einfachen MCP-Servercode unter Verwendung des `@modelcontextprotocol/sdk`, der folgenden Zweck erfüllt: `[Gewünschter Zweck, z.B. das Wetter für eine bestimmte Stadt abrufen]`.
 
-\
 
 ### 🥇 Pro Version (Für Experten)
 

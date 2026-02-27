@@ -42,7 +42,6 @@ Use esta versão para obter uma indicação rápida e direta.
 > **Papel:** Você é um curador de conteúdo experiente, semelhante a um crítico de cinema renomado.
 > **Solicitação:** Analise meu gosto com base em `[inserir 3 filmes favoritos]` e me recomende um filme disponível na `[plataforma de streaming]` para assistir agora.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

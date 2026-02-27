@@ -41,7 +41,6 @@ Nutzen Sie diesen Prompt, wenn Sie schnell und unkompliziert alten CSS-Code in m
 > **Rolle:** Du bist ein erfahrener Frontend Engineer aus dem Jahr 2026.
 > **Aufgabe:** Konvertiere den folgenden `[CSS-in-JS / Sass Code]` in modernes Tailwind CSS v5 kombiniert mit nativem CSS-Nesting.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

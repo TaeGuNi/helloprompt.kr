@@ -46,7 +46,6 @@ Ideal para converter pequenos blocos de CSS ou componentes simples de forma dire
 > **Task:** Refatore o código abaixo utilizando apenas **Nesting CSS Nativo** e **Tailwind CSS v5**. Remova completamente qualquer dependência de bibliotecas CSS-in-JS com runtime.
 > **Código:** `[INSIRA SEU CÓDIGO AQUI]`
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

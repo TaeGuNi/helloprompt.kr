@@ -48,7 +48,6 @@ Use this when you want to quickly convert and test simple computational function
 > **Code:**
 > `[Paste your C++/Go/Rust code here]`
 
-\
 
 ### 🥇 Pro Version
 
@@ -67,9 +66,9 @@ Use this when you need production-ready results that go beyond simple translatio
 > 4. **React Integration Example:** Provide example code for a React custom hook (e.g., `useWasm`) or component that asynchronously loads the generated Wasm module (`init()`) and calls it during the actual rendering cycle.
 >
 > **Input Code:**
-> ```plaintext
+>
 > [Paste your existing code here]
-> ```
+>
 >
 > **Constraints:**
 > - Maintain a design perspective that completely avoids blocking the browser's main thread.

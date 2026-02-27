@@ -51,7 +51,6 @@ Use this when you just need a rapid assessment of a small snippet.
 > **Role:** You are a Senior Principal Engineer and Algorithm Expert.
 > **Task:** Analyze the time and space complexity of the provided code and suggest performance improvements.
 
-\
 
 ### 🥇 Pro Version (Expert Review)
 
@@ -73,9 +72,9 @@ Use this for complex logic, interview prep, or production-grade code reviews.
 >
 > **Code to Analyze:**
 >
-> ```python
+>
 > [Paste your code here]
-> ```
+>
 >
 > **Constraints (Constraints):**
 >

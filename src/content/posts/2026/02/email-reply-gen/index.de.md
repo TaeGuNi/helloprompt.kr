@@ -41,7 +41,6 @@ Verwenden Sie diese Version, wenn Sie sofort ein brauchbares Ergebnis ohne viele
 > **Rolle:** Du bist ein `[erfahrener Projektmanager]`.
 > **Aufgabe:** Schreibe eine kurze, höfliche E-Mail-Antwort, um `[dieses Meeting auf nächsten Dienstag zu verschieben]`.
 
-\
 
 ### 🥇 Pro Version (Für maximale Professionalität)
 

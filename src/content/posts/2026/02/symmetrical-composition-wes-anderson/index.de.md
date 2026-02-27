@@ -42,7 +42,6 @@ Verwenden Sie diese Version für schnelle, beeindruckende Ergebnisse ohne viel V
 > **Rolle:** Du bist ein preisgekrönter Art Director und Experte für Bildkomposition.
 > **Anfrage:** Erstelle mir einen Prompt für eine perfekt symmetrische Komposition, bei der die linke und rechte Bildhälfte identisch sind, fokussiert auf `[Motiveingabe]`. Nutze einen skurrilen, stabilen Stil ähnlich der Kinematografie eines Wes Anderson-Films.
 
-\
 
 ### 🥇 Pro Version (Expertenform)
 

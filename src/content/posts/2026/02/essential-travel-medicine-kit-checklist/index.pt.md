@@ -48,7 +48,6 @@ Ideal para quando você precisa de uma lista rápida, abrangente e genérica de 
 > **Papel:** Você é um farmacêutico especializado em medicina de viagem e saúde internacional.
 > **Pedido:** Por favor, me forneça uma lista de verificação com os kits de primeiros socorros e medicamentos de emergência essenciais para uma viagem internacional, categorizados por sintomas e situações comuns.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

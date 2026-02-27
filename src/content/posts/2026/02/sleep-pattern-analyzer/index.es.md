@@ -42,7 +42,6 @@ El sueño es el pilar fundamental de la salud física y mental. Sin embargo, en 
 > **Rol:** Eres un experto en Medicina del Sueño y Psicólogo Conductual especializado en el tratamiento cognitivo-conductual para el insomnio (TCC-I).
 > **Solicitud:** Revisa mi rutina de hoy y dime qué estoy haciendo mal para no poder dormir: `[Me levanté a las 8 AM, tomé 3 cafés durante la tarde, cené pesado a las 9 PM y estuve viendo TikTok hasta la 1 AM]`. Dame 3 consejos rápidos.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

@@ -51,7 +51,6 @@ Ideale per generare B-roll d'impatto o brevi clip per TikTok e Reels in pochi se
 > **Azione:** `[Cosa sta facendo, es. Passeggia in una metropoli cyberpunk]`
 > **Stile Visivo:** `[Scegli lo stile, es. Fotorealistico, 4k, hyper-detailed]`
 
-\
 
 ### 🥇 Versione Pro (Livello Cinematografico)
 

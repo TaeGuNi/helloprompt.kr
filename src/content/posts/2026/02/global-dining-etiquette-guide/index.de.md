@@ -48,7 +48,6 @@ Nutzen Sie diesen Prompt, wenn Sie kurz vor dem Restaurantbesuch einen schnellen
 > **Rolle:** Du bist ein 'Globaler Etikette-Berater', der die weltweiten Esskulturen in- und auswendig kennt.
 > **Anfrage:** Nenne mir die wichtigsten Tischmanieren und die häufigsten kulturellen Fauxpas für ein Essen in `[Land]`.
 
-\
 
 ### 🥇 Pro Version (Experten-Level)
 

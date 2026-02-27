@@ -42,7 +42,6 @@ Nutzen Sie diese Variante, wenn Sie sofortige, unkomplizierte Inspiration benöt
 > **Rolle:** Du bist ein Bestseller-Autor und kreativer Plot-Berater.
 > **Anfrage:** Ich stecke in meiner Geschichte fest. Die aktuelle Situation ist `[Situation einfügen]`. Gib mir 3 unerwartete "Was wäre wenn?"-Entwicklungen.
 
-\
 
 ### 🥇 Pro Version (Expertenmodus)
 

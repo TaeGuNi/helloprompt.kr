@@ -43,7 +43,6 @@ Idéal lorsque vous êtes pressé et avez besoin d'une idée de jeu à la volée
 > **Rôle :** Tu es un animateur pour enfants expert en gamification.
 > **Demande :** Propose-moi 3 idées de jeux rapides (moins de 10 minutes) pour motiver mes enfants à ranger leur chambre en désordre, sans qu'ils aient l'impression de faire une corvée.
 
-\
 
 ### 🥇 Pro Version (Version Experte)
 

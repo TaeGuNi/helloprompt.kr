@@ -47,7 +47,6 @@ Ideal quando você precisa apenas salvar textos sublinhados e captar a mensagem 
 > **Tarefa:**
 Extraia o texto da imagem em anexo com precisão. Em seguida, resuma o argumento central que o autor quer transmitir nesta página em exatamente uma frase impactante.
 
-\
 
 ### 🥇 Versão Pro (Resenha Profunda e Plano de Ação)
 

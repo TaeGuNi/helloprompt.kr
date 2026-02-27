@@ -42,7 +42,6 @@ Use this when you just need a quick, rough estimate.
 > **Role:** You are a financial risk management expert.
 > **Request:** Calculate the optimal emergency fund size I need to survive a sudden job loss or accident without financial distress.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

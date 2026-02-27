@@ -43,7 +43,6 @@ Idéal pour obtenir une vue d'ensemble rapide des changements applicables à vot
 > **Rôle :** Tu es un `[Expert Python]`.
 > **Tâche :** Résume les 3 nouveautés les plus importantes de Python 3.14 pour un développeur spécialisé en `[Ton domaine, ex: Data Science, Web Backend]`.
 
-\
 
 ### 🥇 Version Pro (Pour la refactorisation de code)
 
@@ -64,9 +63,9 @@ Utilisez cette version pour analyser et mettre à jour directement votre base de
 >
 > **Code à analyser :**
 >
-> ```python
+>
 > [Insère ton code Python ici]
-> ```
+>
 >
 > **Contraintes (Constraints) :**
 >

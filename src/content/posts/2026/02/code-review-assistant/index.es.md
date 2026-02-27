@@ -43,12 +43,9 @@ Ahora puedes someter tu código a la revisión de un evaluador de IA con el nive
 > **Rol:** Eres un desarrollador Backend/Frontend Senior con 10 años de experiencia.
 > **Instrucción:** Revisa el siguiente código y encuentra cualquier bug crítico o antipatrón (anti-pattern) que deba corregirse inmediatamente.
 >
-> ```plaintext
+>
 > [Pega tu código aquí]
-> ```
-
-\
-
+>
 ### 🥇 Versión Pro (Pro Version)
 
 Recomendada para elevar la calidad de tu código a nivel de producción (Production) y obtener una justificación objetiva y técnica para el refactoring.
@@ -63,9 +60,9 @@ Recomendada para elevar la calidad de tu código a nivel de producción (Product
 >
 > **Código (Input):**
 >
-> ```plaintext
+>
 > [Pega aquí el código que deseas revisar]
-> ```
+>
 >
 > **Instrucción (Task):**
 > Revisa mi código de manera estricta desde las siguientes 4 perspectivas y proporciona el código completo mejorado:

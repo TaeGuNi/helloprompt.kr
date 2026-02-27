@@ -51,7 +51,6 @@ Usa questo prompt quando vuoi affidare sia la pianificazione che il coding a un 
 > **Ruolo:** Sei un `[Senior AI Developer]`.
 > **Task:** Progetta un `[Agent autonomo per il trading azionario]` e scrivi l'intero codice Python necessario per eseguirlo.
 
-\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

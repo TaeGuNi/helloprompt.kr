@@ -42,7 +42,6 @@ Para quando você precisa de um direcionamento rápido.
 > **Papel:** Você é um consultor financeiro renomado e educador de finanças pessoais.
 > **Solicitação:** Crie um plano de orçamento mensal pragmático com base no meu salário atual e nas minhas despesas fixas.
 
-\
 
 ### 🥇 Versão Pro (Expert Version)
 

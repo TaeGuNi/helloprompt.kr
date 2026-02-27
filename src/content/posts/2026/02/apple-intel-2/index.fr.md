@@ -48,7 +48,6 @@ Utilisez cette version pour résumer rapidement le contenu de votre écran ou vo
 > **Rôle :** Tu es mon assistant personnel.
 > **Tâche :** Résume les informations clés actuellement à l'écran en 3 phrases maximum.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

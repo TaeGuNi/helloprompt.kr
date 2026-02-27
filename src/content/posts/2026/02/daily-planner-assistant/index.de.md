@@ -47,7 +47,6 @@ Verwenden Sie diese Version, wenn Sie nur schnell einen groben Überblick und Pr
 > **Heutige To-do-Liste:**
 > `[Fügen Sie hier Ihre ungeordneten Aufgaben für heute ein]`
 
-\
 
 ### 🥇 Pro Version
 
@@ -136,7 +135,6 @@ Meine Arbeitszeit ist von 09:30 bis 18:30 Uhr.
 | **DELEGATE (Dringend, nicht wichtig)** | Logo-Korrektur beim Design-Team anfragen \ E-Mails beantworten | **Schnell abwickeln/delegieren**, direkt morgens erledigen |
 | **DELETE (Nicht dringend & nicht wichtig)** | (Derzeit keine Aufgaben in dieser Kategorie) | - |
 
-\
 
 ## 🕒 Tagesplan (Time-Blocking)
 

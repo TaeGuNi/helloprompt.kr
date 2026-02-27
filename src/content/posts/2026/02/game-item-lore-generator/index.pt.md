@@ -42,7 +42,6 @@ Use esta versão quando precisar apenas de uma inspiração rápida e direta.
 > **Papel:** Você é um mestre ferreiro e avaliador especializado em relíquias antigas e artefatos mágicos.
 > **Solicitação:** Uma simples 'Espada +1' é entediante. Crie um item único, com uma narrativa envolvente e uma mecânica especial (truque).
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

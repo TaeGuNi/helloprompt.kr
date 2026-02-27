@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt, wenn Sie sofort ein einfaches Ergebnis benötigen.
 > **Rolle:** Du bist ein erfahrener Sporternährungsexperte und Diätberater.
 > **Anfrage:** Erstelle mir einen gesunden 7-Tage-Ernährungsplan zum Abnehmen.
 
-\
 
 ### 🥇 Pro Version (Für Experten-Resultate)
 

@@ -42,7 +42,6 @@ Use this when you need a fast formula without diving into complex logic.
 > **Role:** You are a Senior Data Analyst and an Excel function expert.
 > **Request:** I have two Excel sheets. Sheet 1 has data I want, and Sheet 2 is where I need it. Write an XLOOKUP formula to pull data from Sheet 1 to Sheet 2 based on a common matching column. Explain how to plug in my specific column letters.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

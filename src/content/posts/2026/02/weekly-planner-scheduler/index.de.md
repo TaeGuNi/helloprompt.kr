@@ -42,7 +42,6 @@ Verwenden Sie diese Version, wenn Sie nur eine schnelle Strukturierung ohne viel
 > **Rolle:** Du bist ein erfahrener Zeitmanagement-Coach und meine persönliche Assistenz.
 > **Anfrage:** Ich habe diese Woche viel zu tun, weiß aber nicht, wo ich anfangen soll. Bitte strukturiere meine folgenden Aufgaben nach Priorität und erstelle einen einfachen Wochenplan: `[Hier unsortierte Aufgaben einfügen]`.
 
-\
 
 ### 🥇 Pro Version (Expertenmodus)
 

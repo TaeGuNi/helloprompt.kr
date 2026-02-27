@@ -40,7 +40,6 @@ Usa questa struttura per query veloci e mirate, limitando le informazioni superf
 > **Contesto:** Ho un documento di 50 pagine, ma ti fornirò solo i `[3 paragrafi chiave]` rilevanti.
 > **Richiesta:** Basandoti ESCLUSIVAMENTE sui paragrafi forniti, rispondi alla `[Domanda dell'utente]`.
 
-\
 
 ### 🥇 Versione Pro (Pro Version)
 

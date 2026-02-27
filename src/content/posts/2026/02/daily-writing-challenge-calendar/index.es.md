@@ -43,7 +43,6 @@ Escribir a diario es uno de los hábitos más transformadores que puedes adquiri
 >
 > **Solicitud:** Ayúdame a construir el hábito de escribir. Crea una lista de 30 temas de escritura interesantes (con preguntas guía) adaptados a una persona interesada en `[Psicología y Productividad]`.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

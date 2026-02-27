@@ -39,7 +39,6 @@ Um eine reibungslose und sichere Umgebung zu gewährleisten, erhebt diese Websit
 > **Erfasste Daten:** `[Cookies]`, `[IP-Adresse]`, `[Browser- und Geräteinformationen]`, `[Zugriffszeit und Besuchsverlauf]`
 > **Erhebungsmethode:** Systematische Erfassung durch automatische Tools (wie Google Analytics) beim Besuch der Website.
 
-\
 
 ### 🥇 Zweck der Datennutzung (Pro Usage)
 

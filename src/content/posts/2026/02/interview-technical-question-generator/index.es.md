@@ -48,7 +48,6 @@ Ideal cuando necesitas una idea general rápida antes de una primera criba telef
 > **Rol:** Eres un líder técnico con 20 años de experiencia entrevistando candidatos para el puesto de `[Nombre del Puesto]`.
 > **Solicitud:** Genera las preguntas de entrevista técnica más comunes y sus respuestas modelo, ajustadas perfectamente a mi rol de `[Nombre del Puesto]`, con `[N]` años de experiencia y enfocado en `[Habilidad Principal]`.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

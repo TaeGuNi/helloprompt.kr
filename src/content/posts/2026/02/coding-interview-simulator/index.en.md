@@ -42,7 +42,6 @@ Use this when you need a quick, high-level review of your code after solving a p
 > **Role:** You are a `[Senior Software Engineer at a FAANG company]`.
 > **Request:** I have just written the solution for `[Algorithm Problem]`. Review my code, analyze its complexity, and ask me one technical interview follow-up question.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

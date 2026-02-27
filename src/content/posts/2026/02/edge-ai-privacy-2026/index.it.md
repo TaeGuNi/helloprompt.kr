@@ -39,7 +39,6 @@ Usa questa versione per ottenere rapidamente una panoramica sulle opzioni locali
 > **Ruolo:** Sei un Software Architect esperto in Edge AI.
 > **Richiesta:** Spiegami come integrare un LLM locale nella mia app `[Inserisci tipo di app, es. gestione spese]` per garantire la privacy degli utenti, suggerendomi un paio di modelli leggeri da testare.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

@@ -42,7 +42,6 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Photography", "Effect"]
 > **역할:** 너는 전문 포토그래퍼야.
 > **요청:** 배경을 흐릿하게 날려서 피사체인 `[피사체, 예: 책상 위 커피잔]`을 돋보이게 하고, 배경에는 감성적인 빛망울(보케) 효과를 넣어줘.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

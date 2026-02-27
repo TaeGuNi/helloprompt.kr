@@ -42,7 +42,6 @@ Ideal cuando tienes prisa y solo necesitas saber qué ecuación aplicar de inmed
 > **Rol:** Eres un experto profesor de física y estratega en resolución de problemas.
 > **Solicitud:** Lee el siguiente problema de física, analiza las variables y dime exactamente qué fórmula debo usar y por qué: `[Inserta tu problema aquí]`
 
-\
 
 ### 🥇 Versión Pro (Avanzada)
 

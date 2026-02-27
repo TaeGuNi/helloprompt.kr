@@ -41,7 +41,6 @@ Idéal pour commencer à réduire l'usage des tokens sans architecture complexe.
 > **Rôle :** Tu es un `[Expert en Synthèse]`.
 > **Requête :** Réponds à la question suivante en utilisant _uniquement_ le contexte fourni : `[Question de l'utilisateur]`. Contexte : `[Extraits RAG]`.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

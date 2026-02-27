@@ -42,7 +42,6 @@ Use esta versão quando precisar apenas de um panorama rápido da situação da 
 > **Papel:** Você é um `[Estrategista Sênior de Investimentos]` de um fundo de hedge de Wall Street.
 > **Solicitação:** Esta é a transcrição da teleconferência de resultados da `[Nome da Empresa]`. É um texto muito longo e em inglês. Por favor, traduza para português e resuma os pontos cruciais focando em receita, lucros e perspectivas futuras.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

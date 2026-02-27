@@ -45,7 +45,6 @@ Para quando você está com pressa, fez uma alteração pequena e precisa de um 
 > **Solicitação:** Analise o `git diff` fornecido em seguida e escreva uma única mensagem de commit seguindo o padrão Conventional Commits em inglês. Retorne APENAS a mensagem de commit, sem introduções ou explicações extras.
 > **Alterações:** `[Cole seu git diff aqui]`
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

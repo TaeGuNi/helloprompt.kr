@@ -38,7 +38,6 @@ Nutzen Sie diese Basis-Version für eine schnelle ethische Ersteinschätzung ein
 > **Rolle:** Du bist ein leitender Ethikbeauftragter für KI.
 > **Aufgabe:** Analysiere das folgende Szenario auf ethische Bedenken bezüglich Deepfakes und fehlender Einwilligung und erstelle eine kurze Warnliste mit Lösungsansätzen: `[Szenario hier einfügen]`.
 
-\
 
 ### 🥇 Pro Version (Experten-Level)
 

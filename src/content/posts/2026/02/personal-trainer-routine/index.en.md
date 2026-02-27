@@ -42,7 +42,6 @@ Use this when you need a quick, no-frills workout plan.
 > **Role:** You are a `[Professional Health Trainer and Nutritionist]`.
 > **Request:** Create a weekly workout routine and diet plan perfectly suited to my `[Body Condition]` and `[Fitness Goal]`.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

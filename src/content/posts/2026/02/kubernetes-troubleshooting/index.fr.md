@@ -47,7 +47,6 @@ Le dépannage dans un environnement Kubernetes (K8s) est souvent une source de s
 > **Tâche :**
 Résume-moi très simplement, du point de vue d'un développeur, la cause principale de cette erreur (ex : manque de mémoire, erreur de permissions, timeout réseau, etc.). Propose-moi également 2 points précis à vérifier immédiatement.
 
-\
 
 ### 🥇 Version Pro (Restauration et Rapport SRE)
 

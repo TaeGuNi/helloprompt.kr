@@ -42,7 +42,6 @@ Utilize esta versão quando precisar apenas de um resultado rápido e direto, se
 > **Papel:** Você é um `[Especialista em Aprendizagem e Memorização]`.
 > **Solicitação:** Converta as seguintes notas de aula em pares curtos de perguntas e respostas para eu adicionar ao meu aplicativo de flashcards.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

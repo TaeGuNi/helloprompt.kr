@@ -41,7 +41,6 @@ Ideal para revisões rápidas, otimizações pontuais ou quando você precisa ap
 > **Função:** Você é um Engenheiro de Software Senior.
 > **Tarefa:** Analise este código `[Python/Rust/Java]`, identifique imediatamente o gargalo de performance ou erro lógico e reescreva a função seguindo as melhores práticas modernas.
 
-\
 
 ### 🥇 Versão Profissional (Pro Version)
 

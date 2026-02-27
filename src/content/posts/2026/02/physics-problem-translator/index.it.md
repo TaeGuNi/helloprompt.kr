@@ -43,7 +43,6 @@ Usala quando hai fretta e vuoi solo capire che formula applicare al volo.
 > **Richiesta:** Leggi il seguente problema di fisica, dimmi quali sono i dati, cosa devo trovare e quale formula devo usare per risolverlo.
 > **Problema:** `[Inserisci qui il testo del problema]`
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

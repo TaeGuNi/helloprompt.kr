@@ -42,7 +42,6 @@ Idéal quand vous avez le temps compté et que vous cherchez une idée flash pou
 > **Rôle :** Tu es un chef cuisinier expert en préparation de bento rapides.
 > **Requête :** J'ai `[ingrédients disponibles dans le frigo]` dans mon réfrigérateur. Propose-moi une recette de lunch box saine que je peux préparer en moins de 10 minutes.
 
-\
 
 ### 🥇 Version Pro (Le Planificateur Diététique Complet)
 

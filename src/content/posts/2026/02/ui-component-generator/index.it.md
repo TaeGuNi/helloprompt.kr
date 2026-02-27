@@ -42,7 +42,6 @@ Ideale per prototipi veloci o componenti molto semplici.
 > **Ruolo:** Sei un Senior Frontend Developer e un esperto UI/UX Designer.
 > **Richiesta:** Crea un componente UI `[Nome o Tipo di Componente]` utilizzando `[Stack Tecnologico, es. React + Tailwind]`.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

@@ -47,7 +47,6 @@ Verwenden Sie diesen Prompt, wenn Sie lediglich einen schnellen Überblick und d
 > **[Git Diff Daten]**
 > `[Fügen Sie hier Ihr git diff oder die PR-Beschreibung ein]`
 
-\
 
 ### 🥇 Pro Version (Für Experten)
 

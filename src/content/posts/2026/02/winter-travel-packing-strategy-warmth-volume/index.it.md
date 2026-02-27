@@ -48,7 +48,6 @@ Usa questo prompt quando hai bisogno di una lista veloce per fare la valigia all
 > **Ruolo:** Sei un esperto di viaggi outdoor in climi freddi e un maestro nell'ottimizzazione degli spazi.
 > **Richiesta:** Parto per un viaggio invernale ma i miei vestiti occupano troppo spazio. Crea una lista essenziale e dammi consigli su come ridurre il volume del bagaglio senza rinunciare al calore.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

@@ -43,7 +43,6 @@ Utilisez ce prompt lorsque vous avez besoin d'une estimation globale rapide.
 > **Rôle :** Tu es un 'Analyste de Budget de Voyage' expert.
 > **Demande :** Calcule un budget quotidien estimé pour un voyage à `[Destination]` pendant `[Nombre de Jours]` avec un style de voyage `[Économique/Confort/Luxe]`. Précise le montant total à changer en espèces.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

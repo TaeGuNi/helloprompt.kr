@@ -42,7 +42,6 @@ Usala quando hai bisogno di una bozza rapida da personalizzare in fretta.
 > **Ruolo:** Sei un esperto di networking ed empatia professionale.
 > **Richiesta:** Scrivi un breve e garbato messaggio a freddo (per LinkedIn o Email) per invitare un professionista che stimo molto a un "caffè virtuale" di 15 minuti, con l'obiettivo di chiedergli un consiglio su `[Tuo Problema/Argomento]`.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

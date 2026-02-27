@@ -42,7 +42,6 @@ Use this for quick, multi-perspective brainstorming.
 > **Role:** You are a highly capable Project Manager.
 > **Task:** Provide in-depth opinions on `[Topic]` from the perspectives of a Planner, a Developer, and a Designer. Then, synthesize these views to propose the optimal direction.
 
-\
 
 ### 🥇 Pro Version
 

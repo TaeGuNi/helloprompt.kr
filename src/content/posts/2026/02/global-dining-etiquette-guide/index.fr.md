@@ -48,7 +48,6 @@ Utilisez ce prompt pour des résultats rapides et essentiels.
 > **Rôle :** Tu es un "Consultant en Étiquette Mondiale" expert en cultures culinaires et savoir-vivre international.
 > **Requête :** Je voyage en `[Nom du Pays]`. Donne-moi les règles de savoir-vivre à table essentielles et les pires faux pas à éviter absolument.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

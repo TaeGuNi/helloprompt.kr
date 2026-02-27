@@ -43,7 +43,6 @@ Durante las reuniones surgen innumerables ideas e instrucciones, pero a menudo, 
 > **Tarea:** A partir de la transcripción de la reunión proporcionada, extrae de forma clara y en formato de lista los Action Items ejecutables, especificando 'Quién (Assignee)', 'Para cuándo (Due Date)' y 'Qué hacer (Task)'.
 > **Transcripción:** `[Pega aquí la transcripción de la reunión]`
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

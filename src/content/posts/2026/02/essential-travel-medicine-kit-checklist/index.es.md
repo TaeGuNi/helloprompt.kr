@@ -48,7 +48,6 @@ Nada arruina más rápido unas vacaciones soñadas que enfermarse en un país de
 > **Rol:** Eres un farmacéutico experto especializado en medicina del viajero.
 > **Solicitud:** Voy a viajar al extranjero. Dime cómo preparar un botiquín de primeros auxilios básico y una lista de medicamentos de emergencia esenciales clasificados por síntomas.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

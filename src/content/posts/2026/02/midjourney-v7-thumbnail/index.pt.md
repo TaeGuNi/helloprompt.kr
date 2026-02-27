@@ -44,7 +44,6 @@ Ideal para quando você precisa de uma imagem rápida, limpa e com estilo corpor
 > **Prompt de Geração:**
 > `cute 3d isometric icon of [coffee cup and laptop], pastel background, soft lighting, minimalism, c4d render, high quality --ar 16:9`
 
-\
 
 ### 🥇 Pro Version (O Ímã de Cliques)
 

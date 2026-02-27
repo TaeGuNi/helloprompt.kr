@@ -45,7 +45,6 @@ Ideal para entender como o R3F funciona e fazer testes rápidos.
 
 > **Task (Tarefa):** Usando React Three Fiber (R3F), crie um cubo no centro da tela. Quando o usuário passar o mouse por cima (Hover), o cubo deve aumentar de tamanho em 1.2x. Ao clicar, a cor deve mudar aleatoriamente. Use o hook `useFrame` para fazer o cubo girar continuamente de forma interativa.
 
-\
 
 ### 🥇 Versão Pro (Showcase de Produtos Estilo Apple)
 

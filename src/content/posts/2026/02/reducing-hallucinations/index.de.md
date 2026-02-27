@@ -42,7 +42,6 @@ Nutzen Sie diesen Prompt für schnelle, alltägliche Recherchen, bei denen grund
 >
 > **Regel:** Erfinde niemals Informationen. Wenn du die Antwort nicht genau weißt, sage explizit: "Darüber habe ich keine gesicherten Informationen."
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

@@ -45,7 +45,6 @@ Use esta versão quando quiser definir o Astro como stack tecnológico e gerar i
 
 > **Task (Tarefa):** Quero construir um blog de desenvolvimento baseado em Markdown/MDX usando o framework Astro. Sugira a estrutura completa de pastas do projeto e escreva um exemplo do código de roteamento principal (`[slug].astro`) que lê um arquivo Markdown específico e o renderiza como uma página detalhada.
 
-\
 
 ### 🥇 Versão Pro (Arquitetura Híbrida e Otimização de Performance)
 

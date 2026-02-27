@@ -42,7 +42,6 @@ El resumen (Professional Summary) en la parte superior de tu currículum es el t
 > **Rol:** Eres un experto en marca personal y un reclutador técnico (Headhunter) con años de experiencia.
 > **Solicitud:** Escribe un resumen profesional impactante de 3 a 5 líneas para el inicio de mi currículum, diseñado para maximizar mi tasa de entrevistas.
 
-\
 
 ### 🥇 Versión Pro (Professional Version)
 

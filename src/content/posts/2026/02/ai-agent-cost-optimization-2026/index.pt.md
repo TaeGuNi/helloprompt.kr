@@ -51,7 +51,6 @@ Se você não está utilizando os recursos de **Context Caching** fornecidos pel
 
 > _Pro Tip:_ Posicione o conteúdo estático (regras, exemplos de código) no topo do prompt e o conteúdo dinâmico (consultas do usuário, histórico recente) na parte inferior. O cache opera com base no prefixo (Prefix) do texto!
 
-\
 
 ### 🥇 Padrão 2: O Loop "Summarize-and-Forget" (Compressão de Estado)
 

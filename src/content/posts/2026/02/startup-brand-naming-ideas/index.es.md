@@ -42,7 +42,6 @@ Encontrar el nombre perfecto para tu marca puede ser un dolor de cabeza. Ejemplo
 > **Rol:** Eres un experto en naming y branding de primer nivel, creador de nombres innovadores para empresas unicornio.
 > **Solicitud:** Voy a lanzar un `[tipo de negocio/servicio]`. Genera 10 ideas de nombres que sean pegajosos, cortos y fáciles de recordar, e incluye una breve explicación para cada uno.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

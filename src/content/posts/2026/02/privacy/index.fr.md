@@ -39,7 +39,6 @@ Afin de vous offrir une expérience de navigation fluide et sécurisée, ce site
 > **Données collectées :** `[Cookies]`, `[Adresse IP]`, `[Informations sur le navigateur et l'appareil]`, `[Heure de connexion et historique de visite]`
 > **Méthode de collecte :** Collecte automatisée via des outils d'analyse (ex. Google Analytics) lors de votre visite sur le site.
 
-\
 
 ### 🥇 Objectif de l'Utilisation des Données (Pro Usage)
 

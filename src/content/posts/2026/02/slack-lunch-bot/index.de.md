@@ -43,7 +43,6 @@ Nutze diesen einfachen Prompt, wenn du schnell eine zufällige Empfehlung brauch
 >
 > **Aufgabe (Task):** Wähle zufällig eine Kategorie aus (z. B. Italienisch, Asiatisch, Gutbürgerlich, Fast Food oder Gesund). Empfiehl anschließend genau 3 typische und beliebte Gerichte aus dieser Kategorie, die sich ideal als Mittagessen für Berufstätige eignen.
 
-\
 
 ### 🥇 Pro Version (Experte)
 

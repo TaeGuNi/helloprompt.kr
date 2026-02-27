@@ -44,7 +44,6 @@ Nutzen Sie diesen Prompt, wenn Sie schnell ein Grundgerüst für Ihr Projekt ben
 > **Rolle:** Du bist ein `[Senior Technical Writer]`.
 > **Aufgabe:** Erstelle basierend auf der `[Dateistruktur]` und dem `[Haupt-Tech-Stack]` meines Projekts einen sauberen README.md-Entwurf im Markdown-Format.
 
-\
 
 ### 🥇 Pro Version (Für Experten)
 
@@ -67,9 +66,9 @@ Nutzen Sie diese Version, wenn Sie perfekte Details nach Open-Source-Standards u
 > - **Kurzbeschreibung (Einzeiler):** `[Ein Satz, der den Kernwert des Projekts erklärt]`
 > - **Tech-Stack:** `[z. B. React, TypeScript, TailwindCSS]`
 > - **Dateistruktur:**
->   ```text
+>
 >   [Ergebnis des tree-Befehls hier einfügen]
->   ```
+>
 >
 > **Einschränkungen (Constraints):**
 >

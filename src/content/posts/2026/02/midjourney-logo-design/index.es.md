@@ -42,7 +42,6 @@ Ese infame requerimiento que hace perder la cabeza a cualquier diseñador, ahora
 > **Rol:** Eres un diseñador de logotipos minimalistas de talla mundial.
 > **Tarea:** `minimalistic vector logo of a [Blue Whale], simple shapes, flat design, white background --no text --v 6.0`
 
-\
 
 ### 🥇 Versión Pro (Identidad de Marca)
 

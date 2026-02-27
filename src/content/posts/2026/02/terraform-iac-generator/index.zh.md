@@ -45,7 +45,6 @@ tags: ["DevOps", "Terraform", "AWS"]
 > **任务 (Task)：** 请编写用于在 AWS 中创建 `[服务名称]` 资源的 Terraform 代码。
 > **约束 (Constraints)：** 请使用最新版本的 AWS Provider，避免任何硬编码，并对参数进行变量（variable）处理。
 
-\
 
 ### 🥇 Pro Version (专业版)
 

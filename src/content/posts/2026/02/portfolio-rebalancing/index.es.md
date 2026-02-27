@@ -44,7 +44,6 @@ Este prompt actúa como tu analista financiero personal: evalúa el peso actual 
 > **Rol:** Eres un experto `[Gestor de Carteras]`.
 > **Solicitud:** Revisa la distribución actual de mis activos en `[Acciones 70%, Bonos 30%]` y dime cómo ajustarla a mi objetivo ideal de `[Acciones 50%, Bonos 50%]`.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

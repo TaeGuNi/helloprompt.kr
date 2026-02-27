@@ -42,7 +42,6 @@ Use quando precisar apenas de um direcionamento rápido para começar hoje mesmo
 > **Função:** Você é um especialista em aprendizagem acelerada.
 > **Tarefa:** Crie um plano de estudos prático de 3 dias para aprender o básico de `[Assunto]`. Foque apenas no mais importante para eu conseguir criar um projeto simples no final.
 
-\
 
 ### 🥇 Versão Pro (Especialista)
 

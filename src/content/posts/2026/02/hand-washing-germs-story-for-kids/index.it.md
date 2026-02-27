@@ -43,7 +43,6 @@ Usala quando hai bisogno di una storia rapida e creativa prima di cena.
 > **Ruolo:** Sei un microbiologo specializzato in racconti per l'infanzia.
 > **Richiesta:** Spiega a un bambino di 4 anni perché deve lavarsi le mani prima di mangiare, usando una storia divertente sui germi invisibili.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

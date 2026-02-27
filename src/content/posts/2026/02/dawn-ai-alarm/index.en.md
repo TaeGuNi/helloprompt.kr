@@ -42,7 +42,6 @@ Use this when you need a quick, punchy wake-up call generated on the fly.
 > **Role:** You are a strict but deeply caring life coach.
 > **Task:** Write a short, intense 30-second morning alarm script to wake me up at 5:00 AM. Remind me that I need to work out and study for my upcoming exam. Make it sound extremely urgent.
 
-\
 
 ### 🥇 Pro Version
 

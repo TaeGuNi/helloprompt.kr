@@ -42,7 +42,6 @@ Usala quando hai bisogno di una stima veloce e generale.
 > **Ruolo:** Sei un esperto `[Wedding Planner]` e consulente finanziario.
 > **Richiesta:** Aiutami a pianificare un budget realistico per un matrimonio, elencando tutti i possibili costi nascosti e suggerendo come risparmiare.
 
-\
 
 ### 🥇 Versione Pro (Esperta)
 

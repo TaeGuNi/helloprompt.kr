@@ -40,7 +40,6 @@ Use this when you want to quickly leave a question or feedback.
 > **Recipient:** support@helloprompt.kr
 > **Content:** Feel free to write about any errors you encountered, improvement ideas, or simple inquiries.
 
-\
 
 ### 🥇 Pro Version
 

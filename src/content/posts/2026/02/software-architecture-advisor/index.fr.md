@@ -49,7 +49,6 @@ Utilisez cette version si vous avez besoin d'un résultat rapide pour un petit p
 > **Rôle :** Tu es un Architecte Logiciel en Chef expert en conception de systèmes évolutifs.
 > **Demande :** Recommande-moi la meilleure architecture logicielle et une structure de dossiers pour mon projet de `[Description de l'application]`.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

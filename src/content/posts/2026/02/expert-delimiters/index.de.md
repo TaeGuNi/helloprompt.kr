@@ -45,7 +45,6 @@ Verwenden Sie dies für alltägliche, schnelle Aufgaben mit kurzen Texten.
 > **Anweisung:** Fasse den folgenden Text in einem Satz zusammen.
 > **Text:** """`[Fügen Sie hier Ihren Text ein]`"""
 
-\
 
 ### 🥇 Pro Version (Expertenform)
 

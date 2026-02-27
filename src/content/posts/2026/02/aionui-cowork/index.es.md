@@ -44,7 +44,6 @@ Simplemente abrir una interfaz gráfica no es suficiente. Necesitamos un prompt 
 > **Rol:** Eres un `[Desarrollador Senior]`.
 > **Tarea:** Resuelve el `[funcionalidad específica/bug]` del proyecto actual. Antes de empezar, debes proporcionar un reporte detallado de los archivos que planeas modificar. Además, muestra los cambios paso a paso para que sean fáciles de verificar visualmente en AionUi.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

@@ -43,7 +43,6 @@ Calcular el presupuesto de un viaje puede ser un verdadero dolor de cabeza. Hay 
 > **Rol:** Eres un experto 'Analista de Presupuestos de Viajes'.
 > **Solicitud:** Voy a viajar a `[Destino]` durante `[Número de días]`. Mi estilo de viaje es `[Mochilero / Estándar / Lujo]`. Calcúlame un presupuesto diario estimado y dime cuánto dinero en efectivo debería llevar.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

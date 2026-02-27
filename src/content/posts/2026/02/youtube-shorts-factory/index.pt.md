@@ -45,7 +45,6 @@ Ideal para quando você está com bloqueio criativo e precisa de ideias rápidas
 
 > **Tarefa:** Apresente 5 ideias inovadoras e magnéticas de Shorts que prendam a atenção do público desde o primeiro segundo. Para cada ideia, inclua o Título e a Primeira Frase (o Hook).
 
-\
 
 ### 🥇 Versão Pro (Roteiro e Direção de Cena)
 

@@ -47,7 +47,6 @@ Nutzen Sie diesen grundlegenden Prompt, wenn Sie feststecken und nur einen klein
 >
 > **Einschränkungen:** Liefere absolut keinen fertigen Code oder die vollständige Logik. Gib mir lediglich einen Hinweis darauf, welche Datenstruktur im Hinblick auf die Zeitkomplexität (Time Complexity) am vorteilhaftesten wäre.
 
-\
 
 ### 🥇 Pro Version (Schritt-für-Schritt Coaching & Review)
 
@@ -60,9 +59,9 @@ Dieser Experten-Prompt ist ideal, wenn Ihr geschriebener Code immer wieder fehls
 > - **Zusammenfassung des Problems:** `[Kernziel der Aufgabe]`
 > - **Mein aktueller Code (My Code):**
 >
-> ```python
+>
 > [Hier Ihren fehlerhaften Code einfügen]
-> ```
+>
 >
 > - **Das Problem:** Wenn ich diesen Code ausführe, erhalte ich den Fehler: `[Time Limit Exceeded / Runtime Error / Wrong Answer]`.
 >

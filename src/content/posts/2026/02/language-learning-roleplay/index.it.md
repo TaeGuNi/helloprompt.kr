@@ -42,7 +42,6 @@ Ideale per iniziare subito a praticare senza troppe configurazioni.
 > **Ruolo:** Agisci come un `[Barista di New York]`. Io sono un `[Turista con un livello base di inglese]`.
 > **Richiesta:** Avvia una conversazione per farmi ordinare un caffè. Fammi una domanda alla volta e aspetta la mia risposta.
 
-\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

@@ -48,7 +48,6 @@ Ideale quando hai bisogno di un parere rapido al volo.
 > **Ruolo:** Sei un career coach e un esperto negoziatore di contratti.
 > **Richiesta:** Ho ricevuto offerte di lavoro dall'Azienda A (stipendio più alto, più stress) e dall'Azienda B (stipendio minore, ottimo work-life balance). Aiutami a confrontarle e scrivimi un'email per chiedere all'Azienda A un bonus alla firma usando l'offerta B come leva strategica.
 
-\
 
 ### 🥇 Versione Pro (Esperta)
 

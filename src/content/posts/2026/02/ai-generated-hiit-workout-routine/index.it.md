@@ -44,7 +44,6 @@ Ideale quando hai fretta e vuoi iniziare subito a sudare.
 > **Ruolo:** Sei un personal trainer esperto di Crossfit e HIIT.
 > **Richiesta:** Ho solo 20 minuti. Crea una routine di allenamento ad alta intensità a corpo libero da fare in casa per farti bruciare i grassi.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

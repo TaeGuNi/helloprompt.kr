@@ -43,7 +43,6 @@ Usa questo prompt per gestire rapidamente operazioni di routine come ritardi di 
 > **Compito:** Rispondi al seguente messaggio del cliente scusandoti e spiegando che la spedizione subirà un ritardo di `[Tempo di ritardo]` a causa di `[Motivo del ritardo]`. Includi un tono cortese e informalo che, per farsi perdonare l'attesa, gli verrà offerto `[Dettagli del risarcimento/bonus]`.
 > **Messaggio del cliente:** `[Copia/incolla il messaggio reale del cliente]`
 
-\
 
 ### 🥇 Pro Version (Difesa da Black Consumer / Rifiuto Rimborsi)
 

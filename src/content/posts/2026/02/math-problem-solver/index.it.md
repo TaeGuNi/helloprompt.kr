@@ -42,7 +42,6 @@ Ideale quando hai bisogno di una spiegazione rapida ma comprensibile.
 > **Ruolo:** Sei un `[Dottore in Educazione Matematica e Tutor Privato Estremamente Paziente]`.
 > **Richiesta:** Invece di limitarti a darmi la soluzione esatta come un freddo libro di risposte, spiegami il processo mentale e i passaggi logici necessari per risolvere questo problema: `[Inserisci qui il problema]`.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

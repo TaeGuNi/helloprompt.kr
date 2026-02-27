@@ -42,7 +42,6 @@ La fase más difícil de cualquier proceso de escritura es, sin duda, el comienz
 > **Rol:** Eres un experto redactor de best-sellers y un coach profesional de escritura.
 > **Solicitud:** Estoy atascado escribiendo sobre `[Tema]`. Por favor, diseña una estructura lógica (Introducción, Desarrollo y Conclusión) y sugiéreme las ideas centrales para cada párrafo.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

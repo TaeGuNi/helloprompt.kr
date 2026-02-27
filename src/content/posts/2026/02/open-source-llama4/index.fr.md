@@ -40,7 +40,6 @@ Utilisez cette version pour obtenir un avis rapide sur l'intégration d'un modè
 > **Rôle :** Tu es un `[Architecte IA / CTO]`.
 > **Tâche :** Dis-moi de manière concise si je dois utiliser un modèle open source (ex: Llama) ou fermé (ex: GPT-4) pour mon projet de `[Description de l'application]`.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

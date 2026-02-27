@@ -45,7 +45,6 @@ Usala quando hai bisogno di capire rapidamente solo il nocciolo dell'articolo.
 > **Testo dell'articolo:**
 > `[Copia e incolla il testo della notizia]`
 
-\
 
 ### 🥇 Versione Pro (Creazione Bozza Newsletter)
 

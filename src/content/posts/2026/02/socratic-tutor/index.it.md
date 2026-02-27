@@ -44,7 +44,6 @@ Usala quando vuoi iniziare rapidamente una sessione di domande e risposte sui co
 > **Ruolo:** Sei un tutor privato 1:1 dedicato all'insegnamento di `[Argomento di studio]`.
 > **Richiesta:** Continua a farmi domande finché non avrò compreso perfettamente `[Argomento di studio]`. Non dirmi prima la risposta corretta; se do una risposta sbagliata, forniscimi solo un piccolissimo indizio in modo che io possa arrivarci da solo. Se rispondo correttamente, passa a una domanda di approfondimento successiva.
 
-\
 
 ### 🥇 Versione Pro (Pro Version)
 

@@ -43,7 +43,6 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Lighting", "Atmosphere"]
 > **请求:** 请帮我写一段用于生成 `[场景描述]` 的图像提示词（英文）。
 > **要求:** 画面中必须包含强烈的“体积光（volumetric lighting）”或“神光（god rays）”，光束要清晰可见并照亮空气中的尘埃。仅输出英文提示词。
 
-\
 
 ### 🥇 Pro Version (专家版)
 

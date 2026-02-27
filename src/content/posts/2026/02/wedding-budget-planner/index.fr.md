@@ -42,7 +42,6 @@ Utilisez cette version pour obtenir une estimation rapide et globale des dépens
 > **Rôle :** Tu es un `[Wedding Planner expert et conseiller financier]`.
 > **Requête :** Prédit et optimise tous les coûts liés à la préparation d'un mariage, du choix du lieu jusqu'à la lune de miel, afin d'éviter les dépassements budgétaires.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

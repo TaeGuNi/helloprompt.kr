@@ -42,7 +42,6 @@ Nutzen Sie diese Variante, wenn Sie unter extremem Zeitdruck stehen und nur eine
 > **Rolle:** Du bist ein Global Management Consultant (z. B. von McKinsey).
 > **Aufgabe:** Erstelle eine kompakte SWOT-Analyse für `[Ihr Produkt/Ihre Dienstleistung/Ihre Idee]`.
 
-\
 
 ### 🥇 Pro Version (Expertenniveau)
 

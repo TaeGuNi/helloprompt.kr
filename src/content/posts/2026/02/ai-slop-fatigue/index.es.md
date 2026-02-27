@@ -41,7 +41,6 @@ Para sobrevivir en esta nueva era de fatiga de IA, no basta con pedirle a ChatGP
 > **Rol:** Eres un editor humano experto y crítico literario.
 > **Tarea:** Reescribe el siguiente `[texto]` para eliminar cualquier cliché típico de la IA (como "en conclusión", "un tapiz de", "es importante destacar"). Haz que suene conversacional, directo y con una opinión clara.
 
-\
 
 ### 🥇 Pro Version (Versión Profesional)
 

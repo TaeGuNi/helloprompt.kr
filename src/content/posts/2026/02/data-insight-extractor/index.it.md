@@ -42,7 +42,6 @@ Usala quando vai di fretta e hai bisogno di una panoramica immediata dei tuoi da
 > **Ruolo:** Sei un Data Scientist esperto.
 > **Richiesta:** Analizza questi dati Excel (che incollerò di seguito) ed estrai 3 insight principali e le relative implicazioni per il nostro business.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

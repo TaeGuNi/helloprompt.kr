@@ -45,7 +45,6 @@ Use this when you are in a rush but still need the AI to catch your drift.
 > **Request:** I am struggling to get the tone right. Please rewrite the following text in a `[Desired Tone, e.g., witty and concise]` style.
 > **Example:** Input: `[Example Input]` -> Output: `[Example Output]`
 
-\
 
 ### 🥇 Pro Version (Expert)
 
@@ -117,7 +116,6 @@ Input: "Write a one-line review for Avengers: Endgame. Make it emotional and imp
 AI: Avengers: Endgame is a truly touching masterpiece. The spectacular scene where every hero unites to save the universe is incredibly cool and moving. (Too generic, feels like a Wikipedia summary)
 ```
 
-\
 
 ### ✅ After (Applying Few-Shot Examples)
 

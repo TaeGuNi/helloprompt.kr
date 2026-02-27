@@ -39,7 +39,6 @@ Usa esta "frase mágica" al final de tu instrucción cuando necesites mejorar el
 > **Rol:** Eres un `[Analista Lógico]`.
 > **Tarea:** Resuelve la siguiente `[situación o problema complejo]`. **Sin embargo, antes de llegar a una conclusión, piensa lógica y detenidamente paso a paso (Think step-by-step).**
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

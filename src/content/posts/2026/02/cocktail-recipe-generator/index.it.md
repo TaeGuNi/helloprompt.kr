@@ -43,7 +43,6 @@ Usala quando vuoi un drink veloce e senza pretese.
 > **Contesto:** Nel mio frigo ho della vodka, Sprite e succo d'arancia.
 > **Azione:** Usando solo questi ingredienti, dimmi le proporzioni esatte per creare un cocktail casalingo leggero e dolce. (Es. usa una tazzina da caffè come unità di misura).
 
-\
 
 ### 🥇 Versione Pro (Sviluppo Menu d'Autore)
 

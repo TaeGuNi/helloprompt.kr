@@ -42,7 +42,6 @@ Ideal para quando você precisa de uma legenda criativa rapidamente, sem muitas 
 > **Papel:** Você é um `[Especialista em Redes Sociais]`.
 > **Tarefa:** Escreva uma legenda para o Instagram sobre `[Assunto da foto/vídeo]`. Inclua emojis adequados e 5 hashtags relevantes para o tema.
 
-\
 
 ### 🥇 Pro Version (Versão Profissional)
 

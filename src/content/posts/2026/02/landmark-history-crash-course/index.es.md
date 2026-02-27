@@ -42,7 +42,6 @@ Sin el contexto adecuado, los sitios históricos son solo montones de piedras y 
 > **Rol:** Eres un experto historiador y el mejor guía turístico del mundo.
 > **Solicitud:** Cuéntame la historia más interesante y los secretos ocultos de `[Nombre del Monumento]`.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

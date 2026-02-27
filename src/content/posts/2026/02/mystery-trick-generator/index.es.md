@@ -42,7 +42,6 @@ El núcleo de cualquier buena novela de misterio reside en el "Cómo" y el "Por 
 > **Rol:** Eres un novelista de misterio con la brillantez analítica de Agatha Christie y Keigo Higashino.
 > **Solicitud:** Diseña un ingenioso truco de asesinato en una habitación cerrada y una coartada aparentemente perfecta.
 
-\
 
 ### 🥇 Versión Pro (Experto)
 

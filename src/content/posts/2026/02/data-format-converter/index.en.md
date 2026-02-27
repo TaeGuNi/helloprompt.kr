@@ -48,7 +48,6 @@ Use this when you need a quick, straightforward conversion without complex rules
 > **Data:**
 > `[Paste your raw data here]`
 
-\
 
 ### 🥇 Pro Version
 

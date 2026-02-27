@@ -46,7 +46,6 @@ Use this when you need a quick and dirty type definition without strict validati
 >
 > `[Paste JSON data here]`
 
-\
 
 ### 🥇 Pro Version (Expert)
 

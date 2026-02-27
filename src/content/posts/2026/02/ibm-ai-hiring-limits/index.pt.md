@@ -43,7 +43,6 @@ Ideal para uma preparação rápida antes de uma entrevista de triagem.
 > **Função:** Você é um `[Especialista em Recrutamento Tech]`.
 > **Tarefa:** Faça uma simulação de entrevista de emprego comigo. Pergunte-me como eu utilizo ferramentas de Inteligência Artificial para melhorar minha produtividade na área de `[Sua Área de Atuação]`. Faça 3 perguntas, uma de cada vez, e avalie brevemente minhas respostas no final.
 
-\
 
 ### 🥇 Versão Pro (Expert Version)
 

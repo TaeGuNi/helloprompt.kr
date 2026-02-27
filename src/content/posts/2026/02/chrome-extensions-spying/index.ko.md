@@ -47,7 +47,6 @@ tags: ["Security", "Chrome", "Privacy", "Browser"]
 > - 이름: `[확장프로그램 이름]`
 > - 요구 권한: `[웹 스토어에 명시된 요구 권한 목록 복사/붙여넣기]`
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

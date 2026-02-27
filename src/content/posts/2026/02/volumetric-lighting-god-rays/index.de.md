@@ -42,7 +42,6 @@ Nutzen Sie diese Basis-Variante, wenn Sie unkompliziert und schnell sichtbare Li
 > **Rolle:** Du bist ein professioneller Lichtdesigner.
 > **Prompt-Zusatz:** Generiere das Bild mit "intense volumetric lighting, clear god rays shining through, dusty atmosphere".
 
-\
 
 ### 🥇 Pro Version (Für maximale filmische Qualität)
 

@@ -47,7 +47,6 @@ Embauchez un agent senior en 2 minutes depuis votre terminal.
 > **2. Exécution du prompt de planification :**
 `/plan "Crée une page de liste d'articles de blog responsive en utilisant Next.js 14 App Router. Je veux utiliser Tailwind CSS et shadcn/ui."`
 
-\
 
 ### 🥇 Version Pro (TDD et application de règles personnalisées)
 

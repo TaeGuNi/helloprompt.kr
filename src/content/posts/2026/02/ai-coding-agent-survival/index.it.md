@@ -53,7 +53,6 @@ Usala quando hai bisogno di un refactoring leggero e rapido su un singolo file.
 > **Compito:** Effettua il refactoring del file `[src/legacy/auth.ts]` per migliorarne la leggibilità e modularizzarlo.
 > **Condizioni:** Non modificare assolutamente le firme delle API esistenti e assicurati che il codice superi i test dopo le modifiche.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

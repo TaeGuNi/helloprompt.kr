@@ -51,7 +51,6 @@ Nutzen Sie das 8B-Modell für eine flüssige Leistung auf Standard-Laptops (z.B.
 > **Rolle:** Du bist ein erfahrener Entwickler.
 > **Aufgabe:** Refaktorisiere den folgenden Code, um die Performance zu verbessern: `[Dein Code hier]`
 
-\
 
 ### 🥇 Pro Version (VS Code Integration & Senior Dev Prompt)
 

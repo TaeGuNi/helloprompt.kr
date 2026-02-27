@@ -45,7 +45,6 @@ Use esta versão quando estiver com pressa e precisar apenas identificar a causa
 
 > **Ação:** As pontas das folhas da minha Monstera nesta foto estão ficando marrons e secas. É falta de água ou excesso? Existe alguma doença? Diga-me a causa e o que devo fazer de forma breve.
 
-\
 
 ### 🥇 Versão Pro (Solução de Ressuscitação Especializada)
 

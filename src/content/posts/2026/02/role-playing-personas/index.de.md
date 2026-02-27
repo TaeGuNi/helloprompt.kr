@@ -39,7 +39,6 @@ Nutzen Sie diese Variante, wenn Sie schnelle, aber zielgerichtete Ergebnisse fü
 > **Rolle:** Du bist ein erfahrener `[Fachexperte, z. B. Cybersecurity Analyst]`.
 > **Aufgabe:** Bitte analysiere und löse das folgende Problem aus deiner fachlichen Perspektive: `[Problembeschreibung]`.
 
-\
 
 ### 🥇 Pro Version (Experten-Modus)
 

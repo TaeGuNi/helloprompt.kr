@@ -39,7 +39,6 @@ Idéal pour une vérification express d'un concept de base ou d'une idée naissa
 > **Rôle :** Tu es un `[Expert juridique spécialisé dans l'EU AI Act]`.
 > **Requête :** Analyse ce `[Concept de vidéo générative]` et dis-moi s'il enfreint les règles de l'EU AI Act 2, particulièrement concernant les obligations de transparence et la création de deepfakes.
 
-\
 
 ### 🥇 Pro Version (Version Expert)
 

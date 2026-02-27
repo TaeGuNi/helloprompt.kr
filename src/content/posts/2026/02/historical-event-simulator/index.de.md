@@ -43,7 +43,6 @@ Verwenden Sie diesen Prompt, wenn Sie sofort und ohne viele Voreinstellungen los
 > **Rolle:** Du bist ein `[Geschichtssimulations-Spielleiter]`.
 > **Anfrage:** Was wäre, wenn ich Admiral Yi Sun-sin wäre? Lass mich die Geschichte erleben, indem ich wie in einem Text-Adventure Entscheidungen treffe.
 
-\
 
 ### 🥇 Pro Version (Expertenmodus)
 

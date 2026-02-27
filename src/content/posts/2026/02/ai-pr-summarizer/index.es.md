@@ -47,7 +47,6 @@ Navegar por un mar de código es agotador. ¿No sería increíble poder extraer 
 > **[Datos de Git Diff]**
 > `[Pega aquí el resultado de git diff o la descripción del PR]`
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

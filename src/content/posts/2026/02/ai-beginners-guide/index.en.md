@@ -44,7 +44,6 @@ Yields generic, Wikipedia-style answers that require further research.
 
 > **Request:** How do I write a good marketing email?
 
-\
 
 ### 🥇 Pro Version (The "Context" Approach)
 
@@ -72,7 +71,6 @@ The AI will summarize, but it might miss the specific angle you care about.
 
 > **Request:** Summarize this text: `[Paste long text]`
 
-\
 
 ### 🥇 Pro Version (The "Framework")
 
@@ -101,7 +99,6 @@ This is the ultimate beginner "cheat code." By simply starting your prompt with 
 
 > **Request:** Explain how to use the VLOOKUP function in Excel.
 
-\
 
 ### 🥇 Pro Version (The "Specialist")
 

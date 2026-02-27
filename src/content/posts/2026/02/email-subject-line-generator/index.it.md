@@ -42,7 +42,6 @@ Usala quando hai poco tempo e ti serve un'ispirazione immediata.
 > **Ruolo:** Sei un esperto di Email Marketing.
 > **Richiesta:** Crea 5 oggetti email accattivanti per una newsletter che parla di `[argomento della newsletter]`. L'obiettivo è massimizzare il tasso di apertura senza sembrare spam.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

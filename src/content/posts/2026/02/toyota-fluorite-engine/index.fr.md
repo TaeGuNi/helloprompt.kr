@@ -44,7 +44,6 @@ Développer pour l'automobile signifiait historiquement lutter avec des système
 > **Approche traditionnelle :** Utiliser des systèmes lourds basés sur C++ ou des moteurs complets comme Unity/Unreal.
 > **Problème :** Ces solutions sont souvent trop gourmandes en ressources et complexes à intégrer harmonieusement avec le reste de l'UI du véhicule.
 
-\
 
 ### 🥇 Pro Version (L'Approche Fluorite)
 

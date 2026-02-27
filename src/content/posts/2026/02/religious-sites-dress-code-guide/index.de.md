@@ -42,7 +42,6 @@ Nutzen Sie diesen Prompt für eine schnelle, unkomplizierte Übersicht.
 > **Rolle:** Du bist ein erfahrener Reiseleiter für religiöse und kulturelle Stätten weltweit.
 > **Anfrage:** Ich plane einen Besuch in `[Name der religiösen Stätte]` in `[Stadt/Land]`. Wie lautet die genaue Kleiderordnung, damit mir der Zutritt sicher gewährt wird?
 
-\
 
 ### 🥇 Pro Version (Experte)
 

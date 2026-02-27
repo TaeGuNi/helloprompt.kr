@@ -48,7 +48,6 @@ A continuación, te presentamos la fórmula mágica para apaciguar el enojo de l
 
 > **Petición:** Redacta un mensaje de disculpa conciso y cortés para mi jefe/equipo. No incluyas excusas innecesarias y añade brevemente qué acción inmediata tomaré para compensarlo.
 
-\
 
 ### 🥇 Versión Pro (Accidentes Graves / Reclamaciones Críticas)
 

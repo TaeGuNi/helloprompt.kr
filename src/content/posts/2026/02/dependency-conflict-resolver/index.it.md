@@ -48,7 +48,6 @@ Utilizza questa versione quando vuoi individuare rapidamente la causa del confli
 > **package.json:**
 > `[Incolla qui il contenuto del package.json]`
 
-\
 
 ### 🥇 Versione Pro (Pro Version)
 

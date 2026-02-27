@@ -44,7 +44,6 @@ Utilisez cette version lorsque vous avez besoin d'un emploi du temps rapide et d
 > **Rôle :** Tu es un `[concierge d'hôtel 5 étoiles]`.
 > **Tâche :** Planifie un itinéraire de staycation de `[2 jours et 1 nuit]` à la maison pour ce week-end. Le thème est `[marathon Netflix et festin de plats à emporter]`.
 
-\
 
 ### 🥇 Version Pro
 

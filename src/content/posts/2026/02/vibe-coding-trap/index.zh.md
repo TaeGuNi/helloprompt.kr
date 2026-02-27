@@ -60,12 +60,9 @@ image: "/images/placeholder.jpg"
 >
 > **输入代码：**
 >
-> ```javascript
+>
 > [在此输入需要审查的代码片段];
-> ```
-
-\
-
+>
 ### 🥇 Pro Version (专业版：架构审问官)
 
 在实现新功能之前，强制让你思考利弊权衡 (Trade-off) 的两步法提示词。

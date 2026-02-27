@@ -42,7 +42,6 @@ Use this when you quickly need high-quality narration outputs. (Utilizing commer
 > **Role:** You are an `[Expert Audio Director]`.
 > **Task:** I will provide a `[Script]`. Tell me how to configure a calm, trustworthy, and documentary-style female voice in Korean, and guide me through the audio file download process.
 
-\
 
 ### 🥇 Pro Version
 

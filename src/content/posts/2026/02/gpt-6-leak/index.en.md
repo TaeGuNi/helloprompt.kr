@@ -41,7 +41,6 @@ Use this when you need a quick, structured strategy rather than an immediate, im
 > **Role:** You are a strategic planner.
 > **Task:** Do not just give me an immediate answer for `[Your Goal]`. Instead, outline three possible paths to achieve this goal, evaluate the pros and cons of each, and then recommend the best path.
 
-\
 
 ### 🥇 Pro Version
 

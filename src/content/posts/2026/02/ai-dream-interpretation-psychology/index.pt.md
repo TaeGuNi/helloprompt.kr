@@ -43,7 +43,6 @@ Ideal para quando você precisa de uma análise rápida e direta logo ao acordar
 > **Papel:** Você é um psicanalista especialista na interpretação de sonhos.
 > **Pedido:** Tive um sonho e preciso entender se é um reflexo do dia a dia ou um sinal do inconsciente. Interprete o significado do meu sonho focando na análise de símbolos psicológicos: `[Descreva o seu sonho aqui]`.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

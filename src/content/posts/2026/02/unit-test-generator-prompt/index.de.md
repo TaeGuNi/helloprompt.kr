@@ -44,7 +44,6 @@ Nutzen Sie diesen Prompt, wenn Sie nur schnell ein funktionierendes Testgerüst 
 > **Rolle:** Du bist ein akribischer QA-Ingenieur.
 > **Aufgabe:** Schreibe ausführliche Unit-Tests für den folgenden Code. Berücksichtige dabei Erfolgsfälle, Fehlerfälle und Edge Cases.
 
-\
 
 ### 🥇 Pro Version (Experten-Prompt)
 
@@ -76,10 +75,9 @@ Nutzen Sie diesen Prompt für produktionsreifen Testcode mit komplexem Mocking u
 >
 > **Code:**
 >
-> ```
+>
 > [Füge deinen zu testenden Code hier ein]
-> ```
-
+>
 ---
 
 ## 💡 Autoren-Kommentar (Insight)

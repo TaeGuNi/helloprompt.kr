@@ -43,7 +43,6 @@ Utilizza questa versione per trasformare rapidamente appunti disordinati in un a
 > **Compito:** Prendi questi appunti sparsi sui miei task di ieri e trasformali in un breve e professionale script per lo stand-up, diviso in "Ieri", "Oggi" e "Ostacoli".
 > **Appunti:** `[Incolla qui i tuoi log di commit o brevi appunti]`
 
-\
 
 ### 🥇 Pro Version (Versione per esperti)
 

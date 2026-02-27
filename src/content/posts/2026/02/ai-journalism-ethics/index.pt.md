@@ -46,7 +46,6 @@ Use esta versão quando precisar de um filtro de segurança rápido antes de rep
 > **Função:** Você é um editor-chefe rigoroso.
 > **Tarefa:** Analise este `[artigo inserido]` e aponte possíveis violações de ética jornalística, alucinações (fatos inventados) ou falta de imparcialidade e fontes.
 
-\
 
 ### 🥇 Versão Pro (Para auditoria estruturada profunda)
 

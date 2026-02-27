@@ -44,7 +44,6 @@ Utilisez cette version pour un coup de boost rapide, par exemple dans le métro 
 > **Rôle :** Tu es le meilleur `[Coach en motivation]` au monde.
 > **Tâche :** Crée 5 affirmations positives courtes et percutantes sur mesure pour m'aider à commencer ma journée avec une énergie débordante.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

@@ -42,7 +42,6 @@ Perfekt für einen sauberen, modernen Look im Stil von Notion oder Tech-Startups
 > **Rolle:** Du bist ein professioneller 3D-Designer.
 > **Anfrage:** Generiere ein simples, ansprechendes Blog-Thumbnail mit folgendem Prompt: `cute 3d isometric icon of [coffee cup and laptop], pastel background, soft lighting, minimalism, c4d render, high quality --ar 16:9`
 
-\
 
 ### 🥇 Pro Version (Kunst, die Klicks anzieht)
 

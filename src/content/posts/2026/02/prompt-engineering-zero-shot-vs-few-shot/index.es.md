@@ -48,7 +48,6 @@ A continuación, te mostramos cómo transformar un prompt inestable (Zero-Shot) 
 
 > **Restricciones:** Responde solo con Positivo, Negativo o Neutral.
 
-\
 
 ### 🥇 Few-Shot Version (El enfoque profesional)
 

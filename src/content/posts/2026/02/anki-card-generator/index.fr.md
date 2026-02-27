@@ -42,7 +42,6 @@ Utilisez cette version pour un besoin rapide sans formatage complexe.
 > **Rôle :** Tu es un `[Expert en Ingénierie Pédagogique]`.
 > **Demande :** Convertis ce `[Texte ou Notes de cours]` en une série de paires de cartes mémoire (Question et Réponse) compatibles avec Anki ou Quizlet.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

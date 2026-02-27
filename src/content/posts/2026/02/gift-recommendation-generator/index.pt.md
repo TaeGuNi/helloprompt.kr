@@ -42,7 +42,6 @@ Use esta versão quando estiver com pressa e precisar de uma ideia rápida.
 > **Papel:** Você é um Personal Shopper de luxo e um especialista em curadoria de presentes.
 > **Solicitação:** Recomende um presente incrível para um(a) `[idade e gênero]`, que é meu/minha `[relacionamento/proximidade]`. Meu orçamento é de `[valor]`.
 
-\
 
 ### 🥇 Versão Pro (Expert)
 

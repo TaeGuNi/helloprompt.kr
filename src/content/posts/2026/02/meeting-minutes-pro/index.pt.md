@@ -44,7 +44,6 @@ Você até conseguiu a transcrição pelo Zoom ou outra ferramenta, mas ao abrir
 >
 > `[Cole a transcrição da reunião aqui]`
 
-\
 
 ### 🥇 Versão Pro (Especialista)
 

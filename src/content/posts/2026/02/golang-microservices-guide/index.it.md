@@ -43,7 +43,6 @@ Da utilizzare quando si desidera comprendere rapidamente i concetti chiave, asso
 > **Ruolo:** Sei un Senior Backend Developer.
 > **Compito:** Spiegami come implementare i concetti di `@RestController` e Dependency Injection (DI) di Spring Boot in Go. Fornisci un confronto dettagliato includendo un semplice esempio di codice CRUD utilizzando framework come `Gin` o `Echo`.
 
-\
 
 ### 🥇 Versione Pro (Pro Version)
 

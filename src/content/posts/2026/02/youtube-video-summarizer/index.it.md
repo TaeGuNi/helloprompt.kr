@@ -44,7 +44,6 @@ Usalo quando sei in movimento o vuoi semplicemente capire rapidamente se vale la
 > **Ruolo:** Sei un esperto nel riassumere contenuti in modo rapido e preciso.
 > **Azione:** Il testo seguente è la trascrizione di un video di YouTube. Escludi le chiacchiere irrilevanti e riassumi l'argomento principale e le conclusioni più importanti del video in modo chiaro, usando esattamente 3 frasi.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

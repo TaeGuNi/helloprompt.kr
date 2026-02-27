@@ -37,7 +37,6 @@ Usalo quando hai bisogno di individuare rapidamente casi d'uso ed effetti attesi
 > **Ruolo:** Sei uno dei migliori consulenti strategici al mondo specializzati in tecnologie Quantum AI.
 > **Azione:** Analizza in modo chiaro 3 casi d'uso reali e i relativi impatti attesi degli algoritmi Quantum AI ibridi attualmente impiegati nel 2026 nel settore `[inserisci il settore, es: Finanza, Farmaceutica, Logistica]`.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

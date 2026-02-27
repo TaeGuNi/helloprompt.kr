@@ -42,7 +42,6 @@ Usalo quando vuoi capire rapidamente se la tua situazione attuale è grave.
 > **Ruolo:** Sei uno `[psicoterapeuta esperto in ambito IT]`.
 > **Richiesta:** "Ultimamente odio programmare e mi sento apatico. Fammi 5 domande chiave per capire se si tratta di un semplice calo di produttività o di un vero e proprio burnout."
 
-\
 
 ### 🥇 Versione Pro
 

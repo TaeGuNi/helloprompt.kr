@@ -38,7 +38,6 @@ Idéal pour obtenir rapidement les grandes lignes d'un code de conduite interne.
 > **Rôle :** Tu es un `[Expert en Éthique de l'IA et Juriste d'Entreprise]`.
 > **Requête :** Rédige les `[5 règles fondamentales]` pour protéger les employés de notre entreprise contre l'usage abusif des deepfakes et de l'IA générative.
 
-\
 
 ### 🥇 Version Pro (Le standard de l'industrie)
 
@@ -132,6 +131,4 @@ L'éthique de l'IA n'est plus un débat philosophique réservé aux chercheurs ;
 
 Mettez à jour vos règlements, protégez vos collaborateurs, et rentrez chez vous l'esprit tranquille ! 🍷
 
-```
 
-```

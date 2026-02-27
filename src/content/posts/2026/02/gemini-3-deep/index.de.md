@@ -48,7 +48,6 @@ Verwenden Sie diese Version für schnelle, alltägliche Logikprobleme und erste 
 > **Rolle:** Du bist ein `[Logik-Experte]`.
 > **Aufgabe:** Analysiere und löse das folgende Problem schrittweise: `[Problembeschreibung]`.
 
-\
 
 ### 🥇 Pro Version (Expertenform)
 

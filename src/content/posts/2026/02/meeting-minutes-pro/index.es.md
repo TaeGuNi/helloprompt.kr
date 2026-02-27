@@ -44,7 +44,6 @@ Lograste obtener la transcripción usando herramientas de voz a texto como Zoom,
 > 
 > `[Pega aquí la transcripción de la reunión]`
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

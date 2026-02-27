@@ -42,7 +42,6 @@ Use this when you need a quick, generic morning routine.
 > **Role:** You are an elite productivity coach and expert in deep work.
 > **Task:** Create a 2-hour early morning schedule for me. I wake up at `[Time, e.g., 5:30 AM]` and my main goal is `[Your Goal, e.g., writing a book]`. Give me a minute-by-minute breakdown.
 
-\
 
 ### 🥇 Pro Version
 

@@ -43,7 +43,6 @@ Utilisez-la lorsque vous souhaitez transformer rapidement une spécification d'A
 > **Tâche :** Sur la base de la réponse JSON de l'API REST fournie ci-dessous, définis le schéma GraphQL (`type`) le plus idéal et rédige un exemple de requête pour demander ces données.
 > **Données :** `[Copiez/Collez ici la réponse JSON de l'API REST existante]`
 
-\
 
 ### 🥇 Version Pro (Expert : Conception parfaite pour le problème N+1 et la pagination)
 

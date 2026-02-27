@@ -42,7 +42,6 @@ Utilisez ce prompt lorsque vous devez comprendre de toute urgence un code comple
 > **Code :** `[Insérez ici des centaines de lignes de code spaghetti indéchiffrable ou une expression régulière complexe]`
 > **Requête :** "Explique-moi étape par étape le rôle de ce code dans le système global et son fonctionnement interne, en utilisant des analogies simples pour qu'un développeur junior puisse le comprendre sans effort. Identifie également les bugs potentiels, les failles de sécurité ou les goulets d'étranglement des performances."
 
-\
 
 ### 🥇 Version Pro (Prototypage UI avec Artifacts)
 

@@ -53,7 +53,6 @@ Ideal para quando você precisa de clareza imediata no Notion usando o atalho de
 >
 > **Tarefa:** Classifique os itens acima nas categorias **[Urgente/Importante]**, **[Tarefas Domésticas/Pessoais]** e **[Trabalho]**. Reescreva tudo como uma Check-list organizada na ordem ideal de execução.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

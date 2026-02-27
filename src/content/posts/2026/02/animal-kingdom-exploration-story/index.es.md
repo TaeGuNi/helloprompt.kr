@@ -43,7 +43,6 @@ En lugar de leer enciclopedias o libros de biología rígidos, los niños aprend
 > **Rol:** Eres un experto escritor de cuentos infantiles con un profundo conocimiento de la zoología.
 > **Solicitud:** Escribe una aventura corta sobre un animal que enseñe sobre su ecología de forma divertida e imaginativa para un niño.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

@@ -38,7 +38,6 @@ Use this when you need quick, high-level ideas for applying Physical AI in a spe
 > **Role:** You are an expert AI & Robotics Strategist.
 > **Task:** Generate 3 innovative Physical AI applications for the `[Industry Name]` sector. Focus on scenarios where embodied AI (like LG's EXAONE integrated with robots) can solve physical, real-world problems.
 
-\
 
 ### 🥇 Pro Version
 

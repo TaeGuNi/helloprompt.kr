@@ -43,7 +43,6 @@ En este artículo, transformaremos la forma en que abordas el desarrollo basánd
 > **Rol:** Eres un Ingeniero de IA Senior especializado en sistemas RAG.
 > **Tarea:** Diseña y escribe el código base en Python para una aplicación RAG simple usando LangChain, ChromaDB y OpenAI para responder preguntas sobre un documento PDF.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

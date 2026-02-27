@@ -43,7 +43,6 @@ Ideal para un repaso rápido o una evaluación superficial de tu código.
 > **Rol:** Eres un `[Entrevistador Técnico Senior de Google]`.
 > **Solicitud:** Revisa el siguiente `[código]` que resuelve el `[problema]`, analiza su complejidad y hazme una pregunta para ver si puedo optimizarlo.
 
-\
 
 ### 🥇 Versión Pro (Recomendada)
 
@@ -67,10 +66,9 @@ Utiliza este prompt para una simulación de entrevista profunda y rigurosa. Copi
 >
 > **Mi Código:**
 >
-> ```plaintext
+>
 > [Pega tu código aquí]
-> ```
-
+>
 ---
 
 ## 💡 Comentario del Autor (Insight)

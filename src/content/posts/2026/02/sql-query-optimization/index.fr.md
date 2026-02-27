@@ -42,7 +42,6 @@ Utilisez cette version pour un diagnostic express d'une requête simple.
 > **Rôle :** Tu es un DBA (Administrateur de Base de Données) Senior avec 15 ans d'expérience.
 > **Demande :** Analyse la requête SQL suivante, identifie pourquoi elle est lente, et réécris-la pour maximiser ses performances. Suggère également les index manquants. Voici la requête : `[Insérez votre SQL ici]`
 
-\
 
 ### 🥇 Pro Version (Version Experte)
 
@@ -66,9 +65,9 @@ Utilisez cette version pour des requêtes complexes en production nécessitant u
 > - Moteur de Base de Données : `[MySQL / PostgreSQL / Oracle / SQL Server]`
 > - Requête Actuelle :
 >
-> ```sql
+>
 > [Collez votre requête SQL lente ici]
-> ```
+>
 >
 > **Contraintes (Constraints) :**
 >
@@ -121,7 +120,6 @@ WHERE u.id IN (
 );
 ```
 
-\
 
 ### ✅ Après (Résultat)
 

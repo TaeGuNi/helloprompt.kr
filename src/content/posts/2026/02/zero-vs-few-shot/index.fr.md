@@ -43,7 +43,6 @@ Le **Zero-Shot** consiste à donner une instruction directe, en s'appuyant uniqu
 > **Rôle :** Tu es un traducteur expert.
 > **Requête :** Traduis la phrase suivante en espagnol : "Le climat est très agréable aujourd'hui."
 
-\
 
 ### 🥇 Le Prompt Few-Shot (L'apprentissage par l'exemple)
 

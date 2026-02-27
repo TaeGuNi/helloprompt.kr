@@ -39,7 +39,6 @@ Use this when you need a quick feasibility check for moving a cloud AI feature t
 > **Role:** You are a Senior AI Solutions Architect specializing in Edge Computing.
 > **Task:** I want to implement `[Specific AI Feature, e.g., real-time voice transcription]` on `[Target Device/Platform, e.g., iOS mobile app]`. Recommend the best open-source quantized model and outline the basic technical requirements.
 
-\
 
 ### 🥇 Pro Version
 

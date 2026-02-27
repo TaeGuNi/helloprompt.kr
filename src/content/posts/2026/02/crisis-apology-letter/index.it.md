@@ -44,7 +44,6 @@ Ideale per piccoli ritardi quotidiani o dimenticanze minori (es. ritardo a un me
 > **Situazione:** `[Sono arrivato con 15 minuti di ritardo alla riunione su Zoom]`.
 > **Richiesta:** Scrivi un breve messaggio di scuse al mio `[manager/team]`. Non cercare scuse o giustificazioni, ammetti l'errore e indica subito come intendo procedere (es. "Ho recuperato gli appunti e mi metto subito al lavoro sulla task X"). Tono umile ma operativo.
 
-\
 
 ### 🥇 Pro Version (Versione Esperta per Incidenti Gravi / Reclami)
 

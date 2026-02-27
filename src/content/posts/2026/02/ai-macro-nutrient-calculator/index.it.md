@@ -42,7 +42,6 @@ Ideale quando vai di fretta e hai solo bisogno di una stima rapida delle calorie
 > **Ruolo:** Sei un nutrizionista esperto e preciso.
 > **Richiesta:** Analizza la foto che ti ho inviato. Elenca gli ingredienti visibili, stima il peso delle porzioni e calcola le calorie totali e i macronutrienti (carboidrati, proteine, grassi). Presenta i risultati in una tabella chiara.
 
-\
 
 ### 🥇 Pro Version (Avanzata e Personalizzata)
 

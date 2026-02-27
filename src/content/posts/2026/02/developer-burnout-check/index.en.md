@@ -42,7 +42,6 @@ Use this when you want a quick gauge of how serious your current condition is.
 > **Role:** You are an `[IT-specialized psychological counselor]`.
 > **Task:** "I hate coding lately, and I feel incredibly lethargic. Ask me 5 core questions to diagnose whether this is just a temporary slump or actual burnout."
 
-\
 
 ### 🥇 Pro Version
 

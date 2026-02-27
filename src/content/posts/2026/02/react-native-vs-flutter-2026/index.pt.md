@@ -45,7 +45,6 @@ Use esta versão quando precisar de um direcionamento claro e imediato em vez de
 > **Contexto (Situação):** A composição atual da nossa equipe é `[3 desenvolvedores React, 1 backend Node.js]`, e o serviço que queremos criar é um `[app de delivery baseado em localização]`.
 > **Task (Tarefa):** Nesta situação, qual stack tecnológica devemos escolher entre React Native e Flutter? Dê uma resposta clara e fundamente-a com as 3 razões mais críticas.
 
-\
 
 ### 🥇 Versão Pro (Análise Profunda para CTO)
 

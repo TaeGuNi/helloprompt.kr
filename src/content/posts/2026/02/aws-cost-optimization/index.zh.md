@@ -42,7 +42,6 @@ tags: ["AWS", "클라우드", "비용절감", "DevOps", "인프라"]
 > **角色：** 你是一位资深云架构师 (Senior Cloud Architect)。
 > **请求：** 我查看了 AWS 账单，发现 `[EBS Volume]` 的费用异常偏高。请帮我找出所有未连接 (Unattached) 的卷、过期的快照以及已分配但未使用的 Elastic IP，并提供准确的 AWS CLI 删除命令以及相关注意事项。
 
-\
 
 ### 🥇 Pro Version (专业版：竞价实例与架构优化)
 

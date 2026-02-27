@@ -43,7 +43,6 @@ Idéal lorsque vous avez une transcription courte et que vous souhaitez simpleme
 > **Tâche :** Résume la transcription de réunion suivante. Extraits-en les points clés, les décisions prises et les prochaines étapes.
 > **Transcription :** `[Collez votre texte de transcription ici]`
 
-\
 
 ### 🥇 Version Pro (Pour les réunions stratégiques)
 

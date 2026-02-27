@@ -48,7 +48,6 @@ Idéal pour les situations courantes : votre menu est fixé, et vous voulez choi
 2. Privilégie des cépages populaires et accessibles aux novices.
 3. Explique en une seule phrase claire pourquoi chaque vin s'accorde avec ce plat.
 
-\
 
 ### 🥇 Version Pro (Analyse Précise des Goûts)
 

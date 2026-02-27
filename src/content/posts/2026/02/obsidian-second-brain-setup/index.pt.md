@@ -42,7 +42,6 @@ Ideal para quem deseja começar de forma leve, focando apenas em anotações di�
 > **Função:** Você é um `[Especialista em Produtividade no Obsidian]`.
 > **Tarefa:** Para um iniciante que acabou de instalar o Obsidian, sugira o `[Template de Nota Diária]` mais intuitivo e simples, junto com uma `[Estrutura Básica de Pastas (máximo de 3)]`. A Nota Diária deve incluir seções para data, tarefas, notas principais e um diário de gratidão.
 
-\
 
 ### 🥇 Versão Pro (Especialista)
 

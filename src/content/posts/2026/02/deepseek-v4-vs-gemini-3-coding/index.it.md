@@ -62,7 +62,6 @@ Utilizzalo quando hai bisogno di individuare rapidamente i problemi nel codice. 
 > **Ruolo:** Sei un `[Sviluppatore Backend Senior]`.
 > **Task:** Analizza il seguente codice e fai un refactoring concentrandoti su `[vulnerabilità di sicurezza e memory leak]`.
 
-\
 
 ### 🥇 Versione Pro
 

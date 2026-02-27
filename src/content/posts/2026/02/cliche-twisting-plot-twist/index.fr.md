@@ -42,7 +42,6 @@ Idéal pour débloquer l'inspiration en un instant.
 > **Rôle :** Tu es un scénariste de génie, maître des retournements de situation imprévisibles.
 > **Requête :** Je veux écrire une histoire où `[le héros sauve la princesse]`. Propose-moi 3 twists choquants qui détruisent ce cliché, avec une idée d'indice subtil à placer au début de l'histoire pour chacun.
 
-\
 
 ### 🥇 Pro Version (Version Expert)
 

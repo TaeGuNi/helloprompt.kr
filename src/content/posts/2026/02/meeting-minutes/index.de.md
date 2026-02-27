@@ -43,7 +43,6 @@ Perfekt, wenn Sie nur rasch die Kernaussagen aus einem kurzen, informellen Gespr
 > **Aufgabe:** Fasse das folgende Transkript in die wichtigsten Punkte und To-Dos zusammen. Lasse unwichtigen Smalltalk weg.
 > **Transkript:** `[Hier Transkript einfügen]`
 
-\
 
 ### 🥇 Pro Version (Für formelle Meetings)
 

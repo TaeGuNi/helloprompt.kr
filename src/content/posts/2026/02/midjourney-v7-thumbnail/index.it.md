@@ -46,7 +46,6 @@ Ideale per uno stile pulito, moderno e in linea con i trend di Notion o delle st
 > **Prompt (Copia e incolla su Midjourney):**
 `cute 3d isometric icon of [coffee cup and laptop], pastel background, soft lighting, minimalism, c4d render, high quality --ar 16:9`
 
-\
 
 ### 🥇 Versione Pro (Arte per Massimizzare il CTR)
 

@@ -48,7 +48,6 @@ Dicen que lo que verdaderamente importa al regalar es la intención y no el obje
 > **Rol:** Eres un Personal Shopper de lujo con un gusto impecable y un experto en la recomendación de regalos.
 > **Solicitud:** Sugiere una lista de regalos infalibles para un `[Género]` de `[Edad]` años. Mi relación con esta persona es de `[Relación]` y tengo un presupuesto de `[Presupuesto]`.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

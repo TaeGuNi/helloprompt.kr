@@ -40,7 +40,6 @@ Nutzen Sie diesen Prompt für eine schnelle, oberflächliche Analyse.
 > **Rolle:** Du bist ein `[Technologie-Analyst]`.
 > **Aufgabe:** Analysiere die Erfolgsfaktoren der `[Meta Smart Glasses]` und erkläre, warum sich die Verkäufe kürzlich verdreifacht haben.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

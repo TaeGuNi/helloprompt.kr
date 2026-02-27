@@ -44,7 +44,6 @@ Verwenden Sie diesen Prompt, wenn Sie nur eine schnelle Lösung benötigen.
 > **Rolle:** Du bist ein Debugging-Genie.
 > **Anfrage:** Finde die Ursache für diesen Bug und repariere den Code. Hier sind Log und Code: `[Code/Log einfügen]`
 
-\
 
 ### 🥇 Pro Version (Experten-Version)
 

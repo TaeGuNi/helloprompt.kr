@@ -44,7 +44,6 @@ Usala quando hai bisogno di un consiglio rapido e diretto senza troppi dettagli 
 > **Ruolo:** Sei un Senior Software Engineer esperto in algoritmi.
 > **Richiesta:** Devo memorizzare dei dati e non so quale struttura scegliere. Ti descriverò il mio caso d'uso e tu mi consiglierai la struttura dati ottimale, spiegandomi brevemente il perché.
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

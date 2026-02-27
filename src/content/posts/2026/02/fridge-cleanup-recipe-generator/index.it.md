@@ -42,7 +42,6 @@ Usala quando vai di fretta e hai bisogno di un'idea immediata.
 > **Ruolo:** Sei uno Chef di un ristorante 2 stelle Michelin e un esperto di cucina casalinga salutare.
 > **Richiesta:** Crea una ricetta sana e deliziosa utilizzando solo questi ingredienti: `[inserisci ingredienti]`.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

@@ -42,7 +42,6 @@ Pour des tâches simples, mais en exigeant toujours de la qualité.
 > **Rôle :** Tu es un `[Ingénieur Logiciel Senior]`.
 > **Requête :** Implémente `[fonctionnalité]` en respectant les principes SOLID et en fournissant les tests unitaires correspondants. N'ajoute aucune logique superflue et assure-toi que le code est entièrement typé.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

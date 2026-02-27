@@ -48,7 +48,6 @@ Use isso quando precisar apenas de um ensaio rápido.
 > **Role (Papel):** Você é um gerente de RH meticuloso e focado em corte de custos.
 > **Task (Tarefa):** Simule uma negociação salarial tensa comigo. Quero treinar meus argumentos para maximizar minha taxa de aumento. Comece você questionando meu desempenho.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

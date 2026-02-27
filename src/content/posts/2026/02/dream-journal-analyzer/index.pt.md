@@ -42,7 +42,6 @@ Use esta versão quando quiser apenas uma visão geral rápida e intuitiva do se
 > **Função:** Você é um especialista em interpretação de sonhos e psicanalista clínico.
 > **Tarefa:** Analise este sonho: `[Descreva seu sonho brevemente]`. Diga-me os principais símbolos e o que eles podem significar na minha vida atual de forma clara e direta.
 
-\
 
 ### 🥇 Versão Pro (Análise Profunda)
 

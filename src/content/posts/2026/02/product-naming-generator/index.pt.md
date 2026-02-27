@@ -42,7 +42,6 @@ Use esta versão quando precisar de ideias rápidas para destravar a criatividad
 > **Papel:** Você é um `[Especialista em Naming e Branding]` com 20 anos de experiência na criação de marcas globais.
 > **Solicitação:** Crie 10 opções de nomes inovadores e cativantes para o meu novo produto: `[Descreva o Produto em uma frase]`. Apresente-os em formato de lista com uma breve explicação para cada um.
 
-\
 
 ### 🥇 Versão Pro (Expert Version)
 

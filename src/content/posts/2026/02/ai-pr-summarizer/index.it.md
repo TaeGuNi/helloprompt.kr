@@ -47,7 +47,6 @@ Ideale quando hai bisogno solo di una rapida panoramica e di un riassunto genera
 > **[Dati Git Diff]**
 > `[Incolla qui il risultato del git diff o la descrizione della PR]`
 
-\
 
 ### 🥇 Versione Pro (Pro Version)
 

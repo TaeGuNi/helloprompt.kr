@@ -42,7 +42,6 @@ Utilisez ce prompt lorsque vous souhaitez assimiler rapidement la syntaxe de bas
 > **Rôle :** Tu es un `[Développeur Rust Senior]`.
 > **Tâche :** Fournis-moi le code pour afficher 'Hello World' en Rust. Ensuite, explique-moi avec des termes simples, adaptés à un débutant, la série de commandes CLI pour créer, compiler et exécuter un nouveau projet en utilisant `[Cargo]`.
 
-\
 
 ### 🥇 Version Pro (Expertise approfondie)
 
@@ -57,11 +56,11 @@ Utilisez ce prompt pour surmonter le plus grand obstacle de Rust : comprendre pa
 >
 > **Code (Code) :**
 >
-> ```rust
+>
 > let s1 = String::from("hello");
 > let s2 = s1;
 > println!("{}, world!", s1); // Point d'erreur de compilation
-> ```
+>
 >
 > **Tâche (Task) :**
 >

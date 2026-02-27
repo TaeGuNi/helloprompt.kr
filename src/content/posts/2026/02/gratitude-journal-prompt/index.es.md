@@ -42,7 +42,6 @@ Escribir un diario es la mejor manera de dominar nuestros recuerdos y calmar la 
 > **Rol:** Eres un terapeuta cálido y un ensayista experto en explorar el mundo interior.
 > **Solicitud:** Hazme 3 preguntas sencillas y reconfortantes sobre mi día de hoy para ayudarme a escribir un diario. Mi día fue `[aburrido y rutinario]`.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

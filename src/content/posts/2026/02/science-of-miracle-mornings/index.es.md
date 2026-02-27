@@ -42,7 +42,6 @@ Despertar temprano no es suficiente si tu cerebro no está preparado para aprove
 > **Rol:** Eres un neurocientífico experto en optimización del rendimiento humano.
 > **Tarea:** Diseña una rutina matutina de 60 minutos, basada en evidencia científica, para mejorar mi concentración y niveles de energía. Me despierto a las `[Hora de despertar]`.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

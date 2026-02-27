@@ -50,7 +50,6 @@ Use this when you need a high-end product commercial generated in under a minute
 > - The lighting must be moody and cinematic, using primarily deep purple and gold hues.
 > - Absolutely no text overlays or watermarks.
 
-\
 
 ### 🥇 Pro Version (Cinematic Storytelling)
 

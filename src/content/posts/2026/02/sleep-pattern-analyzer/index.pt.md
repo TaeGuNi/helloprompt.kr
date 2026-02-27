@@ -42,7 +42,6 @@ Ideal para uma avaliação rápida e direta dos seus hábitos quando você não 
 > **Papel:** Você é um Especialista em Medicina do Sono.
 > **Solicitação:** Analise minha rotina diária atual `[inserir rotina]` e identifique os 3 principais fatores que estão arruinando meu sono, sugerindo mudanças práticas imediatas.
 
-\
 
 ### 🥇 Versão Pro (Expert Version)
 

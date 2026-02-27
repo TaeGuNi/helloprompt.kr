@@ -42,7 +42,6 @@ Usa questa versione per ottenere una spiegazione rapida e semplice, perfetta per
 > **Ruolo:** Sei un esperto di `[Sicurezza Informatica e Privacy]`.
 > **Azione:** Spiega in modo semplice come la tecnologia `[WiFi Sensing]` traccia le persone e quali sono i principali rischi per la privacy associati.
 
-\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

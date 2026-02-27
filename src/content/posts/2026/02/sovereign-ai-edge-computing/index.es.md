@@ -45,7 +45,6 @@ En 2026, el tema más importante en tecnología de IA es la **'IA Soberana' (Sov
 > **Rol:** Eres un Consultor Experto en IA Soberana y Edge Computing.
 > **Tarea:** Explícame cómo puedo implementar Modelos de Lenguaje Pequeños (SLM) en la industria de `[Inserta tu sector, ej. Salud, Finanzas]` para mejorar la privacidad de los datos y reducir mi dependencia de la nube.
 
-\
 
 ### 🥇 Pro Version (Versión Profesional)
 

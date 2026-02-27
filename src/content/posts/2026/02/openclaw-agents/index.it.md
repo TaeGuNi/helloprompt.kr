@@ -38,7 +38,6 @@ Usala quando hai bisogno solo di una bozza rapida per un singolo agente.
 > **Ruolo:** Sei un `[Esperto Sviluppatore OpenClaw]`.
 > **Azione:** Scrivi il prompt di sistema e l'elenco degli strumenti (Tool) necessari per un agente autonomo che deve eseguire `[Operazione Specifica]`.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

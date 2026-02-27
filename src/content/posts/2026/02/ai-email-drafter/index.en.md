@@ -42,7 +42,6 @@ Use this for quick, straightforward replies or simple informational emails.
 > **Role:** You are a highly capable business assistant.
 > **Task:** Write a polite email to Assistant Manager Kim at our partner company, asking to postpone this Friday's meeting to next Monday at 2:00 PM. The reason is a sudden change in our internal executive schedule.
 
-\
 
 ### 🥇 Pro Version
 

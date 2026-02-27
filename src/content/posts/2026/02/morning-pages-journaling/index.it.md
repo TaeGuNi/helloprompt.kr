@@ -43,7 +43,6 @@ Usa questa versione quando vuoi un'analisi rapida e leggera del tuo stato emotiv
 > **Azione:** Leggi la pagina di diario che ho scritto oggi. Dimmi qual è il "meteo" delle mie emozioni e offrimi una breve parola di conforto.
 > **Diario:** `[Inserisci qui il testo di oggi]`
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 
@@ -71,10 +70,9 @@ Ideale quando hai bisogno di un'esplorazione interiore profonda e di recuperare 
 > 
 > **Dati di Input (Input):**
 > - **[Testo delle Morning Pages]**: 
-> ```
+>
 > [Incolla qui il contenuto delle Morning Pages di oggi]
-> ```
-
+>
 ---
 
 ## 💡 Il Commento dell'Autore (Insight)

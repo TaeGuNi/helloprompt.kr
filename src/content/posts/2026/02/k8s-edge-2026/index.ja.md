@@ -43,7 +43,6 @@ tags: ["Kubernetes", "Edge Computing", "DevOps"]
 > **役割:** あなたはシニアDevOpsエンジニアです。
 > **タスク:** RAM 2GBのIoTデバイス向けに、最も軽量化されたK3sのインストールスクリプトとArgoCDの基本マニフェストを作成してください。
 
-\
 
 ### 🥇 Pro Version (専門家型)
 

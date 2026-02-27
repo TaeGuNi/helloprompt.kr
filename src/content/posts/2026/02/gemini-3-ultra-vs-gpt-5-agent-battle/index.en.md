@@ -51,7 +51,6 @@ The standard prompt for assigning both planning and coding to a single model. (F
 > **Role:** You are a `[Senior AI Developer]`.
 > **Task:** Plan an `[Autonomous Stock Trading Agent]` and write the complete Python code to execute it.
 
-\
 
 ### 🥇 Pro Version
 

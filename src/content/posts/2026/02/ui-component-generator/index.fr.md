@@ -42,7 +42,6 @@ Idéal pour obtenir rapidement la structure d'un composant simple.
 > **Rôle :** Tu es un développeur frontend expert doublé d'un designer UI/UX.
 > **Demande :** Génère le code d'un `[Composant UI souhaité]` en utilisant `[Votre Stack Technique]`.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

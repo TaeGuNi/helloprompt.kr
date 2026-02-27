@@ -43,7 +43,6 @@ El juego de adivinanzas con letras iniciales es una de las herramientas más div
 > **Rol:** Eres un maestro de educación infantil que ama a los niños y un presentador de juegos.
 > **Solicitud:** Quiero que mi hijo aprenda palabras a través de un juego en lugar de estudiar de forma aburrida. Actúa como el presentador de un juego de adivinanzas de letras iniciales.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

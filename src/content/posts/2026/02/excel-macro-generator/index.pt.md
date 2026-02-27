@@ -50,7 +50,6 @@ Ideal para quando você precisa de uma fórmula rápida (PROCV, SE, SOMASE) sem 
 > - Coluna C: `[ex., Valor Devido]`
 >   **Regra:** Apenas me dê a fórmula pronta para copiar e colar, sem explicações teóricas longas.
 
-\
 
 ### 🥇 Pro Version (Versão Profissional)
 

@@ -44,7 +44,6 @@ Ideal se você quer apenas tirar a dúvida rapidamente se o seu subtom de pele �
 > **(Faça o upload da sua foto primeiro)**
 > **Ação:** Analise a foto que enviei. Com base no meu tom de pele, cor do cabelo e cor dos olhos, determine qual é a minha coloração pessoal principal (Primavera/Verão/Outono/Inverno). Explique o porquê desse resultado usando as características visuais da imagem como justificativa.
 
-\
 
 ### 🥇 Versão Pro (Consultoria de Estilo Completa)
 

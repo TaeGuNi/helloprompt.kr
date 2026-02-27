@@ -44,7 +44,6 @@ Ideal para Daily Scrums ou reuniões rápidas e informais onde você só precisa
 >
 > [Cole as anotações da reunião aqui]
 
-\
 
 ### 🥇 Pro Version (Versão Profissional)
 

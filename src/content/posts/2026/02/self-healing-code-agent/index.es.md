@@ -44,7 +44,6 @@ En 2026, los ingenieros más avanzados ya no le piden a la IA que simplemente es
 > **Rol:** Eres un `[Desarrollador Senior de Python]`.
 > **Tarea:** Basándote en el siguiente `[Mensaje de error]`, corrige los errores del `[Código original]`.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 
@@ -73,16 +72,15 @@ En 2026, los ingenieros más avanzados ya no le piden a la IA que simplemente es
 > **Datos de Entrada (Input Data):**
 > **Código original:**
 > 
-> ```python
+>
 > [Inserta aquí el código original]
-> ```
+>
 > 
 > **Registro de errores:**
 > 
-> ```text
+>
 > [Inserta aquí el mensaje de error stderr]
-> ```
-
+>
 ---
 
 ## 💻 Automatizando el Bucle con Python (Implementation)

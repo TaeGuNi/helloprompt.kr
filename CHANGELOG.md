@@ -2,6 +2,61 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.8.0](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.7.0...v1.8.0) (2026-02-27)
+
+
+### Features
+
+* **content:** add new trend post for nbc olympics figure skating ([#270](https://github.com/TaeGuNi/helloprompt.kr/issues/270)) ([b198729](https://github.com/TaeGuNi/helloprompt.kr/commit/b19872913f15ab0e9c63885956927de484535ea4))
+* **content:** add new trend post for tim tebow ([#269](https://github.com/TaeGuNi/helloprompt.kr/issues/269)) ([c376189](https://github.com/TaeGuNi/helloprompt.kr/commit/c376189f69b911f3e52f951243efe4a9ff0ef3e1))
+* **content:** generate skill post for chaos_monkey_testing with spartan persona ([#274](https://github.com/TaeGuNi/helloprompt.kr/issues/274)) ([6c6ef44](https://github.com/TaeGuNi/helloprompt.kr/commit/6c6ef4426b79684eead60a09652e1a42468b237c))
+* **content:** generate skill post for ddd_architecture with spartan persona ([#275](https://github.com/TaeGuNi/helloprompt.kr/issues/275)) ([ea87cf8](https://github.com/TaeGuNi/helloprompt.kr/commit/ea87cf862d4f2b961850771d4a28075b229cac08))
+* **content:** generate skill post for design_system_identity with spartan persona ([#276](https://github.com/TaeGuNi/helloprompt.kr/issues/276)) ([23a7a84](https://github.com/TaeGuNi/helloprompt.kr/commit/23a7a84362e40dc9c0889e62f24ac72b4d49f477))
+* **content:** generate skill post for docker with spartan persona ([#277](https://github.com/TaeGuNi/helloprompt.kr/issues/277)) ([04e227d](https://github.com/TaeGuNi/helloprompt.kr/commit/04e227dd71e6e7859b1892cc3daaa21545b9cfe3))
+* **content:** generate skill post for epistemic_humility with spartan persona ([#278](https://github.com/TaeGuNi/helloprompt.kr/issues/278)) ([8c990a5](https://github.com/TaeGuNi/helloprompt.kr/commit/8c990a5152a19c0b848cd10713e3e8116323267e))
+* **content:** generate skill post for github_cli with spartan persona ([#279](https://github.com/TaeGuNi/helloprompt.kr/issues/279)) ([9769877](https://github.com/TaeGuNi/helloprompt.kr/commit/9769877c1c97019c6a136707e3c173ba5a07e5a2))
+* **content:** generate skill post for mariadb with spartan persona ([#280](https://github.com/TaeGuNi/helloprompt.kr/issues/280)) ([cf4fc9b](https://github.com/TaeGuNi/helloprompt.kr/commit/cf4fc9bc651fe527f97fa63d7a2b19f4265216bd))
+* **content:** generate skill post for markdown_source_of_truth with spartan persona ([#281](https://github.com/TaeGuNi/helloprompt.kr/issues/281)) ([fa6b553](https://github.com/TaeGuNi/helloprompt.kr/commit/fa6b553e797e0c2658ea75f60d2e43bc699f9d27))
+* **content:** generate skill post for mysql with spartan persona ([#282](https://github.com/TaeGuNi/helloprompt.kr/issues/282)) ([5b1df64](https://github.com/TaeGuNi/helloprompt.kr/commit/5b1df643884a8e7de9b2e9932cb18801cf51bee7))
+* **content:** generate skill post for observability_logging_protocol with spartan persona ([#283](https://github.com/TaeGuNi/helloprompt.kr/issues/283)) ([84b3fca](https://github.com/TaeGuNi/helloprompt.kr/commit/84b3fca1c2b927cb3f5a6ff8d03b3e60dfb3ce4e))
+* **content:** generate skill post for playwright_ref_protocol with spartan persona ([f66ec26](https://github.com/TaeGuNi/helloprompt.kr/commit/f66ec26faa960139b065cd83142dd8cfacd759ee))
+* **content:** generate skill post for postgresql with spartan persona ([#293](https://github.com/TaeGuNi/helloprompt.kr/issues/293)) ([548b77f](https://github.com/TaeGuNi/helloprompt.kr/commit/548b77f6316fff78d91033b792814e4922ed2f6c))
+* **content:** generate skill post for react_next_architecture with spartan persona ([#285](https://github.com/TaeGuNi/helloprompt.kr/issues/285)) ([10d87e4](https://github.com/TaeGuNi/helloprompt.kr/commit/10d87e4a817ec498dae78f287102256ee96e36d8))
+* **content:** generate skill post for security_iam_protocol with spartan persona ([#286](https://github.com/TaeGuNi/helloprompt.kr/issues/286)) ([f7255ee](https://github.com/TaeGuNi/helloprompt.kr/commit/f7255eed8943d09f694ecab2441793be0c97571f))
+* **content:** generate skill post for self_healing with spartan persona ([#287](https://github.com/TaeGuNi/helloprompt.kr/issues/287)) ([986f7dd](https://github.com/TaeGuNi/helloprompt.kr/commit/986f7ddaf79cfcfd30629c3815a9696272c91bc0))
+* **content:** generate skill post for stateless_architecture with spartan persona ([#288](https://github.com/TaeGuNi/helloprompt.kr/issues/288)) ([e01d4bc](https://github.com/TaeGuNi/helloprompt.kr/commit/e01d4bcedc02999c082e807a4e712f59c54582ff))
+* **content:** generate skill post for tailwind_architecture with spartan persona ([#289](https://github.com/TaeGuNi/helloprompt.kr/issues/289)) ([27894f4](https://github.com/TaeGuNi/helloprompt.kr/commit/27894f43d929d12f7eb097ee7f610f0fce42aa11))
+* **content:** generate skill post for typescript_core with spartan persona ([#290](https://github.com/TaeGuNi/helloprompt.kr/issues/290)) ([c1001fd](https://github.com/TaeGuNi/helloprompt.kr/commit/c1001fdb63b2576436a23b4f305f91f9cb0b6270))
+* **content:** generate skill post for uv_python with spartan persona ([#291](https://github.com/TaeGuNi/helloprompt.kr/issues/291)) ([d96c38c](https://github.com/TaeGuNi/helloprompt.kr/commit/d96c38c78bcc25a6b49ce5f72a26a4f7f536ecd1))
+* **content:** generate skill post for zero_trust_coding with spartan persona ([#292](https://github.com/TaeGuNi/helloprompt.kr/issues/292)) ([4c2432f](https://github.com/TaeGuNi/helloprompt.kr/commit/4c2432f9b6b106f28e3462b11bb2719e87c253ee))
+* **content:** restore deleted 2026-02 posts from before AI global rewrite ([5cf0236](https://github.com/TaeGuNi/helloprompt.kr/commit/5cf0236386126d2b3bc09aa8febd1256a1d1756f))
+* **content:** Skill Article - ruthless_reviewer ([#273](https://github.com/TaeGuNi/helloprompt.kr/issues/273)) ([b3a0645](https://github.com/TaeGuNi/helloprompt.kr/commit/b3a06453b2acc5a8cc7d44c3a726256616843594))
+* **content:** Spartan Skill Article - rdbms_architecture ([#284](https://github.com/TaeGuNi/helloprompt.kr/issues/284)) ([72c6120](https://github.com/TaeGuNi/helloprompt.kr/commit/72c6120560f3cce3d7a8e8c5c620c9bbe8d250d8))
+* **scripts:** update trend post generator to handle batch of 5 and run automatic QA/rewrites ([42279e6](https://github.com/TaeGuNi/helloprompt.kr/commit/42279e618d3e0d2f3b35b90349b054d3e926b9a7))
+* **seo:** implement technical seo roadmap items (hreflang, JSON-LD, canonical, lazy load) ([116aef2](https://github.com/TaeGuNi/helloprompt.kr/commit/116aef28b268821904fcb8607eeb9a279b7ef254))
+
+
+### Bug Fixes
+
+* **ci:** update deprecated feed and test urls to localized routes ([68ec102](https://github.com/TaeGuNi/helloprompt.kr/commit/68ec1028eade74bed05cf077595e5216e2731d84))
+* **content:** correct malformed picks URL dimension and change 403 forbidden domain ([8bd1bd9](https://github.com/TaeGuNi/helloprompt.kr/commit/8bd1bd9e84608c9acbf77d59ddddba0b42401b9f))
+* **content:** correct malformed yaml frontmatter quote in deepfake post ([0a07365](https://github.com/TaeGuNi/helloprompt.kr/commit/0a0736520db90e6cc43b8e3d2dad39da726b3d85))
+* **content:** replace dead unsplash and placeholder APIs with picsum.photos ([a9baec6](https://github.com/TaeGuNi/helloprompt.kr/commit/a9baec644c248a46578e1ea702605eb3a36de915))
+* **content:** replace dead unsplash API with picsum and fix lychee parsing errors ([93227c4](https://github.com/TaeGuNi/helloprompt.kr/commit/93227c49b38cf06e8d3141f1a29a2601d0458728))
+* **content:** resolve remaining lychee broken links for old migrated posts ([588bf2f](https://github.com/TaeGuNi/helloprompt.kr/commit/588bf2f96fff631001ed18b62fb7761e2fdcf4a4))
+* **core:** resolve routing bugs across tags, 404 handling, and ad components ([442aff1](https://github.com/TaeGuNi/helloprompt.kr/commit/442aff111d0935b94c0807d34b116585d9136bfc))
+* QA compliance, blockquote warnings, image hallucination, and removed all HTML comments ([2b84672](https://github.com/TaeGuNi/helloprompt.kr/commit/2b846727a73b4422050d41b03e56f547063769bf))
+* **qa:** escape all markdown brackets across list items to pass Lychee link checker ([f527fb5](https://github.com/TaeGuNi/helloprompt.kr/commit/f527fb57553db6806f2ca686baaa3e98eb3ce1c0))
+* **qa:** resolve eslint any types and fix raw lychee bracket markdown error ([6c38719](https://github.com/TaeGuNi/helloprompt.kr/commit/6c38719b9ae55d5a2548a4b2761e8ec1ea65bdd2))
+* replace remaining invalid shiki languages in blockquotes ([a2fab89](https://github.com/TaeGuNi/helloprompt.kr/commit/a2fab89ee45039cf0df2f4d0eff3522349e9f810))
+* resolve astro invalid image schema data error by removing orphaned alt tags ([f90a4e0](https://github.com/TaeGuNi/helloprompt.kr/commit/f90a4e029b14d6e435910441f2d6e85d7d7f5afd))
+* resolve lychee broken link parsing issue for email-triage ja translation ([dce79c9](https://github.com/TaeGuNi/helloprompt.kr/commit/dce79c91172740e3ec87cf768b43d3f11de28753))
+* resolve lychee links and ignore namecheap ([be8a8cb](https://github.com/TaeGuNi/helloprompt.kr/commit/be8a8cbe3a48355e06eafef62710c86107e7f39f))
+* resolve lychee markdown link false positive and restore list items in ja translation ([92a98e9](https://github.com/TaeGuNi/helloprompt.kr/commit/92a98e91423f786c95c280b2144889c6ea933753))
+* resolve prefer-const and no-var linting errors ([ecc4c84](https://github.com/TaeGuNi/helloprompt.kr/commit/ecc4c844ac95cd2305e5ed4a1ecda49c26530d8b))
+* resolve shiki syntax highlighting errors for unsupported markdown code blocks ([06101a2](https://github.com/TaeGuNi/helloprompt.kr/commit/06101a2ff4c5bcb01f81345b9749d7bc2ea20a4c))
+* **test:** remove misplaced aura-core testing suite breaking CI ([a49a32f](https://github.com/TaeGuNi/helloprompt.kr/commit/a49a32f11834e7dcc55052fe78da65e8913854fe))
+
 ## [1.7.0](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.5.3...v1.7.0) (2026-02-22)
 
 ### Features

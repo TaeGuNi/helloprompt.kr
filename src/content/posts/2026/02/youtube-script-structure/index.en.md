@@ -42,7 +42,6 @@ Use this when you need a rapid, structured outline.
 > **Role:** You are an `[Expert YouTube Producer for a 1M+ Subscriber Channel]`.
 > **Task:** Create a highly engaging script structure for a video about `[Topic]`. Your primary goal is to prevent viewer drop-off in the first 5 seconds and maximize total retention time.
 
-\
 
 ### 🥇 Pro Version (Expert Craftsmanship)
 

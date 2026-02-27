@@ -42,7 +42,6 @@ Use this when you need a quick, high-level budget breakdown to start your planni
 > **Role:** You are an expert financial advisor and veteran wedding planner.
 > **Task:** Create a detailed wedding budget checklist and financial breakdown for a total budget of `[$X,XXX]`. Be sure to include a list of commonly forgotten hidden costs.
 
-\
 
 ### 🥇 Pro Version
 

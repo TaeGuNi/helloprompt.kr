@@ -68,12 +68,11 @@ A dica de ouro aqui é processar dezenas ou centenas de linhas diretamente na ja
 >
 > **Dados de Entrada (Input):**
 >
-> ```csv
+>
 > João Silva, 11 91234 5678, SP Capital Paulista, test@test.com
 > Maria Santos, 11.9876.5432, Sao Paulo Zona Sul, invalid-email
 > Carlos Pereira, 011-123-4567, S. Paulo Centro,
-> ```
-
+>
 ---
 
 ## 💡 Insight do Autor (Writer's Insight)

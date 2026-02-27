@@ -41,7 +41,6 @@ Use quando precisar encontrar rapidamente um bom lugar por perto.
 
 > **Tarefa:** Recomende apenas 3 `[cafés]` com uma `[vista incrível para o mar]` perto de `[Aewol-eup, Ilha de Jeju]`. Por favor, escolha lugares que não estejam lotados e que tenham estacionamento fácil.
 
-\
 
 ### 🥇 Pro Version (Versão Profissional)
 

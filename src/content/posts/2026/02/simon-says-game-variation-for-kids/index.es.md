@@ -42,7 +42,6 @@ Ideal para cuando necesitas ideas rápidas y divertidas al instante.
 > **Rol:** Eres un experto profesor de educación física infantil especializado en desarrollo cognitivo.
 > **Solicitud:** Genera 10 misiones creativas para el juego "Simón Dice" diseñadas para mejorar la concentración y el control corporal de niños pequeños. Incluye acciones divertidas e inusuales.
 
-\
 
 ### 🥇 Versión Pro (Professional Version)
 

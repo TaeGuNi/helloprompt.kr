@@ -43,7 +43,6 @@ Nutzen Sie diesen Prompt für schnelle Überarbeitungen einzelner Funktionen, we
 > **Rolle:** Du bist ein Senior Software Engineer mit Expertise in Clean Code.
 > **Aufgabe:** Refaktorisiere die folgende Funktion `[Funktionsname]`, um die Lesbarkeit zu verbessern und die kognitive Komplexität zu reduzieren. Behalte die exakte Funktionalität bei.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

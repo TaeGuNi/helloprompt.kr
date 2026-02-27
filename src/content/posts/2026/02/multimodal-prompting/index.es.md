@@ -40,7 +40,6 @@ Ideal para cuando necesitas análisis rápido sin mucha preparación.
 > **Contexto:** Te adjunto esta `[Imagen/Audio/Vídeo]`.
 > **Tarea:** Analiza el contenido y resuelve `[Problema específico]`.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

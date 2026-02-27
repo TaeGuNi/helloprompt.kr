@@ -43,7 +43,6 @@ El lenguaje que ha roto por completo este antiguo dilema del ecosistema backend 
 > **Rol:** Eres un desarrollador backend Senior.
 > **Tarea:** Explícame cómo se implementan los conceptos de `@RestController` y la Inyección de Dependencias (DI) de Spring Boot en Go. Proporcióname un ejemplo comparativo de código CRUD simple utilizando los frameworks `Gin` o `Echo`.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 
@@ -119,4 +118,3 @@ Go ofrece la potencia cruda (Raw) y la transparencia exacta que requieren los si
 
 Si estás agotado de los altos costos de infraestructura y las implementaciones lentas, es hora de poner a dieta a tus servidores.
 **"Adopta un Go Gopher en tu proyecto hoy mismo."** 🍷
-```

@@ -43,7 +43,6 @@ Use this for quick, single-file logic updates.
 > **Role:** You are a Senior Python Engineer.
 > **Task:** Refactor the following Python code to utilize Python 3.14 features (Pattern Matching v3, TypeVar defaults) and ensure it is optimized for the new JIT compiler.
 
-\
 
 ### 🥇 Pro Version
 

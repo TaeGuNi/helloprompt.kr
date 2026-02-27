@@ -42,7 +42,6 @@ tags: ["业务效率", "Excel", "报告书", "ChatGPT"]
 > **角色:** 你是 CS 质量管理专家。
 > **请求:** 请对以下数百条顾客评论进行情感分析 (Sentiment Analysis) 并进行分类汇总。
 
-\
 
 ### 🥇 Pro Version (专家版)
 

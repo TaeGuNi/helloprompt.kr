@@ -48,7 +48,6 @@ Ideal para consultas rápidas que requieren lógica estructurada, como depuraci�
 > **Rol:** Eres un experto en pensamiento analítico y resolución de problemas.
 > **Instrucción:** Resuelve el siguiente `[Problema]`. Antes de dar la respuesta final, desglosa tu proceso de pensamiento paso a paso y evalúa posibles errores.
 
-\
 
 ### 🥇 Versión Pro
 

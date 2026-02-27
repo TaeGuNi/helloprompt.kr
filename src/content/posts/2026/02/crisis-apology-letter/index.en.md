@@ -44,7 +44,6 @@ Use this when you need a quick, polite response for minor issues like running la
 > **Situation:** I was `[10 minutes late to the weekly sync]`.
 > **Request:** Write a concise, polite apology message to my manager. Do not make excuses, and briefly state my immediate next step or action to make up for it.
 
-\
 
 ### 🥇 Pro Version
 

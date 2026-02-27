@@ -44,7 +44,6 @@ Utilisez cette version lorsque vous avez juste besoin d'un résultat immédiat s
 > **Rôle :** Tu es un développeur Senior expert en Regex.
 > **Demande :** Écris-moi une expression régulière en `[Langage, ex: JavaScript]` pour extraire `[Description du motif, ex: un numéro de téléphone français]`.
 
-\
 
 ### 🥇 Pro Version (Version Expert)
 

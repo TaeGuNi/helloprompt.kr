@@ -46,7 +46,6 @@ Utilisez cette version pour visualiser rapidement l'ambiance extérieure et le s
 
 > **Prompt :** modern minimal house exterior, white concrete and wood, large glass windows, nature surrounding, warm lighting, photorealistic, 8k --ar 16:9
 
-\
 
 ### 🥇 Version Pro (Plan d'Étage & Vue Isométrique)
 

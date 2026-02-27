@@ -40,7 +40,6 @@ Idéal pour comprendre rapidement à quoi sert une fonction obscure.
 > **Tâche :** Explique-moi ce que fait ce code en termes simples, étape par étape, et identifie les dépendances potentielles.
 > **Code :** `[Insérer le code legacy ici]`
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

@@ -42,7 +42,6 @@ Use this when you just need a quick polish for your raw thoughts.
 > **Role:** You are an expert B2B copywriter and top LinkedIn influencer.
 > **Task:** Transform the following `[rough notes]` into an engaging, professional LinkedIn post. Keep it concise, add a strong hook, and use appropriate emojis.
 
-\
 
 ### 🥇 Pro Version
 

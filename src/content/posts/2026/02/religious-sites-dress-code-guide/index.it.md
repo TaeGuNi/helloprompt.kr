@@ -48,7 +48,6 @@ Ideale per ottenere risposte rapide mentre sei in viaggio.
 > **Ruolo:** Sei un'esperta guida turistica globale, specializzata in turismo religioso e rispetto delle tradizioni locali.
 > **Richiesta:** Sto per visitare un luogo sacro. Spiegami in modo conciso quali sono le regole di abbigliamento da rispettare per non essere respinti all'ingresso.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

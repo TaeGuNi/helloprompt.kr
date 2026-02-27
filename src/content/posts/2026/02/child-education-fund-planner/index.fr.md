@@ -43,7 +43,6 @@ Pour une estimation rapide et globale des coûts futurs.
 > **Rôle :** Tu es un `[conseiller financier expert]` spécialisé dans la planification de l'éducation.
 > **Requête :** La hausse des frais de scolarité m'inquiète. Calcule combien d'argent je dois préparer pour les futures études universitaires de mon enfant qui a actuellement `[âge]` ans.
 
-\
 
 ### 🥇 Version Experte (Pro Version)
 

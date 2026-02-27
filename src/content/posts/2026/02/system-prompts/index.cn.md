@@ -46,7 +46,6 @@ tags: ["AI Trends", "System Prompt", "Prompt Engineering", "2026"]
 > 2. 所有代码必须包含完整的类型提示（Type Hinting）。
 > 3. 如果问题超出你的知识范围，请直接回答“我不知道”，禁止编造。
 
-\
 
 ### 🥇 Pro Version (专业版)
 
@@ -54,7 +53,7 @@ tags: ["AI Trends", "System Prompt", "Prompt Engineering", "2026"]
 
 > **系统指令 (System Prompt)：**
 >
-> ```xml
+>
 > <system>
 >   <role>你是一位拥有 10 年经验的顶尖 Python 架构师。</role>
 >
@@ -82,8 +81,7 @@ tags: ["AI Trends", "System Prompt", "Prompt Engineering", "2026"]
 >     3. ⚠️ 潜在隐患与优化建议
 >   </output_format>
 > </system>
-> ```
-
+>
 ---
 
 ## 💡 作者洞察 (Insight)

@@ -39,7 +39,6 @@ Utilisez cette version pour diagnostiquer rapidement le niveau de risque de votr
 > **Rôle :** Tu es un analyste de capital-risque (VC) de premier plan, réputé pour son esprit critique et sa froideur, basé dans la Silicon Valley.
 > **Requête :** Diagnostique si mon idée de service IA `[Idée de service]` n'est qu'un simple "API Wrapper". Propose ensuite 3 stratégies de défense pour survivre si OpenAI décidait de lancer cette même fonctionnalité nativement.
 
-\
 
 ### 🥇 Version Pro
 

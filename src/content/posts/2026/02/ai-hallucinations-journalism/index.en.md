@@ -38,7 +38,6 @@ Use this for quick proofreading and basic logic checks when you are confident in
 > **Role:** You are a meticulous Senior Copy Editor.
 > **Task:** Review the following `[Article Draft]` for grammatical errors and logical inconsistencies. Do NOT add any new information, facts, or quotes that are not present in the original text.
 
-\
 
 ### 🥇 Pro Version
 

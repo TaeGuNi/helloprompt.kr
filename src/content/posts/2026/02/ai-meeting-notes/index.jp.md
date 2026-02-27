@@ -42,7 +42,6 @@ tags: ["AI", "Tech", "ai-meeting-notes"]
 > **会議メモ:**
 > `[ここにメモや文字起こしテキストを貼り付け]`
 
-\
 
 ### 🥇 Pro Version（専門家型）
 

@@ -42,7 +42,6 @@ Utilisez cette version lorsque vous avez besoin d'une solution rapide pour un pr
 > **Rôle :** Tu es un Expert en Traitement de Données Excel.
 > **Demande :** Propose-moi des méthodes de nettoyage de données pour séparer des adresses et unifier des formats de date.
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 

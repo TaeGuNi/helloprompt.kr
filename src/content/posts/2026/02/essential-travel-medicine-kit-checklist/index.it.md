@@ -48,7 +48,6 @@ Usala quando hai fretta e ti serve solo una lista generale di farmaci da banco.
 > **Ruolo:** Sei un farmacista specializzato in medicina dei viaggi.
 > **Richiesta:** Sto per fare un viaggio all'estero. Preparami una checklist essenziale per un kit di pronto soccorso e farmaci d'emergenza, suddivisa per sintomi comuni (febbre, problemi intestinali, ferite).
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

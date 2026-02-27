@@ -42,7 +42,6 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Art Style"]
 > **角色:** 你是 `[AI绘画专家]`。
 > **请求:** 请为我写一段用于生成 `[复古粉色酒店大堂]` 的 Midjourney 英文提示词，要求必须是绝对对称的韦斯·安德森风格构图。
 
-\
 
 ### 🥇 Pro Version (专家版)
 

@@ -42,7 +42,6 @@ Idéal pour obtenir une structure globale en un clin d'œil.
 > **Rôle :** Tu es un éditeur senior dans une grande maison d'édition parisienne.
 > **Requête :** Structure un plan détaillé pour un livre sur `[Sujet du livre]`.
 
-\
 
 ### 🥇 Pro Version (Version Expert)
 

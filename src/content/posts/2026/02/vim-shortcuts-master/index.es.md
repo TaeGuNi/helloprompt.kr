@@ -43,7 +43,6 @@ Vim no es solo un simple editor de texto; es un **"idioma"** entre el desarrolla
 
 > **Tarea:** Explícame paso a paso y con total precisión la secuencia de teclas para abrir el archivo `[nombre_del_archivo]` con Vim desde la terminal, buscar la palabra `[palabra_a_buscar]`, cambiarla por `[nuevo_contenido]`, guardar los cambios y salir del editor de forma segura. Por favor, resalta cada pulsación de tecla utilizando acentos graves (`).
 
-\
 
 ### 🥇 Versión Pro (Maestro de la Productividad - Macros y Registros)
 

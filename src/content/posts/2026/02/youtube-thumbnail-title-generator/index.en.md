@@ -45,7 +45,6 @@ Use this when you need catchy titles in a hurry.
 > **Task:** Generate 10 high-CTR (Click-Through Rate) titles for my upcoming video.
 > **Topic:** `[Video Topic]`
 
-\
 
 ### 🥇 Pro Version
 

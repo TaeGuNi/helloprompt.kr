@@ -39,7 +39,6 @@ tags: ["AI", "Tech", "quantum-ai-hybrids-2026"]
 > **役割:** あなたは量子機械学習の専門家です。
 > **要求:** 開発者向けに「量子AIハイブリッド」の基本概念を解説し、TensorFlow Quantumを用いた簡単なコード実装例を提示してください。
 
-\
 
 ### 🥇 Pro Version (専門家型)
 

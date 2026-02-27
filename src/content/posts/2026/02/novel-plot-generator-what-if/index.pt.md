@@ -42,7 +42,6 @@ Use esta versão para um brainstorming rápido quando precisar apenas de uma fa�
 > **Papel:** Você é um romancista best-seller e consultor criativo especialista em enredos.
 > **Solicitação:** Minha história está travada. Sugira 3 desenvolvimentos surpreendentes começando com "E se..." para a seguinte situação: `[Descreva a situação atual da história]`.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

@@ -43,7 +43,6 @@ Use this when you need to quickly acknowledge receipt of an email before sending
 > 
 > **Task:** Analyze the content of the newly received email and write a polite and sophisticated business English reply to the sender, stating: "We have safely received your email, and our representative will provide a detailed response within 24 hours after reviewing the contents."
 
-\
 
 ### 🥇 Pro Version
 

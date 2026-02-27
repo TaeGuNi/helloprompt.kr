@@ -43,7 +43,6 @@ Utilize este prompt para recomendações aleatórias rápidas quando quiser supe
 >
 > **Tarefa (Task):** Escolha aleatoriamente uma das seguintes categorias: comida brasileira, italiana, japonesa, fast-food ou vegetariana. Em seguida, recomende 3 pratos populares e seguros dessa categoria que a maioria dos trabalhadores de escritório adoraria.
 
-\
 
 ### 🥇 Versão Profissional (Pro Version)
 

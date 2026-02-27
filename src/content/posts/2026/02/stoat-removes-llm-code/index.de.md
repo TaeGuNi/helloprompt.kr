@@ -47,7 +47,6 @@ Verwenden Sie diese Version, wenn Sie die Anzahl der Codezeilen (LOC) schnell re
 > **Aufgabe:** Überprüfe den folgenden Code und schreibe ihn so um, dass die Anzahl der Codezeilen auf ein absolutes Minimum reduziert wird, während die Funktionalität zu 100 % erhalten bleibt. Lösche unnötige Abstraktionen, redundante Logik und toten Code gnadenlos.
 > **Code:** `[Fügen Sie hier den zu refaktorierenden Code ein]`
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 
@@ -77,10 +76,9 @@ Verwenden Sie diese Version, um technische Schulden in Produktionscode sicher un
 >
 > - Sprache/Framework: `[z. B. React, TypeScript]`
 > - Quellcode:
->   ```
+>
 >   [Fügen Sie hier den zu optimierenden Spaghetti-Code ein]
->   ```
-
+>
 ---
 
 ## 💡 Anmerkung des Autors (Insight)

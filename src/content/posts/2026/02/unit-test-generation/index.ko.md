@@ -42,7 +42,6 @@ tags: ["테스트코드", "TDD", "Jest", "JUnit"]
 > **역할:** 너는 `[시니어 QA 엔지니어]`야.
 > **요청:** 아래 작성된 코드에 대한 단위 테스트(Unit Test)를 `[사용 중인 프레임워크, 예: Jest]`를 사용해서 작성해 줘. 엣지 케이스도 꼭 포함해 줘.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 
@@ -115,7 +114,6 @@ function calculateDiscount(price, discountRate) {
 }
 ```
 
-\
 
 ### ✅ After (결과)
 

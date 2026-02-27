@@ -42,7 +42,6 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Portrait", "Lighting"]
 > **役割:** あなたはプロのポートレート写真家です。
 > **リクエスト:** レンブラントライティング（Rembrandt lighting）を使用して、巨匠の肖像画のように深みと重厚感のある人物写真の画像生成プロンプトを作成してください。被写体は `[被写体の詳細]` です。
 
-\
 
 ### 🥇 Pro Version (専門家形)
 

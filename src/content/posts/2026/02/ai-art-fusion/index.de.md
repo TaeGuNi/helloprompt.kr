@@ -40,7 +40,6 @@ Für schnelle, beeindruckende Ergebnisse ohne komplexes Setup.
 > **Rolle:** Du bist ein Meister der digitalen Kunstfusion.
 > **Prompt:** Erstelle ein Ölgemälde einer koreanischen Frau im traditionellen Hanbok. Die Pose entspricht Shin Yun-boks "Porträt einer Schönheit", aber der Malstil, das Licht und die dicken Pinselstriche sind im reinen Impressionismus von Claude Monet gehalten.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

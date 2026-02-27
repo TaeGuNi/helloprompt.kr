@@ -52,7 +52,6 @@ Se você não tem tempo para digitar centenas de exemplos manualmente, utilize u
 > 2. Para cada pergunta, escreva 10 respostas (Output) altamente motivacionais, práticas e com tom de especialista.
 > 3. A saída deve ser obrigatoriamente no formato JSONL (`{"instruction": "...", "output": "..."}`).
 
-\
 
 ### 🥇 Versão Pro (Gerador de Código do Pipeline de Treinamento)
 

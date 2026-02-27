@@ -43,7 +43,6 @@ Utiliza este prompt cuando necesites filtrar y recopilar datos en tiempo real ba
 
 > **Tarea:** Redacta una **función QUERY** que extraiga únicamente las filas donde la `[Columna C (Departamento) sea 'Marketing' y la Columna D (Puntuación) sea 80 o superior]`, tomando como origen el rango `[A:E]` de la hoja `[Data]`, para mostrar los resultados en otra hoja. Después de escribir la fórmula, explica brevemente cómo funciona para que un principiante pueda entenderlo.
 
-\
 
 ### 🥇 Versión Pro (Automatización de Alertas con AppScript)
 

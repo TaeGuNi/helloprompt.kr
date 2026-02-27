@@ -48,7 +48,6 @@ Este é um prompt que gera um código de interação 1:1 entre agentes na sua fo
 >
 > **Objetivo:** Configure os dois agentes para completarem a tarefa de 'encontrar números primos (Prime Numbers) entre 1 e 100 e salvá-los em um arquivo txt'.
 
-\
 
 ### 🥇 Pro Version (Construindo uma Empresa de TI Virtual: PM, Dev, QA)
 

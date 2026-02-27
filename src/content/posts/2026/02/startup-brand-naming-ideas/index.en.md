@@ -42,7 +42,6 @@ Use this when you just need quick, raw inspiration to get the gears turning.
 > **Role:** You are a top-tier brand naming expert who has created innovative names like 'Uber', 'Airbnb', and 'Tinder'.
 > **Request:** I am launching a new `[Insert Service Type]`. Generate 10 catchy, meaningful, and easy-to-pronounce brand name ideas.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

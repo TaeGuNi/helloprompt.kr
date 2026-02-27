@@ -53,7 +53,6 @@ Use this when you have no idea how to structure a specific Workflow (e.g., user 
 > 
 > **Constraints:** Explain this based on the Bubble editor's UI, specifying exactly which menus (Actions) I need to click.
 
-\
 
 ### 🥇 Pro Version (Full Service DB & Architecture Design)
 

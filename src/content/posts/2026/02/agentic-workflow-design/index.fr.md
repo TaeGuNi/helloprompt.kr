@@ -43,7 +43,6 @@ Utilisez cette version lorsque vous avez besoin de saisir rapidement les points 
 > **Rôle :** Tu es un `[Chef de projet IT]`.
 > **Tâche :** Lis la transcription de réunion suivante et résume les décisions principales ainsi que les tâches à accomplir.
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 

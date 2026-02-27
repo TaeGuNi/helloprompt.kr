@@ -52,7 +52,6 @@ A partir de ahora, simplemente indica en lenguaje natural: "Levanta un servidor 
 >
 > **Restricciones:** Define el Deployment y el Service en un solo archivo, separándolos con `---`.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

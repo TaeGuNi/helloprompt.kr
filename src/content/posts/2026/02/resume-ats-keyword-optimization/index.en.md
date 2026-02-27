@@ -42,7 +42,6 @@ Use this when you need a quick, high-level keyword injection.
 > **Role:** You are an expert ATS (Applicant Tracking System) algorithm analyst and executive resume writer.
 > **Request:** Seamlessly integrate the most critical keywords from the provided Job Description into my resume to ensure it passes automated screening.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

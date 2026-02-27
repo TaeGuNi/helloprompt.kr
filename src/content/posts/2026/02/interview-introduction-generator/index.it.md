@@ -55,7 +55,6 @@ Usala quando vuoi comunicare la tua passione per il ruolo e il tuo potenziale co
 > 2. Evita espressioni astratte (es. duro lavoro, diligenza) e sviluppa la narrazione attraverso episodi concreti.
 > 3. Scrivi con frasi brevi e in uno stile colloquiale, in modo che la lettura ad alta voce risulti naturale.
 
-\
 
 ### 🥇 Pro Version (Per profili Senior / Cambio lavoro)
 

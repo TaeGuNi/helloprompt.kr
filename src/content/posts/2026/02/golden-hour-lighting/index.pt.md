@@ -42,7 +42,6 @@ Use esta versão quando precisar de resultados rápidos e não quiser gastar tem
 > **Papel:** Você é um fotógrafo profissional premiado.
 > **Solicitação:** Gere uma imagem de `[Assunto/Tema]`. Aplique a iluminação de "Golden Hour" para garantir que a foto tenha uma atmosfera quente, aconchegante e emocionante.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

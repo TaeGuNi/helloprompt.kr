@@ -42,7 +42,6 @@ Utilisez cette version pour obtenir rapidement un résumé et les étapes de cor
 > **Rôle :** Tu es un `[Expert en Cybersécurité]`.
 > **Tâche :** Résume de manière claire la vulnérabilité `[CVE-2026-20841]` et donne-moi les étapes immédiates pour protéger mon système.
 
-\
 
 ### 🥇 Version Expert (Pro Version)
 

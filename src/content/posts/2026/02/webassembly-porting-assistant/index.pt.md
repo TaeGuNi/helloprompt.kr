@@ -48,7 +48,6 @@ Use isto quando precisar converter e testar rapidamente uma função computacion
 > **Código:**
 > `[Cole aqui o código C++/Go/Rust que deseja converter]`
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 
@@ -70,9 +69,9 @@ Use isto quando precisar de um resultado de nível de produção perfeito, que v
 >
 > **Código de Entrada:**
 > 
-> ```plaintext
+>
 > [Cole o código existente aqui]
-> ```
+>
 >
 > **Constraints (Restrições):**
 > 

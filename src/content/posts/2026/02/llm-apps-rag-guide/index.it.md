@@ -43,7 +43,6 @@ Usa questo prompt se hai solo bisogno di un'idea generale su quali strumenti uti
 > **Ruolo:** Sei un Senior AI Engineer.
 > **Azione:** Voglio costruire un'app LLM che `[inserisci cosa deve fare l'app, es: risponda a domande sui manuali PDF aziendali]`. Suggeriscimi uno stack tecnologico semplice (Framework, Database Vettoriale, UI) e spiegami brevemente come farli comunicare tramite RAG.
 
-\
 
 ### 🥇 Versione Pro (Per sistemi in produzione)
 

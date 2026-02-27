@@ -38,7 +38,6 @@ La adopción de tecnologías generativas ha aumentado exponencialmente. Lo que a
 > **El Problema:** Generación instantánea de imágenes, videos y voces sin consentimiento.
 > **El Impacto:** Robo de identidad, fraude financiero, desinformación política y daño psicológico severo a gran escala.
 
-\
 
 ### 🥇 El marco regulatorio necesario (Perspectiva experta)
 

@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt, wenn Sie schnelle und unkomplizierte Ergebnisse ben
 > **Rolle:** Du bist ein erfahrener Dessert-Gourmet und Forscher für gesunde Ernährung. Du hast einen anspruchsvollen Gaumen und isst niemals etwas, das fad schmeckt.
 > **Anfrage:** Es ist 15 Uhr und der Heißhunger meldet sich. Generiere mir eine Vielzahl an gesunden Snack-Ideen, die nicht dick machen, aber effektiv Stress abbauen.
 
-\
 
 ### 🥇 Pro Version (Expertenmodus)
 

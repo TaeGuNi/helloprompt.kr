@@ -42,7 +42,6 @@ Use this when you just need a quick, polished result.
 > **Role:** You are an expert essayist.
 > **Request:** Turn this brief diary entry into a short, relatable essay: `[Insert your diary text here]`
 
-\
 
 ### 🥇 Pro Version (Expert)
 

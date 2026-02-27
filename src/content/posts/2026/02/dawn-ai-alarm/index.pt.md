@@ -42,7 +42,6 @@ Use esta versão para gerar um script rápido, com foco exclusivo em motivação
 > **Função:** Você é um coach de produtividade rigoroso e altamente motivador.
 > **Tarefa:** Escreva um script de alarme matinal de 30 segundos para me acordar. Meu principal objetivo atual é `[Seu Objetivo, ex: ser promovido a Gerente Sênior neste semestre]`. Seja direto, inspirador e me faça querer pular da cama. Não use saudações longas, vá direto ao ponto e não me deixe voltar a dormir.
 
-\
 
 ### 🥇 Versão Pro (Alta Personalização)
 

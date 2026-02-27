@@ -42,7 +42,6 @@ Idéal pour des tests rapides ou des concepts globaux sans se soucier des régla
 > **Rôle :** Tu es un photographe de paysages aériens renommé.
 > **Demande :** Génère une image montrant le terrain global et la disposition complexe d'une ville futuriste, vue de très haut depuis le ciel. Utilise une perspective en plongée totale.
 
-\
 
 ### 🥇 Pro Version (Version Experte)
 

@@ -42,7 +42,6 @@ Use esta versão quando precisar de ideias rápidas sem muitas restrições.
 > **Role (Papel):** Você é um consultor de YouTube e especialista em branding que já ajudou canais a alcançarem 1 milhão de inscritos.
 > **Task (Tarefa):** Crie nomes criativos e atraentes para o meu novo canal sobre `[Seu Tópico]`. O nome deve ser fácil de lembrar e otimizado para o algoritmo do YouTube.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

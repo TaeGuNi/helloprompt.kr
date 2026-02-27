@@ -50,7 +50,6 @@ Idéale pour obtenir une analyse rapide d'un problème logique ou d'un bug simpl
 > **Rôle :** Tu es un `[Expert Analyste / Ingénieur Senior]`.
 > **Tâche :** Résous ce `[Problème]`. Avant de donner la solution finale, tu dois obligatoirement détailler ton raisonnement étape par étape en utilisant ta capacité de pensée profonde.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

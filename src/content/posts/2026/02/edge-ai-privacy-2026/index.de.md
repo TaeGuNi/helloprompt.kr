@@ -39,7 +39,6 @@ Für eine schnelle Ersteinschätzung Ihrer Architektur-Idee.
 > **Rolle:** Du bist ein `[erfahrener KI-Systemarchitekt]`.
 > **Aufgabe:** Analysiere meine App-Idee `[App-Idee]` und nenne 3 konkrete Gründe für den Einsatz von Edge AI sowie 2 technische Herausforderungen, die ich beachten muss.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

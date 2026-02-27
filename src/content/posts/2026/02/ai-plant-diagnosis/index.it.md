@@ -46,7 +46,6 @@ Utilizza questo prompt quando vai di fretta e hai solo bisogno di scoprire la ca
 > **Ruolo:** Sei un esperto di piante.
 > **Richiesta:** Le punte delle foglie di questa Monstera nella foto stanno diventando marroni e secche. Manca l'acqua o ne ho data troppa? È una malattia? Dimmi brevemente la causa e come rimediare.
 
-\
 
 ### 🥇 Versione Pro (Soluzione di Rianimazione Avanzata)
 

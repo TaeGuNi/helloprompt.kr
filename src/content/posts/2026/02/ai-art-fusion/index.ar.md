@@ -40,7 +40,6 @@ image: "/images/2026/02/13/monet-beauty.jpg"
 > **الدور:** أنت فنان رقمي خبير.
 > **الموجه:** A portrait of a beautiful Korean woman in traditional Hanbok, originally styled like Shin Yun-bok's 'Portrait of a Beauty', but painted completely in the impressionist style of Claude Monet, with thick brushstrokes and soft, glowing lighting --ar 3:4
 
-\
 
 ### 🥇 النسخة الاحترافية (Pro Version)
 
@@ -121,6 +120,4 @@ _(النتيجة: تتحول تنورة الهانبوك النيلية الها
 
 ابدأ الآن في ابتكار تحفتك الفنية الخاصة، واجعل الذكاء الاصطناعي فرشاتك السحرية! 🎨
 
-```
 
-```

@@ -42,7 +42,6 @@ Nutzen Sie diese Variante, wenn Sie sofort loslegen möchten und nur ein grobes 
 > **Rolle:** Du bist ein Elite-Produktivitätscoach und Experte für Zeitmanagement.
 > **Aufgabe:** Ich habe gleich 2 ungestörte Stunden, bevor der Arbeitstag offiziell beginnt. Meine absolute Hauptaufgabe heute ist `[Hauptaufgabe einfügen]`. Erstelle mir einen hochfokussierten Schritt-für-Schritt-Plan, wie ich diese Aufgabe in den nächsten 2 Stunden bestmöglich und effizient abschließen kann.
 
-\
 
 ### 🥇 Pro Version (Für maximale Effizienz & Deep Work)
 

@@ -42,7 +42,6 @@ tags: [Linux, Cron, Automation, Server, AI]
 > **역할:** 너는 `[DevOps 엔지니어]`야.
 > **요청:** `[매월 마지막 주 금요일 밤 11시]`를 Linux Crontab 표현식으로 만들어줘. 언제 실행되는지 설명도 덧붙여줘.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

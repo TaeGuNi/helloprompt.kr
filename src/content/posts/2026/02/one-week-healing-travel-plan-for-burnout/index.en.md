@@ -43,7 +43,6 @@ Perfect for when you just need a quick, overarching concept and a gentle nudge i
 >
 > **Task:** I want to avoid crowded tourist spots. Please create a one-week 'Slow Travel' itinerary focused entirely on true relaxation and healing.
 
-\
 
 ### 🥇 Pro Version
 

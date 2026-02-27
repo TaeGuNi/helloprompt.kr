@@ -42,7 +42,6 @@ Idéal pour une mise à jour rapide d'un composant simple.
 > **Rôle :** Tu es un développeur Front-End expert des standards du Web.
 > **Tâche :** Mets à jour ce `[bout de code]` pour utiliser les standards de l'Interop 2026 (CSS State Queries, View Transitions, etc.) en supprimant les anciens polyfills.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

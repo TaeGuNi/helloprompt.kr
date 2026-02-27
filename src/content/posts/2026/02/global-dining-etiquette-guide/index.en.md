@@ -48,7 +48,6 @@ Use this for a quick, high-level overview before a meal.
 > **Role:** You are a 'Global Etiquette Consultant' specializing in international food culture and dining manners.
 > **Request:** I am dining in `[Country Name]`. Please provide a quick rundown of the most critical table manners and common faux pas I need to avoid.
 
-\
 
 ### 🥇 Pro Version
 

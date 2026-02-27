@@ -44,7 +44,6 @@ Ideal para quando você quer apenas um choque rápido de realidade em um pensame
 > **Papel:** Assuma a persona e a linha de pensamento de `[Filósofo, ex: Sócrates]`.
 > **Solicitação:** Questione implacavelmente minha afirmação sobre `[Tópico]` usando o Método Socrático, forçando-me a refletir sobre minhas contradições.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

@@ -44,7 +44,6 @@ tags: ["디자인시스템", "Figma", "CSS", "UI-UX", "협업"]
 > `[Primary(파랑)]`, `[Secondary(회색)]`, `[Error(빨강)]` 색상을 각각 100부터 900까지 9단계로 나누고 싶어.
 > 이 색상들을 코드에 바로 적용할 수 있도록, 직관적이고 시멘틱(Semantic)한 이름(예: `text-primary`, `bg-surface-default`)과 함께 각 단계별 헥스(Hex) 코드를 표로 정리해서 추천해 줘.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

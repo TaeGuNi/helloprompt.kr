@@ -42,7 +42,6 @@ Use this when you need to immediately understand complex, undocumented legacy co
 > **Role:** You are a `[Senior Software Engineer]`.
 > **Task:** Analyze the following `[Code]`. Explain what role this code plays in the overall system and how it operates internally, using step-by-step analogies that even a junior developer could understand. Additionally, point out any potential bugs or performance bottlenecks.
 
-\
 
 ### 🥇 Pro Version (UI Prototyping with Artifacts)
 

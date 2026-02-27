@@ -47,7 +47,6 @@ Utilisez cette version lorsque vous souhaitez un scan rapide pour détecter uniq
 [Collez votre code ici]
 ```
 
-\
 
 ### 🥇 Version Pro (Expert)
 
@@ -63,9 +62,9 @@ Recommandée lorsque vous souhaitez hisser la qualité de votre code au niveau "
 >
 > **Code (Input) :**
 >
-> ```plaintext
+>
 > [Collez le code à examiner ici]
-> ```
+>
 >
 > **Tâche (Task) :**
 > Révise mon code de manière stricte selon les 4 critères suivants, et fournis-moi le code complet amélioré.

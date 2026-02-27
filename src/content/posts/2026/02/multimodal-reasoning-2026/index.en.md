@@ -39,7 +39,6 @@ Use this for a quick, high-level analysis of a single multimedia asset.
 > **Role:** You are an expert `[UX Researcher]`.
 > **Task:** Analyze this `[uploaded video/image]` and tell me exactly what the user is struggling with.
 
-\
 
 ### 🥇 Pro Version
 

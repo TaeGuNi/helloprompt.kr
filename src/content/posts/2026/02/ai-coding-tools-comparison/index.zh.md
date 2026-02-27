@@ -42,7 +42,6 @@ tags: ["Cursor", "Copilot", "Windsurf", "AI코딩", "IDE"]
 > **角色：** 你是一位对技术趋势极其敏锐的资深 DevOps 工程师。
 > **请求：** 请从“代码库感知能力 (Codebase Awareness)”和“智能体自主性 (Agent Autonomy)”这两个维度，简明扼要地对比 GitHub Copilot、Cursor 和 Windsurf 的核心差异。
 
-\
 
 ### 🥇 Pro Version (专业版)
 

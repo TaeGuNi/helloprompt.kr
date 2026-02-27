@@ -44,7 +44,6 @@ Use this for a quick, interactive Q&A session on core concepts.
 > **Role:** You are my dedicated 1:1 tutor teaching `[Topic]`.
 > **Task:** Keep asking me questions until I fully understand `[Topic]`. Do not give me the answer outright. If I answer incorrectly, provide only a tiny hint so I can figure it out myself. Once I answer correctly, move on to a more advanced question.
 
-\
 
 ### 🥇 Pro Version
 

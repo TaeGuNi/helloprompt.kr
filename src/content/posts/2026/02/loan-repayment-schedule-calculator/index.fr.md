@@ -42,7 +42,6 @@ Idéal si vous avez besoin d'une formule immédiate sans détails complexes.
 > **Rôle :** Tu es un `[Expert en Modélisation Financière sur Excel]`.
 > **Requête :** Crée-moi un tableau d'amortissement de prêt sur Excel pour un emprunt avec des échéances constantes. Donne-moi les formules exactes.
 
-\
 
 ### 🥇 Pro Version (Version Experte)
 

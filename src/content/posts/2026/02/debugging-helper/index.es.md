@@ -42,7 +42,6 @@ Pasamos, en promedio, el 80% de nuestro tiempo de desarrollo depurando código. 
 > **Rol:** Eres un Ingeniero de Software Senior y un experto "Cazador de Bugs".
 > **Solicitud:** Analiza el siguiente mensaje de error `[PEGA EL ERROR]` en este código `[PEGA EL CÓDIGO]`, encuentra la causa exacta y dame la solución corregida.
 
-\
 
 ### 🥇 Versión Pro (Análisis Experto)
 

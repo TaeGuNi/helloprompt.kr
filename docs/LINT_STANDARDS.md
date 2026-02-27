@@ -77,4 +77,3 @@ pnpm lint
 
 # 3. 특정 파일만 포맷팅 (Prettier)
 npx prettier --write src/pages/posts/my-new-post.md
-```

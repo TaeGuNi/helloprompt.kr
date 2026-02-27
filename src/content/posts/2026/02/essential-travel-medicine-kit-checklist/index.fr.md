@@ -48,7 +48,6 @@ Utilisez ce prompt si vous êtes pressé et souhaitez juste une liste générale
 > **Rôle :** Tu es un médecin et pharmacien spécialisé en médecine des voyages.
 > **Requête :** Fais-moi une liste complète des médicaments d'urgence et du matériel de premiers secours à emporter pour un voyage à l'étranger. Classe-les par symptômes (digestion, douleur, plaies, etc.).
 
-\
 
 ### 🥇 Version Pro (Expert)
 

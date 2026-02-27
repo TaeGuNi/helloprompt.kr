@@ -43,7 +43,6 @@ Use this when you need a quick cure for decision paralysis.
 >
 > **Task:** Randomly select one category from Korean, Chinese, Japanese, Western, or Street Food. Then, recommend 3 popular, universally liked dishes within that category for office workers.
 
-\
 
 ### 🥇 Pro Version
 

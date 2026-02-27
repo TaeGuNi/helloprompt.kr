@@ -45,7 +45,6 @@ Ideal für kleine Verspätungen oder einfache Versäumnisse im Alltag.
 > **Situation:** Ich war `[10 Minuten zu spät zum Meeting]`.
 > **Anfrage:** Schreibe eine höfliche Entschuldigungsnachricht an meinen Vorgesetzten. Verwende keine Ausreden und füge kurz hinzu, welche konkreten Schritte ich unternehmen werde, um dies künftig zu vermeiden.
 
-\
 
 ### 🥇 Pro Version (Für ernste Vorfälle / Reklamationen)
 

@@ -42,7 +42,6 @@ Use esta versão quando precisar apenas de uma resposta rápida e direta.
 > **Papel:** Você é um Antropólogo Cultural e um Instrutor Profissional de Etiqueta Global.
 > **Tarefa:** Crie um guia sobre como não ser um turista rude no `[País de Destino]`, incluindo regras de gorjeta e gestos a evitar.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

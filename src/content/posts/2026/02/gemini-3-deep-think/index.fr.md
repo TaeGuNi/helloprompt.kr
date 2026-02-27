@@ -43,7 +43,6 @@ Idéal pour analyser en profondeur les failles logiques d'un composant complexe.
 > **Tâche :** Réfléchis profondément (Pondering) pour analyser les conditions de concurrence (Race Conditions) subtiles et les fuites de mémoire potentielles dans le code ci-dessous, et fournis le code complet avec une solution fondamentale.
 > **Code :** `[Extrait du code suspect]`
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

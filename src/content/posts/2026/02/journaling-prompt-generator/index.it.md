@@ -44,7 +44,6 @@ Usalo quando vuoi riordinare le emozioni della giornata con leggerezza, senza co
 > **Ruolo:** Sei un `[amico affettuoso e premuroso]`.
 > **Richiesta:** Fammi 3 domande di riflessione che mi aiutino a ripercorrere con calma la giornata di oggi e a fare ordine nelle mie emozioni.
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

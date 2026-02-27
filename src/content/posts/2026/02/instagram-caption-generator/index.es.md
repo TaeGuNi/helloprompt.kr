@@ -42,7 +42,6 @@ Ideal para cuando tienes prisa y solo necesitas inspiración rápida.
 > **Rol:** Eres un experto en Redes Sociales y un Influencer de Instagram con alta tasa de engagement.
 > **Solicitud:** Escribe un pie de foto atractivo y persuasivo para una publicación sobre `[Describe tu foto]`. Incluye emojis y 10 hashtags relevantes al final.
 
-\
 
 ### 🥇 Pro Version (Versión Profesional)
 

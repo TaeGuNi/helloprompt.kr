@@ -38,7 +38,6 @@ En 2026, el panorama de la tecnología _wearable_ (vestible) ha evolucionado dr�
 > **Rol:** Eres un `[Analista de Tecnología]`.
 > **Tarea:** Resume el éxito reciente de las `[Gafas Inteligentes de Meta]` y explica de forma concisa por qué están superando en ventas y adopción a los visores tradicionales de MR/VR.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

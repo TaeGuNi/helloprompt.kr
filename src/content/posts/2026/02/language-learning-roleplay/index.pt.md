@@ -42,7 +42,6 @@ Ideal para iniciar uma conversa rápida sem muitas configurações.
 > **Papel:** Você é um `[Atendente de um café em Nova York]`.
 > **Tarefa:** Inicie uma conversa comigo. Eu sou um `[Turista com inglês básico]`. Vamos conversar, e por favor, corrija meus erros.
 
-\
 
 ### 🥇 Versão Pro (Expert Version)
 
@@ -106,7 +105,6 @@ Quero praticar inglês. Vamos fingir que estamos numa cafeteria. Você é o aten
 
 _(A IA frequentemente responde com textos enormes, apresentando todas as opções do cardápio e preços de uma só vez, tornando impossível uma conversa fluida para um iniciante)._
 
-\
 
 ### ✅ Depois (Com o Prompt Pro)
 

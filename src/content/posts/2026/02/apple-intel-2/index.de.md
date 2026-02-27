@@ -48,7 +48,6 @@ Nutzen Sie diesen Prompt, wenn Sie Bildschirminhalte oder aktuelle Benachrichtig
 > **Rolle:** Du bist mein persönlicher Assistent.
 > **Aufgabe:** Fasse die wichtigsten Punkte des aktuellen Bildschirminhalts in genau drei Sätzen zusammen.
 
-\
 
 ### 🥇 Pro Version (Für Experten)
 

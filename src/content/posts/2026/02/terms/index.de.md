@@ -39,7 +39,6 @@ Die einminütige Zusammenfassung für alle, die es eilig haben. Bitte behalten S
 > **Artikel 2 (Urheberrecht):** Das Urheberrecht für alle Prompts und Inhalte auf dieser Website liegt bei Hello Prompt.
 > **Artikel 3 (Haftungsbeschränkung):** Die Informationen auf der Website dienen nur als Referenz. Die Website übernimmt keine rechtliche Haftung für die Ergebnisse der KI-Ausführung.
 
-\
 
 ### 🥇 Pro Version (Detaillierte Bedingungen)
 

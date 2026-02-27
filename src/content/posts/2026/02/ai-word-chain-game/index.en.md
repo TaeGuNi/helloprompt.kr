@@ -43,7 +43,6 @@ Use this simple prompt when you want to start a match quickly.
 
 > **Task:** Let's play a word chain game. You start first. However, please accept standard wordplay rules.
 
-\
 
 ### 🥇 Pro Version
 

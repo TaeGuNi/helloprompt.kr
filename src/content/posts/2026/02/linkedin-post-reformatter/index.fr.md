@@ -43,7 +43,6 @@ Idéal si vous êtes pressé et que vous souhaitez juste un reformatage rapide e
 > **Tâche :** Rédige un post LinkedIn engageant à partir des notes suivantes. Rends-le lisible, ajoute des emojis et termine par une question ouverte.
 > **Notes :** `[Insérez vos notes ici]`
 
-\
 
 ### 🥇 Version Pro
 

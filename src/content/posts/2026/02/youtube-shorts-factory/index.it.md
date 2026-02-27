@@ -43,7 +43,6 @@ Quando hai zero idee e hai bisogno di un brainstorming fulmineo.
 >
 > **Richiesta:** Dammi 5 idee per Shorts accattivanti e fresche sul tema `[Trucchi per Vivere da Soli]`. Le idee devono essere impossibili da ignorare. Includi per ciascuna un Titolo magnetico e la Prima Frase (Hook).
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

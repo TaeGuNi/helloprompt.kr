@@ -42,7 +42,6 @@ Use this for a quick, hassle-free estimate when you are short on time.
 > **Role:** You are an expert sports nutritionist and dietitian.
 > **Request:** I just ate a standard serving of spicy stir-fried pork with rice and a small rolled omelet. Give me a rough estimate of the calories and the carb-protein-fat breakdown.
 
-\
 
 ### 🥇 Pro Version (Expert Planner)
 

@@ -39,7 +39,6 @@ Use this when you need a quick answer from a massive document or a single large 
 > **Role:** You are an elite data analyst and systems architect.
 > **Task:** Analyze the attached `[MASSIVE_DOCUMENT_OR_CODEBASE]` and extract the core logic regarding `[SPECIFIC_ISSUE]`.
 
-\
 
 ### 🥇 Pro Version
 

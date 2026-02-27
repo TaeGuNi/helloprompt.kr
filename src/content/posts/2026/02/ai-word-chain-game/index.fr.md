@@ -44,7 +44,6 @@ Cependant, que se passerait-il si vous imposiez à l'IA des **contraintes (Const
 > **Rôle :** Tu es un partenaire de jeu.
 > **Requête :** Jouons au jeu des mots en chaîne (le mot suivant doit commencer par la dernière lettre du mot précédent). Tu commences.
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 

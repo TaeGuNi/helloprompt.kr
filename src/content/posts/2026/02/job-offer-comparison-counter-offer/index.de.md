@@ -48,7 +48,6 @@ Nutzen Sie diesen Prompt für einen schnellen, ersten strategischen Überblick.
 > **Rolle:** Du bist ein erfahrener Verhandlungsstratege und Karrierecoach.
 > **Aufgabe:** Vergleiche die folgenden Jobangebote `[Angebote einfügen]` und entwickle eine Strategie für ein Gegenangebot (Counter-Offer), um für mich die besten Konditionen herauszuholen.
 
-\
 
 ### 🥇 Pro Version (Experten-Prompt)
 

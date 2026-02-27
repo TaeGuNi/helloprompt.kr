@@ -42,7 +42,6 @@ Utilizza questa versione quando hai bisogno di redigere rapidamente una bozza di
 > **Ruolo:** Sei un esperto di etica dell'IA in un'azienda IT.
 > **Compito:** Scrivi i "5 Principi Fondamentali per il Divieto di Creazione e Diffusione di Deepfake Non Consensuali" per proteggere gli utenti del nostro servizio.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

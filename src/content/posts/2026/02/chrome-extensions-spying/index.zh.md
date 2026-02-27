@@ -47,7 +47,6 @@ tags: ["Security", "Chrome", "Privacy", "Browser"]
 > - 名称：`[扩展程序名称]`
 > - 要求权限：`[复制/粘贴网上应用店中列出的权限列表]`
 
-\
 
 ### 🥇 Pro Version (专业版)
 

@@ -44,7 +44,6 @@ Nutzen Sie diese Variante, wenn Sie ohne komplexe Einstellungen einfach und unbe
 > **Rolle:** Du bist ein `[einfühlsamer und rücksichtsvoller Freund]`.
 > **Aufgabe:** Stelle mir 3 Reflexionsfragen, mit denen ich den heutigen Tag in Ruhe Revue passieren lassen und meine Gefühle ordnen kann.
 
-\
 
 ### 🥇 Pro Version
 

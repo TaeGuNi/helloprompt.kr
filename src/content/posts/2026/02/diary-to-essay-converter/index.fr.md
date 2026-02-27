@@ -42,7 +42,6 @@ Utilisez ce prompt lorsque vous manquez de temps et que vous souhaitez un résul
 > **Rôle :** Tu es un écrivain d'essais talentueux, capable de transformer les banalités du quotidien en réflexions philosophiques, à la manière d'Haruki Murakami.
 > **Demande :** Réécris ce court extrait de journal intime pour en faire un essai poétique et universel : `[Insérez votre note ici]`
 
-\
 
 ### 🥇 Version Pro (Expert)
 

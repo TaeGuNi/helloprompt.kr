@@ -42,7 +42,6 @@ Verwenden Sie dies, wenn Sie schnelle und unkomplizierte Ergebnisse benötigen.
 > **Rolle:** Du bist ein globaler Personalberater und Top-Experte für LinkedIn-SEO.
 > **Anfrage:** Optimiere mein LinkedIn-Profil (Überschrift und Info-Bereich) für Suchmaschinen, um meine Jobangebote um das 10-fache zu steigern. Meine aktuelle Rolle ist `[Ihre Rolle]` und meine Kernkompetenzen sind `[Ihre Kompetenzen]`.
 
-\
 
 ### 🥇 Pro Version (Experten-Prompt)
 

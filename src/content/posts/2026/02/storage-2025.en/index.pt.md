@@ -40,7 +40,6 @@ Utilize quando precisar de um resumo rápido de estatísticas de HDs específico
 > **Função:** Você é um Engenheiro de Infraestrutura de Data Center Sênior e especialista em armazenamento.
 > **Tarefa:** Com base nas estatísticas de taxa de falha de drives da Backblaze de 2025, recomende dois modelos de HDD de alta capacidade (20TB ou mais) ideais para um Data Lake de grande escala focado em treinamento de IA, explicando o motivo das suas escolhas.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

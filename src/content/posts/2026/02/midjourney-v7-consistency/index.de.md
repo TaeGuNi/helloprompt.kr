@@ -38,7 +38,6 @@ Nutze diesen Prompt, wenn du deinen Charakter einfach in eine andere Umgebung se
 
 > Ein kinoreifes Porträt der Person auf einer belebten Cyberpunk-Straße bei Nacht, Neonlichter, 85mm Objektiv, hyperrealistisch --cref [Link zum Charakterbild] --cw 100 --ar 16:9
 
-\
 
 ### 🥇 Pro Version (Für Storyteller & Designer)
 

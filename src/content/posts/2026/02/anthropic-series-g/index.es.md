@@ -43,7 +43,6 @@ Anthropic acaba de cerrar su ronda de financiación de Serie G, alcanzando una v
 > **Rol:** Eres un analista experto en capital riesgo de Silicon Valley.
 > **Tarea:** Analiza la reciente ronda de Serie G de Anthropic (valoración de $30 mil millones). Explica brevemente por qué es importante para el mercado de la IA y cómo afecta a la competencia directa.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

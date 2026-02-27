@@ -42,7 +42,6 @@ Nutzen Sie diese Variante, wenn Sie unter extremem Zeitdruck stehen und sofort e
 > **Rolle:** Du bist ein erfahrener Präsentationsexperte und Strategieberater.
 > **Aufgabe:** Erstelle ein 10-Folien-Konzept für eine Präsentation über `[Thema]`. Das Zielpublikum ist `[Zielgruppe]`. Gib mir für jede Folie den Titel und drei Hauptpunkte in Stichworten.
 
-\
 
 ### 🥇 Pro Version (Für maximale Überzeugungskraft)
 

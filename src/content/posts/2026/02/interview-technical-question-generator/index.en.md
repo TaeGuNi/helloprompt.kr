@@ -42,7 +42,6 @@ Use this when you need quick results for a general overview.
 > **Role:** You are a veteran hiring manager with 20 years of experience in the `[Job Title]` field.
 > **Task:** Extract expected technical interview questions and model answers perfectly tailored for a `[Job Title]` with `[N]` years of experience.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

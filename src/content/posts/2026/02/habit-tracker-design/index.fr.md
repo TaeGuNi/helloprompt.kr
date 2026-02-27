@@ -42,7 +42,6 @@ Utilisez cette version pour obtenir un plan d'action rapide et direct.
 > **Rôle :** Tu es un psychologue comportementaliste et un expert en création d'habitudes.
 > **Requête :** En t'appuyant sur la théorie "Atomic Habits", crée un système de formation d'habitudes basé sur les neurosciences pour m'aider à `[votre objectif]`, sans que j'aie à compter sur ma seule volonté.
 
-\
 
 ### 🥇 Pro Version (Version Expert)
 

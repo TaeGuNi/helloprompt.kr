@@ -43,7 +43,6 @@ Use this when you need a quick, beautiful result without complex parameters.
 >
 > **Request:** Generate an image of a dark forest at night featuring bioluminescent plants and glowing mushrooms that emit a soft, magical light.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

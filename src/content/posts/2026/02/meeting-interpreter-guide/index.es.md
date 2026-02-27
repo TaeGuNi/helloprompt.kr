@@ -47,7 +47,6 @@ Utiliza este prompt cuando tengas la grabación de la reunión o la transcripci�
 2. Como responsable local, organiza mis 'Action Items' (tareas pendientes) en orden de prioridad para que pueda empezar a trabajar en ellas hoy mismo.
 3. Si hubo alguna parte de la discusión donde los matices fueron ambiguos (por ejemplo, un rechazo indirecto o una aprobación condicional), interprétala claramente.
 
-\
 
 ### 🥇 Versión Pro (Intérprete en tiempo real y Asistente de respuestas)
 

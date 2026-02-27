@@ -45,7 +45,6 @@ Sin embargo, usar Three.js puro requiere fórmulas matemáticas complejas, matri
 >
 > **Solicitud:** Usando React Three Fiber (R3F), muestra un cubo en el centro de la pantalla. Crea un componente interactivo donde el cubo aumente su tamaño a 1.2x al pasar el ratón (Hover), cambie a un color aleatorio al hacer clic, y gire sobre sí mismo constantemente usando el hook `useFrame`.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

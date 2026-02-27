@@ -43,12 +43,9 @@ Use this for a quick check when you suspect an accessibility issue in a specific
 > **Task:** Review the following HTML code for potential accessibility issues during screen reader or keyboard navigation, and refactor it semantically.
 > **Code:**
 >
-> ```html
+>
 > [Paste your code here]
-> ```
-
-\
-
+>
 ### 🥇 Pro Version
 
 Use this to inspect highly complex UI components like modals, dropdowns, and tab interactions.
@@ -70,9 +67,9 @@ Use this to inspect highly complex UI components like modals, dropdowns, and tab
 >
 > **Code:**
 >
-> ```plaintext
+>
 > [Paste your component code here]
-> ```
+>
 >
 > **Constraints:**
 >

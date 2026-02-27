@@ -42,7 +42,6 @@ Use this when you need a quick, straightforward guide.
 > **Role:** You are a `[Data Visualization Expert]`.
 > **Request:** I have a dense Excel table with monthly sales data. Explain how to use Sparklines and Conditional Formatting to turn it into a visual dashboard that my boss will understand immediately.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

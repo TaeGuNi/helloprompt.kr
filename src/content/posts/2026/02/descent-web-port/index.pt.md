@@ -41,7 +41,6 @@ Ideal para obter uma visão geral e rápida do repositório.
 > **Função:** Você é um Engenheiro de Software Sênior especializado em WebAssembly e WebGL.
 > **Tarefa:** Analise o código-fonte do port do jogo `[Descent]` para a web. Resuma a arquitetura principal, focando em como a ponte entre o código original (compilado para WASM) e a renderização em Three.js foi implementada.
 
-\
 
 ### 🥇 Pro Version (Versão Profissional)
 

@@ -42,7 +42,6 @@ On dit souvent que 80 % du temps d'un développeur est consacré au débogage. E
 > **Rôle :** Tu es un ingénieur logiciel Senior expert en débogage.
 > **Requête :** Analyse ce message d'erreur `[Insérez l'erreur]` et ce code `[Insérez le code]`, puis donne-moi directement le code corrigé.
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 

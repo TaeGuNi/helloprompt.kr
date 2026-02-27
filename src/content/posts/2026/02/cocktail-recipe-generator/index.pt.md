@@ -43,7 +43,6 @@ Use quando precisar de uma bebida rápida e sem complicações.
 > **Context (Situação):** Na minha geladeira tenho soju, Sprite e suco de laranja.
 > **Task (Tarefa):** Usando esses ingredientes, crie uma receita de coquetel caseiro leve e doce. (Exemplo: use um copo de shot como medida)
 
-\
 
 ### 🥇 Pro Version (Versão Profissional)
 

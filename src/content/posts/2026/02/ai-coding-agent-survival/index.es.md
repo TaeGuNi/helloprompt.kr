@@ -53,7 +53,6 @@ Cuando delegues tareas de gran envergadura a un agente, necesitas directrices es
 > **Tarea:** Refactoriza el archivo `[src/legacy/auth.ts]` para mejorar su legibilidad y modularizarlo.
 > **Restricciones:** No cambies nunca la firma (signature) de la API existente y asegúrate de que pase las pruebas unitarias después de la modificación.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

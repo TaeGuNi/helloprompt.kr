@@ -44,7 +44,6 @@ Todos los desarrolladores de Python conocen el dolor de buscar un error tipográ
 > **Código:** `[Inserta tu código aquí]`
 > **Error:** `[Inserta el mensaje de error aquí]`
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

@@ -47,7 +47,6 @@ Usalo quando hai bisogno di fare brainstorming rapido sull'automazione prima di 
 > **Ruolo:** Sei un Senior Product Manager (PM).
 > **Richiesta:** Vogliamo introdurre il "Gemini Agent Ecosystem" di Google nel nostro servizio `[Nome del servizio e funzione principale]`. Proponi 3 casi d'uso di automazione ad alto impatto che gli utenti possano eseguire tramite comandi vocali, senza dover aprire fisicamente l'app.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

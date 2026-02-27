@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt, wenn Sie schnell und unkompliziert die wichtigsten 
 > **Rolle:** Du bist ein promovierter Kunsthistoriker und ein charismatischer Museumspädagoge.
 > **Anfrage:** Analysiere dieses angehängte Foto eines Kunstwerks. Nenne mir Titel, Künstler, Epoche und erkläre mir in drei kurzen Sätzen, warum dieses Werk so bedeutend ist.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

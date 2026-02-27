@@ -42,7 +42,6 @@ Use esta versão quando quiser ter uma noção rápida da gravidade do seu estad
 > **Papel (Role):** Você é um `[psicólogo especialista em profissionais de TI]`.
 > **Tarefa (Task):** "Ultimamente odeio programar e me sinto exausto. Faça-me 5 perguntas essenciais para diagnosticar se isso é apenas um bloqueio temporário ou a Síndrome de Burnout."
 
-\
 
 ### 🥇 Versão Pro (Análise Profunda baseada no MBI)
 

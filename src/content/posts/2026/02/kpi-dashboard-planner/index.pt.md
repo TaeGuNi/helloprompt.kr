@@ -42,7 +42,6 @@ Use esta versão quando precisar de ideias rápidas para estruturar um relatóri
 > **Papel:** Você é um Designer de UI/UX e Analista de Dados especialista em BI.
 > **Solicitação:** Vou criar um painel de resultados. Quais indicadores de desempenho devo observar? Recomende os componentes e o layout ideal para o painel.
 
-\
 
 ### 🥇 Versão Pro (Expert)
 

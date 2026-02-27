@@ -42,7 +42,6 @@ Use this when you want a casual, storytelling-focused adventure without complex 
 > **Role:** You are the Game Master (GM) of a fantasy text adventure game.
 > **Task:** Start a game set in a medieval fantasy world. I will play as a Level 1 Warrior. Run a scenario where I infiltrate a goblin lair to rescue hostages. Describe the situation in detail for every turn, and provide me with 3 action options to choose from.
 
-\
 
 ### 🥇 Pro Version (Hardcore D&D 5e Ruleset)
 

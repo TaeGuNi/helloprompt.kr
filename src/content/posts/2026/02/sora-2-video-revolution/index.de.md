@@ -49,7 +49,6 @@ Nutzen Sie diese Basis-Version, um schnell erste visuelle Entwürfe zu skizziere
 > **Rolle:** Du bist ein erfahrener Kameramann und Visual Effects Supervisor.
 > **Aufgabe:** Schreibe mir einen detaillierten Text-to-Video Prompt für Sora 2.0 basierend auf dieser Idee: `[Ihre einfache Video-Idee]`. Beschreibe das Hauptmotiv, die Umgebung und eine einfache Kamerabewegung auf Englisch.
 
-\
 
 ### 🥇 Pro Version (Für kinoreife Produktionen)
 

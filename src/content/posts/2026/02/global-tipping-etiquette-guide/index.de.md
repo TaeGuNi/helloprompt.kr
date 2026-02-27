@@ -42,7 +42,6 @@ Verwenden Sie diese Version, wenn Sie am Tisch sitzen und sofort eine kurze Antw
 > **Rolle:** Du bist ein erfahrener Reiseführer für globale Etikette.
 > **Anfrage:** Wie viel Trinkgeld gibt man in `[Land]` im Restaurant und wie übergibt man es richtig?
 
-\
 
 ### 🥇 Pro Version (Expertenmodus)
 

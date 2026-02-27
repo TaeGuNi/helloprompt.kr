@@ -41,7 +41,6 @@ Idéal pour obtenir rapidement un squelette de code d'intégration quantique.
 > **Rôle :** Tu es un `[Ingénieur en Machine Learning Quantique]`.
 > **Requête :** Rédige-moi un script Python simple utilisant `[TensorFlow Quantum]` pour créer un modèle hybride classique-quantique avec une couche dense classique et un circuit quantique paramétré.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

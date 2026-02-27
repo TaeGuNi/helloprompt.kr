@@ -43,7 +43,6 @@ Ideal, wenn Sie schnell das Eis brechen und einen natürlichen Gesprächseinstie
 > **Aufgabe:** Analysiere den folgenden Text der Zielperson und schlage 3 natürliche, interessante Sätze als Icebreaker für den Einstieg in eine Cold E-Mail vor.
 > **Text der Zielperson:** `[Füge hier den LinkedIn-Beitrag oder ein Interview des Kunden ein]`
 
-\
 
 ### 🥇 Pro Version (Experten-Prompt)
 

@@ -44,7 +44,6 @@ Use this quick snippet when you just need Claude to stop cutting corners on smal
 > **Role:** You are a Senior Principal Engineer.
 > **Task:** Refactor the provided code. You MUST output the entire code file from start to finish. DO NOT use placeholders like `// ... existing code ...`.
 
-\
 
 ### 🥇 Pro Version
 

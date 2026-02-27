@@ -40,7 +40,6 @@ Usa questo approccio per pulire rapidamente un testo palesemente generato dall'I
 > **Ruolo:** Agisci come un `[Editor Professionista e Critico Letterario]`.
 > **Richiesta:** Riscrivi questo `[testo]` eliminando tutte le frasi fatte tipiche dell'IA (es. "Nel mondo frenetico di oggi", "In conclusione", "Sblocca il potenziale", "Tuffiamoci"). Rendilo diretto, umano, conciso e conversazionale.
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

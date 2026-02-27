@@ -39,7 +39,6 @@ Para ofrecerte un entorno de navegación rápido y seguro, este sitio recopila a
 > **Datos recopilados:** `[Cookies]`, `[Dirección IP de conexión]`, `[Información del navegador y dispositivo]`, `[Hora de acceso y registro de visitas]`
 > **Método de recopilación:** Recopilación automática a través de herramientas de análisis (como Google Analytics) al visitar el sitio web.
 
-\
 
 ### 🥇 Propósito del Uso de Datos (Pro Usage)
 

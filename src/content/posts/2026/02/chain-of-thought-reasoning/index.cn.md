@@ -42,7 +42,6 @@ tags: ["AI", "Tech", "chain-of-thought-reasoning"]
 > **请求:** 请解决以下问题：`[你的复杂问题/数学题]`。
 > **要求:** **让我们一步一步地思考。 (Let's think step by step.)**
 
-\
 
 ### 🥇 Pro Version (专家版 - 少样本思维链)
 

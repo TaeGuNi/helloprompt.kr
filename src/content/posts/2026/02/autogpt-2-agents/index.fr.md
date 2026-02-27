@@ -39,7 +39,6 @@ Utilisez ceci pour esquisser rapidement la structure de base d'une équipe d'age
 > **Rôle :** Tu es un `[Maître d'Essaim AutoGPT 2.0]`.
 > **Tâche :** Propose les rôles et le flux de travail (workflow) de 3 agents nécessaires pour accomplir parfaitement `[une tâche de recherche complexe]`.
 
-\
 
 ### 🥇 Pro Version (Version Expert)
 

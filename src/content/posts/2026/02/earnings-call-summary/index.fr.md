@@ -42,7 +42,6 @@ Utilisez cette version lorsque vous avez juste besoin d'un aperçu instantané d
 > **Rôle :** Tu es un `[Stratège en Investissement Professionnel]` au sein d'un hedge fund de Wall Street.
 > **Requête :** Cette transcription de conférence de résultats est trop longue et complexe. Résume-moi uniquement l'essentiel à retenir pour ma stratégie d'investissement.
 
-\
 
 ### 🥇 Pro Version (Version Experte)
 

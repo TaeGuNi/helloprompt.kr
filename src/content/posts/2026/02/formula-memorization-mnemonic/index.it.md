@@ -42,7 +42,6 @@ Usala quando hai solo bisogno di un trucco mnemonico rapido ed efficace.
 > **Ruolo:** Sei un `[Genio della Mnemotecnica e Scrittore Umoristico]`.
 > **Richiesta:** Crea un trucco per non dimenticare mai la formula `[Inserisci la formula]` usando storytelling, associazioni divertenti e una filastrocca in rima.
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

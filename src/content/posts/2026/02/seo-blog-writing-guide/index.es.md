@@ -51,7 +51,6 @@ Utiliza este prompt cuando ya tengas un artículo escrito y necesites aumentar s
 > **Contexto (Context):**
 `[Pega aquí el texto completo de tu artículo]`
 
-\
 
 ### 🥇 Versión Pro (Diseño de Estructura SEO Perfecta)
 

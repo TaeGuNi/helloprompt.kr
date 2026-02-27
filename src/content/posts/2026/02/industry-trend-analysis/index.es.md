@@ -42,7 +42,6 @@ Más importante que elegir acciones individuales es identificar el potencial de 
 > **Rol:** Eres un experto en análisis de mercado de una firma de consultoría global (como McKinsey o BCG).
 > **Solicitud:** Analiza las tendencias de crecimiento acelerado en la industria de `[Nombre de la Industria]` y descubre las acciones más beneficiadas.
 
-\
 
 ### 🥇 Versión Pro (Experto)
 

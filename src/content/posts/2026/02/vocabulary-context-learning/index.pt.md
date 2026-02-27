@@ -42,7 +42,6 @@ Ideal para quando você precisa de uma explicação rápida no meio de uma leitu
 > **Role:** Você é um especialista em ensino de inglês para estrangeiros.
 > **Task:** Explique a palavra `[palavra]` com foco na sua nuance principal e dê um exemplo prático de uso no dia a dia.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

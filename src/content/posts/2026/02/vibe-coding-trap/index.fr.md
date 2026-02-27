@@ -60,12 +60,9 @@ Utilisez ce prompt lorsque vous souhaitez faire vérifier un code ou une idée q
 >
 > **Code en entrée :**
 >
-> ```javascript
+>
 > [Insérez votre extrait de code ici]
-> ```
-
-\
-
+>
 ### 🥇 Version Pro (Prompt de l'Inquisiteur d'Architecture)
 
 Un prompt en deux étapes qui vous force à évaluer les compromis (Trade-offs) avant d'implémenter une nouvelle fonctionnalité complexe.

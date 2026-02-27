@@ -85,10 +85,9 @@ Usa questo prompt subito dopo aver fatto generare del codice all'IA per risvegli
 >
 > - **Snippet di Codice:**
 >
-> ```plaintext
+>
 > [Incolla qui il codice da valutare]
-> ```
-
+>
 ---
 
 ## 💡 Il Commento dell'Autore (Insight)

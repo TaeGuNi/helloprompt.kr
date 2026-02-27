@@ -42,7 +42,6 @@ Use esta versão quando estiver sem tempo e precisar de uma ideia rápida para o
 > **Papel:** Você é um poeta urbano e criador de conteúdo com milhões de seguidores no Instagram.
 > **Solicitação:** Escreva um poema curto, moderno e altamente emocional sobre `[TEMA]` em no máximo 4 linhas, focado em gerar engajamento imediato.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

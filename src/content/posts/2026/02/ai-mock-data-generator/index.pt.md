@@ -42,7 +42,6 @@ Ideal para quando você precisa de um array JSON simples e rápido, apenas para 
 > **Função:** Você é um `[Desenvolvedor Frontend Sênior]`.
 > **Tarefa:** Crie 5 dados fictícios (JSON) de `[Perfil de Usuário]` para testes de UI no frontend. Os campos obrigatórios são id, name e email.
 
-\
 
 ### 🥇 Versão Profissional (Pro Version)
 

@@ -42,7 +42,6 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Photography", "Lighting"]
 > **역할:** 너는 전문 포토그래퍼야.
 > **요청:** `[원하는 피사체 또는 장면]`을(를) 촬영해줘. 단, 조명은 반드시 Golden hour(골든 아워)로 설정해서 따뜻하고 감성적인 무드를 연출해.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

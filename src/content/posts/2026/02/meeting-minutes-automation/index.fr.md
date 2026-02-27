@@ -43,7 +43,6 @@ Idéal lorsque vous n'avez besoin que de l'essentiel, sans fioritures.
 > **Demande :** Lis la transcription de la réunion ci-dessous et résume-la en 3 sections claires : [Ordre du jour / Décisions actées / Prochaines étapes].
 > **Transcription :** `[Collez votre texte ici]`
 
-\
 
 ### 🥇 Version Pro (Compte-Rendu Parfait)
 

@@ -43,7 +43,6 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Product", "Lighting"]
 >
 > **요청 (Task):** `[제품명]`의 제품 사진을 만들어줘. 배경은 단색으로 깔끔하게 하고, 스튜디오 조명을 사용해서 제품이 돋보이게 해줘.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

@@ -38,7 +38,6 @@ Verwenden Sie diese Methode, wenn Sie schnelle Antworten auf Standardfragen ben�
 > **Aufgabe:** Übersetze den folgenden Text ins Spanische.
 > **Text:** "Das Wetter ist heute wirklich hervorragend für einen Spaziergang."
 
-\
 
 ### 🥇 Pro Version (Few-Shot: Der Präzisions-Weg)
 

@@ -42,7 +42,6 @@ El fenómeno óptico en el que la luz se dispersa a través de la humedad, el hu
 > **Rol:** Eres un director de fotografía experto.
 > **Solicitud:** Genera una imagen de un bosque oscuro con `[Rayos de Dios]` penetrando a través de las hojas, creando una iluminación volumétrica intensa.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

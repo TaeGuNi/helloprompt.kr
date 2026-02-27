@@ -44,7 +44,6 @@ Usa questa versione quando hai fretta e vuoi solo una rapida ripulita al volo.
 >
 > `[INSERISCI_IL_TUO_CODICE_QUI]`
 
-\
 
 ### 🥇 Pro Version (Versione Avanzata)
 
@@ -66,9 +65,9 @@ Usa questa versione per un refactoring approfondito, analisi della complessità 
 >
 > **Codice da analizzare:**
 >
-> ```
+>
 > [INCOLLA_QUI_IL_TUO_CODICE_SPAGHETTI]
-> ```
+>
 >
 > **Vincoli (Constraints):**
 >

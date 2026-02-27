@@ -50,7 +50,6 @@ Idéal lorsque vous avez besoin d'un texte prêt à être copié-collé rapideme
 >
 > **Texte original :** `[Coller le contenu de l'article ici]`
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

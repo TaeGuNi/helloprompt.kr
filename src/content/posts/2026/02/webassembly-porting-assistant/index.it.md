@@ -48,7 +48,6 @@ Ideale quando hai bisogno di convertire e testare rapidamente semplici funzioni 
 > **Codice:**
 > `[Incolla qui il codice C++/Go/Rust da convertire]`
 
-\
 
 ### 🥇 Versione Pro (Pro Version)
 
@@ -70,9 +69,9 @@ Da utilizzare quando è necessario un risultato a livello di produzione, che inc
 >
 > **Codice di Input:**
 >
-> ```plaintext
+>
 > [Incolla qui il codice originale]
-> ```
+>
 >
 > **Vincoli (Constraints):**
 >

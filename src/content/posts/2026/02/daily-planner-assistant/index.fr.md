@@ -47,7 +47,6 @@ Utilisez cette version pour obtenir rapidement un aperçu de votre journée et o
 > **Liste de tâches du jour :**
 > `[Insérez ici vos tâches de la journée en vrac]`
 
-\
 
 ### 🥇 Version Pro (Expert)
 
@@ -140,7 +139,6 @@ Mes horaires : 9h30 à 18h30.
 | **DÉLÉGUER (Urgent, Pas Important)** | Demander la correction du logo au design \ Répondre aux e-mails en retard | **Déléguer/Liquider rapidement**, dès le début de journée |
 | **ÉLIMINER (Pas Urgent, Pas Important)** | (Aucune tâche dans cette catégorie aujourd'hui) | - |
 
-\
 
 ## 🕒 Votre emploi du temps (Time Blocking)
 

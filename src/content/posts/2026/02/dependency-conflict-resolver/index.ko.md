@@ -48,7 +48,6 @@ tags: [AI, Node.js, npm, Debugging]
 > **package.json:**
 > `[package.json 내용 붙여넣기]`
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

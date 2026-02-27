@@ -42,13 +42,12 @@ tags: ["DeepSeek", "Ollama", "Local LLM", "コーディング", "生産性"]
 > **役割:** あなたは環境構築をサポートする `[シニアエンジニア]` です。
 > **要求:** Mac/Linux環境にOllamaをインストールする手順を実行します。以下のコマンドを使用します。
 >
-> ```bash
+>
 > curl -fsSL https://ollama.com/install.sh | sh
-> ```
+>
 >
 > _(Windowsの場合は公式サイトからインストーラーをダウンロードしてください)_
 
-\
 
 ### 🥇 Step 2: DeepSeek R1の召喚と実行 (Pro)
 

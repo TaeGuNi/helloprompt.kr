@@ -40,7 +40,6 @@ Idéal pour obtenir un avis rapide sur un choix technique ou un goulot d'étrang
 > **Rôle :** Tu es un Architecte Logiciel Senior expert en systèmes distribués à très grande échelle.
 > **Requête :** En t'inspirant de l'ingénierie de Discord (Elixir, Rust, ScyllaDB), analyse mon architecture actuelle : `[Décrire l'architecture et le problème]`. Identifie le principal goulot d'étranglement et propose une solution concrète.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

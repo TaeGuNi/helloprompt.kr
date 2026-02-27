@@ -43,12 +43,9 @@ Use esta versão para uma verificação rápida quando tiver dúvidas sobre a ac
 > **Tarefa:** Verifique se há problemas de acessibilidade no código HTML abaixo que possam afetar leitores de tela ou a navegação por teclado, e corrija-o para que fique semântico.
 > **Código:**
 >
-> ```html
+>
 > [Cole o seu código aqui]
-> ```
-
-\
-
+>
 ### 🥇 Versão Pro (Especialista)
 
 Ideal para auditar componentes de UI de alta complexidade, como modais, menus suspensos (dropdowns) e interações de abas (tabs).
@@ -70,9 +67,9 @@ Ideal para auditar componentes de UI de alta complexidade, como modais, menus su
 >
 > **Código (Code):**
 >
-> ```plaintext
+>
 > [Cole o código do seu componente aqui]
-> ```
+>
 >
 > **Restrições (Constraints):**
 >

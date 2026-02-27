@@ -1,8 +1,5 @@
 import { getCollection } from "astro:content";
 import type { APIRoute } from "astro";
-import { getLangStaticPaths } from "../../i18n/languages";
-
-export const getStaticPaths = getLangStaticPaths;
 
 export const GET: APIRoute = async (context) => {
   const lang = context.params.lang as string;
@@ -40,6 +37,7 @@ export const GET: APIRoute = async (context) => {
   return new Response(JSON.stringify(posts), {
     headers: {
       "Content-Type": "application/json",
+      "Cache-Control": "public, s-maxage=3600, stale-while-revalidate=86400",
     },
   });
 };

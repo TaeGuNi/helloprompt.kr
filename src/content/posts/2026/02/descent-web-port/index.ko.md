@@ -45,7 +45,6 @@ cover: "./cover.png"
 > **역할:** 너는 시니어 프론트엔드 게임 개발자야.
 > **요청:** 오픈소스 프로젝트 `https://mrdoob.github.io/three-descent/`의 작동 원리와, 기존 C++ 코드가 WASM 및 Three.js와 어떻게 상호작용하는지 3가지 핵심 포인트로 요약해 줘.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

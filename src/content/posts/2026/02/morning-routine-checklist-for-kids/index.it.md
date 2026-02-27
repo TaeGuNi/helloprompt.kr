@@ -49,7 +49,6 @@ Ideale per ottenere subito un piano semplice e funzionale.
 > **Ruolo:** Sei un life coach specializzato in genitorialità ed educazione infantile.
 > **Richiesta:** Spiegami come posso aiutare mio figlio a prepararsi autonomamente ogni mattina, evitando di doverlo riprendere o alzare la voce.
 
-\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

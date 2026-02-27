@@ -48,7 +48,6 @@ Las ciudades con pasados milenarios como Estambul, Granada o Berlín son infinit
 > **Rol:** Eres un experto 'Diseñador de Infografías de Historia' y guía turístico local.
 > **Solicitud:** Resume la compleja historia de `[Nombre de la Ciudad]` en una breve línea de tiempo, conectando los eventos del pasado con los lugares turísticos del presente.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

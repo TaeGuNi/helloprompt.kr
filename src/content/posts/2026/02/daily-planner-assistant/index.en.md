@@ -47,7 +47,6 @@ Use this when you need a quick, rough overview of today's schedule and immediate
 > **Today's To-Do List:**
 > `[Brain-dump all the tasks you need to do today here]`
 
-\
 
 ### 🥇 Pro Version
 
@@ -142,7 +141,6 @@ Working hours are 9:30 AM to 6:30 PM.
 | **DELEGATE (Urgent, Less Important)** | Request logo revision \ Reply to email backlog | **Handle/Delegate Quickly**, do right at start of day |
 | **DELETE (Less Urgent, Less Important)** | (None in the current list) | - |
 
-\
 
 ## 🕒 Today's Time Blocking Schedule
 

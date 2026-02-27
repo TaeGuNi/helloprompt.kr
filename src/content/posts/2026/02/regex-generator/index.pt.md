@@ -42,7 +42,6 @@ Use esta versão para padrões simples e rápidos.
 > **Papel:** Você é um `[Desenvolvedor Sênior Especialista em Regex]`.
 > **Tarefa:** Crie uma expressão regular para validar `[números de telefone no formato brasileiro (11) 98765-4321]`. Explique o código gerado.
 
-\
 
 ### 🥇 Versão Pro (Expert)
 
@@ -107,7 +106,6 @@ Escreva uma regex para números de telefone dos EUA. Hífens, parênteses ou nad
 
 _(Resultado: Uma expressão regular crua, sem explicação, que pode falhar em casos com espaços extras ou formatos inesperados, exigindo que você teste tudo manualmente.)_
 
-\
 
 ### ✅ Depois (Com a Versão Pro)
 

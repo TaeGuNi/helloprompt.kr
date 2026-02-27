@@ -43,7 +43,6 @@ Utilisez cette version pour une suggestion rapide sans trop de détails.
 > **Rôle :** Tu es un nutritionniste clinique.
 > **Requête :** Crée-moi un plan de repas hebdomadaire sain pour perdre du poids, incluant une liste de courses.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

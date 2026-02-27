@@ -42,7 +42,6 @@ Da utilizzare quando non hai idea di dove stiano lievitando i costi e vuoi indiv
 > **Ruolo:** Sei un Cloud Architect Senior.
 > **Richiesta:** Guardando la fattura AWS, i costi per i `[Volumi EBS]` sono insolitamente alti. Individua tutti i volumi non collegati (Unattached), gli snapshot obsoleti e gli Elastic IP allocati ma non utilizzati. Forniscimi i comandi AWS CLI esatti per eliminarli, insieme alle precauzioni da prendere prima di procedere.
 
-\
 
 ### 🥇 Versione Pro (Istanze Spot e Ottimizzazione dell'Architettura)
 

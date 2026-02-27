@@ -43,7 +43,6 @@ Wenn du absolut null Ideen hast und schnell Inspiration brauchst.
 > **Thema:** `[Lifehacks fürs Alleineleben]`
 > **Anfrage:** Gib mir 5 provokante und frische Shorts-Ideen, die die Zuschauer nicht weiterscrollen lassen. Inklusive Titel und dem ersten Satz (Hook).
 
-\
 
 ### 🥇 Pro Version (Drehplan)
 

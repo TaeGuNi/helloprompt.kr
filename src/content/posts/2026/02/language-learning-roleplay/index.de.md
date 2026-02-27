@@ -42,7 +42,6 @@ Nutzen Sie dies für einen schnellen, unkomplizierten Start in ein Gespräch.
 > **Rolle:** Du bist ein `[New Yorker Barista]`.
 > **Aufgabe:** Lass uns eine realistische Konversation auf Englisch führen. Korrigiere meine Fehler am Ende des Gesprächs.
 
-\
 
 ### 🥇 Pro Version (Experten-Prompt)
 

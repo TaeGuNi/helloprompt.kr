@@ -42,7 +42,6 @@ Use this when you have no idea where the money is going and need to quickly iden
 > **Role:** You are a Senior Cloud Architect.
 > **Task:** Looking at my AWS billing history, my `[EBS Volume]` costs are abnormally high. Identify all unattached volumes, obsolete snapshots, and unassigned Elastic IPs. Provide the exact AWS CLI commands to delete them safely, along with any necessary precautions.
 
-\
 
 ### 🥇 Pro Version
 

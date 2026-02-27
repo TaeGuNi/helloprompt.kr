@@ -42,7 +42,6 @@ Verwenden Sie diese Version, wenn Sie nur schnell wissen wollen, wo der Fehler l
 > **Rolle:** Du bist ein erfahrener Python-Entwickler.
 > **Aufgabe:** Finde den Fehler im folgenden Code und zeige mir, wie ich ihn beheben kann. Hier ist mein Code und die Fehlermeldung: `[Code und Fehlermeldung einfügen]`.
 
-\
 
 ### 🥇 Pro Version (Für tiefgreifende Analysen & Lernen)
 

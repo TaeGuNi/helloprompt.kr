@@ -43,7 +43,6 @@ Verwenden Sie diesen Prompt, wenn Sie nur eine schnelle, allgemeine Übersicht b
 > **Rolle:** Du bist ein erfahrener 'Profi-Nomade', der bereits in über 20 verschiedenen Ländern für jeweils mindestens einen Monat gelebt hat.
 > **Anfrage:** Empfiehl mir 10 unverzichtbare Alltagsgegenstände, die die Lebensqualität auf Langzeitreisen drastisch verbessern und dafür sorgen, dass man sich überall ein bisschen wie zu Hause fühlt.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

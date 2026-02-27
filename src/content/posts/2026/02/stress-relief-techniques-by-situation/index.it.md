@@ -42,7 +42,6 @@ Usala quando hai bisogno di una risposta istantanea senza troppi dettagli.
 > **Ruolo:** Sei uno psicoterapeuta esperto in neuroscienze.
 > **Richiesta:** Sono molto stressato. Suggeriscimi 3 tecniche scientificamente provate per alleviare la tensione in meno di 5 minuti, evitando consigli banali.
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

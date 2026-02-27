@@ -49,7 +49,6 @@ tags: ["AI", "Tech", "context-window-optimization"]
 > `[貼上相關程式碼]`
 > </source_code>
 
-\
 
 ### 🥇 Pro Version (專業版)
 

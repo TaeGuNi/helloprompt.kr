@@ -42,7 +42,6 @@ Use this when you want a quick risk assessment of your current portfolio.
 > **My Assets:** US Stocks 80%, Savings 20%.
 > **Task:** Analyze the biggest risk in my current portfolio. What happens if an economic crisis hits? Advise me on how much and how I should increase my safe asset allocation.
 
-\
 
 ### 🥇 Pro Version
 

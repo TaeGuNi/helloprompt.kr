@@ -44,12 +44,9 @@ Nutze diese Version, wenn du deinen Code nur rasch auf fatale Bugs oder kritisch
 > **Rolle:** Du bist ein erfahrener Senior Software Engineer.
 > **Aufgabe:** Überprüfe den folgenden Code auf Sicherheitslücken oder Logikfehler und fasse die Probleme kurz zusammen.
 > 
-> ```
+>
 > [Füge deinen Code hier ein]
-> ```
-
-\
-
+>
 ### 🥇 Pro Version (Für Experten)
 
 Dies ist der praxisnahe Prompt, der den Kontext des Codes versteht und alles von Sicherheitslücken über Refactoring-Potenzial bis hin zur Lesbarkeit akribisch prüft.
@@ -79,10 +76,9 @@ Dies ist der praxisnahe Prompt, der den Kontext des Codes versteht und alles von
 > 
 > **Eingabe-Code (Input Code):**
 > 
-> ```
+>
 > [Füge hier den Code für das Review ein]
-> ```
-
+>
 ---
 
 ## 💡 Insights vom Autor (Writer's Insight)

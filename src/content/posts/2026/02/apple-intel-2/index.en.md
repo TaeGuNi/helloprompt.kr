@@ -45,7 +45,6 @@ Use this when you need instant, offline summarization of scattered personal data
 
 > **Task:** Find the podcast episode Greg sent me in Messages last week about coffee, summarize the main points, and save it to a new Note.
 
-\
 
 ### 🥇 Pro Version (The Autonomous Agent)
 

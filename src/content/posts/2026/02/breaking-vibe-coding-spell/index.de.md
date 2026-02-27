@@ -43,7 +43,6 @@ So arbeiten Anfänger: Schnell, aber extrem fehleranfällig.
 > **Rolle:** Du bist ein Senior Developer.
 > **Anfrage:** Schreibe mir eine React-Komponente für einen Login, die gut aussieht.
 
-\
 
 ### 🥇 Pro Version (Constraint-Based Engineering)
 

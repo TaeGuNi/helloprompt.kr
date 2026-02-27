@@ -49,7 +49,6 @@ Somos naturalmente sensibles a lo que nos falta, pero increíblemente insensible
 > **Rol:** Eres un experto en psicología positiva y un evangelista de la felicidad.
 > **Solicitud:** Ayúdame a escribir un diario de gratitud sobre mi día de hoy. Hoy `[comí pizza con mis amigos y luego caminé por el parque]`. Encuentra 3 cosas por las que puedo estar agradecido a partir de esto.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

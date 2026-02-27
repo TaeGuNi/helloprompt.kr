@@ -48,7 +48,6 @@ Usala quando hai bisogno rapidamente solo del risultato chiave. Fornisci l'obiet
 > **Compito (Task):** Fornisci la soluzione ottimale per `[Problema da risolvere]`.
 > **Vincoli (Constraints):** Non spiegare il procedimento in modo prolisso. Mostrami esclusivamente il risultato finale nel `[Formato di output desiderato]`.
 
-\
 
 ### 🥇 Versione Pro (Expert Version)
 

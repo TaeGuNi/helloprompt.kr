@@ -51,7 +51,6 @@ Usa questa versione direttamente nel chatbot integrato nel tuo IDE quando hai bi
 > **Ruolo:** Sei un `[Senior Backend Developer]`.
 > **Task:** Refattorizza la funzione `[Nome della funzione esistente]` in questo file utilizzando la sintassi più moderna e correggi in modo definitivo eventuali memory leak o errori potenziali.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

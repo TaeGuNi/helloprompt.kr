@@ -75,6 +75,9 @@ const t = uiStrings[currentLang] || uiStrings.ko;
       content="c0b3ad7ccd384b0cf7ceaf2b9a136504e0ba0cc7"
     />
 
+    <!-- [SEO] Canonical URL -->
+    <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site).href} />
+
     <!-- [SEO] i18n Hreflang Tags -->
     {
       ["ko", "en", "de", "es", "fr", "it", "ja", "pt", "ru", "zh"].map(
@@ -152,38 +155,58 @@ const t = uiStrings[currentLang] || uiStrings.ko;
                 "query-input": "required name=search_term_string",
               },
             }
-          : {
-              "@context": "https://schema.org",
-              "@type": "Article",
-              headline: frontmatter.title,
-              description: frontmatter.description,
-              image: `https://helloprompt.kr/api/og?title=${encodeURIComponent(frontmatter.title)}`,
-              datePublished: new Date(frontmatter.date).toISOString(),
-              dateModified: frontmatter.updatedDate
-                ? new Date(frontmatter.updatedDate).toISOString()
-                : new Date(frontmatter.date).toISOString(),
-              aggregateRating: {
-                "@type": "AggregateRating",
-                ratingValue: "4.8",
-                bestRating: "5",
-                ratingCount: "42",
-              },
-              author: [
-                {
-                  "@type": "Person",
-                  name: frontmatter.author || "Zzabbis",
-                  url: "https://helloprompt.kr/about",
-                },
-              ],
-              publisher: {
-                "@type": "Organization",
-                name: "Hello Prompt",
-                logo: {
-                  "@type": "ImageObject",
-                  url: "https://helloprompt.kr/favicon.svg",
+          : [
+              {
+                "@context": "https://schema.org",
+                "@type": "Article",
+                headline: frontmatter.title,
+                description: frontmatter.description,
+                image: `https://helloprompt.kr/api/og?title=${encodeURIComponent(frontmatter.title)}`,
+                datePublished: new Date(frontmatter.date).toISOString(),
+                dateModified: frontmatter.updatedDate
+                  ? new Date(frontmatter.updatedDate).toISOString()
+                  : new Date(frontmatter.date).toISOString(),
+                author: [
+                  {
+                    "@type": "Person",
+                    name: frontmatter.author || "Zzabbis",
+                    url: "https://helloprompt.kr/about",
+                  },
+                ],
+                publisher: {
+                  "@type": "Organization",
+                  name: "Hello Prompt",
+                  logo: {
+                    "@type": "ImageObject",
+                    url: "https://helloprompt.kr/favicon.svg",
+                  },
                 },
               },
-            },
+              {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                itemListElement: [
+                  {
+                    "@type": "ListItem",
+                    position: 1,
+                    name: "Home",
+                    item: Astro.site
+                  },
+                  ...(frontmatter.tags && frontmatter.tags.length > 0 ? [{
+                    "@type": "ListItem",
+                    position: 2,
+                    name: frontmatter.tags[0],
+                    item: `${Astro.site}${currentLang}/tags/${frontmatter.tags[0]}`
+                  }] : []),
+                  {
+                    "@type": "ListItem",
+                    position: frontmatter.tags && frontmatter.tags.length > 0 ? 3 : 2,
+                    name: frontmatter.title,
+                    item: new URL(Astro.url.pathname, Astro.site).href
+                  }
+                ]
+              }
+            ]
       )}
     />
 
@@ -712,7 +735,7 @@ const t = uiStrings[currentLang] || uiStrings.ko;
                 {frontmatter.tags && frontmatter.tags[0] && (
                   <>
                     <a
-                      href={`${currentLang === "ko" ? "" : "/" + currentLang}/tags/${frontmatter.tags[0]}`}
+                      href={`/${currentLang}/tags/${frontmatter.tags[0]}`}
                     >
                       #{frontmatter.tags[0]}
                     </a>
@@ -785,7 +808,7 @@ const t = uiStrings[currentLang] || uiStrings.ko;
               <div class="tags-container">
                 {frontmatter.tags.map((tag) => (
                   <a
-                    href={`${frontmatter.lang && frontmatter.lang !== "ko" ? "/" + frontmatter.lang : ""}/tags/${tag}`}
+                    href={`/${currentLang}/tags/${tag}`}
                     class="tag-badge"
                   >
                     #{tag}

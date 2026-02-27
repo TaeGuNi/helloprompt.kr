@@ -45,7 +45,6 @@ Verwenden Sie diesen Prompt für eine schnelle, unkomplizierte Überprüfung Ihr
 > **Rolle:** Du bist ein erfahrener `[Senior Software Engineer / Interviewer bei Google/Meta]`.
 > **Anfrage:** Ich habe ein `[Algorithmus-Problem]` gelöst. Bitte überprüfe meinen Code, stelle kritische Rückfragen zu meiner Lösung und gib mir Feedback wie in einem echten technischen Interview.
 
-\
 
 ### 🥇 Pro Version (Experten-Modus)
 

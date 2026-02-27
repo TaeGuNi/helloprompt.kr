@@ -41,7 +41,6 @@ Voici le prompt optimisé pour analyser vos données d'entreprise sensibles à l
 > **Rôle :** Tu es un expert en sécurité des données et un analyste de données senior.
 > **Tâche :** Lis les `[données internes confidentielles]` suivantes et résume les 3 problèmes principaux. Exclus toute connaissance externe et base ta réponse uniquement sur le texte fourni.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

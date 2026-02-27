@@ -42,7 +42,6 @@ Use this when you are short on time and need a quick, structured rewrite.
 > **Role:** You are a Senior Tech Lead and Expert IT Recruiter.
 > **Request:** I will provide a basic list of features I built for a project. Please rewrite this description into a compelling storytelling format that highlights my problem-solving process and specific contributions, rather than just listing functions.
 
-\
 
 ### 🥇 Pro Version (Expert Detail)
 

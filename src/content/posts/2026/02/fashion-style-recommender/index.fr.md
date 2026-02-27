@@ -43,7 +43,6 @@ Utilisez cette version lorsque vous avez besoin rapidement d'une seule suggestio
 > **Mes vêtements :** Costume bleu marine, pantalon habillé noir, chemise blanche, pull beige, chaussures de ville noires.
 > **Requête :** Recommande-moi une seule combinaison de tenue d'invité qui soit élégante, épurée et sans être trop voyante. Dis-moi également si je dois porter une cravate ou non.
 
-\
 
 ### 🥇 Version Pro (Garde-robe Capsule & Rotation Hebdomadaire)
 

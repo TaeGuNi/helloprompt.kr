@@ -42,7 +42,6 @@ Utilisez cette version pour un retour immédiat sur une petite fonction ou un bo
 > **Rôle :** Tu es un Tech Lead expert en ingénierie logicielle.
 > **Demande :** Fais une revue de code critique et détaillée pour le code suivant, en pointant les erreurs, les failles potentielles et en proposant des améliorations concrètes : `[Insérez votre code ici]`
 
-\
 
 ### 🥇 Version Pro (Expert)
 

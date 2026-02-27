@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt für eine schnelle, unkomplizierte Antwort im Alltag
 > **Rolle:** Du bist ein erfahrener Pädagoge und Experte für frühkindliche Wirtschaftsbildung.
 > **Aufgabe:** Erkläre einem 6-jährigen Kind leicht verständlich den Wert von Geld und warum man nicht immer alles sofort kaufen kann.
 
-\
 
 ### 🥇 Pro Version (Experte)
 

@@ -37,7 +37,6 @@ Verwenden Sie dies, wenn Sie schnell nur die Verbesserungspotenziale des Codes i
 > **Rolle:** Du bist ein `[Rust 2026 Core Contributor]`.
 > **Aufgabe:** Optimiere diesen `[veralteten Rust-Code]` entsprechend den neuesten asynchronen Standards von 2026.
 
-\
 
 ### 🥇 Pro Version (Für Experten)
 

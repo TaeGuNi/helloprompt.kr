@@ -43,7 +43,6 @@ Una presentación sin confianza disminuye el valor de incluso la mejor de las id
 > **Tarea:** Convierte el guion de presentación a continuación en un tono conversacional, natural y seguro, como si estuvieras hablando frente a una audiencia. Divide el texto en oraciones cortas para facilitar la respiración y resalta en **negrita** las partes que deben enfatizarse.
 > **Guion:** `[Pega tu guion actual aquí]`
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

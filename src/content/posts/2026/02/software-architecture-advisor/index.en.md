@@ -42,7 +42,6 @@ Use this when you just need a quick, high-level structural overview.
 > **Role:** You are a Chief Software Architect specializing in scalable system design.
 > **Request:** Recommend the most optimal software architecture for `[Describe your project briefly]` and provide the basic folder structure.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

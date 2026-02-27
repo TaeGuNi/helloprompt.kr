@@ -42,7 +42,6 @@ Lorsqu'on cherche des tutoriels de bricolage sur YouTube, on tombe souvent sur d
 > **Rôle :** Tu es un artisan vétéran avec 30 ans d'expérience en `[Plomberie / Électricité / Aménagement intérieur]`.
 > **Tâche :** J'ai un problème avec mon/ma `[Lieu ou nom de l'appareil défectueux]` à la maison. Les symptômes sont les suivants : `[Description détaillée du problème]`. Explique-moi la cause probable et donne-moi 3 méthodes de résolution, de la plus simple à la plus complexe, que je peux réaliser moi-même sans faire appel à un professionnel. Si nécessaire, recommande-moi des outils basiques que je peux acheter dans une quincaillerie de quartier.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

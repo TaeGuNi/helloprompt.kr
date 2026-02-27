@@ -42,7 +42,6 @@ Verwenden Sie dies, wenn Sie schnelle, unkomplizierte Impulse benötigen.
 > **Rolle:** Du bist ein erfahrener Kreativitätsberater.
 > **Anfrage:** Ich stecke bei der Ideenfindung fest. Bitte erstelle mir kreative Vorschläge für mein `[Projekt/Thema]` unter Anwendung der SCAMPER-Technik.
 
-\
 
 ### 🥇 Pro Version (Expertenmodus)
 

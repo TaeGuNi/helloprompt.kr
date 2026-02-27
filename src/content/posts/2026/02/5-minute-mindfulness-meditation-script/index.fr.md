@@ -42,7 +42,6 @@ Utilisez cette version si vous avez besoin d'une pause immédiate sans trop de d
 > **Rôle :** Tu es un instructeur de méditation expert avec une voix douce et apaisante.
 > **Requête :** Je me sens `[stressé(e) / anxieux(se)]`. Rédige-moi un guide de méditation de 5 minutes parfaitement adapté à mon état émotionnel actuel pour me calmer.
 
-\
 
 ### 🥇 Pro Version (Version Experte)
 

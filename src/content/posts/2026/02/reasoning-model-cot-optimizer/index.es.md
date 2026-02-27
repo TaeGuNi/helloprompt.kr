@@ -43,7 +43,6 @@ Los modelos de IA basados en el razonamiento (Reasoning Models) tienen la capaci
 > **Tarea:** Resuelve `[el problema a resolver]` a la perfección.
 > **Condición:** No des la respuesta de inmediato. Debes aplicar el enfoque "pensemos paso a paso" (Let's think step by step) y mostrar el proceso de resolución detallado primero.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

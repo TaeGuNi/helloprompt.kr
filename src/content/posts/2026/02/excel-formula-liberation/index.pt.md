@@ -43,7 +43,6 @@ Ideal para quando você sabe o que quer calcular, mas esqueceu o nome ou a ordem
 > **Contexto:** A Coluna A contém o 'Nome do Produto', a Coluna B tem o 'Preço' e a Coluna C tem a 'Quantidade'.
 > **Tarefa:** Escreva uma fórmula para a Coluna D que calcule as 'Vendas Totais (Preço \* Quantidade)'. Além disso, adicione uma condição: se o valor total for maior que R$ 1.000, marque como "VIP"; caso contrário, marque como "Geral".
 
-\
 
 ### 🥇 Versão Profissional (Pro Version)
 

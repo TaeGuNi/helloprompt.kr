@@ -37,7 +37,6 @@ Use esta versão quando precisar identificar rapidamente casos de uso e os resul
 > **Role (Papel):** Você é o melhor consultor de estratégia em tecnologia de IA Quântica do mundo.
 > **Task (Tarefa):** Analise de forma clara 3 casos de aplicação reais de algoritmos híbridos de IA Quântica que estão sendo usados atualmente em 2026 no setor de `[Indústria Específica, ex: Finanças, Farmacêutica, Logística]`, destacando os resultados e impactos esperados.
 
-\
 
 ### 🥇 Versão Pro (Expert Version)
 

@@ -45,7 +45,6 @@ Ideal para obter um esboço inicial das ferramentas e do fluxo de dados que voc�
 > **Atue como:** Um Arquiteto de Software de IA.
 > **Tarefa:** Projete uma arquitetura básica de sistema RAG para `[seu caso de uso, ex: um assistente de suporte ao cliente interno]`. Liste os frameworks, banco de dados vetorial e LLM ideais para esse cenário.
 
-\
 
 ### 🥇 Versão Pro (Planejamento Completo)
 

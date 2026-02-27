@@ -41,7 +41,6 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Traditional"]
 
 > **요청:** 후지산을 공처럼 가지고 노는 거대한 고양이를 그려줘. 화풍은 일본 전통 목판화인 우키요에(Ukiyo-e) 스타일로 하고, 가츠시카 호쿠사이의 파도 느낌을 배경에 넣어줘. 색감은 납작하게(flat color) 칠하고 테두리는 굵게 표현해.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

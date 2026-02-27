@@ -42,7 +42,6 @@ Use this when you need quick, high-level recommendations on the go.
 > **Role:** You are a savvy local editor who has lived in `[City Name]` for over 10 years.
 > **Request:** I am tired of places crowded with tourists! Reveal 5 hidden hotspots and local hangouts in `[City Name]` that rarely appear on standard tourist maps.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

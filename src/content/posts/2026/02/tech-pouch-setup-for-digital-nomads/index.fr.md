@@ -42,7 +42,6 @@ Travailler en voyage ne s'improvise pas. Un chargeur trop lourd, un câble défe
 > **Rôle :** Tu es un 'Développeur Full Stack et YouTubeur Tech' expérimenté qui travaille en voyageant à travers le monde.
 > **Demande :** Je pars travailler depuis des cafés. Donne-moi une liste d'équipements tech (chargeurs, câbles, supports) indispensables, légers et efficaces à 200 % pour le travail à distance.
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 

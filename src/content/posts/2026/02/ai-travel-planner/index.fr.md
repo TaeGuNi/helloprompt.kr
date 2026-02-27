@@ -42,7 +42,6 @@ Utilisez cette version pour obtenir un plan rapide sans entrer dans les détails
 > **Rôle :** Tu es un `[Guide de Voyage Local Expérimenté]`.
 > **Demande :** Conçois un itinéraire de voyage optimisé pour `[Destination]` sur `[Durée]`, en minimisant les temps de trajet et en incluant des adresses locales.
 
-\
 
 ### 🥇 Pro Version (Version Expert)
 

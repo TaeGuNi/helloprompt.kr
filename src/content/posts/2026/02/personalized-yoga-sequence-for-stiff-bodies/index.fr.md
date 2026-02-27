@@ -43,7 +43,6 @@ Utilisez cette version pour obtenir un résultat rapide.
 > **Rôle :** Tu es un instructeur de yoga spécialisé en rééducation. Tu excelles dans la création de séquences douces et accessibles pour les personnes très raides.
 > **Demande :** Crée une courte séance de yoga de 15 minutes pour détendre un corps raide à la maison.
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 

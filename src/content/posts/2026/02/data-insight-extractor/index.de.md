@@ -42,7 +42,6 @@ Verwenden Sie diese Version, wenn Sie nur einen schnellen Überblick benötigen.
 > **Rolle:** Du bist ein erfahrener Datenanalyst.
 > **Aufgabe:** Analysiere die folgenden Excel-Daten und leite die wichtigsten geschäftlichen Implikationen ab.
 
-\
 
 ### 🥇 Pro Version (Expertenform)
 

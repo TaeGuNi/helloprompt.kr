@@ -44,7 +44,6 @@ Usa questa versione per visualizzare rapidamente un'idea o testare l'atmosfera. 
 > **Ruolo:** Sei un regista cinematografico.
 > **Prompt:** `A cinematic drone shot of a futuristic cyberpunk city at sunset, flying cars, neon lights, 4k resolution, photorealistic`
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

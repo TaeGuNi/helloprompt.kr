@@ -40,7 +40,6 @@ Verwenden Sie diesen Ansatz, wenn Sie schnell einen mehrstufigen Prozess initiie
 > **Schritt 1:** Extrahiere die wichtigsten Kennzahlen aus `[Rohdaten]`.
 > **Schritt 2:** Erstelle basierend auf diesen Kennzahlen eine kurze Zusammenfassung.
 
-\
 
 ### 🥇 Pro Version
 

@@ -48,7 +48,6 @@ Idéal pour structurer rapidement un pipeline simple de collecte et de résumé 
 
 Utilise un processus `Sequential` pour que les deux agents travaillent l'un après l'autre et finalise le code.
 
-\
 
 ### 🥇 Version Pro (Rapport d'analyse boursière)
 

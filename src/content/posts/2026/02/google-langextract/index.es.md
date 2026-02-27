@@ -46,7 +46,6 @@ Antes de LangExtract, dependíamos de instrucciones frágiles y muy propensas a 
 >
 > **Instrucción:** Extrae la información de la siguiente reunión a partir del texto proporcionado. Devuelve ÚNICAMENTE un JSON válido con las claves `topic` (string), `participants` (array de strings), `start_time` (formato ISO) y `location` (string). No incluyas texto adicional ni bloques de código markdown.
 
-\
 
 ### 🥇 Pro Version (Versión Profesional)
 

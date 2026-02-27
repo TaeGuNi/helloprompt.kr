@@ -49,7 +49,6 @@ Utilizza questa versione quando hai bisogno di un risultato rapido senza troppe 
 > **Ruolo:** Sei un illustratore esperto di arte tradizionale giapponese.
 > **Richiesta:** Genera un'immagine di `[Soggetto]` in stile Ukiyo-e, utilizzando la tecnica della stampa su blocchi di legno. Includi onde stilizzate e paesaggi tipici dell'estetica giapponese.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

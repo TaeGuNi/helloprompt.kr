@@ -42,7 +42,6 @@ Usala quando hai bisogno di consigli rapidi su piccoli accessori per cambiare l'
 > **Ruolo:** Sei un interior designer con un ottimo senso dello spazio.
 > **Azione:** Guarda la foto della stanza in allegato e suggeriscimi 3 accessori (es. tappeti, lampade, piante) acquistabili con meno di 100 euro per rendere lo spazio più luminoso e visivamente più ampio. Indicami anche dove posizionare ciascun accessorio.
 
-\
 
 ### 🥇 Versione Pro (Pro Version)
 

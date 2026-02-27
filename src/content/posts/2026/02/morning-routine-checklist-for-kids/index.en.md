@@ -42,7 +42,6 @@ Use this when you need quick, actionable ideas.
 > **Role:** You are an expert pediatric lifestyle habit coach.
 > **Request:** Tell me how to help my 7-year-old child get ready for school independently without me having to shout or nag every morning.
 
-\
 
 ### 🥇 Pro Version (Expert Mode)
 

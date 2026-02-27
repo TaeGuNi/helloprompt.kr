@@ -42,7 +42,6 @@ Use isto quando precisar de um conselho rápido para se acalmar.
 > **Papel:** Você é um psicoterapeuta especializado em neurociência.
 > **Pedido:** Estou muito estressado agora. Quais são algumas técnicas cientificamente comprovadas, além de comer compulsivamente, para aliviar o estresse imediatamente?
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

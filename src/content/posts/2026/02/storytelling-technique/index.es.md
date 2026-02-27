@@ -42,7 +42,6 @@ Decir "Nuestra empresa fue fundada en 1990" no emociona a nadie. Pero decir "En 
 > **Rol:** Eres un `[Autor de Ensayos Bestseller y Experto en Storytelling]`.
 > **Solicitud:** Reescribe el siguiente `[Texto]` aburrido y transfórmalo en una historia atractiva que toque las emociones de los lectores, usando descripciones vívidas.
 
-\
 
 ### 🥇 Versión Pro (Expert Version)
 

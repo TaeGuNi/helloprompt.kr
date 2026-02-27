@@ -48,7 +48,6 @@ Usalo per calcoli veloci e per trovare subito la formula giusta.
 
 - Col A: Nome / Col B: Punteggio / Col C: Promosso/Bocciato
 
-\
 
 ### 🥇 Versione Pro (Automazione VBA Avanzata)
 

@@ -44,7 +44,6 @@ Verwenden Sie diese Version, wenn Sie nur schnell lauffähigen Code benötigen.
 > **Rolle:** Du bist ein erfahrener Frontend-Entwickler mit tiefgreifenden WebGPU-Kenntnissen.
 > **Aufgabe:** Schreibe den minimalistischsten HTML/JS-Beispielcode, um das Llama-3-8B Modell im Browser mittels der `@mlc-ai/web-llm` Bibliothek auszuführen. Verwende dafür einen CDN-Ansatz.
 
-\
 
 ### 🥇 Pro Version (Für Experten & Produktion)
 

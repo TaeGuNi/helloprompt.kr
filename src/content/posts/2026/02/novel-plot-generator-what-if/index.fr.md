@@ -42,7 +42,6 @@ Idéale pour un déblocage rapide et une inspiration instantanée.
 > **Rôle :** Tu es un auteur de best-sellers et un expert en construction narrative (plot doctor).
 > **Requête :** Mon histoire est bloquée. Le héros vient de découvrir que le méchant est son frère. Propose-moi 3 rebondissements originaux sous la forme de questions "Et si ?".
 
-\
 
 ### 🥇 Version Pro (Expert)
 

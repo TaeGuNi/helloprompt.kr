@@ -42,7 +42,6 @@ Use esta versão quando precisar de resultados estéticos rápidos sem precisar 
 > **Papel:** Você é um `[Especialista em Fotografia de Produtos]`.
 > **Solicitação:** Gere um prompt em inglês para IA descrevendo `[inserir tema, ex: equipamento de camping]` organizados com a técnica de Knolling, usando o estilo 'flat lay' e 'top-down view' sobre um fundo limpo.
 
-\
 
 ### 🥇 Versão Pro (Expert)
 

@@ -42,7 +42,6 @@ Utilisez cette version pour obtenir un résultat immédiat sans détails superfl
 > **Rôle :** Tu es un `[Scénariste Hollywoodien Américain et Expert en Argot]`.
 > **Demande :** Crée-moi un prompt qui trouve de vraies expressions natives, des mots à la mode et des idiomes introuvables dans les manuels, adaptés à ma situation.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

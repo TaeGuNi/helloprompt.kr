@@ -43,7 +43,6 @@ Nutzen Sie diese Variante, wenn Sie sofort ein grobes Feedback benötigen.
 > **Rolle:** Du bist ein erfahrener Karriere-Coach und anspruchsvoller Recruiter.
 > **Aufgabe:** Vergleiche die folgende Stellenbeschreibung (JD) mit meinem Lebenslauf. Identifiziere fehlende Kompetenzen (Skill Gaps) und erstelle eine Strategie, wie ich diese ausgleichen kann.
 
-\
 
 ### 🥇 Pro Version (Für tiefgehende Analysen)
 

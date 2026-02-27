@@ -46,7 +46,6 @@ Usala quando hai poco tempo e ti serve solo capire a grandi linee cosa fa una fu
 >
 > `[Incolla il tuo codice qui]`
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

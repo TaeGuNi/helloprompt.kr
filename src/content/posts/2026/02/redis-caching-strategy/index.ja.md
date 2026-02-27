@@ -45,11 +45,11 @@ tags: ["Redis", "캐싱", "백엔드", "성능최적화", "DB"]
 > 
 > **リクエスト:** 以下の関数にRedisの `Look-aside` パターンキャッシングを適用してください。
 > 
-> ```javascript
+>
 > async function getUserProfile(userId) {
 >   return await db.users.findOne({ id: userId });
 > }
-> ```
+>
 > 
 > **条件:**
 > 
@@ -58,7 +58,6 @@ tags: ["Redis", "캐싱", "백엔드", "성능최적화", "DB"]
 > - キャッシュミス（Cache Miss）時にDBから参照し、Redisに保存するロジックを明確に実装してください。
 > - 例外処理（Redisの接続に失敗した場合でもDBの参照は正常に動作すること）を必ず含めてください。
 
-\
 
 ### 🥇 Pro Version (専門家型)
 

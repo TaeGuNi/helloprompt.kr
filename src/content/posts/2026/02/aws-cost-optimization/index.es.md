@@ -42,7 +42,6 @@ Lo más aterrador de la nube no es "pagar por lo que usas", sino **"pagar por lo
 > **Rol:** Eres un Arquitecto Cloud Senior.
 > **Tarea:** Revisando la facturación de AWS, el costo de `[EBS Volume]` es anormalmente alto. Identifica todos los volúmenes no adjuntos (Unattached), instantáneas (snapshots) antiguas y direcciones Elastic IP asignadas pero sin uso. Proporciona los comandos exactos de AWS CLI para eliminarlos de forma segura, junto con las precauciones necesarias.
 
-\
 
 ### 🥇 Pro Version (Optimización de arquitectura e instancias Spot)
 

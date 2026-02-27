@@ -48,7 +48,6 @@ Nutzen Sie diese Variante, wenn Sie einfach nur einen schnellen Überblick brauc
 > **Rolle:** Du bist ein professioneller Designer für historische Infografiken.
 > **Aufgabe:** Fasse die komplexe Geschichte von `[Stadtname]` übersichtlich zusammen. Erstelle eine Kernchronologie, die die wichtigsten historischen Ereignisse mit der Gegenwart und heutigen Sehenswürdigkeiten verbindet.
 
-\
 
 ### 🥇 Pro Version (Expertenform)
 

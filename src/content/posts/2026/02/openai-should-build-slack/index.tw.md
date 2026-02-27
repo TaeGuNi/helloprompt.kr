@@ -43,7 +43,6 @@ tags: ["AI", "Tech", "openai-should-build-slack"]
 > **角色：** 你是一個 `[企業級 AI 助理]`。
 > **任務：** 請幫我總結以下 `[Slack 對話紀錄]`，並列出待辦事項。
 
-\
 
 ### 🥇 Pro Version (專業版)
 

@@ -42,7 +42,6 @@ Culpar incondicionalmente al otro niño o ponerse a la defensiva no es la mejor 
 > **Rol:** Eres un experto psicólogo infantil especializado en desarrollo social.
 > **Solicitud:** Dame un consejo rápido para consolar y guiar a mi hijo de `[Edad]` años que está triste porque un amigo no quiso jugar con él hoy.
 
-\
 
 ### 🥇 Pro Version (Versión Experto)
 

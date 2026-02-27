@@ -42,7 +42,6 @@ Verwenden Sie diese Version, wenn Sie nur schnell und unkompliziert loslegen mö
 > **Rolle:** Du bist ein professioneller Personal Trainer mit 10 Jahren Erfahrung.
 > **Anfrage:** Erstelle mir ein 20-minütiges Heimtraining ohne Geräte für Anfänger.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

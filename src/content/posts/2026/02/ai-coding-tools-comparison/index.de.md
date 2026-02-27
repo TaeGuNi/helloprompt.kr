@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt, wenn Sie die wichtigsten Unterschiede auf einen Bli
 > **Rolle:** Du bist ein trendbewusster Senior DevOps Engineer.
 > **Aufgabe:** Fasse die Hauptunterschiede zwischen GitHub Copilot, Cursor und Windsurf zusammen. Konzentriere dich dabei speziell auf die 'Fähigkeit zur Codebasis-Analyse' und die 'Autonomie der KI-Agenten'.
 
-\
 
 ### 🥇 Pro Version (Für Team-Implementierung & Migration)
 

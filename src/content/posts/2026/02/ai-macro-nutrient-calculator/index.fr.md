@@ -42,7 +42,6 @@ Idéal pour obtenir une estimation rapide et sans effort.
 > **Rôle :** Tu es un nutritionniste expert.
 > **Requête :** Analyse les calories et les macros (glucides, protéines, lipides) de ce repas : `[Description du repas ou Photo]`.
 
-\
 
 ### 🥇 Version Pro
 

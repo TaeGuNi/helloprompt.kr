@@ -44,7 +44,6 @@ Utilisez-le lorsque vous avez besoin d'un avertissement court et percutant à pa
 > **Rôle :** Tu es un `[Responsable de la sécurité informatique]`.
 > **Tâche :** Rédige un message d'alerte d'urgence interne concernant la `[CVE-2026-20841 (Vulnérabilité RCE du Bloc-notes Windows)]`. Insiste pour que les employés n'ouvrent en aucun cas des fichiers txt externes douteux et demande-leur de mettre à jour l'application immédiatement.
 
-\
 
 ### 🥇 Version experte (Pro)
 

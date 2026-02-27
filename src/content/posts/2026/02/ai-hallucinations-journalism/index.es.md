@@ -40,7 +40,6 @@ Ideal para una auditoría rápida de un borrador cuando el tiempo apremia y nece
 > **Rol:** Eres un 'Auditor de Datos' (Chief Fact-Checker) extremadamente riguroso.
 > **Instrucción:** Compara el `[Borrador del Artículo]` con los `[Datos Originales de la Entrevista]`. Identifica cualquier información añadida arbitrariamente, citas distorsionadas o expresiones exageradas que no estén respaldadas textualmente por el documento original.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 
@@ -134,4 +133,3 @@ Prompt: Escribe un artículo basándote en estas breves notas de la entrevista.
 La IA es un asistente de investigación y redacción excepcional, capaz de multiplicar la productividad en cualquier sala de redacción, pero no es el "Editor" que puede asumir la responsabilidad de la verdad periodística. Antes de presionar el botón de publicar, la verificación cruzada basada en fuentes originales ha pasado de ser una buena práctica a ser un requisito de supervivencia.
 
 ¡Protege tu carrera y la credibilidad de tu medio contra las mentiras plausibles de la IA implementando este Auditor de Integridad hoy mismo! 🍷
-```

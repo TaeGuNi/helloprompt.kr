@@ -48,7 +48,6 @@ Use this when you simply need to quickly fix formatting and add basic comments.
 > **Code:**
 > `[Paste your copied code here]`
 
-\
 
 ### 🥇 Pro Version
 

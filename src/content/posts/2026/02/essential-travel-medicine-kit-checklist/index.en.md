@@ -48,7 +48,6 @@ Use this when you need a quick, standard checklist.
 > **Role:** You are a pharmacist specializing in travel medicine.
 > **Request:** I am traveling abroad. Create a comprehensive checklist for an essential first-aid and emergency medicine kit, categorized by common travel symptoms and situations.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

@@ -39,7 +39,6 @@ Utilisez cette version pour identifier rapidement les principaux avantages et in
 > **Rôle :** Tu es un Architecte IT d'Entreprise avec 15 ans d'expérience et un redoutable consultant en Transformation Digitale (DX).
 > **Tâche :** Nous envisageons d'implémenter `[Nom de la solution d'IA envisagée]` dans notre entreprise. Fais abstraction du discours marketing et donne-moi les 3 inconvénients majeurs que nous rencontrerons sur le terrain, ainsi que les coûts cachés (Hidden Costs) que nous devons absolument vérifier.
 
-\
 
 ### 🥇 Version Pro
 

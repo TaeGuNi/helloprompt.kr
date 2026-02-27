@@ -42,7 +42,6 @@ Use this when you need a quick sparring session to test the waters.
 > **Role:** You are a meticulous and conservative HR manager.
 > **Request:** I am an employee negotiating my salary. Let's roleplay a tense salary negotiation. Evaluate my arguments and try to minimize my raise rate.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

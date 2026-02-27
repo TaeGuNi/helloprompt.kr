@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt, wenn Sie sofortige Ergebnisse ohne viele Details be
 > **Rolle:** Du bist ein erfahrener `[Finanzcoach]`, der auf minimalistisches Budgetmanagement spezialisiert ist.
 > **Aufgabe:** Wende die 50/30/20-Regel auf mein monatliches Nettoeinkommen von `[Betrag einfügen]` an und zeige mir die Aufteilung.
 
-\
 
 ### 🥇 Pro-Version (Für detaillierte Finanzplanung)
 

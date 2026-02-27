@@ -47,7 +47,6 @@ Nutzen Sie diesen Prompt, wenn Sie lediglich den unterstrichenen Text sichern un
 > **Anfrage:**
 > Extrahiere den Text aus dem angehängten Foto fehlerfrei. Fasse anschließend die Hauptaussage, die der Autor auf dieser Seite vermitteln möchte, in genau einem prägnanten Satz zusammen.
 
-\
 
 ### 🥇 Pro Version (Experten-Modus: Tiefgreifende Rezension & Action-Plan)
 

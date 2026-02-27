@@ -42,7 +42,6 @@ Idéal pour des icônes simples, des avatars ou des concepts rapides.
 > **Rôle :** Tu es un artiste pixel art rétro expérimenté.
 > **Demande :** Crée une image représentant `[votre sujet]` dans un style pixel art 16-bit, rappelant les graphismes des jeux vidéo classiques des années 90.
 
-\
 
 ### 🥇 Version Pro (Maîtrise Absolue)
 

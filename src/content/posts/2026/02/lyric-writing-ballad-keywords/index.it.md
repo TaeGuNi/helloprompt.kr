@@ -42,7 +42,6 @@ Utilizza questo prompt se hai bisogno di un'ispirazione rapida per sbloccare la 
 > **Ruolo:** Sei un paroliere professionista, noto per la tua capacità di esprimere emozioni delicate e profonde nei testi delle canzoni.
 > **Richiesta:** Scrivi una bozza di testo per una ballata malinconica utilizzando queste 3 parole chiave: `[Parola 1]`, `[Parola 2]`, `[Parola 3]`.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

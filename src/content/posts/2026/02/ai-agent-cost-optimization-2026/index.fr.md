@@ -51,7 +51,6 @@ Si vous n'utilisez pas la fonctionnalité de **mise en cache du contexte (Contex
 
 > _Pro Tip :_ Placez le contenu statique (règles, exemples) tout en haut du prompt, et le contenu dynamique (requête utilisateur, conversations récentes) tout en bas. La mise en cache fonctionne sur la base du préfixe du texte !
 
-\
 
 ### 🥇 Modèle 2 : Boucle "Résumer et Oublier (Summarize-and-Forget)"
 

@@ -44,7 +44,6 @@ Use esta versão quando precisar apenas de um resumo rápido e direto para alinh
 
 > **Transcrição:** `[Cole o texto da transcrição aqui]`
 
-\
 
 ### 🥇 Versão Pro (Qualidade Executiva)
 

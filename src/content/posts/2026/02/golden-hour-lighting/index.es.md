@@ -42,7 +42,6 @@ Ese breve momento justo después del amanecer o justo antes del atardecer, conoc
 > **Rol:** Eres un fotógrafo profesional experto en iluminación natural.
 > **Solicitud:** Genera una imagen aplicando el efecto de "Hora Dorada" para lograr un ambiente cálido y emocional en la escena.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

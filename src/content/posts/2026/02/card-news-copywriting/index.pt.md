@@ -42,7 +42,6 @@ Use esta versão quando precisar de ideias rápidas sem muitas restrições.
 > **Papel:** Você é um `[Especialista em Marketing de Conteúdo para Redes Sociais]`.
 > **Solicitação:** Crie 5 opções de manchetes impactantes e textos para um carrossel no Instagram sobre `[Tema do Post]`.
 
-\
 
 ### 🥇 Versão Pro (Expert)
 

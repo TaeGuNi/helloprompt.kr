@@ -43,7 +43,6 @@ Ideale per ottenere una bozza rapida quando sei già in viaggio e ti serve un'id
 > **Ruolo:** Sei un 'Esperto di Viaggi in Solitaria' con anni di esperienza in giro per il mondo.
 > **Richiesta:** Creare un itinerario di viaggio in solitaria sicuro ed economico per `[Destinazione]`, includendo consigli su dove mangiare da soli e come conoscere altre persone.
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

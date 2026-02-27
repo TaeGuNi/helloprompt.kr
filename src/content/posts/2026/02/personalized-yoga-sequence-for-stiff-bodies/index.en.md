@@ -43,7 +43,6 @@ Use this when you just need a quick, no-fuss routine to get started.
 >
 > **Request:** Please create a gentle, easy-to-follow, 15-minute home yoga sequence for someone with a very stiff body who is too intimidated to attend a public yoga class.
 
-\
 
 ### 🥇 Pro Version
 

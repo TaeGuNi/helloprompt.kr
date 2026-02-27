@@ -39,7 +39,6 @@ Verwenden Sie diese Version für schnelle Entwürfe oder kleine Projekte.
 > **Rolle:** Du bist ein erfahrener `[Technologie]` Software-Architekt.
 > **Aufgabe:** Entwirf eine grundlegende Systemarchitektur für `[Projekt-Idee]`.
 
-\
 
 ### 🥇 Pro Version (Experten-Version)
 

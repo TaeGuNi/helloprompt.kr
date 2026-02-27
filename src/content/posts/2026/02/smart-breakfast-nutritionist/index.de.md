@@ -42,7 +42,6 @@ Nutzen Sie diese Version, wenn Sie nur eine schnelle Menü-Idee benötigen.
 > **Rolle:** Du bist ein kreativer Koch.
 > **Aufgabe:** In meinem Kühlschrank befinden sich `[2 Eier, 1 Scheibe Toastbrot, Kirschtomaten]`. Empfiehl mir aus diesen Zutaten genau 3 Frühstücksmenüs, die ich in unter 15 Minuten zubereiten kann.
 
-\
 
 ### 🥇 Pro Version (Für Experten)
 

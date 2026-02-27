@@ -45,7 +45,6 @@ Use esta versão quando precisar entender rapidamente apenas o contexto principa
 > **Task (Tarefa):** Leia o texto abaixo e resuma de forma simples, para que até um iniciante entenda, apenas os 3 pontos mais importantes.
 > **Texto:** `[Insira o texto aqui]`
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

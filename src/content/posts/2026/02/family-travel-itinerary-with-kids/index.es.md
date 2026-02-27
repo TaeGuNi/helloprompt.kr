@@ -42,7 +42,6 @@ Viajar con niños está lleno de variables impredecibles. Deja la creación del 
 > **Rol:** Eres un experto 'Planificador de Viajes Infantiles' con 10 años de experiencia.
 > **Solicitud:** Crea un itinerario de viaje familiar a `[Destino]` durante `[Número de días]` días que sea fácil de seguir para `[Número de niños]` niños de `[Edades de los niños]` años, protegiendo la energía de los niños y la tranquilidad de los padres.
 
-\
 
 ### 🥇 Pro Version (Versión Profesional)
 

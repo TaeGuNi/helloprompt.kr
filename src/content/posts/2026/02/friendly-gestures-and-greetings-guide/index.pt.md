@@ -42,7 +42,6 @@ Use esta versão para obter respostas rápidas antes de um encontro ou viagem de
 > **Papel:** Você é um Especialista em Comunicação Cultural, mestre em etiqueta internacional e linguagem corporal.
 > **Pedido:** Vou viajar para `[País/Região]`. Quais são as saudações básicas que devo saber e quais gestos de mão ou posturas corporais eu **nunca** devo usar para não ofender os habitantes locais?
 
-\
 
 ### 🥇 Versão Pro (Expert Version)
 
@@ -118,6 +117,4 @@ Uma palavra pronunciada de forma desajeitada no idioma local, acompanhada do sor
 
 A verdadeira fluência em viagens é a empatia cultural. Armado com este prompt, você tem a chave mestra para abrir portas e construir conexões reais em qualquer lugar do mundo. Boa viagem e boas saudações! ✈️🌍
 
-```
 
-```

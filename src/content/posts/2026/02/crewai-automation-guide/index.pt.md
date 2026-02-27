@@ -48,7 +48,6 @@ Ideal para estruturar a base de um pipeline simples de pesquisa e resumo. Permit
 
 Configura o processo como `Sequential` para garantir que os dois agentes operem por ordem e conclui o código.
 
-\
 
 ### 🥇 Versão Pro (Relatório de Análise de Ações)
 

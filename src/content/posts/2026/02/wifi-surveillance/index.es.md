@@ -42,7 +42,6 @@ Ideal si necesitas comprender rápidamente los riesgos y conocer las medidas def
 > **Rol:** Eres un `[Experto en Ciberseguridad]`.
 > **Tarea:** Resume los peligros de la reciente tecnología de `[Vigilancia mediante detección WiFi (Análisis CSI)]` y proporciona 3 medidas defensivas inmediatas que cualquier persona pueda implementar hoy mismo.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

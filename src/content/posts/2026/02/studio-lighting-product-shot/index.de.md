@@ -42,7 +42,6 @@ Verwenden Sie diese Version, wenn Sie nur ein schnelles, solides Ergebnis benöt
 > **Rolle:** Du bist ein professioneller Produktfotograf.
 > **Anfrage:** Generiere ein sauberes, hochauflösendes Produktfoto mit perfekter Studiobeleuchtung (Studio Lighting) vor einem weißen Hintergrund.
 
-\
 
 ### 🥇 Pro Version (Experten-Version)
 

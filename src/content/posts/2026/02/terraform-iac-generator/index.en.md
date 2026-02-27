@@ -45,7 +45,6 @@ Use this for a quick setup when you urgently need a single test resource.
 > **Task:** Write Terraform code to create the AWS `[Service Name]` resource.
 > **Constraints:** Use the latest AWS Provider version and utilize variables instead of hardcoding values.
 
-\
 
 ### 🥇 Pro Version
 

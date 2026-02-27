@@ -45,7 +45,6 @@ Use this when you need a quick, rough structure for a simple internal team updat
 >
 > **Task:** Create a 5-slide outline for a presentation about `[Topic]`.
 
-\
 
 ### 🥇 Pro Version
 

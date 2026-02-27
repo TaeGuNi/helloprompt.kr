@@ -44,7 +44,6 @@ Utilizza questo prompt quando vuoi semplicemente delineare lo scheletro del tuo 
 > **Ruolo:** Sei un `[Technical Writer Senior]`.
 > **Task:** Basandoti sulla `[struttura dei file]` e sul `[tech stack principale]` del mio progetto, scrivi una bozza chiara e pulita di un README.md in formato Markdown.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 
@@ -67,9 +66,9 @@ Ideale per quando hai bisogno di un livello di dettaglio assoluto, in linea con 
 > - **Descrizione Breve:** `[Una riga che spieghi il valore chiave del progetto]`
 > - **Tech Stack:** `[es. React, TypeScript, TailwindCSS]`
 > - **Struttura dei File:**
->   ```text
+>
 >   [Incolla qui l'output del comando tree]
->   ```
+>
 >
 > **Vincoli (Constraints):**
 >

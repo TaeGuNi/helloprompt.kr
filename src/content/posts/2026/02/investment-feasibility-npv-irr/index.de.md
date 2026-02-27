@@ -42,7 +42,6 @@ Verwenden Sie dies, wenn Sie nur ein schnelles Ergebnis benötigen.
 > **Rolle:** Du bist ein erfahrener Experte für Finanzmodellierung.
 > **Anfrage:** Lohnt sich dieses Geschäft? Berechne den Nettobarwert (NPV) und den internen Zinsfuß (IRR) – die Schlüsselfaktoren für Investitionsentscheidungen – anhand einer einfachen Excel-Struktur.
 
-\
 
 ### 🥇 Pro Version (Experte)
 

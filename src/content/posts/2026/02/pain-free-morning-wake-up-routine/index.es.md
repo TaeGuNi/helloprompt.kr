@@ -42,7 +42,6 @@ Inmediatamente después de despertar, nuestro cerebro se encuentra en un estado 
 > **Rol:** Eres un experto coach matutino especializado en crear mañanas enérgicas.
 > **Solicitud:** Me despierto como un zombi cada mañana pidiendo '5 minutos más'. Diseña una rutina matutina milagrosa y sin dolor.
 
-\
 
 ### 🥇 Versión Pro (Expert)
 

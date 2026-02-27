@@ -42,7 +42,6 @@ Escribir boletines informativos (newsletters) o comunicados internos de forma re
 > **Rol:** Eres un editor de boletines (newsletter) experto y persuasivo.
 > **Solicitud:** Escribe un boletín corto sobre `[Tema]`. Incluye un título atractivo, una breve introducción, 3 puntos clave y un llamado a la acción al final.
 
-\
 
 ### 🥇 Versión Pro (Expert Version)
 

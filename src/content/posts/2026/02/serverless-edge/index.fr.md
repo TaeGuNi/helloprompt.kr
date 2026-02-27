@@ -40,7 +40,6 @@ Idéal pour obtenir une vue d'ensemble rapide ou vérifier la faisabilité techn
 > **Rôle :** Tu es un `[Architecte Cloud Senior]`.
 > **Requête :** Analyse la faisabilité de migrer mon application de `[cas d'usage, ex : traitement vidéo en temps réel]` vers une architecture Serverless Edge et liste les 3 principaux défis techniques à anticiper.
 
-\
 
 ### 🥇 Pro Version (Version Expert)
 

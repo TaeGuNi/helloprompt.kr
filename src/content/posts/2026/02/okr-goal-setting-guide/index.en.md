@@ -42,7 +42,6 @@ Use this when you need a fast, solid baseline for your OKRs.
 > **Role:** You are an expert OKR Coach from Google.
 > **Request:** I need to establish an inspiring Objective and 3 measurable Key Results for my `[Insert Team/Project Name]`. The main goal is to `[Insert High-Level Goal]`.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

@@ -42,7 +42,6 @@ Idéal pour mettre en place rapidement des scénarios d'automatisation simples e
 
 > **Demande :** Conçois un flux de travail détaillé pour qu'un agent IA effectue la tâche suivante : `[Résumer les newsletters reçues par e-mail et publier une synthèse sur Slack]`.
 
-\
 
 ### 🥇 Version Pro
 

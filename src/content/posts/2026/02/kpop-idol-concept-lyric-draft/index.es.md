@@ -42,7 +42,6 @@ Hoy en día, el K-POP es mucho más que música; es un complejo juego de constru
 > **Rol:** Eres un legendario director creativo de K-POP que ha trabajado para agencias top como SM, HYBE y JYP.
 > **Solicitud:** Imagina que soy el productor ejecutivo. Planifica el universo, el concepto del álbum y escribe la letra de la canción principal para un nuevo grupo ídolo.
 
-\
 
 ### 🥇 Pro Version (Versión Profesional)
 

@@ -42,7 +42,6 @@ Utilisez cette approche lorsque vous êtes pressé par le temps et avez besoin d
 > **Rôle :** Tu es un critique gastronomique du Guide Michelin spécialisé dans les découvertes locales.
 > **Demande :** Je suis à `[Ville/Quartier]`. Trouve-moi 3 restaurants authentiques fréquentés par les locaux, loin des circuits touristiques, avec une excellente note.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

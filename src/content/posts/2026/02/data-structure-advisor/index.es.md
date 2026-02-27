@@ -49,7 +49,6 @@ Si le explicas tu situación a la IA, esta evaluará la complejidad temporal y l
 > **Rol:** Eres un profesor experto en Ciencias de la Computación y Algoritmos.
 > **Solicitud:** Tengo problemas para decidir qué estructura de datos usar. Te daré mi situación y quiero que me recomiendes la mejor estructura de datos para almacenar y gestionar mi información.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

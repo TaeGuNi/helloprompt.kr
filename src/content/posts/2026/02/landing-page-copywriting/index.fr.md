@@ -43,7 +43,6 @@ Utilisez cette version lorsque vous avez besoin rapidement d'idées percutantes 
 > **Contexte :** Je souhaite rédiger l'accroche principale (Headline) d'une landing page pour une `[Application d'apprentissage de l'anglais par IA]`. La cible est composée de `[Professionnels qui bloquent à l'oral en anglais]`.
 > **Tâche :** Rédige 5 propositions d'accroches percutantes et magnétiques qui mettent en valeur la promesse suivante : "Parler anglais couramment, même sans professeur natif."
 
-\
 
 ### 🥇 Version Pro (Expert)
 

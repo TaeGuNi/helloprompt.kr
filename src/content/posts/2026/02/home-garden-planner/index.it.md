@@ -53,7 +53,6 @@ Usalo quando vuoi trovare la pianta da compagnia perfetta per i tuoi spazi e il 
 > **Formato di Output:**
 > Includi per ogni pianta il "motivo della raccomandazione", il "linguaggio dei fiori", il "livello di difficoltà per l'irrigazione" e dei "consigli pratici per l'arredamento d'interni".
 
-\
 
 ### 🥇 Versione Pro (Diagnosi d'Emergenza & Soluzioni di Recupero)
 

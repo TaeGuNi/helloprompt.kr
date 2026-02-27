@@ -50,7 +50,6 @@ Verwenden Sie diese Version, wenn Sie möglichst schnell Texte benötigen, die S
 > 
 > **Originaltext:** `[Fügen Sie hier Ihren Text ein]`
 
-\
 
 ### 🥇 Pro Version (Für Experten)
 

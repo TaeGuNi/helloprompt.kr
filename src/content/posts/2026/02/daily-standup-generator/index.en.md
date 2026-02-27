@@ -45,7 +45,6 @@ Use this when you just need a quick formatting fix for your rough notes.
 > **Task:** Convert the following rough notes into a standard Daily Standup format (Yesterday, Today, Blockers). Keep the tone professional, concise, and action-oriented.
 > **Notes:** `[Insert your messy notes here]`
 
-\
 
 ### 🥇 Pro Version
 

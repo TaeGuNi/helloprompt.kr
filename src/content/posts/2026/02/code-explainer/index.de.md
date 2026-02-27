@@ -42,7 +42,6 @@ Nutzen Sie diese Variante, wenn Sie unter Zeitdruck stehen und nur einen groben 
 > **Rolle:** Du bist ein erfahrener, geduldiger Senior-Entwickler.
 > **Anfrage:** Bitte erkläre mir diesen Code so einfach wie möglich und füge zeilenweise Kommentare hinzu, damit ich ihn als Anfänger verstehe: `[Hier Code einfügen]`
 
-\
 
 ### 🥇 Pro Version (Experten-Level)
 

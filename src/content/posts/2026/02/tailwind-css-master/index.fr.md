@@ -43,7 +43,6 @@ Utilisez ce prompt lorsque vous souhaitez simplement convertir rapidement des pr
 > **Tâche :** Convertis le code CSS suivant en utilisant les classes utilitaires Tailwind CSS les plus appropriées.
 > **CSS :** `display: flex; justify-content: center; align-items: center; height: 100vh;`
 
-\
 
 ### 🥇 Version Pro (Génération de composants)
 

@@ -39,7 +39,6 @@ Idéal pour obtenir rapidement une idée de script ou un pitch visuel.
 > **Rôle :** Tu es un `[réalisateur hollywoodien]`.
 > **Requête :** Génère une idée de court-métrage captivante sur `[thème : ex. le voyage dans le temps]`.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

@@ -49,7 +49,6 @@ Usa questo prompt quando hai a disposizione la registrazione o la trascrizione (
 > 2. Elenca in ordine di priorità gli 'Action Item' (attività pratiche) che devo gestire da oggi, in quanto responsabile del progetto.
 > 3. Se ci sono parti in cui le sfumature della discussione erano ambigue (es. un rifiuto indiretto, un'approvazione condizionata, ecc.), interpretale e chiariscile.
 
-\
 
 ### 🥇 Versione Pro (Assistente in Tempo Reale per Traduzioni e Risposte)
 

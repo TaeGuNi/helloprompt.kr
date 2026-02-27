@@ -42,7 +42,6 @@ Usala quando vuoi un'analisi veloce senza troppi fronzoli.
 > **Ruolo:** Sei un consulente finanziario esperto in gestione del debito.
 > **Richiesta:** Ho i seguenti prestiti: `[Elenco prestiti con saldo e tasso d'interesse]`. Spiegami se mi conviene usare la strategia Valanga o Palla di Neve e dammi l'ordine di rimborso esatto.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

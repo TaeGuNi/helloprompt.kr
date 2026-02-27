@@ -1,75 +1,48 @@
 ---
-import type { CollectionEntry } from "astro:content";
 import { getCollection } from "astro:content";
 import BaseHtml from "../../../components/BaseHtml.astro";
 import { LANGUAGES } from "../../../i18n/languages";
 
-type TagPost = {
-  id: string;
-  data: CollectionEntry<"posts">["data"];
-  frontmatter: CollectionEntry<"posts">["data"];
-  url: string;
-};
+const paramLang = Astro.params.lang as string;
+const paramTag = Astro.params.tag as string;
 
-export async function getStaticPaths() {
-  const now = new Date();
-  const allPosts = await getCollection("posts", ({ data }) => {
-    return data.date <= now;
-  });
-
-  const postsByLang: Record<string, TagPost[]> = {};
-
-  LANGUAGES.forEach((lang) => {
-    postsByLang[lang] = [];
-  });
-
-  allPosts.forEach((post) => {
-    LANGUAGES.forEach((lang) => {
-      if (post.id.endsWith(`index${lang}`)) {
-        const parts = post.id.split("/");
-        const slug = parts[parts.length - 2];
-
-        postsByLang[lang].push({
-          id: post.id,
-          data: post.data,
-          frontmatter: post.data, // Compatibility
-          url: `/${lang}/posts/${slug}`,
-        });
-      }
-    });
-  });
-
-  const paths = [];
-
-  for (const [lang, posts] of Object.entries(postsByLang)) {
-    // 해당 언어의 모든 태그 수집
-    const uniqueTags = [
-      ...new Set(
-        posts.flatMap((post) => post.frontmatter.tags).filter(Boolean),
-      ),
-    ];
-
-    uniqueTags.forEach((tag) => {
-      const filteredPosts = posts
-        .filter((post) => post.frontmatter.tags?.includes(tag as string))
-        .sort(
-          (a, b) =>
-            new Date(b.frontmatter.date).valueOf() -
-            new Date(a.frontmatter.date).valueOf(),
-        );
-
-      paths.push({
-        params: { lang, tag },
-        props: { posts: filteredPosts, lang },
-      });
-    });
-  }
-
-  return paths;
+// Validation
+if (!LANGUAGES.includes(paramLang) || !paramTag) {
+  return new Response("Not found", { status: 404 });
 }
 
-const { tag, lang } = Astro.params;
-const { posts } = Astro.props;
+const now = new Date();
+const allPosts = await getCollection("posts", ({ data }) => {
+  return data.date <= now;
+});
+
+// 1. Filter by language and tag
+const filteredPosts = allPosts
+  .filter((post) => post.id.endsWith(`index${paramLang}`))
+  .filter((post) => post.data.tags?.includes(paramTag))
+  .sort(
+    (a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf(),
+  );
+
+// 2. Map to layout props
+const posts = filteredPosts.map((post) => {
+  const parts = post.id.split("/");
+  const slug = parts[parts.length - 2];
+  return {
+    id: post.id,
+    frontmatter: post.data,
+    url: `/${paramLang}/posts/${slug}`,
+  };
+});
+
+// 3. Vercel ISR Caching Header (1 Day Cache for tags)
+Astro.response.headers.set(
+  "Cache-Control",
+  "public, s-maxage=86400, stale-while-revalidate=604800",
+);
+
+const tag = paramTag;
+const lang = paramLang;
 ---
 
 <BaseHtml lang={lang}>
@@ -119,7 +92,7 @@ const { posts } = Astro.props;
 
     .post-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr));
       gap: 25px;
       text-align: left;
     }
@@ -180,7 +153,7 @@ const { posts } = Astro.props;
 
   <div class="post-grid">
     {
-      posts.map((post: Post) => (
+      posts.map((post: any) => (
         <a href={post.url} class="post-card">
           <h2>{post.frontmatter.title}</h2>
           <p>{post.frontmatter.description}</p>

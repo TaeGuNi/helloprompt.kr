@@ -42,7 +42,6 @@ La **Doble Exposición (Double Exposure)** es una técnica artística fascinante
 > **Rol:** Eres un experto en fotografía artística y generación de imágenes por IA.
 > **Solicitud:** Crea una imagen de doble exposición que combine la silueta de una mujer de perfil con un bosque nocturno bajo un cielo estrellado. El fondo debe ser blanco puro.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

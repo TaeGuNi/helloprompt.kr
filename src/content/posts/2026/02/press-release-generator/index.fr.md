@@ -45,7 +45,6 @@ Utilisez cette version pour annoncer rapidement une nouvelle légère, un évén
 > **Tâche :** Rédige une brève de communiqué de presse (article factuel) destinée à être diffusée aux médias, en adoptant un ton purement objectif basé sur les informations ci-dessous.
 > **Contexte :** "Notre entreprise (Hello Prompt) vient de lancer un nouvel outil de rédaction par IA. Il est gratuit pour tous et permet de multiplier la productivité par 10."
 
-\
 
 ### 🥇 Version Pro (Article de fond et Levée de fonds)
 

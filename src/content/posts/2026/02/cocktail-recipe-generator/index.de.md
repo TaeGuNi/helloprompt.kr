@@ -43,7 +43,6 @@ Verwenden Sie diesen Prompt, wenn Sie schnell einen leckeren Drink brauchen.
 > **Situation:** In meinem Kühlschrank habe ich Wodka, Sprite und Orangensaft.
 > **Aufgabe:** Nenne mir das Mischverhältnis für einen leichten, süßen Home-Cocktail mit diesen Zutaten. (Nutze z.B. ein Schnapsglas als Maßeinheit)
 
-\
 
 ### 🥇 Pro Version (Entwicklung eines Signature-Drinks)
 

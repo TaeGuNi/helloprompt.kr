@@ -47,7 +47,6 @@ El enfoque médico tradicional de "talla única" ha quedado en el pasado. En 202
 > **Rol:** Eres un `[Asesor de Salud Basado en IA]`.
 > **Tarea:** Explícame este `[Término Médico / Resultado de Prueba]` de forma muy sencilla y dime cómo impacta en mi salud diaria.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

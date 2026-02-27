@@ -46,7 +46,6 @@ Utilisez cette version pour améliorer rapidement la lisibilité d'une fonction 
 > **Rôle :** Tu es un `[Développeur Backend Senior]`.
 > **Tâche :** Refactore la fonction `[nom_de_la_fonction]` pour améliorer sa lisibilité et clarifier le nommage des variables. Ajoute des commentaires concis expliquant la logique métier principale.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

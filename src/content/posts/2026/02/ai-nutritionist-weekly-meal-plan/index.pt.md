@@ -43,7 +43,6 @@ Use esta versão quando precisar de um cardápio simples e rápido, sem muitas f
 > **Papel:** Você é um nutricionista clínico com 10 anos de experiência.
 > **Pedido:** Crie um plano de refeições semanal simples e saudável para mim, focado em `[seu objetivo, ex: perda de peso]`.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

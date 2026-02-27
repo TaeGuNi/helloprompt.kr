@@ -49,7 +49,6 @@ Usa questo prompt per ottenere rapidamente una bozza di regole di base.
 > **Ruolo:** Sei un esperto di pedagogia infantile e un mediatore familiare.
 > **Richiesta:** Aiutami a creare 3 regole semplici per limitare l'uso dello smartphone a mio figlio, in modo che spenga YouTube senza fare capricci.
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

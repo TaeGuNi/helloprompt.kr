@@ -45,7 +45,6 @@ Ideal, wenn Sie sofortige Übersicht ohne komplexen Zeitplan benötigen. Nutzen 
 > **Prompt:**
 > Klassifiziere die oben genannten Punkte in **[Dringend/Wichtig]**, **[Hausarbeit]** und **[Arbeit]**. Schreibe sie anschließend als übersichtliche Checkliste in der optimalen Ausführungsreihenfolge um.
 
-\
 
 ### 🥇 Pro Version (Eisenhower-Matrix & Tagesplanung)
 

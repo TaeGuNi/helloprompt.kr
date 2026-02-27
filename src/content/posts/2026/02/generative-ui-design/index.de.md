@@ -52,7 +52,6 @@ Nutzen Sie diese Version, wenn Sie nur schnell eine konzeptionelle Idee für die
 > **Rolle:** Du bist ein `[Lead Product Designer]`.
 > **Aufgabe:** Beschreibe das Layout einer mobilen UI-Komponente, die den `[Reiseplan für ein Wochenende in Busan]` darstellt. Bitte füge auch Empfehlungen für Tailwind CSS-Klassen hinzu.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

@@ -42,7 +42,6 @@ Utilisez cette version pour obtenir un aperçu rapide et général de vos donné
 > **Rôle :** Tu es un Data Scientist senior.
 > **Requête :** Analyse ces données Excel composées uniquement de chiffres et dégage les principales tendances et implications commerciales. `[Coller les données ici]`
 
-\
 
 ### 🥇 Version Pro (Expert)
 

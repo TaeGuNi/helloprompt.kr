@@ -42,7 +42,6 @@ Idéale pour obtenir un itinéraire rapide sans trop de détails.
 > **Rôle :** Tu es un guide touristique local expert et un 'Planificateur de Visites Narratives' qui connaît chaque ruelle de `[Nom de la Ville]`.
 > **Requête :** Je veux une visite enrichissante sans payer un guide cher. Crée-moi un parcours de promenade historique dans cette ville, centré sur le thème suivant : `[Votre Thème]`.
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 

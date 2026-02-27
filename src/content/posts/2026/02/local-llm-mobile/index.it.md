@@ -41,7 +41,6 @@ Da utilizzare per alleggerire rapidamente una richiesta informale prima di invia
 > **Azione:** Riscrivi la seguente richiesta per renderla il 50% più breve. Usa un linguaggio estremamente diretto, elenchi puntati e rimuovi ogni ambiguità o convenevole.
 > **Richiesta originale:** `[Inserisci qui la tua richiesta troppo lunga]`
 
-\
 
 ### 🥇 Versione Pro (Pro Version)
 

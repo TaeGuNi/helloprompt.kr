@@ -42,7 +42,6 @@ Hacer ejercicio, leer, tomar vitaminas... ¿Alguna vez te has sentido culpable p
 > **Rol:** Eres un `[Coach de hábitos basado en psicología conductual]`.
 > **Tarea:** Todos los días `[me cepillo los dientes al despertar]`. Sugiéreme 3 'hábitos saludables de 1 minuto' que pueda incorporar inmediatamente después de esta acción.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

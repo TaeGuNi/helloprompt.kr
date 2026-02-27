@@ -42,7 +42,6 @@ Utilisez cette version pour une signification rapide et directe des symboles de 
 > **Rôle :** Tu es un expert en interprétation des rêves.
 > **Requête :** J'ai rêvé de `[décrivez votre rêve brièvement]`. Qu'est-ce que cela signifie ?
 
-\
 
 ### 🥇 Version Pro
 

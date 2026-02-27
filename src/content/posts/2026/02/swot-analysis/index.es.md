@@ -42,7 +42,6 @@ La herramienta más básica, pero a la vez más poderosa, para analizar una empr
 > **Rol:** Eres un Consultor de Estrategia Financiera.
 > **Solicitud:** Haz un análisis FODA rápido de la empresa `[Nombre de la Empresa]`, destacando los puntos más críticos que un inversor debe conocer hoy.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

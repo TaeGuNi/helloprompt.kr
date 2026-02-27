@@ -51,7 +51,6 @@ Leggi l'intero documento caricato ed estrai solo le informazioni relative a "Pre
 1. Riassumi i 3 insight chiave più importanti utilizzando un elenco puntato.
 2. Indica obbligatoriamente il **numero di pagina** originale che fa da fonte per ciascun insight.
 
-\
 
 ### 🥇 Versione Pro (Analisi Approfondita Codebase)
 

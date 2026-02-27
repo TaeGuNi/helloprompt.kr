@@ -45,7 +45,6 @@ No passado recente, os módulos Wasm eram blocos de execução solitários, extr
 > **Cenário:** Módulos únicos executando em silos isolados.
 > **Desafio:** Dependência extrema de _glue code_ (código de cola) complexo e chamadas de rede lentas para estabelecer a comunicação entre microsserviços.
 
-\
 
 ### 🥇 O Modelo de Componentes (2024–2026)
 

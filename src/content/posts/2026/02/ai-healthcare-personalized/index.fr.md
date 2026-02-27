@@ -51,7 +51,6 @@ Idéal pour obtenir une vue d'ensemble rapide à partir de symptômes ou de donn
 > **Rôle :** Tu es un `[Expert en Médecine de Précision et IA]`.
 > **Tâche :** Analyse ces `[Données de santé ou symptômes]` et explique-moi comment la médecine personnalisée aborderait ce cas précis, en termes simples et éducatifs.
 
-\
 
 ### 🥇 Pro Version (Version Expert)
 

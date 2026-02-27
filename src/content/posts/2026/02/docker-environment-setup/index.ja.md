@@ -44,7 +44,6 @@ tags: ["Docker", "ドッカー", "コンテナ", "デプロイ", "DevOps"]
 > **タスク:** 以下の技術スタックを用いて、アプリケーションをコンテナ化するための `Dockerfile` と `docker-compose.yml` を作成してください。
 > **技術スタック:** `[Node.js 20, NestJS, PostgreSQL]`
 
-\
 
 ### 🥇 Pro Version (専門家形)
 

@@ -39,7 +39,6 @@ El asombro inicial por la Inteligencia Artificial se ha desvanecido. Hoy en día
 > **Tarea:** Reescribe el siguiente texto generado por IA para eliminar la redundancia, los clichés típicos de ChatGPT (ej. "En resumen", "En el vertiginoso mundo") y el tono robótico. Haz que suene conversacional, directo y escrito por un experto humano que va al grano.
 > **Texto a mejorar:** `[Inserta aquí tu texto generado por IA]`
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

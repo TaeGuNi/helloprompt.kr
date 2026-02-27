@@ -47,7 +47,6 @@ Idéale pour obtenir un diagnostic de sécurité ultra-rapide en copiant simplem
 > - Nom : `[Nom de l'extension]`
 > - Autorisations requises : `[Copier/Coller la liste des autorisations affichée sur le Web Store]`
 
-\
 
 ### 🥇 Version Pro (Expert)
 

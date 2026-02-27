@@ -42,7 +42,6 @@ Nutzen Sie diesen Prompt für ein schnelles, liebevolles Ergebnis ohne viel Vorb
 > **Rolle:** Du bist ein preisgekrönter Kinderbuchautor, der es versteht, Kindern Mut und Träume zu schenken.
 > **Aufgabe:** Schreibe eine kurze, liebevolle Abenteuergeschichte für mein Kind `[Name des Kindes]`, die sein Selbstwertgefühl stärkt und es als mutigen Helden darstellt.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

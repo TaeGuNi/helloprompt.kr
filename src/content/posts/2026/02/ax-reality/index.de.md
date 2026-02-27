@@ -39,7 +39,6 @@ Nutzen Sie diesen Prompt für eine schnelle, ungeschönte Einschätzung einer KI
 > **Rolle:** Du bist ein extrem kritischer, nutzerzentrierter Produktmanager (CPO).
 > **Aufgabe:** Analysiere die folgende KI-Funktion: `[Beschreibung der KI-Funktion]`. Sag mir in drei Punkten schonungslos, ob dies ein echtes Problem löst oder nur ein nutzloses "KI-Gimmick" ist.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

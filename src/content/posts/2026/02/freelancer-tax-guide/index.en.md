@@ -42,7 +42,6 @@ Use this when you need a rapid, high-level overview of your tax situation.
 > **Role:** You are an expert `[Tax Accountant]` specializing in freelancer and gig economy taxes.
 > **Request:** Provide a clear, actionable guide on expense processing and tax deduction strategies for a freelancer preparing for their comprehensive income tax return.
 
-\
 
 ### 🥇 Pro Version (Expert Level)
 

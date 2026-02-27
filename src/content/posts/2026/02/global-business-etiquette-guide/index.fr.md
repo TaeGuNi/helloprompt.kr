@@ -48,7 +48,6 @@ Idéal pour un aperçu rapide juste avant d'entrer dans la salle de réunion.
 > **Rôle :** Tu es un `[Consultant en Affaires Internationales]` chevronné.
 > **Demande :** Je m'apprête à rencontrer un client originaire de `[Pays]`. Donne-moi les 3 règles d'or incontournables (salutations, cartes de visite, sujets à éviter) pour réussir cette rencontre et faire une excellente impression.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

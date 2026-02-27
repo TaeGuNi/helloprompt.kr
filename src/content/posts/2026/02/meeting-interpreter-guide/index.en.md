@@ -48,7 +48,6 @@ Use this prompt when you have an audio recording or an auto-generated transcript
 > 2. List the 'Action Items' that I (the Korean representative) must handle immediately, prioritized by urgency.
 > 3. If any nuances during the discussion were ambiguous (e.g., sugar-coated rejections, conditional approvals), interpret them clearly and explicitly.
 
-\
 
 ### 🥇 Pro Version (Live Interpreter & Response Coach)
 

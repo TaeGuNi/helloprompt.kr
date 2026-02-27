@@ -40,7 +40,6 @@ Usa questa versione se vuoi semplicemente inviare feedback o fare una domanda ve
 > **Destinatario:** support@helloprompt.kr
 > **Contenuto:** Descrivi liberamente eventuali errori riscontrati, idee di miglioramento o semplici domande riguardanti il nostro servizio.
 
-\
 
 ### 🥇 Versione Pro (Email per Partnership Commerciali)
 

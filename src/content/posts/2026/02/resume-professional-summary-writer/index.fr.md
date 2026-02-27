@@ -42,7 +42,6 @@ Utilisez cette version lorsque vous avez juste besoin d'un brouillon immédiat.
 > **Rôle :** Tu es un expert en personal branding et un coach en recrutement chevronné.
 > **Requête :** Rédige un résumé professionnel percutant de 3 à 5 lignes à placer en haut de mon CV pour maximiser mes chances de passer l'étape de sélection.
 
-\
 
 ### 🥇 Pro Version (Modèle Expert)
 

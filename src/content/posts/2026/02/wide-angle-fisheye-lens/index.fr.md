@@ -43,7 +43,6 @@ Utilisez cette formule lorsque vous avez besoin d'un résultat bluffant en un mi
 >
 > **Demande :** Génère une image en utilisant un objectif ultra grand angle pour capturer l'intégralité de la scène suivante : `[Description de votre scène]`.
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 

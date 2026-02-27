@@ -41,7 +41,6 @@ Utiliza este prompt si solo necesitas una guía rápida para empezar a trastear 
 > **Rol:** Eres un Ingeniero de Machine Learning experto en el ecosistema de Apple.
 > **Tarea:** Explícame paso a paso cómo convertir un modelo de Hugging Face a formato CoreML para ejecutarlo localmente en un iPhone con chip M6. Dame el script básico en Python para lograrlo.
 
-\
 
 ### 🥇 Versión Profesional (Pro Engineer)
 

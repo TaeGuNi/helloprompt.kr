@@ -48,7 +48,6 @@ Ahora, en lugar de decirle a la IA "cómo" resolver un problema, debes definir e
 > **Tarea:** Proporciona la solución óptima para `[Problema a resolver]`.
 > **Restricciones:** No expliques el proceso de forma extensa. Muestra únicamente el resultado final en formato `[Formato de salida]`.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

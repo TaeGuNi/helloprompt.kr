@@ -42,7 +42,6 @@ Verwenden Sie dies, wenn Sie unter Zeitdruck stehen und nur einen schnellen Entw
 > **Rolle:** Du bist ein erstklassiger B2B-Texter und Vertriebsexperte.
 > **Anfrage:** Erstelle eine überzeugende Angebotsgliederung für unsere `[Dienstleistung/Produkt]`, die sich an `[Zielgruppe]` richtet und deren Hauptproblem `[Problem]` löst.
 
-\
 
 ### 🥇 Pro Version (Experte)
 

@@ -42,7 +42,6 @@ Idéal pour obtenir un résultat rapide lorsque vous êtes pressé par le temps.
 > **Rôle :** Tu es un romancier primé, maître dans l'art de la description littéraire immersive.
 > **Requête :** Transforme cette phrase explicative `[Votre phrase]` en une description vivante qui fait appel aux cinq sens (visuel, auditif, olfactif, gustatif, tactile).
 
-\
 
 ### 🥇 Version Pro (Expert)
 

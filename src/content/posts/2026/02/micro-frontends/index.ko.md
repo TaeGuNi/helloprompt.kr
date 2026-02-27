@@ -39,7 +39,6 @@ tags: ["architecture", "frontend", "microservices", "web-development"]
 > **역할:** 너는 `[시니어 프론트엔드 아키텍트]`야.
 > **요청:** 현재 `[React로 작성된 거대한 단일 쇼핑몰 앱]`을 운영 중인데, 팀이 커져서 배포 병목이 심해. 이를 마이크로 프론트엔드로 분리하기 위한 도메인 나누기 전략과 추천 기술(예: Webpack Module Federation 등)을 3단계로 요약해서 제안해 줘.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

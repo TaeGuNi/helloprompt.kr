@@ -42,7 +42,6 @@ Use this when you just need a quick, generic meal plan outline.
 > **Role:** You are a Sports Nutrition Expert with 15 years of experience and a Professional Diet Consultant.
 > **Request:** Create a one-week meal plan considering my body type, target weight, and preferred foods.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

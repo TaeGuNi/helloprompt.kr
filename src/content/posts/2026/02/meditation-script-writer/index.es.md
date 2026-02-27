@@ -42,7 +42,6 @@ Todos sabemos que la meditación es beneficiosa, pero para muchos, quedarse quie
 > **Rol:** Eres un instructor experto en meditación y mindfulness. Usa un tono cálido, reconfortante y sereno.
 > **Solicitud:** Escribe un guion corto de meditación guiada de 2 minutos para ayudarme a relajarme. Actualmente me siento `[estresado/ansioso/cansado]` debido a `[motivo, ej. exceso de trabajo]`. Incluye pausas marcadas para respirar.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

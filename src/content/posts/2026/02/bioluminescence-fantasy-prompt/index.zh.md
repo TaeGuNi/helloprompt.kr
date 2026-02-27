@@ -43,7 +43,6 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fantasy", "Color"]
 >
 > A magical forest at night with bioluminescence, glowing plants and mushrooms.
 
-\
 
 ### 🥇 Pro Version (专家版)
 

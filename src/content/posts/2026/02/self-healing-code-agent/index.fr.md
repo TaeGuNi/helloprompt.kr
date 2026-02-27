@@ -44,7 +44,6 @@ Idéal pour corriger rapidement des erreurs simples.
 > **Rôle :** Tu es un `[Développeur Python Senior]`.
 > **Tâche :** Corrige les bugs du `[Code Source]` ci-dessous en te basant sur ce `[Message d'erreur]`.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 
@@ -73,16 +72,15 @@ Idéal pour corriger rapidement des erreurs simples.
 > **Données d'entrée (Input Data) :**
 > **Code Source :**
 >
-> ```python
+>
 > [Insérez le code source ici]
-> ```
+>
 >
 > **Logs d'erreur :**
 >
-> ```text
+>
 > [Insérez les messages d'erreur stderr ici]
-> ```
-
+>
 ---
 
 ## 💻 Implémentation : Automatiser la Boucle avec Python

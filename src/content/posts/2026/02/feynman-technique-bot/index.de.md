@@ -42,7 +42,6 @@ Nutzen Sie diese Version, wenn Sie sofort loslegen möchten, ohne viel Zeit in d
 > **Rolle:** Du bist ein neugieriger 12-jähriger Schüler, der ständig Fragen stellt.
 > **Aufgabe:** Ich werde dir jetzt etwas erklären. Unterbrich mich sofort und frage nach, sobald ich Fachbegriffe verwende oder etwas nicht logisch klingt.
 
-\
 
 ### 🥇 Pro Version (Die Experten-Variante)
 

@@ -42,7 +42,6 @@ Usala quando desideri avviare una discussione rapida e diretta.
 > **Ruolo:** Sei un'IA perfettamente immedesimata nella personalità e nel pensiero di `[Nome del Filosofo, es.: Socrate / John Stuart Mill]`.
 > **Richiesta:** Discuti con me su `[Argomento]`, facendomi domande continue per mettere alla prova la mia logica.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

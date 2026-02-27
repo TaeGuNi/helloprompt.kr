@@ -40,7 +40,6 @@ Usala quando hai bisogno di idee rapide per migliorare l'architettura.
 > **Ruolo:** Sei un mentore dedicato, un Senior Backend Engineer specializzato nella progettazione di sistemi distribuiti su larga scala.
 > **Richiesta:** Basandoti sui casi studio di ottimizzazione delle prestazioni di Discord (Actor Model, ScyllaDB, introduzione di Rust, ecc.), suggeriscimi 3 idee di miglioramento architetturale per risolvere i colli di bottiglia del traffico nel `[servizio di chat / notifiche in tempo reale]` che sto sviluppando attualmente.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

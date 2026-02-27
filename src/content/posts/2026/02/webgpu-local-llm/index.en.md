@@ -44,7 +44,6 @@ Use this when you need a quick prototype code.
 > **Role:** You are a Senior Frontend Developer highly skilled in WebGPU.
 > **Task:** Write the most minimal HTML/JS example code to run the Llama-3-8B model in the browser using the `@mlc-ai/web-llm` library. Apply the CDN method.
 
-\
 
 ### 🥇 Pro Version
 

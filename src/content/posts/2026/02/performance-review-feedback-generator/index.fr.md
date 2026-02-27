@@ -42,7 +42,6 @@ Utilisez cette version pour obtenir rapidement une ébauche de feedback.
 > **Rôle :** Tu es un Coach en Leadership et en Management.
 > **Demande :** Rédige un commentaire d'évaluation pour mon collaborateur. Il a excellé dans `[Réalisation positive]`, mais il doit améliorer `[Point faible/Axes d'amélioration]`. Utilise un ton professionnel et encourageant.
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 

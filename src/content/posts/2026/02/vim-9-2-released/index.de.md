@@ -40,7 +40,6 @@ Nutze diese Version, wenn du nur einen raschen Überblick über die wichtigsten 
 > **Rolle:** Du bist ein Senior-Entwickler und Übersetzer für technische Dokumentationen.
 > **Aufgabe:** Lies die folgenden `[Vim 9.2 Release Notes]` und fasse die 3 wichtigsten Änderungen auf Deutsch zusammen. Verwende eine leicht verständliche Sprache, die auch für Anfänger nachvollziehbar ist.
 
-\
 
 ### 🥇 Pro Version (Für Experten)
 

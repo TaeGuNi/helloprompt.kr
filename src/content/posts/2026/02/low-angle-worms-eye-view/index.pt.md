@@ -43,7 +43,6 @@ Ideal para quando você precisa de resultados rápidos e diretos.
 > **Role:** Você é um fotógrafo e diretor de arte especialista em enquadramentos cinematográficos.
 > **Task:** Crie um prompt detalhado usando um ângulo baixo (low angle) para enfatizar a dignidade e o tamanho avassalador do assunto, olhando-o de baixo para cima.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

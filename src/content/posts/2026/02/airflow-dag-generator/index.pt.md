@@ -44,7 +44,6 @@ Utilize esta versão para automatizar agendamentos simples e tarefas únicas.
 > **Role (Papel):** Você é um bot engenheiro de dados especialista em Python.
 > **Task (Tarefa):** Escreva um código DAG do Airflow que faça um dump de um banco de dados MySQL e faça o upload para um bucket S3 todos os dias às 6h da manhã. Use o `BashOperator` e configure para tentar novamente (retry) 2 vezes em caso de falha.
 
-\
 
 ### 🥇 Versão Pro
 

@@ -39,7 +39,6 @@ tags: ["AI Trends", "Multimodal", "Prompt Engineering", "2026"]
 > **역할:** 너는 시니어 UI/UX 디자이너야.
 > **요청:** 첨부한 스크린샷에서 사용성을 해치는 요소 3가지를 찾고 개선안을 제안해줘.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

@@ -42,7 +42,6 @@ Usala quando hai solo bisogno di un calcolo rapido e diretto.
 > **Ruolo:** Sei un esperto in gestione del rischio finanziario.
 > **Richiesta:** Calcola la dimensione ottimale del mio fondo di emergenza affinché io possa affrontare senza problemi un'improvvisa perdita del lavoro o un imprevisto. Le mie spese fisse mensili sono di `[inserire importo]`.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

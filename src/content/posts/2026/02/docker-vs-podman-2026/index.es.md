@@ -43,7 +43,6 @@ Utiliza esta versión cuando quieras comprobar sobre la marcha cómo adaptar tus
 
 > **Tarea:** Convierte el comando o script de Docker que suelo utilizar `[Tu comando docker run o script actual]` para que funcione perfectamente en el modo Rootless de Podman. En particular, indícame los posibles errores que podrían surgir con los puentes de red (network bridges) y los permisos de montaje de volúmenes (incluyendo SELinux), y proporcióname las soluciones adecuadas.
 
-\
 
 ### 🥇 Versión Pro (Transición perfecta de docker-compose a K8s)
 
@@ -66,9 +65,9 @@ Este es un prompt potente diseñado para transformar tu `docker-compose.yml` de 
 >
 > - Entorno de destino: `[Ejemplo: AWS EC2 t3.medium, RAM 4GB]`
 > - docker-compose.yml actual:
->   ```yaml
+>
 >   [Copia y pega aquí el contenido de tu docker-compose.yml]
->   ```
+>
 >
 > **Restricciones (Constraints):**
 >

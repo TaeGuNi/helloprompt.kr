@@ -48,7 +48,6 @@ Il metodo classico: essenziale in passato, ma spesso eccessivamente verboso e ma
 > **Contesto:** Sto lanciando un nuovo brand di caffè freddo artigianale.
 > **Richiesta:** Scrivi una didascalia promozionale per Instagram. Usa emoji pertinenti, includi 5 hashtag di tendenza e mantieni un tono amichevole e persuasivo.
 
-\
 
 ### 🥇 Approccio Moderno (Prompt 3.0)
 

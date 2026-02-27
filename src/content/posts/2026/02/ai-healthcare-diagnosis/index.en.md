@@ -39,7 +39,6 @@ Use this for a quick brainstorm when you are pressed for time.
 > **Role:** You are an experienced attending physician.
 > **Task:** Provide a list of potential differential diagnoses for a patient presenting with `[Symptoms]`.
 
-\
 
 ### 🥇 Pro Version
 

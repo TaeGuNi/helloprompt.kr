@@ -42,7 +42,6 @@ Use this when you need a quick burst of inspiration to break writer's block.
 > **Role:** You are a master storyteller and screenwriter, possessing the mind-bending creativity of Christopher Nolan and the meticulous suspense-building of Bong Joon-ho.
 > **Request:** I have a highly cliché story ending. Please provide 3 shocking twist ideas that completely subvert the reader's expectations based on the following premise: `[Insert your basic premise here]`.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

@@ -43,7 +43,6 @@ Utilisez ceci lorsque vous souhaitez rapidement adoucir un texte de style rappor
 > **Tâche :** Transforme le script de présentation ci-dessous en un langage oral naturel et confiant, comme si l'on s'adressait à un public. Coupe les phrases pour qu'elles soient courtes et faciles à prononcer, et mets en gras les parties à souligner.
 > **Script :** `[Insérez votre script existant ici]`
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

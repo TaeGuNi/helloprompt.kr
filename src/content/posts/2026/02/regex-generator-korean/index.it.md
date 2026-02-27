@@ -44,7 +44,6 @@ Usala quando hai bisogno di un risultato immediato senza troppe spiegazioni.
 > **Ruolo:** Sei un Maestro di Regex.
 > **Richiesta:** Scrivi un'espressione regolare per `[inserisci il pattern desiderato, es. estrarre indirizzi IP]` in `[linguaggio di programmazione, es. Python]`.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

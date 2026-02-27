@@ -42,7 +42,6 @@ Use this when you need a quick, no-fuss transformation of your experience.
 > **Role:** You are a senior executive headhunter with 15 years of experience and an expert in resume consulting.
 > **Request:** Transform my plain resume text into compelling, achievement-oriented bullet points applying the STAR (Situation, Task, Action, Result) framework.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

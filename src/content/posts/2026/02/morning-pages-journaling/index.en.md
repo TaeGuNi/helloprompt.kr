@@ -43,7 +43,6 @@ Use this when you want a light, quick check-in on your emotional state and key t
 > **Task:** Read the following journal entry I wrote, tell me the "weather" of my emotions today, and give me a word of warm comfort.
 > **Journal Entry:** `[Text written today]`
 
-\
 
 ### 🥇 Pro Version
 
@@ -75,10 +74,9 @@ Use this when you need deep inner exploration and creativity recovery, much like
 >
 > - **[Morning Pages Text]**:
 >
-> ```
+>
 > [Paste your Morning Pages content here]
-> ```
-
+>
 ---
 
 ## 💡 Writer's Insight

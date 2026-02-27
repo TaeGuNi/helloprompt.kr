@@ -49,7 +49,6 @@ Use this for rapid, single-intent autonomous execution where the agent handles t
 > **Role:** You are my personal executive assistant.
 > **Task:** Plan a trip to `[Destination]` for next weekend. Scan my calendar for free slots, compare flights on Expedia, and prepare the final booking via Google Pay. Wait for my biometric confirmation before completing the payment.
 
-\
 
 ### 🥇 Pro Version
 

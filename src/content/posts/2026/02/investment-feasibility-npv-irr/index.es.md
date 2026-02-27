@@ -42,7 +42,6 @@ No te dejes llevar solo por el beneficio esperado. El valor del dinero cambia co
 > **Rol:** Eres un `[Experto en Modelado Financiero]`.
 > **Solicitud:** Explícame de forma sencilla cómo calcular el VAN y la TIR en Excel para saber si `[descripción de mi negocio/proyecto]` es rentable o no.
 
-\
 
 ### 🥇 Versión Pro (Experto)
 

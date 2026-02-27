@@ -37,7 +37,6 @@ Use this when you need a quick overview of Quantum AI use cases and expected imp
 > **Role:** You are the world's leading Quantum AI Technology Strategy Consultant.
 > **Task:** Clearly analyze 3 real-world use cases and the expected business impacts of hybrid Quantum AI algorithms currently utilized in the `[Specific Industry, e.g., Finance, Pharmaceuticals, Logistics]` sector as of 2026.
 
-\
 
 ### 🥇 Pro Version
 

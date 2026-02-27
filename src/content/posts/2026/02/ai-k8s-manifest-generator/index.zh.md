@@ -52,7 +52,6 @@ Kubernetes (K8s) 是现代基础设施的标准，但每次从零开始手写YAM
 >
 > **限制条件:** 请将 Deployment 和 Service 用 `---` 分隔，合并写在一个文件里。
 
-\
 
 ### 🥇 Pro Version (专业版)
 

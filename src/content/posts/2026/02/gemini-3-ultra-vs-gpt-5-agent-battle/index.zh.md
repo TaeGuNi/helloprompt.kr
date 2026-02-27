@@ -51,7 +51,6 @@ tags: ["Gemini 3 Ultra", "GPT-5", "AI Agent", "LLM Comparison"]
 > **角色：** 你是一位`[资深AI开发者]`。
 > **任务：** 请为我规划一个`[自动驾驶股票投资Agent]`，并编写能够直接运行的完整Python代码。
 
-\
 
 ### 🥇 Pro Version (专业版)
 

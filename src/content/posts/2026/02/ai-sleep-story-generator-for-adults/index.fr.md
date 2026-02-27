@@ -42,7 +42,6 @@ Idéal lorsque vous êtes déjà au lit, fatigué, et que vous souhaitez un rés
 > **Rôle :** Tu es le meilleur conteur d'histoires pour s'endormir et un expert en relaxation profonde.
 > **Demande :** Raconte-moi une histoire apaisante et sans aucun suspense pour m'aider à m'endormir. Le décor est `[une plage déserte au crépuscule]`.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

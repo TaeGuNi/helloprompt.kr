@@ -42,7 +42,6 @@ La Voz del Cliente (VOC) es el activo más valioso de cualquier empresa, pero cl
 > **Rol:** Eres un experto en Experiencia del Cliente (CX) y Análisis de Datos.
 > **Solicitud:** Analiza los siguientes comentarios de clientes y clasifícalos por sentimiento (Positivo/Neutral/Negativo), resumiendo los puntos clave de cada categoría.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

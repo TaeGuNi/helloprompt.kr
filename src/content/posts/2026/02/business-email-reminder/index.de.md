@@ -42,7 +42,6 @@ Verwenden Sie dies, wenn Sie schnell einen ersten, soliden Entwurf benötigen.
 > **Rolle:** Du bist ein erfahrener Experte für Geschäftskommunikation und Verhandlungsführung.
 > **Anfrage:** Schreibe eine kurze, höfliche Erinnerungs-E-Mail an einen Geschäftspartner, der seit 3 Tagen nicht auf meine letzte Nachricht geantwortet hat. Bitte höflich um ein Update.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

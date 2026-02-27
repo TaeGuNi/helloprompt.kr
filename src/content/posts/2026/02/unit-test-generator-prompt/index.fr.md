@@ -43,7 +43,6 @@ Idéal pour un script rapide ou une fonction isolée sans dépendances complexes
 > **Rôle :** Tu es un ingénieur QA senior, expert en automatisation des tests.
 > **Requête :** Rédige des tests unitaires exhaustifs pour le code suivant afin d'atteindre 100% de couverture. Inclus les cas de succès et d'échec. `[Collez votre code ici]`
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 
@@ -66,9 +65,9 @@ Idéal pour un script rapide ou une fonction isolée sans dépendances complexes
 >
 > **Code source :**
 >
-> ```
+>
 > [Collez le code à tester ici]
-> ```
+>
 >
 > **Contraintes (Constraints) :**
 >

@@ -55,10 +55,9 @@ tags: ["Refactoring", "CleanCode", "UnitTesting", "Developer"]
 >
 > **입력 코드:**
 >
-> ```python
+>
 > [여기에 분석할 레거시 코드를 붙여넣으세요]
-> ```
-
+>
 ---
 
 ## 💡 작성자 코멘트 (Insight)

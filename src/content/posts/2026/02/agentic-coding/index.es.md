@@ -43,7 +43,6 @@ Abre tu editor de IA (el modo Composer de Cursor con `Cmd+I` o el panel Cascade 
 > **Rol:** Eres un desarrollador Senior experto en `[Next.js]`.
 > **Tarea:** Añade una `[función de recopilación de feedback de usuarios]` al proyecto actual. Genera automáticamente y conecta todos los componentes de UI y rutas de API necesarios.
 
-\
 
 ### 🥇 Pro Version (Versión Profesional)
 

@@ -42,7 +42,6 @@ Utilizza questo prompt quando hai bisogno di un server API mockup in tempi recor
 > **Ruolo:** Sei uno sviluppatore backend Python Senior.
 > **Compito:** Scrivi il codice `main.py` più basilare utilizzando FastAPI per ricevere una richiesta GET sulla rotta `/items/{item_id}` e gestire un parametro di query opzionale `q`. Includi anche il comando `uvicorn` per l'esecuzione sotto forma di commento.
 
-\
 
 ### 🥇 Versione Pro (Pro Version)
 

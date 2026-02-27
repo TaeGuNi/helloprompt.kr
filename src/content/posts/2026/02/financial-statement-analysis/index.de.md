@@ -42,7 +42,6 @@ Nutzen Sie diese Variante für einen schnellen, groben Überblick.
 > **Rolle:** Du bist ein erfahrener `[Finanzanalyst]`.
 > **Anfrage:** Fasse die wichtigsten Kernpunkte dieses Finanzberichts für eine Aktieninvestition in 1 Minute verständlich zusammen.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

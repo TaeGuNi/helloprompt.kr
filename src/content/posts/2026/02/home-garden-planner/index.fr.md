@@ -54,7 +54,6 @@ Utilisez ce prompt lorsque vous cherchez la plante parfaite qui s'adaptera à vo
 > **Format de sortie :**
 > Inclus pour chaque plante : la "Raison de la recommandation", la "Signification de la plante", le "Niveau de difficulté d'arrosage" et des "Conseils de décoration d'intérieur".
 
-\
 
 ### 🥇 Pro Version (Diagnostic d'urgence & Solution de récupération)
 

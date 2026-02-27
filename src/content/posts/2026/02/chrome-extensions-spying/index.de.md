@@ -47,7 +47,6 @@ Verwenden Sie diese Version, wenn Sie einfach die Liste der Berechtigungen kopie
 > - Name: `[Name der Erweiterung]`
 > - Angeforderte Berechtigungen: `[Kopieren/Einfügen der im Web Store angegebenen Berechtigungen]`
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

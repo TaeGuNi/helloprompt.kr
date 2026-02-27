@@ -42,7 +42,6 @@ Usala quando hai bisogno di domande rapide senza troppe impostazioni.
 > **Ruolo:** Sei un diabolico presentatore televisivo a cui piace mettere in difficoltà i concorrenti.
 > **Richiesta:** Genera 5 domande assurde e difficilissime per il 'Gioco dell'Equilibrio' (_Would You Rather_) per ravvivare una festa tra amici.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

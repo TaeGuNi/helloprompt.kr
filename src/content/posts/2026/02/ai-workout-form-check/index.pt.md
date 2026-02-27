@@ -42,7 +42,6 @@ Use esta versão quando quiser identificar rapidamente os problemas da sua postu
 > **Função:** Você é um personal trainer com 10 anos de experiência.
 > **Tarefa:** O vídeo em anexo mostra a minha postura no `[agachamento]`. Encontre os erros que apresentam risco de lesão e avalie a minha execução com uma nota de 0 a 10.
 
-\
 
 ### 🥇 Versão Profissional (Pro Version)
 

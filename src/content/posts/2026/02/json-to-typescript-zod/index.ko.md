@@ -44,7 +44,6 @@ tags: ["TypeScript", "Zod", "JSON", "타입정의", "생산성"]
 > **역할:** 너는 TypeScript와 Zod 스키마 설계에 정통한 시니어 프론트엔드 개발자야.
 > **요청:** 아래 제공하는 JSON 데이터를 분석해서 TypeScript 타입 정의와 Zod 스키마 코드로 변환해줘.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 
@@ -65,9 +64,9 @@ tags: ["TypeScript", "Zod", "JSON", "타입정의", "생산성"]
 >
 > **분석할 JSON 데이터:**
 >
-> ```json
+>
 > [여기에 변환할 JSON 데이터를 붙여넣으세요]
-> ```
+>
 >
 > **제약사항 (Constraints):**
 >

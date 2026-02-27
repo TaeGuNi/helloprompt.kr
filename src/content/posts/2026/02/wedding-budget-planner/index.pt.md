@@ -42,7 +42,6 @@ Use esta versão quando precisar apenas de um esboço rápido e geral do orçame
 > **Papel:** Você é um `[Planejador de Casamento Profissional]` com 10 anos de experiência e conselheiro financeiro de casais.
 > **Solicitação:** Crie um orçamento básico e preveja os custos para um casamento de `[30.000 Reais/Dólares]`, incluindo dicas de como economizar nas armadilhas comuns.
 
-\
 
 ### 🥇 Versão Pro (Expert Version)
 

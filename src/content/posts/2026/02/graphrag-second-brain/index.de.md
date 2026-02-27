@@ -41,7 +41,6 @@ Nutze diesen Prompt für erste Tests im Chat, wenn du schnell die wichtigsten Ke
 > **Rolle:** Du bist ein `[Datenanalyst]`.
 > **Aufgabe:** Extrahiere die zentralen Schlüsselwörter als Knoten (Nodes) und deren Beziehungen als Kanten (Edges) aus dem folgenden Text und gib das Ergebnis im JSON-Format aus.
 
-\
 
 ### 🥇 Pro Version (Für Experten & Automatisierung)
 

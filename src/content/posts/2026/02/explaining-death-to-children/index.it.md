@@ -43,7 +43,6 @@ Usa questo prompt quando sei colto di sprovvista e hai bisogno di un consiglio i
 > **Ruolo:** Sei un esperto psicologo infantile, specializzato nell'elaborazione del lutto.
 > **Richiesta:** Spiegami in parole semplici come dire a un bambino di `[Età]` anni che il suo `[Animale/Parente]` è morto, senza usare metafore come "si è addormentato".
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

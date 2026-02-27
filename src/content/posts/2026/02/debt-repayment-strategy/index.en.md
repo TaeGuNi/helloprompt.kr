@@ -42,7 +42,6 @@ Use this when you just need a quick, high-level recommendation.
 > **Role:** You are a `[Professional Financial Consultant]` specializing in debt management and credit recovery.
 > **Request:** I need to choose between the Snowball Strategy and the Avalanche Strategy. Please tell me the optimal debt repayment order that perfectly suits my current loan situation.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

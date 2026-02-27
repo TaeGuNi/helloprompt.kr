@@ -42,7 +42,6 @@ Usala quando hai bisogno di una lista rapida e senza fronzoli.
 > **Ruolo:** Sei un esperto di viaggi minimalisti.
 > **Richiesta:** Crea una lista di imballaggio essenziale per un viaggio di `[Durata]` a `[Destinazione]` considerando che porterò solo un bagaglio a mano.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

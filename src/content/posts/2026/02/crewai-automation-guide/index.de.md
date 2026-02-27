@@ -48,7 +48,6 @@ Ideal, um die Grundstruktur einer einfachen Pipeline zur Informationsbeschaffung
 >
 > Vervollständige den Code, indem du einen `Sequential`-Prozess anwendest, damit beide Agenten nacheinander arbeiten.
 
-\
 
 ### 🥇 Pro Version
 

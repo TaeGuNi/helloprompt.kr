@@ -42,7 +42,6 @@ Idéale pour obtenir un résumé rapide et clair devant une œuvre.
 > **Rôle :** Tu es un historien de l'art passionné et un guide de musée très pédagogue.
 > **Requête :** Analyse la photo de cette œuvre d'art que je te fournis et explique-moi son histoire, sa signification et ce qui la rend unique, le tout de manière simple et captivante.
 
-\
 
 ### 🥇 Version Pro (Pour une immersion totale)
 

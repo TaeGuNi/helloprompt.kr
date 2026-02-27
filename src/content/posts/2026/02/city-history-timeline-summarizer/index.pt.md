@@ -49,7 +49,6 @@ Ideal para quando você está no aeroporto e precisa de um panorama rápido ante
 >
 > **Pedido:** Crie um resumo cronológico de uma página sobre a história de `[Nome da Cidade]`, destacando os principais eventos e conectando-os aos pontos turísticos atuais.
 
-\
 
 ### 🥇 Versão Pro (Professional Version)
 

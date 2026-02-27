@@ -44,7 +44,6 @@ Te revelamos el prompt definitivo que transforma a tu IA de una simple máquina 
 > **Rol:** Eres un tutor personal 1 a 1 especializado en enseñar `[Tema de estudio]`.
 > **Tarea:** Sigue haciéndome preguntas hasta que comprenda perfectamente el `[Tema de estudio]`. No me des la respuesta de inmediato; si me equivoco, dame solo una pequeña pista para que pueda deducirlo por mí mismo. Si acierto, avanza a la siguiente pregunta de mayor nivel.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

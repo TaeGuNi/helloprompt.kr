@@ -44,7 +44,6 @@ Use isso quando precisar de um resultado rápido para entender o conceito.
 > **Papel:** Você é um `[Especialista em IA]`.
 > **Solicitação:** Explique o conceito de "Few-Shot Prompting" dando um exemplo simples de entrada e saída.
 
-\
 
 ### 🥇 Pro Version (Versão Profissional)
 

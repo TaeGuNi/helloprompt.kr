@@ -43,7 +43,6 @@ Usala quando hai bisogno di una panoramica rapida e immediata.
 >
 > **Richiesta:** Interpreta in modo semplice e comprensibile gli indicatori grafici complessi come RSI, MACD e Bande di Bollinger per il titolo `[Nome Azione/Ticker]`.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

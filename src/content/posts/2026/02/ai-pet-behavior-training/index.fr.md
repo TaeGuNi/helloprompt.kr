@@ -48,7 +48,6 @@ Idéale pour les petits tracas du quotidien ou une simple curiosité.
 - Race / Âge : `[Ex: Beagle, 3 ans]`
 - Situation : `[Ex: Il détruit les coussins quand je pars au travail]`
 
-\
 
 ### 🥇 Version Pro (Programme Personnalisé)
 

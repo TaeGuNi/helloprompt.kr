@@ -39,7 +39,6 @@ Ideale per una rapida simulazione e per rompere il ghiaccio prima di un'intervis
 > **Ruolo:** Sei un Recruiter Senior di un'azienda tech di prim'ordine.
 > **Azione:** Fammi 3 domande di colloquio mirate a capire come utilizzerei l'intelligenza artificiale per migliorare le mie performance quotidiane come `[Tuo Ruolo Desiderato, es. Junior Marketer]`.
 
-\
 
 ### 🥇 Pro Version (Modello Avanzato)
 

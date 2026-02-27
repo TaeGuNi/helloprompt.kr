@@ -42,7 +42,6 @@ Aprender una nueva habilidad a menudo se siente abrumador. Pasamos más tiempo b
 > **Rol:** Eres un `[Experto en la materia / Tutor Senior]`.
 > **Tarea:** Crea un plan de estudio de `[3 días / 3 semanas]` para aprender `[Tema a aprender]`. Incluye qué debo hacer cada día de forma práctica.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

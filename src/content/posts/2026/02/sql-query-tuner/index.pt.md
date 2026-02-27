@@ -44,7 +44,6 @@ Use quando precisar de uma resposta rápida e direta para um problema simples.
 > **Papel:** Você é um DBA Sênior com 20 anos de experiência.
 > **Solicitação:** Analise a seguinte consulta SQL, encontre os gargalos de desempenho e sugira uma versão otimizada com recomendações de índices.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

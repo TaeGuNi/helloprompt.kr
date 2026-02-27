@@ -46,7 +46,6 @@ Utilisez cette version pour obtenir un résumé direct et structuré d'un commun
 > **Tâche :** Résume l'annonce de levée de fonds suivante et identifie les 3 principaux axes stratégiques de l'entreprise.
 > **Texte :** `[Insérez le communiqué de presse ou l'article sur la série G d'Anthropic]`
 
-\
 
 ### 🥇 Version Pro (Expert)
 

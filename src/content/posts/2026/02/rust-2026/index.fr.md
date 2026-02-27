@@ -37,7 +37,6 @@ Utilisez cette version pour identifier rapidement les points d'amélioration du 
 > **Rôle :** Tu es un `[Contributeur Core Rust 2026]`.
 > **Tâche :** Optimise cet `[Ancien code Rust]` selon les dernières normes asynchrones de 2026.
 
-\
 
 ### 🥇 Version Pro
 

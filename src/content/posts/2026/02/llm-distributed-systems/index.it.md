@@ -41,7 +41,6 @@ Usa questo prompt per mappare rapidamente un'idea architetturale o validare un c
 > **Ruolo:** Sei un Architetto di Sistemi Distribuiti.
 > **Richiesta:** Progetta una Rete di Petri di base per gestire il processo di `[Inserire Processo, es. Elaborazione Ordini E-commerce]` dove un LLM è responsabile del routing dinamico. Mostrami chiaramente i Posti (Places), le Transizioni (Transitions) e dove l'LLM è autorizzato ad agire.
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

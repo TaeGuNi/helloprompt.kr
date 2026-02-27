@@ -45,7 +45,6 @@ Nous connaissons tous ce moment redouté : la réunion est terminée, et vous vo
 > **Transcription :**
 `[Insérez votre texte ou transcription brute ici]`
 
-\
 
 ### 🥇 Version Pro
 

@@ -45,7 +45,6 @@ Utiliza este prompt cuando necesites corregir rápidamente errores tipográficos
 > **Tarea:** Revisa la ortografía y el espaciado del siguiente `[texto]`, y corrige de forma natural cualquier frase que suene incómoda o carezca de fluidez. No alteres bajo ninguna circunstancia el significado original.
 > **Texto:** `[Pega tu texto aquí]`
 
-\
 
 ### 🥇 Pro Version (Versión Profesional)
 

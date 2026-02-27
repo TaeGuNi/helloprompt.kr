@@ -40,7 +40,6 @@ Enfrentarse a un sistema _legacy_ sin documentación es una de las tareas más t
 > **Tarea:** Explica qué hace este código y reescríbelo usando buenas prácticas modernas (Clean Code, principios SOLID).
 > **Código:** `[Pega tu código legacy aquí]`
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

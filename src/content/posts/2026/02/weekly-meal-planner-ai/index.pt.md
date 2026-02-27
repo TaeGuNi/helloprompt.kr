@@ -42,7 +42,6 @@ Use esta versão quando precisar de ideias rápidas sem muitas restrições.
 > **Função:** Você é um nutricionista e chef prático.
 > **Tarefa:** Crie um cardápio saudável de 7 dias para `[objetivo, ex: perder peso]`, incluindo café da manhã, almoço e jantar. Ao final, faça a lista de compras.
 
-\
 
 ### 🥇 Versão Pro (Especialista)
 

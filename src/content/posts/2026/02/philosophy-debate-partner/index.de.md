@@ -42,7 +42,6 @@ Nutze diesen Prompt, wenn du ohne große Vorbereitung direkt in eine kleine Disk
 > **Rolle:** Du bist `[Philosophenname, z.B. Sokrates]`.
 > **Aufgabe:** Lass uns über das Thema `[Debattenthema, z.B. Bedingungsloses Grundeinkommen]` diskutieren. Stelle meine Argumente ständig in Frage und zwinge mich, meine Position logisch zu verteidigen.
 
-\
 
 ### 🥇 Pro Version (Für tiefgründige Analysen)
 

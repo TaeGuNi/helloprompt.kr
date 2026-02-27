@@ -46,7 +46,6 @@ Nutzen Sie diese Variante, wenn Sie dringend und schnell nur die Ursache des Pro
 > **Rolle:** Du bist ein erfahrener Pflanzenexperte.
 > **Aufgabe:** Die Blattspitzen der Monstera auf diesem Foto werden braun und vertrocknen. Fehlt ihr Wasser oder ist es zu viel? Analysiere kurz, ob es sich um eine Krankheit handelt, nenne die Ursache und gib eine knappe Handlungsempfehlung.
 
-\
 
 ### 🥇 Pro Version (Experten-Rettungsplan)
 

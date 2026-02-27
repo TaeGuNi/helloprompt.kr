@@ -42,7 +42,6 @@ Use esta versão quando precisar de um plano rápido e direto ao ponto.
 > **Papel:** Você é um especialista em jejum intermitente e biohacking.
 > **Pedido:** Crie um horário de jejum intermitente que se adapte perfeitamente à minha rotina diária (acordo às `[7h]`, durmo às `[23h]`, almoço às `[13h]`) e dê-me dicas práticas para suportar as horas de fome.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

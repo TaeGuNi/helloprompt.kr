@@ -52,7 +52,6 @@ Perfect for quickly brainstorming screen structures and layouts.
 > **Role:** You are a `[Lead Product Designer]`.
 > **Task:** Describe the layout of a mobile UI component that shows a `[weekend trip itinerary for Busan]`. Include recommendations for Tailwind CSS classes.
 
-\
 
 ### 🥇 Pro Version
 

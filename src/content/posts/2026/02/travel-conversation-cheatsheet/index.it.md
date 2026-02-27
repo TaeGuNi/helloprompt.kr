@@ -42,7 +42,6 @@ Usala quando hai bisogno di un risultato immediato e senza fronzoli.
 > **Ruolo:** Sei un interprete madrelingua esperto nella cultura locale.
 > **Richiesta:** Crea un elenco di frasi utili e pratiche da usare immediatamente sul posto, dall'ordinazione al ristorante al check-in in hotel, fino alle emergenze.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

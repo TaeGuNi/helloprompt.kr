@@ -42,7 +42,6 @@ Use this simple prompt when you need quick, actionable advice in the heat of the
 > **Role:** You are an expert child learning psychology counselor.
 > **Request:** Provide 3 effective conversation techniques I can use right now to gently encourage my child to sit at their desk and do their homework without me forcing or nagging them.
 
-\
 
 ### 🥇 Pro Version
 

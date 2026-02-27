@@ -42,7 +42,6 @@ Use esta versão para uma análise rápida e direta ao ponto.
 > **Papel:** Você é um DBA (Administrador de Banco de Dados) Sênior com 15 anos de experiência.
 > **Solicitação:** Analise a seguinte query SQL que está lenta, otimize-a para melhor performance e sugira quais índices devo criar: `[Insira sua query aqui]`
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 
@@ -66,9 +65,9 @@ Use esta versão para análises detalhadas, considerando o banco de dados espec�
 > - Banco de Dados Utilizado: `[Ex: MySQL, PostgreSQL, Oracle, SQL Server]`
 > - Query Atual:
 >
-> ```sql
+>
 > [Cole sua query SQL lenta aqui]
-> ```
+>
 >
 > **Restrições (Constraints):**
 >

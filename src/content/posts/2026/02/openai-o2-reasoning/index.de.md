@@ -41,7 +41,6 @@ Nutzen Sie diesen Prompt, wenn Sie eine schnelle, absolut fehlerfreie Antwort au
 > **Rolle:** Du bist ein leitender Systemarchitekt.
 > **Aufgabe:** Analysiere das folgende `[Problem/Code]` auf logische Fehler und behebe sie. Zeige mir vor der Lösung kurz deine internen Gedankengänge und potenziellen Stolpersteine.
 
-\
 
 ### 🥇 Pro Version (Für hochkomplexe Analysen & MINT-Aufgaben)
 

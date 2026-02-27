@@ -44,7 +44,6 @@ Use this when you want a quick overview of the risks and basic countermeasures.
 > **Role:** You are a `[Cybersecurity Expert]`.
 > **Task:** Summarize the risks of the recently highlighted `[surveillance technology using WiFi sensing (CSI analysis)]` and provide 3 immediate, practical defense measures for the general public.
 
-\
 
 ### 🥇 Pro Version
 

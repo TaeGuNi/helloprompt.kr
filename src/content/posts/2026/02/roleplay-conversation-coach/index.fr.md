@@ -44,7 +44,6 @@ Idéal pour une mise en situation rapide sans prise de tête.
 > **Rôle :** Tu es `[rôle de l'IA, ex : un serveur de café très bavard / un agent de douane strict]`.
 > **Tâche :** Discute avec moi en anglais dans cette situation. Je suis `[mon rôle, ex : un touriste perdu / un voyageur d'affaires]`. Pose-moi des questions une par une pour faire avancer l'échange.
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 

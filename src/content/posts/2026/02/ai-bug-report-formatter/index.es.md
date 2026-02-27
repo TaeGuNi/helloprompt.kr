@@ -48,7 +48,6 @@ tags: [AI, BugReport, QA, Communication]
 >
 > **Explicación:** `[Escribe aquí la situación del error tal como la recuerdes]`
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

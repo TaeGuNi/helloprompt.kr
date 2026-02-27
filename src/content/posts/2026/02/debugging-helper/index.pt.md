@@ -42,7 +42,6 @@ Ideal para quando você precisa apenas de uma resposta rápida e direta.
 > **Papel:** Você é um `[Engenheiro de Software Sênior especialista em Depuração]`.
 > **Solicitação:** Analise a seguinte `[Mensagem de Erro]` e o `[Código]`. Identifique a causa do problema e forneça o código corrigido de forma clara e objetiva.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

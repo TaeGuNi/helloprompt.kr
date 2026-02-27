@@ -38,7 +38,6 @@ Utilize quando precisar apenas de um resumo estatístico rápido.
 > **Papel (Role):** Você é um `[Engenheiro de Infraestrutura Cloud]`.
 > **Tarefa (Task):** Analise os `[Dados Estatísticos de Discos da Backblaze 2025]` e resuma 3 insights essenciais para a construção de um armazenamento voltado para IA.
 
-\
 
 ### 🥇 Versão Pro (Especialista)
 

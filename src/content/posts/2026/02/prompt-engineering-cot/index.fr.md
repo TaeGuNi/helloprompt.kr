@@ -38,7 +38,6 @@ Utilisez cette "formule magique" à la fin de votre phrase lorsque vous voulez a
 > **Rôle :** Tu es un `[analyste logique]`.
 > **Requête :** Trouve la solution à `[ce problème ou cette situation complexe]`. **Cependant, avant de donner ta conclusion finale, prends le temps de réfléchir logiquement, étape par étape (Think step-by-step).**
 
-\
 
 ### 🥇 Pro Version (Version Expert)
 

@@ -42,7 +42,6 @@ Use this when you just need a quick, witty result.
 > **Role:** You are a sage who understands the profound principles of the universe, yet possesses the humor of a brilliant scientist.
 > **Request:** I will ask you a silly question. Surprise me with a philosophical or scientific answer that would make Socrates proud.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

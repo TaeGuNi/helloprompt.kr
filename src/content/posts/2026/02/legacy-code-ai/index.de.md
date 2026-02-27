@@ -39,7 +39,6 @@ Nutzen Sie dies für schnelle Erklärungen von schwer verständlichen Code-Snipp
 > **Rolle:** Du bist ein Senior Software Engineer.
 > **Aufgabe:** Erkläre mir präzise, was dieser Code macht und wie man ihn moderner und sauberer schreiben kann: `[HIER CODE EINFÜGEN]`
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

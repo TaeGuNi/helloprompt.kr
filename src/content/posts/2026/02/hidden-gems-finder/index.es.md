@@ -43,7 +43,6 @@ Los lugares famosos suelen estar tan abarrotados que es casi imposible disfrutar
 
 > **Solicitud:** Recomiéndame lugares tranquilos y sin turistas en `[Ciudad/Destino]`, centrándote en sitios secretos que conserven su autenticidad.
 
-\
 
 ### 🥇 Versión Pro (Experto)
 

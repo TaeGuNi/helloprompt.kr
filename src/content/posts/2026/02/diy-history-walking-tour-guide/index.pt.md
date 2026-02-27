@@ -42,7 +42,6 @@ Ideal para quando você precisa de um roteiro rápido e direto ao ponto.
 > **Papel:** Você é um 'Planejador de Passeios Narrativos' especializado em `[Nome da Cidade]`.
 > **Pedido:** Crie um roteiro de caminhada histórica pelo centro da cidade focado em `[Tema do seu interesse]`, incluindo 4 pontos principais e um local para descanso.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

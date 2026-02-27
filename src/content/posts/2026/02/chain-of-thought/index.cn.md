@@ -41,7 +41,6 @@ tags: ["Prompt Engineering", "AI", "Chain-of-Thought", "Reasoning"]
 
 > **核心指令 (Instruction)：** 让我们一步步思考 (Let's think step by step)，并详细列出你的推理过程，最后再给出结论。
 
-\
 
 ### 🥇 进阶版 (Few-Shot CoT)
 

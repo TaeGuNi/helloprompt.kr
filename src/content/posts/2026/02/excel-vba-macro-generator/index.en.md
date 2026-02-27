@@ -42,7 +42,6 @@ Use this when you need a quick, simple macro for a straightforward task.
 > **Role:** You are a seasoned Excel VBA Developer.
 > **Request:** I need to `[Describe your task, e.g., combine all sheets into one]`. Please write an Excel VBA macro that does this.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

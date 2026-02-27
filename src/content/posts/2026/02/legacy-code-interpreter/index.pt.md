@@ -42,7 +42,6 @@ Use isto para obter um entendimento rápido e direto.
 > **Papel:** Você é um Engenheiro de Software Sênior com 30 anos de experiência e especialista em refatoração de código legado.
 > **Solicitação:** Analise o seguinte código sem documentação, explique o que ele faz de forma simples e aponte os principais riscos de alterá-lo: `[Cole o código aqui]`
 
-\
 
 ### 🥇 Versão Pro (Expert)
 

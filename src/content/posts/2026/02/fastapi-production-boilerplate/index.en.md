@@ -42,7 +42,6 @@ Use this when you need a quick API mockup server up and running.
 > **Role:** You are a Senior Python Backend Developer.
 > **Task:** Write a minimal `main.py` using FastAPI that handles a GET request at `/items/{item_id}` with an optional query parameter `q`. Please include the `uvicorn` command to run the server in the comments.
 
-\
 
 ### 🥇 Pro Version
 

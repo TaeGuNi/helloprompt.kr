@@ -42,7 +42,6 @@ Idéale pour obtenir une structure rapide quand le temps vous manque.
 > **Rôle :** Tu es un Rédacteur Professionnel de Propositions Commerciales avec un taux de réussite de 90%.
 > **Demande :** Crée le plan d'une proposition commerciale captivante qui persuade le client en se concentrant sur ses problèmes et nos solutions.
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 

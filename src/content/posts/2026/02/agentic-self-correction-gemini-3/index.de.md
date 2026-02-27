@@ -45,7 +45,6 @@ Nutzen Sie diese Variante, wenn Sie schnelle Ergebnisse durch Selbstkorrektur be
 > **Rolle:** Du bist ein `[Senior Backend Engineer]`.
 > **Aufgabe:** Schreibe eine Funktion, die `[zwei sortierte Listen zusammenführt]`. Schreibe zuerst den Code, suche dann selbständig nach potenziellen Bugs oder Ineffizienzen (Kritik) und präsentiere abschließend den korrigierten, finalen Code basierend auf deiner Kritik.
 
-\
 
 ### 🥇 Pro Version (Experten-Version)
 

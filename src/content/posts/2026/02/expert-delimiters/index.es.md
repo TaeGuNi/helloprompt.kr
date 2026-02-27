@@ -48,7 +48,6 @@ Así como los humanos usamos **párrafos, comillas y signos de puntuación** par
 `[Pega tu texto o artículo aquí]`
 """
 
-\
 
 ### 🥇 Versión Pro (Estructura Avanzada)
 

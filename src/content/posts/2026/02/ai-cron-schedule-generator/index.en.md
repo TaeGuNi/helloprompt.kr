@@ -42,7 +42,6 @@ Use this when you need a quick cron expression without complex conditions.
 > **Role:** You are a `[DevOps Engineer]`.
 > **Task:** Convert `[every last Friday of the month at 11 PM]` into a Linux crontab expression. Briefly explain when it will run.
 
-\
 
 ### 🥇 Pro Version
 

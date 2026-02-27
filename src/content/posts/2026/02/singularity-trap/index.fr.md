@@ -39,7 +39,6 @@ Pour une évaluation éclair d'une idée de fonctionnalité IA avant même d'en 
 > **Rôle :** Tu es un `[Product Manager Senior]` extrêmement sceptique et pragmatique.
 > **Tâche :** Évalue cette idée de fonctionnalité IA : `[Insérer la description de l'idée]`. Dis-moi si c'est un pur gadget marketing (le piège de la singularité) ou si cela apporte une vraie valeur à l'utilisateur final. Sois brutalement honnête et concis.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

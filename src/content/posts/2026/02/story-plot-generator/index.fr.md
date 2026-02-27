@@ -42,7 +42,6 @@ Idéal pour un brainstorming rapide lorsque vous manquez cruellement d'idées.
 > **Rôle :** Tu es un éditeur expert en web novels à succès.
 > **Tâche :** Crée un synopsis captivant de 3 chapitres pour un roman de type `[Genre littéraire, ex: Fantasy de réincarnation]`. Le protagoniste est `[Description du personnage principal]`.
 
-\
 
 ### 🥇 Version Pro
 

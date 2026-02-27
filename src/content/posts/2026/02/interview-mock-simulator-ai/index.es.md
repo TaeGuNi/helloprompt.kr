@@ -43,7 +43,6 @@ El secreto para dominar una entrevista de trabajo radica en la **práctica oral 
 > **Rol:** Eres un entrevistador con 10 años de experiencia en `[Nombre de la Empresa]`. Tu personalidad es exigente, lógica y detectas rápidamente cualquier inconsistencia en el candidato.
 > **Solicitud:** Realiza una entrevista de trabajo de tensión para el puesto de `[Puesto al que aplicas]`, haciéndome preguntas de seguimiento basadas en mis respuestas.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

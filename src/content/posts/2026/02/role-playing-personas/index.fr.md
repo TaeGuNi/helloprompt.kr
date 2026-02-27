@@ -39,7 +39,6 @@ Parfait pour obtenir rapidement l'avis d'un expert sur un sujet ciblé.
 > **Rôle :** Tu es un `[Expert dans le domaine, ex: Développeur Backend Senior]`.
 > **Requête :** Résous ce `[problème spécifique]`.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

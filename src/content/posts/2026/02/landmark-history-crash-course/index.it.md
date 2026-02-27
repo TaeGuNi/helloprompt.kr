@@ -48,7 +48,6 @@ Usala quando sei di fretta davanti a un monumento e vuoi subito scoprire la sua 
 > **Ruolo:** Sei un autore di best-seller storici in grado di raccontare il passato in modo estremamente avvincente.
 > **Richiesta:** Spiegami la storia e i segreti di `[Nome del Monumento/Luogo]` in modo emozionante, tralasciando le nozioni complesse e concentrandoti sui punti chiave e sulle curiosità.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

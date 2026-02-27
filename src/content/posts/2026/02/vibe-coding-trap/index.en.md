@@ -60,12 +60,9 @@ Use this when you want to validate code or ideas you've already formulated.
 >
 > **Input Code:**
 >
-> ```javascript
+>
 > [Insert your code snippet here]
-> ```
-
-\
-
+>
 ### 🥇 Pro Version (The Architecture Inquisitor)
 
 A two-step prompt that forces you to weigh trade-offs before implementing any new feature.

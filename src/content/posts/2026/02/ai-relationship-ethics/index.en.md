@@ -46,7 +46,6 @@ Use this for a quick ethical sanity check on a specific AI interaction.
 > **Role:** You are an AI Ethics Consultant.
 > **Task:** Analyze the ethical risks and psychological impact of `[Your AI Companion Scenario]`.
 
-\
 
 ### 🥇 Pro Version
 

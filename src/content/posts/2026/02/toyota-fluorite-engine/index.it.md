@@ -44,7 +44,6 @@ Per chi ha poco tempo e vuole solo i concetti chiave.
 > **Tecnologia:** Motore di gioco proprietario sviluppato in `[Flutter/Dart]`.
 > **Impatto:** Sostituisce i vecchi sistemi rigidi di `[Toyota]` offrendo rendering 3D fluido direttamente nel cruscotto digitale.
 
-\
 
 ### 🥇 Analisi Approfondita (Pro Version)
 

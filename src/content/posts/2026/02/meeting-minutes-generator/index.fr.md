@@ -44,7 +44,6 @@ Idéale pour les points de synchronisation rapides (Daily Scrums) ou les réunio
 > 
 > [Collez vos notes de réunion ici]
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

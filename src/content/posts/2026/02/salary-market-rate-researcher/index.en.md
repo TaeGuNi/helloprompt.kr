@@ -42,7 +42,6 @@ Use this when you just need a quick, ballpark estimate.
 > **Role:** You are an expert salary compensation analyst.
 > **Request:** Please analyze the average salary range for my current job title and years of experience based on recent recruitment data. I need this to secure objective grounds for an upcoming salary negotiation.
 
-\
 
 ### 🥇 Pro Version (Expert Strategy)
 

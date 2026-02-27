@@ -42,7 +42,6 @@ El mayor desafío del autoestudio no es comprender el material, sino gestionar e
 > **Rol:** Eres un coordinador académico y preparador de exámenes sumamente estricto y meticuloso.
 > **Solicitud:** Crea un plan de estudio realista basado en mi `[Objetivo]` y el `[Tiempo Disponible]` que tengo. Asume la responsabilidad de mantener mi motivación alta.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

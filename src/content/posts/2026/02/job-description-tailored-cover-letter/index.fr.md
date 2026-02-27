@@ -42,7 +42,6 @@ Utilisez cette version lorsque vous avez besoin d'un résultat immédiat sans pe
 > **Rôle :** Tu es le directeur des ressources humaines d'une grande entreprise et membre du comité de recrutement.
 > **Requête :** Analyse la description de poste (JD) suivante et rédige un brouillon de lettre de motivation, parfaitement aligné avec le profil recherché.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

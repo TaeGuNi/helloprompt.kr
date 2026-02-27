@@ -46,7 +46,6 @@ Ideal para checagens rápidas de sintaxe, pequenos blocos lógicos ou revisões 
 > **Papel:** Você é um Desenvolvedor Sênior experiente.
 > **Solicitação:** Analise o código fornecido e aponte 3 melhorias rápidas focadas em legibilidade e performance. Responda de forma direta.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

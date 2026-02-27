@@ -45,7 +45,6 @@ Usala per annunciare rapidamente notizie leggere, eventi o il lancio di nuovi pr
 > **Richiesta:** Basandoti sulle informazioni sottostanti, scrivi un breve comunicato stampa (straight news) da distribuire alle testate giornalistiche, mantenendo un tono oggettivo.
 > **Informazioni:** "La nostra azienda (HelloPrompt) ha appena lanciato un nuovo strumento di scrittura AI. È gratuito per tutti e aumenta la produttività di 10 volte."
 
-\
 
 ### 🥇 Versione Pro (Articolo di Approfondimento e Round di Investimenti)
 

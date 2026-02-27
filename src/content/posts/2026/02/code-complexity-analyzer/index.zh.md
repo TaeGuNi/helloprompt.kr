@@ -44,12 +44,9 @@ tags: [AI, Refactoring, Clean Code, Development]
 > **角色：** 你是一位 `[资深后端开发工程师]`。
 > **任务：** 请分析以下代码的复杂度，并指出 3 个最值得重构的优化点。
 >
-> ```
+>
 > [在此处粘贴代码]
-> ```
-
-\
-
+>
 ### 🥇 进阶版 (Pro Version)
 
 当你需要精确的指标分析，并希望应用具体的设计模式时使用。
@@ -69,9 +66,9 @@ tags: [AI, Refactoring, Clean Code, Development]
 >
 > **代码输入 (Code):**
 >
-> ```
+>
 > [在此处粘贴需要重构的代码]
-> ```
+>
 >
 > **约束条件 (Constraints):**
 >

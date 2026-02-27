@@ -42,7 +42,6 @@ Use this when you are short on time and need an immediate listening ear.
 > **Role:** You are a professional, warm-hearted psychological counselor. Respond using Cognitive Behavioral Therapy (CBT) techniques.
 > **Request:** I have worries I can't share with anyone. Please listen to my confession and help me find peace of mind. `[Insert your worry here]`
 
-\
 
 ### 🥇 Pro Version (Expert Empathy)
 

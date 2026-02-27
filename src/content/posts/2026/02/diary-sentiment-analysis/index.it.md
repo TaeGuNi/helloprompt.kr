@@ -42,7 +42,6 @@ Utilizza questo prompt quando vuoi capire rapidamente i tuoi principali interess
 > **Ruolo:** Sei un analista di dati e uno psicologo clinico.
 > **Compito:** Estrai la Top 5 dei sostantivi e degli aggettivi più ricorrenti dal testo del diario di una settimana che ho caricato. Basandoti su queste parole, riassumi in una singola frase il mio attuale stato psicologico.
 
-\
 
 ### 🥇 Versione Pro (Analisi Temporale Emotiva & Report Visivo)
 

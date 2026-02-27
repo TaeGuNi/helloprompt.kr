@@ -42,7 +42,6 @@ Nutzen Sie diese Variante für einen schnellen, groben Überblick.
 > **Rolle:** Du bist ein zertifizierter Finanzplaner (CFP), der auf Altersvorsorge spezialisiert ist.
 > **Anfrage:** Hilf mir, die vage Angst vor der Altersarmut zu überwinden. Berechne mir grob, wie viel Kapital ich für den Ruhestand brauche und wie viel ich ab sofort monatlich sparen muss. Mein aktuelles Alter ist `[35]`, Rentenbeginn mit `[65]`, monatlicher Wunschbetrag: `[3000 Euro]`.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

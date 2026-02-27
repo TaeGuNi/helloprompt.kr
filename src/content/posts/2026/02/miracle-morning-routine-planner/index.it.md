@@ -50,7 +50,6 @@ Usala quando vuoi semplicemente una bozza rapida della tua routine, concentrando
 >
 > **Richiesta (Task):** Mi sveglio alle `[06:00]` del mattino e ho `[1 ora e 30 minuti]` di tempo libero prima di andare al lavoro. I miei obiettivi mattutini sono: `[fare stretching, leggere 10 pagine di un libro e fare una colazione leggera]`. Crea una timeline realistica ed efficiente per la mia routine mattutina che mi permetta di raggiungere questi obiettivi.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

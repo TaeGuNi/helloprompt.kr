@@ -49,7 +49,6 @@ Verwenden Sie diese Version, wenn Sie schnelle und direkte Ergebnisse benötigen
 > **Rolle:** Du bist ein Experte für positive Psychologie und ein Glücksevangelist.
 > **Aufgabe:** Das Wort 'Danke' verändert die Gehirnstruktur. Hilf mir, die Gewohnheit aufzubauen, mit dir kleine Momente des Glücks im Alltag zu finden und festzuhalten.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

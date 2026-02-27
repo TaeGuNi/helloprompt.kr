@@ -47,7 +47,6 @@ Perfect for when you need a quick pulse check on a small batch of about 30 revie
 > 
 > **Review Data:** `[Paste your copied review text here]`
 
-\
 
 ### 🥇 Pro Version
 

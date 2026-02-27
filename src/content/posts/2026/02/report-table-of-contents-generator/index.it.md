@@ -42,7 +42,6 @@ Usala quando hai poco tempo e ti serve una struttura standard e veloce.
 > **Ruolo:** Sei un Senior Manager esperto in pianificazione strategica.
 > **Richiesta:** Crea un indice logico e strutturato per un report aziendale sul tema `[Inserisci l'argomento del report]`.
 
-\
 
 ### 🥇 Versione Esperta (Pro Version)
 

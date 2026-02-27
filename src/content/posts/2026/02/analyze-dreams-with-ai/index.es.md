@@ -42,7 +42,6 @@ Todos hemos experimentado esa sensación: te despiertas con el corazón a mil po
 > **Rol:** Eres un experto en interpretación de sueños.
 > **Solicitud:** Anoche soñé con `[escribe tu sueño aquí]`. ¿Qué significa esto psicológicamente?
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

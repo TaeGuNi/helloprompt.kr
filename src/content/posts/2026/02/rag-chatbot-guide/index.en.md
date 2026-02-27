@@ -44,7 +44,6 @@ Use this when you need a high-level conceptual understanding of the RAG architec
 > **Task:**
 > I want to build an internal chatbot that accurately answers employee questions based on 100 internal PDF documents. Assuming we use LangChain as the framework, explain the entire data flow step-by-step so that even a beginner can understand it. Also, recommend a good free vector database suitable for a toy project.
 
-\
 
 ### 🥇 Pro Version
 

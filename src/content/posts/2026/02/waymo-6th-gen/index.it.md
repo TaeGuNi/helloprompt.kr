@@ -40,7 +40,6 @@ Usa questa versione per ottenere un riassunto rapido e delineare le caratteristi
 > **Ruolo:** Sei un esperto giornalista tecnologico.
 > **Azione:** Riassumi le novità del driver Waymo di sesta generazione, evidenziando i miglioramenti principali in elenchi puntati.
 
-\
 
 ### 🥇 Versione Avanzata (Pro Version)
 

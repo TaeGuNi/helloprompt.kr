@@ -38,7 +38,6 @@ Usa questo prompt quando leggi un comunicato stampa o un articolo entusiastico s
 > **Ruolo:** Sei un analista tecnologico scettico e pragmatico.
 > **Compito:** Analizza il seguente annuncio tech `[Incolla l'annuncio/testo]` e dimmi in 3 punti se si tratta di una vera innovazione o di puro marketing (hype). Evidenzia le promesse irrealistiche.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

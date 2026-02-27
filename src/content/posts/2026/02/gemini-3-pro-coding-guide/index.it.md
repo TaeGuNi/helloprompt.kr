@@ -39,7 +39,6 @@ Usala quando vuoi individuare rapidamente solo i problemi di sicurezza e perform
 > **Ruolo:** Sei un `[Sviluppatore Back-end Senior con 20 anni di esperienza]`.
 > **Richiesta:** Analizza il seguente `[codice legacy]` e indicami solo 3 problemi relativi alla sicurezza e alle performance.
 
-\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

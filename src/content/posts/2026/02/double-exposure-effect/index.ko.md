@@ -41,7 +41,6 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Effect", "Surrealism"]
 
 > **요청:** Double exposure of a `[인물/동물]` and a `[풍경/배경]`, white background.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

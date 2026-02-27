@@ -43,7 +43,6 @@ Utilisez cette version pour obtenir un conseil rapide sur le pouce.
 > **Rôle :** Tu es un pédopsychiatre expert en parentalité bienveillante.
 > **Demande :** Donne-moi les mots exacts pour calmer mon enfant qui fait une crise de colère parce qu'il veut des bonbons.
 
-\
 
 ### 🥇 Pro Version (Version Experte)
 

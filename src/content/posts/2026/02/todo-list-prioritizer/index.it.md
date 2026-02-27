@@ -43,7 +43,6 @@ Usala quando hai bisogno di stabilire rapidamente un ordine senza impostazioni c
 > **Azione:** Questa è la mia lista di cose da fare per oggi. Mettile in ordine partendo dalla più importante.
 > `[Incolla qui la tua lista di compiti in modo casuale]`
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

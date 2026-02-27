@@ -47,7 +47,6 @@ Use este prompt quando tiver a gravação da reunião ou a transcrição gerada 
 > 2. Liste, em ordem de prioridade, os 'Action Items' que eu preciso resolver a partir de hoje.
 > 3. Se houve alguma parte da discussão com nuances ambíguas (ex: uma recusa indireta, aprovação condicional, etc.), explique-a com clareza em português.
 
-\
 
 ### 🥇 Pro Version (Versão Profissional)
 

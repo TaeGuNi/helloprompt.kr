@@ -55,7 +55,6 @@ Rédige un script de présentation d'une minute capable de captiver immédiateme
 2. Exclus les expressions abstraites (assiduité, effort, etc.) et utilise des anecdotes concrètes.
 3. Rédige des phrases courtes et fluides avec un ton conversationnel naturel pour faciliter la prise de parole.
 
-\
 
 ### 🥇 Version Pro (Pour les profils expérimentés)
 

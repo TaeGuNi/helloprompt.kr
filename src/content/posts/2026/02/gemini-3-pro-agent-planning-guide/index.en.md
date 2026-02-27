@@ -46,7 +46,6 @@ Perfect for quickly sketching out the skeleton of an idea during a meeting.
 > **Task:** Based on the `[idea]` I provide, outline 3 essential features this AI agent must have and identify 1 potential major challenge during development.
 > **Idea:** `[Insert a brief description of the agent you want to build]`
 
-\
 
 ### 🥇 Pro Version (Deep Think Optimized)
 

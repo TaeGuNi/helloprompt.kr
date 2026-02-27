@@ -42,7 +42,6 @@ Verwenden Sie dies, wenn Sie schnell und unkompliziert ein ansprechendes Ergebni
 > **Rolle:** Du bist ein professioneller Papierkünstler und Illustrator.
 > **Anfrage:** Erstelle einen Bildgenerator-Prompt im Paper-Cutout- und Origami-Stil. Das Bild soll aussehen, als bestünde es aus mehreren übereinandergeklebten Papierschichten mit realistischen Schatten. Thema: `[Dein Thema, z.B. eine Eule im Wald]`.
 
-\
 
 ### 🥇 Pro Version (Expertenmodus)
 

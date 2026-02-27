@@ -43,7 +43,6 @@ Nutzen Sie diese Variante für einen schnellen Architektur-Überblick oder eine 
 > **Rolle:** Du bist ein Senior Cloud Native Architekt mit Spezialisierung auf WebAssembly (Wasm) und Serverless-Technologien.
 > **Aufgabe:** Erstelle ein High-Level-Architekturkonzept für `[Projekt- oder Anwendungsname]`, das primär auf Wasm-Modulen basiert, um Kaltstartzeiten und Hosting-Kosten radikal zu minimieren.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

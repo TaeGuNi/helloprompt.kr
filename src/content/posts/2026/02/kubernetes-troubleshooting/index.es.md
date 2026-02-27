@@ -47,7 +47,6 @@ Solucionar problemas en un entorno de Kubernetes (K8s) siempre es desconcertante
 > **Tarea:**
 > Resume de forma muy sencilla, desde la perspectiva de un desarrollador, cuál es la causa principal de este error (ej: falta de memoria, error de permisos, timeout de red, etc.). Además, indícame 2 puntos clave que deba revisar inmediatamente.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

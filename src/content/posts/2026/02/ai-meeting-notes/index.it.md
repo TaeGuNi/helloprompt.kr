@@ -40,7 +40,6 @@ Usala quando hai bisogno di un riassunto veloce e non hai tempo per i dettagli.
 > **Compito:** Riassumi i seguenti appunti della riunione. Estrai i punti chiave e le azioni da intraprendere.
 > **Appunti:** `[INSERISCI QUI GLI APPUNTI O LA TRASCRIZIONE]`
 
-\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

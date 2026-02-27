@@ -45,11 +45,11 @@ tags: ["Redis", "캐싱", "백엔드", "성능최적화", "DB"]
 > 
 > **指令 (Task)：** 请为以下函数引入 Redis `Look-aside` 旁路缓存模式。
 >
-> ```javascript
+>
 > async function getUserProfile(userId) {
 >   return await db.users.findOne({ id: userId });
 > }
-> ```
+>
 >
 > **要求 (Constraints)：**
 >
@@ -58,7 +58,6 @@ tags: ["Redis", "캐싱", "백엔드", "성능최적화", "DB"]
 > - 明确实现缓存未命中（Cache Miss）时，从数据库读取并写入 Redis 的完整逻辑。
 > - 必须包含异常处理机制（即使 Redis 连接失败，也要保证能回退到数据库查询，不影响主流程）。
 
-\
 
 ### 🥇 Pro Version (专家版)
 

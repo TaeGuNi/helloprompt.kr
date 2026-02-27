@@ -42,7 +42,6 @@ Für den schnellen Routen-Check am Morgen.
 > **Rolle:** Du bist ein erfahrener `[Verkehrsexperte]`.
 > **Aufgabe:** Finde die schnellste Route von `[Startpunkt]` nach `[Zielort]` für die Ankunft um `[Uhrzeit]`.
 
-\
 
 ### 🥇 Pro Version (Experte)
 

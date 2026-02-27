@@ -41,7 +41,6 @@ Nutzen Sie diese Variante für schnelle Aufgaben mit mittelgroßen Datensätzen,
 > **Rolle:** Du bist ein `[Senior Data Analyst]`.
 > **Anfrage:** Analysiere den Text und extrahiere `[spezifische Information / Muster]`. Antworte präzise und nenne die genauen Textstellen aus dem beigefügten Dokument: `[Dokument einfügen]`
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

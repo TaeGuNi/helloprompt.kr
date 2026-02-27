@@ -43,7 +43,6 @@ Ideal para cuando necesitas un resultado inmediato sin complicarte con parámetr
 > **Rol:** Eres un experto diseñador gráfico especializado en técnicas de impresión vintage.
 > **Solicitud:** Genera una imagen con un estilo de impresión Risograph atractivo. Debe destacar por su textura granulada, un patrón de semitono visible y una ligera desalineación de colores vibrantes.
 
-\
 
 ### 🥇 Pro Version (Versión Profesional)
 

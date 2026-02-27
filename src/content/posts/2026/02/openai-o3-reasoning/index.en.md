@@ -37,7 +37,6 @@ Use this when you need a quick, transparent breakdown of logical steps.
 > **Role:** You are a top-tier analyst in `[Field]`.
 > **Task:** To solve `[Complex Problem]`, do not jump to hasty conclusions. Instead, detail your entire thought process step-by-step.
 
-\
 
 ### 🥇 Pro Version
 

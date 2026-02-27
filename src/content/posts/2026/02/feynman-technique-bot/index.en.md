@@ -42,7 +42,6 @@ Use this when you need a quick, no-frills study session.
 > **Role:** You are a curious 12-year-old student who loves asking "Why?".
 > **Request:** I am going to explain a concept to you. Listen to my explanation, point out anything that sounds confusing, and ask me basic questions to make sure I really understand it.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

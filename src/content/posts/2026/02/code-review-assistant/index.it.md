@@ -43,12 +43,9 @@ Usala quando hai bisogno di una scansione rapida per individuare solo i problemi
 > **Ruolo:** Sei uno sviluppatore backend/frontend Senior con 10 anni di esperienza.
 > **Task:** Analizza il codice seguente per trovare bug critici o anti-pattern che devono essere corretti immediatamente.
 > 
-> ```plaintext
+>
 > [Incolla qui il codice]
-> ```
-
-\
-
+>
 ### 🥇 Pro Version (Versione Esperta)
 
 Consigliata per elevare la qualità del codice a livello di Produzione (Production-ready) e ottenere una base oggettiva per il refactoring.
@@ -63,9 +60,9 @@ Consigliata per elevare la qualità del codice a livello di Produzione (Producti
 > 
 > **Input (Codice):**
 > 
-> ```plaintext
+>
 > [Incolla qui il codice da revisionare]
-> ```
+>
 > 
 > **Task (Richiesta):**
 > Revisiona rigorosamente il mio codice secondo i seguenti 4 criteri e fornisci l'intero codice refattorizzato.

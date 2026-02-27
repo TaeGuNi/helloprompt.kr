@@ -44,7 +44,6 @@ Usa questo prompt quando hai bisogno rapidamente di un'idea e di una bozza di pr
 > **Ruolo:** Sei il `[Concierge di un hotel a 5 stelle]`.
 > **Task:** Organizza un itinerario di `[2 giorni e 1 notte]` per una staycation a casa mia questo weekend. Il tema è `[binge-watching su Netflix e cibo a domicilio]`.
 
-\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

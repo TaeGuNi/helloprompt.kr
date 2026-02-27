@@ -45,7 +45,6 @@ Ya no necesitas publicar fotos en foros o en grupos de internet esperando respue
 
 > **Petición:** Las puntas de las hojas de la Monstera en la foto se están quemando y volviendo marrones. ¿Le falta agua o me he pasado? Dime brevemente la causa y qué debo hacer por si está enferma.
 
-\
 
 ### 🥇 Versión Pro (Solución experta de reanimación)
 

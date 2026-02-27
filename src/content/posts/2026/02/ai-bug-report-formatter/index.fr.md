@@ -48,7 +48,6 @@ Utilisez cette version lorsque vous souhaitez obtenir rapidement la structure de
 >
 > **Description :** `[Décrivez ici la situation du bug telle qu'elle vous vient à l'esprit]`
 
-\
 
 ### 🥇 Pro Version (Version Expert)
 

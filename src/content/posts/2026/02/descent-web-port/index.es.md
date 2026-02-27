@@ -41,7 +41,6 @@ Ideal para obtener una visión general rápida de cómo funciona un repositorio 
 > **Rol:** Eres un Ingeniero de Software Senior experto en WebGL, Three.js y WebAssembly.
 > **Tarea:** Explícame a alto nivel cómo funciona la arquitectura del repositorio de GitHub de la adaptación web de Descent (`three-descent`). ¿Cómo se comunican los módulos WASM y Three.js en este proyecto para lograr un buen rendimiento?
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

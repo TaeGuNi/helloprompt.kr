@@ -42,7 +42,6 @@ Idéal pour obtenir rapidement l'essentiel avant de prendre une photo.
 > **Rôle :** Tu es un 'Auteur de romans historiques à succès' passionnant.
 > **Requête :** Raconte-moi l'histoire du `[Nom du Monument]` de manière captivante. Concentre-toi sur les anecdotes clés sans utiliser de jargon difficile ni de longues listes de dates.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

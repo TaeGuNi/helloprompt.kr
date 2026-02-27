@@ -42,7 +42,6 @@ Use isso quando precisar apenas de um resultado rápido e direto ao ponto.
 > **Papel:** Você é um Especialista Sênior em CS (Customer Success).
 > **Solicitação:** Analise a lista de comentários de clientes a seguir, realize uma análise de sentimento (Positivo/Neutro/Negativo) e resuma os principais pontos. `[INSERIR DADOS AQUI]`
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

@@ -42,7 +42,6 @@ Verwenden Sie diese Version, wenn Sie nur einen schnellen Lösungsansatz benöti
 > **Rolle:** Du bist ein erfahrener Physikprofessor und Problemlösungsexperte.
 > **Anfrage:** Lies die folgende Textaufgabe, analysiere die physikalische Situation und nenne mir die Formel, die ich zur Lösung verwenden muss: `[Hier Aufgabe einfügen]`
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

@@ -45,7 +45,6 @@ Nutzen Sie dies, wenn Sie eine klare Richtung ohne komplexe Analysen benötigen.
 > **Kontext:** Unser Team besteht aktuell aus `[3 React-Entwicklern und 1 Node.js-Backend-Entwickler]`. Wir planen die Entwicklung einer `[standortbasierten Liefer-App]`.
 > **Anweisung:** Sollen wir uns in dieser Situation für React Native oder Flutter entscheiden? Nenne mir die 3 wichtigsten, ausschlaggebenden Gründe für deine klare Empfehlung.
 
-\
 
 ### 🥇 Pro Version (Für tiefgehende CTO-Analysen)
 

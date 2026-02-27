@@ -44,12 +44,9 @@ Use this when you need a rapid assessment of code issues.
 > **Role:** You are a `[Senior Backend Developer]`.
 > **Task:** Analyze the complexity of the code below and point out 3 specific refactoring strategies to improve it.
 >
-> ```
+>
 > [Paste your code here]
-> ```
-
-\
-
+>
 ### 🥇 Pro Version
 
 Use this for precise metric analysis and the application of specific design patterns.
@@ -69,9 +66,9 @@ Use this for precise metric analysis and the application of specific design patt
 >
 > **Code:**
 >
-> ```
+>
 > [Paste the code to refactor here]
-> ```
+>
 >
 > **Constraints:**
 >

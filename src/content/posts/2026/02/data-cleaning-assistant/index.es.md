@@ -68,12 +68,11 @@ El truco clave aquí es: para decenas o cientos de registros, conviértelos dire
 >
 > **Datos de entrada (Input):**
 >
-> ```csv
+>
 > Juan Pérez, 600 123 456, Madrid centro, test@test.com
 > María López, 600.987.654, Barcelona ciudad, invalid-email
 > Carlos Ruiz, 91-123-4567, Valencia Capital,
-> ```
-
+>
 ---
 
 ## 💡 Comentario del Autor (Insight)

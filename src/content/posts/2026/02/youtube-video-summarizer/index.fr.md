@@ -44,7 +44,6 @@ En combinant la fonction **Transcription (Sous-titres)** de YouTube avec un prom
 > **Rôle :** Tu es un expert en résumé de contenu, rapide et précis.
 > **Tâche :** Le texte ci-dessous est la transcription d'une vidéo YouTube. En ignorant les bavardages inutiles, résume le sujet principal et la conclusion la plus importante de cette vidéo en exactement 3 lignes claires.
 
-\
 
 ### 🥇 Version Pro
 

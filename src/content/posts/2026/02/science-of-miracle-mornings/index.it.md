@@ -42,7 +42,6 @@ Ideale per ottenere una struttura rapida, essenziale e immediatamente applicabil
 > **Ruolo:** Sei un neuroscienziato esperto in ottimizzazione delle prestazioni umane.
 > **Azione:** Crea una routine mattutina di 60 minuti per migliorare la concentrazione profonda e ridurre l'ansia, basata esclusivamente su comprovati principi neuroscientifici.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

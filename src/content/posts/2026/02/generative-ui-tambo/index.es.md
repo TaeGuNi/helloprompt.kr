@@ -45,7 +45,6 @@ Para implementar esto rápidamente en tu proyecto, no escribas el código desde 
 > **Rol:** Eres un desarrollador Senior en React y experto en integraciones de IA.
 > **Instrucción:** Crea un componente React llamado `PlaceCard` para mostrar información turística y genera el código necesario para registrarlo en `Tambo SDK` usando Zod para la validación de sus props (nombre, descripción, puntuación). Usa Tailwind CSS para los estilos.
 
-\
 
 ### 🥇 Pro Version (Versión Arquitectónica)
 

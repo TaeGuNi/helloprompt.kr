@@ -1,6 +1,6 @@
 // @ts-check
 
-import sitemap from "@astrojs/sitemap";
+import vercel from "@astrojs/vercel";
 import AstroPWA from "@vite-pwa/astro";
 import { defineConfig } from "astro/config";
 import { visit } from "unist-util-visit";
@@ -48,15 +48,25 @@ function rehypeWrap() {
 
         parent.children[index] = wrapper;
       }
+
+      // 3. 이미지 리소스 최적화 (Lazy Load & Async Decode)
+      if (node.tagName === "img") {
+        node.properties = node.properties || {};
+        node.properties.loading = "lazy";
+        node.properties.decoding = "async";
+      }
     });
   };
 }
 
 // https://astro.build/config
 export default defineConfig({
+  output: "server",
+  adapter: vercel({
+    isr: true,
+  }),
   site: "https://helloprompt.kr",
   integrations: [
-    sitemap(),
     AstroPWA({
       registerType: "autoUpdate",
       manifest: {
@@ -87,6 +97,7 @@ export default defineConfig({
     }),
   ],
   markdown: {
+    // remarkPlugins: [remarkStrictTemplate], // Disabled: Causes synchronous event loop blocking on heavy multi-language builds
     rehypePlugins: [rehypeWrap],
   },
 });

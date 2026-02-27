@@ -43,7 +43,6 @@ Nutzen Sie diesen Prompt für eine schnelle, unkomplizierte Nährwertschätzung.
 >
 > **Aufgabe:** Ich habe gerade `[1 Portion scharf gebratenes Schweinefleisch mit Reis und eine Tasse Kaffee]` gegessen. Analysiere die geschätzten Kalorien sowie die Aufteilung von Kohlenhydraten, Proteinen und Fetten in Gramm. Stelle das Ergebnis in einer übersichtlichen Tabelle dar.
 
-\
 
 ### 🥇 Pro Version (Experte)
 

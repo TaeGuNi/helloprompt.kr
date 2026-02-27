@@ -53,7 +53,6 @@ GitHub Copilot X2, Devin Pro와 같은 **자율 코딩 에이전트(Autonomous C
 > **요청:** `[src/legacy/auth.ts]` 파일을 리팩토링해서 가독성을 높이고 모듈화해줘.
 > **조건:** 기존 API 시그니처는 절대 바꾸지 말고, 수정 후 테스트 코드를 통과하는지 확인해.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

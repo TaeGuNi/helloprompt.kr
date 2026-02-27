@@ -41,7 +41,6 @@ Nutzen Sie diese Basis-Version, um das LLM von Anfang an auf Testbarkeit zu foku
 > **Aufgabe:** Schreibe eine Python-Funktion für `[Dein Problem, z. B. Fibonacci-Zahlen berechnen]`.
 > **Bedingung:** Liefere nicht nur die Funktion, sondern auch einen minimalen Test-Harness (Assertions), um zu beweisen, dass der Code funktioniert.
 
-\
 
 ### 🥇 Pro Version (Für komplexe Algorithmen & Debugging)
 

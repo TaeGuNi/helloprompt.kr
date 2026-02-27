@@ -42,7 +42,6 @@ Use this when you are standing in front of a painting and need immediate guidanc
 > **Role:** You are an 'Art Therapist' who helps people connect with their inner emotions through art.
 > **Request:** I am looking at a piece of modern art and find it difficult to understand. Give me a beginner-friendly appreciation guide to help me lower my guard and simply enjoy the gallery experience.
 
-\
 
 ### 🥇 Pro Version (Deep Dive)
 

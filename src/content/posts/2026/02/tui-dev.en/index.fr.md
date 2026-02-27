@@ -38,7 +38,6 @@ Idéale lorsque vous avez besoin d'obtenir rapidement l'ossature et le layout de
 > **Rôle :** Tu es un développeur Senior `[Go/Rust/Python/Node.js]` et un expert en conception de TUI (Text User Interface).
 > **Tâche :** Rédige le code de scaffolding de base d'une application TUI destinée à `[Objectif de l'application]` en utilisant `[Langage et Framework]`. L'architecture doit comporter une barre latérale (sidebar) à gauche et une zone d'affichage principale (viewport) à droite.
 
-\
 
 ### 🥇 Version Pro
 

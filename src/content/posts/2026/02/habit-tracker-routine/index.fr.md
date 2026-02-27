@@ -43,7 +43,6 @@ Utilisez ceci lorsque vous avez besoin d'une routine simple à appliquer dès ce
 > **Contexte :** Je suis un employé de bureau ordinaire, et je suis toujours trop fatigué après le travail pour faire quoi que ce soit.
 > **Tâche :** Crée-moi un programme de routine du soir réaliste pour que je puisse faire au moins un peu de `[anglais, sport à la maison, lecture]` tous les jours.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

@@ -39,7 +39,6 @@ To provide a seamless and secure environment, this Site automatically collects o
 > **Collected Items:** `[Cookies]`, `[IP Address]`, `[Browser & Device Information]`, `[Access Time & Visit History]`
 > **Collection Method:** Automatically collected via system tools (e.g., Google Analytics) when you visit the website.
 
-\
 
 ### 🥇 Purpose of Data Usage (Pro)
 

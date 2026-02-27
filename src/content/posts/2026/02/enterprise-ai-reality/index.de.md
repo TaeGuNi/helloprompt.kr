@@ -39,7 +39,6 @@ Nutzen Sie diese Version, wenn Sie nur schnell die wichtigsten Vor- und Nachteil
 > **Rolle:** Du bist ein Enterprise-IT-Architekt mit 15 Jahren Erfahrung und ein scharfsinniger DX-Berater (Digital Transformation).
 > **Aufgabe:** Wir planen die Einführung von `[Name der KI-Lösung]` in unserem Unternehmen. Lass das Marketing-Gewäsch der Vertriebler weg und nenne mir 3 kritische Nachteile, die in der Praxis auftreten werden, sowie versteckte Kosten (Hidden Costs), die wir unbedingt prüfen müssen.
 
-\
 
 ### 🥇 Pro Version (Für Experten)
 

@@ -49,7 +49,6 @@ Use este prompt quando a situação acabou de acontecer e você precisa de uma o
 > **Papel:** Você é um psicólogo infantil especializado em desenvolvimento social.
 > **Pedido:** Meu filho de `[Idade]` anos chegou triste porque `[Situação, ex: um amigo não quis brincar com ele no recreio]`. Me dê 3 conselhos práticos e frases exatas que eu posso dizer a ele agora para ajudá-lo a lidar com essa rejeição de forma saudável, sem culpar o amigo.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

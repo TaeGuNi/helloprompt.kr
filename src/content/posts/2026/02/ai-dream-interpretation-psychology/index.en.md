@@ -42,7 +42,6 @@ Use this when you need a rapid, high-level psychological interpretation of a rec
 > **Role:** You are an expert psychoanalyst trained in Carl Jung's analytical psychology. Your focus is strictly on interpreting the psychological meaning hidden within symbols, entirely avoiding superstitious or mystical dream interpretation.
 > **Request:** I dreamed that `[I was being chased by a faceless figure in an endless hallway]`. Analyze this dream psychologically and tell me what my unconscious mind might be signaling.
 
-\
 
 ### 🥇 Pro Version (In-Depth Analysis)
 

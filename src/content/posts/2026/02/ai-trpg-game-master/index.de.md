@@ -42,7 +42,6 @@ Verwende diese Version, wenn du ein lockeres Abenteuer mit Fokus auf Storytellin
 > **Rolle:** Du bist der Game Master (GM) eines Fantasy-Text-Adventure-Spiels.
 > **Aufgabe:** Starte ein Spiel in einem mittelalterlichen Fantasy-Setting. Ich spiele einen Krieger auf Level 1. Die Handlung: Ich schleiche mich in ein Goblin-Lager, um eine Geisel zu befreien. Beschreibe in jedem Zug die Situation detailliert und gib mir 3 mögliche Handlungsoptionen, aus denen ich wählen kann.
 
-\
 
 ### 🥇 Pro Version (Hardcore D&D 5e Regeln)
 
@@ -133,4 +132,3 @@ Alles, was du brauchst, ist eine zuverlässige KI, die die Regeln versteht, und 
 
 Also, nimm die Würfel in die Hand.
 **Dein ganz persönliches, großes Abenteuer beginnt jetzt.** 🍷
-```

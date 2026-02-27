@@ -44,7 +44,6 @@ Idéal pour obtenir rapidement les grandes lignes d'un débat éthique.
 > **Rôle :** Tu es un `[expert en éthique technologique]`.
 > **Tâche :** Résume les principaux risques psychologiques et dilemmes moraux liés à `[la dépendance aux chatbots romantiques]` en trois points percutants.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

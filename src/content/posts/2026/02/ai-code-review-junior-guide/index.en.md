@@ -42,7 +42,6 @@ Use this when you quickly want to check the overall code quality.
 > **Task:** Check the code below for logical errors or readability issues, and point out 3 ways to improve it.
 > **Code:** `[Paste your code here]`
 
-\
 
 ### 🥇 Pro Version
 
@@ -70,10 +69,9 @@ Use this when you need detailed quality verification right before submitting a P
 > - If the code is perfect, output "LGTM 🚀" along with some praise.
 >
 > **Input Code:**
-> ```python
+>
 > [Paste your code here]
-> ```
-
+>
 ---
 
 ## 💡 Writer's Insight

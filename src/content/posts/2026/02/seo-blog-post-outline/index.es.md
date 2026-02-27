@@ -42,7 +42,6 @@ El núcleo del SEO (Optimización de Motores de Búsqueda) reside en encontrar e
 > **Rol:** Eres un `[Experto en SEO y Marketing de Contenidos]`.
 > **Solicitud:** Crea un esquema detallado y optimizado para SEO sobre el tema `[Palabra Clave]`. Estructura los encabezados de una manera que a Google le encante.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

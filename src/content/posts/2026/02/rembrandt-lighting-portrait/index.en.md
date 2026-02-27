@@ -42,7 +42,6 @@ Use this when you need a quick, reliable result without fussing over details.
 > **Role:** You are a master portrait photographer and lighting director.
 > **Request:** Generate an image using "Rembrandt lighting" to create a deep, serious, and highly dramatic portrait.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

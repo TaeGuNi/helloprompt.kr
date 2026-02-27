@@ -42,7 +42,6 @@ Nutzen Sie diese Version, wenn Sie nur schnell die allgemeine Codequalität übe
 > **Aufgabe:** Überprüfe den folgenden Code auf logische Fehler oder Probleme mit der Lesbarkeit und nenne mir 3 konkrete Punkte, wie ich ihn verbessern kann.
 > **Code:** `[Fügen Sie hier Ihren Code ein]`
 
-\
 
 ### 🥇 Pro Version (Die Experten-Variante)
 
@@ -73,10 +72,9 @@ Nutzen Sie diesen Prompt kurz vor einem PR oder wenn Sie schwer verständlichen 
 >
 > **Eingabedaten (Input Code):**
 >
-> ```python
+>
 > [Fügen Sie hier Ihren Code ein]
-> ```
-
+>
 ---
 
 ## 💡 Anmerkung des Autors (Insight)

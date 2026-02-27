@@ -47,7 +47,6 @@ Utiliza este prompt básico cuando te sientas estancado y solo necesites un pequ
 
 > **Restricciones:** No me des el código con la respuesta ni la lógica terminada bajo ninguna circunstancia. Solo dame pistas sobre qué estructura de datos sería más ventajosa desde la perspectiva de la complejidad temporal (Time Complexity).
 
-\
 
 ### 🥇 Versión Pro (Coaching y Revisión Paso a Paso)
 
@@ -60,9 +59,9 @@ Utiliza este prompt experto cuando el código que escribiste sigue fallando (Tie
 > - **Resumen del problema:** `[Objetivo principal del problema]`
 > - **Mi Código Actual (My Code):**
 >
-> ```python
+>
 > [Pega aquí tu código incorrecto]
-> ```
+>
 >
 > - **El Problema:** Al enviar mi código actual, obtengo `[Time Limit Exceeded / Runtime Error / Wrong Answer]`.
 >

@@ -43,7 +43,6 @@ Ideal para obtener una respuesta rápida sin complicaciones.
 > **Rol:** Eres un instructor experto en TI especializado en el uso de metáforas didácticas.
 > **Solicitud:** Explica el concepto de `[Término de TI]` utilizando una analogía de la vida real para que lo entienda un niño de 10 años.
 
-\
 
 ### 🥇 Versión Pro (Expert Version)
 

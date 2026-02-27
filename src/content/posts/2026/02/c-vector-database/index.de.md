@@ -38,7 +38,6 @@ Verwenden Sie diese Version, wenn Sie nur schnell das Grundgerüst der Kernlogik
 > **Rolle:** Du bist ein `[Senior Embedded Systems Engineer]`.
 > **Aufgabe:** Schreibe eine `[Header-only Vektordatenbank]` in reinem C ohne jegliche Abhängigkeiten. Eine Suchfunktion basierend auf Cosinus-Ähnlichkeit (Cosine Similarity) muss zwingend enthalten sein.
 
-\
 
 ### 🥇 Pro Version (Experte)
 

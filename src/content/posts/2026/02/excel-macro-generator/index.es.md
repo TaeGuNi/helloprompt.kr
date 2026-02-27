@@ -48,7 +48,6 @@ A partir de ahora, solo di: "Compara la Columna A y B, y resalta las diferencias
 
 - Columna A: Nombre / Columna B: Puntuación / Columna C: Aprobado/Reprobado
 
-\
 
 ### 🥇 Versión Pro (Automatización con VBA)
 

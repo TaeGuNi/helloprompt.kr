@@ -49,7 +49,6 @@ El **Ángulo Bajo** (o **Worm's Eye View**), que consiste en situar la cámara a
 > **Rol:** Eres un director de fotografía experto.
 > **Solicitud:** Genera un prompt para una imagen de un `[Sujeto]` visto desde un ángulo extremadamente bajo, enfatizando su enorme tamaño y presencia imponente.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

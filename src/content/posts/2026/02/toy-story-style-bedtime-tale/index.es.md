@@ -43,7 +43,6 @@ Infunde vida a sus juguetes. Si les cuentas de qué hablan sus muñecos cuando s
 > **Rol:** Eres un cuentacuentos experto en literatura infantil.
 > **Petición:** Escribe una historia breve sobre una fiesta secreta que celebran los muñecos y juguetes favoritos de mi hijo mientras él duerme, destacando cómo se sienten cuando los dejan tirados en el suelo.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

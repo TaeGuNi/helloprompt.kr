@@ -49,7 +49,6 @@ El jazz en Nueva York, el techno en Berlín o el flamenco en Sevilla... La verda
 > **Rol:** Eres un experto 'Editor de Revista de Música Indie' que conoce a la perfección la escena underground de `[Nombre de la Ciudad]`.
 > **Solicitud:** Estoy harto de la música comercial para turistas. Recomiéndame 3 bares de música en vivo en `[Nombre de la Ciudad]` donde realmente van los locales a escuchar `[Tu Género Favorito]`.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

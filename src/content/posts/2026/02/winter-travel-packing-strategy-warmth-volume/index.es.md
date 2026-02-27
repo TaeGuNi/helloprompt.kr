@@ -43,7 +43,6 @@ El mayor dolor de cabeza al preparar un viaje a un destino nevado o de bajas tem
 > **Rol:** Eres un experto en alpinismo y un viajero minimalista experimentado.
 > **Solicitud:** Voy a hacer un viaje de invierno. Mi chaqueta acolchada ocupa toda la maleta. Dame consejos rápidos sobre cómo empacar de manera eficiente para no pasar frío y ahorrar mucho espacio.
 
-\
 
 ### 🥇 Versión Pro (Versión Experta)
 

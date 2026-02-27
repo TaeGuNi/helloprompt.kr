@@ -1,12 +1,15 @@
 import { getCollection } from "astro:content";
 import type { APIRoute } from "astro";
-import { getLangStaticPaths } from "../../i18n/languages";
+import { LANGUAGES } from "../../i18n/languages";
 import { uiStrings } from "../../utils/ui-translation";
-
-export const getStaticPaths = getLangStaticPaths;
 
 export const GET: APIRoute = async (context) => {
   const lang = context.params.lang as string;
+
+  if (!LANGUAGES.includes(lang)) {
+    return new Response("Language not supported", { status: 404 });
+  }
+
   const now = new Date();
   const allPosts = await getCollection("posts", ({ data }) => {
     return data.date <= now;
@@ -95,6 +98,7 @@ export const GET: APIRoute = async (context) => {
   return new Response(atom, {
     headers: {
       "Content-Type": "application/xml; charset=utf-8",
+      "Cache-Control": "public, s-maxage=3600, stale-while-revalidate=86400",
     },
   });
 };

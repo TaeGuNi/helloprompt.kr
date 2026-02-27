@@ -68,12 +68,11 @@ Il consiglio chiave è di convertire istantaneamente decine o centinaia di righe
 >
 > **Dati di Input (Input):**
 >
-> ```csv
+>
 > Mario Rossi, 333 1234 5678, Roma Trastevere, test@test.com
 > Luca Bianchi, 333.9876.5432, Milano Navigli, invalid-email
 > Giulia Verdi, 06-123-4567, Rome Colosseum,
-> ```
-
+>
 ---
 
 ## 💡 L'Intuizione dell'Autore (Insight)

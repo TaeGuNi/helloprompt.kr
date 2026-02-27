@@ -42,7 +42,6 @@ tags: ["AI", "Tech", "role-playing-personas"]
 >
 > **Task (요청):** 내가 작성한 `[초안 내용]`을 읽고, 실무자의 관점에서 날카롭게 피드백해 줘.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

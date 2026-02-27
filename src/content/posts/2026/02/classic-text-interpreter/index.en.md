@@ -42,7 +42,6 @@ Use this when you need a fast, straightforward interpretation.
 > **Role:** You are a `[Classic Philologist and Historical Commentator]`.
 > **Request:** Translate the following difficult and archaic text into easy-to-understand modern language and briefly explain its core meaning.
 
-\
 
 ### 🥇 Pro Version (Deep Analysis)
 

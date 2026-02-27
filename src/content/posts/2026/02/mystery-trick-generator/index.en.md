@@ -42,7 +42,6 @@ Use this when you just need a quick spark of inspiration to get started.
 > **Role:** You are a master mystery writer with the brilliant minds of Agatha Christie and Keigo Higashino.
 > **Request:** Please design an ingenious locked-room trick and a foolproof alibi that would leave even the greatest detectives stunned.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

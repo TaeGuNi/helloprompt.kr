@@ -42,7 +42,6 @@ Utilisez cette version si vous avez besoin d'une suggestion immédiate sans trop
 > **Rôle :** Tu es un consultant YouTube expert en branding avec plus d'un million d'abonnés à ton actif.
 > **Demande :** Propose-moi 5 idées de noms accrocheurs et mémorables pour ma chaîne YouTube sur le thème de `[VOTRE THÈME]`. Les noms doivent être courts et faciles à retenir.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

@@ -43,7 +43,6 @@ Verwenden Sie diesen Prompt, wenn Sie nur eine schnelle Überprüfung einer kurz
 > **Aufgabe:** Analysiere die folgende SQL-Abfrage. Zeige Leistungsengpässe auf, schreibe die Abfrage performanter um und nenne sinnvolle Indizes.
 > **Query:** `[Ihre SQL-Abfrage hier einfügen]`
 
-\
 
 ### 🥇 Pro Version (Expertenmodus)
 
@@ -69,9 +68,9 @@ Verwenden Sie diesen Prompt für komplexe Legacy-Queries oder bei massiven Perfo
 >
 > **Ziel-Query:**
 >
-> ```sql
+>
 > [Fügen Sie Ihre langsame SQL-Abfrage hier ein]
-> ```
+>
 >
 > **Einschränkungen (Constraints):**
 >

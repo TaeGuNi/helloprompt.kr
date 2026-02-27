@@ -42,7 +42,6 @@ Ideal para obtener una comparativa rápida y sin complicaciones.
 > **Rol:** Eres un `[Historiador Comparativo y Analista de Personalidades]`.
 > **Solicitud:** Compara a `[Persona A]` y `[Persona B]` destacando sus principales similitudes y diferencias históricas.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

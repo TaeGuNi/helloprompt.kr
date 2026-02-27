@@ -42,7 +42,6 @@ Use esta versão para obter um panorama rápido quando o tempo for curto e a reu
 > **Papel:** Você é um Analista de Inteligência de Mercado.
 > **Solicitação:** Analise os concorrentes `[Concorrente A]` e `[Concorrente B]` no mercado de `[Seu Setor]`. Destaque seus principais pontos fortes, fraquezas e oportunidades de benchmarking em tópicos diretos.
 
-\
 
 ### 🥇 Versão Pro (Expert)
 

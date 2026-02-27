@@ -48,7 +48,6 @@ Use esta etapa para analisar e extrair suas diretrizes de estilo a partir de tex
 > **Dados:**
 `[Cole aqui de 3 a 5 exemplos dos seus textos, conversas de WhatsApp, e-mails, etc.]`
 
-\
 
 ### 🥇 Versão Pro (Injeção de Persona - Etapa 2)
 

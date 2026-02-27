@@ -43,7 +43,6 @@ La alfabetización de datos es una habilidad de supervivencia esencial en el ent
 > **Rol:** Eres un `[Experto Analista de Datos y Especialista en Estadística]`.
 > **Solicitud:** Analiza los `[datos o imagen adjunta]` y extrae los 3 insights clave, identificando cualquier anomalía estadística.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

@@ -42,7 +42,6 @@ El compilador de Rust es como el supervisor de código más estricto del mundo. 
 > **Rol:** Eres un `[Desarrollador Senior de Rust]`.
 > **Tarea:** Explícame, a nivel de principiante, cómo escribir un código que imprima 'Hello World' en Rust. Además, guíame paso a paso a través de los comandos CLI para crear, compilar y ejecutar un nuevo proyecto usando `[Cargo]`.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -57,11 +56,11 @@ El compilador de Rust es como el supervisor de código más estricto del mundo. 
 >
 > **Código (Code):**
 >
-> ```rust
+>
 > let s1 = String::from("hello");
 > let s2 = s1;
 > println!("{}, world!", s1); // Punto donde ocurre el error de compilación
-> ```
+>
 >
 > **Tarea (Task):**
 >

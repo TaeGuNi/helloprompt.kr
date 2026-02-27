@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt, wenn Sie sofort eine kurze Geschichte für den Wart
 > **Rolle:** Du bist ein einfühlsamer Kinderpsychologe und Geschichtenerzähler.
 > **Aufgabe:** Schreibe eine kurze, mutmachende Geschichte für ein Kind, das Angst vor dem bevorstehenden Zahnarztbesuch hat. Mach den Zahnarzt zu einem Helden, der lustige "Zahnteufelchen" jagt.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

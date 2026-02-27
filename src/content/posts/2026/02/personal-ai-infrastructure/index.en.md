@@ -42,7 +42,6 @@ Use this when you need a quick, high-level recommendation for your personal AI s
 > **Role:** You are a Personal AI Infrastructure Expert.
 > **Task:** Recommend a beginner-friendly local AI stack for my `[Operating System, e.g., M3 Mac]`. I want to run LLMs locally for `[Main Purpose, e.g., coding and note-taking]`.
 
-\
 
 ### 🥇 Pro Version
 

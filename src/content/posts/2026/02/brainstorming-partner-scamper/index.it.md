@@ -42,7 +42,6 @@ Usala quando hai bisogno di sbloccare la mente velocemente e senza troppi fronzo
 > **Ruolo:** Sei un Direttore Creativo esperto in brainstorming.
 > **Richiesta:** Ho bisogno di nuove idee su `[Argomento]`. Proponi 10 concetti originali, audaci e fuori dagli schemi, spiegandoli in una riga ciascuno.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

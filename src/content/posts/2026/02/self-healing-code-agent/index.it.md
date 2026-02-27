@@ -44,7 +44,6 @@ Usala per correzioni rapide di errori banali.
 > **Ruolo:** Sei un `[Sviluppatore Python Senior]`.
 > **Azione:** Correggi i bug nel seguente `[Codice Originale]` basandoti su questo `[Messaggio di Errore]`.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 
@@ -73,16 +72,15 @@ Ideale per essere integrata in un sistema di agenti per costruire una pipeline d
 > **Dati di Input (Input Data):**
 > **Codice Originale:**
 >
-> ```python
+>
 > [Inserisci qui il codice originale]
-> ```
+>
 >
 > **Log di Errore:**
 >
-> ```text
+>
 > [Inserisci qui il messaggio di errore da stderr]
-> ```
-
+>
 ---
 
 ## 💻 Automatizzare il Loop in Python (Implementazione)

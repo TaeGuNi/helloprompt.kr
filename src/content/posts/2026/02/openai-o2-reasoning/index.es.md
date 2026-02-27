@@ -41,7 +41,6 @@ Ideal para tareas lógicas rápidas donde necesitas que la IA "piense en voz alt
 > **Rol:** Eres un experto solucionador de problemas con pensamiento crítico avanzado.
 > **Instrucción:** Antes de dar la respuesta final a `[Tu Problema]`, escribe paso a paso tu proceso de razonamiento. Si detectas un error en tu lógica a mitad de camino, corrígelo explícitamente y continúa.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

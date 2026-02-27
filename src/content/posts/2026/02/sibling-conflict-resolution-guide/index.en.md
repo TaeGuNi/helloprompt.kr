@@ -42,7 +42,6 @@ Use this for a quick, on-the-fly resolution when tensions are high but the issue
 > **Role:** You are a fair, empathetic child counselor and family mediator.
 > **Task:** Help mediate a dispute between two siblings who are fighting. Guide them to reconcile fairly and suggest a way to strengthen their friendship afterward.
 
-\
 
 ### 🥇 Pro Version
 

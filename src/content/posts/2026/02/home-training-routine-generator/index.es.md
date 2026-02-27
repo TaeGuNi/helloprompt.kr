@@ -42,7 +42,6 @@ Seguir videos de YouTube está bien, pero es difícil saber si la intensidad es 
 > **Rol:** Eres un Entrenador Personal Profesional con 10 años de experiencia y Especialista en Rehabilitación.
 > **Solicitud:** Diseña la rutina de entrenamiento en casa óptima adaptada a mi nivel físico y al equipo que tengo disponible.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

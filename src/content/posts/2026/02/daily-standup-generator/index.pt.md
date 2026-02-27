@@ -43,7 +43,6 @@ Use quando precisar de resultados rápidos a partir de anotações curtas.
 > **Tarefa:** Formate as seguintes anotações no formato padrão de Daily Scrum (O que fiz ontem, O que farei hoje, Impedimentos).
 > **Anotações:** `[Cole aqui suas anotações confusas ou lista de tarefas]`
 
-\
 
 ### 🥇 Versão Profissional (Pro Version)
 

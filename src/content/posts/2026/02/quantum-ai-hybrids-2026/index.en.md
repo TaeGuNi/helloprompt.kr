@@ -43,7 +43,6 @@ Use this for a quick conceptual overview and boilerplate code.
 > **Role:** You are a `[Quantum Machine Learning Engineer]`.
 > **Task:** Write a Python script showing how to integrate a simple `[Parameterized Quantum Circuit]` into a classical `[Keras sequential model]`.
 
-\
 
 ### 🥇 Pro Version
 

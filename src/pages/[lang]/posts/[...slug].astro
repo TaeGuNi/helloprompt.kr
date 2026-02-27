@@ -1,40 +1,38 @@
 ---
-import { type CollectionEntry, getCollection, render } from "astro:content";
+import { getCollection, render } from "astro:content";
 import { LANGUAGES } from "../../../i18n/languages";
 import Layout from "../../../layouts/Layout.astro";
 
-export async function getStaticPaths() {
-  const now = new Date();
-  const posts = await getCollection("posts", ({ data }) => {
-    return data.date <= now;
-  });
-  const paths: {
-    params: { lang: string; slug: string };
-    props: { post: CollectionEntry<"posts"> };
-  }[] = [];
+const paramLang = Astro.params.lang as string;
+const paramSlug = Astro.params.slug as string;
 
-  for (const lang of LANGUAGES) {
-    const langPosts = posts.filter((post) => post.id.endsWith(`index${lang}`));
-
-    langPosts.forEach((post) => {
-      const parts = post.id.split("/");
-      const slug = parts[parts.length - 2];
-      paths.push({
-        params: { lang, slug },
-        props: { post },
-      });
-    });
-  }
-
-  return paths;
+if (!LANGUAGES.includes(paramLang) || !paramSlug) {
+  return Astro.rewrite("/404");
 }
 
-const { post } = Astro.props;
+const posts = await getCollection("posts");
+const post = posts.find((p) => {
+  if (!p.id.endsWith(`index${paramLang}`)) return false;
+  const parts = p.id.split("/");
+  const slug = parts[parts.length - 2];
+  return slug === paramSlug;
+});
+
+if (!post) {
+  return Astro.rewrite("/404");
+}
+
+// Vercel ISR Caching Header (1 Day Cache for Posts)
+Astro.response.headers.set(
+  "Cache-Control",
+  "public, s-maxage=86400, stale-while-revalidate=604800",
+);
+
 const { Content, headings } = await render(post);
 ---
 
 <Layout
-  frontmatter={{ ...post.data, lang: Astro.params.lang }}
+  frontmatter={{ ...(post.data as any), lang: paramLang }}
   headings={headings}
 >
   <Content />

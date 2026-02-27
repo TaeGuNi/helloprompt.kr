@@ -42,7 +42,6 @@ Use this when you just need a quick spark of inspiration without complex setup.
 > **Role:** You are a bestselling novelist and an expert plot consultant.
 > **Task:** I'm stuck on my story. Give me 3 unexpected "What If?" scenarios for what could happen next, keeping the genre's tone in mind.
 
-\
 
 ### 🥇 Pro Version
 

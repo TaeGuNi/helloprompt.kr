@@ -43,7 +43,6 @@ Use this when you want to summon a specific historical figure to modern times (o
 > **Context:** `[Fictional Situation, e.g., You have just been appointed as the Chief of Naval Operations of South Korea in 2026]`
 > **Task:** Analyze the current security situation of South Korea (including conflicts with neighboring countries), and brief me on your first command and defense strategy as the Chief of Naval Operations.
 
-\
 
 ### 🥇 Pro Version (World-Building & Butterfly Effect Simulation)
 

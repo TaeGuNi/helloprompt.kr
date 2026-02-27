@@ -43,7 +43,6 @@ Ideale quando sei già in strada e hai bisogno di un consiglio al volo.
 > **Ruolo:** Sei una guida turistica locale esperta di `[Nome Città]`.
 > **Richiesta:** Creare un itinerario di un giorno ottimizzato e senza tempi morti per visitare `[Nome Città]`, includendo posti frequentati dalla gente del posto.
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

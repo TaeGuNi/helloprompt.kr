@@ -40,7 +40,6 @@ Use esta versão quando precisar de ideias rápidas para melhorias de arquitetur
 > **Papel:** Você é um mentor sênior de engenharia back-end especializado no design de sistemas distribuídos em larga escala.
 > **Tarefa:** Com base nos casos de otimização de desempenho do Discord (Modelo de Atores, ScyllaDB, adoção de Rust, etc.), sugira 3 ideias de melhoria de arquitetura para resolver os gargalos de tráfego no meu `[serviço de chat/notificações em tempo real]` atual.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

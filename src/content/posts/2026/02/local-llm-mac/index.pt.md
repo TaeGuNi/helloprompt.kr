@@ -42,13 +42,10 @@ Use isso quando quiser rodar uma IA no seu computador instantaneamente, sem comp
 > **Role (Papel):** Administrador de Sistemas
 > **Task (Tarefa):** Abra o terminal e execute os seguintes comandos em ordem para configurar a IA local.
 >
-> ```bash
+>
 > brew install ollama
 > ollama run llama3
-> ```
-
-\
-
+>
 ### 🥇 Versão Pro (Profissional)
 
 Ideal para quando você deseja conectar a IA local baixada aos seus scripts Python ou aplicativos pessoais via API.
@@ -65,13 +62,13 @@ Ideal para quando você deseja conectar a IA local baixada aos seus scripts Pyth
 > 1. Use o comando `curl` abaixo para testar se a API REST da IA local está respondendo corretamente.
 > 2. Substitua a variável `[CONTEUDO_DA_PERGUNTA]` pelo código confidencial ou dados que você deseja analisar livremente.
 >
-> ```bash
+>
 > curl http://localhost:11434/api/generate -d '{
 >   "model": "llama3",
 >   "prompt": "[CONTEUDO_DA_PERGUNTA]",
 >   "stream": false
 > }'
-> ```
+>
 >
 > **Constraints (Restrições):**
 >

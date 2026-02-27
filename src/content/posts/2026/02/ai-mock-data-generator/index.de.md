@@ -42,7 +42,6 @@ Nutzen Sie diesen Prompt, wenn Sie nur schnell ein simples JSON-Array für die G
 > **Rolle:** Du bist ein `[Senior Frontend-Entwickler]`.
 > **Aufgabe:** Erstelle mir 5 Dummy-Datensätze (JSON) für ein `[Benutzerprofil]`, um Frontend-UI-Tests durchzuführen. Die Felder sollen id, name und email umfassen.
 
-\
 
 ### 🥇 Pro Version (Für Experten)
 

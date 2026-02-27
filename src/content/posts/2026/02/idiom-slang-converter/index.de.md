@@ -42,7 +42,6 @@ Verwende diese Version, wenn du nur ein schnelles Ergebnis brauchst.
 > **Rolle:** Du bist ein amerikanischer Hollywood-Drehbuchautor und Slang-Experte.
 > **Anfrage:** Finde authentische muttersprachliche Ausdrücke, Schlagworte und Redewendungen für die folgende Situation, die man in keinem Lehrbuch findet.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

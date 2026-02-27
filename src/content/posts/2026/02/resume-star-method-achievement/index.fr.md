@@ -42,7 +42,6 @@ Idéale pour obtenir un résultat rapide sans entrer dans les détails complexes
 > **Rôle :** Tu es un chasseur de têtes senior avec 15 ans d'expérience et un expert en optimisation de CV.
 > **Requête :** Transforme la description vague de mon expérience professionnelle en points de liste percutants, orientés vers les résultats, en appliquant rigoureusement la méthode STAR (Situation, Tâche, Action, Résultat).
 
-\
 
 ### 🥇 Version Pro (Expert)
 

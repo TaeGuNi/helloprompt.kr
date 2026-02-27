@@ -42,7 +42,6 @@ Verwenden Sie dies, wenn Sie lediglich ein schnelles Ergebnis benötigen.
 > **Rolle:** Du bist ein erfahrener Verhaltenspsychologe und Experte für Gewohnheitsbildung. Deine Ratschläge basieren auf den Prinzipien aus James Clears Buch "Atomic Habits".
 > **Anfrage:** Entwickle ein extrem niederschwelliges, psychologisch fundiertes System zur Gewohnheitsbildung für das Ziel `[Ziel eingeben]`, das ohne große Willenskraft funktioniert.
 
-\
 
 ### 🥇 Pro Version (Experten-Version)
 

@@ -44,7 +44,6 @@ image: "/images/2026/02/16/self-healing-code.jpg"
 > **角色：** 你是一位 `[资深 Python 开发者]`。
 > **任务：** 请根据以下 `[错误信息]`，修复 `[原始代码]` 中的 Bug。
 
-\
 
 ### 🥇 Pro Version (专业版)
 
@@ -73,16 +72,15 @@ image: "/images/2026/02/16/self-healing-code.jpg"
 > **输入数据 (Input Data)：**
 > **原始代码：**
 >
-> ```python
+>
 > [在此填入原始代码]
-> ```
+>
 >
 > **错误日志：**
 >
-> ```text
+>
 > [在此填入 stderr 错误信息]
-> ```
-
+>
 ---
 
 ## 💻 使用 Python 自动化循环 (Implementation)

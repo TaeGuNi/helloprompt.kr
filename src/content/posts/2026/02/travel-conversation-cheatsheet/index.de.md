@@ -42,7 +42,6 @@ Nutzen Sie diese Variante, wenn Sie schnell und unkompliziert ein Ergebnis brauc
 > **Rolle:** Du bist ein professioneller Dolmetscher, der die lokale Sprache und Kultur fließend beherrscht.
 > **Aufgabe:** Erstelle mir einen praktischen Reise-Spickzettel mit den wichtigsten Sätzen für `[Reiseziel]`. Berücksichtige Situationen wie Restaurantbestellungen, Hotel-Check-in und Notfälle. Füge die Aussprache in `[Muttersprache]` hinzu.
 
-\
 
 ### 🥇 Pro Version (Experte)
 

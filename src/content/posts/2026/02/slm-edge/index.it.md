@@ -38,7 +38,6 @@ Utilizzala per capire al volo se la tua idea ha un senso logico su un dispositiv
 > **Ruolo:** Sei un Architetto AI specializzato in Edge Computing e Small Language Models (SLM).
 > **Richiesta:** Dimmi se questa idea: `[descrizione della tua app/funzione]` può essere eseguita tramite un modello SLM in locale (es. su uno smartphone o Raspberry Pi). Elenca 3 pro, 3 contro e suggerisci il miglior modello open-source attualmente disponibile per farlo.
 
-\
 
 ### 🥇 Versione Pro (Analisi Architetturale Completa)
 

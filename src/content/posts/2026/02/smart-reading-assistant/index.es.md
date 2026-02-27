@@ -45,7 +45,6 @@ Este prompt transforma a la IA en tu 'tutor de lectura' personal 1:1. Desglosa c
 > **Tarea:** Lee el siguiente texto y resume los 3 puntos clave más importantes de forma que hasta un principiante pueda entenderlos fácilmente.
 > **Texto:** `[Inserta el texto aquí]`
 
-\
 
 ### 🥇 Pro Version (Versión Profesional)
 

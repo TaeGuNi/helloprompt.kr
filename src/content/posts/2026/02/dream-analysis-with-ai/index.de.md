@@ -44,7 +44,6 @@ Nutzen Sie diese Version, wenn Sie auf dem Weg zur Arbeit schnell die grobe Bede
 > **Rolle:** Du bist ein psychologischer Traumanalytiker.
 > **Aufgabe:** Analysiere den folgenden Traum `[Trauminhalt]` aus einer psychologischen Perspektive. Erkläre die Bedeutung der Schlüsselsymbole und leite ab, wie diese mit meinem aktuellen mentalen und emotionalen Zustand zusammenhängen könnten.
 
-\
 
 ### 🥇 Pro Version (Für Experten)
 

@@ -45,7 +45,6 @@ Nutzen Sie diese Basisversion, wenn Sie sofort kommerzielle Poster oder Markenlo
 > **Prompt:**
 > `a cinematic cyberpunk neon poster with clear typography text "HELLO 2026", futuristic glowing city background, hyper-detailed --ar 2:3 --v 7.0 --style raw`
 
-\
 
 ### 🥇 Pro Version (Charakter-Konsistenz & Anwendung)
 

@@ -73,10 +73,9 @@ Use this prompt immediately after generating code with AI to snap out of the ill
 >
 > **Input Data:**
 > - **Code Snippet:**
-> ```plaintext
+>
 > [Paste the code to be evaluated here]
-> ```
-
+>
 ---
 
 ## 💡 Writer's Insight

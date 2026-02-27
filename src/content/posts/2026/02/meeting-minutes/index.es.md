@@ -46,7 +46,6 @@ Para reuniones rápidas de sincronización donde solo necesitas extraer lo más 
 >
 > [Pega la transcripción aquí]
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

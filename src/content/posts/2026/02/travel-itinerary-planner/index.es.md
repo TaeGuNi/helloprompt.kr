@@ -42,7 +42,6 @@ Ideal cuando necesitas un boceto rápido para empezar a visualizar el viaje.
 > **Rol:** Eres un experto guía turístico local y un maestro en la planificación de itinerarios.
 > **Solicitud:** Crea un itinerario detallado de `[3 días]` para `[Osaka]`, considerando un ritmo de viaje `[relajado]`.
 
-\
 
 ### 🥇 Versión Pro (Expert Version)
 

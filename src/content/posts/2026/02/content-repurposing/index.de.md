@@ -44,7 +44,6 @@ Verwenden Sie diese Version, wenn Sie ein Videoskript einfach und schnell in ein
 >
 > `[Fügen Sie hier Ihr Skript ein]`
 
-\
 
 ### 🥇 Pro Version (Experte)
 

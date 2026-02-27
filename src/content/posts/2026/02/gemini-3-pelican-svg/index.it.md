@@ -38,7 +38,6 @@ Ideale per abbozzare rapidamente un'idea.
 > **Ruolo:** Sei un `[Sviluppatore Front-end Esperto in SVG]`.
 > **Richiesta:** Scrivi un codice SVG perfetto che rappresenti `[un pellicano in bicicletta]`.
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

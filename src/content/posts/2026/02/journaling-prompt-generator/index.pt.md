@@ -44,7 +44,6 @@ Use esta versão quando quiser apenas organizar levemente as emoções do seu di
 > **Papel:** Você é um `[amigo carinhoso e atencioso]`.
 > **Tarefa:** Faça-me 3 perguntas de autorreflexão que me ajudem a olhar para o meu dia com calma e a organizar as minhas emoções.
 
-\
 
 ### 🥇 Versão Pro (Profissional)
 

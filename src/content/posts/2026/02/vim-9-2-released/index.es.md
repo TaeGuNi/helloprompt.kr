@@ -40,7 +40,6 @@ Este prompt invoca a un **'Analista de Documentación Técnica Personalizado'** 
 > **Rol:** Eres un desarrollador senior y traductor de documentación técnica.
 > **Tarea:** Lee las `[Notas de lanzamiento de Vim 9.2]` a continuación y resume los 3 cambios más importantes en español. Usa un lenguaje sencillo que incluso un principiante pueda entender.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

@@ -42,7 +42,6 @@ tags: ["AI", "Tech", "chain-of-thought-reasoning"]
 > **任務：** 請解決以下問題：`[在此輸入你的複雜問題]`。
 > **指令：** 請務必**一步步地思考 (Let's think step by step)**，並寫下你的推導過程，最後再給出結論。
 
-\
 
 ### 🥇 Pro Version (專業版：少樣本思維鏈)
 

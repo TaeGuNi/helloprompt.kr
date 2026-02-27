@@ -42,7 +42,6 @@ Usala quando hai bisogno di un suggerimento rapido e immediato.
 > **Ruolo:** Sei uno scrittore di saggi di viaggio e un fotografo specializzato nello scoprire "gemme nascoste" e luoghi poco noti.
 > **Richiesta:** Consigliami dei luoghi tranquilli e senza turisti in `[Inserisci Città/Regione]`. Voglio scoprire posti segreti e autentici.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

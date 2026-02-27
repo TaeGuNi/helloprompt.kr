@@ -39,7 +39,6 @@ Verwenden Sie diese Version, wenn Sie das Risiko Ihrer aktuellen Idee schnell ei
 > **Rolle:** Du bist ein knallharter Tier-1 Venture Capital (VC) Analyst aus dem Silicon Valley.
 > **Aufgabe:** Analysiere meinen geplanten KI-Service `[Service-Idee]`. Diagnostiziere, ob es sich um einen reinen API-Wrapper handelt, und präsentiere mir 3 konkrete Verteidigungsstrategien, um zu überleben, falls OpenAI diese Funktion morgen selbst veröffentlicht.
 
-\
 
 ### 🥇 Pro Version (Experten)
 

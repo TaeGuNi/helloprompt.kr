@@ -46,7 +46,6 @@ Use this when you need a quick ethical scan of a generated news snippet.
 > **Role:** You are a strict Senior Editor and Fact-Checker.
 > **Task:** Review the following `[Article Draft]` for potential bias, hallucinations, and ethical violations. Point out any unverified claims.
 
-\
 
 ### 🥇 Pro Version
 

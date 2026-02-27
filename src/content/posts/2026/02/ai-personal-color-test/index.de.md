@@ -44,7 +44,6 @@ Nutze diese Version, wenn du keine komplexe Analyse brauchst, sondern einfach nu
 > **(Nach dem Foto-Upload)**
 > **Aufgabe:** Analysiere meinen Farbtyp (Frühling/Sommer/Herbst/Winter) basierend auf dem Hautton, der Haarfarbe und der Augenfarbe der Person auf dem hochgeladenen Foto. Erkläre mir detailliert anhand sichtbarer Merkmale, wie du zu diesem Ergebnis gekommen bist.
 
-\
 
 ### 🥇 Pro Version (Maßgeschneiderte Styling-Beratung)
 

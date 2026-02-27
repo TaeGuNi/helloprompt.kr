@@ -41,7 +41,6 @@ Utilize para obter um rascunho rápido da arquitetura e instalação.
 > **Role:** Você é um Engenheiro DevOps Sênior especialista em Edge Computing.
 > **Task:** Crie um plano de arquitetura resumido para implantar Kubernetes (K3s) em `[Número]` dispositivos de borda com `[Especificações de Hardware]`, incluindo a estratégia básica de atualização via GitOps.
 
-\
 
 ### 🥇 Versão Profissional (Pro)
 

@@ -42,7 +42,6 @@ Use esta versão quando precisar apenas de uma referência rápida para uma pala
 > **Papel:** Você é um `[Especialista em Fonética e Treinador de Pronúncia Nativa]`.
 > **Solicitação:** Analise a frase `[Sua Frase]` e me ensine a pronúncia correta usando representações visuais de ritmo, ênfase e entonação, sem depender de áudio.
 
-\
 
 ### 🥇 Versão Pro (Especialista)
 

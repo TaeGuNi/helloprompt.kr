@@ -44,7 +44,6 @@ Nutzen Sie diese Variante, wenn Sie sofortige Ergebnisse und grundlegende Abwehr
 > **Rolle:** Du bist ein `[Cyber-Sicherheitsexperte]`.
 > **Aufgabe:** Fasse die Gefahren der kürzlich stark diskutierten `[Überwachungstechnologie mittels WLAN-Sensing (CSI-Analyse)]` prägnant zusammen und nenne 3 sofort umsetzbare Schutzmaßnahmen für normale Privatpersonen.
 
-\
 
 ### 🥇 Pro-Version (Für Experten & detaillierte Analysen)
 

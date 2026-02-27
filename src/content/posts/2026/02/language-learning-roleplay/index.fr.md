@@ -42,7 +42,6 @@ Utilisez ce prompt lorsque vous souhaitez lancer une discussion rapidement, sans
 > **Rôle :** Tu es un `[barista dans un café à New York]`.
 > **Requête :** Faisons un jeu de rôle où je suis un `[touriste avec un anglais basique]`. Lance la conversation en me demandant ce que je veux commander.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

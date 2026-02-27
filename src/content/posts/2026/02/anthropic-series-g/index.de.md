@@ -48,7 +48,6 @@ Nutzen Sie diese Version, wenn Sie nur die Kernfakten und unmittelbaren Auswirku
 > **Aufgabe:** Fasse die folgende Nachricht zusammen und nenne die 3 wichtigsten Auswirkungen auf den KI-Markt.
 > **Nachricht:** `[Fügen Sie hier die News oder den Link zur Anthropic-Finanzierung ein]`
 
-\
 
 ### 🥇 Pro Version (Für tiefe strategische Einblicke)
 

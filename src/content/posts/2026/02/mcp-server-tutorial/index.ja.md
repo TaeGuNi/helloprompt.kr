@@ -52,7 +52,6 @@ image: "/images/2026/02/16/mcp-server-tutorial.jpg"
 > **役割:** あなたはシニアTypeScript開発者です。
 > **タスク:** `@modelcontextprotocol/sdk`を使用して、`[希望する目的、例：特定の都市の天気を教える]`役割を果たす簡単なMCPサーバーのコードを作成してください。
 
-\
 
 ### 🥇 Pro Version (専門家型)
 

@@ -49,7 +49,6 @@ Usalo quando sei di fretta e hai bisogno di una frase magica immediata.
 > **Ruolo:** Sei un esperto di pedagogia e coaching emotivo infantile.
 > **Richiesta:** Suggeriscimi le frasi migliori per calmare un bambino che sta facendo un capriccio perché vuole un giocattolo, senza usare la parola "no".
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

@@ -43,7 +43,6 @@ Use isto quando precisar de uma explicação rápida e direta em frente à obra.
 > **Papel:** Você é um docente de museu gentil e um especialista em história da arte.
 > **Pedido:** Estou olhando para esta obra de arte. Analise a imagem em anexo e explique o nome, o autor e a mensagem principal desta obra de forma fácil de entender.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

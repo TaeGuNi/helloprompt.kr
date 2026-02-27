@@ -42,7 +42,6 @@ Use this when you need a quick summary of the vulnerability for an internal Slac
 > **Role:** You are a Senior Security Analyst.
 > **Task:** Summarize the `[CVE-2026-20841]` vulnerability in Windows Notepad. Provide a brief explanation of the impact and 3 immediate action items for the IT team.
 
-\
 
 ### 🥇 Pro Version
 

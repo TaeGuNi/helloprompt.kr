@@ -38,7 +38,6 @@ Ideal para obtener una visión general rápida de las opciones disponibles y via
 > **Rol:** Eres un experto en IA y computación Edge.
 > **Tarea:** Recomiéndame el mejor Modelo de Lenguaje Pequeño (SLM) y técnicas de optimización para un `[tipo de dispositivo, ej: smartphone Android de gama media]`. El modelo debe realizar `[tarea específica, ej: análisis de sentimientos en tiempo real]`.
 
-\
 
 ### 🥇 Versión Pro (Professional Version)
 

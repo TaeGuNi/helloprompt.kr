@@ -48,7 +48,6 @@ Idéal pour des tâches simples où vous souhaitez éviter que l'IA ne se perde 
 `[Collez votre texte ici]`
 """
 
-\
 
 ### 🥇 Version Pro (Expert)
 

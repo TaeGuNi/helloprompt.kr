@@ -42,13 +42,10 @@ tags: ["로컬LLM", "보안", "Ollama", "개발자", "Llama3"]
 > **역할:** 시스템 관리자
 > **요청:** 터미널을 열고 다음 명령어를 순서대로 실행해 로컬 AI를 구축해 줘.
 >
-> ```bash
+>
 > brew install ollama
 > ollama run llama3
-> ```
-
-\
-
+>
 ### 🥇 Pro Version (전문가형)
 
 다운로드한 로컬 AI를 내 파이썬 스크립트나 개인 앱에 API로 연결하고 싶을 때 사용하세요.
@@ -65,13 +62,13 @@ tags: ["로컬LLM", "보안", "Ollama", "개발자", "Llama3"]
 > 1. 아래의 `curl` 명령어를 사용하여 로컬 AI의 REST API가 정상적으로 응답하는지 테스트하세요.
 > 2. `[질문 내용]` 부분은 사용자가 분석하고 싶은 보안 데이터나 코드로 자유롭게 교체하여 사용하세요.
 >
-> ```bash
+>
 > curl http://localhost:11434/api/generate -d '{
 >   "model": "llama3",
 >   "prompt": "[질문 내용]",
 >   "stream": false
 > }'
-> ```
+>
 >
 > **제약사항 (Constraints):**
 >

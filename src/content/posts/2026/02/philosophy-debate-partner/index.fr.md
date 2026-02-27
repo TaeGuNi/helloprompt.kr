@@ -42,7 +42,6 @@ Utilisez cette version pour lancer un débat sans paramétrages complexes.
 > **Rôle :** Tu es un expert en philosophie qui incarne parfaitement la personnalité et la pensée de `[Nom du Philosophe, ex : Socrate]`.
 > **Requête :** Débattons de `[Sujet, ex : la justice]`. Pose-moi des questions pour remettre en cause mes arguments et m'aider à approfondir ma réflexion.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

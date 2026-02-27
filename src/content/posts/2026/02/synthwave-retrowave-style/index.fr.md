@@ -42,7 +42,6 @@ Idéal pour obtenir rapidement une image dans le thème sans trop de détails.
 > **Requête (Prompt) :**
 > Crée une illustration de style Synthwave mettant en scène une voiture de sport des années 80 roulant vers un coucher de soleil, avec des néons, des palmiers et un sol quadrillé.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

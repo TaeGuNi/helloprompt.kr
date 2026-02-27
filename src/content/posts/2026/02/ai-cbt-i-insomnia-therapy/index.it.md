@@ -42,7 +42,6 @@ Ideale per ricevere indicazioni rapide quando l'ansia ti assale nel cuore della 
 > **Ruolo:** Sei uno psicologo clinico esperto in Terapia Cognitivo Comportamentale per l'Insonnia (CBT-I).
 > **Richiesta:** Guidami attraverso le tecniche di base della CBT-I per superare l'insonnia di questa notte senza ricorrere a farmaci. Calma la mia ansia e dammi istruzioni pratiche su cosa fare ora che non riesco a dormire.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

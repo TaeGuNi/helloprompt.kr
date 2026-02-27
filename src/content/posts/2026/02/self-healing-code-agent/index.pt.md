@@ -44,7 +44,6 @@ Use para correções rápidas de erros simples no dia a dia.
 > **Role (Papel):** Você é um `[Desenvolvedor Python Sênior]`.
 > **Task (Tarefa):** Corrija os bugs do `[Código Original]` com base na seguinte `[Mensagem de Erro]`.
 
-\
 
 ### 🥇 Versão Pro (Especialista)
 
@@ -73,16 +72,15 @@ Use para integrar ao seu sistema de agentes autônomos e criar um pipeline de de
 > **Input Data (Dados de Entrada):**
 > **Código Original:**
 >
-> ```python
+>
 > [Insira o código original aqui]
-> ```
+>
 >
 > **Log de Erro:**
 >
-> ```text
+>
 > [Insira a mensagem de erro do stderr aqui]
-> ```
-
+>
 ---
 
 ## 💻 Automatizando o Ciclo com Python (Implementação)

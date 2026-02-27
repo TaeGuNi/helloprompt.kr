@@ -45,7 +45,6 @@ Deja de perder el tiempo entrando a cada sitio web y dándole a actualizar. Si c
 > **Artículo completo:**
 `[Pegar el texto del artículo aquí]`
 
-\
 
 ### 🥇 Versión Pro (Redacción de Borradores)
 

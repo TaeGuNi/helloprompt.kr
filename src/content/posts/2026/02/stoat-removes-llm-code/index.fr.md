@@ -47,7 +47,6 @@ Bien que la démocratisation des outils de codage basés sur les LLM ait fait ex
 > **Tâche :** Révise le code ci-dessous et réécris-le en réduisant au maximum le nombre de lignes, tout en conservant 100% de ses fonctionnalités. Supprime impitoyablement les abstractions inutiles, la logique redondante et le code mort.
 > **Code :** `[Collez ici le code à refactoriser]`
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 
@@ -77,10 +76,9 @@ Bien que la démocratisation des outils de codage basés sur les LLM ait fait ex
 >
 > - Langage / Framework : `[Ex: React, TypeScript]`
 > - Code source :
->   ```
+>
 >   [Collez ici le code spaghetti à optimiser]
->   ```
-
+>
 ---
 
 ## 💡 L'avis de l'expert (Insight)

@@ -43,7 +43,6 @@ Usala quando hai poco tempo e ti serve un'idea al volo, senza troppi dettagli.
 > **Ruolo:** Sei un Personal Shopper di una boutique di lusso, esperto nel consigliare regali infallibili.
 > **Richiesta:** Suggerisci una lista di regali perfetti basandoti su: età, genere, grado di parentela/amicizia e budget del destinatario.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

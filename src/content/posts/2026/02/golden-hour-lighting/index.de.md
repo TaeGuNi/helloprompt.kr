@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt, wenn Sie einfach und schnell ein stimmungsvolles Bi
 > **Rolle:** Du bist ein professioneller Fotograf.
 > **Anfrage:** Erstelle ein Bild von `[Motiv]`. Verwende weiches `Golden hour` Licht für eine warme und emotionale Atmosphäre.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

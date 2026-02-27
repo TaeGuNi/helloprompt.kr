@@ -49,7 +49,6 @@ Ideal para noites em que você está exausto e precisa de algo rápido.
 > **Papel:** Você é um contador de histórias infantil afetuoso.
 > **Pedido:** Escreva um roteiro curto (2 minutos) para um teatro de sombras feito com as mãos. A história deve ser relaxante e ajudar a criança a dormir.
 
-\
 
 ### 🥇 Versão Pro (Expert Version)
 

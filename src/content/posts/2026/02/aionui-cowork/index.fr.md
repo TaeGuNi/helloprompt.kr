@@ -44,7 +44,6 @@ Lancer simplement l'interface utilisateur ne suffit pas. Vous avez besoin d'un p
 > **Rôle :** Tu es un `[développeur senior]`.
 > **Tâche :** Résous ce `[fonctionnalité/bug spécifique]` dans le projet actuel. Avant de commencer, tu dois impérativement m'expliquer quels fichiers tu prévois de modifier, et afficher les changements étape par étape afin qu'ils soient faciles à vérifier visuellement dans AionUi.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

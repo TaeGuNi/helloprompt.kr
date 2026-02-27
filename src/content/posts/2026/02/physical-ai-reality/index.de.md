@@ -50,7 +50,6 @@ Nutzen Sie diese Version, wenn Sie nur schnell die harten Fakten eines Tech-Arti
 > `[Tech-News/Demo-Inhalt]:`
 > (Fügen Sie hier den Text des Artikels ein)
 
-\
 
 ### 🥇 Pro Version (Für Experten)
 

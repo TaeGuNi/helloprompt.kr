@@ -45,7 +45,6 @@ Perfekt, um deine Argumentationskette schriftlich zu schärfen.
 >
 > **Anfrage:** Ich werde nun meine Gehaltsvorstellung von 50.000 € äußern. Bitte lehne diese Forderung mit logischen Argumenten ab. Sei dabei sehr pingelig und versuche, mich rhetorisch in die Enge zu treiben.
 
-\
 
 ### 🥇 Pro Version (Sprachmodus-Training)
 

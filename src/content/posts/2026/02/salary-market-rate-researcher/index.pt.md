@@ -48,7 +48,6 @@ Utilize esta versão quando precisar apenas de uma estimativa rápida.
 > **Papel:** Você é um especialista em remuneração e análise de mercado.
 > **Solicitação:** Compare e analise a faixa salarial média para o meu cargo e tempo de experiência, baseando-se em dados de sites de recrutamento, para me fornecer argumentos objetivos para uma negociação salarial.
 
-\
 
 ### 🥇 Versão Pro (Expert Version)
 

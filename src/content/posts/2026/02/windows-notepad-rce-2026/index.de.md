@@ -48,7 +48,6 @@ Der schnellste Weg, um auf der sicheren Seite zu sein.
 > 2. Navigieren Sie zu **Windows Update**.
 > 3. Klicken Sie auf **"Nach Updates suchen"** und installieren Sie alle verfügbaren Sicherheitsupdates. Starten Sie Ihren PC danach neu.
 
-\
 
 ### 🥇 Pro Version (Für IT-Administratoren)
 
@@ -64,9 +63,9 @@ Für Administratoren, die Netzwerke absichern und per Skript prüfen müssen.
 > **Aufgabe (Task):**
 >
 > 1. Führen Sie folgendes PowerShell-Skript aus, um die Notepad-Version zu überprüfen:
->    ```powershell
+>
 >    Get-AppxPackage *Microsoft.WindowsNotepad* | Select-Object Name, Version
->    ```
+>
 > 2. Wenn die Version älter als `[11.2402.18.0]` ist, initiieren Sie ein erzwungenes Update über Ihren WSUS oder Intune.
 >
 > **Einschränkungen (Constraints):**

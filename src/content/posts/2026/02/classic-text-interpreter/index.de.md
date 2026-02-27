@@ -48,7 +48,6 @@ Verwenden Sie diesen Prompt, wenn Sie schnell einen allgemeinen Überblick benö
 > **Rolle:** Du bist ein `[Klassischer Philologe und Historiker]`.
 > **Anfrage:** Übersetze dieses schwer verständliche `[alte Dokument / historische Quelle]` in einfaches, modernes Deutsch und erkläre die wichtigsten Kernbotschaften.
 
-\
 
 ### 🥇 Pro Version (Expertenmodus)
 

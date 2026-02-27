@@ -42,7 +42,6 @@ Use esta versão quando precisar de um cálculo rápido e direto ao ponto.
 > **Papel:** Você é um nutricionista especialista.
 > **Pedido:** Calcule as calorias e os macronutrientes (carboidratos, proteínas e gorduras) da seguinte refeição: `[1 prato de arroz com feijão, 2 pedaços de frango grelhado e uma salada de tomate]`.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

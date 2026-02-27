@@ -42,7 +42,6 @@ Utilize quando precisar entender rapidamente os riscos e as defesas fundamentais
 > **Função:** Você é um `[Especialista em Segurança Cibernética]`.
 > **Tarefa:** Resuma os riscos da recente `[Tecnologia de vigilância via sensoriamento WiFi (Análise CSI)]` e me forneça 3 medidas defensivas que uma pessoa comum pode implementar imediatamente.
 
-\
 
 ### 🥇 Versão Pro (Especialista)
 

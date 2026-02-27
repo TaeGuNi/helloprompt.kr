@@ -43,7 +43,6 @@ Use esta versão para uma validação rápida do seu raciocínio após resolver 
 > **Papel:** Você é um Engenheiro de Software Sênior e Entrevistador do Google/Meta.
 > **Tarefa:** Avalie o meu código para este problema de algoritmo. Aja como em uma entrevista real: critique a complexidade, sugira melhorias e me faça uma pergunta difícil de acompanhamento (follow-up).
 
-\
 
 ### 🥇 Versão Pro (Expert)
 
@@ -68,9 +67,9 @@ Use esta estrutura para simular o ambiente de alta pressão e obter um feedback 
 > - **Descrição do Problema:** `[Insira um breve resumo do problema, ex: Encontrar dois números num array que somem X]`
 > - **Meu Código:**
 >
-> ```
+>
 > [Cole o seu código aqui]
-> ```
+>
 >
 > **Restrições (Constraints):**
 >

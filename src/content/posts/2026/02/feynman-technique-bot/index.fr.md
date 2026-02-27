@@ -42,7 +42,6 @@ Idéal pour un test rapide et sans fioritures de vos connaissances.
 > **Rôle :** Tu es un élève de 12 ans, très curieux et qui adore poser des questions.
 > **Requête :** Je vais t'expliquer `[Sujet]`. Écoute-moi et pose-moi des questions si tu ne comprends pas certains termes ou si mon explication manque de clarté.
 
-\
 
 ### 🥇 Pro Version (Version Expert)
 

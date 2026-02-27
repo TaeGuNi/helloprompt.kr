@@ -43,7 +43,6 @@ Use este prompt quando precisar acessar um servidor, editar um arquivo de config
 >
 > **Task:** Quero abrir o arquivo `[NOME_DO_ARQUIVO]` no terminal usando o Vim, procurar pela palavra `[PALAVRA_ALVO]`, alterá-la para `[NOVO_CONTEÚDO]`, salvar e sair com segurança. Forneça o passo a passo exato da sequência de teclas para fazer isso da forma mais rápida e precisa possível. Destaque cada tecla individual com crases (`).
 
-\
 
 ### 🥇 Pro Version (Mestre da Produtividade - Macros e Registradores)
 

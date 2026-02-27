@@ -42,7 +42,6 @@ Use this when you need a quick, no-frills meal plan.
 > **Role:** You are a certified clinical nutritionist and personal trainer.
 > **Request:** Create a healthy 7-day meal plan for me. I want to lose weight. Include a grocery list.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

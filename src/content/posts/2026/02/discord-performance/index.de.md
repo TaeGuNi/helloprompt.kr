@@ -38,7 +38,6 @@ Ideal für einen kurzen Architektur-Check, wenn Sie schnelles, pragmatisches Fee
 > **Rolle:** Du bist ein Senior System Architect.
 > **Aufgabe:** Analysiere mein aktuelles System-Setup `[Tech-Stack & Nutzerzahlen]` und identifiziere den größten Engpass. Schlage eine pragmatische Lösung vor.
 
-\
 
 ### 🥇 Pro Version (Discord-Level Engineering)
 

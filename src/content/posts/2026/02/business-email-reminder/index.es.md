@@ -42,7 +42,6 @@ Cuando necesitas información urgente para avanzar en un proyecto, el silencio d
 > **Rol:** Eres un Experto en Comunicación Empresarial y Negociador.
 > **Solicitud:** Escribe un correo electrónico formal para recordar a un socio comercial que no ha respondido a mi solicitud anterior, manteniendo un tono educado pero firme sobre la necesidad de una respuesta.
 
-\
 
 ### 🥇 Versión Pro (Experto)
 

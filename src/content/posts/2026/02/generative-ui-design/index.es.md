@@ -52,7 +52,6 @@ Ideal para obtener ideas rápidas sobre la estructura de una pantalla.
 > **Rol:** Eres un `[Lead Product Designer]`.
 > **Tarea:** Describe el diseño y la estructura de un componente de UI móvil que muestre un `[itinerario de viaje de fin de semana a Barcelona]`. Incluye recomendaciones de clases de Tailwind CSS.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

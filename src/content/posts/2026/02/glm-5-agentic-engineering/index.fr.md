@@ -42,7 +42,6 @@ Pour les tâches de développement simples nécessitant une fiabilité immédiat
 > **Rôle :** Tu es un ingénieur logiciel autonome de niveau senior.
 > **Tâche :** Résous le problème lié à `[votre problème/bug]`. Avant d'écrire le moindre code, analyse brièvement la cause profonde, propose un plan d'action, puis génère une solution validée.
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 

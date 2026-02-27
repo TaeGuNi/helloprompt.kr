@@ -42,7 +42,6 @@ Idéal lorsque vous êtes en pleine session d'écriture ou de jeu et qu'il vous 
 > **Rôle :** Tu es un linguiste expert en langues anciennes et un maître bâtisseur de mondes de fantasy.
 > **Requête :** Génère un nom crédible et immersif pour `[une forêt elfique ancienne]`. Donne-moi juste le nom et sa signification.
 
-\
 
 ### 🥇 Pro Version (Version Expert)
 

@@ -48,7 +48,6 @@ tags: ["WebAssembly", "Rust", "Performance"]
 > **Код:**
 > `[Вставьте сюда ваш код C++/Go/Rust для конвертации]`
 
-\
 
 ### 🥇 Профессиональная версия (Pro Version)
 
@@ -70,9 +69,9 @@ tags: ["WebAssembly", "Rust", "Performance"]
 >
 > **Входной код:**
 >
-> ```plaintext
+>
 > [Вставьте сюда существующий код]
-> ```
+>
 >
 > **Ограничения (Constraints):**
 >

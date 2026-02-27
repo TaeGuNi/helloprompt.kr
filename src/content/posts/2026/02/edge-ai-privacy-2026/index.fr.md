@@ -41,7 +41,6 @@ Utilisez ce prompt pour obtenir une vue d'ensemble rapide de la faisabilité d'u
 > **Rôle :** Tu es un Architecte Logiciel Senior spécialisé en Edge AI.
 > **Tâche :** Analyse la faisabilité de l'intégration d'un LLM local pour `[Mon projet/Application]`. Propose-moi 3 modèles quantifiés adaptés et liste les défis potentiels liés à la mémoire RAM et à la consommation de la batterie.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

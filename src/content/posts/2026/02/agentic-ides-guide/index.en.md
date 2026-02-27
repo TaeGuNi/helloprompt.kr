@@ -46,7 +46,6 @@ Use this when you just need a quick file separation. (The level of detail in the
 > **Role:** You are a `[Frontend Developer]`.
 > **Task:** The `[UserProfile.tsx]` component is too large. Separate the UI and business logic into different files.
 
-\
 
 ### 🥇 Pro Version
 

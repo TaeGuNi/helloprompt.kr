@@ -42,7 +42,6 @@ Utilisez cette version pour obtenir une trame rapide et efficace.
 > **Rôle :** Tu es un recruteur expert et un consultant en image professionnelle.
 > **Requête :** Rédige un script d'auto-présentation d'une minute qui met en avant mes compétences clés et mon concept professionnel, en évitant absolument les métaphores clichés et génériques.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

@@ -43,7 +43,6 @@ Da usare quando hai fretta e ti serve un riassunto immediato.
 > **Compito:** Riassumi la seguente trascrizione della riunione evidenziando le decisioni prese e le azioni da compiere.
 > **Trascrizione:** `[INSERISCI QUI LA TRASCRIZIONE]`
 
-\
 
 ### 🥇 Versione Pro (Professional)
 

@@ -43,7 +43,6 @@ La clave de una alimentación saludable y sostenible es la **planificación**. S
 > **Rol:** Eres un nutricionista clínico experto.
 > **Solicitud:** Crea un menú semanal saludable para una persona que quiere bajar de peso, incluyendo las calorías aproximadas y la lista de compras.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

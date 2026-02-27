@@ -38,7 +38,6 @@ Utilisez cette version pour obtenir un aperçu rapide et compréhensible de la t
 > **Rôle :** Tu es un `[Ingénieur Système Expert en Rust]`.
 > **Tâche :** Explique-moi le fonctionnement, l'architecture et les avantages de sécurité du pilote de GPU `[Tyr]` pour les architectures `[Arm Mali]`.
 
-\
 
 ### 🥇 Pro Version (Version Expert)
 

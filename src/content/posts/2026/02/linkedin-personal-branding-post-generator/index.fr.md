@@ -43,7 +43,6 @@ Utilisez cette version pour générer rapidement une première ébauche lorsque 
 > **Requête :** Transforme mon expérience professionnelle du jour en un post LinkedIn engageant qui met en valeur mes compétences, même sans accomplissement majeur.
 > **Mon expérience d'aujourd'hui :** `[Insérez brièvement ce qu'il s'est passé]`
 
-\
 
 ### 🥇 Version Pro (Expert)
 

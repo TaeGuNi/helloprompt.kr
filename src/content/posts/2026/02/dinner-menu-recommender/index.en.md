@@ -43,7 +43,6 @@ Use this when you need a quick, no-fuss recommendation.
 > **Role:** You are a culinary expert and a therapist specializing in decision paralysis.
 > **Request:** I don't know what to eat for dinner tonight. Ask me a few quick questions to recommend a menu.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

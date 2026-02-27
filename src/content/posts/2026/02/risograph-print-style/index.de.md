@@ -42,7 +42,6 @@ Verwenden Sie diesen kurzen Prompt, wenn Sie sofort ein ansprechendes Ergebnis o
 > **Rolle:** Du bist ein professioneller Riso-Druckkünstler.
 > **Anfrage:** Erstelle ein Bild im Risograph-Druckstil. Nutze eine begrenzte Farbpalette (z. B. Neonpink und Blau), sichtbare Halbtöne und einen leichten Farbversatz. Das Motiv ist `[Dein Motiv, z.B. eine Kaffeetasse auf einem Schreibtisch]`.
 
-\
 
 ### 🥇 Pro Version (Für maximale Kontrolle)
 

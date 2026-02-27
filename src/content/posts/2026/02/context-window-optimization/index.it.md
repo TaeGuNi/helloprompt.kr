@@ -45,7 +45,6 @@ Ideale per l'analisi rapida e l'estrazione di informazioni da documenti moderata
 > </documento>
 > **Richiesta:** Riassumi i concetti chiave e trova le informazioni relative a `[INFORMAZIONE SPECIFICA]`.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

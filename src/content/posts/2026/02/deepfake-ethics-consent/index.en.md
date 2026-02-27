@@ -42,7 +42,6 @@ Use this when you need to quickly draft the core principles of an ethical policy
 > **Role:** You are an AI Ethics Expert at an IT company.
 > **Task:** Draft the "5 Core Principles Prohibiting the Creation and Distribution of Non-Consensual Deepfakes" to protect the users of our service.
 
-\
 
 ### 🥇 Pro Version
 

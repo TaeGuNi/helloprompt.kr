@@ -42,7 +42,6 @@ La formación de un hábito no depende de tu fuerza de voluntad, sino del diseñ
 > **Rol:** Eres un Psicólogo Conductual y un Experto en Formación de Hábitos. Basarás tus consejos en la teoría de 'Hábitos Atómicos' de James Clear.
 > **Solicitud:** Ayúdame a crear un sistema de formación de hábitos para `[hacer ejercicio diario]` basado en la ciencia del cerebro, sin depender de mi fuerza de voluntad.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

@@ -44,7 +44,6 @@ Utilizza questa versione quando hai bisogno di trasformare velocemente lo script
 >
 > [Inserisci lo script del video YouTube]
 
-\
 
 ### 🥇 Versione Pro (Master Multi-Piattaforma)
 

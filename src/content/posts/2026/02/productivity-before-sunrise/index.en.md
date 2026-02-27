@@ -42,7 +42,6 @@ Use this when you need a quick, no-nonsense schedule right before bed.
 > **Role:** You are an elite productivity coach.
 > **Task:** I have 2 hours tomorrow morning (5:00 AM to 7:00 AM). My main goal is to `[insert your main task, e.g., write a blog post]`. Break this down into four highly actionable 25-minute work blocks with 5-minute breaks.
 
-\
 
 ### 🥇 Pro Version
 

@@ -42,7 +42,6 @@ Usala quando hai poco tempo e ti serve una bozza rapida e d'impatto da cui parti
 > **Ruolo:** Sei un Senior HR Manager e membro del comitato di selezione di una grande azienda.
 > **Richiesta:** Analizza la Job Description fornita e scrivi in 1 minuto una bozza di lettera di presentazione che si adatti perfettamente al profilo ricercato.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

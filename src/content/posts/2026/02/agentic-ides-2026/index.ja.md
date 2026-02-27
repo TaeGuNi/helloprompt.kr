@@ -43,7 +43,6 @@ tags: ["AI", "Coding", "Trends"]
 > **役割:** あなたはシニア・ソフトウェアエンジニアです。
 > **要請:** `[src/components/UserList.tsx]` にページネーション機能を追加し、関連するテストコードも更新してください。
 
-\
 
 ### 🥇 Pro Version（専門家型）
 

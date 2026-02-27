@@ -44,7 +44,6 @@ Utilisez ce prompt lorsque vous avez besoin d'un nettoyage rapide sans instructi
 > **Rôle :** Tu es un Ingénieur Logiciel Senior avec 20 ans d'expérience, expert incontesté en 'Clean Code'.
 > **Demande :** Transforme ce code spaghetti complexe en un code propre, modulaire, facile à lire et à maintenir. Voici le code : `[Insérer le code ici]`
 
-\
 
 ### 🥇 Version Pro (Expert)
 

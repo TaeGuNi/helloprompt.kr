@@ -42,7 +42,6 @@ Ce qui est redoutable avec le Cloud, ce n'est pas de payer pour ce que l'on util
 > **Rôle :** Tu es un Architecte Cloud Senior.
 > **Tâche :** En analysant ma facture AWS, je constate que les coûts liés aux `[Volumes EBS]` sont anormalement élevés. Identifie tous les volumes non attachés (Unattached), les anciens snapshots obsolètes et les adresses Elastic IP allouées mais inutilisées. Fournis-moi les commandes AWS CLI exactes pour les supprimer, en précisant bien les précautions à prendre avant exécution.
 
-\
 
 ### 🥇 Version Pro (Instances Spot & Optimisation structurelle)
 

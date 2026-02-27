@@ -45,7 +45,6 @@ Use esta versão quando precisar estabelecer rapidamente a estrutura de um proje
 >
 > **Task (Tarefa):** Para alcançar com sucesso o `[Objetivo do Projeto]`, planeje 3 marcos (milestones) essenciais. Em seguida, organize em formato de tabela os profissionais (papéis) que devem atuar em cada fase e os itens de ação específicos que eles precisam executar.
 
-\
 
 ### 🥇 Versão Pro (Especialista)
 

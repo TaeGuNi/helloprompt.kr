@@ -48,7 +48,6 @@ Esta es la fase donde analizamos tus datos de texto históricos para extraer tu 
 > **Datos:**
 > `[Pega aquí de 3 a 5 ejemplos de tus textos anteriores, mensajes de chat, correos, etc.]`
 
-\
 
 ### 🥇 Step 2: Prompt de Inyección de Persona (Persona Injection)
 

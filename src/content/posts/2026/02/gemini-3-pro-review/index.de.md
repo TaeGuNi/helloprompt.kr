@@ -41,7 +41,6 @@ Nutzen Sie diese Vorlage für schnelle Code-Reviews oder Performance-Checks.
 > **Rolle:** Du bist ein erfahrener `[Sprache, z.B. Python]` Performance-Ingenieur.
 > **Aufgabe:** Analysiere den folgenden Code, identifiziere Leistungsengpässe und maximiere die Ausführungsgeschwindigkeit. Erkläre das "Warum" hinter deinen Änderungen.
 
-\
 
 ### 🥇 Pro Version (Für tiefgreifendes Refactoring & Architektur)
 

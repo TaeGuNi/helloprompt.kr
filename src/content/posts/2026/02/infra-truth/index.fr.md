@@ -41,7 +41,6 @@ Idéal pour un décryptage rapide d'une annonce ou d'une nouvelle entreprise tec
 > **Rôle :** Tu es un `[Analyste Financier Tech senior]`.
 > **Requête :** Analyse le modèle économique de `[Nom de l'entreprise ou technologie]` et dis-moi s'il repose sur de la véritable création de valeur ou simplement sur la hype de l'IA. Identifie qui détient réellement l'infrastructure sous-jacente.
 
-\
 
 ### 🥇 Pro Version (Version avancée)
 

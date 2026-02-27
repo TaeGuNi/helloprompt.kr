@@ -48,7 +48,6 @@ Ideale quando hai bisogno di un'idea rapida per sbloccare la creatività.
 > **Ruolo:** Agisci come un Senior Performance Marketer.
 > **Richiesta:** Scrivi 3 varianti di testo principale (Primary Text) per un annuncio Facebook/Instagram che promuove `[Il Tuo Prodotto/Servizio]`. L'obiettivo è massimizzare il CTR (Click-Through Rate).
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

@@ -43,7 +43,6 @@ Verwenden Sie diese Version, wenn Sie nur schnell die wichtigsten Punkte und Auf
 > **Aufgabe:** Fasse das folgende Meeting-Transkript prägnant zusammen. Nenne mir die wichtigsten Entscheidungen und wer was bis wann erledigen muss (To-Dos).
 > **Transkript:** `[Füge hier den Text des Transkripts ein]`
 
-\
 
 ### 🥇 Pro Version (Für offizielle Dokumentation)
 

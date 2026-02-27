@@ -43,7 +43,6 @@ Verwenden Sie diesen Prompt, wenn Sie schnell ein sauberes Ergebnis ohne viele D
 > **Rolle:** Du bist ein erfahrener Open-Source-Maintainer, der großen Wert auf eine saubere Git-Historie legt.
 > **Anfrage:** Analysiere die folgenden Code-Änderungen und erstelle eine saubere, standardisierte Commit-Nachricht nach den Regeln der Conventional Commits.
 
-\
 
 ### 🥇 Pro Version (Experte)
 

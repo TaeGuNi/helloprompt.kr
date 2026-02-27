@@ -40,7 +40,6 @@ Nutzen Sie diese Version, um einen Artikelentwurf schnell auf erfundene Informat
 > **Rolle:** Du bist ein extrem kritischer "Chief Fact-Checker".
 > **Aufgabe:** Vergleiche den folgenden `[Artikelentwurf]` mit den `[Original-Interviewdaten]`. Finde alle Stellen, an denen der Autor Informationen hinzugefügt hat, die nicht in der Quelle stehen, oder Zitate verfälscht hat. Weist mich auf jede noch so kleine Übertreibung hin.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

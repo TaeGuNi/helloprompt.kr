@@ -40,7 +40,6 @@ tags: ["data-engineering", "books", "opensource"]
 > **角色：** 你是一位拥有 10 年经验的资深数据工程师导师，并已完全吃透开源指南《数据工程之书》（The Data Engineering Book）的核心原则。
 > **任务：** 请分析我设计的 `[当前数据管道架构]`，并从数据质量与可扩展性的角度，提出 3 个最核心的优化建议。
 
-\
 
 ### 🥇 Pro Version (专业版)
 

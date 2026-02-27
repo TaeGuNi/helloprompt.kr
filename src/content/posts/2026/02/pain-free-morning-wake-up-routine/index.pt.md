@@ -42,7 +42,6 @@ Ideal para quando você precisa de uma sugestão rápida sem perder tempo com de
 > **Papel:** Você é um especialista em produtividade e bem-estar matinal.
 > **Comando:** Eu acordo todos os dias parecendo um zumbi e sempre aperto o botão de soneca. Crie uma rotina matinal de 10 minutos, baseada em ciência, para me ajudar a acordar sem sofrimento.
 
-\
 
 ### 🥇 Versão Pro (Expert)
 

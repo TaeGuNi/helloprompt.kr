@@ -40,7 +40,6 @@ Fast, but highly prone to hallucinations, logical errors, and lazy outputs.
 > **Role:** You are an expert Python developer.
 > **Task:** Write a script to scrape pricing data from `[Target URL]` and ensure there are no bugs.
 
-\
 
 ### 🥇 Pro Version (Agentic Workflow Setup)
 

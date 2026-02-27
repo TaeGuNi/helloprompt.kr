@@ -42,7 +42,6 @@ Usala quando hai bisogno di una stima rapida e immediata.
 > **Ruolo:** Sei un `[Promotore Finanziario / CFP]` esperto in pianificazione previdenziale.
 > **Richiesta:** Elimina la mia incertezza sul futuro. Calcola con precisione quanti fondi mi servono per la pensione e quanto devo risparmiare e investire mensilmente.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

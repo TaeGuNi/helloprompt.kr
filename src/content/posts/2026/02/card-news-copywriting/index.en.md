@@ -42,7 +42,6 @@ Use this when you need quick, punchy ideas on the fly.
 > **Role:** You are an `[Expert Social Media Content Marketer]`.
 > **Request:** Write 5 powerful, scroll-stopping headlines for an Instagram carousel post about `[Topic]`.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

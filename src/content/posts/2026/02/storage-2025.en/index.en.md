@@ -40,7 +40,6 @@ Use this when you quickly need summarized statistics and recommended drive lineu
 > **Role:** You are a Senior Data Center Infrastructure Engineer and Storage Expert.
 > **Task:** Based on the Backblaze 2025 Drive Stats, recommend two 20TB+ high-capacity HDD models suitable for a massive AI training data lake, and explain the reasoning behind your choices.
 
-\
 
 ### 🥇 Pro Version
 

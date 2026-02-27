@@ -42,7 +42,6 @@ Use this when you need a quick concept to spark your imagination.
 > **Role:** You are a seasoned biologist and monster ecologist exploring an uncharted continent.
 > **Request:** I am bored of standard fantasy tropes like goblins and slimes. Design an entirely original monster for my world, detailing its realistic ecosystem, diet, and habits.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

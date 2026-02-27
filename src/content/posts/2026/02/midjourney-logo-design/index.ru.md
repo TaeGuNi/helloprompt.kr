@@ -44,7 +44,6 @@ tags: ["Midjourney", "로고", "디자인", "브랜딩", "AI그림"]
 > **Задача (Task):**
 `minimalistic vector logo of a [Blue Whale], simple shapes, flat design, white background --no text --v 6.0`
 
-\
 
 ### 🥇 Pro-версия (Айдентика бренда)
 

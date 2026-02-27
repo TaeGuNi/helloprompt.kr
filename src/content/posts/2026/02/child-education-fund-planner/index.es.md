@@ -42,7 +42,6 @@ El aumento del costo de la educación históricamente siempre supera la tasa de 
 > **Rol:** Eres un `[Planificador Financiero]` especializado en fondos para la educación infantil.
 > **Solicitud:** El costo de la educación sube más rápido que la inflación. ¿Cuánto dinero exacto necesitaré ahorrar para cuando mi hijo vaya a la universidad? Dame un cálculo estimado según tu conocimiento.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

@@ -39,7 +39,6 @@ Para estructurar rápidamente un flujo de trabajo distribuido.
 > **Rol:** Eres un Arquitecto de Sistemas Distribuidos.
 > **Solicitud:** Diseña una arquitectura basada en Redes de Petri para un sistema donde múltiples agentes LLM colaboran para `[insertar tarea, ej. procesar reembolsos de clientes]`. Identifica los lugares (estados) y las transiciones de forma clara.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

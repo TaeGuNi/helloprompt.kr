@@ -39,7 +39,6 @@ tags: ["architecture", "frontend", "microservices", "web-development"]
 > **役割:** あなたはシニアフロントエンドアーキテクトです。
 > **タスク:** 当社のWebアプリケーションにマイクロフロントエンドを導入するための基本的なアプローチと、推奨される技術スタック（Module Federationなど）を提案してください。
 
-\
 
 ### 🥇 Pro Version (専門家型)
 

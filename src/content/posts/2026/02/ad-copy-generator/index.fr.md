@@ -49,7 +49,6 @@ Utilisez ce prompt lorsque vous manquez de temps et avez besoin d'une inspiratio
 >
 > **Demande :** Rédige 3 propositions de textes principaux pour une publicité Meta (Facebook/Instagram) concernant `[votre produit/service]`. L'objectif est de maximiser le taux de clics (CTR).
 
-\
 
 ### 🥇 Version Pro (Expert)
 

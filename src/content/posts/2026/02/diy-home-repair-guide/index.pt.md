@@ -42,7 +42,6 @@ Use para identificar rapidamente a causa de um problema simples ou obter dicas d
 > **Role:** Você é um especialista veterano com 30 anos de experiência em `[hidráulica/elétrica/reparos em geral]`.
 > **Task:** O meu `[local ou nome do aparelho]` está com problemas. O sintoma é `[descrição detalhada do sintoma]`. Qual é a causa provável? Diga-me 3 passos simples, em ordem de dificuldade, para que eu possa consertar sozinho sem chamar um técnico. Se necessário, recomende ferramentas básicas que eu possa comprar em uma loja de ferragens local.
 
-\
 
 ### 🥇 Pro Version (Versão Profissional)
 

@@ -49,7 +49,6 @@ Usa questo prompt se vai di fretta e ti servono solo un paio di spunti al volo.
 > **Ruolo:** Sei un autore di libri per bambini molto creativo e divertente.
 > **Richiesta:** Proponimi un gioco di creatività per mio figlio in cui dobbiamo disegnare situazioni stravaganti per inventare una storia a staffetta. Dammi 3 idee iniziali per i disegni.
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

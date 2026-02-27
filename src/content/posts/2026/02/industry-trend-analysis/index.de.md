@@ -42,7 +42,6 @@ Nutzen Sie diese Variante, wenn Sie sich nur einen groben, schnellen Überblick 
 > **Rolle:** Du bist ein `[Senior Industrieanalyst]` bei einer globalen Top-Tier-Unternehmensberatung (z.B. McKinsey, BCG).
 > **Aufgabe:** Analysiere die am schnellsten wachsenden Trends in der Branche `[Zielbranche]` und nenne mir die wichtigsten Profiteure (Aktien) an der Börse.
 
-\
 
 ### 🥇 Pro Version (Expertenanalyse)
 

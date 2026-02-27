@@ -43,7 +43,6 @@ Verwenden Sie diesen Prompt, wenn Sie eine historische Figur in die Gegenwart od
 > **Situation:** `[Fiktives Szenario, z. B. Du wurdest im Jahr 2026 zum Stabschef der südkoreanischen Marine ernannt]`
 > **Aufgabe:** Analysiere die aktuelle sicherheitspolitische Lage (Konflikte mit Nachbarstaaten etc.) und gib ein Briefing über deinen ersten Befehl und deine Verteidigungsstrategie als Stabschef.
 
-\
 
 ### 🥇 Pro Version (Expertenmodus)
 

@@ -62,7 +62,6 @@ Use isso quando precisar identificar rapidamente problemas ou vulnerabilidades n
 > **Role (Papel):** Você é um `[Desenvolvedor Backend Sênior]`.
 > **Task (Tarefa):** Analise o código a seguir e refatore-o focando em identificar `[vulnerabilidades de segurança e vazamentos de memória]`.
 
-\
 
 ### 🥇 Pro Version (Versão Profissional)
 

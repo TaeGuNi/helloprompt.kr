@@ -45,7 +45,6 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Sci-Fi", "Retro"]
 >
 > **主題:** `[描きたい対象、例：フクロウ、飛行船、都市]`
 
-\
 
 ### 🥇 Pro Version (専門家向けプロンプト)
 

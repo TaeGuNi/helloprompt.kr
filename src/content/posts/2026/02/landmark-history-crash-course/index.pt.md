@@ -48,7 +48,6 @@ Use esta versão quando estiver com pressa e precisar de um resumo rápido em fr
 > **Papel:** Você é um 'Autor de História Best-seller' e um guia turístico envolvente.
 > **Pedido:** Conte-me a história do `[Nome do Local]` de forma cativante, focando em curiosidades e não apenas em datas.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

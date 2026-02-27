@@ -42,13 +42,10 @@ Utilisez cette méthode pour lancer instantanément une IA sur votre PC sans con
 > **Rôle :** Administrateur système
 > **Tâche :** Ouvre le terminal et exécute les commandes suivantes dans l'ordre pour configurer une IA locale.
 >
-> ```bash
+>
 > brew install ollama
 > ollama run llama3
-> ```
-
-\
-
+>
 ### 🥇 Version Pro (Pro Version)
 
 Idéale lorsque vous souhaitez connecter l'IA locale téléchargée à vos scripts Python ou à vos applications personnelles via une API.
@@ -65,13 +62,13 @@ Idéale lorsque vous souhaitez connecter l'IA locale téléchargée à vos scrip
 > 1. Utilisez la commande `curl` ci-dessous pour vérifier que l'API REST de l'IA locale répond correctement.
 > 2. Remplacez la section `[Votre question/donnée]` par le code ou les données sensibles que vous souhaitez analyser.
 >
-> ```bash
+>
 > curl http://localhost:11434/api/generate -d '{
 >   "model": "llama3",
 >   "prompt": "[Votre question/donnée]",
 >   "stream": false
 > }'
-> ```
+>
 >
 > **Contraintes (Constraints) :**
 >

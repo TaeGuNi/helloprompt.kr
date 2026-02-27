@@ -108,4 +108,3 @@ A. `scripts/qa/audit.ts`는 **본문(Body) 내용**에서 한국어를 감지합
   # Translation in Progress
 
   This post is currently being translated.
-  ```

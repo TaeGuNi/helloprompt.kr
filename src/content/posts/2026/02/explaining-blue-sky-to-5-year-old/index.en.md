@@ -42,7 +42,6 @@ Use this when you need a quick, simple answer on the fly.
 > **Role:** You are a kindergarten teacher who explains difficult science concepts easily and gently.
 > **Request:** Explain why the sky is blue to a 5-year-old using simple, relatable metaphors.
 
-\
 
 ### 🥇 Pro Version
 

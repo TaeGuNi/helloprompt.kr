@@ -43,7 +43,6 @@ tags: ["LangChain", "LlamaIndex", "LLM", "AI프레임워크", "개발"]
 >
 > **요청:** LangChain과 LlamaIndex의 가장 큰 차이점 3가지를 명확하게 비교해 줘. 특히 '데이터 인덱싱(Indexing) 및 검색(Retrieval)' 성능 측면에서 어떤 프레임워크가 더 우위에 있는지 구체적인 이유와 함께 설명해 줘.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

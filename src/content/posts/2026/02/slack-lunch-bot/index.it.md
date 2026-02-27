@@ -44,7 +44,6 @@ Il prompt di raccomandazione casuale perfetto per sconfiggere rapidamente l'inde
 > **Richiesta (Task):**
 Scegli casualmente una categoria tra cucina italiana, asiatica, messicana, fast food o healthy/insalate. Quindi, raccomanda 3 piatti rappresentativi all'interno di quella categoria che siano generalmente apprezzati dai lavoratori in pausa pranzo.
 
-\
 
 ### 🥇 Versione Pro
 

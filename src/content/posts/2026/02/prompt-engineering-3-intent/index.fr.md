@@ -47,7 +47,6 @@ Pour les tâches évidentes où le contexte visuel ou textuel se suffit à lui-m
 > **Contexte :** `[Fichier ou image jointe]`
 > **Demande :** Prépare ça pour `[Plateforme/Objectif, ex: un post Instagram]`.
 
-\
 
 ### 🥇 Version Pro (Cadrée mais souple)
 

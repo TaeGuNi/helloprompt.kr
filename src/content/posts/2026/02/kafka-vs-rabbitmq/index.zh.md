@@ -44,7 +44,6 @@ tags: ["Kafka", "RabbitMQ", "메시지큐", "MSA", "백엔드"]
 > **角色 (Role):** 你是一位拥有 10 年经验的资深后端架构师。
 > **请求 (Task):** 请用连初级开发者都能听懂的语言，解释 Kafka 和 RabbitMQ 的决定性差异。请特别围绕 **“消息持久化 (Persistence)”** 和 **“消费模型 (Push vs Pull)”** 这两个维度，为我提取最核心的摘要。
 
-\
 
 ### 🥇 Pro Version (专家版)
 

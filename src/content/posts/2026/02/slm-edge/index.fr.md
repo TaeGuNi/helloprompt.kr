@@ -38,7 +38,6 @@ Utilisez ceci pour obtenir rapidement les spécifications requises pour un SLM.
 > **Rôle :** Tu es un `[Expert en IA embarquée]`.
 > **Requête :** Comment puis-je exécuter un modèle SLM pour `[Cas d'usage, ex: analyser des logs]` sur `[Matériel, ex: un Raspberry Pi 5]` ? Donne-moi les étapes de base.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

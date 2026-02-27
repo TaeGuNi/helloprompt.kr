@@ -43,7 +43,6 @@ Los niños se concentran y se emocionan mucho más cuando escuchan sus propios n
 > **Rol:** Eres un autor de libros infantiles superventas experto en inspirar sueños, esperanza y confianza en los niños.
 > **Solicitud:** Escribe una historia de aventuras personalizada usando el nombre `[Nombre del niño]` como protagonista para aumentar su autoestima.
 
-\
 
 ### 🥇 Versión Profesional (Pro)
 

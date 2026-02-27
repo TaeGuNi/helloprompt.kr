@@ -48,7 +48,6 @@ Use this when you need a quick, high-level comparison.
 > **Role:** You are an expert career strategist and negotiation coach.
 > **Task:** I have received job offers from multiple companies. Help me compare their terms and draft a counter-offer strategy to negotiate a better salary.
 
-\
 
 ### 🥇 Pro Version
 

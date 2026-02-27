@@ -51,7 +51,6 @@ If you aren't using the **Context Caching** features provided by modern APIs, yo
 
 > *Pro Tip:* Place static content (rules, examples) at the very top of your prompt, and dynamic content (user queries, recent chat) at the bottom. Caching relies on the prefix of the text to work!
 
-\
 
 ### 🥇 Pattern 2: The "Summarize-and-Forget" Loop
 

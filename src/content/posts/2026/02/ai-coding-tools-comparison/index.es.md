@@ -42,7 +42,6 @@ En pleno 2026, el arma más poderosa para determinar la productividad de un desa
 > **Rol:** Eres un Ingeniero DevOps Senior muy al tanto de las últimas tendencias.
 > **Instrucción:** Resume y compara las diferencias clave entre GitHub Copilot, Cursor y Windsurf, centrándote específicamente en la "capacidad de comprensión del código base" y la "autonomía del agente".
 
-\
 
 ### 🥇 Versión Pro (Decisión de Implementación y Migración del Equipo)
 

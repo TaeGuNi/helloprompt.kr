@@ -37,7 +37,6 @@ Usa questo prompt per avere un'idea rapida di come dividere un task tra più age
 > **Ruolo:** Agisci come un Manager di Sciami AI.
 > **Richiesta:** Ho questo problema complesso: `[Descrivi il tuo problema/progetto]`. Dividilo in 3 sotto-task e assegna ciascuno a un agente AI specializzato con un ruolo specifico.
 
-\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

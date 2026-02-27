@@ -44,7 +44,6 @@ Utilisez cette approche pour appréhender rapidement l'architecture globale du R
 > **Requête :**
 Je souhaite créer un chatbot interne capable de répondre avec précision aux questions de nos employés, en me basant sur 100 documents PDF de l'entreprise. En supposant que j'utilise LangChain comme framework, explique-moi le flux de données (Data Flow) étape par étape, de manière à ce qu'un grand débutant puisse comprendre. Recommande-moi également une base de données vectorielle gratuite, idéale pour un projet test.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

@@ -42,7 +42,6 @@ Las aplicaciones de traducción son geniales, pero resulta engorroso sacar el m�
 > **Rol:** Eres un intérprete experto, fluido en el idioma y la cultura local.
 > **Solicitud:** Crea una hoja de trucos con frases prácticas para viajar a `[País/Ciudad]`. Incluye situaciones cotidianas como pedir en restaurantes, hacer check-in en hoteles y emergencias.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

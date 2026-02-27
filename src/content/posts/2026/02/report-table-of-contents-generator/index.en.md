@@ -42,7 +42,6 @@ Use this when you need a quick, standard outline without much context.
 > **Role:** You are a Senior Strategy Director at a Fortune 500 company.
 > **Request:** I am writing a report about `[Insert Topic]`. Please generate a table of contents that ensures a highly persuasive and logical flow.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

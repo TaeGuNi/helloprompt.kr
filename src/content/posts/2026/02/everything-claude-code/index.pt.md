@@ -47,7 +47,6 @@ Ideal para iniciar o desenvolvimento de um novo recurso com arquitetura sólida 
 > **2. Execução do Prompt de Planejamento:**
 > `/plan "Crie uma página responsiva de listagem de artigos usando Next.js 14 (App Router). Adote Tailwind CSS e shadcn/ui para os componentes visuais."`
 
-\
 
 ### 🥇 Versão Pro (TDD Forçado e Regras Customizadas)
 

@@ -44,7 +44,6 @@ En el mercado de los stickers y emoticonos, lo más importante no es tener una t
 > **Apariencia:** Cuerpo amarillo, pico naranja y un brote verde en la cabeza.
 > **Estilo:** Estilo vectorial 2D, líneas gruesas y simples (Thick Outline), fondo blanco.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

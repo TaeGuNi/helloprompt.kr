@@ -45,7 +45,6 @@ Use quando estiver sem tempo e precisar apenas colocar a frustração para fora.
 
 > **Tarefa:** Escute meu desabafo, valide meus sentimentos e me dê um conselho prático para me acalmar agora.
 
-\
 
 ### 🥇 Versão Pro (Análise Profunda)
 

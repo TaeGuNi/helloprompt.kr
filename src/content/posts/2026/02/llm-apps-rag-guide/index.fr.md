@@ -41,7 +41,6 @@ Pour obtenir une recommandation d'outils rapide et directe lors d'un brainstormi
 > **Rôle :** Tu es un Architecte IA Senior.
 > **Requête :** Je veux créer une application RAG pour `[mon cas d'usage : ex. analyser des PDF juridiques]`. Recommande-moi la meilleure stack technique (Framework LLM, Base Vectorielle, UI) et donne-moi les 3 premières étapes pour commencer.
 
-\
 
 ### 🥇 Version Pro
 

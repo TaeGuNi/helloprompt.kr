@@ -39,7 +39,6 @@ Usala quando hai bisogno di una risposta veloce e focalizzata su un dominio spec
 > **Ruolo:** Agisci come un `[Ruolo, es. Copywriter Senior]`.
 > **Richiesta:** Scrivi un `[Tipo di contenuto]` su `[Argomento]`.
 
-\
 
 ### 🥇 Versione Pro (Per risultati di livello ingegneristico)
 

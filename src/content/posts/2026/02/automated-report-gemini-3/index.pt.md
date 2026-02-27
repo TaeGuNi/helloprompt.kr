@@ -47,7 +47,6 @@ Use esta versão quando precisar apenas de um resumo rápido do seu trabalho.
 >
 > **Tarefa:** Com base nos dados acima, resuma "o que eu fiz esta semana" destacando apenas os 5 pontos mais importantes, em ordem de relevância.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

@@ -44,7 +44,6 @@ Se dice que el 80% del trabajo en el análisis de datos es el preprocesamiento (
 > 
 > `[Pega tu lista de datos aquí]`
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

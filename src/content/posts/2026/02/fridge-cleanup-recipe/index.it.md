@@ -42,7 +42,6 @@ Usala quando hai poco tempo e vuoi un'idea al volo.
 > **Ruolo:** Sei un `[Chef Creativo ed Esperto di Recupero Alimentare]`.
 > **Richiesta:** Ho questi ingredienti: `[lista ingredienti]`. Dimmi cosa posso cucinare per cena in modo semplice e veloce.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

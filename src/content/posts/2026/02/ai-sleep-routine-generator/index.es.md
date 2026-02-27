@@ -42,7 +42,6 @@ Nuestros cerebros aman las señales. Si repites constantemente una acción que i
 > **Rol:** Eres un psicólogo conductual y coach de sueño experto en la formación de hábitos.
 > **Solicitud:** Diseña una rutina nocturna que me dé sueño automáticamente al realizar acciones específicas, creando un reflejo condicionado.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

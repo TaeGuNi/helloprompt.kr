@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt, wenn Sie sofort eine kompakte Liste benötigen.
 > **Rolle:** Du bist ein erfahrener 'Experte für minimalistisches Packen'.
 > **Anfrage:** Erstelle mir eine smarte, minimalistische Packliste für eine `[Reisedauer]`-Reise nach `[Reiseziel]`. Das Wetter dort ist `[Wetterbedingung]`. Ich reise nur mit Handgepäck.
 
-\
 
 ### 🥇 Pro Version (Für maximale Effizienz und Detailtiefe)
 

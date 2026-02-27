@@ -44,7 +44,6 @@ Das ist der alte Weg. Die Qualität der Ergebnisse ist Glückssache und sehr anf
 > **Rolle:** Du bist ein Tech-Blogger.
 > **Aufgabe:** Schreibe einen Artikel, der die Sprachen Rust und Go vergleicht. Mach es unterhaltsam.
 
-\
 
 ### 🥇 Pro Version (Der Architekt)
 

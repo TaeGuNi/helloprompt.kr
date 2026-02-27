@@ -42,7 +42,6 @@ Use isto quando precisar de um plano rápido e prático para esta noite.
 > **Papel:** Você é um psicólogo comportamental e especialista em higiene do sono.
 > **Pedido:** Crie uma rotina simples de 30 minutos antes de dormir para alguém que tem dificuldade em desligar a mente. Inclua 3 passos práticos para relaxar.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

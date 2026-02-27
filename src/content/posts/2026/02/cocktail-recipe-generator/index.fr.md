@@ -43,7 +43,6 @@ Utilisez cette version pour obtenir rapidement une recommandation légère et fa
 > **Contexte :** J'ai de la vodka, de la limonade et du jus d'orange dans mon frigo.
 > **Tâche :** Utilise ces ingrédients pour me donner les proportions d'un cocktail maison léger et sucré. (Exemple : proportions basées sur un verre à shot ou une cuillère à soupe).
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

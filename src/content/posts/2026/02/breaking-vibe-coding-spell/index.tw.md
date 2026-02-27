@@ -43,7 +43,6 @@ tags: ["AI", "Tech", "breaking-vibe-coding-spell"]
 > **角色:** 你是一位資深軟體工程師。
 > **請求:** 請實作 `[功能名稱]`，必須嚴格遵守 `[語言/框架]` 的官方最佳實踐，並處理所有可能的邊緣情況 (Edge Cases)。
 
-\
 
 ### 🥇 Pro Version (專業版)
 

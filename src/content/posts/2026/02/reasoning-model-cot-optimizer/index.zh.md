@@ -43,7 +43,6 @@ tags: ["AI", "Prompt Engineering", "CoT"]
 > **任务：** 请完美解决 `[需要解决的问题]`。
 > **条件：** 请不要直接给出最终答案，必须运用“让我们一步一步来思考 (Let's think step by step)”的方法，首先展示出具体的推理与解答过程。
 
-\
 
 ### 🥇 Pro Version (专业版)
 

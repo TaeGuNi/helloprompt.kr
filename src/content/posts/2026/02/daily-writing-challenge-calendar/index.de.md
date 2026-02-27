@@ -42,7 +42,6 @@ Verwenden Sie diese Version, wenn Sie sofort ein schnelles, unkompliziertes Erge
 > **Rolle:** Du bist ein erfahrener Schreibcoach und Inhaltskurator.
 > **Anfrage:** Ich möchte eine tägliche Schreibgewohnheit aufbauen. Erstelle mir einen 30-Tage-Schreibthemenkalender (inklusive inspirierender Leitfragen), der genau auf meine Interessen zugeschnitten ist.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

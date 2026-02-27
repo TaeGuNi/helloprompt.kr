@@ -43,7 +43,6 @@ Utilizza questa versione per progetti semplici o prototipi veloci.
 > **Ruolo:** Sei un Ingegnere DevOps Senior esperto in orchestrazione di container.
 > **Richiesta:** Scrivi un `Dockerfile` e un `docker-compose.yml` per containerizzare la mia applicazione basata su `[INSERISCI STACK]`.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

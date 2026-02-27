@@ -40,7 +40,6 @@ Usalo quando hai bisogno di un feedback rapido sulla tua architettura attuale.
 > **Ruolo:** Sei un Senior Data Engineer Mentor con 10 anni di esperienza che padroneggia perfettamente i principi chiave di 'The Data Engineering Book'.
 > **Task:** Analizza la mia `[attuale architettura della pipeline di dati]` e suggerisci 3 aree di miglioramento critiche in termini di qualità dei dati e scalabilità.
 
-\
 
 ### 🥇 Versione Pro
 

@@ -50,7 +50,6 @@ Nutzen Sie dies, wenn Sie nur eine schnelle und einfache Formulierungshilfe ben�
 > **Rolle:** Du bist ein strategischer Berater für Vorstellungsgespräche.
 > **Anfrage:** Entwickle eine Argumentationslogik, um fatale Schwächen (Lücke im Lebenslauf, Studienabbruch, schlechte Noten) ehrlich zuzugeben, aber gleichzeitig die daraus gezogenen Lehren und den Willen zur Verbesserung in den Vordergrund zu stellen.
 
-\
 
 ### 🥇 Pro Version (Expertenform)
 

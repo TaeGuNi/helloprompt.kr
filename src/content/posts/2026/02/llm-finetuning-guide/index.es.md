@@ -50,7 +50,6 @@ Si no tienes tiempo para escribir cientos de datos manualmente, utiliza un LLM d
 > 2. Para cada pregunta, escribe 10 respuestas (Output) expertas y altamente motivadoras.
 > 3. Imprime los resultados estrictamente en formato JSONL (`{"instruction": "...", "output": "..."}`).
 
-\
 
 ### 🥇 Pro Version (Generador de código para el pipeline de entrenamiento)
 

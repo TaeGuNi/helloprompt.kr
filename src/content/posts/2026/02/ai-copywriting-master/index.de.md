@@ -44,7 +44,6 @@ Ideal, wenn Sie schnell Inspiration brauchen oder Titel für leichtere Inhalte g
 > **Aufgabe:** Schlage 5 Titel für einen Blogbeitrag über `[Diät-Nahrungsergänzungsmittel]` vor.
 > Integriere zwingend das Keyword `[3 kg Gewichtsverlust in einer Woche]`. Formuliere die Titel in einem natürlichen, umgangssprachlichen "Ehrlicher Erfahrungsbericht"-Stil, damit sie nicht wie plumpe Werbung wirken.
 
-\
 
 ### 🥇 Pro Version (Für Landingpages & Performance-Marketing)
 

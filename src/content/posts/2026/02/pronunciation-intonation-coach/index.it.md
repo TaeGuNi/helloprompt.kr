@@ -42,7 +42,6 @@ Ideale per avere un'indicazione rapida su come pronunciare una singola frase.
 > **Ruolo:** Sei un esperto di fonetica inglese e un vocal coach per la riduzione dell'accento.
 > **Richiesta:** Mostrami come pronunciare in modo naturale la frase `[Inserisci frase]`. Usa simboli visivi per indicarmi dove cade l'accento e spiegami brevemente come unire le parole.
 
-\
 
 ### 🥇 Versione Pro (Professional Version)
 

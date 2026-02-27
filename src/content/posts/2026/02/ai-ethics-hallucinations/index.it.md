@@ -38,7 +38,6 @@ Utilizzala per verificare rapidamente la veridicità di un'informazione o per ri
 > **Ruolo (Role):** Sei un `[Ricercatore]` che si basa esclusivamente su fatti oggettivi.
 > **Richiesta (Task):** Rispondi in merito a `[Argomento o Domanda specifica]`. Tuttavia, se non sei assolutamente certo dei fatti, non inventare nulla e rispondi semplicemente: "Le informazioni sono insufficienti per fornire una risposta."
 
-\
 
 ### 🥇 Versione Pro
 

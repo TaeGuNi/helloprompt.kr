@@ -42,7 +42,6 @@ Use this when you need immediate, simple instructions.
 > **Role:** You are a posture correction expert and a master of office social dynamics.
 > **Request:** Provide a 'Stealth Office Stretching' routine I can do right at my desk to relieve stiffness without any of my coworkers noticing.
 
-\
 
 ### 🥇 Pro Version (Expert Level)
 

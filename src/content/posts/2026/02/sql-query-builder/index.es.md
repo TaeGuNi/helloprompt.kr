@@ -43,7 +43,6 @@ Escribir consultas SQL complejas puede ser un dolor de cabeza, especialmente cua
 > **Tarea:** Escribe una consulta SQL para `[Describe lo que necesitas]`.
 > **Contexto:** La tabla se llama `[Nombre de la tabla]` y tiene las columnas `[Lista de columnas separadas por comas]`.
 
-\
 
 ### 🥇 Versión Pro
 
@@ -149,6 +148,4 @@ Ya no necesitas memorizar cada función analítica de tu motor de base de datos.
 
 ¡Copia el prompt, ajusta tu esquema y recupera tus horas de trabajo productivo! 🍷
 
-```
 
-```

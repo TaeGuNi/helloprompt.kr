@@ -43,7 +43,6 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Sci-Fi", "Retro"]
 >
 > **请求:** 请为我生成一张 AI 绘画的图像，主题是 `[由黄铜齿轮和蒸汽机驱动的 19 世纪复古未来主义城市]`，采用纯正的蒸汽朋克风格。
 
-\
 
 ### 🥇 Pro Version (专家版)
 

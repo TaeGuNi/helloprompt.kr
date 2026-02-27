@@ -42,7 +42,6 @@ Verwenden Sie dies für schnelle, unkomplizierte Ergebnisse ohne viel Anpassungs
 > **Rolle:** Du bist ein professioneller Fotograf.
 > **Anfrage:** Erstelle ein Bild von `[Motiv, z.B. Cyberpunk-Straßenmarkt]`. Verwende ein Ultra-Weitwinkelobjektiv, um die gesamte Szene in einer beeindruckenden Perspektive einzufangen.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

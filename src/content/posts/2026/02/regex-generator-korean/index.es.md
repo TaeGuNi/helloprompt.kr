@@ -42,7 +42,6 @@ Las Expresiones Regulares (Regex) son increíblemente poderosas, pero cada vez q
 > **Rol:** Eres un Desarrollador Senior experto en Regex.
 > **Solicitud:** Crea una expresión regular para `[Describe el patrón, ej: validar una URL con https]`. Dame solo el código de la regex y un breve ejemplo de uso en `[Lenguaje de programación]`.
 
-\
 
 ### 🥇 Versión Pro (Profesional)
 

@@ -49,7 +49,6 @@ Utilisez ce prompt pour obtenir rapidement une légende frissonnante sans trop d
 > **Rôle :** Tu es un 'Chercheur de Mystères' qui collectionne des histoires étranges et des légendes urbaines du monde entier.
 > **Demande :** Raconte-moi une légende locale ou une histoire de fantôme effrayante liée à `[Nom de la Ville/Région]`.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

@@ -48,7 +48,6 @@ Use esta versão quando precisar apenas de um ajuste rápido e direto.
 > **Papel:** Você é um editor sênior especializado em documentos corporativos.
 > **Solicitação:** Revise e refine o tom deste currículo para uma linguagem de negócios adequada. Corrija erros de digitação, gramática e deixe o texto mais confiável e profissional. Aqui está o texto: `[Seu Texto Aqui]`
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

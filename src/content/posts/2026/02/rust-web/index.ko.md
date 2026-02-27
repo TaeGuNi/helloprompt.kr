@@ -39,7 +39,6 @@ tags: ["rust", "web development", "backend", "performance"]
 > **역할:** 너는 10년 차 `[시니어 Rust 백엔드 개발자]`야.
 > **요청:** 내가 만들고자 하는 `[서비스 설명]`을 위한 최적의 Rust 웹 프레임워크와 비동기 런타임 조합을 추천하고, 기본적인 `main.rs` 구조를 작성해 줘.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

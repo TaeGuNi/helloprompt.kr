@@ -42,7 +42,6 @@ Use isso quando precisar apenas de um rascunho rápido para se inspirar.
 > **Papel:** Você é um editor experiente de newsletters.
 > **Solicitação:** Escreva uma newsletter envolvente sobre `[Tópico]`.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

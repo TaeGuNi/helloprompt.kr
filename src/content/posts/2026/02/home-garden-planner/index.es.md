@@ -54,7 +54,6 @@ tags: ["가드닝", "식집사", "반려식물", "플랜테리어"]
 > **Formato de salida:**
 > Incluye el 'Motivo de la recomendación', el 'Significado de la planta', la 'Dificultad de riego' y 'Consejos de decoración de interiores' para cada planta.
 
-\
 
 ### 🥇 Pro Version (Versión Profesional)
 

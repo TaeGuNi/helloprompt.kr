@@ -47,7 +47,6 @@ Ideal para quando você precisa analisar rapidamente um volume pequeno (cerca de
 >
 > **Dados das Avaliações:** `[Cole o texto das avaliações aqui]`
 
-\
 
 ### 🥇 Versão Pro (Profissional)
 

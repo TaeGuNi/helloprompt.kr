@@ -42,7 +42,6 @@ Utilisez cette formule lorsque vous avez simplement besoin d'un résultat rapide
 > **Rôle :** Tu es un photographe portraitiste expert.
 > **Demande :** Crée un prompt détaillé pour générer un portrait profond et dramatique, digne d'un chef-d'œuvre classique, en utilisant la technique de l'éclairage Rembrandt.
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 

@@ -40,7 +40,6 @@ Ideale per evitare risposte inventate quando si forniscono documenti specifici.
 >
 > **Istruzioni:** Basa la tua risposta ESCLUSIVAMENTE sui documenti forniti. Se le informazioni non sono presenti nel testo, rispondi rigorosamente "Non verificato". Inserisci note a piè di pagina come `[1]`, `[2]` per ogni affermazione basata sulle fonti.
 
-\
 
 ### 🥇 Pro Version (Chain of Verification - CoVe)
 

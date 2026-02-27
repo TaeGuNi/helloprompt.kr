@@ -47,7 +47,6 @@ Usala quando hai solo bisogno di organizzare rapidamente la giornata e definire 
 > **Lista delle cose da fare oggi:**
 > `[Inserisci qui tutte le tue attività in ordine sparso]`
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 
@@ -140,7 +139,6 @@ Orario di lavoro: dalle 9:30 alle 18:30.
 | **DELEGARE (Urgente & Meno Importante)** | Richiesta modifica logo ad Andrea \ Risposte email arretrate | **Delega/Risolvi in fretta**, posizionati a inizio giornata |
 | **ELIMINARE (Meno Urgente & Meno Importante)** | (Nessuna attività in questa categoria) | - |
 
-\
 
 ## 🕒 Il tuo Programma di Time Blocking per Oggi
 

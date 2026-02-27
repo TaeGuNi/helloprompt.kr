@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt, wenn Sie schnell eine einfache XLOOKUP-Formel benö
 > **Rolle:** Du bist ein erfahrener `[Datenanalyst]` und absoluter Excel-Experte.
 > **Anfrage:** Ich nutze bisher VLOOKUP (SVERWEIS), aber es ist zu fehleranfällig. Bitte erkläre mir kurz und prägnant, wie ich stattdessen XLOOKUP verwende, und gib mir ein einfaches Beispiel für den Abgleich von `[Kundendaten]`.
 
-\
 
 ### 🥇 Pro Version (Experte)
 

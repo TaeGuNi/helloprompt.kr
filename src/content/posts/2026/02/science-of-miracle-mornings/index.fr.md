@@ -43,7 +43,6 @@ Idéal pour obtenir rapidement des idées d'habitudes saines pour bien démarrer
 > **Rôle :** Tu es un coach en productivité et un expert en neurosciences.
 > **Requête :** Crée-moi une routine "Miracle Morning" de 20 minutes basée sur les neurosciences pour m'aider à être plus concentré et moins stressé avant d'aller au travail.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

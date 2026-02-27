@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt, wenn Sie sofortige Ergebnisse ohne viele Details be
 > **Rolle:** Du bist ein erfahrener 'Reiseplaner für Familienreisen' mit 10 Jahren Expertise.
 > **Anfrage:** Erstelle mir einen entspannten Reiseplan für einen Familienurlaub mit Kindern, der Spaß für die Kleinen und Erholung für die Eltern bietet. Berücksichtige dabei unbedingt kinderfreundliche Orte.
 
-\
 
 ### 🥇 Pro Version (Expertenmodus)
 

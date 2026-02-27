@@ -41,7 +41,6 @@ Use esta versão para começar uma partida rápida e sem complicações.
 
 > **Tarefa:** Vamos jogar "Palavra Puxa Palavra" (a próxima palavra deve começar com a última letra da palavra anterior). Você começa. E lembre-se, use apenas palavras válidas na língua portuguesa.
 
-\
 
 ### 🥇 Versão Profissional (Pro Version)
 

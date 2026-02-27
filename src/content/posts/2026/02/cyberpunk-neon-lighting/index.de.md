@@ -42,7 +42,6 @@ Verwenden Sie diese Version für schnelle, stimmungsvolle Entwürfe, wenn Sie ra
 > **Rolle:** Du bist ein professioneller Concept Art Designer für Sci-Fi-Filme.
 > **Anfrage:** Erstelle einen Bildgenerierungs-Prompt für eine Cyberpunk-Stadt bei Nacht. Nutze starke Kontraste aus pinkem und blauem Neonlicht, das sich auf nassen Straßen spiegelt.
 
-\
 
 ### 🥇 Pro Version (Experten-Level)
 

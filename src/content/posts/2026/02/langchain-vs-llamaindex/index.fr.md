@@ -43,7 +43,6 @@ Utilisez cette version pour comprendre rapidement et intuitivement les différen
 
 > **Tâche :** Compare clairement les 3 différences majeures entre LangChain et LlamaIndex. Explique spécifiquement quel framework est supérieur en termes de performances d'"Indexation de données (Indexing)" et de "Recherche (Retrieval)", en fournissant des raisons concrètes.
 
-\
 
 ### 🥇 Version Pro
 

@@ -44,7 +44,6 @@ A abordagem do passado. A qualidade do resultado depende da sorte e é altamente
 > **Role (Papel):** Você é um blogueiro de tecnologia.
 > **Task (Tarefa):** Escreva um artigo comparando Rust e Go. Faça algo divertido.
 
-\
 
 ### 🥇 Versão Pro (Versão Arquiteto)
 

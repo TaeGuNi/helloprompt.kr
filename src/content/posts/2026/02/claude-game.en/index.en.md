@@ -38,7 +38,6 @@ Use this prompt to quickly scaffold a project and test if the core mechanics wor
 > **Role:** You are a Senior Game Client Developer.
 > **Task:** Create a browser-based 2D golf game using HTML5 Canvas. It must include a ball, a hole, and a drag-to-shoot mechanic.
 
-\
 
 ### 🥇 Pro Version
 

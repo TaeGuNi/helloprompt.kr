@@ -44,7 +44,6 @@ Use this when you just need a quick skeleton of your project.
 > **Role:** You are a `[Senior Technical Writer]`.
 > **Task:** Based on my project's `[file structure]` and `[core tech stack]`, write a clean, well-structured `README.md` draft in Markdown format.
 
-\
 
 ### 🥇 Pro Version
 
@@ -67,9 +66,9 @@ Use this when you need perfect details and visual elements (badges, emojis) tail
 > - **One-Line Pitch:** `[A single sentence explaining the core value of the project]`
 > - **Tech Stack:** `[e.g., React, TypeScript, TailwindCSS]`
 > - **File Structure:**
->   ```text
+>
 >   [Paste the output of your 'tree' command here]
->   ```
+>
 > 
 > **Constraints:**
 >

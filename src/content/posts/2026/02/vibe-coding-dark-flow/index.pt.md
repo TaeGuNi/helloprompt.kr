@@ -87,10 +87,9 @@ Para garantir uma análise profunda e sem condescendência, use este nível de d
 >
 > - **Snippet de Código:**
 >
-> ```plaintext
+>
 > [Cole o código suspeito aqui]
-> ```
-
+>
 ---
 
 ## 💡 Insight do Autor (Writer's Insight)

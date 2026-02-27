@@ -48,7 +48,6 @@ tags: ["WebAssembly", "Rust", "Performance"]
 > **コード:**
 > `[ここに変換するC++/Go/Rustコードを貼り付け]`
 
-\
 
 ### 🥇 Pro Version (専門家型)
 
@@ -70,9 +69,9 @@ tags: ["WebAssembly", "Rust", "Performance"]
 >
 > **入力コード:**
 >
-> ```plaintext
+>
 > [ここに既存のコードを貼り付け]
-> ```
+>
 >
 > **制約事項 (Constraints):**
 >

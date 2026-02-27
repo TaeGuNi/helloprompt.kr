@@ -47,7 +47,6 @@ Use this for a quick, high-level overview of how on-device AI can benefit your s
 > **Role:** You are a Lead AI Infrastructure Architect.
 > **Task:** Explain how `[Your Industry/Company Type]` can benefit from transitioning to Sovereign AI and on-device SLMs. Provide 3 immediate action steps.
 
-\
 
 ### 🥇 Pro Version
 

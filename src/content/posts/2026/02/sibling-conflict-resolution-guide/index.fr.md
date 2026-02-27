@@ -43,7 +43,6 @@ Idéal pour apaiser une dispute mineure sur-le-champ sans trop d'efforts.
 > **Rôle :** Tu es un juge bienveillant, impartial et spécialiste en psychologie infantile.
 > **Demande :** Mes deux enfants se disputent actuellement. Pose-leur une question à chacun pour comprendre le problème, puis propose trois solutions amusantes pour les réconcilier immédiatement. Ne donne pas de leçon de morale.
 
-\
 
 ### 🥇 Pro Version (Version Experte)
 

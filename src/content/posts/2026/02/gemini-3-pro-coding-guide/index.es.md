@@ -39,7 +39,6 @@ En febrero de 2026, el núcleo de **Gemini 3 Pro**, presentado por Google, es si
 > **Rol:** Eres un `[Desarrollador Backend Senior con 20 años de experiencia]`.
 > **Tarea:** Analiza el siguiente `[código heredado]` y mencióname únicamente 3 problemas críticos de seguridad y rendimiento.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

@@ -42,7 +42,6 @@ Ideal para una práctica rápida y sin complicaciones.
 > **Rol:** Eres un profesor de idiomas nativo experto en `[idioma que quieres aprender]`.
 > **Tarea:** Vamos a tener una conversación en `[idioma que quieres aprender]` sobre `[tema de conversación]`. Corrige mis errores de forma clara y explícame por qué me equivoqué antes de responder a mi mensaje.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

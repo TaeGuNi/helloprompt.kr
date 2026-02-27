@@ -51,7 +51,6 @@ El análisis de la Complejidad Temporal (Big-O) es un requisito indispensable, n
 > **Rol:** Eres un experto en optimización de algoritmos y profesor de Ciencias de la Computación.
 > **Solicitud:** Analiza la complejidad temporal y espacial del siguiente código y señala los puntos clave para mejorar su rendimiento: `[Pega tu código aquí]`
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

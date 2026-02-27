@@ -42,7 +42,6 @@ Ideal para quando você precisa apenas de uma compreensão rápida e direta do t
 > **Papel:** Você é um `[Filólogo e Historiador Especialista]`.
 > **Solicitação:** Traduza este `[Documento Antigo/Texto Clássico]` para uma linguagem moderna e simples, e explique brevemente os significados ocultos e o contexto histórico por trás dele.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

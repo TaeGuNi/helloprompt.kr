@@ -46,7 +46,6 @@ Use esta versão quando precisar de um prompt rápido para uma imagem realista c
 > **Função:** Você é um fotógrafo comercial profissional e um criador de prompts para o Midjourney v7.
 > **Tarefa:** Com base no `[TEMA]` que eu fornecer, escreva um prompt em inglês de apenas uma linha que gere a fotografia mais realista possível no Midjourney v7.
 
-\
 
 ### 🥇 Versão Pro (Profissional)
 

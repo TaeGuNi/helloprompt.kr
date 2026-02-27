@@ -44,12 +44,9 @@ No se trata simplemente de pedirle a la IA que haga el trabajo por ti. Es la for
 > **Rol:** Eres un Ingeniero de Software Senior.
 > **Tarea:** Revisa el siguiente código en busca de vulnerabilidades de seguridad o errores lógicos, y explícame los problemas de forma breve.
 >
-> ```
+>
 > [Pega tu código aquí]
-> ```
-
-\
-
+>
 ### 🥇 Pro Version (Versión Experta)
 
 Este es un prompt de nivel de producción que comprende el contexto del código y audita meticulosamente vulnerabilidades, oportunidades de refactorización y legibilidad.
@@ -79,10 +76,9 @@ Este es un prompt de nivel de producción que comprende el contexto del código 
 >
 > **Código de Entrada (Input Code):**
 >
-> ```
+>
 > [Pega el código a revisar aquí]
-> ```
-
+>
 ---
 
 ## 💡 Comentario del Autor (Insight)

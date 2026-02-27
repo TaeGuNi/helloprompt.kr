@@ -51,7 +51,6 @@ Ideal para consultas rápidas sobre un par de archivos grandes.
 >
 > **Tarea:** Basado estrictamente en la documentación, encuentra el bug en el código y devuélvelo corregido.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

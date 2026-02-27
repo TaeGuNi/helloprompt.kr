@@ -42,7 +42,6 @@ Utilisez ce prompt lorsque vous manquez de temps et avez besoin d'une liste rapi
 > **Rôle :** Tu es un recruteur expert (Talent Acquisition Manager) dans une grande entreprise.
 > **Demande :** Rédige une liste de questions d'entretien incisives et pertinentes pour évaluer les réelles compétences d'un candidat au poste de `[Intitulé du poste]`.
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 

@@ -43,7 +43,6 @@ Usala quando hai bisogno di un risultato rapido senza configurazioni complesse.
 > **Ruolo:** Sei un fotografo paesaggista professionista.
 > **Richiesta:** Genera l'immagine di un paesaggio spettacolare. Assicurati di utilizzare un "ultra wide angle lens" per includere l'intera scena.
 
-\
 
 ### 🥇 Versione Pro (Pro Version)
 

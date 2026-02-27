@@ -55,10 +55,9 @@ Si vous demandez simplement "Refactorise ce code", vous courez le risque de cass
 >
 > **Code d'entrée :**
 >
-> ```python
+>
 > [Collez ici le code hérité à analyser]
-> ```
-
+>
 ---
 
 ## 💡 Le Commentaire de l'Auteur (Insight)

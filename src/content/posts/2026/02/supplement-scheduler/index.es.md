@@ -43,7 +43,6 @@ Vitaminas, Omega 3, Probióticos... ¿Tomas todo lo bueno para el cuerpo pero no
 > **Rol:** Eres un experto farmacéutico y nutricionista.
 > **Solicitud:** Revisa la siguiente lista de suplementos: `[Lista de tus suplementos]`. Crea una rutina de ingesta óptima para evitar la sobredosis de nutrientes y mejorar la tasa de absorción.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

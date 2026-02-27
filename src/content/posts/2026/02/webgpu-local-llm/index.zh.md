@@ -45,7 +45,6 @@ tags: ["WebGPU", "LLM", "WebLLM", "Llama-3", "Local AI"]
 >
 > **任务：** 请使用 `@mlc-ai/web-llm` 库，编写一个在浏览器中运行 Llama-3-8B 模型的最精简 HTML/JS 示例代码。请使用 CDN 方式引入依赖。
 
-\
 
 ### 🥇 Pro Version (专业版)
 

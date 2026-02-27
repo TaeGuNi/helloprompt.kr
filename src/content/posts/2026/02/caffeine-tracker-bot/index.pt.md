@@ -42,7 +42,6 @@ Use esta versão para uma resposta rápida e direta.
 > **Função:** Você é um `[Especialista em Sono e Nutrição]`.
 > **Tarefa:** Tomei `[Quantidade e tipo de café]` às `[Horário]`. Diga-me quando estarei mais focado e a que horas a cafeína sairá do meu sistema para que eu possa dormir.
 
-\
 
 ### 🥇 Versão Profissional (Pro Version)
 

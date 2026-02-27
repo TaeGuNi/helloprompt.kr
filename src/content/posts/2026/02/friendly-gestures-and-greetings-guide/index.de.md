@@ -42,7 +42,6 @@ Nutzen Sie diesen Prompt für schnelle, essenzielle Informationen vor einem Kurz
 > **Rolle:** Du bist ein Experte für interkulturelle Kommunikation.
 > **Anfrage:** Ich reise nach `[Zielland]`. Nenne mir die wichtigsten Begrüßungen, No-Go-Gesten und Do's & Don'ts der Körpersprache in einer kurzen Übersicht.
 
-\
 
 ### 🥇 Pro Version (Experte)
 

@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt, wenn Sie schnell einen groben Überblick benötigen
 > **Rolle:** Du bist ein branchenführender Chef-Experte mit 20 Jahren Erfahrung im Bereich `[Jobname]`.
 > **Anfrage:** Generiere mir die am wahrscheinlichsten erwarteten fachlichen Interviewfragen und entsprechende Musterantworten, die exakt zu meiner Rolle als `[Jobname]` und meiner Berufserfahrung von `[Anzahl]` Jahren passen.
 
-\
 
 ### 🥇 Pro Version (Experten-Version)
 

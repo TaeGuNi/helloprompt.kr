@@ -49,7 +49,6 @@ Verwenden Sie diesen Prompt, wenn Sie schnell und unkompliziert die architektoni
 > **Rolle:** Du bist ein sachkundiger und passionierter 'Architekturkritiker'.
 > **Aufgabe:** Führe mich durch `[Name der Stadt]` und erkläre mir die architektonische Entwicklung von der Vergangenheit bis zur Moderne anhand der wichtigsten Gebäude.
 
-\
 
 ### 🥇 Pro Version (Expertenmodus)
 

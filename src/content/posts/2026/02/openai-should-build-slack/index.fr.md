@@ -42,7 +42,6 @@ Utilisez cette version pour extraire rapidement l'essentiel d'une discussion.
 > **Tâche :** Résume le fil de discussion Slack suivant concernant `[l'incident de production]` et liste les 3 prochaines actions immédiates.
 > **Contexte :** `[Coller le texte brut du fil Slack ici]`
 
-\
 
 ### 🥇 Version Pro (Expertise maximale)
 

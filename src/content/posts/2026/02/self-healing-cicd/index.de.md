@@ -44,7 +44,6 @@ Nutzen Sie diese Variante, um einfache Syntaxfehler von Prettier oder ESLint bli
 > **Rolle:** Du bist ein `[Senior Frontend Developer]`.
 > **Aufgabe:** Analysiere das bereitgestellte Fehlerprotokoll und korrigiere **ausschließlich** `[Lint-Fehler und Tippfehler]` im Code schnell und präzise. Gib den gesamten korrigierten Code zurück.
 
-\
 
 ### 🥇 Pro Version (Sicherer Self-Healing Agent)
 
@@ -71,13 +70,12 @@ Dies ist ein kampferprobter Prompt. Er stellt sicher, dass die Geschäftslogik a
 >
 > **Ausgabeformat (Format):**
 > 
-> ```json
+>
 > {
 >   "file_path": "[Pfad der Datei mit dem Fehler]",
 >   "fixed_content": "[Der vollständige korrigierte Code]"
 > }
-> ```
-
+>
 ---
 
 ## 💡 Kommentar des Autors (Insight)

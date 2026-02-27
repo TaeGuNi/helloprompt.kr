@@ -44,7 +44,6 @@ Use esta versão quando precisar transformar rapidamente o roteiro do vídeo em 
 
 [Insira o roteiro do vídeo do YouTube aqui]
 
-\
 
 ### 🥇 Versão Pro (Mestre do Multiúso por Plataforma)
 

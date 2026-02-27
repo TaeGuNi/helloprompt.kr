@@ -44,7 +44,6 @@ Utilisez cette version pour transformer rapidement un script vidéo en un texte 
 >
 > [Insérez le script de la vidéo YouTube ici]
 
-\
 
 ### 🥇 Version Pro (Maître de l'omnimédia)
 

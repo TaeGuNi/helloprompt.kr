@@ -43,7 +43,6 @@ Verwenden Sie diese Version für schnelle, ausdrucksstarke Ergebnisse ohne groß
 >
 > **Anfrage:** Erstelle mir einen präzisen Bild-Prompt für ein Porträt mit klassischer Rembrandt-Beleuchtung, das dramatisch und tiefgründig wirkt.
 
-\
 
 ### 🥇 Pro Version (Experten-Prompt)
 

@@ -46,7 +46,6 @@ tags: ["インテリア", "建築", "図面", "Midjourney", "家づくり"]
 >
 > **プロンプト:** modern minimal house exterior, white concrete and wood, large glass windows, nature surrounding, warm lighting, photorealistic, 8k --ar 16:9
 
-\
 
 ### 🥇 Pro Version（専門家向け間取り図＆アイソメトリック）
 

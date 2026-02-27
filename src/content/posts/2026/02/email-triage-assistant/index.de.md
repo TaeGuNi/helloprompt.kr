@@ -42,7 +42,6 @@ Nutzen Sie diese Variante, wenn Sie einfach nur eine schnelle Sortierung benöti
 > **Rolle:** Du bist ein effizienter `[E-Mail-Assistent]`.
 > **Aufgabe:** Analysiere die folgenden `[E-Mails]` und sortiere sie nach Dringlichkeit (Hoch, Mittel, Niedrig). Erstelle für die dringenden E-Mails einen kurzen Antwortentwurf.
 
-\
 
 ### 🥇 Pro Version (Für maximale Präzision)
 

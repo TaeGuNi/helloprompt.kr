@@ -44,7 +44,6 @@ Use esta versão para erros simples ou quando estiver com muita pressa.
 > **Erro:** `[Cole a mensagem de erro do terminal aqui]`
 > **Código:** `[Cole seu código Python aqui]`
 
-\
 
 ### 🥇 Versão Profissional (Pro Version)
 
@@ -71,16 +70,15 @@ Use esta versão para bugs lógicos complexos, problemas de arquitetura ou quand
 >
 > **Código com problema:**
 >
-> ```python
+>
 > [Cole seu código aqui]
-> ```
+>
 >
 > **Mensagem de Erro (Traceback):**
 >
-> ```text
+>
 > [Cole o log de erro aqui]
-> ```
-
+>
 ---
 
 ## 💡 Comentário do Autor (Insight)

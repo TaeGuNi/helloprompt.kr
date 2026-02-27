@@ -38,7 +38,6 @@ Nutzen Sie diese Variante, wenn Sie lediglich ein schnelles Grundgerüst für ei
 > **Rolle:** Du bist ein Senior `[Sprache]`-Entwickler und ein absoluter Experte für TUI-Design.
 > **Aufgabe:** Schreibe den grundlegenden Boilerplate-Code für eine TUI-Anwendung mit `[Sprache/Framework]`, die folgende Funktion erfüllt: `[Zusätzliche Funktion]`. Füge außerdem eine kurze Anleitung zur Ausführung des Codes hinzu.
 
-\
 
 ### 🥇 Pro Version (Für Experten)
 

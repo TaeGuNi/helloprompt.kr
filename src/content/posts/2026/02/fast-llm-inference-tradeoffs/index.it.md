@@ -56,7 +56,6 @@ Ideale quando vuoi semplicemente ottenere un confronto rapido e diretto sulla qu
 > **Formato (Format):**
 > Valuta le risposte di entrambi i modelli su una scala da 1 a 10 e dichiara chiaramente il vincitore, motivando brevemente la scelta.
 
-\
 
 ### 🥇 Versione Pro
 Consigliata quando si desidera integrare metriche quantitative e logiche rigorose di superamento (Pass/Fail) in formato JSON all'interno di una pipeline di A/B testing automatizzata.

@@ -42,7 +42,6 @@ Utilisez cette version pour obtenir rapidement des idées et des opinions sous d
 > **Rôle :** Tu es un chef de projet (Project Manager) très compétent.
 > **Tâche :** Fournis-moi des opinions approfondies sur `[Sujet]` du point de vue d'un planificateur, d'un développeur et d'un designer. Ensuite, synthétise ces avis pour proposer la meilleure direction à suivre.
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 

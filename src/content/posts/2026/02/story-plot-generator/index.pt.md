@@ -42,7 +42,6 @@ Use quando precisar de uma faísca rápida de inspiração para um capítulo.
 > **Função:** Você é um autor experiente de web novels de fantasia.
 > **Tarefa:** Crie um enredo para um capítulo onde o protagonista descobre um poder oculto durante uma crise. Inclua um gancho no final.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

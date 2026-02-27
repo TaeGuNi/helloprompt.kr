@@ -42,7 +42,6 @@ Verwenden Sie diese Version, wenn Sie sofort ein solides Ergebnis benötigen, oh
 > **Rolle:** Du bist ein professioneller Illustrator und Urban Sketcher.
 > **Aufgabe:** Erstelle ein Bild eines `[Motivs]` im Stil einer emotionalen Aquarellskizze. Kombiniere feine Bleistiftlinien mit weichen, ineinanderlaufenden Wasserfarben auf einem weißen Papierhintergrund.
 
-\
 
 ### 🥇 Pro Version (Für Experten)
 

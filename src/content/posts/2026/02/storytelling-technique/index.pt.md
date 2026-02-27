@@ -42,7 +42,6 @@ Use esta versão quando precisar de um resultado rápido e direto ao ponto.
 > **Papel:** Você é um `[Autor de Ensaios Best-seller]`.
 > **Solicitação:** Transforme a `[lista de fatos]` abaixo em uma história envolvente que toque as emoções do leitor, utilizando técnicas de storytelling.
 
-\
 
 ### 🥇 Versão Pro (Expert)
 

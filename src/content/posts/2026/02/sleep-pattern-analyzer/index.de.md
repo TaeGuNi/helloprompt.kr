@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt für eine schnelle, allgemeine Einschätzung.
 > **Rolle:** Du bist ein Experte für Schlafmedizin.
 > **Anfrage:** Ich kann nachts schlecht einschlafen. Bitte nenne mir 5 wissenschaftlich fundierte Tipps, um meine Schlafqualität heute Nacht zu verbessern.
 
-\
 
 ### 🥇 Pro Version (Experten-Level)
 

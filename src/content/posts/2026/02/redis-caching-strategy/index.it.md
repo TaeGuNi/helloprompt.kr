@@ -45,11 +45,11 @@ Utilizza questo prompt quando devi applicare rapidamente una cache a una semplic
 > 
 > **Task:** Applica il pattern di caching Redis `Look-aside` alla seguente funzione.
 > 
-> ```javascript
+>
 > async function getUserProfile(userId) {
 >   return await db.users.findOne({ id: userId });
 > }
-> ```
+>
 > 
 > **Requisiti:**
 > 
@@ -58,7 +58,6 @@ Utilizza questo prompt quando devi applicare rapidamente una cache a una semplic
 > - Implementa chiaramente la logica: in caso di Cache Miss, il dato viene recuperato dal DB e poi salvato su Redis.
 > - **Fondamentale:** Includi la gestione degli errori. Se Redis è irraggiungibile, la richiesta deve procedere in fallback (graceful degradation) verso il DB senza interrompere il servizio.
 
-\
 
 ### 🥇 Pro Version (Architettura Anti-Stampede)
 

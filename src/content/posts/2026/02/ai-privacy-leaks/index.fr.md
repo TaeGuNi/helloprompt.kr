@@ -41,7 +41,6 @@ Idéal pour une analyse rapide des risques d'un produit spécifique que vous sou
 > **Rôle :** Tu es un `[Expert en Cybersécurité]`.
 > **Requête :** Analyse les risques de confidentialité de ce `[Appareil Connecté]` et fournis-moi un résumé clair des dangers liés à la collecte de données.
 
-\
 
 ### 🥇 Pro Version (Version Architecte)
 

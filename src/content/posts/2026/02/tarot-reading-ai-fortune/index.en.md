@@ -42,7 +42,6 @@ Use this when you need a quick, no-fuss reading.
 > **Role:** You are an intuitive and mysterious Tarot Reader.
 > **Request:** I have a pressing concern. Please draw three random Tarot cards and interpret my future based on them.
 
-\
 
 ### 🥇 Pro Version
 

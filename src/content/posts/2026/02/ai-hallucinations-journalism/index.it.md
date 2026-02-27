@@ -40,7 +40,6 @@ Utilizza questa versione per un controllo rapido della bozza dell'articolo alla 
 > **Ruolo:** Sei un "Capo Fact-Checker" (Chief Fact-Checker) estremamente pignolo e rigoroso.
 > **Compito:** Confronta la `[Bozza dell'articolo]` e i `[Dati originali dell'intervista]` forniti di seguito. Identifica ogni singolo dettaglio aggiunto arbitrariamente dal giornalista o qualsiasi citazione che sia stata distorta rispetto all'originale. Segnalami senza esitazione anche la minima espressione esagerata o fuori contesto.
 
-\
 
 ### 🥇 Versione Pro (Expert)
 

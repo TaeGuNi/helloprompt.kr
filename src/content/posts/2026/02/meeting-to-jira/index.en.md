@@ -43,7 +43,6 @@ Use this when you just need a quick list of 'Action Items'—who needs to do wha
 > **Task:** From the provided meeting transcript, extract only the actionable items clearly listing the 'Assignee', 'Due Date', and 'Task' in a clean list format.
 > **Transcript:** `[Paste your meeting transcript here]`
 
-\
 
 ### 🥇 Pro Version
 

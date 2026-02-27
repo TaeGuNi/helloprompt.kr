@@ -42,7 +42,6 @@ Use this when you are in a rush and need a quick, reliable itinerary immediately
 > **Role:** You are a veteran local guide in `[City Name]` with 20 years of experience.
 > **Task:** Design an optimal, highly efficient one-day travel itinerary for me so I can experience the city like a true local without wasting any time on unnecessary transit.
 
-\
 
 ### 🥇 Pro Version
 

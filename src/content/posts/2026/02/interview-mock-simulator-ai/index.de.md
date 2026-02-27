@@ -42,7 +42,6 @@ Verwenden Sie diese Version, wenn Sie sofort und ohne viele Voreinstellungen sta
 > **Rolle:** Du bist ein erfahrener Recruiter.
 > **Anfrage:** Führe ein strenges Job-Interview mit mir durch und stelle kritische Nachfragen, sobald ich antworte.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

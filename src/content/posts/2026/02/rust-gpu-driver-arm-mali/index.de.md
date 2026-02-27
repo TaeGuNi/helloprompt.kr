@@ -42,7 +42,6 @@ Nutzen Sie diesen Prompt für eine präzise, aber leicht verständliche Zusammen
 > **Rolle:** Du bist ein erfahrener Linux-Kernel-Entwickler und Dozent.
 > **Aufgabe:** Erkläre mir die wichtigsten Vorteile des Rust-basierten 'Tyr'-Treibers für Arm Mali GPUs im Vergleich zu traditionellen, in C geschriebenen Treibern wie Panfrost. Erkläre es so anschaulich, dass es auch ein Junior-Entwickler mit Grundkenntnissen in Betriebssystemen versteht.
 
-\
 
 ### 🥇 Pro Version (Für tiefgehende technische Einblicke)
 

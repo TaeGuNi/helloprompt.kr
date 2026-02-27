@@ -44,7 +44,6 @@ Misión repentina de Excel del jefe. ¿Estás googleando `Excel buscar duplicado
 > **Contexto:** La Columna A tiene 'Nombre del Producto', la Columna B tiene 'Precio' y la Columna C tiene 'Cantidad'.
 > **Petición:** Escribe una fórmula para la Columna D que calcule las 'Ventas Totales (Precio \* Cantidad)', y que muestre "VIP" si el total es mayor a $1000, o "General" en caso contrario.
 
-\
 
 ### 🥇 Versión Pro (Modo Analista de Datos Senior)
 

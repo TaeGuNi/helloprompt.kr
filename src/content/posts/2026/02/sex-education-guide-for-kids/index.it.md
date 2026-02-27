@@ -43,7 +43,6 @@ Usala quando hai bisogno di un'idea rapida per rispondere su due piedi.
 > **Ruolo:** Sei un esperto di psicologia dello sviluppo ed educazione sessuale infantile.
 > **Richiesta:** Mio figlio di `[età]` anni mi ha chiesto `[domanda esatta del bambino]`. Forniscimi una risposta breve, rassicurante e adatta alla sua età, senza usare metafore fuorvianti come la cicogna.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

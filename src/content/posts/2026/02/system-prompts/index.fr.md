@@ -40,7 +40,6 @@ Idéal pour configurer rapidement un comportement d'IA simple sans complexité e
 > **Tâche :** Réponds à toutes les requêtes en te concentrant exclusivement sur `[Domaine, ex: l'optimisation des performances et la sécurité]`.
 > **Contrainte :** Ne fournis aucune explication superflue. Donne uniquement du code propre et commenté.
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 

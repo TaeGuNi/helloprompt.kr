@@ -45,7 +45,6 @@ Prima di LangExtract, dovevi letteralmente "pregare" l'LLM di non sbagliare la s
 > **Ruolo:** Sei un estrattore di dati esperto e preciso.
 > **Compito:** Estrai i dettagli della riunione dal testo fornito. Devi restituire SOLO un JSON valido, senza testo aggiuntivo e senza blocchi markdown. Includi rigorosamente le chiavi: topic, participants, start_time, location.
 
-\
 
 ### 🥇 Pro Version (L'Approccio Code-First & Sicuro)
 
@@ -65,7 +64,7 @@ Con LangExtract, definisci uno schema inequivocabile tramite Pydantic e lasci ch
 >
 > **Implementazione (Python):**
 >
-> ```python
+>
 > from google.langextract import DataExtractor
 > from pydantic import BaseModel, Field
 > from datetime import datetime
@@ -82,8 +81,7 @@ Con LangExtract, definisci uno schema inequivocabile tramite Pydantic e lasci ch
 >
 > # 3. Estraiamo i dati in totale sicurezza
 > meeting = extractor.extract(MeetingInfo, email_content)
-> ```
-
+>
 ---
 
 ## 💡 L'Insight dell'Autore (Insight)

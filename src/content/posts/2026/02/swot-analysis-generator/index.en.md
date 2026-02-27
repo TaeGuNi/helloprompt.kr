@@ -42,7 +42,6 @@ Use this when you need a high-level overview in seconds.
 > **Role:** You are a Senior Strategy Consultant at McKinsey & Company.
 > **Request:** Please conduct a comprehensive SWOT analysis for a `[insert your business type or idea]`.
 
-\
 
 ### 🥇 Pro Version (Expert Level)
 

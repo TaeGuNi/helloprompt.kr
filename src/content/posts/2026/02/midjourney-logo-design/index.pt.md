@@ -44,7 +44,6 @@ Use esta versão para aplicações rápidas, como ícones de apps, favicons ou p
 > **Tarefa (Task):**
 `minimalistic vector logo of a [Blue Whale], simple shapes, flat design, white background --no text --v 6.0`
 
-\
 
 ### 🥇 Versão Pro (Identidade de Marca)
 

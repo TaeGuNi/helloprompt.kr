@@ -46,7 +46,6 @@ Use this lightweight prompt for minor quirks or when you just need a quick behav
 > - Breed & Age: `[e.g., Beagle, 3 years old]`
 > - Trigger Situation: `[e.g., Whenever the doorbell rings]`
 
-\
 
 ### 🥇 Pro Version (Comprehensive Custom Solution)
 

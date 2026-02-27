@@ -42,7 +42,6 @@ Use this when you need a standard Unsloth code structure fast.
 > **Role:** You are an LLM optimization and fine-tuning expert.
 > **Task:** Write an Unsloth-based Python script to fine-tune the `[Llama-3-8B]` model using the `[Alpaca]` dataset. The code will run on a GPU with 16GB VRAM.
 
-\
 
 ### 🥇 Pro Version
 

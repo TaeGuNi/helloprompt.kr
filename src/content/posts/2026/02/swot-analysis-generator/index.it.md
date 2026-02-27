@@ -42,7 +42,6 @@ Usala quando hai solo bisogno di un'idea generale e di un risultato rapido.
 > **Ruolo:** Sei un Consulente Strategico Senior.
 > **Richiesta:** Esegui un'analisi SWOT per `[Il Tuo Business/Progetto]` e presentala in modo chiaro.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

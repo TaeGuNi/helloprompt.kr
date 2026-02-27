@@ -45,7 +45,6 @@ Este prompt transformará cualquier apunte en bruto, retrospectiva de código o 
 > **Tarea:** Convierte las siguientes `[Notas Técnicas]` en una publicación atractiva para LinkedIn. Usa oraciones cortas, emojis moderados y un tono profesional pero accesible. Añade un gancho fuerte al principio y una pregunta al final.
 > **Notas Técnicas:** `[Pega aquí tus notas]`
 
-\
 
 ### 🥇 Versión Pro (Nivel Experto)
 

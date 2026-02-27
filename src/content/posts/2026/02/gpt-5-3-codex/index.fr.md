@@ -48,7 +48,6 @@ Idéal pour une correction rapide dans un seul fichier.
 > **Rôle :** Tu es un Développeur Senior expert en clean code.
 > **Requête :** Analyse et refactorise ce `[langage]` code pour améliorer ses performances et sa lisibilité, en utilisant les standards modernes.
 
-\
 
 ### 🥇 Version Pro (Architecte)
 

@@ -42,7 +42,6 @@ Utilizza questo prompt quando desideri un risultato immediato senza troppe confi
 > **Ruolo:** Sei il miglior autore di fiabe al mondo e un esperto di ipnosi rilassante.
 > **Richiesta:** Contare le pecore è inutile e i pensieri ansiogeni mi tengono sveglio. Scrivi all'istante una 'Favola per Adulti' estremamente pacifica, languida e priva di conflitti per aiutarmi ad addormentarmi.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

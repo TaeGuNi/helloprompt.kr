@@ -44,7 +44,6 @@ Use esta versão para uma rápida injeção de energia positiva, perfeita para l
 > **Função:** Você é o melhor `[Coach de Motivação]` do mundo.
 > **Tarefa:** Crie 5 afirmações positivas curtas e poderosas para mim, para que eu possa começar o meu dia cheio de energia.
 
-\
 
 ### 🥇 Versão Profissional (Pro Version)
 

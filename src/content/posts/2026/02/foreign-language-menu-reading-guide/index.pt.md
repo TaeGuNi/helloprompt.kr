@@ -48,7 +48,6 @@ Use isto para uma resposta rápida e direta quando o garçom já estiver esperan
 > **Papel:** Você é um Guia Gastronômico Especialista.
 > **Pedido:** Explique o prato `[Nome do Prato ou Foto]` de forma simples e me diga como pedir sem `[ingrediente indesejado, ex: coentro/pimenta]` no idioma local.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

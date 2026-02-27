@@ -48,7 +48,6 @@ Hacer la maleta para una escapada de fin de semana no tiene nada que ver con pre
 > **Rol:** Eres un 'Nómada Digital Experto' que ha vivido al menos un mes en más de 20 países diferentes.
 > **Solicitud:** Voy a viajar a `[País/Ciudad]` durante `[Duración]`. Recomiéndame los 10 artículos esenciales y poco convencionales que mejorarán drásticamente mi calidad de vida allí y que definitivamente debería llevar desde mi país de origen.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

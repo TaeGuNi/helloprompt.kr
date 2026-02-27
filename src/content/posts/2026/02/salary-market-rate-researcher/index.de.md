@@ -43,7 +43,6 @@ Nutzen Sie diese Version, wenn Sie nur eine grobe Einschätzung benötigen.
 > **Rolle:** Du bist ein Experte für Gehalts- und Vergütungsanalysen.
 > **Anfrage:** Analysiere die durchschnittliche Gehaltsspanne für meine Position und Berufserfahrung basierend auf aktuellen Stellenanzeigen und Gehaltsdatenbanken, um mir objektive Argumente für eine Gehaltsverhandlung zu liefern.
 
-\
 
 ### 🥇 Pro Version (Experten-Level)
 

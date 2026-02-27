@@ -42,7 +42,6 @@ layout: ../layouts/BlogPost.astro
 > **任务：** 请检查以下代码是否存在逻辑错误或可读性问题，并指出 3 个需要改进的核心点。
 > **代码：** `[在此处粘贴你的代码]`
 
-\
 
 ### 🥇 Pro Version (专业版)
 
@@ -69,10 +68,9 @@ layout: ../layouts/BlogPost.astro
 > - 如果代码已经非常完美，请给予赞美并输出 "LGTM 🚀"。
 > 
 > **输入数据 (Input Code)：**
-> ```python
+>
 > [在此处粘贴你的代码]
-> ```
-
+>
 ---
 
 ## 💡 作者见解 (Insight)

@@ -45,7 +45,6 @@ El problema crónico de las APIs REST es precisamente el **Over-fetching** (obte
 
 > **Datos:** `[Pega aquí la respuesta JSON de tu API REST actual]`
 
-\
 
 ### 🥇 Versión Pro (Nivel Experto: Prevención N+1 y Paginación perfecta)
 

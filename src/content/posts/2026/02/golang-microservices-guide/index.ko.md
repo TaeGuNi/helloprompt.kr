@@ -43,7 +43,6 @@ Spring Boot와 Go의 핵심 개념을 1:1로 빠르게 매칭하여 이해하고
 > **역할:** 너는 시니어 백엔드 개발자야.
 > **요청:** Spring Boot의 `@RestController` 및 의존성 주입(DI) 개념을 Go에서는 어떻게 구현하는지, `Gin` 또는 `Echo` 프레임워크를 사용한 간단한 CRUD 예제 코드와 함께 비교해서 설명해줘.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

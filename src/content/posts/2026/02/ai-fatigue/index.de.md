@@ -43,7 +43,6 @@ Nutzen Sie diesen Prompt, um schnell zu prüfen, ob ein neues Tool Ihre Zeit üb
 > **Rolle:** Du bist ein pragmatischer Produktivitätsexperte.
 > **Aufgabe:** Bewerte kritisch, ob ich `[Neues KI-Tool / Feature, z.B. Sora]` für `[Meine aktuelle Aufgabe, z.B. Blogposts schreiben]` wirklich brauche oder ob es nur eine Ablenkung (Shiny Object) ist. Nenne mir 2 klare Pros und 2 schmerzhafte Contras.
 
-\
 
 ### 🥇 Pro Version (Experten-Audit)
 

@@ -42,7 +42,6 @@ Utilizzala quando ti serve solo una rapida panoramica per capire se i risultati 
 > **Ruolo:** Sei uno `[Stratega di Investimento Professionale]` di un hedge fund di Wall Street.
 > **Richiesta:** Ti fornirò la trascrizione di una Earnings Call. Poiché è troppo lunga ed in inglese, estraine solo il nucleo fondamentale, le sorprese sugli utili e la guidance futura traducendoli in italiano.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

@@ -44,7 +44,6 @@ Utilisez ce prompt lorsque vous souhaitez obtenir un aperçu rapide de la dynami
 > **Rôle :** Tu es un analyste technique objectif des marchés financiers.
 > **Tâche :** Analyse les tendances à court et moyen/long terme sur le graphique boursier ci-joint. Indique-moi si nous sommes dans une tendance haussière, baissière ou dans un range (latéralisation), et identifie les niveaux de prix les plus évidents pour les principaux supports et résistances.
 
-\
 
 ### 🥇 Version Pro (Analyse technique experte & Scénarios)
 

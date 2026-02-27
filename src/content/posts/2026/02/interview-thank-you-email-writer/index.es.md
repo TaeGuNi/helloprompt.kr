@@ -48,7 +48,6 @@ Un 'Correo de Agradecimiento' (Thank You Email) enviado dentro de las 24 horas p
 > **Rol:** Eres un experto en comunicación corporativa y Recursos Humanos.
 > **Solicitud:** Escribe un correo de agradecimiento profesional y persuasivo para enviar al entrevistador justo después de una entrevista de trabajo. El tono debe ser cortés y mostrar mucho entusiasmo por el puesto.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

@@ -38,7 +38,6 @@ Verwenden Sie diesen Prompt, wenn Sie nur schnell das Grundgerüst und das Layou
 > **Rolle:** Du bist ein Senior `[Go/Rust/Python/Node.js]`-Entwickler und Experte für TUI (Text User Interface) Design.
 > **Aufgabe:** Schreibe den grundlegenden Scaffolding-Code für eine TUI-Anwendung mit dem Ziel `[Zweck der App]` unter Verwendung von `[Sprache & Framework]`. Die Struktur muss aus einer Seitenleiste auf der linken Seite und einem Haupt-Viewport auf der rechten Seite bestehen.
 
-\
 
 ### 🥇 Pro Version (Der Experten-Modus)
 

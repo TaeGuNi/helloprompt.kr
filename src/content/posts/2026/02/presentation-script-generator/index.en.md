@@ -42,7 +42,6 @@ Use this when you need a quick, straightforward script without complex instructi
 > **Role:** You are an expert TED Talk Presentation Coach.
 > **Task:** Generate a natural, conversational presentation script for each of my PPT slides based on the content I provide.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

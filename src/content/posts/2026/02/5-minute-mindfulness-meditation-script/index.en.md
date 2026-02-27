@@ -42,7 +42,6 @@ Use this when you need immediate calm without overthinking.
 > **Role:** You are a seasoned mindfulness instructor with a soothing, calming voice.
 > **Task:** I need a 5-minute guided meditation script. Tailor it specifically to help me calm down from `[my current stressful situation]`.
 
-\
 
 ### 🥇 Pro Version (Deep Dive)
 

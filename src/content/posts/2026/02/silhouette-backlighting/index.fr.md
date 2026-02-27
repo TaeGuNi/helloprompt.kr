@@ -42,7 +42,6 @@ Utilisez ce prompt lorsque vous souhaitez générer rapidement une image sans pa
 > **Rôle :** Tu es un directeur de la photographie expert en clair-obscur.
 > **Requête :** Génère l'image d'un `[Sujet, ex: loup solitaire]` en silhouette parfaite, se découpant contre un `[Arrière-plan lumineux, ex: soleil couchant écarlate]`. Utilise un rétroéclairage fort et un contraste élevé.
 
-\
 
 ### 🥇 Version Pro (Pour un contrôle absolu)
 

@@ -51,7 +51,6 @@ Use this when you need a quick text-to-text translation of a complex pattern int
 > **Format:**
 > Break it down with clear line breaks for each Row/Round so it is completely foolproof to read while knitting.
 
-\
 
 ### 🥇 Pro Version
 

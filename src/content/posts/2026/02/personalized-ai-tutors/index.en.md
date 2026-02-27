@@ -37,7 +37,6 @@ Use this when you need a quick, accessible explanation of a concept for a specif
 > **Role:** You are an expert `[Subject]` tutor.
 > **Task:** Explain `[Concept]` to a `[Grade Level]` student in simple, easy-to-understand terms. Provide one relatable, everyday example.
 
-\
 
 ### 🥇 Pro Version
 

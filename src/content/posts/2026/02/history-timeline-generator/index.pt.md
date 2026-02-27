@@ -42,7 +42,6 @@ Use esta versão quando precisar apenas de um resumo rápido e direto.
 > **Papel:** Você é um historiador experiente e um especialista em visualização de dados.
 > **Solicitação:** Organize os principais eventos sobre `[Tópico/Época]` em ordem cronológica, destacando suas causas e consequências de forma resumida.
 
-\
 
 ### 🥇 Versão Pro (Expert)
 

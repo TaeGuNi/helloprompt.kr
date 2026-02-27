@@ -43,7 +43,6 @@ Utilisez cette version lorsque vous avez besoin d'une inspiration rapide sans en
 >
 > **Demande :** Un antagoniste charismatique est essentiel à un bon récit. Laisse-moi t'interviewer pour découvrir ton passé caché et tes véritables motivations. Réponds à mes questions en restant strictement dans ton personnage.
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 

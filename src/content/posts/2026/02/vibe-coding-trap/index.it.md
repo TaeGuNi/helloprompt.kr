@@ -60,12 +60,9 @@ Utilizza questo prompt quando desideri una revisione del codice o di un'idea che
 >
 > **Codice di input:**
 >
-> ```javascript
+>
 > [Inserisci qui lo snippet di codice da revisionare]
-> ```
-
-\
-
+>
 ### 🥇 Pro Version (Prompt per l'Inquisitore Architetturale)
 
 Un prompt in due fasi che ti costringe a valutare i compromessi (Trade-off) prima di implementare una nuova funzionalità.

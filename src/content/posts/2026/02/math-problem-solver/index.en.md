@@ -42,7 +42,6 @@ Use this when you need a quick, straightforward breakdown without the deep dive.
 > **Role:** You are an `[expert math teacher and patient private tutor]`.
 > **Task:** Solve the following `[math problem]`. Instead of just providing the final answer like a typical textbook, explain your thinking process step-by-step in an easy-to-understand way.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

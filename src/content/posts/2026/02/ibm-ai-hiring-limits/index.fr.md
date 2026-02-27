@@ -39,7 +39,6 @@ Idéal pour une réflexion rapide sur l'impact de l'IA au sein de votre équipe.
 > **Rôle :** Tu es un `[Expert RH]`.
 > **Requête :** Analyse pourquoi remplacer les `[Postes Juniors]` par l'IA est une erreur stratégique à long terme pour la pérennité de l'entreprise.
 
-\
 
 ### 🥇 Pro Version (Version Stratégique)
 

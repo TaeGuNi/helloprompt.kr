@@ -41,7 +41,6 @@ Verwenden Sie diesen Prompt, wenn Sie schnell und unkompliziert den Kern einer S
 > **Rolle:** Du bist ein Experte für Datensicherheit und ein Lead Data Analyst.
 > **Aufgabe:** Lies die folgenden `[internen, vertraulichen Daten]` und fasse die 3 wichtigsten Kernprobleme zusammen. Ignoriere jegliches externe Wissen und basiere deine Antwort ausschließlich auf dem bereitgestellten Text.
 
-\
 
 ### 🥇 Pro Version (Für Experten)
 

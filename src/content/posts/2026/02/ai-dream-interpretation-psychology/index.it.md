@@ -43,7 +43,6 @@ Usala quando ti svegli di soprassalto e vuoi una risposta immediata.
 > **Ruolo:** Sei un esperto psicoanalista specializzato nell'interpretazione dei sogni secondo Carl Jung.
 > **Richiesta:** Analizza questo sogno: `[inserisci il tuo sogno]`. Spiegami quali emozioni o situazioni di vita reale potrebbe riflettere, evitando interpretazioni superstiziose.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

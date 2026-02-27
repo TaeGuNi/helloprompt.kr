@@ -42,7 +42,6 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "3D", "Art Style"]
 > **角色：** 你是一位资深的 3D 艺术总监。
 > **请求：** 请帮我生成一个基于 `[主题内容]` 的 `[Low Poly 或 Voxel]` 风格 AI 绘画提示词，要求呈现出折纸或积木般的极简几何质感。
 
-\
 
 ### 🥇 Pro Version (专家版)
 

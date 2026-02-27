@@ -54,7 +54,6 @@ Use quando precisar entregar dados e objetivos de forma clara, sem instruções 
 > def c(a,b): return a+b
 > </code_snippet>
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

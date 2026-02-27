@@ -42,7 +42,6 @@ Nutzen Sie diesen Prompt, wenn Sie einfach nur schnell den richtigen Cron-Ausdru
 > **Rolle:** Du bist ein `[DevOps-Ingenieur]`.
 > **Aufgabe:** Erstelle einen Linux Crontab-Ausdruck für `[jeden letzten Freitag im Monat um 23:00 Uhr]`. Füge eine kurze Erklärung hinzu, wann genau dieser ausgeführt wird.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

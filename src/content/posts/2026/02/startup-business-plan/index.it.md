@@ -49,7 +49,6 @@ Usalo quando vuoi testare rapidamente se la tua idea è in linea con la logica r
 > **Ruolo:** Sei un consulente esperto in bandi di finanziamento per startup.
 > **Richiesta:** Riassumi in 3 punti ciascuno le sezioni **'Identificazione del Problema (Problema)'** e **'Approccio Risolutivo (Soluzione)'** per la mia idea, l'`[App per trovare compagni di passeggiata per cani]`, usando uno stile conciso e formale ("...prevede", "...implementa"), tipico dei business plan istituzionali.
 
-\
 
 ### 🥇 Versione Pro (Completamento Indice PSST)
 

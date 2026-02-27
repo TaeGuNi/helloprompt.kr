@@ -43,7 +43,6 @@ tags: ["AI", "ChatGPT", "Dawn"]
 > **Tâche :** Lis le journal que je viens d'écrire, décris la météo de mes émotions du jour et offre-moi un mot de réconfort bienveillant.
 > **Contenu du journal :** `[Texte écrit aujourd'hui]`
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 
@@ -72,10 +71,9 @@ tags: ["AI", "ChatGPT", "Dawn"]
 > **Données d'entrée (Input) :**
 > 
 > - **[Texte des Morning Pages]** :
-> ```text
+>
 > [Collez ici le contenu de vos Morning Pages du jour]
-> ```
-
+>
 ---
 
 ## 💡 L'Avis de l'Auteur (Insight)

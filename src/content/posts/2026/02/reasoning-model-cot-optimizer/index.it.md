@@ -43,7 +43,6 @@ Utilizzala immediatamente quando vuoi aggiungere rigore logico a problemi legger
 > **Compito:** Risolvi perfettamente il seguente problema: `[Problema da risolvere]`.
 > **Condizione:** Non dare subito la risposta finale. Mostrami prima il processo di risoluzione dettagliato applicando l'approccio "Let's think step by step" (Pensiamo passo dopo passo).
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

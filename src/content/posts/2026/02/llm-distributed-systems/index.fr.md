@@ -39,7 +39,6 @@ Utilisez cette version pour obtenir rapidement une modélisation de base de votr
 > **Rôle :** Tu es un `[Architecte de Systèmes Distribués]`.
 > **Requête :** Modélise un flux de travail pour `[Cas d'usage, ex: traitement de commandes inter-microservices]` en utilisant un réseau de Petri. Définis les places (états) et les transitions (actions du LLM).
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

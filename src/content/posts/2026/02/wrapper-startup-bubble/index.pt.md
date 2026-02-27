@@ -39,7 +39,6 @@ Use esta versão quando quiser diagnosticar rapidamente o nível de risco da sua
 > **Função:** Você é um analista implacável de um fundo de Venture Capital (VC) Tier 1 do Vale do Silício.
 > **Tarefa:** Analise se o serviço de IA que estou planejando, `[ideia do serviço]`, é apenas um API Wrapper. Além disso, apresente 3 estratégias de defesa para que o serviço consiga sobreviver caso a OpenAI lance essa mesma funcionalidade nativamente.
 
-\
 
 ### 🥇 Versão Pro (Especialista)
 

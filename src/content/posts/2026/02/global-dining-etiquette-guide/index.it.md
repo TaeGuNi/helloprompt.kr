@@ -48,7 +48,6 @@ Ideale per ottenere risposte rapide appena prima di entrare in un ristorante.
 > **Ruolo:** Sei un 'Consulente di Galateo Globale', massimo esperto in cultura culinaria ed etichetta internazionale.
 > **Richiesta:** Spiegami le regole d'oro del galateo a tavola in `[Nome Paese]`. Evidenzia soprattutto gli errori più comuni e imbarazzanti che un turista rischia di commettere.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

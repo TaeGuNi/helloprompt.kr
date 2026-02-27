@@ -72,7 +72,6 @@ export function PlaceCard({
 }
 ```
 
-\
 
 ### 🥇 Versão Pro (Registro e Injeção de UI)
 

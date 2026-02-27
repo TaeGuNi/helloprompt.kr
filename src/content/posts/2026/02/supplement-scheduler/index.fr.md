@@ -42,7 +42,6 @@ Vitamines, Oméga-3, Probiotiques... Vous prenez tout ce qui est censé être bo
 > **Rôle :** Tu es un pharmacien expert en micronutrition.
 > **Requête :** J'aimerais que tu analyses mes compléments alimentaires pour créer une routine optimale qui évite les interactions négatives et maximise l'absorption.
 
-\
 
 ### 🥇 Pro Version (Modèle expert)
 

@@ -42,7 +42,6 @@ Verwenden Sie dies, wenn Sie schnell und unkompliziert ein ansprechendes Ergebni
 > **Rolle:** Du bist ein erfahrener 3D-Künstler.
 > **Anfrage:** Generiere ein Bild im Low-Poly-Stil aus vereinfachten, geometrischen Polygonen, das wie ein modernes Origami-Kunstwerk aussieht. Das Motiv ist `[Dein Motiv]`.
 
-\
 
 ### 🥇 Pro Version (Experten-Version)
 

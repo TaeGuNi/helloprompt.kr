@@ -42,7 +42,6 @@ Ideal für einen schnellen Check zwischendurch, wenn die Zeit drängt.
 > **Rolle:** Du bist ein erfahrener Senior Software Engineer bei Google.
 > **Anfrage:** Führe ein strenges Code-Review für den folgenden Code durch und nenne mir die drei wichtigsten Verbesserungspotenziale: `[Ihr Code hier]`
 
-\
 
 ### 🥇 Pro Version (Expertenmodus)
 

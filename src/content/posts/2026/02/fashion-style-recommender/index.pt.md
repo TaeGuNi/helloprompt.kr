@@ -43,7 +43,6 @@ Use isso quando precisar de uma recomendação rápida para um único look amanh
 > **Minhas Roupas:** Terno azul marinho, calça social preta, camisa branca, suéter bege, sapatos pretos.
 > **Tarefa:** Recomende apenas uma combinação de roupa de convidado que pareça sofisticada e elegante, sem ser chamativa demais. Dê também um conselho se devo ou não usar gravata.
 
-\
 
 ### 🥇 Versão Pro (Guarda-roupa Cápsula & Rotação Semanal)
 

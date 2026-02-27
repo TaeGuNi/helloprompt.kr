@@ -60,7 +60,6 @@ ollama run deepseek-r1:8b
 > **角色：** 你是一个资深前端开发工程师。
 > **任务：** 帮我写一个用 React 和 Tailwind CSS 实现的带悬浮动画效果的按钮组件。
 
-\
 
 ### 🥇 Pro Version (高阶集成与架构级提示词)
 
@@ -173,4 +172,3 @@ function findActiveUserRecords(activeUserIds, targetRecordList) {
 `ollama run deepseek-r1`
 
 祝你代码无 Bug，早点下班！ 🍷
-```

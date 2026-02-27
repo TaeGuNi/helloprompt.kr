@@ -47,7 +47,6 @@ tags:
 > **2. 执行架构规划提示词:**
 > `/plan "请使用 Next.js 14 App Router 为我搭建一个响应式的博客文章列表页。技术栈需包含 Tailwind CSS 和 shadcn/ui。"`
 
-\
 
 ### 🥇 Pro Version (专业版)
 

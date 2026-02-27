@@ -42,7 +42,6 @@ Utilize esta versão quando precisar entender rapidamente as principais diferen�
 > **Role:** Você é um Engenheiro DevOps Sênior focado nas últimas tendências.
 > **Task:** Resuma as principais diferenças entre GitHub Copilot, Cursor e Windsurf, focando especificamente na "capacidade de compreensão do código-fonte (codebase)" e no "nível de autonomia do agente".
 
-\
 
 ### 🥇 Versão Pro (Decisão de Migração e Adoção em Equipe)
 

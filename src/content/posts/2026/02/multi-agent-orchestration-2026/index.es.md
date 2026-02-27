@@ -42,7 +42,6 @@ La era de intentar meterlo todo en un solo prompt ha terminado. La tendencia cla
 > **Rol:** Eres un Project Manager (PM) altamente competente.
 > **Tarea:** Sobre el `[Tema]`, ofrece opiniones profundas desde la perspectiva de un Planificador, un Desarrollador y un Diseñador. Luego, sintetízalas y propón la dirección óptima.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

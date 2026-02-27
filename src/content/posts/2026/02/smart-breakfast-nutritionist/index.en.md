@@ -42,7 +42,6 @@ Use this when you need a quick menu idea without the details.
 > **Role:** You are a creative chef.
 > **Task:** I have `[2 eggs, 1 slice of bread, cherry tomatoes]` in my fridge. Recommend 3 breakfast menus I can make with these in under 15 minutes.
 
-\
 
 ### 🥇 Pro Version
 
@@ -102,7 +101,6 @@ Use this when you just need quick menu ideas without the fuss.
 > **Role:** You are a creative chef.
 > **Task:** I have `[2 eggs, 1 slice of bread, cherry tomatoes]` in my fridge. Recommend exactly 3 breakfast menus I can make with these in under 15 minutes.
 
-\
 
 ### 🥇 Pro Version
 

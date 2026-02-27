@@ -49,7 +49,6 @@ Hoy te presento un prompt para ChatGPT diseñado para analizar tus patrones de s
 > **Rol:** Eres un `[Experto en productividad y gestión del tiempo]`.
 > **Tarea:** Me despierto a las `[6:00 a.m.]` y tengo `[1 hora y 30 minutos]` libres antes de ir a trabajar. Mis objetivos matutinos son `[estirar, leer 10 páginas y tomar un desayuno ligero]`. Crea una línea de tiempo realista y eficiente para mi rutina de mañana que me permita cumplir estos objetivos.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

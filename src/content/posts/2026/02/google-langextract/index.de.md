@@ -54,7 +54,6 @@ Früher mussten wir das Modell mühsam instruieren, ausschließlich gültiges JS
 >
 > **Warnung:** Füge absolut keinen weiteren Text vor oder nach dem JSON hinzu!
 
-\
 
 ### 🥇 Pro Version (Der LangExtract-Weg)
 

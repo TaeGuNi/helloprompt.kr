@@ -49,7 +49,6 @@ Ideal para quando você precisa de resultados rápidos e diretos.
 > **Papel:** Você é um `[Especialista em Música Indie/Local]`.
 > **Pedido:** Chega de armadilhas para turistas. Leve-me a uma jornada musical autêntica para sentir a verdadeira energia dos músicos locais em `[Nome da Cidade]`.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

@@ -38,7 +38,6 @@ Utilisez cette version pour esquisser rapidement une idée.
 > **Rôle :** Tu es un `[Développeur front-end expert en SVG]`.
 > **Tâche :** Rédige le code SVG parfait représentant `[un pélican faisant du vélo]`.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

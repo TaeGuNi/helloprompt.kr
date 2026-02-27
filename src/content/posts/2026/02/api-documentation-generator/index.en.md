@@ -44,7 +44,6 @@ Use this when you just need a quick, no-frills result.
 > **Role:** You are a meticulous technical writer and senior backend developer.
 > **Request:** I will provide you with my API code. Analyze it and automatically generate a complete API specification, including endpoints, parameters, and response examples.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

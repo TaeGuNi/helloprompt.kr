@@ -42,7 +42,6 @@ Use this when you need a rapid, high-level outline for a sudden meeting.
 > **Role:** You are an elite B2B Proposal Writer with a 90% pitch win rate.
 > **Request:** Create a compelling, client-focused proposal storytelling outline for `[insert product/service]`. Focus on solving the client's core problem rather than just listing features.
 
-\
 
 ### 🥇 Pro Version (Expert Pitch)
 

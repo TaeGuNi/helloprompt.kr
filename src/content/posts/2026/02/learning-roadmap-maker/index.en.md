@@ -42,7 +42,6 @@ Use this when you need a quick overview of what to study.
 > **Role:** You are an expert instructional designer and accelerated learning coach.
 > **Task:** Create a rapid 3-day learning roadmap for `[Topic]`. Focus only on the absolute essentials to achieve the 80/20 rule (Pareto principle).
 
-\
 
 ### 🥇 Pro Version
 

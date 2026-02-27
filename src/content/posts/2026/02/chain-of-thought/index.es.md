@@ -41,7 +41,6 @@ Es idéntico a cómo los humanos resolvemos un problema difícil: no adivinamos 
 > **Tarea:** Resuelve el siguiente `[Problema Matemático o Lógico]`.
 > **Instrucción Clave:** Pensemos paso a paso.
 
-\
 
 ### 🥇 Few-Shot CoT (Versión Profesional)
 

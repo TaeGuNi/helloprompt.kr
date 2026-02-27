@@ -42,7 +42,6 @@ Verwenden Sie dies, wenn Sie ein schnelles, unkompliziertes Ergebnis ohne viele 
 > **Rolle:** Du bist ein professioneller Fotograf.
 > **Anfrage:** Generiere das Bild eines `[Motivs]` bei Nacht mit starkem Bokeh-Effekt und einem extrem unscharfen Hintergrund, sodass das Gesicht im Fokus steht.
 
-\
 
 ### 🥇 Pro Version (Expertenform)
 

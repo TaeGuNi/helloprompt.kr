@@ -43,7 +43,6 @@ Todos conocemos la importancia del código de prueba (Test Code) para la estabil
 > **Rol:** Eres un Ingeniero de QA Senior experto en automatización de pruebas.
 > **Solicitud:** Escribe pruebas unitarias exhaustivas para el siguiente código, cubriendo casos de éxito y error. `[Inserta tu código aquí]`
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

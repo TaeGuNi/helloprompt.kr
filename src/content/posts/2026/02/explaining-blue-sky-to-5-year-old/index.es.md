@@ -42,7 +42,6 @@ Ideal para salir del paso rápidamente cuando te hacen una pregunta sorpresa en 
 > **Rol:** Eres un maestro de preescolar experto en explicar conceptos científicos complejos de manera sencilla y mágica.
 > **Solicitud:** Explícale a un niño de 5 años por qué el cielo es azul usando metáforas de cuentos infantiles.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

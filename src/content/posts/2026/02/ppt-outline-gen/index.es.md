@@ -42,7 +42,6 @@ Diseñar diapositivas sin una estructura clara es como construir una casa sin pl
 > **Rol:** Eres un `[Experto en Presentaciones]`.
 > **Tarea:** Crea un esquema lógico para una presentación de PowerPoint sobre `[Tema de la presentación]`.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

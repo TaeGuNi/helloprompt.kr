@@ -43,7 +43,6 @@ Idéale pour un nettoyage express d'une petite fonction.
 > **Tâche :** Refactore le code suivant pour le rendre plus lisible et maintenable, tout en conservant exactement la même fonctionnalité.
 > **Code :** `[Insérez votre code ici]`
 
-\
 
 ### 🥇 Version Pro (Pour une restructuration experte)
 
@@ -82,10 +81,9 @@ Idéale pour un nettoyage express d'une petite fonction.
 >
 > **Code à analyser :**
 >
-> ```
+>
 > [Collez votre code spaghetti ici]
-> ```
-
+>
 ---
 
 ## 💡 Note de l'auteur (Insight)

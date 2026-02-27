@@ -48,7 +48,6 @@ Usa questo prompt per generare il codice di interazione 1:1 più semplice tra du
 
 > **Obiettivo:** Imposta i due agenti affinché completino il compito di "trovare i numeri primi (Prime Number) da 1 a 100 e salvarli in un file txt".
 
-\
 
 ### 🥇 Versione Pro (Azienda IT Virtuale: PM, Dev, QA)
 

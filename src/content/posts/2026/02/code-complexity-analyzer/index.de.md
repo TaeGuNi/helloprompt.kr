@@ -44,12 +44,9 @@ Nutze diesen Prompt, wenn du schnell die Schwachstellen eines Codes identifizier
 > **Rolle:** Du bist ein `[Senior Backend-Entwickler]`.
 > **Aufgabe:** Analysiere die Komplexität des folgenden Codes und nenne mir 3 konkrete Punkte, wie ich ihn refactoren kann.
 >
-> ```text
+>
 > [Füge deinen Code hier ein]
-> ```
-
-\
-
+>
 ### 🥇 Pro Version (Für Experten)
 
 Verwende diese Version, wenn du präzise Metriken und die Anwendung spezifischer Design-Patterns benötigst.
@@ -69,9 +66,9 @@ Verwende diese Version, wenn du präzise Metriken und die Anwendung spezifischer
 >
 > **Code-Eingabe (Code):**
 >
-> ```text
+>
 > [Füge den zu refactornden Code hier ein]
-> ```
+>
 >
 > **Einschränkungen (Constraints):**
 >

@@ -46,7 +46,6 @@ Before writing code, you must instruct the AI on _how_ to use your UI components
 >
 > **Task:** When a user asks for travel recommendations, do not just list them in text. You MUST use the `showPlace` UI tool to render interactive cards for each destination.
 
-\
 
 ### 🥇 Pro Version (The React Implementation)
 

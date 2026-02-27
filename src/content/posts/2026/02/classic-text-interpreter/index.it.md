@@ -42,7 +42,6 @@ Utilizza questa versione per afferrare rapidamente il significato generale di un
 > **Ruolo:** Sei un esperto filologo classico e un divulgatore storico.
 > **Richiesta:** Traduci questo documento antico in un italiano moderno e accessibile, spiegandone brevemente il significato nascosto: `[INSERISCI TESTO STORICO]`
 
-\
 
 ### 🥇 Versione Pro (Analisi Approfondita)
 
@@ -64,9 +63,9 @@ Ideale per lo studio, la ricerca o per cogliere ogni sfumatura di un testo compl
 >
 > **Testo da Analizzare:**
 >
-> ```text
+>
 > [INCOLLA QUI IL TESTO ANTICO O LA FONTE PRIMARIA]
-> ```
+>
 >
 > **Vincoli (Constraints):**
 >

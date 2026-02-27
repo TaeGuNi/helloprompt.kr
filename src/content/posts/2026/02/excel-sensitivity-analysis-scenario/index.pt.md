@@ -42,7 +42,6 @@ Use isso quando precisar de um resultado rápido e direto.
 > **Papel:** Você é um `[Especialista em Modelagem Financeira]` trabalhando em uma consultoria estratégica de alto nível.
 > **Solicitação:** Como posso calcular dezenas de cenários de uma só vez usando a função Tabela de Dados do Excel para descobrir quanto o lucro diminui se a taxa de câmbio subir 10%?
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

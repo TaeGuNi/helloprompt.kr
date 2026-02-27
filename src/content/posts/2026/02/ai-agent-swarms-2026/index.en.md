@@ -41,7 +41,6 @@ Use this when you need a quick conceptual breakdown of a multi-agent system.
 > **Role:** You are an expert AI Systems Architect.
 > **Task:** I want to build an AI agent swarm to solve `[Your Business Problem]`. Break this down into 3-4 specialized agents. Give each agent a specific role and explain how they will interact to complete the task.
 
-\
 
 ### 🥇 Pro Version
 

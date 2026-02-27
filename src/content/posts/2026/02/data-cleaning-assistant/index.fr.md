@@ -44,7 +44,6 @@ Il vous suffit désormais de donner à l'IA des « règles et modèles » clairs
 > **Rôle :** Tu es un `[Expert en données]`.
 > **Tâche :** Nettoie les `[données suivantes]` et organise-les proprement dans un tableau Markdown clair et sans erreurs.
 
-\
 
 ### 🥇 Version Pro (Expert)
 
@@ -77,12 +76,11 @@ L'astuce principale consiste à transformer instantanément des dizaines ou des 
 >
 > **Données d'entrée (Input) :**
 >
-> ```csv
+>
 > Hong Gildong, 010-1234-5678, Séoul Gangnam-gu, test@test.com
 > Kim Cheolsu, 010 9876 5432, Busan Haeundae-gu, invalid-email
 > Lee Yeonghui, 02-123-4567, Seoul Jongno-gu, 
-> ```
-
+>
 ---
 
 ## 💡 Le mot de l'auteur (Insight)

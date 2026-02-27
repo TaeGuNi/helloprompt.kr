@@ -42,7 +42,6 @@ Utilisez ce prompt lorsque vous avez besoin d'une réponse rapide pour un e-mail
 > **Rôle :** Tu es un `[Assistant de direction]`.
 > **Tâche :** Rédige une réponse polie et professionnelle à cet e-mail pour `[refuser gentiment la proposition / accepter le rendez-vous]`. Voici l'e-mail : `[Coller l'e-mail ici]`
 
-\
 
 ### 🥇 Version Pro (Pour les professionnels)
 

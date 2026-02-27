@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt, wenn Sie schnell und unkompliziert erste Ergebnisse
 > **Rolle:** Du bist ein Experte für die didaktische Aufbereitung von Lernmaterialien.
 > **Anfrage:** Wandle den folgenden Text in Karteikarten-Paare (Frage und Antwort) für Anki/Quizlet um.
 
-\
 
 ### 🥇 Pro Version (Expertenform)
 

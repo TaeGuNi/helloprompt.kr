@@ -44,7 +44,6 @@ Use this when you simply need to quickly convert a video script into a readable 
 > 
 > `[Paste the script here]`
 
-\
 
 ### 🥇 Pro Version
 

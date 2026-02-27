@@ -37,7 +37,6 @@ Claude 4.5 Opus de Anthropic cuenta con una ventana de contexto abrumadora de 1 
 > **Rol:** Eres un Analista de Datos Senior.
 > **Instrucción:** Lee todos los documentos adjuntos y resume los 5 insights clave más importantes.
 
-\
 
 ### 🥇 Versión Pro
 

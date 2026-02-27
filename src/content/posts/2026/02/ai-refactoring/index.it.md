@@ -43,7 +43,6 @@ Utilizza questo prompt per refactoring veloci su singole funzioni o piccoli bloc
 > **Ruolo:** Sei un Senior Software Engineer esperto in Clean Code.
 > **Richiesta:** Fai il refactoring di questo blocco di codice: `[Inserisci Codice]`. Migliora la nomenclatura delle variabili, riduci la complessità ciclomatica e separa le responsabilità.
 
-\
 
 ### 🥇 Pro Version (Versione Architetto)
 

@@ -45,11 +45,11 @@ tags: ["Redis", "캐싱", "백엔드", "성능최적화", "DB"]
 >
 > **요청:** 다음 함수에 Redis `Look-aside` 패턴 캐싱을 적용해 줘.
 >
-> ```javascript
+>
 > async function getUserProfile(userId) {
 >   return await db.users.findOne({ id: userId });
 > }
-> ```
+>
 >
 > **조건:**
 >
@@ -58,7 +58,6 @@ tags: ["Redis", "캐싱", "백엔드", "성능최적화", "DB"]
 > - 캐시 미스(Cache Miss) 시 DB에서 조회하고 Redis에 저장하는 로직을 명확히 구현해.
 > - 예외 처리(Redis 연결 실패 시에도 DB 조회는 정상 동작)를 반드시 포함해.
 
-\
 
 ### 🥇 Pro Version (캐시 스탬피드 방어 아키텍처)
 

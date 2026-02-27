@@ -39,7 +39,6 @@ Como desarrolladores que trabajamos con Grandes Modelos de Lenguaje (LLMs), a me
 > **Rol:** Eres un `[Analista de Datos Senior]`.
 > **Instrucción:** Analiza el siguiente texto y extrae únicamente `[los 3 puntos clave]`. Ignora cualquier información irrelevante o ejemplos redundantes.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

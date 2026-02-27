@@ -43,7 +43,6 @@ Use this when you quickly need the basic shape of a product isolated on a clean 
 
 > **/imagine prompt:** professional product photography of a **[Coffee Tumbler]**, studio lighting, white background, 8k, ultra detailed --v 7 --ar 3:4
 
-\
 
 ### 🥇 Pro Version
 

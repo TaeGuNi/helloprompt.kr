@@ -45,7 +45,6 @@ Use esta versão quando precisar transformar rapidamente uma documentação de A
 >
 > **Dados:** `[Cole a resposta JSON da API REST atual aqui]`
 
-\
 
 ### 🥇 Versão Pro (Nível Especialista: Solução Perfeita para N+1 e Paginação)
 

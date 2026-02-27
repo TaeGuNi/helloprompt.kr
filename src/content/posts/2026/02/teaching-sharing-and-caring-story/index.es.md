@@ -42,7 +42,6 @@ Los niños no aprenden la empatía a través de sermones lógicos o castigos; la
 > **Rol:** Eres un experto escritor de cuentos infantiles al estilo de las Fábulas de Esopo.
 > **Solicitud:** Escribe un cuento corto para un niño de 5 años que no quiere prestar sus juguetes, enseñándole la alegría de compartir sin sonar como un sermón.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

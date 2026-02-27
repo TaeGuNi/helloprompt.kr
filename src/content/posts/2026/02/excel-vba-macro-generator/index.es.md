@@ -42,7 +42,6 @@ Las tareas repetitivas de recopilación de datos y formato no solo son aburridas
 > **Rol:** Eres un Desarrollador Experto en VBA de Excel.
 > **Solicitud:** Escribe una macro en VBA para `[Describe el problema, ej: eliminar todas las filas vacías de la Hoja 1]`.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

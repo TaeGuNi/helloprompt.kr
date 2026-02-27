@@ -42,7 +42,6 @@ Utilisez cette version si vous avez besoin d'une idée en moins de dix secondes.
 > **Rôle :** Tu es un Maître de Jeu (MJ) vétéran spécialisé dans les accroches narratives immersives.
 > **Demande :** Je manque de temps pour préparer ma session de TRPG de ce soir. Génère-moi 3 idées d'introductions palpitantes qui jetteront immédiatement mes joueurs au cœur de l'action.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

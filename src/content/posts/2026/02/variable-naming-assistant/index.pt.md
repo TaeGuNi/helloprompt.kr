@@ -42,7 +42,6 @@ Use esta versão quando precisar de uma sugestão rápida e direta, sem muitas e
 > **Papel:** Você é um Desenvolvedor Sênior nativo em inglês.
 > **Solicitação:** Sugira 3 nomes de variáveis/funções em inglês (no formato camelCase) para `[descreva o que a função faz]`.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

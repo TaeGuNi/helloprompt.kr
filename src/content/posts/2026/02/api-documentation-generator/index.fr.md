@@ -44,7 +44,6 @@ Idéal pour transformer un bout de code en une explication claire et rapide pour
 > **Requête :** Analyse le code ci-dessous et génère une documentation API en Markdown incluant les paramètres requis, les méthodes HTTP et des exemples de réponses JSON.
 > **Code :** `[Collez votre code ici]`
 
-\
 
 ### 🥇 Pro Version (Format Expert)
 

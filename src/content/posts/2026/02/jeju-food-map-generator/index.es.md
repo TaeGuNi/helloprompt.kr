@@ -41,7 +41,6 @@ No te dejes engañar más por blogs publicitarios y reseñas sin alma. Los verda
 
 > **Petición:** Recomiéndame solo 3 `[cafeterías]` cerca de `[Aewol-eup, Isla de Jeju]` que tengan unas `[vistas al mar]` increíbles. Por favor, que sean lugares sin demasiada gente y con facilidad para aparcar.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

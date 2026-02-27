@@ -42,7 +42,6 @@ Use this when you need a quick, high-level overview of your fit for a role.
 > **Role:** You are a pragmatic career coach and senior technical recruiter.
 > **Request:** Compare my resume against the provided Job Description (JD). Identify my missing competencies (skill gaps) and suggest a strategy to overcome them in my application.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

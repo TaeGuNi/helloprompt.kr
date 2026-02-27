@@ -42,7 +42,6 @@ Utilisez cette version pour générer une routine instantanée sans entrer dans 
 > **Rôle :** Tu es un expert en jeûne intermittent et en biohacking métabolique.
 > **Demande :** Conçois un programme de jeûne intermittent adapté aux débutants et donne-moi 3 astuces concrètes pour supporter la faim sans rompre le jeûne.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

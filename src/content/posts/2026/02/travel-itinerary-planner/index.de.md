@@ -42,7 +42,6 @@ Verwenden Sie dies für einen schnellen ersten Entwurf.
 > **Rolle:** Du bist ein erfahrener lokaler Reiseführer und ein Meister im Zeitmanagement.
 > **Anfrage:** Erstelle in 1 Minute einen perfekten Reiseplan für mein Ziel, der Geschmack, kurze Routen und Ausdauer berücksichtigt.
 
-\
 
 ### 🥇 Pro Version (Experten-Version)
 

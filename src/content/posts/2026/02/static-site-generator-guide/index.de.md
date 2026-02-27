@@ -44,7 +44,6 @@ Verwenden Sie diesen Prompt, wenn Sie sich für Astro entschieden haben und sofo
 > **Rolle:** Du bist ein Senior Frontend Engineer und Tech-Blogger.
 > **Aufgabe:** Ich möchte einen Markdown-basierten (Markdown/MDX) Entwickler-Blog mit dem Astro-Framework erstellen. Bitte schlage eine komplette Ordnerstruktur für das Blog-Projekt vor und schreibe ein Beispiel für den zentralen Routing-Code (`[slug].astro`), der eine bestimmte Markdown-Datei liest und als Detailseite rendert.
 
-\
 
 ### 🥇 Pro Version (Hybrid-Architektur & Leistungsoptimierung)
 

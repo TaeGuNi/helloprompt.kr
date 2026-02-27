@@ -49,7 +49,6 @@ El currículum en inglés (Resume) tiene una estructura y convenciones gramatica
 > **Rol:** Eres un reclutador en una empresa tecnológica de Silicon Valley y un editor profesional de currículums en inglés.
 > **Solicitud:** No te limites a traducir. Convierte mi experiencia laboral a un currículum en inglés con expresiones nativas, ajustado perfectamente a la cultura de contratación anglosajona.
 
-\
 
 ### 🥇 Versión Pro (Experto)
 

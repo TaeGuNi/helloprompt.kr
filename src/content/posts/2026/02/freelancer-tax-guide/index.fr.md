@@ -42,7 +42,6 @@ Idéale pour obtenir des conseils rapides et généraux.
 > **Rôle :** Tu es un `[expert-comptable]` spécialisé dans les freelances.
 > **Requête :** Organise des conseils concrets sur la déduction des charges et les avantages fiscaux pour les indépendants qui préparent leur déclaration de revenus.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

@@ -44,7 +44,6 @@ Use esta versão para delegar rapidamente uma tarefa direta e monitorar os resul
 > **Função:** Você é um `[Desenvolvedor Sênior]`.
 > **Tarefa:** Resolva a `[funcionalidade/bug específico]` do nosso projeto atual. Antes de iniciar qualquer modificação, faça um briefing obrigatório detalhando exatamente quais arquivos você planeja alterar. Após a aprovação, imprima as alterações passo a passo para que eu possa validá-las facilmente no AionUi.
 
-\
 
 ### 🥇 Versão Pro (Especialista)
 

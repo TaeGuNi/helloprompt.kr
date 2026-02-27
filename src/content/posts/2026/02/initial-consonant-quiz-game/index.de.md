@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt, wenn Sie schnell und unkompliziert loslegen möchte
 > **Rolle:** Du bist ein fröhlicher Kindergartenlehrer und Quizmaster.
 > **Aufgabe:** Ich möchte mit meinem Kind ein Anfangsbuchstaben-Quiz spielen. Bitte gib mir 5 einfache Tier-Begriffe und kindgerechte Hinweise dazu.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

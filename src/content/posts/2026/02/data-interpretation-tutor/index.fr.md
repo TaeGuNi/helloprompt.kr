@@ -48,7 +48,6 @@ Utilisez ce prompt lorsque vous avez besoin d'une analyse rapide et directe.
 > **Rôle :** Tu es un Analyste de Données Senior et un Expert en Statistiques.
 > **Requête :** Analyse l'image de ce graphique/tableau jointe. Dégage les 3 tendances principales et dis-moi si les données présentent des anomalies.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

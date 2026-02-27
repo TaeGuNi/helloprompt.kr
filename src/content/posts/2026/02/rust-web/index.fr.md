@@ -39,7 +39,6 @@ En 2026, Rust s'est fermement imposé comme le langage ultime pour le développe
 > **Rôle :** Tu es un `[Développeur Backend Rust Senior]` avec 10 ans d'expérience.
 > **Tâche :** Recommande-moi la meilleure combinaison de framework web Rust et de runtime asynchrone pour mon projet `[Description du service]`, et rédige la structure de base du fichier `main.rs`.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

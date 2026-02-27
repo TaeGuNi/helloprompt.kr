@@ -43,7 +43,6 @@ Usala quando hai bisogno di estrarre rapidamente solo gli "Action Item": chi dev
 > **Richiesta:** Dalla trascrizione della riunione fornita, estrai in modo pulito e sotto forma di elenco solo gli Action Item eseguibili, specificando 'Chi (Assignee)', 'Entro quando (Due Date)' e 'Cosa (Task)'.
 > **Trascrizione:** `[Incolla qui la trascrizione della riunione]`
 
-\
 
 ### 🥇 Versione Pro (Pro Version)
 

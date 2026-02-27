@@ -41,7 +41,6 @@ Use esta versão quando precisar de um resultado rápido e direto ao ponto no Mi
 
 > **Prompt de Imagem:** `[Floresta mágica à noite]`, bioluminescência, cogumelos brilhantes `[verde neon]`, atmosfera surreal, iluminação cinematográfica, fundo escuro e profundo, detalhes em 8k.
 
-\
 
 ### 🥇 Versão Pro (Meta-Prompt Especialista)
 

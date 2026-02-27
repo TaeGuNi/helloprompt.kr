@@ -45,7 +45,6 @@ Utilisez ceci lorsque vous avez besoin de saisir rapidement l'essence d'un artic
 > **Article Complet :**
 `[Coller le texte de l'article ici]`
 
-\
 
 ### 🥇 Version Pro (Générateur de Brouillon de Newsletter)
 

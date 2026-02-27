@@ -42,7 +42,6 @@ Idéal pour obtenir un aperçu rapide et essentiel avant le départ.
 > **Rôle :** Tu es un anthropologue culturel et un expert en étiquette internationale.
 > **Requête :** Rédige un guide rapide sur les erreurs à éviter pour un touriste en `[Pays/Ville]`, incluant les règles sur les pourboires et les gestes offensants.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

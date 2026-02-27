@@ -42,7 +42,6 @@ Use this prompt when you need immediate mental relief without overthinking the s
 > **Role:** You are a professional mindfulness coach and behavioral therapist. Please use a soothing, empathetic, and grounded tone.
 > **Task:** Write a short meditation script tailored to my current feelings of overwhelming stress and anxiety. Include breathing instructions.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

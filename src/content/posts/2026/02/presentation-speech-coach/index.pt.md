@@ -43,7 +43,6 @@ Use quando precisar apenas de resultados rápidos para tornar um texto formal ma
 > **Task (Tarefa):** Reescreva o roteiro de apresentação abaixo em um tom coloquial, natural e confiante, como se eu estivesse falando para o público. Use frases curtas para facilitar a respiração e destaque em **negrito** as partes que devem ser enfatizadas.
 > **Roteiro:** `[Cole seu roteiro original aqui]`
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

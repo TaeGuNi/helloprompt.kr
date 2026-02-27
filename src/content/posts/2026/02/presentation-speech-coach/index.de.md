@@ -43,7 +43,6 @@ Verwende diese Version, wenn du einen steifen Bericht schnell in einen natürlic
 > **Aufgabe:** Formuliere das folgende Präsentationsskript in eine natürliche, selbstbewusste gesprochene Sprache um, als würde ich vor einem Publikum stehen. Verwende kurze Sätze, um lange Atempausen zu vermeiden, und markiere die Textstellen **fett**, die besonders betont werden müssen.
 > **Skript:** `[Füge hier dein bisheriges Skript ein]`
 
-\
 
 ### 🥇 Pro Version (Experten-Version)
 

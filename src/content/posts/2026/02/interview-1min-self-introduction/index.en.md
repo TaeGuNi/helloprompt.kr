@@ -42,7 +42,6 @@ Use this when you just need a quick baseline script.
 > **Role:** You are an expert career coach and image consultant.
 > **Request:** Write a 1-minute self-introduction script that firmly establishes my unique professional concept and core competencies, strictly avoiding any cliché metaphors.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

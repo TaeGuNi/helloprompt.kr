@@ -48,7 +48,6 @@ Idéal quand vous avez déjà le texte des règles sous la main ou qu'il s'agit 
 2. Liste dans l'ordre les actions que je peux effectuer pendant mon tour (Turn).
 3. Souligne les 3 erreurs de règles les plus courantes lors d'une première partie.
 
-\
 
 ### 🥇 Version Pro {#pdf}
 

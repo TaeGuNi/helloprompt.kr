@@ -43,7 +43,6 @@ Utilisez cette version lorsque vous avez besoin d'un tri rapide sans paramètres
 > **Requête :** Voici ma liste de tâches pour aujourd'hui. Classe-les par ordre d'importance, de la plus cruciale à la moins urgente.
 > `[Collez ici votre liste de tâches en vrac]`
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 

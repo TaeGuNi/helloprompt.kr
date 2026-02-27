@@ -37,7 +37,6 @@ Use this for a quick, high-level overview of quantum impacts on your field.
 > **Role:** You are a Quantum AI Strategist.
 > **Task:** Explain how early Quantum AI breakthroughs will impact the `[Your Industry]` sector within the next 3 years. Provide 3 concrete examples.
 
-\
 
 ### 🥇 Pro Version
 

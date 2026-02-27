@@ -51,7 +51,6 @@ Verwenden Sie dies, wenn Sie nur eine schnelle Einschätzung benötigen.
 > **Rolle:** Du bist ein Informatik-Professor und Experte für Algorithmus-Optimierung.
 > **Anfrage:** Analysiere die Zeit- und Raumkomplexität des folgenden Codes und finde Möglichkeiten zur Leistungsverbesserung: `[Code hier einfügen]`
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

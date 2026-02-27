@@ -42,7 +42,6 @@ Usala quando hai bisogno di ispirazione immediata senza troppi vincoli tecnici.
 > **Ruolo:** Sei un rapper geniale e un paroliere con abilità di altissimo livello.
 > **Richiesta:** Scrivi una strofa rap di 8 barre sull'argomento `[Voglia di rivalsa]`. Assicurati che le rime finali terminino tutte con la vocale `[a-i]`.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

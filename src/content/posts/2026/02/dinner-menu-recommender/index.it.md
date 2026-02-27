@@ -48,7 +48,6 @@ Usala quando hai un calo di zuccheri e hai bisogno di un'idea immediata.
 > **Ruolo:** Sei un Buongustaio con gusti difficili e un Terapeuta della Paralisi Decisionale.
 > **Richiesta:** Scegli cosa devo mangiare stasera considerando che piove, fa freddo e ieri ho mangiato la pizza. Voglio qualcosa che mi conforti.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

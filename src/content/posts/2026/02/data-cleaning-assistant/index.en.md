@@ -56,7 +56,7 @@ The key tip here is to transform dozens or hundreds of rows directly in the chat
 > **Cleaning Rules:**
 >
 > - **Phone Numbers:** Remove all special characters (`-`, `.`, spaces) and standardize them to the `010-XXXX-XXXX` format.
-> - **Addresses:** Convert all variations like 'Seoul', '서울시', and '서울' into the official '서울특별시'.
+> - **Addresses:** Convert all variations like 'NY', 'New York City', and 'New York' into the official 'New York'.
 > - **Emails:** Validate against standard regular expressions. If the format is invalid, mark it exactly as `Invalid`.
 > - **Empty Values:** Fill any blank cells or missing values unconditionally with `N/A`.
 >
@@ -68,12 +68,11 @@ The key tip here is to transform dozens or hundreds of rows directly in the chat
 >
 > **Input Data:**
 >
-> ```csv
-> 홍길동, 010-1234-5678, 서울 강남구, test@test.com
-> 김철수, 010 9876 5432, 부산시 해운대구, invalid-email
-> 이영희, 02-123-4567, Seoul Jongno-gu,
-> ```
-
+>
+> John Doe, 555-123-4567, New York Manhattan, test@test.com
+> Jane Smith, 555 987 6543, Los Angeles Hollywood, invalid-email
+> Emily Brown, 555-123-4567, Chicago IL,
+>
 ---
 
 ## 💡 Writer's Insight
@@ -110,17 +109,17 @@ When that happens, use the prompt to ask, **"Write a Python (Pandas) script that
 ### ❌ Before (The Chaotic Original Data)
 
 ```csv
-홍길동, 010 1234 5678, 서울 강남구 테헤란로, test@test.com
-김철수, 010.9876.5432, 부산시 해운대구, invalid-email
-이영희, 02-123-4567, Seoul Jongno-gu,
+John Doe, 555 123 4567, New York Manhattan 5th Ave, test@test.com
+Jane Smith, 555.987.6543, Los Angeles Hollywood, invalid-email
+Emily Brown, 555-123-4567, Chicago IL,
 ```
 
 ### ✅ After (Perfectly Cleaned Data)
 
 ```csv
-홍길동, 010-1234-5678, 서울특별시 강남구 테헤란로, test@test.com
-김철수, 010-9876-5432, 부산광역시 해운대구, Invalid
-이영희, 02-123-4567, 서울특별시 종로구, N/A
+John Doe, 555-123-4567, New York Manhattan 5th Ave, test@test.com
+Jane Smith, 555-987-6543, Los Angeles Hollywood, Invalid
+Emily Brown, 555-123-4567, Chicago IL, N/A
 ```
 
 ---

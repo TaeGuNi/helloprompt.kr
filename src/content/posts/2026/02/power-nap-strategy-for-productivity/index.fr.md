@@ -44,7 +44,6 @@ Idéal lorsque vous êtes pressé et avez juste besoin des instructions de base.
 > **Rôle :** Tu es un scientifique du sommeil et un expert en productivité.
 > **Requête :** J'ai une énorme baisse d'énergie après le déjeuner. Explique-moi la technique de la 'Sieste Café' (Coffee Nap) pour me reposer exactement 20 minutes et me réveiller en pleine forme pour travailler.
 
-\
 
 ### 🥇 Pro Version (Version experte)
 

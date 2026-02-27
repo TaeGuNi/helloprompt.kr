@@ -42,7 +42,6 @@ Utilisez cette version lorsque vous avez besoin d'une idée de base immédiate p
 > **Rôle :** Tu es un éminent professeur de sciences politiques et un concepteur expert de jeux de simulation de civilisation.
 > **Demande :** L'idée d'un "royaume simple dirigé par un roi" est ennuyeuse. Conçois une nation de fantasy réaliste dotée d'un système politique tridimensionnel et complexe, comme une théocratie fanatique ou une république marchande impitoyable.
 
-\
 
 ### 🥇 Version Pro (Pour une profondeur d'expert)
 

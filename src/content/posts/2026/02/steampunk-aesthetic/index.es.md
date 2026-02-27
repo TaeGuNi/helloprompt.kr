@@ -42,7 +42,6 @@ El **Steampunk** no es solo un subgénero de la ciencia ficción; es una histori
 > **Rol:** Eres un artista conceptual experto en estilo Steampunk.
 > **Solicitud:** Genera una imagen detallada del siglo XIX dominada por engranajes de latón y maquinaria impulsada por vapor.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

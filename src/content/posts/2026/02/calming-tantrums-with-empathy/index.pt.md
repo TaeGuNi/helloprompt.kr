@@ -49,7 +49,6 @@ Use isto quando estiver com pressa e precisar de uma resposta rápida e direta d
 > **Papel:** Você é um especialista em parentalidade e psicologia infantil.
 > **Solicitação:** Escreva um roteiro curto com palavras mágicas para acalmar uma criança de 4 anos que está fazendo birra no supermercado porque quer que eu compre um doce.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

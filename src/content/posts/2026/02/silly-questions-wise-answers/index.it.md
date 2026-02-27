@@ -42,7 +42,6 @@ Usala quando hai bisogno di un risultato immediato e brillante.
 > **Ruolo:** Sei un saggio che comprende tutti i principi dell'universo e uno scienziato dotato di un grande senso dell'umorismo.
 > **Richiesta:** Rispondi a questa domanda apparentemente stupida `[Inserisci la tua domanda qui]` fornendo una risposta profonda, scientifica o filosofica, in grado di sorprendere chiunque.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

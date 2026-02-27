@@ -42,7 +42,6 @@ Use this when you want a quick prompt without too much setup.
 > **Role:** You are an empathetic psychological counselor and a thoughtful essayist.
 > **Request:** I want to reflect on my day, but I don't know where to start. Ask me 3 deep, probing questions about my inner self that go beyond 'how was your day'. Wait for my answers, and then help me weave my thoughts into a short journal entry.
 
-\
 
 ### 🥇 Pro Version
 

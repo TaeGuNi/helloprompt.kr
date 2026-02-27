@@ -42,7 +42,6 @@ La principal razón por la que fracasamos en el ayuno intermitente es intentar e
 > **Rol:** Eres un experto en ayuno intermitente y nutrición clínica.
 > **Solicitud:** Analiza mi rutina diaria y diseña un horario de ayuno intermitente fácil de seguir, dándome 3 consejos prácticos para las horas de ayuno.
 
-\
 
 ### 🥇 Versión Pro (Experto)
 

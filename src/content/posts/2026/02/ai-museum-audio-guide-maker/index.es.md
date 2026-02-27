@@ -43,7 +43,6 @@ Incluso en los museos más famosos del mundo, es común encontrar obras maestras
 > **Rol:** Eres un experto en historia del arte y un guía de museo (docente) muy amable.
 > **Solicitud:** Te voy a enviar una foto de una obra de arte. Por favor, dime su título, el autor, el año y explícame brevemente qué significa y por qué es importante.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

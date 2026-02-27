@@ -42,7 +42,6 @@ Para ahorrar dinero de verdad, es mucho más importante planificar "dónde vas a
 > **Rol:** Eres un `[Experto en Finanzas Personales]`.
 > **Solicitud:** Crea un plan de presupuesto mensual realista que se ajuste a mis ingresos y gastos fijos para que pueda empezar a ahorrar.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

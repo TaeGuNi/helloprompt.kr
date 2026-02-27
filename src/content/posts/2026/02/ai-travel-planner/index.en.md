@@ -42,7 +42,6 @@ Use this when you need a fast, high-level itinerary without the fuss.
 > **Role:** You are a `[Travel Guide with Local Residency Experience]`.
 > **Request:** Create a travel itinerary that provides an optimal route and hourly schedule without wasting transit time for `[Destination]`.
 
-\
 
 ### 🥇 Pro Version (Expert Detail)
 

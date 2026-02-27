@@ -43,7 +43,6 @@ Usala quando hai bisogno di istruzioni rapide e dirette.
 >
 > **Richiesta:** Ho una forte sonnolenza dopo pranzo. Spiegami in modo semplice e veloce la tecnica del 'Coffee Nap' per riposare esattamente 20 minuti e svegliarmi carico di energia.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

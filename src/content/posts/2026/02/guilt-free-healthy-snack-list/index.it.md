@@ -42,7 +42,6 @@ Ideale quando hai un disperato bisogno di un'idea immediata e non hai tempo di s
 > **Ruolo:** Sei un esperto nutrizionista e un buongustaio esigente.
 > **Richiesta:** Ho una voglia improvvisa di qualcosa di dolce e croccante ma non voglio rovinare la dieta. Consigliami 3 snack sani, veloci e davvero gustosi.
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

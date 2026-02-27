@@ -40,7 +40,6 @@ Este prompt utiliza las estadísticas de fallos de discos duros (AFR) de 2025 de
 > **Rol:** Eres un ingeniero senior de infraestructura de centros de datos y experto en almacenamiento.
 > **Tarea:** Basándote en las estadísticas de fallos de discos de Backblaze 2025, recomienda dos modelos de discos duros (HDD) de alta capacidad (más de 20TB) que sean ideales para un Data Lake masivo destinado al entrenamiento de IA, y explica detalladamente las razones de tu elección.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

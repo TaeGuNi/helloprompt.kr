@@ -49,7 +49,6 @@ Verwenden Sie diesen Prompt, wenn Sie schnell ein solides Ergebnis benötigen.
 > **Rolle:** Du bist ein Recruiter bei einem Tech-Unternehmen im US-Silicon-Valley und ein professioneller englischer Copywriter.
 > **Anfrage:** Übersetze meine Karrierestationen nicht einfach nur. Verwandle meinen koreanischen Lebenslauf in ein perfektes englisches Resume, das exakt den sprachlichen und strukturellen Standards der englischsprachigen Recruiting-Kultur entspricht.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

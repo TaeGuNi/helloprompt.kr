@@ -41,7 +41,6 @@ Utilize esta versão no chat para testes rápidos quando precisar extrair apenas
 > **Papel:** Você é um `[Analista de Dados]`.
 > **Tarefa:** A partir do texto fornecido, extraia as principais palavras-chave como nós (nodes) e a relação entre elas como arestas (edges), e retorne tudo formatado em um JSON.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

@@ -45,11 +45,11 @@ Utilisez ce prompt lorsque vous devez appliquer rapidement un cache à une API d
 >
 > **Tâche :** Applique le modèle de mise en cache `Look-aside` de Redis à la fonction suivante.
 >
-> ```javascript
+>
 > async function getUserProfile(userId) {
 >   return await db.users.findOne({ id: userId });
 > }
-> ```
+>
 >
 > **Contraintes :**
 >
@@ -58,7 +58,6 @@ Utilisez ce prompt lorsque vous devez appliquer rapidement un cache à une API d
 > - Implémente clairement la logique en cas de Cache Miss : interroger la DB puis sauvegarder la donnée dans Redis.
 > - Inclus impérativement une gestion des exceptions (la requête DB doit fonctionner normalement même en cas d'échec de la connexion Redis).
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

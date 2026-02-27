@@ -42,7 +42,6 @@ Utilisez cette version lorsque vous avez juste besoin d'une suggestion rapide po
 > **Rôle :** Tu es un romancier à succès doté d'un excellent sens du nommage et un anthropologue expert.
 > **Requête :** Trouve un nom de personnage parfait dont la signification et la nuance reflètent sa personnalité, sa nationalité et son époque. Le personnage est `[décrire brièvement le personnage]`.
 
-\
 
 ### 🥇 Pro Version (Version Experte)
 

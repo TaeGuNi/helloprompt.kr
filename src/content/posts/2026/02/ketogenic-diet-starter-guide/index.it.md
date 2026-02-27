@@ -42,7 +42,6 @@ Usala quando hai bisogno di risultati rapidi e immediati.
 > **Ruolo:** Sei un nutrizionista esperto in dieta Chetogena (LCHF).
 > **Richiesta:** Forniscimi una guida pratica e sicura per iniziare la dieta chetogena, evitando complessi calcoli manuali sui macronutrienti.
 
-\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

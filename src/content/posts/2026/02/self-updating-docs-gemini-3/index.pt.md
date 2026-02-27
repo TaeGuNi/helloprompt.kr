@@ -43,7 +43,6 @@ Ideal para gerar descrições rápidas de PR ou para atualizações simples no `
 > **Função:** Você é um Tech Writer Sênior.
 > **Tarefa:** Analise o `[Git Diff]` das minhas modificações recentes e identifique as partes do `[README.md]` que precisam ser atualizadas. Reescreva essas seções em Markdown. Ignore alterações simples de digitação ou refatorações de código.
 
-\
 
 ### 🥇 Versão Profissional (Pro Version)
 

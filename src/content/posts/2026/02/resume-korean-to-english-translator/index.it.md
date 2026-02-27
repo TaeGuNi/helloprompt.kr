@@ -49,7 +49,6 @@ Usala quando hai bisogno di un risultato immediato.
 > **Ruolo:** Sei un recruiter di un'azienda della Silicon Valley e un editor professionista madrelingua inglese.
 > **Richiesta:** Traduci questo testo nel formato standard di un CV in inglese, non fare una semplice traduzione letterale ma adattalo alla cultura aziendale anglosassone.
 
-\
 
 ### 🥇 Versione Pro (Avanzata)
 

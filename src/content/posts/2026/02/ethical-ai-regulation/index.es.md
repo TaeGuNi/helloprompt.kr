@@ -47,7 +47,6 @@ El rápido avance de la IA ha generado nuevos dilemas éticos. La pregunta ya no
 > **Rol:** Eres un `[Auditor de Cumplimiento de IA]`.
 > **Tarea:** Revisa este `[Caso de Uso de IA o Prompt]` y dime si cumple con las normas éticas básicas y regulaciones actuales de IA. Identifica rápidamente cualquier riesgo de sesgo, privacidad o violación de derechos de autor.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

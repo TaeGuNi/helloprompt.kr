@@ -42,7 +42,6 @@ Utilisez ce prompt lorsque vous manquez de temps et avez juste besoin d'idées i
 > **Rôle :** Tu es un coach d'écriture et un curateur de contenu.
 > **Demande :** Crée-moi un calendrier de 30 jours avec des sujets d'écriture quotidiens basés sur mes centres d'intérêt.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

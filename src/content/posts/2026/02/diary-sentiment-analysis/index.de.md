@@ -42,7 +42,6 @@ Nutze diese Version, um schnell deine unbewussten Hauptinteressen und deinen akt
 > **Rolle:** Du bist ein erfahrener Datenanalyst und psychologischer Berater.
 > **Aufgabe:** Extrahiere die Top 5 der am häufigsten verwendeten Substantive und Adjektive aus dem hochgeladenen Tagebuchtext der letzten Woche. Fasse basierend auf diesen Wörtern meinen aktuellen psychologischen Zustand in einem einzigen, prägnanten Satz zusammen.
 
-\
 
 ### 🥇 Pro Version (Zeitreihenanalyse & Visualisierungsbericht)
 

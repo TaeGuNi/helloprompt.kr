@@ -44,7 +44,6 @@ Utilisez cette version lorsque vous avez juste besoin d'une astuce mnémotechniq
 > **Rôle :** Tu es un `[Génie Mnémotechnique]`.
 > **Demande :** Crée un moyen mnémotechnique amusant pour que je n'oublie jamais la formule `[Formule]`.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

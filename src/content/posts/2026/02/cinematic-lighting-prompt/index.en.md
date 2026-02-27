@@ -43,7 +43,6 @@ Use this foundational prompt when you need immediate, high-quality results witho
 > **Request:** Apply cinematic lighting to a `[Subject/Scene]`. Ensure the atmosphere is dramatic, utilizing strong shadows and rim lighting.
 > **Format:** Highly detailed, photorealistic 8k image.
 
-\
 
 ### 🥇 Pro Version (Expert Configuration)
 

@@ -42,7 +42,6 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Design"]
 > **役割:** あなたはプロのプロダクトフォトグラファーです。
 > **リクエスト:** `[アイテム名]`をテーマに、アイテムを直角に美しく整列させて撮影するノーリング（Knolling）技法の画像生成プロンプトを作成してください。
 
-\
 
 ### 🥇 Pro Version (専門家形)
 

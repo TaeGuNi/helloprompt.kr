@@ -43,7 +43,6 @@ Usa questa versione quando ti serve solo la struttura scheletrica di una singola
 > **Ruolo:** Sei uno Sviluppatore Senior esperto in `[Next.js]`.
 > **Task:** Aggiungi una `[funzionalità di raccolta feedback utenti]` al progetto attuale. Genera e collega automaticamente tutti i componenti UI e le API routes necessari.
 
-\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

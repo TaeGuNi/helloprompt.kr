@@ -60,12 +60,9 @@ Aquí tienes dos prompts clave para evitar el copiar y pegar a ciegas y maximiza
 >
 > **Código de entrada:**
 >
-> ```javascript
+>
 > [Inserta el fragmento de código a revisar]
-> ```
-
-\
-
+>
 ### 🥇 Versión Pro (Prompt del Inquisidor de Arquitectura)
 
 Un prompt de 2 pasos que te obliga a sopesar los pros y contras (trade-offs) antes de implementar una nueva función.

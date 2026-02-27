@@ -42,7 +42,6 @@ Use esta versão quando precisar de um panorama rápido e direto.
 > **Papel:** Você é um `[Consultor de Estratégia]` sênior em uma consultoria de negócios de ponta.
 > **Solicitação:** Faça uma análise SWOT (Forças, Fraquezas, Oportunidades e Ameaças) da empresa `[Nome da Empresa]`, focando estritamente na perspectiva de um investidor.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

@@ -42,7 +42,6 @@ Nutzen Sie diesen Prompt, wenn Sie unter Zeitdruck stehen und einen soliden erst
 > **Rolle:** Du bist ein erfahrener Experte für Employer Branding und Recruiting.
 > **Aufgabe:** Schreibe eine überzeugende Stellenbeschreibung für die Position `[Jobtitel]`. Hebe deutlich hervor, warum diese Rolle in unserem Unternehmen spannend ist.
 
-\
 
 ### 🥇 Pro Version (Experten-Level)
 

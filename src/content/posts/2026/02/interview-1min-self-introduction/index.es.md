@@ -42,7 +42,6 @@ La auto-presentación de 1 minuto no es un monólogo ininterrumpido; es un trái
 > **Rol:** Eres un redactor publicitario experto y consultor de imagen profesional.
 > **Solicitud:** Escribe un guion de presentación personal de 1 minuto que destaque mi concepto propio y mis competencias clave, evitando por completo las metáforas cliché y centrándose en el impacto real.
 
-\
 
 ### 🥇 Versión Pro (Expert)
 

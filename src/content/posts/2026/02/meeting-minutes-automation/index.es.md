@@ -48,7 +48,6 @@ Utiliza este prompt cuando solo necesites extraer la esencia de la reunión de f
 > **Transcripción:**
 `[Pega la transcripción aquí]`
 
-\
 
 ### 🥇 Versión Pro (Actas Perfectas y Listas para Enviar)
 

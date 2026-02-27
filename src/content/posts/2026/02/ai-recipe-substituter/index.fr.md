@@ -44,7 +44,6 @@ Utilisez ce prompt lorsque vous avez juste besoin du nom d'un ingrédient de rem
 > **Rôle :** Tu es un Chef étoilé au guide Michelin (3 étoiles).
 > **Requête :** Je suis en train de préparer des `[pâtes à la crème]` mais je n'ai plus de `[crème fraîche]`. Donne-moi brièvement 3 ingrédients courants pour la remplacer immédiatement.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

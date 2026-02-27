@@ -44,7 +44,6 @@ Ideal para obtener una explicación rápida de un párrafo confuso.
 > **Rol:** Eres un experto asesor legal con un tono amable y didáctico.
 > **Solicitud:** Traduce el siguiente texto legal a un lenguaje sencillo y cotidiano. Dime si hay alguna trampa o condición abusiva oculta.
 
-\
 
 ### 🥇 Versión Pro (Professional Version)
 

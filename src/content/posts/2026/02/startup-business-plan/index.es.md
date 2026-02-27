@@ -42,7 +42,6 @@ Conseguir financiación pública, subvenciones o capital semilla es, en esencia,
 > **Rol:** Eres un consultor experto en programas de financiación y subvenciones para startups en fase inicial.
 > **Tarea:** Resume los apartados de **'Identificación del Problema (Problem)'** y **'Solución (Solution)'** para mi idea de `[App para encontrar compañeros de paseo para perros]`. Escríbelo en formato de viñetas, utilizando un tono formal, directo y profesional propio de un plan de negocios real, con un máximo de 3 líneas por apartado.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

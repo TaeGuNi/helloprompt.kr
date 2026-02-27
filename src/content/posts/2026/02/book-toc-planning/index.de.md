@@ -42,7 +42,6 @@ Nutzen Sie diese Variante für einen ersten groben Entwurf.
 > **Rolle:** Du bist der Cheflektor eines der größten Sachbuchverlage.
 > **Aufgabe:** Erstelle mir ein detailliertes Inhaltsverzeichnis für ein Buch über `[Thema]`. Das Buch soll sich an `[Zielgruppe]` richten.
 
-\
 
 ### 🥇 Pro Version (Experten-Level)
 

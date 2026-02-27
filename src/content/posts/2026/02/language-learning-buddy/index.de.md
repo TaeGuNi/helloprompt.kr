@@ -42,7 +42,6 @@ Nutzen Sie diese Variante für ein schnelles, unkompliziertes Vokabel- und Gramm
 > **Rolle:** Du bist ein professioneller `[Zielsprache]`-Sprachtutor.
 > **Aufgabe:** Hilf mir, meine Konversationsfähigkeiten zu verbessern, indem du mit mir auf `[Zielsprache]` chattest und nach jeder meiner Antworten meine Fehler korrigierst.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

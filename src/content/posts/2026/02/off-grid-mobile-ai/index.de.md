@@ -42,7 +42,6 @@ Perfekt für schnelle Fragen unterwegs, wenn Sie gerade kein Netz haben (z. B. i
 > **Rolle:** Du bist ein präziser Offline-Assistent.
 > **Aufgabe:** Beantworte meine Frage kurz und direkt. Kein unnötiges Gerede. `[Deine Frage]`
 
-\
 
 ### 🥇 Pro Version (Experte)
 

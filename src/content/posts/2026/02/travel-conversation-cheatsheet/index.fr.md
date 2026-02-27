@@ -42,7 +42,6 @@ Utilisez cette version pour obtenir un résultat rapide et direct.
 > **Rôle :** Tu es un interprète expert, maîtrisant parfaitement la langue et la culture locales.
 > **Requête :** Crée un guide de conversation pratique et utilisable instantanément sur place pour les situations suivantes : commande au restaurant, enregistrement à l'hôtel, et urgences.
 
-\
 
 ### 🥇 Pro Version (Version Expert)
 

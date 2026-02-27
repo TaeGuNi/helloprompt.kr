@@ -48,7 +48,6 @@ Use isto quando precisar de uma resposta rápida e direta.
 > **Papel:** Você é um Guia de Viagem Especialista em cultura global.
 > **Pedido:** Explique de forma clara as regras e valores (em %) de gorjetas para `[Nome do País]`, diferenciando restaurantes, hotéis e transporte.
 
-\
 
 ### 🥇 Versão Pro (Professional Version)
 

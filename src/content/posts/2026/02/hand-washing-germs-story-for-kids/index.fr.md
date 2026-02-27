@@ -42,7 +42,6 @@ Idéal quand vous avez besoin d'une histoire rapide juste avant de passer à tab
 > **Rôle :** Tu es un microbiologiste amusant et un conteur pour enfants.
 > **Demande :** Raconte une courte histoire scientifique mais ludique pour convaincre mon enfant de 4 ans d'aller se laver les mains avant de manger, sans qu'il ne se plaigne.
 
-\
 
 ### 🥇 Version Pro (Pour des habitudes durables)
 

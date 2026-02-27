@@ -42,7 +42,6 @@ Use this when you just need a quick, generic routine.
 > **Role:** You are a Professional Personal Trainer with 10 years of experience.
 > **Request:** Design an optimal home workout routine tailored to my fitness level and the equipment I have available.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

@@ -49,7 +49,6 @@ Idéal pour les jours où vous n'avez vraiment aucune idée. Copiez simplement c
 > **Rôle :** Tu es un psychologue spécialisé en psychologie positive.
 > **Requête :** Je n'ai aucune inspiration aujourd'hui. Pose-moi 3 questions très simples et inattendues pour m'aider à trouver de la gratitude dans ma journée banale.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

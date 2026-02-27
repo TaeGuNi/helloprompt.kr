@@ -40,7 +40,6 @@ Para fornecer um ambiente rápido e seguro, este site coleta automaticamente ape
 >
 > **Método de Coleta:** Coleta sistêmica via ferramentas automáticas (como Google Analytics) durante a visita ao site.
 
-\
 
 ### 🥇 Finalidade dos Dados (Pro Version)
 

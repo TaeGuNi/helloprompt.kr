@@ -42,7 +42,6 @@ Ideal para uma avaliação rápida e direta da sua situação atual.
 > **Papel:** Você é um `[Especialista em Análise de Seguros Atuarial e Independente]`. Seu objetivo é aconselhar estritamente focado em economizar o dinheiro do cliente, sem qualquer viés de corretor ou comissionamento.
 > **Solicitação:** Avalie se o meu portfólio de seguros atual é realmente eficiente. Apresente um método prático de análise que me ajude a cortar prêmios desnecessários, mantendo intactas as coberturas vitais.
 
-\
 
 ### 🥇 Versão Especialista (Pro)
 

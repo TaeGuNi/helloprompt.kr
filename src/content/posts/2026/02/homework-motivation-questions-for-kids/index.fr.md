@@ -42,7 +42,6 @@ Les ordres déclenchent l'opposition, mais les bonnes questions suscitent la ré
 > **Rôle :** Tu es un expert en psychologie de l'apprentissage et de l'enfant.
 > **Demande :** Donne-moi des techniques de conversation concrètes pour convaincre mon enfant de faire ses devoirs de lui-même, sans que je n'aie à le forcer ni à m'énerver.
 
-\
 
 ### 🥇 Version Pro (Expert Version)
 

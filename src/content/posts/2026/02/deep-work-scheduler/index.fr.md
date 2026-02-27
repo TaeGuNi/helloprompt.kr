@@ -42,7 +42,6 @@ Pour une routine rapide, standardisée et efficace.
 > **Rôle :** Tu es un expert en productivité et en neurosciences.
 > **Requête :** Crée-moi un emploi du temps strict de 2 heures pour travailler intensément sur `[Tâche principale]` à partir de `[Heure de réveil]`. Inclus des pauses courtes et stratégiques.
 
-\
 
 ### 🥇 Version Pro
 

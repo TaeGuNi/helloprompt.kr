@@ -50,7 +50,6 @@ Use this when you want to optimize an already-written article to increase its se
 > **My Article Content:**
 > `[Paste your entire article here]`
 
-\
 
 ### 🥇 Pro Version
 

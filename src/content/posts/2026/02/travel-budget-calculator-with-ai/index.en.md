@@ -42,7 +42,6 @@ Use this when you need a quick, high-level estimate without going into the weeds
 > **Role:** You are a 'Travel Budget Analyst' who meticulously manages travel expenses.
 > **Request:** I am traveling to `[Destination]` for `[Number of days]`. Calculate my estimated travel expenses and tell me how much cash I need to exchange.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

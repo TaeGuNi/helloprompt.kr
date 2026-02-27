@@ -43,7 +43,6 @@ Utilizzala quando hai bisogno di un riepilogo rapido e di snippet di codice di b
 > **Ruolo:** Sei un `[Programmatore di Sistema Zig]` Senior.
 > **Azione:** Riassumi i principali cambiamenti nell'I/O asincrono di Zig (`io_uring`, `IOCP`, `kqueue`) aggiornato a febbraio 2026 e scrivi un semplice codice di esempio per un server socket asincrono che li utilizzi.
 
-\
 
 ### 🥇 Versione Pro
 

@@ -46,7 +46,6 @@ Utilisez ce prompt lorsque vous souhaitez identifier rapidement pourquoi une fon
 > **Code :**
 `[Collez ici le code du composant qui cause le goulot d'étranglement]`
 
-\
 
 ### 🥇 Version Pro (Amélioration architecturale)
 

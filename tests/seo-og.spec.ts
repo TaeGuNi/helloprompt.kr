@@ -24,11 +24,25 @@ test.describe("SEO & OG Image", () => {
     await expect(jsonLd).toHaveCount(1);
 
     const content = await jsonLd.textContent();
-    const data = JSON.parse(content || "{}");
+    const rawData = JSON.parse(content || "[]");
 
-    expect(data["@type"]).toBe("Article");
-    expect(data.headline).toBeTruthy();
-    expect(data.author).toBeDefined();
+    // SEO Update now returns an array of Article + BreadcrumbList
+    const articleData = Array.isArray(rawData)
+      ? rawData.find((d) => d["@type"] === "Article")
+      : rawData;
+    const breadcrumbData = Array.isArray(rawData)
+      ? rawData.find((d) => d["@type"] === "BreadcrumbList")
+      : null;
+
+    expect(articleData).toBeDefined();
+    expect(articleData["@type"]).toBe("Article");
+    expect(articleData.headline).toBeTruthy();
+    expect(articleData.author).toBeDefined();
+
+    if (Array.isArray(rawData)) {
+      expect(breadcrumbData).toBeDefined();
+      expect(breadcrumbData["@type"]).toBe("BreadcrumbList");
+    }
   });
 
   test("Post page has Dynamic OG Image meta tag", async ({ page }) => {

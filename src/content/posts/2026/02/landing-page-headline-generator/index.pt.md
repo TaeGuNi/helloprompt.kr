@@ -42,7 +42,6 @@ Use esta versão quando precisar de um resultado rápido e direto.
 > **Papel:** Você é um `[Especialista em Web Copywriting]` e `[UX Writer]`. Você possui uma habilidade incrível de criar "ganchos" que capturam a atenção do cliente em 3 segundos.
 > **Solicitação:** Escreva a copy principal da landing page (Hero Section) para o meu produto `[Nome do Produto]`, focando em resolver `[Problema do Cliente]`. Forneça 3 opções contendo Título, Subtítulo e CTA.
 
-\
 
 ### 🥇 Versão Pro (Expert Version)
 

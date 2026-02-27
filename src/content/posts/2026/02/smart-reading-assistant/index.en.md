@@ -45,7 +45,6 @@ Use this when you need to quickly grasp the core context of a document.
 > **Task:** Read the text below and summarize the 3 most important key points so that even a beginner can easily understand them.
 > **Text:** `[Insert your text here]`
 
-\
 
 ### 🥇 Pro Version
 

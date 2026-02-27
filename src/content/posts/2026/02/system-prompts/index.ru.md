@@ -44,7 +44,6 @@ tags: ["AI Trends", "System Prompt", "Prompt Engineering", "2026"]
 > - Не использовать сторонние библиотеки, если задачу можно решить встроенными средствами Python.
 > - Обязательно добавлять docstrings (Google style) к каждой функции.
 
-\
 
 ### 🥇 Pro Version (Продвинутая версия)
 

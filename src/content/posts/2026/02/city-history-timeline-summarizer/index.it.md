@@ -48,7 +48,6 @@ Usala quando hai bisogno di un'infarinatura generale prima di iniziare un tour a
 > **Ruolo:** Sei un esperto 'Designer di Infografiche Storiche' specializzato nel rendere semplice la storia complessa.
 > **Richiesta:** Riassumi la storia di `[Nome Città]` in una breve cronologia essenziale che colleghi il suo passato con i monumenti visibili oggi.
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

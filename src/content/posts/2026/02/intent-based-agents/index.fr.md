@@ -44,7 +44,6 @@ C'est la méthode du passé. La qualité du résultat est aléatoire et extrême
 > **Rôle :** Tu es un blogueur tech.
 > **Tâche :** Rédige un article comparant Rust et Go. Fais en sorte que ce soit amusant.
 
-\
 
 ### 🥇 Version Pro (Le profil Architecte)
 

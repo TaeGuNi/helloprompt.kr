@@ -48,7 +48,6 @@ Da utilizzare quando si ha bisogno di creare rapidamente solo la struttura di ba
 >
 > **Spiegazione:** `[Scrivi qui, proprio come ti viene in mente, la situazione del bug che si è verificata]`
 
-\
 
 ### 🥇 Versione Pro (Pro Version)
 

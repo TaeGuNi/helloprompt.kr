@@ -42,7 +42,6 @@ Le matin, la course contre la montre rend difficile la préparation d'un repas s
 > **Rôle :** Tu es un chef cuisinier créatif.
 > **Tâche :** Dans mon frigo, j'ai `[2 œufs, 1 tranche de pain de mie, des tomates cerises]`. Recommande-moi 3 menus de petit-déjeuner que je peux préparer en 15 minutes avec ces ingrédients.
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

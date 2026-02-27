@@ -45,7 +45,6 @@ Use this when you want to quickly convert an existing REST API spec into a Graph
 >
 > **Data:** `[Paste your existing REST API JSON response here]`
 
-\
 
 ### 🥇 Pro Version
 

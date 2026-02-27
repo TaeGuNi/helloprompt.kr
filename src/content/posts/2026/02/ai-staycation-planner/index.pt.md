@@ -44,7 +44,6 @@ Use esta versão quando precisar de um cronograma rápido e ideias gerais.
 > **Role (Papel):** Você é um `[concierge de hotel 5 estrelas]`.
 > **Task (Tarefa):** Crie um roteiro de staycation de `[2 dias e 1 noite]` para eu passar em casa neste fim de semana. O tema é `[maratona de Netflix e festa de comida por delivery]`.
 
-\
 
 ### 🥇 Pro Version (Versão Pro)
 

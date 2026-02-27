@@ -42,7 +42,6 @@ Utilisez cette version lorsque vous avez simplement besoin d'un aperçu instanta
 > **Rôle :** Tu es un `[Analyste Financier Senior]` de Wall Street.
 > **Requête :** Analyse les états financiers de `[Nom de l'entreprise]` et résume les indicateurs clés de performance de manière simple.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

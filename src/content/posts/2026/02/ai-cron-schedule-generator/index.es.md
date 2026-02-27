@@ -42,7 +42,6 @@ Las expresiones Cron son el corazón de la automatización de servidores, pero m
 > **Rol:** Eres un `[Ingeniero DevOps]`.
 > **Tarea:** Convierte `[el último viernes de cada mes a las 11 PM]` a una expresión Crontab de Linux. Añade una breve explicación de cuándo se ejecutará.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

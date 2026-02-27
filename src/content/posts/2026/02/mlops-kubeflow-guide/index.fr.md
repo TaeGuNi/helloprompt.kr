@@ -44,7 +44,6 @@ Utilisez cette version pour refactoriser rapidement un code de notebook complexe
 > **Contraintes :** Définis clairement le typage des arguments de la fonction et de la valeur de retour. Inclus toutes les bibliothèques nécessaires via des instructions `import` à l'intérieur même de la fonction.
 > **Code :** `[Insérez votre code de prétraitement ici]`
 
-\
 
 ### 🥇 Version Pro (Conception de Workflow Automatisé Complet)
 

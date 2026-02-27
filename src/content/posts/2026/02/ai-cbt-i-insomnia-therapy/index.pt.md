@@ -42,7 +42,6 @@ Use este prompt rápido quando precisar de uma orientação geral e imediata sob
 > **Papel:** Você é um psicólogo clínico especializado em TCC-I para insônia.
 > **Pedido:** Me guie nas práticas iniciais da TCC-I (Terapia Cognitivo-Comportamental para Insônia) para me ajudar a dormir melhor sem o uso de medicamentos. Faça perguntas sobre a minha rotina para começarmos.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

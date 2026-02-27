@@ -44,7 +44,6 @@ Usa questa versione quando hai bisogno di estrarre rapidamente solo testi specif
 >
 > `[Incolla qui l'elenco dei dati]`
 
-\
 
 ### 🥇 Versione Pro (Esperto)
 

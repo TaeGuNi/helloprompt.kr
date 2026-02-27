@@ -43,7 +43,6 @@ Ideal para uma simulação rápida e direta.
 > **Papel:** Você é um entrevistador sênior com 10 anos de experiência na `[Nome da Empresa]`. Sua personalidade é rigorosa e extremamente lógica. Você é especialista em identificar inconsistências e respostas ensaiadas dos candidatos.
 > **Solicitação:** Conduza uma entrevista sob pressão comigo, fazendo perguntas difíceis e questionamentos em sequência com base nas minhas respostas, simulando uma entrevista real.
 
-\
 
 ### 🥇 Pro Version (Versão Profissional)
 

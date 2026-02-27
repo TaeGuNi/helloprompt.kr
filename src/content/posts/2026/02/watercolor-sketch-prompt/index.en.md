@@ -45,7 +45,6 @@ Use this when you need a rapid, beautiful outcome without overcomplicating the p
 >
 > **Subject:** `[Your Subject, e.g., A cozy Parisian street cafe]`
 
-\
 
 ### 🥇 Pro Version (Expert Detail)
 

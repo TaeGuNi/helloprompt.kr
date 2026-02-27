@@ -43,7 +43,6 @@ Ideal para cuando necesitas inspiración inmediata para blogs, redes sociales o 
 > **Tarea:** Escribe 5 titulares irresistibles para un artículo de blog sobre `[tema, ej: suplementos para perder peso]`.
 > Asegúrate de incluir la palabra clave `[palabra clave]` y redactarlos en un tono honesto, coloquial y directo (como una recomendación genuina de un amigo), evitando a toda costa que suenen como un anuncio publicitario barato.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

@@ -43,7 +43,6 @@ Usalo quando ti serve rapidamente un solo outfit per domani.
 > **I miei vestiti:** Abito blu scuro, pantaloni eleganti neri, camicia bianca, maglioncino beige, scarpe classiche nere.
 > **Richiesta:** Consigliami una sola combinazione per un look da invitato che sia elegante e raffinato, ma non troppo appariscente. Dammi anche un consiglio se indossare o meno la cravatta.
 
-\
 
 ### 🥇 Versione Pro (Guardaroba Capsula & Rotazione Settimanale)
 

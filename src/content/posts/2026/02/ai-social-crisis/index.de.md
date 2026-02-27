@@ -39,7 +39,6 @@ Nutzen Sie diese kurze Version für eine schnelle Überprüfung einzelner Texte.
 > **Rolle:** Du bist ein Experte für menschliche Kommunikation und UX-Psychologie.
 > **Aufgabe:** Analysiere den folgenden `[Text/Kunden-E-Mail]`. Zeige mir auf, wo er zu sehr nach "seelenloser KI" klingt, und formuliere ihn so um, dass er echte menschliche Empathie ausstrahlt, ohne unprofessionell zu wirken.
 
-\
 
 ### 🥇 Pro Version (Expertenversion)
 

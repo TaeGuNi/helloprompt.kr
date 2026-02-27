@@ -39,7 +39,6 @@ A continuación, te presentamos un prompt de diagnóstico crudo y directo. Te ay
 > **Rol:** Eres un analista implacable de un fondo de Venture Capital (VC) de primer nivel en Silicon Valley.
 > **Tarea:** Diagnostica si el servicio de IA que estoy diseñando, `[Idea de servicio]`, es un simple API Wrapper. Además, propón 3 estrategias de defensa para asegurar nuestra supervivencia en caso de que OpenAI lance esta misma función de forma nativa.
 
-\
 
 ### 🥇 Versión Profesional (Pro)
 

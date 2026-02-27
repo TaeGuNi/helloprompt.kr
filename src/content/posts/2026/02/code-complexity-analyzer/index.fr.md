@@ -44,12 +44,9 @@ Mais comment savoir par où commencer pour le décomposer ? Confiez l'analyse de
 > **Rôle :** Tu es un `[Développeur Backend Senior]`.
 > **Tâche :** Analyse la complexité du code ci-dessous et donne-moi 3 points clés sur la façon de le refactoriser.
 >
-> ```
+>
 > [Collez votre code ici]
-> ```
-
-\
-
+>
 ### 🥇 Version Pro (Pro Version)
 
 À utiliser lorsqu'une analyse précise des métriques et l'application de design patterns spécifiques sont nécessaires.
@@ -69,9 +66,9 @@ Mais comment savoir par où commencer pour le décomposer ? Confiez l'analyse de
 >
 > **Code (Code) :**
 >
-> ```
+>
 > [Collez le code à refactoriser ici]
-> ```
+>
 >
 > **Contraintes (Constraints) :**
 >

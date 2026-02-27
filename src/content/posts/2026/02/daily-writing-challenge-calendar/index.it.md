@@ -42,7 +42,6 @@ Usala quando hai solo bisogno di un risultato rapido senza troppe personalizzazi
 > **Ruolo:** Sei un writing coach esperto.
 > **Richiesta:** Voglio scrivere ogni giorno per un mese. Crea una lista di 30 argomenti interessanti legati a `[inserisci i tuoi interessi]`. Per ciascun giorno, forniscimi un titolo e una domanda guida per stimolare subito la scrittura.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

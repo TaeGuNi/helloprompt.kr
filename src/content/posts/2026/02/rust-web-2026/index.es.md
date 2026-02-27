@@ -41,7 +41,6 @@ Al llegar a febrero de 2026, el ecosistema web de Rust ha superado su fase de ex
 > **Rol:** Eres un experto en desarrollo web con Rust en 2026.
 > **Tarea:** Explícame si debo usar Rust para un proyecto de `[Tipo de proyecto / Industria]` y recomiéndame el stack tecnológico actual más maduro para backend y frontend.
 
-\
 
 ### 🥇 Versión Pro
 

@@ -49,7 +49,6 @@ Una ciudad es un enorme museo de arquitectura al aire libre. No solo los monumen
 > **Rol:** Eres un experto 'Crítico de Arquitectura'.
 > **Solicitud:** Voy a viajar a `[Nombre de la Ciudad]`. Camina por la ciudad con ojo de arquitecto y cuéntame las historias que esconden sus edificios, desde el gótico hasta la arquitectura contemporánea.
 
-\
 
 ### 🥇 Versión Pro (Pro Version)
 

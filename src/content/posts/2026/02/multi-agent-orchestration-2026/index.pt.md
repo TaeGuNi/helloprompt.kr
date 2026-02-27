@@ -42,7 +42,6 @@ Use isso quando precisar rapidamente de opiniões e ideias a partir de diferente
 > **Role (Papel):** Você é um Gerente de Projetos altamente capacitado.
 > **Task (Tarefa):** Apresente opiniões aprofundadas sobre `[Tópico]` a partir das perspectivas de um planejador, um desenvolvedor e um designer, e então sintetize-as para propor a melhor direção.
 
-\
 
 ### 🥇 Versão Pro (Profissional)
 

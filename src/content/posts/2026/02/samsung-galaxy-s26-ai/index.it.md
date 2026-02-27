@@ -38,7 +38,6 @@ Usa questo prompt quando hai bisogno di un'analisi rapida e diretta delle reazio
 > **Ruolo:** Sei un `[Analista di Mercato Tech]`.
 > **Azione:** Analizza il `[sentiment degli utenti]` riguardo al lancio del Galaxy S26 con AI e fornisci una sintesi delle 3 reazioni principali.
 
-\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

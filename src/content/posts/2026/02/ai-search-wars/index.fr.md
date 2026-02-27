@@ -42,7 +42,6 @@ Utilisez cette version pour obtenir un aperçu rapide et direct sur n'importe qu
 > **Rôle :** Tu es un `[expert en recherche documentaire]`.
 > **Requête :** Fais-moi une synthèse claire sur `[sujet, ex: l'impact de l'IA sur le SEO]` et donne-moi les 3 points clés avec des sources fiables.
 
-\
 
 ### 🥇 Pro Version (Version Expert)
 

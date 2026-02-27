@@ -49,7 +49,6 @@ Usa questa versione per un'ispirazione rapida quando hai poco tempo e vuoi inizi
 > **Ruolo:** Sei uno psicologo infantile e un insegnante di recitazione.
 > **Richiesta:** Proponi un semplice gioco di mimo emotivo per aiutare mio figlio a sviluppare l'empatia. Dammi 3 situazioni quotidiane da mimare e l'emozione corrispondente.
 
-\
 
 ### 🥇 Versione Esperta (Pro Version)
 

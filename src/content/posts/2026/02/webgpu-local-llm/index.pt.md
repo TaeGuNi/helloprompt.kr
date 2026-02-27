@@ -44,7 +44,6 @@ Utilize esta versão quando precisar gerar um código de protótipo rapidamente.
 > **Papel (Role):** Você é um desenvolvedor frontend sênior com vasta experiência em WebGPU.
 > **Tarefa (Task):** Escreva o código HTML/JS mais minimalista possível para rodar o modelo Llama-3-8B no navegador usando a biblioteca `@mlc-ai/web-llm`. Aplique a abordagem de importação via CDN.
 
-\
 
 ### 🥇 Versão Pro (Profissional)
 

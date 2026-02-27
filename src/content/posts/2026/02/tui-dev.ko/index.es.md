@@ -38,7 +38,6 @@ Ideal cuando necesitas rápidamente la estructura base de una TUI en un lenguaje
 > **Rol:** Eres un desarrollador Senior especializado en `[Lenguaje]` y un experto en diseño TUI.
 > **Tarea:** Escribe el código boilerplate fundamental para una aplicación TUI que implemente `[Funcionalidad deseada]` utilizando `[Lenguaje/Framework]`. Incluye también las instrucciones exactas para ejecutarlo.
 
-\
 
 ### 🥇 Versión Profesional (Pro Version)
 

@@ -43,7 +43,6 @@ Use isso quando estiver com pressa e precisar de uma sugestão rápida na rua.
 >
 > **Solicitação:** Estou em `[Bairro/Cidade]`. Recomende 3 restaurantes não-turísticos de `[Tipo de Comida]` onde os moradores locais realmente comem.
 
-\
 
 ### 🥇 Versão Pro (Expert Version)
 

@@ -51,7 +51,6 @@ Use esta versão para transformar rapidamente uma receita em inglês em instruç
 > **Format (Formato de Saída):**
 > Organize o texto com quebras de linha para cada carreira (Row/Round), tornando a leitura clara e sem confusões.
 
-\
 
 ### 🥇 Versão Pro (Interpretação de Gráficos e Cálculo de Medidas)
 

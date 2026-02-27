@@ -48,7 +48,6 @@ tags: ["WebAssembly", "Rust", "Performance"]
 > **代码：**
 > `[在此处粘贴要转换的 C++/Go/Rust 代码]`
 
-\
 
 ### 🥇 Pro Version (专业版)
 
@@ -70,9 +69,9 @@ tags: ["WebAssembly", "Rust", "Performance"]
 >
 > **输入代码：**
 >
-> ```plaintext
+>
 > [在此处粘贴现有代码]
-> ```
+>
 >
 > **约束条件 (Constraints)：**
 >

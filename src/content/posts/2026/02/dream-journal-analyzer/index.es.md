@@ -43,7 +43,6 @@ Los sueños no son solo imágenes aleatorias; son reflejos de nuestras emociones
 > **Tarea:** Analiza el siguiente sueño y dime qué podría significar sobre mi estado emocional actual.
 > **Sueño:** `[Describe tu sueño aquí detalladamente]`
 
-\
 
 ### 🥇 Versión Profesional (Pro)
 

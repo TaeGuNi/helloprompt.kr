@@ -38,7 +38,6 @@ Wenn Sie die logischen Fähigkeiten der KI schnell und unkompliziert verbessern 
 > **Rolle:** Du bist ein `[logischer Analyst]`.
 > **Aufgabe:** Löse das folgende `[komplexe Problem oder Situation]`. **Aber bevor du eine Schlussfolgerung ziehst, denke langsam und logisch Schritt für Schritt nach (Think step-by-step).**
 
-\
 
 ### 🥇 Pro Version (Für Experten)
 

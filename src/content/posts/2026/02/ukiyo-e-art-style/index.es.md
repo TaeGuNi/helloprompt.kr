@@ -43,7 +43,6 @@ El **Ukiyo-e** es un género icónico de grabado en madera que floreció durante
 > **Rol:** Eres un experto artista de Ukiyo-e del período Edo.
 > **Solicitud:** Genera un prompt de imagen de `[Sujeto u Objeto]` utilizando el estilo de arte tradicional japonés Ukiyo-e, con énfasis en contornos gruesos y colores planos.
 
-\
 
 ### 🥇 Pro Version (Versión Profesional)
 

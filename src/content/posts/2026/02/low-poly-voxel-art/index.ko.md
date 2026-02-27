@@ -44,7 +44,6 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "3D", "Art Style"]
 > **역할:** 너는 전문 3D 아티스트야.
 > **요청:** `[원하는 피사체]`를 다각형 면이 강조된 로우 폴리(Low Poly) 스타일로 생성해줘. 배경은 단순한 단색으로 처리해줘.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

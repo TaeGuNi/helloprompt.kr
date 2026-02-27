@@ -44,12 +44,9 @@ Utilisez-la rapidement lorsque vous souhaitez uniquement vérifier les bugs crit
 > **Rôle :** Tu es un ingénieur logiciel senior.
 > **Tâche :** Examine le code ci-dessous pour détecter d'éventuelles vulnérabilités de sécurité ou erreurs logiques, et signale brièvement les problèmes.
 >
-> ```
+>
 > [Collez votre code ici]
-> ```
-
-\
-
+>
 ### 🥇 Version Pro (Pro Version)
 
 Un prompt de niveau production pour examiner méticuleusement le contexte du code, les failles de sécurité, les pistes de refactoring et la lisibilité globale.
@@ -79,10 +76,9 @@ Un prompt de niveau production pour examiner méticuleusement le contexte du cod
 >
 > **Code d'entrée (Input Code) :**
 >
-> ```
+>
 > [Collez le code à revoir ici]
-> ```
-
+>
 ---
 
 ## 💡 L'avis de l'auteur (Insight)

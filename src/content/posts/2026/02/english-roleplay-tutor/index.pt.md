@@ -48,7 +48,6 @@ Use esta versão como um ensaio quando estiver nervoso antes de uma viagem inter
 > **Task (Tarefa):**
 Faça perguntas detalhadas sobre o propósito da minha visita, duração da estadia, endereço da acomodação e minha profissão. Se minhas respostas forem vagas ou se eu gaguejar muito, conduza a conversa como se fosse um interrogatório sob pressão, ameaçando negar minha entrada. Comece imediatamente com a primeira pergunta.
 
-\
 
 ### 🥇 Versão Pro (Small Talk Corporativo e Preparação para Exames)
 

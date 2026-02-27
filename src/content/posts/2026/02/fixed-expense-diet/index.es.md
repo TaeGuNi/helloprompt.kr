@@ -42,7 +42,6 @@ Reducir los gastos en comida o entretenimiento requiere una fuerza de voluntad c
 > **Rol:** Eres un `[Asesor Financiero Personal]` experto en frugalidad y optimización del costo de vida.
 > **Solicitud:** Revisa mis `[gastos fijos mensuales]` y encuentra puntos de ahorro ocultos o servicios que pueda optimizar.
 
-\
 
 ### 🥇 Pro Version (Versión Experta)
 

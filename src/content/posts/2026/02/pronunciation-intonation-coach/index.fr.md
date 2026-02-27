@@ -42,7 +42,6 @@ Utilisez cette version pour obtenir un résultat rapide et direct.
 > **Rôle :** Tu es un `[Expert en Phonétique et Coach de Prononciation]`.
 > **Demande :** Enseigne-moi visuellement les symboles phonétiques, l'accentuation et l'intonation d'une phrase, de sorte que je puisse m'entraîner même sans le son.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

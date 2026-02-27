@@ -42,7 +42,6 @@ Use this when you need quick, lightweight ideas you can apply right away.
 > **Role:** You are a `[Behavioral Psychology Habit Coach]`.
 > **Task:** I `[brush my teeth every morning]`. Suggest 3 '1-minute healthy habits' I can immediately stack right after this action.
 
-\
 
 ### 🥇 Pro Version
 

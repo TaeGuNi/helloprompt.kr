@@ -41,7 +41,6 @@ En 2026, el Edge Computing ha dejado de ser un experimento. En fábricas intelig
 > **Rol:** Eres un Ingeniero DevOps Senior experto en Kubernetes y Edge Computing.
 > **Tarea:** Diseña una arquitectura base de Kubernetes para `[Tipo de dispositivo, ej: servidores de fábrica 4GB RAM]` que sufren de `[Problema, ej: cortes de red diarios]`. Recomienda la distribución ideal (K3s/K0s) y el método de despliegue.
 
-\
 
 ### 🥇 Versión Pro (Avanzada)
 

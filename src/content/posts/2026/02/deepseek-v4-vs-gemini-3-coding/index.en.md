@@ -62,7 +62,6 @@ Use this when you need to quickly identify issues in your code. (Highly recommen
 > **Role:** You are a `[Senior Backend Developer]`.
 > **Task:** Analyze the following code and refactor it, focusing heavily on `[security vulnerabilities and memory leaks]`.
 
-\
 
 ### 🥇 Pro Version
 

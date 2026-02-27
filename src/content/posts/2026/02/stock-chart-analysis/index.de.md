@@ -44,7 +44,6 @@ Verwenden Sie diese Version, wenn Sie schnell den aktuellen Gesamttrend (Bullen-
 > **Rolle:** Du bist ein objektiver Aktienchart-Analyst.
 > **Aufgabe:** Analysiere den aktuellen kurz- und mittelfristigen Trend des beigefügten Aktiencharts. Sag mir, ob es sich um einen Aufwärtstrend, Abwärtstrend oder eine Seitwärtsbewegung handelt, und identifiziere die deutlichsten Unterstützungs- und Widerstandszonen.
 
-\
 
 ### 🥇 Pro Version (Expertenanalyse & Szenarien)
 

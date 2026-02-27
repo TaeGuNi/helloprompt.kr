@@ -45,7 +45,6 @@ Ideal para quando você precisa cobrar algo ou fazer um pedido urgente sem parec
 >
 > **Solicitação:** Reescreva esta frase para o inglês corporativo, tornando-a **educada, profissional e diplomática**, ideal para um chefe ou cliente de alto valor. Forneça 3 opções diferentes.
 
-\
 
 ### 🥇 Pro Version (Versão Profissional)
 

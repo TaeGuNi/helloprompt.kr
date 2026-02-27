@@ -43,7 +43,6 @@ Utilisez ce prompt pour vérifier instantanément la compatibilité de vos comma
 
 > **Tâche :** Adapte ma commande ou mon script Docker existant `[Insérez votre commande docker run ou script]` pour qu'il fonctionne parfaitement en mode Rootless sous Podman. Identifie spécifiquement les erreurs potentielles liées aux ponts réseau (network bridges) et aux permissions de montage de volumes (y compris SELinux), et fournis les solutions adéquates.
 
-\
 
 ### 🥇 Version Pro (Transition complète de docker-compose vers K8s)
 
@@ -66,9 +65,9 @@ Un prompt surpuissant pour migrer un `docker-compose.yml` en production vers un 
 >
 > - Environnement cible : `[Exemple : AWS EC2 t3.medium, RAM 4GB]`
 > - Fichier docker-compose.yml existant :
->   ```yaml
+>
 >   [Copiez-collez le contenu de votre docker-compose.yml ici]
->   ```
+>
 >
 > **Contraintes :**
 >

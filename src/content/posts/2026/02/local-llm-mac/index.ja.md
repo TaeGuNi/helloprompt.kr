@@ -44,13 +44,10 @@ tags: ["로컬LLM", "보안", "Ollama", "개발자", "Llama3"]
 > **役割:** システム管理者
 > **リクエスト:** ターミナルを開き、以下のコマンドを順番に実行してローカルAIを構築して。
 >
-> ```bash
+>
 > brew install ollama
 > ollama run llama3
-> ```
-
-\
-
+>
 ### 🥇 Pro Version（専門家型）
 
 ダウンロードしたローカルAIを、自身のPythonスクリプトやプライベートアプリにAPI経由で連携させたい場合に使用します。
@@ -67,13 +64,13 @@ tags: ["로컬LLM", "보안", "Ollama", "개발자", "Llama3"]
 > 1. 以下の `curl` コマンドを使用して、ローカルAIのREST APIが正常に応答するかテストして。
 > 2. `[質問内容]` の部分は、ユーザーが分析したい機密データやコードに自由に変更して使用できるようにして。
 >
-> ```bash
+>
 > curl http://localhost:11434/api/generate -d '{
 >   "model": "llama3",
 >   "prompt": "[質問内容]",
 >   "stream": false
 > }'
-> ```
+>
 >
 > **制約事項 (Constraints):**
 >

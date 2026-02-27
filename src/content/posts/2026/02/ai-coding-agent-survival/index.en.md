@@ -53,7 +53,6 @@ Use this when you need a quick, lightweight refactoring of a single file.
 > **Task:** Refactor the `[src/legacy/auth.ts]` file to improve readability and modularity.
 > **Constraints:** Never change existing API signatures, and ensure it passes all test codes after modification.
 
-\
 
 ### 🥇 Pro Version
 

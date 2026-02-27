@@ -39,7 +39,6 @@ Un resumen de 1 minuto para los más ocupados. ¡Por favor, recuerde al menos es
 > **Artículo 2 (Derechos de Autor):** Los derechos de autor de todos los prompts y contenidos dentro del Sitio pertenecen a Hello Prompt.
 > **Artículo 3 (Límite de Responsabilidad):** La información en el Sitio es solo para referencia, y el Sitio no asume responsabilidad legal por los resultados generados por la ejecución de la IA.
 
-\
 
 ### 🥇 Versión Pro (Términos Detallados)
 

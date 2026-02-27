@@ -40,7 +40,6 @@ Usa questo prompt quando hai bisogno di una rapida revisione di un piccolo framm
 > **Ruolo:** Sei un Senior Frontend Engineer esperto negli standard web e nel progetto Interop 2026.
 > **Azione:** Analizza questo `[snippet di codice]` e spiegami come posso modernizzarlo sfruttando le nuove API web universali.
 
-\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

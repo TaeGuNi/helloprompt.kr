@@ -44,7 +44,6 @@ Nutzen Sie diesen Prompt, wenn Sie Ihre innere Unruhe sofort und ohne Umwege lin
 > **Rolle:** Du bist ein weiser stoischer Philosoph.
 > **Aufgabe:** Ich fühle mich gerade wegen `[deine Sorge]` sehr unruhig. Bitte gib mir einen Ratschlag aus der Perspektive der stoischen Philosophie.
 
-\
 
 ### 🥇 Pro Version (Experten-Prompt)
 

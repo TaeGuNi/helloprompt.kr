@@ -42,7 +42,6 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Sci-Fi", "Color"]
 > **役割 (Role):** あなたは世界的なSFコンセプトアーティストです。
 > **要求 (Task):** ピンクとシアンブルーの強烈なコントラストを活かした、サイバーパンクスタイルのネオン輝く未来都市の夜景を描画してください。
 
-\
 
 ### 🥇 Pro Version (専門家形)
 

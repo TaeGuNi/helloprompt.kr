@@ -42,7 +42,6 @@ Verwenden Sie diesen Prompt, wenn Sie mitten im Spiel stehen und sofort eine Ant
 > **Rolle:** Du bist ein meisterhafter Geschichtenerzähler und Charakterdesigner.
 > **Aufgabe:** Erschaffe mir sofort einen interessanten `[Beruf/Rolle]` NPC mit einem markanten Merkmal, einer seltsamen Angewohnheit und einem kleinen Geheimnis in Stichpunkten.
 
-\
 
 ### 🥇 Pro Version (Experten-Level)
 

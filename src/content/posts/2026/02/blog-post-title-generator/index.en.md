@@ -42,7 +42,6 @@ Use this when you need quick, catchy ideas without complex setup.
 > **Role:** You are an elite `[Copywriter]` and SEO Expert.
 > **Task:** Generate 10 highly clickable blog post titles for the topic `[Insert Topic]`. Make them engaging and optimized for search.
 
-\
 
 ### 🥇 Pro Version
 

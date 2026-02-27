@@ -4,7 +4,7 @@
   "engines": {
     "node": ">=24.13.0"
   },
-  "version": "1.7.0",
+  "version": "1.8.0",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
@@ -24,8 +24,9 @@
   "dependencies": {
     "@astrojs/rss": "^4.0.15",
     "@astrojs/sitemap": "^3.7.0",
+    "@astrojs/vercel": "^9.0.4",
     "@vercel/og": "^0.8.6",
-    "astro": "^5.17.1",
+    "astro": "^5.18.0",
     "fuse.js": "^7.1.0"
   },
   "devDependencies": {

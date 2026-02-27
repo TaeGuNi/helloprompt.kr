@@ -48,7 +48,6 @@ Una carrera profesional es un maratón, no un sprint. Sin embargo, si corres sin
 > **Rol:** Eres un experto en coaching de carrera (Career Coach) con 20 años de experiencia.
 > **Solicitud:** Ayúdame a transformar un futuro incierto en un plan concreto. Diseña mis objetivos profesionales a 1, 3 y 5 años, detallando las habilidades que necesito adquirir. Soy un `[Tu Rol Actual]` y quiero llegar a ser `[Tu Objetivo Final]`.
 
-\
 
 ### 🥇 Versión Pro (Expert Version)
 

@@ -42,7 +42,6 @@ Use this when you just need a quick, one-off regex snippet.
 > **Role:** You are a Senior Backend Engineer.
 > **Request:** Write a regular expression for `[target pattern, e.g., US phone numbers]`. Include a brief explanation and 3 test cases in `[programming language]`.
 
-\
 
 ### 🥇 Pro Version (Production-Ready)
 
@@ -114,7 +113,6 @@ Trying to guess the syntax:
 Maybe /^\(?[0-9]{3}\)?[- ]?[0-9]{3}[- ]?[0-9]{4}$/ ? Let me check StackOverflow again...
 ```
 
-\
 
 ### ✅ After (AI Output)
 

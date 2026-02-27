@@ -45,7 +45,6 @@ Verwenden Sie diesen Prompt, wenn Sie eine bestehende REST-API-Spezifikation sch
 > 
 > **Daten:** `[Kopieren Sie hier die bestehende REST-API-JSON-Antwort hinein]`
 
-\
 
 ### 🥇 Pro Version (Expertenmodus: Perfektes Design für N+1-Probleme & Paginierung)
 

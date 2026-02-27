@@ -45,7 +45,6 @@ Use esta versão quando precisar apenas de uma lista de tarefas (To-Do List) rá
 > **PRD (Documento de Requisitos):** `[Cole todo o conteúdo do PRD aqui]`
 > **Task (Tarefa):** Divida este planejamento em **Tasks detalhadas** prontas para desenvolvimento, no formato de uma checklist. Separe claramente as tarefas de Frontend e Backend.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

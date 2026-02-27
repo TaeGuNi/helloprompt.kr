@@ -49,7 +49,6 @@ Früher mussten wir der KI mühsam jeden noch so kleinen Schritt vorkauen, um br
 > **Aufgabe:** Schreibe eine Instagram-Caption.
 > **Einschränkungen:** Verwende genau 3 Emojis, maximal 5 Hashtags, schreibe in einem lockeren, aber professionellen Tonfall und füge am Ende einen Call-to-Action hinzu.
 
-\
 
 ### 🥇 Die Gegenwart (Prompt 3.0 - Absichtsbasiert)
 

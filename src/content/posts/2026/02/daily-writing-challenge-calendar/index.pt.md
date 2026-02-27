@@ -42,7 +42,6 @@ Ideal para quando você precisa de uma inspiração rápida e direta.
 > **Papel:** Você é um treinador de escrita criativa e curador de conteúdo.
 > **Solicitação:** Quero criar o hábito de escrever diariamente. Crie um calendário de 30 dias com perguntas e tópicos interessantes adaptados para quem gosta de `[Insira seu interesse, ex: tecnologia e produtividade]`.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

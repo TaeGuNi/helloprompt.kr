@@ -48,7 +48,6 @@ Use esta versão quando precisar de uma reformulação rápida e direta para uma
 > **Papel:** Você é um psicólogo positivo e um consultor de carreira sênior.
 > **Solicitação:** Reinterprete o meu período de interrupção de carreira (Gap) como uma fase estratégica de autodesenvolvimento, descanso e recarga. Transforme essa experiência em um argumento persuasivo e positivo para ser incluído na minha carta de apresentação e nas respostas de entrevistas.
 
-\
 
 ### 🥇 Versão Pro (Especialista)
 

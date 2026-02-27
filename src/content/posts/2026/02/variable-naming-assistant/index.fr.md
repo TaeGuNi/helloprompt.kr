@@ -43,7 +43,6 @@ Pour une suggestion rapide sans fioritures.
 > **Rôle :** Tu es un développeur senior bilingue avec un anglais parfait.
 > **Demande :** Je dois nommer `[une fonction qui vérifie si l'utilisateur a validé son email]`. Propose-moi 3 noms de variables/fonctions clairs et professionnels en anglais au format `[camelCase]`.
 
-\
 
 ### 🥇 Version Pro
 

@@ -48,7 +48,6 @@ Usala quando hai poco tempo e ti serve una bozza rapida da cui partire.
 > **Ruolo:** Sei un esperto di comunicazione aziendale e HR.
 > **Richiesta:** Scrivi un'email formale al mio capo per richiedere un incontro in cui discutere di un aumento di stipendio. L'email deve essere molto educata, evidenziare i miei recenti risultati positivi sul lavoro e mantenere un tono collaborativo che non rovini in alcun modo i rapporti.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

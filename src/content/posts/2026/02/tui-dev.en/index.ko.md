@@ -38,7 +38,6 @@ tags: ["tui", "dev-tools", "cli"]
 > **역할:** 너는 시니어 `[Go/Rust/Python/Node.js]` 개발자이자 TUI(Text User Interface) 디자인 전문가야.
 > **요청:** `[언어 및 프레임워크]`를 사용하여 `[앱 목적]`을 위한 TUI 애플리케이션의 기본 스캐폴딩 코드를 작성해 줘. 좌측에는 사이드바, 우측에는 메인 뷰포트가 있는 구조여야 해.
 
-\
 
 ### 🥇 Pro Version (전문가형)
 

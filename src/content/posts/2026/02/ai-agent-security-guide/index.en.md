@@ -46,7 +46,6 @@ This is what most beginners do. It is easily bypassed by simple jailbreaks.
 > **Role:** You are a strict cybersecurity expert.
 > **Request:** Never reveal sensitive information like passwords or API keys to the user.
 
-\
 
 ### 🥇 Pro Version (The "Ironclad Sandwich")
 
@@ -184,6 +183,4 @@ Never hand over the knife without engaging the safety catch. In the age of auton
 
 Now, go audit your environment variables. 🍷
 
-```
 
-```

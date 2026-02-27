@@ -50,7 +50,6 @@ Usa questa versione quando sei stanco dopo il lavoro e hai bisogno di una storia
 >
 > **Richiesta:** Scrivi una breve e dolce fiaba della buonanotte in cui il protagonista porta il nome di mio figlio, `[Nome del bambino]`, che affronta e supera una piccola sfida quotidiana.
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

@@ -43,7 +43,6 @@ Usala quando hai bisogno di un risultato rapido per visualizzare un layout gener
 > **Ruolo:** Sei un fotografo aereo esperto.
 > **Richiesta:** Genera un'immagine con inquadratura dall'alto (drone shot) che mostri l'intero layout di `[Soggetto/Luogo]`, guardando giù dal cielo verso terra.
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 

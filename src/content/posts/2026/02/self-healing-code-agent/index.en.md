@@ -44,7 +44,6 @@ Use this for quick, manual fixes of simple errors.
 > **Role:** You are a `[Senior Python Developer]`.
 > **Task:** Fix the bugs in the `[Original Code]` based on the following `[Error Message]`.
 
-\
 
 ### 🥇 Pro Version
 
@@ -69,15 +68,14 @@ Use this to integrate into an agentic system for an automated debugging pipeline
 >
 > **Input Data:**
 > **Original Code:**
-> ```python
+>
 > [Insert original code here]
-> ```
+>
 >
 > **Error Traceback:**
-> ```text
+>
 > [Insert stderr message here]
-> ```
-
+>
 ---
 
 ## 💻 Automating the Loop in Python (Implementation)

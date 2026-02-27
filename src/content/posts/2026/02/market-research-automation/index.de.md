@@ -47,7 +47,6 @@ Ideal, wenn Sie eine kleine Menge an Bewertungen (ca. 30 Stück) schnell überfl
 >
 > **Bewertungsdaten:** `[Fügen Sie hier die kopierten Bewertungen ein]`
 
-\
 
 ### 🥇 Pro Version (Für Experten)
 

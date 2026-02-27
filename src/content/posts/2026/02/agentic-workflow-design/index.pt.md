@@ -43,7 +43,6 @@ Use esta versão quando precisar capturar rapidamente apenas a essência de uma 
 > **Role (Papel):** Você é um `[Gerente de Projetos de TI]`.
 > **Task (Tarefa):** Leia a transcrição da reunião a seguir, extraia as principais decisões e liste as tarefas pendentes.
 
-\
 
 ### 🥇 Versão Profissional (Pro Version)
 

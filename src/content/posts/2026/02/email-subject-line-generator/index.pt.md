@@ -42,7 +42,6 @@ Use esta versão quando precisar de resultados rápidos e diretos.
 > **Papel:** Você é um `[Especialista em E-mail Marketing e Copywriting]`.
 > **Solicitação:** Crie 5 opções de assunto de e-mail altamente persuasivos para uma campanha sobre `[Tema do E-mail]`. O objetivo é maximizar a taxa de abertura.
 
-\
 
 ### 🥇 Versão Pro (Expert Version)
 

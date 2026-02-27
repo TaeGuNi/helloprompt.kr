@@ -42,7 +42,6 @@ Use esta versão quando estiver com pressa e precisar de uma ideia rápida.
 > **Papel:** Você é um chef especialista em culinária criativa e aproveitamento de alimentos.
 > **Solicitação:** Tenho `[frango, cebola e arroz]` sobrando. Crie uma receita rápida e saborosa com esses ingredientes.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

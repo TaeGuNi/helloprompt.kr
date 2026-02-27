@@ -42,7 +42,6 @@ Ideal para quando você precisa implementar uma animação simples rapidamente.
 > **Função:** Você é um `[Desenvolvedor Frontend de UI]`.
 > **Tarefa:** Escreva o código de animação CSS Keyframe para `[uma notificação que desliza suavemente do canto superior direito da tela]`.
 
-\
 
 ### 🥇 Pro Version (Versão Especialista)
 

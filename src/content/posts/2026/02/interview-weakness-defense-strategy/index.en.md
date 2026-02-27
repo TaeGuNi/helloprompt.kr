@@ -48,7 +48,6 @@ Use this when you need a quick, reliable defense strategy on the fly.
 > **Role:** You are a senior interview strategy consultant.
 > **Request:** Prepare a logical defense to honestly acknowledge a fatal weakness (e.g., career break, major change, low GPA) while strongly emphasizing the lessons learned, growth, and improvement efforts.
 
-\
 
 ### 🥇 Pro Version (Expert)
 

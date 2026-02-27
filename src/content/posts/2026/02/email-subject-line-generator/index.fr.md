@@ -42,7 +42,6 @@ Idéal lorsque vous êtes pressé et avez besoin d'une inspiration immédiate.
 > **Rôle :** Tu es un expert en marketing par e-mail, spécialiste de la conversion.
 > **Demande :** Rédige 5 objets d'e-mail ultra-cliquables pour une `[promotion d'été sur des vêtements]`.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

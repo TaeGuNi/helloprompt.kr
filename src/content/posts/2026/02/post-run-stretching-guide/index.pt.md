@@ -49,7 +49,6 @@ Use quando precisar de uma orientação rápida e direta logo após o treino.
 > **Papel:** Você é um treinador de reabilitação esportiva focado em corredores.
 > **Pedido:** Crie uma rotina rápida de desaquecimento de 5 minutos para fazer após uma corrida. O foco é prevenir lesões e evitar dores musculares intensas no dia seguinte.
 
-\
 
 ### 🥇 Versão Pro (Pro Version)
 

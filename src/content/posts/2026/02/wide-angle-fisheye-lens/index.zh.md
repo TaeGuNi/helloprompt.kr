@@ -42,7 +42,6 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Landscape"]
 > **角色:** 你是资深风景与室内摄影师。
 > **请求:** 请在图像生成提示词中加入 `ultra-wide angle lens, panoramic view, sweeping landscape`，以获取宽阔的视野与空间感。
 
-\
 
 ### 🥇 Pro Version (专家版)
 

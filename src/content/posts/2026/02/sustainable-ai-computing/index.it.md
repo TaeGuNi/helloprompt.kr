@@ -37,7 +37,6 @@ Usa questo prompt per una rapida valutazione delle inefficienze nel tuo flusso d
 > **Ruolo:** Sei un esperto di Cloud Architecture e Green AI.
 > **Azione:** Analizza il seguente `[Flusso di lavoro AI]` e suggerisci tre modi pratici per ridurre il consumo di token, ottimizzare le GPU e tagliare i costi computazionali.
 
-\
 
 ### 🥇 Pro Version (Versione Avanzata)
 

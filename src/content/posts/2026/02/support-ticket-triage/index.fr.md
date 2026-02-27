@@ -43,7 +43,6 @@ Utilisez cette version pour catégoriser rapidement les requêtes.
 > **Tâche (Task) :** Lis le contenu de la requête ci-dessous, évalue sa `[Catégorie]` et son `[Niveau d'urgence (Élevé/Moyen/Faible)]`, puis donne-moi ta conclusion.
 > **Requête (Input) :** `[Copiez/collez le contenu de la requête client ici]`
 
-\
 
 ### 🥇 Version Pro (Pro Version)
 

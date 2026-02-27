@@ -43,7 +43,6 @@ Use esta versão quando precisar de um script rápido para organizar sua Área d
 > **Função:** Você é um `[Engenheiro de Sistemas Linux com 10 anos de experiência]`.
 > **Tarefa:** Escreva um `[Shell script que categorize automaticamente os arquivos na pasta ~/Downloads por extensão, crie subpastas (ex: imagens em 'Images', PDFs em 'Docs') e mova os arquivos para seus respectivos diretórios]`. Inclua também as instruções de como conceder permissão de execução ao script.
 
-\
 
 ### 🥇 Versão Pro (Avançado: Análise de Logs e Alertas no Slack em Tempo Real)
 

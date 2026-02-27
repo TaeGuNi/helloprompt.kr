@@ -42,7 +42,6 @@ tags: ["AI", "Tech", "prompt-engineering-zero-shot-vs-few-shot"]
 > **任务:** 请分析以下这段话的情感倾向：'`[服务有点慢，但食物真的太棒了。]`'
 > **要求:** 只能输出“正面”、“负面”或“中立”。
 
-\
 
 ### 🥇 Pro Version (Few-Shot / 少样本)
 

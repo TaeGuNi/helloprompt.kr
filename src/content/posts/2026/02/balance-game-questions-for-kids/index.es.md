@@ -42,7 +42,6 @@ Ideal para cuando necesitas romper el hielo rápidamente sin muchas complicacion
 > **Rol:** Eres un guionista de programas de humor infantil y un experto psicólogo de niños.
 > **Instrucción:** Genera 5 preguntas divertidas y absurdas de «Qué prefieres» (juego de equilibrio) adaptadas para niños de primaria. Las preguntas deben hacerlos reír y dudar.
 
-\
 
 ### 🥇 Versión Pro (Expert Version)
 

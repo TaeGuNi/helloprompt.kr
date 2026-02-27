@@ -46,7 +46,6 @@ Usala quando hai bisogno di un risultato immediato senza troppe regole.
 >
 > `[Incolla i dati qui]`
 
-\
 
 ### 🥇 Pro Version (Versione Esperto)
 
@@ -67,9 +66,9 @@ Usala quando devi gestire conversioni complesse, mappare i nomi dei campi e defi
 >
 > **Dati Sorgente:**
 >
-> ```text
+>
 > [Incolla qui i tuoi dati raw]
-> ```
+>
 >
 > **Vincoli (Constraints):**
 >

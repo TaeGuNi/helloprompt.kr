@@ -42,7 +42,6 @@ Utilisez cette version lorsque vous souhaitez identifier rapidement les problèm
 > **Rôle :** Tu es un coach sportif avec 10 ans d'expérience.
 > **Tâche :** La vidéo ci-jointe montre ma posture pour le `[squat]`. Trouve les mouvements incorrects qui risquent de provoquer des blessures et évalue ma posture sur 10.
 
-\
 
 ### 🥇 Version Pro (Expert)
 

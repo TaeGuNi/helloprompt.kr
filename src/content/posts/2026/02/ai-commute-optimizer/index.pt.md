@@ -42,7 +42,6 @@ Use quando precisar de uma verificação rápida e direta antes de sair pela por
 > **Função:** Você é meu assistente de trânsito.
 > **Tarefa:** Verifique a situação atual do trânsito de `[Seu Ponto de Partida]` até `[Seu Destino]` e me recomende a rota mais rápida neste exato momento.
 
-\
 
 ### 🥇 Versão Profissional (Pro Version)
 

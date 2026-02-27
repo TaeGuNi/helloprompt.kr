@@ -41,7 +41,6 @@ Para analizar este tipo de controversias de UX y redactar informes o artículos 
 > **Tarea:** Analiza la controversia sobre la función `[Intelligent Edge en macOS Tahoe]`.
 > **Formato:** Dame 3 puntos a favor, 3 en contra y una conclusión sobre si es un avance o un error.
 
-\
 
 ### 🥇 Pro Version (Versión Profesional)
 

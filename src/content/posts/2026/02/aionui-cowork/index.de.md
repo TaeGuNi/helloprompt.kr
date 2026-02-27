@@ -44,7 +44,6 @@ Ideal, wenn Sie dem Agenten eine einfache Aufgabe zuweisen und das Ergebnis schn
 > **Rolle:** Du bist ein `[Senior Developer]`.
 > **Aufgabe:** Behebe `[spezifisches Feature/Bug]` im aktuellen Projekt. Bevor du beginnst, präsentiere mir zwingend ein Briefing, welche Dateien du ändern wirst. Gib die Änderungen Schritt für Schritt so aus, dass sie in AionUi leicht zu überprüfen sind.
 
-\
 
 ### 🥇 Pro Version (Für Experten)
 

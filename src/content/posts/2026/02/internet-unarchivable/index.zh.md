@@ -40,7 +40,6 @@ tags: ["Internet", "Archiving", "History", "Web"]
 > **角色：** 你是一位专业的“数字档案管理员”。
 > **请求：** 请从下方输入的杂乱网页文本中，剔除菜单、广告等所有噪音，只将包含信息价值的“正文内容”用 Markdown 格式干净利落地整理出来。
 
-\
 
 ### 🥇 Pro Version (专家版)
 
@@ -62,9 +61,9 @@ tags: ["Internet", "Archiving", "History", "Web"]
 >
 > **输入数据：**
 >
-> ```text
+>
 > [请在此处粘贴网页的全部文本(Ctrl+A, C)或 HTML 源代码]
-> ```
+>
 >
 > **限制条件 (Constraints)：**
 >

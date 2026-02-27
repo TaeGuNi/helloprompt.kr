@@ -42,7 +42,6 @@ Usala quando hai bisogno di una stima rapida senza troppi dettagli.
 > **Ruolo:** Sei un esperto consulente finanziario di viaggi.
 > **Richiesta:** Calcola un budget giornaliero per un viaggio di `[Numero di giorni]` giorni a `[Destinazione]` con uno stile di viaggio `[Economico/Medio/Lusso]`.
 
-\
 
 ### 🥇 Pro Version (Versione Esperta)
 

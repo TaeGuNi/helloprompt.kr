@@ -8,7 +8,9 @@ export const GET: APIRoute = async (context) => {
     return data.date <= now;
   });
 
-  const site = (context.site || new URL("https://helloprompt.kr")).toString().replace(/\/$/, "");
+  const site = (context.site || new URL("https://helloprompt.kr"))
+    .toString()
+    .replace(/\/$/, "");
 
   // Base paths to generate hreflang for
   const basePaths: string[] = [""];
@@ -34,7 +36,7 @@ export const GET: APIRoute = async (context) => {
       // Create a <url> block for EACH language version
       return LANGUAGES.map((lang) => {
         const currentUrl = getUrlForLang(basePath, lang);
-        
+
         // Generate alternate links for ALL languages
         const alternateLinks = LANGUAGES.map((altLang) => {
           return `<xhtml:link rel="alternate" hreflang="${altLang}" href="${getUrlForLang(basePath, altLang)}" />`;

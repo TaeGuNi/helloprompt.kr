@@ -1,5 +1,5 @@
 import { expect, test } from "@playwright/test";
-import { generateRefMap, refAction } from "./utils/agentHelper";
+import { generateRefMap } from "./utils/agentHelper";
 
 test.describe("Extreme QA: Search Functionality (10 Languages)", () => {
   const languages = [
@@ -27,7 +27,7 @@ test.describe("Extreme QA: Search Functionality (10 Languages)", () => {
 
       // Using DOM assertion to check what's visible via ref action
       const targetInputRegex = /\[(@e\d+)\] input\[type="text"\].*/;
-      const match = refMapOutput.match(targetInputRegex);
+      const _match = refMapOutput.match(targetInputRegex);
 
       const searchLocator = page.locator(".hero .search-input");
       await expect(searchLocator).toBeVisible();

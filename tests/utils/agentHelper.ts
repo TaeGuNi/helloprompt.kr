@@ -96,7 +96,7 @@ export const generateRefMap = () => {
       const clue = el.id || el.className || "IconOnly";
       label = `[NoText: ${clue.substring(0, 15)}]`;
     } else if (label.length > 50) {
-      label = label.substring(0, 47) + "...";
+      label = `${label.substring(0, 47)}...`;
     }
 
     // 7. 타입 속성 부착 시그니처 조립
@@ -119,7 +119,7 @@ export const refAction = (page: Page) => {
         await page
           .locator(`[data-agent-ref="${refId}"]`)
           .click({ timeout: 5000 });
-      } catch (e) {
+      } catch (_e) {
         console.warn(
           `[AgentHelper] Click failed for ${refId}. Regenerating RefMap & Retrying...`,
         );
@@ -135,7 +135,7 @@ export const refAction = (page: Page) => {
         await page
           .locator(`[data-agent-ref="${refId}"]`)
           .fill(text, { timeout: 5000 });
-      } catch (e) {
+      } catch (_e) {
         console.warn(
           `[AgentHelper] Fill failed for ${refId}. Regenerating RefMap & Retrying...`,
         );
@@ -150,7 +150,7 @@ export const refAction = (page: Page) => {
         await page
           .locator(`[data-agent-ref="${refId}"]`)
           .focus({ timeout: 5000 });
-      } catch (e) {
+      } catch (_e) {
         console.warn(
           `[AgentHelper] Focus failed for ${refId}. Regenerating RefMap & Retrying...`,
         );

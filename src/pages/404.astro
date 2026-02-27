@@ -2,8 +2,8 @@
 import BaseHtml from "../components/BaseHtml.astro";
 import {
   filterPublishedPosts,
-  sortPostsByDate,
   type Post,
+  sortPostsByDate,
 } from "../utils/postUtils";
 
 // 1. 모든 포스트 가져오기 (한국어 + 다국어)
@@ -24,10 +24,10 @@ const postsByLang: Record<
 postsByLang.ko = sortPostsByDate(filterPublishedPosts(koPosts))
   .slice(0, 4)
   .map((p) => ({
-  title: p.frontmatter.title,
-  description: p.frontmatter.description,
-  url: p.url,
-}));
+    title: p.frontmatter.title,
+    description: p.frontmatter.description,
+    url: p.url,
+  }));
 
 // 다국어 처리
 const groupedOthers: Record<string, Post[]> = {};
@@ -50,8 +50,7 @@ for (const [lang, posts] of Object.entries(groupedOthers)) {
       title: p.frontmatter.title,
       description: p.frontmatter.description,
       url: p.url,
-    }),
-  );
+    }));
 }
 
 // 3. UI 번역 데이터

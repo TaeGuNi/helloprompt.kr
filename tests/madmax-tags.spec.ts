@@ -1,7 +1,7 @@
 import { expect, test } from "@playwright/test";
 
 test.describe("Extreme QA: Tag Pages", () => {
-  const languages = [
+  const _languages = [
     "ko",
     "en",
     "de",

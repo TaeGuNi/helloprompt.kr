@@ -151,7 +151,7 @@ async function main() {
     await runCmd("git checkout develop");
     await runCmd("git pull origin develop");
 
-    const branchName = `feat/skill-post-${skillName}`;
+    const _branchName = `feat/skill-post-${skillName}`;
 
     const template = await getDoc("POST_TEMPLATE.md");
     const quality = await getDoc("QUALITY_MODEL.md");
@@ -170,7 +170,7 @@ async function main() {
     let skillContent: string;
     try {
       skillContent = await fs.readFile(skillPath, "utf-8");
-    } catch (e) {
+    } catch (_e) {
       console.error(
         `❌ Error: Could not read SKILL.md for ${skillName}. Aborting.`,
       );
@@ -218,7 +218,7 @@ async function main() {
         );
         koContent = rewrittenContent;
         await fs.writeFile(koFilePath, koContent, "utf-8");
-      } catch (e: unknown) {
+      } catch (_e: unknown) {
         console.error(`❌ Rewrite failed. Aborting.`);
         process.exit(1);
       }

@@ -175,7 +175,7 @@ async function main() {
       let skillContent: string;
       try {
         skillContent = await fs.readFile(skillPath, "utf-8");
-      } catch (e) {
+      } catch (_e) {
         console.error(
           `❌ Error: Could not read SKILL.md for ${skillName}. Skipping...`,
         );
@@ -227,7 +227,7 @@ async function main() {
           );
           koContent = rewrittenContent;
           await fs.writeFile(koFilePath, koContent, "utf-8");
-        } catch (e: unknown) {
+        } catch (_e: unknown) {
           console.error(`❌ Rewrite failed. Skipping translations.`);
           continue;
         }
@@ -264,7 +264,7 @@ async function main() {
       await runCmd(
         `gh pr create --title "feat(content): ${skillNames.length} Sequential Spartan Skill Articles" --body "Automated sequentially generated PR converting ${skillNames.length} AI skills into hardcore cheat code posts. Target total generation count: ${totalCreated}" --base develop`,
       );
-    } catch (e) {
+    } catch (_e) {
       console.log("PR creation failed or exists.");
     }
 

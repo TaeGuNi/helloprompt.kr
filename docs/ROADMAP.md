@@ -33,6 +33,14 @@ Hello Prompt의 단기/중기/장기 목표를 관리하는 문서입니다.
 
 ## 🛠 Tech Backlog (기술 부채)
 
+### 🚀 Technical SEO 고도화 (진행 예정)
+- [ ] **`Canonical URL` 명시:** 모든 페이지 Head에 고유(순정) URL 매핑하여 중복 콘텐츠 페널티 방지
+- [ ] **다국어 Sitemap 고도화:** `sitemap.xml.ts` 내부 `<url>` 요소에 `<xhtml:link rel="alternate" hreflang="lang" ... />` 크로스 링킹 적용
+- [ ] **JSON-LD Schema 정제:** `Layout.astro`의 Article 스키마 내 가짜 하드코딩 평점(`aggregateRating: 4.8`) 제거 및 `BreadcrumbList` 추가
+- [ ] **크롤러 길안내 수정:** `public/robots.txt` 내부 sitemap 경로 오류(`sitemap-index.xml`)를 `sitemap.xml`로 수정
+- [ ] **본문 이미지 성능(Lazy Load) 자동화:** `astro.config.mjs`에 마크다운 이미지용 `loading="lazy"` 및 `decoding="async"` Rehype 플러그인 탑재
+
+### 기존 부채 수정
 - [x] **성능 튜닝:** CLS 방지(관련글 섹션) 및 폰트 최적화 적용
 - [ ] **다국어 자동화:** `pnpm translate` 명령어 구축으로 9개국어 자동 생성
 - [ ] **이미지 최적화:** `astro:assets` 도입하여 이미지 자동 리사이징 및 WebP 변환

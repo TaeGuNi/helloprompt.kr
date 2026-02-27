@@ -15,7 +15,8 @@ export const generateRefMap = () => {
       (node as Element).matches(interactableSelectors)
     )
       elements.add(node as Element);
-    if ((node as Element).shadowRoot) traverse((node as Element).shadowRoot!);
+    const shadowRoot = (node as Element).shadowRoot;
+    if (shadowRoot) traverse(shadowRoot);
     for (const child of Array.from(node.childNodes)) traverse(child as Element);
   };
 

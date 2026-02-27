@@ -2,7 +2,7 @@
 import BaseHtml from "../components/BaseHtml.astro";
 import {
   filterPublishedPosts,
-  getRandomPosts,
+  sortPostsByDate,
   type Post,
 } from "../utils/postUtils";
 
@@ -21,8 +21,9 @@ const postsByLang: Record<
   { title: string; description: string; url: string }[]
 > = {};
 
-// 한국어 처리
-postsByLang.ko = getRandomPosts(filterPublishedPosts(koPosts), 4).map((p) => ({
+postsByLang.ko = sortPostsByDate(filterPublishedPosts(koPosts))
+  .slice(0, 4)
+  .map((p) => ({
   title: p.frontmatter.title,
   description: p.frontmatter.description,
   url: p.url,
@@ -43,8 +44,9 @@ otherPosts.forEach((post) => {
 });
 
 for (const [lang, posts] of Object.entries(groupedOthers)) {
-  postsByLang[lang] = getRandomPosts(filterPublishedPosts(posts), 4).map(
-    (p) => ({
+  postsByLang[lang] = sortPostsByDate(filterPublishedPosts(posts))
+    .slice(0, 4)
+    .map((p) => ({
       title: p.frontmatter.title,
       description: p.frontmatter.description,
       url: p.url,
@@ -216,7 +218,7 @@ const uiStrings = {
 
       .post-grid {
         display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+        grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr));
         gap: 20px;
       }
 
@@ -304,6 +306,8 @@ const uiStrings = {
         const currentLang = supportedLangs.includes(firstSegment)
           ? firstSegment
           : "ko";
+          
+        document.documentElement.lang = currentLang;
 
         // 2. UI 텍스트 업데이트
         const ui = uiStrings[currentLang] || uiStrings["ko"];

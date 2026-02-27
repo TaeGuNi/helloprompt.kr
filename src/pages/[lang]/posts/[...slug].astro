@@ -7,7 +7,7 @@ const paramLang = Astro.params.lang as string;
 const paramSlug = Astro.params.slug as string;
 
 if (!LANGUAGES.includes(paramLang) || !paramSlug) {
-  return new Response("Not found", { status: 404 });
+  return Astro.rewrite("/404");
 }
 
 const posts = await getCollection("posts");
@@ -19,7 +19,7 @@ const post = posts.find((p) => {
 });
 
 if (!post) {
-  return new Response("Post not found", { status: 404 });
+  return Astro.rewrite("/404");
 }
 
 // Vercel ISR Caching Header (1 Day Cache for Posts)

@@ -196,7 +196,7 @@ const t = uiStrings[currentLang] || uiStrings.ko;
                     "@type": "ListItem",
                     position: 2,
                     name: frontmatter.tags[0],
-                    item: `${Astro.site}${currentLang === "ko" ? "" : currentLang + "/"}tags/${frontmatter.tags[0]}`
+                    item: `${Astro.site}${currentLang}/tags/${frontmatter.tags[0]}`
                   }] : []),
                   {
                     "@type": "ListItem",
@@ -735,7 +735,7 @@ const t = uiStrings[currentLang] || uiStrings.ko;
                 {frontmatter.tags && frontmatter.tags[0] && (
                   <>
                     <a
-                      href={`${currentLang === "ko" ? "" : "/" + currentLang}/tags/${frontmatter.tags[0]}`}
+                      href={`/${currentLang}/tags/${frontmatter.tags[0]}`}
                     >
                       #{frontmatter.tags[0]}
                     </a>
@@ -808,7 +808,7 @@ const t = uiStrings[currentLang] || uiStrings.ko;
               <div class="tags-container">
                 {frontmatter.tags.map((tag) => (
                   <a
-                    href={`${frontmatter.lang && frontmatter.lang !== "ko" ? "/" + frontmatter.lang : ""}/tags/${tag}`}
+                    href={`/${currentLang}/tags/${tag}`}
                     class="tag-badge"
                   >
                     #{tag}

@@ -84,8 +84,8 @@ const t = i18n[lang as keyof typeof i18n] || i18n.en;
 
 // 링크 생성 유틸리티
 const getLink = (path: string) => {
-  if (lang === "ko") return path;
-  return `/${lang}${path}`;
+  const cleanPath = path.startsWith("/") ? path : `/${path}`;
+  return `/${lang}${cleanPath === "/" ? "" : cleanPath}`;
 };
 
 // 태그 링크 (언어별로 태그가 다를 수 있으나, 일단 공통 태그 'ChatGPT' 등을 활용하거나 홈으로 연결)
@@ -94,11 +94,10 @@ const getLink = (path: string) => {
 // 단, 한국어는 기존대로 유지.
 
 const getTagLink = (koreanTag: string, fallbackTag: string = "ChatGPT") => {
-  if (lang === "ko") return `/tags/${koreanTag}`;
-  // 다른 언어는 해당 태그가 존재하는지 확실하지 않으므로,
-  // 안전하게 fallbackTag(ChatGPT)를 사용하거나 홈으로 보냄.
-  // 여기서는 ChatGPT 태그가 번역본에도 많이 쓰이므로 시도해봄.
-  return `/${lang}/tags/${fallbackTag}`;
+  // 현재 시스템상 태그도 번역되어 있을 수 있으므로, 영어권에서는 영어 태그로 유도해야 함.
+  // 여기서는 안전하게 'ChatGPT' (공통) 또는 홈으로 유도.
+  const tag = lang === "ko" ? koreanTag : fallbackTag;
+  return `/${lang}/tags/${tag}`;
 };
 
 const banners = [

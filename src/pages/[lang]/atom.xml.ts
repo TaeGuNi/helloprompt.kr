@@ -1,9 +1,15 @@
 import { getCollection } from "astro:content";
 import type { APIRoute } from "astro";
+import { LANGUAGES } from "../../i18n/languages";
 import { uiStrings } from "../../utils/ui-translation";
 
 export const GET: APIRoute = async (context) => {
   const lang = context.params.lang as string;
+
+  if (!LANGUAGES.includes(lang)) {
+    return new Response("Language not supported", { status: 404 });
+  }
+
   const now = new Date();
   const allPosts = await getCollection("posts", ({ data }) => {
     return data.date <= now;

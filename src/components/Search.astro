@@ -9,12 +9,11 @@ const { variant = "hero" } = Astro.props;
 <div class={`search-container ${variant}`}>
   <input
     type="text"
-    id="search-input"
     class="search-input"
     placeholder={variant === "hero" ? "SEARCH INTELLIGENCE..." : "Search..."}
     autocomplete="off"
   />
-  <div id="search-results" class="search-results"></div>
+  <div class="search-results"></div>
 </div>
 
 <style>
@@ -290,9 +289,7 @@ const { variant = "hero" } = Astro.props;
 
       // [Analytics] Track Search Result Click
       link.addEventListener("click", () => {
-        const query = (
-          document.querySelector(".search-input") as HTMLInputElement
-        )?.value;
+        const query = inputEl.value;
         trackEvent("select_content", {
           content_type: "search_result",
           search_term: query,

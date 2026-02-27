@@ -8,38 +8,48 @@ export const GET: APIRoute = async (context) => {
     return data.date <= now;
   });
 
-  const site = context.site || new URL("https://helloprompt.kr");
+  const site = (context.site || new URL("https://helloprompt.kr")).toString().replace(/\/$/, "");
 
-  const urls: string[] = [];
+  // Base paths to generate hreflang for
+  const basePaths: string[] = [""];
 
-  // 1. Add index pages for all languages
-  LANGUAGES.forEach((lang) => {
-    urls.push(`${site}${lang}/`);
-  });
-
-  // 2. Add post pages
+  // Add post base paths
   allPosts.forEach((post) => {
-    LANGUAGES.forEach((lang) => {
-      if (post.id.endsWith(`index${lang}`)) {
-        const parts = post.id.split("/");
-        const slug = parts[parts.length - 2];
-        urls.push(`${site}${lang}/posts/${slug}`);
-      }
-    });
+    if (post.id.endsWith("index.ko.md") || post.id.endsWith("index.ko")) {
+      const parts = post.id.split("/");
+      const slug = parts[parts.length - 2];
+      basePaths.push(`/posts/${slug}`);
+    }
   });
+
+  const getUrlForLang = (basePath: string, lang: string) => {
+    const langPath = lang === "ko" ? "" : `/${lang}`;
+    return `${site}${langPath}${basePath}`;
+  };
 
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  ${urls
-    .map(
-      (url) => `
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  ${basePaths
+    .flatMap((basePath) => {
+      // Create a <url> block for EACH language version
+      return LANGUAGES.map((lang) => {
+        const currentUrl = getUrlForLang(basePath, lang);
+        
+        // Generate alternate links for ALL languages
+        const alternateLinks = LANGUAGES.map((altLang) => {
+          return `<xhtml:link rel="alternate" hreflang="${altLang}" href="${getUrlForLang(basePath, altLang)}" />`;
+        }).join("\\n    ");
+
+        return `
   <url>
-    <loc>${url}</loc>
+    <loc>${currentUrl}</loc>
+    ${alternateLinks}
     <lastmod>${now.toISOString().split("T")[0]}</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>`,
-    )
+    <priority>${basePath === "" ? "1.0" : "0.8"}</priority>
+  </url>`;
+      });
+    })
     .join("")}
 </urlset>`;
 

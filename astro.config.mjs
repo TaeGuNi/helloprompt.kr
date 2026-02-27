@@ -48,6 +48,13 @@ function rehypeWrap() {
 
         parent.children[index] = wrapper;
       }
+
+      // 3. 이미지 리소스 최적화 (Lazy Load & Async Decode)
+      if (node.tagName === "img") {
+        node.properties = node.properties || {};
+        node.properties.loading = "lazy";
+        node.properties.decoding = "async";
+      }
     });
   };
 }

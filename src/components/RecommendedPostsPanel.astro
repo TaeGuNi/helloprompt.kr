@@ -14,10 +14,13 @@ const postsByLang: Record<
 > = {};
 
 allPosts.forEach((post) => {
-  // post.id 예시: 2026/02/slug/index.ko.md
-  const match = post.id.match(/index\.([a-z]{2})\.md$/) || post.id.match(/index\.([a-z]{2})$/);
+  // post.id 예시: "2026/02/slug/indexko" (Astro v5 glob loader removes dots)
+  const match = post.id.match(/index([a-z]{2})$/);
   const lang = match ? match[1] : "ko";
-  const slugBase = post.id.split("/").slice(0, -1).join("/");
+
+  // slug는 폴더명까지
+  const parts = post.id.split("/");
+  const slugBase = parts.slice(0, -1).join("/");
 
   if (!postsByLang[lang]) postsByLang[lang] = [];
   

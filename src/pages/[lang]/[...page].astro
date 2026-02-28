@@ -91,6 +91,7 @@ if (paramPage === 1) {
 
 // 다국어 슬로건
 const SLOGANS: Record<string, string> = {
+  ko: "AI가 낯선 당신을 위한 가장 친절한 가이드",
   en: "The Friendliest AI Guide for Beginners",
   es: "La guía de IA más amable para principiantes",
   ja: "AI初心者のための最も親切なガイド",
@@ -103,7 +104,7 @@ const SLOGANS: Record<string, string> = {
 };
 
 const currentSlogan =
-  SLOGANS[lang as string] || "The Friendliest AI Guide for Beginners";
+  SLOGANS[lang as string] || "AI가 낯선 당신을 위한 가장 친절한 가이드";
 
 const frontmatter = {
   title: "HOME",

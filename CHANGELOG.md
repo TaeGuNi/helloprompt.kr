@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.9.0](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.8.0...v1.9.0) (2026-02-28)
+
+
+### Features
+
+* **i18n:** extract static pages to content collection and add 10-language translations ([ec8f696](https://github.com/TaeGuNi/helloprompt.kr/commit/ec8f696e4a8ccf89816ec76a406756c407313f9d))
+* setup Tailwind, modularize Layout, add 404 Recommended Panel and new posts ([77d1f3e](https://github.com/TaeGuNi/helloprompt.kr/commit/77d1f3e5d02d48f8163bed35c174900e37c4c08c))
+
+
+### Bug Fixes
+
+* correct language identification regex in RecommendedPostsPanel for Astro 5 glob loader IDs ([be5e162](https://github.com/TaeGuNi/helloprompt.kr/commit/be5e16273aeb45e0a967b6052a74e400364ecdab))
+
 ## [1.8.0](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.7.0...v1.8.0) (2026-02-27)
 
 

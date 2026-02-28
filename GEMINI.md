@@ -13,7 +13,8 @@
 ## ⚡️ 핵심 규칙 (반드시 준수)
 
 1. **패키지 매니저:** 무조건 **`pnpm`**을 사용하라. (`npm install` 금지)
-2. **글 작성 (다국어 필수):**
+2. **Husky 강제 준수 (절대 원칙):** 어떠한 경우에도 `git commit --no-verify` 등 Husky pre-commit hook을 우회하여 강제로 커밋하지 마라. OOM(메모리 오류)이나 Lint 에러가 발생하면 반드시 근본 원인을 해결하고 정상적으로 커밋해야 한다. 우회는 절대 금지된다.
+3. **글 작성 (다국어 필수):**
    - **이 사이트는 글로벌 다국어 서비스입니다. 모든 포스트는 반드시 10개의 언어로 작성되어야 합니다.**
    - 위치: `src/content/posts/YYYY/MM/slug/`
    - 파일 구조: 한국어 원본(`index.ko.md`) + 9개 외국어 번역본(`index.[lang].md`)
@@ -21,7 +22,7 @@
    - 템플릿: `docs/POST_TEMPLATE.md` (v4.0) 복사 후 작성
    - 문법: 프롬프트는 `> 인용구`, 결과는 ` ```코드블럭 ` 사용
    - 이미지: `src/assets/images/`에 저장 후 사용
-3. **디자인 수정:**
+4. **디자인 수정:**
    - `src/layouts/Layout.astro`: 전역 스타일, 헤더, 푸터, TOC, 공유 버튼 관리
    - `src/pages/[...page].astro`: 메인 페이지 (한국어)
    - `src/pages/[lang]/[...page].astro`: 메인 페이지 (다국어)

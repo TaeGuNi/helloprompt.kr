@@ -1,0 +1,63 @@
+---
+import LanguageSwitcher from "./LanguageSwitcher.astro";
+import Search from "./Search.astro";
+
+export interface Props {
+  isHome: boolean;
+  currentLang: string;
+  t: Record<string, string>;
+  frontmatter: {
+    title: string;
+    tags?: string[];
+  };
+}
+
+const { isHome, currentLang, t, frontmatter } = Astro.props;
+---
+
+{
+  isHome ? (
+    <div
+      class="home-header-actions"
+      style="position: absolute; top: 20px; right: 20px; z-index: 2001;"
+    >
+      <LanguageSwitcher />
+    </div>
+  ) : (
+    <header>
+      <div class="nav-left">
+        <a href={`/${currentLang}/`} class="home-link">
+          HELLO PROMPT
+        </a>
+      </div>
+      <div
+        class="nav-right"
+        style="display: flex; align-items: center; gap: 15px;"
+      >
+        <div class="breadcrumbs">
+          <a href={`/${currentLang}/`}>{t.home}</a>
+          <span class="sep">/</span>
+          {frontmatter.tags && frontmatter.tags[0] && (
+            <>
+              <a href={`/${currentLang}/tags/${frontmatter.tags[0]}`}>
+                #{frontmatter.tags[0]}
+              </a>
+              <span class="sep">/</span>
+            </>
+          )}
+          <span class="current">
+            {frontmatter.title.length > 15
+              ? frontmatter.title.slice(0, 15) + "..."
+              : frontmatter.title}
+          </span>
+        </div>
+
+        {/* Search (Compact) */}
+        <Search variant="compact" />
+
+        {/* Language Switcher (Article Page) */}
+        <LanguageSwitcher />
+      </div>
+    </header>
+  )
+}

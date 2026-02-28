@@ -20,7 +20,7 @@ export const GET: APIRoute = async (context) => {
 
   const posts: SearchItem[] = langPosts.map((post) => {
     const parts = post.id.split("/");
-    const slug = parts[parts.length - 2];
+    const slug = parts.slice(0, -1).join("/");
     return {
       title: post.data.title,
       description: post.data.description || "",

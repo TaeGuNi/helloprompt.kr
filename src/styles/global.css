@@ -1,0 +1,390 @@
+@import "tailwindcss";
+
+@theme {
+  --color-cyber-cyan: #00f3ff;
+  --color-cyber-green: #00ff88;
+  --color-cyber-pink: #ff0055;
+  --color-cyber-bg: #030303;
+  --color-cyber-surface: #0a0f18;
+
+  --font-orbitron: "Orbitron", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+
+  --animate-glitch: glitch 1s linear infinite;
+}
+
+:root {
+  --color-cyber-cyan: #00f3ff;
+  --color-cyber-green: #00ff88;
+  --color-cyber-pink: #ff0055;
+  --color-cyber-bg: #030303;
+  --color-cyber-surface: #0a0f18;
+  --font-orbitron: "Orbitron", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+}
+
+@keyframes glitch {
+  2%,
+  64% {
+    transform: translate(2px, 0) skew(0deg);
+  }
+  4%,
+  60% {
+    transform: translate(-2px, 0) skew(0deg);
+  }
+  62% {
+    transform: translate(0, 0) skew(5deg);
+  }
+}
+
+@utility bg-cyber-grid-cyan {
+  background-image:
+    linear-gradient(rgba(0, 243, 255, 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0, 243, 255, 0.03) 1px, transparent 1px);
+  background-size: 30px 30px;
+}
+
+/* Legacy CSS extracted from Layout.astro */
+
+/* --- 1. Global Reset & Typography --- */
+body {
+  font-family: "Noto Sans KR", sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: var(--color-cyber-bg);
+  color: #e0e0e0;
+  line-height: 1.8;
+  /* Cyberpunk Grid Background */
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+  background-size: 50px 50px;
+  background-position: center top;
+}
+
+/* --- 2. Layout Structure --- */
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  position: relative;
+}
+.container.is-home {
+  max-width: 1000px;
+  padding: 80px 20px;
+}
+
+header {
+  margin-bottom: 40px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid rgba(0, 243, 255, 0.3);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+footer {
+  margin-top: 60px;
+  color: #666;
+  font-size: 0.8rem;
+  text-align: center;
+  font-family: "Orbitron", sans-serif;
+}
+
+/* --- 3. Article Content --- */
+article {
+  background: rgba(10, 20, 30, 0.8);
+  padding: 40px;
+  border-radius: 16px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+  color: #fff;
+  font-size: 2.2rem;
+  margin-bottom: 10px;
+  line-height: 1.3;
+  text-shadow: 0 0 15px rgba(255, 255, 255, 0.2);
+}
+
+.meta {
+  color: #ccc;
+  font-size: 0.9rem;
+  margin-bottom: 40px;
+  font-family: "JetBrains Mono", monospace;
+}
+
+/* --- Tags --- */
+.tags-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 30px;
+  margin-top: -20px; /* Pull closer to meta */
+}
+.tag-badge {
+  font-family: var(--font-mono);
+  @apply text-xs text-cyber-cyan bg-cyber-cyan/[0.05] border border-cyber-cyan/30 px-3 py-1 rounded-full whitespace-nowrap transition-all duration-200;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(0, 243, 255, 0.3);
+}
+.tag-badge:hover {
+  @apply bg-cyber-cyan/15 text-white border-cyber-cyan -translate-y-[2px];
+  box-shadow: 0 0 15px rgba(0, 243, 255, 0.3);
+}
+
+/* --- 4. Components (Prompt Box & Code) --- */
+
+/* --- Code Wrapper (Server-Side) --- */
+.code-wrapper {
+  @apply relative my-10 bg-cyber-surface rounded-lg border border-cyber-green border-l-[6px];
+}
+
+/* 라벨 (Wrapper 위에 고정) */
+.code-wrapper::before {
+  content: "EXAMPLE";
+  font-family: var(--font-orbitron);
+  @apply absolute -top-3 left-5 bg-cyber-bg text-cyber-green px-2.5 font-black text-[0.85rem] border border-cyber-green rounded tracking-[1px] z-10;
+}
+
+/* 내부 Pre (스크롤만 담당) */
+.code-wrapper pre {
+  @apply !m-0 !pt-[30px] !px-[25px] !pb-[25px] !bg-transparent !border-none !rounded-none overflow-x-auto;
+}
+
+/* --- Prompt Input (Interactive) --- */
+.prompt-input {
+  font-family: var(--font-mono);
+  @apply bg-black/30 border border-cyber-cyan rounded text-white px-2 py-1 text-[0.9em] w-[150px] transition-all duration-200 mx-1;
+}
+.prompt-input:focus {
+  @apply bg-cyber-cyan/10 outline-none w-[200px];
+  box-shadow: 0 0 10px rgba(0, 243, 255, 0.3);
+}
+.prompt-input::placeholder {
+  @apply text-cyber-cyan/50;
+}
+
+/* --- Quote Wrapper (Prompt Box - High Emphasis) --- */
+.quote-wrapper {
+  @apply relative my-[50px] bg-cyber-cyan/[0.03] border-3 border-dashed border-cyber-cyan rounded-xl transition-all duration-300;
+  box-shadow: 0 0 15px rgba(0, 243, 255, 0.1);
+}
+
+.quote-wrapper:hover {
+  @apply bg-cyber-cyan/[0.05] -translate-y-[2px];
+  box-shadow: 0 0 40px rgba(0, 243, 255, 0.2);
+}
+
+/* 강력한 헤더 라벨 */
+.quote-wrapper.is-prompt::before {
+  content: "✂️ COPY THIS PROMPT";
+  font-family: var(--font-orbitron);
+  @apply absolute -top-[18px] left-1/2 -translate-x-1/2 bg-cyber-cyan text-black px-5 py-1.5 font-black text-[0.95rem] rounded-full tracking-[1px] whitespace-nowrap z-10 border-3 border-cyber-bg;
+  box-shadow: 0 5px 20px rgba(0, 243, 255, 0.4);
+}
+
+/* 내부 여백 및 텍스트 */
+.quote-wrapper blockquote {
+  @apply !m-0 !pt-[50px] !px-[30px] !pb-[30px] !bg-transparent !border-none !text-white;
+}
+.quote-wrapper blockquote strong {
+  @apply text-cyber-cyan;
+}
+
+/* --- Copy Button Style --- */
+.copy-btn {
+  @apply absolute top-2.5 right-2.5 bg-black/60 border border-white/20 text-white w-8 h-8 rounded-md flex items-center justify-center cursor-pointer transition-all duration-200 opacity-60 z-50;
+}
+.copy-btn:hover {
+  @apply opacity-100 bg-cyber-cyan/10 border-cyber-cyan text-cyber-cyan;
+}
+.copy-btn.copied {
+  @apply border-cyber-green text-cyber-green;
+}
+
+/* --- Action Buttons (ChatGPT/Claude/Gemini/Grok) --- */
+.action-buttons {
+  @apply flex gap-2.5 m-2.5 justify-end flex-wrap;
+}
+.action-btn {
+  font-family: var(--font-orbitron);
+  @apply inline-flex items-center gap-1.5 px-3 py-1.5 rounded-md text-xs text-white border border-white/20 transition-all duration-200 cursor-pointer no-underline;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+.action-btn:hover {
+  @apply -translate-y-[2px];
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+.btn-gpt {
+  @apply bg-[#10a37f]/20 border-[#10a37f] text-[#10a37f];
+}
+.btn-gpt:hover {
+  @apply bg-[#10a37f]/40 text-white;
+}
+.btn-claude {
+  @apply bg-[#d97757]/20 border-[#d97757] text-[#d97757];
+}
+.btn-claude:hover {
+  @apply bg-[#d97757]/40 text-white;
+}
+.btn-gemini {
+  @apply bg-[#4285f4]/20 border-[#4285f4] text-[#4285f4];
+}
+.btn-gemini:hover {
+  @apply bg-[#4285f4]/40 text-white;
+}
+.btn-grok {
+  @apply bg-white/10 border-[#e0e0e0] text-[#e0e0e0];
+}
+.btn-grok:hover {
+  @apply bg-white/30 text-white;
+}
+
+/* --- 5. Navigation (TOC & Breadcrumbs) --- */
+.toc-sidebar {
+  position: fixed;
+  top: 100px;
+  right: max(20px, calc(50% - 610px));
+  width: 200px;
+  display: none;
+}
+.toc-title {
+  font-family: "Orbitron", sans-serif;
+  color: #00f3ff;
+  font-size: 0.9rem;
+  margin-bottom: 10px;
+  border-bottom: 1px solid rgba(0, 243, 255, 0.3);
+  padding-bottom: 5px;
+}
+.toc-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 0.85rem;
+}
+.toc-list li {
+  margin-bottom: 8px;
+}
+.toc-link {
+  color: #888;
+  text-decoration: none;
+  transition: color 0.2s;
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.toc-link:hover {
+  color: #00f3ff;
+}
+.toc-depth-3 {
+  padding-left: 15px;
+  font-size: 0.8rem;
+}
+
+@media (min-width: 1200px) {
+  .toc-sidebar {
+    display: block;
+  }
+}
+
+.breadcrumbs {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.8rem;
+  color: #666;
+}
+.breadcrumbs a {
+  color: #888;
+  text-decoration: none;
+  border: none;
+}
+.breadcrumbs a:hover {
+  color: #00f3ff;
+}
+.sep {
+  margin: 0 5px;
+  color: #444;
+}
+.current {
+  color: #00f3ff;
+}
+
+.home-link {
+  color: #00f3ff;
+  text-decoration: none;
+  font-family: "Orbitron", sans-serif;
+  font-weight: bold;
+  font-size: 1.1rem;
+  letter-spacing: 1px;
+  transition: text-shadow 0.3s;
+}
+.home-link:hover {
+  text-shadow: 0 0 10px #00f3ff;
+}
+
+/* --- 6. Related Posts & Share --- */
+/* Related Posts 스타일은 컴포넌트 내부로 이동되었으므로 여기서 삭제 가능 */
+/* 하지만 컴포넌트에서 scoped style을 쓰므로 여기 있어도 문제 없음 */
+
+.share-buttons {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 40px;
+}
+.share-btn {
+  background: transparent;
+  border: 1px solid #4a90e2;
+  color: #4a90e2;
+  padding: 5px 15px;
+  border-radius: 4px;
+  font-family: "Orbitron", sans-serif;
+  font-size: 0.8rem;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 0.2s;
+}
+.share-btn:hover {
+  background: rgba(74, 144, 226, 0.1);
+  box-shadow: 0 0 10px rgba(74, 144, 226, 0.3);
+}
+.twitter {
+  border-color: #fff;
+  color: #fff;
+}
+.twitter:hover {
+  background: rgba(255, 255, 255, 0.1);
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+}
+.bookmark {
+  border-color: #ffd700;
+  color: #ffd700;
+}
+.bookmark:hover {
+  background: rgba(255, 215, 0, 0.1);
+  box-shadow: 0 0 10px rgba(255, 215, 0, 0.3);
+}
+.bookmark.active .icon {
+  color: #ffd700;
+  text-shadow: 0 0 5px #ffd700;
+}
+
+@media (max-width: 600px) {
+  article {
+    padding: 25px;
+  }
+  h1 {
+    font-size: 1.8rem;
+  }
+  header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .breadcrumbs {
+    font-size: 0.75rem;
+  }
+}

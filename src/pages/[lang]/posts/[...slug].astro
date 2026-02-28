@@ -14,7 +14,7 @@ const posts = await getCollection("posts");
 const post = posts.find((p) => {
   if (!p.id.endsWith(`index${paramLang}`)) return false;
   const parts = p.id.split("/");
-  const slug = parts[parts.length - 2];
+  const slug = parts.slice(0, -1).join("/");
   return slug === paramSlug;
 });
 

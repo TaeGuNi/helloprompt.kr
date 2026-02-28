@@ -18,7 +18,7 @@ test.describe("SEO & OG Image", () => {
 
   test("Post page has Article JSON-LD", async ({ page }) => {
     // 실제 존재하는 포스트로 변경
-    await page.goto("/ko/posts/nbc-olympics-figure-skating-content-prompt");
+    await page.goto("/ko/posts/2026/02/hardcore-uv-python-agent-cheat-code");
 
     const jsonLd = page.locator('script[type="application/ld+json"]');
     await expect(jsonLd).toHaveCount(1);
@@ -46,7 +46,7 @@ test.describe("SEO & OG Image", () => {
   });
 
   test("Post page has Dynamic OG Image meta tag", async ({ page }) => {
-    await page.goto("/ko/posts/nbc-olympics-figure-skating-content-prompt");
+    await page.goto("/ko/posts/2026/02/hardcore-uv-python-agent-cheat-code");
 
     const ogImage = page.locator('meta[property="og:image"]');
     await expect(ogImage).toHaveCount(1);

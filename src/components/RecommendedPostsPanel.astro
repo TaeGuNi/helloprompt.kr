@@ -1,0 +1,78 @@
+---
+import { getCollection } from "astro:content";
+
+// 1. Content Collections에서 모든 발행된 포스트 가져오기
+const now = new Date();
+const allPosts = await getCollection("posts", ({ data }) => {
+  return new Date(data.date) <= now;
+});
+
+// 2. 포스트를 언어별로 분류하고 최신 4개씩 추출
+const postsByLang: Record<
+  string,
+  { title: string; description: string; url: string; date: number }[]
+> = {};
+
+allPosts.forEach((post) => {
+  // post.id 예시: "2026/02/slug/indexko" (Astro v5 glob loader removes dots)
+  const match = post.id.match(/index([a-z]{2})$/);
+  const lang = match ? match[1] : "ko";
+
+  // slug는 폴더명까지
+  const parts = post.id.split("/");
+  const slugBase = parts.slice(0, -1).join("/");
+
+  if (!postsByLang[lang]) postsByLang[lang] = [];
+
+  postsByLang[lang].push({
+    title: post.data.title,
+    description: post.data.description || "",
+    url: `/${lang}/posts/${slugBase}`,
+    date: new Date(post.data.date).valueOf(),
+  });
+});
+
+// 3. 언어별 포스트를 최신순 정렬 후 4개 자르기
+for (const lang in postsByLang) {
+  postsByLang[lang] = postsByLang[lang]
+    .sort((a, b) => b.date - a.date)
+    .slice(0, 4);
+}
+---
+
+<div id="rec-section" class="mt-[100px] w-full max-w-[900px] text-left px-5 box-border hidden">
+  <div id="rec-title" class="font-orbitron text-cyber-cyan text-lg mb-6 border-b border-cyber-cyan/30 pb-2.5 uppercase tracking-widest">
+    RECOMMENDED INTELLIGENCE
+  </div>
+  <div id="rec-grid" class="grid grid-cols-[repeat(auto-fill,minmax(min(100%,280px),1fr))] gap-5">
+    <!-- JS 렌더링 영역 -->
+  </div>
+</div>
+
+<script is:inline define:vars={{ postsByLang }}>
+  // 404 페이지 생명주기에 맞춰 렌더링
+  document.addEventListener("DOMContentLoaded", () => {
+    const path = window.location.pathname;
+    const segments = path.split("/").filter(Boolean);
+    const firstSegment = segments[0];
+
+    const currentLang = postsByLang[firstSegment] ? firstSegment : "ko";
+    const posts = postsByLang[currentLang] || [];
+    const recGrid = document.getElementById("rec-grid");
+    const recSection = document.getElementById("rec-section");
+
+    if (posts.length > 0 && recGrid) {
+      recGrid.innerHTML = posts
+        .map(
+          (post) => `
+        <a href="${post.url}" class="post-card bg-cyber-surface/60 border border-white/10 rounded-xl p-6 no-underline transition-all duration-300 flex flex-col backdrop-blur-sm relative overflow-hidden hover:-translate-y-1.5 hover:border-cyber-cyan hover:shadow-[0_5px_20px_rgba(0,243,255,0.15)] group">
+          <h3 class="text-white m-0 mb-2.5 text-[1.1rem] leading-[1.4] font-bold font-sans">${post.title}</h3>
+          <p class="font-sans text-[0.9rem] text-[#888] m-0 line-clamp-2 leading-[1.6]">${post.description}</p>
+        </a>
+      `
+        )
+        .join("");
+      if (recSection) recSection.style.display = "block";
+    }
+  });
+</script>

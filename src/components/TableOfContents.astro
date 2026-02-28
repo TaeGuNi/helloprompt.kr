@@ -1,0 +1,25 @@
+---
+export interface Props {
+  headings?: { depth: number; slug: string; text: string }[];
+  t: Record<string, string>;
+}
+
+const { headings, t } = Astro.props;
+
+if (!headings || headings.length === 0) {
+  return null;
+}
+---
+
+<nav class="toc-sidebar">
+  <div class="toc-title">{t.on_this_page}</div>
+  <ul class="toc-list">
+    {headings.map((heading) => (
+      <li class={`toc-depth-${heading.depth}`}>
+        <a href={`#${heading.slug}`} class="toc-link">
+          {heading.text}
+        </a>
+      </li>
+    ))}
+  </ul>
+</nav>

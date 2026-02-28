@@ -22,12 +22,15 @@
 
 ### 🛡️ 1차 방어선: 로컬 (Husky Hooks)
 
+> 🚨 **ABSOLUTE RULE: No Bypass (`--no-verify`) Allowed**
+> 어떠한 경우에도 (OOM, Lint Error 포함) `git commit --no-verify`를 사용하여 Husky pre-commit hook을 우회하지 마십시오. 에러가 발생하면 반드시 근본 원인을 해결하고 정상적으로 커밋해야 합니다.
+
 개발자가 코드를 커밋(`git commit`)할 때, **변경된 파일(Staged Files)**에 대해서만 다음 검사가 빠르게 실행됩니다.
 
-1.  **Commit Convention (`commitlint`):**
+1. **Commit Convention (`commitlint`):**
     - 메시지 형식 강제: `type: subject` (예: `feat: add new prompt`)
     - 허용 타입: `feat`, `fix`, `docs`, `style`, `refactor`, `perf`, `test`, `build`, `ci`, `chore`, `revert`
-2.  **Lint-Staged (`pre-commit`):**
+2. **Lint-Staged (`pre-commit`):**
     - **속도 최적화:** 모든 파일(`code`, `docs`, `posts`)에 대한 `prettier --write`를 **단일 프로세스로 병렬 실행**하여 대기 시간을 최소화했습니다.
     - **Markdown (`src/pages/**/\*.md`):\*\*
       - `fix-placeholders.js`: `[입력]` 같은 플레이스홀더 자동 표준화.
@@ -53,9 +56,11 @@ PR 생성 및 Merge 시 전체 프로젝트 스위트가 실행됩니다.
 ### 🚀 버전 릴리즈 방법
 
 1. `develop` 브랜치에서 작업이 완료되면 다음 명령어를 실행합니다.
+
    ```bash
    pnpm release
    ```
+
 2. **자동화되는 작업:**
    - `package.json` 버전 업 (v1.0.0 -> v1.1.0 등)
    - `CHANGELOG.md` 업데이트 (커밋 내역 기반)
@@ -87,7 +92,7 @@ npx tsx scripts/qa/sitemap-check.ts
 A. 에러 메시지를 확인하세요.
 
 - `[MISSING_INSIGHT]`: 마크다운 파일에 `## 💡 작성자 코멘트 (Insight)` 섹션 추가 필요.
-- `[FORMAT_BLOCKQUOTE_MISUSE]`: `Basic/Pro` 섹션 외에는 `> `(인용구) 사용 금지.
+- `[FORMAT_BLOCKQUOTE_MISUSE]`: `Basic/Pro` 섹션 외에는 인용구(`>`) 사용 금지.
 - `[LOC_KOREAN_REMAINS]`: 다국어 파일 본문에 한국어가 남아있음.
 
 **Q. 링크 검사(Link Check)가 너무 오래 걸려요.**

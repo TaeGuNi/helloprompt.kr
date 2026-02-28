@@ -1,0 +1,42 @@
+---
+import { formatDate } from "../utils/dateUtils";
+
+export interface Props {
+  frontmatter: {
+    title: string;
+    author: string;
+    date: string;
+    updatedDate?: string;
+    tags?: string[];
+  };
+  currentLang: string;
+  t: Record<string, string>;
+}
+
+const { frontmatter, currentLang, t } = Astro.props;
+---
+
+<h1>{frontmatter.title}</h1>
+<div class="meta">
+  {t.author}: {frontmatter.author} //
+  {t.date}: {formatDate(frontmatter.date, currentLang)}
+  {frontmatter.updatedDate && (
+    <>
+      <br />
+      (Updated: {formatDate(frontmatter.updatedDate, currentLang)})
+    </>
+  )}
+</div>
+
+{frontmatter.tags && frontmatter.tags.length > 0 && (
+  <div class="tags-container">
+    {frontmatter.tags.map((tag) => (
+       <a
+         href={`/${currentLang}/tags/${tag}`}
+         class="tag-badge"
+       >
+         #{tag}
+       </a>
+    ))}
+  </div>
+)}

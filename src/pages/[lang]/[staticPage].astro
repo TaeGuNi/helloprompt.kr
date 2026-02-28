@@ -1,0 +1,42 @@
+---
+import { getCollection, render } from "astro:content";
+import { LANGUAGES } from "../../i18n/languages";
+import Layout from "../../layouts/Layout.astro";
+
+const paramLang = Astro.params.lang as string;
+const paramPage = Astro.params.staticPage as string;
+
+// Prevent it from intercepting other valid paths like 'posts' or 'tags'
+if (["posts", "tags", "api"].includes(paramPage)) {
+  return Astro.rewrite("/404");
+}
+
+if (!LANGUAGES.includes(paramLang) || !paramPage) {
+  return Astro.rewrite("/404");
+}
+
+const pages = await getCollection("pages");
+const pageDoc = pages.find((p) => {
+  return p.id === `${paramPage}/index${paramLang}`;
+});
+
+if (!pageDoc) {
+  return Astro.rewrite("/404");
+}
+
+Astro.response.headers.set(
+  "Cache-Control",
+  "public, s-maxage=86400, stale-while-revalidate=604800",
+);
+
+const { Content, headings } = await render(pageDoc);
+---
+
+<Layout
+  frontmatter={{ ...(pageDoc.data as any), lang: paramLang }}
+  headings={headings}
+>
+  <div class="prose max-w-none w-full">
+    <Content />
+  </div>
+</Layout>

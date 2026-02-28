@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"알람 5개 맞춰도 못 일어나는 당신을 위한 기상 작전\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.117Z"
 updatedDate: "2026-02-07T09:10:33.117Z"
 category: "건강 & 웰니스"

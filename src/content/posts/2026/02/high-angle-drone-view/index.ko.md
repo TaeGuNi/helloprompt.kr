@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"전지적 시점 'High Angle' (Drone View) 활용법\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.105Z"
 updatedDate: "2026-02-07T09:10:33.105Z"
 category: "이미지 생성"

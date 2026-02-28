@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"결혼 예산 엑셀: 추가금 폭탄 막는 체크리스트\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.118Z"
 updatedDate: "2026-02-07T09:10:33.118Z"
 category: "재테크 & 투자"

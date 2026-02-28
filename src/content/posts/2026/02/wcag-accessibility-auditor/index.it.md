@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"WCAG 2.2 웹 접근성 감사(Audit) 봇\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 category: "프론트엔드"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "🧠 Die Heilung für KI-Demenz: Der Hardcore-Markdown 'Source of Truth' Cheat-Code"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "업무 자동화"

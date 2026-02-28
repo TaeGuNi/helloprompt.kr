@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"팔리는 제품 이름 짓기: 네이밍 생성기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.131Z"
 updatedDate: "2026-02-07T09:10:33.131Z"
 category: "마케팅/카피라이팅"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"아이와 함께라도 평화로운 가족 여행 일정 짜기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.133Z"
 updatedDate: "2026-02-07T09:10:33.133Z"
 category: "여행 & 문화"

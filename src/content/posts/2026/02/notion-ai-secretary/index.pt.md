@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Secretária de IA do Notion: Classificação de Tarefas Diárias & Auto-Agendamento\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Ferramentas de Produtividade"

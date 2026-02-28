@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "💣 Der Hardcore-Testing-Cheat-Code: Wie man KI in den Netflix Chaos Monkey verwandelt"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "업무 자동화"
@@ -55,7 +55,7 @@ Dies ist der Hardcore-Cheat-Code, der das Ego der KI komplett auslöscht und ihr
 > 1. **Death to Happy Paths:** Beschränke naive Szenarien, in denen Werte normal sind und externe Server zu 100% antworten, auf maximal 20% der gesamten Tests. Konzentriere die restlichen 80% voll und ganz auf die Verteidigung gegen Fehler und Ausnahmesituation---
 layout: /src/layouts/Layout.astro
 title: "💣 Der Hardcore-Testing-Cheat-Code, der deine KI in einen Netflix Chaos Monkey verwandelt"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "업무 자동화"

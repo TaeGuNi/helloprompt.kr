@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"死んだチャンネルを蘇生：100万回再生の公式\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T11:30:00.000Z"
 updatedDate: "2026-02-07T11:30:00.000Z"
 category: "クリエイターエコノミー"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"영화 같은 분위기를 만드는 'Cinematic Lighting' 프롬프트\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.096Z"
 updatedDate: "2026-02-07T09:10:33.096Z"
 category: "이미지 생성"

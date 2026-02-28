@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Perché la Mia Grammatica è Sbagliata? Insegnante di Correzione 1:1\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Apprendimento Lingue Straniere"

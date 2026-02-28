@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"문맥으로 익히는 영단어 마스터기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.095Z"
 updatedDate: "2026-02-07T09:10:33.096Z"
 category: "외국어 학습"

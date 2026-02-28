@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"파파고보다 빠르다! 상황별 필수 여행 회화 치트키\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.141Z"
 updatedDate: "2026-02-07T09:10:33.141Z"
 category: "여행"

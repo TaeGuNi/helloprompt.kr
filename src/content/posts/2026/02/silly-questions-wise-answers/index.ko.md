@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"멍청한 질문에 현명하게 답하기: '개미는 왜 뚠뚠한가요?' (우문현답 생성기)\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.135Z"
 updatedDate: "2026-02-07T09:10:33.135Z"
 category: "창작 및 취미"

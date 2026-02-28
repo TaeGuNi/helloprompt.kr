@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"노코드(Bubble)로 MVP 찍어내기: 개발자 없이 창업하는 법\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-10"
 updatedDate: "2026-02-10"
 category: "창업/기획"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"빈 화면 공포증 탈출: 에세이 개요 설계자\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.135Z"
 updatedDate: "2026-02-07T09:10:33.135Z"
 category: "학습법/자기계발"

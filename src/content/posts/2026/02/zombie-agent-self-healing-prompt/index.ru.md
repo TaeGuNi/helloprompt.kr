@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "Исправляй ошибки сам! 🧟‍♂️ Промпт-чит-код, превращающий ноющего ИИ в Терминатора"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "업무 자동화"

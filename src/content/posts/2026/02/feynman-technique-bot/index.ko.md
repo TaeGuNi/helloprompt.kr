@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"천재처럼 공부하기: 파인만 기법 훈련 봇\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.149Z"
 updatedDate: "2026-02-07T09:10:33.149Z"
 category: "학습법/자기계발"

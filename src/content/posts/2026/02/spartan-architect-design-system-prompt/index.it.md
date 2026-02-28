@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "💀 Il Cheat Code Prompt 'Architetto Senior Spartano' che Distrugge l'Adulazione dell'IA"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "Automazione del Lavoro"

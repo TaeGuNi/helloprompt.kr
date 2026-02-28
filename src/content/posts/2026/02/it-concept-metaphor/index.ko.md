@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"API를 식당에 비유하면? 코딩 개념 비유 자판기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.140Z"
 updatedDate: "2026-02-07T09:10:33.140Z"
 category: "코딩/IT"

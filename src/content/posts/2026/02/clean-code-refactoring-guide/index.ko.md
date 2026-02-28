@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"더러운 코드, 클린 코드로 1초 만에 리팩토링하기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.175Z"
 updatedDate: "2026-02-07T09:10:33.175Z"
 category: "코딩/개발"

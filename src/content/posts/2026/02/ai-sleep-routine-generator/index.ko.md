@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"뇌에게 '잘 시간' 알려주기: AI가 짜주는 기적의 취침 루틴\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.147Z"
 updatedDate: "2026-02-07T09:10:33.148Z"
 category: "건강 & 웰니스"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"인물의 품격을 높이는 'Rembrandt Lighting' 기법\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.171Z"
 updatedDate: "2026-02-07T09:10:33.171Z"
 category: "이미지 생성"

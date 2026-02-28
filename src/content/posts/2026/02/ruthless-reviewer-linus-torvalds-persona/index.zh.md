@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "撕碎AI代码的极致代码审查员人格（Linux之父模式）"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-25"
 updatedDate: "2026-02-25"
 category: "业务自动化"

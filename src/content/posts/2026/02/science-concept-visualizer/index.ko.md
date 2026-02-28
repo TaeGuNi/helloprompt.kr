@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"보이지 않는 개념을 보이게: 개념 시각화 도우미\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.094Z"
 updatedDate: "2026-02-07T09:10:33.095Z"
 category: "수학/과학"

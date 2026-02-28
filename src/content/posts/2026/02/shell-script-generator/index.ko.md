@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"서버 관리의 신, 쉘 스크립트(Shell Script) 자동 생성기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.146Z"
 updatedDate: "2026-02-07T09:10:33.146Z"
 category: "코딩/개발"

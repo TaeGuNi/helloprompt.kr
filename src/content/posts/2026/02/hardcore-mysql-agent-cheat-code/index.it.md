@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "🚨 Il Cheat Code per Trasformare il Tuo Chatbot in uno Spietato DBA MySQL"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "Automazione del Lavoro"

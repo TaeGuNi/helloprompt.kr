@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"이력서 문체 교정: '아마추어' 티를 벗고 '프로'처럼 보이는 법\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.108Z"
 updatedDate: "2026-02-07T09:10:33.108Z"
 category: "취업 & 이직"

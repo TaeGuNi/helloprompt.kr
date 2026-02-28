@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"내 맥북에 AI 심기: Ollama로 Llama 3 8B 돌리는 법 (비공개 데이터 보안)\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-14"
 updatedDate: "2026-02-14"
 category: "개발 가이드"

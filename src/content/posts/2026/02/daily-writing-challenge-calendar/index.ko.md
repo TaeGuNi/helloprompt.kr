@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"매일 글쓰기 챌린지: 30일치 글감 캘린더 자동 생성\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.130Z"
 updatedDate: "2026-02-07T09:10:33.130Z"
 category: "창작 및 취미"

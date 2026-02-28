@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"결정 장애 해결! AI 저녁 메뉴 추천기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.143Z"
 updatedDate: "2026-02-07T09:10:33.143Z"
 category: "일상"

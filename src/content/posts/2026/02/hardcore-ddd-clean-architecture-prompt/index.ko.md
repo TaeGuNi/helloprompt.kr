@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "스파게티 코드는 사절한다: AI를 시니어 개발자로 멱살 잡고 끌어올리는 DDD 치트키 🤬"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "업무 자동화"

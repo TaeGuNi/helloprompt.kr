@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"엑셀 민감도 분석: '만약에' 시나리오 완벽 대비\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.172Z"
 updatedDate: "2026-02-07T09:10:33.172Z"
 category: "업무 자동화"

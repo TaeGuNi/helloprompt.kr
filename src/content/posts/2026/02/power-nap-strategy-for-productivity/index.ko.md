@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"커피보다 강력하다! 오후의 생산성을 2배 높이는 '파워 낮잠' 전략\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.116Z"
 updatedDate: "2026-02-07T09:10:33.116Z"
 category: "건강 & 웰니스"

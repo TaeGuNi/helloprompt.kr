@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"작심삼일 방지: AI 1:1 학습 매니저\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.179Z"
 updatedDate: "2026-02-07T09:10:33.180Z"
 category: "학습법/자기계발"

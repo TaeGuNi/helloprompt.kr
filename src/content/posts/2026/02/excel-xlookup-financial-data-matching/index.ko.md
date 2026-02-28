@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"엑셀 VLOOKUP은 잊으세요: 재무 데이터 매칭의 신, XLOOKUP\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.152Z"
 updatedDate: "2026-02-07T09:10:33.153Z"
 category: "업무 자동화"

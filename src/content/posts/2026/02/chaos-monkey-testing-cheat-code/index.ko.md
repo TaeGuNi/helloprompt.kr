@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "💣 AI를 넷플릭스 카오스 몽키로 빙의시키는 하드코어 테스트 치트키"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "업무 자동화"

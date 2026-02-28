@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"키토제닉(저탄고지) 다이어트, AI와 함께 완벽하게 시작하기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.151Z"
 updatedDate: "2026-02-07T09:10:33.152Z"
 category: "건강 & 웰니스"

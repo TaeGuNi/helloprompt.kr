@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"수포자 구원 투수: 친절한 수학 문제 해설기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.156Z"
 updatedDate: "2026-02-07T09:10:33.156Z"
 category: "수학/과학"

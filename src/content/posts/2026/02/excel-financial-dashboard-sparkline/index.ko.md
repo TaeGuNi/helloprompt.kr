@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"엑셀 재무 대시보드: 숫자 말고 그림으로 보고하라\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.090Z"
 updatedDate: "2026-02-07T09:10:33.091Z"
 category: "업무 자동화"

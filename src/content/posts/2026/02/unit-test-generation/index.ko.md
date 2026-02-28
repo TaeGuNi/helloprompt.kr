@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"테스트 코드 짜기 귀찮죠? AI가 대신 짜드립니다\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.112Z"
 updatedDate: "2026-02-07T09:10:33.112Z"
 category: "개발"

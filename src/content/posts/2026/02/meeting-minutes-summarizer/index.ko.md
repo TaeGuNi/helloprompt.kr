@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"두서없는 회의록, 깔끔하게 요약 정리하기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.152Z"
 updatedDate: "2026-02-07T09:10:33.152Z"
 category: "업무 자동화"

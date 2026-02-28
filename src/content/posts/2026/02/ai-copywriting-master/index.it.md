@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Copywriting: Crea Titoli 'Acchiappa-Click' in 1 Secondo con GPT\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "Business/Marketing"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"돈은 땅파서 나오나? 아이에게 경제관념 심어주기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.162Z"
 updatedDate: "2026-02-07T09:10:33.162Z"
 category: "육아 & 교육"

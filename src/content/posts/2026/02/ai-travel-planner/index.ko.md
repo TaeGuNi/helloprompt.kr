@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"여행 계획 자동화: MBTI 'P'형을 위한 1분 무계획 여행 가이드\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "여행/라이프"

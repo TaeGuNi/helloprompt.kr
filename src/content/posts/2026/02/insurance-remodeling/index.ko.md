@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"보험 다이어트: 중복 보장 찾고 보험료 반토막 내기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.106Z"
 updatedDate: "2026-02-07T09:10:33.107Z"
 category: "재테크 & 투자"

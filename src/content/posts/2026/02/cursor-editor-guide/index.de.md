@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Cursor 에디터 200% 활용법: 아직도 VS Code 쓰세요?\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-10"
 updatedDate: "2026-02-10"
 category: "개발/코딩"

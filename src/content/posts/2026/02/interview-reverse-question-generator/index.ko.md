@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"면접 마지막 필살기! 면접관에게 할 '역질문' 생성기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.132Z"
 updatedDate: "2026-02-07T09:10:33.132Z"
 category: "취업 & 이직"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"작심삼일 탈출! AI와 함께하는 30일 홈트 챌린지\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.108Z"
 updatedDate: "2026-02-07T09:10:33.108Z"
 category: "건강 & 웰니스"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Krisenmanagement 101: Wie man professionelle Entschuldigungsschreiben verfasst\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Geschäftskorrespondenz"

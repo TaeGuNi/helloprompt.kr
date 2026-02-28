@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"현지 힙스터들이 가는 라이브 바 & 재즈 클럽 찾기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.163Z"
 updatedDate: "2026-02-07T09:10:33.163Z"
 category: "여행 & 문화"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "Conserte os Erros Sozinho! 🧟‍♂️ O Prompt Definitivo para Transformar uma IA Choramingas num Exterminador"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "업무 자동화"

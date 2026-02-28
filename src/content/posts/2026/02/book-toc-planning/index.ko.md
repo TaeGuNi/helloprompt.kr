@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"나도 작가가 될 수 있다? 팔리는 책 목차 기획하기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.137Z"
 updatedDate: "2026-02-07T09:10:33.137Z"
 category: "글쓰기"

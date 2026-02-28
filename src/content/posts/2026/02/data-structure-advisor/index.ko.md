@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"List? Map? Set? 결정 장애를 위한 자료구조 처방전\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.107Z"
 updatedDate: "2026-02-07T09:10:33.108Z"
 category: "코딩/개발"

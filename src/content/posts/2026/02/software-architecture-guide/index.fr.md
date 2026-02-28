@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Conception d'Architecture Système : Microservices vs Monolithique, Il N'y a Pas de Mauvaise Réponse\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "백엔드/DB"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"AIが愚かな答えを返すとき：「思考の連鎖 (CoT)」を使う\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
 category: "プロンプトエンジニアリング"

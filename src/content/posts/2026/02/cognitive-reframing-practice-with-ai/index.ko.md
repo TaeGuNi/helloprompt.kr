@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"부정적인 생각 멈춰! AI와 함께하는 인지 재구성(Reframing) 연습\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.174Z"
 updatedDate: "2026-02-07T09:10:33.175Z"
 category: "건강 & 웰니스"

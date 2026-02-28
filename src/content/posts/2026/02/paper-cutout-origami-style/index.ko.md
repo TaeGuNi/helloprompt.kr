@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"종이의 질감 'Paper Cutout & Origami' 스타일\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.175Z"
 updatedDate: "2026-02-07T09:10:33.176Z"
 category: "이미지 생성"

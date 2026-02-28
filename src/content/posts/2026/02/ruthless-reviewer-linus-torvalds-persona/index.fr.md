@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "Le Persona Ultime de Révision de Code qui Déchire le Code IA (Mode Créateur de Linux)"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-25"
 updatedDate: "2026-02-25"
 category: "Automatisation des Tâches"

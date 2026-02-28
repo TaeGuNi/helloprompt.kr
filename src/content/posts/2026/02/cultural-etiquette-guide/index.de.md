@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Großer Ärger, wenn Sie einen Fehler machen! KI Länderspezifischer Kultur- & Etikette-Führer\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Reisen"

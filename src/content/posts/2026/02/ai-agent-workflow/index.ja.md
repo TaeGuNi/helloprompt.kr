@@ -1,6 +1,6 @@
 ---
 title: " \"AIエージェントワークフロー：チャットボットを超えて行動するAIへ\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "生産性"

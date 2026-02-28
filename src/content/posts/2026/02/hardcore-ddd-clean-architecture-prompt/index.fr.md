@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "Pas de code spaghetti : le cheat code DDD pour transformer votre IA en développeur senior 🤬"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "업무 자동화"

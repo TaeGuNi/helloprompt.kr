@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Excel бюджет свадьбы: Чек-лист для предотвращения бомбы дополнительных расходов\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Финансы и Инвестиции"

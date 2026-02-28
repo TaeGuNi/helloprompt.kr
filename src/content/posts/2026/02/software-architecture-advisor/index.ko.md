@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"스파게티 코드는 이제 그만! 내 프로젝트에 딱 맞는 아키텍처 추천\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.129Z"
 updatedDate: "2026-02-07T09:10:33.129Z"
 category: "코딩/개발"

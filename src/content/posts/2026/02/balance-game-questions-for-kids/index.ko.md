@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"무한 밸런스 게임: 아이와 대화가 끊이지 않는 법\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.097Z"
 updatedDate: "2026-02-07T09:10:33.097Z"
 category: "육아 & 교육"

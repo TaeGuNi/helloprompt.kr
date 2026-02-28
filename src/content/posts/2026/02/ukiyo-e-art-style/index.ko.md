@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"일본 목판화의 매력 'Ukiyo-e' 스타일\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.147Z"
 updatedDate: "2026-02-07T09:10:33.147Z"
 category: "이미지 생성"

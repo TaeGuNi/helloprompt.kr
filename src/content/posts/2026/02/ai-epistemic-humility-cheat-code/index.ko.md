@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "🤖 AI의 헛소리를 박살내는 절대 헌법: '인식론적 겸손' 치트키"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "업무 자동화"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"면접의 첫 단추, 매력적인 '1분 자기소개' 작성 프롬프트\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.145Z"
 updatedDate: "2026-02-07T09:10:33.145Z"
 category: "취업 & 이직"

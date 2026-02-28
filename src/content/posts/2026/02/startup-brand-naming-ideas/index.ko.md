@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"스타트업/브랜드 네이밍: 기억에 남는 이름 만들기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.091Z"
 updatedDate: "2026-02-07T09:10:33.091Z"
 category: "창작 및 취미"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"노후 자금 계산기: 내 은퇴 준비 점수는?\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.143Z"
 updatedDate: "2026-02-07T09:10:33.143Z"
 category: "재테크 & 투자"

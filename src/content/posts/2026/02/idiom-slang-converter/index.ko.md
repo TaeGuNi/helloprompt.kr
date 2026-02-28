@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"미드 주인공처럼 말하기: 이디엄 & 슬랭 자판기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.147Z"
 updatedDate: "2026-02-07T09:10:33.147Z"
 category: "외국어 학습"

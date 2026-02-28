@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"방구석 원어민 회화 파트너 (무료)\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.100Z"
 updatedDate: "2026-02-07T09:10:33.100Z"
 category: "외국어 학습"

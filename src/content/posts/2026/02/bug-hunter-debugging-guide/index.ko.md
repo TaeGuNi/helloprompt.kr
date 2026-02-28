@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"원인을 알 수 없는 버그, AI 탐정에게 맡기세요\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.092Z"
 updatedDate: "2026-02-07T09:10:33.092Z"
 category: "코딩/개발"

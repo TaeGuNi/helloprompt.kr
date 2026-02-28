@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"거절할 수 없는 제안서 아웃라인 만들기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.164Z"
 updatedDate: "2026-02-07T09:10:33.164Z"
 category: "업무 자동화"

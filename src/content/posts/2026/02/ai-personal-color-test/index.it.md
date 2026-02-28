@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"AI 퍼스널 컬러 진단: 사진 한 장으로 웜톤/쿨톤 찾기\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "라이프/뷰티"

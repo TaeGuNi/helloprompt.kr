@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"AI 포트폴리오 리밸런싱: 황금 비율 찾기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.133Z"
 updatedDate: "2026-02-07T09:10:33.133Z"
 category: "재테크 & 투자"

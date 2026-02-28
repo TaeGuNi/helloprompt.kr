@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"편지 대필 서비스: 짝사랑 고백부터 정중한 거절까지\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.125Z"
 updatedDate: "2026-02-07T09:10:33.125Z"
 category: "창작 및 취미"

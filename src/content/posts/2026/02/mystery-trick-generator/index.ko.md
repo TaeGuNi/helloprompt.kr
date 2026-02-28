@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"미스터리 추리 게임: 범인과 트릭 생성 (Mystery Trick Generator)\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.159Z"
 updatedDate: "2026-02-07T09:10:33.159Z"
 category: "창작 및 취미"

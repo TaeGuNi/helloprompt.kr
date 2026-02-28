@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Schwieriges Geldgespräch, Höflicher aber Fester 'Gehaltserhöhungs-Anfrage-E-Mail'-Schreiber\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Karriere"

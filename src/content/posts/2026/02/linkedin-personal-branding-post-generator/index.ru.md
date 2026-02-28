@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Генератор постов для личного бренда в LinkedIn: превращаем ежедневную работу в инсайты\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Карьера и смена работы"

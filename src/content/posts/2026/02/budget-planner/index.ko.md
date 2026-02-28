@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"월급 로그아웃 방지: AI 가계부 플래너\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.156Z"
 updatedDate: "2026-02-07T09:10:33.156Z"
 category: "재테크 & 투자"

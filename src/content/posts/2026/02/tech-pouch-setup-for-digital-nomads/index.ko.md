@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"일과 여행을 동시에! 디지털 노마드를 위한 테크 파우치 셋업\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.168Z"
 updatedDate: "2026-02-07T09:10:33.168Z"
 category: "여행 & 문화"

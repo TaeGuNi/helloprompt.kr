@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"기업 재무제표 초고속 분석 프롬프트\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.151Z"
 updatedDate: "2026-02-07T09:10:33.151Z"
 category: "재테크 & 투자"

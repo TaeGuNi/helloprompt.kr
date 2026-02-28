@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Quando l'IA agisce in modo stupido: Usa la 'Catena di Pensiero (CoT)'\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
 category: "Prompt Engineering"

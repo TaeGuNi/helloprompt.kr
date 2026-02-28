@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "スパゲッティコードはお断り！🍝 シニアエンジニアの黒魔術 DDDプロンプト"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "業務自動化"

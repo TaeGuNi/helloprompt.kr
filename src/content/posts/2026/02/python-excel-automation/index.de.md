@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Python-Automatisierungsskript: Lästige Excel-Konsolidierung in 1 Sekunde\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "Arbeitsautomatisierung"

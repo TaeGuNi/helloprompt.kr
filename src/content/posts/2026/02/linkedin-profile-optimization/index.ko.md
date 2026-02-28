@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"헤드헌터가 줄을 서는 '링크드인(LinkedIn)' 프로필 최적화 프롬프트\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.166Z"
 updatedDate: "2026-02-07T09:10:33.166Z"
 category: "취업 & 이직"

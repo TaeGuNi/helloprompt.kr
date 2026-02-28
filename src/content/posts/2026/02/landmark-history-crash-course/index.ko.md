@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"아는 만큼 보인다! 3분 만에 끝내는 랜드마크 역사 속성 과외\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.145Z"
 updatedDate: "2026-02-07T09:10:33.146Z"
 category: "여행 & 문화"

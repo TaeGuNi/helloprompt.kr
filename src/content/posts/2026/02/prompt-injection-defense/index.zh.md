@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"내 AI 서비스 지키기: 프롬프트 인젝션 방어 가이드 (실전 예제)\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-14"
 updatedDate: "2026-02-14"
 category: "보안"

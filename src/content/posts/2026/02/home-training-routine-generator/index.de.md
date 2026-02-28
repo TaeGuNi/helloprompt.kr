@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"KI-Heimtrainings-Routinen-Generator, um fit zu werden, ohne ins Fitnessstudio zu gehen\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Gesundheit"

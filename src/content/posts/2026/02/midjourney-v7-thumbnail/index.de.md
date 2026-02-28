@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Midjourney v7 Praxis: 'Blog-Thumbnail' Formel für Nicht-Designer\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "KI-Kunst/Design"

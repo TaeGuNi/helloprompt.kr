@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"채용 공고(JD), 지원자가 몰리게 쓰기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.139Z"
 updatedDate: "2026-02-07T09:10:33.139Z"
 category: "업무 자동화"

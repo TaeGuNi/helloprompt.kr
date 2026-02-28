@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Generador de Rutinas de Entrenamiento en Casa con IA para Ponerse en Forma Sin Ir al Gimnasio\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salud"

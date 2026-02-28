@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "AI 코드를 찢어발기는 극강의 코드 리뷰어 페르소나 (리눅스 창시자 모드)"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-25"
 updatedDate: "2026-02-25"
 category: "업무 자동화"

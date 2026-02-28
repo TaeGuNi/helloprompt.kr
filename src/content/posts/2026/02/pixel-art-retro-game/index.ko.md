@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"도트로 찍은 세상 'Pixel Art' 레트로 감성\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.166Z"
 updatedDate: "2026-02-07T09:10:33.166Z"
 category: "이미지 생성"

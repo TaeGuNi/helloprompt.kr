@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"몬스터 생태 보고서: 나만의 크리처 창조하기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.146Z"
 updatedDate: "2026-02-07T09:10:33.147Z"
 category: "창작 및 취미"

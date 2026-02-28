@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"면접관 빙의한 AI와 함께하는 '실전 모의 면접' 시뮬레이션\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.143Z"
 updatedDate: "2026-02-07T09:10:33.143Z"
 category: "취업 & 이직"

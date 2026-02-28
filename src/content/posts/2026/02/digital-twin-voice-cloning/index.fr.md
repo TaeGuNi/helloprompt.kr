@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"내 말투를 그대로 따라하는 AI '디지털 트윈' 만들기\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "퍼스널 브랜딩"
@@ -114,7 +114,7 @@ La clé de la réussite de ce prompt réside dans la **'Qualité des données' (
 Bonjour. Aujourd'hui, nous allons examiner l'importance de la marque personnelle. La marque personnelle est un élément crucial dans la société moderne. Je vous encourage vivement à construire votre propre présence en ligne pour réussir.
 ```
 
-### ✅ Après (Avec le prompt du Jumeau Numérique - Version ZZabbis)
+### ✅ Après (Avec le prompt du Jumeau Numérique - Version Jay)
 
 ```text
 Tout le monde sait que le personal branding c'est crucial, non ? Mais quand il s'agit de s'y mettre, c'est la flemme totale et on ne sait pas par où commencer. 😅

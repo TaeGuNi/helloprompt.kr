@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"AI 영양사: 나만의 맞춤형 일주일 식단표 짜기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.141Z"
 updatedDate: "2026-02-07T09:10:33.141Z"
 category: "건강 & 웰니스"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"NBC 올림픽 피겨스케이팅 트렌드: 1분 만에 바이럴 스포츠 콘텐츠 쓰기\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "콘텐츠 제작"

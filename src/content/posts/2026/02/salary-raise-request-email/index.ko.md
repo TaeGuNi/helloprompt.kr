@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"현 직장에서 연봉 올리기: '연봉 인상 요청' 이메일 작성법\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.144Z"
 updatedDate: "2026-02-07T09:10:33.144Z"
 category: "취업 & 이직"

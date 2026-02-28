@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"한눈에 들어오는 KPI 대시보드 기획하기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.119Z"
 updatedDate: "2026-02-07T09:10:33.119Z"
 category: "업무 자동화"

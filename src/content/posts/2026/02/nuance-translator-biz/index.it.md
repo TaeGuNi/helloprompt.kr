@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Traduzione Oltre il Traduttore: Correggere le 'Sfumature' (Inglese Commerciale)\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Lingua/Traduzione"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"엑셀, JSON, CSV... 데이터 포맷 변환 노가다 탈출\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.178Z"
 updatedDate: "2026-02-07T09:10:33.178Z"
 category: "코딩/개발"

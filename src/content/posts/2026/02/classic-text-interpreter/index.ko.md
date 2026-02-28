@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"사료(史料) 읽어주는 AI: 고전 텍스트 해석기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.119Z"
 updatedDate: "2026-02-07T09:10:33.119Z"
 category: "인문/역사"

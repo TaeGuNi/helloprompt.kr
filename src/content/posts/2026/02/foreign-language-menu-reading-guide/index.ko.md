@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"기념품 사는 대신 만들어보자! 전통 공예 원데이 클래스 찾기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.138Z"
 updatedDate: "2026-02-07T09:10:33.138Z"
 category: "여행 & 문화"

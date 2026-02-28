@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "Não Aceitamos Código Espaguete! 🍝 O Prompt Mágico de DDD do Desenvolvedor Sênior"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "업무 자동화"

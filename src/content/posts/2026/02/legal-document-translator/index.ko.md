@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"외계어 같은 법률 용어, 초등학생도 알게 번역하기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.171Z"
 updatedDate: "2026-02-07T09:10:33.171Z"
 category: "생활"

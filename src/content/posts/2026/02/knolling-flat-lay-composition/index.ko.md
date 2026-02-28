@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"정리 정돈의 미학 'Knolling' 스타일\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.170Z"
 updatedDate: "2026-02-07T09:10:33.170Z"
 category: "이미지 생성"

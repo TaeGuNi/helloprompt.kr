@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"구구절절한 고객 피드백, 긍정/부정 분석하기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.145Z"
 updatedDate: "2026-02-07T09:10:33.145Z"
 category: "업무 자동화"

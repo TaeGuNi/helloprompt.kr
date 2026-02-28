@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"내 말투를 그대로 따라하는 AI '디지털 트윈' 만들기\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "퍼스널 브랜딩"
@@ -114,7 +114,7 @@ El éxito o fracaso de este prompt depende de un factor clave: **'La Calidad de 
 Hola a todos. Hoy vamos a explorar la importancia de la marca personal. La marca personal es un elemento crucial en la sociedad moderna. Les recomiendo encarecidamente que construyan su propia marca.
 ```
 
-### ✅ Después (Aplicando el prompt del Gemelo Digital - Versión ZZabbis)
+### ✅ Después (Aplicando el prompt del Gemelo Digital - Versión Jay)
 
 ```text
 ¿Todos sabemos que la marca personal es clave, verdad? Pero a la hora de la verdad, da pereza y no sabes por dónde empezar. 😅

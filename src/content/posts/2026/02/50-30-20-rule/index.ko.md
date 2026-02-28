@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"돈 관리의 황금 비율: 50/30/20 법칙 계산기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.138Z"
 updatedDate: "2026-02-07T09:10:33.138Z"
 category: "재테크 & 투자"

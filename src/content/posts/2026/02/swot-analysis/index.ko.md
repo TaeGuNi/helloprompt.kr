@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"기업 분석의 정석: AI SWOT 분석기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.167Z"
 updatedDate: "2026-02-07T09:10:33.167Z"
 category: "재테크 & 투자"

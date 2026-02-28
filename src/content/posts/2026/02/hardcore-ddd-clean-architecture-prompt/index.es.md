@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "No aceptamos código espagueti: El código de trucos DDD para convertir a la IA en un desarrollador senior a la fuerza 🤬"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "업무 자동화"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"웅장함을 더하는 'Low Angle' (Worm's Eye View)\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.165Z"
 updatedDate: "2026-02-07T09:10:33.165Z"
 category: "이미지 생성"

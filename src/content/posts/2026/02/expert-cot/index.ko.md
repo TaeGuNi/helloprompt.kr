@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " 'AI가 자꾸 멍청한 답을 할 때: \"생각의 사슬(CoT)\" 걸기'"
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.163Z"
 updatedDate: "2026-02-07T09:10:33.163Z"
 category: "프롬프트 엔지니어링"

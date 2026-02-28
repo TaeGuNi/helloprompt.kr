@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"떼쓰는 아이 진정시키는 '공감 대화' 스크립트\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.154Z"
 updatedDate: "2026-02-07T09:10:33.154Z"
 category: "육아 & 교육"

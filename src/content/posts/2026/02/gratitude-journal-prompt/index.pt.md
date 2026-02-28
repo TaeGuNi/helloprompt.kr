@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Cuidados Mentais Diários de 5 Minutos, Diário de Gratidão IA e Prompt de Retrospectiva\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vida Diária"

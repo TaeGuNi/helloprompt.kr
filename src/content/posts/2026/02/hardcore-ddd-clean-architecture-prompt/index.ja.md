@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "スパゲッティコードはお断り：AIの胸倉を掴んでシニア開発者へと引き上げるDDDチートキー 🤬"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "업무 자동화"

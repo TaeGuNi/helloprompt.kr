@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"사무실 의자에서 몰래 하는 거북목 & 허리 통증 탈출 운동\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.130Z"
 updatedDate: "2026-02-07T09:10:33.131Z"
 category: "건강 & 웰니스"

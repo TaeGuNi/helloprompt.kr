@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"도커(Docker) 환경 구축, 설정 파일 하나로 3분 컷\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.157Z"
 updatedDate: "2026-02-07T09:10:33.157Z"
 category: "코딩/개발"

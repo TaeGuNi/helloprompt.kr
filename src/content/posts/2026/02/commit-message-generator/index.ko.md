@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " '\"커밋 메시지 추천 좀\" 고민 끝! Conventional Commits 자동 생성'"
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.123Z"
 updatedDate: "2026-02-07T09:10:33.123Z"
 category: "코딩/개발"

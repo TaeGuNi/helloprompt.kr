@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"형제 자매 싸움 중재: 솔로몬의 지혜 프롬프트\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.172Z"
 updatedDate: "2026-02-07T09:10:33.172Z"
 category: "육아 & 교육"

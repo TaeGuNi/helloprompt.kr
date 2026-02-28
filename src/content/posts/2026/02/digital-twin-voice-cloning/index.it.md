@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"내 말투를 그대로 따라하는 AI '디지털 트윈' 만들기\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "퍼스널 브랜딩"
@@ -114,7 +114,7 @@ Il segreto per il successo di questo prompt risiede nella **'Qualità dei Dati (
 Salve a tutti. Oggi esploreremo l'importanza del personal branding. Il personal branding è un elemento cruciale nella società moderna. Vi incoraggio caldamente a costruire il vostro marchio personale.
 ```
 
-### ✅ After (Applicando il prompt del Gemello Digitale - Stile ZZabbis)
+### ✅ After (Applicando il prompt del Gemello Digitale - Stile Jay)
 
 ```text
 Sappiamo tutti quanto sia importante il personal branding, giusto? Ma quando si tratta di iniziare, la pigrizia prende il sopravvento e non si sa da dove partire. 😅

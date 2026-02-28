@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"강렬한 실루엣 'Backlighting' 역광 활용법\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.135Z"
 updatedDate: "2026-02-07T09:10:33.136Z"
 category: "이미지 생성"

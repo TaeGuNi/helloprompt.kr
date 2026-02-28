@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"산업 트렌드 분석: 뜨는 시장 찾기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.131Z"
 updatedDate: "2026-02-07T09:10:33.131Z"
 category: "재테크 & 투자"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"귀여운 미니어처 세상 'Isometric View' 프롬프트\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.127Z"
 updatedDate: "2026-02-07T09:10:33.127Z"
 category: "이미지 생성"

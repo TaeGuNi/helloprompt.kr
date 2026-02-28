@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "스파게티 코드는 사절한다! 🍝 시니어 개발자의 흑마법 DDD 프롬프트"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "업무 자동화"

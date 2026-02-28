@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"추론 모델(Reasoning Model)을 위한 CoT 최적화 프롬프트\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 category: "개발 생산성"

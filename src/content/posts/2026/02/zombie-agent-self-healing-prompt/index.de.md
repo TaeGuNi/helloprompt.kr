@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "Lös deine Fehler selbst! 🧟‍♂️ Der Cheat-Code, der heulende KIs in Terminatoren verwandelt"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "업무 자동화"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "拒绝面条代码：用DDD作弊码揪住AI衣领，强行拔高至资深架构师 🤬"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "工作自动化"

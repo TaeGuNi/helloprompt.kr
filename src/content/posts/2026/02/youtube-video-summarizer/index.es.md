@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Resumidor de YouTube en 3 Segundos: Cómo Leer un Video de 1 Hora en Texto\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "Herramientas de Productividad"

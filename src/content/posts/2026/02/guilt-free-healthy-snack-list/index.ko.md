@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"입 터짐 방지! AI가 추천하는 죄책감 없는 건강 간식 리스트\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.158Z"
 updatedDate: "2026-02-07T09:10:33.158Z"
 category: "건강 & 웰니스"

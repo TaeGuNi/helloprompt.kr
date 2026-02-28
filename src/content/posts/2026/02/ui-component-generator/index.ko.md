@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"프론트엔드 컴포넌트, 디자인만 설명하면 코드 완성\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.142Z"
 updatedDate: "2026-02-07T09:10:33.142Z"
 category: "코딩/개발"

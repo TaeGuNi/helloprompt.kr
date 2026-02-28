@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"5살 아이에게 '하늘은 왜 파래?' 설명하기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.166Z"
 updatedDate: "2026-02-07T09:10:33.166Z"
 category: "육아 & 교육"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"완벽한 균형미 'Symmetrical Composition' (대칭 구도)\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.132Z"
 updatedDate: "2026-02-07T09:10:33.132Z"
 category: "이미지 생성"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"소설 플롯 생성기: 꽉 막힌 스토리, '기승전결' 뚫어뻥\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "크리에이티브/예술"

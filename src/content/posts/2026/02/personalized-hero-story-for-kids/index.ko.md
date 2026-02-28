@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"우리 아이가 주인공인 영웅 동화 만들기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.146Z"
 updatedDate: "2026-02-07T09:10:33.146Z"
 category: "육아 & 교육"

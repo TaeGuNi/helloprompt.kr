@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"날것의 데이터에서 인사이트 뽑아내기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.112Z"
 updatedDate: "2026-02-07T09:10:33.112Z"
 category: "업무 자동화"

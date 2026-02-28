@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Rispondere Saggiamente a Domande Stupide: 'Perché le Formiche Sono Cicciottelle?' (Generatore Risposte Sagge)\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creazione & Hobby"

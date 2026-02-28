@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "여기에 제목을 입력하세요"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-10"
 updatedDate: "2026-02-10"
 category: "업무 자동화"

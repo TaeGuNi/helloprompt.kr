@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Traduction Au-delà du Traducteur : Corriger la 'Nuance' (Anglais des Affaires)\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Langue/Traduction"

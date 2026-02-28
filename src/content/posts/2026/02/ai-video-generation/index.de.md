@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Sora vs Runway Gen-4: 텍스트로 영상 만들기, 어디까지 왔나?\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-14"
 updatedDate: "2026-02-14"
 category: "크리에이티브"

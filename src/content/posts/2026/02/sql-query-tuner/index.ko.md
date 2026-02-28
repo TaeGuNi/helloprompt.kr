@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"느려터진 SQL 쿼리, 3초 만에 튜닝하는 비법\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.179Z"
 updatedDate: "2026-02-07T09:10:33.179Z"
 category: "코딩/개발"

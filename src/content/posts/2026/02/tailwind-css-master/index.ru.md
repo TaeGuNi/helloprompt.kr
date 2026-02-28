@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Tailwind CSS 마스터: 클래스명 외우지 마세요 (치트시트 없이 코딩하기)\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "개발/코딩"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"교훈이 있는 이야기: '나눔'과 '배려' 배우기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.134Z"
 updatedDate: "2026-02-07T09:10:33.134Z"
 category: "육아 & 교육"

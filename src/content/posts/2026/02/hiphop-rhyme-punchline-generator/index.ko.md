@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"힙합 라임 노트: 펀치라인 자동 생성 프롬프트\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.129Z"
 updatedDate: "2026-02-07T09:10:33.129Z"
 category: "창작 및 취미"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"일기를 에세이로 바꾸는 마법: 평범한 일상에 의미 부여하기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.115Z"
 updatedDate: "2026-02-07T09:10:33.116Z"
 category: "창작 및 취미"

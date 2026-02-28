@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "拒绝面条代码！🍝 资深开发者的黑魔法 DDD 提示词"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "업무 자동화"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"약 없이 불면증 고치는 AI 인지행동치료(CBT-I) 프롬프트\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.153Z"
 updatedDate: "2026-02-07T09:10:33.153Z"
 category: "건강 & 웰니스"

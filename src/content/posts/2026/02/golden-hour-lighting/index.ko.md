@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"가장 아름다운 시간 'Golden Hour' 조명 활용법\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.109Z"
 updatedDate: "2026-02-07T09:10:33.109Z"
 category: "이미지 생성"

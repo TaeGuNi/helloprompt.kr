@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"귀찮은 API 문서화, 코드만 주면 Swagger가 뚝딱\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.165Z"
 updatedDate: "2026-02-07T09:10:33.165Z"
 category: "코딩/개발"

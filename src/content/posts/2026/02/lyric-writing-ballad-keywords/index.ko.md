@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"작사가 데뷔? 키워드 3개로 감성 발라드 가사 쓰기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.158Z"
 updatedDate: "2026-02-07T09:10:33.158Z"
 category: "창작 및 취미"

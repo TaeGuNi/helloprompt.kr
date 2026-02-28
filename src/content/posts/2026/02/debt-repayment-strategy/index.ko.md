@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"빚 탈출 시뮬레이터: 가장 빠른 상환 전략\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.136Z"
 updatedDate: "2026-02-07T09:10:33.136Z"
 category: "재테크 & 투자"

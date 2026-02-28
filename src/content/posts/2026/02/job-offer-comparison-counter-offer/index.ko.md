@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"이직 오퍼(Offer) 비교 및 '카운터 오퍼' 전략 프롬프트\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.122Z"
 updatedDate: "2026-02-07T09:10:33.122Z"
 category: "취업 & 이직"

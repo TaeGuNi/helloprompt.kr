@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"팁, 줘야 해 말아야 해? 전 세계 팁 문화 정복하기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.111Z"
 updatedDate: "2026-02-07T09:10:33.112Z"
 category: "여행 & 문화"

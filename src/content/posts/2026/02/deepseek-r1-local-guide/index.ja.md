@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"DeepSeek R1 ローカルインストール: PCに無料のコーディング奴隷を飼う方法\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "開発・コーディング"

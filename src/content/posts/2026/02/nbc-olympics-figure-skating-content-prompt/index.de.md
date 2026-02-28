@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"NBC Olympics Eiskunstlauf-Trend: Viralen Sport-Content in 1 Minute schreiben\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "Content-Erstellung"

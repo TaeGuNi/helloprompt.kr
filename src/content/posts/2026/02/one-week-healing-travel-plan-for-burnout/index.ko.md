@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"번아웃 탈출! 온전히 나만을 위한 1주일 힐링 여행 계획\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.169Z"
 updatedDate: "2026-02-07T09:10:33.169Z"
 category: "여행 & 문화"

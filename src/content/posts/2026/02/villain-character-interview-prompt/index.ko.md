@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"입체적인 악당 만들기: 3단계 심층 인터뷰 프롬프트\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.164Z"
 updatedDate: "2026-02-07T09:10:33.164Z"
 category: "창작 및 취미"

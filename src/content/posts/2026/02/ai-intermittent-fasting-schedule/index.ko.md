@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"AI로 간헐적 단식(Intermittent Fasting) 성공률 200% 높이기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.103Z"
 updatedDate: "2026-02-07T09:10:33.104Z"
 category: "건강 & 웰니스"

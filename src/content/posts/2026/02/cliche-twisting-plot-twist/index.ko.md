@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"클리셰 비틀기: 뻔한 엔딩을 충격 반전으로\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.172Z"
 updatedDate: "2026-02-07T09:10:33.172Z"
 category: "창작 및 취미"

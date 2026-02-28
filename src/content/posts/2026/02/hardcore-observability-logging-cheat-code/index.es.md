@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "💀 Erradicando las Tonterías de la IA: El Truco Definitivo de Observabilidad Hardcore"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "Ingeniería de Prompts"

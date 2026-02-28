@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"혼자 떠나는 배낭여행: 안전하고 알찬 루트 설계법\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.150Z"
 updatedDate: "2026-02-07T09:10:33.150Z"
 category: "여행 & 문화"

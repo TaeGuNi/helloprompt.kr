@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Fuja do Inferno das Reuniões: Da Gravação à Ata e E-mail em 3 Minutos\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Automação de Trabalho"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"내 말투를 그대로 따라하는 AI '디지털 트윈' 만들기\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "퍼스널 브랜딩"
@@ -114,7 +114,7 @@ Der entscheidende Faktor für den Erfolg dieses Prompts ist die **'Qualität der
 Hallo zusammen. Heute werden wir die Bedeutung des Personal Brandings untersuchen. Personal Branding ist in der modernen Gesellschaft ein äußerst wichtiger Faktor. Ich empfehle Ihnen dringend, Ihre eigene Marke aufzubauen.
 ```
 
-### ✅ Nachher (Mit dem Digital Twin Prompt - ZZabbis Ver.)
+### ✅ Nachher (Mit dem Digital Twin Prompt - Jay Ver.)
 
 ```text
 Ihr wisst ja alle, wie wichtig Personal Branding ist, oder? Aber wenn man dann mal anfangen will, ist es einfach nur nervig und man weiß nicht, wo einem der Kopf steht. 😅

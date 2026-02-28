@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"유튜브 쇼츠 공장: 주제만 주면 대본+장면 묘사 30초 컷\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "콘텐츠 크리에이팅"

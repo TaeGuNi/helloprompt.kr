@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"하루 5분 멘탈 케어, AI 감사 일기 및 회고 프롬프트\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.093Z"
 updatedDate: "2026-02-07T09:10:33.094Z"
 category: "일상"

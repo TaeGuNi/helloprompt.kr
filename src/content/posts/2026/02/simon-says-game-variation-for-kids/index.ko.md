@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"변형 '사이먼 세이즈' (그대로 멈춰라): 청각 주의력 훈련\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.151Z"
 updatedDate: "2026-02-07T09:10:33.151Z"
 category: "육아 & 교육"

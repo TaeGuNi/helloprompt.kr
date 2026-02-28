@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"투자 타당성 분석: NPV와 IRR 자동 계산 엑셀\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.103Z"
 updatedDate: "2026-02-07T09:10:33.103Z"
 category: "업무 자동화"

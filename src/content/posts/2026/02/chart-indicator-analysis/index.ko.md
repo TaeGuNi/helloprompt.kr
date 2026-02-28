@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"차트 보조지표 해석기: 매수 타이밍 포착\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.155Z"
 updatedDate: "2026-02-07T09:10:33.155Z"
 category: "재테크 & 투자"

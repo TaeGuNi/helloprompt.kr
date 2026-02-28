@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"여행 경비 견적서: 예산 초과 없는 완벽 플랜\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.089Z"
 updatedDate: "2026-02-07T09:10:33.090Z"
 category: "재테크 & 투자"

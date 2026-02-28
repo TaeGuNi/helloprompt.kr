@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"JSON만 던지면 TypeScript 타입 정의가 짠! (feat. Zod)\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.144Z"
 updatedDate: "2026-02-07T09:10:33.144Z"
 category: "코딩/개발"

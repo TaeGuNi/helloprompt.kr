@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Fuga dall'Inferno delle Riunioni: Da Registrazione a Verbale + Email in 3 Min\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Automazione Lavorativa"

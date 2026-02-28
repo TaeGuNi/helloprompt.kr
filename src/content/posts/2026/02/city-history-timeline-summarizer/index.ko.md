@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"한 장으로 끝내는 도시 역사 타임라인 요약기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.144Z"
 updatedDate: "2026-02-07T09:10:33.144Z"
 category: "여행 & 문화"

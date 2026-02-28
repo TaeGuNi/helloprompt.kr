@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"실수하면 큰일 나요! AI 국가별 문화 & 에티켓 가이드\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.130Z"
 updatedDate: "2026-02-07T09:10:33.130Z"
 category: "여행"

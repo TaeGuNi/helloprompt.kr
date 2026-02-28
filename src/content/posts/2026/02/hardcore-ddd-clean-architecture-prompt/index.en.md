@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "No More Spaghetti Code: The DDD Cheat Code to Forcibly Upgrade AI into a Senior Architect 🤬"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "업무 자동화"

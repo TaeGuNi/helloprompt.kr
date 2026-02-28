@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"나도 몰랐던 내 마음을 발견하는 AI 일기 쓰기 프롬프트\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.161Z"
 updatedDate: "2026-02-07T09:10:33.161Z"
 category: "건강 & 웰니스"

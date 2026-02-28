@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"흐름이 한눈에: 역사 연표 생성기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.173Z"
 updatedDate: "2026-02-07T09:10:33.173Z"
 category: "인문/역사"

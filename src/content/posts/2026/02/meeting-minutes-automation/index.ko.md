@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"회의록 지옥 탈출: 녹음만 하면 요약+할일+이메일까지 3분 컷\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "업무 자동화"

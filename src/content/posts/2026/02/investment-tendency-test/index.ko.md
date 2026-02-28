@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"내 투자 성향 테스트: 쫄보인가 야수인가?\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.118Z"
 updatedDate: "2026-02-07T09:10:33.118Z"
 category: "재테크 & 투자"

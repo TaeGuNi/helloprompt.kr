@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"ミッドジャーニー v7 実践: クソ手でもクリックを呼ぶ「ブログサムネ」の公式\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "AIアート/デザイン"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"작심삼일은 끝! AI 습관 형성 트래커 설계\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.167Z"
 updatedDate: "2026-02-07T09:10:33.167Z"
 category: "일상"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "El Persona Definitivo de Revisor de Código de IA (Modo Creador de Linux) que Destrozará tu Código"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-25"
 updatedDate: "2026-02-25"
 category: "업무 자동화"

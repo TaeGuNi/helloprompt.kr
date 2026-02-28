@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Verpasste Inhalte beim Protokollieren? KI fasst es für Sie zusammen\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Arbeitsautomatisierung"

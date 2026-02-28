@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"위기 탈출 넘버원: 사과문/경위서/시말서 고급스럽게 쓰는 법\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "비즈니스 글쓰기"

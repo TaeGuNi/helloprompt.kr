@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"빈티지 인쇄 감성 'Risograph Print' 스타일\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.173Z"
 updatedDate: "2026-02-07T09:10:33.173Z"
 category: "이미지 생성"

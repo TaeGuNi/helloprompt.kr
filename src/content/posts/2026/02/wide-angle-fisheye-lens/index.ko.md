@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"압도적인 공간감 'Wide Angle & Fisheye' 렌즈 효과\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.114Z"
 updatedDate: "2026-02-07T09:10:33.114Z"
 category: "이미지 생성"

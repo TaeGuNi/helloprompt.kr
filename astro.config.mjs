@@ -1,11 +1,10 @@
 // @ts-check
 
 import vercel from "@astrojs/vercel";
+import tailwindcss from "@tailwindcss/vite";
 import AstroPWA from "@vite-pwa/astro";
 import { defineConfig } from "astro/config";
 import { visit } from "unist-util-visit";
-
-import tailwindcss from "@tailwindcss/vite";
 
 function rehypeWrap() {
   /** @param {any} tree */
@@ -115,6 +114,6 @@ export default defineConfig({
   },
 
   vite: {
-    plugins: [tailwindcss()]
-  }
+    plugins: [tailwindcss()],
+  },
 });

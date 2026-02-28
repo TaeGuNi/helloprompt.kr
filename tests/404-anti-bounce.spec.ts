@@ -1,10 +1,12 @@
-import { test, expect } from "@playwright/test";
+import { expect, test } from "@playwright/test";
 
 test.describe("404 Anti-Bounce UI & Recommendation Panel", () => {
-  test("renders 404 page with 4 recommended articles (Korean fallback)", async ({ page }) => {
+  test("renders 404 page with 4 recommended articles (Korean fallback)", async ({
+    page,
+  }) => {
     // Navigate to a non-existent URL
     const response = await page.goto("/ko/not-found-page-1234");
-    
+
     // Ensure it's a 404 status
     expect(response?.status()).toBe(404);
 
@@ -22,7 +24,7 @@ test.describe("404 Anti-Bounce UI & Recommendation Panel", () => {
 
     // Crucially: verify that there are exactly 4 recommendation cards
     // Wait for JS to render the cards (as they are injected via innerHTML on DOMContentLoaded)
-    await page.waitForSelector("#rec-grid .post-card", { state: 'attached' });
+    await page.waitForSelector("#rec-grid .post-card", { state: "attached" });
     const cards = page.locator("#rec-grid .post-card");
     await expect(cards).toHaveCount(4);
 

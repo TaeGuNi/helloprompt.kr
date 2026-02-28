@@ -29,75 +29,12 @@ const uiStrings = {
     />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
-    <style>
-      body {
-        font-family: var(--font-orbitron);
-        margin: 0;
-        padding: 0;
-        background-color: var(--color-cyber-bg);
-        color: var(--color-cyber-cyan);
-        min-height: 100vh;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        text-align: center;
-        background-image:
-          linear-gradient(rgba(0, 243, 255, 0.03) 1px, transparent 1px),
-          linear-gradient(90deg, rgba(0, 243, 255, 0.03) 1px, transparent 1px);
-        background-size: 30px 30px;
-        overflow-x: hidden;
-        padding-bottom: 50px;
-      }
-
-      h1 {
-        font-size: 8rem;
-        margin: 0;
-        text-shadow: 0 0 20px var(--color-cyber-cyan);
-        animation: glitch 1s linear infinite;
-      }
-
-      p {
-        font-family: "Noto Sans KR", sans-serif;
-        font-size: 1.5rem;
-        color: #ccc;
-        margin-bottom: 40px;
-      }
-
-      .btn {
-        background: transparent;
-        color: var(--color-cyber-cyan);
-        border: 2px solid var(--color-cyber-cyan);
-        padding: 15px 30px;
-        font-size: 1.2rem;
-        text-decoration: none;
-        font-weight: bold;
-        transition: all 0.3s;
-      }
-      .btn:hover {
-        background: var(--color-cyber-cyan);
-        color: #000;
-        box-shadow: 0 0 30px rgba(0, 243, 255, 0.5);
-      }
-
-      @keyframes glitch {
-        2%,
-        64% { transform: translate(2px, 0) skew(0deg); }
-        4%,
-        60% { transform: translate(-2px, 0) skew(0deg); }
-        62% { transform: translate(0, 0) skew(5deg); }
-      }
-
-      @media (max-width: 600px) {
-        h1 { font-size: 5rem; }
-        p { font-size: 1.2rem; }
-      }
-    </style>
   </head>
   <body>
-    <h1 id="error-title">404</h1>
-    <p id="error-msg">SYSTEM ERROR: 페이지를 찾을 수 없습니다.</p>
-    <a href="/" id="error-btn" class="btn">RETURN HOME</a>
+    <main class="font-orbitron m-0 p-0 bg-cyber-bg text-cyber-cyan min-h-screen flex flex-col justify-center items-center text-center overflow-x-hidden pb-[50px] bg-cyber-grid-cyan">
+      <h1 id="error-title" class="text-[5rem] sm:text-[8rem] m-0 [text-shadow:0_0_20px_var(--color-cyber-cyan)] animate-glitch">404</h1>
+      <p id="error-msg" class="font-sans text-[1.2rem] sm:text-[1.5rem] text-[#ccc] mb-10">SYSTEM ERROR: 페이지를 찾을 수 없습니다.</p>
+      <a href="/" id="error-btn" class="bg-transparent text-cyber-cyan border-2 border-cyber-cyan px-[30px] py-[15px] text-[1.2rem] no-underline font-bold transition-all duration-300 hover:bg-cyber-cyan hover:text-black hover:shadow-[0_0_30px_rgba(0,243,255,0.5)]">RETURN HOME</a>
 
     {/* 분리된 404 추천 컴포넌트 */}
     <RecommendedPostsPanel ui={{ rec: "RECOMMENDED INTELLIGENCE" }} />

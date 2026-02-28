@@ -1,6 +1,5 @@
 ---
 import "../styles/global.css";
-import BaseHtml from "../components/BaseHtml.astro";
 import RecommendedPostsPanel from "../components/RecommendedPostsPanel.astro";
 
 // UI 번역 데이터
@@ -18,7 +17,8 @@ const uiStrings = {
 };
 ---
 
-<BaseHtml lang="ko">
+<!DOCTYPE html>
+<html lang="ko">
   <head>
     <meta charset="utf-8" />
     <title>404 Not Found | Hello Prompt</title>
@@ -85,4 +85,4 @@ const uiStrings = {
       })();
     </script>
   </body>
-</BaseHtml>
+</html>

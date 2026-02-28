@@ -11,12 +11,22 @@
   --font-mono: 'JetBrains Mono', monospace;
 
   --animate-glitch: glitch 1s linear infinite;
+}
 
-  @keyframes glitch {
-    2%, 64% { transform: translate(2px, 0) skew(0deg); }
-    4%, 60% { transform: translate(-2px, 0) skew(0deg); }
-    62% { transform: translate(0, 0) skew(5deg); }
-  }
+:root {
+  --color-cyber-cyan: #00f3ff;
+  --color-cyber-green: #00ff88;
+  --color-cyber-pink: #ff0055;
+  --color-cyber-bg: #030303;
+  --color-cyber-surface: #0a0f18;
+  --font-orbitron: 'Orbitron', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
+
+@keyframes glitch {
+  2%, 64% { transform: translate(2px, 0) skew(0deg); }
+  4%, 60% { transform: translate(-2px, 0) skew(0deg); }
+  62% { transform: translate(0, 0) skew(5deg); }
 }
 
 @utility bg-cyber-grid-cyan {

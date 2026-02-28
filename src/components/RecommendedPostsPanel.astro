@@ -27,7 +27,7 @@ allPosts.forEach((post) => {
   postsByLang[lang].push({
     title: post.data.title,
     description: post.data.description ||="",
-    url: lang === "ko" ? `/posts/${slugBase}` : `/${lang}/posts/${slugBase}`,
+    url: `/${lang}/posts/${slugBase}`,
     date: new Date(post.data.date).valueOf()
   });
 });

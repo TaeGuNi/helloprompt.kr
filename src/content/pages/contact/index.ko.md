@@ -5,14 +5,14 @@ description: "Hello Prompt 팀에게 궁금한 점이나 제안할 내용이 있
 date: "2026-02-09"
 ---
 
-# 📧 문의하기 (Contact Us)
+## 📧 문의하기 (Contact Us)
 
 Hello Prompt를 이용해 주셔서 감사합니다.
 서비스 이용 중 불편한 점이 있거나, 제안하고 싶은 프롬프트가 있다면 언제든지 연락주세요.
 
 ## 📮 연락처 (Contact Info)
 
-- **Email:** `support@helloprompt.kr` (예시 이메일)
+- **Email:** `support@helloprompt.kr`
 - **Response Time:** 평일 기준 24시간 이내에 답변해 드립니다.
 
 ## 🤝 제휴 및 협업 (Partnership)

@@ -10,7 +10,7 @@ test.describe("i18n Navigation Persistence", () => {
     console.log("Navigating to English post...");
     // Using the file we definitely fixed
     const response = await page.goto(
-      "/en/posts/nbc-olympics-figure-skating-content-prompt",
+      "/en/posts/2026/02/hardcore-uv-python-agent-cheat-code",
     );
     console.log(`Response status: ${response?.status()}`);
 
@@ -21,7 +21,7 @@ test.describe("i18n Navigation Persistence", () => {
 
     // 2. Verify we are on the post page
     await expect(page).toHaveURL(
-      /.*\/en\/posts\/nbc-olympics-figure-skating-content-prompt/,
+      /.*\/en\/posts\/2026\/02\/hardcore-uv-python-agent-cheat-code/,
     );
     console.log("On post page. Clicking logo...");
 
@@ -41,7 +41,7 @@ test.describe("i18n Navigation Persistence", () => {
     page,
   }) => {
     // 1. Visit a Korean post
-    await page.goto("/ko/posts/nbc-olympics-figure-skating-content-prompt");
+    await page.goto("/ko/posts/2026/02/hardcore-uv-python-agent-cheat-code");
 
     // 2. Click the Logo
     await page.locator(".home-link").click();

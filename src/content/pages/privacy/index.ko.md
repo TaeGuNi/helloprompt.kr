@@ -6,7 +6,7 @@ date: "2026-02-09"
 updatedDate: "2026-02-09"
 ---
 
-# 🔒 개인정보처리방침 (Privacy Policy)
+## 🔒 개인정보처리방침 (Privacy Policy)
 
 **Hello Prompt** (이하 "본 사이트")는 이용자의 개인정보를 소중히 여기며, "정보통신망 이용촉진 및 정보보호"에 관한 법률 및 구글 애드센스(Google AdSense) 프로그램 정책을 준수합니다.
 

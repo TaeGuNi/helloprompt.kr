@@ -24,7 +24,6 @@ const { frontmatter, headings, isHome = false } = Astro.props;
 
 import AdUnit from "../components/AdUnit.astro";
 import Analytics from "../components/Analytics.astro";
-import BaseHtml from "../components/BaseHtml.astro";
 import Footer from "../components/Footer.astro";
 import SEO from "../components/SEO.astro";
 import RelatedPosts from "../components/RelatedPosts.astro";
@@ -39,7 +38,8 @@ const currentLang = determineCurrentLang(Astro.url.pathname, frontmatter.lang);
 const t = uiStrings[currentLang] || uiStrings.ko;
 ---
 
-<BaseHtml lang={frontmatter.lang}>
+<!DOCTYPE html>
+<html lang={frontmatter.lang}>
   <head>
     <meta charset="utf-8" />
     <!-- [Analytics] Google Analytics (GA4) -->
@@ -113,5 +113,5 @@ const t = uiStrings[currentLang] || uiStrings.ko;
     {/* Load Interactive Prompts and UI Scripts */}
     <script src="../scripts/interactive-prompt.ts"></script>
   </body>
-</BaseHtml>
+</html>
 

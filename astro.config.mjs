@@ -63,6 +63,13 @@ function rehypeWrap() {
 
 // https://astro.build/config
 export default defineConfig({
+  redirects: {
+    "/about": "/ko/about",
+    "/contact": "/ko/contact",
+    "/privacy": "/ko/privacy",
+    "/terms": "/ko/terms",
+  },
+
   output: "server",
 
   adapter: vercel({

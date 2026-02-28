@@ -6,7 +6,7 @@ date: "2026-02-09"
 updatedDate: "2026-02-09"
 ---
 
-# 🤖 Hello Prompt 소개
+## 🤖 Hello Prompt 소개
 
 > **"Great Prompts change the way we work."**
 > (위대한 프롬프트는 우리가 일하는 방식을 바꿉니다.)
@@ -26,8 +26,7 @@ updatedDate: "2026-02-09"
 
 매일 쏟아지는 새로운 AI 모델들과 프롬프트들 속에서, **"진짜 쓸모 있는 정보"**를 가려내기 위해 이 프로젝트를 시작했습니다. 직접 수백 번 테스트하고 다듬은 프롬프트만을 엄선하여 공유합니다.
 
-- **Email:** support@helloprompt.kr
-- **Github:** [github.com/TaeGuNi](https://github.com/TaeGuNi) (Personal Profile)
+- **Email:** <support@helloprompt.kr>
 
 ---
 
@@ -35,9 +34,9 @@ updatedDate: "2026-02-09"
 
 우리는 단순히 프롬프트를 나열하는 것이 아니라, 여러분의 **시간(Time)**을 아껴드리는 것을 목표로 합니다.
 
-1.  **Zero Hallucination:** 거짓 정보를 생성하는 나쁜 프롬프트를 배제합니다.
-2.  **Ready-to-Use:** 복사해서 붙여넣기만 하면 바로 작동하는(Actionable) 도구를 제공합니다.
-3.  **Cross-Model:** ChatGPT, Claude, Gemini 등 다양한 모델에서 작동 여부를 검증합니다.
+1. **Zero Hallucination:** 거짓 정보를 생성하는 나쁜 프롬프트를 배제합니다.
+2. **Ready-to-Use:** 복사해서 붙여넣기만 하면 바로 작동하는(Actionable) 도구를 제공합니다.
+3. **Cross-Model:** ChatGPT, Claude, Gemini 등 다양한 모델에서 작동 여부를 검증합니다.
 
 ---
 

@@ -6,9 +6,9 @@ try {
   console.log("\n📦 Running standard-version...");
   execSync("npx standard-version", { stdio: "inherit" });
 
-  // 2. Push to develop with tags
-  console.log("\n🚀 Pushing changes to origin/develop...");
-  execSync("git push --follow-tags origin develop", { stdio: "inherit" });
+  // 2. Push to main with tags
+  console.log("\n🚀 Pushing changes to origin/main...");
+  execSync("git push --follow-tags origin main", { stdio: "inherit" });
 
   // 3. Get updated version
   const packageJson = JSON.parse(readFileSync("package.json", "utf-8"));

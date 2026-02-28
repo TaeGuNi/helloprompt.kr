@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Dominer le Marché avec le Cadre d'Analyse des Concurrents\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatisation du Travail"

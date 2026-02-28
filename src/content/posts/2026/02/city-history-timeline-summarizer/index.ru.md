@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Составитель хронологии истории города: на одной странице\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Путешествия и культура"

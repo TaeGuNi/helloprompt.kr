@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"터지기 일보 직전! AI가 제안하는 상황별 스트레스 해소법\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.093Z"
 updatedDate: "2026-02-07T09:10:33.093Z"
 category: "건강 & 웰니스"

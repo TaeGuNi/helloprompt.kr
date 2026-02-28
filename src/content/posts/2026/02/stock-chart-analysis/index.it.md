@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"주식 차트 분석: '이거 살까 말까?' 차트 캡처해서 물어보기\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "재테크/투자"

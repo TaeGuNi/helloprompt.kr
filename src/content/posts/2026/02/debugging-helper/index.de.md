@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Bug-Jäger: Debugging-Prompt, um Fehler in 1 Minute zu fangen\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Programmierung/IT"

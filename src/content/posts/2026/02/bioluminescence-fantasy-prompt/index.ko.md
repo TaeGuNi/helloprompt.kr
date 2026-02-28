@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"환상적인 야광의 세계 'Bioluminescence' 프롬프트\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.170Z"
 updatedDate: "2026-02-07T09:10:33.170Z"
 category: "이미지 생성"

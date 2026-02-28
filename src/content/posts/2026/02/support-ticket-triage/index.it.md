@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"고객 문의 자동 분류 및 우선순위 지정 (CS Automation)\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "업무 자동화"

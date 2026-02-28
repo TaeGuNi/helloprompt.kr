@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"逃离空白屏幕恐惧症: 随笔概要设计者\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "学习法/自我开发"

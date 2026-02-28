@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Copione di 'Conversazione Empatica' per Calmare un Bambino che Fa i Capricci\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Genitorialità & Educazione"

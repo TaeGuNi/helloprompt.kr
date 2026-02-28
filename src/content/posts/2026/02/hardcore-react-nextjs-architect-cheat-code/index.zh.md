@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "🚨 闭嘴，给我写代码：冷酷无情的 React & Next.js 架构师作弊码"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "AI 개발"

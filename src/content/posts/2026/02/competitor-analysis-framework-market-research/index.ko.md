@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"경쟁사 분석 프레임워크로 시장 장악하기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.133Z"
 updatedDate: "2026-02-07T09:10:33.134Z"
 category: "업무 자동화"

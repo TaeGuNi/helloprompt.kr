@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "🧠 AI 치매 완치 비급: 마크다운 '진실의 방' 강제 스킬"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "업무 자동화"

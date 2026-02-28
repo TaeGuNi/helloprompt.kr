@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Gestion de Crise 101 : Comment Écrire des Lettres d'Excuse Professionnelles\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Rédaction d'Affaires"

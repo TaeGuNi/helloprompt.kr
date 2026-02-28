@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"J보다 꼼꼼한 AI 초개인화 여행 일정 플래너\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.157Z"
 updatedDate: "2026-02-07T09:10:33.157Z"
 category: "여행"

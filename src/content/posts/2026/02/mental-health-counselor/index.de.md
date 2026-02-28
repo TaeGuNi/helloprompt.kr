@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Mein eigener KI-Psychologischer Berater, Stressabbau-Mental-Care-Leitfaden\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Gesundheit"

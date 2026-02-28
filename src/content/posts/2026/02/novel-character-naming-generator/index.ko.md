@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"소설 등장인물 이름 생성기 (의미와 어감이 맞는 이름)\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.138Z"
 updatedDate: "2026-02-07T09:10:33.138Z"
 category: "창작 및 취미"

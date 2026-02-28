@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Prevenire Fallimento ATS (Soluzione Reclutamento)! Prompt Ottimizzazione Parole Chiave Curriculum\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Lavoro & Carriera"

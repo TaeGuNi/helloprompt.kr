@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"¡Última Arma Definitiva de Entrevista! Generador de 'Pregunta Inversa' para Preguntar al Entrevistador\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Empleo y Carrera"

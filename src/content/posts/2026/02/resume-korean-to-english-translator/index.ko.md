@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"한글 이력서를 원어민급 영문 레주메(Resume)로 바꾸는 프롬프트\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.172Z"
 updatedDate: "2026-02-07T09:10:33.173Z"
 category: "취업 & 이직"

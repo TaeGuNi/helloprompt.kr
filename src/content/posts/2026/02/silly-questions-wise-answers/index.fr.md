@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Répondre Sagement aux Questions Stupides : 'Pourquoi les Fourmis sont-elles Rondouillardes ?' (Générateur de Réponses Sages)\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Création & Loisirs"

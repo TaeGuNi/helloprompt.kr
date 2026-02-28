@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "エラーが出たら自分で直せ！🧟‍♂️ 泣き言を言うAIをターミネーターに変えるチートプロンプト"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "업무 자동화"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Дебют автора текстов? Написание эмоциональных текстов баллад с 3 ключевыми словами\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Творчество и Хобби"

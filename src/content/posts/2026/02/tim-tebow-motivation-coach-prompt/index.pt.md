@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"🏈 A Mentalidade Inabalável de Tim Tebow: Crie seu 'Coach Motivacional' com IA\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "자기계발"

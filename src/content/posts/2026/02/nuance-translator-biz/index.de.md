@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Übersetzung jenseits des Übersetzers: 'Nuancen' korrigieren (Geschäftsenglisch)\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Sprache/Übersetzung"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Excelの数式からの解放宣言: VLOOKUPはもう覚えなくていい\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "データ分析"

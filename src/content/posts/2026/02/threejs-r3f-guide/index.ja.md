@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Three.js 3D 웹사이트: 개발자 없이 만드는 화려한 인터랙션\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "개발/코딩"

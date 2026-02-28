@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"뭘 챙겨야 할지 모르겠다면? AI 여행지별 스마트 짐싸기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.175Z"
 updatedDate: "2026-02-07T09:10:33.175Z"
 category: "여행"

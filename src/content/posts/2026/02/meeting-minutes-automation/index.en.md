@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Escape Meeting Hell: Recording to Minutes & Email in 3 Mins\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Work Automation"
@@ -135,7 +135,7 @@ Thank you for the productive discussion today. Please find the official meeting 
 Let me know if there are any discrepancies. Let's make sure to hit our deadlines for the Q3 campaign prep.
 
 Best,
-ZZabbis
+Jay
 
 ---
 

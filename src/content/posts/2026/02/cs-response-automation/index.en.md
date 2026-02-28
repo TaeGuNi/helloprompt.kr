@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"CS 답변 자동화: 진상 고객도 웃게 만드는 매뉴얼\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "비즈니스/마케팅"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "💀 Der spartanische Cheatcode, der die KI erweckt: Der uv Python-Zwangsprompt"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "업무 자동화"

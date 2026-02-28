@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"거절당하지 않는 '커피챗(Coffee Chat)' 요청 콜드 메일 프롬프트\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.171Z"
 updatedDate: "2026-02-07T09:10:33.171Z"
 category: "취업 & 이직"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "💀 Brisez l'Arrogance de l'IA : Le Cheat Code Hardcore pour Rendre une IA 'Je-sais-tout' Humble"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "업무 자동화"

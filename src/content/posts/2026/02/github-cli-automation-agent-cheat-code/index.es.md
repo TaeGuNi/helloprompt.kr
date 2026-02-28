@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "🔥 Cállate y programa: El truco definitivo de GitOps autónomo para Agentes de IA"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "업무 자동화"

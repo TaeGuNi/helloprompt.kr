@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"뻔한 여행은 가라! AI가 찾아주는 나만의 숨은 명소\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.176Z"
 updatedDate: "2026-02-07T09:10:33.176Z"
 category: "여행"

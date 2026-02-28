@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Rust言語：C++より安全でPythonより高速な理由\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "バックエンド/DB"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"¡Cuando la Respuesta de la Entrevista Divaga! Prompt de Estructuración de Respuesta 'Técnica STAR'\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Empleo y Carrera"

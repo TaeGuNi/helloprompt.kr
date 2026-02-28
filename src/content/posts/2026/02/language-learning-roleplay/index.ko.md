@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"비싼 전화영어 대신, 24시간 대기 중인 AI 원어민\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.159Z"
 updatedDate: "2026-02-07T09:10:33.159Z"
 category: "생활"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Secret de Structuration de Script YouTube pour des Vues Élevées\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.177Z"
 updatedDate: "2026-02-07T09:10:33.177Z"
 category: "Écriture"

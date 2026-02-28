@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"치과 가기 전 읽는 용기 충전 스토리\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.160Z"
 updatedDate: "2026-02-07T09:10:33.160Z"
 category: "육아 & 교육"

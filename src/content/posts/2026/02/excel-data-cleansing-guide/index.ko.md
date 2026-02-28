@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"지저분한 엑셀 데이터, 깔끔하게 전처리하기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.142Z"
 updatedDate: "2026-02-07T09:10:33.143Z"
 category: "업무 자동화"

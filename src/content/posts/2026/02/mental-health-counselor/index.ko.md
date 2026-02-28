@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"번아웃 방지 멘탈 케어: '힘들다'고 말하면 위로해주는 AI (심리상담)\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "멘탈 케어"

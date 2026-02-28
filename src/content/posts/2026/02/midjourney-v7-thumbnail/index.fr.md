@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Pratique Midjourney v7 : Formule de 'Miniature de Blog' pour Non-Designers\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Art/Design IA"

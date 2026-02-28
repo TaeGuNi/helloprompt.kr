@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"AI로 1분 만에 짜는 완벽한 당일치기 시티 투어 일정\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.158Z"
 updatedDate: "2026-02-07T09:10:33.158Z"
 category: "여행 & 문화"

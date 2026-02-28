@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"증기 기관의 로망 'Steampunk' 스타일\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.148Z"
 updatedDate: "2026-02-07T09:10:33.148Z"
 category: "이미지 생성"

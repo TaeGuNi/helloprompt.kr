@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"실적 발표 컨퍼런스 콜 3분 요약기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.155Z"
 updatedDate: "2026-02-07T09:10:33.156Z"
 category: "재테크 & 투자"

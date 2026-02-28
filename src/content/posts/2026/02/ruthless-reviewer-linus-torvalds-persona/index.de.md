@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "Die ultimative Code-Reviewer-Persona, die KI-Code in Stücke reißt (Linux-Gründer-Modus)"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-25"
 updatedDate: "2026-02-25"
 category: "업무 자동화"

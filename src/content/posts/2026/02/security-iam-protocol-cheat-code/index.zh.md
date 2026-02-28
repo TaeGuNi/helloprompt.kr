@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "🔒 骇客乐园关闭！冷酷无情的安全智能体作弊码"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "业务自动化"

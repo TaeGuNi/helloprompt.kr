@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "Persona Extrema de Revisor de Código de IA para Destruir seu Código (Modo Criador do Linux)"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-25"
 updatedDate: "2026-02-25"
 category: "업무 자동화"

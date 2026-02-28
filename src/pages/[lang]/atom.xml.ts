@@ -75,7 +75,7 @@ export const GET: APIRoute = async (context) => {
   <id>${context.site}${lang}/</id>
   <updated>${posts[0]?.pubDate.toISOString() || new Date().toISOString()}</updated>
   <author>
-    <name>Jay &amp; Zzabbis</name>
+    <name>Jay &amp; Jay</name>
   </author>
   ${posts
     .map(

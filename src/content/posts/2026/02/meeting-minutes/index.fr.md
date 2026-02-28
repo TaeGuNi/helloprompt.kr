@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"L'IA organise ce que vous avez manqué en prenant des notes\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Automatisation du travail"

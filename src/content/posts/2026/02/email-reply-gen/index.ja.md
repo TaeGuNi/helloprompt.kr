@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"정중하고 명확한 비즈니스 이메일 답장, 고민 없이 3초 컷\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "비즈니스"
@@ -111,7 +111,7 @@ AIを活用することで、客観的で洗練された表現が数秒で提示
 新規プロジェクトの件ですが、今は忙しくて人がいないので参加できません。
 また機会があればよろしくお願いします。
 
-ZZabbis
+Jay
 ```
 
 ### ✅ After (プロンプトを使用・3秒で完成)

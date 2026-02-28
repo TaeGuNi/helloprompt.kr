@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"회의 통역(Zoom/Teams): 실시간 자막 번역 프롬프트\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"

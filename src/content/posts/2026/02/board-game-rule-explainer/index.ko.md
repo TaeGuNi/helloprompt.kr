@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"복잡한 룰북은 가라: 보드게임 규칙 3분 요약\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "취미/라이프"

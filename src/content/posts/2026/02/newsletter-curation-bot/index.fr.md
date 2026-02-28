@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Curation de Newsletters : Bot Résumé des Actus de l'Industrie Chaque Lundi Matin\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "Marketing/Contenu"

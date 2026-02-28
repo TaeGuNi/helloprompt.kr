@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"알파벳/한글 초성 게임: 어휘력 폭발 프롬프트\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.139Z"
 updatedDate: "2026-02-07T09:10:33.139Z"
 category: "육아 & 교육"

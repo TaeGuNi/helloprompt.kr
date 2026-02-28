@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"토요타 Fluorite: 콘솔급 플러터(Flutter) 게임 엔진\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "개발 트렌드"

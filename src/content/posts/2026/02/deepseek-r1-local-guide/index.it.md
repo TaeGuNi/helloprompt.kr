@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Installazione Locale di DeepSeek R1: Il Tuo Schiavo del Codice Gratuito su PC\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Sviluppo & Coding"

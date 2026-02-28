@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Meu código é um lixo! Coach de Refatoração Clean Code\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.120Z"
 updatedDate: "2026-02-07T09:10:33.120Z"
 category: "Programação/TI"

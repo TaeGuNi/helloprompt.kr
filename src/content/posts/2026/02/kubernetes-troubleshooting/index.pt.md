@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Kubernetes(K8s) 트러블슈팅: 파드(Pod)가 죽었을 때 3분 대처법\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "DevOps/인프라"

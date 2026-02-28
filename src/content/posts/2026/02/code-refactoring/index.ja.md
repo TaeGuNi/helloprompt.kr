@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"私のコードがゴミだって！？クリーンコード・リファクタリング・コーチ\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.120Z"
 updatedDate: "2026-02-07T09:10:33.120Z"
 category: "コーディング/IT"

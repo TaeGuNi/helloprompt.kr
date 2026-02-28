@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "에러 나면 알아서 고쳐! 🧟‍♂️ 징징대는 AI를 터미네이터로 만드는 치트키 프롬프트"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "업무 자동화"

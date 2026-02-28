@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Riporta in Vita il Tuo Canale Morto: La Formula da 1M di Visualizzazioni\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T11:30:00.000Z"
 updatedDate: "2026-02-07T11:30:00.000Z"
 category: "Creator Economy"

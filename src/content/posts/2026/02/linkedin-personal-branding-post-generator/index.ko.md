@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"나만의 브랜드를 만드는 '링크드인 글쓰기(Post)' 프롬프트\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.107Z"
 updatedDate: "2026-02-07T09:10:33.107Z"
 category: "취업 & 이직"

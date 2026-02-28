@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Эффект объектива 'Широкий угол и Рыбий глаз' с ошеломляющим чувством пространства\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Генерация изображений"

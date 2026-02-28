@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " '백 마디 설명보다 강력한 \"예시\"의 힘 (Few-Shot Prompting)'"
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.128Z"
 updatedDate: "2026-02-07T09:10:33.128Z"
 category: "프롬프트 엔지니어링"

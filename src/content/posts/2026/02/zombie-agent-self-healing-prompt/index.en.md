@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "Fix Your Own Errors! 🧟‍♂️ The Cheat Code Prompt to Turn a Whining AI into a Terminator"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "업무 자동화"

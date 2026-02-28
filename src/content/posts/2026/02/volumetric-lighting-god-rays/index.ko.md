@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"빛이 쏟아지는 'Volumetric Lighting' (갓레이) 연출법\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.115Z"
 updatedDate: "2026-02-07T09:10:33.115Z"
 category: "이미지 생성"

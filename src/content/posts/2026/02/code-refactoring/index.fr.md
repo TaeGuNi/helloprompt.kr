@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Mon code est une poubelle ! Le coach de refactorisation Clean Code\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.120Z"
 updatedDate: "2026-02-07T09:10:33.120Z"
 category: "Codage/IT"

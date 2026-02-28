@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"반복되는 엑셀 노가다, 매크로(VBA)로 자동화하기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.139Z"
 updatedDate: "2026-02-07T09:10:33.140Z"
 category: "업무 자동화"

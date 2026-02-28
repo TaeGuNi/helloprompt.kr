@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"먹은 음식 사진만 찍으면 끝? AI 매크로 영양소 계산기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.169Z"
 updatedDate: "2026-02-07T09:10:33.169Z"
 category: "건강 & 웰니스"

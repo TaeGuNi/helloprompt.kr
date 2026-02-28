@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"🏈 La mentalidad inquebrantable de Tim Tebow: Crea tu propio 'Entrenador Motivacional' con IA\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "Desarrollo Personal"

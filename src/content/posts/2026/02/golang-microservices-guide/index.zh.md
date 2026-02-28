@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Go(Golang) 마이크로서비스: 왜 배민과 당근은 Go로 갈아탔을까?\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "백엔드/DB"

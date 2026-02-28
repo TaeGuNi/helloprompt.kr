@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"대출 상환 스케줄표: 원리금 균등 vs 원금 균등\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.100Z"
 updatedDate: "2026-02-07T09:10:33.100Z"
 category: "업무 자동화"

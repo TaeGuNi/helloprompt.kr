@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"DeepSeek R1 Lokale Installation: Dein kostenloser Coding-Sklave auf dem PC\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Entwicklung & Coding"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"소크라테스와 말싸움하기: 철학 논쟁 파트너\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.165Z"
 updatedDate: "2026-02-07T09:10:33.165Z"
 category: "인문/역사"

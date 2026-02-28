@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Erstellung eines KI-benutzerdefinierten Diät-Speiseplans ohne PT-Lehrer\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Gesundheit"

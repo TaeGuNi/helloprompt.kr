@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "🔥 L'astuce de codage Zero-Trust pour bloquer radicalement les absurdités de l'IA"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "프롬프트 엔지니어링"

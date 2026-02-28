@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"번역기 너머의 번역: 파파고가 못하는 '뉘앙스' 교정 (비즈니스 영어)\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "외국어/번역"

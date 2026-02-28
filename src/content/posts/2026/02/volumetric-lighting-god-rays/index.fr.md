@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Technique d' 'Éclairage Volumétrique' (Rayons de Dieu) Où la Lumière se Déverse\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Génération d'Image"

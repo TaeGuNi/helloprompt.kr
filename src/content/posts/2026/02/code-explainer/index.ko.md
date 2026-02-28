@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"이 코드, 무슨 뜻이죠? 친절한 코드 해설사\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.120Z"
 updatedDate: "2026-02-07T09:10:33.120Z"
 category: "코딩/IT"

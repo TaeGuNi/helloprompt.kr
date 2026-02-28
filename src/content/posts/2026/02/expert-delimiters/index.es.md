@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"¿La IA no te entiende? Usa 'Delimitadores'\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
 category: "Ingeniería de Prompts"

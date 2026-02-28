@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"냉장고 파먹기, 셰프의 레시피로 재탄생하다\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.174Z"
 updatedDate: "2026-02-07T09:10:33.174Z"
 category: "생활"

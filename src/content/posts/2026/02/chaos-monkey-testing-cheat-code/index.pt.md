@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "💣 Cheat Code Hardcore: Transforme a IA no Chaos Monkey da Netflix"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "업무 자동화"

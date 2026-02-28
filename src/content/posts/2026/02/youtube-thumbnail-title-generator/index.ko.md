@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"망한 채널 심폐소생: 100만 유튜버의 어그로 공식\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T11:30:00.000Z"
 updatedDate: "2026-02-07T11:30:00.000Z"
 category: "크리에이터"

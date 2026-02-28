@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"불면증 탈출! AI 수면 패턴 분석 및 꿀잠 가이드\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.176Z"
 updatedDate: "2026-02-07T09:10:33.176Z"
 category: "건강"

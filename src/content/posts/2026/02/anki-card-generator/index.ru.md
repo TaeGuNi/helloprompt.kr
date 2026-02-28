@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Вместо того, чтобы копировать с болью в запястье: Автогенератор карточек для запоминания\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "МетодОбучения/Саморазвитие"

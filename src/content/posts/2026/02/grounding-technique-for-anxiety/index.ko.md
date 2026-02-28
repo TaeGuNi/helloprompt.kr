@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"심장이 쿵쾅거릴 때, AI가 알려주는 그라운딩(Grounding) 기법\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.152Z"
 updatedDate: "2026-02-07T09:10:33.152Z"
 category: "건강 & 웰니스"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"테라폼(Terraform) IaC 코드 생성기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 category: "DevOps"

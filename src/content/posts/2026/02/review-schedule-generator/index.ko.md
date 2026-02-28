@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"망각 곡선을 역주행하라: 복습 스케줄 생성기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.170Z"
 updatedDate: "2026-02-07T09:10:33.170Z"
 category: "학습법/자기계발"

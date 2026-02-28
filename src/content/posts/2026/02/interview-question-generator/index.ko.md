@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"면접 질문 리스트, AI가 대신 뽑아드립니다\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.114Z"
 updatedDate: "2026-02-07T09:10:33.114Z"
 category: "업무 자동화"

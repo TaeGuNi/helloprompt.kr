@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"행복 회로를 돌리는 가장 쉬운 방법, AI 감사 일기 챌린지\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.142Z"
 updatedDate: "2026-02-07T09:10:33.142Z"
 category: "건강 & 웰니스"

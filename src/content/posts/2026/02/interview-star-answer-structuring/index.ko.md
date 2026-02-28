@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"면접 답변이 횡설수설할 때! 'STAR 기법' 답변 구조화 프롬프트\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.109Z"
 updatedDate: "2026-02-07T09:10:33.110Z"
 category: "취업 & 이직"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"장난감들의 밤: '토이스토리' 스타일 동화\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.101Z"
 updatedDate: "2026-02-07T09:10:33.101Z"
 category: "육아 & 교육"

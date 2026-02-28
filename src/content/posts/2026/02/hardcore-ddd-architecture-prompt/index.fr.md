@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "Fini le code spaghetti ! 🍝 Le prompt DDD magique du développeur senior"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "Automatisation des tâches"

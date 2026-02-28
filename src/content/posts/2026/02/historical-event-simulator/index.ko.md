@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"역사 속에 뛰어들다: 역사적 사건 시뮬레이터\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.150Z"
 updatedDate: "2026-02-07T09:10:33.150Z"
 category: "인문/역사"

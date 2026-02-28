@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Secreto de Estructuración de Guiones de YouTube para Vistas Altas\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.177Z"
 updatedDate: "2026-02-07T09:10:33.177Z"
 category: "Escritura"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"明智地回答愚蠢的问题: '蚂蚁为什么胖墩墩？' (愚问贤答生成器)\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "创作及爱好"

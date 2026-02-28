@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"이력서 공백기(Gap Year), 약점이 아닌 '강점'으로 바꾸는 법\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.123Z"
 updatedDate: "2026-02-07T09:10:33.123Z"
 category: "취업 & 이직"

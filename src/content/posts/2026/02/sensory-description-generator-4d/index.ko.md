@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"독자의 오감을 자극하는 배경 묘사 변환기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.136Z"
 updatedDate: "2026-02-07T09:10:33.136Z"
 category: "창작 및 취미"

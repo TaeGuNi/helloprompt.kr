@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"등원 전쟁 끝! 스스로 하는 아침 루틴 체크리스트\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.161Z"
 updatedDate: "2026-02-07T09:10:33.161Z"
 category: "육아 & 교육"

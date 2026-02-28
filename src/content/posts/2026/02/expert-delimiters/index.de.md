@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"KI versteht Sie nicht? Verwenden Sie 'Trennzeichen' (Delimiters)\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
 category: "Prompt Engineering"

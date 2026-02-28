@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Notion KI-Sekretär: Tägliche To-Do-Sortierung & Auto-Planung\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Produktivitäts-Tools"

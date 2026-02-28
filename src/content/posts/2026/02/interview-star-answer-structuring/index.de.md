@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Wenn Interviewantwort abschweift! 'STAR-Technik' Antwortstrukturierungs-Prompt\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Karriere"

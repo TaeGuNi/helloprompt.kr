@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "Kein Platz für Spaghetti-Code: Der DDD-Cheatcode, um die KI zum Senior Developer zu trimmen 🤬"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "Arbeitsautomatisierung"

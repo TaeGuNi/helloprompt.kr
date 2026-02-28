@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"미래 도시의 밤 'Cyberpunk Neon' 조명 연출\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.168Z"
 updatedDate: "2026-02-07T09:10:33.168Z"
 category: "이미지 생성"

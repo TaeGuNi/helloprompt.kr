@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"带来点击量暴涨的 YouTube 脚本结构化秘诀\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.177Z"
 updatedDate: "2026-02-07T09:10:33.177Z"
 category: "写作"

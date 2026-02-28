@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"AI 코드 리뷰어: 내 똥 코드를 실리콘밸리 스타일로 (Code Review)\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "개발/코딩"

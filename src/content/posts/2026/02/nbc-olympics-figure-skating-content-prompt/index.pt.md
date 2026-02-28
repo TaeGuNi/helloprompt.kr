@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Tendências de Patinação Artística nas Olimpíadas da NBC: Escreva Conteúdo Esportivo Viral em 1 Minuto\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "Criação de Conteúdo"

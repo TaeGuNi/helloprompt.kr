@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "💀 Eradicating AI Bullshit: The Hardcore Observability Cheat Code"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "프롬프트 엔지니어링"

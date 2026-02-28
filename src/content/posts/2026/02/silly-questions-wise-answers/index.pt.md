@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Respondendo Perguntas Estúpidas Sabiamente: 'Por Que Formigas São Gordinhas?' (Gerador de Respostas Sábias)\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Criação & Hobbies"

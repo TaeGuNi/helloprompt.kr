@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"“示例”的力量胜过千言万语 (Few-Shot Prompting)\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
 category: "提示工程"

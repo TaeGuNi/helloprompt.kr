@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Generate a Tech Showdown: Galaxy S26 vs. iPhone 17 On-Device AI\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-14"
 updatedDate: "2026-02-14"
 category: "Content Creation"

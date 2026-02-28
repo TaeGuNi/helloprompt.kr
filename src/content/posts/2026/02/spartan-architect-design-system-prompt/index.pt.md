@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "💀 Cheat Code de Prompt 'Arquiteto Sênior Espartano' que Destrói a Bajulação da IA"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "업무 자동화"

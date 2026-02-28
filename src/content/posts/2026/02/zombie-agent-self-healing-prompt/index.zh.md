@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "报错了自己修！🧟‍♂️ 把只会抱怨的 AI 变成终结者的作弊码提示词"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "업무 자동화"

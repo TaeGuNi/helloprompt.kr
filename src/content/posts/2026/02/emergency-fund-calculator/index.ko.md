@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"비상금 안전벨트: 나만의 비상금 적정액 계산\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.094Z"
 updatedDate: "2026-02-07T09:10:33.094Z"
 category: "재테크 & 투자"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"다이어트 식단 짜기: 냉장고 파먹기 + 영양소 계산 AI 영양사\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "건강/라이프"

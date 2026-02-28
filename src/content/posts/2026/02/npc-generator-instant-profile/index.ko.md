@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"생동감 넘치는 NPC 즉석 생성 (NPC Generator)\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.134Z"
 updatedDate: "2026-02-07T09:10:33.134Z"
 category: "창작 및 취미"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"집콕 놀이 끝판왕: '그림 이어 그리다 이야기 만들기'\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.153Z"
 updatedDate: "2026-02-07T09:10:33.153Z"
 category: "육아 & 교육"

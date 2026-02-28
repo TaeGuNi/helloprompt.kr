@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Ceinture de Sécurité de Fonds d'Urgence : Calculer Mon Fonds d'Urgence Optimal\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investissement"

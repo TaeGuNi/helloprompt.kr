@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Предотвращение трехдневной решимости: ИИ 1:1 Менеджер по обучению\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "МетодОбучения/Саморазвитие"

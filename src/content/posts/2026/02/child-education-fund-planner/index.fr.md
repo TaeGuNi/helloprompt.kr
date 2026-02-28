@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Plan de Fonds pour l'Éducation des Enfants : Projet à Long Terme sur 10 Ans\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Technologie Financière & Investissement"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"리눅스 쉘 스크립트: 자동화의 끝판왕 Bash/Zsh\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "DevOps/인프라"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Fuggi dall'Inferno di Excel: Il Prompt che Cancella gli Straordinari\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07"
 updatedDate: "2026-02-07"
 category: "Produttività"

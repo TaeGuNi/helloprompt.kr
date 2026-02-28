@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"私の履歴書とJD比較分析：「スキルギャップ(Skill Gap)」診断プロンプト\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "就職 & 転職"

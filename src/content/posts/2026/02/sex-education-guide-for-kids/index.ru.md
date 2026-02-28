@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Руководство по половому воспитанию для детей: Как ответить на вопрос «Откуда берутся дети?»\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Воспитание и образование"

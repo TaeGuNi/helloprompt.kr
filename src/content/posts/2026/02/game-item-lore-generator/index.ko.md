@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"게임 아이템 도감: 전설의 무기와 저주받은 장신구\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.162Z"
 updatedDate: "2026-02-07T09:10:33.162Z"
 category: "창작 및 취미"

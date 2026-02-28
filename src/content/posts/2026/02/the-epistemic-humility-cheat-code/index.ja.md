@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "💀 AIの傲慢さを打ち砕け：100%の確信を持つAIを謙虚にさせるハードコアなチートコード"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "업무 자동화"

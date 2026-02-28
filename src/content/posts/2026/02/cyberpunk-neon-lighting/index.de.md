@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Zukunftsstadt-Nacht 'Cyberpunk Neon' Beleuchtungsregie\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Bildgenerierung"

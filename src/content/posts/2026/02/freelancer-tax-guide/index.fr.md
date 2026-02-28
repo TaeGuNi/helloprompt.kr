@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Guide d'Économie d'Impôt pour Freelance : Doubler le Remboursement d'Impôt\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Technologie Financière & Investissement"

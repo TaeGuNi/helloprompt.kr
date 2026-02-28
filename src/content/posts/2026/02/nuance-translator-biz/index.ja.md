@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"翻訳機の向こう側: Papagoができない「ニュアンス」矯正 (ビジネス英語)\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "外国語/翻訳"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Wenn KI sich dumm anstellt: Nutzen Sie 'Chain of Thought (CoT)'\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
 category: "Prompt Engineering"

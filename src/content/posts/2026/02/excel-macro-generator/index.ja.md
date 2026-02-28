@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Excel地獄からの脱出：残業を消し去る魔法のプロンプト\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07"
 updatedDate: "2026-02-07"
 category: "生産性向上"

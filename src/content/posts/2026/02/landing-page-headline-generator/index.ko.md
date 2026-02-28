@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"랜딩페이지 메인 카피(Hero Copy) 생성기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.123Z"
 updatedDate: "2026-02-07T09:10:33.124Z"
 category: "마케팅/카피라이팅"

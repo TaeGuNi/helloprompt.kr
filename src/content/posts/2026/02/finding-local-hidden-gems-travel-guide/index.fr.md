@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Guide de Voyage pour Trouver des Joyaux Cachés Locaux : Au-delà des Sites Touristiques\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Voyage & Culture"

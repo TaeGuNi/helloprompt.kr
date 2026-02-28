@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"미알못도 고상하게 즐기는 미술관/갤러리 관람 가이드\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.157Z"
 updatedDate: "2026-02-07T09:10:33.157Z"
 category: "여행 & 문화"

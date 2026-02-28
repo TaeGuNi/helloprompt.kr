@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"직무별 '기술 면접(Technical Interview)' 예상 질문 생성기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.114Z"
 updatedDate: "2026-02-07T09:10:33.115Z"
 category: "취업 & 이직"

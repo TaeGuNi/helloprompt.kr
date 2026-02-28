@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"FastAPI 프로덕션 레벨 보일러플레이트: 비동기 파이썬의 정점\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "백엔드/DB"

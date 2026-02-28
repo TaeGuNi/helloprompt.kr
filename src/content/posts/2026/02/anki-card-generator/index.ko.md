@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"손목 아픈 깜지 대신: 암기 카드 자동 생성기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.098Z"
 updatedDate: "2026-02-07T09:10:33.098Z"
 category: "학습법/자기계발"

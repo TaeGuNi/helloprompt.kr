@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Ressuscitez Votre Chaîne Morte : La Formule du Million de Vues\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T11:30:00.000Z"
 updatedDate: "2026-02-07T11:30:00.000Z"
 category: "Économie des Créateurs"

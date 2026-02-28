@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"프리랜서 절세 가이드: 세금 환급액 2배 늘리기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.149Z"
 updatedDate: "2026-02-07T09:10:33.149Z"
 category: "재테크 & 투자"

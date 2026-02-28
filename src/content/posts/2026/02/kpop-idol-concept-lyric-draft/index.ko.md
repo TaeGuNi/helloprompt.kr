@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"작사/작곡 보조: '뉴진스 스타일' 가사 써줘 (Suno/Udio 활용)\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "크리에이티브/예술"

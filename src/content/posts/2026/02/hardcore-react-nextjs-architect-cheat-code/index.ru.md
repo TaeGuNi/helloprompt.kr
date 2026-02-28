@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "🚨 Заткнись и пиши код: Безжалостный чит-код архитектора React и Next.js"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "AI 개발"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"🏈 Le mental d'acier de Tim Tebow : Créer votre propre 'Coach de Motivation' avec l'IA\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "자기계발"

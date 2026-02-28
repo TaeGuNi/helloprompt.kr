@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "💀 Cheat Code Espartano para Exprimir el Alma de la IA (TypeScript Core)"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "Automatización de Tareas"

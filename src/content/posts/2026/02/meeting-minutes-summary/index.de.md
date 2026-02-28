@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Verpasste Details beim Protokollieren? Die KI fasst Ihr Meeting zusammen\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Arbeitsautomatisierung"

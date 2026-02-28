@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Sora 2.0: 비디오 혁명, 상상이 현실이 되는 순간\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "AI Creative"

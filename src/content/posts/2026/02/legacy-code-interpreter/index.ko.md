@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"퇴사자가 남기고 간 암호문(레거시 코드) 해석하기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.124Z"
 updatedDate: "2026-02-07T09:10:33.124Z"
 category: "코딩/개발"

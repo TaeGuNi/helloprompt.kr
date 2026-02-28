@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Tendencia de Patinaje Artístico en NBC Olympics: Cómo Escribir Contenido Deportivo Viral en 1 Minuto\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "콘텐츠 제작"

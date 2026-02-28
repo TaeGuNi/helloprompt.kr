@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"연봉 협상, 쫄지 말고 당당하게! AI와 하는 '협상 시뮬레이션'\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.135Z"
 updatedDate: "2026-02-07T09:10:33.135Z"
 category: "취업 & 이직"

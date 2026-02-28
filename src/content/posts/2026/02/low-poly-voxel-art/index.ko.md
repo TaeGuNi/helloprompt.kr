@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"각진 매력 'Low Poly & Voxel Art' 스타일\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.157Z"
 updatedDate: "2026-02-07T09:10:33.157Z"
 category: "이미지 생성"

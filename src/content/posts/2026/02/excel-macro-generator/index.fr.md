@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Échapper à l'Enfer d'Excel : Le Prompt qui Supprime les Heures Sup\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07"
 updatedDate: "2026-02-07"
 category: "Productivité"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"ATS(채용 솔루션) 광탈 방지! 이력서 키워드 최적화 프롬프트\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.160Z"
 updatedDate: "2026-02-07T09:10:33.160Z"
 category: "취업 & 이직"

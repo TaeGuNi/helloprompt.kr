@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"웹어셈블리(Wasm) 포팅 어시스턴트\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 category: "개발 생산성"

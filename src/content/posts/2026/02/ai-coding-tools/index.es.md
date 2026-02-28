@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "2026 AI 코딩 도구 비교: GitHub Copilot vs Cursor vs Codeium"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-14"
 updatedDate: "2026-02-14"
 category: "업무 자동화"

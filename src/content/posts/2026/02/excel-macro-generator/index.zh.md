@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"逃离 Excel 地狱：消灭加班的 Prompt\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07"
 updatedDate: "2026-02-07"
 category: "生产力"

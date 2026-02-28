@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"코딩 테스트(Algorithm) 튜터: 문제 주면 힌트부터 정답까지\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "개발/코딩"

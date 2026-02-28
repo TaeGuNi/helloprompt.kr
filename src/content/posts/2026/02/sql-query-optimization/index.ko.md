@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"SQL 쿼리 최적화: DBA가 없어도 '슬로우 쿼리' 잡는 법\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "백엔드/DB"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"축제의 주인공이 되어라! 세계 축제 정보 & 참가 꿀팁\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.179Z"
 updatedDate: "2026-02-07T09:10:33.179Z"
 category: "여행 & 문화"

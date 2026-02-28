@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"YouTube-Skript-Strukturierungsgeheimnis für hohe Aufrufe\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.177Z"
 updatedDate: "2026-02-07T09:10:33.177Z"
 category: "Schreiben"

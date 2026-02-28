@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"목표 달성을 위한 OKR 설정 가이드\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.134Z"
 updatedDate: "2026-02-07T09:10:33.134Z"
 category: "업무 자동화"

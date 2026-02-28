@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"AIエージェントセキュリティガイド：ボットがハッキングされないために\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "セキュリティ/AI"

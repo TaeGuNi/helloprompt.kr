@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "🔒 ¡Se Acabó el Juego para los Hackers! El Cheat Code Despiadado del Agente de Seguridad"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "업무 자동화"

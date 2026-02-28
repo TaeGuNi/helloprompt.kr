@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"한 달 살기 & 장기 여행자를 위한 생존 아이템 가이드\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.101Z"
 updatedDate: "2026-02-07T09:10:33.101Z"
 category: "여행 & 문화"

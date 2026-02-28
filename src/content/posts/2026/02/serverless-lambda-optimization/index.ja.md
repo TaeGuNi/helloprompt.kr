@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"サーバーレス(Serverless)最適化: AWS Lambdaコールドスタートの解決法\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "DevOps/インフラ"

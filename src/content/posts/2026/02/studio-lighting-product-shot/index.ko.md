@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"제품 사진의 정석 'Studio Lighting' 프롬프트\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.159Z"
 updatedDate: "2026-02-07T09:10:33.159Z"
 category: "이미지 생성"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "🔥 Cheat Code de Codificação Zero-Trust para Bloquear as Alucinações da IA na Fonte"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "Engenharia de Prompt"

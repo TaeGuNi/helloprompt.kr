@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "🧠 Cura Definitiva per l'Amnesia dell'IA: La Skill Estrema della 'Stanza della Verità' in Markdown"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "업무 자동화"

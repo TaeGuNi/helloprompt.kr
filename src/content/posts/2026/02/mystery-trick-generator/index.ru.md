@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Таинственная дедуктивная игра: Генерация виновника и трюка (Mystery Trick Generator)\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Творчество и Хобби"

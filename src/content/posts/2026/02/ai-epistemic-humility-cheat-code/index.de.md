@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "🤖 Das absolute Gesetz gegen KI-Nonsens: Der Cheat-Code für 'Epistemische Demut'"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "Automatisierung"

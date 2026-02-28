@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "🚨 Cala a boca e cria meu código: Cheat Code Implacável para Arquitetos React & Next.js"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "AI 개발"

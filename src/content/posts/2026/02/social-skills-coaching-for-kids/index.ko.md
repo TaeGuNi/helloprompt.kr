@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"친구가 나랑 안 놀아줘: 관계와 거절 설명하기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.178Z"
 updatedDate: "2026-02-07T09:10:33.178Z"
 category: "육아 & 교육"

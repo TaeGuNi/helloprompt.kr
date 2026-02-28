@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"🏈 ティム・ティーボウ (Tim Tebow) のように諦めないメンタル：AIで自分だけの「モチベーションコーチ」を作る\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "自己啓発"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Quando a IA age de forma estúpida: Use 'Cadeia de Pensamento (CoT)'\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
 category: "Engenharia de Prompt"

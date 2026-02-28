@@ -1,6 +1,6 @@
 ---
 title: " \"KI-Agenten-Workflows: Jenseits von Chatbots zur Handlung\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "Produktivität"

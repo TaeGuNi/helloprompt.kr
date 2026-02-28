@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"물리 문제 번역기: 상황 판단부터 식 세우기까지\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.171Z"
 updatedDate: "2026-02-07T09:10:33.171Z"
 category: "수학/과학"

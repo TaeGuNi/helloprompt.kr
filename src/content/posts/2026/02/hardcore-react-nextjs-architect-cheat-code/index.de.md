@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "🚨 Klappe halten und Code schreiben: Der rücksichtslose React & Next.js Architektur-Cheatcode"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "AI 개발"

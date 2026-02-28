@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"🏈 像蒂姆·蒂博(Tim Tebow)一样永不放弃的心态：用AI打造你的专属'动机教练'\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "自我提升"

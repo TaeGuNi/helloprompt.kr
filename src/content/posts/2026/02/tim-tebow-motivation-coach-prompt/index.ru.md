@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"🏈 Менталитет победителя как у Тима Тибоу: создаем личного ИИ-коуча по мотивации\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "Саморазвитие"

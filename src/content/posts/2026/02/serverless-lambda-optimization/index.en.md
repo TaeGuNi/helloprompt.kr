@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"서버리스(Serverless) 최적화: AWS Lambda 콜드 스타트 해결법\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "DevOps/인프라"

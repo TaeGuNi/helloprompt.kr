@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"당황스런 질문 1위: '아기는 어떻게 생겨?' 대처법\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.169Z"
 updatedDate: "2026-02-07T09:10:33.169Z"
 category: "육아 & 교육"

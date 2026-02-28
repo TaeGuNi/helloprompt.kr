@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"오픈율 떡상하는 이메일 제목 생성기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.128Z"
 updatedDate: "2026-02-07T09:10:33.128Z"
 category: "마케팅/카피라이팅"

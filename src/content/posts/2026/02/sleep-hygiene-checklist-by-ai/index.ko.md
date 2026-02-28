@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"잠 못 드는 밤은 이제 그만! AI가 진단하는 수면 위생 체크리스트\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.125Z"
 updatedDate: "2026-02-07T09:10:33.126Z"
 category: "건강 & 웰니스"

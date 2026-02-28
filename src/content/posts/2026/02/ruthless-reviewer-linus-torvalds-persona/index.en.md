@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "The Ultimate Ruthless AI Code Reviewer Persona (Linus Torvalds Mode)"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-25"
 updatedDate: "2026-02-25"
 category: "Workflow Automation"

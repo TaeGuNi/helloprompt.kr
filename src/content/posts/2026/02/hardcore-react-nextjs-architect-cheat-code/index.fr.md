@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "🚨 Ta gueule et code : Le Cheat Code de l'Architecte React & Next.js Impitoyable"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "AI 개발"

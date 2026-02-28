@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Sfida di Allenamento a Casa di 30 Giorni con IA: Sfuggire all'Abbandono del 3° Giorno\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salute e Benessere"

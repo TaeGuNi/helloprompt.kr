@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"헬스장 안 가고 몸짱 되는 AI 홈트레이닝 루틴 생성기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.110Z"
 updatedDate: "2026-02-07T09:10:33.110Z"
 category: "건강"

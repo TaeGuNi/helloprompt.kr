@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Mon Chien a Changé : Spécialiste du Comportement IA\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07"
 updatedDate: "2026-02-07"
 category: "Animaux"

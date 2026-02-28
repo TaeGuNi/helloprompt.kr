@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " '개발자의 평생 난제 \"변수명 짓기\", AI가 대신 해드립니다'"
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.149Z"
 updatedDate: "2026-02-07T09:10:33.149Z"
 category: "코딩/개발"

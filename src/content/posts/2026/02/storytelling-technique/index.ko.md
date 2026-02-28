@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"설명충 글쓰기 탈출! 읽게 만드는 스토리텔링의 기술\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.177Z"
 updatedDate: "2026-02-07T09:10:33.177Z"
 category: "글쓰기"

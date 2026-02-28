@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"이력서 포맷팅 지옥 탈출: 마크다운(Markdown) 변환기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.104Z"
 updatedDate: "2026-02-07T09:10:33.104Z"
 category: "취업 & 이직"

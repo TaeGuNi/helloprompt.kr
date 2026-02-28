@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"그림자 인형 극장: 잠자리 들기 전 차분한 놀이\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.169Z"
 updatedDate: "2026-02-07T09:10:33.169Z"
 category: "육아 & 교육"

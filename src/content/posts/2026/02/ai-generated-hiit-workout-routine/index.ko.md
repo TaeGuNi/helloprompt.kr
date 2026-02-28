@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"짧고 굵게! 20분 만에 땀 범벅 만드는 AI HIIT 생성기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.137Z"
 updatedDate: "2026-02-07T09:10:33.137Z"
 category: "건강 & 웰니스"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"엑셀 수식 해방 선언: VLOOKUP 몰라도 됩니다 (데이터 분석)\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "데이터 분석"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"프로젝트 일정 관리(WBS) 자동으로 짜기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.148Z"
 updatedDate: "2026-02-07T09:10:33.148Z"
 category: "업무 자동화"

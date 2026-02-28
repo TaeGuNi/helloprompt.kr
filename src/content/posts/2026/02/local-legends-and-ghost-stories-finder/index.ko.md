@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"현지인들만 아는 오싹하고 신비한 전설 & 괴담 찾기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.102Z"
 updatedDate: "2026-02-07T09:10:33.102Z"
 category: "여행 & 문화"

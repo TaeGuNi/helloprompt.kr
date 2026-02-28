@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "Se c'è un errore, risolvilo da solo! 🧟‍♂️ Il prompt cheat code per trasformare un'IA lamentosa in un Terminator"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "업무 자동화"

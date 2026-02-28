@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"표와 그래프가 말을 건다: 데이터 해석 튜터\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.174Z"
 updatedDate: "2026-02-07T09:10:33.174Z"
 category: "수학/과학"

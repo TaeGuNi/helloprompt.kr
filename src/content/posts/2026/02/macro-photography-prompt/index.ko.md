@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"초근접 촬영의 세계 'Macro Photography' 프롬프트\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.113Z"
 updatedDate: "2026-02-07T09:10:33.114Z"
 category: "이미지 생성"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Трудный разговор о деньгах, Вежливый, но твердый писатель 'Письма с просьбой о повышении зарплаты'\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Работа и Карьера"

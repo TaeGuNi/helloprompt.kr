@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"이력서 성과, '수치'로 증명하는 STAR 기법 프롬프트\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.122Z"
 updatedDate: "2026-02-07T09:10:33.122Z"
 category: "취업 & 이직"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Entkomme der Meeting-Hölle: Aufnahme zu Protokoll + E-Mail in 3 Min\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Arbeitsautomatisierung"

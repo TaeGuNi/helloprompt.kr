@@ -1,6 +1,6 @@
 ---
 title: " \"AI Agent Workflows: Beyond Chatbots to Action\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "Productivity"

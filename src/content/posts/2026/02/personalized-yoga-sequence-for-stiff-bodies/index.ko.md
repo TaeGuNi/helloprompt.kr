@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"뻣뻣한 몸도 OK! AI가 짜주는 맞춤형 요가 시퀀스\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.139Z"
 updatedDate: "2026-02-07T09:10:33.139Z"
 category: "건강 & 웰니스"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "🔥 Cheat Code de Programación Zero-Trust para Bloquear las Alucinaciones de la IA de Raíz"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "프롬프트 엔지니어링"

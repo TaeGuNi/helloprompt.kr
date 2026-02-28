@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"비오는 날 집에서 하는 실내 보물찾기 게임 프롬프트\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.117Z"
 updatedDate: "2026-02-07T09:10:33.117Z"
 category: "육아 & 교육"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"무례하지 않게 독촉하는 비즈니스 이메일 작성법\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.167Z"
 updatedDate: "2026-02-07T09:10:33.167Z"
 category: "업무 자동화"

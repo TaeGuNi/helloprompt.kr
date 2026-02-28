@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " '\"내 몸값, 얼마가 적당할까?\" 직무별 연봉 시장가(Market Rate) 조사 프롬프트'"
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.168Z"
 updatedDate: "2026-02-07T09:10:33.169Z"
 category: "취업 & 이직"

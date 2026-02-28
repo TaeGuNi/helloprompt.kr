@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"기내용 캐리어 하나로 끝내는 미니멀 패킹 리스트\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.179Z"
 updatedDate: "2026-02-07T09:10:33.179Z"
 category: "여행 & 문화"

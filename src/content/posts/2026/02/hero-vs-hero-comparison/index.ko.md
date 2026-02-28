@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"영웅 vs 영웅: 세기의 라이벌 비교 분석\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.111Z"
 updatedDate: "2026-02-07T09:10:33.111Z"
 category: "인문/역사"

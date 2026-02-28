@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"러너 무릎 통증 예방! AI가 알려주는 러닝 후 필수 스트레칭\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.145Z"
 updatedDate: "2026-02-07T09:10:33.145Z"
 category: "건강 & 웰니스"

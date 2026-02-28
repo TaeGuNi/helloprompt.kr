@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " '\"단점이 뭔가요?\" 치명적인 약점 질문 방어 프롬프트'"
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.121Z"
 updatedDate: "2026-02-07T09:10:33.122Z"
 category: "취업 & 이직"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"FIRE족 로드맵: 조기 은퇴를 위한 4%의 법칙\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.111Z"
 updatedDate: "2026-02-07T09:10:33.111Z"
 category: "재테크 & 투자"

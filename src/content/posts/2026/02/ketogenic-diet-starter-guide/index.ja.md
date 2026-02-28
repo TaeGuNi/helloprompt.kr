@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"ケトジェニック（低炭水化物高脂肪）ダイエット、AIと一緒に完璧に始める\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "健康＆ウェルネス"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"알 수 없는 에러 로그, 10초 만에 원인 분석하기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.155Z"
 updatedDate: "2026-02-07T09:10:33.155Z"
 category: "개발"

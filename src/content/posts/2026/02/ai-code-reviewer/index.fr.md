@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Pas de Collègues ? C'est Pas Grave, Revue de Code Sévère d'un Développeur Senior IA\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codage/Développement"

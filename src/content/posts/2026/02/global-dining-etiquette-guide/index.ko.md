@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"쩝쩝 소리 내면 실례? 나라별 식사 예절 완벽 가이드\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.159Z"
 updatedDate: "2026-02-07T09:10:33.160Z"
 category: "여행 & 문화"

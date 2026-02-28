@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "Código Espaguete Não, Obrigado: O Cheat Code DDD que Arrasta a IA para o Nível de Desenvolvedor Sênior 🤬"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "업무 자동화"

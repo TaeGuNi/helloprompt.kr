@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"내 코드의 시간 복잡도(Big O)는 얼마일까?\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.099Z"
 updatedDate: "2026-02-07T09:10:33.099Z"
 category: "코딩/개발"

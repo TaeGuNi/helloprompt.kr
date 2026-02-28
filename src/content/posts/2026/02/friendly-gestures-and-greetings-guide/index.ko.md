@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"현지인과 3초 만에 친해지는 마법의 인사법 & 제스처\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.166Z"
 updatedDate: "2026-02-07T09:10:33.166Z"
 category: "여행 & 문화"

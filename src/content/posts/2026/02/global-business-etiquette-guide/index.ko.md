@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"성공적인 출장을 위한 글로벌 비즈니스 에티켓\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.128Z"
 updatedDate: "2026-02-07T09:10:33.128Z"
 category: "여행 & 문화"

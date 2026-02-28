@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"고정 지출 다이어트: 새는 돈 막는 아이디어\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.162Z"
 updatedDate: "2026-02-07T09:10:33.162Z"
 category: "재테크 & 투자"

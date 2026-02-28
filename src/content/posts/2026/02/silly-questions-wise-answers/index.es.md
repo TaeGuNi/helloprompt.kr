@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Respondiendo Preguntas Estúpidas Sabiamente: '¿Por Qué las Hormigas son Gorditas?' (Generador de Respuestas Sabias)\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creación y Aficiones"

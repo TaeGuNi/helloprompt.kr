@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"부피 줄이고 보온은 챙기는 겨울 여행 패킹 전략\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.158Z"
 updatedDate: "2026-02-07T09:10:33.158Z"
 category: "여행 & 문화"

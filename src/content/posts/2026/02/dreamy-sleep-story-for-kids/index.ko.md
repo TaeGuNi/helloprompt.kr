@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"꿈나라 여행 가이드: 몽환적인 수면 유도 스토리\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.153Z"
 updatedDate: "2026-02-07T09:10:33.153Z"
 category: "육아 & 교육"

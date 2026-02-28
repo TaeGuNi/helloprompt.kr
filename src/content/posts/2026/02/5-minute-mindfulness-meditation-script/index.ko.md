@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"내 방을 명상 센터로! AI가 읽어주는 5분 마음챙김 스크립트\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.150Z"
 updatedDate: "2026-02-07T09:10:33.150Z"
 category: "건강 & 웰니스"

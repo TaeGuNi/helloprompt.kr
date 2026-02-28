@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "Persona Estrema per la Revisione del Codice AI: Distruggi il tuo Codice (Modalità Creatore di Linux)"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-25"
 updatedDate: "2026-02-25"
 category: "Automazione del Lavoro"

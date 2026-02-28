@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"알약만 한 주먹? AI 맞춤형 영양제 조합 및 스케줄러\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.115Z"
 updatedDate: "2026-02-07T09:10:33.115Z"
 category: "건강"

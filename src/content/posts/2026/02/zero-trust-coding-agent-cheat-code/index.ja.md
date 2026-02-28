@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "🔥 AIのデタラメを根絶するゼロトラスト(Zero-Trust)コーディングチートキー"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "プロンプトエンジニアリング"

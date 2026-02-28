@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"TRPG 마스터를 위한 시나리오 훅 생성 (Scenario Hooks)\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.154Z"
 updatedDate: "2026-02-07T09:10:33.154Z"
 category: "창작 및 취미"

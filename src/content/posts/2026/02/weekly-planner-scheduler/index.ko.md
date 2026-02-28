@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"갓생 살기 프로젝트! AI 주간 계획표(위클리 플래너) 작성\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.106Z"
 updatedDate: "2026-02-07T09:10:33.106Z"
 category: "일상"

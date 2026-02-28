@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"가이드 없이 즐기는 나만의 역사 워킹 투어 만들기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.173Z"
 updatedDate: "2026-02-07T09:10:33.173Z"
 category: "여행 & 문화"

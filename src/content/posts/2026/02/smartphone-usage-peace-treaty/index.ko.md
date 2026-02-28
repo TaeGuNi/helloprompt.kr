@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"스마트폰 그만! 스크린 타임 평화 협정 맺기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.147Z"
 updatedDate: "2026-02-07T09:10:33.147Z"
 category: "육아 & 교육"

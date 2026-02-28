@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Échappez à l'Insomnie ! Analyse des Modèles de Sommeil par IA et Guide du Bon Sommeil\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé"

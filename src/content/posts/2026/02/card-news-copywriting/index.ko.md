@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"클릭을 부르는 카드뉴스 카피라이팅의 비밀\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.104Z"
 updatedDate: "2026-02-07T09:10:33.104Z"
 category: "글쓰기"

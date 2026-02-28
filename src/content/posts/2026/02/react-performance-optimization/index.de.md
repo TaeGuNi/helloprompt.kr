@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"React 성능 최적화: 렌더링 낭비 0%에 도전한다 (useMemo, useCallback)\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "개발/코딩"

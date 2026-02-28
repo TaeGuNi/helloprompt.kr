@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"면접관의 마음을 돌리는 '면접 후 감사 메일(Thank You Email)'\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.149Z"
 updatedDate: "2026-02-07T09:10:33.149Z"
 category: "취업 & 이직"

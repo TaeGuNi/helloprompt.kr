@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"쇼츠/릴스용 짧은 시(Insta Poetry) 생성기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.162Z"
 updatedDate: "2026-02-07T09:10:33.162Z"
 category: "창작 및 취미"

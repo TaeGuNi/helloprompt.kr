@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Segretario IA di Notion: Ordinamento To-Do Quotidiano & Auto-Pianificazione\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Strumenti di Produttività"

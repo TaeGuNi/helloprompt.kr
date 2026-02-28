@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"내 말투를 그대로 따라하는 AI '디지털 트윈' 만들기\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "퍼스널 브랜딩"
@@ -114,7 +114,7 @@ The make-or-break factor for this prompt is the **'Quality of Data'**. Rather th
 Hello. Today, we will explore the importance of personal branding. Personal branding is a highly critical element in modern society. I strongly encourage you to build your own unique brand to succeed in your career.
 ```
 
-### ✅ After (Digital Twin Prompt Applied - ZZabbis Ver.)
+### ✅ After (Digital Twin Prompt Applied - Jay Ver.)
 
 ```text
 We all know personal branding is a big deal, right? But actually getting started feels like a huge hassle. 😅

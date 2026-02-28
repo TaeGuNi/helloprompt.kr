@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "🤖 The Absolute Constitution to Smash AI's BS: The 'Epistemic Humility' Cheat Code"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "업무 자동화"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"감성적인 배경 흐림 'Bokeh & Depth of Field'\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.152Z"
 updatedDate: "2026-02-07T09:10:33.152Z"
 category: "이미지 생성"

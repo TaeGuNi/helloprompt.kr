@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"청소 놀이: 정리가 재미있는 게임이 되는 마법\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.125Z"
 updatedDate: "2026-02-07T09:10:33.125Z"
 category: "육아 & 교육"

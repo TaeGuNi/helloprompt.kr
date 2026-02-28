@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"En Lugar de Inglés Telefónico Costoso, Hablante Nativo de IA en Espera las 24 Horas\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vida"

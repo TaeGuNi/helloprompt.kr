@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"클릭을 부르는 페이스북/인스타 광고 카피 생성기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.176Z"
 updatedDate: "2026-02-07T09:10:33.176Z"
 category: "마케팅/카피라이팅"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"감정 맞추기 '표정 연기' 게임: 정서 지능 키우기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.141Z"
 updatedDate: "2026-02-07T09:10:33.141Z"
 category: "육아 & 교육"

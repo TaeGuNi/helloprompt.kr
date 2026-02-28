@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Échappez à l'Écriture Ennuyeuse ! Techniques de Storytelling pour Faire Lire les Gens\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Écriture"

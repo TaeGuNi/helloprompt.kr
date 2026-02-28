@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"어른들을 위한 자장가, AI가 들려주는 수면 유도 이야기(Sleep Story)\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.142Z"
 updatedDate: "2026-02-07T09:10:33.142Z"
 category: "건강 & 웰니스"

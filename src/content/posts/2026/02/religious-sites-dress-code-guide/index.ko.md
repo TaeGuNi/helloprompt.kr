@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"반바지 입고 입장 불가? 종교 성지 방문 드레스코드\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.125Z"
 updatedDate: "2026-02-07T09:10:33.125Z"
 category: "여행 & 문화"

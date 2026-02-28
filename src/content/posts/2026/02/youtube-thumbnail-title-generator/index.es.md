@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Revive Tu Canal Muerto: La Fórmula del Millón de Vistas\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T11:30:00.000Z"
 updatedDate: "2026-02-07T11:30:00.000Z"
 category: "Economía de Creadores"

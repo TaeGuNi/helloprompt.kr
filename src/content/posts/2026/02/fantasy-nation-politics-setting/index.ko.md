@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"국가 및 정치 체제 설정: 현실적인 판타지 세계관\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.102Z"
 updatedDate: "2026-02-07T09:10:33.102Z"
 category: "창작 및 취미"

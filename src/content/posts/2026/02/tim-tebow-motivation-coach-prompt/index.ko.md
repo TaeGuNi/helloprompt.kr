@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"🏈 팀 티보우(Tim Tebow)처럼 포기하지 않는 멘탈: AI로 나만의 '동기부여 코치' 만들기\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "자기계발"

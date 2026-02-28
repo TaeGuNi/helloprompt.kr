@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"뇌 휴식 5분, AI 명상 및 마인드풀니스 스크립트 작성\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.116Z"
 updatedDate: "2026-02-07T09:10:33.116Z"
 category: "건강"

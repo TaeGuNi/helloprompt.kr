@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"자녀 학자금 플랜: 10년 장기 프로젝트\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.146Z"
 updatedDate: "2026-02-07T09:10:33.146Z"
 category: "재테크 & 투자"

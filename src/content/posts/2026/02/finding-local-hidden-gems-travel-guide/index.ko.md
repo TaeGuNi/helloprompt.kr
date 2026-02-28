@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"현지인만 아는 숨은 보석(Hidden Gems) 발굴하기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.102Z"
 updatedDate: "2026-02-07T09:10:33.103Z"
 category: "여행 & 문화"

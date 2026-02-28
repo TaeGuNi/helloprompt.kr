@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"상처 주지 않고 성장시키는 인사평가 코멘트\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.172Z"
 updatedDate: "2026-02-07T09:10:33.172Z"
 category: "업무 자동화"

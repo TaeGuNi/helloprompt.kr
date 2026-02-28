@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"냉장고 파먹기! AI 건강 레시피 생성기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.150Z"
 updatedDate: "2026-02-07T09:10:33.150Z"
 category: "건강"

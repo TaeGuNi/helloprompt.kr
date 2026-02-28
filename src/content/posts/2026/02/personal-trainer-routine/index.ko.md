@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"PT 선생님 몰래 쓰세요, AI 퍼스널 트레이너\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.099Z"
 updatedDate: "2026-02-07T09:10:33.099Z"
 category: "생활"

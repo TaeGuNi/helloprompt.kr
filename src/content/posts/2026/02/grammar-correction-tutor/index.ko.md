@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"내 문법이 왜 틀렸을까? 1:1 교정 선생님\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.154Z"
 updatedDate: "2026-02-07T09:10:33.154Z"
 category: "외국어 학습"

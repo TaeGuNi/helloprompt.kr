@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"인스타그램 캡션 자동 생성: 감성 터지는 '좋아요' 치트키\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "SNS/마케팅"

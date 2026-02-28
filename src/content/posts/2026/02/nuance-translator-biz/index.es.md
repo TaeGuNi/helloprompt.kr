@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Traducción Más Allá del Traductor: Arreglando el 'Matiz' (Inglés de Negocios)\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Idioma/Traducción"

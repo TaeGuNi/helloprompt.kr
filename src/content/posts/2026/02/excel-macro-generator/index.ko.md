@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"엑셀 지옥 탈출: 야근을 삭제하는 한 문장\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.126Z"
 updatedDate: "2026-02-07T09:10:33.126Z"
 category: "업무 생산성"

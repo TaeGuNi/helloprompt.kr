@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"유튜브 채널명 & 닉네임 추천 (YouTube Channel Naming)\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.164Z"
 updatedDate: "2026-02-07T09:10:33.164Z"
 category: "창작 및 취미"

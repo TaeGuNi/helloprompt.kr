@@ -1,6 +1,6 @@
 ---
 title: " \"Fluxos de Trabalho de Agentes de IA: Além dos Chatbots\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "Produtividade"

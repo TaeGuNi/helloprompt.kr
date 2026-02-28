@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"🏈 Unyielding Mentality Like Tim Tebow: Creating Your Own AI 'Motivational Coach'\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "Self-Improvement"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Предотвратить провал ATS (Решение для найма)! Промпт оптимизации ключевых слов резюме\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Работа и Карьера"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "💣 The Hardcore Testing Cheat Code to Channel Netflix's Chaos Monkey into AI"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "Workflow Automation"

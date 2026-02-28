@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"아이디어가 꽉 막혔을 때, 브레인스토밍 파트너\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.148Z"
 updatedDate: "2026-02-07T09:10:33.148Z"
 category: "업무 자동화"

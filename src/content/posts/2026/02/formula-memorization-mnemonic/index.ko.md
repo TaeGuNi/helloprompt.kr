@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"안 외워지는 공식, 뇌에 문신 새기기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.113Z"
 updatedDate: "2026-02-07T09:10:33.113Z"
 category: "수학/과학"

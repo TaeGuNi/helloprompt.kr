@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"텍스트로 배우는 원어민 발음 코칭\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.156Z"
 updatedDate: "2026-02-07T09:10:33.156Z"
 category: "외국어 학습"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"발표 공포증 극복! 프레젠테이션 대본짜기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.140Z"
 updatedDate: "2026-02-07T09:10:33.140Z"
 category: "업무 자동화"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " 'AI가 내 말을 못 알아듣는다면? \"울타리\"를 쳐주세요 (Delimiters)'"
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.132Z"
 updatedDate: "2026-02-07T09:10:33.132Z"
 category: "프롬프트 엔지니어링"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "¡Si hay error, arréglalo tú! 🧟‍♂️ Prompt de trucos para convertir a la IA llorona en Terminator"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "업무 자동화"

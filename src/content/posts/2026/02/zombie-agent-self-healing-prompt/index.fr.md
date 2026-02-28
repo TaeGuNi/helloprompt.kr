@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "Répare-le toi-même ! 🧟‍♂️ Le prompt magique pour transformer une IA pleurnicharde en Terminator"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "업무 자동화"

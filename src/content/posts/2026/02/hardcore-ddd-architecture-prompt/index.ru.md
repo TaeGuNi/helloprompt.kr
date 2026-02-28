@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "Никакого спагетти-кода! 🍝 Черная магия DDD-промптов от Senior-разработчика"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "업무 자동화"

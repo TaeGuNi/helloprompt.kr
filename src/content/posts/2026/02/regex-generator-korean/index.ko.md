@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"외계어 같은 정규표현식(Regex), 한국어로 주문하세요\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.095Z"
 updatedDate: "2026-02-07T09:10:33.095Z"
 category: "코딩/개발"

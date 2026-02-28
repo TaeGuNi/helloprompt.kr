@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Trend del Pattinaggio di Figura alle Olimpiadi NBC: Scrivere Contenuti Sportivi Virali in 1 Minuto\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "Creazione di Contenuti"

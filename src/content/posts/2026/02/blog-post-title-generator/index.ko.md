@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"클릭을 부르는 블로그 글 제목 생성기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.160Z"
 updatedDate: "2026-02-07T09:10:33.160Z"
 category: "마케팅/카피라이팅"

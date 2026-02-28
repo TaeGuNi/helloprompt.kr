@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"도시의 스카이라인을 읽다: 건축물 하이라이트 투어\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.129Z"
 updatedDate: "2026-02-07T09:10:33.130Z"
 category: "여행 & 문화"

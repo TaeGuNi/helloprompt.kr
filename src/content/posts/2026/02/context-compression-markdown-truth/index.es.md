@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "🧠 Cura para la Amnesia de la IA: Habilidad Obligatoria de 'Sala de la Verdad' en Markdown"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "업무 자동화"

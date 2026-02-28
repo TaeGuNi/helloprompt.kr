@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"주말 순삭! AI OTT 콘텐츠 맞춤 추천 가이드\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.173Z"
 updatedDate: "2026-02-07T09:10:33.173Z"
 category: "일상"

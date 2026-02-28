@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "自社AIサービスを守り抜く：プロンプトインジェクション防御ガイド（実践例）"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-14"
 updatedDate: "2026-02-14"
 category: "セキュリティ"

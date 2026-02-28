@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"맑고 투명한 'Watercolor Sketch' 수채화 기법\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.117Z"
 updatedDate: "2026-02-07T09:10:33.117Z"
 category: "이미지 생성"

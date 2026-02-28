@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"검색 상위 노출을 부르는 SEO 블로그 개요 짜기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.110Z"
 updatedDate: "2026-02-07T09:10:33.110Z"
 category: "글쓰기"

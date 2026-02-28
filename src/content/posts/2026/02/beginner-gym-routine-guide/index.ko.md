@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"헬스장 고인물처럼 보이는 초보자 루틴 가이드\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.163Z"
 updatedDate: "2026-02-07T09:10:33.163Z"
 category: "건강 & 웰니스"

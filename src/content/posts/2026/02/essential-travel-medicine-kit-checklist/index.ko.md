@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"아프면 서러워! 해외여행 비상약 & 응급 키트 체크리스트\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.178Z"
 updatedDate: "2026-02-07T09:10:33.179Z"
 category: "여행 & 문화"

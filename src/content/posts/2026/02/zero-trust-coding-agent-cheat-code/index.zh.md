@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "🔥 从根源阻断 AI 胡言乱语的零信任 (Zero-Trust) 编程作弊码"
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "프롬프트 엔지니어링"

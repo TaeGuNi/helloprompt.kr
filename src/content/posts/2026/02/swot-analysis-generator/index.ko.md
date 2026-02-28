@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"SWOT 분석, 브레인스토밍 없이 1분 만에 끝내기\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.151Z"
 updatedDate: "2026-02-07T09:10:33.151Z"
 category: "업무 자동화"

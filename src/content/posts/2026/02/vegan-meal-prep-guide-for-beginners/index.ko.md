@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"초보 비건을 위한 완벽한 밀프렙(Meal Prep) 가이드\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.141Z"
 updatedDate: "2026-02-07T09:10:33.141Z"
 category: "건강 & 웰니스"

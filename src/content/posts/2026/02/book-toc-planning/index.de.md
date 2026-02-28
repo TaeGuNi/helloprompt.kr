@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"Kann ich auch Autor sein? Planung eines sich verkaufenden Buch-Inhaltsverzeichnisses\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Schreiben"

@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"유튜브 영상 3초 요약기: 1시간짜리 영상을 텍스트로 읽는 법\""
-author: "ZZabbis"
+author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "생산성 도구"

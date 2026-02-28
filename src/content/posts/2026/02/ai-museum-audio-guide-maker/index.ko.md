@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"내 손안의 큐레이터: AI로 만드는 박물관 오디오 가이드\""
-author: "Zzabbis"
+author: "Jay"
 date: "2026-02-07T09:10:33.106Z"
 updatedDate: "2026-02-07T09:10:33.106Z"
 category: "여행 & 문화"

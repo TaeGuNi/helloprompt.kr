@@ -1,12 +1,12 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"뉴스레터 큐레이션: 매주 월요일 아침, 업계 뉴스 요약 봇\""
+title: " \" :   ,    \""
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "마케팅/콘텐츠"
+category: "/"
 description: " \"Informationen sammeln kostet Zeit. Ein Muss für Marketer: Wie Sie RSS-Feeds und KI verknüpfen, um automatisch Newsletter-Entwürfe zu erstellen.\""
-tags: ["뉴스레터", "큐레이션", "자동화", "Zapier", "ChatGPT"]
+tags: ["", "", "", "Zapier", "ChatGPT"]
 ---
 
 # 📬 Newsletter-Kuration: Dein Branchen-News-Zusammenfassungs-Bot für jeden Montagmorgen
@@ -121,7 +121,7 @@ Apple Vision Pro 2 soll rauskommen. Weitere Details finden Sie im Link unten. (A
 ```text
 🍎 Apple macht's schon wieder! Vision Pro 2 eröffnet endlich die Ära der Massenmarkttauglichkeit!
 
-핵심 요약 (What)
+  (What)
 - Der Einführungspreis wurde im Vergleich zum Vorgänger halbiert und liegt nun im Bereich von 2.000 US-Dollar.
 - Auch das Gewicht wurde um die Hälfte reduziert, was Nackenschmerzen bei längerem Tragen vorbeugt.
 - Ausgestattet mit dem M4-Chip ist die On-Device-KI-Rechengeschwindigkeit um mehr als das Dreifache gestiegen.

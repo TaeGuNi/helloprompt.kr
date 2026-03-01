@@ -120,7 +120,7 @@ Si vous demandez simplement à l'IA de résumer un article, vous obtiendrez un r
 ```text
 🍎 Apple frappe encore ? Le Vision Pro 2 ouvre enfin la voie à la démocratisation !
 
-핵심 요약 (What)
+  (What)
 - Le prix de lancement a été considérablement réduit, passant à la moitié de la version précédente.
 - Le poids a également été divisé par deux, ce qui soulage les inquiétudes liées aux douleurs cervicales lors d'une utilisation prolongée.
 - Doté de la puce M4, la vitesse de calcul de l'IA sur l'appareil (On-device AI) a été multipliée par trois.

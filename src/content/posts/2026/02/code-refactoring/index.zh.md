@@ -103,11 +103,11 @@ tags: ["重构", "整洁代码", "开发者", "代码审查"]
 ```python
 def calc(x, y):
     if x > 19:
-        print("성인") # 打印成人
+        print("") # 打印成人
         p = y * 0.9
         return p
     else:
-        print("학생") # 打印学生
+        print("") # 打印学生
         return y
 ```
 

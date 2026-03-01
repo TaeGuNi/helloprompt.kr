@@ -9,11 +9,7 @@ description: "Prompt de redação de blog otimizado para SEO do Google para prof
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "seo-blog-post-w"]
 ---
 # 🚀 Passe Livre no Topo do Google: Prompt de Automação de Blog de SEO para Profissionais de Marketing
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
+
 - **🎯 Público-alvo Recomendado:** Profissionais de marketing de conteúdo com 1 a 3 anos de experiência, operadores de blog, planejadores
 - **⏱️ Tempo Necessário:** Reduzido de 3 horas → 5 minutos
 - **🤖 Modelos Recomendados:** Claude 3.5 Sonnet (Altamente recomendado para redação), ChatGPT Plus (GPT-4o)

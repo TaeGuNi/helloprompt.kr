@@ -9,19 +9,15 @@ description: "Un prompt pratique pour transformer instantanément les transcript
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "meeting-minutes"]
 ---
 # 📝 Structurer des comptes-rendus de réunion chaotiques en 1 minute
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
-<!-- ⚠️ [Lint Rule]   . (Table)      . -->
+
+
 - **🎯 Recommandé pour :** Employés juniors, chefs de projet, spécialistes du marketing
 - **⏱️ Temps requis :** 30 minutes → réduit à 1 minute
 - **🤖 Modèles recommandés :** Toutes les IA conversationnelles (ChatGPT, Claude, Gemini, etc.)
 - ⭐ **Difficulté :** ⭐☆☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
 - 🚀 **Utilité :** ⭐⭐⭐⭐⭐
-<!-- ⚠️ [Lint Rule] (>) Basic/Pro   (_..._)     . -->
+
 > _"Avez-vous perdu toute votre après-midi à rédiger le compte-rendu de la réunion ?"_
 Même si vous convertissez l'audio enregistré juste après la réunion en texte (avec Whisper, etc.), extraire l'essentiel d'une conversation décousue reste une véritable corvée. Ce prompt extrait avec précision uniquement les **« décisions clés »** et **« qui doit faire quoi (Action Items) »** à partir d'une masse de texte sans contexte. Il vous suffit de copier et coller.
 ---
@@ -31,7 +27,7 @@ Même si vous convertissez l'audio enregistré juste après la réunion en texte
 3. Elle extrait clairement le plus important : les « prochaines tâches par responsable (Action Items) ».
 ---
 ## 🚀 La solution : "Prompt de structuration automatique de compte-rendu"
-<!-- ⚠️ [Lint Rule] (>) (Prompt ) Prompt  . -->
+
 ### 🥉 Version Basique (Basic Version)
 Utilisez ceci lorsque vous n'avez besoin que de résultats rapides.
 > **Rôle :** Tu es un `[Chef de projet senior]`.
@@ -64,13 +60,13 @@ Utilisez ceci lorsque vous avez besoin d'une qualité détaillée.
 > **Entrée (Input) :**
 > - Transcription de la réunion : `[Collez le texte de la transcription ici]`
 ---
-<!-- ✅ [Lint Rule]  .   CI  . -->
+
 ## 💡 Le mot de l'auteur (Insight)
 Le cœur de ce prompt réside dans **l'extraction des Action Items** et la **prévention des hallucinations**. 
 Le véritable objectif de la rédaction d'un compte-rendu n'est pas de « consigner ce qui a été dit », mais de « clarifier ce qui doit être fait ensuite ». 
 En pratique, l'IA a parfois tendance à inventer des délais plausibles qui n'ont pas été mentionnés. Pour éviter cela, j'ai inclus la contrainte "N'invente jamais d'informations" et l'instruction défensive "Si le responsable n'est pas clair, indique [À confirmer]". Essayez d'envoyer le texte extrait par un outil STT avec ce prompt à Claude 3.5 Sonnet ou GPT-4o. Une tâche de nettoyage de texte de 30 minutes sera réduite à 1 minute. Prenez un autre café avec le temps gagné.
 ---
-<!-- ⚠️ [Lint Rule]  .    . -->
+
 ## 🙋 Foire aux questions (FAQ)
 - **Q : Puis-je insérer l'intégralité de la transcription d'une réunion d'une heure ?**
   - R : Oui, les modèles récents (Claude 3.5 Sonnet, GPT-4o, etc.) ont une excellente capacité de compréhension du contexte et peuvent facilement traiter une heure de texte. Toutefois, si vous rencontrez une limite de tokens, divisez-le en deux parties.

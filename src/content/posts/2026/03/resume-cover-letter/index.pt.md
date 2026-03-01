@@ -10,11 +10,7 @@ tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "resume-cover-le"]
 ---
 # 📝 Prompt Personalizado Baseado na Vaga que Aumenta suas Chances em 5x 🚀
 
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
+
 
 - **🎯 Público-alvo:** Desenvolvedores, profissionais de marketing, gerentes de produto e recém-formados com 1 a 3 anos de experiência que estão se preparando para mudar de emprego.
 - **⏱️ Tempo estimado:** Redução de 3 horas → 1 minuto

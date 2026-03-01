@@ -4,7 +4,7 @@ title: "🔥 La Costituzione Assoluta dell'Architettura RDBMS per Distruggere le
 author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "AI 프롬프트"
+category: "AI "
 description: "Le linee guida RDBMS spietate di un Senior Backend Engineer per impedire all'IA di creare DB spaghetti."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "rdbms-architecture"]
 ---
@@ -24,7 +24,7 @@ Se affidate la progettazione delle tabelle all'IA, nove volte su dieci sceglier�
 Ma nel momento in cui il traffico aumenta e le query diventano complesse, quello schema manderà il vostro sistema in rianimazione. Questo prompt è un cheat code che blocca alla radice questi "compromessi pigri" dell'IA e la costringe a progettare il DB secondo gli standard di un Senior Backend Engineer senza pietà.
 
 ---
-## ⚡️ 3줄 요약 (TL;DR)
+## ⚡️ 3  (TL;DR)
 1. **Spremete i tipi di dati:** L'abuso di `BIGINT` e `TEXT` è un crimine. Massimizzate l'I/O con i tipi di dati più piccoli possibili.
 2. **Usate solo ANSI SQL:** Abbandonate i trucchetti legati a un DB specifico. Dobbiamo essere pronti a migrare verso un altro DB in qualsiasi momento.
 3. **Nessun JOIN con JSON:** Fare il parsing e il JOIN di JSON in un RDBMS è un suicidio per il sistema. Normalizzate senza compromessi.

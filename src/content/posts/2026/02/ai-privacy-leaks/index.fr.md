@@ -66,7 +66,7 @@ Pour une analyse exhaustive des flux de données et des recommandations basées 
 >
 > **Avertissement (Warning) :**
 >
-> - Ne te base que sur des standards de sécurité actuels et des vulnérabilités avérées. Ne génère pas de faux risques (pas de 환각/hallucination).
+> - Ne te base que sur des standards de sécurité actuels et des vulnérabilités avérées. Ne génère pas de faux risques (pas de /hallucination).
 
 ---
 

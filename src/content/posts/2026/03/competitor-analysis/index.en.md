@@ -9,11 +9,7 @@ description: "A practical AI prompt that slashes market research and competitor 
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "competitor-anal"]
 ---
 # 📝 🔥 The Ultimate Competitor SWOT Analysis & Market Research Prompt for PMs
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
+
 - **🎯 Recommended for:** Product Managers, Marketers, Business Development Planners, and Junior Professionals (1-3 years of experience)
 - **⏱️ Time Spent:** Reduced from 3 days → 3 minutes
 - **🤖 Recommended AI Models:** Claude 3.5 Sonnet, GPT-4o (Web Search must be enabled)

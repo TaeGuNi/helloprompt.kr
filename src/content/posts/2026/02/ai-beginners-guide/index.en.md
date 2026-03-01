@@ -155,7 +155,7 @@ The reason the "Pro Version" prompts consistently outperform basic requests boil
 
 ## 📊 Before & After
 
-### ❌ Before (입력)
+### ❌ Before ()
 
 ```text
 VLOOKUP is an Excel function to lookup and retrieve data from a specific column in table.
@@ -163,7 +163,7 @@ Syntax: =VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup]).
 Example: =VLOOKUP(A2, B2:E10, 2, FALSE).
 ```
 
-### ✅ After (결과)
+### ✅ After ()
 
 ```text
 Think of XLOOKUP like a highly efficient librarian. You hand her a book title (your Customer ID), point her to the right aisle (Sheet 1), and tell her exactly what information you want from that book (Purchase History in Sheet 2).
@@ -184,4 +184,4 @@ AI is the most powerful lever of our generation, but it remains just a tool. A h
 
 Don't wait until tomorrow. Open ChatGPT or Claude _right now_, pick a tedious task from your to-do list, and apply the **Pro Version** framework. You might just save yourself an hour of work today.
 
-이제 칼퇴하세요! 🍷
+ ! 🍷

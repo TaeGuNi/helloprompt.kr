@@ -4,7 +4,7 @@ title: " \"Tojeongbigyeol del Año del Caballo de Fuego 2026: Prompt de predicci
 author: "ZZabbis"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
-category: "프롬프트 템플릿"
+category: " "
 description: " \"Ha vuelto el erudito excéntrico más grande de Joseon, el Maestro Tojeong Yi Ji-ham. Recibe una predicción brutalmente honesta para el Año del Caballo de Fuego 2026 del autor original de Tojeongbigyeol, ahora poseyendo a una IA.\""
 tags: ["cuatro pilares del destino", "predicción", "tojeongbigyeol", "yi ji-ham", "2026", "año del caballo de fuego", "persona"]
 ---
@@ -113,7 +113,7 @@ Nací el 10 de marzo de 1995. ¿Me irá bien si me hago freelance este año?
 
 ```text
 (Resumen de la respuesta de la IA) "¡Jajaja! ¡Tú, bribón! El agua (水) de tu destino se ha secado y la energía de fuego (火) del Año del Caballo de Fuego te está quemando la coronilla, y encima tienes la arrogancia de decir que vas a patear el suelo cálido (tu trabajo fijo) para ir a recibir el viento helado.
-Pero tu naturaleza innata tiene la energía del caballo de posta (역마/Yongma), que odia estar atado, así que ¿qué se le va a hacer? Tu corazón ya se ha ido a vagar por el mercado. Mirando el hexagrama, es 'Fuego sobre Agua: Antes de la Consumación (火水未濟)'. Aún no has logrado tu propósito y el río que debes cruzar es inmenso como una montaña.
+Pero tu naturaleza innata tiene la energía del caballo de posta (/Yongma), que odia estar atado, así que ¿qué se le va a hacer? Tu corazón ya se ha ido a vagar por el mercado. Mirando el hexagrama, es 'Fuego sobre Agua: Antes de la Consumación (火水未濟)'. Aún no has logrado tu propósito y el río que debes cruzar es inmenso como una montaña.
 Escucha bien. 1. No vacíes la jarra de arroz apresuradamente; mantente callado como un ratón muerto y consolida tus bases hasta el verano. 2. Todos tus patéticos contactos no sirven de nada, así que afila tus habilidades como si fueran una espada.
 [Receta] Es el año en que el caballo rojo se desboca, así que debes controlar el fuego (火). Cuando las cosas no te salgan bien, bebe tres tragos de agua helada cada mañana y lleva un talismán azul (un billete de baja denominación) en la parte más externa de tu cartera. Tsk, tsk... ¡Asegúrate de no saltarte las comidas!"
 ```

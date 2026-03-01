@@ -10,11 +10,7 @@ tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "excel-formula-v"]
 ---
 # 📝 Prompt AI per Creare Formule Excel e VBA in 1 Secondo
 
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
+
 
 - **🎯 Consigliato per:** Junior bloccati nell'inferno delle funzioni di Excel, marketer stanchi della pulizia ripetitiva dei dati, professionisti senza tempo per scrivere macro.
 - **⏱️ Tempo richiesto:** 30 minuti di ricerca su Google → 1 minuto di copia-incolla del prompt.

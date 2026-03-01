@@ -9,12 +9,8 @@ description: "Prompt automático para generar un calendario de contenidos de red
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "social-media-pl"]
 ---
 # 📝 Cómo Generar un Calendario de Contenidos de 1 Mes para Instagram y TikTok en 1 Minuto
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
-<!-- ⚠️ [Lint Rule]   . (Table)      . -->
+
+
 - **🎯 Recomendado para:** Marketers de redes sociales, creadores de contenido, emprendedores en solitario
 - **⏱️ Tiempo ahorrado:** De 3 horas → a 1 minuto
 - **🤖 Modelos recomendados:** Claude 3.5 Sonnet, ChatGPT (GPT-4o)

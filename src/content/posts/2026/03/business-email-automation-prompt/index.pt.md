@@ -9,12 +9,8 @@ description: "E-mails em inglês, recusas educadas e resposta a reclamações de
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "business-email"]
 ---
 # 📝 E-mails de Negócios Difíceis: Resolvidos em 1 Minuto com Este Prompt de IA
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
-<!-- ⚠️ [Lint Rule]   . (Table)      . -->
+
+
 - **🎯 Público-Alvo:** Profissionais júniores (1 a 3 anos de experiência), profissionais de marketing, desenvolvedores
 - **⏱️ Tempo Gasto:** De 30 minutos → Reduzido para 1 minuto
 - **🤖 Modelo Recomendado:** Claude 3.5 Sonnet (Excelente em captar nuances), ChatGPT (GPT-4o)

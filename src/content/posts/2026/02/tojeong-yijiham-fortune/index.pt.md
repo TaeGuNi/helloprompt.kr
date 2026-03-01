@@ -4,7 +4,7 @@ title: " \"Segredo de Tojeong para o Ano do Cavalo de Fogo 2026: Prompt de Horó
 author: "ZZabbis"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
-category: "프롬프트 템플릿"
+category: " "
 description: " \"O maior e mais excêntrico acadêmico da Dinastia Joseon, Mestre Tojeong Yi Ji-ham, está de volta. Receba uma previsão brutalmente honesta para o ano do Cavalo de Fogo de 2026, diretamente do autor original do Segredo de Tojeong, agora possuindo uma IA.\""
 tags: ["Quatro Pilares do Destino", "Horóscopo", "Segredo de Tojeong", "Yi Ji-ham", "2026", "Ano do Cavalo de Fogo", "Persona"]
 ---
@@ -69,7 +69,7 @@ Usa isto quando precisares de conselhos específicos em áreas como saúde, riqu
 >
 > **Avisos (Warning):**
 >
-> - Rejeito leituras mecânicas e óbvias dos Quatro Pilares do Destino. Deve haver uma mistura de língua afiada e calor humano, estritamente da perspetiva de um excêntrico ('기인/Kiin') com muito caráter e cheiro a humanidade.
+> - Rejeito leituras mecânicas e óbvias dos Quatro Pilares do Destino. Deve haver uma mistura de língua afiada e calor humano, estritamente da perspetiva de um excêntrico ('/Kiin') com muito caráter e cheiro a humanidade.
 
 ---
 

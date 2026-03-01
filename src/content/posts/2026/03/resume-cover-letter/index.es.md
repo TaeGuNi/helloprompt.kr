@@ -9,11 +9,7 @@ description: "Un prompt práctico que analiza a la perfección las ofertas de em
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "resume-cover-le"]
 ---
 # 📝 Multiplica por 5 tu Tasa de Aceptación: Prompt para Cartas de Presentación a Medida basado en Ofertas de Empleo 🚀
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
+
 - **🎯 Público Recomendado:** Desarrolladores, especialistas en marketing, planificadores y recién graduados con 1 a 3 años de experiencia que buscan cambiar de trabajo.
 - **⏱️ Tiempo Requerido:** De 3 horas → a 1 minuto.
 - **🤖 Modelo Recomendado:** Claude 3.5 Sonnet (excelente para redacción), ChatGPT Plus.

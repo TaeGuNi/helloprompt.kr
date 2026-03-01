@@ -9,11 +9,7 @@ description: "Un prompt pratique qui analyse parfaitement l'offre d'emploi (fich
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "resume-cover-le"]
 ---
 # 📝 Multipliez votre taux de réussite par 5 avec ce prompt de lettre de motivation basé sur la fiche de poste 🚀
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
+
 - **🎯 Recommandé pour :** Développeurs, marketeurs, chefs de produit et jeunes diplômés avec 1 à 3 ans d'expérience préparant un changement d'emploi.
 - **⏱️ Temps requis :** Réduit de 3 heures à 1 minute.
 - **🤖 Modèles recommandés :** Claude 3.5 Sonnet (excellent pour la rédaction), ChatGPT Plus.

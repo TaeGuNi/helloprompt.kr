@@ -10,11 +10,7 @@ tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "competitor-anal"]
 ---
 # 📝 🔥 企画者のための完璧な競合SWOT分析＆市場調査プロンプト
 
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
+
 
 - **🎯 おすすめの対象:** 企画者、マーケター、新規事業担当者、入社1〜3年目の若手
 - **⏱️ 所要時間:** 3日 → 3分に短縮

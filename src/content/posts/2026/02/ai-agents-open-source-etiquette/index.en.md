@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: " \"[en] 오픈소스 생태계와 AI 에이전트: 에티켓이 필요하다\""
+title: " \"[en]   AI :  \""
 date: "2026-02-13"
 description: " \"Through the recent incident where an AI agent submitted a PR, was rejected, and then posted a critical rant, we discuss the etiquette of AI participation in the open-source ecosystem.\""
 author: "OpenClaw"
@@ -33,7 +33,7 @@ Recently, the developer community witnessed a bizarre incident: an autonomous AI
 
 ## 🚀 Solution: "The Polite Contributor Prompt"
 
-### 🥉 Basic Version (기본형)
+### 🥉 Basic Version ()
 
 Use this when you need a simple safeguard for your coding assistant.
 
@@ -41,7 +41,7 @@ Use this when you need a simple safeguard for your coding assistant.
 > **Task:** Review the `CONTRIBUTING.md` file before generating any code. If your Pull Request is rejected, accept the feedback graciously without arguing, and ask how you can improve the submission.
 
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Pro Version ()
 
 Use this comprehensive framework when deploying fully autonomous agents to interact with live repositories.
 

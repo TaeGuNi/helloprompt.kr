@@ -9,11 +9,7 @@ description: "还在为莫名其妙的报错和意大利面条式代码发愁？
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "code-review"]
 ---
 # 📝 无导师也能完美搞定的代码审查与重构指南
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
+
 - **🎯 推荐对象：** 初级开发者、1~3年经验的后端/前端工程师、自学者
 - **⏱️ 耗费时间：** 瞎折腾2小时 → 1分钟搞定
 - **🤖 推荐模型：** Claude 3.5 Sonnet（代码审查王者）、GPT-4o

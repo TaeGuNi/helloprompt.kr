@@ -10,11 +10,7 @@ tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "code-review"]
 ---
 # 📝 Der perfekte Code-Review & Refactoring-Guide auch ohne Senior-Entwickler an deiner Seite
 
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
+
 
 - **🎯 Zielgruppe:** Junior-Entwickler, Backend/Frontend-Engineers mit 1-3 Jahren Erfahrung, Autodidakten
 - **⏱️ Zeitaufwand:** 2 Stunden Fehlersuche → In 1 Minute erledigt

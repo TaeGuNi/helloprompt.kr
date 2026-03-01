@@ -9,11 +9,7 @@ description: "No need to memorize VBA code and complex Excel formulas. Simply ex
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "excel-formula-v"]
 ---
 # 📝 AI Prompt to Write Excel Formulas & VBA in 1 Second
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
+
 - **🎯 Recommended for:** Juniors stuck in Excel function hell, marketers exhausted by repetitive data cleansing, professionals with no time to write macros
 - **⏱️ Time required:** 30 mins of Googling → 1 min of prompt copy-pasting
 - **🤖 Recommended models:** ChatGPT (GPT-4o), Claude 3.5 Sonnet

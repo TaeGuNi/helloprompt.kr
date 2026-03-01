@@ -9,12 +9,8 @@ description: "英文メール、丁寧な断り、顧客からのクレーム対
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "business-email"]
 ---
 # 📝 厄介なビジネスメールを1分で終わらせるAIプロンプト
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
-<!-- ⚠️ [Lint Rule]   . (Table)      . -->
+
+
 - **🎯 おすすめの対象者:** 入社1〜3年目の若手社員、マーケター、開発者
 - **⏱️ 所要時間:** 30分 → 1分に短縮
 - **🤖 おすすめのモデル:** Claude 3.5 Sonnet（ニュアンスの把握に最も優れている）、ChatGPT（GPT-4o）

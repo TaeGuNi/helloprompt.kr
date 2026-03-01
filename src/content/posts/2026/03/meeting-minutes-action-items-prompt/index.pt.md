@@ -10,13 +10,9 @@ tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "meeting-minutes"]
 ---
 # 📝 Estruture Reuniões Caóticas em 1 Minuto
 
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
 
-<!-- ⚠️ [Lint Rule]   . (Table)      . -->
+
+
 - **🎯 Recomendado para:** Profissionais juniores, Gerentes de Projeto (PMs), Profissionais de Marketing
 - **⏱️ Tempo gasto:** Reduzido de 30 minutos para 1 minuto
 - **🤖 Modelos recomendados:** Qualquer IA conversacional (ChatGPT, Claude, Gemini, etc.)
@@ -24,7 +20,7 @@ tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "meeting-minutes"]
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidade:** ⭐⭐⭐⭐⭐
 
-<!-- ⚠️ [Lint Rule] (>) Basic/Pro   (_..._)     . -->
+
 > _"Você perdeu a tarde toda organizando as atas da reunião de hoje?"_
 
 Mesmo que você converta o áudio gravado em texto logo após a reunião (usando ferramentas como Clova Note, Whisper, etc.), extrair os pontos principais de uma conversa confusa é outro tormento. Este prompt extrai com precisão apenas as **'decisões principais'** e **'quem deve fazer o quê (Action Items)'** de uma pilha de texto sem contexto. Basta copiar e colar.
@@ -41,7 +37,7 @@ Mesmo que você converta o áudio gravado em texto logo após a reunião (usando
 
 ## 🚀 Solução: "Prompt de Estruturação Automática de Atas de Reunião"
 
-<!-- ⚠️ [Lint Rule] (>) (Prompt ) Prompt  . -->
+
 
 ### 🥉 Versão Básica (Basic Version)
 
@@ -82,7 +78,7 @@ Use quando precisar de qualidade e detalhes.
 
 ---
 
-<!-- ✅ [Lint Rule]  .   CI  . -->
+
 
 ## 💡 Comentário do Autor (Insight)
 
@@ -92,7 +88,7 @@ Na prática, às vezes a IA inventa cronogramas plausíveis que não estão na r
 
 ---
 
-<!-- ⚠️ [Lint Rule]  .    . -->
+
 
 ## 🙋 Perguntas Frequentes (FAQ)
 

@@ -9,11 +9,7 @@ description: "深入解析招聘启事（JD），只需1分钟即可生成与您
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "resume-cover-le"]
 ---
 # 📝 合格率提升5倍的JD驱动型定制化简历Prompt 🚀
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
+
 - **🎯 推荐对象：** 准备跳槽的1~3年经验开发者、营销人员、企划人员及应届毕业生
 - **⏱️ 所需时间：** 从3小时缩短至1分钟
 - **🤖 推荐模型：** Claude 3.5 Sonnet (擅长写作), ChatGPT Plus

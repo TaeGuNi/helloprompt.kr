@@ -9,12 +9,8 @@ description: "Des prompts de localisation multilingue pratiques qui évitent les
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "localization-tr"]
 ---
 # 📝 Des prompts de localisation authentiques pour éliminer l'effet "traduction automatique"
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
-<!-- ⚠️ [Lint Rule]   . (Table)      . -->
+
+
 - **🎯 Recommandé pour :** Spécialistes du marketing mondial, responsables des ventes à l'international, concepteurs de services d'applications
 - **⏱️ Temps gagné :** De 1 heure → à 3 minutes
 - **🤖 Modèles recommandés :** Claude 3.5 Sonnet (excellent pour capter les nuances), GPT-4o
@@ -30,7 +26,7 @@ Changer simplement de langue, Google Traduction sait le faire. Ce que nous atten
 3. **Ajouter une clause anti-traduction littérale :** Imposez une contrainte telle que : "Vous pouvez restructurer complètement les phrases tant que le sens est préservé."
 ---
 ## 🚀 La solution : "Localisation en mode natif"
-<!-- ⚠️ [Lint Rule] (>) (Prompt ) Prompt  . -->
+
 ### 🥉 Version Basique (Basic Version)
 Utilisez ceci lorsque vous avez besoin de résultats rapides.
 > **Rôle :** Tu es un concepteur-rédacteur expert ayant travaillé plus de 10 ans en `[Pays cible]`.
@@ -69,13 +65,13 @@ Utilisez ceci lorsque vous avez besoin d'une qualité détaillée.
 >
 > - Il ne doit y avoir aucun abus de voix passive ni de traductions littérales maladroites typiques des traductions automatiques. Le texte doit impérativement avoir l'air d'avoir été écrit par un natif.
 ---
-<!-- ✅ [Lint Rule]  .   CI  . -->
+
 ## 💡 L'avis de l'auteur (Insight)
 Honnêtement, si jusqu'à présent vous tapiez juste "Traduis ça en anglais", vous n'utilisiez même pas 10% des capacités de l'IA. Dans la pratique, lors de la création d'un site web multilingue ou de la rédaction d'e-mails de vente à l'international, un texte simplement remplacé mot pour mot est le principal coupable de la perte de crédibilité.
 En créant ce prompt, j'ai réalisé à quel point la différence entre les résultats avant et après l'ajout de la contrainte "vous pouvez détruire la structure de la phrase" était flagrante. Traduire littéralement l'omission du sujet ou le style verbeux propres au coréen vers l'anglais ou le français donne des résultats désastreux. C'est en donnant à l'IA la liberté (tout en imposant un jeu de rôle strict) de **"Tu es un concepteur-rédacteur, alors cuisine-le comme tu veux"** que l'on obtient une valeur qui surpasse Google Traduction. 
 Particulièrement lors de la traduction de textes marketing, essayez de soumettre ce prompt Pro au modèle Claude. Il est actuellement le plus impressionnant pour faire ressortir les nuances. Si le résultat vous semble encore un peu rigide, je vous recommande d'ajouter à la fin du prompt : "Ajoute une pincée d'argot ou de mots à la mode populaires dans l'industrie locale."
 ---
-<!-- ⚠️ [Lint Rule]  .    . -->
+
 ## 🙋 Foire Aux Questions (FAQ)
 - **Q : Ce prompt fonctionne-t-il bien avec toutes les langues ?**
   - R : Il offre des performances remarquables dans les langues majeures avec beaucoup de données d'entraînement, comme l'anglais, le japonais, le chinois, l'espagnol, le français, etc. Cependant, pour des langues moins courantes, l'IA peut avoir des hallucinations. Il est donc recommandé de faire une vérification croisée (en lui demandant de retraduire en anglais pour vérifier l'intention).

@@ -1,6 +1,6 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Github 프로젝트의 얼굴, Readme.md 자동 생성기 (AI Readme Gen)"
+title: "Github  , Readme.md   (AI Readme Gen)"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
@@ -89,7 +89,7 @@ tags: [Github, Documentation, OpenSource, Branding, AI]
 
 このプロンプトの意義は、単にテキストを生成することにとどまらず、オープンソースエコシステムの暗黙のルール（バッジの配置、目次の構造、インストールガイドの自然な流れ）をAIに強制的に守らせる点にあります。
 
-特に、`tree`コマンドを通じてファイル構造を提供するのが핵심（核心/キーポイント）です。AIはフォルダとファイル名（`auth.ts`、`payment.controller.ts`など）を見ただけで、このプロジェクトがどのような機能を持っているかを驚くほど正確に推測してくれます。
+特に、`tree`コマンドを通じてファイル構造を提供するのが（核心/キーポイント）です。AIはフォルダとファイル名（`auth.ts`、`payment.controller.ts`など）を見ただけで、このプロジェクトがどのような機能を持っているかを驚くほど正確に推測してくれます。
 
 **🍯 Tips:** 生成されたドキュメントは、あくまで優れた「草案（ドラフト）」です。ここに実際に動作するUIのスクリーンショットやデモのGIFをご自身で追加すれば、完璧なポートフォリオが完成します。もしプロジェクトのロゴがなければ、DALL-EやMidjourneyを活用してみるのも良い方法です。
 

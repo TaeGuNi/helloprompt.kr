@@ -71,12 +71,12 @@ Für High-End-Rechner (32GB+ RAM, M3 Max) nutzen Sie das 70B-Modell und integrie
 > 2. Schreibe den vollständig optimierten Code neu.
 > 3. Füge präzise Kommentare hinzu, die erklären, _warum_ diese Änderungen vorgenommen wurden.
 >
-> **제약사항 (Constraints):**
+> ** (Constraints):**
 >
 > - Achte streng auf Typensicherheit und Best Practices der jeweiligen Programmiersprache.
 > - Ändere unter keinen Umständen die bestehende Geschäftslogik (Business Logic).
 >
-> **주의사항 (Warning):**
+> ** (Warning):**
 >
 > - Erfinde keine nicht existierenden Bibliotheken oder Funktionen (keine Halluzinationen). Wenn eine Optimierung nicht sinnvoll möglich ist, erkläre transparent warum.
 

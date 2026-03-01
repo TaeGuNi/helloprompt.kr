@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"토요타 Fluorite: 콘솔급 플러터(Flutter) 게임 엔진\""
+title: " \" Fluorite:  (Flutter)  \""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "개발 트렌드"
-description: " \"토요타가 만든 콘솔급 플러터 게임 엔진 Fluorite. 차량용 UI를 넘어 게임까지?\""
+category: " "
+description: " \"      Fluorite.  UI  ?\""
 tags: ["Toyota", "Flutter", "Game Engine", "Fluorite"]
 ---
 
@@ -27,7 +27,7 @@ Comment un framework conçu à l'origine pour des applications mobiles classique
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR)
+## ⚡️ 3  (TL;DR)
 
 1. **Au-delà de l'UI classique :** Toyota utilise Fluorite pour transformer les écrans des voitures en plateformes de jeu vidéo performantes.
 2. **Performances de niveau console :** Fluorite optimise le moteur de rendu de Flutter (Impeller) pour offrir une fluidité 3D exceptionnelle.
@@ -35,7 +35,7 @@ Comment un framework conçu à l'origine pour des applications mobiles classique
 
 ---
 
-## 🚀 해결책: "Fluorite Engine"
+## 🚀 : "Fluorite Engine"
 
 ### 🥉 Basic Version (La Solution Classique)
 

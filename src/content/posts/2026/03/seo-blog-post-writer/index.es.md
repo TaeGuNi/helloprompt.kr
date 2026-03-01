@@ -9,11 +9,7 @@ description: "Prompt de redacción de blogs optimizado para SEO en Google para m
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "seo-blog-post-w"]
 ---
 # 🚀 Pase Directo al Top de Google: Prompt de Automatización de Blogs SEO para Marketers
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
+
 - **🎯 Recomendado para:** Marketers de contenido con 1 a 3 años de experiencia, administradores de blogs, planificadores
 - **⏱️ Tiempo requerido:** Reducido de 3 horas a 5 minutos
 - **🤖 Modelos recomendados:** Claude 3.5 Sonnet (Altamente recomendado para redacción), ChatGPT Plus (GPT-4o)

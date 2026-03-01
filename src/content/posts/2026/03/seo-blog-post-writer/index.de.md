@@ -9,11 +9,7 @@ description: "Ein SEO-optimierter Blogging-Prompt für Marketer und Planer. Erle
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "seo-blog-post-w"]
 ---
 # 🚀 Fast-Pass fürs Google-Ranking: SEO-Blog-Automatisierungs-Prompt für Marketer
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
+
 - **🎯 Zielgruppe:** Content-Marketer (1-3 Jahre Erfahrung), Blog-Betreiber, Planer
 - **⏱️ Zeitaufwand:** Von 3 Stunden → auf 5 Minuten reduziert
 - **🤖 Empfohlene Modelle:** Claude 3.5 Sonnet (Sehr empfehlenswert fürs Schreiben), ChatGPT Plus (GPT-4o)

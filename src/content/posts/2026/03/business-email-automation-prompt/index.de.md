@@ -9,12 +9,8 @@ description: "Von englischen Mails über höfliche Absagen bis zum Umgang mit Ku
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "business-email"]
 ---
 # 📝 Knifflige geschäftliche E-Mails: Der KI-Prompt für perfekte Antworten in 1 Minute
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
-<!-- ⚠️ [Lint Rule]   . (Table)      . -->
+
+
 - **🎯 Zielgruppe:** Junior-Mitarbeiter (1-3 Jahre Erfahrung), Marketer, Entwickler
 - **⏱️ Zeitaufwand:** Von 30 Minuten → auf 1 Minute reduziert
 - **🤖 Empfohlenes Modell:** Claude 3.5 Sonnet (hervorragend für feine Nuancen), ChatGPT (GPT-4o)

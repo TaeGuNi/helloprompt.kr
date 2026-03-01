@@ -9,11 +9,7 @@ description: "Prompt per la scrittura di articoli blog ottimizzati lato SEO per 
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "seo-blog-post-w"]
 ---
 # 🚀 Pass Rapido per la Prima Pagina su Google: Prompt di Automazione SEO per Marketer
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
+
 - **🎯 Consigliato per:** Content marketer con 1-3 anni di esperienza, gestori di blog, planner
 - **⏱️ Tempo richiesto:** Ridotto da 3 ore → a 5 minuti
 - **🤖 Modelli consigliati:** Claude 3.5 Sonnet (fortemente consigliato per la scrittura), ChatGPT Plus (GPT-4o)

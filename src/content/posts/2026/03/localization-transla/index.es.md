@@ -10,12 +10,8 @@ tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "localization-tr"]
 ---
 # 📝 El prompt definitivo para una localización auténtica y sin rastro de traducción automática
 
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
-<!-- ⚠️ [Lint Rule]   . (Table)      . -->
+
+
 
 - **🎯 Recomendado para:** Profesionales del marketing global, ejecutivos de ventas internacionales, Product Managers
 - **⏱️ Tiempo ahorrado:** De 1 hora → a 3 minutos
@@ -40,7 +36,7 @@ Cambiar palabras de un idioma a otro es algo que Google Translate ya hace. Lo qu
 
 ## 🚀 La solución: "Localización con mentalidad nativa"
 
-<!-- ⚠️ [Lint Rule] (>) (Prompt ) Prompt  . -->
+
 
 ### 🥉 Versión Básica
 Úsala cuando necesites resultados rápidos.
@@ -85,7 +81,7 @@ Cambiar palabras de un idioma a otro es algo que Google Translate ya hace. Lo qu
 > - No toleraré el abuso de la voz pasiva ni las estructuras rígidas típicas de las traducciones automáticas. El resultado debe parecer escrito desde cero por un nativo.
 
 ---
-<!-- ✅ [Lint Rule]  .   CI  . -->
+
 ## 💡 Comentarios del autor (Insight)
 
 Siendo honestos, si hasta ahora solo escribías "Traduce esto al español", estabas desaprovechando el 90% del potencial de la IA. En el mundo real, al crear un sitio web multilingüe o redactar un correo de ventas internacional, un texto traducido palabra por palabra es el principal culpable de arruinar tu credibilidad.
@@ -95,7 +91,7 @@ Al diseñar este prompt, me di cuenta de la diferencia abismal entre los resulta
 Especialmente al traducir textos de marketing, te recomiendo alimentar al modelo Claude con este prompt Pro. Hoy en día, no tiene rival a la hora de captar y plasmar matices. Si el resultado te sigue pareciendo un poco rígido, prueba a añadir al final del prompt: "Añade una pizca de la jerga o las palabras de moda que se usan actualmente en este sector".
 
 ---
-<!-- ⚠️ [Lint Rule]  .    . -->
+
 ## 🙋 Preguntas Frecuentes (FAQ)
 
 - **P: ¿Este prompt funciona igual de bien para todos los idiomas?**

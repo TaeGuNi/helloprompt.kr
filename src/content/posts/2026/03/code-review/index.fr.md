@@ -9,11 +9,7 @@ description: "Des erreurs inexplicables et du code spaghetti ? Découvrez ce pro
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "code-review"]
 ---
 # 📝 Guide parfait de revue de code et de refactoring sans mentor
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
+
 - **🎯 Recommandé pour :** Développeurs juniors, ingénieurs backend/frontend avec 1 à 3 ans d'expérience, autodidactes
 - **⏱️ Temps estimé :** 2 heures de galère → Réglé en 1 minute
 - **🤖 Modèles recommandés :** Claude 3.5 Sonnet (Le meilleur pour la revue de code), GPT-4o

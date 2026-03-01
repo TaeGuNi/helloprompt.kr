@@ -9,11 +9,7 @@ description: "只需 3 分钟，即可完成过去需要谷歌搜索 3 天的市
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "competitor-anal"]
 ---
 # 📝 🔥 专为产品经理打造的竞品 SWOT 分析与市场调研完美提示词
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
+
 - **🎯 适用人群：** 产品经理、营销人员、新业务拓展专员、1~3年经验的初级职场人
 - **⏱️ 预计耗时：** 从 3 天 → 缩短至 3 分钟
 - **🤖 推荐模型：** Claude 3.5 Sonnet、GPT-4o（必须开启联网搜索功能）

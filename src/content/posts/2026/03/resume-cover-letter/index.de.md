@@ -9,11 +9,7 @@ description: "Ein praxisnaher Prompt, der Stellenbeschreibungen perfekt analysie
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "resume-cover-le"]
 ---
 # 📝 5x höhere Erfolgsquote: Der ultimative Prompt für passgenaue Bewerbungsanschreiben 🚀
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
+
 - **🎯 Zielgruppe:** Entwickler, Marketer, Produktmanager mit 1–3 Jahren Berufserfahrung sowie Berufseinsteiger auf Jobsuche
 - **⏱️ Zeitaufwand:** Reduziert von 3 Stunden auf 1 Minute
 - **🤖 Empfohlenes Modell:** Claude 3.5 Sonnet (hervorragend für Texterstellung), ChatGPT Plus

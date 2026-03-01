@@ -9,12 +9,8 @@ description: "From English emails and polite refusals to handling client complai
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "business-email"]
 ---
 # 📝 The AI Prompt That Writes Tricky Business Emails in 1 Minute
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
-<!-- ⚠️ [Lint Rule]   . (Table)      . -->
+
+
 - **🎯 Recommended For:** Junior professionals with 1-3 years of experience, marketers, developers
 - **⏱️ Time Saved:** From 30 minutes → down to 1 minute
 - **🤖 Recommended AI Models:** Claude 3.5 Sonnet (best at grasping nuances), ChatGPT (GPT-4o)

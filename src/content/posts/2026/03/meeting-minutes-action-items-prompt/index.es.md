@@ -9,19 +9,15 @@ description: "Un prompt práctico que transforma instantáneamente el texto deso
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "meeting-minutes"]
 ---
 # 📝 Estructura tus reuniones caóticas en 1 minuto
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
-<!-- ⚠️ [Lint Rule]   . (Table)      . -->
+
+
 - **🎯 Recomendado para:** Trabajadores junior, Gestores de proyectos (PM), Especialistas en marketing
 - **⏱️ Tiempo requerido:** De 30 minutos → reducido a 1 minuto
 - **🤖 Modelo recomendado:** Cualquier IA conversacional (ChatGPT, Claude, Gemini, etc.)
 - ⭐ **Dificultad:** ⭐☆☆☆☆
 - ⚡️ **Eficacia:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
-<!-- ⚠️ [Lint Rule] (>) Basic/Pro   (_..._)     . -->
+
 > _"¿Has perdido toda la tarde de hoy intentando organizar las actas de la reunión?"_
 Incluso si conviertes el audio grabado a texto inmediatamente después de la reunión (Clova Note, Whisper, etc.), extraer los puntos clave de una conversación desordenada es otra pesadilla. Este prompt extrae de manera precisa y directa solo las **'decisiones clave'** y **'quién debe hacer qué (Action Items)'** de un montón de texto sin contexto. Simplemente copia y pega.
 ---
@@ -31,7 +27,7 @@ Incluso si conviertes el audio grabado a texto inmediatamente después de la reu
 3. Extraerá claramente los "Próximos pasos por responsable (Action Items)" más importantes.
 ---
 ## 🚀 Solución: "Prompt de Estructuración Automática de Actas de Reunión"
-<!-- ⚠️ [Lint Rule] (>) (Prompt ) Prompt  . -->
+
 ### 🥉 Versión Básica (Básica)
 Úsala cuando necesites resultados rápidos.
 > **Rol:** Eres un `[Gestor de Proyectos Senior]`.
@@ -64,13 +60,13 @@ Incluso si conviertes el audio grabado a texto inmediatamente después de la reu
 > **Entrada (Input):**
 > - Transcripción de la reunión: `[Pega aquí el texto copiado de la transcripción]`
 ---
-<!-- ✅ [Lint Rule]  .   CI  . -->
+
 ## 💡 Comentario del Autor (Insight)
 El núcleo de este prompt es **'extraer los Action Items'** y **'suprimir las alucinaciones (Hallucination)'**. 
 El verdadero propósito de redactar actas de reuniones no es 'registrar lo que se dijo', sino 'dejar claro qué hacer a continuación'. 
 Al usarlo en la práctica, a veces la IA inventa plazos plausibles que no se mencionaron en la reunión. Para evitar esto, incluí restricciones como "nunca inventes información que no exista" y una directiva defensiva de "si el responsable no está claro, márcalo como [Requiere confirmación]". Intenta pasar el texto extraído por herramientas de voz a texto (STT) como Clova Note junto con este prompt a Claude 3.5 Sonnet o GPT-4o. Una tarea de edición de texto que tomaría 30 minutos se reduce a 1 minuto. Disfruta de una taza de café extra con el tiempo libre ahorrado.
 ---
-<!-- ⚠️ [Lint Rule]  .    . -->
+
 ## 🙋 Preguntas Frecuentes (FAQ)
 - **P: ¿Puedo introducir la transcripción completa de una reunión de 1 hora?**
   - R: Sí, los modelos más recientes (Claude 3.5 Sonnet, GPT-4o, etc.) tienen una excelente capacidad para comprender el contexto y pueden manejar fácilmente una hora de texto. Sin embargo, si alcanzas el límite de tokens, divídelo por la mitad e introdúcelo en partes.

@@ -9,11 +9,7 @@ description: "Ein praxisnaher KI-Prompt, der Marktforschung und SWOT-Analysen de
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "competitor-anal"]
 ---
 # 📝 🔥 Der ultimative Prompt für Konkurrenz-SWOT-Analysen & Marktforschung für Produktmanager
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
+
 
 - **🎯 Zielgruppe:** Produktmanager, Marketer, Business Developer, Junior-Mitarbeiter (1-3 Jahre)
 - **⏱️ Zeitaufwand:** Reduziert von 3 Tagen → auf 3 Minuten

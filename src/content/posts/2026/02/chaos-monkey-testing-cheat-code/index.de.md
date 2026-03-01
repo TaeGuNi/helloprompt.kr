@@ -4,7 +4,7 @@ title: "💣 Der Hardcore-Testing-Cheat-Code: Wie man KI in den Netflix Chaos Mo
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: " "
 description: "Haben Sie genug von den herzlosen 'Ja, verstanden'-Antworten der KI? Wir enthüllen einen extremen Prompt, der gnadenlose Fehlerbehandlung und Disaster Recovery erzwingt."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "chaos-monkey-testing"]
 ---
@@ -58,7 +58,7 @@ title: "💣 Der Hardcore-Testing-Cheat-Code, der deine KI in einen Netflix Chao
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: " "
 description: "Genug von den seelenlosen 'Ja, verstanden'-Antworten deiner KI? Hier ist der ultimative Prompt für gnadenlose Fehlerbehandlung und Disaster Recovery auf Enterprise-Niveau."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "chaos-monkey-testing"]
 ---

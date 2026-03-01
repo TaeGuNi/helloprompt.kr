@@ -9,11 +9,7 @@ description: "Un prompt IA pratique qui réduit à 3 minutes une étude de march
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "competitor-anal"]
 ---
 # 📝 🔥 Le Prompt SWOT et Étude de Marché Parfait pour les Chefs de Produit
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
+
 - **🎯 Public cible :** Chefs de produit (PM), marketeurs, responsables du développement commercial, juniors (1 à 3 ans d'expérience)
 - **⏱️ Gain de temps :** De 3 jours à 3 minutes
 - **🤖 Modèles recommandés :** Claude 3.5 Sonnet, GPT-4o (L'activation de la recherche web est indispensable)

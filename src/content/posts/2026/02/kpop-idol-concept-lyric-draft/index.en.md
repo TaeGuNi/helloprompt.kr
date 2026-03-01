@@ -21,7 +21,7 @@ tags: ["K-POP", "Idol", "Universe", "Planning", "LyricWriting"]
 
 > _"What if you could design the next global K-POP sensation, complete with an intricate universe and a chart-topping hook?"_
 
-In today's K-POP industry, music alone isn't enough; it's all about the "Universe" (세계관). Just like Aespa's 'Kwangya' or EXO's superpowers, a compelling lore is the foundation of a successful idol group. Whether you're dreaming up a virtual idol group from scratch or vividly imagining the next comeback concept for your ultimate bias, this prompt acts as your personal elite creative director.
+In today's K-POP industry, music alone isn't enough; it's all about the "Universe" (). Just like Aespa's 'Kwangya' or EXO's superpowers, a compelling lore is the foundation of a successful idol group. Whether you're dreaming up a virtual idol group from scratch or vividly imagining the next comeback concept for your ultimate bias, this prompt acts as your personal elite creative director.
 
 ---
 

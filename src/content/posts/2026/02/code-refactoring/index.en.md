@@ -105,11 +105,11 @@ This prompt is a lifesaver when inheriting legacy code or returning to a rushed 
 ```python
 def calc(x, y):
     if x > 19:
-        print("성인")
+        print("")
         p = y * 0.9
         return p
     else:
-        print("학생")
+        print("")
         return y
 ```
 
@@ -121,10 +121,10 @@ def calculate_discounted_price(age: int, base_price: float) -> float:
     DISCOUNT_RATE = 0.9
 
     if age >= ADULT_AGE_THRESHOLD:
-        print("성인입니다.")
+        print(".")
         return base_price * DISCOUNT_RATE
 
-    print("학생입니다.")
+    print(".")
     return base_price
 ```
 

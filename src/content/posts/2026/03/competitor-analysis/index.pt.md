@@ -9,11 +9,7 @@ description: "Um prompt prático de IA que reduz 3 dias de pesquisa de mercado e
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "competitor-anal"]
 ---
 # 📝 🔥 O Prompt Perfeito de Análise SWOT da Concorrência e Pesquisa de Mercado para Planejadores
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
+
 - **🎯 Público-alvo:** Planejadores estratégicos, Profissionais de marketing, Desenvolvedores de novos negócios, Juniores (1 a 3 anos de experiência)
 - **⏱️ Tempo necessário:** Redução de 3 dias → 3 minutos
 - **🤖 Modelos recomendados:** Claude 3.5 Sonnet, GPT-4o (É obrigatório ativar o recurso de pesquisa na web)

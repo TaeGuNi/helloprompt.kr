@@ -9,11 +9,7 @@ description: "¿Errores desconocidos y código espagueti? Descubre prompts prác
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "code-review"]
 ---
 # 📝 Guía perfecta de revisión de código y refactorización sin necesidad de un mentor Senior
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
+
 - **🎯 Recomendado para:** Desarrolladores Junior, ingenieros de Backend/Frontend con 1 a 3 años de experiencia, autodidactas.
 - **⏱️ Tiempo estimado:** De 2 horas de frustración → a 1 minuto.
 - **🤖 Modelos recomendados:** Claude 3.5 Sonnet (el rey de las revisiones de código), GPT-4o

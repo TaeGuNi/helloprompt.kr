@@ -42,7 +42,7 @@ Ir à academia durante um dia de trabalho agitado é quase impossível, mas inve
 
 ## 🚀 Solução: "Fada da Saúde no Escritório"
 
-### 🥉 Versão Básica (기본형)
+### 🥉 Versão Básica ()
 
 Use esta versão quando precisar de um alívio rápido e direto ao ponto.
 
@@ -50,7 +50,7 @@ Use esta versão quando precisar de um alívio rápido e direto ao ponto.
 > **Pedido:** Crie uma rotina de 'Alongamento no Escritório' que eu possa fazer na minha própria mesa sem chamar a atenção dos meus colegas.
 
 
-### 🥇 Versão Pro (전문가형)
+### 🥇 Versão Pro ()
 
 Use esta versão para obter uma rotina detalhada, personalizada e indetectável.
 

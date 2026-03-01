@@ -9,19 +9,15 @@ description: "Ein Praxis-Prompt, der unstrukturierte Meeting-Transkripte sofort 
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "meeting-minutes"]
 ---
 # 📝 Chaotische Meeting-Notizen in 1 Minute strukturieren
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
-<!-- ⚠️ [Lint Rule]   . (Table)      . -->
+
+
 - **🎯 Zielgruppe:** Junior-Mitarbeiter, Projektmanager, Marketer
 - **⏱️ Zeitaufwand:** Von 30 Minuten → auf 1 Minute reduziert
 - **🤖 Empfohlene Modelle:** Alle konversationsbasierten KIs (ChatGPT, Claude, Gemini etc.)
 - ⭐ **Schwierigkeitsgrad:** ⭐☆☆☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
 - 🚀 **Nützlichkeit:** ⭐⭐⭐⭐⭐
-<!-- ⚠️ [Lint Rule] (>) Basic/Pro   (_..._)     . -->
+
 > _"Haben Sie heute Nachmittag auch wieder Ihre ganze Zeit mit dem Schreiben von Meeting-Protokollen verschwendet?"_
 Selbst wenn man direkt nach dem Meeting das aufgenommene Audio in Text umwandelt (mit Tools wie Whisper etc.), ist es eine weitere Qual, die Kernaussagen aus den durcheinandergewürfelten Gesprächen herauszufiltern. Dieser Prompt extrahiert messerscharf nur die **'wichtigsten Entscheidungen'** und das, **'wer was tun muss (Action Items)'**, aus einem zusammenhangslosen Textberg. Einfach kopieren und einfügen.
 ---
@@ -31,7 +27,7 @@ Selbst wenn man direkt nach dem Meeting das aufgenommene Audio in Text umwandelt
 3. Die wichtigsten 'nächsten Schritte pro Verantwortlichem (Action Items)' werden klar herausgearbeitet.
 ---
 ## 🚀 Die Lösung: "Prompt zur automatischen Strukturierung von Meeting-Notizen"
-<!-- ⚠️ [Lint Rule] (>) (Prompt ) Prompt  . -->
+
 ### 🥉 Basic Version (Basis-Version)
 Verwenden Sie diese Version, wenn Sie schnell nur Ergebnisse benötigen.
 > **Rolle:** Du bist ein `[Senior Project Manager]`.
@@ -64,13 +60,13 @@ Verwenden Sie diese Version, wenn detaillierte Qualität gefragt ist.
 > **Eingabe (Input):**
 > - Meeting-Transkript: `[Fügen Sie hier den kopierten Transkript-Text ein]`
 ---
-<!-- ✅ [Lint Rule]  .   CI  . -->
+
 ## 💡 Kommentar des Autors (Insight)
 Der Kern dieses Prompts liegt in der **'Extraktion von Action Items'** und der **'Unterdrückung von Halluzinationen (Hallucination)'**. 
 Der wahre Zweck eines Meeting-Protokolls besteht nicht darin, "das Gesagte aufzuzeichnen", sondern "klarzustellen, was als Nächstes zu tun ist". 
 Wenn man ihn in der Praxis anwendet, erfindet die KI oft plausibel klingende Zeitpläne, die gar nicht im Meeting besprochen wurden. Um dies zu verhindern, wurden die Einschränkung "Erfinde keine fehlenden Inhalte" und die defensive Anweisung "Wenn der Verantwortliche unklar ist, markiere es mit [Klärung erforderlich]" hinzugefügt. Werfen Sie den mit STT-Tools wie Whisper extrahierten Text zusammen mit diesem Prompt in Claude 3.5 Sonnet oder GPT-4o. Die Textbearbeitung, die sonst 30 Minuten dauern würde, schrumpft auf 1 Minute. Trinken Sie in der gewonnenen Zeit lieber noch eine Tasse Kaffee.
 ---
-<!-- ⚠️ [Lint Rule]  .    . -->
+
 ## 🙋 Häufig gestellte Fragen (FAQ)
 - **F: Kann ich auch das Transkript eines einstündigen, langen Meetings komplett einfügen?**
   - A: Ja, die neuesten Modelle (wie Claude 3.5 Sonnet, GPT-4o etc.) verfügen über ein hervorragendes Kontextverständnis und können auch Texte von einer Stunde Länge problemlos verarbeiten. Falls Sie jedoch an ein Token-Limit stoßen, teilen Sie die Eingabe in zwei Hälften auf.

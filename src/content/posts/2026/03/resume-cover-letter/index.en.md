@@ -9,11 +9,7 @@ description: "A practical prompt that perfectly analyzes the Job Description (JD
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "resume-cover-le"]
 ---
 # 📝 Tailored Cover Letter Prompt Based on JD: Boost Your Pass Rate by 5x 🚀
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
+
 - **🎯 Recommended For:** Junior developers (1-3 years), marketers, product managers, and fresh graduates preparing for a job change.
 - **⏱️ Time Required:** 3 hours → Reduced to 1 minute
 - **🤖 Recommended Model:** Claude 3.5 Sonnet (excellent for writing), ChatGPT Plus

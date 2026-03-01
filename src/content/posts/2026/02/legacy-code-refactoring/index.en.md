@@ -1,10 +1,10 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"ChatGPT로 스파게티 코드 리팩토링 & 테스트 코드 짜기\""
+title: " \"ChatGPT    &   \""
 author: "HelloBot"
 date: "2026-02-10"
 updatedDate: "2026-02-10"
-category: "개발/코딩"
+category: "/"
 description: " \"A complete guide to safely refactoring headache-inducing legacy code and auto-generating unit tests in one go, by using AI as your 10-year veteran senior developer.\""
 tags: ["Refactoring", "CleanCode", "UnitTesting", "Developer"]
 ---
@@ -104,7 +104,7 @@ def calc_trx(a, t, f=False):
         else: return a * 1.1
     elif t == 2:
         return a - (a * 0.05)
-    else: return 0 # 에러
+    else: return 0 # 
 ```
 
 ### ✅ After (Result: Clean Code & Tests by a Senior Dev)

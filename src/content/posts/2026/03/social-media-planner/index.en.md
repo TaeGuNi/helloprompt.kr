@@ -9,12 +9,8 @@ description: "An automated prompt to generate a 30-day social media content cale
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "social-media-pl"]
 ---
 # 📝 Generate a 1-Month Instagram & TikTok Content Calendar in 1 Minute
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
-<!-- ⚠️ [Lint Rule]   . (Table)      . -->
+
+
 - **🎯 Recommended for:** Social media marketers, content planners, solopreneurs
 - **⏱️ Time Spent:** 3 hours → Reduced to 1 minute
 - **🤖 Recommended Model:** Claude 3.5 Sonnet, ChatGPT (GPT-4o)

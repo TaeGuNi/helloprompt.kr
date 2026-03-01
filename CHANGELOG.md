@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.11.1](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.11.0...v1.11.1) (2026-03-01)
+
+
+### Bug Fixes
+
+* **seo:** correct literal newline escaping bug in sitemap.xml xml tags ([933b062](https://github.com/TaeGuNi/helloprompt.kr/commit/933b06294147467da94bbfde988e82611962863c))
+
 ## [1.11.0](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.10.0...v1.11.0) (2026-03-01)
 
 

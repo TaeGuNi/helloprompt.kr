@@ -321,48 +321,16 @@ async function main() {
       ? `feat(content): generate post for ${values.keyword}`
       : `feat(content): batch of auto-trends ${batchId}`;
 
+    console.log(`\n💾 Committing generated content...`);
     await runCmd("git add src/content/posts/*");
     await runCmd(`git commit -m "${commitMsg}"`);
-    await runCmd(`git push origin develop`);
 
-    console.log("🚀 Creating Pull Request...");
-    try {
-      await runCmd(
-        `gh pr create --title "${commitMsg}" --body "Automated PR converting trend keywords into multidimensional prompt guides." --base main --head develop`,
-      );
-    } catch (_e) {
-      console.log("PR creation failed or exists.");
-    }
+    console.log(
+      "🚀 Forwarding deployment sequence to Automated Release Engine...",
+    );
+    await runCmd("pnpm release");
 
-    console.log("⏳ Waiting for GH CI to complete...");
-    let isSuccess = false;
-    for (let i = 0; i < 30; i++) {
-      const statusStr = await runCmd(
-        `gh pr status --json statusCheckRollup -q ".currentBranch.statusCheckRollup[0].state" || echo "UNKNOWN"`,
-      );
-      if (statusStr.includes("SUCCESS")) {
-        isSuccess = true;
-        break;
-      } else if (statusStr.includes("FAILURE")) {
-        console.error("❌ CI Checks Failed! PR cannot be merged.");
-        process.exit(1);
-      }
-      await delay(15000);
-    }
-
-    if (isSuccess) {
-      console.log("✅ CI Passed! Merging PR onto main...");
-      await runCmd(`gh pr merge --squash --delete-branch=false`);
-
-      console.log("♻️ Syncing develop branch with merged main...");
-      await runCmd("git checkout develop");
-      await runCmd("git pull origin main --rebase");
-      await runCmd("git push origin develop");
-
-      console.log("🎉 SUCCESS!");
-    } else {
-      console.log("⚠️ TIMEOUT");
-    }
+    console.log("🎉 SUCCESS: Content generation and release deployed.");
   } catch (e) {
     console.error("Pipeline script failed:", e);
     process.exit(1);

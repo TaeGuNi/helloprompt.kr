@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "Automação de Tarefas"
-description: "Um prompt prático que transforma instantaneamente o áudio transcrito e confuso de reuniões em um resumo limpo com itens de ação."
+description: "Um prompt prático que transforma instantaneamente transcrições confusas de reuniões em resumos claros e estruturados com itens de ação."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "meeting-minutes"]
 ---
 # 📝 Estruture Reuniões Caóticas em 1 Minuto
@@ -21,17 +21,17 @@ tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "meeting-minutes"]
 - 🚀 **Utilidade:** ⭐⭐⭐⭐⭐
 
 
-> _"Você perdeu a tarde toda organizando as atas da reunião de hoje?"_
+> _"Você perdeu a tarde inteira tentando organizar a ata da reunião de hoje?"_
 
-Mesmo que você converta o áudio gravado em texto logo após a reunião (usando ferramentas como Clova Note, Whisper, etc.), extrair os pontos principais de uma conversa confusa é outro tormento. Este prompt extrai com precisão apenas as **'decisões principais'** e **'quem deve fazer o quê (Action Items)'** de uma pilha de texto sem contexto. Basta copiar e colar.
+Mesmo que você converta o áudio da gravação em texto logo após a reunião (usando ferramentas como ClovaNote, Whisper, etc.), extrair os pontos principais de uma conversa desestruturada é um verdadeiro tormento. Este prompt extrai com precisão absoluta apenas as **'decisões principais'** e as **'tarefas atribuídas (Action Items)'** de um mar de textos sem contexto. Basta copiar e colar.
 
 ---
 
 ## ⚡️ Resumo de 3 Linhas (TL;DR)
 
-1. Copie o texto bruto transcrito do áudio e jogue-o na IA.
-2. A IA filtra as conversas paralelas e extrai apenas as decisões principais.
-3. Extrai claramente os 'próximos passos por responsável (Action Items)', que é a parte mais importante.
+1. Copie a transcrição bruta do áudio e cole-a na IA.
+2. A IA filtra as conversas paralelas e isola apenas as decisões cruciais.
+3. Extrai de forma cristalina os 'próximos passos por responsável (Action Items)', a etapa mais crítica.
 
 ---
 
@@ -41,40 +41,40 @@ Mesmo que você converta o áudio gravado em texto logo após a reunião (usando
 
 ### 🥉 Versão Básica (Basic Version)
 
-Use quando precisar apenas de resultados rápidos.
+Ideal para quando você precisa de resultados rápidos e diretos.
 
 > **Função:** Você é um `[Gerente de Projeto Sênior]`.
-> **Tarefa:** Leia a seguinte `[Transcrição da Reunião]` e resuma apenas os pontos principais: decisões-chave e os próximos passos (Action Items).
+> **Tarefa:** Analise a `[Transcrição da Reunião]` a seguir e resuma apenas os pontos cruciais: as decisões-chave e os próximos passos (Action Items).
 
 ### 🥇 Versão Profissional (Pro Version)
 
-Use quando precisar de qualidade e detalhes.
+A escolha certa para quando você exige máxima qualidade e riqueza de detalhes.
 
-> **Função (Role):** Você é um `[Gerente de Produto de TI e PM com 10 anos de experiência]`. Você é um especialista em captar o contexto de uma reunião e organizar de forma clara quem deve fazer o quê e até quando.
+> **Função (Role):** Você é um `[Gerente de Produto e PM de TI com 10 anos de experiência]`. Sua especialidade é capturar rapidamente o contexto de qualquer reunião e organizar com clareza quem deve fazer o quê e até quando.
 >
 > **Contexto (Context):**
-> - Cenário: Temos uma transcrição confusa gerada após uma `[reunião semanal de status ou sessão de brainstorming]`.
-> - Objetivo: Criar um resumo estruturado de forma limpa para que os participantes entendam rapidamente o que foi discutido e executem suas tarefas (Action Items) sem confusão.
+> - Cenário: Temos em mãos uma transcrição desordenada, gerada após uma `[reunião semanal de alinhamento ou sessão de brainstorming]`.
+> - Objetivo: Elaborar um resumo estruturado e impecável, garantindo que todos os participantes compreendam o que foi discutido e possam executar suas tarefas (Action Items) sem ambiguidades.
 >
 > **Tarefa (Task):**
-> 1. Leia a `[Transcrição da Reunião]` abaixo e resuma de acordo com a seguinte estrutura:
->   - 📌 Tópico Principal (Main Topic)
->   - 🎯 Decisões Principais (Key Decisions)
->   - 🚨 Assuntos Pendentes (Pending Issues)
->   - ✅ Itens de Ação (Action Items: especificar responsável, prazo e tarefa)
-> 2. Remova completamente saudações, conversas desnecessárias e conteúdos duplicados.
-> 3. Mantenha um tom e estilo de negócios (linguagem escrita, formal e clara).
+> 1. Leia a `[Transcrição da Reunião]` abaixo e condense as informações seguindo rigorosamente esta estrutura:
+>   - 📌 Tópico Principal
+>   - 🎯 Decisões Principais
+>   - 🚨 Assuntos Pendentes
+>   - ✅ Itens de Ação (Especificar claramente o responsável, o prazo e a tarefa)
+> 2. Elimine completamente saudações, conversas irrelevantes e repetições.
+> 3. Mantenha um tom corporativo profissional (linguagem escrita formal, objetiva e clara).
 >
 > **Restrições (Constraints):**
-> - O formato de saída deve ser em forma de lista usando símbolos Markdown (-, *, crases, etc.) e emojis.
-> - Nunca use tabelas (Tables) em Markdown.
-> - Se o responsável por um item de ação não estiver claro, marque como '[A Confirmar]'.
+> - A saída deve ser obrigatoriamente formatada como uma lista, utilizando a sintaxe Markdown (-, *, crases, etc.) e emojis adequados.
+> - Nunca utilize tabelas em Markdown.
+> - Se o responsável por um item de ação não estiver explicitamente definido, marque-o como `[A Confirmar]`.
 >
 > **Aviso (Warning):**
-> - Nunca invente informações que não estejam na transcrição. (Evite alucinações)
+> - Sob nenhuma hipótese invente informações que não constem na transcrição. (Evite alucinações).
 >
 > **Entrada (Input):**
-> - Transcrição da Reunião: `[Cole o texto da transcrição copiado aqui]`
+> - Transcrição da Reunião: `[Cole o texto da sua transcrição aqui]`
 
 ---
 
@@ -82,9 +82,9 @@ Use quando precisar de qualidade e detalhes.
 
 ## 💡 Comentário do Autor (Insight)
 
-O núcleo deste prompt é a **'extração de itens de ação'** e a **'supressão de alucinações (Hallucination)'**. 
-O verdadeiro propósito de escrever uma ata de reunião não é 'registrar o que foi dito', mas sim 'esclarecer o que fazer a seguir'. 
-Na prática, às vezes a IA inventa cronogramas plausíveis que não estão na reunião. Para evitar isso, incluímos uma restrição "nunca invente informações que não estejam na transcrição" e uma instrução defensiva "se o responsável não estiver claro, marque como [A Confirmar]". Tente jogar o texto extraído por ferramentas de STT como o Whisper neste prompt com Claude 3.5 Sonnet ou GPT-4o. O trabalho de refinar o texto que levaria 30 minutos é reduzido para 1 minuto. Use o tempo economizado para tomar mais uma xícara de café.
+O grande diferencial deste prompt reside na **extração cirúrgica de itens de ação** e na **supressão rigorosa de alucinações**. 
+O verdadeiro propósito de uma ata de reunião não é ser um 'diário do que foi dito', mas sim um 'guia claro do que fazer a seguir'. 
+Na prática, a IA frequentemente tenta ser prestativa demais e acaba inventando prazos plausíveis que sequer foram mencionados. Para blindar o resultado contra isso, inserimos a restrição "nunca invente informações" e a instrução defensiva vital: "se o responsável não estiver claro, marque como `[A Confirmar]`". Experimente jogar o texto bruto gerado por ferramentas de STT (como o Whisper) neste prompt usando o Claude 3.5 Sonnet ou o GPT-4o. Aquele trabalho maçante de refinar a ata, que antes consumia 30 minutos da sua tarde, é reduzido a meros 60 segundos. Aproveite o tempo economizado para saborear um bom café.
 
 ---
 
@@ -92,18 +92,18 @@ Na prática, às vezes a IA inventa cronogramas plausíveis que não estão na r
 
 ## 🙋 Perguntas Frequentes (FAQ)
 
-- **P: Posso inserir a transcrição inteira de uma reunião de 1 hora?**
-  - R: Sim, os modelos mais recentes (Claude 3.5 Sonnet, GPT-4o, etc.) têm excelente capacidade de compreensão de contexto e podem lidar facilmente com o volume de texto de 1 hora. No entanto, se você atingir o limite de tokens, divida a entrada pela metade.
-- **P: Funciona na versão gratuita do ChatGPT?**
-  - R: É possível, mas a capacidade de entender o contexto e seguir instruções precisas pode ser um pouco menor em modelos gratuitos (como GPT-3.5). Recomendamos o uso dos modelos mais recentes, sempre que possível.
+- **P: Posso inserir a transcrição completa de uma reunião de 1 hora de uma só vez?**
+  - R: Com certeza. Os modelos de ponta (como Claude 3.5 Sonnet e GPT-4o) possuem uma excelente janela de contexto e processam facilmente o volume de texto equivalente a uma hora de conversa. Caso você atinja algum limite de tokens, basta dividir o texto em duas partes.
+- **P: Esse prompt funciona na versão gratuita do ChatGPT?**
+  - R: Funciona, porém a capacidade de retenção de contexto e a obediência estrita às regras podem ser um pouco inferiores em modelos gratuitos (como o GPT-3.5). Para resultados impecáveis, recomendamos sempre utilizar as versões mais recentes dos modelos.
 
 ---
 
 ## 🧬 Anatomia do Prompt (Why it works?)
 
-1. **Atribuição de Função (Role):** Através da persona de um PM com 10 anos de experiência, forçamos um tom e estilo que não apenas encurta o texto, mas 'esclarece as instruções de trabalho'.
-2. **Estruturação da Tarefa (Task):** Dividimos o formato de saída em tópicos, decisões, assuntos pendentes e itens de ação, evitando que a IA responda em um formato inadequado.
-3. **Restrições (Constraints):** Bloqueamos o uso de tabelas em Markdown, que prejudicam a legibilidade em dispositivos móveis, e forçamos o uso de formato de lista com emojis.
+1. **Atribuição de Função (Role):** Ao injetar a persona de um PM sênior com 10 anos de experiência, forçamos a IA a adotar um tom que vai além de simplesmente encurtar o texto: ela passa a 'esclarecer diretrizes de trabalho'.
+2. **Estruturação da Tarefa (Task):** O formato de saída é segmentado categoricamente em tópicos, decisões, pendências e itens de ação. Isso impede que a IA gere blocos de texto amorfos e difíceis de ler.
+3. **Restrições (Constraints):** Proibimos expressamente o uso de tabelas em Markdown — que costumam quebrar a formatação em telas de celulares — e impomos o uso de listas estilizadas com emojis para máxima escaneabilidade visual.
 
 ---
 
@@ -112,35 +112,35 @@ Na prática, às vezes a IA inventa cronogramas plausíveis que não estão na r
 ### ❌ Antes (Input)
 
 ```text
-Gerente Kim: Ah, sim, estão me ouvindo? Nós nos reunimos hoje para a campanha de marketing deste trimestre. Sr. Park, como está a preparação do plano A e do plano B?
-Sr. Park: Sim, o plano A parece que vai exceder um pouco o orçamento, então acho que teremos que deixá-lo em espera, parece que teremos que seguir com o plano B.
-Sr. Choi: Com licença, se seguirmos com o plano B, eu farei a lista de influenciadores para contato até esta sexta-feira.
-Gerente Kim: Ok, então fixamos o plano B, e o Sr. Park refaz o orçamento e me apresenta até a próxima terça-feira. E o design da landing page... ah, isso ainda não foi discutido com a equipe de design, certo?
-Sr. Park: Sim, isso ainda não foi feito.
+Gerente Kim: Ah, sim, estão me ouvindo? Nós nos reunimos hoje para alinhar a campanha de marketing deste trimestre. Park, como está a preparação do plano A e do plano B?
+Park: Então, o plano A parece que vai estourar um pouco o orçamento. Acho que teremos que deixá-lo em stand-by por enquanto e seguir em frente com o plano B.
+Choi: Com licença, se formos mesmo de plano B, eu já preparo a lista de influenciadores para contato até esta sexta-feira.
+Gerente Kim: Ok, fechado no plano B, então. Park, refaça o orçamento e me apresente até a próxima terça-feira. E sobre o design da landing page... ah, isso ainda não foi alinhado com a equipe de design, certo?
+Park: Isso, ainda não chegamos nessa parte.
 ```
 
 ### ✅ Depois (Result)
 
 ```text
 📌 Tópico Principal
-- Discussão do plano de campanha de marketing do 3º trimestre
+- Alinhamento da campanha de marketing do 3º trimestre
 
 🎯 Decisões Principais
-- Plano A suspenso devido a problemas de estouro de orçamento, Plano B aprovado como decisão final
+- Plano A suspenso (estouro de orçamento); Plano B aprovado como diretriz final
 
 🚨 Assuntos Pendentes
-- Planejamento do design da landing page (necessita de discussão com a equipe de design)
+- Design da landing page (necessita de alinhamento com a equipe de design)
 
 ✅ Itens de Ação
-- 👨‍💼 Sr. Park: Refazer e apresentar o orçamento com base no Plano B (Prazo: próxima terça-feira)
-- 🧑‍💻 Sr. Choi: Fazer a lista de influenciadores relacionados ao Plano B (Prazo: esta sexta-feira)
-- ❓ [A Confirmar]: Responsável pela discussão da landing page com a equipe de design a ser definido
+- 👨‍💼 Park: Refazer e apresentar o orçamento com base no Plano B (Prazo: Próxima terça-feira)
+- 🧑‍💻 Choi: Levantar a lista de influenciadores para o Plano B (Prazo: Esta sexta-feira)
+- ❓ [A Confirmar]: Definir o responsável pelo alinhamento da landing page com a equipe de design
 ```
 
 ---
 
 ## 🎯 Conclusão
 
-Não desperdice sua energia organizando atas de reuniões complexas. 
-Deixe a organização do texto bagunçado para a IA e concentre-se em executar os itens de ação decididos. 
-Agora, saia do trabalho no horário! 🍷
+Chega de desperdiçar sua energia mental tentando decifrar atas de reuniões intermináveis. 
+Delegue a organização do caos textual para a IA e concentre-se no que realmente importa: a execução das tarefas. 
+Agora feche o notebook e aproveite o seu fim de dia! 🍷

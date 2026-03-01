@@ -23,15 +23,15 @@ image: "/images/hooks/powerpoint-outline-prompt.jpg"
 
 ![🔥 Struttura PPT in 1 Minuto: Il Prompt AI per PowerPoint che Ti Fa Uscire Prima dall'Ufficio](/images/hooks/powerpoint-outline-prompt.jpg)
 
-Il vero motivo per cui impieghiamo ore a preparare una presentazione o un report non è la ricerca del "design perfetto". La verità è che esauriamo le nostre energie mentali già nella fase iniziale, cercando di definire i contenuti e la loro sequenza logica. Con il prompt di oggi, eliminerai alla radice l'ansia da pagina bianca. Ti basterà inserire il target di riferimento e l'obiettivo finale: in soli 60 secondi, l'AI costruirà uno storytelling impeccabile, suggerendoti persino l'approccio visivo più efficace per ogni singola slide.
+Il vero motivo per cui impieghiamo ore a preparare una presentazione o un report non è la ricerca del "design perfetto". La verità è che esauriamo le nostre energie mentali già nella fase iniziale, cercando di definire i contenuti e la loro sequenza logica. Con il prompt di oggi, eliminerai alla radice l'ansia da pagina bianca. Ti basterà inserire il pubblico di riferimento e l'obiettivo finale: in soli 60 secondi, l'AI costruirà uno storytelling impeccabile, suggerendoti persino l'approccio visivo più efficace per ogni singola slide.
 
 ---
 
 ## ⚡️ Riassunto in 3 righe (TL;DR)
 
 1. Il cuore di una presentazione PowerPoint non è la veste grafica, ma un'architettura logica solida e inattaccabile.
-2. Fornendo all'AI parametri chiave come pubblico, obiettivo e durata, il modello bilancerà in automatico il peso dei contenuti e i format visivi ideali per ogni slide.
-3. Con un solo prompt, dirai addio per sempre al blocco dello scrittore, accelerando drasticamente il tuo intero flusso di lavoro.
+2. Fornendo all'AI parametri chiave come pubblico, obiettivo e durata, il modello bilancia in automatico il peso dei contenuti e i format visivi ideali per ogni slide.
+3. Con un solo prompt dirai addio per sempre al blocco dello scrittore, accelerando drasticamente il tuo flusso di lavoro.
 
 ---
 

@@ -5,13 +5,10 @@ author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: " "
-description: "Evita las traducciones literales y mecánicas. Este prompt de localización captura los matices culturales y la jerga de tu mercado objetivo."
+description: "Olvídate de las traducciones literales y mecánicas. Este prompt de localización captura a la perfección los matices culturales y la jerga específica de tu mercado objetivo."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "localization-tr"]
 ---
 # 📝 El prompt definitivo para una localización auténtica y sin rastro de traducción automática
-
-
-
 
 - **🎯 Recomendado para:** Profesionales del marketing global, ejecutivos de ventas internacionales, Product Managers
 - **⏱️ Tiempo ahorrado:** De 1 hora → a 3 minutos
@@ -36,31 +33,31 @@ Cambiar palabras de un idioma a otro es algo que Google Translate ya hace. Lo qu
 
 ## 🚀 La solución: "Localización con mentalidad nativa"
 
-
-
 ### 🥉 Versión Básica
+
 Úsala cuando necesites resultados rápidos.
 
-> **Rol:** Eres un copywriter profesional con más de 10 años de experiencia trabajando en `[País objetivo]`.
+> **Rol:** Eres un copywriter profesional con más de 10 años de experiencia trabajando en `[País de destino]`.
 >
-> **Tarea:** Traduce el siguiente texto al `[Idioma objetivo]`. No hagas una traducción literal. Utiliza expresiones cotidianas, modismos y un lenguaje natural que un hablante nativo usaría en su día a día.
+> **Tarea:** Traduce el siguiente texto al `[Idioma de destino]`. No hagas una traducción literal. Utiliza expresiones cotidianas, modismos y un lenguaje natural que un hablante nativo usaría en su día a día.
 > 
 > **Texto original:**
 > `[Texto a traducir]`
 
 ### 🥇 Versión Pro
+
 Úsala cuando necesites una calidad impecable y atención al detalle.
 
 > **Rol:** 
-> Eres un hablante nativo y un experto en `[Sector/Profesión, ej: Marketing para B2B SaaS]` que comprende a la perfección el mercado de `[País objetivo, ej: España o México]`.
+> Eres un hablante nativo y un experto en `[Sector/Profesión, ej. Marketing para B2B SaaS]` que comprende a la perfección el mercado de `[País de destino, ej. España o México]`.
 >
 > **Contexto:**
 >
-> - Idioma de origen: `[Idioma de origen, ej: Inglés]`
-> - Idioma objetivo: `[Idioma objetivo, ej: Español de España]`
-> - Público objetivo: `[ej: Directores de TI y tomadores de decisiones en empresas tecnológicas]`
-> - Tono y estilo: `[ej: Profesional pero cercano, moderno y persuasivo]`
-> - Propósito del documento: `[ej: Campaña de email marketing para el lanzamiento de un nuevo servicio]`
+> - Idioma de origen: `[Idioma de origen, ej. Inglés]`
+> - Idioma de destino: `[Idioma de destino, ej. Español de España]`
+> - Público objetivo: `[ej. Directores de TI y tomadores de decisiones en empresas tecnológicas]`
+> - Tono y estilo: `[ej. Profesional pero cercano, moderno y persuasivo]`
+> - Propósito del documento: `[ej. Campaña de email marketing para el lanzamiento de un nuevo servicio]`
 >
 > **Tarea:**
 >
@@ -112,6 +109,7 @@ Especialmente al traducir textos de marketing, te recomiendo alimentar al modelo
 ## 📊 Demostración: Antes y Después
 
 ### ❌ Antes (Entrada)
+
 ```text
 (Instrucción simple: "Traduce la siguiente oración al español")
 Entrada: "         .        !"
@@ -120,6 +118,7 @@ Resultado: "Si implementa nuestra solución, la eficiencia de su trabajo aumenta
 ```
 
 ### ✅ Después (Resultado)
+
 ```text
 (Resultado usando el Prompt Pro - Objetivo: Startup tecnológica en un país hispanohablante)
 Traducción: 
@@ -137,4 +136,5 @@ Razones de la adaptación:
 
 Una traducción excelentemente localizada transmite al cliente la sensación de que "este servicio fue diseñado pensando exclusivamente en nosotros". 
 Antes de gastar una fortuna en agencias de traducción para tu expansión global, utiliza este prompt para elevar la calidad de tus primeros borradores a un nivel completamente nuevo. 
+
 ¡Y ahora, a disfrutar del tiempo libre! 🍷

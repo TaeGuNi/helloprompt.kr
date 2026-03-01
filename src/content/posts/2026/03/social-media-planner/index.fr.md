@@ -5,11 +5,10 @@ author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "Automatisation du travail"
-description: "Un prompt pour générer automatiquement 30 jours de calendrier de contenu sur les réseaux sociaux, conçu pour les marketeurs et les gestionnaires fatigués de chercher quoi publier chaque jour."
+description: "Le prompt ultime pour générer 30 jours de calendrier éditorial sur les réseaux sociaux en 1 minute. Fini le syndrome de la page blanche pour les community managers et marketeurs épuisés."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "social-media-pl"]
 ---
 # 📝 Générer un calendrier de contenu Instagram & TikTok d'un mois en 1 minute
-
 
 - **🎯 Recommandé pour :** Marketeurs sur les réseaux sociaux, créateurs de contenu, solopreneurs
 - **⏱️ Temps gagné :** De 3 heures à 1 minute
@@ -18,97 +17,100 @@ tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "social-media-pl"]
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
 - 🚀 **Utilité :** ⭐⭐⭐⭐⭐
 
-*Que vais-je publier sur Insta aujourd'hui ? Si vous repoussez l'heure de votre départ du bureau en fixant un écran vide chaque matin, il est temps de déléguer la planification à l'IA et de vous concentrer sur l'exécution.*
+> _"« Qu'est-ce que je vais bien pouvoir poster sur Insta aujourd'hui... ? » Si vous repoussez l'heure de votre départ du bureau en fixant un écran vide chaque matin, il est temps de déléguer la planification à l'IA pour vous concentrer sur ce qui compte vraiment : l'exécution."_
 
-La planification de contenu est une tâche laborieuse. Analyser la cible, dénicher les tendances et adapter le ton pour chaque jour de la semaine peut prendre toute une journée. En saisissant simplement votre domaine d'activité et votre cible, ce prompt génère instantanément un calendrier de contenu d'un mois, prêt à être déployé. Il est conçu pour réduire drastiquement le temps de copier-coller des professionnels.
+La planification éditoriale est une tâche chronophage et épuisante. Analyser l'audience, dénicher les tendances algorithmiques et adapter le ton pour chaque jour de la semaine peut facilement engloutir votre journée. En renseignant simplement votre secteur d'activité et votre cœur de cible, ce prompt génère instantanément un calendrier de contenu mensuel prêt à être déployé. Il a été pensé sur mesure pour les professionnels du marketing qui veulent drastiquement réduire les heures perdues sur Excel ou Notion.
 
 ---
 ## ⚡️ En résumé (TL;DR)
-1. Résolvez le problème quotidien de la "panne d'idées" en une seule exécution de prompt.
-2. Analysez les points de douleur (pain-points) de votre audience pour trouver des accroches à fort taux de conversion.
-3. Obtenez une liste au format Markdown, facile à lire sur mobile, parfaite pour être partagée immédiatement sur Slack ou Notion (au lieu d'un tableau classique).
+1. Éradiquez définitivement le syndrome de la page blanche grâce à un seul prompt ultra-ciblé.
+2. Exploitez les points de douleur (*pain points*) de votre audience pour formuler des accroches à fort taux de conversion.
+3. Obtenez un livrable au format liste (Markdown), parfaitement lisible sur mobile et prêt à être partagé sur Slack ou Notion sans aucune remise en page.
 
 ---
 ## 🚀 La solution : "Prompt automatisé pour planificateur de réseaux sociaux"
 
 ### 🥉 Version Basique (Basic Version)
-À utiliser lorsque vous souhaitez survoler rapidement une liste d'idées.
+À utiliser lorsque vous avez besoin de générer rapidement une première rafale d'idées.
 
-> **Rôle :** Tu es un `[Directeur de contenu sur les réseaux sociaux avec 10 ans d'expérience]`.
-> **Tâche :** Dresse une liste de sujets de Reels Instagram sur 30 jours pour promouvoir une `[application de gestion financière pour les jeunes actifs dans la vingtaine]`. Les publications se feront uniquement du lundi au vendredi.
+> **Rôle :** Tu es un `[Directeur de contenu Social Media avec 10 ans d'expérience]`.
+> **Tâche :** Dresse une liste de sujets de Reels Instagram sur 30 jours pour faire la promotion d'une `[application de gestion financière destinée aux jeunes actifs dans la vingtaine]`. Prévois des publications uniquement du lundi au vendredi.
 
 ### 🥇 Version Pro (Pro Version)
-À utiliser lorsque vous avez besoin d'extraire en une seule fois des thématiques précises par jour, des phrases d'accroche percutantes et des brouillons de légendes.
+À utiliser pour obtenir d'un seul coup une stratégie quotidienne ultra-précise, des phrases d'accroche (Hooks) percutantes et des brouillons de publications prêts à l'emploi.
 
 > **Rôle (Role) :** 
-> Tu es un directeur marketing mondial sur les réseaux sociaux avec 10 ans d'expérience, obsédé par l'optimisation du taux de conversion. Tu comprends parfaitement les algorithmes de TikTok et des Reels Instagram, et tu es un expert dans la rédaction de scripts d'accroche (Hook) pour éviter l'abandon dans les 3 premières secondes.
+> Tu es un Directeur Social Media international avec 10 ans d'expérience, littéralement obsédé par l'optimisation du taux de conversion. Tu maîtrises sur le bout des doigts les algorithmes de TikTok et des Reels Instagram, et tu es un expert absolu dans la rédaction de scripts d'accroche (Hooks) conçus pour bloquer le scroll et éviter tout abandon dans les 3 premières secondes.
 >
 > **Contexte (Context) :**
-> - Entreprise/Service : `[Outil B2B SaaS d'automatisation des tâches]`
-> - Cible principale : `[Marketeurs et planificateurs juniors ayant moins de 3 ans d'expérience, qui font des heures supplémentaires tous les jours]`
-> - Canaux : `[Reels Instagram, TikTok]`
-> - Fréquence de publication : `[3 fois par semaine - Mardi, Mercredi, Jeudi]`
-> - Ton et style : `[Professionnel mais pas trop formel, avec une touche d'humour décalé et un franc-parler]`
+> - Entreprise/Service : `[Outil SaaS B2B d'automatisation des tâches chronophages]`
+> - Cible principale : `[Marketeurs et chefs de projet juniors avec moins de 3 ans d'expérience, épuisés par les heures supplémentaires quotidiennes]`
+> - Canaux de diffusion : `[Reels Instagram, TikTok]`
+> - Fréquence de publication : `[3 fois par semaine : Mardi, Mercredi, Jeudi]`
+> - Ton et style : `[Professionnel mais percutant, avec une dose d'humour sarcastique et un franc-parler ancré dans la réalité]`
 >
 > **Tâche (Task) :**
-> 1. Sur la base des conditions ci-dessus, planifie un calendrier de contenu pour les 4 prochaines semaines (un mois) comprenant un total de 12 vidéos courtes (short-form).
-> 2. Chaque contenu doit obligatoirement inclure les éléments suivants :
+> 1. En te basant strictement sur le contexte ci-dessus, élabore un calendrier éditorial pour les 4 prochaines semaines (soit 1 mois), totalisant 12 vidéos au format court (short-form).
+> 2. Chaque idée de contenu doit impérativement détailler les éléments suivants :
 >    - 🗓️ Semaine et jour de publication
->    - 🎯 Sujet du contenu (Cibler les points de douleur de l'audience)
->    - 🎣 Phrase d'accroche des 3 premières secondes (Hook - la toute première phrase de la vidéo)
->    - 📝 Guide de mise en scène visuelle (Ce qui doit être montré à l'écran)
->    - 💬 Brouillon de la légende (texte de la publication) et 3 hashtags
-> 3. Le texte entre `[ ]` correspond aux variables que j'ai saisies pour mon propre service.
+>    - 🎯 Sujet du contenu (doit appuyer là où ça fait mal : les points de douleur)
+>    - 🎣 Accroche des 3 premières secondes (Hook - la toute première phrase choc de la vidéo)
+>    - 📝 Guide de mise en scène visuelle (Ce qui se passe concrètement à l'écran)
+>    - 💬 Brouillon de la légende (Caption prête à publier) et 3 hashtags stratégiques
+> 3. Le texte entre les crochets `[ ]` représente les variables spécifiques à mon activité.
 >
 > **Contraintes (Constraints) :**
-> - N'utilise sous aucun prétexte le format tableau (Table) en Markdown pour ta réponse.
-> - À la place, génère une liste avec des puces (bullet points) et des emojis pour une meilleure lisibilité.
-> - La phrase d'accroche ne doit pas être abstraite. Utilise des chiffres précis ou des mots forts. (Ex: "Si vous ignorez cela, vous ferez des heures sup' toute votre vie", etc.)
-> - Fournis uniquement le contenu du calendrier, sans aucune introduction ou conclusion superflue.
+> - N'utilise SOUS AUCUN PRÉTEXTE le format tableau (Table) en Markdown. C'est formellement interdit.
+> - Formate ta réponse sous forme de liste à puces (bullet points) structurée avec des emojis pour garantir une lisibilité parfaite sur mobile.
+> - L'accroche (Hook) ne doit jamais être floue ou générique. Utilise des chiffres percutants ou un vocabulaire tranchant. (Ex: "Si vous ignorez cette astuce, préparez-vous à faire des heures sup' jusqu'à la retraite".)
+> - Génère EXCLUSIVEMENT le calendrier de contenu. Ne rédige aucune phrase d'introduction ni de conclusion.
 >
 > **Avertissement (Warning) :**
-> - Exclus totalement les banalités qui ne résonnent pas avec la cible. Identifie les véritables difficultés rencontrées par les professionnels (ex: le travail répétitif sur Excel, les demandes déraisonnables des supérieurs, etc.).
+> - Bannis les discours creux et les clichés généralistes ("Comment être plus productif"). Identifie avec précision chirurgicale les vraies galères quotidiennes des professionnels de ce secteur (ex : copier-coller des cellules Excel pendant 2 heures, les feedbacks lunaires des managers, etc.).
 
 ---
 ## 💡 Les conseils de l'auteur (Insight)
-Le secret de ce prompt réside dans **"la stimulation des points de douleur de la cible"** et **"l'interdiction stricte d'utiliser des tableaux"**. 
-Généralement, si vous demandez à une IA de créer un planificateur, elle générera neuf fois sur dix un large tableau horizontal. C'est lisible sur un ordinateur, mais si vous le consultez depuis l'application Slack ou Notion sur votre mobile lors d'un déplacement, la mise en page sera totalement brisée, vous obligeant à refaire le travail de mise en forme. C'est pourquoi j'ai imposé le format liste dans les contraintes. En entreprise, pouvoir copier-coller directement le résultat est la clé de la productivité.
+La véritable force de ce prompt repose sur deux piliers : **l'exploitation brutale des *pain points* (points de douleur) de la cible** et **l'interdiction formelle de générer des tableaux**. 
 
-De plus, pour les vidéos courtes, les 3 premières secondes sont vitales. Si vous demandez vaguement "donne-moi 10 idées", vous obtiendrez des résultats ennuyeux comme "Astuces pour gagner en efficacité". En imposant au persona des contraintes spécifiques comme "obsédé par la conversion" ou "franc-parler", l'IA générera des accroches percutantes et prêtes à l'emploi comme "Qui d'autre a fait des heures supplémentaires hier juste pour faire du copier-coller sur Excel ?". Ne perdez pas de temps : utilisez ce prompt pour poser les bases, ajoutez-y une pincée de votre expertise métier, et passez directement au tournage.
+Si vous demandez naïvement à une IA de créer un "calendrier de contenu", elle vous sortira dans 99% des cas un tableau kilométrique. C'est très bien sur un écran d'ordinateur, mais essayez de le lire sur l'application mobile Slack ou Notion pendant votre trajet matinal : l'affichage sera catastrophique, et vous perdrez 20 minutes à tout reformater. C'est précisément pour cela que j'ai verrouillé la sortie sur un format liste (Markdown). Dans un environnement professionnel, un livrable qui n'est pas prêt au "copier-coller immédiat" est un livrable raté.
+
+De plus, sur les formats courts (Reels/TikTok), la guerre se gagne ou se perd dans les 3 premières secondes. Un prompt paresseux ("Donne-moi 10 idées") accouchera de banalités mortelles comme "3 astuces pour être plus efficace". En injectant un persona ultra-typé ("obsédé par la conversion", "franc-parler"), on force l'IA à cracher des Hooks agressifs et ultra-réalistes : *"Qui d'autre a ruiné sa soirée d'hier en copiant-collant des cellules Excel ?"*. 
+
+Ne réinventez pas la roue : lancez ce prompt, récupérez l'ossature, saupoudrez-la de votre expertise métier, et allumez directement votre caméra.
 
 ---
 ## 🙋 Foire Aux Questions (FAQ)
 - **Q : Est-ce que cela fonctionne avec la version gratuite de ChatGPT ?**
-  - R : Oui, cela fonctionne. Cependant, pour capturer les nuances complexes (humour décalé, franc-parler), les modèles récents comme Claude 3.5 Sonnet ou GPT-4o ont un avantage écrasant. Les modèles gratuits ont parfois tendance à produire des textes trop sages ou lisses.
+  - R : Oui, le prompt fonctionnera. Toutefois, pour capter les subtilités de ton (l'humour sarcastique, le franc-parler), les modèles avancés comme Claude 3.5 Sonnet ou GPT-4o offrent des résultats infiniment supérieurs. La version gratuite a tendance à lisser le texte et à le rendre trop institutionnel.
 - **Q : Puis-je l'utiliser pour des YouTube Shorts ou des articles de blog ?**
-  - R : Absolument. Il suffit de modifier la variable `[Canaux]` par "YouTube Shorts" ou "Blog" et d'ajuster le "Ton et style" en conséquence. Le prompt fonctionnera parfaitement.
-- **Q : Que faire si les résultats sont trop banals ou génériques ?**
-  - R : Essayez de restreindre drastiquement votre `[Cible principale]`. Plutôt que "Femmes dans la vingtaine", soyez très spécifique : "Étudiantes de 20 ans accros aux cafés Instagrammables qui visitent les pop-up stores du Marais chaque semaine". Plus vous êtes précis, plus la qualité du résultat grimpera en flèche.
+  - R : Absolument. Remplacez simplement la variable `[Canaux de diffusion]` par "YouTube Shorts" ou "Blog SEO", et adaptez le "Ton et style" en conséquence. L'architecture du prompt est suffisamment robuste pour encaisser ce pivot.
+- **Q : Que faire si les idées générées restent trop génériques ?**
+  - R : Le problème vient de votre variable cible. Évitez les cibles vagues comme "Femmes de 20 à 30 ans". Soyez chirurgical : `[Étudiantes de 20 ans, accros aux cafés esthétiques sur Instagram, prêtes à faire 2h de queue pour un pop-up store le week-end]`. Plus vous nourrissez l'IA de détails spécifiques, plus la pertinence explosera.
 
 ---
 ## 🧬 Anatomie du prompt (Why it works?)
-1. **Rôle (L'expert en conversion) :** En demandant à l'IA d'incarner un expert obsédé par l'algorithme et le taux d'abandon des 3 premières secondes plutôt qu'un simple marketeur, on augmente l'impact du contenu.
-2. **Contexte (Paramétrisation) :** En séparant le modèle économique, la cible, le canal, la fréquence et le ton, cela devient un modèle universel. Quel que soit votre secteur, il suffit de modifier le texte entre crochets pour l'utiliser instantanément.
-3. **Contraintes (Contrôle du format) :** Pour éliminer le temps passé à retravailler le texte, l'interdiction des "tableaux cassés" sur mobile force l'IA à produire une liste structurée.
+1. **Rôle (Le Growth Hacker) :** En exigeant de l'IA qu'elle endosse le costume d'un expert obnubilé par la rétention des 3 premières secondes plutôt que celui d'un simple "marketeur", on élève instantanément le niveau d'exigence du rendu.
+2. **Contexte (Modularité totale) :** En isolant le secteur, la cible, les canaux, la fréquence et le ton sous forme de variables `[ ]`, ce prompt devient une machine universelle. Il s'adapte à n'importe quel business en 10 secondes de personnalisation.
+3. **Contraintes (UX & Formatage) :** En interdisant les tableaux — ennemis jurés de la lecture sur mobile — le prompt garantit un format textuel fluide, prêt à être poussé directement dans les outils de gestion de projet de votre équipe.
 
 ---
 ## 📊 La preuve : Avant & Après (Before & After)
-### ❌ Avant (Prompt classique)
+### ❌ Avant (Le prompt du débutant)
 - Je suis un marketeur qui vend des logiciels SaaS B2B, crée-moi un mois de sujets pour des Reels Instagram.
-*(Résultat : un énorme tableau qui déborde de l'écran avec des textes académiques du type "Semaine 1 : Qu'est-ce qu'un SaaS ?", "Semaine 2 : Les avantages du Cloud")*
+*(Résultat : L'IA génère un énorme tableau horizontal illisible sur mobile, avec des thèmes scolaires et ennuyeux comme "Semaine 1 : Qu'est-ce qu'un SaaS ?", "Semaine 2 : Les avantages du Cloud".)*
 
-### ✅ Après (Extrait du résultat de la Version Pro)
+### ✅ Après (Le résultat de la Version Pro)
 - 🗓️ **Semaine 1 - Mardi**
-- 🎯 **Sujet du contenu :** Attaquer l'inefficacité de la compilation manuelle de données
-- 🎣 **Accroche des 3 secondes (Hook) :** "Vous pleurez encore parce que votre Excel a planté à cause d'un RECHERCHEV ?"
+- 🎯 **Sujet du contenu :** L'absurdité et l'inefficacité de la compilation manuelle de données
+- 🎣 **Accroche des 3 secondes (Hook) :** "Vous êtes vraiment en train de pleurer parce que votre Excel a planté à cause d'un RECHERCHEV ?"
 - 📝 **Guide visuel :** Vue à la première personne (POV) : regard fatigué, fixant avec désespoir un écran d'ordinateur totalement figé.
 - 💬 **Brouillon de la légende :**
-  "Qui a déjà vu son Excel planter 10 minutes avant la fin de la journée ? 🙋‍♂️🙋‍♀️
-  Vous comptez compiler ces données jusqu'à quand ? Échappez enfin à l'enfer du copier-coller ! 
+  "Qui a déjà vu son Excel rendre l'âme 10 minutes avant la fin de la journée ? 🙋‍♂️🙋‍♀️
+  Vous comptez compiler ces données manuellement jusqu'à quand ? Échappez enfin à l'enfer du copier-coller ! 
   Avec notre outil, une corvée de 3 heures se règle en 1 minute chrono. Essayez-le gratuitement via le lien ci-dessous 👇"
   #VieDeBureau #Automatisation #FinDeJournee
 
 ---
 ## 🎯 Conclusion
-Consacrez votre énergie à l'exécution plutôt qu'à la planification. Le calendrier généré par l'IA ne sera peut-être pas parfait à 100 %. Mais c'est 100 fois plus rapide et efficace que de démarrer d'une page blanche.
-Copiez, collez, et filmez votre première vidéo dès aujourd'hui. Il est temps de rentrer chez vous à l'heure ! 🍷
+Préservez votre précieuse énergie pour l'exécution, pas pour la planification. Le calendrier généré par l'IA ne sera peut-être pas parfait à 100 % du premier coup, mais il est infiniment plus rapide et stratégique que d'angoisser devant une page blanche. 
+Copiez, collez, et tournez votre première vidéo dès aujourd'hui. Il est grand temps de quitter le bureau à l'heure ! 🍷

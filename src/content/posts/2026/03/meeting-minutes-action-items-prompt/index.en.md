@@ -5,11 +5,10 @@ author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "Work Automation"
-description: "A practical prompt that instantly converts rambling meeting voice transcripts into clean summaries and action items."
+description: "A highly practical prompt that instantly converts rambling meeting transcripts into crisp summaries and clear action items."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "meeting-minutes"]
 ---
-# 📝 Structuring Messy Meeting Minutes in 1 Minute
-
+# 📝 Clean Up Messy Meeting Minutes in 1 Minute
 
 - **🎯 Recommended for:** Junior Employees, Project Managers, Marketers
 - **⏱️ Time Saved:** 30 minutes → 1 minute
@@ -18,65 +17,65 @@ tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "meeting-minutes"]
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
 - 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-> _"Did you waste your entire afternoon organizing meeting minutes today?"_
-Even if you convert the recorded audio into text right after the meeting (using tools like Clova Note, Whisper, etc.), extracting the core points from a chaotic mix of conversations is another painful task. This prompt sharply extracts only the **'Key Decisions'** and **'Action Items' (who needs to do what)** from a contextless pile of text. Just copy and paste it right away.
+> _"Did you waste another entire afternoon just trying to organize meeting minutes?"_
+Even if you convert your recorded audio into text immediately after a meeting (using tools like Otter.ai, Whisper, or Clova Note), extracting the core points from a chaotic, rambling conversation is a painful chore. This prompt surgically extracts only the **'Key Decisions'** and **'Action Items' (who needs to do what)** from a massive wall of unstructured text. Just copy, paste, and you're done.
 ---
 ## ⚡️ 3-Line Summary (TL;DR)
-1. Copy the raw, voice-converted text and feed it to the AI.
-2. The AI filters out the small talk and extracts only the core decisions.
-3. It clearly identifies the most important 'Action Items per person'.
+1. Copy your raw, auto-transcribed text and feed it directly to the AI.
+2. The AI instantly filters out the fluff and extracts the core decisions.
+3. It clearly organizes and highlights the critical 'Action Items by Assignee'.
 ---
 ## 🚀 Solution: "Automated Meeting Minutes Structuring Prompt"
 
 ### 🥉 Basic Version
-Use this when you need quick results.
+Use this when you need quick, straightforward results.
 > **Role:** You are a `[Senior Project Manager]`.
 > **Task:** Read the following `[Meeting Transcript]` and summarize only the core Key Decisions and Action Items.
 ### 🥇 Pro Version
-Use this when you need detailed quality.
-> **Role:** You are a `[10-year experienced IT Service Planner and PM]`. You are an expert at grasping the context of a meeting and clearly organizing who needs to do what and by when.
+Use this when you need high-quality, detailed documentation.
+> **Role:** You are an `[IT Service Planner and PM with 10 years of experience]`. You are an expert at grasping the nuances of a meeting and clearly organizing who needs to do what and by when.
 >
 > **Context:**
 > - Background: You have a messy text transcript from a `[Weekly Status Report or Ideation Meeting]`.
-> - Goal: Create a cleanly structured summary so that attendees can quickly understand the meeting contents and perform their Action Items without confusion.
+> - Goal: Create a cleanly structured summary so that all attendees can instantly understand the meeting outcomes and execute their Action Items without confusion.
 >
 > **Task:**
 > 1. Read the `[Meeting Transcript]` below and summarize it according to the following structure:
 >   - 📌 Main Topic
 >   - 🎯 Key Decisions
 >   - 🚨 Pending Issues
->   - ✅ Action Items (Specify assignee, deadline, and task)
-> 2. Completely remove greetings, unnecessary small talk, and repetitive content.
-> 3. Maintain a business tone and manner (polite and clear written style).
+>   - ✅ Action Items (Specify assignee, deadline, and specific task)
+> 2. Completely eliminate greetings, unnecessary small talk, and repetitive filler content.
+> 3. Maintain a professional business tone (polite, concise, and clear written style).
 >
 > **Constraints:**
-> - Output the format as a list using Markdown symbols (-, *, backticks, etc.) and emojis.
+> - Format the output as a list using Markdown symbols (-, *, backticks, etc.) and emojis.
 > - Absolutely do not use Markdown tables.
-> - If the assignee for an action item is unclear, mark it as '[Needs Confirmation]'.
+> - If the assignee for any action item is ambiguous, explicitly mark it as `[Needs Confirmation]`.
 >
 > **Warning:**
-> - Absolutely do not make up information that is not in the transcript. (Prevent hallucination)
+> - Absolutely do not hallucinate or invent information that is not explicitly stated in the transcript.
 >
 > **Input:**
 > - Meeting Transcript: `[Paste your copied transcript text here]`
 ---
 
 ## 💡 Author's Comment (Insight)
-The core of this prompt is **'Action Item Extraction'** and **'Hallucination Suppression'**. 
-The real purpose of writing meeting minutes is not 'recording what was said', but 'clarifying what to do next'. 
-When used in actual work, you'll often find the AI confidently making up plausible schedules that were never mentioned in the meeting. To prevent this, I included the constraint "do not make up information" and the defensive instruction "if the assignee is unclear, mark as [Needs Confirmation]". Try throwing the text extracted from an STT tool like Clova Note into Claude 3.5 Sonnet or GPT-4o along with this prompt. A text-refining task that usually takes 30 minutes will shrink to 1 minute. Enjoy another cup of coffee with the time you saved.
+The true power of this prompt lies in **'Action Item Extraction'** and **'Hallucination Suppression'**. 
+The ultimate goal of meeting minutes isn't just to 'record what was said'—it's to 'clarify what happens next.' 
+In real-world usage, AI models will often confidently invent plausible deadlines or assignees that were never actually discussed. To combat this, I specifically embedded the strict constraint to "not make up information" alongside the defensive fallback: "if the assignee is unclear, mark as `[Needs Confirmation]`". Try dropping your raw STT (Speech-to-Text) transcript from tools like Otter.ai or Clova Note into Claude 3.5 Sonnet or GPT-4o using this prompt. A tedious text-refining chore that normally drains 30 minutes of your day will shrink to just 1 minute. Use that saved time to enjoy another cup of coffee.
 ---
 
 ## 🙋 Frequently Asked Questions (FAQ)
-- **Q: Can I input a transcript of a 1-hour long meeting all at once?**
-  - A: Yes, the latest models (Claude 3.5 Sonnet, GPT-4o, etc.) have excellent context-grasping abilities and can easily handle a 1-hour transcript. However, if you hit a token limit, divide it in half and input it separately.
-- **Q: Does this work on the free version of ChatGPT?**
-  - A: It's possible, but the ability to grasp the context and accurately follow instructions might be slightly lower in free models (like GPT-3.5). We recommend using the latest models if possible.
+- **Q: Can I input a full transcript of a 1-hour meeting all at once?**
+  - A: Yes, absolutely. The latest models (like Claude 3.5 Sonnet and GPT-4o) boast massive context windows and can easily process a 1-hour transcript. However, if you ever hit a token limit error, simply split the text in half and process it in two batches.
+- **Q: Does this prompt work on the free version of ChatGPT?**
+  - A: It works, but the AI's ability to grasp nuanced context and strictly follow formatting instructions may be slightly degraded on older free models (like GPT-3.5). For the best results, we highly recommend using the latest flagship models.
 ---
 ## 🧬 Prompt Anatomy (Why it works?)
-1. **Assigning a Role:** By using the persona of a 10-year experienced PM, we forced a tone and manner of 'clarifying work instructions' rather than simply shortening the text.
-2. **Structuring the Task:** By breaking down the output format into agenda, decisions, pending issues, and action items, we prevented the AI from answering in an irrelevant format.
-3. **Constraints:** We completely blocked the use of Markdown tables, which ruin mobile readability, and forced the use of an emoji list format.
+1. **Assigning a Role:** By assigning the persona of a 10-year experienced PM, we force the AI to adopt a tone of 'clarifying actionable work instructions' rather than just blindly summarizing the text.
+2. **Structuring the Task:** By strictly defining the output format (Main Topic, Decisions, Pending Issues, Action Items), we prevent the AI from generating an unstructured, rambling response.
+3. **Constraints:** We explicitly banned Markdown tables—which are notorious for ruining mobile readability—and mandated a clean, scannable emoji list format instead.
 ---
 ## 📊 Proof: Before & After
 ### ❌ Before (Input)
@@ -102,6 +101,6 @@ Assistant Manager Park: Yes, not yet.
 ```
 ---
 ## 🎯 Conclusion
-Don't waste your energy organizing complex meeting minutes. 
-Leave the messy text cleanup to the AI, and focus on executing the decided action items yourself. 
-Now, go home on time! 🍷
+Stop draining your energy trying to decipher and organize complex meeting minutes. 
+Delegate the messy text cleanup to the AI, and focus your valuable time on actually executing the decisions made. 
+Now, wrap up your work and go home on time! 🍷

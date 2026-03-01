@@ -16,33 +16,28 @@ export const GET: APIRoute = async (context) => {
   const allPosts = await getCollection("posts", ({ data }) => {
     return data.date <= now;
   });
-  const posts: {
-    link: string;
-    title: string;
-    pubDate: Date;
-    description: string;
-    customData: string;
-  }[] = [];
-
-  allPosts.forEach((post) => {
-    if (
-      post.id.endsWith(`index.${lang}.md`) ||
-      post.id.endsWith(`index.${lang}`)
-    ) {
+  // 1. Filter and Map in a single pipeline
+  const posts = allPosts
+    .filter(
+      (post) =>
+        post.id.endsWith(`index${lang}`) ||
+        post.id.endsWith(`index.${lang}`) ||
+        post.id.endsWith(`index.${lang}.md`),
+    )
+    .map((post) => {
       const parts = post.id.split("/");
       const slug = parts.slice(0, -1).join("/");
-      posts.push({
-        link: `/${lang}/posts/${slug}`, // 언어별 경로
+      const langPath = `/${lang}`;
+
+      return {
+        link: `${langPath}/posts/${slug}`, // 언어별 최적화된 경로
         title: post.data.title,
         pubDate: new Date(post.data.date),
         description: post.data.description || "",
         customData: `<author>${post.data.author}</author>`,
-      });
-    }
-  });
-
-  // 날짜순 정렬
-  posts.sort((a, b) => b.pubDate.valueOf() - a.pubDate.valueOf());
+      };
+    })
+    .sort((a, b) => b.pubDate.valueOf() - a.pubDate.valueOf());
 
   const response = await rss({
     title: `Hello Prompt (${lang.toUpperCase()})`,

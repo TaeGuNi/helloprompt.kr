@@ -24,30 +24,35 @@ export const GET: APIRoute = async (context) => {
     author: string;
   }
 
-  const posts: AtomPost[] = [];
-
-  allPosts.forEach((post) => {
-    if (
-      post.id.endsWith(`index.${lang}.md`) ||
-      post.id.endsWith(`index.${lang}`)
-    ) {
+  const posts: AtomPost[] = allPosts
+    .filter(
+      (post) =>
+        post.id.endsWith(`index${lang}`) ||
+        post.id.endsWith(`index.${lang}`) ||
+        post.id.endsWith(`index.${lang}.md`),
+    )
+    .map((post) => {
       const parts = post.id.split("/");
       const slug = parts.slice(0, -1).join("/");
-      posts.push({
+
+      // Fix Korean routing (no /ko prefix)
+      const siteStr = (context.site || new URL("https://helloprompt.kr"))
+        .toString()
+        .replace(/\/$/, "");
+      const langPath = `/${lang}`;
+
+      return {
         title: post.data.title,
         description: post.data.description || "",
         pubDate: new Date(post.data.date),
         updatedDate: post.data.updatedDate
           ? new Date(post.data.updatedDate)
           : null,
-        link: `${context.site}${lang}/posts/${slug}`,
+        link: `${siteStr}${langPath}/posts/${slug}`,
         author: post.data.author || "Hello Prompt",
-      });
-    }
-  });
-
-  // 날짜순 정렬
-  posts.sort((a, b) => b.pubDate.valueOf() - a.pubDate.valueOf());
+      };
+    })
+    .sort((a, b) => b.pubDate.valueOf() - a.pubDate.valueOf());
 
   const escapeXml = (unsafe: string) => {
     return unsafe.replace(/[<>&'"]/g, (c) => {
@@ -68,35 +73,14 @@ export const GET: APIRoute = async (context) => {
   };
 
   const slogan = uiStrings[lang]?.slogan || "AI Prompt Guide";
+  const siteStr = (context.site || new URL("https://helloprompt.kr"))
+    .toString()
+    .replace(/\/$/, "");
+  const langPath = lang === "ko" ? "" : `/${lang}`;
+  const xmlBaseUrl = `${siteStr}${langPath}`;
 
-  const atom = `<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="${lang}">
-  <title>Hello Prompt (${lang.toUpperCase()})</title>
-  <subtitle>${escapeXml(slogan)}</subtitle>
-  <link href="${context.site}${lang}/atom.xml" rel="self" />
-  <link href="${context.site}${lang}/" />
-  <id>${context.site}${lang}/</id>
-  <updated>${posts[0]?.pubDate.toISOString() || new Date().toISOString()}</updated>
-  <author>
-    <name>Jay</name>
-  </author>
-  ${posts
-    .map(
-      (post) => `
-  <entry>
-    <title>${escapeXml(post.title)}</title>
-    <link href="${post.link}" />
-    <id>${post.link}</id>
-    <updated>${(post.updatedDate || post.pubDate).toISOString()}</updated>
-    <published>${post.pubDate.toISOString()}</published>
-    <summary>${escapeXml(post.description)}</summary>
-    <author>
-      <name>${escapeXml(post.author)}</name>
-    </author>
-  </entry>`,
-    )
-    .join("")}
-</feed>`;
+  // Minified M2M XML Output
+  const atom = `<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="${lang}"><title>Hello Prompt (${lang.toUpperCase()})</title><subtitle>${escapeXml(slogan)}</subtitle><link href="${xmlBaseUrl}/atom.xml" rel="self"/><link href="${xmlBaseUrl}/"/><id>${xmlBaseUrl}/</id><updated>${posts[0]?.pubDate.toISOString() || new Date().toISOString()}</updated><author><name>Jay</name></author>${posts.map((post) => `<entry><title>${escapeXml(post.title)}</title><link href="${post.link}"/><id>${post.link}</id><updated>${(post.updatedDate || post.pubDate).toISOString()}</updated><published>${post.pubDate.toISOString()}</published><summary>${escapeXml(post.description)}</summary><author><name>${escapeXml(post.author)}</name></author></entry>`).join("")}</feed>`;
 
   return new Response(atom, {
     headers: {

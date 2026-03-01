@@ -1,6 +1,6 @@
 import { getCollection } from "astro:content";
 import type { APIRoute } from "astro";
-import { LANGUAGES } from "../i18n/languages";
+import { DEFAULT_LANGUAGE, LANGUAGES } from "../i18n/languages";
 
 export const GET: APIRoute = async (context) => {
   const now = new Date();
@@ -19,7 +19,11 @@ export const GET: APIRoute = async (context) => {
 
   // Add post base paths with dates for dynamic priority computing
   allPosts.forEach((post) => {
-    if (post.id.endsWith("index.ko.md") || post.id.endsWith("index.ko")) {
+    if (
+      post.id.endsWith("indexko") ||
+      post.id.endsWith("index.ko") ||
+      post.id.endsWith("index.ko.md")
+    ) {
       const parts = post.id.split("/");
       const slug = parts.slice(0, -1).join("/");
       basePathsInfo.push({
@@ -30,53 +34,47 @@ export const GET: APIRoute = async (context) => {
     }
   });
 
-  const getUrlForLang = (basePath: string, lang: string) => {
-    const langPath = lang === "ko" ? "" : `/${lang}`;
-    return `${site}${langPath}${basePath}`;
+  const getUrlForLang = (basePath: string, lang: string) =>
+    `${site}/${lang}${basePath}`;
+
+  /**
+   * Helper: Calculates SEO properties (priority, changefreq) based on content age.
+   */
+  const getSeoProperties = (isHome: boolean, date: Date) => {
+    const daysOld = (now.getTime() - date.getTime()) / (1000 * 3600 * 24);
+    if (isHome) return { priority: "1.0", changefreq: "daily" };
+    if (daysOld <= 7) return { priority: "0.9", changefreq: "daily" };
+    if (daysOld <= 30) return { priority: "0.7", changefreq: "weekly" };
+    return { priority: "0.5", changefreq: "monthly" };
   };
 
-  const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  ${basePathsInfo
-    .flatMap((info) => {
-      // Calculate dynamic SEO properties based on recency
-      const daysOld =
-        (now.getTime() - info.date.getTime()) / (1000 * 3600 * 24);
-      let priority = "0.5";
-      let changefreq = "monthly";
+  /**
+   * Helper: Generates a complete <url> XML block for a specific path & language.
+   * Outputs minified XML string.
+   */
+  const createXmlUrlBlock = (
+    info: { path: string; isHome: boolean; date: Date },
+    targetLang: string,
+  ) => {
+    const { priority, changefreq } = getSeoProperties(info.isHome, info.date);
+    const currentUrl = getUrlForLang(info.path, targetLang);
+    const lastMod = info.date.toISOString().split("T")[0];
 
-      if (info.isHome) {
-        priority = "1.0";
-        changefreq = "daily";
-      } else if (daysOld <= 7) {
-        priority = "0.9";
-        changefreq = "daily";
-      } else if (daysOld <= 30) {
-        priority = "0.7";
-        changefreq = "weekly";
-      }
+    // Build the alternate hreflang links for ALL supported languages
+    const alternateLinks = LANGUAGES.map(
+      (altLang) =>
+        `<xhtml:link rel="alternate" hreflang="${altLang}" href="${getUrlForLang(info.path, altLang)}"/>`,
+    ).join("");
 
-      // Create a <url> block for EACH language version
-      return LANGUAGES.map((lang) => {
-        const currentUrl = getUrlForLang(info.path, lang);
+    return `<url><loc>${currentUrl}</loc>${alternateLinks}<lastmod>${lastMod}</lastmod><changefreq>${changefreq}</changefreq><priority>${priority}</priority></url>`;
+  };
 
-        // Generate alternate links for ALL languages
-        const alternateLinks = LANGUAGES.map((altLang) => {
-          return `<xhtml:link rel="alternate" hreflang="${altLang}" href="${getUrlForLang(info.path, altLang)}" />`;
-        }).join("\\n    ");
+  // Generate the massive minified XML string efficiently
+  const sitemapBody = basePathsInfo
+    .flatMap((info) => createXmlUrlBlock(info, DEFAULT_LANGUAGE))
+    .join("");
 
-        return `
-  <url>
-    <loc>${currentUrl}</loc>
-    ${alternateLinks}
-    <lastmod>${info.date.toISOString().split("T")[0]}</lastmod>
-    <changefreq>${changefreq}</changefreq>
-    <priority>${priority}</priority>
-  </url>`;
-      });
-    })
-    .join("")}
-</urlset>`;
+  const sitemap = `<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">${sitemapBody}</urlset>`;
 
   return new Response(sitemap, {
     headers: {

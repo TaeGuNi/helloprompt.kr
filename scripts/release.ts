@@ -77,8 +77,8 @@ try {
         "- [ ] (콘텐츠 변경 시) `docs/WRITER_GUIDE.md`를 준수했나요?",
         "- [x] (콘텐츠 변경 시) `docs/WRITER_GUIDE.md`를 준수했나요?",
       );
-    body = template + "\n\n---\n" + body;
-  } catch (e) {
+    body = `${template}\n\n---\n${body}`;
+  } catch (_e) {
     console.warn("⚠️ Could not load PR template, logging fallback body.");
   }
 

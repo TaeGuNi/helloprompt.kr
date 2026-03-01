@@ -29,7 +29,7 @@ async function auditFile(filePath: string): Promise<boolean> {
   let content: string;
   try {
     content = await fs.readFile(fullPath, "utf-8");
-  } catch (e) {
+  } catch (_e) {
     console.error(`❌ [READ_ERROR] Failed to read ${filePath}`);
     return false;
   }

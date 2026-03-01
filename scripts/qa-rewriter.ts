@@ -1,9 +1,10 @@
-import { execFile } from "node:child_process";
+import { exec, execFile } from "node:child_process";
 import fs from "node:fs/promises";
 import path from "node:path";
 import util from "node:util";
 import { glob } from "glob";
 
+const execAsync = util.promisify(exec);
 const execFileAsync = util.promisify(execFile);
 const QUEUE_FILE = path.resolve(process.cwd(), "rewrite-queue.json");
 
@@ -25,12 +26,24 @@ async function saveQueue(queue: Record<string, unknown>) {
   await fs.writeFile(QUEUE_FILE, JSON.stringify(queue, null, 2), "utf-8");
 }
 
-async function initQueue() {
+async function initQueue(targetDir?: string) {
   let queue = await loadQueue();
-  if (!queue.pending || queue.pending.length === 0) {
+  // Always regenerate the pending queue if a specific target directory is requested.
+  if (targetDir || !queue.pending || queue.pending.length === 0) {
     console.log("📦 Initializing rewrite queue...");
-    // SCOPED FOR DEMONSTRATION FIRST: We will test on 1 specific folder
-    const files = await glob("src/content/posts/**/**/**/*.md");
+    let searchPattern = "src/content/posts/**/**/**/*.md";
+    if (targetDir) {
+      // Clean up trailing slashes and ensure it's a relative path to glob correctly
+      const relativeTarget = path.relative(process.cwd(), targetDir);
+      searchPattern = `${relativeTarget}/**/*.md`;
+      console.log(`🎯 Targeting specific directory: ${searchPattern}`);
+    }
+    const files = await glob(searchPattern);
+
+    if (files.length === 0) {
+      console.log("⚠️ No markdown files found in the target directory.");
+    }
+
     queue = {
       completed: [],
       pending: files,
@@ -110,12 +123,17 @@ ${content}
   return text;
 }
 
-async function runRewriter() {
+async function runRewriter(targetDir?: string) {
   console.log("🤖 Starting Local CLI Auto-Rewriter Queue...");
 
   const qualityModel = await getDoc("QUALITY_MODEL.md");
   const postTemplate = await getDoc("POST_TEMPLATE.md");
-  const queue = await initQueue();
+  const queue = await initQueue(targetDir);
+
+  if (queue.pending.length === 0) {
+    console.log("No pending files to rewrite. Exiting.");
+    return;
+  }
 
   console.log(
     `Queue Status: ${queue.pending.length} pending, ${queue.completed.length} completed.`,
@@ -146,6 +164,16 @@ async function runRewriter() {
           );
         }
         await fs.writeFile(file, rewrittenContent, "utf-8");
+
+        if (file.endsWith("index.ko.md")) {
+          console.log(`   🎨 Triggering Image Generation for ${file}...`);
+          try {
+            await execAsync(`pnpm generate:image ${file}`);
+          } catch (imgErr) {
+            console.error(`   ❌ Image generation failed for ${file}:`, imgErr);
+          }
+        }
+
         return { file, success: true };
       } catch (e: unknown) {
         return { file, success: false, error: (e as Error).message };
@@ -176,5 +204,6 @@ async function runRewriter() {
 
 // Only run queue normally if executed directly
 if (import.meta.url === `file://${process.argv[1]}`) {
-  runRewriter();
+  const targetDirArg = process.argv[2];
+  runRewriter(targetDirArg);
 }

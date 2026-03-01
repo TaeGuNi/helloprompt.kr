@@ -1,6 +1,0 @@
-[preview] The @astrojs/vercel adapter does not support the preview command.
-  Location:
-    /Users/jay/Documents/Projects/helloprompt.kr/node_modules/.pnpm/astro@5.18.0_@types+node@20.11.0_@vercel+blob@1.0.2_@vercel+functions@2.2.13_jiti@2.6.1_5af8c3d1c31e699a87fcb964f1098c26/node_modules/astro/dist/core/preview/index.js:44:11
-  Stack trace:
-    at preview (file:///Users/jay/Documents/Projects/helloprompt.kr/node_modules/.pnpm/astro@5.18.0_@types+node@20.11.0_@vercel+blob@1.0.2_@vercel+functions@2.2.13_jiti@2.6.1_5af8c3d1c31e699a87fcb964f1098c26/node_modules/astro/dist/core/preview/index.js:44:11)
-    at async runCommand (file:///Users/jay/Documents/Projects/helloprompt.kr/node_modules/.pnpm/astro@5.18.0_@types+node@20.11.0_@vercel+blob@1.0.2_@vercel+functions@2.2.13_jiti@2.6.1_5af8c3d1c31e699a87fcb964f1098c26/node_modules/astro/dist/cli/index.js:215:22)

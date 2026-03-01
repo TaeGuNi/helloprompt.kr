@@ -12,6 +12,7 @@ interface Props {
     category?: string;
     tags?: string[];
     lang?: string;
+    image?: string | { src: string };
   };
   isHome?: boolean;
 }
@@ -20,6 +21,19 @@ const { frontmatter, isHome = false } = Astro.props;
 
 const currentLang = determineCurrentLang(Astro.url.pathname, frontmatter.lang);
 const t = uiStrings[currentLang] || uiStrings.ko;
+
+// Handle Hybrid OG Image: Use provided local/remote image, fallback to Vercel Dynamic OG
+const ogImageUrlStr = frontmatter.image
+  ? typeof frontmatter.image === "string"
+    ? frontmatter.image
+    : frontmatter.image.src
+  : `https://helloprompt.kr/api/og?title=${encodeURIComponent(frontmatter.title)}`;
+
+const finalOgImageUrl = isHome
+  ? "https://helloprompt.kr/og-image.svg"
+  : ogImageUrlStr.startsWith("http")
+    ? ogImageUrlStr
+    : new URL(ogImageUrlStr, Astro.site).href;
 ---
 
 <title>
@@ -82,9 +96,7 @@ const t = uiStrings[currentLang] || uiStrings.ko;
 <meta property="og:site_name" content="Hello Prompt" />
 <meta
   property="og:image"
-  content={isHome
-    ? "https://helloprompt.kr/og-image.svg"
-    : `https://helloprompt.kr/api/og?title=${encodeURIComponent(frontmatter.title)}`}
+  content={finalOgImageUrl}
 />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:site" content="@helloprompt" />
@@ -93,9 +105,7 @@ const t = uiStrings[currentLang] || uiStrings.ko;
 <meta name="twitter:description" content={frontmatter.description} />
 <meta
   name="twitter:image"
-  content={isHome
-    ? "https://helloprompt.kr/og-image.svg"
-    : `https://helloprompt.kr/api/og?title=${encodeURIComponent(frontmatter.title)}`}
+  content={finalOgImageUrl}
 />
 
 <!-- [SEO] JSON-LD Structured Data -->
@@ -122,7 +132,7 @@ const t = uiStrings[currentLang] || uiStrings.ko;
             "@type": "Article",
             headline: frontmatter.title,
             description: frontmatter.description,
-            image: `https://helloprompt.kr/api/og?title=${encodeURIComponent(frontmatter.title)}`,
+            image: finalOgImageUrl,
             datePublished: new Date(frontmatter.date).toISOString(),
             dateModified: frontmatter.updatedDate
               ? new Date(frontmatter.updatedDate).toISOString()

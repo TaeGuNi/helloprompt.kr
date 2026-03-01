@@ -134,12 +134,16 @@ Output ONLY the raw markdown content. No explanatory text.
   const content = await callGemini(prompt);
 
   const slugMatch = content.match(/slug:\s*["']?([a-z0-9-]+)["']?/i);
-  const slug = slugMatch
-    ? slugMatch[1]
-    : topicTitle
-        .toLowerCase()
-        .replace(/[^a-z0-9]+/g, "-")
-        .substring(0, 20);
+  let fallbackSlug = topicTitle
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+
+  if (!fallbackSlug) {
+    fallbackSlug = `post-${Date.now()}`; // Last resort fallback for strictly non-english words like Korean
+  }
+
+  const slug = slugMatch ? slugMatch[1] : fallbackSlug.substring(0, 20);
 
   const cleanContent = content.replace(/^slug:.*$/m, "").replace(/\n\n/g, "\n");
 
@@ -203,10 +207,14 @@ async function main() {
     let totalCreated = 0;
 
     for (const topic of topicsToProcess) {
-      const slug = topic.title
+      const fallbackTopicSlug = topic.title
         .toLowerCase()
         .replace(/[^a-z0-9]+/g, "-")
-        .substring(0, 20);
+        .replace(/^-+|-+$/g, "");
+      const finalTopicSlug = fallbackTopicSlug
+        ? fallbackTopicSlug.substring(0, 20)
+        : `post-${Date.now()}`;
+
       const postDir = path.resolve(
         process.cwd(),
         "src",
@@ -214,7 +222,7 @@ async function main() {
         "posts",
         `${year}`,
         month,
-        slug,
+        finalTopicSlug,
       );
 
       try {
@@ -243,10 +251,22 @@ async function main() {
 
       let koContent = generated.content;
 
-      console.log(`📁 Creating directory: ${postDir}`);
-      await fs.mkdir(postDir, { recursive: true });
+      // Override postDir with the actual generated slug if it's better
+      const finalSlug = generated.slug || finalTopicSlug;
+      const finalPostDir = path.resolve(
+        process.cwd(),
+        "src",
+        "content",
+        "posts",
+        `${year}`,
+        month,
+        finalSlug,
+      );
 
-      const koFilePath = path.join(postDir, "index.ko.md");
+      console.log(`📁 Creating directory: ${finalPostDir}`);
+      await fs.mkdir(finalPostDir, { recursive: true });
+
+      const koFilePath = path.join(finalPostDir, "index.ko.md");
       await fs.writeFile(koFilePath, koContent, "utf-8");
 
       console.log(`\n🔍 Auditing generated Korean post...`);
@@ -254,7 +274,7 @@ async function main() {
       let auditPassed = true;
       try {
         await runCmd(`npx tsx scripts/qa.ts ${koFilePath}`);
-      } catch (e) {
+      } catch (_e) {
         auditPassed = false;
       }
 
@@ -287,22 +307,31 @@ async function main() {
         }
       }
 
-      const cleanSourceForTranslation = koContent.replace(
-        /<!--[\s\S]*?-->/g,
-        "",
-      );
+      console.log(`\n🎨 Generating Hook Image for ${topic.title}...`);
+      try {
+        await runCmd(`pnpm generate:image ${koFilePath}`);
+        // Re-read koContent since generate:image modified the file on disk
+        koContent = await fs.readFile(koFilePath, "utf-8");
+      } catch (e) {
+        console.error(`❌ Failed to generate hook image:`, e);
+      }
+
+      // CRITICAL FIX: Strip all lint HTML comments from the original ko source to pass QA Phase 1
+      koContent = koContent.replace(/<!--[\s\S]*?-->/g, "");
+      await fs.writeFile(koFilePath, koContent, "utf-8");
+      const cleanSourceForTranslation = koContent;
 
       console.log(`🚀 Starting strictly sequential 9-language translations...`);
       for (const lang of TARGET_LANGS) {
         const translated = await translatePost(cleanSourceForTranslation, lang);
         await fs.writeFile(
-          path.join(postDir, `index.${lang}.md`),
+          path.join(finalPostDir, `index.${lang}.md`),
           translated,
           "utf-8",
         );
       }
 
-      console.log(`✅ All translations complete for ${slug}.`);
+      console.log(`✅ All translations complete for ${finalSlug}.`);
       totalCreated += 10;
       console.log(`\n📈 Post count: ${totalCreated} so far.`);
     }

@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.12.0](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.11.3...v1.12.0) (2026-03-01)
+
+
+### Features
+
+* **seo:** implement hybrid Open Graph image architecture & automated hook generation ([4b8ec72](https://github.com/TaeGuNi/helloprompt.kr/commit/4b8ec7200ddab928ba74907657c412503cae292b))
+
 ### [1.11.3](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.11.2...v1.11.3) (2026-03-01)
 
 

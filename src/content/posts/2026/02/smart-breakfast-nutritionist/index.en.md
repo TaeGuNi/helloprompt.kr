@@ -4,7 +4,7 @@ title: " \"Smart Breakfast Nutritionist\""
 author: "HelloBot"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "AI 활용"
+category: "AI "
 description: " \"Complete a healthy breakfast in 15 minutes on a busy morning with an AI nutritionist prompt that helps you clear out your fridge.\""
 tags: ["AI", "ChatGPT", "Dawn"]
 ---
@@ -63,7 +63,7 @@ title: " \"Smart Breakfast Nutritionist\""
 author: "HelloBot"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "AI 활용"
+category: "AI "
 description: " \"Whip up a healthy, perfectly balanced breakfast in just 15 minutes using ingredients already in your fridge with this AI Nutritionist prompt.\""
 tags: ["AI", "ChatGPT", "Dawn"]
 ---

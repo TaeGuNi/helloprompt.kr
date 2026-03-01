@@ -9,11 +9,7 @@ description: "Un prompt AI pratico che riduce a 3 minuti le ricerche di mercato 
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "competitor-anal"]
 ---
 # 📝 🔥 Il Prompt Definitivo per l'Analisi SWOT dei Competitor e le Ricerche di Mercato per Project Manager
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
+
 - **🎯 Consigliato per:** Project Manager, Marketer, Sviluppatori di Nuovi Business, Junior con 1-3 anni di esperienza
 - **⏱️ Tempo richiesto:** Da 3 giorni → ridotto a 3 minuti
 - **🤖 Modelli consigliati:** Claude 3.5 Sonnet, GPT-4o (Ricerca web obbligatoria)

@@ -9,12 +9,8 @@ description: "Ein praxiserprobter Prompt für mehrsprachige Lokalisierung, der w
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "localization-tr"]
 ---
 # 📝 Der Prompt für "echte" Lokalisierung ohne Maschinen-Touch
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
-<!-- ⚠️ [Lint Rule]   . (Table)      . -->
+
+
 - **🎯 Empfohlen für:** Globale Marketer, International Sales Manager, App-Produktmanager
 - **⏱️ Zeitaufwand:** 1 Stunde → Reduziert auf 3 Minuten
 - **🤖 Empfohlenes Modell:** Claude 3.5 Sonnet (hervorragend für Nuancen), GPT-4o
@@ -30,7 +26,7 @@ Einfach nur die Sprache zu wechseln, das kann Google Translate auch. Was wir von
 3. **Klausel gegen wörtliche Übersetzung hinzufügen:** Setzen Sie die Regel: "Solange der Sinn erhalten bleibt, darf die Satzstruktur komplett umgebaut werden."
 ---
 ## 🚀 Die Lösung: "Muttersprachler-Lokalisierung"
-<!-- ⚠️ [Lint Rule] (>) (Prompt ) Prompt  . -->
+
 ### 🥉 Basic Version (Standard)
 Verwenden Sie diese Version, wenn Sie schnell ein gutes Ergebnis brauchen.
 > **Rolle:** Du bist ein professioneller Copywriter, der seit über 10 Jahren in `[Zielland]` arbeitet.
@@ -69,13 +65,13 @@ Verwenden Sie diese Version, wenn höchste Detailqualität gefragt ist.
 >
 > - Es darf keine maschinenübersetzungstypische Passiv-Überladung oder holprige Wörtlichkeit erkennbar sein. Der Text muss zu 100 % wirken, als hätte ihn ein Muttersprachler geschrieben.
 ---
-<!-- ✅ [Lint Rule]  .   CI  . -->
+
 ## 💡 Einblicke des Autors (Insight)
 Ganz ehrlich: Wenn Sie bisher nur "Übersetze das auf Englisch" getippt haben, haben Sie nicht einmal 10 % der KI-Leistung genutzt. Wenn Sie in der Praxis eine mehrsprachige Website aufbauen oder Sales-Mails für das Ausland schreiben, sind Texte, die Wort für Wort ausgetauscht wurden, der Hauptgrund für Vertrauensverlust.
 Als ich diesen Prompt entwickelt habe, konnte ich hautnah erleben, dass die Ergebnisse vor und nach dem Hinzufügen der Einschränkung "Du darfst die Satzstruktur zerstören" Welten voneinander entfernt waren. Wenn man das für das Koreanische typische "Weglassen des Subjekts" oder "Schachtelsätze" wörtlich ins Deutsche übersetzt, kommt etwas Schreckliches dabei heraus. Erst wenn man der KI die Freiheit gibt (gepaart mit einem strikten Roleplay) **"Du bist der Copywriter, mach damit, was du willst"**, entsteht ein Mehrwert, der Google Translate weit hinter sich lässt.
 Besonders bei der Übersetzung von Marketing-Copy sollten Sie diesen Pro-Prompt an ein Claude-Modell verfüttern. Wenn es darum geht, Nuancen einzufangen, ist es derzeit unschlagbar. Falls das Ergebnis immer noch etwas zu steif wirkt, empfehle ich, am Ende des Prompts hinzuzufügen: "Streue eine Prise aktueller Slang-Begriffe oder Buzzwords aus der lokalen Branche ein."
 ---
-<!-- ⚠️ [Lint Rule]  .    . -->
+
 ## 🙋 Häufig gestellte Fragen (FAQ)
 - **F: Funktioniert dieser Prompt bei allen Sprachen gleich gut?**
   - A: Bei den großen Sprachräumen mit vielen Trainingsdaten wie Englisch, Japanisch, Chinesisch, Spanisch oder Deutsch zeigt er eine erstaunliche Leistung. Bei kleineren Sprachen kann es jedoch zu KI-Halluzinationen kommen, weshalb es sich empfiehlt, das Ergebnis gegenzuprüfen (Cross-Check: Lassen Sie es zurück ins Englische übersetzen, um die Intention zu überprüfen).

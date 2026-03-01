@@ -9,11 +9,7 @@ description: "Unknown errors and spaghetti code? Discover the practical prompt t
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "code-review"]
 ---
 # 📝 The Ultimate Code Review & Refactoring Guide Without a Senior Developer
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
+
 - **🎯 Target Audience:** Junior developers, 1-3 year backend/frontend engineers, self-taught developers
 - **⏱️ Time Required:** 2 hours of struggling → 1 minute fix
 - **🤖 Recommended Model:** Claude 3.5 Sonnet (Best for code review), GPT-4o

@@ -9,11 +9,7 @@ description: "Un prompt pratico che analizza perfettamente la Job Description (J
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "resume-cover-le"]
 ---
 # 📝 Prompt per Lettere di Presentazione Basate su JD: Aumenta le Assunzioni di 5 Volte 🚀
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
+
 - **🎯 Consigliato per:** Sviluppatori, marketer, product manager (1-3 anni di esperienza) e neolaureati in cerca di un nuovo lavoro.
 - **⏱️ Tempo richiesto:** Ridotto da 3 ore → a 1 minuto
 - **🤖 Modelli consigliati:** Claude 3.5 Sonnet (eccellente nella scrittura), ChatGPT Plus

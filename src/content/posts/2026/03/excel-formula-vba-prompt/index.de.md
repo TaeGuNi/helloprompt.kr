@@ -9,11 +9,7 @@ description: "Kein Auswendiglernen von VBA-Codes oder komplexen Excel-Formeln me
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "excel-formula-v"]
 ---
 # 📝 KI-Prompt: Excel-Formeln & VBA in 1 Sekunde erstellen
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
+
 - **🎯 Empfohlen für:** Junioren in der Excel-Funktionshölle, Marketer, die die ständige Datenbereinigung satt haben, und Fachkräfte ohne Zeit für Makro-Programmierung
 - **⏱️ Zeitaufwand:** 30 Minuten Googeln → 1 Minute Prompt Copy & Paste
 - **🤖 Empfohlene Modelle:** ChatGPT (GPT-4o), Claude 3.5 Sonnet

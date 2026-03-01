@@ -9,12 +9,8 @@ description: "Um prompt prático de localização multilíngue que evita traduç
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "localization-tr"]
 ---
 # 📝 O 'Verdadeiro' Prompt de Localização para Eliminar o Tom de Tradução Automática
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
-<!-- ⚠️ [Lint Rule]   . (Table)      . -->
+
+
 - **🎯 Recomendado para:** Profissionais de marketing global, representantes de vendas internacionais, planejadores de serviços de aplicativos
 - **⏱️ Tempo economizado:** De 1 hora → para 3 minutos
 - **🤖 Modelo recomendado:** Claude 3.5 Sonnet (excelente em capturar nuances), GPT-4o
@@ -30,7 +26,7 @@ Mudar o idioma é algo que qualquer tradutor automático faz. O que queremos da 
 3. **Adicione uma cláusula contra tradução literal:** Imponha a restrição de que "se o significado for mantido, a estrutura da frase pode ser completamente alterada".
 ---
 ## 🚀 Solução: "Localização com Alma de Nativo"
-<!-- ⚠️ [Lint Rule] (>) (Prompt ) Prompt  . -->
+
 ### 🥉 Versão Básica (Basic Version)
 Use quando precisar de resultados rápidos.
 > **Função:** Você é um copywriter profissional que trabalha em `[País de Destino]` há mais de 10 anos.
@@ -69,13 +65,13 @@ Use quando for necessária uma qualidade detalhada e refinada.
 >
 > - Não deve haver o uso excessivo de voz passiva ou traduções literais desajeitadas típicas de tradução automática. O texto deve parecer incondicionalmente escrito por um nativo.
 ---
-<!-- ✅ [Lint Rule]  .   CI  . -->
+
 ## 💡 Comentário do Autor (Insight)
 Honestamente, se até agora você apenas digitava "Traduza isso para o inglês", estava usando menos de 10% da capacidade da IA. Na prática, ao construir um site multilíngue ou escrever e-mails de vendas internacionais, textos substituídos palavra por palavra são os principais culpados por destruir a credibilidade.
 Ao criar este prompt, percebi que a diferença entre os resultados antes e depois de adicionar a restrição "você pode destruir a estrutura da frase" é como o dia e a noite. A tradução literal das omissões de sujeito ou do estilo prolixo típicos do coreano para o inglês produz resultados terríveis. Somente quando você dá à IA a liberdade (e ao mesmo tempo uma rigorosa interpretação de papéis) de **'você é o copywriter, então prepare como quiser'**, é que surge um valor que supera o Google Tradutor. 
 Especialmente ao traduzir textos de marketing, alimente o modelo Claude com este prompt Pro. Atualmente, é o mais impressionante em capturar nuances. Se o resultado ainda parecer um pouco rígido, recomendo adicionar no final do prompt: "Adicione uma pitada de gírias ou jargões da moda (buzzwords) da indústria local."
 ---
-<!-- ⚠️ [Lint Rule]  .    . -->
+
 ## 🙋 Perguntas Frequentes (FAQ)
 - **P: Este prompt funciona bem para todos os idiomas?**
   - R: Ele mostra um desempenho incrível nos principais idiomas com muitos dados de treinamento, como inglês, japonês, chinês e espanhol. No entanto, para idiomas menos comuns, pode ocorrer alucinação da IA, por isso é recomendável fazer um cruzamento dos resultados (pedir para traduzir de volta para o inglês para confirmar a intenção).

@@ -10,11 +10,7 @@ tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "code-review"]
 ---
 # 📝 Guia Perfeito de Revisão e Refatoração de Código Sem Precisar de um Mentor
 
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
+
 
 - **🎯 Público-alvo:** Desenvolvedores juniores, engenheiros de backend/frontend com 1 a 3 anos de experiência, autodidatas.
 - **⏱️ Tempo estimado:** De 2 horas de frustração → para 1 minuto.

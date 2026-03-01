@@ -9,12 +9,8 @@ description: "Correos en inglés, rechazos educados o respuestas a reclamos de c
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "business-email"]
 ---
 # 📝 Correos de negocios difíciles en 1 minuto: Prompts de IA
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
-<!-- ⚠️ [Lint Rule]   . (Table)      . -->
+
+
 - **🎯 Público recomendado:** Profesionales junior (1-3 años), marketers, desarrolladores
 - **⏱️ Tiempo estimado:** 30 minutos → Reducido a 1 minuto
 - **🤖 Modelo recomendado:** Claude 3.5 Sonnet (Excelente captando matices), ChatGPT (GPT-4o)

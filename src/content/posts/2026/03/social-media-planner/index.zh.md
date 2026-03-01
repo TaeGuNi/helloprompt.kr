@@ -9,12 +9,8 @@ description: "专为每天为发什么内容而发愁的营销人员和运营者
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "social-media-pl"]
 ---
 # 📝 1分钟内生成Instagram和TikTok的1个月内容日历
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
-<!-- ⚠️ [Lint Rule]   . (Table)      . -->
+
+
 - **🎯 推荐对象：** SNS营销人员、内容策划师、独立创业者
 - **⏱️ 所需时间：** 3小时 → 缩短至1分钟
 - **🤖 推荐模型：** Claude 3.5 Sonnet, ChatGPT (GPT-4o)

@@ -9,11 +9,7 @@ description: "无需死记硬背 VBA 代码和复杂的 Excel 公式。只需向
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "excel-formula-v"]
 ---
 # 📝 一秒生成 Excel 公式与 VBA 的 AI 提示词
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
+
 - **🎯 推荐对象：** 陷入 Excel 函数地狱的职场新人、疲于重复清洗数据的营销人员、没有时间写宏的业务骨干
 - **⏱️ 预计耗时：** 谷歌搜索 30 分钟 → 复制粘贴提示词 1 分钟
 - **🤖 推荐模型：** ChatGPT (GPT-4o), Claude 3.5 Sonnet

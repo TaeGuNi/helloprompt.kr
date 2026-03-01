@@ -1,15 +1,15 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Tailwind CSS 마스터: 클래스명 외우지 마세요 (치트시트 없이 코딩하기)\""
+title: " \"Tailwind CSS :    (  )\""
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "개발/코딩"
+category: "/"
 description: " \"Un conversor de IA que traduce atributos CSS como flex, grid o center a clases de Tailwind al instante.\""
-tags: ["Tailwind", "CSS", "프론트엔드", "웹디자인", "코딩"]
+tags: ["Tailwind", "CSS", "", "", ""]
 ---
 
-# 🌬️ Tailwind CSS 마스터: 클래스명 외우지 마세요
+# 🌬️ Tailwind CSS :   
 
 - **🎯 Recomendado para:** Desarrolladores frontend y maquetadores web agotados del "infierno de los divs" y de buscar a cada rato cómo se dice `justify-content: center` en Tailwind.
 - **⏱️ Tiempo requerido:** 5 segundos (Conversión)

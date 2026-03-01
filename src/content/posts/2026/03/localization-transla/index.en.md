@@ -9,12 +9,8 @@ description: "A practical multilingual localization prompt that avoids mechanica
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "localization-tr"]
 ---
 # 📝 The 'Real' Localization Prompt That Removes the Machine Translation Vibe
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
-<!-- ⚠️ [Lint Rule]   . (Table)      . -->
+
+
 - **🎯 Recommended for:** Global marketers, overseas sales representatives, app service planners
 - **⏱️ Time required:** 1 hour → Reduced to 3 minutes
 - **🤖 Recommended model:** Claude 3.5 Sonnet (Excellent at capturing nuance), GPT-4o
@@ -34,7 +30,7 @@ Simply changing the language is something Google Translate can do. What we want 
 
 ---
 ## 🚀 Solution: "Native-Possessed Localization"
-<!-- ⚠️ [Lint Rule] (>) (Prompt ) Prompt  . -->
+
 ### 🥉 Basic Version
 Use this when you need quick results.
 
@@ -77,7 +73,7 @@ Use this when you need detailed quality.
 > - There should be no abuse of passive voice or awkward literal translations typical of machine translation. It must absolutely look like it was written by a native speaker.
 
 ---
-<!-- ✅ [Lint Rule]  .   CI  . -->
+
 ## 💡 Author's Comment (Insight)
 Honestly, if you've only been typing "Translate this to English" until now, you haven't been utilizing even 10% of AI's performance. When building a multilingual website or writing overseas sales emails in practice, text that is simply substituted word-for-word is the main culprit that undermines credibility.
 
@@ -86,7 +82,7 @@ While creating this prompt, I realized that the results before and after adding 
 Especially when translating marketing copy, try feeding this Pro prompt to the Claude model. It is currently the most overwhelming in capturing nuances. If the result is still a bit stiff, I recommend adding "Mix in a spoonful of trendy slang or buzzwords popular in the local industry" at the end of the prompt.
 
 ---
-<!-- ⚠️ [Lint Rule]  .    . -->
+
 ## 🙋 Frequently Asked Questions (FAQ)
 - **Q: Does this prompt work well for all languages?**
   - A: It shows amazing performance in major language groups with a lot of training data, such as English, Japanese, Chinese, and Spanish. However, for minor languages, AI hallucinations can occur, so I recommend cross-checking the result (by asking it to translate back to English to confirm the intent).

@@ -9,11 +9,7 @@ description: "求人票（JD）を完全に分析し、自分の経験と100%マ
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "resume-cover-le"]
 ---
 # 📝 書類通過率を5倍に高める！募集要項(JD)に最適化した自己PR作成プロンプト 🚀
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
+
 - **🎯 おすすめの対象:** 転職を準備している1〜3年目のエンジニア、マーケター、プランナー、および新入社員
 - **⏱️ 所要時間:** 3時間 → 1分に短縮
 - **🤖 おすすめのモデル:** Claude 3.5 Sonnet（文章作成に優れる）、ChatGPT Plus

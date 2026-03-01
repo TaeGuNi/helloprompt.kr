@@ -113,11 +113,11 @@ Abaixo, veja um exemplo prático de como este prompt pode transformar uma funç�
 ```python
 def calc(x, y):
     if x > 19:
-        print("성인")
+        print("")
         p = y * 0.9
         return p
     else:
-        print("학생")
+        print("")
         return y
 ```
 

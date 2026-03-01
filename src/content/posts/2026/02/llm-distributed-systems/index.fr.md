@@ -60,7 +60,7 @@ Utilisez cette version pour générer une spécification d'architecture complèt
 >
 > **Contraintes (Constraints) :**
 >
-> - Le résultat doit être structuré en 마크다운 (Markdown) avec des blocs de code pour l'implémentation.
+> - Le résultat doit être structuré en  (Markdown) avec des blocs de code pour l'implémentation.
 > - Utilise le formalisme mathématique standard des réseaux de Petri.
 >
 > **Avertissement (Warning) :**

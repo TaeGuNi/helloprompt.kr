@@ -1,6 +1,6 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "뒤죽박죽 코드 조각, AI로 정리 끝! (AI Code Snippet Manager)"
+title: "  , AI  ! (AI Code Snippet Manager)"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
@@ -116,7 +116,7 @@ Der wahre Wert der **Pro Version** liegt in der automatischen Erstellung des "An
 ### ❌ Vorher (Eingabe)
 
 ```javascript
-// 시간차 구하는거
+//  
 function cd(d1, d2) {
   let t = new Date(d1).getTime() - new Date(d2).getTime();
   return Math.floor(t / (1000 * 60 * 60 * 24));

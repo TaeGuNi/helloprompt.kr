@@ -24,7 +24,7 @@ Entrando nel 2026, la domanda "Dovremmo usare Rust per lo sviluppo web?" non por
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR)
+## ⚡️ 3  (TL;DR)
 
 1. **Maturità dei Framework:** Le guerre dei framework sono finite. Axum è lo standard de facto per il backend, offrendo prestazioni estreme e un'ottima DX.
 2. **Sviluppo Accelerato:** Grazie a strumenti moderni e ai miglioramenti del compilatore, i tempi di build non sono più un collo di bottiglia.
@@ -32,7 +32,7 @@ Entrando nel 2026, la domanda "Dovremmo usare Rust per lo sviluppo web?" non por
 
 ---
 
-## 🚀 해결책: "Architetto Rust Web 2026"
+## 🚀 : "Architetto Rust Web 2026"
 
 Usa questi prompt per generare rapidamente codice Rust idiomatico o per valutare l'architettura del tuo prossimo progetto web.
 

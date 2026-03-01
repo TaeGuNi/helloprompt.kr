@@ -9,11 +9,7 @@ description: "Le prompt de rédaction de blog optimisé pour le SEO de Google de
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "seo-blog-post-w"]
 ---
 # 🚀 Pass VIP pour le sommet de Google : Prompt d'automatisation de blog SEO pour les marketeurs
-<!-- ⚠️ [CRITICAL RULE] Support multilingue (Traduction en 10 langues obligatoire) ⚠️
-Immédiatement après avoir rédigé un nouvel article (`index.ko.md`) en utilisant ce modèle,
-vous devez **impérativement** créer 9 fichiers de traduction supplémentaires (`index.[lang].md`) dans le même répertoire.
-Langues prises en charge (9) : en, de, es, fr, it, ja, pt, ru, zh
-Un total de 10 fichiers (coréen + 9 langues étrangères) doit se trouver dans un seul dossier pour que le déploiement soit effectué correctement. -->
+
 - **🎯 Public recommandé :** Marketeurs de contenu (1 à 3 ans d'expérience), gestionnaires de blog, chefs de projet
 - **⏱️ Temps requis :** Réduit de 3 heures → 5 minutes
 - **🤖 Modèles recommandés :** Claude 3.5 Sonnet (fortement recommandé pour la rédaction), ChatGPT Plus (GPT-4o)

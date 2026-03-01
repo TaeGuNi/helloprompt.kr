@@ -106,7 +106,7 @@ Un truco clave que he descubierto al usar este prompt es la técnica de congelar
 
 ## 📊 Before & After
 
-### ❌ Before (입력)
+### ❌ Before ()
 
 ```text
 "Recomiéndame un menú de lonchera vegana para toda la semana."
@@ -114,7 +114,7 @@ Un truco clave que he descubierto al usar este prompt es la técnica de congelar
 
 _(Resultado: La IA sugiere 5 platos completamente diferentes y complejos, requiriendo ingredientes nuevos todos los días y horas de cocina inasumibles para un día laborable)._
 
-### ✅ After (결과)
+### ✅ After ()
 
 ```text
 [Guía de Batch Cooking: Bowls Versátiles de Tofu y Verduras]

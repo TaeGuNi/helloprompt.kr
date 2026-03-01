@@ -9,11 +9,7 @@ description: "Errori sconosciuti e spaghetti code? Scopri il prompt pratico per 
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "code-review"]
 ---
 # 📝 Guida Perfetta alla Code Review & Refactoring (Anche Senza un Mentore)
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
+
 - **🎯 Consigliato per:** Sviluppatori junior, ingegneri backend/frontend con 1-3 anni di esperienza, autodidatti
 - **⏱️ Tempo richiesto:** Da 2 ore di tentativi a vuoto → a 1 minuto
 - **🤖 Modelli consigliati:** Claude 3.5 Sonnet (Il re della code review), GPT-4o

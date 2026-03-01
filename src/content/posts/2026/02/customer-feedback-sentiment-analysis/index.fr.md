@@ -77,7 +77,7 @@ Utilisez ce prompt pour générer un rapport complet et structuré, prêt à êt
 
 ---
 
-## 💡 Insight de l'Auteur (작성자 코멘트)
+## 💡 Insight de l'Auteur ( )
 
 L'erreur la plus commune lors de l'analyse VOC est de se concentrer uniquement sur les notes quantitatives (les étoiles). Pourtant, la vraie valeur se trouve dans le texte libre. Ce prompt est particulièrement puissant car il force l'IA à extraire non seulement des émotions, mais des **éléments d'action concrets**.
 

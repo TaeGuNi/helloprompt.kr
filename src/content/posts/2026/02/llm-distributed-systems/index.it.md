@@ -60,7 +60,7 @@ Usa questo prompt per progettare sistemi complessi a prova di errore, definendo 
 > 3. Scrivi un prompt di sistema (System Prompt) blindato per l'LLM che lo costringa a generare esclusivamente output validi e formattati (es. JSON schematizzato) necessari per far scattare la transizione successiva.
 > 4. Sostituisci la variabile `[Sistema Target]` con il nostro caso d'uso specifico: `[Descrivi il tuo Dominio]`.
 >
-> **제약사항 (Constraints):**
+> ** (Constraints):**
 >
 > - L'output deve essere strutturato, logico e pronto per l'implementazione in codice (es. usando Temporal.io o AWS Step Functions).
 > - Non usare un linguaggio discorsivo; mantieni l'analisi puramente tecnica.

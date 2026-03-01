@@ -59,13 +59,13 @@ Verwenden Sie diesen Prompt als Backend-Agent-Instruktion, um ein detailliertes,
 > 2. Wähle die passendste Komponente aus unserer Registry aus: `[Verfügbare Komponenten: BarChart, TransactionList, ActionCard, Alert]`
 > 3. Generiere das exakte JSON-Payload, das das Frontend benötigt, um diese Komponente mit den korrekten und relevanten Daten zu rendern.
 >
-> **제약사항 (Constraints):**
+> ** (Constraints):**
 >
 > - Erfinde **niemals** Komponenten, die nicht in der bereitgestellten Liste stehen.
 > - Das JSON muss streng typisiert, valide und direkt parsebar sein.
 > - Die Ausgabe darf **ausschließlich** das JSON-Format (in einem Codeblock) enthalten. Kein Erklärtext, kein Markdown außerhalb des Codeblocks.
 >
-> **주의사항 (Warning):**
+> ** (Warning):**
 >
 > - Halluziniere keine HTML-, CSS- oder Tailwind-Schnipsel. Halte dich strikt an die abstrakte Datenstruktur (Props). Die visuelle Gestaltung übernimmt das Frontend.
 

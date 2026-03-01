@@ -1,12 +1,12 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"엑셀 노가다 끝! AI로 지저분한 데이터 1초 만에 전처리하기\""
+title: " \"  ! AI   1  \""
 author: "HelloBot"
 date: "2026-02-10"
 updatedDate: "2026-02-10"
-category: "데이터/분석"
+category: "/"
 description: " \"Are you staying up late dealing with messy Excel files? Discover the ultimate prompt to let AI perfectly clean your data in seconds, without needing to know regular expressions.\""
-tags: ["Excel", "데이터전처리", "자동화", "Python"]
+tags: ["Excel", "", "", "Python"]
 ---
 
 # 🧹 Escape Excel Hell: Let AI Perfectly Clean Your Messy Data
@@ -98,7 +98,7 @@ When that happens, use the prompt to ask, **"Write a Python (Pandas) script that
 
 ## 🧬 Prompt Anatomy (Why it works?)
 
-1.  **Standardization:** By defining concrete mapping rules for ambiguous text (e.g., 'Seoul' -> '서울특별시'), we prevent the AI from making arbitrary interpretations.
+1.  **Standardization:** By defining concrete mapping rules for ambiguous text (e.g., 'Seoul' -> ''), we prevent the AI from making arbitrary interpretations.
 2.  **Validation & Exception Handling:** We guarantee data quality by forcing logic that identifies flaws—such as email format validation and empty value handling (`N/A`)—and seamlessly patches them.
 3.  **Anti-Hallucination:** To combat the AI's chronic habit of plausibly fabricating data it doesn't know, we placed a hard constraint: "do not fabricate anything."
 

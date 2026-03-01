@@ -9,12 +9,8 @@ description: "Ein Prompt zur automatischen Erstellung eines 30-Tage Social-Media
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "social-media-pl"]
 ---
 # 📝 30-Tage Content-Kalender für Instagram & TikTok in 1 Minute erstellen
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
-<!-- ⚠️ [Lint Rule]   . (Table)      . -->
+
+
 - **🎯 Empfohlen für:** Social-Media-Marketer, Content-Planer, Solopreneure
 - **⏱️ Zeitaufwand:** 3 Stunden → reduziert auf 1 Minute
 - **🤖 Empfohlenes Modell:** Claude 3.5 Sonnet, ChatGPT (GPT-4o)

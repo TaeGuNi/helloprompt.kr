@@ -104,7 +104,7 @@ Este prompt es increíblemente útil no solo para redactar sobre Apple, sino par
 
 ## 📊 Before & After
 
-### ❌ Before (입력)
+### ❌ Before ()
 
 ```text
 Escribe un post sobre por qué el Intelligent Edge de macOS Tahoe es malo.
@@ -112,7 +112,7 @@ Escribe un post sobre por qué el Intelligent Edge de macOS Tahoe es malo.
 
 _(Resultado típico: "El nuevo macOS Tahoe es muy frustrante. Apple arruinó las ventanas. Ahora la IA lo hace por ti y se equivoca. Muchos están enojados..." - Demasiado simplista, cero valor técnico)._
 
-### ✅ After (결과)
+### ✅ After ()
 
 ```text
 ...**Control y libertad del usuario (Heurística de Nielsen #3):**

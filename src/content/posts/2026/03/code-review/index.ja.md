@@ -9,11 +9,7 @@ description: "原因不明のエラーやスパゲティコードでお悩みで
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "code-review"]
 ---
 # 📝 先輩がいなくても完璧なコードレビュー＆リファクタリングガイド
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
+
 - **🎯 おすすめの対象:** ジュニア開発者、実務1〜3年目のバックエンド/フロントエンドエンジニア、独学で学んでいる方
 - **⏱️ 所要時間:** 2時間の試行錯誤 → たったの1分
 - **🤖 推奨モデル:** Claude 3.5 Sonnet (コードレビューの最強モデル)、GPT-4o

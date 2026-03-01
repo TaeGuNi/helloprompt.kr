@@ -9,12 +9,8 @@ description: "涵盖英文邮件、委婉拒绝及客户投诉应对。直接复
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "business-email"]
 ---
 # 📝 搞定棘手商务邮件，只需1分钟的 AI 提示词
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
-<!-- ⚠️ [Lint Rule]   . (Table)      . -->
+
+
 - **🎯 推荐对象：** 1~3年经验的职场新人、营销人员、开发人员
 - **⏱️ 所需时间：** 30分钟 → 缩短至1分钟
 - **🤖 推荐模型：** Claude 3.5 Sonnet（最擅长把握语境和语气）、ChatGPT (GPT-4o)

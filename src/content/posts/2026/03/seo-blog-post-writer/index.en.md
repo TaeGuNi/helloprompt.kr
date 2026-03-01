@@ -9,11 +9,7 @@ description: "A Google SEO-optimized blog writing prompt for marketers and plann
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "seo-blog-post-w"]
 ---
 # 🚀 Google Top Ranking Free Pass: Automated SEO Blog Prompt for Marketers
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
+
 - **🎯 Recommended for:** Junior to mid-level (1-3 years) content marketers, blog operators, and product planners
 - **⏱️ Time required:** Reduced from 3 hours → 5 minutes
 - **🤖 Recommended models:** Claude 3.5 Sonnet (Highly recommended for writing), ChatGPT Plus (GPT-4o)

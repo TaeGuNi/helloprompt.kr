@@ -9,12 +9,8 @@ description: "Un prompt pour générer automatiquement 30 jours de calendrier de
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "social-media-pl"]
 ---
 # 📝 Générer un calendrier de contenu Instagram & TikTok d'un mois en 1 minute
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
-<!-- ⚠️ [Lint Rule]   . (Table)      . -->
+
+
 - **🎯 Recommandé pour :** Marketeurs sur les réseaux sociaux, créateurs de contenu, solopreneurs
 - **⏱️ Temps gagné :** De 3 heures à 1 minute
 - **🤖 Modèles recommandés :** Claude 3.5 Sonnet, ChatGPT (GPT-4o)

@@ -9,19 +9,15 @@ description: "A practical prompt that instantly converts rambling meeting voice 
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "meeting-minutes"]
 ---
 # 📝 Structuring Messy Meeting Minutes in 1 Minute
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
-<!-- ⚠️ [Lint Rule]   . (Table)      . -->
+
+
 - **🎯 Recommended for:** Junior Employees, Project Managers, Marketers
 - **⏱️ Time Saved:** 30 minutes → 1 minute
 - **🤖 Recommended Model:** Any Conversational AI (ChatGPT, Claude, Gemini, etc.)
 - ⭐ **Difficulty:** ⭐☆☆☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
 - 🚀 **Utility:** ⭐⭐⭐⭐⭐
-<!-- ⚠️ [Lint Rule] (>) Basic/Pro   (_..._)     . -->
+
 > _"Did you waste your entire afternoon organizing meeting minutes today?"_
 Even if you convert the recorded audio into text right after the meeting (using tools like Clova Note, Whisper, etc.), extracting the core points from a chaotic mix of conversations is another painful task. This prompt sharply extracts only the **'Key Decisions'** and **'Action Items' (who needs to do what)** from a contextless pile of text. Just copy and paste it right away.
 ---
@@ -31,7 +27,7 @@ Even if you convert the recorded audio into text right after the meeting (using 
 3. It clearly identifies the most important 'Action Items per person'.
 ---
 ## 🚀 Solution: "Automated Meeting Minutes Structuring Prompt"
-<!-- ⚠️ [Lint Rule] (>) (Prompt ) Prompt  . -->
+
 ### 🥉 Basic Version
 Use this when you need quick results.
 > **Role:** You are a `[Senior Project Manager]`.
@@ -64,13 +60,13 @@ Use this when you need detailed quality.
 > **Input:**
 > - Meeting Transcript: `[Paste your copied transcript text here]`
 ---
-<!-- ✅ [Lint Rule]  .   CI  . -->
+
 ## 💡 Author's Comment (Insight)
 The core of this prompt is **'Action Item Extraction'** and **'Hallucination Suppression'**. 
 The real purpose of writing meeting minutes is not 'recording what was said', but 'clarifying what to do next'. 
 When used in actual work, you'll often find the AI confidently making up plausible schedules that were never mentioned in the meeting. To prevent this, I included the constraint "do not make up information" and the defensive instruction "if the assignee is unclear, mark as [Needs Confirmation]". Try throwing the text extracted from an STT tool like Clova Note into Claude 3.5 Sonnet or GPT-4o along with this prompt. A text-refining task that usually takes 30 minutes will shrink to 1 minute. Enjoy another cup of coffee with the time you saved.
 ---
-<!-- ⚠️ [Lint Rule]  .    . -->
+
 ## 🙋 Frequently Asked Questions (FAQ)
 - **Q: Can I input a transcript of a 1-hour long meeting all at once?**
   - A: Yes, the latest models (Claude 3.5 Sonnet, GPT-4o, etc.) have excellent context-grasping abilities and can easily handle a 1-hour transcript. However, if you hit a token limit, divide it in half and input it separately.

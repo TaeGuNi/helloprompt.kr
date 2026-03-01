@@ -9,11 +9,7 @@ description: "Un prompt práctico de IA que reduce a 3 minutos el estudio de mer
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "competitor-anal"]
 ---
 # 📝 🔥 El Prompt Definitivo de Análisis SWOT y Estudio de Mercado para Product Managers
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
+
 - **🎯 Recomendado para:** Product Managers (PM), Marketers, Desarrolladores de Nuevos Negocios, Juniors (1-3 años de experiencia)
 - **⏱️ Tiempo requerido:** Reducido de 3 días → 3 minutos
 - **🤖 Modelos recomendados:** Claude 3.5 Sonnet, GPT-4o (Es imprescindible activar la función de búsqueda web)

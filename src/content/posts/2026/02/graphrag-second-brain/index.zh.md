@@ -1,5 +1,5 @@
 ---
-title: " \"GraphRAG: 당신의 '제2의 뇌'가 벡터만으로는 부족한 이유\""
+title: " \"GraphRAG:  '2 '   \""
 description: " \"向量检索仅仅是寻找词语相似度。本文提供了一份完美的提示词指南，教你如何利用 Neo4j 和 LangChain 构建个人知识图谱（GraphRAG），并连接 Obsidian 笔记中隐藏的深刻见解。\""
 date: 2026-02-15
 tags: ["ai", "rag", "graphrag", "neo4j", "langchain", "pkm", "obsidian"]
@@ -125,7 +125,7 @@ print(f"提取的关系数: {len(graph_documents[0].relationships)}")
   - A: 是的，以 GPT-4 Turbo 为例，每篇笔记的初始索引成本大约在 0.03 美元左右。为了大幅降低成本，我强烈建议采用混合架构：在数据提取管道中使用本地的 `Llama 4 (8B 量化模型)` 或 `Ollama`，只有在最终用户进行问答（Query）时，才调用性能强大的商业 API。
 
 - **Q: 查询时它是如何工作的？听得懂自然语言吗？**
-  - A: 检索会经过 LangChain 的 `GraphCypherQAChain`。当用户用自然语言提问时，LLM 会将其翻译为 Neo4j 的查询语言 **Cypher 쿼리**（`MATCH (n)-[r]->(m) RETURN n,r,m`）来搜索数据库，并基于精准的图谱链路生成最终回答。
+  - A: 检索会经过 LangChain 的 `GraphCypherQAChain`。当用户用自然语言提问时，LLM 会将其翻译为 Neo4j 的查询语言 **Cypher **（`MATCH (n)-[r]->(m) RETURN n,r,m`）来搜索数据库，并基于精准的图谱链路生成最终回答。
 
 - **Q: 那我之前搭建的 Pinecone（向量数据库）可以直接丢弃了吗？**
   - A: 绝对不是！对于“帮我找一下昨天写的会议记录”这类简单的事实检索（Fact Retrieval），向量检索的速度和准确度依然无法被替代。目前企业级环境中的标准答案是结合两者的 **“混合 RAG (Vector + Graph)”** 架构。

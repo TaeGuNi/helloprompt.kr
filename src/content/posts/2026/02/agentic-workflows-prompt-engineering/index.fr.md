@@ -21,7 +21,7 @@ La façon dont nous interagissons avec l'Intelligence Artificielle évolue radic
 
 ---
 
-## ⚡️ 3줄 요약 (TL;DR)
+## ⚡️ 3  (TL;DR)
 
 1. **Fini le "One-Shot" :** Les tâches complexes nécessitent de la réflexion (Reflection) et de l'itération, pas une seule instruction magique.
 2. **Planification & Exécution :** Le secret est de forcer l'IA à diviser le problème avant d'agir (modèle ReAct).
@@ -29,9 +29,9 @@ La façon dont nous interagissons avec l'Intelligence Artificielle évolue radic
 
 ---
 
-## 🚀 해결책: "Le Coordinateur Agentique"
+## 🚀 : "Le Coordinateur Agentique"
 
-### 🥉 Basic Version (기본형)
+### 🥉 Basic Version ()
 
 Idéal pour forcer l'IA à réfléchir avant de produire un résultat complexe.
 
@@ -40,7 +40,7 @@ Idéal pour forcer l'IA à réfléchir avant de produire un résultat complexe.
 > **Instruction stricte :** Avant de me donner la réponse finale, tu DOIS d'abord rédiger un plan d'action en 3 étapes. Ensuite, exécute chaque étape mentalement. Enfin, critique ton propre résultat et corrige-le si nécessaire. Affiche l'intégralité de ton processus de réflexion.
 
 
-### 🥇 Pro Version (전문가형)
+### 🥇 Pro Version ()
 
 Pour des tâches critiques nécessitant une rigueur absolue et une auto-évaluation (Reflection).
 

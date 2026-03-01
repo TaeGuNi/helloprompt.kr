@@ -9,11 +9,7 @@ description: "Plus besoin d'apprendre le code VBA et les formules Excel complexe
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "excel-formula-v"]
 ---
 # 📝 Prompt IA pour générer des formules Excel et du VBA en 1 seconde
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
+
 - **🎯 Recommandé pour :** Les juniors perdus dans l'enfer des fonctions Excel, les marketeurs fatigués par le nettoyage répétitif de données, les professionnels qui n'ont pas le temps de coder des macros
 - **⏱️ Temps requis :** 30 minutes de recherche Google → 1 minute de copier-coller de prompt
 - **🤖 Modèles recommandés :** ChatGPT (GPT-4o), Claude 3.5 Sonnet

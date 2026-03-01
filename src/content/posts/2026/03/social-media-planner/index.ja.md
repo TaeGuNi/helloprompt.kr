@@ -10,12 +10,8 @@ tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "social-media-pl"]
 ---
 # 📝 インスタ＆TikTokの1ヶ月分コンテンツカレンダーを1分で作成
 
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
-<!-- ⚠️ [Lint Rule]   . (Table)      . -->
+
+
 
 - **🎯 おすすめの対象:** SNSマーケター、コンテンツプランナー、一人起業家
 - **⏱️ 所要時間:** 3時間 → 1分に短縮

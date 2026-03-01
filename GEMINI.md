@@ -35,15 +35,15 @@
 - **레이아웃:** `src/layouts/Layout.astro` (CSS, OG Tag, Analytics)
 - **데이터:** `src/pages/search.json.ts`, `src/pages/[lang]/rss.xml.ts`, `src/pages/[lang]/atom.xml.ts`
 - **테스트:** `tests/home.spec.ts` (Playwright), `src/utils.test.ts` (Vitest)
-- **QA:** `scripts/qa/` (Audit, Check, Sitemap)
+- **QA & 배포 파이프라인:** `scripts/qa.ts` (통합 모의 빌드/정적 분석), `scripts/release.ts` (E2E 배포 에이전트)
 - **문서:** `docs/QUALITY_MODEL.md` (글 품질 기준), `docs/MANAGEMENT.md` (로드맵), `docs/ANALYTICS.md` (데이터 분석)
 
 ## 🛠 자주 쓰는 명령어
 
 - **서버 실행:** `pnpm run dev -- --host`
 - **테스트:** `pnpm test` (Unit), `pnpm test:e2e` (E2E)
-- **품질 검수:** `pnpm qa` (전체 문서 품질 체크)
-- **배포:** `git push` (Vercel 자동 배포)
+- **품질 검수:** `pnpm qa` (Phase 1 & 2 통합 무결성 7000+ 파일 검증)
+- **배포 스크립트:** `pnpm release` (안전 검사, PR 템플릿 주입, 자동 머지, CI 자가 치유 수행)
 
 ## 🤖 Agent Protocols
 

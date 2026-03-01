@@ -9,12 +9,8 @@ description: "Email in inglese, rifiuti educati, gestione dei reclami dei client
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "business-email"]
 ---
 # 📝 Email di lavoro difficili? Il prompt AI per risolverle in 1 minuto
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
-<!-- ⚠️ [Lint Rule]   . (Table)      . -->
+
+
 - **🎯 Consigliato per:** Junior con 1-3 anni di esperienza, marketer, sviluppatori
 - **⏱️ Tempo impiegato:** Da 30 minuti → ridotto a 1 minuto
 - **🤖 Modello consigliato:** Claude 3.5 Sonnet (eccellente per cogliere le sfumature), ChatGPT (GPT-4o)

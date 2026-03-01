@@ -9,12 +9,8 @@ description: "E-mails en anglais, refus polis ou gestion des réclamations clien
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "business-email"]
 ---
 # 📝 E-mails professionnels délicats : le prompt IA pour en finir en 1 minute
-<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
-    (`index.ko.md`)  ,
-****   9  (`index.[lang].md`)   .
- (9): en, de, es, fr, it, ja, pt, ru, zh
- 10(+9 )       . -->
-<!-- ⚠️ [Lint Rule]   . (Table)      . -->
+
+
 - **🎯 Recommandé pour :** Employés juniors (1 à 3 ans d'expérience), marketeurs, développeurs
 - **⏱️ Temps gagné :** De 30 minutes à 1 minute
 - **🤖 Modèles recommandés :** Claude 3.5 Sonnet (le meilleur pour saisir les nuances), ChatGPT (GPT-4o)

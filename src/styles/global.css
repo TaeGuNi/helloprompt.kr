@@ -129,12 +129,26 @@ h1 {
 }
 .tag-badge {
   font-family: var(--font-mono);
-  @apply text-xs text-cyber-cyan bg-cyber-cyan/[0.05] border border-cyber-cyan/30 px-3 py-1 rounded-full whitespace-nowrap transition-all duration-200;
+  font-size: 0.75rem;
+  line-height: 1rem;
+  color: var(--color-cyber-cyan);
+  background-color: rgba(0, 243, 255, 0.05);
+  border: 1px solid rgba(0, 243, 255, 0.3);
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  border-radius: 9999px;
+  white-space: nowrap;
+  transition: all 200ms cubic-bezier(0.4, 0, 0.2, 1);
   text-decoration: none;
   border-bottom: 1px solid rgba(0, 243, 255, 0.3);
 }
 .tag-badge:hover {
-  @apply bg-cyber-cyan/15 text-white border-cyber-cyan -translate-y-[2px];
+  background-color: rgba(0, 243, 255, 0.15);
+  color: #fff;
+  border-color: var(--color-cyber-cyan);
+  transform: translateY(-2px);
   box-shadow: 0 0 15px rgba(0, 243, 255, 0.3);
 }
 
@@ -142,42 +156,84 @@ h1 {
 
 /* --- Code Wrapper (Server-Side) --- */
 .code-wrapper {
-  @apply relative my-10 bg-cyber-surface rounded-lg border border-cyber-green border-l-[6px];
+  position: relative;
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+  background-color: var(--color-cyber-surface);
+  border-radius: 0.5rem;
+  border: 1px solid var(--color-cyber-green);
+  border-left-width: 6px;
 }
 
 /* 라벨 (Wrapper 위에 고정) */
 .code-wrapper::before {
   content: "EXAMPLE";
   font-family: var(--font-orbitron);
-  @apply absolute -top-3 left-5 bg-cyber-bg text-cyber-green px-2.5 font-black text-[0.85rem] border border-cyber-green rounded tracking-[1px] z-10;
+  position: absolute;
+  top: -0.75rem;
+  left: 1.25rem;
+  background-color: var(--color-cyber-bg);
+  color: var(--color-cyber-green);
+  padding-left: 0.625rem;
+  padding-right: 0.625rem;
+  font-weight: 900;
+  font-size: 0.85rem;
+  border: 1px solid var(--color-cyber-green);
+  border-radius: 0.25rem;
+  letter-spacing: 1px;
+  z-index: 10;
 }
 
 /* 내부 Pre (스크롤만 담당) */
 .code-wrapper pre {
-  @apply !m-0 !pt-[30px] !px-[25px] !pb-[25px] !bg-transparent !border-none !rounded-none overflow-x-auto;
+  margin: 0 !important;
+  padding: 30px 25px 25px 25px !important;
+  background-color: transparent !important;
+  border: none !important;
+  border-radius: 0 !important;
+  overflow-x: auto;
 }
 
 /* --- Prompt Input (Interactive) --- */
 .prompt-input {
   font-family: var(--font-mono);
-  @apply bg-black/30 border border-cyber-cyan rounded text-white px-2 py-1 text-[0.9em] w-[150px] transition-all duration-200 mx-1;
+  background-color: rgba(0, 0, 0, 0.3);
+  border: 1px solid var(--color-cyber-cyan);
+  border-radius: 0.25rem;
+  color: #fff;
+  padding: 0.25rem 0.5rem;
+  font-size: 0.9em;
+  width: 150px;
+  transition: all 200ms cubic-bezier(0.4, 0, 0.2, 1);
+  margin-left: 0.25rem;
+  margin-right: 0.25rem;
 }
 .prompt-input:focus {
-  @apply bg-cyber-cyan/10 outline-none w-[200px];
+  background-color: rgba(0, 243, 255, 0.1);
+  outline: 2px solid transparent;
+  outline-offset: 2px;
+  width: 200px;
   box-shadow: 0 0 10px rgba(0, 243, 255, 0.3);
 }
 .prompt-input::placeholder {
-  @apply text-cyber-cyan/50;
+  color: rgba(0, 243, 255, 0.5);
 }
 
 /* --- Quote Wrapper (Prompt Box - High Emphasis) --- */
 .quote-wrapper {
-  @apply relative my-[50px] bg-cyber-cyan/[0.03] border-3 border-dashed border-cyber-cyan rounded-xl transition-all duration-300;
+  position: relative;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background-color: rgba(0, 243, 255, 0.03);
+  border: 3px dashed var(--color-cyber-cyan);
+  border-radius: 0.75rem;
+  transition: all 300ms cubic-bezier(0.4, 0, 0.2, 1);
   box-shadow: 0 0 15px rgba(0, 243, 255, 0.1);
 }
 
 .quote-wrapper:hover {
-  @apply bg-cyber-cyan/[0.05] -translate-y-[2px];
+  background-color: rgba(0, 243, 255, 0.05);
+  transform: translateY(-2px);
   box-shadow: 0 0 40px rgba(0, 243, 255, 0.2);
 }
 
@@ -185,65 +241,128 @@ h1 {
 .quote-wrapper.is-prompt::before {
   content: "✂️ COPY THIS PROMPT";
   font-family: var(--font-orbitron);
-  @apply absolute -top-[18px] left-1/2 -translate-x-1/2 bg-cyber-cyan text-black px-5 py-1.5 font-black text-[0.95rem] rounded-full tracking-[1px] whitespace-nowrap z-10 border-3 border-cyber-bg;
+  position: absolute;
+  top: -18px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: var(--color-cyber-cyan);
+  color: #000;
+  padding: 0.375rem 1.25rem;
+  font-weight: 900;
+  font-size: 0.95rem;
+  border-radius: 9999px;
+  letter-spacing: 1px;
+  white-space: nowrap;
+  z-index: 10;
+  border: 3px solid var(--color-cyber-bg);
   box-shadow: 0 5px 20px rgba(0, 243, 255, 0.4);
 }
 
 /* 내부 여백 및 텍스트 */
 .quote-wrapper blockquote {
-  @apply !m-0 !pt-[50px] !px-[30px] !pb-[30px] !bg-transparent !border-none !text-white;
+  margin: 0 !important;
+  padding: 50px 30px 30px 30px !important;
+  background-color: transparent !important;
+  border: none !important;
+  color: #fff !important;
 }
 .quote-wrapper blockquote strong {
-  @apply text-cyber-cyan;
+  color: var(--color-cyber-cyan);
 }
 
 /* --- Copy Button Style --- */
 .copy-btn {
-  @apply absolute top-2.5 right-2.5 bg-black/60 border border-white/20 text-white w-8 h-8 rounded-md flex items-center justify-center cursor-pointer transition-all duration-200 opacity-60 z-50;
+  position: absolute;
+  top: 0.625rem;
+  right: 0.625rem;
+  background-color: rgba(0, 0, 0, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: #fff;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 0.375rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 200ms cubic-bezier(0.4, 0, 0.2, 1);
+  opacity: 0.6;
+  z-index: 50;
 }
 .copy-btn:hover {
-  @apply opacity-100 bg-cyber-cyan/10 border-cyber-cyan text-cyber-cyan;
+  opacity: 1;
+  background-color: rgba(0, 243, 255, 0.1);
+  border-color: var(--color-cyber-cyan);
+  color: var(--color-cyber-cyan);
 }
 .copy-btn.copied {
-  @apply border-cyber-green text-cyber-green;
+  border-color: var(--color-cyber-green);
+  color: var(--color-cyber-green);
 }
 
 /* --- Action Buttons (ChatGPT/Claude/Gemini/Grok) --- */
 .action-buttons {
-  @apply flex gap-2.5 m-2.5 justify-end flex-wrap;
+  display: flex;
+  gap: 0.625rem;
+  margin: 0.625rem;
+  justify-content: flex-end;
+  flex-wrap: wrap;
 }
 .action-btn {
   font-family: var(--font-orbitron);
-  @apply inline-flex items-center gap-1.5 px-3 py-1.5 rounded-md text-xs text-white border border-white/20 transition-all duration-200 cursor-pointer no-underline;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.375rem;
+  padding: 0.375rem 0.75rem;
+  border-radius: 0.375rem;
+  font-size: 0.75rem;
+  line-height: 1rem;
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  transition: all 200ms cubic-bezier(0.4, 0, 0.2, 1);
+  cursor: pointer;
+  text-decoration: none;
   border-bottom: 1px solid rgba(255, 255, 255, 0.2);
 }
 .action-btn:hover {
-  @apply -translate-y-[2px];
+  transform: translateY(-2px);
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
 }
 .btn-gpt {
-  @apply bg-[#10a37f]/20 border-[#10a37f] text-[#10a37f];
+  background-color: rgba(16, 163, 127, 0.2);
+  border-color: #10a37f;
+  color: #10a37f;
 }
 .btn-gpt:hover {
-  @apply bg-[#10a37f]/40 text-white;
+  background-color: rgba(16, 163, 127, 0.4);
+  color: #fff;
 }
 .btn-claude {
-  @apply bg-[#d97757]/20 border-[#d97757] text-[#d97757];
+  background-color: rgba(217, 119, 87, 0.2);
+  border-color: #d97757;
+  color: #d97757;
 }
 .btn-claude:hover {
-  @apply bg-[#d97757]/40 text-white;
+  background-color: rgba(217, 119, 87, 0.4);
+  color: #fff;
 }
 .btn-gemini {
-  @apply bg-[#4285f4]/20 border-[#4285f4] text-[#4285f4];
+  background-color: rgba(66, 133, 244, 0.2);
+  border-color: #4285f4;
+  color: #4285f4;
 }
 .btn-gemini:hover {
-  @apply bg-[#4285f4]/40 text-white;
+  background-color: rgba(66, 133, 244, 0.4);
+  color: #fff;
 }
 .btn-grok {
-  @apply bg-white/10 border-[#e0e0e0] text-[#e0e0e0];
+  background-color: rgba(255, 255, 255, 0.1);
+  border-color: #e0e0e0;
+  color: #e0e0e0;
 }
 .btn-grok:hover {
-  @apply bg-white/30 text-white;
+  background-color: rgba(255, 255, 255, 0.3);
+  color: #fff;
 }
 
 /* --- 5. Navigation (TOC & Breadcrumbs) --- */
@@ -389,3 +508,219 @@ h1 {
     font-size: 0.75rem;
   }
 }
+
+/* --- HERO SECTION (Refined) --- */
+.hero {
+  margin-bottom: 120px;
+  position: relative;
+  text-align: center;
+  padding-top: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.ai-title {
+  font-family: var(--font-orbitron);
+  font-size: 5rem;
+  font-weight: 900;
+  letter-spacing: 4px;
+  margin: 0 0 30px 0;
+  line-height: 1.1;
+  color: #fff;
+  text-transform: uppercase;
+  text-shadow: 0 0 30px rgba(0, 243, 255, 0.4);
+  background: linear-gradient(180deg, #fff, #aaa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.tech-line {
+  width: 150px;
+  height: 4px;
+  background: var(--color-cyber-cyan);
+  margin: 0 auto 30px;
+  box-shadow: 0 0 20px var(--color-cyber-cyan);
+  border-radius: 2px;
+}
+
+p.subtitle {
+  font-size: 1.4rem;
+  color: #ccc;
+  margin: 0 0 60px 0;
+  font-weight: 300;
+  letter-spacing: 1px;
+  opacity: 0.8;
+}
+
+@media (max-width: 768px) {
+  .ai-title {
+    font-size: 3rem;
+    letter-spacing: 1px;
+  }
+  .hero {
+    margin-bottom: 80px;
+    padding-top: 40px;
+  }
+  p.subtitle {
+    font-size: 1.1rem;
+    margin-bottom: 40px;
+  }
+}
+
+/* --- POST GRID SECTION --- */
+.grid-label {
+  text-align: left;
+  font-family: var(--font-orbitron);
+  color: var(--color-cyber-cyan);
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+  border-bottom: 1px solid rgba(0, 243, 255, 0.3);
+  padding-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.grid-count {
+  background: var(--color-cyber-cyan);
+  color: #000;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.8rem;
+}
+
+.post-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr));
+  gap: 25px;
+  text-align: left;
+}
+
+.post-card {
+  background: rgba(10, 20, 30, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  padding: 25px;
+  transition: all 0.3s ease;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  overflow: hidden;
+  backdrop-filter: blur(5px);
+}
+
+.post-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4px;
+  height: 100%;
+  background: #333;
+  transition: background 0.3s;
+}
+
+.post-card:hover {
+  transform: translateY(-5px);
+  border-color: var(--color-cyber-cyan);
+  box-shadow: 0 5px 20px rgba(0, 243, 255, 0.15);
+}
+.post-card:hover::before {
+  background: var(--color-cyber-cyan);
+}
+
+.post-card h2 {
+  color: #fff;
+  font-size: 1.2rem;
+  margin: 0 0 10px 0;
+  font-weight: 700;
+  line-height: 1.4;
+}
+
+.post-card p {
+  color: #aaa;
+  font-size: 0.9rem;
+  flex-grow: 1;
+  margin-bottom: 20px;
+}
+
+.post-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.8rem;
+  font-family: var(--font-mono);
+  color: #666;
+}
+
+.tag-pill {
+  background: rgba(0, 243, 255, 0.1);
+  color: var(--color-cyber-cyan);
+  padding: 2px 8px;
+  border-radius: 4px;
+  border: 1px solid rgba(0, 243, 255, 0.2);
+}
+
+/* --- PAGINATION --- */
+.pagination {
+  margin-top: 60px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.nav-btn {
+  background: transparent;
+  border: 1px solid var(--color-cyber-cyan);
+  color: var(--color-cyber-cyan);
+  padding: 10px 20px;
+  text-decoration: none;
+  font-family: var(--font-orbitron);
+  font-size: 0.9rem;
+  border-radius: 4px;
+  transition: all 0.2s;
+}
+.nav-btn:hover {
+  background: var(--color-cyber-cyan);
+  color: #000;
+  box-shadow: 0 0 15px rgba(0, 243, 255, 0.4);
+}
+  .nav-info {
+    color: #666;
+    font-family: var(--font-mono);
+    align-self: center;
+  }
+  
+  @media (max-width: 600px) {
+    .ai-title {
+      font-size: 2.5rem;
+    }
+  }
+  
+  /* --- TAG ARCHIVE SECTION --- */
+  .tag-hero {
+    margin-bottom: 60px;
+  }
+  .tag-title {
+    font-family: var(--font-orbitron);
+    font-size: 3rem;
+    color: var(--color-cyber-cyan);
+    text-shadow: 0 0 20px rgba(0, 243, 255, 0.5);
+  }
+  .tag-desc {
+    color: #888;
+    margin-top: 10px;
+  }
+  .home-btn {
+    display: inline-block;
+    margin-top: 50px;
+    color: #fff;
+    text-decoration: none;
+    border: 1px solid #fff;
+    padding: 10px 20px;
+    border-radius: 30px;
+    transition: all 0.2s;
+  }
+  .home-btn:hover {
+    background: #fff;
+    color: #000;
+  }

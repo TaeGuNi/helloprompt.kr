@@ -5,29 +5,29 @@ import { LANGUAGES } from "../../i18n/languages";
 import Layout from "../../layouts/Layout.astro";
 import { formatDate, getKstNow } from "../../utils/dateUtils";
 
-// Removed unused Post import
+export const prerender = false;
 
 const paramLang = Astro.params.lang as string;
-// [...page] catches both undefined (page 1) and string numbers (e.g. '2')
 const paramPage = Astro.params.page
   ? parseInt(Astro.params.page as string, 10)
   : 1;
 
-// Validation
+console.log(`[ROUTE DEBUG] /${paramLang}/${Astro.params.page} -> parsed paramPage: ${paramPage}`);
+
 if (!LANGUAGES.includes(paramLang)) {
+  console.log(`[404 REASON] Invalid language: ${paramLang}`);
   return Astro.rewrite("/404");
 }
 if (Number.isNaN(paramPage)) {
+  console.log(`[404 REASON] NaN paramPage from Astro.params.page: ${Astro.params.page}`);
   return Astro.rewrite("/404");
 }
 
-// 1. Content Collections에서 모든 포스트 가져오기
 const kstNow = getKstNow();
 const allPosts = await getCollection("posts", ({ data }) => {
   return data.date <= kstNow;
 });
 
-// 2. 언어별 포스트만 필터링
 const posts = allPosts.filter(
   (post) =>
     post.id.endsWith(`index${paramLang}`) ||
@@ -35,7 +35,6 @@ const posts = allPosts.filter(
     post.id.endsWith(`index.${paramLang}.md`),
 );
 
-// 3. 페이지네이션 데이터 조립(수동)
 const formattedPosts = posts.map((post) => {
   const parts = post.id.split("/");
   const slug = parts.slice(0, -1).join("/");
@@ -54,13 +53,14 @@ const sortedPosts = formattedPosts.sort(
 const pageSize = 12;
 const lastPage = Math.max(1, Math.ceil(sortedPosts.length / pageSize));
 
-if (paramPage < 1 || paramPage > lastPage) {
-  return Astro.rewrite("/404");
-}
-
 const start = (paramPage - 1) * pageSize;
 const end = start + pageSize;
 const paginatedData = sortedPosts.slice(start, end);
+
+if (paginatedData.length === 0 && paramPage > 1) {
+  console.log(`[404 REASON] paginatedData empty! paramPage: ${paramPage}, lastPage: ${lastPage}, posts.length: ${posts.length}`);
+  return Astro.rewrite("/404");
+}
 
 const page = {
   data: paginatedData,
@@ -81,8 +81,6 @@ const page = {
 
 const lang = paramLang;
 
-// 4. Vercel ISR Caching Header 적용
-// 1페이지(최신)은 1분 주기 갱신, 2페이지 이상(과거기록)은 하루 주기 갱신
 if (paramPage === 1) {
   Astro.response.headers.set(
     "Cache-Control",
@@ -179,194 +177,3 @@ const frontmatter = {
     }
   </div>
 </Layout>
-
-<style>
-  /* --- HERO SECTION (Refined) --- */
-  .hero {
-    margin-bottom: 120px; /* 하단 여백 대폭 추가 */
-    position: relative;
-    text-align: center;
-    padding-top: 60px; /* 상단 여백 추가 */
-    display: flex;
-    flex-direction: column;
-    align-items: center; /* 확실한 중앙 정렬 */
-  }
-
-  .ai-title {
-    font-family: "Orbitron", sans-serif;
-    font-size: 5rem; /* PC에서 더 크게 */
-    font-weight: 900;
-    letter-spacing: 4px;
-    margin: 0 0 30px 0;
-    line-height: 1.1;
-    color: #fff;
-    text-transform: uppercase;
-
-    /* 네온 효과 강화 */
-    text-shadow: 0 0 30px rgba(0, 243, 255, 0.4);
-    background: linear-gradient(180deg, #fff, #aaa); /* 메탈릭 그라데이션 */
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-  }
-
-  .tech-line {
-    width: 150px;
-    height: 4px;
-    background: #00f3ff;
-    margin: 0 auto 30px; /* 중앙 정렬 및 여백 */
-    box-shadow: 0 0 20px #00f3ff;
-    border-radius: 2px;
-  }
-
-  p.subtitle {
-    font-size: 1.4rem;
-    color: #ccc;
-    margin: 0 0 60px 0; /* 검색창과의 간격 */
-    font-weight: 300;
-    letter-spacing: 1px;
-    opacity: 0.8;
-  }
-
-  @media (max-width: 768px) {
-    .ai-title {
-      font-size: 3rem;
-      letter-spacing: 1px;
-    }
-    .hero {
-      margin-bottom: 80px;
-      padding-top: 40px;
-    }
-    p.subtitle {
-      font-size: 1.1rem;
-      margin-bottom: 40px;
-    }
-  }
-
-  /* --- POST GRID SECTION --- */
-  .grid-label {
-    text-align: left;
-    font-family: "Orbitron", sans-serif;
-    color: #00f3ff;
-    font-size: 1.2rem;
-    margin-bottom: 20px;
-    border-bottom: 1px solid rgba(0, 243, 255, 0.3);
-    padding-bottom: 10px;
-    display: flex;
-    justify-content: space-between;
-  }
-  .grid-count {
-    background: #00f3ff;
-    color: #000;
-    padding: 2px 8px;
-    border-radius: 4px;
-    font-size: 0.8rem;
-  }
-
-  .post-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr));
-    gap: 25px;
-    text-align: left;
-  }
-
-  .post-card {
-    background: rgba(10, 20, 30, 0.6);
-    border: 1px solid rgba(255, 255, 255, 0.1);
-    border-radius: 12px;
-    padding: 25px;
-    transition: all 0.3s ease;
-    text-decoration: none;
-    display: flex;
-    flex-direction: column;
-    position: relative;
-    overflow: hidden;
-    backdrop-filter: blur(5px);
-  }
-
-  .post-card::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 4px;
-    height: 100%;
-    background: #333;
-    transition: background 0.3s;
-  }
-
-  .post-card:hover {
-    transform: translateY(-5px);
-    border-color: #00f3ff;
-    box-shadow: 0 5px 20px rgba(0, 243, 255, 0.15);
-  }
-  .post-card:hover::before {
-    background: #00f3ff;
-  }
-
-  .post-card h2 {
-    color: #fff;
-    font-size: 1.2rem;
-    margin: 0 0 10px 0;
-    font-weight: 700;
-    line-height: 1.4;
-  }
-
-  .post-card p {
-    color: #aaa;
-    font-size: 0.9rem;
-    flex-grow: 1;
-    margin-bottom: 20px;
-  }
-
-  .post-meta {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    font-size: 0.8rem;
-    font-family: "JetBrains Mono", monospace;
-    color: #666;
-  }
-
-  .tag-pill {
-    background: rgba(0, 243, 255, 0.1);
-    color: #00f3ff;
-    padding: 2px 8px;
-    border-radius: 4px;
-    border: 1px solid rgba(0, 243, 255, 0.2);
-  }
-
-  /* --- PAGINATION --- */
-  .pagination {
-    margin-top: 60px;
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-  }
-  .nav-btn {
-    background: transparent;
-    border: 1px solid #00f3ff;
-    color: #00f3ff;
-    padding: 10px 20px;
-    text-decoration: none;
-    font-family: "Orbitron", sans-serif;
-    font-size: 0.9rem;
-    border-radius: 4px;
-    transition: all 0.2s;
-  }
-  .nav-btn:hover {
-    background: #00f3ff;
-    color: #000;
-    box-shadow: 0 0 15px rgba(0, 243, 255, 0.4);
-  }
-  .nav-info {
-    color: #666;
-    font-family: "JetBrains Mono", monospace;
-    align-self: center;
-  }
-
-  @media (max-width: 600px) {
-    .ai-title {
-      font-size: 2.5rem;
-    }
-  }
-</style>

@@ -227,9 +227,9 @@ CRITICAL RULES:
         console.log("🚀 Pushing AI Fix directly to PR...");
         execSync("git add .");
         execSync(
-          `git commit --amend -m "fix(ci): auto-healed ci failure (attempt ${healAttempts + 1})"`,
+          `git commit -m "fix(ci): auto-healed ci failure (attempt ${healAttempts + 1})"`,
         );
-        execSync("git push -f origin develop", { stdio: "inherit" });
+        execSync("git push origin develop", { stdio: "inherit" });
 
         console.log(
           "\n♻️ Patch pushed! Waiting for CI to completely restart...",

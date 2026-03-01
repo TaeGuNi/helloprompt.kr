@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.12.6](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.12.5...v1.12.6) (2026-03-01)
+
+
+### Bug Fixes
+
+* **core:** resolve pagination 404 logic and refactor component CSS ([15c9462](https://github.com/TaeGuNi/helloprompt.kr/commit/15c9462bc4185a1ee056c3971db111bd83a48e2a))
+* **qa-rewriter:** support multiple target directories passed from xargs pipeline ([af0fa3b](https://github.com/TaeGuNi/helloprompt.kr/commit/af0fa3b3cd2691ecdd6169e2f2971db1488774b9))
+
 ### [1.12.5](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.12.4...v1.12.5) (2026-03-01)
 
 ### [1.12.4](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.12.3...v1.12.4) (2026-03-01)

@@ -25,7 +25,10 @@ export const GET: APIRoute = async (context) => {
   }[] = [];
 
   allPosts.forEach((post) => {
-    if (post.id.endsWith(`index${lang}`)) {
+    if (
+      post.id.endsWith(`index.${lang}.md`) ||
+      post.id.endsWith(`index.${lang}`)
+    ) {
       const parts = post.id.split("/");
       const slug = parts.slice(0, -1).join("/");
       posts.push({

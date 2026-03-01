@@ -63,7 +63,7 @@ export const GET: APIRoute = async (context) => {
         // Generate alternate links for ALL languages
         const alternateLinks = LANGUAGES.map((altLang) => {
           return `<xhtml:link rel="alternate" hreflang="${altLang}" href="${getUrlForLang(info.path, altLang)}" />`;
-        }).join("\\n    ");
+        }).join("\n    ");
 
         return `
   <url>

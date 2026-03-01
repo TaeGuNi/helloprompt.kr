@@ -1,0 +1,14 @@
+
+> helloprompt.kr@1.12.1 dev /Users/jay/Documents/Projects/helloprompt.kr
+> astro dev
+
+21:05:51 [types] Generated 0ms
+21:05:53 [content] Syncing content
+21:05:53 [WARN] [glob-loader] Duplicate id "2026/03/social-media-planner/indexde" found in /Users/jay/Documents/Projects/helloprompt.kr/src/content/posts/2026/03/social-media-planner/index.de.md. Later items with the same id will overwrite earlier ones.
+21:05:53 [WARN] [glob-loader] Duplicate id "2026/03/social-media-planner/indexen" found in /Users/jay/Documents/Projects/helloprompt.kr/src/content/posts/2026/03/social-media-planner/index.en.md. Later items with the same id will overwrite earlier ones.
+21:05:53 [WARN] [glob-loader] Duplicate id "2026/03/social-media-planner/indexes" found in /Users/jay/Documents/Projects/helloprompt.kr/src/content/posts/2026/03/social-media-planner/index.es.md. Later items with the same id will overwrite earlier ones.
+21:05:53 [WARN] [glob-loader] Duplicate id "2026/03/social-media-planner/indexit" found in /Users/jay/Documents/Projects/helloprompt.kr/src/content/posts/2026/03/social-media-planner/index.it.md. Later items with the same id will overwrite earlier ones.
+21:05:53 [WARN] [glob-loader] Duplicate id "2026/03/social-media-planner/indexfr" found in /Users/jay/Documents/Projects/helloprompt.kr/src/content/posts/2026/03/social-media-planner/index.fr.md. Later items with the same id will overwrite earlier ones.
+21:05:56 [watch] ko2.html
+21:05:56 [watch] ko-post.html
+ ELIFECYCLE  Command failed with exit code 143.

@@ -7,24 +7,26 @@ export const prerender = true;
 
 export async function getStaticPaths() {
   const pages = await getCollection("pages");
-  
+
   return pages.map((pageDoc) => {
     // pageDoc.id is like "about/index.ko.md" or "about/indexko" depending on Astro configuration.
     // We strictly parse the folder as the staticPage slug.
     const parts = pageDoc.id.split("/");
     const slug = parts[0];
-    
+
     // Parse lang from the second part (e.g. indexko -> ko, index.ko.md -> ko)
     const file = parts[1];
-    
+
     // Extract language code efficiently using the supported LANGUAGES array
-    const lang = LANGUAGES.find((l) =>
-      file === `index.${l}.md` ||
-      file === `index${l}.md` ||
-      file === `index.${l}` ||
-      file === `index${l}`
-    ) || "ko";
-    
+    const lang =
+      LANGUAGES.find(
+        (l) =>
+          file === `index.${l}.md` ||
+          file === `index${l}.md` ||
+          file === `index.${l}` ||
+          file === `index${l}`,
+      ) || "ko";
+
     return {
       params: { lang, staticPage: slug },
       props: { pageDoc },

@@ -12,14 +12,18 @@ const paramPage = Astro.params.page
   ? parseInt(Astro.params.page as string, 10)
   : 1;
 
-console.log(`[ROUTE DEBUG] /${paramLang}/${Astro.params.page} -> parsed paramPage: ${paramPage}`);
+console.log(
+  `[ROUTE DEBUG] /${paramLang}/${Astro.params.page} -> parsed paramPage: ${paramPage}`,
+);
 
 if (!LANGUAGES.includes(paramLang)) {
   console.log(`[404 REASON] Invalid language: ${paramLang}`);
   return Astro.rewrite("/404");
 }
 if (Number.isNaN(paramPage)) {
-  console.log(`[404 REASON] NaN paramPage from Astro.params.page: ${Astro.params.page}`);
+  console.log(
+    `[404 REASON] NaN paramPage from Astro.params.page: ${Astro.params.page}`,
+  );
   return Astro.rewrite("/404");
 }
 
@@ -58,7 +62,9 @@ const end = start + pageSize;
 const paginatedData = sortedPosts.slice(start, end);
 
 if (paginatedData.length === 0 && paramPage > 1) {
-  console.log(`[404 REASON] paginatedData empty! paramPage: ${paramPage}, lastPage: ${lastPage}, posts.length: ${posts.length}`);
+  console.log(
+    `[404 REASON] paginatedData empty! paramPage: ${paramPage}, lastPage: ${lastPage}, posts.length: ${posts.length}`,
+  );
   return Astro.rewrite("/404");
 }
 

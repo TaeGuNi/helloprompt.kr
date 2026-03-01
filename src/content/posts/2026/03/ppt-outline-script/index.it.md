@@ -6,6 +6,7 @@ date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: " "
 description: "Non passare la notte in bianco a preparare la presentazione. Un prompt pratico che genera in un minuto l'indice del PPT e lo script per ogni slide."
+image: "/images/hooks/powerpoint-outline-prompt.jpg"
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ppt-outline-scr"]
 ---
 # 📝 Fuga dall'inferno della pianificazione PPT: Prompt per la generazione automatica dell'indice e dello script per ogni slide

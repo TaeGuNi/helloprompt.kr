@@ -6,6 +6,7 @@ date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: " "
 description: "Machen Sie keine Nächte mehr durch für Präsentationsvorbereitungen. Ein praxisnaher Prompt, der in 1 Minute vom PPT-Inhaltsverzeichnis bis zum Skript für jede Folie alles erstellt."
+image: "/images/hooks/powerpoint-outline-prompt.jpg"
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ppt-outline-scr"]
 ---
 # 📝 PPT-Planungshölle entkommen: Prompt zur automatischen Erstellung von Inhaltsverzeichnis & Skript pro Folie

@@ -6,6 +6,7 @@ date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: " "
 description: "Ne passez plus des nuits blanches à préparer vos présentations. Un prompt orienté pratique qui génère en 1 minute le plan et le script de chaque diapositive de votre PPT."
+image: "/images/hooks/powerpoint-outline-prompt.jpg"
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ppt-outline-scr"]
 ---
 # 📝 Échapper à l'enfer de la planification PPT : Prompt pour générer le plan et le script par diapositive

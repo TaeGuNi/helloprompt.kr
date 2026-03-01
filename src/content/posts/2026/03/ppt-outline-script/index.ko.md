@@ -6,6 +6,7 @@ date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "업무 자동화"
 description: "발표 준비로 밤새지 마세요. 1분 만에 PPT 목차부터 슬라이드별 발표 스크립트까지 뽑아내는 실무 밀착형 프롬프트."
+image: "/images/hooks/powerpoint-outline-prompt.jpg"
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ppt-outline-scr"]
 ---
 # 📝 PPT 기획 지옥 탈출: 슬라이드별 목차 & 대본 자동 생성 프롬프트

@@ -27,7 +27,10 @@ export const GET: APIRoute = async (context) => {
   const posts: AtomPost[] = [];
 
   allPosts.forEach((post) => {
-    if (post.id.endsWith(`index${lang}`)) {
+    if (
+      post.id.endsWith(`index.${lang}.md`) ||
+      post.id.endsWith(`index.${lang}`)
+    ) {
       const parts = post.id.split("/");
       const slug = parts.slice(0, -1).join("/");
       posts.push({
@@ -75,7 +78,7 @@ export const GET: APIRoute = async (context) => {
   <id>${context.site}${lang}/</id>
   <updated>${posts[0]?.pubDate.toISOString() || new Date().toISOString()}</updated>
   <author>
-    <name>Jay &amp; Jay</name>
+    <name>Jay</name>
   </author>
   ${posts
     .map(

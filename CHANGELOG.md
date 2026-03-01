@@ -2,6 +2,30 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.11.0](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.10.0...v1.11.0) (2026-03-01)
+
+
+### Features
+
+* **ci:** integrate automated self-healing protocol into release scripts ([71a27b1](https://github.com/TaeGuNi/helloprompt.kr/commit/71a27b1ff841cb73f326af057a248358ac83d0ee))
+* **content:** add 10 custom trend posts [AI Generated] ([#298](https://github.com/TaeGuNi/helloprompt.kr/issues/298)) ([cb57c09](https://github.com/TaeGuNi/helloprompt.kr/commit/cb57c09ed9f295512abba38d0b6d563137aae414))
+* **content:** add 10 new high-demand custom trend posts ([881e223](https://github.com/TaeGuNi/helloprompt.kr/commit/881e2239f02ef777fcacc9085322ad50b082175e))
+* **content:** generate post for lotto ([df5a5e7](https://github.com/TaeGuNi/helloprompt.kr/commit/df5a5e7f4161ace32a31a96fa8ffb52d2b4b7fd6))
+* **content:** generate post for Playwright Auto-healing ([d47130b](https://github.com/TaeGuNi/helloprompt.kr/commit/d47130b4a36f09193bba7b09c8e019f1a4f3f0cd))
+* enhance sitemap multi-language crawl budget optimization ([90cacfa](https://github.com/TaeGuNi/helloprompt.kr/commit/90cacfaeff322689cb1f0299c82f4fe757d0f1b9))
+* **release:** automate pr template, branch locking, and ci merging pipelines ([36cf375](https://github.com/TaeGuNi/helloprompt.kr/commit/36cf375b94e96a02021b5227db3fe0d837b150bb))
+
+
+### Bug Fixes
+
+* **ci:** replace amend with standard commit for auto-heal to preserve history ([ebb571d](https://github.com/TaeGuNi/helloprompt.kr/commit/ebb571ddd89726a3b53ab6f61c42d36488148261))
+* **lint:** resolve biome formatting and unused variable ([dc4d538](https://github.com/TaeGuNi/helloprompt.kr/commit/dc4d53854168fdd0da7c9b031909d40dbe8c325c))
+* **qa:** remove rigid static artifact assertions to support astro 5 serverless outputs ([970abd0](https://github.com/TaeGuNi/helloprompt.kr/commit/970abd0e5ed46be42a45210a3802238dbbcc4eb6))
+* **release:** prevent auto-heal artifacts from being tracked in git commits ([db024c4](https://github.com/TaeGuNi/helloprompt.kr/commit/db024c42de4f090ed1722cfa4c6a14f9cc4a12f4))
+* **release:** prevent branch divergence by swapping squash merge to standard merge ([f9853b6](https://github.com/TaeGuNi/helloprompt.kr/commit/f9853b6a33d1d0fefa18c183dc91d421eff90515))
+* **rss:** correctly match multilingual index.md files for sitemap and feeds ([eb7edb2](https://github.com/TaeGuNi/helloprompt.kr/commit/eb7edb2acde95d8ef1f7d44127c88d9b374adca5))
+* **rss:** correctly match multilingual index.md files for sitemap and feeds ([d637b27](https://github.com/TaeGuNi/helloprompt.kr/commit/d637b272e9f9c1b8a0ca0d8bf1f8bf662bf5096b))
+
 ## [1.10.0](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.9.0...v1.10.0) (2026-02-28)
 
 

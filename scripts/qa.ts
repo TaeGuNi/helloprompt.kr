@@ -109,9 +109,9 @@ async function auditFile(filePath: string): Promise<boolean> {
 }
 
 // --- Phase 2: Post-Build Analysis ---
-async function checkDistArtifacts(langCount: number) {
+async function checkDistArtifacts() {
   console.log(
-    "\n🔍 Starting Phase 2: Validating Generated Artifacts (dist/)...",
+    "\n🔍 Starting Phase 2: Validating Generated Artifacts (SSR Mode)...",
   );
   let passed = true;
 
@@ -122,71 +122,33 @@ async function checkDistArtifacts(langCount: number) {
     return false;
   }
 
-  // 1. Sitemap Check
+  // With output: "server", only pure static assets go to dist/client,
+  // dynamic routes like search.json, sitemap.xml, tags, and rss.xml become Vercel serverless functions.
+
+  // 1. Robots.txt Check (Static file)
   try {
-    const sitemap = await fs.readFile(
-      path.join("dist", "sitemap.xml"),
+    const robots = await fs.readFile(
+      path.join("dist", "client", "robots.txt"),
       "utf-8",
     );
-    if (!sitemap.includes("<urlset")) throw new Error();
-    console.log("✅ Sitemap.xml successfully generated and parsed.");
-  } catch {
-    console.error("❌ [QA_SITEMAP] sitemap.xml is missing or invalid.");
-    passed = false;
-  }
-
-  // 2. Robots.txt Check
-  try {
-    const robots = await fs.readFile(path.join("dist", "robots.txt"), "utf-8");
     if (!robots.includes("Sitemap: https://helloprompt.kr/sitemap.xml"))
       throw new Error();
     console.log("✅ Robots.txt points to correct sitemap.");
   } catch {
     console.error(
-      "❌ [QA_ROBOTS] robots.txt is missing or missing correct sitemap link.",
+      "❌ [QA_ROBOTS] dist/client/robots.txt is missing or missing correct sitemap link.",
     );
     passed = false;
   }
 
-  // 3. Feeds & Search JSON Check (Ensure at least 1 language generated correctly)
-  const langsToCheck = ["ko", "en"];
-  for (const lang of langsToCheck) {
-    const langDir = lang === "ko" ? "dist" : path.join("dist", lang);
-
-    // RSS
-    try {
-      const rss = await fs.readFile(path.join(langDir, "rss.xml"), "utf-8");
-      if (!rss.includes("<rss")) throw new Error();
-    } catch {
-      console.error(`❌ [QA_RSS] RSS feed missing for ${lang}.`);
-      passed = false;
-    }
-
-    // Search JSON
-    try {
-      const searchJsonRaw = await fs.readFile(
-        path.join(langDir, "search.json"),
-        "utf-8",
-      );
-      const searchData = JSON.parse(searchJsonRaw);
-      if (!Array.isArray(searchData) || searchData.length === 0)
-        throw new Error("Empty search data");
-    } catch (e) {
-      console.error(
-        `❌ [QA_SEARCH] Search JSON missing or malformed for ${lang}: ${e}`,
-      );
-      passed = false;
-    }
-  }
-
-  // 4. Tags directory check
+  // 2. Verify Vercel Build Output existence
   try {
-    const tagsPath = path.join("dist", "tags");
-    const tagsContent = await fs.readdir(tagsPath);
-    if (tagsContent.length === 0) throw new Error();
-    console.log("✅ Static Tag pages successfully generated.");
+    await fs.access(".vercel/output");
+    console.log("✅ Vercel serverless function outputs successfully bundled.");
   } catch {
-    console.error("❌ [QA_TAGS] Tags directory missing or empty.");
+    console.error(
+      "❌ [QA_VERCEL] .vercel/output directory missing. Server build failed.",
+    );
     passed = false;
   }
 
@@ -250,7 +212,7 @@ async function main() {
     process.exit(1);
   }
 
-  const phase2Passed = await checkDistArtifacts(10); // 10 languages
+  const phase2Passed = await checkDistArtifacts();
 
   if (!phase2Passed) {
     console.error("\n🚫 Phase 2 Failed. Build artifacts failed validation.");

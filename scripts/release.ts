@@ -115,27 +115,135 @@ try {
 
   // 8. CI Monitoring & Auto-merge
   console.log("\n⏳ Monitoring CI status and waiting for auto-merge...");
-  let ciPassed = false;
-  for (let i = 0; i < 40; i++) {
-    try {
-      // Use statusCheckRollup to get the overall CI state
-      const prStatus = execSync(
-        'gh pr status --json statusCheckRollup -q ".currentBranch.statusCheckRollup[0].state" || echo "UNKNOWN"',
-        { encoding: "utf-8" },
-      ).trim();
 
-      if (prStatus.includes("SUCCESS")) {
-        ciPassed = true;
-        break;
-      } else if (prStatus.includes("FAILURE")) {
-        console.error("❌ CI Failed! Aborting auto-merge.");
+  let ciPassed = false;
+  let healAttempts = 0;
+  const MAX_HEAL_ATTEMPTS = 3;
+
+  while (healAttempts <= MAX_HEAL_ATTEMPTS && !ciPassed) {
+    let currentLoopPassed = false;
+    let currentLoopFailed = false;
+
+    for (let i = 0; i < 40; i++) {
+      try {
+        const prStatus = execSync(
+          'gh pr status --json statusCheckRollup -q ".currentBranch.statusCheckRollup[0].state" || echo "UNKNOWN"',
+          { encoding: "utf-8" },
+        ).trim();
+
+        if (prStatus.includes("SUCCESS")) {
+          currentLoopPassed = true;
+          break;
+        } else if (prStatus.includes("FAILURE")) {
+          currentLoopFailed = true;
+          break;
+        }
+
+        console.log(`   ⏳ Waiting for CI to finish... (${i + 1}/40)`);
+        execSync("sleep 15");
+      } catch {
+        // Ignore gh cli status errors temporarily
+      }
+    }
+
+    if (currentLoopPassed) {
+      ciPassed = true;
+      break;
+    }
+
+    if (currentLoopFailed) {
+      console.error(
+        `\n❌ CI Failed on Attempt ${healAttempts + 1}/${MAX_HEAL_ATTEMPTS + 1}.`,
+      );
+
+      if (healAttempts >= MAX_HEAL_ATTEMPTS) {
+        console.error("🚨 Maximum heal attempts reached. Aborting pipeline.");
         process.exit(1);
       }
 
-      console.log(`   ⏳ Waiting for CI to finish... (${i + 1}/40)`);
-      execSync("sleep 15");
-    } catch {
-      // Ignore gh cli errors
+      console.log("\n🧟‍♂️ [ZOMBIE PROTOCOL] Initiating Auto-Heal Sequence...");
+      try {
+        // Find the failed Github Actions Run ID for the develop branch
+        const runIdRaw = execSync(
+          "gh run list --branch develop --status failure --json databaseId -q '.[0].databaseId'",
+          { encoding: "utf-8" },
+        ).trim();
+        if (!runIdRaw) throw new Error("Could not detect failed Run ID.");
+
+        console.log(`📡 Fetching logs for Run ID: ${runIdRaw}...`);
+
+        // Grab the last 300 lines of the log containing the failure stack
+        const logs = execSync(`gh run view ${runIdRaw} --log | tail -n 300`, {
+          encoding: "utf-8",
+        });
+
+        console.log("🤖 Passing logs to Gemini AI...");
+        const prompt = `
+You are an expert system-healing AI assistant running in a fully autonomous CI pipeline.
+The Github Actions CI just FAILED for the following repository. 
+Here are the last 300 lines of the failure log.
+
+<LOGS>
+${logs}
+</LOGS>
+
+Analyze the exact file and syntactic error that caused this failure (e.g. Markdown frontmatter corruption, Biome linting error, Translation fragment glitch, code issue).
+Then, output a pure, copy-pasteable BASH SCRIPT that forcefully patches/fixes the error in the local filesystem.
+CRITICAL RULES:
+1. ONLY output raw backtick bash source code. Do not wrap in explanations. Do not output anything except bash.
+2. We are already inside the root repository.
+3. Use \`sed\`, \`node\` inline, or anything necessary to clean the files.
+4. You do NOT need to run git commands. I will handle the commit and push after your script finishes.
+`;
+        // Create an AI request temp file
+        writeFileSync(".github/heal-prompt.txt", prompt, "utf-8");
+        // We use gemini CLI (from Phase 1 / AGENTS standards) to resolve it locally
+        const aiResponse = execSync(
+          'gemini -m "gemini-3.1-pro-preview" -p "$(<.github/heal-prompt.txt)"',
+          { encoding: "utf-8" },
+        );
+
+        // Extract script from text
+        const match = aiResponse.match(/```(?:bash|sh|shell)?\n([\s\S]+?)```/);
+        const autoHealScript = match ? match[1].trim() : aiResponse.trim();
+
+        writeFileSync(".github/auto-heal.sh", autoHealScript, "utf-8");
+        execSync("chmod +x .github/auto-heal.sh");
+
+        console.log("🛠️ Applying AI Patch...");
+        execSync("./.github/auto-heal.sh", { stdio: "inherit" });
+
+        // Format checking to ensure AI didn't break things further
+        execSync("pnpm biome check --write . || true");
+
+        console.log("🚀 Pushing AI Fix directly to PR...");
+        execSync("git add .");
+        execSync(
+          `git commit --amend -m "fix(ci): auto-healed ci failure (attempt ${healAttempts + 1})"`,
+        );
+        execSync("git push -f origin develop", { stdio: "inherit" });
+
+        console.log(
+          "\n♻️ Patch pushed! Waiting for CI to completely restart...",
+        );
+        execSync("sleep 30"); // Give GH 30 seconds to recognize the new commit hash and spin up
+      } catch (e: unknown) {
+        console.error(
+          "❌ Auto-Heal sequence completely crashed:",
+          e instanceof Error ? e.message : String(e),
+        );
+        process.exit(1);
+      } finally {
+        // Purge heal artifacts
+        try {
+          rmSync(".github/heal-prompt.txt", { force: true });
+        } catch {}
+        try {
+          rmSync(".github/auto-heal.sh", { force: true });
+        } catch {}
+      }
+
+      healAttempts++;
     }
   }
 

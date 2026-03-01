@@ -15,7 +15,6 @@
     "generate:custom": "npx tsx scripts/generate-custom-trends.ts",
     "qa": "npx tsx scripts/qa.ts",
     "qa:rewrite": "npx tsx scripts/qa-rewriter.ts",
-    "docs:update": "npx tsx scripts/update-management.ts",
     "test": "vitest run",
     "test:e2e": "playwright test",
     "release": "npx tsx scripts/release.ts",

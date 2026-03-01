@@ -46,9 +46,10 @@ async function processMarkdown(filePath: string) {
   // Crucially, it must not match across newlines to avoid grabbing HTML comments
   const hookMatch = content.match(/^(?:>\s*)?_"?([^"\n]+)"?_$/m);
   if (!hookMatch || !hookMatch[1].trim()) {
-    throw new Error(
-      "❌ Extraction Failed: Target 'hook' sentence not found in markdown.",
+    console.warn(
+      `⚠️ Extraction Skipped: Target 'hook' sentence not found in markdown for ${filePath}.`,
     );
+    return; // Gracefully continue instead of crashing the pipeline
   }
   const hookText = hookMatch[1].trim();
 

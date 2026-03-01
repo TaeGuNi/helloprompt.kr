@@ -5,91 +5,129 @@ author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: " "
-description: "Ne passez plus des nuits blanches à préparer vos présentations. Un prompt orienté pratique qui génère en 1 minute le plan et le script de chaque diapositive de votre PPT."
+description: "Ne passez plus de nuits blanches sur vos présentations. Voici un prompt redoutablement efficace pour générer, en moins d'une minute, la trame complète et le script détaillé de chaque diapositive de votre PowerPoint."
 image: "/images/hooks/powerpoint-outline-prompt.jpg"
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ppt-outline-scr"]
 ---
+
 # 📝 Échapper à l'enfer de la planification PPT : Prompt pour générer le plan et le script par diapositive
-- **🎯 Public recommandé :** Marketeurs, chefs de projet, nouveaux employés, développeurs ayant une présentation à faire
+
+- **🎯 Public recommandé :** Marketeurs, chefs de projet, jeunes actifs, développeurs devant animer une présentation
 - **⏱️ Temps requis :** 3 heures → Réduit à 1 minute
 - **🤖 Modèles recommandés :** Toutes les IA conversationnelles (Claude 3.5 Sonnet, ChatGPT, etc.)
+
 - ⭐ **Difficulté :** ⭐⭐☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
 - 🚀 **Utilité :** ⭐⭐⭐⭐⭐
-_Votre présentation est prévue pour demain, et cela fait 30 minutes que vous fixez une diapositive PowerPoint vide ?_
-Ce qui est bien plus douloureux que le design d'un PPT, c'est l'étape de planification : « quoi dire, dans quel ordre et comment ». Ce prompt rassemble vos idées fragmentées et les transforme instantanément en une structure parfaite, diapositive par diapositive, accompagnée d'un script d'une minute pour chacune d'elles. Désormais, concentrez-vous uniquement sur le design.
+
+> _"Votre présentation a lieu demain, et cela fait 30 minutes que vous fixez désespérément une diapositive PowerPoint désespérément vide ?"_
+
+Ce qui est infiniment plus douloureux que le design visuel d'un PPT, c'est l'étape de conception : « Que dois-je dire, dans quel ordre, et comment amener le sujet ? ». Ce prompt agit comme un chef d'orchestre : il rassemble vos idées éparses et les transforme instantanément en une structure implacable, diapositive par diapositive, en y associant un script percutant d'une minute pour chacune d'elles. Désormais, vous n'aurez plus qu'à vous soucier de l'habillage visuel.
+
 ---
+
 ## ⚡️ Résumé en 3 lignes (TL;DR)
-1. Ne partez plus d'une page blanche. Donnez simplement votre message clé et l'IA s'occupera du plan.
-2. Obtenez des recommandations d'éléments visuels (graphiques, images, etc.) nécessaires pour chaque diapositive.
-3. Le script est généré en même temps, ce qui vous permet de gagner du temps pour vous entraîner à l'oral.
+
+1. Ne partez plus jamais d'une page blanche. Fournissez simplement votre message clé, et l'IA bâtira l'ossature de votre présentation.
+2. Obtenez des recommandations d'éléments visuels pertinents (graphiques, images, etc.) pour illustrer chaque diapositive.
+3. Le script oral est généré simultanément, vous offrant un temps précieux pour répéter votre intervention.
+
 ---
-## 🚀 La Solution : « Le créateur de structure de diapositives »
+
+## 🚀 La Solution : « L'Architecte de Diapositives »
+
 ### 🥉 Version de Base (Basic Version)
-À utiliser lorsque vous souhaitez définir rapidement le déroulement global de votre présentation.
-> **Rôle :** Tu es un `[Expert en planification et présentation avec 10 ans d'expérience]`.
-> **Tâche :** Rédige un plan de présentation PPT de 10 diapositives sur le thème `[Lancement d'un nouveau service]`, et résume le message clé de chaque diapositive.
+
+Idéale lorsque vous souhaitez esquisser rapidement le fil rouge de votre présentation.
+
+> **Rôle :** Tu es un `[Expert en conception de présentations avec 10 ans d'expérience]`.
+> **Tâche :** Rédige le plan d'une présentation PPT de 10 diapositives sur le thème `[Lancement d'un nouveau service]`, et synthétise le message clé de chaque diapositive.
+
 ### 🥇 Version Pro (Pro Version)
-À utiliser lorsque vous avez besoin d'une planification et d'un script détaillés pour captiver votre public.
-> **Rôle (Role) :** Tu es un `[Directeur de présentation]` dans une entreprise de premier plan de la Silicon Valley. Tu excelles dans la structuration et le storytelling pour captiver l'auditoire.
+
+Indispensable lorsque vous avez besoin d'une structure narrative pointue et d'un script calibré pour captiver votre auditoire.
+
+> **Rôle (Role) :** Tu es un `[Directeur des présentations]` au sein d'une entreprise tech de premier plan de la Silicon Valley. Tu es passé maître dans l'art de la structuration et du storytelling pour subjuguer ton auditoire.
 >
 > **Contexte (Context) :**
 >
-> - Sujet : `[Proposition d'intégration d'une solution interne d'automatisation des tâches basée sur l'IA]`
-> - Public : `[Cadres dirigeants (C-level) dont la priorité absolue est la réduction des coûts]`
+> - Sujet : `[Proposition d'intégration d'une solution interne d'automatisation des tâches propulsée par l'IA]`
+> - Public : `[Cadres dirigeants (C-level) dont la priorité absolue est l'optimisation des coûts]`
 > - Durée de la présentation : `[15 minutes (environ 10 à 15 diapositives)]`
-> - Objectif principal : `[Obtenir l'approbation du budget pour l'intégration de la solution]`
+> - Objectif principal : `[Décrocher l'approbation du budget nécessaire à l'intégration de la solution]`
 >
 > **Tâche (Task) :**
 >
-> 1. Crée un plan complet des diapositives en commençant par une introduction qui capte immédiatement l'attention du public.
-> 2. Pour chaque diapositive, inclus impérativement les 4 éléments suivants :
+> 1. Conçois un plan exhaustif des diapositives, en débutant par une introduction accrocheuse qui capte l'attention du public dès les premières secondes.
+> 2. Pour chaque diapositive, intègre impérativement les 4 éléments suivants :
 >    - Titre de la diapositive (Headline)
->    - Idée d'élément visuel à afficher (Visual Idea)
->    - Texte clé de la diapositive (Key Message)
->    - Le script exact que le présentateur dira (Style oral, environ 1 minute par diapositive)
-> 3. Laisse les parties `[Sujet]`, `[Public]`, `[Durée de la présentation]`, et `[Objectif principal]` entre crochets pour que l'utilisateur puisse les remplir.
+>    - Suggestion d'élément visuel à intégrer (Visual Idea)
+>    - Message clé de la diapositive (Key Message)
+>    - Le script exact que le présentateur prononcera (Style conversationnel, environ 1 minute par diapositive)
+> 3. Laisse les mentions `[Sujet]`, `[Public]`, `[Durée de la présentation]`, et `[Objectif principal]` entre crochets afin que l'utilisateur puisse les personnaliser.
 >
 > **Contraintes (Constraints) :**
 >
-> - Minimise le jargon technique et utilise un langage professionnel facile à comprendre pour le public.
-> - Au lieu des salutations banales comme "Bonjour", commence le script en posant une question qui touche directement le point de douleur (Pain Point) du public.
-> - Présente le résultat sous forme de liste claire et lisible, organisée par numéro de diapositive.
+> - Bannis le jargon technique trop pointu et privilégie un vocabulaire professionnel limpide pour l'auditoire ciblé.
+> - Fuis les salutations convenues du type "Bonjour à tous". Débute plutôt le script en posant une question percutante qui appuie directement sur un point de douleur (Pain Point) de l'audience.
+> - Présente le résultat sous la forme d'une liste claire, aérée et numérotée par diapositive.
 >
 > **Avertissement (Warning) :**
 >
-> - Évite les expressions vagues (ex. : "Cela vous aidera beaucoup") et présente des effets attendus concrets et spécifiques. (Prévention des hallucinations)
+> - Évite toute formulation floue (ex. : "Cela va beaucoup vous aider") et fournis des bénéfices concrets et mesurables. (Prévention des hallucinations)
+
 ---
+
 ## 💡 Commentaire de l'auteur (Insight)
-Le syndrome de la page blanche (Blank Canvas Syndrome). C'est l'étape où les professionnels perdent le plus de temps lorsqu'ils ouvrent un PPT. Ce prompt a été conçu pour terminer 100 % de la planification sur Word ou le Bloc-notes avant même d'ouvrir votre outil de design.
-La clé est de définir clairement la variable `[Public]`. Si votre public est composé d'opérationnels, le script sera axé sur les "méthodes d'implémentation". Si ce sont des cadres dirigeants, il se concentrera sur la "réduction des coûts et la gestion des risques". 
-Par expérience, il est déconseillé de lire le script généré par l'IA mot pour mot. Laissez 80 % de la structure et du déroulement à l'IA, et ajoutez 20 % de votre propre expérience sur le terrain ou des indicateurs internes spécifiques à votre entreprise. Vous rentrerez chez vous 3 heures plus tôt, et la qualité de votre présentation sera doublée.
+
+Le syndrome de la page blanche (Blank Canvas Syndrome). C'est précisément à cette étape que la majorité des professionnels perdent un temps fou avant même d'entamer la création de leur PPT. Ce prompt a été pensé pour vous permettre de boucler 100 % de votre réflexion stratégique sur Word ou le Bloc-notes, bien avant d'ouvrir votre logiciel de présentation.
+
+Le véritable secret réside dans la définition minutieuse de la variable `[Public]`. Si vous vous adressez à des profils opérationnels, le script s'orientera naturellement vers les "méthodes d'implémentation". S'il s'agit du comité de direction (C-level), le discours pivotera vers la "réduction des coûts et la mitigation des risques".
+
+D'expérience, il est vivement déconseillé de réciter mécaniquement le script pondu par l'IA. Laissez-lui générer 80 % de la structure et de la logique narrative, puis injectez-y vos 20 % d'expertise terrain ou les indicateurs clés propres à votre entreprise. Vous quitterez le bureau 3 heures plus tôt, avec une présentation deux fois plus percutante.
+
 ---
+
 ## 🙋 Foire Aux Questions (FAQ)
-- **Q : Est-il possible d'augmenter ou de réduire le nombre de diapositives ?**
-  - R : Oui. En modifiant la variable `[Durée de la présentation]` dans le Contexte pour 5 minutes (5 diapositives) ou 30 minutes (30 diapositives), l'IA ajustera automatiquement le rythme et la longueur du script.
-- **Q : Que faire si le ton à l'oral semble trop artificiel ?**
-  - R : Donnez une instruction supplémentaire (Follow-up prompt) telle que "Modifie le ton du script pour qu'il soit plus ferme, confiant et adapté au monde des affaires", et le résultat sera beaucoup plus naturel.
+
+- **Q : Est-il possible d'ajuster le nombre de diapositives ?**
+  - R : Absolument. En modifiant simplement la variable `[Durée de la présentation]` dans le Contexte pour 5 minutes (5 diapositives) ou 30 minutes (30 diapositives), l'IA adaptera d'elle-même le rythme et la densité du script.
+
+- **Q : Que faire si le ton du discours semble trop robotique ou artificiel ?**
+  - R : Ajoutez simplement une instruction de suivi (Follow-up prompt) du type : "Ajuste le ton du script pour le rendre plus assertif, confiant et adapté à un contexte business de haut niveau". Le rendu n'en sera que plus authentique.
+
 ---
+
 ## 🧬 Analyse du prompt (Why it works?)
-1. **Storytelling orienté vers la cible :** Au lieu de demander simplement "Fais-moi un PPT", nous avons précisé le `[Public]` et l'`[Objectif principal]`, forçant ainsi l'IA à se concentrer sur la "persuasion" plutôt que sur une simple énumération d'informations.
-2. **Séparation des idées visuelles (Visual Idea) :** L'IA planifie à l'avance la partie la plus frustrante de la création d'un PPT : "Quelle image dois-je mettre ici ?", ce qui allège vos soucis lors de la phase de conception.
-3. **Instruction de script à l'oral :** En séparant la tâche entre le texte à afficher à l'écran (résumé) et les paroles du présentateur (explication), nous obtenons une structure de présentation parfaite.
+
+1. **Storytelling ultra-ciblé :** Plutôt que de formuler une requête basique comme "Fais-moi un PPT", nous avons verrouillé le `[Public]` et l'`[Objectif principal]`. Cela contraint l'IA à adopter une posture de "persuasion" plutôt que de se contenter d'un simple étalage d'informations.
+2. **Anticipation visuelle (Visual Idea) :** L'IA prend en charge la réflexion la plus fastidieuse de la création d'un PPT : "Quelle image dois-je insérer ici ?". Cela vous décharge d'un poids cognitif énorme lors de la phase de design.
+3. **Dichotomie texte/oral :** En séparant scrupuleusement le texte affiché à l'écran (le résumé) et le discours prononcé par le présentateur (le script), nous garantissons une structure de présentation exemplaire, évitant l'écueil des diapositives surchargées de texte.
+
 ---
+
 ## 📊 Preuve : Avant & Après
+
 ### ❌ Avant (Entrée)
+
 ```text
 Je vais faire une présentation aux cadres dirigeants sur la nécessité d'adopter une nouvelle solution d'IA. Rédige-moi le contenu pour un PPT de 10 diapositives.
 ```
+
 ### ✅ Après (Résultat)
+
 ```text
-Diapositive 2 : Les coûts cachés que nous gaspillons (Pain Point)
-- Visual Idea : Un graphique montrant la hausse des coûts salariaux sur les 3 dernières années contrastant avec la stagnation de l'efficacité du travail.
-- Key Message : 4 800 heures par an gaspillées dans des rapports manuels.
-- Script : "Mesdames et Messieurs les membres de la direction, regardez ce graphique. Chaque mois, nous passons 400 heures par département uniquement pour compiler des données simples. À combien cela s'élève-t-il si on le convertit en salaire ? Ce chiffre est le plus grand goulot d'étranglement qui empêche notre entreprise de croître et nous maintient sur place."
-... (Suite avec une structure parfaite de 10 diapositives)
+Diapositive 2 : Les coûts invisibles qui consument notre rentabilité (Pain Point)
+- Visual Idea : Un graphique illustrant l'envolée des coûts salariaux sur les 3 dernières années, en contraste frappant avec la stagnation de la productivité.
+- Key Message : 4 800 heures évaporées chaque année dans la saisie manuelle de rapports.
+- Script : "Mesdames et Messieurs les membres de la direction, je vous invite à observer ce graphique. Chaque mois, nous engloutissons 400 heures par département uniquement pour compiler des données triviales. À combien s'élève cette perte si on la convertit en masse salariale ? Ce chiffre représente aujourd'hui le principal goulot d'étranglement qui bride la croissance de notre entreprise et nous maintient dans le statu quo."
+... (Le déroulé se poursuit avec une structure narrative impeccable sur 10 diapositives)
 ```
+
 ---
+
 ## 🎯 Conclusion
-Si la planification est solide, votre présentation sera un succès, même si le design est un peu brut.
-Ne perdez plus votre temps avec des animations flashy. Utilisez ce prompt pour construire la structure, et ajoutez-y vos propres insights. Maintenant, rentrez chez vous à l'heure ! 🍷
+
+Une ossature narrative solide sauvera toujours une présentation, même si son design laisse à désirer.
+
+Cessez de gaspiller votre énergie sur des animations superflues. Appuyez-vous sur ce prompt pour bâtir une fondation inébranlable, et saupoudrez-y votre propre expertise. À présent, vous pouvez fermer votre ordinateur et rentrer à l'heure ! 🍷

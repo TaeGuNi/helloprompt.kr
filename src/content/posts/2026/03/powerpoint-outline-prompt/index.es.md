@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "업무 자동화"
-description: "Olvídate de la página en blanco. Descubre el prompt definitivo de IA para generar al instante la estructura perfecta y los mensajes clave de tu próxima presentación."
+description: "Olvídate del síndrome de la página en blanco. Descubre el prompt definitivo de IA para generar al instante la estructura perfecta y los mensajes clave de tu próxima presentación."
 tags: ["prompt-engineering", "ai-agent", "powerpoint"]
 image: "/images/hooks/powerpoint-outline-prompt.jpg"
 ---
@@ -31,7 +31,7 @@ El verdadero motivo por el que tardamos tanto en redactar una propuesta o un inf
 ## ⚡️ 3 puntos clave (TL;DR)
 
 1. El núcleo de una presentación brillante no es un diseño deslumbrante, sino una estructura lógica a prueba de balas.
-2. Al especificarle a la IA tu audiencia, objetivo y tiempo disponible, esta distribuirá automáticamente el peso del contenido y te sugerirá los mejores recursos visuales.
+2. Al especificarle a la IA tu audiencia, tu objetivo y el tiempo disponible, esta distribuirá automáticamente el peso del contenido y te sugerirá los mejores recursos visuales.
 3. Este prompt es tu billete definitivo para escapar del temido «síndrome de la página en blanco».
 
 ---
@@ -47,7 +47,7 @@ Ideal para cuando necesitas resultados rápidos y directos al grano.
 
 ### 🥇 Pro Version (Versión Profesional)
 
-Tu mejor aliado cuando buscas un nivel de detalle y calidad excepcional.
+Tu mejor aliado cuando buscas un nivel de detalle y una calidad excepcionales.
 
 > **Rol (Role):** Eres un Senior Manager en una consultora estratégica de primer nivel y un auténtico maestro de las presentaciones ejecutivas.
 > 
@@ -71,7 +71,7 @@ Tu mejor aliado cuando buscas un nivel de detalle y calidad excepcional.
 > 
 > **Advertencias (Warning):**
 > 
-> - Bajo ninguna circunstancia inventes datos o estadísticas. Si desconoces un dato exacto, deja el espacio en blanco entre corchetes para que yo lo complete manualmente (evita alucinaciones).
+> - Bajo ninguna circunstancia inventes datos o estadísticas. Si desconoces un dato exacto, deja el espacio en blanco entre corchetes para que yo lo complete manualmente (evita las alucinaciones).
 > - Omite saludos, introducciones o confirmaciones de lectura. Comienza tu respuesta directamente con el contenido de la Diapositiva 1.
 
 ---
@@ -80,9 +80,9 @@ Tu mejor aliado cuando buscas un nivel de detalle y calidad excepcional.
 
 La verdadera genialidad de este prompt reside en su capacidad para extraer, de forma simultánea, la propuesta visual y el resumen del guion. El secreto está en obligar a la IA —que por defecto tiende a vomitar muros de texto— a pensar en términos prácticos, sugiriendo elementos tangibles como «aquí encaja perfectamente un gráfico circular».
 
-Tras haber redactado cientos de propuestas corporativas a lo largo de mi carrera, he aprendido una verdad innegable: a los directivos y clientes no les impresionan las tipografías modernas ni las animaciones complejas. Lo que realmente les convence es una estructura lógica y contundente que responda sin rodeos a la gran pregunta: *"En resumen, ¿qué es lo que me estás pidiendo?"*.
+Tras haber redactado cientos de propuestas corporativas a lo largo de mi carrera, he aprendido una verdad innegable: a los directivos y a los clientes no les impresionan las tipografías modernas ni las animaciones complejas. Lo que realmente les convence es una estructura lógica y contundente que responda sin rodeos a la gran pregunta: *"En resumen, ¿qué es lo que me estás pidiendo?"*.
 
-Deja de malgastar horas valiosas buscando plantillas estéticas en internet. Si el esqueleto argumental es robusto, unas simples letras negras sobre fondo blanco bastarán para conseguir esa codiciada aprobación. Resuelve la estructura de tu presentación en apenas un minuto con este prompt e invierte el tiempo que has ahorrado en afinar tu estrategia real o, por qué no, en tomarte un merecido descanso. Así es como opera un verdadero profesional.
+Deja de malgastar horas valiosas buscando plantillas estéticas en internet. Si el esqueleto argumental es robusto, unas simples letras negras sobre fondo blanco bastarán para conseguir esa codiciada aprobación. Resuelve la estructura de tu presentación en apenas un minuto con este prompt e invierte el tiempo que te has ahorrado en afinar tu estrategia real o, por qué no, en tomarte un merecido descanso. Así es como opera un verdadero profesional.
 
 ---
 
@@ -100,7 +100,7 @@ Deja de malgastar horas valiosas buscando plantillas estéticas en internet. Si 
 
 1. **Hiper-contextualización de audiencia y formato:** Al imponer restricciones drásticas como «audiencia C-level» y «presentación de 15 minutos», obligamos a la IA a calibrar automáticamente el ritmo narrativo y la contundencia de sus argumentos.
 2. **Forzar la ideación visual:** El prompt está diseñado para aliviar el mayor dolor de cabeza al montar diapositivas: la traducción de conceptos abstractos a gráficos. Obligamos a la IA a darnos la pista exacta de «cómo mostrar este dato visualmente».
-3. **Restricción implacable de caracteres:** Para evitar la habitual catástrofe de diapositivas atestadas de texto (la temida "muerte por PowerPoint"), el límite estricto de 20 caracteres garantiza que solo sobreviva el núcleo absoluto de tu mensaje.
+3. **Restricción implacable de caracteres:** Para evitar la habitual catástrofe de diapositivas atestadas de texto (la temida «muerte por PowerPoint»), el límite estricto de 20 caracteres garantiza que solo sobreviva el núcleo absoluto de tu mensaje.
 
 ---
 

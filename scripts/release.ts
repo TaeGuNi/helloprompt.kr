@@ -142,7 +142,7 @@ try {
   // 9. Final Auto Merge Logic
   if (ciPassed) {
     console.log("✅ CI Passed! Auto-merging PR...");
-    execSync("gh pr merge --squash --admin --delete-branch=false", {
+    execSync("gh pr merge --merge --admin --delete-branch=false", {
       stdio: "inherit",
     });
 

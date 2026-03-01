@@ -12,15 +12,21 @@ export const GET: APIRoute = async (context) => {
     .toString()
     .replace(/\/$/, "");
 
-  // Base paths to generate hreflang for
-  const basePaths: string[] = [""];
+  // Base paths and associated dates to generate hreflang and dynamic properties for
+  const basePathsInfo: Array<{ path: string; isHome: boolean; date: Date }> = [
+    { path: "", isHome: true, date: now },
+  ];
 
-  // Add post base paths
+  // Add post base paths with dates for dynamic priority computing
   allPosts.forEach((post) => {
     if (post.id.endsWith("index.ko.md") || post.id.endsWith("index.ko")) {
       const parts = post.id.split("/");
       const slug = parts.slice(0, -1).join("/");
-      basePaths.push(`/posts/${slug}`);
+      basePathsInfo.push({
+        path: `/posts/${slug}`,
+        isHome: false,
+        date: post.data.date,
+      });
     }
   });
 
@@ -31,24 +37,41 @@ export const GET: APIRoute = async (context) => {
 
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  ${basePaths
-    .flatMap((basePath) => {
+  ${basePathsInfo
+    .flatMap((info) => {
+      // Calculate dynamic SEO properties based on recency
+      const daysOld =
+        (now.getTime() - info.date.getTime()) / (1000 * 3600 * 24);
+      let priority = "0.5";
+      let changefreq = "monthly";
+
+      if (info.isHome) {
+        priority = "1.0";
+        changefreq = "daily";
+      } else if (daysOld <= 7) {
+        priority = "0.9";
+        changefreq = "daily";
+      } else if (daysOld <= 30) {
+        priority = "0.7";
+        changefreq = "weekly";
+      }
+
       // Create a <url> block for EACH language version
       return LANGUAGES.map((lang) => {
-        const currentUrl = getUrlForLang(basePath, lang);
+        const currentUrl = getUrlForLang(info.path, lang);
 
         // Generate alternate links for ALL languages
         const alternateLinks = LANGUAGES.map((altLang) => {
-          return `<xhtml:link rel="alternate" hreflang="${altLang}" href="${getUrlForLang(basePath, altLang)}" />`;
+          return `<xhtml:link rel="alternate" hreflang="${altLang}" href="${getUrlForLang(info.path, altLang)}" />`;
         }).join("\\n    ");
 
         return `
   <url>
     <loc>${currentUrl}</loc>
     ${alternateLinks}
-    <lastmod>${now.toISOString().split("T")[0]}</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>${basePath === "" ? "1.0" : "0.8"}</priority>
+    <lastmod>${info.date.toISOString().split("T")[0]}</lastmod>
+    <changefreq>${changefreq}</changefreq>
+    <priority>${priority}</priority>
   </url>`;
       });
     })

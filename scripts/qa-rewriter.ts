@@ -73,6 +73,7 @@ Your job is to REVISE the provided Markdown file for perfect native fluency whil
    - Basic/Pro sections use blockquotes (>)
    - Tables for ratings are BANNED. You MUST use emoji lists (e.g. - ⭐ **Difficulty:** ⭐⭐☆☆☆).
    - DO NOT add an 'image' property.
+6. **TEMPLATE VARIABLES:** You MUST completely translate any placeholder brackets \`[Like This]\` into the target language context. NEVER leave Korean text inside brackets like \`[한국어]\`.
    
 RETURN FORMAT:
 Return ONLY the raw, perfectly revised Markdown file content. Do NOT wrap it in \`\`\`markdown JSON fences. Literally start with '---' for the frontmatter and end with the last character of the markdown file.

@@ -1,11 +1,12 @@
 import { getCollection } from "astro:content";
 import type { APIRoute } from "astro";
 import { DEFAULT_LANGUAGE, LANGUAGES } from "../i18n/languages";
+import { getKstNow } from "../utils/dateUtils";
 
 export const GET: APIRoute = async (context) => {
-  const now = new Date();
+  const kstNow = getKstNow();
   const allPosts = await getCollection("posts", ({ data }) => {
-    return data.date <= now;
+    return data.date <= kstNow;
   });
 
   const site = (context.site || new URL("https://helloprompt.kr"))
@@ -14,7 +15,7 @@ export const GET: APIRoute = async (context) => {
 
   // Base paths and associated dates to generate hreflang and dynamic properties for
   const basePathsInfo: Array<{ path: string; isHome: boolean; date: Date }> = [
-    { path: "", isHome: true, date: now },
+    { path: "", isHome: true, date: kstNow },
   ];
 
   // Add post base paths with dates for dynamic priority computing
@@ -41,7 +42,7 @@ export const GET: APIRoute = async (context) => {
    * Helper: Calculates SEO properties (priority, changefreq) based on content age.
    */
   const getSeoProperties = (isHome: boolean, date: Date) => {
-    const daysOld = (now.getTime() - date.getTime()) / (1000 * 3600 * 24);
+    const daysOld = (kstNow.getTime() - date.getTime()) / (1000 * 3600 * 24);
     if (isHome) return { priority: "1.0", changefreq: "daily" };
     if (daysOld <= 7) return { priority: "0.9", changefreq: "daily" };
     if (daysOld <= 30) return { priority: "0.7", changefreq: "weekly" };

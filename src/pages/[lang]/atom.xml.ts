@@ -1,6 +1,7 @@
 import { getCollection } from "astro:content";
 import type { APIRoute } from "astro";
 import { LANGUAGES } from "../../i18n/languages";
+import { getKstNow } from "../../utils/dateUtils";
 import { uiStrings } from "../../utils/ui-translation";
 
 export const GET: APIRoute = async (context) => {
@@ -10,9 +11,9 @@ export const GET: APIRoute = async (context) => {
     return new Response("Language not supported", { status: 404 });
   }
 
-  const now = new Date();
+  const kstNow = getKstNow();
   const allPosts = await getCollection("posts", ({ data }) => {
-    return data.date <= now;
+    return data.date <= kstNow;
   });
 
   interface AtomPost {

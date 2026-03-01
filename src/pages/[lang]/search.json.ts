@@ -1,11 +1,12 @@
 import { getCollection } from "astro:content";
 import type { APIRoute } from "astro";
+import { getKstNow } from "../../utils/dateUtils";
 
 export const GET: APIRoute = async (context) => {
   const lang = context.params.lang as string;
-  const now = new Date();
+  const kstNow = getKstNow();
   const allPosts = await getCollection("posts", ({ data }) => {
-    return data.date <= now;
+    return data.date <= kstNow;
   });
   // 1. Filter valid content based on Astro 5 ID formats
   const langPosts = allPosts.filter(

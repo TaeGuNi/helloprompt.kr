@@ -15,6 +15,12 @@ export interface FormatDateOptions {
   dateOnly?: boolean;
 }
 
+export const getKstNow = (): Date => {
+  const now = new Date();
+  // Vercel Server uses UTC. KST is UTC+9.
+  return new Date(now.getTime() + 9 * 60 * 60 * 1000);
+};
+
 export const formatDate = (
   dateString: string,
   lang: string,

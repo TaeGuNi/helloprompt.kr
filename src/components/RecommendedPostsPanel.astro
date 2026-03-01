@@ -1,10 +1,11 @@
 ---
 import { getCollection } from "astro:content";
+import { getKstNow } from "../utils/dateUtils";
 
 // 1. Content Collections에서 모든 발행된 포스트 가져오기
-const now = new Date();
+const kstNow = getKstNow();
 const allPosts = await getCollection("posts", ({ data }) => {
-  return new Date(data.date) <= now;
+  return new Date(data.date) <= kstNow;
 });
 
 // 2. 포스트를 언어별로 분류하고 최신 4개씩 추출

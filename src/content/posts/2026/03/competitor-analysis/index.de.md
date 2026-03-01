@@ -5,11 +5,10 @@ author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: " "
-description: "Ein praxiserprobter KI-Prompt, der Marktforschung und SWOT-Analysen, für die man sonst drei Tage googeln würde, in nur drei Minuten erledigt."
+description: "Ein praxiserprobter KI-Prompt, der Marktrecherchen und SWOT-Analysen, für die Sie sonst tagelang googeln müssten, in nur drei Minuten erledigt."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "competitor-anal"]
 ---
 # 📝 🔥 Der ultimative Prompt für Konkurrenz-SWOT-Analysen & Marktforschung für Produktmanager
-
 
 - **🎯 Zielgruppe:** Produktmanager, Marketer, Business Developer, Junior-Mitarbeiter (1-3 Jahre Berufserfahrung)
 - **⏱️ Zeitaufwand:** 3 Tage → auf 3 Minuten reduziert
@@ -18,84 +17,84 @@ tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "competitor-anal"]
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
 - 🚀 **Anwendbarkeit:** ⭐⭐⭐⭐⭐
 
-_"Verdammt... Ich muss bis morgen eine Analyse von drei Konkurrenten vorlegen. Wie soll ich das alles rechtzeitig recherchieren?"_
-Die Zeiten, in denen man stundenlang googeln, endlose Artikel sammeln und zähe Geschäftsberichte wälzen musste, sind endgültig vorbei. Die Kernkompetenz eines Produktmanagers liegt heute nicht mehr in der reinen Informationsbeschaffung, sondern in deren strategischer Interpretation. Dieser Prompt sammelt verstreute Markttrends sowie Wettbewerbsdaten und liefert Ihnen eine SWOT-Analyse inklusive strategischer Implikationen in einer Qualität, die Sie per Copy & Paste direkt in Ihr Konzept übernehmen können.
+_"Verdammt... Ich muss bis morgen früh eine Analyse unserer drei wichtigsten Konkurrenten vorlegen. Wie soll ich das alles noch schaffen?"_
+Die Zeiten, in denen Sie stundenlang googeln, unzählige Artikel überfliegen und trockene Geschäftsberichte wälzen mussten, sind endgültig vorbei. Die wahre Kernkompetenz eines modernen Produktmanagers liegt nicht mehr in der mühsamen Informationsbeschaffung, sondern in deren strategischer Interpretation. Dieser Prompt bündelt verstreute Markttrends sowie Wettbewerbsdaten und liefert Ihnen eine fundierte SWOT-Analyse inklusive strategischer Handlungsempfehlungen – und zwar in einer Qualität, die Sie per Copy & Paste direkt in Ihr nächstes Pitch-Deck übernehmen können.
 
 ---
 ## ⚡️ Zusammenfassung (TL;DR)
-- 🔍 Nutzt die Websuchfunktion der KI, um die aktuellsten Wettbewerbsentwicklungen und Markttrends in Echtzeit zu erfassen.
-- 📊 Liefert keine abstrakten Theorien, sondern arbeitet Stärken, Schwächen, Chancen und Risiken anhand konkreter Praxisbeispiele heraus.
-- 💡 Geht weit über die bloße Analyse hinaus und liefert direkt anwendbare, strategische Handlungsempfehlungen auf die Frage: "Was müssen wir jetzt tun?"
+- 🔍 Nutzt die Websuche der KI, um die aktuellsten Wettbewerbsentwicklungen und Markttrends in Echtzeit zu scannen.
+- 📊 Liefert keine trockene Theorie, sondern arbeitet Stärken, Schwächen, Chancen und Risiken anhand greifbarer Praxisbeispiele heraus.
+- 💡 Geht weit über die bloße Datenanalyse hinaus und liefert direkt umsetzbare, strategische Handlungsempfehlungen auf die entscheidende Frage: "Was ist unser nächster Schachzug?"
 
 ---
 ## 🚀 Die Lösung: "Der hochpräzise Prompt für SWOT- & Trendanalysen"
 
 ### 🥉 Basic Version (Basisvariante)
-Nutzen Sie diese Version, wenn Sie auf die Schnelle eine kompakte Zusammenfassung zu einem bestimmten Konkurrenten benötigen.
+Nutzen Sie diese Variante, wenn Sie unter Zeitdruck stehen und eine knackige Zusammenfassung zu einem spezifischen Wettbewerber benötigen.
 
-> **Rolle:** Du bist ein Senior Strategic Planner in der `[Branche/Industrie]`.
-> **Aufgabe:** Fasse die wichtigsten Entwicklungen und die SWOT-Analyse von `[Name des Wettbewerbers]` aus dem vergangenen Jahr zusammen. Nutze zwingend die Websuche, um die aktuellsten Artikel und Nachrichten einzubeziehen.
+> **Rolle:** Du bist ein Senior Strategic Planner im Bereich `[Branche/Industrie]`.
+> **Aufgabe:** Fasse die wichtigsten Entwicklungen und die SWOT-Analyse von `[Name des Wettbewerbers]` für das vergangene Jahr zusammen. Nutze zwingend die Websuchfunktion, um die aktuellsten Artikel und Nachrichtenquellen einzubeziehen.
 
 ### 🥇 Pro Version (Expertenvariante)
-Nutzen Sie diese Version, wenn Sie eine tiefgehende Analyse und strategische Implikationen auf Management-Niveau benötigen.
+Nutzen Sie diese Variante, wenn Sie eine schonungslose Tiefenanalyse und strategische Implikationen auf Management-Niveau erwarten.
 
 > **Rolle (Role):** 
-> Du bist ein Senior Strategic Planner und Marktforschungsexperte bei einer Top-Tier-Unternehmensberatung.
+> Du bist ein Senior Strategic Planner und Marktforschungsexperte bei einer renommierten Top-Tier-Unternehmensberatung.
 > 
 > **Kontext (Context):**
-> - Hintergrund: Wir bereiten aktuell `[Beschreibung des eigenen Produkts/der Dienstleistung]` vor oder betreiben dieses bereits.
+> - Hintergrund: Wir bereiten aktuell `[Beschreibung des eigenen Produkts/der Dienstleistung]` vor oder betreiben dieses bereits am Markt.
 > - Ziel-Wettbewerber: `[Konkurrent A]`, `[Konkurrent B]`, `[Konkurrent C]`
-> - Ziel: Die genaue Marktpositionierung der wichtigsten Wettbewerber zu verstehen und daraus schlagkräftige, eigene Differenzierungsstrategien (Action Items) abzuleiten.
+> - Zielsetzung: Die exakte Marktpositionierung unserer stärksten Konkurrenten zu entschlüsseln, um daraus messerscharfe, eigene Differenzierungsstrategien (Action Items) abzuleiten.
 > 
 > **Aufgabe (Task):**
-> Analysiere und formuliere die folgenden drei Punkte exakt in der angegebenen Reihenfolge. Du musst zwingend die neuesten Ergebnisse aus der Websuche einbeziehen.
+> Analysiere und strukturiere die folgenden drei Kernpunkte in der exakt vorgegebenen Reihenfolge. Du musst zwingend die aktuellsten Ergebnisse der Live-Websuche einfließen lassen.
 > 
-> 1. Markttrend-Analyse: Die 3 wichtigsten Trends in der `[Branche/Industrie]` sowie die Veränderung der Kundenbedürfnisse.
-> 2. SWOT-Analyse der 3 Wettbewerber: Stärken (S), Schwächen (W), Chancen (O) und Risiken (T) für jeden einzelnen Wettbewerber. (Verzichte auf abstrakte Floskeln, fundiere alles auf handfesten Fakten).
-> 3. Strategische Implikationen: Leite basierend auf den Schwächen und Risiken der Wettbewerber die 3 stärksten und disruptivsten Differenzierungsstrategien ab, die wir unmittelbar ergreifen sollten.
+> 1. Markttrend-Analyse: Identifiziere die 3 prägendsten Trends im Bereich `[Branche/Industrie]` sowie fundamentale Shifts in den Kundenbedürfnissen.
+> 2. SWOT-Analyse der 3 Wettbewerber: Ermittle Stärken (S), Schwächen (W), Chancen (O) und Risiken (T) für jeden Akteur. (Verzichte auf abstraktes Berater-Bingo, untermauere jede Aussage mit handfesten Fakten).
+> 3. Strategische Implikationen: Leite basierend auf den Schwächen und Risiken der Wettbewerber die 3 stärksten, disruptivsten Differenzierungsstrategien ab, die wir sofort implementieren sollten.
 > 
 > **Einschränkungen (Constraints):**
-> - Das Ausgabeformat muss als übersichtliche Markdown-Aufzählung (Bullet Points, inkl. passender Emojis) strukturiert sein.
-> - Die Analyse muss zwingend mindestens ein reales Beispiel oder einen Pressebericht aus den letzten 6 Monaten beinhalten.
-> - Vage Ratschläge (wie z. B. "Das Marketing muss verstärkt werden") sind strengstens untersagt. Liefere ausschließlich konkrete, umsetzbare Aktionspläne.
+> - Das Ausgabeformat muss eine kristallklare Markdown-Struktur (Bullet Points inkl. passender Emojis) aufweisen.
+> - Die Analyse muss zwingend mindestens ein reales Fallbeispiel oder einen Pressebericht aus den letzten 6 Monaten zitieren.
+> - Vage Ratschläge (à la "Marketingbudgets erhöhen") sind strengstens untersagt. Liefere ausschließlich extrem konkrete, operative Aktionspläne.
 > 
 > **Warnung (Warning):**
-> - Erfinde unter keinen Umständen Zahlen oder Informationen, die sich nicht durch eine Websuche belegen lassen. Wenn dir Daten fehlen, deklariere dies klar mit "Daten nicht überprüfbar". (Absolutes Halluzinations-Verbot).
+> - Erfinde unter keinen Umständen Metriken oder Informationen, die sich nicht durch die Websuche verifizieren lassen. Fehlen Daten, deklariere dies unmissverständlich als "Datenlage unzureichend". (Absolutes Halluzinations-Verbot).
 
 ---
 ## 💡 Kommentar des Autors (Insight)
-Seien wir mal ehrlich: Sich für einen Marktforschungsbericht die Nächte um die Ohren zu schlagen, ist reine Zeitverschwendung. Mit dem obigen Prompt haben Sie in nur drei Minuten einen grundsoliden ersten Entwurf auf dem Tisch. 
-Der wahre Wert dieses Prompts liegt jedoch nicht in der reinen 'Datensammlung', sondern darin, dass er die KI regelrecht dazu zwingt, **'unsere Differenzierungsstrategie (Aufgabe 3)'** aktiv zu formen. Die Architektur des Prompts sorgt dafür, dass die identifizierten 'Schwächen (W)' der Konkurrenz unmittelbar in unsere eigenen 'Selling Points' umgewandelt werden. 
+Seien wir absolut ehrlich: Sich für einen initialen Marktforschungsbericht die Nächte um die Ohren zu schlagen, ist heutzutage reine Zeitverschwendung. Mit diesem Prompt haben Sie in weniger als drei Minuten ein grundsolides, strategisches Fundament auf dem Tisch. 
+Der wahre Geniestreich dieses Prompts liegt jedoch nicht in der reinen "Datensammlung". Er zwingt die KI architektonisch dazu, **unsere eigene Differenzierungsstrategie (Aufgabe 3)** proaktiv zu formen. Das Prompt-Design stellt sicher, dass die aufgedeckten "Schwächen (W)" der Konkurrenz unmittelbar als Hebel für unsere eigenen "Selling Points" genutzt werden.
 
-Ein Tipp aus der Praxis: Wenn die KI ihre Analyse ausgespuckt hat und Ihnen eine bestimmte Strategie ins Auge sticht, werfen Sie direkt diese Folgefrage hinterher: *"Erstelle mir für Strategie 3 einen 3-stufigen Plan für einen MVP-Test (Minimum Viable Product) mit einem Budget von 10.000 Euro."* Die Freigabe durch Ihren Teamleiter wird dreimal so schnell auf Ihrem Tisch liegen. Wichtig: Lesen Sie das Ergebnis immer kritisch durch und passen Sie es an Ihre eigenen Erfahrungswerte sowie die spezifische Situation Ihres Unternehmens an. Die KI ist nur Ihr Assistent – die strategische Verantwortung tragen immer noch Sie.
+Ein echter Praxis-Hack: Wenn die KI ihre Analyse liefert und Ihnen eine bestimmte Strategie besonders ins Auge sticht, feuern Sie sofort diese Folgefrage hinterher: *"Erstelle mir für Strategie 3 einen konkreten, 3-stufigen Umsetzungsplan für einen MVP-Test (Minimum Viable Product) mit einem Budget-Cap von 10.000 Euro."* Die Budgetfreigabe durch Ihren C-Level wird damit nur noch Formsache sein. Aber Vorsicht: Hinterfragen Sie die KI-Outputs stets kritisch und reichern Sie diese mit Ihrer eigenen Branchenerfahrung an. Die KI ist Ihr brillanter Analyst – doch die finale strategische Verantwortung tragen weiterhin Sie.
 
 ---
 ## 🙋 Häufig gestellte Fragen (FAQ)
-- **Q: Funktioniert dieser Prompt auch mit kostenlosen KI-Versionen?**
-  - A: Bei der Marktforschung sind 'aktuelle Informationen' das absolute A und O. Ältere Modelle ohne Live-Internetzugang oder eingeschränkte kostenlose Versionen liefern oft veraltete oder gar falsche Ergebnisse. Für dieses Setup wird die Nutzung von Perplexity AI, ChatGPT (GPT-4o) mit aktivierter Websuche oder Claude 3.5 Sonnet dringend empfohlen.
-- **Q: Findet die KI auch brauchbare Daten zu B2B- oder extremen Nischenmärkten?**
-  - A: Im B2B-Sektor oder in sehr spitzen Nischenmärkten ist die Datenlage im Web oft dünn. Ein bewährter Praxis-Hack: Ergänzen Sie den Prompt um den Satz *"Sollte die Datenlage dünn sein, leite fundierte Annahmen basierend auf Use Cases aus artverwandten Branchen ab"*. Alternativ können Sie die `[Branche/Industrie]` auf Englisch eingeben, um auf einen breiteren, internationalen Datenpool zuzugreifen.
+- **Q: Liefert dieser Prompt auch in kostenlosen KI-Versionen gute Ergebnisse?**
+  - A: Bei Marktrecherchen ist Echtzeit-Aktualität der entscheidende Faktor. Ältere Modelle ohne Live-Internetzugang oder limitierte Gratis-Versionen spucken hier oft veraltete oder schlichtweg falsche Daten aus. Für dieses professionelle Setup ist die Nutzung von Perplexity AI, ChatGPT (GPT-4o) mit aktiver Websuche oder Claude 3.5 Sonnet zwingend zu empfehlen.
+- **Q: Taugt die KI auch für komplexe B2B-Bereiche oder extreme Nischenmärkte?**
+  - A: Im B2B-Sektor oder in sehr spitzen Nischen ist die öffentliche Datenlage im Web naturgemäß dünn. Ein erprobter Praxis-Hack: Erweitern Sie den Prompt um den Satz *"Sollte die Datenlage zu dünn sein, leite fundierte Hypothesen basierend auf Best Practices aus artverwandten Branchen ab"*. Alternativ sollten Sie die `[Branche/Industrie]` konsequent auf Englisch definieren, um den globalen Datenpool der KI voll auszuschöpfen.
 
 ---
 ## 🧬 Prompt-Anatomie (Why it works?)
-- **Spezifisches Targeting:** Indem wir die `[Beschreibung des eigenen Produkts/der Dienstleistung]` fest im Kontext verankern, zwingen wir die KI dazu, keine generische 08/15-Analyse auszuspucken, sondern eine, die **spezifisch aus der Perspektive unseres Unternehmens heraus echten Mehrwert** bietet.
-- **Faktenbindung:** Durch die harte Vorgabe in den Einschränkungen – *"Mindestens ein reales Beispiel aus den letzten 6 Monaten einbeziehen"* – minimieren wir das Risiko von Halluzinationen und maximieren gleichzeitig die Glaubwürdigkeit des Berichts.
-- **Action-Oriented:** Die Analyse bleibt nicht auf der theoretischen SWOT-Ebene stehen. Sie ist direkt mit handfesten, strategischen Vorschlägen gekoppelt, um die essenzielle Frage jedes Praktikers zu beantworten: "Und was genau machen wir jetzt damit?"
+- **Präzises Targeting:** Indem wir die `[Beschreibung des eigenen Produkts/der Dienstleistung]` als fixen Anker im Kontext platzieren, verhindern wir generische 08/15-Analysen. Die KI wird gezwungen, eine maßgeschneiderte Auswertung zu liefern, die **exakt auf die Perspektive und die Schmerzpunkte unseres Unternehmens** zugeschnitten ist.
+- **Strikte Faktenbindung:** Durch die harte Restriktion – *"Mindestens ein reales Fallbeispiel aus den letzten 6 Monaten zitieren"* – drosseln wir das Risiko von KI-Halluzinationen auf ein Minimum und heben die Glaubwürdigkeit des Berichts auf Management-Niveau.
+- **Action-Oriented (Umsetzung im Fokus):** Die Analyse verhungert nicht auf der theoretischen SWOT-Ebene. Sie ist untrennbar mit handfesten, strategischen Handlungsempfehlungen verzahnt und beantwortet die einzige Frage, die im Business wirklich zählt: "Und was machen wir am Montag konkret damit?"
 
 ---
 ## 📊 Beweis: Before & After
 ### ❌ Before (Eingabe)
-- "Gib mir mal die aktuellen Markttrends für Liefer-Apps und eine SWOT-Analyse von Lieferando, Uber Eats und Wolt." 
-*(Ergebnis: Generisches Lehrbuch-Geschwätz, das bereits jeder kennt, veraltete Datenbasis aus 2021 und keinerlei strategische Ableitung für unser eigenes Produkt).*
+- "Zeig mir mal die Markttrends für Liefer-Apps und mach eine SWOT-Analyse von Lieferando, Uber Eats und Wolt." 
+*(Das traurige Ergebnis: Generisches Lehrbuch-Geschwätz, das ohnehin jeder kennt, eine veraltete Datenbasis aus 2021 und null strategische Ableitung für das eigene Produkt).*
 
 ### ✅ After (Ergebnis)
-- **Markttrends:** Zunehmender Preiskampf durch kostenlose Lieferabonnements (kürzliche Ankündigung unbegrenzter Gratis-Lieferungen), massive Stärkung hyperlokaler Community-Features etc.
-- **Konkurrenz-SWOT (z. B. Uber Eats):** 
-  - 🟢 Stärken: Nahtlose Integration in das globale Uber-Ökosystem.
-  - 🔴 Schwächen: Kaum spezialisierte Angebote für Single-Haushalte und auffällig wenige Bewertungsdaten in städtischen Randgebieten.
-- **Unser strategischer Differenzierungsansatz:** "Als Späteinsteiger im Delivery-Markt müssen wir dem ruinösen Preiskampf um Gratis-Lieferungen aus dem Weg gehen. Stattdessen sollten wir gezielt die Nische besetzen, indem wir uns voll auf 'Mikro-Abholungen für Single-Haushalte' sowie ein gamifiziertes 'Bewertungs-Belohnungssystem' fokussieren." *(Liefert hochgradig konkrete und sofort umsetzbare Insights).*
+- **Markttrends:** Brutaler Preiskampf durch kostenlose Lieferabonnements (jüngste Ankündigung von unbegrenzten Gratis-Lieferungen), massive Stärkung hyperlokaler Community-Features etc.
+- **Konkurrenz-SWOT (z.B. Uber Eats):** 
+  - 🟢 Stärken: Nahtlose, globale Integration in das bestehende Uber-Ökosystem.
+  - 🔴 Schwächen: Eklatanter Mangel an spezialisierten Angeboten für Single-Haushalte sowie ein blinder Fleck bei Bewertungsdaten in städtischen Randgebieten.
+- **Unser strategischer Differenzierungsansatz:** "Als agiler Späteinsteiger im Delivery-Markt dürfen wir uns nicht auf einen ruinösen Preiskampf um Gratis-Lieferungen einlassen. Stattdessen attackieren wir gezielt die Nische: Wir fokussieren uns voll auf 'Mikro-Abholungen für Single-Haushalte' und etablieren ein gamifiziertes 'Bewertungs-Belohnungssystem' in Randgebieten." *(Das Ergebnis: Hochgradig konkrete, sofort testbare Insights).*
 
 ---
 ## 🎯 Fazit
-Die Konkurrenzanalyse ist lediglich das Fundament Ihrer Planung, nicht das Endziel. Nutzen Sie die drei Tage, die Ihnen dieser Prompt soeben gerettet hat, um stattdessen direkt mit Ihren Kunden zu sprechen und Ihr Produkt in der Praxis zu schleifen. 
-Und jetzt klappen Sie den Laptop zu und machen Sie pünktlich Feierabend! 🍷
+Eine Konkurrenzanalyse ist immer nur das Fundament Ihrer strategischen Planung, niemals das Endziel. Nutzen Sie die drei Arbeitstage, die Ihnen dieser Prompt soeben freigeschaufelt hat, um endlich wieder direkt mit Ihren Kunden zu sprechen und Ihr Produkt am echten Markt zu schleifen. 
+Und jetzt: Klappen Sie den Laptop zu und genießen Sie Ihren wohlverdienten Feierabend! 🍷

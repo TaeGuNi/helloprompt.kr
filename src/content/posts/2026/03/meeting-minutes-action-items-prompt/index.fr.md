@@ -19,15 +19,15 @@ tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "meeting-minutes"]
 
 > _"Avez-vous encore perdu toute votre après-midi à rédiger un compte-rendu de réunion ?"_
 
-Même en convertissant l'audio en texte juste après la réunion (via Whisper ou d'autres outils), extraire l'essentiel d'une conversation décousue reste une véritable corvée. Ce prompt va droit au but : il isole avec une précision chirurgicale les **« décisions clés »** et les **« prochaines étapes (Action Items) »** à partir d'un bloc de texte brut. Il ne vous reste plus qu'à copier-coller.
+Même en utilisant un outil de transcription comme Whisper juste après votre réunion, extraire la substantifique moelle d'une conversation souvent décousue demeure une véritable corvée. Ce prompt va droit au but : il isole avec une précision chirurgicale les **« décisions clés »** et les **« prochaines étapes (Action Items) »** à partir d'un bloc de texte brut. Vous n'avez plus qu'à copier-coller.
 
 ---
 
 ## ⚡️ Résumé en 3 lignes (TL;DR)
 
-1. Copiez la transcription brute (speech-to-text) et soumettez-la à l'IA.
-2. L'IA élimine le superflu pour ne conserver que les décisions cruciales.
-3. Elle extrait avec clarté l'élément le plus important : les « prochaines tâches par responsable (Action Items) ».
+1. Soumettez votre transcription brute (speech-to-text) à l'IA.
+2. L'outil élimine instantanément le bruit ambiant pour ne retenir que les décisions stratégiques.
+3. Il extrait avec une clarté absolue l'élément le plus critique : les « prochaines étapes par responsable (Action Items) ».
 
 ---
 
@@ -42,7 +42,7 @@ Même en convertissant l'audio en texte juste après la réunion (via Whisper ou
 
 ### 🥇 Version Pro (Pro Version)
 
-À privilégier pour obtenir un rendu détaillé, structuré et prêt à être partagé.
+À privilégier pour obtenir un rendu détaillé, structuré et prêt à être partagé avec votre équipe.
 
 > **Rôle (Role) :** Tu es un `[Chef de produit (PM) dans la Tech avec 10 ans d'expérience]`. Tu excelles dans l'art de saisir le contexte d'une réunion et de définir clairement qui doit faire quoi, et pour quand.
 >
@@ -74,11 +74,11 @@ Même en convertissant l'audio en texte juste après la réunion (via Whisper ou
 
 ## 💡 Le mot de l'auteur (Insight)
 
-Toute la puissance de ce prompt repose sur deux piliers : **l'extraction des Action Items** et la **prévention des hallucinations**. 
-L'objectif véritable d'un compte-rendu n'est pas de « consigner tout ce qui a été dit », mais bien de « clarifier ce qui doit être fait ensuite ». 
-À l'usage, l'IA a parfois la fâcheuse tendance d'inventer des délais ou des responsables qui semblent logiques mais n'ont jamais été mentionnés. Pour parer à cela, j'ai intégré la contrainte "N'invente jamais d'informations" couplée à une instruction défensive : "Si le responsable n'est pas clair, indique `[À confirmer]`". 
+Toute la puissance de ce prompt repose sur deux piliers majeurs : **l'extraction implacable des Action Items** et la **prévention absolue des hallucinations**. 
+Le but ultime d'un compte-rendu n'est pas de "consigner chaque parole", mais bien de "définir clairement la suite des opérations". 
+À l'usage, les IA ont souvent la fâcheuse tendance d'inventer des délais ou d'assigner des tâches à des personnes non mentionnées, par simple déduction logique. Pour neutraliser ce risque, j'ai intégré une consigne stricte anti-hallucination, couplée à un mécanisme de défense infaillible : "Si le responsable n'est pas clairement identifié, indique `[À confirmer]`". 
 
-Passez le texte issu de votre outil de transcription vocale (STT) avec ce prompt dans Claude 3.5 Sonnet ou GPT-4o : une corvée de formatage de 30 minutes sera expédiée en 1 minute chrono. Profitez du temps gagné pour prendre un bon café.
+Soumettez le texte brut issu de votre outil de transcription (STT) à ce prompt via Claude 3.5 Sonnet ou GPT-4o : une corvée de formatage qui vous prenait 30 minutes sera expédiée en 1 minute chrono. Vous n'avez plus qu'à savourer le temps gagné.
 
 ---
 
@@ -94,9 +94,9 @@ Passez le texte issu de votre outil de transcription vocale (STT) avec ce prompt
 
 ## 🧬 Anatomie du prompt (Why it works?)
 
-1. **Attribution du rôle :** En endossant le persona d'un PM expérimenté, l'IA adopte une posture proactive : elle ne se contente plus de résumer passivement, elle "clarifie et distribue les directives de travail".
-2. **Structuration de la tâche :** En imposant un format de sortie strict (sujet, décisions, points en suspens, action items), on verrouille le comportement de l'IA et on évite les réponses hors-sujet.
-3. **Contraintes :** L'interdiction formelle des tableaux Markdown (souvent illisibles sur smartphone) garantit un rendu parfait et "mobile-friendly", soutenu par des listes à puces visuelles et des émojis.
+1. **Attribution du rôle :** En incarnant un PM (Chef de Produit) chevronné, l'IA adopte d'emblée une posture proactive. Elle ne se limite pas à un résumé passif ; elle "tranche, clarifie et distribue les directives opérationnelles".
+2. **Structuration de la tâche :** Imposer un format de sortie rigide (sujet, décisions, points de blocage, action items) permet de canaliser l'IA et d'éradiquer tout bavardage inutile.
+3. **Contraintes :** Le bannissement des tableaux Markdown (qui cassent souvent l'affichage sur mobile) garantit un rendu 100 % lisible et "mobile-friendly", sublimé par des listes à puces claires et des émojis pertinents.
 
 ---
 
@@ -135,7 +135,7 @@ M. Park : Non, ce n'est pas encore fait.
 
 ## 🎯 Conclusion
 
-Ne gaspillez plus votre précieuse énergie à déchiffrer et organiser des comptes-rendus interminables. 
-Laissez l'IA débroussailler le chaos pour vous, et concentrez-vous sur ce qui compte vraiment : l'exécution des décisions. 
+Ne gaspillez plus votre précieuse énergie à déchiffrer et restructurer des transcriptions interminables. 
+Laissez l'IA dompter ce chaos pour vous, et concentrez-vous sur votre véritable valeur ajoutée : l'exécution stratégique des décisions. 
 
-À vous de jouer, et surtout, quittez le bureau à l'heure ! 🍷
+À vous de jouer. Et surtout, profitez-en pour quitter le bureau à l'heure ! 🍷

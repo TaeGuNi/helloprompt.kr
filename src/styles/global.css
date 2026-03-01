@@ -186,11 +186,11 @@ h1 {
 
 /* 내부 Pre (스크롤만 담당) */
 .code-wrapper pre {
-  margin: 0 !important;
-  padding: 30px 25px 25px 25px !important;
-  background-color: transparent !important;
-  border: none !important;
-  border-radius: 0 !important;
+  margin: 0;
+  padding: 30px 25px 25px 25px;
+  background-color: transparent;
+  border: none;
+  border-radius: 0;
   overflow-x: auto;
 }
 
@@ -260,11 +260,11 @@ h1 {
 
 /* 내부 여백 및 텍스트 */
 .quote-wrapper blockquote {
-  margin: 0 !important;
-  padding: 50px 30px 30px 30px !important;
-  background-color: transparent !important;
-  border: none !important;
-  color: #fff !important;
+  margin: 0;
+  padding: 50px 30px 30px 30px;
+  background-color: transparent;
+  border: none;
+  color: #fff;
 }
 .quote-wrapper blockquote strong {
   color: var(--color-cyber-cyan);

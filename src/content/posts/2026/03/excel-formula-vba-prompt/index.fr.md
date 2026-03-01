@@ -5,30 +5,30 @@ author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: " "
-description: "Plus besoin d'apprendre par cœur le code VBA et les formules complexes. Décrivez simplement la structure de vos données à l'IA et copiez-collez la solution."
+description: "Fini la mémorisation du code VBA et des formules complexes. Décrivez simplement la structure de vos données à l'IA et copiez-collez la solution instantanément."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "excel-formula-v"]
 ---
 
 # 📝 Prompt IA pour générer des formules Excel et du VBA en 1 seconde
 
-- **🎯 Recommandé pour :** Les juniors perdus dans l'enfer des fonctions Excel, les marketeurs épuisés par le nettoyage répétitif de données, les professionnels sans le temps de coder des macros
+- **🎯 Recommandé pour :** Les juniors perdus dans l'enfer des fonctions Excel, les marketeurs épuisés par le nettoyage répétitif de données, les professionnels n'ayant pas le temps de coder des macros
 - **⏱️ Temps requis :** 30 minutes de recherche Google → 1 minute de copier-coller de prompt
 - **🤖 Modèles recommandés :** ChatGPT (GPT-4o), Claude 3.5 Sonnet
 - ⭐ **Difficulté :** ⭐☆☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
 - 🚀 **Utilité :** ⭐⭐⭐⭐⭐
 
-> _"Fini le temps perdu à chercher 'Excel RECHERCHEV conditions multiples' sur Google et à éplucher des blogs truffés de publicités."_
+> _"Fini le temps perdu à taper 'Excel RECHERCHEV conditions multiples' sur Google et à éplucher des blogs saturés de publicités."_
 
-Vous repoussez l'heure de votre départ du bureau à cause du nettoyage de données ? Lutter contre les messages d'erreur des formules Excel ou soupirer devant un code VBA récalcitrant est le lot quotidien de nombreux professionnels. Désormais, vous n'avez plus besoin d'apprendre par cœur la syntaxe des fonctions ou de vous plonger dans la programmation orientée objet. Il vous suffit d'indiquer précisément à l'IA **"la structure de vos données"** et **"le résultat final souhaité"**. Elle vous fournira alors des formules et des macros parfaites, prêtes à être copiées et collées.
+Vous repoussez l'heure de votre départ du bureau à cause d'un nettoyage de données interminable ? Lutter contre les messages d'erreur obscurs d'Excel ou soupirer de désespoir devant un code VBA récalcitrant est le lot quotidien de bien trop de professionnels. Désormais, oubliez la mémorisation de la syntaxe des fonctions ou les cours fastidieux de programmation orientée objet. Il vous suffit d'indiquer précisément à l'IA **« la structure de vos données »** et **« le résultat final attendu »**. En retour, elle vous générera des formules et des macros d'une précision redoutable, prêtes à être copiées-collées.
 
 ---
 
 ## ⚡️ En résumé (TL;DR)
 
-- Au lieu d'apprendre la syntaxe des formules Excel ou du VBA, expliquez clairement à l'IA la disposition de vos colonnes (Column) et votre objectif.
-- En décrivant la structure de vos données sous forme de texte, vous obtiendrez une formule sur mesure, sans aucune erreur de référence de cellule.
-- Cela permet un gain de temps inestimable pour les recherches complexes à conditions multiples ou les tâches répétitives de prétraitement de données via VBA.
+- Plutôt que d'apprendre laborieusement la syntaxe d'Excel ou du VBA, décrivez simplement et clairement à l'IA la disposition de vos colonnes et votre objectif final.
+- En cartographiant textuellement la structure de vos données, vous obtiendrez une formule sur mesure, exempte de la moindre erreur de référence.
+- Vous réaliserez un gain de temps inestimable, qu'il s'agisse de requêtes complexes à conditions multiples ou de tâches répétitives de prétraitement via VBA.
 
 ---
 
@@ -38,7 +38,7 @@ Vous repoussez l'heure de votre départ du bureau à cause du nettoyage de donn�
 
 À utiliser lorsque vous avez besoin d'une formule simple ou d'un raccourci en un clin d'œil.
 
-> **Rôle :** Tu es un `[expert suprême en Excel/VBA]` avec 20 ans d'expérience.
+> **Rôle :** Tu es un `[expert suprême en Excel et VBA]` avec 20 ans d'expérience.
 > **Requête :** Les données dont je dispose sont `[Colonne A : Nom, Colonne B : Département, Colonne C : Chiffre d'affaires]`. Rédige la formule la plus efficace et sans erreur pour calculer la `[somme du chiffre d'affaires du département des ventes]`.
 
 ### 🥇 Version Pro (Pro Version)
@@ -48,19 +48,19 @@ Vous repoussez l'heure de votre départ du bureau à cause du nettoyage de donn�
 > **Rôle (Role) :** Tu es un analyste de données dans une entreprise du Fortune 500 et un `[expert incontesté en Excel et VBA]`.
 > 
 > **Contexte (Context) :**
-> - Contexte : Chaque semaine, je dois `[nettoyer des centaines de lignes de données brutes pour les consolider dans un format de rapport]`.
-> - Objectif : Mon objectif est de `[supprimer le processus de copier-coller manuel et de l'automatiser en un seul clic, ou d'appliquer une formule infaillible]`.
+> - Contexte : Chaque semaine, je dois `[nettoyer des centaines de lignes de données brutes pour les consolider dans un rapport structuré]`.
+> - Objectif : Mon objectif est de `[supprimer le processus chronophage du copier-coller manuel pour l'automatiser en un clic, ou d'appliquer une formule à toute épreuve]`.
 > 
 > **Structure des données (Data Structure) :**
 > - Nom de la feuille : `[RawData]`
 > - Colonne A : `[Date (AAAA-MM-JJ)]`
-> - Colonne B : `[Code produit (ex : PRD-1023)]`
-> - Colonne C : `[Quantité vendue (nombre)]`
+> - Colonne B : `[Code produit (ex. : PRD-1023)]`
+> - Colonne C : `[Quantité vendue (valeur numérique)]`
 > - Colonne D : `[Nom du responsable]`
 > 
 > **Requête (Task) :**
-> 1. À partir des données ci-dessus, rédige `[un code macro VBA pour calculer la somme des quantités vendues par code produit sur une période spécifique]`.
-> 2. Explique très brièvement et clairement `[comment ce code fonctionne et comment l'intégrer dans un module Excel]`.
+> 1. À partir des données ci-dessus, rédige `[un code macro VBA capable de calculer la somme des quantités vendues par code produit sur une période donnée]`.
+> 2. Explique très brièvement et clairement `[le fonctionnement de ce code et la marche à suivre pour l'intégrer dans un module Excel]`.
 > 3. Si l'utilisation d'une fonction (formule) s'avère plus efficace et rapide que le VBA, propose la méthode par fonction en priorité.
 > 
 > **Contraintes (Constraints) :**
@@ -69,51 +69,51 @@ Vous repoussez l'heure de votre départ du bureau à cause du nettoyage de donn�
 > - Lors de la rédaction du code VBA, ajoutez des commentaires détaillés en français pour chaque ligne.
 > 
 > **Avertissements (Warning) :**
-> - Si vous utilisez une fonction récente susceptible de causer des conflits de version d'Excel (ex : RECHERCHEX), mentionnez brièvement l'alternative pour les anciennes versions (RECHERCHEV+EQUIV). N'inventez pas d'objets ou de méthodes incertains, utilisez uniquement les fonctions natives d'Excel.
+> - Si vous utilisez une fonction récente susceptible de causer des conflits de version d'Excel (ex. : RECHERCHEX), mentionnez brièvement l'alternative pour les anciennes versions (RECHERCHEV+EQUIV). N'inventez pas d'objets ou de méthodes incertains, utilisez uniquement les fonctions natives d'Excel.
 
 ---
 
 ## 💡 Le point de vue de l'auteur (Insight)
 
-Le secret de l'efficacité de ce prompt réside dans le **mappage précis de la 'structure des données' (Data Structure)** auprès de l'IA.
+Le secret absolu de l'efficacité de ce prompt réside dans la **cartographie millimétrée de la « structure des données » (Data Structure)** soumise à l'IA.
 
-La plupart des professionnels interrogent vaguement l'IA : "Donne-moi la fonction pour calculer la somme du chiffre d'affaires de l'équipe A". L'IA, ignorant dans quelle colonne se trouve l'équipe A ou si le chiffre d'affaires est au format numérique ou textuel, se contente de recracher un modèle générique. L'utilisateur doit alors ajuster manuellement chaque adresse de cellule (A2:A100, etc.), ce qui rend le processus laborieux.
+La majorité des professionnels formulent des requêtes floues, du type : « Donne-moi la fonction pour calculer le chiffre d'affaires total de l'équipe A ». L'IA, ignorant si l'équipe A se trouve dans la colonne C ou F, et si le montant est au format texte ou devise, se contentera de vous renvoyer une formule générique. Résultat ? Vous passez un temps infini à ajuster manuellement chaque plage de cellules (A2:A100, etc.), ce qui ruine totalement l'intérêt de l'automatisation.
 
-En revanche, en déclarant explicitement quelles données se trouvent dans la colonne A et la colonne B, comme l'illustre le prompt Pro, l'IA génère un code sur mesure, prêt à l'emploi, tel que `SOMME.SI.ENS(RawData!C:C, RawData!A:A, ...)`.
+À l'inverse, en déclarant explicitement la disposition exacte de vos colonnes, comme le fait la version Pro, l'IA génère un code sur mesure et prêt à l'emploi, tel que `SOMME.SI.ENS(RawData!C:C, RawData!A:A, ...)`.
 
-En entreprise, tout est question de pragmatisme. Ne perdez plus une heure précieuse à décortiquer la logique d'une fonction ou à étudier la syntaxe des macros. Votre véritable valeur ajoutée ne réside pas dans la mémorisation de la syntaxe Excel, mais dans votre capacité à interpréter les données produites et à prendre des décisions stratégiques. Déléguez la saisie à l'IA et concentrez-vous sur l'essentiel.
+Dans le monde de l'entreprise, le pragmatisme est roi. Cessez de gaspiller vos précieuses heures à décortiquer la logique d'une fonction imbriquée ou à déchiffrer la syntaxe archaïque du VBA. Votre véritable valeur ajoutée ne se mesure pas à votre capacité à mémoriser des formules, mais à votre aptitude à interpréter des résultats pour prendre des décisions stratégiques. Déléguez l'exécution technique à l'IA et concentrez-vous sur ce qui compte vraiment.
 
 ---
 
 ## 🙋 Foire aux questions (FAQ)
 
-- **Q : Cette méthode fonctionne-t-elle à l'identique dans Google Sheets ?**
-  - R : Absolument. Toutefois, veillez à préciser dans la section Requête (Task) "Rédige une formule / un Apps Script pour Google Sheets" afin d'éviter tout problème de compatibilité des fonctions.
+- **Q : Cette méthode est-elle transposable à l'identique sur Google Sheets ?**
+  - R : Absolument. Pensez simplement à spécifier dans la section Requête (Task) : « Rédige une formule / un script Google Apps Script pour Google Sheets », afin d'éviter toute incompatibilité de fonctions exclusives à Microsoft.
 - **Q : Que faire si la formule générée par l'IA renvoie une erreur (#N/A, #VALEUR!) ?**
-  - R : Copiez simplement la cellule contenant l'erreur et faites un retour à l'IA : "J'ai utilisé cette formule et j'ai obtenu l'erreur `#N/A`. Ajoute un code pour gérer les cellules vides avec SIERREUR". Elle vous fournira une version corrigée en moins de 10 secondes.
-- **Q : Ce prompt est-il efficace avec la version gratuite de ChatGPT ?**
-  - R : Oui, la version gratuite est amplement suffisante pour créer des formules Excel simples. Néanmoins, pour la rédaction de codes VBA complexes s'étendant sur plusieurs dizaines de lignes, la version Pro, capable de mieux retenir le contexte, s'avère beaucoup plus précise.
+  - R : Copiez simplement le code d'erreur et relancez l'IA : « J'ai appliqué cette formule et j'obtiens l'erreur `#N/A`. Ajoute la condition SIERREUR pour gérer les cellules vides ». Elle vous livrera une version corrigée et fonctionnelle en moins de 10 secondes.
+- **Q : Ce prompt est-il performant sur la version gratuite de ChatGPT ?**
+  - R : Tout à fait, la version gratuite excelle dans la création de formules Excel courantes. En revanche, si vous visez la génération de macros VBA complexes s'étalant sur plusieurs dizaines de lignes, l'accès aux modèles Pro (comme GPT-4o ou Claude 3.5 Sonnet) est vivement recommandé, car ils maintiennent un contexte d'instructions beaucoup plus rigoureux.
 
 ---
 
 ## 🧬 Anatomie du prompt (Why it works?)
 
-- **Cartographie de la structure des données (Data Structure) :** En détaillant spécifiquement la disposition des données, nous supprimons à la racine la nécessité pour l'utilisateur de modifier manuellement les plages de référence (comme $A$1).
-- **Contraintes (Constraints) :** En milieu professionnel, l'efficacité prime. Nous avons éliminé le temps perdu avec les introductions bavardes de l'IA du type "Bonjour ! Je suis ravi de vous aider avec vos tâches Excel~".
-- **Technique d'optimisation (Task n° 3) :** Pour éviter de déployer un VBA lourd pour une tâche triviale, nous avons intégré une instruction demandant de privilégier une formule si celle-ci s'avère plus rapide, garantissant ainsi le résultat le plus optimal.
+- **Cartographie de la structure des données (Data Structure) :** En décrivant physiquement la disposition de votre tableau, nous éradiquons à la racine la corvée de modification manuelle des plages de référence (ex. : les fameux `$A$1`). L'IA comprend instantanément la topographie de votre fichier.
+- **Contraintes (Constraints) :** L'efficacité d'abord. Nous avons verrouillé l'output pour bloquer les salutations bavardes et inutiles de l'IA (du type « Bonjour ! Je suis ravi de vous aider... »). Vous obtenez directement le code.
+- **Technique d'optimisation (Task n° 3) :** Pour éviter de sortir l'artillerie lourde (VBA) pour une tâche triviale, nous obligeons l'IA à évaluer la meilleure approche. Si une simple formule suffit et s'avère plus véloce, elle sera proposée en priorité, garantissant une solution toujours optimale.
 
 ---
 
 ## 📊 Preuve : Avant & Après
 
-### ❌ Avant (Saisie)
+### ❌ Avant (Saisie naïve)
 
 ```text
 Dans la colonne A j'ai la date, la colonne B le code produit, la colonne C la quantité. Fais-moi une macro pour avoir la somme de la quantité de PRD-1023.
 ```
-(Résultat : Les noms des variables sont chaotiques, les plages de cellules sont figées entraînant des erreurs si les données augmentent, et l'introduction est inutilement verbeuse)
+(Résultat de l'IA : Variables nommées de façon chaotique, plages de cellules codées en dur provoquant des bugs à chaque nouvelle ligne de données ajoutée, et une explication assommante à rallonge).
 
-### ✅ Après (Résultat)
+### ✅ Après (Résultat de l'Expertise)
 
 ```text
 1. Formule Excel (Plus efficace et rapide que le VBA)
@@ -149,5 +149,6 @@ End Sub
 
 ## 🎯 Conclusion
 
-Les formules Excel complexes et le code VBA ne sont plus une fatalité pour les professionnels. Avec un seul prompt bien structuré, vous pouvez passer du statut de simple "utilisateur" Excel à celui de véritable "chef d'orchestre" de vos données. 
-Soumettez dès maintenant à l'IA la structure de la feuille Excel que vous avez sous les yeux. Et profitez de votre fin de journée de travail à l'heure ! 🍷
+Les formules Excel tortueuses et les scripts VBA cryptiques ne sont plus une fatalité pour les professionnels modernes. Grâce à un prompt rigoureusement architecturé, vous cessez d'être un simple exécutant victime du tableur pour devenir le véritable stratège de vos données. 
+
+Soumettez dès aujourd'hui la topographie de votre fichier Excel à l'IA. Reprenez le contrôle de votre temps, automatisez l'ingrat, et quittez le bureau à l'heure ! 🍷

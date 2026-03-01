@@ -3,37 +3,45 @@ import { getCollection, render } from "astro:content";
 import { LANGUAGES } from "../../i18n/languages";
 import Layout from "../../layouts/Layout.astro";
 
-const paramLang = Astro.params.lang as string;
-const paramPage = Astro.params.staticPage as string;
+export const prerender = true;
 
-// Prevent it from intercepting other valid paths like 'posts' or 'tags'
-if (["posts", "tags", "api"].includes(paramPage)) {
-  return Astro.rewrite("/404");
+export async function getStaticPaths() {
+  const pages = await getCollection("pages");
+
+  return pages.map((pageDoc) => {
+    // pageDoc.id is like "about/index.ko.md" or "about/indexko" depending on Astro configuration.
+    // We strictly parse the folder as the staticPage slug.
+    const parts = pageDoc.id.split("/");
+    const slug = parts[0];
+
+    // Parse lang from the second part (e.g. indexko -> ko, index.ko.md -> ko)
+    const file = parts[1];
+
+    // Extract language code efficiently using the supported LANGUAGES array
+    const lang =
+      LANGUAGES.find(
+        (l) =>
+          file === `index.${l}.md` ||
+          file === `index${l}.md` ||
+          file === `index.${l}` ||
+          file === `index${l}`,
+      ) || "ko";
+
+    return {
+      params: { lang, staticPage: slug },
+      props: { pageDoc },
+    };
+  });
 }
 
-if (!LANGUAGES.includes(paramLang) || !paramPage) {
-  return Astro.rewrite("/404");
-}
-
-const pages = await getCollection("pages");
-const pageDoc = pages.find((p) => {
-  return p.id === `${paramPage}/index${paramLang}`;
-});
-
-if (!pageDoc) {
-  return Astro.rewrite("/404");
-}
-
-Astro.response.headers.set(
-  "Cache-Control",
-  "public, s-maxage=86400, stale-while-revalidate=604800",
-);
+const { lang, staticPage } = Astro.params;
+const { pageDoc } = Astro.props;
 
 const { Content, headings } = await render(pageDoc);
 ---
 
 <Layout
-  frontmatter={{ ...(pageDoc.data as any), lang: paramLang }}
+  frontmatter={{ ...(pageDoc.data as any), lang: lang }}
   headings={headings}
 >
   <div class="prose max-w-none w-full">

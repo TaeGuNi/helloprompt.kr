@@ -26,31 +26,41 @@ async function saveQueue(queue: Record<string, unknown>) {
   await fs.writeFile(QUEUE_FILE, JSON.stringify(queue, null, 2), "utf-8");
 }
 
-async function initQueue(targetDir?: string) {
+async function initQueue(targetDirs?: string[]) {
   let queue = await loadQueue();
-  // Always regenerate the pending queue if a specific target directory is requested.
-  if (targetDir || !queue.pending || queue.pending.length === 0) {
+  // Always regenerate the pending queue if specific target directories are requested.
+  if (targetDirs?.length || !queue.pending || queue.pending.length === 0) {
     console.log("📦 Initializing rewrite queue...");
-    let searchPattern = "src/content/posts/**/**/**/*.md";
-    if (targetDir) {
-      // Clean up trailing slashes and ensure it's a relative path to glob correctly
-      const relativeTarget = path.relative(process.cwd(), targetDir);
-      searchPattern = `${relativeTarget}/**/*.md`;
-      console.log(`🎯 Targeting specific directory: ${searchPattern}`);
-    }
-    const files = await glob(searchPattern);
 
-    if (files.length === 0) {
-      console.log("⚠️ No markdown files found in the target directory.");
+    let allFiles: string[] = [];
+
+    if (targetDirs && targetDirs.length > 0) {
+      console.log(`🎯 Targeting specific directories...`);
+      for (const dir of targetDirs) {
+        const relativeTarget = path.relative(process.cwd(), dir);
+        const searchPattern = `${relativeTarget}/**/*.md`;
+        const files = await glob(searchPattern);
+        allFiles.push(...files);
+      }
+    } else {
+      const searchPattern = "src/content/posts/**/**/**/*.md";
+      allFiles = await glob(searchPattern);
+    }
+
+    // Remove duplicates
+    allFiles = [...new Set(allFiles)];
+
+    if (allFiles.length === 0) {
+      console.log("⚠️ No markdown files found in the target directories.");
     }
 
     queue = {
       completed: [],
-      pending: files,
+      pending: allFiles,
       errors: [],
     };
     await saveQueue(queue);
-    console.log(`Initialized queue with ${files.length} files.`);
+    console.log(`Initialized queue with ${allFiles.length} files.`);
   }
   return queue;
 }
@@ -124,12 +134,12 @@ ${content}
   return text;
 }
 
-async function runRewriter(targetDir?: string) {
+async function runRewriter(targetDirs?: string[]) {
   console.log("🤖 Starting Local CLI Auto-Rewriter Queue...");
 
   const qualityModel = await getDoc("QUALITY_MODEL.md");
   const postTemplate = await getDoc("POST_TEMPLATE.md");
-  const queue = await initQueue(targetDir);
+  const queue = await initQueue(targetDirs);
 
   if (queue.pending.length === 0) {
     console.log("No pending files to rewrite. Exiting.");
@@ -205,6 +215,6 @@ async function runRewriter(targetDir?: string) {
 
 // Only run queue normally if executed directly
 if (import.meta.url === `file://${process.argv[1]}`) {
-  const targetDirArg = process.argv[2];
-  runRewriter(targetDirArg);
+  const targetDirsArgs = process.argv.slice(2);
+  runRewriter(targetDirsArgs.length > 0 ? targetDirsArgs : undefined);
 }

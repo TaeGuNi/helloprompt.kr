@@ -4,7 +4,7 @@ title: "🚀 Pass VIP pour le sommet de Google : Prompt d'automatisation de blog
 author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
-category: "업무 자동화"
+category: " "
 description: "Le prompt de rédaction de blog optimisé pour le SEO de Google destiné aux marketeurs et chefs de projet. Transformez 3 heures de travail en 5 minutes avec un simple copier-coller."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "seo-blog-post-w"]
 ---

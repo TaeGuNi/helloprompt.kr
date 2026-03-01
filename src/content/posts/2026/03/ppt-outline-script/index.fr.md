@@ -4,7 +4,7 @@ title: "📊 Échapper à l'enfer de la planification PPT : Prompt pour génére
 author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
-category: "업무 자동화"
+category: " "
 description: "Ne passez plus des nuits blanches à préparer vos présentations. Un prompt orienté pratique qui génère en 1 minute le plan et le script de chaque diapositive de votre PPT."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ppt-outline-scr"]
 ---

@@ -9,11 +9,11 @@ description: "A Google SEO-optimized blog writing prompt for marketers and plann
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "seo-blog-post-w"]
 ---
 # 🚀 Google Top Ranking Free Pass: Automated SEO Blog Prompt for Marketers
-<!-- ⚠️ [CRITICAL RULE] 다국어 지원 (10개 언어 번역 필수) ⚠️
-이 템플릿을 사용하여 새로운 포스트(`index.ko.md`)를 작성한 직후,
-**반드시** 동일한 디렉토리에 9개의 번역 파일(`index.[lang].md`)을 추가로 생성해야 합니다.
-지원 언어(9개): en, de, es, fr, it, ja, pt, ru, zh
-총 10개(한국어+9개 외국어)의 파일이 한 폴더에 있어야 배포가 정상적으로 완료됩니다. -->
+<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
+    (`index.ko.md`)  ,
+****   9  (`index.[lang].md`)   .
+ (9): en, de, es, fr, it, ja, pt, ru, zh
+ 10(+9 )       . -->
 - **🎯 Recommended for:** Junior to mid-level (1-3 years) content marketers, blog operators, and product planners
 - **⏱️ Time required:** Reduced from 3 hours → 5 minutes
 - **🤖 Recommended models:** Claude 3.5 Sonnet (Highly recommended for writing), ChatGPT Plus (GPT-4o)

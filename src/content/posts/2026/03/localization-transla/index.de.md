@@ -4,17 +4,17 @@ title: "🌐 Schluss mit holprigen Übersetzern! Der Prompt für fließende, mut
 author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
-category: "업무 자동화"
+category: " "
 description: "Ein praxiserprobter Prompt für mehrsprachige Lokalisierung, der wörtliche Übersetzungen vermeidet und stattdessen kulturelle Nuancen und branchenspezifische Ausdrücke der Zielsprache trifft."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "localization-tr"]
 ---
 # 📝 Der Prompt für "echte" Lokalisierung ohne Maschinen-Touch
-<!-- ⚠️ [CRITICAL RULE] 다국어 지원 (10개 언어 번역 필수) ⚠️
-이 템플릿을 사용하여 새로운 포스트(`index.ko.md`)를 작성한 직후,
-**반드시** 동일한 디렉토리에 9개의 번역 파일(`index.[lang].md`)을 추가로 생성해야 합니다.
-지원 언어(9개): en, de, es, fr, it, ja, pt, ru, zh
-총 10개(한국어+9개 외국어)의 파일이 한 폴더에 있어야 배포가 정상적으로 완료됩니다. -->
-<!-- ⚠️ [Lint Rule] 이모지 리스트를 사용하세요. 표(Table) 사용 시 모바일에서 깨질 수 있습니다. -->
+<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
+    (`index.ko.md`)  ,
+****   9  (`index.[lang].md`)   .
+ (9): en, de, es, fr, it, ja, pt, ru, zh
+ 10(+9 )       . -->
+<!-- ⚠️ [Lint Rule]   . (Table)      . -->
 - **🎯 Empfohlen für:** Globale Marketer, International Sales Manager, App-Produktmanager
 - **⏱️ Zeitaufwand:** 1 Stunde → Reduziert auf 3 Minuten
 - **🤖 Empfohlenes Modell:** Claude 3.5 Sonnet (hervorragend für Nuancen), GPT-4o
@@ -30,7 +30,7 @@ Einfach nur die Sprache zu wechseln, das kann Google Translate auch. Was wir von
 3. **Klausel gegen wörtliche Übersetzung hinzufügen:** Setzen Sie die Regel: "Solange der Sinn erhalten bleibt, darf die Satzstruktur komplett umgebaut werden."
 ---
 ## 🚀 Die Lösung: "Muttersprachler-Lokalisierung"
-<!-- ⚠️ [Lint Rule] 인용구(>)는 이곳(Prompt 섹션)에서만 프롬프트 박스로 변환됩니다. -->
+<!-- ⚠️ [Lint Rule] (>) (Prompt ) Prompt  . -->
 ### 🥉 Basic Version (Standard)
 Verwenden Sie diese Version, wenn Sie schnell ein gutes Ergebnis brauchen.
 > **Rolle:** Du bist ein professioneller Copywriter, der seit über 10 Jahren in `[Zielland]` arbeitet.
@@ -69,13 +69,13 @@ Verwenden Sie diese Version, wenn höchste Detailqualität gefragt ist.
 >
 > - Es darf keine maschinenübersetzungstypische Passiv-Überladung oder holprige Wörtlichkeit erkennbar sein. Der Text muss zu 100 % wirken, als hätte ihn ein Muttersprachler geschrieben.
 ---
-<!-- ✅ [Lint Rule] 필수 섹션입니다. 누락 시 CI 에러가 발생합니다. -->
+<!-- ✅ [Lint Rule]  .   CI  . -->
 ## 💡 Einblicke des Autors (Insight)
 Ganz ehrlich: Wenn Sie bisher nur "Übersetze das auf Englisch" getippt haben, haben Sie nicht einmal 10 % der KI-Leistung genutzt. Wenn Sie in der Praxis eine mehrsprachige Website aufbauen oder Sales-Mails für das Ausland schreiben, sind Texte, die Wort für Wort ausgetauscht wurden, der Hauptgrund für Vertrauensverlust.
 Als ich diesen Prompt entwickelt habe, konnte ich hautnah erleben, dass die Ergebnisse vor und nach dem Hinzufügen der Einschränkung "Du darfst die Satzstruktur zerstören" Welten voneinander entfernt waren. Wenn man das für das Koreanische typische "Weglassen des Subjekts" oder "Schachtelsätze" wörtlich ins Deutsche übersetzt, kommt etwas Schreckliches dabei heraus. Erst wenn man der KI die Freiheit gibt (gepaart mit einem strikten Roleplay) **"Du bist der Copywriter, mach damit, was du willst"**, entsteht ein Mehrwert, der Google Translate weit hinter sich lässt.
 Besonders bei der Übersetzung von Marketing-Copy sollten Sie diesen Pro-Prompt an ein Claude-Modell verfüttern. Wenn es darum geht, Nuancen einzufangen, ist es derzeit unschlagbar. Falls das Ergebnis immer noch etwas zu steif wirkt, empfehle ich, am Ende des Prompts hinzuzufügen: "Streue eine Prise aktueller Slang-Begriffe oder Buzzwords aus der lokalen Branche ein."
 ---
-<!-- ⚠️ [Lint Rule] 권장 섹션입니다. 누락 시 경고가 발생합니다. -->
+<!-- ⚠️ [Lint Rule]  .    . -->
 ## 🙋 Häufig gestellte Fragen (FAQ)
 - **F: Funktioniert dieser Prompt bei allen Sprachen gleich gut?**
   - A: Bei den großen Sprachräumen mit vielen Trainingsdaten wie Englisch, Japanisch, Chinesisch, Spanisch oder Deutsch zeigt er eine erstaunliche Leistung. Bei kleineren Sprachen kann es jedoch zu KI-Halluzinationen kommen, weshalb es sich empfiehlt, das Ergebnis gegenzuprüfen (Cross-Check: Lassen Sie es zurück ins Englische übersetzen, um die Intention zu überprüfen).
@@ -91,7 +91,7 @@ Besonders bei der Übersetzung von Marketing-Copy sollten Sie diesen Pro-Prompt 
 ### ❌ Before (Eingabe)
 ```text
 (Einfache Anweisung: "Übersetze den folgenden Satz ins Englische")
-Eingabe: "저희 솔루션을 도입하시면 업무 효율성이 비약적으로 상승하여 직원들의 워라밸이 좋아집니다. 지금 바로 무료 체험을 신청하고 놀라운 변화를 경험해보세요!"
+Eingabe: "         .        !"
 Ergebnis: "If you introduce our solution, your work efficiency will rise dramatically, improving your employees' work-life balance. Apply for a free trial right now and experience the amazing change!" 
 (Erklärung: Grammatikalisch korrekt, aber ein unbeholfener, steifer Sales-Text im typischen Maschinenübersetzungs-Stil.)
 ```

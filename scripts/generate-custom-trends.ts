@@ -21,7 +21,7 @@ async function runCmd(cmd: string) {
 async function getDoc(fileName: string) {
   return await fs.readFile(
     path.resolve(process.cwd(), "docs", fileName),
-    "utf-8"
+    "utf-8",
   );
 }
 
@@ -99,7 +99,10 @@ CRITICAL RULES:
    - date: ${new Date().toISOString().split("T")[0]}
    - updatedDate: ${new Date().toISOString().split("T")[0]}
    - description: 1-line catchy SEO description reflecting the pragmatic tone.
-   - tags: ['prompt-engineering', 'ai-agent', 'cheat-sheet', '${topicTitle.toLowerCase().replace(/[^a-z0-9]+/g, "-").slice(0, 15)}']
+   - tags: ['prompt-engineering', 'ai-agent', 'cheat-sheet', '${topicTitle
+     .toLowerCase()
+     .replace(/[^a-z0-9]+/g, "-")
+     .slice(0, 15)}']
 4. VERY IMPORTANT: You must also output a special 'slug: "your-english-kebab-case-slug"' field in the frontmatter. We need this for the folder name. The slug should be English.
 5. Do NOT use markdown Tables. Use emoji bullet lists instead (<QUALITY_MODEL> rule).
 6. Basic/Pro sections MUST use blockquotes (>). DO NOT use blockquotes (>) anywhere else in the document!
@@ -122,7 +125,10 @@ Output ONLY the raw markdown content. No explanatory text.
   const slugMatch = content.match(/slug:\s*["']?([a-z0-9-]+)["']?/i);
   const slug = slugMatch
     ? slugMatch[1]
-    : topicTitle.toLowerCase().replace(/[^a-z0-9]+/g, "-").substring(0, 20);
+    : topicTitle
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g, "-")
+        .substring(0, 20);
 
   const cleanContent = content.replace(/^slug:.*$/m, "").replace(/\n\n/g, "\n");
 
@@ -130,16 +136,46 @@ Output ONLY the raw markdown content. No explanatory text.
 }
 
 export const CUSTOM_TOPICS = [
-  { title: "Business Email", desc: "까다로운 고객사 메일, 영문 메일, 정중한 거절 메일 등 작성 자동화" },
-  { title: "Meeting Minutes", desc: "난잡한 음성 텍스트를 깔끔한 구조로 변환하는 회의록 요약 및 액션 아이템 추출" },
-  { title: "Excel Formula & VBA", desc: "복잡한 수식과 단축키, 매크로 코드를 AI로 자동 생성하는 도우미" },
-  { title: "SEO Blog Post Writer", desc: "마케터를 위한 구글 노출 최적화 블로그 글쓰기 가이드" },
-  { title: "Competitor Analysis", desc: "기획자를 위한 산업 트렌드 및 SWOT 분석 시장 조사" },
-  { title: "Resume/Cover Letter", desc: "구직자 및 이직자를 위한 JD 기반 맞춤형 자소서 및 채용 공고 분석" },
-  { title: "Social Media Planner", desc: "인스타그램, 틱톡 운영자를 위한 한 달 치 SNS 콘텐츠 캘린더 자동화" },
-  { title: "PPT Outline & Script", desc: "발표 준비 시간을 줄여주는 슬라이드별 목차 뼈대 및 스크립트 기획" },
-  { title: "Localization Translation", desc: "어색한 직역을 피하고 뉘앙스를 살린 현지인처럼 자연스러운 다국어 번역" },
-  { title: "Code Review", desc: "초보 개발자를 위한 에러 원인 분석 및 리팩토링 제안 코드 리뷰" }
+  {
+    title: "Business Email",
+    desc: "까다로운 고객사 메일, 영문 메일, 정중한 거절 메일 등 작성 자동화",
+  },
+  {
+    title: "Meeting Minutes",
+    desc: "난잡한 음성 텍스트를 깔끔한 구조로 변환하는 회의록 요약 및 액션 아이템 추출",
+  },
+  {
+    title: "Excel Formula & VBA",
+    desc: "복잡한 수식과 단축키, 매크로 코드를 AI로 자동 생성하는 도우미",
+  },
+  {
+    title: "SEO Blog Post Writer",
+    desc: "마케터를 위한 구글 노출 최적화 블로그 글쓰기 가이드",
+  },
+  {
+    title: "Competitor Analysis",
+    desc: "기획자를 위한 산업 트렌드 및 SWOT 분석 시장 조사",
+  },
+  {
+    title: "Resume/Cover Letter",
+    desc: "구직자 및 이직자를 위한 JD 기반 맞춤형 자소서 및 채용 공고 분석",
+  },
+  {
+    title: "Social Media Planner",
+    desc: "인스타그램, 틱톡 운영자를 위한 한 달 치 SNS 콘텐츠 캘린더 자동화",
+  },
+  {
+    title: "PPT Outline & Script",
+    desc: "발표 준비 시간을 줄여주는 슬라이드별 목차 뼈대 및 스크립트 기획",
+  },
+  {
+    title: "Localization Translation",
+    desc: "어색한 직역을 피하고 뉘앙스를 살린 현지인처럼 자연스러운 다국어 번역",
+  },
+  {
+    title: "Code Review",
+    desc: "초보 개발자를 위한 에러 원인 분석 및 리팩토링 제안 코드 리뷰",
+  },
 ];
 
 async function main() {
@@ -164,7 +200,10 @@ async function main() {
     let totalCreated = 30;
 
     for (const topic of CUSTOM_TOPICS.slice(3)) {
-      const slug = topic.title.toLowerCase().replace(/[^a-z0-9]+/g, "-").substring(0, 20);
+      const slug = topic.title
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g, "-")
+        .substring(0, 20);
       const postDir = path.resolve(
         process.cwd(),
         "src",
@@ -178,11 +217,13 @@ async function main() {
       try {
         const stats = await fs.stat(postDir);
         if (stats.isDirectory()) {
-          console.log(`⏩ Directory already exists, skipping topic: ${topic.title}`);
+          console.log(
+            `⏩ Directory already exists, skipping topic: ${topic.title}`,
+          );
           totalCreated += 10;
           continue;
         }
-      } catch (err) {
+      } catch (_err) {
         // Directory doesn't exist, proceed
       }
 

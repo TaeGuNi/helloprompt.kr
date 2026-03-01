@@ -4,24 +4,24 @@ title: "🎙️ Structurer des comptes-rendus de réunion chaotiques en 1 minute
 author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
-category: "업무 자동화"
+category: " "
 description: "Un prompt pratique pour transformer instantanément les transcriptions audio de réunions brouillonnes en résumés clairs et en plans d'action (Action Items)."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "meeting-minutes"]
 ---
 # 📝 Structurer des comptes-rendus de réunion chaotiques en 1 minute
-<!-- ⚠️ [CRITICAL RULE] 다국어 지원 (10개 언어 번역 필수) ⚠️
-이 템플릿을 사용하여 새로운 포스트(`index.ko.md`)를 작성한 직후,
-**반드시** 동일한 디렉토리에 9개의 번역 파일(`index.[lang].md`)을 추가로 생성해야 합니다.
-지원 언어(9개): en, de, es, fr, it, ja, pt, ru, zh
-총 10개(한국어+9개 외국어)의 파일이 한 폴더에 있어야 배포가 정상적으로 완료됩니다. -->
-<!-- ⚠️ [Lint Rule] 이모지 리스트를 사용하세요. 표(Table) 사용 시 모바일에서 깨질 수 있습니다. -->
+<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
+    (`index.ko.md`)  ,
+****   9  (`index.[lang].md`)   .
+ (9): en, de, es, fr, it, ja, pt, ru, zh
+ 10(+9 )       . -->
+<!-- ⚠️ [Lint Rule]   . (Table)      . -->
 - **🎯 Recommandé pour :** Employés juniors, chefs de projet, spécialistes du marketing
 - **⏱️ Temps requis :** 30 minutes → réduit à 1 minute
 - **🤖 Modèles recommandés :** Toutes les IA conversationnelles (ChatGPT, Claude, Gemini, etc.)
 - ⭐ **Difficulté :** ⭐☆☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
 - 🚀 **Utilité :** ⭐⭐⭐⭐⭐
-<!-- ⚠️ [Lint Rule] 인용구(>)는 Basic/Pro 섹션 외에는 이탤릭체(_..._)와 함께 사용해야 에러가 나지 않습니다. -->
+<!-- ⚠️ [Lint Rule] (>) Basic/Pro   (_..._)     . -->
 > _"Avez-vous perdu toute votre après-midi à rédiger le compte-rendu de la réunion ?"_
 Même si vous convertissez l'audio enregistré juste après la réunion en texte (avec Whisper, etc.), extraire l'essentiel d'une conversation décousue reste une véritable corvée. Ce prompt extrait avec précision uniquement les **« décisions clés »** et **« qui doit faire quoi (Action Items) »** à partir d'une masse de texte sans contexte. Il vous suffit de copier et coller.
 ---
@@ -31,7 +31,7 @@ Même si vous convertissez l'audio enregistré juste après la réunion en texte
 3. Elle extrait clairement le plus important : les « prochaines tâches par responsable (Action Items) ».
 ---
 ## 🚀 La solution : "Prompt de structuration automatique de compte-rendu"
-<!-- ⚠️ [Lint Rule] 인용구(>)는 이곳(Prompt 섹션)에서만 프롬프트 박스로 변환됩니다. -->
+<!-- ⚠️ [Lint Rule] (>) (Prompt ) Prompt  . -->
 ### 🥉 Version Basique (Basic Version)
 Utilisez ceci lorsque vous n'avez besoin que de résultats rapides.
 > **Rôle :** Tu es un `[Chef de projet senior]`.
@@ -64,13 +64,13 @@ Utilisez ceci lorsque vous avez besoin d'une qualité détaillée.
 > **Entrée (Input) :**
 > - Transcription de la réunion : `[Collez le texte de la transcription ici]`
 ---
-<!-- ✅ [Lint Rule] 필수 섹션입니다. 누락 시 CI 에러가 발생합니다. -->
+<!-- ✅ [Lint Rule]  .   CI  . -->
 ## 💡 Le mot de l'auteur (Insight)
 Le cœur de ce prompt réside dans **l'extraction des Action Items** et la **prévention des hallucinations**. 
 Le véritable objectif de la rédaction d'un compte-rendu n'est pas de « consigner ce qui a été dit », mais de « clarifier ce qui doit être fait ensuite ». 
 En pratique, l'IA a parfois tendance à inventer des délais plausibles qui n'ont pas été mentionnés. Pour éviter cela, j'ai inclus la contrainte "N'invente jamais d'informations" et l'instruction défensive "Si le responsable n'est pas clair, indique [À confirmer]". Essayez d'envoyer le texte extrait par un outil STT avec ce prompt à Claude 3.5 Sonnet ou GPT-4o. Une tâche de nettoyage de texte de 30 minutes sera réduite à 1 minute. Prenez un autre café avec le temps gagné.
 ---
-<!-- ⚠️ [Lint Rule] 권장 섹션입니다. 누락 시 경고가 발생합니다. -->
+<!-- ⚠️ [Lint Rule]  .    . -->
 ## 🙋 Foire aux questions (FAQ)
 - **Q : Puis-je insérer l'intégralité de la transcription d'une réunion d'une heure ?**
   - R : Oui, les modèles récents (Claude 3.5 Sonnet, GPT-4o, etc.) ont une excellente capacité de compréhension du contexte et peuvent facilement traiter une heure de texte. Toutefois, si vous rencontrez une limite de tokens, divisez-le en deux parties.

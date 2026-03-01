@@ -4,16 +4,16 @@ title: "Multipliez votre taux de réussite par 5 avec ce prompt de lettre de mot
 author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
-category: "업무 자동화"
+category: " "
 description: "Un prompt pratique qui analyse parfaitement l'offre d'emploi (fiche de poste) et rédige en 1 minute une lettre de motivation sur mesure, correspondant à 100 % à votre expérience."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "resume-cover-le"]
 ---
 # 📝 Multipliez votre taux de réussite par 5 avec ce prompt de lettre de motivation basé sur la fiche de poste 🚀
-<!-- ⚠️ [CRITICAL RULE] 다국어 지원 (10개 언어 번역 필수) ⚠️
-이 템플릿을 사용하여 새로운 포스트(`index.ko.md`)를 작성한 직후,
-**반드시** 동일한 디렉토리에 9개의 번역 파일(`index.[lang].md`)을 추가로 생성해야 합니다.
-지원 언어(9개): en, de, es, fr, it, ja, pt, ru, zh
-총 10개(한국어+9개 외국어)의 파일이 한 폴더에 있어야 배포가 정상적으로 완료됩니다. -->
+<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
+    (`index.ko.md`)  ,
+****   9  (`index.[lang].md`)   .
+ (9): en, de, es, fr, it, ja, pt, ru, zh
+ 10(+9 )       . -->
 - **🎯 Recommandé pour :** Développeurs, marketeurs, chefs de produit et jeunes diplômés avec 1 à 3 ans d'expérience préparant un changement d'emploi.
 - **⏱️ Temps requis :** Réduit de 3 heures à 1 minute.
 - **🤖 Modèles recommandés :** Claude 3.5 Sonnet (excellent pour la rédaction), ChatGPT Plus.

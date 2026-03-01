@@ -4,7 +4,7 @@ title: "📊 Escape PPT Planning Hell: Auto-Generate Slide Outlines & Scripts Pr
 author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
-category: "업무 자동화"
+category: " "
 description: "Stop pulling all-nighters for presentations. A highly practical prompt that churns out everything from PPT outlines to slide-by-slide speaker scripts in just 1 minute."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ppt-outline-scr"]
 ---

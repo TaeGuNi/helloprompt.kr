@@ -4,24 +4,24 @@ title: "🎙️ Strukturierter Prompt: Chaotische Meeting-Notizen in 1 Minute or
 author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
-category: "업무 자동화"
+category: " "
 description: "Ein Praxis-Prompt, der unstrukturierte Meeting-Transkripte sofort in saubere Zusammenfassungen und Action Items verwandelt."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "meeting-minutes"]
 ---
 # 📝 Chaotische Meeting-Notizen in 1 Minute strukturieren
-<!-- ⚠️ [CRITICAL RULE] 다국어 지원 (10개 언어 번역 필수) ⚠️
-이 템플릿을 사용하여 새로운 포스트(`index.ko.md`)를 작성한 직후,
-**반드시** 동일한 디렉토리에 9개의 번역 파일(`index.[lang].md`)을 추가로 생성해야 합니다.
-지원 언어(9개): en, de, es, fr, it, ja, pt, ru, zh
-총 10개(한국어+9개 외국어)의 파일이 한 폴더에 있어야 배포가 정상적으로 완료됩니다. -->
-<!-- ⚠️ [Lint Rule] 이모지 리스트를 사용하세요. 표(Table) 사용 시 모바일에서 깨질 수 있습니다. -->
+<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
+    (`index.ko.md`)  ,
+****   9  (`index.[lang].md`)   .
+ (9): en, de, es, fr, it, ja, pt, ru, zh
+ 10(+9 )       . -->
+<!-- ⚠️ [Lint Rule]   . (Table)      . -->
 - **🎯 Zielgruppe:** Junior-Mitarbeiter, Projektmanager, Marketer
 - **⏱️ Zeitaufwand:** Von 30 Minuten → auf 1 Minute reduziert
 - **🤖 Empfohlene Modelle:** Alle konversationsbasierten KIs (ChatGPT, Claude, Gemini etc.)
 - ⭐ **Schwierigkeitsgrad:** ⭐☆☆☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
 - 🚀 **Nützlichkeit:** ⭐⭐⭐⭐⭐
-<!-- ⚠️ [Lint Rule] 인용구(>)는 Basic/Pro 섹션 외에는 이탤릭체(_..._)와 함께 사용해야 에러가 나지 않습니다. -->
+<!-- ⚠️ [Lint Rule] (>) Basic/Pro   (_..._)     . -->
 > _"Haben Sie heute Nachmittag auch wieder Ihre ganze Zeit mit dem Schreiben von Meeting-Protokollen verschwendet?"_
 Selbst wenn man direkt nach dem Meeting das aufgenommene Audio in Text umwandelt (mit Tools wie Whisper etc.), ist es eine weitere Qual, die Kernaussagen aus den durcheinandergewürfelten Gesprächen herauszufiltern. Dieser Prompt extrahiert messerscharf nur die **'wichtigsten Entscheidungen'** und das, **'wer was tun muss (Action Items)'**, aus einem zusammenhangslosen Textberg. Einfach kopieren und einfügen.
 ---
@@ -31,7 +31,7 @@ Selbst wenn man direkt nach dem Meeting das aufgenommene Audio in Text umwandelt
 3. Die wichtigsten 'nächsten Schritte pro Verantwortlichem (Action Items)' werden klar herausgearbeitet.
 ---
 ## 🚀 Die Lösung: "Prompt zur automatischen Strukturierung von Meeting-Notizen"
-<!-- ⚠️ [Lint Rule] 인용구(>)는 이곳(Prompt 섹션)에서만 프롬프트 박스로 변환됩니다. -->
+<!-- ⚠️ [Lint Rule] (>) (Prompt ) Prompt  . -->
 ### 🥉 Basic Version (Basis-Version)
 Verwenden Sie diese Version, wenn Sie schnell nur Ergebnisse benötigen.
 > **Rolle:** Du bist ein `[Senior Project Manager]`.
@@ -64,13 +64,13 @@ Verwenden Sie diese Version, wenn detaillierte Qualität gefragt ist.
 > **Eingabe (Input):**
 > - Meeting-Transkript: `[Fügen Sie hier den kopierten Transkript-Text ein]`
 ---
-<!-- ✅ [Lint Rule] 필수 섹션입니다. 누락 시 CI 에러가 발생합니다. -->
+<!-- ✅ [Lint Rule]  .   CI  . -->
 ## 💡 Kommentar des Autors (Insight)
 Der Kern dieses Prompts liegt in der **'Extraktion von Action Items'** und der **'Unterdrückung von Halluzinationen (Hallucination)'**. 
 Der wahre Zweck eines Meeting-Protokolls besteht nicht darin, "das Gesagte aufzuzeichnen", sondern "klarzustellen, was als Nächstes zu tun ist". 
 Wenn man ihn in der Praxis anwendet, erfindet die KI oft plausibel klingende Zeitpläne, die gar nicht im Meeting besprochen wurden. Um dies zu verhindern, wurden die Einschränkung "Erfinde keine fehlenden Inhalte" und die defensive Anweisung "Wenn der Verantwortliche unklar ist, markiere es mit [Klärung erforderlich]" hinzugefügt. Werfen Sie den mit STT-Tools wie Whisper extrahierten Text zusammen mit diesem Prompt in Claude 3.5 Sonnet oder GPT-4o. Die Textbearbeitung, die sonst 30 Minuten dauern würde, schrumpft auf 1 Minute. Trinken Sie in der gewonnenen Zeit lieber noch eine Tasse Kaffee.
 ---
-<!-- ⚠️ [Lint Rule] 권장 섹션입니다. 누락 시 경고가 발생합니다. -->
+<!-- ⚠️ [Lint Rule]  .    . -->
 ## 🙋 Häufig gestellte Fragen (FAQ)
 - **F: Kann ich auch das Transkript eines einstündigen, langen Meetings komplett einfügen?**
   - A: Ja, die neuesten Modelle (wie Claude 3.5 Sonnet, GPT-4o etc.) verfügen über ein hervorragendes Kontextverständnis und können auch Texte von einer Stunde Länge problemlos verarbeiten. Falls Sie jedoch an ein Token-Limit stoßen, teilen Sie die Eingabe in zwei Hälften auf.

@@ -4,16 +4,16 @@ title: "🚀 Pase Directo al Top de Google: Prompt de Automatización de Blogs S
 author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
-category: "업무 자동화"
+category: " "
 description: "Prompt de redacción de blogs optimizado para SEO en Google para marketers y planificadores. Termina en 5 minutos un post que antes te tomaba 3 horas con solo copiar y pegar."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "seo-blog-post-w"]
 ---
 # 🚀 Pase Directo al Top de Google: Prompt de Automatización de Blogs SEO para Marketers
-<!-- ⚠️ [CRITICAL RULE] 다국어 지원 (10개 언어 번역 필수) ⚠️
-이 템플릿을 사용하여 새로운 포스트(`index.ko.md`)를 작성한 직후,
-**반드시** 동일한 디렉토리에 9개의 번역 파일(`index.[lang].md`)을 추가로 생성해야 합니다.
-지원 언어(9개): en, de, es, fr, it, ja, pt, ru, zh
-총 10개(한국어+9개 외국어)의 파일이 한 폴더에 있어야 배포가 정상적으로 완료됩니다. -->
+<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
+    (`index.ko.md`)  ,
+****   9  (`index.[lang].md`)   .
+ (9): en, de, es, fr, it, ja, pt, ru, zh
+ 10(+9 )       . -->
 - **🎯 Recomendado para:** Marketers de contenido con 1 a 3 años de experiencia, administradores de blogs, planificadores
 - **⏱️ Tiempo requerido:** Reducido de 3 horas a 5 minutos
 - **🤖 Modelos recomendados:** Claude 3.5 Sonnet (Altamente recomendado para redacción), ChatGPT Plus (GPT-4o)

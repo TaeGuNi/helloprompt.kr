@@ -4,17 +4,17 @@ title: "🔥 企画者のための完璧な競合SWOT分析＆市場調査プロ
 author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
-category: "업무 자동화"
+category: " "
 description: "ググって3日かかる市場調査と競合SWOT分析を3分で終わらせる実践的AIプロンプトです。"
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "competitor-anal"]
 ---
 # 📝 🔥 企画者のための完璧な競合SWOT分析＆市場調査プロンプト
 
-<!-- ⚠️ [CRITICAL RULE] 다국어 지원 (10개 언어 번역 필수) ⚠️
-이 템플릿을 사용하여 새로운 포스트(`index.ko.md`)를 작성한 직후,
-**반드시** 동일한 디렉토리에 9개의 번역 파일(`index.[lang].md`)을 추가로 생성해야 합니다.
-지원 언어(9개): en, de, es, fr, it, ja, pt, ru, zh
-총 10개(한국어+9개 외국어)의 파일이 한 폴더에 있어야 배포가 정상적으로 완료됩니다. -->
+<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
+    (`index.ko.md`)  ,
+****   9  (`index.[lang].md`)   .
+ (9): en, de, es, fr, it, ja, pt, ru, zh
+ 10(+9 )       . -->
 
 - **🎯 おすすめの対象:** 企画者、マーケター、新規事業担当者、入社1〜3年目の若手
 - **⏱️ 所要時間:** 3日 → 3分に短縮

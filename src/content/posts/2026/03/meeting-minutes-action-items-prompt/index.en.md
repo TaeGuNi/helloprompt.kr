@@ -9,19 +9,19 @@ description: "A practical prompt that instantly converts rambling meeting voice 
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "meeting-minutes"]
 ---
 # 📝 Structuring Messy Meeting Minutes in 1 Minute
-<!-- ⚠️ [CRITICAL RULE] 다국어 지원 (10개 언어 번역 필수) ⚠️
-이 템플릿을 사용하여 새로운 포스트(`index.ko.md`)를 작성한 직후,
-**반드시** 동일한 디렉토리에 9개의 번역 파일(`index.[lang].md`)을 추가로 생성해야 합니다.
-지원 언어(9개): en, de, es, fr, it, ja, pt, ru, zh
-총 10개(한국어+9개 외국어)의 파일이 한 폴더에 있어야 배포가 정상적으로 완료됩니다. -->
-<!-- ⚠️ [Lint Rule] 이모지 리스트를 사용하세요. 표(Table) 사용 시 모바일에서 깨질 수 있습니다. -->
+<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
+    (`index.ko.md`)  ,
+****   9  (`index.[lang].md`)   .
+ (9): en, de, es, fr, it, ja, pt, ru, zh
+ 10(+9 )       . -->
+<!-- ⚠️ [Lint Rule]   . (Table)      . -->
 - **🎯 Recommended for:** Junior Employees, Project Managers, Marketers
 - **⏱️ Time Saved:** 30 minutes → 1 minute
 - **🤖 Recommended Model:** Any Conversational AI (ChatGPT, Claude, Gemini, etc.)
 - ⭐ **Difficulty:** ⭐☆☆☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
 - 🚀 **Utility:** ⭐⭐⭐⭐⭐
-<!-- ⚠️ [Lint Rule] 인용구(>)는 Basic/Pro 섹션 외에는 이탤릭체(_..._)와 함께 사용해야 에러가 나지 않습니다. -->
+<!-- ⚠️ [Lint Rule] (>) Basic/Pro   (_..._)     . -->
 > _"Did you waste your entire afternoon organizing meeting minutes today?"_
 Even if you convert the recorded audio into text right after the meeting (using tools like Clova Note, Whisper, etc.), extracting the core points from a chaotic mix of conversations is another painful task. This prompt sharply extracts only the **'Key Decisions'** and **'Action Items' (who needs to do what)** from a contextless pile of text. Just copy and paste it right away.
 ---
@@ -31,7 +31,7 @@ Even if you convert the recorded audio into text right after the meeting (using 
 3. It clearly identifies the most important 'Action Items per person'.
 ---
 ## 🚀 Solution: "Automated Meeting Minutes Structuring Prompt"
-<!-- ⚠️ [Lint Rule] 인용구(>)는 이곳(Prompt 섹션)에서만 프롬프트 박스로 변환됩니다. -->
+<!-- ⚠️ [Lint Rule] (>) (Prompt ) Prompt  . -->
 ### 🥉 Basic Version
 Use this when you need quick results.
 > **Role:** You are a `[Senior Project Manager]`.
@@ -64,13 +64,13 @@ Use this when you need detailed quality.
 > **Input:**
 > - Meeting Transcript: `[Paste your copied transcript text here]`
 ---
-<!-- ✅ [Lint Rule] 필수 섹션입니다. 누락 시 CI 에러가 발생합니다. -->
+<!-- ✅ [Lint Rule]  .   CI  . -->
 ## 💡 Author's Comment (Insight)
 The core of this prompt is **'Action Item Extraction'** and **'Hallucination Suppression'**. 
 The real purpose of writing meeting minutes is not 'recording what was said', but 'clarifying what to do next'. 
 When used in actual work, you'll often find the AI confidently making up plausible schedules that were never mentioned in the meeting. To prevent this, I included the constraint "do not make up information" and the defensive instruction "if the assignee is unclear, mark as [Needs Confirmation]". Try throwing the text extracted from an STT tool like Clova Note into Claude 3.5 Sonnet or GPT-4o along with this prompt. A text-refining task that usually takes 30 minutes will shrink to 1 minute. Enjoy another cup of coffee with the time you saved.
 ---
-<!-- ⚠️ [Lint Rule] 권장 섹션입니다. 누락 시 경고가 발생합니다. -->
+<!-- ⚠️ [Lint Rule]  .    . -->
 ## 🙋 Frequently Asked Questions (FAQ)
 - **Q: Can I input a transcript of a 1-hour long meeting all at once?**
   - A: Yes, the latest models (Claude 3.5 Sonnet, GPT-4o, etc.) have excellent context-grasping abilities and can easily handle a 1-hour transcript. However, if you hit a token limit, divide it in half and input it separately.

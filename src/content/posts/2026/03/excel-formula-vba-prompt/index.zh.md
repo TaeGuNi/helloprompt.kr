@@ -4,16 +4,16 @@ title: "一秒生成 Excel 公式与 VBA 的 AI 提示词 🚀"
 author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
-category: "업무 자동화"
+category: " "
 description: "无需死记硬背 VBA 代码和复杂的 Excel 公式。只需向 AI 描述数据结构，即可直接复制粘贴。"
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "excel-formula-v"]
 ---
 # 📝 一秒生成 Excel 公式与 VBA 的 AI 提示词
-<!-- ⚠️ [CRITICAL RULE] 다국어 지원 (10개 언어 번역 필수) ⚠️
-이 템플릿을 사용하여 새로운 포스트(`index.ko.md`)를 작성한 직후,
-**반드시** 동일한 디렉토리에 9개의 번역 파일(`index.[lang].md`)을 추가로 생성해야 합니다.
-지원 언어(9개): en, de, es, fr, it, ja, pt, ru, zh
-총 10개(한국어+9개 외국어)의 파일이 한 폴더에 있어야 배포가 정상적으로 완료됩니다. -->
+<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
+    (`index.ko.md`)  ,
+****   9  (`index.[lang].md`)   .
+ (9): en, de, es, fr, it, ja, pt, ru, zh
+ 10(+9 )       . -->
 - **🎯 推荐对象：** 陷入 Excel 函数地狱的职场新人、疲于重复清洗数据的营销人员、没有时间写宏的业务骨干
 - **⏱️ 预计耗时：** 谷歌搜索 30 分钟 → 复制粘贴提示词 1 分钟
 - **🤖 推荐模型：** ChatGPT (GPT-4o), Claude 3.5 Sonnet

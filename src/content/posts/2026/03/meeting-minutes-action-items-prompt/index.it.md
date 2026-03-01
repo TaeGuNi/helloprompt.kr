@@ -4,24 +4,24 @@ title: "🎙️ Prompt strutturato per ordinare verbali caotici in 1 minuto"
 author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
-category: "업무 자동화"
+category: " "
 description: "Un prompt pratico per convertire istantaneamente trascrizioni caotiche di riunioni in riassunti ordinati e action item."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "meeting-minutes"]
 ---
 # 📝 Strutturare verbali caotici in 1 minuto
-<!-- ⚠️ [CRITICAL RULE] 다국어 지원 (10개 언어 번역 필수) ⚠️
-이 템플릿을 사용하여 새로운 포스트(`index.ko.md`)를 작성한 직후,
-**반드시** 동일한 디렉토리에 9개의 번역 파일(`index.[lang].md`)을 추가로 생성해야 합니다.
-지원 언어(9개): en, de, es, fr, it, ja, pt, ru, zh
-총 10개(한국어+9개 외국어)의 파일이 한 폴더에 있어야 배포가 정상적으로 완료됩니다. -->
-<!-- ⚠️ [Lint Rule] 이모지 리스트를 사용하세요. 표(Table) 사용 시 모바일에서 깨질 수 있습니다. -->
+<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
+    (`index.ko.md`)  ,
+****   9  (`index.[lang].md`)   .
+ (9): en, de, es, fr, it, ja, pt, ru, zh
+ 10(+9 )       . -->
+<!-- ⚠️ [Lint Rule]   . (Table)      . -->
 - **🎯 Consigliato per:** Junior professional, Project Manager, Marketer
 - **⏱️ Tempo richiesto:** Da 30 minuti → ridotto a 1 minuto
 - **🤖 Modelli consigliati:** Qualsiasi IA conversazionale (ChatGPT, Claude, Gemini, ecc.)
 - ⭐ **Difficoltà:** ⭐☆☆☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilità:** ⭐⭐⭐⭐⭐
-<!-- ⚠️ [Lint Rule] 인용구(>)는 Basic/Pro 섹션 외에는 이탤릭체(_..._)와 함께 사용해야 에러가 나지 않습니다. -->
+<!-- ⚠️ [Lint Rule] (>) Basic/Pro   (_..._)     . -->
 > _"Hai perso tutto il pomeriggio a sistemare i verbali delle riunioni?"_
 Anche se converti l'audio registrato in testo subito dopo la riunione (con Clova Note, Whisper, ecc.), estrarre i punti chiave da una conversazione disordinata è un'altra faticaccia. Questo prompt estrae con precisione solo le **'decisioni chiave'** e **'chi deve fare cosa (Action Item)'** da una montagna di testo senza contesto. Copia e incolla, al resto ci pensa lui.
 ---
@@ -31,7 +31,7 @@ Anche se converti l'audio registrato in testo subito dopo la riunione (con Clova
 3. Estrae chiaramente la parte più importante: 'i prossimi passi per ogni responsabile (Action Item)'.
 ---
 ## 🚀 La soluzione: "Prompt di strutturazione automatica dei verbali"
-<!-- ⚠️ [Lint Rule] 인용구(>)는 이곳(Prompt 섹션)에서만 프롬프트 박스로 변환됩니다. -->
+<!-- ⚠️ [Lint Rule] (>) (Prompt ) Prompt  . -->
 ### 🥉 Basic Version (Versione Base)
 Usalo quando hai bisogno di risultati rapidi.
 > **Ruolo:** Sei un `[Senior Project Manager]`.
@@ -64,13 +64,13 @@ Usalo quando hai bisogno di una qualità dettagliata.
 > **Input (Input):**
 > - Trascrizione della riunione: `[Incolla qui il testo della trascrizione che hai copiato]`
 ---
-<!-- ✅ [Lint Rule] 필수 섹션입니다. 누락 시 CI 에러가 발생합니다. -->
+<!-- ✅ [Lint Rule]  .   CI  . -->
 ## 💡 Commento dell'autore (Insight)
 Il punto cruciale di questo prompt è **'l'estrazione degli action item'** e la **'soppressione delle allucinazioni (Hallucination)'**. 
 Il vero scopo della stesura di un verbale non è 'registrare ciò che è stato detto', ma 'chiarire cosa fare dopo'. 
 Provandolo direttamente sul campo, spesso l'IA inventa di sana pianta scadenze plausibili che non sono presenti nel contenuto della riunione. Per evitare questo, ho inserito il vincolo "non inventare contenuti inesistenti" e l'istruzione difensiva "se il responsabile non è chiaro, contrassegnalo con [Da verificare]". Prova a dare in pasto a Claude 3.5 Sonnet o a GPT-4o il testo estratto da strumenti STT come Clova Note, insieme a questo prompt. Il lavoro di ripulitura del testo, che richiederebbe 30 minuti, si ridurrà a 1 minuto. Usa il tempo guadagnato per goderti un altro caffè.
 ---
-<!-- ⚠️ [Lint Rule] 권장 섹션입니다. 누락 시 경고가 발생합니다. -->
+<!-- ⚠️ [Lint Rule]  .    . -->
 ## 🙋 Domande Frequenti (FAQ)
 - **Q: Posso inserire per intero anche la trascrizione di una lunga riunione di 1 ora?**
   - A: Sì, i modelli più recenti (Claude 3.5 Sonnet, GPT-4o, ecc.) hanno un'eccellente capacità di comprensione del contesto e possono gestire facilmente anche 1 ora di testo. Tuttavia, se superi il limite di token, dividi il testo e inseriscilo a metà.

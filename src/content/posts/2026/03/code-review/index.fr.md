@@ -4,16 +4,16 @@ title: "🔥 Prompt : Revue de code & Refactoring de niveau Senior pour les dév
 author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
-category: "개발 및 코딩"
+category: "  "
 description: "Des erreurs inexplicables et du code spaghetti ? Découvrez ce prompt pratique pour obtenir une revue de code par un mentor IA et refactoriser proprement en une minute."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "code-review"]
 ---
 # 📝 Guide parfait de revue de code et de refactoring sans mentor
-<!-- ⚠️ [CRITICAL RULE] 다국어 지원 (10개 언어 번역 필수) ⚠️
-이 템플릿을 사용하여 새로운 포스트(`index.ko.md`)를 작성한 직후,
-**반드시** 동일한 디렉토리에 9개의 번역 파일(`index.[lang].md`)을 추가로 생성해야 합니다.
-지원 언어(9개): en, de, es, fr, it, ja, pt, ru, zh
-총 10개(한국어+9개 외국어)의 파일이 한 폴더에 있어야 배포가 정상적으로 완료됩니다. -->
+<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
+    (`index.ko.md`)  ,
+****   9  (`index.[lang].md`)   .
+ (9): en, de, es, fr, it, ja, pt, ru, zh
+ 10(+9 )       . -->
 - **🎯 Recommandé pour :** Développeurs juniors, ingénieurs backend/frontend avec 1 à 3 ans d'expérience, autodidactes
 - **⏱️ Temps estimé :** 2 heures de galère → Réglé en 1 minute
 - **🤖 Modèles recommandés :** Claude 3.5 Sonnet (Le meilleur pour la revue de code), GPT-4o

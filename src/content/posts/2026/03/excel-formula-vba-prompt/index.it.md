@@ -4,17 +4,17 @@ title: "Prompt AI per Creare Formule Excel e VBA in 1 Secondo 🚀"
 author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
-category: "업무 자동화"
+category: " "
 description: "Non è più necessario imparare a memoria il codice VBA e le formule complesse di Excel. Spiega semplicemente la struttura dei tuoi dati all'IA e fai copia-incolla."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "excel-formula-v"]
 ---
 # 📝 Prompt AI per Creare Formule Excel e VBA in 1 Secondo
 
-<!-- ⚠️ [CRITICAL RULE] 다국어 지원 (10개 언어 번역 필수) ⚠️
-이 템플릿을 사용하여 새로운 포스트(`index.ko.md`)를 작성한 직후,
-**반드시** 동일한 디렉토리에 9개의 번역 파일(`index.[lang].md`)을 추가로 생성해야 합니다.
-지원 언어(9개): en, de, es, fr, it, ja, pt, ru, zh
-총 10개(한국어+9개 외국어)의 파일이 한 폴더에 있어야 배포가 정상적으로 완료됩니다. -->
+<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
+    (`index.ko.md`)  ,
+****   9  (`index.[lang].md`)   .
+ (9): en, de, es, fr, it, ja, pt, ru, zh
+ 10(+9 )       . -->
 
 - **🎯 Consigliato per:** Junior bloccati nell'inferno delle funzioni di Excel, marketer stanchi della pulizia ripetitiva dei dati, professionisti senza tempo per scrivere macro.
 - **⏱️ Tempo richiesto:** 30 minuti di ricerca su Google → 1 minuto di copia-incolla del prompt.

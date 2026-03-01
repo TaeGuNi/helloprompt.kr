@@ -9,11 +9,11 @@ description: "Un prompt pratico che analizza perfettamente la Job Description (J
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "resume-cover-le"]
 ---
 # 📝 Prompt per Lettere di Presentazione Basate su JD: Aumenta le Assunzioni di 5 Volte 🚀
-<!-- ⚠️ [CRITICAL RULE] 다국어 지원 (10개 언어 번역 필수) ⚠️
-이 템플릿을 사용하여 새로운 포스트(`index.ko.md`)를 작성한 직후,
-**반드시** 동일한 디렉토리에 9개의 번역 파일(`index.[lang].md`)을 추가로 생성해야 합니다.
-지원 언어(9개): en, de, es, fr, it, ja, pt, ru, zh
-총 10개(한국어+9개 외국어)의 파일이 한 폴더에 있어야 배포가 정상적으로 완료됩니다. -->
+<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
+    (`index.ko.md`)  ,
+****   9  (`index.[lang].md`)   .
+ (9): en, de, es, fr, it, ja, pt, ru, zh
+ 10(+9 )       . -->
 - **🎯 Consigliato per:** Sviluppatori, marketer, product manager (1-3 anni di esperienza) e neolaureati in cerca di un nuovo lavoro.
 - **⏱️ Tempo richiesto:** Ridotto da 3 ore → a 1 minuto
 - **🤖 Modelli consigliati:** Claude 3.5 Sonnet (eccellente nella scrittura), ChatGPT Plus

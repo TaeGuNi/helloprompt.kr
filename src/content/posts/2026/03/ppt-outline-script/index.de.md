@@ -4,7 +4,7 @@ title: "📊 PPT-Planungshölle entkommen: Prompt zur automatischen Erstellung v
 author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
-category: "업무 자동화"
+category: " "
 description: "Machen Sie keine Nächte mehr durch für Präsentationsvorbereitungen. Ein praxisnaher Prompt, der in 1 Minute vom PPT-Inhaltsverzeichnis bis zum Skript für jede Folie alles erstellt."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ppt-outline-scr"]
 ---

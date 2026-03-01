@@ -9,11 +9,11 @@ description: "Kein Auswendiglernen von VBA-Codes oder komplexen Excel-Formeln me
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "excel-formula-v"]
 ---
 # 📝 KI-Prompt: Excel-Formeln & VBA in 1 Sekunde erstellen
-<!-- ⚠️ [CRITICAL RULE] 다국어 지원 (10개 언어 번역 필수) ⚠️
-이 템플릿을 사용하여 새로운 포스트(`index.ko.md`)를 작성한 직후,
-**반드시** 동일한 디렉토리에 9개의 번역 파일(`index.[lang].md`)을 추가로 생성해야 합니다.
-지원 언어(9개): en, de, es, fr, it, ja, pt, ru, zh
-총 10개(한국어+9개 외국어)의 파일이 한 폴더에 있어야 배포가 정상적으로 완료됩니다. -->
+<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
+    (`index.ko.md`)  ,
+****   9  (`index.[lang].md`)   .
+ (9): en, de, es, fr, it, ja, pt, ru, zh
+ 10(+9 )       . -->
 - **🎯 Empfohlen für:** Junioren in der Excel-Funktionshölle, Marketer, die die ständige Datenbereinigung satt haben, und Fachkräfte ohne Zeit für Makro-Programmierung
 - **⏱️ Zeitaufwand:** 30 Minuten Googeln → 1 Minute Prompt Copy & Paste
 - **🤖 Empfohlene Modelle:** ChatGPT (GPT-4o), Claude 3.5 Sonnet

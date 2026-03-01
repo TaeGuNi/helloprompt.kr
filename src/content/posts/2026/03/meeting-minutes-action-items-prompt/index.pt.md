@@ -10,13 +10,13 @@ tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "meeting-minutes"]
 ---
 # 📝 Estruture Reuniões Caóticas em 1 Minuto
 
-<!-- ⚠️ [CRITICAL RULE] 다국어 지원 (10개 언어 번역 필수) ⚠️
-이 템플릿을 사용하여 새로운 포스트(`index.ko.md`)를 작성한 직후,
-**반드시** 동일한 디렉토리에 9개의 번역 파일(`index.[lang].md`)을 추가로 생성해야 합니다.
-지원 언어(9개): en, de, es, fr, it, ja, pt, ru, zh
-총 10개(한국어+9개 외국어)의 파일이 한 폴더에 있어야 배포가 정상적으로 완료됩니다. -->
+<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
+    (`index.ko.md`)  ,
+****   9  (`index.[lang].md`)   .
+ (9): en, de, es, fr, it, ja, pt, ru, zh
+ 10(+9 )       . -->
 
-<!-- ⚠️ [Lint Rule] 이모지 리스트를 사용하세요. 표(Table) 사용 시 모바일에서 깨질 수 있습니다. -->
+<!-- ⚠️ [Lint Rule]   . (Table)      . -->
 - **🎯 Recomendado para:** Profissionais juniores, Gerentes de Projeto (PMs), Profissionais de Marketing
 - **⏱️ Tempo gasto:** Reduzido de 30 minutos para 1 minuto
 - **🤖 Modelos recomendados:** Qualquer IA conversacional (ChatGPT, Claude, Gemini, etc.)
@@ -24,7 +24,7 @@ tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "meeting-minutes"]
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidade:** ⭐⭐⭐⭐⭐
 
-<!-- ⚠️ [Lint Rule] 인용구(>)는 Basic/Pro 섹션 외에는 이탤릭체(_..._)와 함께 사용해야 에러가 나지 않습니다. -->
+<!-- ⚠️ [Lint Rule] (>) Basic/Pro   (_..._)     . -->
 > _"Você perdeu a tarde toda organizando as atas da reunião de hoje?"_
 
 Mesmo que você converta o áudio gravado em texto logo após a reunião (usando ferramentas como Clova Note, Whisper, etc.), extrair os pontos principais de uma conversa confusa é outro tormento. Este prompt extrai com precisão apenas as **'decisões principais'** e **'quem deve fazer o quê (Action Items)'** de uma pilha de texto sem contexto. Basta copiar e colar.
@@ -41,7 +41,7 @@ Mesmo que você converta o áudio gravado em texto logo após a reunião (usando
 
 ## 🚀 Solução: "Prompt de Estruturação Automática de Atas de Reunião"
 
-<!-- ⚠️ [Lint Rule] 인용구(>)는 이곳(Prompt 섹션)에서만 프롬프트 박스로 변환됩니다. -->
+<!-- ⚠️ [Lint Rule] (>) (Prompt ) Prompt  . -->
 
 ### 🥉 Versão Básica (Basic Version)
 
@@ -82,7 +82,7 @@ Use quando precisar de qualidade e detalhes.
 
 ---
 
-<!-- ✅ [Lint Rule] 필수 섹션입니다. 누락 시 CI 에러가 발생합니다. -->
+<!-- ✅ [Lint Rule]  .   CI  . -->
 
 ## 💡 Comentário do Autor (Insight)
 
@@ -92,7 +92,7 @@ Na prática, às vezes a IA inventa cronogramas plausíveis que não estão na r
 
 ---
 
-<!-- ⚠️ [Lint Rule] 권장 섹션입니다. 누락 시 경고가 발생합니다. -->
+<!-- ⚠️ [Lint Rule]  .    . -->
 
 ## 🙋 Perguntas Frequentes (FAQ)
 

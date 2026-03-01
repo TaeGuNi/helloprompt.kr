@@ -4,17 +4,17 @@ title: "✉️ Email di lavoro difficili? Il prompt AI per risolverle in 1 minut
 author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
-category: "업무 자동화"
+category: " "
 description: "Email in inglese, rifiuti educati, gestione dei reclami dei clienti. Prompt per email pronti all'uso da copiare e incollare."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "business-email"]
 ---
 # 📝 Email di lavoro difficili? Il prompt AI per risolverle in 1 minuto
-<!-- ⚠️ [CRITICAL RULE] 다국어 지원 (10개 언어 번역 필수) ⚠️
-이 템플릿을 사용하여 새로운 포스트(`index.ko.md`)를 작성한 직후,
-**반드시** 동일한 디렉토리에 9개의 번역 파일(`index.[lang].md`)을 추가로 생성해야 합니다.
-지원 언어(9개): en, de, es, fr, it, ja, pt, ru, zh
-총 10개(한국어+9개 외국어)의 파일이 한 폴더에 있어야 배포가 정상적으로 완료됩니다. -->
-<!-- ⚠️ [Lint Rule] 이모지 리스트를 사용하세요. 표(Table) 사용 시 모바일에서 깨질 수 있습니다. -->
+<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
+    (`index.ko.md`)  ,
+****   9  (`index.[lang].md`)   .
+ (9): en, de, es, fr, it, ja, pt, ru, zh
+ 10(+9 )       . -->
+<!-- ⚠️ [Lint Rule]   . (Table)      . -->
 - **🎯 Consigliato per:** Junior con 1-3 anni di esperienza, marketer, sviluppatori
 - **⏱️ Tempo impiegato:** Da 30 minuti → ridotto a 1 minuto
 - **🤖 Modello consigliato:** Claude 3.5 Sonnet (eccellente per cogliere le sfumature), ChatGPT (GPT-4o)

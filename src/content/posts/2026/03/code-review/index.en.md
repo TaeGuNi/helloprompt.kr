@@ -4,16 +4,16 @@ title: "🔥 Senior-Level Code Review & Refactoring Prompt for Junior Developers
 author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
-category: "개발 및 코딩"
+category: "  "
 description: "Unknown errors and spaghetti code? Discover the practical prompt to get a code review and clean refactoring from an AI senior developer in just 1 minute."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "code-review"]
 ---
 # 📝 The Ultimate Code Review & Refactoring Guide Without a Senior Developer
-<!-- ⚠️ [CRITICAL RULE] 다국어 지원 (10개 언어 번역 필수) ⚠️
-이 템플릿을 사용하여 새로운 포스트(`index.ko.md`)를 작성한 직후,
-**반드시** 동일한 디렉토리에 9개의 번역 파일(`index.[lang].md`)을 추가로 생성해야 합니다.
-지원 언어(9개): en, de, es, fr, it, ja, pt, ru, zh
-총 10개(한국어+9개 외국어)의 파일이 한 폴더에 있어야 배포가 정상적으로 완료됩니다. -->
+<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
+    (`index.ko.md`)  ,
+****   9  (`index.[lang].md`)   .
+ (9): en, de, es, fr, it, ja, pt, ru, zh
+ 10(+9 )       . -->
 - **🎯 Target Audience:** Junior developers, 1-3 year backend/frontend engineers, self-taught developers
 - **⏱️ Time Required:** 2 hours of struggling → 1 minute fix
 - **🤖 Recommended Model:** Claude 3.5 Sonnet (Best for code review), GPT-4o

@@ -4,7 +4,7 @@ title: "📊 Fuga do Inferno do Planejamento de PPT: Prompt para Geração Autom
 author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
-category: "업무 자동화"
+category: " "
 description: "Não vire a noite preparando apresentações. Um prompt prático que gera desde o índice do PPT até o roteiro de fala para cada slide em apenas 1 minuto."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ppt-outline-scr"]
 ---

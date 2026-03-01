@@ -4,17 +4,17 @@ title: "🌐 Chega de traduções robóticas! Prompts de localização multilín
 author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
-category: "업무 자동화"
+category: " "
 description: "Um prompt prático de localização multilíngue que evita traduções literais mecânicas e reflete as nuances culturais e os jargões do idioma de destino."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "localization-tr"]
 ---
 # 📝 O 'Verdadeiro' Prompt de Localização para Eliminar o Tom de Tradução Automática
-<!-- ⚠️ [CRITICAL RULE] 다국어 지원 (10개 언어 번역 필수) ⚠️
-이 템플릿을 사용하여 새로운 포스트(`index.ko.md`)를 작성한 직후,
-**반드시** 동일한 디렉토리에 9개의 번역 파일(`index.[lang].md`)을 추가로 생성해야 합니다.
-지원 언어(9개): en, de, es, fr, it, ja, pt, ru, zh
-총 10개(한국어+9개 외국어)의 파일이 한 폴더에 있어야 배포가 정상적으로 완료됩니다. -->
-<!-- ⚠️ [Lint Rule] 이모지 리스트를 사용하세요. 표(Table) 사용 시 모바일에서 깨질 수 있습니다. -->
+<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
+    (`index.ko.md`)  ,
+****   9  (`index.[lang].md`)   .
+ (9): en, de, es, fr, it, ja, pt, ru, zh
+ 10(+9 )       . -->
+<!-- ⚠️ [Lint Rule]   . (Table)      . -->
 - **🎯 Recomendado para:** Profissionais de marketing global, representantes de vendas internacionais, planejadores de serviços de aplicativos
 - **⏱️ Tempo economizado:** De 1 hora → para 3 minutos
 - **🤖 Modelo recomendado:** Claude 3.5 Sonnet (excelente em capturar nuances), GPT-4o
@@ -30,7 +30,7 @@ Mudar o idioma é algo que qualquer tradutor automático faz. O que queremos da 
 3. **Adicione uma cláusula contra tradução literal:** Imponha a restrição de que "se o significado for mantido, a estrutura da frase pode ser completamente alterada".
 ---
 ## 🚀 Solução: "Localização com Alma de Nativo"
-<!-- ⚠️ [Lint Rule] 인용구(>)는 이곳(Prompt 섹션)에서만 프롬프트 박스로 변환됩니다. -->
+<!-- ⚠️ [Lint Rule] (>) (Prompt ) Prompt  . -->
 ### 🥉 Versão Básica (Basic Version)
 Use quando precisar de resultados rápidos.
 > **Função:** Você é um copywriter profissional que trabalha em `[País de Destino]` há mais de 10 anos.
@@ -69,13 +69,13 @@ Use quando for necessária uma qualidade detalhada e refinada.
 >
 > - Não deve haver o uso excessivo de voz passiva ou traduções literais desajeitadas típicas de tradução automática. O texto deve parecer incondicionalmente escrito por um nativo.
 ---
-<!-- ✅ [Lint Rule] 필수 섹션입니다. 누락 시 CI 에러가 발생합니다. -->
+<!-- ✅ [Lint Rule]  .   CI  . -->
 ## 💡 Comentário do Autor (Insight)
 Honestamente, se até agora você apenas digitava "Traduza isso para o inglês", estava usando menos de 10% da capacidade da IA. Na prática, ao construir um site multilíngue ou escrever e-mails de vendas internacionais, textos substituídos palavra por palavra são os principais culpados por destruir a credibilidade.
 Ao criar este prompt, percebi que a diferença entre os resultados antes e depois de adicionar a restrição "você pode destruir a estrutura da frase" é como o dia e a noite. A tradução literal das omissões de sujeito ou do estilo prolixo típicos do coreano para o inglês produz resultados terríveis. Somente quando você dá à IA a liberdade (e ao mesmo tempo uma rigorosa interpretação de papéis) de **'você é o copywriter, então prepare como quiser'**, é que surge um valor que supera o Google Tradutor. 
 Especialmente ao traduzir textos de marketing, alimente o modelo Claude com este prompt Pro. Atualmente, é o mais impressionante em capturar nuances. Se o resultado ainda parecer um pouco rígido, recomendo adicionar no final do prompt: "Adicione uma pitada de gírias ou jargões da moda (buzzwords) da indústria local."
 ---
-<!-- ⚠️ [Lint Rule] 권장 섹션입니다. 누락 시 경고가 발생합니다. -->
+<!-- ⚠️ [Lint Rule]  .    . -->
 ## 🙋 Perguntas Frequentes (FAQ)
 - **P: Este prompt funciona bem para todos os idiomas?**
   - R: Ele mostra um desempenho incrível nos principais idiomas com muitos dados de treinamento, como inglês, japonês, chinês e espanhol. No entanto, para idiomas menos comuns, pode ocorrer alucinação da IA, por isso é recomendável fazer um cruzamento dos resultados (pedir para traduzir de volta para o inglês para confirmar a intenção).
@@ -91,7 +91,7 @@ Especialmente ao traduzir textos de marketing, alimente o modelo Claude com este
 ### ❌ Antes (Entrada)
 ```text
 (Comando simples: "Traduza a frase a seguir para o inglês")
-Entrada: "저희 솔루션을 도입하시면 업무 효율성이 비약적으로 상승하여 직원들의 워라밸이 좋아집니다. 지금 바로 무료 체험을 신청하고 놀라운 변화를 경험해보세요!"
+Entrada: "         .        !"
 Resultado: "If you introduce our solution, your work efficiency will rise dramatically, improving your employees' work-life balance. Apply for a free trial right now and experience the amazing change!" 
 (Explicação: A gramática está correta, mas é um texto de vendas rígido, com um tom estranho e típico de tradução automática.)
 ```
@@ -101,8 +101,8 @@ Resultado: "If you introduce our solution, your work efficiency will rise dramat
 Resultado da Tradução: 
 "Supercharge your team's productivity and reclaim their weekends. Start your free trial today and see the impact for yourself."
 Motivo da Alteração:
-- '업무 효율성이 비약적으로 상승 (Aumentar drasticamente a eficiência do trabalho)' foi substituído por 'Supercharge', um verbo de ação frequentemente usado na indústria de TI dos EUA, para causar mais impacto.
-- A expressão '워라밸이 좋아진다 (melhorar o equilíbrio entre vida pessoal e profissional)' foi localizada para 'reclaim their weekends (recuperar seus fins de semana)', enfatizando um benefício específico e emocional.
+- '    (Aumentar drasticamente a eficiência do trabalho)' foi substituído por 'Supercharge', um verbo de ação frequentemente usado na indústria de TI dos EUA, para causar mais impacto.
+- A expressão '  (melhorar o equilíbrio entre vida pessoal e profissional)' foi localizada para 'reclaim their weekends (recuperar seus fins de semana)', enfatizando um benefício específico e emocional.
 - O comprimento geral da frase foi reduzido e a voz ativa foi usada para aumentar a atratividade do CTA (Call to Action) e incentivar o clique.
 ```
 ---

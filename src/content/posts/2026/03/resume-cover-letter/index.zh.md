@@ -4,16 +4,16 @@ title: "合格率提升5倍的JD驱动型定制化简历Prompt 🚀"
 author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
-category: "업무 자동화"
+category: " "
 description: "深入解析招聘启事（JD），只需1分钟即可生成与您的经验100%匹配的定制化求职信的实战Prompt。"
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "resume-cover-le"]
 ---
 # 📝 合格率提升5倍的JD驱动型定制化简历Prompt 🚀
-<!-- ⚠️ [CRITICAL RULE] 다국어 지원 (10개 언어 번역 필수) ⚠️
-이 템플릿을 사용하여 새로운 포스트(`index.ko.md`)를 작성한 직후,
-**반드시** 동일한 디렉토리에 9개의 번역 파일(`index.[lang].md`)을 추가로 생성해야 합니다.
-지원 언어(9개): en, de, es, fr, it, ja, pt, ru, zh
-총 10개(한국어+9개 외국어)의 파일이 한 폴더에 있어야 배포가 정상적으로 완료됩니다. -->
+<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
+    (`index.ko.md`)  ,
+****   9  (`index.[lang].md`)   .
+ (9): en, de, es, fr, it, ja, pt, ru, zh
+ 10(+9 )       . -->
 - **🎯 推荐对象：** 准备跳槽的1~3年经验开发者、营销人员、企划人员及应届毕业生
 - **⏱️ 所需时间：** 从3小时缩短至1分钟
 - **🤖 推荐模型：** Claude 3.5 Sonnet (擅长写作), ChatGPT Plus

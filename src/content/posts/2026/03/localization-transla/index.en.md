@@ -4,17 +4,17 @@ title: "🌐 Stop the Awkward Machine Translation! A Masterful Localization Prom
 author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
-category: "업무 자동화"
+category: " "
 description: "A practical multilingual localization prompt that avoids mechanical literal translation and reflects cultural nuances and target language buzzwords."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "localization-tr"]
 ---
 # 📝 The 'Real' Localization Prompt That Removes the Machine Translation Vibe
-<!-- ⚠️ [CRITICAL RULE] 다국어 지원 (10개 언어 번역 필수) ⚠️
-이 템플릿을 사용하여 새로운 포스트(`index.ko.md`)를 작성한 직후,
-**반드시** 동일한 디렉토리에 9개의 번역 파일(`index.[lang].md`)을 추가로 생성해야 합니다.
-지원 언어(9개): en, de, es, fr, it, ja, pt, ru, zh
-총 10개(한국어+9개 외국어)의 파일이 한 폴더에 있어야 배포가 정상적으로 완료됩니다. -->
-<!-- ⚠️ [Lint Rule] 이모지 리스트를 사용하세요. 표(Table) 사용 시 모바일에서 깨질 수 있습니다. -->
+<!-- ⚠️ [CRITICAL RULE]   (10   ) ⚠️
+    (`index.ko.md`)  ,
+****   9  (`index.[lang].md`)   .
+ (9): en, de, es, fr, it, ja, pt, ru, zh
+ 10(+9 )       . -->
+<!-- ⚠️ [Lint Rule]   . (Table)      . -->
 - **🎯 Recommended for:** Global marketers, overseas sales representatives, app service planners
 - **⏱️ Time required:** 1 hour → Reduced to 3 minutes
 - **🤖 Recommended model:** Claude 3.5 Sonnet (Excellent at capturing nuance), GPT-4o
@@ -34,7 +34,7 @@ Simply changing the language is something Google Translate can do. What we want 
 
 ---
 ## 🚀 Solution: "Native-Possessed Localization"
-<!-- ⚠️ [Lint Rule] 인용구(>)는 이곳(Prompt 섹션)에서만 프롬프트 박스로 변환됩니다. -->
+<!-- ⚠️ [Lint Rule] (>) (Prompt ) Prompt  . -->
 ### 🥉 Basic Version
 Use this when you need quick results.
 
@@ -77,7 +77,7 @@ Use this when you need detailed quality.
 > - There should be no abuse of passive voice or awkward literal translations typical of machine translation. It must absolutely look like it was written by a native speaker.
 
 ---
-<!-- ✅ [Lint Rule] 필수 섹션입니다. 누락 시 CI 에러가 발생합니다. -->
+<!-- ✅ [Lint Rule]  .   CI  . -->
 ## 💡 Author's Comment (Insight)
 Honestly, if you've only been typing "Translate this to English" until now, you haven't been utilizing even 10% of AI's performance. When building a multilingual website or writing overseas sales emails in practice, text that is simply substituted word-for-word is the main culprit that undermines credibility.
 
@@ -86,7 +86,7 @@ While creating this prompt, I realized that the results before and after adding 
 Especially when translating marketing copy, try feeding this Pro prompt to the Claude model. It is currently the most overwhelming in capturing nuances. If the result is still a bit stiff, I recommend adding "Mix in a spoonful of trendy slang or buzzwords popular in the local industry" at the end of the prompt.
 
 ---
-<!-- ⚠️ [Lint Rule] 권장 섹션입니다. 누락 시 경고가 발생합니다. -->
+<!-- ⚠️ [Lint Rule]  .    . -->
 ## 🙋 Frequently Asked Questions (FAQ)
 - **Q: Does this prompt work well for all languages?**
   - A: It shows amazing performance in major language groups with a lot of training data, such as English, Japanese, Chinese, and Spanish. However, for minor languages, AI hallucinations can occur, so I recommend cross-checking the result (by asking it to translate back to English to confirm the intent).
@@ -104,7 +104,7 @@ Especially when translating marketing copy, try feeding this Pro prompt to the C
 ### ❌ Before (Input)
 ```text
 (Simple Instruction: "Translate the following sentence into English")
-Input: "저희 솔루션을 도입하시면 업무 효율성이 비약적으로 상승하여 직원들의 워라밸이 좋아집니다. 지금 바로 무료 체험을 신청하고 놀라운 변화를 경험해보세요!"
+Input: "         .        !"
 Result: "If you introduce our solution, your work efficiency will rise dramatically, improving your employees' work-life balance. Apply for a free trial right now and experience the amazing change!" 
 (Explanation: The grammar is correct, but it's an awkward and stiff sales pitch typical of machine translation.)
 ```

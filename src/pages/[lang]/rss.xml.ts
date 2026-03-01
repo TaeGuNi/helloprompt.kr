@@ -2,6 +2,7 @@ import { getCollection } from "astro:content";
 import rss from "@astrojs/rss";
 import type { APIRoute } from "astro";
 import { LANGUAGES } from "../../i18n/languages";
+import { getKstNow } from "../../utils/dateUtils";
 import { uiStrings } from "../../utils/ui-translation";
 
 export const GET: APIRoute = async (context) => {
@@ -12,9 +13,9 @@ export const GET: APIRoute = async (context) => {
   }
 
   // 수동 빌드 방식 채택 (Content Collections 기반)
-  const now = new Date();
+  const kstNow = getKstNow();
   const allPosts = await getCollection("posts", ({ data }) => {
-    return data.date <= now;
+    return data.date <= kstNow;
   });
   // 1. Filter and Map in a single pipeline
   const posts = allPosts

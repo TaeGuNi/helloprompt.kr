@@ -3,7 +3,7 @@ import { getCollection } from "astro:content";
 import Search from "../../components/Search.astro";
 import { LANGUAGES } from "../../i18n/languages";
 import Layout from "../../layouts/Layout.astro";
-import { formatDate } from "../../utils/dateUtils";
+import { formatDate, getKstNow } from "../../utils/dateUtils";
 
 // Removed unused Post import
 
@@ -22,9 +22,9 @@ if (Number.isNaN(paramPage)) {
 }
 
 // 1. Content Collections에서 모든 포스트 가져오기
-const now = new Date();
+const kstNow = getKstNow();
 const allPosts = await getCollection("posts", ({ data }) => {
-  return data.date <= now;
+  return data.date <= kstNow;
 });
 
 // 2. 언어별 포스트만 필터링

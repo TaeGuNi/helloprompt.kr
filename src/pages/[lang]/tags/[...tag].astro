@@ -2,6 +2,7 @@
 import { getCollection } from "astro:content";
 import BaseHtml from "../../../components/BaseHtml.astro";
 import { LANGUAGES } from "../../../i18n/languages";
+import { getKstNow } from "../../../utils/dateUtils";
 
 const paramLang = Astro.params.lang as string;
 const paramTag = Astro.params.tag as string;
@@ -11,9 +12,9 @@ if (!LANGUAGES.includes(paramLang) || !paramTag) {
   return new Response("Not found", { status: 404 });
 }
 
-const now = new Date();
+const kstNow = getKstNow();
 const allPosts = await getCollection("posts", ({ data }) => {
-  return data.date <= now;
+  return data.date <= kstNow;
 });
 
 // 1. Filter by language and tag

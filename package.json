@@ -11,13 +11,13 @@
     "preview": "astro preview",
     "astro": "astro",
     "lint": "biome check .",
-    "generate:trend": "npx tsx scripts/generate-trend-post.ts",
-    "generate:custom": "npx tsx scripts/generate-custom-trends.ts",
-    "qa": "npx tsx scripts/qa.ts",
-    "qa:rewrite": "npx tsx scripts/qa-rewriter.ts",
+    "generate:trend": "tsx scripts/generate-trend-post.ts",
+    "generate:custom": "tsx scripts/generate-custom-trends.ts",
+    "qa": "tsx scripts/qa.ts",
+    "qa:rewrite": "tsx scripts/qa-rewriter.ts",
     "test": "vitest run",
     "test:e2e": "playwright test",
-    "release": "npx tsx scripts/release.ts",
+    "release": "tsx scripts/release.ts",
     "prepare": "husky"
   },
   "dependencies": {

@@ -199,7 +199,7 @@ CRITICAL RULES:
         writeFileSync(".github/heal-prompt.txt", prompt, "utf-8");
         // We use gemini CLI (from Phase 1 / AGENTS standards) to resolve it locally
         const aiResponse = execSync(
-          'gemini -m "gemini-3.1-pro-preview" -p "$(<.github/heal-prompt.txt)"',
+          'gemini --yolo -m "gemini-3.1-pro-preview" -p "$(<.github/heal-prompt.txt)"',
           { encoding: "utf-8" },
         );
 
@@ -215,6 +215,14 @@ CRITICAL RULES:
 
         // Format checking to ensure AI didn't break things further
         execSync("pnpm biome check --write . || true");
+
+        // Clean up AI script temp files before staging the commit
+        try {
+          rmSync(".github/heal-prompt.txt", { force: true });
+        } catch {}
+        try {
+          rmSync(".github/auto-heal.sh", { force: true });
+        } catch {}
 
         console.log("🚀 Pushing AI Fix directly to PR...");
         execSync("git add .");

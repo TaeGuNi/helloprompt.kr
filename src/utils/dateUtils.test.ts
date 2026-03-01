@@ -53,4 +53,42 @@ describe("dateUtils", () => {
     expect(result).toContain("2026");
     expect(result).toContain("2월 7일");
   });
+
+  // ==========================================
+  // 💣 Chaos Monkey Test Suite (Disaster Scenarios)
+  // ==========================================
+  describe("[Chaos Monkey] formatDate 파괴 방어 시뮬레이션", () => {
+    it("완전히 규격을 벗어난 외계 언어 코드 주입 시 크래시 없이 UTC나 원본 스트링 등으로 방어해야 한다", () => {
+      // 기존 폰트/레이아웃 크래시를 막기 위해 에러를 throw해선 안 됨.
+      const chaosLangs = [
+        "👽",
+        "not-a-lang",
+        "DROP TABLE users",
+        "undefined",
+        "null",
+      ];
+
+      for (const lang of chaosLangs) {
+        expect(() => formatDate(TEST_ISO_DATE, lang)).not.toThrow();
+        const res = formatDate(TEST_ISO_DATE, lang);
+        // Fallback으로 UTC 시간대 혹은 어떻게든 문자열이 튀어나와야 함
+        expect(typeof res).toBe("string");
+      }
+    });
+
+    it("JS Date 객체가 감당하기 힘든 극단적인 Epoch 값이나 Infinity 주입 시 크래시를 유발하지 않아야 한다", () => {
+      const extremeDates = [
+        "100000-01-01T00:00:00.000Z", // Too far in future
+        "-100000-01-01T00:00:00.000Z", // Too far in past
+        "NaN",
+        "Infinity",
+      ];
+
+      for (const d of extremeDates) {
+        // 에러를 던지지 않고 Invalid Date 처리(원본 리턴)로 우아하게 실패해야 함
+        expect(() => formatDate(d, "ko")).not.toThrow();
+        expect(formatDate(d, "ko")).toBe(d);
+      }
+    });
+  });
 });

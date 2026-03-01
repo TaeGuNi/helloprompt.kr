@@ -27,6 +27,10 @@
    - `src/pages/[...page].astro`: 메인 페이지 (한국어)
    - `src/pages/[lang]/[...page].astro`: 메인 페이지 (다국어)
    - `src/pages/tags/[tag].astro`: 태그별 모아보기 페이지 관리
+5. **Git 전략 (Develop 단독 사용):**
+   - 새로운 브랜치(`feature/*` 등)를 생성하거나 PR(Pull Request)을 개설하는 것을 строго 금지.
+   - 모든 커밋과 푸시는 오직 **`develop` 브랜치에 다이렉트(Direct)로** 수행할 것.
+   - 충돌 방지를 위해 에이전트는 푸시 직전 반드시 `git pull origin develop --rebase` 를 실행할 것.
 
 ## 📂 주요 파일 경로
 

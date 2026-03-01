@@ -66,17 +66,18 @@ async function callGemini(prompt: string): Promise<string> {
 async function translatePost(koContent: string, langCode: string) {
   console.log(`🌐 Translating to ${langCode.toUpperCase()}...`);
   const prompt = `
-You are an elite multilingual copywriter for 'Hello Prompt'. 
+You are an elite multilingual copywriter and translator for 'Hello Prompt'. 
 Translate the following Korean Markdown blog post into ${langCode.toUpperCase()}.
 
-CRITICAL RULES:
-1. Preserve EXACTLY the YAML Frontmatter structure, but translate the 'title' and 'description'.
-2. Keep the 'date' and 'updatedDate' the exact same as the original.
-3. The UI structure MUST strictly follow the <POST_TEMPLATE> format. Keep all English HTML comments exactly the same!
-4. LOCALIZATION: Do not machine translate. Sound like a native professional.
-5. DO NOT add any extra frontmatter fields that were not in the original.
-6. The "Cheat Code Prompt" or any blockquotes inside the code block SHOULD BE TRANSLATED so that international users can copy-paste it in their own language.
-7. Output ONLY the raw Markdown file starting with '---'.
+CRITICAL RULES (PENALTY FOR VIOLATION):
+1. **1:1 STRUCTURAL INTEGRITY:** You MUST preserve the EXACT SAME Markdown Abstract Syntax Tree (AST). Do not add, remove, or summarize ANY headers (H1, H2, H3), blockquotes, lists, or paragraphs.
+2. **CODE PRESERVATION:** Do NOT translate or remove ANY code blocks (e.g. \`\`\`python, \`\`\`bash) or inline code (\`code\`). They must remain 100% identical to the original Korean post.
+3. **NO HALLUCINATIONS:** NEVER invent new content. Do NOT add new FAQ questions, do NOT add new insights, and do NOT remove existing ones. Translate ONLY what is provided.
+4. **LOCALIZATION:** "Localization" means making the translated sentences sound natural in ${langCode.toUpperCase()}, NOT rewriting the meaning or structure of the article.
+5. **FRONTMATTER:** Preserve the YAML Frontmatter exactly as-is, but translate the 'title' and 'description'. Keep the 'date' and 'updatedDate' original. DO NOT ADD new fields.
+6. **TEMPLATE:** The UI structure MUST strictly follow the original. Keep all English HTML comments (e.g. <!-- ⚠️ [CRITICAL RULE] -->) exactly the same.
+7. **PROMPTS:** Any blockquotes (>) containing AI prompts MUST be translated so international users can copy-paste them.
+8. Output ONLY the raw Markdown file starting with '---'.
 
 <KOREAN_POST>
 ${koContent}

@@ -43,7 +43,7 @@ tags: ["DeepSeek", "Ollama", "Local LLM", "コーディング", "生産性"]
 > **要求:** Mac/Linux環境にOllamaをインストールする手順を実行します。以下のコマンドを使用します。
 >
 >
-> curl -fsSL https://ollama.com/install.sh | sh
+> `curl -fsSL https://ollama.com/install.sh | sh`
 >
 >
 > _(Windowsの場合は公式サイトからインストーラーをダウンロードしてください)_

@@ -7,7 +7,13 @@ export const GET: APIRoute = async (context) => {
   const allPosts = await getCollection("posts", ({ data }) => {
     return data.date <= now;
   });
-  const langPosts = allPosts.filter((post) => post.id.endsWith(`index${lang}`));
+  // 1. Filter valid content based on Astro 5 ID formats
+  const langPosts = allPosts.filter(
+    (post) =>
+      post.id.endsWith(`index${lang}`) ||
+      post.id.endsWith(`index.${lang}`) ||
+      post.id.endsWith(`index.${lang}.md`),
+  );
 
   interface SearchItem {
     title: string;
@@ -18,15 +24,18 @@ export const GET: APIRoute = async (context) => {
     date: string;
   }
 
+  // 2. Map directly without throwaway loops, fixing URL for 'ko' baseline
   const posts: SearchItem[] = langPosts.map((post) => {
     const parts = post.id.split("/");
     const slug = parts.slice(0, -1).join("/");
+    const langPath = `/${lang}`;
+
     return {
       title: post.data.title,
       description: post.data.description || "",
       tags: post.data.tags,
       category: post.data.category,
-      url: `/${lang}/posts/${slug}`,
+      url: `${langPath}/posts/${slug}`,
       date:
         post.data.date instanceof Date
           ? post.data.date.toISOString().split("T")[0]

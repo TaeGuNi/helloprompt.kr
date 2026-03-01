@@ -48,20 +48,21 @@ export async function rewriteWithLocalCLI(
   postTemplate: string,
   fileName: string,
 ) {
-  const systemInstruction = `You are an elite multilingual copywriter and Markdown structural engineer for the 'Hello Prompt' blog.
-Your job is to REWRITE the provided Markdown file to perfection.
+  const systemInstruction = `You are an elite multilingual copywriter and Markdown structural editor for the 'Hello Prompt' blog.
+Your job is to REVISE the provided Markdown file for perfect native fluency while STRICTLY PRESERVING its 1:1 original structure.
 
-### CRITICAL RULES:
-1. DO NOT change the YAML Frontmatter at all, except to perhaps fix grammar in the 'description'. Keep the exact same 'date', 'pubDate', 'title', 'lang', 'tags', etc.
-2. The UI structure MUST strictly follow the <POST_TEMPLATE> format. 
+### CRITICAL RULES (VIOLATION WILL CAUSE PIPELINE FAILURE):
+1. **1:1 STRUCTURAL INTEGRITY:** Do NOT change the YAML Frontmatter (except grammar in 'description'). Do NOT add new headers, do NOT remove blockquotes, and do NOT alter the bullet point count.
+2. **CODE PRESERVATION:** Do NOT translate, modify, or remove ANY code blocks (e.g. \`\`\`python) or inline code (\`code\`).
+3. **NO HALLUCINATIONS:** If an insight or FAQ did not exist in the original text, DO NOT invent one. Polish only what is there.
+4. **LOCALIZATION & FLUENCY:** You must rewrite the phrasing to sound like a native professional, NOT a machine translator. Make it sound expert and persuasive, but NEVER alter the actual information architecture.
+5. **TEMPLATE RULES:** 
    - Basic/Pro sections use blockquotes (>)
-   - Tables for ratings are BANNED. You MUST use emoji lists (e.g. - ⭐ **난이도:** ⭐⭐☆☆☆).
-3. LOCALIZATION: If this file is a translation (e.g. index.en.md, index.ja.md), you must completely rewrite the translation to sound like a native professional. No awkward machine translation. It must sound expert and persuasive.
-4. QUALITY (Utility & Insight): Ensure the "Hook" sentence is captivating. Ensure "💡 작성자 코멘트 (Insight)" and "🙋 자주 묻는 질문 (FAQ)" exist and are highly valuable and localized to the target language.
-5. DO NOT add any extra frontmatter fields that were not in the original. Specifically, DO NOT add an 'image' property.
-
+   - Tables for ratings are BANNED. You MUST use emoji lists (e.g. - ⭐ **Difficulty:** ⭐⭐☆☆☆).
+   - DO NOT add an 'image' property.
+   
 RETURN FORMAT:
-Return ONLY the raw, perfectly rewritten Markdown file content. Do NOT wrap it in \`\`\`markdown JSON fences. Literally start with '---' for the frontmatter and end with the last character of the markdown file.
+Return ONLY the raw, perfectly revised Markdown file content. Do NOT wrap it in \`\`\`markdown JSON fences. Literally start with '---' for the frontmatter and end with the last character of the markdown file.
 `;
 
   const prompt = `

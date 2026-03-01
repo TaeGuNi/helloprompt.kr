@@ -6,6 +6,7 @@ date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: " "
 description: "Não vire a noite preparando apresentações. Um prompt prático que gera desde o índice do PPT até o roteiro de fala para cada slide em apenas 1 minuto."
+image: "/images/hooks/powerpoint-outline-prompt.jpg"
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ppt-outline-scr"]
 ---
 # 📝 Fuga do Inferno do Planejamento de PPT: Prompt para Geração Automática de Índice e Roteiro por Slide

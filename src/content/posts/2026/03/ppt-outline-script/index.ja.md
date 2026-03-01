@@ -6,6 +6,7 @@ date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: " "
 description: "プレゼン準備で徹夜するのはもうやめましょう。1分でPPTの目次からスライド別の発表スクリプトまで作成できる、実務に密着したプロンプトです。"
+image: "/images/hooks/powerpoint-outline-prompt.jpg"
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ppt-outline-scr"]
 ---
 # 📝 PPT企画地獄からの脱出：スライド別目次＆台本自動生成プロンプト

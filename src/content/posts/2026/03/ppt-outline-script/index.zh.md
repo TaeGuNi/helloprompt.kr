@@ -6,6 +6,7 @@ date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: " "
 description: "别再为了准备演讲而熬夜了。只需 1 分钟，就能从 PPT 目录到各页幻灯片的演讲稿一键生成的实战级提示词。"
+image: "/images/hooks/powerpoint-outline-prompt.jpg"
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ppt-outline-scr"]
 ---
 # 📝 逃离 PPT 策划地狱：自动生成按幻灯片划分的目录与演讲稿提示词

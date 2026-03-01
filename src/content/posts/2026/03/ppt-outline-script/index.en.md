@@ -6,6 +6,7 @@ date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: " "
 description: "Stop pulling all-nighters for presentations. A highly practical prompt that churns out everything from PPT outlines to slide-by-slide speaker scripts in just 1 minute."
+image: "/images/hooks/powerpoint-outline-prompt.jpg"
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ppt-outline-scr"]
 ---
 # 📝 Escape PPT Planning Hell: Auto-Generate Slide Outlines & Scripts Prompt

@@ -6,6 +6,7 @@ date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "Automatización del trabajo"
 description: "No pases la noche en vela preparando tu presentación. Un prompt práctico que genera desde el índice hasta el guion de cada diapositiva en solo 1 minuto."
+image: "/images/hooks/powerpoint-outline-prompt.jpg"
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ppt-outline-scr"]
 ---
 # 📝 Escape del infierno del PPT: Prompt para generar índices y guiones por diapositiva automáticamente

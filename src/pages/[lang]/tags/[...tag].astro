@@ -18,7 +18,12 @@ const allPosts = await getCollection("posts", ({ data }) => {
 
 // 1. Filter by language and tag
 const filteredPosts = allPosts
-  .filter((post) => post.id.endsWith(`index${paramLang}`))
+  .filter(
+    (post) =>
+      post.id.endsWith(`index${paramLang}`) ||
+      post.id.endsWith(`index.${paramLang}`) ||
+      post.id.endsWith(`index.${paramLang}.md`),
+  )
   .filter((post) => post.data.tags?.includes(paramTag))
   .sort(
     (a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf(),

@@ -37,8 +37,18 @@ test.describe("Extreme QA: Search Functionality (10 Languages)", () => {
       await searchLocator.fill("test");
 
       // The search logic usually triggers a dropdown/layer or changes the dom.
+      // Wait for debounce and search result resolution
       const resultsContainer = page.locator(".hero .search-results");
-      await expect(resultsContainer).toBeVisible();
+      await expect(resultsContainer).toBeVisible({ timeout: 5000 });
+
+      // Wait for at least one search item to appear
+      await page
+        .waitForSelector(".hero .search-results .search-item", {
+          timeout: 5000,
+        })
+        .catch(() => {
+          // Fallback or empty state check depending on test content
+        });
     });
 
     test(`[Chaos Monkey] ${lang}: Network 500 Error during Search`, async ({

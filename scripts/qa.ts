@@ -14,6 +14,7 @@ const CHECKS = {
   KOREAN_TEXT: /[가-힣]+/,
   HAS_DATE: /^date:\s*["']?(\d{4}-\d{2}-\d{2}(?:T.*)?)/m,
   HTML_COMMENTS: /<!--[\s\S]*?-->/,
+  HAS_IMAGE: /^image:\s*["']?.*["']?/m,
 };
 
 // --- Execution Mode ---
@@ -103,6 +104,13 @@ async function auditFile(filePath: string): Promise<boolean> {
       console.warn(`⚠️ [MISSING_FAQ] ${filePath} is missing FAQ section.`);
       // FAQ is a warning, doesn't fail build
     }
+  }
+
+  // 4. Image Warning (Warning only for now until old posts are updated)
+  if (!CHECKS.HAS_IMAGE.test(content) && !isStaticPage) {
+    console.warn(
+      `⚠️ [MISSING_IMAGE] ${filePath} is missing 'image' in frontmatter.`,
+    );
   }
 
   return passed;

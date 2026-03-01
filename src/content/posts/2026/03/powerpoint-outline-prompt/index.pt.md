@@ -24,15 +24,15 @@ image: "/images/hooks/powerpoint-outline-prompt.jpg"
 
 ![🔥 Estrutura de PPT em 1 Minuto: O Prompt de IA para PowerPoint que Antecipa a Hora de Ir Embora](/images/hooks/powerpoint-outline-prompt.jpg)
 
-O verdadeiro motivo pelo qual demoramos tanto para criar propostas e relatórios não é o design. Nossa energia é sugada logo na fase de estruturação: o eterno dilema de decidir o que dizer e em qual ordem. Com o prompt de hoje, o pesadelo da tela em branco acaba de vez. Basta informar seu público-alvo e o objetivo da apresentação. Em menos de um minuto, a IA entregará um roteiro detalhado e uma estratégia visual impecável para cada um dos seus slides.
+O verdadeiro motivo de demorarmos tanto para criar propostas e relatórios não é o design. Nossa energia é drenada logo na fase de estruturação: o eterno dilema de decidir o que dizer e em qual ordem. Com o prompt de hoje, o pesadelo da tela em branco acaba de vez. Basta informar seu público-alvo e o objetivo da apresentação. Em menos de um minuto, a IA entregará um roteiro detalhado e uma estratégia visual impecável para cada um dos seus slides.
 
 ---
 
 ## ⚡️ Resumo em 3 linhas (TL;DR)
 
 1. O segredo de uma apresentação de impacto não está em um design complexo, mas em uma estrutura lógica inabalável.
-2. Ao definir seu público, objetivo e tempo disponível, a IA calibra automaticamente o volume ideal de conteúdo e sugere a melhor abordagem visual para cada slide.
-3. Com um único prompt, você elimina de vez a temida "síndrome da tela em branco".
+2. Ao definir o público, o objetivo e o tempo disponível, a IA calibra automaticamente o volume ideal de conteúdo e sugere a melhor abordagem visual para cada slide.
+3. Com um único prompt, você elimina definitivamente a temida "síndrome da tela em branco".
 
 ---
 
@@ -40,7 +40,7 @@ O verdadeiro motivo pelo qual demoramos tanto para criar propostas e relatórios
 
 ### 🥉 Basic Version (Versão Básica)
 
-Ideal para quando você precisa de um rascunho rápido.
+Ideal para quando você precisa apenas de um rascunho rápido.
 
 > **Papel:** Você é um `[Especialista em apresentações corporativas com 10 anos de experiência]`.
 > **Tarefa:** Estruture um índice de 10 slides para uma `[Proposta de lançamento de um novo produto]`.
@@ -78,9 +78,9 @@ Perfeita para quando a situação exige um alto nível de detalhamento e precis�
 
 ## 💡 Comentário do Autor (Insight)
 
-O verdadeiro poder deste prompt está em sua capacidade de extrair, de uma só vez, a espinha dorsal da narrativa, as sugestões visuais e o roteiro exato da apresentação. O grande truque é forçar a IA — que costuma apenas cuspir blocos densos de texto — a fornecer direcionamentos práticos e visuais, como "utilize um gráfico de funil para mostrar a conversão".
+O verdadeiro poder deste prompt está na sua capacidade de extrair, de uma só vez, a espinha dorsal da narrativa, as sugestões visuais e o roteiro exato da apresentação. O grande truque é obrigar a IA — que costuma apenas cuspir blocos densos de texto — a fornecer direcionamentos práticos e visuais, como "utilize um gráfico de funil para mostrar a conversão".
 
-Existe uma verdade absoluta que aprendi na trincheira corporativa após estruturar centenas de propostas: diretores e clientes não aprovam projetos por causa de fontes bonitas ou transições extravagantes. Eles compram lógicas blindadas que respondem rapidamente à pergunta: "aonde você quer chegar?". Pare de perder tempo garimpando o template perfeito. Se a sua narrativa for sólida, texto preto no fundo branco é suficiente para arrancar um "sim". Use este prompt para montar o esqueleto da apresentação em um minuto e invista o tempo economizado no que realmente gera valor — ou simplesmente vá para casa mais cedo. É assim que os profissionais de alto nível operam.
+Existe uma verdade absoluta que aprendi na trincheira corporativa após estruturar centenas de propostas: diretores e clientes não aprovam projetos por causa de fontes bonitas ou transições extravagantes. Eles compram lógicas blindadas que respondem rapidamente à pergunta: "aonde você quer chegar?". Pare de perder tempo garimpando o template perfeito. Se a sua narrativa for sólida, texto preto em fundo branco é suficiente para arrancar um "sim". Use este prompt para montar o esqueleto da apresentação em um minuto e invista o tempo economizado no que realmente gera valor — ou simplesmente vá para casa mais cedo. É assim que os profissionais de alto nível operam.
 
 ---
 

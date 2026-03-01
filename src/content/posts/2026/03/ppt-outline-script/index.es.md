@@ -1,43 +1,44 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "📊 Escape del infierno del PPT: Prompt para generar índices y guiones por diapositiva automáticamente"
+title: "📊 Escapa del infierno del PPT: Prompt para generar la estructura y el guion de tus presentaciones automáticamente"
 author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "Automatización del trabajo"
-description: "No pases la noche en vela preparando tu presentación. Un prompt práctico que genera desde el índice hasta el guion de cada diapositiva en solo 1 minuto."
+description: "Deja de perder noches enteras frente a una diapositiva en blanco. Descubre el prompt definitivo que estructura tu presentación y redacta el guion exacto en menos de 1 minuto."
+image: "/images/hooks/powerpoint-outline-prompt.jpg"
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ppt-outline-scr"]
 ---
-# 📝 Escape del infierno del PPT: Prompt para generar índices y guiones por diapositiva automáticamente
-- **🎯 Recomendado para:** Especialistas en marketing, planificadores, empleados en su primer año, desarrolladores con presentaciones pendientes
-- **⏱️ Tiempo estimado:** De 3 horas → a 1 minuto
-- **🤖 Modelos recomendados:** Cualquier IA conversacional (Claude 3.5 Sonnet, ChatGPT, etc.)
+# 📝 Escapa del infierno del PPT: Prompt para generar la estructura y el guion de tus presentaciones automáticamente
+- **🎯 Recomendado para:** Marketers, project managers, perfiles junior y desarrolladores que deben presentar resultados.
+- **⏱️ Tiempo estimado:** De 3 horas → 1 minuto
+- **🤖 Modelos recomendados:** Cualquier IA conversacional (Claude 3.5 Sonnet, ChatGPT, Gemini, etc.)
 - ⭐ **Dificultad:** ⭐⭐☆☆☆
 - ⚡️ **Eficacia:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-_¿Tienes una presentación mañana y llevas 30 minutos mirando una diapositiva en blanco?_
-Mucho más doloroso que el diseño del PPT es la fase de planificación: "qué decir, en qué orden y cómo decirlo". Este prompt reúne tus ideas fragmentadas y las transforma instantáneamente en una estructura perfecta por diapositiva, junto con un guion de 1 minuto para cada una. Ahora, solo concéntrate en el diseño.
+_¿Tienes una presentación clave mañana y llevas media hora mirando una diapositiva en blanco?_
+Lo más frustrante de crear un PPT no es el diseño, sino la planificación: estructurar el relato, decidir el orden y elegir las palabras exactas. Este prompt toma tus ideas sueltas y las transforma al instante en un esqueleto perfecto diapositiva por diapositiva, incluyendo un guion de un minuto para cada una. A partir de ahora, solo tendrás que preocuparte de ponerlo bonito.
 
 ---
 ## ⚡️ Resumen en 3 líneas (TL;DR)
-1. No empieces desde cero. Solo proporciona el mensaje clave y la IA estructurará el índice por ti.
-2. Puedes recibir recomendaciones de elementos visuales (gráficos, imágenes, etc.) necesarios para cada diapositiva.
-3. El guion se genera al mismo tiempo, lo que te permite ahorrar tiempo para practicar tu presentación.
+1. **Cero bloqueos creativos:** Introduce tu mensaje central y deja que la IA construya el hilo conductor de la presentación.
+2. **Dirección de arte incluida:** Recibe sugerencias precisas sobre qué elementos visuales (gráficos, diagramas, imágenes) necesita cada diapositiva.
+3. **Guion listo para leer:** Genera automáticamente el discurso exacto para cada slide, ahorrándote horas de ensayo y error.
 
 ---
-## 🚀 Solución: "El Creador de Estructuras para Diapositivas"
+## 🚀 Solución: "El Arquitecto de Presentaciones"
 
 ### 🥉 Versión Básica (Basic Version)
-Úsala cuando quieras establecer rápidamente el flujo general de la presentación.
+Úsala cuando necesites trazar rápidamente el esquema general de tu presentación.
 
 > **Rol:** Eres un `[Experto en planificación y presentaciones con 10 años de experiencia]`.
 > **Tarea:** Prepara un índice para un PPT de 10 diapositivas sobre `[El lanzamiento de un nuevo servicio]` y resume el mensaje clave para cada diapositiva.
 
 ### 🥇 Versión Profesional (Pro Version)
-Úsala cuando necesites una planificación detallada y un guion que cautive a tu audiencia.
+Úsala cuando te juegues mucho y necesites una narrativa estratégica con un guion diseñado para persuadir.
 
-> **Rol (Role):** Eres un `[Director de presentaciones]` en una empresa top de Silicon Valley. Eres experto en estructuración y storytelling para cautivar a la audiencia.
+> **Rol (Role):** Eres un `[Director de Presentaciones]` en una empresa tecnológica top de Silicon Valley. Eres un maestro en estructuración y storytelling diseñado para persuadir a la audiencia.
 >
 > **Contexto (Context):**
 >
@@ -48,44 +49,44 @@ Mucho más doloroso que el diseño del PPT es la fase de planificación: "qué d
 >
 > **Tarea (Task):**
 >
-> 1. Crea un índice general para las diapositivas, comenzando con una apertura que capte la atención de la audiencia.
-> 2. Asegúrate de incluir los siguientes 4 elementos en cada diapositiva:
->    - Título de la diapositiva (Headline)
->    - Recomendación de elementos visuales para la pantalla (Visual Idea)
->    - Texto principal de la diapositiva (Key Message)
->    - El guion exacto que dirá el presentador (En tono conversacional, de aproximadamente 1 minuto por diapositiva)
-> 3. Deja las variables `[Tema]`, `[Audiencia]`, `[Tiempo de presentación]` y `[Objetivo principal]` entre corchetes para que el usuario pueda rellenarlas.
+> 1. Diseña el esquema completo de la presentación, comenzando con un gancho inicial (Hook) que atrape a la audiencia desde el primer segundo.
+> 2. Para cada diapositiva, debes generar obligatoriamente estos 4 elementos:
+>    - Titular de la diapositiva (Headline)
+>    - Propuesta visual para la pantalla (Visual Idea)
+>    - Mensaje clave de la diapositiva (Key Message)
+>    - El guion exacto que recitará el ponente (En tono natural y persuasivo, ajustado a 1 minuto por diapositiva)
+> 3. Mantén las variables `[Tema]`, `[Audiencia]`, `[Tiempo de presentación]` y `[Objetivo principal]` entre corchetes para que el usuario pueda personalizarlas después.
 >
 > **Restricciones (Constraints):**
 >
-> - Minimiza la jerga técnica y utiliza un lenguaje empresarial fácil de entender para la audiencia.
-> - En lugar del típico "Buenos días", el guion debe comenzar con una pregunta directa que apunte al problema (Pain Point) de la audiencia.
-> - El formato de salida debe ser una lista fácil de leer, organizada por número de diapositiva.
+> - Evita la jerga técnica innecesaria; utiliza un lenguaje de negocios claro y orientado al impacto.
+> - Prohibido empezar con el clásico y aburrido "Buenos días". El guion de la primera diapositiva debe arrancar con una pregunta provocadora que toque directamente el mayor punto de dolor (Pain Point) de la audiencia.
+> - Presenta el resultado en un formato de lista estructurada y limpia, ordenada por el número de diapositiva.
 >
 > **Advertencia (Warning):**
 >
-> - En lugar de expresiones vagas (ej. "Será de gran ayuda"), presenta beneficios y resultados concretos. (Para evitar alucinaciones).
+> - No utilices afirmaciones genéricas (ej. "Esto mejorará la eficiencia"). Sustitúyelas por beneficios tangibles y proyecciones concretas para evitar alucinaciones.
 
 ---
 ## 💡 Comentario del Autor (Insight)
-El Síndrome de la Página en Blanco (Blank Canvas Syndrome). Esta es la fase donde los profesionales pierden más tiempo al abrir PowerPoint. Este prompt fue diseñado para completar el 100% de la planificación en un bloc de notas o Word, antes de siquiera abrir la herramienta de diseño.
+El temido "Síndrome del Lienzo en Blanco". Es exactamente aquí donde la mayoría de los profesionales quema horas valiosas al abrir PowerPoint. Diseñé este prompt con un único objetivo: obligarte a cerrar el programa de diseño y resolver el 100% de la arquitectura narrativa en un simple bloc de notas.
 
-La clave está en definir claramente la variable `[Audiencia]`. Si va dirigido a técnicos, se generará un guion centrado en "cómo implementarlo"; si va dirigido a ejecutivos, el enfoque será "reducción de costes y mitigación de riesgos".
+El verdadero poder de este prompt reside en la variable `[Audiencia]`. Si te diriges a un equipo de ingeniería, la IA construirá un discurso enfocado en el "cómo" y la viabilidad técnica; pero si presentas ante el comité de dirección (C-Level), pivotará automáticamente hacia el ROI, la reducción de costes y la mitigación de riesgos.
 
-Por experiencia, no recomiendo leer palabra por palabra el guion generado por la IA. Deja que la IA se encargue del 80% de la estructura y el flujo, y añade tu propia experiencia de campo o métricas internas específicas en el 20% restante. Terminarás tu trabajo 3 horas antes y la calidad de tu presentación se duplicará.
+Un consejo desde las trincheras: no te memorices el guion de la IA palabra por palabra. Deja que el modelo resuelva el 80% del trabajo pesado (estructura, transiciones y ritmo), y reserva tu energía para inyectar ese 20% de magia humana: anécdotas reales, datos confidenciales de la empresa y tu carisma personal. Ahorrarás horas de frustración y el impacto de tu presentación se multiplicará por dos.
 
 ---
 ## 🙋 Preguntas Frecuentes (FAQ)
-- **P: ¿Puedo aumentar o reducir el número de diapositivas?**
-  - R: Sí. Simplemente cambia la variable `[Tiempo de presentación]` en el Contexto (Context) a 5 minutos (5 diapositivas) o 30 minutos (30 diapositivas), y la IA ajustará automáticamente el ritmo y la longitud del guion.
-- **P: ¿Qué hago si el tono conversacional suena poco natural?**
-  - R: Puedes darle una instrucción adicional (Follow-up prompt) diciendo: "Modifica el tono del guion para que suene más firme y seguro, con un enfoque más corporativo", y el resultado será mucho más natural.
+- **P: ¿Puedo ajustar la longitud de la presentación?**
+  - R: Totalmente. Solo tienes que modificar la variable `[Tiempo de presentación]` en el bloque de Contexto. Si pones "5 minutos (5 diapositivas)" o "30 minutos (30 diapositivas)", la IA recalculará automáticamente la densidad de la información y el ritmo del guion.
+- **P: El guion suena un poco robótico o poco natural. ¿Cómo lo arreglo?**
+  - R: Lanza un prompt de seguimiento (Follow-up) como este: *"Ajusta el tono del guion para que suene más asertivo, directivo y propio de una reunión ejecutiva de alto nivel"*. Verás cómo la narrativa cambia radicalmente.
 
 ---
 ## 🧬 Anatomía del Prompt (Why it works?)
-1. **Storytelling orientado al público objetivo:** En lugar de un simple "Hazme un PPT", especificar la `[Audiencia]` y el `[Objetivo principal]` obliga a la IA a centrarse en la 'persuasión' y no en una simple enumeración de información.
-2. **Separación de los elementos visuales (Visual Idea):** La IA planifica de antemano la parte más frustrante de crear un PPT ("¿Qué imagen pongo aquí?"), aliviando la carga durante la fase de diseño.
-3. **Instrucción de guion conversacional:** Al diseñar la Tarea (Task) para separar el texto en pantalla (resumen) de las palabras del presentador (explicación), se logra una estructura de presentación perfecta.
+1. **Storytelling centrado en la audiencia:** A diferencia del perezoso *"Hazme un PPT sobre X"*, obligar a la IA a procesar las variables `[Audiencia]` y `[Objetivo principal]` transforma un mero volcado de datos en una herramienta de persuasión estratégica.
+2. **Dirección de arte delegada (Visual Idea):** Al exigirle a la IA que imagine el soporte visual antes de abrir PowerPoint, eliminas de raíz la parálisis por análisis del estilo *"¿Qué imagen pongo aquí?"*.
+3. **Desacoplamiento Texto/Discurso:** La Tarea (Task) fuerza a la IA a separar el texto proyectado en la pantalla (que debe ser mínimo) de lo que el ponente dice en voz alta (el argumento real). Esta es la regla de oro de las presentaciones profesionales.
 
 ---
 ## 📊 Demostración: Antes y Después (Before & After)
@@ -106,5 +107,5 @@ Diapositiva 2: Los costes ocultos que estamos desperdiciando (Pain Point)
 
 ---
 ## 🎯 Conclusión
-Si la planificación es sólida, la presentación será un éxito aunque el diseño sea un poco rústico.
-No pierdas el tiempo con animaciones llamativas. Usa este prompt para establecer la estructura y luego añade tus propios insights. ¡Es hora de salir del trabajo a tu hora! 🍷
+Si la arquitectura de tu historia es sólida, la presentación triunfará incluso con un diseño minimalista.
+Deja de perder el tiempo ajustando animaciones innecesarias. Utiliza este prompt para construir unos cimientos a prueba de balas, inyecta tu experiencia profesional y prepárate para brillar en tu próxima reunión. ¡Es hora de cerrar el portátil y salir a tu hora! 🍷

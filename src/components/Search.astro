@@ -241,7 +241,7 @@ const { variant = "hero" } = Astro.props;
       const results = fuse.search(query);
       const matchedPosts = results.map((result) => result.item);
 
-      renderResults(matchedPosts, resultsContainer);
+      renderResults(matchedPosts, resultsContainer, query);
     };
 
     inputEl.addEventListener("input", debounce(handleSearch, 300));
@@ -256,7 +256,7 @@ const { variant = "hero" } = Astro.props;
     });
   });
 
-  function renderResults(posts: SearchItem[], container: HTMLElement) {
+  function renderResults(posts: SearchItem[], container: HTMLElement, query: string) {
     container.innerHTML = "";
     container.style.display = "block";
 
@@ -289,7 +289,6 @@ const { variant = "hero" } = Astro.props;
 
       // [Analytics] Track Search Result Click
       link.addEventListener("click", () => {
-        const query = inputEl.value;
         trackEvent("select_content", {
           content_type: "search_result",
           search_term: query,

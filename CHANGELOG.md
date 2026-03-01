@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.12.1](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.12.0...v1.12.1) (2026-03-01)
+
+
+### Bug Fixes
+
+* [Agent] resolve 404 pagination and restore missing frontmatter images ([#305](https://github.com/TaeGuNi/helloprompt.kr/issues/305)) ([0d488fc](https://github.com/TaeGuNi/helloprompt.kr/commit/0d488fc1aece269d3d1793ad064da25eca06acaa))
+
 ## [1.12.0](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.11.3...v1.12.0) (2026-03-01)
 
 

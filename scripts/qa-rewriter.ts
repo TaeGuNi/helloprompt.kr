@@ -72,7 +72,7 @@ Your job is to REVISE the provided Markdown file for perfect native fluency whil
 5. **TEMPLATE RULES:** 
    - Basic/Pro sections use blockquotes (>)
    - Tables for ratings are BANNED. You MUST use emoji lists (e.g. - ⭐ **Difficulty:** ⭐⭐☆☆☆).
-   - DO NOT add an 'image' property.
+   - PRESERVE the 'image' property exactly as it is in the original frontmatter if it exists.
 6. **TEMPLATE VARIABLES:** You MUST completely translate any placeholder brackets \`[Like This]\` into the target language context. NEVER leave Korean text inside brackets like \`[한국어]\`.
    
 RETURN FORMAT:

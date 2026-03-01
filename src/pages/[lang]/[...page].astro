@@ -4,7 +4,8 @@ import Search from "../../components/Search.astro";
 import { LANGUAGES } from "../../i18n/languages";
 import Layout from "../../layouts/Layout.astro";
 import { formatDate } from "../../utils/dateUtils";
-import type { Post } from "../../utils/postUtils";
+
+// Removed unused Post import
 
 const paramLang = Astro.params.lang as string;
 // [...page] catches both undefined (page 1) and string numbers (e.g. '2')
@@ -27,7 +28,12 @@ const allPosts = await getCollection("posts", ({ data }) => {
 });
 
 // 2. 언어별 포스트만 필터링
-const posts = allPosts.filter((post) => post.id.endsWith(`index${paramLang}`));
+const posts = allPosts.filter(
+  (post) =>
+    post.id.endsWith(`index${paramLang}`) ||
+    post.id.endsWith(`index.${paramLang}`) ||
+    post.id.endsWith(`index.${paramLang}.md`),
+);
 
 // 3. 페이지네이션 데이터 조립(수동)
 const formattedPosts = posts.map((post) => {

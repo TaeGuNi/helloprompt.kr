@@ -5,126 +5,141 @@ author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: " "
-description: "Un prompt pratique qui analyse parfaitement l'offre d'emploi (fiche de poste) et rédige en 1 minute une lettre de motivation sur mesure, correspondant à 100 % à votre expérience."
+description: "Un prompt surpuissant qui décode l'offre d'emploi et rédige en 1 minute une lettre de motivation sur mesure, parfaitement alignée avec votre expérience."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "resume-cover-le"]
 ---
 # 📝 Multipliez votre taux de réussite par 5 avec ce prompt de lettre de motivation basé sur la fiche de poste 🚀
 
-- **🎯 Recommandé pour :** Développeurs, marketeurs, chefs de produit et jeunes diplômés avec 1 à 3 ans d'expérience préparant un changement d'emploi.
-- **⏱️ Temps requis :** Réduit de 3 heures à 1 minute.
+- **🎯 Recommandé pour :** Développeurs, marketeurs, chefs de produit et jeunes diplômés (1 à 3 ans d'expérience) en pleine transition professionnelle.
+- **⏱️ Temps requis :** De 3 heures à 1 minute.
 - **🤖 Modèles recommandés :** Claude 3.5 Sonnet (excellent pour la rédaction), ChatGPT Plus.
+
 - ⭐ **Difficulté :** ⭐⭐☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
 - 🚀 **Utilité :** ⭐⭐⭐⭐⭐
 
-_"Une lettre de motivation copiée-collée est rejetée en 3 secondes. Extrayez de votre expérience « ces mots » que le recruteur veut entendre."_
+> _"Une lettre de motivation générique est rejetée en 3 secondes. Apprenez à extraire de votre parcours les mots exacts que le recruteur veut entendre."_
 
-Le moment le plus pénible lors d'une recherche d'emploi est de fixer un écran vide. Rédiger une nouvelle lettre de motivation pour chaque offre d'emploi (fiche de poste) est une énorme perte de temps. Ce prompt relie avec précision vos « expériences (parcours) » fragmentées aux « compétences clés (fiche de poste) » exigées par l'entreprise, générant en seulement 1 minute une lettre de motivation sur mesure, méticuleusement rédigée comme si elle était exclusivement destinée à cette entreprise.
+Le moment le plus frustrant lors d'une recherche d'emploi est de fixer une page blanche. Rédiger une nouvelle lettre de motivation pour chaque offre (fiche de poste) est une perte de temps colossale. Ce prompt relie avec une précision chirurgicale vos « expériences » disparates aux « compétences clés » exigées par l'entreprise. En seulement 1 minute, il génère une lettre de motivation sur mesure, si finement rédigée qu'elle semble avoir été écrite exclusivement pour ce poste.
 
 ---
 
 ## ⚡️ Résumé en 3 lignes (TL;DR)
-- 📌 **Décodage parfait de la fiche de poste :** L'IA analyse d'abord les intentions cachées et les mots-clés de l'offre d'emploi.
-- 📌 **Mise en correspondance des expériences :** Parmi les nombreuses expériences de votre CV, elle ne sélectionne que les exemples qui correspondent le plus fortement à la fiche de poste.
-- 📌 **Application de la méthode STAR :** Elle structure un texte convaincant et concret selon le modèle Situation, Tâche (Task), Action, Résultat (Result).
+
+- 📌 **Décodage expert de l'offre :** L'IA analyse d'abord les intentions cachées et les mots-clés stratégiques de l'annonce.
+- 📌 **Ciblage des expériences :** Parmi toutes vos expériences, elle ne retient que celles qui résonnent le plus avec le poste visé.
+- 📌 **Méthode STAR intégrée :** Elle structure un argumentaire percutant et concret selon le modèle Situation, Tâche, Action, Résultat.
 
 ---
 
-## 🚀 La solution : « Générateur de lettre de motivation sur mesure basé sur la fiche de poste »
+## 🚀 La solution : "Générateur de lettre de motivation sur mesure"
 
-### 🥉 Version Basique (Basic Version)
-Utilisez-la lorsque vous souhaitez obtenir rapidement un brouillon.
+### 🥉 Basic Version (Version basique)
 
-> **Rôle :** Tu es un chasseur de têtes avec 10 ans d'expérience et un consultant expert en CV.
-> **Tâche :** Sur la base de `[Mon parcours]` et de `[L'offre d'emploi]` ci-dessous, rédige un brouillon de lettre de motivation pour postuler à cette entreprise. Inclus les motivations, les compétences professionnelles, ainsi que les points forts et les points faibles de ma personnalité.
+Utilisez cette version pour obtenir rapidement un premier brouillon.
+
+> **Rôle :** Tu es un chasseur de têtes avec 10 ans d'expérience et un consultant expert en recrutement.
+> **Tâche :** En te basant sur `[Mon parcours]` et `[L'offre d'emploi]` ci-dessous, rédige un brouillon de lettre de motivation. Inclus mes motivations, mes compétences techniques, ainsi que mes qualités et axes d'amélioration.
 > 
-> [Mon parcours] : (Collez ici votre CV ou vos expériences clés)
-> [L'offre d'emploi] : (Collez ici le texte de l'offre d'emploi de l'entreprise à laquelle vous postulez)
+> `[Mon parcours]` : (Collez ici votre CV ou la liste de vos expériences clés)
+> `[L'offre d'emploi]` : (Collez ici le texte complet de l'offre d'emploi visée)
 
-### 🥇 Version Pro (Pro Version)
-Utilisez-la lorsque vous avez besoin de détails précis pour maximiser vos chances de passer la sélection sur dossier.
+### 🥇 Pro Version (Version expert)
 
-> **Rôle (Role) :** Tu es un recruteur senior dans une entreprise informatique mondiale de premier plan et un coach de carrière expert qui maximise les points forts des candidats.
+Utilisez cette version pour un niveau de détail chirurgical afin de maximiser vos chances de passer le filtre des recruteurs.
+
+> **Rôle (Role) :** Tu es un recruteur senior dans une entreprise Tech de premier plan et un coach de carrière expert pour sublimer le potentiel des candidats.
 >
 > **Contexte (Context) :**
 >
-> - Contexte : Je suis un professionnel avec `[Années d'expérience]` années d'expérience préparant un changement d'emploi pour le poste de `[Poste visé]`.
-> - Objectif : Analyser parfaitement `[L'offre d'emploi (fiche de poste)]` fournie, et rédiger une lettre de motivation sur mesure qui séduira les recruteurs en la faisant correspondre à mes `[Expériences clés]`.
+> - Contexte : Je suis un professionnel avec `[Années d'expérience]` années d'expérience, préparant une candidature pour le poste de `[Poste visé]`.
+> - Objectif : Analyser parfaitement `[L'offre d'emploi]` fournie, et rédiger une lettre de motivation sur mesure, irrésistible pour les recruteurs, en faisant le pont avec mes `[Expériences clés]`.
 >
 > **Tâche (Task) :**
 >
-> 1. Tout d'abord, extrais 3 mots-clés essentiels concernant les compétences techniques (Hard Skills) et le savoir-être (Soft Skills) les plus demandés dans `[L'offre d'emploi (fiche de poste)]`.
-> 2. En associant les mots-clés extraits à mes `[Expériences clés]`, rédige une lettre de motivation répondant à 3 critères : motivations, compétences professionnelles (exemples de résolution de problèmes) et ambitions après l'embauche.
-> 3. Chaque section doit inclure un sous-titre, et le corps du texte doit strictement appliquer la méthode STAR (Situation, Task, Action, Result).
-> 4. Enfin, résume en 3 lignes des « points d'amélioration et retours » sur la lettre de motivation générée, du point de vue d'un recruteur senior.
+> 1. Extrais d'abord les 3 mots-clés les plus critiques concernant les Hard Skills et Soft Skills demandés dans `[L'offre d'emploi]`.
+> 2. En associant ces mots-clés à mes `[Expériences clés]`, rédige une lettre de motivation articulée autour de 3 axes : motivations, compétences professionnelles (avec un exemple de résolution de problème) et ambitions post-embauche.
+> 3. Chaque section doit inclure un sous-titre clair. Le corps du texte doit impérativement suivre la méthode STAR (Situation, Task, Action, Result).
+> 4. Enfin, fournis un résumé en 3 points contenant tes "retours et axes d'amélioration" sur cette lettre, en adoptant le point de vue d'un recruteur senior.
 >
 > **Informations d'entrée (Input) :**
 >
-> - Poste visé : `(Ex : Performance Marketer / Développeur Front-end)`
-> - Années d'expérience : `(Ex : 3)`
-> - Offre d'emploi (fiche de poste) : `(Copiez/collez les missions principales, les prérequis et les atouts de l'offre d'emploi)`
-> - Expériences clés : `(Énumérez brièvement vos réalisations, les projets menés, les outils utilisés, etc., sous forme de points)`
+> - Poste visé : `[Ex : Performance Marketer / Développeur Front-end]`
+> - Années d'expérience : `[Ex : 3]`
+> - L'offre d'emploi : `[Copiez-collez les missions, prérequis et atouts de l'offre]`
+> - Expériences clés : `[Énumérez brièvement vos réalisations, projets, outils sous forme de puces]`
 >
 > **Contraintes (Constraints) :**
 >
-> - Le format de sortie doit être proprement structuré en Markdown.
-> - N'invente jamais de faits ou de résultats (chiffres) qui ne figurent pas dans mon expérience. Comble les lacunes par des ambitions logiques. (Prévention des hallucinations)
-> - Le ton doit être professionnel et confiant, mais sans exagération et sobre.
-> - Évite les répétitions inutiles de sujets tels que « Je », « Mon ».
+> - Le résultat doit être formaté proprement en Markdown.
+> - N'invente jamais d'expériences ou de chiffres qui ne figurent pas dans mes informations. Comble les éventuelles lacunes par des ambitions logiques et justifiées. (Zéro hallucination).
+> - Adopte un ton professionnel, confiant, mais sobre et sans arrogance.
+> - Évite la répétition excessive des pronoms "Je" ou "Mon".
 
 ---
 
-## 💡 Commentaire de l'auteur (Insight)
-La véritable valeur de ce prompt ne réside pas dans la rédaction elle-même, mais dans le **« Décodage de la fiche de poste »**.
+## 💡 Le mot de l'auteur (Insight)
 
-L'erreur la plus fréquente des profils juniors lors de la rédaction d'une lettre de motivation est d'énumérer interminablement les expériences dont ils veulent se vanter. Objectivement, l'entreprise ne cherche pas à savoir à quel point vous êtes exceptionnel. Elle se demande : « Cette personne peut-elle résoudre les problèmes actuels de notre entreprise ? »
+La véritable puissance de ce prompt ne réside pas dans sa capacité à écrire, mais dans le **"Décodage de l'offre d'emploi"**.
 
-La première instruction du prompt Pro (extraction des mots-clés de compétences clés) comble précisément cet écart. L'IA analyse l'offre d'emploi pour comprendre ce que l'entreprise veut vraiment, et sélectionne dans votre arsenal d'expériences les armes les plus adaptées pour les combiner. 
+L'erreur classique des profils juniors est de lister interminablement leurs faits d'armes. Objectivement, le recruteur ne cherche pas à savoir à quel point vous êtes brillant dans l'absolu. Il se pose une seule question : "Cette personne peut-elle résoudre les problèmes actuels de mon équipe ?"
 
-Vous le comprendrez en l'essayant. L'angoisse de devoir remplir un volume de texte disparaîtra, et vous adopterez plutôt une réflexion stratégique : « Si je mets en valeur cette expérience avec ce mot-clé, l'impact sera bien plus fort ! » Laissez le brouillon à l'IA. Consacrez ensuite votre temps à lire ce brouillon et à y ajouter la « petite touche de détails authentiques » du terrain que vous seul connaissez. C'est la méthode de travail intelligente à l'ère de l'IA.
+La première instruction de la version Pro (l'extraction des mots-clés) comble exactement cette faille. L'IA scanne l'annonce pour comprendre les véritables besoins de l'entreprise, puis puise dans votre arsenal d'expériences les armes les plus pertinentes pour y répondre.
+
+Vous le constaterez dès le premier essai : l'angoisse de la page blanche disparaîtra pour laisser place à une réflexion stratégique ("Si je mets en valeur ce projet avec ce mot-clé, l'impact sera décuplé !"). Confiez le premier jet à l'IA. Utilisez ensuite votre temps pour affiner ce brouillon en y insufflant les détails authentiques du terrain que vous seul connaissez. C'est ainsi que l'on travaille intelligemment à l'ère de l'IA.
 
 ---
 
 ## 🙋 Foire aux questions (FAQ)
-- **Q : Que faire si le résultat semble trop robotique ou rigide ?**
-  - R : Soumettre le brouillon rédigé par l'IA tel quel est suicidaire. Vous ne devez conserver que l'ossature et la structure logique du brouillon, et retravailler impérativement le contexte et les nuances avec votre ton habituel. Ajoutez particulièrement des détails que vous seul connaissez dans la partie expliquant la résolution de problème (Action).
-- **Q : Cela fonctionne-t-il avec la version gratuite de ChatGPT ?**
-  - R : Oui, c'est possible. Cependant, pour la qualité de la rédaction et la capacité à saisir le contexte, les versions Claude 3.5 Sonnet ou ChatGPT Plus (GPT-4o) sont nettement plus précises. Pour un document aussi important qu'une lettre de motivation, utilisez de préférence un modèle performant.
-- **Q : Puis-je saisir mes informations personnelles ou des données confidentielles de l'entreprise ?**
-  - R : Absolument pas. Les chiffres d'affaires précis ou les informations confidentielles de votre ancien employeur doivent être masqués, par exemple en utilisant « augmentation de XX % » ou « projet B2B majeur ».
+
+- **Q : Que faire si le texte généré semble trop robotique ?**
+  - R : Envoyer un brouillon généré par l'IA tel quel est suicidaire. Conservez l'ossature et la structure logique, mais retravaillez impérativement les formulations pour qu'elles reflètent votre propre voix. Enrichissez particulièrement la partie "Action" avec des détails concrets que vous seul maîtrisez.
+
+- **Q : Est-ce que cela fonctionne avec la version gratuite de ChatGPT ?**
+  - R : Oui. Cependant, pour une rédaction nuancée et une compréhension fine du contexte, Claude 3.5 Sonnet ou ChatGPT Plus (GPT-4o) sont largement supérieurs. Pour un enjeu aussi crucial qu'une lettre de motivation, privilégiez un modèle de pointe.
+
+- **Q : Puis-je inclure des données confidentielles de mon entreprise actuelle ?**
+  - R : Absolument pas. Les chiffres d'affaires précis ou les secrets industriels de votre employeur précédent doivent être anonymisés (ex : "croissance à deux chiffres", "projet B2B majeur").
 
 ---
 
 ## 🧬 Anatomie du prompt (Why it works?)
-- 📌 **Persona (Attribution de rôle) :** En attribuant le rôle de « recruteur senior », l'IA ne se contente pas d'écrire un texte fluide ; elle adopte un regard aiguisé qui répond aux critères stricts du marché de l'emploi.
-- 📌 **Chain-of-Thought (Guidage de la pensée) :** Au lieu de lui demander d'écrire à l'aveugle, on impose des étapes logiques « Analyse de la fiche de poste → Correspondance des expériences → Application de la méthode STAR », évitant ainsi les sauts logiques et les hors-sujets.
-- 📌 **Anti-Hallucination (Prévention des hallucinations) :** La contrainte stricte « N'invente pas de faits qui ne figurent pas dans l'expérience » bloque à la source la création de mensonges dangereux qui pourraient être découverts lors de l'entretien.
+
+1. **Persona (Attribution de rôle) :** En incarnant un "recruteur senior", l'IA ne fait pas que rédiger ; elle filtre et évalue le contenu selon les standards impitoyables du marché.
+2. **Chain-of-Thought (Guidage pas-à-pas) :** Au lieu d'une commande floue, le prompt impose un cheminement logique ("Analyse → Mise en correspondance → STAR"), évitant ainsi le hors-sujet.
+3. **Anti-Hallucination :** La contrainte "N'invente aucune donnée" bloque à la source les mensonges flatteurs de l'IA qui pourraient vous disqualifier en entretien.
 
 ---
 
-## 📊 Preuve : Avant & Après (Before & After)
-### ❌ Avant (Entrée : lors d'une requête textuelle classique)
-```text
-(Entrée : Rédige une lettre de motivation pour un développeur front-end. Je sais utiliser React et j'ai créé un site e-commerce dans ma précédente entreprise.)
+## 📊 Preuve : Before & After
 
-Depuis mon enfance, je suis passionné par les ordinateurs, c'est pourquoi je suis devenu développeur front-end. Dans ma précédente entreprise, j'étais en charge d'un projet de développement de site e-commerce utilisant React. J'ai toujours fait des efforts pour améliorer l'expérience utilisateur, et grâce à une communication fluide avec les membres de l'équipe, j'ai corrigé des bugs et résolu des problèmes...
+### ❌ Before (Saisie classique sans prompt structuré)
+
+```text
+(Prompt : Écris une lettre de motivation pour un poste de dev front-end. Je connais React et j'ai fait un site e-commerce dans mon ancienne boîte.)
+
+Depuis tout petit, je suis passionné par l'informatique, c'est pourquoi je suis devenu développeur front-end. Dans ma précédente entreprise, j'ai travaillé sur un site e-commerce avec React. J'ai toujours cherché à améliorer l'expérience utilisateur et grâce à une bonne communication avec mon équipe, j'ai corrigé plein de bugs...
 ```
-### ✅ Après (Résultat : avec l'application du prompt Version Pro)
-```text
-[Motivations : Basées sur l'analyse de la fiche de poste]
-Les défis clés de votre offre d'emploi concernant la « gestion du trafic mondial » et la « modularisation des composants » correspondent exactement aux problématiques que j'ai intensément étudiées et résolues lors de la création de la précédente plateforme e-commerce.
 
-[Compétences professionnelles : Expérience d'optimisation des performances d'un site e-commerce]
-- Situation : La vitesse de chargement de la page de détails des produits du site e-commerce existant dépassait les 3 secondes, entraînant un taux de rebond atteignant 40 %.
-- Task : J'ai fixé comme objectif de réduire la vitesse de chargement à moins d'une seconde grâce à l'optimisation du rendu React.
-- Action : Pour éviter les rendus inutiles, j'ai activement mis en place React.memo et useMemo, et appliqué le chargement différé (Lazy Loading) pour les images volumineuses.
-- Result : J'ai réduit le temps de chargement initial à 0,8 seconde (soit une diminution de 73 %), ce qui a permis d'améliorer le taux de rebond de la page de 15 points de pourcentage, un résultat tangible.
+### ✅ After (Résultat avec la Version Pro)
+
+```text
+[Motivations : Alignement avec vos enjeux]
+Les défis mentionnés dans votre offre concernant la "gestion de forts trafics" et la "modularisation des composants" résonnent particulièrement avec les problématiques d'architecture que j'ai résolues lors de la refonte de ma précédente plateforme e-commerce.
+
+[Compétences : Optimisation des performances front-end]
+- Situation : Le temps de chargement de la page produit de notre site e-commerce dépassait les 3 secondes, entraînant un taux de rebond de 40 %.
+- Task : Mon objectif était de réduire ce temps de chargement sous la barre d'une seconde en optimisant le rendu React.
+- Action : Pour éliminer les rendus superflus, j'ai implémenté de manière ciblée React.memo et useMemo, tout en déployant une stratégie de Lazy Loading pour les assets lourds.
+- Result : Le temps de chargement initial a été réduit à 0,8 seconde (baisse de 73 %), faisant chuter le taux de rebond de 15 points.
 
 [Retours du recruteur senior]
-La méthode STAR est clairement appliquée, mettant en évidence votre capacité à résoudre des problèmes. Cependant, ajouter une ligne concernant vos Soft Skills, notamment sur la façon dont vous avez collaboré avec d'autres départements (design, back-end) lors du processus de dépannage (troubleshooting), rendrait cette lettre de motivation encore plus parfaite.
+La structure STAR est percutante et démontre clairement votre capacité de résolution. Pour frôler la perfection, je vous suggère d'ajouter une brève ligne sur vos Soft Skills : expliquez comment vous avez collaboré avec les équipes Design ou Back-end durant cette phase d'optimisation.
 ```
+
 ---
+
 ## 🎯 Conclusion
-Un CV et une lettre de motivation ne sont pas un journal intime détaillant votre passé. C'est une **proposition commerciale** prouvant que vous pouvez résoudre les problèmes de l'entreprise.
-Grâce à ce prompt, libérez-vous de l'angoisse douloureuse de la page blanche et vendez stratégiquement votre expérience. Maintenant, rentrez tôt du travail ! 🍷
-```
+
+Une candidature n'est pas une autobiographie. C'est une **proposition de valeur** démontrant que vous êtes la solution aux problèmes de l'entreprise.
+Avec ce prompt, libérez-vous de l'angoisse de la page blanche et vendez votre expertise de manière chirurgicale. Préparez-vous pour vos entretiens ! 🍷

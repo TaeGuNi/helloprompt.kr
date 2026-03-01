@@ -18,10 +18,19 @@ export interface Post {
  */
 export function sortPostsByDate(posts: Post[]): Post[] {
   return posts.sort((a, b) => {
-    return (
-      new Date(b.frontmatter.date).valueOf() -
-      new Date(a.frontmatter.date).valueOf()
-    );
+    // 방어 로직: frontmatter나 date가 없으면 뒤로 밀어냄
+    const dateA = a?.frontmatter?.date
+      ? new Date(a.frontmatter.date).valueOf()
+      : 0;
+    const dateB = b?.frontmatter?.date
+      ? new Date(b.frontmatter.date).valueOf()
+      : 0;
+
+    // NaN인 경우(유효하지 않은 날짜 포맷) 0으로 취급하여 에러 방지
+    const valA = Number.isNaN(dateA) ? 0 : dateA;
+    const valB = Number.isNaN(dateB) ? 0 : dateB;
+
+    return valB - valA;
   });
 }
 
@@ -30,6 +39,9 @@ export function sortPostsByDate(posts: Post[]): Post[] {
  */
 export function filterPublishedPosts(posts: Post[]): Post[] {
   return posts.filter((post) => {
+    // 방어 로직: post나 frontmatter 객체가 없으면 무조건 필터링 제외 (안전 처리)
+    if (!post || !post.frontmatter) return false;
+
     // Draft(초안) 상태인 경우 제외
     if (post.frontmatter.draft === true) return false;
 

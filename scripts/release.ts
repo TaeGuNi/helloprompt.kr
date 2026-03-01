@@ -2,9 +2,13 @@ import { execSync } from "node:child_process";
 import { readFileSync } from "node:fs";
 
 try {
+  // 0. Pre-release QA Hook
+  console.log("🛡️ Running pre-release QA checks...");
+  execSync("pnpm qa", { stdio: "inherit" });
+
   // 1. Run standard-version
   console.log("\n📦 Running standard-version...");
-  execSync("npx standard-version", { stdio: "inherit" });
+  execSync("pnpm dlx standard-version", { stdio: "inherit" });
 
   // 2. Push to develop with tags
   console.log("\n🚀 Pushing changes to origin/develop...");

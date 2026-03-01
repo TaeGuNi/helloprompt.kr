@@ -44,28 +44,32 @@
 
 PR 생성 및 Merge 시 전체 프로젝트 스위트가 실행됩니다.
 
-- **Link Integrity (`lychee`):** [New] 모든 문서 및 코드 내의 내부/외부 링크 유효성 검사 (404 방지).
-- **Code Quality (`ESLint`):** [New] 전체 코드베이스에 대한 정적 분석 (잠재적 버그 탐지).
+- **Content Quality & Artifacts (`pnpm qa`):** [New] 본문 한글/주석 누락 여부(Phase 1) 및 sitemap, rss 생성물(Phase 2) 결함 시 Merge Block 강제.
+- **Link Integrity (`lychee`):** 모든 문서 및 코드 내의 내부/외부 링크 유효성 검사 (404 방지).
+- **Code Quality (`ESLint` & `Biome`):** 전체 코드베이스에 대한 정적 분석 (잠재적 버그 탐지).
 - **Unit Test (`Vitest`):** 로직 테스트.
 - **E2E Test (`Playwright`):** 사용자 시나리오 테스트.
 
 ## 3. 릴리즈 프로세스 (Release Process) [New]
 
-우리는 `standard-version`을 사용하여 시맨틱 버전을 관리하고 `CHANGELOG.md`를 자동 생성합니다.
+우리는 통합 CI 툴과 AI 에이전트(`gemini`)가 연계된 **Automated Release Engine (`scripts/release.ts`)**을 배포에 사용합니다.
 
 ### 🚀 버전 릴리즈 방법
 
-1. `develop` 브랜치에서 작업이 완료되면 다음 명령어를 실행합니다.
+1. `develop` 브랜치에서 모든 개발 및 로컬 테스트가 완료되면 다음 명령어를 실행합니다.
 
    ```bash
    pnpm release
    ```
 
-2. **자동화되는 작업:**
-   - `package.json` 버전 업 (v1.0.0 -> v1.1.0 등)
-   - `CHANGELOG.md` 업데이트 (커밋 내역 기반)
-   - Git Tag 생성 (v1.1.0)
-   - `git push` 및 태그 푸시
+2. **자동화되는 파이프라인 엔진 작업 상세:**
+   - **Branch Lock**: `develop` 브랜치가 아니면 즉시 실행을 중지하여 휴먼 에러 차단.
+   - **Garbage Cleanup**: `test-*.mjs`, `tmp-*` 등 임시 파일 및 스크립트를 식별 후 자동 삭제 + 보존 커밋 발행.
+   - **Quality Assurance**: `pnpm qa` 로컬 사전 무결성 검증 통과 후 진행.
+   - **Versioning**: `standard-version`이 실행되어 `package.json` 버전을 올리고 CHANGELOG.md 생성 후 태그 부착.
+   - **PR Template Injection**: `.github/pull_request_template.md`를 불러와 체크 항목을 기입하고 자동으로 GitHub PR(`gh pr create`) 생성.
+   - **CI Monitoring & Auto-Merge**: CI 상태(`gh pr status`)를 15초 단위로 모니터링하여 성공(`SUCCESS`) 시 `develop -> main` 자동 머지 커밋팅.
+   - **Zombie Protocol (Auto-Heal)**: CI가 `FAILURE` 발생 시, 스크립트가 죽지 않고 GitHub Actions 로그를 `gemini` AI에게 던진 뒤, 도출된 Raw Bash 수정 패치를 다운로드하여 다시 커밋 후 CI 재도전을 시도하는 자가 복구 무한 보호 루프 작동 (최대 3회).
 
 ## 4. 인프라 (Infrastructure)
 
@@ -76,15 +80,17 @@ PR 생성 및 Merge 시 전체 프로젝트 스위트가 실행됩니다.
 
 ## 5. SEO 및 기술적 검증
 
-배포 전, 로컬 빌드를 통해 기술적 SEO 요소를 검증할 수 있습니다.
+배포 전, 로컬 빌드를 통해 기술적 SEO 요소가 정상 생성되었는지 검증할 수 있습니다. 이미 배포 엔진에 포함되어 있습니다.
 
 ```bash
-pnpm build
-npx tsx scripts/qa/sitemap-check.ts
+pnpm qa
 ```
 
-- `robots.txt` 내 사이트맵 선언 여부 확인
-- `sitemap-index.xml` 생성 여부 확인
+위 통합 테스트는 Phase 2 단계에서 아래를 자동 검증합니다.
+
+- 빌드된 `dist/` 내부의 각 언어별 `search.json` 렌더링 검증
+- `sitemap.xml` 파싱 유효성 검증 및 갯수 밸런스 체크
+- `rss.xml`, `atom.xml` DOM 트리 구조 체크
 
 ## 6. 트러블 슈팅 (Troubleshooting)
 

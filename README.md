@@ -43,8 +43,8 @@ pnpm qa        # 전체 문서 품질 체크 (모바일 호환성, 필수 섹션
 pnpm test       # Unit Test
 pnpm test:e2e   # E2E Test
 
-# 5. 배포 (자동 검사 포함)
-pnpm run deploy
+# 5. 프로덕션 자동 배포 (Release Engine)
+pnpm release    # 임시파일 정리, QA 체크, Github PR 생성, CI 모니터링 및 자동 머지까지 한 번에 수행
 ```
 
 ## 📚 프로젝트 문서 (Documentation)
@@ -95,5 +95,6 @@ Hello Prompt는 오픈소스 커뮤니티의 기여를 환영합니다.
 - `src/content/posts/`: 블로그 글 (Markdown) (Master Collection)
 - `src/layouts/`: 레이아웃 및 디자인
 - `src/components/`: 재사용 가능한 UI 컴포넌트 (`RelatedPosts`, `AdUnit` 등)
-- `scripts/qa/`: 품질 검수 스크립트
+- `scripts/qa.ts`: 7,000+ 파일 통합 품질 검수 및 무결성 검증 파이프라인
+- `scripts/release.ts`: CI 자동화 로직 및 안전 배포 엔진 (좀비 상태 복구 포함)
 - `docs/`: 프로젝트 관리 문서

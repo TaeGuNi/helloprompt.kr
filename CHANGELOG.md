@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.12.4](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.12.3...v1.12.4) (2026-03-01)
+
+
+### Bug Fixes
+
+* **ci:** increase playwright webServer timeout and resolve astro package lockfile ([76b0cef](https://github.com/TaeGuNi/helloprompt.kr/commit/76b0cef09745843c3680183b4d158eda818fe85d))
+
 ### [1.12.3](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.12.2...v1.12.3) (2026-03-01)
 
 ### [1.12.2](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.12.1...v1.12.2) (2026-03-01)

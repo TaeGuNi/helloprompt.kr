@@ -34,10 +34,8 @@ export const GET: APIRoute = async (context) => {
     }
   });
 
-  const getUrlForLang = (basePath: string, lang: string) => {
-    const langPath = `/${lang}`;
-    return `${site}${langPath}${basePath}`;
-  };
+  const getUrlForLang = (basePath: string, lang: string) =>
+    `${site}/${lang}${basePath}`;
 
   /**
    * Helper: Calculates SEO properties (priority, changefreq) based on content age.

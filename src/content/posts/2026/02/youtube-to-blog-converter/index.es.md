@@ -5,13 +5,13 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "콘텐츠 크리에이팅"
-description: " \"El formato definitivo de OSMU (One Source Multi Use). Construye un pipeline automatizado para clonar infinitamente tu guion de YouTube y transformarlo en contenido para blogs, Instagram y Twitter.\""
+description: " \"El formato definitivo de OSMU (One Source Multi Use). Construye un pipeline automatizado para clonar infinitamente tu guion de YouTube y transformarlo en contenido para blogs, Instagram y X (Twitter).\""
 tags: ["유튜브", "블로그", "OSMU", "콘텐츠재가공", "ChatGPT"]
 ---
 
 # 📝 De Guion de YouTube a Blog: Cómo Crear 10 Publicaciones con un Solo Video
 
-- **🎯 Recomendado para:** Creadores de contenido exhaustos que, tras producir un video, abandonan su blog; *performance marketers* que buscan dominar múltiples plataformas con una sola pieza de contenido exitosa.
+- **🎯 Recomendado para:** Creadores de contenido exhaustos que abandonan su blog tras producir un video; *performance marketers* que buscan dominar múltiples plataformas con una sola pieza de contenido exitosa.
 - **⏱️ Tiempo requerido:** 3 horas → Reducido a 1 minuto
 - **🤖 Modelo recomendado:** ChatGPT-4o, Claude 3.5 Sonnet (Ideales para retener contextos extensos y adaptar el tono y estilo a cada plataforma)
 
@@ -21,15 +21,15 @@ tags: ["유튜브", "블로그", "OSMU", "콘텐츠재가공", "ChatGPT"]
 
 > _"Grabar un solo video ya es agotador. ¿A qué hora se supone que escriba para el blog y diseñe carruseles para Instagram?"_
 
-No empieces a planificar ni a escribir desde cero. Ese guion de YouTube (*script*) en el que tanto esfuerzo invertiste ya contiene todo el material clave. Lo único que necesitamos es adaptar el **formato** a las reglas de cada plataforma. Si le proporcionas a la IA el guion junto con un *prompt* bien estructurado, en tan solo 1 minuto obtendrás artículos de blog listos para dominar los motores de búsqueda y contenido para redes sociales diseñado para volverse viral.
+No empieces a planificar ni a escribir desde cero. Ese guion de YouTube (*script*) en el que invertiste tanto esfuerzo ya contiene todo el material clave. Lo único que necesitamos es adaptar el **formato** a las reglas de cada plataforma. Al proporcionarle a la IA tu guion junto con un *prompt* bien estructurado, en tan solo 1 minuto obtendrás artículos de blog listos para dominar los motores de búsqueda y contenido para redes sociales diseñado para volverse viral.
 
 ---
 
 ## ⚡️ Resumen en 3 líneas (TL;DR)
 
-1. **Asegura la fuente:** Extrae el guion exacto (subtítulos) de tu video desde YouTube Studio o usando una extensión del navegador.
+1. **Asegura la fuente:** Extrae el guion exacto (subtítulos) de tu video desde YouTube Studio o mediante una extensión del navegador.
 2. **Instruye la conversión a la IA:** Dale a la IA una orden clara: "Estructura este guion en un artículo de blog optimizado para SEO".
-3. **Multiplicación infinita (OSMU):** Reutiliza esa misma fuente para reciclar el contenido en formatos adaptados a Instagram, X (Twitter), LinkedIn, etc., y maximiza tu alcance orgánico.
+3. **Multiplicación infinita (OSMU):** Reutiliza esa misma fuente para reciclar el contenido en formatos adaptados a Instagram, X (Twitter), LinkedIn, etc., maximizando tu alcance orgánico.
 
 ---
 
@@ -42,7 +42,7 @@ No empieces a planificar ni a escribir desde cero. Ese guion de YouTube (*script
 > **Rol:** Eres un `[editor profesional con 10 años de experiencia]`.
 > **Tarea:** Convierte el `[guion del video de YouTube adjunto a continuación]` en un artículo de blog atractivo y fácil de leer. Transforma el tono coloquial y conversacional en un lenguaje escrito natural, y mejora la legibilidad dividiendo el texto en párrafos bien estructurados.
 >
-> [Inserta aquí el guion del video de YouTube]
+> `[Inserta aquí el guion del video de YouTube]`
 
 ### 🥇 Pro Version (Maestro Multiuso por Plataforma)
 
@@ -84,13 +84,13 @@ Por lo tanto, si simplemente le dices a la IA "conviértelo en texto", obtendrá
 ## 🙋 Preguntas Frecuentes (FAQ)
 
 - **P: ¿Cuál es la forma más fácil de extraer el guion (subtítulos) de YouTube?**
-  - R: Recomiendo encarecidamente la extensión de Chrome *YouTube Summary with ChatGPT & Claude*. Te permite copiar todo el guion de forma limpia, sin marcas de tiempo y con un solo clic. Si es tu propio video, descargar el archivo `.txt` desde la pestaña de "Subtítulos" en YouTube Studio es también una opción excelente.
+  - R: Recomiendo encarecidamente la extensión de Chrome *YouTube Summary with ChatGPT & Claude*. Te permite copiar todo el guion de forma limpia, sin marcas de tiempo y con un solo clic. Si es tu propio video, descargar el archivo `.txt` desde la pestaña de "Subtítulos" en YouTube Studio es también una excelente opción.
 
 - **P: Si publico el mismo contenido en varias plataformas, ¿no seré penalizado por *spam* o contenido duplicado?**
   - R: No tienes de qué preocuparte. YouTube (Google), Instagram (Meta) y X (Twitter) son ecosistemas independientes con algoritmos y motores de búsqueda distintos. De hecho, como el tono y el formato se adaptan a la intención de consumo de cada plataforma, esto funciona como una brillante estrategia *cross-media*, no como *spam*. Si tu objetivo principal es el SEO en portales de búsqueda, bastará con darle al título del artículo de blog una ligera variación respecto al del video original.
 
 - **P: El guion es demasiado largo y la IA se corta a la mitad o arroja un error.**
-  - R: Aunque modelos recientes como ChatGPT-4o o Claude 3.5 Sonnet soportan ventanas de contexto inmensas, si tu video dura más de 30 minutos, es mejor dividir el guion en dos partes. Utilizar un enfoque paso a paso —como "Resume la parte 1 primero" y luego "Continúa resumiendo la parte 2"— garantiza que no se pierda ningún detalle crucial y que se mantenga la coherencia total.
+  - R: Aunque modelos recientes como ChatGPT-4o o Claude 3.5 Sonnet soportan ventanas de contexto inmensas, si tu video dura más de 30 minutos, es mejor dividir el guion en dos partes. Utilizar un enfoque paso a paso —como "Resume la parte 1 primero" y luego "Continúa resumiendo la parte 2"— garantiza que no se pierda ningún detalle crucial y se mantenga la coherencia total.
 
 ---
 

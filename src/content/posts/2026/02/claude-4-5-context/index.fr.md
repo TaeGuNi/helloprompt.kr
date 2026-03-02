@@ -45,13 +45,13 @@ L'arme fatale pour débusquer des patterns spécifiques ou des failles critiques
 >
 > **Contexte (Context) :**
 >
-> - Contexte : Les documents fournis représentent un volume massif de `[Type de document : ex. états financiers, contrats, code legacy]` relatif à `[Nom du projet/de l'entreprise]`.
+> - Contexte : Les documents fournis représentent un volume massif de `[Type de document : ex. états financiers, contrats, code legacy]` relatif à `[Nom du projet ou de l'entreprise]`.
 > - Objectif : Identifier les risques latents (clauses abusives, bugs critiques, failles logiques) et prescrire des solutions actionnables.
 >
 > **Tâche (Task) :**
 >
 > 1. Procède à une vérification croisée exhaustive du million de jetons de données ci-joint, de la première à la toute dernière ligne.
-> 2. Isole et analyse avec précision l'ensemble du contexte lié à `[Mot-clé/Problème à analyser : ex. failles de sécurité, clauses de pénalité]`.
+> 2. Isole et analyse avec précision l'ensemble du contexte lié à `[Mot-clé ou problème à analyser : ex. failles de sécurité, clauses de pénalité]`.
 > 3. Hiérarchise les risques identifiés par niveau de criticité (Élevé/Moyen/Faible).
 >
 > **Contraintes (Constraints) :**
@@ -69,7 +69,7 @@ L'arme fatale pour débusquer des patterns spécifiques ou des failles critiques
 
 Toute la puissance de ce prompt réside dans sa capacité à **agir comme une boussole au milieu d'un océan informationnel**. Même si Claude 4.5 Opus avale sans broncher un million de jetons, une requête floue du type "résume-moi tout ça" vous fera irrémédiablement passer à côté des détails qui tuent (la fameuse aiguille).
 
-C'est précisément pour cela qu'il est impératif de cibler le `[Mot-clé/Problème à analyser]` et de forcer la sortie en tableau Markdown. En lui fournissant des coordonnées GPS précises, vous orientez l'IA dans les tréfonds de sa mémoire pour remonter exactement la donnée stratégique visée. C'est le secret absolu pour transformer une simple lecture automatisée en un véritable audit professionnel.
+C'est précisément pour cela qu'il est impératif de cibler le `[Mot-clé ou problème à analyser]` et de forcer la sortie en tableau Markdown. En lui fournissant des coordonnées GPS précises, vous orientez l'IA dans les tréfonds de sa mémoire pour remonter exactement la donnée stratégique visée. C'est le secret absolu pour transformer une simple lecture automatisée en un véritable audit professionnel.
 
 ---
 

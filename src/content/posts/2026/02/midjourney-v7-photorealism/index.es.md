@@ -9,9 +9,9 @@ description: "¡La guía definitiva de Midjourney v7! Descubre el meta-prompt se
 tags: ["Midjourney", "이미지 생성", "디자인", "프롬프트"]
 ---
 
-# 📝 Olvídate de la cámara: la guía definitiva para dominar el hiperrealismo en Midjourney v7
+# 📝 Olvídate de la cámara: La guía definitiva para dominar el hiperrealismo en Midjourney v7
 
-- **🎯 Recomendado para:** Diseñadores, creadores de contenido y directores ejecutivos que buscan reducir a cero sus costos de producción fotográfica.
+- **🎯 Recomendado para:** Diseñadores, creadores de contenido y directores de arte que buscan reducir a cero sus costos de producción fotográfica.
 - **⏱️ Tiempo requerido:** 5 minutos → 1 minuto (solo copiar y pegar).
 - **🤖 Modelo recomendado:** ChatGPT-4o (para el *prompt*) y Midjourney v7.
 
@@ -21,16 +21,16 @@ tags: ["Midjourney", "이미지 생성", "디자인", "프롬프트"]
 
 > _"¿Me creerías si te dijera que puedes ahorrarte miles de dólares en alquiler de estudios, modelos profesionales y equipos de iluminación con una sola línea de texto?"_
 
-Con el lanzamiento de Midjourney v7, la era de las imágenes con ese inconfundible "toque plástico de IA" ha llegado a su fin. Hemos entrado de lleno en el territorio del hiperrealismo fotográfico (*Photorealism*), alcanzando un nivel de detalle tan asombroso que incluso a los fotógrafos más experimentados les cuesta distinguir la realidad de la generación artificial. Sin embargo, para exprimir al máximo el potente motor de renderizado de esta nueva versión, tus *prompts* también deben evolucionar y alcanzar un nuevo nivel de sofisticación.
+Con la llegada de Midjourney v7, la era de las imágenes con ese inconfundible "toque de plástico de IA" ha llegado a su fin. Hemos entrado de lleno en el territorio del fotorrealismo absoluto (*Photorealism*), alcanzando un nivel de detalle tan asombroso que incluso a los fotógrafos más experimentados les cuesta distinguir la realidad de la generación artificial. Sin embargo, para exprimir al máximo el potente motor de renderizado de esta nueva versión, tus *prompts* también deben evolucionar y alcanzar un nivel de sofisticación sin precedentes.
 
-El *prompt* que te revelaré hoy no es para que lo introduzcas directamente en Midjourney. **Se trata de un "*meta-prompt*" estratégico, diseñado para transformar a ChatGPT en un director de fotografía publicitaria con 20 años de experiencia, cuya única misión es redactar automáticamente el *prompt* perfecto en inglés para Midjourney v7.**
+El *prompt* que te revelaré hoy no es para que lo introduzcas directamente en Midjourney. **Se trata de un "*meta-prompt*" estratégico, diseñado para transformar a ChatGPT en un director de fotografía comercial con 20 años de experiencia, cuya única misión es redactar automáticamente el *prompt* perfecto en inglés para Midjourney v7.**
 
 ---
 
 ## ⚡️ Resumen en 3 líneas (TL;DR)
 
-1. Midjourney v7 ha perfeccionado drásticamente la dispersión de la luz (*Lighting*) y la textura de la piel (*Texture*) para lograr un fotorrealismo absoluto.
-2. Si buscas "fotografías reales" y no simples "imágenes bonitas", es imprescindible especificar el tipo de lente, el rollo de película y el esquema de iluminación.
+1. Midjourney v7 ha perfeccionado drásticamente la dispersión de la luz (*Lighting*) y la textura de la piel (*Texture*) para lograr un fotorrealismo innegable.
+2. Si buscas "fotografías reales" y no simples "imágenes bonitas", es indispensable especificar el tipo de lente, la película fotográfica y el esquema de iluminación.
 3. No necesitas dominar la jerga técnica. Simplemente copia y pega este *meta-prompt* en ChatGPT para obtener configuraciones de nivel experto al instante.
 
 ---
@@ -54,8 +54,8 @@ Copia este texto y pégalo directamente en **ChatGPT (o Claude)**. ¡No lo intro
 >
 > **Contexto (Context):**
 >
-> - Necesito una fotografía hiperrealista de ultra alta resolución que represente `[describe el sujeto y la atmósfera; ej. una mujer coreana de 20 años tomando un café helado en una cafetería minimalista]`.
-> - Esta imagen será la portada de un *lookbook* de alta costura o el arte principal de un anuncio en una revista de lujo.
+> - Necesito una fotografía hiperrealista de ultra alta resolución que represente `[describe el sujeto y la atmósfera; ej. una mujer coreana de 20 años tomando un café helado en una cafetería de diseño minimalista]`.
+> - Esta imagen será la portada de un *lookbook* de alta costura o la imagen principal de una campaña publicitaria de lujo.
 >
 > **Tarea (Task):**
 >
@@ -63,7 +63,7 @@ Copia este texto y pégalo directamente en **ChatGPT (o Claude)**. ¡No lo intro
 >    - **Subject (Sujeto):** Describe expresiones faciales sutiles, la dirección de la mirada, la textura del vestuario (*Texture*) y detalles microscópicos de la piel como poros, pecas o vello facial.
 >    - **Camera Gear (Equipo fotográfico):** Distancia focal y apertura del diafragma (ej. 85mm f/1.2), y el modelo exacto de la cámara (ej. Sony A7R V, Hasselblad X2D).
 >    - **Lighting (Iluminación):** Dirección, calidad y tipo de fuente de luz (ej. Cinematic lighting, Rembrandt lighting, Softbox, Golden hour).
->    - **Atmosphere (Atmósfera y Color):** Etalonaje y corrección de color basados en el rollo de película fotográfica (ej. Moody tone, Kodak Portra 400, Fujifilm Superia).
+>    - **Atmosphere (Atmósfera y Color):** Etalonaje y corrección de color basados en películas fotográficas (ej. Moody tone, Kodak Portra 400, Fujifilm Superia).
 >    - **Parameters (Parámetros técnicos):** Al final del *prompt*, debes incluir obligatoriamente la cadena `--ar 16:9 --v 7 --style raw --q 2 --stylize 100`.
 > 2. Entrega el *prompt* en inglés generado dentro de un bloque de código para facilitar su copiado.
 > 3. Explica brevemente en español, desde tu perspectiva de experto, por qué has seleccionado esa lente específica y ese esquema de iluminación.
@@ -90,7 +90,7 @@ En su lugar, debes esculpir la luz con precisión quirúrgica utilizando términ
 ## 🙋 Preguntas Frecuentes (FAQ)
 
 - **Q: ¿Qué función exacta cumple el parámetro `--style raw` al final del *prompt*?**
-  - A: Es el comando fundamental para desactivar el filtro estético predeterminado que Midjourney aplica para hacer las imágenes más pictóricas. Al incluirlo, obligas al motor a entregar una imagen cruda, realista y sin adulterar, emulando el archivo RAW directo de una cámara profesional. Para el fotorrealismo, este parámetro no es negociable.
+  - A: Es el comando fundamental para desactivar el filtro estético predeterminado que Midjourney aplica para hacer las imágenes más pictóricas. Al incluirlo, obligas al motor a entregar una imagen cruda, realista y sin adulterar, emulando el archivo RAW directo de una cámara profesional. Para el fotorrealismo, este parámetro es innegociable.
 
 - **Q: En la versión 6 sufríamos con manos de 6 dedos o anatomías deformes. ¿Se ha solucionado esto en la v7?**
   - A: Rotundamente sí. En Midjourney v7, las alucinaciones anatómicas y los fallos en las articulaciones se han corregido en un 99%. Ahora puedes respirar tranquilo y concentrarte en la dirección de arte; el modelo renderizará con precisión milimétrica hasta la última hebra de cabello o las sutiles venas del dorso de la mano.
@@ -118,7 +118,7 @@ El clásico "aspecto de IA" que obtienes cuando improvisas un *prompt* básico s
 A korean woman drinking coffee in cafe --v 7
 ```
 
-- **Resultado:** Una textura de piel plástica, totalmente carente de poros e imperfecciones. Una composición plana, aburrida y con una iluminación difusa de origen incomprensible.
+- **Resultado:** Una textura de piel de plástico, totalmente carente de poros e imperfecciones. Una composición plana, aburrida y con una iluminación difusa de origen incomprensible.
 
 ### ✅ Después (Resultado aplicando el Prompt Pro)
 

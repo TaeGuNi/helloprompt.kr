@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "AI/개발"
-description: " \"Basta de modelos de IA que solo funcionan en local. Esta es la guía definitiva para transformar el código fragmentado de tus Jupyter Notebooks en un pipeline de producción totalmente automatizado.\""
+description: "Basta de modelos de IA que solo funcionan en local. Esta es la guía definitiva para transformar el código fragmentado de tus Jupyter Notebooks en un pipeline de producción totalmente automatizado."
 tags: ["MLOps", "Kubeflow", "머신러닝", "배포", "파이프라인"]
 ---
 
@@ -21,7 +21,7 @@ tags: ["MLOps", "Kubeflow", "머신러닝", "배포", "파이프라인"]
 
 > _"Mi modelo tiene un 99% de precisión en mi portátil... ¿por qué explota en cuanto lo subo al servidor?"_
 
-Subir un archivo de Jupyter Notebook (`.ipynb`) directamente a producción es jugar a la ruleta rusa con tu servidor. Olvídate del control de versiones, la escalabilidad o el reentrenamiento automático; es simplemente inviable. Un verdadero servicio de IA no termina al **entrenar el modelo**, ahí es exactamente donde empieza el reto: lograr un **despliegue estable y automatizado (MLOps)**. En esta guía, te entregamos los prompts definitivos para usar **Kubeflow** —el estándar de la industria— y construir un pipeline que cubra desde el preprocesamiento de datos hasta el despliegue final (serving) sin que tengas que mover un dedo.
+Subir un archivo de Jupyter Notebook (`.ipynb`) directamente a producción es como jugar a la ruleta rusa con tu servidor. Puedes ir olvidándote del control de versiones, la escalabilidad o el reentrenamiento automático; resulta simplemente inviable. Un verdadero servicio de IA no concluye al **entrenar el modelo**; de hecho, ahí es exactamente donde arranca el verdadero reto: lograr un **despliegue estable y automatizado (MLOps)**. En esta guía, te entregamos los prompts definitivos para dominar **Kubeflow** —el estándar absoluto de la industria— y construir un pipeline impecable que abarque desde el preprocesamiento de datos hasta el despliegue final (*serving*) sin que tengas que mover un solo dedo.
 
 ---
 
@@ -48,28 +48,28 @@ Subir un archivo de Jupyter Notebook (`.ipynb`) directamente a producción es ju
 
 Diseña la arquitectura de todo el pipeline en un solo movimiento: desde la ingesta de datos hasta la evaluación exhaustiva del modelo y su despliegue condicional.
 
-> **Rol (Role):** Eres un Arquitecto Principal de MLOps, máxima autoridad en Kubernetes y arquitecturas de Machine Learning.
+> **Rol (Role):** Eres un Arquitecto Principal de MLOps, la máxima autoridad en Kubernetes y arquitecturas de Machine Learning.
 >
 > **Contexto (Context):**
 >
-> - Objetivo: Construir un pipeline automatizado End-to-End para un `[Modelo de clasificación de flores Iris]`.
+> - Objetivo: Construir un pipeline automatizado *End-to-End* para un `[modelo de clasificación de flores Iris]`.
 > - Pasos del flujo de trabajo:
 >   1. **Preprocess:** Cargar los datos crudos y aplicarles escalado/normalización.
 >   2. **Train:** Entrenar el modelo utilizando un algoritmo de Scikit-learn y exportarlo como un archivo `[model.pkl]`.
->   3. **Evaluate:** Medir la precisión (Accuracy) del modelo frente a un conjunto de datos de validación.
+>   3. **Evaluate:** Medir la precisión (*Accuracy*) del modelo frente a un conjunto de datos de validación.
 >   4. **Serve:** Desplegar el modelo como una API REST a través de `[KServe]`, pero ÚNICAMENTE si la precisión es igual o superior al `[90%]`.
 >
 > **Tarea (Task):**
 >
 > 1. Desarrolla el código en Python utilizando **Kubeflow Pipeline v2 (KFP DSL)** para orquestar y conectar a la perfección estos 4 pasos.
 > 2. Es absolutamente obligatorio implementar una lógica de ramificación con `dsl.Condition` que aborte el despliegue si el modelo no supera el umbral de precisión exigido.
-> 3. Documenta exhaustivamente en los comentarios cómo fluyen los datos entre los componentes de cada etapa (Artifact Passing y Parameter Passing).
+> 3. Documenta exhaustivamente en los comentarios cómo fluyen los datos entre los componentes de cada etapa (*Artifact Passing* y *Parameter Passing*).
 >
 > **Restricciones (Constraints):**
 >
 > - Cíñete de forma estricta a la sintaxis más reciente de Kubeflow Pipelines (v2).
 > - Define la imagen base de los contenedores utilizando la versión optimizada `python:3.9-slim` por defecto.
-> - Cero alucinaciones: prohibido utilizar funciones obsoletas (Deprecated) o APIs experimentales de las que no tengas total certeza.
+> - Cero alucinaciones: prohibido utilizar funciones obsoletas (*Deprecated*) o APIs experimentales de las que no tengas total certeza.
 
 ---
 
@@ -87,7 +87,7 @@ El truco maestro para sacarle todo el jugo a este prompt es añadirle una exigen
   - R: Para nada. Kubeflow es un devorador de recursos en un clúster de Kubernetes, por lo que usarlo para un *side project* o en una startup recién nacida es matar moscas a cañonazos. Si lo que buscas es un despliegue ágil y un buen seguimiento del modelo, te sugiero que empieces por **MLflow** o **BentoML**.
 
 - **P: KServe aparece en el prompt de la versión Pro. ¿Qué hace exactamente?**
-  - R: KServe es una bestia de la inferencia *Serverless*. Básicamente, coge tu modelo ya entrenado y te levanta de forma automática un servidor API (REST y gRPC) listo para recibir peticiones. Lo mejor es que trae de serie el autoescalado basado en tráfico (incluso bajando a cero, *Zero-to-Scale*) y permite realizar despliegues *Canary* sin un solo segundo de tiempo de inactividad.
+  - R: KServe es una bestia de la inferencia *Serverless*. Básicamente, toma tu modelo ya entrenado y levanta de forma automática un servidor API (REST y gRPC) listo para recibir peticiones. Lo mejor es que trae de serie el autoescalado basado en tráfico (incluso bajando a cero, *Zero-to-Scale*) y permite realizar despliegues *Canary* sin un solo segundo de tiempo de inactividad.
 
 - **P: He ejecutado el código y Kubernetes me escupe un error de `VolumeMount`. ¿Ahora qué?**
   - R: Es un clásico. Cuando mueves gigas de datos dentro de Kubeflow, configurar un Volumen Persistente (PV) no es opcional, es obligatorio. Lánzale a la IA esta pregunta de seguimiento: *"Añade al código la configuración necesaria para montar un PVC (Persistent Volume Claim) en el pipeline, de forma que pueda ingerir datasets masivos sin quedarme sin espacio"*.
@@ -96,7 +96,7 @@ El truco maestro para sacarle todo el jugo a este prompt es añadirle una exigen
 
 ## 🧬 Anatomía del Prompt (¿Por qué funciona?) {#why-it-works}
 
-1. **Cortafuegos condicional (`dsl.Condition`):** Al fijar una regla inquebrantable como "despliega únicamente si superas el 90%", cerramos la puerta a catástrofes en producción. Estamos inyectando el ADN del MLOps —la **Garantía de Calidad (QA)**— directamente en las venas del prompt.
+1. **Cortafuegos condicional (`dsl.Condition`):** Al fijar una regla inquebrantable como "despliega únicamente si superas el 90%", cerramos la puerta a posibles catástrofes en producción. Estamos inyectando el ADN del MLOps —la **Garantía de Calidad (QA)**— directamente en las venas del prompt.
 2. **Transferencia quirúrgica de artefactos (*Artifact Passing*):** Al exigir explícitamente cómo deben viajar los datos de un nodo a otro, forzamos a la IA a diseñar una arquitectura fluida y sin cuellos de botella, logrando que múltiples contenedores bailen al unísono como un solo programa.
 3. **Blindaje de versión (KFP v2):** Anclar la versión exacta en el prompt es el mejor antídoto contra las alucinaciones. Evita que la IA te entregue código obsoleto basado en la sintaxis de la versión 1, ahorrándote horas de frustración resolviendo conflictos de compatibilidad.
 

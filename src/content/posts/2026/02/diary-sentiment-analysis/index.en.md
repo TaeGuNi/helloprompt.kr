@@ -19,9 +19,9 @@ tags: ["일기", "회고", "감정분석", "데이터시각화", "ChatGPT"]
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
 - 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-> _"You pour your heart into your diary every night to shake off the day, but have you ever objectively examined the patterns of how your mind breaks down and recovers?"_
+> _"You pour your heart into your diary every night to shake off the day, but have you ever objectively examined the patterns behind how your mind breaks down and recovers?"_
 
-Accumulated records are valuable assets, but left untouched in a drawer, they become just another mental weight. Now is the time to feed **a month's worth of journal entries** to AI. Using powerful text-mining capabilities, AI can map the hidden emotional contours in your writing and turn your most frequent, unconscious vocabulary into a revealing word cloud. It’s time to reverse-engineer the mental algorithms you didn't even know you had.
+Accumulated records are valuable assets, but left untouched in a drawer, they become just another mental weight. Now is the time to feed **a month's worth of journal entries** to an AI. Using powerful text-mining capabilities, AI can map the hidden emotional contours in your writing and turn your most frequent, unconscious vocabulary into a revealing word cloud. It’s time to reverse-engineer the mental algorithms you didn't even realize you had.
 
 ---
 
@@ -57,8 +57,8 @@ Going far beyond a simple summary, this expert-level prompt scientifically maps 
 >
 > 1. **Sentiment Scoring:** Analyze the provided journal entries and assign a daily emotional score from -10 (extreme depression/anxiety) to +10 (peak happiness/fulfillment).
 > 2. **Visualization (Run Python):** Plot these daily emotional shifts on a **Line Chart**.
->    - X-axis: 'Date'
->    - Y-axis: 'Emotional Score'
+>    - X-axis: `Date`
+>    - Y-axis: `Emotional Score`
 >    - Output a clean, highly readable image using Python's `matplotlib` or `seaborn` libraries.
 > 3. **Deep-Dive Root Cause Analysis:** Scrutinize the entries from the days with the absolute lowest (Valley) and highest (Peak) scores. Pinpoint the specific events, interactions, or keywords that drove these emotional extremes.
 > 4. **Behavioral Prescription:** Based on the data, recommend 3 actionable "habits to adopt" and 3 "triggers to avoid" to optimize my mental health next month.
@@ -77,9 +77,9 @@ Going far beyond a simple summary, this expert-level prompt scientifically maps 
 
 ## 💡 Writer's Insight
 
-The real power of this prompt is how it enforces **data-driven metacognition**. During a particularly grueling stretch at work, my journal devolved into an endless loop of "I’m exhausted." But when I ran a month’s worth of entries through this exact analysis, the AI uncovered a distinct pattern: my absolute worst days always featured the lethal combination of "less than 6 hours of sleep" and "a meeting with one specific client."
+The real power of this prompt lies in how it enforces **data-driven metacognition**. During a particularly grueling stretch at work, my journal devolved into an endless loop of "I’m exhausted." But when I ran a month’s worth of entries through this exact analysis, the AI uncovered a distinct pattern: my absolute worst days always featured the lethal combination of "less than 6 hours of sleep" and "a meeting with one specific client."
 
-Not much of a journaler? Export and analyze your personal **"Note to Self" chat history** from WhatsApp or Telegram, or even your sent messages from a work platform like Slack. The analysis will ruthlessly expose what time of day you tend to get irritable, and which specific tasks trigger your most positive vocabulary. Data never lies.
+Not much of a journaler? You can export and analyze your personal **"Note to Self" chat history** from WhatsApp or Telegram, or even your sent messages from a work platform like Slack. The analysis will ruthlessly expose what time of day you tend to get irritable, and which specific tasks trigger your most positive vocabulary. Data never lies.
 
 ---
 
@@ -89,7 +89,7 @@ Not much of a journaler? Export and analyze your personal **"Note to Self" chat 
   - A: Absolutely. Just snap photos of your pages and upload them directly to ChatGPT. GPT-4o’s built-in OCR (Optical Character Recognition) is remarkably adept at deciphering even the messiest handwriting for seamless analysis.
 
 - **Q: I'm hesitant to share my private journal with an AI for security reasons.**
-  - A: A very valid concern. Before running the analysis, navigate to ChatGPT’s Settings > Data Controls and disable **"Improve the model for everyone."** For bulletproof privacy, use a quick Find & Replace to swap out real names or sensitive locations with placeholders like 'Person A' or 'Company B' before uploading your text.
+  - A: That is a very valid concern. Before running the analysis, navigate to ChatGPT’s Settings > Data Controls and disable **"Improve the model for everyone."** For bulletproof privacy, use a quick Find & Replace to swap out real names or sensitive locations with placeholders like `[Person A]` or `[Company B]` before uploading your text.
 
 - **Q: The text labels on the AI-generated graph are rendering as broken boxes (□).**
   - A: This is a known quirk when ChatGPT runs Python visualizers. You can instantly fix this by appending a simple instruction to your prompt: *"When rendering the graph, ensure you use a universally supported sans-serif font family so the text labels display perfectly without breaking."*
@@ -98,7 +98,7 @@ Not much of a journaler? Export and analyze your personal **"Note to Self" chat 
 
 ## 🧬 Prompt Anatomy (Why it works?)
 
-1. **Forced Python Execution (`Visualization (Run Python)`):** Rather than settling for a text-based summary, this command hijacks the AI’s Advanced Data Analysis environment to physically render an image. One intuitive line chart hits much harder during a retrospective than a wall of text.
+1. **Forced Python Execution (`Visualization (Run Python)`):** Rather than settling for a text-based summary, this command hijacks the AI’s Advanced Data Analysis environment to physically render an image. An intuitive line chart hits much harder during a retrospective than a wall of text.
 2. **Quantitative Anchoring (`Quantify from -10 to +10`):** This is the engine that converts subjective journaling into hard, analyzable metrics. Imposing a strict numerical scale guarantees a mathematically stable and reliable graph.
 3. **Actionable Outputs (`Behavioral Prescription`):** It elevates the prompt from a mere reflection tool to a strategic asset by demanding a concrete, data-backed 'To-Do' and 'Not-To-Do' list for the month ahead.
 
@@ -109,7 +109,7 @@ Not much of a journaler? Export and analyze your personal **"Note to Self" chat 
 ### ❌ Before (Vague Emotional Drain)
 
 "This month was absolutely terrible. I felt tired and annoyed every single day. Why am I so depressed?"
-(Spiraling into a vague sense of helplessness without pinpointing the actual cause)
+*(Spiraling into a vague sense of helplessness without pinpointing the actual cause)*
 
 ### ✅ After (Data-Driven Objective Retrospective)
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Configuração de Ambiente Docker, 3 Minutos com Um Arquivo de Configuração\""
+title: "Configuração de Ambiente Docker: 3 Minutos com Um Arquivo de Configuração"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificação/Desenvolvimento"
-description: " \"Um prompt que gera automaticamente o Dockerfile e o docker-compose.yml para padronizar qualquer ambiente de aplicação em contêineres de forma ágil e segura.\""
+description: "Um prompt que gera automaticamente o Dockerfile e o docker-compose.yml para padronizar qualquer ambiente de aplicação em contêineres de forma ágil e segura."
 tags: ["Docker", "Contêiner", "Implantação", "DevOps"]
 ---
 
@@ -44,7 +44,6 @@ Use esta versão quando precisar apenas de um esqueleto rápido para testes loca
 > **Papel:** Você é um Engenheiro DevOps sênior especializado em conteinerização.
 > **Solicitação:** Crie um `Dockerfile` simples e um `docker-compose.yml` para um aplicativo construído em `[Sua Stack de Tecnologia, ex: Node.js e MongoDB]`.
 
-
 ### 🥇 Pro Version (Versão Especialista)
 
 Use esta versão para obter arquivos de configuração de nível de produção, com foco absoluto em segurança, performance e baixo peso de imagem.
@@ -65,7 +64,7 @@ Use esta versão para obter arquivos de configuração de nível de produção, 
 > **Stack de Tecnologia (Variables):**
 >
 > - Linguagem/Framework: `[Insira sua linguagem/framework, ex: Python 3.11, FastAPI]`
-> - Banco de Dados/Cache: `[Insira seus bancos, ex: PostgreSQL 15, Redis Alpine]`
+> - Banco de Dados/Cache: `[Insira seus bancos de dados/cache, ex: PostgreSQL 15, Redis Alpine]`
 >
 > **Restrições (Constraints):**
 >
@@ -136,7 +135,7 @@ USER appuser
 CMD ["gunicorn", "config.wsgi:application", "--bind", "0.0.0.0:8000"]
 ```
 
-_(Resultado: Uma imagem elegante, de baixo custo de armazenamento, blindada contra escalonamento de privilégios e totalmente preparada para ir ao ar em ambientes de produção reais.)_
+_(Resultado: Uma imagem elegante, com baixo custo de armazenamento, blindada contra escalonamento de privilégios e totalmente preparada para ir ao ar em ambientes de produção reais.)_
 
 ---
 

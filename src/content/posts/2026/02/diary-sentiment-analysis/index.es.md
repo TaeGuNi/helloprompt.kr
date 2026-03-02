@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "자기계발/회고"
-description: "\"La propia mente suele ser un misterio. Descubre cómo digitalizar tu diario para visualizar tus fluctuaciones emocionales, identificar palabras clave y rastrear las verdaderas fuentes de tu estrés.\""
+description: "\"Nuestra propia mente suele ser un misterio. Descubre cómo digitalizar tu diario para visualizar tus fluctuaciones emocionales, identificar palabras clave y rastrear las verdaderas fuentes de tu estrés.\""
 tags: ["일기", "회고", "감정분석", "데이터시각화", "ChatGPT"]
 ---
 
@@ -21,7 +21,7 @@ tags: ["일기", "회고", "감정분석", "데이터시각화", "ChatGPT"]
 
 > _"Escribes en tu diario cada noche para desahogarte, pero, ¿alguna vez has analizado objetivamente el patrón bajo el cual tu mente colapsa y se recupera?"_
 
-Los registros se convierten en un activo invaluable a medida que se acumulan; sin embargo, si los abandonas en un cajón, no son más que peso muerto. Ahora, permite que la IA procese **los datos de tu diario de todo un mes**. Mediante la potente tecnología de minería de textos (*text mining*), trazará el auténtico gráfico emocional que se oculta tras tus palabras y revelará, en una nube de conceptos, aquellos términos que repites de manera inconsciente. Es hora de hackear el algoritmo de tu propia mente, ese que ni siquiera tú lograbas descifrar.
+Los registros se convierten en un activo invaluable a medida que se acumulan; sin embargo, si los abandonas en un cajón, no son más que peso muerto. Ahora, deja que la IA procese **los datos de tu diario de todo un mes**. Mediante la potente tecnología de minería de textos (*text mining*), dibujará el auténtico gráfico emocional que se oculta detrás de tus palabras y revelará, en una nube de conceptos, aquellos términos que repites de manera inconsciente. Es hora de hackear el algoritmo de tu propia mente, ese que ni siquiera tú habías logrado descifrar.
 
 ---
 
@@ -29,7 +29,7 @@ Los registros se convierten en un activo invaluable a medida que se acumulan; si
 
 1. Exporta un mes de entradas de tu aplicación de diario o de Notion en formato `txt` o `csv`.
 2. Sube el archivo a ChatGPT e introduce el prompt de **visualización de datos y análisis emocional**.
-3. Lleva a cabo una retrospectiva productiva analizando el gráfico de fluctuación emocional y el informe de palabras clave detonantes de estrés generados por la IA.
+3. Lleva a cabo una retrospectiva productiva analizando el gráfico de fluctuaciones emocionales y el informe de palabras clave detonantes de estrés generados por la IA.
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Au Lieu de Copier en Ayant Mal au Poignet : Générateur Auto de Cartes de Mémorisation\""
+title: "Fini les crampes au poignet : Le générateur automatique de flashcards"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "MéthodeÉtude/Auto-Développement"
-description: " \"Un prompt qui convertit instantanément vos textes longs ou notes de cours en paires de cartes de mémorisation (Q&R), prêtes à être importées dans Anki ou Quizlet.\""
+description: "Un prompt qui convertit instantanément vos textes longs ou notes de cours en paires de cartes de mémorisation (Q&R), prêtes à être importées dans Anki ou Quizlet."
 tags: ["Mémorisation", "CarteMémoire", "Anki", "Quizlet"]
 ---
 

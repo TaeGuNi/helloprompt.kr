@@ -11,7 +11,7 @@ tags: ["TRPG", "D&D", "Scénario", "MaîtreJeu", "Histoire"]
 
 # 📝 Générer une Accroche de Scénario Immersive pour vos TRPG
 
-- **🎯 Recommandé pour :** Maîtres de Jeu (MJ), Créateurs d'univers, Rôlistes
+- **🎯 Recommandé pour :** Maîtres de Jeu (MJ), créateurs d'univers, rôlistes
 - **⏱️ Temps requis :** 30 minutes de préparation → Réduit à 2 minutes
 - **🤖 Modèle recommandé :** Claude 3.5 Sonnet, GPT-4o ou Gemini 2.5 Pro (Excellents pour la créativité narrative)
 
@@ -19,9 +19,9 @@ tags: ["TRPG", "D&D", "Scénario", "MaîtreJeu", "Histoire"]
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
 - 🚀 **Utilité :** ⭐⭐⭐⭐☆
 
-> _"Vos joueurs arrivent dans moins d'une heure, vous n'avez absolument rien préparé, et vous redoutez de devoir recycler le vieux cliché de la taverne sombre pour la dixième fois ?"_
+> _"Vos joueurs débarquent dans moins d'une heure, vous n'avez absolument rien préparé, et vous redoutez de devoir recycler le vieux cliché de la taverne sombre pour la dixième fois ?"_
 
-Le syndrome de la page blanche avant une partie de Jeu de Rôle (TRPG) est la hantise absolue de tout Maître de Jeu. Pour qu'une aventure soit d'emblée mémorable, il vous faut une **accroche narrative (Plot Hook)** percutante, capable de jeter immédiatement vos joueurs au cœur de l'action. Fini les introductions poussives et les scénarios prévisibles : utilisez ce prompt pour concevoir, en quelques secondes, des ouvertures dramatiques taillées sur mesure pour votre table.
+Le syndrome de la page blanche juste avant une partie de jeu de rôle sur table (JdR/TRPG) est la hantise absolue de tout Maître de Jeu. Pour qu'une campagne devienne d'emblée mémorable, il vous faut une **accroche narrative (Plot Hook)** percutante, capable de plonger instantanément vos joueurs au cœur de l'action. Fini les introductions poussives et les scénarios prévisibles : utilisez ce prompt pour concevoir, en quelques secondes, des ouvertures dramatiques taillées sur mesure pour votre table.
 
 ---
 
@@ -54,9 +54,9 @@ Utilisez cette version pour concevoir une accroche chirurgicale, parfaitement ca
 >
 > **Informations sur le Groupe (Variables) :**
 >
-> - **Système :** `[ex : D&D 5e, L'Appel de Cthulhu, Cyberpunk RED]`
-> - **Niveau & Alignement :** `[ex : Niveau 3, Alignement Chaotique Neutre, motivés par l'argent mais avec un bon fond]`
-> - **Emplacement Actuel :** `[ex : Un marché bondé et bruyant dans une ville portuaire sous une pluie battante]`
+> - **Système :** `[ex. : D&D 5e, L'Appel de Cthulhu, Cyberpunk RED]`
+> - **Niveau & Alignement :** `[ex. : Niveau 3, Alignement Chaotique Neutre, motivés par l'argent mais avec un bon fond]`
+> - **Emplacement Actuel :** `[ex. : Un marché bondé et bruyant dans une ville portuaire sous une pluie battante]`
 >
 > **Tâche (Task) :**
 >
@@ -80,9 +80,9 @@ Utilisez cette version pour concevoir une accroche chirurgicale, parfaitement ca
 
 ## 💡 L'Avis de l'Expert (Insight)
 
-En tant que MJ chevronné, j'ai pu constater à maintes reprises que les sessions les plus mémorables démarrent toujours sur les chapeaux de roue. Le principal défaut des IA génératives en matière de scénarisation est leur fâcheuse tendance à pondre de longs paragraphes sur l'histoire millénaire d'un royaume dont les joueurs se contrefichent.
+En tant que MJ chevronné, j'ai souvent constaté que les sessions les plus mémorables démarrent toujours sur les chapeaux de roue. Le principal défaut des IA génératives en matière de scénarisation réside dans leur fâcheuse tendance à pondre de longs paragraphes sur l'histoire millénaire d'un royaume dont les joueurs se contrefichent éperdument.
 
-C'est pour pallier ce problème que ce prompt exige la création d'**événements intenses et immédiats**, tout en y intégrant un **Secret de MJ (Twist)**. Ce twist est votre arme secrète : il vous offre une ligne directrice occulte pour guider votre improvisation, transformant ainsi une banale scène d'action en la pierre angulaire d'une campagne épique.
+C'est précisément pour pallier ce problème que ce prompt exige la création d'**événements intenses et immédiats**, tout en y intégrant un **Secret de MJ (Twist)**. Ce rebondissement est votre arme secrète : il vous offre une trame de fond occulte pour guider votre improvisation, transformant ainsi une banale scène d'action en la pierre angulaire d'une campagne épique.
 
 ---
 
@@ -92,15 +92,15 @@ C'est pour pallier ce problème que ce prompt exige la création d'**événement
   - A : Absolument. Si les propositions vous semblent trop clichées, recadrez l'IA en lui répondant : _"Ces idées sont trop classiques. Propose-m'en 3 autres avec un ton résolument plus sombre (Dark Fantasy) et des enjeux dramatiques."_
 
 - **Q : Ce prompt est-il efficace pour des univers de science-fiction ou d'horreur ?**
-  - A : Tout à fait. La structure de ce prompt est universelle. Il vous suffit d'adapter la variable `[Système]` (ex : "Alien RPG") et `[Emplacement Actuel]` (ex : "Soute d'un vaisseau spatial à l'abandon"). L'IA ajustera automatiquement la tonalité de son récit.
+  - A : Tout à fait. La structure de ce prompt est universelle. Il vous suffit d'adapter la variable `[Système]` (ex. : "Alien RPG") et `[Emplacement Actuel]` (ex. : "Soute d'un vaisseau spatial à l'abandon"). L'IA ajustera automatiquement la tonalité de son récit.
 
 ---
 
 ## 🧬 Anatomie du Prompt (Pourquoi est-ce si efficace ?)
 
-1. **Précision contextuelle :** La variable (`[Niveau & Alignement]`) évite les incohérences majeures, empêchant l'IA d'envoyer un dragon millénaire face à un groupe de niveau 1 ou de proposer une quête altruiste à des mercenaires vénaux.
-2. **Catégorisation stratégique (Types A, B, C) :** En imposant à l'IA de générer trois approches distinctes (Action, Mystère, Dilemme), vous vous garantissez un éventail d'options pour rebondir instantanément selon l'humeur de vos joueurs.
-3. **Le Twist intégré :** Exiger un retournement de situation caché insuffle immédiatement une véritable profondeur narrative (Lore), sans jamais étouffer la table sous une exposition indigeste.
+1. **Précision contextuelle :** La variable (`[Niveau & Alignement]`) permet d'éviter les incohérences majeures, empêchant l'IA d'envoyer un dragon millénaire face à un groupe de niveau 1 ou de confier une quête purement altruiste à des mercenaires vénaux.
+2. **Catégorisation stratégique (Types A, B, C) :** En obligeant l'IA à générer trois approches radicalement distinctes (Action, Mystère, Dilemme), vous vous assurez un éventail d'options pour rebondir instantanément selon l'humeur de vos joueurs.
+3. **Le Twist intégré :** Exiger un retournement de situation caché insuffle d'emblée une véritable profondeur narrative (Lore) à la scène, sans jamais étouffer la table sous une exposition indigeste.
 
 ---
 

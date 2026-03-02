@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "Découvrez comment connecter le Workflow Builder de Slack à l'IA pour créer l'assistant de recommandation de repas de votre équipe, sans aucune connaissance en développement."
+description: "Découvrez comment connecter le Workflow Builder de Slack à l'IA pour créer un assistant de recommandation de repas pour votre équipe, sans écrire la moindre ligne de code."
 tags: ["Slack", "슬랙", "챗봇", "자동화", "사내문화"]
 ---
 
-# 🤖 Créer un bot Slack : L'assistant de recommandation de repas pour votre équipe
+# 🤖 Créer un bot Slack : l'assistant de recommandation de repas pour votre équipe
 
 - **🎯 Cible recommandée :** Les collaborateurs qui redoutent le choix quotidien du déjeuner, ou les équipes RH souhaitant insuffler plus de convivialité dans les échanges internes.
 - **⏱️ Temps estimé :** 10 minutes (via Slack Workflow Builder)
@@ -19,21 +19,21 @@ tags: ["Slack", "슬랙", "챗봇", "자동화", "사내문화"]
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
 - 🚀 **Utilité :** ⭐⭐⭐⭐⭐
 
-> _« Où mange-t-on ce midi ? N'importe où... Des pâtes ? Bof, pas trop envie... » Mettez fin à cette devinette épuisante ! Déléguez cette mission à votre assistant IA et préservez votre énergie mentale pour l'essentiel._
+> _« On mange où ce midi ? Peu importe... Des pâtes ? Bof, pas trop envie... » Mettez fin à ce supplice quotidien ! Confiez cette mission à l'IA et préservez votre charge mentale pour ce qui compte vraiment._
 
-Le choix du déjeuner est souvent le plus grand dilemme de la journée au bureau. Fini les regards fuyants et les silences gênés : il suffit désormais d'interroger votre messagerie interne. Demandez-lui « Que manger par ce temps pluvieux ? » pour obtenir une suggestion pertinente et pleine d'esprit, telle que « Avec cette pluie, rien ne vaut un bon ramen fumant pour se réchauffer ! ». Voici comment déployer ce bot intelligent directement via le Workflow Builder de Slack, sans écrire la moindre ligne de code.
+Le choix du déjeuner est bien souvent le plus grand dilemme de la journée au bureau. Fini les regards fuyants et les silences gênés : il vous suffit désormais d'interroger votre messagerie interne. Demandez-lui « Qu'est-ce qu'on mange par ce temps pluvieux ? » pour obtenir une suggestion pertinente et pleine d'esprit, du type : « Avec ce déluge, rien ne vaut un bon ramen fumant pour se réchauffer ! ». Voici comment déployer ce bot intelligent directement via le Workflow Builder de Slack, sans écrire la moindre ligne de code.
 
 ---
 
 ## ⚡️ Résumé en 3 points (TL;DR)
 
-1. Déployez un bot automatisé en mode No-Code grâce au **Workflow Builder** de Slack.
-2. Configurez un mot-clé (ex. : « Recommandation repas ») ou une réaction emoji comme déclencheur (Trigger).
-3. Connectez une IA (telle que ChatGPT) pour exécuter un prompt capable de suggérer des menus sur mesure, adaptés à la météo et au contexte de l'équipe.
+1. Déployez un bot automatisé en mode no-code grâce au **Workflow Builder** de Slack.
+2. Configurez un mot-clé (ex. : « Recommandation repas ») ou une réaction emoji comme déclencheur (*trigger*).
+3. Connectez une IA (comme ChatGPT) pour exécuter un prompt capable de suggérer des menus sur mesure, parfaitement adaptés à la météo et au contexte de l'équipe.
 
 ---
 
-## 🚀 La solution : Le Prompt « Lunch Buddy »
+## 🚀 La solution : le prompt « Lunch Buddy »
 
 ### 🥉 Version Basique (Basic Version)
 
@@ -46,13 +46,13 @@ Idéale pour obtenir une suggestion instantanée lorsque personne n'arrive à se
 
 À privilégier pour des suggestions pointues et parfaitement calibrées selon votre contexte (météo, ambiance de l'équipe, taille du groupe).
 
-> **Rôle (Role) :** Tu es un fin gourmet très exigeant et un véritable GPS des meilleurs restaurants situés autour de notre bureau (`[Localisation du bureau, ex. : La Défense]`).
+> **Rôle (Role) :** Tu es un fin gourmet très exigeant et un véritable GPS des meilleurs restaurants situés autour de notre bureau (`[Localisation du bureau, par ex. : La Défense]`).
 >
 > **Contexte (Context) :**
 >
-> - Météo : `[Météo actuelle, ex. : Pluvieux, Ensoleillé, Froid]`
-> - Ambiance de l'équipe : `[État d'esprit du moment, ex. : Gros stress, Jour de paie, En plein rush]`
-> - Nombre de participants : `[Composition du groupe, ex. : Déjeuner en solo, Toute l'équipe, Entre stagiaires]`
+> - Météo : `[Météo actuelle, par ex. : Pluvieux, Ensoleillé, Froid]`
+> - Ambiance de l'équipe : `[État d'esprit du moment, par ex. : Gros stress, Jour de paie, En plein rush]`
+> - Nombre de participants : `[Composition du groupe, par ex. : Déjeuner en solo, Toute l'équipe, Entre stagiaires]`
 >
 > **Tâche (Task) :**
 >
@@ -66,13 +66,13 @@ Idéale pour obtenir une suggestion instantanée lorsque personne n'arrive à se
 >
 > **Avertissement (Warning) :**
 >
-> - N'invente jamais de noms de restaurants fictifs. Limite-toi strictement aux noms des plats ou types de cuisine pour éviter toute hallucination de l'IA.
+> - N'invente jamais de noms de restaurants fictifs. Limite-toi strictement aux noms des plats ou aux types de cuisine pour éviter toute hallucination de l'IA.
 
 ---
 
 ## 💡 L'avis de l'expert (Writer's Insight)
 
-L'intégration d'un bot Slack transcende la simple prouesse technique : c'est un formidable levier pour façonner la **culture de votre entreprise**. Il opère comme un lubrifiant social, insufflant de la légèreté et des opportunités d'échange au sein de canaux souvent monopolisés par des communications formelles. Si votre « Lunch Buddy » séduit vos collaborateurs, vous pourrez aisément décliner le concept : un bot dédié aux compliments, aux anniversaires ou aux rétrospectives hebdomadaires. Ces petites attentions automatisées bâtissent un climat de travail nettement plus chaleureux. Pour aller plus loin, couplez ce prompt à des solutions d'automatisation telles que Zapier ou Make ; vous vous affranchirez alors des limites natives de Slack pour concevoir un assistant IA d'une efficacité redoutable.
+L'intégration d'un bot Slack transcende la simple prouesse technique : c'est un formidable levier pour façonner la **culture de votre entreprise**. Il agit comme un véritable lubrifiant social, insufflant de la légèreté et des opportunités d'échange au sein de canaux souvent monopolisés par des communications formelles. Si votre « Lunch Buddy » séduit vos collaborateurs, vous pourrez aisément décliner le concept : un bot dédié aux compliments, aux anniversaires ou aux rétrospectives hebdomadaires. Ces petites attentions automatisées bâtissent un climat de travail nettement plus chaleureux. Pour aller plus loin, couplez ce prompt à des solutions d'automatisation telles que Zapier ou Make ; vous vous affranchirez alors des limites natives de Slack pour concevoir un assistant IA d'une efficacité redoutable.
 
 ---
 
@@ -82,7 +82,7 @@ L'intégration d'un bot Slack transcende la simple prouesse technique : c'est un
   - R : Malheureusement, le Workflow Builder de Slack est réservé aux offres payantes (forfait Pro et supérieurs). Néanmoins, vous pouvez contourner cette restriction en faisant appel à des outils comme Zapier ou Make. Ces plateformes peuvent détecter des messages ciblés dans un canal et déclencher des réponses automatiques via l'API de ChatGPT.
 
 - **Q : Quelle est la différence avec le développement d'un bot sur mesure (en Python, par exemple) ?**
-  - R : L'utilisation d'une bibliothèque telle que `slack-bolt` en Python ouvre la porte à des interactions complexes : boutons interactifs, fenêtres modales, ou encore requêtes vers vos bases de données internes. En contrepartie, cela exige un serveur dédié et une maintenance technique régulière. Pour de simples suggestions de repas et des échanges textuels, l'approche No-Code par workflow demeure la solution la plus agile et la plus économique.
+  - R : L'utilisation d'une bibliothèque telle que `slack-bolt` en Python ouvre la porte à des interactions complexes : boutons interactifs, fenêtres modales, ou encore requêtes vers vos bases de données internes. En contrepartie, cela exige un serveur dédié et une maintenance technique régulière. Pour de simples suggestions de repas et des échanges textuels, l'approche no-code par workflow demeure la solution la plus agile et la plus économique.
 
 ---
 

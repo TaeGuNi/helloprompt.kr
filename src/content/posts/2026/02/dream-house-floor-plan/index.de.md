@@ -19,19 +19,19 @@ tags: ["인테리어", "건축", "도면", "Midjourney", "집꾸미기"]
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
 - 🚀 **Anwendbarkeit:** ⭐⭐⭐⭐☆
 
-> _"Was wäre, wenn du das perfekte Haus aus deiner Vorstellungskraft mit nur wenigen Worten in einer Minute als Bauplan zum Leben erwecken könntest?"_
+> _"Was wäre, wenn du das perfekte Haus aus deiner Vorstellung mit nur wenigen Worten in einer einzigen Minute als Bauplan zum Leben erwecken könntest?"_
 
 Es ist alles andere als einfach, den perfekten Raum, den man sich im Kopf ausmalt, nur mit Worten zu beschreiben: „Das Wohnzimmer etwas größer, eine offene Küche mit Kochinsel und ein lichtdurchfluteter Dachboden wären schön.“
 
-Doch bevor du nun Tausende von Euro für eine Architekturberatung ausgibst, kannst du dank KI in nur 10 Sekunden einen perfekten ersten Entwurf erstellen. Vom **Grundriss (Floor Plan)** bis hin zur realistischen **Perspektive (Perspective View)** – entwirf selbst Baupläne auf Expertenniveau.
+Doch bevor du nun Tausende von Euro für eine Architekturberatung ausgibst, kannst du dank KI in nur 10 Sekunden einen perfekten ersten Entwurf erstellen. Vom **Grundriss (Floor Plan)** bis hin zur realistischen **Perspektive (Perspective View)** – entwirf selbst Baupläne auf absolutem Expertenniveau.
 
 ---
 
 ## ⚡️ Zusammenfassung in 3 Sätzen (TL;DR)
 
-1. Definiere die genauen Spezifikationen deines Wunschhauses (Wohnfläche, Anzahl der Zimmer, Stil) als einfachen Text.
-2. Gib in Midjourney die für Architekturzeichnungen optimierten Prompts wie **„Floor plan“** und **„Isometric“** ein.
-3. Nutze die generierten, hochwertigen Pläne direkt als verlässliche Grundlage für echte Interieur- oder Architekturberatungen.
+1. Definiere die genauen Spezifikationen deines Wunschhauses (Wohnfläche, Zimmeranzahl, Stil) ganz einfach als Text.
+2. Gib in Midjourney für Architekturzeichnungen optimierte Prompts wie **„Floor plan“** und **„Isometric“** ein.
+3. Nutze die generierten, hochwertigen Pläne direkt als verlässliche visuelle Grundlage für echte Interieur- oder Architekturberatungen.
 
 ---
 
@@ -48,7 +48,7 @@ Verwende diese Version, um die allgemeine Atmosphäre der Fassade und den Archit
 
 ### 🥇 Pro Version (Experten-Grundriss & Isometrie)
 
-Nutze diese Version, um Struktur, Laufwege und Möbelplatzierung präzise zu planen.
+Nutze diese Version, um Struktur, Laufwege und die Platzierung der Möbel präzise zu planen.
 
 > **Rolle (Role):** Du bist ein detailorientierter `[Senior Interior Designer]`.
 >
@@ -59,7 +59,7 @@ Nutze diese Version, um Struktur, Laufwege und Möbelplatzierung präzise zu pla
 >
 > **Aufgabe (Task):**
 >
-> 1. Zeichne den architektonischen Grundriss eines `[3-bedroom apartment]` als 2D-Top-Down-Ansicht (von oben betrachtet).
+> 1. Zeichne den architektonischen Grundriss eines `[3-Zimmer-Apartments]` als 2D-Top-Down-Ansicht (von oben betrachtet).
 > 2. Wende den Blueprint-Stil (Blaupause) an und füge ein detailliertes Möbel-Layout hinzu.
 > 3. Integriere zwingend die folgenden `[Detail-Optionen]`:
 >    - large living room connected to open kitchen (großes Wohnzimmer, verbunden mit einer offenen Küche)
@@ -68,7 +68,7 @@ Nutze diese Version, um Struktur, Laufwege und Möbelplatzierung präzise zu pla
 >
 > **Einschränkungen (Constraints):**
 >
-> - Die Linien müssen sauber sein, der Hintergrund muss weiß sein. (clean lines, white background)
+> - Die Linien müssen sauber und der Hintergrund weiß sein. (clean lines, white background)
 > - Die Bildqualität muss auf das Maximum eingestellt sein. (high quality)
 >
 > **Beispiel für die Anwendung des Prompts:** architectural floor plan of a 3-bedroom apartment, top-down view, 2d, blueprint style, detailed furniture layout, large living room connected to open kitchen, master bedroom with walk-in closet, balcony with indoor plants, clean lines, white background, high quality --v 6.0
@@ -86,7 +86,7 @@ Dadurch wird eine sogenannte Cutaway-Ansicht (Schnittdarstellung) in Form eines 
 ## 🙋 Häufig gestellte Fragen (FAQ)
 
 - **F: Kann man mit diesen KI-generierten Plänen direkt bauen oder renovieren?**
-  - A: Nein. Die von der KI erstellten Pläne dienen rein als „visuelles Konzept“. Für die tatsächliche Bauausführung ist die Beratung durch einen professionellen Architekten unerlässlich, der sich um exakte Maße, Statik sowie die Sanitär- und Elektroplanung kümmert. Als initiales Konzept oder visuelle Referenz für das erste Beratungsgespräch gibt es jedoch nichts Besseres.
+  - A: Nein. Die von der KI erstellten Pläne dienen rein als „visuelles Konzept“. Für die tatsächliche Bauausführung ist die Beratung durch einen professionellen Architekten unerlässlich, der sich um exakte Maße, Statik sowie die Sanitär- und Elektroplanung kümmert. Als initiales Konzept oder visuelle Referenz für das erste Beratungsgespräch gibt es jedoch absolut nichts Besseres.
 
 - **F: Der Text mit den Raumnamen auf dem Plan ist unleserlich oder fehlerhaft. Was kann ich tun?**
   - A: Aktuelle KI-Modelle zur Bildgenerierung haben oft noch Schwierigkeiten mit der sauberen Darstellung von Typografie. Wenn du Raumnamen (wie Living Room, Kitchen etc.) oder Maßangaben zwingend benötigst, empfehlen wir, zunächst einen sauberen Plan ohne Text zu generieren und die Beschriftung anschließend manuell mit Programmen wie Photoshop oder Canva hinzuzufügen.

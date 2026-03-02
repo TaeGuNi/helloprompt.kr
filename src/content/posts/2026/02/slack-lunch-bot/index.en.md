@@ -11,7 +11,7 @@ tags: ["Slack", "슬랙", "챗봇", "자동화", "사내문화"]
 
 # 🤖 Building a Slack Bot: The "What's for Lunch?" Corporate Assistant
 
-- **🎯 Recommended for:** Junior employees dreading the daily menu-picking ordeal, or HR teams looking to breathe life into a stale corporate messenger.
+- **🎯 Recommended for:** Junior employees dreading the daily menu-picking ordeal, or HR teams looking to breathe new life into a stale corporate messenger.
 - **⏱️ Time Required:** 10 minutes (via Slack Workflow Builder)
 - **🤖 Recommended Model:** ChatGPT-4o (Excels at creative recommendations and grasping situational context)
 
@@ -21,15 +21,15 @@ tags: ["Slack", "슬랙", "챗봇", "자동화", "사내문화"]
 
 > _"What should we eat today? Anything's fine. Pasta? Not really in the mood for carbs... End the exhausting daily guessing game. Hand the reins over to an AI assistant and save your mental energy for what really matters: clocking out on time."_
 
-Choosing the lunch menu is the ultimate daily dilemma for office workers. Instead of trying to read the room and desperately throwing out options, why not just ask your internal messenger bot? Imagine typing, "It's pouring outside, what are we eating?" and receiving a spot-on response like, "On a dreary, rainy day, how about a steaming bowl of Pho instead of the usual sandwich?" In this guide, we'll walk you through building a highly intuitive lunch recommendation bot using Slack's Workflow Builder—without writing a single line of code.
+Deciding what to eat for lunch is the ultimate daily dilemma for the modern office worker. Instead of trying to awkwardly read the room and desperately throwing out random options, why not just ask your internal messenger bot? Imagine typing, "It's pouring outside, what are we eating?" and receiving a spot-on response like: "On a dreary, rainy day, how about a steaming bowl of Pho instead of the usual sandwich?" In this guide, we will walk you through building a highly intuitive lunch recommendation bot using Slack's Workflow Builder—without writing a single line of code.
 
 ---
 
 ## ⚡️ 3-Line Summary (TL;DR)
 
-1. Leverage Slack's no-code **Workflow Builder** to deploy an automated bot in minutes.
-2. Configure specific trigger phrases (e.g., "Lunch recommendations") or emoji reactions to summon the assistant.
-3. Integrate an AI connector (like ChatGPT) to run a custom prompt that curates menus based on the weather, team mood, and specific dining scenarios.
+1. Leverage Slack's no-code **Workflow Builder** to deploy a fully automated lunch bot in minutes.
+2. Configure specific trigger phrases (e.g., "Lunch recommendations") or emoji reactions to instantly summon your assistant.
+3. Integrate an AI connector (like ChatGPT) to run a custom prompt that curates menus based on the weather, team morale, and specific dining scenarios.
 
 ---
 
@@ -45,7 +45,7 @@ Deploy this prompt when you need an immediate cure for decision paralysis.
 
 ### 🥇 Pro Version
 
-Use this advanced prompt when you want highly tailored, context-aware lunch recommendations that factor in the weather, the team's current mood, and headcount.
+Use this advanced prompt when you want highly tailored, context-aware lunch recommendations that factor in the weather, the team's current mood, and your exact headcount.
 
 > **Role:** You are an esteemed gourmet food critic and a local restaurant expert navigating the dining scene near our workplace (`[Office Location, e.g., Downtown / Financial District]`).
 >
@@ -73,7 +73,7 @@ Use this advanced prompt when you want highly tailored, context-aware lunch reco
 
 ## 💡 Writer's Insight
 
-A Slack bot is far more than a mere technical feature—it's a potent catalyst for shaping corporate **culture**. It acts as social lubricant, injecting lighthearted moments and effortless conversation starters into a workspace that might otherwise be bogged down by stiff, formal directives. If you launch a lunch bot and see positive engagement, you can easily scale the concept into a "Kudos Bot," a "Birthday Bot," or a "Weekly Retrospective Bot," cultivating a more vibrant and flexible organizational culture. Furthermore, by connecting this prompt with automation platforms like Zapier or Make, you can transcend the limitations of native Slack workflows and evolve it into a remarkably sophisticated AI assistant.
+A Slack bot is far more than a mere technical novelty—it is a potent catalyst for shaping corporate **culture**. It acts as a social lubricant, injecting lighthearted moments and effortless conversation starters into a workspace that might otherwise be bogged down by stiff, formal directives. If you launch a lunch bot and see positive engagement from your team, you can easily scale the concept into a "Kudos Bot," a "Birthday Bot," or even a "Weekly Retrospective Bot," cultivating a much more vibrant and flexible organizational atmosphere. Furthermore, by connecting this prompt with automation platforms like Zapier or Make, you can transcend the limitations of native Slack workflows and evolve your simple tool into a remarkably sophisticated AI assistant.
 
 ---
 

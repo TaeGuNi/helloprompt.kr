@@ -21,7 +21,7 @@ tags: ["Midjourney", "이미지 생성", "디자인", "프롬프트"]
 
 > _"E se eu dissesse que você pode zerar os milhares de reais gastos em locação de estúdios, contratação de modelos e equipamentos de iluminação de ponta?"_
 
-Com a chegada do Midjourney v7, a era das imagens com aquela típica "textura de plástico de IA" chegou definitivamente ao fim. Entramos na era do fotorrealismo extremo, onde até fotógrafos veteranos hesitam ao tentar distinguir uma foto real de uma gerada por inteligência artificial. No entanto, para extrair 100% do poder de renderização dessa nova versão, seus prompts exigem um nível de sofisticação à altura.
+Com a chegada do Midjourney v7, a era das imagens com aquela típica "textura de plástico de IA" chegou definitivamente ao fim. Entramos na era do fotorrealismo extremo, onde até fotógrafos veteranos hesitam ao tentar distinguir uma foto real de uma gerada por inteligência artificial. No entanto, para extrair 100% do poder de renderização desta nova versão, os seus prompts exigem um nível de sofisticação à altura.
 
 O prompt que apresentaremos hoje não deve ser colado diretamente no Midjourney. **Ele é um 'Meta-Prompt': vamos transformar o ChatGPT em um fotógrafo comercial com 20 anos de experiência para que ele gere, de forma autônoma, os parâmetros perfeitos em inglês para o Midjourney v7.**
 
@@ -29,7 +29,7 @@ O prompt que apresentaremos hoje não deve ser colado diretamente no Midjourney.
 
 ## ⚡️ Resumo em 3 Pontos (TL;DR)
 
-1. O Midjourney v7 deu um salto colossal rumo ao fotorrealismo, destacando-se de forma brilhante no cálculo de dispersão de luz e na textura da pele.
+1. O Midjourney v7 deu um salto colossal rumo ao fotorrealismo, destacando-se de forma brilhante no cálculo de dispersão da luz e na textura da pele.
 2. Para romper a barreira da mera "imagem bonita" e gerar uma "fotografia hiper-realista", é indispensável especificar lentes, tipos de filme e esquemas de iluminação complexos.
 3. Não domina os jargões técnicos de fotografia? Sem problemas. Basta colar o prompt abaixo no ChatGPT para obter os parâmetros exatos de um estúdio de alto padrão.
 
@@ -44,7 +44,7 @@ Copie este prompt e cole no **ChatGPT (ou Claude)**. Não o insira diretamente n
 Ideal para quando você precisa de resultados rápidos e de uma imagem com um nível de realismo convincente.
 
 > **Função:** Você é um fotógrafo comercial de elite e especialista em engenharia de prompts para o Midjourney v7.
-> **Tarefa:** Com base no `[tema central da foto]` que eu fornecer, crie um prompt em inglês, de apenas uma linha, focado em gerar a fotografia mais hiper-realista possível no Midjourney v7.
+> **Tarefa:** Com base no `[inserir o tema central da foto]` que eu fornecer, crie um prompt em inglês, de apenas uma linha, focado em gerar a fotografia mais hiper-realista possível no Midjourney v7.
 
 ### 🥇 Versão Pro (Profissional)
 
@@ -54,8 +54,8 @@ Recomendada quando a exigência é qualidade de estúdio premium, capturando mic
 >
 > **Contexto (Context):**
 >
-> - Preciso de uma fotografia hiper-realista e de altíssima resolução que retrate `[sujeito e a atmosfera desejada. Ex: Uma mulher de 20 e poucos anos tomando um café gelado em uma cafeteria com luz natural]`.
-> - Esta imagem será utilizada como destaque em um lookbook de alta costura ou em uma campanha publicitária de alto luxo.
+> - Preciso de uma fotografia hiper-realista e de altíssima resolução que retrate `[inserir o sujeito e a atmosfera desejada. Ex: Uma mulher de 20 e poucos anos tomando um café gelado em uma cafeteria com luz natural]`.
+> - Esta imagem será utilizada como destaque em um lookbook de alta costura ou em uma campanha publicitária de luxo.
 >
 > **Tarefa (Task):**
 >
@@ -83,20 +83,20 @@ Recomendada quando a exigência é qualidade de estúdio premium, capturando mic
 
 O verdadeiro divisor de águas para alcançar o hiper-realismo no Midjourney v7 reside no domínio da **Iluminação (Lighting)** e da **Distância focal da lente (Lens focal length)**. Solicitar de forma genérica uma *"beautiful lighting"* (iluminação bonita) invariavelmente resultará naquela pele com aspecto de porcelana plastificada, marca registrada das imagens geradas por IA amadoras.
 
-Para fugir dessa armadilha, assuma o controle direcional da luz com termos técnicos como *"Rembrandt lighting"* ou *"Window blind shadows"* (sombras de persianas). Em paralelo, ao especificar uma lente teleobjetiva clara — como `85mm f/1.2` — junto à palavra-chave *"shallow depth of field"* (profundidade de campo rasa), você força o algoritmo a gerar um desfoque de fundo (bokeh) orgânico e cinematográfico. Esse truque isola o sujeito, criando uma composição dramática inegavelmente profissional. Não domina o jargão fotográfico? Fique tranquilo. Ao rodar o Meta-Prompt da Versão Pro no ChatGPT, a própria IA atua como seu diretor de fotografia, selecionando a ótica e a iluminação perfeitas para a sua cena.
+Para fugir dessa armadilha, assuma o controle direcional da luz com termos técnicos como *"Rembrandt lighting"* ou *"Window blind shadows"* (sombras de persianas). Em paralelo, ao especificar uma lente teleobjetiva clara — como `85mm f/1.2` — junto à palavra-chave *"shallow depth of field"* (profundidade de campo rasa), você força o algoritmo a gerar um desfoque de fundo (bokeh) orgânico e cinematográfico. Esse truque isola o sujeito, criando uma composição dramática inegavelmente profissional. Não domina o jargão fotográfico? Fique tranquilo. Ao rodar o Meta-Prompt da Versão Pro no ChatGPT, a própria IA atua como o seu diretor de fotografia, selecionando a ótica e a iluminação perfeitas para a sua cena.
 
 ---
 
 ## 🙋 Perguntas Frequentes (FAQ)
 
 - **Q: Qual é a função exata do parâmetro `--style raw` no final do prompt?**
-  - A: Esse parâmetro desativa o "embelezamento estético padrão" do Midjourney. Ele é crucial para preservar a textura crua, orgânica e autêntica de um arquivo fotográfico não processado (RAW). Para alcançar o fotorrealismo extremo, o uso dessa tag deixa de ser opcional e passa a ser obrigatório.
+  - A: Esse parâmetro desativa o "embelezamento estético padrão" do Midjourney. Ele é crucial para preservar a textura crua, orgânica e autêntica de um arquivo fotográfico não processado (RAW). Para alcançar o fotorrealismo extremo, o uso desta tag deixa de ser opcional e passa a ser obrigatório.
 
-- **Q: Na v6, era comum lidar com anomalias anatômicas, como mãos com seis dedos. Como a v7 se comporta nesse aspecto?**
-  - A: O Midjourney v7 resolveu cerca de 99% dessas falhas estruturais clássicas em membros e articulações. O motor de renderização atual reproduz com perfeição desde fios de cabelo soltos até as veias sutis no dorso da mão. O antigo pesadelo anatômico da IA ficou no passado.
+- **Q: Na v6, era comum lidar com anomalias anatômicas, como mãos com seis dedos. Como a v7 se comporta neste aspecto?**
+  - A: O Midjourney v7 resolveu cerca de 99% dessas falhas estruturais clássicas em membros e articulações. O motor de renderização atual reproduz com perfeição desde fios de cabelo soltos até às veias sutis no dorso da mão. O antigo pesadelo anatômico da IA ficou no passado.
 
-- **Q: Posso escrever meu prompt diretamente em português no Midjourney?**
-  - A: O núcleo de processamento do Midjourney ainda é absurdamente superior interpretando inglês. É por isso que a estratégia central deste guia envolve **usar o ChatGPT como seu tradutor técnico e engenheiro de prompts**, convertendo suas ideias em português para parâmetros profissionais hiper-detalhados em inglês.
+- **Q: Posso escrever o meu prompt diretamente em português no Midjourney?**
+  - A: O núcleo de processamento do Midjourney ainda é absurdamente superior interpretando inglês. É por isso que a estratégia central deste guia envolve **usar o ChatGPT como seu tradutor técnico e engenheiro de prompts**, convertendo as suas ideias em português para parâmetros profissionais hiperdetalhados em inglês.
 
 ---
 
@@ -128,14 +128,14 @@ Este é o impacto de utilizar o prompt em inglês meticulosamente orquestrado pe
 Cinematic shot of a Korean woman in her 20s sipping an iced latte, natural sunlight hitting her face through window blinds, dust particles floating in the air, shot on Sony A7R V, 85mm f/1.2 lens, shallow depth of field, hyper-realistic skin texture, microscopic pore details visible, subtle peach fuzz, Kodak Portra 400 film grain, moody cinematic vibe --ar 16:9 --v 7 --style raw --q 2 --stylize 100
 ```
 
-- **Resultado:** Uma densidade de detalhes absurda. O feixe de luz natural rasga as persianas, revelando micropartículas de poeira no ar e a penugem sutil no rosto (*peach fuzz*). O Midjourney entrega uma fotografia editorial de alto luxo em poucos segundos.
+- **Resultado:** Uma densidade de detalhes absurda. O feixe de luz natural rasga as persianas, revelando micropartículas de poeira no ar e a penugem sutil no rosto (*peach fuzz*). O Midjourney entrega uma fotografia editorial de luxo em poucos segundos.
 
 ---
 
 ## 🎯 Conclusão
 
-A era dos orçamentos astronômicos em locações e aluguel de equipamentos pesados acabou. Hoje, a forma como você arquiteta uma única linha de prompt define sua lente, seu esquema de luz e o padrão do seu estúdio.
+A era dos orçamentos astronômicos em locações e aluguel de equipamentos pesados acabou. Hoje, a forma como você arquiteta uma única linha de prompt define a sua lente, o seu esquema de luz e o padrão do seu estúdio.
 
-Copie o nosso Meta-Prompt agora mesmo e monte seu próprio estúdio de fotografia premium movido a IA.
+Copie o nosso Meta-Prompt agora mesmo e monte o seu próprio estúdio de fotografia premium movido a IA.
 
 E com as horas (e os milhares de reais) economizadas, aproveite para encerrar o expediente mais cedo! 🍷

@@ -5,13 +5,13 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "건강/라이프"
-description: "Antes de pagar un costoso entrenador personal, consúltalo con la IA. Corrige tu postura al entrenar en casa utilizando la función Vision de GPT-4o."
+description: "Antes de pagar por un costoso entrenador personal, consúltalo con la IA. Corrige tu postura al entrenar en casa utilizando la función Vision de GPT-4o."
 tags: ["운동", "헬스", "PT", "스쿼트", "ChatGPT"]
 ---
 
 # 🏋️ Corrección de postura: Analiza tus sentadillas en video y recibe feedback (Vision)
 
-- **🎯 Recomendado para:** Oficinistas que sufren dolor articular al entrenar en casa, estudiantes y jóvenes profesionales sin presupuesto para un entrenador personal (PT).
+- **🎯 Recomendado para:** Oficinistas que sufren de dolor articular al entrenar en casa, estudiantes y jóvenes profesionales sin presupuesto para un entrenador personal (PT).
 - **⏱️ Tiempo estimado:** 1 minuto (grabar y subir el video).
 - **🤖 Modelos recomendados:** Cualquier IA conversacional con visión (ChatGPT GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro).
 
@@ -19,16 +19,16 @@ tags: ["운동", "헬스", "PT", "스쿼트", "ChatGPT"]
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"¿Has hecho 100 sentadillas y tus muslos están a tope, pero sientes que las rodillas y la zona lumbar están a punto de estallar?"_
+> _"¿Haces 100 sentadillas y sientes que tus muslos arden, pero también que tus rodillas y la zona lumbar están a punto de estallar?"_
 
-Repetir ejercicios con una mala postura no es entrenar; es someter a tu cuerpo a un "trabajo forzado" que destroza tus articulaciones. Si te miras al espejo sin saber en qué te estás equivocando y pagar a un entrenador personal se sale de tu presupuesto, es hora de probar la **función 'Vision' de tu entrenador de IA**. Con tan solo subir un video de tu rutina, la IA analiza los ángulos y la biomecánica de tus articulaciones, detectando con precisión errores críticos como "las rodillas sobrepasan demasiado la punta de los pies" o "tu zona lumbar se está redondeando en exceso (*butt wink*)".
+Repetir ejercicios con una mala postura no es entrenar; es someter a tu cuerpo a un trabajo forzado que destroza tus articulaciones lentamente. Te miras al espejo intentando descifrar qué estás haciendo mal, pero sin el conocimiento adecuado, es imposible. Además, contratar a un entrenador personal (PT) suele salirse del presupuesto. Aquí es donde entra en juego tu salvación: la **función 'Vision' de la IA**. Con solo subir un breve video de tu rutina, tu nuevo entrenador virtual analizará los ángulos y la biomecánica exacta de tus movimientos. Es capaz de detectar con precisión milimétrica errores críticos que a simple vista pasan desapercibidos, advirtiéndote si "tus rodillas sobrepasan peligrosamente la punta de tus pies" o si "tu zona lumbar se está redondeando en exceso en el punto más bajo (*butt wink*)". Olvídate de las lesiones y empieza a entrenar con la seguridad de un profesional a tu lado.
 
 ---
 
 ## ⚡️ Resumen en 3 líneas (TL;DR)
 
-1. Graba un video de unos 10 segundos donde se vea tu cuerpo entero desde un ángulo lateral o en diagonal a 45 grados.
-2. Abre la app de ChatGPT (o tu IA de preferencia) y sube el clip.
+1. Graba un clip de unos 10 segundos donde se aprecie tu cuerpo entero desde un ángulo lateral o en diagonal a 45 grados.
+2. Abre la aplicación de ChatGPT (o tu IA visual favorita) y sube el video.
 3. Introduce el prompt: **"Analiza y corrige mi postura al hacer sentadillas desde la perspectiva de un entrenador especializado en rehabilitación deportiva."**
 
 ---
@@ -37,7 +37,7 @@ Repetir ejercicios con una mala postura no es entrenar; es someter a tu cuerpo a
 
 ### 🥉 Versión Básica
 
-Ideal para identificar rápidamente los errores más evidentes en tu postura actual.
+Ideal para detectar de un vistazo los errores más flagrantes en tu técnica actual.
 
 > **Rol:** Eres un entrenador personal con 10 años de experiencia.
 > **Tarea:** El video adjunto muestra mi postura haciendo `[sentadillas]`. Identifica cualquier error que me ponga en riesgo de lesión y evalúa mi técnica con una puntuación del 1 al 10.
@@ -50,7 +50,7 @@ Ideal para identificar rápidamente los errores más evidentes en tu postura act
 >
 > **Contexto (Context):**
 >
-> - Antecedentes: Estoy entrenando solo en casa `[entrenamiento en casa]` y siento un dolor punzante en `[las rodillas]` al realizar este ejercicio.
+> - Antecedentes: Estoy entrenando solo en casa `[entrenando en casa]` y siento un dolor punzante en `[las rodillas]` al realizar este ejercicio.
 > - Objetivo: Dominar la postura correcta para maximizar el estímulo muscular sin riesgo de lesiones.
 >
 > **Tarea (Task):**
@@ -73,13 +73,13 @@ Ideal para identificar rápidamente los errores más evidentes en tu postura act
 
 ## 💡 Notas del autor (Insight)
 
-La capacidad de procesamiento visual de la IA (Vision API) es brutal para detectar variaciones milimétricas en los ángulos o realizar una estimación de postura (*Pose Estimation*) que al ojo humano se le suele escapar. Tras ponerlo a prueba exhaustivamente en mis propios entrenamientos en casa, descubrí un factor determinante: si te grabas con camisetas holgadas o pantalones anchos (como los *joggers*), a la IA le resulta imposible localizar con exactitud tus articulaciones, lo que a menudo genera un *feedback* genérico o incorrecto.
+La capacidad de procesamiento visual de la IA (Vision API) es verdaderamente brutal a la hora de detectar variaciones milimétricas en tus ángulos o realizar una estimación de postura (*Pose Estimation*) que al ojo humano se le escaparía por completo. Tras ponerla a prueba exhaustivamente durante mis propios entrenamientos en casa, descubrí un factor determinante: si te grabas con camisetas holgadas o pantalones anchos (como los *joggers*), a la IA le resulta imposible localizar con exactitud dónde están tus articulaciones. ¿El resultado? Un *feedback* genérico, inútil o directamente incorrecto.
 
 **Consejos de grabación para disparar la precisión del análisis en un 200%:**
 
-1. **Ropa:** Utiliza prendas deportivas ajustadas (mallas, camisetas *slim fit*) que dibujen claramente la silueta natural de tu cuerpo.
-2. **Ángulo de cámara:** La mayor tasa de acierto se consigue grabando de perfil o en un ángulo diagonal de 45 grados, asegurándote de encuadrar tu cuerpo entero, en lugar de grabarte de frente.
-3. **Entorno:** Graba en un espacio bien iluminado donde exista un contraste claro entre el color de tu ropa y el fondo de la habitación.
+1. **Ropa:** Utiliza prendas deportivas ajustadas (como mallas o camisetas *slim fit*) que dibujen claramente la silueta natural de tu cuerpo.
+2. **Ángulo de cámara:** La mayor tasa de acierto se consigue grabando de perfil o en un ángulo diagonal de 45 grados. Asegúrate siempre de encuadrar tu cuerpo entero, evitando grabarte totalmente de frente.
+3. **Entorno:** Graba en un espacio bien iluminado donde exista un contraste evidente entre el color de tu ropa y el fondo de la habitación.
 
 ---
 

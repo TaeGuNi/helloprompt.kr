@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: " "
-description: "Generieren Sie in nur einer Minute einen kompletten 30-Tage-Content-Kalender für Social Media. Ein unverzichtbarer Prompt für Marketer, die das tägliche Rätselraten um den nächsten Post beenden wollen."
+description: "Erstellen Sie in nur einer Minute einen kompletten 30-Tage-Content-Kalender für Social Media. Ein unverzichtbarer Prompt für Marketer, die dem täglichen Rätselraten um den nächsten Post ein Ende setzen wollen."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "social-media-pl"]
 ---
 
@@ -19,17 +19,17 @@ tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "social-media-pl"]
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
 - 🚀 **Nutzen:** ⭐⭐⭐⭐⭐
 
-> _"Was poste ich heute bloß?" Wenn Sie morgens oft ratlos auf einen leeren Bildschirm starren und sich damit den Feierabend ruinieren – überlassen Sie die Planung ab sofort der KI und fokussieren Sie sich rein auf die Umsetzung._
+> _"Was soll ich heute bloß posten?" Wenn Sie morgens oft ratlos auf einen leeren Bildschirm starren und sich damit den Feierabend ruinieren – überlassen Sie die Planung ab sofort der KI und fokussieren Sie sich voll und ganz auf die Umsetzung._
 
-Die Content-Planung ist ein enormer Zeitfresser. Die Zielgruppe zu analysieren, treffsichere Trends aufzuspüren und den exakten Nerv für jeden Wochentag zu treffen, kostet nicht selten den halben Arbeitstag. Dieser Prompt liefert Ihnen auf Knopfdruck einen sofort einsatzbereiten Social-Media-Kalender für einen ganzen Monat, sobald Sie Ihre Branche und Zielgruppe definieren. Das absolute Hauptziel: Die Zeit von der Idee bis zum fertigen Copy-Paste für Fachexperten drastisch zu minimieren.
+Die Content-Planung ist ein gewaltiger Zeitfresser. Die Zielgruppe zu analysieren, treffsichere Trends aufzuspüren und exakt den Nerv für jeden Wochentag zu treffen, kostet nicht selten einen halben Arbeitstag. Dieser Prompt liefert Ihnen auf Knopfdruck einen sofort einsatzbereiten Social-Media-Kalender für einen ganzen Monat – Sie müssen lediglich Ihre Branche und Zielgruppe definieren. Das absolute Hauptziel: Die Zeit von der ersten Idee bis zum fertigen Copy-Paste-Post für Fachexperten drastisch zu minimieren.
 
 ---
 
 ## ⚡️ 3-Sätze-Zusammenfassung (TL;DR)
 
-1. Beenden Sie die tägliche "Content-Blockade" mit nur einer einzigen, gezielten Prompt-Ausführung.
-2. Analysiert die Pain-Points Ihrer Zielgruppe, um hochkonvertierende Hook-Sätze zu generieren.
-3. Liefert das Ergebnis als mobilfreundliche Markdown-Liste (ohne Tabellen!), die sofort nahtlos in Slack oder Notion geteilt werden kann.
+1. Beenden Sie die tägliche Content-Blockade mit nur einer einzigen, gezielten Prompt-Ausführung.
+2. Analysieren Sie die Pain-Points Ihrer Zielgruppe, um sofort hochkonvertierende Hook-Sätze zu generieren.
+3. Erhalten Sie das Ergebnis als mobilfreundliche Markdown-Liste (ohne Tabellen!), die sich nahtlos in Slack oder Notion teilen lässt.
 
 ---
 
@@ -39,7 +39,7 @@ Die Content-Planung ist ein enormer Zeitfresser. Die Zielgruppe zu analysieren, 
 
 Nutzen Sie diese Variante, wenn Sie einfach nur rasch eine Liste frischer Ideen benötigen.
 
-> **Rolle:** Du bist ein `[Social-Media-Content-Director mit 10 Jahren Erfahrung]`.
+> **Rolle:** Du bist ein `[Social Media Content Director mit 10 Jahren Erfahrung]`.
 > **Aufgabe:** Erstelle mir eine Themenliste für Instagram Reels für 30 Tage, um eine `[Finanz-App für junge Berufstätige in den 20ern]` zu bewerben. Ich werde ausschließlich von Montag bis Freitag posten.
 
 ### 🥇 Pro Version (Die Experten-Methode)
@@ -69,7 +69,7 @@ Nutzen Sie diese Variante, wenn Sie in einem einzigen Durchlauf detaillierte Tag
 > **Einschränkungen (Constraints):**
 > - Verwende für das finale Ausgabeformat absolut keine Markdown-Tabellen (Table). 
 > - Gib die Ergebnisse stattdessen als klar strukturierte Liste mit Bullet Points und Emojis aus.
-> - Die Hook-Sätze dürfen keinesfalls abstrakt sein. Verwende konkrete Zahlen oder starke, triggernde Trigger-Wörter (z. B.: "Wenn Sie diesen Excel-Trick nicht kennen, machen Sie Ihr Leben lang Überstunden" usw.).
+> - Die Hook-Sätze dürfen keinesfalls abstrakt sein. Verwende konkrete Zahlen oder starke Trigger-Wörter (z. B.: "Wenn Sie diesen Excel-Trick nicht kennen, machen Sie Ihr Leben lang Überstunden" usw.).
 > - Verzichte auf jegliche einleitende Floskeln oder abschließende Zusammenfassungen – beginne direkt mit dem Kalender.
 >
 > **Warnung (Warning):**

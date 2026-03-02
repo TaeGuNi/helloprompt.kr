@@ -19,13 +19,13 @@ tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "competitor-anal"]
 
 > _"Ugh... I have to analyze three key competitors and submit a full report by tomorrow. How am I supposed to dig all this up in time?"_
 
-The days of endlessly Googling, scraping news articles, and digging through dry financial statements are over. Today, a strategist's core competency is no longer information retrieval—it's information interpretation. This prompt instantly aggregates scattered market trends and competitor data, generating a razor-sharp SWOT analysis and actionable strategic insights that you can practically copy and paste straight into your business proposals.
+The days of endless Googling, scraping news articles, and digging through dry financial statements are officially over. Today, a strategist's true value lies not in information retrieval, but in information interpretation. This prompt instantly aggregates scattered market trends and competitor data, generating a razor-sharp SWOT analysis and actionable strategic insights that you can practically copy and paste straight into your executive briefings.
 
 ---
 ## ⚡️ 3-Line Summary (TL;DR)
 - 🔍 Leverages AI web search capabilities to instantly synthesize real-time competitor movements and emerging market trends.
-- 📊 Goes beyond high-level abstractions to deliver a comprehensive SWOT analysis backed by concrete, real-world examples.
-- 💡 Doesn't just stop at analysis—it arms you with highly actionable strategic insights to answer the critical question: "So, what exactly is our next move?"
+- 📊 Cuts through the noise of high-level abstractions to deliver a rigorous SWOT analysis backed by concrete, real-world evidence.
+- 💡 Goes beyond mere observation—it arms you with highly actionable strategic directives that definitively answer the critical question: "So, what exactly is our next move?"
 
 ---
 ## 🚀 The Solution: "Hyper-Precision Competitor SWOT & Trend Analysis Prompt"
@@ -66,21 +66,21 @@ Use this when you need an in-depth, report-ready analysis packed with actionable
 ## 💡 Author's Insight
 Let's be brutally honest—pulling all-nighters to churn out boilerplate market research reports is a massive waste of your talent. By deploying the prompt above, you can generate a rock-solid first draft in under 3 minutes. 
 
-The true power of this prompt doesn't lie in mere 'data collection.' Its genius is that it **forces the AI to extract an actionable differentiation strategy for *your* brand (Task 3)**. I specifically engineered this structure so the AI seamlessly translates your competitors' 'Weaknesses (W)' directly into your own distinct 'Selling Points.'
+The true power of this prompt doesn't lie in mere 'data collection.' Its genius is that it **forces the AI to extract an actionable differentiation strategy tailored specifically for *your* brand (Task 3)**. I specifically engineered this structure so the AI seamlessly translates your competitors' 'Weaknesses (W)' directly into your own distinct 'Selling Points.'
 
-**Pro Tip:** Once the AI delivers its analysis, if a particular strategy catches your eye, hit it with a follow-up prompt like: *"Break down Strategy #3 into a 3-step MVP (Minimum Viable Product) test plan that we can execute with a $10,000 budget."* Watch how fast your manager approves that proposal. Just remember to thoroughly review the final output and fine-tune it to reflect your own field experience and your company's actual capabilities. AI is a brilliant assistant, but you are the strategist at the helm.
+**Pro Tip:** Once the AI delivers its analysis, if a particular strategy catches your eye, hit it with a follow-up prompt like: *"Break down Strategy #3 into a 3-step MVP (Minimum Viable Product) test plan that we can execute with a $10,000 budget."* Watch how fast your manager approves that proposal. Just remember to thoroughly review the final output and fine-tune it to reflect your own field experience and your company's actual capabilities. AI is a brilliant assistant, but you remain the master strategist at the helm.
 
 ---
 ## 🙋 FAQ
 - **Q: Can I use this prompt with free AI models?**
-  - A: When it comes to market research, real-time data is everything. Older models without active web browsing capabilities often hallucinate or return severely outdated results. For professional use, I strongly recommend utilizing Perplexity AI, ChatGPT (with Web Search enabled on GPT-4o), or Claude 3.5 Sonnet.
+  - A: When it comes to market research, real-time data is everything. Older models lacking active web browsing capabilities often hallucinate or return severely outdated results. For professional-grade output, I strongly recommend utilizing Perplexity AI, ChatGPT (with Web Search enabled on GPT-4o), or Claude 3.5 Sonnet.
 - **Q: Will this work well for B2B or highly niche markets?**
-  - A: Extremely niche or B2B market data can sometimes be scarce on the open web. If you run into this issue, append this line to your prompt: *"If direct search data is limited, infer strategic insights based on case studies from adjacent or analogous industries."* Another pro tip is to always input your `[Industry]` terminology in English to tap into a much broader pool of global research data.
+  - A: Extremely niche or B2B market data can sometimes be scarce on the open web. If you run into this roadblock, simply append this line to your prompt: *"If direct search data is limited, infer strategic insights based on case studies from adjacent or analogous industries."* Another pro tip is to always input your `[Industry]` terminology in English to tap into a vastly broader pool of global research data.
 
 ---
 ## 🧬 Anatomy of the Prompt (Why it works?)
-- **Hyper-Specific Targeting:** By embedding `[Description of our product/service]` directly into the Context, the AI abandons generic, textbook answers and instead pivots to an analysis that is **highly relevant and tailored specifically to your company's vantage point**.
-- **Strict Fact Enforcement:** Mandating the inclusion of *"at least one real-world example from the past 6 months"* dramatically curtails hallucinations and injects immediate credibility into your report.
+- **Hyper-Specific Targeting:** By embedding `[Description of our product/service]` directly into the Context, the AI abandons generic, textbook answers and instead pivots to an analysis that is **highly relevant and tailored specifically to your company's unique vantage point**.
+- **Strict Fact Enforcement:** Mandating the inclusion of *"at least one real-world example from the past 6 months"* dramatically curtails hallucinations and injects immediate, verifiable credibility into your report.
 - **Action-Oriented Architecture:** This prompt refuses to stop at a theoretical SWOT analysis. It explicitly demands strategic proposals, effectively solving the ultimate dilemma of every corporate strategist: "Great data, but what exactly are we supposed to do about it?"
 
 ---
@@ -91,10 +91,10 @@ The true power of this prompt doesn't lie in mere 'data collection.' Its genius 
 *(Result: Textbook answers everyone already knows, stale data from 2021, and absolutely zero actionable guidance on what your own product should do next.)*
 
 ### ✅ After (Result)
-- **Market Trends:** Intensifying competition in free delivery subscription models (e.g., DoorDash's aggressive unlimited free delivery push), a heavy pivot toward hyper-local community features, etc.
+- **Market Trends:** Intensifying competition in free delivery subscription models (e.g., DoorDash's aggressive unlimited free delivery push), alongside a heavy pivot toward hyper-local community features.
 - **Competitor SWOT (e.g., DoorDash):** 
   - 🟢 Strengths: Powerful customer lock-in via their broader ecosystem linkage (DashPass).
-  - 🔴 Weaknesses: A noticeable lack of curated store selections optimized specifically for single-person households, alongside shallow user review data.
+  - 🔴 Weaknesses: A noticeable lack of curated store selections optimized specifically for single-person households, coupled with shallow user review data.
 - **Our Differentiation Strategy Proposal:** "As a latecomer to the fiercely competitive delivery app market, we must avoid the margin-crushing battle of free deliveries. Instead, we should aggressively target a niche segment by launching a 'micro-takeout specialized platform for solo households, driven by a gamified review reward system'." *(Delivers highly specific, commercially viable, and actionable strategic insights)*
 
 ---

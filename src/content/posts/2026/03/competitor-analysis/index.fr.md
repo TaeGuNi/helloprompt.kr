@@ -11,24 +11,24 @@ tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "competitor-anal"]
 
 # 📝 🔥 Le Prompt SWOT et Étude de Marché Parfait pour les Chefs de Produit
 
-- **🎯 Public cible :** Chefs de produit (PM), marketeurs, responsables du développement commercial, profils juniors (1 à 3 ans d'expérience)
-- **⏱️ Gain de temps :** De 3 jours à 3 minutes
+- **🎯 Cible idéale :** Product Managers (PM), marketeurs, business developers, profils juniors (1 à 3 ans d'expérience)
+- **⏱️ Temps gagné :** De 3 jours à 3 minutes
 - **🤖 Modèles recommandés :** Claude 3.5 Sonnet, GPT-4o (Recherche web indispensable)
 - ⭐ **Difficulté :** ⭐⭐⭐☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
 - 🚀 **Utilité :** ⭐⭐⭐⭐⭐
 
-> _"Ah... je dois analyser trois concurrents et rendre un rapport pour demain. Comment je vais trouver le temps de faire tout ça ?"_
+> _"Il faut que j'analyse nos trois principaux concurrents et que je ponde un rapport stratégique pour demain matin. Comment je vais survivre à cette nuit ?"_
 
-L'époque où l'on épluchait Google, compilait des articles et décortiquait des états financiers est révolue. Aujourd'hui, la compétence clé d'un chef de produit n'est plus la "recherche d'informations", mais bien "l'interprétation des données". Ce prompt agrège les tendances du marché et les données concurrentielles dispersées sur le web pour générer une analyse SWOT et des insights si pertinents qu'ils sont prêts à être copiés-collés directement dans votre recommandation stratégique.
+L'époque où l'on passait ses nuits à éplucher Google, compiler des dizaines d'articles et décortiquer des états financiers est définitivement révolue. Aujourd'hui, la véritable valeur ajoutée d'un Product Manager ne réside plus dans l'extraction laborieuse d'informations, mais dans l'interprétation stratégique des données. Ce prompt agit comme votre analyste personnel : il agrège les tendances du marché et les dynamiques concurrentielles éparpillées sur le web pour générer une matrice SWOT et des insights si percutants qu'ils sont prêts à être copiés-collés directement dans votre présentation au comité de direction.
 
 ---
 
 ## ⚡️ Résumé en 3 points (TL;DR)
 
-- 🔍 **Recherche en temps réel :** Exploite la connexion web de l'IA pour compiler les toutes dernières dynamiques concurrentielles et tendances du marché.
-- 📊 **Analyse ancrée dans le réel :** Déduit les Forces (Strengths), Faiblesses (Weaknesses), Opportunités (Opportunities) et Menaces (Threats) en s'appuyant sur des cas concrets, loin des théories abstraites.
-- 💡 **Recommandations actionnables :** Va au-delà du simple constat en fournissant des implications stratégiques claires pour répondre à la question fatidique : "Et donc, que faisons-nous concrètement ?"
+- 🔍 **Recherche en temps réel :** Exploite l'accès web de l'IA pour synthétiser les toutes dernières dynamiques concurrentielles et les tendances brûlantes du marché.
+- 📊 **Analyse pragmatique :** Construit une matrice SWOT (Forces, Faiblesses, Opportunités, Menaces) en s'appuyant exclusivement sur des cas concrets et des données factuelles, loin des théories fumeuses.
+- 💡 **Recommandations actionnables :** Dépasse le simple constat d'observateur pour formuler des implications stratégiques claires qui répondent à l'ultime question : "Et maintenant, on fait quoi concrètement ?"
 
 ---
 
@@ -36,86 +36,88 @@ L'époque où l'on épluchait Google, compilait des articles et décortiquait de
 
 ### 🥉 Version Basique (Basic Version)
 
-À utiliser lorsque vous avez besoin d'un aperçu rapide sur un concurrent spécifique.
+Idéale pour obtenir un radar rapide et efficace sur un acteur spécifique du marché.
 
-> **Rôle :** Tu es un planificateur stratégique senior dans le secteur de `[Secteur d'activité]`.
-> **Tâche :** Résume les dynamiques clés de la dernière année et fournis une analyse SWOT pour `[Nom du concurrent]`. Utilise la recherche web pour intégrer les articles les plus récents.
+> **Rôle :** Tu es un planificateur stratégique senior expert dans le domaine : `[Secteur d'activité]`.
+> **Tâche :** Synthétise les dynamiques clés de l'année écoulée et réalise une analyse SWOT complète pour `[Nom du concurrent]`. Navigue sur le web pour sourcer et intégrer les articles de presse et rapports les plus récents.
 
 ### 🥇 Version Pro (Expert Version)
 
-À utiliser lorsque vous avez besoin d'une analyse approfondie et de recommandations stratégiques de qualité professionnelle, prêtes à être intégrées dans un rapport.
+À dégainer lorsque vous avez besoin d'une analyse chirurgicale et de recommandations dignes d'un cabinet de conseil top-tier, prêtes à être injectées dans votre roadmap.
 
 > **Rôle (Role) :** 
-> Tu es un planificateur stratégique senior et un expert en études de marché au sein d'un cabinet de conseil en stratégie de premier plan.
+> Tu es un consultant en stratégie de haut niveau et un expert pointu en études de marché au sein d'un cabinet de conseil prestigieux.
 > 
 > **Contexte (Context) :**
-> - Arrière-plan : Nous développons actuellement ou gérons `[Description de notre produit/service]`.
-> - Concurrents cibles : `[Concurrent A]`, `[Concurrent B]`, `[Concurrent C]`
-> - Objectif : Comprendre le positionnement actuel des principaux concurrents sur le marché et en déduire notre stratégie de différenciation (plans d'action).
+> - Notre situation : Nous développons ou pilotons actuellement `[Description de notre produit/service]`.
+> - Concurrents dans le viseur : `[Concurrent A]`, `[Concurrent B]`, `[Concurrent C]`
+> - Objectif : Décrypter le positionnement actuel de ces acteurs majeurs pour en déduire notre propre stratégie de différenciation et nos plans d'action immédiats.
 > 
 > **Tâche (Task) :**
-> Analyse et rédige les 3 points suivants dans l'ordre. Tu dois impérativement intégrer les résultats de recherche web les plus récents.
+> Analyse la situation et rédige les 3 sections suivantes dans l'ordre chronologique. Tu as l'obligation absolue d'utiliser la recherche web pour sourcer les données les plus fraîches.
 > 
-> 1. Analyse des tendances du marché : Identifie les 3 tendances clés actuelles dans le secteur de `[Secteur d'activité]` et l'évolution des besoins des consommateurs.
-> 2. Analyse SWOT des 3 concurrents : Détaille les Forces (S), Faiblesses (W), Opportunités (O) et Menaces (T) pour chaque concurrent. (N'utilise pas de termes abstraits, base-toi sur des faits concrets).
-> 3. Implications stratégiques : En te basant sur les faiblesses et les menaces de nos concurrents, propose 3 stratégies de différenciation disruptives que nous devrions adopter.
+> 1. Analyse des tendances macro/micro : Identifie les 3 tendances de fond qui secouent actuellement le secteur : `[Secteur d'activité]` ainsi que les mutations récentes des comportements consommateurs.
+> 2. Matrice SWOT croisée des 3 concurrents : Décortique les Forces (S), Faiblesses (W), Opportunités (O) et Menaces (T) pour chaque acteur. (Interdiction d'utiliser du jargon vide, appuie-toi sur des faits d'entreprise vérifiables).
+> 3. Implications stratégiques : En exploitant les failles (faiblesses) et les angles morts (menaces) de nos concurrents, recommande 3 stratégies de différenciation disruptives que nous devons déployer sur-le-champ.
 > 
 > **Contraintes (Constraints) :**
-> - Le format de sortie doit être structuré avec des puces (bullet points) Markdown, incluant des emojis pour une meilleure lisibilité.
-> - L'analyse doit obligatoirement inclure au moins un cas réel ou un article de presse datant de moins de 6 mois.
-> - Les conseils vagues (ex. "Il faut renforcer le marketing") sont formellement interdits. Propose des plans d'action spécifiques et tangibles.
+> - Formate ta réponse de manière ultra-structurée en utilisant des listes à puces (bullet points) Markdown et des emojis pour maximiser la lisibilité (scannability).
+> - Ton analyse doit impérativement citer au moins un cas d'usage réel, un pivot stratégique ou un article de presse datant de moins de 6 mois pour chaque concurrent.
+> - Le blabla générique (ex: "Il faut faire plus de publicité") est strictement banni. Je veux des initiatives tactiques, spécifiques et mesurables.
 > 
 > **Avertissement (Warning) :**
-> - N'invente jamais de chiffres ou d'informations qui ne peuvent pas être vérifiés par une recherche web. Si tu ne trouves pas la donnée, indique clairement "Donnée non disponible". (Aucune hallucination tolérée).
+> - N'invente jamais de métriques, de parts de marché ou de faits que tu ne peux pas sourcer via le web. Si une information est introuvable, écris noir sur blanc : "Donnée non disponible". Je ne tolérerai aucune hallucination.
 
 ---
 
 ## 💡 Le Commentaire de l'Auteur (Insight)
 
-Soyons honnêtes : passer une nuit blanche à rédiger un rapport d'étude de marché est une perte de temps absolue. Avec le prompt ci-dessus, votre premier jet sera prêt en moins de 3 minutes. 
+Soyons pragmatiques : sacrifier vos nuits pour compiler un rapport d'étude de marché manuel est aujourd'hui une hérésie managériale. Avec la version Pro de ce prompt, votre premier brouillon (First Draft) sera d'une qualité redoutable en moins de 3 minutes chrono. 
 
-La véritable valeur de ce prompt ne réside d'ailleurs pas dans la "collecte de données", mais bien **dans le fait qu'il force l'IA à extraire "notre stratégie de différenciation" (Tâche 3)**. Il est conçu pour que l'intelligence artificielle relie directement les "Faiblesses (W)" identifiées chez le concurrent pour en faire notre "Argument de vente (Selling Point)". 
+La véritable magie de cette structure ne se trouve d'ailleurs pas dans la simple "collecte de datas", mais **dans le fait qu'elle tord le bras de l'IA pour extraire "notre avantage concurrentiel asymétrique" (Tâche 3)**. Le prompt est architecturé pour forcer le modèle à combler les "Faiblesses (W)" de vos adversaires afin d'en faire instantanément vos "Arguments de Vente Uniques (USP)". 
 
-**Astuce de pro :** Une fois l'analyse de l'IA terminée, si une stratégie en particulier retient votre attention, posez-lui cette question de suivi : *"Pour la stratégie numéro 3, propose-moi un plan de test MVP (Produit Minimum Viable) en 3 étapes, réalisable avec un budget de 10 000 euros."* La vitesse de validation par votre manager sera multipliée par trois. Lisez toujours le résultat final avec un œil critique et ajustez-le légèrement en fonction de votre expérience et du contexte de votre entreprise avant de le présenter. L'IA n'est qu'un assistant de haut vol ; c'est vous qui en portez la responsabilité finale.
+**🔥 L'Astuce de Pro (Cheat Code) :** Une fois que l'IA a généré son rapport, repérez la stratégie de différenciation la plus audacieuse et relancez avec ce prompt de suivi : *"Concernant la stratégie de différenciation numéro 3, structure-moi un plan de test MVP (Produit Minimum Viable) en 3 étapes actionnables, réalisable en moins de 2 semaines avec un budget strict de 10 000 euros."* La vitesse d'approbation (Buy-in) par votre manager va exploser. Gardez cependant toujours votre casquette de chef d'orchestre : l'IA est un stagiaire de génie sous stéroïdes, mais c'est bien votre intuition métier et votre connaissance du terrain qui doivent valider et affiner le livrable final.
 
 ---
 
 ## 🙋 Foire Aux Questions (FAQ)
 
-- **Q : Puis-je utiliser ce prompt avec une version gratuite de l'IA ?**
-  - R : Pour une étude de marché, l'information "récente" est vitale. Les anciens modèles dépourvus d'accès à internet ou certaines versions gratuites risquent de générer des résultats hors sujet ou obsolètes. Il est fortement recommandé d'utiliser Perplexity AI, ChatGPT (GPT-4o) ou Claude 3.5 Sonnet avec la fonction de recherche web activée.
-- **Q : L'IA trouve-t-elle aussi des informations pertinentes pour le B2B ou les marchés de niche ?**
-  - R : Pour le B2B ou les marchés extrêmement restreints, les données publiques sur le web peuvent être limitées. Dans ce cas, l'astuce consiste à ajouter cette consigne à votre prompt : *"Si la recherche de données directes est difficile, fais des déductions basées sur des cas d'industries similaires."* Vous pouvez également traduire le `[Secteur d'activité]` en anglais pour capter les résultats d'études internationales bien plus fournies.
+- **Q : Ce prompt est-il performant sur les versions gratuites (sans accès web) ?**
+  - R : Absolument pas. Pour une analyse concurrentielle, la fraîcheur de la donnée (Real-time data) est non négociable. Un modèle coupé d'internet va inévitablement halluciner ou vous recracher des données obsolètes. Utilisez impérativement Perplexity AI, ChatGPT (GPT-4o) ou Claude 3.5 Sonnet avec la navigation web activée pour garantir la fiabilité des informations.
+- **Q : Comment faire si je suis sur un marché B2B de niche très opaque où l'IA ne trouve rien ?**
+  - R : Sur des secteurs B2B hyper-spécialisés où la donnée publique est verrouillée, ajoutez simplement cette ligne à votre prompt : *"Si les métriques financières ou les parts de marché directes sont introuvables, modélise tes déductions en t'appuyant sur des proxy (marchés adjacents ou industries similaires)."* De plus, traduisez toujours la variable `[Secteur d'activité]` en anglais ("Cybersecurity for XYZ" au lieu de "Cybersécurité pour XYZ") : les bases de données anglo-saxonnes sont infiniment plus riches en rapports d'analystes.
 
 ---
 
 ## 🧬 Décorticage du Prompt (Why it works?)
 
-- **Ciblage Spécifique :** En insérant la `[Description de notre produit/service]` dans le Contexte, nous obligeons l'IA à produire une analyse **qui fait sens du point de vue de notre entreprise**, évitant ainsi un rapport générique et insipide.
-- **Obligation de Factualité :** La contrainte exigeant d'*"inclure au moins un cas réel datant de moins de 6 mois"* réduit drastiquement les hallucinations et augmente la crédibilité du livrable.
-- **Orienté Action :** L'analyse ne s'arrête pas au constat du SWOT. Elle intègre une recommandation stratégique pour répondre au dilemme fondamental des équipes opérationnelles : "Et donc, qu'est-ce qu'on fait concrètement ?".
+- **Le Ciblage Égocentré (Contextual Framing) :** En injectant la `[Description de notre produit/service]` directement dans le Contexte de l'IA, nous la forçons à chausser nos lunettes d'entreprise. L'IA ne produit plus une analyse de marché académique et stérile, mais une cartographie des menaces **qui nous visent directement**.
+- **Le Bouclier Anti-Hallucination :** La contrainte stricte exigeant d'*"inclure au moins un cas réel ou un article de presse datant de moins de 6 mois"* bride la créativité de l'IA. Elle est obligée de prouver ce qu'elle avance, ce qui fait passer votre rapport du statut de "supposition" à celui de "preuve irréfutable".
+- **L'Orientation Actionnable (So What?) :** Le plus gros défaut des analyses SWOT traditionnelles, c'est l'effet "Et alors ?". Ici, la Tâche 3 force l'IA à digérer le diagnostic pour accoucher d'un plan d'attaque tangible, clôturant ainsi la boucle entre la réflexion stratégique et l'exécution opérationnelle.
 
 ---
 
 ## 📊 La Preuve : Avant & Après
 
-### ❌ Avant (Input)
+### ❌ Avant (Le prompt désastreux)
 
-- "Donne-moi les tendances actuelles du marché des applications de livraison et une analyse SWOT d'Uber Eats, Deliveroo et Just Eat." 
-*(Résultat : Des banalités que tout le monde connaît, de vieilles données obsolètes, et aucune indication sur la direction que notre application devrait prendre)*
+- *"Fais-moi une analyse SWOT de Uber Eats, Deliveroo et Just Eat, et donne-moi les tendances du marché."*
+*(Le Résultat : Une bouillie de généralités vieilles de 3 ans, des évidences que même un stagiaire de première année connaît, et le vide sidéral quant à la direction que VOUS devez prendre).*
 
-### ✅ Après (Résultat)
+### ✅ Après (Le rendu de la Version Pro)
 
-- **Tendances du marché :** Intensification de la guerre des abonnements (annonce récente de livraison gratuite illimitée par un acteur majeur), renforcement des fonctionnalités de communauté hyper-locale, etc.
-- **SWOT Concurrent (ex. Deliveroo) :** 
-  - 🟢 Force : Fort ancrage urbain et partenariats exclusifs avec de grandes chaînes de supermarchés (livraison de courses).
-  - 🔴 Faiblesse : Manque relatif de restaurants proposant des portions individuelles et système d'avis clients moins structuré.
-- **Notre Proposition de Stratégie de Différenciation :** "En tant que nouvel entrant sur le marché de la livraison, nous devons éviter la guerre des prix. Ciblons plutôt la niche des personnes vivant seules avec une spécialisation dans l'emballage de mini-portions et un système de récompenses attractif pour les avis locaux." *(Fournit des insights concrets et directement actionnables)*
+- **🔥 Tendances du marché :** Polarisation extrême avec la guerre des abonnements premium (ex: l'annonce très récente de livraison illimitée à perte par l'acteur dominant) et l'émergence soudaine du "Social Eating" local via des micro-communautés de quartier.
+- **🔍 Extrait du SWOT (Focus Deliveroo) :** 
+  - 🟢 **Forces (S) :** Maillage territorial dense hyper-urbain et verrous logistiques via des partenariats d'exclusivité agressifs avec la grande distribution (Dark Stores).
+  - 🔴 **Faiblesses (W) :** Angle mort flagrant sur le segment des travailleurs solitaires (peu d'offres mono-portion rentables) et une boucle de feedback (avis clients) vieillissante et peu gamifiée.
+- **🎯 Notre Stratégie de Différenciation (Action Plan) :** *"En tant que challenger, frontaliser ces géants sur la guerre des prix au panier moyen est un suicide. Attaquons leur angle mort (Faiblesse) : positionnons-nous exclusivement sur le marché ultra-niché des foyers unipersonnels, en imposant aux restaurateurs partenaires un packaging 'Solo-Premium', couplé à un système de fidélité hyper-local basé sur l'UGC (User Generated Content) pour ringardiser leur système d'avis obsolète."* *(Boom. Prêt à être pitché au Board).*
 
 ---
 
 ## 🎯 Conclusion
 
-L'analyse de la concurrence n'est que le point de départ de la planification stratégique, et non une fin en soi. Utilisez les 3 jours gagnés grâce à ce prompt pour aller directement à la rencontre de vos clients et peaufiner votre produit. 
+Ne l'oubliez jamais : scanner vos concurrents n'est que l'échauffement de votre stratégie produit, pas la ligne d'arrivée. L'analyse concurrentielle ne sert à rien si elle ne débouche pas sur un pivot de positionnement ou une feature différenciante. 
 
-Maintenant, rentrez chez vous à l'heure ! 🍷
+Réinvestissez ces 3 jours de travail épargnés par ce prompt pour faire ce qui compte vraiment : appeler vos utilisateurs, iterer sur vos maquettes, et améliorer drastiquement l'expérience de votre produit. 
+
+Votre rapport est prêt. Fermez votre PC, et profitez de votre soirée ! 🍷

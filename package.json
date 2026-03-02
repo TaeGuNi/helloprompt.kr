@@ -4,10 +4,10 @@
   "engines": {
     "node": ">=24.13.0"
   },
-  "version": "1.12.7",
+  "version": "1.12.8",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "NODE_OPTIONS=\"--max-old-space-size=8192\" astro build",
     "preview": "astro preview",
     "astro": "astro",
     "lint": "biome check .",

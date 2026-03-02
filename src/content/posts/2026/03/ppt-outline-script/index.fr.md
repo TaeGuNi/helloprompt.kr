@@ -20,9 +20,9 @@ tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ppt-outline-scr"]
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
 - 🚀 **Utilité :** ⭐⭐⭐⭐⭐
 
-> _"Votre présentation a lieu demain, et cela fait 30 minutes que vous fixez désespérément une diapositive PowerPoint désespérément vide ?"_
+> _"Votre présentation a lieu demain, et cela fait 30 minutes que vous fixez une diapositive PowerPoint désespérément vide ?"_
 
-Ce qui est infiniment plus douloureux que le design visuel d'un PPT, c'est l'étape de conception : « Que dois-je dire, dans quel ordre, et comment amener le sujet ? ». Ce prompt agit comme un chef d'orchestre : il rassemble vos idées éparses et les transforme instantanément en une structure implacable, diapositive par diapositive, en y associant un script percutant d'une minute pour chacune d'elles. Désormais, vous n'aurez plus qu'à vous soucier de l'habillage visuel.
+Ce qui est infiniment plus douloureux que le design visuel d'un PPT, c'est l'étape de la conception stratégique : « Que dois-je dire, dans quel ordre, et comment amener le sujet ? ». Ce prompt agit comme un véritable chef d'orchestre : il rassemble vos idées éparses et les transforme instantanément en une structure implacable, diapositive par diapositive, en y associant un script percutant d'une minute pour chacune d'elles. Désormais, vous n'aurez plus qu'à vous soucier de l'habillage visuel.
 
 ---
 
@@ -80,9 +80,9 @@ Indispensable lorsque vous avez besoin d'une structure narrative pointue et d'un
 
 ## 💡 Commentaire de l'auteur (Insight)
 
-Le syndrome de la page blanche (Blank Canvas Syndrome). C'est précisément à cette étape que la majorité des professionnels perdent un temps fou avant même d'entamer la création de leur PPT. Ce prompt a été pensé pour vous permettre de boucler 100 % de votre réflexion stratégique sur Word ou le Bloc-notes, bien avant d'ouvrir votre logiciel de présentation.
+Le syndrome de la page blanche (Blank Canvas Syndrome). C'est précisément à cette étape que la majorité des professionnels perdent un temps fou, avant même d'entamer la création de leur PPT. Ce prompt a été pensé pour vous permettre de boucler 100 % de votre réflexion stratégique sur Word ou le Bloc-notes, bien avant d'ouvrir votre logiciel de présentation.
 
-Le véritable secret réside dans la définition minutieuse de la variable `[Public]`. Si vous vous adressez à des profils opérationnels, le script s'orientera naturellement vers les "méthodes d'implémentation". S'il s'agit du comité de direction (C-level), le discours pivotera vers la "réduction des coûts et la mitigation des risques".
+Le véritable secret réside dans la définition minutieuse de la variable `[Public]`. Si vous vous adressez à des profils opérationnels, le script s'orientera naturellement vers les "méthodes d'implémentation". S'il s'agit du comité de direction (C-level), le discours pivotera vers la "réduction des coûts et l'atténuation des risques".
 
 D'expérience, il est vivement déconseillé de réciter mécaniquement le script pondu par l'IA. Laissez-lui générer 80 % de la structure et de la logique narrative, puis injectez-y vos 20 % d'expertise terrain ou les indicateurs clés propres à votre entreprise. Vous quitterez le bureau 3 heures plus tôt, avec une présentation deux fois plus percutante.
 

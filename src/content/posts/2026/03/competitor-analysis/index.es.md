@@ -5,14 +5,14 @@ author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: " "
-description: "Un prompt de IA práctico que reduce a 3 minutos el estudio de mercado y el análisis SWOT de la competencia que normalmente te tomaría 3 días buscando en Google."
+description: "Un prompt de IA ultrapráctico que comprime en solo 3 minutos el estudio de mercado y el análisis de la competencia que normalmente te llevaría 3 días buceando en Google."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "competitor-anal"]
 ---
 
 # 📝 🔥 El Prompt Definitivo de Análisis SWOT y Estudio de Mercado para Product Managers
 
-- **🎯 Recomendado para:** Product Managers (PM), Marketers, Desarrolladores de Negocio, Perfiles Junior (1-3 años de experiencia)
-- **⏱️ Tiempo requerido:** De 3 días → a solo 3 minutos
+- **🎯 Recomendado para:** Product Managers (PM), Marketers, Business Developers, Perfiles Junior (1-3 años de experiencia)
+- **⏱️ Tiempo de ejecución:** De 3 días → a solo 3 minutos
 - **🤖 Modelos recomendados:** Claude 3.5 Sonnet, GPT-4o (Es imprescindible tener activada la búsqueda web)
 - ⭐ **Dificultad:** ⭐⭐⭐☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -20,14 +20,14 @@ tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "competitor-anal"]
 
 > _"Uf... tengo que analizar a 3 competidores y entregar el informe mañana a primera hora. ¿De dónde voy a sacar toda esta información a tiempo?"_
 
-La época de bucear en Google, recopilar artículos y destripar estados financieros ha quedado atrás. Hoy, la competencia clave de un Product Manager no es la *búsqueda* de información, sino su *interpretación*. Este prompt recopila datos dispersos sobre las tendencias del mercado y la competencia para extraer un análisis SWOT y conclusiones estratégicas con una calidad premium, listas para copiar, pegar y presentar directamente en tu propuesta.
+La época de bucear en Google, recopilar artículos infinitos y destripar estados financieros ha quedado atrás. Hoy, la competencia clave de un Product Manager no es la *búsqueda* de información, sino su *interpretación*. Este prompt recopila datos dispersos sobre las macrotendencias del mercado y los movimientos de la competencia para extraer un análisis SWOT y conclusiones estratégicas de calidad premium, listas para copiar, pegar y presentar directamente en tu propuesta.
 
 ---
 
 ## ⚡️ Resumen en 3 líneas (TL;DR)
-- 🔍 Utiliza la función de búsqueda web de la IA para capturar en tiempo real los últimos movimientos de tus competidores y las tendencias macro del sector.
-- 📊 No ofrece análisis abstractos, sino que desgrana Fortalezas, Debilidades, Oportunidades y Amenazas (SWOT) basándose en ejemplos tangibles y concretos.
-- 💡 Va más allá del simple diagnóstico: proporciona implicaciones prácticas y responde a la pregunta clave, "¿Y ahora, qué estrategia adoptamos?".
+- 🔍 Utiliza la función de búsqueda web de la IA para capturar en tiempo real los últimos movimientos de tus competidores y las macrotendencias del sector.
+- 📊 Huye de análisis abstractos y desgrana Fortalezas, Debilidades, Oportunidades y Amenazas (SWOT) basándose exclusivamente en ejemplos tangibles y casos concretos.
+- 💡 Va mucho más allá del simple diagnóstico: proporciona implicaciones prácticas y responde a la pregunta del millón, "¿Y ahora, qué estrategia adoptamos?".
 
 ---
 
@@ -36,11 +36,11 @@ La época de bucear en Google, recopilar artículos y destripar estados financie
 ### 🥉 Versión Básica
 Ideal cuando necesitas obtener información resumida y al grano sobre un competidor específico en tiempo récord.
 
-> **Rol:** Eres un Planificador Estratégico Senior especializado en la industria de `[Sector Industrial]`.
+> **Rol:** Eres un Planificador Estratégico Senior especializado en el sector de `[Sector Industrial]`.
 > **Tarea:** Resume los movimientos clave y realiza un análisis SWOT de `[Nombre del Competidor]` durante el último año. Utiliza la búsqueda web de forma intensiva para incluir los artículos e informes más recientes.
 
 ### 🥇 Versión Pro (Nivel Experto)
-Úsala cuando necesites un análisis profundo y conclusiones estratégicas con el rigor y la solidez necesarios para incluirse directamente en un informe formal o comité de dirección.
+Úsala cuando necesites un análisis profundo y conclusiones estratégicas con el rigor y la solidez necesarios para incluirse directamente en un informe formal o en un comité de dirección.
 
 > **Rol (Role):** 
 > Eres un Planificador Estratégico Senior y Experto en Estudios de Mercado de una firma de consultoría estratégica de primer nivel (Top Tier).
@@ -53,8 +53,8 @@ Ideal cuando necesitas obtener información resumida y al grano sobre un competi
 > **Tarea (Task):**
 > Analiza y redacta los siguientes 3 puntos en orden. Es estrictamente obligatorio que reflejes los resultados de las búsquedas web más recientes.
 > 
-> 1. Análisis de tendencias del mercado: Señala 3 macro-tendencias actuales en el sector de `[Sector Industrial]` y cómo están evolucionando las necesidades de los consumidores.
-> 2. Análisis SWOT de los 3 competidores: Detalla Fortalezas (S), Debilidades (W), Oportunidades (O) y Amenazas (T) de cada uno. (Está terminantemente prohibido usar expresiones abstractas; básate únicamente en hechos concretos y verificables).
+> 1. Análisis de tendencias del mercado: Señala 3 macrotendencias actuales en el sector de `[Sector Industrial]` y cómo están evolucionando las necesidades de los consumidores.
+> 2. Análisis SWOT de los 3 competidores: Detalla Fortalezas (S), Debilidades (W), Oportunidades (O) y Amenazas (T) de cada uno. (Está terminantemente prohibido usar descripciones abstractas; básate únicamente en hechos concretos y verificables).
 > 3. Implicaciones estratégicas: Basándote en las debilidades y amenazas de los competidores, propón las 3 estrategias de diferenciación más disruptivas que deberíamos implementar.
 > 
 > **Restricciones (Constraints):**
@@ -70,7 +70,7 @@ Ideal cuando necesitas obtener información resumida y al grano sobre un competi
 ## 💡 Comentarios del Autor (Insight)
 Seamos honestos: pasar la noche en vela redactando un informe de estudio de mercado es una pérdida de tiempo monumental. Si utilizas el prompt anterior, tendrás un primer borrador de altísimo nivel en apenas 3 minutos. 
 
-El verdadero valor de este prompt no reside en la mera 'recopilación de datos', sino en **forzar la extracción de 'nuestra estrategia de diferenciación' (Tarea 3)**. Está diseñado metodológicamente para que la IA conecte las 'debilidades (W)' de la competencia que acaba de identificar directamente con nuestros propios 'puntos de venta' (Selling Points). 
+El verdadero valor de este prompt no reside en la mera 'recopilación de datos', sino en **forzar la extracción de 'nuestra estrategia de diferenciación' (Tarea 3)**. Está diseñado metodológicamente para que la IA conecte de forma directa las 'debilidades (W)' de la competencia —que acaba de identificar— con nuestros propios 'puntos de venta' (Selling Points). 
 
 **Consejo práctico:** Una vez que la IA termine el análisis, si te resulta atractiva alguna estrategia en particular, hazle una pregunta de seguimiento del tipo: *"Sobre la estrategia 3, diseña un plan de prueba de MVP (Producto Mínimo Viable) en 3 fases que podamos ejecutar con un presupuesto de 10.000 dólares"*. La velocidad con la que tu jefe aprobará el proyecto se multiplicará por tres. Eso sí, asegúrate siempre de revisar el resultado final y ajustarlo ligeramente con tu propia experiencia y el contexto interno de la empresa antes de presentarlo. Recuerda: la IA es solo tu brillante asistente, la responsabilidad final siempre es tuya.
 
@@ -78,9 +78,9 @@ El verdadero valor de este prompt no reside en la mera 'recopilación de datos',
 
 ## 🙋 Preguntas Frecuentes (FAQ)
 - **P: ¿Puedo usar este prompt en versiones gratuitas de IA?**
-  - R: En los estudios de mercado, contar con 'información actualizada' es de vida o muerte. Los modelos antiguos sin acceso a internet o ciertas versiones gratuitas pueden generar resultados completamente desfasados o irrelevantes. Se recomienda encarecidamente utilizar Perplexity AI, ChatGPT (GPT-4o) con la búsqueda web activada, o Claude 3.5 Sonnet.
+  - R: En los estudios de mercado, contar con 'información actualizada' es una cuestión de vida o muerte. Los modelos antiguos sin acceso a internet o ciertas versiones gratuitas pueden generar resultados completamente desfasados o irrelevantes. Se recomienda encarecidamente utilizar Perplexity AI, ChatGPT (GPT-4o) con la búsqueda web activada, o Claude 3.5 Sonnet.
 - **P: ¿Funciona bien para extraer información sobre B2B o mercados nicho (Niche Markets)?**
-  - R: Es posible que haya escasez de datos públicos en la web para sectores B2B muy cerrados o mercados extremadamente de nicho. En estos casos, el truco maestro es añadir la instrucción *"Si la búsqueda arroja pocos resultados, haz deducciones lógicas basadas en casos de éxito de industrias similares"* al prompt, o introducir el `[Sector Industrial]` directamente en inglés para forzar a la IA a buscar en informes de investigación internacionales.
+  - R: Es posible que haya escasez de datos públicos en la web para sectores B2B muy cerrados o mercados extremadamente de nicho. En estos casos, el truco maestro es añadir al prompt la instrucción *"Si la búsqueda arroja pocos resultados, haz deducciones lógicas basadas en casos de éxito de industrias similares"*, o introducir el `[Sector Industrial]` directamente en inglés para forzar a la IA a buscar en informes de investigación internacionales.
 
 ---
 

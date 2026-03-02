@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "🌐 Basta con le traduzioni robotiche! Prompt per una localizzazione multilingue da vero madrelingua"
+title: "🌐 Basta con le traduzioni robotiche! Il prompt per una localizzazione multilingue da vero madrelingua"
 author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "Automazione del Lavoro"
-description: "Un prompt avanzato per la localizzazione multilingue che abbandona le traduzioni letterali per abbracciare sfumature culturali e modi di dire autentici del mercato di destinazione."
+description: "Un prompt avanzato di localizzazione multilingue che va oltre la traduzione letterale, catturando sfumature culturali e modi di dire autentici del mercato target."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "localization-tr"]
 ---
 
@@ -13,23 +13,23 @@ tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "localization-tr"]
 
 - **🎯 Consigliato per:** Esperti di marketing globale, responsabili vendite internazionali, product manager di app
 - **⏱️ Tempo risparmiato:** Da 1 ora → a soli 3 minuti
-- **🤖 Modelli raccomandati:** Claude 3.5 Sonnet (eccellente nel cogliere le sfumature), GPT-4o
+- **🤖 Modelli raccomandati:** Claude 3.5 Sonnet (eccellente per le sfumature), GPT-4o
 
 - ⭐ **Difficoltà:** ⭐⭐☆☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
 - 🚀 **Applicabilità:** ⭐⭐⭐⭐⭐
 
-> _"Hai usato un traduttore automatico, vero? Noi non usiamo questa espressione..." Se questa frase detta da un partner internazionale ti ha mai fatto gelare il sangue, copia subito questo prompt._
+> _"Avete usato un traduttore automatico, vero? Noi non parliamo così..." Se questa frase, detta da un partner internazionale, ti ha mai fatto gelare il sangue, copia subito questo prompt._
 
-Cambiare semplicemente lingua è un compito che anche Google Translate sa svolgere egregiamente. Ciò che pretendiamo dall'IA è "la sfumatura culturale locale", "il gergo di settore specifico di quel mercato" e "una fluidità naturale che non risulti mai forzata". Questo prompt non si limita alla semplice traduzione, ma punta dritto alla **"Localizzazione (Localization)"** strategica.
+Cambiare semplicemente la lingua di un testo è un'operazione che anche Google Translate sa eseguire egregiamente. Ciò che pretendiamo dall'IA, invece, è cogliere "la sfumatura culturale locale", "il gergo di settore specifico di quel mercato" e garantire "una fluidità naturale che non risulti mai forzata". Questo prompt non si limita alla banale traduzione parola per parola, ma punta dritto a una **"Localizzazione (Localization)"** strategica e persuasiva.
 
 ---
 
 ## ⚡️ Sintesi in 3 punti (TL;DR)
 
-1. **Mai chiedere una semplice traduzione:** Invece del banale "Traduci dall'inglese all'italiano", assegna all'IA la persona di un copywriter o di un esperto locale nel Paese di destinazione.
-2. **Fornisci il contesto culturale:** Spiega chiaramente all'IA l'intento del testo originale, il tono di voce (tone of voice) e il pubblico di riferimento per aggirare la trappola delle traduzioni letterali.
-3. **Aggiungi la clausola anti-traduzione letterale:** Imponi un vincolo cruciale: "Se il significato viene preservato, sei libero di stravolgere completamente la struttura della frase originale".
+1. **Mai chiedere una semplice traduzione:** Invece del banale "Traduci dall'inglese all'italiano", assegna all'IA il ruolo di copywriter senior o di esperto locale nel Paese di destinazione.
+2. **Fornisci il contesto culturale:** Spiega chiaramente all'IA l'intento del testo originale, il tono di voce (tone of voice) e il pubblico di riferimento per eludere la trappola delle traduzioni letterali.
+3. **Imponi la clausola anti-traduzione letterale:** Inserisci un vincolo cruciale: "Pur preservando il significato, sei libero di stravolgere completamente la struttura della frase originale".
 
 ---
 
@@ -39,26 +39,26 @@ Cambiare semplicemente lingua è un compito che anche Google Translate sa svolge
 
 Usalo quando hai bisogno di risultati concreti in tempi record.
 
-> **Ruolo:** Sei un copywriter professionista con oltre 10 anni di esperienza lavorativa in `[Paese di destinazione]`.
-> **Richiesta:** Traduci il seguente testo in `[Lingua di destinazione]`. Evita assolutamente le traduzioni letterali e adattalo usando espressioni naturali e modi di dire usati quotidianamente dai madrelingua locali.
+> **Ruolo:** Sei un copywriter professionista con oltre 10 anni di esperienza lavorativa in `[Inserisci il Paese di destinazione, es: Italia]`.
+> **Richiesta:** Traduci il seguente testo in `[Inserisci la lingua di destinazione, es: Italiano]`. Evita assolutamente le traduzioni letterali e adattalo utilizzando espressioni naturali e modi di dire usati quotidianamente dai madrelingua locali.
 > 
 > **Testo originale:**
-> `[Testo da tradurre]`
+> `[Inserisci qui il testo da tradurre]`
 
-### 🥇 Pro Version (Versione Esperto)
+### 🥇 Pro Version (Versione Esperta)
 
 Usalo quando è richiesta una qualità editoriale curata nei minimi dettagli.
 
 > **Ruolo (Role):** 
-> Sei un esperto di `[Settore, es: Marketing B2B SaaS]` e un copywriter madrelingua che comprende perfettamente le dinamiche del mercato in `[Paese di destinazione, es: Stati Uniti]`.
+> Sei un esperto di `[Inserisci il settore, es: Marketing B2B SaaS]` e un copywriter madrelingua che comprende perfettamente le dinamiche del mercato in `[Inserisci il Paese di destinazione, es: Stati Uniti]`.
 >
 > **Contesto (Context):**
 >
-> - Lingua di partenza: `[Lingua originale, es: Coreano]`
-> - Lingua di destinazione: `[Lingua target, es: Inglese americano]`
-> - Pubblico di riferimento: `[es: Decision maker di aziende IT nella Silicon Valley]`
-> - Tono di voce: `[es: Professionale, ma non rigido, con un tono moderno e orientato alla conversione]`
-> - Scopo del documento: `[es: Campagna email per il lancio di un nuovo servizio]`
+> - Lingua di partenza: `[Inserisci la lingua originale, es: Italiano]`
+> - Lingua di destinazione: `[Inserisci la lingua target, es: Inglese americano]`
+> - Pubblico di riferimento: `[Inserisci il target, es: Decision maker di aziende IT nella Silicon Valley]`
+> - Tono di voce: `[Inserisci il tono, es: Professionale ma non ingessato, moderno e orientato alla conversione]`
+> - Scopo del documento: `[Inserisci l'obiettivo, es: Campagna email per il lancio di un nuovo servizio]`
 >
 > **Richiesta (Task):**
 >

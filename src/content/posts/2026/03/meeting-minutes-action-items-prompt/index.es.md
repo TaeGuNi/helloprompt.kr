@@ -5,29 +5,29 @@ author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: " "
-description: "Un prompt práctico que transforma al instante transcripciones caóticas de reuniones en resúmenes claros con pasos a seguir (action items)."
+description: "Un prompt infalible que transforma al instante transcripciones caóticas en resúmenes cristalinos con próximos pasos (action items) listos para ejecutar."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "meeting-minutes"]
 ---
 # 📝 Estructura tus reuniones caóticas en 1 minuto
 
-- **🎯 Recomendado para:** Profesionales junior, Project Managers (PM), Marketers
+- **🎯 Recomendado para:** Perfiles junior, Project Managers (PM) y especialistas en marketing
 - **⏱️ Tiempo requerido:** 30 minutos → 1 minuto
 - **🤖 Modelo recomendado:** Cualquier IA conversacional (ChatGPT, Claude, Gemini, etc.)
 - ⭐ **Dificultad:** ⭐☆☆☆☆
 - ⚡️ **Eficacia:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"¿Otra tarde entera desperdiciada intentando dar sentido a las actas de la reunión?"_
+> _"¿Otra tarde entera tirada a la basura intentando descifrar las actas de la última reunión?"_
 
-Incluso si transcribes el audio inmediatamente después de la reunión (con Clova Note, Whisper, etc.), extraer los puntos clave de una conversación desestructurada es una auténtica pesadilla. Este prompt aísla de forma precisa y directa las **'decisiones clave'** y **'quién debe hacer qué' (Action Items)** de una maraña de texto sin contexto. Solo tienes que copiar y pegar.
+Incluso si utilizas herramientas como Clova Note o Whisper para transcribir el audio justo al terminar la llamada, extraer información valiosa de una conversación desestructurada suele convertirse en una auténtica pesadilla. Las divagaciones, los saltos de tema y los comentarios irrelevantes ahogan lo verdaderamente importante. Este prompt está diseñado para actuar como un bisturí: aísla con precisión quirúrgica las **'decisiones clave'** y define sin ambigüedades **'quién debe hacer qué' (Action Items)**, rescatando el valor real de esa maraña de texto sin contexto. Olvídate de releer transcripciones interminables; solo tienes que copiar, pegar y dejar que la IA estructure el caos por ti.
 
 ---
 
 ## ⚡️ Resumen en 3 líneas (TL;DR)
 
-1. Copia la transcripción en bruto del audio y envíasela a la IA.
-2. La IA filtrará la charla irrelevante y aislará únicamente las decisiones clave.
-3. Extraerá con total claridad los "Próximos pasos por responsable" (Action Items).
+1. Copia la transcripción en bruto de la reunión y pásasela a la IA.
+2. El modelo filtrará el ruido, las divagaciones y aislará exclusivamente las decisiones críticas.
+3. Extraerá de forma nítida los "Próximos pasos" (Action Items) asignados a cada responsable.
 
 ---
 
@@ -35,14 +35,14 @@ Incluso si transcribes el audio inmediatamente después de la reunión (con Clov
 
 ### 🥉 Versión Básica
 
-Ideal para cuando necesitas resultados rápidos.
+La opción perfecta cuando el tiempo apremia y necesitas resultados instantáneos.
 
 > **Rol:** Eres un `[Project Manager Senior]`.
 > **Tarea:** Lee la siguiente `[Transcripción de la reunión]` y resume únicamente los puntos clave: decisiones principales y próximos pasos (Action Items).
 
 ### 🥇 Versión Pro
 
-Úsala cuando necesites un nivel de detalle y calidad superior.
+Recurre a esta versión cuando exijas una profundidad analítica y una calidad insuperables.
 
 > **Rol (Role):** Eres un `[Planificador de Servicios IT y Project Manager con 10 años de experiencia]`. Eres un experto en captar el contexto de las reuniones y estructurar con claridad quién debe hacer qué y para cuándo.
 >
@@ -62,7 +62,7 @@ Ideal para cuando necesitas resultados rápidos.
 > **Restricciones (Constraints):**
 > - El formato de salida debe ser en forma de lista utilizando símbolos Markdown (-, *, backticks, etc.) y emojis.
 > - Nunca utilices tablas (Table) de Markdown.
-> - Si el responsable de un Action Item no está claro, márcalo como '[Requiere confirmación]'.
+> - Si el responsable de un Action Item no está claro, márcalo como `[Requiere confirmación]`.
 >
 > **Advertencia (Warning):**
 > - Bajo ninguna circunstancia inventes información que no figure en la transcripción. (Prevención de alucinaciones).
@@ -74,26 +74,26 @@ Ideal para cuando necesitas resultados rápidos.
 
 ## 💡 Comentario del Autor (Insight)
 
-El verdadero núcleo de este prompt radica en **'extraer los Action Items'** y **'suprimir las alucinaciones (Hallucinations)'**. 
-El objetivo fundamental de redactar actas de reuniones no es 'registrar todo lo que se dijo', sino 'dejar meridianamente claro qué hay que hacer a continuación'. 
-En la práctica, la IA a veces inventa plazos que suenan lógicos pero que jamás se mencionaron en la reunión. Para evitar este problema, he incluido restricciones estrictas como "bajo ninguna circunstancia inventes información que no figure" y una directiva defensiva clave: "si el responsable no está claro, márcalo como [Requiere confirmación]". Te recomiendo introducir el texto generado por herramientas de Speech-to-Text (STT) como Clova Note o Whisper junto con este prompt en Claude 3.5 Sonnet o GPT-4o. Una tarea de edición que te llevaría 30 minutos se reduce a apenas 1 minuto. Disfruta de ese merecido café con el tiempo que acabas de ahorrar.
+El verdadero núcleo de este prompt radica en su capacidad para **'extraer los Action Items'** y **'suprimir las alucinaciones (Hallucinations)'**. 
+El propósito fundamental de redactar un acta no es transcribir cada palabra pronunciada, sino dejar meridianamente claro qué pasos se deben seguir a continuación. 
+En la práctica, es común que la IA invente plazos que suenan lógicos pero que jamás se acordaron en la sala. Para blindar el resultado contra este problema, he incorporado restricciones inquebrantables como "bajo ninguna circunstancia inventes información" y una directiva defensiva crucial: "si el responsable no está claro, márcalo como `[Requiere confirmación]`". Te sugiero combinar las transcripciones en bruto de herramientas Speech-to-Text (STT) como Clova Note o Whisper con este prompt en Claude 3.5 Sonnet o GPT-4o. Aquello que antes te robaba media hora de tediosa edición, ahora se resuelve en menos de un minuto. Aprovecha ese tiempo recuperado para disfrutar de un buen café.
 
 ---
 
 ## 🙋 Preguntas Frecuentes (FAQ)
 
 - **P: ¿Puedo introducir la transcripción completa de una reunión de 1 hora?**
-  - R: Absolutamente. Los modelos más avanzados (Claude 3.5 Sonnet, GPT-4o, etc.) poseen una excelente retención de contexto y pueden procesar sin problemas una hora de transcripción. No obstante, si superas el límite de tokens, simplemente divide el texto en dos partes.
+  - R: Absolutamente. Los modelos de lenguaje más avanzados (como Claude 3.5 Sonnet o GPT-4o) cuentan con una excelente ventana de retención de contexto y pueden procesar sin inmutarse el equivalente a una hora de diálogo continuo. No obstante, si el sistema te advierte sobre el límite de tokens, bastará con dividir el texto en dos bloques.
 - **P: ¿Funciona en la versión gratuita de ChatGPT?**
-  - R: Sí funciona, aunque la capacidad para captar el contexto y seguir las instrucciones al pie de la letra puede ser inferior en los modelos gratuitos. Siempre es recomendable utilizar las versiones más recientes y avanzadas si están a tu alcance.
+  - R: Sí funciona, aunque la precisión para hilar el contexto y acatar las directrices al pie de la letra suele ser inferior en los modelos gratuitos. Para este tipo de procesamiento analítico, siempre es preferible apoyarse en las versiones más punteras si dispones de ellas.
 
 ---
 
 ## 🧬 Análisis del Prompt (¿Por qué funciona?)
 
-1. **Asignación de Rol:** Al establecer la persona de un Project Manager con 10 años de experiencia, forzamos un tono que 'clarifica las directrices de trabajo' en lugar de limitarse a comprimir el texto.
-2. **Estructuración de la Tarea:** Al segmentar la salida en temas, decisiones, asuntos pendientes y action items, evitamos que la IA genere respuestas en formatos desorganizados o inapropiados.
-3. **Restricciones (Constraints):** Bloqueamos categóricamente el uso de tablas Markdown (que arruinan la legibilidad en dispositivos móviles) y forzamos el uso de listas con emojis para una lectura fluida.
+1. **Asignación de Rol:** Al establecer la identidad de un "Project Manager con 10 años de experiencia", forzamos al modelo a adoptar un tono directivo orientado a 'clarificar el flujo de trabajo', alejándolo de la simple compresión de texto.
+2. **Estructuración de la Tarea:** Al obligar a la IA a segmentar la salida en temas, decisiones, asuntos pendientes y *action items*, bloqueamos cualquier intento de generar bloques de texto densos, desorganizados o difíciles de escanear.
+3. **Restricciones (Constraints):** Prohibimos categóricamente el uso de tablas Markdown (que suelen destrozar la legibilidad en pantallas móviles) y forzamos el uso de listas con emojis para garantizar una lectura ágil y visualmente atractiva.
 
 ---
 
@@ -128,6 +128,6 @@ Subgerente Park: Sí, eso todavía no.
 
 ## 🎯 Conclusión
 
-No malgastes tu energía intentando dar sentido a actas de reuniones interminables. 
-Deja que la IA limpie el desorden textual y concéntrate exclusivamente en ejecutar los Action Items acordados. 
-¡Termina tu jornada a tiempo! 🍷
+No malgastes ni un gramo más de tu energía intentando dar sentido a actas de reuniones interminables e inconexas. 
+Deja que la IA se encargue de limpiar el desorden textual y concentra todo tu enfoque estratégico exclusivamente en ejecutar los Action Items acordados. 
+¡Estructura tu trabajo y termina tu jornada a tiempo! 🍷

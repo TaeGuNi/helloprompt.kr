@@ -61,7 +61,7 @@ export const formatDate = (
 
   try {
     return date.toLocaleString(lang, formatOptions);
-  } catch (error) {
+  } catch (_error) {
     // 만약 완전히 이상한 lang 코드가 들어와서 Intl 내부에서 RangeError: Incorrect locale information provided 가 발생할 경우 방어
     try {
       // UTC 영문 베이스로라도 우아하게 fallback 텍스트 반환

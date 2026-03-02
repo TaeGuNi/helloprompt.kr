@@ -64,7 +64,7 @@ describe("Post Utils: 정렬 및 필터링", () => {
     it("필수 객체가 날아가거나 런타임에 오염된 frontmatter 객체가 들어와도 필터가 터지지 않아야 한다", () => {
       // TypeScript 컴파일러를 속이고 런타임 환경처럼 극단적인 파괴 객체 생성
       const maliciousData = [
-        { file: "broken1.md", frontmatter: null as unknown as any },
+        { file: "broken1.md", frontmatter: null as unknown },
         { file: "broken2.md" } as unknown as Post, // frontmatter 자체가 없음
         {
           file: "broken3.md",

@@ -5,13 +5,13 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "라이프/리빙"
-description: " \"You don't need an architect. Just specify the square footage, number of rooms, and style, and AI will magically draw a professional Floor Plan for you.\""
+description: "You don't need an architect. Just specify the square footage, number of rooms, and style, and AI will magically draw a professional floor plan for you."
 tags: ["인테리어", "건축", "도면", "Midjourney", "집꾸미기"]
 ---
 
 # 🏠 Drawing Your Dream Home: Designing the Floor Plan of the House You Want to Live In
 
-- 🎯 **Target Audience:** Newlyweds dreaming of owning a home, retirees wanting to build a country house, aspiring spatial designers
+- 🎯 **Target Audience:** Newlyweds dreaming of owning a home, retirees planning a countryside retreat, aspiring spatial designers
 - ⏱️ **Time Required:** 1 minute
 - 🤖 **Recommended Model:** Midjourney v6.0 (Unrivaled performance in architectural drawings and interior rendering)
 
@@ -23,7 +23,7 @@ tags: ["인테리어", "건축", "도면", "Midjourney", "집꾸미기"]
 
 Explaining your dream space using only words is incredibly frustrating. "Make the living room a bit wider, add a large kitchen island, and give me a sunlit attic."
 
-But now, before spending thousands of dollars on architectural consultations, you can generate a flawless draft in 10 seconds using AI. From **Floor Plans** to vivid **Perspective Views**, you can design expert-level architectural blueprints yourself.
+But now, before spending thousands of dollars on architectural consultations, you can generate a flawless draft in just 10 seconds using AI. From **Floor Plans** to vivid **Perspective Views**, you can design expert-level architectural blueprints yourself.
 
 ---
 
@@ -45,7 +45,6 @@ Use this when you want to quickly visualize the overall exterior vibe and archit
 > **Task:** Draw a photorealistic perspective view of the exterior of a `[modern minimal house]`.
 >
 > **Prompt:** modern minimal house exterior, white concrete and wood, large glass windows, nature surrounding, warm lighting, photorealistic, 8k --ar 16:9
-
 
 ### 🥇 Pro Version (Floor Plan & Isometric)
 

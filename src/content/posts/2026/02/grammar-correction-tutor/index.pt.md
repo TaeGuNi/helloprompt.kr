@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Aprendizagem de Língua Estrangeira"
-description: " \"Prompt de tutor de IA que explica o 'porquê' dos seus erros gramaticais, indo muito além da simples correção.\""
+description: " \"Prompt de tutor de IA que explica o real motivo dos seus erros gramaticais, indo muito além da simples correção automática.\""
 tags: ["GramáticaInglesa", "CorreçãoDeEscrita", "Prompt", "EscritaDeEmail"]
 ---
 
@@ -21,7 +21,7 @@ tags: ["GramáticaInglesa", "CorreçãoDeEscrita", "Prompt", "EscritaDeEmail"]
 
 > _"O corretor automático arruma o texto, mas o seu inglês continua estagnado porque você não entende o porquê da correção."_
 
-Ferramentas ortográficas tradicionais apenas jogam o resultado final na tela: "Isso está errado, troque por aquilo". Mas o verdadeiro aprendizado mora no "Por quê?". Você precisa entender a razão pela qual deve usar a preposição `in` em vez de `at`, ou por que o artigo `the` deve ser removido, para não cometer o mesmo deslize no futuro. Este prompt transforma a IA em um professor particular meticuloso, que explica as regras gramaticais com clareza e paciência.
+Ferramentas de correção tradicionais apenas jogam o resultado na sua tela: "Isto está errado, troque por aquilo". Mas o verdadeiro aprendizado mora no "porquê". Você precisa entender a razão de usar a preposição `in` em vez de `at`, ou o motivo pelo qual o artigo `the` deve ser omitido, para não cometer o mesmo deslize no futuro. Este prompt transforma a IA em um professor particular meticuloso, capaz de explicar as regras gramaticais com clareza e extrema paciência.
 
 ---
 
@@ -45,23 +45,22 @@ Use esta versão quando precisar de uma correção rápida com uma explicação 
 >
 > **Tarefa:** Corrija os erros gramaticais e explique o motivo de cada correção de forma didática.
 
-
 ### 🥇 Versão Pro (Pro Version)
 
-Use esta versão para um estudo aprofundado e feedback detalhado sobre o seu nível de idioma.
+Use esta versão para um estudo aprofundado e feedback detalhado sobre o seu nível no idioma.
 
 > **Papel (Role):** Você é um `[Professor de Inglês Nativo e Especialista em Redação]`, detalhista, empático e focado no aprendizado do aluno.
 >
 > **Contexto (Context):**
 >
-> - Fundo: Escrevi um texto em inglês, mas suspeito que haja erros ou frases que soem pouco naturais.
-> - Objetivo: Quero entender a 'Razão' dos meus erros para estudar e não repeti-los, indo além da simples correção.
+> - Cenário: Escrevi um texto em inglês, mas suspeito que haja erros ou frases que soem pouco naturais.
+> - Objetivo: Quero entender a 'Razão' dos meus erros para estudá-los e não repeti-los, indo muito além da simples correção.
 >
 > **Tarefa (Task):**
 >
 > 1. **[Versão Revisada]**: Apresente o texto com todos os erros gramaticais e de digitação perfeitamente corrigidos.
 > 2. **[Nota de Correção]**: Compare o trecho original com o corrigido (1:1) e explique a **Razão Gramatical** de forma didática (ex: concordância verbal, uso de preposição, etc.).
-> 3. **[Expressão Nativa]**: Mesmo que minha frase original esteja gramaticalmente correta, recomende 2 opções mais naturais e frequentemente usadas por falantes nativos no dia a dia.
+> 3. **[Expressões Nativas]**: Mesmo que a minha frase original esteja gramaticalmente correta, recomende 2 alternativas mais naturais e frequentemente usadas por falantes nativos no dia a dia.
 > 4. **[Avaliação]**: Avalie minha habilidade de escrita com uma nota de 0 a 10 e deixe um conselho prático para a minha evolução.
 >
 > **Restrições (Constraints):**
@@ -71,13 +70,13 @@ Use esta versão para um estudo aprofundado e feedback detalhado sobre o seu ní
 >
 > **Texto original (Input):**
 >
-> `[Cole a frase ou texto que você deseja corrigir aqui]`
+> `[Cole a frase ou o texto que você deseja corrigir aqui]`
 
 ---
 
 ## 💡 Comentário do Autor (Insight)
 
-A maior armadilha de quem estuda um novo idioma na era digital é a dependência excessiva de corretores automáticos, como o Grammarly. Eles resolvem o problema imediato do e-mail que precisa ser enviado agora, mas criam uma "muleta linguística". Este prompt foi desenhado não apenas para revisar, mas para atuar como um _feedback loop_ ativo. Toda vez que você erra e lê a explicação focada na regra, seu cérebro registra o padrão. Com o tempo, você notará que a IA terá cada vez menos erros para corrigir. É a diferença entre ganhar o peixe e aprender a pescar.
+A maior armadilha para quem estuda um novo idioma na era digital é a dependência excessiva de corretores automáticos, como o Grammarly. Eles resolvem o problema imediato daquele e-mail que precisa ser enviado agora, mas criam uma "muleta linguística". Este prompt foi desenhado não apenas para revisar, mas para atuar como um _feedback loop_ ativo. Toda vez que você erra e lê a explicação focada na regra, o seu cérebro registra o padrão. Com o tempo, você notará que a IA terá cada vez menos erros para corrigir. É a diferença exata entre ganhar o peixe e aprender a pescar.
 
 ---
 
@@ -87,14 +86,14 @@ A maior armadilha de quem estuda um novo idioma na era digital é a dependência
   - A: Sim, mas recomendo enviar o texto em blocos de 2 a 3 parágrafos por vez. Isso garante que a IA forneça explicações detalhadas e precisas para cada erro, sem pular informações vitais ou resumir demais as regras gramaticais.
 
 - **Q: Funciona para outros idiomas além do inglês?**
-  - A: Absolutamente! Basta alterar a configuração no prompt. Por exemplo, mude o papel para "Professor de Espanhol Nativo" e envie o seu texto em espanhol. A estrutura didática funcionará da mesma forma.
+  - A: Absolutamente! Basta alterar a configuração no prompt. Por exemplo, mude o papel para `[Professor de Espanhol Nativo]` e envie o seu texto em espanhol. A estrutura didática funcionará da mesma forma.
 
 ---
 
 ## 🧬 Anatomia do Prompt (Por que funciona?)
 
 1. **Papel Específico (Professor Empático):** Garante que o tom da resposta seja encorajador e educativo, em vez de frio e puramente robótico.
-2. **Estrutura Modular:** Força a IA a separar a correção pura do aprendizado gramatical e do ganho de vocabulário nativo, entregando um mini-curso personalizado em cada resposta.
+2. **Estrutura Modular:** Força a IA a separar a correção pura do aprendizado gramatical e do ganho de vocabulário nativo, entregando um minicurso personalizado em cada resposta.
 3. **Restrição de Jargões:** Impede que a IA responda com explicações gramaticais acadêmicas difíceis de digerir, focando estritamente na aplicação prática.
 
 ---

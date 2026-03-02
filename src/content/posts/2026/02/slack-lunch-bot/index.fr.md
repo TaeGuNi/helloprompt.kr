@@ -5,121 +5,120 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: " \"개발 지식 없이도 슬랙 워크플로우 빌더와 AI를 연결해 우리 팀만의 점심 메뉴 추천 비서를 만드는 방법입니다.\""
+description: "Découvrez comment connecter le Workflow Builder de Slack à l'IA pour créer l'assistant de recommandation de repas de votre équipe, sans aucune connaissance en développement."
 tags: ["Slack", "슬랙", "챗봇", "자동화", "사내문화"]
 ---
 
-# 🤖 Créer un bot Slack : L'assistant interne qui vous recommande "Où manger ce midi ?"
+# 🤖 Créer un bot Slack : L'assistant de recommandation de repas pour votre équipe
 
-- **🎯 Cible recommandée :** Les employés juniors qui souffrent chaque jour pour choisir le menu du midi, ou l'équipe RH qui souhaite dynamiser une messagerie interne un peu trop stricte.
-- **⏱️ Temps estimé :** 10 minutes (en utilisant Slack Workflow Builder)
-- **🤖 Modèle recommandé :** ChatGPT-4o (excellent pour les recommandations créatives et l'adaptation au contexte)
+- **🎯 Cible recommandée :** Les collaborateurs qui redoutent le choix quotidien du déjeuner, ou les équipes RH souhaitant insuffler plus de convivialité dans les échanges internes.
+- **⏱️ Temps estimé :** 10 minutes (via Slack Workflow Builder)
+- **🤖 Modèle recommandé :** ChatGPT-4o (idéal pour des recommandations créatives et ultra-contextualisées)
 
 - ⭐ **Difficulté :** ⭐⭐☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
 - 🚀 **Utilité :** ⭐⭐⭐⭐⭐
 
-> _"Où mange-t-on ce midi ? N'importe où... Des pâtes alors ? Bof, pas trop envie... Mettez fin à ce jeu de devinettes quotidien ! Confiez cette tâche à votre assistant IA et gardez votre énergie pour quitter le bureau à l'heure."_
+> _« Où mange-t-on ce midi ? N'importe où... Des pâtes ? Bof, pas trop envie... » Mettez fin à cette devinette épuisante ! Déléguez cette mission à votre assistant IA et préservez votre énergie mentale pour l'essentiel._
 
-Le plus grand dilemme des employés de bureau : choisir le menu du midi. Désormais, ne cherchez plus le consensus du regard, demandez simplement à votre bot de messagerie interne. Tapez "Que manger un jour de pluie ?" et recevez une réponse pleine d'esprit comme "Un jour de pluie, pourquoi pas un bon ramen chaud plutôt qu'une salade ?". Voici comment configurer ce bot intelligent via Slack Workflow Builder, sans écrire une seule ligne de code.
+Le choix du déjeuner est souvent le plus grand dilemme de la journée au bureau. Fini les regards fuyants et les silences gênés : il suffit désormais d'interroger votre messagerie interne. Demandez-lui « Que manger par ce temps pluvieux ? » pour obtenir une suggestion pertinente et pleine d'esprit, telle que « Avec cette pluie, rien ne vaut un bon ramen fumant pour se réchauffer ! ». Voici comment déployer ce bot intelligent directement via le Workflow Builder de Slack, sans écrire la moindre ligne de code.
 
 ---
 
 ## ⚡️ Résumé en 3 points (TL;DR)
 
-1. Configurez un bot automatisé sans coder en utilisant le **"Workflow Builder"** de Slack.
-2. Définissez un mot-clé (ex. : "Recommandation repas") ou une réaction emoji comme déclencheur (Trigger) pour appeler le bot.
-3. Intégrez un connecteur IA (comme ChatGPT) pour exécuter un prompt générant des recommandations de repas personnalisées en fonction de la météo et de la situation.
+1. Déployez un bot automatisé en mode No-Code grâce au **Workflow Builder** de Slack.
+2. Configurez un mot-clé (ex. : « Recommandation repas ») ou une réaction emoji comme déclencheur (Trigger).
+3. Connectez une IA (telle que ChatGPT) pour exécuter un prompt capable de suggérer des menus sur mesure, adaptés à la météo et au contexte de l'équipe.
 
 ---
 
-## 🚀 La solution : Prompt de Recommandation de Repas (Lunch Buddy)
+## 🚀 La solution : Le Prompt « Lunch Buddy »
 
 ### 🥉 Version Basique (Basic Version)
 
-Utilisez cette version pour une recommandation aléatoire rapide lorsque vous avez du mal à vous décider.
+Idéale pour obtenir une suggestion instantanée lorsque personne n'arrive à se décider.
 
-> **Rôle :** Tu es un assistant chaleureux chargé de choisir le menu du déjeuner pour notre équipe.
-> **Tâche :** Choisis aléatoirement entre cuisine française, italienne, asiatique, restauration rapide ou saine. Ensuite, recommande 3 plats populaires et rassembleurs dans cette catégorie, que des collègues de bureau apprécieraient facilement.
-
+> **Rôle :** Tu es un assistant convivial et bienveillant, chargé de choisir le menu du déjeuner pour notre équipe.
+> **Tâche :** Choisis de manière aléatoire une catégorie parmi la cuisine française, italienne, asiatique, la restauration rapide ou l'alimentation saine (healthy). Ensuite, recommande 3 plats populaires et fédérateurs dans cette catégorie, parfaits pour un déjeuner entre collègues.
 
 ### 🥇 Version Pro (Pro Version)
 
-Utilisez cette version pour obtenir des recommandations astucieuses et adaptées à des situations spécifiques (météo, humeur, nombre de personnes).
+À privilégier pour des suggestions pointues et parfaitement calibrées selon votre contexte (météo, ambiance de l'équipe, taille du groupe).
 
-> **Rôle (Role) :** Tu es un fin gourmet très exigeant et un véritable GPS des meilleurs restaurants situés près du bureau (`[Localisation du bureau (ex. : La Défense)]`).
+> **Rôle (Role) :** Tu es un fin gourmet très exigeant et un véritable GPS des meilleurs restaurants situés autour de notre bureau (`[Localisation du bureau, ex. : La Défense]`).
 >
 > **Contexte (Context) :**
 >
-> - Météo : `[Météo actuelle (ex. : Pluvieux, Ensoleillé, Froid)]`
-> - Humeur et situation : `[Ambiance de l'équipe (ex. : Stressée, Jour de paie, En plein régime)]`
-> - Nombre de participants : `[Composition du groupe (ex. : Déjeuner solo, Repas de toute l'équipe, Déjeuner entre stagiaires)]`
+> - Météo : `[Météo actuelle, ex. : Pluvieux, Ensoleillé, Froid]`
+> - Ambiance de l'équipe : `[État d'esprit du moment, ex. : Gros stress, Jour de paie, En plein rush]`
+> - Nombre de participants : `[Composition du groupe, ex. : Déjeuner en solo, Toute l'équipe, Entre stagiaires]`
 >
 > **Tâche (Task) :**
 >
-> 1. Recommande 1 menu de déjeuner qui correspond parfaitement à la situation décrite ci-dessus.
-> 2. Ajoute une explication pleine d'esprit (1 ou 2 phrases) qui suscitera l'empathie des employés pour justifier ce choix.
-> 3. Formate ta réponse sous forme de liste en Markdown, en y incluant des emojis pour faciliter la lecture.
+> 1. Recommande un unique menu de déjeuner s'inscrivant parfaitement dans le contexte décrit ci-dessus.
+> 2. Rédige une explication percutante et pleine d'esprit (1 à 2 phrases) pour justifier ce choix et susciter l'enthousiasme de l'équipe.
+> 3. Formate ta réponse sous forme de liste en Markdown, en utilisant des emojis pour dynamiser la lecture.
 >
 > **Contraintes (Constraints) :**
 >
-> - Exclus les plats trop clivants (ex. : plats très épicés, abats) ou les repas trop lourds qui prennent trop de temps sur la pause déjeuner.
+> - Exclus absolument les plats trop clivants (ex. : très épicés, abats) ainsi que les repas excessivement lourds qui risqueraient de prolonger indûment la pause déjeuner.
 >
 > **Avertissement (Warning) :**
 >
-> - Ne donne pas de noms de restaurants fictifs ou incertains. Concentre-toi uniquement sur le nom des plats pour éviter les hallucinations.
+> - N'invente jamais de noms de restaurants fictifs. Limite-toi strictement aux noms des plats ou types de cuisine pour éviter toute hallucination de l'IA.
 
 ---
 
-## 💡 Le mot de l'auteur (Writer's Insight)
+## 💡 L'avis de l'expert (Writer's Insight)
 
-Un bot Slack va bien au-delà d'une simple "fonctionnalité" technique ; c'est un outil puissant pour façonner la **"culture"** de l'entreprise. Il agit comme un lubrifiant social, apportant de la légèreté et des sujets de conversation dans des canaux souvent saturés de directives formelles. Si le bot de recommandation de repas rencontre du succès, vous pourrez facilement étendre l'idée à un "Bot de compliments", un "Bot d'anniversaires" ou un "Bot de rétrospective hebdomadaire", contribuant ainsi à bâtir un environnement de travail positif et dynamique. En associant ce prompt à des outils d'automatisation comme Zapier ou Make, vous pouvez surpasser les limites des workflows natifs de Slack et créer un assistant IA encore plus redoutable.
+L'intégration d'un bot Slack transcende la simple prouesse technique : c'est un formidable levier pour façonner la **culture de votre entreprise**. Il opère comme un lubrifiant social, insufflant de la légèreté et des opportunités d'échange au sein de canaux souvent monopolisés par des communications formelles. Si votre « Lunch Buddy » séduit vos collaborateurs, vous pourrez aisément décliner le concept : un bot dédié aux compliments, aux anniversaires ou aux rétrospectives hebdomadaires. Ces petites attentions automatisées bâtissent un climat de travail nettement plus chaleureux. Pour aller plus loin, couplez ce prompt à des solutions d'automatisation telles que Zapier ou Make ; vous vous affranchirez alors des limites natives de Slack pour concevoir un assistant IA d'une efficacité redoutable.
 
 ---
 
 ## 🙋 Foire Aux Questions (FAQ)
 
-- **Q : Mon entreprise utilise la version gratuite de Slack. Puis-je utiliser le Workflow Builder ?**
-  - R : Malheureusement, le Slack Workflow Builder n'est pleinement disponible que sur les forfaits payants (Pro et supérieurs). Si vous êtes sur la version gratuite, vous pouvez contourner cette limitation en utilisant Zapier ou Make.com pour détecter les messages dans un canal spécifique et envoyer des réponses via l'API de ChatGPT.
+- **Q : Mon entreprise est sur la version gratuite de Slack. Puis-je tout de même utiliser le Workflow Builder ?**
+  - R : Malheureusement, le Workflow Builder de Slack est réservé aux offres payantes (forfait Pro et supérieurs). Néanmoins, vous pouvez contourner cette restriction en faisant appel à des outils comme Zapier ou Make. Ces plateformes peuvent détecter des messages ciblés dans un canal et déclencher des réponses automatiques via l'API de ChatGPT.
 
-- **Q : Quelle est la différence par rapport au développement d'un bot en codant (avec Python par exemple) ?**
-  - R : Utiliser une bibliothèque comme `slack-bolt` en Python permet des interactions beaucoup plus avancées : boutons cliquables, fenêtres modales, connexion à la base de données interne. Cependant, cela implique des coûts de serveur et de maintenance. Pour de simples recommandations de menus ou des réponses textuelles légères, l'approche No-code via un workflow est de loin la plus efficace.
-
----
-
-## 🧬 Décryptage du prompt (Why it works?)
-
-1. **Variables basées sur le contexte (Contextual Variables) :** Au lieu d'un simple "Recommande un menu", l'utilisation de variables (`[ ]`) comme la météo, l'humeur et le nombre de convives force l'IA à éviter les réponses génériques et à générer des propositions hautement personnalisées.
-2. **Contrôle des biais et des hallucinations (Constraint Setting) :** La section `Avertissement (Warning)` prend en compte les spécificités de la pause déjeuner (temps limité, goûts universels) et empêche catégoriquement l'IA d'inventer des restaurants qui n'existent pas (hallucination).
-3. **Jeu de rôle (Role-playing) :** En lui attribuant le persona très spécifique de "fin gourmet et GPS des restaurants", on modifie le ton de la réponse : d'une restitution froide d'informations, elle devient la suggestion chaleureuse et amusante d'un collègue de travail.
+- **Q : Quelle est la différence avec le développement d'un bot sur mesure (en Python, par exemple) ?**
+  - R : L'utilisation d'une bibliothèque telle que `slack-bolt` en Python ouvre la porte à des interactions complexes : boutons interactifs, fenêtres modales, ou encore requêtes vers vos bases de données internes. En contrepartie, cela exige un serveur dédié et une maintenance technique régulière. Pour de simples suggestions de repas et des échanges textuels, l'approche No-Code par workflow demeure la solution la plus agile et la plus économique.
 
 ---
 
-## 📊 Preuve : Avant & Après
+## 🧬 L'anatomie du prompt (Why it works?)
 
-### ❌ Avant (Le déjeuner silencieux)
+1. **Variables contextuelles (Contextual Variables) :** Plutôt que de formuler un banal « Recommande-moi un menu », l'intégration de variables (`[ ]`) telles que la météo, l'ambiance et la taille du groupe contraint l'IA à produire des recommandations sur mesure et non génériques.
+2. **Contrôle des biais et prévention des hallucinations (Constraint Setting) :** La section `Avertissement (Warning)` anticipe les impératifs de la pause déjeuner (timing serré, palais variés) et interdit formellement à l'IA d'inventer des restaurants fictifs, éliminant ainsi le risque d'hallucination.
+3. **Jeu de rôle (Role-playing) :** L'attribution du persona de « fin gourmet et véritable GPS des restaurants » métamorphose le ton de l'IA. D'une simple énumération d'options, la réponse se transforme en une suggestion bienveillante et pertinente, digne d'un véritable collègue.
+
+---
+
+## 📊 Preuve à l'appui : Avant & Après
+
+### ❌ Avant (Le supplice du choix)
 
 ```text
-Stagiaire : "Qu'est-ce qu'on mange ce midi ?"
-Collègue A : "Euh... Tout me va."
-Manager : "Prenons n'importe quoi."
-(Début du jeu des devinettes et 10 minutes de silence gênant 🕰️)
+Stagiaire : « Qu'est-ce qu'on mange ce midi ? »
+Collègue A : « Euh... Ce que vous voulez. »
+Manager : « N'importe quoi fera l'affaire. »
+(S'ensuit un jeu de devinettes interminable et 10 minutes de silence gênant 🕰️)
 ```
 
 ### ✅ Après (L'intervention de l'assistant IA)
 
 ```text
 Moi : /repas
-Bot (Lunch Buddy) : "☔ Un repas d'équipe, juste avant la paie, un jour de pluie et avec du stress ?
-Dans ces conditions, je vous recommande vivement un bon **'Ramen épicé avec des Gyozas'** !
-Faites passer le stress avec un bouillon réconfortant et faites le plein d'énergie pour l'après-midi ! 🍜"
-Manager : "Oh, c'est exactement ce qu'il me faut aujourd'hui. On y va !"
+Bot (Lunch Buddy) : « ☔ Un déjeuner d'équipe, sous la pluie, un jour de gros stress juste avant la paie ?
+Dans ce contexte, je vous prescris d'urgence un **'Ramen épicé accompagné de Gyozas croustillants'** !
+Évacuez la pression grâce à ce bouillon brûlant et repartez rechargés à bloc pour l'après-midi ! 🍜 »
+Manager : « Parfait, c'est exactement ce qu'il nous fallait aujourd'hui. En route ! »
 ```
 
 ---
 
 ## 🎯 Conclusion
 
-L'entreprise est un lieu où l'on travaille dur, mais la pause déjeuner doit rester un moment savoureux et détendu. Un simple petit bot peut détendre l'atmosphère de votre équipe et réduire considérablement la fatigue liée à la prise de décision.
+Bien que l'entreprise soit un lieu d'efforts et de concentration, la pause déjeuner se doit de rester une parenthèse savoureuse et décontractée. L'intégration d'un simple bot suffit souvent à détendre l'atmosphère globale et à neutraliser la fatigue décisionnelle quotidienne.
 
-Aujourd'hui, mettez fin aux hésitations interminables et confiez le déjeuner de votre équipe aux **choix astucieux de votre assistant IA**. Bon appétit, et profitez d'une fin de journée productive pour rentrer à l'heure ! 🍷
+Dès aujourd'hui, mettez un terme aux tergiversations sans fin et confiez le choix de vos menus aux **suggestions astucieuses de votre nouvel assistant IA**. Bon appétit, passez une excellente après-midi productive, et surtout, quittez le bureau à l'heure ! 🍷

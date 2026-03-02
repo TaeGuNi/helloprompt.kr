@@ -7,7 +7,7 @@ date: "2026-02-09"
 
 # 📧 Contattaci (Contact Us)
 
-- **🎯 Pubblico Consigliato:** Marketer, Planner, Responsabili delle Partnership che desiderano collaborare con Hello Prompt
+- **🎯 Pubblico Consigliato:** Marketer, planner e responsabili delle partnership che desiderano collaborare con Hello Prompt
 - **⏱️ Tempo Richiesto:** 10 minuti → Ridotto a 1 minuto
 - **🤖 Modelli Consigliati:** Tutti gli AI conversazionali (ChatGPT, Claude, Gemini, ecc.)
 
@@ -15,77 +15,76 @@ date: "2026-02-09"
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
 - 🚀 **Versatilità:** ⭐⭐⭐⭐⭐
 
-> _"Come scrivere un'email di proposta di partnership che venga letta e riceva immediatamente risposta dal responsabile?"_
+> _"Come scrivere un'email di proposta di partnership che venga letta e che riceva un riscontro immediato dal responsabile?"_
 
-Grazie per utilizzare Hello Prompt.
-Se hai riscontrato problemi durante l'utilizzo del servizio o hai suggerimenti per nuovi prompt, non esitare a contattarci in qualsiasi momento.
-Oltre a fornirti i nostri contatti, abbiamo preparato un **prompt AI per scrivere un'email di proposta o di partnership di successo**. Mettilo subito alla prova inviandoci la tua idea!
-
----
-
-## ⚡️ Sintesi in 3 Righe (TL;DR)
-
-1. Per domande di carattere generale, scrivici a `support@helloprompt.kr` (risposta entro 24 ore).
-2. Siamo sempre aperti a proposte di partnership commerciali e richieste pubblicitarie.
-3. Utilizza il "Prompt per Email di Proposta" qui sotto per creare un'email di contatto più professionale e persuasiva.
+Grazie per aver scelto Hello Prompt.
+Se hai riscontrato difficoltà durante l'utilizzo del nostro servizio o desideri suggerire nuovi prompt, non esitare a contattarci in qualsiasi momento.
+Oltre ai nostri recapiti, abbiamo preparato un **prompt AI progettato per scrivere email di proposta o di partnership ad alto tasso di conversione**. Mettilo subito alla prova proponendoci la tua idea!
 
 ---
 
-## 🚀 La Soluzione: "Prompt per un'Email di Partnership ad Alta Conversione"
+## ⚡️ Sintesi in 3 righe (TL;DR)
 
-### 🥉 Versione Base (Richieste Generali)
+1. Per richieste di supporto generale, scrivici all'indirizzo `support@helloprompt.kr` (risponderemo entro 24 ore).
+2. Siamo sempre aperti a valutare proposte di partnership commerciali e richieste di advertising.
+3. Sfrutta il "Prompt per email di proposta" qui in basso per redigere una comunicazione di contatto altamente professionale e persuasiva.
 
-Usa questa versione se vuoi semplicemente inviare feedback o fare una domanda veloce.
+---
+
+## 🚀 La Soluzione: "Prompt per un'email di partnership ad alta conversione"
+
+### 🥉 Versione Base (Richieste generali)
+
+Utilizza questa versione se desideri semplicemente inviare un feedback o porre una domanda rapida.
 
 > **Destinatario:** support@helloprompt.kr
-> **Contenuto:** Descrivi liberamente eventuali errori riscontrati, idee di miglioramento o semplici domande riguardanti il nostro servizio.
+> **Contenuto:** Descrivi liberamente eventuali bug riscontrati, idee di miglioramento o semplici curiosità riguardanti il nostro servizio.
 
+### 🥇 Versione Pro (Email per partnership commerciali)
 
-### 🥇 Versione Pro (Email per Partnership Commerciali)
+Utilizza questa versione con l'AI quando hai la necessità di strutturare una proposta di partnership dettagliata e di assoluto livello.
 
-Usa questa versione con l'AI quando hai bisogno di formulare una proposta di partnership dettagliata e di alta qualità.
-
-> **Ruolo (Role):** Sei un `[Senior Partnership Manager]` esperto in partnership B2B e comunicazione aziendale.
+> **Ruolo (Role):** Sei un `[Responsabile Senior delle Partnership]` esperto in accordi B2B e comunicazione aziendale.
 >
 > **Contesto (Context):**
 >
 > - Destinatario: Team di Hello Prompt (support@helloprompt.kr)
-> - Mittente: `[Nome della nostra azienda e il tuo ruolo]`
-> - Obiettivo: Discutere di `[Contenuto della collaborazione proposta o campagna pubblicitaria]`
+> - Mittente: `[Nome della tua azienda e la tua qualifica]`
+> - Obiettivo: Discutere di `[Dettagli della collaborazione o della campagna pubblicitaria proposta]`
 >
 > **Richiesta (Task):**
 >
-> 1. Proponi 3 oggetti per l'email che siano concisi, accattivanti e capaci di suscitare l'interesse del destinatario.
-> 2. Scrivi il corpo dell'email includendo: un saluto iniziale, il background della proposta, i punti chiave della collaborazione, i risultati attesi e i prossimi passi (Call to Action).
-> 3. Utilizza le parentesi quadre `[ ]` per le variabili in modo che io possa inserire facilmente i miei dati.
+> 1. Elabora 3 oggetti per l'email che risultino concisi, accattivanti e in grado di catturare immediatamente l'attenzione del destinatario.
+> 2. Redigi il corpo dell'email strutturandolo in: saluto iniziale, contesto della proposta, punti chiave della collaborazione, risultati attesi e prossimi step operativi (Call to Action).
+> 3. Utilizza le parentesi quadre `[ ]` per le variabili, così che io possa inserire comodamente i miei dati.
 >
 > **Vincoli (Constraints):**
 >
-> - Mantieni un tono formale, professionale e dritto al punto, senza fronzoli.
-> - La lunghezza complessiva non deve superare i 3-4 paragrafi, per facilitare la lettura anche da dispositivi mobili.
+> - Mantieni un tono formale, autorevole e dritto al punto, evitando fronzoli o giri di parole.
+> - La lunghezza complessiva del testo non deve superare i 3-4 paragrafi, garantendo una lettura scorrevole anche su dispositivi mobili.
 
 ---
 
-## 💡 L'Intuizione dell'Autore (Insight)
+## 💡 L'intuizione dell'autore (Insight)
 
-Per quanto un'idea possa essere brillante, se la prima email è troppo prolissa o il punto centrale è sfocato, difficilmente catturerà l'attenzione di un manager impegnato. Utilizzando questo prompt, potrai generare in pochi secondi una bozza di email altamente professionale che comunica in modo chiaro la proposta di valore (Value Proposition). Aggiungi solo un tocco di personalità alla bozza finale prima di premere invio!
-
----
-
-## 🙋 Domande Frequenti (FAQ)
-
-- **D: Quanto tempo impiega Hello Prompt a rispondere in genere?**
-  - R: Esaminiamo attentamente ogni messaggio e rispondiamo entro 24 ore nei giorni lavorativi.
-
-- **D: Posso usare l'email generata da questo prompt per proporre partnership ad altre aziende?**
-  - R: Assolutamente sì! Basterà modificare le variabili (`[ ]`) come il destinatario e l'obiettivo in base all'azienda target. È un modello estremamente potente e adattabile a qualsiasi comunicazione B2B.
+Per quanto un'idea possa essere rivoluzionaria, se la prima email risulta troppo prolissa o manca di focus, difficilmente riuscirà a catturare l'attenzione di un manager sommerso di impegni. Sfruttando questo prompt, sarai in grado di generare in pochissimi secondi una bozza altamente professionale, capace di trasmettere con estrema chiarezza la tua proposta di valore (Value Proposition). Ti basterà aggiungere un tocco personale alla stesura finale prima di premere invio!
 
 ---
 
-## 🧬 Anatomia del Prompt (Why it works?)
+## 🙋 Domande frequenti (FAQ)
 
-1. **Assegnazione del Ruolo (Role):** Attribuendo la persona del "Senior Partnership Manager", eliminiamo le sfumature amatoriali e garantiamo un tono business altamente persuasivo.
-2. **Task Strutturato:** Specificare gli elementi essenziali di un'email di proposta (background, punti chiave, risultati attesi, CTA) guida l'AI a produrre un testo logico, strutturato e senza omissioni.
+- **D: In quanto tempo risponde solitamente il team di Hello Prompt?**
+  - R: Esaminiamo con cura ogni singolo messaggio e garantiamo una risposta entro 24 ore durante i giorni lavorativi.
+
+- **D: Posso utilizzare l'email generata tramite questo prompt per proporre partnership anche ad altre aziende?**
+  - R: Assolutamente sì! Ti basterà aggiornare le variabili (`[ ]`), come il destinatario e l'obiettivo, per allinearle all'azienda target. Si tratta di un framework estremamente potente e scalabile per qualsiasi comunicazione in ambito B2B.
+
+---
+
+## 🧬 Anatomia del prompt (Why it works?)
+
+1. **Assegnazione del ruolo (Role):** Imponendo all'AI la persona del "Responsabile Senior delle Partnership", annulliamo qualsiasi sfumatura amatoriale e garantiamo un tono business fortemente persuasivo.
+2. **Task strutturato:** Delineare chiaramente gli elementi essenziali di un'email di proposta (contesto, punti chiave, risultati attesi, CTA) istruisce l'AI a confezionare un testo logico, coeso e privo di lacune.
 
 ---
 
@@ -100,24 +99,24 @@ Salve, vi andrebbe di collaborare con la nostra azienda? Fateci sapere quando po
 ### ✅ Dopo (Risultato)
 
 ```text
-Oggetto: [Proposta di Partnership] Collaborazione strategica per l'espansione dei contenuti di Hello Prompt
+Oggetto: [Proposta di partnership] Collaborazione strategica per l'espansione dei contenuti di Hello Prompt
 
 Gentile Team di Hello Prompt,
-Sono [Il Tuo Ruolo] presso [Nome della Tua Azienda]. Seguiamo con molto interesse la vostra piattaforma e apprezziamo il valore pratico dei prompt che offrite alla community.
+Sono [Il tuo ruolo] presso [Nome della tua azienda]. Seguiamo con vivo interesse la vostra piattaforma e ne apprezziamo l'enorme valore pratico che i vostri prompt offrono alla community.
 
-Vi scrivo perché stiamo per lanciare [Contenuto della collaborazione proposta] e crediamo fermamente che una sinergia con la vostra piattaforma possa portare vantaggi significativi per entrambi.
+Vi scrivo perché stiamo per lanciare [Dettagli della collaborazione proposta] e crediamo fermamente che una sinergia con la vostra realtà possa generare vantaggi significativi per entrambi.
 
 [Punti chiave della collaborazione e risultati attesi]
 
-Saremmo lieti di poter approfondire l'argomento. Siete disponibili per una breve riunione conoscitiva online nei prossimi giorni?
+Saremmo entusiasti di poter approfondire l'argomento. Siete disponibili per una breve riunione conoscitiva online nel corso dei prossimi giorni?
 
-In attesa di un vostro riscontro, porgo cordiali saluti.
+In attesa di un vostro gentile riscontro, vi porgo i miei più cordiali saluti.
 ```
 
 ---
 
 ## 🎯 Conclusione
 
-Le vostre preziose opinioni e le vostre idee brillanti rendono Hello Prompt uno spazio sempre più utile. Non esitate a bussare alla nostra porta via email in qualsiasi momento!
+Le vostre preziose opinioni e le vostre idee brillanti contribuiscono a rendere Hello Prompt uno spazio sempre più utile per tutti. Non esitate a bussare alla nostra porta digitale in qualsiasi momento!
 
-Ora scrivi una proposta perfetta e goditi la fine del turno! 🍷
+Ora scrivi la proposta perfetta e goditi un meritato fine turno! 🍷

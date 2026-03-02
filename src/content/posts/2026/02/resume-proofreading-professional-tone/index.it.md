@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Lavoro & Carriera"
-description: " \"Un prompt per revisionare e ottimizzare il tono del tuo curriculum, eliminando errori grammaticali ed espressioni amatoriali per un profilo altamente professionale.\""
+description: " \"Un prompt strategico per revisionare e ottimizzare il tono del tuo curriculum: elimina imperfezioni grammaticali ed espressioni amatoriali per un profilo dal forte impatto professionale.\""
 tags:
   [
     "CorrezioneCurriculum",
@@ -17,7 +17,7 @@ tags:
 
 # 📝 Correzione Tono Curriculum: Da Amatoriale a Professionista Impeccabile
 
-- **🎯 Consigliato per:** Chi cerca lavoro, Neolaureati, Professionisti in cerca di nuove sfide
+- **🎯 Consigliato per:** Chi cerca lavoro, Neolaureati, Professionisti pronti a un salto di carriera
 - **⏱️ Tempo richiesto:** 10 minuti → 1 minuto
 - **🤖 Modello consigliato:** ChatGPT (GPT-4o), Claude 3.5 Sonnet
 
@@ -25,9 +25,9 @@ tags:
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilità:** ⭐⭐⭐⭐☆
 
-> _"Il tuo curriculum ha contenuti validi, ma lo stile di scrittura sembra quello di un adolescente su WhatsApp?"_
+> _"Il tuo curriculum ha ottimi contenuti, ma lo stile di scrittura ricorda quello di un adolescente su WhatsApp?"_
 
-La vera essenza di un curriculum vitae è la **Professionalità**. Uno stile troppo colloquiale, l'abuso di avverbi o l'uso di espressioni vaghe ("ho lavorato tanto", "sono molto bravo") distruggono la tua credibilità prima ancora del colloquio. Affida la tua bozza a un editor AI e trasforma il tuo testo in un documento business autorevole, freddo ed elegante.
+La vera essenza di un curriculum vitae è la **professionalità**. Uno stile eccessivamente colloquiale, l'abuso di avverbi o l'uso di espressioni vaghe ("ho lavorato tanto", "sono molto bravo") distruggono la tua credibilità prima ancora del colloquio. Affida la tua bozza a un editor AI e trasforma il tuo testo in un documento business autorevole, incisivo ed elegante.
 
 ---
 
@@ -83,7 +83,7 @@ Usala per una revisione completa e strutturata, ideale per l'intero CV o la lett
 
 ## 💡 Commento dell'Autore (Insight)
 
-Nella mia esperienza come selezionatore, ho scartato centinaia di CV eccellenti nei contenuti ma pessimi nella forma. L'errore più comune? Usare aggettivi vuoti invece di verbi d'azione. Questo prompt non si limita a correggere gli errori di battitura (quello lo fa anche Word), ma _ristruttura il pensiero_. L'AI ti costringe a passare da "Ho fatto tante cose belle" a "Ho incrementato l'efficienza del 20%". È fondamentale per chiunque stia cercando di fare il salto verso posizioni Senior, dove la precisione comunicativa è tutto.
+Nella mia esperienza come selezionatore, ho scartato centinaia di CV eccellenti nei contenuti ma pessimi nella forma. L'errore più comune? Usare aggettivi vuoti al posto di verbi d'azione. Questo prompt non si limita a correggere gli errori di battitura (quello lo fa anche Word), ma _ristruttura il pensiero_. L'AI ti costringe a passare da "Ho fatto tante cose belle" a "Ho incrementato l'efficienza del 20%". È fondamentale per chiunque stia cercando di fare il salto verso posizioni Senior, dove la precisione comunicativa è tutto.
 
 ---
 
@@ -95,14 +95,14 @@ Nella mia esperienza come selezionatore, ho scartato centinaia di CV eccellenti 
 - **Q: Rischio che il testo sembri scritto da un robot e perda la mia personalità?**
   - A: È un rischio comune. Per evitarlo, usa la "Versione Pro" e leggi attentamente il risultato. L'obiettivo è _pulire_ il testo, non stravolgerlo. Se ti sembra troppo freddo, puoi chiedere all'AI in un secondo passaggio: "Rendilo leggermente più empatico pur mantenendo la professionalità."
 
-- **Q: Posso usarlo per correggere una email importante per il mio capo?**
+- **Q: Posso usarlo per correggere un'email importante per il mio capo?**
   - A: Certamente. Sostituisci semplicemente la parola "curriculum" con "email aziendale" nel parametro _Contesto_ del prompt e otterrai un risultato perfetto.
 
 ---
 
 ## 🧬 Anatomia del Prompt (Perché funziona?)
 
-1. **Role Playing HR:** Dire all'AI di agire come un "Recruiter esigente" cambia i pesi del modello linguistico, portandolo a preferire la sintesi e l'impatto piuttosto che la verbosità tipica degli assistenti virtuali.
+1. **Role Playing HR:** Chiedere all'AI di agire come un "Recruiter esigente" cambia i pesi del modello linguistico, portandolo a preferire la sintesi e l'impatto piuttosto che la verbosità tipica degli assistenti virtuali.
 2. **Istruzioni Negative (Rimuovi avverbi):** Gli LLM tendono a essere "fioriti" per natura. Vietare esplicitamente termini come "davvero" o "estremamente" forza la generazione di un testo più solido e autorevole.
 3. **Feedback Motivato:** Richiedere la spiegazione delle modifiche ti aiuta a capire i tuoi errori abituali, trasformando l'AI in un vero e proprio tutor di scrittura personale.
 

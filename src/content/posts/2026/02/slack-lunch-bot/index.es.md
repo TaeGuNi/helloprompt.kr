@@ -5,13 +5,13 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: " \"Descubre cómo conectar el Workflow Builder de Slack con IA para crear un asistente personalizado que recomiende menús de almuerzo para tu equipo, sin necesidad de saber programar.\""
+description: "Descubre cómo conectar el Workflow Builder de Slack con IA para crear un asistente personalizado que recomiende menús de almuerzo para tu equipo, sin necesidad de saber programar."
 tags: ["Slack", "슬랙", "챗봇", "자동화", "사내문화"]
 ---
 
 # 🤖 Cómo crear un bot en Slack: Tu asistente personal para elegir el almuerzo
 
-- **🎯 Público objetivo:** Empleados junior que sufren a diario para elegir el menú, equipos de RR. HH. que buscan revitalizar el ambiente en el chat corporativo.
+- **🎯 Público objetivo:** Empleados junior que sufren a diario eligiendo el menú, equipos de RR. HH. que buscan revitalizar el ambiente en el chat corporativo.
 - **⏱️ Tiempo estimado:** 10 minutos (usando Slack Workflow).
 - **🤖 Modelo recomendado:** ChatGPT-4o (Excelente capacidad de razonamiento contextual y creatividad para menús).
 
@@ -21,7 +21,7 @@ tags: ["Slack", "슬랙", "챗봇", "자동화", "사내문화"]
 
 > _"¿Qué almorzamos hoy? Lo que sea. ¿Pasta? Mmm, hoy no me apetece... Pon fin al agotador juego de adivinanzas diario y delega esta tarea a tu asistente de IA para reservar tu energía y salir a tiempo del trabajo."_
 
-El mayor dilema del oficinista: elegir el menú del almuerzo. Ya no tienes que leerle la mente a tus compañeros; simplemente pregúntale al bot del chat de tu empresa. Te enseñamos cómo crear un bot increíblemente astuto a través de los flujos de trabajo (Workflows) de Slack, ¡sin escribir ni una sola línea de código! Si le dices: "¿Qué comemos hoy que llueve?", te responderá: "Para un día lluvioso, ¿qué tal un buen plato de ramen caliente en lugar de la típica ensalada?".
+El mayor dilema de cualquier oficinista: elegir el menú del almuerzo. Ya no tienes que intentar leerle la mente a tus compañeros; simplemente pregúntale al bot del chat de tu empresa. Aquí te enseñamos cómo crear un bot increíblemente astuto utilizando los flujos de trabajo (Workflows) de Slack, ¡sin escribir ni una sola línea de código! Si le preguntas: «¿Qué comemos hoy que llueve?», te responderá: «Para un día lluvioso, ¿qué tal un buen tazón de ramen caliente en lugar de la típica ensalada?».
 
 ---
 
@@ -41,19 +41,17 @@ Ideal para cuando necesitas una respuesta rápida y acabar con la indecisión al
 
 > **Rol:** Eres un asistente amable encargado de elegir el menú de almuerzo para los empleados de la oficina.
 >
-> **Tarea:**
-> Elige al azar una categoría entre comida local, china, japonesa, italiana o comida rápida. Luego, recomienda 3 platos representativos dentro de esa categoría que generalmente les gusten a los oficinistas.
-
+> **Tarea:** Elige al azar una categoría entre comida local, china, japonesa, italiana o comida rápida. Luego, recomienda 3 platos representativos dentro de esa categoría que generalmente les gusten a los oficinistas.
 
 ### 🥇 Versión Profesional (Pro)
 
-Úsala cuando quieras una recomendación de almuerzo brillante y adaptada a situaciones específicas como el clima, el estado de ánimo o la cantidad de personas.
+Úsala cuando busques una recomendación de almuerzo brillante y adaptada a situaciones específicas como el clima, el estado de ánimo o la cantidad de personas.
 
-> **Rol (Role):** Eres un gastrónomo exigente y un navegador experto en los mejores restaurantes cerca de la oficina (`[Ubicación de la oficina (ej. Centro de la ciudad)]`).
+> **Rol (Role):** Eres un gastrónomo exigente y un experto en encontrar los mejores restaurantes cerca de la oficina (`[Ubicación de la oficina (ej. Centro de la ciudad)]`).
 >
 > **Contexto (Context):**
 > 
-> - Clima: `[Clima actual (ej. Lloviendo, Soleado, Frío)]`
+> - Clima: `[Clima actual (ej. Lluvioso, Soleado, Frío)]`
 > - Estado de ánimo y situación: `[Ambiente del equipo (ej. Estresados, Día de pago, A dieta)]`
 > - Participantes: `[Composición del grupo (ej. Comiendo solo, Cena de todo el equipo, Reunión de colegas)]`
 >
@@ -69,13 +67,13 @@ Ideal para cuando necesitas una respuesta rápida y acabar con la indecisión al
 >
 > **Advertencia (Warning):**
 > 
-> - Concéntrate en el nombre del plato en sí y no inventes nombres de restaurantes específicos si no estás absolutamente seguro. (Evita alucinaciones).
+> - Concéntrate en el nombre del plato en sí y no inventes nombres de restaurantes específicos si no estás absolutamente seguro. (Evita las alucinaciones).
 
 ---
 
 ## 💡 Comentario del Autor (Insight)
 
-Un bot en Slack va mucho más allá de ser una simple "función" técnica; es una herramienta poderosa para moldear la **cultura** corporativa. Actúa como un lubricante social que aporta pequeñas dosis de humor y temas de conversación en canales que de otro modo estarían llenos de directrices rígidas. Si comienzas con un bot de recomendaciones de almuerzo y logras una buena acogida, puedes expandirlo fácilmente a un "Bot de elogios", "Bot de cumpleaños" o "Bot de retrospectiva semanal", contribuyendo enormemente a construir una organización más flexible y positiva. Especialmente, si integras este prompt con herramientas de automatización como Zapier o Make, superarás las limitaciones nativas de Slack y evolucionarás hacia un asistente de IA verdaderamente inteligente.
+Un bot en Slack va mucho más allá de ser una simple herramienta técnica; es un recurso poderoso para moldear la **cultura** corporativa. Actúa como un lubricante social que aporta pequeñas dosis de humor y temas de conversación en canales que, de otro modo, estarían llenos de directrices rígidas. Si comienzas con un bot de recomendaciones de almuerzo y logras una buena acogida, puedes expandirlo fácilmente a un «bot de elogios», un «bot de cumpleaños» o un «bot de retrospectiva semanal», contribuyendo enormemente a construir una organización más flexible y positiva. Además, si integras este prompt con herramientas de automatización como Zapier o Make, superarás las limitaciones nativas de Slack y evolucionarás hacia un asistente de IA verdaderamente inteligente.
 
 ---
 
@@ -85,15 +83,15 @@ Un bot en Slack va mucho más allá de ser una simple "función" técnica; es un
   - R: Lamentablemente, el Workflow Builder de Slack solo está disponible en los planes de pago (Pro en adelante). Si estás en el plan gratuito, puedes usar alternativas como Zapier o Make.com para detectar mensajes en canales específicos y enviar la respuesta a través de la API de ChatGPT como una solución indirecta.
 
 - **P: ¿En qué se diferencia esto de programar el bot manualmente (por ejemplo, con Python)?**
-  - R: Desarrollar con librerías como `slack-bolt` en Python te permite crear interacciones mucho más avanzadas: botones, ventanas modales e integración con la base de datos de la empresa. Sin embargo, esto conlleva gastos de servidor y mantenimiento. Para respuestas simples basadas en texto o recomendaciones de menús, un flujo de trabajo "No-code" es infinitamente más eficiente.
+  - R: Desarrollar con librerías como `slack-bolt` en Python te permite crear interacciones mucho más avanzadas: botones, ventanas modales e integración con la base de datos de la empresa. Sin embargo, esto conlleva gastos de servidor y mantenimiento. Para respuestas simples basadas en texto o recomendaciones de menús, un flujo de trabajo "no-code" es infinitamente más eficiente.
 
 ---
 
 ## 🧬 Anatomía del Prompt (¿Por qué funciona?)
 
-1. **Asignación de variables contextuales (Contextual Variables):** En lugar de un simple "recomienda un menú", al proporcionar variables (`[ ]`) como el clima, el estado de ánimo y el número de personas, obligamos a la IA a evitar respuestas genéricas y a generar sugerencias altamente personalizadas y empáticas.
+1. **Asignación de variables contextuales (Contextual Variables):** En lugar de un simple «recomienda un menú», al proporcionar variables (`[ ]`) como el clima, el estado de ánimo y el número de personas, obligamos a la IA a evitar respuestas genéricas y a generar sugerencias altamente personalizadas y empáticas.
 2. **Control de alucinaciones y preferencias (Constraint Setting):** A través de la `Advertencia (Warning)`, le enseñamos a la IA las particularidades de la hora del almuerzo (límite de tiempo, gustos extremos) y eliminamos de raíz el riesgo de que invente restaurantes inexistentes (alucinaciones).
-3. **Juego de roles (Role-playing):** Al asignarle la personalidad detallada de "gastrónomo y navegador experto", transformamos el tono del mensaje de una fría entrega de datos al de un colega cercano e ingenioso.
+3. **Juego de roles (Role-playing):** Al asignarle la personalidad detallada de «gastrónomo y navegador experto», transformamos el tono del mensaje de una fría entrega de datos al de un colega cercano e ingenioso.
 
 ---
 
@@ -122,6 +120,6 @@ Jefe de equipo: "Vaya, hoy justo me apetecía algo picante. ¡Vamos!"
 
 ## 🎯 Conclusión
 
-La oficina es un lugar de trabajo arduo, pero la hora del almuerzo debe ser sagrada, deliciosa y libre de estrés. Un pequeño bot puede suavizar la dinámica del equipo y reducir drásticamente la fatiga que supone tomar decisiones diarias.
+La oficina es un lugar de trabajo arduo, pero la hora del almuerzo debe ser sagrada, deliciosa y libre de estrés. Un pequeño bot puede suavizar la dinámica del equipo y reducir drásticamente la fatiga que supone tomar decisiones a diario.
 
-Hoy, detén el juego de adivinanzas y confía el almuerzo de tu equipo a la **elección inteligente de tu asistente de IA**. ¡Espero que disfruten de una comida fantástica y salgan puntuales del trabajo! 🍷
+¡Hoy, detén el juego de adivinanzas y confía el almuerzo de tu equipo a la **elección inteligente de tu asistente de IA**! Espero que disfruten de una comida fantástica y salgan puntuales del trabajo. 🍷

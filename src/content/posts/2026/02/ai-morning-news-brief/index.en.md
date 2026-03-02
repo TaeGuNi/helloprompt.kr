@@ -5,15 +5,15 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "자기계발"
-description: " \"Your personal AI news anchor that extracts and summarizes only the news you care about.\""
+description: "Your personal AI news anchor that extracts and summarizes only the news you care about."
 tags: ["뉴스", "요약", "자기계발", "아침루틴"]
 ---
 
 # 📝 3-Minute Morning News Briefing! Your Personal AI Newsletter
 
-- **🎯 Target Audience:** Professionals, Marketers, Developers, and anyone suffering from information overload.
+- **🎯 Target Audience:** Professionals, marketers, developers, and anyone suffering from information overload.
 - **⏱️ Time Saved:** 45 minutes of browsing → 3 minutes of reading.
-- **🤖 Recommended AI:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini Advanced.
+- **🤖 Recommended AI:** Any conversational AI (ChatGPT, Claude, Gemini).
 
 - ⭐ **Difficulty:** ⭐☆☆☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -21,7 +21,7 @@ tags: ["뉴스", "요약", "자기계발", "아침루틴"]
 
 > _"Stop scrolling mindlessly through endless news feeds. Let AI curate and summarize exactly what you need to know before your morning coffee gets cold."_
 
-Are you overwhelmed by the sheer volume of daily news? In our fast-paced world, staying updated on industry trends, global events, and market shifts is crucial, but spending an hour every morning sifting through clickbait and irrelevant articles is a massive drain on your productivity.
+Are you overwhelmed by the sheer volume of daily news? In our fast-paced world, staying updated on industry trends, global events, and market shifts is crucial. However, spending an hour every morning sifting through clickbait and irrelevant articles is a massive drain on your productivity.
 
 What if you had a personal AI news anchor that curated, analyzed, and delivered a perfectly tailored, 3-minute briefing directly to your screen? This prompt will transform your scattered reading habits into a highly efficient morning routine.
 
@@ -31,7 +31,7 @@ What if you had a personal AI news anchor that curated, analyzed, and delivered 
 
 1. Stop wasting time on irrelevant news; define your exact interests and let AI do the filtering.
 2. Use a structured prompt to generate a digestible, bulleted morning briefing tailored to your profession.
-3. Reclaim your morning routine by digesting critical industry insights in under 3 minutes.
+3. Reclaim your morning routine by digesting critical industry insights in under three minutes.
 
 ---
 
@@ -45,7 +45,6 @@ Use this when you have a few specific articles or text dumps and just need a qui
 > **Task:** Summarize the following news articles into 3 key bullet points each, highlighting the most important facts.
 >
 > `[Insert News Articles or URLs here]`
-
 
 ### 🥇 Pro Version
 
@@ -67,7 +66,7 @@ Use this comprehensive prompt to establish a daily routine. Feed it raw text, RS
 >
 > **Constraints:**
 >
-> - Format the output using clean Markdown (Headers, Bullet points, Bold text for emphasis).
+> - Format the output using clean Markdown (headers, bullet points, bold text for emphasis).
 > - Do not include personal opinions; stick strictly to the facts presented in the source text.
 > - Keep the tone professional, objective, and urgent.
 >
@@ -82,27 +81,27 @@ Use this comprehensive prompt to establish a daily routine. Feed it raw text, RS
 
 ## 💡 Writer's Insight
 
-This prompt is an absolute game-changer for establishing a solid morning routine. Instead of opening 10 different tabs and getting distracted by social media, I simply copy the text from my favorite tech aggregators and feed it into this prompt.
+This prompt is an absolute game-changer for establishing a rock-solid morning routine. Instead of opening ten different tabs and getting distracted by social media, I simply copy the text from my favorite tech aggregators and feed it into this prompt.
 
-The real magic happens in the _"why this matters"_ section of the Pro Version. It shifts the AI from a simple summarizer to an analytical partner, helping you connect the dots between global events and your specific day-to-day work. I highly recommend pairing this with an AI model that has web browsing capabilities (like ChatGPT Plus or Perplexity) so you can simply ask it to search for the latest news based on the prompt's structure without manually pasting text.
+The real magic happens in the _"why this matters"_ section of the Pro Version. It shifts the AI from a simple summarizer into an analytical partner, helping you connect the dots between global events and your day-to-day work. I highly recommend pairing this with an AI model that has web browsing capabilities (like ChatGPT Plus or Perplexity). This way, you can simply ask it to search for the latest news based on the prompt's structure without having to paste the text manually.
 
 ---
 
 ## 🙋 FAQ
 
 - **Q: Do I have to manually paste articles every day?**
-  - A: If you are using a free tier model without web access, yes. However, if you use ChatGPT Plus, Copilot, or Perplexity, you can modify the input section to say "Search the web for the top news today regarding [Topic]" instead of pasting text.
+  - A: If you are using a free-tier model without web access, yes. However, if you use ChatGPT Plus, Copilot, or Perplexity, you can modify the input section to say, "Search the web for the top news today regarding `[Topic]`" instead of pasting text.
 
 - **Q: Can I use this for non-work-related topics, like sports or gaming?**
-  - A: Absolutely! Just change the "Context" variables to your desired hobby (e.g., "Premier League Football" or "Indie Game Releases"). The structure works perfectly for any subject.
+  - A: Absolutely! Just change the variables in the "Context" section to your desired hobby (e.g., "Premier League Football" or "Indie Game Releases"). The structure works perfectly for any subject.
 
 ---
 
-## 🧬 Prompt Anatomy (Why it works?)
+## 🧬 Prompt Anatomy (Why it works)
 
-1. **Role & Context (`Role`, `Context`):** By defining the AI as a "veteran executive news anchor," we set a standard for high-quality, professional tone and curation.
+1. **Role & Context (`Role`, `Context`):** By defining the AI as a "veteran executive news anchor," we set a high standard for professional tone and curation.
 2. **Actionable Deliverables (`Task`):** Asking specifically for "why this matters" forces the AI to provide analytical value rather than just echoing the article.
-3. **Strict Formatting (`Constraints`):** Markdown formatting ensures the result is highly scannable, which is critical for a "3-minute" constraint.
+3. **Strict Formatting (`Constraints`):** Markdown formatting ensures the result is highly scannable, which is critical for meeting the "3-minute" constraint.
 4. **Anti-Hallucination (`Warning`):** The instruction to admit when there's no relevant news prevents the AI from making up facts just to fulfill the prompt.
 
 ---
@@ -112,7 +111,7 @@ The real magic happens in the _"why this matters"_ section of the Pro Version. I
 ### ❌ Before (Manual Effort)
 
 ```text
-Reading a 2,000-word article about a new tech merger, a 1,500-word piece on stock market fluctuations, and scrolling through Twitter for 20 minutes trying to figure out what's important, only to end up confused and behind schedule.
+Reading a 2,000-word article about a new tech merger, a 1,500-word piece on stock market fluctuations, and scrolling through Twitter for 20 minutes trying to figure out what's important—only to end up confused and behind schedule.
 ```
 
 ### ✅ After (AI Briefing)
@@ -123,11 +122,11 @@ Reading a 2,000-word article about a new tech merger, a 1,500-word piece on stoc
 **1. OpenAI Announces New Agentic Framework**
 
 - **The Facts:** OpenAI has released a new API framework enabling developers to build autonomous, multi-step agents. The release includes built-in safety rails and cost-management tools.
-- **Why this matters for you (Product Manager):** This dramatically lowers the barrier to entry for building complex AI features. You should evaluate if your Q3 roadmap can integrate these capabilities to stay competitive.
+- **Why this matters for you (Product Manager):** This dramatically lowers the barrier to entry for building complex AI features. You should evaluate whether your Q3 roadmap can integrate these capabilities to stay competitive.
 
 **2. Federal Reserve Holds Interest Rates Steady**
 
-- **The Facts:** The Fed announced no changes to the current interest rates, citing stable inflation metrics and a cooling labor market.
+- **The Facts:** The Fed announced no changes to current interest rates, citing stable inflation metrics and a cooling labor market.
 - **Why this matters for you:** SaaS funding might remain tight for another quarter. Focus on profitability metrics rather than aggressive growth when pitching to stakeholders.
 
 _Quote of the Day:_ "Amateurs sit and wait for inspiration, the rest of us just get up and go to work." – Stephen King

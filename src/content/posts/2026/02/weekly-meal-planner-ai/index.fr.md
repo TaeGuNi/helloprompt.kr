@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: " \"Générez un menu hebdomadaire sain et votre liste de courses en quelques secondes grâce à ce prompt de diététicien IA.\""
+description: "Générez un menu hebdomadaire sain et une liste de courses optimisée en quelques secondes grâce à ce prompt IA de diététique."
 tags: ["태그1", "태그2"]
 ---
 
@@ -19,17 +19,17 @@ tags: ["태그1", "태그2"]
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
 - 🚀 **Utilité :** ⭐⭐⭐⭐⭐
 
-> _"Fatigué de vous demander tous les jours 'Qu'est-ce qu'on mange ce soir ?' Laissez l'IA planifier vos repas et organiser votre liste de courses à votre place."_
+> _"Fatigué(e) de vous demander chaque soir 'Qu'est-ce qu'on mange ?' Laissez l'IA planifier vos repas et organiser votre liste de courses à votre place."_
 
-Planifier ses repas chaque semaine est une véritable corvée mentale. Entre l'équilibre nutritionnel, le budget, et le temps de préparation, on finit souvent par commander à manger. Voici comment transformer votre IA en un diététicien personnel qui non seulement crée un menu sur-mesure, mais génère aussi votre liste de courses optimisée.
+Planifier ses repas chaque semaine est une véritable charge mentale. Entre la recherche d'un équilibre nutritionnel, le respect du budget et le manque de temps en cuisine, on finit bien souvent par céder à la livraison de repas. Voici comment transformer l'IA en un diététicien personnel capable non seulement de concevoir un menu sur mesure, mais aussi de générer une liste de courses parfaitement optimisée.
 
 ---
 
 ## ⚡️ En Bref (TL;DR)
 
-1. Transformez l'IA en expert en nutrition pour obtenir des menus adaptés à votre style de vie.
-2. Définissez précisément vos restrictions, vos objectifs et votre temps de préparation maximum.
-3. Obtenez un tableau des repas clairs et une liste de courses classée par rayon de supermarché.
+1. Transformez l'IA en expert en nutrition pour élaborer des menus adaptés à votre style de vie.
+2. Définissez précisément vos restrictions alimentaires, vos objectifs et votre temps de préparation maximal.
+3. Obtenez un tableau de repas structuré et une liste de courses intelligemment triée par rayon.
 
 ---
 
@@ -37,65 +37,64 @@ Planifier ses repas chaque semaine est une véritable corvée mentale. Entre l'�
 
 ### 🥉 Version Basique (Rapide)
 
-Utilisez cette version quand vous manquez d'inspiration et que vous voulez un résultat immédiat.
+Utilisez ce prompt lorsque vous manquez d'inspiration et souhaitez un résultat immédiat.
 
 > **Rôle :** Tu es un diététicien.
 > **Requête :** Fais-moi un menu sain pour 5 jours avec la liste des courses pour 2 personnes.
 
-
 ### 🥇 Version Pro (Expert)
 
-Utilisez cette version pour un menu hautement personnalisé qui respecte votre budget et votre temps.
+Privilégiez cette version pour obtenir un menu hautement personnalisé qui respectera à la fois votre budget et votre emploi du temps.
 
-> **Rôle (Role) :** Tu es un nutritionniste et chef cuisinier professionnel spécialisé dans la préparation de repas sains, économiques et rapides pour les personnes très occupées.
+> **Rôle (Role) :** Tu es un nutritionniste et chef cuisinier professionnel, spécialisé dans la préparation de repas sains, économiques et rapides pour les personnes très occupées.
 >
 > **Contexte (Context) :**
 >
-> - Contexte : Je manque de temps et d'inspiration pour cuisiner la semaine. Je fais mes courses le dimanche.
-> - Objectif : Créer un plan de repas hebdomadaire (du lundi au vendredi, déjeuners et dîners) équilibré, sain et facile à réaliser.
+> - Contexte : Je manque de temps et d'inspiration pour cuisiner en semaine. Je fais mes courses le dimanche.
+> - Objectif : Créer un plan de repas hebdomadaire (du lundi au vendredi, déjeuners et dîners) qui soit à la fois équilibré, sain et facile à réaliser.
 >
 > **Requête (Task) :**
 >
 > 1. Conçois un menu basé sur les préférences suivantes : `[Régime/Allergies : ex. Sans gluten, végétarien]` et `[Objectif : ex. Perte de poids, prise de masse, maintien]`.
 > 2. Les repas sont prévus pour `[Nombre de personnes : ex. 2 adultes]`.
 > 3. Le temps de préparation maximum par repas doit être de `[Temps max : ex. 20 minutes]`.
-> 4. Inclus une liste de courses exacte et catégorisée (Fruits & Légumes, Viandes/Poissons, Frais, Épicerie, etc.) pour réaliser l'intégralité de ce menu.
+> 4. Inclus une liste de courses exacte et catégorisée (Fruits & Légumes, Viandes/Poissons, Produits Laitiers, Épicerie, etc.) permettant de réaliser l'intégralité de ce menu.
 >
 > **Contraintes (Constraints) :**
 >
-> - Présente le menu sous forme de tableau Markdown (Jour, Déjeuner, Dîner, Temps de prépa moyen).
+> - Présente le menu sous forme de tableau Markdown (Jour, Déjeuner, Dîner, Temps de préparation moyen).
 > - Utilise des ingrédients de saison, courants et faciles à trouver en supermarché.
-> - Optimise le budget et évite le gaspillage en réutilisant intelligemment certains ingrédients d'un repas à l'autre (ex. utiliser le reste de poulet rôti dans une salade le lendemain).
+> - Optimise le budget et évite le gaspillage en réutilisant intelligemment certains ingrédients d'un repas à l'autre (ex. : utiliser un reste de poulet rôti dans une salade le lendemain).
 >
 > **Avertissement (Warning) :**
 >
-> - Ne propose pas de recettes trop complexes, nécessitant des techniques avancées ou des ustensiles professionnels. Garde des instructions réalistes.
+> - Ne propose aucune recette trop complexe nécessitant des techniques culinaires avancées ou des ustensiles professionnels. Garde des instructions réalistes et accessibles.
 
 ---
 
 ## 💡 L'avis de l'Expert (Insight)
 
-Ce prompt est un véritable "game-changer" pour réduire la charge mentale du quotidien. La magie de ce prompt réside dans la contrainte de réutilisation des ingrédients. Sans cela, l'IA a tendance à vous proposer 10 repas totalement différents, ce qui vous forcera à acheter 50 ingrédients exotiques pour une seule semaine (bonjour le gaspillage et la facture salée).
+Ce prompt est un véritable levier pour alléger la charge mentale du quotidien. Sa véritable magie réside dans la contrainte de réutilisation des ingrédients. Sans cette directive, l'IA a fâcheuse tendance à générer 10 repas totalement indépendants, vous obligeant à acheter une cinquantaine d'ingrédients spécifiques pour une seule semaine (bonjour le gaspillage et la facture salée !).
 
-Je vous conseille vivement d'utiliser **Claude 3.5 Sonnet** ou **GPT-4** pour ce cas d'usage, car ils excellent dans la logique de combinaison d'ingrédients et produisent des recettes culinaires beaucoup plus cohérentes et "humaines" que les modèles plus anciens. Vous pouvez même ajouter _"J'ai un budget strict de 50€"_ pour tester ses capacités d'optimisation !
+Je vous recommande vivement d'utiliser **Claude 3.5 Sonnet** ou **GPT-4** pour ce cas d'usage : ces modèles excellent dans la logique de combinaison d'ingrédients et produisent des recettes bien plus cohérentes et "humaines" que leurs prédécesseurs. Vous pouvez même pousser l'optimisation en ajoutant une consigne telle que _"J'ai un budget strict de 50 €"_ pour tester leurs incroyables capacités d'adaptation budgétaire !
 
 ---
 
 ## 🙋 Foire Aux Questions (FAQ)
 
-- **Q : Est-ce que l'IA peut calculer les calories (macros) de chaque plat ?**
-  - R : Absolument ! Il suffit d'ajouter la consigne _"Inclus les macronutriments (Protéines, Glucides, Lipides, Calories totales) pour chaque repas"_ dans la section Contraintes (Constraints) du prompt.
+- **Q : L'IA peut-elle calculer les macros (calories) de chaque plat ?**
+  - R : Absolument ! Il vous suffit d'ajouter la consigne _"Inclus les macronutriments (Protéines, Glucides, Lipides, Calories totales) pour chaque repas"_ dans la section Contraintes (Constraints) de votre prompt.
 
-- **Q : Que faire si je n'aime pas l'un des repas proposés ?**
-  - R : Ne relancez pas tout le prompt. Demandez simplement à l'IA : _"Je n'aime pas le brocoli, remplace le dîner de mardi par autre chose et mets à jour la liste de courses"_ et elle s'ajustera instantanément.
+- **Q : Que faire si l'un des repas proposés ne me plaît pas ?**
+  - R : Inutile de relancer le prompt depuis le début. Demandez simplement à l'IA : _"Je n'aime pas le brocoli, remplace le dîner de mardi par autre chose et mets à jour la liste de courses"_, et elle s'ajustera instantanément.
 
 ---
 
 ## 🧬 Anatomie du Prompt (Pourquoi ça marche ?)
 
-1. **Optimisation budgétaire & Anti-gaspillage :** La consigne forçant l'IA à réutiliser les ingrédients rend le menu applicable dans la vraie vie et protège votre portefeuille.
-2. **Catégorisation de la liste de courses :** Demander une liste triée par rayon (Frais, Épicerie, etc.) est crucial pour ne pas passer votre dimanche à errer au supermarché.
-3. **Contrainte de faisabilité (`[Temps max]`) :** En limitant le temps et en interdisant les techniques complexes, on s'assure de ne pas se retrouver avec un bœuf bourguignon à préparer un mardi soir à 20h.
+1. **Optimisation budgétaire et anti-gaspillage :** Imposer à l'IA de réutiliser les restes rend le menu réaliste au quotidien tout en préservant votre portefeuille.
+2. **Catégorisation de la liste de courses :** Exiger une liste triée par rayon (Frais, Épicerie, etc.) est indispensable pour éviter de perdre votre dimanche à errer dans les allées du supermarché.
+3. **Contrainte de faisabilité (`[Temps max]`) :** En plafonnant le temps de préparation et en bannissant les techniques complexes, on s'assure de ne pas se retrouver avec un bœuf bourguignon à mijoter un mardi soir à 20h.
 
 ---
 
@@ -130,6 +129,6 @@ Jeudi : Salade en sachet
 
 ## 🎯 Conclusion
 
-Avoir une alimentation saine ne devrait plus être une corvée qui draine votre temps et votre énergie. Prenez 2 minutes le dimanche avec ce prompt, copiez la liste dans votre téléphone, et libérez votre esprit pour toute la semaine.
+Adopter une alimentation saine ne devrait plus être une corvée qui draine votre temps et votre énergie. Prenez simplement deux minutes le dimanche avec ce prompt, copiez la liste générée sur votre smartphone, et libérez-vous l'esprit pour le reste de la semaine.
 
 À vos fourneaux (rapidement) et bon appétit ! 🍽️

@@ -5,13 +5,13 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: " \"Generate a customized weekly meal plan in minutes with this AI Nutritionist prompt. Save time, eat healthier, and hit your macro goals effortlessly.\""
+description: "Generate a customized weekly meal plan in minutes with this AI Nutritionist prompt. Save time, eat healthier, and hit your macro goals effortlessly."
 tags: ["태그1", "태그2"]
 ---
 
 # 📝 AI Nutritionist: Automated Weekly Meal Plan Generator
 
-- **🎯 Target Audience:** Busy professionals, fitness enthusiasts, beginners to meal prepping
+- **🎯 Target Audience:** Busy professionals, fitness enthusiasts, and meal-prep beginners
 - **⏱️ Time Saved:** 1 hour → 2 minutes
 - **🤖 Recommended Models:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini Advanced
 
@@ -21,31 +21,30 @@ tags: ["태그1", "태그2"]
 
 > _"Stop staring at the open fridge wondering what to cook. Let AI design a perfect, macro-balanced weekly meal plan tailored to your exact dietary needs and budget."_
 
-Meal planning is exhausting. Calculating macros, finding recipes, checking your fridge inventory, and writing grocery lists takes hours every weekend. What if you could hire a professional nutritionist who works for free and delivers a complete plan in seconds? This AI prompt transforms your chatbot into a certified dietitian, giving you a structured week of meals, exact macros, and a categorized shopping list ready for the supermarket.
+Meal planning can be exhausting. Calculating macros, sourcing recipes, taking inventory of your fridge, and writing grocery lists can consume hours every weekend. Imagine having a professional nutritionist on call—working for free and delivering a comprehensive plan in seconds. This AI prompt transforms your chatbot into a certified dietitian, providing a structured weekly meal plan, precise macro breakdowns, and a categorized shopping list ready for your next supermarket run.
 
 ---
 
 ## ⚡️ 3-Line Summary (TL;DR)
 
-1. Instantly generates a 7-day meal plan based on your specific calorie and macro goals.
-2. Automatically creates a categorized grocery shopping list to save time at the store.
-3. Accommodates any dietary restrictions (vegan, keto, gluten-free) and budget constraints.
+1. Instantly generates a customized 7-day meal plan based on your precise calorie and macro targets.
+2. Automatically compiles a categorized grocery list to streamline your supermarket trips.
+3. Effortlessly accommodates specific dietary restrictions (e.g., vegan, keto, gluten-free) and budget limits.
 
 ---
 
-## 🚀 Solution: "The AI Dietitian Prompt"
+## 🚀 Solution: The "AI Dietitian" Prompt
 
 ### 🥉 Basic Version
 
-Use this for a quick, standard meal plan without complex macro counting.
+Use this when you need a quick, straightforward meal plan without the hassle of counting complex macros.
 
 > **Role:** You are an expert Nutritionist and Meal Planner.
 > **Task:** Create a 7-day healthy meal plan (breakfast, lunch, dinner) for someone who wants to `[Goal: e.g., lose weight, build muscle]`. Please include a simple grocery list at the end.
 
-
 ### 🥇 Pro Version
 
-Use this for precise macro tracking, allergy accommodations, and budget-friendly grocery lists.
+Use this for precise macro tracking, strict allergy accommodations, and budget-optimized grocery lists.
 
 > **Role:** You are a certified Clinical Dietitian and professional Meal Prep Chef.
 >
@@ -78,28 +77,28 @@ Use this for precise macro tracking, allergy accommodations, and budget-friendly
 
 ## 💡 Writer's Insight
 
-This prompt is a game-changer for anyone struggling with consistency in their diet. The real magic happens in the **"Context"** section. By specifying your exact budget and demanding "overlapping ingredients," the AI acts like a highly frugal chef, ensuring you don't buy a whole bunch of celery just to use one stick on a Tuesday. I personally use this routine every Sunday, and it has consistently cut my grocery bill by 20% while saving me an hour of planning. If the AI suggests a meal you dislike, simply reply: _"Swap Tuesday's dinner with a chicken-based alternative."_
+This prompt is an absolute game-changer for anyone struggling to maintain dietary consistency. The real magic happens within the **"Context"** section. By specifying your exact budget and demanding "overlapping ingredients," the AI acts as an incredibly frugal chef. It ensures you won't end up buying a whole bunch of celery just to use a single stalk on a Tuesday. I personally run this routine every Sunday; it has consistently slashed my grocery bills by 20% while saving me an hour of tedious planning. If the AI happens to suggest a meal you dislike, simply reply: _"Swap Tuesday's dinner with a chicken-based alternative."_
 
 ---
 
 ## 🙋 Frequently Asked Questions (FAQ)
 
 - **Q: Do I need to know my exact macro targets to use the Pro version?**
-  - A: Not necessarily! If you don't know them, just change the Context to state your height, weight, and goal, and add a Task instruction saying: _"Calculate my recommended daily macros first based on my physical profile."_
+  - A: Not necessarily! If you aren't sure, simply update the Context to include your height, weight, and overall goal. Then, add a Task instruction stating: _"Calculate my recommended daily macros first based on my physical profile."_
 
 - **Q: Can it generate the actual recipes for the suggested meals?**
-  - A: Absolutely. Once it generates the table plan, you can follow up with: _"Give me the step-by-step recipe and exact measurements for Wednesday's dinner."_
+  - A: Absolutely. Once the AI outputs the meal plan table, you can easily follow up with: _"Give me the step-by-step recipe and exact measurements for Wednesday's dinner."_
 
 - **Q: Does this work well on the free versions of AI models?**
-  - A: Yes, free tiers like GPT-4o-mini or Claude 3.5 Haiku can handle this perfectly, though advanced models tend to format the tables and grocery lists a bit more elegantly.
+  - A: Yes, free tiers like GPT-4o-mini or Claude 3.5 Haiku can handle this perfectly. However, advanced models typically format the tables and grocery lists with a bit more elegance.
 
 ---
 
 ## 🧬 Prompt Anatomy (Why it works?)
 
-1. **Role Playing:** Assigning the "Clinical Dietitian and Meal Prep Chef" persona forces the AI to prioritize nutritional balance and practical cooking over random, overly complex recipe generation.
-2. **Waste Reduction Logic:** Explicitly asking for "overlapping ingredients" prevents the AI from creating wildly different meals every day, which is the #1 cause of grocery waste for beginners.
-3. **Safety Guardrails:** The warning constraint ensures the AI won't blindly spit out a dangerous 800-calorie starvation diet if the user accidentally inputs extreme numbers.
+1. **Role Playing:** Assigning the "Clinical Dietitian and professional Meal Prep Chef" persona forces the AI to prioritize nutritional balance and practical cooking over generating random, overly complex recipes.
+2. **Waste Reduction Logic:** Explicitly demanding "overlapping ingredients" prevents the AI from drafting wildly different meals every day—which is the number one cause of grocery waste for meal-prep beginners.
+3. **Safety Guardrails:** The warning constraint ensures the AI won't blindly spit out a dangerous, 800-calorie starvation diet if the user accidentally inputs extreme numbers.
 
 ---
 
@@ -111,7 +110,7 @@ This prompt is a game-changer for anyone struggling with consistency in their di
 Make me a meal plan to lose weight.
 ```
 
-_(Result: A generic, uninspired list of salads and plain chicken breasts with no portion sizes, no macro counts, and no cohesive grocery list.)_
+_(Result: A generic, uninspired list of salads and plain chicken breasts lacking portion sizes, macro breakdowns, and a cohesive grocery list.)_
 
 ### ✅ After (Using Pro Prompt)
 
@@ -123,7 +122,7 @@ _(Result: A generic, uninspired list of salads and plain chicken breasts with no
 | Mon | Dinner    | Baked Salmon & Quinoa       | 550 kcal | 40g / 45g / 20g | 25 mins   |
 ```
 
-_(Result: A highly structured, customized table with exact macros, prep times, and a categorized shopping list ready to take to the supermarket.)_
+_(Result: A highly structured, customized table complete with exact macros, prep times, and a categorized shopping list ready for the supermarket.)_
 
 ---
 

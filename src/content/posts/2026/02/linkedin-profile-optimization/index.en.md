@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"LinkedIn Profile Optimization Prompt: Attracting Headhunters\""
+title: "LinkedIn Profile Optimization Prompt: Attracting Headhunters"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Career & Job Change"
-description: " \"Increase your inbound job offers by 10x with a search-optimized Headline and a compelling, narrative-driven About section.\""
+description: "Increase your inbound job offers by 10x with a search-optimized Headline and a compelling, narrative-driven About section."
 tags: ["LinkedIn", "Profile Optimization", "Headhunting", "Personal Branding"]
 ---
 
@@ -13,7 +13,7 @@ tags: ["LinkedIn", "Profile Optimization", "Headhunting", "Personal Branding"]
 
 - **🎯 Recommended for:** Developers, Marketers, and anyone seeking premium career opportunities
 - **⏱️ Time required:** 5 minutes
-- **🤖 Recommended model:** Any Conversational AI (ChatGPT, Claude, Gemini, etc.)
+- **🤖 Recommended model:** Any conversational AI (ChatGPT, Claude, Gemini, etc.)
 
 - ⭐ **Difficulty:** ⭐⭐☆☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -21,7 +21,7 @@ tags: ["LinkedIn", "Profile Optimization", "Headhunting", "Personal Branding"]
 
 > _"Wondering why others land their dream jobs effortlessly on LinkedIn while your inbox hears crickets?"_
 
-LinkedIn is not just a digital resume repository; it is a **'search engine'** for recruiters. To get noticed, you must strategically plant the exact keywords that headhunters are querying into your **Headline** and **About** sections. Let's assign the role of an elite SEO (Search Engine Optimization) expert to AI and transform your profile into a magnet for top-tier opportunities.
+LinkedIn isn't just a digital resume repository; it's a **search engine** for recruiters. To get noticed, you must strategically plant the exact keywords headhunters are querying directly into your **Headline** and **About** sections. Let's assign the role of an elite SEO expert to your AI and transform your profile into a magnet for top-tier opportunities.
 
 ---
 
@@ -42,14 +42,13 @@ For when you just need quick, actionable results.
 > **Role:** You are an elite global recruitment consultant and LinkedIn SEO specialist.
 > **Task:** Optimize my LinkedIn profile to 10x my inbound job offers. Write a highly search-optimized Headline and a compelling, narrative-driven About section for a `[Your Job Title]`.
 
-
 ### 🥇 Pro Version
 
 For when you need top-tier, headhunter-ready quality and detailed storytelling.
 
-> **Role (Role):** You are an elite global recruitment consultant and a master of LinkedIn SEO.
+> **Role:** You are an elite global recruitment consultant and a master of LinkedIn SEO.
 >
-> **Context (Context):**
+> **Context:**
 >
 > - Background: I need to completely revamp my LinkedIn profile to attract premium inbound opportunities (InMails) from top-tier headhunters and tech recruiters.
 > - Goal: To rank higher in recruiter searches and immediately hook them with my profile narrative.
@@ -60,19 +59,19 @@ For when you need top-tier, headhunter-ready quality and detailed storytelling.
 > - **Core Skills:** `[e.g., React, TypeScript, Web Performance Optimization, System Architecture]`
 > - **Key Achievements:** `[e.g., Architected a web app scaling to 1M+ MAU, improved load times by 50%]`
 >
-> **Task (Task):**
+> **Task:**
 >
 > 1. **Headline:** Provide 3 powerful, one-line Headline options (Expertise-focused / Achievement-focused / Keyword-rich) that define my professional identity.
 > 2. **About Section:** Write a 300-word profile summary in the first person ("I"). Start with a strong, 2-sentence hook. Weave my career journey, passion, and technical impact into an engaging narrative.
 > 3. **SEO Keywords:** Identify 5 highly targeted search keywords I must seamlessly embed throughout my profile.
 >
-> **Constraints (Constraints):**
+> **Constraints:**
 >
 > - Use emojis sparingly but effectively to enhance readability.
 > - Keep the tone professional yet approachable, confident, and persuasive.
 > - Output the final result in clean Markdown format.
 >
-> **Warning (Warning):**
+> **Warning:**
 >
 > - Do not invent any achievements or skills not provided in the input context. If something is unclear, ask for clarification.
 

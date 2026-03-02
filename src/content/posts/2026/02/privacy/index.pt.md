@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"개인정보처리방침 (Privacy Policy)\""
-description: " \"Guia de política transparente e seguro sobre a coleta e o processamento de informações pessoais do Hello Prompt.\""
+description: " \"Guia transparente e seguro sobre a coleta e o tratamento de dados pessoais no Hello Prompt.\""
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 ---
@@ -10,23 +10,23 @@ updatedDate: "2026-02-09"
 
 - **🎯 Público-Alvo:** Todos os usuários globais do Hello Prompt
 - **⏱️ Tempo de Leitura:** Cerca de 3 minutos
-- **🤖 Tecnologias Aplicadas:** Análise personalizada baseada em cookies do Google Analytics e Google AdSense
+- **🤖 Tecnologias Aplicadas:** Análise personalizada com base em cookies via Google Analytics e Google AdSense
 
 - ⭐ **Transparência:** ⭐⭐⭐⭐⭐
 - ⚡️ **Segurança:** ⭐⭐⭐⭐⭐
 - 🚀 **Confiabilidade:** ⭐⭐⭐⭐⭐
 
-> _"Seus dados pertencem a você. O Hello Prompt fornece a máxima inspiração com o mínimo de coleta de dados."_
+> _"Os seus dados pertencem a você. O Hello Prompt oferece a máxima inspiração com a mínima coleta de dados."_
 
-O **Hello Prompt** (doravante "este site") prioriza a proteção das informações pessoais dos usuários globais e cumpre rigorosamente as leis de proteção de dados e as políticas globais do programa Google AdSense. Esta política entra em vigor a partir de 9 de fevereiro de 2026.
+O **Hello Prompt** (doravante denominado "este site") prioriza a proteção dos dados pessoais de seus usuários globais, cumprindo rigorosamente as legislações de privacidade e as políticas do programa Google AdSense. Esta política entra em vigor a partir de 9 de fevereiro de 2026.
 
 ---
 
 ## ⚡️ Resumo de 3 Pontos (TL;DR)
 
-1. **Sem Cadastro:** Não exigimos processos de registro ou informações pessoais sensíveis para utilizar nossos serviços.
-2. **Coleta Mínima de Dados:** Coletamos apenas cookies essenciais e logs de acesso necessários para a melhoria do site e a veiculação de anúncios personalizados (AdSense).
-3. **Conformidade Global:** Cumprimos rigorosamente os padrões internacionais de proteção de privacidade, como o GDPR (Europa) e o CCPA (Califórnia).
+1. **Sem Necessidade de Cadastro:** Não exigimos a criação de contas nem a submissão de dados pessoais sensíveis para a utilização dos nossos serviços.
+2. **Coleta Mínima de Dados:** Registramos apenas os cookies essenciais e os logs de acesso estritamente necessários para a otimização da plataforma e a exibição de anúncios personalizados (Google AdSense).
+3. **Conformidade Global:** Atuamos em estrita conformidade com as principais regulamentações internacionais de privacidade, incluindo o GDPR (Europa) e o CCPA (Califórnia).
 
 ---
 
@@ -34,73 +34,72 @@ O **Hello Prompt** (doravante "este site") prioriza a proteção das informaçõ
 
 ### 🥉 Dados Básicos Coletados (Basic Version)
 
-Para fornecer um ambiente rápido e seguro, este site coleta automaticamente apenas as seguintes informações.
+Para garantir uma experiência de navegação rápida e segura, o nosso sistema coleta de forma automática apenas as seguintes informações:
 
-> **Itens Coletados:** `[Cookies]`, `[Endereço IP]`, `[Informações do Navegador e Dispositivo]`, `[Horário de Acesso e Histórico de Visitas]`
+> **Itens Coletados:** `[Cookies]`, `[Endereço IP]`, `[Dados do Navegador e Dispositivo]`, `[Horário de Acesso e Histórico de Navegação]`
 >
-> **Método de Coleta:** Coleta sistêmica via ferramentas automáticas (como Google Analytics) durante a visita ao site.
-
+> **Método de Coleta:** Coleta sistêmica por meio de ferramentas analíticas automatizadas (como o Google Analytics) durante a sua navegação.
 
 ### 🥇 Finalidade dos Dados (Pro Version)
 
-Os dados coletados são utilizados estritamente para aprimorar a qualidade do serviço, garantir a segurança e manter as operações fluidas.
+Os dados coletados destinam-se exclusivamente ao aprimoramento da qualidade do serviço, à garantia da segurança da plataforma e à manutenção da estabilidade operacional.
 
 > **Papel (Role):** Este site atua como um `[Gestor de Dados Seguro e Rigoroso]`.
 >
 > **Contexto (Context):**
 >
-> - Cenário: `[Otimização da experiência do usuário e operação estável de servidores globais]`
-> - Objetivo: `[Fornecer informações de prompts da forma mais rápida e segura aos usuários]`
+> - Cenário: `[Otimização da experiência do usuário e manutenção da estabilidade de servidores globais]`
+> - Objetivo: `[Entregar os melhores prompts de IA aos usuários com máxima agilidade e segurança]`
 >
 > **Tarefa (Task):**
 >
-> 1. **Análise Estatística:** Analisar o tráfego via Google Analytics para melhorar a qualidade do conteúdo.
-> 2. **Anúncios Personalizados:** Exibir anúncios relevantes e úteis por meio do Google AdSense (com fins de monetização).
-> 3. **Manutenção da Segurança:** Bloquear acessos maliciosos de bots e defender contra tráfego anormal (ex: DDoS).
+> 1. **Análise Estatística:** Monitorar o tráfego por meio do Google Analytics para refinar a qualidade do conteúdo.
+> 2. **Anúncios Personalizados:** Apresentar anúncios relevantes e adequados ao seu perfil via Google AdSense (para fins de monetização).
+> 3. **Manutenção de Segurança:** Bloquear acessos maliciosos (bots) e proteger a infraestrutura contra picos de tráfego anormais (ex: ataques DDoS).
 >
 > **Restrições (Constraints):**
 >
-> - Todos os dados de log coletados devem ser anonimizados ou destruídos imediatamente após a análise estatística. (Período máximo de retenção: 3 meses)
+> - Todos os logs de acesso devem ser sumariamente anonimizados ou destruídos após a análise estatística. (Prazo máximo de retenção: 3 meses)
 >
 > **Avisos (Warning):**
 >
-> - Não colete informações pessoais sensíveis (nome, contato, etc.) sem o consentimento explícito do usuário, nem as venda a terceiros.
+> - É expressamente proibida a coleta de dados pessoais sensíveis (como nome ou informações de contato) sem consentimento explícito, bem como a sua venda a terceiros.
 
 ---
 
 ## 💡 Comentário do Autor (Insight)
 
-Esta Política de Privacidade não é apenas um documento formal para cumprir obrigações legais. Na era da IA, a gestão transparente de dados está diretamente ligada à confiabilidade do serviço. O Hello Prompt eliminou o incômodo do cadastro e bloqueou a coleta de dados desnecessários na fonte, para que você possa se concentrar apenas em copiar prompts e obter inspiração com total tranquilidade. Explore o site à vontade e com segurança!
+Esta Política de Privacidade vai muito além de um mero documento formal para cumprimento de obrigações legais. Na era da inteligência artificial, a gestão transparente de dados é o pilar fundamental da confiança em qualquer serviço digital. No Hello Prompt, eliminamos o atrito dos cadastros e bloqueamos a coleta de dados supérfluos direto na raiz. O nosso objetivo é que você possa focar exclusivamente em descobrir, copiar e se inspirar com os melhores prompts, com absoluta tranquilidade. Navegue à vontade e com total segurança!
 
 ---
 
 ## 🙋 Perguntas Frequentes (FAQ)
 
-- **Q: Como posso bloquear os anúncios personalizados (cookies)?**
-  - A: Você pode recusar o fornecimento de cookies a qualquer momento. Acesse as [Configurações de Anúncios do Google](https://www.google.com/settings/ads) para desativar os anúncios personalizados ou visite [www.aboutads.info](https://www.aboutads.info) para interromper imediatamente o uso de cookies por fornecedores terceirizados.
+- **Q: Como posso desativar os anúncios personalizados (cookies)?**
+  - A: O usuário tem total liberdade para recusar o uso de cookies a qualquer instante. Basta acessar as [Configurações de Anúncios do Google](https://www.google.com/settings/ads) para desativar a personalização de anúncios, ou visitar o portal [www.aboutads.info](https://www.aboutads.info) para interromper de imediato o rastreamento por fornecedores terceirizados.
 
-- **Q: Quando meus registros de acesso (como IP) serão completamente excluídos?**
-  - A: Eles são anonimizados logo após a análise estatística (Google Analytics). Os logs originais são retidos por um máximo de 3 meses, conforme a legislação aplicável, e então permanentemente destruídos de forma irreversível.
+- **Q: Quando é que os meus registros de acesso (como o endereço IP) são excluídos definitivamente?**
+  - A: Eles são anonimizados imediatamente após o processamento estatístico (via Google Analytics). Os logs brutos originais são retidos por um período máximo de 3 meses—em estrita conformidade com a legislação aplicável—sendo, em seguida, permanentemente destruídos de forma irreversível.
 
-- **Q: Sou residente na Europa/Califórnia. Como meus direitos de dados são garantidos?**
-  - A: O Hello Prompt cumpre estritamente as regulamentações globais. De acordo com o **GDPR (Europa)**, você pode solicitar acesso, correção e exclusão de seus dados a qualquer momento. Conforme o **CCPA (Califórnia)**, garantimos que não venderemos (Do Not Sell) suas informações a terceiros sob nenhuma circunstância.
+- **Q: Sou residente na Europa ou na Califórnia. Como os meus direitos de privacidade são garantidos?**
+  - A: O Hello Prompt atua em total conformidade com as regulamentações globais mais rigorosas. Sob as diretrizes do **GDPR (Europa)**, você possui o direito de solicitar o acesso, a retificação ou a exclusão dos seus dados a qualquer momento. De acordo com o **CCPA (Califórnia)**, garantimos expressamente que as suas informações jamais serão vendidas a terceiros sob nenhuma circunstância (_Do Not Sell_).
 
 ---
 
 ## 🧬 Análise da Política (Why this matters?)
 
-1. **Transparência (Transparency):** Esclarecemos exatamente quais informações são coletadas e para onde vão, aliviando qualquer ansiedade dos nossos leitores globais em relação aos seus dados.
-2. **Controle (Control):** Fornecemos métodos práticos e específicos para que os próprios usuários possam bloquear ativamente os anúncios personalizados (Opt-out).
+1. **Transparência (Transparency):** Detalhamos de forma clara e objetiva quais informações são retidas e para onde são direcionadas, eliminando qualquer preocupação dos nossos leitores globais quanto à privacidade.
+2. **Controle (Control):** Disponibilizamos mecanismos práticos e diretos para que os usuários possam, de forma autônoma e ativa, desativar os anúncios personalizados (_Opt-out_).
 
 ---
 
 ## 🎯 Conclusão e Contato
 
-Caso você seja redirecionado para outros sites através de links externos (Outlinks) postados no Hello Prompt, esteja ciente de que as políticas desses sites são independentes das nossas, portanto, navegue com cautela.
+Caso seja redirecionado para plataformas de terceiros através de links externos (Outlinks) disponibilizados no Hello Prompt, tenha em mente que as políticas de privacidade desses sites são independentes das nossas. Recomendamos que navegue com cautela e revise os termos de cada plataforma.
 
-Se você tiver dúvidas adicionais relacionadas à privacidade ou desejar solicitar a exclusão de dados, entre em contato conosco pelos canais oficiais abaixo. Nossa equipe responderá prontamente e com prazer.
+Se restarem dúvidas adicionais sobre a nossa política de privacidade ou caso deseje exercer o seu direito de exclusão de dados, não hesite em nos contatar por meio dos nossos canais oficiais. A nossa equipe de suporte terá o maior prazer em ajudar prontamente.
 
-- **Responsável:** Equipe de Proteção de Privacidade do Hello Prompt
+- **Responsável:** Equipe de Privacidade e Proteção de Dados do Hello Prompt
 - **E-mail:** `support@helloprompt.kr`
 
-Continue sua exploração criativa de prompts de IA em um ambiente de internet transparente e seguro! 🚀
+Continue a sua jornada criativa explorando os melhores prompts de IA em um ambiente digital pautado pela transparência e pela segurança! 🚀

@@ -21,7 +21,7 @@ tags: ["Midjourney", "이미지 생성", "디자인", "프롬프트"]
 
 > _"Was wäre, wenn Sie Tausende von Euro für Studiomieten, Modelgagen und aufwendige Licht-Setups komplett einsparen könnten – auf exakt null Euro?"_
 
-Mit dem Release von Midjourney v7 gehört der künstliche "KI-Plastik-Look" endgültig der Vergangenheit an. Wir haben ein Niveau an Fotorealismus erreicht, bei dem selbst erfahrene Profifotografen Mühe haben, echte Aufnahmen von KI-generierten Bildern zu unterscheiden. Doch um die gewaltige Rendering-Power der Version 7 vollends zu entfesseln, müssen Ihre Prompts absolut präzise sein.
+Mit der Veröffentlichung von Midjourney v7 gehört der unnatürliche "KI-Plastik-Look" endgültig der Vergangenheit an. Wir haben ein Maß an Fotorealismus erreicht, bei dem selbst erfahrene Profifotografen Mühe haben, echte Aufnahmen von KI-generierten Bildern zu unterscheiden. Um jedoch die gewaltige Rendering-Power der Version 7 vollständig zu entfesseln, müssen Ihre Prompts absolut präzise formuliert sein.
 
 Der Prompt, den ich Ihnen heute vorstelle, wird nicht direkt in Midjourney eingegeben. **Es handelt sich vielmehr um einen sogenannten „Meta-Prompt“. Wir verwandeln ChatGPT in einen „Werbefotografen mit 20 Jahren Berufserfahrung“, der den perfekten, englischsprachigen Midjourney v7-Prompt vollautomatisch für Sie maßschneidert.**
 
@@ -54,8 +54,8 @@ Nutzen Sie diese Variante für kompromisslose High-End-Studioqualität – wenn 
 >
 > **Kontext (Context):**
 >
-> - Ich benötige ein ultrahochauflösendes, absolut fotorealistisches Bild mit folgendem Motiv: `[Gewünschtes Motiv und Stimmung eingeben, z. B.: Eine junge asiatische Frau Anfang 20, die entspannt in einem sonnendurchfluteten Café einen Eiskaffee trinkt]`.
-> - Dieses Bild ist als Key-Visual für ein High-End-Lookbook oder eine luxuriöse Printkampagne vorgesehen.
+> - **Hintergrund:** Ich benötige ein ultrahochauflösendes, absolut fotorealistisches Bild mit folgendem Motiv: `[Gewünschtes Motiv und Stimmung eingeben, z. B.: Eine junge asiatische Frau Anfang 20, die entspannt in einem sonnendurchfluteten Café einen Eiskaffee trinkt]`.
+> - **Ziel:** Dieses Bild ist als Key-Visual für ein High-End-Lookbook oder eine luxuriöse Printkampagne vorgesehen.
 >
 > **Aufgabe (Task):**
 >
@@ -70,7 +70,7 @@ Nutzen Sie diese Variante für kompromisslose High-End-Studioqualität – wenn 
 >
 > **Einschränkungen (Constraints):**
 >
-> - Formuliere keine vollständigen Sätze, sondern nutze eine prägnante, durch Kommas getrennte Stichwortliste.
+> - Formuliere keine vollständigen Sätze im Prompt, sondern nutze eine prägnante, durch Kommas getrennte Stichwortliste.
 > - Verzichte auf jegliche Füllwörter und fokussiere dich ausschließlich auf starke, beschreibende Substantive und Adjektive.
 >
 > **Warnung (Warning):**

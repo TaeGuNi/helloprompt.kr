@@ -5,13 +5,13 @@ author: "Jay"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "AI 디자인"
-description: " \"Haben Sie genug von sich ständig ändernden KI-Charaktergesichtern? Entdecken Sie das Geheimnis konsistenter Charakterdesigns mit einem einzigen Midjourney Character Sheet Prompt.\""
+description: " \"Haben Sie genug von sich ständig ändernden KI-Charaktergesichtern? Entdecken Sie das Geheimnis durchgehend konsistenter Charakterdesigns mit einem einzigen Midjourney-Prompt für Character Sheets.\""
 tags: ["Midjourney", "캐릭터 디자인", "AI 아트", "일관성"]
 ---
 
 # 📝 Midjourney Charakter-Konsistenz: Das perfekte Character Sheet erstellen
 
-- **🎯 Empfohlen für:** Spieleentwickler, Webtoon-Künstler, Character Concept Artists
+- **🎯 Empfohlen für:** Spieleentwickler, Webtoon-Zeichner, Character Concept Artists
 - **⏱️ Zeitaufwand:** 1 Stunde → auf 5 Minuten verkürzt
 - **🤖 Empfohlenes Modell:** ChatGPT (zur Prompt-Erstellung) & Midjourney v6.0+
 
@@ -19,19 +19,19 @@ tags: ["Midjourney", "캐릭터 디자인", "AI 아트", "일관성"]
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
 - 🚀 **Anwendbarkeit:** ⭐⭐⭐⭐⭐
 
-> _"Sind Sie auch frustriert, weil sich das Gesicht Ihres Charakters bei jeder KI-Generierung leicht verändert und wie eine völlig andere Person aussieht?"_
+> _"Sind Sie auch frustriert, weil sich das Gesicht Ihres Charakters bei jeder KI-Generierung leicht verändert und plötzlich wie eine völlig andere Person aussieht?"_
 
-Die größte Herausforderung beim Einsatz von KI-Kunst in der Praxis ist die Wahrung der **Charakter-Konsistenz (Consistency)**. Wenn sich das Gesicht oder die Kleidung des Protagonisten in Webtoons oder Game-Assets von Szene zu Szene ändert, ist das Material für echte Projekte unbrauchbar. Die zuverlässigste und klassischste Methode, dieses Problem zu lösen, ist die Erstellung eines **Character Sheets (Charakterbogens)** als Grundlage.
+Die größte Herausforderung beim produktiven Einsatz von KI-Kunst ist die Wahrung der **Charakter-Konsistenz (Consistency)**. Wenn sich das Gesicht oder die Kleidung des Protagonisten in Webtoons oder Game-Assets von Szene zu Szene ändert, wird das Material für professionelle Projekte unbrauchbar. Die klassischste und zuverlässigste Methode, dieses Problem dauerhaft zu lösen, ist die Erstellung eines maßgeblichen **Character Sheets (Charakterbogens)**.
 
-Hier stelle ich Ihnen ein Prompt-Engineering-Geheimnis vor, mit dem Sie durch eine einzige Bildgenerierung die Vorder-, Seiten- und Rückansicht erhalten und so einen perfekten, konsistenten Referenzpunkt für all Ihre zukünftigen Arbeiten schaffen.
+Hier teile ich ein wertvolles Prompt-Engineering-Geheimnis mit Ihnen: Mit nur einer einzigen Bildgenerierung erhalten Sie perfekte Vorder-, Seiten- und Rückansichten. So schaffen Sie eine makellose, konsistente Referenzgrundlage für all Ihre zukünftigen Arbeiten.
 
 ---
 
 ## ⚡️ Zusammenfassung in 3 Sätzen (TL;DR)
 
-1. Erstellen Sie zuerst ein **Character Sheet**, um einen klaren, verbindlichen Standard für Ihr Design zu definieren.
-2. Nutzen Sie den **Pro-Prompt**, um über eine dialogbasierte KI (wie ChatGPT) perfekte Midjourney-Prompts für alle Ansichten (Front/Side/Back) zu generieren.
-3. Stellen Sie den Parameter **`--ar` (Seitenverhältnis)** breit ein (z. B. 16:9), um zu verhindern, dass sich Körperteile überschneiden oder abgeschnitten werden.
+1. Erstellen Sie zunächst ein fundiertes **Character Sheet**, um einen unumstößlichen Design-Standard für Ihre Figur zu etablieren.
+2. Nutzen Sie den **Pro-Prompt**, um über eine dialogbasierte KI (wie ChatGPT) optimierte Midjourney-Prompts für alle wesentlichen Ansichten (Front/Side/Back) zu generieren.
+3. Setzen Sie den Parameter **`--ar` (Seitenverhältnis)** zwingend auf ein breites Format (z. B. 16:9), um zu verhindern, dass Figuren ineinander verschmelzen oder Körperteile abgeschnitten werden.
 
 ---
 
@@ -39,70 +39,69 @@ Hier stelle ich Ihnen ein Prompt-Engineering-Geheimnis vor, mit dem Sie durch ei
 
 ### 🥉 Basic Version (Für schnelle Ergebnisse)
 
-Verwenden Sie diesen Prompt, wenn Sie direkt in Midjourney schnell die grobe Atmosphäre eines Charakters testen möchten.
+Verwenden Sie diesen simplen Prompt, wenn Sie direkt in Midjourney die grobe visuelle Stimmung eines Charakters skizzieren möchten.
 
 > **Midjourney Prompt:**
 > character sheet of a `[Detaillierte Charakterbeschreibung]`, full body, white background, multiple views, front side and back view --v 6.0 --ar 3:2
 
-
 ### 🥇 Pro Version (Für Experten)
 
-Dies ist ein Experten-Prompt für ChatGPT oder Claude. Er generiert den optimalen englischen Midjourney-Prompt, wenn Sie hochdetaillierte Konzeptzeichnungen für Spiele oder präzise Referenzen für 3D-Modellierungen benötigen.
+Dies ist ein hochgradig optimierter Experten-Prompt für ChatGPT oder Claude. Er generiert Ihnen den bestmöglichen englischen Midjourney-Prompt, der unerlässlich ist, wenn Sie detailreiche Konzeptzeichnungen für Spiele oder präzise Blueprint-Referenzen für 3D-Modellierungen benötigen.
 
 > **Rolle (Role):** Du bist ein `[Lead Character Designer für AAA-Rollenspiele]`.
 >
 > **Kontext (Context):**
 >
-> - Hintergrund: `[Ich benötige ein konsistentes Charakter-Referenzblatt für 3D-Modellierung und Webtoon-Zeichnungen.]`
-> - Ziel: `[Erstelle einen hochwertigen englischen Prompt im Concept-Art-Stil, der perfekt in Midjourney v6.0 funktioniert.]`
+> - Hintergrund: `[Ich benötige ein absolut konsistentes Charakter-Referenzblatt für 3D-Modellierungen und fortlaufende Webtoon-Zeichnungen.]`
+> - Ziel: `[Erstelle einen erstklassigen englischen Prompt im Concept-Art-Stil, der perfekt in Midjourney v6.0 funktioniert und exakte Ergebnisse liefert.]`
 >
 > **Aufgabe (Task):**
 >
-> 1. Schreibe basierend auf den folgenden Charakter-Einstellungen einen englischen Prompt für die Bildgenerierung in Midjourney.
-> 2. Charakter-Einstellungen: `[Beschreibe hier detailliert das Aussehen, die Kleidung, die Waffen, die Farben usw. des Charakters]`
-> 3. Das Format MUSS ein **Character Sheet** sein. Stelle sicher, dass ausdrücklich mindestens drei verschiedene Winkel erwähnt werden: Frontansicht (Front view), Seitenansicht (Side view) und Rückansicht (Back view).
+> 1. Schreibe basierend auf den folgenden Charakter-Spezifikationen einen englischen Prompt für die Bildgenerierung in Midjourney.
+> 2. Charakter-Spezifikationen: `[Beschreibe hier detailliert das Aussehen, die Kleidung, die Waffen, die Farbschemata usw. des Charakters]`
+> 3. Das gewünschte Format MUSS zwingend ein **Character Sheet** sein. Stelle sicher, dass explizit mindestens drei verschiedene Perspektiven angefordert werden: Frontansicht (Front view), Seitenansicht (Side view) und Rückansicht (Back view).
 >
 > **Einschränkungen (Constraints):**
 >
-> - Fordere einen rein weißen Hintergrund (Plain white background), um das Motiv nicht zu stören.
-> - Spezifiziere eine A-Pose oder T-Pose (Standard neutral pose), damit Arme und Beine den Körper nicht verdecken.
-> - Eine Ganzkörperaufnahme (Full body shot) von Kopf bis Fuß ist zwingend erforderlich.
-> - Verlange eine flache Beleuchtung (Flat lighting, shadowless), damit keine Details durch Schatten verborgen werden.
-> - Gib AUSSCHLIESSLICH den englischen Prompt in einem Markdown-Codeblock (```text) aus, ohne zusätzlichen Text.
+> - Fordere einen rein weißen Hintergrund (Plain white background), um das Hauptmotiv visuell nicht zu stören.
+> - Spezifiziere eine A-Pose oder T-Pose (Standard neutral pose), damit weder Arme noch Beine wichtige Details des Körpers verdecken.
+> - Eine Ganzkörperaufnahme (Full body shot) von Kopf bis Fuß ist absolut zwingend erforderlich.
+> - Verlange eine flache Beleuchtung (Flat lighting, shadowless), damit keinerlei Textur- oder Design-Details durch harte Schatten verborgen bleiben.
+> - Gib AUSSCHLIESSLICH den englischen Prompt in einem Markdown-Codeblock (```text) aus – ohne jeglichen zusätzlichen Text oder Erklärungen.
 >
 > **Warnung (Warning):**
 >
-> - Füge am Ende des Prompts unbedingt `--v 6.0 --ar 16:9 --stylize 250` hinzu, damit keine Midjourney-Parameter fehlen.
-> - Erfinde keine unsicheren Informationen und lass unnötige Einleitungen oder zusätzliche Erklärungen weg.
+> - Füge am Ende des Prompts strikt `--v 6.0 --ar 16:9 --stylize 250` hinzu, damit wichtige Midjourney-Parameter nicht vergessen werden.
+> - Erfinde keine unbestätigten Informationen und verzichte komplett auf unnötige Einleitungen.
 
 ---
 
 ## 💡 Insights des Autors
 
-Der Grund, warum dieses Prompt-System so mächtig ist, liegt darin, dass es die räumliche Anordnung und Konsistenz – die größten Schwächen von Midjourney – intelligent kontrolliert. Die Kombination aus dem **`--ar` (Aspect Ratio)** Parameter und den Anweisungen zur Bildkomposition ist hierbei der Schlüssel zum Erfolg.
+Die immense Kraft dieses Prompt-Systems liegt darin, dass es die räumliche Anordnung und die Konsistenz – die traditionell größten Schwachstellen von Midjourney – intelligent und strikt kontrolliert. Die Kombination aus dem Parameter **`--ar` (Aspect Ratio)** und den gezielten Anweisungen zur Bildkomposition ist hier der entscheidende Schlüssel zum Erfolg.
 
-1. **Eine breite Leinwand (`--ar 16:9`):** Ein Character Sheet muss den gesamten Körper aus mindestens drei Perspektiven nebeneinander darstellen. Beim Standardverhältnis (1:1) werden die Figuren in einen zu engen Raum gequetscht, was unweigerlich zu Überschneidungen führt oder Körperteile abschneidet. Wenn Sie ein Verhältnis von 16:9 oder 3:2 erzwingen, geben Sie der KI den nötigen horizontalen Platz.
-2. **Kontrollierte Beleuchtung (Flat lighting):** Dramatische Beleuchtung (wie Cinematic lighting) sieht auf Illustrationen toll aus, ist für Referenzbögen aber eine Katastrophe. Tiefe Schatten machen es unmöglich, die Textur oder Struktur der Kleidung zu erkennen. Der Befehl für flache Beleuchtung garantiert ein praxistaugliches Ergebnis.
+1. **Eine breite Leinwand (`--ar 16:9`):** Ein professionelles Character Sheet muss den gesamten Körper aus mindestens drei Perspektiven sauber nebeneinander darstellen. Beim Standardverhältnis von 1:1 werden die Figuren in einen viel zu engen Raum gequetscht, was unweigerlich zu unsauberen Überschneidungen führt oder Gliedmaßen abschneidet. Indem Sie ein Format von 16:9 oder 3:2 erzwingen, geben Sie der KI genau den horizontalen Spielraum, den sie benötigt.
+2. **Kontrollierte Beleuchtung (Flat lighting):** Eine dramatische Beleuchtung (wie z.B. Cinematic lighting) sieht auf fertigen Illustrationen zwar atemberaubend aus, ist für technische Referenzbögen jedoch eine absolute Katastrophe. Tiefe Schatten machen es unmöglich, den Schnitt, die Textur oder die Struktur der Kleidung genau zu erkennen. Der Befehl für flache Beleuchtung garantiert Ihnen ein wirklich praxistaugliches, klares Arbeitsergebnis.
 
-**💡 Praxis-Tipp:** Nutzen Sie das mit dem Pro-Prompt generierte Bild als Quellmaterial für die `--cref` (Character Reference) Funktion in Midjourney. So können Sie unendlich viele Illustrationen in verschiedensten Posen generieren, während Gesicht und Kleidung Ihres Charakters extrem konsistent bleiben.
+**💡 Praxis-Tipp:** Nutzen Sie das mit diesem Pro-Prompt generierte Bild direkt als Quellmaterial für die mächtige `--cref` (Character Reference) Funktion in Midjourney. Dadurch können Sie im Anschluss unendlich viele Illustrationen in den unterschiedlichsten Posen generieren, während das Gesicht und die Kleidung Ihres Charakters beispiellos konsistent bleiben.
 
 ---
 
 ## 🙋 Häufig gestellte Fragen (FAQ)
 
-- **F: Kann ich nach der Erstellung des Character Sheets nur die Kleidung oder Waffen leicht ändern?**
-  - A: Ja, absolut. Klicken Sie im Midjourney-Discord mit der rechten Maustaste auf das generierte Sheet und wählen Sie die Funktion **'Vary (Region)'** (Inpainting). Wählen Sie mit dem Lasso-Werkzeug nur die Kleidung aus, lassen Sie Gesicht und Körperform unangetastet, und geben Sie einen neuen Prompt ein (z. B. "wearing futuristic heavy armor"). Die Änderung wird nahtlos eingefügt.
+- **F: Kann ich nach der Erstellung des initialen Character Sheets nur die Kleidung oder Waffen leicht modifizieren?**
+  - A: Ja, absolut. Klicken Sie im Midjourney-Discord mit der rechten Maustaste auf das generierte Sheet und wählen Sie die Funktion **'Vary (Region)'** (Inpainting) aus. Markieren Sie mit dem Lasso-Werkzeug ausschließlich die Kleidung, lassen Sie das Gesicht sowie die Grundkörperform völlig unangetastet und geben Sie einen neuen Prompt ein (z. B. "wearing futuristic heavy armor"). Die KI wird die Änderung nahtlos und fotorealistisch einfügen.
 
-- **F: Kann ich statt des realistischen Stils auch einen japanischen Anime-Stil (für Webtoons) generieren?**
-  - A: Natürlich. Ändern Sie einfach den Parameter `--v 6.0` am Ende des Prompts in `--niji 6` (das auf Anime spezialisierte Modell). So erhalten Sie ein hervorragendes Character Sheet im Cel-Shading-Stil, das Sie direkt für Webtoons oder 2D-Spiele verwenden können.
+- **F: Kann ich anstelle des realistischen Stils auch einen japanischen Anime-Stil (ideal für Webtoons) generieren?**
+  - A: Natürlich. Ändern Sie dafür einfach den Parameter `--v 6.0` am Ende des Prompts in `--niji 6` (das speziell auf Anime trainierte Modell). So erhalten Sie ein hervorragendes Character Sheet im Cel-Shading-Stil, das Sie ohne Umwege direkt für Webtoons oder 2D-Spiele verwenden können.
 
 ---
 
 ## 🧬 Prompt-Analyse (Warum funktioniert das?)
 
-1. **Spezifische Ansichten (Multiple Views):** Durch die klare Anweisung "Front, Side, Back view" wird die KI gezwungen, ein technisches 3-Seiten-Layout zu erstellen, anstatt den Charakter in einer zufälligen Pose darzustellen.
-2. **Kontrolle über Pose und Bildausschnitt (A-pose / Full body shot):** Die Vorgabe einer in der Spiele- und 3D-Industrie üblichen Standardpose verhindert, dass wichtige Details der Kleidung durch verschränkte Arme oder Beine verdeckt werden.
-3. **Isolierte Einschränkungen:** Indem dem LLM (ChatGPT) eine klare Struktur für die Erstellung des Midjourney-Prompts vorgegeben wird, verhindern wir Halluzinationen oder das Hinzufügen nutzloser Hintergrundelemente.
+1. **Spezifische Ansichten (Multiple Views):** Durch die unmissverständliche Anweisung "Front, Side, Back view" wird die KI rigoros dazu gezwungen, ein technisches 3-Seiten-Layout zu konstruieren, anstatt den Charakter in einer bloß zufälligen Pose künstlerisch darzustellen.
+2. **Kontrolle über Pose und Bildausschnitt (A-pose / Full body shot):** Die strikte Vorgabe einer in der Spiele- und 3D-Industrie branchenüblichen Standardpose verhindert effektiv, dass essenzielle Details der Kleidung durch verschränkte Arme oder dynamische Beinstellungen verdeckt werden.
+3. **Isolierte Einschränkungen:** Indem wir dem LLM (ChatGPT) eine glasklare, logische Struktur für die Erstellung des finalen Midjourney-Prompts vorgeben, eliminieren wir Halluzinationen und blockieren das willkürliche Hinzufügen nutzloser, störender Hintergrundelemente.
 
 ---
 
@@ -120,14 +119,14 @@ make a character sheet of a cyberpunk warrior --v 6.0
 Character sheet of a cyberpunk female warrior with a neon katana and pink hair, front view, side view, back view, full body shot, standard neutral A-pose, plain white background, flat lighting, shadowless, high quality, detailed concept art style --v 6.0 --ar 16:9 --stylize 250
 ```
 
-> **Ergebnis:** Auf einem rein weißen Hintergrund (White background) werden Vorder-, Seiten- und Rückansicht in einheitlicher Größe und Proportion nebeneinander aufgereiht. Der Charakter ist von Kopf bis Fuß vollständig sichtbar, und dank der schattenfreien Ausleuchtung können die Details der Kleidung sofort als Referenz für 3D-Modellierung oder Zeichnungen verwendet werden.
+> **Ergebnis:** Auf einem makellos rein weißen Hintergrund (White background) werden Vorder-, Seiten- und Rückansicht in einheitlicher Größe und Proportion absolut symmetrisch nebeneinander aufgereiht. Der Charakter ist von Kopf bis Fuß vollständig sichtbar, und dank der schattenfreien Ausleuchtung lassen sich die feinsten Details der Kleidung sofort und ohne Rätselraten als Blueprint für 3D-Modellierungen oder Zeichnungen adaptieren.
 
 ---
 
 ## 🎯 Fazit
 
-Ein gut gemachtes "Character Sheet" ist das solide Fundament jedes KI-Kunstprojekts. Wenn Sie dieses Gerüst einmal sauber aufgebaut haben, bleiben die Details Ihres Charakters stabil, egal in welche Situation oder vor welchen Hintergrund Sie ihn später setzen.
+Ein handwerklich gut gemachtes "Character Sheet" ist das solide, unverzichtbare Fundament eines jeden ernsthaften KI-Kunstprojekts. Wenn Sie dieses Gerüst einmal methodisch sauber aufgebaut haben, bleiben die Kerndetails Ihres Charakters stabil – völlig egal, in welche noch so wilde Situation oder vor welchen Hintergrund Sie ihn später setzen.
 
-Lösen Sie mit dem heute gelernten Prompt Ihre Probleme mit der Charakter-Konsistenz und erschaffen Sie Ihr eigenes, faszinierendes Original-Charakter-Universum!
+Lösen Sie mit dem heute erlernten Prompt-System Ihre frustrierenden Probleme mit der Charakter-Konsistenz endgültig und erschaffen Sie ab sofort Ihr eigenes, faszinierendes und vollkommen kohärentes Original-Charakter-Universum!
 
 Machen Sie jetzt pünktlich Feierabend! 🍷

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "업무 효율화"
-description: " \"어제 뭐 했는지 기억 안 나서 깃허브 뒤적거리는 개발자 주목. 커밋 로그만 던져주면 깔끔한 스탠드업 스크립트가 나옵니다.\""
+description: "Attention developers digging through GitHub to remember what you did yesterday: just paste your commit logs, and you'll get a clean, ready-to-read standup script in seconds."
 tags: ["스탠드업", "회의준비", "개발자", "회고"]
 ---
 
@@ -19,17 +19,17 @@ tags: ["스탠드업", "회의준비", "개발자", "회고"]
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
 - 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-> _"Staring blankly at your screen at 9:55 AM trying to remember what on earth you coded yesterday? Stop digging through your GitHub history."_
+> _"Staring blankly at your screen at 9:55 AM, trying to remember what on earth you coded yesterday? Stop digging through your GitHub history."_
 
-Daily standups are meant to be quick, but the preparation often isn't. Remembering every bug fix, refactor, and PR review from the previous day can be a mental drain before you've even had your coffee. This prompt takes your raw Git commit history or chaotic rough notes and instantly transforms them into a concise, professional, and cross-functional-friendly standup update.
+Daily standups are meant to be quick, but the preparation rarely is. Trying to recall every bug fix, refactor, and PR review from the previous day can be mentally draining before you've even had your first coffee. This prompt takes your raw Git commit history or chaotic rough notes and instantly transforms them into a concise, professional, and cross-functional standup update.
 
 ---
 
 ## ⚡️ TL;DR (3-Line Summary)
 
-1. **Stop manual digging:** Just copy-paste your raw `git log` or random work notes directly into the prompt.
-2. **Standardized format:** AI automatically categorizes your raw work into 'Done', 'Doing', and 'Blockers'.
-3. **Team-friendly tone:** Converts cryptic technical jargon into clear updates that both developers and PMs can understand.
+1. **Stop the manual digging:** Simply copy and paste your raw `git log` or random work notes directly into the prompt.
+2. **Standardized formatting:** The AI automatically categorizes your raw input into "Done," "Doing," and "Blockers."
+3. **Team-friendly tone:** It translates cryptic technical jargon into clear, accessible updates that both developers and PMs can easily understand.
 
 ---
 
@@ -37,30 +37,29 @@ Daily standups are meant to be quick, but the preparation often isn't. Rememberi
 
 ### 🥉 Basic Version
 
-Perfect when you just need a rapid summary of your chaotic notes for an internal dev-only sync.
+Perfect for when you just need a rapid summary of your chaotic notes for an internal, dev-only sync.
 
 > **Role:** You are a seasoned Agile software engineer.
-> **Task:** Convert the following raw notes/commit logs into a structured daily standup update. Format it strictly into "Yesterday", "Today", and "Blockers".
+> **Task:** Convert the following raw notes and commit logs into a structured daily standup update. Format it strictly into "Yesterday," "Today," and "Blockers."
 > **Input:** `[Paste your raw notes or git logs here]`
-
 
 ### 🥇 Pro Version
 
-For developers who want a polished, PM-friendly update that perfectly balances technical details with business value.
+Designed for developers who want a polished, PM-friendly update that perfectly balances technical details with business value.
 
-> **Role:** You are an articulate Senior Software Engineer communicating with a cross-functional Agile team (including PMs, designers, and other devs).
+> **Role:** You are an articulate Senior Software Engineer communicating with a cross-functional Agile team (including PMs, designers, and fellow developers).
 >
 > **Context:**
 >
 > - Background: I need to share my daily standup update.
-> - Goal: Clearly communicate what I achieved yesterday, what I am focusing on today, and any blockers, ensuring technical tasks are explained in terms of user/business value.
+> - Goal: Clearly communicate what I achieved yesterday, what my focus is today, and any blockers I am facing, ensuring that technical tasks are framed in terms of user or business value.
 >
 > **Task:**
 > Analyze the provided `[Git Logs / Raw Notes]` and generate a professional standup script.
 >
-> 1. Categorize items into exactly three sections: **🔙 Yesterday**, **🎯 Today**, and **🚧 Blockers**.
+> 1. Categorize the items into exactly three sections: **🔙 Yesterday**, **🎯 Today**, and **🚧 Blockers**.
 > 2. Translate cryptic commit messages (e.g., "fix typo in auth", "wip payment gateway") into clear, professional bullet points.
-> 3. Highlight the _impact_ of the work, not just the technical action.
+> 3. Highlight the _impact_ of the work, rather than just the technical action taken.
 > 4. Keep it concise. The script should take no longer than 45 seconds to read aloud.
 >
 > **Input Data:**
@@ -75,34 +74,34 @@ For developers who want a polished, PM-friendly update that perfectly balances t
 >
 > **Warning:**
 >
-> - Do not invent tasks or make assumptions about work that is not explicitly present in the input data. (Prevent hallucination)
+> - Do not invent tasks or make assumptions about work that is not explicitly present in the input data to prevent hallucination.
 
 ---
 
 ## 💡 Writer's Insight
 
-This prompt is a lifesaver for engineers who suffer from "morning amnesia." I personally use this by running `git log --author="MyName" --since="yesterday" --oneline` in my terminal, piping it directly to my clipboard, and pasting it into the AI with this prompt. It not only saves me 10-15 minutes every morning but also significantly improves the quality of my communication with Product Managers. By having the AI translate technical commits into "value-driven" updates, you bridge the communication gap between engineering and the rest of the business effortlessly.
+This prompt is an absolute lifesaver for engineers who suffer from "morning amnesia." I personally use it by running `git log --author="MyName" --since="yesterday" --oneline` in my terminal, piping the output directly to my clipboard, and pasting it into the AI alongside this prompt. Not only does it save me 10 to 15 minutes every morning, but it also significantly elevates the quality of my communication with Product Managers. By having the AI translate technical commits into value-driven updates, you effortlessly bridge the communication gap between engineering and the broader business.
 
 ---
 
 ## 🙋 Frequently Asked Questions (FAQ)
 
-- **Q: Do I need a paid AI model for this?**
-  - A: Not necessarily. Free models like ChatGPT (GPT-4o-mini) or Claude 3 Haiku handle this perfectly because the task is primarily summarization and formatting.
+- **Q: Do I need a paid AI model to use this?**
+  - A: Not necessarily. Free models like ChatGPT (GPT-4o-mini) or Claude 3 Haiku handle this perfectly, as the task is primarily focused on summarization and formatting.
 
 - **Q: Can I use this for weekly syncs instead of daily standups?**
   - A: Absolutely! Just change the timeframe in the prompt from "Yesterday/Today" to "Last Week/This Week" and feed it your weekly commit logs or Jira ticket titles.
 
 - **Q: What if my commit messages are terrible (e.g., "wip", "fixed bug")?**
-  - A: The Pro Version is designed to handle this. However, the AI can't read your mind—if a commit just says "fix," it might be too vague. For best results, combine your logs with a few rough bullet points of context when pasting your input.
+  - A: The Pro Version is specifically designed to handle this. However, the AI can't read your mind—if a commit simply says "fix," it might be too vague to glean much from. For the best results, combine your logs with a few rough bullet points providing extra context when pasting your input.
 
 ---
 
 ## 🧬 Prompt Anatomy (Why it works?)
 
-1. **Cross-Functional Persona:** Assigning the role of a Senior Engineer speaking to a _cross-functional_ team forces the AI to avoid overly dense technical jargon that might confuse stakeholders.
-2. **Impact-Oriented Tasking:** Instructing the AI to "Highlight the impact" ensures your update sounds proactive and valuable, rather than just a dry list of chores.
-3. **Strict Constraints:** Forcing a Markdown format and a 45-second reading limit ensures the output is immediately usable without requiring you to edit down a wall of text.
+1. **Cross-Functional Persona:** Assigning the role of a Senior Engineer speaking to a _cross-functional_ team forces the AI to avoid overly dense technical jargon that might alienate or confuse stakeholders.
+2. **Impact-Oriented Tasking:** Instructing the AI to "Highlight the impact" ensures your update sounds proactive and valuable, rather than reading like a dry list of chores.
+3. **Strict Constraints:** Mandating a Markdown format and a 45-second reading limit guarantees the output is immediately usable, saving you from having to edit down a massive wall of text.
 
 ---
 
@@ -139,6 +138,6 @@ This prompt is a lifesaver for engineers who suffer from "morning amnesia." I pe
 
 ## 🎯 Conclusion
 
-Daily standups shouldn't be a test of your short-term memory. By leveraging this prompt, you can transform chaotic terminal outputs into articulate, professional updates in seconds.
+Daily standups shouldn't be a test of your short-term memory. By leveraging this prompt, you can transform chaotic terminal outputs into articulate, professional updates in a matter of seconds.
 
-Get your mornings back, impress your PMs, and head into your standup with confidence. Time to grab that coffee! ☕️
+Get your mornings back, impress your PMs, and head into your standup with total confidence. Now, it's time to grab that coffee! ☕️

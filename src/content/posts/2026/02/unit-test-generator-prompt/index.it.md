@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Sviluppo"
-description: " \"Affida la noiosa stesura dei Test Unitari all'IA e punta al 100% di test coverage in soli 5 minuti.\""
+description: "Affida la noiosa stesura dei test unitari all'IA e punta al 100% di test coverage in soli 5 minuti."
 tags: ["Codice di Test", "TDD", "Jest", "PyTest", "QA"]
 ---
 
@@ -41,21 +41,20 @@ Ora, tutto ciò che devi fare è incollare la tua logica di business. L'Intellig
 
 Usala quando hai bisogno di un risultato immediato senza troppe configurazioni.
 
-> **Ruolo:** Sei un Ingegnere QA Senior esperto in automazione dei test.
+> **Ruolo:** Sei un Senior QA Engineer esperto in automazione dei test.
 > **Richiesta:** Scrivi i test unitari per il seguente frammento di codice. Assicurati di coprire i casi di successo e gli errori principali.
-> **Codice:** `[Incolla il tuo codice qui]`
-
+> **Codice:** `[Incolla qui il tuo codice]`
 
 ### 🥇 Pro Version (Versione Esperto)
 
 Usala per progetti complessi dove hai bisogno di test pronti per la produzione, completi di mock e descrizioni dettagliate.
 
-> **Ruolo (Role):** Sei un Ingegnere QA meticoloso, perfezionista e Senior Software Engineer, massimo esperto in Test-Driven Development (TDD) e automazione.
+> **Ruolo (Role):** Sei un QA Engineer meticoloso, perfezionista e Senior Software Engineer, massimo esperto in Test-Driven Development (TDD) e automazione.
 >
 > **Contesto (Context):**
 >
-> - Linguaggio/Framework: `[Linguaggio/Framework Usato, es. TypeScript/Jest]`
-> - Obiettivo: Ho bisogno di test unitari robusti per aumentare l'affidabilità e raggiungere un'alta test coverage su questo modulo.
+> - Linguaggio/Framework: `[Linguaggio/Framework Utilizzato, es. TypeScript/Jest]`
+> - Obiettivo: Ho bisogno di test unitari robusti per aumentare l'affidabilità e raggiungere un'elevata test coverage su questo modulo.
 >
 > **Richiesta (Task):**
 >
@@ -66,9 +65,7 @@ Usala per progetti complessi dove hai bisogno di test pronti per la produzione, 
 >
 > **Codice:**
 >
->
-> [Incolla qui il codice da testare]
->
+> `[Incolla qui il codice da testare]`
 >
 > **Vincoli (Constraints):**
 >
@@ -82,20 +79,20 @@ Usala per progetti complessi dove hai bisogno di test pronti per la produzione, 
 
 Questo prompt è un vero salvavita per noi sviluppatori. La parte più noiosa dello scrivere test non è la sintassi, ma dover immaginare tutti i possibili scenari di rottura (edge cases) e configurare i mock per i servizi esterni.
 
-L'IA eccelle proprio in questo: nell'analisi combinatoria dei possibili input. Personalmente, lo uso non solo per scrivere test per codice legacy non testato, ma anche durante il processo di Code Review per verificare se un collega ha dimenticato di testare un caso specifico. **Un consiglio d'oro:** Se usi Jest o Vitest, specifica nel prompt se preferisci che i mock vengano fatti con `vi.mock()` o `jest.spyOn()`, l'IA si adatterà perfettamente al tuo stile di codice aziendale!
+L'IA eccelle proprio in questo: nell'analisi combinatoria dei possibili input. Personalmente, lo uso non solo per scrivere test per codice legacy non testato, ma anche durante i processi di Code Review per verificare se un collega ha dimenticato di testare un caso specifico. **Un consiglio d'oro:** Se usi Jest o Vitest, specifica nel prompt se preferisci che i mock vengano implementati con `vi.mock()` o `jest.spyOn()`; l'IA si adatterà perfettamente agli standard del tuo progetto!
 
 ---
 
 ## 🙋 Domande Frequenti (FAQ)
 
 - **Q: Funziona anche con codice React o componenti UI?**
-  - A: Assolutamente sì! Basta specificare nel framework `[React Testing Library + Jest/Vitest]`. Ricordati di includere il codice del componente e l'IA genererà i test simulando le interazioni dell'utente (click, input, ecc.).
+  - A: Assolutamente sì! Basta specificare nel framework `[React Testing Library + Jest/Vitest]`. Ricordati di includere il codice del componente: l'IA genererà i test simulando le interazioni dell'utente (click, input, ecc.).
 
 - **Q: Posso usarlo per il codice Backend che fa chiamate al Database?**
   - A: Certamente. Il prompt include già un'istruzione per gestire i Mock. L'IA creerà dei mock per i tuoi repository o servizi ORM (come Prisma o TypeORM) in modo da isolare la logica di business dal database reale.
 
 - **Q: Cosa faccio se il test generato fallisce?**
-  - A: Se il test fallisce, passagli l'errore del terminale dicendo: _"Questo test fallisce con questo errore: [Errore]. Correggi il test o dimmi se c'è un bug nel mio codice originale."_ Spesso l'IA troverà un bug reale nel tuo codice che non avevi notato!
+  - A: Se il test fallisce, passagli l'errore del terminale dicendo: _"Questo test fallisce con questo errore: [Inserisci l'errore qui]. Correggi il test o dimmi se c'è un bug nel mio codice originale."_ Spesso l'IA troverà un bug reale nel tuo codice che non avevi notato!
 
 ---
 
@@ -157,5 +154,5 @@ describe("Test per la funzione calcolaSconto", () => {
 
 ## 🎯 Conclusione
 
-Se i bug vengono scoperti in produzione, il costo e lo stress per risolverli si moltiplicano a dismisura.
-Stermina i bug alla radice durante la fase di sviluppo con questo prompt, e clicca su quel pulsante 'Merge' con assoluta serenità. Buona programmazione! 🍷
+Se i bug vengono scoperti in produzione, i costi e lo stress per risolverli si moltiplicano a dismisura.
+Stermina i bug alla radice durante la fase di sviluppo con questo prompt e clicca su quel pulsante 'Merge' con assoluta serenità. Buona programmazione! 🍷

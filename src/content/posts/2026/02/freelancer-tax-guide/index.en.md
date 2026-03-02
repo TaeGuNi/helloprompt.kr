@@ -5,15 +5,15 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investment"
-description: " \"A comprehensive guide to expense processing and deduction strategies for freelancers and side-hustlers dreading the May comprehensive income tax return.\""
+description: "A comprehensive guide on expense tracking and tax deduction strategies for freelancers and side-hustlers dreading the May comprehensive income tax returns."
 tags: ["Tax", "TaxSaving", "Freelancer", "ComprehensiveIncomeTax"]
 ---
 
 # 📝 Freelancer Tax Saving Guide: Maximize Your Tax Refund
 
-- **🎯 Recommended For:** Freelancers, Gig Workers, Content Creators, and Side-Hustlers
+- **🎯 Recommended For:** Freelancers, gig workers, content creators, and side-hustlers
 - **⏱️ Time Required:** 5 minutes
-- **🤖 Recommended Model:** All Conversational AI (ChatGPT, Claude, Gemini, etc.)
+- **🤖 Recommended Model:** Any conversational AI (ChatGPT, Claude, Gemini, etc.)
 
 - ⭐ **Difficulty:** ⭐⭐☆☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -40,34 +40,33 @@ Office workers enjoy the luxury of automatic year-end tax settlements, but freel
 Use this when you need a rapid, high-level overview of your tax situation.
 
 > **Role:** You are an expert `[Tax Accountant]` specializing in freelancer and gig economy taxes.
-> **Request:** Provide a clear, actionable guide on expense processing and tax deduction strategies for a freelancer preparing for their comprehensive income tax return.
-
+> **Request:** Provide a clear, actionable guide on expense reporting and tax deduction strategies for a freelancer preparing for their comprehensive income tax return.
 
 ### 🥇 Pro Version (Expert Level)
 
 Use this when you need highly specific, detailed, and legally sound tax strategies.
 
-> **Role (Role):** You are a seasoned `[Tax Accountant]` with 15 years of experience specializing in freelancer taxation.
+> **Role:** You are a seasoned `[Tax Accountant]` with 15 years of experience specializing in freelancer taxation.
 >
-> **Context (Context):**
+> **Context:**
 >
 > - Background: I am a freelancer working as a `[Web Designer]`.
 > - Current Status: My total annual income for the last fiscal year was `[40,000,000 KRW / $40,000 USD]`.
-> - Goal: I am preparing for the upcoming comprehensive income tax return and want to strategically maximize my deductions and secure the largest possible refund.
+> - Goal: I am preparing for the upcoming comprehensive income tax return and want to strategically maximize my deductions to secure the largest possible refund.
 >
-> **Task (Task):**
+> **Task:**
 >
 > 1. Based on my income bracket, advise me on the most advantageous reporting method (**Simple Expense Ratio, Standard Expense Ratio, or Simple Ledger**).
 > 2. Provide an exhaustive list of **legally deductible business expenses** specific to my profession (e.g., software subscriptions, equipment depreciation, home office costs).
-> 3. Compare the pros and cons of utilizing **Tax-Saving Financial Products (e.g., Yellow Umbrella Deduction, Pension Savings Accounts)**, focusing on the immediate income deduction benefits.
+> 3. Compare the pros and cons of utilizing **tax-saving financial products (e.g., Yellow Umbrella Deduction, Pension Savings Accounts)**, focusing on the immediate income deduction benefits.
 >
-> **Constraints (Constraints):**
+> **Constraints:**
 >
-> - Base all advice strictly on the current `[South Korean / Local]` tax laws.
+> - Base all advice strictly on current `[South Korean / Local]` tax laws.
 > - Avoid overly dense accounting jargon. Use plain, actionable language (e.g., "Always collect physical receipts for X").
 > - Format the output using clean Markdown with bullet points for readability.
 >
-> **Warning (Warning):**
+> **Warning:**
 >
 > - Do not invent or hallucinate tax laws or deduction limits. If you are unsure about a specific regulation, explicitly state that I must consult a certified professional.
 

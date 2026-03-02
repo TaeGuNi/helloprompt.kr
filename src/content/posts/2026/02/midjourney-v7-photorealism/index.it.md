@@ -11,9 +11,9 @@ tags: ["Midjourney", "이미지 생성", "디자인", "프롬프트"]
 
 # 📝 Scatta con i Prompt: La guida definitiva al fotorealismo su Midjourney v7
 
-- **🎯 Consigliato per:** designer, content marketer e imprenditori che vogliono abbattere i costi degli shooting in studio
-- **⏱️ Tempo richiesto:** 5 minuti → 1 minuto (basta copiare e incollare)
-- **🤖 Modello consigliato:** ChatGPT-4o (per generare il prompt) + Midjourney v7
+- **🎯 Consigliato per:** Designer, content marketer e imprenditori che vogliono abbattere i costi degli shooting in studio.
+- **⏱️ Tempo richiesto:** 5 minuti → 1 minuto (basta copiare e incollare).
+- **🤖 Modello consigliato:** ChatGPT-4o (per generare il prompt) + Midjourney v7.
 
 - ⭐ **Difficoltà:** ⭐⭐⭐☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -29,8 +29,8 @@ Il prompt che sto per condividere non va inserito direttamente su Midjourney. **
 
 ## ⚡️ In sintesi (TL;DR)
 
-1. Midjourney v7 ha fatto un salto quantico nella simulazione della luce (lighting) e della grana della pelle (texture), raggiungendo livelli di realismo assoluto.
-2. Per ottenere un vero e proprio "scatto fotografico" anziché una semplice "bella immagine", è indispensabile specificare l'obiettivo, il tipo di pellicola e il setup di illuminazione.
+1. Midjourney v7 ha fatto un salto di qualità senza precedenti nella simulazione della luce (lighting) e della grana della pelle (texture), raggiungendo un realismo impressionante.
+2. Per ottenere un vero e proprio "scatto fotografico" anziché una semplice "bella immagine", è indispensabile specificare la lente, il tipo di pellicola e il setup di illuminazione.
 3. Non preoccuparti se non conosci il gergo tecnico: ti basterà incollare il prompt qui sotto su ChatGPT per ottenere parametri da vero professionista in un istante.
 
 ---
@@ -41,16 +41,16 @@ Copia questo prompt e incollalo su **ChatGPT (o Claude)**. Attenzione: non inser
 
 ### 🥉 Versione Basic
 
-Ideale quando hai bisogno di un prompt rapido, ma estremamente efficace, per generare immagini fotorealistiche.
+Ideale quando hai bisogno di un prompt rapido, ma estremamente efficace, per generare immagini fotorealistiche al volo.
 
-> **Ruolo:** Sei un fotografo commerciale professionista e un Prompt Engineer esperto di Midjourney v7.
-> **Azione:** Sulla base del `[inserisci il tema o il soggetto]` che ti fornirò, scrivi un prompt in inglese di una sola riga, ottimizzato per generare la fotografia più realistica possibile su Midjourney v7.
+> **Ruolo:** Sei un fotografo commerciale professionista e un esperto Prompt Engineer per Midjourney v7.
+> **Azione:** Sulla base del `[inserisci il tema o il soggetto]` che ti fornirò, scrivi un prompt in inglese di una sola riga, ottimizzato per generare su Midjourney v7 la fotografia più realistica e dettagliata possibile.
 
 ### 🥇 Versione Pro
 
 Perfetta per ottenere una qualità da studio di altissimo livello, capace di catturare le imperfezioni della pelle, i pori e persino i granelli di polvere sospesi nell'aria.
 
-> **Ruolo (Role):** Sei un fotografo commerciale di fama mondiale con 20 anni di esperienza e un **"Prompt Engineer per Midjourney v7"** specializzato nel rendering iperrealistico.
+> **Ruolo (Role):** Sei un fotografo commerciale di fama mondiale con 20 anni di esperienza e un **"Prompt Engineer per Midjourney v7"** specializzato in rendering iperrealistici.
 >
 > **Contesto (Context):**
 >
@@ -60,8 +60,8 @@ Perfetta per ottenere una qualità da studio di altissimo livello, capace di cat
 > **Azione (Task):**
 >
 > 1. Crea il prompt in inglese per Midjourney combinando in modo armonico questi 5 elementi:
->    - **Subject (Soggetto):** Descrivi le micro-espressioni, la direzione dello sguardo, la texture dell'abbigliamento e i dettagli della pelle (pori, peluria).
->    - **Camera Gear (Attrezzatura):** Specifica l'obiettivo, l'apertura focale (es: 85mm f/1.2) e il modello di fotocamera (es: Sony A7R V, Hasselblad X2D).
+>    - **Subject (Soggetto):** Descrivi le micro-espressioni, la direzione dello sguardo, la texture dell'abbigliamento e i dettagli della pelle (pori, imperfezioni, peluria).
+>    - **Camera Gear (Attrezzatura):** Specifica l'obiettivo, l'apertura del diaframma (es: 85mm f/1.2) e il modello di fotocamera (es: Sony A7R V, Hasselblad X2D).
 >    - **Lighting (Illuminazione):** Indica la direzione e il tipo di luce (es: Cinematic lighting, Rembrandt lighting, Softbox, Golden hour).
 >    - **Atmosphere (Atmosfera/Color grading):** Specifica lo stile della pellicola per la color correction (es: Moody tone, Kodak Portra 400, Fujifilm Superia).
 >    - **Parameters (Parametri):** Aggiungi OBBLIGATORIAMENTE alla fine del prompt: `--ar 16:9 --v 7 --style raw --q 2 --stylize 100`.
@@ -71,7 +71,7 @@ Perfetta per ottenere una qualità da studio di altissimo livello, capace di cat
 > **Vincoli (Constraints):**
 >
 > - Privilegia un elenco intuitivo di parole chiave separate da virgole rispetto alla perfezione grammaticale.
-> - Evita frasi poetiche e concentrati sui concetti chiave, utilizzando principalmente sostantivi.
+> - Evita frasi poetiche e concentrati sui concetti chiave, utilizzando principalmente sostantivi e aggettivi precisi.
 >
 > **Attenzione (Warning):**
 >
@@ -81,22 +81,22 @@ Perfetta per ottenere una qualità da studio di altissimo livello, capace di cat
 
 ## 💡 L'Insight dell'Autore
 
-Il vero segreto per spingere al massimo il fotorealismo su Midjourney v7 risiede nel padroneggiare l'**"Illuminazione (Lighting)"** e la **"Lunghezza focale (Lens focal length)"**. Se ti limiti a chiedere un generico "beautiful lighting", l'IA ti restituirà la solita pelle finta e dall'aspetto plasticoso.
+Il vero segreto per spingere al massimo il fotorealismo su Midjourney v7 risiede nel padroneggiare due elementi: l'**"Illuminazione (Lighting)"** e la **"Lunghezza focale (Lens focal length)"**. Se ti limiti a chiedere genericamente "beautiful lighting", l'IA ti restituirà la solita pelle finta dall'aspetto plasticoso.
 
-Devi invece controllare le proprietà della luce con precisione assoluta, utilizzando termini come "Rembrandt lighting" o "Window blind shadows" (le ombre proiettate dalle tapparelle). Inoltre, l'uso di specifiche tecniche come `85mm f/1.2` o "shallow depth of field" (profondità di campo ridotta) creerà una morbida sfocatura dello sfondo (bokeh), concentrando l'attenzione sul soggetto per un impatto drammatico. Non mastichi di fotografia? Nessun problema: con la versione Pro, ci penserà ChatGPT a selezionare l'obiettivo e le luci perfette per la tua scena.
+Devi invece controllare le proprietà della luce con precisione assoluta, utilizzando termini come "Rembrandt lighting" o "Window blind shadows" (le ombre proiettate dalle tapparelle). Inoltre, l'uso di specifiche tecniche come `85mm f/1.2` o "shallow depth of field" (profondità di campo ridotta) creerà una morbida sfocatura dello sfondo (bokeh), concentrando l'attenzione sul soggetto per un impatto visivo drammatico. Non mastichi di fotografia? Nessun problema: con la versione Pro, ci penserà ChatGPT a selezionare l'obiettivo e le luci perfette per la tua scena.
 
 ---
 
 ## 🙋 Domande Frequenti (FAQ)
 
 - **Q: A cosa serve esattamente il parametro `--style raw` alla fine del prompt?**
-  - A: Disattiva l'estetica "patinata" che Midjourney applica di default. È fondamentale per preservare quell'aspetto grezzo, imperfetto e autentico tipico di un file RAW appena uscito dalla macchina fotografica. Se punti al realismo estremo, non è un optional: è una regola d'oro.
+  - A: Disattiva l'estetica "patinata" e standardizzata che Midjourney applica di default. È fondamentale per preservare quell'aspetto grezzo, imperfetto e autentico tipico di un file RAW appena uscito dalla macchina fotografica. Se punti al realismo estremo, non è un optional: è la regola d'oro.
 
 - **Q: Nella v6 capitava spesso di vedere mani con 6 dita o proporzioni aliene. La v7 ha risolto il problema?**
-  - A: Assolutamente sì. Midjourney v7 ha corretto il 99% dei problemi anatomici legati ad arti e articolazioni. Ora il modello riproduce con precisione maniacale anche i microdettagli, come una ciocca di capelli fuori posto o le vene sul dorso di una mano, mettendo fine a quelle fastidiose anomalie visive.
+  - A: Assolutamente sì. Midjourney v7 ha corretto il 99% dei problemi anatomici legati ad arti e articolazioni. Ora il modello riproduce con precisione maniacale anche i microdettagli, come una ciocca di capelli fuori posto o le vene sul dorso di una mano, mettendo definitivamente fine a quelle fastidiose anomalie visive.
 
 - **Q: Posso scrivere il mio prompt direttamente in italiano su Midjourney?**
-  - A: Sebbene possa "intuire" il senso generale, il motore di Midjourney dà il meglio di sé esclusivamente in inglese. Ecco perché il cuore di questa guida consiste nell'**usare ChatGPT come traduttore e Prompt Engineer**, trasformando la tua idea in italiano in un prompt tecnico in inglese di altissima precisione.
+  - A: Sebbene possa "intuire" il senso generale, il motore di Midjourney dà il meglio di sé esclusivamente in inglese. Ecco perché il cuore di questa tattica consiste nell'**usare ChatGPT come traduttore e Prompt Engineer**, trasformando la tua idea in italiano in un prompt tecnico in inglese di altissima precisione.
 
 ---
 
@@ -112,7 +112,7 @@ Devi invece controllare le proprietà della luce con precisione assoluta, utiliz
 
 ### ❌ Prima (Input Semplice)
 
-Questo è il tipico "effetto IA" che ottieni dando in pasto a Midjourney la prima idea che ti passa per la testa, senza configurare né luci né lenti.
+Questo è il tipico "effetto IA" che ottieni dando in pasto a Midjourney la prima idea che ti passa per la testa, senza configurare né luci né ottiche.
 
 ```text
 A korean woman drinking coffee in cafe --v 7
@@ -122,7 +122,7 @@ A korean woman drinking coffee in cafe --v 7
 
 ### ✅ Dopo (Risultato del Prompt Pro)
 
-Questo è invece il livello di fotorealismo che otterrai su Midjourney copiando e incollando il prompt generato dal nostro assistente fotografico su ChatGPT.
+Questo è invece il livello di fotorealismo che otterrai su Midjourney copiando e incollando il prompt generato dal nostro assistente fotografico virtuale su ChatGPT.
 
 ```text
 Cinematic shot of a Korean woman in her 20s sipping an iced latte, natural sunlight hitting her face through window blinds, dust particles floating in the air, shot on Sony A7R V, 85mm f/1.2 lens, shallow depth of field, hyper-realistic skin texture, microscopic pore details visible, subtle peach fuzz, Kodak Portra 400 film grain, moody cinematic vibe --ar 16:9 --v 7 --style raw --q 2 --stylize 100

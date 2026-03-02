@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Scrittura"
-description: " \"Un prompt che trasforma testi noiosi e nozionistici in storie avvincenti che toccano le emozioni dei lettori.\""
+description: "Un prompt che trasforma testi noiosi e puramente nozionistici in storie avvincenti capaci di toccare le emozioni dei lettori."
 tags: ["Storytelling", "Scrittura", "Saggio"]
 ---
 
@@ -39,9 +39,8 @@ La frase "La nostra azienda è stata fondata nel 1990" è piatta e dimenticabile
 
 Usala quando hai poco tempo e ti serve una riscrittura rapida.
 
-> **Ruolo:** Sei un `[Autore Bestseller e Copywriter Esperto]`.
+> **Ruolo:** Sei un `[Autore di Bestseller e Copywriter Esperto]`.
 > **Richiesta:** Riscrivi il seguente testo, passando da un noioso elenco di fatti a una storia coinvolgente che faccia leva sulle emozioni. `[Testo: inserisci qui il tuo testo]`
-
 
 ### 🥇 Pro Version (Versione Avanzata)
 
@@ -60,14 +59,14 @@ Ideale per articoli di blog, newsletter e landing page dove la qualità è tutto
 > 2. Rendi il testo tridimensionale utilizzando espressioni che stimolino i cinque sensi (vista, udito, olfatto, ecc.).
 > 3. Inserisci punti di empatia strategici: il lettore deve pensare "Cavolo, succede esattamente così anche a me!".
 >
-> **Testo Originale da elaborare:**
-> "`[INSERISCI QUI IL TUO TESTO NOISO. Esempio: Per fare la dieta, il controllo dell'alimentazione è importante. È difficile perdere peso solo con l'esercizio. Non dovresti mangiare spuntini notturni la sera. Sopportarlo sarà difficile, ma devi avere forza di volontà.]`"
+> **Testo originale da elaborare:**
+> "`[INSERISCI QUI IL TUO TESTO NOIOSO. Esempio: Per fare la dieta, il controllo dell'alimentazione è importante. È difficile perdere peso solo con l'esercizio. Non dovresti mangiare spuntini notturni la sera. Sopportarlo sarà difficile, ma devi avere forza di volontà.]`"
 >
 > **Vincoli (Constraints):**
 >
 > - Usa un tono di voce confidenziale ma professionale.
 > - Non usare cliché banali e non esagerare con il melodramma.
-> - Formatta il testo finale dividendo in paragrafi brevi e ariosi.
+> - Formatta il testo finale dividendolo in paragrafi brevi e ariosi.
 
 ---
 
@@ -75,7 +74,7 @@ Ideale per articoli di blog, newsletter e landing page dove la qualità è tutto
 
 Il segreto di questo prompt risiede nella transizione logica dal _cosa_ al _come_. Quando chiediamo all'IA di "aggiungere i cinque sensi" e "creare punti di empatia", la costringiamo ad abbandonare lo stile enciclopedico tipico di ChatGPT.
 
-Nella mia esperienza, Claude 3.5 Sonnet gestisce questo prompt in modo eccezionale, producendo testi che sembrano scritti da un vero copywriter. Se il risultato vi sembra ancora troppo finto (il classico stile "plasticoso" dell'IA), vi consiglio di aggiungere al prompt questa riga: _"Usa un linguaggio quotidiano e rimuovi tutti gli aggettivi non necessari"_. Questo semplice trucco ripulirà il testo rendendolo incredibilmente umano e autentico.
+Nella mia esperienza, Claude 3.5 Sonnet gestisce questo prompt in modo eccezionale, producendo testi che sembrano scritti da un vero copywriter. Se il risultato ti sembra ancora troppo finto (il classico stile "plasticoso" dell'IA), ti consiglio di aggiungere al prompt questa riga: _"Usa un linguaggio quotidiano e rimuovi tutti gli aggettivi non necessari"_. Questo semplice trucco ripulirà il testo rendendolo incredibilmente umano e autentico.
 
 ---
 
@@ -91,9 +90,9 @@ Nella mia esperienza, Claude 3.5 Sonnet gestisce questo prompt in modo ecceziona
 
 ## 🧬 Anatomia del prompt (Perché funziona?)
 
-1. **Role (Ruolo):** Definire l'IA come "Copywriter Senior e Autore Bestseller" alza immediatamente l'asticella del vocabolario, evitando frasi banali.
-2. **Focus sui cinque sensi:** Spinge l'IA a mostrare (_show, don't tell_) invece di limitarsi a spiegare, creando immagini mentali forti nella testa del lettore.
-3. **Punti di empatia:** L'istruzione di far pensare al lettore "succede esattamente così anche a me" è il vero trucco psicologico che trasforma un lettore distratto in un lettore fedele.
+1. **Role (Ruolo):** Definire l'IA come "Copywriter Senior e Autore di Saggi Bestseller" alza immediatamente l'asticella del vocabolario, evitando frasi banali.
+2. **Focus sui cinque sensi:** Spinge l'IA a mostrare (_show, don't tell_) invece di limitarsi a spiegare, creando immagini mentali vivide nella testa del lettore.
+3. **Punti di empatia:** L'istruzione di far pensare al lettore "Cavolo, succede esattamente così anche a me!" è il vero trucco psicologico che trasforma un lettore distratto in un lettore fedele.
 
 ---
 
@@ -121,6 +120,6 @@ Questa notte, prova a chiudere quell'app. Prova a resistere a quel bisogno dispe
 
 ## 🎯 Conclusione
 
-Le persone dimenticano i freddi numeri, i grafici e le descrizioni tecniche, ma non dimenticano mai come le hai fatte sentire. Trasforma i tuoi dati in storie.
+Le persone dimenticano i freddi numeri, i grafici e le descrizioni tecniche, ma non dimenticheranno mai come le hai fatte sentire. Trasforma i tuoi dati in storie.
 
 Ora, vai e dai vita ai tuoi testi! 🍷

@@ -5,14 +5,14 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "건강/라이프"
-description: " \"Ask AI before paying for expensive personal training. Correct your home workout posture using the GPT-4o Vision feature.\""
+description: "Before paying for expensive personal training, ask AI. Correct your home workout posture using the GPT-4o Vision feature."
 tags: ["운동", "헬스", "PT", "스쿼트", "ChatGPT"]
 ---
 
 # 🏋️ Workout Posture Correction: Get Feedback on Your Squat Video (Vision)
 
-- **🎯 Recommended for:** Office workers experiencing joint pain during home workouts, college students and young professionals burdened by expensive PT costs
-- **⏱️ Time Required:** 1 minute (Video recording and upload)
+- **🎯 Recommended for:** Office workers experiencing joint pain during home workouts, college students, and young professionals burdened by expensive PT costs
+- **⏱️ Time Required:** 1 minute (video recording and upload)
 - **🤖 Recommended AI:** ChatGPT (GPT-4o Vision), Claude 3.5 Sonnet, Gemini 2.5 Pro
 
 - ⭐ **Difficulty:** ⭐☆☆☆☆
@@ -21,13 +21,13 @@ tags: ["운동", "헬스", "PT", "스쿼트", "ChatGPT"]
 
 > _"Have you ever finished 100 squats only to find your thighs feel fine, but your knees and lower back are screaming in agony?"_
 
-Repeating exercises with improper form is not a workout; it's just 'labor' that grinds down your joints. If looking in the mirror doesn't help you spot the flaw, and paying for premium personal training feels too burdensome, it's time to leverage the **'Vision' capability of AI trainers**. By simply uploading a video of your workout, the AI analyzes your joint angles and movement mechanics to pinpoint critical errors, such as "your knees are collapsing inward" or "your lower back is rounding (butt wink)."
+Repeating exercises with improper form isn't a workout; it's just 'labor' that grinds down your joints. If looking in the mirror isn't helping you spot the flaw, and paying for premium personal training feels too burdensome, it's time to leverage the **'Vision' capability of AI trainers**. By simply uploading a video of your workout, the AI analyzes your joint angles and movement mechanics to pinpoint critical errors, such as "your knees are collapsing inward" or "your lower back is rounding (butt wink)."
 
 ---
 
 ## ⚡️ 3-Line Summary (TL;DR)
 
-1. Record a 10-second workout video from a side or 45-degree angle, ensuring your full body is in the frame.
+1. Record a 10-second workout video from the side or a 45-degree angle, ensuring your full body is in the frame.
 2. Open the ChatGPT app (or Claude/Gemini) and upload the video.
 3. Prompt the AI: **"Analyze and correct my squat posture from the perspective of a rehabilitation trainer."**
 
@@ -41,7 +41,6 @@ Use this when you want a quick, straightforward diagnosis of your current postur
 
 > **Role:** You are a personal trainer with 10 years of experience.
 > **Task:** The attached video shows my `[squat]` posture. Identify any incorrect movements that could lead to injury and rate my form out of 10.
-
 
 ### 🥇 Pro Version
 
@@ -57,7 +56,7 @@ Use this when you need detailed coaching, joint protection strategies, and routi
 > **Task:**
 >
 > 1. **Joint & Trajectory Analysis:** Perform a frame-by-frame mechanical analysis of my spine neutrality, hip, knee, and ankle angles to ensure they are safely aligned.
-> 2. **Problem Diagnosis:** Identify the most critical flaws in my current posture using professional terminology, such as "Knee Valgus" or "Butt Wink".
+> 2. **Problem Diagnosis:** Identify the most critical flaws in my current posture using professional terminology, such as "Knee Valgus" or "Butt Wink."
 > 3. **Solutions & Accessory Exercises:** Recommend two specific stretches or accessory movements I should perform before and after my main workout to correct these faulty mechanics.
 > 4. **Cognitive Cueing:** Provide one intuitive, easy-to-remember phrase (e.g., "Imagine gripping and ripping the floor apart with your feet") that I can repeat in my head during the next set to instantly fix my form.
 >

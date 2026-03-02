@@ -5,31 +5,31 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: " \"Learn how to build a custom Slack lunch recommendation bot using Workflow Builder and AI—without writing a single line of code.\""
+description: "Learn how to build a custom Slack lunch recommendation bot using Workflow Builder and AI—without writing a single line of code."
 tags: ["Slack", "슬랙", "챗봇", "자동화", "사내문화"]
 ---
 
 # 🤖 Building a Slack Bot: The "What's for Lunch?" Corporate Assistant
 
-- **🎯 Recommended for:** Junior employees suffering from daily menu-picking anxiety, HR teams wanting to revitalize a dull corporate messenger.
-- **⏱️ Time Required:** 10 minutes (using Slack Workflow Builder)
-- **🤖 Recommended Model:** ChatGPT-4o (Excellent at creative recommendations and contextual awareness)
+- **🎯 Recommended for:** Junior employees dreading the daily menu-picking ordeal, or HR teams looking to breathe life into a stale corporate messenger.
+- **⏱️ Time Required:** 10 minutes (via Slack Workflow Builder)
+- **🤖 Recommended Model:** ChatGPT-4o (Excels at creative recommendations and grasping situational context)
 
 - ⭐ **Difficulty:** ⭐⭐☆☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
 - 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-> _"What should we eat today? Anything is fine. Pasta? Not really feeling noodles... Stop the exhausting daily lunch guessing game. Delegate it to an AI assistant and save your energy for clocking out on time."_
+> _"What should we eat today? Anything's fine. Pasta? Not really in the mood for carbs... End the exhausting daily guessing game. Hand the reins over to an AI assistant and save your mental energy for what really matters: clocking out on time."_
 
-The ultimate dilemma for office workers: choosing the lunch menu. Stop trying to read the room and just ask your internal messenger bot. Imagine typing, "It's raining today, what should we eat?" and getting a witty response like, "On a rainy day, how about some warm, comforting Pho instead of the usual?" In this guide, we'll show you how to build a sensible lunch recommendation bot using Slack's Workflow Builder—without writing a single line of code.
+Choosing the lunch menu is the ultimate daily dilemma for office workers. Instead of trying to read the room and desperately throwing out options, why not just ask your internal messenger bot? Imagine typing, "It's pouring outside, what are we eating?" and receiving a spot-on response like, "On a dreary, rainy day, how about a steaming bowl of Pho instead of the usual sandwich?" In this guide, we'll walk you through building a highly intuitive lunch recommendation bot using Slack's Workflow Builder—without writing a single line of code.
 
 ---
 
 ## ⚡️ 3-Line Summary (TL;DR)
 
-1. Use Slack's no-code **Workflow Builder** to easily set up an automated bot.
-2. Set specific trigger words (e.g., "Lunch recommendation") or emoji reactions to summon the bot.
-3. Integrate an AI connector (like ChatGPT) to run a custom prompt that suggests lunch menus tailored to the weather and specific situations.
+1. Leverage Slack's no-code **Workflow Builder** to deploy an automated bot in minutes.
+2. Configure specific trigger phrases (e.g., "Lunch recommendations") or emoji reactions to summon the assistant.
+3. Integrate an AI connector (like ChatGPT) to run a custom prompt that curates menus based on the weather, team mood, and specific dining scenarios.
 
 ---
 
@@ -37,62 +37,61 @@ The ultimate dilemma for office workers: choosing the lunch menu. Stop trying to
 
 ### 🥉 Basic Version
 
-Use this when you need a quick cure for decision paralysis.
+Deploy this prompt when you need an immediate cure for decision paralysis.
 
-> **Role:** You are a friendly corporate assistant who picks lunch menus.
+> **Role:** You are a friendly, witty corporate assistant in charge of selecting lunch menus.
 >
-> **Task:** Randomly select one category from Korean, Chinese, Japanese, Western, or Street Food. Then, recommend 3 popular, universally liked dishes within that category for office workers.
-
+> **Task:** Randomly pick one dining category from options like Korean, Chinese, Japanese, Western, or Street Food. Next, recommend 3 popular, universally appealing dishes from that category tailored for office workers.
 
 ### 🥇 Pro Version
 
-Use this when you want a highly customized, sensible lunch recommendation that factors in the weather, mood, and team size.
+Use this advanced prompt when you want highly tailored, context-aware lunch recommendations that factor in the weather, the team's current mood, and headcount.
 
-> **Role:** You are a gourmet food critic and an expert local restaurant navigator near our office (`[Office Location, e.g., Gangnam Station]`).
+> **Role:** You are an esteemed gourmet food critic and a local restaurant expert navigating the dining scene near our workplace (`[Office Location, e.g., Downtown / Financial District]`).
 >
 > **Context:**
 >
-> - Weather: `[Current Weather, e.g., Raining, Sunny, Freezing]`
-> - Mood/Vibe: `[Team Vibe, e.g., Stressed, Payday, On a diet]`
-> - Headcount: `[Group Size, e.g., Eating alone, Whole team lunch, Peers]`
+> - Weather: `[Current Weather, e.g., Pouring rain, Sunny and warm, Freezing cold]`
+> - Mood/Vibe: `[Team Vibe, e.g., Stressed out, Payday celebration, Dieting]`
+> - Headcount: `[Group Size, e.g., Solo lunch, Entire team, Small group of peers]`
 >
 > **Task:**
 >
-> 1. Recommend exactly 1 perfect lunch menu that fits the situation above.
-> 2. Add a witty, relatable explanation (1-2 sentences) on why this menu is the best choice for office workers today.
-> 3. Format the output as a highly readable Markdown list, including relevant emojis.
+> 1. Recommend exactly 1 flawless lunch menu perfectly suited to the parameters above.
+> 2. Include a witty, relatable explanation (1-2 sentences) detailing why this dish is the ultimate choice for the team today.
+> 3. Format the final output as a highly readable Markdown list, complete with relevant emojis.
 >
 > **Constraints:**
 >
-> - Exclude highly polarizing foods (e.g., fermented skate, heavy cilantro) or meals that take too long to eat within a standard lunch hour.
+> - Strictly exclude highly polarizing foods (e.g., blue cheese, heavy cilantro, intensely spicy dishes) or meals that require more than a standard lunch hour to consume.
 >
 > **Warning:**
 >
-> - Do not hallucinate or make up fake restaurant names. Focus entirely on recommending the menu item itself.
+> - Do not hallucinate or fabricate fake restaurant names. Focus entirely on recommending the menu item itself.
 
 ---
 
 ## 💡 Writer's Insight
 
-A Slack bot is more than just a technical "feature"—it is a powerful tool for shaping corporate **culture**. It acts as a lubricant, injecting small laughs and conversation starters into a messenger channel that might otherwise be filled only with stiff work directives. If you start with a lunch recommendation bot and gain positive traction from your team, you can easily expand this to a "Kudos Bot," a "Birthday Bot," or a "Weekly Retrospective Bot," significantly contributing to a flexible and positive organizational culture. Furthermore, if you link this prompt with automation tools like Zapier or Make, you can bypass the limitations of native Slack workflows and evolve it into a much smarter AI assistant.
+A Slack bot is far more than a mere technical feature—it's a potent catalyst for shaping corporate **culture**. It acts as social lubricant, injecting lighthearted moments and effortless conversation starters into a workspace that might otherwise be bogged down by stiff, formal directives. If you launch a lunch bot and see positive engagement, you can easily scale the concept into a "Kudos Bot," a "Birthday Bot," or a "Weekly Retrospective Bot," cultivating a more vibrant and flexible organizational culture. Furthermore, by connecting this prompt with automation platforms like Zapier or Make, you can transcend the limitations of native Slack workflows and evolve it into a remarkably sophisticated AI assistant.
 
 ---
 
 ## 🙋 Frequently Asked Questions (FAQ)
 
-- **Q: My company uses the free version of Slack. Can we still use Workflow Builder?**
-  - A: Unfortunately, Slack's native Workflow Builder is fully supported only on paid plans (Pro and above). If you are on the free tier, you can build a workaround using Zapier or Make.com to "listen" for messages in a specific channel and send responses via the ChatGPT API.
+- **Q: My company is on the free tier of Slack. Can we still use Workflow Builder?**
+  - A: Unfortunately, Slack restricts its native Workflow Builder to paid plans (Pro and above). However, if you're on the free tier, you can easily create a workaround using Zapier or Make.com to "listen" for specific channel messages and fire back responses via the ChatGPT API.
 
-- **Q: How is this different from coding a bot directly (e.g., using Python)?**
-  - A: Developing with Python's `slack-bolt` library allows for highly advanced interactions, such as clickable buttons, modal pop-ups, and internal database integrations. However, since custom coding incurs maintenance overhead and server hosting costs, a no-code workflow is overwhelmingly more efficient for simple menu recommendations and lightweight text-based responses.
+- **Q: How does this differ from hard-coding a bot from scratch (e.g., using Python)?**
+  - A: Developing a bot with Python's `slack-bolt` library unlocks advanced, interactive UI elements like clickable buttons, modal pop-ups, and direct database queries. However, custom code brings the burden of ongoing maintenance and server hosting costs. For simple menu recommendations and lightweight text generation, a no-code workflow is vastly more efficient and cost-effective.
 
 ---
 
 ## 🧬 Prompt Anatomy (Why it works)
 
-1. **Contextual Variables:** Instead of a generic "Recommend a menu," providing specific variables (`[ ]`) for weather, mood, and headcount forces the AI to avoid cliché answers and generate highly empathetic, customized suggestions.
-2. **Constraint Setting:** The `Warning` section acknowledges the unique constraints of a lunch break (time limits, polarizing tastes) and fundamentally blocks the AI from hallucinating non-existent restaurants.
-3. **Role-playing:** By assigning a specific persona ("gourmet food critic and local restaurant navigator"), the tone and manner of the response shift from rigid information delivery to a friendly, witty coworker.
+1. **Contextual Variables:** Moving beyond a generic "recommend food" prompt, we inject specific variables (`[ ]`) for weather, mood, and headcount. This forces the AI to bypass clichés and generate highly empathetic, laser-focused suggestions.
+2. **Constraint Setting:** The `Warning` section directly addresses the practical limitations of a corporate lunch break (time constraints, polarizing tastes) and preemptively stops the AI from hallucinating non-existent local restaurants.
+3. **Role-playing:** By assigning a distinct persona ("gourmet food critic and local restaurant expert"), the bot's tone shifts from a robotic data dump to the warm, witty voice of an enthusiastic coworker.
 
 ---
 
@@ -101,26 +100,26 @@ A Slack bot is more than just a technical "feature"—it is a powerful tool for 
 ### ❌ Before (The Silent Lunch Hour)
 
 ```text
-Junior: "What should we have for lunch today?"
-Team Member A: "Hmm... I'm fine with anything."
-Team Leader: "Let's just grab whatever."
-(An endless guessing game and 10 minutes of awkward silence 🕰️)
+Junior: "What are we thinking for lunch today?"
+Team Member A: "Hmm... I'm good with whatever."
+Team Leader: "Let's just grab something nearby."
+(Cue an endless guessing game and 10 minutes of agonizing silence 🕰️)
 ```
 
-### ✅ After (AI Assistant's Mediation)
+### ✅ After (The AI Assistant's Mediation)
 
 ```text
 Me: /lunch
-Bot (Lunch Buddy): "☔ It's raining, you're stressed, and it's a team lunch right before payday!
-For a day like today, I highly recommend a **'Spicy Seafood Noodle Soup (Jjamppong) & Sweet and Sour Pork Combo'**!
-Blow away your work stress with the spicy broth and recharge your afternoon energy with some hearty meat! 🍜"
-Team Leader: "Oh, Jjamppong sounds perfect today. Let's go!"
+Bot (Lunch Buddy): "☔ It's pouring, tensions are high, and it's a team lunch right before payday!
+For a day like today, I highly recommend a **'Spicy Seafood Noodle Soup & Sweet and Sour Pork Combo'**!
+Sweat out the morning's stress with that fiery broth, and recharge for the afternoon with some hearty, crispy pork! 🍜"
+Team Leader: "Wow, spicy noodles sound perfect today. Let's head out!"
 ```
 
 ---
 
 ## 🎯 Conclusion
 
-The office is a place for fierce hard work, but the one hour you get for lunch should be enjoyable and delicious. A single, simple bot can soften the team's atmosphere and drastically reduce the fatigue of decision-making.
+The office is a battleground for hard work, but the single hour you get for lunch should be a sacred time for good food and relaxation. A simple, well-crafted bot can instantly lighten the team's mood and drastically cut down the daily fatigue of decision-making.
 
-Today, stop the lunch-menu guessing game and entrust your team's meal to the **sensible choice of an AI assistant**. Have a delicious lunch and enjoy clocking out on time! 🍷
+Starting today, put an end to the lunch-menu guessing game and entrust your meal choices to the **impeccable taste of an AI assistant**. Have a fantastic lunch, and here's to clocking out exactly on time! 🍷

@@ -1,15 +1,15 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Resumiendo Actas de Reuniones Divagantes Claramente\""
+title: "Cómo resumir actas de reuniones interminables con total claridad"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatización del Trabajo"
-description: " \"¿Transcribiste una reunión de una hora y obtuviste 10 páginas de texto inútil? Utiliza este prompt para extraer solo las decisiones clave y próximos pasos.\""
+description: "¿Una reunión de una hora se convirtió en 10 páginas de texto inútil? Usa este prompt para extraer solo las decisiones clave y los próximos pasos."
 tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 ---
 
-# 📝 Resumiendo Actas de Reuniones Divagantes Claramente
+# 📝 Cómo resumir actas de reuniones interminables con total claridad
 
 - **🎯 Recomendado para:** Project Managers, Product Owners, Asistentes y todo tipo de profesionales
 - **⏱️ Tiempo requerido:** 30 minutos → 1 minuto
@@ -42,7 +42,6 @@ Las transcripciones automáticas de reuniones suelen estar llenas de coloquialis
 > **Rol:** Eres un asistente ejecutivo experto.
 > **Solicitud:** Resume la siguiente transcripción de la reunión, extrayendo solo los puntos clave y las decisiones tomadas. `[Pega aquí tu transcripción]`
 
-
 ### 🥇 Versión Pro (Pro Version)
 
 Úsala cuando necesites un acta de reunión profesional, impecable y lista para compartir con todo el equipo o con los clientes.
@@ -74,7 +73,7 @@ Las transcripciones automáticas de reuniones suelen estar llenas de coloquialis
 
 ## 💡 Comentario del Autor (Insight)
 
-Este prompt es un verdadero salvavidas para quienes pasan más del 30% de su semana en videollamadas. La magia radica en la instrucción de "refinar el tono" y extraer los "Action Items". Al usar herramientas de dictado o la transcripción nativa de Zoom/Teams, a menudo obtenemos bloques de texto incomprensibles. Al asignarle a la IA el rol de un Asistente Ejecutivo Senior, obligamos al modelo no solo a resumir, sino a _interpretar_ el valor comercial de la conversación, transformando el ruido en tareas ejecutables. Te recomiendo guardar este prompt en tu bloc de notas y usarlo sistemáticamente después de cada llamada de alineación importante.
+Este prompt es un verdadero salvavidas para quienes pasan más del 30% de su semana en videollamadas. La magia radica en la instrucción de "refinar el tono" y extraer los "Action Items". Al usar herramientas de dictado o la transcripción nativa de Zoom o Teams, a menudo obtenemos bloques de texto incomprensibles. Al asignarle a la IA el rol de un Asistente Ejecutivo Senior, obligamos al modelo no solo a resumir, sino a _interpretar_ el valor comercial de la conversación, transformando el ruido en tareas ejecutables. Te recomiendo guardar este prompt en tu bloc de notas y usarlo sistemáticamente después de cada llamada de alineación importante.
 
 ---
 
@@ -87,15 +86,15 @@ Este prompt es un verdadero salvavidas para quienes pasan más del 30% de su sem
   - A: Si tu archivo supera los límites de tokens (algo común en reuniones de más de 2 horas), te recomiendo dividir el texto en dos partes. Alternativamente, puedes utilizar modelos con ventanas de contexto ampliadas como Claude 3.5 Sonnet o Gemini 2.5 Pro, que pueden procesar libros enteros de una sola vez sin perder información.
 
 - **Q: ¿Es seguro subir las transcripciones de reuniones confidenciales de mi empresa a la IA?**
-  - A: Depende de las políticas de seguridad de tu empresa. Si usas versiones gratuitas (como ChatGPT estándar), tus datos podrían usarse para el entrenamiento del modelo. Para información altamente sensible, utiliza versiones corporativas (ChatGPT Enterprise, Copilot for M365) o, como mejor práctica, reemplaza manualmente los nombres de clientes y datos financieros críticos con "Empresa A" o "Cliente B" antes de pegar el texto.
+  - A: Depende de las políticas de seguridad de tu empresa. Si usas versiones gratuitas (como ChatGPT estándar), tus datos podrían usarse para el entrenamiento del modelo. Para información altamente sensible, utiliza versiones corporativas (ChatGPT Enterprise, Copilot for M365) o, como mejor práctica, reemplaza manualmente los nombres de clientes y datos financieros críticos por "Empresa A" o "Cliente B" antes de pegar el texto.
 
 ---
 
 ## 🧬 Anatomía del Prompt (Why it works?)
 
-1.  **Rol Especializado:** Al definir a la IA como "Project Manager y Asistente Ejecutivo Senior", elevamos drásticamente el estándar de la redacción. El modelo no redactará como un robot básico, sino como un profesional que entiende la importancia corporativa de las fechas límite y los acuerdos directivos.
+1.  **Rol Especializado:** Al definir a la IA como "Project Manager y Asistente Ejecutivo Senior", elevamos drásticamente el estándar de la redacción. El modelo no escribirá como un robot básico, sino como un profesional que entiende la importancia corporativa de las fechas límite y los acuerdos directivos.
 2.  **Estructura Forzada (Constraints):** Exigir secciones específicas (Agenda, Puntos Clave, Decisiones, Action Items) evita que la IA simplemente recorte la transcripción y entregue párrafos densos, forzando un formato altamente escaneable.
-3.  **Gestión de Incertidumbre (Warning):** La instrucción de prevención de alucinaciones ("No inventes datos") es el núcleo de este prompt. Si el equipo olvidó asignar un responsable durante la llamada, la IA dejará un flag claro de "[Sin asignar]", lo que te permite dar seguimiento inmediato en lugar de asumir falsamente que alguien se hará cargo.
+3.  **Gestión de la Incertidumbre (Warning):** La instrucción de prevención de alucinaciones ("No inventes datos") es el núcleo de este prompt. Si el equipo olvidó asignar un responsable durante la llamada, la IA dejará una marca clara de "[Sin asignar]", lo que te permite dar seguimiento inmediato en lugar de asumir falsamente que alguien se hará cargo.
 
 ---
 

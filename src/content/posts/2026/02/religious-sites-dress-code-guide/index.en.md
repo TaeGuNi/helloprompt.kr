@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"No Shorts Allowed? Religious Site Visit Dress Code\""
+title: "No Shorts Allowed? Dress Codes for Religious Sites"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Travel & Culture"
-description: " \"Avoid being turned away at sacred sites. A complete guide to dress codes for temples, cathedrals, and mosques.\""
+description: "Avoid getting turned away at sacred sites. Here's a foolproof guide to dress codes for temples, cathedrals, and mosques."
 tags: ["Dress Code", "Religious Culture", "Temple Visit", "Travel Outfit"]
 ---
 
@@ -42,31 +42,30 @@ Use this when you need quick, essential information on the go.
 > **Role:** You are a seasoned global travel guide specializing in religious and cultural etiquette.
 > **Task:** Tell me the exact dress code requirements for visiting `[Name of Temple/Cathedral/Mosque]` to ensure I don't get turned away at the entrance.
 
-
 ### 🥇 Pro Version (Deep Dive)
 
 Use this for comprehensive, trip-saving details before you pack your bags.
 
-> **Role (Role):** You are an expert global travel guide specializing in religious and cultural etiquette.
+> **Role:** You are an expert global travel guide specializing in religious and cultural etiquette.
 >
-> **Context (Context):**
+> **Context:**
 >
 > - Destination: `[Country/City]`
 > - Site: `[Name of Temple/Cathedral/Mosque]`
 > - Concern: It will be very hot during my visit, so I want to dress as lightly as possible without violating the dress code.
 >
-> **Task (Task):**
+> **Task:**
 >
 > 1. Detail the strict dress code requirements (tops, bottoms, footwear, headwear) for entering this specific site.
 > 2. Explain if there are any differences in the dress code between men and women.
 > 3. Advise if there are affordable rental or purchase options (e.g., sarongs, scarves, paper pants) at or near the entrance if my outfit fails the check.
 > 4. Outline specific etiquette rules regarding photography (where it is banned, posture requirements, etc.) and baggage size limits.
 >
-> **Constraints (Constraints):**
+> **Constraints:**
 >
 > - Use a clean markdown format with bullet points for readability.
 >
-> **Warning (Warning):**
+> **Warning:**
 >
 > - If you are unsure about a specific site's current rules, state that you do not know rather than guessing. Do not hallucinate policies.
 
@@ -74,25 +73,25 @@ Use this for comprehensive, trip-saving details before you pack your bags.
 
 ## 💡 Writer's Insight
 
-This prompt is an absolute lifesaver for summer backpacking trips across Southeast Asia, the Middle East, or Europe. Often, tourists assume "covering knees" means shorts are fine if they are long, only to be rejected because the fabric rides up when walking up temple stairs. By asking the AI specifically about "emergency fixes" (like renting a sarong at the Grand Palace in Bangkok or buying a paper shawl at the Vatican), you can confidently plan your day's outfit without carrying heavy extra clothes everywhere. I run this prompt every night while drafting my itinerary for the next day.
+This prompt is an absolute lifesaver for summer backpacking trips across Southeast Asia, the Middle East, or Europe. Often, tourists assume "covering knees" means shorts are fine as long as they are longish, only to be rejected because the fabric rides up when walking up temple stairs. By specifically asking the AI about "emergency fixes" (like renting a sarong at the Grand Palace in Bangkok or buying a paper shawl at the Vatican), you can confidently plan your day's outfit without lugging around heavy extra clothes everywhere. I run this prompt every night while drafting my itinerary for the following day.
 
 ---
 
 ## 🙋 Frequently Asked Questions (FAQ)
 
 - **Q: Does this prompt work well for lesser-known or local temples?**
-  - A: Yes, but for very obscure, local shrines, the AI might lack highly specific data. In those cases, always apply the universal rule of thumb: cover your shoulders and knees, and remove hats and shoes if requested by signage.
+  - A: Yes, but for highly obscure local shrines, the AI might lack highly specific data. In those cases, rely on the universal rule of thumb: cover your shoulders and knees, and remove hats and shoes if signage requires it.
 
 - **Q: Can I just ask "What should I wear to the Vatican?" instead of using this long prompt?**
-  - A: You can, but you'll likely get a generic, one-sentence answer. The Pro Version specifically targets the real pain points of travel—hot weather, gender-specific rules, and emergency cover-up rentals—giving you actionable, stress-relieving advice that a simple search won't provide.
+  - A: You can, but you'll likely receive a generic, one-sentence answer. The Pro Version specifically targets real traveler pain points—hot weather, gender-specific rules, and emergency cover-up rentals—providing actionable, stress-relieving advice that a simple search won't yield.
 
 ---
 
 ## 🧬 Prompt Dissection (Why it works?)
 
-1. **Contextualizing the Weather:** By explicitly stating "It will be very hot," the AI avoids suggesting heavy winter coats for modesty and focuses on breathable but compliant clothing options.
-2. **Anticipating Failure (Rental Options):** Asking about on-site rentals proactively solves the problem of "what if I mess up," which is the biggest source of anxiety for travelers heading to strict religious sites.
-3. **Holistic Etiquette (Bags & Photos):** Dress codes aren't just about clothes; backpacks and cameras often lead to entry denial or heavy fines. This prompt ensures all physical entry barriers are covered.
+1. **Contextualizing the Weather:** By explicitly stating "It will be very hot," the AI avoids suggesting heavy winter coats for modesty and instead focuses on breathable yet compliant clothing options.
+2. **Anticipating Failure (Rental Options):** Asking about on-site rentals proactively solves the "what if I mess up" scenario, which is the biggest source of anxiety for travelers heading to strict religious sites.
+3. **Holistic Etiquette (Bags & Photos):** Dress codes aren't just about clothes; backpacks and cameras often lead to entry denial or heavy fines. This prompt ensures all physical entry barriers are addressed.
 
 ---
 

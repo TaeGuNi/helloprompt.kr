@@ -11,7 +11,7 @@ tags: ["Gemini 3 Pro", "AI Agent", "Planning", "Prompt Engineering"]
 
 # 🤖 Gemini 3 Pro: Architecting the Perfect AI Agent with 'Deep Think'
 
-- **🎯 Target Audience:** Product Managers preparing for AI adoption, Junior Engineers building AI agents, and Solopreneurs.
+- **🎯 Target Audience:** Product Managers preparing for AI adoption, junior engineers building AI agents, and solopreneurs.
 - **⏱️ Time Saved:** From 3 days of back-and-forth planning → down to just 15 minutes.
 - **🤖 Recommended Model:** **Gemini 3 Pro (Deep Think Mode)**, OpenAI o3-high.
 
@@ -21,8 +21,7 @@ tags: ["Gemini 3 Pro", "AI Agent", "Planning", "Prompt Engineering"]
 
 > _"AI agent projects don't derail because the AI lacks intelligence. They fail because of the countless 'edge cases' left undefined in your product specs."_
 
-"Build a chatbot that finds company documents." or "Create an agent that automatically invests in stocks for me."
-Vague requirements like these are incredibly common in the field, and they drive developers to despair. How should exceptions be handled? Are permission levels separated? Which APIs need to be called? These critical details are often completely ignored during the planning phase.
+"Build a chatbot that finds company documents" or "Create an agent that automatically invests in stocks for me." Vague requirements like these are incredibly common in the field, and they drive developers to despair. How should exceptions be handled? Are permission levels separated? Which APIs need to be called? These critical details are often completely ignored during the planning phase.
 
 This is exactly where Gemini 3 Pro's **'Deep Think'** mode shines. Moving far beyond simple text generation, it specializes in logical reasoning and scenario simulation. In this post, we introduce the **'AI Agent Architect Prompt'**, designed to transform your hazy ideas into a **flawless, developer-ready Product Requirements Document (PRD)**.
 
@@ -43,19 +42,18 @@ This is exactly where Gemini 3 Pro's **'Deep Think'** mode shines. Moving far be
 Perfect for quickly sketching out the skeleton of an idea during a meeting.
 
 > **Role:** You are a seasoned IT Product Manager with 10 years of experience.
-> **Task:** Based on the `[idea]` I provide, outline 3 essential features this AI agent must have and identify 1 potential major challenge during development.
+> **Task:** Based on the `[Idea]` I provide, outline 3 essential features this AI agent must have and identify 1 potential major challenge during development.
 > **Idea:** `[Insert a brief description of the agent you want to build]`
-
 
 ### 🥇 Pro Version (Deep Think Optimized)
 
 Use this when you need a comprehensive, bulletproof specification ready to be handed off to an engineering team. This structure fully exploits Gemini 3 Pro's multi-step reasoning capabilities.
 
-> **Role (Role):**
+> **Role:**
 > You are a **Senior AI Solutions Architect** with 20 years of experience at a top-tier Silicon Valley tech giant.
 > Your objective is to analyze the user's abstract, vague requirements and generate a **flawless AI Agent Specification (PRD)** that engineers can immediately implement.
 >
-> **Task (Task):**
+> **Task:**
 > When the user inputs a `[Project Idea]`, DO NOT write the specification immediately. You must strictly follow the 2-step Chain of Thought process below.
 >
 > **Step 1: Deep Analysis & Interrogation**
@@ -75,24 +73,24 @@ Use this when you need a comprehensive, bulletproof specification ready to be ha
 >   5. **Edge Cases & Error Handling:** 3 major anticipated errors and their corresponding mitigation scenarios.
 >   6. **Few-Shot Examples:** Ideal conversation flows (1 successful case, 1 failure recovery case).
 >
-> **Constraints (Constraints):**
+> **Constraints:**
 >
 > - Maintain the professional, objective tone of a Lead Architect.
 > - Avoid fluff. Approach the design from a strictly technical and pragmatic perspective (focusing on cost, latency, and scalability).
 >
 > **Input:**
 >
-> - Project Idea: `[A Slack bot that calculates and answers questions about annual leave and payroll based on internal HR policies.]`
+> - Project Idea: `[A Slack bot that calculates and answers questions about annual leave and payroll based on internal HR policies]`
 
 ---
 
 ## 💡 Writer's Insight
 
-The true value of this prompt isn't just that it produces a nice-looking document—it's that it **preemptively strikes at the blind spots** of your planning phase.
+The true value of this prompt isn't just that it produces a nice-looking document—it's that it **preemptively exposes the blind spots** in your planning phase.
 
-A standard prompt will usually spit out a plausible (but ultimately hollow) spec sheet when you simply say "build this." But when you feed the Pro version into Gemini 3 Pro, it starts acting like a meticulous Lead Developer. When I actually used this to plan an internal HR bot, Gemini stopped me and asked: _"If an employee asks for the salary or leave balance of a **colleague** rather than their own, how is the access control and authorization structured?"_
+A standard prompt usually spits out a plausible, yet ultimately hollow, spec sheet when you simply say, "Build this." But when you feed the Pro version into Gemini 3 Pro, it transforms into a meticulous Lead Developer. When I used this to plan an internal HR bot, Gemini actually stopped me and asked: _"If an employee asks for the salary or leave balance of a **colleague** rather than their own, how are access control and authorization structured?"_
 
-It caught a critical security flaw before a single line of code was written. The quality of your output is entirely dependent on the quality of the questions asked, and this prompt perfectly delegates that interrogative heavy lifting to the AI.
+It caught a critical security flaw before a single line of code was written. The quality of your output depends entirely on the quality of the questions asked, and this prompt flawlessly delegates that interrogative heavy lifting to the AI.
 
 ---
 
@@ -141,7 +139,7 @@ Gemini 3 Pro: "Before generating the specification, please confirm the following
 
 ## 🎯 Conclusion
 
-In the AI era, the barrier to coding is rapidly disappearing. Going forward, the true value of an engineer or PM won't be dictated by *which* language they code in, but by **how bulletproof their definition of *what* to build is**.
+In the AI era, the barrier to coding is rapidly disappearing. Going forward, the true value of an engineer or Product Manager won't be dictated by *which* language they code in, but by **how bulletproof their definition of *what* to build is**.
 
 Hire Gemini 3 Pro as your dedicated Lead Architect today. For the cost of a monthly subscription, you can prevent architectural flaws that would otherwise cost tens of thousands of dollars to fix later.
 

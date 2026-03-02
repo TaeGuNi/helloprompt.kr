@@ -56,11 +56,28 @@ async function processMarkdown(filePath: string) {
   console.log(`🎯 Extracted Title: "${titleText}"`);
   console.log(`🎯 Extracted Hook: "${hookText}"`);
 
+  // Extract extra context from the PAST framework introduction (if available)
+  // We'll grab the first 500 characters after the hook to give the AI more context
+  let extraContext = "";
+  if (hookMatch && hookMatch.index !== undefined) {
+    const afterHookStart = hookMatch.index + hookMatch[0].length;
+    const bodyText = content
+      .slice(afterHookStart, afterHookStart + 1000)
+      .replace(/<!--[\s\S]*?-->/g, "")
+      .trim();
+    if (bodyText) {
+      extraContext = bodyText.slice(0, 500);
+      console.log(
+        `🎯 Extracted Extra Context (Max 500 chars): "${extraContext.replace(/\n/g, " ")}"`,
+      );
+    }
+  }
+
   // Generate & Optimize using nested Gemini CLI agent
   try {
     const prompt = `Task:
-1. Context Analysis: The user is writing a tech/productivity blog post titled "${titleText}". The opening hook sentence is: "${hookText}". Figure out the core "pain point" or "situation" described here.
-2. Generate an image: Create a high-quality 3D isometric illustration that perfectly matches the situation you analyzed. The character should be a professional worker facing the exact problem or situation described in the hook. Use a subtle cyberpunk, dark mode, and neon cyan color palette. Clean aesthetic. Do NOT include any text.
+1. Context Analysis: The user is writing a tech/productivity blog post titled "${titleText}". The opening hook sentence is: "${hookText}". Additional context from the introduction: "${extraContext}". Figure out the core "pain point", "situation", or "transformation" described here.
+2. Generate an image: Create a high-quality 3D isometric illustration that perfectly matches the situation you analyzed. The character should be a professional worker facing the exact problem or experiencing the solution described in the hook and context. Use a subtle cyberpunk, dark mode, and neon cyan color palette. Clean aesthetic. Do NOT include any text.
 3. Optimize it: Convert the image to highly compressed JPG format, resize it to a maximum width of 800px.
 4. Save it to exactly this path: ${imagePath}. 
 You must complete this task autonomously without asking for confirmation.`;

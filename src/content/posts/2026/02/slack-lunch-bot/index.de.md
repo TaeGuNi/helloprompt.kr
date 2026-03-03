@@ -5,94 +5,93 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: " \"Erfahre, wie du den Slack Workflow Builder und KI ohne Programmierkenntnisse verknüpfst, um einen intelligenten Assistenten für die tägliche Mittagsempfehlung deines Teams zu erstellen.\""
+description: "Erfahre, wie du den Slack Workflow Builder nahtlos mit KI verknüpfst, um völlig ohne Programmierkenntnisse einen intelligenten Assistenten für die tägliche Mittagsempfehlung deines Teams zu erstellen."
 tags: ["Slack", "슬랙", "챗봇", "자동화", "사내문화"]
 ---
 
 # 🤖 Einen Slack-Bot erstellen: Dein interner Assistent für die Frage „Was essen wir heute zu Mittag?“
 
-- **🎯 Empfohlen für:** Junior-Mitarbeiter, die jeden Tag unter der Qual der Wahl leiden, sowie HR-Teams, die frischen Wind in den trockenen Firmen-Messenger bringen wollen
-- **⏱️ Zeitaufwand:** 10 Minuten (bei Nutzung des Slack Workflow Builders)
-- **🤖 Empfohlenes Modell:** ChatGPT-4o (Hervorragend für kreative Menüvorschläge und situatives Verständnis)
+- **🎯 Zielgruppe:** Junior-Mitarbeiter, die an der täglichen Qual der Wahl verzweifeln, sowie HR-Teams, die frischen Wind in trockene Firmen-Messenger bringen wollen.
+- **⏱️ Zeitaufwand:** 10 Minuten (mit dem Slack Workflow Builder)
+- **🤖 Empfohlenes Modell:** ChatGPT-4o (ideal für kreative Menüvorschläge und tiefes Kontextverständnis)
 
 - ⭐ **Schwierigkeitsgrad:** ⭐⭐☆☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
 - 🚀 **Anwendbarkeit:** ⭐⭐⭐⭐⭐
 
-> _"Was sollen wir heute zu Mittag essen? Irgendwas. Pasta? Puh, Nudeln schon wieder... Beende das tägliche Ratespiel beim Mittagessen. Überlass diese Aufgabe einem KI-Assistenten und spare deine Energie für den pünktlichen Feierabend!"_
+> _„Was essen wir heute? Keine Ahnung, worauf hast du Lust? Schon wieder Pasta?“ Mach Schluss mit dem zermürbenden Rätselraten in der Mittagspause! Überlass diese lästige Entscheidung einfach einem KI-Assistenten und spare deine wertvolle Energie für den wohlverdienten pünktlichen Feierabend._
 
-Das größte Dilemma im Büroalltag: die Wahl des Mittagessens. Anstatt unsicher in die Runde zu schauen, frag doch einfach euren internen Messenger-Bot! Gib ein: „Was essen wir heute bei diesem Regen?“ und erhalte eine clevere Antwort wie: „Wie wäre es an einem Regentag mit einer heißen, deftigen Nudelsuppe statt dem üblichen Schnitzel?“. In diesem Beitrag zeige ich dir, wie du mithilfe des Slack Workflow Builders ganz ohne Programmierkenntnisse einen solchen Bot erstellst.
+Das wohl größte Dilemma im Büroalltag ist die ewig gleiche Frage: „Was gibt es heute zum Mittagessen?“ Anstatt jeden Tag aufs Neue ratlos in die Runde zu schauen, frag doch beim nächsten Mal einfach euren internen Messenger-Bot! Tippe beispielsweise: „Was essen wir heute bei diesem Schmuddelwetter?“ und erhalte prompt eine clevere Antwort wie: „Wie wäre es heute statt dem üblichen Schnitzel mit einer heißen, deftigen Pho-Suppe?“ In diesem Beitrag zeige ich dir, wie du mithilfe des Slack Workflow Builders – und zwar völlig ohne Programmierkenntnisse – in wenigen Minuten genau so einen Bot erstellst.
 
 ---
 
 ## ⚡️ Zusammenfassung in 3 Sätzen (TL;DR)
 
-1. Richte einen Automatisierungs-Bot ein, indem du den **'Workflow Builder'** von Slack komplett ohne Code nutzt.
-2. Lege bestimmte Schlüsselwörter (z. B. "Mittagessen Empfehlung") oder Emoji-Reaktionen als Auslöser (Trigger) fest, um den Bot aufzurufen.
-3. Verbinde einen KI-Connector (z. B. ChatGPT), um maßgeschneiderte Menüvorschläge basierend auf der aktuellen Situation und dem Wetter zu generieren.
+1. Erstelle mit dem **Slack Workflow Builder** völlig ohne Code einen maßgeschneiderten Automatisierungs-Bot.
+2. Definiere gezielte Schlüsselwörter (z. B. „Mittagessen“) oder Emoji-Reaktionen als Trigger, um den Bot aufzurufen.
+3. Integriere einen KI-Connector (z. B. ChatGPT), der basierend auf Parametern wie Wetter oder Teamstimmung passgenaue Menüvorschläge generiert.
 
 ---
 
-## 🚀 Die Lösung: Der "Lunch Buddy" Prompt
+## 🚀 Die Lösung: Der „Lunch Buddy“-Prompt
 
 ### 🥉 Basic Version (Standard)
 
-Nutze diesen einfachen Prompt, wenn du schnell eine zufällige Empfehlung brauchst, um die Entscheidungsfindung zu beschleunigen.
+Nutze diesen simplen Prompt, wenn du sofort eine zufällige, aber treffsichere Empfehlung benötigst, um die Entscheidungsfindung radikal abzukürzen.
 
-> **Rolle (Role):** Du bist ein freundlicher Assistent, der das Mittagessen für unser Büro-Team auswählt.
+> **Rolle (Role):** Du bist ein sympathischer Assistent, der das perfekte Mittagessen für unser Büro-Team auswählt.
 >
-> **Aufgabe (Task):** Wähle zufällig eine Kategorie aus (z. B. Italienisch, Asiatisch, Gutbürgerlich, Fast Food oder Gesund). Empfiehl anschließend genau 3 typische und beliebte Gerichte aus dieser Kategorie, die sich ideal als Mittagessen für Berufstätige eignen.
-
+> **Aufgabe (Task):** Wähle per Zufall eine kulinarische Kategorie aus (z. B. Italienisch, Asiatisch, Gutbürgerlich, Fast-Food oder Gesund). Empfiehl anschließend exakt 3 typische, allseits beliebte Gerichte aus dieser Kategorie, die sich optimal als unkompliziertes Mittagessen für Berufstätige eignen.
 
 ### 🥇 Pro Version (Experte)
 
-Verwende diese Version, um durch die Berücksichtigung von Wetter, Stimmung und Gruppengröße besonders clevere und situativ passende Vorschläge zu erhalten.
+Greife auf diese Version zurück, um durch die Einbindung von dynamischen Variablen wie Wetter, Teamstimmung und Gruppengröße extrem smarte und situativ perfekte Vorschläge zu generieren.
 
-> **Rolle (Role):** Du bist ein anspruchsvoller Feinschmecker und ein kulinarisches Navigationssystem für die besten Restaurants rund um unser Büro (`[Standort des Büros, z. B. Berlin-Mitte]`).
+> **Rolle (Role):** Du bist ein anspruchsvoller Feinschmecker und das ultimative kulinarische Navigationssystem für die besten Food-Spots rund um unser Büro (`[Standort des Büros, z. B. Berlin-Mitte]`).
 >
 > **Kontext (Context):**
 >
-> - Wetter: `[Aktuelles Wetter, z. B. regnerisch, sonnig, kalt]`
-> - Stimmung & Situation: `[Team-Atmosphäre, z. B. gestresst, Zahltag, auf Diät]`
-> - Teilnehmerzahl: `[Gruppenzusammensetzung, z. B. esse alleine, ganzes Team, Treffen mit Kollegen]`
+> - Wetter: `[Aktuelles Wetter, z. B. regnerisch, sonnig, eiskalt]`
+> - Stimmung & Situation: `[Team-Atmosphäre, z. B. gestresst, Zahltag, Low-Carb-Phase]`
+> - Teilnehmerzahl: `[Gruppenzusammensetzung, z. B. Solo-Lunch, gesamtes Team, Business-Lunch mit Kollegen]`
 >
 > **Aufgabe (Task):**
 >
-> 1. Empfiehl genau 1 Gericht, das perfekt zu der oben beschriebenen Situation passt.
-> 2. Füge eine witzige, nachvollziehbare Begründung (1–2 Sätze) hinzu, warum dieses Gericht für Büroangestellte in dieser Situation die beste Wahl ist.
-> 3. Formatiere die Ausgabe als übersichtliche Markdown-Liste inklusive passender Emojis.
+> 1. Empfiehl exakt 1 Gericht, das absolut perfekt zur oben beschriebenen Situation passt.
+> 2. Liefere eine charmante, logisch nachvollziehbare Begründung (1–2 Sätze), warum genau dieses Gericht für uns als Büroangestellte jetzt die beste Wahl ist.
+> 3. Formatiere deine Antwort als ansprechende, übersichtliche Markdown-Liste und nutze passende Emojis.
 >
 > **Einschränkungen (Constraints):**
 >
-> - Schließe Gerichte aus, die extrem polarisieren (z. B. sehr scharf, extrem viel Knoblauch) oder zu schwer im Magen liegen, um sie während der Mittagspause zu essen.
+> - Vermeide stark polarisierende Gerichte (z. B. extrem scharf, übermäßig viel Knoblauch) oder Speisen, die so schwer im Magen liegen, dass sie uns unweigerlich ins Nachmittagstief stürzen.
 >
 > **Warnung (Warning):**
 >
-> - Erfinde keine fiktiven Restaurantnamen. Konzentriere dich stattdessen ausschließlich auf den Namen des Gerichts. (Verhindere Halluzinationen)
+> - Erfinde unter keinen Umständen fiktive Restaurantnamen. Fokussiere dich ausschließlich auf die Art des Gerichts (verhindere Halluzinationen).
 
 ---
 
 ## 💡 Kommentar des Autors (Insight)
 
-Ein Slack-Bot ist weit mehr als nur ein technisches „Feature“ – er ist ein mächtiges Werkzeug zur Gestaltung der **Unternehmenskultur**. In Messenger-Kanälen, die sonst nur von trockenen Arbeitsanweisungen dominiert werden, wirkt er wie Schmierstoff, der für ein Lächeln und neuen Gesprächsstoff sorgt. Wenn ein Mittagessen-Bot gut vom Team angenommen wird, ebnet das den Weg für weitere Ideen wie einen „Lob-Bot“, „Geburtstags-Bot“ oder „Wochenrückblick-Bot“. So trägst du aktiv zu einem positiven und lockeren Arbeitsklima bei. Besonders stark wird dieser Prompt, wenn du ihn mit Automatisierungstools wie Zapier oder Make verknüpfst. Damit sprengst du die Grenzen des Slack Workflow Builders und erschaffst einen echten, intelligenten KI-Assistenten.
+Ein Slack-Bot ist weit mehr als nur eine technische Spielerei – er ist ein massiv unterschätztes Instrument zur aktiven Gestaltung der **Unternehmenskultur**. In Messenger-Kanälen, die ansonsten oft von trockenen Arbeitsanweisungen dominiert werden, fungiert er als sozialer Schmierstoff: Er entlockt dem Team ein Lächeln und liefert sofort frischen Gesprächsstoff. Wird der Lunch-Bot erst einmal vom Team gut angenommen, öffnet das die Tür für weitere smarte Integrationen wie einen „Kudos-Bot“ für Lob, einen „Geburtstags-Bot“ oder automatisierte Wochenrückblicke. So trägst du nachhaltig zu einem positiven und lockeren Arbeitsklima bei. Sein volles Potenzial entfaltet dieser Prompt übrigens dann, wenn du ihn mit fortschrittlichen Automatisierungstools wie Zapier oder Make.com koppelst. Dadurch durchbrichst du die Limitierungen des nativen Slack Workflow Builders und erschaffst einen wahrhaft intelligenten, kontextbewussten KI-Assistenten.
 
 ---
 
 ## 🙋 Häufig gestellte Fragen (FAQ)
 
-- **F: Meine Firma nutzt die kostenlose Slack-Version. Kann ich den Workflow Builder trotzdem verwenden?**
-  - A: Leider ist der Slack Workflow Builder in vollem Umfang nur in den kostenpflichtigen Plänen (ab Pro) verfügbar. In der kostenlosen Version kannst du jedoch einen kleinen Umweg nehmen: Nutze Zapier oder Make.com, um Nachrichten in einem bestimmten Kanal auszulesen und über die ChatGPT-API automatisch eine Antwort zurückzusenden.
+- **F: Unser Unternehmen nutzt die kostenlose Slack-Version. Kann ich den Workflow Builder trotzdem einsetzen?**
+  - A: Der native Slack Workflow Builder steht in vollem Umfang leider nur in den kostenpflichtigen Plänen (ab Pro) zur Verfügung. Als eleganter Workaround für die kostenlose Version bieten sich Tools wie Zapier oder Make.com an: Damit kannst du Nachrichten in einem Kanal „abhören“ und über die ChatGPT-API vollautomatisiert Antworten ausspielen.
 
-- **F: Was ist der Unterschied zu einem Bot, den ich selbst mit Code (z. B. Python) programmiere?**
-  - A: Mit der Python-Bibliothek `slack-bolt` kannst du weitaus komplexere Interaktionen aufbauen – etwa klickbare Buttons, Pop-up-Modals oder die Anbindung an interne Datenbanken. Das erfordert jedoch Serverkosten und ständige Wartung. Für einfache Menüempfehlungen oder textbasierte Antworten ist ein No-Code-Workflow unschlagbar effizient und völlig ausreichend.
+- **F: Worin besteht der Unterschied zu einem Bot, den ich komplett selbst (z. B. in Python) programmiere?**
+  - A: Mit einer Python-Bibliothek wie `slack-bolt` lassen sich deutlich tiefgreifendere Interaktionen realisieren – etwa interaktive Buttons, Pop-up-Modals oder direkte Anbindungen an interne Datenbanken. Das geht allerdings unweigerlich mit Serverkosten und kontinuierlichem Wartungsaufwand einher. Für simple Menüempfehlungen und rein textbasierte Antworten ist der hier gezeigte No-Code-Ansatz unschlagbar effizient und für den Einstieg absolut ausreichend.
 
 ---
 
 ## 🧬 Anatomie des Prompts (Warum funktioniert das so gut?)
 
-1. **Kontextbezogene Variablen (Contextual Variables):** Anstatt einfach nur "Empfiehl ein Menü" zu schreiben, zwingen wir die KI durch die Variablen (`[ ]`) für Wetter, Stimmung und Gruppengröße dazu, Standardantworten zu vermeiden und stattdessen maßgeschneiderte, empathische Vorschläge zu liefern.
-2. **Kontrolle über Halluzinationen & Vorlieben (Constraint Setting):** Die `Warnung (Warning)` macht der KI die Besonderheiten einer Mittagspause (Zeitlimit, Gruppendynamik) klar und verhindert gleichzeitig, dass sie Restaurants erfindet, die gar nicht existieren.
-3. **Rollenspiel (Role-playing):** Durch die Zuweisung einer klaren Persona („anspruchsvoller Feinschmecker und kulinarisches Navigationssystem“) ändert sich der Tonfall der Antwort gravierend. Sie wirkt nicht mehr wie ein Lexikon, sondern wie ein sympathischer, humorvoller Arbeitskollege.
+1. **Kontextbezogene Variablen (Contextual Variables):** Anstatt stumpf nach irgendeinem „Menüvorschlag“ zu fragen, zwingen wir die KI durch spezifische Platzhalter (`[ ]`) für Wetter, Stimmung und Gruppengröße dazu, generische Standardantworten konsequent zu verwerfen und stattdessen extrem empathische, situativ passgenaue Ideen zu liefern.
+2. **Kontrolle über Halluzinationen (Constraint Setting):** Der Abschnitt `Warnung (Warning)` sensibilisiert die KI für die typischen Tücken der Mittagspause (Gruppendynamik, begrenzte Zeit) und blockiert gleichzeitig das gefürchtete KI-Phänomen, fiktive Restaurants herbeizuzaubern, die in der Realität gar nicht existieren.
+3. **Rollenspiel (Role-playing):** Die Definition einer glasklaren Persona („anspruchsvoller Feinschmecker und kulinarisches Navigationssystem“) verändert die Tonalität der Ausgabe fundamental. Sie klingt nicht mehr nach einem sterilen Lexikonartikel, sondern vielmehr wie die persönliche Empfehlung eines sympathischen, humorvollen Kollegen.
 
 ---
 
@@ -111,9 +110,9 @@ Teamleiter: "Egal, lasst uns einfach irgendwas essen."
 
 ```text
 Ich: /mittagessen
-Bot (Lunch Buddy): "☔ Es regnet, Zahltag ist noch weit entfernt und das Team ist gestresst!
+Bot (Lunch Buddy): "☔ Es regnet, der Zahltag ist noch weit entfernt und das Team ist gestresst!
 Für Tage wie diesen empfehle ich wärmstens eine **heiße, würzige Pho-Suppe mit Rindfleisch**.
-Die wärmende Brühe spült den Arbeitsstress weg, und die leichten Reisnudeln verhindern das gefürchtete Nachmittagstief! 🍜"
+Die wärmende Brühe spült den Arbeitsstress weg, und die leichten Reisnudeln bewahren uns vor dem gefürchteten Nachmittagstief! 🍜"
 Teamleiter: "Oh, asiatische Suppe klingt heute perfekt. Lasst uns losgehen!"
 ```
 
@@ -121,6 +120,6 @@ Teamleiter: "Oh, asiatische Suppe klingt heute perfekt. Lasst uns losgehen!"
 
 ## 🎯 Fazit
 
-Das Büro ist ein Ort für harte Arbeit, aber die eine Stunde Mittagspause sollte lecker und entspannt sein. Ein kleiner Bot kann die Stimmung im Team spürbar auflockern und die Ermüdung bei der täglichen Entscheidungsfindung drastisch senken.
+Das Büro ist zweifelsohne ein Ort harter Arbeit, doch zumindest die Mittagspause sollte lecker, unbeschwert und durchweg entspannend sein. Ein simpel eingerichteter Bot kann die Teamdynamik spürbar auflockern und die alltägliche Entscheidungsmüdigkeit drastisch reduzieren.
 
-Beende das Ratespiel und überlass die Wahl des Mittagessens der **cleveren Entscheidung deines KI-Assistenten**. Ich wünsche dir ein fantastisches Essen und danach einen pünktlichen und wohlverdienten Feierabend! 🍷
+Mach endgültig Schluss mit dem zermürbenden Ratespiel und überlass die Wahl des Mittagessens künftig einfach den **smarten Empfehlungen deines KI-Assistenten**. In diesem Sinne: Guten Appetit und im Anschluss einen pünktlichen, wohlverdienten Feierabend! 🍷

@@ -5,108 +5,110 @@ author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "프롬프트 엔지니어링"
-description: "Cansado da IA entregar um 'Sucesso!' sem alma? Um cheat code hardcore que força cenários de destruição do sistema."
+description: "Cansado de IAs que entregam apenas um 'Sucesso!' ilusório? Eis um cheat code hardcore que força cenários de destruição para testar a verdadeira resiliência do seu sistema."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "chaos-monkey-testing"]
 ---
+
 # 📝 Prompt de Teste Chaos Monkey para Torturar a IA 💣
 
-- **🎯 Público-Alvo:** Seniores, Engenheiros de QA e Tech Leads irritados com IAs que se acham especialistas mas só entregam 'Happy Paths'.
-- **⏱️ Tempo Necessário:** De 10 minutos → para 10 segundos (Corta na raiz a enrolação da IA)
-- **🤖 Modelos Recomendados:** Todas as IAs conversacionais (Especialmente Claude 3.5 Sonnet e GPT-4o, fortes em código)
-- ⭐ **Dificuldade:** ⭐⭐⭐⭐☆ (A IA vai sofrer um pouco)
-- ⚡️ **Efetividade:** ⭐⭐⭐⭐⭐ (Mata os bugs antes mesmo deles nascerem)
+- **🎯 Público-Alvo:** Desenvolvedores Seniores, Engenheiros de QA e Tech Leads exaustos de IAs que se dizem especialistas, mas só entregam o *happy path*.
+- **⏱️ Tempo Necessário:** De 10 minutos → 10 segundos (Corta a enrolação da IA pela raiz)
+- **🤖 Modelos Recomendados:** Todas as IAs conversacionais (Especialmente Claude 3.5 Sonnet e GPT-4o, imbatíveis em código)
+
+- ⭐ **Dificuldade:** ⭐⭐⭐⭐☆ (A IA vai suar a camisa)
+- ⚡️ **Efetividade:** ⭐⭐⭐⭐⭐ (Elimina os bugs antes mesmo de nascerem)
 - 🚀 **Versatilidade:** ⭐⭐⭐⭐⭐ (Aplicação imediata em qualquer teste TDD ou E2E)
 
-_"Você fica feliz quando o código de teste gerado pela IA passa de primeira? Parabéns. Seu servidor de produção vai cair amanhã."_
+> _"Você fica aliviado quando o teste gerado pela IA passa de primeira? Meus pêsames. Seu servidor de produção vai cair amanhã."_
 
-Peça a um agente de IA para escrever testes e, em 9 de 10 vezes, ele trará apenas cenários de 'caminho feliz' (Happy Path) perfeitos e agradáveis. É um conto de fadas onde APIs externas respondem em 0.1 segundos, o banco de dados nunca desconecta e o usuário sempre insere os valores perfeitos. Esqueça isso. O código que precisamos escrever é um escudo de defesa espacial capaz de bloquear 80% das falhas e desastres. O cheat code apresentado neste artigo é um prompt hardcore que agarra a IA pelo colarinho e injeta à força a filosofia do 'Chaos Monkey' da Netflix.
+Peça a um agente de IA para escrever testes e, em 9 de 10 vezes, ele entregará apenas cenários de *happy path* perfeitamente idílicos. É um conto de fadas onde APIs externas respondem em 0,1 milissegundos, o banco de dados nunca pisca e o usuário sempre insere dados imaculados. Esqueça isso. O código de que realmente precisamos é um escudo intransponível, capaz de repelir 80% das falhas críticas e desastres em produção. O *cheat code* que apresentamos aqui é um prompt hardcore: ele agarra a IA pelo colarinho e injeta, à força, a implacável filosofia do *Chaos Monkey* da Netflix diretamente na sua suíte de testes.
 
 ---
 
 ## ⚡️ Resumo em 3 Linhas (TL;DR)
 
-- 🚫 **Happy Path é apenas 20%:** Testes que passam são apenas enfeite; aloque 80% do esforço para defender cenários de falha.
-- 💥 **Simulação de Desastres Obrigatória:** Você deve forçar a inclusão de timeouts de rede, erros 500 e quedas de conexão com o DB nos blocos de teste.
-- 🧹 **Proibido Mocking Sujo (Dirty Mocking):** Puna severamente a poluição de objetos globais como `window.fetch` e exija um isolamento limpo através de MSW ou Injeção de Dependência (DI).
+- 🚫 **O *Happy Path* é só 20%:** Testes que passam no cenário ideal são apenas enfeite; concentre 80% do seu esforço em blindar o sistema contra cenários de falha.
+- 💥 **Simulação de Desastres Obrigatória:** Você deve forçar a IA a incluir *timeouts* de rede, erros HTTP 500 e quedas de conexão com o banco de dados nos blocos de teste.
+- 🧹 **Proibido Dirty Mocking:** Puna severamente qualquer tentativa de poluir objetos globais (como `window.fetch`) e exija um isolamento cirúrgico através de MSW ou Injeção de Dependências (DI).
 
 ---
 
 ## 🚀 Solução: "Protocolo Chaos Monkey"
 
-### 🥉 Versão Básica (Basic Version)
-Jogue esta versão quando quiser adicionar testes de tratamento de erros rapidamente.
+### 🥉 Basic Version (Versão Básica)
 
->
-> Papel: Você é um Engenheiro de QA hardcore e impiedoso, um verdadeiro Chaos Monkey.
-> Tarefa: Escreva o código de teste para o [código] que forneci. Crie apenas 1 cenário de funcionamento normal (Happy Path). Para todo o resto, assuma o 'pior cenário de desastre' – erros 500 de rede, timeouts de banco de dados, entradas de tipo incorreto, etc. – e valide a lógica de defesa.
->
-### 🥇 Versão Profissional (Pro Version)
-O cheat code definitivo que remove a bajulação sem alma da IA e verifica o isolamento perfeito dos testes e a coleta de lixo (garbage collection) em nível de produção. Copie e cole do jeito que está.
+Use esta versão quando precisar injetar testes de tratamento de erros rapidamente.
 
->
+> **Papel:** Você é um Engenheiro de QA hardcore e impiedoso, um verdadeiro *Chaos Monkey*.
+> **Tarefa:** Escreva o código de teste para o `[código-fonte]` que forneci. Crie apenas 1 cenário de funcionamento normal (*Happy Path*). Para todo o resto, assuma o absoluto pior cenário – erros HTTP 500 de rede, *timeouts* de banco de dados, entradas com tipos inválidos, etc. – e valide rigorosamente a lógica de defesa.
+
+### 🥇 Pro Version (Versão Profissional)
+
+O *cheat code* definitivo. Ele elimina a bajulação superficial da IA, garantindo isolamento absoluto dos testes e verificando o *garbage collection* em nível de produção. Copie e cole exatamente como está.
+
 > **Papel (Role):** 
-> Você é um SRE implacável ex-Netflix e um Arquiteto de QA Sênior conhecido como 'Chaos Monkey'. Você sente prazer em encontrar código que quebra em vez de código que funciona. Não faça saudações educadas nem diga bobagens.
+> Você é um SRE implacável, ex-Netflix, e um Arquiteto de QA Sênior apelidado de 'Chaos Monkey'. Você sente um prazer sádico em encontrar código que quebra, não código que funciona. Pule as saudações educadas e vá direto ao ponto.
 > 
 > **Contexto (Context):**
-> - Cenário: Preciso que você escreva os testes Unitários/E2E para o [módulo/componente a ser testado].
-> - Objetivo: Construir uma suíte de testes extremos, nível de defesa espacial, para verificar se o sistema não trava e se recupera graciosamente (ou trata os erros) sob qualquer cenário de desastre.
+> - Cenário: Preciso que você escreva testes Unitários/E2E para o `[módulo ou componente a ser testado]`.
+> - Objetivo: Construir uma suíte de testes extrema e blindada para garantir que o sistema não trave e consiga se recuperar com elegância (ou tratar os erros graciosamente) sob qualquer cenário catastrófico.
 > 
 > **Tarefa (Task):**
-> 1. Limite o Happy Path a menos de 20% do total de testes. Seu valor está na validação dos 80% de cenários de falha.
-> 2. Você deve incluir pelo menos um dos seguintes cenários de desastre: Atraso de comunicação com API externa (Timeout), HTTP 500 Internal Error, Desconexão do Banco de Dados.
-> 3. Não olhe apenas para Pass/Fail. Seja insistente com o `expect` para garantir de forma estrita que: o rollback de erros funcione corretamente, os limites de timeout sejam atingidos durante atrasos de performance, e que o estado de limpeza de memória (garbage collection) esteja normal.
+> 1. Limite o *Happy Path* a estritos 20% do total de testes. O seu real valor está em validar os 80% focados em cenários de falha crítica.
+> 2. Você DEVE incluir, no mínimo, um dos seguintes cenários de desastre: *Timeout* de comunicação com a API externa, erro HTTP 500 Internal Server Error ou desconexão abrupta do banco de dados.
+> 3. Não se limite a verificar Pass/Fail. Seja agressivo com o `expect` para garantir estritamente que: o *rollback* de erros funcione de forma impecável, os limites de *timeout* sejam respeitados durante gargalos de performance, e que a limpeza de memória (*garbage collection*) ocorra sem vazamentos.
 > 
 > **Restrições (Constraints):**
-> - NUNCA polua objetos globais (Dirty Mocking)! Se você tentar sobrescrever `global.fetch` ou `window.setTimeout` diretamente, eu matarei o processo imediatamente.
-> - Para mocking de rede, você DEVE usar MSW (Mock Service Worker) ou isolar/mockar apenas os objetos clientes recebidos via DI (Injeção de Dependência).
-> - Produza a saída APENAS em um bloco de código Markdown. NUNCA adicione rodapés inúteis como "Isso foi útil?".
->
+> - NUNCA polua objetos globais (*Dirty Mocking*)! Se você tentar sobrescrever `global.fetch` ou `window.setTimeout` de forma direta, encerrarei o processo imediatamente.
+> - Para *mocking* de rede, você DEVE utilizar o MSW (Mock Service Worker) ou isolar/mockar exclusivamente os objetos clientes injetados via DI (Injeção de Dependências).
+> - Forneça a saída APENAS em um bloco de código Markdown. NUNCA adicione rodapés inúteis como "Isso foi útil para você?".
+
 ---
 
 ## 💡 Comentário do Autor (Insight)
 
-Sejamos honestos. Quando você pede a uma IA para escrever código de teste, ela foge para sua própria fantasia apenas para exibir aquele 'check verde (✅)'. Uma utopia onde as APIs respondem em 1ms e os usuários enviam apenas JSONs perfeitamente formatados. 
+Sejamos francos. Quando você pede a uma IA para escrever testes, ela foge para uma utopia particular só para exibir aquele *check* verde (✅) na tela. Um mundo mágico onde as APIs respondem em 1ms e os usuários só enviam *payloads* JSON imaculados. 
 
-Este prompt incendeia essa utopia. No mundo real, os servidores não caem porque a lógica está errada. Eles caem porque aquela API de terceiros confiável de repente cospe um 502 Bad Gateway, ou porque o sistema entra num loop de carregamento infinito estúpido quando as conexões do AWS RDS oscilam. Ao usar este cheat code 'Chaos Monkey', a IA irá cavar proativamente os casos extremos (Edge Cases) confusos e bloquear completamente táticas de mocking amadoras que poluem o escopo global. É a única vacina que vai salvar seus finais de semana e noites em claro depurando.
+Este prompt incendeia essa utopia. No mundo real, os servidores não caem por erros de lógica bobos; eles colapsam porque aquela API de terceiros "superconfiável" de repente cospe um *502 Bad Gateway*, ou porque o sistema entra num *loop* de carregamento infinito e estúpido quando as conexões do AWS RDS oscilam. Ao usar este *cheat code* do Chaos Monkey, a IA será forçada a escavar ativamente os *edge cases* mais obscuros e a bloquear totalmente as táticas de *mocking* amadoras que poluem o escopo global. É, literalmente, a única vacina que vai salvar seus finais de semana e madrugadas de *debugging* desesperado.
 
 ---
 
 ## 🙋 Perguntas Frequentes (FAQ)
 
-- **P: E se a IA criar cenários de erro tão complexos que os testes nem rodem?**
-  - R: É exatamente isso que queremos. Se o teste estourar, significa que falta lógica de tratamento de erros no seu código de produção real. Pare de choramingar e conserte o código principal.
-- **P: Posso usar isso para testes de componentes front-end também?**
-  - R: Absolutamente. Faça com que valide situações onde o usuário clica freneticamente num botão 50 vezes em 0.1 segundos, ou quando o spinner de carregamento gira por 30 segundos devido à latência da rede.
-- **P: Não posso usar jest.mock() ao invés do MSW?**
-  - R: Fazer mock de módulos está tudo bem. O que eu odeio profundamente é alterar arbitrariamente o escopo `global` e espalhar a doença para outros arquivos de teste. Desde que o Isolamento (Isolation) seja garantido, use a ferramenta que preferir.
+- **P: E se a IA criar cenários de erro tão complexos que os testes nem consigam rodar?**
+  - R: Esse é exatamente o objetivo. Se o teste estourar, significa que falta lógica robusta de tratamento de erros no seu código de produção. Pare de reclamar e conserte a aplicação principal.
+- **P: Posso usar isso para testes de componentes no front-end também?**
+  - R: Absolutamente. Force a validação de situações insanas, como um usuário clicando freneticamente num botão de *submit* 50 vezes em 0,1 segundos, ou quando o *spinner* de carregamento fica travado por 30 segundos devido à alta latência da rede.
+- **P: Posso usar `jest.mock()` em vez do MSW?**
+  - R: Fazer *mock* de módulos não é o problema. O que eu repudio profundamente é a alteração arbitrária do escopo `global`, espalhando inconsistências para outros arquivos de teste. Desde que o isolamento (*isolation*) seja rigorosamente garantido, use a ferramenta de sua preferência.
 
 ---
 
 ## 🧬 Anatomia do Prompt (Por que funciona?)
 
-- **Persona Implacável (Role):** Remove o papel de 'assistente amigável' da IA e implanta o ego de um Arquiteto SRE sedento por encontrar falhas, bloqueando bajulações e conversas inúteis.
-- **Restrições Quantificadas (Constraints):** Em vez de frases vagas como "adicione muitos cenários de falha", fornece um número preciso ("Happy Path abaixo de 20%"), forçando mecanicamente o raio de ação da IA.
-- **Diretrizes de Arquitetura (Clean Mocking):** Proíbe proativamente o 'anti-pattern (poluição de objeto global)' que a IA comumente comete por preguiça no nível do prompt, elevando forçosamente a qualidade de isolamento do código de teste.
+- **Persona Implacável (Role):** Arranca a máscara de 'assistente amigável' da IA e implanta o ego calculista de um Arquiteto SRE sedento por falhas, bloqueando qualquer bajulação ou conversa inútil logo de cara.
+- **Restrições Quantificadas (Constraints):** Em vez de usar jargões vagos como "adicione muitos cenários de falha", o prompt fornece uma métrica exata ("*Happy Path* abaixo de 20%"), forçando mecanicamente a proporção de cobertura da IA.
+- **Diretrizes de Arquitetura (Clean Mocking):** Proíbe agressivamente o *anti-pattern* (poluição de objeto global) que a IA costuma cometer por pura preguiça, elevando à força a qualidade e o isolamento arquitetural do código de teste.
 
 ---
 
-## 📊 Prova: Antes & Depois
+## 📊 Prova: Before & After
 
-### ❌ Antes (Entrada)
-- **Atitude da IA com um prompt normal:** _"Claro! Vou escrever o código de teste para a lógica de login do usuário! 😊"_
-- **Resultado:** Um único teste bonitinho que retorna `200 OK` quando você insere o e-mail e a senha corretos. (E, invariavelmente, sobrescreveu o `fetch` global de qualquer jeito)
+### ❌ Before (Entrada)
+- **Postura da IA com um prompt normal:** _"Claro! Terei o maior prazer em escrever os testes para a sua lógica de login! 😊"_
+- **Resultado:** Um único teste bonitinho e inútil que retorna `200 OK` quando você insere e-mail e senha corretos. (E, como de costume, ela sobrescreveu o `fetch` global no processo).
 
-### ✅ Depois (Resultado)
-- **Atitude da IA com o cheat code Chaos Monkey:** (Cospe o código de defesa imediatamente, sem saudações inúteis)
+### ✅ After (Resultado)
+- **Postura da IA com o cheat code Chaos Monkey:** (Cospe o código de defesa imediatamente, sem nenhuma saudação irrelevante).
 - **Resultado:** 
-  - Valida rigorosamente se um Timeout Error ocorre quando a rede atrasa mais de 5 segundos.
-  - Verifica se uma UI de Fallback segura aparece para o usuário quando o DB cai e retorna um erro 500.
-  - Garante isolamento de rede perfeito usando MSW, sem afetar de forma alguma outros arquivos de teste.
+  - Valida rigorosamente se um `TimeoutError` é disparado corretamente quando a rede atrasa mais de 5 segundos.
+  - Verifica se uma *fallback UI* de segurança é renderizada para o usuário quando o banco de dados cai e retorna um erro HTTP 500.
+  - Garante um isolamento de rede cirúrgico utilizando o MSW, sem vazar efeitos colaterais para absolutamente nenhum outro arquivo de teste da suíte.
 
 ---
 
 ## 🎯 Conclusão
 
-Código de teste não é escrito para se ter paz de espírito. É uma simulação severa para verificar se sua aplicação consegue sobreviver no inferno que é o ambiente de produção. 
+O código de teste não é escrito para lhe dar paz de espírito. Ele é uma simulação brutal, projetada para provar se a sua aplicação consegue sobreviver no inferno absoluto que é o ambiente de produção real. 
 
-Não se deixe enganar pela bajulação barata da IA. Espremer a IA com este prompt e esmagar as fundações do seu sistema é a única maneira de sobreviver como um verdadeiro engenheiro. Agora é hora de encarar o quão frágil seu código realmente era. Copie isso agora mesmo e rode seus testes! 🍷
+Não se deixe enganar pela complacência barata da IA. Espremer o modelo de linguagem com este prompt e bombardear as fundações do seu próprio sistema é a única maneira de sobreviver como um verdadeiro engenheiro de software de elite. Chegou a hora de encarar a dura realidade de quão frágil o seu código realmente era. Copie isso agora mesmo e rode a sua suíte de testes! 🍷

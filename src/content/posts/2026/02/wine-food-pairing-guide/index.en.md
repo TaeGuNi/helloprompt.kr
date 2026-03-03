@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "취미/라이프"
-description: " \"From convenience store picks to fine vintages, get the perfect wine tailored to your menu. Your palate is more accurate than Vivino ratings.\""
+description: "From convenience store picks to fine vintages, get the perfect wine tailored to your menu. Your palate is more accurate than generic Vivino ratings."
 tags: ["와인", "미식", "페어링", "소믈리에"]
 ---
 
@@ -21,7 +21,7 @@ tags: ["와인", "미식", "페어링", "소믈리에"]
 
 > _"Lost in a sea of identical wine labels? Let your AI sommelier craft the perfect pairing for tonight's dinner."_
 
-Pairing soju with pork belly or beer with fried chicken feels like second nature. But wine? That’s a different story. The sheer volume of unfamiliar terminology—varietals, terroirs, body, tannins, and acidity—can be paralyzing. We’ve all felt the sting of splurging on an expensive bottle, only to discover it clashes horribly with our food. Stop gambling your evening away on generic Vivino ratings. Here is exactly how to prompt your AI Sommelier to find the absolute perfect wine that harmonizes beautifully with both your palate and tonight's menu.
+Pairing soju with pork belly or beer with fried chicken is second nature. But wine? That’s a different story. The sheer volume of unfamiliar terminology—varietals, terroirs, body, tannins, and acidity—can be paralyzing. We’ve all felt the sting of splurging on an expensive bottle only to discover it clashes horribly with our food. Stop gambling your evening away on generic Vivino ratings. Here is exactly how to prompt your AI Sommelier to find the absolute perfect wine that harmonizes beautifully with both your palate and tonight's menu.
 
 ---
 
@@ -47,7 +47,6 @@ Use this quick prompt when your dinner menu is locked in, and you need to grab a
 > 1. Restrict choices to affordable wines in the `[$15 to $35]` price range.
 > 2. Select widely available, crowd-pleasing varietals that are approachable for wine beginners.
 > 3. Explain exactly _why_ each wine pairs beautifully with the food in one concise, compelling sentence.
-
 
 ### 🥇 Pro Version
 
@@ -103,9 +102,9 @@ AI models are trained on vast global flavor profiles, tasting notes, and pairing
 
 ## 🧬 Prompt Anatomy (Why it works?)
 
-1.  **Context & Accessibility Constraints:** The highest-rated wine in the world is entirely useless to you if you can't buy it before dinner. By strictly defining the 'Budget' and 'Where to Buy', we establish realistic, actionable boundaries for the AI's recommendations.
-2.  **Multidimensional Taste Profiling:** We move far beyond a rudimentary 'Red vs. White' dichotomy. Explicitly defining both 'Preferences' and 'Dislikes' drastically narrows the search space, practically guaranteeing a much higher satisfaction rate.
-3.  **Tripartite Choice Architecture:** By presenting three distinct stylistic options—Safe, Adventurous, and Value—we empower the user with the autonomy to make the final call based on the specific vibe and mood of the evening.
+1. **Context & Accessibility Constraints:** The highest-rated wine in the world is entirely useless to you if you can't buy it before dinner. By strictly defining the 'Budget' and 'Where to Buy', we establish realistic, actionable boundaries for the AI's recommendations.
+2. **Multidimensional Taste Profiling:** We move far beyond a rudimentary 'Red vs. White' dichotomy. Explicitly defining both 'Preferences' and 'Dislikes' drastically narrows the search space, practically guaranteeing a much higher satisfaction rate.
+3. **Tripartite Choice Architecture:** By presenting three distinct stylistic options—Safe, Adventurous, and Value—we empower the user with the autonomy to make the final call based on the specific vibe and mood of the evening.
 
 ---
 

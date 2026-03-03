@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Corrección de Tono de Currículum: Cómo Deshacerse de 'Amateur' y Parecer 'Pro'\""
+title: "Corrección de Tono para tu Currículum: Deja de Sonar 'Amateur' y Destaca como un 'Pro'"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Empleo y Carrera"
-description: " \"Un prompt avanzado que refina el tono de tu currículum al estándar profesional, corrigiendo errores gramaticales y tipográficos para maximizar tu credibilidad.\""
+description: "Un prompt avanzado que eleva el tono de tu currículum al estándar profesional, corrigiendo la gramática y el estilo para maximizar tu credibilidad ante los reclutadores."
 tags:
   [
     "CorrecciónCurrículum",
@@ -15,9 +15,9 @@ tags:
   ]
 ---
 
-# 📝 Corrección de Tono de Currículum: Cómo Deshacerse de 'Amateur' y Parecer 'Pro'
+# 📝 Corrección de Tono para tu Currículum: Deja de Sonar 'Amateur' y Destaca como un 'Pro'
 
-- **🎯 Recomendado para:** Buscadores de empleo, profesionales en transición, recién graduados
+- **🎯 Recomendado para:** Buscadores de empleo, profesionales en transición laboral, recién graduados
 - **⏱️ Tiempo requerido:** 5 minutos → 1 minuto
 - **🤖 Modelo recomendado:** Todos los modelos de IA (ChatGPT, Claude, Gemini)
 
@@ -25,9 +25,9 @@ tags:
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidad:** ⭐⭐⭐⭐☆
 
-> _"Tu experiencia es brillante, pero ¿tu currículum suena como si se lo estuvieras contando a un amigo en un bar?"_
+> _"Tu experiencia es brillante, pero ¿tu currículum suena como si se lo estuvieras contando a un amigo tomando un café?"_
 
-El alma de un buen currículum reside en su **profesionalismo**. El tono coloquial, el exceso de adverbios y las expresiones vagas o emocionales destruyen tu credibilidad en segundos. Confía tus textos a este editor de IA y eleva tu currículum a un estándar de negocios impecable y persuasivo.
+El alma de un currículum ganador reside en su **profesionalismo**. El tono coloquial, el exceso de adverbios y las expresiones vagas o demasiado emocionales destruyen tu credibilidad en cuestión de segundos. Confía tus textos a este editor de IA y eleva tu currículum a un estándar corporativo impecable y persuasivo.
 
 ---
 
@@ -45,20 +45,19 @@ El alma de un buen currículum reside en su **profesionalismo**. El tono coloqui
 
 Úsala cuando necesites un resultado rápido y sin complicaciones.
 
-> **Rol:** Eres un editor senior en una editorial de prestigio y experto en redacción de documentos de negocios.
-> **Solicitud:** Refina el tono de este currículum para que cumpla con los estándares corporativos. Corrige cualquier error tipográfico y gramatical para aumentar mi credibilidad.
-
+> **Rol:** Eres un editor senior en una editorial de prestigio y experto en redacción corporativa.
+> **Solicitud:** Refina el tono de este currículum para que cumpla con los estándares del mundo corporativo. Corrige cualquier error tipográfico y gramatical para potenciar mi credibilidad.
 
 ### 🥇 Versión Pro (Experto)
 
-Úsala cuando necesites un análisis detallado y una calidad impecable.
+Úsala cuando necesites un análisis detallado, precisión quirúrgica y una calidad impecable.
 
 > **Rol (Role):** Eres un editor senior especializado en recursos humanos y redacción corporativa.
 >
 > **Contexto (Context):**
 >
-> - Antecedentes: He redactado mi currículum y carta de presentación, pero las oraciones no fluyen de manera natural y me preocupan los errores gramaticales o un tono inapropiado.
-> - Objetivo: Lograr un texto pulido, persuasivo y absolutamente profesional que capte la atención de los reclutadores.
+> - Antecedentes: He redactado mi currículum y mi carta de presentación, pero las oraciones no fluyen de manera natural y me preocupan los errores gramaticales o el uso de un tono inapropiado.
+> - Objetivo: Lograr un texto pulido, persuasivo y absolutamente profesional que capte la atención inmediata de los reclutadores.
 >
 > **Texto de Entrada:**
 > `[Pega el texto de tu currículum aquí]`
@@ -70,7 +69,7 @@ El alma de un buen currículum reside en su **profesionalismo**. El tono coloqui
 >    - Transforma cualquier estilo coloquial o narrativo en un lenguaje formal, corporativo y cortés.
 >    - Elimina adverbios innecesarios o subjetivos como "realmente", "demasiado", "extremadamente", "muy".
 >    - Prioriza la voz activa sobre la voz pasiva para demostrar liderazgo y proactividad.
-> 3. **Corrección Estructural:** Refina oraciones confusas o donde el sujeto y el predicado no concuerden, asegurando claridad y concisión.
+> 3. **Corrección Estructural:** Refina las oraciones confusas o aquellas donde el sujeto y el predicado no concuerden, asegurando la máxima claridad y concisión.
 >
 > **Formato de Salida (Format):**
 >
@@ -79,21 +78,21 @@ El alma de un buen currículum reside en su **profesionalismo**. El tono coloqui
 >
 > **Restricciones (Constraints):**
 >
-> - No inventes ni agregues habilidades, datos o experiencias que no estén en el texto original.
+> - No inventes ni agregues habilidades, datos o experiencias que no estén presentes en el texto original.
 > - Mantén la longitud del texto similar a la original, priorizando siempre la claridad.
 
 ---
 
 ## 💡 Comentario del Autor (Insight)
 
-Este prompt es oro puro para quienes tienden a escribir de forma muy descriptiva. En el mundo corporativo, los reclutadores dedican apenas 6 segundos a revisar un currículum; no tienen tiempo para leer historias largas. Al usar el "Pulidor de Tono Profesional", conviertes oraciones débiles ("Se lograron muchas ventas bajo mi cargo") en afirmaciones orientadas a resultados ("Lideré el equipo que incrementó las ventas"). Mi recomendación es usar **Claude 3.5 Sonnet** para esta tarea, ya que tiene una sensibilidad excepcional para adaptar el tono formal sin sonar robótico o artificial, un problema que a veces presenta ChatGPT.
+Este prompt es oro puro para quienes tienden a escribir de forma excesivamente descriptiva. En el mundo corporativo, los reclutadores dedican apenas 6 segundos a escanear un currículum; no tienen tiempo para leer historias interminables. Al usar el "Pulidor de Tono Profesional", conviertes oraciones débiles ("Se lograron muchas ventas bajo mi cargo") en afirmaciones contundentes y orientadas a resultados ("Lideré el equipo que incrementó las ventas"). Mi recomendación personal es usar **Claude 3.5 Sonnet** para esta tarea, ya que tiene una sensibilidad excepcional para adaptar el tono formal sin sonar robótico o artificial, un problema que a veces presenta ChatGPT.
 
 ---
 
 ## 🙋 Preguntas Frecuentes (FAQ)
 
 - **P: ¿Puedo usar este prompt para correos electrónicos importantes o propuestas de negocios?**
-  - R: ¡Absolutamente! Solo necesitas cambiar el `[Texto de Entrada]` y ajustar ligeramente el contexto. Las reglas de concisión y voz activa aplican perfectamente a correos formales o propuestas dirigidas a clientes.
+  - R: ¡Absolutamente! Solo necesitas cambiar el `[Texto de Entrada]` y ajustar ligeramente el contexto. Las reglas de concisión y voz activa aplican perfectamente a correos formales o propuestas dirigidas a clientes de alto perfil.
 
 - **P: Siento que la IA eliminó demasiada información de mi experiencia al resumir. ¿Qué hago?**
   - R: Si notas que la IA recorta detalles clave, añade la siguiente línea a las **Restricciones**: _"No elimines ningún dato numérico, métrica o nombre de herramienta técnica mencionado en el texto original."_
@@ -102,8 +101,8 @@ Este prompt es oro puro para quienes tienden a escribir de forma muy descriptiva
 
 ## 🧬 Anatomía del Prompt (¿Por qué funciona?)
 
-1.  **Rol Especializado:** Al asignarle el rol de "editor senior en recursos humanos", la IA no solo corrige la gramática, sino que aplica de forma estricta el estándar léxico que esperan los reclutadores.
-2.  **Reglas de Tono Específicas:** Pedir explícitamente "eliminar adverbios innecesarios" y "usar voz activa" evita que la IA genere respuestas floridas y garantiza un texto contundente y directo.
+1.  **Rol Especializado:** Al asignarle el rol de "editor senior en recursos humanos", la IA no solo corrige la gramática, sino que aplica de forma estricta el estándar léxico que esperan los headhunters y reclutadores.
+2.  **Reglas de Tono Específicas:** Pedir explícitamente "eliminar adverbios innecesarios" y "usar voz activa" evita que la IA genere respuestas floridas y garantiza un texto contundente y al grano.
 3.  **Formato Comparativo:** Solicitar el desglose de "Antes vs. Después" te permite aprender de tus propios errores de redacción y decidir si prefieres mantener tu versión original en ciertas frases.
 
 ---

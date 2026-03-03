@@ -5,93 +5,93 @@ author: "Antigravity"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "Astuces de Prompt"
-description: "Un guide de prompt pour analyser rapidement les rapports financiers DART (EDGAR) de centaines de pages difficiles à lire et comparer les indicateurs clés avec l'IA."
+description: "Découvrez un guide de prompt pour analyser et comparer rapidement les indicateurs clés de rapports financiers (DART/EDGAR) de plusieurs centaines de pages grâce à l'IA."
 tags: ["Actions", "Investissement", "AnalyseFinancière", "Samsung", "SKHynix", "DART"]
 ---
 
 # 📝 Comment comparer les rapports financiers (DART) de Samsung et SK Hynix avec l'IA en 3 minutes
 
-- **🎯 Public cible :** Investisseurs axés sur la valeur, Débutants ayant des difficultés avec les états financiers, Aspirants analystes
+- **🎯 Public cible :** Investisseurs "Value", débutants intimidés par les états financiers, futurs analystes
 - **⏱️ Temps gagné :** 2 heures → 3 minutes
-- **🤖 IA recommandée :** IA capable d'analyser de longs textes et des fichiers (Claude 3.5 Sonnet, ChatGPT Plus, etc.)
+- **🤖 IA recommandée :** IA capables d'analyser des documents longs (Claude 3.5 Sonnet, ChatGPT Plus, etc.)
 
 - ⭐ **Difficulté :** ⭐⭐⭐☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
 - 🚀 **Utilité :** ⭐⭐⭐⭐☆
 
-> _"Vous continuez à faire défiler sans fin des rapports d'activité ouverts dans des dizaines d'onglets ? Laissez maintenant l'IA s'en charger."_
+> _« Vous perdez encore un temps précieux à scroller à l'infini dans des dizaines d'onglets de rapports financiers ? Laissez l'IA faire ce travail fastidieux à votre place. »_
 
-Vous avez probablement entendu le dicton : "La véritable valeur d'une action se trouve dans ses informations financières." Cependant, pour un investisseur particulier, lire et comparer les centaines de pages de rapports d'activité de Samsung Electronics et de SK Hynix revient à chercher une aiguille dans une botte de foin. Nous vous dévoilons un prompt étonnant qui permet à l'IA de comparer des états financiers complexes et les bénéfices de chaque division dans un tableau clair en seulement 3 minutes.
+Vous connaissez sans doute le vieil adage boursier : « La véritable valeur d'une action se cache toujours dans ses états financiers. » Pourtant, pour un investisseur particulier, éplucher et comparer méthodiquement les centaines de pages des rapports d'activité de géants comme Samsung Electronics et SK Hynix s'apparente souvent à chercher une aiguille dans une botte de foin. Face à cette montagne de données brutes, le découragement est vite arrivé. Aujourd'hui, nous vous dévoilons un prompt redoutable qui délègue ce travail de titan à l'IA. En seulement 3 minutes, elle est capable de décortiquer ces données financières complexes, d'isoler les bénéfices par division, et de vous restituer l'essentiel sous la forme d'un tableau comparatif d'une clarté absolue.
 
 ---
 
 ## ⚡️ Résumé en 3 lignes (TL;DR)
 
-1. Vous pouvez extraire uniquement les indicateurs clés nécessaires au "jugement d'investissement" à partir de centaines de pages de rapports d'activité.
-2. Vous pouvez comparer d'un coup d'œil les revenus, la marge bénéficiaire d'exploitation et la part de marché de Samsung Electronics (Division DS) et de SK Hynix.
-3. Même si vous ne connaissez pas les états financiers, vous pouvez saisir les fondamentaux de l'entreprise grâce à l'interprétation facile de l'IA.
+1. Extrayez uniquement les indicateurs stratégiques indispensables à votre prise de décision parmi des centaines de pages de rapports abscons.
+2. Comparez d'un seul coup d'œil le chiffre d'affaires, la marge opérationnelle et les parts de marché de la division DS de Samsung Electronics face à SK Hynix.
+3. Appréhendez sans effort les fondamentaux complexes d'une entreprise grâce aux explications vulgarisées de l'IA, même sans aucune expertise comptable préalable.
 
 ---
 
-## 🚀 La solution : "Prompt d'analyse comparative des données financières des entreprises"
+## 🚀 La solution : "Prompt d'analyse comparative des données financières"
 
 ### 🥉 Version basique (Basic Version)
 
-Utilisez ceci lorsque vous souhaitez comparer uniquement les échelles de revenus et de bénéfices les plus élémentaires des deux entreprises.
+Idéale pour comparer rapidement les indicateurs de base tels que le chiffre d'affaires et les bénéfices de deux entreprises.
 
-> **Rôle :** Tu es un `[Expert en analyse financière et de divulgation d'informations]`.
-> **Tâche :** Sur la base des derniers rapports trimestriels, compare dans un tableau les revenus et le bénéfice d'exploitation de la `[Division des semi-conducteurs de Samsung Electronics]` et de `[SK Hynix]`.
+> **Rôle :** Tu es un `[Expert en analyse financière et en communication d'entreprise]`.
+> **Tâche :** En t'appuyant sur les derniers rapports trimestriels, dresse un tableau comparatif du chiffre d'affaires et du bénéfice d'exploitation de la `[Division des semi-conducteurs de Samsung Electronics]` et de `[SK Hynix]`.
 
 ### 🥇 Version Pro (Pro Version)
 
-Utilisez ceci lorsque vous souhaitez une comparaison qualitative/quantitative approfondie couvrant la structure de l'entreprise, les taux d'utilisation et la part de marché, bien au-delà de simples chiffres.
+À privilégier pour une analyse qualitative et quantitative exhaustive, intégrant la structure de l'entreprise, les taux d'utilisation des usines et les parts de marché, bien au-delà des simples chiffres.
 
-> **Rôle (Role) :** Tu es un `[Gestionnaire de portefeuille principal dans une institution experte en investissement axé sur la valeur]` avec 15 ans d'expérience.
+> **Rôle (Role) :** Tu es un `[Gestionnaire de portefeuille senior au sein d'un fonds d'investissement spécialisé dans l'approche Value]` avec 15 ans d'expérience.
 >
 > **Contexte (Context) :**
 >
-> - Contexte : `[Comparaison précise des fondamentaux pour décider dans laquelle des deux sociétés de semi-conducteurs investir à long terme]`
-> - Conseil : L'analyse doit être basée sur le contenu principal des "Rapports d'activité" du système d'information financière des entreprises (comme DART/EDGAR).
+> - Situation : `[Analyse comparative rigoureuse des fondamentaux pour déterminer laquelle de ces deux entreprises de semi-conducteurs privilégier pour un investissement à long terme]`
+> - Source : L'analyse doit impérativement s'appuyer sur les rapports d'activité officiels issus des plateformes d'information financière (telles que DART ou EDGAR).
 >
 > **Tâche (Task) :**
 >
-> 1. Compare les indicateurs suivants sur la base des données trimestrielles/annuelles récentes de la `[Division DS (Mémoire) de Samsung Electronics]` et de `[SK Hynix]` dans un tableau (Table).
->    - Indicateurs : Chiffre d'affaires, Marge bénéficiaire d'exploitation, Ratio d'investissement en R&D, Taux d'utilisation moyen des usines, Part de marché des produits de base (DRAM, NAND, etc.)
-> 2. Sur la base des données ci-dessus, explique le **"Fossé concurrentiel (Competitive Moat) le plus fort"** dont chaque entreprise se prévaut actuellement auprès du marché par le biais de ses informations financières, en 2 phrases chacune.
-> 3. Identifie et signale un par un les risques potentiels révélés dans les états financiers de chaque entreprise (par exemple, augmentation des actifs en stock, ratio d'endettement, etc.).
+> 1. Compare les indicateurs suivants sous forme de tableau (Table), en te basant sur les dernières données trimestrielles/annuelles de la `[Division DS (Mémoire) de Samsung Electronics]` et de `[SK Hynix]`.
+>    - Indicateurs exigés : Chiffre d'affaires, Marge opérationnelle, Ratio des dépenses en R&D, Taux d'utilisation moyen des usines, Parts de marché des produits phares (DRAM, NAND, etc.).
+> 2. En t'appuyant sur ces données, définis en deux phrases pour chaque entreprise son **"Avantage concurrentiel (Competitive Moat) le plus solide"**, tel qu'il transparaît actuellement dans ses publications financières.
+> 3. Identifie et liste un par un les risques potentiels mis en évidence par les états financiers de chaque société (ex. : gonflement des stocks, ratio d'endettement élevé, etc.).
 >
 > **Contraintes (Constraints) :**
 >
-> - Le format de sortie doit utiliser un mélange d'en-têtes (Heading) clairs et de tableaux Markdown (Table).
-> - Si des termes professionnels de réglementation financière (IFRS) apparaissent, ajoute entre parenthèses une signification facile à comprendre pour les débutants.
+> - Structure ta réponse en combinant des titres clairs (Heading) et des tableaux en Markdown (Table).
+> - Chaque fois que tu utilises un terme technique lié aux normes comptables (ex. IFRS), ajoute systématiquement entre parenthèses une définition vulgarisée, accessible aux débutants.
 >
 > **Avertissement (Warning) :**
 >
-> - Base les données sur les chiffres confirmés (ou le consensus) les plus récemment divulgués, mais si les chiffres sont incertains, recherche-les ou précise "Nécessite une vérification des informations financières". N'invente pas de chiffres arbitrairement.
+> - Repose-toi exclusivement sur les derniers chiffres officiels publiés (ou le consensus établi). Si une donnée est incertaine, effectue une recherche ou indique clairement : "Nécessite une vérification dans les documents financiers". N'invente jamais de chiffres.
 
 ---
 
-## 💡 Aperçu de l'auteur (Insight)
+## 💡 L'avis de l'expert (Insight)
 
-L'aspect le plus puissant de ce prompt réside dans la "Comparaison". Si vous analysez une seule entreprise, il est difficile de dire si les chiffres sont bons ou mauvais. Cependant, si vous placez côte à côte dans un tableau les exigences (par exemple, ratio de R&D, taux d'utilisation) de deux concurrents de taille, vous pouvez voir intuitivement qui mène le marché en ce moment. Dans la pratique, si vous téléchargez les documents PDF à partir du système d'information financière et que vous les joignez à l'IA (en particulier Claude) avec le prompt, vous obtiendrez une précision à donner la chair de poule.
+La véritable force de ce prompt réside dans sa dimension comparative. Analyser les résultats d'une entreprise de manière isolée donne rarement une vision globale pertinente. En revanche, mettre en confrontation directe les métriques clés de deux mastodontes du secteur – comme l'effort en R&D ou le taux d'utilisation des usines – au sein d'un même tableau vous permet d'identifier le leader du marché de façon intuitive. Sur le terrain, si vous téléchargez les rapports originaux au format PDF pour les soumettre à l'IA (Claude 3.5 Sonnet excelle particulièrement dans cet exercice) tout en appliquant ce prompt, la précision chirurgicale des résultats obtenus vous laissera sans voix. Vous bénéficierez ainsi d'une synthèse structurée qu'un analyste financier junior mettrait des heures à compiler.
 
 ---
 
 ## 🙋 Foire aux questions (FAQ)
 
-- **Q : Puis-je télécharger des fichiers PDF ou Excel d'origine vers l'IA ?**
-  - R : Oui ! Si vous téléchargez les fichiers de rapport d'activité de Samsung Electronics et SK Hynix vers une IA dotée d'une fonction de pièce jointe (comme ChatGPT Plus ou Claude 3.5 Sonnet) et fournissez le prompt Pro ci-dessus, vous obtiendrez une analyse parfaite sans aucune hallucination (erreur).
+- **Q : Puis-je fournir directement les fichiers PDF ou Excel originaux à l'IA ?**
+  - R : Absolument ! En joignant les rapports d'activité bruts de Samsung Electronics et SK Hynix à une IA supportant l'analyse de pièces jointes (comme ChatGPT Plus ou Claude 3.5 Sonnet) et en utilisant le prompt Pro détaillé ci-dessus, vous obtiendrez une analyse d'une précision redoutable, limitant ainsi drastiquement les risques d'hallucination.
 
-- **Q : Est-il absolument nécessaire de spécifier la division commerciale (`[Division DS de Samsung Electronics]`) ?**
-  - R : C'est crucial. Parce que Samsung Electronics vend également des smartphones et des appareils électroménagers, pour les comparer sur la même base "semi-conducteur" avec SK Hynix, vous devez absolument limiter l'analyse à la "Division DS (et plus précisément à la mémoire)" pour une comparaison exacte (Apple-to-Apple).
+- **Q : Est-il indispensable de cibler une division spécifique, comme la `[Division DS de Samsung Electronics]` ?**
+  - R : C'est primordial. Étant donné que le conglomérat Samsung Electronics génère également des revenus colossaux via ses smartphones et son électroménager, il est impératif de restreindre l'analyse à sa "Division DS" (idéalement la section Mémoire). C'est l'unique façon de garantir une comparaison pertinente, logique et équitable (approche "Apple-to-Apple") face à SK Hynix, qui demeure un pur acteur des semi-conducteurs.
 
 ---
 
 ## 🧬 Anatomie du prompt (Why it works?)
 
-1. **Segmentation des indicateurs :** En spécifiant clairement des indicateurs d'information essentiels que les véritables investisseurs fondamentaux examinent, tels que le "taux d'utilisation" et le "ratio de R&D", nous avons évité les réponses absurdes.
-2. **Condition (Apple-to-Apple) :** Nous avons conçu une comparaison logique en spécifiant la "Division DS" de Samsung Electronics plutôt que l'entreprise dans son ensemble.
-3. **Extraction des risques :** En l'empêchant de ne lister que les bons points et en le forçant à trouver des "risques dans les états financiers", nous avons ajouté une fonction de jugement d'investissement objectif.
+1. **Ciblage des indicateurs stratégiques :** En imposant l'extraction de métriques pointues, scrupuleusement étudiées par les investisseurs "Value" chevronnés (comme le "taux d'utilisation" ou le "ratio de R&D"), nous bloquons toute tentative de réponse superficielle ou générique de la part de l'IA.
+2. **Comparaison équitable (Apple-to-Apple) :** Isoler la "Division DS" de Samsung Electronics au lieu d'analyser le groupe dans sa globalité garantit une confrontation logique, structurellement pertinente et juste face à son concurrent direct.
+3. **Mise en lumière des risques latents :** Contraindre l'IA à déceler les "risques cachés" au sein des états financiers empêche les analyses complaisantes, apportant ainsi une réelle valeur ajoutée pour forger un jugement d'investissement à la fois neutre et parfaitement objectif.
 
 ---
 
@@ -128,6 +128,6 @@ Je comparerai les fondamentaux de base des deux entreprises du point de vue d'un
 
 ## 🎯 Conclusion
 
-Lisez des documents d'entreprise difficiles et austères en demandant à l'IA de vous les traduire.
+Ne vous laissez plus intimider par des rapports financiers austères et denses : confiez leur décryptage analytique à l'IA.
 
-Il est temps de commencer l'authentique "Investissement axé sur la valeur" (Value Investing) fondé sur les données ! 🍷
+Il est grand temps de vous lancer dans un véritable investissement "Value" fondé sur des données tangibles et fiables ! 🍷

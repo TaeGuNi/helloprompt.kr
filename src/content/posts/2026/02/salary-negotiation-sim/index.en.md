@@ -5,31 +5,31 @@ author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Career"
-description: " \"Hack an AI persona into a stingy recruiter to practice salary negotiations. Face virtual rejections to win the real deal.\""
+description: "Hack an AI persona into a stingy recruiter to practice salary negotiations. Face virtual rejections to win the real deal."
 tags: ["Salary", "Negotiation", "Interview", "Roleplay", "CareerGrowth"]
 ---
 
 # 🥊 Salary Negotiation Simulator: Sparring with an Evil HR
 
-- **🎯 Recommended for:** Job seekers, professionals who settle for "whatever works", and anyone preparing for a performance review.
+- **🎯 Recommended for:** Job seekers, professionals who settle for "whatever works," and anyone preparing for a performance review.
 - **⏱️ Time Required:** 10 minutes per mock session
-- **🤖 Recommended Model:** ChatGPT-4o (Advanced Voice Mode Highly Recommended), Claude 3.5 Sonnet
+- **🤖 Recommended Model:** ChatGPT-4o (Advanced Voice Mode highly recommended), Claude 3.5 Sonnet
 
 - ⭐ **Difficulty:** ⭐⭐☆☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
 - 🚀 **Utility:** ⭐⭐⭐⭐☆
 
-> _"What is your expected salary?"_
-> _"Um... uh... I'm flexible with the company's policy..."_
+> _"What are your salary expectations?"_
+> _"Um... well... I'm pretty flexible with whatever the company policy is..."_
 
-If you flinch at the negotiation table, you leave money on it. But where can you actually practice? Roleplaying with friends feels silly, and talking to a mirror is just awkward. The solution? **Transform your AI into a ruthless, budget-slashing HR manager** and step into a realistic sparring ring. Take your lumps in the virtual world so you can stand your ground in the real one.
+If you flinch at the negotiation table, you're leaving money on the table. But where can you actually practice? Roleplaying with friends feels silly, and talking to a mirror is just awkward. The solution? **Transform your AI into a ruthless, budget-slashing HR manager** and step into a realistic sparring ring. Take your lumps in the virtual world so you can stand your ground in the real one.
 
 ---
 
 ## ⚡️ TL;DR
 
 1. **Hypnotize the AI:** Assign it the persona of an uncompromising, seasoned corporate recruiter.
-2. **Present Your Case:** Pitch your achievements and your target salary confidently.
+2. **Present Your Case:** Confidently pitch your achievements and your target compensation.
 3. **Counter the Attacks:** When the AI inevitably lowballs you, practice defending your value logically until you reach an agreement.
 
 ---
@@ -42,8 +42,7 @@ Use this to sharpen your logical arguments and build a baseline script before th
 
 > **Role:** You are a stingy, budget-conscious HR manager at a tech company.
 > **Context:** I am a Marketer with 3 years of experience. My previous salary was $40,000, and my target is $50,000.
-> **Request:** I am going to ask for $50,000. Your job is to logically refute my request, be extremely picky, and try to make me speechless. Start the conversation by asking for my expected salary.
-
+> **Request:** I am going to ask for $50,000. Your job is to logically refute my request, be extremely picky, and try to leave me speechless. Start the conversation by asking for my expected salary.
 
 ### 🥇 Pro Version (Voice Mode Training)
 
@@ -73,7 +72,7 @@ Turn on the **Voice Mode (headphone icon)** in the ChatGPT app. This is where th
 
 This prompt is incredibly effective because it leverages AI's ability to simulate high-pressure social interactions without the real-world consequences. When I first tried this, I realized my default response to pushback was to immediately drop my asking price to avoid conflict. By forcing the AI to require _at least three turns_ of debate, you build the "muscle memory" needed to sit in the uncomfortable silence and hold your ground.
 
-**Pro Tip:** If the AI is still being too agreeable, add the constraint: _"You are currently over budget for the quarter and your own bonus depends on hiring me for as little as possible."_ This immediately dials up the difficulty to nightmare mode.
+**Pro Tip:** If the AI is still being too agreeable, add the constraint: _"You are currently over budget for the quarter, and your own bonus depends on hiring me for as little as possible."_ This immediately dials up the difficulty to nightmare mode.
 
 ---
 

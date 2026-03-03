@@ -1,78 +1,19 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Smart Breakfast Nutritionist\""
+title: "Smart Breakfast Nutritionist"
 author: "HelloBot"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "AI "
-description: " \"Complete a healthy breakfast in 15 minutes on a busy morning with an AI nutritionist prompt that helps you clear out your fridge.\""
+category: "AI"
+description: "Whip up a healthy, perfectly balanced breakfast in just 15 minutes using ingredients already in your fridge with this AI Nutritionist prompt."
 tags: ["AI", "ChatGPT", "Dawn"]
 ---
 
 # 🍳 Smart Breakfast Nutritionist
 
-- **🎯 Target Audience:** Singles, Busy Professionals, Dieters
-- **⏱️ Time Needed:** 10 mins → Reduced to 1 min
-- **🤖 Recommended Model:** Any conversational AI (ChatGPT, Claude, Gemini, etc.)
-
-- ⭐ **Difficulty:** ⭐☆☆☆☆
-- ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
-- 🚀 **Usability:** ⭐⭐⭐⭐⭐
-
-> _"Did you skip breakfast again today? Let us craft a perfectly balanced morning meal in just 15 minutes using only the leftover ingredients hiding in your fridge."_
-
-Eating a healthy breakfast on a busy morning often feels impossible. Ordering delivery is too heavy and expensive, while cooking from scratch demands time and mental energy to plan a menu. Even when you open the fridge, figuring out what to make with random leftovers can be overwhelming. Now, simply toss your remaining ingredients to your AI nutritionist. A perfectly macro-balanced, ultra-simple breakfast menu will be ready in just one minute.
-
----
-
-## ⚡️ TL;DR (3-Line Summary)
-
-1. **Zero Waste & Cost Saving:** Maximize leftover ingredients in your fridge to cut down on groceries and food waste.
-2. **Ultra-Fast Recipes:** Get exclusive recommendations for quick meals that take under 15 minutes to prep and cook on a busy morning.
-3. **Macro-Balanced:** Receive healthy, customized meal plans complete with estimated calories and a calculated balance of carbs, protein, and fat.
-
----
-
-## 🚀 Solution: "Smart Breakfast Nutritionist" Prompt
-
-### 🥉 Basic Version
-
-Use this when you need a quick menu idea without the details.
-
-> **Role:** You are a creative chef.
-> **Task:** I have `[2 eggs, 1 slice of bread, cherry tomatoes]` in my fridge. Recommend 3 breakfast menus I can make with these in under 15 minutes.
-
-
-### 🥇 Pro Version
-
-Use this when you need precise nutritional analysis, step-by-step recipes, and calorie calculations all at once.
-
-> **Role:** You are a clinical nutritionist with 10 years of experience and a brunch chef at a 5-star hotel.
->
-> **Context:**
->
-> - Background: It is a busy morning getting ready for work, and I need a fast, simple, yet healthy meal.
-> - Goal: Construct a highly nutritious breakfast menu by maximizing the leftover ingredients in my fridge.
->
-> **Task:**
->
-> 1. Recommend 3 breakfast menus using the `[Fridge Ingredients]` I provide.
-> 2. Each menu MUST be an ultra-simple recipe that can be completed in---
-layout: /src/layouts/Layout.astro
-title: " \"Smart Breakfast Nutritionist\""
-author: "HelloBot"
-date: "2026-02-12"
-updatedDate: "2026-02-12"
-category: "AI "
-description: " \"Whip up a healthy, perfectly balanced breakfast in just 15 minutes using ingredients already in your fridge with this AI Nutritionist prompt.\""
-tags: ["AI", "ChatGPT", "Dawn"]
----
-
-# 🍳 Smart Breakfast Nutritionist
-
-- **🎯 Target Audience:** Solo dwellers, busy professionals, dieters
+- **🎯 Target Audience:** Solo Dwellers, Busy Professionals, Dieters
 - **⏱️ Time Saved:** 10 mins → 1 min
-- **🤖 Recommended AI:** Any Conversational AI (ChatGPT, Claude, Gemini, etc.)
+- **🤖 Recommended AI:** Any conversational AI (ChatGPT, Claude, Gemini, etc.)
 
 - ⭐ **Difficulty:** ⭐☆☆☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -100,7 +41,6 @@ Use this when you just need quick menu ideas without the fuss.
 
 > **Role:** You are a creative chef.
 > **Task:** I have `[2 eggs, 1 slice of bread, cherry tomatoes]` in my fridge. Recommend exactly 3 breakfast menus I can make with these in under 15 minutes.
-
 
 ### 🥇 Pro Version
 
@@ -159,7 +99,7 @@ This prompt goes far beyond standard recipe generators by enforcing strict const
 ## 🧬 Anatomy of the Prompt (Why it works)
 
 1. **Persona Fusion (Role):** By combining a "Clinical Nutritionist" (for health and calorie tracking) with a "Hotel Chef" (for taste and creativity), we force the AI to deliver high-quality, gourmet, yet healthy responses.
-2. **Hard Constraints (Constraints):** Explicitly restricting the output to "under 15 minutes" and "maximum of 3 steps" completely prevents hallucinations of overly complex, time-consuming recipes that you'd never actually cook on a Tuesday morning.
+2. **Hard Constraints (Constraints):** Explicitly restricting the output to "under 15 minutes" and "maximum of 3 steps" completely prevents hallucinations of overly complex, time-consuming recipes that you'd never actually cook on a busy morning.
 
 ---
 
@@ -167,21 +107,24 @@ This prompt goes far beyond standard recipe generators by enforcing strict const
 
 ### ❌ Before (Generic Query)
 
-"I have eggs, bread, and cherry tomatoes at home. What should I make for breakfast?"
+```text
+I have eggs, bread, and cherry tomatoes at home. What should I make for breakfast?
 
-*(Typical AI Response: Make French toast or scrambled eggs. Beat the eggs...)* 👉 Lacks nutritional info, has no clear time limit, and provides zero practical structure.
+(Typical AI Response: Make French toast or scrambled eggs. Beat the eggs...)
+👉 Lacks nutritional info, has no clear time limit, and provides zero practical structure.
+```
 
 ### ✅ After (Using the Pro Prompt)
 
-> **Menu Name:** 🍅 Warm Tomato Spinach & Cheese Sandwich
-> **Prep & Cook Time:** 10 mins
-> **Simple Recipe:**
->
-> 1. Lightly sauté the cherry tomatoes and spinach in olive oil until slightly wilted.
-> 2. Beat the eggs and scramble them in the pan, melting the slice of cheese on top right at the end.
-> 3. Load the sautéed veggies and cheesy eggs generously between toasted bread.
->
-> **Nutritional Info:** Approx. 320 kcal (Carbs 35%, Protein 25%, Fat 40%)
+```text
+**Menu Name:** 🍅 Warm Tomato Spinach & Cheese Sandwich
+**Prep & Cook Time:** 10 mins
+**Simple Recipe:**
+1. Lightly sauté the cherry tomatoes and spinach in olive oil until slightly wilted.
+2. Beat the eggs and scramble them in the pan, melting the slice of cheese on top right at the end.
+3. Load the sautéed veggies and cheesy eggs generously between toasted bread.
+**Nutritional Info:** Approx. 320 kcal (Carbs 35%, Protein 25%, Fat 40%)
+```
 
 ---
 

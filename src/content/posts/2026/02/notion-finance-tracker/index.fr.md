@@ -5,64 +5,63 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "재테크/투자"
-description: " \"Fini les budgets sur Excel. Comment utiliser les formules et les bases de données relationnelles Notion pour visualiser vos flux financiers d'un seul coup d'œil.\""
+description: "\"Oubliez Excel. Découvrez comment utiliser les formules et les bases de données relationnelles de Notion pour visualiser vos flux financiers en un clin d'œil.\""
 tags: ["Notion", "가계부", "재테크", "노션템플릿", "자산관리"]
 ---
 
-# 💸 Modèle de Budget Notion : Le Système Automatisé pour Accumuler de l'Argent
+# 💸 Tracker de Budget Notion : Le Système Automatisé pour Faire Fructifier Votre Argent
 
-- **🎯 Public cible :** Les employés frustrés par les limites des applications de gestion de budget automatisées (comme Bank Salad ou Toss) et qui souhaitent reprendre activement le contrôle de leurs flux financiers.
-- **⏱️ Temps requis :** 10 minutes (Génération des formules et de la structure de la base de données via l'IA)
-- **🤖 Modèles recommandés :** ChatGPT-4o, Claude 3.5 Sonnet (Excellents pour les formules Notion complexes et la conception de bases de données relationnelles)
+- **🎯 À qui s'adresse ce prompt :** Aux salariés frustrés par les limites des applications de budget automatiques (comme Bank Salad ou Toss) et qui souhaitent reprendre le contrôle total de leurs finances.
+- **⏱️ Temps requis :** 10 minutes (Génération des formules et de l'architecture via l'IA)
+- **🤖 Modèles recommandés :** ChatGPT-4o, Claude 3.5 Sonnet (Excellents pour les formules Notion complexes et l'architecture de bases de données relationnelles)
 
 - ⭐ **Difficulté :** ⭐⭐⭐☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
 - 🚀 **Utilité :** ⭐⭐⭐⭐⭐
 
-> _"Êtes-vous toujours choqué en découvrant le montant de votre relevé de carte bancaire ? Les applications de budget automatisées sont pratiques, mais elles ne changeront jamais vos habitudes de dépenses."_
+> _"Toujours sous le choc en découvrant le montant de votre relevé de carte en fin de mois ? Les applications de budget automatiques sont pratiques, mais elles ne changeront jamais vos habitudes de consommation."_
 
-La raison pour laquelle nous n'arrivons pas à épargner n'est pas parce que nos revenus sont trop faibles, mais parce que nous ne parvenons pas à "contrôler" nos dépenses. Les applications qui importent automatiquement vos transactions sont certes pratiques, mais elles engourdissent la "douleur de payer" (Pain of paying). D'un autre côté, Excel présente une barrière à l'entrée élevée et reste difficile à consulter sur mobile.
+Si nous peinons à épargner, ce n'est pas tant à cause de revenus insuffisants, mais bien parce que nous échouons à véritablement maîtriser nos dépenses. Les applications qui catégorisent automatiquement vos transactions sont indéniablement pratiques, mais elles ont un effet pervers : elles anesthésient la « douleur de payer » (pain of paying). À l'inverse, Excel impose une barrière à l'entrée souvent décourageante et s'avère particulièrement inadapté à une consultation sur mobile au quotidien.
 
-La solution idéale est **Notion**. Avec l'aide de l'IA, créez en seulement 10 minutes des barres de progression (Progress Bar) adaptées à votre style de vie pour suivre votre budget, ainsi qu'un calendrier de défi "zéro dépense". L'IA se chargera de résoudre toutes les formules complexes et la conception de la base de données.
+La solution ultime s'appelle **Notion**. En vous appuyant sur l'intelligence artificielle, vous pouvez concevoir en à peine 10 minutes des barres de progression (Progress Bar) sur mesure pour suivre votre budget en temps réel, ainsi qu'un calendrier interactif pour vos défis « zéro dépense ». Ne vous souciez plus de la technique : l'IA se chargera de dompter la complexité des formules et d'architecturer l'intégralité de votre base de données relationnelle à votre place.
 
 ---
 
 ## ⚡️ Résumé en 3 points (TL;DR)
 
-1. **Visualisation des dépenses :** Utilisez les formules Notion pour visualiser d'un seul coup d'œil votre budget restant à l'aide d'une barre de progression (Progress Bar).
-2. **Base de données relationnelle :** Connectez votre base "Historique des Revenus/Dépenses" à votre base "Budget Mensuel" pour créer un système générant automatiquement des statistiques.
-3. **Exploitation des prompts IA :** Confiez à l'IA les formules Notion qui donnent la migraine (`if`, `slice`, `prop`) en lui expliquant simplement votre situation et votre objectif : elle vous fournira un code parfait.
+1. **Visualisation des dépenses :** Exploitez les formules Notion pour évaluer instantanément votre budget restant grâce à des barres de progression dynamiques (Progress Bar).
+2. **Bases de données relationnelles :** Interconnectez votre « Historique des Transactions » avec votre « Budget Mensuel » pour bâtir un système de reporting financier 100 % automatisé.
+3. **Délégation à l'IA :** Confiez la rédaction des formules Notion complexes (`if`, `slice`, `prop`) à l'IA en lui décrivant simplement votre objectif ; elle produira un code prêt à l'emploi.
 
 ---
 
-## 🚀 La Solution : "Architecte de Formules Notion"
+## 🚀 La Solution : « Architecte de Formules Notion »
 
 ### 🥉 Version Basique (Basic Version)
 
-À utiliser lorsque vous avez simplement besoin d'une formule de calcul basique d'addition et de soustraction pour tenir vos comptes.
+Idéal lorsque vous avez uniquement besoin de formules mathématiques simples (additions et soustractions) pour tenir vos comptes au clair.
 
-> **Rôle :** Tu es un expert en création de formules Notion (Notion Formula).
-> **Tâche :** Dans ma base de données Notion, j'ai une propriété "Montant" (Nombre) et une propriété "Type" (Sélection : Revenu/Dépense). En combinant ces deux éléments, rédige une formule utilisant la fonction `if` pour calculer le "Montant Réel" : si le "Type" est un "Revenu", le montant reste positif ; si c'est une "Dépense", ajoute un signe moins (-) devant le montant.
-
+> **Rôle :** Tu es un expert en formules Notion (Notion Formula).
+> **Tâche :** Dans ma base de données Notion, j'ai une propriété "Montant" (Nombre) et une propriété "Type" (Sélection : Revenu/Dépense). En combinant ces deux éléments, rédige une formule avec la fonction `if` pour calculer le "Montant Réel" : si le "Type" est un "Revenu", le montant reste positif ; si c'est une "Dépense", ajoute un signe négatif (-) devant le montant.
 
 ### 🥇 Version Pro (Pro Version)
 
-À utiliser pour concevoir une base de données relationnelle complète permettant non seulement la saisie, mais aussi le contrôle strict du budget et l'analyse de vos flux financiers.
+Parfait pour bâtir une base de données relationnelle exhaustive, permettant non seulement la saisie fluide de vos opérations, mais garantissant surtout un contrôle rigoureux de votre budget et une analyse granulaire de vos flux financiers.
 
-> **Rôle (Role) :** Tu es un ambassadeur Notion et un expert en gestion de patrimoine, spécialisé dans la conception de bases de données.
+> **Rôle (Role) :** Tu es un ambassadeur Notion et un expert en gestion de patrimoine, spécialisé dans l'architecture de bases de données.
 >
 > **Contexte (Context) :**
 > - Contexte : Frustré par les limites des applications de budget automatiques, je souhaite créer un "Système de Budget Tout-en-un" sur Notion pour contrôler et analyser activement mes dépenses.
-> - Objectif : Construire un tableau de bord Notion qui permet de comparer visuellement les dépenses au budget mensuel et de calculer automatiquement des statistiques par catégorie.
+> - Objectif : Construire un tableau de bord Notion qui permet de comparer visuellement mes dépenses à mon budget mensuel et de générer automatiquement des statistiques par catégorie.
 >
 > **Tâche (Task) :**
-> 1. **Conception de la structure de la base de données :** Explique-moi étape par étape comment séparer la base de données "Tableau de bord mensuel (Budget)" de la base "Historique des dépenses quotidiennes", et comment les connecter via des Relations (Relation) et des Agrégations (Rollup).
-> 2. **Formule de la barre de progression du budget (Progress Bar) :** Rédige une formule Notion qui calcule les dépenses cumulées par rapport au budget mensuel et affiche le budget restant sous forme de barre de pourcentage visuelle (par ex. `▓▓▓▓▓░░░░░ 50%`). (Utilise les fonctions `slice` et `repeat`).
-> 3. **Calendrier du défi "Zéro Dépense" :** Dans la vue calendrier de l'"Historique des dépenses quotidiennes", crée une formule conditionnelle qui affiche automatiquement l'émoji '🎉' à côté de la date si le montant des dépenses du jour est de 0.
+> 1. **Conception de l'architecture :** Explique-moi étape par étape comment séparer la base de données "Tableau de bord mensuel (Budget)" de la base "Historique des transactions", et comment les connecter via des Relations (Relation) et des Agrégations (Rollup).
+> 2. **Formule de la Progress Bar :** Rédige une formule Notion qui calcule les dépenses cumulées par rapport au budget mensuel et affiche le budget restant sous forme de barre de progression visuelle (par ex. `▓▓▓▓▓░░░░░ 50%`). (Utilise les fonctions `slice` et `repeat`).
+> 3. **Calendrier "Zéro Dépense" :** Dans la vue calendrier de l'"Historique des transactions", crée une formule conditionnelle qui affiche automatiquement l'émoji '🎉' à côté de la date si le montant des dépenses du jour est de 0.
 >
 > **Contraintes (Constraints) :**
-> - Rédige les formules en utilisant la syntaxe la plus récente, à savoir Notion Formula 2.0.
-> - Ajoute des commentaires ou des explications pour que même un débutant puisse comprendre le fonctionnement de chaque formule.
+> - Rédige les formules en utilisant la syntaxe la plus récente : Notion Formula 2.0.
+> - Ajoute des commentaires et des explications claires pour qu'un débutant puisse comprendre le fonctionnement de chaque formule.
 >
 > **Avertissement (Warning) :**
 > - Pour les formules complexes, vérifie impérativement que les parenthèses sont bien fermées et que les noms des propriétés (`prop`) correspondent exactement avant de générer ta réponse.
@@ -71,31 +70,31 @@ La solution idéale est **Notion**. Avec l'aide de l'IA, créez en seulement 10 
 
 ## 💡 Le Point de Vue de l'Auteur (Insight)
 
-La principale raison de créer et d'utiliser son propre budget sur Notion est la possibilité de **"gérer son argent comme on jouerait à un jeu"**.
-En utilisant la formule générée par l'IA, ajoutez un message d'avertissement personnalisé et humoristique, comme par exemple : `if(prop("Dépenses") / prop("Budget") >= 0.9, "🚨 Alerte : Compte en banque en détresse", "🟢 Zone de sécurité")`. Au moment où vous voyez visuellement la barre de votre budget diminuer, votre main qui s'apprêtait à faire un achat compulsif s'arrêtera d'elle-même.
+L'intérêt fondamental de concevoir et de piloter son propre budget sur Notion réside dans l'incroyable opportunité de **« gamifier la gestion de son argent »**.
+Grâce aux formules générées par l'IA, vous avez la liberté d'intégrer des messages d'avertissement personnalisés, voire humoristiques. Imaginez par exemple : `if(prop("Dépenses") / prop("Budget") >= 0.9, "🚨 Alerte rouge : Compte en détresse", "🟢 Zone de sécurité")`. Le simple fait de voir physiquement la jauge de votre budget s'épuiser agit comme un puissant frein psychologique, vous incitant à réfléchir à deux fois avant de céder à un achat compulsif.
 
-De plus, en utilisant la fonction d'agrégation (Rollup) par catégorie, vous obtiendrez des informations extrêmement précieuses lors de votre déclaration d'impôts de fin d'année ou lors de la planification de votre budget pour l'année suivante. Laissez la conception des formules complexes à l'IA, et concentrez-vous uniquement sur l'analyse de vos flux financiers.
+De plus, l'exploitation stratégique de la fonction d'agrégation (Rollup) par catégorie vous livrera des données d'une valeur inestimable, que ce soit pour optimiser votre déclaration d'impôts ou affiner la planification de votre budget annuel. Laissez l'IA se débattre avec la syntaxe complexe des formules et concentrez-vous sur ce qui compte vraiment : l'analyse stratégique de vos flux financiers.
 
 ---
 
 ## 🙋 Foire Aux Questions (FAQ)
 
-- **Q : N'est-il pas possible de synchroniser automatiquement l'historique de ma carte bancaire avec Notion ?**
-  - R : Il est possible de l'automatiser via l'API Notion et des outils comme Zapier, mais **je ne le recommande pas.** L'essence même de la tenue d'un budget est de ressentir la "douleur" au moment de dépenser de l'argent. Prendre 5 minutes chaque soir pour saisir manuellement vos transactions et réfléchir à vos dépenses de la journée est en soi la meilleure des stratégies financières.
+- **Q : Est-il possible de synchroniser automatiquement mes transactions bancaires avec Notion ?**
+  - R : S'il est techniquement envisageable de l'automatiser via l'API Notion et des outils comme Zapier, **je vous le déconseille vivement.** L'essence même d'une gestion budgétaire saine est d'éprouver la « douleur » inhérente à la dépense. Consacrer 5 minutes chaque soir à saisir manuellement vos transactions pour prendre conscience de vos sorties d'argent quotidiennes demeure, de loin, la stratégie financière la plus efficace.
 
-- **Q : Les formules Notion sont si complexes que je rencontre des erreurs. Comment les résoudre ?**
-  - R : Copiez simplement le contenu exact de la fenêtre de la formule Notion qui a généré l'erreur et soumettez-le à nouveau à l'IA avec ce prompt : "J'obtiens une erreur `Syntax error` avec cette formule, peux-tu m'indiquer où est le problème et la corriger ?". L'IA trouvera les parenthèses manquantes ou les conflits de types de données (texte/nombre) en une seconde.
+- **Q : Les formules Notion sont si complexes que je rencontre souvent des erreurs. Comment les corriger ?**
+  - R : C'est très simple : copiez le code exact de la formule Notion défaillante et soumettez-le de nouveau à l'IA avec ce prompt : « J'obtiens une erreur `Syntax error` avec cette formule, peux-tu m'indiquer où se situe le problème et la corriger ? ». L'IA identifiera instantanément une parenthèse manquante ou un conflit de type de données (texte/nombre).
 
-- **Q : Toutes ces fonctionnalités sont-elles disponibles avec le forfait gratuit de Notion ?**
-  - R : Oui, absolument. Les bases de données relationnelles, les agrégations (Rollups) et les fonctions de formules avancées sont toutes utilisables sans aucune restriction sur le forfait personnel gratuit de Notion.
+- **Q : Toutes ces fonctionnalités sont-elles accessibles avec le forfait gratuit de Notion ?**
+  - R : Absolument. Les bases de données relationnelles, les agrégations (Rollups) et les formules avancées sont intégralement disponibles et sans aucune restriction sur le forfait personnel gratuit de Notion.
 
 ---
 
 ## 🧬 Anatomie du Prompt (Pourquoi ça marche ?)
 
-1. **Exigence de structuration Relation & Rollup :** J'ai demandé à l'IA de concevoir d'abord les connexions entre les bases de données, qui sont le cœur de Notion. Les formules ne peuvent fonctionner correctement que si cette structure est solide.
-2. **Obligation de visualisation (Visualization) :** Au lieu de demander de simples calculs de nombres, j'ai spécifiquement mentionné les fonctions `slice` et `repeat` pour exiger un retour visuel (Barre de progression, émojis). C'est le mécanisme clé pour atteindre l'objectif ultime du budget : le contrôle des dépenses.
-3. **Spécification de la syntaxe récente (Formula 2.0) :** La syntaxe des formules Notion a été récemment et significativement mise à jour. J'ai clairement défini la version pour éviter que l'IA ne génère des formules obsolètes, complexes ou incompatibles avec la nouvelle norme.
+1. **Exigence d'architecture (Relation & Rollup) :** J'ai d'abord instruit l'IA de structurer les connexions entre les bases de données, le véritable moteur de Notion. Les formules ne peuvent opérer avec précision que si ces fondations relationnelles sont solides.
+2. **Visualisation obligatoire :** Au lieu de me contenter de calculs mathématiques bruts, j'ai explicitement exigé l'utilisation des fonctions `slice` et `repeat` pour générer un retour visuel immédiat (barres de progression, émojis). C'est ce mécanisme psychologique précis qui permet de reprendre le contrôle de ses pulsions d'achat.
+3. **Spécification de la syntaxe (Formula 2.0) :** Le langage de formule de Notion a récemment subi une refonte majeure. En stipulant clairement la version 2.0, on empêche l'IA de produire un code obsolète, inutilement verbeux ou tout simplement incompatible.
 
 ---
 
@@ -104,26 +103,26 @@ De plus, en utilisant la fonction d'agrégation (Rollup) par catégorie, vous ob
 ### ❌ Avant (Le budget automatique "post-mortem")
 
 ```text
-(Notification push du relevé de carte en fin de mois)
-"Le montant de votre carte pour ce mois est de 1 250 €."
-Moi : "Ah... Ai-je trop commandé sur Uber Eats ? C'est de la folie..." (Le compte est déjà vide 💸)
+(Notification push du relevé de carte bancaire en fin de mois)
+"Le montant de vos dépenses pour ce mois s'élève à 1 250 €."
+Moi : "Sérieusement... J'ai trop commandé sur Uber Eats ? C'est n'importe quoi..." (Le compte est déjà à sec 💸)
 ```
 
 ### ✅ Après (Le tableau de bord Notion "préventif")
 
 ```text
-[Budget alimentaire de la semaine : ▓▓▓▓▓▓▓▓░░ 80% consommé / 🚨 Alerte : Il ne reste que 15 €]
-Moi : "Oh ? On n'est que jeudi et le budget alimentation est déjà dans le rouge. Ce soir et demain, c'est obligatoirement repas maison avec les restes du frigo."
-(Résultat : Dépassement de budget évité et augmentation du taux de réussite des journées "zéro dépense" 💰)
+[Budget alimentation de la semaine : ▓▓▓▓▓▓▓▓░░ 80% consommé / 🚨 Alerte : Il ne reste que 15 €]
+Moi : "Ah ? On n'est que jeudi et le budget alimentation est déjà dans le rouge. Ce soir et demain, c'est fond de frigo obligatoire."
+(Résultat : Dépassement évité et multiplication des journées "zéro dépense" réussies 💰)
 ```
 
 ---
 
 ## 🎯 Conclusion
 
-Avant même de chercher des compétences en investissement exceptionnelles, accumuler de l'argent commence par la mise en place d'un **système robuste** pour bloquer les fuites financières.
+Avant même de chercher à développer des compétences pointues en investissement, faire fructifier son patrimoine commence invariablement par la mise en place d'un **système robuste** destiné à colmater vos fuites financières.
 
-Prenez seulement 10 minutes pour construire votre propre tour de contrôle financier grâce à l'IA et à Notion.
-Prendre l'habitude d'enregistrer et de vérifier visuellement vos finances au quotidien transformera le solde de votre compte bancaire.
+Prenez 10 petites minutes aujourd'hui pour bâtir votre propre tour de contrôle financière en alliant la puissance de l'IA à la flexibilité de Notion.
+Prendre l'habitude de consigner et de visualiser l'état de vos finances au quotidien métamorphosera radicalement le solde de votre compte bancaire.
 
-Maintenant, prenez le contrôle de vos actifs ! 🍷
+À vous de reprendre le contrôle de vos actifs ! 🍷

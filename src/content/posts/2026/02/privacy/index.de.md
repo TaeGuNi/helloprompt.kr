@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"개인정보처리방침 (Privacy Policy)\""
-description: " \"Transparente und sichere Richtlinien zur Datenerhebung und -verarbeitung bei Hello Prompt.\""
+description: "Transparente und sichere Richtlinien zur Datenerfassung und -verarbeitung bei Hello Prompt."
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 ---
@@ -16,17 +16,17 @@ updatedDate: "2026-02-09"
 - ⚡️ **Sicherheit:** ⭐⭐⭐⭐⭐
 - 🚀 **Vertrauenswürdigkeit:** ⭐⭐⭐⭐⭐
 
-> _"Deine Daten gehören dir. Hello Prompt bietet maximale Inspiration bei minimaler Datenerhebung."_
+> _"Deine Daten gehören dir. Hello Prompt bietet maximale Inspiration bei absolut minimaler Datenerfassung."_
 
-**Hello Prompt** (im Folgenden „diese Website“ genannt) räumt dem Schutz der Privatsphäre seiner globalen Nutzer höchste Priorität ein und hält sich strikt an internationale Datenschutzgesetze sowie die globalen Richtlinien des Google AdSense-Programms. Diese Richtlinie tritt am 9. Februar 2026 in Kraft.
+**Hello Prompt** (im Folgenden „diese Website“ genannt) räumt dem Schutz der Privatsphäre seiner internationalen Nutzerschaft höchste Priorität ein. Wir halten uns strikt an globale Datenschutzgesetze sowie die Richtlinien des Google AdSense-Programms. Diese Datenschutzerklärung tritt am 9. Februar 2026 in Kraft.
 
 ---
 
 ## ⚡️ 3-Punkte-Zusammenfassung (TL;DR)
 
-1. **Keine Registrierung erforderlich:** Wir verlangen keine Kontoerstellung und keine sensiblen persönlichen Daten für die Nutzung unseres Dienstes.
-2. **Minimale Datenerhebung:** Es werden nur essenzielle Cookies und Zugriffsprotokolle gesammelt, um die Website zu verbessern und personalisierte Werbung (AdSense) bereitzustellen.
-3. **Einhaltung globaler Standards:** Wir erfüllen internationale Datenschutzstandards wie die DSGVO (Europa) und den CCPA (Kalifornien) in vollem Umfang.
+1. **Keine Registrierung erforderlich:** Wir verlangen weder eine Kontoerstellung noch die Angabe sensibler persönlicher Daten, um unseren Dienst zu nutzen.
+2. **Minimale Datenerfassung:** Es werden ausschließlich essenzielle Cookies und Zugriffsprotokolle erhoben, um die Website zu optimieren und personalisierte Werbung (AdSense) bereitzustellen.
+3. **Einhaltung globaler Standards:** Wir erfüllen internationale Datenschutzvorgaben wie die DSGVO (Europa) und den CCPA (Kalifornien) vollumfänglich.
 
 ---
 
@@ -34,11 +34,10 @@ updatedDate: "2026-02-09"
 
 ### 🥉 Erfasste Basisdaten (Basic Data)
 
-Um eine reibungslose und sichere Umgebung zu gewährleisten, erhebt diese Website automatisch nur die folgenden Informationen:
+Um eine reibungslose und sichere Umgebung zu gewährleisten, erfasst diese Website automatisch nur die folgenden Informationen:
 
-> **Erfasste Daten:** `[Cookies]`, `[IP-Adresse]`, `[Browser- und Geräteinformationen]`, `[Zugriffszeit und Besuchsverlauf]`
-> **Erhebungsmethode:** Systematische Erfassung durch automatische Tools (wie Google Analytics) beim Besuch der Website.
-
+> **Erfasste Daten:** `[Cookies]`, `[IP-Adresse]`, `[Browser- und Geräteinformationen]`, `[Zugriffszeitpunkt und Besuchsverlauf]`
+> **Erfassungsmethode:** Systematische Protokollierung durch automatisierte Tools (wie Google Analytics) beim Besuch der Website.
 
 ### 🥇 Zweck der Datennutzung (Pro Usage)
 
@@ -48,7 +47,7 @@ Die erhobenen Daten werden streng vertraulich behandelt und ausschließlich zur 
 >
 > **Kontext (Context):**
 >
-> - Hintergrund: `[Optimierung der Benutzererfahrung und stabiler globaler Serverbetrieb]`
+> - Hintergrund: `[Optimierung der Nutzererfahrung und stabiler globaler Serverbetrieb]`
 > - Ziel: `[Den Nutzern Prompt-Informationen so schnell und sicher wie möglich bereitzustellen]`
 >
 > **Aufgabe (Task):**
@@ -63,39 +62,39 @@ Die erhobenen Daten werden streng vertraulich behandelt und ausschließlich zur 
 >
 > **Warnung (Warning):**
 >
-> - Sammle niemals sensible personenbezogene Daten (wie Namen oder Kontaktdaten) ohne ausdrückliche Zustimmung des Nutzers und verkaufe diese niemals an Dritte.
+> - Sammle niemals sensible personenbezogene Daten (wie Namen oder Kontaktdaten) ohne ausdrückliche Zustimmung des Nutzers und verkaufe diese unter keinen Umständen an Dritte.
 
 ---
 
 ## 💡 Kommentar des Autors (Insight)
 
-Diese Datenschutzerklärung ist nicht nur ein formelles Dokument zur Erfüllung gesetzlicher Pflichten. Im KI-Zeitalter ist ein transparentes Datenmanagement direkt mit der Vertrauenswürdigkeit eines Dienstes verbunden. Hello Prompt hat lästige Registrierungen abgeschafft und unnötige Datenerhebungen an der Quelle blockiert, damit du dich unbesorgt darauf konzentrieren kannst, Prompts zu kopieren und dich inspirieren zu lassen. Erkunde die Website mit einem absolut sicheren Gefühl!
+Diese Datenschutzerklärung ist nicht nur ein formelles Dokument zur Erfüllung gesetzlicher Pflichten. Im KI-Zeitalter ist ein transparentes Datenmanagement direkt mit der Vertrauenswürdigkeit eines Dienstes verbunden. Hello Prompt hat auf lästige Registrierungsprozesse verzichtet und unnötige Datenerhebungen direkt an der Quelle blockiert. So kannst du dich unbesorgt darauf konzentrieren, Prompts zu kopieren und dich inspirieren zu lassen. Erkunde unsere Website mit einem absolut sicheren Gefühl!
 
 ---
 
 ## 🙋 Häufig gestellte Fragen (FAQ)
 
-- **F: Wie kann ich personalisierte Werbung (Cookies) blockieren, wenn ich sie nicht sehen möchte?**
-  - A: Du kannst die Bereitstellung von Cookies jederzeit ablehnen. Besuche die [Google-Anzeigeneinstellungen](https://www.google.com/settings/ads), um personalisierte Werbung zu deaktivieren, oder gehe auf [www.aboutads.info](https://www.aboutads.info), um die Verwendung von Cookies durch Drittanbieter sofort zu stoppen.
+- **F: Wie kann ich personalisierte Werbung (Cookies) blockieren, wenn ich diese nicht sehen möchte?**
+  - A: Du kannst die Verwendung von Cookies jederzeit ablehnen. Besuche die [Google-Anzeigeneinstellungen](https://www.google.com/settings/ads), um personalisierte Werbung zu deaktivieren, oder gehe auf [www.aboutads.info](https://www.aboutads.info), um die Cookie-Nutzung durch Drittanbieter sofort zu unterbinden.
 
 - **F: Wann werden meine Zugriffsprotokolle (z. B. IP-Adresse) vollständig gelöscht?**
   - A: Sie werden unmittelbar nach Abschluss der statistischen Analyse (Google Analytics) anonymisiert. Die Originalprotokolle werden gemäß den geltenden Gesetzen maximal 3 Monate aufbewahrt und danach unwiderruflich und dauerhaft gelöscht.
 
-- **F: Ich lebe in Europa / Kalifornien (USA). Wie werden meine Datenrechte garantiert?**
-  - A: Hello Prompt hält sich strikt an globale Nutzervorschriften. Gemäß der **DSGVO (Europa)** kannst du jederzeit Auskunft, Berichtigung oder Löschung deiner Daten verlangen. Gemäß dem **CCPA (Kalifornien)** werden wir deine Daten niemals an Dritte verkaufen (Do Not Sell).
+- **F: Ich lebe in Europa / Kalifornien (USA). Wie werden meine Datenschutzrechte garantiert?**
+  - A: Hello Prompt hält sich strikt an globale Datenschutzrichtlinien. Gemäß der **DSGVO (Europa)** kannst du jederzeit Auskunft, Berichtigung oder Löschung deiner Daten verlangen. Gemäß dem **CCPA (Kalifornien)** werden wir deine Daten niemals an Dritte verkaufen (Do Not Sell).
 
 ---
 
 ## 🧬 Analyse der Richtlinie (Why this matters?)
 
-1. **Transparenz (Transparency):** Wir haben klar dargelegt, welche Informationen gesammelt und wofür sie verwendet werden, um globale Nutzer von Datenschutzbedenken zu befreien.
-2. **Kontrolle (Control):** Wir haben praktische und spezifische Methoden bereitgestellt, mit denen Nutzer personalisierte Werbung selbst blockieren (Opt-out) können.
+1. **Transparenz (Transparency):** Wir legen klar und verständlich dar, welche Informationen gesammelt und wofür sie verwendet werden, um globale Nutzer von Datenschutzbedenken zu befreien.
+2. **Kontrolle (Control):** Wir bieten praktische und spezifische Methoden, mit denen Nutzer personalisierte Werbung eigenständig blockieren können (Opt-out).
 
 ---
 
 ## 🎯 Fazit & Kontakt
 
-Bitte beachte, dass beim Verlassen dieser Website über externe Links (Outlinks) zu anderen Websites die Richtlinien dieser externen Websites unabhängig von unseren sind. Gehe daher mit besonderer Vorsicht vor.
+Bitte beachte, dass beim Verlassen dieser Website über externe Links (Outlinks) zu anderen Websites deren eigene Datenschutzrichtlinien gelten, die unabhängig von unseren sind. Gehe dort bitte mit entsprechender Vorsicht vor.
 
 Wenn du weitere Fragen zum Datenschutz oder Anfragen zur Datenlöschung hast, kontaktiere uns bitte über den untenstehenden offiziellen Kanal. Wir werden dir schnell und professionell antworten.
 

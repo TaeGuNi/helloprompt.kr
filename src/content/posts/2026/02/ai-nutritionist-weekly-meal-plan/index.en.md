@@ -1,17 +1,17 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"AI Nutritionist: Personalized Weekly Meal Plan Generator\""
+title: "AI Nutritionist: Personalized Weekly Meal Plan Generator"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Health & Wellness"
-description: " \"Discover how to use AI as your personal nutritionist to build a customized weekly meal plan that perfectly aligns with your goals and tastes.\""
+description: "Discover how to use AI as your personal nutritionist to build a customized weekly meal plan that perfectly aligns with your goals and tastes."
 tags: ["Diet", "Meal Management", "Health", "ChatGPT", "Meal Prep"]
 ---
 
 # 🥗 AI Nutritionist: Your Custom Weekly Meal Plan Generator
 
-- **🎯 Recommended for:** Busy professionals, diet beginners, fitness enthusiasts
+- **🎯 Recommended for:** Busy professionals, diet beginners, and fitness enthusiasts
 - **⏱️ Time required:** 5 minutes
 - **🤖 Recommended model:** Any conversational AI (ChatGPT, Claude, Gemini, etc.)
 
@@ -41,7 +41,6 @@ Use this when you need a quick, no-frills meal plan.
 
 > **Role:** You are a certified clinical nutritionist and personal trainer.
 > **Request:** Create a healthy 7-day meal plan for me. I want to lose weight. Include a grocery list.
-
 
 ### 🥇 Pro Version (Expert)
 

@@ -5,13 +5,13 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "업무 효율화"
-description: " \"Atención desarrolladores que revisan GitHub sin recordar qué hicieron ayer. Solo entrega tu registro de commits y obtén un guion de stand-up perfecto.\""
+description: "Atención, desarrolladores que revisan GitHub sin recordar qué hicieron ayer: entreguen su registro de commits y obtengan un guion perfecto para su daily stand-up en segundos."
 tags: ["스탠드업", "회의준비", "개발자", "회고"]
 ---
 
-# 📝 Prepara tu Daily Stand-up en 1 Minuto con tus Logs de Git
+# 📝 Prepara tu Daily Stand-up en 1 minuto con tus logs de Git
 
-- **🎯 Público objetivo:** Desarrolladores, Product Managers, Profesionales junior (1-3 años)
+- **🎯 Público objetivo:** Desarrolladores, Product Managers, profesionales junior (1-3 años)
 - **⏱️ Tiempo estimado:** 15 minutos → reducido a 1 minuto
 - **🤖 Modelo recomendado:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 2.5 Pro
 
@@ -19,17 +19,17 @@ tags: ["스탠드업", "회의준비", "개발자", "회고"]
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"¿Te quedas en blanco cuando te preguntan 'qué hiciste ayer' en la reunión diaria y terminas balbuceando mientras revisas tu historial de GitHub desesperadamente?"_
+> _"¿Te quedas en blanco cuando te preguntan 'qué hiciste ayer' en la daily y terminas balbuceando mientras revisas desesperadamente tu historial de GitHub?"_
 
-Todos hemos pasado por eso. La reunión de _Daily Stand-up_ (o Scrum) está a punto de empezar, y tu mente decide borrar por completo las 8 horas de código intensivo que escribiste ayer. Empiezas a buscar en tus _commits_, tickets de Jira o mensajes de Slack para armar un reporte coherente. Con este prompt, puedes transformar un bloque de logs crudos y desordenados en un guion profesional y conciso en cuestión de segundos.
+A todos nos ha pasado. Faltan cinco minutos para la *Daily Stand-up* y, de repente, tu mente decide borrar por completo las ocho horas de código intensivo que escribiste ayer. Entras en pánico y empiezas a rebuscar desesperadamente entre tus *commits* de Git, los tickets de Jira y los mensajes de Slack intentando armar un reporte que suene coherente. En lugar de balbucear frente a todo el equipo, este *prompt* te permitirá transformar ese caos de *logs* crudos y notas desordenadas en un guion profesional, estratégico y directo al grano, en cuestión de segundos.
 
 ---
 
-## ⚡️ Resumen en 3 Puntos (TL;DR)
+## ⚡️ Resumen en 3 puntos (TL;DR)
 
-1. Olvídate de redactar manualmente tu progreso diario; deja que la IA organice el caos por ti.
-2. Extrae valor real de tus _git logs_ o notas sueltas, estructurando el qué, el porqué y los bloqueos.
-3. Proyecta seguridad y profesionalismo en tus reuniones matutinas con un guion claro y al grano.
+1. Olvídate de redactar a mano tu progreso diario: deja que la IA organice el caos por ti.
+2. Extrae el valor real de tus *git logs* o notas sueltas, estructurando el qué, el porqué y los bloqueos.
+3. Transmite seguridad y profesionalismo en tus reuniones matutinas con un guion claro y directo al grano.
 
 ---
 
@@ -43,10 +43,9 @@ Todos hemos pasado por eso. La reunión de _Daily Stand-up_ (o Scrum) está a pu
 > **Tarea:** Convierte la siguiente lista de tareas y _commits_ de ayer en un guion claro de 3 puntos para mi reunión de _Daily Stand-up_.
 > **Datos:** `[Pega aquí tus notas sueltas o logs de git]`
 
-
 ### 🥇 Versión Profesional (Pro Version)
 
-Úsala para impresionar a tu equipo, detallando impacto, contexto y próximos pasos con precisión quirúrgica.
+Úsala para impresionar a tu equipo, detallando el impacto, el contexto y los próximos pasos con precisión quirúrgica.
 
 > **Rol (Role):** Eres un Tech Lead Senior experto en metodologías ágiles y comunicación efectiva.
 >
@@ -60,11 +59,11 @@ Todos hemos pasado por eso. La reunión de _Daily Stand-up_ (o Scrum) está a pu
 > 1. Analiza los datos de entrada (logs de git, notas, tickets) y agrúpalos por funcionalidad o proyecto.
 > 2. Redacta un guion estructurado en tres partes: "Qué hice ayer", "Qué haré hoy" y "Bloqueos/Impedimentos".
 > 3. Utiliza un tono profesional, directo y colaborativo.
-> 4. Traduce la jerga excesivamente técnica en logros orientados a impacto cuando sea posible (ej. "Arreglé el bug X" -> "Resolví el problema de login, mejorando la retención").
+> 4. Traduce la jerga excesivamente técnica en logros orientados al impacto cuando sea posible (ej. "Arreglé el bug X" -> "Resolví el problema de inicio de sesión, mejorando la retención de usuarios").
 >
 > **Datos de Entrada:**
 >
-> - Lo de ayer: `[Pega tus git logs, mensajes de slack o notas aquí]`
+> - Lo de ayer: `[Pega aquí tus git logs, mensajes de Slack o notas]`
 > - Lo de hoy: `[Tus metas principales para hoy]`
 > - Bloqueos: `[Cualquier problema que te impida avanzar, o escribe "Ninguno"]`
 >
@@ -79,38 +78,38 @@ Todos hemos pasado por eso. La reunión de _Daily Stand-up_ (o Scrum) está a pu
 
 ---
 
-## 💡 Comentario del Autor (Insight)
+## 💡 Comentario del autor (Insight)
 
-Este prompt es un salvavidas absoluto, especialmente los lunes por la mañana cuando el viernes parece haber ocurrido en otra vida. En mi experiencia, el mayor error en los _stand-ups_ es dar una "lista de compras" de tareas técnicas sin contexto. Al usar la Versión Pro, obligas a la IA a enfocarse en el **impacto**. En lugar de decir "Hice un refactor en el controlador de usuarios", terminas diciendo "Optimicé el servicio de usuarios, preparando el terreno para la nueva función de perfiles". Esto no solo te ahorra tiempo, sino que eleva dramáticamente tu percepción como un desarrollador estratégico frente a tus _managers_ y compañeros.
+Este *prompt* es un salvavidas absoluto, especialmente los lunes por la mañana, cuando parece que el viernes ocurrió en otra vida. Según mi propia experiencia, el mayor error que cometemos los desarrolladores en las *dailies* es recitar una "lista de la compra" de tareas técnicas carentes de contexto comercial. Al usar la Versión Pro, obligas a la IA a centrarse exclusivamente en el **impacto**. En lugar de decir "Hice un *refactor* en el controlador de usuarios", acabarás diciendo "Optimicé el servicio de usuarios, preparando el terreno para la nueva función de perfiles". Esto no solo te ahorra un tiempo valioso, sino que eleva drásticamente tu perfil como un desarrollador estratégico ante tus *managers* y compañeros de equipo.
 
-Además, un truco ninja: puedes correr el comando `git log --author="Tu Nombre" --since="yesterday" --pretty=format:"%s"` en tu terminal y pegar el resultado directamente en la variable de entrada del prompt. ¡Magia pura!
+Además, aquí tienes un truco *ninja*: puedes ejecutar el comando `git log --author="Tu Nombre" --since="yesterday" --pretty=format:"%s"` directamente en tu terminal y pegar el resultado en la variable de entrada del *prompt*. ¡Magia pura en segundos!
 
 ---
 
 ## 🙋 Preguntas Frecuentes (FAQ)
 
 - **P: ¿Este prompt funciona bien con modelos de IA gratuitos?**
-  - R: ¡Totalmente! La versión gratuita de ChatGPT (GPT-3.5 o GPT-4o mini) o Claude 3 Haiku manejan esta tarea sin sudar. El formato estricto de la Versión Pro está diseñado para evitar que cualquier modelo, incluso los menos avanzados, se desvíe del tema.
+  - R: ¡Totalmente! La versión gratuita de ChatGPT (GPT-3.5 o GPT-4o mini) o Claude 3 Haiku manejan esta tarea sin despeinarse. El formato estricto de la Versión Pro está diseñado específicamente para evitar que cualquier modelo, incluso los menos avanzados, se desvíe del tema central.
 
 - **P: ¿Solo sirve para programadores?**
-  - R: No. Si eres diseñador, analista o marketero, simplemente cambia el "Rol" en el prompt (por ejemplo, "Eres un Product Designer Senior") y pega tus actualizaciones de Figma o Jira. El resultado será igual de excelente.
+  - R: En absoluto. Si eres diseñador, analista de datos o especialista en *marketing*, simplemente cambia el "Rol" en el *prompt* (por ejemplo, "Eres un Product Designer Senior") y pega tus actualizaciones de Figma, Asana o Jira. El resultado será igual de excelente y adaptado a tu contexto.
 
 - **P: ¿Qué pasa si mis logs están en inglés pero mi equipo habla español?**
-  - R: Puedes agregar una instrucción simple en las Restricciones: "- Traduce todas las tareas y el guion final al español de manera natural". La IA cruzará la barrera del idioma a la perfección y te entregará el guion listo para leer.
+  - R: Puedes añadir una instrucción muy sencilla en la sección de Restricciones: "- Traduce todas las tareas y el guion final al español de manera natural". La IA superará esta barrera del idioma a la perfección y te entregará el guion final listo para leer en tu reunión.
 
 ---
 
 ## 🧬 Anatomía del Prompt (¿Por qué funciona?)
 
-1. **Estructura Scrum Nativa:** Obliga a la IA a respetar el formato estándar de la industria (Ayer / Hoy / Bloqueos), garantizando que el resultado sea inmediatamente aplicable a tu rutina diaria.
-2. **Traducción de Impacto:** La instrucción de convertir "jerga técnica" en "valor entregado" es el núcleo de este prompt. Ayuda a que roles no técnicos (como Product Owners o Scrum Masters) entiendan verdaderamente la importancia de tu trabajo.
-3. **Límite de Tiempo (Restricciones):** Al limitar la longitud a menos de 1 minuto de lectura, evita el mayor pecado de las reuniones diarias: monopolizar el tiempo hablando de detalles innecesarios.
+1. **Estructura Scrum Nativa:** Obliga a la IA a respetar el formato estándar de la industria (Qué hice ayer / Qué haré hoy / Bloqueos), garantizando que el resultado sea aplicable de inmediato a tu rutina diaria sin requerir ediciones manuales.
+2. **Traducción de Impacto:** La instrucción de convertir la "jerga técnica" en "valor entregado" es el núcleo absoluto de este *prompt*. Ayuda a que los roles no técnicos (como *Product Owners* o *Scrum Masters*) comprendan verdaderamente la importancia y el peso de tu trabajo.
+3. **Límite de Tiempo (Restricciones):** Al limitar explícitamente la longitud a menos de 1 minuto de lectura, se evita el mayor pecado capital de las reuniones diarias: monopolizar el tiempo hablando de detalles técnicos innecesarios.
 
 ---
 
 ## 📊 Demostración: Antes y Después
 
-### ❌ Antes (Entrada del Usuario - Cruda)
+### ❌ Antes (Entrada del usuario - Cruda)
 
 ```text
 Ayer:
@@ -147,6 +146,6 @@ Eso es todo de mi parte. ¡Gracias!
 
 ## 🎯 Conclusión
 
-Tu tiempo es demasiado valioso como para gastarlo tratando de recordar desesperadamente qué hiciste el día anterior. Con este prompt, automatizas la preparación tediosa, te presentas a la reunión con total confianza y destacas como un comunicador eficiente y estructurado dentro de tu equipo.
+Tu tiempo es demasiado valioso como para malgastarlo intentando recordar a la desesperada qué hiciste el día anterior. Con este *prompt*, automatizas una preparación tediosa, te presentas a la reunión con total confianza y destacas como un comunicador eficiente y estructurado dentro de tu equipo.
 
-¡Ahora, ve y domina ese _stand-up_! ☕
+¡Ahora, ve y domina ese *stand-up*! ☕

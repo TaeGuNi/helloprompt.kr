@@ -1,17 +1,17 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"AWS 비용 50% 절감: EC2, RDS 요금 폭탄 막는 체크리스트\""
+title: "Réduisez vos coûts AWS de 50 % : La checklist anti-facture pour EC2 et RDS"
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "DevOps/인프라"
-description: " \"클라우드 비용이 줄줄 새고 있다면? 1분 만에 끝내는 AWS 비용 최적화 프롬프트.\""
+description: "Vos coûts cloud s'envolent ? Voici le prompt ultime pour optimiser vos dépenses AWS en seulement 1 minute."
 tags: ["AWS", "클라우드", "비용절감", "DevOps", "인프라"]
 ---
 
 # 💸 Réduisez vos coûts AWS de 50 % : La checklist anti-facture salée pour EC2 et RDS
 
-- **🎯 Public cible :** Fondateurs de startups terrifiés par la facture AWS de fin de mois, développeurs à qui l'on demande souvent "Pourquoi nos serveurs coûtent-ils si cher ?"
+- **🎯 Public cible :** Fondateurs de startups angoissés par leur facture AWS, développeurs à qui l'on demande sans cesse : « Pourquoi nos serveurs coûtent-ils si cher ? »
 - **⏱️ Temps requis :** 5 minutes (Analyse via Cost Explorer)
 - **🤖 Modèles recommandés :** ChatGPT-4o, Claude 3.5 Sonnet
 
@@ -19,33 +19,32 @@ tags: ["AWS", "클라우드", "비용절감", "DevOps", "인프라"]
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
 - 🚀 **Utilité :** ⭐⭐⭐⭐⭐
 
-> _"10 instances t3.medium... Sommes-nous vraiment sûrs qu'elles tournent toutes pour une bonne raison ?"_
+> _« 10 instances t3.medium... Sommes-nous absolument certains qu'elles tournent toutes pour une bonne raison ? »_
 
-Ce qui est redoutable avec le Cloud, ce n'est pas de payer pour ce que l'on utilise, c'est de **payer pour ce que l'on laisse allumé**. Il est inutile de vous perdre dans les méandres du tableau de bord d'AWS Cost Explorer. Fournissez vos données de facturation ainsi que votre architecture actuelle à l'IA et donnez-lui cet ordre simple : **"Montre-moi exactement où notre budget part en fumée"**. En seulement 5 minutes, vous obtiendrez une stratégie FinOps redoutable pour économiser des milliers d'euros chaque mois.
+Le véritable piège du Cloud n'est pas de payer pour ce que l'on utilise, mais bien de **payer pour ce que l'on oublie d'éteindre**. Ne perdez plus votre temps à vous noyer dans les méandres du tableau de bord d'AWS Cost Explorer. Fournissez simplement vos données de facturation et votre architecture actuelle à l'IA, puis donnez-lui cette instruction claire : **« Montre-moi exactement où notre budget part en fumée. »** En 5 minutes chrono, vous obtiendrez une stratégie FinOps redoutable, capable de vous faire économiser des milliers d'euros chaque mois.
 
 ---
 
 ## ⚡️ Résumé en 3 points (TL;DR)
 
-1. Extrayez vos données CSV des "Coûts mensuels par service" depuis AWS Cost Explorer.
-2. Transmettez ces données à l'IA avec votre architecture actuelle pour qu'elle identifie les dépenses inefficaces.
-3. Appliquez immédiatement les stratégies recommandées sur le terrain : Instances Spot, Auto Scaling et Savings Plans.
+1. Extrayez vos données CSV des « Coûts mensuels par service » depuis AWS Cost Explorer.
+2. Transmettez-les à l'IA avec votre architecture actuelle afin qu'elle cible les dépenses superflues.
+3. Déployez immédiatement les stratégies recommandées : Instances Spot, Auto Scaling et Savings Plans.
 
 ---
 
-## 🚀 La solution : Le prompt "Cloud Cost Cutter"
+## 🚀 La solution : Le prompt « Cloud Cost Cutter »
 
 ### 🥉 Version Basique (Chasse aux ressources zombies)
 
-À utiliser lorsque vous n'avez aucune idée de l'origine des fuites financières. Ce prompt permet de débusquer rapidement les ressources dormantes.
+Idéale lorsque vous ignorez totalement l'origine de vos fuites financières. Ce prompt permet de traquer et d'éliminer rapidement les ressources dormantes.
 
 > **Rôle :** Tu es un Architecte Cloud Senior.
-> **Tâche :** En analysant ma facture AWS, je constate que les coûts liés aux `[Volumes EBS]` sont anormalement élevés. Identifie tous les volumes non attachés (Unattached), les anciens snapshots obsolètes et les adresses Elastic IP allouées mais inutilisées. Fournis-moi les commandes AWS CLI exactes pour les supprimer, en précisant bien les précautions à prendre avant exécution.
-
+> **Tâche :** En analysant ma facture AWS, je constate que les coûts liés aux `[Volumes EBS]` sont anormalement élevés. Identifie tous les volumes non attachés (Unattached), les anciens snapshots obsolètes et les adresses Elastic IP allouées mais inutilisées. Fournis-moi les commandes AWS CLI exactes pour les supprimer, en m'indiquant précisément les précautions à prendre avant toute exécution.
 
 ### 🥇 Version Pro (Instances Spot & Optimisation structurelle)
 
-Le prompt ultime pour une réduction structurelle des coûts et une stratégie de scaling entièrement automatisée.
+Le prompt ultime pour une réduction drastique et structurelle de vos coûts, couplée à une stratégie de scaling entièrement automatisée.
 
 > **Rôle (Role) :** Tu es un Consultant FinOps AWS Principal, expert en optimisation d'infrastructures d'entreprise.
 >
@@ -74,27 +73,27 @@ Le prompt ultime pour une réduction structurelle des coûts et une stratégie d
 
 ## 💡 Le point de vue de l'auteur (Insight)
 
-L'erreur la plus courante (et financièrement la plus fatale) consiste à **laisser les serveurs de développement et de staging (Dev/Stage) allumés 24h/24, y compris la nuit et le week-end**. Le simple fait de déployer une solution comme `Instance Scheduler` pour éteindre automatiquement ces instances en dehors des heures de bureau permet de réduire instantanément de plus de 60 % la facture de ces environnements. 
+L'erreur la plus fréquente — et de loin la plus ruineuse — consiste à **laisser les serveurs de développement et de staging (Dev/Stage) tourner 24h/24, y compris la nuit et le week-end**. Le simple déploiement d'une solution telle qu'`Instance Scheduler` pour automatiser l'extinction de ces instances en dehors des heures de bureau réduit instantanément la facture de ces environnements de plus de 60 %.
 
-Une fois que vous avez obtenu les recommandations de l'IA via ce prompt, ne vous arrêtez pas là. Posez-lui une question de suivi : **"Génère le code Terraform (ou le template CloudFormation) pour implémenter cette architecture"**. Vous pourrez ainsi automatiser la réduction de vos coûts en une seule passe d'infrastructure as code (IaC).
+Une fois les recommandations de l'IA obtenues grâce à ce prompt, ne vous arrêtez pas en si bon chemin. Posez-lui cette question de suivi : **« Génère le code Terraform (ou le template CloudFormation) pour implémenter cette architecture. »** Vous pourrez ainsi automatiser l'optimisation de vos coûts en une seule passe grâce à l'Infrastructure as Code (IaC).
 
 ---
 
-## 🙋 Foire Aux Questions (FAQ)
+## 🙋 Foire aux questions (FAQ)
 
-- **Q : J'ai entendu dire que les instances Spot pouvaient s'éteindre sans prévenir. N'est-ce pas risqué ?**
-  - R : C'est tout à fait vrai. C'est la raison pour laquelle elles ne doivent être utilisées que pour des serveurs API sans état (Stateless), des charges de travail conteneurisées, ou des traitements par lots (Batch Processing) asynchrones. Il ne faut **jamais** les utiliser pour des serveurs principaux traitant des requêtes synchrones critiques ou pour des bases de données.
+- **Q : J'ai entendu dire que les instances Spot pouvaient s'interrompre sans préavis. N'est-ce pas risqué ?**
+  - R : C'est tout à fait exact. C'est pourquoi elles doivent être rigoureusement réservées aux serveurs d'API sans état (Stateless), aux charges de travail conteneurisées ou aux traitements par lots (Batch Processing) asynchrones. Ne les utilisez **jamais** pour des serveurs critiques traitant des requêtes synchrones ou pour vos bases de données.
 
-- **Q : Les coûts de ma base de données RDS sont exorbitants, comment puis-je les réduire ?**
-  - R : Plutôt que de maintenir une instance On-Demand surdimensionnée en permanence, envisagez de migrer vers Amazon Aurora Serverless v2, qui s'adapte dynamiquement à votre trafic réel. Vous pouvez également déporter le trafic de lecture vers un Read Replica pour optimiser la charge. N'hésitez pas à demander à l'IA d'estimer les coûts de cette migration et le retour sur investissement attendu.
+- **Q : Les coûts de ma base de données RDS sont exorbitants, comment puis-je les maîtriser ?**
+  - R : Plutôt que de maintenir en permanence une instance On-Demand surdimensionnée, envisagez une migration vers Amazon Aurora Serverless v2, qui ajustera ses ressources dynamiquement en fonction de votre trafic réel. Vous pouvez également déporter le trafic de lecture vers un Read Replica afin de soulager la base principale. N'hésitez pas à demander à l'IA de simuler les coûts de cette migration et d'en estimer le retour sur investissement (ROI).
 
 ---
 
 ## 🧬 Anatomie du prompt (Pourquoi ça marche ?)
 
-1. **Fourniture d'un modèle de trafic explicite :** En précisant le contexte métier ("fort la journée, inactif la nuit/week-end"), nous obligeons l'IA à concevoir une stratégie **d'optimisation dynamique basée sur la planification**, et non pas une simple suggestion de réduction de la taille des instances.
-2. **Objectif chiffré agressif (50 % de réduction) :** Au lieu de formuler une demande molle du type "réduis mes coûts", fixer un objectif ambitieux force le LLM à recommander des décisions architecturales radicales mais extrêmement rentables, telles que les instances Spot ou les Savings Plans.
-3. **Contrôle strict des risques (Constraints) :** En interdisant formellement d'appliquer la stratégie Spot à la base de données, nous neutralisons les éventuelles hallucinations de l'IA qui pourraient provoquer une interruption de service (Downtime) catastrophique au nom des économies.
+1. **Définition d'un modèle de trafic explicite :** En détaillant le contexte métier (forte charge en journée, inactivité la nuit et le week-end), nous forçons l'IA à concevoir une stratégie **d'optimisation dynamique basée sur la planification**, au lieu de se contenter de suggérer une simple réduction de la taille des instances.
+2. **Fixation d'un objectif chiffré et agressif (50 % de réduction) :** Contrairement à une requête floue du type « réduis mes coûts », imposer un objectif ambitieux pousse le LLM à recommander des choix architecturaux radicaux mais hautement rentables, comme les instances Spot ou les Savings Plans.
+3. **Contrôle strict des risques (Constraints) :** En interdisant formellement l'application de la stratégie Spot à la base de données, nous court-circuitons les éventuelles hallucinations de l'IA qui risqueraient de provoquer une interruption de service (Downtime) catastrophique sous prétexte de faire des économies.
 
 ---
 
@@ -119,6 +118,6 @@ Une fois que vous avez obtenu les recommandations de l'IA via ce prompt, ne vous
 
 ## 🎯 Conclusion
 
-L'optimisation des coûts Cloud (FinOps) ne relève pas de la magie noire. C'est simplement le moyen le plus rapide et le plus certain de récupérer l'argent de votre entreprise qui s'évapore actuellement dans la nature.
+L'optimisation des coûts Cloud (FinOps) n'a rien de magique. C'est tout simplement le levier le plus rapide et le plus sûr pour récupérer l'argent de votre entreprise qui s'évapore actuellement dans la nature.
 
-Dès demain matin, téléchargez votre facture, fournissez-la à l'IA et ordonnez-lui : **"Divise ma facture de serveurs par deux."** 🍷
+Dès demain matin, téléchargez votre facture, soumettez-la à l'IA et donnez-lui cet ordre simple : **« Divise ma facture de serveurs par deux. »** 🍷

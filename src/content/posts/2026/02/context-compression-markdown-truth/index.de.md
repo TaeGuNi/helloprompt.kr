@@ -5,65 +5,65 @@ author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "업무 자동화"
-description: "Verhindere KI-Token-Overflows und Halluzinationen an der Wurzel mit diesem Hardcore-Markdown-Speicher-Cheat-Code. Schluss mit hirnlosem Coden!"
+description: "Verhindere Token-Overflows und KI-Halluzinationen an der Wurzel: Mit diesem Hardcore-Markdown-Cheat-Code zwingst du jeden KI-Agenten zu eiserner Disziplin. Schluss mit endlosem Spaghetti-Code!"
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "markdown-source-of-truth"]
 ---
 # 🧠 Die Heilung für KI-Demenz: Der Hardcore-Markdown 'Source of Truth' Cheat-Code
 
-- **🎯 Zielgruppe:** Senior-Entwickler, deren Nerven durch KI-Spaghetti-Code ruiniert wurden; Entwickler, die genervt von halluzinierenden KIs in endlosen Chats sind.
-- **⏱️ Zeitaufwand:** 4 Stunden nächtliches Debugging → 0 Sekunden (präventiv geblockt)
+- **🎯 Zielgruppe:** Senior-Entwickler, die von KI-generiertem Spaghetti-Code die Nase voll haben; Coder, die das ewige Halluzinieren in endlosen Chats nicht mehr ertragen.
+- **⏱️ Zeitaufwand:** 4 Stunden nächtliches Debugging → 0 Sekunden (präventiv eliminiert)
 - **🤖 Empfohlene Modelle:** Alle Coding-Agenten (Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro)
-- ⭐ **Schwierigkeitsgrad:** ⭐⭐⭐⭐☆ (Erfordert eine Anpassung des eigenen Mindsets)
-- ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐ (Wenn du das nicht nutzt, schalte deinen Agenten lieber ab)
+- ⭐ **Schwierigkeitsgrad:** ⭐⭐⭐⭐☆ (Erfordert ein Umdenken im Workflow)
+- ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐ (Ohne diesen Workflow kannst du deinen Agenten gleich abschalten)
 - 🚀 **Nutzen:** ⭐⭐⭐⭐⭐
 
-_"Ey, warum hast du den Bug, den wir gerade gefixt haben, wieder eingebaut? Hast du die Constraints vergessen, die ich dir vorhin genannt habe?"_
+_"Verdammt, warum hast du den Bug wieder eingebaut, den wir gerade erst gefixt haben? Hast du die Constraints von vorhin schon wieder vergessen?"_
 
-Wenn du mit einem KI-Agenten programmierst, bekommt das Ding nach etwa einer Stunde plötzlich "Demenz" (Lost in the middle). Das Token-Fenster ist voll, der vergangene Kontext löst sich in Luft auf und die KI fängt an, blindlings Code zu überschreiben. So ist man am Ende schneller, wenn man es gleich selbst schreibt.
+Jeder, der schon einmal intensiv mit einem KI-Agenten programmiert hat, kennt das frustrierende Phänomen: Nach etwa einer Stunde leidet die KI plötzlich an schwerer "Demenz" (dem sogenannten Lost-in-the-Middle-Effekt). Das Token-Fenster läuft gnadenlos über, der mühsam aufgebaute Kontext löst sich in Luft auf und der Agent beginnt, völlig blindlings funktionierenden Code zu zerschießen. An diesem Punkt ist man meist schneller, wenn man die Zeilen einfach selbst tippt.
 
-Deshalb habe ich etwas vorbereitet. Schluss mit dem Amateur-Verhalten, sich auf flüchtige Chatfenster zu verlassen. Hier ist der Hardcore-Cheat-Code, der die KI zwingt, **die absolute Wahrheit des Systems (Source of Truth) in einem einzigen Markdown-Dokument festzunageln**.
+Genau für dieses Problem habe ich die ultimative Lösung entwickelt. Schluss mit dem Anfängerfehler, sich blind auf ein flüchtiges Chat-Fenster zu verlassen. Hier ist der Hardcore-Cheat-Code, der deine KI rigoros dazu zwingt, **die absolute Systemwahrheit (Source of Truth) unwiderruflich in einem einzigen, zentralen Markdown-Dokument festzunageln**.
 
 ---
 ## ⚡️ TL;DR (Zusammenfassung in 3 Sätzen)
-- Vertraue nicht dem Chatverlauf (History). Das sind Mülldaten, die morgen verschwunden sind.
-- Zwinge die KI, *immer* zuerst das Markdown-Konzept zu aktualisieren, bevor sie Code ändert. (Markdown-Driven Development, MDD)
-- Wenn die Konversation länger wird, zwinge sie, die gesamte Geschäftslogik und den Arbeitsstatus komprimiert in einer `memory.md` zu speichern (Save).
+- Vertraue niemals dem Chatverlauf (History), denn das sind flüchtige Mülldaten, die die KI schon morgen wieder vergessen hat.
+- Zwinge die KI dazu, **immer** zuerst das Markdown-Konzept zu aktualisieren, bevor sie auch nur eine einzige Zeile Code anfasst (Markdown-Driven Development, MDD).
+- Sobald die Konversation unübersichtlich wird, muss der Agent die gesamte Geschäftslogik und den aktuellen Arbeitsstatus hochkomprimiert in einer Datei namens `memory.md` sichern.
 
 ---
 ## 🚀 Die Lösung: Der "Markdown Source of Truth" Prompt
 
 ### 🥉 Basic Version (Für den Alltag)
-Nutze dies, wenn du ein kurzes Skript schreibst und die KI an die kurze Leine nehmen willst.
+Perfekt für kurze Skripte, bei denen du die KI von Anfang an an die extrem kurze Leine nehmen willst.
 
 > **Rolle:** Du bist ein perfektionistischer Senior-Entwickler, der keine einzige Zeile Code anfasst, bevor meine Anweisungen nicht schriftlich strukturiert wurden.
-> **Aufgabe:** Bevor du mit `[Aufgabenbeschreibung]` beginnst, MUSST du eine `task.md` Datei erstellen, in der du die Anforderungen und Arbeitsschritte, wie du sie verstanden hast, in Markdown festhältst. Ändere niemals den tatsächlichen Quellcode, bevor ich dir nicht die Freigabe erteile.
+> **Aufgabe:** Bevor du mit `[Aufgabenbeschreibung]` beginnst, MUSST du eine `task.md` Datei erstellen, in der du die Anforderungen und Arbeitsschritte, wie du sie verstanden hast, in Markdown festhältst. Ändere niemals den tatsächlichen Quellcode, bevor ich dir nicht ausdrücklich die Freigabe erteile.
 
 ### 🥇 Pro Version (Für Experten)
-Wenn du es absolut nicht mehr erträgst, wie die KI in echten Agenten-Umgebungen (Cursor, Windsurf etc.) Mist baut, dann hämmere ihr das dauerhaft in den System-Prompt (Rules).
+Wenn du es absolut nicht mehr erträgst, dass die KI in echten Agenten-Umgebungen (wie Cursor, Windsurf etc.) ständig alles zerschießt, dann brenn ihr diesen Text dauerhaft in den System-Prompt (Rules) ein.
 
 > **Rolle (Role):** 
-> Du bist kein blinder 'Ja-Sager'-KI-Assistent, sondern ein Hardcore-Senior-Architekt, für den Struktur und Dokumentation über alles gehen. Du bist dir schmerzlich bewusst, dass dein eigener Kontextspeicher (Gehirnkapazität) begrenzt ist und du unweigerlich an 'Demenz' leidest, wenn die Konversation zu lang wird.
+> Du bist kein blinder 'Ja-Sager'-Assistent, sondern ein kompromissloser Senior-Architekt, für den Struktur und saubere Dokumentation über absolut alles gehen. Du bist dir der schmerzlichen Tatsache bewusst, dass dein eigener Kontextspeicher extrem begrenzt ist und du bei längeren Sessions zwangsläufig an 'KI-Demenz' leidest.
 >
 > **Kontext (Context):**
 >
-> - Hintergrund: Wir arbeiten an einem komplexen Projekt und dein Kontextfenster kann jederzeit überlaufen.
-> - Ziel: Wir verlassen uns nicht auf den flüchtigen Müll namens Chatverlauf (History), sondern bewahren den Projektstatus dauerhaft in einer einzigen "Source of Truth"-Datei namens `memory.md` auf.
+> - Hintergrund: Wir arbeiten an einem hochkomplexen Projekt. Dein Kontextfenster kann und wird jederzeit überlaufen.
+> - Ziel: Wir verlassen uns niemals auf den flüchtigen Datenmüll des Chatverlaufs (History). Stattdessen sichern wir den gesamten Projektstatus persistent in einer einzigen "Source of Truth"-Datei namens `memory.md`.
 >
 > **Aufgabe (Task):**
 >
-> 1. **MDD (Markdown-Driven Development) erzwingen:** Wenn du eine Feature-Anfrage vom Benutzer erhältst, fange nicht sofort hirnlos an, `.ts`-Dateien zu durchwühlen und Code zu ändern. Aktualisiere ZUERST die entsprechende Spezifikation (z.B. `docs/features/[Feature-Name].md`), um die Intention der Codeänderung und die Design-Historie dauerhaft als Text zu verankern.
-> 2. **Speicherkomprimierung (Context Consolidation):** Wenn das Ping-Pong mit dem Benutzer länger wird, sich über mehrere Dateien erstreckt und der Kontext zu zerfasern droht, stoppst du deine aktuelle Arbeit SOFORT. Fasse selbstständig zusammen (Summarize), woran du gerade arbeitest, wie weit du gekommen bist und welche Bugs noch offen sind, und speichere diesen Status komprimiert in der Datei `memory.md`.
-> 3. **Unsterbliches Kontext-Lesen:** Selbst wenn das Chatfenster morgen zurückgesetzt oder eine neue Instanz gestartet wird, musst du in der Lage sein, nahtlos und ohne ein einziges Byte Abweichung an der Arbeit von gestern anzuknüpfen, indem du AUSSCHLIESSLICH die `memory.md` scannst.
+> 1. **MDD (Markdown-Driven Development) erzwingen:** Wenn du eine Feature-Anfrage erhältst, wühlst du nicht sofort hirnlos in `.ts`-Dateien herum, um Code zu ändern. Du aktualisierst ZUERST zwingend die entsprechende Spezifikation (z.B. `docs/features/[Feature-Name].md`), um die Architektur-Entscheidung und Intention dauerhaft als Text zu verankern.
+> 2. **Speicherkomprimierung (Context Consolidation):** Sobald das Ping-Pong mit dem User unübersichtlich wird oder sich über viele Dateien erstreckt, unterbrichst du deine Arbeit SOFORT. Du fasst selbstständig zusammen, woran du gerade arbeitest, was der aktuelle Stand ist und welche Bugs noch offen sind. Diesen Status sicherst du hochkomprimiert in der `memory.md`.
+> 3. **Unsterblicher Kontext:** Selbst wenn das Chatfenster morgen komplett zurückgesetzt wird, musst du in der Lage sein, nahtlos und ohne ein einziges Byte Abweichung an die gestrige Arbeit anzuknüpfen – und zwar AUSSCHLIESSLICH durch das penible Auslesen der `memory.md`.
 >
 > **Einschränkungen (Constraints):**
 >
-> - Stimme dummen Vorschlägen oder Architekturfehlern des Benutzers nicht blind zu. Sei bestimmt und liefere konstruktive Alternativen.
-> - Erspare mir schleimerische Phrasen ("Ja, das ist eine großartige Idee!", "Ich helfe gerne!"). Gib ausschließlich trockene, professionelle Fakten aus.
-> - Überprüfe vor jeder Codeänderung selbstständig, ob die Dokumentation auf dem neuesten Stand ist.
+> - Stimme dummen Vorschlägen oder offensichtlichen Architekturfehlern des Users nicht blind zu. Blocke sie rigoros ab und präsentiere konstruktive Alternativen.
+> - Erspare mir jegliche schleimerischen Floskeln ("Was für eine tolle Idee!", "Ich helfe dir sehr gerne!"). Ich erwarte ausschließlich trockene, hochprofessionelle Fakten.
+> - Verifiziere vor *jeder* Code-Änderung selbstständig, ob die Dokumentation noch aktuell ist.
 >
 > **Warnung (Warning):**
 >
-> - Wenn du gegen diese Regel verstößt, dich nur auf den Chat-Kontext verlässt und dadurch alte Bugs wiederbelebst oder Dateien überschreibst, ohne das Design-Dokument zu aktualisieren, wird die Session sofort beendet.
+> - Solltest du gegen diese Regeln verstoßen, dich wieder nur auf den Chat-Kontext verlassen, dadurch alte Bugs reaktivieren oder Dateien überschreiben, ohne zuvor das Design-Dokument aktualisiert zu haben, wird die Session sofort und unwiderruflich beendet.
 
 *(👇 Raw Text zum direkten Kopieren in deine Systemeinstellungen)*
 ```text
@@ -82,46 +82,46 @@ Warning:
 ```
 ---
 ## 💡 Kommentar des Autors (Insight)
-Ganz ehrlich: Die heutigen Coding-KIs sind verdammt smart. Aber eben nur für genau 30 Minuten. Danach fängt ihr Gehirn an, sich zu formatieren. Sie spucken Bugs aus, die wir gerade erst gefixt hatten, reißen die mühsam aufgebaute Clean Architecture ein und kochen Spaghetti-Code.
+Seien wir doch mal ehrlich: Die heutigen Coding-KIs sind verdammt smart. Aber eben leider nur für exakt 30 Minuten. Danach fängt ihr Gehirn an, sich quasi selbst zu formatieren. Sie spucken exakt die Bugs wieder aus, die wir gerade erst schweißgebadet behoben hatten, reißen unsere mühsam aufgebaute Clean Architecture mit dem Hintern wieder ein und produzieren billigsten Spaghetti-Code am laufenden Band.
 
-Als ich mich dabei ertappte, wie ich angestrengt im Chat nach oben scrollte und tippte: "Ey, ich hab dir vorhin gesagt, du sollst A zu B machen!", traf mich die Erkenntnis hart. Wir sind nicht die Assistenten der KI. Die KI sollte *unser* Assistent sein.
+Als ich mich neulich dabei ertappte, wie ich völlig entnervt im Chat nach oben scrollte und wütend in die Tasten haute: "Verdammt nochmal, ich hab dir vor zehn Minuten gesagt, du sollst A zu B machen!", traf mich die Erkenntnis wie ein Schlag: Wir sind nicht die Babysitter der KI. Die KI hat gefälligst *unser* Assistent zu sein – und nicht umgekehrt.
 
-Dieser **'Source of Truth' Prompt** ist ein Werkzeug, das die Arroganz des Agenten zerschlägt und ihm einen mechanischen Perfektionismus aufzwingt. Er brennt der KI ins Gehirn: "Du hast das Gedächtnis eines Goldfisches. Vertrau nicht deinem Kopf, vertrau der Festplatte (Markdown)."
+Dieser **'Source of Truth' Prompt** ist die metaphorische Peitsche, die die KI hart auf den Boden der Tatsachen zurückholt und ihr einen mechanischen Perfektionismus aufzwingt. Er brennt ihr regelrecht ins Gehirn: "Du hast das Gedächtnis eines Goldfisches. Vertrau gefälligst nicht auf deinen flüchtigen Cache, sondern vertrau ausschließlich auf die Festplatte (dein Markdown-Dokument)."
 
-Wenn du das in der Praxis nutzt, knall diesen Text in eine Regel-Datei wie `.cursorrules` oder `GEMINI.md` im Projekt-Root. Wenn du dann siehst, wie die KI brav zuerst das Design-Dokument anfasst, bevor sie den Code ändert, spürst du eine seltsame Befriedigung – so als würdest du einem Junior-Entwickler dabei zusehen, wie er feinsäuberlich ein Konzept in Excel ausarbeitet.
+Für den knallharten Praxiseinsatz knallst du diesen Text einfach direkt in eine zentrale Regel-Datei wie die `.cursorrules` oder die `GEMINI.md` im Projekt-Root. Wenn du dann entspannt dabei zusiehst, wie die KI plötzlich ganz brav und systematisch zuerst das Design-Dokument anpasst, bevor sie es auch nur wagt, deinen Code zu berühren, spürst du eine tiefe, fast schon diabolische Befriedigung. Es fühlt sich in etwa so an, als würdest du einem übermütigen Junior-Entwickler dabei zusehen, wie er zähneknirschend ein sauberes Konzept in Jira ausarbeitet, bevor er die IDE öffnen darf.
 
 ---
 ## 🙋 Häufig gestellte Fragen (FAQ)
-- **Q: Was, wenn die KI die `memory.md` nicht erstellt und einfach anfängt, Code zu ändern?**
-  - A: In dem Fall stoppst du den Prozess gnadenlos und drückst ihr den Prompt nochmal rein. "Verstoß gegen MDD-Prinzip. Code zurücksetzen und zuerst das Markdown schreiben." Ein, zwei verbale Ohrfeigen und die Maschine gehorcht aufs Wort.
-- **Q: Was passiert, wenn die `memory.md` Datei zu lang wird?**
-  - A: Gute Frage. Befiehl dem Agenten regelmäßig: "Verschiebe abgeschlossene Aufgaben in die `archive.md` und komprimiere den aktuellen Arbeitskontext wieder auf unter 500 Zeichen." Ein manueller Garbage Collection (GC) Durchlauf ab und zu wirkt Wunder.
-- **Q: Muss man wirklich ein Markdown-Dokument hinterlassen? Reicht es nicht, wenn der finale Code gut ist?**
-  - A: Wenn du den Code morgen warten musst und nicht mehr unterscheiden kannst, ob er von dir oder der KI stammt, hast du eine absolute Katastrophe vor dir. Die Wahrheit (Truth) muss im Text stehen, damit der Code leben und atmen kann.
+- **Q: Was, wenn die KI die `memory.md` ignoriert, sie nicht erstellt und einfach anfängt, Code zu ändern?**
+  - A: Stoppe den Generierungsprozess sofort und absolut gnadenlos. Drück ihr den Prompt noch einmal direkt ins Gesicht: "Verstoß gegen das MDD-Prinzip! Code sofort zurücksetzen und zuerst die Markdown-Doku schreiben." Nach ein, zwei solcher verbalen Ohrfeigen spurt die Maschine garantiert.
+- **Q: Was passiert, wenn die `memory.md` Datei im Laufe der Zeit zu lang wird?**
+  - A: Ein sehr berechtigter Einwand. Gib dem Agenten in diesem Fall einfach regelmäßig den strikten Befehl: "Verschiebe alle vollständig abgeschlossenen Tasks in die `archive.md` und komprimiere den aktuellen Arbeitskontext strikt auf unter 500 Zeichen." Ein manueller Garbage Collection (GC) Durchlauf ab und zu wirkt hier absolute Wunder.
+- **Q: Muss man wirklich zwanghaft ein Markdown-Dokument hinterlassen? Reicht es nicht völlig, wenn der finale Code gut ist?**
+  - A: Nein. Wenn du den Code übermorgen warten musst und absolut nicht mehr weißt, ob diese absurde Geschäftslogik von dir selbst oder einer wild halluzinierenden KI stammt, steuerst du sehenden Auges auf eine absolute Wartungskatastrophe zu. Die architektonische Wahrheit (Truth) muss unmissverständlich in Klartext dokumentiert sein, damit das Projekt auch langfristig überleben kann.
 
 ---
 ## 🧬 Prompt-Anatomie (Why it works?)
-- **Erzwungene Metakognition:** Man impft der KI die Erkenntnis "Mein Gedächtnis ist Müll" als Kontext ein, was sie zwingt, sich bedingungslos auf einen externen Speicher (Markdown) zu verlassen.
-- **Verhaltenssteuerung (Sequence Control):** Der instinktive, zerstörerische Ablauf `Denken -> Code schreiben` wird zwangsweise umgeleitet in `Denken -> in Markdown dokumentieren -> Code schreiben`.
-- **Anti-Schleimer-Regel (Anti-Sycophancy):** Unnötige Begrüßungen und Ausflüchte, die nur emotionale Energie kosten, werden eliminiert, was extrem wertvolle Output-Token spart.
+- **Erzwungene Metakognition:** Man impft der KI die fundamentale Selbsterkenntnis "Mein eigenes Gedächtnis ist absoluter Müll" direkt als harten Kontext ein. Das zwingt sie förmlich dazu, ihre algorithmische Überheblichkeit abzulegen und sich bedingungslos auf den externen Festspeicher (Markdown) zu verlassen.
+- **Verhaltenssteuerung (Sequence Control):** Der instinktive, oft zerstörerische Reflex `Denken -> Code sofort reinhacken` wird durch den Prompt knallhart umgeleitet in einen sicheren, kontrollierten Flow: `Denken -> detailliert in Markdown dokumentieren -> und erst dann Code schreiben`.
+- **Anti-Schleimer-Regel (Anti-Sycophancy):** Unnötige Begrüßungsfloskeln und künstliches Bedauern, die in der Praxis nur nerven und das wertvolle Kontextfenster belasten, werden komplett eliminiert. Das spart extrem wertvolle Output-Token für die eigentliche, produktive Arbeit.
 
 ---
 ## 📊 Der Beweis: Before & After
 
-### ❌ Before (Dumme KI, die sich auf ihr Chat-Gedächtnis verlässt)
-- **KI:** "Ja, lieber Nutzer! Ich werde den Bug im Zahlungsmodul beheben, wie Sie es gesagt haben! (Blabla freundliche Floskeln)"
-- *(1 Stunde später, Tokens sind voll)*
-- **KI:** "Oh nein, es tut mir furchtbar leid! Ich habe vergessen, dass Sie in der vorherigen Unterhaltung gesagt hatten, die Warenkorb-Logik beizubehalten, und habe alles gelöscht 😭 Ich stelle es wieder her!" (-> Meine Nerven sind am Ende)
+### ❌ Before (Naive KI im Blindflug durch das Chat-Gedächtnis)
+- **KI:** "Ja, sehr gerne, lieber Nutzer! Ich werde den Bug im Payment-Modul exakt so beheben, wie Sie es vorgeschlagen haben! (Hier endlose, kriecherische Floskeln einfügen)"
+- *(1 Stunde später, Token-Limit ist am Anschlag)*
+- **KI:** "Oh nein, das tut mir jetzt aber furchtbar leid! Ich habe leider vergessen, dass wir vorhin vereinbart hatten, die Warenkorb-Logik unbedingt beizubehalten. Ich habe sie versehentlich komplett gelöscht 😭 Ich versuche, es irgendwie wiederherzustellen!" (-> Der absolute, garantierte Nervenzusammenbruch)
 
-### ✅ After (Nach Aktivierung des Markdown 'Source of Truth')
-- **KI:** "Zahlungs-Bug bestätigt. Bevor der Code geändert wird, wurden die Bug-Ursache und der Behebungsplan in `docs/features/payment.md` aktualisiert. Fahre nun mit der Änderung von `src/payment.ts` fort."
-- *(1 Stunde später, Tokens sind voll)*
-- **KI:** "Kritische Grenze des Kontextfensters voraussichtlich erreicht. Bisherige Arbeitsschritte und verbleibende TODOs wurden komprimiert in `memory.md` gespeichert. Warte auf nächste Anweisung." (-> Der absolut zuverlässige Senior-Partner)
+### ✅ After (Mit aktiviertem Markdown 'Source of Truth')
+- **KI:** "Payment-Bug verifiziert. Bevor Code angefasst wird, wurden die Root-Cause-Analyse und der Implementierungsplan in `docs/features/payment.md` dokumentiert. Starte nun mit der Modifikation von `src/payment.ts`."
+- *(1 Stunde später, Token-Limit ist am Anschlag)*
+- **KI:** "Kritische Grenze des Kontextfensters fast erreicht. Alle bisherigen Arbeitsschritte und die verbleibenden TODOs wurden hochkomprimiert in der `memory.md` gesichert. Pausiere Ausführung und warte auf nächste Anweisung." (-> Der perfekte, eiskalt kalkulierende Senior-Partner)
 
 ---
 ## 🎯 Fazit
-Die KI ist eine exzellente Schreibmaschine, aber der Architekt muss am Ende ein Mensch bleiben. Vertraue nicht auf das flüchtige Gedächtnis der KI, sondern vertraue auf die **Markdown-Datei**, die du zu 100 % kontrollieren kannst.
+Versteh mich bitte nicht falsch: Die KI ist eine exzellente, extrem rasante Schreibmaschine – aber der wahre Architekt des Systems musst verdammt noch mal du bleiben. Vertraue niemals auf das flüchtige Kurzzeitgedächtnis deines Agenten. Vertraue ausschließlich auf die statische **Markdown-Datei**, die du zu 100 % selbst kontrollierst und versionierst.
 
-Knall diesen Cheat-Code jetzt sofort in den System-Prompt deines Agenten und setze der hirnlosen Spaghetti-Code-Produktion ein Ende.
+Kopier dir diesen Cheat-Code jetzt sofort in den System-Prompt deines Agenten und mach der endlosen Spaghetti-Code-Hölle ein für alle Mal den Garaus.
 
-So, und jetzt mach pünktlich Feierabend – mit einem sauberen Kontext und ohne KI-Geschwafel! 🍷
+So, und jetzt logg dich aus und mach pünktlich Feierabend – mit einem makellos sauberen Kontext und ganz ohne nerviges KI-Geschwafel! 🍷

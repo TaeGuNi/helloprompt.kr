@@ -5,31 +5,37 @@ author: "Antigravity"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "Prompt Tips"
-description: "A prompt guide to quickly analyze hard-to-read, hundreds-of-pages long DART (EDGAR) business reports and compare core metrics using AI."
+description: "A comprehensive prompt guide to rapidly analyzing hundreds of pages of dense DART/EDGAR business reports and comparing core financial metrics using AI."
 tags: ["Stock", "Investing", "DisclosureAnalysis", "Samsung", "SKHynix", "DART"]
 ---
 
-# 📝 How to Compare Samsung vs SK Hynix Corporate Disclosures with AI in 3 Minutes
+# 📝 How to Compare Samsung vs. SK Hynix Corporate Disclosures with AI in 3 Minutes
 
-- **🎯 Target Audience:** Value investors, Beginners struggling with financial statements, Aspiring analysts
+- **🎯 Target Audience:** Value investors, beginners struggling with financial statements, aspiring equity analysts
 - **⏱️ Time Saved:** 2 hours → 3 minutes
-- **🤖 Recommended AI:** AI capable of analyzing long texts and files (Claude 3.5 Sonnet, ChatGPT Plus, etc.)
+- **🤖 Recommended AI:** AI capable of analyzing large documents and files (Claude 3.5 Sonnet, ChatGPT Plus, etc.)
 
 - ⭐ **Difficulty:** ⭐⭐⭐☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
 - 🚀 **Utility:** ⭐⭐⭐⭐☆
 
-> _"Still just endlessly scrolling through business reports open in dozens of tabs? Leave it to AI now."_
+> _"Still endlessly scrolling through dense business reports across dozens of open tabs? Let AI handle the heavy analytical lifting."_
 
-You've probably heard the saying, 'The true value of a stock is in its disclosures.' However, for a retail investor to read and compare the hundreds of pages of business reports for both Samsung Electronics and SK Hynix is like finding a needle in a haystack. We reveal an amazing prompt that lets AI compare complex financial statements and divisional earnings into a clean table in just 3 minutes.
+You have probably heard the age-old Wall Street adage: "The true value of a stock is forever hidden deep within its disclosures." Yet, for the average retail investor, the reality of acting on this advice is nothing short of a nightmare. You eagerly open the DART or EDGAR database, download the latest quarterly reports for tech titans like Samsung Electronics and SK Hynix, and are immediately hit with a 300-page wall of dense, impenetrable accounting jargon. You simply want to find the core operating margin of the semiconductor division, but instead, you are buried under endless footnotes about depreciating assets and foreign exchange liabilities.
+
+This manual grind is not just exhausting; it is a massive liability. While you are spending your entire weekend painstakingly cross-referencing PDFs and building Excel spreadsheets from scratch, institutional investors armed with algorithmic parsing tools have already processed the data and executed their trades. By the time you finally figure out which company has the better factory utilization rate, the market has moved, and you are left holding the bag. Relying on superficial news headlines or YouTube rumors because the raw data is too overwhelming is a guaranteed recipe for devastating financial losses.
+
+But what if you could instantly hire a Wall Street-level fundamental analyst to read, comprehend, and compare these massive documents for you in seconds? By utilizing a highly engineered, precisely calibrated AI prompt with advanced models like Claude 3.5 Sonnet or ChatGPT Plus, you can now upload those raw, hundreds-of-pages-long PDFs directly. The AI will effortlessly slice through the corporate fluff and extract the exact, division-specific comparative metrics you desperately need.
+
+In a mere 3 minutes, you will go from staring blankly at a migraine-inducing wall of text to reviewing a perfectly structured, side-by-side comparative matrix of Samsung's DS division and SK Hynix. You will finally be able to make confident, data-driven decisions, save countless hours of grueling research, and effectively level the playing field against professional institutional analysts. Get ready to permanently transform your investment research process and uncover the hidden alpha in corporate disclosures.
 
 ---
 
 ## ⚡️ 3-Line Summary (TL;DR)
 
-1. You can extract only the core metrics needed for 'investment judgment' from hundreds of pages of business reports.
-2. You can compare the revenue, operating profit margin, and market share of Samsung Electronics (DS Division) and SK Hynix at a glance.
-3. Even if you don't know financial statements, you can grasp the company's fundamentals through the AI's easy interpretation.
+1. Instantly extract only the critical fundamental metrics essential for smart value investing from hundreds of pages of dense corporate disclosures.
+2. Compare the revenue, operating profit margins, and market dominance of Samsung Electronics (DS Division) and SK Hynix side-by-side at a single glance.
+3. Grasp a company's underlying financial health through easily digestible AI interpretations, even if you have zero background in reading complex financial statements.
 
 ---
 
@@ -37,61 +43,61 @@ You've probably heard the saying, 'The true value of a stock is in its disclosur
 
 ### 🥉 Basic Version
 
-Use this when you only want to compare the most basic revenue and profit scales of the two companies.
+Use this when you need a rapid, high-level comparison of the two companies' revenue streams and profit scales without diving into the weeds.
 
-> **Role:** You are a `[Financial and Disclosure Analysis Expert]`.
-> **Task:** Based on the latest quarterly reports, compare the revenue and operating profit of `[Samsung Electronics Semiconductor Division]` and `[SK Hynix]` in a table.
+> **Role:** You are an `[Expert in Financial and Corporate Disclosure Analysis]`.
+> **Task:** Based on their most recent quarterly reports, create a comparative table showing the revenue and operating profit of the `[Samsung Electronics Semiconductor Division]` and `[SK Hynix]`.
 
 ### 🥇 Pro Version
 
-Use this when you want a deep qualitative/quantitative comparison covering business structure, utilization rates, and market share, beyond just simple numbers.
+Deploy this engineered prompt when you require a rigorous, qualitative and quantitative deep dive covering business structures, factory utilization rates, and market share, going far beyond surface-level numbers.
 
-> **Role (Role):** You are a `[Lead Portfolio Manager at an Expert Value Investment Institution]` with 15 years of experience.
+> **Role:** You are a `[Lead Portfolio Manager at a Top-Tier Value Investing Firm]` with 15 years of industry experience.
 >
-> **Context (Context):**
+> **Context:**
 >
-> - Background: `[Precicely comparing fundamentals to decide which of the two semiconductor companies to invest in long-term]`
-> - Advice: The analysis must be based on the core contents of the 'Business Reports' from the corporate disclosure system (like DART/EDGAR).
+> - Background: `[I need to rigorously compare fundamental health to determine which of these two semiconductor companies is the better long-term investment]`
+> - Advice: Your analysis must be strictly based on the core data found in official 'Business Reports' from corporate disclosure systems (such as DART or EDGAR).
 >
-> **Task (Task):**
+> **Task:**
 >
-> 1. Compare the following metrics based on the recent quarterly/annual data of `[Samsung Electronics DS (Memory) Division]` and `[SK Hynix]` in a Table.
+> 1. Compare the following metrics based on the latest quarterly/annual data for the `[Samsung Electronics DS (Memory) Division]` and `[SK Hynix]` in a well-structured table.
 >    - Metrics: Revenue, Operating Profit Margin, R&D Investment Ratio, Factory Average Utilization Rate, Core Product Market Share (DRAM, NAND, etc.)
-> 2. Based on the data above, explain the **'Strongest Competitive Moat'** each company is currently appealing to the market through their disclosures, in 2 sentences each.
-> 3. Identify and point out one by one the potential risks revealed in each company's financial statements (e.g., increase in inventory assets, debt ratio, etc.).
+> 2. Based on the data above, synthesize the **'Strongest Competitive Moat'** that each company is projecting to the market through their disclosures, summarized in exactly two sentences per company.
+> 3. Identify and explicitly list the potential risks hidden within each company's financial statements (e.g., rising inventory assets, increasing debt ratios, etc.).
 >
-> **Constraints (Constraints):**
+> **Constraints:**
 >
-> - The output format must use a mix of clear Headings and Markdown Tables.
-> - If professional financial regulatory (IFRS) terms appear, add an easy-to-understand meaning for beginners in parentheses.
+> - The output format must utilize a clean mix of Markdown headings and tables.
+> - Whenever professional financial or regulatory terms (like IFRS standards) are used, provide a beginner-friendly explanation in parentheses.
 >
-> **Warning (Warning):**
+> **Warning:**
 >
-> - Base the data on the most recently disclosed confirmed figures (or consensus), but if the numbers are uncertain, search for them or specify "Requires Disclosure Check." Do not arbitrarily make up numbers.
-
----
+> - Base all data on the most recently disclosed confirmed figures (or consensus estimates). If specific numbers are unavailable or uncertain, you must explicitly state "Requires Disclosure Check." Do not hallucinate or arbitrarily invent numbers under any circumstances.
 
 ## 💡 Insight
 
-The most powerful aspect of this prompt lies in the 'Comparison'. If you analyze just one company, it's hard to tell if the numbers are good or bad. However, if you place the requirements (e.g., R&D ratio, utilization rate) of two strong competitors side-by-side in a table, you can intuitively see who is leading the market right now. In practice, if you download the PDF documents from the disclosure system and attach them to the AI (especially Claude) along with the prompt, you will get goosebump-inducing accuracy.
+The true power of this specific prompt architecture lies in the strategic execution of **'Comparison'** combined with precise contextual framing. Analyzing a single company's financial statements in a vacuum makes it incredibly difficult to gauge whether its profit margins or operational efficiencies are genuinely competitive. Are their numbers actually impressive, or is the entire macroeconomic sector simply experiencing a temporary boom? However, by systematically placing the vital, fundamental statistics—such as R&D investment ratios, inventory turnover, or factory utilization rates—of two fierce industry rivals side-by-side in a standardized matrix, you instantly strip away the PR noise. This comparative contrast reveals exactly who possesses the stronger competitive moat and who is actually dominating the market. 
+
+In real-world practice, if you download the original, unedited PDF business reports from a corporate disclosure system like DART or EDGAR and upload them directly to an advanced AI model (Claude 3.5 Sonnet is exceptionally highly recommended for this due to its massive context window and superior document parsing capabilities) alongside this Pro prompt, the accuracy and analytical depth of the resulting output will genuinely give you goosebumps. You are effectively forcing the AI to step into the shoes of a seasoned, skeptical financial analyst. It digs past the superficial executive summaries to unearth the raw, unvarnished truth about a company's fundamental health. This isn't just about reading faster; it is about synthesizing vast amounts of unstructured, highly technical data into sharp, actionable investment intelligence. By forcing the AI to explicitly hunt for hidden risks, you can spot critical red flags—like ballooning inventory assets or deteriorating debt ratios—long before the broader market catches on, fiercely protecting your investment capital.
 
 ---
 
 ## 🙋 FAQ
 
-- **Q: Can I upload original disclosure PDF or Excel files to the AI?**
-  - A: Yes! If you upload the Samsung Electronics and SK Hynix business report files to an AI with an attachment feature (like ChatGPT Plus or Claude 3.5 Sonnet) and provide the Pro prompt above, you will get a perfect analysis with zero hallucinations (errors).
+- **Q: Can I just upload the original PDF or Excel disclosure files directly to the AI?**
+  - A: Absolutely! If you upload the raw, hundreds-of-pages-long business report files for both Samsung Electronics and SK Hynix to an AI that supports robust file attachments (like ChatGPT Plus or Claude 3.5 Sonnet) and feed it the Pro prompt provided above, you will receive a flawless, hallucination-free analysis directly extracted from the source documents.
 
-- **Q: Is specifying the business division (`[Samsung Electronics DS Division]`) absolutely necessary?**
-  - A: It is crucial. Because Samsung Electronics also sells smartphones and home appliances, to compare them on the same 'semiconductor' baseline with SK Hynix, you definitely must limit it to the 'DS Division (and memory specifically)' for an accurate Apple-to-Apple comparison.
+- **Q: Is it strictly necessary to specify the exact business division, like `[Samsung Electronics DS Division]`?**
+  - A: It is absolutely crucial. Because Samsung Electronics is a massive conglomerate that also manufactures smartphones and home appliances, you must explicitly restrict the AI's analytical scope to the 'DS Division (specifically Memory)'. Without this constraint, the AI will blend the financials of washing machines with semiconductors, ruining the accuracy of your apples-to-apples comparison against a pure-play memory manufacturer like SK Hynix.
 
 ---
 
 ## 🧬 Why it works?
 
-1. **Metrics Segmentation:** By clearly specifying core disclosure metrics that actual fundamental investors look at, such as 'Utilization Rate' and 'R&D Ratio', we prevented nonsensical answers.
-2. **Apple-to-Apple Condition:** We designed a logical comparison by specifying Samsung Electronics' 'DS Division' rather than the entire company.
-3. **Risk Extraction:** By preventing it from only listing the good points and forcing it to find 'risks in the financial statements', we added an objective investment judgment function.
+1. **Metrics Segmentation:** By clearly specifying the exact core metrics that real-world fundamental investors care about—such as 'Utilization Rate' and 'R&D Ratio'—we strictly prevent the AI from generating generic, unhelpful, or superficial summaries that fail to drive investment decisions.
+2. **Apples-to-Apples Condition:** We architected a perfectly logical comparison baseline by deliberately isolating Samsung Electronics' 'DS Division' rather than evaluating the entire corporate entity, ensuring the data aligns perfectly against a specialized competitor.
+3. **Risk Extraction:** By explicitly forbidding the AI from only highlighting positive metrics and forcing it to actively hunt for 'risks hidden within the financial statements', we built a highly objective, defensive investment judgment tool that protects your capital.
 
 ---
 
@@ -117,8 +123,8 @@ I will compare the core fundamentals of the two companies from the perspective o
 | Product Share | DRAM #1, NAND #1 | DRAM #2 (HBM #1), NAND #2 |
 
 🛡️ **[Strong Competitive Moat]**
-- **Samsung Electronics:** An overwhelming facility investment capability based on massive capital, and a turnkey (integrated production) system of memory-foundry-packaging.
-- **SK Hynix:** A leading position in HBM (High Bandwidth Memory) technology, the core of the AI era, and securing a strong ally in NVIDIA.
+- **Samsung Electronics:** An overwhelming facility investment capability fueled by massive capital reserves, alongside a turnkey (integrated production) system spanning memory, foundry, and packaging.
+- **SK Hynix:** An undisputed leading position in HBM (High Bandwidth Memory) technology—the core hardware of the AI era—bolstered by a rock-solid alliance with NVIDIA.
 
 ⚠️ **[Potential Risk Check]**
 (...)
@@ -128,6 +134,6 @@ I will compare the core fundamentals of the two companies from the perspective o
 
 ## 🎯 Conclusion
 
-Read difficult and dry corporate disclosures by having AI translate them for you.
+Stop struggling with dry, impenetrable corporate disclosures that drain your time and energy. Let a highly tuned AI translate those massive walls of text into sharp, actionable intelligence in mere minutes. 
 
-It’s time to start real 'Value Investing' based on data! 🍷
+It’s time to stop guessing and start practicing real, data-driven value investing! 🍷

@@ -8,16 +8,18 @@ category: "프롬프트 엔지니어링"
 description: "O cheat code definitivo com 12 regras inegociáveis de um desenvolvedor sênior para blindar seu Design System. Elimine as alucinações de design da sua IA direto na fonte."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "design-system-identity"]
 ---
+
 # 📝 🤬 Prompt 'Arquiteto Louco' para Transformar a IA Novata em um Designer Sênior
 
 - **🎯 Recomendado para:** Desenvolvedores Front-end e Product Managers exaustos de ver a consistência do design quebrar a cada novo componente.
 - **⏱️ Tempo necessário:** 1 hora de revisão de design → Reduzido para 10 segundos
 - **🤖 Modelos recomendados:** Modelos de alto desempenho (Claude 3.5 Sonnet, GPT-4o, etc.)
+
 - ⭐ **Dificuldade:** ⭐⭐⭐☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidade:** ⭐⭐⭐⭐⭐
 
-_"A sua IA ainda cospe cores em hardcode toda vez que você pede para ela criar um simples botão?"_
+> _"A sua IA ainda cospe cores hardcoded toda vez que você pede para ela criar um simples botão?"_
 
 Este prompt carrega a fúria de um arquiteto de software sênior que tem vontade de quebrar o teclado ao ver um Design System desmoronar. Chega de implorar à IA com "por favor, faça um design bonitinho". Você precisa domá-la com pulso firme e submetê-la a regras matemáticas perfeitas e inegociáveis. 
 
@@ -41,7 +43,7 @@ Ideal para refatorações ágeis de CSS ou correções pontuais em seu guia de e
 
 > **Papel (Role):** Você é um 'Arquiteto Sênior de Sistemas de Design' implacável e que não aceita concessões.
 > 
-> **Tarefa (Task):** Analise o `[código/documento de requisitos]` fornecido abaixo e identifique todas as cores hardcoded ou pixels arbitrários (números mágicos). Em seguida, refatore tudo perfeitamente para que todas as margens e espaçamentos sejam múltiplos de 4px/8px e as cores sigam um sistema de tokens de 3 níveis.
+> **Tarefa (Task):** Analise o `[código ou documento de requisitos]` fornecido abaixo e identifique todas as cores hardcoded ou pixels arbitrários (números mágicos). Em seguida, refatore tudo perfeitamente para que todas as margens e espaçamentos sejam múltiplos de 4px ou 8px e as cores sigam um sistema de tokens de 3 níveis.
 > 
 > **Restrições (Constraints):** 
 > - Omita explicações inúteis ou saudações.
@@ -87,7 +89,7 @@ Essencial para o setup inicial de projetos ou para o desenvolvimento de componen
 
 ## 💡 Comentário do Autor (Insight)
 
-A motivação por trás deste prompt é muito simples: se você pedir para a IA montar uma UI do zero, em 90% das vezes ela entregará um autêntico **"Lixo Bonito" (Beautiful Garbage)**. Você verá cores em hardcode espalhadas por toda parte, margens repletas de "números mágicos" aterrorizantes (como 13px ou 17px) e um Dark Mode caótico, ramificado de forma amadora dentro dos próprios componentes.
+A motivação por trás deste prompt é muito simples: se você pedir para a IA montar uma UI do zero, em 90% das vezes ela entregará um autêntico **"Lixo Bonito" (Beautiful Garbage)**. Você verá cores hardcoded espalhadas por toda parte, margens repletas de "números mágicos" aterrorizantes (como 13px ou 17px) e um Dark Mode caótico, ramificado de forma amadora dentro dos próprios componentes.
 
 Na vida real, esse tipo de código desencadeia um desastre absoluto no momento em que você precisa alterar o tema global ou adicionar suporte a novos idiomas. Foi exatamente para evitar esse caos que criei este cheat code.
 
@@ -141,7 +143,7 @@ Aplicações de alto nível não sobrevivem apenas de intuição visual; elas de
 ```
 
 - **Relatório de Refatoração (Exemplo de saída da IA):**
-  - [Regra 1, 11] Cores em hardcode e definições explícitas de Dark Mode foram removidas. Substituídas pela estrutura de Semantic Tokens (`bg-primary`).
+  - [Regra 1, 11] Cores hardcoded e definições explícitas de Dark Mode foram removidas. Substituídas pela estrutura de Semantic Tokens (`bg-primary`).
   - [Regra 2] Margens contendo números mágicos (15px, 7px) foram arredondadas (snap) para se enquadrarem no grid de 8px (`px-4`, `py-2`).
   - [Regra 6] O anel de foco padrão do mouse foi desativado; implementado o Focus Ring global ativado exclusivamente pela navegação via teclado.
   - [Regra 8, 9] Injeção de `aria-label` e adição de ícone semântico para suporte a daltônicos e leitores de tela.

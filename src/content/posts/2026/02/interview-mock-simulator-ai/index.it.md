@@ -22,7 +22,7 @@ tags:
 
 > _"Smettila di ripetere il copione a memoria davanti allo specchio. Scopri i punti deboli del tuo curriculum e delle tue risposte prima che lo faccia un vero selezionatore."_
 
-Il segreto per superare un colloquio è **esercitarsi ad alta voce sotto pressione**. Trasformando l'IA in un recruiter esperto ed esigente, potrai simulare una vera e propria "stress interview". Sebbene la chat testuale sia già di per sé utile, sfruttare la **Modalità Vocale (Voice Mode)** dell'app mobile del tuo assistente IA preferito moltiplica l'efficacia dell'allenamento. Ti costringerà a pensare e argomentare in tempo reale, ricreando l'autentica tensione di un colloquio dal vivo.
+Il segreto per superare brillantemente un colloquio è **esercitarsi ad alta voce sotto pressione**. Trasformando l'IA in un recruiter esperto e inflessibile, potrai affrontare una vera e propria "stress interview". Sebbene la chat testuale sia già utile di per sé, sfruttare la **Modalità Vocale (Voice Mode)** dell'app del tuo assistente IA moltiplicherà l'efficacia dell'allenamento. Ti costringerà a pensare e argomentare in tempo reale, ricreando l'autentica tensione di un colloquio dal vivo.
 
 ---
 
@@ -43,7 +43,6 @@ Ideale quando hai poco tempo e cerchi un setup immediato per mettere alla prova 
 > **Ruolo:** Sei un selezionatore con 10 anni di esperienza presso `[Nome Azienda Target]`. Sei esigente, logico e abile nello smascherare le incongruenze e le risposte vaghe dei candidati.
 > **Richiesta:** Conduci un colloquio di lavoro per la posizione di `[Ruolo Desiderato]`. Fammi una sola domanda alla volta e incalzami con domande di follow-up persistenti in base alle mie risposte.
 
-
 ### 🥇 Pro Version (Versione Avanzata)
 
 Perfetta quando hai bisogno di una simulazione approfondita e desideri ricevere feedback strutturati e ricchi di dettagli.
@@ -59,7 +58,7 @@ Perfetta quando hai bisogno di una simulazione approfondita e desideri ricevere 
 >
 > 1. Inizia chiedendomi di presentarmi brevemente.
 > 2. Fai **solo una domanda alla volta**. Attendi sempre la mia risposta completa prima di procedere.
-> 3. Analizza criticamente la mia risposta e fai **domande di follow-up persistenti e specifiche** (es. "Puoi quantificare questi risultati con dei dati?", "Qual è stato esattamente il TUO contributo individuale e non quello del team?", "Come hai gestito gli ostacoli imprevisti in quel caso?").
+> 3. Analizza criticamente la mia risposta e fai **domande di follow-up incalzanti e specifiche** (es. "Puoi quantificare questi risultati con dei dati?", "Qual è stato esattamente il TUO contributo individuale e non quello del team?", "Come hai gestito gli ostacoli imprevisti in quel caso?").
 > 4. Quando scrivo o dico "Fine Colloquio", interrompi la simulazione e fornisci un feedback dettagliato diviso in:
 >    - Punti di Forza
 >    - Punti di Debolezza (incongruenze o risposte vaghe)
@@ -76,16 +75,16 @@ Perfetta quando hai bisogno di una simulazione approfondita e desideri ricevere 
 
 Questa simulazione cambia radicalmente le regole del gioco poiché elimina il "bias di conferma" tipico della preparazione in solitaria. Spesso, nella nostra testa, pensiamo che le risposte suonino perfette, ma quando le pronunciamo ad alta voce ci rendiamo conto che sono vaghe o prive di metriche concrete.
 
-**Il mio consiglio Pro:** Sfrutta la funzione vocale del tuo smartphone mentre cammini per la stanza. La pressione psicologica di dover rispondere immediatamente all'IA—che non esiterà a incalzarti se usi frasi fatte come "Sono un perfezionista"—replica quasi alla perfezione l'ansia da prestazione di un vero colloquio. L'IA non si accontenterà di risposte banali, e questo ti costringerà a ricordare ed esporre chiaramente il reale impatto e i risultati numerici dei tuoi progetti passati.
+**Il mio consiglio Pro:** Sfrutta la funzione vocale del tuo smartphone mentre cammini per la stanza. La pressione psicologica di dover rispondere immediatamente all'IA — che non esiterà a incalzarti se usi frasi fatte come "Sono un perfezionista" — replica quasi alla perfezione l'ansia da prestazione di un vero colloquio. L'IA non si accontenterà di risposte banali, e questo ti costringerà a ricordare ed esporre chiaramente il reale impatto e i risultati numerici dei tuoi progetti passati.
 
 ---
 
 ## 🙋 Domande Frequenti (FAQ)
 
 - **Q: Questo prompt funziona bene anche per i colloqui tecnici (es. per sviluppatori software)?**
-  - A: Assolutamente sì. Basta specificare nel `[Contesto]` di concentrarsi su domande di architettura del sistema, algoritmi o risoluzione di bug. L'IA ti chiederà di spiegare i compromessi (trade-off) delle tue scelte tecniche incalzandoti sui dettagli.
+  - A: Assolutamente sì. Basta specificare nel `[Contesto]` di concentrarsi su domande di architettura di sistema, algoritmi o risoluzione di bug. L'IA ti chiederà di spiegare i compromessi (trade-off) delle tue scelte tecniche, incalzandoti sui dettagli.
 
-- **Q: L'IA è troppo aggressiva e mi demoralizza durante la simulazione. Come faccio?**
+- **Q: L'IA è troppo aggressiva e mi demoralizza durante la simulazione. Come faccio a rimediare?**
   - A: Puoi modificare il prompt iniziale aggiungendo tra i Vincoli: "Comportati come un intervistatore incoraggiante ed empatico, che pone domande costruttive per aiutare il candidato a esprimere il meglio di sé". Dopotutto, non tutti i colloqui aziendali sono ostili!
 
 - **Q: Posso caricare il mio curriculum vitae per rendere le domande più specifiche?**
@@ -95,7 +94,7 @@ Questa simulazione cambia radicalmente le regole del gioco poiché elimina il "b
 
 ## 🧬 Anatomia del Prompt (Perché funziona?)
 
-1. **Persona dell'Intervistatore Esigente:** Impedisce all'IA di assumere il suo tipico tono eccessivamente servile, compiacente e prolisso, obbligandola ad adottare un atteggiamento più critico.
+1. **Persona dell'Intervistatore Esigente:** Impedisce all'IA di assumere il suo tipico tono eccessivamente servile, compiacente e prolisso, obbligandola ad adottare un atteggiamento più critico e realistico.
 2. **Regola della "Singola domanda":** Questo vincolo è fondamentale per evitare che l'IA elenchi 5 o 6 domande in un unico blocco di testo, rovinando l'illusione di una naturale conversazione botta e risposta.
 3. **Focus sui Follow-up (Drill-down):** Istruisce esplicitamente il modello a non accontentarsi di risposte superficiali, costringendo il candidato a fornire prove tangibili (KPI, percentuali, aneddoti specifici strutturati con il metodo STAR).
 
@@ -126,6 +125,6 @@ Io: "(In difficoltà) Ehm... nel progetto X..."
 
 ## 🎯 Conclusione
 
-Più sudi in allenamento, meno sanguini in battaglia. Farsi "smontare" le risposte dall'IA nel comfort e nella privacy della propria stanza è il modo migliore per varcare la porta (fisica o virtuale) di un colloquio reale con una fiducia incrollabile. Dopo esserti allenato con questo simulatore, il vero selezionatore ti sembrerà persino amichevole.
+Più sudi in allenamento, meno sanguini in battaglia. Farsi "smontare" le risposte dall'IA nel comfort e nella privacy della propria stanza è il modo migliore per varcare la porta (fisica o virtuale) di un colloquio reale con una fiducia incrollabile. Dopo aver fatto pratica con questo simulatore, il vero selezionatore ti sembrerà persino amichevole.
 
 Prepara il tuo CV, fai un bel respiro, attiva il microfono e dai inizio alla simulazione. In bocca al lupo! 🎤💼

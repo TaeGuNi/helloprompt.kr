@@ -1,6 +1,6 @@
 ---
-title: " \"The Internet is Becoming Unarchivable\""
-description: " \"Dynamic content, single-page apps, and walled gardens are making it increasingly difficult to preserve the history of the open web.\""
+title: "The Internet is Becoming Unarchivable"
+description: "Dynamic content, single-page apps, and walled gardens are making it increasingly difficult to preserve the history of the open web."
 date: 2026-02-15
 tags: ["Internet", "Archiving", "History", "Web"]
 ---
@@ -17,7 +17,7 @@ tags: ["Internet", "Archiving", "History", "Web"]
 
 > _"Have you ever bookmarked a brilliant technical deep-dive, only to return months later and find a sterile 404 error page?"_
 
-The modern internet is notoriously fragile. Single-page applications (SPAs), aggressive paywalls, and the closed ecosystems of social media platforms are actively breaking traditional archiving tools like the Wayback Machine. When content is dynamically rendered via JavaScript, conventional web crawlers often hit a wall of blank pages. Slowly but surely, the open web is vanishing into an unarchivable black box.
+The modern internet is notoriously fragile. Single-page applications (SPAs), aggressive paywalls, and the closed ecosystems of social media platforms are actively breaking traditional archiving tools like the Wayback Machine. Because content is increasingly rendered dynamically via JavaScript, conventional web crawlers often hit a wall of blank pages. Slowly but surely, the open web is vanishing into an unarchivable black box.
 
 What if you could become your own digital archivist? By leveraging AI, you can capture raw, chaotic text dumps from any dynamic webpage and instantly transform them into pristine, semantic, and future-proof Markdown documents.
 
@@ -35,7 +35,7 @@ What if you could become your own digital archivist? By leveraging AI, you can c
 
 ### 🥉 Basic Version
 
-Perfect for quick, on-the-fly saves when you simply need to extract core text and strip away visual noise.
+Perfect for quick, on-the-fly saves when you just need to extract the core text and strip away the visual noise.
 
 > **Role:** You are an expert digital archivist.
 > **Task:** Clean up the following raw, messy text copied from a website. Remove all navigational garbage, ad text, and menu items. Format the core content into clean Markdown with appropriate headings.
@@ -127,7 +127,7 @@ Subscribe to our weekly newsletter!
 
 ```markdown
 ---
-title: " \"The Future of React Server Components\""
+title: "The Future of React Server Components"
 author: "Jane Doe"
 date_archived: "2026-02-15"
 tags: ["React", "Server Components", "Web Development"]

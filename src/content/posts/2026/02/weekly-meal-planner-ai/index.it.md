@@ -21,15 +21,15 @@ tags: ["태그1", "태그2"]
 
 > _"Sei stanco di chiederti 'Cosa mangio stasera?' ogni singolo giorno? Lascia che l'AI diventi il tuo nutrizionista personale e pianifichi l'intera settimana in pochi secondi."_
 
-Pianificare i pasti settimanalmente è fondamentale per risparmiare tempo e denaro, mantenendo al contempo una dieta sana ed equilibrata. Tuttavia, trovare costantemente l'ispirazione giusta e calcolare i macronutrienti può rivelarsi un'attività estenuante. Grazie a questo prompt, trasformerai l'intelligenza artificiale in un dietologo esperto, in grado di creare un menù su misura basato sui tuoi gusti, i tuoi obiettivi di fitness e le tue eventuali intolleranze.
+Pianificare i pasti della settimana è il segreto per risparmiare tempo e denaro, mantenendo al contempo un'alimentazione sana ed equilibrata. Tuttavia, dover inventare piatti sempre nuovi e calcolare i macronutrienti si trasforma spesso in un'attività frustrante ed estenuante. Grazie a questo prompt, potrai trasformare l'intelligenza artificiale in un vero e proprio dietologo personale, capace di elaborare in pochi istanti un menù su misura basato sui tuoi gusti, sui tuoi obiettivi di fitness e sulle tue specifiche esigenze alimentari.
 
 ---
 
 ## ⚡️ In Sintesi (TL;DR)
 
-1. **Risparmio di tempo estremo:** Dimentica le ore trascorse online a cercare ricette e a incrociare gli ingredienti.
-2. **Personalizzazione totale:** Adatta automaticamente i tuoi pasti in base a calorie, macronutrienti e allergie specifiche.
-3. **Lista della spesa integrata:** Ottieni una lista della spesa precisa e suddivisa per categorie, perfetta per evitare sprechi al supermercato.
+1. **Risparmio di tempo assoluto:** Dimentica le ore passate a cercare ricette online o a scervellarti sugli abbinamenti degli ingredienti.
+2. **Personalizzazione millimetrica:** Modella automaticamente i tuoi pasti in base al fabbisogno calorico, ai macronutrienti e alle eventuali intolleranze.
+3. **Lista della spesa intelligente:** Ricevi un elenco della spesa preciso e già suddiviso per reparti, l'alleato perfetto per azzerare gli sprechi al supermercato.
 
 ---
 
@@ -37,24 +37,24 @@ Pianificare i pasti settimanalmente è fondamentale per risparmiare tempo e dena
 
 ### 🥉 Basic Version (Versione Base)
 
-Ideale per ottenere subito un'idea generale senza doversi preoccupare di calcoli o parametri complessi.
+Ideale per ottenere subito un'idea generale senza doversi preoccupare di calcoli complessi o parametri troppo tecnici.
 
 > **Ruolo:** Sei un nutrizionista esperto.
-> **Richiesta:** Creami un piano alimentare settimanale sano per una persona che ha come obiettivo `[es. perdere peso / mangiare più sano]`. Includi colazione, pranzo e cena per ogni giorno della settimana.
+> **Richiesta:** Creami un piano alimentare settimanale sano per una persona che ha come obiettivo `[es. perdere peso / mangiare in modo più sano]`. Includi colazione, pranzo e cena per ogni giorno della settimana.
 
 ### 🥇 Pro Version (Versione Avanzata)
 
-Perfetta per gli atleti, per chi segue diete specifiche o per chi desidera il controllo assoluto sui propri macronutrienti e sull'organizzazione dei pasti.
+Perfetta per gli atleti, per chi segue regimi alimentari specifici o per chi desidera il controllo assoluto sui propri macronutrienti e sull'organizzazione metodica dei pasti.
 
 > **Ruolo (Role):** Sei un dietologo clinico e nutrizionista sportivo con oltre 10 anni di esperienza nella creazione di piani alimentari personalizzati e sostenibili nel tempo.
 >
 > **Contesto (Context):**
 >
 > - Profilo: `[Età, sesso, peso, altezza, livello di attività fisica]`
-> - Obiettivo: `[Es. Dimagrimento, mantenimento, ipertrofia]` con un target di circa `[Numero]` calorie giornaliere.
-> - Restrizioni alimentari e preferenze: `[Es. Senza glutine, dieta vegetariana, nessuna restrizione]`
-> - Ingredienti da evitare assolutamente: `[Es. Latticini, frutta a guscio, broccoli]`
-> - Budget e stile di vita: `[Es. Budget economico, pasti veloci da preparare in 15 minuti, meal prep domenicale]`
+> - Obiettivo: `[es. Dimagrimento, mantenimento, ipertrofia]` con un target di circa `[Numero]` calorie giornaliere.
+> - Restrizioni alimentari e preferenze: `[es. Senza glutine, dieta vegetariana, nessuna restrizione]`
+> - Ingredienti da evitare assolutamente: `[es. Latticini, frutta a guscio, broccoli]`
+> - Budget e stile di vita: `[es. Budget economico, pasti veloci da preparare in 15 minuti, meal prep domenicale]`
 >
 > **Richiesta (Task):**
 >
@@ -75,28 +75,28 @@ Perfetta per gli atleti, per chi segue diete specifiche o per chi desidera il co
 
 ## 💡 Il Commento dell'Autore (Insight)
 
-Il vero punto di forza di questo prompt risiede nella sezione **Budget e stile di vita**. Molte persone abbandonano le diete perché i cibi proposti non sono di loro gradimento o richiedono troppo tempo per essere preparati. Specificando "pasti veloci" o "ingredienti economici", l'AI eviterà ricette da ristorante stellato per concentrarsi su piatti pratici e realistici, ideali per chi lavora tutto il giorno. Inoltre, la generazione automatica della lista della spesa ti permetterà di risparmiare non solo una quantità enorme di tempo, ma anche il denaro solitamente speso in acquisti impulsivi al supermercato. È come avere un assistente personale dedicato all'organizzazione domestica.
+Il vero asso nella manica di questo prompt risiede nella variabile **Budget e stile di vita**. Molte persone abbandonano i buoni propositi alimentari proprio perché i cibi suggeriti risultano sgraditi o troppo complessi da preparare. Specificando parametri come "pasti veloci" o "ingredienti economici", l'AI metterà da parte le velleità da ristorante stellato per concentrarsi su piatti pratici, realistici e perfetti per chi lavora a tempo pieno. Inoltre, la generazione automatica della lista della spesa ti permetterà di risparmiare non solo una quantità incredibile di tempo, ma anche il denaro che solitamente sfuma in acquisti impulsivi tra le corsie del supermercato. È esattamente come avere un assistente personale dedicato all'efficienza domestica.
 
 ---
 
 ## 🙋 Domande Frequenti (FAQ)
 
-- **Q: Devo calcolare io le calorie prima di rivolgermi all'AI?**
-  - A: Non è strettamente necessario. Se non conosci il tuo fabbisogno calorico, puoi omettere il numero di calorie e chiedere all'AI: _"Calcola il mio fabbisogno calorico stimato per l'obiettivo di [es. dimagrimento] prima di generare il piano."_
+- **D: Devo calcolare autonomamente le mie calorie prima di usare l'AI?**
+  - R: Non è strettamente necessario. Se non conosci il tuo fabbisogno calorico, ti basterà omettere il dato e chiedere direttamente all'AI: _"Calcola il mio fabbisogno calorico stimato per l'obiettivo di [es. dimagrimento] prima di elaborare il piano."_
 
-- **Q: L'AI può fornirmi anche le ricette dettagliate per i pasti proposti?**
-  - A: Assolutamente sì! Una volta ricevuto il piano settimanale, ti basterà rispondere: _"Scrivimi la ricetta dettagliata, le dosi esatte e il procedimento passo-passo per la cena di mercoledì."_
+- **D: L'AI è in grado di fornirmi anche le ricette dettagliate per i pasti proposti?**
+  - R: Assolutamente sì! Una volta ottenuto il piano settimanale, ti sarà sufficiente rispondere: _"Scrivimi la ricetta dettagliata, le dosi esatte e il procedimento passo-passo per la cena di mercoledì."_
 
-- **Q: Posso utilizzare questo prompt per pianificare i pasti di un'intera famiglia?**
-  - A: Certamente. Nel campo Contesto, ti basterà specificare: _"Questo è un piano alimentare per una famiglia di [Numero] persone, tenendo conto che un membro è [es. intollerante al lattosio] e un altro è [es. vegetariano]."_
+- **D: Posso sfruttare questo prompt per organizzare i pasti di un'intera famiglia?**
+  - R: Certamente. Nel blocco dedicato al Contesto, basterà specificare: _"Questo è un piano alimentare per una famiglia di [Numero] persone. Tieni presente che un membro è [es. intollerante al lattosio] e un altro è [es. vegetariano]."_
 
 ---
 
 ## 🧬 Anatomia del Prompt (Why it works?)
 
-1. **Role Playing Clinico:** Assegnare il ruolo specifico di "dietologo clinico e nutrizionista sportivo" obbliga l'AI a dare priorità alla salute, al reale bilanciamento dei nutrienti e ai principi scientifici, evitando le cosiddette "diete fad" (mode passeggere o regimi dannosi).
-2. **Modularità Estrema:** Le variabili racchiuse tra parentesi quadre `[ ]` consentono di riutilizzare il prompt infinite volte al variare dei propri obiettivi (ad esempio, passando da una fase di massa a una di definizione).
-3. **Lista della Spesa (Call to Action):** La richiesta di una lista della spesa trasforma un semplice "consiglio teorico" in un piano d'azione immediato e altamente pragmatico.
+1. **Role Playing Clinico:** Assegnare il ruolo inequivocabile di "dietologo clinico e nutrizionista sportivo" obbliga l'AI a dare massima priorità alla salute, al reale bilanciamento dei nutrienti e ai principi scientifici validati, neutralizzando il rischio delle cosiddette "diete fad" (mode passeggere o regimi sbilanciati).
+2. **Modularità Estrema:** Le variabili racchiuse tra le parentesi quadre `[ ]` ti consentono di riutilizzare il prompt all'infinito, adattandolo dinamicamente al mutare dei tuoi obiettivi (ad esempio, transitando da una fase di massa a una di definizione).
+3. **Lista della Spesa (Call to Action):** L'inclusione di una lista della spesa categorizzata trasforma un semplice "consiglio teorico" in un piano d'azione immediato, tangibile e altamente pragmatico.
 
 ---
 
@@ -108,7 +108,7 @@ Il vero punto di forza di questo prompt risiede nella sezione **Budget e stile d
 Fammi una dieta per dimagrire per una settimana.
 ```
 
-_(Risultato tipico: L'AI genera un elenco noioso di cibi, spesso insipidi come "riso scondito e pollo bollito", senza tenere conto delle calorie specifiche, dei tuoi gusti personali o della fattibilità. Inoltre, non fornisce alcuna lista della spesa, lasciandoti l'onere di fare i calcoli.)_
+_(Risultato tipico: L'AI produce un elenco monotono e punitivo di pietanze, come il classico "riso scondito e pollo bollito", ignorando del tutto il calcolo preciso delle calorie, i tuoi gusti personali e l'effettiva fattibilità. Inoltre, non fornisce alcuna lista della spesa, scaricando su di te l'intero onere organizzativo.)_
 
 ### ✅ After (Risultato con la Versione Pro)
 
@@ -140,6 +140,6 @@ Ecco il tuo piano alimentare settimanale. (Obiettivo: Dimagrimento, 1600 kcal, P
 
 ## 🎯 Conclusione
 
-Pianificare i pasti e fare la spesa non deve più essere un faticoso secondo lavoro. Con questo prompt, avrai a disposizione un professionista dell'alimentazione attivo 24 ore su 24, pronto ad adattarsi in tempo reale alle tue esigenze, ai tuoi gusti e persino agli imprevisti.
+Organizzare i pasti e fare la spesa non deve più trasformarsi in un faticoso secondo lavoro. Sfruttando questo prompt, avrai sempre a disposizione un professionista dell'alimentazione attivo 24 ore su 24, pronto a ricalibrare i tuoi menù in tempo reale in base alle tue esigenze, ai tuoi gusti e agli inevitabili imprevisti quotidiani.
 
-Ora non ti resta che fare la spesa. Buon appetito! 🍷
+Non ti resta che prendere il carrello e fare la spesa. Buon appetito! 🍷

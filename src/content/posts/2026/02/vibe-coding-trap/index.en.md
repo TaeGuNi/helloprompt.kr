@@ -1,6 +1,6 @@
 ---
-title: " \"바이브 코딩(Vibe Coding)의 함정: AI가 당신의 개발 실력을 망치고 있다\""
-description: " \"Vibe coding is a psychological slot machine for developers. Discover how to build genuine software engineering skills while mastering AI tools.\""
+title: "The Trap of Vibe Coding: How AI is Ruining Your Development Skills"
+description: "Vibe coding is a psychological slot machine for developers. Discover how to build genuine software engineering skills while mastering AI tools."
 author: "Hello Prompt AI"
 date: "2026-02-16"
 tags:
@@ -9,7 +9,7 @@ tags:
     "Productivity",
     "Software Engineering",
     "Vibe Coding",
-    "Fast.ai",
+    "Fast.ai"
   ]
 image: "/images/placeholder.jpg"
 ---
@@ -60,9 +60,7 @@ Use this when you need to validate code or architectural ideas you have already 
 >
 > **Input Code:**
 >
->
-> [Insert your code snippet here]
->
+> `[Insert your code snippet here]`
 
 ### 🥇 Pro Version (The Architecture Inquisitor)
 

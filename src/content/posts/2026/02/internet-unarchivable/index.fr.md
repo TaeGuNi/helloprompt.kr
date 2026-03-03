@@ -17,7 +17,7 @@ tags: ["Internet", "Archiving", "History", "Web"]
 
 > _"Capturez l'histoire du web avant qu'elle ne s'évapore. D'un simple copier-coller, figez l'essence même des pages web les plus chaotiques dans un document Markdown structuré, propre et impérissable."_
 
-À l'ère où les applications web monopages (SPA) et les écosystèmes fermés (Walled Gardens) font loi, extraire et conserver des informations précieuses via des méthodes traditionnelles relève du parcours du combattant. Les liens meurent du jour au lendemain, et même les grands sites d'archivage peinent à capturer ces pages dynamiques, ne restituant souvent qu'un écran désespérément blanc.
+À l'ère où les applications web monopages (SPA) et les écosystèmes fermés (Walled Gardens) règnent en maîtres, extraire et conserver des informations précieuses via des méthodes traditionnelles relève du parcours du combattant. Les liens meurent du jour au lendemain, et même les grands sites d'archivage peinent à capturer ces pages dynamiques, ne restituant souvent qu'un écran désespérément blanc.
 
 Ce prompt est une arme de préservation massive pour vos connaissances. Plutôt que de vous retrouver avec un bloc de texte brut indigeste ou un code HTML chaotique, il purge la page de tout bruit visuel (publicités, menus, pieds de page) pour **la métamorphoser en un document Markdown d'une propreté clinique, prêt à être exploité aujourd'hui comme dans dix ans**.
 
@@ -25,9 +25,9 @@ Ce prompt est une arme de préservation massive pour vos connaissances. Plutôt 
 
 ## ⚡️ Résumé en 3 points (TL;DR)
 
-1. **Épuration Intelligente :** Isole instantanément le cœur du contenu en filtrant les publicités et les éléments d'interface des pages web les plus denses.
-2. **Pérennité Absolue :** Recompose l'intégralité du texte au format Markdown, garantissant une lisibilité et une compatibilité à l'épreuve du temps.
-3. **Génération Automatique de Métadonnées :** Extrait et structure les données clés (date, auteur, mots-clés) au format YAML Frontmatter pour faciliter vos futures recherches.
+1. **Épuration intelligente :** Isole instantanément le cœur du contenu en filtrant les publicités et les éléments d'interface des pages web les plus denses.
+2. **Pérennité absolue :** Recompose l'intégralité du texte au format Markdown, garantissant une lisibilité et une compatibilité à l'épreuve du temps.
+3. **Génération automatique de métadonnées :** Extrait et structure les données clés (date, auteur, mots-clés) au format YAML Frontmatter pour faciliter vos futures recherches.
 
 ---
 
@@ -54,7 +54,7 @@ Idéale pour sauvegarder l'essentiel d'une page web en un éclair. Sélectionnez
 > **Tâche (Task) :**
 >
 > 1. Analyse minutieusement les `[Données de la page web]` ci-dessous pour n'en conserver que le cœur de l'article (Main Article).
-> 2. Insère les métadonnées d'archivage tout en haut du document via un bloc YAML Frontmatter (Inclure obligatoirement : titre, date de publication estimée, auteur et 3 mots-clés pertinents).
+> 2. Insère les métadonnées d'archivage tout en haut du document via un bloc YAML Frontmatter (inclure obligatoirement : titre, date de publication estimée, auteur et 3 mots-clés pertinents).
 > 3. Restructure le corps du texte avec une hiérarchie logique d'en-têtes (`##`, `###`) en exploitant la syntaxe Markdown.
 > 4. Mets en valeur les citations cruciales, les données clés et les statistiques via des blocs de citation (`>`) ou du texte en gras (`**`).
 >

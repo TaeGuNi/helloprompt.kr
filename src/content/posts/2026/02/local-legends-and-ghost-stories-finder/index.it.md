@@ -28,15 +28,15 @@ tags:
 
 > _"E se ti dicessi che sotto i sanpietrini di quella piazza pittoresca si nasconde un segreto sussurrato da secoli?"_
 
-Ogni destinazione turistica possiede una doppia anima: quella luminosa e patinata delle classiche guide turistiche, e quella più oscura, intessuta di miti, leggende e storie di fantasmi note esclusivamente alla gente del posto. Portare alla luce questi racconti non solo arricchisce in modo incommensurabile il tuo viaggio, ma trasforma una banale passeggiata serale in un'avventura avvolta nel mistero. Questo prompt ti trasformerà in un autentico "Cacciatore di Leggende", in grado di estrapolare dall'IA i racconti più oscuri e suggestivi di qualsiasi città del mondo.
+Ogni destinazione turistica possiede una doppia anima: c'è quella luminosa e patinata delle guide turistiche classiche, e poi c'è quella più oscura, intessuta di miti, leggende e storie di fantasmi custodite gelosamente dagli abitanti del posto. Riportare alla luce questi racconti non si limita ad arricchire in modo incommensurabile il tuo itinerario, ma trasforma una banale passeggiata serale in un'avventura avvolta nel mistero. Questo prompt farà di te un autentico "Cacciatore di Leggende", capace di estrapolare dall'IA i racconti più oscuri, suggestivi e segreti di qualsiasi città del mondo.
 
 ---
 
 ## ⚡️ Sintesi in 3 Punti (TL;DR)
 
-1. **Oltre le solite guide:** Scopri miti, racconti popolari e storie di fantasmi tramandati oralmente nella regione che stai visitando.
-2. **Itinerari del mistero:** Crea percorsi alternativi esplorando i luoghi reali legati a queste oscure leggende.
-3. **Storytelling d'impatto:** Ottieni narrazioni avvincenti, perfette per affascinare i tuoi compagni di viaggio davanti a un fuoco o durante una passeggiata notturna.
+1. **Oltre le solite guide:** Scopri miti, racconti popolari e storie di fantasmi tramandate oralmente nella regione che stai visitando.
+2. **Itinerari del mistero:** Crea percorsi alternativi esplorando i luoghi reali legati a queste leggende oscure.
+3. **Storytelling d'impatto:** Genera narrazioni avvincenti, perfette per affascinare i tuoi compagni di viaggio davanti a un fuoco o durante una passeggiata notturna.
 
 ---
 
@@ -77,28 +77,28 @@ Usa questo prompt per ottenere un'esperienza narrativa immersiva, ricca di detta
 
 ## 💡 Il Commento dell'Autore (Insight)
 
-Questo prompt è uno dei miei preferiti quando viaggio, specialmente in Europa o in Asia, dove le città vantano stratificazioni storiche secolari. La vera magia non risiede solo nell'ascoltare una storia spaventosa, ma nel riuscire a scovare quei "luoghi fisici minori" (come una fontana nascosta o un vicolo cieco) che non troveresti mai su TripAdvisor. È un approccio fantastico per esplorare le città di notte, creando un vero e proprio tour del mistero personalizzato e completamente gratuito. L'ho sperimentato a Praga e a Edimburgo, trasformando serate altrimenti piatte in esperienze indimenticabili per me e i miei compagni di viaggio!
+Questo prompt è in assoluto uno dei miei preferiti quando viaggio, specialmente in Europa o in Asia, dove le città nascondono stratificazioni storiche secolari. La vera magia non sta solo nell'ascoltare una storia spaventosa, ma nel riuscire a scovare quei "luoghi fisici minori" – una fontana nascosta, un cortile dimenticato o un vicolo cieco – che non troveresti mai sulle guide convenzionali o su TripAdvisor. È un approccio fantastico per esplorare le città di notte, creando un vero e proprio tour del mistero, su misura e completamente gratuito. L'ho testato personalmente a Praga e a Edimburgo, trasformando serate che rischiavano di essere piatte in esperienze indimenticabili per me e per i miei compagni di viaggio!
 
 ---
 
 ## 🙋 Domande Frequenti (FAQ)
 
 - **Q: L'IA non rischia di inventare luoghi inesistenti (allucinazioni)?**
-  - A: Ottima domanda! A volte l'IA può confondere i nomi delle strade. Proprio per questo abbiamo inserito l'avvertenza (Warning) finale nel prompt Pro. Ti consiglio, in ogni caso, di fare un rapido controllo su Google Maps del luogo indicato prima di avventurarti nella notte.
+  - A: Ottima domanda! A volte l'IA può fare confusione con i nomi delle strade meno note. Proprio per questo abbiamo inserito l'avvertenza (Warning) finale nel prompt Pro, in modo da limitare le invenzioni. Ti consiglio comunque di fare sempre un rapido controllo incrociato su Google Maps per verificare l'esatta posizione del luogo prima di avventurarti nella notte.
 
-- **Q: Posso usare questo prompt anche per piccoli borghi, oltre che per le grandi metropoli?**
-  - A: Assolutamente sì! Spesso sono proprio i borghi più remoti a custodire le leggende più affascinanti. Se l'IA non trova informazioni iper-specifiche sul singolo paesino, tenderà ad allargare la ricerca all'intera regione storica, offrendoti comunque ottimi spunti narrativi.
+- **Q: Posso usare questo prompt anche per i piccoli borghi, oltre che per le grandi metropoli?**
+  - A: Assolutamente sì! Spesso sono proprio i borghi più antichi e remoti a custodire le leggende più affascinanti. Se l'IA non dovesse trovare informazioni iper-specifiche sul singolo paesino, tenderà ad allargare la ricerca all'intera regione o provincia, offrendoti comunque ottimi spunti narrativi e folcloristici.
 
-- **Q: È adatto anche per i viaggi con i bambini?**
-  - A: Certamente, ma ti suggerisco di aggiungere un vincolo extra al prompt: _"Rendi la storia adatta a bambini di [Inserire l'Età] anni, puntando su un'atmosfera magica e fantastica piuttosto che sulla paura e il terrore."_
+- **Q: È un'attività adatta anche per i viaggi con i bambini?**
+  - A: Certamente, ma ti suggerisco di aggiungere un vincolo extra al prompt: _"Rendi la storia adatta a bambini di `[Inserire l'Età]` anni, puntando su un'atmosfera magica, fiabesca e misteriosa piuttosto che sulla pura paura o sul terrore."_
 
 ---
 
 ## 🧬 Anatomia del Prompt (Perché funziona?)
 
-1. **Tono Evocativo:** Richiedere uno stile "da falò" costringe l'IA ad abbandonare il tipico tono noioso e distaccato da enciclopedia in favore di un racconto puramente d'atmosfera.
-2. **Connessione con il Reale (Task 2):** Richiedere esplicitamente la "posizione fisica reale" trasforma la teoria (la storia in sé) in pratica (il tuo effettivo itinerario turistico serale).
-3. **Espansione Culturale (Task 3):** Chiedere informazioni su "superstizioni e tabù" offre uno spaccato antropologico autentico della popolazione locale, arricchendo il bagaglio culturale del viaggiatore ben oltre il semplice brivido.
+1. **Tono Evocativo:** Richiedere esplicitamente uno stile "da falò" costringe l'IA ad abbandonare il tipico tono noioso, accademico e distaccato in favore di un racconto puramente immersivo e d'atmosfera.
+2. **Connessione con il Reale (Task 2):** Esigere la "posizione fisica reale" trasforma la teoria (il racconto in sé) in pratica (una vera e propria tappa del tuo itinerario turistico serale).
+3. **Espansione Culturale (Task 3):** Chiedere dettagli su "superstizioni e tabù" offre uno spaccato antropologico autentico della popolazione locale, arricchendo il bagaglio culturale del viaggiatore ben oltre il semplice brivido momentaneo.
 
 ---
 
@@ -113,7 +113,7 @@ Raccontami delle leggende su Praga.
 ### ✅ Dopo (Risultato con la Versione Pro)
 
 ```text
-(L'IA genera un racconto suggestivo e ricco di pathos sul cavaliere senza testa dei Templari che infesta le strade acciottolate intorno a via Liliová a mezzanotte. Descrive l'origine trecentesca della storia, indica l'esatto punto in cui si dice appaia il fantasma e consiglia di non incrociare il suo sguardo di fuoco, spiegando la superstizione locale di abbassare gli occhi se si passa da quelle parti a notte fonda. Un mix perfetto di brivido e vere indicazioni geografiche!)
+(L'IA genera un racconto suggestivo e ricco di pathos sul cavaliere senza testa dei Templari che infesta le strade acciottolate intorno a via Liliová a mezzanotte. Descrive l'origine trecentesca della storia, indica l'esatto punto in cui si dice appaia il fantasma e consiglia di non incrociare mai il suo sguardo di fuoco, spiegando la superstizione locale di abbassare gli occhi se si passa da quelle parti a notte fonda. Un mix perfetto di suspense e vere indicazioni geografiche!)
 ```
 
 ---

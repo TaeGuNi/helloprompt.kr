@@ -19,17 +19,17 @@ tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidad:** ⭐⭐⭐⭐☆
 
-> _"«Conoce a tu enemigo y conócete a ti mismo; en cien batallas nunca estarás en peligro». Pero, seamos honestos, ¿quién tiene el tiempo de analizar cientos de webs y reportes para conocer a fondo a la competencia?"_
+> _"«Conoce a tu enemigo y conócete a ti mismo; en cien batallas nunca estarás en peligro». Pero, seamos honestos: ¿quién tiene realmente el tiempo de analizar cientos de webs y reportes financieros para conocer a fondo a la competencia?"_
 
-Investigar a la competencia es vital, pero resulta agotador. A menudo, nos limitamos a un vistazo superficial a sus sitios web o a leer noticias recientes, obteniendo análisis pobres y sin visión estratégica. Este prompt transforma a la IA en un analista de mercado sénior capaz de diseccionar la estrategia de tus rivales en cuestión de minutos.
+Investigar a la competencia es vital, pero el proceso resulta extremadamente agotador. Con demasiada frecuencia, nos conformamos con echar un vistazo superficial a sus sitios web o leer un par de noticias recientes. El resultado son análisis mediocres, sesgados y carentes de una verdadera visión estratégica. Este prompt transforma a la inteligencia artificial en un analista de mercado sénior, capaz de diseccionar quirúrgicamente la estrategia de tus rivales en cuestión de minutos.
 
 ---
 
 ## ⚡️ 3 Puntos Clave (TL;DR)
 
-1. **Análisis profundo y automatizado:** Convierte horas de investigación manual en un diagnóstico riguroso en segundos.
-2. **Resultados accionables:** No te limites a los datos; obtén *benchmarks* claros y aplicables a tu propia estrategia.
-3. **Formatos listos para presentar:** Los resultados se estructuran en tablas y listas, perfectos para copiar y pegar directamente en tus informes ejecutivos.
+1. **Análisis profundo y automatizado:** Convierte horas de tediosa investigación manual en un diagnóstico estratégico riguroso en apenas unos segundos.
+2. **Resultados accionables:** No te limites a acumular datos vacíos; obtén *benchmarks* claros y directamente aplicables a tu propia hoja de ruta.
+3. **Formatos listos para presentar:** Los hallazgos se estructuran en tablas y listas precisas, listos para copiar y pegar en tus informes ejecutivos o presentaciones de junta.
 
 ---
 
@@ -37,14 +37,14 @@ Investigar a la competencia es vital, pero resulta agotador. A menudo, nos limit
 
 ### 🥉 Basic Version (Versión Rápida)
 
-Ideal para cuando necesitas una visión general en un abrir y cerrar de ojos.
+Ideal para esos momentos en los que necesitas una visión general en un abrir y cerrar de ojos.
 
 > **Rol:** Eres un Analista de Investigación de Mercado Sénior.
 > **Solicitud:** Analiza de forma concisa las fortalezas y debilidades de `[Nombre del competidor]` y compáralo con `[Mi empresa]`.
 
 ### 🥇 Pro Version (Versión Experta)
 
-Úsala para obtener un análisis exhaustivo, estratégico y listo para integrar en tu plan de negocios. Copia el siguiente prompt y pégalo en tu IA de confianza.
+Úsala para obtener un análisis exhaustivo, estratégico y listo para integrarse directamente en tu plan de negocios. Copia el siguiente prompt y pégalo en tu IA de confianza.
 
 > **Rol (Role):** Eres un Analista de Investigación de Mercado Sénior con más de 10 años de experiencia en consultoría estratégica.
 >
@@ -72,27 +72,27 @@ Ideal para cuando necesitas una visión general en un abrir y cerrar de ojos.
 
 ## 💡 Comentario del Autor (Insight)
 
-La verdadera magia de este prompt no radica en pedirle a la IA que «analice a la competencia», sino en exigirle que asuma el **rol de un consultor sénior**. Al estructurar la petición de esta forma, la IA deja de enumerar datos genéricos de Wikipedia y comienza a cruzar variables estratégicas (propuesta de valor frente a nichos desatendidos).
+La verdadera magia de este prompt no radica en pedirle vagamente a la IA que «analice a la competencia», sino en exigirle que asuma el **rol riguroso de un consultor sénior**. Al estructurar la petición de esta forma, la IA deja de enumerar datos corporativos genéricos extraídos de Wikipedia y comienza a cruzar variables estratégicas complejas (como enfrentar la propuesta de valor contra los nichos desatendidos del sector).
 
-En la práctica, te recomiendo encarecidamente utilizar este prompt con modelos que tengan acceso a internet en tiempo real (como ChatGPT Plus o Perplexity), dado que el mercado cambia con rapidez y la información de entrenamiento suele quedar obsoleta. Es un recurso letal antes de una reunión estratégica trimestral, al buscar inversores o al lanzar una nueva funcionalidad.
+En la práctica, te recomiendo encarecidamente utilizar este prompt con modelos que tengan acceso a internet en tiempo real (como ChatGPT Plus o Perplexity). El mercado cambia a un ritmo frenético y la información de entrenamiento estática de los modelos suele quedar obsoleta muy rápido. Este recurso es un arma letal justo antes de entrar a una reunión estratégica trimestral, al preparar un *pitch* para buscar inversores o al definir el lanzamiento de una nueva funcionalidad clave.
 
 ---
 
 ## 🙋 Preguntas Frecuentes (FAQ)
 
 - **Q: ¿Funciona bien si mi empresa opera en un nicho B2B muy específico y poco conocido?**
-  - A: Sí, pero en esos casos es vital alimentar a la IA con contexto adicional. En lugar de darle solo los nombres, puedes copiar y pegar el texto de la página «Acerca de» de tus competidores o sus catálogos directamente en el `[Contexto]` del prompt. Así le darás a la IA una base sólida sobre la cual trabajar.
+  - A: Sí, pero en esos escenarios es vital alimentar a la IA con contexto adicional. En lugar de proporcionarle solo los nombres de las empresas, puedes copiar y pegar el texto de la página «Acerca de» de tus competidores, sus folletos comerciales o catálogos directamente en la sección `[Contexto]` del prompt. De este modo, le darás a la IA una base empírica sólida sobre la cual trabajar.
 
-- **Q: ¿Puede la IA inventarse datos sobre la competencia (alucinar)?**
-  - A: Existe ese riesgo, especialmente con métricas financieras exactas o cifras de usuarios. Por eso hemos incluido la restricción de «no inventar» y recomendamos modelos con acceso a internet. **Siempre** verifica las cifras críticas (ingresos, rondas de financiación) en fuentes oficiales antes de presentarlas a terceros.
+- **Q: ¿Existe el riesgo de que la IA invente datos sobre la competencia (alucinación)?**
+  - A: Siempre existe ese riesgo latente, especialmente cuando se trata de métricas financieras exactas, cuotas de mercado o cifras de usuarios activos. Por eso hemos incluido la restricción explícita de «no inventar» y recomendamos encarecidamente modelos con acceso a internet. **Siempre** verifica las cifras críticas (como ingresos anuales o rondas de financiación) en fuentes oficiales antes de presentarlas a terceros o tomar decisiones basadas en ellas.
 
 ---
 
 ## 🧬 Anatomía del Prompt (Why it works?)
 
-1. **Claridad de rol y experiencia:** Al asignarle el papel de «Analista Sénior con 10 años de experiencia», forzamos al modelo a adoptar un tono profesional, analítico y una mentalidad puramente enfocada en el negocio.
-2. **Tareas estructuradas (1 al 4):** Evita que la IA se vaya por las ramas, obligándola a cubrir de forma sistemática la propuesta de valor, los canales de venta, las brechas del mercado y a entregar recomendaciones accionables.
-3. **Visualización y restricciones:** Exigir tablas en Markdown y establecer límites estrictos contra las alucinaciones garantiza que el resultado sea útil de inmediato y totalmente confiable para un entorno corporativo.
+1. **Claridad de rol y autoridad:** Al asignarle el papel de «Analista Sénior con 10 años de experiencia», forzamos al modelo a abandonar el tono conversacional y adoptar una postura profesional, analítica y con una mentalidad puramente enfocada en el rendimiento del negocio.
+2. **Tareas estructuradas (1 al 4):** Evita que la IA divague o se vaya por las ramas, obligándola a cubrir de forma sistemática y secuencial la propuesta de valor, los canales de venta, las brechas del mercado y, finalmente, a entregar recomendaciones estratégicas accionables.
+3. **Visualización y restricciones:** Exigir la salida en tablas Markdown y establecer límites estrictos contra las alucinaciones garantiza que el resultado sea consumible de inmediato y lo suficientemente confiable para ser expuesto en un entorno corporativo exigente.
 
 ---
 
@@ -123,6 +123,6 @@ Ambas plataformas sufren de altas comisiones para restaurantes independientes y 
 
 ## 🎯 Conclusión
 
-Comprender a fondo a tus competidores no tiene por qué costarte semanas de investigación exhaustiva ni decenas de miles de dólares en consultoras. Con el marco estratégico y el prompt adecuados, tienes la inteligencia de mercado en la palma de tu mano.
+Comprender a fondo los movimientos de tus competidores no tiene por qué costarte semanas de investigación agotadora ni decenas de miles de dólares en agencias consultoras. Con el marco estratégico adecuado y este prompt, tienes la inteligencia de mercado más aguda en la palma de tu mano.
 
-¡Aplica esta táctica hoy mismo y domina tu sector! Y ahora, apaga el ordenador y sal a tu hora. 🍷
+¡Aplica esta táctica hoy mismo y comienza a dominar tu sector! Y ahora, apaga el ordenador y sal a tu hora. 🍷

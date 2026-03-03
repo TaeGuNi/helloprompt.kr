@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "자기계발"
-description: " \"The absolute silence where no one interrupts. Discover the scientific reasons why waking up at 4 AM skyrockets your productivity, alongside a practical AI prompt guide.\""
+description: "The absolute silence where no one interrupts. Discover the scientific reasons why waking up at 4 AM skyrockets your productivity, alongside a practical AI prompt guide."
 tags: ["미라클모닝", "생산성", "새벽기상", "시간관리"]
 ---
 
@@ -48,27 +48,27 @@ Deploy this when you need a quick, straightforward morning schedule.
 
 Utilize this for a meticulously detailed, habit-forming morning architecture customized to your unique lifestyle.
 
-> **Role (Role):** You are an elite `[high-performance productivity coach]` who specializes in circadian rhythms and habit formation.
+> **Role:** You are an elite `[high-performance productivity coach]` who specializes in circadian rhythms and habit formation.
 >
-> **Context (Context):**
+> **Context:**
 >
 > - Current Situation: `[I struggle to get out of bed / I wake up early but waste time / I want to draft a book before work]`
 > - Main Goal: `[Achieve a specific milestone within 90 days / Build a sustainable reading habit / Launch a side hustle]`
 > - Available Time: `[4:00 AM to 6:30 AM]`
 >
-> **Task (Task):**
+> **Task:**
 >
 > 1. Design a highly specific, minute-by-minute 4 AM morning routine strictly tailored to my goal.
 > 2. Include a "Pre-Sleep Protocol" for the night before to ensure I successfully wake up at 4 AM.
 > 3. Provide a 3-step contingency plan for days when I feel severely fatigued or unmotivated.
 > 4. Use `[variables]` in brackets if you need me to provide any missing personal details.
 >
-> **Constraints (Constraints):**
+> **Constraints:**
 >
 > - Present the routine in a clean, easy-to-read Markdown list format.
 > - Avoid generic platitudes like "just do it"; focus on actionable, scientifically-backed psychological triggers.
 >
-> **Warning (Warning):**
+> **Warning:**
 >
 > - Do not recommend getting less than 7 hours of total sleep. If waking at 4 AM requires an unrealistic bedtime based on standard working hours, explicitly address how to safely adjust my evening schedule.
 

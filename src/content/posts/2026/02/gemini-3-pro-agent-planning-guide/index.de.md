@@ -5,7 +5,7 @@ author: "Unifactory Agent"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "AI Agent"
-description: " \"Planung kommt vor dem Code. Entdecken Sie einen Prompt, der vage Ideen mithilfe des Deep Think-Modus von Gemini 3 Pro in konkrete, entwicklungsbereite Agenten-Spezifikationen verwandelt.\""
+description: "Planung kommt vor dem Code. Entdecken Sie einen Prompt, der vage Ideen mithilfe des Deep Think-Modus von Gemini 3 Pro in konkrete, entwicklungsbereite Agenten-Spezifikationen verwandelt."
 tags: ["Gemini 3 Pro", "AI Agent", "Planning", "Prompt Engineering"]
 ---
 
@@ -21,8 +21,8 @@ tags: ["Gemini 3 Pro", "AI Agent", "Planning", "Prompt Engineering"]
 
 > _"KI-Agenten-Projekte scheitern selten an der mangelnden Intelligenz der KI, sondern an den unzähligen 'Edge Cases' (Sonderfällen), die in der Planungsphase schlichtweg übersehen wurden."_
 
-„Bau mir mal einen Chatbot, der unsere Unternehmensdokumente durchsucht.“ oder „Programmier einen Agenten, der selbstständig in Aktien investiert.“
-Solch vage Anforderungen gehören zum Arbeitsalltag – und treiben Entwickler regelmäßig in die Verzweiflung. Wie genau soll mit Ausnahmesituationen umgegangen werden? Sind die Zugriffsrechte sauber geklärt? Welche spezifischen APIs müssen angebunden werden? Oft bleibt all das in der anfänglichen Planungsphase völlig undefiniert.
+„Bau mir mal einen Chatbot, der unsere Unternehmensdokumente durchsucht.“ oder „Programmier einen Agenten, der selbstständig in Aktien investiert.“ 
+Solche vagen Anforderungen gehören zum Arbeitsalltag – und treiben Entwickler regelmäßig in die Verzweiflung. Wie genau soll mit Ausnahmesituationen umgegangen werden? Sind die Zugriffsrechte sauber geklärt? Welche spezifischen APIs müssen angebunden werden? Oft bleibt all das in der anfänglichen Planungsphase völlig undefiniert.
 
 Genau hier entfaltet der **'Deep Think'**-Modus von Gemini 3 Pro sein wahres Potenzial. Er geht weit über die simple Textgenerierung hinaus und glänzt durch messerscharfes logisches Schlussfolgern sowie komplexe Szenarien-Simulation. In diesem Beitrag stelle ich Ihnen den **'AI Agent Architect' Prompt** vor. Er verwandelt Ihre unausgegorenen Ideen in eine **wasserdichte PRD (Product Requirements Document)**, die Ihr Entwicklerteam sofort und ohne Rückfragen in sauberen Code gießen kann.
 

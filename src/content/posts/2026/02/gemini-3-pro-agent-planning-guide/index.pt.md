@@ -19,12 +19,12 @@ tags: ["Gemini 3 Pro", "AI Agent", "Planning", "Prompt Engineering"]
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidade:** ⭐⭐⭐⭐⭐
 
-> _"O principal motivo pelo qual projetos de agentes de IA fracassam não é a falta de inteligência do modelo, mas sim as inúmeras pontas soltas (Edge Cases) ignoradas durante o planejamento inicial."_
+> _"A principal razão pela qual projetos de agentes de IA fracassam não é a falta de inteligência do modelo, mas sim a quantidade de pontas soltas (Edge Cases) ignoradas durante a fase inicial de planejamento."_
 
 "Crie um chatbot que encontre documentos da empresa" ou "Faça um agente que invista em ações automaticamente."
-Requisitos abstratos como esses, tão comuns no dia a dia corporativo, são o verdadeiro pesadelo de qualquer equipe de engenharia. Como tratar exceções? Como estruturar o controle de acesso? Quais APIs serão integradas? Detalhes críticos que raramente são definidos na fase de ideação.
+Requisitos abstratos como esses, tão comuns no cotidiano corporativo, são o verdadeiro pesadelo de qualquer equipe de engenharia. Como tratar exceções? Como estruturar o controle de acesso? Quais APIs serão integradas? Detalhes críticos que raramente são definidos na fase de ideação.
 
-É exatamente nesse vácuo que o modo **'Deep Think'** do Gemini 3 Pro se destaca. Indo muito além da mera geração de texto, ele é projetado para o raciocínio lógico profundo e a simulação de cenários de alta complexidade. Neste artigo, vou apresentar o **Prompt 'Arquiteto de IA'**, a ferramenta definitiva para transformar sua ideia abstrata em um **PRD (Documento de Requisitos de Produto) irretocável**, pronto para ser executado por qualquer desenvolvedor.
+É exatamente nesse vácuo que o modo **'Deep Think'** do Gemini 3 Pro se destaca. Indo muito além da mera geração de texto, ele foi projetado para o raciocínio lógico profundo e a simulação de cenários de alta complexidade. Neste artigo, vou apresentar o **Prompt 'Arquiteto de IA'**, a ferramenta definitiva para transformar sua ideia abstrata em um **PRD (Documento de Requisitos de Produto) irretocável**, pronto para ser executado por qualquer desenvolvedor.
 
 ---
 
@@ -42,8 +42,8 @@ Requisitos abstratos como esses, tão comuns no dia a dia corporativo, são o ve
 
 Ideal para validar e estruturar rapidamente uma ideia durante uma reunião de alinhamento.
 
-> **Role:** Você é um Product Manager de TI com 10 anos de experiência.
-> **Task:** Com base na `[ideia do projeto]` que vou fornecer, liste 3 recursos essenciais que este agente de IA deve ter e 1 problema técnico crítico que podemos enfrentar durante o desenvolvimento.
+> **Role:** Você é um `[Product Manager de TI]` com 10 anos de experiência.
+> **Task:** Com base na `[Ideia do Projeto]` que vou fornecer, liste 3 recursos essenciais que este agente de IA deve ter e 1 problema técnico crítico que podemos enfrentar durante o desenvolvimento.
 > **Idea:** `[Insira a descrição do agente que deseja criar aqui]`
 
 ### 🥇 Versão Pro (Otimizada para Deep Think)

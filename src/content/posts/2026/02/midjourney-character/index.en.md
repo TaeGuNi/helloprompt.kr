@@ -21,16 +21,16 @@ tags: ["Midjourney", "캐릭터 디자인", "AI 아트", "일관성"]
 
 > _"Are you frustrated by AI generating a slightly different face every time you create a character, making them look like a completely different person?"_
 
-The single biggest hurdle when integrating AI art into professional workflows is maintaining strict **Character Consistency**. If your protagonist's face or outfit morphs slightly from panel to panel in a webtoon or game asset, it's virtually useless for actual production. The most reliable, industry-standard solution to this problem is establishing a foundational **Character Sheet** right out of the gate.
+The single biggest hurdle when integrating AI art into professional workflows is maintaining strict **character consistency**. If your protagonist's face or outfit morphs slightly from panel to panel in a webtoon or game asset, it becomes virtually useless for actual production. The most reliable, industry-standard solution to this problem is establishing a foundational **character sheet** right out of the gate.
 
-Today, we're sharing a prompt engineering secret that locks down the front, side, and back views in a single generated image—giving you a flawless, unwavering reference point for all your future design work.
+Today, we are sharing a prompt engineering secret that locks down the front, side, and back views in a single generated image—giving you a flawless, unwavering reference point for all your future design work.
 
 ---
 
 ## ⚡️ 3-Line Summary (TL;DR)
 
-1. Always generate a **Character Sheet** first to serve as the definitive blueprint for your design.
-2. Leverage our **Pro Prompt** with a conversational AI (like ChatGPT) to craft the ultimate front/side/back Midjourney prompt.
+1. Always generate a **character sheet** first to serve as the definitive blueprint for your design.
+2. Leverage our **Pro Prompt** with a conversational AI (like ChatGPT) to craft the ultimate front, side, and back view Midjourney prompt.
 3. Force a wide aspect ratio using the **`--ar`** parameter (e.g., 16:9) to ensure your character's views don't overlap or get cropped out of frame.
 
 ---
@@ -59,7 +59,7 @@ This is a studio-grade prompt engineered for ChatGPT or Claude. It instantly gen
 >
 > 1. Based on the character settings below, write 1 English prompt for Midjourney image generation.
 > 2. Character Settings: `[Describe the desired character appearance, outfit, weapons, colors, etc., in detail here]`
-> 3. It must strictly follow a **Character Sheet** format and explicitly include at least 3 angles: Front view, Side view, and Back view.
+> 3. It must strictly follow a **Character Sheet** format and explicitly include at least 3 angles: front view, side view, and back view.
 >
 > **Constraints:**
 >
@@ -80,10 +80,10 @@ This is a studio-grade prompt engineered for ChatGPT or Claude. It instantly gen
 
 This prompt system works wonders because it seizes control over "spatial arrangement" and "consistency"—the two areas where Midjourney typically struggles most. The magic lies in pairing the **`--ar` (Aspect Ratio)** parameter with strict compositional directives.
 
-1. **Wide Canvas (`--ar 16:9`):** A proper character sheet needs to display at least three full-body angles side-by-side. At the default 1:1 ratio, characters are crammed together, practically guaranteeing overlapping limbs or cropped frames. Forcing a 16:9 or 3:2 ratio gives the AI the horizontal breathing room it needs to render multiple angles cleanly.
-2. **Lighting Control (Flat lighting):** Dramatic, cinematic lighting might look stunning in a final illustration, but it's a nightmare for reference sheets. Deep shadows obscure crucial textures and structural details of the outfit. Forcing flat, shadowless lighting guarantees a clean, production-ready asset.
+1. **Wide Canvas (`--ar 16:9`):** A proper character sheet needs to display at least three full-body angles side by side. At the default 1:1 ratio, characters are crammed together, practically guaranteeing overlapping limbs or cropped frames. Forcing a 16:9 or 3:2 ratio gives the AI the horizontal breathing room it needs to render multiple angles cleanly.
+2. **Lighting Control (Flat lighting):** Dramatic, cinematic lighting might look stunning in a final illustration, but it is a nightmare for reference sheets. Deep shadows obscure crucial textures and structural details of the outfit. Forcing flat, shadowless lighting guarantees a clean, production-ready asset.
 
-**💡 Pro Tip:** Try feeding the resulting image from this Pro Prompt directly into Midjourney's `--cref` (Character Reference) parameter. You'll unlock the ability to generate endless illustrations in dynamic poses while maintaining pinpoint consistency across your character's face and wardrobe.
+**💡 Pro Tip:** Try feeding the resulting image from this Pro Prompt directly into Midjourney's `--cref` (Character Reference) parameter. You will unlock the ability to generate endless illustrations in dynamic poses while maintaining pinpoint consistency across your character's face and wardrobe.
 
 ---
 
@@ -93,13 +93,13 @@ This prompt system works wonders because it seizes control over "spatial arrange
   - A: Absolutely. Just right-click your generated sheet in the Midjourney Discord and select the **'Vary (Region)'** (Inpainting) tool. Keep the face and body shape untouched, lasso only the outfit, and type in a new prompt (like "wearing futuristic heavy armor") for a seamless wardrobe swap.
 
 - **Q: Can I generate this in a Japanese anime style (for webtoons) instead of a realistic style?**
-  - A: Of course. Simply swap the `--v 6.0` parameter at the end of your prompt to `--niji 6`—Midjourney's dedicated anime model. You'll instantly get a gorgeous, cel-shaded character sheet perfectly tailored for webtoons or 2D gaming.
+  - A: Of course. Simply swap the `--v 6.0` parameter at the end of your prompt to `--niji 6`—Midjourney's dedicated anime model. You will instantly get a gorgeous, cel-shaded character sheet perfectly tailored for webtoons or 2D gaming.
 
 ---
 
 ## 🧬 Anatomy of the Prompt (Why it works)
 
-1. **Specifying Multiple Views:** By explicitly commanding a "Front, Side, Back view", we force the AI to build a technical 3-view layout rather than letting it default to a random, highly dynamic pose.
+1. **Specifying Multiple Views:** By explicitly commanding a "front, side, and back view," we force the AI to build a technical three-view layout rather than letting it default to a random, highly dynamic pose.
 2. **Controlling Pose & Composition (A-pose / Full body shot):** Mandating industry-standard neutral poses prevents the character's limbs from obscuring crucial outfit details.
 3. **Isolating Constraints:** Setting strict guardrails for the LLM prevents it from hallucinating unwanted background elements or overly complex artistic flourishes.
 
@@ -127,7 +127,7 @@ Character sheet of a cyberpunk female warrior with a neon katana and pink hair, 
 
 ## 🎯 Conclusion
 
-A properly crafted Character Sheet acts as an indestructible blueprint for all your AI art endeavors. Establish this rock-solid foundation, and your character's design won't fall apart—no matter what wild background or dynamic situation you drop them into.
+A properly crafted character sheet acts as an indestructible blueprint for all your AI art endeavors. Establish this rock-solid foundation, and your character's design won't fall apart—no matter what wild background or dynamic situation you drop them into.
 
 Cure your character consistency headaches with today's prompt, and start building out your own captivating, original character universe!
 

@@ -5,13 +5,13 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "업무 효율화"
-description: "Avis aux développeurs qui fouillent dans GitHub pour se rappeler de leur travail de la veille. Collez vos logs de commit et obtenez un script de stand-up parfait en quelques secondes."
+description: "Avis aux développeurs qui fouillent dans GitHub pour se remémorer leur travail de la veille : collez vos logs de commit et obtenez un script de stand-up parfait en quelques secondes."
 tags: ["스탠드업", "회의준비", "개발자", "회고"]
 ---
 
 # 📝 Préparation au Daily Stand-up en 1 minute
 
-- **🎯 Recommandé pour :** Développeurs, Chefs de projet, Marketeurs
+- **🎯 Recommandé pour :** Développeurs, chefs de projet, marketeurs
 - **⏱️ Temps gagné :** 15 minutes → 1 minute
 - **🤖 Modèles recommandés :** ChatGPT, Claude, Gemini
 
@@ -19,23 +19,23 @@ tags: ["스탠드업", "회의준비", "개발자", "회고"]
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
 - 🚀 **Utilité :** ⭐⭐⭐⭐⭐
 
-> _"Encore en train de fouiller frénétiquement dans l'historique de vos commits GitHub à 9h55 pour le daily stand-up de 10h00 ? Arrêtez de stresser, l'IA s'en charge pour vous."_
+> _"Encore en train de fouiller frénétiquement l'historique de vos commits GitHub à 9 h 55 pour le daily stand-up de 10 h 00 ? Arrêtez de stresser, l'IA s'en charge pour vous."_
 
-Le *Daily Stand-up* est censé être un point de synchronisation rapide, mais préparer son intervention prend parfois plus de temps que la réunion elle-même. Si vous peinez à formuler vos accomplissements de la veille, vos objectifs du jour et vos éventuels points de blocage, ce prompt est votre meilleur allié. Il transformera vos logs techniques bruts en un résumé limpide et professionnel, prêt à être partagé avec votre équipe.
+Le *Daily Stand-up* est censé être un point de synchronisation rapide, mais la préparation de son intervention prend parfois plus de temps que la réunion en elle-même. Si vous peinez à formuler vos accomplissements de la veille, vos objectifs du jour et vos éventuels points de blocage, ce prompt est votre meilleur allié. Il transformera vos logs techniques bruts en un résumé limpide et professionnel, prêt à être partagé avec votre équipe.
 
 ---
 
 ## ⚡️ Résumé en 3 points (TL;DR)
 
 1. **Fini les trous de mémoire :** Transformez vos messages de commit ou vos notes en un script de réunion parfaitement structuré.
-2. **Format Agile standardisé :** Génère automatiquement les sections "Hier", "Aujourd'hui" et "Bloqueurs".
-3. **Gain de temps au quotidien :** Préparez votre intervention en moins d'une minute chrono juste avant la réunion.
+2. **Format Agile standardisé :** Générez automatiquement les sections "Hier", "Aujourd'hui" et "Bloqueurs".
+3. **Gain de temps au quotidien :** Préparez votre intervention en moins d'une minute chrono, juste avant la réunion.
 
 ---
 
-## 🚀 La Solution : "Le Générateur de Stand-up"
+## 🚀 La solution : "Le générateur de stand-up"
 
-### 🥉 Version Basique
+### 🥉 Version basique
 
 À utiliser lorsque vous êtes dans l'urgence absolue et que vous avez simplement besoin d'une mise en forme rapide de vos notes.
 
@@ -43,7 +43,7 @@ Le *Daily Stand-up* est censé être un point de synchronisation rapide, mais pr
 > **Tâche :** Résume les tâches suivantes pour mon daily stand-up en respectant ce format : 1. Ce que j'ai fait hier, 2. Ce que je fais aujourd'hui, 3. Points de blocage.
 > **Données :** `[Collez vos messages de commit ou vos notes en vrac ici]`
 
-### 🥇 Version Pro
+### 🥇 Version pro
 
 Idéale pour structurer un discours professionnel, valoriser votre impact et identifier clairement les dépendances à remonter au Scrum Master.
 
@@ -56,12 +56,12 @@ Idéale pour structurer un discours professionnel, valoriser votre impact et ide
 >
 > **Tâche (Task) :**
 >
-> 1. Analyse les `[Données Brutes]` fournies ci-dessous.
+> 1. Analyse les `[Données brutes]` fournies ci-dessous.
 > 2. Rédige un script de stand-up structuré en 3 parties distinctes : **Hier**, **Aujourd'hui**, et **Bloqueurs / Dépendances**.
 > 3. Traduis le jargon technique excessif en valeur métier concrète.
 > 4. Adopte un ton professionnel, direct et collaboratif.
 >
-> **Données Brutes :**
+> **Données brutes :**
 > `[Insérez ici vos logs de commit Git, vos tickets Jira fermés ou vos notes en vrac]`
 >
 > **Contraintes (Constraints) :**
@@ -76,25 +76,25 @@ Idéale pour structurer un discours professionnel, valoriser votre impact et ide
 
 ---
 
-## 💡 L'Avis de l'Expert (Insight)
+## 💡 L'avis de l'expert (Insight)
 
 La préparation du stand-up est une tâche chronophage, mais elle revêt un véritable enjeu de communication au sein de l'équipe. Les développeurs ont souvent le défaut de trop s'attarder sur les détails de bas niveau (ex. : "J'ai refactorisé le composant X pour éviter un re-render inutile...").
 
-La véritable force de cette version Pro réside dans sa capacité à faire le pont entre la technique et le produit. En exigeant de l'IA qu'elle "traduise le jargon technique en valeur métier", vous démontrez que vous n'êtes pas qu'un simple exécutant, mais un ingénieur qui saisit l'impact réel de son code. C'est précisément ce niveau de clarté qui rassure les Product Owners et valorise votre profil auprès du management.
+La véritable force de cette version pro réside dans sa capacité à faire le pont entre la technique et le produit. En exigeant de l'IA qu'elle "traduise le jargon technique en valeur métier", vous démontrez que vous n'êtes pas qu'un simple exécutant, mais un ingénieur qui saisit l'impact réel de son code. C'est précisément ce niveau de clarté qui rassure les Product Owners et valorise votre profil auprès du management.
 
 ---
 
-## 🙋 Foire Aux Questions (FAQ)
+## 🙋 Foire aux questions (FAQ)
 
 - **Q : Comment récupérer rapidement mes logs de commit d'hier ?**
-  - A : Si vous utilisez Git en ligne de commande, tapez simplement : `git log --author="Votre Nom" --since="yesterday" --oneline`. Copiez le résultat et collez-le directement dans le prompt.
+  - R : Si vous utilisez Git en ligne de commande, tapez simplement : `git log --author="Votre Nom" --since="yesterday" --oneline`. Copiez le résultat et collez-le directement dans le prompt.
 
 - **Q : Ce prompt fonctionne-t-il si je ne suis pas développeur (ex. : Marketing, Design) ?**
-  - A : Absolument ! Remplacez simplement "Tech Lead" par l'intitulé de votre poste (ex. : "Senior Marketer") et collez votre to-do list ou les e-mails traités à la place des logs de commit. L'IA s'adaptera parfaitement à votre contexte.
+  - R : Absolument ! Remplacez simplement "Tech Lead" par l'intitulé de votre poste (ex. : "Senior Marketer") et collez votre to-do list ou les e-mails traités à la place des logs de commit. L'IA s'adaptera parfaitement à votre contexte.
 
 ---
 
-## 🧬 Décryptage du Prompt (Pourquoi ça marche ?)
+## 🧬 Décryptage du prompt (Pourquoi ça marche ?)
 
 1. **Cadrage temporel et format (Constraints) :** En imposant une limite stricte ("moins de 60 secondes de temps de parole"), nous forçons l'IA à synthétiser l'information et à éliminer le superflu.
 2. **Traduction Technique -> Métier (Task 3) :** C'est la clé de voûte d'un stand-up réussi. L'IA comprend qu'elle doit vulgariser les termes complexes pour rendre votre intervention pertinente pour l'ensemble de l'équipe agile.
@@ -102,7 +102,7 @@ La véritable force de cette version Pro réside dans sa capacité à faire le p
 
 ---
 
-## 📊 La Preuve : Avant & Après
+## 📊 La preuve : Avant & Après
 
 ### ❌ Avant (Données brutes / Commits Git)
 

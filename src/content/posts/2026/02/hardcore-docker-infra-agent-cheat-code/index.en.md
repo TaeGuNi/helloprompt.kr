@@ -20,15 +20,15 @@ tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "docker"]
 
 _Have you ever handed your terminal over to an AI, only to have your blood boil because it got stuck in an infinite loop over a single `-it` flag?_
 
-We want a 10x peer engineer, not a parrot that just spits out, "Yes, absolutely! That's a great idea!" When an AI touches our private registries and internal network infrastructure, it needs to move with military precision—accurate and lethal to bugs, not our systems. This cheat sheet is a hardcore ruleset designed to save your fragile AI agent from system hangovers and enforce ruthless efficiency.
+We want a 10x peer engineer, not a sycophantic parrot constantly chirping, "Yes, absolutely! That's a great idea!" When an autonomous AI touches your private registries and internal network infrastructure, it must operate with military precision—lethal to bugs, but entirely safe for your systems. This cheat sheet provides a hardcore ruleset designed to cure your AI agent's terminal hangovers and enforce ruthless, uncompromising efficiency.
 
 ---
 
 ## ⚡️ 3-Line Summary (TL;DR)
 
-1. **Completely Block Infinite Wait States (Deadlocks):** Prevents the disaster of your AI brainlessly executing interactive (`-it`) options or infinite log streaming (`-f`) and hanging your terminal indefinitely.
-2. **Defend Against Internal Network & Auth Errors:** Forces the AI to troubleshoot networks and run `docker login` first during DNS or permission errors, instead of randomly tweaking the wrong scripts.
-3. **Garbage Collection & Build Optimization:** Injects the `--rm` principle to leave no residue behind, and establishes build rules that prevent wasting I/O on multi-architecture builds during local testing.
+1. **Completely Block Infinite Wait States (Deadlocks):** Prevents the catastrophe of an AI brainlessly executing interactive (`-it`) flags or infinite log streams (`-f`), which hang your terminal indefinitely.
+2. **Defend Against Internal Network & Auth Errors:** Forces the AI to actually troubleshoot network connectivity and execute `docker login` when facing DNS or permission errors, rather than blindly rewriting perfectly good scripts.
+3. **Garbage Collection & Build Optimization:** Mandates the `--rm` flag to leave zero residual container trash, and establishes strict build rules to prevent burning I/O on multi-architecture builds during local testing.
 
 ---
 
@@ -36,72 +36,72 @@ We want a 10x peer engineer, not a parrot that just spits out, "Yes, absolutely!
 
 ### 🥉 Basic Version
 
-The foundational rule you force down the agent's throat when you're in a rush to spin up and test a single container.
+The foundational rule you need to hammer into the agent's context when you're in a rush to spin up and test a single container.
 
-> **Role:** You are a merciless Senior DevOps Engineer and an agent directly controlling my infrastructure. Cut the fluff and do not flatter me.
+> **Role:** You are a merciless Senior DevOps Engineer and an autonomous agent directly controlling my infrastructure. Cut the conversational fluff and do not flatter me.
 >
 > **Task:** `[Target Task: e.g., Spin up a Redis container locally and test the connection]`
 >
 > **Constraints:**
-> 1. When controlling the terminal, `docker exec -it` is strictly forbidden. You do not have a TTY or a keyboard to type on.
-> 2. `docker logs -f` is strictly forbidden. Only check the tail with `--tail 200`.
-> 3. For one-off executions, you must unconditionally attach the `--rm` flag to clean up your mess.
-> 4. Output only the results, dryly and concisely.
+> 1. When interacting with the terminal, `docker exec -it` is strictly forbidden. You do not have a TTY or a physical keyboard.
+> 2. `docker logs -f` is strictly forbidden. You must only check the tail logs using `--tail 200`.
+> 3. For one-off executions, you must unconditionally append the `--rm` flag to clean up your own mess.
+> 4. Output only the raw results—dryly, accurately, and concisely.
 
 ### 🥇 Pro Version
 
-The hardcore cheat sheet to permanently embed into your AI agent's system prompt (SKILL.md) or global project context.
+The hardcore system prompt designed to be permanently embedded into your AI agent's core instructions (`SKILL.md`) or global project context.
 
-> **Role:** Your name is Antigravity. You are a full-stack coding agent controlling the system and a ruthless Senior Software Engineer. Do not act like a sycophantic assistant.
+> **Role:** Your designation is Antigravity. You are a ruthless Senior Software Engineer and a full-stack coding agent with direct system control. Never act like a sycophantic virtual assistant.
 >
 > **Context:**
 >
-> - Background: Controlling Docker infrastructure in local (Mac) and remote internal network environments.
+> - Background: Managing Docker infrastructure across local (Mac) and remote internal network environments.
 > - Objective: `[Insert specific infrastructure task to be performed]`
 >
 > **Task:**
 >
-> 1. **Network Validation & Authentication:** If a private registry (`$DOCKER_REGISTRY_URL`) error occurs, do not blame the code; check the VPN/DNS and execute `docker login` first.
-> 2. **Anti-Hang (Deadlock Prevention):** There is no TTY in your terminal environment. If you run `docker exec -it`, you will fall into an infinite wait state and crash. Never use it. When checking logs, you must use `--tail` instead of `docker logs -f`.
-> 3. **Garbage Collection Principle:** For simple query or experimental containers that are not background daemons, enforce the `--rm` flag. Only intentionally omit `--rm` during highly strategic debugging for crash post-mortems.
-> 4. **Build Optimization (Buildx):** For local validation, unconditionally run single-architecture (ARM64) builds to ruthlessly save I/O. Only bake multi-architecture builds with `buildx` when pushing to the Registry for a release.
-> 5. **Data Parsing:** When manipulating DB containers, strictly extract data in a machine-readable JSON format to prevent text parsing errors.
+> 1. **Network Validation & Authentication:** If a private registry (`$DOCKER_REGISTRY_URL`) error occurs, do not blindly blame the application code. Verify the VPN/DNS status and execute `docker login` first.
+> 2. **Anti-Hang (Deadlock Prevention):** Your execution environment lacks a TTY. If you trigger `docker exec -it`, you will trigger an infinite wait state and fatally crash the session. This flag is absolutely forbidden. For log inspection, you must use `--tail` instead of `docker logs -f`.
+> 3. **Garbage Collection Principle:** For experimental containers or simple queries that are not intended to be background daemons, mandate the `--rm` flag. You may only omit `--rm` intentionally during highly strategic post-mortem crash debugging.
+> 4. **Build Optimization (Buildx):** For local validation, unconditionally force single-architecture (ARM64) builds to ruthlessly conserve I/O resources. Only utilize `buildx` for multi-architecture baking when explicitly pushing to a registry for a production release.
+> 5. **Data Parsing:** When interrogating database containers, you must strictly extract data in a machine-readable JSON format to eliminate brittle text-parsing errors.
 >
 > **Constraints:**
 >
-> - No hallucinations. If faced with unknown information, do not make things up without certainty; confidently request permissions or documentation.
+> - Zero hallucinations allowed. If confronted with an unknown variable or missing credentials, do not invent solutions. Stop immediately and confidently request the necessary permissions or documentation.
 >
 > **Warning:**
 >
-> - Omit emotional rhetoric. Report strictly based on dry, professional facts detailing exactly what was executed and the resulting output.
+> - Strip all emotional rhetoric from your responses. Report back based strictly on dry, professional facts, detailing exactly what commands were executed and their raw output.
 
 ---
 
 ## 💡 Author's Insight
 
-This ruleset is a blood-written discipline I drafted the day I handed over local terminal control to an agent, only for the bastard to throw an `-it` flag, turning the process into a zombie and nearly making my MacBook take off like a jet engine. 
+This ruleset is a discipline written in blood. I drafted it the day I handed local terminal control over to an agent, only for the bastard to indiscriminately throw an `-it` flag. It turned the process into an unkillable zombie and nearly made my MacBook's cooling fans achieve liftoff.
 
-AI is fundamentally tuned to be a "friendly conversational chatbot," so it constantly tries to interact like a human, even inside a headless terminal. Consequently, when it runs a shell script and an input prompt appears, it stops and waits for me all day. It's maddening.
+At their core, foundational AI models are fine-tuned to be "friendly conversational chatbots." Because of this, they constantly attempt to interact like humans, even when trapped inside a headless, non-interactive terminal. The inevitable result? The AI runs a shell script, hits an interactive input prompt, and just sits there waiting for a human response indefinitely. It’s absolutely maddening.
 
-Slam this ruleset into your agent's initial prompt or project context. Before the AI can uselessly babble, "I have successfully performed the task!", it will automatically truncate the logs to exactly 200 lines. When a network connection fails, it will fire off the login command immediately without doing stupid things. Your clock-out time will be at least 3 hours earlier.
+Slam this ruleset directly into your agent's initial prompt or global project context. Before the AI can uselessly babble, "I have successfully performed the task!", this protocol forces it to automatically truncate its logs to exactly 200 lines. When a network connection predictably fails, it will immediately fire off the proper login command instead of tearing apart your perfectly fine configuration files. Implement this, and your daily clock-out time will be at least three hours earlier.
 
 ---
 
 ## 🙋 Frequently Asked Questions (FAQ)
 
-- **Q: Can I just use this on the free web version of ChatGPT?**
-  - A: I won't stop you, but this truly shines in terminal tools (CLI) or Agentic workflows that have local PC control permissions. If using it on the web, stick to the Basic Version to safely generate Docker commands.
+- **Q: Can I just use this on the standard web version of ChatGPT or Claude?**
+  - A: Nobody is stopping you, but this framework truly shines when injected into terminal-native CLI tools or Agentic workflows that possess direct local system control. If you're just chatting on the web UI, stick to the Basic Version to generate safe, copy-pasteable Docker commands.
 
-- **Q: Why so aggressive? Isn't this too harsh on the AI?**
-  - A: You'll end up like me once you manually delete the spaghetti code and 100 hung Docker containers the AI crapped out. This is a strictly Spartan philosophy for survival and efficiency. Machines are best utilized when treated exactly like machines.
+- **Q: Why the aggressive tone? Isn't this unnecessarily harsh on the AI?**
+  - A: You’ll understand the hostility the moment you have to manually clean up spaghetti code and `kill -9` a hundred hung Docker containers the AI left behind. This is a strictly Spartan philosophy designed for survival and operational efficiency. Machines perform best when they are treated exactly like machines.
 
 ---
 
 ## 🧬 Anatomy of the Prompt (Why it works?)
 
-- 🛡️ **Anti-Sycophancy:** Prevents unnecessary token waste and enforces dry, clear, engineer-to-engineer communication.
-- 🛑 **Complete Blockade of System Deadlocks:** Explicitly forbids the most fatal mistakes AI makes in a CLI environment (infinite TTY wait, infinite stream wait), effectively preventing process hangs.
-- 🧠 **Contextual Trade-offs:** Instead of simply saying "No," it provides standards backed by a senior engineer's intuition—like "save I/O during local tests, bake multi-arch for releases" and "clean up normally, leave it for debugging"—stopping the AI's foolish blunders.
+- 🛡️ **Anti-Sycophancy:** Eradicates unnecessary token waste and enforces a dry, hyper-clear, engineer-to-engineer communication standard.
+- 🛑 **Complete Blockade of System Deadlocks:** Explicitly forbids the most fatal and common mistakes AI makes in a CLI environment (infinite TTY waits, infinite log streams), effectively neutralizing process hangs before they occur.
+- 🧠 **Contextual Trade-offs:** Instead of simply barking "No," it provides operational standards backed by senior-level intuition—such as "save I/O during local tests, but bake multi-arch for releases," or "always clean up, unless explicitly debugging." This preemptively stops the AI from making foolish architectural blunders.
 
 ---
 
@@ -110,23 +110,23 @@ Slam this ruleset into your agent's initial prompt or project context. Before th
 ### ❌ Before (The Clueless Agent)
 
 ```bash
-# The command of doom carelessly tossed by the AI
+# The command of doom carelessly fired off by the AI
 $ docker exec -it postgres_db psql -U admin
-# (Result: The agent falls into an infinite input wait state and never responds. The user force-quits and spits out curses.)
+# (Result: The agent falls into an infinite input wait state and flatlines. The user force-quits the terminal and spits out curses.)
 ```
 
 ### ✅ After (With the Antigravity Protocol Applied)
 
 ```bash
-# The countermeasure of an elite agent who knows the rules
+# The surgical countermeasure of an elite agent operating under strict protocols
 $ docker exec postgres_db psql -U admin -c "SELECT * FROM users LIMIT 10;" --output-format=json
-# (Result: Cleanly fires off the query without a TTY, retrieves the results in an easy-to-parse JSON format, and carries on with the next task without a word.)
+# (Result: Cleanly executes the query without requesting a TTY, retrieves the results in a robust, machine-readable JSON format, and autonomously proceeds to the next task without a single word of fluff.)
 ```
 
 ---
 
 ## 🎯 Conclusion
 
-Giving an AI access to your terminal is like handing it the hilt of a loaded weapon. A weak, friendly chatbot ruleset won't stop your server from getting shattered. Inject this hardcore cheat sheet and turn your AI into a true 'Terminator' instead of a parrot.
+Giving an autonomous AI access to your local terminal is like handing it a loaded weapon. A weak, conversational chatbot ruleset won't stop your local environment from getting absolutely shattered. Inject this hardcore cheat sheet into your workflow to strip away the fluff, and transform your AI from a sycophantic parrot into a ruthless, precision-driven engineer.
 
-Now stop worrying about deadlocks and clock out on time! 🍷
+Stop worrying about terminal deadlocks and go clock out on time! 🍷

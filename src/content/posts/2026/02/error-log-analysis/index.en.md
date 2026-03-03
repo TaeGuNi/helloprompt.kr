@@ -5,13 +5,13 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Development"
-description: "A debugging helper prompt that cuts through thousands of lines of cryptic error logs to pinpoint root causes and propose actionable fixes."
+description: "A powerful debugging prompt that cuts through thousands of lines of cryptic error logs to pinpoint root causes and deliver actionable fixes instantly."
 tags: ["Debugging", "Error Log", "Troubleshooting"]
 ---
 
 # 📝 Unknown Error Log: Analyze the Root Cause in 10 Seconds
 
-- **🎯 Recommended For:** Junior Developers, DevOps Engineers, and anyone facing a wall of red text
+- **🎯 Recommended For:** Junior Developers, DevOps Engineers, and anyone staring down a massive wall of red text
 - **⏱️ Time Saved:** Hours of manual log scrolling → 10 seconds
 - **🤖 Recommended Model:** Claude 3.5 Sonnet or GPT-4o (Models with large context windows excel at log analysis)
 
@@ -46,24 +46,24 @@ Use this when you just need a quick result.
 
 Use this when you need detailed quality and a structured resolution path. Copy the prompt below and paste it into your AI of choice.
 
-> **Role (Role):** You are an elite `[Senior DevOps Engineer and Debugging Specialist]`.
+> **Role:** You are an elite `[Senior DevOps Engineer and Debugging Specialist]`.
 >
-> **Situation (Context):**
+> **Context:**
 >
 > - Background: A `[Critical Application Crash]` occurred during runtime. The log is massive and cryptic, making it difficult to pinpoint the source of the issue.
 > - Goal: Identify the exact root cause of the failure and resolve it permanently.
 >
-> **Task (Task):**
+> **Task:**
 >
 > 1. Analyze the provided error log and summarize the **Root Cause** in a single, clear sentence.
 > 2. Explain the technical background of _why_ this specific failure occurred in simple terms.
 > 3. Provide a step-by-step action plan to fix the issue (e.g., specific code modifications, dependency updates, or configuration changes).
 >
-> **Constraints (Constraints):**
+> **Constraints:**
 >
 > - Present the solution steps using clear Markdown formatting, including correctly tagged code blocks.
 >
-> **Warning (Warning):**
+> **Warning:**
 >
 > - If the log does not contain enough information to determine the root cause, explicitly state what additional logs or context you need. Do not hallucinate a fix.
 >

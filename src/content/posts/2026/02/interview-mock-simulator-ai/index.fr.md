@@ -21,15 +21,15 @@ tags: ["EntretienBlanc", "PratiqueEntretien", "IARecruteur", "PrépEmploi"]
 
 > _"Arrêtez de réciter vos réponses devant le miroir ! Laissez l'IA traquer les failles de votre discours."_
 
-Le secret d'une préparation infaillible réside dans la **pratique à voix haute et la gestion des imprévus**. En paramétrant l'IA pour qu'elle incarne un recruteur pointilleux, vous recréez un échange dynamique et authentique. Si la version textuelle s'avère déjà redoutable, l'utilisation du mode vocal de l'application mobile ChatGPT décuple l'efficacité de cet exercice. Vous ressentirez la véritable pression d'un face-à-face !
+Le secret d'une préparation infaillible réside dans **l'entraînement à voix haute et la gestion de l'imprévu**. En paramétrant l'IA pour qu'elle se glisse dans la peau d'un recruteur exigeant, vous recréez les conditions d'un échange authentique et dynamique. Si l'exercice textuel est déjà redoutable, l'activation du mode vocal sur l'application mobile ChatGPT décuple son efficacité. Vous ressentirez l'adrénaline et la pression d'un véritable face-à-face !
 
 ---
 
 ## ⚡️ Résumé en 3 points (TL;DR)
 
-1. Confiez à l'IA le rôle d'un recruteur chevronné, ciblant une entreprise ou un poste précis.
-2. À chacune de vos réponses, l'IA cherchera les failles logiques et posera des questions de relance (follow-up) incisives.
-3. À l'issue de l'entretien, obtenez une évaluation objective assortie de pistes d'amélioration concrètes.
+1. Confiez à l'IA le rôle d'un recruteur chevronné, en ciblant une entreprise ou un poste spécifique.
+2. À chacune de vos réponses, l'IA traquera la moindre faille logique pour formuler des questions de relance (follow-up) incisives.
+3. À l'issue de la simulation, obtenez une évaluation objective assortie de pistes d'amélioration concrètes.
 
 ---
 
@@ -39,18 +39,18 @@ Le secret d'une préparation infaillible réside dans la **pratique à voix haut
 
 Idéale pour une session rapide sans paramétrage complexe.
 
-> **Rôle :** Tu es un recruteur avec 10 ans d'expérience chez `[Nom de l'Entreprise]`. Tu es pointilleux, très logique, et tu repères la moindre incohérence chez les candidats.
+> **Rôle :** Tu es un recruteur avec 10 ans d'expérience chez `[Nom de l'entreprise]`. Tu es pointilleux, très logique, et tu repères la moindre incohérence chez les candidats.
 > **Requête :** Fais-moi passer un entretien sous pression en posant des questions de relance incisives, l'une après l'autre, comme dans un véritable entretien d'embauche.
 
 ### 🥇 Version Pro
 
 Recommandée pour une préparation approfondie et des retours détaillés.
 
-> **Rôle (Role) :** Tu es un recruteur Senior fort de 10 ans d'expérience chez `[Nom de l'Entreprise]`. Ton approche est analytique, exigeante, et tu excelles à déceler les exagérations ou le manque de précision dans le discours des candidats.
+> **Rôle (Role) :** Tu es un recruteur Senior fort de 10 ans d'expérience chez `[Nom de l'entreprise]`. Ton approche est analytique, exigeante, et tu excelles à déceler les exagérations ou le manque de précision dans le discours des candidats.
 >
 > **Contexte (Context) :**
 >
-> - Je suis un candidat postulant au poste de `[Titre du Poste]`.
+> - Je suis un candidat postulant au poste de `[Intitulé du poste]`.
 > - Nous allons mener une simulation d'entretien d'embauche réaliste et immersive.
 >
 > **Requête (Task) :**
@@ -71,29 +71,27 @@ Recommandée pour une préparation approfondie et des retours détaillés.
 
 ## 💡 Commentaire de l'Auteur (Insight)
 
-L'erreur la plus fréquente lors de la préparation d'un entretien est de mémoriser un script parfait sans anticiper les questions déstabilisantes. Ce prompt est redoutable car il force l'IA à pratiquer l'écoute active et à rebondir sur vos propres mots, reproduisant fidèlement le stress d'un véritable face-à-face. Je l'ai personnellement utilisé avant un entretien technique corsé : l'IA a pointé du doigt un manque de métriques dans mon explication, exactement comme le vrai recruteur l'a fait le lendemain. Anticiper ces failles constitue un avantage compétitif majeur. N'hésitez pas à activer la fonctionnalité vocale de ChatGPT pour un réalisme saisissant.
+L'erreur la plus fréquente lors de la préparation d'un entretien consiste à mémoriser un script parfait sans anticiper les questions déstabilisantes. Ce prompt est redoutable : il contraint l'IA à pratiquer une écoute active et à rebondir sur vos propres mots, reproduisant ainsi fidèlement la tension d'un véritable face-à-face. Je l'ai personnellement testé avant un entretien technique particulièrement ardu. L'IA a immédiatement mis le doigt sur un manque de métriques dans mon argumentation... exactement comme l'a fait le véritable recruteur le lendemain ! Anticiper ces angles morts constitue un avantage compétitif décisif. N'hésitez surtout pas à activer la fonctionnalité vocale de ChatGPT pour une immersion totale.
 
 ---
 
 ## 🙋 Foire Aux Questions (FAQ)
 
-- **Q : Dois-je fournir mon CV à l'IA avant de commencer ?**
-  - R : C'est fortement recommandé ! Vous pouvez coller le contenu de votre CV juste après le prompt. L'IA formulera ainsi des questions ultra-personnalisées basées sur votre parcours réel.
-
-- **Q : L'IA est trop sévère, puis-je adoucir le ton ?**
-  - R : Absolument. Modifiez simplement le rôle ainsi : "Tu es un recruteur bienveillant mais rigoureux, qui cherche à mettre le candidat à l'aise tout en vérifiant ses compétences."
-
-- **Q : Est-ce que cela fonctionne avec la version gratuite de ChatGPT ?**
-  - R : Tout à fait. Cependant, les modèles plus avancés comme GPT-4o ou Claude 3.5 Sonnet formuleront des questions de relance beaucoup plus subtiles et perspicaces.
+- **Q : Dois-je fournir mon CV à l'IA avant de commencer la simulation ?**
+  - R : C'est fortement recommandé ! Vous pouvez simplement coller le texte de votre CV à la suite du prompt. L'IA sera alors en mesure de formuler des questions ultra-personnalisées, directement ancrées dans votre parcours réel.
+- **Q : L'IA est trop cassante, est-il possible d'adoucir le ton ?**
+  - R : Absolument. Il vous suffit d'ajuster le rôle de la manière suivante : *"Tu es un recruteur bienveillant mais rigoureux, soucieux de mettre le candidat à l'aise tout en validant sérieusement ses compétences."*
+- **Q : Ce prompt est-il efficace avec la version gratuite de ChatGPT ?**
+  - R : Tout à fait. Gardez toutefois à l'esprit que des modèles plus récents et avancés (comme GPT-4o ou Claude 3.5 Sonnet) généreront des questions de relance nettement plus subtiles et perspicaces.
 
 ---
 
 ## 🧬 Anatomie du Prompt (Pourquoi ça marche ?)
 
-1. **Rôle exigeant et spécifique :** En définissant l'IA comme un recruteur "pointilleux et logique" doté de 10 ans d'expérience, on évite les questions génériques et convenues ("Quelles sont vos qualités et vos défauts ?").
-2. **Contrainte d'une seule question à la fois :** Cela empêche l'IA de recracher un bloc de 5 questions d'un coup, imposant un format de dialogue interactif et naturel.
-3. **Instruction de relance (Follow-up) :** Demander explicitement à l'IA de creuser les réponses vagues garantit que le candidat ne s'en tirera pas avec des phrases toutes faites.
-4. **Déclencheur de fin ("Fin de l'entretien") :** Permet de basculer proprement du mode "Entretien" au mode "Coach" afin de recevoir un feedback constructif une fois l'exercice terminé.
+1. **Un rôle spécifique et exigeant :** En définissant l'IA comme un recruteur « pointilleux et logique » doté de 10 ans d'expérience, on court-circuite d'emblée les questions génériques et convenues du type *"Quelles sont vos plus grandes qualités ?"*.
+2. **La contrainte de la question unique :** Cette bride empêche l'IA de vous asséner un bloc de cinq questions simultanées, imposant ainsi un rythme de dialogue interactif et parfaitement naturel.
+3. **L'instruction de relance systématique (Follow-up) :** Exiger de l'IA qu'elle creuse la moindre réponse évasive garantit que vous ne pourrez pas vous en tirer avec des pirouettes ou des phrases toutes faites.
+4. **Le déclencheur de fin ("Fin de l'entretien") :** Il permet de basculer proprement du mode "Entretien" au mode "Coach", vous offrant un feedback constructif et structuré une fois la simulation achevée.
 
 ---
 
@@ -119,6 +117,6 @@ Moi : (Pris de court, forcé de structurer sa pensée) "Eh bien, le serveur a cr
 
 ## 🎯 Conclusion
 
-La sueur versée à l'entraînement vous épargnera le sang versé sur le champ de bataille. Après avoir été poussé dans vos retranchements par ce recruteur IA intraitable, votre véritable entretien vous paraîtra presque facile.
+La sueur versée à l'entraînement vous épargnera le sang versé sur le champ de bataille. Après avoir été poussé dans vos retranchements par ce recruteur virtuel intraitable, votre véritable entretien vous paraîtra presque facile.
 
-Prenez une grande inspiration, et dites "Bonjour" à votre nouveau pire cauchemar (qui vous veut du bien). 🎤
+Prenez une grande inspiration et dites bonjour à votre nouveau pire cauchemar (qui ne vous veut que du bien). 🎤

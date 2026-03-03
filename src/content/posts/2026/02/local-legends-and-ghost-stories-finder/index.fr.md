@@ -16,7 +16,7 @@ tags:
   ]
 ---
 
-# 📝 Débusquer les Légendes et Histoires de Fantômes Réservées aux Initiés
+# 📝 Débusquer les Légendes Locales et Histoires de Fantômes Réservées aux Initiés
 
 - **🎯 Idéal pour :** Voyageurs passionnés, guides touristiques, créateurs de contenu
 - **⏱️ Temps gagné :** 30 minutes de recherche → 1 minute
@@ -28,7 +28,7 @@ tags:
 
 > _"Connaissez-vous l'histoire de la femme en pleurs emmurée sous les somptueux remparts de cette ville ?"_
 
-Derrière chaque lieu historique se dissimule une légende sombre ou un conte captivant. Ces récits mystérieux, souvent ignorés des guides touristiques traditionnels, ont le pouvoir de transformer une simple visite en une véritable aventure occulte. Révélez le charme insoupçonné de ces destinations qui, bien que radieuses le jour, dévoilent une aura glaçante à la nuit tombée.
+Derrière chaque haut lieu historique se dissimule une légende sombre ou un conte captivant. Ces récits mystérieux, trop souvent ignorés des guides touristiques traditionnels, ont le pouvoir de transformer une simple balade en une véritable expédition occulte. Révélez le charme insoupçonné de ces destinations qui, bien que radieuses de jour, dévoilent une aura glaçante à la nuit tombée.
 
 ---
 
@@ -44,7 +44,7 @@ Derrière chaque lieu historique se dissimule une légende sombre ou un conte ca
 
 ### 🥉 Version Basique
 
-Idéal pour dénicher rapidement une légende frissonnante, sans s'encombrer de détails complexes.
+Idéal pour dénicher rapidement une légende frissonnante, sans s'encombrer de détails superflus.
 
 > **Rôle :** Tu es un "Chercheur de Mystères" qui collectionne les récits étranges et les légendes urbaines des quatre coins du globe.
 > **Requête :** Raconte-moi une légende locale ou une histoire de fantôme terrifiante liée à `[Nom de la ville ou de la région]`.

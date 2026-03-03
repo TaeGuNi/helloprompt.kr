@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "업무 효율화"
-description: "Wühlst du panisch in deinen Commits, weil du vergessen hast, was du gestern gemacht hast? Wirf einfach deine Logs in die KI und erhalte ein perfektes Stand-up-Skript."
+description: "Wühlst du jeden Morgen panisch in deinen Commits, weil du vergessen hast, woran du gestern gearbeitet hast? Wirf deine Logs einfach in die KI und erhalte in Sekundenschnelle ein perfektes Skript für dein Daily Stand-up."
 tags: ["스탠드업", "회의준비", "개발자", "회고"]
 ---
 
@@ -21,7 +21,7 @@ tags: ["스탠드업", "회의준비", "개발자", "회고"]
 
 > _"Wühlst du morgens vor dem Daily Stand-up auch panisch in deinen GitHub-Commits, weil du schon wieder vergessen hast, was du gestern eigentlich gemacht hast?"_
 
-Ein Daily Stand-up soll kurz und knackig sein, doch oft frisst allein die Vorbereitung mehr Zeit als das eigentliche Meeting. Wenn es dir schwerfällt, deine Arbeit präzise und teamgerecht auf den Punkt zu bringen, überlass diese mühsame Aufgabe einfach der KI. Wirf ihr deine unstrukturierten Notizen oder rohen Commit-Logs hin – und sie liefert dir ein perfekt formuliertes, professionelles Skript für dein nächstes Meeting.
+Ein Daily Stand-up soll eigentlich kurz und schmerzlos sein, doch in der Realität frisst allein die Vorbereitung oft mehr Zeit als das Meeting selbst. Besonders dann, wenn man am Vortag tief im Code versunken war und sich morgens krampfhaft fragt: „Was genau habe ich eigentlich den ganzen Tag gemacht?“ Wenn es dir schwerfällt, deine technischen Errungenschaften präzise und für alle Teammitglieder verständlich auf den Punkt zu bringen, solltest du diese lästige Pflichtarbeit ab sofort der KI überlassen. Wirf ihr einfach deine unstrukturierten Notizen, rohen Git-Commits oder Jira-Tickets vor die Füße – und sie generiert dir in Sekundenschnelle ein perfekt strukturiertes, professionelles Skript, mit dem du im nächsten Stand-up garantiert glänzen wirst.
 
 ---
 
@@ -69,34 +69,34 @@ Nutze diesen Prompt, wenn du ein detailliertes, perfekt strukturiertes und souve
 > - Verwende Aufzählungspunkte (Bulletpoints) für eine optimale Lesbarkeit.
 >
 > **Eingabedaten:**
-> [Füge hier deine Commit-Logs oder rohen Notizen ein]
+> `[Füge hier deine Commit-Logs oder rohen Notizen ein]`
 
 ---
 
 ## 💡 Autorenkommentar (Insight)
 
-Dieser Prompt ist ein absoluter Lebensretter im Entwickler- und Projektmanagement-Alltag. Wir neigen oft dazu, uns im Stand-up in technischen Details zu verlieren (z. B. „Ich habe die Race Condition im Auth-Service in Zeile 402 gefixt“). Den Product Owner oder Scrum Master interessiert jedoch in erster Linie der geschäftliche Mehrwert („Der kritische Login-Fehler für unsere iOS-Nutzer ist behoben“).
+Dieser Prompt ist ein absoluter Lebensretter im hektischen Entwickler- und Projektmanagement-Alltag. Wir Techies neigen oft dazu, uns im Stand-up in unwichtigen technischen Details zu verlieren (z. B. „Ich habe gestern die Race Condition im Auth-Service in Zeile 402 gefixt“). Den Product Owner oder Scrum Master interessiert jedoch in erster Linie der geschäftliche Mehrwert („Der kritische Login-Fehler für unsere iOS-Nutzer ist behoben“).
 
-Indem wir der KI die Persona eines „Senior Engineers“ mit starker Kommunikationskompetenz zuweisen, agiert sie als brillanter Übersetzer zwischen kryptischem Code und greifbarem Projektfortschritt. Das minimiert nicht nur deine Vorbereitungszeit drastisch, sondern lässt dich im Meeting auch deutlich souveräner, strukturierter und professioneller auftreten.
+Indem wir der KI die Persona eines kommunikationsstarken „Senior Engineers“ zuweisen, agiert sie als brillanter Übersetzer zwischen kryptischem Code und greifbarem Projektfortschritt. Das minimiert nicht nur deine Vorbereitungszeit drastisch, sondern sorgt auch dafür, dass du im Meeting deutlich souveräner, strukturierter und professioneller wahrgenommen wirst.
 
 ---
 
 ## 🙋 Häufig gestellte Fragen (FAQ)
 
 - **F: Funktioniert das auch, wenn meine Notizen extrem chaotisch sind?**
-  - **A:** Ja, absolut. Genau hier spielen große Sprachmodelle (LLMs) ihre ganze Stärke aus. Du kannst unformatierte Gedankenketten, hastig getippte Slack-Nachrichten oder rohe Git-Commits einfach per Copy-and-Paste einfügen. Die KI bringt selbst in das größte Chaos zuverlässig Struktur.
+  - **A:** Ja, absolut. Genau hier spielen große Sprachmodelle (LLMs) ihre volle Stärke aus. Du kannst unformatierte Gedankenketten, hastig getippte Slack-Nachrichten oder rohe Git-Commits einfach per Copy-and-Paste einwerfen. Die KI bringt selbst in das wildeste Chaos zuverlässig Struktur.
 
 - **F: Kann ich den Tonfall des Skripts an die Kultur meines Teams anpassen?**
   - **A:** Selbstverständlich. Wenn in deinem Team eher locker kommuniziert wird, ergänze die Einschränkungen einfach um den Satz: „Verwende einen lockeren, humorvollen und umgangssprachlichen Tonfall.“
 
 - **F: Ist es sicher, interne Firmen-Commits in eine KI einzuspeisen?**
-  - **A:** Hier gilt höchste Vorsicht beim Datenschutz! Entferne zwingend alle sensiblen Daten wie API-Keys, echte Kundennamen oder geheime Projekt-Codenames aus deinen Logs, bevor du sie in öffentliche KI-Modelle eingibst. Im professionellen Umfeld solltest du idealerweise immer die Enterprise-Version (mit deaktiviertem Daten-Training) eurer KI nutzen.
+  - **A:** Hier ist höchste Vorsicht geboten! Entferne zwingend alle sensiblen Daten wie API-Keys, echte Kundennamen oder geheime Projekt-Codenames aus deinen Logs, bevor du sie in öffentliche KI-Modelle eingibst. Im professionellen Umfeld solltest du idealerweise immer die Enterprise-Version eurer KI (mit deaktiviertem Daten-Training) nutzen.
 
 ---
 
 ## 🧬 Anatomie des Prompts (Warum funktioniert das?)
 
-1. **Zielgruppenorientierung:** Die strikte Anweisung, auf „tiefgreifenden technischen Jargon“ zu verzichten, zwingt die KI, den Kontext so zu übersetzen, dass ihn auch interdisziplinäre Teams sofort erfassen.
+1. **Zielgruppenorientierung:** Die strikte Anweisung, auf „tiefgreifenden technischen Jargon“ zu verzichten, zwingt die KI, den Kontext so zu übersetzen, dass ihn auch interdisziplinäre Teammitglieder sofort erfassen.
 2. **Strenge Strukturierung:** Die explizite Vorgabe der essenziellen Kategorien („Gestern“, „Heute“, „Blocker“) garantiert, dass das generierte Format jedes Mal den Best Practices eines agilen Stand-ups entspricht.
 3. **Zeitliche Begrenzung:** Die harte Regel „maximal 60 Sekunden Sprechzeit“ verhindert effektiv, dass die KI ausschweifende Romane generiert, bei denen die Kollegen im Meeting gedanklich abschalten.
 

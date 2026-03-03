@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Quand la Réponse d'Entretien Divague ! Prompt de Structuration de Réponse 'Technique STAR'\""
+title: "Quand la réponse d'entretien divague ! Prompt de structuration 'Technique STAR'"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emploi & Carrière"
-description: " \"Ce prompt utilise la méthode STAR (Situation, Tâche, Action, Résultat) pour structurer vos expériences et en finir avec les réponses confuses lors de vos entretiens d'embauche.\""
+description: "Ce prompt utilise la méthode STAR (Situation, Tâche, Action, Résultat) pour structurer vos expériences et en finir avec les réponses confuses lors de vos entretiens d'embauche."
 tags: ["TechniqueSTAR", "RéponseEntretien", "Structuration", "ParlerLogique"]
 ---
 
@@ -52,7 +52,7 @@ Pour captiver votre interlocuteur, votre récit doit être percutant. C'est là 
 >
 > **Contexte (Context) :**
 >
-> - Je dois préparer une réponse percutante à la question d'entretien suivante : `[Insérez la question du recruteur, ex. : Parlez-moi d'une situation où vous avez dû gérer un conflit]`.
+> - Je dois préparer une réponse percutante à la question d'entretien suivante : `[Insérez la question du recruteur, par ex. : Parlez-moi d'une situation où vous avez dû gérer un conflit]`.
 > - J'ai besoin d'une ossature solide pour éviter de me perdre dans les détails et aller droit au but.
 >
 > **Mon Récit Brut (Input) :**

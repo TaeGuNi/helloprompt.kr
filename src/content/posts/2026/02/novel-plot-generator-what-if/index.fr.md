@@ -11,9 +11,9 @@ tags: ["ÉcritureRoman", "Intrigue", "Idée", "Création"]
 
 # 📝 Générateur d'Intrigues « Et si ? » pour Vaincre la Page Blanche
 
-- **🎯 Recommandé pour :** Romanciers, scénaristes, auteurs de webtoons et écrivains amateurs.
+- **🎯 Recommandé pour :** Romanciers, scénaristes, auteurs de webtoons et écrivains passionnés.
 - **⏱️ Temps estimé :** 5 minutes → Réduit à 1 minute.
-- **🤖 Modèle recommandé :** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (idéal avec des modèles à forte capacité créative).
+- **🤖 Modèle recommandé :** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (idéal avec les modèles à forte capacité créative).
 
 - ⭐ **Difficulté :** ⭐⭐☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -21,15 +21,15 @@ tags: ["ÉcritureRoman", "Intrigue", "Idée", "Création"]
 
 > _"Votre protagoniste vient de franchir la porte du boss final... et soudain, c'est le trou noir. Comment éviter de sombrer dans le cliché ?"_
 
-Lorsqu'on écrit un roman ou un scénario, on finit toujours par se heurter à un mur invisible. Vous fuyez les rebondissements cousus de fil blanc, mais les _deus ex machina_ (ces fameuses solutions de facilité) ruinent la crédibilité de votre récit. C'est précisément là qu'intervient la puissance du **« Et si ? » (What If?)**. Au lieu de bloquer pendant des heures, laissez l'IA défricher une infinité d'arborescences narratives pour vous livrer le twist parfait.
+Lorsqu'on écrit un roman ou un scénario, on finit inévitablement par se heurter à un mur invisible. Vous cherchez désespérément à fuir les rebondissements cousus de fil blanc, mais la tentation du _deus ex machina_ (cette fameuse solution de facilité) menace à tout instant de ruiner la crédibilité de votre récit. C'est précisément là qu'intervient la redoutable efficacité du **« Et si ? » (What If?)**. Au lieu de fixer un écran vide pendant des heures en attendant l'inspiration, laissez l'IA défricher une infinité d'arborescences narratives pour vous livrer le *twist* parfait, prêt à être intégré à votre univers.
 
 ---
 
 ## ⚡️ Résumé en 3 lignes (TL;DR)
 
-1. **Déblocage immédiat :** Décrivez votre situation actuelle et laissez l'IA générer 5 scénarios inattendus.
-2. **Cohérence garantie :** L'IA évalue les risques narratifs et l'impact émotionnel sur vos lecteurs pour chaque option.
-3. **Adaptabilité totale :** Ajustez le ton et les contraintes à votre genre littéraire (Thriller, Romance, Fantasy, etc.).
+1. **Déblocage fulgurant :** Décrivez votre impasse actuelle et laissez l'IA formuler 5 scénarios totalement inattendus.
+2. **Cohérence blindée :** L'IA évalue d'elle-même les risques narratifs et l'impact émotionnel pour chaque option générée.
+3. **Adaptabilité absolue :** Calibrez le ton et les contraintes de manière chirurgicale selon votre genre littéraire (Thriller, Romance, Fantasy, etc.).
 
 ---
 
@@ -74,28 +74,28 @@ Utilisez ce prompt pour une analyse chirurgicale de votre intrigue, anticipant l
 
 ## 💡 L'avis de l'Expert (Writer's Insight)
 
-La véritable puissance de ce prompt se cache dans la section **"Risque Narratif"**. Bien souvent, les IA génèrent des fulgurances qui semblent géniales sur le papier, mais qui finissent par créer d'énormes failles logiques (plot holes) dans votre univers. En forçant l'IA à auto-évaluer la viabilité de ses propres idées, vous vous épargnez des heures de réécriture. À titre personnel, je finis souvent par exploiter la 3ème ou 4ème suggestion de l'IA : les deux premières ont tendance à rester un peu trop scolaires, là où les suivantes osent vraiment bousculer les codes créatifs !
+La véritable puissance de ce prompt réside dans sa section **"Risque Narratif"**. Bien souvent, les intelligences artificielles génèrent des fulgurances qui semblent brillantes sur le papier, mais qui finissent par creuser d'énormes failles logiques (*plot holes*) dans la cohérence de votre univers. En forçant l'IA à auto-évaluer la viabilité de ses propres concepts, vous vous épargnez des heures d'une réécriture laborieuse. À titre personnel, je finis presque toujours par exploiter la troisième ou la quatrième suggestion : les deux premières ont en effet tendance à rester un peu trop scolaires, là où les suivantes osent véritablement bousculer les conventions et exploser les codes créatifs !
 
 ---
 
 ## 🙋 Foire Aux Questions (FAQ)
 
 - **Q : Ce prompt est-il applicable à l'écriture de scénarios pour le cinéma ou les webtoons ?**
-  - A : Totalement. Il vous suffit d'ajuster la variable `[Genre]` et d'affiner le rôle (ex : "Tu es un scénariste de films multiprimé") pour que l'IA adapte son vocabulaire et son sens du rythme.
+  - A : Absolument. Il vous suffit d'ajuster la variable `[Genre]` et d'affiner le rôle (ex : "Tu es un scénariste de films multiprimé") pour que l'IA adapte instantanément son vocabulaire et son sens du rythme dramatique.
 
 - **Q : Que faire si les idées proposées par l'IA restent trop convenues ?**
-  - A : N'hésitez pas à durcir le ton en ajoutant une contrainte extrême. Par exemple : "Contrainte : La scène suivante doit obligatoirement impliquer une trahison déchirante ou la destruction d'un artefact majeur."
+  - A : N'hésitez pas à durcir les règles en ajoutant une contrainte extrême. Par exemple : "Contrainte : La scène suivante doit obligatoirement impliquer une trahison déchirante ou la destruction d'un artefact majeur."
 
 - **Q : Quel modèle d'IA privilégier pour ce genre d'exercice créatif ?**
-  - A : Claude 3.5 Sonnet survole les débats lorsqu'il s'agit de création littéraire et de subtilité narrative. GPT-4o reste une excellente alternative, bien que Claude offre généralement des twists plus nuancés et moins stéréotypés.
+  - A : Claude 3.5 Sonnet survole largement les débats lorsqu'il s'agit de création littéraire et de subtilité narrative. GPT-4o reste une excellente alternative, bien que Claude offre généralement des twists beaucoup plus nuancés et moins stéréotypés.
 
 ---
 
 ## 🧬 Anatomie du Prompt (Pourquoi ça marche ?)
 
-1. **L'expertise du "Plot Doctor" :** En lui assignant ce rôle clinique, l'IA ne se contente plus de broder une histoire ; elle audite votre structure narrative avec l'œil critique d'un éditeur chevronné.
-2. **La psychologie comme boussole :** L'injection de la `[Personnalité du Protagoniste]` assure que les décisions prises resteront organiques et fidèles à votre héros (on sécurise l'approche "character-driven").
-3. **Le crash-test intégré (Effet vs Risque) :** Cette mécanique d'auto-évaluation bride l'IA, l'empêchant de vous vendre des *deus ex machina* impossibles à justifier trois chapitres plus tard.
+1. **L'expertise du "Plot Doctor" :** En lui assignant ce rôle clinique, l'IA ne se contente plus de broder naïvement une histoire ; elle audite votre structure narrative avec l'œil critique et impitoyable d'un éditeur chevronné.
+2. **La psychologie comme boussole :** L'injection de la variable `[Personnalité du Protagoniste]` garantit que les décisions prises resteront organiques et profondément fidèles à votre héros (sécurisant ainsi une approche *character-driven*).
+3. **Le crash-test intégré (Effet vs Risque) :** Cette mécanique d'auto-évaluation bride judicieusement l'IA, l'empêchant de vous vendre des *deus ex machina* impossibles à justifier trois chapitres plus tard.
 
 ---
 
@@ -129,6 +129,6 @@ _(Résultat : Navrant de facilité, cruel manque de tension dramatique, cliché 
 
 ## 🎯 Conclusion
 
-L'écriture reste un cheminement solitaire, mais la terreur de la page blanche appartient désormais au passé. Transformez votre IA en un partenaire de brainstorming infatigable, toujours prêt à vous glisser le prochain « Et si ? » salvateur.
+L'écriture reste un cheminement solitaire, mais la terreur de la page blanche appartient désormais au passé. Transformez votre IA en un partenaire de *brainstorming* infatigable, toujours prêt à vous glisser le prochain « Et si ? » salvateur.
 
 À vos claviers, le prochain chapitre de votre histoire n'attend plus que vous ! ✍️

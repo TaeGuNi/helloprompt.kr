@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Perché la Mia Grammatica è Sbagliata? Insegnante di Correzione 1:1"
+title: "Perché la Mia Grammatica è Sbagliata? Il Tuo Tutor di Scrittura 1:1"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Apprendimento Lingue Straniere"
-description: "Un prompt per un tutor IA che ti spiega il 'perché' dei tuoi errori grammaticali, invece di limitarsi a correggerli."
+description: "Un prompt che trasforma l'IA in un tutor linguistico personale: scopri il 'perché' dei tuoi errori grammaticali e smetti di ripeterli."
 tags: ["GrammaticaInglese", "CorrezioneScrittura", "Prompt", "ScritturaEmail"]
 ---
 
@@ -21,7 +21,7 @@ tags: ["GrammaticaInglese", "CorrezioneScrittura", "Prompt", "ScritturaEmail"]
 
 > _"Grammarly mi corregge gli errori, ma il mio inglese non migliora mai perché non capisco il motivo delle correzioni."_
 
-I classici correttori ortografici si limitano a fornirti il risultato finale: «Questo è sbagliato, scrivi così». Ma a noi interessa il *perché*. Solo comprendendo la ragione per cui si usa `in` al posto di `at`, o perché l'articolo `the` va omesso, eviterai di ripetere all'infinito gli stessi errori. Questo prompt trasforma l'IA nel tuo insegnante privato di inglese: un tutor con la penna rossa, pronto a spiegarti ogni singola sfumatura con estrema pazienza.
+I correttori ortografici tradizionali si limitano a darti il risultato finale: «Questo è sbagliato, scrivi così». A noi, però, interessa il *perché*. Solo comprendendo la ragione per cui si usa `in` al posto di `at`, o il motivo per cui l'articolo `the` va omesso, potrai evitare di ripetere all'infinito gli stessi errori. Questo prompt trasforma l'IA nel tuo insegnante di inglese personale: un tutor rigoroso ma paziente, pronto a spiegarti ogni singola sfumatura.
 
 ---
 
@@ -39,19 +39,19 @@ I classici correttori ortografici si limitano a fornirti il risultato finale: «
 
 Ideale quando hai bisogno di una correzione fulminea accompagnata da una spiegazione essenziale.
 
-> **Ruolo:** Sei un `[Tutor Professionale di Scrittura in Inglese]`.
+> **Ruolo:** Sei un `[Tutor professionale di scrittura in inglese]`.
 > **Richiesta:** Correggi gli errori grammaticali nella mia frase e spiegami in modo semplice `[perché ho sbagliato]`.
 
 ### 🥇 Pro Version (Versione Esperta)
 
 Ideale per un'analisi grammaticale profonda, per ottenere alternative da madrelingua e ricevere una valutazione a 360 gradi del tuo testo.
 
-> **Ruolo (Role):** Sei un `[Tutor Professionale di Scrittura in Inglese]`, paziente ed estremamente meticoloso.
+> **Ruolo (Role):** Sei un `[Tutor professionale di scrittura in inglese]`, paziente ed estremamente meticoloso.
 >
 > **Contesto (Context):**
 >
 > - Sfondo: Ho scritto un testo in inglese, ma ci sono errori o frasi che suonano poco naturali.
-> - Obiettivo: Non voglio solo la correzione, ma esigo capire il "Perché" per poter imparare e perfezionare il mio inglese.
+> - Obiettivo: Non voglio solo la correzione, ma esigo capire il "perché" per poter imparare e perfezionare il mio inglese.
 >
 > **Richiesta (Task):**
 >
@@ -80,21 +80,21 @@ Questo prompt rappresenta un autentico "game-changer" per chiunque operi in un c
 ## 🙋 Domande Frequenti (FAQ)
 
 - **Q: Posso usarlo anche per testi molto lunghi, come articoli o report?**
-  - A: Assolutamente sì! Tuttavia, per testi che superano le 500 parole, ti consiglio di dividere il documento in paragrafi. In questo modo permetterai all'IA di fornirti spiegazioni molto più dettagliate e mirate, senza il rischio che "perda il filo".
+  - A: Assolutamente sì! Tuttavia, per testi che superano le 500 parole, ti consiglio di dividere il documento in paragrafi. In questo modo permetterai all'IA di fornirti spiegazioni molto più dettagliate e mirate, riducendo il rischio che "perda il filo" dell'analisi.
 
 - **Q: Funziona bene anche con la versione gratuita di ChatGPT?**
-  - A: Sì, la versione gratuita (come GPT-3.5 o GPT-4o-mini) è in grado di eseguire questo prompt in modo eccellente. I modelli più avanzati, come Claude 3.5 Sonnet o GPT-4o, tendono però a offrire "Espressioni Native" leggermente più raffinate e meglio contestualizzate.
+  - A: Sì, la versione gratuita (come GPT-3.5 o GPT-4o-mini) è in grado di eseguire questo prompt in modo eccellente. I modelli più avanzati, come Claude 3.5 Sonnet o GPT-4o, tendono però a offrire "Espressioni Native" leggermente più raffinate e contestualizzate.
 
 - **Q: Posso usarlo per studiare altre lingue oltre all'inglese?**
-  - A: Certamente! Ti basterà sostituire `[Tutor Professionale di Scrittura in Inglese]` con `[Tutor Professionale di Scrittura in Spagnolo/Tedesco/ecc.]`. L'architettura logica del prompt rimarrà invariata e si adatterà perfettamente alla nuova lingua.
+  - A: Certamente! Ti basterà sostituire `[Tutor professionale di scrittura in inglese]` con `[Tutor professionale di scrittura in spagnolo/tedesco/ecc.]`. L'architettura logica del prompt rimarrà invariata e si adatterà perfettamente alla lingua scelta.
 
 ---
 
 ## 🧬 Anatomia del Prompt (Perché funziona?)
 
-1. **Focus sull'Apprendimento:** Invece di chiedere un banale "Correggi questo testo", il prompt istruisce l'IA a confrontare il "Prima e Dopo" e a svelare il ragionamento grammaticale, stimolando così la memorizzazione attiva.
+1. **Focus sull'Apprendimento:** Invece di chiedere un banale "Correggi questo testo", il prompt impone all'IA di confrontare il "Prima e Dopo" svelando il ragionamento grammaticale, stimolando così la memorizzazione attiva e la comprensione profonda.
 2. **Strutturazione Chiara (Task):** La rigida suddivisione in blocchi (Versione Rivista, Nota di Correzione, Espressioni Native, Valutazione) rende l'output facilissimo da leggere e da assimilare mentalmente, un fattore essenziale per un apprendimento rapido.
-3. **Vincoli Anti-Gergo:** La direttiva "spiega in modo semplice senza termini accademici complessi" impedisce all'IA di generare noiosi papiri teorici, mantenendo il focus sulla massima praticità.
+3. **Vincoli Anti-Gergo:** La direttiva "spiega in modo semplice senza termini accademici complessi" impedisce all'IA di generare noiosi papiri teorici, mantenendo l'attenzione sulla massima praticità d'uso.
 
 ---
 

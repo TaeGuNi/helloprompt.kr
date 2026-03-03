@@ -1,13 +1,13 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"문의하기 (Contact Us)\""
-description: "Got a question or a partnership proposal for the Hello Prompt team? Let's connect."
+description: "Have a burning question or a game-changing partnership proposal for the Hello Prompt team? Let's connect and make it happen."
 date: "2026-02-09"
 ---
 
 # 📧 Contact Us
 
-- **🎯 Target Audience:** Marketers, strategists, and partnership managers looking to collaborate with Hello Prompt.
+- **🎯 Target Audience:** Marketers, business strategists, and partnership managers aiming to collaborate with Hello Prompt.
 - **⏱️ Time Saved:** 10 mins → 1 min
 - **🤖 Recommended Model:** All conversational AI models (ChatGPT, Claude, Gemini, etc.)
 
@@ -18,15 +18,15 @@ date: "2026-02-09"
 > _"How do you craft a partnership pitch that immediately grabs attention and guarantees a reply?"_
 
 Thank you for using Hello Prompt!
-Whether you've run into an issue, have a brilliant prompt idea to share, or just want to say hello, our inbox is always open.
-But we’re not just taking simple inquiries today—we're handing you the ultimate **AI prompt for drafting high-converting partnership and proposal emails**. Feel free to test-drive it directly on us!
+Whether you’ve hit a technical snag, have a brilliant prompt idea you're dying to share, or simply want to drop by and say hello, our inbox is always open. 
+However, today we aren't just fielding standard inquiries. We’re handing you the ultimate **AI prompt for drafting high-converting partnership pitches and business proposals**. Why not test-drive this exact prompt by sending a proposal directly to us?
 
 ---
 
 ## ⚡️ 3-Line Summary (TL;DR)
 
-1. For general questions, drop us a line at `support@helloprompt.kr` (we typically reply within 24 hours).
-2. We are always actively seeking out business partnerships and advertising opportunities.
+1. For general inquiries, drop us a line at `support@helloprompt.kr` (we typically reply within 24 hours).
+2. We are actively seeking out strategic business partnerships and advertising opportunities.
 3. Steal the 'Partnership Proposal Email Prompt' below to write pitches that actually convert.
 
 ---
@@ -42,14 +42,14 @@ Perfect for firing off a quick question, reporting a bug, or sharing spontaneous
 
 ### 🥇 Pro Version
 
-Feed this directly to your AI of choice when you need a polished, high-impact business proposal that demands to be taken seriously.
+Feed this directly to your AI of choice when you need a polished, high-impact business proposal that demands to be taken seriously by decision-makers.
 
 > **Role:** You are a `[Senior Business Development Manager]` with elite expertise in B2B partnerships and executive-level communication.
 >
 > **Context:**
 > - Recipient: Hello Prompt Team (support@helloprompt.kr)
-> - Sender: `[Your Company Name and Your Title]`
-> - Objective: Pitch a `[details of the proposed collaboration or ad campaign]`
+> - Sender: `[Your Company Name and Your Exact Title]`
+> - Objective: Pitch a `[Detailed description of the proposed collaboration or ad campaign]`
 >
 > **Task:**
 > 1. Generate 3 concise, compelling email subject lines designed to maximize open rates.
@@ -57,24 +57,24 @@ Feed this directly to your AI of choice when you need a polished, high-impact bu
 > 3. Wrap any specific details I need to fill in later in `[Variable]` brackets for seamless editing.
 >
 > **Constraints:**
-> - Keep the tone exceedingly polite, crisp, and fluff-free. Get straight to the value.
+> - Keep the tone exceedingly polite, crisp, and completely fluff-free. Get straight to the value proposition.
 > - Restrict the entire email to 3-4 short paragraphs to ensure perfect readability on mobile devices.
 
 ---
 
 ## 💡 Writer's Insight
 
-Even the most groundbreaking ideas will die in the inbox if your initial outreach is rambling or unfocused. Decision-makers are busy; you have seconds to capture their attention. This prompt is engineered to cut through the noise, delivering a surgically precise email draft that explicitly highlights your Value Proposition. Just sprinkle in a bit of your own authentic voice before hitting send, and watch your response rates soar!
+Even the most groundbreaking ideas will die in the inbox if your initial outreach is rambling or unfocused. Decision-makers are notoriously busy; you have mere seconds to capture their attention. This prompt is engineered to cut through the corporate noise, delivering a surgically precise email draft that explicitly highlights your core value proposition. Just sprinkle in a bit of your authentic brand voice before hitting send, and watch your response rates soar!
 
 ---
 
 ## 🙋 Frequently Asked Questions (FAQ)
 
 - **Q: How fast does the Hello Prompt team usually respond?**
-  - A: We review every single message meticulously and aim to reply within 24 hours on business days.
+  - A: We meticulously review every single message and aim to reply within 24 hours on business days.
 
 - **Q: Can I repurpose this prompt to pitch other companies?**
-  - A: Absolutely! Simply swap out the bracketed variables (`[ ]`)—like the recipient, company context, and objective—to match your new target. It instantly transforms into a universally powerful template for virtually any B2B outreach.
+  - A: Absolutely! Simply swap out the bracketed variables (`[ ]`)—such as the recipient, company context, and objective—to match your new target audience. It instantly transforms into a universally powerful template for virtually any B2B cold outreach.
 
 ---
 
@@ -96,25 +96,31 @@ Hello, would you like to collaborate with our company? Please contact me sometim
 ### ✅ After (Output)
 
 ```text
-Subject: [Partnership Proposal] Strategic Collaboration to Expand Hello Prompt's Content
+Subject: [Partnership Proposal] Strategic Collaboration to Expand Hello Prompt's Content Reach
 
 Dear Hello Prompt Team,
 
-I am [Your Title] at [Your Company Name]. I have always enjoyed reading your practical prompt content.
+I am [Your Name], the [Your Title] at [Your Company Name]. Our team has been closely following your platform and we consistently admire your highly practical prompt content.
 
-I am writing to propose a partnership, as I believe there will be great synergy between the new [details of the proposed collaboration] we are launching and your platform.
+I am writing to propose a strategic partnership, as I firmly believe there is immense synergy between your audience and the new [Details of the proposed collaboration] we are launching this quarter.
 
-[Collaboration Points and Expected Benefits]
+[Insert Collaboration Points and Expected Mutual Benefits Here]
 
-I hope you will consider this positively, and it would be great to have a brief online meeting at your convenience.
+I would love to explore how we can create a win-win scenario for both of our user bases. Please let me know if you would be open to a brief, 15-minute introductory call at your earliest convenience.
 
-Thank you.
+Looking forward to the possibility of working together.
+
+Best regards,
+
+[Your Name]
+[Your Title]
+[Your Company Name]
 ```
 
 ---
 
 ## 🎯 Conclusion
 
-Your candid feedback and innovative partnership ideas are exactly what pushes Hello Prompt to evolve. Never hesitate to slide into our inbox!
+Your candid feedback and innovative partnership ideas are exactly what pushes Hello Prompt to constantly evolve. Never hesitate to slide into our inbox!
 
 Now, go fire off that killer proposal and log off on time today! 🍷

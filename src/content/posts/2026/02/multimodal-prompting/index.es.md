@@ -8,7 +8,7 @@ tags: ["AI Trends", "Multimodal", "Prompt Engineering", "2026"]
 
 # 📝 Prompting Multimodal: Más Allá del Texto
 
-- **🎯 Público objetivo:** Diseñadores UX/UI, Desarrolladores Frontend, Creadores de contenido
+- **🎯 Público objetivo:** Diseñadores UX/UI, desarrolladores frontend, creadores de contenido
 - **⏱️ Tiempo de ahorro:** De horas de transcripciones y descripciones a apenas segundos.
 - **🤖 Modelos recomendados:** Gemini 3.0 Pro, GPT-4o, Claude 3.5 Sonnet
 
@@ -18,7 +18,7 @@ tags: ["AI Trends", "Multimodal", "Prompt Engineering", "2026"]
 
 > _"¿Sigues perdiendo horas intentando describirle con palabras un problema visual complejo a la IA? En 2026, si no estás integrando imágenes, audio o vídeo en tus prompts, te estás quedando irremediablemente atrás."_
 
-La ingeniería de prompts ha trascendido por completo las fronteras del texto. Hoy, los modelos más avanzados procesan imágenes, audio y vídeo de forma nativa, entendiéndolos con la misma fluidez que las palabras. Ya no basta con un simple "describe esta imagen"; el verdadero salto está en orquestar un razonamiento multimodal complejo y estructurado para ejecutar tareas de precisión quirúrgica.
+La ingeniería de prompts ha trascendido por completo las fronteras del texto. Hoy, los modelos más avanzados procesan imágenes, audio y vídeo de forma nativa, entendiéndolos con la misma fluidez que las palabras. Ya no basta con un simple "describe esta imagen"; el verdadero salto está en orquestar un razonamiento multimodal complejo y estructurado para ejecutar tareas con precisión quirúrgica.
 
 ---
 
@@ -48,7 +48,7 @@ Diseñada para resultados exactos, refactorización de código UI y análisis en
 >
 > **Contexto (Context):**
 >
-> - Fondo: Te he proporcionado una captura de pantalla de una interfaz compleja. He resaltado en **rojo** el componente que presenta problemas.
+> - Antecedentes: Te he proporcionado una captura de pantalla de una interfaz compleja. He resaltado en **rojo** el componente que presenta problemas.
 > - Objetivo: Quiero modernizar exclusivamente esa sección sin alterar la integridad del resto del diseño.
 >
 > **Tarea (Task):**
@@ -77,7 +77,7 @@ El verdadero superpoder del prompting multimodal en 2026 no reside simplemente e
 ## 🙋 Preguntas Frecuentes (FAQ)
 
 - **P: ¿Puedo subir un vídeo largo, como una conferencia de 2 horas?**
-  - R: Sí, la mayoría de los modelos de vanguardia pueden ingerir vídeos extensos. Sin embargo, para maximizar la precisión y reducir costes, lo óptimo es indicar siempre la marca de tiempo exacta (por ejemplo, "Analiza exclusivamente desde el minuto 15:30 hasta el 17:00").
+  - R: Sí, la mayoría de los modelos de vanguardia pueden procesar vídeos extensos. Sin embargo, para maximizar la precisión y reducir costes, lo óptimo es indicar siempre la marca de tiempo exacta (por ejemplo, "Analiza exclusivamente desde el minuto 15:30 hasta el 17:00").
 
 - **P: ¿Qué ocurre si mi anotación en la imagen (la flecha o el círculo) resulta confusa?**
   - R: El modelo podría malinterpretar la zona de interés. Para evitarlo, utiliza colores de alto contraste (rojo brillante, verde neón) y trazos gruesos, garantizando que la IA no los confunda con el diseño original de la interfaz.
@@ -91,7 +91,7 @@ El verdadero superpoder del prompting multimodal en 2026 no reside simplemente e
 
 ---
 
-## 📊 Demostración: Antes y Después
+## 📊 Demostración: Before & After
 
 ### ❌ Antes (Prompt clásico basado en texto)
 

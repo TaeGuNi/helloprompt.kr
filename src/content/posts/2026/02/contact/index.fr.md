@@ -1,13 +1,13 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"문의하기 (Contact Us)\""
-description: " \"Avez-vous des questions ou des suggestions à partager avec l'équipe Hello Prompt ?\""
+description: "Avez-vous des questions ou des suggestions à partager avec l'équipe Hello Prompt ?"
 date: "2026-02-09"
 ---
 
 # 📧 Nous contacter (Contact Us)
 
-- **🎯 Recommandé pour :** Marketeurs, chefs de projet et responsables de partenariats souhaitant collaborer avec Hello Prompt
+- **🎯 Cible :** Responsables marketing, chefs de projet et directeurs de partenariats souhaitant collaborer avec Hello Prompt
 - **⏱️ Temps requis :** 10 minutes → Réduit à 1 minute
 - **🤖 Modèles recommandés :** Toutes les IA conversationnelles (ChatGPT, Claude, Gemini, etc.)
 
@@ -15,19 +15,19 @@ date: "2026-02-09"
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
 - 🚀 **Utilité :** ⭐⭐⭐⭐⭐
 
-> *"Comment rédiger un e-mail de demande de partenariat qui capte instantanément l'attention du destinataire et suscite une réponse enthousiaste ?"*
+> *"Comment rédiger un e-mail de demande de partenariat qui capte instantanément l'attention de son destinataire et suscite une réponse enthousiaste ?"*
 
-Merci d'utiliser Hello Prompt.
-Si vous rencontrez la moindre difficulté en utilisant notre service, ou si vous souhaitez nous suggérer de nouveaux prompts, n'hésitez pas à nous contacter à tout moment.
-Mais au-delà d'une simple prise de contact, nous vous offrons aujourd'hui un **prompt IA exclusif pour rédiger des e-mails de partenariat et des propositions commerciales percutantes**. N'hésitez pas à le tester directement en nous écrivant !
+Merci de faire confiance à Hello Prompt. 
+Si vous rencontrez la moindre difficulté lors de l'utilisation de notre service, ou si vous souhaitez nous suggérer de nouveaux prompts, n'hésitez pas à nous contacter.
+Mais au-delà d'une simple prise de contact, nous vous dévoilons aujourd'hui un **prompt IA exclusif pour rédiger des e-mails de partenariat et des propositions commerciales percutantes**. Testez-le directement en nous envoyant votre première proposition !
 
 ---
 
 ## ⚡️ Résumé en 3 points (TL;DR)
 
-1. Pour toute question générale ou demande d'assistance, envoyez-nous un e-mail à `support@helloprompt.kr` (réponse sous 24 heures).
-2. Les propositions de partenariats commerciaux et les demandes de collaboration sont toujours les bienvenues.
-3. Utilisez le "Prompt de rédaction d'e-mail de proposition" ci-dessous pour générer instantanément une offre professionnelle et irrésistible.
+1. Pour toute question générale ou demande d'assistance technique, écrivez-nous à `support@helloprompt.kr` (réponse sous 24 heures ouvrées).
+2. Les propositions de partenariats stratégiques et les demandes de collaboration B2B sont toujours les bienvenues.
+3. Utilisez le "Prompt de rédaction d'e-mail de proposition" ci-dessous pour générer instantanément une offre professionnelle impossible à ignorer.
 
 ---
 
@@ -35,10 +35,10 @@ Mais au-delà d'une simple prise de contact, nous vous offrons aujourd'hui un **
 
 ### 🥉 Version Basique (Basic Version)
 
-Utilisez cette version si vous souhaitez simplement nous faire part d'un commentaire, d'une question rapide ou d'un retour d'expérience.
+Utilisez cette version si vous souhaitez simplement nous faire part d'un commentaire rapide, signaler un bug ou partager un retour d'expérience.
 
 > **Destinataire :** support@helloprompt.kr
-> **Contenu :** Décrivez librement les éventuels bugs rencontrés, vos idées d'amélioration ou posez vos questions d'ordre général concernant notre service.
+> **Contenu :** Décrivez librement les éventuels bugs rencontrés, vos pistes d'amélioration ou posez vos questions d'ordre général concernant notre plateforme.
 
 ### 🥇 Version Pro (Pro Version)
 
@@ -48,7 +48,7 @@ Utilisez ce prompt pour concevoir une proposition de partenariat détaillée, st
 >
 > **Contexte (Context) :**
 >
-> - Destinataire : Équipe Hello Prompt (support@helloprompt.kr)
+> - Destinataire : L'équipe Hello Prompt (support@helloprompt.kr)
 > - Expéditeur : `[Nom de votre entreprise et votre poste]`
 > - Objectif : Discuter de `[Détails de la collaboration ou de la campagne publicitaire envisagée]`
 >
@@ -60,21 +60,21 @@ Utilisez ce prompt pour concevoir une proposition de partenariat détaillée, st
 >
 > **Contraintes (Constraints) :**
 >
-> - Le ton doit être courtois, éminemment professionnel et aller droit au but, en évitant toute formulation superflue.
-> - La longueur totale ne doit pas excéder 3 à 4 paragraphes pour garantir une lisibilité optimale sur écran mobile.
+> - Le ton doit être courtois, éminemment professionnel et aller droit au but. Évite toute formulation superflue.
+> - La longueur totale ne doit pas excéder 3 à 4 paragraphes pour garantir une lisibilité optimale sur un écran mobile.
 
 ---
 
 ## 💡 L'avis de l'expert (Insight)
 
-Même si vous détenez la meilleure idée de collaboration au monde, un premier e-mail confus ou un message principal noyé sous les détails finira inévitablement ignoré par un décideur débordé. En utilisant ce prompt, vous générez instantanément un brouillon structuré qui met en exergue votre proposition de valeur (Value Proposition) avec une clarté absolue. Il vous suffit ensuite d'y ajouter votre touche personnelle et sincère pour démultiplier vos chances d'obtenir une réponse favorable !
+Même si vous détenez la meilleure idée de collaboration au monde, un premier e-mail confus ou un message principal noyé sous les détails finira inévitablement dans la corbeille d'un décideur débordé. En utilisant ce prompt, vous générez instantanément un brouillon structuré qui met en exergue votre proposition de valeur (Value Proposition) avec une clarté absolue. Il vous suffit ensuite d'y ajouter votre touche personnelle pour démultiplier vos chances d'obtenir une réponse favorable !
 
 ---
 
 ## 🙋 Foire aux questions (FAQ)
 
 - **Q : Dans quel délai l'équipe Hello Prompt répond-elle généralement aux sollicitations ?**
-  - R : Nous examinons chaque message avec la plus grande attention et nous nous engageons à vous répondre sous 24 heures ouvrées.
+  - R : Nous examinons chaque message avec la plus grande attention et nous nous engageons à vous faire un retour sous 24 heures ouvrées.
 
 - **Q : Puis-je réutiliser l'e-mail généré par ce prompt pour démarcher d'autres entreprises ?**
   - R : Absolument ! Il s'agit d'un modèle d'e-mail B2B d'une redoutable efficacité. Il vous suffit d'ajuster les variables entre crochets (`[ ]`), telles que le nom du destinataire et la nature de l'offre, pour l'adapter sur mesure à n'importe quelle entreprise cible.
@@ -109,7 +109,7 @@ Je vous contacte aujourd'hui car je suis convaincu qu'une formidable synergie po
 
 [Points clés de la collaboration et bénéfices mutuels]
 
-Nous espérons sincèrement que vous étudierez notre proposition avec intérêt. Nous serions ravis de pouvoir en discuter plus en détail lors d'un court appel en visioconférence, selon vos disponibilités.
+Nous espérons sincèrement que vous étudierez notre proposition avec intérêt. Nous serions ravis de pouvoir en discuter plus en détail lors d'un court échange en visioconférence, selon vos disponibilités.
 
 Dans l'attente de votre retour, je vous souhaite une excellente journée.
 ```
@@ -118,6 +118,6 @@ Dans l'attente de votre retour, je vous souhaite une excellente journée.
 
 ## 🎯 Conclusion
 
-Vos précieux retours et vos brillantes suggestions d'amélioration font de Hello Prompt un espace d'apprentissage chaque jour plus performant. N'hésitez pas à frapper à la porte de notre boîte e-mail dès que vous en ressentez le besoin !
+Vos précieux retours et vos brillantes suggestions d'amélioration font de Hello Prompt un espace d'apprentissage chaque jour plus performant. N'hésitez pas à frapper à la porte de notre boîte de réception dès que vous en ressentez le besoin !
 
 Maintenant, envoyez cette proposition impeccable et terminez votre journée de travail à l'heure ! 🍷

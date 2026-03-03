@@ -1,16 +1,16 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Prompt d'Optimisation de Profil LinkedIn : Attirer les Chasseurs de Têtes\""
+title: "Prompt d'optimisation de profil LinkedIn : attirer les chasseurs de têtes"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Carrière & Changement d'Emploi"
-description: " \"Décuplez vos opportunités professionnelles grâce à un titre optimisé pour le SEO et une section 'Infos' percutante générés par l'IA.\""
+description: "Décuplez vos opportunités professionnelles grâce à un titre optimisé pour le SEO et une section 'Infos' percutante générés par l'IA."
 tags:
   ["LinkedIn", "Optimisation de Profil", "Chasse de Têtes", "Personal Branding"]
 ---
 
-# 📝 Prompt d'Optimisation de Profil LinkedIn : Attirez les Chasseurs de Têtes
+# 📝 Prompt d'optimisation de profil LinkedIn : attirez les chasseurs de têtes
 
 - **🎯 Recommandé pour :** Demandeurs d'emploi, professionnels en reconversion, freelances
 - **⏱️ Temps requis :** 30 minutes → 5 minutes
@@ -20,32 +20,32 @@ tags:
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
 - 🚀 **Utilité :** ⭐⭐⭐⭐☆
 
-> _"Pourquoi certains semblent-ils attirer les recruteurs comme des aimants sur LinkedIn, alors que ma messagerie reste désespérément vide ?"_
+> _"Pourquoi certains profils attirent-ils les recruteurs comme des aimants sur LinkedIn, tandis que votre messagerie reste désespérément vide ?"_
 
-LinkedIn est bien plus qu'un CV numérique : c'est un **véritable moteur de recherche**. Pour sortir de l'ombre, il est impératif d'y injecter stratégiquement les mots-clés que les chasseurs de têtes traquent au quotidien, notamment dans vos sections **Titre (Headline)** et **Infos (About)**. Déléguez ce travail d'expert SEO à l'IA et transformez instantanément votre profil en un véritable aimant à recruteurs.
+LinkedIn est bien plus qu'un simple CV numérique : c'est un **véritable moteur de recherche**. Pour sortir de l'ombre, il est impératif d'y distiller stratégiquement les mots-clés que les chasseurs de têtes traquent au quotidien, en particulier dans vos sections **Titre (Headline)** et **Infos (About)**. Confiez ce travail d'expert SEO à l'IA et transformez instantanément votre profil en un véritable aimant à recruteurs.
 
 ---
 
-## ⚡️ Résumé en 3 Lignes (TL;DR)
+## ⚡️ Résumé en 3 lignes (TL;DR)
 
-1. **Extraction de mots-clés :** Ciblez avec précision les termes exacts recherchés pour votre poste et vos compétences.
-2. **Titres magnétiques :** Générez 3 variantes de titres (Headline) ultra-optimisés pour déclencher le clic.
+1. **Extraction de mots-clés :** Ciblez avec précision les termes exacts recherchés en lien avec votre poste et vos compétences.
+2. **Titres magnétiques :** Générez 3 variantes de titres (Headline) ultra-optimisées pour déclencher le clic.
 3. **Storytelling percutant :** Rédigez une section "Infos" (About) captivante qui sublime votre trajectoire professionnelle.
 
 ---
 
-## 🚀 La Solution : "L'Optimiseur de Profil LinkedIn"
+## 🚀 La solution : "L'Optimiseur de profil LinkedIn"
 
-### 🥉 Version de Base (Basic)
+### 🥉 Version de base (Basic)
 
-Idéal pour obtenir un résultat rapide et direct.
+Idéale pour obtenir un résultat rapide et direct.
 
 > **Rôle :** Tu es un consultant en recrutement international et un expert en SEO LinkedIn.
 > **Requête :** Rédige-moi un "Titre" ultra-optimisé pour la recherche et une section "Infos" percutante pour décupler mes offres d'emploi. Mon poste actuel est `[Votre Poste]`.
 
 ### 🥇 Version Pro (Expert)
 
-À utiliser pour un résultat sur mesure et de haute qualité. Copiez le **PROMPT** ci-dessous.
+À privilégier pour un résultat sur mesure et de très haute qualité. Copiez le **PROMPT** ci-dessous.
 
 > **Rôle (Role) :** Tu es un chasseur de têtes de renommée mondiale, doublé d'un expert pointu de l'algorithme et du SEO LinkedIn.
 >
@@ -71,9 +71,9 @@ Idéal pour obtenir un résultat rapide et direct.
 
 ---
 
-## 💡 Note de l'Auteur (Insight)
+## 💡 L'insight de l'auteur (Insight)
 
-L'erreur fatale sur LinkedIn ? Se contenter de son intitulé de poste par défaut (ex. : "Développeur chez Entreprise X"). C'est un immense gâchis d'espace stratégique ! L'algorithme de LinkedIn accorde un poids démesuré aux mots présents dans votre Titre. Ce prompt contourne intelligemment le problème en forçant l'IA à adopter une logique "SEO" avant même de penser "CV". Avec la Version Pro, vous ne vous contentez pas d'un texte élégant : vous obtenez un profil _hautement repérable_ par les chasseurs de têtes. N'hésitez pas à générer plusieurs itérations pour fusionner les meilleures idées de chaque proposition.
+L'erreur fatale sur LinkedIn ? Se contenter de son intitulé de poste par défaut (ex. : "Développeur chez Entreprise X"). C'est un immense gâchis d'espace stratégique ! L'algorithme de LinkedIn accorde un poids démesuré aux mots-clés présents dans votre Titre. Ce prompt contourne intelligemment le problème en forçant l'IA à adopter une logique "SEO" avant même de penser "CV". Avec la version Pro, vous ne vous contentez plus d'un texte élégant : vous obtenez un profil _hautement repérable_ par les chasseurs de têtes. N'hésitez pas à générer plusieurs itérations pour fusionner les meilleures idées de chaque proposition.
 
 ---
 
@@ -90,11 +90,11 @@ L'erreur fatale sur LinkedIn ? Se contenter de son intitulé de poste par défau
 
 ---
 
-## 🧬 Anatomie du Prompt (Pourquoi ça marche ?)
+## 🧬 Anatomie du prompt (Pourquoi ça marche ?)
 
-1. **Rôle d'Expert SEO :** En exigeant de l'IA qu'elle raisonne comme un maître de l'algorithme LinkedIn, nous garantissons un contenu taillé pour la découvrabilité (les bons mots-clés) plutôt que de la simple belle prose.
-2. **Structuration de la section Infos :** L'obligation d'intégrer une "Accroche" (Hook) dès les deux premières phrases est vitale : LinkedIn tronque nativement cette section. Il faut absolument donner envie au recruteur de cliquer sur "Voir plus".
-3. **Typologie des Titres :** Exiger 3 angles différents (Expertise, Réalisations, Mots-clés) vous offre un panel stratégique pour choisir l'axe de communication qui vous met le plus en valeur.
+1. **Le rôle d'expert SEO :** En exigeant de l'IA qu'elle raisonne comme un maître de l'algorithme LinkedIn, nous garantissons un contenu taillé pour la découvrabilité (les bons mots-clés) plutôt que de la simple belle prose.
+2. **La structuration de la section Infos :** L'obligation d'intégrer une accroche (Hook) dès les deux premières phrases est vitale : LinkedIn tronque nativement cette section. Il faut impérativement donner envie au recruteur de cliquer sur "Voir plus".
+3. **La typologie des Titres :** Exiger 3 angles d'approche différents (Expertise, Réalisations, Mots-clés) vous offre un panel stratégique pour choisir l'axe de communication qui vous met le plus en valeur.
 
 ---
 
@@ -124,6 +124,6 @@ Récemment, j'ai piloté la refonte architecturale d'une application SaaS (React
 
 ## 🎯 Conclusion
 
-Sur LinkedIn, votre profil est votre meilleur atout commercial : il prospecte pour vous 24h/24 et 7j/7. Laissez-le distribuer vos cartes de visite virtuelles aux recruteurs du monde entier, même pendant votre sommeil.
+Sur LinkedIn, votre profil est votre meilleur atout commercial : il prospecte pour vous 24 h/24 et 7 j/7. Laissez-le distribuer vos cartes de visite virtuelles aux recruteurs du monde entier, même pendant votre sommeil.
 
 Il est grand temps d'optimiser votre profil et de préparer votre messagerie à une avalanche d'InMails ! 🔗

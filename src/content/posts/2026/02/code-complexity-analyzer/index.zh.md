@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "복잡한 코드는 이제 그만! AI 복잡도 분석기 (Code Complexity Analyzer)"
+title: "告别复杂代码！AI 代码复杂度分析器 (Code Complexity Analyzer)"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Development
-description: "这是一个用于深度分析“意大利面条式”遗留代码并精准定位重构策略的 AI 提示词，助您将复杂逻辑重塑为简洁、高可维护性的优雅代码。"
+description: "这是一个用于深度剖析“意大利面条式”遗留代码并精准制定重构策略的 AI 提示词，助您将盘根错节的复杂逻辑重塑为简洁、高可维护性的优雅代码。"
 tags: [AI, Refactoring, Clean Code, Development]
 ---
 
@@ -21,7 +21,7 @@ tags: [AI, Refactoring, Clean Code, Development]
 
 > _"if 语句里套着 for 循环，循环里居然还嵌套着 if……代码勉强能跑，但稍微改动一下就感觉会原地爆炸。面对这种定时炸弹般的遗留代码，你是否也曾感到绝望？"_
 
-在日常开发中，我们难免会接手复杂度极高的“意大利面条式代码 (Spaghetti Code)”。随着业务需求不断叠加、Bug 反复修补，代码日益臃肿，圈复杂度 (Cyclomatic Complexity) 也随之直线飙升。这类代码不仅晦涩难懂，修改时更难以预测潜在的副作用，堪称后期维护的无底洞。
+在日常开发中，我们难免会接手复杂度极高的“意大利面条式代码 (Spaghetti Code)”。随着业务需求不断叠加，以及对 Bug 的反复修补，代码日益臃肿，圈复杂度 (Cyclomatic Complexity) 也随之直线飙升。这类代码不仅晦涩难懂，修改时更难以预测潜在的副作用，堪称后期维护的无底洞。
 
 面对如此窘境，如果你不知从何处着手重构，不妨将代码复杂度分析的任务交给 AI。它能通过客观的工程指标精准诊断痛点，并基于成熟的设计模式与整洁代码 (Clean Code) 原则，为你量身定制务实的重构策略。
 
@@ -29,9 +29,9 @@ tags: [AI, Refactoring, Clean Code, Development]
 
 ## ⚡️ 核心摘要 (TL;DR)
 
-1. 能够结构化地剖析晦涩难懂的深度嵌套条件与臃肿函数。
-2. 精准提供如卫语句 (Guard Clauses)、提取函数 (Extract Method) 等高度务实的重构技巧。
-3. 在确保原有业务逻辑 100% 不变的前提下，大幅提升代码的可读性与可维护性。
+1. 能够结构化剖析晦涩难懂的深度嵌套条件与臃肿函数。
+2. 精准输出如卫语句 (Guard Clauses)、提取函数 (Extract Method) 等极具实操性的重构技巧。
+3. 在确保原有业务逻辑 100% 不变的前提下，实现代码可读性与可维护性的质的飞跃。
 
 ---
 
@@ -44,9 +44,7 @@ tags: [AI, Refactoring, Clean Code, Development]
 > **角色：** 你是一位 `[资深后端开发工程师]`。
 > **任务：** 请分析以下代码的复杂度，并精准指出 3 个最核心的重构优化点。
 >
->
-> [在此处粘贴需要分析的代码]
->
+> `[在此处粘贴需要分析的代码]`
 
 ### 🥇 进阶版 (Pro Version)
 
@@ -56,7 +54,7 @@ tags: [AI, Refactoring, Clean Code, Development]
 >
 > **背景 (Context):**
 >
-> - 环境：我目前正在重构一段使用 `[语言/框架，例如：TypeScript/NestJS]` 编写的遗留代码。
+> - 环境：我目前正在重构一段使用 `[填写语言或框架，例如：TypeScript/NestJS]` 编写的遗留代码。
 > - 目标：大幅降低圈复杂度 (Cyclomatic Complexity)，将代码的可读性与可维护性提升至最高标准。
 >
 > **任务 (Task):**
@@ -67,9 +65,7 @@ tags: [AI, Refactoring, Clean Code, Development]
 >
 > **输入代码 (Code):**
 >
->
-> [在此处粘贴需要重构的代码]
->
+> `[在此处粘贴需要重构的代码]`
 >
 > **约束条件 (Constraints):**
 >
@@ -99,7 +95,7 @@ tags: [AI, Refactoring, Clean Code, Development]
   - A: 绝对不行！AI 有时会忽略业务逻辑中极其微妙的边界情况 (Edge Cases)，甚至产生逻辑幻觉 (Hallucination)。**你必须在确保重构后的代码能够完美通过现有单元测试 (Unit Tests)** 之后，才能将其安全地合并至主分支。
 
 - **Q: AI 可以根据我指定的编程语言或框架特性进行专属优化吗？**
-  - A: 当然可以。只需在进阶版提示词的 `[语言/框架]` 变量处精准注明（例如 'Java/Spring Boot' 或 'Python/FastAPI'），AI 便会智能适配该技术生态圈内最推崇的命名规范、语法糖与设计模式来为你重构代码。
+  - A: 当然可以。只需在进阶版提示词的 `[语言/框架]` 变量处精准注明（例如 `[Java/Spring Boot]` 或 `[Python/FastAPI]`），AI 便会智能适配该技术生态圈内最推崇的命名规范、语法糖与设计模式来为你重构代码。
 
 ---
 

@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.13.0](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.12.5...v1.13.0) (2026-03-03)
+
+
+### Features
+
+* **content:** update midjourney v7 photorealism translations and hook image ([3317748](https://github.com/TaeGuNi/helloprompt.kr/commit/3317748918b12969ba7ff8e9d199e200f46a1986))
+* **content:** update multiple posts and hook images ([e46f6cd](https://github.com/TaeGuNi/helloprompt.kr/commit/e46f6cd4c3d7e8868ed8fd899b958b15a1487678))
+* **content:** update rust-web-2026 post and hook image ([ae3894b](https://github.com/TaeGuNi/helloprompt.kr/commit/ae3894b0e3ad19690b9f36c79af7135f73a2f127))
+
+
+### Bug Fixes
+
+* **core:** resolve pagination 404 logic and refactor component CSS ([15c9462](https://github.com/TaeGuNi/helloprompt.kr/commit/15c9462bc4185a1ee056c3971db111bd83a48e2a))
+* **qa-rewriter:** support multiple target directories passed from xargs pipeline ([af0fa3b](https://github.com/TaeGuNi/helloprompt.kr/commit/af0fa3b3cd2691ecdd6169e2f2971db1488774b9))
+
 ### [1.12.8](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.12.7...v1.12.8) (2026-03-02)
 
 ### [1.12.7](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.12.6...v1.12.7) (2026-03-01)

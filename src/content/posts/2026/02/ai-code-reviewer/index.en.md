@@ -1,154 +1,179 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"No Colleagues? It's Okay, AI Senior Developer's Harsh Code Review\""
+title: " \"AI Code Reviewer: Transforming My Spaghetti Code into Silicon Valley Style (Code Review)\""
 author: "Jay"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
-category: "Coding/Development"
-description: " \"A highly effective prompt that acts as a virtual Senior Developer from FAANG, providing meticulous code reviews for solo developers.\""
-tags: ["Code Review", "Mentoring", "Clean Code", "Self-Development"]
+date: "2026-02-08"
+updatedDate: "2026-02-08"
+category: "개발/코딩"
+description: " \"It's okay if you don't have a senior developer. A prompt that lets AI handle code reviews and helps you write clean code.\""
+tags: ["코드리뷰", "개발자", "클린코드", "리팩토링", "ChatGPT"]
+image: "/images/hooks/ai-code-reviewer.png"
 ---
 
-# 📝 No Colleagues? It's Okay, AI Senior Developer's Harsh Code Review
+# 💻 AI Code Reviewer: Transforming My Spaghetti Code into Silicon Valley Style
 
-- **🎯 Recommended For:** Solo Developers, Junior Engineers, Freelancers
-- **⏱️ Time Required:** 5 minutes → 1 minute
-- **🤖 Recommended Model:** Claude 3.5 Sonnet, GPT-4o (Models strong in coding)
+- **🎯 Recommended for:** Junior developers struggling without a mentor, maintenance personnel suffering from legacy spaghetti code
+- **⏱️ Time required:** 30 minutes → Reduced to 1 minute
+- **🤖 Recommended model:** Claude 3.5 Sonnet (The ultimate champion in grasping code context and refactoring)
 
-- ⭐ **Difficulty:** ⭐⭐☆☆☆
+- ⭐ **Difficulty:** ⭐☆☆☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
-- 🚀 **Utility:** ⭐⭐⭐⭐☆
+- 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-> _"Is this code really the best I can write? I wish a senior could just take a quick look..."_
+> _"It works, but... the variable names are `a`, `b`, and `temp`... Even I would curse at this code 3 months from now. Are you going to commit this as is?"_
 
-When you code alone, your perspective inevitably narrows. If you keep moving on just because "it works," you'll hit a plateau in your skill growth. What if a Principal Software Engineer from a top-tier tech company sat right next to you, dissecting your code line by line? From brutally honest critiques to encouraging praise, it's time to hire your own AI code reviewer.
+![AI Code Reviewer](/images/hooks/ai-code-reviewer.png)
+
+
+
+In my first year as a developer after getting a job, I was finally assigned to develop my first independent feature. Staying up all night, scouring Google and Stack Overflow, I somehow managed to create code that worked. After confirming that the feature functioned properly on the test server, I proudly submitted a PR. However, the next morning, I couldn't help but despair when I saw dozens of comments on the PR. "The variable names are not intuitive," "The time complexity here is O(N^2), is there any way to improve it?", "This is a critical logic flaw where the server could go down due to missing exception handling." The feedback from the senior developers hit me hard, and I realized my code was nothing but spaghetti. But the seniors were also busy with their own work, so they couldn't afford to kindly rewrite every little detail of my code or give me private tutoring.
+
+If things kept going like this, I felt I would be branded as a "junior with rock-bottom code quality." My PRs kept getting rejected, the deadline was approaching, and I couldn't even figure out how to fix them. But trying to solve everything on my own just trapped me in a vicious cycle of wasting time all day. I was too self-conscious to keep asking my busy mentor, "Is it okay if I fix it like this?", so my days of suffering alone without even asking questions grew longer. My stress reached its peak, and I even started to feel fundamental doubts about whether I was suited for the job of a developer. If this developer life of giving up my weekends, staying in the office, and barely surviving by copy-pasting code written by others continued, it was obvious that I would eventually burn out. The isolating feeling that no one was dedicated to reviewing my code kindly and sharply was eating away at me.
+
+Then, by chance, I came across a YouTube video about code refactoring using AI. It wasn't just saying "fix this code"; it was a magical prompt that assigned the fully-fledged persona of a "Silicon Valley Principal Engineer" to ruthlessly dissect my code. Feeling like I had nothing to lose, I threw my messy logic along with the prompt into the conversational AI. The result was truly shocking. In just 5 seconds, the AI elegantly changed my variable names to fit the business logic, optimized unnecessary double loops with the `reduce` function, and perfectly recreated the code by adding exception handling logic that I hadn't even thought of. It even kindly added comments explaining exactly why it made these modifications. It was a perfect experience, as if a genius senior developer with 10 years of experience was sitting next to me all night acting as my mentor.
+
+Since adopting this prompt, my developer life has completely changed. I am no longer afraid to submit PRs. Before committing, I unconditionally throw my code to this AI senior developer for an initial inspection, and by looking at the refactored code, I have learned the structure of clean code on my own. The amazing thing is that as I keep seeing the elegant logic written by the AI, my own coding style has gradually become more refined. Now, even my mentors look at my PRs and praise me, saying, "Your code quality has improved tremendously lately. Are you taking private classes or something?" Beyond simply fixing bugs, this magical prompt transforms spaghetti code into Silicon Valley-style clean code. I hope you too hire a personal mentor for free today and catch both rabbits: leaving work on time and the joy of coding.
 
 ---
 
 ## ⚡️ 3-Line Summary (TL;DR)
 
-1. Enforce strict FAANG-level code quality standards on your projects.
-2. Gain multi-dimensional feedback covering security, performance, readability, and architecture.
-3. Receive actionable, specific advice alongside fully refactored code snippets.
+1. Stop worrying about your busy mentor and ask AI for an immediate code review.
+2. Go beyond simple bug detection and refactor into clean code with readability and efficiency.
+3. Assign the persona of a Google Principal Engineer to secure Silicon Valley-level code quality.
 
 ---
 
-## 🚀 The Solution: "AI Senior Code Reviewer"
+## 🚀 Solution: "Code Reviewer Prompt"
 
-### 🥉 Basic Version
+### 🥉 Basic Version (Quick Bug Hunter)
 
-Use this when you need a quick, no-frills review of a small snippet.
+Use this when you quickly want to catch errors and identify potential defects.
 
-> **Role:** You are a Principal Software Engineer with 15+ years of experience at Google and Amazon. You are a strict but supportive mentor.
-> **Task:** Review my code snippet below and point out 3 critical areas for improvement regarding readability and performance.
+> **Role:** You are a senior developer with a sharp eye.
+> **Task:** Find potential bugs or logical errors that could cause exceptions in the code below. If it's perfect, say "LGTM (Looks Good To Me)".
+>
+> **Code:**
+>
+>
+> [Paste your code here]
+>
+### 🥇 Pro Version (Expert: Silicon Valley Clean Code Refactoring)
 
+Use this when you want to completely overhaul the soul of your code, from variable names to architecture.
 
-### 🥇 Pro Version (Expert)
-
-Use this when you want a comprehensive, production-ready code review before merging a Pull Request.
-
-> **Role (Role):** You are a Principal Software Engineer with over 15 years of experience at top-tier tech companies like Google and Amazon. You act as a meticulous but deeply caring mentor.
+> **Role:** You are a 10-year Principal Software Engineer at Google and an ardent believer in 'Clean Code'.
 >
-> **Context (Context):**
+> **Context:**
 >
-> - Background: I wrote this code as a junior developer working independently.
-> - Goal: I need a flawless, production-ready code review before submitting this as a Pull Request.
+> - Background: Writing/maintaining core logic for an internal company project.
+> - Goal: Reduce technical debt and improve the code to be intuitive and robust so that any team member can easily understand it.
 >
-> **Task (Task):**
+> **Task:**
+> Analyze the `[Code]` provided below and strictly review and refactor it according to the following 4 core criteria.
 >
-> 1. Thoroughly review my code and provide structural feedback.
-> 2. Format your response into the following specific sections:
->    - **Good:** Explicitly praise efficient logic, clean patterns, or good attempts.
->    - **Improvements:** Point out flaws regarding readability, time/space complexity, security vulnerabilities, and error handling.
->    - **Questions:** Ask probing questions (e.g., "Why did you choose this data structure over X?") to stimulate my architectural thinking.
->    - **Refactoring:** Provide the refactored, optimal version of the code based on your feedback.
+> 1. **Readability:** Intuitively change variable and function names so their intent is clearly revealed. (e.g., `d` -> `elapsedTimeInDays`)
+> 2. **Efficiency:** Propose better algorithms, array methods, etc., that can reduce unnecessary loops or improve time complexity (O).
+> 3. **Safety:** Meticulously defend against edge cases where Null references, type errors, or exception handling (Try-Catch) are missing.
+> 4. **Comments:** For complex logic, add comments in the form of JSDoc/Docstring explaining 'Why' it was written this way, not 'What' it does.
 >
-> **Target Code:**
-> `[Insert your code here]`
+> **Format:**
 >
-> **Constraints (Constraints):**
+> - **Review Summary:** Top 3 critical issues in the existing code (bullet points)
+> - **Refactored Code:** The completely improved full code (code block)
+> - **Core Reasons for Change:** Summarize in 2 lines or less why this modification results in a better architecture.
 >
-> - Maintain a highly professional, polite, yet firm tone.
-> - Be exceptionally pedantic about variable naming conventions, type hintings, and structural spacing.
+> **Constraints:**
 >
-> **Warning (Warning):**
+> - Utilize the modern syntax of the language.
+> - Do not invent unsure libraries or built-in functions. (Prevent hallucinations)
 >
-> - Do not introduce arbitrary external libraries unless absolutely necessary, and if so, justify the choice.
-> - If you are unsure about a framework-specific best practice, explicitly state your uncertainty to avoid hallucination.
-
+> **Input Code:**
+>
+>
+> [Paste your entire code here]
+>
 ---
 
-## 💡 Writer's Insight
+## 💡 Author's Comment (Insight)
 
-Working as a solo developer or in a small startup without senior engineering leadership often leads to the "it works, ship it" trap. Over time, technical debt accumulates silently. I designed this prompt because I realized I was repeating the same anti-patterns without anyone to correct me.
+The most painful lesson I've learned while conducting and receiving hundreds of code reviews in the field is that there is an astronomical distance between simply "working code" and "readable code (Clean Code)". If you shallowly command, "fix this code" or "find bugs," the AI won't properly grasp your intent and will stop at superficial syntax rendering, like just changing a variable name or adding a semicolon. This doesn't help with fundamental architectural improvements at all, and can even lead to terrible results where the code becomes grotesquely deformed.
 
-By running my commits through this "AI Senior Developer" prompt, especially using Claude 3.5 Sonnet (which currently excels at code comprehension), I started catching edge cases and performance bottlenecks I completely missed. The "Questions" section in the prompt is the real game-changer—it forces you to defend your engineering decisions, which is exactly what happens in real-life FAANG code reviews. It trains your brain to think about _why_, not just _how_.
+The core reason why the Pro version prompt we designed delivers such overwhelming performance lies in the "enforcement of multi-dimensional and ruthless evaluation criteria." We are not simply asking the AI for a "modification." We have forced the persona of a 10-year Principal Engineer at Google—perfectionist, conservative, and pursuing the extremes of performance and readability. And by enforcing the four undeniable ironclad rules of Readability, Efficiency, Safety, and Comments, we made sure it couldn't cut corners.
+
+Actually, there is an anecdote from the company I used to work for, where I had to analyze an atrocious 1,500-line legacy payment integration spaghetti code left behind by a predecessor who resigned. All the variable names were full of incomprehensible abbreviations like `a1`, `b2`, `chk_val`, and it was a terrible code of doom where database queries, business logic calculations, external API calls, and even UI error message returns were all clumped together inside a single function. It would have taken a solid week to figure out this code line by line with human eyes.
+
+However, in this hopeless situation, this very Pro prompt became my relief pitcher. I broke down these 1,500 lines of logic into function units and threw them to the AI senior engineer. In just 10 minutes, the AI overhauled a loop with the worst time complexity of O(N^3) into an optimized O(N) algorithm using a Hash Map, and accurately pinpointed three critical edge cases where missing error handling could have caused the payment system to crash. Furthermore, it even perfectly separated each module into elegant functions that strictly adhered to the Single Responsibility Principle (SRP).
+
+The most touching moment was that it didn't just spit out the refactored code and end there, but added a specific reason for the architectural improvement at the bottom: "There was a performance bottleneck in this part, and the time complexity was drastically reduced by utilizing JavaScript's Set." Through this, I was able to level up from a mere "coder" who just copy-pastes code written by others into a true "engineer" who understands and absorbs the design decisions made by the AI to grow another step. Please do not relegate this prompt to a simple typo checker. I hope you use it as a ruthless coaching master that shatters your code to pieces and rebuilds it from the skeleton of proper design patterns.
 
 ---
 
 ## 🙋 Frequently Asked Questions (FAQ)
 
-- **Q: Which AI model is best for this code review prompt?**
-  - A: Currently, Claude 3.5 Sonnet and GPT-4o are highly recommended for coding tasks. Claude tends to offer slightly more nuanced architectural advice and strictly adheres to formatting constraints.
+- **Q: Is it safe to upload internal company code exactly as is to an AI model?**
+  - A: **You must be absolutely careful.** Always execute the prompt after masking API keys, internal IPs, and sensitive business logic (like DB schemas) or replacing them with `[PRIVATE_DATA]`, etc. If you are in an enterprise environment, it is strongly recommended to use a corporate plan (Team/Enterprise) or an API model that is not used for data training.
 
-- **Q: Can it review large files or entire repositories?**
-  - A: It is best suited for single files or specific functions (under 300-400 lines). If you paste an entire repository, the AI might lose context or provide overly generalized feedback. Break your PRs down into smaller, digestible chunks.
+- **Q: Can I just copy and paste the code written by AI and deploy it?**
+  - A: No. AI can sometimes cause "hallucinations" by calling library methods that do not exist, or misunderstand the context of complex business requirements. The output from AI is only a powerful draft and suggestion; the final verification through code review and testing is entirely the developer's responsibility.
 
-- **Q: Will it fix bugs in my code?**
-  - A: It can spot glaring logic errors and suggest fixes in the 'Refactoring' section, but it's fundamentally a _reviewer_. Always test the refactored code it provides before committing!
+- **Q: The code is too long, so it doesn't get analyzed well all at once. What should I do?**
+  - A: Ask by breaking it down into function or class units. If you narrow the scope by saying, "Focus the review only on the `authenticate` method of this `UserService` class," the AI will provide a much higher quality deep-dive review without losing context.
 
 ---
 
-## 🧬 Prompt Anatomy (Why it works?)
+## 🧬 Anatomy of the Prompt (Why it works?)
 
-1. **Role Playing:** By invoking the persona of a "Google/Amazon Principal Engineer," the AI naturally adopts stricter linting rules, performance considerations, and professional engineering vocabulary.
-2. **Socratic Questioning:** The prompt specifically commands the AI to ask "Questions." This prevents passive copy-pasting and encourages the user's active learning and architectural reasoning.
-3. **Structured Output:** Forcing the AI to divide its answer into "Good," "Improvements," and "Refactoring" ensures the feedback is psychologically balanced (the sandwich method) and immediately actionable.
+1. **Injecting Top-Tier Persona (Role Prompting):** The role of a '10-year Principal Engineer' and a 'Clean Code Believer' strongly guides the AI's internal weights toward optimized best practices (design patterns, clean code principles).
+2. **Multi-dimensional Evaluation Criteria (Multi-dimensional Constraints):** By forcing the code to be separated and analyzed in the 3 dimensions of 'Readability', 'Efficiency', and 'Safety', it fundamentally blocks the generation of sloppy code that merely works.
+3. **Structured Output Format (Formatted Output):** By clearly separating the problem summary, improved code, and reasons for change, the UX is maximized so that the review content can be grasped at a glance.
 
 ---
 
 ## 📊 Proof: Before & After
 
-### ❌ Before (Input Code)
+The difference between simple commands and structured prompts is clearly revealed in the quality of the resulting code. Everything from variable names to defensive logic is perfectly improved.
 
-```python
-def s(x):
-    return x * x
+### ❌ Before (Spaghetti Code)
+
+```javascript
+function proc(d) {
+  let res = [];
+  for (let i = 0; i < d.length; i++) {
+    if (d[i].s === 1) {
+      res.push(d[i]);
+    }
+  }
+  return res;
+}
 ```
 
-### ✅ After (Review Result)
+### ✅ After (Clean Code)
 
-**👍 Good:**
-The function is extremely concise and achieves its mathematical goal without unnecessary overhead.
+```javascript
+/**
+ * Returns a filtered list of active users.
+ * @param {Array<Object>} users - The array of user data objects.
+ * @param {number} users[].status - The user status code (1: Active).
+ * @returns {Array<Object>} A new array containing only active users.
+ */
+const getActiveUsers = (users) => {
+  // Handle edge case: invalid input
+  if (!Array.isArray(users)) return [];
 
-**🛠 Improvements:**
+  const ACTIVE_STATUS_CODE = 1;
 
-1. **Naming:** The function name `s` and parameter `x` lack semantic meaning. `square` or `calculate_square` would instantly communicate intent.
-2. **Type Hints:** In modern Python, type hinting is essential for maintainability. We should specify that the input and output are numbers.
-3. **Documentation:** There is no docstring. Even simple utility functions benefit from a brief explanation of their behavior.
-
-**🤔 Questions:**
-
-- What happens if a string or a `None` value is passed as `x`? Have you considered adding error handling or input validation for production safety?
-
-**✨ Refactoring:**
-
-```python
-def calculate_square(number: float) -> float:
-    """
-    Calculates and returns the square of a given number.
-
-    Args:
-        number (float): The number to be squared.
-
-    Returns:
-        float: The squared value.
-    """
-    return number ** 2
+  // Maintains O(N) time complexity and maximizes readability by using a declarative approach (filter).
+  return users.filter((user) => user?.status === ACTIVE_STATUS_CODE);
+};
 ```
 
 ---
 
 ## 🎯 Conclusion
 
-They say the greatest perk at a tech company is having excellent colleagues. But even if your desk is empty, your virtual Principal Engineer is awake 24/7, ready to brutally (but lovingly) review your logic. Stop merging unchecked PRs and request a code review right now! 🍷
+Good code is like a well-written piece of prose. It should be easy for anyone to read, and the author's intent should be transparently revealed.
+The AI reviewer is awake 24 hours a day and will never sigh, no matter if you ask the most basic question 100 times.
+
+Throw the smelly legacy code sleeping in your IDE at it right now.
+Until the day you receive a true **"LGTM (Looks Good To Me)"**! 🍷

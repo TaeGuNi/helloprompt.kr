@@ -77,7 +77,7 @@ async function processMarkdown(filePath: string) {
   try {
     const prompt = `Task:
 1. Context Analysis: The user is writing a tech/productivity blog post titled "${titleText}". The opening hook sentence is: "${hookText}". Additional context from the introduction: "${extraContext}". Figure out the core "pain point", "situation", or "transformation" described here.
-2. Generate an image: Create a high-quality 3D isometric illustration that perfectly matches the situation you analyzed. The character should be a professional worker facing the exact problem or experiencing the solution described in the hook and context. Use a subtle cyberpunk, dark mode, and neon cyan color palette. Clean aesthetic. Do NOT include any text.
+2. Generate an image: Create a breathtaking, highly detailed 3D cinematic illustration reflecting this transformation. Use a dark mode, cyberpunk aesthetic with neon cyan (#00f3ff) accents. The image MUST depict a dynamic split or contrast: on one side, chaotic elements representing the pain point (e.g., tangled red spaghetti code, overwhelming paperwork, stress), and on the other side, an elegant, structured, glowing cyan solution representing the elite outcome. Make it an engaging, dramatic visual hook. Do NOT include any text.
 3. Optimize it: Convert the image to highly compressed JPG format, resize it to a maximum width of 800px.
 4. Save it to exactly this path: ${imagePath}. 
 You must complete this task autonomously without asking for confirmation.`;

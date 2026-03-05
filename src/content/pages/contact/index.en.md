@@ -14,11 +14,11 @@ If you experience any inconvenience while using our service or have a prompt you
 ## 📮 Contact Info
 
 - **Email:** `support@helloprompt.kr`
-- **Response Time:** We will reply within 24 hours on business days.
 
 ## 🤝 Partnership
 
-We also welcome inquiries regarding business partnerships or advertising. Please send your proposal to the email address above, and we will get back to you after review.
+We also welcome inquiries regarding business partnerships or advertising.
+Please send your proposal to the email address above, and we will get back to you after review.
 
 ---
 

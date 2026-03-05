@@ -14,11 +14,11 @@ Se encontrar algum problema ao usar nosso serviço ou quiser sugerir um novo pro
 ## 📮 Informações de Contato (Contact Info)
 
 - **Email:** `support@helloprompt.kr`
-- **Tempo de Resposta:** Responderemos em até 24 horas (dias úteis).
 
 ## 🤝 Parcerias e Colaborações (Partnership)
 
-Consultas sobre parcerias de negócios e publicidade são bem-vindas. Envie sua proposta para o email acima e retornaremos após análise.
+Consultas sobre parcerias de negócios e publicidade são bem-vindas.
+Envie sua proposta para o email acima e retornaremos após análise.
 
 ---
 

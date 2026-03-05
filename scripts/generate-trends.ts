@@ -119,6 +119,8 @@ CRITICAL RULES:
 6. Basic/Pro sections MUST use blockquotes (>). DO NOT use blockquotes (>) anywhere else in the document!
 7. DO NOT generate an 'image' property. Only strictly use the fields provided in <POST_TEMPLATE>!
 8. Ensure the headers '## 💡 작성자 코멘트 (Insight)' and '## 🙋 자주 묻는 질문 (FAQ)' are exactly written as requested. Weave a pragmatic, slightly spartan persona heavily into the Insight section.
+9. MUST KEEP the frontmatter 'description' under 160 characters (including spaces) for optimal SEO.
+10. The post MUST start with an H2 (##) heading for the main title, NOT an H1 (#), to prevent duplicate H1 tags.
 
 <POST_TEMPLATE>
 ${template}
@@ -305,15 +307,6 @@ async function main() {
           );
           continue;
         }
-      }
-
-      console.log(`\n🎨 Generating Hook Image for ${topic.title}...`);
-      try {
-        await runCmd(`pnpm generate:image ${koFilePath}`);
-        // Re-read koContent since generate:image modified the file on disk
-        koContent = await fs.readFile(koFilePath, "utf-8");
-      } catch (e) {
-        console.error(`❌ Failed to generate hook image:`, e);
       }
 
       // CRITICAL FIX: Strip all lint HTML comments from the original ko source to pass QA Phase 1

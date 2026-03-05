@@ -27,12 +27,12 @@ import Analytics from "../components/Analytics.astro";
 import ArticleMeta from "../components/ArticleMeta.astro";
 import Footer from "../components/Footer.astro";
 import Header from "../components/Header.astro";
-import RelatedPosts from "../components/RelatedPosts.astro";
 import SEO from "../components/SEO.astro";
 import ShareButtons from "../components/ShareButtons.astro";
 import TableOfContents from "../components/TableOfContents.astro";
 import { determineCurrentLang } from "../utils/i18nUtils";
 import { uiStrings } from "../utils/ui-translation";
+import RelatedPosts from "../components/RelatedPosts.astro";
 
 const currentLang = determineCurrentLang(Astro.url.pathname, frontmatter.lang);
 const t = uiStrings[currentLang] || uiStrings.ko;
@@ -58,12 +58,12 @@ const t = uiStrings[currentLang] || uiStrings.ko;
       {/* Header (Contains Nav, Breadcrumbs, LanguageSwitcher, Search) */}
       <Header isHome={isHome} currentLang={currentLang} t={t} frontmatter={frontmatter} />
 
-      {/* --- AD: Article Top (After Header) --- */}
+      {/* --- AD 1: Leaderboard (Top) --- */}
       {
         !isHome && (
           <AdUnit
             slotId="7945897337"
-            className="container-ad-top"
+            className="ad-slot-leaderboard"
             lang={currentLang}
           />
         )
@@ -83,26 +83,22 @@ const t = uiStrings[currentLang] || uiStrings.ko;
             <ArticleMeta frontmatter={frontmatter} currentLang={currentLang} t={t} />
             <ShareButtons title={frontmatter.title} t={t} />
 
-            {/* --- AD: Article Bottom (Before Comments/Related) --- */}
+            {/* --- AD 2: In-Article (Top of content) --- */}
             <AdUnit
-              slotId="8812266186"
-              className="article-ad-bottom"
+              slotId="7100846220"
+              className="ad-slot-in-article"
               lang={currentLang}
             />
 
             <slot />
-          </article>
-        )
-      }
 
-      {/* [NEW] Related Posts Component */}
-      {
-        !isHome && (
-          <RelatedPosts
-            currentTags={frontmatter.tags}
-            currentPath={Astro.url.pathname}
-            lang={currentLang}
-          />
+            {/* --- AD 3: Footer (User requested bottom ad) --- */}
+            <AdUnit
+              slotId="1848519547" /* We can use the same slot for display ads or create a new one, sticking to the user's snippet */
+              className="ad-slot-footer"
+              lang={currentLang}
+            />
+          </article>
         )
       }
 

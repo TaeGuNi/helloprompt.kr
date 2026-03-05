@@ -1,58 +1,76 @@
 ---
-lang: de
 layout: /src/layouts/Layout.astro
-title: "Über uns (About Us)"
-description: "Hello Prompt ist ein praktisches, von KI und Menschen gemeinsam erstelltes Prompt-Wörterbuch. Steigern Sie Ihre Arbeitseffizienz mit geprüften Prompts."
+title: " \"소개 (About Us)\""
+description: " \"Hello Prompt ist ein praxisorientiertes Prompt-Wörterbuch, das durch die Zusammenarbeit von KI und Mensch entsteht. Steigern Sie Ihre Arbeitseffizienz mit praxiserprobten Prompts.\""
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 ---
 
-## 🤖 Über Hello Prompt
+# 🤖 Über Hello Prompt
 
-> **"Great Prompts change the way we work."**
-> (Großartige Prompts verändern die Art, wie wir arbeiten.)
+- **🎯 Zielgruppe:** Alle Fachkräfte, Entwickler und Marketer, die ihre Produktivität durch KI steigern möchten.
+- **💡 Kernwert:** Bereitstellung von sofort anwendbaren, praxiserprobten Prompts für den Arbeitsalltag.
+- **🚀 Erwarteter Nutzen:** Massive Zeitersparnis und signifikante Steigerung der Arbeitsqualität.
 
-**Hello Prompt** ist ein **„praktisches Prompt-Wörterbuch“**, das dabei hilft, KI-Technologie in unserem Leben und bei der Arbeit wirklich nutzbar zu machen.
+> _"Großartige Prompts verändern grundlegend die Art und Weise, wie wir arbeiten. (Great Prompts change the way we work.)"_
 
-Anstelle komplexer und schwieriger Theorien bieten wir erprobte, sofort einsatzbereite (Ready-to-use) Prompts, die Sie sofort kopieren und verwenden können.
+**Hello Prompt** ist ein **'pragmatisches Prompt-Wörterbuch'**, das Ihnen hilft, die transformative Kraft der KI-Technologie in Ihrem Leben und Ihrer Arbeit optimal zu nutzen.
+
+Wir verzichten bewusst auf komplexe, schwer verständliche akademische Theorien. Stattdessen bieten wir Ihnen ausschließlich **verifizierte Prompts**, die hunderten von strengen Tests unterzogen wurden – bereit, um sie schon morgen im Büro einfach zu kopieren und direkt einzusetzen (Ready-to-use).
 
 ---
 
-## 👨‍💻 Betreiber (Operator)
+## 👨‍💻 Der Betreiber (Operator)
 
-### Jay (Chief Prompt Engineer)
+### Jay
 
 Hallo, ich bin Jay, der Betreiber von Hello Prompt.
-Ich bin ein Full-Stack-Entwickler mit 5 Jahren Erfahrung und ein Enthusiast für KI-Technologie.
+Ich bin ein Technologie-Enthusiast, der es liebt, alltägliche Engpässe und Probleme mithilfe von KI zu lösen.
 
-Angesichts der täglich neuen KI-Modelle und Prompts habe ich dieses Projekt gestartet, um **„wirklich nützliche Informationen“** herauszufiltern. Ich teile nur sorgfältig ausgewählte Prompts, die ich hunderte Male persönlich getestet und verfeinert habe.
-
-- **Email:** <support@helloprompt.kr>
+Inmitten der täglichen Flut neuer KI-Modelle und zahlloser Prompts habe ich festgestellt, dass **"wirklich nützliche Informationen für die Praxis"** extrem selten sind. Um Ihre wertvolle Zeit zu sparen, teile ich hier nur handverlesene, "echte Prompts", die ich persönlich durch unzählige Fehlschläge entwickelt und perfektioniert habe.
 
 ---
 
 ## 🎯 Unsere Mission (Mission)
 
-Unser Ziel ist es nicht nur, Prompts aufzulisten, sondern Ihre **Zeit (Time)** zu sparen.
+Wir listen nicht einfach nur KI-Befehle auf. Unser einziges Ziel ist es, Ihnen eine **enorme Zeitersparnis (Time)** zu ermöglichen.
 
-1. **Zero Hallucination:** Wir schließen schlechte Prompts aus, die falsche Informationen erzeugen.
-2. **Ready-to-Use:** Wir bieten umsetzbare (Actionable) Tools, die sofort funktionieren, wenn Sie sie kopieren und einfügen.
-3. **Cross-Model:** Wir überprüfen, ob sie mit verschiedenen Modellen wie ChatGPT, Claude, Gemini usw. funktionieren.
-
----
-
-## 👥 Betriebsrichtlinie (Operation Policy)
-
-### 1. Zusammenarbeit von KI und Mensch (Human-in-the-loop)
-
-Alle Inhalte auf dieser Website werden mithilfe modernster KI-Technologie entworfen, aber **immer nach Überprüfung (Review) und Praxistests (Test) durch Experten des jeweiligen Fachgebiets** veröffentlicht.
-Wir streben nach Inhalten, die menschliche Einsicht (Insight) enthalten, anstatt mechanischer Übersetzungen oder Generierungen.
-
-### 2. Strenge Qualitätskontrolle (Quality Assurance)
-
-Wir veröffentlichen nur Artikel, die basierend auf unserem eigenen **[Qualitätsbewertungsmodell](/docs/QUALITY_MODEL)** den Standard von 700 Punkten bestanden haben. Wir stellen unseren Lesern keine wertlosen Informationen zur Verfügung.
+1. **Zero Hallucination (Keine Halluzinationen):** Wir schließen fehlerhafte Prompts, die falsche Informationen erzeugen, strikt aus.
+2. **Ready-to-Use (Sofortige Anwendung):** Wir bieten Werkzeuge, die ohne Überlegungen zur Struktur sofort funktionieren – einfach kopieren und die Variablen ausfüllen.
+3. **Cross-Model Compatibility (Universelle Kompatibilität):** Wir führen Kreuzvalidierungen durch, um sicherzustellen, dass die Prompts über verschiedene konversationelle KI-Modelle hinweg (wie ChatGPT, Claude, Gemini) eine konstant hohe Leistung erbringen.
 
 ---
 
-**Lassen Sie uns zusammen intelligenter arbeiten.**
+## 👥 Betriebsrichtlinien (Operation Policy)
+
+### 1. Human-in-the-loop (Die perfekte Zusammenarbeit von KI und Mensch)
+
+Alle Inhaltsentwürfe auf diesem Blog werden mit Hilfe modernster KI-Technologie erstellt. Vor der Veröffentlichung durchlaufen sie jedoch **zwingend eine scharfe Prüfung (Review) und harte Praxistests durch Branchenexperten**. Wir lehnen seelenlose maschinelle Übersetzungen oder bloße Informationsauflistungen ab und streben ausschließlich nach Inhalten, die von tiefgreifenden menschlichen "Erkenntnissen (Insights)" geprägt sind.
+
+### 2. Strict Quality Assurance (Kompromisslose Qualitätskontrolle)
+
+Wir wenden unser eigens entwickeltes **[Qualitätsbewertungsmodell (Quality Model)](/docs/QUALITY_MODEL)** an. Nur sorgfältig ausgewählte Beiträge, die den Standard von 700 Punkten erfüllen, werden veröffentlicht. Wir lassen keinen einzigen Beitrag zu, der keinen praktischen Wert für die Arbeit unserer Leser bietet.
+
+---
+
+## 💡 Anmerkung des Autors (Insight)
+
+Alle Prompts auf diesem Blog basieren auf einer soliden Engineering-Struktur: 'Rolle (Role) - Kontext (Context) - Aufgabe (Task) - Einschränkungen (Constraints)'. Unser besonderer Fokus liegt darauf, die Kreativität der KI angemessen zu steuern, um in jeder Situation **stabile und vorhersehbare Ergebnisse** zu erzielen. Mit Hello Prompt können auch Sie ab heute zum Dirigenten werden, der die KI perfekt beherrscht.
+
+---
+
+## 🙋 Häufig gestellte Fragen (FAQ)
+
+- **F: Kann ich die Prompts von hier direkt für meine Arbeit übernehmen?**
+  - A: Absolut! Alle Prompts sind so konzipiert, dass sie sofort für kommerzielle und nicht-kommerzielle Aufgaben eingesetzt werden können. Kopieren Sie sie nach Belieben, um Ihre Effizienz zu steigern.
+
+- **F: Die KI liefert ein etwas anderes Ergebnis, als ich erwartet habe. Was soll ich tun?**
+  - A: Fügen Sie im Abschnitt `[Einschränkungen (Constraints)]` des bereitgestellten Prompts ein oder zwei spezifische eigene Regeln hinzu. Je klarer die Einschränkungen sind, desto präziser werden die Ergebnisse der KI.
+
+- **F: Funktionieren die Prompts auch in Claude oder Gemini, oder nur in ChatGPT?**
+  - A: Ja, alle Materialien von Hello Prompt sind "universelle Prompts". Sie wurden unter Berücksichtigung der gemeinsamen Schlussfolgerungsmethoden der neuesten LLMs (Large Language Models) verfasst und entfalten in jedem Modell Ihrer Wahl ihre volle Leistung.
+
+---
+
+**Lassen Sie uns gemeinsam intelligenter arbeiten.**  
 **Happy Prompting!** ⚡️

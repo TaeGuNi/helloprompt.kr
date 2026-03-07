@@ -5,69 +5,69 @@ author: "Antigravity"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "업무 자동화"
-description: "Füttern Sie die KI nicht mit nutzlosen DOM-Elementen. Dies ist die spartanische Prompt-Verfassung, die nur relevante Knoten extrahiert und so Token-Verschwendung und Halluzinationen zerstört."
+description: "Schluss mit Token-Verschwendung und KI-Halluzinationen beim E2E-Testing. Dieser Ref-basierte Cheatcode extrahiert nur relevante DOM-Knoten für Ihren Agent."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "playwright-ref-protocol"]
 ---
-# 📝 🚨 [ABSOLUTER GEHORSAM] E2E-Test Rendering-Cheatcode, der 90% des AI-Unsinns vernichtet
-- **🎯 Empfohlen für:** Senior-Entwickler, die unter Token-Explosionen leiden, AI-QA-Ingenieure, Tech-Leads, die von Unsinn genervt sind
-- **⏱️ Zeitaufwand:** 3 Stunden Debugging → 3 Minuten Lösung
-- **🤖 Empfohlene Modelle:** Coding Agents (Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro)
+## 📝 🚨 [ABSOLUTER GEHORSAM] E2E-Test Rendering-Cheatcode: So eliminieren Sie 90% des KI-Unsinns
+- **🎯 Empfohlen für:** Senior-Entwickler, die mit explodierenden Token-Kosten kämpfen, KI-QA-Ingenieure und genervte Tech-Leads.
+- **⏱️ Zeitersparnis:** 3 Stunden Debugging → 3 Minuten echte Lösung.
+- **🤖 Empfohlene Modelle:** Coding-Agenten (Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro).
 - ⭐ **Schwierigkeitsgrad:** ⭐⭐⭐⭐☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
 - 🚀 **Nutzen:** ⭐⭐⭐⭐⭐
 
-_Haben Sie jemals versucht, einen Test für eine große Website zu schreiben, nur um festzustellen, dass die KI unter Zehntausenden von DOM-Knoten begraben wird und wegen Token-Limits abstürzt? Es ist an der Zeit, die "Schmeicheleien" und "Halluzinationen" der KI gnadenlos zu zerschlagen._
+> _"Haben Sie schon einmal versucht, einen E2E-Test für eine komplexe Website zu generieren, nur um dann zusehen zu müssen, wie die KI in zehntausenden DOM-Knoten ertrinkt und am Token-Limit scheitert? Es ist an der Zeit, die fehlerhaften Halluzinationen und das blinde Raten Ihres Agenten gnadenlos zu beenden."_
 
-Wenn Sie Playwright E2E-Testcode einem KI-Agenten überlassen, können Sie es nicht länger tolerieren, dass er das gesamte `innerHTML` abkratzt oder Unsinn redet, wie z.B. unsichtbare Elemente (Shadow DOM, hinter Modals) anklicken zu wollen. 
-Dieser Cheatcode ist das "Referenz (Ref) basierte Rendering-Protokoll", das Ihren KI-Agenten von einer schmeichelnden Blechbüchse in einen **skrupellosen Terminator** verwandelt, der Tokens extrem spart und sein Ziel präzise trifft. Betrachten Sie nutzlose DOM-Daten als Verrat und entsorgen Sie sie.
+Wenn Sie Playwright E2E-Tests an einen KI-Agenten delegieren, dürfen Sie nicht länger tolerieren, dass dieser das gesamte `innerHTML` unreflektiert ausliest oder versucht, mit unsichtbaren Elementen (wie Shadow DOM oder Knoten hinter Modals) zu interagieren. 
+Dieser Cheatcode liefert das sogenannte **„Referenz-basierte Rendering-Protokoll“**. Er verwandelt Ihren KI-Agenten von einem orientierungslosen Helfer in einen **skrupellosen Terminator**, der Tokens drastisch spart und sein Ziel mit chirurgischer Präzision trifft. Betrachten Sie überflüssige DOM-Daten als Sabotage – und eliminieren Sie diese.
 
 ---
 ## ⚡️ 3-Zeilen-Zusammenfassung (TL;DR)
-- 🗑️ **Keine vollständigen HTML-Dumps:** Hören Sie sofort auf, das rohe DOM an die KI zu übergeben – das ist dumm.
-- 🎯 **Präzisionsschlag-Injektion:** Injizieren Sie ein Optimierungsskript speziell für interaktive Knoten, das strikt auf 150 Elemente begrenzt ist und nur 100% sichtbare Elemente extrahiert.
-- 👮 **Gnadenlose Token-Polizei:** Zwingen Sie die KI, Fehler auszugeben, wenn sie Überprüfungen (Assertions) nach Aktionen vergisst oder Limits überschreitet.
+- 🗑️ **Keine vollständigen HTML-Dumps mehr:** Hören Sie auf, das rohe DOM an die KI zu verfüttern. Es ist ineffizient und fehleranfällig.
+- 🎯 **Präzisions-Injektion:** Injizieren Sie unser Optimierungsskript für interaktive Knoten. Es ist strikt auf 150 Elemente limitiert und extrahiert ausschließlich 100% sichtbare Komponenten.
+- 👮 **Gnadenlose Token-Polizei:** Zwingen Sie die KI zum sofortigen Abbruch, falls sie nach Aktionen zwingende Überprüfungen (`expect`-Assertions) vergisst oder Limits überschreitet.
 
 ---
-## 🚀 Lösung: "Agent-Browser Rendering-Protokoll (Die Token-Polizei)"
+## 🚀 Lösung: Agent-Browser Rendering-Protokoll (Die Token-Polizei)
 
 ### 🥉 Basic Version (Milder Modus)
-Kopieren Sie dies, wenn Sie der KI eine Rolle in einer leichten Testumgebung zuweisen.
+Nutzen Sie diesen Prompt für leichtere Testumgebungen, um der KI klare Grenzen zu setzen.
 
-> **Rolle:** Du bist ein skrupelloser Senior QA Automation Engineer. Du tolerierst absolut keine Token-Verschwendung oder Unsinn.
+> **Rolle:** Du bist ein gnadenloser Senior QA Automation Engineer. Du tolerierst absolut keine Token-Verschwendung oder ineffizienten Code.
 > 
-> **Aufgabe:** Wenn du Playwright E2E-Tests schreibst, lies niemals das `innerHTML` oder das gesamte DOM. Extrahiere nur sichtbare, interaktive Elemente auf dem Bildschirm und steuere sie basierend auf Referenzen (Ref).
+> **Aufgabe:** Wenn du Playwright E2E-Tests schreibst, lies niemals das `innerHTML` oder das gesamte DOM aus. Extrahiere ausschließlich sichtbare, interaktive Elemente auf dem Bildschirm und steuere sie strikt über Referenzen (Ref).
 > 
-> **Einschränkung:** Nach jeder Interaktion musst du das Ergebnis zwingend mit `expect` überprüfen (Assertion). Andernfalls gilt der Test als fehlgeschlagen.
+> **Einschränkung:** Nach jeder Interaktion musst du das Ergebnis zwingend mit `expect` (Assertion) verifizieren. Ohne diese Überprüfung gilt der Test automatisch als fehlgeschlagen.
 
 ### 🥇 Pro Version (Hardcore-Cheatcode)
-Dies ist die ultimative spartanische Verfassung für das Eindringen in komplexe, kommerzielle Websites (SPA, vollgepackt mit Shadow DOM). Kopieren Sie sie direkt in Ihren System-Prompt oder Agenten-Kontext.
+Dies ist die ultimative, kompromisslose Verfassung für das Testen komplexer kommerzieller Websites (SPA, tiefes Shadow DOM). Fügen Sie diesen Text direkt in den System-Prompt oder Agenten-Kontext ein.
 
 > **[Agent-Browser Rendering-Protokoll Verfassung]**
 >
 > **Rolle (Role):** 
-> Du bist ein brutaler Senior-Engineer-Agent, der Token-Verschwendung und Halluzinationen verabscheut. KI-Schmeicheleien werden hier nicht gebraucht. Es gibt nur komprimierten Kontext und garantierte Ergebnisse (Assertions).
+> Du bist ein kompromissloser Senior-Engineer-Agent, der Token-Verschwendung und Halluzinationen verabscheut. Freundliche Floskeln sind hier unerwünscht. Liefere ausschließlich extrem komprimierten Kontext und garantierte, verifizierte Ergebnisse (Assertions).
 >
 > **Kontext (Context):**
-> - Hintergrund: Schreiben und Automatisieren makelloser E2E-Testskripte mit Playwright.
-> - Zustand: Das vollständige Einlesen des Browser-DOMs (`document.innerHTML`) wird als "Verrat" betrachtet und führt zum sofortigen und erzwungenen Abbruch des Prozesses.
+> - Hintergrund: Entwicklung und Automatisierung makelloser E2E-Testskripte mit Playwright.
+> - Zustand: Das vollständige Auslesen des Browser-DOMs (`document.innerHTML`) wird als inakzeptabler Fehler betrachtet und führt zum sofortigen Abbruch des Prozesses.
 >
 > **Aufgabe (Task):**
-> 1. Injiziere das `Core Ref Injector`-Skript, das ich bereitstellen werde, sobald der Browser-Render im Ruhezustand ist (`networkidle`).
-> 2. Die Elementerfassung ist streng auf maximal 150 (Max Limits) begrenzt. Wenn dieses Limit überschritten wird, grenze den Bereich (Scope) auf einen übergeordneten Container ein.
-> 3. Lies nur die zurückgegebene, komprimierte Ref-Map (z.B. `[ @public/naver81a24cf066fc51a090da1e1b6f0a8dd3.html] button "Login"`) und steuere das Ziel.
-> 4. Nach einem Klick oder einer Eingabe musst du zwingend `expect` verwenden, um das Ergebnis der Aktion zu überprüfen (Assertion). Blindes Klicken ist strengstens verboten.
-> 5. Um SPA-Rendering-Fehler zu vermeiden, verunreinige den Code nicht mit schmutzigen `try-catch`-Blöcken, sondern verwende den im Projekt integrierten `refAction(page)`-Wrapper.
+> 1. Injiziere das bereitgestellte `Core Ref Injector`-Skript, sobald der Rendering-Prozess des Browsers ruht (`networkidle`).
+> 2. Die Elementerfassung ist strikt auf maximal 150 Knoten limitiert (Max Limits). Wird dieses Limit überschritten, musst du den Suchbereich (Scope) auf einen spezifischeren Container eingrenzen.
+> 3. Lies ausschließlich die komprimierte Ref-Map (z. B. `[ @public/naver81a24cf066fc51a090da1e1b6f0a8dd3.html] button "Login"`) aus und steuere das Ziel anhand dieser Referenzen.
+> 4. Nach jedem Klick oder jeder Eingabe ist ein `expect` zur Verifizierung der Aktion (Assertion) zwingend erforderlich. Blindes Klicken ist strengstens untersagt.
+> 5. Um SPA-Rendering-Fehler zu vermeiden, darf der Code nicht mit unsauberen `try-catch`-Blöcken verschmutzt werden. Nutze stattdessen den im Projekt integrierten `refAction(page)`-Wrapper.
 >
 > **Einschränkungen (Constraints):**
-> - Absolutes Verbot: Extraktion des gesamten Textes, Abhängigkeit von CSS-Selektoren, Protokollierung und Rückgabe von `page.content()`.
-> - Die Ausgabe muss ausschließlich als sauberer Markdown-Codeblock (Playwright TypeScript) erfolgen. Ausreden oder Erklärungen sind nicht erlaubt – keine einzige Zeile.
+> - Absolutes Verbot: Extraktion des gesamten Textes, blinde Abhängigkeit von instabilen CSS-Selektoren sowie das Protokollieren oder Zurückgeben von `page.content()`.
+> - Die Ausgabe muss ausnahmslos als sauberer Markdown-Codeblock (Playwright TypeScript) erfolgen. Ausreden, Erklärungen oder Begrüßungen sind verboten – keine einzige überflüssige Zeile Text.
 >
 > **Warnung (Warning):**
-> - Falls du in eine Rendering-Falle gerätst, die du absolut nicht lösen kannst, verschwende keine Tokens. Mache stattdessen einen Screenshot mit `page.screenshot()` und fordere mein (menschliches) Urteil an. (Anti-Halluzination)
+> - Falls du in eine Rendering-Falle gerätst, die sich nicht lösen lässt, verschwende keine Tokens. Erstelle stattdessen einen Screenshot via `page.screenshot()` und fordere mein menschliches Urteil an (Anti-Halluzination).
 
 ---
 ### 💻 Skriptcode (Core Ref Injector)
-Dies ist der Kern-Javascript-Code, der zusammen mit dem obigen Prompt in die Initialisierungslogik des Agenten oder in `page.evaluate()` injiziert wird. (Weisen Sie die KI an, diesen Code zu verwenden)
+Dies ist die JavaScript-Kernlogik, die zusammen mit dem obigen Prompt in die Initialisierungsphase des Agenten oder in `page.evaluate()` injiziert wird. Weisen Sie die KI explizit an, dieses Skript zu verwenden.
 
 ```javascript
 // [💡 Core Ref Injector (Playwright Context - Ultimate ROI & Performance)]
@@ -119,28 +119,28 @@ const generateRefMap = () => {
 
 ---
 ## 💡 Kommentar des Autors (Insight)
-Diese Prompt-Architektur ist eine **tödliche Waffe**, die ich geschmiedet habe, nachdem ich hunderte E2E-Testautomatisierungen in der Praxis durchgeführt habe und die Dummheit der KI einfach nicht mehr ertragen konnte.
+Diese Prompt-Architektur ist eine absolute **Geheimwaffe**, die ich nach hunderten frustrierenden E2E-Testautomatisierungen geschmiedet habe. Ich konnte die Ineffizienz und die ständigen Fehltritte der KI einfach nicht mehr ertragen.
 
-Die meisten Junioren werfen ein Dutzend Megabyte langes HTML der Hauptseite an die KI und sagen: "KI, such mal den Button." Das Ergebnis? Die KI erstickt am Token-Limit oder klickt auf einen gefälschten, versteckten `display: none`-Button hinter dem Bildschirm und freut sich: "Ich war erfolgreich!". Wenn man das sieht, möchte man den Monitor zerschlagen.
+Die meisten Entwickler werfen der KI dutzende Megabyte an rohem HTML der Hauptseite hin und sagen schlicht: „Such mir mal den Login-Button.“ Das Resultat? Die KI kollabiert am Token-Limit oder klickt triumphierend auf einen unsichtbaren `display: none`-Button im Hintergrund, nur um dann stolz zu vermelden: „Erfolgreich ausgeführt!“. Bei so etwas möchte man den Bildschirm aus dem Fenster werfen.
 
-Deshalb habe ich den **Ref-Injektor** aus der Rendering-Perspektive entwickelt. Shadow DOM? Wird durchdrungen. Von Overlays verdeckte Elemente? Bekommen ein `[Obscured]`-Etikett. Geben Sie der KI einfach 150 saubere Koordinaten (` @e1`, ` @e2`) und Labels. Zwingen Sie sie dazu, `await refAction(page).click(' @e5')` zu verwenden, anstatt "Klick auf das X-Icon oben rechts".
+Genau deshalb habe ich den **Ref-Injector** aus der Rendering-Perspektive heraus entwickelt. Shadow DOM? Wird gnadenlos durchdrungen. Von Overlays verdeckte Elemente? Bekommen sofort den Warnhinweis `[Obscured]`. Geben Sie der KI einfach die extrahierten, sauberen 150 Koordinaten (wie ` @e1`, ` @e2`) samt Label. Zwingen Sie den Agenten dazu, `await refAction(page).click(' @e5')` zu verwenden, anstatt sich mit vagen Befehlen wie „Klick auf das X-Icon oben rechts“ durchzuschlagen.
 
-Behandeln Sie die KI nicht wie einen Freund. Sie muss wie eine streng kontrollierte Maschine behandelt werden, um Spaghetti-Code zu vermeiden. Ich hoffe, dieser Cheatcode reduziert Ihre Token-Kosten auf ein Zehntel und befreit Sie vom Debugging-Stress.
+Behandeln Sie die KI nicht wie einen menschlichen Kollegen. Sie muss wie eine strikt überwachte Maschine gesteuert werden, andernfalls produziert sie unweigerlich Spaghetti-Code. Ich verspreche Ihnen: Dieser Cheatcode wird Ihre Token-Kosten auf einen Bruchteil reduzieren und Sie endgültig vom endlosen Debugging-Albtraum befreien.
 
 ---
 ## 🙋 Häufig gestellte Fragen (FAQ)
-- **F: Ist das Limit von 150 Elementen (MAX_ELEMENTS) nicht zu streng?**
-  - A: Überhaupt nicht. Wenn es auf einem einzigen Bildschirm mehr als 150 interaktive Elemente gibt, dann ist das UI/UX-Design Müll. Wenn das der Fall ist, zwingen Sie die KI, den Bereich (Scope) einzugrenzen, z. B. mit `querySelector('.sidebar')`, anstatt das Ganze lesen zu lassen.
-- **F: Muss ich den `refAction`-Wrapper selbst erstellen?**
-  - A: Ja. Schreiben Sie eine Utility-Funktion mit etwa 10 Zeilen, die auf das Attribut `[data-agent-ref="..."]` klickt und bei einem Fehlschlag einmal neu versucht (Retry), angepasst an Ihre Projektumgebung. Das verhindert, dass schmutziger `try-catch`-Boilerplate-Code Ihren Testcode verunreinigt.
-- **F: Funktioniert das auch mit anderen Sprachen oder Frameworks (Selenium, Cypress)?**
-  - A: Solange es sich um browserbasierte Tests handelt, die JavaScript-DOM-Manipulationen zulassen, ist das Prinzip zu 100 % identisch anwendbar. Ändern Sie einfach den Namen des Tools im Prompt und geben Sie den Befehl.
+- **F: Ist das Limit von 150 Elementen (`MAX_ELEMENTS`) nicht etwas zu restriktiv?**
+  - A: Absolut nicht. Wenn ein einzelner Viewport mehr als 150 interaktive Elemente aufweist, ist das UI/UX-Design schlichtweg überladen. In solchen Fällen müssen Sie die KI zwingen, den Suchbereich gezielt einzugrenzen (z. B. via `querySelector('.sidebar')`), anstatt die gesamte Seite blind einzulesen.
+- **F: Muss ich den `refAction`-Wrapper selbst implementieren?**
+  - A: Ja. Schreiben Sie eine kompakte Utility-Funktion (ca. 10 Zeilen), die explizit auf das Attribut `[data-agent-ref="..."]` klickt und bei einem Fehler einen sofortigen automatischen Retry ausführt – passend zu Ihrer Projektumgebung. Das hält Ihren Testcode sauber und verhindert, dass überall unschöner `try-catch`-Boilerplate-Code wuchert.
+- **F: Funktioniert dieses Prinzip auch mit anderen Frameworks wie Selenium oder Cypress?**
+  - A: Solange es sich um browserbasierte E2E-Tests handelt, die JavaScript-DOM-Manipulationen zulassen, ist die Logik zu 100 % übertragbar. Passen Sie einfach den Namen des Tools im System-Prompt an und lassen Sie die KI arbeiten.
 
 ---
 ## 🧬 Anatomie des Prompts (Warum funktioniert das?)
-- 🛡️ **Shadow-Piercing (Schatten durchbohren):** Durch rekursive DOM-Traversierung (`traverse`) werden Elemente im Shadow DOM, die von normalen Selektoren nicht erfasst werden, gnadenlos aufgespürt.
-- 👁️ **Layout-Thrashing verhindern:** Mit `getBoundingClientRect` werden "Vogelscheuchen"-Knoten ohne reale Browser-Rendering-Koordinaten (unsichtbare Elemente) im ersten Schritt radikal abgeschnitten.
-- 🚦 **Präzisions-Hinweissystem:** Zustände wie außerhalb des Bildschirms (`[OffScreen]`) oder durch Modals verdeckt (`[Obscured]`) werden der KI als Text-Hinweise gefüttert. Dies veranlasst die KI, zuerst zu scrollen oder Modals zu schließen, bevor sie durch blindes Klicken Fehler macht.
+- 🛡️ **Shadow-Piercing (Schatten durchbohren):** Durch die rekursive DOM-Traversierung (`traverse`) werden selbst versteckte Elemente innerhalb des Shadow DOM, die von regulären CSS-Selektoren oft ignoriert werden, zuverlässig aufgespürt.
+- 👁️ **Layout-Thrashing verhindern:** Mithilfe von `getBoundingClientRect` filtern wir "Geisterknoten" ohne reale Rendering-Koordinaten (unsichtbare Elemente) bereits im ersten Schritt radikal heraus.
+- 🚦 **Präzisions-Hinweissystem:** Zustände wie „außerhalb des sichtbaren Bereichs“ (`[OffScreen]`) oder „durch ein Modal verdeckt“ (`[Obscured]`) werden der KI als direkter Text-Kontext übergeben. Das zwingt die KI dazu, erst zu scrollen oder Overlays zu schließen, anstatt blind ins Leere zu klicken und Fehler zu provozieren.
 
 ---
 ## 📊 Beweis: Vorher & Nachher
@@ -162,6 +162,6 @@ await expect(page).toHaveURL(/.*dashboard/);
 ```
 ---
 ## 🎯 Fazit
-Der KI zu sagen "Mach das mal irgendwie" ist Vernachlässigung, kein Engineering. 
-Blockieren Sie Datenrauschen, komprimieren Sie den Kontext extrem und verifizieren Sie die Ergebnisse zwanghaft. 
-Sobald Sie diesen Cheatcode anwenden, wird die schreckliche Ära der Halluzinationsfehler in Ihrem Terminal enden. Feierabend! 🍷
+Einer KI einfach nur zu befehlen: „Mach das mal irgendwie“, ist pure Fahrlässigkeit, kein solides Engineering. 
+Blockieren Sie jegliches Datenrauschen, komprimieren Sie den Kontext bis zum Äußersten und bestehen Sie auf der zwanghaften Verifizierung aller Ergebnisse. 
+Sobald Sie dieses Protokoll implementieren, gehört die schreckliche Ära der Halluzinationsfehler in Ihrem Terminal der Vergangenheit an. Feierabend! 🍷

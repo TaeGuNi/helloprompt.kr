@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Technique de 'Croquis Aquarelle' Claire et Transparente\""
+title: "Technique de 'Croquis Aquarelle' Claire et Transparente"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Génération d'Image"
-description: " \"Un prompt d'aquarelle émotionnelle combinant l'effet d'étalement naturel de l'eau et la précision des lignes de croquis au crayon.\""
+description: "Un prompt d'aquarelle émotionnel combinant la diffusion naturelle de l'eau et la précision du croquis au crayon pour sublimer vos images IA."
 tags:
   [
     "Midjourney",
@@ -16,9 +16,9 @@ tags:
   ]
 ---
 
-# 📝 Émotion Transparente : Croquis Aquarelle
+## 📝 Émotion Transparente : Croquis Aquarelle
 
-- **🎯 Recommandé pour :** Créateurs de contenu, Designers, Artistes numériques
+- **🎯 Recommandé pour :** Créateurs de contenu, designers, artistes numériques
 - **⏱️ Temps requis :** 5 minutes → 1 minute
 - **🤖 Modèle recommandé :** Midjourney, DALL-E 3, Stable Diffusion
 
@@ -49,18 +49,17 @@ Utilisez cette version lorsque vous avez besoin d'une illustration rapide sans c
 > **Rôle :** Tu es un illustrateur expert en art traditionnel.
 > **Demande :** Génère une image de `[Sujet]` dans un style de croquis à l'aquarelle, avec des lignes de crayon apparentes et de légères éclaboussures de peinture sur un fond blanc.
 
-
 ### 🥇 Version Pro (Expert)
 
 Utilisez cette version, particulièrement optimisée pour Midjourney, lorsque vous recherchez une qualité d'exposition et des détails minutieux.
 
 > **Prompt :**
 >
-> **Subject:** `[A cozy cafe corner in Paris, chairs and tables on the street, bicycle]`.
+> **Subject:** `[Un coin de café chaleureux à Paris, chaises et tables sur le trottoir, vélo]`.
 >
 > **Style:** Watercolor sketch, loose brushstrokes, fine ink lines, pastel color palette, artistic fluid splatter, raw white watercolor paper texture, minimalist, elegant.
 >
-> **Mood:** `[Dreamy, soft, airy, romantic atmosphere]`.
+> **Mood:** `[Atmosphère onirique, douce, aérée, romantique]`.
 >
 > **Lighting:** Natural soft daylight, diffused shadows.
 >
@@ -70,7 +69,7 @@ Utilisez cette version, particulièrement optimisée pour Midjourney, lorsque vo
 
 ## 💡 Commentaire de l'Auteur (Insight)
 
-La magie de ce prompt réside dans la tension maîtrisée entre le contrôle (`fine ink lines`) et le chaos (`artistic fluid splatter`). Souvent, l'IA a tendance à surcharger les images d'aquarelle, les transformant en peintures à l'huile denses. L'astuce cruciale ici est l'utilisation combinée de `loose brushstrokes` (coups de pinceau lâches) et de `raw white watercolor paper texture`. Cela force le modèle à respecter les espaces vides (espaces négatifs), ce qui est le secret absolu d'une aquarelle lumineuse et transparente. Si le résultat est trop coloré ou lourd, ajoutez des termes comme `monochrome accents` ou `minimalist wash` pour apaiser l'image.
+La magie de ce prompt réside dans la tension maîtrisée entre le contrôle (`fine ink lines`) et le chaos (`artistic fluid splatter`). Souvent, l'IA a tendance à surcharger les images d'aquarelle, les transformant en peintures à l'huile denses et opaques. L'astuce cruciale ici est l'utilisation combinée de `loose brushstrokes` (coups de pinceau lâches) et de `raw white watercolor paper texture`. Cela force le modèle à respecter les espaces vides (espaces négatifs), ce qui est le secret absolu d'une aquarelle lumineuse et transparente. Si le résultat est trop coloré ou lourd, ajoutez des termes comme `monochrome accents` ou `minimalist wash` pour apaiser l'image.
 
 ---
 
@@ -101,7 +100,7 @@ La magie de ce prompt réside dans la tension maîtrisée entre le contrôle (`f
 
 > **Prompt :** Peinture d'un café à Paris à l'aquarelle.
 
-**(Résultat :** L'image est visuellement lourde, les couleurs sont saturées à l'extrême, et la texture ressemble davantage à une peinture à l'huile empâtée manquant cruellement de subtilité et de "respiration".**)**
+**(Résultat :** L'image est visuellement lourde, les couleurs sont saturées à l'extrême, et la texture ressemble davantage à une peinture à l'huile empâtée, manquant cruellement de subtilité et de "respiration".**)**
 
 ### ✅ Après (Prompt Pro)
 

@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: " "
-description: "Un prompt IA ultra-pratique pour réaliser en 3 minutes une étude de marché et une analyse SWOT concurrentielle qui vous prendraient normalement 3 jours sur Google."
+description: "Prompt IA ultra-pratique pour réaliser en 3 min une étude de marché et une analyse SWOT concurrentielle qui vous prendraient 3 jours sur Google."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "competitor-anal"]
 ---
 
-# 📝 🔥 Le Prompt SWOT et Étude de Marché Parfait pour les Chefs de Produit
+## 📝 🔥 Le Prompt SWOT et Étude de Marché Parfait pour les Chefs de Produit
 
 - **🎯 Cible idéale :** Product Managers (PM), marketeurs, business developers, profils juniors (1 à 3 ans d'expérience)
 - **⏱️ Temps gagné :** De 3 jours à 3 minutes
@@ -38,7 +38,7 @@ L'époque où l'on passait ses nuits à éplucher Google, compiler des dizaines 
 
 Idéale pour obtenir un radar rapide et efficace sur un acteur spécifique du marché.
 
-> **Rôle :** Tu es un planificateur stratégique senior expert dans le domaine : `[Secteur d'activité]`.
+> **Rôle :** Tu es un planificateur stratégique senior expert dans le domaine suivant : `[Secteur d'activité]`.
 > **Tâche :** Synthétise les dynamiques clés de l'année écoulée et réalise une analyse SWOT complète pour `[Nom du concurrent]`. Navigue sur le web pour sourcer et intégrer les articles de presse et rapports les plus récents.
 
 ### 🥇 Version Pro (Expert Version)
@@ -56,7 +56,7 @@ Idéale pour obtenir un radar rapide et efficace sur un acteur spécifique du ma
 > **Tâche (Task) :**
 > Analyse la situation et rédige les 3 sections suivantes dans l'ordre chronologique. Tu as l'obligation absolue d'utiliser la recherche web pour sourcer les données les plus fraîches.
 > 
-> 1. Analyse des tendances macro/micro : Identifie les 3 tendances de fond qui secouent actuellement le secteur : `[Secteur d'activité]` ainsi que les mutations récentes des comportements consommateurs.
+> 1. Analyse des tendances macro/micro : Identifie les 3 tendances de fond qui secouent actuellement le secteur `[Secteur d'activité]`, ainsi que les mutations récentes des comportements consommateurs.
 > 2. Matrice SWOT croisée des 3 concurrents : Décortique les Forces (S), Faiblesses (W), Opportunités (O) et Menaces (T) pour chaque acteur. (Interdiction d'utiliser du jargon vide, appuie-toi sur des faits d'entreprise vérifiables).
 > 3. Implications stratégiques : En exploitant les failles (faiblesses) et les angles morts (menaces) de nos concurrents, recommande 3 stratégies de différenciation disruptives que nous devons déployer sur-le-champ.
 > 
@@ -74,9 +74,9 @@ Idéale pour obtenir un radar rapide et efficace sur un acteur spécifique du ma
 
 Soyons pragmatiques : sacrifier vos nuits pour compiler un rapport d'étude de marché manuel est aujourd'hui une hérésie managériale. Avec la version Pro de ce prompt, votre premier brouillon (First Draft) sera d'une qualité redoutable en moins de 3 minutes chrono. 
 
-La véritable magie de cette structure ne se trouve d'ailleurs pas dans la simple "collecte de datas", mais **dans le fait qu'elle tord le bras de l'IA pour extraire "notre avantage concurrentiel asymétrique" (Tâche 3)**. Le prompt est architecturé pour forcer le modèle à combler les "Faiblesses (W)" de vos adversaires afin d'en faire instantanément vos "Arguments de Vente Uniques (USP)". 
+La véritable magie de cette structure ne se trouve d'ailleurs pas dans la simple "collecte de datas", mais **dans le fait qu'elle tord le bras de l'IA pour en extraire "notre avantage concurrentiel asymétrique" (Tâche 3)**. Le prompt est architecturé pour forcer le modèle à exploiter les "Faiblesses (W)" de vos adversaires afin d'en faire instantanément vos "Arguments de Vente Uniques (USP)". 
 
-**🔥 L'Astuce de Pro (Cheat Code) :** Une fois que l'IA a généré son rapport, repérez la stratégie de différenciation la plus audacieuse et relancez avec ce prompt de suivi : *"Concernant la stratégie de différenciation numéro 3, structure-moi un plan de test MVP (Produit Minimum Viable) en 3 étapes actionnables, réalisable en moins de 2 semaines avec un budget strict de 10 000 euros."* La vitesse d'approbation (Buy-in) par votre manager va exploser. Gardez cependant toujours votre casquette de chef d'orchestre : l'IA est un stagiaire de génie sous stéroïdes, mais c'est bien votre intuition métier et votre connaissance du terrain qui doivent valider et affiner le livrable final.
+**🔥 L'Astuce de Pro (Cheat Code) :** Une fois que l'IA a généré son rapport, repérez la stratégie de différenciation la plus audacieuse et relancez avec ce prompt de suivi : *"Concernant la stratégie de différenciation numéro 3, structure-moi un plan de test MVP (Produit Minimum Viable) en 3 étapes actionnables, réalisable en moins de 2 semaines avec un budget strict de 10 000 euros."* L'adhésion (Buy-in) de votre manager va exploser. Gardez cependant toujours votre casquette de chef d'orchestre : l'IA est un stagiaire de génie sous stéroïdes, mais c'est bien votre intuition métier et votre connaissance du terrain qui doivent valider et affiner le livrable final.
 
 ---
 
@@ -116,8 +116,8 @@ La véritable magie de cette structure ne se trouve d'ailleurs pas dans la simpl
 
 ## 🎯 Conclusion
 
-Ne l'oubliez jamais : scanner vos concurrents n'est que l'échauffement de votre stratégie produit, pas la ligne d'arrivée. L'analyse concurrentielle ne sert à rien si elle ne débouche pas sur un pivot de positionnement ou une feature différenciante. 
+Ne l'oubliez jamais : scanner vos concurrents n'est que l'échauffement de votre stratégie produit, pas la ligne d'arrivée. L'analyse concurrentielle ne sert à rien si elle ne débouche pas sur un pivot de positionnement ou une fonctionnalité différenciante. 
 
-Réinvestissez ces 3 jours de travail épargnés par ce prompt pour faire ce qui compte vraiment : appeler vos utilisateurs, iterer sur vos maquettes, et améliorer drastiquement l'expérience de votre produit. 
+Réinvestissez ces 3 jours de travail épargnés par ce prompt pour faire ce qui compte vraiment : appeler vos utilisateurs, itérer sur vos maquettes, et améliorer drastiquement l'expérience de votre produit. 
 
 Votre rapport est prêt. Fermez votre PC, et profitez de votre soirée ! 🍷

@@ -1,13 +1,13 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "Kontakt (Contact Us)"
-description: "Haben Sie Fragen oder spannende Vorschläge für das Hello Prompt-Team? Zögern Sie nicht, uns jederzeit zu kontaktieren."
+description: "Haben Sie Fragen, Feedback oder spannende Kooperationsideen für Hello Prompt? Zögern Sie nicht, uns jederzeit zu kontaktieren."
 date: "2026-02-09"
 ---
 
-# 📧 Kontakt (Contact Us)
+## 📧 Kontakt (Contact Us)
 
-- 🎯 **Zielgruppe:** Marketer, Projektmanager und Partnership Manager auf der Suche nach Kooperationen
+- 🎯 **Zielgruppe:** Marketer, Projektmanager und Partnership Manager auf der Suche nach Kooperationsmöglichkeiten
 - ⏱️ **Zeitaufwand:** 10 Minuten → auf 1 Minute verkürzt
 - 🤖 **Empfohlenes Modell:** Alle dialogbasierten KI-Modelle (ChatGPT, Claude, Gemini etc.)
 - ⭐ **Schwierigkeitsgrad:** ⭐☆☆☆☆
@@ -24,13 +24,13 @@ Doch wir gehen noch einen Schritt weiter: Anstatt Sie mit einem gewöhnlichen, d
 
 ## ⚡️ 3-Sätze-Zusammenfassung (TL;DR)
 
-1. Für allgemeine Anfragen schreiben Sie einfach direkt an `support@helloprompt.kr`. (Eine Antwort erhalten Sie in der Regel innerhalb von 24 Stunden)
-2. Wir haben stets ein offenes Ohr für strategische Partnerschaften, Sponsoring und spannende Werbeanfragen.
+1. Für allgemeine Anfragen schreiben Sie uns einfach direkt an `support@helloprompt.kr`. (In der Regel antworten wir innerhalb von 24 Stunden)
+2. Wir haben stets ein offenes Ohr für strategische Partnerschaften, Sponsoring und spannende Werbekooperationen.
 3. Nutzen Sie unseren unten stehenden "Pitch-E-Mail-Prompt", um im Handumdrehen professionelle und absolut überzeugende Kooperationsangebote zu zaubern.
 
 ---
 
-## 🚀 Die Lösung: "Der Prompt für unwiderstehliche Kooperationsanfragen"
+## 🚀 Die Lösung: Der Prompt für unwiderstehliche Kooperationsanfragen
 
 ### 🥉 Basic Version (Allgemeine Anfragen)
 
@@ -82,7 +82,7 @@ Selbst die brillanteste Geschäftsidee verpufft wirkungslos, wenn die erste E-Ma
 
 ## 🧬 Anatomie des Prompts (Why it works?)
 
-1. **Rollenzuweisung (Role):** Durch die Zuweisung der klaren Persona eines "Senior Partnership Managers" stellen wir sicher, dass die KI amateurhafte Formulierungen strikt vermeidet und sofort einen überzeugenden, souveränen geschäftsmäßigen Tonfall anschlägt.
+1. **Rollenzuweisung (Role):** Durch die klare Definition der Persona als "Senior Partnership Manager" stellen wir sicher, dass die KI amateurhafte Formulierungen strikt vermeidet und sofort einen überzeugenden, souveränen geschäftsmäßigen Tonfall anschlägt.
 2. **Strukturierte Aufgabe (Task):** Die explizite Nennung der wesentlichen E-Mail-Komponenten (Hintergrund, Kernpunkte, erwartete Effekte, CTA) zwingt die KI dazu, eine logisch aufgebaute, zielgerichtete und lückenlose Nachricht zu verfassen.
 
 ---

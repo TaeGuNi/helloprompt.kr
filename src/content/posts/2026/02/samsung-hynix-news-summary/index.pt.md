@@ -5,13 +5,13 @@ author: "Antigravity"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "Dicas de Prompt"
-description: "Um guia de prompt para filtrar e resumir rapidamente as dezenas de artigos de notícias diários sobre Samsung Electronics e SK Hynix usando IA."
+description: "Um guia prático de prompt para filtrar e resumir instantaneamente dezenas de notícias diárias sobre a Samsung Electronics e a SK Hynix usando IA."
 tags: ["Ações", "Investimento", "ResumoNotícias", "Samsung", "SKHynix", "AssistenteIA"]
 ---
 
-# 📝 Como Resumir Notícias Esmagadoras da Samsung e SK Hynix com IA
+## 📝 Como Resumir a Enxurrada de Notícias da Samsung e SK Hynix com IA
 
-- **🎯 Público-alvo:** Investidores que trabalham, Day traders, Acionistas cansados da sobrecarga de informações
+- **🎯 Público-alvo:** Investidores com pouco tempo livre, Day traders, Acionistas exaustos com a sobrecarga de informações
 - **⏱️ Tempo Economizado:** de 30 minutos → para 1 minuto
 - **🤖 IA Recomendada:** IA capaz de pesquisar na web em tempo real (Perplexity, ChatGPT Search, Claude, etc.)
 
@@ -19,17 +19,17 @@ tags: ["Ações", "Investimento", "ResumoNotícias", "Samsung", "SKHynix", "Assi
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidade:** ⭐⭐⭐⭐⭐
 
-> _"Não tem tempo para ler a enxurrada de notícias sobre semicondutores no seu trajeto matinal? Deixe isso com a IA."_
+> _"Não tem tempo para ler a enxurrada de notícias sobre semicondutores no seu trajeto matinal? Deixe o trabalho pesado com a IA."_
 
-No mercado de ações, a 'velocidade da informação' é fundamental. Para ações que dominam o mercado, como Samsung Electronics e SK Hynix, dezenas de artigos de notícias pautados sobre a mesma vertente surgem todos os dias em vários portais digitais. Usando o nosso prompt você contornará links muito assemelhados, separando logo nos primeiros raios solares quais notas dizem ser boas compras ou perdas massivas que mudem a balança do lote diário.
+No mercado de ações, a velocidade da informação é tudo. Para gigantes que movem o mercado, como a Samsung Electronics e a SK Hynix, dezenas de artigos sobre o mesmo assunto inundam os portais de notícias todos os dias. Com o nosso prompt, você elimina o ruído de links repetitivos e descobre logo cedo se as manchetes do dia sinalizam uma oportunidade de compra ou um risco de queda que pode mudar o rumo dos seus investimentos.
 
 ---
 
 ## ⚡️ Resumo em 3 Linhas (TL;DR)
 
-1. Você esquiva daqueles entulhos repetidos, lendo os 'drops' unicos que resumem só as de 3 a 5 mais determinantes para si ali.
-2. Atribui categoricamente a polaridade deste abalo monetário para: 'Aviso Positivo / Aviso de Descenso'.
-3. Logo de manhazinha, quando tu espreguiçar em poucos segundos as correntes magnéticas dos humores capitalistas deste eixo ficam patentes.
+1. Evite conteúdos repetitivos e acesse resumos diretos das 3 a 5 notícias mais impactantes do dia.
+2. Identifique imediatamente a polaridade do mercado com classificações claras: impacto positivo, neutro ou negativo nas ações.
+3. Entenda o humor do mercado financeiro em poucos segundos, logo pela manhã, antes mesmo de começar a operar.
 
 ---
 
@@ -37,60 +37,60 @@ No mercado de ações, a 'velocidade da informação' é fundamental. Para açõ
 
 ### 🥉 Versão Básica (Basic Version)
 
-Use isto quando quiser ver rapidamente apenas as principais questões desta manhã.
+Ideal para quando você precisa de uma visão rápida das principais manchetes da manhã.
 
-> **Papel:** Você é um `[Curador de Notícias Econômicas Rápido e Preciso]`.
-> **Tarefa:** Dê-me 3 manchetes principais de notícias e resumos de uma linha relacionados a `[Samsung Electronics]` e `[SK Hynix]` desta manhã.
+> **Papel:** Você é um `[Curador Rápido e Preciso de Notícias Econômicas]`.
+> **Tarefa:** Dê-me 3 manchetes principais de notícias e resumos de uma linha relacionados à `[Samsung Electronics]` e à `[SK Hynix]` desta manhã.
 
 ### 🥇 Versão Pro (Pro Version)
 
-Use se precisar pescar além de apenas leituras fáceis, compreendendo um panorama analítico do futuro destes papéis, atestando como pautas de perigo e lucros certos sob isso.
+Utilize esta versão para ir além da leitura superficial, obtendo um panorama analítico profundo que avalia tendências futuras, riscos potenciais e oportunidades de lucro.
 
-> **Papel (Role):** Você é o `[Pesquisador Chefe responsável pelos briefings matinais em um Centro de Pesquisa de Corretagem de Wall Street]`.
+> **Papel (Role):** Você é o `[Pesquisador Chefe responsável pelos briefings matinais em um Centro de Pesquisa de Wall Street]`.
 >
 > **Contexto (Context):**
 >
-> - Fundo: `[Um investidor ocupado precisando assimilar as ondas movimentadoras dos bancos de valores em menos do transcurso à empresa num vagão.]`
-> - Objetivo: `[Tirar das front pages excessos e recadinhos e mandar um concentrado muito bruto com exatas coisas em grau elevado.]`
+> - Fundo: `[Um investidor ocupado que precisa assimilar as movimentações do mercado financeiro durante o trajeto matinal para o trabalho.]`
+> - Objetivo: `[Filtrar o excesso de informações das páginas iniciais e entregar um resumo altamente concentrado com os pontos de maior relevância.]`
 >
 > **Tarefa (Task):**
 >
-> 1. Encontre de lá pra cá (24 horas contadas) as 3 notícias da ordem de altíssimo padrão englobadas às `[Samsung Electronics]` e `[SK Hynix]`.
-> 2. Pata cada elemento noticiado insira 'Resumão e Cerne (limite em meras 2 extensões de fase)' e logo um parecer técnico intitulado 'Abaixo ou em Volta à Ação Financeira (Bom Anúncio/Infausto Anúncio/Anúncio sem Relevância com as explicações)'.
-> 3. Entregue as duas partes combinando ao desfecho opinando sobre em aspas "Qual é ar e a mentalidade em torno dessses dois nomes do mercado" numa fase somente.
+> 1. Encontre as 3 notícias de maior impacto das últimas 24 horas relacionadas à `[Samsung Electronics]` e à `[SK Hynix]`.
+> 2. Para cada notícia, forneça um 'Resumo Executivo (limite de 2 frases)' seguido de uma análise técnica intitulada 'Impacto nas Ações (Impacto Positivo / Impacto Negativo / Impacto Neutro, com breve explicação)'.
+> 3. Ao final, entregue uma conclusão de apenas uma frase descrevendo "O sentimento geral do mercado em relação a essas duas empresas".
 >
 > **Restrições (Constraints):**
 >
-> - Ao mostrar as resoluções, ponha formatações compatíveis e suaves tipo listas (List) adornadas de ícones, banindo ao limite visual e gráfico pautas amontadas ou de Grade Table.
-> - Tire dos canais ou dos seus textos informativos: bobagens, opiniões rasas. Entram só as ditas notícias sobre o núcleo essencial (Acordos, Produções Físicas Comerciais ou o Impacto Geopolítico ao Redor dessas Corporações).
+> - Ao apresentar os resultados, utilize formatações limpas e amigáveis para dispositivos móveis, como listas com bullet points e ícones. É estritamente proibido o uso de tabelas ou blocos densos de texto.
+> - Exclua fofocas, rumores ou opiniões rasas. Concentre-se exclusivamente em notícias de impacto fundamental (novos contratos, volume de produção, resultados financeiros ou impacto geopolítico).
 >
 > **Aviso (Warning):**
 >
-> - Nunca lance mão de uma ideia fantasiosa da boca popular. Fuja do falso boato ao fornecer aos os 'Briefings', mantendo o valor e seu respeito na máquina intelecta intacto e vivo! (Impeça e blinde Halucinações das suas falas).
+> - Baseie-se apenas em fatos verificáveis. Não invente informações ou ceda a boatos não confirmados. Mantenha o rigor analítico intacto e evite qualquer tipo de alucinação na sua resposta.
 
 ---
 
 ## 💡 Informações do Autor (Insight)
 
-O gancho genial e grande 'AHA' destas linhas da engenharia que criamos de comandos, passa pelo detalhe de nós 'algemarmos a IA num caminho só pra ela mirar do fundamental e técnico. Fuja da roleta cega em aplicativos caça níquel, adote a maestria sabendo que ao tomar café filtrado os robôs coaram para si todo estresse do ar das bolsas do planeta em seu prato ali perante de vossos narizes. Esta proeza é nadar enquanto tontos ficam ao mar afogado d'notícias.
+O grande "pulo do gato" na engenharia deste prompt está na forma como obrigamos a IA a focar estritamente nos aspectos técnicos e fundamentais do mercado. Em vez de depender da curadoria aleatória de aplicativos de notícias, você assume o controle. Enquanto você toma o seu café matinal, a IA filtra todo o ruído das bolsas de valores e entrega apenas a inteligência acionável direto na sua tela. É a vantagem de surfar a onda da informação, enquanto a maioria dos investidores continua se afogando em um mar de notícias irrelevantes.
 
 ---
 
 ## 🙋 Perguntas Frequentes (FAQ)
 
-- **P: Por qual maneira as Inteligências compreende estes boletins noticiosos velozes?**
-  - R: Valendo-se através uso dessas IA 'Open web/Web browsing'. Feito (Perplexity ou abas atrelas aos portais Bing no GPT/Copilot ) farão buscar rasante num bater d'olhos logo após a ordem dada para destila-los.
+- **P: Como a IA consegue analisar essas notícias em tempo real tão rápido?**
+  - R: Ela utiliza recursos de busca na web em tempo real (Web Browsing). Ferramentas como o Perplexity, o ChatGPT Search ou o Microsoft Copilot realizam varreduras instantâneas nos principais portais assim que você executa o prompt, destilando as informações na hora.
 
-- **P: Tem problema, alterar, modificando ali nomes pra cações NVIDIA exemplo?**
-  - R: Zero embargamentos! Destitua onde lê ali nos meios delimitadores de texto (os parênteses grossos de `[Samsung Electronics]` como `[SK Hynix]`), subsituindo como deseja a seus olhos; atuará perfeito tal qual em antes.
+- **P: Posso alterar o prompt para analisar outras ações, como a NVIDIA, por exemplo?**
+  - R: Com certeza! Basta substituir os nomes das empresas dentro das variáveis (os colchetes como `[Samsung Electronics]` e `[SK Hynix]`) pelo ativo do seu interesse. O modelo analítico continuará funcionando perfeitamente para qualquer empresa.
 
 ---
 
 ## 🧬 Anatomia do Prompt (Why it works?)
 
-1. **Cortando as Áreas (Task):** Onde antes os computadores fariam algo comum nós incutindo a pauta avaliativa do "Impacto às Carteiras" passamos elevar estes recados a informes idênticos saídos da Faria Lima.
-2. **Restrições (Constraints):** Exigindo o trancafiamento à frivolidades e notícias picaretas quebramos ao ruído, potencializou-se aos maiores limites calóricos uma informação nutricional aos capitalistas.
-3. **Optimisto Visível e Tátil de Experiência (UX):** Com o pedido mandando extinguir o formato esquadrulhado p'ra focar nos aparelhos portáteis o visual da pauta se fez majestosa sem prejudicar ou abalar olhos de quem lê ali, em minutos curtos em veículos de massas, o material de grana.
+1. **Direcionamento da Tarefa (Task):** Em vez de pedir um resumo genérico, nós instruímos a IA a avaliar o "Impacto nas Ações". Isso eleva a resposta de um simples clipping de notícias para um relatório executivo digno de analistas de Wall Street.
+2. **Restrições Rígidas (Constraints):** Ao proibir expressamente fofocas e ruídos do mercado, forçamos o modelo a entregar informações com alta densidade de valor, focando apenas no que realmente afeta o capital do investidor.
+3. **Otimização da Experiência Visual (UX):** Ao vetar o uso de tabelas densas em favor de listas com emojis, garantimos que o relatório final seja escaneável e agradável de ler na tela do celular durante o seu trajeto matinal.
 
 ---
 
@@ -127,6 +127,6 @@ Fortes e potentes ares estão batendo com duas belas chamativas notícias; O oce
 
 ## 🎯 Conclusão
 
-Corte os laços opressores causadors do peso em vossa face, aos enxugar o mar dos pautares incessantes na aurora.
+Liberte-se da ansiedade causada pela sobrecarga de informações e pare de perder tempo lendo centenas de manchetes na primeira hora do dia.
 
-Seja vanguarda das suas carteiras, dê corda nseu assessor autômato neste raiar glorioso e sinta o comando livre a vós e todo mais tempo disponível perante ti! 🍷
+Assuma a vanguarda dos seus investimentos delegando essa tarefa ao seu analista pessoal de IA. Aproveite a clareza dos dados filtrados e recupere o controle sobre as suas manhãs! 🍷

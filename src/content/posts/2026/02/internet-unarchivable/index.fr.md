@@ -1,11 +1,11 @@
 ---
 title: " \"The Internet is Becoming Unarchivable\""
-description: "Avec l'essor des contenus dynamiques, des applications web monopages (SPA) et des écosystèmes fermés, préserver l'histoire du web ouvert s'avère de plus en plus complexe. Découvrez un prompt sur mesure pour archiver définitivement un web en voie de disparition."
+description: "Le web ouvert disparaît face aux SPA et écosystèmes fermés. Découvrez le prompt ultime pour nettoyer et archiver définitivement n'importe quelle page web."
 date: 2026-02-15
 tags: ["Internet", "Archiving", "History", "Web"]
 ---
 
-# 📝 Sauvez un Web en Perdition : Le Prompt Ultime pour l'Archivage Définitif de Vos Contenus
+## 📝 Sauvez un Web en Perdition : Le Prompt Ultime pour l'Archivage Définitif de Vos Contenus
 
 - **🎯 Public cible :** Chercheurs, curateurs de contenu, archivistes numériques, marketeurs
 - **⏱️ Temps gagné :** 1 heure → 1 minute
@@ -17,9 +17,9 @@ tags: ["Internet", "Archiving", "History", "Web"]
 
 > _"Capturez l'histoire du web avant qu'elle ne s'évapore. D'un simple copier-coller, figez l'essence même des pages web les plus chaotiques dans un document Markdown structuré, propre et impérissable."_
 
-À l'ère où les applications web monopages (SPA) et les écosystèmes fermés (Walled Gardens) règnent en maîtres, extraire et conserver des informations précieuses via des méthodes traditionnelles relève du parcours du combattant. Les liens meurent du jour au lendemain, et même les grands sites d'archivage peinent à capturer ces pages dynamiques, ne restituant souvent qu'un écran désespérément blanc.
+À l'ère où les applications web monopages (SPA) et les écosystèmes fermés (Walled Gardens) règnent en maîtres, extraire et conserver des informations précieuses par des méthodes traditionnelles relève du parcours du combattant. Les liens meurent du jour au lendemain, et même les plus grands sites d'archivage peinent à capturer ces pages dynamiques, ne restituant souvent qu'un écran désespérément blanc.
 
-Ce prompt est une arme de préservation massive pour vos connaissances. Plutôt que de vous retrouver avec un bloc de texte brut indigeste ou un code HTML chaotique, il purge la page de tout bruit visuel (publicités, menus, pieds de page) pour **la métamorphoser en un document Markdown d'une propreté clinique, prêt à être exploité aujourd'hui comme dans dix ans**.
+Ce prompt se veut une arme de préservation massive pour vos connaissances. Fini les blocs de texte brut indigestes ou le code HTML chaotique : il purge la page de tout bruit visuel (publicités, menus, pieds de page) pour **la métamorphoser en un document Markdown d'une propreté clinique, prêt à être exploité aujourd'hui comme dans dix ans**.
 
 ---
 
@@ -79,24 +79,24 @@ Idéale pour sauvegarder l'essentiel d'une page web en un éclair. Sélectionnez
 
 Ne confondez pas ce prompt avec un énième outil de résumé. En 2026, face à l'évaporation exponentielle des données en ligne, il s'agit d'**un véritable pipeline de rapatriement pour reprendre le contrôle total de l'information sur votre environnement local**.
 
-Sa puissance se révèle là où les *web clippers* classiques s'effondrent : newsletters payantes derrière un mur d'authentification, fils X (Twitter) à défilement infini, ou wikis d'entreprise complexes. Sélectionnez tout à l'écran (Ctrl+A, Ctrl+C), jetez le tout dans le prompt, et regardez la magie opérer : l'interface chaotique se volatilise pour ne laisser qu'une donnée brute et cristalline. C'est personnellement le système que j'utilise chaque semaine pour rapatrier et sanctuariser des dizaines d'articles vulnérables directement dans mon Obsidian.
+Sa puissance se révèle là où les *web clippers* classiques s'effondrent : newsletters payantes dissimulées derrière un mur d'authentification (paywall), fils X (Twitter) à défilement infini ou wikis d'entreprise complexes. Sélectionnez simplement l'intégralité de la page (Ctrl+A, Ctrl+C), soumettez le tout au prompt et regardez la magie opérer : l'interface chaotique s'évapore pour ne laisser qu'une information brute et cristalline. C'est le système exact que j'utilise chaque semaine pour rapatrier et sanctuariser des dizaines d'articles vulnérables directement dans mon espace Obsidian.
 
 ---
 
 ## 🙋 Foire Aux Questions (FAQ)
 
 - **Q : Vaut-il mieux copier le code source HTML ou le texte brut affiché à l'écran ?**
-  - R : Les deux approches fonctionnent. Néanmoins, face aux sites modernes au rendu très dynamique, un simple "Tout sélectionner" (Ctrl+A) sur la page s'avère redoutablement plus efficace. Cela court-circuite le bruit des scripts invisibles et ne nourrit l'IA qu'avec l'essentiel.
+  - R : Les deux approches fonctionnent. Toutefois, face aux sites modernes au rendu très dynamique, un simple "Tout sélectionner" (Ctrl+A) de la page web s'avère redoutablement plus efficace. Cela permet de court-circuiter le bruit généré par les scripts invisibles et de ne nourrir l'IA qu'avec l'essentiel.
 
 - **Q : Le contenu est trop massif et l'IA plante. Une solution ?**
-  - R : Avaler une page web entière est extrêmement gourmand en tokens. C'est pourquoi il est crucial de s'appuyer sur des modèles taillés pour les longs contextes, comme Claude 3.5 Sonnet ou Gemini 2.5 Pro.
+  - R : Ingurgiter une page web entière est extrêmement gourmand en tokens. Il est donc crucial de s'appuyer sur des modèles taillés pour les très longs contextes, à l'instar de Claude 3.5 Sonnet ou de Gemini 2.5 Pro.
 
 ---
 
 ## 🧬 Anatomie du Prompt (Why it works?)
 
-1. **Verrouillage de la fidélité (Constraints) :** Face à un mur de texte, le réflexe pavlovien d'un LLM est de résumer. La directive stricte exigeant "une fidélité à 100 %" bride cet instinct naturel, forçant l'IA à se concentrer exclusivement sur son rôle d'archiviste intègre.
-2. **Standardisation des métadonnées :** En imposant un bloc YAML Frontmatter, on dépasse la simple mise en forme esthétique. On assure d'emblée une interopérabilité technique parfaite avec n'importe quelle base de données ou outil de PKM (Personal Knowledge Management) basé sur Markdown.
+1. **Le verrouillage de la fidélité (Constraints) :** Face à un mur de texte, le réflexe pavlovien d'un LLM est de le résumer. La directive stricte exigeant une "fidélité à 100 %" bride cet instinct naturel, forçant l'IA à se concentrer exclusivement sur son rôle d'archiviste intègre.
+2. **La standardisation des métadonnées :** En imposant la création d'un bloc YAML Frontmatter, on dépasse la simple mise en forme esthétique. On s'assure d'emblée d'une interopérabilité technique parfaite avec n'importe quelle base de données ou outil de PKM (Personal Knowledge Management) exploitant le Markdown.
 
 ---
 
@@ -138,7 +138,6 @@ Avec l'essor des contenus dynamiques, des SPA (Single Page Application) et des p
 
 ## 🎯 Conclusion
 
-Le web n'a rien d'éternel. L'article brillant que vous lisez aujourd'hui a de fortes chances de se transformer en une frustrante erreur 404 dès demain.
-Si vous ambitionnez de bâtir une forteresse de connaissances personnelle, totalement indépendante des caprices d'Internet, dégainez ce prompt et figez dès maintenant ces fragments numériques avant qu'ils ne s'évaporent.
+Le web n'a rien d'éternel. L'article brillant que vous lisez aujourd'hui a de fortes chances de se transformer en une frustrante erreur 404 dès demain. Si vous ambitionnez de bâtir une véritable forteresse de connaissances personnelle, totalement imperméable aux caprices d'Internet, dégainez ce prompt et figez dès maintenant ces fragments numériques avant qu'ils ne s'évaporent.
 
 Cessez de laisser mourir vos meilleures trouvailles dans le cimetière de vos favoris ! 🍷

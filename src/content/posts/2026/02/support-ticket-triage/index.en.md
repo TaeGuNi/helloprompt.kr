@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "업무 자동화"
-description: " \"A CS triage prompt that analyzes customer sentiment to identify and prioritize 'angry customers' who need immediate attention.\""
+description: "A CS triage prompt that analyzes customer sentiment to identify and prioritize 'angry customers' who need immediate attention."
 tags: ["CS", "고객경험", "자동화", "감정분석"]
 ---
 
-# 📝 Don't Keep Angry Customers Waiting
+## 📝 Don't Keep Angry Customers Waiting
 
 - **🎯 Target Audience:** CS Managers, E-commerce Operators, Customer Experience (CX) Specialists
 - **⏱️ Time Saved:** 1 Hour → 1 Minute
@@ -21,15 +21,15 @@ tags: ["CS", "고객경험", "자동화", "감정분석"]
 
 > _"Speed is kindness. Protect the golden hour for your furious customers."_
 
-Have you ever felt overwhelmed staring at a dashboard piled up with hundreds of customer support tickets? You've probably experienced the nightmare of answering tickets chronologically, only to miss an urgent "shipping accident" or "duplicate billing error" until the customer's frustration completely boiled over. Now, use AI to filter customers' emotional states and the urgency of their inquiries first. It's time to restructure your CS workflow priorities like an emergency room triage.
+Have you ever felt overwhelmed staring at a dashboard flooded with hundreds of customer support tickets? You've likely experienced the nightmare of answering inquiries chronologically, only to miss an urgent "shipping accident" or "duplicate billing error" until the customer's frustration reached a boiling point. Now, you can leverage AI to instantly filter your customers' emotional states and the urgency of their requests. It's time to restructure your CS workflow priorities like an emergency room triage.
 
 ---
 
 ## ⚡️ 3-Line Summary (TL;DR) {#tl-dr}
 
-1. **Data Collection:** Gather customer inquiry logs and feed them to the AI.
-2. **AI Triage:** The AI analyzes and categorizes each ticket based on "sentiment score" and "category."
-3. **Priority Response:** Swiftly resolve high-priority tickets first—those with high emotional volatility (anger/dissatisfaction) and urgent categories (billing/shipping).
+1. **Data Collection:** Gather your customer inquiry logs and feed them directly into the AI.
+2. **AI Triage:** The AI analyzes and categorizes each ticket based on its "sentiment score" and "category."
+3. **Priority Response:** Swiftly resolve high-priority tickets first—specifically those exhibiting high emotional volatility (anger or dissatisfaction) and urgent categories (billing or shipping).
 
 ---
 
@@ -43,19 +43,18 @@ Use this when you just need quick and simple categorization.
 > **Task:** Read the following inquiry, determine its `[Category]` and `[Urgency (High/Medium/Low)]`, and provide the result.
 > **Input:** `[Paste the customer's inquiry here]`
 
-
 ### 🥇 Pro Version
 
 Use this to combine customer sentiment analysis for churn risk management and clear prioritization. This structure is perfectly optimized for automated pipelines (Zapier, Make, etc.).
 
-> **Role (Role):** You are a `[Senior Customer Experience (CX) Specialist]` equipped with sharp judgment and deep empathy.
+> **Role:** You are a `[Senior Customer Experience (CX) Specialist]` equipped with sharp judgment and deep empathy.
 >
-> **Context (Context):**
+> **Context:**
 >
 > - **Background:** We are dealing with an overwhelming surge of inquiries with limited CS staff. Establishing clear priorities is absolutely critical.
 > - **Goal:** The primary objective is to identify and prioritize inquiries from highly dissatisfied customers (Churn Risk) to prevent service abandonment.
 >
-> **Task (Task):**
+> **Task:**
 >
 > Analyze the provided `[Inquiry List]` and execute the following three tasks:
 >
@@ -63,19 +62,19 @@ Use this to combine customer sentiment analysis for churn risk management and cl
 > 2. **Categorization:** Classify each inquiry into one of the following categories: Shipping / Refund / Product Defect / Simple Question / Other.
 > 3. **Priority & Reasoning:** Based on the sentiment score and category, assign a processing priority (High/Medium/Low) and provide a clear, one-sentence explanation for your decision.
 >
-> **Constraints (Constraints):**
+> **Constraints:**
 >
 > - **Output Format:** You MUST output the result EXCLUSIVELY as a JSON array. (This is for system integration, so absolutely NO additional conversational text or markdown outside the JSON).
 > - **JSON Structure Example:** `[{"id": 1, "sentiment": 5, "category": "Refund", "priority": "High", "reason": "Strong complaint about delayed refund and mention of legal action"}]`
 >
-> **Input Data (Input):**
+> **Input Data:**
 > `[Paste the entire list of inquiries to be analyzed here]`
 
 ---
 
 ## 💡 Writer's Insight {#insight}
 
-The true value of this prompt isn't just generating text responses—it shines brightest when building **"Automated Workflows"**. Because the output format is strictly constrained to JSON, it seamlessly integrates with no-code automation tools like Zapier or Make.
+The true power of this prompt goes beyond generating simple text responses—it truly shines when used to build **automated workflows**. Because the output format is strictly constrained to JSON, it seamlessly integrates with no-code automation tools like Zapier or Make.
 
 For instance, try setting up a trigger: **"When the AI detects an inquiry with a sentiment score of 5 (Furious), immediately send an [URGENT] alert message to the CS team's Slack channel."** This allows you to secure the golden hour before a customer's frustration spills over onto social media or community forums. After implementing this exact method, I significantly reduced the number of cases that almost escalated into malicious claims.
 
@@ -84,7 +83,7 @@ For instance, try setting up a trigger: **"When the AI detects an inquiry with a
 ## 🙋 Frequently Asked Questions (FAQ) {#faq}
 
 - **Q: How many inquiries can I analyze at once?**
-  - A: Using GPT-4o, you can easily process about 50 to 100 inquiries per batch. However, considering token limits and context windows, it is highly recommended to input data in smaller, time-based chunks (e.g., hourly or half-day batches) rather than dumping thousands at once.
+  - A: Using GPT-4o, you can easily process about 50 to 100 inquiries per batch. However, considering token limits and context windows, it is highly recommended to input data in smaller, time-based chunks (e.g., hourly or half-day batches) rather than dumping thousands of tickets at once.
 
 - **Q: Does the AI catch sarcasm or passive-aggressive tones?**
   - A: Yes. Modern models like GPT-4o are excellent at understanding context and will accurately flag sarcastic remarks like, "Wow, this sure arrived _super_ fast ^^" as dissatisfied. However, if your industry uses specific jargon, simply add a line in the `Context` section like, "In our industry, the phrase 'XYZ' implies a critical error," to drastically improve accuracy.
@@ -110,7 +109,7 @@ For instance, try setting up a trigger: **"When the AI detects an inquiry with a
 [Ticket 4 - 09:10] I forgot my password.
 ```
 
-_The Problem: The highly volatile, urgent ticket received at 09:05 gets buried under simple, routine inquiries and its resolution is delayed._
+_The Problem: The highly volatile, urgent ticket received at 09:05 gets buried under simple, routine inquiries, severely delaying its resolution._
 
 ### ✅ After (AI Triage Applied)
 
@@ -147,7 +146,7 @@ _The Problem: The highly volatile, urgent ticket received at 09:05 gets buried u
 ]
 ```
 
-_The Result: The AI immediately recognizes the severity of `id: 3` and escalates it to the very top of the High-priority queue._
+_The Result: The AI immediately recognizes the severity of ticket `id: 3` and escalates it to the very top of the high-priority queue._
 
 ---
 

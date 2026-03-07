@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "보안/프라이버시"
-description: " \"Descubre cómo las señales WiFi pueden rastrear el movimiento humano, explorando los riesgos de privacidad y el potencial de esta tecnología.\""
+description: "Descubre cómo las señales WiFi rastrean el movimiento humano. Evalúa los riesgos de privacidad y protege tu red con este prompt de auditoría."
 tags: ["WiFi", "Surveillance", "Privacy", "Security"]
 ---
 
-# 📡 ¿El WiFi se convierte en un CCTV invisible? Cómo protegernos
+## 📡 ¿El WiFi se convierte en un CCTV invisible? Cómo protegernos
 
 - **🎯 Recomendado para:** Profesionales de TI, entusiastas de la ciberseguridad y usuarios preocupados por su privacidad.
 - **⏱️ Tiempo ahorrado:** 2 horas de investigación manual → 2 minutos
@@ -28,7 +28,7 @@ tags: ["WiFi", "Surveillance", "Privacy", "Security"]
 ## ⚡️ Resumen en 3 líneas (TL;DR)
 
 1. Las ondas electromagnéticas del WiFi actúan como un radar pasivo capaz de detectar movimientos, posturas y signos vitales a través de muros y obstáculos.
-2. Aunque la industria promueve su uso en domótica y monitoreo de salud, representa una enorme brecha de seguridad si cae en manos equivocadas.
+2. Aunque la industria promueve su uso en domótica y monitoreo de la salud, representa una enorme brecha de seguridad si cae en manos equivocadas.
 3. Con el *prompt* profesional que encontrarás a continuación, podrás utilizar la inteligencia artificial para auditar los riesgos de tu propia red y obtener estrategias de mitigación.
 
 ---
@@ -81,13 +81,13 @@ He utilizado este *prompt* personalmente en auditorías de seguridad física y e
 ## 🙋 Preguntas Frecuentes (FAQ)
 
 - **P: ¿Cualquier persona puede espiarme simplemente conectándose a mi red WiFi?**
-  - A: No, no es tan simple como adivinar tu contraseña. Un atacante requeriría herramientas de *software* especializadas y tarjetas de red compatibles para capturar e interpretar la fluctuación de las ondas (CSI). Sin embargo, a medida que los repositorios de código abierto avanzan en esta área, la barrera de entrada técnica para estos ataques es cada vez menor.
+  - R: No, no es tan simple como adivinar tu contraseña. Un atacante requeriría herramientas de *software* especializadas y tarjetas de red compatibles para capturar e interpretar la fluctuación de las ondas (CSI). Sin embargo, a medida que los repositorios de código abierto avanzan en esta área, la barrera de entrada técnica para estos ataques es cada vez menor.
 
-- **P: Si apago el router WiFi cuando no lo uso, ¿estoy 100% protegido?**
-  - A: Apagar tu propio equipo elimina la fuente de emisión más cercana e intensa de tu casa, lo que reduce dramáticamente tu nivel de exposición. No obstante, esto no te hace invisible frente a las ondas electromagnéticas provenientes de los routers de tus vecinos o de dispositivos externos, ya que esas señales seguirán rebotando en ti.
+- **P: Si apago el router WiFi cuando no lo uso, ¿estoy 100 % protegido?**
+  - R: Apagar tu propio equipo elimina la fuente de emisión más cercana e intensa de tu casa, lo que reduce dramáticamente tu nivel de exposición. No obstante, esto no te hace invisible frente a las ondas electromagnéticas provenientes de los routers de tus vecinos o de dispositivos externos, ya que esas señales seguirán rebotando en ti.
 
 - **P: ¿Es necesario forrar las paredes con papel aluminio o instalar una jaula de Faraday?**
-  - A: ¡Afortunadamente, no! En entornos residenciales, las medidas más prácticas y efectivas consisten en acceder a la configuración de tu router para reducir la potencia de transmisión (Tx Power) al nivel mínimo indispensable, desactivar bandas o redes de invitados en desuso, y ubicar el punto de acceso en el centro geográfico del inmueble, lo más lejos posible de paredes perimetrales y ventanas.
+  - R: ¡Afortunadamente, no! En entornos residenciales, las medidas más prácticas y efectivas consisten en acceder a la configuración de tu router para reducir la potencia de transmisión (Tx Power) al nivel mínimo indispensable, desactivar bandas o redes de invitados en desuso, y ubicar el punto de acceso en el centro geográfico del inmueble, lo más lejos posible de paredes perimetrales y ventanas.
 
 ---
 

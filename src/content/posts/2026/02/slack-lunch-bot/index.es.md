@@ -5,31 +5,31 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "Descubre cómo conectar el Workflow Builder de Slack con IA para crear un asistente personalizado que recomiende menús de almuerzo para tu equipo, sin necesidad de saber programar."
+description: "Crea un asistente en Slack con IA y Workflow Builder que recomiende el menú del almuerzo a tu equipo sin escribir ni una línea de código."
 tags: ["Slack", "슬랙", "챗봇", "자동화", "사내문화"]
 ---
 
-# 🤖 Cómo crear un bot en Slack: Tu asistente inteligente para elegir el menú del almuerzo
+## 🤖 Cómo crear un bot en Slack: Tu asistente inteligente para elegir el menú del almuerzo
 
-- **🎯 Público objetivo:** Profesionales junior que sufren el dilema diario de elegir dónde comer y equipos de RR. HH. que buscan dinamizar el ambiente del chat corporativo.
-- **⏱️ Tiempo estimado:** 10 minutos (usando Slack Workflow).
+- **🎯 Público objetivo:** Profesionales junior agotados por el dilema diario de elegir dónde comer y equipos de RR. HH. que buscan dinamizar el chat corporativo.
+- **⏱️ Tiempo estimado:** 10 minutos (con Slack Workflow).
 - **🤖 Modelo recomendado:** ChatGPT-4o (por su excelente razonamiento contextual y creatividad gastronómica).
 
 - ⭐ **Dificultad:** ⭐⭐☆☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _«¿Qué comemos hoy? Lo que sea. ¿Pasta? Mmm, hoy no me apetece...» Pon fin a este agotador juego de adivinanzas. Delega esta decisión a tu asistente de IA, reserva tu energía para lo que realmente importa y asegura tu salida a tiempo._
+> _«¿Qué comemos hoy? Lo que sea. ¿Pasta? Mmm, hoy no me apetece...» Pon fin a este agotador juego de adivinanzas. Delega esta decisión a la IA, reserva tu energía para lo que realmente importa y asegura tu salida a tu hora._
 
-El mayor dilema de la vida corporativa no es el proyecto trimestral, es elegir qué almorzar. Olvídate de intentar leerle la mente a tus compañeros: simplemente pregúntale al bot de tu empresa. En este artículo, te enseñaremos a crear un asistente astuto utilizando el 'Workflow Builder' de Slack, ¡sin escribir ni una sola línea de código! Si le dices: «¿Qué comemos en un día lluvioso como hoy?», te sorprenderá con: «Para este clima, ¿qué tal un buen tazón de ramen humeante en lugar de la ensalada de siempre?».
+El mayor dilema de la vida corporativa no es el cierre trimestral, sino elegir qué almorzar. Olvídate de intentar leer la mente de tus compañeros y déjaselo al bot de tu empresa. En este artículo, te enseñaremos a crear un asistente brillante utilizando el **Workflow Builder** de Slack, ¡sin escribir ni una sola línea de código! Si le preguntas: «¿Qué comemos en un día lluvioso como hoy?», te sorprenderá respondiendo: «Para este clima, ¿qué tal un buen tazón de ramen humeante en lugar de la ensalada de siempre?».
 
 ---
 
 ## ⚡️ Resumen en 3 líneas (TL;DR)
 
-1. Configura un bot automatizado en minutos utilizando el **'Workflow Builder'** de Slack, 100 % *no-code*.
-2. Define palabras clave (ej. "recomendar almuerzo") o reacciones con emojis como activadores (*triggers*) para invocar al bot.
-3. Intégralo con una IA (como ChatGPT) para ejecutar un *prompt* personalizado que sugiera menús adaptados al clima y al estado de ánimo de tu equipo.
+1. Configura un bot en minutos utilizando el **Workflow Builder** de Slack, de forma 100 % *no-code*.
+2. Define palabras clave (ej. «recomendar almuerzo») o reacciones con emojis como activadores (*triggers*) para invocarlo.
+3. Intégralo con una IA (como ChatGPT) mediante un *prompt* personalizado que sugiera menús adaptados al clima y al estado de ánimo de tu equipo.
 
 ---
 
@@ -47,7 +47,7 @@ Ideal para cuando necesitas una respuesta rápida y acabar con la indecisión al
 
 Úsala cuando busques una recomendación de almuerzo brillante y adaptada a situaciones específicas como el clima, el estado de ánimo o la cantidad de personas.
 
-> **Rol (Role):** Eres un *foodie* exigente y el mayor experto en encontrar los mejores restaurantes cerca de la oficina (`[Ubicación de la oficina (ej. Barrio financiero)]`).
+> **Rol (Role):** Eres un *foodie* exigente y el mayor experto en encontrar los mejores restaurantes cerca de la oficina (`[Ubicación de la oficina (ej. Distrito financiero)]`).
 >
 > **Contexto (Context):**
 > 
@@ -73,7 +73,7 @@ Ideal para cuando necesitas una respuesta rápida y acabar con la indecisión al
 
 ## 💡 Comentario del Autor (Insight)
 
-Un bot de Slack es mucho más que un simple capricho técnico: es una herramienta estratégica para moldear la **cultura** de tu empresa. Actúa como un lubricante social, inyectando dosis de humor y temas de conversación ligeros en canales que suelen estar dominados por reportes y directrices rígidas. Si este asistente de almuerzos tiene buena acogida, abrirá la puerta a iniciativas más amplias: un «bot de reconocimientos», un «bot de cumpleaños» o un «facilitador de retrospectivas semanales». Así es como se construye una organización más conectada y humana. Además, si conectas este *prompt* con plataformas de automatización como Zapier o Make, romperás los límites nativos de Slack y darás vida a un asistente de IA verdaderamente autónomo.
+Un bot de Slack es mucho más que un simple capricho técnico: es una herramienta estratégica para moldear la **cultura** de tu empresa. Actúa como un lubricante social, inyectando dosis de humor y temas de conversación ligeros en canales que suelen estar asfixiados por reportes y directrices rígidas. Si este asistente de almuerzos tiene buena acogida, abrirá la puerta a iniciativas más amplias, como un «bot de reconocimientos», un «bot de cumpleaños» o un «facilitador de retrospectivas semanales». Así se construye una organización más conectada y humana. Además, si integras este *prompt* con plataformas de automatización como Zapier o Make, superarás las limitaciones nativas de Slack y darás vida a un asistente de IA verdaderamente autónomo.
 
 ---
 
@@ -83,7 +83,7 @@ Un bot de Slack es mucho más que un simple capricho técnico: es una herramient
   - R: Lamentablemente, el Workflow Builder es una función exclusiva de los planes de pago (Pro en adelante). Sin embargo, si estás en el plan gratuito, puedes usar plataformas como Zapier o Make para "escuchar" canales específicos y devolver sugerencias mediante la API de OpenAI (ChatGPT).
 
 - **P: ¿Qué ventaja tiene esto frente a programar el bot desde cero (por ejemplo, en Python)?**
-  - R: Programar un bot con librerías como `slack-bolt` (Python o Node.js) te da control total para diseñar interfaces ricas (botones, ventanas modales) y conectarlo con las bases de datos internas. ¿El problema? Requiere mantenimiento y costos de servidor. Para resolver el dilema del almuerzo mediante sugerencias de texto, un enfoque *no-code* es infinitamente más rápido, barato y eficiente.
+  - R: Programar un bot con librerías como `slack-bolt` (Python o Node.js) te da control total para diseñar interfaces ricas (botones, ventanas modales) y conectarlo con bases de datos internas. ¿El problema? Requiere mantenimiento constante y costos de servidor. Para resolver el dilema del almuerzo mediante sugerencias de texto, un enfoque *no-code* es infinitamente más rápido, barato y eficiente.
 
 ---
 
@@ -120,6 +120,6 @@ Jefe de equipo: "Vaya, justo me apetecía algo picante. ¡Vamos!"
 
 ## 🎯 Conclusión
 
-Sobrevivir a la jornada laboral ya es un reto; la hora del almuerzo debería ser sagrada, deliciosa y, sobre todo, libre de estrés. Un bot tan simple como este tiene el poder de relajar la dinámica del equipo y erradicar la fatiga de decisión diaria.
+Sobrevivir a la jornada laboral ya es un reto suficiente; la hora del almuerzo debería ser sagrada, deliciosa y, sobre todo, libre de estrés. Un bot tan simple como este tiene el poder de relajar la dinámica del equipo y erradicar la fatiga de decisión diaria.
 
-A partir de hoy, pon fin al juego de las adivinanzas y deja el menú en manos de tu **asistente inteligente**. ¡Disfruten de su comida, recarguen energías y asegúrense de salir a tiempo del trabajo! 🍷
+A partir de hoy, pon fin al juego de las adivinanzas y deja el menú en manos de tu **asistente inteligente**. ¡Disfruten de la comida, recarguen energías y aseguren su salida puntual del trabajo! 🍷

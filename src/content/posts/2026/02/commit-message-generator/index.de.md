@@ -5,32 +5,33 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Programmierung/Entwicklung"
-description: " \"Ein Prompt, der automatisch saubere, standardisierte Commit-Nachrichten (Conventional Commits) generiert, wenn Sie einfach Ihre Änderungen (`git diff`) einfügen.\""
+description: "Generieren Sie mit diesem Prompt automatisch saubere, standardisierte Conventional Commits, indem Sie einfach Ihr `git diff` einfügen."
 tags: ["Git", "Commit-Nachricht", "Zusammenarbeit", "Produktivität"]
 ---
 
-# 📝 "Commit-Nachricht empfehlen" Keine Sorgen mehr! Automatische Generierung von Conventional Commits
+## 📝 Nie wieder Kopfzerbrechen: Automatische Generierung von Conventional Commits
 
-- **🎯 Empfohlen für:** Entwickler, Open-Source-Beitragende, Teamleiter
+- **🎯 Empfohlen für:** Entwickler, Open-Source-Contributor, Team Leads
 - **⏱️ Zeitaufwand:** 5 Minuten → 10 Sekunden
-- **🤖 Empfohlenes Modell:** Alle dialogfähigen KIs (ChatGPT, Claude, Gemini etc.)
+- **🤖 Empfohlenes Modell:** Alle dialogfähigen KI-Modelle (ChatGPT, Claude, Gemini etc.)
 
 - ⭐ **Schwierigkeitsgrad:** ⭐⭐☆☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
 - 🚀 **Nutzen:** ⭐⭐⭐⭐☆
 
-> _"Die passende Commit-Nachricht zu formulieren, dauert manchmal länger als das eigentliche Bugfixing – lassen wir das doch einfach die KI erledigen."_
+> _"Die passende Commit-Nachricht zu formulieren, dauert manchmal länger als das eigentliche Bugfixing – überlassen wir diesen lästigen administrativen Schritt doch einfach der KI."_
 
-Eine aussagekräftige Git-Historie ist das Rückgrat jedes guten Softwareprojekts. Doch wer kennt es nicht: Nach stundenlangem Coden fehlt oft die Energie für eine ordentliche Commit-Nachricht, und es endet wieder mit `fix: bug` oder `update stuff`.
-Mit diesem Prompt können Sie einfach die Ausgabe von `git diff` einfügen und erhalten sofort strukturierte, nach **Conventional Commits** formatierte Nachrichten, die in jedem Open-Source-Projekt oder Entwicklerteam gerne gesehen sind.
+Eine saubere und aussagekräftige Git-Historie ist das absolute Rückgrat jedes erfolgreichen Softwareprojekts. Doch seien wir mal ehrlich: Wer kennt diese Situation nicht? Nach stundenlangem, hochkonzentriertem Coden ist die mentale Energie komplett aufgebraucht. Für eine ordentlich strukturierte Commit-Nachricht fehlt schlichtweg der Nerv, und am Ende landet doch wieder nur ein nichtssagendes `fix: bug` oder `update stuff` im Repository. 
+
+Das rächt sich spätestens dann, wenn Wochen später ein Kollege (oder man selbst) versucht nachzuvollziehen, warum genau diese eine Zeile Code geändert wurde. Mit dem folgenden Prompt gehört dieses Problem endgültig der Vergangenheit an. Sie müssen lediglich die Ausgabe Ihres `git diff` einfügen und erhalten in Sekundenschnelle eine perfekt strukturierte Nachricht, die streng den Regeln der **Conventional Commits** folgt. Solche präzisen, standardisierten Logs werten nicht nur Ihre professionelle Reputation auf, sondern sind in jedem ambitionierten Entwicklerteam und bei Open-Source-Projekten ein absolutes Muss. Sparen Sie sich die kognitive Last für das eigentliche Programmieren und automatisieren Sie den administrativen Overhead!
 
 ---
 
 ## ⚡️ 3-Zeilen-Zusammenfassung (TL;DR)
 
-1. **Automatisierte Klassifizierung:** Die KI erkennt selbstständig den Typ der Änderung (feat, fix, refactor etc.).
-2. **Klare Struktur:** Generiert prägnante Titel und detaillierte Beschreibungen in Form von Aufzählungspunkten.
-3. **Standard-Konformität:** Hält sich strikt an die Regeln der Conventional Commits, ideal für nahtlose Team-Kollaboration.
+1. **Automatisierte Klassifizierung:** Die KI erkennt den Typ der Code-Änderung (feat, fix, refactor etc.) völlig selbstständig und fehlerfrei.
+2. **Kristallklare Struktur:** Es werden prägnante Titel und detaillierte, sofort verständliche Beschreibungen in übersichtlichen Aufzählungspunkten generiert.
+3. **Kompromisslose Standard-Konformität:** Die strikte Einhaltung der Conventional Commits garantiert eine nahtlose und professionelle Team-Kollaboration.
 
 ---
 
@@ -38,69 +39,68 @@ Mit diesem Prompt können Sie einfach die Ausgabe von `git diff` einfügen und e
 
 ### 🥉 Basic Version (Einfach)
 
-Verwenden Sie diesen Prompt, wenn Sie schnell ein sauberes Ergebnis ohne viele Details benötigen.
+Nutzen Sie diesen kompakten Prompt, wenn Sie blitzschnell ein sauberes Ergebnis ohne ausschweifende Details benötigen.
 
-> **Rolle:** Du bist ein erfahrener Open-Source-Maintainer, der großen Wert auf eine saubere Git-Historie legt.
-> **Anfrage:** Analysiere die folgenden Code-Änderungen und erstelle eine saubere, standardisierte Commit-Nachricht nach den Regeln der Conventional Commits.
-
+> **Rolle:** Du bist ein erfahrener Open-Source-Maintainer, der höchsten Wert auf eine makellose Git-Historie legt.
+> **Anfrage:** Analysiere die folgenden Code-Änderungen und generiere eine saubere, standardisierte Commit-Nachricht, die exakt den Regeln der Conventional Commits entspricht.
 
 ### 🥇 Pro Version (Experte)
 
-Verwenden Sie diesen Prompt, wenn Sie mehrere Optionen und detaillierte Erklärungen (Body & Footer) für Ihre Commits benötigen.
+Dieser fortgeschrittene Prompt ist ideal, wenn Sie aus mehreren hochwertigen Optionen wählen möchten und detaillierte Erklärungen (Body & Footer) für komplexe Commits fordern.
 
-> **Rolle (Role):** Du bist ein Senior Software Engineer und Open-Source-Maintainer, der extremen Wert auf eine makellose Git-Historie legt.
+> **Rolle (Role):** Du bist ein Senior Software Engineer und strenger Open-Source-Maintainer, der kompromisslosen Wert auf eine makellose und nachvollziehbare Git-Historie legt.
 >
 > **Kontext (Context):**
 >
-> - Hintergrund: Ich habe Code-Änderungen vorgenommen und brauche eine saubere Commit-Nachricht, die meine Kollegen und zukünftige Entwickler sofort verstehen.
-> - Ziel: Generierung von präzisen, aussagekräftigen Commit-Nachrichten nach internationalen Standards.
+> - Hintergrund: Ich habe Code-Änderungen vorgenommen und benötige eine saubere Commit-Nachricht, die meine Teamkollegen und zukünftige Entwickler sofort und ohne Rückfragen verstehen.
+> - Ziel: Die Generierung präziser, hochgradig aussagekräftiger Commit-Nachrichten nach strikten internationalen Standards.
 >
 > **Aufgabe (Task):**
-> Analysiere die unten stehenden `[Änderungen]` und schlage 3 verschiedene Commit-Nachrichten vor, die streng den **Conventional Commits**-Regeln folgen.
+> Analysiere die unten stehenden `[Änderungen]` und schlage exakt 3 verschiedene Commit-Nachrichten vor, die streng den **Conventional Commits**-Regeln folgen.
 >
 > 1. **Format:** `<type>(<scope>): <subject>`
-> 2. **Body:** Fasse den Grund für die Änderung (Warum?) und den genauen Inhalt der Änderung (Was?) in übersichtlichen Aufzählungspunkten zusammen.
-> 3. **Footer:** (Optional) Falls eine Issue-Nummer existiert, füge sie im Format `Closes #[Issue-Nummer]` hinzu.
+> 2. **Body:** Fasse den Grund für die Änderung (Warum?) und den genauen technischen Inhalt (Was?) in übersichtlichen, leicht erfassbaren Aufzählungspunkten zusammen.
+> 3. **Footer:** (Optional) Falls eine Issue-Nummer im Code oder Kontext erkennbar ist, füge sie zwingend im Format `Closes #[Issue-Nummer]` hinzu.
 >
 > **Änderungen (Changes):**
 > `[Füge hier die Ausgabe von 'git diff' oder eine kurze Zusammenfassung ein]`
 >
 > **Einschränkungen (Constraints):**
 >
-> - Erlaubte Typen (Type): Wähle ausschließlich aus `feat`, `fix`, `docs`, `style`, `refactor`, `perf`, `test`, `build`, `ci`, `chore`, `revert`.
-> - Der Betreff (Subject) darf maximal 50 Zeichen lang sein, muss im Imperativ (Befehlsform) geschrieben sein und darf nicht mit einem Punkt enden. Schreibe die Commit-Nachrichten auf **Englisch**, da dies der Standard in der Softwareentwicklung ist.
-> - Gib die finale Antwort in einem sauberen Markdown-Codeblock aus, damit ich sie direkt kopieren kann.
+> - Erlaubte Typen (Type): Wähle ausschließlich aus dieser Liste: `feat`, `fix`, `docs`, `style`, `refactor`, `perf`, `test`, `build`, `ci`, `chore`, `revert`.
+> - Der Betreff (Subject) darf maximal 50 Zeichen lang sein, muss zwingend im Imperativ (Befehlsform) geschrieben sein und darf niemals mit einem Punkt enden. Schreibe die Commit-Nachrichten auf **Englisch**, da dies der uneingeschränkte Standard in der globalen Softwareentwicklung ist.
+> - Gib die finale Antwort in einem sauberen Markdown-Codeblock aus, damit ich sie mit einem Klick kopieren kann.
 >
 > **Warnung (Warning):**
 >
-> - Erfinde keine Funktionalitäten oder Dateien, die nicht in den bereitgestellten Änderungen erwähnt werden (Keine Halluzinationen). Wenn der Zweck unklar ist, weise darauf hin.
+> - Erfinde unter keinen Umständen Funktionalitäten, Variablen oder Dateien, die nicht explizit in den bereitgestellten Änderungen erwähnt werden (absolute Null-Toleranz für Halluzinationen). Wenn der Zweck einer Änderung unklar ist, weise direkt darauf hin.
 
 ---
 
 ## 💡 Kommentar des Autors (Insight)
 
-Dieser Prompt ist ein echter Gamechanger für den Entwickleralltag. Oftmals verlieren wir den Kontext unserer eigenen Änderungen, wenn wir an mehreren Dateien gleichzeitig gearbeitet haben. Indem wir einfach `git diff` in die KI werfen, erhalten wir nicht nur fertige Commit-Nachrichten, sondern auch eine Art "Mini-Code-Review". Die KI fasst logisch zusammen, was passiert ist, und zwingt uns indirekt dazu, unsere Commits sinnvoll zu splitten, falls die Liste der Änderungen zu lang oder zu chaotisch wird. Tipp: Wenn Sie den Output von `git diff --staged` verwenden, stellen Sie sicher, dass nur die relevanten Dateien im Commit landen.
+Dieser Prompt ist ein wahrer Gamechanger für den hektischen Entwickleralltag. Viel zu oft verlieren wir den Kontext unserer eigenen Änderungen, besonders wenn wir tief im Tunnel waren und an Dutzenden Dateien gleichzeitig geschraubt haben. Indem wir einfach den rohen Output von `git diff` in die KI werfen, erhalten wir nicht nur fertige, professionelle Commit-Nachrichten, sondern quasi auch ein gnadenloses "Mini-Code-Review" gratis dazu. Die KI fasst logisch und schonungslos zusammen, was wir da eigentlich fabriziert haben. Das zwingt uns indirekt dazu, unsere zu groß geratenen Commits sinnvoll aufzuspalten, falls die Liste der detektierten Änderungen zu lang oder chaotisch ausfällt. **Mein persönlicher Pro-Tipp:** Nutzen Sie konsequent den Output von `git diff --staged`. So stellen Sie absolut sicher, dass die KI auch wirklich nur die Dateien analysiert, die tatsächlich im nächsten Commit landen sollen, und ignorieren irrelevantes Rauschen im Arbeitsverzeichnis.
 
 ---
 
 ## 🙋 Häufig gestellte Fragen (FAQ)
 
 - **Q: Kann ich die Commit-Nachrichten auch auf Deutsch generieren lassen?**
-  - A: Ja, Sie können in den _Constraints (Einschränkungen)_ explizit angeben: "Schreibe die Commit-Nachrichten auf Deutsch." In den meisten professionellen und Open-Source-Projekten ist Englisch jedoch der De-facto-Standard, weshalb der Pro-Prompt standardmäßig Englisch verwendet.
+  - A: Technisch ja. Sie können in den _Constraints (Einschränkungen)_ den Befehl anpassen auf: "Schreibe die Commit-Nachrichten auf Deutsch." Beachten Sie jedoch, dass in nahezu allen professionellen Teams und Open-Source-Projekten Englisch der absolute De-facto-Standard ist. Genau deshalb liefert der Pro-Prompt die Ergebnisse standardmäßig auf Englisch.
 
-- **Q: Was mache ich, wenn `git diff` zu lang für das Kontextfenster der KI ist?**
-  - A: Bei sehr großen Commits empfiehlt es sich, die Änderungen in logische Blöcke aufzuteilen (z.B. UI-Änderungen und Backend-Logik getrennt). Nutzen Sie `git add -p` und generieren Sie die Nachricht nur für die aktuell gestageten Änderungen.
+- **Q: Was mache ich, wenn mein `git diff` den Rahmen des KI-Kontextfensters sprengt?**
+  - A: Bei gewaltigen Commits ist das ein starkes Indiz dafür, dass Sie Ihre Änderungen in kleinere, logische Blöcke aufteilen sollten (z.B. UI-Anpassungen strikt von der Backend-Logik trennen). Nutzen Sie `git add -p` im Terminal und füttern Sie die KI ausschließlich mit den aktuell gestageten Änderungen.
 
-- **Q: Weiß die KI immer, welchen Scope (z.B. `auth`, `ui`) sie verwenden soll?**
-  - A: Die KI leitet den Scope aus den Dateinamen oder Pfaden ab (z.B. Änderungen in `src/components/Button.tsx` -> `scope: ui`). Sie können den Scope bei Bedarf in der endgültigen Nachricht manuell anpassen.
+- **Q: Woher weiß die KI, welchen spezifischen Scope (z.B. `auth`, `ui`) sie verwenden muss?**
+  - A: Moderne Modelle leiten den Scope verblüffend präzise aus den Dateinamen oder Ordnerstrukturen ab (z.B. führt eine Änderung in `src/components/Button.tsx` logischerweise zu `scope: ui`). Sollte die KI dennoch einmal danebenliegen, können Sie den Scope vor dem endgültigen Commit mit einem Handgriff manuell korrigieren.
 
 ---
 
 ## 🧬 Prompt-Anatomie (Warum funktioniert das?)
 
-1. **Klare Rollenzuweisung:** Durch die Definition als "Senior Software Engineer" und "Maintainer" zwingen wir die KI, einen professionellen, strengen Tonfall anzuschlagen und Standards wertzuschätzen.
-2. **Strikte Einschränkungen (Constraints):** Die exakte Vorgabe der erlaubten Typen (feat, fix etc.) und die 50-Zeichen-Grenze für den Betreff verhindern, dass die KI zu kreativ wird und vom Standard abweicht.
-3. **Format-Spezifikation:** Durch die Anforderung, Body und Footer getrennt und strukturiert auszugeben, wird die Commit-Nachricht nicht nur maschinenlesbar (z.B. für Semantic Release Tools), sondern auch für Menschen extrem gut erfassbar.
+1. **Das psychologische Framing (Rollenzuweisung):** Durch die klare Definition als "Senior Software Engineer" und "strenger Maintainer" zwingen wir die KI in ein professionelles Mindset. Sie schlägt dadurch einen verbindlichen Tonfall an und achtet penibel auf Qualitätsstandards.
+2. **Die Macht der Restriktion (Constraints):** Die exakte Limitierung auf erlaubte Typen (feat, fix etc.) sowie die harte 50-Zeichen-Grenze für den Betreff fungieren als Leitplanken. Sie verhindern effektiv, dass das Modell "zu kreativ" wird und vom etablierten Branchenstandard abweicht.
+3. **Architektonische Format-Spezifikation:** Die zwingende Anforderung, Body und Footer strikt getrennt voneinander auszugeben, macht die resultierende Nachricht nicht nur optimal maschinenlesbar (essenziell für Semantic Release Tools), sondern auch für menschliche Reviewer blitzschnell erfassbar.
 
 ---
 
@@ -138,4 +138,4 @@ docs(readme): update installation guide
 
 ## 🎯 Fazit
 
-Commit-Nachrichten sind Briefe an Ihr zukünftiges Ich und Ihre Teamkollegen. Sparen Sie sich das Kopfzerbrechen und lassen Sie die KI die Formatierungsarbeit übernehmen. So bleibt Ihre Git-Historie makellos und Sie können schneller in den verdienten Feierabend starten! 🍷
+Vergessen Sie nie: Commit-Nachrichten sind im Grunde genommen Liebesbriefe an Ihr zukünftiges Ich und an Ihre hart arbeitenden Teamkollegen. Sparen Sie sich das ständige Kopfzerbrechen über die perfekte Formulierung und delegieren Sie diese trockene Formatierungsarbeit souverän an die KI. So bleibt Ihre Git-Historie jederzeit makellos, Code-Reviews gehen deutlich schneller von der Hand, und Sie können sich früher und völlig entspannt in den wohlverdienten Feierabend verabschieden! 🍷

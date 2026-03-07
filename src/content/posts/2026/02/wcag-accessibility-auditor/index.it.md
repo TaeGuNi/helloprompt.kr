@@ -9,7 +9,7 @@ description: " \"Il tuo codice è davvero per tutti? Scopri se rispetta gli stan
 tags: ["Accessibility", "HTML", "WCAG"]
 ---
 
-# ♿️ Il tuo codice è davvero per tutti? Bot automatico di Audit per l'Accessibilità Web (WCAG)
+## ♿️ Il tuo codice è davvero per tutti? Bot automatico di Audit per l'Accessibilità Web (WCAG)
 
 - **🎯 Consigliato per:** Sviluppatori in progetti governativi o enterprise, sviluppatori junior in cerca di un portfolio impeccabile, sviluppatori frontend senior.
 - **⏱️ Tempo risparmiato:** Da 2 ore (controllo manuale) → a 1 minuto (diagnosi IA).
@@ -21,14 +21,14 @@ tags: ["Accessibility", "HTML", "WCAG"]
 
 > _"Puoi creare le animazioni più spettacolari, ma se un utente non riesce nemmeno a cliccare sul pulsante di login, il tuo codice ha fallito."_
 
-L'accessibilità web (Web Accessibility) non è più una semplice "cortesia", ma è diventata la base di un buon servizio, nonché un obbligo legale in molti contesti. Tuttavia, memorizzare e applicare costantemente le vaste e complesse linee guida WCAG (Web Content Accessibility Guidelines) 2.2 è un'impresa quasi impossibile. Questo prompt scansiona il tuo markup e i componenti, individua in un solo minuto i difetti critici di accessibilità per gli screen reader e la navigazione da tastiera, ed effettua un refactoring perfetto trasformandoli in codice semantico.
+L'accessibilità web (Web Accessibility) non è più una semplice "cortesia", ma è diventata un requisito fondamentale per offrire un buon servizio, oltre che un obbligo di legge in molti contesti. Tuttavia, memorizzare e applicare costantemente le complesse e vaste linee guida WCAG 2.2 (Web Content Accessibility Guidelines) è un'impresa titanica. Questo prompt analizza il tuo markup e i tuoi componenti, individua in un solo minuto i difetti critici di accessibilità per gli screen reader e la navigazione da tastiera, ed esegue un refactoring impeccabile trasformandoli in puro codice semantico.
 
 ---
 
 ## ⚡️ In Sintesi (TL;DR)
 
-1. **Transizione al Markup Semantico:** Trasforma l'uso indiscriminato di `<div>` in tag semantici HTML5 ricchi di significato.
-2. **Piena Conformità WCAG 2.2:** Verifica meticolosamente i rigorosi standard di accessibilità, come il contrasto visivo, lo spostamento del focus (Focus Trap) e l'abuso degli attributi WAI-ARIA.
+1. **Transizione al Markup Semantico:** Trasforma l'uso indiscriminato di `<div>` in tag HTML5 semantici e ricchi di significato.
+2. **Piena Conformità WCAG 2.2:** Verifica meticolosamente i rigorosi standard di accessibilità, come il contrasto visivo, l'intrappolamento del focus (Focus Trap) e l'abuso degli attributi WAI-ARIA.
 3. **Guida Pratica ai Test:** Fornisce metodologie di test specifiche e azionabili, verificabili esclusivamente tramite tastiera (Tab) e screen reader (VoiceOver, NVDA).
 
 ---
@@ -46,6 +46,7 @@ Utilizzala per un controllo rapido quando hai dubbi sull'accessibilità di un pu
 >
 > [Incolla qui il tuo codice]
 >
+
 ### 🥇 Versione Pro
 
 Utilizzala per revisionare componenti UI complessi e interazioni avanzate come Modal, Dropdown e Tab.
@@ -79,27 +80,27 @@ Utilizzala per revisionare componenti UI complessi e interazioni avanzate come M
 
 ## 💡 Il Commento dell'Autore (Insight)
 
-Il lavoro di miglioramento dell'accessibilità web si trasforma spesso in un "minestrone di WAI-ARIA". Tuttavia, l'assegnazione errata di un `aria-label` o di un `role` genera una confusione letale per gli utenti di screen reader.
-Il fulcro di questo prompt è costringere l'IA a rispettare la **"Prima Regola di ARIA (usare prima i tag HTML di base quando possibile)"**.
-Quando si creano componenti complessi come Select Box personalizzate o Modal sul posto di lavoro, passare il codice attraverso questo prompt permette di scovare in modo brillante problemi imprevisti, come la perdita del focus della tastiera o l'assenza di etichette nei form. Specialmente se utilizzato in combinazione con il modello Claude 3.5 Sonnet, offre una qualità travolgente, come se avessi un meticoloso esperto di accessibilità seduto accanto a te a farti la revisione del codice.
+Il lavoro di ottimizzazione dell'accessibilità web si trasforma spesso in un caotico "minestrone di WAI-ARIA". Tuttavia, l'assegnazione errata di un `aria-label` o di un `role` genera una confusione letale per gli utenti di screen reader.
+Il fulcro di questo prompt è costringere l'IA a rispettare la **"Prima Regola di ARIA"** (usare i tag HTML nativi ogni volta che è possibile).
+Quando si creano componenti complessi sul posto di lavoro, come select box personalizzate o modali, passare il codice attraverso questo prompt permette di scovare brillantemente problemi imprevisti, come la perdita del focus della tastiera o l'assenza di etichette nei form. Utilizzato in combinazione con il modello Claude 3.5 Sonnet, offre una qualità travolgente: è come avere un meticoloso esperto di accessibilità seduto accanto a te a fare la revisione del codice.
 
 ---
 
 ## 🙋 Domande Frequenti (FAQ)
 
 - **D: È possibile eseguire un audit di accessibilità anche partendo da un'immagine del design (UI)?**
-  - R: Sì, certamente. Allega lo screenshot del componente a GPT-4o o Claude 3.5 Sonnet e aggiungi la richiesta: "Verifica che il contrasto dei colori (Color Contrast) soddisfi i criteri WCAG AA". L'IA scoverà anche i difetti di design più nascosti.
+  - R: Certamente. Allega lo screenshot del componente a GPT-4o o Claude 3.5 Sonnet e aggiungi questa richiesta: "Verifica che il contrasto dei colori (Color Contrast) soddisfi i criteri WCAG AA". L'IA scoverà anche i difetti di design più nascosti.
 
 - **D: Uso Tailwind CSS, l'IA aggiornerà anche i nomi delle classi?**
-  - R: Assolutamente. Se specifichi nel Contesto (Context) del prompt "Utilizza Tailwind CSS per applicare classi di utilità esclusive per gli screen reader (`sr-only`)", l'IA genererà un codice perfettamente su misura per il tuo stack tecnologico.
+  - R: Assolutamente sì. Se nel Contesto (Context) del prompt specifichi: "Utilizza Tailwind CSS per applicare classi di utilità esclusive per gli screen reader (`sr-only`)", l'IA genererà un codice perfettamente su misura per il tuo stack tecnologico.
 
 ---
 
 ## 🧬 Anatomia del Prompt (Perché funziona?)
 
-1.  **Criteri di Valutazione Chiari:** Invece di un generico "Migliora l'accessibilità", l'iniezione dello standard internazionale "WCAG 2.2 Livello AA" nel persona controlla in modo impeccabile le allucinazioni dell'IA (informazioni false).
-2.  **Forzatura della Prima Regola di ARIA:** Impedisce all'IA di abusare degli attributi ARIA in modo indiscriminato, inducendo un refactoring semantico radicale che sfrutta al massimo le specifiche HTML di base.
-3.  **Guida ai Test Azionabile (Actionable):** Non si limita a fornire il codice corretto, ma massimizza l'utilità pratica richiedendo scenari di test che lo sviluppatore può sperimentare e verificare direttamente premendo i tasti.
+1.  **Criteri di Valutazione Chiari:** Invece di un generico "Migliora l'accessibilità", l'inclusione dello standard internazionale "WCAG 2.2 Livello AA" all'interno del ruolo argina in modo impeccabile le allucinazioni dell'IA.
+2.  **Forzatura della Prima Regola di ARIA:** Impedisce all'IA di abusare degli attributi ARIA in modo indiscriminato, inducendo un refactoring semantico radicale che sfrutta al massimo le specifiche HTML native.
+3.  **Guida ai Test Azionabile (Actionable):** Non si limita a fornire il codice corretto, ma massimizza l'utilità pratica richiedendo scenari di test che lo sviluppatore può sperimentare e verificare direttamente sulla propria tastiera.
 
 ---
 
@@ -129,6 +130,6 @@ Quando si creano componenti complessi come Select Box personalizzate o Modal sul
 
 ## 🎯 Conclusione
 
-L'accessibilità (A11y) per qualcuno potrebbe essere "solo una comodità in più", ma per altri rappresenta un muro invalicabile che determina la possibilità o meno di utilizzare un servizio. Un bravo sviluppatore non è semplicemente colui che scrive codice funzionante, ma colui che scrive codice capace di non escludere nemmeno un singolo utente.
+L'accessibilità (A11y) per qualcuno potrebbe sembrare "solo una comodità in più", ma per molti rappresenta un muro invalicabile che determina la possibilità o meno di utilizzare un servizio. Un bravo sviluppatore non è semplicemente colui che scrive codice funzionante, ma colui che scrive codice capace di non escludere alcun utente.
 
 Ora, scrivi codice accessibile a tutti e stacca da lavoro a testa alta! 🍷

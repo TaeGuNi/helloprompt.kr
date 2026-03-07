@@ -9,7 +9,7 @@ description: "La guida definitiva a Midjourney v7: scopri il prompt segreto per 
 tags: ["Midjourney", "이미지 생성", "디자인", "프롬프트"]
 ---
 
-# 📝 Scatta con i Prompt: La guida definitiva al fotorealismo su Midjourney v7
+## 📝 Scatta con i Prompt: La guida definitiva al fotorealismo su Midjourney v7
 
 - **🎯 Consigliato per:** Designer, content marketer e imprenditori che vogliono abbattere i costi degli shooting in studio.
 - **⏱️ Tempo richiesto:** 5 minuti → 1 minuto (basta copiare e incollare).
@@ -21,7 +21,7 @@ tags: ["Midjourney", "이미지 생성", "디자인", "프롬프트"]
 
 > _"E se ti dicessi che puoi azzerare le migliaia di euro spesi in noleggio sale, modelli e luci professionali... mi crederesti?"_
 
-Con l'arrivo di Midjourney v7, l'era della "patina di plastica" tipica dell'intelligenza artificiale è ufficialmente giunta al termine. Siamo entrati di prepotenza nel regno del fotorealismo assoluto, un livello di dettaglio tale in cui persino l'occhio allenato di un fotografo professionista fatica a distinguere la realtà dalla finzione generata dall'algoritmo. Tuttavia, la potenza è nulla senza controllo: per sfruttare fino all'ultima goccia l'incredibile motore di rendering della v7, non basta un input banale. Serve un prompt di un'ingegneria altrettanto sofisticata.
+Con l'arrivo di Midjourney v7, l'era della "patina di plastica" tipica dell'intelligenza artificiale è ufficialmente giunta al termine. Siamo entrati di prepotenza nel regno del fotorealismo assoluto, raggiungendo un livello di dettaglio tale per cui persino l'occhio allenato di un fotografo professionista fatica a distinguere la realtà dalla finzione generata dall'algoritmo. Tuttavia, la potenza è nulla senza controllo: per sfruttare fino all'ultima goccia l'incredibile motore di rendering della v7, non basta un input banale. Serve un prompt di un'ingegneria altrettanto sofisticata.
 
 Il sistema che sto per svelarti non prevede di inserire comandi a caso direttamente su Midjourney. **Parliamo di un vero e proprio "Meta-prompt": andremo a istruire ChatGPT affinché assuma l'identità di un fotografo commerciale con vent'anni di esperienza alle spalle. Sarà lui a generare in totale autonomia il prompt in inglese perfetto, calibrato al millimetro per Midjourney v7.**
 
@@ -43,7 +43,7 @@ Copia questo prompt e incollalo su **ChatGPT (o Claude)**. Attenzione: non inser
 
 La soluzione ideale quando hai bisogno di un prompt rapido, ma spaventosamente efficace, per generare immagini fotorealistiche in pochi secondi.
 
-> **Ruolo:** Sei un fotografo commerciale professionista e un Prompt Engineer esperto di Midjourney v7.
+> **Ruolo:** Sei un fotografo commerciale professionista e un esperto Prompt Engineer per Midjourney v7.
 > **Azione:** Sulla base del `[inserisci il tema o il soggetto]` che ti fornirò, scrivi un prompt in inglese di una sola riga, ottimizzato per generare su Midjourney v7 la fotografia più realistica e dettagliata possibile.
 
 ### 🥇 Versione Pro
@@ -96,7 +96,7 @@ Devi invece imparare a controllare le proprietà della luce con una precisione c
   - A: Assolutamente sì. Midjourney v7 ha corretto il 99% degli orrori anatomici legati ad arti e articolazioni. Ora il modello matematico riproduce con una precisione maniacale anche i microdettagli più insignificanti, come una singola ciocca di capelli fuori posto o il reticolo venoso sul dorso di una mano, mettendo definitivamente una pietra sopra a quelle fastidiose anomalie visive del passato.
 
 - **Q: Posso scrivere il mio prompt direttamente in italiano all'interno di Midjourney?**
-  - A: Sebbene l'IA possa "intuire" il senso generale della tua richiesta, il motore di rendering di Midjourney dà il meglio di sé esclusivamente quando interrogato in lingua inglese. Ecco perché il cuore nevralgico di questa tattica consiste nell'**utilizzare ChatGPT come traduttore simultaneo e Prompt Engineer**, trasformando una tua idea embrionale in italiano in un prompt tecnico in inglese di altissima e spietata precisione.
+  - A: Sebbene l'IA possa "intuire" il senso generale della tua richiesta, il motore di rendering di Midjourney dà il meglio di sé esclusivamente quando interrogato in lingua inglese. Ecco perché il cuore nevralgico di questa tattica consiste nell'**utilizzare ChatGPT come traduttore simultaneo e Prompt Engineer**, trasformando una tua idea embrionale in italiano in un prompt tecnico in inglese di un'altissima e spietata precisione.
 
 ---
 

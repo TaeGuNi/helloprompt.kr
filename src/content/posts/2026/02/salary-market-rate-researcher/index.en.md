@@ -1,15 +1,15 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Am I a Hog? 'Market Rate' Research & Analysis Agent\""
+title: "Am I Being Lowballed? 'Market Rate' Research & Analysis Agent"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Career"
-description: " \"Compares and analyzes the average salary range for your role and experience level using real market data, providing objective grounds for your next salary negotiation.\""
+description: "Analyze the average salary range for your role and experience using real market data to secure objective leverage for your next salary negotiation."
 tags: ["SalaryAnalysis", "MarketRate", "NegotiationGrounds", "CareerManagement"]
 ---
 
-# 📝 Am I a Hog? 'Market Rate' Research & Analysis Agent
+## 📝 Am I Being Lowballed? 'Market Rate' Research & Analysis Agent
 
 - **🎯 Recommended for:** Office Workers, Professionals, Job Seekers
 - **⏱️ Time required:** 5 minutes
@@ -21,7 +21,7 @@ tags: ["SalaryAnalysis", "MarketRate", "NegotiationGrounds", "CareerManagement"]
 
 > _"My colleague just jumped ship for a 30% raise... am I leaving money on the table by staying quiet?"_
 
-The most powerful weapon in any salary negotiation is **objective data**. If you don't know your true market value, you'll easily fall prey to the classic corporate line: "This is the best we can offer right now." By arming yourself with precise market data, you can confidently claim the compensation you actually deserve.
+The most powerful weapon in any salary negotiation is **objective data**. If you don't know your true market value, you'll easily fall prey to the classic corporate line: "This is the best we can offer right now." By arming yourself with precise, real-world market metrics, you can confidently claim the compensation you actually deserve.
 
 ---
 
@@ -42,14 +42,13 @@ Use this when you just need a quick, ballpark estimate.
 > **Role:** You are an expert salary compensation analyst.
 > **Request:** Please analyze the average salary range for my current job title and years of experience based on recent recruitment data. I need this to secure objective grounds for an upcoming salary negotiation.
 
-
 ### 🥇 Pro Version (Expert Strategy)
 
 Use this when you need highly detailed, data-backed evidence for a formal negotiation.
 
-> **Role (Role):** You are an expert salary compensation analyst and career strategist.
+> **Role:** You are an expert salary compensation analyst and career strategist.
 >
-> **Context (Context):**
+> **Context:**
 >
 > - Job Title: `[e.g., Backend Developer]`
 > - Years of Experience: `[e.g., 5 years]`
@@ -57,26 +56,26 @@ Use this when you need highly detailed, data-backed evidence for a formal negoti
 > - Location: `[e.g., San Francisco, CA]`
 > - Current Salary: `[e.g., $110,000]`
 >
-> **Task (Task):**
+> **Task:**
 >
 > 1. Search reliable salary information platforms (such as Glassdoor, Levels.fyi, Payscale, etc.) to investigate the precise salary range for professionals with my exact profile.
 > 2. Present the data clearly categorized into **'Low (Bottom 25%) - Median - High (Top 25%)'** tiers.
 > 3. Based on my `[Current Salary]`, suggest a logical and strategic **'Target Negotiation Amount'** and provide three compelling arguments I can use in the meeting.
 >
-> **Constraints (Constraints):**
+> **Constraints:**
 >
 > - You MUST cite the sources of your data (e.g., specific websites or reports) to ensure the negotiation grounds are credible.
 > - Output the salary breakdown in a clear Markdown format.
 >
-> **Warning (Warning):**
+> **Warning:**
 >
 > - Do not hallucinate or invent salary figures. If accurate data for this specific niche is unavailable, state clearly that the data is limited and provide the closest related industry benchmark.
 
 ---
 
-## 💡 Writer's Insight (Insight)
+## 💡 Writer's Insight
 
-Negotiating without data is just begging; negotiating with data is a business transaction. This prompt is incredibly effective because it shifts the conversation from "I want more money" (subjective) to "The market rate for my output is X" (objective). I highly recommend using Perplexity or ChatGPT with web search enabled for this, as salary bands fluctuate rapidly, especially in tech. Print out the AI's response and bring it directly to your performance review—it completely changes the power dynamic in the room.
+Negotiating without data is just begging; negotiating with data is a business transaction. This prompt is incredibly effective because it shifts the conversation from "I want more money" (which is subjective) to "The market rate for my output is X" (which is objective). I highly recommend using Perplexity or ChatGPT with web search enabled for this, as salary bands fluctuate rapidly, especially in tech. Print out the AI's response and bring it directly to your performance review—it completely changes the power dynamic in the room.
 
 ---
 

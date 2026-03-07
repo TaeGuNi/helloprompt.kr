@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Génération d'Image"
-description: " \"Un prompt pour générer des vagues et des paysages dans le style Ukiyo-e, l'essence même de l'esthétique japonaise.\""
+description: "Générez des vagues et des paysages grandioses dans le style traditionnel Ukiyo-e. Maîtrisez l'esthétique japonaise en un seul prompt."
 tags:
   [
     "Midjourney",
@@ -16,7 +16,7 @@ tags:
   ]
 ---
 
-# 📝 Esthétique des Vagues : Style Ukiyo-e
+## 📝 Esthétique des Vagues : Style Ukiyo-e
 
 - **🎯 Recommandé pour :** Créateurs de contenu, artistes numériques, passionnés de culture japonaise
 - **⏱️ Temps requis :** 5 minutes → 1 minute
@@ -28,14 +28,14 @@ tags:
 
 > _"Vous rêvez de recréer l'impact visuel et la beauté intemporelle de 'La Grande Vague de Kanagawa' en y intégrant vos propres idées ?"_
 
-L'**Ukiyo-e** est un mouvement artistique majeur d'estampes sur bois qui a prospéré à l'époque d'Edo au Japon. Caractérisé par des contours noirs marqués, des aplats de couleurs vives et des compositions audacieuses, il offre un contraste fascinant lorsqu'on l'applique à des sujets contemporains. Transformer des concepts modernes avec cette esthétique traditionnelle crée des œuvres de fusion au charme unique.
+L'**Ukiyo-e** est un mouvement artistique majeur d'estampes sur bois qui a prospéré à l'époque d'Edo au Japon. Caractérisé par des contours noirs marqués, des aplats de couleurs vives et des compositions audacieuses, il offre un contraste fascinant lorsqu'on l'applique à des sujets contemporains. Transformer des concepts modernes avec cette esthétique traditionnelle crée des œuvres de fusion au charme unique et d'une rare élégance.
 
 ---
 
 ## ⚡️ Résumé en 3 lignes (TL;DR)
 
 1. L'utilisation des mots-clés `Ukiyo-e style` et `Woodblock print` est absolument fondamentale.
-2. L'ajout de `Hokusai style` permet d'obtenir ce dynamisme caractéristique, notamment pour les vagues et les paysages.
+2. L'ajout de `Hokusai style` insuffle un dynamisme caractéristique, notamment aux vagues et aux paysages.
 3. Pour garantir l'authenticité de l'estampe, imposez les attributs `Flat color` (couleurs en aplat) et `Thick outlines` (contours épais).
 
 ---
@@ -47,8 +47,7 @@ L'**Ukiyo-e** est un mouvement artistique majeur d'estampes sur bois qui a prosp
 Utilisez cette version pour obtenir un résultat rapide et direct, sans paramétrage complexe.
 
 > **Rôle :** Tu es un illustrateur spécialisé en art traditionnel japonais.
-> **Requête :** Crée un prompt de génération d'image pour dessiner `[Sujet, ex: un paysage de montagne]` dans le style Ukiyo-e, en reprenant l'esthétique classique des estampes japonaises.
-
+> **Requête :** Crée un prompt de génération d'image pour dessiner `[Sujet, ex : un paysage de montagne]` dans le style Ukiyo-e, en reprenant l'esthétique classique des estampes japonaises.
 
 ### 🥇 Pro Version (Version expert)
 
@@ -63,10 +62,10 @@ Utilisez cette version pour garantir une fidélité stylistique exceptionnelle e
 >
 > **Requête (Task) :**
 >
-> 1. Génère un prompt détaillé en anglais (optimisé pour Midjourney ou DALL-E) pour illustrer : `[Sujet, ex: Un chat géant jouant avec le Mont Fuji comme si c'était une pelote, avec une grande vague en arrière-plan]`.
+> 1. Génère un prompt détaillé en anglais (optimisé pour Midjourney ou DALL-E) pour illustrer : `[Sujet, ex : Un chat géant jouant avec le Mont Fuji comme si c'était une pelote, avec une grande vague en arrière-plan]`.
 > 2. Intègre impérativement ces mots-clés stylistiques : `Ukiyo-e art style, Japanese woodblock print, Hokusai style, textured paper, vintage ink wash painting`.
 > 3. Définis la palette de couleurs avec précision : `Indigo blue, pale pink, aged paper beige`.
-> 4. Si l'utilisateur utilise Midjourney, ajoute ces paramètres à la fin : `[Paramètres, ex: --ar 3:4 --v 6.0 --style raw]`.
+> 4. Si l'utilisateur utilise Midjourney, ajoute ces paramètres à la fin : `[Paramètres, ex : --ar 3:4 --v 6.0 --style raw]`.
 >
 > **Contraintes (Constraints) :**
 >
@@ -81,7 +80,7 @@ Utilisez cette version pour garantir une fidélité stylistique exceptionnelle e
 
 ## 💡 Commentaire de l'auteur (Insight)
 
-La puissance de ce prompt réside dans sa capacité à "brider" l'IA générative. Par défaut, des outils comme Midjourney ou DALL-E ont tendance à lisser les images ou à ajouter des effets d'éclairage 3D très modernes. En insistant lourdement sur la matérialité de l'œuvre (`woodblock print`, `textured paper`, `aged paper beige`), nous forçons le modèle à simuler les imperfections et la patine du temps. C'est cette texture granuleuse et ces couleurs légèrement passées qui donneront toute l'âme à votre création. Ce processus est particulièrement efficace pour générer des affiches ou des visuels au style rétro et percutant !
+La puissance de ce prompt réside dans sa capacité à **"brider" l'IA générative**. Par défaut, des outils comme Midjourney ou DALL-E ont tendance à lisser les images ou à ajouter des effets d'éclairage 3D très modernes. En insistant lourdement sur la **matérialité de l'œuvre** (`woodblock print`, `textured paper`, `aged paper beige`), nous forçons le modèle à simuler les imperfections et la patine du temps. C'est cette **texture granuleuse** et ces **couleurs légèrement passées** qui donneront toute l'âme à votre création. Ce processus est particulièrement efficace pour générer des affiches ou des visuels au style rétro et percutant !
 
 ---
 

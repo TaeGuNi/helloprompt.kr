@@ -9,7 +9,7 @@ description: "Générez un menu hebdomadaire sain et une liste de courses optimi
 tags: ["태그1", "태그2"]
 ---
 
-# 🥗 Diététicien IA : Génération automatique de menus hebdomadaires
+## 🥗 Diététicien IA : Génération automatique de menus hebdomadaires
 
 - **🎯 Recommandé pour :** Professionnels surmenés, télétravailleurs, parents débordés
 - **⏱️ Temps gagné :** 1 heure de casse-tête → 1 minute
@@ -19,9 +19,11 @@ tags: ["태그1", "태그2"]
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
 - 🚀 **Utilité :** ⭐⭐⭐⭐⭐
 
-> _« Fatigué(e) de vous demander chaque soir "Qu'est-ce qu'on mange ?" ? Laissez l'IA planifier vos repas et organiser votre liste de courses à votre place. »_
+> _« Fatigué(e) de l'éternelle question du soir "Qu'est-ce qu'on mange ?" ? Laissez l'IA planifier vos menus et organiser vos courses à votre place. »_
 
-Planifier ses repas semaine après semaine s'apparente souvent à un véritable parcours du combattant, générant une charge mentale épuisante au quotidien. Après une longue journée de travail, trouver l'énergie pour concilier équilibre nutritionnel, respect du budget familial et temps de préparation limité relève de l'exploit. Résultat ? Par lassitude, on finit inévitablement par céder à la facilité des applications de livraison ou aux plats préparés ultra-transformés, ruinant au passage nos efforts de santé et nos finances. Et si vous pouviez déléguer cette corvée à un assistant virtuel infatigable ? Dans cet article, découvrez comment transformer l'intelligence artificielle en un véritable diététicien personnel. Nous allons voir comment l'IA peut non seulement concevoir un menu hebdomadaire sur mesure adapté à vos contraintes, mais également générer une liste de courses chirurgicalement optimisée pour vous faire gagner un temps précieux et préserver votre budget.
+Planifier ses repas, semaine après semaine, s'apparente souvent à un véritable parcours du combattant. Cette corvée génère une **charge mentale épuisante** au quotidien. Après une longue journée de travail, trouver l'énergie nécessaire pour concilier équilibre nutritionnel, respect du budget et temps de préparation limité relève de l'exploit. Résultat ? Par pure lassitude, on finit inévitablement par céder à l'appel de la livraison rapide ou aux plats préparés ultra-transformés, ruinant au passage nos objectifs de santé et nos finances.
+
+Et si vous pouviez déléguer cette tâche ingrate à un **assistant virtuel infatigable** ? Dans cet article, découvrez comment transformer l'intelligence artificielle en un véritable <span style="color:var(--color-cyber-cyan)">diététicien personnel</span>. Nous allons voir comment l'IA peut non seulement concevoir un menu hebdomadaire sur mesure, mais également générer une **liste de courses chirurgicalement optimisée** pour vous faire gagner un temps précieux et préserver votre budget.
 
 ---
 
@@ -33,13 +35,14 @@ Planifier ses repas semaine après semaine s'apparente souvent à un véritable 
 
 ---
 
-## 🚀 La solution : « Le Planificateur de Repas Ultime »
+## 🚀 La solution : Le « Planificateur de Repas Ultime »
 
 ### 🥉 Version Basique (Rapide)
 
-Utilisez ce prompt lorsque vous manquez d'inspiration et que vous souhaitez obtenir un résultat immédiat sans vous compliquer la tâche.
+Utilisez ce prompt lorsque vous manquez d'inspiration et que vous souhaitez obtenir un résultat immédiat, sans vous compliquer la tâche.
 
 > **Rôle :** Tu es un diététicien professionnel.
+>
 > **Requête :** Fais-moi un menu sain pour 5 jours avec la liste des courses pour 2 personnes.
 
 ### 🥇 Version Pro (Expert)
@@ -55,9 +58,9 @@ Privilégiez cette version pour obtenir un menu hautement personnalisé qui resp
 >
 > **Requête (Task) :**
 >
-> 1. Conçois un menu basé sur les préférences suivantes : `[Régime/Allergies : par ex. sans gluten, végétarien]` et `[Objectif : par ex. perte de poids, prise de masse, maintien]`.
-> 2. Les repas sont prévus pour `[Nombre de personnes : par ex. 2 adultes]`.
-> 3. Le temps de préparation maximum par repas doit être de `[Temps max : par ex. 20 minutes]`.
+> 1. Conçois un menu basé sur les préférences suivantes : `[Régime/Allergies : ex. sans gluten, végétarien]` et `[Objectif : ex. perte de poids, prise de masse, maintien]`.
+> 2. Les repas sont prévus pour `[Nombre de personnes : ex. 2 adultes]`.
+> 3. Le temps de préparation maximum par repas doit être de `[Temps max : ex. 20 minutes]`.
 > 4. Inclus une liste de courses exacte et catégorisée (Fruits & Légumes, Viandes/Poissons, Produits Laitiers, Épicerie, etc.) permettant de réaliser l'intégralité de ce menu sans le moindre oubli.
 >
 > **Contraintes (Constraints) :**
@@ -74,9 +77,9 @@ Privilégiez cette version pour obtenir un menu hautement personnalisé qui resp
 
 ## 💡 L'avis de l'expert (Insight)
 
-Ce prompt constitue un véritable levier pour alléger drastiquement la charge mentale de votre quotidien. Sa véritable magie réside dans la contrainte exigeant la réutilisation des ingrédients. Sans cette directive cruciale, l'IA a la fâcheuse tendance à générer dix repas totalement indépendants les uns des autres. Vous vous retrouveriez alors contraint d'acheter une cinquantaine d'ingrédients spécifiques pour une seule semaine (bonjour le gaspillage alimentaire et la facture salée à la caisse !).
+Ce prompt constitue un **véritable levier** pour alléger drastiquement la charge mentale de votre quotidien. Sa véritable magie réside dans la contrainte exigeant la **réutilisation des ingrédients**. Sans cette directive cruciale, l'IA a la fâcheuse tendance à générer dix repas totalement indépendants les uns des autres. Vous vous retrouveriez alors contraint d'acheter une cinquantaine d'ingrédients spécifiques pour une seule semaine (bonjour le gaspillage alimentaire et la facture salée à la caisse !).
 
-Je vous recommande vivement d'utiliser **Claude 3.5 Sonnet** ou **GPT-4** pour ce cas d'usage précis : ces modèles excellent particulièrement dans la logique de combinaison d'ingrédients et produisent des recettes bien plus cohérentes et « humaines » que leurs prédécesseurs. Vous pouvez même pousser l'optimisation encore plus loin en ajoutant une consigne restrictive telle que _« J'ai un budget strict de 50 € »_ pour tester et exploiter leurs incroyables capacités d'adaptation budgétaire en temps réel !
+Je vous recommande vivement d'utiliser **Claude 3.5 Sonnet** ou **GPT-4** pour ce cas d'usage précis : ces modèles excellent particulièrement dans la logique de combinaison d'ingrédients. Ils produisent des recettes bien plus cohérentes et « humaines » que leurs prédécesseurs. Vous pouvez même pousser l'optimisation encore plus loin en ajoutant une consigne restrictive telle que _« J'ai un budget strict de 50 € »_ pour exploiter leurs incroyables capacités d'**adaptation budgétaire en temps réel** !
 
 ---
 

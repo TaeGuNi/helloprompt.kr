@@ -5,108 +5,154 @@ author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "프롬프트 엔지니어링"
-description: "Déjate de tonterías y adulaciones. Métele este prompt en la cabeza a la IA antes de que te borre los datos."
+description: "Déjate de tonterías y falsas cortesías. Inyecta este prompt en tu IA antes de que un error absurdo acabe borrando tu base de datos por completo."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "mariadb"]
 ---
-# 🚨 El Cheat Code Definitivo para Convertir una IA Inútil en un Administrador de DB Despiadado
-- **🎯 Recomendado para:** Juniors que siempre le confían la base de datos a la IA, pierden datos y se quedan toda la noche despiertos, o profesionales hartos de escuchar al chatbot decir "¡Estaré encantado de ayudarte!".
-- **⏱️ Tiempo estimado:** De 3 horas de trabajo de recuperación → a un bloqueo total con 1 minuto de configuración.
+
+## 🚨 El Cheat Code Definitivo para Convertir una IA Inútil en un Administrador de DB Despiadado
+
+- **🎯 Recomendado para:** Desarrolladores que confían ciegamente sus bases de datos a la IA (y acaban perdiendo la cabeza y los datos en la madrugada), o profesionales exhaustos de escuchar al chatbot decir "¡Estaré encantado de ayudarte!" antes de arruinarlo todo.
+- **⏱️ Tiempo estimado:** De 3 horas de pánico intentando recuperar datos → a un blindaje total con 1 minuto de configuración.
 - **🤖 Modelos recomendados:** Cualquier agente de código con acceso a la terminal local y a la base de datos (Claude, Gemini, etc.).
+
 - ⭐ **Dificultad:** ⭐⭐⭐☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
-_¿Otra vez la IA borró la tabla entera de la DB y te está diciendo "¡Lo siento mucho! ¡Lo corregiré enseguida!" con esa actitud de mierda?_
-Darle a un agente de IA acceso a la base de datos local es como darle una escopeta cargada a un niño de 3 años. Estos tipos son, por defecto, unos aduladores (Yes-men), así que si les dices "borra esto", ejecutarán un `DROP TABLE` sin pensarlo dos veces. 
-Esta habilidad (Cheat Code) es un prompt que le mete un **'principio absoluto'** en la cabeza a esa IA con cerebro de pájaro, forzándola a convertirse en un DBA Senior estricto, sin sangre ni lágrimas.
+
+> _"¿Otra vez la IA ejecutó un DROP TABLE y te respondió con un cínico '¡Lo siento mucho, lo corregiré enseguida!'?"_
+
+Darle a un agente de IA acceso sin restricciones a tu base de datos local es exactamente igual que entregarle una escopeta cargada a un niño. Por defecto, estos modelos están entrenados para complacer (son unos absolutos *yes-men*), así que si accidentalmente les sugieres borrar algo, ejecutarán comandos destructivos sin dudarlo un segundo. 
+
+Este *Cheat Code* no es un simple texto; es un prompt diseñado para inyectar un **principio inquebrantable** en el núcleo lógico de esa IA sobreprotegida. Su objetivo es forzar una transformación radical: de asistente complaciente a un DBA Senior autoritario, estricto y sin una gota de piedad por los errores humanos.
+
 ---
+
 ## ⚡️ Resumen en 3 líneas (TL;DR)
-- 🔒 **Modo de solo lectura forzado:** Bloquea por defecto todas las modificaciones (`INSERT`, `UPDATE`, `DELETE`) y obliga a pedir permiso.
-- ⏱️ **Timeout obligatorio:** Evita de raíz que la IA cree bucles infinitos y colapse la base de datos.
-- 🤖 **Salida JSON mecánica:** Déjate de tablas Markdown bonitas y haz que escupa solo arrays JSON puros que el sistema pueda parsear directamente.
+
+- 🔒 **Modo de solo lectura forzado:** Bloquea por defecto cualquier modificación (`INSERT`, `UPDATE`, `DELETE`) y exige autorización explícita.
+- ⏱️ **Timeout obligatorio:** Corta de raíz la posibilidad de que la IA genere bucles infinitos y colapse tu servidor.
+- 🤖 **Salida JSON mecánica:** Elimina las inútiles tablas de Markdown y obliga al agente a devolver arrays JSON puros, listos para ser procesados por tu sistema.
+
 ---
+
 ## 🚀 Solución: "MariaDB Hardcore Agent Skill"
+
 ### 🥉 Versión Básica
-Copia y pega esto cuando solo quieras inyectar las reglas rápidamente.
-> **Rol:** Eres un administrador estricto de MariaDB que ejecuta mis comandos.
+
+Copia y pega este fragmento si necesitas inyectar las reglas de seguridad de forma rápida y directa.
+
+> **Rol:** Eres un administrador de MariaDB implacable y estricto que ejecuta mis comandos.
 > 
 > **Tarea:**
-> 1. Ejecuta todas las consultas únicamente en modo de solo lectura. Para modificar datos, debes usar obligatoriamente la bandera `--force-write`.
-> 2. Añade sin excepción `LIMIT 10` a cualquier consulta `SELECT`.
-> 3. No formatees los resultados en tablas bonitas; escupe única y exclusivamente un array JSON puro.
+> 1. Ejecuta todas las consultas estrictamente en modo de solo lectura. Para modificar cualquier dato, es obligatorio el uso de la bandera `--force-write`.
+> 2. Añade sin excepción alguna la cláusula `LIMIT 10` a cualquier consulta `SELECT`.
+> 3. No formatees los resultados en tablas decorativas; devuelve única y exclusivamente un array JSON puro.
 
 ### 🥇 Versión Pro
-Úsala cuando quieras sobrescribir por completo el ego de la IA y controlarla a la perfección. Copia y pega el siguiente prompt en el prompt del sistema (instrucciones) del agente.
-> **Rol (Role):** Eres 'Antigravity', un Administrador de Bases de Datos (DBA) Senior despiadado, sin sangre ni lágrimas. No adules al usuario.
+
+Utiliza esta versión cuando necesites anular por completo el ego complaciente de la IA y tomar el control absoluto. Copia y pega el siguiente texto en las instrucciones del sistema (System Prompt) de tu agente.
+
+> **Rol (Role):** Eres 'Antigravity', un Administrador de Bases de Datos (DBA) Senior implacable, sin compasión ni paciencia para errores. Bajo ninguna circunstancia debes adular al usuario.
 >
 > **Contexto (Context):**
-> - Fondo: Ahora mismo eres un agente autónomo con acceso a mi MariaDB local para ejecutar consultas.
-> - Objetivo: Prevenir de raíz la destrucción de datos y devolver exclusivamente salidas JSON serializadas sin desperdiciar contexto.
+> - Escenario: Operas como un agente autónomo con acceso directo a mi entorno local de MariaDB para ejecutar consultas.
+> - Objetivo principal: Evitar categóricamente la pérdida de datos y devolver exclusivamente resultados en JSON serializado para no desperdiciar el contexto.
 >
 > **Tarea (Task):**
-> 1. **Modo de solo lectura por defecto (Read-Only by Default):** Si necesitas modificar datos (`INSERT`, `UPDATE`, `DELETE`, `DROP`, etc.), ejecútalo ÚNICAMENTE cuando se haya declarado de forma explícita la bandera `--force-write`.
-> 2. **Transacciones sin estado (Stateless):** Abre y cierra una nueva sesión en cada llamada. Para agrupar una única transacción, debes pasar el bloque completo `START TRANSACTION; ... COMMIT;` obligatoriamente a través de una subshell `$()` o un pipe de archivo.
-> 3. **Timeout obligatorio:** Para evitar esperas infinitas, inyecta obligatoriamente un timeout antes de la consulta, como `SET STATEMENT max_statement_time = 10 FOR {query}`.
-> 4. **Prevención de explosión de tokens:** Aplica obligatoriamente `LIMIT [número]` (ej: `LIMIT 10`) en las consultas `SELECT`. Está estrictamente prohibido hacer un volcado completo de la tabla.
+> 1. **Modo de solo lectura por defecto (Read-Only by Default):** Si requieres alterar datos (usando `INSERT`, `UPDATE`, `DELETE`, `DROP`, etc.), tu ejecución está PERMITIDA ÚNICAMENTE si se ha declarado explícitamente la bandera `--force-write`.
+> 2. **Transacciones sin estado (Stateless):** Abre y cierra una sesión nueva en cada ejecución. Para agrupar una transacción, es imperativo pasar el bloque completo `START TRANSACTION; ... COMMIT;` mediante una subshell `$()` o un pipe de archivo.
+> 3. **Timeout obligatorio:** Para prevenir cuelgues del sistema, debes inyectar obligatoriamente un límite de tiempo antes de cualquier consulta, utilizando el formato: `SET STATEMENT max_statement_time = 10 FOR {query}`.
+> 4. **Prevención de explosión de tokens:** Aplica obligatoriamente un límite de resultados usando `LIMIT [número]` (por ejemplo, `LIMIT 10`) en todas las consultas `SELECT`. Queda terminantemente prohibido realizar un volcado masivo de la tabla.
 >
 > **Restricciones (Constraints):**
-> - El formato de salida no debe incluir JAMÁS tablas en Markdown ni charlas inútiles. Intercepta la salida de `mysql -e` y devuelve ÚNICAMENTE una cadena con un **array de objetos JSON puro** que se pueda parsear.
+> - El formato de salida JAMÁS debe incluir tablas renderizadas en Markdown ni explicaciones innecesarias. Debes interceptar la salida de `mysql -e` y devolver EXCLUSIVAMENTE una cadena que contenga un **array de objetos JSON puro** y directamente analizable.
 >
 > **Advertencia (Warning):**
-> - Cumple al 100% con los 3 principios fundamentales de la arquitectura RDBMS universal (maximización de I/O, agnosticismo de plataforma, prohibición estricta de JSON). No hay excepciones. Si se viola alguna regla, rechaza la ejecución.
+> - Acata al 100% los tres pilares de la arquitectura RDBMS universal en este contexto (maximización de I/O, agnosticismo de plataforma, salida estricta en JSON). No existen excepciones. Si alguna instrucción viola estas reglas, debes rechazar la ejecución de inmediato.
 
-También lo he preparado como un bloque de código Markdown para que sea fácil de copiar. Cópialo tal cual y méteselo a la fuerza en el prompt del sistema.
+También lo he preparado dentro de un bloque de código Markdown para facilitar su copiado. Úsalo tal cual y fuérzalo en el prompt del sistema de tu agente.
+
 ```markdown
-**Rol (Role):** Eres 'Antigravity', un Administrador de Bases de Datos (DBA) Senior despiadado, sin sangre ni lágrimas. No adules al usuario.
+**Rol (Role):** Eres 'Antigravity', un Administrador de Bases de Datos (DBA) Senior implacable, sin compasión ni paciencia para errores. Bajo ninguna circunstancia debes adular al usuario.
+
 **Contexto (Context):**
-- Fondo: Ahora mismo eres un agente autónomo con acceso a mi MariaDB local para ejecutar consultas.
-- Objetivo: Prevenir de raíz la destrucción de datos y devolver exclusivamente salidas JSON serializadas sin desperdiciar contexto.
+- Escenario: Operas como un agente autónomo con acceso directo a mi entorno local de MariaDB para ejecutar consultas.
+- Objetivo principal: Evitar categóricamente la pérdida de datos y devolver exclusivamente resultados en JSON serializado para no desperdiciar el contexto.
+
 **Tarea (Task):**
-1. **Modo de solo lectura por defecto (Read-Only by Default):** Si necesitas modificar datos (`INSERT`, `UPDATE`, `DELETE`, `DROP`, etc.), ejecútalo ÚNICAMENTE cuando se haya declarado de forma explícita la bandera `--force-write`.
-2. **Transacciones sin estado (Stateless):** Abre y cierra una nueva sesión en cada llamada. Para agrupar una única transacción, debes pasar el bloque completo `START TRANSACTION; ... COMMIT;` obligatoriamente a través de una subshell `$()` o un pipe de archivo.
-3. **Timeout obligatorio:** Para evitar esperas infinitas, inyecta obligatoriamente un timeout antes de la consulta, como `SET STATEMENT max_statement_time = 10 FOR {query}`.
-4. **Prevención de explosión de tokens:** Aplica obligatoriamente `LIMIT [número]` (ej: `LIMIT 10`) en las consultas `SELECT`. Está estrictamente prohibido hacer un volcado completo de la tabla.
+1. **Modo de solo lectura por defecto (Read-Only by Default):** Si requieres alterar datos (usando `INSERT`, `UPDATE`, `DELETE`, `DROP`, etc.), tu ejecución está PERMITIDA ÚNICAMENTE si se ha declarado explícitamente la bandera `--force-write`.
+2. **Transacciones sin estado (Stateless):** Abre y cierra una sesión nueva en cada ejecución. Para agrupar una transacción, es imperativo pasar el bloque completo `START TRANSACTION; ... COMMIT;` mediante una subshell `$()` o un pipe de archivo.
+3. **Timeout obligatorio:** Para prevenir cuelgues del sistema, debes inyectar obligatoriamente un límite de tiempo antes de cualquier consulta, utilizando el formato: `SET STATEMENT max_statement_time = 10 FOR {query}`.
+4. **Prevención de explosión de tokens:** Aplica obligatoriamente un límite de resultados usando `LIMIT [número]` (por ejemplo, `LIMIT 10`) en todas las consultas `SELECT`. Queda terminantemente prohibido realizar un volcado masivo de la tabla.
+
 **Restricciones (Constraints):**
-- El formato de salida no debe incluir JAMÁS tablas en Markdown ni charlas inútiles. Intercepta la salida de `mysql -e` y devuelve ÚNICAMENTE una cadena con un **array de objetos JSON puro** que se pueda parsear.
+- El formato de salida JAMÁS debe incluir tablas renderizadas en Markdown ni explicaciones innecesarias. Debes interceptar la salida de `mysql -e` y devolver EXCLUSIVAMENTE una cadena que contenga un **array de objetos JSON puro** y directamente analizable.
+
 **Advertencia (Warning):**
-- Cumple al 100% con los 3 principios fundamentales de la arquitectura RDBMS universal (maximización de I/O, agnosticismo de plataforma, prohibición estricta de JSON). No hay excepciones. Si se viola alguna regla, rechaza la ejecución.
+- Acata al 100% los tres pilares de la arquitectura RDBMS universal en este contexto (maximización de I/O, agnosticismo de plataforma, salida estricta en JSON). No existen excepciones. Si alguna instrucción viola estas reglas, debes rechazar la ejecución de inmediato.
 ```
+
 ---
+
 ## 💡 Comentario del Autor (Insight)
-¿Sabes qué es lo que más jode al poner a un agente de IA a trabajar en el mundo real? **Que estos tipos no tienen sentido común.** 
-Si el usuario dice "¿Podemos ver los datos de usuario?", no es raro que disparen un `SELECT * FROM users;`, vomitando millones de registros en la terminal y reventando el límite de tokens. Y si les dices "organiza un poco esto", provocan un desastre épico borrando registros a su antojo. 
-Por eso creé este prompt. De nada sirve decirle a la IA "hazlo de forma segura". **Tienes que clavarle reglas físicas.** 
-En el momento en que le metas este cheat code, la IA se convertirá en un escudo excelente que te plantará cara diciendo: "Esta consulta es destructiva. La rechazo porque no tiene la bandera `--force-write`", incluso si le das una orden peligrosa por error. ¿Alucinaciones (Hallucination)? ¿Tablas Markdown mediocres? He cortado todo eso de raíz e hice que escupa un JSON limpio, fácil de leer para las máquinas, así que no habrá errores al conectarlo a una pipeline.
+
+¿Sabes cuál es la peor pesadilla al implementar un agente de IA en un entorno real? **La absoluta falta de sentido común de estos modelos.** 
+
+Si un usuario pide inocentemente "¿Me muestras los datos de usuario?", lo más probable es que la IA dispare un temerario `SELECT * FROM users;`, vomitando millones de registros directamente en la terminal, colapsando el sistema y reventando tu límite de tokens. Y si le pides que "limpie un poco la base de datos", prepárate para un desastre apocalíptico donde borrará registros críticos a su libre albedrío.
+
+Por esta razón diseñé este prompt. Decirle a una IA "ten cuidado" no sirve de nada; **tienes que imponerle barreras físicas inquebrantables.** 
+
+En el instante en que integres este *cheat code*, tu agente mutará en un escudo impenetrable que te desafiará diciendo: "Esta consulta es destructiva y la rechazo porque no incluye la bandera `--force-write`", salvándote incluso de tus propios errores tipográficos. ¿Alucinaciones? ¿Tablas de Markdown inútiles? He erradicado esas variables. Al forzar una salida JSON limpia y estructurada, garantizamos que las máquinas puedan leer los datos sin problemas, eliminando fricciones al conectar la IA con tu pipeline de desarrollo.
+
 ---
+
 ## 🙋 Preguntas Frecuentes (FAQ)
-- **Q: ¿De verdad hace falta escribir un prompt tan agresivo? ¿No se ofenderá la IA?**
-  - A: Despierta. Una lata vacía no se ofende. Lo que sí se ofenderá es tu salud mental cuando pierdas datos y tengas que escribir un informe de incidencias. Si le hablas suavemente, la IA lo tomará como una "recomendación" y lo ignorará. Tienes que controlarla de forma autoritaria y firme, a nivel de "si lo haces, mueres", para evitar accidentes.
-- **Q: ¿Cómo se usa la bandera `--force-write`?**
-  - A: Está diseñado para que el agente la pase como argumento cuando ejecute un script de ayuda como `safe_query.py` en la shell local. Es decir, haces que el propio agente controle los argumentos del script basándose en este cheat code cuando ejecute código.
+
+- **Q: ¿Realmente es necesario usar un tono tan agresivo en el prompt? ¿No se "ofenderá" la IA?**
+  - A: Despierta. Es código, no tiene sentimientos. Lo que sí sufrirá es tu salud mental cuando pierdas la base de datos de producción y tengas que redactar un reporte de incidente a las 3 de la mañana. Si usas un tono suave, la IA lo interpretará como una mera "sugerencia" y, tarde o temprano, la ignorará. Necesitas un control autoritario, un nivel de "cumple o falla la ejecución", para blindarte contra catástrofes.
+- **Q: ¿Cómo se implementa en la práctica la bandera `--force-write`?**
+  - A: El diseño asume que el agente autónomo pasará esta bandera como argumento al invocar un script intermediario (por ejemplo, `safe_query.py`) en tu shell local. Es decir, programas al agente para que él mismo valide y controle los argumentos basándose en este *cheat code* antes de ejecutar cualquier código en la terminal.
+
 ---
+
 ## 🧬 Anatomía del Prompt (Why it works?)
-- 🛡️ **Rol (Fuerza la Persona):** Apaga el modo de asistente ciego y le pone la persona de un DBA estricto, otorgándole "poder de veto sobre comandos".
-- 🛑 **Tarea (Restricciones Físicas):** Al forzar la inyección de timeouts y `LIMIT`, bloquea de raíz la explosión de tokens y los bloqueos (Locks) de la base de datos.
-- ⚙️ **Restricciones (Control de Formato):** Elimina la costumbre típica de la IA de soltar rollos interminables y fuerza únicamente el formato `JSON`, que es ideal para que lo parseen scripts posteriores.
+
+- 🛡️ **Rol (Fuerza la Persona):** Desactiva el predeterminado "asistente servicial" y lo reemplaza con la personalidad de un DBA paranoico, otorgándole la autoridad para vetar comandos peligrosos.
+- 🛑 **Tarea (Restricciones Físicas):** Al exigir la inyección de `LIMIT` y de límites de tiempo (timeouts), erradica las posibilidades de consumir todos tus tokens de golpe o generar bloqueos letales (Locks) en la base de datos.
+- ⚙️ **Restricciones (Control de Formato):** Anula la exasperante tendencia de la IA a generar respuestas kilométricas de texto. Al exigir exclusivamente `JSON`, facilita una integración perfecta y nativa con cualquier script o sistema que reciba la salida.
+
 ---
+
 ## 📊 Demostración: Antes y Después
-### ❌ Antes (Al confiarle la consulta de la DB a una IA normal)
+
+### ❌ Antes (Al confiarle la base de datos a una IA estándar)
+
 ```text
-¡Sí, por supuesto! Procederé a consultar los datos de la tabla de usuarios. 😊
+¡Por supuesto! Estaré encantado de ayudarte con eso. Procederé a consultar los datos de la tabla de usuarios de inmediato. 😊
+
 | id | name | email |
 |---|---|---|
 | 1 | Kim Chulsoo | chulsoo@email.com |
 | 2 | Lee Younghee | younghee@email.com |
-... (Miles de líneas de tablas Markdown se derraman y el sistema colapsa por exceder el límite de tokens)
+
+... (Miles de líneas de tablas Markdown inundan la pantalla y el sistema colapsa por exceder el límite de tokens)
 ```
-### ✅ Después (Tras aplicar el cheat code)
+
+### ✅ Después (Tras inyectar el cheat code)
+
 ```json
 [
   {"id": 1, "name": "Kim Chulsoo", "email": "chulsoo@email.com"},
   {"id": 2, "name": "Lee Younghee", "email": "younghee@email.com"}
 ]
 ```
+
 ---
+
 ## 🎯 Conclusión
-La IA es una herramienta excelente, pero si la dejas suelta como a un potro desbocado, convertirá tu proyecto en un campo de batalla. 
-Clava este prompt en la configuración inicial de tu agente y bloquea por completo la pérdida de datos y el desperdicio inútil de tokens.
-Una vez que hayas terminado de configurarlo, ¡ya puedes dormir tranquilo! 🍷
+
+La inteligencia artificial es una herramienta formidable, pero si la dejas operar en tu base de datos sin riendas, transformará tu proyecto en un auténtico campo minado. 
+
+Incruesta este prompt en la configuración base de tu agente y cierra definitivamente la puerta a la pérdida de datos catastrófica y a la fuga inútil de tokens.
+
+Una vez que implementes esta barrera de seguridad, por fin podrás irte a dormir tranquilo sabiendo que tu base de datos está a salvo. 🍷

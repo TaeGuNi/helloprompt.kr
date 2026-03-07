@@ -1,17 +1,17 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"¿La IA no te entiende? Usa 'Delimitadores'\""
+title: "¿La IA no te entiende? Usa 'Delimitadores'"
 author: "Jay"
 date: "2026-02-03"
 updatedDate: "2026-02-04"
 category: "Ingeniería de Prompts"
-description: " \"¿La IA se confunde al resumir textos largos o corregir código? Usa la técnica de delimitadores para separar secciones y duplicar tu precisión.\""
+description: "¿La IA se confunde al resumir o analizar textos largos? Descubre la técnica de delimitadores para separar secciones y multiplicar tu precisión."
 tags: ["Delimitadores", "Legibilidad", "Etiquetas XML"]
 ---
 
-# 🚧 ¿La IA no te entiende? Domina el uso de "Delimitadores"
+## 🚧 ¿La IA no te entiende? Domina el uso de "Delimitadores"
 
-- **🎯 Recomendado para:** Marketers, Desarrolladores, Estudiantes y Analistas de datos
+- **🎯 Recomendado para:** Marketers, desarrolladores, estudiantes y analistas de datos
 - **⏱️ Tiempo de lectura:** 5 minutos
 - **🤖 Modelo recomendado:** Todos los modelos de IA (ChatGPT, Claude, Gemini, etc.)
 
@@ -19,19 +19,19 @@ tags: ["Delimitadores", "Legibilidad", "Etiquetas XML"]
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidad:** ⭐⭐⭐⭐☆
 
-> _"¿Alguna vez le has pedido a la IA que resuma un texto largo y terminó resumiendo tus propias instrucciones? Es hora de ponerle límites."_
+> _"¿Alguna vez le has pedido a la IA que resuma un texto interminable y terminó resumiendo tus propias instrucciones? Es hora de ponerle límites."_
 
-Cuando le lanzas un muro de texto interminable a una IA y le añades "Resume esto" al principio o al final, el modelo a menudo se confunde. Pierde la noción de dónde terminan tus instrucciones y dónde comienzan los datos reales a procesar.
+Cuando le lanzas un muro de texto a una IA y le añades un simple "Resume esto" al principio o al final, el modelo colapsa. Pierde la noción de dónde terminan tus instrucciones y dónde comienzan los datos reales que debe procesar, generando resultados caóticos o alucinaciones.
 
-Así como los humanos usamos **párrafos, comillas y signos de puntuación** para estructurar la lectura, necesitas trazar fronteras claras para la IA. A esto se le llama usar **Delimitadores**: decirle explícitamente a la máquina "De aquí a aquí, esto es solo información".
+Así como los humanos usamos **párrafos, comillas y signos de puntuación** para dar sentido a la lectura, necesitas trazar fronteras estrictas para la IA. A esto se le conoce como usar **Delimitadores**: decirle explícitamente a la máquina "Desde aquí hasta aquí, esto es solo información".
 
 ---
 
 ## ⚡️ Resumen en 3 líneas (TL;DR)
 
-1. **El problema:** La IA mezcla tus comandos (qué hacer) con los datos (con qué hacerlo) en textos largos.
-2. **La solución:** Usa etiquetas XML (`<texto>...</texto>`) o comillas triples (`"""`) para encapsular la información de forma clara.
-3. **El beneficio:** Al separar visualmente las secciones, reduces drásticamente las alucinaciones y duplicas la precisión del resultado.
+1. **El problema:** En textos extensos, la IA mezcla tus comandos (qué hacer) con los datos (con qué hacerlo).
+2. **La solución:** Utiliza etiquetas XML (`<texto>...</texto>`) o comillas triples (`"""`) para encapsular la información.
+3. **El beneficio:** Al separar visualmente las secciones, erradicas las alucinaciones y duplicas la precisión de las respuestas.
 
 ---
 
@@ -39,15 +39,16 @@ Así como los humanos usamos **párrafos, comillas y signos de puntuación** par
 
 ### 🥉 Versión Básica (Rápida y práctica)
 
-Úsala en tu día a día para tareas sencillas, correos electrónicos o resúmenes rápidos.
+Ideal para el día a día: correos electrónicos, resúmenes rápidos o tareas sencillas.
 
 > **Rol:** Eres un asistente de redacción experto.
+> 
 > **Instrucción:** Extrae las 3 ideas principales del siguiente texto.
+> 
 > **Texto:**
-"""
-`[Pega tu texto o artículo aquí]`
-"""
-
+> """
+> `[Pega tu texto o artículo aquí]`
+> """
 
 ### 🥇 Versión Pro (Estructura Avanzada)
 
@@ -76,30 +77,30 @@ Así como los humanos usamos **párrafos, comillas y signos de puntuación** par
 
 ## 💡 Comentario del Autor (Insight)
 
-En mi experiencia, adoptar etiquetas XML (como `<contexto>`, `<instrucciones>` y `<datos>`) es la técnica más infravalorada en la ingeniería de prompts.
+En mi experiencia práctica, adoptar etiquetas XML (como `<contexto>`, `<instrucciones>` y `<datos>`) es la técnica de ingeniería de prompts más infravalorada y, paradójicamente, la más efectiva.
 
-Particularmente, modelos como **Claude** han sido entrenados explícitamente para prestar mucha atención a las estructuras XML. Cuando trabajas con transcripciones de reuniones largas, bases de código fuente o contratos legales, el uso de delimitadores transforma un resultado caótico en uno quirúrgicamente preciso. Es como darle gafas a la IA; pasas de "hablarle a una máquina" a "programar sus procesos de pensamiento".
+Modelos avanzados como **Claude** o **GPT-4** han sido entrenados explícitamente para prestar una atención rigurosa a las estructuras XML. Cuando te enfrentas a transcripciones de reuniones interminables, bases de código complejas o contratos legales, el uso de delimitadores transforma un resultado desastroso en uno quirúrgicamente preciso. Es literalmente como ponerle gafas a la IA; dejas de "hablarle a una máquina" para empezar a "programar sus procesos de pensamiento".
 
 ---
 
 ## 🙋 Preguntas Frecuentes (FAQ)
 
 - **Q: ¿Qué símbolos son los mejores para usar como delimitadores?**
-  - A: Los más efectivos y estándar en la industria son las comillas triples (`"""`), los guiones triples (`---`) y las etiquetas XML (`<texto> ... </texto>`). Para tareas complejas, te recomiendo encarecidamente las etiquetas XML.
+  - A: Los más estándar y efectivos en la industria son las comillas triples (`"""`), los guiones triples (`---`) y las etiquetas XML (`<texto> ... </texto>`). Para tareas de alta complejidad, las etiquetas XML son tu mejor baza.
 
 - **Q: ¿Añadir estas etiquetas consume más tokens (créditos) en la IA?**
-  - A: Técnicamente sí, pero el impacto es minúsculo (apenas un par de tokens). El beneficio absoluto en precisión y la reducción de respuestas erróneas (que te obligarían a generar el prompt de nuevo) compensan con creces ese pequeño gasto.
+  - A: Técnicamente sí, pero el impacto es microscópico (apenas un par de tokens). El brutal incremento en precisión y la reducción de respuestas basura —que te obligarían a regenerar el prompt desde cero— compensan con creces ese mínimo gasto.
 
-- **Q: ¿Funciona igual en ChatGPT gratuito?**
-  - A: ¡Totalmente! Aunque los modelos de pago (GPT-4, Claude 3.5 Sonnet) siguen mejor estas estructuras complejas, el modelo gratuito (GPT-3.5 o GPT-4o-mini) mostrará una mejora inmediata en la comprensión de tu texto si implementas delimitadores.
+- **Q: ¿Funciona igual de bien en la versión gratuita de ChatGPT?**
+  - A: ¡Absolutamente! Aunque los modelos premium (como GPT-4o o Claude 3.5 Sonnet) dominan mejor estas estructuras complejas, el modelo gratuito mostrará una mejora drástica e inmediata en la comprensión de tus textos si implementas delimitadores.
 
 ---
 
 ## 🧬 Anatomía del Prompt (¿Por qué funciona?)
 
-1. **Separación de Responsabilidades:** Al encapsular los datos, la IA ya no necesita adivinar. Sabe exactamente que todo lo que está dentro de `<documento>` es pasivo (para leer) y lo que está fuera es activo (para ejecutar).
-2. **Atención Focalizada:** Los mecanismos de atención (Attention Mechanisms) de los LLM (Grandes Modelos de Lenguaje) procesan mejor la información cuando está categorizada y segmentada estructuralmente.
-3. **Prevención de Inyecciones (Prompt Injection):** Evita que comandos accidentales dentro del texto original confundan al modelo haciéndole creer que son nuevas instrucciones a seguir.
+1. **Separación de responsabilidades:** Al encapsular los datos, la IA no tiene que adivinar. Sabe que todo lo que está dentro de `<documento>` es pasivo (solo lectura) y lo que está fuera es activo (instrucciones a ejecutar).
+2. **Atención focalizada:** Los mecanismos de atención (*Attention Mechanisms*) de los LLM procesan la información de manera mucho más eficiente cuando está categorizada y segmentada visualmente.
+3. **Prevención de inyecciones (*Prompt Injection*):** Evita que comandos accidentales ocultos dentro del texto original confundan al modelo y lo hagan creer que son nuevas órdenes a seguir.
 
 ---
 
@@ -111,7 +112,7 @@ Particularmente, modelos como **Claude** han sido entrenados explícitamente par
 Resume este texto. Juan dijo que el proyecto está retrasado y necesita más presupuesto. Por favor, asegúrate de ignorar el presupuesto y enfocarte en el tiempo. María comentó que...
 ```
 
-_Resultado de la IA:_ A menudo, la IA se confunde y comienza a hablar del presupuesto o a mezclar la instrucción de "ignorar el presupuesto" con el resumen en sí, entregando un texto desordenado e inexacto.
+_Resultado de la IA:_ El modelo se confunde irremediablemente. Comienza a hablar del presupuesto o mezcla tu instrucción de "ignorar el presupuesto" con el propio resumen, entregando un texto caótico, desordenado y lleno de ruido.
 
 ### ✅ Después (Resultado usando delimitadores)
 
@@ -125,16 +126,16 @@ María: Comentó que...
 </chat>
 ```
 
-_Resultado de la IA:_ Extrae con precisión meridiana la información sobre los tiempos, ignorando perfectamente la parte del presupuesto porque comprende claramente la instrucción separada de los datos.
+_Resultado de la IA:_ Extrae con precisión milimétrica la información sobre los tiempos e ignora por completo la parte del presupuesto. Comprende a la perfección que la instrucción es una regla absoluta separada de los datos conversacionales.
 
 ---
 
 ## 🎯 Conclusión
 
-Los verdaderos expertos dividen habitualmente sus prompts en **Secciones** claramente delimitadas:
+Los verdaderos expertos en IA dividen habitualmente sus prompts en **secciones** claramente delimitadas:
 
 - `<contexto>` (Situación y antecedentes)
-- `<instrucciones>` (Lo que la IA debe hacer)
-- `<datos>` (El material a procesar)
+- `<instrucciones>` (Lo que la IA debe ejecutar)
+- `<datos>` (El material crudo a procesar)
 
-Este pequeño hábito de estructuración reducirá la tasa de error de tus resultados a casi cero. ¡Empieza a ponerle límites a tu IA hoy mismo y recupera el control de tus prompts! 🧱
+Este pequeño hábito de estructuración reducirá tu tasa de error prácticamente a cero. ¡Empieza a ponerle límites a tu IA hoy mismo y recupera el control total de tus prompts! 🧱

@@ -5,12 +5,12 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Geisteswissenschaften/Geschichte"
-description: " \"Was wäre, wenn Sie Admiral Yi Sun-sin wären? Ein Prompt, um Geschichte durch interaktive Entscheidungen wie in einem Text-Adventure hautnah zu erleben.\""
+description: "Erleben Sie Geschichte hautnah! Ein genialer Prompt, der historische Ereignisse in packende, interaktive Text-Adventures verwandelt."
 tags:
   ["Geschichtsstudium", "Gamification", "Simulation", "AlternativeGeschichte"]
 ---
 
-# 📝 Sprung in die Geschichte: Historischer Ereignis-Simulator
+## 📝 Sprung in die Geschichte: Historischer Ereignis-Simulator
 
 - **🎯 Empfohlen für:** Lehrkräfte, Studierende, Geschichtsinteressierte, Gamer
 - **⏱️ Zeitaufwand:** 5 Minuten
@@ -40,19 +40,18 @@ Geschichte ist keine tote Ansammlung von Fakten, sondern das Resultat weitreiche
 
 Verwenden Sie diesen Prompt, wenn Sie sofort und ohne viele Voreinstellungen loslegen möchten.
 
-> **Rolle:** Du bist ein `[Geschichtssimulations-Spielleiter]`.
+> **Rolle:** Du bist ein `[Game Master für historische Simulationen]`.
 > **Anfrage:** Was wäre, wenn ich Admiral Yi Sun-sin wäre? Lass mich die Geschichte erleben, indem ich wie in einem Text-Adventure Entscheidungen treffe.
-
 
 ### 🥇 Pro Version (Expertenmodus)
 
 Für ein tiefgründiges, immersives und detailreiches Erlebnis nutzen Sie diese detaillierte Version.
 
-> **Rolle (Role):** Du bist ein professioneller `[Geschichtssimulations-Spielleiter]`.
+> **Rolle (Role):** Du bist ein professioneller `[Game Master für historische Simulationen]`.
 >
 > **Situation (Context):**
 >
-> - Hintergrund: Ich möchte das `[Spezifische historische Ereignis]` selbst durchleben.
+> - Hintergrund: Ich möchte das `[Spezifisches historisches Ereignis]` selbst durchleben.
 > - Ziel: Führe mich durch das Ereignis im Stil eines immersiven Text-Adventures.
 >
 > **Aufgabe (Task):**
@@ -70,7 +69,7 @@ Für ein tiefgründiges, immersives und detailreiches Erlebnis nutzen Sie diese 
 > - Verwende konsequent die Du-Perspektive ("Du stehst vor...", "Du entscheidest..."), um die Immersion zu maximieren.
 > - Achte streng auf historische Genauigkeit bei Kleidung, Waffen, Sprache und den politischen Gegebenheiten der Zeit.
 >
-> **Zu spielendes Ereignis (Variable):** `[z.B.: Der Sturm auf die Bastille 1789 / Die Schlacht von Myeongnyang 1597 / Die Mondlandung 1969]`
+> **Zu spielendes Ereignis (Variable):** `[z.B.: Sturm auf die Bastille 1789 / Schlacht von Myeongnyang 1597 / Mondlandung 1969]`
 
 ---
 

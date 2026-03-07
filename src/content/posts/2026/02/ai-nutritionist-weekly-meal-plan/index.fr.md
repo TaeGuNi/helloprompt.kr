@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé & Bien-être"
-description: "Découvrez comment utiliser l'IA comme votre nutritionniste personnel pour créer un plan de repas hebdomadaire sur mesure, parfaitement adapté à vos objectifs et à vos goûts."
+description: "Utilisez l'IA comme nutritionniste personnel pour créer un plan de repas hebdomadaire sur mesure, parfaitement adapté à vos objectifs et goûts."
 tags: ["Régime", "Gestion des Repas", "Santé", "ChatGPT", "Préparation de Repas"]
 ---
 
-# 🥗 Nutritionniste IA : Créer Mon Propre Plan de Repas Hebdomadaire Personnalisé
+## 🥗 Nutritionniste IA : Créer Mon Propre Plan de Repas Hebdomadaire Personnalisé
 
 - **🎯 Recommandé pour :** Toute personne cherchant à mieux s'alimenter, sportifs amateurs, parents débordés
 - **⏱️ Temps requis :** 5 minutes
@@ -21,15 +21,15 @@ tags: ["Régime", "Gestion des Repas", "Santé", "ChatGPT", "Préparation de Rep
 
 > _« Vous vous épuisez chaque jour à vous demander 'Qu'est-ce qu'on mange ce soir ?' pour finalement craquer sur une application de livraison ? Laissez l'IA prendre le relais. »_
 
-La clé de saines habitudes alimentaires réside dans la **planification**. Cependant, calculer ses macros, équilibrer les nutriments et concevoir des menus en fonction des restes du réfrigérateur est une corvée mentale épuisante. Grâce à ce prompt ciblé, vous pouvez générer en moins de 5 minutes un plan de repas hebdomadaire parfait, digne d'un diététicien professionnel.
+La clé d'une alimentation saine réside dans la **planification**. Cependant, calculer ses macros, équilibrer les nutriments et concevoir des menus en fonction des restes du réfrigérateur est une véritable charge mentale. Grâce à ce prompt ciblé, générez en moins de 5 minutes un plan de repas hebdomadaire parfait, digne d'un véritable diététicien.
 
 ---
 
 ## ⚡️ 3 Lignes pour Comprendre (TL;DR)
 
-1. Renseignez vos mensurations et vos objectifs (perte de poids, prise de masse, maintien) pour un régime sur mesure.
+1. Renseignez vos mensurations et vos objectifs (perte de poids, prise de masse, maintien) pour un programme alimentaire sur mesure.
 2. Excluez d'emblée les allergènes ou les aliments que vous n'aimez pas.
-3. Générez automatiquement une liste de courses classée par rayon pour gagner un temps précieux au supermarché.
+3. Générez automatiquement une liste de courses classée par rayon pour un gain de temps précieux au supermarché.
 
 ---
 
@@ -46,7 +46,7 @@ La clé de saines habitudes alimentaires réside dans la **planification**. Cepe
 
 À utiliser pour obtenir un plan ultra-personnalisé, applicable immédiatement au quotidien.
 
-> **Rôle (Role) :** Tu es un nutritionniste clinique et un coach sportif personnel avec 10 ans d'expérience. Tu es expert dans la création de plans de repas nutritionnellement irréprochables, savoureux et surtout réalisables au quotidien.
+> **Rôle (Role) :** Tu es un nutritionniste clinique et un coach sportif personnel avec 10 ans d'expérience. Tu excelles dans la création de plans de repas nutritionnellement irréprochables, savoureux et surtout réalisables au quotidien.
 >
 > **Contexte (Context) :**
 >
@@ -72,7 +72,7 @@ La clé de saines habitudes alimentaires réside dans la **planification**. Cepe
 
 ## 💡 L'Avis de l'Expert (Insight)
 
-La véritable puissance de ce prompt réside dans sa capacité à réduire la « fatigue décisionnelle » du dimanche soir. En tant que professionnel souvent débordé, j'utilise une variante de ce prompt en y ajoutant cette ligne : _« Voici ce qu'il reste dans mon frigo : `[Liste d'ingrédients]`. Intègre-les en priorité dans les repas du lundi et mardi. »_ Cela transforme l'IA non seulement en nutritionniste, mais aussi en chef cuisinier anti-gaspillage. De plus, demander à l'IA de trier la liste de courses par rayon vous fait littéralement diviser par deux votre temps passé au supermarché.
+La véritable puissance de ce prompt réside dans sa capacité à réduire la « fatigue décisionnelle » du dimanche soir. En tant que professionnel souvent débordé, j'utilise une variante de ce prompt en y ajoutant cette ligne : _« Voici ce qu'il reste dans mon frigo : `[Liste d'ingrédients]`. Intègre-les en priorité dans les repas du lundi et du mardi. »_ Cela transforme l'IA non seulement en nutritionniste, mais aussi en redoutable chef cuisinier anti-gaspillage. De plus, exiger que l'IA trie la liste de courses par rayon vous fait littéralement diviser par deux le temps passé au supermarché.
 
 ---
 
@@ -91,8 +91,8 @@ La véritable puissance de ce prompt réside dans sa capacité à réduire la «
 
 ## 🧬 Anatomie du Prompt (Pourquoi ça marche ?)
 
-1. **Rôle d'Expert (Role) :** En combinant « nutritionniste clinique » et « coach sportif », on s'assure que l'IA ne propose pas seulement des plats sains, mais des repas fonctionnels adaptés à un objectif de transformation physique.
-2. **Variables Spécifiques (Context) :** Préciser le temps de préparation disponible empêche l'IA de vous proposer un bœuf bourguignon mijotant pendant 4 heures un mardi soir en rentrant du bureau.
+1. **Rôle d'Expert (Role) :** En combinant « nutritionniste clinique » et « coach sportif », on s'assure que l'IA ne propose pas de simples plats sains, mais des repas fonctionnels adaptés à un véritable objectif de transformation physique.
+2. **Variables Spécifiques (Context) :** Préciser le temps de préparation disponible empêche l'IA de vous suggérer un bœuf bourguignon mijotant pendant 4 heures un mardi soir en rentrant du bureau.
 3. **Structuration Logique (Task & Constraints) :** Demander une présentation sous forme de tableau Markdown ainsi qu'une liste de courses catégorisée rend le résultat immédiatement exploitable, vous épargnant tout tri manuel fastidieux.
 
 ---
@@ -131,4 +131,4 @@ La véritable puissance de ce prompt réside dans sa capacité à réduire la «
 
 Un corps en pleine santé se sculpte d'abord dans l'assiette. Cessez de jongler avec des tableurs pour compter vos macros. Laissez votre nutritionniste IA gérer la logistique, et concentrez-vous uniquement sur le **plaisir de bien manger** et sur votre **vitalité**.
 
-Ouvrez votre frigo, lancez le prompt et reprenez le contrôle de votre alimentation dès aujourd'hui ! 🥦
+Ouvrez votre réfrigérateur, lancez le prompt et reprenez le contrôle de votre alimentation dès aujourd'hui ! 🥦

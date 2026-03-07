@@ -5,13 +5,13 @@ author: "Jay"
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 category: "프론트엔드"
-description: " \"¿Es tu código accesible para todos? Este bot verifica si cumples estrictamente con los estándares de accesibilidad (WCAG).\""
+description: "¿Es tu código accesible para todos? Este bot verifica si cumples estrictamente con los estándares de accesibilidad (WCAG)."
 tags: ["Accessibility", "HTML", "WCAG"]
 ---
 
-# ♿️ ¿Es mi código amable con todos? Bot de auditoría automática de accesibilidad web (WCAG)
+## ♿️ ¿Es mi código amable con todos? Bot de auditoría automática de accesibilidad web (WCAG)
 
-- **🎯 Público objetivo:** Desarrolladores en proyectos gubernamentales o corporativos, juniors buscando destacar el detalle en sus portafolios, y desarrolladores frontend senior.
+- **🎯 Público objetivo:** Desarrolladores en proyectos gubernamentales o corporativos, perfiles junior que buscan destacar su atención al detalle en portafolios, y desarrolladores frontend senior.
 - **⏱️ Tiempo estimado:** De 2 horas de revisión manual a 1 minuto con diagnóstico automático de IA.
 - **🤖 Modelo recomendado:** Claude 3.5 Sonnet (análisis de código excepcional), GPT-4o.
 
@@ -21,14 +21,14 @@ tags: ["Accessibility", "HTML", "WCAG"]
 
 > _"Puedes crear animaciones espectaculares, pero si alguien ni siquiera puede hacer clic en tu botón de inicio de sesión, ese código es un rotundo fracaso."_
 
-La accesibilidad web (A11y) ya no es un simple "detalle de cortesía", sino el estándar fundamental de un buen servicio y, cada vez más, una obligación legal. Sin embargo, memorizar y aplicar cada punto de las extensas y complejas Pautas de Accesibilidad para el Contenido Web (WCAG 2.2) en tu día a día roza lo imposible. Este prompt escanea tu marcado y código de componentes para detectar en solo un minuto fallas críticas de accesibilidad que afectarían a los lectores de pantalla y a la navegación por teclado, refactorizándolo todo en un código semántico impecable.
+La accesibilidad web (A11y) ya no es un simple "detalle de cortesía", sino el estándar fundamental de un buen servicio y, cada vez más, una obligación legal. Sin embargo, memorizar y aplicar cada punto de las extensas y complejas Pautas de Accesibilidad para el Contenido Web (WCAG 2.2) en tu día a día roza lo imposible. Este prompt escanea tu marcado y el código de tus componentes para detectar en solo un minuto fallas críticas de accesibilidad que afectarían a los lectores de pantalla y a la navegación por teclado, refactorizándolo todo en un código semántico impecable.
 
 ---
 
 ## ⚡️ Resumen en 3 puntos (TL;DR)
 
-1. **Conversión a marcado semántico:** Transforma el uso abusivo de `<div>` en etiquetas semánticas de HTML5 con propósito real.
-2. **Cumplimiento estricto de WCAG 2.2:** Verifica rigurosamente criterios complejos como el contraste de color, la retención del foco (Focus) y el abuso de atributos WAI-ARIA.
+1. **Conversión a marcado semántico:** Transforma el uso abusivo de `<div>` en etiquetas semánticas de HTML5 con un propósito real.
+2. **Cumplimiento estricto de WCAG 2.2:** Verifica rigurosamente criterios complejos como el contraste de color, la retención del foco (Focus Trap) y el abuso de atributos WAI-ARIA.
 3. **Guía de pruebas prácticas:** Proporciona métodos de validación específicos para que pruebes tu código utilizando únicamente el teclado (Tab) y lectores de pantalla (VoiceOver, NVDA).
 
 ---
@@ -40,12 +40,15 @@ La accesibilidad web (A11y) ya no es un simple "detalle de cortesía", sino el e
 Úsala para una revisión rápida cuando tengas dudas sobre la accesibilidad de un botón o un formulario específico.
 
 > **Rol:** Eres un experto en Accesibilidad Web (A11y).
+>
 > **Tarea:** Revisa el siguiente código HTML para identificar posibles problemas de accesibilidad al navegar con teclado o usar lectores de pantalla, y refactorízalo usando marcado semántico.
+>
 > **Código:**
 >
 >
 > [Pega tu código aquí]
 >
+
 ### 🥇 Versión Profesional (Pro Version)
 
 Ideal para auditar componentes de UI complejos e interactivos, como modales, menús desplegables (dropdowns) y sistemas de pestañas (tabs).
@@ -81,7 +84,7 @@ Ideal para auditar componentes de UI complejos e interactivos, como modales, men
 
 El intento bien intencionado de mejorar la accesibilidad web a menudo termina en una "sopa de atributos WAI-ARIA". Sin embargo, asignar un `aria-label` o un `role` de forma incorrecta causa una confusión catastrófica para los usuarios de lectores de pantalla.
 El verdadero poder de este prompt radica en obligar a la IA a respetar la **"Primera regla de ARIA (priorizar siempre las etiquetas HTML nativas)"**.
-Al pasar componentes complejos de la vida real, como un Select Box personalizado o un Modal, a través de este prompt, la IA detecta con una precisión asombrosa problemas que solemos pasar por alto, como la pérdida del foco del teclado o la ausencia de etiquetas en los formularios. Especialmente si lo usas con Claude 3.5 Sonnet, la experiencia es idéntica a tener a un experto en accesibilidad extremadamente meticuloso sentado a tu lado haciendo revisión de código (Code Review).
+Al pasar componentes complejos de la vida real, como un *Select Box* personalizado o un *Modal*, a través de este prompt, la IA detecta con una precisión asombrosa problemas que solemos pasar por alto, como la pérdida del foco del teclado o la ausencia de etiquetas en los formularios. Especialmente si lo usas con Claude 3.5 Sonnet, la experiencia es idéntica a tener a un experto en accesibilidad extremadamente meticuloso sentado a tu lado haciendo una exhaustiva revisión de código (Code Review).
 
 ---
 

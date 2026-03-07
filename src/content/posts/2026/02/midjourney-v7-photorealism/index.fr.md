@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "디자인/생성형 AI"
-description: "Le guide ultime de Midjourney v7 ! Découvrez la formule secrète pour générer instantanément des clichés photoréalistes dignes d'un véritable shooting en studio."
+description: "Le guide ultime de Midjourney v7 ! Découvrez la formule secrète pour générer des clichés photoréalistes dignes d'un vrai shooting en studio."
 tags: ["Midjourney", "이미지 생성", "디자인", "프롬프트"]
 ---
 
-# 📝 Oubliez l'appareil photo, maîtrisez le prompt : Le guide ultime du photoréalisme sur Midjourney v7
+## 📝 Oubliez l'appareil photo, maîtrisez le prompt : Le guide ultime du photoréalisme sur Midjourney v7
 
 - **🎯 Recommandé pour :** Designers, spécialistes du marketing de contenu et directeurs artistiques cherchant à réduire drastiquement leurs coûts de shooting.
 - **⏱️ Temps requis :** 5 minutes → Réduit à 1 minute (via un simple copier-coller)
@@ -44,6 +44,7 @@ Copiez ce prompt et collez-le directement dans **ChatGPT (ou Claude)**. Attentio
 Idéale pour générer rapidement un prompt aboutissant à une image réaliste et percutante, sans s'égarer dans des considérations techniques complexes.
 
 > **Rôle :** Tu es un photographe publicitaire professionnel doublé d'un expert en ingénierie de prompts pour Midjourney v7.
+> 
 > **Tâche :** À partir du `[Sujet à photographier]` que je vais te fournir, rédige un prompt en anglais, en une seule phrase, ultra-optimisé pour générer le cliché le plus photoréaliste possible sur Midjourney v7.
 
 ### 🥇 Version Pro (Pro Version)

@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "업무 효율화"
-description: "Avis aux développeurs qui fouillent dans GitHub pour se remémorer leur travail de la veille : collez vos logs de commit et obtenez un script de stand-up parfait en quelques secondes."
+description: "Fini de fouiller dans GitHub pour votre stand-up : collez vos logs et obtenez un script clair et professionnel en quelques secondes grâce à l'IA."
 tags: ["스탠드업", "회의준비", "개발자", "회고"]
 ---
 
-# 📝 Préparation au Daily Stand-up en 1 minute
+## 📝 Préparation au Daily Stand-up en 1 minute
 
 - **🎯 Recommandé pour :** Développeurs, chefs de projet, marketeurs
 - **⏱️ Temps gagné :** 15 minutes → 1 minute
@@ -21,15 +21,15 @@ tags: ["스탠드업", "회의준비", "개발자", "회고"]
 
 > _"Encore en train de fouiller frénétiquement l'historique de vos commits GitHub à 9 h 55 pour le daily stand-up de 10 h 00 ? Arrêtez de stresser, l'IA s'en charge pour vous."_
 
-Le *Daily Stand-up* est censé être un point de synchronisation rapide, mais la préparation de son intervention prend parfois plus de temps que la réunion en elle-même. Si vous peinez à formuler vos accomplissements de la veille, vos objectifs du jour et vos éventuels points de blocage, ce prompt est votre meilleur allié. Il transformera vos logs techniques bruts en un résumé limpide et professionnel, prêt à être partagé avec votre équipe.
+Le *Daily Stand-up* est censé être un point de synchronisation agile et rapide, mais préparer son intervention prend parfois plus de temps que la réunion elle-même. Si vous peinez à formuler vos accomplissements de la veille, vos objectifs du jour et vos éventuels points de blocage, ce prompt est votre meilleur allié. Il transformera vos logs techniques bruts en un discours limpide et professionnel, prêt à être partagé avec votre équipe.
 
 ---
 
 ## ⚡️ Résumé en 3 points (TL;DR)
 
-1. **Fini les trous de mémoire :** Transformez vos messages de commit ou vos notes en un script de réunion parfaitement structuré.
-2. **Format Agile standardisé :** Générez automatiquement les sections "Hier", "Aujourd'hui" et "Bloqueurs".
-3. **Gain de temps au quotidien :** Préparez votre intervention en moins d'une minute chrono, juste avant la réunion.
+1. **Fini les trous de mémoire :** Transformez instantanément vos messages de commit ou vos notes éparses en un script de réunion parfaitement structuré.
+2. **Format Agile standardisé :** Générez automatiquement les trois sections incontournables : "Hier", "Aujourd'hui" et "Bloqueurs".
+3. **Gain de temps au quotidien :** Préparez votre intervention en moins d'une minute chrono, juste avant de rejoindre l'appel.
 
 ---
 
@@ -52,12 +52,12 @@ Idéale pour structurer un discours professionnel, valoriser votre impact et ide
 > **Contexte (Context) :**
 >
 > - Contexte : Je dois présenter mon état d'avancement lors du Daily Stand-up de mon équipe technique.
-> - Objectif : Transformer mes notes techniques et logs de commit de la veille en un discours clair, concis et compréhensible par tous (y compris par les profils non techniques comme le Product Owner).
+> - Objectif : Transformer mes notes techniques et mes logs de commit de la veille en un discours clair, concis et compréhensible par tous (y compris par des profils non techniques comme le Product Owner).
 >
 > **Tâche (Task) :**
 >
 > 1. Analyse les `[Données brutes]` fournies ci-dessous.
-> 2. Rédige un script de stand-up structuré en 3 parties distinctes : **Hier**, **Aujourd'hui**, et **Bloqueurs / Dépendances**.
+> 2. Rédige un script de stand-up structuré en 3 parties distinctes : **Hier**, **Aujourd'hui** et **Bloqueurs / Dépendances**.
 > 3. Traduis le jargon technique excessif en valeur métier concrète.
 > 4. Adopte un ton professionnel, direct et collaboratif.
 >
@@ -78,9 +78,9 @@ Idéale pour structurer un discours professionnel, valoriser votre impact et ide
 
 ## 💡 L'avis de l'expert (Insight)
 
-La préparation du stand-up est une tâche chronophage, mais elle revêt un véritable enjeu de communication au sein de l'équipe. Les développeurs ont souvent le défaut de trop s'attarder sur les détails de bas niveau (ex. : "J'ai refactorisé le composant X pour éviter un re-render inutile...").
+La préparation du stand-up est une tâche chronophage, mais elle revêt un véritable enjeu de communication stratégique au sein de l'équipe. Les développeurs ont souvent le défaut de trop s'attarder sur les détails de bas niveau (ex. : "J'ai refactorisé le composant X pour éviter un re-render inutile...").
 
-La véritable force de cette version pro réside dans sa capacité à faire le pont entre la technique et le produit. En exigeant de l'IA qu'elle "traduise le jargon technique en valeur métier", vous démontrez que vous n'êtes pas qu'un simple exécutant, mais un ingénieur qui saisit l'impact réel de son code. C'est précisément ce niveau de clarté qui rassure les Product Owners et valorise votre profil auprès du management.
+La véritable force de cette version pro réside dans sa capacité à faire le pont entre la technique et le produit. En exigeant de l'IA qu'elle "traduise le jargon technique en valeur métier", vous démontrez que vous n'êtes pas qu'un simple exécutant, mais un ingénieur qui saisit **l'impact réel de son code**. C'est précisément ce niveau de clarté qui rassure les Product Owners et valorise votre profil auprès du management.
 
 ---
 
@@ -96,8 +96,8 @@ La véritable force de cette version pro réside dans sa capacité à faire le p
 
 ## 🧬 Décryptage du prompt (Pourquoi ça marche ?)
 
-1. **Cadrage temporel et format (Constraints) :** En imposant une limite stricte ("moins de 60 secondes de temps de parole"), nous forçons l'IA à synthétiser l'information et à éliminer le superflu.
-2. **Traduction Technique -> Métier (Task 3) :** C'est la clé de voûte d'un stand-up réussi. L'IA comprend qu'elle doit vulgariser les termes complexes pour rendre votre intervention pertinente pour l'ensemble de l'équipe agile.
+1. **Cadrage temporel et format (Constraints) :** En imposant une limite stricte ("moins de 60 secondes de temps de parole"), nous forçons l'IA à synthétiser l'information et à éliminer tout le superflu.
+2. **Traduction Technique -> Métier (Task 3) :** C'est la clé de voûte d'un stand-up réussi. L'IA comprend qu'elle doit vulgariser les termes complexes pour rendre votre intervention pertinente et accessible à l'ensemble de l'équipe agile.
 3. **Prévention des hallucinations (Warning) :** La consigne stricte de ne rien inventer garantit que vous ne vous attribuerez pas accidentellement le mérite du travail d'un collègue lors de la réunion !
 
 ---
@@ -136,6 +136,6 @@ Aujourd'hui je dois faire les tests unitaires pour le endpoint users et voir pou
 
 ## 🎯 Conclusion
 
-Ne perdez plus d'énergie mentale à reconstituer le puzzle de la veille. Laissez l'IA structurer vos pensées pour vous concentrer sur ce qui compte vraiment : écrire du code de qualité et résoudre les vrais problèmes de la journée.
+Ne perdez plus votre énergie mentale à reconstituer le puzzle de la veille. Laissez l'IA structurer vos pensées pour vous concentrer sur ce qui compte vraiment : écrire du code de qualité et résoudre les vrais défis de la journée.
 
-Maintenant, prenez un café et brillez à votre stand-up ! ☕️
+Maintenant, prenez un café et brillez lors de votre stand-up ! ☕️

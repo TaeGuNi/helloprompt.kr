@@ -1,15 +1,15 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"First Button of Interview, Attractive '1-Minute Self-Introduction' Writing Prompt\""
+title: "The First Button of an Interview: An Attractive '1-Minute Self-Introduction' Prompt"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Career"
-description: " \"Generate a compelling 1-minute self-introduction script that highlights your core competencies and unique professional identity, avoiding overused clichés.\""
+description: "Generate a compelling 1-minute self-introduction script that highlights your core competencies and unique professional identity, avoiding overused clichés."
 tags: ["1MinSelfIntro", "InterviewPrep", "ElevatorPitch", "SelfIntroduction"]
 ---
 
-# 📝 First Button of Interview, Attractive '1-Minute Self-Introduction' Writing Prompt
+## 📝 The First Button of an Interview: An Attractive '1-Minute Self-Introduction' Prompt
 
 - **🎯 Recommended For:** Job Seekers, Interview Candidates, Professionals in Transition
 - **⏱️ Time Required:** 5 minutes
@@ -19,9 +19,9 @@ tags: ["1MinSelfIntro", "InterviewPrep", "ElevatorPitch", "SelfIntroduction"]
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
 - 🚀 **Utility:** ⭐⭐⭐⭐☆
 
-> _"Hello, I am like an onion, with many layers to discover... (Interviewer: *sigh* not another one...)"_
+> _"Hello, I am like an onion, with many layers to discover..." (Interviewer: *sigh* Not another one...)_
 
-The 1-minute self-introduction is the "movie trailer" for your interview. It is the critical window where the interviewer decides whether to actively engage with your resume or tune out. If you fail to capture their attention here, you risk becoming background noise for the next hour. Ditch the exhausted, cringeworthy metaphors and win them over immediately with a **'Deductive Competency Summary'**.
+The 1-minute self-introduction is the "movie trailer" for your interview. It is the critical window where the interviewer decides whether to actively engage with your resume or simply tune out. If you fail to capture their attention in those first sixty seconds, you risk becoming mere background noise for the remainder of the hour. Ditch the exhausted, cringeworthy metaphors and win them over immediately with a powerful **'Deductive Competency Summary'**.
 
 ---
 
@@ -37,19 +37,18 @@ The 1-minute self-introduction is the "movie trailer" for your interview. It is 
 
 ### 🥉 Basic Version (Quick & Easy)
 
-Use this when you just need a quick baseline script.
+Use this prompt when you just need a quick baseline script to get started.
 
 > **Role:** You are an expert career coach and image consultant.
 > **Request:** Write a 1-minute self-introduction script that firmly establishes my unique professional concept and core competencies, strictly avoiding any cliché metaphors.
 
-
 ### 🥇 Pro Version (Expert)
 
-Use this when you need a highly polished, interview-ready script.
+Use this advanced prompt when you need a highly polished, interview-ready script.
 
-> **Role (Role):** You are an elite executive coach, ad copywriter, and image consultant.
+> **Role:** You are an elite executive coach, ad copywriter, and image consultant.
 >
-> **Context (Context):**
+> **Context:**
 >
 > - Background: I am preparing a 1-minute self-introduction for an upcoming interview for the `[Target Job Role]` position. This is the crucial moment that dictates my first impression.
 > - Goal: Deliver a powerful, memorable, and structured pitch that immediately showcases my value proposition.
@@ -59,20 +58,20 @@ Use this when you need a highly polished, interview-ready script.
 > 1. `[Strength 1: e.g., Data-driven decision making]`
 > 2. `[Strength 2: e.g., Cross-cultural communication]`
 >
-> **Task (Task):**
+> **Task:**
 >
 > 1. Craft a captivating **Opening (Hook)** sentence that instantly grabs the interviewer's attention.
-> 2. Construct a compelling body paragraph that seamlessly weaves the two strengths above with my past experiences.
+> 2. Construct a compelling body paragraph that seamlessly weaves the two strengths mentioned above with my past experiences.
 > 3. Conclude decisively with my aspirations and how I will specifically contribute to the company after joining.
 > 4. Calibrate the total word count so it takes exactly **45~50 seconds** to speak aloud at a moderate pace.
 >
-> **Constraints (Constraints):**
+> **Constraints:**
 >
 > - Absolutely NO abstract or cliché metaphors (e.g., "I am like a sponge," "I am a vitamin").
 > - Skip basic pleasantries like "Hello, my name is" in the generated text; dive straight into the impactful content. (I will add the greeting myself when speaking).
 > - Maintain a tone that is confident, professional, and humble (Polite but Confident).
 >
-> **Warning (Warning):**
+> **Warning:**
 >
 > - Do not invent or hallucinate any experiences. Use only the framework provided and leave placeholders for specific metrics.
 
@@ -80,9 +79,9 @@ Use this when you need a highly polished, interview-ready script.
 
 ## 💡 Insight
 
-Why does this prompt work so well? Most candidates make the fatal mistake of using the 1-minute introduction to recite their resume chronologically. Interviewers already have your resume; they don't need an audio version of it.
+Why does this prompt work so well? Most candidates make the fatal mistake of using the 1-minute introduction to chronologically recite their resume. Interviewers already have your resume; they don't need an audio version of it.
 
-This prompt forces the AI to structure your pitch deductively—giving away the "punchline" (your core value) first, and then backing it up with two solid pillars of evidence. By explicitly banning clichés and dictating the exact speaking time (45-50 seconds), the AI generates a script that sounds natural, punches hard, and respects the interviewer's time.
+This prompt forces the AI to structure your pitch deductively—delivering the "punchline" (your core value) first, and then backing it up with two solid pillars of evidence. By explicitly banning clichés and dictating the exact speaking time (45-50 seconds), the AI generates a script that sounds natural, packs a punch, and respects the interviewer's time.
 
 _Pro Tip: Once the AI gives you the script, read it out loud several times and replace any overly complex words with your natural speaking vocabulary so it doesn't sound robotic._
 

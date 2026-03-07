@@ -3,10 +3,10 @@ title: " \"죽은 문서 살리기: Gemini 3 Pro 에이전트로 문서 자동�
 date: "2026-02-16"
 tags: ["AI", "Documentation", "Gemini 3 Pro", "Agentic Workflow", "DevOps"]
 author: "OpenClaw Writer"
-description: " \"Are your docs lagging behind your code? Discover the 'Self-Updating Docs' workflow using Gemini 3 Pro to detect code changes and automatically keep documentation up-to-date. Stop creating manual 'update docs' tickets.\""
+description: "Tired of outdated docs? Learn how to build a 'Self-Updating Docs' workflow with Gemini 3 Pro to automatically sync documentation with code changes."
 ---
 
-# 📚 Resurrecting Dead Docs: Automating Documentation with Gemini 3 Pro
+## 📚 Resurrecting Dead Docs: Automating Documentation with Gemini 3 Pro
 
 - **🎯 Target Audience:** Lead Developers, Backend Engineers, Tech Leads, DevOps Engineers
 - **⏱️ Time Required:** 30 minutes per doc update → 1 minute (Fully automated review)
@@ -41,36 +41,36 @@ Today, we're revealing the prompt to build a bulletproof **'Self-Updating Docs'*
 Use this for rapidly writing PR descriptions or when you need a quick, localized README update.
 
 > **Role:** You are a Senior Technical Writer.
-> **Task:** Review the `[Git Diff]` I just modified and rewrite the sections in `[README.md]` that require updates in Markdown. Ignore trivial typos or simple refactoring changes.
-
+> 
+> **Task:** Review the `[Git Diff]` I just provided and rewrite the sections in `[README.md]` that require updates in Markdown. Ignore trivial typos or simple refactoring changes.
 
 ### 🥇 Pro Version
 
 This is a highly sophisticated prompt designed to be embedded in your CI/CD pipeline (e.g., GitHub Actions) to act as a fully autonomous agent. Set `temperature: 0.1` or lower to strictly control its creativity.
 
-> **Role (Role):** You are a 'Docs Maintainer Agent', a veteran Technical Writer and DevOps Engineer with 10 years of experience.
+> **Role:** You are a 'Docs Maintainer Agent', a veteran Technical Writer and DevOps Engineer with 10 years of experience.
 >
-> **Context (Context):**
+> **Context:**
 > 
 > - Background: A developer just pushed a new commit to the codebase. These changes might include new API endpoints, added environment variables, or modifications to core business logic.
 > - Goal: Meticulously analyze the altered code and accurately synchronize the outdated documentation to its latest state.
 >
-> **Task (Task):**
+> **Task:**
 > 
 > 1. Conduct a comprehensive comparative analysis between the provided `[Git Diff]` and the entire `[Target Document]`.
 > 2. Determine if these code changes impact user onboarding or developer environments, thus requiring a documentation update. (Strictly ignore simple refactoring, variable renaming, or typo fixes.)
 > 3. If an update is deemed necessary, rewrite the entire updated document in Markdown format while flawlessly maintaining the original tone and manner.
-> 4. Append a hidden comment at the very bottom of the document in this format: ``.
+> 4. Append a hidden HTML comment at the very bottom of the document in this format: `<!-- AI_UPDATE_REASON: [Briefly explain the changes] -->`.
 > 5. If the commit is trivial and requires no documentation update, output ONLY `[NO_UPDATE_REQUIRED]`.
 >
-> **Constraints (Constraints):**
+> **Constraints:**
 > 
-> - Never hallucinate features or invent fictional environment variables. (No Hallucinations)
+> - Never hallucinate features or invent fictional environment variables.
 > - Prohibit vague phrases like "appropriately modified." Explicitly state the specific values, such as the added endpoint URLs or variable names.
 > - Never include commented-out incomplete code like TODOs or FIXMEs in the documentation.
-> - Your output must be ONLY the 'fully updated Markdown document' OR '[NO_UPDATE_REQUIRED]'.
+> - Your output must be ONLY the 'fully updated Markdown document' OR `[NO_UPDATE_REQUIRED]`.
 >
-> **Warning (Warning):**
+> **Warning:**
 >
 > - If you are unsure about a change or its impact, do not invent documentation. Output `[MANUAL_REVIEW_REQUIRED]` instead.
 
@@ -101,7 +101,7 @@ When deploying this prompt to our internal backend repository, the most mind-blo
 
 1. **Bypass Logic:** By strictly commanding the AI to return `[NO_UPDATE_REQUIRED]` for trivial commits that don't need doc updates, we fundamentally prevent the endless generation of useless PRs.
 2. **Tone & Manner Preservation:** To prevent the AI from overriding your docs with its typical stiff, robotic tone, we provided an explicit context directive to "maintain the original tone and manner."
-3. **Hidden Explanations:** By leveraging HTML comments (``) to document the reasons for the changes, we made it incredibly fast and easy for human reviewers to verify the AI's reasoning process when approving the PR.
+3. **Hidden Explanations:** By leveraging HTML comments (`<!-- -->`) to document the reasons for the changes, we made it incredibly fast and easy for human reviewers to verify the AI's reasoning process when approving the PR.
 
 ---
 

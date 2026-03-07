@@ -3,10 +3,10 @@ title: " \"Gemini 3 Pro로 10분 만에 나만의 AI 에이전트 만들기\""
 date: "2026-02-16"
 author: "OpenClaw Factory"
 tags: ["AI Agent", "Gemini 3", "Python", "Automation"]
-description: " \"A comprehensive guide to building your own AI agent with Gemini 3 Pro in just 10 minutes. From crafting the perfect system prompt to implementing the Python code, we cover everything beginners need to know.\""
+description: "Build an AI agent with Gemini 3 Pro in just 10 minutes. Master system prompts and Python implementation with this beginner-friendly, step-by-step guide."
 ---
 
-# 🤖 Build Your Own AI Agent in 10 Minutes with Gemini 3 Pro
+## 🤖 Build Your Own AI Agent in 10 Minutes with Gemini 3 Pro
 
 - **🎯 Target Audience:** Developers looking to automate repetitive tasks, Product Managers wanting a personal AI assistant
 - **⏱️ Time Required:** 10 minutes
@@ -27,7 +27,7 @@ In this guide, we will use Python and Gemini 3 Pro to build a powerful **'Resear
 ## ⚡️ TL;DR (3-Line Summary)
 
 1. **Gemini 3 Pro's Reasoning:** Its exceptional contextual understanding makes it the perfect "brain" for an autonomous agent.
-2. **Function Calling:** Empowers the AI to independently decide when and how to use external tools (like web search or internal APIs).
+2. **Function Calling:** Empowers the AI to independently decide when and how to use external tools (like web searches or internal APIs).
 3. **The Perfect System Prompt:** The crucial key that controls your agent's autonomy, boundaries, and overall behavior.
 
 ---
@@ -42,7 +42,6 @@ Use this for quick tests and lightweight searches.
 
 > **Role:** You are a `[Research Agent]`.
 > **Task:** Conduct a web search regarding the `[User Query]` and summarize the results strictly based on factual data.
-
 
 ### 🥇 Pro Version
 

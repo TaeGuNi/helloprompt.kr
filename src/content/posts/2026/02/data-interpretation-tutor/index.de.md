@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Mathe/Wissenschaft"
-description: "Ein Prompt, der blitzschnell essenzielle Erkenntnisse aus komplexen Diagrammen extrahiert und versteckte statistische Fallen zielsicher aufdeckt."
+description: "Ein Prompt, der essenzielle Erkenntnisse aus komplexen Diagrammen extrahiert und versteckte statistische Fallen zielsicher aufdeckt."
 tags: ["Datenanalyse", "Statistik", "Grafikinterpretation", "Produktivität"]
 ---
 
-# 📝 Tabellen und Grafiken sprechen: Dateninterpretations-Tutor
+## 📝 Tabellen und Grafiken sprechen: Dateninterpretations-Tutor
 
 - **🎯 Empfohlene Zielgruppe:** Marketer, Analysten, Berufseinsteiger
 - **⏱️ Zeitersparnis:** Von 30 Minuten auf 1 Minute
@@ -74,9 +74,9 @@ Für fundierte Reportings und tiefgreifende Analysen nutzen Sie diese detaillier
 
 ## 💡 Autorenkommentar (Writer's Insight)
 
-Dieser Prompt ist ein absoluter Lebensretter, wenn Sie kurz vor einem entscheidenden Meeting stehen und unter massivem Druck in Rekordzeit einen komplexen Bericht auswerten müssen. Im hektischen Arbeitsalltag neigen wir leider viel zu oft dazu, Diagramme nur oberflächlich zu überfliegen und das Gesehene unhinterfragt als Fakt zu akzeptieren. 
+Dieser Prompt ist ein **absoluter Lebensretter**, wenn Sie kurz vor einem entscheidenden Meeting stehen und unter massivem Druck in Rekordzeit einen komplexen Bericht auswerten müssen. Im hektischen Arbeitsalltag neigen wir leider viel zu oft dazu, Diagramme nur oberflächlich zu überfliegen und das Gesehene unhinterfragt als Fakt zu akzeptieren. 
 
-Genau hier setzt der Prompt an: Die KI übersetzt nicht nur nackte Zahlen in verständliche Sätze, sondern zwingt uns durch die gezielte „Fallenwarnung“ geradezu dazu, kritisch zu prüfen, ob die Daten eventuell manipulativ aufbereitet wurden – ein absoluter Klassiker in modernen Business-Präsentationen, um Schwächen zu kaschieren! Insbesondere der Parameter „Kritische Frage“ wappnet Sie zudem perfekt für unangenehme und bohrende Nachfragen aus dem Management. Sie antizipieren die Schwachstellen der Argumentation, noch bevor die Frage überhaupt gestellt wurde.
+Genau hier setzt der Prompt an: Die KI übersetzt nicht nur nackte Zahlen in verständliche Sätze, sondern zwingt uns durch die gezielte **„Fallenwarnung“** geradezu dazu, kritisch zu prüfen, ob die Daten eventuell **manipulativ aufbereitet** wurden – ein absoluter Klassiker in modernen Business-Präsentationen, um Schwächen zu kaschieren! Insbesondere der Parameter **„Kritische Frage“** wappnet Sie zudem perfekt für unangenehme und bohrende Nachfragen aus dem Management. Sie antizipieren die Schwachstellen der Argumentation, noch bevor die Frage überhaupt gestellt wurde.
 
 ---
 

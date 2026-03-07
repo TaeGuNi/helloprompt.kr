@@ -5,11 +5,11 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Development
-description: "Analyze spaghetti code and identify clear refactoring opportunities with this AI prompt. Untangle complex logic to make your codebase simple, readable, and effortlessly maintainable."
+description: "Untangle spaghetti code and uncover clear refactoring opportunities with this AI prompt. Make your codebase simple, readable, and effortlessly maintainable."
 tags: [AI, Refactoring, Clean Code, Development]
 ---
 
-# 🍝 No More Spaghetti Code! AI Code Complexity Analyzer
+## 🍝 No More Spaghetti Code! AI Code Complexity Analyzer
 
 - **🎯 Target Audience:** Junior developers, maintainers inheriting legacy code, and code reviewers
 - **⏱️ Time Saved:** 1 hour → 3 minutes
@@ -21,9 +21,9 @@ tags: [AI, Refactoring, Clean Code, Development]
 
 > _"Have you ever stared in despair at a ticking time bomb of a codebase—a `for` loop inside an `if` statement, violently nested inside yet another `if` statement?"_
 
-In the trenches of software engineering, colliding with a sprawling mass of tangled "spaghetti code" is practically a universal rite of passage. As product features inevitably pile up and desperate late-night hotfixes are forcefully merged, codebases mutate. Functions bloat beyond recognition, and cyclomatic complexity skyrockets right through the roof. Confronting this kind of deeply nested, convoluted architecture isn't just a frustrating nightmare for human readability—it renders side effects dangerously unpredictable. Suddenly, executing routine maintenance or shipping a minor feature update transforms into a high-stakes, anxiety-inducing guessing game where one wrong move could bring down the entire production environment. 
+In the trenches of software engineering, colliding with a sprawling mass of tangled spaghetti code is practically a universal rite of passage. As product features inevitably pile up and desperate late-night hotfixes are forcefully merged, codebases mutate. Functions bloat beyond recognition, and cyclomatic complexity skyrockets. Confronting this kind of deeply nested, convoluted architecture isn't just a nightmare for human readability—it renders side effects dangerously unpredictable. Suddenly, executing routine maintenance or shipping a minor feature update transforms into a high-stakes guessing game where one wrong move could bring down the entire production environment.
 
-When you are paralyzed by a chaotic codebase and unsure of exactly where to begin untangling the mess, it is time to let AI step in as your dedicated, senior-level code analyzer. Instead of relying on gut feelings, this workflow forces the AI to systematically diagnose underlying structural flaws using purely objective engineering metrics. It bypasses the noise and immediately hands you concrete, highly actionable refactoring strategies rooted in battle-tested design patterns and strict clean code principles. By methodically breaking down monolithic functions and flattening nested conditionals, you are empowered to rapidly transform fragile legacy code into elegant, robust, and highly maintainable software.
+When you're paralyzed by a chaotic codebase and unsure of where to begin untangling the mess, it's time to let AI step in as your dedicated, senior-level code analyzer. Instead of relying on gut feelings, this workflow forces the AI to systematically diagnose underlying structural flaws using purely objective engineering metrics. It bypasses the noise and immediately hands you concrete, actionable refactoring strategies rooted in battle-tested design patterns and strict clean code principles. By methodically breaking down monolithic functions and flattening nested conditionals, you are empowered to rapidly transform fragile legacy code into elegant, robust, and highly maintainable software.
 
 ---
 
@@ -42,49 +42,46 @@ When you are paralyzed by a chaotic codebase and unsure of exactly where to begi
 Use this prompt when you need a rapid, high-level assessment of code issues.
 
 > **Role:** You are a `[Senior Backend Developer]`.
+> 
 > **Task:** Analyze the complexity of the code below and point out 3 specific refactoring strategies to radically improve its structure.
->
->
-> [Paste your code here]
->
+> 
+> `[Paste your code here]`
 
 ### 🥇 Pro Version
 
 Use this advanced prompt for precise, metric-driven analysis and the strategic application of specific design patterns.
 
 > **Role:** You are a `[10-Year Senior Software Engineer]` who is an absolute expert in Clean Architecture.
->
+> 
 > **Context:**
->
+> 
 > - Background: I am currently refactoring complex legacy code written in `[Language/Framework, e.g., TypeScript/NestJS]`.
 > - Goal: To drastically lower the cyclomatic complexity while maximizing readability and long-term maintainability.
->
+> 
 > **Task:**
->
+> 
 > 1. **Complexity Diagnosis:** Strictly evaluate the Cyclomatic Complexity and Cognitive Complexity of the provided code. Pinpoint the exact root causes of the structural mess (e.g., deep nesting, severe violations of the Single Responsibility Principle).
 > 2. **Refactoring Strategy:** Propose highly specific refactoring techniques such as Guard Clauses (Early Returns), Extract Method, or the implementation of Polymorphism.
 > 3. **Improved Code:** Directly apply the proposed strategies to write the improved code. The internal structure must be fundamentally enhanced while keeping the existing external business logic 100% identical.
->
+> 
 > **Code:**
->
->
-> [Paste the code to refactor here]
->
->
+> 
+> `[Paste the code to refactor here]`
+> 
 > **Constraints:**
->
+> 
 > - Add brief, highly insightful inline comments for each structural change made in the improved code.
 > - Explain the applied changes in a friendly, step-by-step manner so that a junior developer can effortlessly understand the rationale.
->
+> 
 > **Warning:**
->
+> 
 > - The original business logic (including return values, edge cases, and side effects) MUST NOT be altered under any circumstances whatsoever.
 
 ---
 
 ## 💡 Writer's Insight
 
-This is my absolute go-to prompt whenever I am forced to untangle a catastrophic web of legacy code—whether it was hastily written by a departed colleague or lazily authored by my past self. Rather than just blindly minifying the snippet or randomly changing variable names, the AI provides rock-solid architectural reasoning. It explicitly points out critical anti-patterns, such as noting that a conditional block has a depth of four and mathematically proving why it should be flattened using Guard Clauses.
+This is my absolute go-to prompt whenever I'm forced to untangle a catastrophic web of legacy code—whether it was hastily written by a departed colleague or lazily authored by my past self. Rather than just blindly minifying the snippet or randomly changing variable names, the AI provides rock-solid architectural reasoning. It explicitly points out critical anti-patterns, noting when a conditional block has a depth of four and mathematically proving why it should be flattened using Guard Clauses.
 
 Beyond mere refactoring, it serves as an incredible, unbiased auditing tool for your own logic before putting it up for peer review. Running your latest commits through this prompt right before opening a Pull Request (PR) dramatically boosts your code quality, virtually guaranteeing a frictionless and immediate "LGTM!" from your senior engineering team.
 
@@ -93,7 +90,7 @@ Beyond mere refactoring, it serves as an incredible, unbiased auditing tool for 
 ## 🙋 Frequently Asked Questions (FAQ)
 
 - **Q: Can I just dump an entire file into the prompt for analysis?**
-  - A: This is highly discouraged. Large Language Models (LLMs) easily lose focus or violently crash into context window limits when overwhelmed. Instead of feeding it a monolithic 500-line file, surgically isolate specific functions or single classes (ideally keeping it around 50–150 lines). By narrowing the scope, you will receive significantly sharper, far more accurate, and entirely hallucination-free refactoring insights.
+  - A: This is highly discouraged. Large Language Models (LLMs) easily lose focus or violently crash into context window limits when overwhelmed. Instead of feeding it a monolithic 500-line file, surgically isolate specific functions or single classes (ideally keeping it around 50–150 lines). By narrowing the scope, you'll receive significantly sharper, far more accurate, and entirely hallucination-free refactoring insights.
 
 - **Q: Is it safe to push the AI-refactored code straight to production?**
   - A: Never blindly copy and paste AI-generated code! While AI is brilliant at structural formatting, it can occasionally overlook subtle, undocumented edge cases in your proprietary business logic or introduce slight hallucinations. **You must absolutely ensure that the refactored code passes your existing automated Unit Tests** before ever considering a merge into the main branch.

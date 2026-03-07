@@ -5,13 +5,13 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Empleo y Carrera"
-description: "Si sueles perder el hilo durante las entrevistas, este prompt organiza tus experiencias utilizando el método STAR (Situación, Tarea, Acción, Resultado) para generar respuestas claras, concisas y sumamente persuasivas."
+description: "Si pierdes el hilo en las entrevistas, este prompt organiza tus experiencias con el método STAR para generar respuestas claras, concisas y persuasivas."
 tags: ["MetodoSTAR", "EntrevistaLaboral", "Estructuracion", "ComunicacionEfectiva"]
 ---
 
-# 📝 ¡Cuando tus respuestas en entrevistas divagan! Prompt para estructurarlas con el método STAR
+## 📝 ¡Cuando tus respuestas en entrevistas divagan! Prompt para estructurarlas con el método STAR
 
-- **🎯 Recomendado para:** Candidatos, profesionales en transición laboral y cualquier persona preparándose para una entrevista.
+- **🎯 Recomendado para:** Candidatos, profesionales en transición laboral y cualquier persona que se prepare para una entrevista.
 - **⏱️ Tiempo requerido:** 5 minutos
 - **🤖 Modelo recomendado:** Cualquier IA conversacional (ChatGPT, Claude, Gemini, etc.)
 
@@ -19,9 +19,9 @@ tags: ["MetodoSTAR", "EntrevistaLaboral", "Estructuracion", "ComunicacionEfectiv
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidad:** ⭐⭐⭐⭐☆
 
-> _"¿Sientes que te esfuerzas al máximo explicando, pero el rostro del entrevistador solo refleja confusión y aburrimiento?"_
+> _"¿Sientes que te esfuerzas al máximo al explicar algo, pero el rostro del entrevistador solo refleja confusión y aburrimiento?"_
 
-El principal motivo de rechazo en las entrevistas es la **falta de coherencia y enfoque**. Puedes pasar tres minutos relatando apasionadamente una anécdota y terminar sin dejar claro cuál fue tu verdadera contribución. Ha llegado el momento de construir el esqueleto de tus respuestas con una herramienta infalible y versátil: **el método STAR**.
+El principal motivo de rechazo en las entrevistas es la **falta de coherencia y enfoque**. Puedes pasar tres minutos relatando con pasión una anécdota y terminar sin dejar claro cuál fue tu verdadera contribución. Ha llegado el momento de construir el esqueleto de tus respuestas con una herramienta infalible y versátil: **el método STAR**.
 
 ---
 
@@ -37,7 +37,7 @@ El principal motivo de rechazo en las entrevistas es la **falta de coherencia y 
 
 ### 🥉 Versión Básica (Basic Version)
 
-Úsala cuando necesites un resultado rápido y al grano.
+Úsala cuando necesites un resultado rápido y directo al grano.
 
 > **Rol:** Eres un experto coach de comunicación y consultor de entrevistas laborales.
 > **Solicitud:** Para evitar que divague, estructura mi siguiente experiencia laboral utilizando el método STAR (Situación, Tarea, Acción, Resultado) de modo que mi respuesta sea clara, directa y concisa.
@@ -78,14 +78,14 @@ El principal motivo de rechazo en las entrevistas es la **falta de coherencia y 
 
 ## 💡 Comentario del Autor (Insight)
 
-El método STAR es un estándar indiscutible de la industria, pero bajo la inmensa presión de una entrevista real, es sumamente fácil perder el hilo conductor y enfocarse en exceso en el contexto (la Situación) en lugar de destacar nuestras aportaciones tangibles (la Acción). Este prompt actúa como un filtro implacable que elimina el "ruido" innecesario de tu historia y potencia tu verdadero valor profesional. Resulta especialmente letal para las entrevistas conductuales o de adecuación cultural (_culture fit_), donde los reclutadores buscan evidencias concretas de tu capacidad para resolver problemas. Mi mayor consejo es que utilices este prompt para pulir tus 3 o 4 anécdotas más versátiles antes del gran día.
+El método STAR es un estándar indiscutible en la industria, pero bajo la inmensa presión de una entrevista real, es sumamente fácil perder el hilo conductor y enfocarse en exceso en el contexto (la Situación) en lugar de destacar nuestras aportaciones tangibles (la Acción). Este prompt actúa como un filtro implacable que elimina el "ruido" innecesario de tu historia y potencia tu verdadero valor profesional. Resulta especialmente letal para las entrevistas conductuales o de adecuación cultural (_culture fit_), donde los reclutadores buscan evidencias concretas de tu capacidad para resolver problemas. Mi mayor consejo es que utilices este prompt para pulir tus 3 o 4 anécdotas más versátiles antes del gran día.
 
 ---
 
 ## 🙋 Preguntas Frecuentes (FAQ)
 
 - **Q: ¿Puedo usar este prompt para entrevistas altamente técnicas?**
-  - A: ¡Absolutamente! Solo asegúrate de incluir los detalles técnicos específicos (lenguajes de programación, herramientas clave, arquitectura de software) en la sección de "Mi Experiencia". La IA se encargará de organizar esos datos técnicos complejos dentro de la estructura STAR para que tu explicación siga siendo lógica, accesible y fácil de seguir para cualquier perfil.
+  - A: ¡Absolutamente! Solo asegúrate de incluir los detalles técnicos específicos (lenguajes de programación, herramientas clave, arquitectura de software) en la sección de "Mi Experiencia". La IA se encargará de organizar esos datos complejos dentro de la estructura STAR para que tu explicación siga siendo lógica, accesible y fácil de seguir para cualquier perfil.
 
 - **Q: ¿Qué pasa si mi historia no tiene un "Resultado" exitoso o métricas numéricas claras?**
   - A: Los fracasos documentados son excelentes oportunidades de aprendizaje. Si el proyecto falló o careces de números exactos, simplemente pídele a la IA que enfoque el "Resultado" en lo que aprendiste de la experiencia (_Lessons Learned_) y en cómo aplicaste activamente ese nuevo conocimiento para mejorar y evitar errores en situaciones futuras.
@@ -95,7 +95,7 @@ El método STAR es un estándar indiscutible de la industria, pero bajo la inmen
 ## 🧬 Anatomía del prompt (Why it works?)
 
 1. **Enfoque radical en la Acción (Action-Centric):** Al obligar a la IA a dedicar más del 50% del guion a la 'Acción', evitamos el error crítico y común de perder valiosos segundos explicando el problema de fondo en lugar de destacar nuestras habilidades resolutivas.
-2. **Control estricto de longitud:** Limitar el tiempo de respuesta a la ventana de "40 segundos - 1 minuto" asegura que mantengas la atención total del entrevistador sin llegar a aburrirlo ni parecer un candidato desorganizado.
+2. **Control estricto de longitud:** Limitar el tiempo de respuesta a la ventana de "40 segundos a 1 minuto" asegura que mantengas la atención total del entrevistador sin llegar a aburrirlo ni parecer un candidato desorganizado.
 3. **Tono puramente conversacional:** Transforma una estructura mental rígida en un discurso fluido, profesional y natural que jamás sonará robótico ni memorizado a la fuerza.
 
 ---

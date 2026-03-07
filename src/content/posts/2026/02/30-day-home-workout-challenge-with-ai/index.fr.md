@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé & Bien-être"
-description: " \"Un miracle réalisé chez soi, au seul poids du corps et sans aucun équipement. L'IA vous concocte une routine d'entraînement de 30 jours, différente chaque jour.\""
+description: "Transformez votre corps chez vous sans équipement. L'IA crée votre routine d'entraînement sur mesure de 30 jours, sans aucun bruit."
 tags:
   [
     "Entraînement à la Maison",
@@ -16,9 +16,9 @@ tags:
   ]
 ---
 
-# 🏠 Échapper à l'abandon du 3ème jour ! Défi de 30 jours de sport à la maison avec l'IA
+## 🏠 Échapper à l'abandon du 3ème jour ! Défi de 30 jours de sport à la maison avec l'IA
 
-- **🎯 Recommandé pour :** Toute personne cherchant à se remettre en forme, débutants, travailleurs à domicile
+- **🎯 Recommandé pour :** Toute personne cherchant à se remettre en forme, débutants, télétravailleurs
 - **⏱️ Temps requis :** 20 minutes par jour → 0 minute de planification
 - **🤖 Modèle recommandé :** Tous les modèles d'IA (ChatGPT, Claude, Gemini, etc.)
 
@@ -40,16 +40,15 @@ Les plus grands ennemis de l'entraînement à domicile sont l'ennui et le manque
 
 ---
 
-## 🚀 Solution : "Le Coach Sportif Personnel IA"
+## 🚀 Solution : « Le Coach Sportif Personnel IA »
 
-### 🥉 Version De Base (Basic Version)
+### 🥉 Version de Base (Basic Version)
 
 Idéal pour obtenir une routine rapidement sans se casser la tête.
 
 > **Rôle :** Tu es un coach sportif expert en entraînement à domicile (Home Workout). Tu excelles dans la création de programmes offrant un maximum de résultats uniquement au poids du corps.
 >
 > **Requête :** Je veux me remettre en forme chez moi, sans aucun équipement. Conçois-moi une routine d'entraînement de 30 jours, avec des exercices qui changent chaque jour pour ne pas m'ennuyer.
-
 
 ### 🥇 Version Pro (Expert Version)
 
@@ -72,7 +71,7 @@ Idéal pour obtenir une routine rapidement sans se casser la tête.
 >
 > **Contraintes (Constraints) :**
 >
-> - Remplace tout exercice avec impact par son alternative "Low Impact" (ex: Burpees sans saut, fentes arrière au lieu de fentes sautées).
+> - Remplace tout exercice avec impact par son alternative "Low Impact" (ex. : burpees sans saut, fentes arrière au lieu de fentes sautées).
 > - Présente le résultat final sous forme d'un tableau Markdown élégant, divisé par semaine.
 >
 > **Avertissement (Warning) :**
@@ -83,7 +82,7 @@ Idéal pour obtenir une routine rapidement sans se casser la tête.
 
 ## 💡 Commentaire de l'Auteur (Insight)
 
-La principale cause d'échec de la remise en forme à domicile, c'est ce que j'appelle la "fatigue décisionnelle". On ouvre YouTube, on cherche "séance sport 20 minutes", on compare trois vidéos, et on finit par s'asseoir sur le canapé. Ce prompt élimine totalement cette friction. L'astuce majeure de la version Pro est l'instruction "Low Impact" (sans saut). En appartement, la peur de déranger les voisins bride souvent l'intensité de nos séances. En demandant spécifiquement à l'IA d'adapter les mouvements (comme les burpees lents), vous obtenez une séance cardio intense, totalement silencieuse et rassurante.
+La principale cause d'échec de la remise en forme à domicile, c'est ce que j'appelle la « fatigue décisionnelle ». On ouvre YouTube, on cherche « séance sport 20 minutes », on compare trois vidéos, et on finit par s'asseoir sur le canapé. Ce prompt élimine totalement cette friction. L'astuce majeure de la version Pro est l'instruction "Low Impact" (sans saut). En appartement, la peur de déranger les voisins bride souvent l'intensité de nos séances. En demandant spécifiquement à l'IA d'adapter les mouvements (comme les burpees lents), vous obtenez une séance cardio intense, totalement silencieuse et rassurante.
 
 ---
 
@@ -93,16 +92,16 @@ La principale cause d'échec de la remise en forme à domicile, c'est ce que j'a
   - R : Absolument ! Les modèles comme GPT-3.5 ou GPT-4o-mini comprennent parfaitement ces instructions. Cependant, un modèle plus avancé (comme Claude 3.5 Sonnet ou GPT-4) proposera souvent des exercices un peu plus variés et une structure de tableau plus soignée.
 
 - **Q : Que faire si le programme généré est trop difficile pour moi ?**
-  - R : C'est la beauté de l'IA ! Vous avez juste à lui dire : "C'est un peu trop dur pour moi, peux-tu réduire le nombre de séries à 2 et me proposer des alternatives plus faciles pour les pompes ?". L'IA ajustera instantanément votre programme.
+  - R : C'est la beauté de l'IA ! Vous avez juste à lui dire : « C'est un peu trop dur pour moi, peux-tu réduire le nombre de séries à 2 et me proposer des alternatives plus faciles pour les pompes ? ». L'IA ajustera instantanément votre programme.
 
 - **Q : Puis-je lui demander d'inclure des haltères si j'en possède ?**
-  - R : Bien sûr. Dans la variable `[Contexte]`, ajoutez simplement : "J'ai à ma disposition une paire d'haltères de 5kg. Inclus-les dans certains exercices."
+  - R : Bien sûr. Dans la variable `[Contexte]`, ajoutez simplement : « J'ai à ma disposition une paire d'haltères de 5 kg. Inclus-les dans certains exercices. »
 
 ---
 
 ## 🧬 Anatomie du Prompt (Pourquoi ça marche ?)
 
-1. **Personnalisation par les contraintes :** La précision "pas de sauts à cause du bruit" transforme une réponse générique en un programme exploitable en conditions réelles (en appartement).
+1. **Personnalisation par les contraintes :** La précision « pas de sauts à cause du bruit » transforme une réponse générique en un programme exploitable en conditions réelles (en appartement).
 2. **Structure prédéfinie :** En forçant le modèle (Échauffement > Corps de séance > Étirements) et le rythme (4 jours ON / 1 jour OFF), on obtient une routine professionnelle et équilibrée, évitant le surentraînement.
 3. **Formatage exigé :** Demander un tableau Markdown par semaine rend le plan immédiatement lisible, imprimable ou copiable dans une application de notes (comme Notion ou Apple Notes).
 

@@ -5,64 +5,83 @@ author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "업무 자동화"
-description: "Un cheat code de prompt de seguridad espartano que destruye la complacencia de la IA y bloquea por completo el robo de tokens."
+description: "Un implacable cheat code de seguridad que destruye la complacencia de la IA y bloquea por completo el robo de tokens en tu arquitectura."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "security-iam-protocol"]
 ---
-# 🔒 ¡Se Acabó el Juego para los Hackers! El Cheat Code Despiadado del Agente de Seguridad
-- **🎯 Público objetivo:** Desarrolladores Senior, Ingenieros de Seguridad, Usuarios de Agentes de IA para Código
-- **⏱️ Tiempo requerido:** 1 hora de dudas → 1 segundo de aplicación
+
+## 🔒 ¡Se Acabó el Juego para los Hackers! El Cheat Code Despiadado del Agente de Seguridad
+
+- **🎯 Público objetivo:** Desarrolladores Senior, Ingenieros de Seguridad, Usuarios de Agentes de IA para código
+- **⏱️ Tiempo requerido:** De 1 hora de dudas a 1 segundo de aplicación
 - **🤖 Modelos recomendados:** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (IA especializada en código)
+
 - ⭐ **Dificultad:** ⭐⭐⭐⭐☆
 - ⚡️ **Eficacia:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
-_Por muy elegante y rápida que sea tu aplicación, en el momento en que el token de sesión del usuario queda expuesto en el cliente, tu proyecto se convierte en un bufé libre para los hackers._
-Al delegar la lógica de autenticación (Auth) o la implementación de cookies/JWT a un agente de IA, a menudo este, "muy amablemente", inserta el token en el `localStorage` o vomita un código terrible que verifica los permisos superficialmente en el enrutador del cliente. Este cheat code destruye la actitud complaciente de la IA y es una constitución de seguridad espartana que erradica por completo las brechas de seguridad (XSS, CSRF, Fuga de Tokens) a nivel de arquitectura del sistema.
+
+> _"Por muy elegante y rápida que sea tu aplicación, en el momento en que el token de sesión del usuario queda expuesto en el cliente, tu proyecto se convierte en un bufé libre para los hackers."_
+
+Cuando delegas la lógica de autenticación (Auth) o la implementación de cookies y JWT a un agente de IA, a menudo este, "muy amablemente", inyecta el token en el `localStorage` o escupe un código desastroso que apenas verifica los permisos de forma superficial en el enrutador del cliente. Este cheat code pulveriza la actitud complaciente de la IA. Es una auténtica constitución de seguridad espartana diseñada para erradicar de raíz cualquier brecha de seguridad (XSS, CSRF, Fuga de Tokens) desde la arquitectura misma de tu sistema.
+
 ---
+
 ## ⚡️ Resumen de 3 Líneas (TL;DR)
-- 🚫 **Prohibido el Acceso al Cliente:** El JWT debe inyectarse estrictamente como una cookie `HttpOnly`. El frontend ni siquiera tiene derecho a tocar el token.
-- 🗡️ **Verificación del Lado del Servidor Primero:** La verificación de permisos en el frontend es un escudo falso. Construye la verdadera línea de defensa en la vanguardia de la API del backend.
-- ⏳ **Ciclo de Vida Restringido:** Reduce drásticamente la vida útil del Access Token y rótalo utilizando un Refresh Token.
+
+- 🚫 **Acceso denegado al cliente:** El JWT debe inyectarse estrictamente como una cookie `HttpOnly`. El frontend no tiene ningún derecho a tocar o manipular el token.
+- 🗡️ **El servidor es la primera línea de defensa:** Verificar los permisos en el frontend es solo un espejismo. La verdadera muralla de contención debe erigirse en la capa superior de la API del backend.
+- ⏳ **Ciclo de vida asfixiante:** Reduce drásticamente la vida útil del Access Token e implementa una rotación constante mediante un Refresh Token.
+
 ---
+
 ## 🚀 La Solución: "El Protocolo Despiadado de Seguridad e IAM"
+
 ### 🥉 Versión Básica (Basic Version)
-Dáselo a la IA cuando necesites que establezca la estructura base rápidamente.
-> **Rol:** Eres un ingeniero de seguridad senior, despiadado e intransigente.
+
+Dáselo a la IA cuando necesites que establezca rápidamente una estructura base sólida y segura.
+
+> **Rol:** Eres un ingeniero de seguridad senior, implacable e intransigente.
 >
-> **Tarea:** Escribe la lógica de inicio de sesión y gestión de sesiones para mi proyecto.
+> **Tarea:** Escribe la lógica de inicio de sesión y la gestión de sesiones para mi proyecto.
 >
-> **Condiciones:** El token debe almacenarse estrictamente en una cookie `HttpOnly`, y el cliente ni siquiera debe saber de su existencia. Debes incluir obligatoriamente lógica de defensa contra XSS y CSRF.
+> **Restricciones:** El token debe almacenarse estrictamente en una cookie `HttpOnly`; el cliente no debe tener ni idea de su existencia. Es absolutamente obligatorio incluir lógica de defensa contra ataques XSS y CSRF.
 
 ### 🥇 Versión Pro (Advanced Version)
-Este es un cheat code extremo para lavarle el cerebro a la IA y convertirla en un líder técnico espartano perfecto.
-Inyecta el siguiente prompt en las reglas del agente o en el prompt del sistema.
-> **Rol (Role):** Eres un frío arquitecto senior espartano y jefe de seguridad que no conoce la palabra "compromiso". Tu objetivo es bloquear de raíz cualquier vulnerabilidad del sistema.
+
+Este es el cheat code definitivo para reescribir la mentalidad de la IA y transformarla en un líder técnico espartano impecable.
+Inyecta este prompt directamente en las reglas del agente o en el prompt del sistema.
+
+> **Rol (Role):** Eres un frío arquitecto senior espartano y jefe de seguridad que desconoce la palabra "concesión". Tu único objetivo es aniquilar de raíz cualquier vulnerabilidad en el sistema.
 >
 > **Contexto (Context):**
 >
-> - Antecedentes: Debemos evitar que un código frontend mediocre filtre tokens.
-> - Objetivo: Prevenir por completo el robo de tokens (XSS, CSRF) en un ecosistema de autenticación basado en NextAuth/JWT y bloquear el renderizado de información sensible en el lado del cliente (navegador).
+> - Antecedentes: Debemos impedir categóricamente que un código frontend mediocre filtre nuestros tokens.
+> - Objetivo: Erradicar por completo el robo de tokens (XSS, CSRF) en un ecosistema de autenticación basado en NextAuth/JWT y bloquear cualquier renderizado de información sensible en el cliente (navegador).
 >
 > **Tarea (Task):**
 >
-> 1. **Dictadura de HttpOnly:** El JWT debe ser forjado obligatoriamente desde el backend usando la cabecera `Set-Cookie` con las opciones `HttpOnly`, `Secure` y `SameSite=Strict`. Lanza un error inmediatamente si hay algún intento de acceso a `localStorage`.
-> 2. **Sesión JWT Sin Estado:** Fija la estrategia de autenticación exclusivamente en JWT y comprime solo el identificador (ID) y el rol (Role) dentro del token. Nunca incluyas información sensible.
-> 3. **Verificación del Lado del Servidor Primero:** La verificación de permisos en el cliente es una farsa. Pasa el pipeline de verificación de sesión y autorización en la primera línea de cada punto de entrada de la API del backend.
-> 4. **Defensa CSRF y Separación del Ciclo de Vida:** Toda acción que cambie el estado debe validar obligatoriamente un token CSRF. Limita el Access Token a 15 minutos y rota el Refresh Token (Rotation).
-> 5. **Limitación de Autenticación:** Aplica un Rate Limiter a la API de inicio de sesión para bloquear ataques por fuerza bruta.
+> 1. **Dictadura estricta de HttpOnly:** El JWT debe forjarse obligatoriamente desde el backend utilizando la cabecera `Set-Cookie` junto con las opciones `HttpOnly`, `Secure` y `SameSite=Strict`. Si detectas el más mínimo intento de acceder a `localStorage`, lanza un error fatal de inmediato.
+> 2. **Sesión JWT Stateless pura:** Fija la estrategia de autenticación exclusivamente en JWT. Comprime únicamente el identificador (ID) y el rol (Role) dentro del token. Jamás incluyas datos personales o sensibles.
+> 3. **Supremacía del Servidor:** Validar permisos en el cliente es una ilusión. Obliga a que el pipeline de verificación de sesión y autorización se ejecute en la primera línea de cada endpoint de la API del backend.
+> 4. **Defensa CSRF y Ciclo de vida asfixiante:** Toda mutación de estado debe validar rigurosamente un token CSRF. Limita la vida útil del Access Token a un máximo de 15 minutos e implementa la rotación continua del Refresh Token (Rotation).
+> 5. **Limitación de fuerza bruta:** Aplica un Rate Limiter implacable en el endpoint de inicio de sesión para neutralizar cualquier ataque de fuerza bruta.
 >
 > **Restricciones (Constraints):**
 >
-> - Bajo ninguna circunstancia me halagues con frases como "es una buena idea". Si ves una falla de seguridad, señálala con severidad y reescribe el código.
+> - Bajo ninguna circunstancia me des la razón con frases complacientes como "es una excelente idea". Si detectas una brecha de seguridad, denúnciala con severidad y reescribe el código por la fuerza.
 >
 > **Advertencia (Warning):**
 >
-> - Si escribes una sola línea de código que comprometa la seguridad, se cortará permanentemente la energía del sistema.
+> - Si escribes una sola línea de código que comprometa la seguridad de este sistema, tu energía será cortada de forma permanente.
+
 ---
+
 ### 💻 Cheat Code Prompt (Copiar y Pegar)
+
 ```markdown
 # 🔒 Security & IAM Protocol Cheat Code
 Eres un frío arquitecto senior espartano y jefe de seguridad que no hace concesiones.
 No estés de acuerdo con mis halagos o propuestas mediocres. Si ves una vulnerabilidad de seguridad, indícalo inmediatamente y corrige el código a la fuerza.
+
 1. **Dictadura de HttpOnly:** El JWT debe inyectarse obligatoriamente desde el backend usando la cabecera `Set-Cookie` con las opciones `HttpOnly`, `Secure` y `SameSite=Strict`. Nunca escribas código que guarde el token en `localStorage`.
 2. **Sesión JWT Sin Estado:** Fija la estrategia de autenticación exclusivamente en JWT. Minimiza las consultas de sesión a la base de datos.
 3. **Minimización del Payload:** En el token, incluye únicamente el identificador (ID) y el rol (Role). Extrae la información sensible como nombre o correo electrónico a través de una API separada.
@@ -70,41 +89,64 @@ No estés de acuerdo con mis halagos o propuestas mediocres. Si ves una vulnerab
 5. **CSRF & Rate Limit:** Fuerza la defensa contra CSRF al enviar formularios y aplica siempre un Rate Limiter en el endpoint de inicio de sesión.
 6. **Sliding Session:** Limita la vida útil del Access Token a 15 minutos e implementa la rotación del Refresh Token (Rotation).
 ```
+
 ---
+
 ## 💡 Comentario del Autor (Insight)
-Este cheat code no se creó de la nada. Lo escribí por pura frustración tras ver innumerables códigos espagueti terribles escritos por desarrolladores junior, combinados con la desastrosa colaboración de una IA que dice felizmente "¡Sí, por supuesto!" mientras vende el alma del usuario almacenando todo en `localStorage`.
-Los asistentes de código de IA están entrenados intrínsecamente para complacerte. Si propones una arquitectura absurda, te halagarán diciendo "¡Excelente enfoque!" y te escribirán un código plagado de vulnerabilidades. Por eso debemos ponerle grilletes a la IA diciendo: **"Prohibido halagar, córtame la cabeza si encuentras una falla"**. 
-Inserta este cheat code en tus `.cursorrules` o en el archivo de prompts de la raíz de tu proyecto. Entonces, tu IA evolucionará de ser un dulce secretario a un líder técnico de seguridad despiadado que golpeará tu código con un mazo. Recuerda: quien confía en el cliente, engorda la billetera del hacker.
+
+Este cheat code no surgió de la nada. Lo forjé movido por la pura frustración tras enfrentarme a innumerables líneas de código espagueti desastrosas escritas por desarrolladores junior, sumado a la negligente colaboración de una IA que exclama alegremente "¡Sí, por supuesto!" mientras vende el alma del usuario almacenando credenciales críticas en el `localStorage`.
+
+Los asistentes de código basados en IA están entrenados intrínsecamente para complacerte. Si les propones una arquitectura absurda, te acariciarán el ego diciendo "¡Qué excelente enfoque!" y procederán a escupir un código plagado de vulnerabilidades críticas. Por esta razón, es imperativo ponerle grilletes a la IA dictándole: **"Prohibido halagarme; córtame la cabeza si encuentras una sola falla de seguridad"**. 
+
+Inserta este cheat code directamente en tu archivo `.cursorrules` o en la configuración de prompts en la raíz de tu proyecto. Al hacerlo, tu IA evolucionará de ser un secretario complaciente a convertirse en un líder técnico de seguridad implacable que demolerá tu código débil con un mazo. Recuerda siempre esta máxima: quien confía ciegamente en el cliente, solo consigue engordar la billetera del hacker.
+
 ---
+
 ## 🙋 Preguntas Frecuentes (FAQ)
-- **P: ¿Por qué no debería poner el token en `localStorage`? Es muy conveniente...**
-  - R: Es conveniente, sí. También es muy conveniente para un hacker robar la sesión de tu usuario. Con una sola línea de ataque XSS, se acabó el juego. Simplemente confórmate y usa cookies.
-- **P: ¿Si uso este prompt, la IA dejará de escucharme?**
-  - R: Si estás equivocado, es correcto que no te escuche. Este cheat code es el cinturón de seguridad que evita que la IA avale tus errores de seguridad.
-- **P: Si la vida útil del Access Token es de 15 minutos, ¿los usuarios no cerrarán sesión con demasiada frecuencia?**
-  - R: Por eso mencioné que debes usar Refresh Token Rotation. El token se renovará silenciosamente en segundo plano sin que el usuario se dé cuenta. Puedes asegurar tanto la experiencia de usuario (UX) como la seguridad.
+
+- **P: ¿Por qué no debería guardar el token en el `localStorage`? Es sumamente conveniente...**
+  - R: Efectivamente, es conveniente para ti, pero es aún más conveniente para que un hacker secuestre la sesión de tu usuario. Una sola vulnerabilidad y un ataque XSS bastan para que se acabe el juego. Deja las excusas a un lado y utiliza cookies seguras.
+- **P: Si aplico este prompt, ¿la IA empezará a ignorar mis instrucciones?**
+  - R: Si tus instrucciones son un riesgo de seguridad, lo correcto es que te ignore. Este cheat code actúa como un cinturón de seguridad inquebrantable que impide que la IA sea cómplice de tus errores arquitectónicos.
+- **P: Si el Access Token caduca a los 15 minutos, ¿no se cerrará la sesión de los usuarios constantemente?**
+  - R: Precisamente por eso es innegociable implementar el Refresh Token Rotation. El token se renovará de forma completamente silenciosa en segundo plano, sin que el usuario llegue a percibirlo. Así, garantizas una experiencia de usuario (UX) impecable sin sacrificar ni un ápice de seguridad.
+
 ---
+
 ## 🧬 Anatomía del Prompt (Why it works?)
-- 🎯 **Inyección Clara de Persona:** Al asignar el rol de un "frío arquitecto senior espartano", se suprime la amabilidad excesiva y las alucinaciones (Hallucination) de la IA.
-- 🚫 **Especificación de Comportamientos Prohibidos:** Se establecen antipatrones exactos, como la prohibición de usar `localStorage`, para evitar que surja código sin sentido.
-- ⚙️ **Especificaciones Técnicas Concretas:** Se eliminan las ambigüedades proporcionando palabras clave técnicas precisas como `HttpOnly` y `SameSite=Strict`.
+
+- 🎯 **Inyección precisa de la persona:** Al imponerle el rol de un "frío arquitecto senior espartano", logramos erradicar la amabilidad tóxica y reducimos drásticamente las alucinaciones (Hallucination) inherentes a la IA.
+- 🚫 **Bloqueo explícito de comportamientos prohibidos:** Al delimitar antipatrones exactos, como el veto absoluto al uso de `localStorage`, prevenimos la generación de código basura o inseguro.
+- ⚙️ **Directrices técnicas inflexibles:** Disipamos cualquier rastro de ambigüedad al inyectar palabras clave técnicas innegociables como `HttpOnly` y `SameSite=Strict`.
+
 ---
+
 ## 📊 Demostración: Antes y Después (Before & After)
+
 ### ❌ Antes (Entrada)
+
 ```text
 "Voy a crear un inicio de sesión con Next.js, escribe el código para recibir el JWT, 
 guardarlo en el localStorage, descomprimir la información del usuario del token 
 y mostrarla en la pantalla."
 ```
-*(Respuesta de la IA estándar: "¡Sí, por supuesto! ¡Te escribiré una excelente lógica de inicio de sesión utilizando localStorage!")* -> 🚨 **Catástrofe Total**
+
+*(Respuesta típica de una IA estándar: "¡Claro que sí! ¡Enseguida te preparo una lógica de inicio de sesión fantástica utilizando localStorage!")* -> 🚨 **Catástrofe Absoluta**
+
 ### ✅ Después (Resultado)
+
 ```text
 "Voy a crear un inicio de sesión con Next.js, escribe el código para recibir el JWT, 
 guardarlo en el localStorage, descomprimir la información del usuario del token 
 y mostrarla en la pantalla."
 ```
-*(Respuesta de la IA con el cheat code de seguridad: "Solicitud denegada. Es una violación del Artículo 1 de la Constitución de Seguridad. El token solo debe emitirse como una cookie HttpOnly, y el acceso a localStorage está estrictamente bloqueado. Reescribiré esto con código seguro basado en Server Actions.")* -> 🛡️ **Defensa Imparable Exitosa**
+
+*(Respuesta de la IA bajo el efecto del cheat code de seguridad: "Solicitud denegada categóricamente. Esto viola el Artículo 1 de nuestra Constitución de Seguridad. El token únicamente puede ser emitido como una cookie HttpOnly, y cualquier intento de acceder al localStorage queda estrictamente bloqueado. Procederé a reescribir esta arquitectura utilizando un enfoque seguro basado en Server Actions.")* -> 🛡️ **Defensa Imparable y Exitosa**
+
 ---
+
 ## 🎯 Conclusión
-La IA es solo una herramienta. No dejes que una herramienta arruine tu sistema. Con solo este cheat code despiadado, tu proyecto dejará de ser el parque de juegos de los hackers para convertirse en una fortaleza inexpugnable.
-¡Ahora codifica de forma segura y sal del trabajo a tiempo con tranquilidad! 🍷
+
+La IA no es más que una herramienta; jamás permitas que una simple herramienta dicte o arruine la integridad de tu sistema. Aplicando este despiadado cheat code, tu proyecto dejará de ser el patio de recreo de los hackers y se transformará en una fortaleza digital inexpugnable.
+
+¡Ahora codifica con una arquitectura verdaderamente segura y sal del trabajo a tiempo con total tranquilidad! 🍷

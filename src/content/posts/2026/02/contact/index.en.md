@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"문의하기 (Contact Us)\""
-description: "Have a burning question or a game-changing partnership proposal for the Hello Prompt team? Let's connect and make it happen."
+description: "Got a burning question or a game-changing partnership proposal for the Hello Prompt team? Let's connect and make it happen."
 date: "2026-02-09"
 ---
 
-# 📧 Contact Us
+## 📧 Contact Us
 
 - **🎯 Target Audience:** Marketers, business strategists, and partnership managers aiming to collaborate with Hello Prompt.
 - **⏱️ Time Saved:** 10 mins → 1 min
@@ -15,11 +15,11 @@ date: "2026-02-09"
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
 - 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-> _"How do you craft a partnership pitch that immediately grabs attention and guarantees a reply?"_
+> _"How do you craft a partnership pitch that instantly grabs attention and guarantees a reply?"_
 
-Thank you for using Hello Prompt!
+Thank you for using Hello Prompt! 
 Whether you’ve hit a technical snag, have a brilliant prompt idea you're dying to share, or simply want to drop by and say hello, our inbox is always open. 
-However, today we aren't just fielding standard inquiries. We’re handing you the ultimate **AI prompt for drafting high-converting partnership pitches and business proposals**. Why not test-drive this exact prompt by sending a proposal directly to us?
+But today, we aren't just fielding standard inquiries. We’re handing you the ultimate **AI prompt for drafting high-converting partnership pitches and business proposals**. Why not test-drive this exact prompt by sending a proposal directly to us?
 
 ---
 
@@ -64,7 +64,7 @@ Feed this directly to your AI of choice when you need a polished, high-impact bu
 
 ## 💡 Writer's Insight
 
-Even the most groundbreaking ideas will die in the inbox if your initial outreach is rambling or unfocused. Decision-makers are notoriously busy; you have mere seconds to capture their attention. This prompt is engineered to cut through the corporate noise, delivering a surgically precise email draft that explicitly highlights your core value proposition. Just sprinkle in a bit of your authentic brand voice before hitting send, and watch your response rates soar!
+Even the most groundbreaking ideas will die in the inbox if your initial outreach is rambling or unfocused. Decision-makers are notoriously busy—you only have a few seconds to capture their attention. This prompt is engineered to cut through the corporate noise, delivering a surgically precise email draft that explicitly highlights your core value proposition. Just sprinkle in a bit of your authentic brand voice before hitting send, and watch your response rates soar!
 
 ---
 

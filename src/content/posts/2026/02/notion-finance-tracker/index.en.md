@@ -9,7 +9,7 @@ description: "Ditch clunky spreadsheets. Discover how to leverage Notion formula
 tags: ["Notion", "가계부", "재테크", "노션템플릿", "자산관리"]
 ---
 
-# 💸 Notion Expense Tracker Template: An Automated System That Builds Wealth
+## 💸 Notion Expense Tracker Template: An Automated System That Builds Wealth
 
 - **🎯 Recommended for:** Professionals frustrated by the limitations of automated expense tracking apps who want proactive control over their cash flow.
 - **⏱️ Time Required:** 10 minutes (leveraging AI to generate formulas and database structures)

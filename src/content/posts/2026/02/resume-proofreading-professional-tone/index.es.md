@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Empleo y Carrera"
-description: "Un prompt avanzado que eleva el tono de tu currículum al estándar profesional, corrigiendo la gramática y el estilo para maximizar tu credibilidad ante los reclutadores."
+description: "Prompt avanzado que eleva el tono de tu currículum al estándar profesional. Corrige gramática y estilo para maximizar tu credibilidad ante reclutadores."
 tags:
   [
     "CorrecciónCurrículum",
@@ -15,95 +15,95 @@ tags:
   ]
 ---
 
-# 📝 Corrección de Tono para tu Currículum: Deja de Sonar 'Amateur' y Destaca como un 'Pro'
+## 📝 Corrección de Tono para tu Currículum: Deja de Sonar 'Amateur' y Destaca como un 'Pro'
 
-- **🎯 Recomendado para:** Buscadores de empleo, profesionales en transición laboral, recién graduados
-- **⏱️ Tiempo requerido:** 5 minutos → 1 minuto
-- **🤖 Modelo recomendado:** Todos los modelos de IA (ChatGPT, Claude, Gemini)
+- **🎯 Recomendado para:** Buscadores de empleo, profesionales en transición laboral y recién graduados.
+- **⏱️ Tiempo requerido:** 5 minutos → 1 minuto.
+- **🤖 Modelo recomendado:** Cualquier modelo de IA (ChatGPT, Claude, Gemini).
 
 - ⭐ **Dificultad:** ⭐⭐☆☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidad:** ⭐⭐⭐⭐☆
 
-> _"Tu experiencia es brillante, pero ¿tu currículum suena como si se lo estuvieras contando a un amigo tomando un café?"_
+> _"Tienes una experiencia brillante, pero... ¿tu currículum suena como si le estuvieras contando tu vida a un amigo en la cafetería?"_
 
-El alma de un currículum ganador reside en su **profesionalismo**. El tono coloquial, el exceso de adverbios y las expresiones vagas o demasiado emocionales destruyen tu credibilidad en cuestión de segundos. Confía tus textos a este editor de IA y eleva tu currículum a un estándar corporativo impecable y persuasivo.
+El alma de un currículum verdaderamente magnético reside en su **absoluto profesionalismo**. Un tono excesivamente coloquial, el abuso de adverbios o el uso de expresiones vagas y emocionales pueden aniquilar tu credibilidad en cuestión de segundos. Deja que este editor de IA se encargue de pulir tus textos y eleva tu currículum a un estándar corporativo impecable, persuasivo y de alto impacto.
 
 ---
 
 ## ⚡️ Resumen en 3 líneas (TL;DR)
 
-1. Introduce el borrador de tu currículum o carta de presentación en la IA.
-2. La IA detectará y corregirá automáticamente errores tipográficos, ortográficos y gramaticales.
-3. Transformará las expresiones coloquiales o informales en un **tono de negocios sobrio, claro y directo**.
+1. Pega el borrador de tu currículum o carta de presentación en el chat de la IA.
+2. El sistema detectará y fulminará al instante cualquier error tipográfico, ortográfico o gramatical.
+3. Transformará las expresiones informales en un **tono corporativo sobrio, contundente y directo**.
 
 ---
 
-## 🚀 La Solución: "Pulidor de Tono Profesional"
+## 🚀 La Solución: El "Pulidor de Tono Profesional"
 
 ### 🥉 Versión Básica
 
-Úsala cuando necesites un resultado rápido y sin complicaciones.
+Úsala cuando necesites un resultado rápido y directo, sin complicaciones.
 
 > **Rol:** Eres un editor senior en una editorial de prestigio y experto en redacción corporativa.
-> **Solicitud:** Refina el tono de este currículum para que cumpla con los estándares del mundo corporativo. Corrige cualquier error tipográfico y gramatical para potenciar mi credibilidad.
+> **Solicitud:** Refina el tono de este currículum para que cumpla con los estándares más exigentes del mundo corporativo. Corrige cualquier error tipográfico o gramatical para potenciar al máximo mi credibilidad.
 
-### 🥇 Versión Pro (Experto)
+### 🥇 Versión Pro (Experta)
 
-Úsala cuando necesites un análisis detallado, precisión quirúrgica y una calidad impecable.
+Úsala cuando busques un análisis exhaustivo, precisión quirúrgica y un texto de calidad impecable.
 
-> **Rol (Role):** Eres un editor senior especializado en recursos humanos y redacción corporativa.
+> **Rol (Role):** Eres un editor senior especializado en reclutamiento corporativo y redacción de negocios.
 >
 > **Contexto (Context):**
 >
-> - Antecedentes: He redactado mi currículum y mi carta de presentación, pero las oraciones no fluyen de manera natural y me preocupan los errores gramaticales o el uso de un tono inapropiado.
-> - Objetivo: Lograr un texto pulido, persuasivo y absolutamente profesional que capte la atención inmediata de los reclutadores.
+> - Antecedentes: He redactado mi currículum y mi carta de presentación, pero siento que las oraciones no fluyen con naturalidad. Me preocupan los posibles errores gramaticales o el uso de un tono poco profesional.
+> - Objetivo: Obtener un texto pulido, altamente persuasivo y estrictamente corporativo que capte al instante la atención de los reclutadores.
 >
 > **Texto de Entrada:**
 > `[Pega el texto de tu currículum aquí]`
 >
 > **Solicitud (Task):**
 >
-> 1. **Corrección de Errores:** Encuentra y corrige todos los errores de ortografía, puntuación y espaciado.
+> 1. **Corrección de Errores:** Detecta y subsana cualquier falta de ortografía, errores de puntuación o problemas de espaciado.
 > 2. **Ajuste de Tono (Tone & Manner):**
->    - Transforma cualquier estilo coloquial o narrativo en un lenguaje formal, corporativo y cortés.
->    - Elimina adverbios innecesarios o subjetivos como "realmente", "demasiado", "extremadamente", "muy".
->    - Prioriza la voz activa sobre la voz pasiva para demostrar liderazgo y proactividad.
-> 3. **Corrección Estructural:** Refina las oraciones confusas o aquellas donde el sujeto y el predicado no concuerden, asegurando la máxima claridad y concisión.
+>    - Transforma cualquier rastro de estilo coloquial o puramente narrativo en un lenguaje **formal, corporativo y asertivo**.
+>    - Elimina de raíz los adverbios innecesarios o subjetivos (ej. "realmente", "demasiado", "extremadamente", "muy").
+>    - Prioriza siempre la **voz activa** sobre la voz pasiva para proyectar liderazgo y proactividad.
+> 3. **Corrección Estructural:** Reestructura las oraciones confusas o con falta de concordancia entre sujeto y predicado, garantizando la máxima claridad y concisión.
 >
 > **Formato de Salida (Format):**
 >
-> - Muestra una tabla comparativa clara con el `[Texto Original]` vs `[Texto Corregido]`.
-> - Agrega un breve comentario debajo de cada corrección explicando por qué se realizó el cambio (por ejemplo, "Se eliminó el adverbio para generar un impacto más directo").
+> - Presenta una tabla comparativa clara contrastando el `[Texto Original]` vs. `[Texto Corregido]`.
+> - Añade un breve comentario debajo de cada corrección justificando el cambio (por ejemplo: _"Se eliminó el adverbio para generar un impacto más directo y profesional"_).
 >
 > **Restricciones (Constraints):**
 >
-> - No inventes ni agregues habilidades, datos o experiencias que no estén presentes en el texto original.
-> - Mantén la longitud del texto similar a la original, priorizando siempre la claridad.
+> - **Jamás** inventes ni añadas habilidades, métricas o experiencias que no figuren explícitamente en el texto original.
+> - Mantén una longitud global similar a la del texto original, priorizando en todo momento la legibilidad y la claridad.
 
 ---
 
 ## 💡 Comentario del Autor (Insight)
 
-Este prompt es oro puro para quienes tienden a escribir de forma excesivamente descriptiva. En el mundo corporativo, los reclutadores dedican apenas 6 segundos a escanear un currículum; no tienen tiempo para leer historias interminables. Al usar el "Pulidor de Tono Profesional", conviertes oraciones débiles ("Se lograron muchas ventas bajo mi cargo") en afirmaciones contundentes y orientadas a resultados ("Lideré el equipo que incrementó las ventas"). Mi recomendación personal es usar **Claude 3.5 Sonnet** para esta tarea, ya que tiene una sensibilidad excepcional para adaptar el tono formal sin sonar robótico o artificial, un problema que a veces presenta ChatGPT.
+Este prompt es **oro puro** para aquellas personas que tienden a redactar de forma excesivamente descriptiva o narrativa. En el competitivo mundo corporativo, un reclutador dedica un promedio de **apenas 6 segundos** a escanear un currículum; simplemente no tienen tiempo para leer historias interminables. Al utilizar este "Pulidor de Tono Profesional", lograrás transformar oraciones débiles y pasivas ("Se lograron muchas ventas bajo mi cargo") en afirmaciones contundentes, magnéticas y **orientadas a resultados** ("Lideré el equipo que incrementó las ventas"). Mi recomendación personal es que ejecutes este prompt utilizando **Claude 3.5 Sonnet**, ya que posee una sensibilidad lingüística excepcional para calibrar el tono formal sin caer en un lenguaje robótico o artificial, un pequeño obstáculo con el que a veces tropieza ChatGPT.
 
 ---
 
 ## 🙋 Preguntas Frecuentes (FAQ)
 
-- **P: ¿Puedo usar este prompt para correos electrónicos importantes o propuestas de negocios?**
-  - R: ¡Absolutamente! Solo necesitas cambiar el `[Texto de Entrada]` y ajustar ligeramente el contexto. Las reglas de concisión y voz activa aplican perfectamente a correos formales o propuestas dirigidas a clientes de alto perfil.
+- **P: ¿Puedo usar este prompt para correos electrónicos importantes o propuestas comerciales?**
+  - R: ¡Absolutamente! Solo necesitas reemplazar el `[Texto de Entrada]` y ajustar ligeramente el contexto. Las reglas sobre concisión y el uso de la voz activa se aplican a la perfección en correos formales o propuestas dirigidas a clientes de alto perfil.
 
-- **P: Siento que la IA eliminó demasiada información de mi experiencia al resumir. ¿Qué hago?**
-  - R: Si notas que la IA recorta detalles clave, añade la siguiente línea a las **Restricciones**: _"No elimines ningún dato numérico, métrica o nombre de herramienta técnica mencionado en el texto original."_
+- **P: Siento que la IA eliminó demasiada información valiosa de mi experiencia al resumir. ¿Qué hago?**
+  - R: Si notas que el modelo está recortando detalles clave, simplemente añade la siguiente instrucción a la sección de **Restricciones**: _"No elimines ningún dato numérico, métrica de impacto o nombre de herramienta técnica que se mencione en el texto original."_
 
 ---
 
 ## 🧬 Anatomía del Prompt (¿Por qué funciona?)
 
-1.  **Rol Especializado:** Al asignarle el rol de "editor senior en recursos humanos", la IA no solo corrige la gramática, sino que aplica de forma estricta el estándar léxico que esperan los headhunters y reclutadores.
-2.  **Reglas de Tono Específicas:** Pedir explícitamente "eliminar adverbios innecesarios" y "usar voz activa" evita que la IA genere respuestas floridas y garantiza un texto contundente y al grano.
-3.  **Formato Comparativo:** Solicitar el desglose de "Antes vs. Después" te permite aprender de tus propios errores de redacción y decidir si prefieres mantener tu versión original en ciertas frases.
+1. **El poder del Rol Especializado:** Al asignarle la identidad de "editor senior en reclutamiento corporativo", la IA no se limita a corregir la ortografía; adopta y aplica rigurosamente el estándar léxico exacto que esperan leer los headhunters.
+2. **Reglas de Tono Específicas:** Exigir explícitamente que "elimine adverbios innecesarios" y "priorice la voz activa" evita que el modelo genere textos floridos o recargados, garantizando un resultado contundente y directo al grano.
+3. **Formato Comparativo Estratégico:** Solicitar un desglose en tabla de "Original vs. Corregido" te permite aprender de tus propios vicios de redacción y te da el control final para decidir si prefieres conservar el matiz de tu versión original en ciertas frases.
 
 ---
 
@@ -129,8 +129,8 @@ logrando como resultado un crecimiento interanual de ventas del 30%.
 
 ## 🎯 Conclusión
 
-Un currículum bien redactado transmite competencia a simple vista. No permitas que tus grandes logros queden opacados por una gramática pobre o expresiones inapropiadas.
+Un currículum redactado con maestría transmite una profunda competencia profesional a simple vista. No permitas jamás que tus grandes logros queden opacados por una gramática deficiente o expresiones poco acertadas.
 
-Unas oraciones estructuradas y precisas son el reflejo de una mente organizada. 👔
+Recuerda siempre: unas oraciones estructuradas, limpias y precisas son el reflejo directo de una mente organizada y capaz. 👔
 
-¡Pule tu currículum hoy mismo y prepárate para conquistar esa entrevista! 🍷
+¡Aplica este pulidor a tu currículum hoy mismo y prepárate para arrasar en esa próxima entrevista! 🍷

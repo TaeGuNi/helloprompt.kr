@@ -4,7 +4,7 @@ date: 2026-02-14
 tags: [startup, tech]
 ---
 
-# 📝 AI Wrapper Startup Diagnosis & Moat Building Prompt
+## 📝 AI Wrapper Startup Diagnosis & Moat Building Prompt
 
 - **🎯 Recommended for:** Aspiring Founders, Startup CEOs, Product Owners (POs), VC Analysts
 - **⏱️ Time Required:** 1 hour of business model review → reduced to 3 minutes
@@ -16,16 +16,16 @@ tags: [startup, tech]
 
 > _"If OpenAI releases the exact same feature for free tomorrow, is our startup dead?"_
 
-The AI startup boom is in full swing, but beneath the surface, many companies are simply 'wrapper' services thinly veiled over OpenAI or Anthropic APIs. The moment Big Tech internalizes these features, these startups will instantly lose their competitive edge and face the brink of closure. A business relying solely on marketing without genuine innovation and a defensible 'technical moat' simply cannot survive.
+The AI startup boom is in full swing, but beneath the surface, many companies are simply "wrapper" services thinly veiled over OpenAI or Anthropic APIs. The moment Big Tech internalizes these features, these startups will instantly lose their competitive edge and face the brink of closure. A business relying solely on marketing without genuine innovation and a defensible "technical moat" simply cannot survive.
 
-Here is a hard-hitting diagnostic prompt to help you evaluate whether your business model is just an empty shell. It will uncover unique value propositions (UVPs) and technical moats to ensure you survive the inevitable onslaught of Big Tech.
+Here is a hard-hitting diagnostic prompt to help you evaluate whether your business model is just an empty shell. It will uncover your unique value propositions (UVPs) and technical moats, ensuring your startup survives the inevitable onslaught of Big Tech.
 
 ---
 
 ## ⚡️ 3-Line Summary (TL;DR)
 
-1. A 'wrapper' model that merely calls APIs runs a massive risk of collapsing with a single feature update from Big Tech.
-2. This prompt analyzes the vulnerabilities of your current business model and diagnoses your defensible technical/data moats.
+1. A "wrapper" model that merely calls APIs runs a massive risk of collapsing with a single feature update from Big Tech.
+2. This prompt analyzes the vulnerabilities of your current business model and diagnoses your defensible technical or data moats.
 3. Through objective and ruthless feedback, you will gain actionable pivot ideas to evolve from a generic AI service into an irreplaceable product.
 
 ---
@@ -39,10 +39,9 @@ Use this when you want a quick risk assessment of your current idea.
 > **Role:** You are a ruthless, top-tier Silicon Valley Venture Capital (VC) analyst.
 > **Task:** Diagnose if my AI service idea, `[Service Idea]`, is a mere API wrapper. Propose 3 actionable defense strategies to ensure it survives if OpenAI launches the exact same feature directly.
 
-
 ### 🥇 Pro Version
 
-Use this for an in-depth analysis of your Business Model (BM) and when you need concrete strategies to build a moat.
+Use this for an in-depth analysis of your Business Model (BM) and when you need concrete strategies to build a lasting moat.
 
 > **Role:** You are an AI business strategist and a sharp venture investor at the level of a Y Combinator partner.
 >
@@ -50,7 +49,7 @@ Use this for an in-depth analysis of your Business Model (BM) and when you need 
 >
 > - Background: We are currently operating (or planning) a service that offers `[Core Features and Service Description]` targeting `[Target Audience]`.
 > - Underlying Tech: We primarily utilize the API of `[AI Model in Use, e.g., GPT-4o, Claude 3.5 Sonnet]`.
-> - Goal: We want to overcome the limitations of being a mere 'wrapper' and build our own unrivaled technical/data moat.
+> - Goal: We want to overcome the limitations of being a mere "wrapper" and build our own unrivaled technical/data moat.
 >
 > **Task:**
 >
@@ -75,27 +74,27 @@ Use this for an in-depth analysis of your Business Model (BM) and when you need 
 
 ## 💡 Writer's Insight
 
-This prompt is the exact 'hard-hitting' diagnostic tool I use when reviewing numerous AI service proposals. Right after the GPT API was first made public, countless PDF summarization services popped up like mushrooms—only to vanish entirely when ChatGPT introduced its native document analysis feature. AI is an excellent 'engine,' but your service should never be _just_ the engine.
+This prompt is the exact "hard-hitting" diagnostic tool I use when reviewing numerous AI service proposals. Right after the GPT API was first made public, countless PDF summarization services popped up like mushrooms—only to vanish entirely when ChatGPT introduced its native document analysis feature. AI is an excellent "engine," but your service should never be *just* the engine.
 
-Pay particularly close attention to the **"Workflow Integration"** part of the output you receive from this prompt. How tightly you integrate with the tools your customers use every day—like Slack, Jira, or their internal legacy systems—is the most powerful and realistic weapon an early-stage AI startup can wield.
+Pay particularly close attention to the **Workflow Integration** part of the output you receive from this prompt. How tightly you integrate with the tools your customers use every day—like Slack, Jira, or their internal legacy systems—is the most powerful and realistic weapon an early-stage AI startup can wield.
 
 ---
 
 ## 🙋 Frequently Asked Questions (FAQ)
 
 - **Q: The AI's evaluation is too negative, and it's killing my motivation. What should I do?**
-  - A: This is due to the 'ruthless feedback' condition specified in the prompt's constraints. It is far safer to get a reality check from an AI during the planning phase than to be brutally ignored by the market after launch. Build on the diagnostic results by asking a follow-up question: _"Suggest 3 pivot ideas to compensate for these weaknesses."_
+  - A: This is due to the "ruthless feedback" constraint intentionally baked into the prompt. Getting a brutal reality check from an AI during the planning phase is far safer than being ruthlessly ignored by the market post-launch. Use these diagnostics as a stepping stone by asking a follow-up question: _"Suggest 3 pivot ideas to compensate for these weaknesses."_
 
 - **Q: Can I use this prompt for general B2C apps, not just B2B SaaS?**
-  - A: Yes, absolutely! For B2C, simply add your 'user acquisition channels' or 'community base' to the Context section. The model will then excel at deriving moat strategies centered around 'network effects'.
+  - A: Yes, absolutely! For B2C apps, simply add your "user acquisition channels" or "community base" to the Context section. The model will then excel at deriving moat strategies centered around network effects.
 
 ---
 
 ## 🧬 Anatomy of the Prompt (Why it works?)
 
-1. **Role Assignment:** By applying the persona of a 'Y Combinator partner,' it forces sharp feedback from an actual investment and survival perspective, rather than just generating pleasantries.
-2. **Clear Diagnostic Criteria:** By specifying three proven business evaluation frameworks—data moat, workflow integration, and network effects—it prevents vague and generic answers.
-3. **Realistic Constraints:** By preemptively blocking impractical advice for early-stage startups like "training a proprietary foundation model," it maximizes pragmatism and reduces hallucination.
+1. **Role Assignment:** Assigning the persona of a Y Combinator partner forces the AI to provide sharp, survival-oriented feedback from an investor's perspective rather than generating polite pleasantries.
+2. **Clear Diagnostic Criteria:** Specifying three proven business evaluation frameworks—data moats, workflow integration, and network effects—eliminates vague and generic responses.
+3. **Realistic Constraints:** Preemptively filtering out impractical advice for early-stage startups (e.g., "train a proprietary foundation model") maximizes pragmatism and minimizes AI hallucination.
 
 ---
 
@@ -130,4 +129,4 @@ We are building a service that automatically writes blog posts using the ChatGPT
 
 Don't be afraid to start as a simple API wrapper. The very first prototypes of many great AI services alive today also started as wrappers.
 
-What truly matters is how quickly and solidly you can fill that shell with **'your own unique backbone and blood (data, customer workflows)'**. Use this prompt to architect your own impenetrable castle that won't crumble under the onslaught of Big Tech! 🚀
+What truly matters is how quickly and solidly you can fill that shell with **your own unique backbone and blood (proprietary data and workflow integration)**. Use this prompt to architect an impenetrable castle that won't crumble under the onslaught of Big Tech! 🚀

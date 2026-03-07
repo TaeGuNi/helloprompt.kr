@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "건강/라이프"
-description: "Antes de investir em um personal trainer, consulte a IA. Corrija a postura dos seus treinos em casa usando o recurso Vision do GPT-4o."
+description: "Antes de investir em um personal trainer, consulte a IA. Corrija a postura dos seus treinos em casa usando o recurso Vision do GPT-4o e evite lesões."
 tags: ["운동", "헬스", "PT", "스쿼트", "ChatGPT"]
 ---
 
-# 🏋️ Correção de Postura: Receba Feedback do Seu Agachamento em Vídeo (Vision)
+## 🏋️ Correção de Postura: Receba Feedback do Seu Agachamento em Vídeo (Vision)
 
 - **🎯 Recomendado para:** Profissionais que sentem dores articulares ao treinar em casa e qualquer pessoa que queira evoluir nos treinos sem o alto custo de um personal trainer.
 - **⏱️ Tempo necessário:** 1 minuto (gravação e upload do vídeo).
@@ -21,7 +21,7 @@ tags: ["운동", "헬스", "PT", "스쿼트", "ChatGPT"]
 
 > *"Você já fez 100 agachamentos e as pernas estão ótimas, mas os joelhos e a lombar parecem que vão explodir?"*
 
-Repetir exercícios com a postura incorreta não é treino, é apenas um esforço físico que destrói as suas articulações. Se você se olha no espelho sem saber o que está fazendo de errado e acha que contratar um Personal Trainer pesa demais no orçamento, experimente o **recurso 'Vision' de uma IA**. Basta fazer o upload de um vídeo do seu treino: a inteligência artificial vai analisar minuciosamente os ângulos e a mecânica dos seus movimentos, apontando com precisão cirúrgica erros críticos, como os joelhos ultrapassando a linha dos pés ou o famoso "arredondamento da lombar" (*butt wink*).
+Repetir exercícios com a postura incorreta não é treino, é apenas um esforço físico que destrói as suas articulações. Se você se olha no espelho sem saber o que está fazendo de errado e acha que contratar um Personal Trainer pesa demais no orçamento, experimente o **recurso 'Vision' da IA**. Basta fazer o upload de um vídeo do seu treino: a inteligência artificial vai analisar minuciosamente os ângulos e a mecânica dos seus movimentos, apontando com precisão cirúrgica erros críticos, como os joelhos ultrapassando a linha dos pés ou o famoso "arredondamento da lombar" (*butt wink*).
 
 ---
 
@@ -40,6 +40,7 @@ Repetir exercícios com a postura incorreta não é treino, é apenas um esforç
 Ideal para identificar rapidamente as falhas na sua postura atual.
 
 > **Função:** Você é um personal trainer com 10 anos de experiência.
+>
 > **Tarefa:** O vídeo em anexo mostra a minha execução do `[agachamento]`. Identifique qualquer erro que apresente risco de lesão e avalie a minha postura com uma nota de 0 a 10.
 
 ### 🥇 Versão Profissional (Pro Version)
@@ -73,13 +74,13 @@ Recomendada para obter orientações detalhadas e um plano de ação que evite l
 
 ## 💡 Comentário do Autor (Insight)
 
-A capacidade de processamento visual da IA (Vision API) é fantástica para identificar sutis alterações de ângulo e realizar a "Estimativa de Postura" (*Pose Estimation*), detalhes que facilmente passariam despercebidos a olho nu. Durante meus próprios treinos em casa, percebi que roupas muito largas, como camisetas folgadas ou calças de moletom, confundiam a IA em relação à posição exata das articulações, o que gerava feedbacks imprecisos.
+A capacidade de processamento visual da IA (Vision API) é fantástica para identificar alterações sutis de ângulo e realizar a "Estimativa de Postura" (*Pose Estimation*), detalhes que facilmente passariam despercebidos a olho nu. Durante meus próprios treinos em casa, percebi que roupas muito largas, como camisetas folgadas ou calças de moletom, confundiam a IA em relação à posição exata das articulações, gerando feedbacks imprecisos.
 
 **Dicas de ouro para aumentar a precisão da análise em 200%:**
 
 1. **Roupas:** Opte por trajes de treino mais justos (leggings, camisetas *slim*) que destaquem claramente as linhas e a silhueta do seu corpo.
 2. **Ângulo da Câmera:** Posicione o celular de perfil ou em um ângulo diagonal de 45 graus, garantindo que o seu corpo inteiro preencha bem o quadro. Evite gravações totalmente de frente, pois isso oculta a profundidade do movimento.
-3. **Iluminação e Contraste:** Grave em um ambiente bem iluminado e dê preferência a roupas que façam um bom contraste com a cor do cenário de fundo.
+3. **Iluminação e Contraste:** Grave em um ambiente bem iluminado e dê preferência a roupas que gerem um bom contraste com a cor do cenário de fundo.
 
 ---
 
@@ -89,7 +90,7 @@ A capacidade de processamento visual da IA (Vision API) é fantástica para iden
   - R: O ideal é cortar o clipe e enviar apenas um trecho curto e direto (entre 10 e 15 segundos) que mostre de 1 a 2 repetições completas. Vídeos muito longos sobrecarregam a análise e podem induzir a IA a erros de interpretação.
 
 - **P: A IA consegue avaliar outros movimentos além do agachamento, como o levantamento terra ou até um swing de golfe?**
-  - R: Com certeza! Basta substituir a palavra `[agachamento]` no prompt por `[levantamento terra romeno]` ou `[swing de driver no golfe]` para receber uma avaliação biomecânica perfeitamente adaptada. A IA, inclusive, se destaca de maneira impressionante ao destrinchar a trajetória complexa de uma tacada de golfe.
+  - R: Com certeza! Basta substituir a palavra `[agachamento]` no prompt por `[levantamento terra romeno]` ou `[swing de driver no golfe]` para receber uma avaliação biomecânica perfeitamente adaptada. A IA, inclusive, se destaca de maneira impressionante ao destrinchar a complexa trajetória de uma tacada de golfe.
 
 - **P: É possível fazer o upload de vídeos utilizando a versão gratuita do ChatGPT?**
   - R: Sim! Os usuários da versão gratuita do ChatGPT contam com uma cota limitada para o envio de imagens e vídeos através do modelo GPT-4o. Basta tocar no ícone de clipe de papel (anexo) e carregar o seu arquivo.

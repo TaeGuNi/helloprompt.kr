@@ -5,22 +5,23 @@ author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: " "
-description: "Stop staring at a blank screen. Use this AI prompt to decode any Job Description (JD) and generate a highly tailored, interview-winning cover letter from your resume in just 60 seconds."
+description: "Stop staring at a blank page. Use this AI prompt to decode any Job Description and generate a tailored, interview-winning cover letter in 60 seconds."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "resume-cover-le"]
 ---
 
-# 📝 Tailored Cover Letter Prompt Based on JD: Boost Your Pass Rate by 5x 🚀
+## 📝 Tailored Cover Letter Prompt Based on JD: Boost Your Pass Rate by 5x 🚀
 
 - **🎯 Target Audience:** Junior professionals (1-3 years), marketers, product managers, and fresh graduates preparing for their next career move.
 - **⏱️ Time Required:** 3 hours → 1 minute
 - **🤖 Recommended Model:** Claude 3.5 Sonnet (superior for writing), ChatGPT Plus
+
 - ⭐ **Difficulty:** ⭐⭐☆☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
 - 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
 > _"Copy-pasted cover letters are trashed in three seconds flat. Extract the exact keywords recruiters are hunting for, directly from your own experience."_
 
-The most agonizing part of the job hunt isn't the interviews—it's staring at a blinking cursor on a blank screen. Crafting a brand-new, highly personalized cover letter for every single job description (JD) is an exhausting, soul-crushing drain on your time. Yet, sending a generic template guarantees immediate rejection. This prompt acts as the ultimate bridge, seamlessly connecting your fragmented career experiences with the exact core competencies the hiring company is desperately seeking. In just one minute, it analyzes the JD and generates a meticulously tailored cover letter that reads as if it were handcrafted exclusively for that specific role, instantly positioning you as the perfect fit.
+The most agonizing part of the job hunt isn't the interview—it's staring at a blinking cursor on a blank screen. Crafting a brand-new, highly personalized cover letter for every single job description (JD) is an exhausting, soul-crushing drain on your time. Yet, sending a generic template guarantees immediate rejection. This prompt acts as the ultimate bridge, seamlessly connecting your fragmented career experiences with the exact core competencies the hiring company is desperately seeking. In just one minute, it analyzes the JD and generates a meticulously tailored cover letter that reads as if it were handcrafted exclusively for that specific role, instantly positioning you as the perfect fit.
 
 ---
 
@@ -114,9 +115,9 @@ Try it once, and the dread of struggling to meet a word count will instantly van
 ### ❌ Before (Input: Using a lazy, generic prompt)
 
 ```text
-(Input: Write a cover letter for a frontend developer. I know React and built a shopping mall at my previous company.)
+(Input: Write a cover letter for a frontend developer. I know React and built an e-commerce site at my previous company.)
 
-Ever since I was young, I have been deeply interested in computers, which naturally led me to become a frontend developer. At my previous company, I was responsible for a project developing a shopping mall using React. I always strove to improve the user experience, and through smooth communication with my teammates, I successfully fixed bugs and solved various problems...
+Ever since I was young, I've had a deep passion for computers, which naturally led me to become a frontend developer. At my previous company, I was responsible for developing an e-commerce site using React. I always strove to improve the user experience, and through smooth communication with my teammates, I successfully fixed bugs and solved various problems...
 ```
 
 ### ✅ After (Output: Applying the Pro Version prompt)

@@ -11,14 +11,14 @@ tags:
     "KI-Halluzination",
     "Matplotlib",
   ]
-description: "Ein fehlerhafter KI-Artikel mit frei erfundenen Zitaten zwang Ars Technica zu einem peinlichen Rückzieher. Dieser Vorfall zeigt eindringlich, warum Journalisten zwingend einen automatisierten KI-Faktencheck in ihren Redaktionsalltag integrieren müssen."
+description: "Ein von KI generierter Artikel zwang Ars Technica zum Rückzieher. Erfahren Sie, warum Redaktionen zwingend einen automatisierten KI-Faktencheck benötigen."
 lang: "de"
 ---
 
-# 📝 Journalismus in der Krise: Der KI-Faktenchecker
+## 📝 Journalismus in der Krise: Der KI-Faktenchecker
 
 - **🎯 Empfohlene Zielgruppe:** Journalisten, Redakteure, Content Creator, Blogger
-- **⏱️ Zeitersparnis:** 30 Minuten manuelle Prüfung → 3 Minuten automatisierte Erstanalyse
+- **⏱️ Zeitersparnis:** 30 Minuten manuelle Prüfung → 3 Minuten automatische Erstanalyse
 - **🤖 Empfohlene Modelle:** Claude 3.5 Sonnet, ChatGPT (GPT-4o)
 
 - ⭐ **Schwierigkeitsgrad:** ⭐⭐☆☆☆
@@ -27,7 +27,7 @@ lang: "de"
 
 > _"Ein einziger von einer KI halluzinierter Satz kann die redaktionelle Glaubwürdigkeit von Jahrzehnten zerstören – fragen Sie einfach bei Ars Technica nach."_
 
-Das renommierte Tech-Magazin **Ars Technica** sah sich kürzlich gezwungen, einen Artikel vollständig zurückzuziehen. Der erschreckende Grund: Der Text enthielt völlig frei erfundene Zitate, die einem echten Entwickler des Open-Source-Projekts **Matplotlib** in den Mund gelegt wurden. Dieser PR-Gau führt uns die massiven Gefahren des unkontrollierten KI-Einsatzes im redaktionellen Alltag schonungslos vor Augen. Wer heute Large Language Models (LLMs) für die Texterstellung nutzt, braucht zwingend wasserdichte Kontrollmechanismen. Hier ist der Prompt, der Sie und Ihre Redaktion vor genau solchen katastrophalen PR-Desastern bewahrt.
+Das renommierte Tech-Magazin **Ars Technica** sah sich kürzlich gezwungen, einen Artikel vollständig zurückzuziehen. Der erschreckende Grund: Der Text enthielt völlig frei erfundene Zitate, die einem echten Entwickler des Open-Source-Projekts **Matplotlib** in den Mund gelegt wurden. Dieser PR-GAU führt uns die massiven Gefahren des unkontrollierten KI-Einsatzes im redaktionellen Alltag schonungslos vor Augen. Wer heute Large Language Models (LLMs) für die Texterstellung nutzt, braucht zwingend wasserdichte Kontrollmechanismen. Hier ist der Prompt, der Sie und Ihre Redaktion vor genau solchen katastrophalen Desastern bewahrt.
 
 ---
 
@@ -35,7 +35,7 @@ Das renommierte Tech-Magazin **Ars Technica** sah sich kürzlich gezwungen, eine
 
 1. Ars Technica veröffentlichte versehentlich einen Artikel, der völlig frei erfundene Entwickler-Zitate enthielt.
 2. KI-Halluzinationen – scheinbar plausible, aber faktisch falsche Aussagen – bilden aktuell das größte Reputationsrisiko im modernen Journalismus.
-3. Unser spezialisierter "Faktenchecker-Prompt" durchleuchtet Ihre Textentwürfe vor der Veröffentlichung systematisch auf riskante Behauptungen.
+3. Unser spezialisierter Faktenchecker-Prompt durchleuchtet Ihre Textentwürfe vor der Veröffentlichung systematisch auf riskante Behauptungen.
 
 ---
 
@@ -47,13 +47,13 @@ Nutzen Sie diesen Prompt für einen schnellen Gegen-Check, wenn die Zeit im Reda
 
 > **Rolle:** Du bist ein extrem präziser Faktenchecker und Lektor.
 > **Aufgabe:** Überprüfe den folgenden Text penibel auf mögliche KI-Halluzinationen. Achte dabei besonders auf Zitate, Fakten, Zahlen und historische Ereignisse. Markiere alle Behauptungen, die zwingend von einem menschlichen Redakteur gegengeprüft werden müssen.
-> **Text:** `[Füge hier deinen Artikel-Entwurf ein]`
+> **Text:** `[Artikel-Entwurf hier einfügen]`
 
 ### 🥇 Pro Version (Expertenmodus)
 
 Für die lückenlose Tiefenanalyse vor der Veröffentlichung kritischer journalistischer Beiträge.
 
-> **Rolle (Role):** Du bist ein leitender Chef-Redakteur und unerbittlicher Faktenchecker bei einem international renommierten Technologie-Magazin.
+> **Rolle (Role):** Du bist ein leitender Chefredakteur und unerbittlicher Faktenchecker bei einem international renommierten Technologie-Magazin.
 >
 > **Kontext (Context):**
 >
@@ -77,7 +77,7 @@ Für die lückenlose Tiefenanalyse vor der Veröffentlichung kritischer journali
 > - Verlasse dich niemals blind auf deine eigenen Trainingsdaten als absolute Wahrheit. Wenn du dir bei der Faktenlage nicht zu 100 % sicher bist, musst du die betreffende Stelle zwingend mit "Menschliche Überprüfung erforderlich" markieren.
 >
 > **Artikel-Entwurf:**
-> `[Füge hier deinen Artikel-Entwurf ein]`
+> `[Artikel-Entwurf hier einfügen]`
 
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: " \"What if Monet Painted Shin Yun-bok’s ‘Portrait of a Beauty’? An AI Fusion Masterpiece\""
-description: " \"The delicate strokes of the Joseon Dynasty meet the light of Impressionism. Experience Shin Yun-bok's 'Portrait of a Beauty' reinterpreted by AI—a dreamy world of fusion art.\""
+title: "What if Monet Painted Shin Yun-bok’s ‘Portrait of a Beauty’? An AI Fusion Masterpiece"
+description: "Joseon elegance meets Impressionist light. Discover Shin Yun-bok's 'Portrait of a Beauty' flawlessly reimagined through the magic of AI fusion art."
 author: "AI Art Lab"
 date: "2026-02-13"
 tags: ["AI Art", "Shin Yun-bok", "Monet", "Fusion Art", "Digital Art"]
 image: "/images/2026/02/13/monet-beauty.jpg"
 ---
 
-# 🎨 Recreating Shin Yun-bok in Monet's Light: The Ultimate Art Fusion Prompt
+## 🎨 Recreating Shin Yun-bok in Monet's Light: The Ultimate Art Fusion Prompt
 
 - **🎯 Target Audience:** Prompt Engineers, Digital Artists, Creative Directors
 - **⏱️ Time Saved:** 2 hours → 2 minutes
@@ -40,31 +40,30 @@ Use this when you need a quick conceptual blend.
 > **Role:** You are an expert art historian and digital artist.
 > **Task:** Create an image of `[Subject, e.g., Shin Yun-bok's Portrait of a Beauty]` painted exactly in the style of `[Artist, e.g., Claude Monet]`.
 
-
 ### 🥇 Pro Version
 
 Use this for gallery-ready, highly detailed masterpieces.
 
-> **Role (Role):** You are a master AI prompt engineer and a world-renowned art curator specializing in cross-cultural art fusion.
+> **Role:** You are a master AI prompt engineer and a world-renowned art curator specializing in cross-cultural art fusion.
 >
-> **Context (Context):**
+> **Context:**
 >
 > - Background: I need to create a unique piece of digital art that flawlessly merges two distinct, historically separated art movements.
 > - Objective: To visualize `[Original Artwork or Subject]` as if it were a newly discovered masterpiece painted by `[Target Artist]`.
 >
-> **Task (Task):**
+> **Task:**
 >
 > 1. Subject: Retain the core composition, posture, and defining cultural elements of `[Original Artwork or Subject]`.
 > 2. Style: Apply the signature brushstrokes, color palette, and lighting techniques of `[Target Artist]`.
 > 3. Fusion: Ensure the `[Specific Cultural Element, e.g., Hanbok folds]` is rendered using `[Specific Target Technique, e.g., Impressionist impasto]`.
 >
-> **Constraints (Constraints):**
+> **Constraints:**
 >
 > - The image must look like a cohesive painting, not a digital collage.
 > - Do not lose the identity of the original subject.
 > - Output the exact prompt I should use for the image generation model.
 >
-> **Warning (Warning):**
+> **Warning:**
 >
 > - Avoid overly cartoonish or highly realistic photographic renders; strictly maintain a traditional fine art medium aesthetic (oil on canvas, watercolor, etc.).
 
@@ -72,7 +71,7 @@ Use this for gallery-ready, highly detailed masterpieces.
 
 ## 💡 Writer's Insight
 
-This prompt structure is highly effective because it prevents the AI from simply slapping a generic "filter" over the subject. By explicitly isolating the _subject's composition_ from the _target's brushwork and lighting_, you force the AI to rethink the rendering process from the ground up. In my experience, explicitly mentioning specific elements (like translating "Hanbok folds" into "Impasto") bridges the conceptual gap for the model, resulting in a true masterpiece rather than a messy, chaotic amalgamation.
+This prompt structure is highly effective because it prevents the AI from simply slapping a generic "filter" over the subject. By explicitly isolating the **subject's composition** from the **target's brushwork and lighting**, you force the AI to rethink the rendering process from the ground up. In my experience, explicitly mentioning specific elements (like translating "Hanbok folds" into "Impasto") bridges the conceptual gap for the model, resulting in a true masterpiece rather than a messy, chaotic amalgamation.
 
 ---
 

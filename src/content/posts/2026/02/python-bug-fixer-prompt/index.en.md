@@ -1,19 +1,19 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"파이썬 버그 해결사: 10초 디버깅 프롬프트\""
+title: "Python Bug Solver: 10-Second Debugging Prompt"
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "업무 자동화"
-description: " \"A 10-second AI debugging prompt to instantly solve annoying Python errors and save you hours of frustration.\""
-tags: ["태그1", "태그2"]
+category: "Automation"
+description: "A 10-second AI debugging prompt to instantly solve annoying Python errors and save you hours of frustration."
+tags: ["Python", "Debugging"]
 ---
 
-# 📝 Python Bug Solver: The 10-Second Debugging Prompt
+## 📝 Python Bug Solver: The 10-Second Debugging Prompt
 
-- **🎯 Target Audience:** Junior Developers, Data Analysts, Python Beginners
-- **⏱️ Time Saved:** 2 hours → 10 seconds
-- **🤖 Recommended AI:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 2.5 Pro
+- **🎯 Target Audience:** Junior developers, data analysts, and Python beginners.
+- **⏱️ Time Saved:** 2 hours → 10 seconds.
+- **🤖 Recommended AI:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 2.5 Pro.
 
 - ⭐ **Difficulty:** ⭐☆☆☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -27,9 +27,9 @@ We've all been there: a single typo, a mismatched bracket, or a cryptic tracebac
 
 ## ⚡️ 3-Line Summary (TL;DR)
 
-1. **Instant Bug Identification:** Paste your error traceback and code, and get the exact line causing the issue immediately.
-2. **Context-Aware Fixes:** The AI provides a drop-in replacement snippet instead of a generic workaround.
-3. **Skill Growth:** Learn exactly why the error occurred so you can avoid making the same mistake twice.
+1. **Instant Bug Identification:** Paste your error traceback and code to immediately pinpoint the exact line causing the issue.
+2. **Context-Aware Fixes:** Get a drop-in replacement snippet instead of a generic, one-size-fits-all workaround.
+3. **Skill Growth:** Learn the precise root cause so you can avoid making the exact same mistake in the future.
 
 ---
 
@@ -42,7 +42,6 @@ Use this when you are in a rush and just need the corrected code immediately.
 > **Role:** You are a Senior Python Developer.
 > **Task:** Fix the bug in the following Python code and error log. Just give me the fixed code without unnecessary explanations.
 > **Code & Error:** `[Paste your code and error log here]`
-
 
 ### 🥇 Pro Version
 
@@ -80,7 +79,7 @@ Use this when you need a robust, production-ready fix along with a clear explana
 
 ## 💡 Writer's Insight
 
-This prompt is an absolute lifesaver, especially when dealing with heavy data pipelines or obscure library conflicts (like Pandas or Requests throwing weird exceptions). The real magic of this prompt lies in the **Constraints** section: explicitly telling the AI _not_ to rewrite your entire script. Without that specific boundary, AIs tend to aggressively refactor your whole file, which often introduces new bugs or breaks your existing business logic. By restricting the AI to just the broken components, you maintain complete control over your codebase while leveraging the AI as a precision surgical tool.
+This prompt is an absolute lifesaver, especially when you are dealing with heavy data pipelines or obscure library conflicts (like Pandas or Requests throwing weird exceptions). The real magic of this prompt lies in the **Constraints** section: explicitly telling the AI _not_ to rewrite your entire script. Without that specific boundary, AIs tend to aggressively refactor your whole file, which often introduces new bugs or breaks your existing business logic. By restricting the AI to just the broken components, you maintain complete control over your codebase while leveraging the AI as a precision surgical tool.
 
 ---
 

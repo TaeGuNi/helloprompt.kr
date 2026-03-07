@@ -9,7 +9,7 @@ description: "Un prompt infallibile per convertire lunghi testi e appunti in fla
 tags: ["Memorizzazione", "Flashcard", "Anki", "Quizlet"]
 ---
 
-# 📝 Addio ai Crampi al Polso: Generatore Automatico di Flashcard per lo Studio
+## 📝 Addio ai Crampi al Polso: Generatore Automatico di Flashcard per lo Studio
 
 - **🎯 Consigliato per:** Studenti, professionisti in formazione e chiunque debba memorizzare enormi moli di dati
 - **⏱️ Tempo richiesto:** Da 60 minuti a soli 5 minuti
@@ -21,14 +21,14 @@ tags: ["Memorizzazione", "Flashcard", "Anki", "Quizlet"]
 
 > _"Se avessi dedicato allo studio tutto il tempo perso a creare flashcard, a quest'ora sarei già laureato con lode."_
 
-App come Anki o Quizlet sono alleati formidabili per la memorizzazione a lungo termine, ma nascondono un difetto fatale: la creazione manuale delle carte (fronte/retro) è un processo a dir poco estenuante. Ripassare un mazzo richiede dieci minuti, ma per prepararlo ce ne vogliono almeno sessanta. Da oggi, puoi finalmente delegare questo lavoro logorante all'Intelligenza Artificiale e concentrare tutte le tue energie solo ed esclusivamente sullo studio.
+App come Anki o Quizlet sono alleati formidabili per la memorizzazione a lungo termine, ma nascondono un difetto fatale: la creazione manuale delle carte (fronte/retro) è un processo a dir poco estenuante. Ripassare un mazzo richiede dieci minuti, ma per prepararlo ce ne vogliono almeno sessanta. Da oggi, puoi finalmente delegare questo lavoro logorante all'intelligenza artificiale e concentrare tutte le tue energie solo ed esclusivamente sullo studio puro.
 
 ---
 
 ## ⚡️ Riassunto in 3 righe (TL;DR)
 
 1. **Analisi istantanea:** L'IA scansiona i tuoi appunti ed estrae immediatamente i concetti chiave.
-2. **Creazione automatica:** Genera autonomamente coppie "Domanda/Risposta" o testi da completare (Cloze).
+2. **Creazione automatica:** Genera in autonomia coppie "Domanda/Risposta" o testi da completare (Cloze).
 3. **Esportazione rapida:** Restituisce un file CSV, separato da punto e virgola, pronto per essere importato su Anki o Excel.
 
 ---
@@ -44,7 +44,7 @@ Ideale per appunti brevi o quando hai bisogno di un risultato rapido e senza tro
 
 ### 🥇 Pro Version (Versione Esperto)
 
-Perfetta per testi densi, preparazione di esami universitari o quando hai bisogno di formattazioni rigorose e specifiche.
+Perfetta per testi densi, per la preparazione di esami universitari o quando hai bisogno di formattazioni rigorose e specifiche.
 
 > **Ruolo (Role):** Sei un `[Esperto in Tecniche di Apprendimento e Analisi del Testo]`.
 >
@@ -56,7 +56,7 @@ Perfetta per testi densi, preparazione di esami universitari o quando hai bisogn
 > **Richiesta (Task):**
 >
 > 1. **[Estrazione Q&A]**: Identifica definizioni cruciali, date storiche, formule o relazioni causa-effetto e organizzale nel formato 'Domanda' e 'Risposta'.
-> 2. **[Riempimento Spazi Vuoti (Cloze)]**: Non limitarti alle domande dirette ("Cos'è X?"). Inserisci anche frasi da completare, ad esempio: "Il processo Y avviene a causa di [ ]".
+> 2. **[Riempimento Spazi Vuoti (Cloze)]**: Non limitarti alle domande dirette ("Cos'è X?"). Inserisci anche frasi da completare, ad esempio: "Il processo Y avviene a causa di `[ ]`".
 > 3. **[Formattazione]**: Genera l'output rigorosamente nel formato `Domanda;Risposta` (stile CSV, utilizzando il punto e virgola come separatore) per facilitare il copia-incolla.
 >
 > **Vincoli (Constraints):**
@@ -76,7 +76,7 @@ Perfetta per testi densi, preparazione di esami universitari o quando hai bisogn
 
 ## 💡 Commento dell'Autore (Insight)
 
-Questo prompt è un autentico salvavita per gli studenti di medicina, giurisprudenza, lingue, o per chiunque stia preparando complesse certificazioni IT. La vera magia risiede nel vincolo della formattazione CSV (`Domanda;Risposta`). Prima di adottare questo metodo, perdevo ore a compilare manualmente ogni singola carta su Anki. Ora, mi basta copiare l'output generato dall'IA, incollarlo in un semplice file di testo (ad es. `carte.txt`) e cliccare su "Importa". Inoltre, obbligare l'IA a inserire eventuali spiegazioni aggiuntive rigorosamente tra parentesi è una mossa strategica: evita le risposte prolisse, che finirebbero per rallentare il ripasso attivo compromettendone l'efficacia.
+Questo prompt è un autentico salvavita per gli studenti di medicina, giurisprudenza, lingue o per chiunque stia preparando complesse certificazioni IT. La vera magia risiede nel vincolo della formattazione CSV (`Domanda;Risposta`). Prima di adottare questo metodo, perdevo ore a compilare manualmente ogni singola carta su Anki. Ora, mi basta copiare l'output generato dall'IA, incollarlo in un semplice file di testo (ad es. `carte.txt`) e cliccare su "Importa". Inoltre, obbligare l'IA a inserire eventuali spiegazioni aggiuntive rigorosamente tra parentesi è una mossa strategica: evita le risposte prolisse, che finirebbero per rallentare il ripasso attivo e comprometterne l'efficacia.
 
 ---
 

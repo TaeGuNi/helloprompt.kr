@@ -5,13 +5,13 @@ author: "Jay"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "AI 디자인"
-description: "Struggling with AI generating a different face every time? Discover the secret to achieving consistent character design with a single Midjourney character sheet prompt."
+description: "Struggling with inconsistent AI faces? Discover the secret to flawless character design using a single Midjourney character sheet prompt."
 tags: ["Midjourney", "캐릭터 디자인", "AI 아트", "일관성"]
 ---
 
-# 📝 Midjourney Character Consistency: Creating the Perfect Character Sheet
+## 📝 Midjourney Character Consistency: Creating the Perfect Character Sheet
 
-- **🎯 Target Audience:** Game Developers, Webtoon Artists, Character Concept Artists
+- **🎯 Target Audience:** Game developers, webtoon artists, character concept artists
 - **⏱️ Time Saved:** 1 hour → 5 minutes
 - **🤖 Recommended AI:** ChatGPT (for prompting) & Midjourney v6.0+
 
@@ -31,7 +31,7 @@ Today, we are sharing a prompt engineering secret that locks down the front, sid
 
 1. Always generate a **character sheet** first to serve as the definitive blueprint for your design.
 2. Leverage our **Pro Prompt** with a conversational AI (like ChatGPT) to craft the ultimate front, side, and back view Midjourney prompt.
-3. Force a wide aspect ratio using the **`--ar`** parameter (e.g., 16:9) to ensure your character's views don't overlap or get cropped out of frame.
+3. Force a wide aspect ratio using the **`--ar`** parameter (e.g., 16:9) to ensure your character's views don't overlap or get cropped out of the frame.
 
 ---
 
@@ -59,7 +59,7 @@ This is a studio-grade prompt engineered for ChatGPT or Claude. It instantly gen
 >
 > 1. Based on the character settings below, write 1 English prompt for Midjourney image generation.
 > 2. Character Settings: `[Describe the desired character appearance, outfit, weapons, colors, etc., in detail here]`
-> 3. It must strictly follow a **Character Sheet** format and explicitly include at least 3 angles: front view, side view, and back view.
+> 3. It must strictly follow a **character sheet** format and explicitly include at least three angles: front view, side view, and back view.
 >
 > **Constraints:**
 >
@@ -78,10 +78,10 @@ This is a studio-grade prompt engineered for ChatGPT or Claude. It instantly gen
 
 ## 💡 Writer's Insight
 
-This prompt system works wonders because it seizes control over "spatial arrangement" and "consistency"—the two areas where Midjourney typically struggles most. The magic lies in pairing the **`--ar` (Aspect Ratio)** parameter with strict compositional directives.
+This prompt system works wonders because it seizes control over **spatial arrangement** and **consistency**—the two areas where Midjourney typically struggles the most. The magic lies in pairing the **`--ar` (Aspect Ratio)** parameter with strict compositional directives.
 
 1. **Wide Canvas (`--ar 16:9`):** A proper character sheet needs to display at least three full-body angles side by side. At the default 1:1 ratio, characters are crammed together, practically guaranteeing overlapping limbs or cropped frames. Forcing a 16:9 or 3:2 ratio gives the AI the horizontal breathing room it needs to render multiple angles cleanly.
-2. **Lighting Control (Flat lighting):** Dramatic, cinematic lighting might look stunning in a final illustration, but it is a nightmare for reference sheets. Deep shadows obscure crucial textures and structural details of the outfit. Forcing flat, shadowless lighting guarantees a clean, production-ready asset.
+2. **Lighting Control (Flat lighting):** Dramatic, cinematic lighting might look stunning in a final illustration, but it is an absolute nightmare for reference sheets. Deep shadows obscure crucial textures and structural details of the outfit. Forcing flat, shadowless lighting guarantees a clean, production-ready asset.
 
 **💡 Pro Tip:** Try feeding the resulting image from this Pro Prompt directly into Midjourney's `--cref` (Character Reference) parameter. You will unlock the ability to generate endless illustrations in dynamic poses while maintaining pinpoint consistency across your character's face and wardrobe.
 

@@ -1,36 +1,36 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Gemini 3 Pro로 주간 업무 보고서 1초 만에 끝내기\""
+title: "Write Your Weekly Report in 1 Second with Gemini 3 Pro"
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "업무 자동화"
-description: " \"Can't remember what you did all week? Just feed your Slack, Jira, and GitHub logs to Gemini, and experience the miracle of instant weekly reports.\""
-tags: ["Gemini", "보고서", "직장인꿀팁", "생산성"]
+category: "Work Automation"
+description: "Can't remember what you did all week? Feed your Slack, Jira, and GitHub logs to Gemini, and experience the miracle of instant weekly reports."
+tags: ["Gemini", "Report", "Career Tips", "Productivity"]
 ---
 
-# 📝 Weekly Reports Are Meant to Be 'Generated', Not Written
+## 📝 Weekly Reports Are Meant to Be 'Generated', Not Written
 
-- **🎯 Target Audience:** Professionals who tear their hair out every Friday afternoon wondering, "What did I even do this week?"
+- **🎯 Target Audience:** Professionals who tear their hair out every Friday afternoon wondering, "What did I even accomplish this week?"
 - **⏱️ Time Saved:** 1 hour → 10 seconds
-- **🤖 Recommended Model:** Google Gemini 3 Pro / 2.5 Pro (Leveraging its massive Context Window)
+- **🤖 Recommended Model:** Google Gemini 3 Pro / 2.5 Pro (Leveraging its massive context window)
 
 - ⭐ **Difficulty:** ⭐☆☆☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
 - 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-> _"If you had spent the time formatting reports and recalling past tasks on your actual work, you'd have been promoted by now. It's time to fully delegate exhausting weekly reports to AI."_
+> _"If you had spent the time formatting reports and trying to recall past tasks on your actual work, you'd have been promoted by now. It's time to fully delegate those exhausting weekly reports to AI."_
 
-Google Gemini's most formidable weapon is its **'monstrous context memory'**. By leveraging its ability to process millions of tokens at once, you can dump an entire week's worth of work conversations, email threads, meeting minutes, and even GitHub commit logs into it, and it will perfectly summarize only the core essentials.
+Google Gemini's most formidable weapon is its **monstrous context memory**. By leveraging its ability to process millions of tokens at once, you can dump an entire week's worth of work conversations, email threads, meeting minutes, and even GitHub commit logs into it—and it will perfectly distill only the core essentials.
 
-No more staring blankly at an empty Word document.
+No more staring blankly at an empty document.
 
 ---
 
 ## ⚡️ TL;DR (3-Line Summary)
 
 1. **Collect Data:** Scrape your work records for the week (Slack messages, Jira tickets, commit logs, etc.) into a single text file.
-2. **Upload to AI:** Upload the file to Gemini and paste the 'Pro Version' prompt below.
+2. **Upload to AI:** Feed the file into Gemini and paste the 'Pro Version' prompt provided below.
 3. **Submit Immediately:** In just 10 seconds, you'll have a clean, bulleted weekly report that perfectly caters to your manager's preferences.
 
 ---
@@ -45,19 +45,18 @@ Use this when you just need a quick, rough summary of your tasks.
 >
 > **Data:** `[Paste your work logs here]`
 >
-> **Task:** Based on the data above, summarize the top 5 most important things I did this week.
-
+> **Task:** Based on the data above, summarize the top 5 most important things I accomplished this week.
 
 ### 🥇 Pro Version
 
 Use this when you need a perfectly structured business report ready for immediate submission to your boss.
 
-> **Role:** You are a logical, sharp **'Expert Business Analyst'** and an **'Executive Assistant'**.
+> **Role:** You are a logical, sharp **Expert Business Analyst** and an **Executive Assistant**.
 >
 > **Context:**
 >
 > - I need to officially report my weekly performance to my team leader.
-> - My team leader prefers to quickly grasp the **'Results'** and **'Insights'** rather than reading lengthy process descriptions.
+> - My team leader prefers to quickly grasp the **Results** and **Insights** rather than reading lengthy process descriptions.
 > - The attached file (or text below) contains the raw data of my Slack chats, Jira tickets, emails, and meeting notes for this week.
 >
 > **Task:**
@@ -66,12 +65,12 @@ Use this when you need a perfectly structured business report ready for immediat
 > 2. You MUST structure the report using the following 4 sections:
 >    - **✅ Key Achievements:** Highlight any quantitative metrics (%, time, costs, etc.) if they exist.
 >    - **🚧 Ongoing Tasks:** Specify the current status and the expected completion date (or next milestone).
->    - **🚨 Issues & Blockers:** Note any problems requiring immediate resolution and support requests for the team leader.
+>    - **🚨 Issues & Blockers:** Note any problems requiring immediate resolution and any support requests for the team leader.
 >    - **📅 Next Week's Plan:** Focus on the top 3 highest-priority tasks.
 >
 > **Constraints:**
 >
-> - Do not use conversational sentences like "I did this." Use strictly noun-phrases or bullet-point styles (e.g., "- Completed", "- Scheduled").
+> - Do not use conversational sentences like "I did this." Use strictly noun phrases or a bullet-point style (e.g., "- Completed", "- Scheduled").
 > - For visual readability, format the most critical keywords and numbers in **Bold**.
 > - 100% filter out personal chit-chat, lunch menus, or irrelevant info. Leave ONLY business achievements.
 >
@@ -83,9 +82,9 @@ Use this when you need a perfectly structured business report ready for immediat
 
 ## 💡 Writer's Insight
 
-If you're asking, "Is it okay if the log data is too massive and messy?", the answer is **"The messier, the better."** Modern models like Gemini 3 Pro can read the equivalent of dozens of books at once. The more fragmented information you provide, the better it cross-verifies to generate a much sharper and more accurate report.
+If you're asking, "Is it okay if the log data is massive and messy?", the answer is **"The messier, the better."** Modern models like Gemini 3 Pro can read the equivalent of dozens of books at once. The more fragmented information you provide, the better it cross-verifies data to generate a much sharper and more accurate report.
 
-As a practical tip, I run this prompt every Friday at 4:50 PM. I scrape my 'Mentions' in Slack, copy the list of Jira tickets I closed this week into text, and toss it all in. Then, I leave work with a light heart at 5:00 PM. This is what true workflow automation looks like in the AI era.
+As a practical tip, I run this prompt every Friday at 4:50 PM. I scrape my 'Mentions' in Slack, copy the list of Jira tickets I closed this week into a text file, and toss it all in. Then, I leave work with a light heart at 5:00 PM. This is what true workflow automation looks like in the AI era.
 
 ---
 
@@ -101,9 +100,9 @@ As a practical tip, I run this prompt every Friday at 4:50 PM. I scrape my 'Ment
 
 ## 🧬 Anatomy of the Prompt (Why it works)
 
-1. **Noise Filtering:** The constraint to "100% filter out personal chit-chat or irrelevant info" is key. The AI automatically removes the small talk that takes up more than half of Slack logs, extracting only pure, high-value information.
+1. **Noise Filtering:** The constraint to "100% filter out personal chit-chat or irrelevant info" is key. The AI automatically removes the small talk that takes up more than half of your Slack logs, extracting only pure, high-value information.
 2. **Format Constraints:** Directives like "bullet-point style," "bolding numbers," and "4-section structure" ensure that you can copy and paste the AI's output directly into your report without needing to edit it yourself.
-3. **Zero-Hallucination Warning:** By strictly warning the AI "Do not write anything that lacks a clear basis in the provided data," we prevent the fatal mistake of the AI inflating achievements or outright lying.
+3. **Zero-Hallucination Warning:** By strictly warning the AI, "Do not write anything that lacks a clear basis in the provided data," we prevent the fatal mistake of the AI inflating achievements or outright lying.
 
 ---
 

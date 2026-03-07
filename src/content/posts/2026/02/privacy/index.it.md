@@ -1,12 +1,12 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"개인정보처리방침 (Privacy Policy)\""
-description: " \"Una guida trasparente e sicura alla raccolta e al trattamento dei dati personali da parte di Hello Prompt.\""
+description: "Una guida trasparente e sicura alla raccolta e al trattamento dei dati personali da parte di Hello Prompt."
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 ---
 
-# 🔒 Informativa sulla Privacy (Privacy Policy)
+## 🔒 Informativa sulla Privacy (Privacy Policy)
 
 - **🎯 Destinatari:** Tutti gli utenti globali di Hello Prompt
 - **⏱️ Tempo di lettura:** Circa 3 minuti
@@ -16,7 +16,7 @@ updatedDate: "2026-02-09"
 - ⚡️ **Sicurezza:** ⭐⭐⭐⭐⭐
 - 🚀 **Affidabilità:** ⭐⭐⭐⭐⭐
 
-> _"I tuoi dati ti appartengono. Hello Prompt ti offre la massima ispirazione raccogliendo il minimo indispensabile."_
+> _"I tuoi dati ti appartengono. Hello Prompt ti offre la massima ispirazione, raccogliendo solo il minimo indispensabile."_
 
 **Hello Prompt** (di seguito "il Sito") considera prioritaria la tutela dei dati personali dei propri utenti in tutto il mondo. Rispettiamo rigorosamente le normative sulla privacy e le policy globali del programma Google AdSense. La presente informativa è in vigore dal 9 febbraio 2026.
 
@@ -30,7 +30,7 @@ updatedDate: "2026-02-09"
 
 ---
 
-## 🚀 Guida alla Raccolta e Utilizzo dei Dati
+## 🚀 Guida alla Raccolta e all'Utilizzo dei Dati
 
 ### 🥉 Dati Essenziali (Basic Data)
 
@@ -41,14 +41,14 @@ Per garantirti un'esperienza di navigazione fluida e sicura, il Sito raccoglie a
 
 ### 🥇 Finalità di Utilizzo (Pro Usage)
 
-I dati raccolti vengono impiegati con il solo e rigoroso scopo di innalzare la qualità del servizio, preservare la sicurezza e garantire un funzionamento impeccabile.
+I dati raccolti vengono impiegati con il solo e rigoroso scopo di migliorare la qualità del servizio, preservare la sicurezza e garantire un funzionamento impeccabile.
 
-> **Ruolo (Role):** Questo sito agisce in qualità di `[Responsabile del trattamento sicuro]` e rigoroso.
+> **Ruolo (Role):** Questo sito agisce in qualità di `[Responsabile del trattamento sicuro ed etico dei dati]`.
 >
 > **Contesto (Context):**
 >
 > - Background: `[Ottimizzazione della User Experience e gestione stabile dei server globali]`
-> - Obiettivo: `[Distribuire i prompt agli utenti con la massima rapidità e sicurezza]`
+> - Obiettivo: `[Distribuire i prompt agli utenti con la massima rapidità e in totale sicurezza]`
 >
 > **Attività (Task):**
 >
@@ -58,7 +58,7 @@ I dati raccolti vengono impiegati con il solo e rigoroso scopo di innalzare la q
 >
 > **Vincoli (Constraints):**
 >
-> - Tutti i dati di log acquisiti devono essere anonimizzati o eliminati immediatamente a seguito dell'analisi statistica. (Periodo massimo di conservazione: 3 mesi)
+> - Tutti i dati di log acquisiti devono essere anonimizzati o eliminati immediatamente a seguito dell'analisi statistica. (Periodo massimo di conservazione: 3 mesi).
 >
 > **Avvertenze (Warning):**
 >
@@ -68,7 +68,7 @@ I dati raccolti vengono impiegati con il solo e rigoroso scopo di innalzare la q
 
 ## 💡 L'Intuizione dell'Autore (Insight)
 
-Questa Policy sulla Privacy non è un mero adempimento burocratico redatto per obblighi di legge. Nell'era dell'Intelligenza Artificiale, la gestione trasparente dei dati è l'unità di misura dell'affidabilità di un servizio. Hello Prompt ha eliminato del tutto le tediose procedure di registrazione e ha reciso alla radice ogni forma di raccolta dati superflua. Questo ti permette di concentrarti unicamente sull'esplorazione e sulla copia dei prompt, trovando l'ispirazione nella più totale tranquillità. Naviga sul nostro sito con la certezza di essere al sicuro!
+Questa Policy sulla Privacy non è un mero adempimento burocratico redatto per obblighi di legge. Nell'era dell'Intelligenza Artificiale, la gestione trasparente dei dati è l'unità di misura dell'affidabilità di un servizio. Hello Prompt ha eliminato del tutto le complesse procedure di registrazione e ha rimosso alla radice ogni forma di raccolta dati superflua. Questo ti permette di concentrarti unicamente sull'esplorazione e sulla copia dei prompt, trovando l'ispirazione nella più totale tranquillità. Naviga sul nostro sito con la certezza di essere al sicuro!
 
 ---
 
@@ -80,7 +80,7 @@ Questa Policy sulla Privacy non è un mero adempimento burocratico redatto per o
 - **D: Quando verranno cancellati definitivamente i miei log di accesso (es. indirizzo IP)?**
   - R: I log vengono resi anonimi non appena si conclude l'analisi statistica (tramite Google Analytics). I log originali sono conservati per un periodo massimo di 3 mesi, in piena ottemperanza alle normative vigenti, per poi essere distrutti in maniera permanente e irreversibile.
 
-- **D: Risiedo in Europa / in California (USA). Come vengono tutelati i miei diritti sui dati?**
+- **D: Risiedo in Europa o in California (USA). Come vengono tutelati i miei diritti sui dati?**
   - R: Hello Prompt si attiene scrupolosamente alle direttive internazionali. Conformemente al **GDPR (Europa)**, hai la facoltà di richiedere l'accesso, la rettifica o la cancellazione dei tuoi dati in ogni momento. Nel rispetto del **CCPA (California)**, garantiamo che le tue informazioni non saranno mai vendute a terzi (Do Not Sell).
 
 ---

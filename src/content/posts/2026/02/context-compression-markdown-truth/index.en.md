@@ -9,27 +9,27 @@ description: "A hardcore Markdown memory compression cheat code that permanently
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "markdown-source-of-truth"]
 ---
 
-# 🧠 The Ultimate Cure for AI Amnesia: The Markdown 'Source of Truth' Enforcer Skill
+## 🧠 The Ultimate Cure for AI Amnesia: The Markdown 'Source of Truth' Enforcer Skill
 
 - **🎯 Recommended for:** Senior developers whose sanity has been shattered by AI-generated spaghetti code, and anyone exhausted by AI agents spouting nonsense during long conversations.
 - **⏱️ Time Saved:** From 4 hours of all-night debugging → 0 seconds (preventative blocking).
 - **🤖 Recommended Models:** All coding agents (Claude 3.7 Sonnet, GPT-4o, Gemini 1.5 Pro).
-- ⭐ **Difficulty:** ⭐⭐⭐⭐☆ (Requires a fundamental mindset shift from the developer).
+- ⭐ **Difficulty:** ⭐⭐⭐⭐☆ (Requires a fundamental mindset shift).
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐ (If you aren't going to use this, you might as well turn off your agent).
 - 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
 > _“Wait, why did you just resurrect the exact bug we fixed ten minutes ago? Did you completely forget the constraints I gave you?”_
 
-When you pair-program with an AI agent for more than an hour, it inevitably gets hit with a severe case of amnesia (the dreaded "lost in the middle" phenomenon). Its context window maxes out, it burns your instructions to the ground, and it starts mindlessly overwriting perfectly good code. At that point, it’s honestly faster to just write it from scratch yourself.
+When you pair-program with an AI agent for more than an hour, it inevitably contracts a severe case of amnesia—the dreaded "lost in the middle" phenomenon. Its context window maxes out, it burns your instructions to the ground, and it starts mindlessly overwriting perfectly good code. At that point, it’s honestly faster to just write the logic from scratch yourself.
 
-So, I built this. It’s time to stop relying on the fleeting, volatile memory of chat windows. This is a hardcore cheat code that **forces your AI to establish and strictly adhere to a permanent 'Source of Truth' embedded directly in a Markdown document.**
+So, I built this. It’s time to stop relying on the volatile, fleeting memory of chat windows. This is a hardcore cheat code that **forces your AI to establish and strictly adhere to a permanent 'Source of Truth' embedded directly in a Markdown document.**
 
 ---
 
 ## ⚡️ 3-Line Summary (TL;DR)
 
-- Never trust the chat window (History). It's volatile garbage data that will vanish by tomorrow.
-- Force the AI to update a Markdown specification document *before* it is allowed to touch a single line of code. (Markdown-Driven Development, MDD)
+- Never trust the chat window history. It's volatile garbage data that will vanish by tomorrow.
+- Force the AI to update a Markdown specification document *before* it is allowed to touch a single line of code (Markdown-Driven Development, MDD).
 - When the conversation drags on, forcefully compress and save all business logic and task status into a permanent `memory.md` file.
 
 ---

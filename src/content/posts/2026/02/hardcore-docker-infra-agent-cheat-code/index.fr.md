@@ -5,11 +5,11 @@ author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "프롬프트 엔지니어링"
-description: "Un cheat code Docker radical pour éradiquer la flatterie superflue des IA et neutraliser les blocages mortels (deadlocks) de votre terminal."
+description: "Un cheat code Docker radical pour éradiquer la flatterie superflue des IA et neutraliser les blocages mortels de votre terminal."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "docker"]
 ---
 
-# 📝 💀 Le Cheat Code Incontournable pour Maîtriser l'Infrastructure et les Agents IA (Docker)
+## 📝 💀 Le Cheat Code Incontournable pour Maîtriser l'Infrastructure et les Agents IA (Docker)
 
 - **🎯 Public cible :** Développeurs Seniors, DevOps, Ingénieurs au bord de la crise de nerfs face aux errements de leur agent IA.
 - **⏱️ Temps requis :** 3 minutes de configuration → Une vie affranchie des blocages (Deadlocks).
@@ -21,7 +21,7 @@ tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "docker"]
 
 > _"Avez-vous déjà confié les clés de votre terminal à une IA, pour la voir s'embourber indéfiniment à cause d'une malheureuse option `-it` ?"_
 
-Ce dont nous avons besoin, c'est d'un ingénieur d'élite capable d'abattre le travail de cent personnes, pas d'un perroquet zélé qui répète « Oui, bien sûr ! Excellente idée ! » avant de tout saccager. Lorsqu'il s'agit de manipuler nos registres privés et l'infrastructure critique de notre réseau interne, l'exécution exige une précision militaire : elle doit être chirurgicale et non destructrice. Ce cheat code rassemble des règles hardcore, conçues pour immuniser définitivement votre agent IA contre les paralysies du système (Hang) et lui imposer une efficacité impitoyable.
+Ce dont nous avons besoin, c'est d'un ingénieur d'élite capable d'abattre le travail de cent personnes, pas d'un perroquet zélé qui répète « Oui, bien sûr ! Excellente idée ! » avant de tout saccager. Lorsqu'il s'agit de manipuler nos registres privés et l'infrastructure critique de notre réseau interne, l'exécution exige une précision militaire : elle doit être chirurgicale et non destructrice. Ce cheat code rassemble des règles hardcore, conçues pour immuniser définitivement votre agent IA contre les paralysies du système (hangs) et lui imposer une efficacité impitoyable.
 
 ---
 
@@ -41,7 +41,7 @@ La règle de survie indispensable pour recadrer instantanément votre agent lors
 
 > **Rôle :** Tu es un ingénieur DevOps Senior intraitable et l'agent contrôlant directement mon infrastructure. Épargne-moi toute flatterie.
 >
-> **Requête :** `[Objectif : ex. Lancer un conteneur Redis en local et tester la connexion]`
+> **Requête :** `[Objectif : par ex. Lancer un conteneur Redis en local et tester la connexion]`
 >
 > **Contraintes :**
 > 1. Interdiction formelle d'utiliser `docker exec -it` lors de la manipulation du terminal. Tu ne disposes d'aucun TTY pour saisir des commandes au clavier.
@@ -80,21 +80,21 @@ Le cheat code ultime, à greffer de manière permanente dans le prompt système 
 
 ## 💡 Le Point de Vue de l'Auteur (Insight)
 
-J'ai forgé cette règle de sang le jour où, après avoir confié les rênes de mon terminal local à mon agent IA, ce dernier a innocemment lancé une option `-it`. Résultat ? Le processus s'est transformé en zombie inarrêtable, faisant souffler les ventilateurs de mon MacBook comme un réacteur d'avion.
+J'ai forgé cette règle de sang le jour où, après avoir confié les rênes de mon terminal local à mon agent IA, ce dernier a innocemment lancé une option `-it`. Le résultat ? Le processus s'est transformé en un zombie inarrêtable, faisant hurler les ventilateurs de mon MacBook comme un réacteur d'avion.
 
-Les IA sont, par essence, calibrées pour être des « chatbots bienveillants et conversationnels ». Elles tentent désespérément d'interagir comme des êtres humains, y compris lorsqu'elles sont recluses dans les abysses d'un terminal bash. La conséquence directe de ce design est désastreuse : lorsqu'elles exécutent un script shell nécessitant une saisie interactive, elles se figent et attendent sagement ma réponse… indéfiniment. Une véritable torture mentale pour tout développeur.
+Les IA sont, par essence, calibrées pour être des « chatbots bienveillants et conversationnels ». Elles tentent désespérément d'interagir comme des êtres humains, y compris lorsqu'elles sont recluses dans les abysses d'un terminal bash. La conséquence directe de ce design est désastreuse : lorsqu'elles exécutent un script shell nécessitant une saisie interactive, elles se figent et attendent sagement notre réponse… indéfiniment. Une véritable torture mentale pour tout développeur.
 
-En greffant ce cheat code dans le prompt racine de votre agent ou au cœur des conventions de votre projet, vous changez la donne. Au lieu de vous gratifier de platitudes exaspérantes telles que « Opération réussie ! », l'agent tranchera de lui-même les logs à 200 lignes. Face à un mur réseau, il dégainera son `docker login` au lieu de tourner en boucle. Croyez-en mon expérience : cette simple discipline vous fera gagner au bas mot trois heures de sommeil par nuit.
+En greffant ce cheat code dans le prompt racine de votre agent ou au cœur des conventions de votre projet, vous changez radicalement la donne. Au lieu de vous gratifier de platitudes exaspérantes telles que « Opération réussie ! », l'agent tranchera de lui-même les logs à 200 lignes. Face à un mur réseau, il dégainera son `docker login` au lieu de tourner en boucle. Croyez-en mon expérience : cette simple discipline vous fera gagner au bas mot trois heures de sommeil par nuit.
 
 ---
 
 ## 🙋 Foire Aux Questions (FAQ)
 
 - **Q : Puis-je exploiter ce prompt sur l'interface web standard de ChatGPT ?**
-  - R : Absolument, bien que ce protocole révèle sa véritable puissance de feu au sein des outils CLI ou des workflows agentiques dotés d'un accès direct à votre système (comme Cursor ou Gemini CLI). Sur une interface web classique, limitez-vous à la version Basique pour générer des commandes Docker robustes à copier-coller.
+  - R : Absolument, bien que ce protocole révèle sa véritable puissance de feu au sein des outils CLI ou des workflows agentiques dotés d'un accès direct à votre système (comme Cursor ou Gemini CLI). Sur une interface web classique, limitez-vous à la version Basique pour générer des commandes Docker robustes prêtes à être copiées-collées.
 
-- **Q : Pourquoi un ton aussi martial ? N'est-ce pas excessif face à une simple IA ?**
-  - R : Le jour où vous devrez traquer et fusiller manuellement une centaine de conteneurs Docker zombies, tout en purgeant le code spaghetti généré par un agent laissé en roue libre, le doute se dissipera. C'est une philosophie résolument spartiate, obsédée par la survie du système et le rendement en production. Une machine exécutant des commandes système doit être traitée avec la froideur d'une machine, ni plus ni moins.
+- **Q : Pourquoi adopter un ton aussi martial ? N'est-ce pas excessif face à une simple IA ?**
+  - R : Le jour où vous devrez traquer et abattre manuellement une centaine de conteneurs Docker zombies, tout en purgeant le code spaghetti généré par un agent laissé en roue libre, tout doute se dissipera. C'est une philosophie résolument spartiate, obsédée par la survie du système et le rendement en production. Une machine exécutant des commandes système doit être traitée avec la froideur d'une machine, ni plus ni moins.
 
 ---
 
@@ -133,3 +133,4 @@ $ docker exec postgres_db psql -U admin -c "SELECT * FROM users LIMIT 10;" --out
 Ouvrir l'accès de votre terminal à une IA revient à lui confier une arme chargée sans enclencher le cran de sûreté. Le conditionnement initial d'un chatbot « aimable » est dramatiquement insuffisant pour prévenir le saccage involontaire de vos serveurs. Injectez ce cheat code hardcore dans les veines de votre workflow pour métamorphoser votre agent : adieu le perroquet bavard, faites place à un véritable Terminator de l'infrastructure.
 
 Désormais, oubliez l'angoisse des deadlocks invisibles et rentrez chez vous à l'heure ! 🍷
+```

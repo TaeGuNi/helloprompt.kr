@@ -9,7 +9,7 @@ description: "Deixe a IA planejar seu cardápio semanal, calcular os macronutrie
 tags: ["태그1", "태그2"]
 ---
 
-# 🥗 O Nutricionista de IA: Automação do Seu Cardápio Semanal
+## 🥗 O Nutricionista de IA: Automação do Seu Cardápio Semanal
 
 - **🎯 Recomendado para:** Profissionais ocupados, entusiastas do mundo fitness, mães e pais de família.
 - **⏱️ Tempo Gasto:** 1 hora → 2 minutos
@@ -21,7 +21,7 @@ tags: ["태그1", "태그2"]
 
 > _"Cansado de encarar a geladeira aberta todas as noites e se perguntar o que vai comer? Deixe a IA planejar sua semana inteira de refeições saudáveis e gerar a lista de compras em segundos."_
 
-O planejamento das refeições é uma daquelas tarefas invisíveis que devoram horas do nosso fim de semana. Quebrar a cabeça para encontrar receitas diferentes, tentar equilibrar os nutrientes e, em seguida, montar a lista do supermercado pode ser absolutamente exaustivo e frustrante. Com este prompt, você transforma a Inteligência Artificial no seu nutricionista e chef particular — poupando tempo valioso, reduzindo drasticamente o desperdício de alimentos e mantendo a sua dieta impecável sem esforço.
+O planejamento alimentar é uma daquelas tarefas invisíveis que devoram horas preciosas do nosso fim de semana. Encarar a geladeira vazia, quebrar a cabeça para criar receitas variadas, tentar equilibrar os macronutrientes e, ainda por cima, montar a lista de compras perfeita pode ser uma experiência **absolutamente exaustiva e frustrante**. Com este prompt, você transforma a Inteligência Artificial no seu **nutricionista e chef particular** — poupando um tempo valioso, reduzindo drasticamente o desperdício de alimentos e mantendo a sua dieta impecável sem o menor esforço.
 
 ---
 
@@ -77,7 +77,7 @@ Utilize esta versão para um planejamento de alto nível, com controle rigoroso 
 
 ## 💡 Comentário do Autor (Insight)
 
-A verdadeira "mágica" deste prompt não reside apenas na sugestão de pratos saudáveis, mas na **engenharia logística** por trás de sua estrutura. Ao forçar a IA a organizar a lista de compras por seções do supermercado e a priorizar o reaproveitamento de ingredientes (como usar metade de um repolho na segunda-feira e a outra metade na quinta), você reduz drasticamente a sua conta no fim do mês. É o casamento perfeito entre saúde física e gestão financeira pessoal.
+A verdadeira "mágica" deste prompt não reside apenas em sugerir pratos saudáveis, mas na **engenharia logística** por trás da sua estrutura. Ao forçar a IA a organizar a lista de compras por seções do supermercado e a priorizar o **reaproveitamento de ingredientes** (como usar metade de um repolho na segunda-feira e a outra metade na quinta), você reduz drasticamente o tempo nas prateleiras e a conta no final do mês. É o casamento perfeito entre a sua **saúde física** e a sua **gestão financeira pessoal**.
 
 ---
 
@@ -140,6 +140,6 @@ Jantar: Carne moída com arroz
 
 ## 🎯 Conclusão
 
-O planejamento das refeições não precisa mais ser a pior parte do seu domingo. Com este prompt em mãos, você ganha clareza mental, economiza dinheiro no supermercado e garante que o seu corpo receba o combustível ideal para a semana inteira.
+O planejamento alimentar não precisa mais ser a pior parte do seu domingo. Com este prompt em mãos, você ganha **clareza mental**, economiza dinheiro no supermercado e garante que o seu corpo receba o combustível ideal para a semana inteira.
 
-Copie o prompt, preencha-o com os seus dados reais e vá aproveitar o seu tempo livre! 🍷
+Copie o prompt, preencha-o com os seus dados reais e vá aproveitar o seu merecido tempo livre! 🍷

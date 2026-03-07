@@ -5,13 +5,13 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "MéthodeÉtude/Auto-Développement"
-description: "La meilleure façon de vérifier si vous avez parfaitement compris un sujet est de l'expliquer aux autres. Expliquez vos concepts à l'IA et recevez des retours instantanés."
+description: "Vérifiez votre maîtrise d'un sujet en l'expliquant à un enfant de 12 ans simulé par l'IA. Identifiez vos lacunes instantanément avec la technique Feynman."
 tags: ["MéthodeÉtude", "TechniqueFeynman", "Métacognition", "Éducation"]
 ---
 
-# 📝 Étudier Comme un Génie : Bot d'Entraînement à la Technique Feynman
+## 📝 Étudier Comme un Génie : Bot d'Entraînement à la Technique Feynman
 
-- **🎯 Recommandé pour :** Étudiants, professionnels en reconversion, et quiconque souhaite maîtriser un nouveau sujet
+- **🎯 Recommandé pour :** Étudiants, professionnels en reconversion et quiconque souhaite maîtriser un nouveau sujet
 - **⏱️ Temps requis :** 5 minutes
 - **🤖 Modèle recommandé :** Tous les modèles d'IA (ChatGPT, Claude, Gemini)
 
@@ -21,7 +21,7 @@ tags: ["MéthodeÉtude", "TechniqueFeynman", "Métacognition", "Éducation"]
 
 > _"Se contenter de survoler un livre donne souvent l'illusion de la compétence. Le véritable test de maîtrise survient lorsque vous devez l'expliquer à voix haute."_
 
-La technique Feynman est une méthode d'apprentissage redoutable consistant à expliquer un concept complexe comme si vous vous adressiez à un enfant de 12 ans. Fini les monologues face au mur et le syndrome de la page blanche le jour de l'examen ! L'IA incarne désormais cet élève curieux (et parfois impertinent) pour éprouver la solidité de vos connaissances.
+La technique Feynman est une méthode d'apprentissage redoutable : elle consiste à expliquer un concept complexe comme si vous vous adressiez à un enfant de 12 ans. Fini les monologues face au mur et le syndrome de la page blanche le jour de l'examen ! Désormais, l'IA incarne cet élève curieux (et parfois impertinent) pour éprouver la solidité de vos connaissances.
 
 ---
 

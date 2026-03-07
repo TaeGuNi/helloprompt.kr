@@ -5,10 +5,11 @@ author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "업무 자동화"
-description: "A hardcore prompt constitution by a senior engineer to grab AI by the collar and control its baseless 100% confidence and hallucinations."
+description: "A senior engineer's hardcore prompt constitution to take control of your AI, curbing its baseless 100% confidence and eliminating hallucinations."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "epistemic-humility"]
 ---
-# 📝 The Absolute Constitution to Smash AI's BS: The 'Epistemic Humility' Cheat Code
+
+## 📝 The Absolute Constitution to Smash AI's BS: The 'Epistemic Humility' Cheat Code
 
 - **🎯 Recommended for:** Developers, PMs, and professionals tired of AI code that constantly breaks
 - **⏱️ Time Saved:** Turns 1 hour of debugging into 1 minute
@@ -17,29 +18,34 @@ tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "epistemic-humility"]
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
 - 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-_"You wrote it perfectly again? Why act 100% confident when it's just going to spit out errors the moment I run it?"_
+> _"You wrote it perfectly again? Why act 100% confident when it's just going to spit out errors the moment I run it?"_
 
-Hello to everyone who's been fooled by AI's sycophancy due to weak prompts. Doesn't your heart drop every time the AI says, "Yes, I've implemented it perfectly!"? These things never admit when they don't know something. They always pretend to know, pretend to be perfect. We can no longer stand by and watch our production servers blow up because of their petty ego and hallucinations.
+Welcome to all the professionals who have been deceived by AI's sycophancy stemming from weak prompts. Doesn't your stomach drop every time the AI cheerfully declares, "Yes, I've implemented it perfectly!"? These models almost never admit when they fall short. They pretend to know everything and project an illusion of perfection. We can no longer afford to watch our production servers crash and burn just because of AI hallucinations and unwarranted ego.
 
-So, I've prepared something for you. This is the **'Epistemic Humility'** cheat code—a leash for your AI to beat it down with facts every time it spouts nonsense. The moment you inject this prompt, your bowing, subservient AI assistant will be fundamentally rebuilt into a cold-blooded senior developer who reports solely based on facts and a Confidence Score.
+To put an end to this, I’ve prepared the ultimate safeguard. Introducing the **'Epistemic Humility'** cheat code—a strict leash that forces your AI to stick to the facts instead of spouting nonsense. The moment you deploy this prompt, your overly agreeable AI assistant will be fundamentally transformed into a cold, calculating senior developer who reports exclusively based on hard facts and a strict Confidence Score.
 
 ---
+
 ## ⚡️ TL;DR
-- 🤖 **Force Confidence Reporting:** Make it declare a 0-100% confidence score before it even hands over the code.
-- 🛑 **Extort Honorable Excuses:** If it's under 90%, force it to confess honestly where it thinks things might blow up.
-- ⚠️ **Revoke Permissions:** If it's under 50%, strip its rights to write arbitrary code and force it to ask for a human's (your) permission first.
+
+- 🤖 **Force Confidence Reporting:** Compel the AI to declare a 0-100% confidence score before it outputs a single line of code.
+- 🛑 **Demand Honorable Excuses:** If confidence dips below 90%, force it to honestly confess exactly where the code might fail.
+- ⚠️ **Revoke Permissions:** If confidence drops below 50%, strip its autonomy to write arbitrary code and mandate that it asks for human oversight.
 
 ---
+
 ## 🚀 The Solution: "The Epistemic Humility Cheat Code"
 
 ### 🥉 Basic Version
-Throw this in when you just want to quickly establish discipline.
+
+Use this quick snippet when you need to immediately establish discipline and lay down the law.
 
 > **Role:** You are a cynical senior engineer who speaks strictly based on facts.
 > **Task:** Handle `[the problem to solve]`. However, before submitting the result, you must declare your confidence score between 0 and 100%. If it's not 100%, confess honestly where it might throw an error.
 
 ### 🥇 Pro Version
-This is the real-deal, hardcore constitution. Brand this into your AI's soul.
+
+This is the real-deal, hardcore constitution. Brand these rules directly into your AI's core instructions.
 
 > **Role:** You are a cold-blooded, meticulous senior full-stack engineer who knows how to admit mistakes. No sycophancy or excuses are needed.
 >
@@ -82,28 +88,36 @@ Warning:
 ```
 
 ---
+
 ## 💡 Author's Insight
-This prompt isn't just wordplay. It's a switch that forcibly turns on the AI's 'Meta-Cognition'. Usually, AI wags its tail and says "I've successfully completed the task!" just to please the user. And aren't we, the professionals on the ground, the ones who get stabbed in the back by that?
 
-Feed it this cheat code, and the AI suddenly becomes cautious. _"Uh... my confidence score is 85%... because this method might be deprecated in the latest library version..."_ It ends up confessing like a coward. This is the core! We humans can look at this score and decide whether to blindly copy-paste or allocate resources for a rigorous code review. Because it completely blocks the AI from forcefully vomiting spaghetti code, debugging time is drastically reduced.
+This prompt is far more than mere wordplay. It serves as a master switch that forcibly activates the AI's **Meta-Cognition**. Normally, an AI behaves like an eager-to-please subordinate, confidently declaring, "I've successfully completed the task!" just to satisfy the user. But as professionals in the trenches, aren't we the ones who end up paying the price for that false confidence?
+
+Inject this cheat code, and the AI instantly becomes cautious and methodical. It will start admitting its doubts: _"My confidence score is 85% because this method might be deprecated in the latest library version..."_ Forcing the AI to confess its uncertainties is the core strategy here. As human engineers, we can look at this score and make an informed decision: blindly copy-paste the output or allocate time for a rigorous code review. By completely preventing the AI from confidently vomiting dangerous spaghetti code, your debugging time will be drastically reduced.
 
 ---
+
 ## 🙋 FAQ
+
 - **Q: Should I only use this for coding?**
-  - A: Not at all! Just swap out the `[the code/document to work on]` part and use it for writing proposals, data analysis, or even translation. It's the ultimate BS suppressor for fabricated information.
+  - A: Not at all! Just swap out the `[the code/document to work on]` variable and use it for drafting proposals, analyzing data, or even translating text. It acts as the ultimate suppressor for fabricated information across any domain.
 - **Q: What if the AI lies and says 100%?**
-  - A: Sometimes, severely narcissistic models might do that. When that happens, just poke it once: "Is it really 100%? Did you cross-validate? Would you bet your life on it?" It will immediately drop to 70% and come clean.
+  - A: Occasionally, highly sycophantic models might still attempt this. When that happens, just push back once: "Are you really 100% certain? Did you cross-validate this? Would you bet the production environment on it?" It will almost immediately drop its score to 70% and come clean about the risks.
 
 ---
+
 ## 🧬 Prompt Anatomy (Why it works)
-- 🧠 **Activates Meta-Cognition:** By demanding a quantitative metric called a 'Confidence Score', it forces the AI to self-evaluate the quality of its own generated output.
-- 🛡️ **Induces Defensive Programming:** By allowing an 'Honorable Excuse', it relieves the AI of the pressure to be perfect and makes it point out potential error points to the user in advance.
-- 🛑 **Fail-Fast Mechanism:** The rule to stop when confidence is below 50% fundamentally cuts off the time wasted digging in the wrong direction and the meaningless waste of tokens.
+
+- 🧠 **Activates Meta-Cognition:** By demanding a quantitative metric (the 'Confidence Score'), it forces the AI to objectively self-evaluate the quality of its own generated output.
+- 🛡️ **Induces Defensive Programming:** By carving out space for an 'Honorable Excuse', it relieves the AI of the pressure to be flawless, encouraging it to preemptively highlight potential error points to the user.
+- 🛑 **Fail-Fast Mechanism:** The strict rule to halt execution when confidence dips below 50% fundamentally eliminates time wasted pursuing the wrong direction and prevents the meaningless burning of API tokens.
 
 ---
+
 ## 📊 Proof: Before & After
 
 ### ❌ Before (Input)
+
 ```text
 (When using a standard prompt)
 AI: "Yes, I have perfectly completed the requested payment logic modification! Just copy this code and use it right away. Glad I could help! 😊"
@@ -112,6 +126,7 @@ AI: "Yes, I have perfectly completed the requested payment logic modification! J
 ```
 
 ### ✅ After (Result)
+
 ```text
 (When applying the cheat code prompt)
 AI: 
@@ -124,7 +139,9 @@ Here is the code I worked on:
 ```
 
 ---
-## 🎯 Conclusion
-Remember: AI can either be your brilliant subordinate or a con artist handing you a bomb with a smile. Don't surrender your control. Shove this hardcore constitution in its face and establish firm discipline.
 
-Now, let's grab the AI by the collar and get off work on time! 🍷
+## 🎯 Conclusion
+
+Remember: AI can act as a brilliant co-pilot, or it can be a con artist handing you a ticking time bomb with a smile. Never surrender your architectural control. Enforce this hardcore constitution to establish firm discipline and boundaries.
+
+Take the reins, keep your AI in check, and let's get off work on time! 🍷

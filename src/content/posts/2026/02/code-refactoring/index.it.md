@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-07T09:10:33.120Z"
 updatedDate: "2026-02-07T09:10:33.120Z"
 category: "Programmazione/IT"
-description: " \"Un prompt che trasforma il codice disordinato che 'funziona a malapena' in un codice pulito, leggibile e manutenibile.\""
+description: "Un prompt che trasforma un codice disordinato che 'funziona a malapena' in codice pulito, leggibile e altamente manutenibile."
 tags: ["Refactoring", "Clean Code", "Sviluppatore", "Code Review"]
 ---
 
-# 📝 Il mio codice è spazzatura! Coach per il Refactoring Clean Code
+## 📝 Il mio codice è spazzatura! Coach per il Refactoring Clean Code
 
 - **🎯 Destinatari:** Sviluppatori, Ingegneri del Software, Code Reviewer
 - **⏱️ Tempo richiesto:** 30 minuti → 1 minuto
@@ -21,14 +21,14 @@ tags: ["Refactoring", "Clean Code", "Sviluppatore", "Code Review"]
 
 > _"Avevo detto che l'avrei sistemato in un secondo momento, ma è passato un anno e ora ho il terrore di toccarlo."_
 
-Il codice spaghetti è il peggior nemico di ogni sviluppatore. Quando la leggibilità cola a picco, scovare bug o aggiungere nuove funzionalità diventa un incubo logorante. Questo prompt evoca lo spirito di Robert C. Martin (l'autore di _Clean Code_), trasformando la tua base di codice disordinata in un capolavoro di ingegneria del software elegante, cristallino e a prova di proiettile.
+Il codice spaghetti è l'incubo di ogni sviluppatore. Quando la leggibilità crolla, scovare bug o implementare nuove funzionalità diventa un'agonia senza fine. Questo prompt evoca lo spirito di Robert C. Martin (autore di _Clean Code_), trasformando una base di codice caotica in un capolavoro di ingegneria del software: elegante, cristallino e a prova di bomba.
 
 ---
 
 ## ⚡️ Riassunto in 3 righe (TL;DR)
 
 1. **Estrazione e Modularizzazione:** Rimozione spietata del codice duplicato e separazione netta delle responsabilità (Extract Method).
-2. **Naming Convention Intuitiva:** Sostituzione di nomi criptici di variabili e funzioni con definizioni semantiche che si spiegano da sole.
+2. **Nomenclatura Intuitiva:** Sostituzione di nomi criptici di variabili e funzioni con definizioni semantiche autoesplicative.
 3. **Ottimizzazione e Sintassi Moderna:** Refactoring architetturale per applicare gli standard più recenti e idiomatici del linguaggio.
 
 ---
@@ -37,39 +37,38 @@ Il codice spaghetti è il peggior nemico di ogni sviluppatore. Quando la leggibi
 
 ### 🥉 Basic Version (Versione Base)
 
-Utilizzala quando hai bisogno di una pulizia rapida del codice per un risultato immediato.
+Utilizzala quando hai bisogno di una rapida pulizia del codice per ottenere un risultato immediato.
 
-> **Ruolo:** Sei un `[Evangelista del Clean Code e Chief Architect]`.
+> **Ruolo:** Sei un `[Evangelista del Clean Code e Software Architect]`.
 > **Richiesta:** Esegui un refactoring di questo `[Codice disordinato]` per renderlo pulito, intuitivo e facilmente manutenibile, mantenendone intatte le funzionalità originali.
-
 
 ### 🥇 Pro Version (Versione Esperto)
 
-Utilizzala per refactoring complessi dove è fondamentale capire la logica e il _perché_ delle modifiche architetturali.
+Utilizzala per sessioni di refactoring complesse, dove è fondamentale comprendere a fondo la logica e il _perché_ delle specifiche scelte architetturali.
 
-> **Ruolo (Role):** Sei un `[Evangelista del Clean Code e Chief Architect]`.
+> **Ruolo (Role):** Sei un `[Evangelista del Clean Code e Software Architect]`.
 >
 > **Contesto (Context):**
 >
-> - Background: Il codice attuale compila e funziona, ma è profondamente aggrovigliato, difficile da leggere e prono a futuri bug (Dirty Code).
-> - Obiettivo: Eseguire un refactoring radicale per garantire un'elevata manutenibilità, scalabilità e leggibilità immediata per l'intero team di sviluppo.
+> - Background: L'attuale base di codice compila e funziona, ma è profondamente aggrovigliata, difficile da interpretare e incline a futuri bug (Dirty Code).
+> - Obiettivo: Eseguire un refactoring radicale per garantire elevata manutenibilità, scalabilità e una leggibilità immediata per l'intero team di sviluppo.
 >
 > **Richiesta (Task):**
 >
-> 1. **[Senso del Naming]:** Rinomina variabili e funzioni in modo che siano semanticamente autoesplicativi (es. da `a` a `userAge`).
-> 2. **[Miglioramento Strutturale]:** Suddividi le funzioni monolitiche delegando le responsabilità specifiche (Single Responsibility Principle) e consolida la logica duplicata.
-> 3. **[Modernizzazione]:** Applica i costrutti sintattici più moderni e idiomatici del linguaggio di programmazione (es. ES6+, Python 3.10+).
-> 4. **[Before & After]:** Genera un confronto dettagliato tra il vecchio e il nuovo codice, motivando chiaramente le scelte architetturali adottate.
+> 1. **[Nomenclatura Semantica]:** Rinomina variabili e funzioni in modo che risultino semanticamente autoesplicative (es. da `a` a `userAge`).
+> 2. **[Miglioramento Strutturale]:** Suddividi le funzioni monolitiche delegando responsabilità specifiche (Single Responsibility Principle) e consolida l'eventuale logica duplicata.
+> 3. **[Modernizzazione]:** Applica i costrutti sintattici più moderni e idiomatici del linguaggio di programmazione in uso (es. ES6+, Python 3.10+).
+> 4. **[Before & After]:** Genera un confronto dettagliato tra il vecchio e il nuovo codice, motivando in modo chiaro le scelte architetturali adottate.
 >
 > **Vincoli (Constraints):**
 >
-> - Il comportamento, l'output e la logica di business del codice NON devono subire la minima alterazione (100% retrocompatibile).
-> - L'output deve presentare blocchi di codice Markdown ben formattati.
-> - Rimuovi i commenti superflui se il codice è già autoesplicativo. Aggiungi commenti (Comment) ESCLUSIVAMENTE per documentare logiche di business insolite o controintuitive.
+> - Il comportamento, l'output e la logica di business del codice NON devono subire la benché minima alterazione (deve essere retrocompatibile al 100%).
+> - L'output deve presentare blocchi di codice Markdown formattati correttamente.
+> - Rimuovi i commenti superflui laddove il codice risulti già autoesplicativo. Aggiungi commenti (Comment) ESCLUSIVAMENTE per documentare logiche di business insolite o controintuitive.
 >
 > **Attenzione (Warning):**
 >
-> - Se individui un potenziale bug o una vulnerabilità durante il refactoring, non risolverlo in silenzio: segnalalo esplicitamente alla fine della tua risposta.
+> - Qualora individuassi un potenziale bug o una vulnerabilità durante il refactoring, non risolverlo in silenzio: segnalalo esplicitamente al termine della tua risposta.
 >
 > **Codice Target:**
 > `[Incolla qui il tuo frammento di codice]`
@@ -78,34 +77,34 @@ Utilizzala per refactoring complessi dove è fondamentale capire la logica e il 
 
 ## 💡 Commento dell'autore (Insight)
 
-Questo prompt è un vero e proprio salvavita durante le sessioni di Code Review o quando ti trovi a dover ereditare progetti legacy (il famigerato "codice lasciato da chi si è licenziato"). La vera forza del prompt non risiede solo nel farsi riscrivere il codice in automatico, ma nel farsi spiegare il _motivo_ delle modifiche. Leggendo le motivazioni dell'IA (nel punto 4), assimilerai naturalmente i principi cardine dell'Ingegneria del Software (come DRY, KISS e SOLID), migliorando tangibilmente le tue capacità di sviluppo nel lungo periodo. Suggerisco caldamente di utilizzarlo accoppiato a Claude 3.5 Sonnet o GPT-4o per prestazioni architetturali eccellenti.
+Questo prompt è un autentico salvavita durante le sessioni di Code Review o quando ci si ritrova a dover ereditare progetti legacy (il famigerato "codice lasciato da chi si è licenziato"). La sua vera forza non risiede semplicemente nel farsi riscrivere il codice in automatico, ma nello spiegare il _motivo_ dietro ogni singola modifica. Leggendo le motivazioni fornite dall'IA (come richiesto nel punto 4), assimilerai in modo naturale i principi cardine dell'ingegneria del software (come DRY, KISS e SOLID), migliorando tangibilmente le tue competenze di sviluppo a lungo termine. Per ottenere prestazioni architetturali d'eccellenza, consiglio caldamente di utilizzarlo in combinazione con Claude 3.5 Sonnet o GPT-4o.
 
 ---
 
 ## 🙋 Domande Frequenti (FAQ)
 
-- **Q: Questo prompt altererà la logica del mio programma creando nuovi bug?**
-  - A: Il prompt include un vincolo rigoroso per mantenere intatto il comportamento originale (retrocompatibilità). Tuttavia, è sempre imperativo disporre di una suite di test (Unit Test) prima del refactoring per garantire con certezza matematica l'assenza di regressioni.
+- **Q: Questo prompt rischia di alterare la logica del mio programma e introdurre nuovi bug?**
+  - A: Il prompt include un vincolo rigoroso che impone di mantenere intatto il comportamento originale (retrocompatibilità al 100%). Tuttavia, è sempre fondamentale disporre di una suite di test (Unit Test) prima di procedere con il refactoring, per garantire con assoluta certezza l'assenza di regressioni.
 
-- **Q: Funziona con qualsiasi linguaggio di programmazione?**
-  - A: Assolutamente sì. Che tu stia sviluppando in Python, TypeScript, Java, C# o Rust, l'IA adatterà le convenzioni di Clean Code e lo stile idiomatico specifici per quell'ecosistema (es. PEP 8 per Python o le linee guida ESLint per TS).
+- **Q: È compatibile con qualsiasi linguaggio di programmazione?**
+  - A: Assolutamente sì. Che tu stia sviluppando in Python, TypeScript, Java, C# o Rust, l'IA applicherà le convenzioni di Clean Code e lo stile idiomatico specifici per quell'ecosistema (come la PEP 8 per Python o le regole di ESLint per TypeScript).
 
-- **Q: Posso passargli file interi da 1000 righe di codice?**
-  - A: È tecnicamente possibile, ma sconsigliato a causa dei limiti di contesto e di "attenzione" dei modelli LLM. Per risultati di precisione chirurgica e per prevenire allucinazioni, applica il refactoring a singole funzioni, classi o piccoli moduli di massimo 100-200 righe per volta.
+- **Q: Posso analizzare interi file da oltre 1000 righe di codice in una sola volta?**
+  - A: Tecnicamente è possibile, ma fortemente sconsigliato a causa dei limiti della finestra di contesto e dell'attenzione dei modelli LLM. Per ottenere risultati di precisione chirurgica ed evitare allucinazioni, ti suggerisco di applicare il refactoring a singole funzioni, classi o piccoli moduli di non oltre 100-200 righe per volta.
 
 ---
 
 ## 🧬 Analisi del Prompt (Why it works?)
 
-1. **Role Playing Architetturale:** Assegnando il ruolo di "Evangelista del Clean Code e Chief Architect", costringiamo l'IA a giudicare il codice non solo con il metro del "funziona/non funziona", ma esigendo rigorosi standard ingegneristici di livello Enterprise.
-2. **Definizione Strutturata dei Task:** Suddividendo il carico di lavoro in Naming, Struttura e Modernizzazione, evitiamo refactoring caotici ed eccessivamente creativi, focalizzando l'IA direttamente sulla risoluzione del debito tecnico.
-3. **Apprendimento Attivo (Before & After):** Richiedere la documentazione delle modifiche trasforma l'IA da un semplice strumento di autocompletamento a un mentore personale.
+1. **Role Playing Architetturale:** Assegnando il ruolo di "Evangelista del Clean Code e Software Architect", costringiamo l'IA a valutare il codice ben oltre il semplice parametro del "funziona o non funziona", pretendendo l'applicazione di rigorosi standard ingegneristici di livello Enterprise.
+2. **Definizione Strutturata dei Task:** Suddividendo il carico di lavoro in Nomenclatura, Struttura e Modernizzazione, preveniamo refactoring caotici o fin troppo "creativi", obbligando l'IA a concentrarsi esclusivamente sulla risoluzione del debito tecnico.
+3. **Apprendimento Attivo (Before & After):** Esigere una documentazione dettagliata delle modifiche trasforma l'IA: da banale strumento di autocompletamento diventa un vero e proprio mentore personale.
 
 ---
 
 ## 📊 Prova: Before & After
 
-Ecco come un tipico "codice da studente" viene trasformato in "codice da Senior Developer" in pochi istanti.
+Ecco come un tipico "codice da studente" si trasforma in un "codice da Senior Developer" in pochi istanti.
 
 ### ❌ Before (Input)
 
@@ -120,7 +119,7 @@ def calc(x, y):
         return y
 ```
 
-_(Il nome della funzione `calc` non fornisce contesto e le variabili `x`, `y` e `p` sono crittografiche.)_
+_(Il nome della funzione `calc` non fornisce alcun contesto e le variabili `x`, `y` e `p` sono a dir poco criptiche.)_
 
 ### ✅ After (Risultato del Prompt)
 
@@ -139,15 +138,15 @@ def calculate_discounted_price(age: int, base_price: float) -> float:
 
 **[Punti di miglioramento applicati dall'IA]**
 
-1. **Naming Semantico:** `calc` è diventato `calculate_discounted_price`, rendendo palese l'intento della funzione al primo sguardo.
-2. **Rimozione Magic Numbers:** I numeri arbitrari `19` e `0.9` sono stati estratti come costanti per dare loro un significato semantico di business.
-3. **Pattern Early Return:** Eliminazione dell'inutile blocco `else`, riducendo la profondità dell'indentazione e ottimizzando il flusso cognitivo di lettura.
-4. **Type Hinting Moderno:** Aggiunta dei tipi di dato (`int`, `float`) per innalzare la sicurezza statica e migliorare i suggerimenti negli IDE.
+1. **Nomenclatura Semantica:** `calc` è diventato `calculate_discounted_price`, chiarendo immediatamente lo scopo della funzione al primo sguardo.
+2. **Rimozione dei Magic Number:** I valori arbitrari `19` e `0.9` sono stati estratti come costanti, acquisendo così un preciso significato di business.
+3. **Pattern Early Return:** L'eliminazione del blocco `else` superfluo riduce la profondità dell'indentazione e ottimizza il flusso cognitivo durante la lettura.
+4. **Type Hinting Moderno:** L'aggiunta dei tipi di dato (`int`, `float`) incrementa la sicurezza statica e migliora i suggerimenti forniti dall'IDE.
 
 ---
 
 ## 🎯 Conclusione
 
-Un codice ben scritto si legge con la stessa fluidità di un buon romanzo. Rifattorizza il tuo codice non solo per il compilatore che dovrà eseguirlo, ma soprattutto per il te stesso del futuro (e per la pace mentale dei tuoi colleghi).
+Un codice ben scritto si legge con la stessa fluidità di un buon romanzo. Effettua il refactoring del tuo codice non solo per il compilatore che dovrà eseguirlo, ma soprattutto per il te stesso del futuro (e per tutelare la pace mentale dei tuoi colleghi).
 
-Ora chiudi il terminale, stacca dallo schermo e vai a farti una doccia. Rinfresca il tuo corpo, non solo il tuo codice! 🍷
+Ora chiudi il terminale, stacca gli occhi dallo schermo e vai a farti una doccia. Rinfresca il tuo corpo, non solo il tuo codice! 🍷

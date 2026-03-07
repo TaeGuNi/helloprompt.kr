@@ -9,7 +9,7 @@ description: "A smart AI prompt that unravels complex scientific principles usin
 tags: ["Parenting", "Education", "AI Prompt", "ChatGPT", "Parenting Tips"]
 ---
 
-# 📝 Unlocking the "Secret of the Blue Sky" for Science-Phobic Parents
+## 📝 Unlocking the "Secret of the Blue Sky" for Science-Phobic Parents
 
 - **🎯 Target Audience:** Parents, educators, and caregivers
 - **⏱️ Time Required:** 5 minutes → 1 minute

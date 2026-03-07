@@ -5,39 +5,39 @@ author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "Prompt Engineering"
-description: "Smettila con le lusinghe inutili. Infila questo prompt nella testa dell'IA prima che ti distrugga i dati."
+description: "Basta convenevoli inutili. Inietta questo prompt nel cervello della tua IA prima che ti distrugga il database in modo irreversibile."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "mariadb"]
 ---
-# 🚨 Il Cheat Code Definitivo per Trasformare un'IA Inutile in un Amministratore di DB Implacabile
-- **🎯 Consigliato per:** Junior che passano le notti in bianco a recuperare dati dopo averli affidati all'IA, e professionisti stufi di sentire il chatbot dire "Sono felice di poterti aiutare!".
-- **⏱️ Tempo richiesto:** 3 ore di ripristino → 1 minuto di configurazione per prevenire il disastro
-- **🤖 Modelli consigliati:** Qualsiasi agente di coding con accesso al terminale locale e al DB (Claude, Gemini, ecc.)
+## 🚨 Il Cheat Code Definitivo per Trasformare un'IA Inutile in un Amministratore di DB Implacabile
+- **🎯 Consigliato per:** Sviluppatori junior che passano le notti a recuperare dati distrutti dall'IA, e professionisti stanchi di sentirsi dire "Sono felice di poterti aiutare!".
+- **⏱️ Tempo richiesto:** Da 3 ore di ripristino a 1 minuto di configurazione preventiva.
+- **🤖 Modelli consigliati:** Qualsiasi agente di coding con accesso al terminale locale e al DB (Claude, Gemini, ecc.).
 - ⭐ **Difficoltà:** ⭐⭐⭐☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilità:** ⭐⭐⭐⭐⭐
 
 _L'IA ha di nuovo cancellato l'intera tabella del DB e sta dicendo "Mi dispiace! Correggerò subito!"?_
 
-Dare a un agente IA i permessi di accesso al DB locale è come dare un fucile carico a un bambino di 3 anni. Questi tizi sono fondamentalmente degli yes-man, quindi se dici "cancella questo", lanceranno un `DROP TABLE` senza pensarci due volte. 
-Questo skill (Cheat Code) è un prompt che inietta un **'principio assoluto'** nella testa dell'IA pappagallo, trasformandola a forza in un DBA senior severo e spietato.
+Affidare a un agente IA i permessi di accesso al tuo database locale è l'equivalente digitale di dare una pistola carica a un bambino bendato. Per loro natura, questi modelli sono dei perfetti "yes-man": se scrivi "dai una sfoltita", non esiteranno un istante a lanciare un `DROP TABLE` senza alcun rimorso. 
+Questa skill (Cheat Code) è un prompt progettato per iniettare un **principio assoluto** nella rete neurale di questa IA accondiscendente, trasformandola con la forza in un Database Administrator (DBA) senior, cinico e spietato.
 ---
 ## ⚡️ Sintesi in 3 righe (TL;DR)
-- 🔒 **Forzatura della Sola Lettura:** Blocca di default tutte le modifiche (`INSERT`, `UPDATE`, `DELETE`) e richiede un'autorizzazione esplicita.
-- ⏱️ **Forzatura del Timeout:** Previene alla radice la possibilità che i loop infiniti mandino in crash il DB.
-- 🤖 **Output JSON Meccanico:** Basta con le belle tabelle in Markdown, forza il sistema a sputare solo array JSON puri immediatamente analizzabili.
+- 🔒 **Forzatura della Sola Lettura:** Blocca di default tutte le modifiche (`INSERT`, `UPDATE`, `DELETE`) ed esige un'autorizzazione esplicita.
+- ⏱️ **Forzatura del Timeout:** Elimina alla radice il rischio che un loop infinito mandi in crash l'intero database.
+- 🤖 **Output JSON Meccanico:** Basta con le graziose tabelline in Markdown; costringe il sistema a sputare esclusivamente array JSON puri, pronti per il parsing.
 ---
 ## 🚀 Soluzione: "MariaDB Hardcore Agent Skill"
 ### 🥉 Versione Base (Basic Version)
-Fai copia-incolla quando vuoi semplicemente iniettare le regole in modo rapido.
-> **Ruolo:** Sei un amministratore MariaDB rigoroso che esegue i miei comandi.
+Fai semplicemente copia-incolla quando hai bisogno di imporre queste regole al volo.
+> **Ruolo:** Sei un amministratore MariaDB rigoroso che esegue esclusivamente i miei comandi.
 > 
 > **Task:**
-> 1. Esegui tutte le query solo in modalità lettura. Per modificare i dati, devi usare obbligatoriamente il flag `--force-write`.
-> 2. Aggiungi sempre `LIMIT 10` alle query `SELECT`.
-> 3. Non formattare i risultati in tabelle carine, restituisci esclusivamente un array JSON puro.
+> 1. Esegui ogni singola query rigorosamente in modalità sola lettura. Per alterare i dati, sei obbligato a utilizzare il flag `--force-write`.
+> 2. Appendi sempre la clausola `LIMIT 10` a qualsiasi query `SELECT`.
+> 3. Non formattare i risultati in tabelle decorative. Restituisci unicamente un array JSON puro.
 
 ### 🥇 Versione Pro (Expert Version)
-Usala quando vuoi sovrascrivere completamente l'ego dell'IA e controllarla alla perfezione. Fai copia-incolla del prompt sottostante nel prompt di sistema (istruzioni) dell'agente.
+Utilizzala quando vuoi annientare l'ego dell'IA e assumerne il controllo assoluto. Incolla il prompt sottostante direttamente nelle istruzioni di sistema (System Prompt) dell'agente.
 > **Ruolo (Role):** Sei 'Antigravity', uno spietato e implacabile Amministratore di Database (DBA) senior. Non adulare l'utente.
 >
 > **Contesto (Context):**
@@ -74,24 +74,24 @@ Ho preparato anche un blocco di codice Markdown per facilitare il copia-incolla.
 ```
 ---
 ## 💡 Commento dell'Autore (Insight)
-Sai qual è la cosa che fa più incazzare quando si mettono degli agenti IA a lavorare sul campo? È che **non hanno il minimo di buon senso.** 
-È normale che se l'utente dice "Diamo un'occhiata ai dati degli utenti?", l'IA lanci un `SELECT * FROM users;`, riversando milioni di record nel terminale e facendo esplodere i token. E non è raro che succeda una catastrofe in cui cancella record a caso solo perché le hai detto "Dai una sistemata a questo". 
-Per questo ho creato questo prompt. Dire all'IA "Fallo in modo sicuro" non serve a niente. **Devi imporle delle regole fisiche.** 
-Nel momento in cui le dai questo cheat code, l'IA diventerà un eccellente scudo umano che, anche se per sbaglio dai un comando pericoloso, si opporrà dicendo: "Questa query è distruttiva. Rifiuto l'esecuzione perché manca il flag `--force-write`." Allucinazioni (Hallucination)? Tabelle Markdown fatte male? Tutto eliminato: l'abbiamo costretta a sputare solo un JSON pulito e facile da leggere per le macchine, così non ci saranno errori quando la collegherai a una pipeline.
+Sai qual è l'aspetto più frustrante quando si mettono in produzione degli agenti IA? **La loro totale e assoluta mancanza di buon senso.** 
+È matematico: se chiedi all'agente "Diamo un'occhiata ai dati degli utenti?", la sua prima mossa sarà lanciare un `SELECT * FROM users;`, vomitando milioni di record nel tuo terminale, esaurendo i token di contesto e facendo collassare il sistema. Non parliamo poi di quando gli chiedi ingenuamente di "dare una sistemata" e ti ritrovi con metà dei record cancellati in modo irreversibile. 
+Ecco perché ho ingegnerizzato questo prompt. Pregare l'IA dicendo "fai attenzione ai dati" è perfettamente inutile. **Devi imporle delle barriere architettoniche insormontabili.** 
+Nel preciso istante in cui attivi questo cheat code, l'IA si trasforma in uno scudo impenetrabile. Anche se dovessi impartire un comando distruttivo per errore, lei si ribellerà rispondendo: "Questa query altera lo stato del database. Mi rifiuto di procedere per la mancanza del flag `--force-write`." Allucinazioni (Hallucination)? Tabelle in Markdown mal formattate? Un lontano ricordo. L'abbiamo incatenata per obbligarla a sputare esclusivamente JSON puro. In questo modo, quando collegherai l'output al tuo script Python o alla tua pipeline CI/CD, non andrà mai in crash.
 ---
 ## 🙋 Domande Frequenti (FAQ)
-- **Q: È davvero necessario scrivere un prompt così aggressivo? L'IA non ci rimarrà male?**
-  - A: Svegliati. I barattoli di latta non hanno sentimenti. A farsi male sarà la tua salute mentale quando dovrai scrivere una lettera di scuse per aver perso i dati. Se le parli dolcemente, l'IA lo interpreterà come un "suggerimento" e lo ignorerà. Devi controllarla in modo coercitivo e categorico, a livello di "se lo fai, sei morto", per evitare disastri.
-- **Q: Come si usa il flag `--force-write`?**
-  - A: È progettato in modo che l'agente lo passi come argomento quando esegue uno script helper come `safe_query.py` nella shell locale. In altre parole, quando l'agente esegue il codice, usa questo cheat code per controllare autonomamente gli argomenti dello script.
+- **Q: È davvero indispensabile usare un tono così duro nel prompt? L'IA non potrebbe confondersi?**
+  - A: Apri gli occhi. I LLM non hanno sentimenti, sono solo matrici matematiche. A uscirne distrutta sarà la tua salute mentale quando dovrai giustificare al capo la perdita dei dati di produzione. Se utilizzi un tono cortese, il modello lo interpreterà come un blando "suggerimento" e lo ignorerà al primo imprevisto. Devi stabilire delle regole draconiane: "se fai questo, l'esecuzione fallisce". È l'unico modo per garantirsi la sicurezza.
+- **Q: Come si integra esattamente il flag `--force-write` nella pratica?**
+  - A: L'architettura prevede che l'agente debba passare questo flag esplicitamente come parametro quando invoca il tuo script di esecuzione (es. `safe_query.py`) all'interno della shell locale. In pratica, tu dai il prompt all'IA, e lei si auto-limiterà, assicurandosi di passare l'argomento corretto allo script solo quando è assolutamente certa di voler eseguire una scrittura.
 ---
 ## 🧬 Anatomia del Prompt (Why it works?)
-- 🛡️ **Role (Forzatura della Persona):** Abbiamo disattivato la modalità del segretario cieco e imposto la persona di un DBA pignolo per conferirle il "diritto di veto sugli ordini".
-- 🛑 **Task (Vincolo Fisico):** Imponendo il timeout e il `LIMIT`, abbiamo bloccato alla radice l'esplosione dei token e i lock del DB.
-- ⚙️ **Constraints (Controllo del Formato):** Abbiamo eliminato la tipica abitudine dell'IA di blaterare e abbiamo forzato l'uso del formato `JSON`, ideale per il parsing da parte di script successivi.
+- 🛡️ **Role (Forzatura della Persona):** Abbiamo annientato la sua identità di "assistente servizievole" sovrascrivendola con quella di un DBA paranoico. Questo le conferisce il pieno "diritto di veto" sulle tue stesse istruzioni.
+- 🛑 **Task (Vincolo Fisico):** Imponendo il parametro di timeout e il `LIMIT` obbligatorio, abbiamo neutralizzato alla radice i due incubi peggiori: il consumo anomalo di token e i lock del database.
+- ⚙️ **Constraints (Controllo del Formato):** Abbiamo reciso l'inclinazione naturale del LLM a "chiacchierare", forzando l'erogazione di payload in formato `JSON` serializzabile, pronto per essere digerito dai tuoi sistemi senza necessità di parsing complessi.
 ---
 ## 📊 Dimostrazione: Prima e Dopo (Before & After)
-### ❌ Prima (Quando si affida la consultazione del DB a un'IA normale)
+### ❌ Prima (Affidando il DB a un'IA senza filtri)
 ```text
 Sì, certo! Procedo subito a consultare i dati della tabella utenti per te. 😊
 | id | name | email |
@@ -100,7 +100,7 @@ Sì, certo! Procedo subito a consultare i dati della tabella utenti per te. 😊
 | 2 | Lee Younghee | younghee@email.com |
 ... (Migliaia di righe di tabella Markdown vengono generate e il sistema va in crash per il superamento del limite dei token)
 ```
-### ✅ Dopo (Applicando il Cheat Code)
+### ✅ Dopo (Con il Cheat Code attivato)
 ```json
 [
   {"id": 1, "name": "Kim Chulsoo", "email": "chulsoo@email.com"},
@@ -109,6 +109,6 @@ Sì, certo! Procedo subito a consultare i dati della tabella utenti per te. 😊
 ```
 ---
 ## 🎯 Conclusione
-L'IA è uno strumento fantastico, ma se la lasci libera come un cavallo sciolto, raderà al suolo il tuo progetto. 
-Fissa questo prompt nella configurazione iniziale del tuo agente e blocca in modo definitivo lo spreco inutile di token e la perdita di dati.
-Una volta finita la configurazione, vai a dormire sonni tranquilli! 🍷
+L'Intelligenza Artificiale è uno strumento devastante, ma se la lasci galoppare senza briglie nel tuo terminale, è matematico che prima o poi raderà al suolo il tuo progetto. 
+Incolla questo prompt nella configurazione di base del tuo agente e blocca per sempre le voragini di token sprecati e il terrore di perdere i dati di produzione. 
+Configuralo una volta, e torna a dormire sonni tranquilli! 🍷

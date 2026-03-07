@@ -5,15 +5,15 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "자기계발/회고"
-description: "\"Nuestra propia mente suele ser un misterio. Descubre cómo digitalizar tu diario para visualizar tus fluctuaciones emocionales, identificar palabras clave y rastrear las verdaderas fuentes de tu estrés.\""
+description: "Visualiza tus emociones analizando un mes de tu diario con IA. Descubre patrones ocultos, palabras clave y la verdadera raíz de tu estrés en minutos."
 tags: ["일기", "회고", "감정분석", "데이터시각화", "ChatGPT"]
 ---
 
-# 📔 Análisis de diarios: Crea un gráfico de tu evolución psicológica con un mes de entradas
+## 📔 Análisis de diarios: Crea un gráfico de tu evolución psicológica con un mes de entradas
 
-- **🎯 Recomendado para:** Quienes llevan un diario todos los días pero jamás lo releen, o profesionales que buscan la causa de su reciente *burnout*.
-- **⏱️ Tiempo estimado:** 5 minutos (Extracción de texto y análisis con IA)
-- **🤖 Modelo recomendado:** ChatGPT Plus (Aprovechando GPT-4o y Advanced Data Analysis)
+- **🎯 Recomendado para:** Quienes escriben un diario pero jamás lo releen, o profesionales que buscan la causa de su reciente *burnout*.
+- **⏱️ Tiempo estimado:** 5 minutos (Extracción de texto y análisis con IA).
+- **🤖 Modelo recomendado:** ChatGPT Plus (Ideal con GPT-4o y Advanced Data Analysis).
 
 - ⭐ **Dificultad:** ⭐⭐☆☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -21,7 +21,7 @@ tags: ["일기", "회고", "감정분석", "데이터시각화", "ChatGPT"]
 
 > _"Escribes en tu diario cada noche para desahogarte, pero, ¿alguna vez has analizado objetivamente el patrón bajo el cual tu mente colapsa y se recupera?"_
 
-Los registros se convierten en un activo invaluable a medida que se acumulan; sin embargo, si los abandonas en un cajón, no son más que peso muerto. Ahora, deja que la IA procese **los datos de tu diario de todo un mes**. Mediante la potente tecnología de minería de textos (*text mining*), dibujará el auténtico gráfico emocional que se oculta detrás de tus palabras y revelará, en una nube de conceptos, aquellos términos que repites de manera inconsciente. Es hora de hackear el algoritmo de tu propia mente, ese que ni siquiera tú habías logrado descifrar.
+Tus registros personales son un activo invaluable a medida que se acumulan; sin embargo, si los abandonas en un cajón, se convierten en peso muerto. Ahora, deja que la IA procese **todo un mes de las entradas de tu diario**. Mediante la potente tecnología de minería de textos (*text mining*), trazará el auténtico gráfico emocional que se oculta detrás de tus palabras y revelará, en una nube de conceptos, aquellos términos que repites de manera inconsciente. Es hora de hackear el algoritmo de tu propia mente, ese que ni siquiera tú habías logrado descifrar.
 
 ---
 
@@ -29,20 +29,20 @@ Los registros se convierten en un activo invaluable a medida que se acumulan; si
 
 1. Exporta un mes de entradas de tu aplicación de diario o de Notion en formato `txt` o `csv`.
 2. Sube el archivo a ChatGPT e introduce el prompt de **visualización de datos y análisis emocional**.
-3. Lleva a cabo una retrospectiva productiva analizando el gráfico de fluctuaciones emocionales y el informe de palabras clave detonantes de estrés generados por la IA.
+3. Realiza una retrospectiva productiva analizando el gráfico de fluctuaciones emocionales y el informe de palabras clave que detonan tu estrés generado por la IA.
 
 ---
 
 ## 🚀 Solución: "Mind Tracker Analysis Prompt"
 
-### 🥉 Basic Version (Versión básica)
+### 🥉 Versión Básica (Basic)
 
-Úsalo cuando necesites identificar rápidamente tus principales intereses inconscientes y tu estado emocional general.
+Úsala cuando necesites identificar rápidamente tus principales intereses inconscientes y tu estado emocional general.
 
 > **Rol:** Eres un analista de datos y consejero psicológico.
 > **Petición:** Extrae el Top 5 de los sustantivos y adjetivos que más aparecen en el texto del diario de una semana que he subido. Basándote en estas palabras, resume en una sola línea cuál es mi estado psicológico actual.
 
-### 🥇 Pro Version (Versión profesional)
+### 🥇 Versión Profesional (Pro)
 
 Más allá de un simple resumen, este es un prompt avanzado que cuantifica tus fluctuaciones emocionales por fecha y visualiza sus causas de forma científica.
 
@@ -50,12 +50,12 @@ Más allá de un simple resumen, este es un prompt avanzado que cuantifica tus f
 >
 > **Contexto (Context):**
 >
-> - Contexto: Escribo en mi diario todos los días, pero mis cambios de humor son drásticos y busco comprender la causa a través de datos objetivos.
+> - Situación: Escribo en mi diario todos los días, pero mis cambios de humor son drásticos y busco comprender la causa a través de datos objetivos.
 > - Objetivo: Trazar un gráfico de mis fluctuaciones psicológicas durante un mes basándote en las entradas de mi diario, y deducir la causa raíz de mi estrés así como mis patrones de recuperación.
 >
 > **Petición (Task):**
 >
-> 1. **Puntuación emocional:** Analiza los datos del diario proporcionados y cuantifica el estado emocional de cada día en una escala del -10 (depresión extrema / estrés) al +10 (máxima felicidad / sentido de logro).
+> 1. **Puntuación emocional:** Analiza los datos del diario proporcionados y cuantifica el estado emocional de cada día en una escala del -10 (depresión extrema / estrés máximo) al +10 (máxima felicidad / sentido de logro).
 > 2. **Visualización (Ejecutar Python):** Visualiza los cambios emocionales por fecha mediante un **gráfico de líneas (Line Chart)**.
 >    - El eje X debe representar la 'Fecha' y el eje Y la 'Puntuación Emocional'.
 >    - Emplea las bibliotecas `matplotlib` o `seaborn` de Python para renderizar una imagen clara e intuitiva.
@@ -70,7 +70,7 @@ Más allá de un simple resumen, este es un prompt avanzado que cuantifica tus f
 >
 > **Advertencia (Warning):**
 >
-> - Jamás emitas juicios morales o de valor sobre el contenido del diario. Mantén una postura estrictamente analítica, objetiva y de apoyo. (Prevención de alucinaciones).
+> - Jamás emitas juicios morales o de valor sobre el contenido del diario. Mantén una postura estrictamente analítica, objetiva y de apoyo (Prevención de alucinaciones).
 
 ---
 
@@ -88,7 +88,7 @@ Si no sueles llevar un diario, prueba a exportar y analizar el historial del **"
   - R: Toma fotos de tus páginas con el smartphone y sube las imágenes directamente a ChatGPT. La potente función OCR (reconocimiento óptico de caracteres) de GPT-4o transcribirá con precisión incluso la caligrafía más difícil y la analizará sin problemas.
 
 - **P: Me preocupa la privacidad al entregar mi diario personal a una IA.**
-  - R: Es una inquietud totalmente válida. Antes de proceder con el análisis, asegúrate de desactivar la opción **'Improve the model for everyone'** (Mejorar el modelo para todos) en *Settings > Data Controls* de ChatGPT. Para mayor seguridad, te sugiero anonimizar los nombres reales o datos confidenciales reemplazándolos por 'A', 'B', etc., antes de subir el archivo.
+  - R: Es una inquietud totalmente válida. Antes de proceder con el análisis, asegúrate de desactivar la opción **'Improve the model for everyone'** (Mejorar el modelo para todos) en *Settings > Data Controls* de ChatGPT. Para mayor seguridad, te sugiero anonimizar los nombres reales o datos confidenciales reemplazándolos por `[Persona A]`, `[Empresa B]`, etc., antes de subir el archivo.
 
 - **P: La fuente del gráfico se corrompe y aparece como cuadrados (□).**
   - R: Es un inconveniente común al generar gráficos de Python dentro del entorno de ChatGPT. Se soluciona añadiendo una directriz específica en tu prompt: _"Al trazar el gráfico, asegúrate de configurar `plt.rcParams['font.family'] = 'DejaVu Sans'` para evitar que las fuentes se rompan"_.
@@ -108,7 +108,7 @@ Si no sueles llevar un diario, prueba a exportar y analizar el historial del **"
 ### ❌ Antes (Agotamiento emocional vago)
 
 "Este mes ha sido realmente terrible. Siento que he estado cansado e irritable todos los días. ¿Por qué me siento tan deprimido?"
-(Sensación de impotencia generalizada sin identificar la causa exacta)
+(Sensación de impotencia generalizada sin identificar la causa exacta).
 
 ### ✅ Después (Retrospectiva objetiva basada en datos)
 

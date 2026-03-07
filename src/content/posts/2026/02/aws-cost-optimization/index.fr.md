@@ -9,7 +9,7 @@ description: "Vos coûts cloud s'envolent ? Voici le prompt ultime pour optimise
 tags: ["AWS", "클라우드", "비용절감", "DevOps", "인프라"]
 ---
 
-# 💸 Réduisez vos coûts AWS de 50 % : La checklist anti-facture salée pour EC2 et RDS
+## 💸 Réduisez vos coûts AWS de 50 % : La checklist anti-facture salée pour EC2 et RDS
 
 - **🎯 Public cible :** Fondateurs de startups angoissés par leur facture AWS, développeurs à qui l'on demande sans cesse : « Pourquoi nos serveurs coûtent-ils si cher ? »
 - **⏱️ Temps requis :** 5 minutes (Analyse via Cost Explorer)
@@ -21,7 +21,7 @@ tags: ["AWS", "클라우드", "비용절감", "DevOps", "인프라"]
 
 > _« 10 instances t3.medium... Sommes-nous absolument certains qu'elles tournent toutes pour une bonne raison ? »_
 
-Le véritable piège du Cloud n'est pas de payer pour ce que l'on utilise, mais bien de **payer pour ce que l'on oublie d'éteindre**. Ne perdez plus votre temps à vous noyer dans les méandres du tableau de bord d'AWS Cost Explorer. Fournissez simplement vos données de facturation et votre architecture actuelle à l'IA, puis donnez-lui cette instruction claire : **« Montre-moi exactement où notre budget part en fumée. »** En 5 minutes chrono, vous obtiendrez une stratégie FinOps redoutable, capable de vous faire économiser des milliers d'euros chaque mois.
+Le véritable piège du Cloud ne réside pas dans ce que l'on consomme, mais dans **ce que l'on oublie d'éteindre**. Cessez de perdre un temps précieux à vous noyer dans les méandres d'AWS Cost Explorer. Transmettez simplement vos données de facturation et votre architecture actuelle à l'IA, puis donnez-lui une directive claire : **« Montre-moi exactement où s'évapore notre budget. »** En cinq minutes chrono, vous obtiendrez une stratégie FinOps redoutable, capable de réduire vos factures de plusieurs milliers d'euros chaque mois.
 
 ---
 
@@ -56,9 +56,9 @@ Le prompt ultime pour une réduction drastique et structurelle de vos coûts, co
 >
 > **Tâche (Task) :**
 >
-> 1. **Stratégie Instances Spot :** Propose une architecture permettant d'exploiter les instances Spot en toute sécurité pour notre charge de travail, afin de réduire les coûts de calcul de plus de 70 % (inclus impérativement un plan de secours en cas d'interruption).
+> 1. **Stratégie Instances Spot :** Propose une architecture permettant d'exploiter les instances Spot en toute sécurité pour notre charge de travail, afin de réduire les coûts de calcul de plus de 70 % (en incluant impérativement un plan de secours en cas d'interruption).
 > 2. **Auto Scaling & Planification :** Définis les configurations précises d'un groupe `ASG (Auto Scaling Group)` et la mise en place d'un `Instance Scheduler` pour réduire la flotte au strict minimum (1 instance) la nuit, et éteindre intégralement l'environnement de développement le week-end.
-> 3. **Remises sur engagement (Savings Plan / RI) :** Compare notre modèle On-Demand actuel avec un engagement par paiement anticipé sur un an (Compute Savings Plan). Présente les économies estimées sous la forme d'un tableau Markdown (Table).
+> 3. **Remises sur engagement (Savings Plan / RI) :** Compare notre modèle On-Demand actuel à un engagement par paiement anticipé sur un an (Compute Savings Plan). Présente les économies estimées sous la forme d'un tableau Markdown (Table).
 >
 > **Contraintes (Constraints) :**
 >

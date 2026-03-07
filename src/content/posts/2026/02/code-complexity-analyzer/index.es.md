@@ -5,15 +5,15 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Development
-description: "Un prompt de IA que analiza el temido código espagueti e identifica puntos críticos de refactorización, transformando una lógica incomprensible en código limpio y fácil de mantener."
+description: "Prompt de IA que analiza el código espagueti, identifica puntos críticos y transforma lógicas indescifrables en código limpio, escalable y mantenible."
 tags: [AI, Refactoring, Clean Code, Development]
 ---
 
-# 🍝 ¡Dile Adiós al Código Espagueti! Analizador de Complejidad de Código con IA (Code Complexity Analyzer)
+## 🍝 ¡Dile Adiós al Código Espagueti! Analizador de Complejidad de Código con IA (Code Complexity Analyzer)
 
-- **🎯 Recomendado para:** Desarrolladores Junior, encargados de mantener código heredado (*Legacy Code*), revisores de código (*Code Reviewers*).
+- **🎯 Recomendado para:** Desarrolladores Junior, encargados de mantener código heredado (*Legacy Code*), y revisores de código (*Code Reviewers*).
 - **⏱️ Ahorro de tiempo:** De 1 hora → 3 minutos.
-- **🤖 Modelo recomendado:** GPT-4o, Claude 3.5 Sonnet (Se recomiendan modelos con alta capacidad de razonamiento lógico).
+- **🤖 Modelo recomendado:** GPT-4o, Claude 3.5 Sonnet (se recomiendan modelos con alta capacidad de razonamiento lógico).
 
 - ⭐ **Dificultad:** ⭐⭐⭐☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -23,15 +23,15 @@ tags: [AI, Refactoring, Clean Code, Development]
 
 Durante el ciclo de vida del desarrollo de software, es casi inevitable toparse con el temido «código espagueti». A medida que se añaden nuevas funcionalidades y se parchean errores a contrarreloj, la base de código se infla y la complejidad ciclomática (*Cyclomatic Complexity*) se dispara. Este tipo de código no solo resulta indescifrable a simple vista, sino que predecir los efectos secundarios de cualquier mínima modificación se convierte en una tarea titánica. Es la receta perfecta para las pesadillas de mantenimiento y las interminables horas de depuración.
 
-Pero, ¿qué puedes hacer cuando te enfrentas a un bloque de código tan enredado que no sabes ni por dónde empezar a desenredarlo? Aquí es donde entra en juego la IA como tu analizador personal de complejidad. En lugar de refactorizar a ciegas, la IA diagnosticará los problemas estructurales de tu código basándose en métricas objetivas y te ofrecerá estrategias de refactorización quirúrgicas. Al aplicar patrones de diseño probados y los principios universales de *Clean Code*, transformarás el caos en una arquitectura limpia, predecible y lista para escalar.
+Pero, ¿qué puedes hacer cuando te enfrentas a un bloque de código tan enredado que no sabes ni por dónde empezar a desenredarlo? Aquí es donde la IA entra en juego como tu analizador de complejidad personal. En lugar de refactorizar a ciegas, la IA diagnosticará los problemas estructurales basándose en métricas objetivas y te ofrecerá estrategias de refactorización quirúrgicas. Al aplicar patrones de diseño probados y los principios universales de *Clean Code*, transformarás el caos en una arquitectura limpia, predecible y lista para escalar.
 
 ---
 
 ## ⚡️ Resumen en 3 líneas (TL;DR)
 
 1. La IA analiza a nivel estructural las funciones kilométricas y los condicionales profundamente anidados que destrozan la legibilidad.
-2. Recibes recomendaciones de refactorización altamente prácticas y aplicables al instante, como el patrón de retorno anticipado (*Early Return*) o la extracción de métodos (*Extract Method*).
-3. Obtienes como resultado un código inmaculado que maximiza la legibilidad y simplifica el mantenimiento futuro, garantizando que la lógica de negocio original permanezca intacta.
+2. Recibes recomendaciones de refactorización altamente prácticas y de aplicación inmediata, como el patrón de retorno anticipado (*Early Return*) o la extracción de métodos (*Extract Method*).
+3. Obtienes un código inmaculado que maximiza la legibilidad y simplifica el mantenimiento futuro, garantizando intacta la lógica de negocio original.
 
 ---
 
@@ -54,14 +54,14 @@ Ideal para obtener un diagnóstico basado en métricas precisas y aplicar patron
 >
 > **Contexto (Context):**
 >
-> - Contexto: Actualmente estoy refactorizando código heredado (*legacy*) escrito en `[Lenguaje/Framework, ej: TypeScript/NestJS]`.
+> - Situación: Actualmente estoy refactorizando código heredado (*legacy*) escrito en `[Lenguaje/Framework, ej: TypeScript/NestJS]`.
 > - Objetivo: Reducir drásticamente la complejidad ciclomática del código y maximizar tanto su legibilidad como su mantenibilidad a largo plazo.
 >
 > **Tarea (Task):**
 >
 > 1. **Diagnóstico de Complejidad:** Evalúa en profundidad la complejidad ciclomática (*Cyclomatic Complexity*) y la complejidad cognitiva (*Cognitive Complexity*) del bloque de código proporcionado. Identifica las causas raíz del desorden (anidamiento excesivo, violación del principio de responsabilidad única, acoplamiento fuerte, etc.).
 > 2. **Estrategia de Refactorización:** Propón técnicas específicas y justificadas de refactorización, tales como el uso de cláusulas de guarda (*Guard Clauses* / *Early Return*), extracción de métodos (*Extract Method*) y aplicación de polimorfismo (*Polymorphism*).
-> 3. **Código Mejorado:** Aplica rigurosamente las estrategias sugeridas para generar un nuevo código con una estructura impecable, manteniendo exactamente y al 100% la misma lógica de negocio y comportamiento del original.
+> 3. **Código Mejorado:** Aplica rigurosamente las estrategias sugeridas para generar un nuevo código con una estructura impecable, conservando exactamente y al 100% la misma lógica de negocio y comportamiento del original.
 >
 > **Entrada de Código (Code):**
 >
@@ -80,19 +80,19 @@ Ideal para obtener un diagnóstico basado en métricas precisas y aplicar patron
 
 ## 💡 Comentario del Autor (Insight)
 
-Este es el prompt de cabecera que utilizo en mi día a día al enfrentarme a revisiones o modificaciones de código *legacy* escrito por otros (o incluso por mí mismo en el pasado). Más allá de limitarse a "acortar" líneas de código de forma superficial, la IA aporta justificaciones arquitectónicas de gran calado, argumentando cosas como: *"Esta condición alcanza 4 niveles de profundidad; es imperativo simplificarla implementando Cláusulas de Guarda para evitar la fatiga cognitiva"*.
+Este es el prompt de cabecera que utilizo a diario cuando me enfrento a revisiones o modificaciones de código *legacy* escrito por terceros (o incluso por mí mismo en el pasado). Lejos de limitarse a "acortar" líneas de código de forma superficial, la IA aporta justificaciones arquitectónicas de gran calado, argumentando cosas como: *"Esta condición alcanza 4 niveles de profundidad; es imperativo simplificarla implementando cláusulas de guarda para evitar la fatiga cognitiva"*.
 
-Resulta una herramienta excepcionalmente útil para auditar tu propio código antes de someterlo al escrutinio de una *Code Review*. Si adquieres el hábito de pasar tu trabajo por este filtro antes de abrir una *Pull Request* (PR), te garantizo que las probabilidades de que tus compañeros comenten *"¡Qué código tan limpio y elegante!"* se multiplicarán drásticamente, ahorrándote idas y venidas innecesarias.
+Resulta una herramienta excepcionalmente útil para auditar tu propio código antes de someterlo al escrutinio de una *Code Review*. Si adquieres el hábito de pasar tu trabajo por este filtro antes de abrir una *Pull Request* (PR), te garantizo que las probabilidades de que tus colegas comenten *"¡Qué código tan limpio y elegante!"* se multiplicarán drásticamente, ahorrándote iteraciones innecesarias.
 
 ---
 
 ## 🙋 Preguntas Frecuentes (FAQ)
 
 - **P: ¿Es recomendable insertar un archivo completo para que lo analice de una sola vez?**
-  - R: No es la estrategia más óptima debido a los límites inherentes en la ventana de contexto de los LLMs y la consecuente pérdida de precisión. En lugar de volcar archivos enteros con cientos de líneas, obtendrás sugerencias de refactorización muchísimo más agudas, profundas y libres de alucinaciones si divides el código en fragmentos manejables de 50 a 150 líneas, enfocándote exclusivamente en una "función específica" o en una "única clase" a la vez.
+  - R: No es la estrategia más óptima debido a los límites inherentes en la ventana de contexto de los LLM y la consecuente pérdida de precisión. En lugar de volcar archivos enteros con cientos de líneas, obtendrás sugerencias de refactorización muchísimo más agudas, profundas y libres de alucinaciones si divides el código en fragmentos manejables de 50 a 150 líneas, enfocándote exclusivamente en una sola "función específica" o "clase" a la vez.
 
 - **P: ¿Es 100% seguro aplicar el código refactorizado por la IA directamente a producción?**
-  - R: ¡Absolutamente no! Nunca debes copiar y pegar a ciegas. En ocasiones, la IA puede pasar por alto *edge cases* sutiles o reglas no escritas dentro de la lógica de negocio, alterando inadvertidamente su comportamiento esperado. **Es un requisito innegociable verificar que el nuevo código supere todas las pruebas unitarias (*Unit Tests*) existentes** antes siquiera de plantearte integrarlo a la rama de producción.
+  - R: ¡Absolutamente no! Nunca debes copiar y pegar a ciegas. En ocasiones, la IA puede pasar por alto *edge cases* sutiles o reglas de negocio no explícitas, alterando inadvertidamente el comportamiento esperado. **Es un requisito innegociable verificar que el nuevo código supere todas las pruebas unitarias (*Unit Tests*) existentes** antes siquiera de plantearte integrarlo en tu rama principal.
 
 - **P: ¿La IA es capaz de adaptar las mejoras a las convenciones de mi lenguaje o framework específico?**
   - R: Totalmente. Si en la variable `[Lenguaje/Framework]` de la Versión Pro especificas entornos concretos como 'Java/Spring Boot', 'Python/FastAPI' o 'Go', la IA refactorizará el código aplicando de manera estricta las convenciones de nomenclatura, las mejores prácticas y los patrones de diseño idiomáticos propios de ese ecosistema en particular.
@@ -101,8 +101,8 @@ Resulta una herramienta excepcionalmente útil para auditar tu propio código an
 
 ## 🧬 Anatomía del Prompt (Why it works?)
 
-1. **Exigencia de un diagnóstico basado en métricas:** En lugar de lanzar instrucciones vagas como "haz este código más bonito", exigir el análisis de métricas concretas de ingeniería de software, como la "complejidad ciclomática" o "cognitiva", obliga a la IA a abandonar la superficialidad y enfocarse rigurosamente en resolver los defectos estructurales subyacentes.
-2. **Restricción de inmutabilidad del comportamiento (Constraints):** Al dejar plasmada de forma explícita la regla de oro inquebrantable de la refactorización ("invariabilidad absoluta del comportamiento externo"), mitigamos drásticamente el riesgo de que la IA sufra alucinaciones o altere la lógica de negocio central de forma arbitraria e impredecible.
+1. **Exigencia de un diagnóstico basado en métricas:** En lugar de lanzar instrucciones vagas como "haz este código más bonito", exigir el análisis de métricas concretas de ingeniería de software (como la "complejidad ciclomática" o "cognitiva") obliga a la IA a abandonar la superficialidad y enfocarse rigurosamente en resolver los defectos estructurales subyacentes.
+2. **Restricción de inmutabilidad del comportamiento (Constraints):** Al plasmar de forma explícita la regla de oro inquebrantable de la refactorización ("invariabilidad absoluta del comportamiento externo"), mitigamos drásticamente el riesgo de que la IA alucine o altere la lógica de negocio central de forma arbitraria e impredecible.
 
 ---
 

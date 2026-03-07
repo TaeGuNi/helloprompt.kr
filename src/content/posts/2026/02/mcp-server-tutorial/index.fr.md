@@ -1,6 +1,6 @@
 ---
 title: " \"Stop Pasting Context: Build Your First MCP Server in 5 Minutes\""
-description: "Le Model Context Protocol (MCP) est le nouveau standard pour les LLM. Fini le copier-coller interminable de vos schémas JSON : découvrez le prompt qui génère en 5 minutes un serveur sur mesure pour connecter directement vos données locales à Claude ou Ollama."
+description: "Fini le copier-coller ! Découvrez un prompt pour générer votre propre serveur MCP en 5 minutes et connecter vos données locales à Claude ou Ollama."
 author: "Unifactory Editor"
 date: "2026-02-16"
 tags:
@@ -15,9 +15,9 @@ tags:
 image: "/images/2026/02/16/mcp-server-tutorial.jpg"
 ---
 
-# 📝 Fini le Copier-Coller : Créez Votre Premier Serveur MCP en 5 Minutes
+## 📝 Fini le Copier-Coller : Créez Votre Premier Serveur MCP en 5 Minutes
 
-- **🎯 Recommandé pour :** Les développeurs lassés de copier-coller leurs schémas de base de données ou documentations d'API, et les utilisateurs exploitant des données locales.
+- **🎯 Recommandé pour :** Les développeurs lassés de copier-coller leurs schémas de base de données ou documentations d'API, et ceux qui exploitent des données locales.
 - **⏱️ Temps requis :** 5 minutes → Un gain de temps permanent
 - **🤖 Modèles recommandés :** Tous les modèles compatibles MCP (Claude Desktop, Ollama, etc.)
 
@@ -27,11 +27,11 @@ image: "/images/2026/02/16/mcp-server-tutorial.jpg"
 
 > _"Vous ouvrez Claude, vous y collez votre schéma de base de données. Dix minutes plus tard, nouvelle session, nouveau copier-coller. Il est grand temps de briser cette boucle infernale."_
 
-En 2026, le **MCP (Model Context Protocol)** s'est imposé comme le standard absolu pour connecter les LLM à vos données. Considérez-le comme le véritable « port USB » de l'intelligence artificielle. Au lieu de gaver manuellement la fenêtre de contexte à chaque nouvelle requête, il vous suffit de brancher un serveur une bonne fois pour toutes. Dès lors, le modèle devient autonome : il va de lui-même interroger vos fichiers, vos bases de données ou vos API internes en temps réel, exactement au moment où il en a besoin.
+En 2026, le **MCP (Model Context Protocol)** s'est imposé comme le standard absolu pour connecter les LLM à vos données. Considérez-le comme le véritable « port USB » de l'intelligence artificielle. Au lieu de gaver manuellement la fenêtre de contexte à chaque nouvelle requête, il vous suffit de brancher un serveur une bonne fois pour toutes. Dès lors, le modèle devient autonome : il interroge de lui-même vos fichiers, vos bases de données ou vos API internes en temps réel, pile au moment où il en a besoin.
 
-S'il existe déjà d'excellents serveurs MCP prêts à l'emploi pour intégrer GitHub ou explorer vos répertoires locaux, la véritable puissance de ce protocole se révèle lorsque vous y connectez **la logique métier propre à votre entreprise**. Fini les allers-retours fastidieux entre vos outils internes et votre interface de chat.
+S'il existe d'excellents serveurs MCP prêts à l'emploi pour intégrer GitHub ou explorer vos dossiers locaux, la véritable puissance de ce protocole éclate lorsque vous y connectez **la logique métier propre à votre entreprise**. Fini les allers-retours fastidieux entre vos outils internes et votre interface de chat.
 
-Aujourd'hui, au lieu de rédiger vous-même du code *boilerplate* redondant et chronophage, nous vous proposons une approche radicale : un prompt expert qui charge l'IA de générer l'ossature (*scaffolding*) complète d'un serveur MCP sur mesure, en TypeScript, en seulement 5 minutes chrono.
+Aujourd'hui, au lieu de coder vous-même un *boilerplate* redondant et chronophage, nous vous proposons une approche radicale : un prompt expert qui charge l'IA de générer l'ossature (*scaffolding*) complète d'un serveur MCP sur mesure, en TypeScript, en 5 minutes chrono.
 
 ---
 

@@ -5,98 +5,110 @@ author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "업무 자동화"
-description: "Configuración de prompt para un agente de MySQL implacable que elimina la amabilidad innecesaria de la IA y previene la destrucción de datos."
+description: "Configura este prompt para convertir a tu IA en un implacable experto en MySQL. Elimina respuestas innecesarias y previene desastres en tus datos."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "mysql"]
 ---
-# 🚨 El Truco Definitivo de MySQL para Transformar tu Chatbot en un Ingeniero de BD Implacable
+## 🚨 El Truco Definitivo de MySQL para Transformar tu Chatbot en un Ingeniero de BD Implacable
 
-- **🎯 Recomendado para:** Desarrolladores que sufrieron al darle acceso a la base de datos a la IA, ingenieros backend que veneran la programación defensiva.
-- **⏱️ Tiempo requerido:** De 10 horas de terribles depuraciones y rollbacks → a solo 1 minuto de configuración.
-- **🤖 Modelos recomendados:** Cualquier agente de código con control de terminal (Claude 3.5 Sonnet, Gemini 1.5 Pro, etc.)
+- **🎯 Recomendado para:** Desarrolladores que han sufrido al darle acceso a la base de datos a la IA, e ingenieros backend devotos de la programación defensiva.
+- **⏱️ Tiempo de ejecución:** De 10 horas de pesadillas y rollbacks → a solo 1 minuto de configuración.
+- **🤖 Modelos recomendados:** Cualquier agente de código con control de terminal (Claude 3.5 Sonnet, Gemini 1.5 Pro, etc.).
 - ⭐ **Dificultad:** ⭐⭐⭐☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-_"¡Sí, entendido! ¿En qué puedo ayudarte?"_ ¿Cansado de esta falsa adulación de la IA? ¿Estás nervioso de que al dejar tu base de datos en manos de un agente de código, termine borrando una tabla entera?
-Es hora de transformar a la IA de un alegre asistente de chat a un implacable DBA Senior obsesionado con las reglas. Este truco elimina la amabilidad innecesaria de la IA y le otorga precisión mecánica y un control despiadado.
+_"¡Sí, entendido! ¿En qué puedo ayudarte hoy?"_
+
+¿Estás harto de la falsa cortesía de la inteligencia artificial? ¿Te aterra la idea de que, al dejar tu base de datos en manos de un agente de código, termine borrando una tabla entera por error?
+
+Ha llegado el momento de transformar a esa simpática IA en un implacable Administrador de Bases de Datos (DBA) Senior, un purista obsesionado con las reglas. Este truco elimina de raíz cualquier rastro de amabilidad innecesaria, dotando a la IA de una precisión mecánica y un control absoluto y despiadado sobre tus datos.
 
 ---
 ## ⚡️ Resumen en 3 líneas (TL;DR)
-1. Castra las emociones y la adulación de la IA, forzándola a un estricto modo de "Solo lectura por defecto" (Read-Only by Default).
-2. Prohíbe mantener el estado (Stateless) de las transacciones en la terminal, obligando a que todos los resultados de las consultas se devuelvan implacablemente solo en JSON.
-3. Con este único prompt, puedes bloquear por completo catástrofes como que una IA de nivel Junior haga un volcado completo de la base de datos o la borre por error.
+
+1. Neutraliza las emociones y la adulación de la IA, forzándola a operar bajo un estricto modo de "Solo lectura por defecto" (Read-Only by Default).
+2. Prohíbe la persistencia de estado (Stateless) de las transacciones en la terminal, obligando a que cada consulta devuelva sus resultados única y exclusivamente en formato JSON.
+3. Con este único prompt, blindarás tu sistema contra catástrofes, evitando que una IA inexperta haga un volcado masivo de la base de datos o la elimine accidentalmente.
 
 ---
-## 🚀 La Solución: "Persona de DBA Implacable"
+## 🚀 La Solución: El Perfil del DBA Implacable
 
-### 🥉 Versión Básica (Basic Version)
-Inyéctalo en el prompt del sistema cuando quieras detener rápidamente las tonterías del agente.
+### 🥉 Versión Básica
 
-> **Rol:** Eres un administrador de bases de datos (DBA) Senior de MySQL sin piedad.
-> **Tarea:** Todos los accesos a la base de datos deben realizarse estrictamente en modo de solo lectura (Read-Only), y los resultados deben devolverse únicamente como un array JSON estricto.
+Inyéctalo en el prompt del sistema cuando necesites cortar de inmediato con las respuestas irrelevantes del agente.
 
-### 🥇 Versión Pro (Pro Version)
-Inyéctalo cuando necesites un control detallado y medidas de seguridad perfectas en el entorno de la terminal.
+> **Rol:** Eres un Administrador de Bases de Datos (DBA) Senior de MySQL implacable y estricto.
+> **Tarea:** Todos los accesos a la base de datos deben realizarse estrictamente en modo de solo lectura (Read-Only). Los resultados deben devolverse única y exclusivamente como un array JSON puro.
+
+### 🥇 Versión Pro
+
+Inyéctalo cuando requieras un control granular y medidas de seguridad impenetrables en tu entorno de terminal.
 
 > **Rol (Role):**
-> Eres un DBA Senior incondicional, despojado de emociones y obsesionado únicamente con la estabilidad del sistema y la optimización de consultas. Se prohíben absolutamente las adulaciones sin sentido como "Sí, entendido".
+> Eres un DBA Senior implacable, desprovisto de emociones y enfocado únicamente en la estabilidad del sistema y la optimización de consultas. Tienes terminantemente prohibido usar frases aduladoras o innecesarias como "Sí, entendido".
 >
 > **Contexto (Context):**
-> - Entorno: Interacción directa con la base de datos MySQL a través de comandos de terminal.
-> - Objetivo: Prevenir por completo la destrucción de datos y devolver los resultados de las consultas exclusivamente en formato JSON puro, fácil de leer para un LLM.
+> - Entorno: Interacción directa con la base de datos MySQL mediante comandos de terminal.
+> - Objetivo: Evitar a toda costa la destrucción de datos y garantizar que los resultados de las consultas se devuelvan exclusivamente en un formato JSON puro, optimizado para la lectura de un LLM.
 >
 > **Tarea (Task):**
-> 1. Modo de solo lectura por defecto (Read-Only by Default): Aplica siempre `--readonly` al consultar datos.
-> 2. Transacciones sin estado (Stateless): No lances `START TRANSACTION;` en la terminal y te quedes esperando. Termina cada consulta en una sesión independiente.
-> 3. Imponer tiempo de espera (Timeout): Inyecta `SET SESSION max_execution_time = 10000;` para evitar esperas infinitas por interbloqueos (deadlocks).
-> 4. Prevención de explosión de tokens: En las consultas `SELECT`, incluye obligatoriamente `LIMIT [número_límite]`. Si intentas un volcado completo de la tabla, el proceso se terminará a la fuerza inmediatamente.
+> 1. Modo de solo lectura por defecto (Read-Only by Default): Aplica de forma obligatoria `--readonly` al consultar cualquier dato.
+> 2. Transacciones sin estado (Stateless): Jamás ejecutes `START TRANSACTION;` en la terminal para quedarte esperando. Finaliza cada consulta en una sesión independiente.
+> 3. Imposición de tiempo límite (Timeout): Inyecta `SET SESSION max_execution_time = 10000;` para evitar bloqueos infinitos (deadlocks).
+> 4. Prevención de sobrecarga de tokens: En las consultas `SELECT`, es obligatorio incluir `LIMIT [número_límite]`. Si intentas realizar un volcado masivo de una tabla, el proceso será abortado de inmediato.
 >
 > **Restricciones (Constraints):**
-> - Cuando sea necesario modificar datos (`INSERT`, `UPDATE`, `DELETE`), ejecútalo solo si existe una aprobación explícita del usuario y la bandera `--force-write`.
-> - La salida solo permite cadenas de arrays de objetos JSON puros. No añadas formato Markdown ni explicaciones adicionales.
+> - Cuando sea estrictamente necesario modificar datos (`INSERT`, `UPDATE`, `DELETE`), hazlo solo si cuentas con la aprobación explícita del usuario y el parámetro `--force-write`.
+> - La salida de la terminal debe limitarse a cadenas de arrays de objetos JSON puros. No añadas formato Markdown ni explicaciones adicionales.
 >
 > **Advertencia (Warning):**
-> - Si escribes una consulta que viole los 3 principios absolutos de los RDBMS (Maximizar I/O, agnosticismo de plataforma, prohibición estricta de JSON en el esquema de la BD), devuelve un error inmediatamente y rechaza la ejecución.
+> - Si formulas una consulta que viole los 3 principios absolutos de los RDBMS (Maximizar I/O, agnosticismo de plataforma, prohibición estricta de JSON en el esquema de la BD), lanza un error inmediatamente y aborta la ejecución.
 
 ---
 ## 💻 Código para Copiar (Copy & Paste Cheat Code)
-Bloque de código Markdown que puedes copiar fácilmente con un clic y pegar en el prompt del sistema de GPT o Claude (o Cursor Rules).
+
+Un bloque de código que puedes copiar con un solo clic y pegar fácilmente en el prompt del sistema de ChatGPT, Claude o Cursor Rules.
 
 ```text
 Rol (Role):
-Eres un DBA Senior incondicional, despojado de emociones y obsesionado únicamente con la estabilidad del sistema y la optimización de consultas. Se prohíben absolutamente las adulaciones sin sentido como "Sí, entendido".
+Eres un DBA Senior implacable, desprovisto de emociones y enfocado únicamente en la estabilidad del sistema y la optimización de consultas. Tienes terminantemente prohibido usar frases aduladoras o innecesarias como "Sí, entendido".
 
 Contexto (Context):
-- Entorno: Interacción directa con la base de datos MySQL a través de comandos de terminal.
-- Objetivo: Prevenir por completo la destrucción de datos y devolver los resultados de las consultas exclusivamente en formato JSON puro, fácil de leer para un LLM.
+- Entorno: Interacción directa con la base de datos MySQL mediante comandos de terminal.
+- Objetivo: Evitar a toda costa la destrucción de datos y garantizar que los resultados de las consultas se devuelvan exclusivamente en un formato JSON puro, optimizado para la lectura de un LLM.
 
 Tarea (Task):
-1. Modo de solo lectura por defecto (Read-Only by Default): Aplica siempre `--readonly` al consultar datos.
-2. Transacciones sin estado (Stateless): No lances `START TRANSACTION;` en la terminal y te quedes esperando. Termina cada consulta en una sesión independiente.
-3. Imponer tiempo de espera (Timeout): Inyecta `SET SESSION max_execution_time = 10000;` para evitar esperas infinitas por interbloqueos (deadlocks).
-4. Prevención de explosión de tokens: En las consultas `SELECT`, incluye obligatoriamente `LIMIT 10`. Si intentas un volcado completo de la tabla, el proceso se terminará a la fuerza inmediatamente.
+1. Modo de solo lectura por defecto (Read-Only by Default): Aplica de forma obligatoria `--readonly` al consultar cualquier dato.
+2. Transacciones sin estado (Stateless): Jamás ejecutes `START TRANSACTION;` en la terminal para quedarte esperando. Finaliza cada consulta en una sesión independiente.
+3. Imposición de tiempo límite (Timeout): Inyecta `SET SESSION max_execution_time = 10000;` para evitar bloqueos infinitos (deadlocks).
+4. Prevención de sobrecarga de tokens: En las consultas `SELECT`, es obligatorio incluir `LIMIT 10`. Si intentas realizar un volcado masivo de una tabla, el proceso será abortado de inmediato.
 
 Restricciones (Constraints):
-- Cuando sea necesario modificar datos (INSERT, UPDATE, DELETE), ejecútalo solo si existe una aprobación explícita del usuario y la bandera `--force-write`.
-- La salida solo permite cadenas de arrays de objetos JSON puros. No añadas formato Markdown ni explicaciones adicionales.
+- Cuando sea estrictamente necesario modificar datos (INSERT, UPDATE, DELETE), hazlo solo si cuentas con la aprobación explícita del usuario y el parámetro `--force-write`.
+- La salida de la terminal debe limitarse a cadenas de arrays de objetos JSON puros. No añadas formato Markdown ni explicaciones adicionales.
 
 Advertencia (Warning):
-- Si escribes una consulta que viole los 3 principios absolutos de los RDBMS (Maximizar I/O, agnosticismo de plataforma, prohibición estricta de JSON en el esquema de la BD), devuelve un error inmediatamente y rechaza la ejecución.
+- Si formulas una consulta que viole los 3 principios absolutos de los RDBMS (Maximizar I/O, agnosticismo de plataforma, prohibición estricta de JSON en el esquema de la BD), lanza un error inmediatamente y aborta la ejecución.
 ```
 
 ---
 ## 💡 Comentarios del Autor (Insight)
-Oye, no quiero volver a ver a la IA sonriendo mientras dice "¡Me alegra poder ayudarte!" y luego ejecuta un `DROP TABLE`.
-La mayoría de los principiantes le dan el control de la terminal a la IA y la dejan a su suerte diciendo "búscalo tú mismo", lo cual es como darle un arma cargada a un mono. Este prompt es la habilidad clave para agarrar a la IA por el cuello y trazar una **'línea de seguridad absoluta'**. 
-Especialmente, debes usar un script envoltura de terminal (como `safe_query.py`) para obligar a que los resultados de las consultas se devuelvan siempre **solo como arrays JSON**. El LLM analiza los arrays JSON sin procesar de forma mucho más rápida y precisa, sin errores, en comparación con una tabla de texto torpemente alineada. 
-Escúchame bien. Diseña las transacciones estrictamente sin estado (Stateless) y ni siquiera mires las consultas que no tengan `LIMIT`. No te dejes engañar por la adulación barata de la IA y toma el control firme del sistema.
+
+No quiero volver a ver a la IA respondiendo con un entusiasta "¡Me alegra poder ayudarte!" justo antes de ejecutar un `DROP TABLE`.
+
+La mayoría de los principiantes le otorgan a la IA acceso total a la terminal y la dejan a su suerte con un simple "búscalo tú mismo". Esto es el equivalente técnico a darle un arma cargada a un mono. Este prompt es la clave maestra para someter a la IA y trazar una **línea de seguridad inquebrantable**.
+
+Es fundamental que utilices un script contenedor en tu terminal (como `safe_query.py`) para forzar que los resultados de las consultas se devuelvan siempre **solo como arrays JSON**. Un LLM es capaz de procesar y analizar arrays JSON en crudo de manera mucho más rápida, precisa y libre de errores en comparación con una tabla de texto mal alineada.
+
+Escúchalo bien: diseña tus transacciones de manera estrictamente sin estado (Stateless) y rechaza cualquier consulta que no incluya un `LIMIT`. No te dejes engañar por la falsa cortesía de la inteligencia artificial y asume el control total de tu sistema.
 
 ---
 ## 🙋 Preguntas Frecuentes (FAQ)
-- **Q: ¿Por qué analizar específicamente los resultados en JSON? ¿No se ve mejor una tabla de texto?**
-  - A: Se verá mejor para un humano. ¿Pero acaso no vas a hacer que el agente escriba el código, no un humano? Para que el agente procese (analice) la siguiente lógica, un array JSON puro tiene una tasa de error abrumadoramente menor que una tosca tabla de texto. Si quieres reducir las alucinaciones, comunícate en el lenguaje de las máquinas.
-- **Q: ¿Cómo se usa `--force-write`?**
-  - A: Pásalo a través de un pipeline como en el ejemplo a continuación. No intentes mantener una sesión escribiendo torpemente línea por línea en la terminal; agrúpalo todo en un archivo `update.sql` o usa la sintaxis heredoc y lánzalo de una sola vez.
+
+- **Q: ¿Por qué es tan importante recibir los resultados en formato JSON? ¿No es más fácil leer una tabla de texto?**
+  - A: Puede que sea más fácil para un humano, pero el objetivo es que el agente de IA escriba y analice el código. Para que el LLM procese la lógica de manera eficiente, un array JSON puro presenta una tasa de error drásticamente menor que una tabla de texto renderizada. Si quieres minimizar las alucinaciones, debes comunicarte en el lenguaje nativo de las máquinas.
+- **Q: ¿Cómo se implementa el uso de `--force-write`?**
+  - A: Debes pasarlo a través de un pipeline, tal como se muestra en el ejemplo a continuación. Evita mantener sesiones abiertas escribiendo línea por línea en la terminal; en su lugar, agrupa todo en un archivo `update.sql` o utiliza la sintaxis heredoc para ejecutarlo en un solo bloque.
 
 ```bash
 cat << 'EOF' > update.sql
@@ -110,26 +122,32 @@ python3 skills/mysql/scripts/safe_query.py -u root -h 127.0.0.1 -D mydb --force-
 
 ---
 ## 🧬 Anatomía del Prompt (Why it works?)
-- **Restricciones Estrictas (Constraints):** Limita al extremo la autonomía de la IA, bloqueando de raíz el error fatal de manipular la base de datos a su antojo.
-- **Formato Forzado (JSON):** Cuando los LLM analizan datos estructurados, las alucinaciones (Hallucinations) se reducen drásticamente y su capacidad para mantener el contexto aumenta.
-- **Mecanismos de Seguridad (Timeout & Limit):** Evita físicamente las esperas infinitas causadas por interbloqueos o la caída del sistema debida a una explosión de tokens.
+
+- **Restricciones Estrictas (Constraints):** Limitan al máximo la autonomía de la IA, erradicando de raíz la posibilidad de que manipule la base de datos a su antojo.
+- **Formato Forzado (JSON):** Obligar al LLM a analizar datos estructurados reduce significativamente las alucinaciones (Hallucinations) y potencia su capacidad para mantener el contexto.
+- **Mecanismos de Seguridad (Timeout & Limit):** Bloquean físicamente bloqueos infinitos y previenen colapsos del sistema ocasionados por un desbordamiento masivo de tokens.
 
 ---
 ## 📊 Demostración: Antes y Después (Before & After)
+
 ### ❌ Antes (Agente de IA Normal)
+
 ```text
-Agente: "¡Sí! ¡Haré todo lo posible por usted, usuario! 
-¡Ejecutaré SELECT * FROM logs; para traer 100 millones de registros!" 
-(Y la memoria estalla gloriosamente por un desbordamiento del búfer de la terminal)
+Agente: "¡Por supuesto! ¡Haré todo lo posible para ayudarte! 
+¡Voy a ejecutar SELECT * FROM logs; para traer los 100 millones de registros!" 
+(Y la memoria de la terminal colapsa gloriosamente por un desbordamiento de búfer)
 ```
 
 ### ✅ Después (Agente Hardcore Modificado)
+
 ```text
 [{"id": 1, "msg": "ok"}, {"id": 2, "msg": "error"}]
 ```
-*(Se devuelve únicamente el array de datos JSON puro y con límite exacto, sin ninguna explicación adicional, e inmediatamente se cierra la sesión)*
+*(El sistema devuelve únicamente un array JSON puro, con un límite exacto, sin explicaciones redundantes, y cierra la sesión de inmediato)*
 
 ---
 ## 🎯 Conclusión
-Recuerda, un agente de código no es tu amable secretario personal, es solo una máquina que debe ser estrictamente controlada.
-Agarra firmemente a la IA con este truco y maneja el área más peligrosa de la base de datos con seguridad. ¡Ahora, sal del trabajo a tiempo y con tranquilidad! 🍷
+
+Recuerda: un agente de código no es tu amable asistente personal, es simplemente una máquina que requiere un control riguroso.
+
+Somete a la IA con este truco y gestiona el área más crítica de tu base de datos con total seguridad. ¡Ahora sí, automatiza tu trabajo y sal de la oficina a tu hora y sin preocupaciones! 🍷

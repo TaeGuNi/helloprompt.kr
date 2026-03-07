@@ -1,17 +1,17 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Retirement Fund Calculator: What is My Retirement Prep Score?\""
+title: "Retirement Fund Calculator: What is My Retirement Readiness Score?"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investment"
-description: " \"Eliminate the vague fear of aging. Accurately calculate your necessary retirement funds and the exact amount you need to save monthly.\""
+description: "Eliminate the vague fear of retirement. Calculate your exact target retirement fund and the monthly savings required to achieve financial freedom."
 tags: ["Retirement", "OldAgePrep", "Pension", "FinancialPlanning"]
 ---
 
-# 📝 Retirement Fund Calculator: What Is My Retirement Readiness Score?
+## 📝 Retirement Fund Calculator: What Is My Retirement Readiness Score?
 
-- **🎯 Recommended For:** Everyone, Millennials and Gen Z planning for the future
+- **🎯 Recommended For:** Everyone, Millennials, and Gen Z planning for the future
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All Conversational AIs (ChatGPT, Claude, Gemini, etc.)
 
@@ -21,7 +21,7 @@ tags: ["Retirement", "OldAgePrep", "Pension", "FinancialPlanning"]
 
 > _"Are you betting your entire future on a government pension? It's time for a cold, hard reality check."_
 
-How much do you actually need to comfortably spend $3,000 (or 3 million KRW) a month after retirement? One million dollars? Two million? Vague anxiety won't secure your future. By inputting your current age, target retirement age, and expected living expenses, AI can calculate your **'Exact Target Amount'**—factoring in inflation and investment return rates.
+How much do you actually need to comfortably spend $3,000 a month after retirement? One million dollars? Two million? Vague anxiety won't secure your financial future. By inputting your current age, target retirement age, and expected living expenses, AI can calculate your **'Exact Target Amount'**—factoring in inflation and investment return rates.
 
 ---
 
@@ -37,11 +37,10 @@ How much do you actually need to comfortably spend $3,000 (or 3 million KRW) a m
 
 ### 🥉 Basic Version
 
-Use this when you need a quick, high-level estimate without getting bogged down in details.
+Use this when you need a quick, high-level estimate without getting bogged down in complex details.
 
 > **Role:** You are a Certified Financial Planner (CFP) specializing in retirement strategies.
 > **Request:** I want to eliminate my vague anxiety about retirement. Accurately calculate my necessary retirement funds and the exact amount I need to save every month based on my current age and goals.
-
 
 ### 🥇 Pro Version (Expert)
 
@@ -52,14 +51,14 @@ Use this when you need a detailed, customized financial roadmap with actionable 
 > **Context:**
 >
 > - Background: I am currently `[35 years old]`, and I plan to retire at `[60]`.
-> - Goal: Assuming a life expectancy of `[90]`, I want to maintain a lifestyle that costs `[3,000 USD / 3 Million KRW]` per month in present-day value after retirement.
+> - Goal: Assuming a life expectancy of `[90]`, I want to maintain a lifestyle that costs `[$3,000]` per month in present-day value after retirement.
 >
 > **Assumptions:**
 >
 > - Inflation Rate: 2% annually
 > - Pre-retirement Investment Return: `[7%]` annually (e.g., S&P 500 historical average)
 > - Post-retirement Portfolio Return: `[4%]` annually (Conservative allocation)
-> - Expected Pension/Social Security: `[1,000 USD / 1 Million KRW]` per month (Starting at age 65)
+> - Expected Pension/Social Security: `[$1,000]` per month (Starting at age 65)
 >
 > **Task:**
 >
@@ -80,22 +79,22 @@ Use this when you need a detailed, customized financial roadmap with actionable 
 
 ## 💡 Writer's Insight
 
-When it comes to retirement planning, the biggest enemy is ambiguity. People often throw around arbitrary numbers like "I need a million dollars to retire," without understanding the math behind it. This prompt is powerful because it forces the AI to act as a rigorous financial calculator, accounting for silent wealth-killers like inflation while balancing it against compound interest.
+When it comes to retirement planning, the biggest enemy is ambiguity. People often throw around arbitrary numbers like "I need a million dollars to retire," without understanding the math behind it. This prompt is incredibly powerful because it forces the AI to act as a rigorous financial calculator, accounting for silent wealth-killers like inflation while balancing them against the magic of compound interest.
 
-I highly recommend running this prompt with different variables (e.g., changing your target retirement age from 60 to 65, or tweaking your expected return rate). This kind of scenario testing (a simplified Monte Carlo simulation) will immediately show you the immense value of starting your investments just a few years earlier. It transforms abstract financial anxiety into a concrete, manageable monthly goal.
+I highly recommend running this prompt with different variables (e.g., changing your target retirement age from 60 to 65, or tweaking your expected return rate). This kind of scenario testing (essentially a simplified Monte Carlo simulation) will immediately demonstrate the immense value of starting your investments just a few years earlier. It transforms abstract financial anxiety into a concrete, manageable monthly goal.
 
 ---
 
 ## 🙋 Frequently Asked Questions (FAQ)
 
 - **Q: Can I use this prompt for a different currency, like Euros or Yen?**
-  - A: Absolutely. Just replace the currency and the specific pension system (e.g., from US Social Security/Korea National Pension to your local equivalent) in the context brackets `[ ]`. The mathematical principles of compound interest and inflation remain identical.
+  - A: Absolutely. Just replace the currency and the specific pension system (e.g., from US Social Security/Korea National Pension to your local equivalent) in the context brackets `[ ]`. The underlying mathematical principles of compound interest and inflation remain identical.
 
 - **Q: What if I don't know my expected pension amount?**
   - A: You can either set it to `[0]` for a worst-case scenario calculation, or ask the AI to estimate an average payout for your region based on your current income bracket.
 
 - **Q: Are the AI's financial calculations 100% accurate?**
-  - A: Conversational AIs are language models, not dedicated calculators. While models like GPT-4 or Claude 3.5 Sonnet are generally excellent at following these formulas, you should always double-check the final math with a spreadsheet or a real financial advisor before making major life decisions.
+  - A: Conversational AIs are language models, not dedicated calculators. While models like GPT-4 or Claude 3.5 Sonnet are generally excellent at following these formulas, you should always double-check the final math with a spreadsheet or a certified financial advisor before making major life decisions.
 
 ---
 
@@ -139,6 +138,6 @@ If investing 1.55 Million KRW monthly is currently unfeasible, consider delaying
 
 ## 🎯 Conclusion
 
-The earlier you begin preparing for retirement, the more you can harness the magic of compound interest. The numbers you calculate today have the power to completely reshape your future.
+The earlier you begin preparing for retirement, the more you can harness the magic of compound interest. The numbers you calculate today have the power to completely reshape your financial future.
 
 Now, go invest and leave work on time! 🍷

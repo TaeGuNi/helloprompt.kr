@@ -1,15 +1,15 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Future City Night 'Cyberpunk Neon' Lighting Direction\""
+title: "Future City Night 'Cyberpunk Neon' Lighting Direction"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Image Generation"
-description: " \"Master the intense contrast of pink and blue with this cyberpunk-style neon lighting prompt.\""
+description: "Master the intense contrast of pink and blue with this cyberpunk-style neon lighting prompt."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Sci-Fi", "Color"]
 ---
 
-# 📝 Future Night: Cyberpunk Neon
+## 📝 Future Night: Cyberpunk Neon
 
 - **🎯 Recommended For:** Digital Artists, Marketers, Concept Designers
 - **⏱️ Time Required:** 5 minutes → 1 minute
@@ -21,7 +21,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Sci-Fi", "Color"]
 
 > _"Craving that dystopian, hyper-vibrant nightscape straight out of Blade Runner? Let's bring those rain-slicked, neon-drenched streets to life."_
 
-The **Cyberpunk** aesthetic has evolved far beyond a niche sci-fi subgenre into a definitive visual language of the digital age. In this guide, we'll break down exactly how to direct your AI to capture that signature atmosphere—where intense magenta and cyan neon signs bleed into wet asphalt, creating a cinematic, high-contrast masterpiece.
+The **Cyberpunk** aesthetic has evolved far beyond a niche sci-fi subgenre to become a definitive visual language of the digital age. In this guide, we'll break down exactly how to direct your AI to capture that signature atmosphere—where intense magenta and cyan neon signs bleed into wet asphalt, generating a cinematic, high-contrast masterpiece.
 
 ---
 
@@ -71,9 +71,9 @@ Use this when you need absolute control over the cinematic quality and environme
 
 ## 💡 Writer's Insight
 
-Why does this specific color combination work so flawlessly? The pairing of hot pink/magenta and icy blue/cyan creates the highest possible visual contrast without clashing. It instantly signals a classic "high-tech, low-life" atmosphere to the viewer.
+Why does this specific color combination work so flawlessly? The pairing of **hot pink/magenta** and **icy blue/cyan** creates the maximum possible visual contrast without clashing. It instantly telegraphs that quintessential "high-tech, low-life" atmosphere to the viewer.
 
-From my extensive testing with Midjourney v6 and DALL-E 3, simply typing "cyberpunk" often yields flat, generic results. The secret sauce is dictating the _textures_—specifically, the interaction between the light and the environment. When you add terms like "wet asphalt" or "neon reflecting in puddles," the AI engine kicks into overdrive. It begins calculating complex light bounces (simulating ray tracing), which instantly elevates the image from a basic illustration to a photorealistic, cinematic still. Always remember: in cyberpunk art, the environment is just as much the main character as your actual subject.
+From my extensive testing with Midjourney v6 and DALL-E 3, simply typing "cyberpunk" usually yields flat, generic results. The secret sauce is dictating the **textures**—specifically, how the light interacts with the environment. When you add terms like **"wet asphalt"** or **"neon reflecting in puddles"**, the AI engine kicks into overdrive. It begins calculating complex light bounces (simulating ray tracing), which instantly elevates the image from a basic illustration to a photorealistic, cinematic still. Always remember: in cyberpunk art, the environment is just as much the main character as your actual subject.
 
 ---
 

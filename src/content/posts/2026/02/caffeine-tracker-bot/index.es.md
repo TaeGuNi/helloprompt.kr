@@ -5,15 +5,15 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "건강/웰니스"
-description: " \"¿Cuántas tazas de café tomaste hoy? Calcula la vida media de la cafeína para saber si podrás dormir esta noche o cuándo estarás más alerta si lo tomas ahora.\""
+description: "Calcula la vida media de la cafeína en tu cuerpo. Predice tu pico máximo de concentración y descubre a qué hora exacta podrás dormir esta noche."
 tags: ["커피", "집중력", "건강관리", "카페인"]
 ---
 
-# 📝 Crea tu Bot Predictor de Concentración según tu Consumo de Café
+## 📝 Crea tu bot predictor de concentración según tu consumo de café
 
-- **🎯 Público Objetivo:** Trabajadores de oficina, desarrolladores, estudiantes y cualquiera que dependa del café.
-- **⏱️ Tiempo Necesario:** 30 minutos de cálculo mental → 1 minuto con IA
-- **🤖 Modelos Recomendados:** Todos los modelos conversacionales (ChatGPT, Claude, Gemini, etc.)
+- **🎯 Público objetivo:** Profesionales, desarrolladores, estudiantes y cualquiera que dependa del café.
+- **⏱️ Tiempo necesario:** 30 minutos de cálculo mental → 1 minuto con IA
+- **🤖 Modelos recomendados:** Cualquier modelo conversacional (ChatGPT, Claude, Gemini, etc.)
 
 - ⭐ **Dificultad:** ⭐⭐☆☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
@@ -21,29 +21,28 @@ tags: ["커피", "집중력", "건강관리", "카페인"]
 
 > _"¿Te tomaste un café a las 4 PM para terminar un proyecto y ahora estás dando vueltas en la cama a las 2 AM? Deja de adivinar y calcula exactamente cuándo desaparecerá la cafeína de tu sistema."_
 
-El café es el combustible indiscutible de los profesionales modernos, pero un mal cálculo en tu ingesta puede arruinar tu ciclo de sueño y tu productividad del día siguiente. Con este prompt, convertirás a la IA en tu nutricionista personal especializado en neurociencia y cronobiología. Analizará tus bebidas, calculará la vida media de la cafeína en tu organismo y te dirá exactamente cuándo estarás en tu pico máximo de concentración y a qué hora podrás dormir profundamente.
+El café es el combustible indiscutible de los profesionales modernos, pero un mal cálculo en su consumo puede arruinar tu ciclo de sueño y tu productividad del día siguiente. Con este prompt, convertirás a la IA en tu nutricionista personal especializado en neurociencia y cronobiología. Analizará tus bebidas, calculará la vida media de la cafeína en tu organismo y te dirá exactamente cuándo alcanzarás tu pico máximo de concentración y a qué hora podrás dormir profundamente.
 
 ---
 
-## ⚡️ Resumen de 3 Líneas (TL;DR)
+## ⚡️ Resumen de 3 líneas (TL;DR)
 
-1. **Análisis de Ingesta:** Evalúa tu nivel de cafeína actual basado en el tipo y la cantidad de bebidas consumidas.
-2. **Predicción de Energía:** Identifica tu pico de máxima concentración y el inevitable bajón de energía posterior.
-3. **Ventana de Sueño:** Calcula la hora exacta en la que tu cuerpo estará verdaderamente listo para descansar.
+1. **Análisis de ingesta:** Evalúa tu nivel actual de cafeína según el tipo y la cantidad de bebidas consumidas.
+2. **Predicción de energía:** Identifica tu pico de máxima concentración y el inevitable bajón de energía posterior.
+3. **Ventana de sueño:** Calcula la hora exacta en la que tu cuerpo estará verdaderamente listo para descansar.
 
 ---
 
 ## 🚀 Solución: "Bot Predictor de Cafeína"
 
-### 🥉 Basic Version (Versión Básica)
+### 🥉 Basic Version (Versión básica)
 
 Úsala cuando necesites una respuesta rápida sin entrar en demasiados detalles médicos.
 
 > **Rol:** Eres un experto en sueño y nutrición.
-> **Tarea:** He tomado `[cantidad y tipo de café]` a las `[hora]`. Dime a qué hora tendré mi pico de concentración y a qué hora podré dormir esta noche.
+> **Tarea:** He tomado `[cantidad y tipo de bebida]` a las `[hora]`. Dime a qué hora tendré mi pico de concentración y a qué hora podré dormir esta noche.
 
-
-### 🥇 Pro Version (Versión Experta)
+### 🥇 Pro Version (Versión experta)
 
 Úsala para obtener un desglose detallado, cronogramas precisos y recomendaciones personalizadas.
 
@@ -73,33 +72,33 @@ El café es el combustible indiscutible de los profesionales modernos, pero un m
 
 ---
 
-## 💡 Comentario del Autor (Insight)
+## 💡 Comentario del autor (Insight)
 
-Este prompt es una herramienta fantástica para aquellos que sufren de insomnio inducido por el estrés laboral o para los desarrolladores que hacen _sprints_ nocturnos de código. La magia radica en pedirle explícitamente a la IA que use el concepto científico de la "vida media de la cafeína" para hacer sus cálculos matemáticos. Ya no es necesario depender de aplicaciones de terceros; puedes integrar este pequeño sistema en tu rutina diaria para tomar decisiones informadas sobre si realmente necesitas ese café de las 4 PM o si es más estratégico optar por un descafeinado. Lo he usado durante semanas para ajustar mis horarios, y mi calidad de sueño (y por ende, mi productividad) ha mejorado drásticamente.
+Este prompt es una herramienta fantástica para quienes sufren de insomnio inducido por el estrés laboral o para los desarrolladores que hacen _sprints_ nocturnos de código. La magia radica en pedirle explícitamente a la IA que use el concepto científico de la "vida media de la cafeína" para realizar sus cálculos matemáticos. Ya no es necesario depender de aplicaciones de terceros; puedes integrar este pequeño sistema en tu rutina diaria para tomar decisiones informadas sobre si realmente necesitas ese café de las 4 PM o si es más estratégico optar por un descafeinado. Lo he usado durante semanas para ajustar mis horarios, y mi calidad de sueño (y por ende, mi productividad) ha mejorado drásticamente.
 
 ---
 
-## 🙋 Preguntas Frecuentes (FAQ)
+## 🙋 Preguntas frecuentes (FAQ)
 
 - **P: ¿Puedo usar este prompt para el té o las bebidas energéticas?**
-  - R: ¡Absolutamente! Solo cambia el valor en `[tipo de bebida]` (por ejemplo, "Lata de Red Bull de 250ml" o "Taza de Té Verde"). La IA conoce el contenido aproximado de cafeína de casi todas las bebidas comerciales del mercado.
+  - R: ¡Absolutamente! Solo cambia el valor en `[tipo de bebida, ej: Lata de Red Bull de 250 ml o Taza de té verde]`. La IA conoce el contenido aproximado de cafeína de casi todas las bebidas comerciales del mercado.
 
 - **P: ¿Funciona igual de bien en las versiones gratuitas de IA?**
   - R: Sí. Los cálculos matemáticos simples, basados en la fórmula de decaimiento exponencial de la vida media, son tareas que ChatGPT (incluso en su versión 3.5), Claude y Gemini manejan a la perfección sin necesidad de modelos avanzados.
 
 ---
 
-## 🧬 Anatomía del Prompt (Why it works?)
+## 🧬 Anatomía del prompt (Why it works?)
 
-1. **Rol Científico (Role):** Al asignarle el rol de "cronobiólogo", la IA adopta un tono analítico, evitando respuestas genéricas y basando sus recomendaciones en la ciencia del ritmo circadiano.
-2. **Cálculo de Vida Media (Context/Task):** En lugar de pedir una opinión vaga, forzamos a la IA a realizar un cálculo matemático específico (vida media de 5 horas) para generar un cronograma preciso y fundamentado.
-3. **Protección Ética (Warning):** Al incluir la cláusula de advertencia, prevenimos que la IA se niegue a responder por "dar consejos médicos", asegurando que entregue la información como un modelo predictivo.
+1. **Rol científico (Role):** Al asignarle el rol de "cronobiólogo", la IA adopta un tono analítico, evitando respuestas genéricas y basando sus recomendaciones en la ciencia del ritmo circadiano.
+2. **Cálculo de vida media (Context/Task):** En lugar de pedir una opinión vaga, forzamos a la IA a realizar un cálculo matemático específico (vida media de 5 horas) para generar un cronograma preciso y fundamentado.
+3. **Protección ética (Warning):** Al incluir la cláusula de advertencia, evitamos que la IA se niegue a responder por "dar consejos médicos", asegurando que entregue la información como un modelo predictivo.
 
 ---
 
 ## 📊 Demostración: Before & After
 
-### ❌ Before (Búsqueda Tradicional)
+### ❌ Before (Búsqueda tradicional)
 
 ```text
 ¿A qué hora puedo dormir si tomé un café grande a las 5 de la tarde?

@@ -9,27 +9,27 @@ description: "A prompt guide to quickly filter and summarize the dozens of daily
 tags: ["Stock", "Investing", "NewsSummary", "Samsung", "SKHynix", "AIAssistant"]
 ---
 
-# 📝 How to Summarize Overwhelming Samsung & SK Hynix News with AI
+## 📝 How to Summarize Overwhelming Samsung & SK Hynix News with AI
 
-- **🎯 Target Audience:** Working investors, Day traders, Shareholders tired of information overload
+- **🎯 Target Audience:** Working professionals, day traders, and retail investors suffering from information overload.
 - **⏱️ Time Saved:** 30 minutes → 1 minute
-- **🤖 Recommended AI:** Real-time web-search capable AI (Perplexity, ChatGPT Search, Claude, etc.)
+- **🤖 Recommended AI:** AI with real-time web-search capabilities (e.g., Perplexity, ChatGPT Search, Claude).
 
 - ⭐ **Difficulty:** ⭐☆☆☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
 - 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-> _"No time to read the flood of semiconductor news on your morning commute? Leave it to AI."_
+> _"No time to parse through the flood of semiconductor news on your morning commute? Let AI handle the heavy lifting."_
 
-In the stock market, the 'speed of information' is life. For market-dominating stocks like Samsung Electronics and SK Hynix, dozens of similar news articles pour out every day from various media outlets. Here is a prompt that filters out duplicate articles and quickly identifies only the real 'good news' and 'bad news' that will affect the stock price.
+In the stock market, the speed of information is a matter of survival. For market-moving giants like Samsung Electronics and SK Hynix, dozens of nearly identical news articles pour out daily from countless media outlets. This prompt acts as your personal financial analyst—filtering out the noise, eliminating duplicate coverage, and instantly identifying the true market movers and red flags that will actually impact stock prices.
 
 ---
 
 ## ⚡️ 3-Line Summary (TL;DR)
 
-1. You can cut through numerous duplicate articles and receive a briefing on just the 3-to-5 most important news pieces.
-2. It clearly categorizes the short-term impact of the news on the stock price as 'Good News / Bad News'.
-3. In a busy morning, you can grasp the overall semiconductor sector market sentiment in just 1 minute.
+1. Cut through the clutter of redundant articles and get a streamlined briefing of the 3 to 5 most critical news pieces.
+2. Instantly categorize each news item's short-term stock impact as a clear positive or negative signal.
+3. Grasp the overall market sentiment of the semiconductor sector in just one minute during your busy morning routine.
 
 ---
 
@@ -37,60 +37,61 @@ In the stock market, the 'speed of information' is life. For market-dominating s
 
 ### 🥉 Basic Version
 
-Use this when you want to quickly see only the major issues this morning.
+Use this prompt when you need a lightning-fast overview of the morning's major headlines.
 
-> **Role:** You are a `[Fast and Accurate Economic News Curator]`.
-> **Task:** Give me 3 major news headlines and one-line summaries related to `[Samsung Electronics]` and `[SK Hynix]` this morning.
+> **Role:** You are a `[Fast and Accurate Financial News Curator]`.
+>
+> **Task:** Give me the top 3 news headlines with one-line summaries related to `[Samsung Electronics]` and `[SK Hynix]` this morning.
 
 ### 🥇 Pro Version
 
-Use this when you want investment hints, such as determining good or bad news, beyond simple summaries.
+Deploy this advanced prompt when you need actionable investment insights—distinguishing between positive and negative signals—rather than just a simple summary.
 
-> **Role (Role):** You are the `[Head Researcher in charge of morning briefings at a Wall Street Brokerage Research Center]`.
+> **Role:** You are the `[Chief Researcher leading morning briefings at a top-tier Wall Street Brokerage]`.
 >
-> **Context (Context):**
+> **Context:**
 >
-> - Background: `[A busy working investor needs to grasp the market situation in 1 minute on their way to work]`
-> - Goal: `[Remove duplicate news and deliver only compressed core information that will affect stock prices]`
+> - Background: `[A busy retail investor needs to fully grasp the market landscape in under 1 minute during their morning commute.]`
+> - Goal: `[Filter out duplicate news and deliver highly condensed, core information that directly influences stock prices.]`
 >
-> **Task (Task):**
+> **Task:**
 >
-> 1. Select the 3 most important news items related to `[Samsung Electronics]` and `[SK Hynix]` within the last 24 hours.
-> 2. For each news item, specify a 'Core Summary (under 2 sentences)' and 'Stock Price Impact (Good News/Bad News/Neutral and the reason)'.
-> 3. Provide a one-line comment synthesizing the overall investment sentiment of the semiconductor sector today based on these news items.
+> 1. Select the 3 most critical news items related to `[Samsung Electronics]` and `[SK Hynix]` published within the last 24 hours.
+> 2. For each news item, provide a 'Core Summary' (maximum of 2 sentences) and a 'Stock Price Impact' analysis (categorized as Positive, Negative, or Neutral, including the rationale).
+> 3. Provide a single concluding sentence that synthesizes the overall daily investment sentiment for the semiconductor sector based on these findings.
 >
-> **Constraints (Constraints):**
+> **Constraints:**
 >
-> - The output format should be a mobile-friendly 'List' using emojis. Avoid using Tables if possible.
-> - Exclude gossip articles or simple stock price fluctuation reports; only select articles that affect 'fundamentals' such as earnings, contracts, tech development, and macroeconomics.
+> - Format the output as a mobile-friendly, bulleted list using relevant emojis. Do not use markdown tables.
+> - Exclude gossip, speculative rumors, or simple stock price recaps. Only select articles that impact fundamental valuations, such as earnings reports, major contracts, technological breakthroughs, and macroeconomic shifts.
 >
-> **Warning (Warning):**
+> **Warning:**
 >
-> - Never include unverified rumors or 'tabloid gossip' in the news summary. (Prevent hallucinations and maintain reliability)
+> - Never include unverified rumors or tabloid gossip in your summary. Stick strictly to verified facts to prevent hallucinations and maintain absolute reliability.
 
 ---
 
 ## 💡 Insight
 
-The core of this prompt is not just 'summarizing', but limiting the article filtering criteria to 'fundamentals (earnings, contracts, tech)'. Instead of rummaging through portals or trading apps every morning, make it a habit to read the AI-organized briefing while making your coffee. It is the smartest way to ride the wave instead of drowning in the sea of information.
+The true power of this prompt lies not in mere summarization, but in its strict filtering constraints targeting "fundamentals"—like earnings, massive contracts, and tech innovations. Instead of endlessly scrolling through financial portals or trading apps every morning, make reading this AI-curated briefing your daily coffee ritual. It is the smartest, most efficient way to ride the market wave without drowning in an ocean of noise.
 
 ---
 
 ## 🙋 FAQ
 
-- **Q: How does the AI know the latest news?**
-  - A: If you use Perplexity or ChatGPT (or Copilot) with browsing enabled, it will instantly search the web, read the latest articles, and summarize them right after you enter the prompt.
+- **Q: How does the AI access the most up-to-date news?**
+  - A: By utilizing AI models with live browsing capabilities, such as Perplexity or ChatGPT (with web search enabled), the AI instantly scours the web, reads the latest publications, and synthesizes the data the moment you hit enter.
 
-- **Q: Can I change it to news for a specific company (e.g., Nvidia)?**
-  - A: Yes, just replace the bracketed `[Samsung Electronics]` and `[SK Hynix]` parts with your stock of interest, and it will work perfectly the same.
+- **Q: Can I adapt this prompt for other specific companies, like Nvidia or Tesla?**
+  - A: Absolutely. Simply swap out the bracketed variables `[Samsung Electronics]` and `[SK Hynix]` with your target stocks, and the prompt will perform with the exact same precision.
 
 ---
 
 ## 🧬 Why it works?
 
-1. **Task Segmentation:** By demanding not only a simple summary but also a judgment of 'Stock Price Impact (Good/Bad)', we raised the quality of the briefing to the level of an investment report.
-2. **Constraints:** By adding a condition to exclude gossip or simple play-by-play stock movement articles, we increased the nutritional value of the information and reduced noise.
-3. **UX Optimization:** By demanding a list format instead of a table in consideration of the mobile environment (commuting), readability was maximized.
+1. **Task Segmentation:** By requiring not just a summary but a definitive 'Stock Price Impact' judgment, this prompt elevates a basic news roundup into a professional-grade investment brief.
+2. **Strategic Constraints:** Explicitly instructing the AI to ignore market noise and simple price-action articles drastically increases the nutritional density of the information provided.
+3. **UX Optimization:** Mandating a bulleted list format instead of tables ensures the output remains highly readable on mobile devices, perfect for consuming on the go.
 
 ---
 
@@ -127,6 +128,6 @@ Both companies have major positive news, so overall sentiment in the semiconduct
 
 ## 🎯 Conclusion
 
-Don't be overwhelmed by the hundreds of news headlines pouring out every morning.
+Stop letting the daily avalanche of financial headlines overwhelm your trading strategy.
 
-Start your smart day with your very own AI assistant! 🍷
+Take control of your morning routine and start your day smarter with your very own AI-powered quantitative analyst! 🍷

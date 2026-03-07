@@ -1,17 +1,17 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"JD (Job Description) Tailored Cover Letter Draft Generator\""
+title: "JD (Job Description) Tailored Cover Letter Draft Generator"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Career"
-description: " \"Analyzes Job Descriptions (JD) to instantly generate a customized cover letter draft that perfectly aligns with the company's ideal candidate profile.\""
+description: "Instantly generate a tailored cover letter draft that perfectly aligns with any Job Description (JD) and highlights your core competencies."
 tags: ["CoverLetter", "SelfIntro", "JDAnalysis", "Job"]
 ---
 
-# 📝 JD (Job Description) Tailored Cover Letter Draft Generator
+## 📝 JD (Job Description) Tailored Cover Letter Draft Generator
 
-- **🎯 Target Audience:** Job seekers, Junior professionals, Career changers
+- **🎯 Target Audience:** Job seekers, junior professionals, career changers
 - **⏱️ Time Saved:** 2 hours → 5 minutes
 - **🤖 Recommended AI:** ChatGPT (GPT-4), Claude 3.5 Sonnet, Gemini Advanced
 
@@ -44,7 +44,6 @@ Use this when you need a rapid, baseline draft to build upon.
 > **Task:** Analyze the provided Job Description (JD) and write a professional cover letter draft that perfectly aligns with the company's desired talent profile in under 1 minute.
 >
 > **Input:** `[Insert JD here]` | `[Insert your brief background here]`
-
 
 ### 🥇 Pro Version (Expert Tailoring)
 
@@ -94,10 +93,8 @@ The true power of this prompt lies in its **"Mirroring"** technique. Applicant T
 
 - **Q: Will recruiters know I used AI to write my cover letter?**
   - A: If you submit the raw, unedited output, they might. AI tends to use specific sentence structures and buzzwords (like "delve" or "testament"). Always edit the draft to reflect your genuine voice and ensure the tone matches your industry standard.
-
 - **Q: Does this work well with free AI models like ChatGPT 3.5?**
   - A: Yes, it works decently with free models. However, advanced models like GPT-4, Claude 3.5 Sonnet, or Gemini Advanced are significantly better at nuanced keyword extraction and maintaining a natural, persuasive tone without sounding overly robotic.
-
 - **Q: What if I don't have experience that matches the JD exactly?**
   - A: Provide the experience you _do_ have that involves transferable skills. The AI will do its best to bridge the gap, but be careful not to let it exaggerate. Honesty is crucial; highlight your adaptability and eagerness to learn the missing components.
 
@@ -128,9 +125,9 @@ I have always had a deep interest in marketing and frequently use your company's
 
 Dear Hiring Manager,
 
-I am writing to express my strong interest in the Growth Marketer position at [Target Company]. Your team's commitment to 'Data-Driven Marketing' deeply resonates with my professional approach.
+I am writing to express my strong interest in the Growth Marketer position at [Target Company Name]. Your team's commitment to 'Data-Driven Marketing' deeply resonates with my professional approach.
 
-In my recent role at [Previous Company], I spearheaded a performance optimization initiative that directly reduced our landing page bounce rate by 15% over three months. By utilizing GA4 to analyze user behavior and collaborating cross-functionally with the design team to implement targeted A/B tests, we significantly improved user retention. I am eager to bring this same analytical rigor and collaborative mindset to scale [Target Company]'s user acquisition strategies...
+In my recent role at [Previous Company Name], I spearheaded a performance optimization initiative that directly reduced our landing page bounce rate by 15% over three months. By utilizing GA4 to analyze user behavior and collaborating cross-functionally with the design team to implement targeted A/B tests, we significantly improved user retention. I am eager to bring this same analytical rigor and collaborative mindset to scale [Target Company Name]'s user acquisition strategies...
 ```
 
 ---

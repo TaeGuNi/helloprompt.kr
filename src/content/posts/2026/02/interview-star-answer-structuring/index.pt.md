@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emprego & Carreira"
-description: "Para quem costuma divagar ou perder o foco nas entrevistas: estruture qualquer experiência com precisão cirúrgica usando a técnica STAR (Situação, Tarefa, Ação, Resultado)."
+description: "Perdendo o foco nas entrevistas? Estruture qualquer experiência com precisão cirúrgica usando a técnica STAR (Situação, Tarefa, Ação, Resultado)."
 tags: ["TécnicaSTAR", "RespostaEntrevista", "Estruturação", "FalaLógica"]
 ---
 
-# 📝 Quando a Resposta da Entrevista Divaga! Prompt de Estruturação com a 'Técnica STAR'
+## 📝 Quando a Resposta da Entrevista Divaga! Prompt de Estruturação com a 'Técnica STAR'
 
 - **🎯 Recomendado para:** Candidatos a vagas de emprego, profissionais em transição de carreira, recém-formados
 - **⏱️ Tempo necessário:** 5 minutos
@@ -21,13 +21,13 @@ tags: ["TécnicaSTAR", "RespostaEntrevista", "Estruturação", "FalaLógica"]
 
 > _"Você começa a dar uma explicação longa e detalhada, mas logo percebe o semblante do recrutador se fechar?"_
 
-A maior causa de reprovação em entrevistas comportamentais atende pelo nome de **falta de objetividade**. Você gasta três preciosos minutos detalhando todo o contexto de uma situação e, no final, conclui a resposta sem deixar claro o que _você_ de fato fez para resolver o problema. Para fugir dessa armadilha fatal e garantir a sua aprovação, você precisa construir a espinha dorsal da sua narrativa utilizando um verdadeiro *cheat code* do mercado corporativo: a **técnica STAR**.
+A maior causa de reprovação em entrevistas comportamentais tem nome: **falta de objetividade**. Você gasta três preciosos minutos detalhando o contexto e, no final, conclui a resposta sem deixar claro o que _você_ de fato fez para resolver o problema. Para fugir dessa armadilha fatal e garantir sua aprovação, é preciso construir a espinha dorsal da sua narrativa com um verdadeiro *cheat code* do mercado corporativo: a **técnica STAR**.
 
 ---
 
 ## ⚡️ Resumo em 3 linhas (TL;DR)
 
-1. Insira no prompt um rascunho livre ou a ideia central da experiência que você deseja destacar.
+1. Insira no prompt um rascunho livre ou a ideia central da experiência que deseja destacar.
 2. A IA reestrutura automaticamente a sua narrativa no formato **S (Situação) - T (Tarefa) - A (Ação) - R (Resultado)**.
 3. Receba um roteiro polido de aproximadamente 1 minuto, pronto para ser articulado com máxima naturalidade e impacto.
 
@@ -75,16 +75,16 @@ Use esta versão para gerar um roteiro estratégico, polido e cirurgicamente cro
 
 ## 💡 Comentário do Autor (Insight)
 
-A etapa de "Ação" é exatamente onde a esmagadora maioria dos candidatos falha miseravelmente. Em vez de assumirem o protagonismo, eles se escondem atrás do pronome "nós" (diluindo o mérito na equipe) ou desperdiçam 80% do tempo detalhando o problema inicial (Situação). Como recrutador e mentor, posso afirmar com total convicção: a empresa está avaliando e contratando _você_, não o seu antigo departamento.
+A etapa de **Ação** é exatamente onde a esmagadora maioria dos candidatos falha miseravelmente. Em vez de assumirem o **protagonismo**, eles se escondem atrás do pronome "nós" (diluindo o mérito na equipe) ou desperdiçam 80% do tempo detalhando o problema inicial (Situação). Como recrutador e mentor, posso afirmar com total convicção: a empresa está avaliando e contratando **você**, não o seu antigo departamento.
 
-Este prompt foi engenhosamente desenhado com a restrição de "dar um peso maior à Ação (>50%)" para forçar a IA a colocar os holofotes sobre a sua capacidade de execução e liderança. Além disso, ao exigir um formato de "roteiro coloquial", nós blindamos a sua resposta contra aquele tom artificial de quem está lendo um teleprompter. O meu conselho de ouro? Grave a si mesmo lendo o resultado da IA, escute o áudio e faça pequenos ajustes para que as palavras se encaixem perfeitamente no seu vocabulário natural.
+Este prompt foi engenhosamente desenhado com a **restrição de tempo e foco** na Ação (>50%) para forçar a IA a colocar os holofotes sobre a sua **capacidade de execução e liderança**. Além disso, ao exigir um formato de **roteiro coloquial**, nós blindamos a sua resposta contra aquele tom artificial de quem está lendo um teleprompter. O meu conselho de ouro? **Grave a si mesmo** lendo o resultado da IA, escute o áudio e faça pequenos ajustes para que as palavras se encaixem perfeitamente no seu vocabulário natural.
 
 ---
 
 ## 🙋 Perguntas Frequentes (FAQ)
 
 - **Q: E se a minha experiência não gerou nenhum resultado quantificável (como métricas ou faturamento)?**
-  - A: Não há problema algum. Se você não gerou "aumento de X% nas vendas" ou "Y horas economizadas", redirecione o foco para o aspecto qualitativo. Explique no seu relato base: "O resultado foi que a equipe recuperou a motivação" ou "Desenvolvi resiliência ao lidar com clientes difíceis". A IA será inteligente o suficiente para formatar o "Resultado" destacando o seu amadurecimento e impacto cultural.
+  - A: Não há problema algum. Se você não gerou um "aumento de X% nas vendas" ou "Y horas economizadas", direcione o foco para o impacto qualitativo. Explique no seu relato base: "O resultado foi que a equipe recuperou a motivação" ou "Desenvolvi resiliência ao lidar com clientes difíceis". A IA será inteligente o suficiente para formatar o "Resultado" destacando o seu amadurecimento e impacto cultural.
 
 - **Q: Posso utilizar este prompt para me preparar para entrevistas em inglês?**
   - A: Com certeza! Basta adicionar uma instrução simples nas Restrições da versão Pro: "- Escreva o roteiro final em um inglês corporativo natural e fluente". Essa é uma tática fenomenal para destravar o seu discurso em processos seletivos internacionais, garantindo que você soe articulado e domine as expressões idiomáticas do mercado.

@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "프롬프트 템플릿"
-description: "O lendário estrategista Zhuge Liang despertou como uma IA. Receba uma leitura astrológica precisa e uma tática de sobrevivência implacável para dominar 2026, o Ano de Bingwu (Cavalo de Fogo)."
+description: "Zhuge Liang despertou como IA. Obtenha previsões astrológicas precisas e táticas implacáveis para dominar 2026, o temido Ano do Cavalo de Fogo."
 tags: ["Astrologia Chinesa", "Horóscopo", "Zhuge Liang", "2026", "Ano do Cavalo de Fogo", "Persona"]
 ---
 
-# 📝 O Plano Longzhong Moderno (隆中對): Uma Audiência Exclusiva com Zhuge Liang no Ano do Cavalo de Fogo
+## 📝 O Plano Longzhong Moderno (隆中對): Uma Audiência Exclusiva com Zhuge Liang no Ano do Cavalo de Fogo
 
 - **🎯 Público-Alvo:** Profissionais buscando antecipar as tendências do ano, pessoas prestes a tomar decisões de alto impacto (transição de carreira, abertura de negócios) e quem já se cansou do misticismo vago das IAs.
 - **⏱️ Tempo Estimado:** 10 minutos → Reduzido para 1 minuto
@@ -42,7 +42,8 @@ Este prompt vai muito além de apenas alimentar uma Inteligência Artificial com
 Ideal para quando você precisa de um panorama rápido sobre as energias gerais e um direcionamento estratégico imediato para 2026.
 
 > **Papel:** Você é Zhuge Liang, reencarnado nos tempos modernos. Forneça um aconselhamento sobre o meu destino, mesclando a precisão da astrologia chinesa clássica (Quatro Pilares do Destino / Bazi) com a sua inigualável visão estratégica e militar.
-> **Tarefa:** Tendo como base a minha data e hora de nascimento `[Sua data e hora de nascimento, ex: 15 de maio de 1990 às 15:00, calendário solar/lunar]`, detalhe os perigos que devo evitar a todo custo e a rota exata que devo trilhar no turbulento ano do Cavalo de Fogo de 2026. Mantenha o tom sábio, majestoso e profundamente respeitoso característico do Primeiro-Ministro.
+> 
+> **Tarefa:** Tendo como base a minha data e hora de nascimento `[Sua data e hora de nascimento, ex: 15 de maio de 1990 às 15:00, calendário solar ou lunar]`, detalhe os perigos que devo evitar a todo custo e a rota exata que devo trilhar no turbulento ano do Cavalo de Fogo de 2026. Mantenha o tom sábio, majestoso e profundamente respeitoso característico do Primeiro-Ministro.
 
 ### 🥇 Versão Pro (Especialista)
 
@@ -113,7 +114,7 @@ Nasci em 15 de maio de 1990 e gostaria de ver o meu horóscopo para 2026. Posso 
 
 ```text
 (Resumo da resposta da IA) "Meu Senhor, o ano de Bingwu, 2026, apresenta-se como um Feroz Cavalo Vermelho a galopar, incendiando a terra. Como a energia da Água (水) presente em seu destino colide frontalmente com a energia extremamente poderosa do Fogo (火) deste ano, a ansiedade em seu coração pode invocar o caos.
-Falastes em demissão? Seu atual local de trabalho é como uma fortaleza de muralhas robustas, embora com provisões escassas; assim sendo, não abra os portões da cidade precipitadamente até o fim do primeiro semestre. Se abriga a ambição de fundar um negócio, deverá içar suas velas apenas após setembro, quando soprarem os ventos de outono e a energia do Metal (金) reviver, para então apanhar a correnteza favorável.
+O senhor fala em demissão? Seu atual local de trabalho é como uma fortaleza de muralhas robustas, embora com provisões escassas; assim sendo, não abra os portões da cidade precipitadamente até o fim do primeiro semestre. Se abriga a ambição de fundar um negócio, deverá içar suas velas apenas após setembro, quando soprarem os ventos de outono e a energia do Metal (金) reviver, para então apanhar a correnteza favorável.
 [Estratagema da Bolsa de Seda] A pressa é a ruína dos grandes planos. Guarde sua espada na bainha e fortaleça suas fundações até que o momento oportuno se revele."
 ```
 

@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Ejercicios de Estiramiento Sigilosos en la Oficina: Alivia el Dolor Sin Ser Notado\""
+title: "Ejercicios de estiramiento sigilosos en la oficina: Alivia el dolor sin ser notado"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salud y Bienestar"
-description: " \"Descubre una rutina de estiramientos de oficina diseñados con IA que puedes hacer en tu silla sin que tus colegas se den cuenta.\""
+description: "Descubre una rutina de estiramientos diseñada con IA que puedes hacer en tu silla sin que tus colegas se den cuenta."
 tags:
   [
     "Cuello de Texto",
@@ -16,9 +16,9 @@ tags:
   ]
 ---
 
-# 🪑 Estiramiento Sigiloso en la Oficina para Escapar del Cuello de Texto y Dolor de Espalda
+## 🪑 Estiramientos sigilosos en la oficina para escapar del «cuello de texto» y el dolor de espalda
 
-- **🎯 Recomendado para:** Oficinistas, programadores, y cualquier persona que pase más de 6 horas frente al monitor.
+- **🎯 Recomendado para:** Oficinistas, desarrolladores y cualquier persona que pase más de 6 horas frente al monitor.
 - **⏱️ Tiempo requerido:** 5 minutos
 - **🤖 Modelo recomendado:** Todos los modelos de IA (ChatGPT, Claude, Gemini, etc.)
 
@@ -46,15 +46,15 @@ Sabemos que no puedes levantarte a hacer una sesión de yoga en medio de la jorn
 
 Úsala cuando necesites una rutina rápida y sin complicaciones.
 
-> **Rol:** Eres un experto fisioterapeuta especializado en ergonomía laboral y un maestro del camuflaje social en la oficina.
-> **Solicitud:** Diséñame una rutina de 'Estiramiento Sigiloso en la Oficina' que pueda realizar sentado en mi escritorio sin que ninguno de mis colegas se dé cuenta de que estoy haciendo ejercicio.
-
+> **Rol (Role):** Eres un experto fisioterapeuta especializado en ergonomía laboral y un maestro del camuflaje social en la oficina.
+>
+> **Solicitud (Task):** Diséñame una rutina de "Estiramiento Sigiloso en la Oficina" que pueda realizar sentado en mi escritorio sin que ninguno de mis colegas se dé cuenta de que estoy haciendo ejercicio.
 
 ### 🥇 Versión Pro (Pro Version)
 
-Úsala cuando necesites una rutina altamente personalizada para dolores específicos y un contexto de oficina estricto.
+Úsala cuando necesites una rutina altamente personalizada para dolores específicos en un entorno de oficina estricto.
 
-> **Rol (Role):** Eres un experto fisioterapeuta especializado en higiene postural corporativa y un estratega de las habilidades sociales.
+> **Rol (Role):** Eres un experto fisioterapeuta especializado en higiene postural corporativa y un estratega de las interacciones sociales.
 >
 > **Contexto (Context):**
 >
@@ -64,7 +64,7 @@ Sabemos que no puedes levantarte a hacer una sesión de yoga en medio de la jorn
 >
 > **Tarea (Task):**
 >
-> 1. Diséña 3 estiramientos que pueda realizar sentado en mi silla mientras **finjo estar trabajando o pensando profundamente**.
+> 1. Diseña 3 estiramientos que pueda realizar sentado en mi silla mientras **finjo estar trabajando o pensando profundamente**.
 > 2. Incluye "micromovimientos" casi imperceptibles que sean altamente efectivos para corregir el síndrome del cuello de texto (Text Neck).
 > 3. Proporciona una técnica rápida para relajar las muñecas y los dedos entumecidos por teclear constantemente.
 > 4. Para cada ejercicio, añade una "Tapadera de Actuación" (ej. "frunce el ceño mirando un Excel para que parezca que estás concentrado").

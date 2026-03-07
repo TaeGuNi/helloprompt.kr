@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "업무 효율화"
-description: "Attenzione sviluppatori che spulciano GitHub perché non ricordano cosa hanno fatto ieri: basta fornire i log dei commit per ottenere uno script perfetto per il daily stand-up."
+description: "Sviluppatori, non ricordate i task di ieri? Incollate i log dei commit in questo prompt per ottenere uno script perfetto per il daily stand-up in un minuto."
 tags: ["스탠드업", "회의준비", "개발자", "회고"]
 ---
 
-# 📝 Preparazione per il Daily Stand-up in 1 Minuto
+## 📝 Preparazione per il Daily Stand-up in 1 Minuto
 
 - **🎯 Consigliato per:** Sviluppatori, Project Manager, chiunque partecipi a riunioni Agile
 - **⏱️ Tempo richiesto:** 15 minuti → Ridotto a 1 minuto
@@ -21,7 +21,7 @@ tags: ["스탠드업", "회의준비", "개발자", "회고"]
 
 > _"Non ricordi su cosa hai lavorato ieri e perdi tempo a spulciare la cronologia di GitHub a cinque minuti dal daily? È ora di smettere di faticare inutilmente."_
 
-Ti capita mai di arrivare al daily stand-up mattutino con la mente annebbiata, cercando disperatamente di ricordare quali task hai chiuso il giorno prima? Per sviluppatori e professionisti tech, dover riassumere ore di lavoro e innumerevoli commit in un aggiornamento conciso di un minuto può trasformarsi in un'inutile fonte di stress quotidiano. Spesso finiamo per balbettare tecnicismi o dimentichiamo i dettagli cruciali che bloccano il nostro lavoro. Con questo prompt, tutto questo diventa un ricordo del passato. Ti basterà incollare i log dei tuoi commit o i tuoi appunti sparsi: l'IA genererà all'istante uno script impeccabile, persuasivo e professionale, perfettamente strutturato per il tuo stand-up.
+Ti capita mai di arrivare al daily stand-up mattutino con la mente annebbiata, cercando disperatamente di ricordare quali task hai chiuso il giorno prima? Per gli sviluppatori e i professionisti tech, dover riassumere ore di lavoro e innumerevoli commit in un aggiornamento conciso di un minuto può trasformarsi in un'inutile fonte di stress quotidiano. Spesso finiamo per balbettare tecnicismi incomprensibili o dimentichiamo proprio i dettagli cruciali che stanno bloccando il nostro lavoro. Con questo prompt, tutto ciò diventa un ricordo del passato. Ti basterà incollare i log dei tuoi commit o i tuoi appunti sparsi: l'IA genererà all'istante uno script impeccabile, persuasivo e professionale, perfettamente strutturato per il tuo stand-up.
 
 ---
 

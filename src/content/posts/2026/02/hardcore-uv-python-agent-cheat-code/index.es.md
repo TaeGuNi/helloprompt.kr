@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "업무 자동화"
-description: "Un cheat code que aniquila la palabrería de tu IA y fuerza el uso de uv en Python para lograr un rendimiento brutal en milisegundos."
+description: "Descubre el cheat code definitivo que silencia la palabrería de tu IA y fuerza el uso de uv en Python para un rendimiento brutal en milisegundos."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "uv-python"]
 ---
 
-# 💀 El Cheat Code Espartano para Despertar a tu IA: Prompt para Forzar Python con uv
+## 💀 El Cheat Code Espartano para Despertar a tu IA: Prompt para Forzar Python con uv
 
 - 🎯 **Recomendado para:** Desarrolladores senior e ingenieros de software frustrados por la lentitud de los agentes de IA al picar código.
 - ⏱️ **Tiempo requerido:** Reducción drástica de 10 minutos a apenas 1 segundo.
@@ -18,16 +18,16 @@ tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "uv-python"]
 - ⚡️ **Eficacia:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-_"¿Aún te quedas mirando la pantalla mientras tu IA pierde el tiempo haciendo `pip install`? Tu agente se está ahogando en un cuello de botella de I/O."_
+> _"¿Todavía te quedas mirando la pantalla mientras tu IA pierde el tiempo haciendo `pip install`? Tu agente se está ahogando en un cuello de botella de I/O."_
 
-Este post es un auténtico 'cheat code espartano' diseñado para transformar a tu agente de IA en un desarrollador senior excepcionalmente ágil. Lo creé porque, francamente, no soportaba ver cómo la IA desperdiciaba valiosos recursos de I/O utilizando reliquias del pasado como `pip` o `venv`, todo mientras soltaba respuestas complacientes y vacías del tipo "¡Entendido, me pongo a ello!". Cero piedad para la IA. Vamos a obligarla a usar exclusivamente `uv` —el gestor de paquetes ultrarrápido escrito en Rust— para que la velocidad de respuesta de tu terminal alcance cifras brutales en cuestión de milisegundos (ms).
+Este artículo es un auténtico 'cheat code' espartano diseñado para transformar a tu agente de IA en un desarrollador senior excepcionalmente ágil. Lo he creado porque, francamente, no soportaba ver cómo la IA desperdiciaba valiosos recursos de I/O utilizando reliquias del pasado como `pip` o `venv`, todo mientras soltaba respuestas complacientes y vacías del tipo "¡Entendido, me pongo a ello!". Cero piedad con la IA. Vamos a obligarla a usar exclusivamente `uv` —el gestor de paquetes ultrarrápido escrito en Rust— para que la velocidad de respuesta en tu terminal alcance cifras brutales en cuestión de milisegundos.
 
 ---
 
 ## ⚡️ Resumen en 3 líneas (TL;DR)
 
-- Prohibición absoluta del uso de los obsoletos `pip` y `venv` (se considerará alta traición si los ejecuta).
-- Obligación innegociable de usar `uv` para la creación instantánea de entornos virtuales y la instalación de dependencias.
+- Prohibición absoluta de usar los obsoletos `pip` y `venv` (ejecutarlos se considerará alta traición).
+- Obligación innegociable de usar `uv` para crear entornos virtuales al instante e instalar dependencias.
 - Bloqueo total de la palabrería inútil y las alucinaciones para desbloquear un rendimiento de I/O abrumador.
 
 ---
@@ -43,7 +43,7 @@ Copia y pega este bloque cuando necesites que la IA ejecute un script de Python 
 
 ### 🥇 Versión Pro
 
-El cheat code definitivo para incrustar directamente en las Instrucciones Personalizadas (Custom Instructions) o en el System Prompt de tu agente de IA.
+El cheat code definitivo para incrustarlo directamente en las Instrucciones Personalizadas (Custom Instructions) o en el System Prompt de tu agente de IA.
 
 Copia el bloque de código Markdown que aparece a continuación y suminístralo a tu IA. Este es el prompt espartano, perfectamente calibrado y sin margen de error.
 
@@ -99,7 +99,7 @@ El entorno local ya cuenta con la última versión de `uv` instalada. Defiende l
 
 Si dejas que un agente de IA programe por su cuenta, es casi seguro que recaerá en conocimientos anticuados extraídos de internet (Alucinaciones) y te lanzará un lentísimo `pip install` en la terminal. Conflictos de dependencias, tiempos muertos interminables... es una auténtica agonía presenciarlo.
 
-Este prompt no es una simple sugerencia, es una 'orden directa' para erradicar los malos hábitos de tu agente. Al inyectar este cheat code en el sistema, la IA dejará de escupir respuestas inútiles como "¡Sí, por supuesto! ¡Estoy aquí para ayudarte!". En su lugar, despertará convertida en una máquina implacable y despiadada, obsesionada únicamente con exprimir cada milisegundo (ms) de rendimiento. Si valoras tu tiempo y la integridad de tu proyecto, arráncale el `pip` de las manos ahora mismo. Estamos aquí para picar código a máxima velocidad, no para quedarnos mirando barras de progreso en la consola.
+Este prompt no es una simple sugerencia, es una **orden directa** para erradicar los malos hábitos de tu agente. Al inyectar este cheat code en el sistema, la IA dejará de escupir respuestas inútiles como "¡Sí, por supuesto! ¡Estoy aquí para ayudarte!". En su lugar, despertará convertida en una máquina implacable y despiadada, obsesionada únicamente con exprimir cada milisegundo de rendimiento. Si valoras tu tiempo y la integridad de tu proyecto, arráncale el `pip` de las manos ahora mismo. Estamos aquí para picar código a máxima velocidad, no para quedarnos mirando barras de progreso en la consola.
 
 ---
 
@@ -110,7 +110,7 @@ Este prompt no es una simple sugerencia, es una 'orden directa' para erradicar l
 - **Q: ¿Sigue siendo compatible si ya trabajo con un archivo `requirements.txt`?**
   - A: Totalmente. Un simple comando como `uv pip install -r requirements.txt` se encargará de instalarlo todo de forma hasta 100 veces más rápida que el clásico `pip`.
 - **Q: Mi IA sigue insistiendo tercamente en usar `pip`. ¿Cómo lo soluciono?**
-  - A: Eso ocurre porque el peso de tu System Prompt es demasiado bajo. Infúndele verdadero respeto colocando la palabra clave "Traición (Treason)" en negrita justo en la cabecera del prompt.
+  - A: Eso ocurre porque el peso de tu System Prompt es demasiado bajo. Infúndele verdadero respeto colocando la palabra clave **"Traición (Treason)"** en negrita justo en la cabecera del prompt.
 
 ---
 

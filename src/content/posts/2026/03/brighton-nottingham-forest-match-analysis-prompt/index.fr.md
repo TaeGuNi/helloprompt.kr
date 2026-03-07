@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "업무 자동화"
-description: "Un prompt IA surpuissant qui transforme instantanément des données de match complexes en un rapport d'analyse percutant et en un contenu ultra-engageant pour vos réseaux sociaux."
+description: "Transformez instantanément des statistiques de match complexes en un rapport d'analyse percutant et un contenu social ultra-engageant avec ce prompt IA."
 tags: ["prompt-engineering", "ai-agent", "brighton-nottin"]
 ---
 
-# 📝 Automatisation de l'analyse des statistiques : Brighton vs Nottingham Forest
+## 📝 Automatisation de l'analyse des statistiques : Brighton vs Nottingham Forest
 
 - **🎯 Cible recommandée :** Spécialistes du marketing sportif, Content Managers, analystes de données
 - **⏱️ Temps requis :** 40 minutes → Réduit à 1 minute

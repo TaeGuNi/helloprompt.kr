@@ -1,15 +1,15 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Notion AI Secretary: Daily To-Do Sorting & Auto-Scheduling\""
+title: "Notion AI Secretary: Daily To-Do Sorting & Auto-Scheduling"
 author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Productivity Tools"
-description: " \"Transform chaos into clarity. Dump your overwhelming tasks into Notion AI, and instantly receive a prioritized, executable daily schedule.\""
+description: "Transform chaos into clarity. Dump your overwhelming tasks into Notion AI, and instantly receive a prioritized, executable daily schedule."
 tags: ["Notion", "NotionAI", "TaskManagement", "Productivity", "GTD"]
 ---
 
-# 🧠 Notion AI Secretary: Daily To-Do Sorting & Auto-Scheduling
+## 🧠 Notion AI Secretary: Daily To-Do Sorting & Auto-Scheduling
 
 - **🎯 Recommended for:** Professionals overwhelmed by endless to-dos, chronic procrastinators, and those whose plans rarely survive the morning.
 - **⏱️ Time Required:** 30 minutes → Reduced to 1 minute
@@ -21,7 +21,7 @@ tags: ["Notion", "NotionAI", "TaskManagement", "Productivity", "GTD"]
 
 > _"Ah right, the laundry... wait, did I email the boss? Oh no, when is that marketing sync today?!"_
 
-When your brain resembles a tangled ball of yarn, your productivity plummets to zero. The core philosophy of **GTD (Getting Things Done)** is brutally simple: **"Get it out of your head and write it down."** Stop trying to juggle your life in your working memory. Dump everything onto a page, and let AI organize the chaos. Introducing the 'Mindless Scheduling' technique—outsource the cognitive heavy lifting of planning to your AI secretary.
+When your brain resembles a tangled ball of yarn, your productivity plummets to zero. The core philosophy of **GTD (Getting Things Done)** is brutally simple: **"Get it out of your head and write it down."** Stop trying to juggle your life in your working memory. Dump everything onto a blank page, and let AI organize the chaos. Introducing the 'Mindless Scheduling' technique—outsource the cognitive heavy lifting of daily planning to your AI secretary.
 
 ---
 
@@ -37,7 +37,7 @@ When your brain resembles a tangled ball of yarn, your productivity plummets to 
 
 ### 🥉 Basic Version (Quick Sorting)
 
-Perfect for when you just need a fast, organized checklist without overthinking. Use this directly in Notion by pressing the `Space` key.
+Perfect for when you just need a fast, organized checklist without overthinking. Use this directly in Notion by pressing the `Spacebar`.
 
 > **Role:** You are an efficiency expert and executive assistant.
 >
@@ -52,7 +52,6 @@ Perfect for when you just need a fast, organized checklist without overthinking.
 > - Classify the tasks into three distinct categories: **[Urgent & Important]**, **[Work Tasks]**, and **[Personal Chores]**.
 > - Format the output strictly as a Markdown Checkbox List (`- [ ]`).
 > - Order the tasks logically by sequence of execution for the day.
-
 
 ### 🥇 Pro Version (Eisenhower Matrix & Time-Blocking)
 
@@ -95,7 +94,7 @@ Ideal for generating a flawless, perfectly timed daily battle plan. Paste this i
 
 The true power of this prompt lies in cognitive offloading. Decision fatigue is a real productivity killer; spending 30 minutes just figuring out _what_ to do drains the energy you need to actually _do_ it.
 
-By utilizing the Pro Version's Eisenhower Matrix, you force the AI to act as an objective third party. We as humans naturally gravitate towards easy, low-impact tasks (like checking emails or doing laundry) to feel a false sense of accomplishment, while delaying the daunting, high-impact work (like drafting that proposal). The AI strips away this emotional bias, brutally highlighting what actually moves the needle today. I highly recommend running this prompt first thing in the morning with your coffee—it shifts you from a reactive, stressed state into a proactive, execution-ready mindset.
+By utilizing the Pro Version's Eisenhower Matrix, you force the AI to act as an objective third party. We as humans naturally gravitate toward easy, low-impact tasks (like checking emails or doing laundry) to feel a false sense of accomplishment, while delaying the daunting, high-impact work (like drafting that proposal). The AI strips away this emotional bias, brutally highlighting what actually moves the needle today. I highly recommend running this prompt first thing in the morning with your coffee—it shifts you from a reactive, stressed state into a proactive, execution-ready mindset.
 
 ---
 
@@ -114,9 +113,9 @@ By utilizing the Pro Version's Eisenhower Matrix, you force the AI to act as an 
 
 ## 🧬 Anatomy of the Prompt (Why it works)
 
-1.  **Eisenhower Matrix Integration:** By explicitly requesting the 4-quadrant breakdown, we prevent the AI from treating "buy toothpaste" and "finalize Q3 financial report" with equal weight. It establishes an objective hierarchy based on true urgency.
-2.  **Time-Blocking Visualization:** A simple list is too passive. Forcing the AI to map tasks to specific hours (e.g., "14:00~15:00: Deep Work") creates a binding contract with yourself, significantly reducing the temptation to procrastinate.
-3.  **Mandatory Boundaries:** Setting fixed start, end, and lunch times prevents the AI from generating a toxic, 14-hour hustle-culture schedule that leads straight to burnout.
+1. **Eisenhower Matrix Integration:** By explicitly requesting the 4-quadrant breakdown, we prevent the AI from treating "buy toothpaste" and "finalize Q3 financial report" with equal weight. It establishes an objective hierarchy based on true urgency.
+2. **Time-Blocking Visualization:** A simple list is too passive. Forcing the AI to map tasks to specific hours (e.g., "14:00~15:00: Deep Work") creates a binding contract with yourself, significantly reducing the temptation to procrastinate.
+3. **Mandatory Boundaries:** Setting fixed start, end, and lunch times prevents the AI from generating a toxic, 14-hour hustle-culture schedule that leads straight to burnout.
 
 ---
 

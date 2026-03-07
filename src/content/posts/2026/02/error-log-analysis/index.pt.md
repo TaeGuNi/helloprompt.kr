@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Desenvolvimento"
-description: "Um prompt de depuração essencial que vasculha milhares de linhas de log para identificar a causa raiz e propor soluções cirúrgicas."
+description: "Um prompt essencial de depuração que analisa milhares de linhas de log em segundos, identificando a causa raiz e propondo soluções cirúrgicas."
 tags: ["Depuração", "Log de Erro", "Solução de Problemas"]
 ---
 
-# 📝 Log de Erros Desconhecidos: Analise a Causa em 10 Segundos
+## 📝 Log de Erros Desconhecidos: Analise a Causa em 10 Segundos
 
 - **🎯 Recomendado para:** Desenvolvedores, Engenheiros DevOps, Iniciantes em Programação
 - **⏱️ Tempo necessário:** 5 minutos → 10 segundos
@@ -19,17 +19,17 @@ tags: ["Depuração", "Log de Erro", "Solução de Problemas"]
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidade:** ⭐⭐⭐⭐☆
 
-> _"Aquele frio na barriga ao ver a tela tomada por mensagens de erro em vermelho... Antes de se perder num mar de abas do Stack Overflow, deixe a IA encontrar o verdadeiro vilão para você."_
+> _"Aquele frio na barriga ao ver a tela tomada por mensagens de erro em vermelho... Antes de se afogar em dezenas de abas do Stack Overflow, deixe a IA encontrar o verdadeiro vilão para você."_
 
-Logs de servidores e rastreamentos de erro costumam ser caóticos e, francamente, intimidadores. Contudo, a pista exata para a solução do problema invariavelmente se esconde no meio dessa bagunça. Como as IAs foram treinadas com um volume colossal de dados de código, elas conseguem isolar a "causa raiz" de forma infinitamente mais rápida que o olho humano, poupando horas de frustração e estresse.
+Logs de servidores e *stack traces* costumam ser caóticos e, francamente, intimidadores. Contudo, a pista exata para a solução do problema invariavelmente se esconde no meio dessa bagunça. Como as IAs foram treinadas com um volume colossal de código, elas conseguem isolar a "causa raiz" de forma infinitamente mais rápida que o olho humano, poupando horas de frustração e estresse.
 
 ---
 
 ## ⚡️ Resumo em 3 linhas (TL;DR)
 
-1. Vasculhar milhares de linhas de erro em busca da causa principal é uma tarefa exaustiva e ineficiente.
-2. A IA identifica padrões complexos e extrai a causa raiz quase que instantaneamente.
-3. Reduza drasticamente seu tempo de depuração recebendo uma análise precisa e um plano de ação direto ao ponto.
+1. Vasculhar milhares de linhas de log em busca da causa raiz é uma tarefa exaustiva e ineficiente.
+2. A IA consegue identificar padrões complexos e extrair o verdadeiro problema de forma quase instantânea.
+3. Reduza drasticamente seu tempo de depuração com uma análise precisa e um plano de ação direto ao ponto.
 
 ---
 
@@ -40,13 +40,13 @@ Logs de servidores e rastreamentos de erro costumam ser caóticos e, francamente
 Ideal para quando você precisa apenas de um direcionamento rápido.
 
 > **Papel:** Você é um Engenheiro de Software Sênior.
-> **Solicitação:** Analise o erro a seguir, identifique a causa principal e explique como resolvê-lo em apenas uma frase: `[Cole a mensagem de erro ou log]`
+> **Solicitação:** Analise o erro a seguir, identifique a causa principal e explique como resolvê-lo em apenas uma frase: `[Cole a mensagem de erro ou log aqui]`
 
 ### 🥇 Versão Pro (Expert Version)
 
-Recomendada para rastreamentos de pilha (stack traces) gigantescos que exigem um plano de ação detalhado.
+Recomendada para rastreamentos de pilha (*stack traces*) gigantescos que exigem um plano de ação detalhado.
 
-> **Papel (Role):** Você é um `[Engenheiro de Confiabilidade de Sites (SRE) / Especialista em Backend]`.
+> **Papel (Role):** Você é um `[Engenheiro de Confiabilidade de Sites (SRE) ou Especialista em Backend]`.
 >
 > **Situação (Context):**
 >

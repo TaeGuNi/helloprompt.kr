@@ -5,30 +5,30 @@ author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "Automação de Trabalho"
-description: "Prompt de redação para blogs com foco em SEO no Google, ideal para profissionais de marketing e estrategistas de conteúdo. Transforme 3 horas de trabalho em um rascunho impecável de 5 minutos com um simples copiar e colar."
+description: "Prompt de redação SEO para Google, ideal para profissionais de marketing. Transforme 3 horas de trabalho num rascunho impecável em apenas 5 minutos."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "seo-blog-post-w"]
 ---
 
-# 🚀 Passe Livre no Topo do Google: Prompt de Automação de Blog de SEO para Profissionais de Marketing
+## 🚀 Passe Livre no Topo do Google: Prompt de Automação de Blog de SEO para Profissionais de Marketing
 
-- **🎯 Público-alvo Recomendado:** Profissionais de marketing de conteúdo (1 a 3 anos de experiência), gestores de blog e estrategistas
-- **⏱️ Tempo Necessário:** De 3 horas → para apenas 5 minutos
+- **🎯 Público-alvo:** Profissionais de marketing de conteúdo (1 a 3 anos de experiência), gestores de blog e estrategistas
+- **⏱️ Tempo de Execução:** De 3 horas → para apenas 5 minutos
 - **🤖 Modelos Recomendados:** Claude 3.5 Sonnet (Altamente recomendado para redação), ChatGPT Plus (GPT-4o)
 - ⭐ **Dificuldade:** ⭐⭐☆☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidade:** ⭐⭐⭐⭐⭐
 
-> _"Publicar dezenas de textos genéricos é inútil se o Google os ignorar. Atraia tráfego orgânico massivo com artigos estruturados nativamente para SEO."_
+> _"Publicar dezenas de textos genéricos não serve de nada se o Google os ignorar. Atraia tráfego orgânico massivo com artigos estruturados nativamente para SEO."_
 
-Escrever um artigo otimizado para SEO... você ainda encara a tela em branco sem saber por onde começar? Desde a pesquisa de palavras-chave até a hierarquia de tags H e a criação de ganchos (hooks) que prendem a atenção, tudo isso pode ser resolvido com um único comando. Hoje, vou compartilhar o 'Prompt Definitivo de Redação para SEO', pronto para você usar amanhã no trabalho e ver o seu tráfego decolar.
+Escrever um artigo otimizado para SEO... Você ainda encara a tela em branco sem saber por onde começar? Desde a pesquisa de palavras-chave até a hierarquia das tags H e a criação de ganchos (hooks) que prendem a atenção, tudo pode ser resolvido com um único comando. Hoje, vou compartilhar o 'Prompt Definitivo de Redação para SEO', pronto para você aplicar amanhã no trabalho e ver o seu tráfego decolar.
 
 ---
 
 ## ⚡️ Resumo em 3 Linhas (TL;DR)
 
-- 🤖 Atribua a persona de um especialista em SEO à IA para forçar a hierarquia de títulos (H1 a H3) que o algoritmo do Google prioriza.
-- 🎯 Especifique as palavras-chave principais e secundárias para garantir uma integração fluida e a densidade ideal no texto.
-- 🕒 O artigo que antes tomava 3 horas do seu dia agora ganha um rascunho impecável em 5 minutos—basta copiar e colar o prompt.
+- 🤖 Atribua a persona de um especialista em SEO à IA para impor a hierarquia de títulos (H1 a H3) que o algoritmo do Google prioriza.
+- 🎯 Defina as palavras-chave principais e secundárias para garantir uma integração fluida e a densidade ideal no texto.
+- 🕒 O artigo que antes consumia 3 horas do seu dia agora ganha um rascunho impecável em 5 minutos — basta copiar e colar o prompt.
 
 ---
 

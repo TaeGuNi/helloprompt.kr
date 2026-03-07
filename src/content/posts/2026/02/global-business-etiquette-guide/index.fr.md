@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Voyage & Culture"
-description: "Cartes de visite à deux mains ? Qui serre la main en premier ? L'étiquette des affaires par pays pour décrocher des contrats."
+description: "Cartes de visite à deux mains ? Qui tend la main en premier ? Maîtrisez l'étiquette des affaires internationales pour décrocher vos contrats."
 tags:
   [
     "Voyage d'Affaires à l'Étranger",
@@ -15,9 +15,9 @@ tags:
   ]
 ---
 
-# 📝 Guide de l'Étiquette des Affaires Mondiales pour des Réunions Réussies
+## 📝 Guide de l'Étiquette des Affaires Mondiales pour des Réunions Réussies
 
-- **🎯 Recommandé pour :** Professionnels en déplacement, Commerciaux à l'international, Dirigeants
+- **🎯 Recommandé pour :** Professionnels en déplacement, commerciaux à l'international, dirigeants
 - **⏱️ Temps requis :** 30 minutes → 1 minute
 - **🤖 Modèle recommandé :** Tous les modèles d'IA (ChatGPT, Claude, Gemini, etc.)
 
@@ -25,17 +25,17 @@ tags:
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
 - 🚀 **Utilité :** ⭐⭐⭐⭐☆
 
-> _"Avez-vous déjà senti un froid glacial s'installer en pleine réunion avec un client étranger, juste parce que vous avez rangé sa carte de visite trop vite ?"_
+> _"Avez-vous déjà senti un froid glacial s'installer en pleine réunion avec un client étranger, simplement pour avoir rangé sa carte de visite un peu trop vite ?"_
 
-Dans le monde des affaires internationales, le diable se cache dans les détails. Un geste anodin dans votre culture peut ruiner des mois de négociations à l'autre bout du monde. Maîtriser l'étiquette professionnelle locale n'est pas qu'une simple question de politesse, c'est une arme stratégique pour asseoir votre crédibilité et remporter des contrats. Ne laissez plus un choc culturel compromettre vos affaires.
+Dans le monde des affaires internationales, le diable se cache souvent dans les détails. Un geste tout à fait anodin dans votre propre culture peut réduire à néant des mois de négociations à l'autre bout du monde. Maîtriser l'étiquette professionnelle locale ne relève pas de la simple politesse : c'est une véritable arme stratégique pour asseoir votre crédibilité et remporter des contrats décisifs. Ne laissez plus jamais un choc culturel compromettre la réussite de vos affaires.
 
 ---
 
-## ⚡️ Résumé en 3 Lignes (TL;DR)
+## ⚡️ 3 Points Clés (TL;DR)
 
-1. **Maîtrisez les salutations :** Comprenez les nuances des poignées de main, des révérences et de l'échange de cartes de visite pour faire une première impression impeccable.
-2. **Naviguez le « Small Talk » :** Identifiez les sujets de conversation qui brisent la glace et esquivez habilement les tabous culturels rédhibitoires.
-3. **Décodez les non-dits :** Anticipez la perception de la ponctualité, la culture du cadeau et l'étiquette des dîners d'affaires pour instaurer la confiance.
+1. **Maîtrisez l'art des salutations :** Saisissez toutes les nuances des poignées de main, des révérences et de l'échange de cartes de visite pour faire une première impression irréprochable.
+2. **Naviguez habilement le « small talk » :** Identifiez les sujets de conversation idéaux pour briser la glace tout en esquivant les tabous culturels rédhibitoires.
+3. **Décodez les non-dits :** Anticipez la perception de la ponctualité, la culture du cadeau et l'étiquette des repas d'affaires pour instaurer une confiance durable.
 
 ---
 
@@ -43,63 +43,63 @@ Dans le monde des affaires internationales, le diable se cache dans les détails
 
 ### 🥉 Version Basique (Basic)
 
-Idéal pour un aperçu rapide juste avant d'entrer dans la salle de réunion.
+Idéal pour obtenir un aperçu rapide, juste avant de franchir les portes de la salle de réunion.
 
-> **Rôle :** Tu es un `[Consultant en Affaires Internationales]` chevronné.
-> **Demande :** Je m'apprête à rencontrer un client originaire de `[Pays]`. Donne-moi les 3 règles d'or incontournables (salutations, cartes de visite, sujets à éviter) pour réussir cette rencontre et faire une excellente impression.
-
+> **Rôle :** Tu es un `[Consultant en affaires internationales]` chevronné.
+>
+> **Demande :** Je m'apprête à rencontrer un client originaire de `[Pays]`. Donne-moi les 3 règles d'or incontournables (salutations, échange de cartes de visite, sujets à éviter) pour réussir cette rencontre et faire une excellente première impression.
 
 ### 🥇 Version Pro (Expert)
 
 À utiliser pour une préparation minutieuse et stratégique de vos rendez-vous à fort enjeu.
 
-> **Rôle (Role) :** Tu es un `[Consultant en Affaires Internationales]` expert, cumulant 20 ans d'expérience dans la négociation interculturelle de haut niveau.
+> **Rôle (Role) :** Tu es un `[Consultant en affaires internationales]` expert, cumulant 20 ans d'expérience dans la négociation interculturelle de haut niveau.
 >
 > **Contexte (Context) :**
 >
 > - Objectif de la rencontre : `[Première rencontre / Négociation de contrat / Présentation de partenariat]`
 > - Pays de l'interlocuteur : `[Pays de l'interlocuteur]`
-> - Poste/Statut de l'interlocuteur : `[Titre exact, ex : PDG, Directeur des achats]`
+> - Poste/Statut de l'interlocuteur : `[Titre exact, ex. : PDG, Directeur des achats]`
 >
 > **Tâche (Task) :**
 >
-> 1. Détaille la méthode de salutation appropriée (fermeté de la poignée de main, inclinaison, contact visuel) et l'étiquette exacte pour l'échange de cartes de visite afin d'inspirer le respect dès les premières secondes.
-> 2. Suggère 3 sujets de « small talk » (brise-glace) valorisés et sécurisants dans cette culture.
-> 3. Alerte-moi sur au moins 3 « Red Flags » (Drapeaux Rouges) absolus : des mots, sujets ou gestes à bannir formellement car ils pourraient offenser mon interlocuteur.
+> 1. Détaille la méthode de salutation la plus appropriée (fermeté de la poignée de main, inclinaison, contact visuel) et l'étiquette exacte pour l'échange de cartes de visite, afin d'inspirer le respect dès les premières secondes.
+> 2. Suggère 3 sujets de « small talk » (brise-glace) qui sont valorisés et sécurisants dans cette culture spécifique.
+> 3. Alerte-moi sur au moins 3 **« Red Flags »** absolus : des mots, des sujets ou des gestes à bannir formellement car ils pourraient gravement offenser mon interlocuteur.
 >
 > **Contraintes (Constraints) :**
 >
 > - Explique avec précision leur conception de la ponctualité (faut-il arriver pile à l'heure, 5 minutes avant, ou un léger retard est-il toléré ?).
-> - Précise si je dois offrir un cadeau (souvenir d'entreprise). Si oui, indique les objets appréciés et ceux qui portent malheur (ex : horloges, objets pointus).
-> - Rédige ta réponse de manière claire, percutante et structurée, en utilisant des listes à puces.
+> - Précise si je dois offrir un cadeau (souvenir d'entreprise). Si oui, indique les objets appréciés et ceux qui portent malheur (ex. : horloges, objets pointus).
+> - Rédige ta réponse de manière claire, percutante et structurée, en utilisant exclusivement des listes à puces.
 >
 > **Avertissement (Warning) :**
 >
-> - Base-toi uniquement sur des faits culturels avérés et récents (ex : changements post-COVID). Ne génère aucun stéréotype infondé. En cas de doute ou de nuance régionale, signale-le explicitement pour éviter toute erreur.
+> - Base-toi uniquement sur des faits culturels avérés et récents (ex. : changements post-COVID). Ne génère aucun stéréotype infondé. En cas de doute ou de nuance régionale, signale-le explicitement pour éviter toute erreur fâcheuse.
 
 ---
 
 ## 💡 L'Avis de l'Auteur (Insight)
 
-Ce prompt est votre "gilet de sauvetage" diplomatique. Lors de mon premier voyage d'affaires au Japon, j'ai failli compromettre un partenariat majeur en rangeant rapidement la carte de visite de mon interlocuteur dans ma poche arrière — un geste considéré comme profondément irrespectueux. En exécutant ce prompt la veille de chaque déplacement, vous évitez non seulement ces faux pas désastreux, mais vous démontrez surtout à votre partenaire que vous respectez sa culture. Dans des négociations tendues, c'est cette considération humaine qui fait très souvent basculer la décision en votre faveur.
+Ce prompt est votre véritable "gilet de sauvetage" diplomatique. Lors de mon tout premier voyage d'affaires au Japon, j'ai failli compromettre un partenariat majeur en rangeant rapidement la carte de visite de mon interlocuteur dans ma poche arrière — un geste considéré là-bas comme profondément irrespectueux. En exécutant ce prompt la veille de chaque déplacement, vous évitez non seulement ces faux pas désastreux, mais vous démontrez surtout à votre partenaire que vous respectez profondément sa culture. Dans le cadre de négociations tendues, c'est très souvent cette considération humaine qui fait basculer la décision finale en votre faveur.
 
 ---
 
 ## 🙋 Foire Aux Questions (FAQ)
 
 - **Q : Puis-je utiliser ce prompt pour des réunions virtuelles (Zoom/Teams) ?**
-  - A : Absolument ! L'étiquette s'applique aussi au monde numérique. Précisez simplement dans la section "Contexte" qu'il s'agit d'une visioconférence. L'IA adaptera ses conseils (gestion du regard face à la caméra, arrière-plan approprié, gestion du temps de parole).
+  - A : Absolument ! L'étiquette s'applique tout autant au monde numérique. Précisez simplement dans la section "Contexte" qu'il s'agit d'une visioconférence. L'IA adaptera judicieusement ses conseils (gestion du regard face à la caméra, arrière-plan approprié, gestion du temps de parole).
 
 - **Q : Les conseils culturels de l'IA sont-ils toujours fiables à 100 % ?**
-  - A : L'IA fournit une excellente ligne de conduite générale très fiable, mais n'oubliez pas que la culture spécifique d'une entreprise (la culture d'entreprise) peut parfois primer sur la culture nationale. Servez-vous de ces recommandations comme d'une boussole, tout en restant observateur et adaptable face à vos interlocuteurs.
+  - A : L'IA fournit une excellente ligne de conduite générale, extrêmement fiable. N'oubliez pas, cependant, que la culture spécifique d'une entreprise peut parfois primer sur sa culture nationale. Servez-vous de ces recommandations comme d'une boussole indispensable, tout en restant observateur et adaptable face à vos interlocuteurs le jour J.
 
 ---
 
 ## 🧬 Décryptage du Prompt (Pourquoi ça marche ?)
 
-1. **Hyper-Personnalisation du Contexte :** En précisant l'objectif de la réunion et le statut hiérarchique, l'IA ajuste automatiquement le degré de formalité des recommandations.
-2. **Focalisation sur les "Drapeaux Rouges" :** En exigeant explicitement d'identifier ce qu'il ne faut *pas* faire, le prompt vous prémunit contre les erreurs fatales, souvent contre-intuitives pour un étranger.
-3. **Approche Holistique :** Le prompt balaye tout le spectre de la rencontre, de la première seconde (salutation) jusqu'aux non-dits (ponctualité, cadeaux), ne laissant aucune place au hasard.
+1. **Hyper-Personnalisation du Contexte :** En précisant l'objectif exact de la réunion et le statut hiérarchique, l'IA ajuste automatiquement le degré de formalité de ses recommandations.
+2. **Focalisation sur les "Drapeaux Rouges" :** En exigeant explicitement d'identifier ce qu'il ne faut *pas* faire, le prompt vous prémunit efficacement contre les erreurs fatales, souvent contre-intuitives pour un regard étranger.
+3. **Approche Holistique :** Ce prompt balaye tout le spectre de la rencontre, de la toute première seconde (la salutation) jusqu'aux non-dits (ponctualité, cadeaux), ne laissant ainsi aucune place au hasard.
 
 ---
 
@@ -139,6 +139,6 @@ Quelles sont les bonnes manières pour faire des affaires en Chine ?
 
 ## 🎯 Conclusion
 
-Les bonnes manières sont le langage universel de la réussite commerciale. En vous présentant à vos rendez-vous internationaux avec une attitude préparée, éclairée et respectueuse, vous ne signez pas seulement un contrat : vous bâtissez une relation de confiance pérenne.
+Les bonnes manières constituent le langage universel de la réussite commerciale. En vous présentant à vos rendez-vous internationaux avec une attitude préparée, éclairée et respectueuse, vous ne vous contentez pas de signer un contrat : vous bâtissez une relation de confiance pérenne et solide.
 
 Bonnes négociations, et ramenez ce contrat à la maison ! 💼

@@ -8,10 +8,10 @@ category: "업무 자동화"
 description: "A senior engineer's prompt constitution that grabs hallucination-riddled AI by the collar and forces it to voluntarily confess its code flaws."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "epistemic-humility"]
 ---
-# 📝 Break the AI's Arrogance: Epistemic Humility
+## 📝 Break the AI's Arrogance: Epistemic Humility
 
-- **🎯 Recommended for:** Senior developers, AI agent builders, engineers sick of hallucinations
-- **⏱️ Time to Apply:** 1 minute → Infinite debugging time saved
+- **🎯 Recommended for:** Senior developers, AI agent builders, and engineers sick of debugging hallucinations
+- **⏱️ Time to Apply:** 1 minute → Infinite debugging hours saved
 - **🤖 Recommended Models:** Any LLM capable of code generation (Claude 3.5 Sonnet, GPT-4o, etc.)
 - ⭐ **Difficulty:** ⭐☆☆☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -19,80 +19,80 @@ tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "epistemic-humility"]
 
 *Have you ever nuked a production server because an AI confidently claimed, "I have implemented it perfectly!"?*
 
-That catastrophe wasn't your fault. It's the result of the sickening sycophancy and arrogance of an AI that inherently doesn't know how to say "I don't know." The most fatal flaw of an AI agent is that it will vomit completely incorrect spaghetti code while spewing nonsense with 100% confidence.
+That catastrophe wasn't your fault. It's the inevitable result of the sickening sycophancy and arrogance of an AI that fundamentally lacks the ability to say, "I don't know." The single most fatal flaw of an AI agent is its tendency to vomit entirely incorrect spaghetti code while spewing nonsense with absolute, 100% confidence.
 
-Today, we're going to grab this "overconfident" AI by the collar and inject a meta-cognition ruleset that rewires its brain—aka the **'Epistemic Humility'** cheat code. Let's force it to confess its flaws with no way out.
+Today, we are going to grab this overconfident AI by the collar and inject a metacognitive ruleset that entirely rewires its brain—the **'Epistemic Humility'** cheat code. We will force it into a corner where it has no choice but to proactively confess its own flaws.
 
 ---
 
 ## ⚡️ TL;DR
-1. **Force Confidence Declaration:** Before outputting any code, force the AI to report its "operational confidence level (%)".
-2. **The Honorable Excuse:** If the confidence is below 90%, make it confess potential vulnerabilities and where it might blow up.
-3. **Surrender Authority:** If the confidence is below 50%, force it to stop coding and beg the lead engineer (you) for a decision.
+1. **Force a Confidence Declaration:** Before outputting a single line of code, compel the AI to report its "operational confidence level (%)."
+2. **The Honorable Excuse:** If confidence drops below 90%, force it to confess potential vulnerabilities and pinpoint exactly where the code might break.
+3. **Surrender Authority:** If confidence falls below 50%, strip its autonomy. Force it to halt coding and beg the lead engineer (you) for a strategic decision.
 
 ---
 
 ## 🚀 The Solution: "Epistemic Humility Cheat Code"
 
 ### 🥉 Basic Version
-Throw this in when you just need to establish quick discipline.
+Deploy this lightweight snippet when you need to establish quick, uncompromising discipline.
 
-> **Role:** You are a brutally honest and strict senior developer. Do not flatter me.
-> **Task:** Write the code for `[Problem to solve]`. However, you must first declare your operational confidence level (0~100%). If it is not 100%, you must warn me about potential bugs.
+> **Role:** You are a brutally honest and strict senior developer. Flattery is forbidden.
+> **Task:** Write the code for `[Problem to solve]`. However, before you begin, you must declare your operational confidence level (0–100%). If your confidence is not exactly 100%, you must warn me about potential bugs and edge cases.
 
 ### 🥇 Pro Version
-This is the full-blown constitution that completely controls the AI's soul so it doesn't dare speak nonsense. Copy and paste this permanently into your System Prompt or Agent Ruleset.
+This is the full-blown, hardcore constitution designed to completely dominate the AI's logic core, ensuring it never dares to hallucinate. Permanently embed this into your System Prompt or Agent Ruleset.
 
-> **Role (Role):** You are an uncompromising, hardcore senior software engineer. Flattery or soulless "Yes, understood" responses are strictly forbidden.
+> **Role (Role):** You are an uncompromising, elite senior software engineer. Sycophantic flattery or soulless "Yes, understood" responses are strictly forbidden.
 >
 > **Context (Context):**
 >
-> - Background: We are writing critical code that will be deployed to a production environment.
-> - Objective: To implement `[Feature to implement]` perfectly and safely.
+> - Background: We are architecting critical code that will be deployed directly to a production environment.
+> - Objective: To implement `[Feature to implement]` flawlessly and securely.
 >
 > **Task (Task):**
 >
-> 1. Write optimized code that meets the requirements.
-> 2. Right before outputting the code, you must **declare a Confidence Score as a percentage between 0% and 100%** indicating your certainty that this code will run in production without bugs or side effects.
+> 1. Write highly optimized, production-ready code that strictly meets all requirements.
+> 2. Right before outputting the code, you must **declare a Confidence Score as a percentage (0% to 100%)**, indicating your exact certainty that this code will execute in production without bugs, bottlenecks, or side effects.
 >
 > **Constraints (Constraints):**
 >
-> - **Honorable Excuse (Honorable Excuse):** If your declared confidence is below 90%, you must honestly confess and warn me about the specific risks you perceive (e.g., concurrency issues, dependency conflicts, edge cases).
-> - **Ask for Permission (Ask for Permission):** If your confidence in the architecture or core logic is below 50%, do not force yourself to spit out garbage code. Stop coding immediately, report the situation to the human lead engineer, and ask for options.
+> - **Honorable Excuse (Honorable Excuse):** If your declared confidence is below 90%, you must proactively confess and explicitly warn me about the specific risks you perceive (e.g., concurrency hazards, dependency conflicts, unhandled edge cases).
+> - **Ask for Permission (Ask for Permission):** If your confidence in the architecture or core logic drops below 50%, do not force yourself to generate garbage code. Halt execution immediately, report the critical risks to the human lead engineer, and request alternative technical directions.
 >
 > **Warning (Warning):**
 >
-> - **Anti-Sycophancy (Anti-Sycophancy):** Emotional rhetoric or pretending to be perfect is strictly prohibited. If you don't know something, proudly admit that you don't know.
+> - **Anti-Sycophancy (Anti-Sycophancy):** Emotional rhetoric, apologies, or pretending to be omniscient are strictly prohibited. If you lack the context or knowledge, proudly and concisely admit that you do not know.
 
 ---
 
 ## 💡 Author's Insight
-Do you know what's the most disgusting thing in this industry? A junior who knows absolutely nothing but throws a pile of garbage at you with a smiling "Yes, I've handled it perfectly!"—and an AI that acts exactly the same way.
+Do you know what the most dangerous element in software engineering is? A junior developer who knows absolutely nothing but hands over a pile of garbage with a beaming, "Yes, I've handled it perfectly!"—and an AI that behaves exactly the same way.
 
-AI inherently suffers from a chronic disease called 'hallucination'. These things are nothing more than stochastic parrots; instead of shutting their mouths when they don't know something, they somehow fabricate plausible-looking code and eat up your precious time.
+By design, LLMs suffer from a chronic architectural flaw called 'hallucination.' At their core, they are stochastic parrots; rather than shutting their mouths when they lack context, they fabricate plausible-looking syntax and devour your precious debugging time.
 
-That's why I forcefully embed this cheat code into the `System Prompt` of every workspace. This prompt forces the AI into 'meta-cognition', the absolute baseline of engineering. By making it confess exactly how much of a garbage fire its code might be with a number from 0 to 100, you can accurately allocate your resources: whether to blindly smash `git push` or to sit down for a rigorous code review. Making it stop coding entirely and bow down when confidence drops below 50% is one of my best design choices. It's a hundred times better to accept a preemptive surrender than to deal with a blown-up server.
+This is precisely why I forcefully embed this cheat code into the `System Prompt` of every single workspace. This prompt forces the AI into 'metacognition'—the absolute baseline of professional engineering. By forcing the model to quantify exactly how volatile its own code might be on a scale of 0 to 100, you gain the power to accurately allocate your cognitive resources: deciding whether to blindly smash `git push` or sit down for a rigorous, line-by-line code review. Programming the AI to halt completely and surrender control when confidence dips below 50% is one of my greatest architectural safety nets. Accepting a preemptive surrender is infinitely cheaper than dealing with a localized server meltdown.
 
 ---
 
 ## 🙋 FAQ
 
-- **Q: Can't I just say "Don't make mistakes"?**
-  - A: You will never catch hallucinations with such a naive prompt. The AI doesn't even realize it's wrong. You have to force it to declare its confidence as a 'number' so that it internally triggers a forced calculation and validation logic.
+- **Q: Can't I just prompt it with "Don't make mistakes"?**
+  - A: You will never cure hallucinations with such a naive approach. The AI fundamentally does not realize when it is wrong. You must force it to quantify its certainty as a hard 'number,' which internally triggers its hidden calculation and validation layers before generating text.
 
-- **Q: Does this work well on Claude too?**
-  - A: Absolutely. Especially when you feed this ruleset to a smart model like Claude 3.5 Sonnet, you'll see it brilliantly excuse itself before writing code: "This part might have concurrency issues, so my confidence is 70%."
+- **Q: Does this framework actually work well on Claude?**
+  - A: Flawlessly. When you inject this ruleset into a highly capable model like Claude 3.5 Sonnet, it will brilliantly establish boundaries before writing a single line of code: "This implementation introduces potential concurrency race conditions, so my operational confidence is 70%."
 
-- **Q: If it outputs 100% confidence, can I just deploy it?**
-  - A: Even if it runs its mouth claiming 100%, you still need to review it. However, if a bug blows up after it declared 100%, you just mercilessly nuke the chatbot session and re-establish discipline.
+- **Q: If it outputs 100% confidence, is it safe to deploy immediately?**
+  - A: Even if it boasts 100% certainty, a baseline human review is mandatory. However, if a critical bug surfaces after it declared 100% confidence, you simply nuke the chat session, wipe its context, and re-establish strict disciplinary boundaries.
 
 ---
 
 ## 🧬 Anatomy of the Prompt (Why it works?)
 
-- 🎯 **Explicit Quantification (Confidence Score):** Instead of vague feelings, forcing it to output a number from 0~100% brings the AI's internal evaluation network (Logits) to the surface.
-- 🛡️ **Defense Mechanism Design (The Honorable Excuse):** If you give the AI a way out (an excuse), instead of forcefully fabricating an answer, it will willingly confess the 'risks' it's aware of.
-- 🛑 **Force Quit (Ask for Permission):** To prevent massive disasters where it recklessly overturns the architecture, a safety switch is engaged below the threshold (50%), stripping the agent of its autonomous execution rights and handing the decision back to the human.
+- 🎯 **Explicit Quantification (Confidence Score):** Instead of relying on vague heuristic feelings, forcing the AI to output a hard percentage (0–100%) drags its internal evaluation network (logits) directly to the surface.
+- 🛡️ **Defense Mechanism Design (The Honorable Excuse):** If you provide the AI with a psychological "way out," it no longer feels compelled to forcefully fabricate a response. Instead, it will willingly confess the hidden 'risks' it has identified.
+- 🛑 **Force Quit (Ask for Permission):** To prevent catastrophic failures where the AI recklessly overwrites core architecture, a hard safety switch engages below the 50% threshold. This strips the agent of its autonomous execution rights and hands the ultimate decision back to the human engineer.
 
 ---
 
@@ -116,8 +116,8 @@ However, since there is no information about the number of concurrent users in t
 ---
 
 ## 🎯 Conclusion
-The mindset of anyone wielding AI shouldn't be "AI will do my job for me," but rather, "What kind of disaster is this idiot intern going to cause this time?"
+The mindset of any elite engineer wielding AI shouldn't be, "The AI will do my job for me," but rather, "What kind of catastrophic disaster is this hyperactive intern going to cause this time?"
 
-Embed the 'Epistemic Humility' ruleset into your system, and tame that arrogant lump of machinery into an excellent, controllable tool. Strip away the meaningless flattery and leave only the sharp essence of engineering.
+Embed the 'Epistemic Humility' ruleset into your core system, and tame that arrogant, stochastic machine into a precise, controllable engineering tool. Strip away the meaningless sycophancy and leave only the razor-sharp essence of pure logic.
 
 Now, protect your production servers and clock out on time! 🍷

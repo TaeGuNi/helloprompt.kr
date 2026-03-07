@@ -9,7 +9,7 @@ description: "Crea tu propio presentador de noticias con IA: filtra y resume en 
 tags: ["뉴스", "요약", "자기계발", "아침루틴"]
 ---
 
-# 📰 ¡Noticias en 3 minutos! Tu newsletter matutina con IA
+## 📰 ¡Noticias en 3 minutos! Tu newsletter matutina con IA
 
 - **🎯 Recomendado para:** Profesionales con agendas apretadas, especialistas en marketing, estudiantes y líderes de equipo.
 - **⏱️ Tiempo ahorrado:** De 30 minutos leyendo titulares → a 3 minutos de lectura clave.
@@ -21,14 +21,14 @@ tags: ["뉴스", "요약", "자기계발", "아침루틴"]
 
 > _"¿Harto del 'clickbait' y de la infoxicación de cada mañana? Convierte a la inteligencia artificial en tu propio curador de noticias y arranca el día consumiendo únicamente lo que de verdad importa."_
 
-En el vertiginoso entorno laboral de hoy, mantenerse actualizado es innegociable, pero bucear entre decenas de titulares dispersos drena la energía que necesitas para tu trabajo real. Este *prompt* transforma a tu IA de confianza en un analista ejecutivo implacable: filtra el ruido ensordecedor de internet y te entrega un resumen estructurado, al grano y listo para digerir con tu primer café de la mañana.
+En el vertiginoso entorno laboral actual, mantenerse actualizado es innegociable. Sin embargo, bucear entre decenas de titulares dispersos drena la energía que necesitas para tu trabajo real. Este *prompt* transforma a tu IA de confianza en un analista ejecutivo implacable: filtra el ruido ensordecedor de internet y te entrega un resumen estructurado, directo al grano y listo para digerir con tu primer café de la mañana.
 
 ---
 
 ## ⚡️ 3 puntos clave (TL;DR)
 
 1. **Ahorro drástico de tiempo:** Olvídate de saltar entre diarios y portales de noticias cada mañana.
-2. **Cero ruido, máximo valor:** Filtra el *clickbait* y céntrate exclusivamente en el impacto estratégico que tiene cada noticia en tu sector.
+2. **Cero ruido, máximo valor:** Filtra el *clickbait* y céntrate exclusivamente en el impacto estratégico de cada novedad para tu sector.
 3. **100% personalizable:** Ajusta el *prompt* para enfocarlo milimétricamente en tu nicho específico (por ejemplo, SaaS, marketing digital o criptomonedas).
 
 ---
@@ -40,6 +40,7 @@ En el vertiginoso entorno laboral de hoy, mantenerse actualizado es innegociable
 Ideal para esos días caóticos en los que solo necesitas un pantallazo rápido de lo que ocurre en tu sector.
 
 > **Rol:** Eres un presentador de noticias experto y conciso.
+>
 > **Tarea:** Resume las 3 noticias más importantes de hoy sobre `[tu sector o tema de interés]`.
 
 ### 🥇 Versión Profesional (Pro Version)
@@ -50,8 +51,8 @@ Diseñada para generar un boletín matutino de calidad premium: análisis profun
 >
 > **Contexto (Context):**
 >
-> - Fondo: Soy un profesional con una agenda al límite. Necesito estar al día antes de arrancar mi jornada, pero no tengo tiempo para bucear entre artículos interminables e invadidos por publicidad.
-> - Objetivo: Recibir un informe ejecutivo matutino de lectura ultrarrápida (máximo 3 minutos) sin una gota de ruido mediático.
+> - Situación: Soy un profesional con una agenda al límite. Necesito estar al día antes de arrancar mi jornada, pero no tengo tiempo para bucear entre artículos interminables invadidos por publicidad.
+> - Objetivo: Recibir un informe ejecutivo matutino de lectura ultrarrápida (máximo 3 minutos) sin una sola gota de ruido mediático.
 >
 > **Tarea (Task):**
 >
@@ -66,7 +67,7 @@ Diseñada para generar un boletín matutino de calidad premium: análisis profun
 >
 > - Utiliza el formato de listas con viñetas (*bullet points*).
 > - Ignora por completo el contenido de farándula, rumores sin verificar o artículos de opinión con sesgos evidentes.
-> - Si hoy no hay novedades de peso, dímelo explícitamente. No rellenes el informe con noticias recicladas o irrelevantes.
+> - Si hoy no hay novedades de peso, indícalo explícitamente. No rellenes el informe con noticias recicladas o irrelevantes.
 >
 > **Advertencia (Warning):**
 >
@@ -76,7 +77,7 @@ Diseñada para generar un boletín matutino de calidad premium: análisis profun
 
 ## 💡 Comentario del autor (Insight)
 
-Este *prompt* es, sin lugar a dudas, una de las automatizaciones personales con mayor retorno de inversión (ROI) que he integrado en mi rutina diaria. El error de novato más común al pedirle a una IA que resuma noticias es usar conceptos vagos como "tecnología" o "economía". La verdadera magia de este sistema se desata cuando eres hiperespecífico: _"Cambios en el algoritmo de Google y su impacto en SEO"_ o _"Nuevas regulaciones sobre IA generativa en Europa"_. Al obligar a la IA a desglosar el **"Impacto (Por qué importa)"**, dejas de ser un lector pasivo de titulares para convertirte en un estratega que domina el panorama de su sector incluso antes de la primera reunión de la mañana.
+Este *prompt* es, sin lugar a dudas, una de las automatizaciones personales con mayor retorno de inversión (ROI) que he incorporado a mi rutina diaria. El error de novato más común al pedirle a una IA que resuma noticias es usar conceptos vagos como "tecnología" o "economía". La verdadera magia de este sistema se desata cuando eres hiperespecífico: _"Cambios en el algoritmo de Google y su impacto en SEO"_ o _"Nuevas regulaciones sobre IA generativa en Europa"_. Al obligar a la IA a desglosar el **"Impacto"**, dejas de ser un lector pasivo de titulares y te conviertes en un estratega que domina el panorama de su industria antes de la primera reunión del día.
 
 ---
 
@@ -125,6 +126,6 @@ IA: Hoy en tecnología, Apple anunció nuevas actualizaciones para sus sistemas 
 
 ## 🎯 Conclusión
 
-Tu atención a primera hora de la mañana es tu activo más sagrado. Automatizar la ingesta de noticias no solo multiplica tu productividad, sino que te libera definitivamente de la tóxica ansiedad de sentir que te estás perdiendo de algo importante (el famoso FOMO).
+Tu atención a primera hora de la mañana es tu activo más sagrado. Automatizar la ingesta de noticias no solo multiplica tu productividad, sino que te libera definitivamente de la tóxica ansiedad de sentir que te estás perdiendo algo importante (el famoso FOMO).
 
-Configura a tu curador de noticias personal hoy mismo, sírvete una buena taza de café y ¡sal a dominar tu sector con la información más afilada en tu poder! ☕️🚀
+Configura hoy mismo a tu curador de noticias personal, sírvete una buena taza de café y ¡sal a dominar tu sector con la información más afilada a tu disposición! ☕️🚀

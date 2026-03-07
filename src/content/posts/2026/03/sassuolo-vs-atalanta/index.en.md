@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "업무 자동화"
-description: "An all-in-one AI prompt to analyze vast sports data in under a minute. Generate professional, data-driven match previews and practical reports effortlessly."
+description: "Analyze vast sports data in under a minute with this all-in-one AI prompt. Effortlessly generate professional, data-driven match previews and reports."
 tags: ["prompt-engineering", "ai-agent", "sassuolo-vs-ata"]
 ---
 
-# 📝 Sassuolo vs. Atalanta: The Ultimate Sports Data Analysis Prompt
+## 📝 Sassuolo vs. Atalanta: The Ultimate Sports Data Analysis Prompt
 
 - **🎯 Recommended for:** Sports marketers, data analysts, and sports content creators
 - **⏱️ Time required:** 1 hour → 1 minute
@@ -19,7 +19,7 @@ tags: ["prompt-engineering", "ai-agent", "sassuolo-vs-ata"]
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
 - 🚀 **Utility:** ⭐⭐⭐⭐☆
 
-_"Still wasting your entire weekend hunting down team stats just to write the same predictable match analysis?"_
+> _"Still wasting your entire weekend hunting down team stats just to write the same predictable match analysis?"_
 
 For sports data analysts and content creators, the most agonizing part of the job is gathering and structuring fragmented statistics. When analyzing teams with distinct tactical identities—like Sassuolo and Atalanta—you have to account for an overwhelming number of variables far beyond simple win/loss records. You need to track possession metrics, expected goals (xG), key injuries, and tactical shifts.
 

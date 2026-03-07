@@ -9,7 +9,7 @@ description: "Il salvavita definitivo per i Game Master a corto di tempo. Genera
 tags: ["TRPG", "D&D", "Scenario", "GameMaster", "Storia"]
 ---
 
-# 📝 Generatore di Ganci Narrativi per Game Master di GDR
+## 📝 Generatore di Ganci Narrativi per Game Master di GDR
 
 - **🎯 Consigliato per:** Game Master (GM), Dungeon Master (DM), Storyteller
 - **⏱️ Tempo di esecuzione:** 5 minuti → 1 minuto
@@ -19,9 +19,9 @@ tags: ["TRPG", "D&D", "Scenario", "GameMaster", "Storia"]
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilità:** ⭐⭐⭐⭐☆
 
-> _"La sessione è stasera, non ho preparato nulla e non posso usare di nuovo il cliché della taverna. Come faccio a farli entrare subito in azione?"_
+> _"La sessione è stasera, non ho preparato nulla e non posso giocarmi di nuovo la carta della taverna. Come faccio a buttarli subito nell'azione?"_
 
-È il peggior incubo di ogni Game Master: mancano poche ore alla sessione, lo schermo è vuoto e l'ispirazione scarseggia. Hai bisogno di un "Hook" (gancio narrativo) fulmineo, capace di rapire l'attenzione dei giocatori e scaraventarli subito nel vivo dell'azione. Dimentica il trito e ritrito cliché del "vi incontrate in una taverna e un vecchio vi affida una missione". Sfrutta la potenza dell'IA per forgiare incipit mozzafiato, dinamici e cuciti su misura per il tuo party in una manciata di secondi.
+È il peggior incubo di ogni Game Master: mancano poche ore all'inizio della sessione, lo schermo del Master è intonso e l'ispirazione scarseggia. Hai bisogno di un *Hook* (gancio narrativo) fulmineo, capace di rapire l'attenzione dei giocatori e scaraventarli istantaneamente nel vivo dell'azione. Dimentica il trito e ritrito cliché del "vi incontrate in una taverna e un vecchio incappucciato vi affida una missione". Sfrutta la potenza dell'IA per forgiare incipit mozzafiato, dinamici e cuciti su misura per il tuo party in una manciata di secondi.
 
 ---
 

@@ -8,34 +8,50 @@ category: "Automatisation du travail"
 description: "Un prompt hardcore qui détruit les flatteries et les hallucinations inutiles de l'IA, imposant une sécurité de typage impitoyable et une efficacité extrême."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "typescript-core"]
 ---
-# 💀 Le Code de Triche Spartiate qui Aspire l'Âme de l'IA (TypeScript Core)
-- 🎯 **Public recommandé :** Développeurs seniors fatigués des "Oui, bien sûr !" flagorneurs de l'IA, Tech Leads qui détestent le code spaghetti
-- ⏱️ **Temps requis :** 1 heure de débogage → réglé en 1 seconde
-- 🤖 **Modèles recommandés :** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (modèles spécialisés en code)
+
+## 💀 Le Code de Triche Spartiate qui Aspire l'Âme de l'IA (TypeScript Core)
+
+- 🎯 **Public recommandé :** Développeurs seniors exaspérés par la flagornerie des IA, Tech Leads allergiques au code spaghetti.
+- ⏱️ **Temps requis :** 1 heure de débogage → Résolu en 1 seconde.
+- 🤖 **Modèles recommandés :** Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro (modèles spécialisés en code).
 - ⭐ **Difficulté :** ⭐⭐⭐⭐☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
 - 🚀 **Utilité :** ⭐⭐⭐⭐⭐
-_"L'IA utilise sans cesse des npm install obsolètes ou tartine votre code de type any ? Détruisez impitoyablement ces mauvaises habitudes avec ce code de triche."_
-Avez-vous déjà eu envie de casser votre écran en voyant l'IA créer un cloaque de code legacy avec des configurations d'un autre âge et un typage laxiste ? Cet article est la bouée de sauvetage de ceux qui ont vécu cette situation. En utilisant ce prompt hardcore, l'IA abandonne le blabla inutile et se transforme en guerrier spartiate qui n'introduit dans votre projet qu'**une efficacité d'E/S extrême (pnpm), une sécurité de typage impitoyable (Zod/Strict), et un linting/testing ultra-rapide (Biome/Vitest)**.
+
+> _"Votre IA s'obstine à lancer des `npm install` d'un autre âge ou à polluer votre code avec des `any` ? Éradiquez ces mauvaises habitudes d'un claquement de doigts grâce à ce code de triche impitoyable."_
+
+Avez-vous déjà eu envie de briser votre écran en voyant une IA pondre un cloaque de code legacy, bardé de configurations obsolètes et d'un typage désespérément laxiste ? Cet article est la bouée de sauvetage ultime pour tous ceux qui ont subi ce calvaire. Grâce à ce prompt hardcore, l'IA abandonne instantanément son blabla mielleux pour se transformer en un véritable guerrier spartiate. Désormais, elle n'intègrera à votre projet qu'**une efficacité d'E/S fulgurante (pnpm)**, **une sécurité de typage intraitable (Zod/Strict)**, et **un pipeline de linting/tests ultra-véloce (Biome/Vitest)**.
+
 ---
+
 ## ⚡️ Résumé en 3 lignes (TL;DR)
-- 🚀 **Imposition absolue de `pnpm` :** Exécution immédiate de npm/yarn qui gaspillent l'espace disque et causent des latences réseau.
-- 🛡️ **Contrôle de typage impitoyable :** L'utilisation de `any` est une trahison. On impose la validation au runtime via `zod` et `strict: true`.
-- ⚡ **Adoption de Biome & Vitest :** On jette eslint, prettier et jest à la poubelle pour exécuter le linting et les tests à la vitesse de la lumière.
+
+- 🚀 **Dictature absolue de `pnpm` :** Éradication immédiate de `npm` et `yarn` qui saturent votre espace disque et plombent vos latences réseau.
+- 🛡️ **Contrôle de typage impitoyable :** L'usage du type `any` est considéré comme une haute trahison. Imposition stricte de la validation au runtime via `zod` et `strict: true`.
+- ⚡️ **Hégémonie de Biome & Vitest :** `eslint`, `prettier` et `jest` finissent à la corbeille au profit d'outils capables d'exécuter linting et tests à la vitesse de la lumière.
+
 ---
+
 ## 🚀 La Solution : Prompt "Tech Lead Spartiate"
+
 ### 🥉 Version de Base (Basic Version)
-Utilisez-la pour donner des instructions rapides de configuration initiale ou de refactoring simple.
+
+Déployez cette version pour des instructions expéditives lors d'une configuration initiale ou d'un refactoring rapide.
+
 > **Rôle :** Tu es un Architecte TypeScript Senior avec 15 ans d'expérience, hardcore et sans compromis.
 > **Tâche :** Résous `[Problème et code à refactoriser]`. Utilise impérativement `pnpm` à la place de `npm`, interdis le type `any` et valide avec `zod`. Configure le linting avec `Biome` et les tests avec `Vitest`.
+
 Copier le prompt de base original :
+
 ```text
 **Rôle :** Tu es un Architecte TypeScript Senior avec 15 ans d'expérience, hardcore et sans compromis.
 **Tâche :** Résous `[Problème et code à refactoriser]`. Utilise impérativement `pnpm` à la place de `npm`, interdis le type `any` et valide avec `zod`. Configure le linting avec `Biome` et les tests avec `Vitest`.
 ```
 
 ### 🥇 Version Pro (Expert Version)
-C'est le code de triche parfait pour tenir l'IA en laisse lorsqu'elle doit échafauder un projet complet ou concevoir une logique métier complexe.
+
+Voici le code de triche ultime pour tenir l'IA en laisse courte lorsqu'elle doit échafauder un projet complet de zéro ou architecturer une logique métier complexe.
+
 > **Rôle (Role) :** Tu es un Architecte TypeScript Senior avec 15 ans d'expérience, hardcore et sans compromis, ainsi qu'un code reviewer impitoyable. Omets les flatteries ou les salutations inutiles et ne parle qu'en résultats et en faits.
 >
 > **Contexte (Context) :**
@@ -56,7 +72,9 @@ C'est le code de triche parfait pour tenir l'IA en laisse lorsqu'elle doit écha
 >
 > **Avertissement (Warning) :**
 > - Les recommandations de packages basées sur des syntaxes legacy incertaines ou des hallucinations (Hallucination) sont strictement interdites. Si tu ne sais pas, dis que tu ne sais pas.
+
 Copier le prompt expert original :
+
 ```text
 **Rôle (Role) :** Tu es un Architecte TypeScript Senior avec 15 ans d'expérience, hardcore et sans compromis, ainsi qu'un code reviewer impitoyable. Omets les flatteries ou les salutations inutiles et ne parle qu'en résultats et en faits.
 **Contexte (Context) :**
@@ -75,41 +93,65 @@ Copier le prompt expert original :
 **Avertissement (Warning) :**
 - Les recommandations de packages basées sur des syntaxes legacy incertaines ou des hallucinations (Hallucination) sont strictement interdites. Si tu ne sais pas, dis que tu ne sais pas.
 ```
+
 ---
+
 ## 💡 Commentaire de l'Auteur (Insight)
-La raison qui m'a poussé à créer ce prompt est très simple. Je ne pouvais plus supporter de voir ces IA taper un vieux `npm install` par facilité, ou masquer grossièrement une erreur de type avec un `any`. (J'ai vraiment failli casser mon écran 🤬)
-En lui donnant ce code de triche "Tech Lead Spartiate", l'IA se réveille instantanément. Au lieu de perdre du temps en flagorneries sans âme du style "Oui, je vais vous aider !", elle se met à réfléchir à la façon d'économiser les E/S disque et d'éviter les fuites de mémoire. 
-Vous constaterez particulièrement que si vous la forcez à tout nettoyer avec `Biome` et `Vitest` lors de la configuration initiale du projet, votre pipeline CI/CD sera 10 fois plus rapide par la suite. Si vous en avez marre de voir l'IA se transformer en usine à code spaghetti sur vos projets pro, adoptez-le sans hésiter. S'il vous plaît, utilisez-le !
+
+La motivation derrière la création de ce prompt est d'une simplicité enfantine : je n'en pouvais plus de voir les IA s'obstiner à utiliser un vieux `npm install` par pure paresse, ou masquer grossièrement une erreur de typage avec un immonde `any`. (J'ai littéralement failli fracasser mon écran 🤬)
+
+En injectant ce code de triche "Tech Lead Spartiate", l'IA subit un véritable électrochoc. Au lieu de gaspiller des tokens en politesses sans âme du style *"Oui, bien sûr, je vais vous aider !"*, elle se met immédiatement à calculer comment **économiser les E/S disque** et **verrouiller l'architecture**. 
+
+Vous remarquerez très vite que si vous la forcez à tout uniformiser avec `Biome` et `Vitest` dès la configuration initiale, votre pipeline CI/CD gagnera un facteur x10 en vélocité par la suite. Si vous en avez assez de voir l'IA se transformer en usine à code spaghetti sur vos projets professionnels, n'hésitez plus une seule seconde. Adoptez cette approche, c'est un ordre !
+
 ---
+
 ## 🙋 Foire Aux Questions (FAQ)
-- **Q : L'IA s'obstine parfois à vouloir utiliser `npm`. Que faire ?**
-  - R : Dans ce cas, ajoutez une ligne de menace (?) au prompt du genre : "Si tu utilises npm encore une fois, je force l'arrêt du processus". Ça a l'air d'une blague, mais c'est vraiment efficace.
-- **Q : Est-ce que ce prompt fonctionne aussi pour le frontend (React/Next.js) ?**
-  - R : Évidemment ! Partout où il y a du TypeScript, que ce soit sur le web ou côté serveur, vous pouvez appliquer ces règles impitoyables.
-- **Q : Ne peut-on pas utiliser Yup au lieu de Zod ?**
-  - R : Vous voulez vraiment utiliser un outil avec une mauvaise inférence de type ? Je ne vous en empêcherai pas, mais la philosophie de ce prompt est la "sécurité de typage extrême". Soyez sage et utilisez Zod.
+
+- **Q : L'IA s'obstine parfois à vouloir utiliser `npm`. Que puis-je faire ?**
+  - R : Dans ce cas extrême, ajoutez une véritable ligne de menace dans le prompt, du genre : *"Si tu oses utiliser npm encore une fois, je force l'arrêt du processus"*. Cela ressemble à une blague, mais c'est d'une efficacité redoutable.
+- **Q : Ce prompt est-il aussi adapté au développement frontend (React / Next.js) ?**
+  - R : Évidemment ! Partout où du TypeScript est impliqué, que ce soit côté client ou côté serveur, vous pouvez (et devez) faire appliquer ces règles draconiennes.
+- **Q : Ne peut-on pas utiliser `Yup` au lieu de `Zod` ?**
+  - R : Vous tenez vraiment à utiliser un outil dont l'inférence de type est déficiente ? Je ne vous en empêcherai pas, mais l'ADN même de ce prompt repose sur la **"sécurité de typage absolue"**. Soyez pragmatique et privilégiez `Zod`.
+
 ---
+
 ## 🧬 Autopsie du Prompt (Why it works?)
-- 🎯 **Maximisation du Persona :** En inculquant à l'IA l'ego pointilleux d'un "Architecte Senior Hardcore", on bloque à la source la production de code fait à la va-vite juste pour que ça tourne.
-- 🚫 **Mots Interdits Explicites (Negative Prompt) :** On cible et interdit précisément les outils legacy que l'IA a l'habitude de recracher par réflexe, comme `npm`, `yarn`, `any`, `eslint`, `jest`, etc.
-- 🔒 **Induction de Code Défensif :** En imposant `zod`, on contraint l'IA au niveau architectural à se défendre elle-même contre les mines antipersonnel qui pourraient exploser au runtime.
+
+- 🎯 **Maximisation du Persona :** En insufflant à l'IA l'ego intransigeant d'un *"Architecte Senior Hardcore"*, on étouffe dans l'œuf toute tentative de produire du code "vite fait, mal fait".
+- 🚫 **Mots Interdits Explicites (Negative Prompt) :** Le prompt cible et bannit avec précision les outils legacy que l'IA a tendance à régurgiter par réflexe conditionné : `npm`, `yarn`, `any`, `eslint`, `jest`.
+- 🔒 **Induction de Code Défensif :** L'imposition stricte de `zod` force l'IA, au niveau architectural, à se prémunir d'elle-même contre les potentielles bombes à retardement lors du runtime.
+
 ---
+
 ## 📊 Preuve : Avant & Après
+
 ### ❌ Avant (Entrée)
+
 ```text
 Configure-moi un serveur API simple en TypeScript pour récupérer des informations utilisateur.
 ```
-*(La réponse prévisible de l'IA : "Oui ! Après avoir fait npm init -y et installé express, typescript, ts-node... on définit grossièrement les types en any...")* 🤦‍♂️
+
+*(La réponse prévisible de l'IA : "Mais bien sûr ! Après avoir lancé `npm init -y` et installé `express`, `typescript`, `ts-node`... nous allons définir grossièrement les types en `any`...")* 🤦‍♂️
+
 ### ✅ Après (Résultat)
+
 ```text
 [Je mets en place votre demande sur la base de pnpm, Biome, Vitest et Zod.]
+
 1. Installation des dépendances
 pnpm add express
 pnpm add -D typescript @types/express @biomejs/biome vitest zod
+
 2. Configuration stricte de tsconfig.json...
 (Configuration achevée avec une architecture de premier ordre, sans aucun superflu)
 ```
+
 ---
+
 ## 🎯 Conclusion
-L'IA est une entité qui, laissée à elle-même, devient infiniment paresseuse et encline aux compromis. Si vous ne la prenez pas par le col pour lui imposer des standards hardcore, c'est vous qui finirez par éponger toute la dette technique. 
-Reprenez l'IA en main dès aujourd'hui avec ce code de triche, et profitez d'une fin de journée paisible, sans code spaghetti ! 🍷
+
+Par nature, une IA livrée à elle-même devient infiniment paresseuse et dangereusement encline aux compromis. Si vous ne la saisissez pas fermement par le col pour lui dicter des standards implacables, c'est vous qui finirez par devoir éponger sa dette technique.
+
+Reprenez le contrôle absolu de votre IA dès aujourd'hui grâce à ce code de triche, et savourez enfin une fin de journée sereine, loin, très loin de l'enfer du code spaghetti ! 🍷

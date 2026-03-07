@@ -9,9 +9,9 @@ description: "Un générateur d'intrigues propulsé par l'IA pour vaincre le syn
 tags: ["태그1", "태그2"]
 ---
 
-# 📝 Surmonter le Syndrome de la Page Blanche : Le Générateur d'Intrigues pour Web Novel
+## 📝 Surmonter le Syndrome de la Page Blanche : Le Générateur d'Intrigues pour Web Novel
 
-- **🎯 Public Cible :** Auteurs de web novels, écrivains amateurs, scénaristes
+- **🎯 Public Cible :** Auteurs de web novels, romanciers, scénaristes
 - **⏱️ Temps Gagné :** De 3 heures à 3 minutes
 - **🤖 Modèles Recommandés :** Claude 3.5 Sonnet, GPT-4o
 
@@ -19,17 +19,19 @@ tags: ["태그1", "태그2"]
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
 - 🚀 **Utilité :** ⭐⭐⭐⭐⭐
 
-> _"Fixer une page blanche pendant des heures en priant pour une étincelle d'inspiration... Et si l'IA pouvait débloquer votre imagination en quelques secondes ?"_
+> _"Fixer un écran vide pendant des heures en priant pour une étincelle d'inspiration... Et si l'IA pouvait débloquer votre imagination en une fraction de seconde ?"_
 
-L'angoisse de la page blanche est sans doute le pire cauchemar de tout auteur. Vous tenez un concept de départ brillant, une idée qui vous passionne, mais au moment de structurer le développement ou d'imaginer ce rebondissement crucial qui tiendra vos lecteurs en haleine, c'est le vide absolu. Les heures défilent, la frustration monte, et votre chef-d'œuvre reste figé au point mort. Ce prompt a été minutieusement conçu pour devenir votre partenaire de brainstorming infatigable. Il ne s'agit pas de faire écrire l'IA à votre place, mais de transformer une simple étincelle créative en une trame narrative d'une solidité redoutable, prête à être rédigée et à captiver votre audience.
+L'angoisse de la page blanche est sans conteste le pire cauchemar de tout romancier. Vous tenez un concept de départ brillant, un univers qui vous passionne viscéralement, mais au moment de structurer le développement ou d'imaginer <b>ce rebondissement crucial</b> qui tiendra vos lecteurs en haleine... c'est le vide intersidéral. Les heures défilent, la frustration vous ronge, et votre chef-d'œuvre reste dramatiquement figé au point mort. 
+
+Ce prompt a été minutieusement forgé pour devenir votre partenaire de brainstorming infatigable. L'objectif n'est absolument pas de déléguer votre écriture à l'IA, mais d'utiliser cette technologie pour transformer une simple étincelle créative en une <b>trame narrative d'une solidité redoutable</b>, prête à être rédigée et à captiver votre audience. Fini les impasses scénaristiques : reprenez le contrôle de votre récit.
 
 ---
 
 ## ⚡️ En Bref (TL;DR)
 
-1. Finis les blocages créatifs : générez instantanément des arcs narratifs d'une cohérence absolue.
-2. Structure professionnelle : exploitez à la perfection les codes du web novel (rythme haletant, cliffhangers redoutables).
-3. Entièrement personnalisable : adaptez les personnages, les genres et les enjeux dramatiques à votre vision d'auteur.
+1. **Finis les blocages créatifs :** Générez instantanément des arcs narratifs d'une cohérence absolue.
+2. **Structure professionnelle :** Exploitez à la perfection les codes du web novel (rythme haletant, cliffhangers redoutables).
+3. **Entièrement personnalisable :** Adaptez les personnages, les genres et les enjeux dramatiques à votre propre vision d'auteur.
 
 ---
 
@@ -40,13 +42,14 @@ L'angoisse de la page blanche est sans doute le pire cauchemar de tout auteur. V
 L'outil idéal pour un brainstorming express lorsque l'inspiration vient cruellement à manquer.
 
 > **Rôle :** Tu es un éditeur expert en web novels à succès.
+> 
 > **Tâche :** Crée un synopsis captivant de 3 chapitres pour un roman de type `[Genre littéraire, ex: Fantasy de réincarnation]`. Le protagoniste est `[Description du personnage principal]`.
 
 ### 🥇 Version Pro
 
 Spécialement conçu pour bâtir une architecture narrative d'une robustesse implacable, dotée d'enjeux dramatiques clairs et de développements psychologiques profonds.
 
-> **Rôle (Role) :** Tu es un scénariste en chef et un éditeur de web novels chevronné, expert dans la conception de best-sellers qui tiennent les lecteurs en haleine.
+> **Rôle (Role) :** Tu es un scénariste en chef et un éditeur de web novels chevronné, expert dans la conception de best-sellers capables de retenir l'attention des lecteurs de la première à la dernière ligne.
 >
 > **Contexte (Context) :**
 >
@@ -64,8 +67,8 @@ Spécialement conçu pour bâtir une architecture narrative d'une robustesse imp
 >
 > **Contraintes (Constraints) :**
 >
-> - Le rythme doit être nerveux et immersif, fidèle aux standards de l'industrie du web novel.
-> - Présente le résultat sous forme de liste à puces clairement structurée pour chaque chapitre.
+> - Le rythme doit être nerveux et immersif, parfaitement aligné avec les standards de l'industrie du web novel.
+> - Présente le résultat sous forme de liste à puces clairement structurée pour chaque chapitre. Ne crée jamais de tableau.
 >
 > **Avertissement (Warning) :**
 >
@@ -75,7 +78,9 @@ Spécialement conçu pour bâtir une architecture narrative d'une robustesse imp
 
 ## 💡 L'Avis de l'Auteur (Insight)
 
-En tant qu'auteur, je connais douloureusement cette frustration de perdre soudainement son élan créatif (le fameux « slump »). Au quotidien, j'utilise ce prompt non pas pour sous-traiter mon écriture à l'IA, mais comme un véritable **détonateur d'idées**. Bien souvent, l'intelligence artificielle me soumet une proposition qui, bien qu'imparfaite, provoque en moi un déclic salvateur : _« Impossible, mon personnage ne réagirait jamais de cette façon... Il ferait plutôt l'inverse ! »_ Et c'est exactement là que la magie opère : le blocage s'évapore instantanément. Pour tirer la quintessence de cet outil, n'hésitez pas à itérer en demandant à l'IA d'ajuster un point très précis de l'intrigue. Sur ce type d'exercice créatif, Claude 3.5 Sonnet brille tout particulièrement grâce à sa compréhension chirurgicale des nuances narratives.
+En tant qu'auteur, je connais douloureusement cette frustration de perdre soudainement son élan créatif (le fameux « slump »). Au quotidien, j'utilise ce prompt non pas pour sous-traiter mon écriture, mais comme un véritable <b>détonateur d'idées</b>. 
+
+Bien souvent, l'intelligence artificielle me soumet une proposition qui, bien qu'imparfaite, provoque en moi un déclic salvateur : _« Impossible, mon personnage ne réagirait jamais de cette façon... Il ferait plutôt l'inverse ! »_ Et c'est exactement là que la magie opère : le blocage s'évapore instantanément. Pour tirer la quintessence de cet outil, n'hésitez pas à itérer en demandant à l'IA d'ajuster un point très précis de l'intrigue via la section `[Résumer brièvement où en sont les personnages]`. Sur ce type d'exercice créatif exigeant la prise en compte de multiples contraintes, <b>Claude 3.5 Sonnet</b> brille tout particulièrement grâce à sa compréhension chirurgicale des nuances narratives.
 
 ---
 

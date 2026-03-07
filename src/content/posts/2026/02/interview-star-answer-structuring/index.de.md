@@ -1,15 +1,15 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Wenn Interviewantwort abschweift! 'STAR-Technik' Antwortstrukturierungs-Prompt\""
+title: "Wenn die Interviewantwort abschweift! Der 'STAR-Technik' Prompt zur Strukturierung"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Karriere"
-description: "Ein strukturierter Prompt basierend auf der STAR-Technik (Situation, Task, Action, Result) für alle, die in Vorstellungsgesprächen dazu neigen, abzuschweifen und den roten Faden zu verlieren."
+description: "Der STAR-Technik Prompt für Vorstellungsgespräche: Strukturieren Sie Ihre Antworten glasklar, vermeiden Sie Abschweifungen und überzeugen Sie jeden Recruiter."
 tags: ["STARTechnik", "InterviewAntwort", "Strukturierung", "LogischesSprechen"]
 ---
 
-# 📝 Wenn die Antwort im Interview abschweift: Der 'STAR-Technik' Struktur-Prompt
+## 📝 Wenn die Antwort im Interview abschweift: Der 'STAR-Technik' Struktur-Prompt
 
 - **🎯 Empfohlen für:** Jobsuchende, Berufseinsteiger und alle, die sich auf Vorstellungsgespräche vorbereiten
 - **⏱️ Zeitaufwand:** 5 Minuten → Spart Stunden an Vorbereitungszeit
@@ -19,9 +19,9 @@ tags: ["STARTechnik", "InterviewAntwort", "Strukturierung", "LogischesSprechen"]
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
 - 🚀 **Nutzen:** ⭐⭐⭐⭐☆
 
-> _"Sie erklären voller Eifer, aber der Blick Ihres Gegenübers wird immer leerer?"_
+> _"Sie erklären voller Eifer, aber der Blick Ihres Gegenübers wird mit jeder Sekunde leerer?"_
 
-Der wohl häufigste Grund für Absagen nach Vorstellungsgesprächen ist eine **mangelnde Struktur** in den Antworten. Oftmals schildern Bewerber minutenlang die bloße Ausgangssituation, verlieren sich in unwichtigen Details und kommen am Ende gar nicht mehr dazu, ihre tatsächliche Leistung und ihren Mehrwert zu betonen. Genau hier setzt die **STAR-Technik** als ultimativer „Cheat-Code“ an: Sie ermöglicht es Ihnen, in Sekundenschnelle ein absolut kugelsicheres Gerüst für Ihre Antworten zu bauen und damit jeden Recruiter auf Anhieb zu überzeugen.
+Der wohl häufigste Grund für Absagen nach Vorstellungsgesprächen ist eine **mangelnde Struktur** in den Antworten. Oftmals schildern Bewerber minutenlang die bloße Ausgangssituation, verlieren sich in unwichtigen Details und kommen am Ende gar nicht mehr dazu, ihre tatsächliche Leistung und den eigenen Mehrwert zu betonen. Genau hier setzt die **STAR-Technik** als ultimativer „Cheat-Code“ an: Sie ermöglicht es Ihnen, in Sekundenschnelle ein absolut kugelsicheres Gerüst für Ihre Antworten zu bauen und damit jeden Recruiter auf Anhieb zu überzeugen.
 
 ---
 
@@ -33,14 +33,15 @@ Der wohl häufigste Grund für Absagen nach Vorstellungsgesprächen ist eine **m
 
 ---
 
-## 🚀 Die Lösung: "STAR-Antwort-Bauer"
+## 🚀 Die Lösung: Der "STAR-Antwort-Generator"
 
 ### 🥉 Basic Version (Basis-Version)
 
 Nutzen Sie diese Basis-Variante, wenn Sie rasch ein solides Ergebnis ohne viele Anpassungen benötigen.
 
 > **Rolle:** Du bist ein professioneller Rhetorik-Coach und Experte für Vorstellungsgespräche.
-> **Aufgabe:** Strukturiere meine folgende Erfahrung nach der STAR-Methode (Situation, Task, Action, Result), damit ich im Interview präzise und auf den Punkt antworte, ohne den roten Faden zu verlieren. Hier ist meine Erfahrung: `[Füge deine Erfahrung hier ein]`
+>
+> **Aufgabe:** Strukturiere meine folgende Erfahrung nach der STAR-Methode (Situation, Task, Action, Result), damit ich im Interview präzise und auf den Punkt antworte, ohne den roten Faden zu verlieren. Hier ist meine Erfahrung: `[Ihre Erfahrung hier einfügen]`
 
 ### 🥇 Pro Version (Experten-Version)
 
@@ -63,7 +64,7 @@ Verwenden Sie diese Version für höchste Detailqualität und individuell maßge
 > 2. Formuliere das Ganze als ein natürlich klingendes, authentisches Skript, das ich im echten Gespräch flüssig und souverän wiedergeben kann.
 >
 > **Meine Erfahrung:**
-> `[Schreibe hier stichpunktartig oder in Rohfassung deine Erfahrung auf]`
+> `[Ihre Erfahrung hier stichpunktartig oder in Rohfassung einfügen]`
 >
 > **Einschränkungen (Constraints):**
 >

@@ -1,15 +1,15 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Cleaning Play: The Magic of Turning Tidying Up into a Fun Game\""
+title: "Cleaning Play: The Magic of Turning Tidying Up into a Fun Game"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parenting & Education"
-description: " \"Gamification strategies to make a messy room clean in just 10 minutes.\""
+description: "Discover expert gamification strategies to effortlessly transform a messy room into a spotless space in just 10 minutes with AI-powered cleaning missions."
 tags: ["Parenting", "Education", "AI Prompts", "ChatGPT", "Parenting Tips"]
 ---
 
-# 📝 Stop Nagging and Start Playing: The 'Cleaning Commando' Prompt
+## 📝 Stop Nagging and Start Playing: The 'Cleaning Commando' Prompt
 
 - **🎯 Target Audience:** Parents, Educators, Caregivers
 - **⏱️ Time Required:** 5 minutes
@@ -40,27 +40,27 @@ For a child, 'tidying up' feels like a grueling chore, but 'play' is a magical a
 Use this when you need an instant idea to diffuse a messy situation fast.
 
 > **Role:** You are an enthusiastic children's recreation director.
+>
 > **Request:** Give me 3 quick gamification strategies to get kids to clean up a messy room in under 10 minutes.
-
 
 ### 🥇 Pro Version (Expert Mode)
 
 Use this for a fully fleshed-out, highly engaging cleaning adventure tailored to your specific mess and children's ages.
 
-> **Role (Role):** You are an expert children's recreation director and child psychology specialist.
+> **Role:** You are an expert children's recreation director and child psychology specialist.
 >
-> **Context (Context):**
+> **Context:**
 >
 > - Background: The living room is completely covered in `[Legos, stuffed animals, and picture books]`.
 > - Goal: I want to turn tidying up into an exciting, cooperative game for my `[5-year-old and 7-year-old]` kids.
 >
-> **Task (Task):**
+> **Task:**
 >
 > 1. Design 3 unique, highly engaging cleaning missions that don't just rely on "who can clean faster" (e.g., "The Red Block Rescue Operation").
 > 2. Provide a script of enthusiastic, high-energy dialogue and sound effects for me (the parent) to use as the "Game Master."
 > 3. Suggest a small, immediate non-material reward or "level up" celebration for completing each mission.
 >
-> **Constraints (Constraints):**
+> **Constraints:**
 >
 > - Safety First: Explicitly weave in a "no throwing" and "no running" rule into the lore of the game so no one gets hurt.
 > - Grand Finale: Design a specific concluding ceremony where we all admire the sparkling clean room and cheer together.

@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "프로젝트 관리"
-description: " \"Découvrez le prompt magique qui transforme 1 heure de réunion en tickets Jira parfaits et prêts à l'emploi en seulement 10 secondes.\""
+description: "Découvrez le prompt magique qui transforme 1 heure de réunion en tickets Jira parfaits et prêts à l'emploi en seulement 10 secondes."
 tags: ["PM", "Jira", "회의록", "생산성"]
 ---
 
-# 📝 Transformer vos Réunions en Tickets Jira en 10 Secondes grâce à l'IA
+## 📝 Transformer vos Réunions en Tickets Jira en 10 Secondes grâce à l'IA
 
 - **🎯 Public cible :** Product Managers (PM), Product Owners (PO), Scrum Masters, Chefs de projet, Tech Leads
 - **⏱️ Temps requis :** 30 minutes → 10 secondes
@@ -21,14 +21,14 @@ tags: ["PM", "Jira", "회의록", "생산성"]
 
 > _"Passez-vous plus de temps à rédiger des comptes rendus qu'à faire avancer vos projets ?"_
 
-Lors d'une réunion, les idées fusent et les directives s'enchaînent. Pourtant, une fois l'appel terminé, les responsabilités et les échéances s'évaporent souvent dans la nature. Si vous perdez un temps précieux à décortiquer des transcriptions audio pour créer manuellement des tickets Jira ou des tâches Asana, ce prompt est la solution ultime qui va révolutionner votre quotidien de gestionnaire.
+Lors d'une réunion, les idées fusent et les décisions s'enchaînent. Pourtant, une fois l'appel terminé, les responsabilités et les échéances s'évaporent souvent dans la nature. Si vous perdez un temps précieux à décortiquer des transcriptions audio pour créer manuellement des tickets Jira ou des tâches Asana, ce prompt est la solution ultime qui va radicalement transformer votre quotidien de gestionnaire.
 
 ---
 
 ## ⚡️ En Bref (TL;DR)
 
 1. Récupérez la transcription textuelle (STT) de votre réunion via des outils comme Zoom, Teams ou un dictaphone IA.
-2. Utilisez notre prompt pour extraire des **"Action Items" exploitables** et générer un **format de ticket Jira** structuré, loin d'un simple résumé narratif.
+2. Utilisez notre prompt pour extraire des **"Action Items" exploitables** et générer un **format de ticket Jira** structuré, bien loin d'un simple résumé narratif.
 3. Copiez-collez le résultat directement dans Jira, Notion ou Asana, et lancez le sprint !
 
 ---
@@ -43,10 +43,9 @@ Idéal pour extraire rapidement les informations essentielles : qui fait quoi et
 > **Tâche :** À partir de la transcription de réunion fournie, extrais une liste claire et actionnable indiquant 'Qui (Assignee)', 'Pour quand (Due Date)', et 'Quoi (Task)'.
 > **Transcription :** `[Collez la transcription de la réunion ici]`
 
-
 ### 🥇 Version Pro (Expert)
 
-Bien plus qu'un résumé, cette version génère des tickets Jira complets avec des **User Stories** et des **Critères d'Acceptation (Acceptance Criteria)** précis, permettant à l'équipe de développement de démarrer immédiatement sans friction.
+Bien plus qu'un simple résumé, cette version génère des tickets Jira complets incluant des **User Stories** et des **Critères d'Acceptation (Acceptance Criteria)** précis, permettant à l'équipe de développement de démarrer immédiatement sans la moindre friction.
 
 > **Rôle (Role) :** Tu es un `[Coach Agile et Senior Scrum Master avec 15 ans d'expérience]`.
 >
@@ -58,7 +57,7 @@ Bien plus qu'un résumé, cette version génère des tickets Jira complets avec 
 > **Tâche (Task) :**
 >
 > 1. Analyse la transcription et sépare les tâches de développement (Dev Task) des tâches de design (Design Task).
-> 2. Résume chaque tâche sous forme de **User Story** ("En tant que [persona], je veux [action] afin de [bénéfice]").
+> 2. Résume chaque tâche sous forme de **User Story** ("En tant que `[persona]`, je veux `[action]` afin de `[bénéfice]`).
 > 3. Pour chaque ticket, rédige au moins 3 **Critères d'Acceptation (AC)** spécifiques, incluant les cas particuliers (edge cases), qui serviront de base pour les tests QA.
 > 4. Si une personne est mentionnée pour une tâche, assigne-la (Assignee). Sinon, indique 'À définir'.
 >
@@ -84,8 +83,8 @@ Bien plus qu'un résumé, cette version génère des tickets Jira complets avec 
 
 ## 💡 L'Avis de l'Expert (Insight)
 
-La force de ce prompt réside dans sa capacité à transformer un échange informel en données structurées et exploitables (des tickets Jira prêts à l'emploi). 
-Dans la pratique, demander à une IA de "résumer une réunion" produit souvent un texte narratif inexploitable pour des développeurs. En imposant des contraintes strictes comme la rédaction de `User Stories` et d'`Acceptance Criteria`, on oblige l'IA à déduire la logique métier et les conditions d'exécution à partir d'une simple conversation non structurée.
+La véritable force de ce prompt réside dans sa capacité à transformer un échange informel en données structurées et directement exploitables (des tickets Jira prêts à l'emploi). 
+Dans la pratique, demander à une IA de "résumer une réunion" produit trop souvent un texte narratif inutilisable pour des développeurs. En imposant des contraintes strictes comme la rédaction de **User Stories** et d'**Acceptance Criteria**, on oblige l'IA à déduire la logique métier et les conditions d'exécution à partir d'une simple conversation non structurée.
 
 **Astuce de Pro :** Claude 3.5 Sonnet est particulièrement redoutable pour cet exercice grâce à sa gestion exceptionnelle du contexte long. Vous pouvez lui fournir la transcription brute d'une heure de réunion : il ignorera les digressions et les plaisanteries pour se concentrer chirurgicalement sur les décisions techniques.
 

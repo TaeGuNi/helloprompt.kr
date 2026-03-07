@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"문의하기 (Contact Us)\""
-description: "Avez-vous des questions ou des suggestions à partager avec l'équipe Hello Prompt ?"
+description: "Avez-vous des questions pour Hello Prompt ? Découvrez comment nous contacter et rédiger un e-mail de partenariat percutant grâce à l'IA."
 date: "2026-02-09"
 ---
 
-# 📧 Nous contacter (Contact Us)
+## 📧 Nous contacter (Contact Us)
 
 - **🎯 Cible :** Responsables marketing, chefs de projet et directeurs de partenariats souhaitant collaborer avec Hello Prompt
 - **⏱️ Temps requis :** 10 minutes → Réduit à 1 minute
@@ -49,7 +49,7 @@ Utilisez ce prompt pour concevoir une proposition de partenariat détaillée, st
 > **Contexte (Context) :**
 >
 > - Destinataire : L'équipe Hello Prompt (support@helloprompt.kr)
-> - Expéditeur : `[Nom de votre entreprise et votre poste]`
+> - Expéditeur : `[Nom de votre entreprise et de votre poste]`
 > - Objectif : Discuter de `[Détails de la collaboration ou de la campagne publicitaire envisagée]`
 >
 > **Tâche (Task) :**
@@ -67,7 +67,7 @@ Utilisez ce prompt pour concevoir une proposition de partenariat détaillée, st
 
 ## 💡 L'avis de l'expert (Insight)
 
-Même si vous détenez la meilleure idée de collaboration au monde, un premier e-mail confus ou un message principal noyé sous les détails finira inévitablement dans la corbeille d'un décideur débordé. En utilisant ce prompt, vous générez instantanément un brouillon structuré qui met en exergue votre proposition de valeur (Value Proposition) avec une clarté absolue. Il vous suffit ensuite d'y ajouter votre touche personnelle pour démultiplier vos chances d'obtenir une réponse favorable !
+Même si vous détenez la meilleure idée de collaboration au monde, un premier e-mail confus ou un message principal noyé sous les détails finira inévitablement dans la corbeille d'un décideur débordé. En utilisant ce prompt, vous générez instantanément un brouillon structuré qui met en exergue votre **proposition de valeur (Value Proposition)** avec une clarté absolue. Il vous suffit ensuite d'y ajouter votre touche personnelle pour démultiplier vos chances d'obtenir une réponse favorable !
 
 ---
 

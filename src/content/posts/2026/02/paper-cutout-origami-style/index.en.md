@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Image Generation"
-description: "A paper cutout and origami-style prompt engineered to evoke the tactile depth of cutting and layering multiple sheets of paper."
+description: "A paper cutout and origami prompt engineered to evoke the tactile depth of cutting and layering multiple sheets of paper."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Craft"]
 ---
 
-# 📝 The Warmth of Paper: Mastering Paper Cutout & Origami Art Styles
+## 📝 The Warmth of Paper: Mastering Paper Cutout & Origami Art Styles
 
 - **🎯 Recommended For:** Prompt Engineers, Digital Artists, Marketers
 - **⏱️ Time Required:** 5 minutes → 1 minute
@@ -21,7 +21,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Craft"]
 
 > _"I want to create a three-dimensional, storybook aesthetic that feels meticulously crafted by cutting and layering physical paper."_
 
-Even in the purely digital realm, **Paper Cutout** and **Origami** aesthetics inject an unmistakable analog warmth into your AI-generated imagery. The perceived thickness of the material, combined with the tangible depth created by soft drop shadows, renders these visuals incredibly engaging, nostalgic, and undeniably striking.
+Even in the purely digital realm, the **Paper Cutout** and **Origami** aesthetics inject an unmistakable analog warmth into your AI-generated imagery. The perceived thickness of the material, combined with the tangible depth created by soft drop shadows, renders these visuals incredibly engaging, nostalgic, and undeniably striking.
 
 ---
 
@@ -44,7 +44,7 @@ Deploy this when you need a quick, highly stylized result without getting bogged
 
 ### 🥇 Pro Version (Expert)
 
-Use this when you demand absolute granular control over texture, lighting, and dimensional quality.
+Use this when you demand absolute granular control over texture, lighting, and dimensional quality. 
 
 Copy and paste the **PROMPT** below directly into your preferred AI image generator.
 
@@ -80,9 +80,9 @@ If your generated image still feels slightly too flat, try injecting spatial key
 
 ## 🧬 Prompt Anatomy (Why it works?)
 
-1.  **Style & Texture Separation:** We explicitly isolate the "Style" (layered paper cutout) from the "Texture" (visible paper grain, soft drop shadows). This dual approach ensures the AI fully grasps that we want both the visual _look_ of the art style and the tangible _physical properties_ of the core material.
-2.  **Depth of Field:** Introducing a `shallow depth of field` simulates a macro photography lens. This makes the "paper" appear as a miniature physical construct, instantly elevating the image's overall realism.
-3.  **Specific Material Mention:** Mandating `textured craft paper` prevents the AI from defaulting to glossy or perfectly smooth vector shapes, effectively preserving that organic, handmade warmth.
+1. **Style & Texture Separation:** We explicitly isolate the "Style" (layered paper cutout) from the "Texture" (visible paper grain, soft drop shadows). This dual approach ensures the AI fully grasps that we want both the visual _look_ of the art style and the tangible _physical properties_ of the core material.
+2. **Depth of Field:** Introducing a `shallow depth of field` simulates a macro photography lens. This makes the "paper" appear as a miniature physical construct, instantly elevating the image's overall realism.
+3. **Specific Material Mention:** Mandating `textured craft paper` prevents the AI from defaulting to glossy or perfectly smooth vector shapes, effectively preserving that organic, handmade warmth.
 
 ---
 

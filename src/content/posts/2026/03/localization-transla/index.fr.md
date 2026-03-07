@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: " "
-description: "Des prompts de localisation multilingue redoutables pour en finir avec les traductions littérales, en capturant parfaitement les nuances culturelles et idiomatiques de votre marché cible."
+description: "Éliminez les traductions littérales avec ces prompts de localisation. Capturez les nuances culturelles et idiomatiques de votre marché cible avec l'IA."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "localization-tr"]
 ---
 
-# 📝 Prompts de localisation : Éliminez enfin l'effet « traduction automatique »
+## 📝 Prompts de localisation : Éliminez enfin l'effet « traduction automatique »
 
 - **🎯 Recommandé pour :** Marketeurs internationaux, responsables commerciaux export, Product Designers (UX/UI)
 - **⏱️ Temps gagné :** 1 heure → 3 minutes
@@ -18,7 +18,7 @@ tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "localization-tr"]
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
 - 🚀 **Utilité :** ⭐⭐⭐⭐⭐
 
-> _« Vous avez passé ça à la moulinette Google Traduction, non ? Personne ne dit ça chez nous... » Si cette remarque d'un partenaire étranger vous a déjà donné des sueurs froides, copiez ce prompt immédiatement._
+> _« Vous avez passé ça à la moulinette Google Traduction, non ? Personne ne parle comme ça chez nous... » Si cette remarque d'un partenaire étranger vous a déjà donné des sueurs froides, copiez ce prompt immédiatement._
 
 Traduire mot à mot, n'importe quel outil gratuit sait le faire. Ce que nous attendons d'une IA, c'est qu'elle saisisse les nuances culturelles locales, qu'elle emploie le jargon précis du secteur et qu'elle offre une fluidité native qui inspire confiance. Ce prompt ne fait pas de la simple traduction : il fait de la véritable **localisation**.
 
@@ -103,7 +103,7 @@ Pour tout ce qui touche au copywriting et au marketing, je vous conseille viveme
 
 1. **Un persona chirurgicalement défini :** Au lieu d'un banal « tu es un natif », nous cadrons l'IA dans un rôle d'expert métier pointu (par ex. : Marketeur B2B SaaS). Cela la force à puiser dans un registre lexical professionnel et à adopter les codes de cette industrie précise.
 2. **Le droit absolu de déconstruire :** La clause imposant de « restructurer complètement les phrases » brise les chaînes de la traduction littérale. L'IA se sent autorisée à sacrifier la forme pour magnifier le fond.
-3. **L'obligation de justifier (Chain-of-Thought) :** Exiger que l'IA explique ses choix de traduction n'est pas qu'un outil de contrôle pour vous. Cela force le modèle à « réfléchir » avant de finaliser sa réponse, décuplant ainsi la qualité et la pertinence du résultat final.
+3. **L'obligation de justify (Chain-of-Thought) :** Exiger que l'IA explique ses choix de traduction n'est pas qu'un outil de contrôle pour vous. Cela force le modèle à « réfléchir » avant de finaliser sa réponse, décuplant ainsi la qualité et la pertinence du résultat final.
 
 ---
 

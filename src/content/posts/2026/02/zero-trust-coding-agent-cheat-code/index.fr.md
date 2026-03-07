@@ -5,10 +5,10 @@ author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "프롬프트 엔지니어링"
-description: "Le prompt ultime inspiré du modèle mental d'un développeur senior hardcore, conçu pour anéantir la flagornerie de l'IA et éradiquer le code legacy obsolète."
+description: "Prompt ultime basé sur le modèle mental d'un développeur senior pour stopper la complaisance de l'IA et éradiquer définitivement le code legacy."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "zero-trust-coding"]
 ---
-# 📝 Protocole de codage Zero-Trust : bloquer les absurdités de l'IA à la source
+## 📝 Protocole de codage Zero-Trust : bloquer les absurdités de l'IA à la source
 
 - **🎯 Public recommandé :** Les développeurs seniors qui s'arrachent les cheveux lors des revues de code spaghetti, et les juniors qui ont failli faire tomber la prod en se fiant aveuglément à l'IA.
 - **⏱️ Temps estimé :** 1 heure (temps de debug et de rollback) → Réduit à 1 seconde

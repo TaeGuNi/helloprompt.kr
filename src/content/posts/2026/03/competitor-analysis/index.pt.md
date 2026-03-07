@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: " "
-description: "Um prompt prático de IA que transforma três dias de pesquisa de mercado e análise SWOT no Google em um trabalho de apenas três minutos."
+description: "Um prompt prático de IA que reduz três dias exaustivos de pesquisa de mercado e análise SWOT a apenas três minutos de trabalho estratégico."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "competitor-anal"]
 ---
 
-# 📝 🔥 O Prompt Perfeito de Análise SWOT da Concorrência e Pesquisa de Mercado para Planejadores
+## 📝 🔥 O Prompt Perfeito de Análise SWOT da Concorrência e Pesquisa de Mercado para Planejadores
 
 - **🎯 Público-alvo:** Planejadores estratégicos, Analistas de marketing, Desenvolvedores de novos negócios e Juniores (1 a 3 anos de experiência)
 - **⏱️ Tempo necessário:** Redução de 3 dias → 3 minutos
@@ -20,7 +20,7 @@ tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "competitor-anal"]
 
 > _"Ah... Preciso analisar três concorrentes e entregar o relatório executivo amanhã cedo. Como vou dar conta de mapear tudo isso a tempo?"_
 
-Os dias de vasculhar o Google página por página, compilar recortes de notícias e dissecar dezenas de demonstrações financeiras ficaram definitivamente para trás. A verdadeira competência de um planejador estratégico moderno não reside na "coleta braçal de dados", mas sim na "interpretação cirúrgica da informação". Este prompt varre as tendências dispersas do mercado e os dados da concorrência, sintetizando-os em uma análise SWOT profunda e em insights estratégicos com nível executivo — prontos para serem copiados e colados diretamente no seu plano de negócios.
+Os dias de vasculhar o Google página por página, compilar recortes de notícias e dissecar dezenas de demonstrações financeiras ficaram definitivamente para trás. A verdadeira competência de um planejador estratégico moderno não reside na "coleta braçal de dados", mas sim na **interpretação cirúrgica da informação**. Este prompt varre as tendências dispersas do mercado e os dados da concorrência, sintetizando-os em uma análise SWOT profunda e em insights estratégicos de nível executivo — prontos para serem copiados e colados diretamente no seu plano de negócios.
 
 ---
 
@@ -74,7 +74,7 @@ Utilize esta versão para obter análises profundas e direcionamentos estratégi
 
 Sejamos francos: virar a noite formatando relatórios de pesquisa de mercado é um desperdício imperdoável do seu tempo e talento. Com o prompt acima, você gera um rascunho executivo sólido em apenas 3 minutos. 
 
-O verdadeiro trunfo deste prompt não reside apenas na "coleta de dados", mas no fato de **forçar a IA a formular a "nossa estratégia de diferenciação" (Tarefa 3)**. A estrutura foi desenhada meticulosamente para conectar as "Fraquezas (W)" da concorrência diretamente aos nossos diferenciais competitivos ("Selling Points"). 
+O verdadeiro trunfo deste prompt não reside apenas na "coleta de dados", mas no fato de **forçar a IA a formular a nossa estratégia de diferenciação (Tarefa 3)**. A estrutura foi desenhada meticulosamente para conectar as Fraquezas (W) da concorrência diretamente aos nossos diferenciais competitivos (Selling Points). 
 
 **Dica de ouro:** Assim que a IA entregar a análise, se alguma estratégia chamar a sua atenção, faça uma pergunta de aprofundamento: *"Para a estratégia número 3, elabore um plano de teste de MVP (Produto Mínimo Viável) em 3 etapas, factível com um orçamento equivalente a 10.000 dólares"*. A velocidade com que a sua liderança aprovará o projeto será multiplicada por três. Lembre-se sempre de revisar e refinar o resultado com base na sua bagagem técnica e na realidade da empresa antes da apresentação final. A IA é sua assistente analítica; a tomada de decisão continua sendo exclusivamente sua.
 
@@ -119,4 +119,4 @@ O verdadeiro trunfo deste prompt não reside apenas na "coleta de dados", mas no
 
 Mapear a concorrência é apenas o marco zero do planejamento estratégico, não a linha de chegada. Utilize os 3 dias de trabalho braçal economizados com este prompt para ir a campo, conversar diretamente com os seus clientes e lapidar o seu produto. 
 
-Agora, feche o notebook e aproveite o fim de expediente. Você merece! 🍷
+Agora, feche o notebook e aproveite o fim do expediente. Você merece! 🍷

@@ -1,13 +1,13 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"문의하기 (Contact Us)\""
-description: "Hai domande, feedback o proposte di partnership per il team di Hello Prompt? Mettiti subito in contatto con noi!"
+title: " \"Contattaci (Contact Us)\""
+description: "Hai domande, feedback o proposte di partnership per Hello Prompt? Scopri come scriverci un'email B2B irresistibile e mettiti subito in contatto con noi!"
 date: "2026-02-09"
 ---
 
-# 📧 Contattaci (Contact Us)
+## 📧 Contattaci (Contact Us)
 
-- **🎯 Pubblico Consigliato:** Marketer, planner e responsabili delle partnership che desiderano avviare collaborazioni strategiche con Hello Prompt.
+- **🎯 Pubblico Consigliato:** Marketer, planner e responsabili partnership che desiderano avviare collaborazioni strategiche con Hello Prompt.
 - **⏱️ Tempo Richiesto:** 10 minuti → Ridotto a 1 minuto
 - **🤖 Modelli Consigliati:** Qualsiasi AI conversazionale (ChatGPT, Claude, Gemini, ecc.)
 
@@ -18,8 +18,8 @@ date: "2026-02-09"
 > _"Come si scrive un'email di proposta B2B che venga effettivamente letta e ottenga una risposta immediata da un manager sommerso di lavoro?"_
 
 Grazie per aver scelto Hello Prompt.
-Se hai riscontrato difficoltà tecniche durante l'utilizzo della nostra piattaforma o desideri suggerire la creazione di nuovi prompt, la nostra porta è sempre aperta. 
-Oltre a fornirti i nostri contatti diretti, abbiamo preparato un **prompt AI ingegnerizzato specificamente per redigere email di partnership ad altissimo tasso di conversione**. Mettilo subito alla prova proponendoci la tua idea visionaria!
+Se hai riscontrato difficoltà tecniche nell'utilizzo della nostra piattaforma o se desideri suggerire la creazione di nuovi prompt, la nostra porta è sempre aperta. 
+Oltre a fornirti i nostri contatti diretti, abbiamo progettato un **prompt AI ingegnerizzato specificamente per redigere email di partnership ad altissimo tasso di conversione**. Mettilo subito alla prova e presentaci la tua idea visionaria!
 
 ---
 
@@ -27,7 +27,7 @@ Oltre a fornirti i nostri contatti diretti, abbiamo preparato un **prompt AI ing
 
 1. Per assistenza o richieste di supporto generale, scrivici all'indirizzo `support@helloprompt.kr` (ti risponderemo entro 24 ore lavorative).
 2. Siamo costantemente alla ricerca di nuove sinergie: accogliamo con grande entusiasmo proposte di partnership commerciali e richieste di advertising.
-3. Sfrutta il "Prompt per email di partnership" qui sotto per generare una comunicazione di contatto persuasiva, strutturata e dall'impatto professionale garantito.
+3. Sfrutta il "Prompt per email di partnership" qui sotto per generare una comunicazione di contatto persuasiva, ben strutturata e dall'impatto professionale garantito.
 
 ---
 
@@ -49,14 +49,14 @@ Affidati a questa versione avanzata quando devi strutturare una proposta di part
 > **Contesto (Context):**
 >
 > - Destinatario: Team di Hello Prompt (support@helloprompt.kr)
-> - Mittente: `[Nome della tua Azienda e tua Qualifica]`
+> - Mittente: `[Nome della tua Azienda e la tua Qualifica]`
 > - Obiettivo: Discutere di `[Dettagli specifici della Collaborazione B2B o della Campagna Pubblicitaria proposta]`
 >
 > **Richiesta (Task):**
 >
 > 1. Elabora 3 opzioni per l'oggetto dell'email che risultino concise, accattivanti e capaci di generare un alto tasso di apertura (Open Rate).
 > 2. Redigi il corpo dell'email strutturandolo rigidamente in: saluto iniziale, contesto della proposta, proposta di valore (Value Proposition), risultati attesi (ROI) e prossimi step operativi (Call to Action).
-> 3. Utilizza le parentesi quadre `[ ]` per le variabili, così che io possa inserire i miei dati reali con facilità.
+> 3. Utilizza le parentesi quadre `[ ]` per le variabili, così che io possa inserire i miei dati reali con estrema facilità.
 >
 > **Vincoli (Constraints):**
 >

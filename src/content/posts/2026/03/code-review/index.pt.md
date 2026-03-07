@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "  "
-description: "Sofrendo com erros inexplicáveis e código espaguete? Descubra este prompt prático e consiga revisões de código e refatorações impecáveis com seu mentor de IA em apenas 1 minuto."
+description: "Sofrendo com erros e código espaguete? Use este prompt prático e consiga revisões e refatorações impecáveis com seu mentor de IA em apenas 1 minuto."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "code-review"]
 ---
 
-# 📝 Guia Definitivo de Revisão e Refatoração de Código com IA
+## 📝 Guia Definitivo de Revisão e Refatoração de Código com IA
 
 - **🎯 Público-alvo:** Desenvolvedores juniores, engenheiros de backend/frontend (1 a 3 anos de experiência) e autodidatas.
 - **⏱️ Tempo economizado:** De 2 horas de frustração → 1 minuto.
@@ -21,7 +21,7 @@ tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "code-review"]
 
 > _"O fim do expediente se aproxima, os logs de erro não param de crescer e o seu código virou um verdadeiro espaguete, mas você nem sabe por onde começar a arrumar?"_
 
-Desde aqueles errinhos bobos que dão vergonha de perguntar ao sênior, até aquele código que "funciona, mas dá um frio na barriga". Chegou a hora de transformar a IA no seu Engenheiro Sênior particular. Muito além de simples correções de bugs, você receberá sugestões práticas de refatoração rigorosamente baseadas nos princípios de Clean Code.
+Desde aqueles pequenos erros que dão vergonha de perguntar ao sênior, até aquele trecho de código que "funciona, mas dá um frio na barriga". Chegou a hora de transformar a IA no seu Engenheiro Sênior particular. Muito além de simples correções de bugs, você receberá sugestões práticas de refatoração, todas rigorosamente fundamentadas nos princípios de Clean Code.
 
 ---
 
@@ -78,7 +78,7 @@ Ideal para quando você precisa de melhorias reais na arquitetura e refatoraçã
 ## 💡 Comentário do Autor (Insight)
 
 O grande trunfo deste prompt está na persona do "Engenheiro Staff Implacável" e na exigência de que ele explique detalhadamente os motivos de cada alteração. 
-O erro mais fatal que profissionais juniores cometem é dar Ctrl+C e Ctrl+V no código gerado pela IA sem entender a lógica por trás. O bug até pode sumir na hora, mas a sua habilidade não evolui um único milímetro. 
+O erro mais fatal que profissionais juniores cometem é dar **Ctrl+C e Ctrl+V** no código gerado pela IA sem entender a lógica por trás. O bug até pode sumir na hora, mas a sua habilidade não evolui um único milímetro. 
 Este prompt não diz à IA "conserte isso para mim", mas sim "me ensine como se faz". Leve broncas sobre antipadrões e treine seus olhos para reconhecer códigos idiomáticos. Especialmente se você detalhar no campo `[Objetivo]` qual era a sua real intenção (a lógica de negócios), a IA deixará de ser um mero corretor ortográfico de sintaxe e passará a identificar falhas estruturais profundas. Sem desculpas; deixe seu mentor de IA destruir o seu ego e aprenda de verdade com isso. Esse é o atalho definitivo para a senioridade.
 
 ---

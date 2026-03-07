@@ -1,15 +1,15 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Prompt de Técnica STAR: Provando Realizações de Currículo com 'Números'\""
+title: "Prompt de Técnica STAR: Comprovando Realizações no Currículo com 'Números'"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emprego & Carreira"
-description: " \"Transforme o texto simples do seu currículo em tópicos atraentes e focados em realizações aplicando a técnica STAR (Situação, Tarefa, Ação, Resultado).\""
+description: "Transforme o texto simples do seu currículo em tópicos atraentes e focados em realizações com a técnica STAR (Situação, Tarefa, Ação, Resultado)."
 tags: ["Currículo", "MétodoSTAR", "PrepEmprego", "QuantificarRealização"]
 ---
 
-# 📝 Prompt de Técnica STAR: Provando Realizações de Currículo com 'Números'
+## 📝 Prompt de Técnica STAR: Comprovando Realizações no Currículo com 'Números'
 
 - **🎯 Recomendado para:** Todos os profissionais, candidatos a vagas de emprego, recrutadores
 - **⏱️ Tempo de execução:** 5 minutos
@@ -21,15 +21,15 @@ tags: ["Currículo", "MétodoSTAR", "PrepEmprego", "QuantificarRealização"]
 
 > _"Trabalhei duro durante anos, mas na hora de escrever o currículo, só consigo pensar em palavras genéricas como 'participei', 'ajudei' ou 'fiquei encarregado'?"_
 
-Os recrutadores não querem saber apenas quais eram as suas responsabilidades diárias; eles querem saber **o quão bem** você as executou e qual foi o impacto do seu trabalho. Transforme descrições vagas em frases afiadas, focadas em números e realizações, utilizando a consagrada técnica STAR (Situação, Tarefa, Ação, Resultado).
+Recrutadores não buscam apenas uma lista das suas responsabilidades diárias; eles querem descobrir **o quão bem** você as executou e qual foi o real impacto do seu trabalho. Transforme descrições vagas em frases afiadas e baseadas em dados concretos, utilizando a consagrada técnica STAR (Situação, Tarefa, Ação, Resultado).
 
 ---
 
 ## ⚡️ Resumo em 3 linhas (TL;DR)
 
-1. Estruture as suas experiências profissionais de forma estratégica e lógica utilizando o método STAR.
-2. Converta conquistas subjetivas e qualitativas em métricas quantitativas (%, valores, tempo economizado) sempre que possível.
-3. Crie tópicos de impacto ("Bullet Points") que os recrutadores consigam ler, compreender e valorizar em apenas 3 segundos.
+1. Estruture suas experiências profissionais de forma estratégica e lógica com o método STAR.
+2. Transforme conquistas subjetivas em métricas quantitativas (%, receitas, horas economizadas) sempre que possível.
+3. Crie tópicos de impacto ("Bullet Points") que os recrutadores consigam ler, compreender e valorizar em meros 3 segundos.
 
 ---
 
@@ -37,15 +37,14 @@ Os recrutadores não querem saber apenas quais eram as suas responsabilidades di
 
 ### 🥉 Versão Básica (Resultados Rápidos)
 
-Use esta versão quando precisar apenas de uma formatação rápida para o seu rascunho.
+Utilize esta versão quando precisar apenas de uma formatação rápida para o seu rascunho inicial.
 
 > **Papel:** Você é um headhunter sênior com 15 anos de experiência e um especialista em consultoria e revisão de currículos.
 > **Tarefa:** Transforme este texto simples de experiência profissional em tópicos atraentes e orientados para realizações, aplicando rigorosamente a técnica STAR (Situação, Tarefa, Ação, Resultado).
 
-
 ### 🥇 Versão Pro (Nível Especialista)
 
-Use esta versão para extrair o máximo de qualidade, detalhamento e impacto do seu histórico profissional.
+Utilize esta versão para extrair o máximo de qualidade, detalhamento e impacto do seu histórico profissional.
 
 > **Papel (Role):** Você é um headhunter sênior com 15 anos de experiência e um especialista renomado em consultoria de currículos corporativos.
 >
@@ -65,17 +64,17 @@ Use esta versão para extrair o máximo de qualidade, detalhamento e impacto do 
 >
 > **Restrições (Constraints):**
 >
-> - Exclua imediatamente expressões vagas e passivas como "trabalhei duro", "ajudei", "participei" ou "contribuí".
-> - Inicie cada tópico recomendando obrigatoriamente com um Verbo de Ação forte no passado. (Ex: Liderei, Alcancei, Otimizei, Melhorei, Implementei).
+> - Remova imediatamente expressões vagas e passivas como "trabalhei duro", "ajudei", "participei" ou "contribuí".
+> - Inicie cada tópico recomendado obrigatoriamente com um Verbo de Ação forte no passado (Ex: Liderei, Alcancei, Otimizei, Melhorei, Implementei).
 > - Apresente a saída dividida claramente nas seções: [Análise STAR] e [Tópicos Recomendados].
 
 ---
 
 ## 💡 Insight do Autor (Writer's Insight)
 
-O erro mais comum que vejo em currículos, seja de profissionais juniores ou seniores, é focar excessivamente nas "responsabilidades" (o que a empresa pediu para você fazer) em vez dos "resultados" (o que você efetivamente entregou).
+O erro mais comum que observo em currículos — tanto de profissionais juniores quanto de seniores — é o foco excessivo nas "responsabilidades" (aquilo que a empresa pediu para você fazer) em detrimento dos "resultados" (o que você efetivamente entregou).
 
-Este prompt é uma verdadeira virada de chave porque força a IA a pensar como um Headhunter implacável. Mesmo que você tenha fornecido dados vagos, o comando para "sugerir indicadores estimáveis" ajuda a refrescar a sua memória. Por exemplo, você pode não lembrar o valor exato em vendas, mas lembrará que as vendas dobraram naquele trimestre. Esse é o gatilho mental que transforma um currículo "ok" em um documento magnético que garante entrevistas.
+Este prompt é um verdadeiro divisor de águas, pois obriga a IA a pensar como um Headhunter implacável. Mesmo que você forneça dados vagos, a instrução para "sugerir indicadores estimáveis" ajudará a refrescar a sua memória. Talvez você não se lembre do valor exato em vendas, mas lembrará que elas dobraram naquele trimestre. Esse é o gatilho mental que transforma um currículo mediano em um documento magnético, capaz de garantir entrevistas.
 
 ---
 
@@ -83,10 +82,8 @@ Este prompt é uma verdadeira virada de chave porque força a IA a pensar como u
 
 - **P: E se eu não tiver números exatos para colocar no currículo?**
   - R: É normal não ter acesso a todos os dados precisos após sair de uma empresa. Use aproximações conservadoras, seguras e justas (ex: "crescimento de aproximadamente 20%", "gestão de mais de 50 clientes"). A IA (na Versão Pro) irá sugerir exatamente quais tipos de métricas você deve tentar estimar com base na sua narrativa.
-
 - **P: Posso usar este prompt para preparar as minhas respostas para entrevistas em vídeo ou presenciais?**
   - R: Absolutamente! A técnica STAR é o padrão ouro global para entrevistas comportamentais. Você pode pedir à IA para converter o texto gerado em um "roteiro de fala de 2 minutos" em vez de tópicos curtos para o currículo.
-
 - **P: Funciona perfeitamente em português do Brasil e de Portugal?**
   - R: Sim, os modelos de IA atuais adaptam-se muito bem à sua variante do idioma com base no seu texto de entrada. Se preferir garantir a consistência máxima, adicione uma restrição extra no final do prompt: _"Responda utilizando o vocabulário corporativo de Portugal"_ ou _"Responda em Português do Brasil"_.
 
@@ -96,7 +93,7 @@ Este prompt é uma verdadeira virada de chave porque força a IA a pensar como u
 
 1. **Role Playing Extremamente Específico:** Ao definir a IA como um "headhunter sênior com 15 anos de experiência", calibramos o tom para ser corporativo, exigente e perfeitamente alinhado com o que o mercado de trabalho espera ler.
 2. **Foco Forçado em Métricas:** A restrição explícita para enfatizar números na fase de 'Resultado' evita que a IA gere textos genéricos e poéticos, forçando a extração e o destaque de dados quantitativos.
-3. **Proibição de Termos Passivos:** Banir preventivamente palavras como "participei" ou "ajudei" garante que o resultado final utilize **verbos de ação** poderosos, que denotam liderança, proatividade e ownership.
+3. **Proibição de Termos Passivos:** Banir preventivamente palavras como "participei" ou "ajudei" garante que o resultado final utilize **verbos de ação** poderosos, que denotam liderança, proatividade e *ownership*.
 
 ---
 
@@ -121,6 +118,6 @@ Muitas pessoas participaram, ganhamos mais seguidores e fui elogiado pelo meu ge
 
 ## 🎯 Conclusão
 
-O seu currículo não é o lugar para ser excessivamente humilde; é o seu panfleto de vendas profissional. É o documento onde você deve provar o valor do seu suor e dedicação usando fatos, ações e dados concretos. Este prompt simples é tudo o que você precisa para mudar o foco da sua carreira de "esforço rotineiro" para "impacto e resultados reais".
+Seu currículo não é o lugar adequado para o excesso de modéstia; ele é o seu panfleto de vendas profissional. Trata-se do documento onde você deve comprovar o valor do seu suor e dedicação valendo-se de fatos, ações e dados concretos. Este prompt simples é tudo o que você precisa para mudar a narrativa da sua carreira, deixando para trás a imagem de "esforço rotineiro" e projetando "impacto e resultados reais".
 
-Agora ajuste o seu currículo, destaque os seus números e vá garantir essa entrevista! 🚀
+Agora, ajuste o seu currículo, destaque os seus números e vá garantir essa entrevista! 🚀

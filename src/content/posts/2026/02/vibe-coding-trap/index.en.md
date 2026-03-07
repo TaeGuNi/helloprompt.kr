@@ -14,9 +14,9 @@ tags:
 image: "/images/placeholder.jpg"
 ---
 
-# 📝 The Trap of Vibe Coding: How AI is Ruining Your Development Skills {#vibe-coding}
+## 📝 The Trap of Vibe Coding: How AI is Ruining Your Development Skills {#vibe-coding}
 
-- **🎯 Recommended for:** Junior developers, AI-dependent programmers, and tech leads concerned about code quality
+- **🎯 Recommended for:** Junior developers, AI-reliant programmers, and tech leads concerned about code quality
 - **⏱️ Time required:** 10 minutes → Reduced to 1 minute (Frees up time for critical thinking)
 - **🤖 Recommended AI:** Any conversational AI with strong logical reasoning (Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro)
 
@@ -92,7 +92,7 @@ A robust, two-step prompt that forces you to weigh trade-offs before implementin
 
 Recently, I also fell prey to the sweet allure of vibe coding while throwing together a small CLI tool. The first 30 minutes delivered a massive dopamine rush. But the moment I had to swap out a core dependency, the gates of hell opened. The codebase was pure spaghetti—a chaotic mix of AI hallucinations and inconsistent design patterns. Debugging was practically impossible, and I ended up having to nuke the repository and rewrite it from scratch.
 
-**AI is a power tool, much like a chainsaw.** In the hands of a skilled carpenter, its efficiency is unparalleled. But if you wield it without safety gear—your intellect and fundamental engineering skills—you will end up butchering the entire project. Never hand over the steering wheel of your entire codebase to an AI. Even if writing it properly takes a bit longer upfront, the visceral sense of _absolute control_ over your logic and architecture remains the true hallmark of a senior engineer.
+**AI is a power tool, much like a chainsaw.** In the hands of a skilled carpenter, its efficiency is unparalleled. But if you wield it without safety gear—your intellect and fundamental engineering skills—you will end up butchering the entire project. Never hand over the steering wheel of your entire codebase to an AI. Even if writing it properly takes a bit longer upfront, the visceral sense of **absolute control** over your logic and architecture remains the true hallmark of a senior engineer.
 
 ---
 

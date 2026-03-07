@@ -1,15 +1,15 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Emergency Fund Seatbelt: Calculating My Optimal Emergency Fund\""
+title: "Emergency Fund Seatbelt: Calculating Your Optimal Safety Net"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investment"
-description: " \"Calculate the exact size of the emergency fund you need to survive sudden job loss or unexpected accidents without shaking your financial foundation.\""
+description: "Calculate the exact size of the emergency fund you need to survive sudden job loss or unexpected accidents without shaking your financial foundation."
 tags: ["EmergencyFund", "FinancialManagement", "RiskManagement", "Savings"]
 ---
 
-# 📝 Emergency Fund Seatbelt: Calculating Your Optimal Safety Net
+## 📝 Emergency Fund Seatbelt: Calculating Your Optimal Safety Net
 
 - **🎯 Recommended For:** Freelancers, young professionals, and anyone seeking financial security
 - **⏱️ Time Required:** 5 minutes
@@ -21,7 +21,7 @@ tags: ["EmergencyFund", "FinancialManagement", "RiskManagement", "Savings"]
 
 > _"Are you just blindly hoarding cash for a rainy day? Idle money is losing value to inflation every single second."_
 
-If you don't have an emergency fund, a single unexpected event can force you into high-interest credit card loans or overdrafts, instantly ruining your financial health. Conversely, keeping too much cash uninvested means your wealth is melting away due to inflation. Let's calculate the **'Golden Ratio Emergency Fund'** tailored precisely to your job stability and monthly fixed expenses.
+If you don't have an emergency fund, a single unexpected event can force you into high-interest credit card debt or overdrafts, instantly ruining your financial health. Conversely, keeping too much cash uninvested means your wealth is melting away due to inflation. Let's calculate the **"Golden Ratio Emergency Fund"** tailored precisely to your job stability and monthly fixed expenses.
 
 ---
 
@@ -40,8 +40,8 @@ If you don't have an emergency fund, a single unexpected event can force you int
 Use this when you just need a quick, rough estimate.
 
 > **Role:** You are a financial risk management expert.
+>
 > **Request:** Calculate the optimal emergency fund size I need to survive a sudden job loss or accident without financial distress.
-
 
 ### 🥇 Pro Version (Expert)
 
@@ -76,7 +76,7 @@ Use this when you need a highly tailored, actionable financial plan.
 
 ## 💡 Writer's Insight
 
-Building an emergency fund isn't just about math; it's about psychological freedom. As a freelancer, I used to panic every time a client delayed payment. Once I built a 6-month safety net using this exact prompt structure, my negotiation power skyrocketed because I was no longer desperate for every gig. I highly recommend parking this fund in a High-Yield Savings Account (HYSA). It keeps the money highly liquid while combating inflation better than a traditional checking account. Don't let your emergency fund sit at 0.01% APY!
+Building an emergency fund isn't just about math; it's about psychological freedom. As a freelancer, I used to panic every time a client delayed payment. Once I built a 6-month safety net using this exact prompt structure, my negotiation power skyrocketed because I was no longer desperate for every gig. I highly recommend parking this fund in a **High-Yield Savings Account (HYSA)**. It keeps the money highly liquid while combating inflation far better than a traditional checking account. Don't let your emergency fund sit at a miserable 0.01% APY!
 
 ---
 
@@ -86,13 +86,13 @@ Building an emergency fund isn't just about math; it's about psychological freed
   - A: It's generally recommended to save a starter emergency fund (e.g., $1,000 to $2,000) first to prevent going further into debt when emergencies arise. After that, focus on paying off high-interest toxic debt (like credit cards) before fully funding your 3-6 month safety net.
 
 - **Q: Can I invest my emergency fund in an S&P 500 index fund?**
-  - A: Absolutely not. Emergency funds must be highly liquid and insulated from market volatility. If the stock market crashes at the same time you lose your job, you'd be forced to sell your investments at a massive loss. Stick to HYSAs or Money Market Accounts.
+  - A: Absolutely not. Emergency funds must be highly liquid and insulated from market volatility. If the stock market crashes at the exact same time you lose your job, you'd be forced to sell your investments at a massive loss. Stick to HYSAs or Money Market Accounts.
 
 ---
 
 ## 🧬 Prompt Anatomy (Why it works?)
 
-1. **Contextual Anchoring:** By specifying both the profession (`freelance graphic designer`) and exact `monthly fixed expenses`, the AI shifts from giving generic advice to performing a customized risk assessment.
+1. **Contextual Anchoring:** By specifying both the profession (`[freelance graphic designer]`) and exact `[monthly fixed expenses]`, the AI shifts from giving generic advice to performing a customized risk assessment.
 2. **Clear Constraints:** The prompt explicitly forbids locking the money away and enforces a conservative approach suited for unstable income, preventing the AI from suggesting inappropriate, illiquid investments like CDs.
 
 ---

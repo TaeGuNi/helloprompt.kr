@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Karriere & Jobwechsel"
-description: "Verzehnfachen Sie Ihre Jobangebote: Erstellen Sie mit diesem Prompt eine SEO-optimierte Überschrift und einen unwiderstehlichen Info-Bereich für Ihr LinkedIn-Profil."
+description: "Verzehnfachen Sie Jobangebote: Erstellen Sie mit diesem Prompt eine SEO-optimierte Headline und einen unwiderstehlichen Info-Bereich für Ihr Profil."
 tags: ["LinkedIn", "Profiloptimierung", "Headhunting", "Personal Branding"]
 ---
 
-# 📝 LinkedIn-Profiloptimierungs-Prompt: So stehen Headhunter bei Ihnen Schlange
+## 📝 LinkedIn-Profiloptimierungs-Prompt: So stehen Headhunter bei Ihnen Schlange
 
 - **🎯 Empfohlene Zielgruppe:** Berufstätige, Jobsuchende, Freelancer
 - **⏱️ Zeitaufwand:** 5 Minuten
@@ -40,6 +40,7 @@ LinkedIn ist längst kein schnöder digitaler Lebenslauf mehr, sondern eine **ho
 Nutzen Sie diesen Prompt für schnelle und unkomplizierte Ergebnisse.
 
 > **Rolle:** Du bist ein globaler Personalberater und Top-Experte für LinkedIn-SEO.
+> 
 > **Anfrage:** Optimiere mein LinkedIn-Profil (Überschrift und Info-Bereich) für Suchmaschinen, um meine Jobangebote zu verzehnfachen. Meine aktuelle Rolle ist `[Deine aktuelle Rolle]` und meine Kernkompetenzen sind `[Deine Kernkompetenzen]`.
 
 ### 🥇 Pro Version (Experten-Prompt)
@@ -85,10 +86,8 @@ Dieser Prompt ist deshalb ein absoluter Gamechanger, weil er die KI dazu zwingt,
 
 - **Q: Sollte ich mein Profil lieber auf Deutsch oder auf Englisch verfassen?**
   - A: Das hängt stark von Ihrer Zielbranche ab. Wenn Sie internationale Remote-Jobs oder Positionen bei globalen Konzernen anstreben, ist Englisch absolute Pflicht. Für rein regionale mittelständische Unternehmen ist Deutsch oft die bessere Wahl. Der Pro-Prompt liefert Ihnen glücklicherweise direkt beide Versionen, sodass Sie die Zweisprachigkeits-Funktion von LinkedIn optimal ausreizen können.
-
 - **Q: Ist ein Text von 300 Wörtern für den Info-Bereich nicht viel zu lang?**
   - A: Nein. LinkedIn kappt die Anzeige standardmäßig nach den ersten drei Zeilen (daher der starke Hook!). Wer auf "Mehr anzeigen" klickt, ist bereits an Ihnen interessiert und verlangt nach Details. Zudem bietet mehr Text auch mehr wertvolle Angriffsfläche für relevante SEO-Keywords.
-
 - **Q: Kann die KI auch meine bisherigen Berufserfahrungen (Experience) optimieren?**
   - A: Absolut! Sie können den Prompt nahtlos erweitern, indem Sie unter "Aufgabe" hinzufügen: _"Optimiere auch meine 3 letzten Job-Stationen und formuliere meine Aufgaben als messbare Erfolge im Bullet-Point-Format."_
 

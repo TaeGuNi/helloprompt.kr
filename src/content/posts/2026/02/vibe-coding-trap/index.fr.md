@@ -1,6 +1,6 @@
 ---
 title: " \"바이브 코딩(Vibe Coding)의 함정: AI가 당신의 개발 실력을 망치고 있다\""
-description: " Le « Vibe Coding » fonctionne comme une addiction aux jeux d'argent. Découvrez 3 méthodes pour exploiter l'IA tout en forgeant de véritables compétences d'ingénieur."
+description: "Le « Vibe Coding » agit comme une addiction au jeu. Découvrez 3 méthodes pour exploiter l'IA tout en forgeant de véritables compétences d'ingénieur."
 author: "Hello Prompt AI"
 date: "2026-02-16"
 tags:
@@ -14,7 +14,7 @@ tags:
 image: "/images/placeholder.jpg"
 ---
 
-# 📝 Le Piège du Vibe Coding : Comment l'IA Détruit Vos Compétences en Développement {#vibe-coding}
+## 📝 Le Piège du Vibe Coding : Comment l'IA Détruit Vos Compétences en Développement {#vibe-coding}
 
 - **🎯 Recommandé pour :** Développeurs juniors, programmeurs trop dépendants de l'IA, Tech Leads soucieux de la qualité du code
 - **⏱️ Temps requis :** 10 minutes → Réduit à 1 minute (Libère du temps pour la réflexion architecturale)
@@ -26,11 +26,11 @@ image: "/images/placeholder.jpg"
 
 > _"Si vous êtes incapable d'expliquer le fonctionnement de votre code, vous n'êtes plus un ingénieur, mais un joueur compulsif actionnant la machine à sous de l'IA."_
 
-Le « Vibe Coding » est le nouveau mot à la mode qui déferle sur la Silicon Valley. Le concept ? Plutôt que de concevoir l'architecture de son code, on balance un prompt à l'IA et, si le résultat a l'air de fonctionner (si la « vibe » est bonne), on déploie directement en production. Même d'éminents experts comme Andrej Karpathy soulignent cette tendance : coder avec l'assistance de l'IA semble relever de la magie et s'avère incroyablement pratique.
+Le « Vibe Coding » est la nouvelle tendance qui fait fureur dans la Silicon Valley. Le concept ? Au lieu de concevoir rigoureusement l'architecture de son application, on lance un prompt à l'IA et, si le résultat semble fonctionner (si la « vibe » est bonne), on le déploie directement en production. Même des experts de renom comme Andrej Karpathy soulignent cette évolution : coder avec l'assistance de l'IA donne l'impression de faire de la magie et s'avère incroyablement grisant.
 
-Cependant, [une récente analyse de fast.ai](https://www.fast.ai/posts/2026-01-28-dark-flow/) tire la sonnette d'alarme face à cette douce illusion. Ses auteurs qualifient le Vibe Coding de **« Junk Flow » (Flux poubelle)**. Le mécanisme psychologique à l'œuvre est en tout point identique à celui de l'addiction aux jeux d'argent : on se donne l'illusion de « gagner » en enchaînant de petites victoires à la machine à sous, alors qu'en réalité, on hypothèque lourdement son avenir.
+Cependant, [une récente analyse de fast.ai](https://www.fast.ai/posts/2026-01-28-dark-flow/) tire la sonnette d'alarme face à cette douce illusion. Ses auteurs qualifient le Vibe Coding de **« Junk Flow » (Flux poubelle)**. Le mécanisme psychologique à l'œuvre est en tout point identique à celui de l'addiction aux jeux d'argent : on se donne l'illusion de « gagner » en enchaînant de petites victoires à la machine à sous, alors qu'en réalité, on hypothèque lourdement son avenir technique.
 
-La statistique la plus glaçante est la suivante : **les développeurs qui utilisent l'IA de manière aveugle ont l'impression d'être 20 % plus rapides, mais leur véritable vitesse d'exécution chute en réalité de 19 %.** Si vous vous contentez de suivre la « vibe » sans comprendre les rouages intimes de votre base de code, vous amorcez une véritable bombe à retardement de dette technique. Cet article vous dévoile des stratégies de prompt implacables pour vous extirper du bourbier du Vibe Coding et exploiter l'IA afin de devenir un véritable maître de l'ingénierie logicielle.
+La statistique la plus glaçante est la suivante : **les développeurs qui utilisent l'IA de manière aveugle ont l'impression d'être 20 % plus rapides, mais leur véritable vitesse d'exécution chute en réalité de 19 %.** Si vous vous contentez de suivre la « vibe » sans comprendre les rouages intimes de votre base de code, vous amorcez une véritable bombe à retardement sous forme de dette technique. Cet article vous dévoile des stratégies de prompt implacables pour vous extirper du bourbier du Vibe Coding et utiliser l'IA pour devenir un véritable maître de l'ingénierie logicielle.
 
 ---
 

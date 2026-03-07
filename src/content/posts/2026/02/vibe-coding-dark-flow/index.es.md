@@ -6,23 +6,23 @@ category: AI Engineering
 tags: [AI, coding, productivity, prompt-engineering, psychology]
 ---
 
-# 📝 La trampa del «Vibe Coding»: Cómo escapar del «Dark Flow» al programar con IA
+## 📝 La trampa del «Vibe Coding»: Cómo escapar del «Dark Flow» al programar con IA
 
-- **🎯 Público objetivo:** Desarrolladores Junior y Semi-Senior, usuarios de asistentes de IA como Cursor o Copilot.
-- **⏱️ Tiempo ahorrado:** De 1 hora de depuración a 3 minutos.
+- **🎯 Público objetivo:** Desarrolladores Junior y Semi-Senior, así como usuarios de asistentes de IA como Cursor o Copilot.
+- **⏱️ Tiempo ahorrado:** De 1 hora de depuración a solo 3 minutos.
 - **🤖 Modelo recomendado:** Cualquier modelo conversacional avanzado (GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro).
 
 - ⭐ **Dificultad:** ⭐⭐☆☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"Ese subidón de dopamina cuando la IA te escupe 200 líneas de código impecable con un solo prompt... ¿Estás programando de verdad, o simplemente estás tirando de la palanca de una máquina tragamonedas?"_
+> _"Ese subidón de dopamina cuando la IA te escupe 200 líneas de código que parece impecable con un solo prompt... ¿De verdad estás programando, o simplemente estás tirando de la palanca de una máquina tragamonedas?"_
 
 Últimamente, el concepto de *Vibe Coding* (programar dejándose llevar por la intuición) ha cobrado muchísima fuerza en el ecosistema del desarrollo asistido por IA. Nos referimos a esa peligrosa práctica de avanzar a ciegas en un proyecto, confiando únicamente en la «sensación» de que el código generado funciona, sin llegar a comprender jamás su lógica subyacente.
 
-Sin embargo, diversos estudios en psicología advierten que este estado se asemeja peligrosamente al **Dark Flow (Flujo Oscuro)**, un fenómeno muy común en la adicción a los juegos de azar. Cada vez que la IA te escupe un bloque de código que compila a la primera, tu cerebro lo procesa como una gran «victoria». Pero en las sombras, lo único que estás haciendo es acumular una deuda técnica monumental y atrofiar tu propio criterio como ingeniero. Es el clásico espejismo de **una derrota disfrazada de victoria (Loss Disguised as a Win)**.
+Sin embargo, diversos estudios de psicología advierten que este estado se asemeja peligrosamente al **Dark Flow (Flujo Oscuro)**, un fenómeno muy común en la adicción a los juegos de azar. Cada vez que la IA te escupe un bloque de código que compila a la primera, tu cerebro lo procesa como una gran «victoria». Pero en las sombras, lo único que estás haciendo es acumular una deuda técnica monumental y atrofiar tu propio criterio como ingeniero. Es el clásico espejismo de **una derrota disfrazada de victoria (Loss Disguised as a Win)**.
 
-Hoy te traigo un prompt diseñado específicamente para romper este nocivo hechizo. En lugar de confiar ciegamente en la máquina, este sistema la transformará en un **Auditor de Código Implacable**, devolviéndote así el control absoluto sobre tu arquitectura.
+Hoy te traigo un prompt diseñado específicamente para romper este nocivo hechizo. En lugar de confiar ciegamente en la máquina, este sistema la transformará en un **Auditor de Código Implacable**, devolviéndote el control absoluto sobre tu arquitectura.
 
 ---
 
@@ -66,42 +66,42 @@ Ejecuta este prompt justo después de que la IA te entregue un bloque de código
 >
 > ## 🚨 Hallazgos Críticos (Critical Findings)
 >
-> - [Fallo crítico 1]
-> - [Fallo crítico 2]
+> - `[Fallo crítico 1]`
+> - `[Fallo crítico 2]`
 >
 > ## 🐛 Escenarios de fallo por Edge Cases
 >
-> - **Caso 1:** [Situación particular] -> [Fallo resultante y causa raíz]
-> - **Caso 2:** [Situación particular] -> [Fallo resultante y causa raíz]
-> - **Caso 3:** [Situación particular] -> [Fallo resultante y causa raíz]
+> - **Caso 1:** `[Situación particular]` -> `[Fallo resultante y causa raíz]`
+> - **Caso 2:** `[Situación particular]` -> `[Fallo resultante y causa raíz]`
+> - **Caso 3:** `[Situación particular]` -> `[Fallo resultante y causa raíz]`
 >
-> ## 🧹 Puntuación de mantenibilidad: [0-100] puntos
+> ## 🧹 Puntuación de mantenibilidad: `[0-100]` puntos
 >
-> [Una sentencia lapidaria y brutal justificando la puntuación]
+> `[Una sentencia lapidaria y brutal justificando la puntuación]`
 >
 > **Datos de entrada:**
 >
 > - **Fragmento de código:**
 >
 >
-> [Pega aquí el código que deseas someter a auditoría]
+> `[Pega aquí el código que deseas someter a auditoría]`
 
 ---
 
 ## 💡 Comentario del autor (Insight)
 
-La verdadera magia de este prompt radica en forzar un **cambio de contexto (Context Switching)** de lo más brusco.
-Cuando delegamos la escritura de código a la IA, entramos en un bucle dopaminérgico inconsciente: "Generar -> Ejecutar -> Generar". Al interponer este prompt, tiramos del freno de emergencia del "Sistema 1" de nuestro cerebro (el rápido, intuitivo y complaciente) y despertamos a la fuerza a nuestro "Sistema 2" (el lento, analítico y sumamente crítico).
+La verdadera magia de este prompt radica en forzar un **cambio de contexto (Context Switching)** tremendamente brusco.
+Cuando delegamos la escritura de código a la IA, entramos en un bucle de dopamina casi inconsciente: "Generar -> Ejecutar -> Generar". Al interponer este prompt, tiramos del freno de emergencia del "Sistema 1" de nuestro cerebro (el rápido, intuitivo y complaciente) y despertamos a la fuerza a nuestro "Sistema 2" (el lento, analítico y sumamente crítico).
 
 Hazte siempre esta pregunta: *"¿Soy dueño de este código, o el código es dueño de mí?"*.
-Ese instante de euforia en el que el código generado por la IA parece "demasiado perfecto" es exactamente el momento en el que deben saltar todas tus alarmas. La ingeniería de software no es magia negra; es una disciplina estricta basada en gestionar restricciones, prever puntos únicos de fallo y asumir *trade-offs* a nivel arquitectónico.
+Ese instante de euforia en el que el código generado por la IA parece "demasiado perfecto" es exactamente el momento en el que deben saltar todas tus alarmas. La ingeniería de software no es magia negra; es una disciplina estricta basada en gestionar restricciones, prever puntos únicos de fallo y asumir concesiones (*trade-offs*) a nivel arquitectónico.
 
 ---
 
 ## 🙋 Preguntas frecuentes (FAQ)
 
 - **Q: ¿Es posible que la IA se invente problemas o señale fallos que no existen?**
-  - A: Absolutamente. Nuestro "Auditor Implacable" también puede sufrir alucinaciones y proponer *edge cases* absurdos. Sin embargo, el objetivo de este prompt no es que acates su veredicto como si fuera una verdad absoluta, sino **obligarte a ti, como ingeniero, a releer y cuestionar tu propia base de código con una mirada crítica**.
+  - A: Absolutamente. Nuestro "Auditor Implacable" también puede sufrir alucinaciones y proponer *edge cases* completamente absurdos. Sin embargo, el objetivo de este prompt no es que acates su veredicto como si fuera una verdad absoluta, sino **obligarte a ti, como ingeniero, a releer y cuestionar tu propia base de código con una mirada crítica**.
 
 - **Q: ¿Por qué no le ordeno que arregle el código directamente y me ahorro el paso?**
   - A: Porque si le pides la solución en bandeja de plata, volverás a caer de lleno en la trampa del *"Vibe Coding"*. Recibir únicamente el diagnóstico crudo y verte forzado a trazar tú mismo la estrategia de refactorización —o a diseñar un nuevo prompt específico para corregirlo— es lo que verdaderamente desarrollará tu "músculo" como ingeniero de software.

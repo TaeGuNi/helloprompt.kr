@@ -5,13 +5,13 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "디자인/UX"
-description: " \"How to synchronize Figma variables with CSS variables. A complete guide to building a token-based design system.\""
+description: "How to synchronize Figma variables with CSS variables. A complete guide to building a token-based design system."
 tags: ["디자인시스템", "Figma", "CSS", "UI-UX", "협업"]
 ---
 
-# 🎨 Building a Design System: How Designers and Developers Can Stop Fighting
+## 🎨 Building a Design System: How Designers and Developers Can Stop Fighting
 
-- **🎯 Recommended for:** Developers tired of hearing "the button color doesn't match the design," and Designers frustrated that "developers ruined my design."
+- **🎯 Recommended for:** Developers tired of hearing "the button color doesn't match the design," and designers frustrated that "the developers ruined my design."
 - **⏱️ Time Required:** 10 minutes → Reduced to 1 minute (Initial token design & automated code conversion)
 - **🤖 Recommended AI:** ChatGPT-4o, Claude 3.5 Sonnet (For architecture design & code generation)
 
@@ -21,15 +21,15 @@ tags: ["디자인시스템", "Figma", "CSS", "UI-UX", "협업"]
 
 > _"Wasn't the Primary Color `#0055FF`? Why is it `#0050FF` here?"_
 
-Hardcoded colors and spacing values scattered across your codebase are the primary culprits behind maintenance nightmares. It's time to adopt **Design Tokens**. This is the most reliable contract for defining and sharing all visual elements—colors, typography, spacing, shadows—as meaningful variables. Once a token-based system is established, you will experience the magic of automatic code synchronization the moment a designer updates a value in Figma.
+Hardcoded colors and absolute spacing values scattered across your codebase are the primary culprits behind maintenance nightmares. It's time to adopt **Design Tokens**. Think of tokens as the ultimate single source of truth—a reliable contract that defines and shares all visual elements, from colors and typography to spacing and shadows, as meaningful variables. Once you establish a token-based system, you'll experience the magic of automatic code synchronization the exact moment a designer updates a value in Figma.
 
 ---
 
 ## ⚡️ 3-Line Summary (TL;DR)
 
-1. **Tokenize Your Design:** Instead of relying on absolute hex values like `#0055FF`, use a shared, semantic language like `primary-500`.
-2. **Apply Figma Variables:** Leverage Figma's Variables and Styles features to define visual properties as systematic tokens.
-3. **Automate Code Sync:** Automatically convert extracted token data into a `tailwind.config.ts` file or global CSS variables to apply them directly to your project's codebase.
+1. **Tokenize Your Design:** Stop relying on absolute hex values like `#0055FF` and start using a shared, semantic language like `primary-500`.
+2. **Apply Figma Variables:** Leverage Figma's native Variables and Styles features to define your visual properties as a systematic hierarchy of tokens.
+3. **Automate Code Sync:** Automatically convert extracted token data into a `tailwind.config.ts` file or global CSS variables, applying them directly to your codebase without manual data entry.
 
 ---
 
@@ -37,24 +37,23 @@ Hardcoded colors and spacing values scattered across your codebase are the prima
 
 ### 🥉 Basic Version
 
-Use this prompt when you are struggling to structure your initial color palette and figure out variable naming conventions.
+Use this prompt when you're struggling to structure your initial color palette and need help establishing a logical naming convention for your variables.
 
 > **Task:**
 > I am planning a design system color palette for a new product.
-> I want to divide the `[Primary (Blue)]`, `[Secondary (Gray)]`, and `[Error (Red)]` colors into 9 steps each, from 100 to 900.
-> Please recommend the hex codes for each step in a table format, along with intuitive and semantic variable names (e.g., `text-primary`, `bg-surface-default`) so that these colors can be directly applied to the codebase.
-
+> I want to divide the `[Primary (Blue)]`, `[Secondary (Gray)]`, and `[Error (Red)]` colors into 9 steps each, ranging from 100 to 900.
+> Please recommend the hex codes for each step in a table format, along with intuitive and semantic variable names (e.g., `text-primary`, `bg-surface-default`) so that these colors can be seamlessly integrated into our codebase.
 
 ### 🥇 Pro Version
 
-Use this prompt to perfectly convert token JSON data extracted from Figma into code tailored for an actual frontend environment.
+Use this advanced prompt to perfectly translate raw token JSON data extracted from Figma into production-ready code tailored for your frontend environment.
 
 > **Role:** You are a senior Design Ops engineer with 10 years of experience and a Frontend Architect.
 >
 > **Context:**
 >
-> - Background: A designer has defined design tokens in Figma and exported them as JSON.
-> - Objective: Perfectly convert this JSON data into code that can be immediately applied to a frontend project.
+> - Background: A product designer has defined our design tokens in Figma and exported them as a JSON file.
+> - Objective: Perfectly convert this JSON data into production-ready code that can be immediately applied to our frontend project.
 >
 > **Input Data:**
 >
@@ -63,8 +62,8 @@ Use this prompt to perfectly convert token JSON data extracted from Figma into c
 > **Task:**
 >
 > 1. Analyze the input data and convert it into the format of a modern **Tailwind CSS configuration file (`tailwind.config.ts`)**.
-> 2. Also, write the **CSS Variables (`:root { --color-blue-500: ... }`)** code so that it is not dependent on a specific CSS framework.
-> 3. Add a strategy and example code for dark mode support (`@media (prefers-color-scheme: dark)` or the `.dark` class) to adapt seamlessly to system themes.
+> 2. Additionally, generate the raw **CSS Variables (`:root { --color-blue-500: ... }`)** code so that the system remains independent of any specific CSS framework.
+> 3. Provide a strategy and example code for robust dark mode support (` @public/images/hooks/social-media-planner.jpg (prefers-color-scheme: dark)` or the `.dark` class) to adapt seamlessly to system themes.
 >
 > **Constraints:**
 >
@@ -73,32 +72,32 @@ Use this prompt to perfectly convert token JSON data extracted from Figma into c
 >
 > **Warning:**
 >
-> - Do not invent arbitrary color values or steps outside of the provided JSON structure. (Prevent hallucination)
+> - Do not invent arbitrary color values or add scaling steps outside of the provided JSON structure. (Prevent hallucination)
 
 ---
 
 ## 💡 Writer's Insight
 
-Building a design system is not about creating a massive master plan and finishing it all at once. If you try to fully tokenize every single component and typography rule from the start, you will highly likely burn out and give up.
-I strongly recommend an **Incremental Adoption** strategy: start by replacing the **"most frequently and repetitively used elements"** (e.g., the background color of a Primary Button, body text color) with variables one by one.
-A single, small token will serve as the first step toward dramatically reducing unnecessary communication overhead between designers and developers.
+Building a design system doesn't mean drafting a massive master plan and executing it all at once. If you try to fully tokenize every single component and typography rule from day one, you'll likely burn out and abandon the project.
+
+I strongly recommend an **Incremental Adoption** strategy. Start by replacing the **"most frequently and repetitively used elements"**—like the background color of a Primary Button or your core body text color—with variables, one by one. A single, well-defined token acts as the crucial first step toward dramatically reducing unnecessary communication overhead and friction between designers and developers.
 
 ---
 
 ## 🙋 Frequently Asked Questions (FAQ)
 
 - **Q: Which plugin should I use to export tokens from Figma?**
-  - A: In the industry, **'Tokens Studio for Figma'** is widely considered the de facto standard. It allows you to extract JSON and sync it directly with a GitHub repository. Recently, Figma's native Variables feature has also become much more powerful, making REST API integrations a popular trend as well.
+  - A: In the industry, **'Tokens Studio for Figma'** is widely considered the de facto standard. It allows you to extract your JSON tokens and sync them directly with a GitHub repository. Recently, Figma's native Variables feature has also become significantly more powerful, making direct REST API integrations a highly popular alternative.
 
 - **Q: We are a small startup with only 2-3 people. Do we really need a design system?**
-  - A: If your team has more than two people, or if the project's maintenance period exceeds three months, you absolutely must adopt one. The technical debt of saying "Let's organize this later when we have time" will eventually blow up and drastically slow down your project. After all, your "Future Self" is essentially a different person.
+  - A: If your team consists of more than two people, or if the project's maintenance lifecycle exceeds three months, you absolutely must adopt one. The technical debt incurred by saying "Let's organize this later when we have more time" will eventually snowball and drastically slow down your release velocity. Remember, your "Future Self" is essentially a different person who won't remember why you hardcoded that specific hex value.
 
 ---
 
 ## 🧬 Anatomy of the Prompt (Why it works?)
 
-1. **Forcing Semantic Naming:** It prompts the AI to use meaning-based naming like "main button background color (`bg-primary-default`)" instead of "light blue." This ensures that even if the brand color completely changes from blue to purple later, modifying a single hex value will instantly update the entire project.
-2. **Delegating Repetitive Format Conversion:** Manually typing and transferring JSON formats into Tailwind configuration objects or CSS variable syntax is a painful chore for humans. AI boasts overwhelming accuracy and speed in these pattern-based, simple code conversions and structuring tasks, completely eliminating human error.
+1. **Forcing Semantic Naming:** This prompt compels the AI to generate meaning-based nomenclature—like "main button background color (`bg-primary-default`)"—rather than literal descriptions like "light blue." This guarantees that even if the brand color completely pivots from blue to purple in the future, updating a single hex value will instantly and accurately reflect across the entire project.
+2. **Delegating Repetitive Format Conversion:** Manually transcribing JSON formats into Tailwind configuration objects or raw CSS variable syntax is a tedious, error-prone chore for humans. The AI handles these pattern-based, structural code conversions with overwhelming accuracy and speed, entirely eliminating the risk of human error.
 
 ---
 
@@ -106,7 +105,7 @@ A single, small token will serve as the first step toward dramatically reducing 
 
 ### ❌ Before (Input)
 
-Every time the design changes, you have to manually search for and replace hex codes across more than 100 files. 😱
+Every time the brand design changes, you're forced to manually search for and replace hex codes across more than 100 scattered files. 😱
 
 ```css
 .button-primary {
@@ -120,7 +119,7 @@ Every time the design changes, you have to manually search for and replace hex c
 
 ### ✅ After (Result)
 
-Modifying just a single variable value perfectly updates the UI of the entire product. 🚀
+Modifying just a single semantic variable value perfectly and instantly updates the UI across the entire product. 🚀
 
 ```css
 :root {
@@ -137,7 +136,8 @@ Modifying just a single variable value perfectly updates the UI of the entire pr
 
 ## 🎯 Conclusion
 
-The translator between design and development shouldn't be an emotional 'person', but a **'system'** with clear rules.
-Stop arguing over pixels and color values. Start communicating in the shared language of tokens.
+The translator bridging the gap between design and development shouldn't be an emotional human being; it should be a **'system'** governed by clear, undeniable rules.
+
+Stop arguing over stray pixels and mismatched color values. Start communicating in the shared, unified language of tokens.
 
 **"Hey developer, this isn't `gray-200`, it's `surface-subtle`. Please check the tokens."** 🍷

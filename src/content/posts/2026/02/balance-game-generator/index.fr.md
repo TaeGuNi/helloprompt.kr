@@ -9,7 +9,7 @@ description: "L'arme secrète pour briser la glace ! Générez à l'infini des d
 tags: ["Jeu", "JeuÉquilibre", "BriseGlace", "Humour", "Fête"]
 ---
 
-# 📝 Générateur de dilemmes : « Manger des ramens à vie vs Arrêter les sodas pour toujours »
+## 📝 Générateur de dilemmes : « Manger des ramens à vie vs Arrêter les sodas pour toujours »
 
 - **🎯 Recommandé pour :** Animateurs de soirées, collègues en pause, groupes d'amis
 - **⏱️ Temps requis :** 5 minutes → 30 secondes pour générer
@@ -21,7 +21,7 @@ tags: ["Jeu", "JeuÉquilibre", "BriseGlace", "Humour", "Fête"]
 
 > _"Tu préfères avoir des bras à la place des jambes, ou des jambes à la place des bras ? Fini les dilemmes vus et revus, place au chaos créatif !"_
 
-Il n’y a rien de plus efficace qu’une bonne partie de « Tu préfères... » pour détendre l'atmosphère. Le problème ? Quand les questions tournent en boucle et manquent cruellement d’originalité, le soufflé retombe aussitôt. Imaginez un instant confier à l'IA la conception de dilemmes absolument machiavéliques, où chaque issue semble être la pire décision de votre vie. Fini l'ennui, place aux débats enflammés !
+Il n'y a rien de plus efficace qu'une bonne partie de « Tu préfères... » pour détendre l'atmosphère. Le problème ? Quand les questions tournent en boucle et manquent d'originalité, l'ambiance retombe aussitôt. Imaginez un instant confier à l'IA la création de dilemmes absolument machiavéliques, où chaque issue semble être la pire décision de votre vie. Fini l'ennui, place aux débats enflammés !
 
 ---
 
@@ -40,6 +40,7 @@ Il n’y a rien de plus efficace qu’une bonne partie de « Tu préfères... »
 Idéale pour relancer une conversation qui s'essouffle à la volée, sans prise de tête.
 
 > **Rôle :** Tu es un animateur de soirée diabolique et provocateur.
+>
 > **Requête :** Génère 5 dilemmes du type « Tu préfères A ou B ? » totalement absurdes et hilarants pour briser la glace.
 
 ### 🥇 Version Pro (Experte)
@@ -50,14 +51,14 @@ Déployez ce prompt pour concevoir des dilemmes sur mesure, millimétrés pour v
 >
 > **Contexte (Context) :**
 >
-> - Contexte : `[Ex : une soirée très arrosée entre amis, une pause-café entre collègues de bureau]`
+> - Contexte : `[Ex. : une soirée très arrosée entre amis, une pause-café entre collègues de bureau]`
 > - Objectif : Déclencher des débats passionnés et hilarants où absolument aucune option n'est satisfaisante.
 >
 > **Cible et Thème :**
 >
-> - Cible : `[Ex : amis d'université dans la vingtaine, développeurs web, jeunes parents]`
-> - Thème : `[Ex : vie amoureuse, survie au bureau, superpouvoirs inutiles]`
-> - Niveau de piquant : `[Ex : doux (situations cocasses), épicé (débats animés), enfer (dilemmes moraux atroces)]`
+> - Cible : `[Ex. : amis d'université dans la vingtaine, développeurs web, jeunes parents]`
+> - Thème : `[Ex. : vie amoureuse, survie au bureau, superpouvoirs inutiles]`
+> - Niveau de piquant : `[Ex. : doux (situations cocasses), épicé (débats animés), enfer (dilemmes moraux atroces)]`
 >
 > **Requête (Task) :**
 >
@@ -75,7 +76,7 @@ Déployez ce prompt pour concevoir des dilemmes sur mesure, millimétrés pour v
 
 ## 💡 Note de l'auteur (Insight)
 
-Le véritable génie de ce prompt repose sur la contrainte stricte de l'équilibre parfait (50/50), couplée à l'intégration du fameux « Point de discorde ». Sans ce garde-fou, l'IA a la fâcheuse tendance de sombrer dans la facilité en proposant des choix binaires évidents (du type : « Être immensément riche et seul » vs « Être pauvre mais bien entouré »). En forçant la machine à pondre un dilemme à la fois délicieusement absurde et dénué de toute échappatoire acceptable, elle parvient à générer des scénarios dignes des meilleures parties de *Blanc-manger Coco* ou de *Cards Against Humanity*. C'est une arme de destruction massive (de l'ennui) redoutable pour les community managers, ou tout simplement pour ressusciter une soirée qui menace de s'éteindre !
+Le véritable génie de ce prompt repose sur la contrainte stricte de l'**équilibre parfait (50/50)**, couplée à l'intégration du fameux **« Point de discorde »**. Sans ce garde-fou, l'IA a la fâcheuse tendance de sombrer dans la facilité en proposant des choix binaires évidents (du type : « Être immensément riche et seul » vs « Être pauvre mais bien entouré »). En forçant la machine à concevoir un dilemme à la fois délicieusement absurde et dénué de toute échappatoire acceptable, elle parvient à générer des scénarios dignes des meilleures parties de *Blanc-manger Coco* ou de *Cards Against Humanity*. C'est une **arme de destruction massive contre l'ennui**, redoutable pour les community managers, ou tout simplement pour ressusciter une soirée qui menace de s'éteindre !
 
 ---
 

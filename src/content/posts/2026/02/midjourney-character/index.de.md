@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "AI 디자인"
-description: " \"Haben Sie genug von sich ständig ändernden Gesichtern Ihrer KI-Charaktere? Entdecken Sie das Geheimnis absolut konsistenter Charakterdesigns mit nur einem einzigen Midjourney-Prompt für Character Sheets.\""
+description: "Kämpfen Sie mit inkonsistenten KI-Gesichtern? Entdecken Sie das Geheimnis makelloser Charakterdesigns mit nur einem Midjourney-Prompt für Character Sheets."
 tags: ["Midjourney", "캐릭터 디자인", "AI 아트", "일관성"]
 ---
 
-# 📝 Midjourney Charakter-Konsistenz: Das perfekte Character Sheet erstellen
+## 📝 Midjourney Charakter-Konsistenz: Das perfekte Character Sheet erstellen
 
 - **🎯 Empfohlen für:** Spieleentwickler, Webtoon-Zeichner, Character Concept Artists
 - **⏱️ Zeitaufwand:** 1 Stunde → auf 5 Minuten verkürzt

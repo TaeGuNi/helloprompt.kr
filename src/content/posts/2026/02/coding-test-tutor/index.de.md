@@ -5,15 +5,15 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "개발/코딩"
-description: "Stecken Sie bei Algorithmus-Problemen fest? Schauen Sie nicht direkt in die Lösung! Entdecken Sie clevere Prompt-Engineering-Techniken, mit denen die KI Ihnen gezielte Hinweise gibt, damit Sie Coding-Tests selbstständig meistern."
+description: "Verzweifeln Sie an Algorithmen? Schauen Sie nicht in die Lösung! Entdecken Sie clevere KI-Prompts für gezielte Hinweise und meistern Sie jeden Coding-Test."
 tags: ["코딩테스트", "알고리즘", "파이썬", "ChatGPT", "취업"]
 ---
 
-# 🧩 Algorithmus-Tutor: Von der Aufgabe bis zur Lösung mit gezielten Hinweisen {#algorithm}
+## 🧩 Algorithmus-Tutor: Von der Aufgabe bis zur Lösung mit gezielten Hinweisen {#algorithm}
 
-- **🎯 Empfohlene Zielgruppe:** Junior-Entwickler, die an Algorithmen verzweifeln, und Bewerber, die bei Coding-Interviews ständig an „Time Limit Exceeded“ scheitern.
+- **🎯 Zielgruppe:** Junior-Entwickler, die an Algorithmen verzweifeln, und Bewerber, die im Coding-Interview am „Time Limit Exceeded“ scheitern.
 - **⏱️ Zeitaufwand:** 10 Minuten (Verkürzt die Lösungszeit pro Problem drastisch)
-- **🤖 Empfohlenes Modell:** ChatGPT-4o, Claude 3.5 Sonnet (Hervorragend für logisches Denken und Code-Strukturierung)
+- **🤖 Empfohlenes Modell:** ChatGPT-4o, Claude 3.5 Sonnet (Ideal für logisches Denken und Code-Strukturierung)
 
 - ⭐ **Schwierigkeitsgrad:** ⭐☆☆☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -27,27 +27,27 @@ Halt! In dem Moment, in dem Sie sich die fertige Musterlösung ansehen, schaltet
 
 ## ⚡️ Zusammenfassung in 3 Sätzen (TL;DR) {#tl-dr}
 
-1. Übergeben Sie das Problem an die KI, aber mit der eisernen Regel: „Schreibe mir auf keinen Fall den fertigen Code.“
-2. Lassen Sie die KI Ihren aktuellen Ansatz und die Zeitkomplexität analysieren, um blinde Flecken, Logikfehler oder versteckte Edge Cases aufzudecken.
-3. Fragen Sie lediglich nach entscheidenden Schlüsselkonzepten (wie Two-Pointer oder Sliding Window) und schreiben Sie den eigentlichen Code danach komplett selbst.
+1. Übergeben Sie der KI das Problem, aber mit der eisernen Regel: „Schreibe mir auf keinen Fall den fertigen Code.“
+2. Lassen Sie Ihren aktuellen Ansatz und die Zeitkomplexität analysieren, um blinde Flecken, Logikfehler oder Edge Cases aufzudecken.
+3. Fragen Sie gezielt nach Schlüsselkonzepten (wie Two-Pointer oder Sliding Window) und schreiben Sie den eigentlichen Code anschließend komplett selbst.
 
 ---
 
-## 🚀 Die Lösung: „Der Algo-Tutor-Prompt“
+## 🚀 Die Lösung: Der „Algo-Tutor-Prompt“
 
-### 🥉 Basic Version (Hinweis anfordern)
+### 🥉 Basic-Version (Hinweis anfordern)
 
 Nutzen Sie diesen Basis-Prompt, wenn Sie feststecken und nur einen kleinen Schubser in die richtige Richtung brauchen.
 
 > **Rolle:** Du bist ein Prüfer für Coding-Interviews bei einem Top-Tech-Unternehmen und ein Algorithmus-Experte.
 >
-> **Aufgabe:** Lies dir das unten stehende Algorithmus-Problem durch und erkläre mir nur die Kernidee und den grundlegenden Lösungsansatz.
+> **Aufgabe:** Lies dir das unten stehende Algorithmus-Problem durch und erkläre mir nur die Kernidee sowie den grundlegenden Lösungsansatz.
 >
 > **Problem:** `[Aufgabenstellung von LeetCode/HackerRank hier einfügen]`
 >
-> **Einschränkungen:** Liefere absolut keinen fertigen Code oder die vollständige Logik. Gib mir lediglich einen Hinweis darauf, welche Datenstruktur im Hinblick auf die Zeitkomplexität (Time Complexity) am vorteilhaftesten wäre.
+> **Einschränkungen:** Liefere absolut keinen fertigen Code oder die vollständige Logik. Gib mir lediglich einen Hinweis darauf, welche Datenstruktur im Hinblick auf die Zeitkomplexität (Time Complexity) am besten geeignet wäre.
 
-### 🥇 Pro Version (Schritt-für-Schritt Coaching & Review)
+### 🥇 Pro-Version (Schritt-für-Schritt Coaching & Review)
 
 Dieser Experten-Prompt ist Ihre Rettung, wenn Ihr Code immer wieder vom Judge-System abgelehnt wird (z. B. wegen „Time Limit Exceeded“, „Memory Limit Exceeded“ oder „Wrong Answer“).
 
@@ -62,11 +62,11 @@ Dieser Experten-Prompt ist Ihre Rettung, wenn Ihr Code immer wieder vom Judge-Sy
 > `[Hier Ihren fehlerhaften Code einfügen]`
 >
 >
-> - **Das Problem:** Wenn ich diesen Code ausführe, erhalte ich den Fehler: `[Time Limit Exceeded / Runtime Error / Wrong Answer]`.
+> - **Das Problem:** Wenn ich diesen Code ausführe, erhalte ich folgenden Fehler: `[Time Limit Exceeded / Runtime Error / Wrong Answer]`.
 >
 > **Aufgabe (Task):**
 >
-> 1. **Gegenbeispiel (Counter Example) finden:** Finde genau einen Edge Case, bei dem mein Code fehlschlägt, und nenne mir den Input sowie den erwarteten Output. Erkläre noch nicht, *warum* er fehlschlägt.
+> 1. **Gegenbeispiel (Counter Example) finden:** Finde genau einen Edge Case, bei dem mein Code fehlschlägt. Nenne mir den Input sowie den erwarteten Output, aber erkläre noch nicht, *warum* er fehlschlägt.
 > 2. **Logikfehler diagnostizieren:** Liefere mir in Form einer Frage einen Hinweis darauf, an welcher Stelle in meiner Logik ein Flaschenhals entsteht oder welche Bedingung ich übersehen habe.
 > 3. **Optimierungshinweise:** Berechne die Zeitkomplexität meines aktuellen Codes und empfiehl mir eine algorithmische Technik (z. B. Two-Pointer, Binary Search), um sie auf das Ziel `[Gewünschte Zeitkomplexität, z. B. O(N log N)]` zu reduzieren.
 >
@@ -79,8 +79,8 @@ Dieser Experten-Prompt ist Ihre Rettung, wenn Ihr Code immer wieder vom Judge-Sy
 
 ## 💡 Anmerkung des Autors (Insight) {#insight}
 
-In Coding-Interviews geht es nicht darum, wer am schnellsten in die Tasten haut. Es ist ein intellektueller Stresstest, bei dem Sie unter Zeitdruck das effizienteste **Muster (Pattern)** identifizieren müssen. Integrieren Sie diesen Prompt fest in Ihre tägliche Übungsroutine. Dieses „KI-Mentoring“ bewährt sich nicht nur beim Pauken von Algorithmen, sondern auch später im Job, wenn Sie komplexe Geschäftslogiken entwerfen oder hartnäckige Bugs jagen. 
-Ein absoluter Gamechanger-Tipp aus der Praxis: Bitten Sie die KI im Anschluss stets: *„Empfiehl mir 3 ähnliche LeetCode-Probleme auf Medium-Niveau, die genau demselben Muster folgen.“* Auf diese Weise generieren Sie sich einen maßgeschneiderten, dynamischen Lehrplan, mit dem Sie Ihre persönlichen Schwachstellen (wie DP oder DFS/BFS) gezielt ausmerzen können.
+In Coding-Interviews geht es nicht darum, wer am schnellsten in die Tasten haut. Es ist ein intellektueller Stresstest, bei dem Sie unter Zeitdruck das effizienteste **Muster (Pattern)** identifizieren müssen. Integrieren Sie diesen Prompt fest in Ihre tägliche Übungsroutine. Dieses „KI-Mentoring“ bewährt sich nicht nur beim Pauken von Algorithmen, sondern zahlt sich auch später im Job aus, wenn Sie komplexe Geschäftslogiken entwerfen oder hartnäckige Bugs jagen. 
+Ein absoluter Gamechanger-Tipp aus der Praxis: Bitten Sie die KI im Anschluss stets: *„Empfiehl mir 3 ähnliche LeetCode-Probleme auf Medium-Niveau, die exakt demselben Muster folgen.“* Auf diese Weise generieren Sie einen maßgeschneiderten, dynamischen Lehrplan, mit dem Sie Ihre persönlichen Schwachstellen (wie DP oder DFS/BFS) gezielt und effizient ausmerzen können.
 
 ---
 

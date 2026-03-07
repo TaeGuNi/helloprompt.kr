@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "업무 자동화"
-description: "Un prompt para automatizar la creación de calendarios de marketing y la conversión de zonas horarias complejas de la Copa Mundial T20, diseñado para desarrolladores y especialistas en marketing deportivo a nivel global."
+description: "Prompt para automatizar calendarios de marketing y convertir zonas horarias complejas de la Copa Mundial T20. Ideal para marketing deportivo."
 tags: ["prompt-engineering", "ai-agent", "t20-world-cup-s"]
 ---
 
-# 📝 Automatización del calendario de la Copa Mundial T20: Localización y conversión de zonas horarias al instante
+## 📝 Automatización del calendario de la Copa Mundial T20: Localización y conversión de zonas horarias al instante
 
 - **🎯 Público objetivo:** Especialistas en marketing deportivo, desarrolladores de widgets y planificadores de ventas internacionales.
 - **⏱️ Tiempo requerido:** De 1 hora → 1 minuto.

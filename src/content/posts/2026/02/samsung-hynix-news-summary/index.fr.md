@@ -5,31 +5,31 @@ author: "Antigravity"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "Astuces de Prompt"
-description: "Un guide de prompt pour filtrer et résumer rapidement avec l'IA les dizaines d'articles de presse quotidiens sur Samsung Electronics et SK Hynix."
+description: "Filtrez et résumez instantanément l'actualité boursière de Samsung et SK Hynix grâce à ce prompt IA optimisé pour les investisseurs pressés."
 tags: ["Actions", "Investissement", "RésuméNouvelles", "Samsung", "SKHynix", "AssistantIA"]
 ---
 
-# 📝 Comment résumer le flux de nouvelles de Samsung et SK Hynix avec l'IA
+## 📝 Comment résumer l'actualité de Samsung et SK Hynix avec l'IA
 
-- **🎯 Public cible :** Investisseurs actifs, Day traders, Actionnaires fatigués de la surcharge d'informations
+- **🎯 Cible :** Investisseurs actifs, day traders, actionnaires noyés sous l'information
 - **⏱️ Temps gagné :** 30 minutes → 1 minute
-- **🤖 IA recommandée :** IA capable d'effectuer des recherches sur le Web en temps réel (Perplexity, ChatGPT Search, Claude, etc.)
+- **🤖 IA recommandée :** Modèles connectés au Web en temps réel (Perplexity, ChatGPT Search, Claude, etc.)
 
 - ⭐ **Difficulté :** ⭐☆☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
 - 🚀 **Utilité :** ⭐⭐⭐⭐⭐
 
-> _"Pas le temps de lire le déluge de nouvelles sur les semi-conducteurs pendant votre trajet matinal ? Confiez-le à l'IA."_
+> _"Vous n'avez pas le temps d'éplucher le déluge d'actualités sur les semi-conducteurs dans les transports ? Confiez cette tâche à l'IA."_
 
-En bourse, la "vitesse de l'information" est vitale. Pour des actions qui dominent le marché comme Samsung Electronics et SK Hynix, des dizaines d'articles d'actualité similaires affluent chaque jour de divers médias. Voici un prompt qui filtre les articles en double et identifie rapidement uniquement les véritables "bonnes nouvelles" et "mauvaises nouvelles" qui affecteront le cours de l'action.
+En bourse, la réactivité face à l'information est vitale. Pour des poids lourds du marché comme Samsung Electronics et SK Hynix, des dizaines de dépêches similaires inondent chaque jour la presse financière. Découvrez un prompt redoutable pour filtrer les doublons et isoler en un clin d'œil les véritables catalyseurs — ces bonnes ou mauvaises nouvelles qui impacteront concrètement le cours de l'action.
 
 ---
 
-## ⚡️ Résumé en 3 lignes (TL;DR)
+## ⚡️ L'essentiel en 3 points (TL;DR)
 
-1. Vous pouvez éliminer de nombreux articles en double et recevoir un briefing sur les 3 à 5 nouvelles les plus importantes.
-2. Il catégorise clairement l'impact à court terme des nouvelles sur le cours de l'action en "Bonne Nouvelle / Mauvaise Nouvelle".
-3. Lors d'une matinée bien remplie, vous pouvez appréhender le sentiment général du marché du secteur des semi-conducteurs en seulement 1 minute.
+1. Éliminez le bruit médiatique pour obtenir un briefing condensé des 3 à 5 actualités les plus décisives.
+2. Catégorisez instantanément l'impact à court terme sur le cours de l'action (catalyseur positif ou négatif).
+3. Saisissez le sentiment global du marché des semi-conducteurs en seulement une minute, idéal pour les matins chargés.
 
 ---
 
@@ -37,96 +37,96 @@ En bourse, la "vitesse de l'information" est vitale. Pour des actions qui domine
 
 ### 🥉 Version basique (Basic Version)
 
-Utilisez-le lorsque vous souhaitez simplement consulter rapidement les principaux problèmes de la matinée.
+Utilisez-le lorsque vous souhaitez simplement consulter rapidement les principaux faits marquants de la matinée.
 
-> **Rôle :** Tu es un `[Conservateur de nouvelles économiques rapide et précis]`.
-> **Tâche :** Donne-moi 3 gros titres d'actualité et des résumés d'une ligne concernant `[Samsung Electronics]` et `[SK Hynix]` ce matin.
+> **Rôle :** Tu es un `[Curateur de presse financière ultra-rapide et précis]`.
+> **Tâche :** Donne-moi 3 grands titres de l'actualité et un résumé d'une phrase pour chacun concernant `[Samsung Electronics]` et `[SK Hynix]` ce matin.
 
 ### 🥇 Version Pro (Pro Version)
 
-Utilisez-le lorsque vous souhaitez obtenir des indices d'investissement, tels que la détermination de bonnes ou de mauvaises nouvelles, au-delà de simples résumés.
+Utilisez-le lorsque vous souhaitez obtenir des indices d'investissement concrets, en distinguant clairement les signaux haussiers des signaux baissiers.
 
-> **Rôle (Role) :** Tu es le `[Chercheur en chef responsable des briefings matinaux dans un centre de recherche de courtage de Wall Street]`.
+> **Rôle (Role) :** Tu es l'`[Analyste en chef responsable des briefings matinaux dans une prestigieuse banque d'investissement de Wall Street]`.
 >
 > **Contexte (Context) :**
 >
-> - Contexte : `[Un investisseur actif et occupé a besoin de saisir la situation du marché en 1 minute sur le trajet pour se rendre au travail]`
-> - Objectif : `[Supprimer les nouvelles en double et ne fournir que les informations de base compressées qui affecteront le cours des actions]`
+> - Contexte : `[Un investisseur actif et très occupé a besoin d'assimiler la tendance du marché en 1 minute durant son trajet matinal]`
+> - Objectif : `[Filtrer les actualités redondantes pour ne fournir que l'essence des informations qui impacteront directement le cours des actions]`
 >
 > **Tâche (Task) :**
 >
-> 1. Sélectionne les 3 articles d'actualité les plus importants concernant `[Samsung Electronics]` et `[SK Hynix]` au cours des 24 dernières heures.
-> 2. Pour chaque article, précise un "Résumé principal (moins de 2 phrases)" et l'"Impact sur le cours de l'action (Bonne nouvelle/Mauvaise nouvelle/Neutre et la raison)".
-> 3. Fournis un commentaire d'une ligne synthétisant le sentiment d'investissement global du secteur des semi-conducteurs aujourd'hui sur la base de ces actualités.
+> 1. Sélectionne les 3 articles les plus cruciaux publiés au cours des dernières 24 heures concernant `[Samsung Electronics]` et `[SK Hynix]`.
+> 2. Pour chaque article, rédige un "Résumé analytique (maximum 2 phrases)" et évalue son "Impact sur l'action (Catalyseur positif / Catalyseur négatif / Neutre, avec une brève justification)".
+> 3. Fournis une synthèse d'une ligne évaluant le sentiment d'investissement global du secteur des semi-conducteurs pour la séance du jour.
 >
 > **Contraintes (Constraints) :**
 >
-> - Le format de sortie doit être une "Liste (List)" adaptée aux mobiles utilisant des emojis. Évite d'utiliser des tableaux (Table) si possible.
-> - Exclus les articles de commérages ou les simples rapports sur les fluctuations du cours de l'action ; ne sélectionne que les articles qui affectent les "fondamentaux" tels que les bénéfices, les contrats, le développement technologique et la macroéconomie.
+> - Le format de sortie doit être une "Liste (List)" optimisée pour une lecture sur mobile, en utilisant des émojis. N'utilise sous aucun prétexte de tableaux (Table).
+> - Exclus formellement les rumeurs de couloir ou les simples constats de fluctuation des cours ; concentre-toi exclusivement sur les actualités affectant les "fondamentaux" (résultats financiers, gros contrats, ruptures technologiques et macroéconomie).
 >
 > **Avertissement (Warning) :**
 >
-> - N'inclus jamais de rumeurs non vérifiées ou de "potins de tabloïds" dans le résumé de l'actualité. (Prévention des hallucinations et maintien de la fiabilité)
+> - N'inclus jamais de rumeurs non vérifiées ou de spéculations douteuses dans ton briefing. (Prévention stricte des hallucinations pour garantir une fiabilité absolue).
 
 ---
 
-## 💡 Aperçu de l'auteur (Insight)
+## 💡 L'analyse de l'expert (Insight)
 
-Le cœur de ce prompt ne consiste pas simplement à "résumer", mais à limiter les critères de filtrage des articles aux "fondamentaux (bénéfices, contrats, technologie)". Au lieu de fouiller dans les portails ou les applications de trading chaque matin, prenez l'habitude de lire le briefing organisé par l'IA tout en préparant votre café. C'est la façon la plus intelligente de surfer sur la vague plutôt que de se noyer dans un océan d'informations.
+La véritable puissance de ce prompt ne réside pas dans sa simple capacité à "résumer", mais dans la rigueur de son filtrage axé sur les **fondamentaux** (résultats financiers, contrats majeurs, innovations technologiques). Au lieu de scroller frénétiquement sur les portails financiers ou les applications de trading de bon matin, prenez l'habitude de consulter ce briefing sur mesure préparé par l'IA pendant que vous savourez votre café. C'est la méthode la plus stratégique pour surfer sur la tendance du marché, plutôt que de vous noyer dans le bruit médiatique ambiant.
 
 ---
 
 ## 🙋 Foire aux questions (FAQ)
 
-- **Q : Comment l'IA connaît-elle les dernières nouvelles ?**
-  - R : Si vous utilisez Perplexity ou ChatGPT (ou Copilot) avec la navigation activée, il effectuera instantanément une recherche sur le Web, lira les derniers articles et les résumera juste après avoir saisi le prompt.
+- **Q : Comment l'IA accède-t-elle aux actualités les plus récentes ?**
+  - R : En utilisant des outils comme Perplexity ou ChatGPT (avec la navigation Web activée), l'IA effectue une recherche en temps réel pour analyser et synthétiser les articles publiés à l'instant même où vous soumettez le prompt.
 
-- **Q : Puis-je le modifier pour obtenir des actualités sur une entreprise spécifique (par exemple, Nvidia) ?**
-  - R : Oui, il suffit de remplacer les parties entre crochets `[Samsung Electronics]` et `[SK Hynix]` par l'action qui vous intéresse, et le prompt fonctionnera tout aussi bien.
+- **Q : Est-il possible d'adapter ce prompt pour d'autres entreprises (comme Nvidia, par exemple) ?**
+  - R : Absolument. Il vous suffit de remplacer les variables entre crochets `[Samsung Electronics]` et `[SK Hynix]` par les valeurs de votre choix (tickers ou noms d'entreprises), et le prompt conservera toute son efficacité.
 
 ---
 
 ## 🧬 Anatomie du prompt (Why it works?)
 
-1. **Segmentation des tâches (Task) :** En exigeant non seulement un simple résumé, mais aussi un jugement sur "l'impact sur le cours de l'action (Bonne/Mauvaise)", nous avons élevé la qualité du briefing au niveau d'un rapport d'investissement.
-2. **Contraintes (Constraints) :** En ajoutant une condition pour exclure les potins ou les simples articles de suivi des mouvements boursiers, nous avons augmenté la valeur nutritionnelle de l'information et réduit le bruit.
-3. **Optimisation de l'UX :** En exigeant un format de liste plutôt qu'un tableau en tenant compte de l'environnement mobile (trajets quotidiens), la lisibilité a été maximisée.
+1. **Précision de la tâche (Task) :** En exigeant au-delà du simple résumé une véritable évaluation de "l'impact sur l'action (Catalyseur positif / négatif)", nous hissons ce briefing au standard d'un véritable rapport d'analyste financier.
+2. **Puissance des contraintes (Constraints) :** En imposant l'exclusion stricte des rumeurs et des commentaires superflus sur les variations de cours, nous maximisons la densité qualitative de l'information tout en éliminant le bruit de fond.
+3. **Optimisation de l'expérience (UX) :** En forçant un rendu sous forme de liste à puces plutôt qu'un tableau (souvent inadapté aux écrans de smartphones), la lisibilité devient optimale pour une consultation en mobilité.
 
 ---
 
-## 📊 Preuve : Avant et Après (Before & After)
+## 📊 La preuve par l'exemple (Before & After)
 
-### ❌ Avant (Entrée)
+### ❌ Avant (L'approche classique)
 
 ```text
 Quelles sont les nouvelles sur Samsung aujourd'hui ?
 ```
 
-### ✅ Après (Sortie)
+### ✅ Après (La méthode optimisée)
 
 ```text
-Voici le briefing matinal du chercheur en chef. Je vais fournir les points clés en 1 minute pour votre trajet chargé.
+Voici votre briefing matinal de l'analyste en chef. Je vous livre l'essentiel en une minute pour votre trajet.
 
-📅 **[Top 3 des actualités clés sur les semi-conducteurs d'aujourd'hui]**
+📅 **[Top 3 des actualités décisives sur les semi-conducteurs aujourd'hui]**
 
-1️⃣ **Samsung Electronics annonce l'accélération de la production de masse de mémoires HBM de nouvelle génération**
-- 📝 **Résumé principal :** Samsung Electronics a officiellement annoncé qu'elle avait avancé son calendrier de production de masse de mémoires HBM de nouvelle génération d'un trimestre pour rattraper ses concurrents.
-- 📈 **Impact sur le cours de l'action [Bonne nouvelle] :** On s'attend à un afflux d'achats étrangers en raison des attentes croissantes concernant la reprise de parts de marché dans le domaine des mémoires d'IA.
+1️⃣ **Samsung Electronics accélère la production de masse de ses mémoires HBM de nouvelle génération**
+- 📝 **Résumé analytique :** Samsung Electronics a officiellement déclaré avancer d'un trimestre le calendrier de production de ses puces HBM de pointe afin de combler son retard sur la concurrence.
+- 📈 **Impact sur l'action [Catalyseur positif] :** On anticipe un fort afflux de capitaux institutionnels étrangers, portés par l'espoir d'une reconquête rapide des parts de marché sur le segment stratégique de l'IA.
 
-2️⃣ **SK Hynix signe un contrat d'approvisionnement massif avec une entreprise informatique mondiale**
-- 📝 **Résumé principal :** SK Hynix a signé un contrat d'approvisionnement à long terme à grande échelle pour de la mémoire DDR5 l'année prochaine avec un client nord-américain.
-- 📈 **Impact sur le cours de l'action [Bonne nouvelle] :** Cela constituera une forte dynamique positive grâce à la garantie d'une vache à lait stable et à une visibilité accrue des bénéfices.
+2️⃣ **SK Hynix décroche un contrat d'approvisionnement colossal avec un géant mondial de la tech**
+- 📝 **Résumé analytique :** SK Hynix a scellé un accord de fourniture à long terme très lucratif concernant la mémoire DDR5, avec un acteur nord-américain de premier plan.
+- 📈 **Impact sur l'action [Catalyseur positif] :** Cette annonce offre une excellente dynamique haussière en garantissant des flux de trésorerie pérennes et une visibilité financière exceptionnelle pour le prochain exercice.
 
 (...)
 
-💡 **[Commentaire sur le sentiment du secteur aujourd'hui]**
-Les deux sociétés ont d'importantes nouvelles positives, le sentiment général du secteur des semi-conducteurs aujourd'hui devrait donc être "Très ensoleillé".
+💡 **[Sentiment global du marché pour la séance]**
+Les deux leaders ayant dévoilé des catalyseurs structurels majeurs, le sentiment général sur le compartiment des semi-conducteurs est aujourd'hui "Très haussier".
 ```
 
 ---
 
 ## 🎯 Conclusion
 
-Ne soyez pas submergé par les centaines de gros titres qui affluent chaque matin.
+Ne vous laissez plus submerger par la centaine de gros titres qui inondent vos écrans chaque matin.
 
-Commencez votre journée intelligemment avec votre propre assistant IA personnalisé ! 🍷
+Reprenez le contrôle de votre veille financière et démarrez votre journée avec une longueur d'avance, grâce à votre propre analyste IA de poche ! 🍷

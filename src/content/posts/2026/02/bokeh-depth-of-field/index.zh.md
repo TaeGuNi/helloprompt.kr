@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: "通过模糊背景来凸显主体，轻松打造极具氛围感的唯美光斑 (Bokeh) 提示词。"
+description: "通过精准控制景深与散景效果，一键生成电影级质感的背景模糊提示词，让你的AI摄影作品瞬间脱颖而出。"
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Photography", "Effect"]
 ---
 
-# 📝 光斑的魔法: Bokeh & Depth of Field
+## 📝 光斑的魔法: Bokeh & Depth of Field
 
 - **🎯 推荐对象:** 设计师、内容创作者、摄影爱好者、新媒体运营
 - **⏱️ 所需时间:** 5分钟 → 1分钟
@@ -21,13 +21,13 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Photography", "Effect"]
 
 > _“想要让主体清晰锐利，同时将背景化作如梦似幻的唯美光斑？其实，你只需掌握这一个核心摄影术语。”_
 
-**Bokeh（散景）** 指的是镜头焦外区域的光源因模糊而形成光斑的物理光学现象。通过运用 **Shallow Depth of Field（浅景深）**，我们能将视觉焦点牢牢锁定在被摄主体上，从而营造出宛若电影般浪漫且高级的氛围感。在进行 AI 图像生成时，只要精准植入这些专业摄影术语，就能让原本平平无奇的画面瞬间跃升至商业单反大片级别的质感。
+**Bokeh（散景）**，即镜头焦外区域的光源因失焦而形成的唯美光斑。通过巧妙运用 **Shallow Depth of Field（浅景深）**，我们能将视觉焦点牢牢锁定在被摄主体上，从而营造出宛若电影般浪漫且高级的氛围感。在进行 AI 图像生成时，只要精准植入这些专业摄影术语，就能让原本平平无奇的画面瞬间跃升至商业单反大片级别的绝佳质感。
 
 ---
 
 ## ⚡️ 3行总结 (TL;DR)
 
-1. `Bokeh`（散景）与 `Blurry background`（背景模糊）是赋予画面高级感的必杀关键词。
+1. `Bokeh`（散景）与 `Blurry background`（背景模糊）是赋予画面高级感的核心关键词。
 2. 务必搭配使用 `Shallow depth of field`（浅景深）或具体的镜头光圈参数（如 `f/1.8`、`f/1.2`），以大幅增强画面的光学真实感。
 3. 霓虹闪烁的暗夜街头或是雨夜的城市喧嚣，往往是展现华丽散景效果的绝佳舞台。
 
@@ -60,7 +60,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Photography", "Effect"]
 >
 > **核心 Prompt 结构:**
 >
-> **Subject:** Portrait of `[输入主体, e.g., a jazz musician playing saxophone]`, set in `[输入场景, e.g., a rainy street at night]`.
+> **Subject:** Portrait of `[输入主体，例如：a jazz musician playing saxophone]`, set in `[输入场景，例如：a rainy street at night]`.
 > **Camera:** Bokeh background, shallow depth of field, f/1.2 aperture, sharp focus on face, shot on 85mm lens.
 > **Style:** Cinematic mood, colorful city lights blurring in background, emotional, high resolution, photorealistic, 8k.
 >
@@ -78,7 +78,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Photography", "Effect"]
 
 在 AI 绘图的实践中，许多新手常会抱怨生成的图片“塑料感太重”或“一眼AI”。其核心症结就在于画面缺乏真实的**光学物理反馈**。当我们向提示词中加入 `f/1.2 aperture`（大光圈）和 `85mm lens`（经典人像焦段）这样极其具体的摄影参数时，本质上是在强制要求 AI 引擎去精确模拟真实世界中顶级镜头的物理散景特性。
 
-这种参数组合在处理夜景，或是背景中布满密集点光源（如车水马龙的街道、挂满彩灯的圣诞树）的场景时效果堪称惊艳。它能瞬间拔高画面的整体质感与格调，绝对是你制作电商视觉图和社交媒体爆款配图的绝佳利器。
+这种参数组合在处理夜景，或是背景中布满密集点光源（如车水马龙的街道、挂满彩灯的圣诞树）的场景时，效果堪称惊艳。它能瞬间拔高画面的整体质感与格调，绝对是你制作电商视觉图和社交媒体爆款配图的绝佳利器。
 
 ---
 

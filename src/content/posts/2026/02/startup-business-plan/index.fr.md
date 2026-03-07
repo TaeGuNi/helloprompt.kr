@@ -5,49 +5,48 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "창업/기획"
-description: " \"정부지원사업 합격의 8할은 목차. PSST(문제-해결-성장-팀) 구조에 맞춰 빈칸만 채우면 되는 AI 프롬프트.\""
+description: "Le succès d'une subvention repose sur son sommaire. Ce prompt IA structure votre business plan selon le modèle PSST (Problème-Solution-Croissance-Équipe)."
 tags: ["사업계획서", "예비창업패키지", "스타트업", "정부지원사업", "ChatGPT"]
 ---
 
-# 📑 Rédaction de Business Plan : Structurer un Sommaire pour Réussir les Subventions Gouvernementales
+## 📑 Rédaction de Business Plan : Structurer un Sommaire pour Décrocher des Subventions
 
-- **🎯 Recommandé pour :** Futurs entrepreneurs ayant des idées mais bloquant sur la rédaction, fondateurs de startups early-stage qui se demandent "C'est quoi le PSST ?"
+- **🎯 Recommandé pour :** Les futurs entrepreneurs bloqués devant la page blanche, et les fondateurs de startups *early-stage* découvrant le framework PSST.
 - **⏱️ Temps requis :** 10 minutes (pour finaliser le premier jet)
-- **🤖 Modèle recommandé :** ChatGPT-4o (Excellent pour la rédaction logique et la structuration)
+- **🤖 Modèle recommandé :** ChatGPT-4o (idéal pour la structuration logique)
 
 - ⭐ **Difficulté :** ⭐⭐☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
 - 🚀 **Utilité :** ⭐⭐⭐⭐⭐
 
-> _"Votre esprit regorge d'idées capables de changer le monde, mais dès que vous ouvrez un document Word, votre curseur clignote dans le vide depuis 10 minutes ?"_
+> _"Votre esprit regorge d'idées capables de changer le monde, mais dès que vous ouvrez Word, votre curseur clignote dans le vide depuis 10 minutes ?"_
 
-Les programmes de subventions gouvernementales (comme le Package Création d'Entreprise ou Package Startup Early-Stage) sont fondamentalement un **concours de rédaction** et un **art de la persuasion**. Les membres du jury ne connaissent pas votre brillante idée à l'avance ; ils évaluent tout uniquement sur la base du **"document"** soumis. Il existe une formule presque non écrite pour les business plans qui réussissent : le framework **PSST (Problem - Solution - Scale-up - Team)**. Voici comment utiliser l'IA pour étoffer de manière convaincante cette structure solide.
+Les programmes de subventions publiques (comme les bourses d'amorçage ou aides à la création) relèvent fondamentalement de l'**art de la persuasion**. Les jurys ne connaissent pas votre idée à l'avance ; ils évaluent son potentiel uniquement sur la base du **document** soumis. Il existe une formule incontournable pour les business plans lauréats : le framework **PSST (Problem - Solution - Scale-up - Team)**. Voici comment utiliser l'IA pour articuler cette structure de manière percutante et convaincante.
 
 ---
 
 ## ⚡️ Résumé en 3 points (TL;DR)
 
-1. **Problem (Identification du problème) :** Présentez la gravité du "Pain Point" (point de douleur) rencontré par les clients de manière percutante avec des données chiffrées objectives.
-2. **Solution (Approche de résolution) :** Démontrez comment votre produit ou service résout ce problème de manière originale et réaliste.
-3. **Scale-up (Stratégie de croissance) :** Décrivez concrètement comment cette entreprise va générer des revenus (Business Model) et conquérir le marché.
+1. **Problem (Le problème) :** Démontrez la criticité du *Pain Point* (point de douleur) client en vous appuyant sur des données chiffrées irréfutables.
+2. **Solution (L'approche) :** Prouvez comment votre produit résout ce problème de façon innovante, réaliste et différenciante.
+3. **Scale-up (La croissance) :** Détaillez concrètement votre modèle de revenus (*Business Model*) et votre stratégie d'acquisition pour conquérir le marché.
 
 ---
 
-## 🚀 La Solution : "Government Grant Writer"
+## 🚀 La Solution : L'Expert en Subventions Gouvernementales
 
-### 🥉 Version Basique (Concrétisation de l'idée)
+### 🥉 Version Basique (Validation de l'idée)
 
-À utiliser lorsque vous souhaitez tester rapidement si votre idée correspond aux attentes des subventions gouvernementales.
+À utiliser pour tester rapidement l'adéquation de votre concept avec les critères des subventions publiques.
 
-> **Rôle :** Tu es un consultant expert en création de startups et subventions d'État.
-> **Requête :** Résume en 3 points concis, avec un style direct et professionnel (style "bullet points" utilisé dans les business plans), les sections **"Identification du problème (Problem)"** et **"Solution (Solution)"** pour mon idée de `[Application de mise en relation de partenaires de promenade pour chiens]`.
+> **Rôle :** Tu es un consultant expert en création de startups et en levée de subventions publiques.
+> **Requête :** Résume en 3 points concis et percutants, sous forme de liste à puces (format business plan), les sections **"Identification du problème (Problem)"** et **"Solution (Solution)"** pour mon idée de `[Application de mise en relation de partenaires de promenade pour chiens]`.
 
+### 🥇 Version Pro (Rédaction complète du framework PSST)
 
-### 🥇 Version Pro (Rédaction complète du sommaire PSST)
+Idéal pour générer un premier jet exhaustif et rigoureux avant la soumission officielle de votre dossier.
 
-À utiliser pour rédiger un premier jet très abouti en vue d'une véritable soumission de dossier.
-
-> **Rôle (Role) :** Tu es un consultant expert en startups avec 10 ans d'expérience et ancien membre de jury d'évaluation pour les subventions gouvernementales. Ton objectif est de rédiger un business plan logique, très pertinent et capable de convaincre immédiatement les évaluateurs.
+> **Rôle (Role) :** Tu es un consultant startup fort de 10 ans d'expérience et ancien membre de jurys d'évaluation pour les subventions publiques. Ton objectif est de rédiger un business plan logique, ultra-pertinent et capable de convaincre instantanément les évaluateurs.
 > 
 > **Contexte (Context) :**
 > 
@@ -55,44 +54,46 @@ Les programmes de subventions gouvernementales (comme le Package Création d'Ent
 > - **Cible :** `[Personnes vivant seules et couples actifs très occupés]`
 > 
 > **Requête (Task) :**
-> Rédige clairement les points clés de chaque section sous forme de liste à puces, en suivant scrupuleusement le framework standard **PSST**.
+> Rédige les arguments clés de chaque section sous forme de liste à puces en respectant scrupuleusement le framework **PSST**.
 > 
-> 1. **Problem (Identification du problème) :** Cite impérativement des statistiques (chiffres) objectives liées à la pollution environnementale causée par les déchets alimentaires et aux pertes financières pour les particuliers.
-> 2. **Solution (Faisabilité) :** Mets en évidence le fonctionnement concret de la technologie de reconnaissance automatique des ingrédients via la Vision IA, ainsi que l'avantage concurrentiel absolu (USP) par rapport aux concurrents.
-> 3. **Scale-up (Stratégie de croissance) :** Présente un modèle de revenus clair (abonnements, vente de données, etc.) et une stratégie GTM (Go-To-Market) précise pour acquérir les 1 000 premiers utilisateurs.
-> 4. **Team (Équipe) :** Décris les compétences indispensables des profils clés (développeurs, chefs de produit, etc.) nécessaires pour concrétiser ce projet, en créant une équipe virtuelle idéale.
+> 1. **Problem (Identification du problème) :** Cite impérativement des statistiques objectives chiffrant l'impact environnemental des déchets alimentaires et les pertes financières pour les ménages.
+> 2. **Solution (Faisabilité) :** Détaille le fonctionnement concret de la reconnaissance des ingrédients via la Vision IA, et mets en avant notre avantage concurrentiel déloyal (USP).
+> 3. **Scale-up (Stratégie de croissance) :** Définis un modèle de revenus clair (abonnements, monétisation des données) et une stratégie Go-To-Market (GTM) précise pour acquérir nos 1 000 premiers utilisateurs.
+> 4. **Team (Équipe) :** Identifie les compétences clés (développeurs, Product Managers, etc.) indispensables à l'exécution de ce projet pour constituer l'équipe fondatrice idéale.
 > 
 > **Contraintes (Constraints) :**
 > 
-> - Utilise un ton formel, affirmatif et professionnel (ex: "Permet de...", "A pour objectif de..."), typique des business plans standards.
-> - Évite les adjectifs subjectifs ou abstraits (ex: "très bon", "révolutionnaire") et intègre judicieusement le jargon technique pour inspirer confiance.
+> - Adopte un ton formel, assertif et professionnel (ex : "Permet l'optimisation de...", "A pour vocation de..."), propre aux dossiers de financement.
+> - Bannis les adjectifs subjectifs (ex : "génial", "révolutionnaire") et privilégie un vocabulaire technique précis pour asseoir la crédibilité du projet.
 > 
 > **Avertissement (Warning) :**
 > 
-> - N'invente pas de fausses statistiques (Hallucination). Développe ton argumentation uniquement sur la base de faits dont les sources sont vérifiables.
+> - Ne génère aucune fausse statistique (Zéro Hallucination). Fonde ton argumentation exclusivement sur des faits plausibles et vérifiables.
 
 ---
 
 ## 💡 L'avis de l'Expert (Insight)
 
-Ce qui attire l'attention des membres du jury, qui examinent des centaines de business plans, ce n'est pas la rhétorique flamboyante, mais les **"données objectives"**. Au lieu d'une phrase émotionnelle comme "Beaucoup de gens trouvent fastidieux de gérer les déchets alimentaires", il faut frapper fort avec des chiffres : "Le coût annuel de traitement des déchets alimentaires dépasse le milliard, avec une perte moyenne de 30 € par mois en ingrédients jetés pour une personne seule". Lorsque vous formulez votre prompt pour l'IA, ajouter la condition **"Inclure impérativement des données statistiques ou des chiffres"** augmente de manière exponentielle la force de persuasion du document. Attention cependant : les chiffres générés par l'IA doivent absolument faire l'objet d'une vérification croisée (Fact Check) pour y associer les sources réelles.
+Ce qui capte l'attention d'un jury saturé par la lecture de centaines de dossiers, ce n'est pas une prose flamboyante, ce sont les **données objectives**. Remplacer une affirmation vague comme "Beaucoup trouvent la gestion des déchets fastidieuse" par une frappe chirurgicale : *"Le coût de traitement des déchets alimentaires dépasse le milliard d'euros, avec une perte nette de 30 € par mois pour une personne seule."* 
+
+En intégrant la contrainte **"Inclure impérativement des données chiffrées"** dans votre prompt, vous décuplez la force de persuasion de votre document. **Attention toutefois :** les statistiques générées par l'IA doivent systématiquement subir un *Fact-Check* rigoureux pour être sourcées et validées avant soumission.
 
 ---
 
 ## 🙋 Foire Aux Questions (FAQ)
 
-- **Q : Est-ce que je risque d'être pénalisé (pour plagiat, etc.) si je soumets le texte généré par l'IA tel quel ?**
-  - R : Le résultat fourni par l'IA est une excellente structure de base et un premier jet. Plutôt que de faire un simple copier-coller, il est indispensable de vous inspirer de la logique et de la structure des phrases proposées, puis de les reformuler avec vos propres mots en y intégrant votre véritable expérience et votre vision de fondateur.
+- **Q : Risque-t-on d'être pénalisé (plagiat) si l'on soumet le texte de l'IA tel quel ?**
+  - R : Les résultats de l'IA fournissent une ossature et un premier jet d'excellence. Un simple copier-coller est fortement déconseillé. Imprégnez-vous de la logique et de la structure proposées, puis reformulez avec vos propres mots pour y insuffler l'âme et la vision authentique de l'équipe fondatrice.
 
-- **Q : Si le document est rempli de texte, les membres du jury ne risquent-ils pas de ne pas le lire ?**
-  - R : Exactement. Un document composé uniquement de longs textes manque de lisibilité. Demandez à l'IA : *"Je souhaite expliquer visuellement la technologie clé de la section Solution, donne-moi des idées de diagrammes ou de schémas à intégrer dans mon PowerPoint."* Vous obtiendrez ainsi d'excellentes suggestions pour concevoir vos supports visuels.
+- **Q : Un dossier composé uniquement de texte ne risque-t-il pas d'ennuyer le jury ?**
+  - R : Totalement. Un "mur de texte" tue l'attention. Astuce : demandez à l'IA : *"Je souhaite illustrer le fonctionnement de ma Solution. Propose-moi des idées de schémas architecturaux ou d'infographies à intégrer dans mon pitch deck."* Vous obtiendrez d'excellents concepts visuels pour aérer votre propos.
 
 ---
 
 ## 🧬 Décryptage du Prompt (Why it works?)
 
-1. **Attribution du persona d'évaluateur :** En attribuant à l'IA le rôle de "consultant ancien membre de jury", on l'oblige à mettre d'elle-même en évidence les points clés (différenciation, potentiel de marché, faisabilité) qui rapportent des points bonus selon les vrais critères d'évaluation.
-2. **Imposition de la structure PSST :** En spécifiant précisément le sommaire PSST, qui est le critère d'évaluation absolu pour ces subventions, on empêche l'IA de s'éloigner du sujet ou d'écrire un roman interminable, l'obligeant ainsi à produire un format immédiatement applicable sur le terrain.
+1. **L'injection du persona d'évaluateur :** En attribuant le rôle d'"ancien membre de jury", l'IA est forcée de mettre en exergue les critères qui maximisent le score d'évaluation (différenciation claire, traction potentielle, faisabilité technique).
+2. **La contrainte structurelle PSST :** En imposant ce framework incontournable des subventions, on bride les tendances de l'IA à la digression. Elle ne rédige plus un roman, mais un argumentaire *plug-and-play* prêt à l'emploi.
 
 ---
 
@@ -120,6 +121,6 @@ Quand j'ai commencé à vivre seul, j'ai trouvé que jeter les restes de nourrit
 
 ## 🎯 Conclusion
 
-Un business plan n'est pas un journal intime pour étaler votre passion, c'est un **"document de persuasion minutieux destiné à convaincre les investisseurs et le jury"**.
+Un business plan n'est pas un exutoire pour étaler votre passion ; c'est un **document stratégique millimétré conçu pour convaincre investisseurs et jurys**.
 
-La douleur de rédiger la toute première phrase la plus difficile, confiez-la désormais à l'IA. Avec un prompt solidement conçu, votre idée se transformera en un **certificat d'acceptation pour une subvention gouvernementale d'une valeur inestimable**. Finalisez votre premier jet dès aujourd'hui ! 🍷
+La paralysie de la page blanche appartient au passé. Déléguez la rédaction du premier jet à l'IA. Avec un prompt d'ingénierie robuste, votre brouillon d'idée se métamorphosera en un **passeport pour décrocher des subventions vitales**. Structurez votre succès dès aujourd'hui ! 🍷

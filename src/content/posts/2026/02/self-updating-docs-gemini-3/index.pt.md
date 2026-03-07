@@ -60,7 +60,7 @@ Um prompt de nível de engenharia, arquitetado para ser embutido diretamente no 
 > 1. Compare e analise meticulosamente o `[Git Diff]` fornecido em relação ao conteúdo integral do `[Documento Alvo]`.
 > 2. Determine se a alteração no código afeta o fluxo de onboarding ou a configuração de ambiente de outros desenvolvedores a ponto de exigir uma documentação atualizada. (Ignore implacavelmente refatorações estruturais, renomeação de variáveis internas ou ajustes ortográficos).
 > 3. Caso a atualização seja imprescindível, reescreva o documento inteiro em Markdown, preservando **intacta** a formatação original e o tom de voz (Tone & Manner).
-> 4. Insira um comentário HTML oculto no final do documento explicando a mudança, utilizando o formato: `<!-- Justificativa da Atualização: [Sua explicação aqui] -->`.
+> 4. Insira um comentário HTML oculto no final do documento explicando a mudança, utilizando o formato: ``.
 > 5. Se o commit tratar apenas de uma alteração menor que não impacta a documentação, retorne **EXCLUSIVAMENTE** a string `[NO_UPDATE_REQUIRED]`.
 >
 > **Restrições (Constraints):**
@@ -97,7 +97,7 @@ Ao implantarmos este prompt no repositório principal de backend da nossa empres
 
 1. **A Lógica de Fuga (Bypass Logic):** Ao condicionar o agente a retornar a flag estrita `[NO_UPDATE_REQUIRED]` em commits puramente técnicos (que não alteram a usabilidade), exterminamos o spam de PRs inúteis no seu repositório.
 2. **Blindagem de Personalidade (Tone & Manner):** Para evitar que a IA esmague a identidade visual do seu documento com uma redação genérica e robótica, a diretriz de "preservação intacta" força o modelo a mimetizar o estilo de escrita dos desenvolvedores humanos da equipe.
-3. **A Trilha de Auditoria (Hidden Explanation):** A injeção de comentários HTML ocultos (`<!-- -->`) força a IA a explicar o seu raciocínio ("Chain of Thought"). Durante o Code Review, isso poupa minutos valiosos do Tech Lead, que entende instantaneamente o porquê da alteração sugerida.
+3. **A Trilha de Auditoria (Hidden Explanation):** A injeção de comentários HTML ocultos (``) força a IA a explicar o seu raciocínio ("Chain of Thought"). Durante o Code Review, isso poupa minutos valiosos do Tech Lead, que entende instantaneamente o porquê da alteração sugerida.
 
 ---
 

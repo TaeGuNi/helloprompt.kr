@@ -69,7 +69,7 @@ Deploy this prompt when you require a sophisticated architecture and deep insigh
 
 ---
 
-## 💡 Writer's Insight
+## 💡 작성자 코멘트 (Insight)
 
 This prompt acts as a critical translator, lowering the massive academic barrier of quantum computing into the practical language of **code**. 
 One of the most significant bottlenecks in modern AI models (especially LLMs) is the **optimization** process—finding the absolute lowest point in a multi-dimensional energy landscape. While classical gradient descent often gets painfully trapped in local minima, quantum circuits offer a revolutionary breakthrough by leveraging superposition and entanglement to explore multiple states simultaneously.
@@ -78,7 +78,7 @@ By utilizing this prompt, you can clearly understand how `cirq` qubits and `tf.k
 
 ---
 
-## 🙋 Frequently Asked Questions (FAQ)
+## 🙋 자주 묻는 질문 (FAQ)
 
 - **Q: Can I run this code without access to actual quantum computer (QPU) hardware?**
   - A: Yes, absolutely! Frameworks like TensorFlow Quantum and Qiskit excel at **simulating** quantum circuits internally using your existing CPU/GPU resources. You can fully prototype and validate your architecture locally without needing physical quantum hardware.

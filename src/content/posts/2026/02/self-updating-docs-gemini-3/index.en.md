@@ -60,7 +60,7 @@ This is a highly sophisticated prompt designed to be embedded in your CI/CD pipe
 > 1. Conduct a comprehensive comparative analysis between the provided `[Git Diff]` and the entire `[Target Document]`.
 > 2. Determine if these code changes impact user onboarding or developer environments, thus requiring a documentation update. (Strictly ignore simple refactoring, variable renaming, or typo fixes.)
 > 3. If an update is deemed necessary, rewrite the entire updated document in Markdown format while flawlessly maintaining the original tone and manner.
-> 4. Append a hidden HTML comment at the very bottom of the document in this format: `<!-- AI_UPDATE_REASON: [Briefly explain the changes] -->`.
+> 4. Append a hidden HTML comment at the very bottom of the document in this format: ``.
 > 5. If the commit is trivial and requires no documentation update, output ONLY `[NO_UPDATE_REQUIRED]`.
 >
 > **Constraints:**
@@ -101,7 +101,7 @@ When deploying this prompt to our internal backend repository, the most mind-blo
 
 1. **Bypass Logic:** By strictly commanding the AI to return `[NO_UPDATE_REQUIRED]` for trivial commits that don't need doc updates, we fundamentally prevent the endless generation of useless PRs.
 2. **Tone & Manner Preservation:** To prevent the AI from overriding your docs with its typical stiff, robotic tone, we provided an explicit context directive to "maintain the original tone and manner."
-3. **Hidden Explanations:** By leveraging HTML comments (`<!-- -->`) to document the reasons for the changes, we made it incredibly fast and easy for human reviewers to verify the AI's reasoning process when approving the PR.
+3. **Hidden Explanations:** By leveraging HTML comments (``) to document the reasons for the changes, we made it incredibly fast and easy for human reviewers to verify the AI's reasoning process when approving the PR.
 
 ---
 

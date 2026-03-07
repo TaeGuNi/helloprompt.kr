@@ -71,7 +71,7 @@ Use this when you want to build a flawless, airtight structure before actually w
 
 ---
 
-## 💡 Writer's Insight
+## 💡 작성자 코멘트 (Insight)
 
 This prompt transplants the **"Storyline Planning Method"** used by actual management consulting firms and corporate strategy departments into AI.
 
@@ -81,7 +81,7 @@ I highly recommend using this prompt with the **Claude 3.5 Sonnet** model, which
 
 ---
 
-## 🙋 Frequently Asked Questions (FAQ)
+## 🙋 자주 묻는 질문 (FAQ)
 
 - **Q: What if I don't know my boss's exact preferences?**
   - A: Rather than leaving the `[boss's preferences]` field blank, it is better to set a universally applicable target like "an executive who prioritizes Return on Investment (ROI) above all else and makes conservative decisions." This is a point most decision-makers resonate with and will help build a robust defensive logic.

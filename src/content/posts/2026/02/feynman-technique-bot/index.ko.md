@@ -75,7 +75,7 @@ Verwenden Sie dies, wenn Sie nicht nur einfache Fragen beantworten, sondern das 
 
 ---
 
-## 💡 Kommentar des Autors (Insight)
+## 💡 작성자 코멘트 (Insight)
 
 Der Kern dieses Prompts liegt im **Verbot von Fachjargon** und der **Überprüfung logischer Zusammenhänge**. Ich kann diese Methode wärmstens empfehlen, wenn Sie in einer praktischen Arbeitsumgebung schnell einen neuen Tech-Stack oder eine komplexe Geschäftslogik verinnerlichen müssen.
 
@@ -83,7 +83,7 @@ Anfangs kommen Sie bei den unschuldigen "Warum?"-Angriffen der Grundschul-KI vie
 
 ---
 
-## 🙋 Häufig gestellte Fragen (FAQ)
+## 🙋 자주 묻는 질문 (FAQ)
 
 - **F: Die KI tut ständig so, als hätte sie meine Erklärung verstanden und geht einfach weiter. Was soll ich tun?**
   - A: Je nach Tendenz des KI-Modells kann es vorkommen, dass es zu "freundlich" zustimmt. Fügen Sie in diesem Fall eine strikte Anweisung in den Prompt ein, wie zum Beispiel: *"Verstehe niemals alles auf Anhieb, suche immer nach Fehlern oder hake kritisch nach"*.

@@ -59,7 +59,7 @@ Un prompt sofisticato progettato per essere integrato in una pipeline CI/CD (es.
 > 1. Confronta e analizza il `[Git Diff]` fornito con l'intero contenuto del `[Documento di Destinazione]`.
 > 2. Valuta se questa modifica impatta sull'onboarding degli utenti o sulla configurazione dell'ambiente per altri sviluppatori al punto da richiedere un aggiornamento. (Ignora categoricamente i semplici refactoring, le modifiche ai nomi delle variabili e le correzioni ortografiche).
 > 3. Se ritieni necessario un aggiornamento, riscrivi l'intero documento in formato Markdown, mantenendo inalterati il tono di voce e la formattazione originali.
-> 4. In fondo al documento, aggiungi un commento nascosto nel formato `<!-- AI_UPDATE_REASON: [Motivo dell'aggiornamento] -->`.
+> 4. In fondo al documento, aggiungi un commento nascosto nel formato ``.
 > 5. Se si tratta di un commit minore che non richiede aggiornamenti, stampa esclusivamente `[NO_UPDATE_REQUIRED]`.
 >
 > **Vincoli (Constraints):**
@@ -96,7 +96,7 @@ Applicando questo prompt ai repository backend della nostra azienda, l'aspetto p
 
 1. **Logica di Bypass (Sospensione del Giudizio):** Istruendo l'agente a restituire `[NO_UPDATE_REQUIRED]` per i commit minori che non impattano la documentazione, stronchiamo sul nascere la creazione di PR inutili.
 2. **Mantenimento del Tone of Voice:** Abbiamo specificato chiaramente di "mantenere inalterati il tono di voce e la formattazione originali". Questo impedisce all'IA di ignorare lo stile aziendale per sostituirlo con il suo classico tono freddo e robotico.
-3. **Spiegazione Nascosta (Hidden Explanation):** Sfruttando i commenti HTML (come `<!-- AI_UPDATE_REASON: [Motivo] -->`) per annotare la logica dietro l'aggiornamento, offriamo a chi fa la Code Review uno strumento immediato per comprendere il ragionamento dell'IA prima di approvare la PR.
+3. **Spiegazione Nascosta (Hidden Explanation):** Sfruttando i commenti HTML (come ``) per annotare la logica dietro l'aggiornamento, offriamo a chi fa la Code Review uno strumento immediato per comprendere il ragionamento dell'IA prima di approvare la PR.
 
 ---
 

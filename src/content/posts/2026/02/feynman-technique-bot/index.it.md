@@ -116,7 +116,7 @@ Passi ore a evidenziare testi. Leggi la definizione della Teoria della Relativit
 
 ### ✅ Dopo (Allenamento con Prompt)
 
-<!-- 📸 Screenshot di una conversazione interattiva in cui l'IA mette in difficoltà l'utente -->
+
 ```text
 Io: "Se ti muovi molto velocemente nello spazio, il tempo per te rallenta."
 IA (12enne): "Ma perché rallenta? Si rompe l'orologio perché vai troppo veloce?"

@@ -125,7 +125,7 @@ Jedes einzelne Mal, wenn neue Verkaufsdaten oder aktualisierte Mitarbeiterlisten
 
 ### ✅ After (Echtzeit-Automatisierung mit QUERY)
 
-<!-- 📸 ChatGPT Screenshot einfügen -->
+
 
 ```plaintext
 =QUERY(Data!A:E, "Select A, B Where C = 'Marketing' and D >= 80", 1)

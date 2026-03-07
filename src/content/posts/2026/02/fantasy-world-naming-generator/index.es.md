@@ -45,7 +45,7 @@ Inventar nombres sin una base lingüística sólida suele resultar en topónimos
 
 ### ✅ After (La transformación perfecta)
 
-<!-- 📸 Captura de pantalla de ChatGPT / Claude con el resultado épico -->
+
 
 ```text
 1. Krak-Vora (Krak-Vora)

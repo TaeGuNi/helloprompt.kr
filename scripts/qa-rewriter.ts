@@ -4,7 +4,7 @@ import path from "node:path";
 import util from "node:util";
 import { glob } from "glob";
 
-const execAsync = util.promisify(exec);
+const _execAsync = util.promisify(exec);
 const execFileAsync = util.promisify(execFile);
 const QUEUE_FILE = path.resolve(process.cwd(), "rewrite-queue.json");
 

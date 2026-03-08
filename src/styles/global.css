@@ -25,7 +25,6 @@
 }
 
 @keyframes glitch {
-
   2%,
   64% {
     transform: translate(2px, 0) skew(0deg);
@@ -969,7 +968,11 @@ p.subtitle {
   left: 0;
   width: 0%;
   height: 3px;
-  background: linear-gradient(90deg, var(--color-cyber-cyan), var(--color-cyber-green));
+  background: linear-gradient(
+    90deg,
+    var(--color-cyber-cyan),
+    var(--color-cyber-green)
+  );
   z-index: 9999;
   transition: width 0.1s linear;
   box-shadow: 0 0 8px rgba(0, 243, 255, 0.5);

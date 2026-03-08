@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.14.1](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.14.0...v1.14.1) (2026-03-08)
+
+
+### Bug Fixes
+
+* **devops:** extend lint-staged to cover .astro/.css and fix release CI monitoring ([4ed5eb4](https://github.com/TaeGuNi/helloprompt.kr/commit/4ed5eb458b4902f96fa29909ab37393ffc26e920))
+
 ## [1.14.0](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.13.3...v1.14.0) (2026-03-08)
 
 

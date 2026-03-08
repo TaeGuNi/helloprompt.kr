@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Carreira e Mudança de Emprego"
-description: "Multiplique suas propostas de emprego em até 10x criando um Título (Headline) otimizado para buscas e uma seção Sobre (About) irresistível para recrutadores."
+description: "Multiplique suas propostas de emprego em 10x com um Título (Headline) otimizado em SEO e uma seção Sobre (About) irresistível para recrutadores."
 tags: ["LinkedIn", "Otimização de Perfil", "Headhunting", "Marca Pessoal"]
 ---
 
-# 📝 Prompt de Otimização de Perfil do LinkedIn: Crie uma Fila de Headhunters
+## 📝 Prompt de Otimização de Perfil do LinkedIn: Crie uma Fila de Headhunters
 
 - **🎯 Recomendado para:** Profissionais de todos os níveis (de Juniores a Seniores)
 - **⏱️ Tempo necessário:** 5 minutos
@@ -21,7 +21,7 @@ tags: ["LinkedIn", "Otimização de Perfil", "Headhunting", "Marca Pessoal"]
 
 > _"Enquanto outros profissionais mudam de emprego com facilidade pelo LinkedIn, por que a sua caixa de entrada continua vazia?"_
 
-O LinkedIn há muito deixou de ser um simples depósito de currículos para se transformar em um poderoso **motor de busca (Search Engine)**. Para não ser invisível na multidão, você precisa posicionar estrategicamente as exatas palavras-chave que os recrutadores utilizam, focando implacavelmente no **Título (Headline)** e no **Sobre (About)**. Chegou a hora de transformar a IA no seu especialista particular de SEO, totalmente dedicado a alavancar a sua carreira.
+O LinkedIn há muito tempo deixou de ser um simples depósito de currículos para se consolidar como um poderoso **motor de busca (Search Engine)**. Para deixar de ser invisível na multidão, você precisa injetar estrategicamente as exatas palavras-chave que os recrutadores utilizam, focando implacavelmente no seu **Título (Headline)** e na seção **Sobre (About)**. Chegou a hora de transformar a IA no seu especialista particular em SEO, totalmente dedicado a alavancar a sua carreira.
 
 ---
 
@@ -75,7 +75,7 @@ Utilize esta versão para construir um perfil de altíssimo impacto, milimetrica
 
 ## 💡 Comentário do Autor (Insight)
 
-A maior armadilha do LinkedIn é tratá-lo como um currículo estático e sem vida. Eu mesmo validei essa exata engenharia de prompt quando fiz a transição de uma startup para uma Big Tech. O verdadeiro "pulo do gato" não é simplesmente mandar a IA "escrever um texto bonito", mas sim forçá-la a raciocinar como um _Headhunter_ sênior operando sob critérios rigorosos de SEO. Ao gerar o seu perfil em português e inglês, você domina o mercado local e entra instantaneamente no radar global. Grave esta regra de ouro: o seu Título (Headline) é a vitrine da sua loja; a seção Sobre (About) é o seu discurso de vendas definitivo (Pitch).
+A maior armadilha do LinkedIn é tratá-lo como um currículo estático e sem vida. Eu mesmo validei essa exata engenharia de prompt quando fiz a transição de uma startup para uma Big Tech. O verdadeiro "pulo do gato" não é simplesmente mandar a IA "escrever um texto bonito", mas sim forçá-la a raciocinar como um **_Headhunter_ sênior** operando sob critérios rigorosos de **SEO**. Ao gerar o seu perfil em português e inglês, você domina o mercado local e entra instantaneamente no radar global. Grave esta regra de ouro: o seu **Título (Headline)** é a vitrine da sua loja; a **seção Sobre (About)** é o seu discurso de vendas definitivo (Pitch).
 
 ---
 

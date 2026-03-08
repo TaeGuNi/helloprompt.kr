@@ -1,15 +1,15 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Tu señal WiFi podría ser una cámara de vigilancia invisible\""
+title: "Tu señal WiFi podría ser una cámara de vigilancia invisible"
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "개인정보보호"
-description: " \"Descubre el peligro oculto tras las señales WiFi: cómo pueden detectar tu ubicación y movimientos, y aprende a proteger tu privacidad.\""
+description: "Descubre el peligro oculto tras las señales WiFi: cómo pueden rastrear tu ubicación y movimientos, y aprende a proteger tu privacidad hoy mismo."
 tags: ["Privacy", "Security", "WiFi", "Tech"]
 ---
 
-# 📝 Ojos que atraviesan paredes: tu router WiFi como herramienta de vigilancia
+## 📝 Ojos que atraviesan paredes: tu router WiFi como herramienta de vigilancia
 
 - **🎯 Recomendado para:** Defensores de la privacidad, ingenieros de redes y responsables de ciberseguridad.
 - **⏱️ Tiempo de lectura:** 30 minutos → reducido a 1 minuto.
@@ -21,15 +21,15 @@ tags: ["Privacy", "Security", "WiFi", "Tech"]
 
 > _"No bajes la guardia solo porque no ves cámaras a tu alrededor. Tu propio router podría estar vigilándote en este preciso instante."_
 
-Investigaciones recientes han lanzado una seria advertencia: mediante el análisis de las fluctuaciones en las señales **WiFi** cotidianas, hoy es posible rastrear la ubicación exacta de una persona dentro de una habitación, mapear sus movimientos e, incluso, **monitorear su respiración y ritmo cardíaco**. No hacen falta cámaras ni micrófonos; las ondas de radio son más que suficientes. En este artículo, te presentamos un prompt diseñado para evaluar el riesgo de esta invasión a tu privacidad y establecer contramedidas efectivas en tu propio entorno.
+Recientes investigaciones han encendido las alarmas: analizando las simples fluctuaciones de tu señal **WiFi** doméstica, hoy es posible rastrear tu ubicación exacta dentro de una habitación, mapear tus movimientos e incluso **monitorizar tu respiración y ritmo cardíaco**. No se necesitan cámaras ocultas ni micrófonos; las ondas de radio que ya cruzan tu casa son suficientes. En este artículo, te entregamos un prompt maestro diseñado para auditar el riesgo de esta invasión silenciosa a tu privacidad y blindar tu entorno de forma efectiva.
 
 ---
 
 ## ⚡️ Resumen en 3 líneas (TL;DR)
 
-1. **La mecánica:** La inteligencia artificial analiza cómo rebotan las señales WiFi en los objetos (CSI) para reconstruir movimientos en 3D.
-2. **La amenaza:** Permite identificar signos vitales de personas incluso a través de las paredes, convirtiéndose en la herramienta de vigilancia invisible perfecta.
-3. **La solución:** Utiliza nuestro prompt de IA para auditar las vulnerabilidades de tu red WiFi (ya sea en casa o en la oficina) y diseña una estrategia de defensa infalible.
+1. **La mecánica:** La IA analiza cómo rebotan las señales WiFi en los objetos y cuerpos (CSI) para reconstruir movimientos en 3D en tiempo real.
+2. **La amenaza:** Permite captar signos vitales y rutinas de personas a través de las paredes, convirtiéndose en el sistema de vigilancia invisible definitivo.
+3. **La solución:** Utiliza nuestro prompt especializado para auditar las vulnerabilidades de tu red (en casa o la oficina) y desplegar una estrategia de defensa infalible.
 
 ---
 
@@ -40,6 +40,7 @@ Investigaciones recientes han lanzado una seria advertencia: mediante el anális
 Perfecta para comprender rápidamente los riesgos y obtener medidas de defensa fundamentales al instante.
 
 > **Rol:** Eres un `[Experto en Ciberseguridad]`.
+>
 > **Tarea:** Resume los peligros de la actual tecnología de `[vigilancia mediante detección WiFi o Análisis CSI]` y proporciona 3 medidas defensivas inmediatas que cualquier usuario pueda implementar hoy mismo.
 
 ### 🥇 Versión Profesional (Pro Version)
@@ -50,7 +51,7 @@ Utiliza esta versión para auditar a fondo las vulnerabilidades de un entorno es
 >
 > **Contexto (Context):**
 >
-> - Antecedentes: Existe una creciente preocupación ante la vigilancia encubierta derivada de la tecnología de detección humana en interiores mediante el uso de CSI (Información del Estado del Canal) de redes WiFi.
+> - Antecedentes: Existe una creciente preocupación ante la vigilancia encubierta derivada de la tecnología de detección humana en interiores mediante el uso de CSI (Información del Estado del Canal) en redes WiFi.
 > - Objetivo: Auditar las vulnerabilidades frente a la vigilancia por WiFi en un entorno específico y redactar un manual de defensa exhaustivo.
 >
 > **Tarea (Task):**
@@ -61,20 +62,20 @@ Utiliza esta versión para auditar a fondo las vulnerabilidades de un entorno es
 >
 > **Restricciones (Constraints):**
 >
-> - El formato de salida debe ser estrictamente Markdown. Estructura los puntos clave utilizando listas con viñetas (-) y bloques de citas (>). No utilices tablas.
+> - El formato de salida debe ser estrictamente Markdown. Estructura los puntos clave utilizando listas con viñetas (-) y bloques de citas (>). No utilices tablas bajo ninguna circunstancia.
 > - Emplea frases concisas y usa emojis de forma estratégica para maximizar la legibilidad en pantallas móviles.
 >
 > **Advertencia (Warning):**
 >
-> - Omite soluciones de bloqueo de radiofrecuencia inviables (como revestir paredes con plomo o métodos de ciencia ficción). Limita tus recomendaciones a configuraciones avanzadas del router y medidas prácticas aplicables en el día a día.
+> - Omite soluciones de bloqueo de radiofrecuencia inviables (como revestir paredes con plomo o métodos propios de la ciencia ficción). Limita tus recomendaciones a configuraciones avanzadas del router y medidas prácticas aplicables en el día a día.
 
 ---
 
 ## 💡 Comentario del Autor (Insight)
 
-Originalmente, esta tecnología (*WiFi Sensing*) nació con propósitos nobles: asistir a personas mayores que viven solas o potenciar la domótica en hogares inteligentes. Sin embargo, en manos de ciberdelincuentes, se convierte en la peor pesadilla para nuestra privacidad. Una simple brecha en tu router implica que cada movimiento dentro de tu propia casa podría estar siendo retransmitido como un mapa de datos en 3D.
+Originalmente, esta tecnología (*WiFi Sensing*) nació con propósitos nobles: asistir a personas mayores que viven solas o potenciar la domótica en hogares inteligentes sin invadir su intimidad visual. Sin embargo, en manos de ciberdelincuentes, se convierte en la peor pesadilla para nuestra privacidad. Una simple brecha en tu router implica que cada movimiento dentro de tu propia casa podría estar siendo retransmitido como un mapa de datos en 3D.
 
-Este prompt va mucho más allá de la mera curiosidad técnica; es una herramienta indispensable para despertar conciencia sobre el rol de "sensor oculto" que juegan los routers y dispositivos IoT a nuestro alrededor. Resulta tremendamente útil tanto para responsables de seguridad corporativa como para usuarios domésticos que deseen auditar proactivamente la configuración de su red (implementando redes de invitados aisladas o calibrando la potencia de transmisión). En una era donde la frontera entre la seguridad física y la digital se ha desvanecido, dominar estos conceptos es una obligación.
+Este prompt va mucho más allá de la mera curiosidad técnica; es una herramienta indispensable para despertar conciencia sobre el rol de "sensor oculto" que juegan los routers y dispositivos IoT a nuestro alrededor. Resulta tremendamente útil tanto para responsables de seguridad corporativa como para usuarios domésticos que deseen auditar proactivamente la configuración de su red (por ejemplo, implementando redes de invitados aisladas o calibrando la potencia de transmisión). En una era donde la frontera entre la seguridad física y la digital se ha desvanecido por completo, dominar estos conceptos es una obligación ineludible.
 
 ---
 
@@ -87,21 +88,21 @@ Este prompt va mucho más allá de la mera curiosidad técnica; es una herramien
 ## 🙋 Preguntas Frecuentes (FAQ)
 
 - **P: ¿De verdad pueden rastrear mis movimientos usando el router estándar que tengo en casa?**
-  - R: Absolutamente. Si el *firmware* de tu router es vulnerado o se infecta con un *malware* diseñado para extraer datos CSI, un router doméstico común puede transformarse en un potente sistema de radar.
+  - R: Absolutamente. Si el *firmware* de tu router es vulnerado o se infecta con un *malware* diseñado para extraer datos CSI, un router doméstico común y corriente puede transformarse en un potente sistema de radar.
 
 - **P: ¿Basta con establecer una contraseña muy compleja para estar a salvo?**
-  - R: Una contraseña robusta y un cifrado fuerte (como WPA3) son la primera línea de defensa, pero no son suficientes. También es crucial desactivar las bandas (2.4GHz o 5GHz) que no utilices, mantener el *firmware* actualizado y bloquear de inmediato el acceso remoto externo al panel de administración del router.
+  - R: Una contraseña robusta y un cifrado fuerte (como WPA3) son la primera línea de defensa, pero no son suficientes. También es crucial desactivar las bandas (2.4 GHz o 5 GHz) que no utilices, mantener el *firmware* siempre actualizado y bloquear de inmediato el acceso remoto externo al panel de administración de tu router.
 
 - **P: ¿Qué debo introducir exactamente en la variable `[Espacio a auditar]` del prompt Pro?**
-  - R: Cuanto más específico seas, mejores serán los resultados. Puedes usar descripciones como "Estudio para una sola persona", "Sala de juntas de una *startup* que maneja datos confidenciales" o "Apartamento de 100 metros cuadrados atestado de dispositivos inteligentes". La IA generará escenarios de riesgo altamente precisos y adaptados a tu contexto.
+  - R: Cuanto más específico seas, mejores serán los resultados. Puedes usar descripciones como *"Estudio para una sola persona"*, *"Sala de juntas de una startup que maneja datos confidenciales"* o *"Apartamento de 100 metros cuadrados atestado de dispositivos inteligentes"*. La IA generará escenarios de riesgo altamente precisos y adaptados a tu propio contexto.
 
 ---
 
 ## 🧬 Anatomía del Prompt (Why it works?)
 
-1. **Asignación de Rol (Ingeniero Principal de Seguridad):** Al investir a la IA con la jerarquía de un experto de élite en ciberseguridad —en lugar de un simple analista informático—, logramos una profundidad analítica muy superior y políticas de mitigación con aplicabilidad real.
+1. **Asignación de Rol (Ingeniero Principal de Seguridad):** Al investir a la IA con la jerarquía de un experto de élite en ciberseguridad —en lugar de un simple analista informático—, logramos una profundidad analítica muy superior y políticas de mitigación con aplicabilidad real en el mundo corporativo o doméstico.
 2. **Contexto (Especificación de la tecnología CSI):** Al evitar términos genéricos como "hackeo" y acotar el análisis al principio técnico exacto ("CSI o Información del Estado del Canal"), forzamos a la IA a operar dentro de un marco técnico riguroso, reduciendo a cero el riesgo de alucinaciones.
-3. **Advertencia (Filtro de pragmatismo):** Al prohibir expresamente soluciones de ciencia ficción (como forrar las paredes con papel de aluminio), garantizamos que la IA produzca exclusivamente protocolos tácticos que puedes implementar de inmediato.
+3. **Advertencia (Filtro de pragmatismo):** Al prohibir expresamente soluciones de ciencia ficción (como forrar las paredes con papel de aluminio), garantizamos que la IA produzca exclusivamente protocolos tácticos que puedes implementar hoy mismo.
 
 ---
 

@@ -16,7 +16,7 @@ tags:
   ]
 ---
 
-# 📝 Atmosfera da Film: Il Segreto dell'Illuminazione Cinematografica
+## 📝 Atmosfera da Film: Il Segreto dell'Illuminazione Cinematografica
 
 - **🎯 Consigliato per:** Designer, Marketer, Content Creator, Artisti IA
 - **⏱️ Tempo richiesto:** 5 minuti → 30 secondi
@@ -28,7 +28,7 @@ tags:
 
 > _"Perché le mie immagini generate dall'IA sembrano sempre piatte, finte e del tutto prive di profondità?"_
 
-Il segreto che separa un'immagine amatoriale da un capolavoro visivo non è il soggetto, ma la **luce**. È l'illuminazione a definire l'atmosfera, guidare l'occhio dello spettatore e scolpire la tridimensionalità. Invece di affidarti a prompt generici e banali come "bella foto" o "alta qualità", l'uso di una terminologia tecnica prestata alla fotografia cinematografica trasformerà radicalmente i tuoi risultati. Oggi ti svelerò il prompt definitivo per ottenere un'illuminazione degna delle migliori produzioni di Hollywood.
+Il vero segreto che separa un'immagine amatoriale da un autentico capolavoro visivo non risiede nel soggetto, ma nella **luce**. È proprio l'illuminazione a scolpire la tridimensionalità, a guidare inesorabilmente l'occhio dello spettatore e a definire il tono emotivo della scena. Smettila di affidarti a prompt generici e insipidi come "bella foto" o "alta qualità". Sfruttando la terminologia tecnica della fotografia cinematografica, potrai stravolgere radicalmente i tuoi risultati. Oggi ti svelerò il prompt definitivo per generare un'illuminazione degna delle più grandi produzioni di Hollywood.
 
 ---
 
@@ -46,13 +46,13 @@ Il segreto che separa un'immagine amatoriale da un capolavoro visivo non è il s
 
 Sfruttala quando hai bisogno di un risultato immediato per conferire profondità a un'immagine semplice. Copia e incolla questo testo, inserendo il tuo soggetto.
 
-> **Prompt:** `[Il tuo soggetto]`, cinematic lighting, dramatic shadows, highly detailed, 8k resolution.
+> **Prompt:** `[Inserisci qui il tuo soggetto]`, cinematic lighting, dramatic shadows, highly detailed, 8k resolution.
 
 ### 🥇 Versione Pro (Esperto)
 
 Per ottenere un controllo assoluto sulla scena e una resa visiva da vera e propria superproduzione hollywoodiana, utilizza questa struttura avanzata.
 
-> **Soggetto:** `[Descrizione dettagliata del soggetto, ad es. Un detective cibernetico in piedi in una strada piovosa di Neo-Tokyo, che osserva intensamente un'insegna al neon]`
+> **Soggetto:** `[Descrizione dettagliata del soggetto. Esempio: Un detective cibernetico in piedi in una strada piovosa di Neo-Tokyo, che osserva intensamente un'insegna al neon]`
 >
 > **Illuminazione:** Cinematic lighting, dramatic shadows, volumetric lighting, rim light, moody atmosphere
 >

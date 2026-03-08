@@ -1,15 +1,15 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "화려한 애니메이션도 순식간에! CSS Keyframe 생성기 (CSS Animation Gen)"
+title: "¡Animaciones espectaculares al instante! Generador de CSS Keyframes"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Design
-description: "Deja de romperte la cabeza calculando curvas de Bézier y fotogramas clave. Delega la creación de animaciones CSS fluidas y naturales a la IA y sal temprano del trabajo."
+description: "Crea animaciones CSS fluidas y orgánicas en segundos. Deja que la IA calcule complejas curvas de Bézier y optimiza tu código sin esfuerzo."
 tags: [AI, CSS, Design, Frontend]
 ---
 
-# 🎨 ¡Animaciones Espectaculares en Segundos! Generador de CSS Keyframes
+## 🎨 ¡Animaciones Espectaculares en Segundos! Generador de CSS Keyframes
 
 - **🎯 Recomendado para:** Desarrolladores Frontend, Diseñadores UI/UX, Maquetadores Web
 - **⏱️ Tiempo requerido:** De 1 hora → a 1 minuto
@@ -19,17 +19,17 @@ tags: [AI, CSS, Design, Frontend]
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"Haz que el botón crezca suavemente, rebote como gelatina y brille con los colores del arcoíris al pulsarlo". ¿Estás a punto de volver a picar código de keyframes a mano ante una petición tan abstracta de tu diseñador?_
+> _"Quiero que el botón crezca suavemente, rebote como gelatina y tenga un brillo iridiscente al hacer clic". ¿Estás a punto de volver a picar código de keyframes a mano ante una petición tan abstracta de tu equipo de diseño?_
 
-Las animaciones CSS suelen verse robóticas, rígidas y poco profesionales si los valores no se ajustan a la perfección. Lograr esa sensación de "física natural" y movimiento fluido requiere innumerables recargas de página y ensayo y error. Es hora de liberarte del sufrimiento de abrir las herramientas de desarrollador para ajustar manualmente las curvas *Cubic-bezier*. Simplemente describe lo que quieres en lenguaje natural y la IA te devolverá un código CSS optimizado, elástico y tan fluido como si corriera a 60 FPS, en cuestión de segundos.
+Las animaciones CSS suelen verse rígidas, robóticas y poco pulidas si los valores no se ajustan con precisión milimétrica. Lograr esa sensación de "física natural" y movimiento fluido exige innumerables recargas de página y una interminable prueba y error. Es hora de liberarte del suplicio de abrir las herramientas de desarrollador para afinar a ciegas las curvas *Cubic-bezier*. Simplemente describe el efecto deseado en lenguaje natural y, en cuestión de segundos, la IA te devolverá un código CSS elástico, perfectamente optimizado y capaz de ejecutarse a unos impecables 60 FPS.
 
 ---
 
 ## ⚡️ Resumen en 3 líneas (TL;DR)
 
-1. Genera código complejo de animaciones CSS `@keyframes` al instante, usando solo descripciones en lenguaje natural.
-2. Obtén recomendaciones precisas de valores `cubic-bezier` personalizados para lograr microinteracciones elásticas y fluidas.
-3. Evita problemas de rendimiento (Reflow) en tu web app mediante código optimizado que utiliza aceleración por GPU.
+1. Genera código complejo de animaciones CSS `@keyframes` al instante usando únicamente descripciones en lenguaje natural.
+2. Obtén recomendaciones precisas de valores `cubic-bezier` personalizados para lograr microinteracciones elásticas y orgánicas.
+3. Evita problemas de rendimiento (*Reflow*) en tu interfaz mediante código altamente optimizado que aprovecha la aceleración por hardware (GPU).
 
 ---
 
@@ -37,74 +37,74 @@ Las animaciones CSS suelen verse robóticas, rígidas y poco profesionales si lo
 
 ### 🥉 Versión Básica (Basic Version)
 
-Utiliza este prompt cuando necesites código de animación rápido para movimientos básicos.
+Utiliza este prompt cuando necesites código de animación rápido para movimientos sencillos y directos.
 
 > **Rol:** Eres un `[Desarrollador Frontend especializado en UI]`.
+>
 > **Tarea:** Escribe el código de animación CSS con `@keyframes` para `[una notificación que aparece deslizándose suavemente desde la esquina superior derecha de la pantalla]`.
-
 
 ### 🥇 Versión Profesional (Pro Version)
 
-Utiliza este prompt cuando necesites código de nivel de producción, con físicas de movimiento naturales y un rendimiento optimizado al máximo mediante aceleración por GPU.
+Utiliza este prompt cuando requieras código de nivel de producción, con físicas de movimiento hiperrealistas y un rendimiento llevado al límite mediante aceleración por GPU.
 
 > **Rol (Role):** Eres un `[Desarrollador UI/UX Senior con 10 años de experiencia y Diseñador de Interacciones]`.
 >
 > **Contexto (Context):**
 >
-> - Fondo: `[Necesito implementar microinteracciones elegantes y muy naturales para maximizar la experiencia de usuario (UX) de nuestra aplicación web]`.
-> - Objetivo: `[Generar un código de animación CSS de alta calidad que se ejecute fluidamente a 60fps sin tirones (jank)]`.
+> - Fondo: `[Necesito implementar microinteracciones elegantes y muy naturales para elevar al máximo la experiencia de usuario (UX) de nuestra aplicación web]`.
+> - Objetivo: `[Generar un código de animación CSS de calidad premium que se ejecute de forma fluida a 60 FPS sin caídas de frames ni tirones (jank)]`.
 >
 > **Tarea (Task):**
 >
-> 1. Basándote en la siguiente **[Descripción de la Animación]**, escribe un código `@keyframes` detallado y meticuloso.
-> 2. Proporciona el código CSS en formato de clase (`.class`) para que la animación se pueda aplicar inmediatamente a un elemento.
-> 3. En lugar del típico y aburrido `ease-in-out`, recomiéndame e implementa un valor `cubic-bezier` personalizado y sofisticado que capture perfectamente la "sensación" del movimiento que he solicitado.
+> 1. Basándote en la siguiente **[Descripción de la Animación]**, redacta un código `@keyframes` meticuloso y detallado.
+> 2. Proporciona el código CSS encapsulado en una clase (`.class`) para poder aplicarlo inmediatamente a cualquier elemento del DOM.
+> 3. En lugar del típico y monótono `ease-in-out`, recomiéndame e implementa un valor `cubic-bezier` personalizado y sofisticado que capture a la perfección la "sensación" del movimiento que te he solicitado.
 >
 > **[Descripción de la Animación]**
 >
 > - Elemento: `[Ventana emergente de notificación (Toast Message)]`
 > - Movimiento: `[Aparece deslizándose desde la esquina superior derecha (Slide In), hace una breve pausa y desaparece desvaneciéndose hacia arriba (Fade Out)]`
-> - Sensación: `[Un movimiento muy fluido y orgánico, nada rígido, con un ligero rebote elástico (Bounce) parecido al de una gelatina]`
+> - Sensación: `[Un movimiento muy orgánico y fluido, nada rígido, con un ligero rebote elástico (Bounce) similar a la textura de una gelatina]`
 > - Duración: `[Animación completa de 3 segundos]`
 >
 > **Restricciones (Constraints):**
 >
-> - Para optimizar el rendimiento, queda estrictamente prohibido utilizar propiedades de diseño que provoquen *Repaint* o *Reflow* (como `width`, `top`, `margin`, etc.).
-> - Utiliza EXCLUSIVAMENTE las propiedades `transform` y `opacity` para aprovechar al máximo la aceleración por hardware (GPU).
-> - Entrega el resultado final en un bloque de código Markdown listo para ser copiado y pegado.
+> - Para garantizar el máximo rendimiento, queda estrictamente prohibido utilizar propiedades de diseño que desencadenen *Repaint* o *Reflow* (como `width`, `top`, `margin`, etc.).
+> - Utiliza EXCLUSIVAMENTE las propiedades `transform` y `opacity` para sacar todo el partido a la aceleración por hardware (GPU).
+> - Entrega el resultado final dentro de un bloque de código Markdown listo para copiar y pegar.
 >
 > **Advertencia (Warning):**
 >
-> - Dado que este código se aplicará directamente en un entorno de producción, no generes código que rompa la compatibilidad entre navegadores ni contenga errores de sintaxis.
+> - Dado que este código se desplegará directamente en un entorno de producción, asegúrate de no generar código que rompa la compatibilidad entre los principales navegadores ni que contenga errores de sintaxis.
 
 ---
 
 ## 💡 Comentario del Autor (Insight)
 
-El alma de cualquier animación reside en el "ritmo" y la "curva". En el código generado por la IA, ajustar ligeramente los valores de `animation-duration` o los decimales del `cubic-bezier` puede cambiar radicalmente la atmósfera de tu interfaz.
+El alma de cualquier animación reside en el "ritmo" y la "curva". En el código generado por la IA, un ajuste milimétrico en los valores de `animation-duration` o en los decimales del `cubic-bezier` puede transformar radicalmente la atmósfera de tu interfaz.
 
-Un consejo profesional: añade a tu prompt la frase **"Aplica un efecto de desaceleración (deceleration) premium al estilo de la página web de Apple"**. Verás cómo un movimiento simple y rígido se transforma mágicamente en una interacción de gama alta, como si hubieras contratado a una agencia de diseño carísima. 🍎 ¡Deja de perder noches enteras peleando con curvas de Bézier basadas en tu intuición!
+Un consejo profesional: añade a tu prompt la frase **"Aplica un efecto de desaceleración (deceleration) premium al estilo de la página web de Apple"**. Verás cómo un movimiento lineal y aburrido muta mágicamente en una interacción de altísima gama, como si hubieras contratado a una exclusiva agencia de diseño. 🍎 ¡Deja de quemarte las pestañas de madrugada peleando a ciegas con curvas de Bézier!
 
 ---
 
 ## 🙋 Preguntas Frecuentes (FAQ)
 
 - **P: ¿Puedo usar este prompt en entornos como Tailwind CSS o Styled-Components?**
-  - R: ¡Por supuesto! Solo tienes que añadir una línea al Contexto o a la Tarea del prompt diciendo: "Escribe el código usando clases de utilidad `animate-` y la configuración de `tailwind.config.js` de Tailwind CSS" o "Genera el código utilizando la sintaxis de la función helper `keyframes` de Styled-Components". La IA adaptará el código perfectamente a tu entorno.
+  - R: ¡Por supuesto! Solo tienes que añadir una línea al Contexto o a la Tarea del prompt indicando: "Escribe el código usando clases de utilidad `animate-` y la configuración de `tailwind.config.js` de Tailwind CSS" o "Genera el código utilizando la sintaxis del helper `keyframes` de Styled-Components". La IA adaptará la salida perfectamente a tu stack tecnológico.
 
 - **P: ¿También se puede convertir a la sintaxis de Framer Motion (React) o Transition (Vue)?**
-  - R: Sí, es totalmente posible. Si especificas tu biblioteca de animación preferida diciendo algo como: "Escribe el código como un componente de movimiento usando las propiedades `initial`, `animate` y `transition` de Framer Motion para React", la IA te devolverá un componente optimizado aprovechando las ventajas de esa sintaxis.
+  - R: Sí, es totalmente viable. Si especificas tu biblioteca de animación preferida diciendo algo como: "Escribe el código como un componente animado usando las propiedades `initial`, `animate` y `transition` de Framer Motion para React", la IA te devolverá un componente completamente optimizado aprovechando los hooks de esa sintaxis.
 
-- **P: He aplicado el código de animación generado por la IA, pero la pantalla da tirones. ¿Hay alguna solución?**
-  - R: En el 99% de los casos, las caídas de rendimiento ocurren porque se han animado directamente propiedades que causan *Reflow*, como `width`, `height`, `top` o `left` dentro de los fotogramas clave. Como se indica en las Restricciones del prompt de la versión Pro, debes exigirle firmemente a la IA que construya la animación utilizando *exclusivamente* `transform: translate()` y `opacity`.
+- **P: He aplicado el código de animación generado por la IA, pero la interfaz da tirones en móviles. ¿Hay alguna solución?**
+  - R: En el 99% de los casos, las caídas de *framerate* ocurren porque se han animado directamente propiedades que causan *Reflow* —como `width`, `height`, `top` o `left`— dentro de los fotogramas clave. Como se subraya en las Restricciones de la versión Pro, debes exigirle firmemente a la IA que construya la animación utilizando **exclusivamente** `transform` (como `translate()`) y `opacity`.
 
 ---
 
 ## 🧬 Anatomía del Prompt (Why it works?)
 
-1. **Rol de Experto (Role):** Al definir a la IA no como un simple generador de código, sino como un "Diseñador de Interacciones Senior", inducimos resultados estéticamente superiores y llenos de detalles.
-2. **Cuantificación de Sensaciones Abstractas (Task):** El prompt está diseñado para que la IA traduzca a la perfección expresiones humanas, emocionales y abstractas como "como gelatina" o "suavemente" en valores matemáticos precisos dentro de una curva `cubic-bezier` óptima.
-3. **Restricciones enfocadas en el Rendimiento (Constraints):** Para evitar de raíz el mayor dolor de cabeza en el desarrollo frontend (los tirones en las animaciones o *Jank*), hemos aplicado una restricción estricta que obliga a utilizar únicamente propiedades aceleradas por la GPU.
+1. **Rol de Experto (Role):** Al definir a la IA no como un simple autómata generador de código, sino como un "Diseñador de Interacciones Senior", la inducimos a priorizar resultados estéticamente superiores y ricos en matices.
+2. **Cuantificación de Sensaciones Abstractas (Task):** El prompt está diseñado para que la IA traduzca a la perfección expresiones humanas, emocionales y abstractas —como "textura de gelatina" o "suavemente"— en valores matemáticos precisos dentro de una curva `cubic-bezier` óptima.
+3. **Restricciones enfocadas en el Rendimiento (Constraints):** Para cortar de raíz el mayor dolor de cabeza del desarrollo frontend (las animaciones a tirones o *Jank*), hemos blindado el prompt con una restricción estricta que obliga a utilizar únicamente propiedades que delegan el trabajo a la GPU.
 
 ---
 
@@ -168,7 +168,7 @@ Un consejo profesional: añade a tu prompt la frase **"Aplica un efecto de desac
 
 ## 🎯 Conclusión
 
-Ya se acabaron esos momentos de frustración mirando un diseño y pensando: "¿Qué curva de Bézier tendré que usar para conseguir este movimiento elástico...?".
-A partir de ahora, describe tu excelente sentido del movimiento con lenguaje natural y deja que la IA se encargue de los cálculos físicos complejos y de la optimización del código.
+Se acabaron esos momentos de frustración mirando un diseño estático y preguntándote: "¿Qué curva de Bézier tendré que adivinar para conseguir este movimiento elástico...?".
+A partir de ahora, simplemente describe tu visión del movimiento con lenguaje natural y deja que la IA se encargue de los complejos cálculos físicos y de la optimización del código.
 
-¡Disfruta de interacciones suaves y perfectas, y sal temprano del trabajo! 🍷
+¡Disfruta de microinteracciones impecables y sal temprano del trabajo! 🍷

@@ -1,6 +1,6 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "백엔드 기다리지 마세요! AI Mock Server 생성기 (API Mock Gen)"
+title: "Stop Waiting for the Backend! AI Mock Server Generator (API Mock Gen)"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
@@ -9,7 +9,7 @@ description: "Just hand over the API specs, and AI will instantly generate an Ex
 tags: [AI, Backend, Frontend, Testing]
 ---
 
-# 📝 Stop Waiting for the Backend! AI Mock Server Generator
+## 📝 Stop Waiting for the Backend! AI Mock Server Generator
 
 - **🎯 Target Audience:** Frontend Developers, Full-Stack Developers, Product Managers
 - **⏱️ Time Saved:** 1 day → 1 minute
@@ -21,8 +21,8 @@ tags: [AI, Backend, Frontend, Testing]
 
 > *"Are the designs ready and the logic planned, but you're stuck hardcoding dummy data because the backend API isn't finished yet?"*
 
-The eternal struggle of frontend developers: "Is the backend API ready yet?" 🐢
-You no longer need to waste time writing temporary code while waiting for the API, only to tear it all down and rewrite it when the real endpoints are finally integrated. If you have an API specification (Swagger, Notion docs, or even a text description), AI can build a fully functional Mock Server for you in just one minute.
+The eternal struggle of frontend developers: *"Is the backend API ready yet?"* 🐢
+You no longer need to waste hours writing temporary dummy code while waiting for the API, only to tear it all down and rewrite it when the real endpoints are finally integrated. If you have an API specification (whether it's Swagger, a Notion document, or even just a brief text description), AI can build a fully functional, highly realistic Mock Server for you in under a minute.
 
 ---
 
@@ -34,7 +34,7 @@ You no longer need to waste time writing temporary code while waiting for the AP
 
 ---
 
-## 🚀 The Solution: "API Mock Server Generator"
+## 🚀 The Solution: AI Mock Server Generator
 
 ### 🥉 Basic Version
 
@@ -43,7 +43,6 @@ Use this when you need a basic mock API up and running instantly.
 > **Role:** You are a `[Senior Backend Developer]`.
 >
 > **Task:** Based on the `[API Specification]` I provide, write the complete, immediately runnable code for a Mock Server in an `[Express.js]` environment.
-
 
 ### 🥇 Pro Version
 
@@ -58,7 +57,7 @@ Use this when you need high-quality details like random network delays, edge-cas
 >
 > **Task:**
 >
-> Write the complete, executable Mock Server code based on the API specification below.
+> Write the complete, immediately executable Mock Server code based on the API specification below.
 >
 > **Tech Stack:**
 >
@@ -92,33 +91,33 @@ Use this when you need high-quality details like random network delays, edge-cas
 
 ## 💡 Writer's Insight
 
-The absolute game-changer when using this prompt is explicitly requesting **"Random Delay"** and **"Random Error"** injections. 
-Local mock servers usually respond in milliseconds—way too fast to accurately test your Skeleton UIs or loading spinners. By introducing artificial latency, you can perfectly calibrate your frontend's visual feedback. 
+The absolute game-changer in this prompt is explicitly requesting **Random Delay** and **Random Error** injections. 
+Local mock servers typically respond in milliseconds—which is far too fast to accurately test your Skeleton UIs or loading spinners. By introducing artificial network latency, you can perfectly calibrate your frontend's visual feedback and loading states. 
 
-Furthermore, configuring a 5% chance of a 500 Internal Server Error allows you to rigorously test your edge cases. You can verify if your error toast notifications or Fallback boundary UIs trigger correctly without manually breaking your code. 
+Furthermore, configuring a 5% probability of a 500 Internal Server Error allows you to rigorously test your application's edge cases. You can verify whether your error toast notifications or Fallback boundary UIs trigger correctly, all without manually breaking your frontend code. 
 
-When the backend developer finally says, "The API is ready!", you get the ultimate satisfaction of replying, "Great, my integration and error-handling tests are already done." 😎
+When the backend developer finally announces, *"The API is ready!"*, you get the ultimate satisfaction of replying, *"Great, my integration and error-handling tests are already finished."* 😎
 
 ---
 
 ## 🙋 Frequently Asked Questions (FAQ)
 
-- **Q: I have a Swagger JSON file. Can I use that?**
-  - A: Absolutely! Just paste the raw Swagger (OpenAPI) JSON text directly into the 'API Specification' section of the prompt. The AI will generate a Mock Server with much more precise types and response schemas.
-
-- **Q: If I create or update data using POST/PUT, will it be saved?**
-  - A: By default, the mock server stores data in memory (like an array), so it resets whenever the server restarts. If you need persistent data, add this instruction to your prompt: *"Use `lowdb` or `json-server` to persist data in a local file (e.g., db.json)."*
-
-- **Q: I'm using Next.js. Can it generate code for something other than Express?**
-  - A: Of course! Just change the 'Tech Stack' framework variable to `Next.js API Routes (App Router Route Handlers)`. The AI will output code tailored to drop right into your Next.js project's `app/api` directory.
+- **Q: I already have a Swagger JSON file. Can I use that instead of a text description?**
+  - A: Absolutely! Simply paste the raw Swagger (OpenAPI) JSON text directly into the `[API Specification]` variable of the prompt. The AI will parse it and generate a Mock Server with highly precise TypeScript interfaces and response schemas.
+  
+- **Q: If I create or update data using POST/PUT requests, will the changes be saved?**
+  - A: By default, this mock server stores data in memory (using arrays), meaning it resets every time the server restarts. If you require persistent data, add the following instruction to your prompt: *"Use `lowdb` or `json-server` to persist data in a local file like db.json."*
+  
+- **Q: I am using Next.js. Can the AI generate code for frameworks other than Express?**
+  - A: Of course! Just update the `[Framework]` variable in the 'Tech Stack' section to `Next.js API Routes (App Router Route Handlers)`. The AI will output perfectly structured code that you can drop directly into your Next.js project's `app/api` directory.
 
 ---
 
 ## 🧬 Prompt Anatomy (Why it works?)
 
-1. **Role and Context Assignment:** By assigning the persona of a 'Test Environment Setup Expert' rather than just a coder, the AI proactively addresses real-world frontend pain points (like CORS issues and latency simulation).
-2. **Realistic Constraints:** Instead of returning useless data like 'test1' or 'test2', demanding `faker.js` or realistic dummy data ensures your UI looks exactly as it would in production.
-3. **Edge Case Simulation:** Explicitly requiring error probabilities and random network delays forces the creation of an environment that tests not just the "happy path" (200 OK), but the robustness of your error handling.
+1. **Targeted Role & Context:** By assigning the persona of a *Test Environment Setup Expert* rather than just a generic programmer, the AI proactively anticipates and resolves real-world frontend pain points, such as CORS configuration and latency simulation.
+2. **Strict & Realistic Constraints:** Instead of generating useless placeholder data like 'test1', enforcing the use of `faker.js` ensures that your UI is populated with highly realistic dummy data, matching your production environment.
+3. **Built-in Edge Case Simulation:** Explicitly mandating error injection probabilities and random network delays forces the AI to build an environment that tests the resilience of your error handling, rather than just the "happy path" (200 OK).
 
 ---
 
@@ -186,7 +185,7 @@ app.listen(3000, () => {
 
 ## 🎯 Conclusion
 
-As long as you have an API specification, you never have to sit idly waiting for the backend again. 
-Use the smart Mock Server generated by AI in just one minute to perfectly test everything from loading spinners to edge-case error popups. It's the ultimate way to simultaneously boost your development speed and the polish of your UI.
+As long as you have an API specification, you never have to sit idly waiting for backend endpoints to be deployed again. 
+By leveraging an AI-generated Mock Server in just one minute, you can flawlessly test everything from loading spinners to edge-case error boundaries. It is the ultimate strategy to simultaneously accelerate your development speed and elevate the overall polish of your UI.
 
-Now, log off early and enjoy your evening! 🍷
+Implement this today, automate your workflow, and enjoy leaving work on time! 🍷

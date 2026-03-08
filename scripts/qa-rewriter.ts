@@ -4,7 +4,7 @@ import path from "node:path";
 import util from "node:util";
 import { glob } from "glob";
 
-const execAsync = util.promisify(exec);
+const _execAsync = util.promisify(exec);
 const execFileAsync = util.promisify(execFile);
 const QUEUE_FILE = path.resolve(process.cwd(), "rewrite-queue.json");
 
@@ -83,6 +83,8 @@ Your job is to REVISE the provided Markdown file for perfect native fluency whil
    - Basic/Pro sections use blockquotes (>)
    - Tables for ratings are BANNED. You MUST use emoji lists (e.g. - ⭐ **Difficulty:** ⭐⭐☆☆☆).
    - PRESERVE the 'image' property exactly as it is in the original frontmatter if it exists.
+   - MUST KEEP the frontmatter 'description' under 160 characters (including spaces) for optimal SEO.
+   - The post MUST start with an H2 (##) heading for the main title, NOT an H1 (#), to prevent duplicate H1 tags.
 6. **TEMPLATE VARIABLES:** You MUST completely translate any placeholder brackets \`[Like This]\` into the target language context. NEVER leave Korean text inside brackets like \`[한국어]\`.
    
 RETURN FORMAT:
@@ -175,15 +177,6 @@ async function runRewriter(targetDirs?: string[]) {
           );
         }
         await fs.writeFile(file, rewrittenContent, "utf-8");
-
-        if (file.endsWith("index.ko.md")) {
-          console.log(`   🎨 Triggering Image Generation for ${file}...`);
-          try {
-            await execAsync(`pnpm generate:image ${file}`);
-          } catch (imgErr) {
-            console.error(`   ❌ Image generation failed for ${file}:`, imgErr);
-          }
-        }
 
         return { file, success: true };
       } catch (e: unknown) {

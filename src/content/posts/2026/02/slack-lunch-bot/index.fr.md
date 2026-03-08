@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "Découvrez comment connecter le Workflow Builder de Slack à l'IA pour créer un assistant de recommandation de repas pour votre équipe, sans écrire la moindre ligne de code."
+description: "Déployez un bot de recommandation de repas pour votre équipe en connectant le Workflow Builder de Slack à l'IA, sans écrire une seule ligne de code."
 tags: ["Slack", "슬랙", "챗봇", "자동화", "사내문화"]
 ---
 
-# 🤖 Créer un bot Slack : l'assistant de recommandation de repas pour votre équipe
+## 🤖 Créer un bot Slack : l'assistant de recommandation de repas pour votre équipe
 
 - **🎯 Cible recommandée :** Les collaborateurs qui redoutent le choix quotidien du déjeuner, ou les équipes RH souhaitant insuffler plus de convivialité dans les échanges internes.
 - **⏱️ Temps estimé :** 10 minutes (via Slack Workflow Builder)
@@ -21,7 +21,7 @@ tags: ["Slack", "슬랙", "챗봇", "자동화", "사내문화"]
 
 > _« On mange où ce midi ? Peu importe... Des pâtes ? Bof, pas trop envie... » Mettez fin à ce supplice quotidien ! Confiez cette mission à l'IA et préservez votre charge mentale pour ce qui compte vraiment._
 
-Le choix du déjeuner est bien souvent le plus grand dilemme de la journée au bureau. Fini les regards fuyants et les silences gênés : il vous suffit désormais d'interroger votre messagerie interne. Demandez-lui « Qu'est-ce qu'on mange par ce temps pluvieux ? » pour obtenir une suggestion pertinente et pleine d'esprit, du type : « Avec ce déluge, rien ne vaut un bon ramen fumant pour se réchauffer ! ». Voici comment déployer ce bot intelligent directement via le Workflow Builder de Slack, sans écrire la moindre ligne de code.
+Le choix du repas de midi est sans doute le dilemme le plus redouté au bureau. Fini les interminables hésitations et les « comme tu veux » gênants : il suffit désormais d'interroger votre espace de travail. Demandez-lui « Qu'est-ce qu'on mange par ce temps pluvieux ? » et obtenez instantanément une suggestion pertinente et pleine d'esprit, du type : « Avec ce déluge, rien ne vaut un bon ramen fumant pour se réchauffer ! ». Découvrez comment déployer ce bot intelligent directement via le Workflow Builder de Slack, et ce, sans taper la moindre ligne de code.
 
 ---
 
@@ -40,6 +40,7 @@ Le choix du déjeuner est bien souvent le plus grand dilemme de la journée au b
 Idéale pour obtenir une suggestion instantanée lorsque personne n'arrive à se décider.
 
 > **Rôle :** Tu es un assistant convivial et bienveillant, chargé de choisir le menu du déjeuner pour notre équipe.
+> 
 > **Tâche :** Choisis de manière aléatoire une catégorie parmi la cuisine française, italienne, asiatique, la restauration rapide ou l'alimentation saine (healthy). Ensuite, recommande 3 plats populaires et fédérateurs dans cette catégorie, parfaits pour un déjeuner entre collègues.
 
 ### 🥇 Version Pro (Pro Version)

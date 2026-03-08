@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatisation du Travail"
-description: " \"Créez votre propre simulateur de prêt sur Excel sans dépendre des simulateurs bancaires.\""
+description: "Créez votre propre simulateur de prêt sur Excel sans dépendre des simulateurs bancaires."
 tags: ["Excel", "IntérêtPrêt", "FonctionFinancière", "PMT"]
 ---
 
-# 📝 Tableau d'Amortissement de Prêt : Échéances Constantes vs Amortissement Constant
+## 📝 Tableau d'Amortissement de Prêt : Échéances Constantes vs Amortissement Constant
 
 - **🎯 Recommandé pour :** Particuliers avec un crédit en cours, investisseurs immobiliers, professionnels de la finance
 - **⏱️ Temps requis :** 30 minutes → 1 minute
@@ -21,15 +21,15 @@ tags: ["Excel", "IntérêtPrêt", "FonctionFinancière", "PMT"]
 
 > _"Vous remboursez 1 000 € par mois, mais savez-vous réellement quelle part rembourse votre capital et quelle part enrichit la banque ?"_
 
-Il existe deux méthodes principales pour rembourser un emprunt : les **échéances constantes** (où la mensualité reste identique) et l'**amortissement constant** (où la mensualité diminue au fil du temps). Laquelle est la plus avantageuse pour vous ? Plutôt que de vous fier aveuglément aux simulateurs en ligne des banques, créer votre propre tableau d'amortissement avec les fonctions financières d'Excel (`VPM`, `INTPER`, `PRINCPER`) vous permet de visualiser instantanément le coût total du crédit et de reprendre le contrôle absolu sur vos finances.
+Il existe deux grandes méthodes pour rembourser un emprunt : les **échéances constantes** (où la mensualité reste identique de bout en bout) et l'**amortissement constant** (où la mensualité diminue au fil du temps). Laquelle de ces stratégies est la plus avantageuse pour vous ? Plutôt que de vous fier aveuglément aux simulateurs en ligne "boîtes noires" des banques, créer votre propre tableau d'amortissement grâce aux fonctions financières d'Excel (`VPM`, `INTPER`, `PRINCPER`) vous permet de visualiser instantanément le véritable coût de votre crédit et de reprendre le contrôle absolu sur vos finances personnelles.
 
 ---
 
 ## ⚡️ Résumé en 3 lignes (TL;DR)
 
-1. **Calcul des mensualités :** Obtenez automatiquement votre paiement mensuel (Capital + Intérêts) grâce à la fonction `VPM`.
-2. **Ventilation des coûts :** Séparez précisément la part des intérêts (`INTPER`) de celle du capital remboursé (`PRINCPER`).
-3. **Tableau d'amortissement :** Générez un calendrier complet détaillant l'évolution de votre solde restant dû pour chaque échéance (de 1 à 360 mois).
+1. **Calcul des mensualités :** Obtenez automatiquement le montant exact de votre paiement mensuel (Capital + Intérêts) grâce à la fonction `VPM`.
+2. **Ventilation des coûts :** Isolez avec précision la part dédiée aux intérêts (`INTPER`) de celle allouée au remboursement du capital (`PRINCPER`).
+3. **Tableau d'amortissement :** Générez un calendrier complet qui détaille l'évolution de votre solde restant dû pour chaque échéance (de 1 à 360 mois).
 
 ---
 
@@ -37,15 +37,15 @@ Il existe deux méthodes principales pour rembourser un emprunt : les **échéan
 
 ### 🥉 Basic Version (Version Rapide)
 
-Idéal si vous avez besoin d'une formule immédiate sans détails complexes.
+Idéal si vous avez besoin d'une formule immédiate pour un calcul ponctuel, sans vous noyer dans des détails complexes.
 
 > **Rôle :** Tu es un `[Expert en Modélisation Financière sur Excel]`.
+>
 > **Requête :** Crée-moi un tableau d'amortissement de prêt sur Excel pour un emprunt avec des échéances constantes. Donne-moi les formules exactes.
-
 
 ### 🥇 Pro Version (Version Experte)
 
-Utilisez ce prompt pour générer un simulateur de prêt digne d'un analyste financier, prêt à l'emploi.
+Utilisez ce prompt pour générer un simulateur de prêt robuste, digne d'un véritable analyste financier et immédiatement prêt à l'emploi.
 
 > **Rôle (Role) :** Tu es un `[Expert en Modélisation Financière et Formules Excel]`.
 >
@@ -71,25 +71,25 @@ Utilisez ce prompt pour générer un simulateur de prêt digne d'un analyste fin
 
 ## 💡 Commentaire de l'Auteur (Insight)
 
-Les simulateurs bancaires en ligne sont pratiques, mais ils manquent souvent de transparence et ne vous permettent pas de simuler des scénarios personnalisés (comme un remboursement anticipé partiel). En utilisant l'IA pour générer ces formules financières Excel, vous ne vous contentez pas d'obtenir un résultat chiffré : vous construisez un véritable outil réutilisable. Je me sers personnellement de ce modèle pour comparer rapidement différentes offres de prêt immobilier. La vraie magie réside dans la demande de références absolues (`$`) : une fois l'excellente formule générée par l'IA, un simple double-clic dans le coin de la cellule déploie votre calendrier sur 25 ans instantanément !
+Les simulateurs bancaires en ligne sont certes pratiques, mais ils manquent cruellement de transparence et vous empêchent de tester des scénarios personnalisés (comme l'impact d'un remboursement anticipé partiel). En utilisant l'IA pour générer ces formules financières sur Excel, vous ne vous contentez pas d'obtenir un simple résultat chiffré : vous construisez un outil sur mesure et entièrement réutilisable. Je me sers personnellement de ce modèle pour comparer d'un coup d'œil différentes offres de prêt immobilier. La véritable puissance de ce prompt réside dans la directive sur les **références absolues** (`$`) : une fois l'excellente formule générée par l'IA, un simple double-clic dans le coin de votre cellule permet de déployer l'intégralité de votre calendrier d'amortissement sur 25 ans en une fraction de seconde !
 
 ---
 
 ## 🙋 Foire Aux Questions (FAQ)
 
 - **Q : Les fonctions Excel diffèrent-elles selon la langue du logiciel ?**
-  - R : Oui ! Si votre logiciel Excel est en anglais, `VPM` devient `PMT`, `INTPER` devient `IPMT` et `PRINCPER` devient `PPMT`. Le grand avantage de l'IA, c'est que vous pouvez lui préciser : "Génère les formules pour la version anglaise d'Excel".
+  - R : Absolument ! Si l'interface de votre Excel est en anglais, la fonction `VPM` devient `PMT`, `INTPER` devient `IPMT` et `PRINCPER` devient `PPMT`. L'avantage indéniable de l'IA, c'est que vous pouvez simplement lui préciser : *"Génère les formules pour la version anglaise d'Excel"*.
 
 - **Q : Comment puis-je intégrer le coût de l'assurance emprunteur dans ce calcul ?**
-  - R : L'assurance est souvent calculée sur le capital emprunté initial. Ajoutez simplement cette ligne à vos contraintes dans le prompt : "Ajoute une formule pour une colonne 'Assurance' de 0,36 % par an basée sur le capital initial B1".
+  - R : L'assurance est généralement calculée sur la base du capital initial emprunté. Il vous suffit d'ajouter cette directive à vos contraintes dans le prompt : *"Ajoute une formule pour une colonne 'Assurance' de 0,36 % par an basée sur le capital initial B1"*.
 
 ---
 
 ## 🧬 Anatomie du Prompt (Pourquoi ça marche ?)
 
-1.  **Variables précises (Contexte) :** En fournissant d'emblée les références exactes des cellules (B1, B2, B3), l'IA génère des formules directement utilisables (prêtes au copier-coller), sans ajustement manuel frustrant.
-2.  **Anticipation des erreurs (Contraintes) :** La directive exigeant de diviser le taux par 12 évite l'erreur classique du taux annuel appliqué à une mensualité. L'IA anticipe ainsi les pièges mathématiques.
-3.  **Scalabilité (Références absolues) :** Demander explicitement l'utilisation du symbole `$` permet de créer une structure robuste où la formule peut être étirée sur des centaines de lignes sans générer d'erreurs de référence.
+1. **Variables précises (Contexte) :** En fournissant d'emblée les références exactes des cellules (B1, B2, B3), l'IA génère des formules directement utilisables (prêtes au copier-coller), vous épargnant ainsi d'interminables ajustements manuels.
+2. **Anticipation des erreurs (Contraintes) :** La directive qui exige de diviser le taux annuel par 12 évite l'erreur fatale (et classique) du taux annuel appliqué à une mensualité. L'IA anticipe et désamorce ainsi les pièges mathématiques.
+3. **Scalabilité (Références absolues) :** Exiger explicitement l'utilisation du symbole `$` oblige l'IA à créer une structure de données robuste, permettant d'étirer la formule sur des centaines de lignes sans jamais déclencher d'erreurs de référence.
 
 ---
 
@@ -97,9 +97,9 @@ Les simulateurs bancaires en ligne sont pratiques, mais ils manquent souvent de 
 
 ### ❌ Avant (Entrée basique)
 
-Comment calculer l'intérêt d'un prêt dans Excel ?
+Comment calculer l'intérêt d'un prêt sur Excel ?
 
-_(Résultat : Une explication théorique longue, verbeuse, sans formules prêtes à être glissées dans un tableau, vous obligeant à tout construire manuellement)._
+_(Résultat : une explication théorique interminable, verbeuse et dépourvue de formules prêtes à l'emploi, vous forçant à tout configurer manuellement.)_
 
 ### ✅ Après (Résultat avec la Version Pro)
 
@@ -122,6 +122,6 @@ Voici les formules exactes à copier dans votre tableau Excel. En supposant que 
 
 ## 🎯 Conclusion
 
-Visualiser l'impact réel de vos intérêts au fil du temps est la première étape pour reprendre le contrôle de vos finances. Avec ce prompt, vous disposez désormais de votre propre conseiller financier automatisé directement intégré dans Excel.
+Visualiser l'impact réel de vos intérêts au fil du temps est la première étape indispensable pour reprendre le contrôle de vos finances personnelles. Avec ce prompt, vous disposez désormais de votre propre conseiller financier automatisé, directement intégré à votre tableur Excel.
 
-Construisez votre tableau, optimisez vos finances, et rentrez tôt à la maison ! 🍷
+Construisez votre tableau, optimisez votre budget, et rentrez tôt à la maison ! 🍷

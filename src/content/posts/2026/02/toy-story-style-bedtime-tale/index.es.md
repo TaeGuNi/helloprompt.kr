@@ -10,7 +10,7 @@ tags:
   ["Crianza", "Educación", "Prompts de IA", "ChatGPT", "Consejos de Crianza"]
 ---
 
-# 📝 ¿Están vivos los juguetes de casa? Operación 'Toy Story'
+## 📝 ¿Están vivos los juguetes de casa? Operación 'Toy Story'
 
 - **🎯 Público objetivo:** Padres, madres, educadores y cuidadores
 - **⏱️ Tiempo requerido:** 15 minutos → 1 minuto
@@ -22,15 +22,15 @@ tags:
 
 > _"¿Tu hijo se va a la cama dejando todos sus juguetes tirados por el suelo?"_
 
-Dale vida a sus juguetes. Si le cuentas de qué hablan sus muñecos cuando despiertan en medio de la noche mientras toda la casa duerme, tu hijo aprenderá a valorarlos y a cuidarlos mucho más. En lugar de desgastarte regañándolo por no recoger su cuarto, utiliza el poder de la imaginación para inculcarle un hábito positivo de forma natural y sin lágrimas.
+Dales vida a sus juguetes. Si le cuentas sobre qué conversan sus muñecos en medio de la noche, mientras toda la casa duerme, tu hijo aprenderá a valorarlos y a cuidarlos con verdadero cariño. En lugar de desgastarte con regaños interminables para que recoja su cuarto, utiliza el inmenso poder de la imaginación. Así lograrás inculcarle un hábito positivo de forma completamente natural y, lo más importante, sin una sola lágrima.
 
 ---
 
 ## ⚡️ Resumen de 3 líneas (TL;DR)
 
-1. **Educación emocional:** Fomenta un sentido de responsabilidad y empatía genuina hacia sus pertenencias.
-2. **Hábitos de organización:** Motiva a los más pequeños a recoger sus juguetes a través de narrativas mágicas, eliminando los regaños.
-3. **Estimulación creativa:** Dispara la imaginación infantil con cuentos hiperpersonalizados donde sus propios muñecos son los protagonistas.
+1. **Educación emocional:** Fomenta un sentido de responsabilidad y una empatía genuina hacia sus pertenencias.
+2. **Hábitos de organización:** Motiva a los más pequeños a recoger su habitación a través de narrativas mágicas, desterrando los regaños.
+3. **Estimulación creativa:** Dispara la imaginación infantil mediante cuentos hiperpersonalizados donde sus propios muñecos cobran el papel protagonista.
 
 ---
 
@@ -74,16 +74,16 @@ Dale vida a sus juguetes. Si le cuentas de qué hablan sus muñecos cuando despi
 
 ## 💡 Comentario del autor (Insight)
 
-Como padre, conozco perfectamente el agotamiento de repetir cada maldita noche la misma frase: "¡Recoge tus juguetes!". Este prompt cambia por completo las reglas del juego en la dinámica familiar. Al transformar una obligación tediosa (y casi siempre conflictiva) en una extensión natural del juego y la fantasía, logramos activar la empatía innata de los niños.
+Como padre, conozco perfectamente el agotamiento mental que supone repetir la misma letanía cada maldita noche: "¡Recoge tus juguetes!". Este *prompt* cambia por completo las reglas del juego en la dinámica familiar. Al transformar una obligación tediosa (y casi siempre conflictiva) en una extensión natural del juego y la fantasía, logramos activar la empatía innata de los niños.
 
-El truco maestro está en sustituir el `[Juguete principal]` por el muñeco de apego real de tu hijo. La primera vez que le leí al mío cómo su camión de bomberos favorito "temblaba de frío abandonado en la alfombra", ocurrió la magia: a la mañana siguiente salió corriendo a abrazarlo y guardarlo en su caja. La IA nos permite orquestar estas narrativas hiperpersonalizadas en cuestión de segundos, algo que antes requería exprimir nuestra creatividad al límite justo al final de un día de trabajo agotador.
+El truco maestro reside en sustituir el `[Juguete principal]` por el muñeco de apego real de tu hijo. La primera vez que le leí al mío cómo su camión de bomberos favorito "temblaba de frío, abandonado en la alfombra", ocurrió la verdadera magia: a la mañana siguiente salió corriendo a abrazarlo y guardarlo en su caja. La IA nos permite orquestar estas narrativas hiperpersonalizadas en cuestión de segundos, un salvavidas invaluable que antes nos obligaba a exprimir nuestra creatividad al límite justo al final de un día laboral agotador.
 
 ---
 
 ## 🙋 Preguntas frecuentes (FAQ)
 
 - **Q: ¿Puedo usar este prompt para corregir otros hábitos, como la resistencia a lavarse los dientes?**
-  - A: ¡Absolutamente! Solo necesitas ajustar el **Contexto (Context)** para que el "Cepillo de dientes" converse con la "Pasta de dientes" sobre lo mucho que echan de menos limpiar los dientes de tu hijo y lo tremendamente aburridos que están metidos en el vaso del baño.
+  - A: ¡Por supuesto! Solo necesitas ajustar el **Contexto (Context)** para que el "Cepillo de dientes" converse con la "Pasta de dientes" sobre lo mucho que echan de menos limpiar los dientes de tu hijo y lo tremendamente aburridos que están metidos en el vaso del baño.
 
 - **Q: ¿Qué modelo de IA es el más adecuado para generar cuentos infantiles?**
   - A: Claude 3 (Opus o Sonnet) suele destacar por ofrecer un tono literario mucho más cálido, empático y orgánico, lo cual es ideal para la literatura infantil. No obstante, ChatGPT (GPT-4) también arroja resultados extraordinarios si se le configura bien el rol.
@@ -96,7 +96,7 @@ El truco maestro está en sustituir el `[Juguete principal]` por el muñeco de a
 ## 🧬 Anatomía del prompt (¿Por qué funciona?)
 
 1.  **Empatía libre de culpa (Restricciones):** La directriz fundamental aquí es "evitar la culpa". La psicología infantil ha demostrado sobradamente que la motivación intrínseca (el deseo genuino de cuidar) es infinitamente más efectiva a largo plazo que la obediencia ciega basada en el miedo a un regaño o castigo.
-2.  **Personificación estratégica (Contexto):** Al inyectar el nombre real de su juguete favorito, el cuento secuestra la atención del niño al instante, logrando que el mensaje resuene en él de forma directa y personal.
+2.  **Personificación estratégica (Contexto):** Al inyectar el nombre real de su juguete favorito, el cuento captura la atención del niño al instante, logrando que el mensaje resuene en él de forma directa y personal.
 3.  **Ingeniería emocional (Tarea):** La cuidada transición narrativa que va desde la "tristeza por el abandono" hasta la "esperanza en el amor de su dueño" teje un arco emocional perfecto. Es este preciso clímax el que detona la acción reparadora a la mañana siguiente.
 
 ---

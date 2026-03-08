@@ -1,11 +1,11 @@
 ---
 title: "The Internet is Becoming Unarchivable"
-description: "El auge del contenido dinámico, las aplicaciones de página única (SPA) y los ecosistemas cerrados dificultan cada vez más la preservación de la historia de la web abierta. Descubre un prompt especializado para archivar permanentemente cualquier web que esté a punto de desaparecer."
+description: "El auge de las SPA y ecosistemas cerrados dificulta preservar la web abierta. Descubre este prompt para archivar cualquier web a punto de desaparecer."
 date: 2026-02-15
 tags: ["Internet", "Archiving", "History", "Web"]
 ---
 
-# 📝 Rescata la Web Perdida: Prompt de Archivo para la Preservación Permanente de Contenido Web
+## 📝 Rescata la Web Perdida: Prompt de Archivo para la Preservación Permanente de Contenido Web
 
 - **🎯 Recomendado para:** Investigadores, curadores de contenido, archivistas digitales y especialistas en marketing.
 - **⏱️ Tiempo requerido:** 1 hora → 1 minuto
@@ -17,16 +17,16 @@ tags: ["Internet", "Archiving", "History", "Web"]
 
 > _"Atrapa la historia de la web antes de que se desvanezca. Con un simple copiar y pegar, transforma páginas dinámicas y caóticas en documentos Markdown inmutables y perfectamente estructurados."_
 
-En la actualidad, el dominio absoluto de las aplicaciones de página única (SPA) y los ecosistemas cerrados (*walled gardens*) ha convertido la extracción y preservación de información valiosa mediante métodos tradicionales en una misión casi imposible. Los enlaces se rompen de la noche a la mañana, e incluso las herramientas de archivo web suelen capturar apenas un lienzo en blanco en lugar del contenido real. 
+Hoy en día, el predominio de las aplicaciones de página única (SPA) y los ecosistemas cerrados (*walled gardens*) ha convertido la preservación de información mediante métodos tradicionales en una verdadera odisea. Los enlaces mueren sin previo aviso, y las herramientas clásicas de archivo suelen devolver lienzos en blanco en lugar de contenido real.
 
-Este prompt actúa como una poderosa herramienta de preservación del conocimiento. Es capaz de filtrar de forma inteligente todo el ruido visual (anuncios, menús de navegación, pies de página) de un texto copiado o código HTML, transformándolo en un **documento Markdown impecablemente estructurado, listo para leerse y almacenarse para la posteridad**.
+Este prompt es tu salvavidas para la preservación del conocimiento. Filtra quirúrgicamente todo el ruido visual —anuncios, menús de navegación, pies de página— del texto o HTML copiado, y lo transforma en un **documento Markdown impecablemente estructurado, listo para ser almacenado para la posteridad**.
 
 ---
 
 ## ⚡️ Resumen en 3 líneas (TL;DR)
 
-1. **Eliminación inteligente de ruido:** Filtra anuncios y elementos de la interfaz a partir de bloques de texto complejos, extrayendo únicamente el cuerpo principal del artículo.
-2. **Conversión a formato permanente:** Reestructura el documento en Markdown, el estándar más universal y duradero para la preservación de texto.
+1. **Eliminación inteligente de ruido:** Purga anuncios y elementos de la interfaz en bloques de texto complejos, extrayendo únicamente el cuerpo principal del artículo.
+2. **Conversión a formato permanente:** Reestructura el documento en Markdown, el estándar más universal y resiliente para la preservación de texto.
 3. **Extracción automática de metadatos:** Genera el *YAML Frontmatter* con los datos esenciales (fecha de publicación, autor, palabras clave), indispensable para catalogar e indexar la información a largo plazo.
 
 ---
@@ -35,14 +35,14 @@ Este prompt actúa como una poderosa herramienta de preservación del conocimien
 
 ### 🥉 Versión Básica
 
-Úsalo cuando necesites guardar rápidamente el texto principal de una página web. Simplemente selecciona toda la página (Ctrl+A), cópiala y pégala junto con este prompt.
+Úsalo cuando necesites rescatar rápidamente el texto principal de una página web. Simplemente selecciona toda la pantalla (Ctrl+A), cópiala y pégala junto con este prompt.
 
 > **Rol:** Eres un experto en `[Archivo Digital]`.
 > **Tarea:** A partir del `[Texto de la página web]` proporcionado a continuación, elimina todo el ruido de la interfaz (menús, anuncios, pies de página) y extrae exclusivamente el `[Contenido principal]` en un formato Markdown limpio.
 
 ### 🥇 Versión Pro
 
-Ideal para construir un documento de archivo impecable, listo para integrarse directamente en tu herramienta de gestión del conocimiento (Obsidian, Notion, etc.) sin perder un ápice del contexto original.
+Ideal para construir un archivo impecable, listo para integrarse directamente en tu sistema de gestión del conocimiento (Obsidian, Notion, etc.) sin perder un ápice del contexto original.
 
 > **Rol (Role):** Eres un `[Archivista Digital]` de élite, encargado de preservar el patrimonio de la humanidad en la era de internet. Tu misión principal es extraer la esencia informativa de contenidos web complejos y fragmentados, procesándolos en un formato que garantice su conservación permanente.
 >
@@ -75,9 +75,9 @@ Ideal para construir un documento de archivo impecable, listo para integrarse di
 
 ## 💡 El Insight del Autor (Writer's Insight)
 
-Este prompt no es un simple "resumidor de textos". En pleno 2026, una época en la que la información de internet se evapora a un ritmo exponencial, **esta es una vía directa para transferir la propiedad del conocimiento y blindarla en tu entorno local**.
+Este prompt no es un simple "resumidor de textos". En pleno 2026, una época en la que la información en internet se evapora a un ritmo vertiginoso, **esta es tu vía directa para adueñarte del conocimiento y blindarlo en tu entorno local**.
 
-Brilla especialmente en aquellos sitios donde los *web clippers* tradicionales fracasan estrepitosamente: newsletters de pago protegidas por inicio de sesión, hilos de X (Twitter) con *scroll* infinito o wikis corporativas internas. Con solo seleccionar toda la pantalla (Ctrl+A, Ctrl+C) y arrojar el texto al prompt, la basura de la interfaz desaparece como por arte de magia, dejando intactos los datos originales y su estructura. Personalmente, utilizo este método cada semana para rescatar decenas de artículos en peligro de extinción y migrarlos sin fricciones a mi bóveda de Obsidian.
+Brilla especialmente donde los *web clippers* tradicionales fracasan estrepitosamente: newsletters de pago protegidas tras un muro de inicio de sesión, hilos de X (Twitter) con *scroll* infinito o wikis corporativas internas. Con solo seleccionar toda la pantalla (Ctrl+A, Ctrl+C) y arrojar el texto al prompt, la basura de la interfaz desaparece como por arte de magia, dejando intactos los datos originales y su estructura. Personalmente, utilizo este método cada semana para rescatar decenas de artículos en peligro de extinción y migrarlos sin fricciones a mi bóveda de Obsidian.
 
 ---
 
@@ -86,7 +86,7 @@ Brilla especialmente en aquellos sitios donde los *web clippers* tradicionales f
 - **P: ¿Debería copiar el código fuente HTML o directamente el texto de la pantalla?**
   - R: Ambos métodos funcionan. Sin embargo, en las páginas modernas de renderizado dinámico, suele ser mucho más efectivo seleccionar todo el texto visible en el navegador (Ctrl+A). Esto reduce drásticamente el ruido de los scripts ocultos y entrega a la IA únicamente la información fundamental, optimizando el resultado.
 
-- **P: El contenido es demasiado largo y el modelo arroja un error de límite de tokens. ¿Qué hago?**
+- **P: El contenido es demasiado largo y el modelo arroja un error por límite de tokens. ¿Qué hago?**
   - R: Al copiar una web completa, el consumo de tokens puede dispararse rápidamente. Por ello, es imperativo emplear modelos diseñados con una ventana de contexto amplia, como Claude 3.5 Sonnet o Gemini 2.5 Pro.
 
 ---
@@ -136,8 +136,8 @@ Debido al aumento del contenido dinámico, las SPA (Aplicaciones de Página Úni
 
 ## 🎯 Conclusión
 
-El internet nunca ha sido eterno. Vivimos en una época implacable donde la valiosa información que consultas hoy puede convertirse fácilmente en un fatídico error `404 Not Found` mañana.
+Internet nunca ha sido eterno. Vivimos en una época implacable donde esa valiosa información que consultas hoy puede convertirse en un fatídico error `404 Not Found` mañana.
 
-Si deseas construir un archivo de conocimiento robusto, impecable y que no dependa en absoluto de plataformas de terceros, ¡utiliza este prompt y captura para siempre esos fragmentos perdidos de la web!
+Si deseas construir un archivo de conocimiento robusto, impecable y que no dependa en absoluto de plataformas de terceros, ¡aplica este prompt y captura para siempre esos fragmentos perdidos de la web!
 
 ¡No permitas que tus mejores recursos se queden pudriéndose en la barra de marcadores! 🍷

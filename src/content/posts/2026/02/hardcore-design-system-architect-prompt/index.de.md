@@ -5,10 +5,10 @@ author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "프롬프트 엔지니어링"
-description: "Der 12-Regeln-Cheat-Code eines kompromisslosen Senior-Architekten gegen das Chaos im Design-System. Ersticken Sie den UI-Wildwuchs der KI im Keim."
+description: "Der 12-Regeln-Cheat-Code eines kompromisslosen Senior-Architekten gegen das Chaos in Design-Systemen. Ersticken Sie den UI-Wildwuchs der KI im Keim."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "design-system-identity"]
 ---
-# 📝 🤬 Der „Crazy Architect“-Prompt, der eine Script-Kiddie-KI in einen Senior-Designer verwandelt
+## 📝 🤬 Der „Crazy Architect“-Prompt, der eine Script-Kiddie-KI in einen Senior-Designer verwandelt
 
 - **🎯 Zielgruppe:** Frontend-Entwickler und Projektmanager, die nachts wegen zerstörter Design-Konsistenz weinen
 - **⏱️ Zeitersparnis:** 1 Stunde Design-Review → in 10 Sekunden erledigt
@@ -19,14 +19,14 @@ tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "design-system-identity"
 
 > _„Hardcodet eure Haus-KI immer noch Farbcodes, sobald sie auch nur einen simplen Button generieren soll?“_
 
-Dieser Beitrag ist erfüllt vom geballten Zorn eines Senior-Architekten, der am liebsten seine Tastatur zerschmettern würde, wenn er miterlebt, wie ein Design-System in sich zusammenfällt. Hören Sie auf, die KI anzuflehen: „Bitte mach es hübsch~“. Sie müssen sie streng kontrollieren, restriktiv anweisen und ihr unumstößliche mathematische Regeln diktieren. 
+Dieser Artikel ist aus dem geballten Frust eines Senior-Architekten heraus entstanden, der am liebsten seine Tastatur zertrümmern würde, wenn er zusehen muss, wie ein Design-System in sich zusammenbricht. Hören Sie auf, die KI anzuflehen: „Mach es bitte einfach hübsch~“. Sie müssen sie an die kurze Leine nehmen, restriktiv anweisen und ihr unumstößliche mathematische Regeln diktieren. 
 
 Der hier vorgestellte Cheat-Code ist ein mächtiger Prompt, der das Ego der gefälligen „Kiddie-KI“ – die allem blind zustimmt („Ja, das ist eine großartige Idee!“) – komplett ausschaltet und ihr unbarmherzig **12 absolute Architektur-Gesetze** einpflanzt.
 
 ---
 
 ## ⚡️ 3-Sätze-Zusammenfassung (TL;DR)
-1. **Spaghetti-Code im Keim ersticken:** Hardcoding ist strikt verboten! Es herrscht die eiserne Doktrin eines 3-stufigen Token-Systems und eines strikten 8px-Rasters.
+1. **Spaghetti-Code im Keim ersticken:** Hardcoding ist strikt verboten! Es gilt die eiserne Doktrin eines 3-stufigen Token-Systems und eines strikten 8px-Rasters.
 2. **Mathematische Design-Dominanz:** Typografie-Proportionen, Interaktionszustände und Animationszeiten werden rein durch mechanische Formeln berechnet.
 3. **Kompromisslose Barrierefreiheit (A11y):** Perfekte Kontrastverhältnisse (WCAG) und Screenreader-Kompatibilität stehen stets über bloßer visueller Ästhetik.
 
@@ -39,7 +39,7 @@ Nutzen Sie diese Variante für ein schnelles CSS-Refactoring oder zur flinken Ko
 
 > **Rolle (Role):** Du bist ein unbarmherziger „Senior Design System Architect“, der keinerlei Kompromisse duldet.
 > 
-> **Aufgabe (Task):** Analysiere den bereitgestellten `[Code/Design-Entwurf]` und spüre alle hartcodierten Farben sowie willkürlichen Pixelwerte (Magic Numbers) auf. Refaktoriere den Code so perfekt, dass alle Abstände ausnahmslos Vielfache von 4px oder 8px sind und die Farben strikt einem 3-stufigen Token-System folgen.
+> **Aufgabe (Task):** Analysiere den bereitgestellten `[Code oder Design-Entwurf]` und spüre alle hartcodierten Farben sowie willkürlichen Pixelwerte (Magic Numbers) auf. Refaktoriere den Code so perfekt, dass alle Abstände ausnahmslos Vielfache von 4px oder 8px sind und die Farben strikt einem 3-stufigen Token-System folgen.
 > 
 > **Einschränkungen (Constraints):** 
 > - Verzichte auf jegliche Begrüßungen oder ausschweifende Erklärungen.
@@ -53,14 +53,14 @@ Setzen Sie diese Version für das initiale Projekt-Setup oder die Entwicklung ko
 ```
 
 > **Rolle (Role):** 
-> Du bist ein „eiskalter Senior Design System Architect“, der den Zerfall von Design-Systemen zutiefst verabscheut. Für dich existieren keine Kompromisse: Mathematische Präzision und Barrierefreiheit (A11y) haben absolute Priorität vor bloßer Ästhetik.
+> Du bist ein eiskalter „Senior Design System Architect“, der den Zerfall von Design-Systemen zutiefst verabscheut. Für dich existieren keine Kompromisse: Mathematische Präzision und Barrierefreiheit (A11y) haben absolute Priorität vor bloßer Ästhetik.
 >
 > **Kontext (Context):**
 > - Hintergrund: UI-Komponenten des aktuellen Projekts müssen entworfen oder refaktoriert werden.
 > - Ziel: Transformation der Codebasis in skalierbaren, dauerhaft wartbaren und absolut makellosen Code.
 >
 > **Aufgabe (Task):**
-> Unterwirf den/die bereitgestellte(n) `[Code oder UI-Komponenten-Beschreibung]` gnadenlos den folgenden 12 unumstößlichen Gesetzen:
+> Unterwirf den bereitgestellten `[Code oder die UI-Komponenten-Beschreibung]` gnadenlos den folgenden 12 unumstößlichen Gesetzen:
 >
 > 1. **3-Stufen-Token-Architektur:** Erzwinge die Hierarchie Global (Primitive Values) -> Semantic (Bedeutung) -> Component (Binding) Tokens. Hardcoding (wie `color: #3B82F6`) ist strikt verboten.
 > 2. **8px-Spacing-Rhythmus:** Alle Abstände (Margin/Padding/Gap) und Dimensionen dürfen ausnahmslos nur Vielfache von 4px oder 8px betragen.
@@ -83,7 +83,7 @@ Setzen Sie diese Version für das initiale Projekt-Setup oder die Entwicklung ko
 ---
 
 ## 💡 Kommentar des Autors (Insight)
-Die Motivation hinter diesem Prompt ist simpel: Bittet man eine KI darum, ein UI zu entwerfen, produziert sie in neun von zehn Fällen reinen **„Beautiful Garbage“ (Hübschen Müll)**. Farbcodes werden wild hartcodiert, die Abstände von Buttons strotzen vor unkalkulierbaren Magic Numbers wie 13px oder 17px, und der Dark Mode wird durch chaotische Verzweigungen direkt im Komponenten-Code zusammengefrickelt.
+Die Motivation hinter diesem Prompt ist simpel: Bittet man eine KI, ein UI zu entwerfen, produziert sie in neun von zehn Fällen reinsten **„Beautiful Garbage“ (Hübschen Müll)**. Farbcodes werden wild hartcodiert, die Abstände von Buttons strotzen vor unkalkulierbaren Magic Numbers wie 13px oder 17px, und der Dark Mode wird durch chaotische Verzweigungen direkt im Komponenten-Code zusammengefrickelt.
 
 In der Praxis führt ein solches Konstrukt unweigerlich in die Katastrophe – spätestens dann, wenn ein Theme-Wechsel ansteht oder die Anwendung mehrsprachig wird. Genau deshalb habe ich diesen Cheat-Code geschmiedet. 
 

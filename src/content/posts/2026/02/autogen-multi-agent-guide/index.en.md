@@ -5,13 +5,13 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "AI/개발"
-description: " \"A comprehensive guide to building an automated collaboration system using AutoGen, Microsoft's multi-agent framework where developer and manager bots interact to write code.\""
+description: " \"A guide to building an automated collaboration system with AutoGen, Microsoft's multi-agent framework where AI developer and manager bots write code.\""
 tags: ["AutoGen", "멀티에이전트", "MS", "AI협업", "자동화"]
 ---
 
-# 🤖 Introduction to AutoGen: Making AI Agents Talk to Each Other
+## 🤖 Introduction to AutoGen: Making AI Agents Talk to Each Other
 
-- **🎯 Recommended for:** Solo developers feeling overwhelmed, tech geeks wanting to build automated workflow systems.
+- **🎯 Recommended for:** Solo developers feeling overwhelmed, and tech geeks eager to build automated workflow systems.
 - **⏱️ Time Required:** 20 minutes (Setup and demo execution)
 - **🤖 Recommended Models:** GPT-4o, Claude 3.5 Sonnet (High logical reasoning is crucial for inter-agent communication)
 
@@ -19,9 +19,9 @@ tags: ["AutoGen", "멀티에이전트", "MS", "AI협업", "자동화"]
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
 - 🚀 **Utility:** ⭐⭐⭐⭐☆
 
-> *"Are you hitting a wall trying to do everything with just one AI? Build your ultimate virtual dev team with an AI that plans, an AI that codes, and an AI that reviews."*
+> *"Hitting a wall trying to do everything with a single AI? Build your ultimate virtual dev team with an AI that plans, an AI that codes, and an AI that reviews."*
 
-Microsoft's **AutoGen** is a powerful multi-agent framework that turns this imagination into reality. By creating multiple AI personas and placing them in a single workspace, they can converse, exchange feedback, and finalize deliverables entirely on their own. The era of genuine **'Autonomous Collaboration'** has arrived.
+Microsoft's **AutoGen** is a powerful multi-agent framework that turns this concept into reality. By creating multiple AI personas and placing them in a shared workspace, they can converse, exchange feedback, and finalize deliverables entirely on their own. The era of genuine **'Autonomous Collaboration'** is finally here.
 
 ---
 
@@ -48,19 +48,18 @@ Use this prompt to generate the foundational code for a 1:1 agent interaction.
 >
 > **Goal:** Configure the two agents to successfully complete the task: 'Find all prime numbers from 1 to 100 and save them to a txt file.'
 
-
 ### 🥇 Pro Version (Virtual IT Company: PM, Dev, QA)
 
 Build a 3-agent Group Chat system that mimics a real-world corporate environment.
 
-> **Role (Role):** You are an `[AutoGen Framework Architect with experience at Microsoft]`.
+> **Role:** You are an `[AutoGen Framework Architect with experience at Microsoft]`.
 >
-> **Context (Context):**
+> **Context:**
 >
 > - Background: I don't have enough time to build a toy project by myself, so I want to construct a virtual development team comprised of AI agents.
 > - Goal: Automate the entire process—from planning to testing—of a simple Python-based 'Snake Game'.
 >
-> **Task (Task):**
+> **Task:**
 >
 > Utilizing AutoGen's `GroupChat` and `GroupChatManager`, write complete Python code where the following 3 agents collaborate:
 >
@@ -68,13 +67,13 @@ Build a 3-agent Group Chat system that mimics a real-world corporate environment
 > 2. **Coder (Developer):** Writes the HTML/CSS/JS code based on the PM's specifications.
 > 3. **Reviewer (QA/Critic):** Reviews the Coder's code, identifies bugs or logical flaws, and provides critical feedback for improvement.
 >
-> **Constraints (Constraints):**
+> **Constraints:**
 >
 > - Workflow Sequence: The loop must clearly follow this order: PM Proposes Plan ➔ Coder Writes Code ➔ Reviewer Provides Feedback ➔ Coder Revises Code.
 > - Limit the maximum number of conversation turns (`max_round`) to 10.
 > - Provide the final code in a complete, error-free, and immediately executable state. Ensure the `system_message` for each agent is highly specific and tailored to their role.
 >
-> **Warning (Warning):**
+> **Warning:**
 >
 > - Do not hallucinate AutoGen API methods; use only the official, up-to-date syntax to prevent execution errors.
 
@@ -84,7 +83,7 @@ Build a 3-agent Group Chat system that mimics a real-world corporate environment
 
 The true disruptive power of AutoGen reveals itself when LLM text generation is combined with **'Code Execution'**. Traditionally, when a chatbot generated code, a human had to manually copy it, paste it into an IDE, run it, and then feed any error logs back to the chatbot. This was a tedious, manual cycle.
 
-However, by connecting the `UserProxyAgent` to a Docker container, the AI can autonomously run its own code, analyze the error logs, and rewrite the code to fix the issues. Essentially, you get to sit back and watch your AI team furiously code and debug, only stepping in to harvest the final, polished result. It fundamentally shifts your role from a "coder" to a "manager."
+However, by connecting the `UserProxyAgent` to a Docker container, the AI can autonomously run its own code, analyze the error logs, and rewrite the code to fix the issues. Essentially, you get to sit back and watch your AI team furiously code and debug, only stepping in to harvest the final, polished result. It fundamentally shifts your role from a mere "coder" to a true "manager."
 
 ---
 

@@ -5,15 +5,15 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Création & Loisirs"
-description: "Un prompt de brainstorming redoutable pour pulvériser le syndrome de la page blanche et générer des rebondissements ingénieux grâce à la puissance du « Et si ? »."
+description: "Un prompt redoutable pour vaincre la page blanche et générer des rebondissements ingénieux pour votre histoire grâce à la méthode du « Et si ? »."
 tags: ["ÉcritureRoman", "Intrigue", "Idée", "Création"]
 ---
 
-# 📝 Générateur d'Intrigues « Et si ? » pour Vaincre la Page Blanche
+## 📝 Générateur d'intrigues « Et si ? » pour vaincre la page blanche
 
-- **🎯 Recommandé pour :** Romanciers, scénaristes, auteurs de webtoons et écrivains passionnés.
+- **🎯 Recommandé pour :** Romanciers, scénaristes, créateurs de webtoons et écrivains passionnés.
 - **⏱️ Temps estimé :** 5 minutes → Réduit à 1 minute.
-- **🤖 Modèle recommandé :** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (idéal avec les modèles à forte capacité créative).
+- **🤖 Modèles recommandés :** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (idéal avec les modèles à forte créativité).
 
 - ⭐ **Difficulté :** ⭐⭐☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
@@ -21,7 +21,7 @@ tags: ["ÉcritureRoman", "Intrigue", "Idée", "Création"]
 
 > _"Votre protagoniste vient de franchir la porte du boss final... et soudain, c'est le trou noir. Comment éviter de sombrer dans le cliché ?"_
 
-Lorsqu'on écrit un roman ou un scénario, on finit inévitablement par se heurter à un mur invisible. Vous cherchez désespérément à fuir les rebondissements cousus de fil blanc, mais la tentation du _deus ex machina_ (cette fameuse solution de facilité) menace à tout instant de ruiner la crédibilité de votre récit. C'est précisément là qu'intervient la redoutable efficacité du **« Et si ? » (What If?)**. Au lieu de fixer un écran vide pendant des heures en attendant l'inspiration, laissez l'IA défricher une infinité d'arborescences narratives pour vous livrer le *twist* parfait, prêt à être intégré à votre univers.
+Lorsqu'on écrit un roman ou un scénario, on finit inévitablement par se heurter à un mur invisible. Vous cherchez désespérément à fuir les intrigues cousues de fil blanc, mais la tentation du _deus ex machina_ (cette fameuse solution de facilité) menace à tout instant de ruiner la crédibilité de votre récit. C'est précisément là qu'intervient la redoutable efficacité du **« Et si ? » (What If?)**. Au lieu de fixer un écran vide pendant des heures en attendant l'inspiration, laissez l'IA défricher une infinité d'arborescences narratives pour vous livrer le **twist** parfait, prêt à être intégré à votre univers.
 
 ---
 
@@ -33,18 +33,18 @@ Lorsqu'on écrit un roman ou un scénario, on finit inévitablement par se heurt
 
 ---
 
-## 🚀 La Solution : Le Générateur de Twists Narratifs
+## 🚀 La solution : le générateur de twists narratifs
 
-### 🥉 Version Basique (Rapide)
+### 🥉 Version basique (Rapide)
 
 Idéale pour un déblocage express et une dose d'inspiration immédiate.
 
 > **Rôle :** Tu es un auteur de best-sellers et un expert en construction narrative (plot doctor).
 > **Requête :** Mon histoire est au point mort. Le héros vient tout juste de découvrir que le grand méchant est en réalité son frère. Propose-moi 3 rebondissements originaux sous la forme de questions « Et si ? ».
 
-### 🥇 Version Pro (Expert)
+### 🥇 Version pro (Expert)
 
-Utilisez ce prompt pour une analyse chirurgicale de votre intrigue, anticipant les réactions de votre lectorat tout en désamorçant les clichés.
+Utilisez ce prompt pour une analyse chirurgicale de votre intrigue, capable d'anticiper les réactions de votre lectorat tout en désamorçant les clichés.
 
 > **Rôle (Role) :** Tu es un auteur de web-romans à succès et un "plot doctor" (consultant en scénario) réputé pour son ingéniosité.
 >
@@ -61,47 +61,47 @@ Utilisez ce prompt pour une analyse chirurgicale de votre intrigue, anticipant l
 >
 > **Variables (Variables) :**
 >
-> - **Genre :** `[ex : Dark Fantasy, Thriller Psychologique]`
-> - **Situation Actuelle :** `[ex : Le protagoniste a enfin acculé la cible de sa vengeance, mais découvre qu'il s'agit de son frère disparu depuis 10 ans]`
-> - **Personnalité du Protagoniste :** `[ex : Froid et calculateur, mais a un point faible pour les liens du sang]`
+> - **Genre :** `[par ex. : Dark Fantasy, Thriller psychologique]`
+> - **Situation Actuelle :** `[par ex. : Le protagoniste a enfin acculé la cible de sa vengeance, mais découvre qu'il s'agit de son frère disparu depuis 10 ans]`
+> - **Personnalité du Protagoniste :** `[par ex. : Froid et calculateur, mais possède un point faible pour les liens du sang]`
 >
 > **Contraintes (Constraints) :**
 >
-> - Banni absolument les résolutions paresseuses ou clichées (ex : "ce n'était qu'un rêve", "il lui pardonne par amour"). Si tu mobilises un trope classique, tu dois impérativement le subvertir.
+> - Bannis absolument les résolutions paresseuses ou clichées (par ex. : "ce n'était qu'un rêve", "il lui pardonne par amour"). Si tu mobilises un trope classique, tu dois impérativement le subvertir.
 > - Formate ta réponse sous la forme d'une liste numérotée, claire et visuellement aérée.
 
 ---
 
-## 💡 L'avis de l'Expert (Writer's Insight)
+## 💡 L'avis de l'expert (Writer's Insight)
 
-La véritable puissance de ce prompt réside dans sa section **"Risque Narratif"**. Bien souvent, les intelligences artificielles génèrent des fulgurances qui semblent brillantes sur le papier, mais qui finissent par creuser d'énormes failles logiques (*plot holes*) dans la cohérence de votre univers. En forçant l'IA à auto-évaluer la viabilité de ses propres concepts, vous vous épargnez des heures d'une réécriture laborieuse. À titre personnel, je finis presque toujours par exploiter la troisième ou la quatrième suggestion : les deux premières ont en effet tendance à rester un peu trop scolaires, là où les suivantes osent véritablement bousculer les conventions et exploser les codes créatifs !
+La véritable puissance de ce prompt réside dans sa section **"Risque Narratif"**. Bien souvent, les intelligences artificielles génèrent des fulgurances qui semblent brillantes sur le papier, mais qui finissent par creuser d'énormes failles logiques (*plot holes*) dans la cohérence de votre univers. En forçant l'IA à auto-évaluer la viabilité de ses propres concepts, vous vous épargnez des heures de réécriture laborieuse. À titre personnel, je finis presque toujours par exploiter la troisième ou la quatrième suggestion : les deux premières ont en effet tendance à rester un peu trop scolaires, là où les suivantes osent véritablement bousculer les conventions et exploser les codes créatifs !
 
 ---
 
-## 🙋 Foire Aux Questions (FAQ)
+## 🙋 Foire aux questions (FAQ)
 
 - **Q : Ce prompt est-il applicable à l'écriture de scénarios pour le cinéma ou les webtoons ?**
-  - A : Absolument. Il vous suffit d'ajuster la variable `[Genre]` et d'affiner le rôle (ex : "Tu es un scénariste de films multiprimé") pour que l'IA adapte instantanément son vocabulaire et son sens du rythme dramatique.
+  - R : Absolument. Il vous suffit d'ajuster la variable `[Genre]` et d'affiner le rôle (par ex. : "Tu es un scénariste de films multiprimé") pour que l'IA adapte instantanément son vocabulaire et son sens du rythme dramatique.
 
 - **Q : Que faire si les idées proposées par l'IA restent trop convenues ?**
-  - A : N'hésitez pas à durcir les règles en ajoutant une contrainte extrême. Par exemple : "Contrainte : La scène suivante doit obligatoirement impliquer une trahison déchirante ou la destruction d'un artefact majeur."
+  - R : N'hésitez pas à durcir les règles en ajoutant une contrainte extrême. Par exemple : "Contrainte : La scène suivante doit obligatoirement impliquer une trahison déchirante ou la destruction d'un artefact majeur."
 
 - **Q : Quel modèle d'IA privilégier pour ce genre d'exercice créatif ?**
-  - A : Claude 3.5 Sonnet survole largement les débats lorsqu'il s'agit de création littéraire et de subtilité narrative. GPT-4o reste une excellente alternative, bien que Claude offre généralement des twists beaucoup plus nuancés et moins stéréotypés.
+  - R : Claude 3.5 Sonnet survole largement les débats lorsqu'il s'agit de création littéraire et de subtilité narrative. GPT-4o reste une excellente alternative, bien que Claude offre généralement des twists beaucoup plus nuancés et moins stéréotypés.
 
 ---
 
-## 🧬 Anatomie du Prompt (Pourquoi ça marche ?)
+## 🧬 Anatomie du prompt (Pourquoi ça marche ?)
 
 1. **L'expertise du "Plot Doctor" :** En lui assignant ce rôle clinique, l'IA ne se contente plus de broder naïvement une histoire ; elle audite votre structure narrative avec l'œil critique et impitoyable d'un éditeur chevronné.
-2. **La psychologie comme boussole :** L'injection de la variable `[Personnalité du Protagoniste]` garantit que les décisions prises resteront organiques et profondément fidèles à votre héros (sécurisant ainsi une approche *character-driven*).
+2. **La psychologie comme boussole :** L'intégration de la variable `[Personnalité du Protagoniste]` garantit que les décisions prises resteront organiques et profondément fidèles à votre héros (sécurisant ainsi une approche *character-driven*).
 3. **Le crash-test intégré (Effet vs Risque) :** Cette mécanique d'auto-évaluation bride judicieusement l'IA, l'empêchant de vous vendre des *deus ex machina* impossibles à justifier trois chapitres plus tard.
 
 ---
 
 ## 📊 Preuve : Avant & Après
 
-### ❌ Avant (Sans le Prompt Structuré)
+### ❌ Avant (Sans le prompt structuré)
 
 ```text
 Prompt : Mon héros rencontre le grand méchant mais ne veut pas se battre. Que se passe-t-il ensuite ?
@@ -111,7 +111,7 @@ Réponse de l'IA : Le méchant rit et s'en va. Ou alors, ils discutent autour d'
 
 _(Résultat : Navrant de facilité, cruel manque de tension dramatique, cliché absolu)._
 
-### ✅ Après (Avec le Prompt Pro)
+### ✅ Après (Avec le prompt pro)
 
 ```text
 1. [Le Pacte de Sang Inversé]

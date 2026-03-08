@@ -1,15 +1,15 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Slack 봇 만들기: '점심 뭐 먹지?' 추천해주는 사내 봇\""
+title: "Building a Slack Bot: The 'What's for Lunch?' Corporate Assistant"
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "업무 자동화"
+category: "Work Automation"
 description: "Learn how to build a custom Slack lunch recommendation bot using Workflow Builder and AI—without writing a single line of code."
-tags: ["Slack", "슬랙", "챗봇", "자동화", "사내문화"]
+tags: ["Slack", "Chatbot", "Automation", "Corporate Culture", "Productivity"]
 ---
 
-# 🤖 Building a Slack Bot: The "What's for Lunch?" Corporate Assistant
+## 🤖 Building a Slack Bot: The "What's for Lunch?" Corporate Assistant
 
 - **🎯 Recommended for:** Junior employees dreading the daily menu-picking ordeal, or HR teams looking to breathe new life into a stale corporate messenger.
 - **⏱️ Time Required:** 10 minutes (via Slack Workflow Builder)
@@ -21,7 +21,7 @@ tags: ["Slack", "슬랙", "챗봇", "자동화", "사내문화"]
 
 > _"What should we eat today? Anything's fine. Pasta? Not really in the mood for carbs... End the exhausting daily guessing game. Hand the reins over to an AI assistant and save your mental energy for what really matters: clocking out on time."_
 
-Deciding what to eat for lunch is the ultimate daily dilemma for the modern office worker. Instead of trying to awkwardly read the room and desperately throwing out random options, why not just ask your internal messenger bot? Imagine typing, "It's pouring outside, what are we eating?" and receiving a spot-on response like: "On a dreary, rainy day, how about a steaming bowl of Pho instead of the usual sandwich?" In this guide, we will walk you through building a highly intuitive lunch recommendation bot using Slack's Workflow Builder—without writing a single line of code.
+Deciding what to eat for lunch is the ultimate daily dilemma for the modern professional. Instead of awkwardly reading the room or desperately throwing out random options, why not consult your internal messenger bot? Imagine typing, "It's pouring outside; what are we eating?" and receiving a spot-on response: "On a dreary, rainy day, how about a steaming bowl of Pho instead of the usual sandwich?" In this guide, we will walk you through building a highly intuitive lunch recommendation bot using Slack's Workflow Builder—without writing a single line of code.
 
 ---
 
@@ -73,14 +73,14 @@ Use this advanced prompt when you want highly tailored, context-aware lunch reco
 
 ## 💡 Writer's Insight
 
-A Slack bot is far more than a mere technical novelty—it is a potent catalyst for shaping corporate **culture**. It acts as a social lubricant, injecting lighthearted moments and effortless conversation starters into a workspace that might otherwise be bogged down by stiff, formal directives. If you launch a lunch bot and see positive engagement from your team, you can easily scale the concept into a "Kudos Bot," a "Birthday Bot," or even a "Weekly Retrospective Bot," cultivating a much more vibrant and flexible organizational atmosphere. Furthermore, by connecting this prompt with automation platforms like Zapier or Make, you can transcend the limitations of native Slack workflows and evolve your simple tool into a remarkably sophisticated AI assistant.
+A Slack bot is far more than a mere technical novelty—it is a potent catalyst for shaping corporate **culture**. It acts as a social lubricant, injecting lighthearted moments and effortless conversation starters into a workspace that might otherwise be bogged down by stiff, formal directives. If you launch a lunch bot and see positive engagement from your team, you can easily scale the concept into a "Kudos Bot," a "Birthday Bot," or even a "Weekly Retrospective Bot," cultivating a significantly more vibrant and flexible organizational atmosphere. Furthermore, by integrating this prompt with automation platforms like Zapier or Make, you can transcend the limitations of native Slack workflows and evolve your simple tool into a remarkably sophisticated AI assistant.
 
 ---
 
 ## 🙋 Frequently Asked Questions (FAQ)
 
 - **Q: My company is on the free tier of Slack. Can we still use Workflow Builder?**
-  - A: Unfortunately, Slack restricts its native Workflow Builder to paid plans (Pro and above). However, if you're on the free tier, you can easily create a workaround using Zapier or Make.com to "listen" for specific channel messages and fire back responses via the ChatGPT API.
+  - A: Unfortunately, Slack restricts its native Workflow Builder to paid plans (Pro and above). However, if you are on the free tier, you can easily create a workaround using Zapier or Make.com to "listen" for specific channel messages and fire back responses via the ChatGPT API.
 
 - **Q: How does this differ from hard-coding a bot from scratch (e.g., using Python)?**
   - A: Developing a bot with Python's `slack-bolt` library unlocks advanced, interactive UI elements like clickable buttons, modal pop-ups, and direct database queries. However, custom code brings the burden of ongoing maintenance and server hosting costs. For simple menu recommendations and lightweight text generation, a no-code workflow is vastly more efficient and cost-effective.
@@ -90,7 +90,7 @@ A Slack bot is far more than a mere technical novelty—it is a potent catalyst 
 ## 🧬 Prompt Anatomy (Why it works)
 
 1. **Contextual Variables:** Moving beyond a generic "recommend food" prompt, we inject specific variables (`[ ]`) for weather, mood, and headcount. This forces the AI to bypass clichés and generate highly empathetic, laser-focused suggestions.
-2. **Constraint Setting:** The `Warning` section directly addresses the practical limitations of a corporate lunch break (time constraints, polarizing tastes) and preemptively stops the AI from hallucinating non-existent local restaurants.
+2. **Constraint Setting:** The `Warning` section directly addresses the practical limitations of a corporate lunch break (time constraints, polarizing tastes) and preemptively stops the AI from hallucinating nonexistent local restaurants.
 3. **Role-playing:** By assigning a distinct persona ("gourmet food critic and local restaurant expert"), the bot's tone shifts from a robotic data dump to the warm, witty voice of an enthusiastic coworker.
 
 ---

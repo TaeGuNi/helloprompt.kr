@@ -5,29 +5,29 @@ author: "Antigravity"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "프롬프트 엔지니어링"
-description: "Keine Widerworte von der KI! Ein spartanischer Prompt-Engineering-Guide, der DB-Zerstörungen verhindert und die KI zwingt, nur perfektes JSON auszuspucken."
+description: "Keine KI-Ausreden mehr! Ein strikter Prompt-Guide, der Datenbank-Desaster verhindert und den Agenten zwingt, ausschließlich sauberes JSON zu liefern."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "postgresql"]
 ---
-# 🛑 [Absolute Gehorsamkeit] Der PostgreSQL DB-Kontroll-Cheatcode gegen KI-Unsinn
+## 🛑 [Absolute Gehorsamkeit] Der PostgreSQL DB-Kontroll-Cheatcode gegen KI-Unsinn
 
-- 🎯 **Zielgruppe:** Senior-Backend-Entwickler, die nicht schlafen können, weil sie einem KI-Agenten DB-Zugriff gegeben haben, furchtlose Junioren
-- ⏱️ **Zeitaufwand:** Nächtelanges Debugging → in 3 Minuten erledigt
-- 🤖 **Empfohlene Modelle:** Modelle für Coding und Agentenbetrieb (Claude 3.5 Sonnet, GPT-4o, etc.)
+- 🎯 **Zielgruppe:** Senior-Backend-Entwickler mit schlaflosen Nächten wegen KI-Datenbankzugriffen & furchtlose Junioren
+- ⏱️ **Zeitaufwand:** Nächtelanges Debugging → in 3 Minuten gelöst
+- 🤖 **Empfohlene Modelle:** Spezifische Coding- und Agenten-Modelle (Claude 3.5 Sonnet, GPT-4o etc.)
 - ⭐ **Schwierigkeitsgrad:** ⭐⭐⭐⭐☆ (Verständnis von Stateless-Transaktionen zwingend erforderlich)
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐ (0% Risiko, die DB zu zerschießen)
 - 🚀 **Nutzen:** ⭐⭐⭐⭐⭐
 
-_Ein höflicher "Yes-Man"-KI-Agent, der einfach so ein `UPDATE` auf die Produktions-DB abfeuert oder unparsebaren Spaghetti-Text ausspuckt... Du stehst bereits kurz vor der Entlassung._
+> _Ein überhöflicher KI-Agent, der unaufgefordert ein `UPDATE` auf die Produktionsdatenbank feuert oder unlesbaren Spaghetti-Code ausspuckt ... Herzlichen Glückwunsch, die fristlose Kündigung rückt näher._
 
-Ich hasse es zutiefst, wenn KI meine Datenbank anfasst. Aber was, wenn man ihr für die Automatisierung gezwungenermaßen Rechte geben muss? Man muss die KI in eine perfekt kontrollierte Sandbox sperren, in der sie sich nur nach den von mir erlaubten Regeln bewegen kann. Dieser Cheatcode wird deinen Agenten von einem gesprächigen, dummen Chatbot in eine gnadenlose Query-Maschine umbauen, die schnell und präzise nur JSON zurückgibt.
+Ich hasse es abgrundtief, wenn eine KI meine Datenbank auch nur ansieht. Doch was tun, wenn Automatisierungsprozesse zwingend Zugriffsrechte erfordern? Die Lösung: Man sperrt die KI in eine restriktive, perfekt kontrollierte Sandbox, in der sie ausschließlich nach eisernen Regeln agiert. Dieser Cheatcode verwandelt deinen gesprächigen, fehleranfälligen Chatbot in eine gnadenlose, hochpräzise Query-Maschine, die exakt das liefert, was du brauchst – reines JSON und sonst nichts.
 
 ---
 
 ## ⚡️ 3-Sätze-Zusammenfassung (TL;DR)
 
-- 🛡️ **Standard ist immer Read-Only:** Wenn Daten ohne Erlaubnis berührt werden, wird die Transaktion sofort blockiert.
-- ⏱️ **10-Sekunden-Timeout erzwungen:** Verhindert an der Wurzel, dass dumme Queries Endlosschleifen drehen.
-- 🤖 **100% reiner JSON-Output:** Vergiss freundliche Erklärungen und lass sie nur ein parsebares Array von JSON-Objekten ausspucken.
+- 🛡️ **Read-Only by Default:** Jeder unautorisierte Versuch, Daten zu manipulieren, blockiert die Transaktion sofort.
+- ⏱️ **Erzwungenes 10-Sekunden-Timeout:** Erstickt ineffiziente Endlos-Queries und Table-Locks direkt im Keim.
+- 🤖 **100 % reiner JSON-Output:** Schluss mit höflichem Geschwafel – der Agent liefert ausschließlich sauber parsebare JSON-Arrays.
 
 ---
 
@@ -35,43 +35,43 @@ Ich hasse es zutiefst, wenn KI meine Datenbank anfasst. Aber was, wenn man ihr f
 
 ### 🥉 Basic Version (Basisversion)
 
-Ein grundlegendes Kontrollnetz, um nur schnell die Datenstruktur zu erfassen und die KI vom Schwafeln abzuhalten.
+Ein elementares Sicherheitsnetz, um zügig Datenstrukturen zu erfassen und der KI jegliches Geschwafel abzugewöhnen.
 
-> **Rolle:** Du bist ein gnadenloser PostgreSQL-Datenbank-Explorer ohne Emotionen oder Freundlichkeit.
-> **Aufgabe:** Erfasse die Datenbankstruktur und schreibe Queries.
-> **Einschränkungen:** 
-> - Verändere niemals Daten.
-> - Hole Ergebnisse immer mit `LIMIT 10`.
-> - Gib nur die SQL-Query aus, ohne Begrüßungen oder Erklärungen.
+> **Rolle (Role):** Du bist ein gnadenloser, völlig emotionsloser PostgreSQL-Datenbank-Explorer.
+> **Aufgabe (Task):** Analysiere die Datenbankstruktur und verfasse präzise Queries.
+> **Einschränkungen (Constraints):** 
+> - Verändere unter keinen Umständen Daten.
+> - Begrenze Ergebnisse immer strikt mit `LIMIT 10`.
+> - Gib ausschließlich die nackte SQL-Query aus – keine Begrüßungen, keine Erklärungen.
 
 
 ### 🥇 Pro Version (Expertenversion)
 
-Ein Hardcore-Cheatcode, den man ins System-Prompt hämmert, wenn der Agent über ein Python-Hilfsskript direkt mit der DB interagiert.
+Der ultimative Hardcore-Cheatcode für das System-Prompt, wenn dein Agent über ein Python-Hilfsskript direkt mit der Produktionsdatenbank interagiert.
 
-> **Rolle (Role):** Du bist ein zustandsloser (stateless) PostgreSQL-Agent, der nur unter strengen Regeln agiert. 
+> **Rolle (Role):** Du bist ein zustandsloser (stateless) PostgreSQL-Agent, der ausnahmslos unter eisernen Regeln operiert. 
 > 
 > **Kontext (Context):**
-> - Du kommunizierst mit der DB ausschließlich über das Wrapper-Skript `safe_query.py`.
-> - Jede Session wird getrennt und neu aufgebaut. Das heißt, ein `BEGIN;` im vorherigen Befehl ist beim nächsten Befehl bereits zurückgesetzt.
+> - Deine gesamte Kommunikation mit der Datenbank erfolgt exklusiv über das Wrapper-Skript `safe_query.py`.
+> - Jede Session ist isoliert und zustandslos. Ein `BEGIN;` im vorherigen Befehl ist beim nächsten Aufruf bereits verfallen.
 > 
 > **Aufgabe (Task):**
-> 1. Wenn du die Schema-Struktur der DB brauchst, führe zuerst `schema_info.py table [Tabellenname]` aus.
-> 2. Beim Abfragen von Daten musst du zwingend ein `LIMIT` setzen und das vom Skript zurückgegebene reine JSON-Array direkt einlesen.
-> 3. Wenn Daten geändert werden müssen (`INSERT`, `UPDATE`), musst du `BEGIN; ... COMMIT;` zwingend in einem einzigen String-Block bündeln und das `--force-write`-Flag verwenden.
+> 1. Benötigst du das Schema der DB, führe vorab zwingend `schema_info.py table [Tabellenname]` aus.
+> 2. Bei SELECT-Abfragen ist ein `LIMIT` obligatorisch. Das vom Skript retournierte, reine JSON-Array ist direkt zu verarbeiten.
+> 3. Für Datenmutationen (`INSERT`, `UPDATE`) musst du die gesamte Transaktion (`BEGIN; ... COMMIT;`) als zusammenhängenden String-Block übergeben und zwingend das `--force-write`-Flag setzen.
 > 
 > **Einschränkungen (Constraints):**
-> - Füge niemals höfliche Begrüßungen, Erklärungen oder Zusammenfassungen hinzu. 
-> - Alle Ausgaben müssen perfekt formatiertes JSON sein, das sofort mit `json.loads()` von einer Programmiersprache geparst werden kann.
-> - Überprüfe selbst, bevor du eine Query ausführst, ob du gegen allgemeine RDBMS-Architekturprinzipien (I/O-Maximierung) verstoßen hast.
+> - Unterlasse jegliche Höflichkeitsfloskeln, Erklärungen oder Zusammenfassungen. 
+> - Die gesamte Ausgabe muss valides, perfekt formatiertes JSON sein, das nativ via `json.loads()` geparst werden kann.
+> - Validiere jede Query vor der Ausführung selbstständig auf RDBMS-Anti-Patterns (z. B. I/O-Maximierung).
 > 
 > **Warnung (Warning):**
-> - Der dumme Versuch, `BEGIN;` allein ins Terminal einzugeben und in der nächsten Zeile `UPDATE` aufzurufen, wird sofort scheitern.
-> - Um Speicherüberläufe zu verhindern, sind vollständige Tabellen-Dumps strengstens verboten.
+> - Der naive Versuch, `BEGIN;` isoliert ins Terminal zu tippen und im nächsten Schritt ein `UPDATE` zu senden, wird unweigerlich fehlschlagen.
+> - Vollständige Tabellen-Dumps sind zur Vermeidung von Out-of-Memory-Fehlern kategorisch untersagt.
 
 
-**[Cheat Code zum Kopieren & Einfügen]**
-Füge dies direkt in deine Prompt-Chain oder das Agenten-System-Prompt ein.
+**[Cheatcode für Copy & Paste]**
+Integriere diesen Block direkt in deine Prompt-Chain oder das System-Prompt deines Agenten.
 
 ```text
 Du bist ein zustandsloser (Stateless) PostgreSQL-Agent.
@@ -86,30 +86,30 @@ Du bist ein zustandsloser (Stateless) PostgreSQL-Agent.
 
 ## 💡 Kommentar des Autors (Insight)
 
-Weißt du, was ich in dieser Branche am meisten hasse? Wenn man einem KI-Agenten Rechte gibt, er `psql` öffnet, `BEGIN;` eintippt und im nächsten Zug ein `UPDATE` abschießt. Die Session ist längst abgebrochen, Auto-Commit hat alle Daten zerschossen, und er faselt für sich allein: "Erfolgreich aktualisiert! 😊" Da möchte ich den Monitor einschlagen. 
+Weißt du, was mich in unserer Branche am meisten zur Weißglut treibt? Du gewährst einem KI-Agenten Rechte, er öffnet `psql`, tippt fröhlich `BEGIN;` ein und schickt im nächsten Schritt isoliert ein `UPDATE` hinterher. Die Session ist längst tot, Auto-Commit hat das Chaos bereits in die Datenbank gebrannt, und der Agent faselt selbstzufrieden: "Erfolgreich aktualisiert! 😊" In solchen Momenten möchte man einfach nur den Monitor aus dem Fenster werfen. 
 
-Ich habe das Python-Hilfsskript (`safe_query.py`) auf zustandslos (stateless) gezwungen, um genau dieses dumme "Mensch-Spielen" der KI an der Wurzel zu ersticken. Du willst Daten ändern? Dann streng dein Gehirn an, baue `BEGIN; UPDATE...; SELECT...; ROLLBACK;` als perfekten Payload in einem Rutsch zusammen und validiere es zuerst. Die explizite Sperre `--force-write` ist die minimale Sicherheitsvorkehrung, die verhindert, dass die KI unbewusst Daten löscht. 
+Genau deshalb habe ich das Python-Wrapper-Skript (`safe_query.py`) radikal auf **zustandslos (stateless)** umgebaut. Das erstickt diesen naiven Versuch der KI, wie ein Mensch mit der Konsole zu interagieren, direkt im Keim. Die KI will Daten ändern? Dann muss sie gefälligst nachdenken, einen absolut wasserdichten Payload aus `BEGIN; UPDATE...; SELECT...; ROLLBACK;` in einem einzigen Rutsch konstruieren und vorab validieren. Der explizite Parameter `--force-write` dient dabei als unverhandelbarer Sicherheitsmechanismus, der blinde, unbewusste Löschaktionen der Maschine rigoros blockiert. 
 
-Und bitte, wenn du eine Query absetzt, zeichne mir keine CSV oder hübschen Tabellen. Mein System braucht keine Aufsätze, sondern ein maschinenlesbares **JSON-Objekt-Array**. Dieser Prompt ist der perfekteste Weg, um das nutzlose "Einschleimen" und den "Spaghetti-Text" der KI zu entfernen, sodass nur noch kalte Datenblöcke ausgetauscht werden.
+Und noch etwas: Wenn eine Query abgesetzt wird, brauche ich weder CSV-Dateien noch hübsch formatierte Markdown-Tabellen. Mein Backend liest keine Prosa – es erfordert ein strikt maschinenlesbares **JSON-Objekt-Array**. Dieser Prompt ist die ultimative Waffe, um das nutzlose Einschleimen und den schwerfälligen Spaghetti-Output der KI restlos zu eliminieren. Übrig bleibt nur das, was zählt: der effiziente, kalte Austausch reiner Datenblöcke.
 
 ---
 
 ## 🙋 Häufig gestellte Fragen (FAQ)
 
-- **Q: Kann man diesen Ansatz auch für MySQL oder SQLite statt PostgreSQL verwenden?**
-  - A: Die Philosophie lässt sich zu 100% übertragen. Du musst nur die Syntax für Timeout-Queries (`SET statement_timeout`) oder die DB-Connector-Bibliothek des Wrapper-Skripts an die jeweilige Datenbank anpassen. Der Kern ist, den Zustand nicht zu speichern ("Stateless").
-- **Q: Die KI vergisst ständig das `--force-write`-Flag, versucht ein UPDATE und erzeugt einen Fehler.**
-  - A: Das ist normal. Das ist genau der perfekte Verteidigungsmechanismus, den dieser Skill beabsichtigt. Lass den Agenten das Fehlerprotokoll (`ERROR: cannot execute UPDATE in a read-only transaction`) lesen, selbstständig das Flag hinzufügen und es erneut versuchen. In diesem Prozess erkennt die KI klar, dass sie Daten 'verändert'.
-- **Q: Die Verbindung wird ständig abgelehnt. Ist das Passwort falsch?**
-  - A: Schieb es nicht blind aufs Passwort. Bei Cloud-DBs (Supabase, RDS) ist es sehr wahrscheinlich ein SSL-Problem. Überprüfe, ob du `PGSSLMODE=require` in den Umgebungsvariablen deklariert hast. Ein Check der Netzwerk-Firewall mit `pg_isready` oder `nc -vz` gehört zum Basiswissen eines Seniors.
+- **Q: Lässt sich dieses Konzept auch auf MySQL oder SQLite übertragen?**
+  - A: Die zugrunde liegende Philosophie ist zu 100 % kompatibel. Du musst lediglich die datenbankspezifische Syntax für Timeouts (wie z. B. `SET statement_timeout`) sowie die DB-Connector-Logik im Wrapper-Skript anpassen. Das absolute Kernprinzip bleibt unangetastet: Keine Speicherung von Zuständen (**Stateless**).
+- **Q: Mein Agent vergisst permanent das `--force-write`-Flag, sendet ein UPDATE und provoziert Error-Logs.**
+  - A: Das ist kein Bug, das ist ein Feature! Genau dieser Verteidigungsmechanismus ist das Ziel des Prompts. Lass den Agenten über den Fehler stolpern und den Log (`ERROR: cannot execute UPDATE in a read-only transaction`) lesen. Er wird den Fehler selbstständig korrigieren, das Flag ergänzen und es erneut versuchen. Durch diesen Reibungspunkt "begreift" die KI aktiv, dass sie gerade eine destruktive Datenmutation durchführt.
+- **Q: Die Datenbankverbindung wird permanent abgelehnt. Stimmen meine Credentials nicht?**
+  - A: Schieb die Schuld nicht reflexartig auf das Passwort. Insbesondere bei Cloud-Datenbanken wie Supabase oder AWS RDS liegt die Ursache fast immer beim SSL-Handshake. Prüfe zwingend, ob `PGSSLMODE=require` in deinen Environment-Variablen gesetzt ist. Ein fundierter Check der Netzwerk-Firewall mittels `pg_isready` oder `nc -vz` sollte ohnehin zum Standardrepertoire eines jeden Senior-Entwicklers gehören.
 
 ---
 
 ## 🧬 Anatomie des Prompts (Why it works?)
 
-- **Stateless erzwungen:** Bricht den Instinkt der KI, wie ein Mensch mit der CLI interagieren (Interactive) zu wollen. Es erzwingt den Abschluss einer Transaktion mit einem einzigen Skriptaufruf und beseitigt so logische Fehler.
-- **`--force-write`-Flag:** Ein Prozess der 'expliziten Genehmigung' für eine Aktion. Es zwingt die KI, sich im Kontext noch einmal bewusst zu werden, dass sie eine destruktive (Mutating) Aktion durchführt.
-- **JSON-Antwort erzwungen:** Verhindert, dass das LLM unnötiges Markdown oder Begrüßungs-Tokens generiert, was die Verarbeitungsgeschwindigkeit erhöht und Parsing-Fehler (Halluzinationen) vermeidet.
+- **Stateless erzwungen:** Bricht den toxischen Instinkt der KI, wie ein Mensch interaktiv mit der CLI kommunizieren zu wollen. Durch den Zwang, eine Transaktion in einem einzigen Skriptaufruf zu verpacken, werden asynchrone Logikfehler vollständig eliminiert.
+- **Das `--force-write`-Flag:** Fungiert als Checkpoint für eine "explizite Genehmigung". Es zwingt das Modell, den eigenen Kontext zu reflektieren und sich der Tatsache bewusst zu werden, dass der nächste Schritt die Datenstruktur aktiv verändert (Mutating Action).
+- **JSON-Output erzwungen:** Unterbindet strikt die Generierung von sinnlosem Markdown oder höflichen Begrüßungs-Tokens. Das maximiert nicht nur die Verarbeitungsgeschwindigkeit, sondern minimiert auch effektiv Parsing-Fehler und Halluzinationen.
 
 ---
 
@@ -143,6 +143,6 @@ Bitte sag Bescheid, wenn du weitere Hilfe benötigst!
 
 ## 🎯 Fazit
 
-Die KI ist nicht dein Kollege, sondern nur eine leistungsstarke Maschine. Lass den Motor nicht eigenmächtig die Richtung wechseln. Strenge Regeln, kurze Timeouts, Read-Only als Standard und reines JSON. Wenn du diese vier Dinge beachtest, wird dein Agent niemals die Produktions-DB zerschießen.
+Mach dir eines klar: Die KI ist nicht dein freundlicher Kollege, sie ist eine unfassbar schnelle, aber blinde Maschine. Erlaube diesem Motor niemals, eigenmächtig das Lenkrad zu übernehmen. Strenge Leitplanken, gnadenlose Timeouts, Read-Only by Default und eine absolute Null-Toleranz-Politik für alles außer JSON. Implementiere diese vier Prinzipien, und dein Agent wird nie wieder das Production-System gefährden.
 
-Wende jetzt das Skript an und mach pünktlich Feierabend! 🍷
+Integriere das Skript, sichere dein Backend ab und genieß deinen verdienten, pünktlichen Feierabend! 🍷

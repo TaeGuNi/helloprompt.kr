@@ -1,6 +1,6 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "집에서 즐기는 완벽한 휴가, AI 스테이케이션 (AI Staycation Planner)"
+title: "The Ultimate Home Vacation: AI Staycation Planner"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
@@ -9,9 +9,9 @@ description: "Is traveling far the only way to take a vacation? Learn how to enj
 tags: [AI, Travel, Rest, Planning]
 ---
 
-# 📝 The Ultimate Home Vacation: AI Staycation Planner
+## 📝 The Ultimate Home Vacation: AI Staycation Planner
 
-- 🎯 **Target Audience:** Burned-out professionals, homebodies who become one with their beds on weekends, budget-conscious travelers
+- 🎯 **Target Audience:** Burned-out professionals, weekend homebodies, budget-conscious travelers
 - ⏱️ **Time to Value:** 5 minutes for planning → Saves 1 hour of indecision
 - 🤖 **Recommended Model:** ChatGPT (for emotional/vibes planning), Claude (for detailed itineraries)
 
@@ -23,16 +23,16 @@ tags: [AI, Travel, Rest, Planning]
 
 You desperately want to go on a vacation, but packing feels like a chore, flights are outrageously expensive, and crowded tourist traps are your worst nightmare. The perfect solution? A **Staycation**. 🏠✈️
 
-However, staying home without a plan usually leads to catching up on laundry and doomscrolling until the weekend abruptly ends. Even a vacation at home requires deliberate 'planning'. You need to declare, "Starting today, I am the VIP guest of this establishment," and actively curate an atmosphere entirely different from your everyday routine. 
+However, staying home without a plan usually leads to catching up on laundry and doomscrolling until the weekend abruptly ends. Even a vacation at home requires deliberate planning. You need to declare, "Starting today, I am the VIP guest of this establishment," and actively curate an atmosphere entirely different from your everyday routine. 
 
-A Netflix binge marathon? A home spa retreat? A gourmet tasting menu right in your dining room? Just name your desired theme. The AI will seamlessly craft the perfect timeline and orchestrate the ambient vibes for you.
+A Netflix binge marathon? A home spa retreat? A gourmet tasting menu right in your dining room? Just name your desired theme. The AI will seamlessly craft the perfect timeline and orchestrate the ambient vibes tailored specifically for you.
 
 ---
 
 ## ⚡️ TL;DR (3-Line Summary)
 
 1. **Set a Theme:** Don't just "rest." Establish a clear concept (e.g., Home Spa, Cozy Book Cafe) to maximize immersion.
-2. **Design the Senses:** Let AI recommend specific, granular details—like lighting, BGM, and scents—to completely alter your space's atmosphere.
+2. **Design the Senses:** Let AI recommend specific, granular details—like lighting setups, BGM, and scents—to completely alter your space's atmosphere.
 3. **Total Disconnect:** Turn off smartphone notifications and fully surrender to the personalized timeline the AI has curated just for you.
 
 ---
@@ -45,7 +45,6 @@ Use this when you need a quick, rough schedule and a spark of inspiration.
 
 > **Role:** You are a `[5-Star Hotel Concierge]`.
 > **Task:** Plan a `[2-day, 1-night]` staycation itinerary for me to enjoy at home this weekend. The theme is `[Netflix Binge and Delivery Food Party]`.
-
 
 ### 🥇 Pro Version
 
@@ -85,16 +84,16 @@ Use this when you crave a flawless vacation plan that rivals a luxury resort, co
 
 ## 💡 Writer's Insight
 
-The true essence of a staycation lies not in changing your physical location, but in shifting your *perception*. Simply placing a beautiful tablecloth on the dining table you use every day and playing an AI-recommended jazz playlist transforms that space from your mundane kitchen into an exclusive, fine-dining restaurant.
+The true essence of a staycation lies not in changing your physical location, but in shifting your **perception**. Simply placing a beautiful tablecloth on the dining table you use every day and playing an AI-recommended jazz playlist transforms that space from your mundane kitchen into an exclusive, fine-dining restaurant.
 
-When I personally tested this prompt, the most satisfying output was the **"Sensory Design Tips (BGM, Lighting, Scents)."** Just as the AI suggested, I turned off the main overhead lights, kept only the warm indirect lamps on, played the recommended ambient soundscape, and plated my delivery food on nice dishware. I honestly didn't envy a 5-star hotel room service. The more specific you are with your budget and theme, the more realistic and immensely satisfying the generated plan becomes.
+When I personally tested this prompt, the most satisfying output was the **"Sensory Design Tips (BGM, Lighting, Scents)."** Just as the AI suggested, I turned off the main overhead lights, kept only the warm indirect lamps on, played the recommended ambient soundscape, and plated my delivery food on elegant dishware. I honestly didn't envy a 5-star hotel room service. The more specific you are with your budget and theme, the more realistic and immensely satisfying the generated plan becomes.
 
 ---
 
 ## 🙋 FAQ
 
 - **Q: Can I plan an itinerary for my family or my partner?**
-  - A: Absolutely. In the `[Participants]` variable, simply input "A couple with 2 kids" or "My partner." Then, for the `[Main Theme]`, try something like `[Indoor treasure hunt and home camping with the kids]` or `[Romantic omakase at home with my partner]`. You'll receive incredibly diverse and creative schedules.
+  - A: Absolutely. In the `[Participants]` variable, simply input "A couple with 2 kids" or "My partner." Then, for the `[Main Theme]`, try something like `[Indoor treasure hunt and home camping with the kids]` or `[Romantic omakase at home with my partner]`. You'll receive incredibly diverse and creative schedules tailored to your group.
 
 - **Q: What if I have absolutely zero budget?**
   - A: That works perfectly too! Just specify in the `[Budget]` section: "0 dollars, using only what is already at home." The AI will recommend brilliant zero-cost vacation methods, such as recipes to clear out your fridge, ways to utilize free meditation apps, or curated YouTube virtual travel courses.

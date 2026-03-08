@@ -5,12 +5,12 @@ author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: " "
-description: "Ne passez plus de nuits blanches sur vos présentations. Voici un prompt redoutablement efficace pour générer, en moins d'une minute, la trame complète et le script détaillé de chaque diapositive de votre PowerPoint."
+description: "Fini les nuits blanches sur vos PPT ! Ce prompt génère la trame complète et le script détaillé de votre présentation en moins d'une minute."
 image: "/images/hooks/powerpoint-outline-prompt.jpg"
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ppt-outline-scr"]
 ---
 
-# 📝 Échapper à l'enfer de la planification PPT : Prompt pour générer le plan et le script par diapositive
+## 📝 Échapper à l'enfer de la planification PPT : Prompt pour générer le plan et le script par diapositive
 
 - **🎯 Public recommandé :** Marketeurs, chefs de projet, jeunes actifs, développeurs devant animer une présentation
 - **⏱️ Temps requis :** 3 heures → Réduit à 1 minute
@@ -20,17 +20,17 @@ tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ppt-outline-scr"]
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
 - 🚀 **Utilité :** ⭐⭐⭐⭐⭐
 
-> _"Votre présentation a lieu demain, et cela fait 30 minutes que vous fixez une diapositive PowerPoint désespérément vide ?"_
+> _"Votre présentation a lieu demain, et cela fait déjà 30 minutes que vous fixez une diapositive désespérément vide ?"_
 
-Ce qui est infiniment plus douloureux que le design visuel d'un PPT, c'est l'étape de la conception stratégique : « Que dois-je dire, dans quel ordre, et comment amener le sujet ? ». Ce prompt agit comme un véritable chef d'orchestre : il rassemble vos idées éparses et les transforme instantanément en une structure implacable, diapositive par diapositive, en y associant un script percutant d'une minute pour chacune d'elles. Désormais, vous n'aurez plus qu'à vous soucier de l'habillage visuel.
+Ce qui est infiniment plus douloureux que le design visuel d'un PowerPoint, c'est l'étape de sa conception stratégique : « Que dois-je dire, dans quel ordre, et comment amener mon sujet ? ». Ce prompt agit comme un véritable chef d'orchestre. Il rassemble vos idées éparses et les transforme instantanément en une structure narrative implacable, diapositive par diapositive, tout en générant un script percutant d'une minute pour chacune d'elles. Désormais, vous n'aurez plus qu'à vous soucier de l'habillage visuel.
 
 ---
 
 ## ⚡️ Résumé en 3 lignes (TL;DR)
 
-1. Ne partez plus jamais d'une page blanche. Fournissez simplement votre message clé, et l'IA bâtira l'ossature de votre présentation.
-2. Obtenez des recommandations d'éléments visuels pertinents (graphiques, images, etc.) pour illustrer chaque diapositive.
-3. Le script oral est généré simultanément, vous offrant un temps précieux pour répéter votre intervention.
+1. Ne partez plus jamais d'une page blanche. Fournissez simplement votre message clé, et l'IA bâtira l'ossature complète de votre présentation.
+2. Obtenez des recommandations d'éléments visuels pertinents (graphiques, images) pour illustrer chaque diapositive.
+3. Le script oral est généré simultanément, ce qui vous offre un temps précieux pour répéter votre intervention.
 
 ---
 
@@ -45,7 +45,7 @@ Idéale lorsque vous souhaitez esquisser rapidement le fil rouge de votre prése
 
 ### 🥇 Version Pro (Pro Version)
 
-Indispensable lorsque vous avez besoin d'une structure narrative pointue et d'un script calibré pour captiver votre auditoire.
+Indispensable lorsque vous avez besoin d'une structure narrative pointue et d'un script millimétré pour captiver votre auditoire.
 
 > **Rôle (Role) :** Tu es un `[Directeur des présentations]` au sein d'une entreprise tech de premier plan de la Silicon Valley. Tu es passé maître dans l'art de la structuration et du storytelling pour subjuguer ton auditoire.
 >
@@ -80,11 +80,11 @@ Indispensable lorsque vous avez besoin d'une structure narrative pointue et d'un
 
 ## 💡 Commentaire de l'auteur (Insight)
 
-Le syndrome de la page blanche (Blank Canvas Syndrome). C'est précisément à cette étape que la majorité des professionnels perdent un temps fou, avant même d'entamer la création de leur PPT. Ce prompt a été pensé pour vous permettre de boucler 100 % de votre réflexion stratégique sur Word ou le Bloc-notes, bien avant d'ouvrir votre logiciel de présentation.
+Le redoutable syndrome de la page blanche (Blank Canvas Syndrome)... C'est précisément à cette étape que la majorité des professionnels perdent un temps fou, bien avant même d'ouvrir leur logiciel de présentation. Ce prompt a été minutieusement pensé pour vous permettre de boucler 100 % de votre réflexion stratégique sur Word ou votre Bloc-notes.
 
-Le véritable secret réside dans la définition minutieuse de la variable `[Public]`. Si vous vous adressez à des profils opérationnels, le script s'orientera naturellement vers les "méthodes d'implémentation". S'il s'agit du comité de direction (C-level), le discours pivotera vers la "réduction des coûts et l'atténuation des risques".
+Le véritable secret de son efficacité réside dans la définition précise de la variable `[Public]`. Si vous vous adressez à des profils opérationnels, le script s'orientera naturellement vers les "méthodes d'implémentation". S'il s'agit du comité de direction (C-level), le discours pivotera instantanément vers la "réduction des coûts et l'atténuation des risques".
 
-D'expérience, il est vivement déconseillé de réciter mécaniquement le script pondu par l'IA. Laissez-lui générer 80 % de la structure et de la logique narrative, puis injectez-y vos 20 % d'expertise terrain ou les indicateurs clés propres à votre entreprise. Vous quitterez le bureau 3 heures plus tôt, avec une présentation deux fois plus percutante.
+D'expérience, il est vivement déconseillé de réciter mécaniquement le script pondu par l'IA. Laissez-lui générer 80 % de la structure et de la logique narrative, puis injectez-y vos 20 % d'expertise terrain ou les indicateurs clés propres à votre entreprise. Le résultat ? Vous quitterez le bureau 3 heures plus tôt, avec une présentation deux fois plus percutante.
 
 ---
 
@@ -102,7 +102,7 @@ D'expérience, il est vivement déconseillé de réciter mécaniquement le scrip
 
 1. **Storytelling ultra-ciblé :** Plutôt que de formuler une requête basique comme "Fais-moi un PPT", nous avons verrouillé le `[Public]` et l'`[Objectif principal]`. Cela contraint l'IA à adopter une posture de "persuasion" plutôt que de se contenter d'un simple étalage d'informations.
 2. **Anticipation visuelle (Visual Idea) :** L'IA prend en charge la réflexion la plus fastidieuse de la création d'un PPT : "Quelle image dois-je insérer ici ?". Cela vous décharge d'un poids cognitif énorme lors de la phase de design.
-3. **Dichotomie texte/oral :** En séparant scrupuleusement le texte affiché à l'écran (le résumé) et le discours prononcé par le présentateur (le script), nous garantissons une structure de présentation exemplaire, évitant l'écueil des diapositives surchargées de texte.
+3. **Dichotomie texte/oral :** En séparant scrupuleusement le texte affiché à l'écran (le résumé) et le discours prononcé par le présentateur (le script), nous garantissons une structure de présentation exemplaire, évitant l'écueil classique des diapositives surchargées de texte.
 
 ---
 
@@ -130,4 +130,4 @@ Diapositive 2 : Les coûts invisibles qui consument notre rentabilité (Pain Poi
 
 Une ossature narrative solide sauvera toujours une présentation, même si son design laisse à désirer.
 
-Cessez de gaspiller votre énergie sur des animations superflues. Appuyez-vous sur ce prompt pour bâtir une fondation inébranlable, et saupoudrez-y votre propre expertise. À présent, vous pouvez fermer votre ordinateur et rentrer à l'heure ! 🍷
+Cessez de gaspiller votre énergie sur des animations superflues. Appuyez-vous sur ce prompt pour bâtir une fondation inébranlable, puis saupoudrez-y votre propre expertise. À présent, vous pouvez fermer votre ordinateur et rentrer à l'heure ! 🍷

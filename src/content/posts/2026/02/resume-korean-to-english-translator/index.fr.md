@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Transformer un CV Coréen en un CV Anglais de Niveau Natif\""
+title: "Transformer un CV Coréen en un CV Anglais de Niveau Natif"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emploi & Carrière"
-description: " \"Bien plus qu'une simple traduction. Convertissez votre CV avec des expressions percutantes et un format parfaitement adapté à la culture de recrutement anglophone.\""
+description: "Bien plus qu'une simple traduction. Convertissez votre CV avec des expressions percutantes et un format adapté à la culture anglophone."
 tags:
   [
     "CVAnglais",
@@ -16,9 +16,9 @@ tags:
   ]
 ---
 
-# 📝 Transformer un CV Coréen en un CV Anglais de Niveau Natif
+## 📝 Transformer un CV Coréen en un CV Anglais de Niveau Natif
 
-- **🎯 Recommandé pour :** Demandeurs d'emploi, professionnels visant l'international, étudiants
+- **🎯 Recommandé pour :** Demandeurs d'emploi, professionnels de l'international, étudiants
 - **⏱️ Temps requis :** 30 minutes → 5 minutes
 - **🤖 Modèle recommandé :** Tous les modèles d'IA (ChatGPT, Claude, Gemini, etc.)
 
@@ -28,15 +28,15 @@ tags:
 
 > _"Un CV littéralement traduit par un outil classique ressemble souvent à du 'Konglish' maladroit pour un recruteur natif, ruinant ainsi vos chances dès la première lecture."_
 
-Rédiger un CV en anglais (Resume) ne consiste pas seulement à traduire des mots. La grammaire, la structure et surtout le ton sont fondamentalement différents du CV coréen. Il faut omettre le pronom personnel (I) et démarrer chaque puce par un **Verbe d'Action** (Action Verb) percutant. Au lieu de demander à une IA de simplement "traduire", confiez-lui le rôle d'un "Recruteur Expert de la Silicon Valley".
+Rédiger un CV en anglais (resume) ne se résume pas à une simple traduction littérale de vos expériences. La grammaire, la structure et le ton diffèrent fondamentalement des standards coréens. En anglais, la règle d'or est d'omettre les pronoms personnels (comme « I ») et de commencer chaque puce par un **verbe d'action** (action verb) percutant. Plutôt que de demander à l'IA de « traduire » bêtement, confiez-lui le rôle d'un « Recruteur de la Silicon Valley » pour métamorphoser votre profil.
 
 ---
 
 ## ⚡️ Résumé en 3 lignes (TL;DR)
 
-1. Ne traduisez pas mot à mot : adaptez le contenu au format standard des CV anglophones.
-2. Supprimez les sujets et commencez vos phrases par des verbes d'action puissants au passé (ex: _Spearheaded_, _Developed_).
-3. Utilisez le jargon professionnel (Business English) adéquat pour décupler la crédibilité de votre profil.
+1. Ne traduisez pas mot à mot : adaptez plutôt le contenu au format standard des CV nord-américains.
+2. Supprimez les pronoms personnels et commencez chaque phrase par un verbe d'action percutant (ex. : _Spearheaded_, _Developed_).
+3. Utilisez un jargon professionnel (Business English) affûté pour décupler instantanément la crédibilité de votre profil.
 
 ---
 
@@ -47,10 +47,9 @@ Rédiger un CV en anglais (Resume) ne consiste pas seulement à traduire des mot
 Utilisez cette version pour obtenir un résultat rapide et direct.
 
 > **Rôle :** Tu es un `[recruteur de la Silicon Valley et éditeur anglophone]`.
-> **Demande :** `[Convertis le CV coréen suivant en un CV anglais parfait, adapté à la culture de recrutement anglophone]`.
+> **Demande :** `[Convertis le CV coréen suivant en un CV anglais irréprochable, parfaitement adapté à la culture de recrutement anglophone]`.
 >
-> [Insérez le contenu de votre CV coréen ici]
-
+> [Insérez le texte de votre CV coréen ici]
 
 ### 🥇 Version Pro (Expert)
 
@@ -60,8 +59,8 @@ Utilisez cette version pour un rendu détaillé, percutant et prêt à être env
 >
 > **Contexte (Context) :**
 >
-> - Contexte : `[Je souhaite transformer mon expérience professionnelle coréenne en un CV anglais]`
-> - Objectif : `[Obtenir un CV percutant, parfaitement aligné avec la culture de recrutement anglophone, au-delà d'une simple traduction]`
+> - Contexte : `[Je souhaite transformer mon expérience professionnelle coréenne en un CV anglophone]`
+> - Objectif : `[Obtenir un CV percutant, parfaitement aligné avec la culture de recrutement internationale, bien au-delà d'une simple traduction]`
 >
 > **Demande (Task) :**
 >
@@ -85,26 +84,26 @@ Utilisez cette version pour un rendu détaillé, percutant et prêt à être env
 
 ## 💡 Commentaire de l'Auteur (Insight)
 
-La plus grande erreur lors d'une candidature pour une entreprise étrangère est d'envoyer un CV qui "sonne" coréen. En anglais, la modestie excessive n'a pas sa place sur un CV : il faut être direct et orienté vers les résultats (_Result-oriented_).
-En utilisant ce prompt, j'ai remarqué que des phrases banales comme "J'ai géré une équipe de 5 personnes" se transforment instantanément en "Directed a cross-functional team of 5, boosting overall efficiency...". Si l'IA vous donne un résultat qui semble trop long ou littéraire, n'hésitez pas à lui ajouter une consigne : _"Rends-le plus concis et percutant"_. Ce prompt est une véritable mine d'or pour franchir la barrière des logiciels de tri de CV (ATS).
+La plus grave erreur lors d'une candidature à l'international est d'envoyer un CV dont la syntaxe trahit une traduction littérale. Sur un CV anglophone, la fausse modestie n'a pas sa place : vous devez être direct et orienté vers les résultats (_Result-oriented_). 
+En utilisant ce prompt, j'ai pu constater que des phrases ternes comme « J'ai géré une équipe de 5 personnes » se transforment instantanément en « _Directed a cross-functional team of 5, boosting overall efficiency..._ ». Si l'IA génère un texte qui vous semble trop long ou excessivement littéraire, n'hésitez pas à la recadrer avec une instruction simple : _« Rends ce paragraphe plus concis et percutant »_. Ce prompt est une véritable arme secrète pour déjouer les logiciels de tri de candidatures (ATS).
 
 ---
 
 ## 🙋 Foire Aux Questions (FAQ)
 
-- **Q : Puis-je utiliser la version gratuite de ChatGPT pour cela ?**
-  - A : Oui, la version gratuite fait un travail tout à fait décent. Cependant, pour un vocabulaire vraiment subtil et des verbes d'action plus variés, je recommande vivement Claude 3.5 Sonnet ou ChatGPT Pro.
+- **Q : Puis-je utiliser la version gratuite de ChatGPT pour cet exercice ?**
+  - A : Absolument, la version gratuite fournit un résultat tout à fait correct. Néanmoins, pour bénéficier d'un vocabulaire plus nuancé et de verbes d'action réellement pointus, je vous recommande vivement d'opter pour Claude 3.5 Sonnet ou ChatGPT Plus.
 
-- **Q : Que faire si le résultat semble trop exagéré par rapport à la réalité ?**
-  - A : Les IA ont parfois tendance à embellir les faits. Demandez-lui simplement : _"Adoucis un peu le ton pour que cela reste réaliste et fidèle à mon expérience d'origine"_. Relisez toujours pour vous assurer que vous pouvez défendre chaque point lors d'un entretien.
+- **Q : Que faire si l'IA enjolive trop mon expérience par rapport à la réalité ?**
+  - A : Les modèles d'IA ont souvent tendance à survendre les faits. Il vous suffit alors de réajuster le tir en lui demandant : _« Adoucis légèrement le ton pour que cela reste parfaitement réaliste et fidèle à mon parcours d'origine »_. Gardez à l'esprit que vous devez être capable d'assumer et de défendre chaque ligne de votre CV lors de l'entretien.
 
 ---
 
 ## 🧬 Anatomie du Prompt (Pourquoi ça marche ?)
 
-1. **Rôle d'Expert (Recruteur de la Silicon Valley) :** Force l'IA à adopter un point de vue critique et professionnel, évitant ainsi le ton d'un simple outil de traduction.
-2. **Directives de Formatage Précises :** L'obligation de commencer par des "Verbes d'Action" et de supprimer les pronoms "I/My" force la génération d'un véritable format _Resume_ américain.
-3. **Mise en Valeur (Gras) :** Demander de mettre les chiffres en gras permet d'attirer immédiatement l'œil du recruteur sur vos accomplissements quantifiables.
+1. **Un Persona d'Expert (Recruteur de la Silicon Valley) :** Cette consigne force l'IA à endosser un regard critique et hautement professionnel, ce qui désactive instantanément son mode « traduction basique ».
+2. **Des Directives de Formatage Intransigeantes :** L'exigence formelle d'ouvrir chaque ligne par un verbe d'action et d'éradiquer les pronoms personnels (I/my) garantit l'obtention d'un authentique _Resume_ à l'américaine.
+3. **La Mise en Valeur des Chiffres (Gras) :** Le fait d'exiger la mise en gras des données chiffrées permet de capter immédiatement l'attention du recruteur sur vos accomplissements mesurables.
 
 ---
 
@@ -128,6 +127,6 @@ So sales went up by 20%. It was a good result.
 
 ## 🎯 Conclusion
 
-Ne laissez pas la barrière de la langue minimiser la valeur de vos compétences et de vos expériences. Rédiger un CV en anglais de qualité native est désormais à la portée de tous grâce à une ingénierie de prompt adaptée.
+Ne laissez plus la barrière de la langue dévaluer l'impact de vos compétences et de votre parcours. Grâce à une ingénierie de prompt stratégique, la rédaction d'un CV anglophone d'un niveau natif est désormais à la portée de tous.
 
-Il est temps de donner à votre carrière l'envergure internationale qu'elle mérite ! 🌏
+Il est grand temps d'offrir à votre carrière l'envergure internationale qu'elle mérite véritablement ! 🌏

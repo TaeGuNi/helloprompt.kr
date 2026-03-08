@@ -5,13 +5,13 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "창업/기획"
-description: " \"80% of winning a startup grant comes down to structure. Use this AI prompt to effortlessly fill in the blanks using the proven PSST (Problem-Solution-Scaleup-Team) framework.\""
+description: "80% of winning a startup grant comes down to structure. Use this AI prompt to effortlessly fill in the blanks using the proven PSST framework."
 tags: ["사업계획서", "예비창업패키지", "스타트업", "정부지원사업", "ChatGPT"]
 ---
 
-# 📑 Writing a Business Plan: Designing a Winning Structure for Startup Grants
+## 📑 Writing a Business Plan: Designing a Winning Structure for Startup Grants
 
-- **🎯 Target Audience:** Aspiring entrepreneurs struggling with documentation, early-stage founders asking "What is PSST?"
+- **🎯 Target Audience:** Aspiring entrepreneurs struggling with documentation, early-stage founders asking, "What is PSST?"
 - **⏱️ Time Saved:** 10 minutes (to complete the first draft)
 - **🤖 Recommended AI:** ChatGPT-4o (Excellent at logical structuring and formal writing)
 
@@ -19,17 +19,17 @@ tags: ["사업계획서", "예비창업패키지", "스타트업", "정부지원
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
 - 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-> _"Is your head full of world-changing ideas, but every time you open a blank document, you just end up staring at a blinking cursor for 10 minutes?"_
+> _"Is your head full of world-changing ideas, but every time you open a blank document, you end up staring at a blinking cursor for 10 minutes?"_
 
-Securing startup grants is essentially a **writing contest** and an **exercise in persuasion**. Evaluators don't know your brilliant idea beforehand; they evaluate everything based solely on the single **'document'** you submit. Every winning business plan shares an unwritten formula: the **PSST (Problem - Solution - Scale-up - Team)** framework. Here is how you can use AI to flesh out this solid skeleton into a highly persuasive proposal.
+Securing startup grants is essentially a **writing contest** and an **exercise in persuasion**. Evaluators don't know your brilliant idea beforehand; they evaluate everything based solely on the single **document** you submit. Every winning business plan shares an unwritten formula: the **PSST (Problem, Solution, Scale-up, Team)** framework. Here is how you can use AI to flesh out this solid skeleton into a highly persuasive proposal.
 
 ---
 
 ## ⚡️ 3-Line Summary (TL;DR)
 
-1. **Problem:** Present the severity of the customer's pain point with impactful, objective data.
-2. **Solution:** Prove exactly how your product or service solves that problem in a unique and realistic way.
-3. **Scale-up:** Outline clearly how this business will generate revenue (BM) and dominate the target market.
+1. **Problem:** Present the severity of the customer's pain points using impactful, objective data.
+2. **Solution:** Prove exactly how your product or service solves that problem in a unique, realistic way.
+3. **Scale-up:** Clearly outline how this business will generate revenue (BM) and dominate the target market.
 
 ---
 
@@ -40,8 +40,7 @@ Securing startup grants is essentially a **writing contest** and an **exercise i
 Use this when you want to quickly test if your raw idea aligns with the tone and structure of a formal grant application.
 
 > **Role:** You are an expert consultant specializing in government startup grants.
-> **Task:** Summarize the **'Problem'** and **'Solution'** sections for my idea, `[a dog-walking buddy matching app]`, using professional, concise bullet points typically found in official business plans (e.g., "Expected to...", "Designed for..."). Limit to 3 bullet points per section.
-
+> **Task:** Summarize the **Problem** and **Solution** sections for my idea, `[a dog-walking buddy matching app]`, using the professional, concise bullet points typically found in official business plans (e.g., "Expected to...", "Designed for..."). Limit your response to 3 bullet points per section.
 
 ### 🥇 Pro Version (Full PSST Structure)
 
@@ -55,17 +54,17 @@ Use this when you need an advanced, polished draft ready for official submission
 > - **Target Audience:** `[Single-person households and busy dual-income couples]`
 >
 > **Task:**
-> Write out the core content for each section according to the **PSST** framework, which is the standard format for government grants. Use clear, professional bullet points.
+> Write out the core content for each section according to the **PSST** framework, the standard format for government grants. Use clear, professional bullet points.
 >
-> 1. **Problem:** You must cite objective statistics (numbers) related to environmental pollution caused by food waste and the financial loss for individuals.
-> 2. **Solution (Feasibility):** Highlight the specific mechanism of the automated grocery recognition technology using Vision AI, and emphasize the overwhelming unique selling proposition (USP) compared to competitors.
+> 1. **Problem:** You must cite objective statistics (numbers) regarding environmental pollution caused by food waste and the financial losses incurred by individuals.
+> 2. **Solution (Feasibility):** Highlight the specific mechanism of the automated grocery recognition technology using Vision AI, and emphasize the overwhelming Unique Selling Proposition (USP) compared to competitors.
 > 3. **Scale-up (Growth Strategy):** Present a clear revenue model (e.g., subscription fees, data sales) and a specific Go-To-Market (GTM) strategy to acquire the first 1,000 users.
-> 4. **Team:** Create a virtual profile of the core team members (e.g., developers, product managers) outlining the essential skills required to make this idea a reality.
+> 4. **Team:** Create a virtual profile of the core team members (e.g., developers, product managers), outlining the essential skills required to make this idea a reality.
 >
 > **Constraints:**
 >
 > - Use a formal, objective, and concise tone appropriate for an official business plan (e.g., "Implements...", "Targets...", "Will achieve...").
-> - Avoid abstract adjectives (e.g., "very good", "innovative"). Instead, appropriately mix in industry terminology to build trust.
+> - Avoid abstract adjectives (e.g., "very good", "innovative"). Instead, seamlessly integrate industry terminology to build trust.
 >
 > **Warning:**
 >
@@ -75,14 +74,14 @@ Use this when you need an advanced, polished draft ready for official submission
 
 ## 💡 Writer's Insight
 
-Evaluators review hundreds of pitch decks. What grabs their attention isn't flashy rhetoric, but **cold, hard data**. Instead of an emotional sentence like, "Many people feel inconvenienced by food waste disposal," you need to hit them with hard numbers: "Annual food waste disposal costs exceed $1 billion, with single-person households losing an average of $30/month on discarded groceries." When prompting the AI, adding the constraint **"You must include statistical data or figures"** exponentially increases the persuasiveness of the document. However, remember that any statistics generated by AI must undergo a rigorous **Fact Check** before you cite the actual sources in your final application.
+Evaluators review hundreds of pitch decks. What grabs their attention isn't flashy rhetoric, but **cold, hard data**. Instead of an emotional statement like, "Many people feel inconvenienced by food waste disposal," you need to hit them with hard numbers: "Annual food waste disposal costs exceed $1 billion, with single-person households losing an average of $30 a month on discarded groceries." When prompting the AI, adding the constraint **"You must include statistical data or figures"** exponentially increases the persuasiveness of your document. However, remember that any statistics generated by AI must undergo a rigorous **Fact Check** before you cite the actual sources in your final application.
 
 ---
 
 ## 🙋 Frequently Asked Questions (FAQ)
 
 - **Q: Is there any penalty (e.g., plagiarism) if I submit the AI-generated text exactly as it is?**
-  - A: The AI's output should serve as a perfect skeleton and first draft. Rather than simply copying and pasting it, you absolutely need to rewrite it in your own words, injecting your own 'real experiences' and 'unique insights' while adopting the suggested logical flow and sentence structure.
+  - A: The AI's output should serve as a perfect skeleton and a solid first draft. Rather than simply copying and pasting it, you absolutely must rewrite it in your own words. Inject your own "real experiences" and "unique insights" while adopting the suggested logical flow and sentence structure.
 
 - **Q: Won't the evaluators skip reading it if it's just a wall of text?**
   - A: Exactly. Text-heavy documents suffer from poor readability. Try asking the AI: _"I want to visually explain the core technology in the Solution section. Give me ideas for what kind of diagram or flowchart I should draw in my pitch deck."_ You'll get excellent suggestions for visual aids to break up the text.
@@ -92,7 +91,7 @@ Evaluators review hundreds of pitch decks. What grabs their attention isn't flas
 ## 🧬 Prompt Anatomy (Why it works?)
 
 1. **Assigning the Evaluator Persona:** By explicitly telling the AI to act as a "former evaluator consultant," we force it to automatically highlight the core criteria (differentiation, marketability, feasibility) that earn bonus points during the actual review process.
-2. **Forcing the PSST Structure:** By strictly defining the PSST framework—the absolute standard for government grants—we prevent the AI from rambling off-topic and ensure it outputs a format that can be immediately applied in the real world.
+2. **Forcing the PSST Structure:** By strictly defining the PSST framework—the absolute gold standard for government grants—we prevent the AI from rambling off-topic and ensure it outputs a format that can be immediately applied in the real world.
 
 ---
 

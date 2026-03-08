@@ -5,33 +5,33 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: " \"Un prompt incontournable pour les PM : transformez instantanément vos spécifications (PRD) en tickets Jira (Epic, Story, Task) prêts à l'emploi.\""
+description: "Un prompt incontournable pour les PM : transformez vos spécifications (PRD) en tickets Jira (Epic, Story, Task) prêts à l'emploi en un seul clic."
 tags: ["Jira", "지라", "PM", "기획", "애자일"]
 ---
 
-# 🎫 Génération Automatique de Tickets Jira : Transformez vos Spécifications en Backlog en 1 Clic
+## 🎫 Génération Automatique de Tickets Jira : Transformez vos Spécifications en Backlog en 1 Clic
 
-- **🎯 Recommandé pour :** PM/PO fatigués de créer des tickets manuellement, Scrum Masters cherchant à optimiser le backlog.
-- **⏱️ Temps requis :** 1 minute (Copier-coller des specs -> Conversion CSV)
-- **🤖 Modèle recommandé :** Claude 3.5 Sonnet (Excellent pour la structuration de documents et la division logique)
+- **🎯 Recommandé pour :** PM/PO épuisés par la création manuelle de tickets, Scrum Masters en quête d'optimisation de backlog.
+- **⏱️ Temps requis :** 1 minute (Copier-coller du PRD → Conversion CSV)
+- **🤖 Modèle recommandé :** Claude 3.5 Sonnet (Idéal pour structurer les documents et diviser logiquement les tâches)
 
 - ⭐ **Difficulté :** ⭐☆☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
 - 🚀 **Utilité :** ⭐⭐⭐⭐⭐
 
-> _"Les spécifications sont prêtes... Super, il ne me reste plus qu'à copier-coller tout ça dans Jira un par un... L'enfer."_
+> _"Les spécifications sont prêtes... Génial, il ne me reste plus qu'à tout copier-coller un par un dans Jira. L'enfer absolu."_
 
-Copier-coller le contenu d'un document de spécifications (PRD) pour créer des tickets Jira un par un. Pourquoi les humains font-ils encore ce travail répétitif ? Découper les fonctionnalités en tickets de développement est essentiel pour la communication, mais le processus en lui-même est une tâche mécanique qui peut être automatisée à 100 %.
+Copier-coller chaque ligne d'un document de spécifications (PRD) pour générer des tickets Jira... Pourquoi continuons-nous de nous infliger cette torture répétitive ? Si le découpage des fonctionnalités en tickets de développement reste crucial pour l'alignement de l'équipe, l'acte de création en lui-même est une corvée purement mécanique, 100 % automatisable.
 
-Désormais, confiez vos spécifications à l'IA et donnez-lui cette instruction : **"Découpe ce document en tâches (Tasks) prêtes à être développées."** Ce qui vous prenait une journée entière pour générer un backlog se règle désormais en une minute.
+À partir d'aujourd'hui, déléguez cette tâche ingrate à l'IA avec une simple directive : **"Découpe ce document en tâches (Tasks) prêtes pour le développement."** Ce backlog qui vous prenait autrefois une demi-journée à concevoir sera désormais bouclé en moins d'une minute.
 
 ---
 
 ## ⚡️ Résumé en 3 points (TL;DR)
 
-1. Copiez l'intégralité du texte de vos spécifications produit (PRD).
-2. Demandez à l'IA : "Divise ce contenu en Epic, Story et Task pour générer un fichier CSV compatible avec l'importation Jira."
-3. Enregistrez le résultat sous forme de fichier et utilisez la fonction "Importer des tickets depuis un fichier CSV" de Jira pour créer des dizaines de tickets en un seul clic.
+1. Copiez l'intégralité de vos spécifications produit (PRD).
+2. Ordonnez à l'IA : "Découpe ce contenu en Epic, Story et Task, puis génère un fichier CSV compatible avec Jira."
+3. Sauvegardez le résultat et utilisez l'option **Importer des tickets depuis un fichier CSV** dans Jira pour tout générer en un clic.
 
 ---
 
@@ -39,71 +39,70 @@ Désormais, confiez vos spécifications à l'IA et donnez-lui cette instruction 
 
 ### 🥉 Version Basique
 
-Utilisez cette version lorsque vous souhaitez générer rapidement une simple liste de tâches (To-Do List).
+Idéale pour obtenir rapidement une simple liste de tâches (To-Do List) à partir d'un besoin fonctionnel.
 
 > **Rôle :** Tu es un `[Product Manager Senior / Scrum Master]`.
 > **Spécifications :** `[Collez l'intégralité de vos spécifications ici]`
-> **Tâche :** Découpe ces spécifications en **tâches détaillées (Tasks)** prêtes à être développées. Présente-les sous forme de checklist. Fais une distinction claire entre les tâches Front-end et Back-end.
-
+> **Tâche :** Découpe ces spécifications en **tâches détaillées (Tasks)** prêtes pour le développement. Présente-les sous forme de checklist, en distinguant clairement les tâches Front-end et Back-end.
 
 ### 🥇 Version Pro
 
-Utilisez cette version pour générer un fichier CSV parfait, prêt à être uploadé dans Jira. Elle inclut même les critères d'acceptation (AC) de manière exhaustive.
+C'est la méthode de référence pour générer un fichier CSV impeccable, prêt à être importé dans Jira. Elle va jusqu'à rédiger de manière exhaustive les critères d'acceptation (AC).
 
 > **Rôle (Role) :** Tu es un Scrum Master Senior et Technical PM, expert en méthodologie Agile.
 >
 > **Contexte (Context) :**
 >
-> - Contexte : Un document de spécifications produit (PRD) pour une nouvelle fonctionnalité vient d'être achevé, et nous devons planifier le prochain sprint à partir de celui-ci.
-> - Objectif : Convertir le contenu du PRD en un ensemble de données CSV parfaitement structuré, prêt à être importé directement dans Jira.
+> - Contexte : Le document de spécifications (PRD) d'une nouvelle fonctionnalité est finalisé. Nous devons planifier le prochain sprint sur cette base.
+> - Objectif : Convertir le contenu du PRD en un jeu de données CSV parfaitement structuré pour une importation directe dans Jira.
 >
 > **Tâche (Task) :**
 >
-> 1. Analyse le PRD fourni ci-dessous et rédige les tickets de développement nécessaires au **format CSV Jira**.
-> 2. Tu dois obligatoirement inclure les colonnes suivantes, dans cet ordre : `Issue Type`, `Summary`, `Description`, `Priority`, `Assignee`.
+> 1. Analyse le PRD fourni ci-dessous et rédige les tickets de développement requis au **format CSV natif Jira**.
+> 2. Tu dois impérativement inclure les colonnes suivantes, dans cet ordre précis : `Issue Type`, `Summary`, `Description`, `Priority`, `Assignee`.
 > 3. Laisse la colonne `Assignee` vide.
-> 4. Dans la colonne `Description`, tu dois obligatoirement rédiger des **critères d'acceptation (Acceptance Criteria, AC) au format Given-When-Then** pour permettre aux développeurs d'effectuer leurs tests.
+> 4. Dans la colonne `Description`, il est obligatoire de rédiger des **critères d'acceptation (Acceptance Criteria, AC) au format Given-When-Then** pour faciliter les tests côté développeurs.
 >
 > **Spécifications (PRD) :**
 > `[Collez l'intégralité de vos spécifications ici]`
 >
 > **Contraintes (Constraints) :**
 >
-> - La hiérarchie doit être strictement respectée dans cet ordre : 1. Epic -> 2. Story -> 3. Sub-task (avec distinction FE/BE).
-> - Le format de sortie ne doit pas être un tableau Markdown, mais **uniquement du texte brut séparé par des virgules (données CSV brutes)**, facile à copier-coller dans Excel. Encadre le résultat dans un bloc de code.
+> - Respecte strictement la hiérarchie suivante : 1. Epic -> 2. Story -> 3. Sub-task (en distinguant systématiquement FE et BE).
+> - Ne génère pas de tableau Markdown. Retourne **uniquement du texte brut séparé par des virgules (Raw CSV)**, facile à coller dans Excel ou Notepad. Encadre la sortie dans un bloc de code.
 >
 > **Avertissement (Warning) :**
 >
-> - N'invente aucune fonctionnalité ou règle de gestion qui ne figure pas dans le PRD. Pour toute zone d'incertitude, ajoute explicitement "[À CONFIRMER]" dans la Description.
+> - N'invente aucune fonctionnalité ni règle métier absente du PRD (zéro hallucination). Pour toute zone d'ombre, ajoute la mention explicite "[À CONFIRMER]" dans la colonne Description.
 
 ---
 
 ## 💡 L'Avis de l'Expert (Insight)
 
-Les développeurs ne sautent pas de joie face à des maquettes visuelles complexes, mais face à **"des tickets dotés de critères d'acceptation (AC) limpides"**. Le véritable pouvoir de ce prompt ne réside pas seulement dans le découpage des tâches, mais dans l'obligation imposée à l'IA de rédiger des AC au format **Given-When-Then** directement dans la `Description`.
+Contrairement aux idées reçues, ce qui fait sourire un développeur, ce ne sont pas de superbes maquettes Figma, mais des **tickets dotés de critères d'acceptation (AC) limpides et sans ambiguïté**. La véritable magie de ce prompt ne réside pas dans le simple découpage des tâches, mais dans la contrainte stricte imposée à l'IA : formuler des AC au format BDD **Given-When-Then** directement dans le champ `Description`.
 
-Depuis l'adoption de cette méthode dans nos équipes, les allers-retours habituels du type "Que se passe-t-il si je clique ici ?" ou "Comment gère-t-on cette erreur ?" ont drastiquement diminué. La qualité de vos tickets détermine directement la vélocité de votre sprint.
+Depuis que nous avons imposé ce standard, les incessants allers-retours du type _"Que se passe-t-il si l'utilisateur clique ici avec un panier vide ?"_ ou _"Comment gère-t-on le timeout de cette API ?"_ ont chuté drastiquement. N'oubliez jamais : **la précision chirurgicale de vos tickets détermine mécaniquement la vélocité de votre sprint.** En automatisant cette rigueur, vous gagnez sur les deux tableaux : du temps pour vous, et de la clarté pour l'équipe technique.
 
 ---
 
 ## 🙋 Foire Aux Questions (FAQ)
 
-- **Q : Comment puis-je importer le résultat de l'IA dans Jira ?**
-  - R : Copiez les données CSV brutes générées par l'IA, collez-les dans un éditeur de texte (comme le Bloc-notes) et enregistrez le fichier sous le nom `jira_tickets.csv`. Ensuite, dans Jira, allez dans le menu [Filtres] ou [Tickets] -> [Importer des tickets depuis un fichier CSV] et uploadez votre fichier.
+- **Q : Concrètement, comment importer ce résultat dans mon board Jira ?**
+  - R : Copiez le bloc de code CSV brut généré par l'IA, collez-le dans un éditeur de texte basique (comme le Bloc-notes sous Windows ou TextEdit sous Mac) et enregistrez-le sous le nom `jira_tickets.csv`. Ensuite, dans Jira, rendez-vous dans le menu **Filtres** (ou **Tickets**) -> **Importer des tickets depuis un fichier CSV** et laissez-vous guider.
 
-- **Q : Que faire si mon PRD est trop long et dépasse la limite de tokens de l'IA ?**
-  - R : Au lieu de soumettre le document entier d'un coup, il est fortement recommandé de le diviser par fonctionnalités clés (ex. : 'Connexion/Inscription', 'Module de paiement') et d'exécuter le prompt plusieurs fois. Vous obtiendrez des tickets beaucoup plus précis et détaillés.
+- **Q : Mon PRD fait 15 pages. L'IA risque-t-elle de tronquer le résultat ?**
+  - R : Oui, injecter un document massif d'un seul coup nuit à la précision de l'IA. La bonne pratique consiste à le scinder par grands modules fonctionnels (par ex. : d'abord "L'Onboarding", puis "Le Checkout"). Exécutez le prompt pour chaque module afin de garantir des tickets d'une précision chirurgicale.
 
-- **Q : Est-il possible d'ajouter automatiquement des étiquettes (Labels) ou des Story Points ?**
-  - R : Absolument ! Dans la section 'Tâche (Task)' du prompt, ajoutez simplement : "Ajoute une colonne 'Labels' avec la valeur 'frontend' ou 'backend'. Ajoute une colonne 'Story Points' et attribue une valeur (1, 2, 3, 5 ou 8) en fonction de la complexité estimée."
+- **Q : Puis-je automatiser l'ajout d'étiquettes (Labels) ou l'estimation des Story Points ?**
+  - R : Absolument ! Il vous suffit d'ajuster la section `Tâche (Task)` du prompt. Ajoutez par exemple : _"Inclus une colonne 'Labels' en assignant 'frontend' ou 'backend'. Ajoute également une colonne 'Story Points' avec une estimation selon la suite de Fibonacci (1, 2, 3, 5, 8)."_
 
 ---
 
 ## 🧬 Décryptage du Prompt (Why it works?)
 
-1.  **Hiérarchie forcée (Hierarchy) :** En imposant la structure standard Agile (Epic -> Story -> Sub-task), on empêche l'IA de fragmenter les tâches de manière chaotique hors du contexte des fonctionnalités.
-2.  **Automatisation des AC :** L'utilisation obligatoire de la syntaxe BDD (Behavior-Driven Development) Given-When-Then garantit des tests clairs et maximise l'utilité pratique du ticket pour les développeurs.
-3.  **Optimisation du format de données :** En exigeant un format CSV brut (et non un tableau Markdown), on privilégie l'expérience utilisateur (UX) en permettant un export et un import immédiats sans manipulation supplémentaire.
+1.  **Le verrouillage hiérarchique (Hierarchy) :** En imposant formellement l'architecture Agile standard (Epic → Story → Sub-task), nous empêchons l'IA de partir en roue libre et de fragmenter les tâches de manière chaotique ou décontextualisée.
+2.  **L'injection native de la syntaxe BDD :** Forcer l'écriture des critères d'acceptation en mode **Given-When-Then** garantit que chaque ticket est testable par essence. C'est ce qui transforme un simple résumé fonctionnel en une véritable spécification technique actionnable.
+3.  **L'obsession du "Zéro friction" :** Exiger un format CSV brut à la place d'un joli (mais inutile) tableau Markdown prouve que l'on privilégie l'efficacité opérationnelle. Le résultat est conçu pour un import Jira immédiat, sans aucune retouche manuelle.
 
 ---
 
@@ -130,6 +129,6 @@ Sub-task,[BE] Création de l'API d'ajout au panier (POST /cart),"**Given** une s
 
 ## 🎯 Conclusion
 
-La véritable compétence d'un Product Manager ne se mesure pas à l'épaisseur de ses documents, mais à **sa capacité à structurer le travail pour faciliter la vie des développeurs**. Confiez les tâches répétitives de conversion de documents à votre assistant IA.
+La véritable valeur d'un Product Manager ne se mesure pas à l'épaisseur de ses spécifications, mais bien à **sa capacité à structurer l'information pour décupler la productivité de ses développeurs**. Il est grand temps d'abandonner le copier-coller et de confier la traduction de vos PRD à l'intelligence artificielle.
 
-Il suffit de lui fournir les spécifications, et votre backlog sera organisé à la perfection. Libérez-vous du stress de la création de tickets et terminez votre journée à l'heure ! 🍷
+Transmettez simplement vos exigences à ce prompt, et regardez votre backlog prendre vie avec une rigueur absolue. Libérez-vous de l'angoisse de la saisie manuelle, accélérez vos rituels Agile, et quittez le bureau à l'heure avec le sentiment du devoir accompli ! 🍷

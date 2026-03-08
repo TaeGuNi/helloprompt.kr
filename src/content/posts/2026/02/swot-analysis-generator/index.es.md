@@ -1,17 +1,17 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Terminar el Análisis FODA en 1 Minuto Sin Lluvia de Ideas\""
+title: "Termina tu Análisis FODA en 1 Minuto Sin Lluvia de Ideas"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatización del Trabajo"
-description: " \"Realiza un análisis FODA en 1 minuto con IA: la base para nuevas ideas de negocio y estrategias de marketing.\""
+description: "Realiza un análisis FODA en 1 minuto con IA: la base para nuevas ideas de negocio y estrategias de marketing."
 tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 ---
 
-# 📝 Completa tu Análisis FODA en 1 Minuto Sin Lluvias de Ideas Agotadoras
+## 📝 Completa tu Análisis FODA en 1 Minuto Sin Lluvias de Ideas Agotadoras
 
-- **🎯 Recomendado para:** Estrategas, Marketers, Emprendedores y Jefes de Proyecto
+- **🎯 Recomendado para:** Estrategas, especialistas en marketing, emprendedores y gestores de proyectos
 - **⏱️ Tiempo requerido:** 2 horas → 1 minuto
 - **🤖 Modelo recomendado:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini Advanced
 
@@ -19,7 +19,7 @@ tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidad:** ⭐⭐⭐⭐☆
 
-> _"¿Llevas dos horas mirando una pizarra en blanco con tu equipo intentando sacar un Análisis FODA decente y objetivo?"_
+> _"¿Llevas dos horas mirando una pizarra en blanco con tu equipo intentando sacar un análisis FODA decente y objetivo?"_
 
 El análisis FODA (Fortalezas, Oportunidades, Debilidades y Amenazas) es el pilar de cualquier estrategia de negocio o plan de marketing. Sin embargo, al sentarnos a redactarlo, solemos caer en el sesgo de confirmación, perdiendo objetividad y desperdiciando horas valiosas en debates circulares. Deja que la IA haga el trabajo pesado de análisis en segundos, para que tú y tu equipo puedan concentrarse en lo que realmente importa: **tomar decisiones estratégicas**.
 
@@ -28,12 +28,12 @@ El análisis FODA (Fortalezas, Oportunidades, Debilidades y Amenazas) es el pila
 ## ⚡️ Resumen en 3 líneas (TL;DR)
 
 1. **Objetividad Instantánea:** Supera el bloqueo mental y los sesgos internos con un análisis externo e imparcial.
-2. **Estrategia Accionable:** No solo obtienes una matriz, sino estrategias cruzadas (SO, WO, ST, WT) listas para aplicar.
+2. **Estrategia Accionable:** No solo obtienes una matriz, sino estrategias cruzadas (FO, DO, FA, DA) listas para aplicar.
 3. **Ahorro Masivo de Tiempo:** Reduce reuniones de 2 horas a un proceso de revisión y ajuste de 5 minutos.
 
 ---
 
-## 🚀 La Solución: "Consultor de Planificación Estratégica AI"
+## 🚀 La Solución: "Consultor de Planificación Estratégica IA"
 
 ### 🥉 Versión Básica (Basic Version)
 
@@ -41,7 +41,6 @@ El análisis FODA (Fortalezas, Oportunidades, Debilidades y Amenazas) es el pila
 
 > **Rol:** Eres un Consultor Estratégico Senior (estilo McKinsey).
 > **Solicitud:** Realiza un análisis FODA exhaustivo para `[Tu Producto/Servicio/Empresa]`. Presenta los resultados en una tabla clara.
-
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -79,7 +78,7 @@ El verdadero valor de este prompt no reside simplemente en llenar los cuatro cua
 
 En la práctica real, muchos equipos se detienen al completar la matriz FODA y la dejan olvidada en un cajón. Al exigirle a la IA que cruce las variables, pasamos instantáneamente de un "diagnóstico estático" a un "plan de acción dinámico".
 
-_Pro-tip:_ Si el resultado te parece demasiado optimista o genérico, pídele a la IA que actúe como un "abogado del diablo" y ataque las Fortalezas que acaba de listar. Esto revelará puntos ciegos increíbles en tu modelo de negocio que tu equipo interno jamás admitiría.
+_Pro-tip:_ Si el resultado te parece demasiado optimista o genérico, pídele a la IA que actúe como un "abogado del diablo" y ataque las **Fortalezas** que acaba de listar. Esto revelará puntos ciegos increíbles en tu modelo de negocio que tu equipo interno jamás admitiría.
 
 ---
 

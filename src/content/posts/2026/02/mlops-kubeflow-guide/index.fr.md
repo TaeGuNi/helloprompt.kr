@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "AI/개발"
-description: "Fini les modèles d'IA qui ne tournent qu'en local. Découvrez le guide ultime pour transformer vos notebooks fragmentés en un pipeline de production automatisé et robuste."
+description: "Fini les modèles d'IA limités au local. Découvrez le guide ultime pour transformer vos notebooks en un pipeline de production automatisé et robuste."
 tags: ["MLOps", "Kubeflow", "머신러닝", "배포", "파이프라인"]
 ---
 
-# 🤖 Déploiement de Modèles de Machine Learning : Le Guide MLOps (Kubeflow) {#kubeflow}
+## 🤖 Déploiement de Modèles de Machine Learning : Le Guide MLOps (Kubeflow) {#kubeflow}
 
 - **🎯 Public Cible :** Data Scientists qui se demandent "Mon modèle est prêt, mais comment le déployer sur un serveur ?", et Ingénieurs DevOps chargés de bâtir l'infrastructure IA.
 - **⏱️ Temps Requis :** 20 minutes (pour assimiler les concepts et concevoir le pipeline).

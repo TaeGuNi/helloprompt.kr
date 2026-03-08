@@ -9,11 +9,11 @@ description: "Prepara una colazione sana in soli 15 minuti con il prompt del Nut
 tags: ["AI", "ChatGPT", "Dawn"]
 ---
 
-# 🍳 Nutrizionista Smart per la Colazione (Smart Breakfast Nutritionist)
+## 🍳 Nutrizionista Smart per la Colazione (Smart Breakfast Nutritionist)
 
 - **🎯 Consigliato per:** Studenti fuori sede, professionisti indaffarati, chiunque sia a dieta
 - **⏱️ Risparmio di tempo:** Da 10 minuti → a 1 minuto
-- **🤖 Modelli consigliati:** Tutti gli AI conversazionali (ChatGPT, Claude, Gemini, ecc.)
+- **🤖 Modelli consigliati:** Tutti i modelli AI conversazionali (ChatGPT, Claude, Gemini, ecc.)
 
 - ⭐ **Difficoltà:** ⭐☆☆☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
@@ -21,7 +21,7 @@ tags: ["AI", "ChatGPT", "Dawn"]
 
 > _"Hai saltato la colazione anche oggi? Trasforma gli avanzi del frigorifero in un pasto mattutino perfettamente bilanciato, in soli 15 minuti."_
 
-Al mattino, quando i minuti sono contati, preparare una colazione sana sembra spesso un'impresa impossibile. Il delivery è costoso, mentre cucinare richiede tempo e lo sforzo mentale di ideare un piatto. Aprire il frigorifero e fissare gli avanzi genera solo frustrazione. Da oggi, ti basta elencare gli ingredienti a disposizione al tuo Nutrizionista AI: in meno di un minuto, otterrai un menù per la colazione ultra-rapido e perfettamente bilanciato dal punto di vista nutrizionale.
+Al mattino, quando i minuti sono contati, preparare una colazione sana sembra spesso un'impresa impossibile. Il delivery è costoso, mentre cucinare richiede tempo e lo sforzo mentale di ideare un piatto. Aprire il frigorifero e fissare gli avanzi genera spesso solo frustrazione. Da oggi, ti basta elencare gli ingredienti a disposizione al tuo Nutrizionista AI: in meno di un minuto otterrai un menù per la colazione ultra-rapido e perfettamente bilanciato dal punto di vista nutrizionale.
 
 ---
 
@@ -41,7 +41,6 @@ Utilizza questa versione quando hai bisogno di idee rapide per strutturare il tu
 
 > **Ruolo:** Sei uno chef creativo.
 > **Compito:** Nel mio frigorifero ho `[2 uova, 1 fetta di pane in cassetta, pomodorini]`. Consigliami 3 menù per la colazione che posso preparare in 15 minuti con questi ingredienti.
-
 
 ### 🥇 Versione Pro
 
@@ -63,7 +62,7 @@ Utilizza questa versione quando desideri un'analisi nutrizionale precisa, la ric
 >
 > **Variabili di input (Variables):**
 >
-> - `[Ingredienti nel frigorifero]`: 2 uova, una manciata di spinaci, 1 fetta di pane in cassetta, 1 fetta di formaggio fuso, 5 pomodorini (Inserisci qui i tuoi ingredienti a disposizione)
+> - `[Ingredienti nel frigorifero]`: 2 uova, una manciata di spinaci, 1 fetta di pane in cassetta, 1 fetta di formaggio fuso, 5 pomodorini (inserisci qui gli ingredienti a tua disposizione)
 > - `[Opzioni aggiuntive]`: Sale, pepe, olio d'oliva, burro, friggitrice ad aria, forno a microonde
 >
 > **Vincoli (Constraints):**
@@ -83,7 +82,7 @@ Utilizza questa versione quando desideri un'analisi nutrizionale precisa, la ric
 
 ## 💡 Il Commento dell'Autore (Insight)
 
-Questo prompt va ben oltre il semplice suggerimento di una ricetta. Imponendo vincoli rigorosi come il "limite di tempo (15 minuti)" e l'"equilibrio nutrizionale", ne massimizza l'utilità nella vita reale. Se segui una dieta specifica, prova ad aggiungere la variabile `[Obiettivo: Menù low-carb e high-fat sotto le 300 kcal]`. In questo modo, non solo risparmierai sulla spesa, ma eliminerai drasticamente la "fatica decisionale" (Decision Fatigue) che ti affligge ogni singola mattina pensando a "Cosa preparo oggi?".
+Questo prompt va ben oltre il semplice suggerimento di una ricetta. Imponendo vincoli rigorosi come il **limite di tempo (15 minuti)** e l'**equilibrio nutrizionale**, ne massimizza l'utilità nella vita reale. Se segui una dieta specifica, prova ad aggiungere la variabile `[Obiettivo: Menù low-carb e high-fat sotto le 300 kcal]`. In questo modo, non solo risparmierai sulla spesa, ma eliminerai drasticamente la **fatica decisionale** (Decision Fatigue) che ti affligge ogni singola mattina pensando a "Cosa preparo oggi?".
 
 ---
 

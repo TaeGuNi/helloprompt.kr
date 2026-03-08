@@ -1,15 +1,15 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Guide de Visite à Pied Historique DIY : Profitez Sans Guide\""
+title: "Guide de Visite à Pied Historique DIY : Profitez Sans Guide"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Voyage & Culture"
-description: "Découvrez la ville à votre rythme, sans visites guidées onéreuses. Créez un parcours historique sur mesure, articulé autour des thèmes qui vous passionnent."
+description: "Créez votre propre visite historique à pied sans guide onéreux. Concevez un parcours sur mesure et immersif autour des thèmes qui vous passionnent."
 tags: ["Visite à Pied", "Autoguidage", "Promenade Historique", "Voyage à Pied"]
 ---
 
-# 📝 Guide de Visite à Pied Historique DIY : Profitez Sans Guide
+## 📝 Guide de Visite à Pied Historique DIY : Profitez Sans Guide
 
 - **🎯 Recommandé pour :** Voyageurs indépendants, passionnés d'histoire, explorateurs urbains
 - **⏱️ Temps requis :** 5 minutes de préparation
@@ -21,19 +21,19 @@ tags: ["Visite à Pied", "Autoguidage", "Promenade Historique", "Voyage à Pied"
 
 > _"Vous détestez courir au pas de charge derrière un guide, mais déambuler sans but vous ennuie tout autant ?"_
 
-Comment s'imprégner de l'âme d'une ville en flânant dans ses ruelles, tout en conservant une liberté totale ? Ce guide vous dévoile comment concevoir un itinéraire pédestre sur mesure, entièrement articulé autour de vos passions (intrigues royales, vestiges des guerres mondiales, bohème artistique, splendeurs de l'architecture gothique, etc.), le tout sans débourser le moindre centime pour un guide professionnel.
+Comment s'imprégner de l'âme d'une ville en flânant dans ses ruelles, tout en conservant une liberté totale ? Ce guide vous dévoile comment concevoir un itinéraire pédestre sur mesure, entièrement articulé autour de vos passions (intrigues royales, vestiges des deux guerres mondiales, bohème artistique, splendeurs de l'architecture gothique...), le tout sans débourser le moindre centime pour un guide professionnel.
 
 ---
 
 ## ⚡️ 3 points clés (TL;DR)
 
-1. **Parcours narratif sur mesure :** Élaborez un itinéraire ciblé sur une thématique précise (ex. : Révolution, Littérature, Mystères).
-2. **Optimisation du temps et de l'effort :** Obtenez un tracé pédestre cohérent, ponctué de haltes stratégiques (cafés historiques, parcs).
+1. **Parcours narratif sur mesure :** Élaborez un itinéraire ciblé sur une thématique précise (ex. : Révolution, littérature, mystères locaux).
+2. **Optimisation du temps et de l'effort :** Obtenez un tracé pédestre cohérent, ponctué de haltes stratégiques (cafés historiques, parcs pittoresques).
 3. **Audioguide personnalisé :** Générez des scripts immersifs et captivants pour chaque étape de votre exploration.
 
 ---
 
-## 🚀 La solution : "Planificateur de Visite Autoguidée"
+## 🚀 La solution : Planificateur de Visite Autoguidée
 
 ### 🥉 Version De Base (Basic Version)
 
@@ -44,14 +44,14 @@ Idéale pour esquisser rapidement un itinéraire sans s'encombrer de détails su
 
 ### 🥇 Version Pro (Expert Version)
 
-À privilégier pour garantir une expérience profondément immersive, exhaustive et riche en détails.
+À privilégier pour garantir une expérience profondément immersive, exhaustive et riche en détails historiques.
 
-> **Rôle (Role) :** Tu es un « Planificateur de Visites Narratives » d'élite et un historien local passionné qui connaît tous les secrets et ruelles de `[Nom de la Ville]`.
+> **Rôle (Role) :** Tu es un « Planificateur de Visites Narratives » d'élite et un historien local passionné qui connaît tous les secrets et les ruelles de `[Nom de la Ville]`.
 >
 > **Contexte (Context) :**
 >
 > - Objectif : Je souhaite réaliser une visite à pied historique et immersive à `[Nom de la Ville]` sur une demi-journée.
-> - Intérêt principal : Mon thème de prédilection est `[Intérêt : ex. : Architecture Médiévale / Seconde Guerre Mondiale / Sur les traces d'écrivains célèbres]`.
+> - Intérêt principal : Mon thème de prédilection est `[Votre Centre d'Intérêt : ex. Architecture Médiévale / Seconde Guerre Mondiale / Sur les traces d'écrivains célèbres]`.
 >
 > **Tâche (Task) :**
 >
@@ -69,9 +69,9 @@ Idéale pour esquisser rapidement un itinéraire sans s'encombrer de détails su
 
 ## 💡 Le mot de l'auteur (Insight)
 
-Le véritable tour de force de ce prompt réside dans sa capacité à métamorphoser une banale promenade en une authentique chasse au trésor historique. En voyage, il est fréquent de perdre un temps précieux à tenter de relier des points d'intérêt éparpillés, sans la moindre cohérence géographique. En imposant à l'IA des contraintes strictes (moins de 3 km, 3 heures maximum, une halte stratégique), celle-ci se mue en un brillant logisticien.
+Le véritable tour de force de ce prompt réside dans sa capacité à métamorphoser une banale promenade en une authentique chasse au trésor historique. En voyage, il est fréquent de perdre un temps précieux à tenter de relier des points d'intérêt éparpillés, sans la moindre cohérence géographique. En imposant à l'IA des contraintes strictes (**moins de 3 km**, **3 heures maximum**, **une halte stratégique**), celle-ci se mue en un brillant logisticien.
 
-_Astuce de pro :_ Je vous recommande vivement d'exploiter la fonction de synthèse vocale (Text-to-Speech) de l'application mobile ChatGPT ou de votre assistant préféré pour écouter les scripts générés tout en marchant. Félicitations, vous venez de concevoir votre propre audioguide interactif et gratuit !
+_Astuce de pro :_ Je vous recommande vivement d'exploiter la fonction de synthèse vocale (Text-to-Speech) de l'application mobile ChatGPT ou de votre assistant préféré pour écouter les scripts générés tout en marchant. Félicitations, vous venez de concevoir votre propre **audioguide interactif et gratuit** !
 
 ---
 

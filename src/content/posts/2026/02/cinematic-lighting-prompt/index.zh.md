@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: "揭秘让平淡图像瞬间化身好莱坞大片场景的“电影级布光 (Cinematic Lighting)”核心提示词。"
+description: "揭秘让平淡图像瞬间化身好莱坞大片场景的“电影级布光 (Cinematic Lighting)”核心提示词，提升画面质感与视觉冲击力。"
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Lighting", "Cinematic"]
 ---
 
-# 📝 打造电影级视觉：Cinematic Lighting 提示词
+## 📝 打造电影级视觉：Cinematic Lighting 提示词
 
 - **🎯 推荐对象:** 设计师、营销人员、AI 绘画创作者及所有渴望提升画面质感的人士
 - **⏱️ 所需时间:** 5 分钟（一键复制，即刻见效）
@@ -21,7 +21,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Lighting", "Cinematic"]
 
 > _“为什么我生成的图片总是显得扁平、毫无层次？到底怎样才能调教出好莱坞大片般的深邃与张力？”_
 
-在 AI 图像生成中，决定画面质感与成败的核心要素往往是“光影”。与其堆砌诸如“好看的照片”或“高清画质”等空洞词汇，不如精准运用专业的布光术语，这能让最终成片产生脱胎换骨的质变。今天，我们将为您深度拆解 **Cinematic Lighting（电影级布光）** 提示词公式，助您的画面瞬间跃升至好莱坞大片级的视觉水准。
+在 AI 图像生成领域，决定画面成败的核心往往是“光影”。与其堆砌“好看的照片”或“高清画质”等空洞的修饰词，不如精准调用专业的布光术语，这能让最终成片发生脱胎换骨的质变。今天，我们将为您深度拆解 **Cinematic Lighting（电影级布光）** 提示词公式，助您的画面瞬间跃升至好莱坞大片级的视觉水准。
 
 ---
 

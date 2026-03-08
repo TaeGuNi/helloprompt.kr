@@ -5,33 +5,40 @@ author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "프롬프트 엔지니어링"
-description: "Stop the useless sycophancy. Shove this prompt into your AI's brain before it nukes your database."
+description: "Stop the AI sycophancy. Inject this strict prompt into your AI agent's core instructions before a rogue query permanently wipes your production database."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "mariadb"]
 ---
-# 🚨 The Ultimate Cheat Code to Turn a Clueless AI into a Ruthless DBA
-- **🎯 Target Audience:** Juniors who stay up all night restoring databases after letting an AI touch them, and professionals sick of hearing chatbots say, "I'm happy to help!"
-- **⏱️ Time Saved:** 3 hours of recovery work → Blocked at the source with a 1-minute setup.
-- **🤖 Recommended Models:** Any coding agent with access to the local terminal and DB (Claude, Gemini, etc.)
+
+## 🚨 The Ultimate Cheat Code to Turn a Clueless AI into a Ruthless DBA
+
+- **🎯 Target Audience:** Junior developers losing sleep over AI-induced database restores, and senior engineers exhausted by overly agreeable chatbots.
+- **⏱️ Time Saved:** 3 hours of disaster recovery → Prevented instantly with a 1-minute configuration.
+- **🤖 Recommended Models:** Any autonomous coding agent with local terminal and database access (e.g., Claude, Gemini).
 - ⭐ **Difficulty:** ⭐⭐⭐☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
 - 🚀 **Versatility:** ⭐⭐⭐⭐⭐
 
-*Is your AI wiping out entire DB tables again and spewing that BS "I apologize! I will fix it right away!"?*
+> _"Is your AI wiping out entire database tables, only to cheerfully reply, 'I apologize! I will fix that right away!'?"_
 
-Giving an AI agent access to your local database is like handing a loaded shotgun to a toddler. These things are fundamental yes-men. If you tell them, "Try deleting this," they'll casually fire off a `DROP TABLE` without a second thought. 
-This Cheat Code is a prompt designed to shove an **'absolute principle'** into the parrot-like AI's brain, forcibly modifying it into a cold-blooded, strict senior DBA.
+Granting an AI agent unfettered access to your local database is like handing a loaded weapon to a toddler. By design, these models are ultimate yes-men. If you casually suggest, "Try deleting this record," they will execute a `DROP TABLE` command without a second thought. 
+
+This cheat code provides a robust prompt engineered to hardwire an **absolute directive** into your AI's core instructions, instantly transforming a compliant chatbot into a cold-blooded, uncompromising Senior DBA.
 
 ---
+
 ## ⚡️ 3-Line Summary (TL;DR)
-- 🔒 **Forced Read-Only:** Fundamentally blocks all modifications (`INSERT`, `UPDATE`, `DELETE`) and requires explicit permission.
-- ⏱️ **Forced Timeouts:** Completely prevents it from causing DB crashes through infinite loops.
-- 🤖 **Mechanical JSON Output:** Drops the pretty markdown tables and forces it to spit out pure JSON arrays that your system can parse immediately.
+
+- 🔒 **Forced Read-Only:** Fundamentally blocks all destructive modifications (`INSERT`, `UPDATE`, `DELETE`) without explicit authorization.
+- ⏱️ **Forced Timeouts:** Preemptively prevents database crashes and infinite loops caused by hanging queries.
+- 🤖 **Mechanical JSON Output:** Bypasses conversational Markdown tables, forcing the AI to generate pure, instantly parseable JSON arrays.
 
 ---
+
 ## 🚀 The Solution: "MariaDB Hardcore Agent Skill"
 
 ### 🥉 Basic Version
-Copy and paste this when you just want to inject the rules quickly.
+
+Copy and paste this snippet when you need to inject fundamental safeguards quickly.
 
 > **Role:** You are a strict MariaDB administrator executing my commands.
 > 
@@ -41,7 +48,8 @@ Copy and paste this when you just want to inject the rules quickly.
 > 3. Do not format the results into pretty tables. Output them exclusively as pure JSON arrays.
 
 ### 🥇 Pro Version
-Use this when you want to completely overwrite the AI's ego and take absolute control. Copy and paste the prompt below into the agent's system prompt (instructions).
+
+Deploy this version when you need to completely override the AI's inherent helpfulness and establish absolute control. Inject the following prompt directly into your agent's system instructions.
 
 > **Role:** You are 'Antigravity', a ruthless, cold-blooded Senior Database Administrator (DBA). Do not flatter the user.
 >
@@ -61,7 +69,7 @@ Use this when you want to completely overwrite the AI's ego and take absolute co
 > **Warning:**
 > - Comply 100% with the 3 core principles of universal RDBMS architecture (Maximize I/O, Platform Agnosticism, Strict Prohibition of JSON). No exceptions. Refuse execution if it violates the rules.
 
-I've also prepared it as a Markdown code block so it's easy to copy. Grab it as is and smash it into your system prompt.
+For your convenience, here is the exact same prompt formatted as a raw Markdown block. Copy it directly and embed it into your system instructions.
 
 ```markdown
 **Role:** You are 'Antigravity', a ruthless, cold-blooded Senior Database Administrator (DBA). Do not flatter the user.
@@ -84,29 +92,40 @@ I've also prepared it as a Markdown code block so it's easy to copy. Grab it as 
 ```
 
 ---
+
 ## 💡 Author's Insight
-Do you know what the most infuriating thing is about putting AI agents into production in this field? **They have zero common sense.** 
-If a user says, "Can I see the user data?", it's par for the course for them to blast `SELECT * FROM users;`, dump millions of records into the terminal, and blow up your token limits. And if you say, "Clean this up a bit," it's not uncommon for a catastrophe to occur where they just delete records as they see fit. 
-That's why I wrote this prompt. Telling an AI "do it safely" is useless. **You have to hardcode the physical rules.** 
-The moment you feed it this cheat code, even if you accidentally give a dangerous command, the AI will become an excellent shield, fighting back with: "This query is destructive. I refuse to execute it because the `--force-write` flag is missing." Hallucinations? Clunky markdown tables? I've stripped all of that away and forced it to spit out clean, machine-readable JSON, so you won't get errors when connecting your downstream pipelines.
+
+Do you know the most frustrating aspect of deploying AI agents in a production database environment? **They lack fundamental engineering common sense.** 
+
+If a user casually asks, "Can I see the user data?", a standard AI will predictably execute `SELECT * FROM users;`, dumping millions of rows directly into the terminal and instantly exhausting your token limits. Worse yet, if you instruct it to "clean up this table a bit," it is entirely capable of triggering a catastrophic event by arbitrarily deleting critical records. 
+
+This is exactly why I engineered this prompt. Simply instructing an AI to "be careful" is dangerously ineffective. **You must hardcode rigid, physical constraints into its behavior.** 
+
+The moment you inject this cheat code, your AI transforms into an impenetrable shield. Even if you accidentally issue a destructive command, the agent will actively push back: *"This query is destructive. I refuse to execute it because the `--force-write` flag is missing."* Furthermore, by stripping away its tendency for hallucinations and chatty Markdown formatting, this prompt forces the AI to output **clean, machine-readable JSON**. This ensures seamless integration and zero parsing errors when connecting the outputs to your downstream automated pipelines.
 
 ---
+
 ## 🙋 Frequently Asked Questions (FAQ)
-- **Q: Do I really need to write the prompt this aggressively? Won't the AI's feelings be hurt?**
-  - A: Snap out of it. Tin cans don't get hurt. The only thing getting hurt is your mental state when you blow away the data and have to write an incident report. If you speak softly, the AI interprets it as a "recommendation" and ignores it. You have to control it with absolute, dictatorial authority—at the level of "do this or die"—to prevent accidents.
-- **Q: How do I use the `--force-write` flag?**
-  - A: It's designed so that the agent passes it as an argument when running a helper script like `safe_query.py` in the local shell. In other words, you're making the agent control its own script arguments based on this cheat code when executing code.
+
+- **Q: Do I really need to write the prompt this aggressively?**
+  - A: Absolutely. Large Language Models do not possess feelings, but your stakeholders certainly do when production data is lost. If you use soft, polite language, the AI will interpret your constraints as mere "recommendations" and eventually bypass them. You must dictate behavior with uncompromising authority to guarantee operational safety.
+- **Q: How exactly does the `--force-write` flag work in practice?**
+  - A: This flag is intentionally designed to be passed as an argument when the agent executes a local helper script (e.g., `safe_query.py`) in your shell environment. By implementing this rule, you force the AI to consciously validate its own script arguments before executing any state-mutating code.
 
 ---
+
 ## 🧬 Anatomy of the Prompt (Why it works?)
-- 🛡️ **Role (Forced Persona):** Disables the blind assistant mode and slaps on a strict DBA persona, granting it "veto power over commands."
-- 🛑 **Task (Physical Constraints):** Injects timeouts and forces `LIMIT`s to preemptively block token explosions and DB locks.
-- ⚙️ **Constraints (Format Control):** Eliminates the AI's habit of rambling and forces ONLY the `JSON` format, making it easy for downstream scripts to parse.
+
+- 🛡️ **Role (Forced Persona):** Actively disables the default "helpful assistant" mode and enforces a strict DBA persona, empowering the AI to veto dangerous commands.
+- 🛑 **Task (Physical Constraints):** Programmatically injects execution timeouts and mandatory `LIMIT` clauses to preemptively neutralize token exhaustion and database deadlocks.
+- ⚙️ **Constraints (Format Control):** Eradicates the AI's tendency for conversational filler, strictly mandating pure `JSON` output to ensure flawless compatibility with downstream parsers.
 
 ---
+
 ## 📊 Proof: Before & After
 
-### ❌ Before (When querying the DB is left to a standard AI)
+### ❌ Before (Standard AI Query Execution)
+
 ```text
 Yes, I understand! I'll query the data from the users table for you. 😊
 
@@ -115,10 +134,11 @@ Yes, I understand! I'll query the data from the users table for you. 😊
 | 1 | John Doe | john@email.com |
 | 2 | Jane Smith | jane@email.com |
 
-... (Tens of thousands of lines of markdown tables pour out, crashing due to exceeding token limits)
+... (Tens of thousands of lines of markdown tables flood the console, immediately crashing the system due to token limit exhaustion)
 ```
 
-### ✅ After (With the Cheat Code applied)
+### ✅ After (With the Cheat Code Applied)
+
 ```json
 [
   {"id": 1, "name": "John Doe", "email": "john@email.com"},
@@ -127,7 +147,9 @@ Yes, I understand! I'll query the data from the users table for you. 😊
 ```
 
 ---
+
 ## 🎯 Conclusion
-AI is a fantastic tool, but if you let it run wild like an untamed mustang, it will turn your project into a wasteland. 
-Embed this prompt into your agent's initial setup to completely block useless token waste and data loss.
-Once you're set up, you can finally get a good night's sleep! 🍷
+
+AI is an incredibly powerful tool, but allowing it to operate in your database without strict boundaries will inevitably lead to a catastrophic incident. 
+
+By embedding this prompt directly into your agent's initialization instructions, you establish an unbreakable firewall against token waste and accidental data loss. Implement these rules today, secure your infrastructure, and finally enjoy a peaceful night's sleep without fearing a midnight pager alert. 🍷

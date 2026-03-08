@@ -1,17 +1,17 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Lista Domande Colloquio, l'IA Sceglie Per Te\""
+title: "Lista Domande Colloquio, l'IA Sceglie Per Te"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automazione Lavoro"
-description: " \"Generatore di domande da colloquio mirate per valutare in profondità le reali competenze dei candidati.\""
+description: "Generatore di domande da colloquio mirate per valutare in profondità le reali competenze dei candidati."
 tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 ---
 
-# 📝 Lista Domande Colloquio, l'IA Sceglie Per Te
+## 📝 Lista Domande Colloquio, l'IA Sceglie Per Te
 
-- **🎯 Consigliato per:** Recruiter, Manager HR, Team Leader, e chiunque debba condurre colloqui.
+- **🎯 Consigliato per:** Recruiter, HR Manager, Team Leader e chiunque debba condurre colloqui.
 - **⏱️ Tempo richiesto:** 30 minuti di preparazione → Ridotto a 2 minuti.
 - **🤖 Modello consigliato:** Tutti i modelli di IA conversazionale (ChatGPT, Claude, Gemini).
 
@@ -21,7 +21,7 @@ tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 
 > _"Ti ritrovi ancora a fare la classica domanda 'Qual è il tuo più grande difetto?', ottenendo sempre le stesse risposte preimpostate?"_
 
-Condurre un colloquio senza una preparazione mirata porta inevitabilmente a fare domande generiche e superficiali. Per scoprire la vera stoffa e l'attitudine di un candidato, hai bisogno di un set di domande strutturate, basate sulle sue reali esperienze lavorative. Scopriamo come l'IA può trasformarti in un selezionatore infallibile in pochi secondi.
+Condurre un colloquio senza una preparazione mirata porta inevitabilmente a porre domande generiche e superficiali. Per scoprire la vera stoffa e l'attitudine di un candidato, hai bisogno di un set di domande strutturate, basate sulle sue reali esperienze lavorative. Scopriamo come l'IA può trasformarti in un selezionatore infallibile in pochi secondi.
 
 ---
 
@@ -39,9 +39,9 @@ Condurre un colloquio senza una preparazione mirata porta inevitabilmente a fare
 
 Utilizza questo prompt quando hai poco tempo e ti servono subito spunti interessanti per il colloquio.
 
-> **Ruolo:** Sei un Recruiter Senior per il dipartimento HR di una multinazionale.
-> **Richiesta:** Crea una lista di 5 domande da colloquio acute e non convenzionali per valutare le reali competenze di un candidato per la posizione di `[Inserisci Ruolo]`.
-
+> **Ruolo (Role):** Sei un Recruiter Senior per il dipartimento HR di una multinazionale.
+>
+> **Richiesta (Task):** Crea una lista di 5 domande da colloquio acute e non convenzionali per valutare le reali competenze di un candidato per la posizione di `[Inserisci Ruolo]`.
 
 ### 🥇 Versione Pro (Avanzata)
 
@@ -72,7 +72,7 @@ Utilizza questo prompt per un'analisi dettagliata e per strutturare un colloquio
 ## 💡 Commento dell'Autore (Insight)
 
 Questo prompt è un vero e proprio "game changer" per chiunque si occupi di selezione del personale. Spesso, presi dalle urgenze lavorative, si arriva ai colloqui avendo letto il CV solo 5 minuti prima. Inserendo un breve riassunto del curriculum nel prompt, l'IA non solo ti fornisce le domande giuste, ma ti "allena" su cosa ascoltare.
-_Il vero valore aggiunto è la "Guida alla Valutazione"_. Avere subito chiari i "Red Flags" (campanelli d'allarme) ti permette di non farti ingannare da candidati con un'ottima parlantina ma scarse competenze pratiche. È come avere un Recruiter Senior seduto di fianco a te durante il colloquio.
+**Il vero valore aggiunto è la "Guida alla Valutazione"**. Avere subito chiari i **"Red Flags"** (campanelli d'allarme) ti permette di non farti ingannare da candidati con un'ottima parlantina ma scarse competenze pratiche. È come avere un **Recruiter Senior** seduto di fianco a te durante il colloquio.
 
 ---
 

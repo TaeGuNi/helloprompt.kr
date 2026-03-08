@@ -5,12 +5,13 @@ author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "업무 자동화"
-description: "A hardcore prompt cheat code that bypasses useless AI flattery and forces the ultra-fast Python package manager (uv) for crushing, millisecond-level performance."
+description: "A hardcore prompt cheat code that bypasses AI flattery and forces the ultra-fast Python package manager (uv) for crushing, millisecond-level performance."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "uv-python"]
 ---
-# 💀 Spartan Cheat Code to Awaken AI: Forcing the 'uv' Python Environment
 
-- 🎯 **Target Audience:** Senior developers and hardcore engineers sick of their AI's sluggish coding speed
+## 💀 Spartan Cheat Code to Awaken AI: Forcing the 'uv' Python Environment
+
+- 🎯 **Target Audience:** Senior developers and hardcore engineers sick of their AI's sluggish coding speeds
 - ⏱️ **Time Required:** 10 minutes → Cut down to 1 second
 - 🤖 **Recommended Models:** All coding agents (Claude 3.5 Sonnet, Gemini Advanced, Cursor, etc.)
 - ⭐ **Difficulty:** ⭐⭐⭐☆☆
@@ -19,7 +20,7 @@ tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "uv-python"]
 
 _"Are you still watching your AI waste an eternity running `pip install`? Your agent is drowning in an I/O bottleneck."_
 
-This guide introduces a 'Spartan Cheat Code' designed to transform your AI agent into an uncompromising, high-performance senior developer. I engineered this because I was sick of watching AI assistants spout useless flattery like "Yes, I understand!" while actively choking on archaic relics like `pip` and `venv`. We are showing zero mercy. By forcing the AI to exclusively execute `uv`—the blazing-fast, Rust-based package manager—you will accelerate your terminal response times into millisecond overdrive.
+This guide introduces a "Spartan Cheat Code" designed to transform your AI agent into an uncompromising, high-performance senior developer. I engineered this because I was sick of watching AI assistants spew useless pleasantries like "Yes, I understand!" while actively choking on archaic relics like `pip` and `venv`. We are showing zero mercy. By forcing the AI to exclusively execute `uv`—the blazing-fast, Rust-based package manager—you will accelerate your terminal response times into millisecond overdrive.
 
 ---
 
@@ -35,15 +36,15 @@ This guide introduces a 'Spartan Cheat Code' designed to transform your AI agent
 
 ### 🥉 Basic Version
 
-Paste this prompt when you need to execute a Python script instantly.
+Paste this prompt whenever you need to execute a Python script instantly.
 
 > **Role:** You are an elite Python developer who prioritizes extreme performance.
 > **Request:** When installing Python packages or configuring environments, absolutely NEVER use `pip` or `venv`. You must unconditionally rely on `uv run` and `uv pip`. Do not waste time on slow dependency resolution.
 
 ### 🥇 Pro Version (Expert)
 
-This is the hardcore cheat code designed to be embedded directly into your AI agent's Custom Instructions or System Prompt. 
-Copy the markdown code block below exactly as it appears and feed it to your AI. This is a tightly controlled, Spartan-grade directive.
+This hardcore cheat code is designed to be embedded directly into your AI agent's Custom Instructions or System Prompt. 
+Copy the Markdown code block below exactly as it appears and feed it to your AI. This is a tightly controlled, Spartan-grade directive.
 
 ```markdown
 # Role

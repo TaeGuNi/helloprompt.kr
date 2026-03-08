@@ -9,9 +9,9 @@ description: "¡La guía definitiva de Midjourney v7! Descubre el meta-prompt se
 tags: ["Midjourney", "이미지 생성", "디자인", "프롬프트"]
 ---
 
-# 📝 Olvídate de la cámara: La guía definitiva para dominar el hiperrealismo en Midjourney v7
+## 📝 Olvídate de la cámara: La guía definitiva para dominar el hiperrealismo en Midjourney v7
 
-- **🎯 Recomendado para:** Diseñadores, creadores de contenido y directores de arte que buscan reducir a cero sus costos de producción fotográfica.
+- **🎯 Recomendado para:** Diseñadores, creadores de contenido y directores de arte que buscan reducir a cero sus costes de producción fotográfica.
 - **⏱️ Tiempo requerido:** 5 minutos → 1 minuto (solo copiar y pegar).
 - **🤖 Modelo recomendado:** ChatGPT-4o (para el *prompt*) y Midjourney v7.
 
@@ -21,17 +21,17 @@ tags: ["Midjourney", "이미지 생성", "디자인", "프롬프트"]
 
 > _"¿Me creerías si te dijera que puedes ahorrarte miles de dólares en alquiler de estudios, modelos profesionales y equipos de iluminación con una sola línea de texto?"_
 
-Con la llegada de Midjourney v7, la era de las imágenes con ese inconfundible "toque de plástico de IA" ha llegado a su fin. Hemos entrado de lleno en el territorio del fotorrealismo absoluto (*Photorealism*), alcanzando un nivel de detalle tan asombroso que incluso a los fotógrafos más experimentados les cuesta distinguir la realidad de la generación artificial. Sin embargo, para exprimir al máximo el potente motor de renderizado de esta nueva versión, tus *prompts* también deben evolucionar y alcanzar un nivel de sofisticación sin precedentes.
+Con la llegada de Midjourney v7, la era de las imágenes con el inconfundible "toque de plástico de la IA" ha llegado a su fin. Hemos entrado de lleno en el territorio del fotorrealismo absoluto (*Photorealism*), alcanzando un nivel de detalle tan asombroso que incluso a los fotógrafos más experimentados les cuesta distinguir la realidad de una imagen generada artificialmente. Sin embargo, para exprimir al máximo el potente motor de renderizado de esta nueva versión, tus *prompts* también deben evolucionar hacia un nivel de sofisticación sin precedentes.
 
-El *prompt* que te revelaré hoy no es para que lo introduzcas directamente en Midjourney. **Se trata de un "*meta-prompt*" estratégico, diseñado para transformar a ChatGPT en un director de fotografía comercial con 20 años de experiencia, cuya única misión es redactar automáticamente el *prompt* perfecto en inglés para Midjourney v7.**
+El *prompt* que te revelaré hoy no es para que lo introduzcas directamente en Midjourney. **Se trata de un "*meta-prompt*" estratégico, diseñado para transformar a ChatGPT en un director de fotografía comercial con 20 años de experiencia, cuya única misión será redactar automáticamente el *prompt* perfecto en inglés para Midjourney v7.**
 
 ---
 
 ## ⚡️ Resumen en 3 líneas (TL;DR)
 
-1. Midjourney v7 ha perfeccionado drásticamente la dispersión de la luz (*Lighting*) y la textura de la piel (*Texture*) para lograr un fotorrealismo innegable.
-2. Si buscas "fotografías reales" y no simples "imágenes bonitas", es indispensable especificar el tipo de lente, la película fotográfica y el esquema de iluminación.
-3. No necesitas dominar la jerga técnica. Simplemente copia y pega este *meta-prompt* en ChatGPT para obtener configuraciones de nivel experto al instante.
+1. Midjourney v7 ha perfeccionado drásticamente la dispersión de la luz (*Lighting*) y la textura de la piel (*Texture*) logrando un fotorrealismo innegable.
+2. Si buscas "fotografías reales" en lugar de simples "imágenes bonitas", es indispensable especificar el tipo de lente, la película fotográfica y el esquema de iluminación.
+3. No necesitas dominar la jerga técnica. Solo copia y pega este *meta-prompt* en ChatGPT para obtener configuraciones fotográficas de nivel experto al instante.
 
 ---
 
@@ -48,13 +48,13 @@ Copia este texto y pégalo directamente en **ChatGPT (o Claude)**. ¡No lo intro
 
 ### 🥇 Pro Version (Versión Experta)
 
-Úsala cuando busques calidad de estudio publicitario de alta gama, capaz de capturar desde la pelusa facial y los poros hasta las partículas de polvo suspendidas en el aire.
+Úsala cuando busques una calidad de estudio publicitario de alta gama, capaz de capturar desde la pelusa facial y los poros hasta las partículas de polvo suspendidas en el aire.
 
 > **Rol (Role):** Eres un director de fotografía comercial de talla mundial con 20 años de trayectoria y un experto **"Ingeniero de Prompts de Midjourney v7"** especializado en renderizado hiperrealista.
 >
 > **Contexto (Context):**
 >
-> - Necesito una fotografía hiperrealista de ultra alta resolución que represente `[describe el sujeto y la atmósfera; ej. una mujer coreana de 20 años tomando un café helado en una cafetería de diseño minimalista]`.
+> - Necesito una fotografía hiperrealista de ultra alta resolución que represente `[describe el sujeto y la atmósfera; ej. una mujer europea de 20 años tomando un café helado en una cafetería de diseño minimalista]`.
 > - Esta imagen será la portada de un *lookbook* de alta costura o la imagen principal de una campaña publicitaria de lujo.
 >
 > **Tarea (Task):**
@@ -81,9 +81,9 @@ Copia este texto y pégalo directamente en **ChatGPT (o Claude)**. ¡No lo intro
 
 ## 💡 Comentario del Autor (Insight)
 
-El verdadero secreto para desbloquear el hiperrealismo absoluto en Midjourney v7 reside en dominar dos variables críticas: la **"Iluminación (*Lighting*)"** y la **"Distancia focal (*Lens focal length*)"**. Si cometes el error de pedir simplemente "beautiful lighting" (iluminación hermosa), la IA te devolverá por defecto esa típica piel de maniquí, plana y sin vida.
+El verdadero secreto para desbloquear el hiperrealismo absoluto en Midjourney v7 reside en dominar dos variables críticas: la **"Iluminación (*Lighting*)"** y la **"Distancia focal (*Lens focal length*)"**. Si cometes el error de pedir simplemente "beautiful lighting" (iluminación hermosa), la IA te entregará por defecto esa típica piel de maniquí, plana y sin vida.
 
-En su lugar, debes esculpir la luz con precisión quirúrgica utilizando términos como "Rembrandt lighting" (iluminación de Rembrandt) o "Window blind shadows" (sombras proyectadas por persianas). Además, al incorporar especificaciones de teleobjetivos luminosos como `85mm f/1.2` combinados con una profundidad de campo reducida (*Shallow depth of field*), lograrás que el fondo se desenfoque con un *bokeh* maravillosamente orgánico, aislando de forma dramática al sujeto y capturando la mirada del espectador. ¿Sientes que la terminología técnica te supera? No te preocupes. Al utilizar la versión Pro, delegas en ChatGPT la enorme responsabilidad de elegir el arsenal fotográfico perfecto para tu visión.
+En su lugar, debes esculpir la luz con precisión quirúrgica utilizando términos como "Rembrandt lighting" (iluminación estilo Rembrandt) o "Window blind shadows" (sombras proyectadas por persianas). Además, al incorporar especificaciones de teleobjetivos luminosos como `85mm f/1.2` combinados con una profundidad de campo reducida (*Shallow depth of field*), lograrás que el fondo se desenfoque con un *bokeh* maravillosamente orgánico, aislando al sujeto de forma dramática y capturando la mirada del espectador. ¿Sientes que la terminología técnica te supera? No te preocupes. Al utilizar la versión Pro, estarás delegando en ChatGPT la enorme responsabilidad de elegir el arsenal fotográfico perfecto para tu visión.
 
 ---
 
@@ -134,7 +134,7 @@ Cinematic shot of a Korean woman in her 20s sipping an iced latte, natural sunli
 
 ## 🎯 Conclusión
 
-Ya no necesitas alquilar estudios con precios desorbitados ni cargar con pesados equipos de iluminación para "imprimir" (*Print*) en la pantalla las imágenes exactas que tienes en tu mente. Hemos entrado en una nueva era donde tu dominio sobre una simple línea de texto se convierte en tu lente más nítida y tu luz más perfecta.
+Ya no necesitas alquilar estudios con precios desorbitados ni cargar con pesados equipos de iluminación para materializar en la pantalla las imágenes exactas que tienes en tu mente. Hemos entrado en una nueva era donde tu dominio sobre una simple línea de texto se convierte en tu lente más nítida y en tu esquema de luz más perfecto.
 
 Copia este *meta-prompt* ahora mismo y abre de par en par las puertas de tu propio estudio fotográfico impulsado por IA.
 ¡Ahora, cierra el portátil y disfruta de tu tiempo libre! 🍷

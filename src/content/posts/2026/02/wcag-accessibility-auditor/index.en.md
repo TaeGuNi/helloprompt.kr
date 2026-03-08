@@ -5,13 +5,13 @@ author: "Jay"
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 category: "프론트엔드"
-description: " \"Is the code you write accessible to everyone? This prompt audits your code to ensure strict compliance with WCAG 2.2 accessibility standards.\""
+description: "Is your code accessible to everyone? This prompt audits your markup to ensure strict compliance with WCAG 2.2 accessibility standards."
 tags: ["Accessibility", "HTML", "WCAG"]
 ---
 
-# ♿️ Is Your Code Kind to Everyone? The Automated WCAG Accessibility Auditor
+## ♿️ Is Your Code Kind to Everyone? The Automated WCAG Accessibility Auditor
 
-- **🎯 Recommended for:** Developers in public/enterprise projects, job seekers polishing their portfolios, and senior frontend engineers.
+- **🎯 Recommended for:** Developers on public or enterprise projects, job seekers polishing their portfolios, and senior frontend engineers.
 - **⏱️ Time Saved:** 2 hours of manual checklist verification → 1 minute of automated AI auditing.
 - **🤖 Recommended AI:** Claude 3.5 Sonnet (exceptional at code analysis), GPT-4o.
 
@@ -21,13 +21,13 @@ tags: ["Accessibility", "HTML", "WCAG"]
 
 > _"You can build the most dazzling animations, but if someone cannot even press the login button, your code has failed."_
 
-Web accessibility (A11y) is no longer just a "nice-to-have" courtesy; it is the fundamental baseline of a service and increasingly a strict legal requirement. However, memorizing and perfectly applying the massive, complex WCAG (Web Content Accessibility Guidelines) 2.2 during every coding session is nearly impossible. This prompt scans your markup and component code to identify critical accessibility flaws that occur in screen readers and keyboard navigation, refactoring them into flawless semantic code in just 60 seconds.
+Web accessibility (A11y) is no longer just a "nice-to-have" courtesy; it forms the fundamental baseline of a modern service and is increasingly becoming a strict legal requirement. However, memorizing and perfectly applying the massive, complex WCAG (Web Content Accessibility Guidelines) 2.2 during every coding session is nearly impossible. This prompt scans your markup and component code to identify critical accessibility flaws that trap screen readers and keyboard navigation, refactoring them into flawless, semantic HTML in just 60 seconds.
 
 ---
 
 ## ⚡️ TL;DR
 
-1. **Semantic Markup Conversion:** Automatically transforms a messy soup of `<div>` tags into meaningful HTML5 semantic tags.
+1. **Semantic Markup Conversion:** Automatically transforms a messy soup of `<div>` tags into meaningful HTML5 semantic elements.
 2. **Strict WCAG 2.2 Compliance:** Thoroughly verifies complex accessibility standards, including color contrast, focus management, and WAI-ARIA misuse.
 3. **Actionable Testing Guide:** Provides specific, hands-on testing scenarios using only a screen reader (VoiceOver, NVDA) and a keyboard (Tab key).
 
@@ -37,15 +37,16 @@ Web accessibility (A11y) is no longer just a "nice-to-have" courtesy; it is the 
 
 ### 🥉 Basic Version
 
-Use this for a quick check when you suspect an accessibility issue in a specific button or form element.
+Use this for a quick check when you suspect an accessibility issue within a specific button or form element.
 
 > **Role:** You are a Web Accessibility (A11y) Expert.
+>
 > **Task:** Review the following HTML code for potential accessibility issues during screen reader or keyboard navigation, and refactor it semantically.
+>
 > **Code:**
 >
->
 > [Paste your code here]
->
+
 ### 🥇 Pro Version
 
 Use this to inspect highly complex UI components like modals, dropdowns, and tab interactions.
@@ -67,9 +68,7 @@ Use this to inspect highly complex UI components like modals, dropdowns, and tab
 >
 > **Code:**
 >
->
 > [Paste your component code here]
->
 >
 > **Constraints:**
 >
@@ -81,7 +80,7 @@ Use this to inspect highly complex UI components like modals, dropdowns, and tab
 
 Improving web accessibility often degenerates into randomly slapping WAI-ARIA attributes everywhere. However, incorrectly assigning `aria-label` or `role` creates catastrophic confusion for screen reader users.
 
-The core strength of this prompt is forcing the AI to strictly abide by the **"First Rule of ARIA"** (use native HTML elements whenever possible). When you run a complex custom Select Box or Modal through this prompt in a real-world project, it flawlessly catches unexpected keyboard focus losses and missing form labels. Especially when paired with Claude 3.5 Sonnet, it feels exactly like having an uncompromising accessibility expert sitting next to you, conducting an exhaustive code review.
+The core strength of this prompt lies in forcing the AI to strictly abide by the **"First Rule of ARIA"**—which states that you should use native HTML elements whenever possible. When you run a complex custom Select Box or Modal through this prompt in a real-world project, it flawlessly catches unexpected keyboard focus losses and missing form labels. Especially when paired with Claude 3.5 Sonnet, it feels exactly like having an uncompromising accessibility expert sitting right next to you, conducting an exhaustive code review.
 
 ---
 

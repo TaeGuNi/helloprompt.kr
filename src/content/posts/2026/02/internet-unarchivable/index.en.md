@@ -5,7 +5,7 @@ date: 2026-02-15
 tags: ["Internet", "Archiving", "History", "Web"]
 ---
 
-# 📝 The Internet is Becoming Unarchivable: How to Save the Web with AI
+## 📝 The Internet is Becoming Unarchivable: How to Save the Web with AI
 
 - **🎯 Recommended for:** Developers, Researchers, Digital Content Creators, and Notion/Obsidian Power Users
 - **⏱️ Time Saved:** 30 mins → 1 min per article
@@ -17,9 +17,9 @@ tags: ["Internet", "Archiving", "History", "Web"]
 
 > _"Have you ever bookmarked a brilliant technical deep-dive, only to return months later and find a sterile 404 error page?"_
 
-The modern internet is notoriously fragile. Single-page applications (SPAs), aggressive paywalls, and the closed ecosystems of social media platforms are actively breaking traditional archiving tools like the Wayback Machine. Because content is increasingly rendered dynamically via JavaScript, conventional web crawlers often hit a wall of blank pages. Slowly but surely, the open web is vanishing into an unarchivable black box.
+The modern internet is notoriously fragile. Single-page applications (SPAs), aggressive paywalls, and closed social ecosystems are actively breaking traditional archiving tools like the Wayback Machine. With content increasingly rendered dynamically via JavaScript, conventional web crawlers often hit a wall of blank pages. Slowly but surely, the open web is vanishing into an unarchivable black box. 
 
-What if you could become your own digital archivist? By leveraging AI, you can capture raw, chaotic text dumps from any dynamic webpage and instantly transform them into pristine, semantic, and future-proof Markdown documents.
+But what if you could become your own digital archivist? By leveraging AI, you can capture raw, chaotic text dumps from any dynamic webpage and instantly transform them into pristine, semantic, and future-proof Markdown documents.
 
 ---
 
@@ -55,8 +55,8 @@ Designed for researchers and knowledge workers who demand comprehensive metadata
 >
 > **Task:**
 >
-> 1. Extract the core article/content from the provided text, completely ignoring UI elements, cookie banners, navigation menus, and promotional fluff.
-> 2. Generate a comprehensive YAML Frontmatter block containing: `title`, `author` (if identifiable), `date_archived`, `original_url` (leave blank if not provided), and 3 to 5 relevant `tags`.
+> 1. Extract the core article or content from the provided text, completely ignoring UI elements, cookie banners, navigation menus, and promotional fluff.
+> 2. Generate a comprehensive YAML frontmatter block containing: `title`, `author` (if identifiable), `date_archived`, `original_url` (leave blank if not provided), and 3 to 5 relevant `tags`.
 > 3. Provide a concise 3-bullet-point summary at the very beginning of the document under a `## ⚡️ Summary` heading.
 > 4. Structure the main body using semantic Markdown headings (`##`, `###`), bullet points, and blockquotes where appropriate to ensure maximum readability.
 >
@@ -80,9 +80,9 @@ Designed for researchers and knowledge workers who demand comprehensive metadata
 
 ## 💡 Writer's Insight
 
-Why go through the trouble of manual extraction? I've lost count of the times I've bookmarked an incredible coding tutorial, only for the domain to quietly expire a year later. Relying on third-party web clippers simply isn't viable anymore—they consistently fail to bypass modern anti-bot protections or capture the complex state of SPAs.
+Why go through the trouble of manual extraction? I've lost count of the times I've bookmarked an incredible coding tutorial, only for the domain to quietly expire a year later. Relying on **third-party web clippers simply isn't viable anymore**—they consistently fail to bypass modern anti-bot protections or capture the complex state of Single-Page Applications (SPAs).
 
-This prompt is my daily driver for Obsidian. Instead of wrestling with extensions that inevitably break on modern React or Next.js sites, I just hit `Ctrl+A` and `Ctrl+C` on the entire page, letting the LLM handle the heavy lifting. It acts as a highly tuned semantic filter—stripping away the visual noise of the modern web and isolating the pure signal. It's the ultimate defense against the internet's ephemeral nature.
+This prompt is my **daily driver for Obsidian**. Instead of wrestling with extensions that inevitably break on modern React or Next.js sites, I just hit `Ctrl+A` and `Ctrl+C` on the entire page, letting the LLM handle the heavy lifting. It acts as a **highly tuned semantic filter**—stripping away the visual noise of the modern web and isolating the pure signal. It's the ultimate defense against the internet's ephemeral nature.
 
 ---
 
@@ -92,10 +92,10 @@ This prompt is my daily driver for Obsidian. Instead of wrestling with extension
   - A: Yes! Advanced AI models are exceptionally good at recognizing programming syntax. Even if the visual formatting is completely destroyed during the copy-paste process, the AI will reliably restore the correct Markdown code fences (e.g., ` ```python `).
 
 - **Q: Why not just use a standard browser Web Clipper extension?**
-  - A: Web clippers frequently choke on sites that dynamically load content as you scroll (infinite scroll) or actively block traditional DOM parsing. A raw text dump paired with AI formatting serves as a far more resilient, brute-force alternative.
+  - A: Web clippers frequently choke on sites that dynamically load content as you scroll (infinite scroll) or actively block traditional DOM parsing. A raw text dump paired with AI formatting serves as a far more resilient, **brute-force alternative**.
 
 - **Q: Can I use this for archiving long Twitter/X threads?**
-  - A: Absolutely. Copying an entire thread typically results in a chaotic jumble of timestamps, usernames, and engagement metrics. This prompt seamlessly stitches those fragmented posts together into a cohesive, highly readable article.
+  - A: Absolutely. Copying an entire thread typically results in a chaotic jumble of timestamps, usernames, and engagement metrics. This prompt seamlessly stitches those fragmented posts together into a cohesive, **highly readable article**.
 
 ---
 

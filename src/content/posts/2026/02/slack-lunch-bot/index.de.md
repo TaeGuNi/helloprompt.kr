@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "Erfahre, wie du den Slack Workflow Builder nahtlos mit KI verknüpfst, um völlig ohne Programmierkenntnisse einen intelligenten Assistenten für die tägliche Mittagsempfehlung deines Teams zu erstellen."
+description: "Nutze den Slack Workflow Builder und KI, um ohne Programmierkenntnisse einen smarten Bot für die tägliche Mittagsempfehlung deines Teams zu erstellen."
 tags: ["Slack", "슬랙", "챗봇", "자동화", "사내문화"]
 ---
 
-# 🤖 Einen Slack-Bot erstellen: Dein interner Assistent für die Frage „Was essen wir heute zu Mittag?“
+## 🤖 Einen Slack-Bot erstellen: Dein interner Assistent für die Frage „Was essen wir heute zu Mittag?“
 
 - **🎯 Zielgruppe:** Junior-Mitarbeiter, die an der täglichen Qual der Wahl verzweifeln, sowie HR-Teams, die frischen Wind in trockene Firmen-Messenger bringen wollen.
 - **⏱️ Zeitaufwand:** 10 Minuten (mit dem Slack Workflow Builder)
@@ -19,15 +19,15 @@ tags: ["Slack", "슬랙", "챗봇", "자동화", "사내문화"]
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
 - 🚀 **Anwendbarkeit:** ⭐⭐⭐⭐⭐
 
-> _„Was essen wir heute? Keine Ahnung, worauf hast du Lust? Schon wieder Pasta?“ Mach Schluss mit dem zermürbenden Rätselraten in der Mittagspause! Überlass diese lästige Entscheidung einfach einem KI-Assistenten und spare deine wertvolle Energie für den wohlverdienten pünktlichen Feierabend._
+> _„Was essen wir heute? Keine Ahnung, worauf hast du Lust? Schon wieder Pasta?“ Mach Schluss mit dem zermürbenden Rätselraten in der Mittagspause! Überlass diese lästige Entscheidung einfach einem KI-Assistenten und spare deine wertvolle Energie für den wohlverdienten, pünktlichen Feierabend._
 
-Das wohl größte Dilemma im Büroalltag ist die ewig gleiche Frage: „Was gibt es heute zum Mittagessen?“ Anstatt jeden Tag aufs Neue ratlos in die Runde zu schauen, frag doch beim nächsten Mal einfach euren internen Messenger-Bot! Tippe beispielsweise: „Was essen wir heute bei diesem Schmuddelwetter?“ und erhalte prompt eine clevere Antwort wie: „Wie wäre es heute statt dem üblichen Schnitzel mit einer heißen, deftigen Pho-Suppe?“ In diesem Beitrag zeige ich dir, wie du mithilfe des Slack Workflow Builders – und zwar völlig ohne Programmierkenntnisse – in wenigen Minuten genau so einen Bot erstellst.
+Das wohl größte Dilemma im Büroalltag ist die ewig gleiche Frage: „Was gibt es heute zum Mittagessen?“ Anstatt jeden Tag aufs Neue ratlos in die Runde zu schauen, frag doch beim nächsten Mal einfach euren internen Messenger-Bot! Tippe beispielsweise: „Was essen wir heute bei diesem Schmuddelwetter?“ und du erhältst prompt eine clevere Antwort wie: „Wie wäre es heute statt dem üblichen Schnitzel mit einer heißen, deftigen Pho-Suppe?“ In diesem Beitrag zeige ich dir, wie du mithilfe des Slack Workflow Builders – und zwar **völlig ohne Programmierkenntnisse** – in wenigen Minuten genau so einen Bot erstellst.
 
 ---
 
 ## ⚡️ Zusammenfassung in 3 Sätzen (TL;DR)
 
-1. Erstelle mit dem **Slack Workflow Builder** völlig ohne Code einen maßgeschneiderten Automatisierungs-Bot.
+1. Erstelle mit dem **Slack Workflow Builder** komplett ohne Code einen maßgeschneiderten Automatisierungs-Bot.
 2. Definiere gezielte Schlüsselwörter (z. B. „Mittagessen“) oder Emoji-Reaktionen als Trigger, um den Bot aufzurufen.
 3. Integriere einen KI-Connector (z. B. ChatGPT), der basierend auf Parametern wie Wetter oder Teamstimmung passgenaue Menüvorschläge generiert.
 
@@ -37,7 +37,7 @@ Das wohl größte Dilemma im Büroalltag ist die ewig gleiche Frage: „Was gibt
 
 ### 🥉 Basic Version (Standard)
 
-Nutze diesen simplen Prompt, wenn du sofort eine zufällige, aber treffsichere Empfehlung benötigst, um die Entscheidungsfindung radikal abzukürzen.
+Nutze diesen simplen Prompt, wenn du sofort eine zufällige, aber treffsichere Empfehlung benötigst, um den lästigen Entscheidungsprozess radikal abzukürzen.
 
 > **Rolle (Role):** Du bist ein sympathischer Assistent, der das perfekte Mittagessen für unser Büro-Team auswählt.
 >
@@ -45,7 +45,7 @@ Nutze diesen simplen Prompt, wenn du sofort eine zufällige, aber treffsichere E
 
 ### 🥇 Pro Version (Experte)
 
-Greife auf diese Version zurück, um durch die Einbindung von dynamischen Variablen wie Wetter, Teamstimmung und Gruppengröße extrem smarte und situativ perfekte Vorschläge zu generieren.
+Greife auf diese erweiterte Version zurück, um durch die Einbindung dynamischer Variablen wie Wetter, Teamstimmung und Gruppengröße extrem smarte und situativ perfekte Vorschläge zu generieren.
 
 > **Rolle (Role):** Du bist ein anspruchsvoller Feinschmecker und das ultimative kulinarische Navigationssystem für die besten Food-Spots rund um unser Büro (`[Standort des Büros, z. B. Berlin-Mitte]`).
 >
@@ -73,14 +73,18 @@ Greife auf diese Version zurück, um durch die Einbindung von dynamischen Variab
 
 ## 💡 Kommentar des Autors (Insight)
 
-Ein Slack-Bot ist weit mehr als nur eine technische Spielerei – er ist ein massiv unterschätztes Instrument zur aktiven Gestaltung der **Unternehmenskultur**. In Messenger-Kanälen, die ansonsten oft von trockenen Arbeitsanweisungen dominiert werden, fungiert er als sozialer Schmierstoff: Er entlockt dem Team ein Lächeln und liefert sofort frischen Gesprächsstoff. Wird der Lunch-Bot erst einmal vom Team gut angenommen, öffnet das die Tür für weitere smarte Integrationen wie einen „Kudos-Bot“ für Lob, einen „Geburtstags-Bot“ oder automatisierte Wochenrückblicke. So trägst du nachhaltig zu einem positiven und lockeren Arbeitsklima bei. Sein volles Potenzial entfaltet dieser Prompt übrigens dann, wenn du ihn mit fortschrittlichen Automatisierungstools wie Zapier oder Make.com koppelst. Dadurch durchbrichst du die Limitierungen des nativen Slack Workflow Builders und erschaffst einen wahrhaft intelligenten, kontextbewussten KI-Assistenten.
+Ein Slack-Bot ist weit mehr als nur eine technische Spielerei – er ist ein massiv unterschätztes Instrument zur aktiven Gestaltung der **Unternehmenskultur**. In Messenger-Kanälen, die ansonsten oft von trockenen Arbeitsanweisungen dominiert werden, fungiert er als sozialer Schmierstoff: Er entlockt dem Team ein Lächeln und liefert sofort frischen Gesprächsstoff. 
+
+Wird der Lunch-Bot erst einmal vom Team gut angenommen, öffnet das die Tür für weitere smarte Integrationen wie einen **„Kudos-Bot“** für Lob, einen **„Geburtstags-Bot“** oder automatisierte Wochenrückblicke. So trägst du nachhaltig zu einem positiven und lockeren Arbeitsklima bei. 
+
+Sein volles Potenzial entfaltet dieser Prompt übrigens dann, wenn du ihn mit fortschrittlichen Automatisierungstools wie Zapier oder Make.com koppelst. Dadurch durchbrichst du die Limitierungen des nativen Slack Workflow Builders und erschaffst einen wahrhaft intelligenten, kontextbewussten KI-Assistenten.
 
 ---
 
 ## 🙋 Häufig gestellte Fragen (FAQ)
 
 - **F: Unser Unternehmen nutzt die kostenlose Slack-Version. Kann ich den Workflow Builder trotzdem einsetzen?**
-  - A: Der native Slack Workflow Builder steht in vollem Umfang leider nur in den kostenpflichtigen Plänen (ab Pro) zur Verfügung. Als eleganter Workaround für die kostenlose Version bieten sich Tools wie Zapier oder Make.com an: Damit kannst du Nachrichten in einem Kanal „abhören“ und über die ChatGPT-API vollautomatisiert Antworten ausspielen.
+  - A: Der native Slack Workflow Builder steht im vollen Umfang leider nur in den kostenpflichtigen Plänen (ab Pro) zur Verfügung. Als eleganter Workaround für die kostenlose Version bieten sich Automatisierungs-Tools wie Zapier oder Make.com an: Damit kannst du Nachrichten in einem Kanal „abhören“ und über die ChatGPT-API vollautomatisiert passende Antworten ausspielen.
 
 - **F: Worin besteht der Unterschied zu einem Bot, den ich komplett selbst (z. B. in Python) programmiere?**
   - A: Mit einer Python-Bibliothek wie `slack-bolt` lassen sich deutlich tiefgreifendere Interaktionen realisieren – etwa interaktive Buttons, Pop-up-Modals oder direkte Anbindungen an interne Datenbanken. Das geht allerdings unweigerlich mit Serverkosten und kontinuierlichem Wartungsaufwand einher. Für simple Menüempfehlungen und rein textbasierte Antworten ist der hier gezeigte No-Code-Ansatz unschlagbar effizient und für den Einstieg absolut ausreichend.

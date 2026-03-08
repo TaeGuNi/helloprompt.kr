@@ -5,13 +5,13 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Aprendizagem de Língua Estrangeira"
-description: "Prompt de IA que atua como tutor particular, explicando o real motivo dos seus erros gramaticais e indo muito além da simples correção automática."
+description: "Transforme a IA no seu professor particular. Este prompt corrige seus textos e explica o 'porquê' dos erros, indo além da simples correção automática."
 tags: ["GramáticaInglesa", "CorreçãoDeEscrita", "Prompt", "EscritaDeEmail"]
 ---
 
-# 📝 Por Que Minha Gramática Está Errada? Professor de Correção 1:1
+## 📝 Por que minha gramática está errada? Seu professor particular 1:1
 
-- **🎯 Recomendado para:** Estudantes, profissionais que escrevem e-mails em inglês e qualquer pessoa que queira aprimorar o idioma
+- **🎯 Recomendado para:** Estudantes, profissionais que redigem e-mails em inglês e qualquer pessoa que queira aprimorar um novo idioma.
 - **⏱️ Tempo necessário:** 5 minutos
 - **🤖 Modelo recomendado:** Qualquer IA conversacional (ChatGPT, Claude, Gemini)
 
@@ -19,7 +19,7 @@ tags: ["GramáticaInglesa", "CorreçãoDeEscrita", "Prompt", "EscritaDeEmail"]
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidade:** ⭐⭐⭐⭐☆
 
-> _"O corretor automático até arruma o texto, mas o seu inglês continua estagnado porque você nunca entende o 'porquê' da correção."_
+> _"O corretor automático até ajusta o seu texto, mas o seu inglês continua estagnado porque você nunca entende o 'porquê' daquela correção."_
 
 As ferramentas de correção tradicionais simplesmente jogam o resultado na sua tela: "Isso está errado, troque por aquilo". No entanto, o verdadeiro aprendizado mora no "porquê". Para não cometer o mesmo deslize no futuro, você precisa entender a fundo a razão de usar a preposição `in` em vez de `at`, ou o motivo exato pelo qual o artigo `the` deve ser omitido. Este prompt transforma a IA em um professor particular meticuloso, capaz de explicar as regras gramaticais com extrema clareza, didática e paciência.
 
@@ -27,9 +27,9 @@ As ferramentas de correção tradicionais simplesmente jogam o resultado na sua 
 
 ## ⚡️ Resumo em 3 linhas (TL;DR)
 
-1. **Correção com Explicação:** Corrige o erro e, em seguida, ensina a regra gramatical por trás dele.
-2. **Upgrade de Fluência:** Sugere expressões muito mais naturais e amplamente utilizadas por falantes nativos.
-3. **Feedback Direto:** Avalia o seu nível atual e aponta exatamente onde você precisa focar para evoluir.
+1. **Correção com explicação:** Corrige o erro e, em seguida, ensina a regra gramatical por trás dele.
+2. **Upgrade de fluência:** Sugere expressões muito mais naturais e amplamente utilizadas por falantes nativos no dia a dia.
+3. **Feedback direcionado:** Avalia o seu nível atual e aponta exatamente onde você precisa focar para evoluir.
 
 ---
 
@@ -39,7 +39,7 @@ As ferramentas de correção tradicionais simplesmente jogam o resultado na sua 
 
 Use esta versão quando precisar de uma correção rápida com uma explicação direta.
 
-> **Papel:** Você é um `[Professor de Inglês Nativo e Especialista em Redação]`.
+> **Papel:** Você é um `[Professor nativo de inglês e especialista em redação]`.
 >
 > **Contexto:** Escrevi o seguinte texto: `[insira seu texto aqui]`.
 >
@@ -49,17 +49,17 @@ Use esta versão quando precisar de uma correção rápida com uma explicação 
 
 Use esta versão para um estudo aprofundado e um feedback detalhado sobre a sua proficiência no idioma.
 
-> **Papel (Role):** Você é um `[Professor de Inglês Nativo e Especialista em Redação]`, extremamente detalhista, empático e focado no aprendizado contínuo do aluno.
+> **Papel (Role):** Você é um `[Professor nativo de inglês e especialista em redação]`, extremamente detalhista, empático e focado no aprendizado contínuo do aluno.
 >
 > **Contexto (Context):**
 >
 > - Cenário: Escrevi um texto em inglês, mas suspeito que existam erros gramaticais ou frases que soem pouco naturais.
-> - Objetivo: Quero entender a 'Razão' de cada um dos meus erros para estudá-los e nunca mais repeti-los, indo muito além da simples correção ortográfica.
+> - Objetivo: Quero entender a 'razão' de cada um dos meus erros para estudá-los e nunca mais repeti-los, indo muito além da simples correção ortográfica.
 >
 > **Tarefa (Task):**
 >
-> 1. **[Versão Revisada]**: Apresente o texto com todos os erros gramaticais e de digitação perfeitamente corrigidos.
-> 2. **[Nota de Correção]**: Compare o trecho original com o corrigido (1:1) e explique a **Razão Gramatical** de forma altamente didática (ex: concordância verbal, uso correto de preposições, etc.).
+> 1. **[Versão Revisada]**: Apresente o texto original com todos os erros gramaticais e de digitação perfeitamente corrigidos.
+> 2. **[Nota de Correção]**: Compare o trecho original com o corrigido (1:1) e explique a **razão gramatical** de forma altamente didática (ex: concordância verbal, uso correto de preposições, etc.).
 > 3. **[Expressões Nativas]**: Mesmo que a minha frase original esteja gramaticalmente correta, recomende 2 alternativas mais elegantes, naturais e frequentemente utilizadas por falantes nativos no dia a dia.
 > 4. **[Avaliação]**: Avalie minha habilidade de escrita com uma nota de 0 a 10 e deixe um conselho prático e acionável para a minha evolução.
 >
@@ -76,7 +76,9 @@ Use esta versão para um estudo aprofundado e um feedback detalhado sobre a sua 
 
 ## 💡 Comentário do Autor (Insight)
 
-A maior armadilha para quem estuda um novo idioma na era digital é a dependência excessiva de corretores automáticos, como o Grammarly. Eles até resolvem o problema imediato daquele e-mail que precisa ser enviado urgentemente, mas acabam criando uma verdadeira "muleta linguística". Este prompt foi desenhado não apenas para revisar textos, mas para atuar como um poderoso _feedback loop_ ativo. Toda vez que você comete um erro e lê a explicação focada na regra, o seu cérebro registra o padrão subjacente. Com o tempo e a prática, você notará que a IA terá cada vez menos erros para corrigir. Essa é a diferença exata entre ganhar o peixe e aprender a pescar.
+A maior armadilha para quem estuda um novo idioma na era digital é a dependência excessiva de corretores automáticos, como o Grammarly. Eles até resolvem o problema imediato daquele e-mail que precisa ser enviado urgentemente, mas acabam criando uma verdadeira "muleta linguística". 
+
+Este prompt foi desenhado não apenas para revisar textos, mas para atuar como um poderoso *feedback loop* ativo. Toda vez que você comete um erro e lê a explicação focada na regra, o seu cérebro registra o padrão subjacente. Com o tempo e a prática, você notará que a IA terá cada vez menos erros para corrigir. Essa é a diferença exata entre ganhar o peixe e aprender a pescar.
 
 ---
 
@@ -86,7 +88,7 @@ A maior armadilha para quem estuda um novo idioma na era digital é a dependênc
   - A: Sim, mas recomendo fortemente enviar o texto quebrado em blocos de 2 a 3 parágrafos por vez. Essa abordagem garante que a IA forneça explicações muito mais precisas e detalhadas para cada erro, sem pular informações vitais ou resumir excessivamente as regras gramaticais.
 
 - **Q: O prompt funciona para outros idiomas além do inglês?**
-  - A: Absolutamente! Basta alterar a configuração das variáveis no prompt. Por exemplo, mude o papel para `[Professor de Espanhol Nativo]` e envie o seu texto em espanhol. Toda a estrutura didática e analítica funcionará perfeitamente da mesma forma.
+  - A: Absolutamente! Basta alterar a configuração das variáveis no prompt. Por exemplo, mude o papel para `[Professor nativo de espanhol]` e envie o seu texto em espanhol. Toda a estrutura didática e analítica funcionará perfeitamente da mesma forma.
 
 ---
 
@@ -111,9 +113,9 @@ A maior armadilha para quem estuda um novo idioma na era digital é a dependênc
 
 **[Nota de Correção]**
 
-- **To hear → To hearing:** Na expressão "look forward to", a palavra 'to' atua como uma **Preposição**, e não como parte integrante do infinitivo do verbo. Em inglês, após uma preposição, usamos o verbo sempre com a terminação '-ing' (forma de gerúndio). Portanto, o gramaticalmente correto é usar "hearing".
+- **To hear → To hearing:** Na expressão "look forward to", a palavra "to" atua como uma **preposição**, e não como parte integrante do infinitivo do verbo. Em inglês, após uma preposição, usamos o verbo sempre com a terminação "-ing" (forma de gerúndio). Portanto, o correto gramaticalmente é usar "hearing".
 
-**[Expressão Nativa]**
+**[Expressões Nativas]**
 
 Mesmo a frase corrigida sendo um clássico absoluto, aqui vão outras opções valiosas para variar e enriquecer o seu vocabulário:
 

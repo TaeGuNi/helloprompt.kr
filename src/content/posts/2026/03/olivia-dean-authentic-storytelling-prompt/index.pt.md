@@ -5,22 +5,24 @@ author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "업무 자동화"
-description: "Chega de textos publicitários clichês! Este prompt de IA focado em copywriting emocional captura a essência e a autenticidade da cantora de soul britânica Olivia Dean."
+description: "Chega de textos clichês! Este prompt de IA para copywriting emocional captura a essência e a autenticidade da cantora de soul britânica Olivia Dean."
 tags: ["prompt-engineering", "ai-agent", "olivia-dean"]
 ---
 
-# 📝 Uma Colherada da Emoção de Olivia Dean: O Prompt Mágico que Revive Copys Sem Alma
+## 📝 Uma Colherada da Emoção de Olivia Dean: O Prompt Mágico que Revive Copys Sem Alma
 
-- **🎯 Público-Alvo:** Profissionais de marketing, redatores, editores de newsletters, júniores no primeiro ano de carreira
+- **🎯 Público-Alvo:** Profissionais de marketing, redatores, editores de newsletters e profissionais no primeiro ano de carreira.
 - **⏱️ Tempo Necessário:** 30 minutos → reduzido para 1 minuto
-- **🤖 Modelos Recomendados:** Todas as IAs conversacionais (Claude 3.5 Sonnet, ChatGPT, Gemini, etc.)
+- **🤖 Modelos Recomendados:** Qualquer IA conversacional (Claude 3.5 Sonnet, ChatGPT, Gemini, etc.)
 - ⭐ **Dificuldade:** ⭐⭐☆☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidade:** ⭐⭐⭐⭐⭐
 
-> _"Até quando você continuará recorrendo a adjetivos ocos como 'o melhor' e 'inovador'? O consumidor atual abre a carteira para narrativas autênticas e genuínas—tal qual um show acústico e intimista de Olivia Dean—e não para discursos corporativos plastificados."_
+> _"Até quando você continuará recorrendo a adjetivos ocos como 'o melhor' e 'inovador'? O consumidor atual abre a carteira para narrativas autênticas e genuínas — tal qual um show acústico e intimista de Olivia Dean — e não para discursos corporativos plastificados."_
 
-A cantora britânica de neo-soul Olivia Dean conquistou o mundo através de sua voz pura, livre de artifícios, e da profundidade de suas emoções. No copywriting de marketing, a lógica é exatamente a mesma. Em vez de slogans pomposos e forçados, uma história de marca contada de forma serena, usando a linguagem do nosso dia a dia, gera uma taxa de conversão infinitamente superior. Este prompt foi desenhado especificamente para erradicar os 'termos mecânicos de marketing' artificiais gerados pela IA, extraindo, em contrapartida, uma copy calorosa, envolvente e profundamente humana.
+A cantora britânica de neo-soul Olivia Dean conquistou o mundo com sua voz pura, livre de artifícios e repleta de profundidade emocional. No copywriting, a lógica é exatamente a mesma. Em vez de slogans pomposos e forçados, uma história de marca contada de forma serena, usando a linguagem do dia a dia, gera taxas de conversão infinitamente superiores. 
+
+Este prompt foi desenhado especificamente para erradicar os "termos mecânicos de marketing" artificiais gerados por IA. Em contrapartida, ele extrai uma copy calorosa, envolvente e profundamente humana.
 
 ---
 
@@ -39,6 +41,7 @@ A cantora britânica de neo-soul Olivia Dean conquistou o mundo através de sua 
 Use quando precisar apenas de resultados rápidos.
 
 > **Função:** Você é um copywriter especialista em redação emocional e genuína.
+>
 > **Tarefa:** Escreva um texto promocional para as redes sociais sobre `[Nome da Marca/Produto]`. No entanto, remova absolutamente todos os adjetivos publicitários exagerados e adote um tom simples e acolhedor, como se estivesse conversando com um amigo próximo.
 
 ### 🥇 Versão Profissional (Pro Version)
@@ -62,7 +65,7 @@ Use quando precisar de qualidade detalhada.
 > 
 > - Separe cada versão de forma clara utilizando bullet points (com emojis).
 > - Nunca utilize o formato de tabela (Table).
-> - Da mesma forma que uma apresentação de rua feita apenas com voz e violão, elimine palavras rebuscadas e jargões, mas mantenha um tom de voz cativante e de forte apelo emocional até a última linha.
+> - Da mesma forma que uma apresentação de rua feita apenas com voz e violão, elimine palavras rebuscadas e jargões. Mantenha um tom de voz cativante e de forte apelo emocional até a última linha.
 >
 > **Avisos (Warning):**
 > 
@@ -75,7 +78,9 @@ Use quando precisar de qualidade detalhada.
 
 Na prática, se você delegar a criação de copys de marketing inteiramente ao ChatGPT, na esmagadora maioria das vezes ele entregará textos sem alma, como "Inove o seu dia a dia!" ou "Oferecemos a melhor experiência!". No mundo real, essas frases são lixo corporativo que devem ir direto para a lixeira. 
 
-O verdadeiro poder deste prompt reside na injeção de uma persona altamente específica — 'Olivia Dean' — e de referências de ambiência que forçam a IA a 'baixar a guarda' de seu tom padronizado. Em vez de dar uma instrução genérica como "não exagere", ao fornecer um contexto visual e auditivo como "simples como um show acústico ao vivo", fazemos com que a IA gere resultados muito mais refinados, empáticos e sensoriais. Utilize este prompt sempre que precisar planejar a introdução de uma newsletter, onde a intimidade com o leitor é vital, ou em uma página "Sobre Nós" (About Us) que precise traduzir a filosofia da marca. A coragem de cortar palavras rebuscadas e focar na essência é o que define a verdadeira elegância de um copywriter sênior.
+O verdadeiro poder deste prompt reside na injeção de uma persona altamente específica — **Olivia Dean** — e de referências de ambiência que forçam a IA a 'baixar a guarda' de seu tom padronizado. Em vez de dar uma instrução genérica como "não exagere", ao fornecer um contexto visual e auditivo como "simples como um show acústico ao vivo", fazemos com que a IA gere resultados muito mais refinados, empáticos e sensoriais. 
+
+Utilize este prompt sempre que precisar planejar a introdução de uma newsletter, onde a intimidade com o leitor é vital, ou em uma página "Sobre Nós" (About Us) que precise traduzir a filosofia da marca. A coragem de cortar palavras rebuscadas e focar na essência é o que define a verdadeira elegância de um copywriter sênior.
 
 ---
 

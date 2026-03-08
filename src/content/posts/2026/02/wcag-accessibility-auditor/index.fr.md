@@ -5,13 +5,13 @@ author: "Jay"
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 category: "프론트엔드"
-description: " \"Mon code est-il accessible à tous ? Ce prompt vérifie si votre code respecte les normes d'accessibilité (WCAG).\""
+description: "Votre code est-il accessible à tous ? Ce prompt vérifie instantanément si votre code respecte les normes strictes d'accessibilité (WCAG 2.2)."
 tags: ["Accessibility", "HTML", "WCAG"]
 ---
 
-# ♿️ Mon code est-il accessible à tous ? Bot d'audit automatique d'accessibilité web (WCAG)
+## ♿️ Mon code est-il accessible à tous ? Bot d'audit automatique d'accessibilité web (WCAG)
 
-- **🎯 Recommandé pour :** Développeurs sur des projets publics/grandes entreprises, juniors souhaitant peaufiner leur portfolio, développeurs frontend seniors.
+- **🎯 Recommandé pour :** Développeurs sur des projets publics ou de grandes entreprises, développeurs juniors souhaitant peaufiner leur portfolio, développeurs frontend seniors.
 - **⏱️ Temps requis :** 2 heures de vérification manuelle → 1 minute d'audit automatique par l'IA.
 - **🤖 Modèles recommandés :** Claude 3.5 Sonnet (analyse de code exceptionnelle), GPT-4o.
 
@@ -19,17 +19,17 @@ tags: ["Accessibility", "HTML", "WCAG"]
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
 - 🚀 **Utilité :** ⭐⭐⭐⭐☆
 
-> _"Vous avez peut-être intégré de superbes animations, mais si quelqu'un ne peut même pas cliquer sur le bouton de connexion, votre code est un échec."_
+> _"Vous avez peut-être intégré de superbes animations, mais si un utilisateur ne peut même pas cliquer sur le bouton de connexion, votre code est un échec."_
 
-L'accessibilité web (Web Accessibility ou A11y) n'est plus une simple "attention particulière", c'est devenu la norme et souvent une obligation légale. Cependant, mémoriser et appliquer à chaque ligne de code les directives complexes et exhaustives du WCAG (Web Content Accessibility Guidelines) 2.2 est presque impossible. Ce prompt analyse vos balises et vos composants, identifie en une minute les défauts d'accessibilité critiques pour les lecteurs d'écran ou la navigation au clavier, et refactorise le tout avec un code sémantique parfait.
+L'accessibilité web (A11y) n'est plus une simple "attention particulière", c'est devenu la norme et souvent une obligation légale. Cependant, mémoriser et appliquer à chaque ligne de code les directives complexes et exhaustives du WCAG (Web Content Accessibility Guidelines) 2.2 est presque impossible au quotidien. Ce prompt analyse instantanément vos balises et vos composants, identifie les défauts d'accessibilité critiques pour les lecteurs d'écran ou la navigation au clavier, et refactorise l'ensemble pour vous offrir un code sémantique irréprochable.
 
 ---
 
 ## ⚡️ Résumé en 3 points (TL;DR)
 
-1. **Conversion en balisage sémantique :** Transforme l'utilisation abusive des `<div>` en balises HTML5 sémantiques et porteuses de sens.
-2. **Conformité totale au WCAG 2.2 :** Vérifie rigoureusement les critères d'accessibilité complexes tels que le contraste des couleurs, la gestion du focus et la mauvaise utilisation de WAI-ARIA.
-3. **Guide de test pratique :** Fournit des méthodes de test concrètes que vous pouvez effectuer vous-même à l'aide de lecteurs d'écran (VoiceOver, NVDA) et du clavier (Tab).
+1. **Conversion en balisage sémantique :** Transforme l'utilisation abusive des balises `<div>` en éléments HTML5 sémantiques et porteurs de sens.
+2. **Conformité totale au WCAG 2.2 :** Vérifie rigoureusement les critères d'accessibilité complexes tels que le contraste des couleurs, la gestion du focus et la mauvaise utilisation des attributs WAI-ARIA.
+3. **Guide de test pratique :** Fournit des méthodes de test concrètes que vous pouvez effectuer vous-même à l'aide de lecteurs d'écran (VoiceOver, NVDA) et du clavier (Touche Tab).
 
 ---
 
@@ -37,15 +37,16 @@ L'accessibilité web (Web Accessibility ou A11y) n'est plus une simple "attentio
 
 ### 🥉 Version Basique (Basic Version)
 
-Utilisez-la pour vérifier rapidement l'accessibilité d'un bouton ou d'un formulaire spécifique.
+Utilisez ce prompt pour vérifier rapidement l'accessibilité d'un bouton ou d'un formulaire spécifique.
 
-> **Rôle :** Tu es un expert en accessibilité web (A11y).
+> **Rôle :** Tu es un expert pointu en accessibilité web (A11y).
 > **Tâche :** Analyse le code HTML ci-dessous pour identifier tout problème d'accessibilité lors de la navigation au clavier ou avec un lecteur d'écran, et corrige-le pour le rendre parfaitement sémantique.
 > **Code :**
 >
 >
 > [Collez votre code ici]
 >
+
 ### 🥇 Version Pro (Pro Version)
 
 Idéal pour auditer des composants d'interface utilisateur complexes nécessitant des interactions avancées (Modales, Menus déroulants, Onglets).
@@ -81,7 +82,7 @@ Idéal pour auditer des composants d'interface utilisateur complexes nécessitan
 
 Les efforts pour améliorer l'accessibilité web se transforment souvent en une surutilisation d'attributs WAI-ARIA. Or, l'ajout incorrect de `aria-label` ou de `role` crée une confusion majeure pour les utilisateurs de lecteurs d'écran.
 La force de ce prompt réside dans l'obligation faite à l'IA de respecter la **"Première règle d'ARIA (utiliser les balises HTML natives autant que possible)"**.
-Dans un contexte professionnel, lorsque vous développez une boîte de sélection personnalisée complexe ou une modale, passer ce prompt permet de détecter miraculeusement les pertes de focus du clavier ou les étiquettes de formulaire manquantes. Utilisé avec le modèle Claude 3.5 Sonnet, c'est comme avoir un expert pointilleux en accessibilité assis à côté de vous pour faire une revue de code rigoureuse.
+Dans un contexte professionnel, lorsque vous développez une boîte de sélection personnalisée complexe ou une modale, l'utilisation de ce prompt permet de détecter miraculeusement les pertes de focus du clavier ou les étiquettes de formulaire manquantes. Utilisé avec le modèle Claude 3.5 Sonnet, c'est comme avoir un expert pointilleux en accessibilité assis à côté de vous pour effectuer une revue de code rigoureuse.
 
 ---
 
@@ -97,9 +98,9 @@ Dans un contexte professionnel, lorsque vous développez une boîte de sélectio
 
 ## 🧬 Décryptage du Prompt (Pourquoi ça marche ?)
 
-1.  **Critères d'évaluation stricts :** Au lieu de demander vaguement "Améliore l'accessibilité", l'intégration de la norme internationale "WCAG 2.2 Niveau AA" dans le persona contrôle totalement les hallucinations de l'IA.
-2.  **Application de la 1ère Règle d'ARIA :** Empêche l'IA d'abuser des attributs ARIA et favorise un balisage sémantique fondamental tirant le meilleur parti des spécifications HTML de base.
-3.  **Guide de test actionnable :** L'IA ne se contente pas de fournir le code correct ; elle exige des scénarios de test que le développeur peut expérimenter directement au clavier, maximisant ainsi l'utilité pratique.
+1. **Critères d'évaluation stricts :** Au lieu de demander vaguement "Améliore l'accessibilité", l'intégration de la norme internationale "WCAG 2.2 Niveau AA" dans le persona contrôle totalement les hallucinations de l'IA.
+2. **Application de la 1ère Règle d'ARIA :** Empêche l'IA d'abuser des attributs ARIA et favorise un balisage sémantique fondamental tirant le meilleur parti des spécifications HTML de base.
+3. **Guide de test actionnable :** L'IA ne se contente pas de fournir le code correct ; elle exige des scénarios de test que le développeur peut expérimenter directement au clavier, maximisant ainsi l'utilité pratique.
 
 ---
 

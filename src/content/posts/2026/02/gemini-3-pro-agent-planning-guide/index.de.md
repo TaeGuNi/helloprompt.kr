@@ -5,15 +5,15 @@ author: "Unifactory Agent"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "AI Agent"
-description: "Planung kommt vor dem Code. Entdecken Sie einen Prompt, der vage Ideen mithilfe des Deep Think-Modus von Gemini 3 Pro in konkrete, entwicklungsbereite Agenten-Spezifikationen verwandelt."
+description: "Planung vor Code. Dieser Prompt nutzt Gemini 3 Pro 'Deep Think', um vage Ideen in konkrete, entwicklungsbereite KI-Agenten-Spezifikationen zu verwandeln."
 tags: ["Gemini 3 Pro", "AI Agent", "Planning", "Prompt Engineering"]
 ---
 
-# 🤖 Gemini 3 Pro: Perfekte KI-Agenten mit 'Deep Think' planen
+## 🤖 Gemini 3 Pro: Perfekte KI-Agenten mit 'Deep Think' planen
 
 - **🎯 Zielgruppe:** Produktmanager (PM), die KI-Lösungen im Unternehmen einführen, Junior-Entwickler, die KI-Agenten bauen, Solopreneure
 - **⏱️ Zeitaufwand:** 3 Tage Planungs-Ping-Pong → auf nur 15 Minuten verkürzt
-- **🤖 Empfohlenes Modell:** **Gemini 3 Pro (Deep Think Modus)**, OpenAI o3-high
+- **🤖 Empfohlenes Modell:** **Gemini 3 Pro (Deep Think-Modus)**, OpenAI o3-high
 
 - ⭐ **Schwierigkeitsgrad:** ⭐⭐⭐☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
@@ -21,10 +21,10 @@ tags: ["Gemini 3 Pro", "AI Agent", "Planning", "Prompt Engineering"]
 
 > _"KI-Agenten-Projekte scheitern selten an der mangelnden Intelligenz der KI, sondern an den unzähligen 'Edge Cases' (Sonderfällen), die in der Planungsphase schlichtweg übersehen wurden."_
 
-„Bau mir mal einen Chatbot, der unsere Unternehmensdokumente durchsucht.“ oder „Programmier einen Agenten, der selbstständig in Aktien investiert.“ 
-Solche vagen Anforderungen gehören zum Arbeitsalltag – und treiben Entwickler regelmäßig in die Verzweiflung. Wie genau soll mit Ausnahmesituationen umgegangen werden? Sind die Zugriffsrechte sauber geklärt? Welche spezifischen APIs müssen angebunden werden? Oft bleibt all das in der anfänglichen Planungsphase völlig undefiniert.
+„Bau mir mal einen Chatbot, der unsere internen Unternehmensdokumente durchsucht.“ oder „Programmier einen Agenten, der selbstständig in Aktien investiert.“ 
+Solch vage Anforderungen gehören zum Arbeitsalltag – und treiben Entwickler regelmäßig in die Verzweiflung. Wie genau soll mit Ausnahmesituationen umgegangen werden? Sind die Zugriffsrechte sauber geklärt? Welche spezifischen APIs müssen angebunden werden? Oft bleibt all das in der anfänglichen Planungsphase völlig undefiniert.
 
-Genau hier entfaltet der **'Deep Think'**-Modus von Gemini 3 Pro sein wahres Potenzial. Er geht weit über die simple Textgenerierung hinaus und glänzt durch messerscharfes logisches Schlussfolgern sowie komplexe Szenarien-Simulation. In diesem Beitrag stelle ich Ihnen den **'AI Agent Architect' Prompt** vor. Er verwandelt Ihre unausgegorenen Ideen in eine **wasserdichte PRD (Product Requirements Document)**, die Ihr Entwicklerteam sofort und ohne Rückfragen in sauberen Code gießen kann.
+Genau hier entfaltet der **'Deep Think'**-Modus von Gemini 3 Pro sein wahres Potenzial. Er geht weit über simple Textgenerierung hinaus und glänzt durch messerscharfes logisches Schlussfolgern sowie komplexe Szenarien-Simulation. In diesem Beitrag stelle ich Ihnen den **'AI Agent Architect'-Prompt** vor. Dieser verwandelt Ihre unausgegorenen Ideen in eine **wasserdichte PRD (Product Requirements Document)**, die Ihr Entwicklerteam sofort und ohne lästige Rückfragen in sauberen Code gießen kann.
 
 ---
 
@@ -32,7 +32,7 @@ Genau hier entfaltet der **'Deep Think'**-Modus von Gemini 3 Pro sein wahres Pot
 
 1. **Schluss mit blindem Entwickeln:** Wer ohne klar definierte Persona, Tools und Edge Cases an die Programmierung eines Agenten herangeht, steuert unweigerlich ins Chaos.
 2. **Reverse Prompting meistern:** Lassen Sie die KI nicht einfach fertige Antworten ausspucken. Zwingen Sie sie stattdessen, kritische Rückfragen zu stellen, die schonungslos die Lücken in Ihrer Planung aufdecken.
-3. **Die Überlegenheit von Deep Think:** Gemini 3 Pro bietet aktuell die unangefochten beste Leistung, wenn es um die Konzeption komplexer Workflows und Randbedingungen geht.
+3. **Die Überlegenheit von Deep Think:** Gemini 3 Pro bietet aktuell die unangefochten beste Leistung, wenn es um die Konzeption komplexer Workflows und technischer Randbedingungen geht.
 
 ---
 
@@ -43,7 +43,9 @@ Genau hier entfaltet der **'Deep Think'**-Modus von Gemini 3 Pro sein wahres Pot
 Setzen Sie diese Variante ein, wenn Sie in einem Meeting blitzschnell das logische Grundgerüst einer neuen Idee skizzieren müssen.
 
 > **Rolle:** Du bist ein IT-Service-Planer mit 10 Jahren tiefgreifender Berufserfahrung.
+>
 > **Aufgabe:** Analysiere die folgende `[Idee]` für einen KI-Agenten. Nenne mir darauf basierend 3 unverzichtbare Kernfunktionen und 1 kritisches potenzielles Problem für die anstehende Entwicklung.
+>
 > **Idee:** `[Beschreiben Sie hier detailliert den KI-Agenten, den Sie entwickeln möchten]`
 
 ### 🥇 Pro Version (Experten-Version - Optimiert für Deep Think)
@@ -121,6 +123,7 @@ Dank dieser scharfsinnigen Intervention konnte eine kritische Sicherheitslücke 
 ### ❌ Vorher (Einfache Anweisung)
 
 > **User:** "Plane einen Slack-Bot, der unseren Mitarbeitern Auskunft über interne HR-Richtlinien gibt."
+>
 > **AI:** "Hier ist das Konzept für Ihren HR-Bot. Hauptfunktionen: Abfrage von Resturlaub, Abruf von Gehaltsabrechnungen. Erwarteter Geschäftsnutzen: Signifikante Steigerung der Arbeitseffizienz..." (Inhaltsleere Allgemeinplätze, die absolut keinen technischen Mehrwert bieten)
 
 ### ✅ Nachher (Pro Prompt angewendet - Step 1 Rückfragen)

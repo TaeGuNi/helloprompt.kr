@@ -1,15 +1,15 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Standard of Corporate Analysis: AI SWOT Analyzer\""
+title: "Standard of Corporate Analysis: AI SWOT Analyzer"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investment"
-description: " \"A comprehensive prompt to instantly analyze the strengths, weaknesses, opportunities, and threats of any company before investing.\""
+description: "A comprehensive AI prompt to instantly analyze the strengths, weaknesses, opportunities, and threats of any company before you invest."
 tags: ["Stock", "CorporateAnalysis", "SWOT", "Strategy"]
 ---
 
-# 📝 Standard of Corporate Analysis: AI SWOT Analyzer
+## 📝 Standard of Corporate Analysis: AI SWOT Analyzer
 
 - **🎯 Recommended For:** Investors, Marketers, Strategic Planners
 - **⏱️ Time Required:** 5 minutes → 1 minute
@@ -21,14 +21,14 @@ tags: ["Stock", "CorporateAnalysis", "SWOT", "Strategy"]
 
 > _"If you know the enemy and know yourself, you need not fear the result of a hundred battles. Do you know the critical weaknesses of the stock you are about to buy?"_
 
-The most fundamental yet powerful tool for corporate analysis is the SWOT (Strengths, Weaknesses, Opportunities, Threats) framework. However, manually scraping and organizing countless news articles, financial reports, and market analyses is incredibly time-consuming. By leveraging AI, you can instantly generate a highly accurate SWOT analysis that reflects the absolute latest market conditions and emerging issues.
+The SWOT framework—assessing Strengths, Weaknesses, Opportunities, and Threats—remains the most fundamental yet powerful tool for corporate analysis. However, manually scraping and synthesizing countless news articles, financial reports, and market analyses is an incredibly time-consuming grind. By leveraging AI, you can instantly generate a highly accurate, data-driven SWOT analysis that reflects the absolute latest market conditions and emerging issues.
 
 ---
 
 ## ⚡️ 3-Line Summary (TL;DR)
 
 1. Instantly analyze the Internal Factors (Strengths/Weaknesses) and External Factors (Opportunities/Threats) of any target company.
-2. Obtain an objective evaluation that accurately reflects the most recent market shifts and news.
+2. Obtain an objective evaluation that accurately reflects the most recent market shifts and breaking news.
 3. Derive actionable strategic implications by synthesizing all SWOT factors into a clear investment thesis.
 
 ---
@@ -42,19 +42,18 @@ Use this when you need a rapid, high-level overview.
 > **Role:** You are a `[Strategy Consultant]`.
 > **Request:** Perform a quick SWOT analysis on `[Target Company]` to help me decide if it's a good investment.
 
-
 ### 🥇 Pro Version (Expert Analysis)
 
 Use this when you need a detailed, professional-grade analysis.
 
-> **Role (Role):** You are a Senior `[Strategy Consultant]` at a top-tier management consulting firm.
+> **Role:** You are a Senior `[Strategy Consultant]` at a top-tier management consulting firm.
 >
-> **Context (Context):**
+> **Context:**
 >
 > - Background: I am currently considering a significant investment in `[Hyundai Motor]` stock.
 > - Goal: I need to objectively grasp the current market positioning and future prospects of this company before making a financial decision.
 >
-> **Task (Task):**
+> **Task:**
 >
 > 1. Perform a comprehensive **SWOT Analysis** on the target company.
 >    - **Strengths:** Core competencies and competitive advantages over rivals.
@@ -64,12 +63,12 @@ Use this when you need a detailed, professional-grade analysis.
 > 2. Present the analysis results clearly using a **Markdown Table**.
 > 3. Synthesize the SWOT findings and provide one conclusive **'Key Observation Point'** that investors must pay attention to.
 >
-> **Constraints (Constraints):**
+> **Constraints:**
 >
 > - You MUST include the latest market issues and news within the past 12 months.
 > - Be concise and punchy. Provide exactly 3 core bullet points per SWOT category.
 >
-> **Warning (Warning):**
+> **Warning:**
 >
 > - If you do not have up-to-date data or are unsure about specific financial metrics, explicitly state "Information Unavailable" rather than hallucinating facts.
 
@@ -77,7 +76,7 @@ Use this when you need a detailed, professional-grade analysis.
 
 ## 💡 Writer's Insight
 
-This prompt acts as a massive time-saver for retail investors and strategic planners. While AI models might occasionally lack real-time stock prices, they excel at synthesizing vast amounts of qualitative data—like recent earnings call transcripts or macroeconomic shifts. To get the best results, I highly recommend using models with real-time web browsing capabilities (like ChatGPT Plus or Gemini Advanced) so the analysis captures breaking news, such as sudden tariff changes or new product launches. Always cross-reference the AI's "Threats" section with your own risk tolerance before investing.
+This prompt acts as a massive time-saver for retail investors and strategic planners. While AI models might occasionally lack real-time stock prices, they excel at synthesizing vast amounts of qualitative data—like recent earnings call transcripts or macroeconomic shifts. To get the best results, I highly recommend using models with real-time web browsing capabilities (like **ChatGPT Plus** or **Gemini Advanced**) so the analysis captures breaking news, such as sudden tariff changes or new product launches. Always cross-reference the AI's **Threats** section with your own risk tolerance before investing.
 
 ---
 

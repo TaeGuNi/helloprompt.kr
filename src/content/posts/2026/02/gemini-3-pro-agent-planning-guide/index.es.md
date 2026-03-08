@@ -5,25 +5,25 @@ author: "Unifactory Agent"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "AI Agent"
-description: " \"La planificación precede a la programación. Descubre cómo el modo Deep Think de Gemini 3 Pro transforma ideas ambiguas en especificaciones técnicas impecables para agentes de IA.\""
+description: "La planificación precede al código. Descubre cómo el Deep Think de Gemini 3 Pro transforma ideas ambiguas en especificaciones técnicas impecables."
 tags: ["Gemini 3 Pro", "AI Agent", "Planning", "Prompt Engineering"]
 ---
 
 # 🤖 Gemini 3 Pro: Diseñando el Agente de IA Perfecto con 'Deep Think'
 
-- **🎯 Público objetivo:** Product Managers que lideran la adopción de IA, ingenieros junior que desarrollan agentes y *solopreneurs*.
-- **⏱️ Tiempo ahorrado:** De 3 días de planificación exhaustiva → a solo 15 minutos.
+- **🎯 Público objetivo:** Product Managers que lideran iniciativas de IA, ingenieros junior enfocados en agentes y *solopreneurs*.
+- **⏱️ Tiempo ahorrado:** De 3 días de exhaustiva planificación → a solo 15 minutos.
 - **🤖 Modelo recomendado:** **Gemini 3 Pro (Modo Deep Think)**, OpenAI o3-high.
 
 - ⭐ **Dificultad:** ⭐⭐⭐☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"El fracaso de un Agente de IA rara vez se debe a la falta de inteligencia del modelo; suele ser consecuencia de la avalancha de 'casos límite' (Edge Cases) que se ignoraron durante la fase de planificación."_
+> _"El fracaso de un Agente de IA rara vez obedece a la falta de inteligencia del modelo; suele ser la consecuencia de ignorar una avalancha de 'casos límite' (edge cases) durante la fase de planificación."_
 
-"Crea un chatbot que busque en los documentos internos de la empresa" o "Hazme un agente que invierta en bolsa automáticamente basándose en las noticias". Estas peticiones ambiguas, que son el pan de cada día en cualquier oficina, representan la peor pesadilla de un desarrollador. ¿La razón? En la fase de ideación casi nunca se define cómo gestionar las excepciones, cómo estructurar los permisos de los usuarios o qué APIs exactas se van a integrar.
+"Crea un chatbot que busque en los documentos internos de la empresa" o "Hazme un agente que invierta en bolsa automáticamente basándose en las noticias". Estas peticiones ambiguas, el pan de cada día en cualquier oficina, son la peor pesadilla de un desarrollador. ¿El motivo? Durante la fase de ideación casi nunca se define cómo gestionar las excepciones, cómo estructurar los permisos de usuario o qué APIs exactas se integrarán.
 
-Aquí es exactamente donde brilla el modo **'Deep Think'** de Gemini 3 Pro. Este modelo no se limita a escupir texto; está diseñado para aplicar un razonamiento lógico profundo y realizar una simulación exhaustiva de escenarios complejos. En este artículo, desglosaremos el **'Prompt del Arquitecto de IA'**, una herramienta maestra diseñada para transformar tus ideas más difusas en un **Documento de Requisitos de Producto (PRD) impecable**, con un nivel de detalle técnico tan alto que cualquier ingeniero podrá empezar a escribir código de inmediato.
+Aquí es exactamente donde brilla el modo **'Deep Think'** de Gemini 3 Pro. Este modelo no se limita a escupir texto; está diseñado para aplicar un razonamiento lógico profundo y ejecutar una simulación exhaustiva de escenarios complejos. En este artículo, desglosaremos el **'Prompt del Arquitecto de IA'**, una herramienta maestra creada para transformar tus ideas más abstractas en un **Documento de Requisitos de Producto (PRD) impecable**, con un nivel de detalle técnico tan preciso que cualquier ingeniero podrá empezar a programar de inmediato.
 
 ---
 
@@ -39,7 +39,7 @@ Aquí es exactamente donde brilla el modo **'Deep Think'** de Gemini 3 Pro. Este
 
 ### 🥉 Basic Version (Versión Básica)
 
-Utiliza esta versión para aterrizar rápidamente la viabilidad de una idea durante una sesión de *brainstorming*.
+Utiliza esta versión para validar rápidamente la viabilidad de una idea durante una sesión de *brainstorming*.
 
 > **Rol:** Eres un Product Manager Técnico (Technical PM) con 10 años de experiencia construyendo productos de IA.
 > **Instrucción:** Basándote en la `[idea]` que te presento, define 3 funcionalidades *core* indispensables para este agente de IA e identifica el mayor riesgo técnico previsible durante su desarrollo.

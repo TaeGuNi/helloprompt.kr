@@ -1,17 +1,17 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Mundo Fantástico de Brilho Prompt 'Bioluminescência'\""
+title: "O Mundo Fantástico do Prompt de Bioluminescência"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Geração de Imagem"
-description: " \"Como desenhar criaturas e ambientes que emitem luz por si mesmos como o Planeta Pandora em Avatar.\""
+description: "Aprenda a criar criaturas e ambientes que emitem luz própria, recriando a magia de mundos alienígenas como o de Pandora em Avatar, usando IA."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fantasia", "Cor"]
 ---
 
-# 📝 Brilho Fantástico: A Magia da Bioluminescência
+## 📝 Brilho Fantástico: A Magia da Bioluminescência
 
-- **🎯 Recomendado para:** Designers, Ilustradores, Criadores de Conteúdo, Entusiastas de Arte em IA
+- **🎯 Recomendado para:** Designers, ilustradores, criadores de conteúdo e entusiastas de arte com IA
 - **⏱️ Tempo necessário:** 5 minutos → Reduzido para 1 minuto
 - **🤖 Modelo recomendado:** Todos os modelos de imagem de IA (Midjourney, DALL-E 3, Stable Diffusion)
 
@@ -19,17 +19,17 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fantasia", "Cor"]
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidade:** ⭐⭐⭐⭐☆
 
-> _"Quer transportar sua audiência para uma floresta alienígena ou um oceano místico que brilha no escuro, mas a IA só entrega postes de luz sem graça?"_
+> _"Você quer transportar sua audiência para uma floresta alienígena ou um oceano místico que brilha no escuro, mas a IA só entrega postes de luz sem graça?"_
 
-A **bioluminescência** é o termo técnico utilizado para descrever organismos que emitem luz própria — pense nos vaga-lumes de uma noite de verão ou nas criaturas exóticas das profundezas do oceano. No mundo da geração de imagens por IA, esta é a palavra-chave definitiva para criar paisagens noturnas imersivas, sonhadoras e cheias de mistério.
+A **bioluminescência** é o termo técnico utilizado para descrever organismos que emitem luz própria — pense nos vaga-lumes de uma noite de verão ou nas criaturas exóticas das profundezas do oceano. No universo da geração de imagens por IA, esta é a palavra-chave definitiva para criar paisagens noturnas imersivas, oníricas e repletas de mistério.
 
 ---
 
 ## ⚡️ Resumo em 3 linhas (TL;DR)
 
-1. Use a palavra `Bioluminescence` para garantir um efeito de iluminação orgânico e auto-luminoso.
-2. Especifique cores brilhantes concretas e vibrantes, como `Neon blue` ou `Glowing green`.
-3. Configure o fundo como `Pitch black night` ou `Dark underwater` para que a luz se destaque dramaticamente.
+1. Use a palavra-chave `Bioluminescence` para garantir um efeito de iluminação orgânico e auto-luminoso.
+2. Especifique cores brilhantes intensas e vibrantes, como `Neon blue` ou `Glowing green`.
+3. Configure o fundo como `Pitch black night` ou `Dark underwater` para que a luz se destaque de forma dramática.
 
 ---
 
@@ -37,27 +37,26 @@ A **bioluminescência** é o termo técnico utilizado para descrever organismos 
 
 ### 🥉 Versão Básica (Acesso Rápido)
 
-Use esta versão quando precisar de um resultado rápido e direto ao ponto no Midjourney ou DALL-E.
+Utilize esta versão quando precisar de um resultado ágil e direto ao ponto no Midjourney ou DALL-E.
 
-> **Prompt de Imagem:** `[Floresta mágica à noite]`, bioluminescência, cogumelos brilhantes `[verde neon]`, atmosfera surreal, iluminação cinematográfica, fundo escuro e profundo, detalhes em 8k.
-
+> **Prompt de Imagem:** `[floresta mágica à noite]`, bioluminescência, cogumelos brilhantes `[verde neon]`, atmosfera surreal, iluminação cinematográfica, fundo escuro e profundo, detalhes em 8k.
 
 ### 🥇 Versão Pro (Meta-Prompt Especialista)
 
-Utilize este prompt no ChatGPT ou Claude para gerar os prompts de imagem mais detalhados e precisos para qualquer cenário bioluminescente.
+Aplique este prompt no ChatGPT ou Claude para gerar os prompts de imagem mais detalhados e precisos para qualquer cenário bioluminescente.
 
-> **Papel (Role):** Você é um `[Diretor de Fotografia de Fantasia]` especialista em mundos alienígenas e iluminação orgânica.
+> **Papel (Role):** Você é um `[diretor de fotografia de fantasia]` especialista em mundos alienígenas e iluminação orgânica.
 >
 > **Situação (Context):**
 >
-> - Cenário base: `[Um ecossistema subterrâneo escondido]`
-> - Objetivo: `[Gerar 3 prompts em inglês perfeitos para o Midjourney v6 focados no contraste entre escuridão absoluta e emissão de luz orgânica]`
+> - Cenário base: `[um ecossistema subterrâneo escondido]`
+> - Objetivo: `[gerar 3 prompts em inglês perfeitos para o Midjourney v6 focados no contraste entre escuridão absoluta e emissão de luz orgânica]`
 >
 > **Solicitação (Task):**
 >
 > 1. Escreva prompts detalhados descrevendo elementos que emitem luz (ex: cogumelos translúcidos, águas-vivas flutuantes, veias de plantas).
 > 2. Utilize termos técnicos de fotografia (ex: macro photography, subsurface scattering, depth of field).
-> 3. Deixe `[Cor do Brilho]` e `[Criatura/Planta Principal]` como variáveis em colchetes para que eu possa customizar.
+> 3. Deixe `[cor do brilho]` e `[criatura ou planta principal]` como variáveis entre colchetes para que eu possa customizar.
 >
 > **Restrições (Constraints):**
 >

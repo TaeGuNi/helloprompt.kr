@@ -6,7 +6,7 @@ image: "https://picsum.photos/seed/legacy/800/600"
 tags: ["AI", "Tech", "legacy-code-ai"]
 ---
 
-# 📝 Moderniser le code legacy avec l'IA : Le guide définitif
+## 📝 Moderniser le code legacy avec l'IA : Le guide définitif
 
 - **🎯 Public cible :** Développeurs seniors, Tech Leads, Ingénieurs logiciels
 - **⏱️ Temps estimé :** Plusieurs heures d'analyse → Réduites à 5 minutes
@@ -18,7 +18,7 @@ tags: ["AI", "Tech", "legacy-code-ai"]
 
 > _"Le code legacy n'est pas seulement du vieux code, c'est le code de quelqu'un d'autre, celui que l'on a la hantise de casser. Et si vous laissiez l'IA enfiler le costume de détective ?"_
 
-Moderniser un code legacy est sans doute l'une des tâches les plus redoutées par les développeurs. Il faut souvent plonger les mains dans le cambouis, au cœur de bases de code fantômes, sans la moindre documentation, truffées de dépendances obsolètes et animées par une logique métier totalement obscure. Aujourd'hui, nous allons découvrir comment faire de l'IA votre meilleure alliée — non pas pour tout réécrire à l'aveugle, mais pour décrypter, documenter et refactoriser ce code en toute sécurité.
+Moderniser un code legacy est sans doute l'une des tâches les plus redoutées par les développeurs. Il faut souvent plonger les mains dans le cambouis, au cœur de bases de code fantômes dépourvues de toute documentation, truffées de dépendances obsolètes et animées par une logique métier totalement obscure. Aujourd'hui, nous allons découvrir comment faire de l'IA votre meilleure alliée — non pas pour tout réécrire à l'aveugle, mais pour décrypter, documenter et refactoriser ce code en toute sécurité.
 
 ---
 
@@ -82,7 +82,7 @@ La pire erreur lors de la modernisation d'un code legacy ? Céder à la tentatio
 ## 🙋 Foire aux questions (FAQ)
 
 - **Q : L'IA est-elle capable de traiter d'immenses fichiers monolithiques ?**
-  - R : Les modèles récents bénéficient d'une fenêtre de contexte massive (par exemple, 200 000 tokens pour Claude 3.5 Sonnet), ce qui leur permet d'ingurgiter de très gros fichiers. Néanmoins, pour garantir une précision chirurgicale lors du refactoring, il est toujours vivement recommandé de segmenter votre requête, fonction par fonction ou classe par classe.
+  - R : Les modèles récents bénéficient d'une fenêtre de contexte massive (par exemple, 200 000 tokens pour Claude 3.5 Sonnet), ce qui leur permet d'ingérer de très gros fichiers. Néanmoins, pour garantir une précision chirurgicale lors du refactoring, il est toujours vivement recommandé de segmenter votre requête, fonction par fonction ou classe par classe.
 
 - **Q : Est-il prudent de partager du code propriétaire avec une IA ?**
   - R : La confidentialité des données de votre entreprise est une priorité absolue. N'utilisez ce prompt qu'au travers d'abonnements IA d'entreprise (ou via des API privées qui certifient que vos données ne serviront pas à l'entraînement du modèle). À défaut, prenez grand soin d'anonymiser systématiquement les clés API, les mots de passe et toute autre donnée sensible avant de soumettre la moindre ligne de code.
@@ -92,8 +92,8 @@ La pire erreur lors de la modernisation d'un code legacy ? Céder à la tentatio
 ## 🧬 Anatomie du prompt (Pourquoi ça marche ?)
 
 1. **Séquençage sécuritaire :** Le prompt oblige l'IA à déployer un véritable filet de sécurité (la génération de tests de régression) avant même de lui laisser esquisser la moindre ligne de nouveau code.
-2. **Anticipation des effets de bord :** En exigeant l'identification explicite de chaque effet de bord, nous neutralisons d'emblée les bugs silencieux qui ont l'habitude de pulluler lors des transitions de code.
-3. **Garde-fous stricts :** La directive interdisant fermement de "modifier la logique métier" garantit que le refactoring demeure une opération purement structurelle (exclusivement axée sur la lisibilité et la maintenabilité), sans jamais compromettre le cœur du système.
+2. **Anticipation des effets de bord :** En exigeant l'identification explicite de chaque effet de bord, nous neutralisons d'emblée les bugs silencieux qui ont l'habitude de pulluler lors des refontes de code.
+3. **Garde-fous stricts :** La directive interdisant fermement de modifier la logique métier garantit que le refactoring demeure une opération purement structurelle (exclusivement axée sur la lisibilité et la maintenabilité), sans jamais compromettre le cœur du système.
 
 ---
 

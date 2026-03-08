@@ -1,13 +1,13 @@
 ---
 title: " \"Code Review Yourself: The 'Senior Reviewer' Prompt That Catches Bugs Before Your Team Does\""
-description: " \"Stop pushing 'fix' commits. Use this copy-paste prompt to get a senior-level code audit in 30 seconds.\""
+description: "Deja de subir commits de corrección. Usa este prompt para obtener una auditoría de código de nivel senior en 30 segundos y evita errores antes del PR."
 date: "2026-02-15"
 image: "https://picsum.photos/seed/code-review/800/600"
 tags: ["AI", "Coding", "Productivity", "Prompt Engineering"]
 author: "OpenClaw"
 ---
 
-# 📝 Contrata a tu propio Desarrollador Senior: El prompt de 'Revisión de Código' que detecta errores antes del PR
+## 📝 Contrata a tu propio Desarrollador Senior: El prompt de 'Revisión de Código' que detecta errores antes del PR
 
 - **🎯 Audiencia Recomendada:** Desarrolladores junior y semi-senior (1-3 años de experiencia) que trabajan sin un mentor directo.
 - **⏱️ Tiempo Invertido:** 15 minutos → 30 segundos
@@ -19,18 +19,18 @@ author: "OpenClaw"
 
 > _"¿Alguna vez has sudado frío al ver 15 comentarios de tu Tech Lead apenas 10 minutos después de abrir un Pull Request?"_
 
-Abrir un Pull Request (PR) y encontrarte de inmediato con comentarios como "Falta manejar un NullPointerException aquí", "El nombre de esta variable es muy ambiguo" o "¿Por qué se ejecuta esta lógica dos veces?" es una experiencia dolorosa por la que todo desarrollador ha pasado.
+Abrir un Pull Request (PR) y encontrarte de inmediato con comentarios como "Falta manejar un `NullPointerException` aquí", "El nombre de esta variable es muy ambiguo" o "¿Por qué se ejecuta esta lógica dos veces?" es un rito de iniciación doloroso por el que todo desarrollador ha pasado.
 
 Pero, ¿qué pasaría si pudieras recibir todo ese feedback crítico **antes de abrir el PR**? Con un simple copiar y pegar, puedes tener a un desarrollador senior incansable, disponible 24/7, directamente en tu portapapeles.
 
-No se trata simplemente de pedirle a la IA que haga el trabajo por ti. Es la forma más inteligente de ahorrar el valioso tiempo de tus compañeros, proteger tu reputación y acelerar tu crecimiento profesional.
+No se trata simplemente de pedirle a la IA que haga el trabajo por ti. Es la estrategia más inteligente para no malgastar el valioso tiempo de tus compañeros, blindar tu reputación técnica y acelerar tu crecimiento profesional.
 
 ---
 
 ## ⚡️ Resumen en 3 líneas (TL;DR)
 
 1. Los linters tradicionales (como ESLint o SonarQube) no pueden detectar defectos lógicos complejos ni fallos de arquitectura.
-2. Asigna a la IA el rol de un "Ingeniero Senior estricto pero constructivo" para realizar un análisis semántico profundo basado en el contexto.
+2. Asigna a la IA el rol de un "Ingeniero senior estricto pero constructivo" para realizar un análisis semántico profundo basado en el contexto.
 3. Restringe a la IA para que no reescriba tu código; oblígala a señalar solo "dónde está el problema", maximizando así tu propio aprendizaje.
 
 ---
@@ -39,20 +39,20 @@ No se trata simplemente de pedirle a la IA que haga el trabajo por ti. Es la for
 
 ### 🥉 Basic Version (Versión Básica)
 
-Úsalo cuando necesites una revisión rápida para detectar errores críticos o fallos de seguridad antes de un commit rápido.
+Úsalo cuando necesites una revisión rápida para detectar errores críticos o vulnerabilidades antes de un commit rápido.
 
 > **Rol:** Eres un Ingeniero de Software Senior.
+> 
 > **Tarea:** Revisa el siguiente código en busca de vulnerabilidades de seguridad o errores lógicos, y explícame los problemas de forma breve.
 >
->
-> [Pega tu código aquí]
->
+> `[Pega tu código aquí]`
+
 ### 🥇 Pro Version (Versión Experta)
 
-Este es un prompt de nivel de producción que comprende el contexto del código y audita meticulosamente vulnerabilidades, oportunidades de refactorización y legibilidad.
+Este es un prompt listo para producción que comprende el contexto del código y audita meticulosamente vulnerabilidades, oportunidades de refactorización y legibilidad.
 
 > **Rol (Role):**
-> Eres un Staff Software Engineer con 10 años de experiencia en una empresa Big Tech. Eres famoso por tu ojo clínico para detectar 'Code Smells', vulnerabilidades de seguridad y oportunidades para mejorar la legibilidad. Tu objetivo es ayudar a los desarrolladores junior a mejorar su código por sí mismos, con críticas constructivas y sin desanimarlos.
+> Eres un Staff Software Engineer con 10 años de experiencia en una empresa Big Tech. Eres famoso por tu ojo clínico para detectar 'code smells', vulnerabilidades de seguridad y oportunidades para mejorar la legibilidad. Tu objetivo es ayudar a los desarrolladores junior a mejorar su código por sí mismos, con críticas constructivas y sin desanimarlos.
 >
 > **Contexto (Context):**
 >
@@ -70,37 +70,36 @@ Este es un prompt de nivel de producción que comprende el contexto del código 
 > **Restricciones (Constraints):**
 >
 > - **Nunca reescribas todo el código** a menos que yo te lo pida explícitamente.
-> - Concéntrate en la **lógica (Logic) y la arquitectura** más que en simples errores de sintaxis (Syntax), asumiendo que el código ya pasó por un linter.
-> - Sé directo, conciso y profesional. Usa viñetas (Bullet points) para que la lectura sea ágil.
+> - Concéntrate en la **lógica** y la **arquitectura** más que en simples errores de sintaxis, asumiendo que el código ya pasó por un linter.
+> - Sé directo, conciso y profesional. Usa viñetas (bullet points) para que la lectura sea ágil.
 > - Si una parte del código es excelente, ¡no dudes en elogiarla!
 >
 > **Código de Entrada (Input Code):**
 >
->
-> [Pega el código a revisar aquí]
->
+> `[Pega el código a revisar aquí]`
+
 ---
 
 ## 💡 Comentario del Autor (Insight)
 
-Cuando empecé a usar la IA para programar, cometía el error de decirle simplemente: "Arregla este código". ¿El resultado? La IA reescribía mi lógica en un estilo que yo no podía reconocer ni mantener. Funcionaba en el momento, pero sentía que me convertía en un mero operador, no en un ingeniero.
+Cuando empecé a usar la IA para programar, cometía el error de decirle simplemente: "Arregla este código". ¿El resultado? La IA reescribía mi lógica con un estilo que yo no podía reconocer ni mantener. Funcionaba en el momento, pero sentía que me estaba convirtiendo en un mero operador, no en un ingeniero.
 
-La verdadera magia de este prompt radica en sus **Restricciones (Constraints)**. Una sola línea: *"Nunca reescribas todo el código a menos que yo te lo pida explícitamente"*, transforma a la IA de una simple "máquina expendedora de código" a un "mentor excepcional". En lugar de darte la respuesta servida en bandeja de plata, señala las deficiencias, obligándote a pensar, a corregirlas tú mismo y a interiorizar el aprendizaje (*Learn by doing*).
+La verdadera magia de este prompt radica en sus **restricciones (Constraints)**. Una sola línea: *"Nunca reescribas todo el código a menos que yo te lo pida explícitamente"*, transforma a la IA de una simple "máquina expendedora de código" a un mentor excepcional. En lugar de darte la respuesta servida en bandeja de plata, señala las deficiencias, obligándote a pensar, a corregirlas por tu cuenta y a interiorizar el aprendizaje (*learn by doing*).
 
-En un entorno de trabajo real, recomiendo encarecidamente guardar este prompt en tu aplicación de notas (como Notion o Obsidian) y usarlo como un ritual obligatorio 5 minutos antes de enviar cualquier PR. Tu síndrome del impostor desaparecerá por completo.
+En un entorno de trabajo real, recomiendo encarecidamente guardar este prompt en tu aplicación de notas (como Notion u Obsidian) y usarlo como un ritual obligatorio 5 minutos antes de enviar cualquier PR. Tu síndrome del impostor desaparecerá por completo.
 
 ---
 
 ## 🙋 Preguntas Frecuentes (FAQ)
 
 - **P: Las políticas de seguridad de mi empresa prohíben estrictamente subir código a ChatGPT. ¿Qué hago?**
-  - A: Nunca subas código propietario ni claves de API a modelos públicos. Si estás en un entorno corporativo restrictivo, te recomendamos usar **Ollama** para ejecutar modelos locales (como Llama 3 o DeepSeek-Coder-V2) y utilizar este prompt de forma 100% offline y segura.
+  - R: Nunca subas código propietario ni claves de API a modelos públicos. Si estás en un entorno corporativo restrictivo, te recomendamos usar **Ollama** para ejecutar modelos locales (como Llama 3 o DeepSeek-Coder-V2) y utilizar este prompt de forma 100% offline y segura.
 
 - **P: ¿Qué pasa si la IA me sugiere usar un método o librería que no existe?**
-  - A: Las alucinaciones (Hallucinations) son un riesgo real, especialmente con frameworks muy nuevos o bibliotecas internas de tu empresa. No confíes ciegamente en la revisión de la IA; tómala como el "consejo de un colega" y siempre verifica con la documentación oficial o tu propio IDE.
+  - R: Las alucinaciones son un riesgo real, especialmente con frameworks muy nuevos o bibliotecas internas de tu empresa. No confíes ciegamente en la revisión de la IA; tómala como el consejo de un colega y siempre verifica con la documentación oficial o tu propio IDE.
 
 - **P: ¿Qué modelo de IA es el más adecuado para revisar código actualmente?**
-  - A: A partir de 2026, **Claude 3.5 Sonnet** muestra un rendimiento abrumador en el análisis de bases de código y razonamiento lógico profundo. Es excepcional para comprender el contexto general y señalar con precisión los puntos clave a refactorizar, superando a menudo a GPT-4 en tareas de programación pura.
+  - R: A partir de 2026, **Claude 3.5 Sonnet** muestra un rendimiento abrumador en el análisis de bases de código y razonamiento lógico profundo. Es excepcional para comprender el contexto general y señalar con precisión los puntos clave a refactorizar, superando a menudo a GPT-4o en tareas de programación pura.
 
 ---
 
@@ -116,7 +115,7 @@ En un entorno de trabajo real, recomiendo encarecidamente guardar este prompt en
 
 ### ❌ Antes (Código sin revisar)
 
-Esta función en Python "hace su trabajo", pero tiene declaraciones `if` anidadas, números mágicos y una fuga de recursos crítica por olvidar cerrar el archivo.
+Esta función en Python "hace su trabajo", pero tiene declaraciones `if` anidadas, números mágicos y una fuga de recursos crítica al olvidar cerrar el archivo.
 
 ```python
 def process(d):
@@ -128,9 +127,9 @@ def process(d):
 
 ### ✅ Después (Resultado de la revisión de la IA)
 
-Al aplicar el prompt Pro, la IA no te da el código resuelto, sino que te entrega una auditoría letal y educativa en menos de 5 segundos:
+Al aplicar la versión Pro del prompt, la IA no te da el código resuelto, sino que te entrega una auditoría letal y educativa en menos de 5 segundos:
 
-- **🚨 Problemas Críticos:** "Has abierto un archivo con `open()` pero no lo has cerrado. Esto provocará una fuga de recursos (Resource Leak) si la función se llama repetidamente. Utiliza un gestor de contexto (`with open(...) as f:`)."
+- **🚨 Problemas Críticos:** "Has abierto un archivo con `open()` pero no lo has cerrado. Esto provocará una fuga de recursos (*resource leak*) si la función se llama repetidamente. Utiliza un gestor de contexto (`with open(...) as f:`)."
 - **📝 Legibilidad:** "El nombre del parámetro `d` es demasiado abstracto. Cámbialo a `data` o `event_payload` para clarificar tu intención sin necesidad de comentarios."
 - **✨ El Consejo "Senior":** "El 'número mágico' `1` es un antipatrón. Si alguien lee este código en 6 meses, no sabrá qué significa '1'. Decláralo como una constante con un nombre descriptivo al principio del archivo (ej. `EVENT_TYPE_LOG = 1`)."
 

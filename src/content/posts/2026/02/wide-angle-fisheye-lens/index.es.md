@@ -1,18 +1,18 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Efecto de Lente 'Gran Angular & Ojo de Pez' de Sensación Espacial Abrumadora\""
+title: "Efecto de lente 'Gran Angular y Ojo de Pez': Sensación espacial abrumadora"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generación de Imágenes"
-description: " \"Prompts de lentes Gran Angular y Ojo de Pez para capturar espacios reducidos con gran amplitud y paisajes majestuosos en una sola toma.\""
+description: "Prompts de lentes gran angular y ojo de pez para capturar espacios reducidos con gran amplitud y paisajes majestuosos en una sola toma."
 tags:
   ["Midjourney", "DALL-E", "Stable Diffusion", "Ángulo de Cámara", "Paisaje"]
 ---
 
-# 📝 Sensación Espacial Abrumadora: Gran Angular & Ojo de Pez
+## 📝 Sensación Espacial Abrumadora: Gran Angular & Ojo de Pez
 
-- **🎯 Recomendado para:** Diseñadores, Fotógrafos Virtuales, Entusiastas de la IA
+- **🎯 Recomendado para:** Diseñadores, fotógrafos virtuales, entusiastas de la IA
 - **⏱️ Tiempo requerido:** 5 minutos → Reducido a 1 minuto
 - **🤖 Modelo recomendado:** Midjourney, DALL-E 3, Stable Diffusion
 
@@ -22,7 +22,7 @@ tags:
 
 > _"¿Por qué mis paisajes generados por IA siempre se ven tan planos y recortados, perdiendo toda la majestuosidad del entorno?"_
 
-El **Gran Angular (Wide Angle)** aporta una magnificencia inigualable al expandir drásticamente el campo de visión, mientras que el **Ojo de Pez (Fisheye)** ofrece una distorsión visual esférica, dinámica y tremendamente inmersiva. Son herramientas indispensables a la hora de transformar interiores angostos en espacios expansivos o para capturar la inmensidad sobrecogedora de la naturaleza.
+El **gran angular (Wide Angle)** aporta una magnificencia inigualable al expandir drásticamente el campo de visión, mientras que el **ojo de pez (Fisheye)** ofrece una distorsión visual esférica, dinámica y tremendamente inmersiva. Estas lentes virtuales son herramientas indispensables cuando necesitas transformar interiores angostos en espacios expansivos, o capturar la inmensidad sobrecogedora de la naturaleza en una sola imagen. Si estás cansado de resultados claustrofóbicos, dominar estos parámetros cambiará por completo la escala épica de tus composiciones.
 
 ---
 
@@ -40,9 +40,8 @@ El **Gran Angular (Wide Angle)** aporta una magnificencia inigualable al expandi
 
 Úsala cuando necesites amplitud de forma inmediata y sin complicaciones.
 
-> **Rol:** Eres un fotógrafo profesional especializado en paisajes y arquitectura.
-> **Solicitud:** Genera un prompt para crear una imagen utilizando un lente gran angular o de ojo de pez para capturar un `[espacio estrecho o paisaje]` con máxima amplitud en una sola toma.
-
+> **Rol (Role):** Eres un fotógrafo profesional especializado en paisajes y arquitectura.
+> **Solicitud (Task):** Genera un prompt para crear una imagen utilizando un lente gran angular o de ojo de pez para capturar un `[espacio estrecho o paisaje]` con máxima amplitud en una sola toma.
 
 ### 🥇 Pro Version (Versión Experta)
 
@@ -80,7 +79,7 @@ El **Gran Angular (Wide Angle)** aporta una magnificencia inigualable al expandi
 
 ## 💡 Comentario del Autor (Insight)
 
-En mi experiencia generando cientos de entornos espaciales y arquitectónicos, simplemente pedir "un lugar grande" suele resultar en composiciones planas. El verdadero secreto para lograr esa sensación de inmensidad (escala épica) no radica en describir el tamaño del lugar, sino en **forzar el hardware virtual de la cámara**.
+En mi experiencia generando cientos de entornos espaciales y arquitectónicos, pedir simplemente "un lugar grande" suele resultar en composiciones planas y sin vida. El verdadero secreto para lograr esa sensación de inmensidad (escala épica) no radica en describir el tamaño del lugar, sino en **forzar el hardware virtual de la cámara**.
 
 Al especificar lentes como `14mm lens` o `fisheye distortion`, la IA se ve obligada a curvar los bordes de la imagen, introduciendo líneas de fuga extremas. Esta técnica es especialmente impactante en Midjourney v6 cuando se combina con relaciones de aspecto panorámicas como `--ar 16:9` o `--ar 21:9`. Si notas que el ojo de pez deforma demasiado a los personajes centrales, cambia `fisheye distortion` por `rectilinear ultra-wide` para mantener las líneas arquitectónicas rectas conservando la espectacular amplitud.
 
@@ -92,16 +91,16 @@ Al especificar lentes como `14mm lens` o `fisheye distortion`, la IA se ve oblig
   - A: Sí, DALL-E 3 comprende perfectamente términos como "fisheye lens" y "ultra-wide angle". Sin embargo, ignora los parámetros técnicos del final como `--ar 16:9` o `--v 6.0`, por lo que puedes omitirlos si usas ChatGPT.
 
 - **Q: La imagen sale demasiado deformada en los bordes, ¿cómo lo arreglo?**
-  - A: Eso es un efecto secundario natural del lente "Ojo de pez". Si quieres amplitud sin tanta distorsión curva, elimina la palabra `fisheye` y utiliza únicamente `14mm lens` junto con `architectural photography`.
+  - A: Ese es un efecto secundario natural del lente de ojo de pez. Si buscas amplitud sin tanta distorsión curva, elimina la palabra `fisheye` y utiliza únicamente `14mm lens` junto con `architectural photography`.
 
 - **Q: ¿Puedo usar esto para retratos de personajes?**
-  - A: ¡Por supuesto! Un lente gran angular cerca del rostro de un personaje crea un efecto intenso, dinámico y ligeramente distorsionado (muy popular en el estilo hip-hop de los 90 y fotografía de moda vanguardista). Prueba añadir `close-up shot, fisheye lens` a tu prompt de retrato.
+  - A: ¡Por supuesto! Un lente gran angular cerca del rostro de un personaje crea un efecto intenso, dinámico y ligeramente distorsionado (muy popular en el estilo hip-hop de los años 90 y en la fotografía de moda vanguardista). Prueba añadir `close-up shot, fisheye lens` a tu prompt de retrato.
 
 ---
 
 ## 🧬 Anatomía del Prompt (¿Por qué funciona?)
 
-1.  **Distancia focal específica (`14mm lens`):** Aporta precisión técnica. A los modelos de IA se les entrenó con metadatos fotográficos reales, por lo que reaccionan mucho mejor a "14mm" que a un ambiguo "muy amplio".
+1.  **Distancia focal específica (`14mm lens`):** Aporta precisión técnica. Los modelos de IA han sido entrenados con metadatos fotográficos reales, por lo que reaccionan mucho mejor a "14mm" que a un ambiguo "muy amplio".
 2.  **Modificadores de distorsión (`fisheye distortion`):** Obliga al modelo a aplicar la característica curvatura de barril, lo que enfatiza el centro de la imagen y empuja los bordes hacia atrás, creando una profunda inmersión tridimensional.
 3.  **Contexto estilístico (`immersive perspective`):** Le indica a la IA que el propósito compositivo de la imagen es hacer que el espectador se sienta dentro del entorno, ajustando la escala humana y los puntos de fuga en consecuencia.
 
@@ -115,7 +114,7 @@ Al especificar lentes como `14mm lens` o `fisheye distortion`, la IA se ve oblig
 Interior of a futuristic spaceship cockpit, glowing buttons, view of earth.
 ```
 
-_(Resultado: Un ángulo cerrado, asfixiante, donde solo se ve un panel de control recortado y un pequeño trozo de ventana.)_
+_(Resultado: Un ángulo cerrado y asfixiante, donde solo se ve un panel de control recortado y un pequeño trozo de ventana.)_
 
 ### ✅ After (Resultado con Gran Angular)
 
@@ -123,7 +122,7 @@ _(Resultado: Un ángulo cerrado, asfixiante, donde solo se ve un panel de contro
 Interior of a small futuristic spaceship cockpit, glowing buttons, view of earth through window. Ultra wide angle lens, 14mm lens, fisheye distortion, photorealistic, 8k. --ar 16:9
 ```
 
-_(Resultado: Una imagen majestuosa y expansiva que muestra toda la cabina envolvente, los asientos, y la inmensa curvatura de la Tierra dominando el exterior, generando un impacto visual espectacular.)_
+_(Resultado: Una imagen majestuosa y expansiva que muestra toda la cabina envolvente, los asientos y la inmensa curvatura de la Tierra dominando el exterior, generando un impacto visual espectacular.)_
 
 ---
 

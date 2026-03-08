@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "업무 효율화"
-description: "Para os desenvolvedores que perdem tempo vasculhando o GitHub para lembrar o que fizeram no dia anterior: transforme seus logs de commit em um roteiro perfeito para a Daily Stand-up em questão de segundos."
+description: "Desenvolvedor, pare de perder tempo no GitHub antes da Daily! Converta seus logs de commit em um roteiro perfeito para a Stand-up em segundos com IA."
 tags: ["스탠드업", "회의준비", "개발자", "회고"]
 ---
 
-# 📝 Resumo do Trabalho de Ontem e Preparação para a Daily em 1 Minuto
+## 📝 Resumo do Trabalho de Ontem e Preparação para a Daily em 1 Minuto
 
 - **🎯 Público-Alvo:** Desenvolvedores, Product Managers, Analistas de Dados e Juniores
 - **⏱️ Tempo Gasto:** 30 minutos → 1 minuto
@@ -21,13 +21,13 @@ tags: ["스탠드업", "회의준비", "개발자", "회고"]
 
 > _"Você já perdeu um tempo precioso vasculhando seu histórico de commits logo pela manhã, apenas tentando lembrar o que fez no dia anterior antes da Daily Stand-up?"_
 
-Todas as manhãs, a temida Daily Stand-up se aproxima, mas a sua mente insiste em dar um branco. Você abre o GitHub às pressas, corre os olhos pelos cards do Jira e tenta, de forma caótica, juntar as peças do que produziu no dia anterior. Esse ritual não apenas consome um tempo valioso logo no início do expediente, mas também gera uma ansiedade completamente desnecessária. Já imaginou se você pudesse pegar aqueles logs de commit frios, técnicos e confusos, e transformá-los magicamente em um roteiro de atualização impecável, com foco em negócio e zero estresse, em menos de 60 segundos?
+A temida Daily Stand-up se aproxima e, de repente, dá aquele branco. Você abre o GitHub às pressas, varre os cards do Jira e tenta, desesperadamente, juntar as peças do que produziu no dia anterior. Esse ritual não apenas consome um tempo valioso da sua manhã, como também gera uma ansiedade completamente desnecessária. E se você pudesse pegar aqueles logs de commit frios, técnicos e confusos, e transformá-los magicamente em um roteiro impecável — focado no impacto e com zero estresse — em menos de 60 segundos?
 
 ---
 
 ## ⚡️ Resumo em 3 Linhas (TL;DR)
 
-1. Fim da caçada aos commits: deixe a IA organizar e estruturar seu histórico de trabalho diário.
+1. Fim da caçada aos commits: deixe a IA organizar e estruturar o seu histórico de trabalho diário.
 2. Converta jargões técnicos em atualizações de status focadas no impacto real para os negócios.
 3. Esteja blindado para qualquer Daily Stand-up com um roteiro cristalino, que pode ser lido em menos de um minuto.
 
@@ -40,6 +40,7 @@ Todas as manhãs, a temida Daily Stand-up se aproxima, mas a sua mente insiste e
 Ideal para quando o tempo está curto e você precisa apenas de um rascunho veloz.
 
 > **Papel:** Você é um `[Desenvolvedor Sênior]`.
+> 
 > **Tarefa:** Transforme a seguinte `[Lista de Tarefas ou Commits]` em um resumo conciso, estruturado em bullet points, para a Daily Stand-up de hoje.
 
 ### 🥇 Pro Version (Versão Profissional)
@@ -74,7 +75,7 @@ Recomendada para quem busca o nível máximo de clareza e detalhamento, perfeita
 
 ## 💡 Comentário do Autor (Insight)
 
-A maior armadilha nas Daily Stand-ups é mergulhar demais no "tecniquês" e acabar perdendo a atenção de toda a equipe. O Product Manager não quer saber se você "substituiu um loop for por um map na linha 42"; o que importa para ele é que você "resolveu o travamento na tela de pagamentos". É exatamente aí que este prompt brilha: ele atua como um tradutor instantâneo, convertendo o seu "esforço técnico bruto" em "impacto real no projeto".
+A maior armadilha nas Daily Stand-ups é mergulhar demais no **tecniquês** e acabar perdendo a atenção da equipe. O Product Manager não quer saber se você *"substituiu um loop for por um map na linha 42"*; o que importa para ele é que você **"resolveu o travamento na tela de pagamentos"**. É exatamente aí que este prompt brilha: ele atua como um tradutor instantâneo, convertendo o seu **esforço técnico bruto** em **impacto real no projeto**.
 
 No meu dia a dia, a primeira coisa que faço ao abrir o terminal pela manhã é rodar `git log --author="Meu Nome" --since=yesterday --oneline`. Copio a saída bruta e jogo direto na variável `[Histórico de Commits]`. Essa simples rotina transformou aqueles 15 minutos de pânico matinal em apenas 1 minuto de preparação extremamente tranquila. Assim, eu começo o meu dia com foco total no código, em vez de gastar energia elaborando discursos.
 

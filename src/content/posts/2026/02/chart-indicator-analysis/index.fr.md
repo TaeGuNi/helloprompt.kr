@@ -1,15 +1,15 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Interprète d'Indicateur Auxiliaire de Graphique : Saisir le Moment d'Achat\""
+title: "Interprète d'Indicateurs Techniques : Saisir le Moment d'Achat"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investissement"
-description: " \"L'IA interprète facilement les indicateurs graphiques complexes tels que le RSI, le MACD et les bandes de Bollinger.\""
+description: "L'IA interprète facilement les indicateurs graphiques complexes tels que le RSI, le MACD et les bandes de Bollinger."
 tags: ["Action", "AnalyseGraphique", "AnalyseTechnique", "Trading"]
 ---
 
-# 📝 Interprète d'Indicateurs Techniques : Saisir le Moment d'Achat
+## 📝 Interprète d'Indicateurs Techniques : Saisir le Moment d'Achat
 
 - **🎯 Recommandé pour :** Investisseurs débutants, traders amateurs, passionnés de finance
 - **⏱️ Temps requis :** 5 minutes → Réduit à 1 minute
@@ -19,17 +19,17 @@ tags: ["Action", "AnalyseGraphique", "AnalyseTechnique", "Trading"]
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
 - 🚀 **Utilité :** ⭐⭐⭐⭐☆
 
-> _"Croisement doré ? Survente ? Les jargons techniques vous font-ils rater les meilleures opportunités d'achat ?"_
+> _"Croisement doré ? Survente ? Le jargon technique vous fait-il rater les meilleures opportunités d'achat ?"_
 
-L'analyse technique est un atout redoutable pour anticiper les mouvements du marché, mais déchiffrer une multitude d'indicateurs peut vite devenir un véritable casse-tête. Ce prompt transforme l'IA en votre analyste personnel : il décrypte les signaux graphiques les plus complexes et vous livre une recommandation claire et objective (Acheter, Vendre ou Conserver) basée sur les données réelles du marché.
+L'analyse technique est un atout redoutable pour anticiper les mouvements du marché, mais déchiffrer une multitude d'indicateurs peut vite devenir un véritable casse-tête. Ce prompt transforme l'IA en votre analyste personnel : elle décrypte les signaux graphiques les plus complexes et vous livre une recommandation claire et objective (Acheter, Vendre ou Conserver) basée sur les données réelles du marché.
 
 ---
 
 ## ⚡️ Résumé en 3 points (TL;DR)
 
-1. **Analyse instantanée :** L'IA interprète l'état actuel des indicateurs clés (RSI, MACD, Moyennes mobiles) en un clin d'œil.
+1. **Analyse instantanée :** L'IA interprète l'état actuel des indicateurs clés (RSI, MACD, moyennes mobiles) en un clin d'œil.
 2. **Prise de décision claire :** Obtenez une recommandation nette (Achat/Vente/Conserver) accompagnée d'un pourcentage de probabilité.
-3. **Gestion des risques :** Générez automatiquement des niveaux de Stop-loss et de prise de profit (Take-profit) pour sécuriser vos positions.
+3. **Gestion des risques :** Générez automatiquement des niveaux de prise de profit (Take-profit) et de stop-loss pour sécuriser vos positions.
 
 ---
 
@@ -41,7 +41,6 @@ Idéale pour obtenir une interprétation rapide d'un indicateur précis sans ent
 
 > **Rôle :** Tu es un `[Trader Technique Professionnel]` avec 15 ans d'expérience sur les marchés financiers.
 > **Demande :** Interprète de manière simple et accessible les indicateurs graphiques actuels de `[Nom de l'Action]`, notamment le RSI, le MACD et les Bandes de Bollinger, et dis-moi si c'est le bon moment pour l'acheter.
-
 
 ### 🥇 Version Pro (Expert Version)
 
@@ -57,9 +56,9 @@ Idéale pour obtenir une interprétation rapide d'un indicateur précis sans ent
 >
 > **Demande (Task) :**
 >
-> 1. Analyse la configuration actuelle en te basant strictement sur le **RSI (Relative Strength Index), le MACD, et les Moyennes Mobiles (20 et 60 périodes)**.
-> 2. Détermine si l'actif se trouve actuellement dans une zone de **Surachat (Overbought)** ou de **Survente (Oversold)**.
-> 3. En synthétisant ces données, définis la tendance la plus probable parmi **Signal d'Achat, Signal de Vente, ou Conserver (Wait and See)**, et attribue-lui une probabilité de réussite (ex. : Probabilité d'Achat à 70 %).
+> 1. Analyse la configuration actuelle en te basant strictement sur le **RSI (Relative Strength Index), le MACD, et les moyennes mobiles (20 et 60 périodes)**.
+> 2. Détermine si l'actif se trouve actuellement dans une zone de **surachat (Overbought)** ou de **survente (Oversold)**.
+> 3. En synthétisant ces données, définis la tendance la plus probable parmi **Signal d'Achat, Signal de Vente, ou Conserver (Wait and See)**, et attribue-lui une probabilité de réussite (ex. : Probabilité d'achat à 70 %).
 > 4. Suggère des niveaux clés : un prix cible (Take-profit) et un seuil de coupure des pertes (Stop-loss) basés sur les lignes de support et de résistance visibles.
 >
 > **Contraintes (Constraints) :**

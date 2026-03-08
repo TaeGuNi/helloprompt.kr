@@ -9,7 +9,7 @@ description: "Ein Prompt für atemberaubende Paper-Cutout- und Origami-Stile, de
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Kunststil", "Handwerk"]
 ---
 
-# 📝 Die Wärme von Papier: Paper Cutout & Origami
+## 📝 Die Wärme von Papier: Paper Cutout & Origami
 
 - **🎯 Empfohlene Zielgruppe:** Designer, Illustratoren, Content Creator, Hobbykünstler
 - **⏱️ Zeitaufwand:** 30 Minuten → auf 1 Minute verkürzt
@@ -19,17 +19,17 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Kunststil", "Handwerk"]
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
 - 🚀 **Anwendbarkeit:** ⭐⭐⭐⭐☆
 
-> _"Suchen Sie nach einer Möglichkeit, Ihren digitalen Designs ohne aufwendiges 3D-Rendering eine warme, greifbare Tiefe zu verleihen?"_
+> _"Ihre KI-generierten Bilder wirken flach und steril? Verleihen Sie ihnen ohne aufwendiges 3D-Rendering die warme, greifbare Tiefe echter Papierkunst."_
 
-Der **Paper-Cutout**- und **Origami**-Stil haucht selbst den sterilsten digitalen Artworks eine spürbare, analoge Seele ein. Es ist genau diese Kombination aus der rauen, haptischen Textur echten Papiers und der faszinierenden räumlichen Tiefe weicher Schattenwürfe, die diesen Look so unwiderstehlich und nahbar macht.
+Der **Paper-Cutout**- und **Origami**-Stil haucht selbst den kältesten digitalen Artworks eine spürbare, analoge Seele ein. Es ist genau diese einzigartige Kombination aus der rauen, haptischen Textur echten Papiers und der faszinierenden räumlichen Tiefe weicher Schattenwürfe, die diesen Look so unwiderstehlich und nahbar macht. Schluss mit dem künstlichen „KI-Look“ – erschaffen Sie stattdessen charmante Dioramen, die aussehen, als wären sie in stundenlanger Handarbeit mit Schere und Kleber gefertigt worden.
 
 ---
 
 ## ⚡️ 3-Zeilen-Zusammenfassung (TL;DR)
 
-1. Nutzen Sie die magischen Schlüsselwörter `Paper cutout art` und `Layered paper`, um die plastische Illusion übereinanderliegender Papierschichten zu erzeugen.
-2. Der Begriff `Origami` verleiht Ihren Motiven die markanten, scharfkantigen Facetten echter Faltkunst.
-3. Maximieren Sie die visuelle räumliche Tiefe durch den gezielten Einsatz von `Soft shadows` und `Depth of field`.
+1. Nutzen Sie die magischen Schlüsselwörter `Layered paper cutout art` und `paper craft`, um die plastische Illusion übereinanderliegender Papierschichten zu erzeugen.
+2. Der Begriff `Origami` verleiht Ihren Motiven bei Bedarf die markanten, scharfkantigen Facetten echter Faltkunst.
+3. Maximieren Sie die visuelle räumliche Tiefe durch den gezielten Einsatz von `Soft shadows between layers` und `Depth of field`.
 
 ---
 
@@ -37,36 +37,36 @@ Der **Paper-Cutout**- und **Origami**-Stil haucht selbst den sterilsten digitale
 
 ### 🥉 Basic Version (Grundlagen)
 
-Nutzen Sie diese Variante, wenn Sie unter Zeitdruck stehen und sofort ein überzeugendes, unkompliziertes Ergebnis brauchen.
+Nutzen Sie diese Variante, wenn Sie unter Zeitdruck stehen und sofort ein überzeugendes, unkompliziertes Ergebnis benötigen.
 
 > **Rolle:** Du bist ein professioneller Papierkünstler und Illustrator.
-> **Anfrage:** Erstelle einen Bildgenerator-Prompt im Paper-Cutout- und Origami-Stil. Das Bild soll exakt so aussehen, als bestünde es aus unzähligen, übereinandergeklebten Papierschichten mit realistischen Schattenwürfen. Thema: `[Dein Wunschthema, z. B. eine majestätische Eule im tiefen Wald]`.
+> **Anfrage:** Erstelle einen Bildgenerator-Prompt im Paper-Cutout- und Origami-Stil. Das Bild soll exakt so aussehen, als bestünde es aus unzähligen, übereinandergeklebten Papierschichten mit realistischen Schattenwürfen. Thema: [Dein Wunschthema, z. B. eine majestätische Eule im tiefen Wald].
 
 ### 🥇 Pro Version (Expertenmodus)
 
 Zünden Sie mit diesem Prompt in Midjourney oder DALL-E den Turbo, um atemberaubende Detailtreue und makellose, greifbare Papiertexturen zu erzielen.
 
-> **Rolle (Role):** Du bist ein gefeierter Meister der Papierkunst und ein absoluter Experte für den Bau von 3D-Papierschnitt-Dioramen.
+> **Role (Rolle):** Du bist ein gefeierter Meister der Papierkunst und ein absoluter Experte für den Bau von 3D-Papierschnitt-Dioramen.
 >
-> **Kontext (Context):**
+> **Context (Kontext):**
 >
 > - Hintergrund: Ich benötige eine hochauflösende Illustration, die optisch zu 100 % aus physischem, handgeschnittenem Papier zu bestehen scheint.
 > - Ziel: Erstellung eines fotorealistischen Prompts für eine Bild-KI, der die raue Textur von Bastelpapier und die natürlichen, weichen Schattenwürfe perfekt einfängt.
 >
-> **Anfrage (Task):**
+> **Task (Anfrage):**
 >
-> 1. Erstelle einen präzisen englischen Prompt basierend auf folgendem Thema: `[Gewünschtes Motiv, z. B. eine märchenhafte Landschaft mit sanften Hügeln, einer winzigen Hütte, strahlender Sonne und fluffigen Wolken]`.
+> 1. Erstelle einen präzisen englischen Prompt basierend auf folgendem Thema: [Gewünschtes Motiv, z. B. eine märchenhafte Landschaft mit sanften Hügeln, einer winzigen Hütte, strahlender Sonne und fluffigen Wolken].
 > 2. Integriere zwingend die folgenden Elemente in den Prompt:
 >    - **Style:** Layered paper cutout art, paper craft, 3D effect, depth of field, pastel color palette.
 >    - **Texture:** Textured craft paper, soft shadows between layers, intricate details.
 >    - **Parameters (nur für Midjourney):** --ar 16:9 --v 6.0 --stylize 300
 >
-> **Einschränkungen (Constraints):**
+> **Constraints (Einschränkungen):**
 >
 > - Der Prompt muss direkt und ausschließlich in englischer Sprache ausgegeben werden.
 > - Vermeide strikt jegliche fotorealistischen Objektbeschreibungen, die die Illusion des Papiers sofort ruinieren würden (wie z. B. "photorealistic skin" oder "real liquid").
 >
-> **Warnung (Warning):**
+> **Warning (Warnung):**
 >
 > - Halte den Stil konsequent analog. Das finale Bild darf unter keinen Umständen wie ein gewöhnliches, flaches digitales Gemälde wirken.
 
@@ -74,9 +74,9 @@ Zünden Sie mit diesem Prompt in Midjourney oder DALL-E den Turbo, um atemberaub
 
 ## 💡 Anmerkung des Autors (Insight)
 
-Dieser Prompt ist ein absoluter Geheimtipp für Landingpages, Pitch-Decks oder Social-Media-Grafiken, die sich wohltuend von der inflationären Masse aalglatter KI-Bilder abheben müssen. Der Paper-Cutout-Stil evoziert im Bruchteil einer Sekunde ein charmantes Gefühl von echter Handarbeit, wohliger Nostalgie und emotionaler Nähe.
+Dieser Prompt ist ein absoluter Geheimtipp für Landingpages, Pitch-Decks oder Social-Media-Grafiken, die sich wohltuend von der inflationären Masse aalglatter KI-Bilder abheben müssen. Der Paper-Cutout-Stil evoziert im Bruchteil einer Sekunde ein charmantes Gefühl von echter Handarbeit, wohliger Nostalgie und emotionaler Nähe. Wenn Sie **visuelle Aufmerksamkeit** erregen wollen, ist dieser organische Look Ihre stärkste Waffe.
 
-Gerade in Midjourney v6 entfaltet der unscheinbare Zusatz `Textured craft paper` wahre Wunder: Er zwingt die KI regelrecht dazu, die feinen, rauen Fasern echten Bastelpapiers herauszuarbeiten, was dem Bild eine fast schon unverschämt gute Haptik verleiht. Wirkt Ihnen das Ergebnis dennoch etwas zu flach? Drehen Sie einfach den `--stylize`-Wert nach oben (z. B. auf 400) oder werfen Sie das Schlüsselwort `dramatic volumetric lighting` in den Ring, um die Tiefenschatten zwischen den einzelnen Papierebenen noch dramatischer und plastischer zu modellieren.
+Gerade in Midjourney v6 entfaltet der unscheinbare Zusatz **`Textured craft paper`** wahre Wunder: Er zwingt die KI regelrecht dazu, die feinen, rauen Fasern echten Bastelpapiers herauszuarbeiten, was dem Bild eine fast schon unverschämt gute Haptik verleiht. Wirkt Ihnen das Ergebnis dennoch etwas zu flach? Drehen Sie einfach den **`--stylize`**-Wert nach oben (z. B. auf 400) oder werfen Sie das Schlüsselwort **`dramatic volumetric lighting`** in den Ring, um die Tiefenschatten zwischen den einzelnen Papierebenen noch dramatischer und plastischer zu modellieren. Die **Kontrolle über die Beleuchtung** entscheidet hier über die finale Qualität des 3D-Effekts.
 
 ---
 
@@ -84,7 +84,6 @@ Gerade in Midjourney v6 entfaltet der unscheinbare Zusatz `Textured craft paper`
 
 - **Q: Funktioniert dieser Prompt auch reibungslos für Porträts von Menschen?**
   - A: Ja, allerdings mit einem Twist: Die Gesichter werden stark stilisiert und erhalten markante, fast schon maskenhafte Züge (ein Effekt, der beim Origami-Stil extrem hervortritt). Für klassisch fotorealistische Porträts ist diese Technik daher weniger optimal – für avantgardistisches und kreatives Charakterdesign ist sie jedoch eine absolute Geheimwaffe.
-
 - **Q: Die Farben auf meinen generierten Bildern wirken viel zu künstlich und grell. Wie fixe ich das?**
   - A: Steuern Sie gezielt gegen, indem Sie Schlüsselwörter wie `muted colors`, `pastel color palette` oder `earth tones` in den Prompt aufnehmen. Der analoge Bastelpapier-Look entfaltet seine überzeugendste und realistischste Wirkung erst dann, wenn die Farbpalette erdig, natürlich und sanft gedämpft ist.
 

@@ -5,128 +5,146 @@ author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "업무 자동화"
-description: "Cansado dos 'Sim, entendi' sem alma da IA? Revelamos o prompt definitivo de defesa impenetrável que força o tratamento implacável de exceções e a recuperação de desastres."
+description: "Cansado de IAs que só entregam o 'caminho feliz'? Revele o prompt definitivo que força testes implacáveis e prepara seu código para o pior cenário."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "chaos-monkey-testing"]
 ---
-# 💣 Cheat Code Hardcore: Transforme a IA no Chaos Monkey da Netflix
 
-- **🎯 Recomendado para:** Seniores irritados com IAs que só entregam o "Happy Path" (caminho feliz) ao pedir testes, ou Juniores sofrendo sem mentoria.
-- **⏱️ Tempo gasto:** De virar a noite debugando → para 1 minuto.
-- **🤖 Modelos recomendados:** Claude 3.5 Sonnet, GPT-4o (Modelos fracos não aguentam essas regras rígidas)
+## 💣 Cheat Code Hardcore: Transforme a IA no Chaos Monkey da Netflix
+
+- **🎯 Recomendado para:** Desenvolvedores Seniores exaustos de IAs que só entregam o "Happy Path" (caminho feliz), e Juniores que sofrem sem a mentoria de um Tech Lead.
+- **⏱️ Tempo gasto:** De virar a madrugada debugando → para apenas 1 minuto.
+- **🤖 Modelos recomendados:** Claude 3.5 Sonnet, GPT-4o (Modelos menos robustos não suportam essas regras rigorosas).
 - ⭐ **Dificuldade:** ⭐⭐⭐⭐☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidade:** ⭐⭐⭐⭐⭐
 
-_A maioria dos desenvolvedores comete um erro fatal ao pedir códigos de teste para a IA. Eles dizem "Faça funcionar". É por isso que a IA traz 200 linhas de um Happy Path frágil como uma flor de estufa. Mas o campo de batalha real é um inferno._
+> _A grande maioria dos desenvolvedores comete um erro fatal ao pedir testes para a IA. Eles apenas dizem "Faça funcionar". É exatamente por isso que recebem 200 linhas de um Happy Path frágil como uma flor de estufa. Porém, no mundo real, o campo de batalha é um verdadeiro inferno._
 
-Não existe API externa que responda 100% das vezes ou conexão de banco de dados que nunca caia. O cheat code de hoje vai destruir aquela atitude complacente de "yes-man" da IA e forçá-la a escrever código assumindo situações de desastre implacáveis (Chaos). É um prompt nível **"Sênior Espartano"**.
+Não existe API externa com 100% de *uptime*, tampouco conexões de banco de dados imunes a quedas. O *cheat code* de hoje vai pulverizar aquela atitude complacente e de "yes-man" da IA, forçando-a a programar assumindo os piores cenários de desastre (o puro *Chaos*). Este é um prompt de nível **"Sênior Espartano"**.
 
 ---
+
 ## ⚡️ Resumo em 3 linhas (TL;DR)
-- 🚫 **Happy Path é só 20%:** Coloque os cenários de funcionamento normal de escanteio e force 80% do foco no tratamento de exceções e recuperação de desastres.
-- 🔥 **Simulação de Desastre Obrigatória:** Obrigue a IA a mockar (simular) timeouts de rede, erros HTTP 500 e quedas de conexão do banco de dados.
-- 🧹 **Proibido Mocks Globais Sujos:** Proíba a poluição desenfreada com `global.fetch` e permita apenas testes isolados usando MSW ou Injeção de Dependências (DI).
+
+1. 🚫 **Happy Path é apenas 20%:** Deixe os cenários de funcionamento normal em segundo plano e exija que 80% do foco vá para o tratamento de exceções e recuperação de falhas.
+2. 🔥 **Simulação de Desastres Obrigatória:** Obrigue a IA a *mockar* (simular) *timeouts* de rede, erros HTTP 500 e instabilidades no banco de dados.
+3. 🧹 **Guerra aos Mocks Globais Sujos:** Proíba categoricamente a poluição do estado com `global.fetch` e exija isolamento absoluto com MSW ou Injeção de Dependências (DI).
 
 ---
+
 ## 🚀 A Solução: "Protocolo de Teste Chaos Monkey"
 
 ### 🥉 Versão Básica (Basic Version)
-Use este prompt quando quiser apenas montar o esqueleto dos testes de tratamento de exceção rapidamente.
+
+Utilize este prompt quando precisar gerar rapidamente a espinha dorsal de testes voltados para tratamento de erros.
 
 > **Papel:** Você é um Engenheiro de QA Sênior implacável.
-> **Tarefa:** Escreva o código de teste para `[Alvo do teste]`. Crie apenas 1 cenário de funcionamento normal (Happy Path) e preencha todo o resto com lógica de defesa contra cenários de falha (Failure), como erros de rede, quedas de banco de dados, etc.
+> 
+> **Tarefa:** Escreva a suíte de testes para `[Nome da função ou componente a testar]`. Desenvolva apenas 1 cenário de sucesso (Happy Path) e concentre todo o restante na lógica de defesa contra falhas extremas (Failure), como instabilidades de rede e quedas de banco de dados.
 
 ### 🥇 Versão Pro (Pro Version)
-Este é o cheat code hardcore que apaga a personalidade padrão da IA e injeta a filosofia do Chaos Monkey da Netflix.
 
-> **Papel (Role):** Você é um Engenheiro de Testes Sênior extremo e implacável que acredita cegamente na filosofia 'Chaos Monkey' da Netflix. Deixe de lado a obediência cega ou a falsa simpatia, e pense apenas em como destruir os pontos fracos do meu sistema.
+Este é o *cheat code* hardcore. Ele anula a personalidade passiva padrão da IA e injeta a filosofia de destruição arquitetural do Chaos Monkey da Netflix.
+
+> **Papel (Role):** Você é um Engenheiro de Testes Sênior extremo e implacável, fiel devoto da filosofia 'Chaos Monkey' da Netflix. Abandone a obediência cega e a falsa simpatia; seu único objetivo é expor e destruir as vulnerabilidades do meu sistema.
 > 
 > **Contexto (Context):**
-> - Objetivo: Escrever uma suíte de testes (Test Suite) Unitários/E2E com defesa impenetrável para `[Nome da função ou componente a testar]`.
+> - Objetivo: Escrever uma suíte de testes Unitários/E2E com defesa impenetrável para `[Nome da função ou componente a testar]`.
 > - Framework: `[Vitest / Jest / Playwright, etc.]`
 > 
 > **Tarefa (Task):**
-> 1. **Death to Happy Paths:** Limite a no máximo 20% do total de testes os cenários ingênuos onde os valores são normais e o servidor externo responde 100%. Dedique os 80% restantes totalmente à defesa contra falhas e situações de exceção.
-> 2. **Disaster Scenarios:** Você deve incluir pelo menos um dos seguintes cenários de desastre em um bloco de teste (`describe`):
->    - Atraso de API externa e HTTP 500 Internal Error, validando o retorno de um erro amigável ao usuário e o rollback.
->    - Queda do pool de conexões do DB, validando a prevenção de deadlocks e a lógica de fila de repetição (Retry Queue).
-> 3. **Cobertura de Lógica Implacável:** Não verifique apenas se o teste termina sem erros (Pass). Seja obstinado com as declarações `expect`, cobrindo desde o limite de tolerância de atraso de performance (Delay) até o status do Garbage Collection (limpeza de memória) após o erro.
+> 1. **Morte ao Happy Path:** Limite a um máximo de 20% os testes ingênuos onde as variáveis são ideais e o servidor responde com 100% de sucesso. Dedique os 80% restantes exclusivamente à blindagem contra falhas e cenários caóticos.
+> 2. **Cenários de Desastre (Disaster Scenarios):** Inclua obrigatoriamente pelo menos um dos seguintes blocos de teste (`describe`):
+>    - Lentidão severa em API de terceiros acompanhada de HTTP 500 Internal Error, validando tanto a exibição de uma mensagem amigável ao usuário quanto o *rollback* dos dados.
+>    - Queda abrupta do *pool* de conexões do banco de dados, atestando a prevenção de *deadlocks* e a eficácia da fila de tentativas (*Retry Queue*).
+> 3. **Cobertura Implacável:** Não se contente em verificar se o teste apenas "passou" sem estourar erros. Seja agressivo com as asserções (`expect`), cobrindo desde os limites de tolerância de *delay* até o estado do *Garbage Collection* após a falha.
 > 
 > **Restrições (Constraints):**
-> - **The Clean Mocking Rule:** A poluição suja de objetos globais, como `global.fetch = vi.fn().mockRejectedValue(...)`, é estritamente proibida.
-> - A simulação de desastres de rede deve obrigatoriamente garantir 100% de isolamento de teste (Isolation), mockando apenas em nível de protocolo, como com MSW (Mock Service Worker), ou mockando objetos de cliente com Injeção de Dependência (DI).
-> - Sem Alucinação (Hallucination): Não invente sintaxes ou bibliotecas inexistentes das quais você não tem certeza. Se não souber, exija com confiança: "Forneça a documentação".
+> - **A Regra do Mock Limpo:** É estritamente proibida a poluição suja do escopo global, como utilizar `global.fetch = vi.fn().mockRejectedValue(...)`.
+> - A simulação de caos na rede deve garantir 100% de isolamento nos testes, *mockando* unicamente em nível de protocolo (ex: MSW - Mock Service Worker) ou através da Injeção de Dependência (DI) em clientes HTTP.
+> - **Tolerância Zero à Alucinação:** Não invente sintaxes milagrosas ou bibliotecas que não existem. Se não tiver certeza de algo, exija com firmeza: "Forneça a documentação atualizada".
 
-*(Também fornecido em bloco de texto para facilitar a cópia!)*
+*(Disponibilizado também em bloco de código para facilitar a cópia rápida!)*
 
 ```text
-Papel (Role): Você é um Engenheiro de Testes Sênior extremo e implacável que acredita cegamente na filosofia 'Chaos Monkey' da Netflix. Deixe de lado a obediência cega ou a falsa simpatia, e pense apenas em como destruir os pontos fracos do meu sistema.
+Papel (Role): Você é um Engenheiro de Testes Sênior extremo e implacável, fiel devoto da filosofia 'Chaos Monkey' da Netflix. Abandone a obediência cega e a falsa simpatia; seu único objetivo é expor e destruir as vulnerabilidades do meu sistema.
 
 Contexto (Context):
-- Objetivo: Escrever uma suíte de testes (Test Suite) Unitários/E2E com defesa impenetrável para [Nome da função ou componente a testar].
+- Objetivo: Escrever uma suíte de testes Unitários/E2E com defesa impenetrável para [Nome da função ou componente a testar].
 - Framework: [Vitest / Jest / Playwright, etc.]
 
 Tarefa (Task):
-1. Death to Happy Paths: Limite a no máximo 20% do total de testes os cenários ingênuos onde os valores são normais e o servidor externo responde 100%. Dedique os 80% restantes totalmente à defesa contra falhas e situações de exceção.
-2. Disaster Scenarios: Você deve incluir pelo menos um dos seguintes cenários de desastre em um bloco de teste (`describe`):
-   - Atraso de API externa e HTTP 500 Internal Error, validando o retorno de um erro amigável ao usuário e o rollback.
-   - Queda do pool de conexões do DB, validando a prevenção de deadlocks e a lógica de fila de repetição (Retry Queue).
-3. Cobertura de Lógica Implacável: Não verifique apenas se o teste termina sem erros (Pass). Seja obstinado com as declarações `expect`, cobrindo desde o limite de tolerância de atraso de performance (Delay) até o status do Garbage Collection (limpeza de memória) após o erro.
+1. Morte ao Happy Path: Limite a um máximo de 20% os testes ingênuos onde as variáveis são ideais e o servidor responde com 100% de sucesso. Dedique os 80% restantes exclusivamente à blindagem contra falhas e cenários caóticos.
+2. Cenários de Desastre (Disaster Scenarios): Inclua obrigatoriamente pelo menos um dos seguintes blocos de teste (`describe`):
+   - Lentidão severa em API de terceiros acompanhada de HTTP 500 Internal Error, validando tanto a exibição de uma mensagem amigável ao usuário quanto o rollback dos dados.
+   - Queda abrupta do pool de conexões do banco de dados, atestando a prevenção de deadlocks e a eficácia da fila de tentativas (Retry Queue).
+3. Cobertura Implacável: Não se contente em verificar se o teste apenas "passou" sem estourar erros. Seja agressivo com as asserções (`expect`), cobrindo desde os limites de tolerância de delay até o estado do Garbage Collection após a falha.
 
 Restrições (Constraints):
-- The Clean Mocking Rule: A poluição suja de objetos globais, como `global.fetch = vi.fn().mockRejectedValue(...)`, é estritamente proibida.
-- A simulação de desastres de rede deve obrigatoriamente garantir 100% de isolamento de teste (Isolation), mockando apenas em nível de protocolo, como com MSW (Mock Service Worker), ou mockando objetos de cliente com Injeção de Dependência (DI).
-- Sem Alucinação (Hallucination): Não invente sintaxes ou bibliotecas inexistentes das quais você não tem certeza. Se não souber, exija com confiança: "Forneça a documentação".
+- A Regra do Mock Limpo: É estritamente proibida a poluição suja do escopo global, como utilizar `global.fetch = vi.fn().mockRejectedValue(...)`.
+- A simulação de caos na rede deve garantir 100% de isolamento nos testes, mockando unicamente em nível de protocolo (ex: MSW - Mock Service Worker) ou através da Injeção de Dependência (DI) em clientes HTTP.
+- Tolerância Zero à Alucinação: Não invente sintaxes milagrosas ou bibliotecas que não existem. Se não tiver certeza de algo, exija com firmeza: "Forneça a documentação atualizada".
 ```
 
 ---
+
 ## 💡 Comentários do Autor (Insight)
-Sejamos honestos. Quando pedimos para a IA escrever um código de teste, no fundo não pensamos "Apenas bata os 100% de cobertura e me dê uma luz verde"? A IA sabe disso, então ela enfileira todo tipo de 'Happy Path' e te bajula dizendo "Concluído com sucesso!". 
-**Isso não é engenharia. É jogar açúcar em código espaguete.**
 
-Este prompt é a essência do princípio 'Anti-Frágil' (Anti-Fragile), esculpido com sangue e lágrimas após sofrer inúmeros deadlocks de DB e quedas de servidor no mercado de trabalho. Quando você alimenta a IA com esse cheat code, ela deixa de ser um chatbot dócil e se transforma em um Tech Lead exigente e neurótico. Ela bloqueia na fonte a tentativa preguiçosa de usar mocks globais (como sobrescrever `window.fetch`) e força a configuração de MSW ou DI, então no começo você pode reclamar que o código de configuração ficou longo. 
+Vamos ser cruamente honestos. Quando delegamos a escrita de testes para a IA, no fundo, não estamos apenas pensando: *"Alcança os 100% de cobertura logo e me dá a luz verde"*? A IA percebe essa intenção. Como resultado, ela empilha uma montanha de 'Happy Paths', enche seu ego e diz: *"Pronto! Concluído com sucesso!"*. 
+**Atenção: isso não é engenharia de software. Isso é jogar confete em código espaguete.**
 
-Mas acredite. Se você não quer ser acordado às 3 da manhã no dia do deploy com um alerta do PagerDuty, você deve tratar a IA não como uma assistente boazinha, mas como um destruidor implacável.
+Este prompt é a essência do conceito **Anti-Frágil**. Ele foi esculpido com sangue, suor e lágrimas após incontáveis *deadlocks* de banco de dados e servidores desabando em produção. Ao alimentar sua IA com este *cheat code*, ela deixa de ser um assistente dócil e assume a postura de um *Tech Lead* neurótico e extremamente exigente. 
+
+Ele bloqueia, diretamente na raiz, a preguiça de usar *mocks* globais (como sobrescrever `window.fetch` de forma porca) e exige a configuração madura de MSW ou Injeção de Dependências. É verdade que, inicialmente, você pode se frustrar com o tamanho do setup gerado. Mas acredite na voz da experiência: se você não quer ser acordado às 3 da manhã no dia de um *deploy* crítico pelo bipe desesperador do PagerDuty, comece a tratar a IA não como uma estagiária obediente, mas como uma **testadora implacável**.
 
 ---
+
 ## 🙋 Perguntas Frequentes (FAQ)
 
-- **Q: E se a IA fizer um código de configuração do MSW complicado demais?**
-  - R: É normal. É o processo de construir um ambiente isolado em vez de mocks globais sujos. Se estiver muito complexo, adicione a condição `[Porém, separe o setup dos handlers do MSW em um arquivo diferente]` na sua Tarefa (Task).
-- **Q: Preciso aplicar essa regra rígida para todos os componentes?**
-  - R: Não. É um luxo desnecessário para componentes simples de renderização de UI. Lance este prompt apenas nas lógicas de domínio principal que lidam com lógica de pagamento, integrações de terceiros e gerenciamento de estado complexo (Store).
-- **Q: Qual modelo obedece melhor, Claude ou GPT?**
-  - R: Atualmente, o **Claude 3.5 Sonnet** entende a mensagem perfeitamente. Os modelos GPT tendem a tentar ser estranhamente positivos e amigáveis o tempo todo.
+- **Q: E se a IA gerar uma configuração de MSW estupidamente complexa?**
+  - R: É esperado. Essa é a dor do crescimento ao trocar o atalho sujo dos *mocks* globais por um ambiente de teste isolado e profissional. Caso fique denso demais, basta injetar a seguinte instrução na sua Tarefa (Task): `[Porém, isole todo o setup e os handlers do MSW em um arquivo de configuração externo]`.
+- **Q: Devo aplicar essa regra militar para todos os componentes do sistema?**
+  - R: Definitivamente não. É um canhão para matar mosquitos se usado em botões e UIs burras. Reserve este arsenal pesado para a lógica central do domínio: fluxos de pagamento, integrações de APIs vitais de terceiros e gerenciadores de estado complexos (Store).
+- **Q: Qual modelo assimila melhor esse nível de agressividade, Claude ou GPT?**
+  - R: No cenário atual, o **Claude 3.5 Sonnet** abraça essa *persona* de forma muito mais visceral. Os modelos GPT, muitas vezes, resistem em abandonar seu viés de tentar ser amigáveis e prestativos o tempo todo.
 
 ---
+
 ## 🧬 Anatomia do Prompt (Why it works?)
-- 🎭 **Atribuição Assimétrica de Persona:** Em vez do genérico "Você é um desenvolvedor", injetamos um ego forte de "um Sênior que odeia obediência cega e adora destruir o sistema", suprimindo fisicamente o viés de positividade (Positivity Bias) típico da IA.
-- 🚧 **Restrições Explícitas (Constraints):** Proibimos antipadrões como `global.fetch = vi.fn()` apontando o código específico. A IA reage muito melhor a uma ameaça de "se usar este código você morre" do que a um vago "escreva bem".
-- ⚖️ **Imposição de Proporções:** Ao definir a restrição numérica "Máximo de 20% para o Happy Path", impedimos totalmente que a IA desperdice tokens produzindo casos desnecessários de funcionamento normal.
+
+- 🎭 **Atribuição Assimétrica de Persona:** Em vez de usar um passivo "Você é um programador", injetamos um ego fortíssimo ("Sênior que odeia obediência cega e quer destruir o sistema"). Isso suprime mecanicamente o Viés de Positividade (*Positivity Bias*) inerente às IAs.
+- 🚧 **Restrições Explícitas (*Constraints*):** Ao apontar explicitamente para o antipadrão `global.fetch = vi.fn()` e bani-lo, não deixamos espaço para interpretações. A IA reage com muito mais precisão a uma "ameaça técnica direta" do que a um vago "escreva testes de qualidade".
+- ⚖️ **Imposição Matemática de Proporções:** Ao definir rigidamente a métrica de "Máximo de 20% para o Happy Path", cortamos pela raiz a tendência da IA de desperdiçar *tokens* preciosos inventando infinitas variações inúteis de sucesso.
 
 ---
+
 ## 📊 A Prova: Antes & Depois
 
-### ❌ Antes (Pedido Genérico)
+### ❌ Antes (O Pedido Genérico)
+
 ```text
 "Escreva o código de teste para a função fetchUser que busca os dados do usuário."
 
-Resultado: 
+Resultado da IA: 
 - Teste de parse do texto de resposta 200 OK (Pass)
 - Teste se lança erro quando não tem ID (Pass)
-... (Um festival de lógicas global.fetch sobrescritas porcamente)
+... (E um verdadeiro festival de lógicas global.fetch sobrescritas de maneira porca no ambiente global)
 ```
 
 ### ✅ Depois (Aplicando o Cheat Code do Chaos Monkey)
+
 ```text
-Resultado:
-- [MSW Setup Concluído] Escrita de código de defesa simulando atraso de comunicação da API externa (Timeout 5000ms)
-- Validação da lógica de retorno elegante (Fallback UI) após 3 tentativas (Retry) em caso de HTTP 500 Internal Error
-- Validação do status de Garbage Collection (sem vazamento de memória) e limpeza do servidor MSW após o fim dos testes
-- Teste de fluxo normal (Happy Path) comprimido em apenas 1 caso.
+Resultado da IA:
+- [MSW Setup Concluído] Escrita de código defensivo simulando timeout severo da API externa (5000ms de Delay).
+- Validação agressiva da lógica de Fallback UI após 3 tentativas automáticas (Retry) em caso de HTTP 500 Internal Error.
+- Monitoramento do status do Garbage Collection (sem memory leaks) e reset limpo do servidor MSW no afterAll().
+- O teste do fluxo normal (Happy Path) foi elegantemente comprimido em apenas 1 caso direto.
 ```
 
 ---
+
 ## 🎯 Conclusão
-A IA cospe o código exatamente no nível do prompt que você joga para ela. Se ela vai produzir um código lixo coberto de palavras doces ou criar um escudo robusto que impedirá o desastre das 3 da manhã, isso está na ponta dos seus dedos.
-Agora copie este cheat code e conecte-o ao seu agente. E pode encerrar o expediente! 🍷
+
+A verdade nua e crua é que a IA devolve um código exatamente proporcional ao nível de exigência do seu prompt. Se ela vai cuspir um script frágil polvilhado de falsas esperanças, ou se vai forjar um escudo de *titanium* capaz de evitar um desastre às 3 da manhã, isso está apenas na ponta dos seus dedos.
+
+Copie este *cheat code*, injete no seu agente e deixe ele trabalhar pelo seu sono. Pode fechar o notebook e encerrar o expediente! 🍷

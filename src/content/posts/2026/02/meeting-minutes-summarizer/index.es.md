@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatización del Trabajo"
-description: "¿Una reunión de una hora se ha convertido en 10 páginas de texto inservible? Usa este prompt para extraer únicamente las decisiones clave y los próximos pasos."
+description: "¿Reuniones largas convertidas en textos interminables? Usa este prompt para extraer decisiones clave y próximos pasos en segundos."
 tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 ---
 
-# 📝 Cómo resumir actas de reuniones interminables con total claridad
+## 📝 Cómo resumir actas de reuniones interminables con total claridad
 
 - **🎯 Recomendado para:** Project Managers, Product Owners, asistentes y cualquier profesional corporativo
 - **⏱️ Tiempo requerido:** 30 minutos → 1 minuto
@@ -21,15 +21,15 @@ tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 
 > _"¿Una reunión de una hora se ha convertido en una transcripción de 10 páginas que nadie tiene tiempo de leer?"_
 
-Las transcripciones automáticas de reuniones suelen estar plagadas de coloquialismos, muletillas e ideas dispersas. Volver a leerlas para encontrar los acuerdos clave supone una pérdida de tiempo monumental. Transformar ese caos en un informe ejecutivo claro, estructurado y accionable puede llevar horas... hasta hoy.
+Las transcripciones automáticas de reuniones suelen ser un caos: están llenas de coloquialismos, muletillas e ideas dispersas. Volver a leerlas para rescatar los acuerdos clave supone una pérdida de tiempo monumental. Transformar todo ese ruido en un informe ejecutivo claro, estructurado y listo para la acción solía llevar horas... hasta hoy.
 
 ---
 
 ## ⚡️ Resumen en 3 líneas (TL;DR)
 
-1. **De caos a claridad:** Transforma transcripciones extensas y desordenadas en actas perfectamente estructuradas en cuestión de segundos.
-2. **Acción inmediata:** Extrae automáticamente decisiones y próximos pasos (Action Items) junto con sus responsables y fechas límite.
-3. **Ahorro de tiempo masivo:** Reduce horas de revisión manual a un simple "copiar y pegar", permitiéndote salir del trabajo a tu hora.
+1. **De caos a claridad:** Convierte transcripciones extensas y desordenadas en actas perfectamente estructuradas en cuestión de segundos.
+2. **Acción inmediata:** Extrae de forma automática las decisiones y los próximos pasos (Action Items), asignando responsables y fechas límite.
+3. **Ahorro de tiempo masivo:** Reduce horas de revisión manual a un simple "copiar y pegar", permitiéndote cerrar tu jornada a tiempo.
 
 ---
 
@@ -40,6 +40,7 @@ Las transcripciones automáticas de reuniones suelen estar plagadas de coloquial
 Úsala cuando necesites un resumen rápido para consumo personal sin demasiados formalismos.
 
 > **Rol:** Eres un asistente ejecutivo experto.
+> 
 > **Solicitud:** Resume la siguiente transcripción de la reunión, extrayendo únicamente los puntos clave y las decisiones tomadas. `[Pega aquí tu transcripción]`
 
 ### 🥇 Versión Pro (Pro Version)
@@ -57,7 +58,7 @@ Las transcripciones automáticas de reuniones suelen estar plagadas de coloquial
 >
 > 1. Estructura el resumen dividiéndolo estrictamente en las siguientes secciones: **Agenda de la Reunión**, **Puntos Clave Discutidos**, **Decisiones Tomadas** y **Próximos Pasos (Action Items)**.
 > 2. Refina el tono: Elimina todas las muletillas, charlas triviales (small talk) y repeticiones. Convierte el lenguaje coloquial en un tono corporativo claro, directo y profesional.
-> 3. Para los 'Próximos Pasos', si se menciona a un responsable o una fecha límite en el texto, debes indicarlo explícitamente en negrita junto a la tarea.
+> 3. Para los 'Próximos Pasos', si se menciona a un responsable o una fecha límite en el texto, debes indicarlo explícitamente en **negrita** junto a la tarea.
 >
 > **Restricciones (Constraints):**
 >
@@ -73,7 +74,7 @@ Las transcripciones automáticas de reuniones suelen estar plagadas de coloquial
 
 ## 💡 Comentario del Autor (Insight)
 
-Este prompt es un verdadero salvavidas para quienes pasan más del 30 % de su semana en videollamadas. La verdadera magia radica en la instrucción de "refinar el tono" y extraer los "Action Items". Al utilizar herramientas de dictado o la transcripción nativa de Zoom o Teams, a menudo obtenemos bloques de texto incomprensibles. Al asignarle a la IA el rol de un Asistente Ejecutivo Senior, obligamos al modelo no solo a resumir, sino a _interpretar_ el valor comercial de la conversación, transformando el ruido en tareas ejecutables. Te recomiendo guardar este prompt en tu bloc de notas y usarlo sistemáticamente después de cada llamada de alineación importante.
+Este prompt es un verdadero salvavidas para quienes pasan más del 30 % de su semana en videollamadas. La verdadera magia radica en la instrucción de "refinar el tono" y extraer los "Action Items". Al utilizar herramientas de dictado o la transcripción nativa de Zoom o Teams, a menudo obtenemos bloques de texto incomprensibles. Al asignarle a la IA el rol de un Asistente Ejecutivo Senior, obligamos al modelo no solo a resumir, sino a **interpretar el valor comercial** de la conversación, transformando el ruido en tareas ejecutables. Te recomiendo guardar este prompt en tu bloc de notas y usarlo sistemáticamente después de cada llamada de alineación importante.
 
 ---
 

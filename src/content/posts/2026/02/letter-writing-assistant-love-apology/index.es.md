@@ -1,15 +1,15 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Servicio de Escritura Fantasma de Cartas: Desde Confesión de Amor hasta Rechazo Cortés\""
+title: "Servicio de Escritura Fantasma de Cartas: Desde Confesión de Amor hasta Rechazo Cortés"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creación y Aficiones"
-description: " \"Transmite con palabras esa sinceridad que cuesta expresar. La IA redactará por ti la carta perfecta, adaptada a la situación y al destinatario.\""
+description: "Transmite esa sinceridad que tanto cuesta expresar. La IA redactará por ti la carta perfecta, adaptada con tacto a la situación y al destinatario."
 tags: ["Escritura", "Carta", "Amor", "Disculpa", "Rechazo"]
 ---
 
-# 📝 Servicio de Escritura Fantasma de Cartas: Desde Confesión de Amor hasta Rechazo Cortés
+## 📝 Servicio de Escritura Fantasma de Cartas: Desde Confesión de Amor hasta Rechazo Cortés
 
 - **🎯 Recomendado para:** Cualquier persona que necesite comunicar emociones complejas (parejas, amigos, colegas, jefes).
 - **⏱️ Tiempo requerido:** 5 minutos.
@@ -39,9 +39,9 @@ En la vida nos enfrentamos a situaciones donde las palabras correctas marcan la 
 
 Úsala cuando necesites un borrador rápido y directo para salir del apuro.
 
-> **Rol:** Eres un consejero psicológico y un experto redactor de cartas emocionales.
-> **Solicitud:** Ayúdame a escribir un mensaje para `[Destinatario]` con el objetivo de `[Propósito]`. Mantenlo sincero, natural y empático.
-
+> **Rol (Role):** Eres un consejero psicológico y un experto redactor de cartas emocionales.
+>
+> **Solicitud (Task):** Ayúdame a escribir un mensaje para `[Destinatario]` con el objetivo de `[Propósito]`. Mantenlo sincero, natural y empático.
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -54,7 +54,7 @@ En la vida nos enfrentamos a situaciones donde las palabras correctas marcan la 
 >
 > **Información de la Carta:**
 >
-> - **Destinatario:** `[ej. Mi pareja de hace 3 años / Un amigo de la infancia que pide dinero / Mi jefe directo]`
+> - **Destinatario:** `[ej. Mi pareja desde hace 3 años / Un amigo de la infancia que pide dinero / Mi jefe directo]`
 > - **Propósito:** `[ej. Terminar la relación por la rutina / Rechazar un préstamo de forma amable / Anunciar mi renuncia]`
 > - **Mi Emoción/Actitud:** `[ej. Triste pero firme / Agradecido pero distante / Extremadamente cortés pero inflexible]`
 > - **Detalles a Incluir:** `[ej. Mencionar nuestro viaje a la playa el verano pasado / Explicar que actualmente tengo deudas importantes]`
@@ -84,9 +84,8 @@ En mi experiencia personal, la opción de pedir siempre dos versiones (Suave y D
 
 - **Q: ¿El mensaje no sonará demasiado "artificial" o frío?**
   - A: Todo depende de los "Detalles a Incluir". Si le proporcionas a la IA una anécdota muy personal o un apodo específico, el texto final se sentirá completamente tuyo. La IA solo se encarga de estructurarlo con tacto.
-
 - **Q: ¿Puedo usarlo para situaciones laborales delicadas?**
-  - A: ¡Absolutamente! Es ideal para redactar cartas de renuncia, correos para solicitar un aumento de sueldo, o para declinar educadamente una oferta de trabajo sin cerrar puertas a futuro. Solo ajusta el "Destinatario" y el "Tono" a un perfil corporativo.
+  - A: ¡Absolutamente! Es ideal para redactar cartas de renuncia, correos para solicitar un aumento de sueldo, o para declinar educadamente una oferta de trabajo sin cerrar puertas a futuro. Solo ajusta el `[Destinatario]` y el tono a un perfil corporativo.
 
 ---
 

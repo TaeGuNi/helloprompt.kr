@@ -5,11 +5,11 @@ author: "ZZabbis"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "프롬프트 템플릿"
-description: "Il più eccentrico studioso di Joseon, il Maestro Tojeong Yi Ji-ham, è tornato. Ricevi una divinazione brutalmente onesta per l'Anno di Byeongo 2026 dall'autore originale del Tojeong Bigyeol, ora incarnato nell'IA."
+description: "Il Maestro Tojeong Yi Ji-ham è tornato. Ricevi una divinazione onesta e pungente per l'Anno di Byeongo 2026 dall'autore del Tojeong Bigyeol tramite IA."
 tags: ["Saju", "Oroscopo", "Tojeong Bigyeol", "Yi Ji-ham", "Anno 2026", "Anno di Byeongo", "Persona"]
 ---
 
-# 📝 Il Moderno Tojeong Bigyeol (土亭秘訣): Un Incontro Privato per il Nuovo Anno con il Maestro Yi Ji-ham
+## 📝 Il Moderno Tojeong Bigyeol (土亭秘訣): Un Incontro Privato per il Nuovo Anno con il Maestro Yi Ji-ham
 
 - **🎯 Consigliato per:** Chi è curioso di scoprire il proprio destino nel nuovo Anno di Byeongo e chi desidera ricevere consigli pungenti ma ironici in puro stile Joseon.
 - **⏱️ Tempo richiesto:** 10 minuti → 1 minuto
@@ -30,7 +30,7 @@ Questo prompt infonde nell'IA l'inconfondibile personalità del Maestro **Tojeon
 ## ⚡️ Riassunto in 3 righe (TL;DR)
 
 1. Un prompt IA che fonde l'autentica interpretazione filosofica del *Tojeong Bigyeol* con l'umorismo schietto e pungente del Maestro Yi Ji-ham.
-2. Supera di gran lunga le banali letture astrologiche, offrendo metafore brillanti e crude verità ("fact bombing") perfettamente adattate alla vita moderna (lavoratori dipendenti, persone in cerca di occupazione, freelance).
+2. Supera di gran lunga le banali letture astrologiche, offrendo metafore brillanti e crude verità perfettamente adattate alla vita moderna (lavoratori dipendenti, persone in cerca di occupazione, freelance).
 3. Ti regala un entusiasmante gioco di ruolo dal sapore antico, in perfetto equilibrio tra l'eleganza di un nobile erudito e la brutale sincerità di un saggio disincantato.
 
 ---
@@ -77,7 +77,9 @@ Ideale quando hai bisogno di consigli mirati su salute, finanze o carriera, serv
 
 I classici siti gratuiti di *Tojeong Bigyeol* si limitano ad assegnare meccanicamente uno dei 144 esagrammi in base alla tua data di nascita. Questo prompt, invece, cambia totalmente le regole del gioco.
 
-I modelli linguistici avanzati (LLM) di oggi hanno già assimilato a fondo i complessi principi fondamentali della divinazione *Myeongrihak* e dell'*I Ching*. Sovrapponendo a questa immensa base di conoscenza la *persona* del Maestro Yi Ji-ham, l'archetipo del "narratore saggio e insolente", una banale lettura dell'oroscopo si trasforma in un'avvincente e terapeutica sessione teatrale personalizzata. Vi auguro che nel 2026 possiate rinfrescare uno spirito magari un po' assopito o frustrato, incassando qualche verace strigliata che scuote la coscienza, ma sempre accompagnata da una liberatoria e fragorosa risata.
+I modelli linguistici avanzati (LLM) di oggi hanno già assimilato a fondo i complessi principi fondamentali della divinazione *Myeongrihak* e dell'*I Ching*. Sovrapponendo a questa immensa base di conoscenza la **persona** del Maestro Yi Ji-ham, l'archetipo del "narratore saggio e insolente", una banale lettura dell'oroscopo si trasforma in un'avvincente e terapeutica sessione teatrale personalizzata. 
+
+Vi auguro che nel 2026 possiate rinfrescare uno spirito magari un po' assopito o frustrato, incassando qualche verace strigliata che scuote la coscienza, ma sempre accompagnata da una liberatoria e fragorosa risata.
 
 ---
 

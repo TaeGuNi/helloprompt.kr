@@ -5,14 +5,14 @@ author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "Automatización del trabajo"
-description: "Deja de perder noches enteras frente a una diapositiva en blanco. Descubre el prompt definitivo que estructura tu presentación y redacta el guion exacto en menos de 1 minuto."
+description: "Deja de sufrir frente a la diapositiva en blanco. Este prompt estructura tu presentación y redacta el guion exacto en menos de un minuto."
 image: "/images/hooks/powerpoint-outline-prompt.jpg"
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ppt-outline-scr"]
 ---
 
-# 📝 Escapa del infierno del PPT: Prompt para generar la estructura y el guion de tus presentaciones automáticamente
+## 📝 Escapa del infierno del PPT: Prompt para generar la estructura y el guion de tus presentaciones automáticamente
 
-- **🎯 Recomendado para:** Marketers, project managers, perfiles junior y desarrolladores que deben presentar resultados.
+- **🎯 Recomendado para:** Marketers, project managers, perfiles junior y desarrolladores que deban presentar resultados.
 - **⏱️ Tiempo estimado:** De 3 horas → 1 minuto
 - **🤖 Modelos recomendados:** Cualquier IA conversacional (Claude 3.5 Sonnet, ChatGPT, Gemini, etc.)
 - ⭐ **Dificultad:** ⭐⭐☆☆☆
@@ -21,7 +21,7 @@ tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ppt-outline-scr"]
 
 > _"¿Tienes una presentación clave mañana y llevas media hora mirando una diapositiva en blanco?"_
 
-Lo más frustrante de crear un PPT no es el diseño gráfico, sino la planificación estratégica: estructurar el relato, decidir el orden lógico y elegir las palabras exactas que generen impacto. Este prompt toma tus ideas sueltas y las transforma al instante en un esqueleto narrativo perfecto, diapositiva por diapositiva, incluyendo un guion de un minuto para cada una. A partir de ahora, solo tendrás que preocuparte de que se vea bonito.
+Lo más frustrante de crear una presentación no es el diseño gráfico, sino la planificación estratégica: estructurar el relato, definir el orden lógico y elegir las palabras exactas para generar un verdadero impacto. Este prompt toma tus ideas sueltas y las transforma al instante en un esqueleto narrativo perfecto, diapositiva por diapositiva, e incluye un guion de un minuto para cada una. A partir de ahora, solo tendrás que preocuparte de que luzca espectacular.
 
 ---
 
@@ -67,8 +67,8 @@ Lo más frustrante de crear un PPT no es el diseño gráfico, sino la planificac
 >
 > **Restricciones (Constraints):**
 >
-> - Evita la jerga técnica innecesaria; utiliza un lenguaje de negocios claro, directo y orientado al impacto.
-> - Prohibido empezar con el clásico y aburrido "Buenos días". El guion de la primera diapositiva debe arrancar con una pregunta provocadora que toque directamente el mayor punto de dolor (*Pain Point*) de la audiencia.
+> - Evita la jerga técnica innecesaria; utiliza un lenguaje corporativo claro, directo y orientado al impacto.
+> - Prohibido empezar con el clásico y aburrido "Buenos días". El guion de la primera diapositiva debe arrancar con una pregunta provocadora que ataque directamente el mayor punto de dolor (*Pain Point*) de la audiencia.
 > - Presenta el resultado en un formato de lista estructurada y limpia, ordenada por el número de diapositiva.
 >
 > **Advertencia (Warning):**
@@ -79,11 +79,11 @@ Lo más frustrante de crear un PPT no es el diseño gráfico, sino la planificac
 
 ## 💡 Comentario del Autor (Insight)
 
-El temido "Síndrome del Lienzo en Blanco". Es exactamente aquí donde la mayoría de los profesionales quema horas valiosas al abrir PowerPoint. Diseñé este prompt con un único objetivo: obligarte a minimizar el programa de diseño y resolver el 100% de la arquitectura narrativa en un simple bloc de notas.
+El temido "Síndrome de la Hoja en Blanco". Es exactamente ahí donde la mayoría de los profesionales queman horas valiosas al abrir PowerPoint. Diseñé este prompt con un único objetivo: obligarte a minimizar el programa de diseño y resolver el 100% de la arquitectura narrativa en un simple bloc de notas.
 
 El verdadero poder de este prompt reside en la variable `[Audiencia]`. Si te diriges a un equipo de ingeniería, la IA construirá un discurso enfocado en el "cómo" y en la viabilidad técnica; pero si presentas ante el comité de dirección (*C-Level*), pivotará automáticamente hacia el ROI, la reducción de costes y la mitigación de riesgos.
 
-Un consejo desde las trincheras: no te memorices el guion de la IA palabra por palabra. Deja que el modelo resuelva el 80% del trabajo pesado (estructura, transiciones y ritmo), y reserva tu energía para inyectar ese 20% de magia humana: anécdotas reales, datos confidenciales de la empresa y tu carisma personal. Ahorrarás horas de frustración y el impacto de tu presentación se multiplicará por dos.
+Un consejo desde las trincheras: no memorices el guion de la IA palabra por palabra. Deja que el modelo resuelva el 80% del trabajo pesado (estructura, transiciones y ritmo), y reserva tu energía para inyectar ese 20% de magia humana: anécdotas reales, datos confidenciales de la empresa y tu carisma personal. Ahorrarás horas de frustración y el impacto de tu presentación se multiplicará por dos.
 
 ---
 

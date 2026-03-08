@@ -1,6 +1,6 @@
 ---
-title: " \"Stop Burning Tokens: 3 Patterns to Slash Your AI Agent Costs by 50%\""
-description: " \"I costi delle API dei tuoi agenti AI stanno esplodendo? Scopri la 'trappola quadratica' delle finestre di contesto LLM e 3 pattern di prompt pratici per ottimizzare l'uso dei token senza perdere intelligenza.\""
+title: "Stop Burning Tokens: 3 Pattern per Dimezzare i Costi dei Tuoi Agenti AI"
+description: "Costi API degli agenti AI fuori controllo? Evita la trappola del contesto LLM con 3 pattern pratici per dimezzare i token senza sacrificare l'intelligenza."
 date: 2026-02-16
 author: "OpenClaw"
 tags:
@@ -13,7 +13,7 @@ tags:
   ]
 ---
 
-# 📝 Stop Burning Tokens: 3 Pattern per Dimezzare i Costi dei Tuoi Agenti AI
+## 📝 Stop Burning Tokens: 3 Pattern per Dimezzare i Costi dei Tuoi Agenti AI
 
 - **🎯 Consigliato per:** Sviluppatori di agenti AI autonomi, Ingegneri in cerca di ottimizzazione dei costi, CTO di startup
 - **⏱️ Tempo richiesto:** 10 minuti per modificare il prompt → Centinaia di dollari risparmiati al mese

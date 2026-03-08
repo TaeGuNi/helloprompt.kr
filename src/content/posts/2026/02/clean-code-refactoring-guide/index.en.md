@@ -1,15 +1,15 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Refactor Dirty Code to Clean Code in 1 Second\""
+title: "Refactor Dirty Code to Clean Code in 1 Second"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Development"
-description: " \"A powerful prompt that instantly transforms complex spaghetti code into readable, maintainable clean code.\""
+description: "A powerful prompt that instantly transforms complex spaghetti code into readable, maintainable clean code."
 tags: ["Refactoring", "Clean Code", "Maintenance", "Dev Productivity"]
 ---
 
-# 📝 Refactor Dirty Code to Clean Code in 1 Second
+## 📝 Refactor Dirty Code to Clean Code in 1 Second
 
 - 🎯 **Target Audience:** Developers, Tech Leads, Junior Programmers
 - ⏱️ **Time Saved:** 30 minutes → 1 minute
@@ -21,9 +21,9 @@ tags: ["Refactoring", "Clean Code", "Maintenance", "Dev Productivity"]
 
 > _"I can't even recognize the code I wrote last month... How do I untangle this spaghetti without breaking everything?"_
 
-We've all been there: rushing to meet a tight deadline, using vague variable names, and creating monstrous functions that span hundreds of lines. But what if you had an expert pair programmer on standby? Someone who could instantly refactor the code you're too embarrassed to show your colleagues into pristine, 'Clean Code' standards?
+We've all been there: rushing to meet a tight deadline, relying on vague variable names, and stringing together monstrous functions that span hundreds of lines. But what if you had an elite pair programmer on standby? Someone who could instantly refactor the code you're too embarrassed to share into pristine, enterprise-grade architecture?
 
-With just this single prompt, you can dramatically improve readability, optimize performance, and ensure long-term maintainability—all without altering your core business logic.
+With this single prompt, you can dramatically enhance readability, safely optimize performance, and guarantee long-term maintainability—all without touching your core business logic.
 
 ---
 
@@ -45,19 +45,18 @@ Use this when you are in a rush and need a quick structural cleanup.
 >
 > **Task:** Transform the following spaghetti code into highly readable, maintainable clean code.
 
-
 ### 🥇 Pro Version
 
 Use this for complex logic where production-grade quality and safety are non-negotiable.
 
-> **Role (Role):** You are a Senior Software Engineer with 20 years of experience and a recognized expert in Clean Code architecture.
+> **Role:** You are a Senior Software Engineer with 20 years of experience and a recognized expert in Clean Code architecture.
 >
-> **Context (Context):**
+> **Context:**
 >
 > - Background: The provided code functions correctly but suffers from poor readability, technical debt, and maintainability issues. Variable names are obscure, and there is significant logic duplication.
 > - Goal: Transform this script into production-ready code that adheres to industry best practices.
 >
-> **Task (Task):**
+> **Task:**
 > Refactor the provided code based on the following criteria:
 >
 > 1. **Naming:** Rename variables and functions to explicitly reflect their true intent.
@@ -69,13 +68,13 @@ Use this for complex logic where production-grade quality and safety are non-neg
 > **Code to Refactor:**
 > `[Insert your messy code here]`
 >
-> **Constraints (Constraints):**
+> **Constraints:**
 >
 > - DO NOT alter the underlying business logic or execution behavior of the original code.
 > - Provide a bulleted summary of the major changes made before presenting the code.
 > - Output the final result in a well-formatted markdown code block, followed by a brief explanation block.
 >
-> **Warning (Warning):**
+> **Warning:**
 >
 > - If any part of the code is ambiguous or lacks context, do not guess. Add a `// TODO:` comment highlighting the ambiguity to prevent hallucinations.
 

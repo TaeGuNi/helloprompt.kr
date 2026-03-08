@@ -9,9 +9,9 @@ description: "A practical guide to understanding Svelte 5's core 'Runes' and suc
 tags: ["Svelte", "Svelte5", "React", "프론트엔드", "웹개발"]
 ---
 
-# ⚡️ Practical Svelte 5 Adoption: Why It's Lighter and Faster Than React
+## ⚡️ Practical Svelte 5 Adoption: Why It's Lighter and Faster Than React
 
-- **🎯 Target Audience:** React developers exhausted by the endless `useEffect` dependency array hell, frontend engineers looking to drastically shrink their bundle sizes.
+- **🎯 Target Audience:** React developers exhausted by the endless `useEffect` dependency array hell, and frontend engineers looking to drastically shrink their bundle sizes.
 - **⏱️ Time Required:** 10 minutes (for concept mastery and prompt execution)
 - **🤖 Recommended AI:** Perplexity (optimized for the latest Svelte 5 docs), Claude 3.5 Sonnet (for flawless code migration)
 

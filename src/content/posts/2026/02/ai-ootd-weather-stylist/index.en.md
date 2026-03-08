@@ -1,17 +1,17 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"오늘 뭐 입지? AI 날씨 스타일리스트\""
+title: "What to Wear Today? AI Weather Stylist"
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "패션"
-description: " \"Foolproof OOTD recommendations considering temperature, humidity, and rain probability.\""
-tags: ["패션", "날씨", "OOTD", "코디"]
+category: "Fashion"
+description: "Foolproof OOTD recommendations considering temperature, humidity, and rain probability."
+tags: ["Fashion", "Weather", "OOTD", "Outfit"]
 ---
 
-# 📝 What to Wear Today? AI Weather Stylist
+## 📝 What to Wear Today? AI Weather Stylist
 
-- **🎯 Recommended for:** Anyone struggling with daily outfit choices, Fashion enthusiasts, Daily commuters
+- **🎯 Recommended for:** Anyone struggling with daily outfit choices, fashion enthusiasts, and daily commuters
 - **⏱️ Time Saved:** 15 minutes → 1 minute
 - **🤖 Recommended Models:** All conversational AIs (ChatGPT, Claude, Gemini, etc.)
 
@@ -21,7 +21,7 @@ tags: ["패션", "날씨", "OOTD", "코디"]
 
 > _"Tired of stepping outside only to realize you're dressed completely wrong for the weather?"_
 
-Have you ever worn a heavy sweater on a deceptively sunny morning, only to sweat through it by noon? Or maybe you wore light layers and ended up shivering in a sudden evening chill. This AI Weather Stylist prompt analyzes the exact temperature, humidity, and precipitation probability to give you a foolproof, stylish OOTD (Outfit Of The Day) recommendation.
+Have you ever worn a heavy sweater on a deceptively sunny morning, only to sweat through it by noon? Or maybe you wore light layers and ended up shivering in a sudden evening chill? This AI Weather Stylist prompt analyzes the exact temperature, humidity, and precipitation probability to give you a foolproof, stylish OOTD (Outfit Of The Day) recommendation.
 
 ---
 
@@ -42,32 +42,31 @@ Use this when you need a quick, no-nonsense outfit suggestion for the day.
 > **Role:** You are a `[Professional Fashion Stylist]`.
 > **Task:** Recommend an outfit based on today's weather: `[Current Weather, e.g., 15°C, sunny, breezy]`.
 
-
 ### 🥇 Pro Version
 
 Use this for a detailed, highly personalized styling guide that considers layering, accessories, and changing weather throughout the day.
 
-> **Role (Role):** You are an elite fashion stylist who excels at balancing aesthetics with practical comfort.
+> **Role:** You are an elite fashion stylist who excels at balancing aesthetics with practical comfort.
 >
-> **Context (Context):**
+> **Context:**
 >
 > - Background: I need to decide what to wear today based on the precise weather forecast.
 > - Goal: Provide a stylish, comfortable, and weather-appropriate OOTD that prevents me from being too hot, too cold, or caught unprepared by rain.
 >
-> **Task (Task):**
+> **Task:**
 >
-> 1. Analyze the following weather conditions: `[Temperature Range (e.g., Low 10°C / High 22°C)]`, `[Humidity/Rain Chance]`, and `[Wind/Special Conditions]`.
+> 1. Analyze the following weather conditions: `[Temperature Range, e.g., Low 10°C / High 22°C]`, `[Humidity or Rain Chance]`, and `[Wind or Special Conditions]`.
 > 2. Consider my personal style preference: `[Style, e.g., Business Casual, Streetwear, Minimalist]`.
 > 3. Provide a top-to-bottom outfit recommendation (Top, Bottom, Outerwear, Shoes).
 > 4. Suggest practical accessories (e.g., Umbrella, Sunglasses, Scarf).
 > 5. Explain _why_ these items are chosen based on the weather conditions.
 >
-> **Constraints (Constraints):**
+> **Constraints:**
 >
 > - Output the recommendation in a clear Markdown structure using bullet points.
 > - Avoid suggesting overly complex layers if the temperature variation is minimal.
 >
-> **Warning (Warning):**
+> **Warning:**
 >
 > - Do not suggest impractical items for high rain chances or extreme weather (e.g., suede shoes on a rainy day, or heavy knits for a humid afternoon).
 
@@ -75,7 +74,7 @@ Use this for a detailed, highly personalized styling guide that considers layeri
 
 ## 💡 Writer's Insight
 
-This prompt is incredibly useful during transitional seasons (like spring and autumn) when the diurnal temperature range is drastic. The real magic happens when you input both the morning low and the afternoon high. By specifying your style preference (like "Minimalist" or "Smart Casual"), the AI avoids generic suggestions and tailors the look to your actual wardrobe. I personally use this every evening before bed to lay out my clothes for the next morning—it completely eliminates decision fatigue and saves me at least 15 minutes of frantic searching when I'm rushing to commute.
+This prompt is incredibly useful during transitional seasons (like spring and autumn) when daily temperature swings are drastic. The real magic happens when you input both the morning low and the afternoon high. By specifying your style preference (like "Minimalist" or "Smart Casual"), the AI avoids generic suggestions and tailors the look to your actual wardrobe. I personally use this every evening before bed to lay out my clothes for the next morning—it completely eliminates decision fatigue and saves me at least 15 minutes of frantic searching when I'm rushing to commute.
 
 ---
 

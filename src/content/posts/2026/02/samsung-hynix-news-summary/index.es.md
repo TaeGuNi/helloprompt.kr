@@ -5,31 +5,31 @@ author: "Antigravity"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "Consejos de Prompts"
-description: "Una guía de prompts para filtrar y resumir rápidamente con IA las docenas de noticias diarias sobre Samsung y SK Hynix."
+description: "Prompt para filtrar y resumir al instante con IA las decenas de noticias diarias sobre Samsung y SK Hynix. Ahorra tiempo en tus inversiones."
 tags: ["Acciones", "Inversiones", "ResumenNoticias", "Samsung", "SKHynix", "AsistenteIA"]
 ---
 
-# 📝 Cómo Resumir el Exceso de Noticias de Samsung y SK Hynix con IA
+## 📝 Cómo Resumir el Exceso de Noticias de Samsung y SK Hynix con IA
 
-- **🎯 Público Objetivo:** Inversores activos, Traders diarios, Accionistas cansados de la sobrecarga de información
-- **⏱️ Tiempo Ahorrado:** de 30 minutos → a 1 minuto
-- **🤖 IA Recomendada:** IA capaz de buscar en la web en tiempo real (Perplexity, ChatGPT Search, Claude, etc.)
+- **🎯 Público objetivo:** Inversores activos, day traders, accionistas agotados por la sobrecarga de información
+- **⏱️ Tiempo ahorrado:** de 30 minutos → a 1 minuto
+- **🤖 IA recomendada:** Modelos con búsqueda web en tiempo real (Perplexity, ChatGPT Search, Claude, etc.)
 
 - ⭐ **Dificultad:** ⭐☆☆☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"¿No tienes tiempo para leer el diluvio de noticias de semiconductores en tu viaje al trabajo? Déjalo a la IA."_
+> _"¿No tienes tiempo para leer el aluvión de noticias sobre semiconductores de camino al trabajo? Déjaselo a la IA."_
 
-En el mercado de valores, la 'velocidad de la información' es vital. Para acciones que dominan el mercado como Samsung Electronics y SK Hynix, docenas de artículos de noticias similares surgen diariamente de varios medios de comunicación. Aquí tienes un prompt que filtra artículos duplicados e identifica rápidamente solo las verdaderas 'buenas' y 'malas noticias' que afectarán el precio de las acciones.
+En el mercado de valores, la 'velocidad de la información' lo es todo. Para gigantes del mercado como Samsung Electronics y SK Hynix, todos los días surgen decenas de artículos similares en diversos medios. Aquí tienes un prompt diseñado para filtrar artículos duplicados e identificar rápidamente solo las verdaderas 'buenas' y 'malas' noticias que impactarán directamente en el precio de las acciones.
 
 ---
 
-## ⚡️ Resumen de 3 Líneas (TL;DR)
+## ⚡️ Resumen de 3 líneas (TL;DR)
 
-1. Puedes atravesar numerosos artículos duplicados y recibir un informe únicamente en de las 3 a 5 noticias más importantes.
-2. Categoriza claramente el impacto a corto plazo en los precios como 'Buenas / Malas noticias'.
-3. En una mañana atareada, puedes captar el estado general de este mercado en apenas 1 minuto.
+1. Podrás evadir el ruido de los artículos duplicados y recibir un informe exclusivo con las 3 a 5 noticias más críticas.
+2. Categoriza claramente el impacto a corto plazo en el precio de las acciones como 'Buenas noticias' o 'Malas noticias'.
+3. En una mañana ajetreada, lograrás captar el sentimiento general del mercado en apenas 1 minuto.
 
 ---
 
@@ -37,60 +37,60 @@ En el mercado de valores, la 'velocidad de la información' es vital. Para accio
 
 ### 🥉 Versión Básica (Basic Version)
 
-Úsalo cuando solo necesites repasar rápido los temas principales esta mañana.
+Úsala cuando solo necesites un repaso rápido de los temas principales de la mañana.
 
-> **Rol:** Eres un `[Comisario Rápido y Exacto de Noticias Económicas]`.
-> **Tarea:** Dame los 3 principales titulares de noticias y un resumen en una línea relacionados a `[Samsung Electronics]` y `[SK Hynix]` esta mañana.
+> **Rol:** Eres un `[Curador Rápido y Preciso de Noticias Financieras]`.
+> **Tarea:** Dame los 3 titulares principales y un resumen de una línea de las noticias de esta mañana relacionadas con `[Samsung Electronics]` y `[SK Hynix]`.
 
 ### 🥇 Versión Pro (Pro Version)
 
-Úsalo si precisas señales de inversión y no solo un sumario breve (como determinar si son buenas o malas noticias).
+Úsala si necesitas señales de inversión claras y no solo un breve resumen (por ejemplo, para determinar si realmente son buenas o malas noticias).
 
-> **Rol (Role):** Eres el `[Jefe de Investigación a cargo de los informes matutinos en un Centro de Investigación de Wall Street]`.
+> **Rol (Role):** Eres el `[Jefe de Investigación a cargo de los informes matutinos en un fondo de inversión de Wall Street]`.
 >
 > **Contexto (Context):**
 >
-> - Antecedentes: `[Un inversor atareado necesita captar la situación del mercado en 1 minuto en su trayecto diario]`
-> - Objetivo: `[Eliminar noticias repetidas y entregar solo información central comprimida que afectará los precios accionarios]`
+> - Antecedentes: `[Un inversor muy ocupado necesita asimilar la situación del mercado en 1 minuto durante su trayecto al trabajo]`
+> - Objetivo: `[Filtrar noticias repetidas y entregar únicamente la información clave y resumida que afectará el precio de las acciones]`
 >
 > **Tarea (Task):**
 >
-> 1. Elige las 3 noticias más esenciales vinculadas a `[Samsung Electronics]` y `[SK Hynix]` recientes (ultimas 24h).
-> 2. Para cada noticia, precisa un 'Resumen Central (máximo 2 frases)' y su 'Impacto en el Precio de las Acciones (Buenas / Malas Noticias / Neutral y sus motivos)'.
-> 3. Proveer de un apunte en una línea sintetizando el sentir inversor general del sector de semiconductores el día de hoy con base en estas notas.
+> 1. Selecciona las 3 noticias más relevantes de las últimas 24 horas sobre `[Samsung Electronics]` y `[SK Hynix]`.
+> 2. Para cada noticia, proporciona un 'Resumen Clave (máximo 2 oraciones)' y su 'Impacto en la Acción (Buena noticia / Mala noticia / Neutral, incluyendo los motivos)'.
+> 3. Añade una nota de una sola línea que sintetice el sentimiento general de los inversores en el sector de los semiconductores para el día de hoy, basándote en estas noticias.
 >
 > **Restricciones (Constraints):**
 >
-> - La apariencia de salida deber ser tipo 'Lista' compatible para el móvil usando emojis. Omitir Tablas (Table) si es posible.
-> - Descarta notas sensacionalistas o narrativas sin justificación. Escoge notas vinculadas estrictamente a asuntos "fundamentales" (rentabilidades, avances, lazos comerciales o impactos macroeconómicos directos).
+> - El formato de salida debe ser una 'Lista' con viñetas y emojis, optimizada para lectura en móviles. Evita estrictamente el uso de tablas (Tables).
+> - Descarta artículos sensacionalistas o narrativas sin justificación clara. Elige exclusivamente noticias vinculadas a factores "fundamentales" (ingresos, avances tecnológicos, alianzas comerciales o impactos macroeconómicos directos).
 >
 > **Advertencia (Warning):**
 >
-> - Bajo ninguna justificación sumes o des crédito a la rumorología vacía. Todo sin soporte concreto real, ignóralo para salvaguardar tu veracidad. (Prevenir alucinamiento).
+> - Bajo ninguna circunstancia incluyas rumores sin fundamento. Ignora cualquier información sin soporte comprobable para mantener la máxima veracidad. (Prevenir alucinaciones).
 
 ---
 
 ## 💡 Comentarios del Autor (Insight)
 
-La raíz de esta metodología trasciende la palabra 'Resumir'; descansa en obligar la criba (fijar topes) a temas meramente fundamentales. En lugar de estar cazando por diversas webs o interfaces, hazte el propósito de ingerir lo que tu Inteligencia Artificial cocinó a tu perfil cada mañana al disfrutar tú café. Constituye ser la jugada máxima e inteligente con el propósito de saber surfear en tiempos de tanto cauce inútil o repetitivo y no llegar al agobio y caos.
+El verdadero poder de esta metodología va mucho más allá de la simple acción de 'Resumir'; reside en forzar a la IA a filtrar y enfocarse puramente en factores fundamentales. En lugar de perder tiempo saltando entre portales de noticias o aplicaciones de bolsa, acostúmbrate a consumir el análisis que tu IA ha preparado a medida para ti mientras tomas tu café matutino. Es la estrategia más inteligente para navegar en esta era de exceso de información y ruido repetitivo sin terminar abrumado.
 
 ---
 
 ## 🙋 Preguntas Frecuentes (FAQ)
 
-- **P: ¿Cómo conoce la máquina la última información y su novedad real?**
-  - R: Si ocupas ChatGPT con motores o accesos de navegador web o herramientas como Perplexity esta rastrea, recopila las ultimátum al vuelo e inmediatamente a su búsqueda te proporciona lo real de ese momento vital.
+- **P: ¿Cómo sabe la IA cuál es la información más reciente y si es realmente una novedad?**
+  - R: Si utilizas versiones de ChatGPT con navegación web, o herramientas especializadas como Perplexity, estas rastrean y recopilan los datos más recientes en tiempo real, proporcionándote la información exacta en el momento en que realizas la búsqueda.
 
-- **P: ¿Puedo adaptar esto con otra entidad empresarial, ejemplo (Nvidia)?**
-  - R: Por supuesto todo queda libre y moldeable al modificar los nombres encerrados. Cambia `[Samsung Electronics]` entre los brackets por tu querencia u opción accionaria, sus frutos lucirán inalterablemente certeros e iguales en destreza y capacidad analítica.
+- **P: ¿Puedo adaptar este prompt para otras empresas, por ejemplo, Nvidia?**
+  - R: Por supuesto. El prompt es completamente flexible; solo necesitas modificar las variables entre corchetes. Cambia `[Samsung Electronics]` por la empresa o acción de tu preferencia, y los resultados mantendrán el mismo nivel de precisión y capacidad analítica.
 
 ---
 
 ## 🧬 Anatomía del Prompt (Why it works?)
 
-1. **Segmentación de la Tarea (Task):** Al pedir no solo un simple resumen sino un dictamen sobre el 'Impacto en el precio', subimos la exigencia técnica al mismo grado real analítico usado y servido por especialistas.
-2. **Restricciones (Constraints):** Colocar el filtro expreso sobre noticias que no posean trasfondo empresarial borra el 'ruido' trivial para acrecentar la eficacia con nutrición y valor financiero puro.
-3. **Optimización de Interfaz (UX):** El vetar el uso de tabla permite gozar de una grata y rápida lectura veloz en los medios transportables celulares durante las horas tempranas sin aturdir tu vista.
+1. **Segmentación de la Tarea (Task):** Al solicitar no solo un resumen, sino un veredicto explícito sobre el 'Impacto en la acción', elevamos la exigencia técnica al mismo nivel analítico que ofrecen los especialistas financieros.
+2. **Restricciones (Constraints):** Aplicar un filtro estricto contra noticias sin un trasfondo empresarial real elimina el 'ruido' trivial, maximizando la eficiencia y aportando puro valor financiero.
+3. **Optimización de Interfaz (UX):** Prohibir el uso de tablas garantiza una lectura cómoda y fluida en la pantalla de un teléfono móvil durante las primeras horas de la mañana, evitando la fatiga visual.
 
 ---
 
@@ -127,6 +127,6 @@ Doble triunfo; con notificaciones altísimas las visiones en inversiones y finan
 
 ## 🎯 Conclusión
 
-No tienes que empezar todas tus mañanas lidiando y recibiendo baldes colosos de alertas inservibles con puras nimiedades no tangibles al mercado.
+Ya no tienes que empezar cada mañana lidiando con una avalancha de notificaciones inútiles que no aportan valor real al mercado.
 
-¡Activa tu Asistente, despierta la automatización y domina las primeras horas invirtiendo al máximo tus espacios libres! 🍷
+¡Activa tu Asistente IA, automatiza tu flujo de información y domina las primeras horas del día maximizando el rendimiento de tu tiempo! 🍷

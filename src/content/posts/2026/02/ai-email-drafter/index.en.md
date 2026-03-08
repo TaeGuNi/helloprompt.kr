@@ -5,13 +5,13 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "업무 자동화"
-description: " \"'안녕하세요'만 쓰고 멍 때리는 당신을 위한 AI 이메일 비서 프롬프트.\""
+description: "Draft perfect emails in seconds with this AI assistant prompt for professionals staring blankly at the screen after typing 'Dear...'."
 tags: ["이메일", "ChatGPT", "업무효율", "프롬프트"]
 ---
 
-# 📝 Draft Perfect Emails in 3 Seconds with AI
+## 📝 Draft Perfect Emails in 3 Seconds with AI
 
-- **🎯 Recommended For:** Professionals sending 10+ business emails daily, or anyone dreading writing polite refusals or follow-ups.
+- **🎯 Recommended For:** Professionals sending 10+ business emails daily, or anyone who dreads drafting polite refusals or tricky follow-ups.
 - **⏱️ Time Saved:** 10 minutes → 10 seconds
 - **🤖 Recommended Models:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini Advanced
 
@@ -21,14 +21,14 @@ tags: ["이메일", "ChatGPT", "업무효율", "프롬프트"]
 
 > _"Staring at a blank screen after typing 'Dear...' for 10 minutes? Let AI handle the emotional labor of writing emails so you can focus on clocking out."_
 
-In business communication, formatting and tone are crucial, but the time and emotional energy spent agonizing over the perfect wording is highly draining. By simply giving AI your core objective and context, you can generate a flawless business email perfectly tailored to the recipient's rank and situation—in just 3 seconds.
+In business communication, formatting and tone are crucial, but the time and emotional energy spent agonizing over the perfect wording can be exhausting. By simply providing an AI with your core objective and context, you can generate a flawless business email perfectly tailored to the recipient's rank and the specific situation—in just 3 seconds.
 
 ---
 
 ## ⚡️ TL;DR (3-Line Summary)
 
-1. **Clarify Context & Target:** Instruct the AI on the exact relationship between sender and recipient, alongside the core purpose of the email.
-2. **Define Tone & Manner:** Finely tune the vibe by specifying whether the email should be "polite," "firm," or "persuasive" based on the situation.
+1. **Clarify Context & Target:** Instruct the AI on the exact relationship between the sender and recipient, alongside the core purpose of the email.
+2. **Define Tone & Manner:** Finely tune the vibe by specifying whether the email should be "polite," "firm," or "persuasive" based on the context.
 3. **Copy & Fact-Check:** Review the generated draft strictly for factual accuracy (proper nouns, dates, numbers), then hit send.
 
 ---
@@ -41,7 +41,6 @@ Use this for quick, straightforward replies or simple informational emails.
 
 > **Role:** You are a highly capable business assistant.
 > **Task:** Write a polite email to Assistant Manager Kim at our partner company, asking to postpone this Friday's meeting to next Monday at 2:00 PM. The reason is a sudden change in our internal executive schedule.
-
 
 ### 🥇 Pro Version
 
@@ -90,7 +89,7 @@ Because AI lacks emotions, it elegantly translates raw, frustrated thoughts like
   - A: Change the sender/recipient relationship in the "Context" section to `[Team Leader]` and `[Team Member]`. Then, tweak the tone in the "Task" section to `Concise, bottom-line-up-front report style` or `Friendly yet respectful.` The AI will perfectly calibrate the email to your internal dynamics.
 
 - **Q: Won't it sound too obvious that an AI wrote it?**
-  - A: The prompt explicitly includes a constraint to "avoid unnecessary fluff," which drastically cuts down on the exaggerated, overly enthusiastic phrasing typical of default AI outputs. If you just lightly tweak the greeting or sign-off to match your usual personal style, it will be completely indistinguishable from a human-written email.
+  - A: The prompt explicitly includes a constraint to "avoid unnecessary fluff," which drastically cuts down on the exaggerated, overly enthusiastic phrasing typical of default AI outputs. If you lightly tweak the greeting or sign-off to match your usual personal style, it will be completely indistinguishable from a human-written email.
 
 ---
 

@@ -5,15 +5,15 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 생산성"
-description: " \"두서없는 회의 스크립트를 깔끔한 액션 아이템(Action Item)과 결정 사항으로 변환하는 마법의 프롬프트.\""
+description: "두서없는 회의 스크립트를 깔끔한 액션 아이템(Action Item)과 결정 사항으로 변환하는 마법의 프롬프트."
 tags: ["회의록", "요약", "클로바노트", "액션아이템"]
 ---
 
-# 📝 Escape Meeting Minutes Hell: A Prompt That Summarizes a 1-Hour Meeting in 10 Seconds
+## 📝 Escape Meeting Minutes Hell: A Prompt That Summarizes a 1-Hour Meeting in 10 Seconds
 
-- **🎯 Highly Recommended For:** Junior PMs, New hires tasked with note-taking, Leaders drowning in back-to-back meetings
+- **🎯 Highly Recommended For:** Junior PMs, new hires tasked with note-taking, and leaders drowning in back-to-back meetings
 - **⏱️ Time Saved:** 30 minutes → 10 seconds
-- **🤖 Recommended AI Models:** Claude 3.5 Sonnet (Unbeatable for long context), GPT-4o
+- **🤖 Recommended AI Models:** Claude 3.5 Sonnet (unbeatable for long contexts), GPT-4o
 
 - ⭐ **Difficulty:** ⭐☆☆☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
@@ -21,7 +21,7 @@ tags: ["회의록", "요약", "클로바노트", "액션아이템"]
 
 > _"The meeting is finally over, but are you staying another 30 minutes late just to type up the minutes? Free yourself completely from the agony of meeting summaries with a single 'Copy + Paste'."_
 
-You've managed to secure the transcript via dictation tools or Zoom captions. But when you open it, it's an unreadable mess filled with "uh," "so," and awkward casual chatter. You can't possibly share this raw text with your boss or team. What you *actually* need in the real world is a crystal-clear list of Action Items that explicitly state **'Who, is doing What, by When'**.
+You've managed to secure the transcript via dictation tools or Zoom captions. But when you open it, it's an unreadable mess filled with "uh," "so," and awkward casual chatter. You can't possibly share this raw text with your boss or team. What you *actually* need in the real world is a crystal-clear list of Action Items that explicitly states **'Who is doing What, by When'**.
 
 ---
 
@@ -43,7 +43,6 @@ Perfect for when you just need a rapid grasp of the core context without any com
 > **Task:** Analyze the meeting transcript below and provide a clean summary divided into: 1) Key Discussion Topics, 2) Final Decisions, and 3) Next Steps.
 >
 > `[Paste the meeting transcript here]`
-
 
 ### 🥇 Pro Version
 
@@ -101,10 +100,10 @@ This prompt is my absolute "secret weapon." I actually have it integrated direct
 
 ---
 
-## 🧬 Anatomy of the Prompt (Why it works)
+## 🧬 Anatomy of the Prompt (Why It Works)
 
-1.  **Format Enforcing:** By forcing the Action Items into a checklist (`- [ ]`) with explicit 'Assignee/Deadline' brackets—rather than using plain text or horizontal-scrolling tables—we drastically improve mobile readability and preemptively eliminate task omissions.
-2.  **Noise Filtering:** The constraints explicitly instruct the AI to strip out filler words and small talk, maximizing the Signal-to-Noise Ratio of the final document.
+1.  **Format Enforcing:** By forcing the Action Items into a checklist (`- [ ]`) with explicit 'Assignee/Deadline' brackets—rather than using plain text or horizontally-scrolling tables—we drastically improve mobile readability and preemptively eliminate task omissions.
+2.  **Noise Filtering:** The constraints explicitly instruct the AI to strip out filler words and small talk, maximizing the signal-to-noise ratio of the final document.
 3.  **TBD Handling (Controlling Uncertainty):** By forcing the AI to flag unassigned tasks as 'TBD' instead of arbitrarily guessing an owner, it visually highlights the dangerous 'accountability holes' that so often occur in real-world corporate environments.
 
 ---

@@ -9,7 +9,7 @@ description: "Master the Steampunk aesthetic prompt: generate breathtaking 19th-
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Sci-Fi", "Retro"]
 ---
 
-# 📝 Brass and Steam: Mastering the Steampunk Aesthetic
+## 📝 Brass and Steam: Mastering the Steampunk Aesthetic
 
 - **🎯 Recommended For:** Prompt Engineers, Concept Artists, Sci-Fi Enthusiasts
 - **⏱️ Time Required:** 5 minutes
@@ -21,13 +21,13 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Sci-Fi", "Retro"]
 
 > _"Breathe life into a world where Victorian elegance collides with raw mechanical power."_
 
-Steampunk is more than a mere subgenre—it’s a meticulously engineered alternate reality running on steam, brass, and boundless imagination. When it comes to AI image generation, simply typing "steampunk" will often leave you with flat, uninspired results. The true lifeblood of this iconic visual aesthetic lies in the gritty details: oxidized copper, weathered leather, intricate interlocking gears, aviator goggles, and thick, billowing steam.
+Steampunk is more than a mere subgenre—it’s a meticulously engineered alternate reality fueled by steam, brass, and boundless imagination. When generating AI imagery, simply typing "steampunk" often yields flat, uninspired results. The true lifeblood of this iconic visual aesthetic lies in its gritty, tactile details: oxidized copper, weathered leather, interlocking clockwork gears, aviator goggles, and thick, billowing steam.
 
 ---
 
 ## ⚡️ 3-Line Summary (TL;DR)
 
-1. The `Steampunk` keyword sets the foundational mood, doing the initial heavy lifting.
+1. The `Steampunk` keyword sets the foundational mood and does the initial heavy lifting.
 2. Granular material prompts like `oxidized brass`, `exposed gears`, and `intricate clockwork` are essential for injecting tactile realism.
 3. Color palettes and lighting dictate the cinematic atmosphere: prioritize `sepia tones`, `bronze highlights`, and `warm cinematic lighting`.
 
@@ -74,7 +74,7 @@ Use this structured prompt to generate high-fidelity, production-ready cinematic
 
 ## 💡 Writer's Insight
 
-The most frequent mistake beginners make when generating Steampunk art is leaning entirely on the baseline genre keyword. Left to its own devices, an AI model will often default to generic, borderline cartoonish clichés. By explicitly defining the _materials_ (brass, copper, weathered leather) and the _mechanics_ (clockwork, exposed gears, pressurized pipes), you compel the AI to render tangible, photorealistic textures. Furthermore, introducing "volumetric smoke and venting steam" not only creates stunning atmospheric depth, but also cleverly masks minor structural imperfections in complex gear geometries—instantly elevating the image with an authentic, gritty industrial vibe.
+The most frequent mistake beginners make when generating Steampunk art is leaning entirely on the baseline genre keyword. Left to its own devices, an AI model will often default to generic, borderline cartoonish clichés. By explicitly defining the _materials_ (**brass**, **copper**, **weathered leather**) and the _mechanics_ (**clockwork**, **exposed gears**, **pressurized pipes**), you compel the AI to render tangible, photorealistic textures. Furthermore, introducing "volumetric smoke and venting steam" not only creates stunning atmospheric depth but also cleverly masks minor structural imperfections in complex gear geometries—instantly elevating the image with an authentic, gritty industrial vibe.
 
 ---
 

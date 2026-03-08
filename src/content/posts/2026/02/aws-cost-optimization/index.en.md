@@ -9,7 +9,7 @@ description: "Is your cloud budget leaking? Stop the AWS billing bomb in 1 minut
 tags: ["AWS", "클라우드", "비용절감", "DevOps", "인프라"]
 ---
 
-# 💸 Cut AWS Costs by 50%: The Ultimate Checklist to Prevent EC2 & RDS Billing Bombs
+## 💸 Cut AWS Costs by 50%: The Ultimate Checklist to Prevent EC2 & RDS Billing Bombs
 
 - **🎯 Target Audience:** Startup CEOs fainting over end-of-month AWS bills, and developers constantly asked, "Why are our server costs so high?"
 - **⏱️ Time Required:** 5 minutes (Cost Explorer Analysis)
@@ -21,31 +21,31 @@ tags: ["AWS", "클라우드", "비용절감", "DevOps", "인프라"]
 
 > _"Ten t3.medium instances... Are we absolutely sure we need all of these running right now?"_
 
-The most terrifying aspect of the cloud isn't "pay-as-you-go"—it's **"pay-as-you-leave-it-on."** There is no need to wander aimlessly through the labyrinth of the AWS Cost Explorer dashboard. Simply feed your billing data and current architecture to your AI, and instruct it: **"Pinpoint exactly where our hard-earned money is bleeding out."** In just 5 minutes, you can generate a tailored FinOps strategy capable of saving you thousands of dollars a month.
+The most terrifying aspect of the cloud isn't "pay-as-you-go"—it's **"pay-as-you-leave-it-on."** There is no longer any need to wander aimlessly through the labyrinth of the AWS Cost Explorer dashboard. Simply feed your billing data and current architecture into your AI, and instruct it to **pinpoint exactly where your hard-earned budget is bleeding out.** In just five minutes, you can generate a tailored FinOps strategy capable of saving you thousands of dollars a month.
 
 ---
 
 ## ⚡️ 3-Line Summary (TL;DR)
 
-1. Extract the 'Monthly costs by service' CSV data from AWS Cost Explorer.
-2. Provide the AI with your data and current architecture, instructing it to hunt down inefficient expenditures.
-3. Immediately implement the suggested strategies for Spot Instances, Auto Scaling, and Commitment Discounts into your actual workflow.
+1. Extract your 'Monthly costs by service' CSV report from AWS Cost Explorer.
+2. Provide your AI with this data alongside your current architecture to hunt down inefficient expenditures.
+3. Immediately implement the suggested strategies for Spot Instances, Auto Scaling, and Commitment Discounts directly into your workflow.
 
 ---
 
-## 🚀 Solution: "Cloud Cost Cutter" Prompt
+## 🚀 Solution: The "Cloud Cost Cutter" Prompt
 
 ### 🥉 Basic Version
 
-Use this when you have no idea where the money is going and need to quickly identify idle, zombie resources.
+Use this when you have no idea where your budget is draining and need to quickly identify idle, zombie resources.
 
 > **Role:** You are a Senior Cloud Architect.
 > 
-> **Task:** Looking at my AWS billing history, my `[EBS Volume]` costs are abnormally high. Identify all unattached volumes, obsolete snapshots, and unassigned Elastic IPs. Provide the exact AWS CLI commands to delete them safely, along with any necessary precautions.
+> **Task:** Based on my AWS billing history, my `[EBS Volume]` costs are abnormally high. Identify all unattached volumes, obsolete snapshots, and unassigned Elastic IPs. Provide the exact AWS CLI commands to delete them safely, along with any necessary precautions.
 
 ### 🥇 Pro Version
 
-The ultimate prompt when you need structural cost reduction and an automated scaling strategy.
+The ultimate prompt for structural cost reduction and automated scaling strategies.
 
 > **Role:** You are a Lead AWS FinOps Consultant managing enterprise-grade infrastructure.
 >
@@ -74,7 +74,7 @@ The ultimate prompt when you need structural cost reduction and an automated sca
 
 ## 💡 Writer's Insight
 
-One of the most common—and fatal—mistakes startups make is **leaving Dev/Stage servers running 24/7, including nights and weekends.** Simply implementing an `Instance Scheduler` to automatically terminate instances outside of business hours can instantly wipe out over 60% of your development server costs. 
+One of the most common—and fatal—mistakes startups make is **leaving Dev/Stage servers running 24/7, including nights and weekends.** Simply implementing an `Instance Scheduler` to automatically terminate instances outside of core business hours can instantly wipe out over 60% of your development server costs. 
 
 Take the ideas generated from this prompt a step further by asking the AI a follow-up question: **"Write the Terraform code (or CloudFormation template) to apply this exact strategy."** By doing so, you complete the entire infrastructure automation loop in a single sitting.
 
@@ -119,6 +119,6 @@ Take the ideas generated from this prompt a step further by asking the AI a foll
 
 ## 🎯 Conclusion
 
-Cloud Cost Optimization (FinOps) isn't some mythical, advanced dark art. It is simply the fastest, most surefire way to pick up the company money you're currently leaving on the table.
+Cloud Cost Optimization (FinOps) isn't some mythical, advanced dark art. It is simply the fastest, most surefire way to reclaim the company budget you're currently leaving on the table.
 
 First thing tomorrow morning, toss your AWS bill to the AI and command it: **"Cut my server bill in half."** 🍷

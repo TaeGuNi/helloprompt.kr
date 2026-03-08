@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "콘텐츠 제작"
-description: " \"Ein Master-Prompt für Content Repurposing: Verwandeln Sie einen einzigen Blogartikel mit KI in 5 verschiedene Formate.\""
+description: "Ein Master-Prompt für Content Repurposing: Verwandeln Sie einen einzigen Blogartikel mit KI in 5 verschiedene Formate für maximale Reichweite."
 tags: ["콘텐츠마케팅", "인스타그램", "링크드인", "생산성"]
 ---
 
-# 📝 Aus einem Blogpost mach fünf: Der ultimative OSMU-Prompt für Instagram, LinkedIn & Co.
+## 📝 Aus einem Blogpost mach fünf: Der ultimative OSMU-Prompt für Instagram, LinkedIn & Co.
 
 - **🎯 Empfohlen für:** Solo-Marketer, Solopreneure und Content Creator, die alle Kanäle allein managen.
 - **⏱️ Zeitaufwand:** 2 Stunden → 5 Minuten
@@ -21,7 +21,7 @@ tags: ["콘텐츠마케팅", "인스타그램", "링크드인", "생산성"]
 
 > _"Warum lassen Sie den Blogartikel, in den Sie Ihr ganzes Herzblut gesteckt haben, nach nur einer Veröffentlichung verstauben?"_
 
-Es dauert im Durchschnitt 3 bis 4 Stunden, einen exzellenten Blogbeitrag zu schreiben. Es ist jedoch eine enorme Verschwendung, diesen sorgfältig verfassten Text nur auf Ihrem Blog liegen zu lassen. Ein gut geschriebener Artikel ist gleichzeitig ein hervorragendes Skript für YouTube Shorts, eine Karussell-Post-Idee für Instagram und ein fundierter Expertenbeitrag für LinkedIn.
+Es dauert im Durchschnitt 3 bis 4 Stunden, einen exzellenten Blogbeitrag zu schreiben. Es ist jedoch eine enorme Verschwendung, diesen sorgfältig verfassten Text nur auf Ihrem Blog liegen zu lassen. Ein gut geschriebener Artikel ist gleichzeitig ein hervorragendes Skript für YouTube Shorts, eine geniale Karussell-Post-Idee für Instagram und ein fundierter Expertenbeitrag für LinkedIn.
 
 Wenn Sie bisher für jede Plattform mühsam neue Inhalte geplant und geschrieben haben, können Sie jetzt damit aufhören. Bauen Sie mit KI ein perfektes **"One Source Multi Use" (OSMU)**-System auf und steigern Sie die Reichweite Ihrer Inhalte explosionsartig um das Fünffache.
 
@@ -49,7 +49,6 @@ Verwenden Sie diese Version, wenn Sie möglichst schnell Texte benötigen, die S
 > 3. LinkedIn Post (Professioneller Ton, Fokus auf Business Insights)
 > 
 > **Originaltext:** `[Fügen Sie hier Ihren Text ein]`
-
 
 ### 🥇 Pro Version (Für Experten)
 
@@ -93,7 +92,7 @@ Diese Version geht über eine einfache Zusammenfassung hinaus und liefert ein Ko
 
 ## 💡 Writer's Insight (Expertenkommentar) {#insight}
 
-Der wahre Wert dieses Prompts liegt in der **"Trennung der plattformspezifischen Personas"**. Auch wenn der Inhalt derselbe ist, zählen auf Instagram vor allem "visuelle Reize und prägnante Zusammenfassungen", während auf LinkedIn "praktische Einblicke und berufliche Erfahrungen" im Vordergrund stehen.
+Der wahre Wert dieses Prompts liegt in der **"Trennung der plattformspezifischen Personas"**. Auch wenn der Inhalt derselbe ist, zählen auf Instagram vor allem **visuelle Reize und prägnante Zusammenfassungen**, während auf LinkedIn **praktische Einblicke und berufliche Erfahrungen** im Vordergrund stehen.
 
 Besonders bei der Erstellung von LinkedIn-Posts werden Sie mit der bloßen Aneinanderreihung von Informationen kaum echte Reaktionen erzielen. Wenn Sie, wie im Prompt angewiesen, den Rahmen **"Was ich beim Schreiben dieses Textes gelernt habe"** oder **"Fehlschläge und deren Überwindung in der Praxis"** anwenden, werden Sie deutlich mehr Likes und Shares generieren. Mit diesem einen Prompt erreichen Sie eine extreme Effizienz – als hätten Sie drei professionelle Content-Strategen direkt an Ihrer Seite.
 
@@ -102,13 +101,13 @@ Besonders bei der Erstellung von LinkedIn-Posts werden Sie mit der bloßen Anein
 ## 🙋 Häufig gestellte Fragen (FAQ) {#faq}
 
 - **Q: Schneidet die KI den Text ab oder lässt sie Dinge aus, wenn der Originaltext zu lang ist?**
-  - A: Moderne Modelle wie GPT-4o oder Claude 3.5 Sonnet verarbeiten mühelos Tausende von Zeichen. Wenn Sie jedoch einen extrem langen Artikel (z. B. mehr als 10 A4-Seiten) haben, erzielen Sie deutlich schärfere Ergebnisse, wenn Sie nur den wichtigsten Hauptteil extrahieren und eingeben, anstatt Einleitung, Hauptteil und Schluss komplett zu übergeben.
+  - A: Moderne Modelle wie GPT-4o oder Claude 3.5 Sonnet verarbeiten mühelos Tausende von Zeichen. Wenn Sie jedoch einen extrem langen Artikel (z. B. mehr als 10 A4-Seiten) haben, erzielen Sie deutlich präzisere Ergebnisse, wenn Sie nur den **wichtigsten Hauptteil extrahieren** und eingeben, anstatt den kompletten Text samt Einleitung und Schluss zu übergeben.
 
 - **Q: Kann ich die Image-Prompts für Karussell-Posts anstelle von Midjourney direkt in ChatGPT (DALL-E 3) verwenden?**
   - A: Ja, absolut! Ändern Sie einfach den Teil `[Midjourney Prompt (auf Englisch) zur Bildgenerierung]` in den Anweisungen des Prompts zu `[DALL-E 3 Bildgenerierungs-Prompt]`. So können Sie nach Erhalt des Textes die Bilder direkt im selben ChatGPT-Chatverlauf erstellen lassen.
 
 - **Q: Kann ich das Skript für die Shorts einfach exakt so ablesen, wie es generiert wurde?**
-  - A: Obwohl die KI das Skript in einem gesprächsartigen Tonfall verfasst, hat jeder Mensch seine eigene Sprechweise und Atemtechnik. Es empfiehlt sich, das von der KI gelieferte Skript einmal laut vorzulesen und Wörter sowie Satzenden leicht an Ihren eigenen Rhythmus anzupassen. So entsteht ein viel natürlicheres und hochwertigeres Video.
+  - A: Obwohl die KI das Skript in einem gesprächsartigen Tonfall verfasst, hat jeder Mensch seine eigene Sprechweise und Atemtechnik. Es empfiehlt sich, das von der KI gelieferte Skript einmal laut vorzulesen und Wörter sowie Satzenden leicht an Ihren eigenen Rhythmus anzupassen. So entsteht ein viel **natürlicheres und hochwertigeres Video**.
 
 ---
 
@@ -123,7 +122,7 @@ Besonders bei der Erstellung von LinkedIn-Posts werden Sie mit der bloßen Anein
 
 ### ❌ Vorher (Der alte Weg)
 
-Nach der Veröffentlichung eines Blogartikels ist man erschöpft und teilt lediglich den Blog-Link lieblos auf anderen Social-Media-Kanälen. (Reichweite und Klickraten sind katastrophal, der Post passt oft gar nicht in den Feed.)
+Nach der Veröffentlichung eines Blogartikels ist man oft erschöpft und teilt den Link nur noch lieblos auf anderen Social-Media-Kanälen. Das Ergebnis? Katastrophale Reichweiten und Klickraten, da der Post oft gar nicht zum Feed-Format der jeweiligen Plattform passt.
 
 ### ✅ Nachher (Mit dem Content Transformer)
 
@@ -131,7 +130,7 @@ Nach der Veröffentlichung eines Blogartikels ist man erschöpft und teilt ledig
 - **Instagram:** Visuelle Verbreitung durch Karussell-Posts mit einer "Scroll-stoppenden Hook".
 - **LinkedIn:** Aufbau von Business-Netzwerken und Autorität durch Artikel, die praktische Insights bieten.
 - **YouTube Shorts:** Maximale Sichtbarkeit bei einem breiten Publikum durch ein 60-sekündiges Highlight-Video.
-  👉 **Die Produktionszeit stieg um nur 5 Minuten, aber die Reichweite und das Engagement stiegen um mehr als 500 %!**
+  👉 **Die Produktionszeit stieg um nur 5 Minuten, aber die Reichweite und das Engagement explodierten um mehr als 500 %!**
 
 ---
 

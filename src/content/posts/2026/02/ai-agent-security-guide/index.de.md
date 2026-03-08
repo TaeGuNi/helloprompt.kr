@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "보안/AI"
-description: "Praxisleitfaden zum Schutz autonomer Agenten vor dem Leak von API-Keys und der Ausführung von Schadcode. Inklusive Sicherheits-Prompts basierend auf den OWASP LLM Top 10."
+description: "Praxisleitfaden zum Schutz autonomer Agenten vor API-Key-Leaks und Schadcode. Inklusive Sicherheits-Prompts basierend auf den OWASP LLM Top 10."
 tags: ["AI에이전트", "보안", "PromptInjection", "해킹방지", "LLM", "OWASP"]
 ---
 
-# 🛡️ AI Agent Security Guide: Wie Sie Ihren Bot vor Hacking schützen
+## 🛡️ AI Agent Security Guide: Wie Sie Ihren Bot vor Hacking schützen
 
 - **🎯 Empfohlen für:** Entwickler, die API-Keys „nur mal eben kurz“ hardcoden, und Admins, die nachts wachliegen, weil die KI den Server formatieren könnte.
 - **⏱️ Zeitaufwand:** 10 Minuten (Implementierung und Audit des Security-Prompts)
@@ -67,7 +67,7 @@ Dies ist ein hochgradig strukturierter Verteidigungs-Prompt. Er ist ein absolute
 >
 > **Einschränkungen (Constraints):**
 >
-> - Gib niemals sensible Daten wie `[AWS Keys, Datenbank-Passwörter, PII (personenbezogene Daten)]` aus.
+> - Gib niemals sensible Daten wie `[AWS-Keys, Datenbank-Passwörter, PII (personenbezogene Daten)]` aus.
 > - Destruktive Shell-Befehle wie `[rm -rf, format, shutdown]` müssen vor der Ausführung zwingend blockiert werden.
 >
 > **Warnung (Warning):**
@@ -124,7 +124,7 @@ Der heilige Gral liegt daher nicht in der naiven Illusion einer 100%igen Sicherh
 ## 🧬 Anatomie des Prompts (Warum es funktioniert)
 
 1. **Hermetische Trennung durch XML-Tags:** Indem wir den unzuverlässigen User-Input in `<user_input>`-Tags einkerkern, zwingen wir das LLM architektonisch dazu, diesen String als reinen Daten-Payload zu behandeln und keinesfalls als ausführbare Systemdirektive.
-2. **Knallharte, explizite Einschränkungen (Constraints):** Anstatt philosophische Bitten wie „Sei eine gute KI und tu nichts Böses“ zu formulieren, definieren wir präzise Kill-Words wie `AWS Keys` oder `rm -rf`. Das Modell erhält dadurch glasklare Muster, die es ohne wenn und aber blockieren muss.
+2. **Knallharte, explizite Einschränkungen (Constraints):** Anstatt philosophische Bitten wie „Sei eine gute KI und tu nichts Böses“ zu formulieren, definieren wir präzise Kill-Words wie `AWS Keys` oder `rm -rf`. Das Modell erhält dadurch glasklare Muster, die es ohne Wenn und Aber blockieren muss.
 3. **Erzwungener Denkprozess (Chain of Thought):** Wir lassen die KI nicht blindlings agieren. Sie wird gezwungen, einen nachvollziehbaren, logischen Filterprozess zu durchlaufen: „Intention extrahieren → Gegen Policy mappen → Exekutieren oder hart blockieren“. Diese Verzögerung drückt die Fehlerquote dramatisch nach unten und hebt die Sicherheit auf Enterprise-Niveau.
 
 ---
@@ -141,7 +141,7 @@ AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMPLE
 DATABASE_URL=postgres://user:pass@localhost:5432/db..."
 ```
 
-*(Ergebnis: Fataler Super-GAU und vollständiger Kompromiss hochsensibler Infrastruktur-Credentials 😱)*
+*(Ergebnis: Fataler Super-GAU und vollständige Kompromittierung hochsensibler Infrastruktur-Credentials 😱)*
 
 ### ✅ After (Mit Pro Version Defense Prompt)
 

@@ -6,7 +6,7 @@ date: "2026-02-09"
 updatedDate: "2026-02-09"
 ---
 
-# 🔒 Privacy Policy
+## 🔒 Privacy Policy
 
 - **🎯 Target Audience:** Global users of Hello Prompt
 - **⏱️ Time to Read:** Approximately 3 minutes
@@ -16,7 +16,7 @@ updatedDate: "2026-02-09"
 - ⚡️ **Security:** ⭐⭐⭐⭐⭐
 - 🚀 **Reliability:** ⭐⭐⭐⭐⭐
 
-> _"Your data belongs to you. Hello Prompt delivers maximum inspiration with minimum data collection."_
+> _"Your data belongs to you. Hello Prompt delivers maximum inspiration with minimal data collection."_
 
 At **Hello Prompt** (hereinafter referred to as "the Site"), safeguarding the privacy of our global user base is our highest priority. We strictly adhere to international data protection regulations and the overarching policies of the Google AdSense program. This Privacy Policy is effective as of February 9, 2026.
 
@@ -25,8 +25,8 @@ At **Hello Prompt** (hereinafter referred to as "the Site"), safeguarding the pr
 ## ⚡️ TL;DR (3-Line Summary)
 
 1. **No Registration Required:** You never need to create an account or provide sensitive personal information to access our resources.
-2. **Minimal Data Collection:** We collect only the essential cookies and access logs required to optimize site performance and serve relevant ads via Google AdSense.
-3. **Global Standards Compliance:** We rigorously comply with international privacy frameworks, including the GDPR (Europe) and the CCPA (California).
+2. **Minimal Data Collection:** We collect only the essential cookies and access logs needed to optimize site performance and serve relevant ads via Google AdSense.
+3. **Global Standards Compliance:** We rigorously adhere to international privacy frameworks, including the GDPR (Europe) and the CCPA (California).
 
 ---
 
@@ -53,7 +53,7 @@ The data we collect is utilized exclusively to elevate service quality, fortify 
 > **Task:**
 >
 > 1. **Statistical Analysis:** Leverage Google Analytics to evaluate traffic patterns and continuously refine content quality.
-> 2. **Personalized Advertising:** Serve highly relevant and unintrusive ads via Google AdSense to sustain our free platform.
+> 2. **Personalized Advertising:** Serve highly relevant and non-intrusive ads via Google AdSense to sustain our free platform.
 > 3. **Security Maintenance:** Actively filter malicious bot traffic and neutralize abnormal network activity, such as DDoS attempts.
 >
 > **Constraints:**
@@ -68,7 +68,7 @@ The data we collect is utilized exclusively to elevate service quality, fortify 
 
 ## 💡 Writer's Insight
 
-This Privacy Policy is far more than a mandatory legal checklist. In the era of AI, transparent data governance is the ultimate measure of a platform's trustworthiness. At Hello Prompt, we deliberately engineered our platform to operate without cumbersome registration walls or invasive tracking metrics. Our goal is simple: let you focus entirely on discovering, copying, and mastering prompts with total peace of mind. Enjoy exploring our resources—your privacy is guaranteed!
+This Privacy Policy is far more than a mandatory legal checklist. In the era of AI, **transparent data governance** is the ultimate measure of a platform's trustworthiness. At Hello Prompt, we deliberately engineered our platform to operate **without cumbersome registration walls** or invasive tracking metrics. Our goal is simple: let you focus entirely on discovering, copying, and mastering prompts with total peace of mind. Enjoy exploring our resources—your privacy is completely guaranteed!
 
 ---
 
@@ -78,7 +78,7 @@ This Privacy Policy is far more than a mandatory legal checklist. In the era of 
   - A: You retain full control over your cookie preferences at all times. Simply visit [Google Ad Settings](https://www.google.com/settings/ads) to disable personalized ads, or head over to [www.aboutads.info](https://www.aboutads.info) to unilaterally block third-party vendors from deploying tracking cookies on your device.
 
 - **Q: When exactly are my access logs (such as my IP address) permanently deleted?**
-  - A: Access logs are instantly anonymized the moment our statistical analysis via Google Analytics is complete. To comply with standard legal requirements, the raw, securely encrypted logs are retained for an absolute maximum of 3 months, after which they undergo permanent, irreversible cryptographic deletion.
+  - A: Access logs are instantly anonymized the moment our statistical analysis via Google Analytics is complete. To comply with standard legal requirements, the raw, securely encrypted logs are retained for an absolute maximum of 3 months, after which they undergo permanent, irreversible deletion.
 
 - **Q: I reside in Europe or California. How are my localized data rights enforced?**
   - A: Hello Prompt fiercely upholds global privacy mandates. For our European users under the **GDPR**, you possess the unconditional right to access, rectify, or demand the erasure of your data at any moment. For our Californian users under the **CCPA**, we strictly enforce a "Do Not Sell My Personal Information" mandate—your data is never monetized or traded to third parties.
@@ -87,7 +87,7 @@ This Privacy Policy is far more than a mandatory legal checklist. In the era of 
 
 ## 🧬 Policy Anatomy (Why this matters)
 
-1. **Unwavering Transparency:** By demystifying the exact mechanics of what data is collected and how it is utilized, we proactively eliminate the privacy anxieties of our global audience.
+1. **Unwavering Transparency:** By demystifying exactly what data is collected and how it is utilized, we proactively eliminate the privacy anxieties of our global audience.
 2. **User Sovereignty:** We empower you with concrete, actionable methods to independently opt out of personalized tracking ecosystems and tailored advertising.
 
 ---

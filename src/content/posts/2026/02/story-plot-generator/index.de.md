@@ -9,7 +9,7 @@ description: "Schreibblockaden überwinden: Entdecken Sie den perfekten KI-Promp
 tags: ["태그1", "태그2"]
 ---
 
-# 📝 Schreibblockaden überwinden! Der ultimative Web-Novel-Plot-Generator
+## 📝 Schreibblockaden überwinden! Der ultimative Web-Novel-Plot-Generator
 
 - **🎯 Zielgruppe:** Web-Novel-Autoren, Hobby-Schriftsteller, Story-Entwickler
 - **⏱️ Zeitaufwand:** 2 Stunden → 5 Minuten
@@ -21,7 +21,7 @@ tags: ["태그1", "태그2"]
 
 > _"Starrst du wieder stundenlang auf ein leeres Dokument, während die Deadline für dein nächstes Kapitel unaufhaltsam näher rückt?"_
 
-Jeder Autor kennt dieses zermürbende Gefühl: die gefürchtete Schreibblockade. Die Charaktere wirken plötzlich eindimensional, die Handlung stagniert, und der Spannungsbogen gleicht einer bedrohlichen Nulllinie. Besonders in der unerbittlich schnelllebigen Welt der Web-Novels, in der die Frequenz der Uploads direkt über Erfolg oder Misserfolg entscheidet, kann ein kreatives Tief geradezu fatal sein. Mit dem richtigen KI-Prompt durchbrichst du diese Blockade jedoch in wenigen Minuten. Du generierst fesselnde Plot-Ideen und unerwartete Wendungen, die deine Leserschaft buchstäblich an den Bildschirm fesseln werden.
+Jeder Autor kennt dieses zermürbende Gefühl: die gefürchtete Schreibblockade. Die Charaktere wirken plötzlich eindimensional, die Handlung stagniert, und der Spannungsbogen gleicht einer bedrohlichen Nulllinie. Besonders in der unerbittlich schnelllebigen Welt der Web-Novels, in der die Veröffentlichungsfrequenz direkt über Erfolg oder Misserfolg entscheidet, kann ein kreatives Tief geradezu fatal sein. Mit dem richtigen KI-Prompt durchbrichst du diese Blockade jedoch in wenigen Minuten. Du generierst fesselnde Plot-Ideen und unerwartete Wendungen, die deine Leserschaft buchstäblich an den Bildschirm fesseln werden.
 
 ---
 
@@ -64,7 +64,7 @@ Verwende diese detaillierte und strategische Struktur, wenn du ein komplettes Ka
 >
 > **Einschränkungen (Constraints):**
 >
-> - Greife auf keinerlei verbrauchte Klischees oder billige „Deus-ex-Machina“-Lösungen zurück.
+> - Greife auf keinerlei verbrauchte Klischees oder billige „Deus ex Machina“-Lösungen zurück.
 > - Formatiere die Ausgabe als übersichtliche Markdown-Struktur mit klaren Überschriften und prägnanten Stichpunkten.
 >
 > **Warnung (Warning):**

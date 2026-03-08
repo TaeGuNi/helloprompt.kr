@@ -724,3 +724,90 @@ p.subtitle {
   background: #fff;
   color: #000;
 }
+
+/* --- RELATED POSTS SECTION (SSR) --- */
+.related-posts-section {
+  margin-top: 80px;
+  padding-top: 40px;
+  border-top: 1px solid rgba(0, 243, 255, 0.2);
+  width: 100%;
+}
+
+.related-posts-header {
+  font-family: var(--font-orbitron);
+  font-size: 1.5rem;
+  color: var(--color-cyber-cyan);
+  margin-bottom: 30px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.related-posts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr));
+  gap: 20px;
+}
+
+.related-post-card {
+  background-color: rgba(10, 15, 24, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  padding: 20px;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  transition: all 0.3s ease;
+  backdrop-filter: blur(5px);
+  position: relative;
+  overflow: hidden;
+}
+
+.related-post-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 3px;
+  height: 100%;
+  background-color: transparent;
+  transition: background-color 0.3s;
+}
+
+.related-post-card:hover {
+  transform: translateY(-5px);
+  border-color: var(--color-cyber-cyan);
+  box-shadow: 0 5px 20px rgba(0, 243, 255, 0.15);
+}
+
+.related-post-card:hover::before {
+  background-color: var(--color-cyber-cyan);
+}
+
+.related-post-title {
+  color: #fff;
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin: 0 0 10px 0;
+  line-height: 1.4;
+  font-family: "Noto Sans KR", sans-serif;
+  transition: color 0.3s;
+}
+
+.related-post-card:hover .related-post-title {
+  color: var(--color-cyber-cyan);
+}
+
+.related-post-desc {
+  color: #a0aec0;
+  font-size: 0.9rem;
+  margin: 0;
+  line-height: 1.5;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

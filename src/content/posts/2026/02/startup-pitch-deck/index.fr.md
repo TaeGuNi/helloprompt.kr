@@ -5,32 +5,32 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "창업/기획"
-description: " \"내 아이템이 왜 대박인지 설명하기 어렵다면? 문제-해결-시장규모 순으로 완벽하게 정리하는 실리콘밸리식 IR 피치덱 프롬프트.\""
+description: "Vous n'arrivez pas à expliquer le potentiel de votre projet ? Voici un prompt de Pitch Deck façon Silicon Valley structuré en Problème-Solution-Marché."
 tags: ["스타트업", "IR", "피치덱", "투자유치", "발표"]
 ---
 
-# 🎤 Pitch Deck de Startup : Le storytelling qui convainc un investisseur en 30 secondes
+## 🎤 Pitch Deck de Startup : Le storytelling qui convainc un investisseur en 30 secondes
 
-- **🎯 Recommandé pour :** Les fondateurs qui ennuient les investisseurs avec trop de technique ("Notre techno est vraiment géniale..."), ou ceux dont les dossiers de candidature sont systématiquement rejetés.
-- **⏱️ Temps requis :** 10 minutes (Pour structurer parfaitement la trame narrative)
-- **🤖 Modèle recommandé :** Claude 3.5 Sonnet (Excellent pour la structuration logique et la rédaction), GPT-4o
+- **🎯 Recommandé pour :** Les fondateurs qui perdent l'attention des investisseurs avec trop de jargon technique ("Notre techno est révolutionnaire..."), ou ceux dont les dossiers de levée de fonds sont systématiquement rejetés.
+- **⏱️ Temps requis :** 10 minutes (le temps de structurer une trame narrative redoutable)
+- **🤖 Modèle recommandé :** Claude 3.5 Sonnet (excellent pour la rigueur logique et la rédaction), GPT-4o
 
 - ⭐ **Difficulté :** ⭐⭐☆☆☆
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
 - 🚀 **Utilité :** ⭐⭐⭐⭐⭐
 
-> _"Alors, en un mot, c'est quoi ? Êtes-vous le Google de ce marché, ou juste une énième appli de livraison ?"_
+> _"Alors, concrètement, c'est quoi ? Êtes-vous le Google de votre secteur, ou juste une énième appli de livraison ?"_
 
-Les investisseurs sont occupés. Les détails techniques que vous avez passés des nuits entières à développer ne les intéressent pas dans un premier temps. La seule chose qu'ils veulent savoir, c'est : **"Le problème de qui résolvez-vous, comment le résolvez-vous, et combien cela va-t-il rapporter ?"**
-Voici comment utiliser l'IA pour condenser ce flux en une dizaine de diapositives selon la formule du **"Pitch Deck façon Silicon Valley"**, et créer une trame narrative percutante en seulement 10 minutes.
+Les investisseurs sont débordés. Les détails techniques sur lesquels vous avez planché des nuits entières ne les intéressent absolument pas dans un premier temps. La seule chose qu'ils veulent vraiment savoir, c'est : **« Quel problème résolvez-vous, pour qui, comment, et combien cela va-t-il rapporter ? »**
+Voici comment utiliser l'IA pour condenser ces informations en une dizaine de diapositives selon la méthode éprouvée du **« Pitch Deck de la Silicon Valley »**, afin de bâtir une trame narrative percutante en 10 minutes chrono.
 
 ---
 
 ## ⚡️ Résumé en 3 points (TL;DR)
 
-1. **Problem (Le Problème) :** Faire comprendre et ressentir clairement qu'un problème douloureux existe sur le marché.
-2. **Solution (La Solution) :** Démontrer à quel point notre solution résout ce problème de manière simple et brillante.
-3. **Market (Le Marché) :** Prouver que cette solution cible un marché de plusieurs milliards pour susciter l'intérêt et le désir financier.
+1. **Problem (Le Problème) :** Démontrer l'existence d'une douleur profonde et urgente sur le marché.
+2. **Solution (La Solution) :** Prouver avec quelle élégance et simplicité votre produit résout ce problème.
+3. **Market (Le Marché) :** Confirmer que vous ciblez un marché de plusieurs milliards pour attiser l'appétit financier des investisseurs.
 
 ---
 
@@ -38,103 +38,102 @@ Voici comment utiliser l'IA pour condenser ce flux en une dizaine de diapositive
 
 ### 🥉 Version Basique (Elevator Pitch)
 
-À utiliser lorsque vous croisez par hasard un investisseur ou un jury, ou lorsque vous devez faire bonne impression en moins d'une minute via un e-mail de prospection (cold email).
+Idéal lorsque vous croisez un investisseur de façon inopinée, ou pour accrocher l'attention en moins d'une minute dans un e-mail de prospection (cold email).
 
 > **Rôle :** Tu es un investisseur providentiel (Business Angel) légendaire de la Silicon Valley.
 > **Tâche :** Rédige le script d'un **'Elevator Pitch'** capable d'expliquer mon idée d'entreprise à un investisseur en 30 secondes chrono. Commence par une accroche (Hook) percutante dès la première phrase, et structure le tout de manière extrêmement concise dans cet ordre : Problème - Solution - Marché - Équipe.
 > **Mon idée :** `[Une application qui analyse les aboiements des chiens grâce à l'IA pour déterminer leurs émotions et leur état de santé]`
 
-
 ### 🥇 Version Pro (Structure en 10 Diapositives)
 
-À utiliser pour établir l'ossature de votre trame narrative (Storyline) avant de rédiger un document de présentation IR (Investor Relations) ou un Business Plan complet.
+À utiliser pour bâtir l'ossature de votre récit (Storyline) avant de concevoir un Pitch Deck formel ou un Business Plan complet.
 
-> **Rôle (Role) :** Tu es un accélérateur de startups de premier plan issu de Y-Combinator et un stratège expert en création de Pitch Decks IR.
+> **Rôle (Role) :** Tu es un partenaire de pointe chez Y-Combinator et un stratège expert en conception de Pitch Decks pour investisseurs.
 >
 > **Contexte (Context) :**
 >
-> - Objectif : Structurer l'histoire principale d'un Pitch Deck de 10 diapositives pour une levée de fonds en phase Seed ou Pre-A.
-> - Projet/Produit : `[Service d'abonnement de compléments alimentaires personnalisés basé sur l'IA]`
-> - Cible : `[Les employés de bureau (30-40 ans) qui dépensent plus de 40 € par mois en vitamines sans en ressentir les effets]`
+> - Objectif : Structurer l'ossature narrative d'un Pitch Deck de 10 slides pour une levée de fonds en phase Seed ou Pre-Series A.
+> - Projet/Produit : `[Service d'abonnement à des compléments alimentaires ultra-personnalisés par l'IA]`
+> - Cible : `[Les cadres de 30-40 ans qui dépensent plus de 40 € par mois en vitamines sans en ressentir les bienfaits]`
 >
 > **Tâche (Task) :**
-> Conçois un **sommaire de Pitch Deck en 10 diapositives** capable de convaincre parfaitement un comité d'investissement. Pour chaque diapositive, rédige le message clé (Key Message) en une seule phrase, claire et percutante.
+> Conçois la **structure d'un Pitch Deck en 10 slides** capable de séduire un comité d'investissement exigeant. Pour chaque slide, rédige le message clé (Key Message) en une seule phrase, limpide et percutante.
 >
-> 1. Problem (Le problème douloureux du client)
-> 2. Solution (Notre solution écrasante)
+> 1. Problem (La douleur profonde du client)
+> 2. Solution (Notre solution incontestable)
 > 3. Market Size (La taille du marché - TAM/SAM/SOM)
-> 4. Product (Les fonctionnalités clés du produit/service)
-> 5. Business Model (Comment allons-nous gagner de l'argent)
-> 6. Competition (Analyse des concurrents et notre avantage concurrentiel absolu)
-> 7. Go-to-Market (Stratégie d'acquisition client et de pénétration du marché)
-> 8. Team (Pourquoi sommes-nous la seule équipe capable de résoudre ce problème)
-> 9. Financial Projection (Projections financières et jalons sur les 3 prochaines années)
-> 10. Ask (Montant de la levée de fonds souhaitée et plan clair d'utilisation des fonds)
+> 4. Product (Les fonctionnalités phares du produit/service)
+> 5. Business Model (Comment nous générons des revenus)
+> 6. Competition (Analyse concurrentielle et notre avantage déloyal)
+> 7. Go-to-Market (Stratégie d'acquisition client et pénétration du marché)
+> 8. Team (Pourquoi nous sommes la seule équipe capable d'exécuter cette vision)
+> 9. Financial Projection (Projections financières et jalons sur 3 ans)
+> 10. Ask (Montant recherché et plan d'allocation précis des fonds)
 >
 > **Contraintes (Constraints) :**
 >
-> - Pour le message clé de chaque diapositive, bannis systématiquement les mots abstraits ("le meilleur", "innovant") et utilise des chiffres précis ou des métaphores intuitives.
-> - Assure-toi que le flux des diapositives 1 à 10 ne soit pas fragmenté, mais s'enchaîne comme une histoire fluide et cohérente (Narrative).
-> - N'invente aucune information incertaine (Zéro hallucination).
+> - Pour le message clé de chaque slide, bannis tout jargon abstrait (« le meilleur », « innovant ») au profit de métriques précises ou de métaphores visuelles.
+> - Assure-toi que la transition entre les slides 1 et 10 soit parfaitement fluide, formant un récit cohérent et captivant (Narrative).
+> - N'invente aucune donnée factuelle (Zéro hallucination).
 
 ---
 
 ## 💡 L'Avis de l'Expert (Insight)
 
-Lors de la conception d'un Pitch Deck, le point que les fondateurs oublient le plus souvent, mais que les investisseurs scrutent avec le plus d'acuité, est le **"Why Now" (Pourquoi maintenant ?)**.
-"Pourquoi ce projet était-il impossible il y a 3 ans, et pourquoi sera-t-il trop tard si on le lance dans 3 ans ?" Si vous n'avez pas de réponse claire sur ce timing crucial, il sera très difficile de convaincre un investisseur.
+Lors de la création d'un Pitch Deck, l'élément que les fondateurs négligent le plus — et que les investisseurs traquent sans pitié — est le **« Why Now » (Pourquoi maintenant ?)**.
+« Pourquoi cette idée était-elle irréalisable il y a 3 ans, et pourquoi sera-t-il trop tard pour s'y lancer dans 3 ans ? » Sans une réponse implacable à cette question de timing, vos chances de lever des fonds fondent comme neige au soleil.
 
-Après avoir exécuté le prompt, essayez de poser cette question supplémentaire à l'IA : _"Résume-moi 3 tendances macroéconomiques, technologiques ou sociales actuelles (analyse PEST) qui prouvent que ce projet doit impérativement décoller maintenant."_
-Placer cette information au début des diapositives "Problem" ou "Solution" augmentera de façon exponentielle votre force de persuasion logique.
+Une fois le prompt exécuté, relancez l'IA avec cette requête additionnelle : _« Résume-moi 3 grandes tendances macroéconomiques, technologiques ou sociales (analyse PEST) prouvant que ce projet doit impérativement voir le jour aujourd'hui. »_
+Intégrer ces arguments au début de vos slides "Problem" ou "Solution" décuplera l'impact de votre argumentaire.
 
 ---
 
 ## 🙋 Foire Aux Questions (FAQ)
 
-- **Q : Le sommaire est parfait, mais comment faire le design des diapositives ?**
-  - R : Copiez le sommaire et les messages clés générés, puis collez-les directement dans les fonctionnalités de création de présentations IA de **Gamma** ou **Canva**. Ces outils généreront un premier jet visuel en quelques secondes à partir de votre texte. Utilisez ce prompt pour bâtir une fondation solide sur le fond, et appuyez-vous sur les outils d'IA visuelle pour réduire drastiquement le temps de conception sur la forme.
+- **Q : La structure est géniale, mais comment gérer le design des slides ?**
+  - R : Prenez le plan et les messages clés générés, puis collez-les dans les générateurs de présentation IA comme **Gamma** ou **Canva**. En quelques secondes, ces outils vous fourniront un premier brouillon visuel. Servez-vous de ce prompt pour verrouiller le fond (votre argumentaire), et laissez l'IA visuelle se charger de la forme pour un gain de temps massif.
 
-- **Q : Je ne connais pas les chiffres exacts de la taille de mon marché (TAM/SAM/SOM).**
-  - R : Demandez à l'IA : _"Trouve-moi un résumé des rapports ou statistiques récents sur la taille du marché des compléments alimentaires dans mon pays"_, ou donnez-lui des données de base que vous connaissez en précisant : _"Sur la base de ces données, utilise la méthode d'estimation de Fermi (Fermi Estimation) pour calculer logiquement mon SAM et mon SOM"_. Vous obtiendrez des estimations tout à fait rationnelles et défendables.
+- **Q : Je n'ai pas les chiffres précis pour évaluer mon marché (TAM/SAM/SOM).**
+  - R : Demandez simplement à l'IA : _« Trouve-moi un condensé des rapports récents sur la taille du marché des compléments alimentaires en France »_. Sinon, fournissez-lui les quelques métriques que vous possédez et ajoutez : _« À partir de ces données, utilise la méthode d'estimation de Fermi pour évaluer mon SAM et mon SOM de manière logique. »_ Vous obtiendrez ainsi des projections rationnelles et parfaitement défendables.
 
-- **Q : Mon idée est encore à un stade trop précoce, je n'ai pas assez d'éléments pour remplir les crochets du prompt.**
-  - R : C'est justement dans ce cas que ce prompt est le plus utile ! En discutant (mode ping-pong) avec l'IA pour tenter de remplir ces espaces vides, vous prendrez clairement conscience des lacunes critiques de votre business model (ex: absence de modèle de revenus, cible floue). C'est un excellent outil pour améliorer votre métacognition entrepreneuriale.
+- **Q : Mon projet est trop embryonnaire, je n'ai pas assez d'infos pour remplir les variables du prompt.**
+  - R : C'est exactement là que ce prompt brille ! En échangeant avec l'IA pour combler ces zones d'ombre, vous allez identifier immédiatement les failles de votre business model (cible floue, modèle de revenus inexistant, etc.). C'est un exercice redoutable pour affûter votre vision d'entrepreneur.
 
 ---
 
 ## 🧬 Anatomie du Prompt (Pourquoi ça marche ?)
 
-1. **Attribution du Persona (Y-Combinator) :** En attribuant le rôle d'"Accélérateur Y-Combinator", l'IA élimine le superflu et adopte la structure de persuasion la plus standard, intuitive et impitoyable de la Silicon Valley.
-2. **Imposition des 10 Étapes Clés :** Au lieu de laisser l'IA écrire librement, nous la forçons à suivre le framework classique du Pitch Deck en 10 étapes. Cela permet de contrôler parfaitement la qualité et la pertinence du résultat final.
-3. **Bannissement des Termes Abstraits :** En interdisant les "mots-valises" vides de sens comme "innovant" ou "le premier", et en forçant l'utilisation de chiffres et de métaphores ancrés dans la réalité des affaires, la force de persuasion du texte est décuplée.
+1. **Le Persona Y-Combinator :** En lui assignant le rôle d'un accélérateur prestigieux, l'IA abandonne le blabla corporate pour adopter l'approche de persuasion la plus directe, incisive et efficace de la Silicon Valley.
+2. **Le Cadre des 10 Slides :** Plutôt que de laisser l'IA divaguer, nous l'obligeons à respecter l'ossature canonique du Pitch Deck. Cela garantit une maîtrise absolue sur le rythme et la qualité du rendu final.
+3. **L'Interdiction du Jargon :** En proscrivant les « mots-valises » creux (comme « disruptif » ou « leader ») au profit de chiffres concrets et de métaphores business, le niveau de persuasion de votre discours explose.
 
 ---
 
 ## 📊 Preuve : Avant & Après
 
-### ❌ Avant (Explication sous forme de liste)
+### ❌ Avant (Le pitch descriptif basique)
 
 ```text
-"Nous sommes une entreprise qui vend des compléments alimentaires personnalisés. Nous utilisons l'IA, donc notre technologie est très innovante. Notre équipe vient des meilleures universités et a beaucoup d'expérience. Nous prévoyons de nous développer à l'international et nous allons travailler dur."
-(Réaction de l'investisseur : Ennui profond 🥱. Et alors ? En quoi êtes-vous différent des autres ?)
+« Nous sommes une startup qui vend des compléments alimentaires sur mesure. Grâce à notre IA, notre technologie est très innovante. Notre équipe sort des meilleures écoles et possède une solide expérience. Nous comptons nous lancer à l'international et nous allons tout donner. »
+(Réaction de l'investisseur : Ennui abyssal 🥱. Et alors ? En quoi êtes-vous unique ?)
 ```
 
-### ✅ Après (Application du Storytelling)
+### ✅ Après (La puissance du Storytelling)
 
 ```text
-- Problem : "Chaque jour, 100 000 employés de bureau prennent des vitamines, mais 90 % d'entre eux ne ressentent aucun effet sur leur fatigue et gaspillent leur argent."
-- Solution : "Grâce à un simple kit de test d'urine à domicile, nous identifions précisément vos carences actuelles et vous livrons chaque mois les 3 seules pilules dont vous avez réellement besoin, directement à votre porte."
-- Market : "Le marché des soins de santé personnalisés premium pour les actifs de 30-40 ans, prêts à dépenser sans compter pour leur santé, est un immense océan bleu évalué à 5 milliards d'euros par an."
-(Réaction de l'investisseur : "Intéressant. Le modèle économique est clair. Passez à la slide suivante." 👀)
+- Problem : « Chaque matin, 100 000 cadres avalent des vitamines. Pourtant, 90 % d'entre eux restent épuisés et jettent littéralement leur argent par les fenêtres. »
+- Solution : « Avec un simple test urinaire à faire chez soi, nous ciblons vos carences réelles et vous livrons chaque mois les 3 seules pilules dont votre corps a vraiment besoin. »
+- Market : « La santé personnalisée premium pour les 30-40 ans — une cible prête à payer le prix fort pour sa vitalité — représente un océan bleu estimé à 5 milliards d'euros par an. »
+(Réaction de l'investisseur : « Intéressant. Le modèle est clair. On passe à la slide suivante. » 👀)
 ```
 
 ---
 
 ## 🎯 Conclusion
 
-L'essence même des affaires est une succession continue d'actes de **'persuasion'**.
-Vous devez convaincre les investisseurs pour obtenir des fonds, convaincre des talents exceptionnels pour bâtir votre équipe, et convaincre les clients pour enfin générer du chiffre d'affaires.
+Le cœur même de l'entrepreneuriat se résume à une série continue d'actes de **persuasion**.
+Vous devez convaincre des investisseurs pour lever des fonds, séduire des talents exceptionnels pour forger votre équipe, et persuader vos clients pour enfin générer du chiffre d'affaires.
 
-Mettez de côté les longues explications techniques et la vantardise de vos fonctionnalités. Laissez d'abord l'IA raconter votre vision et le problème de votre client. Elle transformera vos idées en l'histoire de levée de fonds la plus pointue et la plus captivante possible.
+Oubliez les monologues techniques interminables et l'étalage de vos fonctionnalités. Laissez d'abord l'IA articuler votre vision autour du véritable problème de vos clients. Elle transformera vos idées brutes en un récit de levée de fonds redoutablement aiguisé et captivant.
 
-Copiez ce prompt dès maintenant et commencez à pitcher vos idées ! 🍷
+Copiez ce prompt dès aujourd'hui et commencez à pitcher vos ambitions ! 🍷

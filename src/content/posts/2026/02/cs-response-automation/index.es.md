@@ -9,7 +9,7 @@ description: "Dile adiós al desgaste emocional. Plantillas de IA para gestionar
 tags: ["CS", "고객응대", "자동화", "채널톡", "쇼핑몰"]
 ---
 
-# 🎧 Automatización de respuestas en Atención al Cliente (CS): El manual definitivo para calmar hasta al cliente más difícil
+## 🎧 Automatización de respuestas en Atención al Cliente (CS): El manual definitivo para calmar hasta al cliente más difícil
 
 - **🎯 Recomendado para:** Propietarios de e-commerce que lidian con solicitudes de reembolso constantes y agentes de atención al cliente (CS) agotados de repetir lo mismo a diario.
 - **⏱️ Tiempo requerido:** De 10 minutos → a menos de 1 minuto.
@@ -21,7 +21,7 @@ tags: ["CS", "고객응대", "자동화", "채널톡", "쇼핑몰"]
 
 > _"Estimado cliente, por políticas de la empresa no nos es posible... (Uf, aquí vamos de nuevo con otra queja)"._
 
-Decir "no" siempre es complicado, y la dificultad se multiplica cuando te enfrentas a un cliente que ya está a la defensiva. El desgaste emocional que esto genera en tu equipo es inmenso. A partir de hoy, delega estas situaciones incómodas a la IA. Con tan solo darle una directriz clara: **"Rechaza la solicitud de forma firme pero educada"**, la IA redactará una respuesta impecable, desprovista de carga negativa, empleando un tono amortiguador (_cushion language_) y la templanza de un profesional experto para desescalar el conflicto.
+Decir "no" siempre es difícil, y el reto se multiplica cuando te enfrentas a un cliente a la defensiva. El desgaste emocional que esto genera en tu equipo es inmenso. A partir de hoy, delega estas situaciones críticas a la IA. Con tan solo darle una directriz clara: **"Rechaza la solicitud de forma firme pero educada"**, la IA redactará una respuesta impecable, desprovista de cualquier carga negativa. Utilizará un lenguaje amortiguador (_cushion language_) y la templanza de un profesional experto para desescalar el conflicto al instante.
 
 ---
 
@@ -29,7 +29,7 @@ Decir "no" siempre es complicado, y la dificultad se multiplica cuando te enfren
 
 1. Copia y pega la queja agresiva o la exigencia irracional del cliente.
 2. Asigna a la IA el rol de un agente de soporte veterano e indícale claramente las políticas de tu empresa.
-3. Obtén en menos de un minuto una respuesta firme, empática y orientada a ofrecer alternativas, protegiendo tu salud mental.
+3. Obtén en menos de un minuto una respuesta firme, empática y orientada a ofrecer alternativas, protegiendo así tu salud mental.
 
 ---
 
@@ -40,7 +40,9 @@ Decir "no" siempre es complicado, y la dificultad se multiplica cuando te enfren
 Ideal para copiar y pegar rápidamente ante consultas repetitivas, como retrasos en los envíos o fechas de reposición de inventario.
 
 > **Rol:** Eres un agente de atención al cliente (CS) de un e-commerce, destacado por tu amabilidad y extrema eficiencia.
+> 
 > **Tarea:** Responde a la siguiente consulta pidiendo disculpas e informando que el envío del cliente sufrirá un retraso de `[tiempo de retraso]` debido a `[motivo del retraso]`. Incluye un mensaje cortés solicitando su comprensión y ofrécele `[detalle de la compensación]` como muestra de agradecimiento.
+> 
 > **Consulta del cliente:** `[Pega aquí la consulta exacta del cliente]`
 
 ### 🥇 Versión Pro (Para clientes conflictivos y denegación de reembolsos)

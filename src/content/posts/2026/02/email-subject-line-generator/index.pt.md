@@ -9,7 +9,7 @@ description: "Dê adeus às newsletters que vão direto para a caixa de spam. Ap
 tags: ["E-mail Marketing", "CRM", "Copywriting", "Boletim Informativo"]
 ---
 
-# 📝 Gerador de Assunto de E-mail Que Dispara Taxas de Abertura
+## 📝 Gerador de Assunto de E-mail Que Dispara Taxas de Abertura
 
 - **🎯 Recomendado para:** Profissionais de Marketing, Copywriters e Empreendedores
 - **⏱️ Tempo gasto:** 5 minutos → Reduzido para 1 minuto
@@ -21,15 +21,15 @@ tags: ["E-mail Marketing", "CRM", "Copywriting", "Boletim Informativo"]
 
 > _"O sucesso do seu e-mail marketing é 90% definido pelo assunto."_
 
-Se a taxa de abertura daquela newsletter ou e-mail promocional que você levou horas elaborando não passa dos 10%, o problema raramente é o conteúdo. O verdadeiro gargalo é o assunto. Descubra como usar a inteligência artificial para criar a linha de assunto perfeita, transformando a sua mensagem na única a ser clicada em meio a uma caixa de entrada caótica e lotada.
+Se a taxa de abertura daquela newsletter ou e-mail promocional, que você levou horas elaborando, não passa dos 10%, o problema raramente é o conteúdo. O verdadeiro gargalo é o assunto. Descubra como usar a inteligência artificial para criar a linha de assunto perfeita, transformando a sua mensagem na **única** a ser clicada em meio a uma caixa de entrada caótica e lotada.
 
 ---
 
 ## ⚡️ Resumo em 3 linhas (TL;DR)
 
-1. **Automação de Alta Conversão:** Basta inserir seu objetivo e o conteúdo para gerar assuntos de e-mail matematicamente otimizados para cliques.
-2. **Estratégias Comprovadas:** Aplicação prática de gatilhos mentais poderosos, como escassez (FOMO), personalização profunda e foco no benefício real do usuário.
-3. **Preheader Estratégico:** Criação simultânea de um texto de apoio (*preheader*) matador que complementa o assunto e torna o clique simplesmente inevitável.
+1. **Automação de Alta Conversão:** Basta inserir o seu objetivo e o conteúdo base para gerar assuntos de e-mail matematicamente otimizados para cliques.
+2. **Estratégias Comprovadas:** Aplicação prática de gatilhos mentais poderosos, como escassez (FOMO), personalização profunda e foco no benefício real do leitor.
+3. **Preheader Estratégico:** Criação simultânea de um texto de apoio (*preheader*) matador, que complementa o assunto e torna o clique simplesmente inevitável.
 
 ---
 
@@ -37,14 +37,14 @@ Se a taxa de abertura daquela newsletter ou e-mail promocional que você levou h
 
 ### 🥉 Versão Básica (Basic Version)
 
-Use esta versão quando precisar de resultados rápidos e sem complicações.
+Utilize esta versão quando precisar de resultados rápidos e sem complicações.
 
 > **Papel:** Você é um `[Especialista em E-mail Marketing e Copywriting]`.
 > **Solicitação:** Crie 5 opções de assunto de e-mail altamente persuasivos para uma campanha sobre `[Tema ou Produto]`. O objetivo é maximizar a taxa de abertura.
 
 ### 🥇 Versão Pro (Expert Version)
 
-Use esta versão para campanhas críticas onde cada clique vale ouro.
+Utilize esta versão para campanhas críticas, onde cada clique vale ouro.
 
 > **Papel (Role):** Você é um `[Especialista Sênior em E-mail Marketing]`. Você domina técnicas avançadas de copywriting voltadas para assuntos de e-mail com altíssimas taxas de conversão e abertura, validadas por rigorosos testes A/B.
 >
@@ -74,7 +74,7 @@ Use esta versão para campanhas críticas onde cada clique vale ouro.
 
 ## 💡 Comentário do Autor (Insight)
 
-A maior armadilha do e-mail marketing é tratar o assunto como um mero "título". Na realidade, ele é um anúncio em miniatura do seu próprio e-mail. Ao aplicar este prompt na prática, notei que a sintonia fina entre o Assunto e o Preheader (texto de apoio) é o verdadeiro divisor de águas. O Preheader funciona como uma "segunda chance" para fisgar o leitor. Ao obrigar a IA a respeitar o limite de caracteres dos celulares e a fugir daquele vocabulário barato de spam, as sugestões deixam de soar robóticas e atingem o nível de um copywriter sênior. Uso essa exata estrutura em campanhas B2B e vi minhas taxas de abertura saltarem de míseros 12% para sólidos 28%.
+A maior armadilha do e-mail marketing é tratar o assunto como um mero "título". Na realidade, ele é um anúncio em miniatura do seu próprio e-mail. Ao aplicar este prompt na prática, notei que a sintonia fina entre o **Assunto** e o **Preheader** (texto de apoio) é o verdadeiro divisor de águas. O Preheader funciona como uma "segunda chance" para fisgar o leitor. Ao obrigar a IA a respeitar o limite de caracteres dos celulares e a fugir daquele vocabulário barato de spam, as sugestões deixam de soar robóticas e atingem o nível de um copywriter sênior. Eu utilizo essa exata estrutura em campanhas B2B e vi as minhas taxas de abertura saltarem de míseros 12% para sólidos 28%.
 
 ---
 

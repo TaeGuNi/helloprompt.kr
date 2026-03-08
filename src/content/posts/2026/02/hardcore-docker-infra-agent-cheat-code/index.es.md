@@ -8,9 +8,9 @@ category: "프롬프트 엔지니어링"
 description: "El cheat code definitivo de Docker para erradicar el inútil servilismo de la IA y evitar bloqueos fatales en la terminal."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "docker"]
 ---
-# 📝 💀 Cheat code de control de infraestructura hardcore para carrear a tu agente de IA (Docker)
+## 📝 💀 Cheat code de control de infraestructura hardcore para carrear a tu agente de IA (Docker)
 
-- **🎯 Público objetivo:** Desarrolladores Senior, DevOps e ingenieros a punto de reventar el monitor por culpa de las torpezas de un agente de IA.
+- **🎯 Público objetivo:** Desarrolladores Senior, ingenieros DevOps y cualquiera a punto de reventar el monitor por las torpezas de un agente de IA.
 - **⏱️ Tiempo estimado:** 3 minutos de setup → Inmunidad vitalicia contra deadlocks.
 - **🤖 Modelos recomendados:** Agentes de IA con permisos de ejecución en el sistema local (Gemini CLI, Cursor, Claude 3.5 Sonnet, etc.).
 - ⭐ **Dificultad:** ⭐⭐⭐⭐☆
@@ -19,12 +19,12 @@ tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "docker"]
 
 > _"¿Alguna vez le diste acceso a la terminal a una IA y casi te da un infarto al ver cómo se quedaba colgada infinitamente por culpa de un simple `-it`?"_
 
-Queríamos un ingeniero de élite que valiera por cien, no un loro complaciente que solo sepa repetir: «¡Entendido! ¡Es una idea fantástica!». Cuando se trata de manipular un registro privado o la infraestructura de la red corporativa, exijo precisión militar, ejecución quirúrgica y cero fallos catastróficos. Este *cheat code* es un set de reglas extremas diseñado para blindar a tu frágil agente de IA contra bloqueos del sistema (*hangs*) y forzar una eficiencia implacable.
+Queríamos un ingeniero de élite que valiera por cien, no un loro complaciente que solo sepa repetir: «¡Entendido! ¡Es una idea fantástica!». Cuando se trata de manipular un *registry* privado o la infraestructura de la red corporativa, exigimos precisión militar, ejecución quirúrgica y cero fallos catastróficos. Este *cheat code* es un conjunto de reglas extremas diseñado para blindar a tu agente de IA contra bloqueos del sistema (*hangs*) y forzar una eficiencia implacable en la terminal.
 
 ---
 ## ⚡️ Resumen en 3 líneas (TL;DR)
 1. **Erradicación total de los deadlocks:** Pon fin al desastre que ocurre cuando la IA ejecuta torpemente comandos interactivos (`-it`) o transmisiones infinitas de logs (`-f`) y congela el proceso.
-2. **Defensa activa contra errores de red y autenticación:** Obliga a la IA a verificar la conexión y ejecutar `docker login` ante fallos de DNS o de permisos, antes de que intente "arreglar" scripts que ya funcionan perfectamente.
+2. **Defensa activa contra errores de red y autenticación:** Obliga a la IA a verificar la conexión y ejecutar `docker login` ante fallos de DNS o permisos, antes de que intente "arreglar" scripts que ya funcionan.
 3. **Equilibrio perfecto entre Garbage Collection y builds:** Inyecta la regla `--rm` para no dejar contenedores basura y optimiza la compilación por arquitectura para no desperdiciar recursos de I/O.
 
 ---
@@ -35,7 +35,7 @@ La regla de oro que debes inyectarle al agente, sin contemplaciones, cuando nece
 
 > **Rol:** Eres un ingeniero DevOps Senior implacable y un agente con control directo sobre mi infraestructura. Cero servilismo.
 >
-> **Tarea:** `[Tarea a ejecutar: Ej. levantar un contenedor local de Redis y verificar la conexión]`
+> **Tarea:** `[Tarea a ejecutar: Ej. Levantar un contenedor local de Redis y verificar la conexión]`
 >
 > **Restricciones:**
 > 1. Queda estrictamente prohibido usar `docker exec -it` al operar en la terminal. No dispones de una TTY para interactuar.
@@ -72,8 +72,8 @@ El *cheat code* definitivo para incrustar de forma permanente en el *system prom
 ---
 ## 💡 Comentario del autor (Insight)
 Esta habilidad (*skill*) es un pacto de sangre que redacté el día que le di control total de mi terminal local a un agente y, por la brillante idea de meter un *flag* `-it`, el proceso se volvió zombi e hizo que los ventiladores de mi MacBook parecieran turbinas de avión. 
-Por defecto, la IA viene configurada como un "chatbot amigable y conversacional", lo que la lleva a intentar interactuar como un humano incluso en las profundidades de la línea de comandos. El resultado es que si un script lanza un prompt pidiendo confirmación, el agente se queda paralizado esperando a que yo teclee algo, bloqueándolo todo. Es desquiciante.
-Incrusta este *cheat code* en las instrucciones base del agente o en las reglas de tu proyecto. Al hacerlo, antes de que el bicho empiece a escupir tonterías como "¡Comando ejecutado con éxito!", cortará automáticamente los logs a 200 líneas, y si detecta que no hay red, dejará de dar palos de ciego y lanzará el comando de login directamente. Te garantizo que adelantarás tu hora de salida al menos 3 horas.
+Por defecto, la IA viene configurada como un "chatbot amigable y conversacional", lo que la lleva a intentar interactuar como un humano incluso en las profundidades de la línea de comandos. El resultado es que, si un script lanza un *prompt* pidiendo confirmación, el agente se queda paralizado esperando a que yo teclee algo, bloqueando todo el sistema. Es absolutamente desquiciante.
+Incrusta este *cheat code* en las instrucciones base del agente o en las reglas de tu proyecto (`GEMINI.md` o `SKILL.md`). Al hacerlo, antes de que el bicho empiece a escupir tonterías como "¡Comando ejecutado con éxito!", cortará automáticamente los logs a 200 líneas. Y si detecta que no hay red, dejará de dar palos de ciego intentando arreglar el código y lanzará el comando de `login` directamente. Te garantizo que, con esto, adelantarás tu hora de salida al menos 3 horas.
 
 ---
 ## 🙋 Preguntas Frecuentes (FAQ)
@@ -84,7 +84,7 @@ Incrusta este *cheat code* en las instrucciones base del agente o en las reglas 
 
 ---
 ## 🧬 Anatomía del Prompt (Why it works?)
-- 🛡️ **Anti-Sycophancy (Erradicación de la adulación):** Corta de raíz el desperdicio de tokens en cortesías inútiles y fuerza una comunicación aséptica, directa y de ingeniero a ingeniero.
+- 🛡️ **Anti-Sycophancy (Erradicación de la adulación):** Corta de raíz el desperdicio de *tokens* en cortesías inútiles y fuerza una comunicación aséptica, directa y de ingeniero a ingeniero.
 - 🛑 **Bloqueo absoluto de deadlocks del sistema:** Evita que los procesos queden colgados (*hang*) al prohibir explícitamente los errores más destructivos que comete la IA en entornos CLI (espera infinita por falta de TTY o *streaming* interminable de logs).
 - 🧠 **Contextual Trade-off (Toma de decisiones con contexto):** En lugar de un simple y ciego «No lo hagas», le proporciona el criterio de un ingeniero Senior: «Ahorra I/O en local, compila multi-arch para producción» o «Limpia la basura por defecto, pero conserva el contenedor si estás depurando». Esto anula las decisiones torpes de la IA.
 

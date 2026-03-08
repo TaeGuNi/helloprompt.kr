@@ -6,7 +6,7 @@ date: "2026-02-09"
 updatedDate: "2026-02-09"
 ---
 
-# 🔒 Datenschutzerklärung (Privacy Policy)
+## 🔒 Datenschutzerklärung (Privacy Policy)
 
 - **🎯 Zielgruppe:** Alle globalen Nutzer von Hello Prompt
 - **⏱️ Lesezeit:** Ca. 3 Minuten
@@ -16,15 +16,15 @@ updatedDate: "2026-02-09"
 - ⚡️ **Sicherheit:** ⭐⭐⭐⭐⭐
 - 🚀 **Vertrauenswürdigkeit:** ⭐⭐⭐⭐⭐
 
-> _"Deine Daten gehören dir. Hello Prompt bietet maximale Inspiration bei absolut minimaler Datenerfassung."_
+> _"Deine Daten gehören dir. Hello Prompt bietet dir maximale Inspiration bei absolut minimaler Datenerfassung."_
 
-**Hello Prompt** (im Folgenden „diese Website“ genannt) räumt dem Schutz der Privatsphäre seiner internationalen Nutzerschaft höchste Priorität ein. Wir halten uns strikt an globale Datenschutzgesetze sowie die Richtlinien des Google AdSense-Programms. Diese Datenschutzerklärung tritt am 9. Februar 2026 in Kraft.
+**Hello Prompt** (im Folgenden „diese Website“ genannt) räumt dem Schutz der Privatsphäre seiner internationalen Nutzerschaft höchste Priorität ein. Wir halten uns strikt an globale Datenschutzgesetze sowie an die Richtlinien des Google AdSense-Programms. Diese Datenschutzerklärung tritt am 9. Februar 2026 in Kraft.
 
 ---
 
 ## ⚡️ 3-Punkte-Zusammenfassung (TL;DR)
 
-1. **Keine Registrierung erforderlich:** Wir verlangen weder eine Kontoerstellung noch die Angabe sensibler persönlicher Daten, um unseren Dienst zu nutzen.
+1. **Keine Registrierung erforderlich:** Wir verlangen weder eine Kontoerstellung noch die Angabe sensibler persönlicher Daten, um unseren Dienst nutzen zu können.
 2. **Minimale Datenerfassung:** Es werden ausschließlich essenzielle Cookies und Zugriffsprotokolle erhoben, um die Website zu optimieren und personalisierte Werbung (AdSense) bereitzustellen.
 3. **Einhaltung globaler Standards:** Wir erfüllen internationale Datenschutzvorgaben wie die DSGVO (Europa) und den CCPA (Kalifornien) vollumfänglich.
 
@@ -43,7 +43,7 @@ Um eine reibungslose und sichere Umgebung zu gewährleisten, erfasst diese Websi
 
 Die erhobenen Daten werden streng vertraulich behandelt und ausschließlich zur Verbesserung der Servicequalität, zur Gewährleistung der Sicherheit und für einen reibungslosen Betrieb verwendet.
 
-> **Rolle (Role):** Diese Website agiert als strenger und `[sicherer Datenverwalter]`.
+> **Rolle (Role):** Diese Website agiert als strenger und `[Sicherer Datenverwalter]`.
 >
 > **Kontext (Context):**
 >
@@ -68,14 +68,14 @@ Die erhobenen Daten werden streng vertraulich behandelt und ausschließlich zur 
 
 ## 💡 Kommentar des Autors (Insight)
 
-Diese Datenschutzerklärung ist nicht nur ein formelles Dokument zur Erfüllung gesetzlicher Pflichten. Im KI-Zeitalter ist ein transparentes Datenmanagement direkt mit der Vertrauenswürdigkeit eines Dienstes verbunden. Hello Prompt hat auf lästige Registrierungsprozesse verzichtet und unnötige Datenerhebungen direkt an der Quelle blockiert. So kannst du dich unbesorgt darauf konzentrieren, Prompts zu kopieren und dich inspirieren zu lassen. Erkunde unsere Website mit einem absolut sicheren Gefühl!
+Diese Datenschutzerklärung ist nicht nur ein formelles Dokument zur Erfüllung gesetzlicher Pflichten. Im KI-Zeitalter ist ein transparentes Datenmanagement untrennbar mit der Vertrauenswürdigkeit eines Dienstes verbunden. Hello Prompt verzichtet ganz bewusst auf lästige Registrierungsprozesse und blockiert unnötige Datenerhebungen direkt an der Quelle. So kannst du dich unbesorgt darauf konzentrieren, Prompts zu kopieren und dich inspirieren zu lassen. Erkunde unsere Website mit einem absolut sicheren Gefühl!
 
 ---
 
 ## 🙋 Häufig gestellte Fragen (FAQ)
 
 - **F: Wie kann ich personalisierte Werbung (Cookies) blockieren, wenn ich diese nicht sehen möchte?**
-  - A: Du kannst die Verwendung von Cookies jederzeit ablehnen. Besuche die [Google-Anzeigeneinstellungen](https://www.google.com/settings/ads), um personalisierte Werbung zu deaktivieren, oder gehe auf [www.aboutads.info](https://www.aboutads.info), um die Cookie-Nutzung durch Drittanbieter sofort zu unterbinden.
+  - A: Du kannst der Verwendung von Cookies jederzeit widersprechen. Besuche die [Google-Anzeigeneinstellungen](https://www.google.com/settings/ads), um personalisierte Werbung zu deaktivieren, oder gehe auf [www.aboutads.info](https://www.aboutads.info), um die Cookie-Nutzung durch Drittanbieter sofort zu unterbinden.
 
 - **F: Wann werden meine Zugriffsprotokolle (z. B. IP-Adresse) vollständig gelöscht?**
   - A: Sie werden unmittelbar nach Abschluss der statistischen Analyse (Google Analytics) anonymisiert. Die Originalprotokolle werden gemäß den geltenden Gesetzen maximal 3 Monate aufbewahrt und danach unwiderruflich und dauerhaft gelöscht.
@@ -87,7 +87,7 @@ Diese Datenschutzerklärung ist nicht nur ein formelles Dokument zur Erfüllung 
 
 ## 🧬 Analyse der Richtlinie (Why this matters?)
 
-1. **Transparenz (Transparency):** Wir legen klar und verständlich dar, welche Informationen gesammelt und wofür sie verwendet werden, um globale Nutzer von Datenschutzbedenken zu befreien.
+1. **Transparenz (Transparency):** Wir legen klar und verständlich dar, welche Informationen gesammelt und wofür sie verwendet werden, um globale Nutzer von jeglichen Datenschutzbedenken zu befreien.
 2. **Kontrolle (Control):** Wir bieten praktische und spezifische Methoden, mit denen Nutzer personalisierte Werbung eigenständig blockieren können (Opt-out).
 
 ---

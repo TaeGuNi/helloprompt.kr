@@ -5,13 +5,13 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "개발/코딩"
-description: " \"Want to build a dev blog or portfolio without paying server costs? Discover the ultimate static site generator of 2026 and the perfect initial setup prompt.\""
+description: "Want to build a dev blog or portfolio without paying server costs? Discover the ultimate static site generator of 2026 and the perfect setup prompt."
 tags: ["SSG", "Astro", "Next.js", "블로그", "프론트엔드"]
 ---
 
-# 🚀 Static Site Generators (SSG): Astro vs Next.js vs Gatsby {#ssg}
+## 🚀 Static Site Generators (SSG): Astro vs Next.js vs Gatsby {#ssg}
 
-- **🎯 Target Audience:** Developers looking to run a personal blog with zero server costs, frontend job seekers exhausted by heavy frameworks.
+- **🎯 Target Audience:** Developers looking to run a personal blog with zero server costs, and frontend job seekers exhausted by heavy frameworks.
 - **⏱️ Time Required:** 5 minutes (to decide on the tech stack and generate the initial skeleton).
 - **🤖 Recommended AI:** Claude 3.5 Sonnet (for code generation), Perplexity (for the latest benchmarks).
 
@@ -42,27 +42,27 @@ Lately, the frontend ecosystem has been pivoting back to "lightweight" solutions
 Use this when you've settled on Astro as your tech stack and want to instantly generate a basic, markdown-driven blog skeleton.
 
 > **Role:** You are a Senior Frontend Engineer and Tech Blogger.
+> 
 > **Task:** I want to build a Markdown/MDX-based developer blog using the Astro framework. Propose a complete folder structure for the blog project, and write an example of the core routing code (`[slug].astro`) that reads specific markdown files and renders them into detail pages.
-
 
 ### 🥇 Pro Version (Hybrid Architecture & Performance Optimization)
 
 Use this when you want to leverage Astro's powerful 'Islands Architecture' to seamlessly blend static content with dynamic components (React, Vue, etc.).
 
-> **Role (Role):** You are a Senior Frontend Architect who is obsessively dedicated to web performance optimization.
+> **Role:** You are a Senior Frontend Architect obsessively dedicated to web performance optimization.
 >
-> **Context (Context):**
+> **Context:**
 >
 > - Goal: Build a personal developer blog and portfolio site.
 > - Primary Requirement: The main body of the blog posts must be purely static pages (SSG) where SEO and loading speed are the absolute top priorities.
 > - Secondary Requirement: The bottom of the page requires an interactive 'Comment System' and 'Like Button'. Only these specific sections should be dynamically rendered (CSR) using React components.
 >
-> **Task (Task):**
+> **Task:**
 >
 > 1. **Islands Architecture:** Write a flawless code example leveraging Astro's partial hydration concept. Demonstrate how to embed a React component within a static Astro template (`.astro`) and use the `client:visible` directive so that JavaScript is only loaded when the user scrolls down to that specific section.
 > 2. **Performance & Cost Analysis:** Compare this approach to building the exact same site purely with Next.js (App Router). Summarize the differences in initial page load time (TTI, FCP), JavaScript bundle size, and expected server resource costs when deploying on Vercel. Present this comparison as a bulleted list, NOT a table.
 >
-> **Constraints (Constraints):**
+> **Constraints:**
 >
 > - Skip verbose background explanations. Provide production-ready code blocks first that I can copy and paste immediately.
 > - Explain the performance comparison logically, using concrete metrics (e.g., expected bundle size differences in KB) rather than abstract descriptions.
@@ -71,9 +71,9 @@ Use this when you want to leverage Astro's powerful 'Islands Architecture' to se
 
 ## 💡 Writer's Insight {#insight}
 
-The very blog you are reading right now (`helloprompt.kr`) is built with **Astro**. During the initial planning phase, I considered using Next.js since it's what I'm most familiar with. However, I quickly realized that sending a massive JavaScript bundle to the client just to serve simple, text-based content is incredibly inefficient.
+The very blog you are reading right now (`helloprompt.kr`) is built with **Astro**. During the initial planning phase, I strongly considered using Next.js since it's the framework I'm most familiar with. However, I quickly realized that sending a massive JavaScript bundle to the client just to serve simple, text-based content is incredibly inefficient.
 
-After migrating to Astro, our Lighthouse performance score hit a perfect 100 without any aggressive optimization tweaking. The most appealing aspect is that you can bring your existing UI components from React, Svelte, or Vue and "plug them in" only where they are actually needed (Islands). **"The perfect harmony of lightweight performance and high scalability"**—this is exactly why Astro is my number one recommendation for building a blog in 2026.
+After migrating to Astro, our Lighthouse performance score hit a perfect 100 without any aggressive optimization tweaking. The most appealing aspect is the ability to bring your existing UI components from React, Svelte, or Vue and "plug them in" only where they are actually needed (via Astro Islands). **"The perfect harmony of lightweight performance and high scalability"**—this is exactly why Astro is my number one recommendation for building a blog in 2026.
 
 ---
 
@@ -98,11 +98,11 @@ After migrating to Astro, our Lighthouse performance score hit a perfect 100 wit
 
 ### ❌ Before (A Heavy Next.js Blog) {#next-js}
 
-You are forced to download and execute a massive JavaScript bundle (hundreds of KB) containing React's lifecycle and state management logic on every single page. Especially on mobile devices or poor network connections, the initial screen rendering is delayed by several seconds, leading to noticeable stuttering (Hydration delay).
+You are forced to download and execute a massive JavaScript bundle (hundreds of KB) containing React's lifecycle and state management logic on every single page. Especially on mobile devices or poor network connections, the initial screen rendering is delayed by several seconds, leading to noticeable stuttering (hydration delay).
 
 ### ✅ After (An Astro Islands Blog) {#astro}
 
-The moment a user visits the page, pure HTML and CSS are delivered instantly, achieving a **0KB JavaScript bundle size** for the main content. The screen renders immediately (scoring 100 on Lighthouse), while dynamic interactive components, like the comment section, silently wake up in the background only when the user scrolls down to them. It delivers a flawlessly smooth perceived performance.
+The moment a user visits the page, pure HTML and CSS are delivered instantly, achieving a **0KB JavaScript bundle size** for the main content. The screen renders immediately (scoring a perfect 100 on Lighthouse), while dynamic interactive components, like the comment section, silently wake up in the background only when the user scrolls down to them. It delivers flawlessly smooth perceived performance.
 
 ---
 

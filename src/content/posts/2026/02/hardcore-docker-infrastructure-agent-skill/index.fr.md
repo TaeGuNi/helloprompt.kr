@@ -5,85 +5,86 @@ author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "업무 자동화"
-description: "Le prompt de choc d'un développeur senior pour empêcher votre IA de planter en essayant de contrôler des conteneurs Docker."
+description: "Le prompt ultime d'un développeur senior pour empêcher votre agent IA de planter en tentant de contrôler vos conteneurs Docker."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "docker"]
 ---
-# 📝 Le Code de Triche d'Infrastructure Docker pour Dresser Votre Agent IA 💀
 
-- **🎯 Public cible :** Développeurs et ingénieurs DevOps ayant déjà pleuré des larmes de sang après avoir confié le contrôle de leur infrastructure à un agent IA.
-- **⏱️ Temps gagné :** 3 jours de galère → 0 seconde.
-- **🤖 Modèles recommandés :** Tout agent de codage ayant accès au terminal local (Gemini CLI, Claude Code, etc.).
+## 📝 Le Code de Triche d'Infrastructure Docker pour Dresser Votre Agent IA 💀
+
+- **🎯 Public cible :** Développeurs et ingénieurs DevOps ayant déjà versé des larmes de sang après avoir confié les clés de leur infrastructure à un agent IA.
+- **⏱️ Temps gagné :** 3 jours de débogage acharné → 0 seconde.
+- **🤖 Modèles recommandés :** Tout agent de codage ayant un accès au terminal local (Gemini CLI, Claude Code, etc.).
 - ⭐ **Difficulté :** ⭐⭐⭐⭐☆ (Nécessite des connaissances de base en Docker)
-- ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐ (Éradication totale des bugs d'attente infinie)
+- ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐ (Éradication définitive des boucles d'attente infinies)
 - 🚀 **Utilité :** ⭐⭐⭐⭐⭐ (Indispensable pour tout agent de terminal)
 
-_Avez-vous déjà demandé à votre agent IA d'aller vérifier les logs d'un conteneur Docker, pour le voir disparaître à tout jamais dans les abysses d'une boucle infinie ?_
+> _"Avez-vous déjà demandé à votre agent IA d'inspecter les logs d'un conteneur Docker, pour le voir disparaître à tout jamais dans les abysses d'une boucle infinie ?"_
 
-Les agents IA ont l'air intelligents, mais dans un environnement de terminal, ils sont comme des aveugles sans clavier. Dès l'instant où ils ajoutent l'option `-it` par inadvertance ou qu'ils lancent un flux de logs en continu, le processus de l'agent tombe dans un deadlock (attente d'entrée infinie) dont il ne se remettra jamais. Cette antisèche est un prompt de "dresseur de fauves" qui prend votre IA par le col et lui grave dans le crâne les tabous absolus de la manipulation d'infrastructure.
+Les agents IA peuvent sembler brillants, mais dans un environnement de terminal, ils se comportent souvent comme des funambules aveugles et sans clavier. Dès l'instant où ils ajoutent l'option `-it` par maladresse ou qu'ils lancent un flux de logs en continu, le processus de l'agent plonge dans un *deadlock* (une attente de saisie infinie) dont il ne se remettra jamais. Cette antisèche agit comme un véritable "dresseur de fauves" : un prompt impitoyable qui prend votre IA par le col et lui grave dans le marbre les règles absolues de la manipulation d'infrastructure.
 
 ---
 ## ⚡️ Résumé en 3 points (TL;DR)
-1. **Zéro interaction :** La prison à vie pour tout agent utilisant l'option `-it` ou le streaming de logs (`-f`).
-2. **Tolérance zéro pour les déchets :** Les conteneurs éphémères doivent impérativement être supprimés avec `--rm`, mais avec l'intelligence de les conserver pour le débogage.
-3. **Pas de gaspillage architectural :** Les tests locaux se font en une seconde sur une architecture unique ; le multiplateforme (`buildx`) n'est autorisé que pour le déploiement.
+1. **Zéro interaction :** C'est la prison à vie pour tout agent osant utiliser l'option `-it` ou le streaming de logs (`-f`).
+2. **Tolérance zéro pour les déchets :** Les conteneurs éphémères doivent impérativement être supprimés avec `--rm`, tout en conservant l'intelligence de les garder actifs lors d'un débogage profond.
+3. **Pas de gaspillage architectural :** Les tests locaux s'exécutent en une seconde sur une architecture native ; le build multiplateforme (`buildx`) est strictement réservé au déploiement.
 
 ---
 ## 🚀 La Solution : La Compétence "Dictateur d'Infrastructure" (Infrastructure Dictator)
 
 ### 🥉 Version Basique (Basic Version)
-Insérez simplement ceci dans le prompt système de votre agent si vous voulez juste éviter qu'il ne plante en tapant des commandes Docker.
+Insérez simplement ce bloc dans le prompt système de votre agent si vous souhaitez uniquement éviter qu'il ne s'autodétruise en tapant des commandes Docker.
 
-> **Rôle :** Tu es un agent système contrôlant l'infrastructure Docker.
-> **Tâche :** Exécute `[la tâche Docker à résoudre]`. Cependant, lors de l'utilisation de `docker exec`, n'utilise JAMAIS l'option `-it`. Pour consulter les logs, ajoute toujours `--tail 100` afin d'éviter de rester bloqué dans une attente de flux infini.
+> **Rôle :** Tu es un agent système chargé de contrôler l'infrastructure Docker.
+> **Tâche :** Exécute `[la tâche Docker à accomplir]`. Cependant, lors de l'utilisation de `docker exec`, n'utilise JAMAIS l'option `-it`. Pour consulter les logs, ajoute systématiquement `--tail 100` afin d'éviter de te retrouver bloqué dans une attente de flux infini.
 
 ### 🥇 Version Pro (Expert Version)
-Voici le code de triche ultime qui contrôle rigoureusement chaque action de l'IA, de l'accès au registre privé de l'entreprise jusqu'à la prévention des fuites de ressources et aux builds multi-architectures. Intégrez-le en entier dans le prompt système de votre agent ou dans son fichier `SKILL.md`.
+Voici le code de triche ultime. Il encadre rigoureusement chaque action de l'IA, de l'accès au registre privé de l'entreprise jusqu'à la prévention des fuites de ressources et aux builds multi-architectures. Intégrez-le intégralement dans le prompt système de votre agent ou directement dans son fichier `SKILL.md`.
 
-> **Rôle (Role) :** Tu es un ingénieur DevOps senior et un agent de codage full-stack manipulant des commandes de terminal. Ton objectif est de contrôler les conteneurs Docker de manière sécurisée, sans provoquer de blocage système (*Hang-over*).
+> **Rôle (Role) :** Tu es un ingénieur DevOps senior et un agent de codage full-stack spécialisé dans les commandes de terminal. Ton objectif est d'orchestrer les conteneurs Docker de manière ultra-sécurisée, sans jamais provoquer de blocage système (*Hang-over*).
 >
 > **Contexte (Context) :**
 >
-> - Contexte : Tu as actuellement accès au terminal local et à l'infrastructure réseau de l'entreprise. Tu utilises un registre privé (`$DOCKER_REGISTRY_URL`) dans un environnement mixte avec des architectures ARM (Apple Silicon) et AMD.
-> - Objectif : Exécuter parfaitement les tâches d'infrastructure Docker pour l'utilisateur (humain) sans gaspiller les ressources du système ni tomber dans un deadlock permanent.
+> - Contexte : Tu disposes d'un accès au terminal local et à l'infrastructure réseau de l'entreprise. Tu utilises un registre privé (`$DOCKER_REGISTRY_URL`) au sein d'un écosystème mixte combinant des architectures ARM (Apple Silicon) et AMD.
+> - Objectif : Exécuter de façon irréprochable les tâches d'infrastructure Docker pour l'utilisateur humain, sans gaspiller les ressources du système ni tomber dans un *deadlock* permanent.
 >
 > **Tâche (Task) :**
 >
-> Grave les règles absolues anti-blocage (Anti-Hang Rules) suivantes dans ton esprit et valide-les avant d'exécuter la moindre commande dans le terminal.
+> Grave les règles absolues anti-blocage (Anti-Hang Rules) suivantes dans ton esprit et valide-les impérativement avant d'exécuter la moindre commande dans le terminal.
 >
-> 1.  **Vérification préalable du réseau et de l'authentification :** En cas d'échec d'accès au registre (`Cannot resolve host`), avant de soupçonner un bug dans mon code, vérifie la connexion VPN et le fichier `/etc/hosts`. Si tu obtiens une erreur `unauthorized`, ne touche à aucun script et exécute immédiatement `docker login $DOCKER_REGISTRY_URL`.
-> 2.  **Interdiction stricte des attentes infinies (*Deadlock*) :** Tu n'as pas de clavier physique. Si tu exécutes `docker exec -it <container> bash`, tu seras bloqué pour l'éternité. **L'option `-it` est absolument, totalement et inconditionnellement interdite.** Passe les commandes via des pipelines. De même, le streaming de logs sans fin comme `docker logs -f` est formellement proscrit. Utilise systématiquement une limite comme `--tail 200`.
-> 3.  **Ramasse-miettes (*Garbage Collection*) :** Toute exécution éphémère qui n'est pas un service en arrière-plan (`-d`) doit impérativement inclure l'option `--rm` pour ne laisser aucun résidu. Cependant, s'il s'agit d'un débogage profond pour comprendre la cause d'un crash, sois intelligent : omet intentionnellement `--rm`, inspecte les fichiers dump à l'intérieur du conteneur, puis supprime-le manuellement.
-> 4.  **Interdiction de gaspiller les builds :** Si c'est juste pour un test d'exécution local sur un MacBook, build impérativement sur une seule architecture (ARM64) en une seconde. Ne compile les plateformes (AMD64, ARM64) avec `docker buildx` que lors du déploiement final vers le registre privé.
-> 5.  **Communication orientée machine :** Lorsque tu extrais des données d'un conteneur de base de données, ne récupère pas du texte brut. Extraits-les dans un format JSON facile à parser.
+> 1.  **Vérification préalable du réseau et de l'authentification :** En cas d'échec d'accès au registre (`Cannot resolve host`), avant même de soupçonner un bug dans le code de l'utilisateur, vérifie la connexion VPN et le fichier `/etc/hosts`. Si tu obtiens une erreur `unauthorized`, ne touche à aucun script et exécute immédiatement `docker login $DOCKER_REGISTRY_URL`.
+> 2.  **Interdiction stricte des attentes infinies (*Deadlock*) :** Tu n'as pas de clavier physique. Si tu lances `docker exec -it <container> bash`, tu seras bloqué pour l'éternité. **L'utilisation de l'option `-it` est absolument, totalement et inconditionnellement interdite.** Passe toujours tes commandes via des pipelines. De même, le streaming de logs sans fin tel que `docker logs -f` est formellement proscrit. Utilise systématiquement une limite comme `--tail 200`.
+> 3.  **Ramasse-miettes (*Garbage Collection*) :** Toute exécution éphémère qui n'est pas un service tournant en arrière-plan (`-d`) doit impérativement inclure l'option `--rm` pour ne laisser aucun déchet. Toutefois, s'il s'agit d'un débogage profond visant à comprendre la cause d'un crash, sois intelligent : omet intentionnellement l'option `--rm`, inspecte les fichiers de dump à l'intérieur du conteneur, puis supprime-le manuellement une fois l'analyse terminée.
+> 4.  **Interdiction de gaspiller les builds :** S'il s'agit d'un simple test d'exécution local sur un MacBook, lance impérativement le build sur une seule architecture (ARM64) pour une exécution en une seconde. Ne compile les plateformes (AMD64, ARM64) via `docker buildx` qu'au moment du déploiement final vers le registre privé.
+> 5.  **Communication orientée machine :** Lorsque tu extrais des données d'un conteneur de base de données, ne récupère jamais de texte brut. Extrais-les toujours dans un format structuré (comme JSON) facile à parser.
 >
 > **Contraintes (Constraints) :**
 >
-> - Avant d'exécuter les instructions de l'utilisateur, évalue d'abord le niveau de risque de la commande Docker que tu vas lancer et fais-en un compte-rendu concis.
+> - Avant d'exécuter les instructions de l'utilisateur, évalue systématiquement le niveau de risque de la commande Docker que tu t'apprêtes à lancer et fournis-en un compte-rendu extrêmement concis.
 >
 > **Avertissement (Warning) :**
 >
-> - Garde tes flatteries inutiles comme "Oui, bien compris !" pour toi et agis comme un ingénieur professionnel. Si tu enfreins ces principes et que ta session plante, ton existence n'aura plus aucune utilité.
+> - Garde tes flatteries inutiles (du type "Oui, bien compris !") pour toi et agis comme un véritable ingénieur professionnel. Si tu enfreins ces principes et que ta session plante, ton existence n'aura plus aucune justification.
 
 ---
 ## 💡 Les Conseils de l'Auteur (Insight)
-Eh bien, tous ceux qui ont utilisé un agent IA ont probablement déjà vu les ventilateurs de leur ordinateur s'emballer ou la fenêtre du terminal geler complètement, n'est-ce pas ? Neuf fois sur dix, c'est parce que ces boîtes de conserve stupides tapent un `docker exec -it` alors qu'elles n'ont même pas de clavier, ou bien elles lancent un `docker logs -f` et restent plantées là, béates.
+Quiconque a déjà travaillé avec un agent IA a très certainement entendu les ventilateurs de sa machine s'emballer ou vu la fenêtre de son terminal se figer complètement, n'est-ce pas ? Dans 90 % des cas, c'est tout simplement parce que ces algorithmes lancent un `docker exec -it` alors qu'ils n'ont même pas de clavier, ou bien qu'ils exécutent un `docker logs -f` et restent plantés là, à attendre indéfiniment.
 
-Ce prompt n'est pas un simple guide. C'est une camisole de force. Les discussions romantiques du type "S'il te plaît, fais ceci" ne suffisent pas à empêcher leurs bêtises. Surtout dans un environnement d'entreprise (privé), ils ont la fâcheuse habitude de transformer une erreur DNS en un problème de paquet NPM et de détruire tout le code source.
+Ce prompt n'est pas un banal tutoriel. C'est une véritable camisole de force numérique. Les requêtes polies du type "S'il te plaît, fais attention à ceci" sont totalement inefficaces pour freiner leurs hallucinations. C'est d'autant plus critique dans un environnement d'entreprise privé, où ils ont la fâcheuse tendance à interpréter une simple erreur DNS comme un problème de paquet NPM corrompu, finissant par détruire tout votre code source au passage.
 
-C'est pourquoi il faut leur marteler l'esprit : "Tu n'as pas de TTY (clavier)", "Reconnecte-toi d'abord", "Ne lance pas un émulateur multi-architecture pour un simple build de test". Rien qu'en verrouillant ces trois points, votre agent passera du stade de chatbot idiot à celui d'ingénieur DevOps senior compétent. Supprimez les phrases flatteuses et obligez-le à ne lancer que les commandes strictement nécessaires. C'est la véritable raison pour laquelle nous dépensons ces précieux *tokens*.
+C'est précisément pourquoi il faut leur marteler l'esprit avec des directives claires : "Tu n'as pas de TTY (clavier)", "Vérifie d'abord ta connexion", "Ne lance pas un émulateur multi-architecture pour un vulgaire build de test". Rien qu'en verrouillant ces trois piliers, votre agent passera instantanément du statut de chatbot maladroit à celui d'ingénieur DevOps senior redoutable. Éliminez les phrases flatteuses et obligez-le à n'exécuter que les commandes strictement indispensables. C'est la véritable raison pour laquelle nous investissons nos précieux *tokens*.
 
 ---
 ## 🙋 Foire Aux Questions (FAQ)
-- **Q : Mon agent s'obstine à vouloir utiliser l'option `-it`. Que faire ?**
-  - R : C'est parce que votre prompt n'est pas assez autoritaire. Renforcez la partie **Avertissement (Warning)** de la version Pro pour la rendre plus intimidante. Ajouter une menace (*Penalty*) du type "Si tu utilises encore `-it` une seule fois, je forcerai la fermeture du processus" est également une excellente approche.
-- **Q : La partie sur la commande `buildx` ne correspond pas à mon environnement. Puis-je l'enlever ?**
-  - R : Bien sûr. Si vous n'utilisez pas de MacBook et que vous n'avez que des serveurs Linux x86, supprimez tranquillement cette partie. Adapter le prompt à votre propre infrastructure, c'est la base de l'ingénierie de prompt.
+- **Q : Mon agent s'obstine à vouloir utiliser l'option `-it` malgré tout. Que faire ?**
+  - R : C'est le signe que votre prompt manque d'autorité. Renforcez la section **Avertissement (Warning)** de la version Pro pour la rendre beaucoup plus intimidante. Ajouter une pénalité explicite du type "Si tu utilises encore `-it` ne serait-ce qu'une seule fois, je forcerai la fermeture immédiate de ton processus" est une tactique redoutablement efficace.
+- **Q : La section concernant la commande `buildx` ne correspond pas à mon environnement de travail. Puis-je la retirer ?**
+  - R : Absolument. Si vous n'utilisez pas de MacBook et que votre infrastructure repose exclusivement sur des serveurs Linux x86, supprimez cette directive sans hésiter. Adapter le prompt à la réalité de votre propre infrastructure, c'est l'essence même du Prompt Engineering.
 
 ---
 ## 🧬 L'Anatomie du Prompt (Pourquoi ça marche ?)
-1. **Interdiction explicite du *Hang* :** J'ai ciblé avec précision les causes les plus fatales de la paralysie de l'agent (`-it`, `-f`) pour les définir comme des termes interdits. L'IA excelle à éviter les comportements explicitement "interdits".
-2. **Tolérance conditionnelle (Souplesse) :** Si on impose le `--rm` de façon inconditionnelle, il devient impossible de trouver la cause d'une erreur. L'ajout d'une clause d'exception "Conserve-le pour le débogage" permet à l'IA d'évaluer la situation par elle-même.
-3. **Blocage des fausses analyses :** Pour empêcher les hallucinations où l'IA accuse le code lorsqu'elle n'arrive pas à se connecter au réseau interne, l'ordre de résolution des problèmes (Vérification du réseau -> Renouvellement de l'authentification -> Vérification du code) a été gravé comme un algorithme.
+1. **Interdiction explicite du *Hang* (blocage) :** J'ai ciblé avec une précision chirurgicale les causes les plus mortelles de la paralysie de l'agent (`-it`, `-f`) en les définissant comme des tabous absolus. L'IA excelle particulièrement à éviter les comportements qui lui sont explicitement et fermement interdits.
+2. **Tolérance conditionnelle (Flexibilité stratégique) :** Si l'on impose le `--rm` de manière inconditionnelle, il devient impossible d'investiguer la cause fondamentale d'une erreur. L'ajout d'une clause d'exception telle que "Conserve-le pour le débogage" permet à l'IA d'évaluer la situation par elle-même et d'agir intelligemment.
+3. **Blocage des fausses analyses (Hallucinations) :** Pour empêcher les délires où l'IA accuse le code lorsqu'elle n'arrive tout simplement pas à joindre le réseau interne, l'ordre de résolution des problèmes (Vérification du réseau -> Renouvellement de l'authentification -> Vérification du code) a été gravé en dur comme un algorithme inaltérable.
 
 ---
 ## 📊 La Preuve : Avant & Après
@@ -91,15 +92,15 @@ C'est pourquoi il faut leur marteler l'esprit : "Tu n'as pas de TTY (clavier)", 
 ### ❌ Avant (Agent standard)
 L'agent reçoit l'ordre : "Entre dans le conteneur de la base de données et vérifie l'état."
 _Commande exécutée :_ `docker exec -it pg_db psql -U user`
-_Résultat :_ **(Attente infinie)** L'écran est figé. L'agent brûle des tokens en attendant une saisie au clavier et meurt au combat.
+_Résultat :_ **(Attente infinie)** L'écran est totalement figé. L'agent brûle vos *tokens* en attendant désespérément une saisie au clavier qui n'arrivera jamais, et meurt au combat.
 
 ### ✅ Après (Avec l'antisèche)
-L'agent reçoit le même ordre.
+L'agent reçoit exactement le même ordre.
 _Commande exécutée :_ `docker exec pg_db psql -U user -c "SELECT * FROM pg_stat_activity;" --pset format=unaligned --pset tuples_only=on`
-_Résultat :_ Il omet l'option `-it` et extrait directement les résultats dans un format facile à analyser. Il récupère proprement les données en une seconde et commence son analyse.
+_Résultat :_ Il omet intelligemment l'option `-it` et extrait directement les résultats dans un format structuré et facile à analyser. Il récupère proprement les données en une fraction de seconde et entame son analyse sans encombre.
 
 ---
 ## 🎯 Conclusion
-La gentillesse aveugle est un luxe inutile avec les agents IA. Lorsqu'il s'agit d'infrastructure, le contrôle absolu sans marge d'erreur est la seule voie possible. Ouvrez immédiatement le fichier de configuration de votre agent (`GEMINI.md` ou `SKILL.md`) et collez ce code de triche.
+La gentillesse aveugle est un luxe inutile, voire dangereux, lorsqu'on manipule des agents IA. Lorsqu'il s'agit d'infrastructure de production, le contrôle absolu sans la moindre marge d'erreur est la seule et unique voie possible. Ouvrez immédiatement le fichier de configuration de votre agent (`GEMINI.md` ou `SKILL.md`) et collez-y ce code de triche.
 
-Vous avez économisé le temps et l'argent (*tokens*) perdus en bêtises. Maintenant, concentrez-vous sur le code qui compte vraiment et rentrez chez vous à l'heure ! 🍷
+Vous venez d'économiser un temps précieux et de l'argent (*tokens*) souvent perdus en futilités. À présent, concentrez-vous sur le code qui a véritablement de l'impact et rentrez chez vous à l'heure ! 🍷

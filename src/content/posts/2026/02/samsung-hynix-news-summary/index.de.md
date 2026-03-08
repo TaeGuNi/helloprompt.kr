@@ -5,92 +5,92 @@ author: "Antigravity"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "Prompt-Tipps"
-description: "Ein Prompt-Guide, um die täglich Dutzenden von Nachrichtenartikeln über Samsung Electronics und SK Hynix mit KI schnell zu filtern und zusammenzufassen."
+description: "Ein Prompt-Guide, um die tägliche Flut an Nachrichten über Samsung Electronics und SK Hynix mit KI in Sekundenschnelle zu filtern und zusammenzufassen."
 tags: ["Aktien", "Investieren", "NachrichtenZusammenfassung", "Samsung", "SKHynix", "KI-Assistent"]
 ---
 
-# 📝 Wie man die Flut an Samsung & SK Hynix Nachrichten mit KI zusammenfasst
+## 📝 Wie man die Flut an Samsung & SK Hynix Nachrichten mit KI bändigt
 
-- **🎯 Zielgruppe:** Berufstätige Investoren, Daytrader, Aktionäre, die des Informationsüberflusses überdrüssig sind
+- **🎯 Zielgruppe:** Aktive Investoren, Daytrader und Aktionäre, die den Information Overload satthaben
 - **⏱️ Zeitersparnis:** 30 Minuten → auf 1 Minute reduziert
-- **🤖 Empfohlene KI:** KI mit Echtzeit-Websuche (Perplexity, ChatGPT Search, Claude etc.)
+- **🤖 Empfohlene KI:** KI-Modelle mit Echtzeit-Websuche (Perplexity, ChatGPT Search, Claude etc.)
 
 - ⭐ **Schwierigkeit:** ⭐☆☆☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
 - 🚀 **Nützlichkeit:** ⭐⭐⭐⭐⭐
 
-> _"Keine Zeit, die Flut an Halbleiternachrichten auf dem Weg zur Arbeit zu lesen? Überlassen Sie es der KI."_
+> _"Keine Zeit, sich auf dem Weg zur Arbeit durch die Flut an Halbleiter-News zu wühlen? Überlassen Sie das einfach der KI."_
 
-An der Börse ist die „Geschwindigkeit der Informationen“ überlebenswichtig. Bei marktdominierenden Aktien wie Samsung Electronics und SK Hynix erscheinen jeden Tag Dutzende ähnlicher Nachrichtenartikel in verschiedenen Medien. Hier ist ein Prompt, der doppelte Artikel herausfiltert und schnell nur die echten „guten“ und „schlechten Nachrichten“ identifiziert, die den Aktienkurs beeinflussen werden.
+An der Börse ist Informationsgeschwindigkeit schlichtweg überlebenswichtig. Gerade bei marktdominierenden Schwergewichten wie Samsung Electronics und SK Hynix überschlagen sich die Medien täglich mit Dutzenden, oft redundanten Artikeln. Wer hier manuell liest, verliert. Dieser Prompt ist Ihr Filter: Er sortiert doppelte Meldungen gnadenlos aus und extrahiert in Sekundenschnelle nur die echten, kursbewegenden "Good News" und "Bad News".
 
 ---
 
 ## ⚡️ 3-Zeilen-Zusammenfassung (TL;DR)
 
-1. Sie können zahlreiche doppelte Artikel aussortieren und ein Briefing zu den 3 bis 5 wichtigsten Nachrichten erhalten.
-2. Er kategorisiert die kurzfristigen Auswirkungen der Nachrichten auf den Aktienkurs klar in „Gute Nachrichten / Schlechte Nachrichten“.
-3. An einem hektischen Morgen können Sie die allgemeine Marktstimmung im Halbleitersektor in nur 1 Minute erfassen.
+1. Sie filtern unzählige redundante Artikel heraus und erhalten ein prägnantes Briefing der 3 bis 5 wichtigsten Marktnachrichten.
+2. Die KI bewertet die kurzfristigen Auswirkungen auf den Aktienkurs messerscharf in „Good News“ und „Bad News“.
+3. Selbst am stressigsten Morgen erfassen Sie das gesamte Marktsentiment im Halbleitersektor in unter einer Minute.
 
 ---
 
-## 🚀 Die Lösung: "Prompt zur Zusammenfassung und Wirkungsanalyse von Halbleiternachrichten"
+## 🚀 Die Lösung: Prompt für die Analyse und Zusammenfassung von Halbleiter-News
 
 ### 🥉 Basisversion (Basic Version)
 
-Verwenden Sie dies, wenn Sie heute Morgen nur schnell die wichtigsten Themen sehen möchten.
+Nutzen Sie diesen Prompt, wenn Sie morgens wirklich nur in Sekundenschnelle die absoluten Top-Themen überfliegen möchten.
 
-> **Rolle:** Du bist ein `[schneller und genauer Wirtschaftsnachrichten-Kurator]`.
-> **Aufgabe:** Gib mir heute Morgen die 3 wichtigsten Schlagzeilen und einzeiligen Zusammenfassungen zu `[Samsung Electronics]` und `[SK Hynix]`.
+> **Rolle:** Du bist ein `[blitzschneller und präziser Kurator für Finanznachrichten]`.
+> **Aufgabe:** Liefere mir für heute Morgen die 3 wichtigsten Schlagzeilen inklusive einer einzeiligen Zusammenfassung zu `[Samsung Electronics]` und `[SK Hynix]`.
 
 ### 🥇 Pro-Version (Pro Version)
 
-Verwenden Sie dies, wenn Sie Anlagehinweise wünschen, z. B. die Bestimmung von guten oder schlechten Nachrichten, über einfache Zusammenfassungen hinaus.
+Dieser Prompt ist Ihr Upgrade: Nutzen Sie ihn, wenn Sie über bloße Zusammenfassungen hinaus echte Anlage-Insights und fundierte Bewertungen zu potenziellen Kursauswirkungen benötigen.
 
-> **Rolle (Role):** Du bist der `[Chefresearcher, der für die morgendlichen Briefings in einem Wall-Street-Brokerage-Research-Center verantwortlich ist]`.
+> **Rolle (Role):** Du bist der `[Chef-Analyst, verantwortlich für das Morning-Briefing in der Research-Abteilung eines renommierten Wall-Street-Brokers]`.
 >
 > **Kontext (Context):**
 >
-> - Hintergrund: `[Ein vielbeschäftigter, arbeitender Investor muss die Marktsituation auf dem Weg zur Arbeit in 1 Minute erfassen]`
-> - Ziel: `[Entferne doppelte Nachrichten und liefere nur komprimierte Kerninformationen, die die Aktienkurse beeinflussen werden]`
+> - Hintergrund: `[Ein vielbeschäftigter Investor muss die aktuelle Marktlage auf dem Weg zur Arbeit in exakt 1 Minute erfassen]`
+> - Ziel: `[Eliminiere jegliche redundante Nachrichten und liefere ausschließlich hochkonzentrierte Kerninformationen, die direkten Einfluss auf die Aktienkurse haben]`
 >
 > **Aufgabe (Task):**
 >
-> 1. Wähle die 3 wichtigsten Nachrichtenartikel zu `[Samsung Electronics]` und `[SK Hynix]` der letzten 24 Stunden aus.
-> 2. Gib für jede Nachricht eine „Kernzusammenfassung (unter 2 Sätzen)“ und die „Auswirkungen auf den Aktienkurs (Gute Nachrichten/Schlechte Nachrichten/Neutral und der Grund)“ an.
-> 3. Gib einen einzeiligen Kommentar ab, der die heutige allgemeine Investmentstimmung im Halbleitersektor basierend auf diesen Nachrichten zusammenfasst.
+> 1. Wähle die 3 relevantesten Nachrichtenartikel der letzten 24 Stunden zu `[Samsung Electronics]` und `[SK Hynix]` aus.
+> 2. Liefere zu jeder Nachricht eine „Kernzusammenfassung (maximal 2 Sätze)“ sowie eine Einschätzung der „Auswirkung auf den Aktienkurs (Good News / Bad News / Neutral – inklusive kurzer Begründung)“.
+> 3. Formuliere einen abschließenden, einzeiligen Kommentar, der das heutige Investment-Sentiment im gesamten Halbleitersektor basierend auf diesen Fakten auf den Punkt bringt.
 >
 > **Einschränkungen (Constraints):**
 >
-> - Das Ausgabeformat sollte eine für Mobilgeräte optimierte „Liste (List)“ unter Verwendung von Emojis sein. Vermeide nach Möglichkeit Tabellen (Table).
-> - Schließe Klatschartikel oder einfache Berichte über Aktienkursschwankungen aus; wähle nur Artikel aus, die sich auf „Fundamentaldaten“ wie Gewinne, Verträge, Technologieentwicklung und Makroökonomie auswirken.
+> - Formatiere die Ausgabe zwingend als mobilgerätefreundliche „Liste (List)“ und nutze passende Emojis. Verzichte unter allen Umständen auf Tabellen (Table).
+> - Ignoriere irrelevanten Branchenklatsch oder banale Berichte über alltägliche Kursschwankungen. Fokussiere dich ausschließlich auf Artikel, die echte „Fundamentaldaten“ wie Quartalszahlen, Großaufträge, Technologiesprünge oder gravierende makroökonomische Veränderungen behandeln.
 >
 > **Warnung (Warning):**
 >
-> - Nimm niemals unbestätigte Gerüchte oder „Boulevardklatsch“ in die Nachrichtenzusammenfassung auf. (Verhinderung von Halluzinationen und Wahrung der Zuverlässigkeit)
+> - Integriere niemals unbestätigte Gerüchte oder spekulativen „Boulevard-Journalismus“ in das Briefing. (Absolute Priorität auf Faktenverifizierung zur Vermeidung von Halluzinationen)
 
 ---
 
 ## 💡 Einblicke des Autors (Insight)
 
-Der Kern dieses Prompts besteht nicht nur im bloßen „Zusammenfassen“, sondern darin, die Filterkriterien für Artikel auf „Fundamentaldaten (Gewinne, Verträge, Technologie)“ zu beschränken. Machen Sie es sich zur Gewohnheit, das von der KI organisierte Briefing zu lesen, während Sie Ihren Kaffee kochen, anstatt jeden Morgen Portale oder Trading-Apps zu durchstöbern. Es ist der klügste Weg, auf der Welle zu reiten, anstatt im Informationsmeer zu ertrinken.
+Der wahre **Zauber** dieses Prompts liegt nicht im simplen „Zusammenfassen“, sondern in der rigorosen Filterung nach **Fundamentaldaten (Gewinne, Verträge, Technologie)**. Machen Sie es sich zur Gewohnheit, morgens beim Kaffeekochen dieses KI-generierte Briefing zu lesen, anstatt sich durch unübersichtliche Finanzportale und Trading-Apps zu quälen. Es ist die mit Abstand effizienteste Strategie, um **auf der Informationswelle zu surfen, anstatt darin zu ertrinken**. Durch die gezielte Steuerung der Parameter `[Samsung Electronics]` und `[SK Hynix]` zwingen Sie die KI, den Fokus nicht zu verlieren und exakt das zu liefern, was für Ihr Portfolio wirklich relevant ist.
 
 ---
 
 ## 🙋 Häufig gestellte Fragen (FAQ)
 
-- **F: Woher kennt die KI die neuesten Nachrichten?**
-  - A: Wenn Sie Perplexity oder ChatGPT (oder Copilot) mit aktiviertem Browsing verwenden, durchsucht das System sofort das Web, liest die neuesten Artikel und fasst sie direkt nach Eingabe des Prompts zusammen.
+- **F: Woher bezieht die KI die topaktuellen Nachrichten von heute Morgen?**
+  - A: Wenn Sie Modelle wie Perplexity oder ChatGPT (bzw. Copilot) mit aktiver Web-Suche verwenden, durchsucht das System das Internet in Echtzeit, analysiert die neuesten Artikel und generiert die Zusammenfassung sofort nach der Prompt-Eingabe.
 
-- **F: Kann ich es für Nachrichten zu einem bestimmten Unternehmen (z. B. Nvidia) anpassen?**
-  - A: Ja, ersetzen Sie einfach die eingeklammerten Teile `[Samsung Electronics]` und `[SK Hynix]` durch die Aktie Ihres Interesses, und es wird genauso perfekt funktionieren.
+- **F: Kann ich diesen Prompt auch für andere Tech-Giganten (z. B. Nvidia oder AMD) anpassen?**
+  - A: Absolut! Ersetzen Sie einfach die Variablen `[Samsung Electronics]` und `[SK Hynix]` durch die Unternehmen Ihres Interesses. Die Logik und Struktur des Prompts funktionieren für jede Aktie weltweit perfekt.
 
 ---
 
 ## 🧬 Anatomie des Prompts (Why it works?)
 
-1. **Aufgaben-Segmentierung (Task):** Indem wir nicht nur eine einfache Zusammenfassung, sondern auch eine Beurteilung der „Auswirkungen auf den Aktienkurs (Gut/Schlecht)“ verlangten, haben wir die Qualität des Briefings auf das Niveau eines Anlageberichts gehoben.
-2. **Einschränkungen (Constraints):** Durch Hinzufügen einer Bedingung zum Ausschluss von Klatsch- oder reinen Kursberichterstattungsartikeln haben wir den Nährwert der Informationen erhöht und das Rauschen reduziert.
-3. **UX-Optimierung:** Indem wir im Hinblick auf die mobile Umgebung (Pendeln) ein Listenformat anstelle einer Tabelle verlangten, wurde die Lesbarkeit maximiert.
+1. **Präzise Aufgaben-Segmentierung (Task):** Indem wir nicht nur nach einer simplen Zusammenfassung fragen, sondern explizit eine Bewertung der **Auswirkungen auf den Aktienkurs (Good News / Bad News)** fordern, heben wir die Qualität des Outputs sofort auf das Niveau eines professionellen Analysten-Reports.
+2. **Strikte Einschränkungen (Constraints):** Der explizite Ausschluss von oberflächlichem Börsenklatsch und reiner Kursberichterstattung erhöht die Informationsdichte drastisch und eliminiert störendes Rauschen.
+3. **Kompromisslose UX-Optimierung:** Durch die klare Anweisung, eine mobilfreundliche Liste anstelle einer Tabelle zu verwenden, garantieren wir maximale Lesbarkeit für den Nutzer – selbst auf dem kleinsten Smartphone-Display während der morgendlichen Fahrt in der U-Bahn.
 
 ---
 
@@ -127,6 +127,6 @@ Beide Unternehmen haben wichtige positive Nachrichten, sodass die allgemeine Sti
 
 ## 🎯 Fazit
 
-Lassen Sie sich nicht von den Hunderten von Schlagzeilen überwältigen, die jeden Morgen auf Sie einprasseln.
+Lassen Sie sich nicht länger von der täglichen Informationsflut und den hunderten Schlagzeilen überwältigen, die jeden Morgen auf Sie einprasseln.
 
-Starten Sie Ihren smarten Tag mit Ihrem ganz persönlichen KI-Assistenten! 🍷
+Starten Sie Ihren Tag ab sofort smart und fokussiert – mit Ihrem ganz persönlichen, hochkarätigen KI-Analysten! 🍷

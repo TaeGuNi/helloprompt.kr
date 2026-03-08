@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Crianza y Educación"
-description: "Descubre cómo crear cuentos infantiles con IA que integran técnicas de meditación y relajación para ayudar a tu hijo a conciliar el sueño en minutos."
+description: "Descubre cómo crear cuentos infantiles con IA que usan técnicas de relajación para ayudar a tu hijo a conciliar el sueño en cuestión de minutos."
 tags: ["Crianza", "Educación", "Prompt de IA", "ChatGPT", "Consejos de Crianza"]
 ---
 
-# 📝 Tarjeta de embarque para el 'Tren de los Sueños': Cómo ayudar a dormir a niños con insomnio
+## 📝 Tarjeta de embarque para el 'Tren de los Sueños': Cómo ayudar a dormir a niños con insomnio
 
 - **🎯 Recomendado para:** Padres agotados, educadores infantiles y cuidadores
 - **⏱️ Tiempo requerido:** 30 minutos → Reducido a 5 minutos
@@ -21,7 +21,7 @@ tags: ["Crianza", "Educación", "Prompt de IA", "ChatGPT", "Consejos de Crianza"
 
 > _"¿Llevas más de una hora intentando que tu hijo se duerma? Transformemos esa batalla nocturna en un viaje relajante de apenas 5 minutos."_
 
-A veces, leer un cuento lleno de aventuras emocionantes logra justo el efecto contrario: estimula su imaginación y los desvela aún más. Lo que realmente necesitas en esos momentos de agotamiento es una «historia hipnótica», diseñada de forma estratégica para relajar sus músculos y calmar su mente. Convierte a la inteligencia artificial en tu mejor aliada nocturna y pídele que guíe a tu pequeño a través de un viaje sensorial y pausado hacia las nubes o hacia un mullido mundo de algodón de azúcar.
+A veces, leer un cuento lleno de aventuras emocionantes logra justo el efecto contrario: estimula su imaginación y los desvela aún más. Lo que realmente necesitas en esos momentos de agotamiento es una «historia hipnótica», diseñada estratégicamente para destensar sus músculos y serenar su mente. Convierte a la inteligencia artificial en tu mejor aliada nocturna y pídele que guíe a tu pequeño a través de un viaje sensorial y pausado hacia las nubes o hacia un mullido mundo de algodón de azúcar.
 
 ---
 
@@ -29,7 +29,7 @@ A veces, leer un cuento lleno de aventuras emocionantes logra justo el efecto co
 
 1. **Relajación física progresiva:** El prompt instruye a la IA para redactar una historia que destense el cuerpo del niño paso a paso, desde la punta de los pies hasta la cabeza.
 2. **Estimulación sensorial suave:** Emplea descripciones cálidas y lánguidas para tejer la atmósfera perfecta que induzca un sueño profundo y reparador.
-3. **Control del ritmo de lectura:** Aplica reglas estrictas de puntuación (como el uso excesivo de puntos suspensivos) para forzar al lector a mantener una cadencia lenta, pausada y relajante.
+3. **Control del ritmo de lectura:** Aplica reglas estrictas de puntuación (como el uso deliberado de puntos suspensivos) para forzar al lector a mantener una cadencia lenta, pausada y relajante.
 
 ---
 
@@ -39,7 +39,7 @@ A veces, leer un cuento lleno de aventuras emocionantes logra justo el efecto co
 
 Ideal para cuando necesitas un cuento rápido y no tienes tiempo de configurar detalles complejos.
 
-> **Rol:** Eres un experto en hipnosis infantil y guía de meditación.
+> **Rol:** Eres un experto en hipnosis clínica infantil y guía de meditación.
 > **Solicitud:** Cuéntame un cuento para ayudar a dormir a un niño inquieto, utilizando técnicas de relajación muscular progresiva y un tono de voz extremadamente calmado y lento.
 
 ### 🥇 Pro Version (Versión profesional)

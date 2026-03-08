@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Prompt Mudando Currículo Coreano para Currículo Inglês Nível Nativo\""
+title: "Prompt: Transforme seu Currículo em um Resume em Inglês de Nível Nativo"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emprego & Carreira"
-description: " \"Mais do que uma simples tradução. Converta perfeitamente o seu currículo com expressões e formatos adequados à cultura de recrutamento de língua inglesa.\""
+description: "Vá além da simples tradução. Converta seu currículo perfeitamente com expressões e formatos adequados à cultura de recrutamento de língua inglesa."
 tags:
   [
     "CurrículoInglês",
@@ -16,9 +16,9 @@ tags:
   ]
 ---
 
-# 📝 Prompt: Transforme seu Currículo para um Resume em Inglês Nível Nativo
+## 📝 Prompt: Transforme seu Currículo em um Resume em Inglês de Nível Nativo
 
-- **🎯 Recomendado para:** Profissionais de todas as áreas buscando vagas no exterior, em multinacionais ou empresas de tecnologia.
+- **🎯 Recomendado para:** Profissionais de todas as áreas que buscam vagas no exterior, em multinacionais ou empresas de tecnologia.
 - **⏱️ Tempo necessário:** 30 minutos → Reduzido para 5 minutos
 - **🤖 Modelo recomendado:** Qualquer modelo de IA conversacional (ChatGPT, Claude, Gemini, etc.)
 
@@ -28,7 +28,7 @@ tags:
 
 > _"Seu currículo foi traduzido por uma IA genérica? Para um recrutador nativo, ele provavelmente soa robótico, passivo e pouco profissional."_
 
-Um currículo em inglês (Resume) possui regras gramaticais e estilísticas completamente diferentes de um currículo convencional. Ele deve omitir pronomes pessoais (como "I" ou "My") e sempre começar com um **Verbo de Ação (Action Verb)** forte e impactante. Não peça simplesmente para a IA "traduzir" o seu texto; em vez disso, atribua a ela o papel de um 'Especialista em Escrita de Currículos do Vale do Silício'.
+Um currículo em inglês (Resume) possui regras gramaticais e estilísticas completamente diferentes de um currículo convencional. Ele exige a omissão de pronomes pessoais (como "I" ou "My") e deve sempre começar com um **Verbo de Ação (Action Verb)** forte e impactante. Não peça simplesmente para a IA "traduzir" o seu texto; em vez disso, atribua a ela o papel de um verdadeiro 'Especialista em Escrita de Currículos do Vale do Silício'.
 
 ---
 
@@ -47,8 +47,8 @@ Um currículo em inglês (Resume) possui regras gramaticais e estilísticas comp
 Use esta versão quando precisar apenas de um resultado rápido e direto.
 
 > **Papel:** Você é um `[recrutador experiente de uma empresa do Vale do Silício]`.
+>
 > **Solicitação:** Converta a descrição da minha experiência profissional para o formato padrão de recrutamento em inglês, aplicando vocabulário corporativo adequado. `[Cole seu texto aqui]`
-
 
 ### 🥇 Versão Pro (Expert)
 
@@ -58,15 +58,15 @@ Use esta versão quando precisar de resultados de altíssima qualidade, focados 
 >
 > **Contexto (Context):**
 >
-> - Fundo: Quero converter a descrição das minhas experiências profissionais para um Resume em inglês altamente competitivo.
+> - Cenário: Quero converter a descrição das minhas experiências profissionais em um Resume em inglês altamente competitivo.
 > - Objetivo: Refinar e adaptar o texto de forma elegante para a **cultura de recrutamento de língua inglesa**, superando de longe uma tradução literal.
 >
 > **Solicitação (Task):**
 >
 > 1. Inicie cada ponto (bullet point) com um **Poderoso Verbo de Ação (Action Verb)**. (ex: Spearheaded, Engineered, Optimized, Delivered).
-> 2. Omita completamente os pronomes pessoais sujeitos e possessivos ('I', 'My').
+> 2. Omita completamente os pronomes pessoais e possessivos ('I', 'My').
 > 3. Destaque em **Negrito** os números, métricas de impacto e resultados alcançados.
-> 4. Substitua expressões estranhas ou frases não naturais pelos jargões de negócios (business jargon) que os profissionais nativos realmente utilizam no ambiente corporativo.
+> 4. Substitua expressões estranhas ou frases não naturais por jargões de negócios (business jargon) que os profissionais nativos realmente utilizam no ambiente corporativo.
 >
 > **Entrada de Dados:**
 > `[Cole aqui o conteúdo das suas experiências profissionais]`
@@ -78,7 +78,7 @@ Use esta versão quando precisar de resultados de altíssima qualidade, focados 
 >
 > **Aviso (Warning):**
 >
-> - Não invente informações, habilidades ou números que não estejam no texto de entrada original. Apenas reformule o que foi fornecido.
+> - Não invente informações, habilidades ou números que não estejam no texto original. Apenas reformule rigorosamente o que foi fornecido.
 
 ---
 
@@ -86,17 +86,17 @@ Use esta versão quando precisar de resultados de altíssima qualidade, focados 
 
 A maior diferença entre um currículo comum e um Resume de sucesso está no foco em "O que eu fiz" versus "Qual impacto eu causei". Ao enviar textos traduzidos literalmente, você perde a oportunidade de demonstrar proatividade e valor agregado. Eu utilizo esse prompt especificamente para transformar descrições monótonas de tarefas em conquistas mensuráveis.
 
-Uma dica de ouro: se você não tem os números exatos do impacto do seu trabalho (ex: "Aumentei as vendas"), peça para a IA deixar um espaço reservado como `[X]%` para que você possa preencher depois com uma estimativa realista. A estrutura de Verbo de Ação + Tarefa + Resultado Mensurável (Fórmula XYZ do Google) é o verdadeiro segredo para ser notado pelos recrutadores estrangeiros.
+Uma dica de ouro: se você não tem os números exatos do impacto do seu trabalho (ex: "Aumentei as vendas"), peça para a IA deixar um espaço reservado como `[X]%` para que você possa preencher depois com uma estimativa realista. A estrutura **Verbo de Ação + Tarefa + Resultado Mensurável** (a famosa Fórmula XYZ do Google) é o verdadeiro segredo para ser notado pelos recrutadores estrangeiros.
 
 ---
 
 ## 🙋 Perguntas Frequentes (FAQ)
 
-- **Q: Posso usar este prompt para a minha carta de apresentação (Cover Letter) também?**
-  - A: O formato de um Resume é construído em "bullet points", enquanto a Cover Letter é um texto corrido em primeira pessoa ("I"). Para uma Cover Letter, é recomendado modificar a Tarefa (Task) do prompt para: "Escreva uma carta persuasiva em primeira pessoa, destacando a minha paixão pela empresa e alinhando minhas habilidades à vaga."
+- **Q: Posso usar este prompt também para a minha carta de apresentação (Cover Letter)?**
+  - A: O formato de um Resume é construído em "bullet points", enquanto a Cover Letter é um texto corrido narrado em primeira pessoa ("I"). Para uma Cover Letter, é recomendado modificar a Tarefa (Task) do prompt para: "Escreva uma carta persuasiva em primeira pessoa, destacando a minha paixão pela empresa e alinhando minhas habilidades à vaga."
 
 - **Q: A IA inventou métricas ou habilidades que eu não possuo. O que devo fazer?**
-  - A: Isso pode ocorrer se o modelo tentar "melhorar" excessivamente o seu currículo (fenômeno de alucinação). É exatamente por isso que a seção de **Aviso (Warning)** foi incluída na Versão Pro do prompt. Se ainda assim acontecer, reitere: "Atenha-se estritamente aos fatos fornecidos no texto original."
+  - A: Isso pode ocorrer se o modelo tentar "melhorar" excessivamente o seu currículo (fenômeno de alucinação). É exatamente por isso que a seção de **Aviso (Warning)** foi incluída na Versão Pro do prompt. Se ainda assim acontecer, reitere o comando: "Atenha-se estritamente aos fatos fornecidos no texto original, sem inventar dados."
 
 ---
 
@@ -104,7 +104,7 @@ Uma dica de ouro: se você não tem os números exatos do impacto do seu trabalh
 
 1. **Role (Papel):** Ao definir a IA como "recrutador sênior do Vale do Silício", forçamos o modelo a adotar o padrão ouro de exigência e vocabulário corporativo de alto nível.
 2. **Task (Tarefa Específica):** Exigir _Action Verbs_ e omitir pronomes resolve imediatamente o problema de frases com som imaturo ou passivo (ex: "I did this, I made that").
-3. **Constraints (Destaque Visual):** Pedir o negrito em números ajuda os recrutadores humanos — que passam em média apenas 6 segundos olhando um currículo — a focarem imediatamente nos resultados e métricas que importam.
+3. **Constraints (Restrições):** Pedir o negrito em números ajuda os recrutadores humanos — que passam em média apenas 6 segundos olhando um currículo — a focarem imediatamente nos resultados e nas métricas que realmente importam.
 
 ---
 
@@ -132,6 +132,6 @@ _(Profissional, dinâmico, focado em impacto e perfeitamente legível)_
 
 ## 🎯 Conclusão
 
-Mesmo que o seu inglês não seja avançado, você tem total capacidade de apresentar um currículo brilhante e competitivo em nível global. Não permita que suas excelentes experiências e sua trajetória sejam subestimadas ou descartadas simplesmente por causa de uma tradução mal feita.
+Mesmo que o seu inglês não seja avançado, você tem total capacidade de apresentar um currículo brilhante e competitivo em nível global. Não permita que suas excelentes experiências e sua trajetória sejam subestimadas ou descartadas simplesmente por causa de uma tradução malfeita.
 
 Chegou a hora de se reposicionar como um talento de classe mundial e conquistar aquela tão sonhada vaga no exterior! 🌏

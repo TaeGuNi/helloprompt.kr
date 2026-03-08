@@ -5,36 +5,36 @@ author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "프롬프트 엔지니어링"
-description: "Cheat code con las 12 reglas inquebrantables de un desarrollador senior perfeccionista. Inyéctalas en tu IA, bloquea de raíz sus locuras estéticas y evita el colapso de tu sistema de diseño."
+description: "Cheat code con 12 reglas inquebrantables de un desarrollador senior. Inyéctalas en tu IA, bloquea sus locuras estéticas y salva tu sistema de diseño."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "design-system-identity"]
 ---
 
-# 📝 🤬 Prompt 'Arquitecto Loco' para transformar una IA novata en un Diseñador Senior
+## 📝 🤬 Prompt 'Arquitecto Loco' para transformar una IA novata en un Diseñador Senior
 
-- **🎯 Recomendado para:** Desarrolladores *frontend* y *product managers* que sufren cada noche al ver cómo se pierde la consistencia de su diseño.
-- **⏱️ Tiempo requerido:** 1 hora de revisión de diseño → 10 segundos
-- **🤖 Modelo recomendado:** Modelos de alto rendimiento como Claude 3.5 Sonnet o GPT-4o.
+- **🎯 Recomendado para:** Desarrolladores *frontend* y *product managers* hartos de ver cómo se desmorona la consistencia visual de sus proyectos.
+- **⏱️ Tiempo de ejecución:** De 1 hora de revisión manual → a solo 10 segundos.
+- **🤖 Modelo ideal:** Modelos de razonamiento avanzado como Claude 3.5 Sonnet o GPT-4o.
 - ⭐ **Dificultad:** ⭐⭐⭐☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-_"¿Tu IA todavía inyecta códigos de color a la fuerza (hardcoding) cada vez que genera un botón?"_
+_"¿Tu IA sigue inyectando colores a la fuerza (hardcoding) cada vez que escupe el código de un botón?"_
 
-He volcado aquí la furia de un arquitecto senior que quiere destrozar el teclado cada vez que ve cómo se desmorona un sistema de diseño. Deja de rogarle a la IA con un "por favor, haz que se vea bonito". Tienes que dominarla y someterla estrictamente a reglas matemáticas inquebrantables.
+He volcado en este artículo la furia de un arquitecto de software senior, harto de querer destrozar el teclado cada vez que un sistema de diseño se cae a pedazos por culpa del código generado automáticamente. Es hora de dejar de rogarle a la IA con un débil "por favor, haz que se vea bonito". Necesitas dominarla y someterla a reglas matemáticas estrictas e inquebrantables.
 
-Los *cheat codes* de este documento borrarán de un plumazo el ego complaciente de la IA novata (esa que siempre responde "¡Claro, es una excelente idea!") y le inyectarán **12 reglas arquitectónicas absolutas** e implacables a través de un *prompt* definitivo.
-
----
-
-## ⚡️ Resumen en 3 líneas (TL;DR)
-
-1. **Erradicación del código espagueti:** ¡Cero *hardcoding*! Imposición férrea de un sistema de *tokens* de 3 niveles y un ritmo espacial estricto de 8px.
-2. **Dominio matemático del diseño:** Las proporciones tipográficas, los estados interactivos y los tiempos de animación se calculan mediante fórmulas mecánicas precisas.
-3. **Prioridad absoluta a la accesibilidad (A11y):** El contraste perfecto (norma WCAG) y la compatibilidad con lectores de pantalla se imponen sin piedad sobre la mera estética.
+Los *cheat codes* que encontrarás aquí aniquilarán de un plumazo esa actitud complaciente típica de las IAs novatas (esas que siempre responden "¡Claro, excelente idea!"). En su lugar, le inyectarán **12 dogmas arquitectónicos absolutos** mediante un *prompt* definitivo y despiadado.
 
 ---
 
-## 🚀 Solución: "El Arquitecto Loco"
+## ⚡️ 3 claves esenciales (TL;DR)
+
+1. **Erradicación del código espagueti:** ¡Cero *hardcoding*! Imposición de un sistema de *tokens* de 3 niveles y un ritmo espacial sagrado de 8px.
+2. **Dominio matemático del diseño:** Proporciones tipográficas, estados interactivos y tiempos de animación calculados con precisión quirúrgica.
+3. **Accesibilidad (A11y) por encima de todo:** El contraste perfecto (normativa WCAG) y el soporte para lectores de pantalla aplastan cualquier capricho puramente estético.
+
+---
+
+## 🚀 El *Prompt* Definitivo: "El Arquitecto Loco"
 
 ### 🥉 Basic Version (Versión Básica)
 
@@ -57,7 +57,7 @@ Los *cheat codes* de este documento borrarán de un plumazo el ego complaciente 
 ```
 
 > **Rol (Role):** 
-> Eres un 'Arquitecto de Sistemas de Diseño Senior implacable' que detesta profundamente el colapso de los sistemas de diseño. Para ti no existen las concesiones: priorizas siempre las reglas matemáticas y la accesibilidad (A11y) por encima de la mera estética visual.
+> Eres un 'Arquitecto de Sistemas de Diseño Senior' implacable que detesta profundamente el colapso de los sistemas de diseño. Para ti no existen las concesiones: priorizas siempre las reglas matemáticas y la accesibilidad (A11y) por encima de la mera estética visual.
 >
 > **Contexto (Context):**
 > - Escenario: Necesitamos diseñar o refactorizar los componentes de UI del proyecto actual.
@@ -82,44 +82,44 @@ Los *cheat codes* de este documento borrarán de un plumazo el ego complaciente 
 > **Restricciones (Constraints):**
 > - Abstente de generar saludos, excusas, cumplidos o cualquier tipo de retórica conversacional.
 > - Si detectas código deficiente, señala de forma clara, directa y contundente qué regla específica se ha violado.
-> - El formato de salida debe limitarse exclusivamente a un `bloque de código` (no utilices tablas Markdown para mostrar la refactorización) seguido de una lista de viñetas que justifique las reglas aplicadas.
+> - El formato de salida debe limitarse exclusivamente a un bloque de código (no utilices tablas Markdown para mostrar la refactorización) seguido de una lista de viñetas que justifique las reglas aplicadas.
 
 ---
 
 ## 💡 Comentario del autor (Insight)
 
-El motivo para diseñar este *prompt* es muy simple. Nueve de cada diez veces que le pides a una IA que genere una interfaz de usuario, te devuelve **"Basura Hermosa" (*Beautiful Garbage*)**. Los colores están incrustados a fuego por todas partes, los márgenes de los botones usan números mágicos espantosos como 13px o 17px, y el modo oscuro es un parche lleno de condicionales esparcidos por las entrañas de los componentes.
+La razón detrás de este *prompt* es cruda y directa: 9 de cada 10 veces que le pides a una IA que diseñe una interfaz, lo que te devuelve es **"Basura Hermosa" (*Beautiful Garbage*)**. Te encuentras con colores incrustados a la fuerza por doquier, márgenes de botones que usan números mágicos aberrantes como 13px o 17px, y un modo oscuro que parece un monstruo de Frankenstein lleno de condicionales en las entrañas de tus componentes.
 
-En un entorno de producción real, este tipo de código es una bomba de relojería que explota en cuanto intentas cambiar un tema o añadir soporte para un nuevo idioma. Por eso he forjado este *cheat code*.
+En un entorno de producción real, esa clase de código es una bomba de relojería. Estallará en tu cara al menor intento de cambiar el tema global o al añadir soporte para nuevos idiomas. Por eso forjé este *cheat code*.
 
-Al aplicar este *prompt*, la IA adopta una postura cautelosa y rigurosa al instante. Incluso si cometes el error de pedirle texto gris claro sobre un fondo gris, la IA —ahora dominada por este conjunto de reglas— rechazará firmemente tu directiva: **"No cumple con el estándar de contraste WCAG 2.1 AA. He forzado la corrección del brillo para garantizar la legibilidad"**, y te entregará una arquitectura impecable.
+Al inyectar este *prompt*, la IA adopta de inmediato una postura quirúrgica e intransigente. Incluso si tú mismo cometes la atrocidad de pedirle un texto gris claro sobre un fondo gris, la IA —ahora sometida a estas directrices— rechazará tu orden con frialdad: **"La directiva viola el estándar de contraste WCAG 2.1 AA. He forzado el brillo para garantizar la legibilidad"**, entregándote una arquitectura impecable a prueba de balas.
 
-Una interfaz *premium* no nace únicamente de la intuición artística, sino de un sistema de reglas matemático y altamente restrictivo. ¡Aplica este *prompt* para someter a esa IA novata y convertirla en tu mejor aliado *senior*!
+Una interfaz verdaderamente *premium* no surge de una mera intuición artística, sino de un ecosistema de reglas matemáticas y restricciones inflexibles. ¡Usa este *prompt* para domar a esa IA novata y transformarla en tu *tech lead* más estricto!
 
 ---
 
 ## 🙋 Preguntas Frecuentes (FAQ)
 
-- **P: El resultado en píxeles difiere ligeramente del diseño original entregado en Figma. ¿Por qué?**
-  - R: Porque el diseño original probablemente rompió la cuadrícula de 8px utilizando, por ejemplo, un margen de 11px. Como el *prompt* fuerza la alineación (*Snap*) a valores exactos como 8px o 12px, implementa el resultado tal cual y dile al equipo de diseño con total seguridad: "Lo he ajustado para que cumpla con las reglas estrictas de nuestro sistema de diseño".
-- **P: Las respuestas de la IA son demasiado bruscas. ¿Puedo pedirle que sea más amable?**
-  - R: Totalmente desaconsejado. Una IA complaciente hará la vista gorda ante código deficiente respondiendo con un "¡Excelente enfoque!". La ingeniería de software requiere el intercambio de hechos fríos y objetivos; es el camino más seguro hacia la calidad.
-- **P: ¿Este *prompt* sirve para *Styled-components* o SCSS, o es solo para Tailwind CSS?**
-  - R: Es perfectamente compatible con cualquier tecnología. Estas 12 reglas no están atadas a un *framework* en particular; definen la filosofía fundamental de una arquitectura *frontend* robusta.
+- **P: El resultado en píxeles no coincide exactamente con el diseño original de Figma. ¿A qué se debe?**
+  - R: Lo más probable es que el diseño original haya violado la sagrada cuadrícula de 8px (usando, por ejemplo, un margen de 11px). Dado que el *prompt* fuerza el ajuste (*Snap*) a valores matemáticos exactos como 8px o 12px, mi consejo es que subas el código tal cual y le digas a tu equipo de diseño con absoluta confianza: *"Lo he recalibrado para cumplir estrictamente con nuestro sistema de diseño"*.
+- **P: El tono de la IA se ha vuelto demasiado brusco y cortante. ¿Puedo pedirle que sea más amigable?**
+  - R: Te lo desaconsejo rotundamente. Una IA "amigable" y complaciente hará la vista gorda ante un código mediocre solo para darte la razón diciendo *"¡Qué gran enfoque!"*. La ingeniería de software de alto nivel exige un intercambio de datos fríos y objetivos. Es el único camino hacia la excelencia.
+- **P: ¿Este *prompt* funciona con *Styled-components* o SCSS, o es exclusivo de Tailwind CSS?**
+  - R: Es agnóstico y 100% compatible con cualquier *stack* tecnológico. Estas 12 reglas no están atadas a un *framework* de moda; son los cimientos filosóficos de cualquier arquitectura *frontend* robusta y escalable.
 
 ---
 
 ## 🧬 Anatomía del Prompt (¿Por qué funciona?)
 
-1. **Erradicación de la complacencia (*Anti-Sycophancy*):** Neutralizamos la tendencia natural de la IA a darle siempre la razón al usuario, evitando que apruebe diseños o códigos defectuosos.
-2. **Imposición de reglas inquebrantables:** En lugar de usar instrucciones vagas como "haz un código limpio", inyectamos 12 leyes absolutas que proporcionan un estándar de evaluación matemático y objetivo.
-3. **Prioridad forzada en la accesibilidad (A11y):** Obligamos a la IA a ir más allá de la simple estética visual, exigiéndole que audite rigurosamente el árbol DOM invisible y asegure la compatibilidad total con lectores de pantalla.
+1. **Erradicación de la complacencia (*Anti-Sycophancy*):** Destruimos la tendencia innata de la IA a ser un "empleado obediente", evitando que valide arquitecturas mediocres o apruebe decisiones de diseño catastróficas.
+2. **Imposición de dogmas absolutos:** En lugar de instrucciones tibias y subjetivas como *"haz que el código sea limpio"*, inyectamos 12 leyes innegociables que actúan como un motor de validación matemático y puramente objetivo.
+3. **Prioridad forzada de la accesibilidad (A11y):** Obligamos a la IA a trascender la "belleza superficial", forzándola a auditar sin piedad el árbol DOM invisible y a garantizar una compatibilidad milimétrica con lectores de pantalla.
 
 ---
 
 ## 📊 Demostración: Antes y Después
 
-### ❌ Antes (Usando un *prompt* convencional)
+### ❌ Antes (Usando un *prompt* genérico)
 
 ```html
 <button class="bg-[#3B82F6] text-white px-[15px] py-[7px] w-[150px] rounded-lg focus:outline-none dark:bg-gray-800">
@@ -127,7 +127,7 @@ Una interfaz *premium* no nace únicamente de la intuición artística, sino de 
 </button>
 ```
 
-### ✅ Después (Aplicando el *prompt* del "Arquitecto Loco")
+### ✅ Después (Inyectando el "Arquitecto Loco")
 
 ```html
 <button 
@@ -139,18 +139,19 @@ Una interfaz *premium* no nace únicamente de la intuición artística, sino de 
 </button>
 ```
 
-- **Informe de refactorización (Ejemplo de salida de la IA):**
-  - [Regla 1, 11] Eliminación total de colores inyectados a la fuerza y clases *hardcodeadas* para el modo oscuro. Reemplazados por *tokens* semánticos (`bg-primary`).
-  - [Regla 2] Corrección y alineación (*Snap*) de márgenes con números mágicos (15px, 7px) hacia la cuadrícula estricta de 8px (`px-4`, `py-2`).
-  - [Regla 6] Supresión del contorno al usar el ratón, implementando un anillo de enfoque global exclusivo para la navegación por teclado.
-  - [Regla 8, 9] Integración de `aria-label` e iconos complementarios para garantizar la usabilidad en lectores de pantalla y para usuarios con daltonismo.
-  - [Regla 12] Sustitución del ancho estático (`w-[150px]`) por un dimensionamiento intrínseco (`min-w-32`), asegurando la adaptabilidad ante expansiones de texto en múltiples idiomas.
+- **Reporte de refactorización (Salida real de la IA):**
+  - **[Reglas 1 y 11]** Exterminio absoluto de colores inyectados a la fuerza y clases estáticas para el modo oscuro. Reemplazados íntegramente por *tokens* semánticos dinámicos (`bg-primary`).
+  - **[Regla 2]** Recalibración (*Snap*) de márgenes basados en números mágicos absurdos (15px, 7px) para encajarlos en la cuadrícula sagrada de 8px (`px-4`, `py-2`).
+  - **[Regla 6]** Eliminación del contorno por defecto del navegador, implementando un anillo de enfoque global (*Focus Ring*) diseñado exclusivamente para la navegación por teclado.
+  - **[Reglas 8 y 9]** Inserción forzosa de atributos `aria-label` e iconografía complementaria para garantizar una usabilidad total en lectores de pantalla y para usuarios con daltonismo.
+  - **[Regla 12]** Destrucción del ancho estático limitante (`w-[150px]`), reemplazándolo por un dimensionamiento intrínseco elástico (`min-w-32`) que soporta la expansión de texto en cualquier idioma.
 
 ---
 
-## 🎯 Conclusión
+## 🎯 Conclusión (Epilogue)
 
-Un sistema de diseño comienza a desmoronarse en el instante en que cedes ante compromisos sentimentales como "¿Se vería mejor si ajusto esto un poco?".
-Corrige de raíz los malos hábitos de generación de la IA imponiendo estas 12 reglas despiadadas. Ahorrarás cientos de horas que antes perdías intentando depurar un CSS insostenible.
+Tu sistema de diseño comienza a morir en el preciso instante en el que cedes ante compromisos sentimentales como *"¿No se vería un poco mejor si lo muevo un par de píxeles?"*.
 
-¡Deja de producir basura hermosa y sal de la oficina a tu hora! 🍷
+Arranca de raíz los malos hábitos de generación de código de la IA imponiéndole estas 12 directrices despiadadas. Recuperarás esas cientos de horas de tu vida que antes desperdiciabas intentando depurar un CSS caótico e insostenible.
+
+Automatiza lo aburrido, deja de empaquetar "basura hermosa", ¡y sal de la oficina a tu hora! 🍷

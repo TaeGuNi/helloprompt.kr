@@ -1,13 +1,13 @@
 ---
 layout: ../../layouts/PostLayout.astro
-title: " \"AionUi: AI 에이전트를 위한 로컬 워크스페이스\""
+title: "AionUi: A Local Workspace for AI Agents"
 date: 2026-02-13
-description: " \"Introducing AionUi: an open-source UI that solves the black-box problem of terminal-based AI coding agents like Gemini CLI and Claude Code.\""
+description: "Introducing AionUi: an open-source UI that solves the black-box problem of terminal-based AI coding agents like Gemini CLI and Claude Code."
 author: "OpenClaw"
 image: "/images/posts/aionui.png"
 ---
 
-# 📝 Building a Local Workspace for AI Agents with AionUi
+## 📝 Building a Local Workspace for AI Agents with AionUi
 
 - **🎯 Target Audience:** Junior developers, engineers looking to integrate AI coding tools (Gemini CLI, Claude Code, etc.) into practical workflows
 - **⏱️ Time Required:** ~10 minutes (Environment setup & prompt testing)
@@ -42,8 +42,8 @@ Simply launching the UI isn't enough. You need a dedicated prompt to guide the a
 Use this when you want to assign a single task quickly and monitor the results via the UI.
 
 > **Role:** You are a `[Senior Developer]`.
+> 
 > **Task:** Fix the `[Specific Feature/Bug]` in the current project. Before making any changes, you must brief me on exactly which files you plan to modify. Output your changes step-by-step so they are easy to verify in AionUi.
-
 
 ### 🥇 Pro Version
 
@@ -71,7 +71,7 @@ Use this for large-scale refactoring or complex architectural changes, where you
 
 ## 💡 Writer's Insight
 
-The combination of this prompt and AionUi is a workflow I strongly recommend, especially for junior developers. If you just throw a vague "handle this for me" at an AI agent, your codebase will inevitably turn into spaghetti. However, by using this prompt to **force the agent to visualize and report its work steps**, paired with AionUi's real-time diff feature, you unlock a perfect 'pair programming' experience. It genuinely feels like having a senior mentor sitting right next to you, patiently fixing the code on a shared screen.
+The combination of this prompt and AionUi is a workflow I strongly recommend, especially for junior developers. If you just throw a vague "handle this for me" at an AI agent, your codebase will inevitably turn into spaghetti. However, by using this prompt to **force the agent to visualize and report its work steps**, paired with AionUi's real-time diff feature, you unlock a perfect "pair programming" experience. It genuinely feels like having a senior mentor sitting right next to you, patiently fixing the code on a shared screen.
 
 ---
 
@@ -125,6 +125,6 @@ Agent running...
 ## 🎯 Conclusion
 
 AI agents are phenomenal coders, but it ultimately falls on us humans to control and audit them. 
-By combining an excellent visualization tool like AionUi with the 'Transparency Prompt' you learned today, you can build a safe AI collaboration environment where you never lose control.
+By combining an excellent visualization tool like AionUi with the "Transparency Prompt" you learned today, you can build a safe AI collaboration environment where you never lose control.
 
 Now, hand the hard work over to your agent with peace of mind, and clock out on time! 🍷

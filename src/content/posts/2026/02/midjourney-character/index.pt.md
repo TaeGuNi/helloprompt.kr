@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "AI 디자인"
-description: "Cansado de ver o rosto do seu personagem mudar a cada nova geração? Descubra o segredo para manter um design impecável e consistente usando um único prompt de Character Sheet no Midjourney."
+description: "Cansado de ver o personagem mudar a cada geração? Descubra como criar designs consistentes no Midjourney com um único prompt de Character Sheet."
 tags: ["Midjourney", "캐릭터 디자인", "AI 아트", "일관성"]
 ---
 
-# 📝 Consistência de Personagens no Midjourney: O Segredo para a Character Sheet Perfeita
+## 📝 Consistência de Personagens no Midjourney: O Segredo para a Character Sheet Perfeita
 
 - **🎯 Recomendado para:** Desenvolvedores de jogos, quadrinistas e concept artists
 - **⏱️ Tempo necessário:** 1 hora → Reduzido para 5 minutos
@@ -21,7 +21,7 @@ tags: ["Midjourney", "캐릭터 디자인", "AI 아트", "일관성"]
 
 > _"Cansado de gerar personagens com IA e ver o rosto ou as roupas mudarem a cada nova imagem, como se fossem pessoas completamente diferentes?"_
 
-O maior pesadelo de quem utiliza arte gerada por IA em fluxos de trabalho profissionais é, sem dúvida, manter a **consistência do personagem**. Se você está desenvolvendo assets para jogos ou ilustrando uma história em quadrinhos, deparar-se com um protagonista que muda de rosto, proporção ou figurino a cada nova cena torna o material praticamente inútil. A solução mais robusta e comprovada para contornar esse problema estrutural é estabelecer, logo no início, uma **'Character Sheet' (Ficha de Personagem)**.
+O maior pesadelo de quem utiliza arte gerada por IA em fluxos de trabalho profissionais é, sem dúvida, manter a **consistência do personagem**. Se você está desenvolvendo assets para jogos ou ilustrando uma história em quadrinhos, deparar-se com um protagonista que muda de rosto, proporção ou figurino a cada cena torna o material praticamente inútil. A solução mais robusta e comprovada para contornar esse obstáculo estrutural é estabelecer, logo no início, uma **'Character Sheet' (Ficha de Personagem)**.
 
 Apresentamos aqui a técnica definitiva de *prompt engineering*: uma abordagem estratégica que extrai as visões frontal, lateral e traseira em uma única geração. Isso cria a base de referência perfeita para garantir uma consistência visual absoluta em todos os seus projetos futuros, eliminando horas de retrabalho e frustração.
 
@@ -30,7 +30,7 @@ Apresentamos aqui a técnica definitiva de *prompt engineering*: uma abordagem e
 ## ⚡️ 3 Pontos Principais (TL;DR)
 
 1. Gere sempre uma **Character Sheet** primeiro para fixar o design oficial do seu personagem.
-2. Utilize a versão **Pro** do nosso prompt no ChatGPT para arquitetar as instruções perfeitas para o Midjourney, garantindo visões frontal, lateral e traseira.
+2. Utilize a versão **Pro** do nosso prompt no ChatGPT para arquitetar as instruções perfeitas para o Midjourney, garantindo as visões frontal, lateral e traseira.
 3. Ajuste a proporção de tela (**`--ar`**) para formatos panorâmicos (como 16:9), evitando cortes indesejados ou sobreposições bizarras do corpo.
 
 ---
@@ -58,7 +58,7 @@ Um prompt avançado feito sob medida para o ChatGPT ou Claude. Ele atua como um 
 > **Task (Tarefa):**
 >
 > 1. Com base nas diretrizes abaixo, elabore 1 prompt em inglês perfeitamente otimizado para o Midjourney.
-> 2. Design do Personagem: `[Descreva aqui detalhadamente a aparência física, figurino, armas e paleta de cores do seu personagem]`
+> 2. Design do Personagem: `[Descreva detalhadamente a aparência física, o figurino, as armas e a paleta de cores do seu personagem]`
 > 3. O prompt deve seguir estritamente o formato de uma **Character Sheet**, exigindo pelo menos três ângulos: visão frontal (Front view), lateral (Side view) e traseira (Back view).
 >
 > **Constraints (Restrições):**
@@ -100,7 +100,7 @@ A verdadeira genialidade desta estrutura de prompt está em domar os dois maiore
 ## 🧬 Anatomia do Prompt (Por que funciona?)
 
 1. **Múltiplos Ângulos Explícitos (Multiple Views):** Ao cravar "Front, Side, Back view", nós amarramos as mãos da IA, forçando um layout técnico estruturado e inibindo poses artísticas soltas que seriam inúteis para o fluxo de produção.
-2. **Controle Estrito de Enquadramento (A-pose / Full body shot):** Ao evocar o padrão ouro da indústria de games, garantimos que os braços flexionados ou posturas muito dinâmicas não escondam detalhes essenciais do figurino, como o design de um cinto ou textura da calça.
+2. **Controle Estrito de Enquadramento (A-pose / Full body shot):** Ao evocar o padrão ouro da indústria de games, garantimos que os braços flexionados ou posturas muito dinâmicas não escondam detalhes essenciais do figurino, como o design de um cinto ou a textura da calça.
 3. **Isolamento de Ruído (Plain white background):** Ao condicionar o modelo a gerar o resultado com regras inquebráveis, como o fundo totalmente branco, cortamos pela raiz a mania do Midjourney de inserir cenários caóticos que tornariam o recorte da imagem um verdadeiro pesadelo.
 
 ---
@@ -127,7 +127,7 @@ Character sheet of a cyberpunk female warrior with a neon katana and pink hair, 
 
 ## 🎯 Conclusão
 
-Uma **Character Sheet** magistral não é apenas um belo desenho; é o alicerce absoluto de toda a sua *pipeline* de produção visual com IA. Com essa matriz padronizada e trancada a sete chaves, você ganha a liberdade inestimável de jogar o seu personagem em qualquer cena de ação, mantendo a identidade e o 100% do design intactos.
+Uma **Character Sheet** magistral não é apenas um belo desenho; é o alicerce absoluto de toda a sua *pipeline* de produção visual com IA. Com essa matriz padronizada e trancada a sete chaves, você ganha a liberdade inestimável de colocar o seu personagem em qualquer cena de ação, mantendo a identidade e 100% do design intactos.
 
 Aproprie-se deste *master prompt*, elimine de vez as dores de cabeça com mutações visuais indesejadas e escale com confiança a criação do seu próprio universo!
 

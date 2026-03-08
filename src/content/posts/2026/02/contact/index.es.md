@@ -5,21 +5,21 @@ description: "¿Tienes preguntas o sugerencias para el equipo de Hello Prompt?"
 date: "2026-02-09"
 ---
 
-# 📧 Contacto (Contact Us)
+## 📧 Contacto (Contact Us)
 
-- **🎯 Recomendado para:** Especialistas en marketing, *planners* y responsables de alianzas estratégicas que busquen colaborar con Hello Prompt.
-- **⏱️ Tiempo de ejecución:** De 10 minutos → a solo 1 minuto
-- **🤖 Modelo recomendado:** Cualquier IA conversacional (ChatGPT, Claude, Gemini, etc.)
+- **🎯 Recomendado para:** Especialistas en marketing, *planners* y responsables de alianzas estratégicas interesados en colaborar con Hello Prompt.
+- **⏱️ Tiempo de ejecución:** De 10 minutos → a solo 1 minuto.
+- **🤖 Modelo recomendado:** Cualquier IA conversacional (ChatGPT, Claude, Gemini, etc.).
 
 - ⭐ **Dificultad:** ⭐☆☆☆☆
 - ⚡️ **Eficacia:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"¿Cómo redactar un correo de propuesta comercial que el responsable no solo lea, sino que responda de inmediato?"_
+> _"¿Cómo redactar un correo de propuesta comercial que el responsable de alianzas no solo lea, sino que responda de inmediato?"_
 
 Gracias por utilizar Hello Prompt.
-Si experimentas algún inconveniente durante el uso del servicio o tienes sugerencias sobre *prompts* que te gustaría ver, no dudes en ponerte en contacto con nosotros.
-Sin embargo, hoy queremos ir más allá de un simple canal de atención al cliente: te compartimos un ***prompt* de IA infalible para redactar correos de propuestas de alianza irresistibles**. ¡Atrévete a ponerlo a prueba con nosotros mismos!
+Si experimentas algún inconveniente en la plataforma o tienes ideas de *prompts* que te gustaría ver, no dudes en ponerte en contacto con nosotros.
+Sin embargo, hoy queremos ir más allá de un simple canal de atención al cliente: te compartimos un **poderoso *prompt* de IA para redactar correos de propuestas de alianza que resulten irresistibles**. ¡Atrévete a ponerlo a prueba enviándonos uno!
 
 ---
 
@@ -27,18 +27,18 @@ Sin embargo, hoy queremos ir más allá de un simple canal de atención al clien
 
 1. Para consultas generales o soporte técnico, escríbenos a `support@helloprompt.kr` (garantizamos una respuesta en menos de 24 horas hábiles).
 2. Las propuestas de negocio, alianzas estratégicas y oportunidades de publicidad son siempre más que bienvenidas.
-3. Utiliza el "Prompt para redactar propuestas" que detallamos a continuación para crear correos radicalmente más persuasivos y profesionales.
+3. Utiliza el *prompt* que detallamos a continuación para redactar correos radicalmente más persuasivos y profesionales.
 
 ---
 
-## 🚀 La solución: "Prompt para redactar correos de alianza que dispararán tu tasa de éxito"
+## 🚀 La solución: *Prompt* para redactar correos de alianza que dispararán tu tasa de éxito
 
 ### 🥉 Basic Version (Consulta general)
 
 Utiliza este formato si simplemente deseas hacernos una pregunta rápida o compartir tu *feedback*.
 
 > **Destinatario:** support@helloprompt.kr
-> **Contenido:** Escribe aquí libremente sobre cualquier error que hayas detectado, ideas para mejorar la plataforma o dudas generales acerca de nuestro servicio.
+> **Contenido:** Escribe libremente sobre cualquier error que hayas detectado, ideas para mejorar la plataforma o dudas generales acerca de nuestro servicio.
 
 ### 🥇 Pro Version (Propuesta de negocios)
 
@@ -54,8 +54,8 @@ Si necesitas presentar una propuesta de alianza formal y meticulosamente estruct
 >
 > **Tarea (Task):**
 >
-> 1. Propón 3 opciones de líneas de asunto (Subject) concisas y magnéticas que despierten el interés inmediato del destinatario.
-> 2. Redacta el cuerpo del correo electrónico incluyendo: saludo inicial, contexto de la propuesta, puntos clave de la colaboración, beneficios mutuos (efectos esperados) y los próximos pasos a seguir (Call to Action o CTA).
+> 1. Propón 3 opciones de líneas de asunto (*Subject*) concisas y magnéticas que despierten el interés inmediato del destinatario.
+> 2. Redacta el cuerpo del correo electrónico incluyendo: saludo inicial, contexto de la propuesta, puntos clave de la colaboración, beneficios mutuos (efectos esperados) y los próximos pasos a seguir (*Call to Action* o CTA).
 > 3. Asegúrate de poner entre corchetes `[ ]` las variables o datos específicos para que yo pueda rellenarlos con facilidad antes de enviar el mensaje.
 >
 > **Restricciones (Constraints):**
@@ -67,7 +67,7 @@ Si necesitas presentar una propuesta de alianza formal y meticulosamente estruct
 
 ## 💡 El análisis del autor (Insight)
 
-Por muy brillante que sea tu idea de colaboración, si tu primer correo es demasiado extenso o carece de un enfoque nítido, será casi imposible captar la atención de un responsable de alianzas que revisa decenas de propuestas a diario. Al utilizar este *prompt*, puedes generar en segundos un borrador altamente profesional que comunica tu propuesta de valor (Value Proposition) de manera impecable y estructurada. ¡Solo te faltará añadir un toque personal y genuino al texto antes de pulsar "Enviar"!
+Por muy brillante que sea tu idea de colaboración, si tu primer correo es demasiado extenso o carece de un enfoque nítido, será casi imposible captar la atención de un responsable de alianzas que revisa decenas de propuestas a diario. Al utilizar este *prompt*, puedes generar en segundos un borrador altamente profesional que comunica tu propuesta de valor (*Value Proposition*) de manera impecable y estructurada. ¡Solo te faltará añadir un toque personal y genuino al texto antes de pulsar "Enviar"!
 
 ---
 

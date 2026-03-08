@@ -5,11 +5,11 @@ author: "Antigravity"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "Prompt-Tipps"
-description: "Ein praktischer Prompt-Guide, mit dem Sie hunderte Seiten komplexe Geschäftsberichte (DART/EDGAR) mithilfe von KI in Rekordzeit analysieren und die wichtigsten Kennzahlen vergleichen können."
+description: "Ein Prompt-Guide, um hunderte Seiten von Geschäftsberichten (DART/EDGAR) mit KI in 3 Minuten zu analysieren und Kernkennzahlen präzise zu vergleichen."
 tags: ["Aktien", "Investieren", "Berichtsanalyse", "Samsung", "SKHynix", "DART"]
 ---
 
-# 📝 Wie man Geschäftsberichte (DART) von Samsung vs. SK Hynix mit KI in 3 Minuten vergleicht
+## 📝 Wie man Geschäftsberichte (DART) von Samsung vs. SK Hynix mit KI in 3 Minuten vergleicht
 
 - **🎯 Zielgruppe:** Value-Investoren, Börsenanfänger, die sich mit Geschäftsberichten schwertun, sowie angehende Analysten
 - **⏱️ Zeitersparnis:** 2 Stunden → 3 Minuten
@@ -51,7 +51,7 @@ Verwenden Sie diesen umfassenden Prompt für einen tiefgreifenden qualitativen u
 > **Kontext (Context):**
 >
 > - Hintergrund: `[Ein präziser Vergleich der Fundamentaldaten, um eine fundierte, langfristige Anlageentscheidung zwischen den beiden Halbleiterunternehmen zu treffen]`
-> - Zielsetzung: Die Analyse muss strikt auf den wesentlichen Inhalten der offiziellen „Geschäftsberichte“ aus Systemen wie DART oder EDGAR basieren.
+> - Zielsetzung: Die Analyse muss strikt auf den wesentlichen Inhalten der offiziellen Geschäftsberichte aus Offenlegungssystemen wie DART oder EDGAR basieren.
 >
 > **Aufgabe (Task):**
 >
@@ -73,7 +73,7 @@ Verwenden Sie diesen umfassenden Prompt für einen tiefgreifenden qualitativen u
 
 ## 💡 Einblicke des Autors (Insight)
 
-Die wahre Stärke dieses Prompts liegt im direkten Vergleich. Analysiert man lediglich ein einzelnes Unternehmen, ist es oft extrem schwer einzuschätzen, ob die isolierten Zahlen tatsächlich herausragend sind. Stellt man hingegen die entscheidenden Kennzahlen – wie F&E-Quoten oder Fabrikauslastungen – zweier erbitterter Konkurrenten nebeneinander, wird sofort glasklar, wer den Markt wirklich dominiert. In der Praxis erzielen Sie eine geradezu unheimliche Präzision, wenn Sie die Original-PDFs direkt aus dem Offenlegungssystem (wie DART) herunterladen und sie zusammen mit diesem Prompt an ein leistungsstarkes Sprachmodell wie Claude 3.5 Sonnet übergeben.
+Die wahre Stärke dieses Prompts liegt im direkten Vergleich. Analysiert man lediglich ein einzelnes Unternehmen, lässt sich oft nur schwer einschätzen, ob isolierte Zahlen tatsächlich herausragend sind. Stellt man hingegen die entscheidenden Kennzahlen – wie F&E-Quoten oder Fabrikauslastungen – zweier erbitterter Konkurrenten direkt nebeneinander, wird sofort glasklar, wer den Markt dominiert. In der Praxis erzielen Sie eine beispiellose Präzision, wenn Sie die Original-PDFs direkt aus Offenlegungssystemen wie DART herunterladen und sie zusammen mit diesem Prompt an ein leistungsstarkes Sprachmodell wie Claude 3.5 Sonnet übergeben.
 
 ---
 
@@ -83,14 +83,14 @@ Die wahre Stärke dieses Prompts liegt im direkten Vergleich. Analysiert man led
   - A: Absolut! Wenn Sie die Geschäftsberichte von Samsung Electronics und SK Hynix in eine KI mit Dateianhangs-Funktion (wie ChatGPT Plus oder Claude) hochladen und den Pro-Prompt hinzufügen, erhalten Sie eine makellose, hochpräzise Analyse ganz ohne Halluzinationen.
 
 - **F: Ist die explizite Angabe der Sparte (`[Samsung Electronics DS Division]`) wirklich notwendig?**
-  - A: Ja, das ist entscheidend. Da Samsung Electronics auch in massiven Geschäftsbereichen wie Smartphones und Haushaltsgeräten tätig ist, müssen Sie die Analyse zwingend auf die DS-Sparte (Memory) beschränken. Nur so gewährleisten Sie einen fairen und sinnvollen Vergleich („Apple-to-Apple“) mit dem reinen Halbleiterhersteller SK Hynix.
+  - A: Ja, das ist absolut entscheidend. Da Samsung Electronics auch in massiven Geschäftsbereichen wie Smartphones und Haushaltsgeräten tätig ist, müssen Sie die Analyse zwingend auf die DS-Sparte (Memory) beschränken. Nur so gewährleisten Sie einen echten, validen Vergleich („Apples-to-Apples“) mit dem reinen Halbleiterhersteller SK Hynix.
 
 ---
 
 ## 🧬 Anatomie des Prompts (Why it works?)
 
 1. **Präzise Metrik-Segmentierung:** Indem wir konkrete Kernkennzahlen vorgeben, auf die professionelle Value-Investoren achten (wie „Auslastungsrate“ und „F&E-Quote“), verhindern wir vage, oberflächliche oder nutzlose Antworten der KI.
-2. **Apple-to-Apple-Vergleich:** Durch die gezielte Einschränkung auf die „DS-Division“ von Samsung Electronics anstelle des Gesamtkonzerns schaffen wir überhaupt erst die fundierte logische Grundlage für einen realistischen Wettbewerbsvergleich.
+2. **Apples-to-Apples-Vergleich:** Durch die gezielte Einschränkung auf die „DS-Division“ von Samsung Electronics anstelle des Gesamtkonzerns schaffen wir überhaupt erst die fundierte logische Grundlage für einen validen Wettbewerbsvergleich.
 3. **Fokus auf Risikobewertung:** Der Prompt verlangt nicht nur die bloße Auflistung von Stärken, sondern zwingt die KI aktiv dazu, „Risiken aus der Finanzbilanz“ schonungslos aufzudecken. Das garantiert Ihnen eine weitaus objektivere und sicherere Anlagebewertung.
 
 ---
@@ -128,6 +128,6 @@ Ich werde als Senior Portfolio Manager die zentralen Fundamentaldaten beider Unt
 
 ## 🎯 Fazit
 
-Ersparen Sie sich ab sofort das mühsame, stundenlange Wälzen trockener Geschäftsberichte und lassen Sie die KI diese komplexe Übersetzungsarbeit in Sekunden für Sie erledigen.
+Ersparen Sie sich ab sofort das stundenlange Wälzen trockener Geschäftsberichte und lassen Sie die KI diese komplexe Auswertungsarbeit in Sekunden für Sie erledigen.
 
 Es ist an der Zeit, Ihre Entscheidungen beim datengetriebenen Value-Investing auf ein völlig neues Level zu heben! 🍷

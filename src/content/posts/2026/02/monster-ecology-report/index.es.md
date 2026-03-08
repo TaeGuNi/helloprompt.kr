@@ -10,7 +10,7 @@ tags:
   ["Criatura", "Monstruo", "PlanificaciónJuego", "Fantasía", "Configuración"]
 ---
 
-# 📝 Informe de Ecología de Monstruos: Creando Mi Propia Criatura
+## 📝 Informe de Ecología de Monstruos: Creando Mi Propia Criatura
 
 - **🎯 Recomendado para:** Diseñadores de juegos, escritores de fantasía, Dungeon Masters (D&D) y creadores de mundos.
 - **⏱️ Tiempo requerido:** 5 minutos → 1 minuto
@@ -38,11 +38,10 @@ El verdadero atractivo de franquicias como _Monster Hunter_ o _The Witcher_ no r
 
 ### 🥉 Versión Básica
 
-Ideal para generar ideas rápidas cuando te quedas en blanco durante una partida de rol o un boceto de diseño.
+Ideal para generar ideas rápidas cuando te quedas en blanco durante una partida de rol o al iniciar un boceto de diseño.
 
 > **Rol:** Eres un biólogo experto en ecosistemas de fantasía.
 > **Solicitud:** Crea un monstruo original basado en un bosque petrificado. Describe brevemente su aspecto, cómo caza y su punto débil.
-
 
 ### 🥇 Versión Pro (Experto)
 
@@ -80,9 +79,9 @@ Utiliza este prompt cuando necesites una criatura lista para producción, con un
 
 ## 💡 Comentario del Autor (Insight)
 
-La magia de este prompt reside en la palabra "biólogo". Al obligar a la IA a adoptar la perspectiva de un investigador científico, evitamos las descripciones perezosas como "es muy fuerte y escupe fuego". En su lugar, obtenemos adaptaciones evolutivas reales: "desarrolló glándulas de fósforo en la garganta para cazar en la oscuridad".
+La magia de este prompt reside en la palabra "biólogo". Al obligar a la IA a adoptar la perspectiva de un investigador científico, evitamos descripciones perezosas como "es muy fuerte y escupe fuego". En su lugar, obtenemos adaptaciones evolutivas reales: "desarrolló glándulas de fósforo en la garganta para cazar en la oscuridad".
 
-Si estás diseñando un videojuego o una campaña de rol, la sección de "Debilidades Tácticas" y "Botín" te ahorra horas de balanceo. Te da directamente las mecánicas para que el jugador o el lector descubra cómo vencer a la criatura y cuál será su recompensa, conectando la narrativa con el _gameplay_ de forma increíblemente natural.
+Si estás diseñando un videojuego o una campaña de rol, la sección de "Debilidades Tácticas" y "Botín" te ahorrará horas de balanceo. Te proporciona directamente las mecánicas para que el jugador o el lector descubra cómo vencer a la criatura y cuál será su recompensa, conectando la narrativa con el _gameplay_ de forma increíblemente natural.
 
 ---
 
@@ -122,7 +121,7 @@ Si estás diseñando un videojuego o una campaña de rol, la sección de "Debili
 > - **Nombre:** _Lutosuchus insidiae_ (Conocido por los locales como **Faucefangosa**)
 > - **Anatomía:** Posee un exoesqueleto dorsal poroso donde crecen musgos y hongos venenosos, mimetizándose perfectamente con las aguas estancadas. En lugar de fosas nasales convencionales, tiene un apéndice retráctil similar a un junco para respirar sumergido.
 > - **Hábito Ecológico:** Durante la época de sequía, secreta una enzima paralizante en el barro a su alrededor, creando "trampas de fango" naturales donde caen otras criaturas.
-> - **Debilidad Táctica:** Su vientre carece del exoesqueleto protector. Además, si se corta o daña su "junco" respiratorio, se verá obligado a emerger a la superficie tosiendo barro, volviéndose extremadamente vulnerable.
+> - **Debilidad Táctica:** Su vientre carece de exoesqueleto protector. Además, si se corta o daña su "junco" respiratorio, se verá obligado a emerger a la superficie tosiendo barro, volviéndose extremadamente vulnerable.
 > - **Botín:** **Glándula de Enzima Paralizante** (Ideal para recubrir armas o crear trampas) y **Placas de Fango Petrificado** (Material excelente para forjar escudos ligeros resistentes al ácido).
 
 ---

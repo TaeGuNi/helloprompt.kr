@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Voglio un Aumento! Simulatore di Negoziazione Salariale (Roleplay)\""
+title: "\"Voglio un Aumento! Simulatore di Negoziazione Salariale (Roleplay)\""
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Lavoro & Carriera"
-description: " \"Simula una tesa negoziazione salariale con un manager HR per affinare la logica e le tue argomentazioni, massimizzando l'aumento di stipendio.\""
+description: "Simula una tesa negoziazione salariale con un manager HR per affinare la logica e le tue argomentazioni, massimizzando l'aumento di stipendio."
 tags:
   [
     "NegoziazioneSalariale",
@@ -15,7 +15,7 @@ tags:
   ]
 ---
 
-# 📝 Voglio un Aumento! Simulatore di Negoziazione Salariale (Roleplay)
+## 📝 Voglio un Aumento! Simulatore di Negoziazione Salariale (Roleplay)
 
 - **🎯 Consigliato per:** Impiegati, Manager, Liberi Professionisti
 - **⏱️ Tempo richiesto:** 10 minuti
@@ -27,15 +27,15 @@ tags:
 
 > _"Posso davvero chiedere una cifra simile... o mi licenzieranno se ci provo?"_
 
-La negoziazione salariale è un **"Freddo Gioco Capitalista"**. Dire semplicemente "Ho lavorato sodo quest'anno" non ti farà guadagnare un centesimo in più. Devi prepararti in anticipo a una battaglia all'ultimo sangue a colpi di logica e dati per proteggere il tuo vero valore sul mercato.
+La negoziazione salariale è un **"freddo gioco capitalista"**. Dire semplicemente "ho lavorato sodo quest'anno" non ti farà guadagnare un centesimo in più. Devi prepararti in anticipo a una battaglia all'ultimo sangue, armato di logica e dati inconfutabili, per difendere il tuo reale valore sul mercato.
 
 ---
 
 ## ⚡️ Riassunto in 3 righe (TL;DR)
 
-1. Assegna all'IA il ruolo di un cinico 'Manager HR' il cui obiettivo è minimizzare gli aumenti.
-2. Presenta i tuoi dati reali di performance e l'aumento desiderato, e inizia a difendere la tua posizione.
-3. Ricevi feedback istantaneo sulle tue capacità di negoziazione, sulla solidità delle tue argomentazioni e sulle probabilità di successo reali.
+1. Assegna all'IA il ruolo di un cinico "Manager HR" il cui obiettivo è minimizzare gli aumenti.
+2. Presenta i tuoi dati reali di performance e l'aumento desiderato, per poi iniziare a difendere la tua posizione.
+3. Ricevi un feedback istantaneo sulle tue capacità di negoziazione, sulla solidità delle tue argomentazioni e sulle reali probabilità di successo.
 
 ---
 
@@ -43,17 +43,16 @@ La negoziazione salariale è un **"Freddo Gioco Capitalista"**. Dire semplicemen
 
 ### 🥉 Basic Version (Versione Base)
 
-Usala quando hai bisogno di un rapido riscaldamento prima di entrare nell'ufficio delle Risorse Umane.
+Usala quando hai bisogno di un rapido riscaldamento prima di varcare la porta dell'ufficio Risorse Umane.
 
 > **Ruolo:** Sei un manager HR estremamente rigoroso e conservatore.
 > **Richiesta:** Simula con me una tesa negoziazione salariale. Il mio obiettivo è trovare le migliori argomentazioni logiche e le espressioni più efficaci per massimizzare la mia percentuale di aumento annuale. Inizia tu.
 
-
 ### 🥇 Pro Version (Versione Esperto)
 
-Usala per prepararti meticolosamente, simulando gli scenari peggiori e le obiezioni più difficili.
+Usala per prepararti meticolosamente, simulando gli scenari peggiori e le obiezioni più insidiose.
 
-> **Ruolo (Role):** Sei un Senior HR Manager cinico e conservatore. Il tuo obiettivo principale è difendere il budget aziendale, minimizzando il più possibile l'aumento di stipendio del dipendente con controargomentazioni logiche.
+> **Ruolo (Role):** Sei un Senior HR Manager cinico e conservatore. Il tuo obiettivo principale è difendere il budget aziendale, minimizzando il più possibile l'aumento di stipendio del dipendente attraverso solide controargomentazioni logiche.
 >
 > **Contesto (Context):**
 >
@@ -70,20 +69,20 @@ Usala per prepararti meticolosamente, simulando gli scenari peggiori e le obiezi
 > 1. Inizia tu la conversazione mettendo le mani avanti in modo realistico. (es. "Come sai, quest'anno la situazione economica dell'azienda è complessa, i budget sono ridotti...")
 > 2. Ogni volta che presento un'argomentazione o un dato, devi cercare di smontarlo o sminuirlo logicamente. (es. "Quel risultato non è dovuto principalmente a un trend favorevole del mercato piuttosto che al tuo impegno individuale?")
 > 3. La negoziazione durerà esattamente 5 scambi di battute.
-> 4. Al termine del 5° scambio, valuta il risultato finale (Successo / Successo Parziale / Fallimento) e forniscimi un feedback spietato e dettagliato sulle mie capacità di negoziazione, indicandomi dove ho sbagliato e come migliorare.
+> 4. Al termine del 5° scambio, valuta il risultato finale (Successo / Successo Parziale / Fallimento) e forniscimi un feedback spietato e dettagliato sulle mie capacità di negoziazione, indicandomi dove ho sbagliato e come poter migliorare.
 
 ---
 
 ## 💡 Commento dell'Autore (Insight)
 
-Questo prompt trasforma l'ansia da negoziazione in preparazione tattica. Il manager HR non è un tuo nemico personale, ma un guardiano del budget aziendale che ha bisogno di "prove oggettive" per poter giustificare il tuo aumento ai piani alti. Allenarsi contro un'IA programmata per essere "difficile e scettica" ti permette di anticipare le obiezioni più fastidiose e comuni (es. "Il mercato è in crisi", "Tutti hanno lavorato sodo quest'anno") e di rispondere con estrema freddezza, numeri alla mano, invece che lasciarti tradire dall'emozione o dalla frustrazione.
+Questo prompt trasforma l'ansia da negoziazione in **preparazione tattica**. Il manager HR non è un tuo nemico personale, ma un guardiano del budget aziendale che necessita di **"prove oggettive"** per poter giustificare il tuo aumento ai piani alti. Allenarsi contro un'IA programmata per essere **"difficile e scettica"** ti permette di anticipare le obiezioni più fastidiose e comuni (es. "Il mercato è in crisi", "Tutti hanno lavorato sodo quest'anno") e di rispondere con estrema freddezza, numeri alla mano, invece di lasciarti tradire dall'emozione o dalla frustrazione.
 
 ---
 
 ## 🙋 Domande Frequenti (FAQ)
 
 - **D: Devo inserire i miei dati salariali esatti nell'IA?**
-  - R: Non è necessario. È consigliabile usare percentuali (es. "Voglio un +15%") o cifre approssimative per proteggere la tua privacy. L'importante è allenare la _logica_ della negoziazione, non calcolare la cifra al centesimo.
+  - R: Non è assolutamente necessario. È consigliabile usare percentuali (es. "Voglio un +15%") o cifre approssimative per proteggere la tua privacy. L'importante è allenare la _logica_ della negoziazione, non calcolare la cifra al centesimo.
 
 - **D: L'IA a volte cede troppo facilmente e mi concede subito l'aumento. Come posso renderla più "cattiva"?**
   - R: Aggiungi al prompt istruzioni più stringenti nella sezione Regole del Gioco: _"Sii un negoziatore spietato. Non cedere assolutamente prima del 4° scambio e chiedi continuamente prove documentali inconfutabili per ogni mia singola affermazione."_
@@ -92,9 +91,9 @@ Questo prompt trasforma l'ansia da negoziazione in preparazione tattica. Il mana
 
 ## 🧬 Anatomia del Prompt (Perché funziona?)
 
-1.  **Roleplay Ostile e Realistico:** Assegnando un ruolo conservatore e difensivo all'IA, creiamo un ambiente di stress-test molto vicino alla realtà aziendale.
-2.  **Vincolo dei 5 Turni:** Il limite di 5 scambi di battute costringe l'utente ad arrivare subito al punto, evitando monologhi inutili e mantenendo alta la tensione.
-3.  **Feedback Strutturato (Metacognizione):** La valutazione finale costringe l'IA a uscire dal personaggio per farti da "Coach", fornendoti un piano d'azione concreto per migliorare prima del colloquio reale.
+1.  **Roleplay Ostile e Realistico:** Assegnando un ruolo conservatore e difensivo all'IA, creiamo un ambiente di stress-test incredibilmente vicino alla dura realtà aziendale.
+2.  **Vincolo dei 5 Turni:** Il limite di 5 scambi di battute costringe l'utente ad arrivare dritto al punto, evitando monologhi inutili e mantenendo altissima la tensione della trattativa.
+3.  **Feedback Strutturato (Metacognizione):** La valutazione finale costringe l'IA a uscire dal personaggio per farti da "Coach", fornendoti un piano d'azione concreto e azionabile per migliorare prima del colloquio reale.
 
 ---
 
@@ -118,6 +117,6 @@ HR: "Un 10% è fuori policy per questo trimestre. Tuttavia, vista la documentazi
 
 ## 🎯 Conclusione
 
-La negoziazione salariale è, a tutti gli effetti, una transazione B2B (Business to Business) in cui tu sei l'azienda che vende i propri servizi. Non devi mai implorare o appellarti alla pietà. Se sei sicuro della qualità del tuo "prodotto" (le tue performance aziendali), devi pretendere il giusto prezzo con professionalità e sicurezza.
+La negoziazione salariale è, a tutti gli effetti, una **transazione B2B (Business to Business)** in cui tu sei l'azienda che vende i propri servizi. Non devi mai implorare o appellarti alla pietà. Se sei sicuro della qualità del tuo "prodotto" (le tue performance aziendali), devi pretendere il giusto prezzo con incrollabile professionalità e sicurezza.
 
 Allena i tuoi muscoli negoziali con l'IA prima di entrare in quella stanza. Il saldo del tuo conto corrente dell'anno prossimo ti ringrazierà. 💰

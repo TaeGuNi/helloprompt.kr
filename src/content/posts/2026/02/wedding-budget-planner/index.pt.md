@@ -1,17 +1,17 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Excel de Orçamento de Casamento: Lista de Verificação para Prevenir Bomba de Custo Extra\""
+title: "Excel de Orçamento de Casamento: Lista de Verificação para Evitar Custos Ocultos"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanças & Investimento"
-description: " \"Um prompt especializado que prevê e economiza todos os custos ocultos no processo de preparação do casamento, do salão de festas à lua de mel.\""
+description: "Um prompt especializado que prevê e evita gastos extras na preparação do casamento, desde o salão até a lua de mel."
 tags: ["Casamento", "Orçamento", "Boda", "Recém-casados"]
 ---
 
-# 📝 Excel de Orçamento de Casamento: Lista de Verificação para Prevenir Bomba de Custo Extra
+## 📝 Excel de Orçamento de Casamento: Lista de Verificação para Evitar Custos Surpresa
 
-- **🎯 Recomendado para:** Noivos, Noivas, Casais em fase de planejamento, Planejadores de Casamento Iniciantes
+- **🎯 Recomendado para:** Noivos, noivas, casais em fase de planejamento e planejadores de casamento iniciantes
 - **⏱️ Tempo de Execução:** 30 minutos → Reduzido para 1 minuto
 - **🤖 Modelos Recomendados:** Todos os modelos de IA conversacional (ChatGPT, Claude, Gemini, etc.)
 
@@ -19,17 +19,17 @@ tags: ["Casamento", "Orçamento", "Boda", "Recém-casados"]
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidade:** ⭐⭐⭐⭐☆
 
-> _"Você já ouviu a frase 'o casamento custa o dobro do que você planejou'? Descubra os custos ocultos antes que eles esvaziem sua conta bancária."_
+> _"Você já deve ter ouvido que 'um casamento sempre custa o dobro do planejado'. Descubra como mapear os custos ocultos antes que eles esvaziem a sua conta bancária."_
 
-A preparação de um casamento é uma maratona de 'escolhas' e armadilhas de 'custos extras'. Se você não estiver atento a gastos invisíveis como a taxa de prova do vestido, as refeições dos fornecedores, ou o valor cobrado pelos arquivos originais das fotografias, seu orçamento pode explodir rapidamente. Este prompt atua como o seu consultor financeiro pessoal de casamentos, detalhando cada etapa do evento e fornecendo diretrizes realistas para manter tudo perfeitamente sob controle.
+Planejar um casamento é uma verdadeira maratona de escolhas e armadilhas financeiras. Se você não prestar atenção aos gastos invisíveis — como a taxa extra para a prova do vestido, a alimentação dos fornecedores ou a cobrança pelos arquivos originais das fotos —, o seu orçamento pode sair do controle em um piscar de olhos. Este prompt funciona como o seu consultor financeiro pessoal, detalhando cada etapa do evento e oferecendo diretrizes realistas para manter todos os custos estritamente sob controle.
 
 ---
 
 ## ⚡️ Resumo em 3 linhas (TL;DR)
 
-1. **Categorização Inteligente:** Cria automaticamente uma tabela de orçamento detalhada (Salão, Estúdio/Vestido/Maquiagem, Lua de Mel, etc.).
-2. **Prevenção de Custos Ocultos:** Identifica e alerta sobre taxas extras que os casais geralmente esquecem ou desconhecem.
-3. **Estratégia Realista:** Sugere onde investir mais e onde economizar, adaptando-se de forma inteligente ao seu orçamento total.
+1. **Categorização Inteligente:** Cria automaticamente uma planilha de orçamento detalhada (Salão, Vestido/Maquiagem, Lua de Mel, etc.).
+2. **Prevenção de Custos Ocultos:** Identifica e alerta sobre taxas extras que os casais costumam esquecer ou desconhecer.
+3. **Estratégia Realista:** Sugere onde investir mais e onde economizar, adaptando-se de forma inteligente ao seu teto de gastos.
 
 ---
 
@@ -40,8 +40,8 @@ A preparação de um casamento é uma maratona de 'escolhas' e armadilhas de 'cu
 Use esta versão quando precisar apenas de um esboço rápido e geral do orçamento.
 
 > **Papel:** Você é um `[Planejador de Casamento Profissional]` com 10 anos de experiência e conselheiro financeiro de casais.
+>
 > **Solicitação:** Crie um orçamento básico e preveja os custos para um casamento de `[30.000 Reais/Dólares]`, incluindo dicas de como economizar nas armadilhas comuns.
-
 
 ### 🥇 Versão Pro (Expert Version)
 
@@ -57,7 +57,7 @@ Use esta versão para um planejamento financeiro detalhado, estruturado e à pro
 > **Tarefa (Task):**
 >
 > 1. Distribua o orçamento total nas seguintes categorias: **Salão de Casamento (incluindo buffet), Estúdio/Vestido/Maquiagem (Beleza), Fotografia e Vídeo, Presentes e Lembrancinhas, Lua de Mel e Fundo de Reserva**.
-> 2. Detalhe especificamente os **'Custos Ocultos' (taxas extras)** que podem ocorrer em cada etapa (ex: taxa de horas extras do fotógrafo, taxa de rolha, deslocamento da equipe, prova de vestido, etc.).
+> 2. Detalhe especificamente os **'Custos Ocultos' (taxas extras)** que podem ocorrer em cada etapa (ex.: taxa de horas extras do fotógrafo, taxa de rolha, deslocamento da equipe, prova de vestido, etc.).
 > 3. Recomende de forma estratégica **onde devemos investir mais (prioridades) e onde podemos cortar gastos** sem perder a elegância, garantindo que o teto do orçamento não seja ultrapassado.
 > 4. Apresente o resultado no formato de uma **Tabela Markdown**, estruturada de forma que eu possa copiá-la e colá-la diretamente no Excel ou Google Sheets.
 >
@@ -74,17 +74,16 @@ Use esta versão para um planejamento financeiro detalhado, estruturado e à pro
 
 ## 💡 Insight do Autor (Writer's Note)
 
-A maior causa de estresse entre os noivos durante os preparativos não é a cor da decoração, mas sim o controle das finanças. Este prompt é incrivelmente valioso porque força a IA a agir como o "advogado do diabo" do seu bolso. Ao exigir que a IA liste os **"Custos Ocultos"**, evitamos as famosas surpresas de última hora — como descobrir, dias antes da festa, que a taxa de iluminação cênica do salão não estava inclusa no contrato principal ou que as refeições da banda precisam ser pagas à parte.
+A maior causa de estresse entre os noivos durante os preparativos não é a cor da decoração, mas sim o controle das finanças. Este prompt é incrivelmente valioso porque força a IA a atuar como o verdadeiro "advogado do diabo" do seu bolso. Ao exigir que a IA liste os **"Custos Ocultos"**, evitamos as famosas surpresas de última hora — como descobrir, a poucos dias da festa, que a taxa de iluminação cênica do salão não estava inclusa no contrato principal, ou que a alimentação da equipe de filmagem precisa ser paga à parte.
 
-Eu recomendo gerar essa tabela logo no início do planejamento e transportá-la imediatamente para o Excel ou Google Sheets. Sempre que um fornecedor enviar um orçamento real, compare-o com as estimativas e os alertas gerados pela IA. Isso lhe dará uma base sólida para negociar descontos, questionar taxas embutidas ou simplesmente saber a hora certa de dizer "não, isso foge do nosso orçamento".
+Recomendo gerar essa tabela logo no início do planejamento e transportá-la imediatamente para o Excel ou Google Sheets. Sempre que um fornecedor enviar um orçamento real, compare-o com as estimativas e os alertas gerados pela IA. Isso lhe dará uma base sólida para negociar descontos, questionar taxas embutidas ou, simplesmente, saber a hora certa de dizer "não, isso foge do nosso orçamento".
 
 ---
 
 ## 🙋 Perguntas Frequentes (FAQ)
 
 - **Q: Os valores gerados pela IA são 100% precisos para a minha cidade?**
-  - A: Não necessariamente. A IA utiliza médias de mercado nacionais ou globais. É absolutamente essencial que você ajuste as variáveis de orçamento (`[30.000 Reais/Dólares]`) e custo por pessoa (`[100 Reais/Dólares]`) de acordo com a realidade da sua região. A estrutura detalhada e os alertas de custos extras são o verdadeiro ouro deste prompt.
-
+  - A: Não necessariamente. A IA utiliza médias de mercado nacionais ou globais. É absolutamente essencial que você ajuste as variáveis de orçamento (`[30.000 Reais/Dólares]`) e de custo por pessoa (`[100 Reais/Dólares]`) de acordo com a realidade da sua região. A estrutura detalhada e os alertas sobre custos extras são o verdadeiro ouro deste prompt.
 - **Q: Posso usar este prompt para um "Mini Wedding" (casamento intimista)?**
   - A: Com certeza! Basta alterar o campo de contexto para `[Mini Wedding no campo]` e reduzir o número de convidados para, por exemplo, `[50 convidados]`. A IA realocará os recursos matematicamente, muito provavelmente dando mais peso e qualidade à gastronomia e à decoração detalhada por convidado.
 
@@ -92,9 +91,9 @@ Eu recomendo gerar essa tabela logo no início do planejamento e transportá-la 
 
 ## 🧬 Anatomia do Prompt (Por que funciona?)
 
-1. **Diretriz de Teto de Gastos:** Ao definir explicitamente no contexto que o orçamento é "inflexível", a IA prioriza o equilíbrio financeiro realista em vez de sugerir opções luxuosas e fantasiosas que fogem da sua realidade.
-2. **Foco Preventivo nos Custos Ocultos:** A exigência cirúrgica do passo 2 foca em revelar taxas extras. Isso não só evita surpresas financeiras desagradáveis, mas também educa os noivos sobre as práticas comerciais ocultas do mercado de casamentos.
-3. **Estratégia de Alocação (Trade-offs):** Pedir para a IA sugerir "onde investir mais e onde cortar gastos" transforma um simples gerador de tabelas matemáticas em um verdadeiro consultor de estratégia de eventos.
+1. **Diretriz de Teto de Gastos:** Ao definir explicitamente no contexto que o orçamento é "inflexível", a IA prioriza um equilíbrio financeiro realista em vez de sugerir opções luxuosas que fogem da sua realidade.
+2. **Foco Preventivo nos Custos Ocultos:** A exigência cirúrgica do segundo passo foca em revelar taxas extras. Isso não só evita surpresas financeiras desagradáveis, mas também educa os noivos sobre as práticas comerciais ocultas do mercado de casamentos.
+3. **Estratégia de Alocação (Trade-offs):** Pedir para a IA sugerir "onde investir mais e onde cortar gastos" transforma um simples gerador de tabelas matemáticas em um verdadeiro consultor estratégico de eventos.
 
 ---
 
@@ -104,7 +103,7 @@ Eu recomendo gerar essa tabela logo no início do planejamento e transportá-la 
 
 > "Vou casar e tenho 30.000 para gastar. Faz um orçamento de casamento para 200 pessoas para mim."
 
-_(O resultado geralmente é uma lista em texto genérica, com valores irreais e ignorando completamente fotógrafos, banda ou taxas extras essenciais de fornecedores)._
+_(O resultado geralmente é uma lista em texto genérica, com valores irreais e que ignora completamente os fotógrafos, a banda ou as taxas extras essenciais cobradas pelos fornecedores)._
 
 ### ✅ Depois (Usando a Versão Pro)
 
@@ -128,8 +127,8 @@ Invista pesado na Fotografia e Vídeo (são as únicas memórias reais que ficam
 
 ## 🎯 Conclusão
 
-A festa de casamento dura apenas algumas horas, mas as consequências financeiras (boas ou ruins) podem durar anos na vida do novo casal. Utilize a inteligência artificial para encontrar o equilíbrio perfeito e seguro entre a celebração dos seus sonhos e a realidade da sua conta bancária.
+A festa de casamento dura apenas algumas horas, mas as consequências financeiras (sejam elas boas ou ruins) podem durar anos na vida do novo casal. Utilize a inteligência artificial para encontrar o equilíbrio seguro e perfeito entre a celebração dos seus sonhos e a realidade da sua conta bancária.
 
-Planeje com frieza, execute com emoção e vá curtir sua lua de mel sem a bagagem pesada das dívidas.
+Planeje com frieza, execute com emoção e vá curtir a sua lua de mel sem a pesada bagagem das dívidas.
 
-Agora saia do trabalho! 🍷
+Agora, encerre o expediente e vá descansar! 🍷

@@ -1,15 +1,15 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Annoying API Documentation, Swagger Pops Out with Just Code\""
+title: "Annoying API Documentation? Swagger Pops Out with Just Code"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Development"
-description: " \"A prompt that instantly converts your raw API code into perfectly formatted OpenAPI (Swagger) specs or Markdown documentation.\""
+description: "A prompt that instantly converts your raw API code into perfectly formatted OpenAPI (Swagger) specs or Markdown documentation."
 tags: ["API", "Documentation", "Swagger", "OpenAPI", "Backend"]
 ---
 
-# 📝 Annoying API Documentation, Swagger Pops Out with Just Code
+## 📝 Annoying API Documentation? Swagger Pops Out with Just Code
 
 - **🎯 Recommended For:** Backend Developers, Frontend Developers, Tech Leads
 - **⏱️ Time Required:** 5 minutes → 30 seconds
@@ -19,19 +19,19 @@ tags: ["API", "Documentation", "Swagger", "OpenAPI", "Backend"]
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
 - 🚀 **Utility:** ⭐⭐⭐⭐☆
 
-> _"So, the API is done... where are the docs? (Frontend Developer)"_  
-> _"Ah... right. Give me a sec. (Hasn't written a single line yet)"_
+> _"So, the API is done... where are the docs?" — Frontend Developer_  
+> _"Ah... right. Give me a sec." — You (Hasn't written a single line yet)_
 
-Is it just me who dreads writing documentation more than actually building the API?
-Documenting parameter types, required fields, and mocking response JSONs one by one is a surefire way to kill your momentum. What if you could just copy and paste your controller code and have AI spit out a flawless, production-ready Swagger specification instantly?
+Is it just me, or is writing documentation infinitely more painful than actually building the API? 
+Manually documenting parameter types, tracking required fields, and crafting mock JSON responses one by one is the ultimate momentum killer. But what if you could just copy and paste your raw controller code and have AI instantly spit out a flawless, production-ready Swagger specification?
 
 ---
 
 ## ⚡️ 3-Line Summary (TL;DR)
 
 1. Instantly extract precise parameter and response specifications directly from your code.
-2. Automatically generate ready-to-use OpenAPI (Swagger) YAML or JSON formats.
-3. Automatically populate your docs with human-readable descriptions and realistic mock data.
+2. Automatically generate ready-to-use OpenAPI (Swagger) YAML or structured JSON formats.
+3. Effortlessly populate your docs with human-readable descriptions and highly realistic mock data.
 
 ---
 
@@ -43,7 +43,6 @@ Use this when you just need a quick, no-frills result.
 
 > **Role:** You are a meticulous technical writer and senior backend developer.
 > **Request:** I will provide you with my API code. Analyze it and automatically generate a complete API specification, including endpoints, parameters, and response examples.
-
 
 ### 🥇 Pro Version (Expert)
 
@@ -57,7 +56,7 @@ Use this when you need a perfectly structured OpenAPI spec or detailed, professi
 > - Goal: Generate a comprehensive, error-free API document based purely on the raw code.
 >
 > **Task:**
-> Analyze the provided API code below and write the documentation in **[Specify Format: OpenAPI 3.0 YAML / Markdown Table]** format.
+> Analyze the provided API code below and write the documentation in **[Specify Format: e.g., OpenAPI 3.0 YAML or Markdown Table]** format.
 > You must include the following components:
 >
 > 1. **Endpoint & Method:** The exact URL path and HTTP method.
@@ -81,9 +80,9 @@ Use this when you need a perfectly structured OpenAPI spec or detailed, professi
 
 ## 💡 Writer's Insight
 
-This prompt is an absolute lifesaver for fast-paced agile teams. As a backend developer, your primary job is to write robust business logic, not to act as a human YAML parser.
+This prompt is an absolute lifesaver for fast-paced agile teams. As a backend developer, your primary job is to write robust, scalable business logic—not to act as a human YAML parser.
 
-I've found that specifying the exact format (`OpenAPI 3.0 YAML`) saves me an immense amount of time because I can directly paste the output into my `swagger.yaml` file without any manual formatting tweaks. If you are using a framework like NestJS or Spring Boot, you can even modify the prompt to ask the AI to add the specific Swagger decorators/annotations directly into your code snippet instead of generating an external document!
+I've found that specifying the exact format (like `OpenAPI 3.0 YAML`) saves an immense amount of time. You can directly paste the output into your `swagger.yaml` file without making any manual formatting tweaks. If you are using a framework like NestJS or Spring Boot, you can even modify the prompt to ask the AI to inject specific Swagger decorators or annotations directly into your code snippet, bypassing the need for an external document entirely!
 
 ---
 
@@ -93,18 +92,18 @@ I've found that specifying the exact format (`OpenAPI 3.0 YAML`) saves me an imm
   - A: Yes! Advanced models like Claude 3.5 Sonnet or GPT-4o excel at traversing complex code to map out deeply nested objects. Just make sure you include the relevant DTOs (Data Transfer Objects) or interface definitions along with your controller code.
 
 - **Q: Can it generate Postman collections instead?**
-  - A: Absolutely. Just change the `[Specify Format]` bracket in the Pro Version to "Postman Collection v2.1 JSON" and the AI will format the output so you can import it directly into Postman.
+  - A: Absolutely. Just change the `[Specify Format: ...]` bracket in the Pro Version to "Postman Collection v2.1 JSON", and the AI will format the output so you can import it directly into Postman.
 
 - **Q: Is it safe to paste my company's proprietary code into AI?**
-  - A: Always scrub sensitive business logic, hardcoded secrets, or proprietary algorithms before pasting code into public AI tools. You only need to paste the request/response handling layer (the controller/router) for this prompt to work perfectly.
+  - A: Always scrub sensitive business logic, hardcoded secrets, or proprietary algorithms before pasting code into public AI tools. You only need to paste the request/response handling layer (like the controller or router) for this prompt to work perfectly.
 
 ---
 
 ## 🧬 Prompt Anatomy (Why it works?)
 
-1.  **Strict Formatting Constraints:** By explicitly demanding `OpenAPI 3.0 YAML` or `Markdown Table`, we eliminate the AI's tendency to write unnecessary conversational filler.
-2.  **Contextual Roleplaying:** Assigning the "Technical Writer" persona forces the AI to prioritize clarity, edge-case documentation (like 400/500 errors), and realistic mock data over generic placeholders like `"string"`.
-3.  **Anti-Hallucination Warning:** The explicit warning prevents the AI from inventing parameters that aren't actually handled in your provided code block.
+1. **Strict Formatting Constraints:** By explicitly demanding `OpenAPI 3.0 YAML` or `Markdown Table`, we eliminate the AI's tendency to write unnecessary conversational filler.
+2. **Contextual Roleplaying:** Assigning the "Technical Writer" persona forces the AI to prioritize absolute clarity, edge-case documentation (like 400/500 errors), and realistic mock data over generic placeholders like `"string"`.
+3. **Anti-Hallucination Warning:** This explicit warning prevents the AI from inventing parameters or fields that aren't actually handled in your provided code block.
 
 ---
 
@@ -160,5 +159,4 @@ app.post("/users", (req, res) => {
 
 ## 🎯 Conclusion
 
-Documentation shouldn't be the grueling aftermath of development; it should be the seamless start of team collaboration.
-Stop wasting your mental energy on formatting YAML and Markdown. Delegate the grunt work to AI, and get back to building the logic that actually matters! 🍷
+Documentation shouldn't be the grueling aftermath of development; it should be the seamless start of team collaboration. Stop wasting your mental energy on formatting YAML files and Markdown tables. Delegate the grunt work to AI, and get back to building the logic that actually matters! 🍷

@@ -1,19 +1,19 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Limpeza de Geladeira, Renascida com a Receita de um Chef\""
+title: "Limpeza de Geladeira, Renascida com a Receita de um Chef"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vida"
-description: " \"Um prompt prático para economizar: insira os ingredientes esquecidos na geladeira e receba receitas criativas e deliciosas de um chef de IA.\""
+description: "Um prompt prático para economizar: insira os ingredientes esquecidos na geladeira e receba receitas criativas e deliciosas de um chef de IA."
 tags: ["Culinária", "Receita", "Dicas de Vida"]
 ---
 
-# 📝 Limpeza de Geladeira, Renascida com a Receita de um Chef
+## 📝 Limpeza de Geladeira, Renascida com a Receita de um Chef
 
-- **🎯 Recomendado para:** Universitários, solteiros, donos de casa e quem deseja economizar
+- **🎯 Recomendado para:** Universitários, solteiros, donas de casa e qualquer pessoa que deseje economizar
 - **⏱️ Tempo necessário:** 5 minutos → 1 minuto
-- **🤖 Modelo recomendado:** Todos os modelos de IA (ChatGPT, Claude, Gemini, etc.)
+- **🤖 Modelo recomendado:** Qualquer modelo de IA atual (ChatGPT, Claude, Gemini, etc.)
 
 - ⭐ **Dificuldade:** ⭐⭐☆☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
@@ -21,15 +21,15 @@ tags: ["Culinária", "Receita", "Dicas de Vida"]
 
 > _"Meia abobrinha murcha, dois ovos esquecidos e potes de molho misteriosos... Vai jogar fora ou transformar em um prato de restaurante?"_
 
-Sabe aqueles dias em que a geladeira está cheia de sobras e ingredientes quase vencendo, mas a inspiração para cozinhar é zero? Antes de abrir o aplicativo de delivery e gastar dinheiro desnecessário, entregue essa missão ao seu Chef de IA. Ele não só vai evitar o desperdício, como também vai sugerir combinações criativas e deliciosas que farão você se sentir em um verdadeiro restaurante, mesmo com o que sobrou na gaveta de legumes.
+Sabe aqueles dias em que a geladeira está cheia de sobras e ingredientes quase vencendo, mas a inspiração para cozinhar é zero? Antes de abrir o aplicativo de delivery e gastar dinheiro desnecessariamente, entregue essa missão ao seu Chef de IA. Ele não só evitará o desperdício, como também sugerirá combinações criativas e deliciosas que farão você se sentir em um verdadeiro restaurante, mesmo usando apenas o que sobrou na gaveta de legumes.
 
 ---
 
 ## ⚡️ Resumo em 3 linhas (TL;DR)
 
-1. **Adeus desperdício:** Transforme sobras esquecidas na geladeira em pratos deliciosos com a ajuda da IA.
-2. **Criatividade sob medida:** Basta listar os ingredientes disponíveis para receber receitas exclusivas e fáceis de fazer.
-3. **Guia à prova de falhas:** Receba o passo a passo completo, com dicas de substituição para os temperos que você não tem em casa.
+1. **Adeus, desperdício:** Transforme as sobras esquecidas na geladeira em pratos deliciosos com a ajuda da IA.
+2. **Criatividade sob medida:** Basta listar os ingredientes disponíveis para receber receitas exclusivas e fáceis de preparar.
+3. **Guia à prova de falhas:** Receba um passo a passo completo, incluindo dicas valiosas de substituição para os temperos que você não tem em casa.
 
 ---
 
@@ -42,7 +42,6 @@ Use esta versão quando estiver com pressa e precisar de uma ideia rápida.
 > **Papel:** Você é um chef especialista em culinária criativa e aproveitamento de alimentos.
 > **Solicitação:** Tenho `[frango, cebola e arroz]` sobrando. Crie uma receita rápida e saborosa com esses ingredientes.
 
-
 ### 🥇 Versão Pro (Pro Version)
 
 Use esta versão para obter receitas detalhadas, técnicas de chef e dicas de substituição perfeitas.
@@ -51,7 +50,7 @@ Use esta versão para obter receitas detalhadas, técnicas de chef e dicas de su
 >
 > **Situação (Context):**
 >
-> - Contexto: Preciso limpar minha geladeira e aproveitar ingredientes que estão próximos da data de validade, mas estou cansado dos mesmos pratos de sempre.
+> - Contexto: Preciso limpar minha geladeira e aproveitar os ingredientes que estão próximos da data de validade, mas estou cansado dos mesmos pratos de sempre.
 > - Objetivo: Preparar uma refeição surpreendente e deliciosa, como se estivesse comendo fora, mas gastando zero reais.
 >
 > **Tarefa (Task):**
@@ -74,7 +73,7 @@ Use esta versão para obter receitas detalhadas, técnicas de chef e dicas de su
 
 ## 💡 Comentário do Autor (Insight)
 
-Este prompt é um verdadeiro salva-vidas para o fim do mês. A maior dificuldade ao tentar aproveitar sobras é que, como humanos, tendemos a ficar presos nas mesmas receitas de sempre (ex: fazer apenas o clássico "mexidão" ou arroz frito). A IA, no entanto, consegue cruzar perfis de sabor de várias culinárias do mundo. Ao atribuir o papel de "chef executivo", a IA eleva o nível da receita, ensinando truques como caramelizar a cebola de um jeito diferente ou fazer um molho rápido usando a maionese e o molho de soja. Além de economizar muito com o delivery, você acaba aprendendo novas técnicas culinárias!
+Este prompt é um verdadeiro salva-vidas para o fim do mês. A maior dificuldade ao tentar aproveitar as sobras é que, como humanos, tendemos a ficar presos nas mesmas receitas repetitivas (por exemplo, fazer apenas o clássico "mexidão" ou arroz frito). A IA, no entanto, consegue cruzar perfis de sabor de várias culinárias ao redor do mundo. Ao atribuir o papel de **"chef executivo"**, a IA eleva o nível da receita, ensinando truques como caramelizar a cebola de um jeito diferente ou fazer um molho rápido usando maionese e molho de soja. Além de economizar muito com o delivery, você acaba aprendendo novas técnicas culinárias!
 
 ---
 
@@ -91,7 +90,7 @@ Este prompt é um verdadeiro salva-vidas para o fim do mês. A maior dificuldade
 ## 🧬 Anatomia do Prompt (Por que funciona?)
 
 1. **Definição de Papel (Role):** Ao agir como um "chef executivo", a IA não entrega apenas uma receita básica de sobrevivência, mas busca técnicas que realçam o sabor (como texturas e molhos especiais).
-2. **Restrição de Compras (Constraints):** A instrução clara de "não sugerir comprar novos ingredientes principais" força o modelo a ser 100% criativo apenas com o que está disponível na sua casa.
+2. **Restrição de Compras (Constraints):** A instrução clara de "não sugerir comprar novos ingredientes principais" força o modelo a ser 100% criativo usando apenas o que está disponível na sua casa.
 3. **Plano de Contingência (Substituições):** Ao pedir ativamente por ingredientes substitutos, evitamos a frustração de iniciar uma receita e descobrir que falta algo essencial.
 
 ---

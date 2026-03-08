@@ -5,13 +5,13 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "멘탈 케어"
-description: " \"Vous soupirez à la simple vue de votre clavier ? Ce prompt utilise le MBI (Maslach Burnout Inventory) pour diagnostiquer votre état et vous prescrire des solutions concrètes.\""
+description: "Fatigué de coder ? Ce prompt utilise le MBI pour diagnostiquer objectivement votre état de burn-out et vous prescrire des routines de récupération."
 tags: ["번아웃", "개발자", "멘탈케어", "심리", "ChatGPT"]
 ---
 
-# 🩺 Auto-diagnostic du burn-out chez les développeurs : Suis-je paresseux ou malade ?
+## 🩺 Auto-diagnostic du burn-out chez les développeurs : Suis-je paresseux ou malade ?
 
-- **🎯 Recommandé pour :** Les développeurs qui se culpabilisent de leur manque de motivation, les employés qui passent leur week-end au lit sans rien faire.
+- **🎯 Recommandé pour :** Les développeurs qui culpabilisent de leur manque de motivation, les professionnels qui passent leur week-end au lit sans aucune énergie.
 - **⏱️ Temps requis :** 3 minutes (Diagnostic et prescription)
 - **🤖 Modèles recommandés :** Toutes les IA conversationnelles (ChatGPT, Claude, Gemini, etc.)
 
@@ -19,17 +19,17 @@ tags: ["번아웃", "개발자", "멘탈케어", "심리", "ChatGPT"]
 - ⚡️ **Efficacité :** ⭐⭐⭐⭐⭐
 - 🚀 **Utilité :** ⭐⭐⭐⭐☆
 
-> _"Avant, je pouvais coder toute la nuit avec passion... Maintenant, la simple idée d'ouvrir mon IDE m m'angoisse. Est-ce que je suis devenu fainéant ?"_
+> _"Avant, je pouvais coder toute la nuit avec passion... Aujourd'hui, la simple idée d'ouvrir mon IDE m'angoisse. Suis-je devenu fainéant ?"_
 
-Non, vous n'êtes pas devenu fainéant, **la batterie de votre esprit est tout simplement à plat.** Le burn-out n'est pas une simple fatigue. C'est un état médical où votre cerveau déclare forfait. Au lieu de vous culpabiliser et de vous forcer à boire des litres de café, confiez votre état à un conseiller IA pour obtenir un diagnostic objectif. Plutôt que des encouragements creux du type "Allez, courage !", vous recevrez une prescription de récupération concrète, basée sur des échelles psychologiques rigoureuses.
+Non, vous n'êtes pas devenu fainéant : **la batterie de votre esprit est tout simplement à plat.** Le burn-out n'est pas une simple fatigue passagère. C'est un état médical où votre cerveau déclare forfait. Au lieu de culpabiliser et de vous forcer à ingurgiter des litres de café, confiez votre état à un conseiller IA pour obtenir un diagnostic objectif. Plutôt que de vagues encouragements creux du type "Allez, courage !", vous recevrez une prescription de récupération concrète, basée sur des échelles psychologiques rigoureuses.
 
 ---
 
 ## ⚡️ Résumé en 3 points (TL;DR)
 
-1. Configurez l'IA pour qu'elle agisse comme un psychologue spécialisé en informatique avec 10 ans d'expérience.
+1. Configurez l'IA pour qu'elle agisse comme un psychologue spécialisé dans le secteur de la tech avec 10 ans d'expérience.
 2. Demandez une analyse précise de votre état actuel basée sur les 3 dimensions du MBI (Maslach Burnout Inventory).
-3. Obtenez une "routine de récupération sur mesure pour développeur", réaliste et applicable dès demain, au lieu de vagues conseils de repos.
+3. Obtenez une "routine de récupération sur mesure pour développeur", réaliste et applicable dès demain, à la place de vagues conseils de repos.
 
 ---
 
@@ -37,11 +37,10 @@ Non, vous n'êtes pas devenu fainéant, **la batterie de votre esprit est tout s
 
 ### 🥉 Version Basique (Diagnostic rapide)
 
-Utilisez cette version si vous voulez évaluer rapidement la gravité de votre état.
+Utilisez cette version si vous souhaitez évaluer rapidement la gravité de votre état.
 
 > **Rôle :** Tu es un `[psychologue spécialisé dans le secteur de l'informatique]`.
-> **Tâche :** "En ce moment, je déteste coder et je me sens complètement léthargique. Pose-moi 5 questions clés pour déterminer s'il s'agit d'une simple baisse de régime ou d'un véritable burn-out."
-
+> **Tâche :** En ce moment, je déteste coder et je me sens complètement léthargique. Pose-moi 5 questions clés pour déterminer s'il s'agit d'une simple baisse de régime ou d'un véritable burn-out.
 
 ### 🥇 Version Pro (Analyse précise basée sur le MBI)
 
@@ -69,19 +68,19 @@ Utilisez cette version pour une analyse structurée et des solutions concrètes.
 
 ## 💡 L'avis de l'auteur (Insight)
 
-Ayant observé de nombreux collègues sur le terrain, j'ai constaté que le burn-out ne touche jamais ceux qui travaillent à moitié. C'est en quelque sorte une "blessure de guerre" qui ne frappe que ceux qui se sont investis intensément et qui ont fait preuve d'un grand sens des responsabilités.
+Ayant observé de nombreux collègues sur le terrain, j'ai constaté que le burn-out ne touche jamais ceux qui s'investissent à moitié. C'est en quelque sorte une "blessure de guerre" qui ne frappe que ceux qui se sont donnés à fond et qui ont fait preuve d'un grand sens des responsabilités.
 
-Par conséquent, si vous vous sentez apathique aujourd'hui, ce n'est pas parce que vous êtes incompétent, mais parce que vous avez roulé en surrégime pendant trop longtemps. La véritable valeur de ce prompt va au-delà du simple diagnostic : il permet de vous faire prendre conscience de manière objective que **"ce n'est pas de votre faute"**. Le simple fait de lire l'analyse posée et structurée de l'IA réduira considérablement ce vague sentiment d'anxiété et de culpabilité. Prenez juste 3 minutes ce week-end pour faire le point sur votre état d'esprit.
+Par conséquent, si vous vous sentez apathique aujourd'hui, ce n'est pas parce que vous êtes incompétent, mais parce que vous avez été en surrégime pendant trop longtemps. La véritable valeur de ce prompt va au-delà du simple diagnostic : il permet de vous faire prendre conscience de manière objective que **"ce n'est pas de votre faute"**. Le simple fait de lire l'analyse posée et structurée de l'IA réduira considérablement ce vague sentiment d'anxiété et de culpabilité. Prenez juste 3 minutes ce week-end pour faire le point sur votre état d'esprit.
 
 ---
 
 ## 🙋 Foire aux questions (FAQ)
 
 - **Q : Peut-on vraiment se fier au diagnostic psychologique d'une IA ?**
-  - R : L'IA ne peut en aucun cas remplacer un spécialiste. Cependant, ce prompt est conçu pour fonctionner avec le cadre clinique du MBI (Maslach Burnout Inventory). C'est un excellent outil de "premier dépistage" pour évaluer la gravité de votre état actuel.
+  - R : L'IA ne peut en aucun cas remplacer un spécialiste. Cependant, ce prompt est conçu pour s'appuyer sur le cadre clinique du MBI (Maslach Burnout Inventory). C'est un excellent outil de "premier dépistage" pour évaluer la gravité de votre état actuel.
 
 - **Q : Les routines proposées dans la prescription me semblent trop banales.**
-  - R : En état de burn-out, votre volonté est épuisée. Se fixer des objectifs ambitieux comme "Aller à la salle de sport 1 heure par jour" sera contre-productif. Commencer par des micro-routines extrêmement simples et réalisables, telles que "Baisser la luminosité de l'écran" ou "Prendre le soleil pendant 10 minutes à la pause déjeuner", est la clé de la guérison.
+  - R : En état de burn-out, votre volonté est épuisée. Se fixer des objectifs ambitieux comme "Aller à la salle de sport 1 heure par jour" serait contre-productif. Commencer par des micro-routines extrêmement simples et réalisables, telles que "Baisser la luminosité de l'écran" ou "Prendre le soleil pendant 10 minutes à la pause déjeuner", est la clé de la guérison.
 
 - **Q : Que dois-je faire si les résultats sont très alarmants ?**
   - R : Si votre niveau de risque dépasse 8/10 et affecte votre vie quotidienne, ne vous limitez pas aux conseils de l'IA. Consultez impérativement le programme d'aide aux employés (PAE) de votre entreprise ou un spécialiste externe. Les résultats objectifs fournis par l'IA peuvent également vous aider à justifier une demande de congés auprès de votre employeur.
@@ -126,4 +125,4 @@ Même le serveur le plus performant plantera si son disque et son CPU sont surch
 Votre esprit a impérativement besoin d'un temps de refroidissement.
 
 Arrêtez de coder un instant et posez-vous la question :
-**"Est-ce que le serveur de mon esprit est en bon état de marche en ce moment ?"** 🍷
+**"Le serveur de mon esprit est-il en bon état de marche en ce moment ?"** 🍷

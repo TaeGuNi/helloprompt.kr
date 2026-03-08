@@ -5,13 +5,13 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "자기계발/회고"
-description: "Discover the hidden patterns of your mind. Learn how to turn your journal into data, visualize emotional flows, extract key topics, and pinpoint stress triggers using AI."
+description: "Discover hidden mental patterns. Turn your journal into data, visualize emotional flows, extract key topics, and pinpoint stress triggers with AI."
 tags: ["일기", "회고", "감정분석", "데이터시각화", "ChatGPT"]
 ---
 
-# 📔 Diary Analysis: Plotting Your Psychological Shifts with a Month of Entries
+## 📔 Diary Analysis: Plotting Your Psychological Shifts with a Month of Entries
 
-- **🎯 Recommended for:** Daily journalers who rarely review their past entries, or professionals asking themselves, "Why am I so burned out lately?" and searching for the root cause.
+- **🎯 Recommended for:** Daily journalers who rarely review past entries, or professionals wondering, "Why am I so burned out lately?" and seeking the root cause.
 - **⏱️ Time Required:** 5 minutes (Text extraction & AI analysis)
 - **🤖 Recommended AI:** ChatGPT Plus (Utilizing GPT-4o Advanced Data Analysis)
 
@@ -77,9 +77,9 @@ Going far beyond a simple summary, this expert-level prompt scientifically maps 
 
 ## 💡 Writer's Insight
 
-The real power of this prompt lies in how it enforces **data-driven metacognition**. During a particularly grueling stretch at work, my journal devolved into an endless loop of "I’m exhausted." But when I ran a month’s worth of entries through this exact analysis, the AI uncovered a distinct pattern: my absolute worst days always featured the lethal combination of "less than 6 hours of sleep" and "a meeting with one specific client."
+The true power of this prompt lies in how it enforces **data-driven metacognition**. During a particularly grueling stretch at work, my diary devolved into an endless loop of "I’m exhausted." However, when I ran a month’s worth of entries through this exact analysis, the AI uncovered a distinct pattern: my absolute worst days consistently featured the lethal combination of "less than 6 hours of sleep" and "a meeting with a specific client."
 
-Not much of a journaler? You can export and analyze your personal **"Note to Self" chat history** from WhatsApp or Telegram, or even your sent messages from a work platform like Slack. The analysis will ruthlessly expose what time of day you tend to get irritable, and which specific tasks trigger your most positive vocabulary. Data never lies.
+Not much of a journaler? You can easily export and analyze your personal **"Note to Self" chat history** from WhatsApp or Telegram, or even your sent messages from a workspace like Slack. This analysis ruthlessly exposes the time of day you tend to get irritable, and the specific tasks that trigger your most positive vocabulary. Data never lies.
 
 ---
 
@@ -89,7 +89,7 @@ Not much of a journaler? You can export and analyze your personal **"Note to Sel
   - A: Absolutely. Just snap photos of your pages and upload them directly to ChatGPT. GPT-4o’s built-in OCR (Optical Character Recognition) is remarkably adept at deciphering even the messiest handwriting for seamless analysis.
 
 - **Q: I'm hesitant to share my private journal with an AI for security reasons.**
-  - A: That is a very valid concern. Before running the analysis, navigate to ChatGPT’s Settings > Data Controls and disable **"Improve the model for everyone."** For bulletproof privacy, use a quick Find & Replace to swap out real names or sensitive locations with placeholders like `[Person A]` or `[Company B]` before uploading your text.
+  - A: That is a highly valid concern. Before running the analysis, navigate to ChatGPT’s Settings > Data Controls and disable **"Improve the model for everyone."** For bulletproof privacy, use a quick Find & Replace to swap out real names or sensitive locations with placeholders like `[Person A]` or `[Company B]` before uploading your text.
 
 - **Q: The text labels on the AI-generated graph are rendering as broken boxes (□).**
   - A: This is a known quirk when ChatGPT runs Python visualizers. You can instantly fix this by appending a simple instruction to your prompt: *"When rendering the graph, ensure you use a universally supported sans-serif font family so the text labels display perfectly without breaking."*

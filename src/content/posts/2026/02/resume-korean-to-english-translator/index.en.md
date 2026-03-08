@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Prompt Changing Korean Resume to Native-Level English Resume\""
+title: "Prompt to Transform Your Korean Resume into a Native-Level English CV"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Job & Career"
-description: " \"Go beyond simple translation. Perfectly convert your Korean resume into a professional English format tailored to the Western recruitment culture.\""
+description: "Go beyond simple translation. Perfectly convert your Korean resume into a professional English format tailored to Western recruitment standards."
 tags:
   [
     "EnglishResume",
@@ -16,9 +16,9 @@ tags:
   ]
 ---
 
-# 📝 Prompt Changing Korean Resume to Native-Level English Resume
+## 📝 Prompt to Transform Your Korean Resume into a Native-Level English CV
 
-- **🎯 Recommended For:** Job seekers, professionals targeting global companies, anyone struggling with English resumes.
+- **🎯 Recommended For:** Job seekers, professionals targeting global companies, and anyone struggling with English resumes.
 - **⏱️ Time Required:** 5 minutes
 - **🤖 Recommended Model:** All AI Models (ChatGPT, Claude, Gemini, etc.)
 
@@ -26,9 +26,9 @@ tags:
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
 - 🚀 **Utility:** ⭐⭐⭐⭐☆
 
-> _"A resume directly translated by a standard translation tool often screams 'Konglish' to a native recruiter. It's time to speak their language."_
+> _"A resume directly translated by a standard tool often screams 'Konglish' to a native recruiter. It's time to speak their language."_
 
-English resumes follow entirely different rules than Korean ones. You must drop the subject ("I") and kick off every bullet point with a powerful **Action Verb**. Don't just ask AI to translate your text; commission it to be your expert Silicon Valley Resume Writer.
+English resumes follow entirely different rules than Korean ones. You must drop the first-person subject ("I") and kick off every bullet point with a powerful **Action Verb**. Don't just ask AI to translate your text; commission it to be your expert Silicon Valley Resume Writer.
 
 ---
 
@@ -48,7 +48,6 @@ Use this when you just need a rapid, high-level translation.
 
 > **Role:** You are a senior recruiter at a Silicon Valley tech company and an expert English copy editor.
 > **Request:** Do not simply translate the following text. Perfectly adapt my Korean resume content to fit the expressions, formatting, and expectations of the English-speaking recruitment culture.
-
 
 ### 🥇 Pro Version (Expert Polish)
 
@@ -80,9 +79,9 @@ Use this for a flawless, interview-winning resume.
 
 ## 💡 Writer's Insight
 
-Direct translation tools like Google Translate or DeepL are great for general communication, but they fail spectacularly at resumes. Why? Because a resume isn't just about language; it's about _formatting conventions_. Western recruiters expect to see "Action-oriented bullet points."
+Direct translation tools like Google Translate or DeepL are great for general communication, but they fail spectacularly at resumes. Why? Because a resume isn't just about language; it's about _formatting conventions_. Western recruiters expect to see **action-oriented bullet points**.
 
-By assigning the AI the persona of a "Silicon Valley Recruiter," you force it to look past the literal words and focus on the _impact_. This prompt is particularly effective because it explicitly instructs the AI to highlight numbers—which is the universal language of business success. If you find the AI's output is too "flowery" or complex, simply add a constraint: `"Keep the vocabulary concise and strictly business-professional."`
+By assigning the AI the persona of a "Silicon Valley Recruiter," you force it to look past the literal words and focus on the **impact**. This prompt is particularly effective because it explicitly instructs the AI to highlight numbers—which is the universal language of business success. If you find the AI's output is too "flowery" or complex, simply add a constraint: **"Keep the vocabulary concise and strictly business-professional."**
 
 ---
 

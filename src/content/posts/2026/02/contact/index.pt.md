@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"문의하기 (Contact Us)\""
-description: "Tem alguma dúvida ou uma proposta de parceria para a equipe do Hello Prompt? Descubra como redigir o e-mail corporativo perfeito em segundos com a nossa IA."
+title: "Fale Conosco (Contact Us)"
+description: "Dúvidas ou propostas para o Hello Prompt? Descubra como redigir o e-mail corporativo perfeito em segundos usando nossa IA e feche grandes parcerias."
 date: "2026-02-09"
 ---
 
-# 📧 Fale Conosco (Contact Us)
+## 📧 Fale Conosco (Contact Us)
 
 - **🎯 Público-alvo:** Profissionais de marketing, estrategistas, gerentes de produto e potenciais parceiros do Hello Prompt.
 - **⏱️ Tempo economizado:** De 10 minutos → Para 1 minuto.
@@ -17,9 +17,9 @@ date: "2026-02-09"
 
 > *"Como escrever um e-mail de parceria comercial que faça o tomador de decisão parar tudo, ler e responder imediatamente?"*
 
-Muito obrigado por acompanhar e fazer parte da jornada do Hello Prompt! Sabemos que o mundo corporativo se move rápido e a comunicação é a chave de tudo. Quantas vezes você já se sentou diante de uma tela em branco, encarando um cursor piscante, tentando redigir aquele e-mail de parceria perfeito? Você sabe que a sua ideia é brilhante e que o produto tem potencial, mas formatar isso em palavras que chamem a atenção de executivos e gerentes ocupados é uma tarefa árdua. O resultado? Horas perdidas reescrevendo o mesmo parágrafo, mensagens ignoradas na caixa de entrada alheia, reuniões que nunca acontecem e oportunidades de ouro que escorrem pelos dedos. A frustração de enviar uma proposta incrível e receber apenas o silêncio absoluto como resposta é um dos maiores gargalos para quem busca expandir seus negócios.
+Muito obrigado por acompanhar o Hello Prompt! Sabemos que o mundo corporativo é ágil e a comunicação é a chave para abrir portas. Quantas vezes você já encarou o cursor piscante na tela em branco, tentando redigir o e-mail de parceria perfeito? Você sabe que a sua ideia é brilhante, mas transformá-la em palavras que fisguem a atenção de executivos ocupados é um verdadeiro desafio. O resultado? Horas perdidas reescrevendo o mesmo parágrafo, mensagens ignoradas, reuniões que não acontecem e oportunidades de ouro escorrendo pelos dedos. A frustração de enviar uma proposta incrível e receber apenas o silêncio absoluto é um dos maiores gargalos para a expansão de qualquer negócio.
 
-Se você encontrou algum problema durante o uso da nossa plataforma, tem uma ideia inovadora ou deseja propor uma colaboração, queremos ouvir você. Mas decidimos ir muito além de apenas disponibilizar um canal de suporte padrão. Para eliminar de vez a dor de cabeça da comunicação fria (cold outreach), preparamos **um prompt de IA exclusivo e altamente otimizado para ajudá-lo a elaborar propostas de parceria irresistíveis em questão de segundos**. Este não é apenas um atalho; é um framework de copywriting B2B validado. Ao utilizá-lo — seja para falar diretamente com a nossa equipe ou para abordar qualquer outro potencial parceiro de alto nível no mercado —, você transformará textos confusos em pitches magnéticos. Esqueça a ansiedade de apertar o botão "Enviar". A partir de agora, seus e-mails não apenas serão abertos, mas gerarão reuniões, acordos lucrativos e respostas entusiasmadas. Bem-vindo à nova era da comunicação estratégica, onde o seu tempo é preservado e os resultados são exponenciais.
+Se você encontrou algum problema na nossa plataforma, tem uma ideia inovadora ou deseja propor uma colaboração, queremos ouvir você. Mas fomos além de apenas oferecer um canal de suporte padrão. Para eliminar de vez a dor de cabeça do *cold outreach* (contato frio), criamos **um prompt de IA exclusivo e altamente otimizado para gerar propostas de parceria irresistíveis em segundos**. Este não é um mero atalho; é um framework validado de copywriting B2B. Ao usá-lo — seja para falar conosco ou abordar qualquer grande *player* do mercado —, você transformará textos confusos em *pitches* magnéticos. Esqueça o frio na barriga antes de clicar em "Enviar". A partir de agora, seus e-mails não apenas serão abertos, como gerarão reuniões, acordos lucrativos e respostas entusiasmadas. Bem-vindo à nova era da comunicação estratégica: menos tempo gasto, resultados exponenciais.
 
 ---
 
@@ -67,7 +67,7 @@ Copie e cole este prompt na sua IA favorita quando precisar enviar uma proposta 
 
 ## 💡 Insight do Autor (Writer's Insight)
 
-Por mais revolucionária que seja a sua ideia de negócio ou produto, se o seu primeiro e-mail de contato for confuso, denso ou excessivamente longo, ele será sumariamente arquivado ou ignorado por um executivo, CEO ou gerente de parcerias com a agenda lotada. O grande trunfo deste prompt avançado é que ele estrutura a sua Proposta de Valor (*Value Proposition*) de forma cirúrgica e impecável, respeitando o tempo precioso de quem lê e focando nos benefícios mútuos. Com ele, você obtém um rascunho de nível "C-Level" em segundos, eliminando o bloqueio criativo. O segredo final? Depois de gerar o texto com a IA, não envie cegamente. Revise com atenção, adicione o seu "toque humano" — talvez mencionando um post recente da empresa alvo ou um detalhe muito específico do mercado deles — e envie a mensagem com confiança. A personalização final é o que converte o e-mail perfeito em uma reunião agendada!
+Por mais revolucionária que seja a sua ideia, se o primeiro e-mail de contato for confuso, denso ou longo demais, ele será sumariamente ignorado por um CEO ou gerente de parcerias com a agenda lotada. O grande trunfo deste prompt avançado é a forma cirúrgica e impecável com que ele estrutura a sua **Proposta de Valor** (*Value Proposition*), respeitando o tempo precioso de quem lê e destacando os benefícios mútuos. Com ele, você obtém um rascunho de nível *C-Level* em segundos, aniquilando o bloqueio criativo. O segredo de ouro? Nunca envie o texto gerado pela IA às cegas. Revise com atenção e adicione o seu "toque humano" — mencione um post recente da empresa-alvo ou um detalhe muito específico do mercado deles. É essa personalização final que transforma um e-mail excelente em uma reunião agendada!
 
 ---
 
@@ -77,7 +77,7 @@ Por mais revolucionária que seja a sua ideia de negócio ou produto, se o seu p
   - R: Nós valorizamos imensamente cada mensagem recebida e analisamos todos os e-mails com atenção máxima. Nosso compromisso é retornar o contato, com uma resposta fundamentada, em até 24 horas durante os dias úteis.
 
 - **P: Posso usar este exato prompt para enviar propostas frias para outras empresas que não o Hello Prompt?**
-  - R: Absolutamente! Este é um *template* de engenharia de prompt incrivelmente versátil e agnóstico de marca. Basta alterar as variáveis (`[Nome da empresa]`, `[Objetivo]`, etc.) e você terá nas mãos uma máquina de gerar e-mails de vendas ou de parceria perfeitamente adaptados para qualquer empresa B2B do mercado global.
+  - R: Com certeza! Este *template* de engenharia de prompt é incrivelmente versátil e agnóstico de marca. Basta alterar as variáveis (`[Nome da empresa]`, `[Objetivo]`, etc.) e você terá nas mãos uma máquina de gerar e-mails de vendas ou de parceria perfeitamente adaptados para qualquer empresa B2B do mercado global.
 
 ---
 

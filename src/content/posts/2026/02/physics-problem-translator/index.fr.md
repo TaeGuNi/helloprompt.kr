@@ -1,15 +1,15 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Traducteur de Problèmes de Physique : Du Jugement de la Situation à l'Établissement des Équations\""
+title: "Traducteur de Problèmes de Physique : De l'Analyse à l'Équation"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Maths/Sciences"
-description: " \"Un prompt expert qui analyse vos énoncés de physique, identifie les variables cachées et vous indique la formule exacte à utiliser.\""
+description: "Un prompt expert qui analyse vos énoncés de physique, identifie les variables cachées et vous indique la formule exacte à utiliser."
 tags: ["Physique", "Ingénierie", "RésolutionProblèmes", "Prompt"]
 ---
 
-# 📝 Traducteur de Problèmes de Physique : De l'Analyse de l'Énoncé à l'Équation Parfaite
+## 📝 Traducteur de Problèmes de Physique : De l'Analyse de l'Énoncé à l'Équation Parfaite
 
 - **🎯 Recommandé pour :** Étudiants en ingénierie, lycéens en spécialité physique, passionnés de sciences
 - **⏱️ Temps requis :** 30 minutes → 2 minutes
@@ -21,15 +21,15 @@ tags: ["Physique", "Ingénierie", "RésolutionProblèmes", "Prompt"]
 
 > _"Vous connaissez toutes les formules par cœur, mais face à un énoncé, vous hésitez toujours entre F=ma et la conservation de l'énergie ?"_
 
-90 % de la résolution d'un problème de physique réside dans la compréhension fine de l'énoncé. La véritable difficulté n'est pas le calcul, mais l'extraction des indices dissimulés dans le texte (comme "partant du repos" ou "surface lisse") et leur traduction en langage mathématique. Ce prompt agit comme un détective scientifique : il déniche les conditions implicites et vous livre sur un plateau la stratégie et les formules adéquates pour résoudre n'importe quel casse-tête physique.
+En physique, 90 % de la résolution d'un problème repose sur une compréhension fine de l'énoncé. La véritable difficulté ne réside pas dans le calcul en lui-même, mais dans l'extraction d'indices dissimulés dans le texte (comme « partant du repos » ou « surface lisse ») et leur traduction en langage mathématique. Ce prompt agit comme un véritable détective scientifique : il déniche les conditions implicites et vous livre sur un plateau la stratégie ainsi que les formules adéquates pour résoudre n'importe quel casse-tête.
 
 ---
 
 ## ⚡️ Résumé en 3 lignes (TL;DR)
 
-1. **Extraction automatique :** Sépare clairement les valeurs données des inconnues à partir d'un simple texte.
+1. **Extraction automatique :** Distingue clairement les valeurs connues des inconnues à partir d'un simple texte.
 2. **Détection des non-dits :** Identifie les conditions physiques implicites (gravité, absence de frottements).
-3. **Stratégie sur mesure :** Associe l'énoncé à la loi physique correspondante et prépare l'équation modélisée.
+3. **Stratégie sur mesure :** Associe l'énoncé à la loi physique pertinente et prépare l'équation modélisée.
 
 ---
 
@@ -39,15 +39,14 @@ tags: ["Physique", "Ingénierie", "RésolutionProblèmes", "Prompt"]
 
 Idéale lorsque vous souhaitez un éclaircissement immédiat sans trop de détails.
 
-> **Rôle :** Tu es un `[Professeur de Physique et Expert en Résolution de Problèmes]`.
+> **Rôle :** Tu es un `[Professeur de physique et expert en résolution de problèmes]`.
 > **Requête :** Analyse cet énoncé de physique `[Insérer l'énoncé]`, dis-moi quelles sont les variables connues/inconnues et quelle formule je dois utiliser pour le résoudre.
-
 
 ### 🥇 Version Pro (Expert)
 
 Utilisez cette version pour obtenir une modélisation mathématique rigoureuse et une stratégie infaillible.
 
-> **Rôle (Role) :** Tu es un `[Professeur de Physique de niveau universitaire et Expert en Modélisation Mathématique]`.
+> **Rôle (Role) :** Tu es un `[Professeur de physique de niveau universitaire et expert en modélisation mathématique]`.
 >
 > **Contexte (Context) :**
 >
@@ -63,12 +62,12 @@ Utilisez cette version pour obtenir une modélisation mathématique rigoureuse e
 >
 > **Contraintes (Constraints) :**
 >
-> - Concentre-toi impérativement sur la "Modélisation" et non sur le calcul numérique final.
+> - Concentre-toi impérativement sur la **modélisation** et non sur le calcul numérique final.
 > - Sois extrêmement rigoureux sur la notation des unités du Système International (SI).
 >
 > **Avertissement (Warning) :**
 >
-> - N'invente aucune donnée. Si l'énoncé manque d'une information cruciale, signale-le explicitement (Évite les hallucinations).
+> - N'invente aucune donnée. Si l'énoncé manque d'une information cruciale, signale-le explicitement pour éviter toute hallucination.
 >
 > **Énoncé du Problème :**
 > `[Copiez-collez votre problème de physique ici]`
@@ -77,20 +76,20 @@ Utilisez cette version pour obtenir une modélisation mathématique rigoureuse e
 
 ## 💡 L'avis de l'expert (Insight)
 
-En tant qu'ingénieur, j'ai souvent vu des étudiants (et même des professionnels) se lancer tête baissée dans les calculs avec les mauvaises formules. La véritable force de ce prompt réside dans sa capacité à forcer une étape souvent négligée : la **modélisation**. En interdisant à l'IA de faire le calcul à votre place (grâce à la contrainte "Concentre-toi sur la Modélisation"), ce prompt devient un outil pédagogique redoutable. Il ne résout pas le problème à votre place ; il vous apprend à _penser_ comme un physicien en structurant votre réflexion autour des lois fondamentales.
+En tant qu'ingénieur, j'ai souvent vu des étudiants (et même des professionnels) se lancer tête baissée dans les calculs en utilisant les mauvaises formules. La véritable force de ce prompt réside dans sa capacité à **forcer une étape souvent négligée : la modélisation**. En interdisant à l'IA de faire le calcul à votre place (grâce à la contrainte de focalisation sur le modèle mathématique), ce prompt devient un outil pédagogique redoutable. Il ne résout pas le problème à votre place ; il vous apprend à **penser comme un physicien** en structurant votre réflexion autour des lois fondamentales.
 
 ---
 
 ## 🙋 Foire Aux Questions (FAQ)
 
 - **Q : Ce prompt fonctionne-t-il pour la thermodynamique ou l'électromagnétisme ?**
-  - R : Absolument. La structure (Variables -> Conditions -> Stratégie -> Équation) est universelle. Précisez simplement le domaine dans le rôle si le problème est très pointu (ex. : "Professeur de Thermodynamique").
+  - R : Absolument. La structure (Variables -> Conditions -> Stratégie -> Équation) est universelle. Précisez simplement le domaine dans le rôle si le problème est très pointu (ex. : `[Professeur de thermodynamique]`).
 
 - **Q : Que faire si l'IA me donne une équation trop complexe ?**
   - R : Vous pouvez ajouter une contrainte supplémentaire dans le prompt : "Limite-toi aux principes de la physique classique de niveau lycée."
 
 - **Q : L'IA peut-elle se tromper sur les unités ?**
-  - R : C'est rare avec ce prompt, mais toujours possible. C'est pourquoi la contrainte sur le respect strict du Système International (SI) est incluse. Vérifiez toujours la cohérence dimensionnelle de la formule finale !
+  - R : C'est rare avec ce prompt, mais toujours possible. C'est pourquoi la contrainte sur le **respect strict du Système International (SI)** est incluse. Vérifiez toujours la cohérence dimensionnelle de la formule finale !
 
 ---
 
@@ -98,7 +97,7 @@ En tant qu'ingénieur, j'ai souvent vu des étudiants (et même des professionne
 
 1. **Isolation de l'étape de conception :** En séparant la modélisation mathématique de la résolution numérique, on évite les erreurs de calcul courantes des modèles d'IA et on clarifie l'approche.
 2. **Focus sur les "Conditions Implicites" :** C'est le secret. Demander explicitement à l'IA de chercher ce qui _n'est pas écrit_ (comme la friction de l'air négligeable) imite le raisonnement humain face à un problème textuel.
-3. **Variables symboliques :** Exiger des notations comme $v_0$ ou $a$ force l'IA à adopter un formalisme académique, rendant la lecture de la formule finale parfaitement naturelle pour un scientifique.
+3. **Variables symboliques :** Exiger des notations symboliques force l'IA à adopter un formalisme académique, rendant la lecture de la formule finale parfaitement naturelle pour un scientifique.
 
 ---
 

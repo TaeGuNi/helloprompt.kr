@@ -9,7 +9,7 @@ description: "Un prompt diseñado para destacar al sujeto principal mediante el 
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fotografía", "Efecto"]
 ---
 
-# 📝 La magia de los orbes de luz: Bokeh y profundidad de campo
+## 📝 La magia de los orbes de luz: Bokeh y profundidad de campo
 
 - **🎯 Recomendado para:** Diseñadores, especialistas en marketing, creadores de contenido
 - **⏱️ Tiempo de ejecución:** 5 minutos → 1 minuto
@@ -19,17 +19,17 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fotografía", "Efecto"]
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidad:** ⭐⭐⭐⭐☆
 
-> _"¿Tus imágenes generadas por IA lucen planas y sin vida? Descubre cómo un simple ajuste de cámara puede transformar una foto ordinaria en una obra de arte con calidad cinematográfica."_
+> _"¿Tus imágenes generadas por IA lucen planas y sin vida? Descubre cómo un simple ajuste fotográfico puede transformar una toma ordinaria en una obra de arte con verdadera calidad cinematográfica."_
 
-El efecto **Bokeh** es ese fascinante fenómeno visual en el que los puntos de luz desenfocados se transforman en suaves y estéticos orbes luminosos. Al combinar esta técnica con una **profundidad de campo reducida (Shallow Depth of Field)**, logramos aislar por completo al sujeto principal. Esto no solo guía la mirada del espectador de forma natural, sino que impregna la escena de una atmósfera profundamente emotiva y le otorga un acabado de estudio impecable.
+El efecto **Bokeh** es ese fascinante fenómeno óptico donde los puntos de luz desenfocados se transforman en estéticos y suaves orbes luminosos. Al combinar esta técnica con una **profundidad de campo reducida (`Shallow Depth of Field`)**, logramos aislar por completo al sujeto principal. Esto no solo guía la mirada del espectador de forma natural, sino que impregna la escena de una atmósfera profundamente emotiva, otorgándole un acabado profesional de estudio impecable.
 
 ---
 
 ## ⚡️ 3 líneas de resumen (TL;DR)
 
-1. Las palabras clave `Bokeh` y `Blurry background` son tus mejores aliadas para conseguir fondos estéticamente perfectos.
-2. Simula el uso de lentes profesionales integrando términos fotográficos como `Shallow depth of field` o aperturas específicas como `f/1.2`.
-3. Los escenarios nocturnos iluminados por la ciudad (luces de neón, farolas, faros de coches) actúan como el lienzo ideal para esculpir un bokeh verdaderamente deslumbrante.
+1. Las palabras clave `Bokeh` y `Blurry background` son tus mejores aliadas para generar fondos estéticamente perfectos.
+2. Simula el uso de ópticas profesionales integrando términos fotográficos como `Shallow depth of field` o aperturas específicas como `f/1.2`.
+3. Los escenarios nocturnos iluminados (luces de neón, farolas, faros de vehículos) actúan como el lienzo ideal para esculpir un bokeh verdaderamente deslumbrante.
 
 ---
 
@@ -73,7 +73,7 @@ Ideal cuando necesitas un resultado espectacular en segundos, sin complicarte co
 
 ## 💡 Comentario del autor (Insight)
 
-El verdadero secreto para que la IA capture la esencia del "Bokeh" no reside únicamente en pedirle fondos borrosos, sino en **proporcionarle fuentes de luz reales con las que pueda interactuar**. Si exiges un efecto bokeh en una habitación a oscuras sin iluminación de fondo, el resultado será inevitablemente plano y artificial. Cada vez que utilices este prompt, asegúrate de incorporar en tu contexto elementos como "luces de la ciudad", "luces de feria" o "reflejos urbanos sobre el asfalto mojado". Esto le entrega al motor de renderizado (especialmente a Midjourney v6) los "puntos calientes" exactos que necesita para esculpir esos hermosos orbes luminosos, inyectando un codiciado aspecto prémium a todas tus composiciones.
+El verdadero secreto para que la IA capture la esencia del "Bokeh" no reside únicamente en pedirle fondos borrosos, sino en **proporcionarle fuentes de luz reales con las que pueda interactuar**. Si exiges este efecto en una habitación a oscuras sin iluminación de fondo, el resultado será inevitablemente plano y artificial. Cada vez que utilices este prompt, asegúrate de incorporar en tu contexto elementos como "luces de la ciudad", "iluminación de feria" o "reflejos urbanos sobre asfalto mojado". Esto le entrega al motor de renderizado (especialmente a Midjourney v6) los "puntos calientes" exactos que necesita para esculpir esos hermosos orbes luminosos, inyectando un codiciado aspecto prémium a todas tus composiciones.
 
 ---
 
@@ -83,7 +83,7 @@ El verdadero secreto para que la IA capture la esencia del "Bokeh" no reside ún
   - A: Sí, los principios fotográficos son universales. Sin embargo, ten en cuenta que DALL-E 3 tiende a ser mucho más literal. En DALL-E, resulta sumamente útil enfatizar frases como "fotografía hiperrealista tomada con lente macro" para garantizar el efecto de desenfoque. Por su parte, Midjourney reacciona de manera mucho más orgánica ante parámetros técnicos puros, como `f/1.2`.
 
 - **Q: ¿Qué hago si el sujeto principal también aparece desenfocado o borroso?**
-  - A: Este es un problema común cuando la IA confunde las diferentes capas de profundidad. Para solucionarlo, refuerza tu prompt con instrucciones restrictivas más contundentes, como: "Sujeto principal en enfoque hipernítido (ultra-sharp focus en el primer plano)". Además, asegúrate de que el valor de la apertura tenga sentido lógico (mantente siempre en un rango realista, entre f/1.2 y f/2.8).
+  - A: Este es un problema común cuando la IA confunde las diferentes capas de profundidad. Para solucionarlo, refuerza tu prompt con instrucciones restrictivas más contundentes, como: "Sujeto principal en enfoque hipernítido (ultra-sharp focus en el primer plano)". Además, asegúrate de que el valor de la apertura tenga sentido lógico (mantente siempre en un rango realista, entre `f/1.2` y `f/2.8`).
 
 ---
 

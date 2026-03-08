@@ -9,7 +9,7 @@ description: " \"Discover a magical prompt that converts a 1-hour meeting transc
 tags: ["PM", "Jira", "회의록", "생산성"]
 ---
 
-# 📝 The AI Prompt That Auto-Converts Meeting Notes into Jira Tickets in 10 Seconds
+## 📝 The AI Prompt That Auto-Converts Meeting Notes into Jira Tickets in 10 Seconds
 
 - **🎯 Target Audience:** PMs, POs, Scrum Masters, Planners, Tech Leads
 - **⏱️ Time Saved:** 30 minutes → 10 seconds
@@ -21,15 +21,15 @@ tags: ["PM", "Jira", "회의록", "생산성"]
 
 > _"Are you missing out on today's actual work because you're still organizing yesterday's meeting notes?"_
 
-During meetings, countless ideas and action items are poured out. But once the meeting ends, it often becomes unclear who is doing what and by when. If you are wasting precious time manually transferring raw audio transcripts or meeting notes into Jira tickets or Asana tasks, this prompt is your ultimate solution.
+Countless ideas and action items fly around during meetings. Yet, the moment the call ends, clarity vanishes—leaving everyone wondering who is doing what, and by when. If you're still burning precious hours manually extracting action items from raw audio transcripts and porting them into Jira or Asana, this prompt will be a game-changer for your workflow.
 
 ---
 
 ## ⚡️ TL;DR (3-Line Summary)
 
-1. Prepare your meeting transcript (STT) extracted from tools like Zoom, Teams, or Otter.ai.
-2. Feed the transcript to the AI using our specialized prompt to extract **'Actionable Items'** formatted strictly as **'Jira Tickets'**—not just a generic summary.
-3. Copy the generated output, paste it directly into Jira, Notion, or Asana, and start working immediately.
+1. **Grab your raw transcript:** Export the Speech-to-Text (STT) log from Zoom, Microsoft Teams, or Otter.ai.
+2. **Run the prompt:** Feed the transcript into the AI using our specialized framework to instantly extract **Action Items** perfectly structured as **Jira Tickets**, skipping the useless fluff.
+3. **Copy, paste, and execute:** Drop the generated tickets directly into Jira, Asana, or Notion, and let your team start sprinting immediately.
 
 ---
 
@@ -37,16 +37,17 @@ During meetings, countless ideas and action items are poured out. But once the m
 
 ### 🥉 Basic Version
 
-Use this when you just need a quick list of 'Action Items'—who needs to do what.
+Use this lightweight version when you need a rapid, no-nonsense list of action items detailing exactly who is responsible for what.
 
-> **Role:** You are a `[Meticulous PM with 10 years of experience]`.
-> **Task:** From the provided meeting transcript, extract only the actionable items clearly listing the 'Assignee', 'Due Date', and 'Task' in a clean list format.
-> **Transcript:** `[Paste your meeting transcript here]`
-
+> **Role:** You are a `[meticulous Project Manager with 10 years of experience]`.
+> 
+> **Task:** From the provided meeting transcript, extract only the actionable items, clearly listing the 'Assignee', 'Due Date', and 'Task' in a clean list format.
+> 
+> **Transcript:** `[Paste your raw meeting transcript here]`
 
 ### 🥇 Pro Version
 
-Go beyond simple summaries. This version generates perfect Jira tickets complete with **User Stories** and **Acceptance Criteria (AC)**, enabling your development team to start working immediately.
+Take it to the next level. This advanced prompt engineers fully fleshed-out Jira tickets—complete with strict **User Stories** and comprehensive **Acceptance Criteria (AC)**—so your engineering team can hit the ground running without needing a follow-up meeting.
 
 > **Role:** You are an `[Agile Coach and Lead Scrum Master with 15 years of experience]`.
 >
@@ -79,37 +80,36 @@ Go beyond simple summaries. This version generates perfect Jira tickets complete
 >
 > **Meeting Transcript:**
 >
-> `[Paste the full transcript here]`
+> `[Paste the full raw transcript here]`
 
 ---
 
 ## 💡 Writer's Insight
 
-The true power of this prompt lies in transforming a simple "meeting summary" into **"actionable, structured data (Jira Tickets)."**
-In the real world, simply asking an AI to "summarize the meeting" yields a condensed narrative that is rarely ready to be handed off to developers. However, by enforcing **Constraints** to use `User Story` and `Acceptance Criteria` formats, you force the AI to deduce the "operational conditions" from ambiguous conversations.
+The real magic of this prompt is how it elevates a generic "meeting summary" into **highly structured, actionable data** ready for Jira.
 
-**Tip:** **Claude 3.5 Sonnet** is exceptionally powerful at handling long contexts. You can copy and paste an entire 1-hour raw meeting transcript, and it won't lose the flow while accurately pinning down action items. It automatically filters out small talk and jokes, meaning you don't even need to clean up the transcript beforehand.
+In a professional setting, casually asking an AI to "summarize this call" usually results in a dense paragraph of text that developers can't act on. By imposing strict **Constraints**—specifically requiring `User Stories` and `Acceptance Criteria`—you force the AI to parse through messy human dialogue and logically deduce the exact technical requirements.
+
+**Pro Tip:** For this specific task, **Claude 3.5 Sonnet** is an absolute powerhouse due to its massive context window. You can dump a raw, unedited transcript of a 60-minute meeting directly into the prompt. It will flawlessly maintain context, filter out the irrelevant small talk, and surgically extract only the critical deliverables. No manual clean-up required!
 
 ---
 
 ## 🙋 Frequently Asked Questions (FAQ)
 
-- **Q: Can it process long meeting transcripts exceeding an hour?**
-  - A: Yes. Models like Claude 3.5 Sonnet and GPT-4o have massive context windows, easily handling a 1-hour transcript (approx. 10,000–20,000 words). Be cautious with older models (like GPT-3.5) as they might truncate the text due to token limits.
-
-- **Q: The output isn't exactly the format I want. How do I tune it?**
-  - A: If your team has a unique Jira template or specific Status fields, simply paste your template into the `[Constraints]` section and add a line like: "You MUST output the result strictly matching this internal template." This will yield highly optimized results tailored to your team.
-
-- **Q: Which Speech-to-Text (STT) tool do you recommend?**
-  - A: For English meetings, tools like Otter.ai, Fireflies.ai, or the built-in transcription features in Zoom and Microsoft Teams provide excellent speaker diarization and accuracy. Just grab the raw output from these tools and feed it into the prompt.
+- **Q: Can the AI handle a transcript from a meeting that lasted over an hour?**
+  - A: Absolutely. Top-tier models like Claude 3.5 Sonnet and GPT-4o feature massive context windows capable of effortlessly digesting a 60-minute transcript (roughly 10,000 to 20,000 words). However, avoid using older models like GPT-3.5, as they will likely truncate the input and lose critical context.
+- **Q: What if the generated format doesn't match our company's internal Jira standards?**
+  - A: Customizing the output is incredibly simple. Just paste your team's specific ticket template directly into the `[Constraints]` section of the prompt. Add a firm directive like, "You MUST strictly format the output to match this internal template," and the AI will adapt seamlessly.
+- **Q: Are there any specific Speech-to-Text (STT) tools you recommend for capturing the transcript?**
+  - A: For highly accurate speaker diarization, dedicated tools like Otter.ai and Fireflies.ai are phenomenal. Alternatively, the native transcription features built into Zoom, Google Meet, and Microsoft Teams work exceptionally well. Just export the raw text file and plug it directly into the prompt.
 
 ---
 
 ## 🧬 Prompt Anatomy (Why it works?)
 
-1. **Persona Optimization:** By assigning the role of a "Lead Scrum Master," the AI moves beyond acting as a simple stenographer. It begins to understand the core of development work and structures the output accordingly.
-2. **Hallucination Suppression:** Constraints like "Do not invent details" and "List ambiguous items under TBD" act as safety rails, completely mitigating the risk of the AI spontaneously creating unauthorized features.
-3. **Forced Acceptance Criteria (AC):** By drafting the 'QA baseline'—which usually costs the most communication time—the AI drastically reduces the time needed to sync expectations between PMs and Developers.
+1. **Persona Optimization:** Injecting the "Lead Scrum Master" persona shifts the AI's mindset from a passive note-taker to a proactive project leader. It instinctively understands software development lifecycles and structures the deliverables accordingly.
+2. **Hallucination Suppression:** Directives like "NEVER invent details" and the mandatory `TBD` section serve as ironclad guardrails. This completely neutralizes the risk of the AI hallucinating non-existent features or making unauthorized assumptions.
+3. **Forced Acceptance Criteria (AC):** Defining the QA baseline is often the most time-consuming part of ticket creation. By forcing the AI to draft these criteria upfront, you eliminate the endless back-and-forth alignment usually required between Product Managers and Engineers.
 
 ---
 
@@ -146,8 +146,6 @@ As a potential buyer, I want my cart items to be saved for 7 days and receive a 
 
 ## 🎯 Conclusion
 
-The longer the meeting, the more overwhelming the transcript becomes, making it a nightmare to organize.
-However, with this prompt, **the moment you hit 'End Meeting', your team's sprint backlog for next week is magically completed.**
+The longer and more complex a meeting gets, the more daunting it becomes to untangle the resulting transcript. But with this prompt in your arsenal, **the second you hit 'End Meeting', your team's entire sprint backlog is practically written for you.**
 
-Try copying and pasting yesterday's meeting transcript right now.
-Leaving work on time starts with just one line of prompt! 🍷
+Grab a transcript from your messiest meeting yesterday and test it out right now. Getting your life back and leaving the office on time starts with just one powerful prompt! 🍷

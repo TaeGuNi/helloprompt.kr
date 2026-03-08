@@ -1,12 +1,12 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"개인정보처리방침 (Privacy Policy)\""
-description: " \"Politique de confidentialité transparente et sécurisée concernant la collecte et le traitement de vos données personnelles sur Hello Prompt.\""
+description: " \"Politique de confidentialité claire et sécurisée encadrant la collecte et le traitement de vos données personnelles sur Hello Prompt.\""
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 ---
 
-# 🔒 Politique de Confidentialité (Privacy Policy)
+## 🔒 Politique de Confidentialité (Privacy Policy)
 
 - **🎯 Cible :** Tous les utilisateurs de Hello Prompt à travers le monde
 - **⏱️ Temps de lecture :** Environ 3 minutes

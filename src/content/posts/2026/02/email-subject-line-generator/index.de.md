@@ -9,7 +9,7 @@ description: "Schluss mit Newslettern, die ungelesen im Spam-Ordner landen. So t
 tags: ["E-Mail-Marketing", "CRM", "Copywriting", "Newsletter"]
 ---
 
-# 📝 E-Mail-Betreffzeilen-Generator, der Ihre Öffnungsraten in die Höhe treibt
+## 📝 E-Mail-Betreffzeilen-Generator, der Ihre Öffnungsraten in die Höhe treibt
 
 - **🎯 Empfohlen für:** Marketer, Copywriter, CRM-Manager, E-Commerce-Betreiber
 - **⏱️ Zeitaufwand:** 5 Minuten → 1 Minute
@@ -21,15 +21,15 @@ tags: ["E-Mail-Marketing", "CRM", "Copywriting", "Newsletter"]
 
 > _"Das Schicksal Ihrer gesamten E-Mail-Kampagne entscheidet sich in exakt drei Sekunden – und zwar direkt in der Betreffzeile."_
 
-Wenn die Öffnungsrate Ihres mühsam recherchierten und brillant getexteten Newsletters bei unter 10 % herumdümpelt, liegt das fast nie am Inhalt. Das wahre Nadelöhr ist die Betreffzeile. Hier erfahren Sie, wie Sie mithilfe von KI unwiderstehliche Betreffzeilen kreieren, die im überfüllten Posteingang sofort ins Auge stechen und den Klickreflex Ihrer Zielgruppe unweigerlich triggern.
+Wenn die Öffnungsrate Ihres mühsam recherchierten und brillant getexteten Newsletters bei unter 10 % herumdümpelt, liegt das fast nie am Inhalt der E-Mail selbst. Das wahre Nadelöhr ist und bleibt die Betreffzeile. Sie fungiert als gnadenloser Türsteher Ihres Posteingangs. In diesem Guide erfahren Sie, wie Sie mithilfe von KI unwiderstehliche Betreffzeilen kreieren, die im überfüllten Postfach sofort ins Auge stechen und den Klickreflex Ihrer Zielgruppe unweigerlich triggern – ohne dabei billig oder nach Spam zu klingen.
 
 ---
 
 ## ⚡️ 3-Zeilen-Zusammenfassung (TL;DR)
 
-1. Wenige strategische Stichworte zu Zielgruppe und Angebot reichen bereits aus, damit die KI hochkonvertierende Betreffzeilen ausspuckt.
-2. Der Prompt integriert bewährte verkaufspsychologische Trigger: Dringlichkeit (FOMO), Neugierde, Personalisierung und einen messbaren Nutzen.
-3. Er liefert direkt den passgenauen Preheader (Vorschautext) mit, um die Klickwahrscheinlichkeit im Posteingang zu maximieren.
+1. Wenige strategische Stichworte zu Zielgruppe und Angebot reichen bereits aus, damit die KI hochkonvertierende Betreffzeilen generiert.
+2. Der Prompt integriert systematisch bewährte verkaufspsychologische Trigger: Dringlichkeit (FOMO), Neugierde, Personalisierung und konkreten Nutzen.
+3. Er liefert direkt den passgenauen Preheader (Vorschautext) mit, um die Klickwahrscheinlichkeit im Posteingang sofort zu maximieren.
 
 ---
 
@@ -39,19 +39,19 @@ Wenn die Öffnungsrate Ihres mühsam recherchierten und brillant getexteten News
 
 Nutzen Sie diese Variante, wenn die Zeit drängt und Sie sofort brauchbare Ideen benötigen.
 
-> **Rolle:** Du bist ein erfahrener `[Rolle, z.B. E-Mail-Marketing-Experte]`.
+> **Rolle:** Du bist ein erfahrener `[Rolle, z. B. E-Mail-Marketing-Experte]`.
 > **Aufgabe:** Schreibe unwiderstehliche E-Mail-Betreffzeilen für `[Thema oder Produkt]`, die eine extrem hohe Öffnungsrate erzielen.
 
 ### 🥇 Pro Version (Für maximale Performance)
 
 Greifen Sie auf diese Variante zurück, wenn Sie maßgeschneiderte, verkaufspsychologisch optimierte Ergebnisse erwarten.
 
-> **Rolle (Role):** Du bist ein brillanter `[Rolle, z.B. E-Mail-Marketing-Experte]`. Du kennst exakt jene Textmuster für Betreffzeilen, die in umfangreichen A/B-Tests nachweislich die höchsten Öffnungsraten erzielt haben.
+> **Rolle (Role):** Du bist ein brillanter `[Rolle, z. B. E-Mail-Marketing-Experte]`. Du kennst exakt jene Textmuster für Betreffzeilen, die in umfangreichen A/B-Tests nachweislich die höchsten Öffnungsraten erzielt haben.
 >
 > **Kontext (Context):**
 >
-> - E-Mail-Typ: `[Art der E-Mail, z.B. wöchentlicher Newsletter, Promo-Mail, Produkt-Launch]`
-> - Zielgruppe: `[Zielgruppenmerkmale, z.B. junge Mütter, B2B-Softwareentwickler]`
+> - E-Mail-Typ: `[Art der E-Mail, z. B. wöchentlicher Newsletter, Promo-Mail, Produkt-Launch]`
+> - Zielgruppe: `[Zielgruppenmerkmale, z. B. junge Mütter, B2B-Softwareentwickler]`
 > - Kernangebot/Vorteil: `[Was genau bieten wir an und welchen echten Mehrwert hat der Leser davon?]`
 >
 > **Aufgabe (Task):**
@@ -61,7 +61,7 @@ Greifen Sie auf diese Variante zurück, wenn Sie maßgeschneiderte, verkaufspsyc
 > 3. Baue systematisch die folgenden vier psychologischen Trigger ein:
 >    - Neugierde wecken (Curiosity Gap)
 >    - Dringlichkeit oder Verknappung (FOMO)
->    - Personalisierung (z.B. "Hey [Vorname]")
+>    - Personalisierung (z. B. "Hey [Vorname]")
 >    - Einen konkreten, messbaren Nutzen aufzeigen
 >
 > **Einschränkungen (Constraints):**

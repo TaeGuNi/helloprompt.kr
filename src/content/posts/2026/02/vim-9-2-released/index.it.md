@@ -5,7 +5,7 @@ date: 2026-02-15
 tags: ["DevTools", "Vim", "Editor", "Release"]
 ---
 
-# 📝 Rilascio di Vim 9.2: Crea il Tuo Analista IA di Documentazione Tecnica
+## 📝 Rilascio di Vim 9.2: Crea il Tuo Analista IA di Documentazione Tecnica
 
 - **🎯 Consigliato per:** Utenti Vim, Sviluppatori, Ingegneri DevOps
 - **⏱️ Tempo richiesto:** Da 30 minuti → a 1 minuto
@@ -38,6 +38,7 @@ Questo prompt trasforma l'IA nel tuo **"Analista di Documentazione Tecnica Perso
 Perfetta quando hai solo bisogno di una rapida panoramica delle novità principali.
 
 > **Ruolo:** Sei un Senior Developer e un esperto traduttore di documentazione tecnica.
+> 
 > **Azione:** Leggi le `[Note di rilascio di Vim 9.2]` sottostanti e riassumi in italiano i 3 cambiamenti più significativi. Utilizza una terminologia chiara, accessibile anche ai developer junior.
 
 ### 🥇 Versione Pro
@@ -48,25 +49,25 @@ Ideale quando ti serve un'analisi chirurgica dell'impatto sul tuo ecosistema att
 >
 > **Contesto (Context):**
 >
-> - Background: È appena stato rilasciato Vim 9.2 (o `[Tecnologia specifica]`) e devo valutare se integrarlo nel mio attuale stack di lavoro.
-> - Obiettivo: Comprendere il cuore dell'aggiornamento e analizzare in modo maniacale l'impatto sul mio ambiente esistente.
+> - Background: È appena stata rilasciata la versione di Vim 9.2 (o `[Tecnologia specifica]`) e devo valutare se integrarla nel mio attuale stack di lavoro.
+> - Obiettivo: Comprendere l'essenza dell'aggiornamento e analizzare in modo chirurgico l'impatto sul mio ecosistema esistente.
 >
 > **Azione (Task):**
 >
 > 1. Isola i 5 aggiornamenti più dirompenti basandoti sul `[Testo originale delle note di rilascio]`.
 > 2. Analizza nel dettaglio i **Fattori di rischio (Breaking changes)** che questa release potrebbe introdurre nel mio ecosistema (problemi di retrocompatibilità, dipendenze, ecc.).
 > 3. Spiega le nuove funzionalità di maggior valore, fornendo **esempi di codice pratici o linee guida di implementazione** pronti per la produzione.
-> 4. Valuta il reale significato di questo update dal punto di vista di uno sviluppatore che utilizza quotidianamente `[Il mio linguaggio/framework principale]`.
+> 4. Valuta il reale impatto strategico di questo update dal punto di vista di uno sviluppatore che utilizza quotidianamente `[Il mio linguaggio/framework principale]`.
 >
 > **Vincoli (Constraints):**
 >
-> - Struttura l'output alternando sapientemente elenchi puntati Markdown e formattazione in grassetto per massimizzare la scansionabilità.
+> - Struttura l'output alternando sapientemente elenchi puntati Markdown e testo in **grassetto** per massimizzare la leggibilità.
 > - Inserisci una breve spiegazione tra parentesi per ogni termine tecnico o gergale.
 > - Escludi qualsiasi supposizione: le tue risposte devono basarsi rigorosamente ed esclusivamente sul testo originale fornito.
 >
 > **Attenzione (Warning):**
 >
-> - Non allucinare in nessun caso funzionalità o dati non presenti nel changelog ufficiale.
+> - Non inventare in nessun caso funzionalità o dati non presenti nel changelog ufficiale (nessuna allucinazione).
 
 ---
 

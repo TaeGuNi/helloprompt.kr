@@ -9,7 +9,7 @@ description: "El salvavidas definitivo para Game Masters sin tiempo. Genera intr
 tags: ["TRPG", "D&D", "Escenario", "MaestroJuego", "Historia"]
 ---
 
-# 📝 Generador de Ganchos de Escenario para Game Masters de TRPG
+## 📝 Generador de Ganchos de Escenario para Game Masters de TRPG
 
 - **🎯 Recomendado para:** Game Masters, Dungeon Masters, Narradores de Rol
 - **⏱️ Tiempo de ejecución:** 5 minutos
@@ -19,9 +19,9 @@ tags: ["TRPG", "D&D", "Escenario", "MaestroJuego", "Historia"]
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidad:** ⭐⭐⭐⭐☆
 
-> _"¿Falta una hora para la sesión y tienes las notas en blanco? Respira hondo, la IA ya tiene lista tu próxima gran aventura."_
+> _"¿Falta una hora para la partida y tienes la hoja en blanco? Respira hondo: la IA ya tiene lista tu próxima gran aventura."_
 
-Todo Game Master de rol de mesa (TRPG) conoce ese terror frío que recorre la espalda cuando la partida está a punto de empezar y tu preparación brilla por su ausencia. En esos momentos de crisis, necesitas un _One-Shot_ contundente o un **Gancho Narrativo (Plot Hook)** verdaderamente irresistible que arroje a los jugadores directamente a la acción. ¡Se acabó el trillado cliché de «os encontráis en una taberna»! Aprende a diseñar introducciones dinámicas, impregnadas de misterio y pura adrenalina con el apoyo de la IA.
+Todo Game Master de rol de mesa (TRPG) conoce ese sudor frío que le recorre la espalda cuando la sesión está a punto de empezar y su preparación brilla por su ausencia. En esos momentos de crisis, necesitas un _One-Shot_ contundente o un **Gancho Narrativo (Plot Hook)** verdaderamente irresistible que arroje a los jugadores directamente a la acción. ¡Se acabó el trillado cliché de «os encontráis en una taberna»! Aprende a diseñar introducciones dinámicas, impregnadas de misterio y pura adrenalina con la ayuda de la IA.
 
 ---
 

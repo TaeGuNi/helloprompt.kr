@@ -1,16 +1,16 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "\"¿Por qué está mal mi gramática? Tu profesor particular 1:1\""
+title: "¿Por qué está mal mi gramática? Tu profesor particular 1:1"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Aprendizaje de Idiomas Extranjeros"
-description: "\"Un prompt de IA que no solo corrige tus textos, sino que te explica al detalle el 'porqué' de cada error para que no lo repitas jamás.\""
+description: "Un prompt de IA que no solo corrige tus textos, sino que te explica al detalle el porqué de cada error para que no lo repitas jamás."
 tags:
   ["GramáticaInglesa", "CorrecciónDeEscritura", "Prompt", "EscrituraDeCorreo"]
 ---
 
-# 📝 ¿Por qué está mal mi gramática? Tu profesor particular 1:1
+## 📝 ¿Por qué está mal mi gramática? Tu profesor particular 1:1
 
 - **🎯 Recomendado para:** Estudiantes de idiomas, profesionales, redactores de correos internacionales
 - **⏱️ Tiempo requerido:** 5 minutos → 1 minuto
@@ -22,7 +22,7 @@ tags:
 
 > _"Grammarly corrige tus errores, pero tu nivel de inglés se estanca porque avanzas a ciegas, sin entender el porqué."_
 
-Los correctores ortográficos tradicionales se limitan a entregarte el resultado final: «Esto está mal, cámbialo por esto». Sin embargo, como estudiantes o profesionales, necesitamos imperiosamente entender el «porqué». Es vital descubrir por qué debes usar la preposición `in` en lugar de `at`, o por qué sobraba el artículo `the`, para no volver a tropezar con la misma piedra en tu próximo correo importante. Este *prompt* asume el rol de ese profesor particular, rotulador rojo en mano, que te desglosa cada detalle gramatical con absoluta paciencia y claridad.
+Los correctores ortográficos tradicionales se limitan a darte el resultado final: «Esto está mal, cámbialo por esto otro». Sin embargo, como estudiante o profesional, necesitas imperiosamente entender el «porqué». Es crucial descubrir por qué debes usar la preposición `in` en lugar de `at`, o por qué sobraba el artículo `the`, para evitar tropezar con la misma piedra en tu próximo correo importante. Este *prompt* asume el rol de ese profesor particular meticuloso que, bolígrafo rojo en mano, desglosa cada detalle gramatical con absoluta paciencia y claridad.
 
 ---
 
@@ -46,7 +46,7 @@ Los correctores ortográficos tradicionales se limitan a entregarte el resultado
 
 ### 🥇 Versión Pro (Pro Version)
 
-Úsala cuando requieras un análisis profundo y detallado para estudiar y perfeccionar tu inglés a largo plazo.
+Úsala cuando requieras un análisis profundo y detallado para estudiar y perfeccionar tu nivel de inglés a largo plazo.
 
 > **Rol (Role):** Eres un meticuloso y paciente `[tutor experto en redacción en inglés]`.
 >
@@ -75,20 +75,20 @@ Los correctores ortográficos tradicionales se limitan a entregarte el resultado
 
 ## 💡 Comentario del Autor (Insight)
 
-Este *prompt* es una herramienta invaluable, no solo para quienes estudian inglés, sino para cualquier profesional que deba enviar correos cruciales a clientes internacionales. La mayoría dependemos de herramientas como Grammarly o correctores integrados que, a la larga, nos vuelven lingüísticamente «perezosos». Al implementar este *prompt*, no solo evitas enviar correos con errores embarazosos, sino que transformas cada fallo en una microlección de un minuto. Con el tiempo, notarás que cometes menos errores recurrentes porque, por fin, habrás interiorizado esas reglas que antes pasabas por alto. Es el equivalente a tener un profesor particular de primer nivel disponible 24/7, sin tener que pagar tarifas por hora.
+Este *prompt* es una herramienta invaluable, no solo para quienes estudian idiomas, sino para cualquier profesional que deba enviar correos cruciales a clientes internacionales. La mayoría dependemos de herramientas como Grammarly o de correctores integrados que, a la larga, nos vuelven lingüísticamente «perezosos». Al implementar este *prompt*, no solo evitas enviar correos con errores embarazosos, sino que transformas cada fallo en una microlección de un minuto. Con el tiempo, notarás que cometes menos errores recurrentes porque, por fin, habrás interiorizado esas reglas que antes pasabas por alto. Es el equivalente a tener un profesor particular de primer nivel disponible las 24 horas del día, sin tener que pagar tarifas por hora.
 
 ---
 
 ## 🙋 Preguntas Frecuentes (FAQ)
 
 - **Q: ¿Funciona igual de bien con la versión gratuita de ChatGPT?**
-  - A: Sí, los modelos gratuitos como GPT-3.5 o GPT-4o-mini procesan este *prompt* a la perfección. No obstante, los modelos más avanzados (como Claude 3.5 Sonnet o GPT-4o) suelen ofrecer explicaciones gramaticales más matizadas y alternativas nativas de mayor calidad.
+  - A: Sí, los modelos gratuitos como GPT-3.5 o GPT-4o-mini procesan este *prompt* a la perfección. No obstante, los modelos más avanzados (como Claude 3.5 Sonnet o GPT-4o) suelen ofrecer explicaciones gramaticales más precisas y alternativas nativas de mayor calidad.
 
 - **Q: ¿Puedo usar este prompt para otros idiomas además del inglés?**
   - A: ¡Por supuesto! Solo tienes que cambiar el `[tutor experto en redacción en inglés]` por `[tutor experto en redacción en francés/alemán/japonés]`. Los principios de corrección y explicación son perfectamente aplicables a cualquier idioma que estés aprendiendo.
 
 - **Q: ¿Resulta útil si escribo un texto muy largo, como un ensayo?**
-  - A: Para textos extensos (más de 500 palabras), te recomiendo encarecidamente dividirlos por párrafos. Si le pides a la IA que explique de golpe cada error de un ensayo de tres páginas, la respuesta será abrumadora y difícil de asimilar. Es mucho más efectivo revisar párrafo a párrafo para optimizar el aprendizaje.
+  - A: Para textos extensos (más de 500 palabras), te recomiendo encarecidamente dividirlos por párrafos. Si le pides a la IA que explique de golpe cada error de un ensayo de tres páginas, la respuesta será abrumadora y difícil de asimilar. Es mucho más efectivo revisar el texto párrafo a párrafo para optimizar tu aprendizaje.
 
 ---
 
@@ -120,7 +120,7 @@ Este *prompt* es una herramienta invaluable, no solo para quienes estudian ingl�
 **[Expresiones Nativas]**
 
 1. _"I hope to hear from you soon. Could you clarify the next steps for me?"_ (Más natural y de tono corporativo).
-2. _"Looking forward to your reply. Please let me know how to proceed."_ (Un poco más directo y muy habitual en el cruce diario de correos).
+2. _"Looking forward to your reply. Please let me know how to proceed."_ (Un poco más directo y muy habitual en el intercambio diario de correos).
 
 **[Evaluación]**
 Calificación: 6.5/10. Tu mensaje es perfectamente comprensible, pero presenta algunos errores típicos derivados de la traducción literal del español al inglés.

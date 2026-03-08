@@ -1,15 +1,15 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Routine d'Entraînement HIIT Générée par IA : Transpirer en 20 Minutes\""
+title: "Routine d'Entraînement HIIT Générée par IA : Transpirer en 20 Minutes"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé & Bien-être"
-description: " \"Pas beaucoup de temps mais envie de perdre du poids ? L'IA crée une nouvelle routine d'Entraînement par Intervalles à Haute Intensité (HIIT) chaque jour.\""
+description: "Pas le temps mais envie de perdre du poids ? L'IA crée chaque jour une nouvelle routine d'entraînement fractionné à haute intensité (HIIT) sur mesure."
 tags: ["HIIT", "Tabata", "Régime", "Exercice", "ChatGPT"]
 ---
 
-# 🔥 Court et Intense ! Le Générateur HIIT IA qui Vous Fait Transpirer en 20 Minutes
+## 🔥 Court et Intense ! Le Générateur HIIT IA qui Vous Fait Transpirer en 20 Minutes
 
 - **🎯 Recommandé pour :** Personnes débordées, télétravailleurs, débutants en fitness
 - **⏱️ Temps requis :** 5 minutes de préparation → 20 minutes d'effort
@@ -27,7 +27,7 @@ Le HIIT (High-Intensity Interval Training) est la méthode ultime pour déclench
 
 ## ⚡️ 3 Lignes pour Résumer (TL;DR)
 
-1. **Sur-mesure :** Adaptez l'entraînement à votre matériel disponible et à votre environnement (ex: appartement sans bruit).
+1. **Sur-mesure :** Adaptez l'entraînement à votre matériel disponible et à votre environnement (ex. : appartement sans bruit).
 2. **Gain de temps :** Générez en quelques secondes un circuit complet (échauffement, effort intense, récupération).
 3. **Zéro ennui :** Renouvelez vos séances quotidiennement pour choquer vos muscles et éviter la stagnation sportive.
 
@@ -39,15 +39,14 @@ Le HIIT (High-Intensity Interval Training) est la méthode ultime pour déclench
 
 Utilisez cette version lorsque vous avez juste besoin d'une session immédiate sans fioritures.
 
-> **Rôle :** Tu es un coach sportif expert en HIIT et Crossfit, surnommé l'Instructeur Diabolique.
+> **Rôle :** Tu es un coach sportif expert en HIIT et CrossFit, surnommé l'Instructeur Diabolique.
 > **Requête :** J'ai très peu de temps mais je veux perdre du poids. Crée-moi une nouvelle routine d'entraînement HIIT de 20 minutes sans matériel à faire chez moi.
-
 
 ### 🥇 Version Pro (Expert)
 
 Utilisez cette version pour obtenir un plan détaillé, sécurisé et parfaitement structuré.
 
-> **Rôle (Role) :** Tu es un coach sportif expert en HIIT et Crossfit, réputé pour ton exigence, surnommé l'Instructeur Diabolique.
+> **Rôle (Role) :** Tu es un coach sportif expert en HIIT et CrossFit, réputé pour ton exigence, surnommé l'Instructeur Diabolique.
 >
 > **Contexte (Context) :**
 >
@@ -59,7 +58,7 @@ Utilisez cette version pour obtenir un plan détaillé, sécurisé et parfaiteme
 >
 > **Tâche (Task) :**
 >
-> 1. Conçois une **routine HIIT de 20 minutes** conçue pour maximiser la fréquence cardiaque de manière progressive.
+> 1. Conçois une **routine HIIT de 20 minutes** pensée pour maximiser la fréquence cardiaque de manière progressive.
 > 2. Structure la séance ainsi : Échauffement (3 min) - Corps de séance (Circuit / Tabata) - Récupération (2 min).
 > 3. Organise le corps de séance sous forme de circuit en alternant 4 à 5 mouvements polyarticulaires.
 > 4. Précise clairement le temps de travail et le temps de repos pour chaque intervalle et entre les tours.
@@ -73,16 +72,16 @@ Utilisez cette version pour obtenir un plan détaillé, sécurisé et parfaiteme
 
 ## 💡 Commentaire de l'Auteur (Insight)
 
-L'erreur classique avec le HIIT à la maison est de se décourager à cause des exercices inadaptés (comme des _Burpees_ bruyants qui dérangent les voisins et vous mettent mal à l'aise). La véritable puissance de ce prompt réside dans la variable **"Contrainte de bruit"**.
+L'erreur classique avec le HIIT à la maison est de se décourager à cause d'exercices inadaptés (comme des _Burpees_ bruyants qui dérangent les voisins et vous mettent mal à l'aise). La véritable puissance de ce prompt réside dans la variable **"Contrainte de bruit"**.
 
-En précisant "zéro saut", l'IA remplacera intelligemment les _Jumping Jacks_ par des _Step Jacks_ ou les _Burpees_ classiques par des _Slow Burpees_. Cela permet de maintenir l'intensité cardiaque au maximum sans ruiner vos relations de voisinage ni maltraiter vos articulations. Pensez également à lui demander de varier les cibles musculaires (ex: "Focus abdos et gainage aujourd'hui") pour éviter la monotonie !
+En précisant "zéro saut", l'IA remplacera intelligemment les _Jumping Jacks_ par des _Step Jacks_ ou les _Burpees_ classiques par des _Slow Burpees_. Cela permet de maintenir l'intensité cardiaque à son maximum sans ruiner vos relations de voisinage ni maltraiter vos articulations. Pensez également à lui demander de varier les cibles musculaires (ex. : "Focus abdos et gainage aujourd'hui") pour éviter la monotonie !
 
 ---
 
 ## 🙋 Foire Aux Questions (FAQ)
 
 - **Q : Est-ce que cette routine convient aux débutants absolus ?**
-  - R : Oui, tout à fait. L'avantage de l'IA est que vous pouvez ajouter une instruction simple dans le prompt : _"Je suis grand débutant, propose des alternatives à faible impact pour chaque exercice"_.
+  - R : Oui, tout à fait. L'avantage de l'IA est que vous pouvez ajouter une instruction simple dans le prompt : _"Je suis grand débutant, propose des alternatives à faible impact pour chaque exercice."_
 
 - **Q : Dois-je utiliser ChatGPT Plus (GPT-4) pour ce prompt ?**
   - R : Non, les versions gratuites (GPT-3.5, GPT-4o-mini) ou Claude 3 Haiku s'en sortent parfaitement pour générer d'excellents circuits sportifs logiques et bien structurés.
@@ -94,8 +93,8 @@ En précisant "zéro saut", l'IA remplacera intelligemment les _Jumping Jacks_ p
 
 ## 🧬 Anatomie du Prompt (Pourquoi ça marche ?)
 
-1. **Role et Persona :** Invoquer "l'Instructeur Diabolique" force l'IA à adopter un ton motivant et à proposer des exercices réellement intenses, évitant de générer une routine d'étirements trop douce.
-2. **Contextualisation Hyper-Locale :** En définissant le lieu, le matériel et les contraintes de bruit, on s'assure que la routine est 100% exécutable dans la minute qui suit, sans friction.
+1. **Rôle et Persona :** Invoquer "l'Instructeur Diabolique" force l'IA à adopter un ton motivant et à proposer des exercices réellement intenses, évitant ainsi de générer une routine d'étirements trop douce.
+2. **Contextualisation Hyper-Locale :** En définissant le lieu, le matériel et les contraintes de bruit, on s'assure que la routine est 100 % exécutable dans la minute qui suit, sans aucune friction.
 3. **Structure Imposée (Constraints) :** L'exigence du format tableau Markdown rend la routine immédiatement lisible sur l'écran d'un smartphone posé au sol pendant l'effort.
 
 ---

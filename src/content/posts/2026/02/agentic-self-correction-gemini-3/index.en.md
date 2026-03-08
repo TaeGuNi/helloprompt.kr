@@ -6,10 +6,10 @@ category: "Agent Engineering"
 tags: ["Gemini 3 Pro", "AI Agents", "Prompt Engineering", "Workflows"]
 ---
 
-# 📝 Why AI Agents Fail: The 'Self-Correction Loop' Prompt Pattern for Gemini 3 Pro
+## 📝 Why AI Agents Fail: The 'Self-Correction Loop' Prompt Pattern for Gemini 3 Pro
 
 - **🎯 Target Audience:** Backend Engineers, Prompt Engineers, and Product Managers building AI Agents
-- **⏱️ Time Saved:** 15 mins of debugging → Reduced to 1 min
+- **⏱️ Time Saved:** 15 minutes of debugging → Reduced to 1 minute
 - **🤖 Recommended Model:** Gemini 3 Pro, GPT-4o, Claude 3.5 Sonnet (Models with strong reasoning capabilities)
 
 - ⭐ **Difficulty:** ⭐⭐⭐☆☆
@@ -18,9 +18,9 @@ tags: ["Gemini 3 Pro", "AI Agents", "Prompt Engineering", "Workflows"]
 
 > _"Is your seemingly perfect AI agent stuck in an endless loop, burning API tokens while repeating the exact same errors? It's time to stop asking it to 'write code' and start demanding it to 'draft, critique, and refine'."_
 
-If you've built agents using high-performance models like Gemini 3 Pro or GPT-4, you've likely experienced this frustration. They are phenomenal at generating code, but often terribly inept at fixing their own bugs. Once they fail, they tend to spiral, regurgitating the same broken code and draining your token budget in a "Death Spiral."
+If you've built agents using high-performance models like Gemini 3 Pro or GPT-4o, you've likely experienced this frustration. They are phenomenal at generating code but often terribly inept at fixing their own bugs. Once they fail, they tend to spiral, regurgitating the same broken logic and draining your token budget in a dreaded "Death Spiral."
 
-This isn't due to a lack of intelligence; it's the absence of a **'Self-Correction Loop'**. Most developers treat their agents as "fire and forget" systems. However, a true Agentic Workflow absolutely requires an 'Editor' phase—forcing the model to critique its own output before presenting the final result.
+This isn't due to a lack of intelligence; it's the absence of a **Self-Correction Loop**. Most developers treat their agents as "fire and forget" systems. However, a true Agentic Workflow absolutely requires an 'Editor' phase—forcing the model to explicitly critique its own output before presenting the final result.
 
 Today, I'm sharing the **Self-Correction Prompt Pattern** that has drastically reduced our agent error rates by over 60% in a live production environment.
 
@@ -28,7 +28,7 @@ Today, I'm sharing the **Self-Correction Prompt Pattern** that has drastically r
 
 ## ⚡️ 3-Line Summary (TL;DR)
 
-1. Infinite error loops in AI agents stem from the lack of an internal validation step, not model limitations.
+1. Infinite error loops in AI agents stem from the lack of an internal validation step, not from model limitations.
 2. Assign the AI dual roles—both 'Creator' and 'Critic'—forcing it to independently identify its own logical flaws.
 3. Consolidating the drafting, self-critique, and final refinement phases into a single prompt drastically minimizes hallucinations.
 
@@ -43,8 +43,8 @@ The core of this prompt lies in explicitly separating the drafting phase from th
 Use this when you need a quick, self-corrected result without complex guardrails.
 
 > **Role:** You are a `[Senior Backend Engineer]`.
+>
 > **Task:** Write a function that `[merges two sorted lists]`. After writing the code, actively critique it to identify potential bugs or inefficiencies, and then provide the final, refined code based on your critique.
-
 
 ### 🥇 Pro Version
 
@@ -76,9 +76,7 @@ Use this for production-grade code quality and rigorous edge-case defense.
 >
 > ## 1. Initial Draft
 >
->
 > (Initial Draft Code)
->
 >
 > ## 2. Self-Critique
 >
@@ -87,9 +85,8 @@ Use this for production-grade code quality and rigorous edge-case defense.
 >
 > ## 3. Final Polished Code
 >
->
 > (Final Refined Code)
->
+
 ---
 
 ## 💡 Writer's Insight
@@ -106,10 +103,8 @@ However, a word of caution: because this pattern generates additional text throu
 
 - **Q: I'm concerned about token consumption. Is there a way to reduce costs?**
   - A: Absolutely. You can build a Multi-Agent Routing system. Use a more cost-effective model (like Gemini 3 Flash) to generate the initial draft, and route only the 'Critique and Refine' phase to Gemini 3 Pro. This maintains high quality while significantly slashing costs.
-
 - **Q: What if the AI fails to find issues even during the critique phase?**
   - A: Inject a specific checklist into the 'Task' section of your prompt. For example, explicitly ask the AI to check for "memory leak risks," "async deadlocks," or "SQL injection vulnerabilities." Giving it concrete vectors to investigate drastically sharpens the resolution of its critique.
-
 - **Q: Can this be applied to non-coding tasks like planning or blog writing?**
   - A: Definitely. If you apply the structure of "Draft -> Critique logical inconsistencies and persona mismatches -> Refine final manuscript," you can achieve expert-level editing results without human intervention.
 
@@ -117,9 +112,9 @@ However, a word of caution: because this pattern generates additional text throu
 
 ## 🧬 Prompt Anatomy (Why it works)
 
-1.  **Role & Context Separation:** By forcing two opposing personas—the 'Developer' and the 'Reviewer'—onto the AI, we activate its meta-cognition abilities, compelling it to find its own flaws.
-2.  **Chain-of-Thought Induction:** Instead of demanding the perfect answer immediately, we formalize the thought process into a 'Draft -> Critique -> Refine' Markdown structure, preventing logical leaps and hallucinations.
-3.  **Strict Constraint Control:** By stripping away all unnecessary explanations in the final output, the resulting code is perfectly primed for automated pipelines (like CI/CD) to parse and test immediately.
+1. **Role & Context Separation:** By forcing two opposing personas—the 'Developer' and the 'Reviewer'—onto the AI, we activate its meta-cognition abilities, compelling it to find its own flaws.
+2. **Chain-of-Thought Induction:** Instead of demanding the perfect answer immediately, we formalize the thought process into a 'Draft -> Critique -> Refine' Markdown structure, preventing logical leaps and hallucinations.
+3. **Strict Constraint Control:** By stripping away all unnecessary explanations in the final output, the resulting code is perfectly primed for automated pipelines (like CI/CD) to parse and test immediately.
 
 ---
 

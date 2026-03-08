@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "업무 자동화"
-description: "Genera de forma automática un menú semanal saludable y una lista de compras exacta, adaptada a tus necesidades, utilizando a la IA como tu nutricionista personal."
+description: "Genera automáticamente un menú semanal saludable y una lista de compras exacta, adaptada a ti, usando a la IA como tu nutricionista personal."
 tags: ["태그1", "태그2"]
 ---
 
-# 🥗 Nutricionista con IA: Generación automática de tu menú semanal
+## 🥗 Nutricionista con IA: Generación automática de tu menú semanal
 
 - **🎯 Público objetivo:** Profesionales con agendas apretadas, entusiastas del fitness, padres de familia y cualquier persona que busque optimizar su alimentación sin estrés.
 - **⏱️ Tiempo estimado:** 30 minutos → Reducido a 2 minutos
@@ -21,7 +21,7 @@ tags: ["태그1", "태그2"]
 
 > _"¿Harto de la eterna y agotadora pregunta de 'qué hay hoy para cenar'? Deja que la IA planifique toda tu semana en segundos, entregándote recetas saludables y una lista de compras milimétrica."_
 
-Planificar las comidas semanales suele ser una de las tareas más tediosas e invisibles de la rutina diaria. Desde intentar cuadrar los macronutrientes hasta la frustración de elaborar una lista de compras para el supermercado que realmente funcione, es un proceso que devora un tiempo y una energía mental incalculables. Con este prompt, transformarás a la inteligencia artificial en tu nutricionista personal de bolsillo. Será capaz de diseñar un menú semanal completo, balanceado y ultra-personalizado, basándose estrictamente en tus preferencias de sabor, restricciones alimentarias y objetivos físicos.
+Planificar las comidas de la semana suele ser una de las tareas más tediosas e invisibles del día a día. Desde intentar cuadrar los macronutrientes hasta la frustración de armar una lista de compras que realmente funcione, es un proceso que devora muchísimo tiempo y energía mental. Con este *prompt*, transformarás a la inteligencia artificial en tu nutricionista personal de bolsillo. Podrá diseñar un menú semanal completo, balanceado y ultrapersonalizado, basándose estrictamente en tus preferencias, restricciones alimentarias y objetivos físicos.
 
 ---
 
@@ -52,12 +52,12 @@ Diseñada para obtener un plan nutricional milimétrico, con los macronutrientes
 >
 > - Perfil: `[Edad]` años, `[Género]`, `[Nivel de actividad física, ej: sedentario, muy activo]`.
 > - Objetivo: `[Tu objetivo, ej: perder grasa, mantener peso, comer más fibra]`.
-> - Restricciones dietéticas/Alergias: `[Tus restricciones, ej: sin gluten, vegetariano, intolerancia a la lactosa]`.
+> - Restricciones dietéticas o alergias: `[Tus restricciones, ej: sin gluten, vegetariano, intolerancia a la lactosa]`.
 > - Presupuesto: `[Económico, medio, alto]`.
 >
 > **Tarea (Task):**
 >
-> 1. Diseña un plan de comidas semanal de lunes a domingo que incluya desayuno, almuerzo, cena y un snack diario.
+> 1. Diseña un plan de comidas semanal de lunes a domingo que incluya desayuno, almuerzo, cena y un *snack* diario.
 > 2. Proporciona los macronutrientes estimados para cada día (calorías totales, proteínas, carbohidratos, grasas).
 > 3. Genera una lista de compras categorizada (verduras, proteínas, lácteos, despensa) con las cantidades exactas y necesarias para cubrir todo el menú.
 > 4. Sugiere 3 consejos clave de *meal prep* para adelantar la preparación de los ingredientes y ahorrar tiempo real en la cocina durante la semana.
@@ -76,22 +76,22 @@ Diseñada para obtener un plan nutricional milimétrico, con los macronutrientes
 
 ## 💡 Comentarios del Autor (Insight)
 
-Antes, la planificación de mis comidas me consumía horas; tenía que cruzar múltiples recetas de internet con las sobras que quedaban en mi nevera, por no mencionar el auténtico fastidio de calcular a mano las porciones. Este prompt se ha convertido en un verdadero salvavidas porque **conecta la ciencia nutricional con la logística real del hogar** (entregando la lista de compras exacta).
+Antes, la planificación de mis comidas me consumía horas; tenía que cruzar múltiples recetas de internet con las sobras que quedaban en mi nevera, por no mencionar el auténtico fastidio de calcular a mano las porciones. Este *prompt* se ha convertido en un verdadero salvavidas porque **conecta la ciencia nutricional con la logística real del hogar** (entregando la lista de compras exacta).
 
-Un truco de experto: si utilizas modelos multimodales como GPT-4 o Claude 3, puedes tomarle una foto al interior de tu nevera y añadir esta instrucción al final del prompt: _"Prioriza el uso de los ingredientes que aparecen en esta imagen"_. Además, si ya tienes claro que el viernes cenarás fuera, indícalo directamente en el contexto para que la IA no calcule esa comida. Así evitarás comprar alimentos que terminarán estropeándose al fondo del cajón.
+Un truco de experto: si utilizas modelos multimodales como GPT-4 o Claude 3, puedes tomarle una foto al interior de tu nevera y añadir esta instrucción al final del *prompt*: _"Prioriza el uso de los ingredientes que aparecen en esta imagen"_. Además, si ya tienes claro que el viernes cenarás fuera, indícalo directamente en el contexto para que la IA no calcule esa comida. Así evitarás comprar alimentos que terminarán estropeándose al fondo del cajón.
 
 ---
 
 ## 🙋 Preguntas Frecuentes (FAQ)
 
-- **P: ¿Puedo escalar este prompt para utilizarlo con toda mi familia?**
+- **P: ¿Puedo escalar este *prompt* para utilizarlo con toda mi familia?**
   - R: ¡Por supuesto! Solo tienes que modificar la variable del `[Contexto]` indicando: "Este plan debe ajustarse a las porciones exactas de una familia de 4 miembros (2 adultos y 2 niños de 5 y 8 años)". La IA multiplicará y ajustará la lista de compras de forma inteligente.
 
 - **P: ¿Es realmente precisa la IA a la hora de calcular calorías y macronutrientes?**
   - R: La IA ofrece estimaciones muy sólidas respaldadas por bases de datos nutricionales estándar. No obstante, si compites a nivel deportivo profesional o tienes alguna condición médica estricta, utilízalo como una excelente guía base y corrobora siempre los datos críticos con tu médico especialista o con aplicaciones dedicadas como MyFitnessPal.
 
 - **P: ¿Qué pasa si simplemente no me gusta una de las comidas sugeridas?**
-  - R: Tan fácil como responderle en el chat: _"Cambia la cena del martes por una opción que no lleve pescado"_. La IA actualizará el menú al instante y reajustará toda la lista de compras de forma automática.
+  - R: Es tan fácil como responderle en el chat: _"Cambia la cena del martes por una opción que no lleve pescado"_. La IA actualizará el menú al instante y reajustará toda la lista de compras de forma automática.
 
 ---
 

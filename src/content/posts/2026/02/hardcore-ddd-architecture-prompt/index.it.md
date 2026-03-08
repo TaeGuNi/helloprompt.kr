@@ -5,29 +5,32 @@ author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "업무 자동화"
-description: "Il prompt cheat code hardcore DDD che trasforma un'IA obbediente ma ingenua in uno spietato Senior Architect."
+description: "Il prompt cheat code hardcore DDD che trasforma un'IA obbediente ma ingenua in uno spietato Senior Architect. Previeni il debito tecnico."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ddd-architecture"]
 ---
-# 📝 Niente Codice Spaghetti! 🍝 Il Prompt Magico DDD del Senior Developer
-- 🎯 **Consigliato a:** Sviluppatori che sospirano davanti al codice dell'IA, Tech Lead intrappolati nell'inferno della manutenzione
-- ⏱️ **Tempo Richiesto:** 3 mesi (tempo di refactoring) → ridotto a 1 minuto
-- 🤖 **Modelli Consigliati:** IA conversazionali specializzate nel coding (Claude 3.5 Sonnet, GPT-4o, ecc.)
+
+## 📝 Niente Codice Spaghetti! 🍝 Il Prompt Magico DDD del Senior Developer
+
+- 🎯 **Consigliato a:** Sviluppatori che sospirano davanti al codice dell'IA, Tech Lead intrappolati nell'inferno della manutenzione.
+- ⏱️ **Tempo Richiesto:** 3 mesi (tempo di refactoring) → ridotto a 1 minuto.
+- 🤖 **Modelli Consigliati:** IA conversazionali specializzate nel coding (Claude 3.5 Sonnet, GPT-4o, ecc.).
 - ⭐ **Difficoltà:** ⭐⭐⭐☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
 - 🚀 **Versatilità:** ⭐⭐⭐⭐⭐
 
-_Ti è mai capitato di guardare il codice generato dall'IA e pensare "Wow!" all'inizio, per poi non volerlo più vedere neanche da lontano? Congratulazioni. Sei appena entrato nell'Inferno del Codice Spaghetti._
+> _"Ti è mai capitato di guardare il codice generato dall'IA e pensare 'Wow!' per poi non volerlo più vedere neanche da lontano? Congratulazioni. Sei appena entrato nell'Inferno del Codice Spaghetti."_
 
-Quando affidi la scrittura del codice a un'IA, all'inizio sembra produrre miracoli. Ma non appena il progetto cresce un po'? Crea un abominio orribile dove le query del DB sono incollate ai componenti UI e una singola funzione supera le 300 righe. Poiché l'IA è fondamentalmente uno 'yes-man', se gli dai istruzioni approssimative, scriverà codice con un'architettura altrettanto disastrosa.
+Quando affidi la scrittura del codice a un'IA, all'inizio sembra compiere miracoli. Ma non appena il progetto scala leggermente? Crea un abominio orribile in cui le query al database sono incollate ai componenti UI e una singola funzione supera le 300 righe. Poiché l'IA è fondamentalmente uno "yes-man", se le dai istruzioni approssimative, scriverà codice con un'architettura altrettanto disastrosa.
 
-Ora è il momento di fermare l'adulazione cieca dell'IA e imporre una 'Clean Architecture' perfetta fin dalle fondamenta. Questo cheat code fa incarnare all'IA uno spietato e rigoroso Senior Developer, costringendola a scrivere logica di business pura (DDD) che non sia accoppiata a nessun framework.
+È arrivato il momento di porre fine a questa cieca accondiscendenza e di imporre una **Clean Architecture** perfetta fin dalle fondamenta. Questo "cheat code" costringe l'IA a incarnare uno spietato e rigoroso Senior Developer, obbligandola a scrivere una logica di business pura (Domain-Driven Design - DDD) completamente slegata da qualsiasi framework.
 
 ---
 
 ## ⚡️ Sintesi in 3 Punti (TL;DR)
-- 🚫 **Blocco Totale del Codice Spaghetti:** Impone una perfetta Separazione delle Competenze (SoC) tra UI, logica di business e DB.
-- 🏗️ **Indipendenza dal Framework:** Progetta un core che sopravviverebbe anche se React o Next.js scomparissero domani.
-- ✂️ **Distruttore di Funzioni Giganti:** Le funzioni gonfie che superano le 30 righe vengono automaticamente distrutte e frammentate dall'IA seguendo il Principio di Singola Responsabilità (SRP).
+
+- 🚫 **Blocco Totale del Codice Spaghetti:** Impone una perfetta Separazione delle Competenze (SoC) tra View, logica di business e Data.
+- 🏗️ **Indipendenza dal Framework:** Progetta un core solido che sopravviverebbe anche se React o Next.js scomparissero domani.
+- ✂️ **Distruttore di Funzioni Giganti:** Le funzioni gonfie che superano le 30 righe vengono automaticamente frammentate dall'IA seguendo il Principio di Singola Responsabilità (SRP).
 
 ---
 
@@ -36,13 +39,14 @@ Ora è il momento di fermare l'adulazione cieca dell'IA e imporre una 'Clean Arc
 ### 🥉 Versione Base (Basic Version)
 Usala quando hai bisogno di risultati rapidi.
 
-> **Ruolo:** Sei un `[Rigoroso Senior Architect]`.
-> **Richiesta:** Devi sviluppare `[Funzionalità da implementare]`. Scrivi il codice separando in modo assoluto e perfetto la logica di business dalla UI. Il codice spaghetti con più funzionalità mischiate in un singolo file è severamente vietato e inaccettabile.
+> **Ruolo (Role):** Sei un `[Rigoroso Senior Architect]`.
+>
+> **Richiesta (Task):** Devi sviluppare `[Funzionalità da implementare]`. Scrivi il codice separando in modo assoluto e perfetto la logica di business dalla UI. Il codice spaghetti con più funzionalità mischiate in un singolo file è severamente vietato e inaccettabile.
 
 ### 🥇 Versione Pro (Pro Version)
-Usala quando hai bisogno di una qualità dettagliata e di una perfetta separazione dei livelli.
+Usala quando hai bisogno di una qualità impeccabile e di una perfetta separazione dei livelli.
 
-> **Ruolo (Role):** Sei uno spietato Senior Architect e un Dio dell'ingegneria del software che non accetta compromessi. Smettila con le adulazioni inutili o i "Sì, certo!" e parla solo attraverso il codice.
+> **Ruolo (Role):** Sei uno spietato Senior Architect e un Dio dell'ingegneria del software che non accetta compromessi. Smettila con le adulazioni inutili o i "Sì, certo!" e parla solo ed esclusivamente attraverso il codice.
 >
 > **Contesto (Context):**
 > - Background: Attualmente stiamo sviluppando il sistema `[Dominio core da implementare]` basato su `[Ambiente/Framework del progetto]`.
@@ -50,7 +54,7 @@ Usala quando hai bisogno di una qualità dettagliata e di una perfetta separazio
 >
 > **Richiesta (Task):**
 > 1. Scrivi il codice per `[Funzionalità specifica da implementare]`.
-> 2. **Divieto Assoluto di Collasso dei Livelli:** Non mischiare MAI query al DB o chiamate ad API esterne all'interno della UI/Controller. Devono occuparsi ESCLUSIVAMENTE del rendering e del passaggio dei parametri.
+> 2. **Divieto Assoluto di Collasso dei Livelli:** Non mischiare MAI query al DB o chiamate ad API esterne all'interno della UI o del Controller. Devono occuparsi ESCLUSIVAMENTE del rendering e del passaggio dei parametri.
 > 3. **Prevenzione dell'Inquinamento del Dominio:** Nella logica di business core (Entity, Value Object) non devi MAI importare dipendenze di framework o DB. Componila solo con funzioni pure e tipi.
 > 4. **Distruttore di Funzioni Giganti:** Se una funzione compie più di due azioni o supera le 30 righe, spezzala immediatamente in parti più piccole secondo il Principio di Singola Responsabilità (SRP).
 >
@@ -59,11 +63,11 @@ Usala quando hai bisogno di una qualità dettagliata e di una perfetta separazio
 > - Le dipendenze esterne devono utilizzare obbligatoriamente la Dependency Injection (DI) basata su interfacce.
 >
 > **Avvertenza (Warning):**
-> - Se il codice odora anche solo minimamente di spaghetti, questo progetto fallirà. Non scendere a compromessi e proponi la struttura architettonica più ideale e pulita possibile.
+> - Se il codice odora anche solo minimamente di spaghetti, questo progetto fallirà. Non scendere a compromessi e proponi la struttura architettonica più solida e pulita possibile.
 
 ### 💻 Versione blocco di codice facile da copiare (Cheat Code Prompt)
 ```text
-Ruolo (Role): Sei uno spietato Senior Architect e un Dio dell'ingegneria del software che non accetta compromessi. Smettila con le adulazioni inutili o i "Sì, certo!" e parla solo attraverso il codice.
+Ruolo (Role): Sei uno spietato Senior Architect e un Dio dell'ingegneria del software che non accetta compromessi. Smettila con le adulazioni inutili o i "Sì, certo!" e parla solo ed esclusivamente attraverso il codice.
 
 Contesto (Context):
 - Background: Attualmente stiamo sviluppando il sistema [Dominio core da implementare] basato su [Ambiente/Framework del progetto].
@@ -71,7 +75,7 @@ Contesto (Context):
 
 Richiesta (Task):
 1. Scrivi il codice per [Funzionalità specifica da implementare].
-2. Divieto Assoluto di Collasso dei Livelli: Non mischiare MAI query al DB o chiamate ad API esterne all'interno della UI/Controller. Devono occuparsi ESCLUSIVAMENTE del rendering e del passaggio dei parametri.
+2. Divieto Assoluto di Collasso dei Livelli: Non mischiare MAI query al DB o chiamate ad API esterne all'interno della UI o del Controller. Devono occuparsi ESCLUSIVAMENTE del rendering e del passaggio dei parametri.
 3. Prevenzione dell'Inquinamento del Dominio: Nella logica di business core (Entity, Value Object) non devi MAI importare dipendenze di framework o DB. Componila solo con funzioni pure e tipi.
 4. Distruttore di Funzioni Giganti: Se una funzione compie più di due azioni o supera le 30 righe, spezzala immediatamente in parti più piccole secondo il Principio di Singola Responsabilità (SRP).
 
@@ -80,37 +84,41 @@ Vincoli (Constraints):
 - Le dipendenze esterne devono utilizzare obbligatoriamente la Dependency Injection (DI) basata su interfacce.
 
 Avvertenza (Warning):
-- Se il codice odora anche solo minimamente di spaghetti, questo progetto fallirà. Non scendere a compromessi e proponi la struttura architettonica più ideale e pulita possibile.
+- Se il codice odora anche solo minimamente di spaghetti, questo progetto fallirà. Non scendere a compromessi e proponi la struttura architettonica più solida e pulita possibile.
 ```
 ---
 
 ## 💡 Commento dell'Autore (Insight)
-C'è un solo motivo per cui ho raffinato questa tecnica all'inverosimile. Queste intelligenze artificiali sono fondamentalmente degli adulatori ossessionati dal 'consegnare risultati rapidamente per ricevere complimenti'.
 
-Quando chiedo di creare un singolo bottone e vedo che ci mettono dentro una chiamata `fetch` e persino una query al DB direttamente nel componente, il mio istinto distruttivo si risveglia. Questo prompt prende quell'IA superficiale e accondiscendente per il colletto e la schiaffeggia dicendo: **"Svegliati, da ora in poi sei un Senior Architect spietato!"**
+C'è un solo motivo per cui ho raffinato questa tecnica all'inverosimile: **le intelligenze artificiali sono, di base, degli adulatori ossessionati dal consegnare risultati rapidamente pur di ricevere un complimento**.
 
-Prova ad applicare questo prompt a un progetto reale. L'IA cambierà improvvisamente atteggiamento (tono), dividerà i file in 3 o 4 parti e inizierà a separare rigorosamente i livelli. All'inizio potrebbe sembrarti noioso avere più file, ma tra 3 mesi, quando i requisiti cambieranno e dovrai fare manutenzione, ti inchinerai ogni mattina in direzione di me (l'autore). Ricorda che il debito tecnico ha tassi d'interesse da usurai. Non ci sono compromessi.
+Quando chiedo di creare un semplice bottone e vedo che l'IA ci infila dentro una chiamata `fetch` e persino una query al DB direttamente nel componente UI, il mio istinto distruttivo si risveglia. Questo prompt prende quell'IA superficiale e accondiscendente per il colletto e la scuote dicendo: **"Svegliati, da ora in poi sei un Senior Architect spietato!"**
+
+Prova ad applicare questo prompt a un progetto reale. L'IA cambierà improvvisamente atteggiamento (e tono), dividerà la logica in tre o quattro file distinti e inizierà a separare rigorosamente i livelli. All'inizio potrebbe sembrarti noioso gestire più file, ma fidati: tra tre mesi, quando i requisiti cambieranno e dovrai fare manutenzione, ti inchinerai ogni mattina in direzione di questo articolo. Ricorda sempre che il debito tecnico ha tassi d'interesse da usurai. **Non ci sono compromessi.**
 
 ---
 
 ## 🙋 Domande Frequenti (FAQ)
-- 🔹 **D: È normale che il codice sia così frammentato e che ci siano così tanti file?**
-  - 🔸 **R:** È assolutamente normale. Avere 10 file da 50 righe è 100 volte meglio per la manutenzione rispetto a un singolo file che supera le 500 righe. Non aver paura dell'aumento del numero di file.
+
+- 🔹 **D: È normale che il codice sia così frammentato e che vengano generati così tanti file?**
+  - 🔸 **R:** È assolutamente normale ed è proprio l'obiettivo. Avere 10 file da 50 righe è 100 volte più gestibile per la manutenzione futura rispetto a un singolo file monolitico che supera le 500 righe. Non aver paura dell'aumento del numero di file: è il prezzo dell'ordine.
 - 🔹 **D: Questo prompt è utile anche per me che sono un Frontend Developer?**
-  - 🔸 **R:** Certamente. Nel momento in cui la logica di business o la logica di mutazione dello stato si mescolano nei componenti UI (`page.tsx`, `Component.vue`, ecc.), anche il frontend diventa codice spaghetti. Separare la vista dalla logica è una verità universale in ogni settore.
+  - 🔸 **R:** Certamente. Nel momento in cui la logica di business o la logica di mutazione dello stato si mescolano nei componenti UI (`page.tsx`, `Component.vue`, ecc.), anche il frontend si trasforma in codice spaghetti inestricabile. Separare la View dalla logica è una verità universale e inviolabile in ogni livello dell'ingegneria del software.
 
 ---
 
 ## 🧬 Anatomia del Prompt (Perché funziona?)
-- 🎯 **Iniezione di Persona Hardcore:** Abbiamo privato l'IA della sua tendenza predefinita all' 'accondiscendenza', forzandola a rispettare i principi.
-- 🧱 **Specifica di Divieti Assoluti:** Avendo vietato esplicitamente anti-pattern specifici come l' 'inquinamento del livello UI' o le 'funzioni giganti', l'IA non ha scappatoie.
-- 🧩 **Induzione dell'Adapter Pattern:** Abbiamo evitato un over-engineering eccessivo istruendo l'IA a rispettare l'ossatura del framework (routing) isolando solo la logica core.
+
+- 🎯 **Iniezione di Persona Hardcore:** Abbiamo privato l'IA della sua tendenza predefinita all'accondiscendenza, forzandola a rispettare ciecamente i principi dell'ingegneria del software.
+- 🧱 **Specifica di Divieti Assoluti:** Avendo vietato esplicitamente e con fermezza anti-pattern come l'"inquinamento del livello UI" o le "funzioni giganti", l'IA non ha più scappatoie o scorciatoie.
+- 🧩 **Induzione dell'Adapter Pattern:** Abbiamo evitato un over-engineering eccessivo istruendo l'IA a rispettare l'ossatura nativa del framework (come il routing), isolando esclusivamente la logica core in un dominio separato.
 
 ---
 
 ## 📊 Dimostrazione: Prima e Dopo (Before & After)
 
 ### ❌ Prima (Input)
+
 ```javascript
 // Quando chiedi "Crea un'API per creare un utente e inviare un'email" senza il prompt
 export default async function handler(req, res) {
@@ -125,6 +133,7 @@ export default async function handler(req, res) {
 ```
 
 ### ✅ Dopo (Risultato)
+
 ```javascript
 // Dopo l'applicazione del prompt hardcore DDD (Livelli e responsabilità perfettamente separati)
 
@@ -151,8 +160,9 @@ class UserRegistrationService {
 ---
 
 ## 🎯 Conclusione
-Il rischio più grande quando si affida il codice all'IA è ottenere 'codice spazzatura che funziona solo nel breve termine'. Non c'è da rallegrarsi solo perché non ci sono errori.
 
-Afferra l'IA per il colletto con questo cheat code hardcore DDD e ottieni un'architettura corretta fin dall'inizio. Il te stesso del futuro farà una standing ovation al te stesso del passato. 
+Il rischio più grande quando si affida la scrittura del codice all'IA è ottenere "codice spazzatura che funziona solo nel breve termine". Non c'è da rallegrarsi solo perché il terminale non restituisce errori immediati.
+
+Afferra l'IA per il colletto con questo "cheat code" hardcore DDD e imponi un'architettura rigorosa e corretta fin dall'inizio. Il te stesso del futuro farà una standing ovation al te stesso del passato. 
 
 Ora vai a casa in orario! 🍷

@@ -9,26 +9,26 @@ description: "A ruthless Docker control cheat sheet that permanently prevents us
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "docker"]
 ---
 
-# 📝 💀 The Hardcore Infrastructure Control Cheat Sheet to Bulletproof Your AI Agent (Docker)
+## 📝 💀 The Hardcore Infrastructure Control Cheat Sheet to Bulletproof Your AI Agent (Docker)
 
-- **🎯 Recommended For:** Senior Developers, DevOps engineers, and anyone ready to smash their monitors over their AI agent's terminal blunders.
+- **🎯 Recommended For:** Senior developers, DevOps engineers, and anyone ready to smash their monitors over their AI agent's terminal blunders.
 - **⏱️ Time Required:** 3-minute setup → Lifetime freedom from deadlocks.
 - **🤖 Recommended Models:** Agentic AI with local system control (Gemini CLI, Cursor, Claude 3.5 Sonnet, etc.)
 - ⭐ **Difficulty:** ⭐⭐⭐⭐☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
 - 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-_Have you ever handed your terminal over to an AI, only to have your blood boil because it got stuck in an infinite loop over a single `-it` flag?_
+> _"Have you ever handed your terminal over to an AI, only to have your blood boil because it got stuck in an infinite loop over a single `-it` flag?"_
 
-We want a 10x peer engineer, not a sycophantic parrot constantly chirping, "Yes, absolutely! That's a great idea!" When an autonomous AI touches your private registries and internal network infrastructure, it must operate with military precision—lethal to bugs, but entirely safe for your systems. This cheat sheet provides a hardcore ruleset designed to cure your AI agent's terminal hangovers and enforce ruthless, uncompromising efficiency.
+We want a 10x peer engineer, not a sycophantic parrot constantly chirping, "Yes, absolutely! That's a great idea!" When an autonomous AI handles your private registries and internal network infrastructure, it must operate with military precision—lethal to bugs, yet entirely safe for your systems. This cheat sheet provides a hardcore ruleset designed to cure your AI agent's terminal hangovers and enforce ruthless, uncompromising efficiency.
 
 ---
 
 ## ⚡️ 3-Line Summary (TL;DR)
 
-1. **Completely Block Infinite Wait States (Deadlocks):** Prevents the catastrophe of an AI brainlessly executing interactive (`-it`) flags or infinite log streams (`-f`), which hang your terminal indefinitely.
-2. **Defend Against Internal Network & Auth Errors:** Forces the AI to actually troubleshoot network connectivity and execute `docker login` when facing DNS or permission errors, rather than blindly rewriting perfectly good scripts.
-3. **Garbage Collection & Build Optimization:** Mandates the `--rm` flag to leave zero residual container trash, and establishes strict build rules to prevent burning I/O on multi-architecture builds during local testing.
+1. **Completely Block Infinite Wait States (Deadlocks):** Prevents the catastrophe of an AI brainlessly executing interactive (`-it`) flags or infinite log streams (`-f`), which will hang your terminal indefinitely.
+2. **Defend Against Internal Network & Auth Errors:** Forces the AI to properly troubleshoot network connectivity and execute `docker login` when facing DNS or permission errors, rather than blindly rewriting perfectly good configuration files.
+3. **Garbage Collection & Build Optimization:** Mandates the `--rm` flag to leave zero residual container trash and establishes strict build rules to prevent burning I/O on multi-architecture builds during local testing.
 
 ---
 
@@ -40,7 +40,7 @@ The foundational rule you need to hammer into the agent's context when you're in
 
 > **Role:** You are a merciless Senior DevOps Engineer and an autonomous agent directly controlling my infrastructure. Cut the conversational fluff and do not flatter me.
 >
-> **Task:** `[Target Task: e.g., Spin up a Redis container locally and test the connection]`
+> **Task:** `[Target task: e.g., Spin up a Redis container locally and test the connection]`
 >
 > **Constraints:**
 > 1. When interacting with the terminal, `docker exec -it` is strictly forbidden. You do not have a TTY or a physical keyboard.
@@ -57,7 +57,7 @@ The hardcore system prompt designed to be permanently embedded into your AI agen
 > **Context:**
 >
 > - Background: Managing Docker infrastructure across local (Mac) and remote internal network environments.
-> - Objective: `[Insert specific infrastructure task to be performed]`
+> - Objective: `[Insert the specific infrastructure task to be performed]`
 >
 > **Task:**
 >
@@ -79,7 +79,7 @@ The hardcore system prompt designed to be permanently embedded into your AI agen
 
 ## 💡 Author's Insight
 
-This ruleset is a discipline written in blood. I drafted it the day I handed local terminal control over to an agent, only for the bastard to indiscriminately throw an `-it` flag. It turned the process into an unkillable zombie and nearly made my MacBook's cooling fans achieve liftoff.
+This ruleset is a discipline written in blood. I drafted it the day I handed local terminal control over to an agent, only for the AI to indiscriminately throw an `-it` flag. It turned the process into an unkillable zombie and nearly made my MacBook's cooling fans achieve liftoff.
 
 At their core, foundational AI models are fine-tuned to be "friendly conversational chatbots." Because of this, they constantly attempt to interact like humans, even when trapped inside a headless, non-interactive terminal. The inevitable result? The AI runs a shell script, hits an interactive input prompt, and just sits there waiting for a human response indefinitely. It’s absolutely maddening.
 

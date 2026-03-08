@@ -5,23 +5,23 @@ author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "프롬프트 엔지니어링"
-description: "Cansado de IAs que entregam apenas um 'Sucesso!' ilusório? Eis um cheat code hardcore que força cenários de destruição para testar a verdadeira resiliência do seu sistema."
+description: "Cansado de IAs que só entregam 'sucesso' ilusório? Este cheat code hardcore força falhas reais para testar a verdadeira resiliência do seu sistema."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "chaos-monkey-testing"]
 ---
 
-# 📝 Prompt de Teste Chaos Monkey para Torturar a IA 💣
+## 📝 Prompt de Teste Chaos Monkey para Torturar a IA 💣
 
 - **🎯 Público-Alvo:** Desenvolvedores Seniores, Engenheiros de QA e Tech Leads exaustos de IAs que se dizem especialistas, mas só entregam o *happy path*.
 - **⏱️ Tempo Necessário:** De 10 minutos → 10 segundos (Corta a enrolação da IA pela raiz)
 - **🤖 Modelos Recomendados:** Todas as IAs conversacionais (Especialmente Claude 3.5 Sonnet e GPT-4o, imbatíveis em código)
 
-- ⭐ **Dificuldade:** ⭐⭐⭐⭐☆ (A IA vai suar a camisa)
-- ⚡️ **Efetividade:** ⭐⭐⭐⭐⭐ (Elimina os bugs antes mesmo de nascerem)
-- 🚀 **Versatilidade:** ⭐⭐⭐⭐⭐ (Aplicação imediata em qualquer teste TDD ou E2E)
+- ⭐ **Dificuldade:** ⭐⭐⭐⭐☆
+- ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
+- 🚀 **Versatilidade:** ⭐⭐⭐⭐⭐
 
 > _"Você fica aliviado quando o teste gerado pela IA passa de primeira? Meus pêsames. Seu servidor de produção vai cair amanhã."_
 
-Peça a um agente de IA para escrever testes e, em 9 de 10 vezes, ele entregará apenas cenários de *happy path* perfeitamente idílicos. É um conto de fadas onde APIs externas respondem em 0,1 milissegundos, o banco de dados nunca pisca e o usuário sempre insere dados imaculados. Esqueça isso. O código de que realmente precisamos é um escudo intransponível, capaz de repelir 80% das falhas críticas e desastres em produção. O *cheat code* que apresentamos aqui é um prompt hardcore: ele agarra a IA pelo colarinho e injeta, à força, a implacável filosofia do *Chaos Monkey* da Netflix diretamente na sua suíte de testes.
+Peça a uma IA para escrever testes e, em 9 de cada 10 vezes, ela entregará apenas cenários de *happy path* perfeitamente utópicos. É um conto de fadas onde APIs externas respondem em 0,1 milissegundos, o banco de dados nunca falha e o usuário sempre insere dados imaculados. Esqueça isso. O código que realmente precisamos é um escudo intransponível, capaz de repelir 80% das falhas críticas e desastres em produção. O *cheat code* que apresentamos aqui é um prompt hardcore: ele agarra a IA pelo colarinho e injeta, à força, a implacável filosofia do *Chaos Monkey* da Netflix diretamente na sua suíte de testes.
 
 ---
 
@@ -35,14 +35,15 @@ Peça a um agente de IA para escrever testes e, em 9 de 10 vezes, ele entregará
 
 ## 🚀 Solução: "Protocolo Chaos Monkey"
 
-### 🥉 Basic Version (Versão Básica)
+### 🥉 Versão Básica
 
 Use esta versão quando precisar injetar testes de tratamento de erros rapidamente.
 
 > **Papel:** Você é um Engenheiro de QA hardcore e impiedoso, um verdadeiro *Chaos Monkey*.
+> 
 > **Tarefa:** Escreva o código de teste para o `[código-fonte]` que forneci. Crie apenas 1 cenário de funcionamento normal (*Happy Path*). Para todo o resto, assuma o absoluto pior cenário – erros HTTP 500 de rede, *timeouts* de banco de dados, entradas com tipos inválidos, etc. – e valide rigorosamente a lógica de defesa.
 
-### 🥇 Pro Version (Versão Profissional)
+### 🥇 Versão Profissional
 
 O *cheat code* definitivo. Ele elimina a bajulação superficial da IA, garantindo isolamento absoluto dos testes e verificando o *garbage collection* em nível de produção. Copie e cole exatamente como está.
 
@@ -69,7 +70,7 @@ O *cheat code* definitivo. Ele elimina a bajulação superficial da IA, garantin
 
 Sejamos francos. Quando você pede a uma IA para escrever testes, ela foge para uma utopia particular só para exibir aquele *check* verde (✅) na tela. Um mundo mágico onde as APIs respondem em 1ms e os usuários só enviam *payloads* JSON imaculados. 
 
-Este prompt incendeia essa utopia. No mundo real, os servidores não caem por erros de lógica bobos; eles colapsam porque aquela API de terceiros "superconfiável" de repente cospe um *502 Bad Gateway*, ou porque o sistema entra num *loop* de carregamento infinito e estúpido quando as conexões do AWS RDS oscilam. Ao usar este *cheat code* do Chaos Monkey, a IA será forçada a escavar ativamente os *edge cases* mais obscuros e a bloquear totalmente as táticas de *mocking* amadoras que poluem o escopo global. É, literalmente, a única vacina que vai salvar seus finais de semana e madrugadas de *debugging* desesperado.
+Este prompt incendeia essa utopia. No mundo real, os servidores não caem por erros de lógica bobos; eles colapsam porque aquela API de terceiros **"superconfiável"** de repente cospe um *502 Bad Gateway*, ou porque o sistema entra num *loop* de carregamento infinito e estúpido quando as conexões do AWS RDS oscilam. Ao usar este *cheat code* do Chaos Monkey, a IA será forçada a escavar ativamente os *edge cases* mais obscuros e a bloquear totalmente as táticas de *mocking* amadoras que poluem o escopo global. É, literalmente, a única vacina que vai salvar seus finais de semana e madrugadas de *debugging* desesperado.
 
 ---
 

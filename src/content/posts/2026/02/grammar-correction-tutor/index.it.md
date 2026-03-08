@@ -9,9 +9,9 @@ description: "Un prompt che trasforma l'IA in un tutor linguistico personale: sc
 tags: ["GrammaticaInglese", "CorrezioneScrittura", "Prompt", "ScritturaEmail"]
 ---
 
-# 📝 Perché la Mia Grammatica è Sbagliata? Il Tuo Tutor di Scrittura 1:1
+## 📝 Perché la Mia Grammatica è Sbagliata? Il Tuo Tutor di Scrittura 1:1
 
-- **🎯 Consigliato per:** Professionisti, Sviluppatori, Marketer che scrivono email in inglese
+- **🎯 Consigliato per:** Professionisti, sviluppatori e marketer che scrivono email in inglese
 - **⏱️ Tempo richiesto:** 5 minuti → 1 minuto
 - **🤖 Modello consigliato:** Tutti i modelli IA (ChatGPT, Claude, Gemini, ecc.)
 
@@ -21,15 +21,15 @@ tags: ["GrammaticaInglese", "CorrezioneScrittura", "Prompt", "ScritturaEmail"]
 
 > _"Grammarly mi corregge gli errori, ma il mio inglese non migliora mai perché non capisco il motivo delle correzioni."_
 
-I correttori ortografici tradizionali si limitano a darti il risultato finale: «Questo è sbagliato, scrivi così». A noi, però, interessa il *perché*. Solo comprendendo la ragione per cui si usa `in` al posto di `at`, o il motivo per cui l'articolo `the` va omesso, potrai evitare di ripetere all'infinito gli stessi errori. Questo prompt trasforma l'IA nel tuo insegnante di inglese personale: un tutor rigoroso ma paziente, pronto a spiegarti ogni singola sfumatura.
+I correttori ortografici tradizionali si limitano a fornirti il risultato finale: «Questo è sbagliato, scrivi così». A noi, invece, interessa il *perché*. Solo comprendendo la ragione per cui si usa `in` al posto di `at`, o il motivo per cui l'articolo `the` va omesso, potrai smettere di ripetere all'infinito i soliti errori. Questo prompt trasforma l'IA nel tuo insegnante di inglese personale: un tutor rigoroso ma paziente, pronto a spiegarti ogni singola sfumatura.
 
 ---
 
 ## ⚡️ Sintesi in 3 Punti (TL;DR)
 
-1. **Analisi degli Errori:** Non si limita alla semplice correzione, ma ti illustra le regole grammaticali che si celano dietro ogni sbaglio.
-2. **Alternative da Madrelingua:** Suggerisce espressioni più fluide, naturali e perfettamente calate nel contesto professionale.
-3. **Feedback Personalizzato:** Valuta il tuo livello di scrittura e ti fornisce consigli mirati per un miglioramento continuo.
+1. **Analisi degli Errori:** Non si ferma alla semplice correzione, ma ti svela le regole grammaticali che si celano dietro ogni sbaglio.
+2. **Alternative da Madrelingua:** Suggerisce espressioni più fluide, naturali e perfettamente adatte al contesto professionale.
+3. **Feedback Personalizzato:** Valuta il tuo livello di scrittura e ti fornisce consigli mirati per un miglioramento costante.
 
 ---
 
@@ -39,14 +39,14 @@ I correttori ortografici tradizionali si limitano a darti il risultato finale: �
 
 Ideale quando hai bisogno di una correzione fulminea accompagnata da una spiegazione essenziale.
 
-> **Ruolo:** Sei un `[Tutor professionale di scrittura in inglese]`.
-> **Richiesta:** Correggi gli errori grammaticali nella mia frase e spiegami in modo semplice `[perché ho sbagliato]`.
+> **Ruolo:** Sei un `[tutor professionale di scrittura in inglese]`.
+> **Richiesta:** Correggi gli errori grammaticali nella mia frase e spiegami in modo semplice `[il motivo dei miei errori]`.
 
 ### 🥇 Pro Version (Versione Esperta)
 
-Ideale per un'analisi grammaticale profonda, per ottenere alternative da madrelingua e ricevere una valutazione a 360 gradi del tuo testo.
+Ideale per un'analisi grammaticale approfondita, per ottenere alternative tipiche dei madrelingua e ricevere una valutazione a 360 gradi del tuo testo.
 
-> **Ruolo (Role):** Sei un `[Tutor professionale di scrittura in inglese]`, paziente ed estremamente meticoloso.
+> **Ruolo (Role):** Sei un `[tutor professionale di scrittura in inglese]`, paziente ed estremamente meticoloso.
 >
 > **Contesto (Context):**
 >
@@ -73,7 +73,7 @@ Ideale per un'analisi grammaticale profonda, per ottenere alternative da madreli
 
 ## 💡 Commento dell'Autore (Insight)
 
-Questo prompt rappresenta un autentico "game-changer" per chiunque operi in un contesto internazionale. Affidarsi a strumenti come Grammarly è comodo quando si va di fretta, ma a lungo andare crea dipendenza e frena il reale sviluppo delle tue competenze linguistiche. Trasformando l'IA in un tutor dedicato, ogni singola email inviata si evolve in una micro-lezione di inglese. Personalmente, lo utilizzo sempre prima di inviare messaggi cruciali su Slack o email a clienti esteri: non solo evito scivoloni imbarazzanti, ma riesco a interiorizzare in modo naturale strutture fraseologiche che in passato sbagliavo sistematicamente.
+Questo prompt rappresenta un vero e proprio "game changer" per chiunque operi in un contesto internazionale. Affidarsi a strumenti come Grammarly è comodo quando si va di fretta, ma a lungo andare crea dipendenza e frena il reale sviluppo delle tue competenze linguistiche. Trasformando l'IA in un tutor dedicato, ogni singola email inviata si evolve in una micro-lezione di inglese. Personalmente, lo utilizzo **sempre** prima di inviare messaggi cruciali su Slack o email a clienti esteri: non solo evito scivoloni imbarazzanti, ma riesco a interiorizzare in modo del tutto naturale strutture fraseologiche che in passato sbagliavo sistematicamente.
 
 ---
 
@@ -86,7 +86,7 @@ Questo prompt rappresenta un autentico "game-changer" per chiunque operi in un c
   - A: Sì, la versione gratuita (come GPT-3.5 o GPT-4o-mini) è in grado di eseguire questo prompt in modo eccellente. I modelli più avanzati, come Claude 3.5 Sonnet o GPT-4o, tendono però a offrire "Espressioni Native" leggermente più raffinate e contestualizzate.
 
 - **Q: Posso usarlo per studiare altre lingue oltre all'inglese?**
-  - A: Certamente! Ti basterà sostituire `[Tutor professionale di scrittura in inglese]` con `[Tutor professionale di scrittura in spagnolo/tedesco/ecc.]`. L'architettura logica del prompt rimarrà invariata e si adatterà perfettamente alla lingua scelta.
+  - A: Certamente! Ti basterà sostituire `[tutor professionale di scrittura in inglese]` con `[tutor professionale di scrittura in spagnolo/tedesco/ecc.]`. L'architettura logica del prompt rimarrà invariata e si adatterà perfettamente alla lingua scelta.
 
 ---
 

@@ -9,7 +9,7 @@ description: "Aprenda a instalar o DeepSeek R1 localmente com o Ollama e tenha u
 tags: ["DeepSeek", "Ollama", "Local LLM", "Codificação", "Produtividade"]
 ---
 
-# 💻 Seu Assistente de Código Pessoal: Instalação Local do DeepSeek R1
+## 💻 Seu Assistente de Código Pessoal: Instalação Local do DeepSeek R1
 
 - **🎯 Recomendado para:** Desenvolvedores preocupados com o vazamento de código proprietário, estudantes e profissionais com restrições de orçamento para APIs.
 - **⏱️ Tempo de Configuração:** 10 minutos
@@ -21,16 +21,16 @@ tags: ["DeepSeek", "Ollama", "Local LLM", "Codificação", "Produtividade"]
 
 > _"A sua empresa bloqueou o uso de IAs comerciais por medo de vazar código? Cansado de pagar assinaturas mensais caras? Traga o poder absoluto do **DeepSeek R1** para a sua máquina e ganhe um Desenvolvedor Sênior particular: 100% gratuito, offline e totalmente privado."_
 
-No cenário atual de desenvolvimento, a tendência definitiva é a adoção de **Local LLMs** (Modelos de Linguagem Locais). No centro dessa revolução está o **DeepSeek R1**, um modelo que entrega um desempenho assustador em lógica matemática e codificação — frequentemente apelidado de "A Anomalia do Open Source".
+No cenário atual de desenvolvimento, a adoção de **Local LLMs** (Modelos de Linguagem Locais) consolidou-se como uma tendência irreversível. No centro dessa revolução está o **DeepSeek R1**, um modelo que entrega um desempenho assustador em lógica matemática e codificação — frequentemente apelidado de "A Anomalia do Open Source".
 
 Neste guia, você não apenas aprenderá a instalar o DeepSeek no seu Mac ou PC em poucos minutos usando o Ollama, mas também receberá os prompts definitivos para extrair o máximo do seu raciocínio lógico diretamente na sua IDE (via VS Code com a extensão Continue).
 
 ---
 
-## ⚡️ 3 Resumo em 3 Pontos (TL;DR)
+## ⚡️ Resumo em 3 Pontos (TL;DR)
 
 1. **Instale o motor:** Baixe o **Ollama** (`ollama.com`) para rodar modelos de IA localmente com extrema facilidade.
-2. **Execute o modelo:** Abra o terminal e execute `ollama run deepseek-r1:8b` (ou `70b` se tiver muita memória RAM).
+2. **Execute o modelo:** Abra o terminal e digite `ollama run deepseek-r1:8b` (ou `70b` se tiver bastante memória RAM).
 3. **Integre e domine:** Conecte o modelo ao VS Code (utilizando a extensão Continue) e aplique os nossos prompts de refatoração avançada.
 
 ---
@@ -39,17 +39,17 @@ Neste guia, você não apenas aprenderá a instalar o DeepSeek no seu Mac ou PC 
 
 Após configurar o Ollama e a extensão Continue no VS Code, selecione o trecho de código problemático, pressione `Cmd + L` (Mac) ou `Ctrl + L` (Windows) e aplique um dos prompts abaixo.
 
-### 🥉 Basic Version (Versão Básica)
+### 🥉 Versão Básica (Basic)
 
 Ideal para checagens rápidas de sintaxe, pequenos blocos lógicos ou revisões expressas de código.
 
 > **Papel:** Você é um Desenvolvedor Sênior experiente.
+> 
 > **Solicitação:** Analise o código fornecido e aponte 3 melhorias rápidas focadas em legibilidade e performance. Responda de forma direta.
 
+### 🥇 Versão Especialista (Pro)
 
-### 🥇 Pro Version (Versão Especialista)
-
-O verdadeiro poder do DeepSeek R1 reside no seu raciocínio estruturado (`<think>`). Utilize este prompt para refatorações críticas onde a escalabilidade e a arquitetura importam de verdade.
+O verdadeiro poder do DeepSeek R1 reside no seu raciocínio estruturado (`<think>`). Utilize este prompt para refatorações críticas, onde a escalabilidade e a arquitetura importam de verdade.
 
 > **Papel (Role):** Você é um Arquiteto de Software Sênior do Google e um evangelista extremo de Clean Code e alta performance.
 > 
@@ -78,28 +78,28 @@ O verdadeiro poder do DeepSeek R1 reside no seu raciocínio estruturado (`<think
 
 ## 💡 Comentário do Autor (Insight)
 
-A verdadeira mágica de rodar o DeepSeek R1 localmente não é apenas a gratuidade, mas sim a **fricção zero**. Quando você sabe que cada token processado não está custando centavos na fatura da API nem enviando os dados sigilosos da sua empresa para servidores de terceiros, a sua abordagem de refatoração se torna muito mais agressiva, iterativa e exploratória. 
+A verdadeira mágica de rodar o DeepSeek R1 localmente não é apenas a gratuidade, mas sim a **fricção zero**. Quando você sabe que cada token processado não está custando centavos na fatura da API, nem enviando os dados sigilosos da sua empresa para servidores de terceiros, a sua abordagem de refatoração torna-se muito mais agressiva, iterativa e exploratória. 
 
-O prompt da versão *Pro* explora o que a série R1 faz de melhor: a **Cadeia de Pensamento (Chain of Thought)**. Ao obrigar a IA a analisar o *Big-O* e estruturar o raciocínio primeiro (processo que ocorre silenciosamente dentro da tag `<think>`), nós mitigamos drasticamente as temidas alucinações ("respostas excessivamente confiantes, porém erradas"). Para o uso diário, recomendo fortemente mapear um atalho de teclado no VS Code especificamente para disparar esse prompt sobre qualquer código selecionado.
+O prompt da versão *Pro* explora o que a série R1 faz de melhor: a **Cadeia de Pensamento (Chain of Thought)**. Ao obrigar a IA a analisar o *Big-O* e a estruturar o raciocínio previamente (processo que ocorre silenciosamente dentro da tag `<think>`), nós mitigamos drasticamente as temidas alucinações ("respostas excessivamente confiantes, porém erradas"). Para o uso diário, recomendo fortemente mapear um atalho de teclado no VS Code específico para disparar esse prompt sobre qualquer código selecionado.
 
 ---
 
 ## 🙋 Perguntas Frequentes (FAQ)
 
 - **Q: Meu computador vai travar rodando o modelo de 8B?**
-  - A: Se você possuir pelo menos 8GB de memória RAM unificada (como nos Macs da série M) ou uma placa de vídeo dedicada razoável no PC (série RTX), o modelo 8B rodará de forma incrivelmente fluida. Durante a inferência de código, ele costuma alocar cerca de 4 a 6GB de memória.
+  - A: Se você possuir pelo menos 8 GB de memória RAM unificada (como nos Macs da série M) ou uma placa de vídeo dedicada razoável no PC (série RTX), o modelo 8B rodará de forma incrivelmente fluida. Durante a inferência de código, ele costuma alocar cerca de 4 a 6 GB de memória.
 
 - **Q: O DeepSeek local possui acesso à internet para pesquisar novas documentações?**
-  - A: Por padrão, não. O Ollama roda o modelo 100% offline, operando apenas com o seu conhecimento embutido. Para lidar com bibliotecas ou *frameworks* muito recentes, a dica de ouro é simplesmente colar a documentação pertinente na própria janela do chat da IDE e pedir para o modelo se basear nela.
+  - A: Por padrão, não. O Ollama roda o modelo 100% offline, operando apenas com o seu conhecimento embutido. Para lidar com bibliotecas ou *frameworks* muito recentes, a dica de ouro é simplesmente colar a documentação pertinente na própria janela de chat da IDE e pedir para o modelo se basear nela.
 
 - **Q: Posso usar isso no meu notebook corporativo de forma segura?**
-  - A: Sim, e essa é exatamente a principal vantagem. Como a computação ocorre de forma isolada na sua própria CPU/GPU e nenhum dado trafega pela internet, o uso do Ollama atende até às mais rigorosas políticas de conformidade e segurança da informação (como SOC2 e LGPD/GDPR).
+  - A: Sim, e essa é exatamente a principal vantagem. Como a computação ocorre de forma isolada na sua própria CPU/GPU e nenhum dado trafega pela internet, o uso do Ollama atende até as mais rigorosas políticas de conformidade e segurança da informação (como SOC2 e LGPD/GDPR).
 
 ---
 
 ## 🧬 Anatomia do Prompt (Por que funciona?)
 
-1. **Gatilho de Autoridade ("Arquiteto do Google"):** Definir imediatamente um padrão de exigência elevado inibe a tendência natural da IA de propor correções "preguiçosas" ou apresentar soluções de nível júnior.
+1. **Gatilho de Autoridade ("Arquiteto do Google"):** Definir imediatamente um padrão de exigência elevado inibe a tendência natural da IA de propor correções "preguiçosas" ou de apresentar soluções de nível júnior.
 2. **Exigência do Raciocínio Analítico (Chain of Thought):** Ao cobrar ativamente o diagnóstico do *Big-O* e a exibição explícita do pensamento, forçamos o DeepSeek a engajar o seu motor lógico internamente antes de cuspir o código, entregando arquiteturas exponencialmente mais limpas e coesas.
 3. **Barreiras Antialucinação (Constraints):** O veto severo a "inventar bibliotecas" anula a clássica falha na qual os LLMs tentam encurtar o caminho invocando pacotes NPM ou módulos Python imaginários.
 

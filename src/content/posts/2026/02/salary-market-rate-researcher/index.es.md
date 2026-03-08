@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Empleo y Carrera"
-description: " \"Compara y analiza tu rango salarial promedio según tu puesto y experiencia utilizando datos reales de reclutamiento para obtener argumentos objetivos de negociación.\""
+description: "Compara tu salario según puesto y experiencia usando datos reales del mercado laboral para obtener argumentos de negociación sólidos y objetivos."
 tags:
   [
     "AnálisisSalarial",
@@ -15,9 +15,9 @@ tags:
   ]
 ---
 
-# 📝 ¿Soy un Tonto? Agente de Investigación y Análisis de 'Tasa de Mercado'
+## 📝 ¿Soy un Tonto? Agente de Investigación y Análisis de 'Tasa de Mercado'
 
-- **🎯 Recomendado para:** Trabajadores de oficina, Desarrolladores, Profesionales en general
+- **🎯 Recomendado para:** Oficinistas, desarrolladores y profesionales en general
 - **⏱️ Tiempo requerido:** 5 minutos
 - **🤖 Modelo recomendado:** Modelos con acceso a internet (ChatGPT Plus, Perplexity, Gemini Advanced)
 
@@ -25,17 +25,17 @@ tags:
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"Un excompañero acaba de cambiar de trabajo y le pagan muchísimo más... ¿Acaso me están tomando el pelo?"_
+> _"Un excompañero acaba de cambiar de empleo y le pagan muchísimo más... ¿Acaso me están tomando el pelo con mi sueldo?"_
 
-El arma más letal en una negociación salarial son los **datos objetivos**. Si desconoces tu valor real en el mercado, terminarás aceptando el clásico "es lo máximo que podemos ofrecerte" de Recursos Humanos. Ármate con datos de mercado reales y reclama lo que te corresponde con total seguridad.
+El arma más letal en cualquier negociación salarial son los **datos objetivos**. Si desconoces tu valor real en el mercado, terminarás conformándote con el clásico "es lo máximo que podemos ofrecerte" del departamento de Recursos Humanos. Ármate con cifras reales del mercado laboral y exige lo que te corresponde con total seguridad.
 
 ---
 
 ## ⚡️ Resumen en 3 líneas (TL;DR)
 
 1. Ingresa tu cargo, años de experiencia, sector y ubicación geográfica.
-2. La IA rastreará bases de datos salariales (Glassdoor, Levels.fyi, etc.) para calcular tu valor de mercado (percentil inferior, medio y superior).
-3. Analiza la brecha entre tu salario actual y el mercado para construir una estrategia de negociación infalible.
+2. La IA rastreará bases de datos salariales (Glassdoor, Levels.fyi, etc.) para calcular tu valor de mercado (percentil inferior, mediana y superior).
+3. Analiza la brecha entre tu salario actual y el mercado para diseñar una estrategia de negociación infalible.
 
 ---
 
@@ -46,8 +46,8 @@ El arma más letal en una negociación salarial son los **datos objetivos**. Si 
 Ideal para obtener una estimación rápida y directa sin complicaciones.
 
 > **Rol:** Eres un experto analista de compensación y beneficios.
-> **Solicitud:** Analiza el rango salarial promedio para mi puesto y años de experiencia basándote en datos reales del mercado laboral, para proporcionarme argumentos objetivos de negociación.
-
+>
+> **Solicitud:** Analiza el rango salarial promedio para mi puesto y años de experiencia basándote en datos reales del mercado laboral, con el objetivo de proporcionarme argumentos sólidos y objetivos para una negociación.
 
 ### 🥇 Versión Pro (Pro Version)
 
@@ -67,42 +67,42 @@ Diseñada para obtener un análisis detallado, estratégico y listo para present
 >
 > 1. Investiga en plataformas de empleo confiables (Glassdoor, Levels.fyi, LinkedIn Salary, etc.) para determinar el rango salarial actual de profesionales con un perfil idéntico al mío.
 > 2. Presenta los datos desglosados en tres niveles: **Bajo (percentil 25) - Mediana (percentil 50) - Alto (percentil 75)**.
-> 3. Basándote en mi salario actual y asumiendo un buen desempeño, propón una **"Cifra Objetivo de Negociación"** lógica y realista, justificando por qué debería pedir esa cantidad.
+> 3. Basándote en mi salario actual y asumiendo un buen desempeño, propón una **"Cifra Objetivo de Negociación"** lógica y realista, justificando con detalle por qué debería pedir esa cantidad.
 >
 > **Restricciones (Constraints):**
 >
-> - Especifica claramente las fuentes de los datos para garantizar la credibilidad.
+> - Especifica claramente las fuentes de los datos para garantizar su credibilidad.
 > - Estructura la respuesta final en un formato Markdown limpio y fácil de leer.
 >
 > **Advertencia (Warning):**
 >
-> - No inventes cifras. Si no tienes datos suficientes para mi ubicación o sector, dímelo y proporciona una estimación basada en mercados similares.
+> - No inventes cifras. Si no tienes datos suficientes para mi ubicación o sector, indícalo explícitamente y proporciona una estimación basada en mercados similares.
 
 ---
 
 ## 💡 Comentario del autor (Insight)
 
-A la hora de pedir un aumento, el mayor error que cometemos es hablar desde la necesidad personal ("necesito pagar la hipoteca") en lugar del valor de mercado. Este prompt cambia por completo las reglas del juego. Al usarlo, te posicionas no como un empleado pidiendo un favor, sino como un profesional informando a la empresa sobre una desalineación con el mercado.
+A la hora de pedir un aumento, el mayor error que solemos cometer es argumentar desde la necesidad personal ("necesito pagar la hipoteca" o "ha subido el costo de la vida") en lugar de basarnos en nuestro valor real de mercado. Este prompt cambia por completo las reglas del juego. Al utilizarlo, dejas de posicionarte como un empleado que pide un favor y te conviertes en un profesional que informa a la empresa sobre una evidente desalineación con los estándares del mercado.
 
-**Consejo Pro:** Ejecuta este prompt utilizando un modelo con acceso a internet en tiempo real (como Perplexity o GPT-4 con búsqueda web) para asegurar que los datos no estén desactualizados por la inflación reciente. Si la IA te arroja un rango muy amplio, ajusta el prompt añadiendo habilidades específicas (ej. "Experto en AWS y Kubernetes").
+**Consejo Pro:** Ejecuta este prompt utilizando un modelo que tenga acceso a internet en tiempo real (como Perplexity o GPT-4 con búsqueda web) para asegurarte de que los datos no estén desactualizados debido a la inflación reciente o a cambios en tu sector. Si la IA te devuelve un rango salarial demasiado amplio, ajusta el prompt añadiendo habilidades técnicas específicas de tu perfil (por ejemplo: `[Experto en AWS y Kubernetes]`). Esto afinará la búsqueda y te dará cifras mucho más precisas.
 
 ---
 
 ## 🙋 Preguntas frecuentes (FAQ)
 
 - **Q: ¿Los datos que arroja la IA son 100% exactos?**
-  - A: Los datos son estimaciones basadas en agregados públicos. Te darán un rango excelente para negociar, pero siempre es recomendable cruzarlos con ofertas de trabajo reales en LinkedIn o hablando con reclutadores (headhunters).
+  - A: Los datos son estimaciones basadas en agregados públicos. Te proporcionarán un rango excelente y sólido para negociar, pero siempre es muy recomendable cruzarlos con ofertas de trabajo reales publicadas en LinkedIn o consultando directamente con reclutadores (headhunters).
 
-- **Q: ¿Qué hago si descubro que estoy cobrando muy por debajo del mercado, pero mi empresa dice que no hay presupuesto?**
-  - A: Si tienes los datos objetivos y la empresa se niega a ajustarse al mercado, ese es el indicador más claro de que es momento de actualizar tu CV. Utiliza este mismo rango salarial como tu expectativa base para tus próximas entrevistas.
+- **Q: ¿Qué hago si descubro que estoy cobrando muy por debajo del mercado, pero mi empresa afirma que no hay presupuesto?**
+  - A: Si presentas datos objetivos y la empresa se niega en rotundo a ajustarse a la realidad del mercado, ese es el indicador más claro de que ha llegado el momento de actualizar tu currículum. Utiliza este mismo rango salarial investigado como tu expectativa base innegociable para tus próximas entrevistas.
 
 ---
 
 ## 🧬 Anatomía del Prompt (Why it works?)
 
-1. **Role (Rol):** Al asignar el rol de "consultor experto en compensación", la IA adopta un tono analítico, objetivo y estratégico, alejándose de consejos vagos.
-2. **Context (Contexto estructurado):** Proporcionar la ubicación y el sector es vital; el salario de un desarrollador en una startup no es el mismo que en un banco tradicional, incluso en la misma ciudad.
-3. **Task (Datos desglosados):** Pedir los percentiles (Bajo/Mediana/Alto) te permite ubicarte exactamente en la curva salarial y saber cuánto margen de maniobra tienes.
+1. **Role (Rol):** Al asignarle el rol de "consultor experto en compensación", la IA adopta automáticamente un tono analítico, objetivo y estratégico, alejándose por completo de consejos vagos o motivacionales sin fundamento.
+2. **Context (Contexto estructurado):** Proporcionar la ubicación y el sector exactos es absolutamente vital; el salario de un desarrollador en una pequeña startup no es el mismo que en un banco tradicional consolidado, incluso si ambos operan en la misma ciudad.
+3. **Task (Datos desglosados):** Exigir los percentiles (Bajo/Mediana/Alto) te permite ubicarte con exactitud en la curva salarial actual y descubrir cuánto margen real de maniobra tienes durante la negociación.
 
 ---
 
@@ -128,6 +128,6 @@ Considerando mis resultados sobresalientes en el último trimestre, me gustaría
 
 ## 🎯 Conclusión
 
-La información es poder. **Conocer tu valor de mercado** es el primer y más importante paso para cualquier negociación salarial exitosa.
+La información es poder. **Conocer tu valor real de mercado** es el primer y más importante paso para llevar a cabo cualquier negociación salarial exitosa.
 
-No adivines tu salario, **analízalo**. 📊 ¡Mucho éxito en tu próxima evaluación!
+No intentes adivinar tu salario, **analízalo**. 📊 ¡Mucho éxito en tu próxima evaluación de desempeño!

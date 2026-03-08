@@ -9,7 +9,7 @@ description: "Descubre Fluorite, el motor gráfico de Toyota que eleva Flutter a
 tags: ["Toyota", "Flutter", "Game Engine", "Fluorite"]
 ---
 
-# 📝 Toyota Fluorite: El motor gráfico de Flutter con calidad de consola
+## 📝 Toyota Fluorite: El motor gráfico de Flutter con calidad de consola
 
 - **🎯 Público objetivo:** Desarrolladores de Flutter, ingenieros de interfaces automotrices, creadores de videojuegos
 - **⏱️ Tiempo ahorrado:** De horas de investigación a solo 1 minuto
@@ -21,7 +21,9 @@ tags: ["Toyota", "Flutter", "Game Engine", "Fluorite"]
 
 > _"¿Pensabas que Flutter solo servía para hacer apps móviles del montón? Toyota acaba de patear el tablero: gráficos con calidad de consola que miran de tú a tú a gigantes como Unity y Unreal."_
 
-Desarrollar interfaces de usuario para vehículos (HMI) o integrar experiencias 3D fluidas en aplicaciones multiplataforma siempre ha sido un auténtico dolor de cabeza. Históricamente, si querías gráficos potentes sin sacrificar el rendimiento ni disparar la latencia, estabas obligado a abandonar tu ecosistema habitual y saltar a motores pesados como Unity o Unreal. Esto implicaba lidiar con puentes de comunicación inestables, bundles gigantescos y una curva de aprendizaje que devoraba semanas de desarrollo. Sorprendentemente, Toyota decidió no pasar por ese aro. En su lugar, han creado **Fluorite**: un motor de renderizado 3D brutal, nativo y construido íntegramente sobre Flutter. Este artículo y el prompt que lo acompaña desentrañan los secretos de esta proeza arquitectónica. En cuestión de segundos, la IA te revelará cómo aplicar estos mismos patrones de alto rendimiento en tus propios proyectos, permitiéndote integrar experiencias 3D complejas sin abandonar la comodidad de Dart.
+Desarrollar interfaces de usuario para vehículos (HMI) o integrar experiencias 3D fluidas en aplicaciones multiplataforma siempre ha sido un auténtico dolor de cabeza. Históricamente, si querías gráficos potentes sin sacrificar el rendimiento ni disparar la latencia, estabas obligado a abandonar tu ecosistema habitual y saltar a motores pesados como Unity o Unreal. Esto implicaba lidiar con puentes de comunicación inestables, *bundles* gigantescos y una curva de aprendizaje que devoraba semanas de desarrollo. 
+
+Sorprendentemente, Toyota decidió no pasar por ese aro. En su lugar, han creado **Fluorite**: un motor de renderizado 3D brutal, nativo y construido íntegramente sobre Flutter. Este artículo y el *prompt* que lo acompaña desentrañan los secretos de esta proeza arquitectónica. En cuestión de segundos, la IA te revelará cómo aplicar estos mismos patrones de alto rendimiento en tus propios proyectos, permitiéndote integrar experiencias 3D complejas sin abandonar la comodidad de Dart.
 
 ---
 
@@ -39,14 +41,15 @@ Desarrollar interfaces de usuario para vehículos (HMI) o integrar experiencias 
 
 Úsala cuando necesites un resumen rápido y directo para entender de qué va esta tecnología.
 
-> **Rol:** Eres un `[Ingeniero de software senior]`.
+> **Rol:** Eres un `[Ingeniero de Software Senior]`.
+>
 > **Tarea:** Explícame de forma clara y al grano qué es el motor de juegos `[Toyota Fluorite]` en Flutter, y dame 3 ejemplos prácticos de cómo podría revolucionar la industria del desarrollo de aplicaciones.
 
 ### 🥇 Pro Version (Versión profesional)
 
 Úsala para realizar un análisis profundo y extraer patrones arquitectónicos de alto nivel para tus propios proyectos.
 
-> **Rol (Role):** Eres un `[Arquitecto de sistemas de alto rendimiento]` experto en Flutter, Dart y programación gráfica (Impeller, Vulkan, Metal).
+> **Rol (Role):** Eres un `[Arquitecto de Sistemas de Alto Rendimiento]` experto en Flutter, Dart y programación gráfica (Impeller, Vulkan, Metal).
 >
 > **Contexto (Context):**
 >
@@ -72,14 +75,14 @@ Desarrollar interfaces de usuario para vehículos (HMI) o integrar experiencias 
 
 ## 💡 Comentario del autor (Insight)
 
-Como desarrollador, ver a un titán de la automoción apostar todas sus fichas por Flutter es una validación bestial. Fluorite demuestra empíricamente que Flutter ya no es solo para "dibujar botoncitos"; con su motor Impeller, es capaz de tragar cargas gráficas extremas y escupir 60 o 120 fps estables sin despeinarse. Este prompt es un auténtico salvavidas cuando te toca redactar un RFC (Request for Comments) o necesitas convencer a los stakeholders, tanto técnicos como de negocio, de que tu equipo no necesita comerse la curva de aprendizaje de Unity para integrar una experiencia 3D en la app. Te dará los argumentos de peso y la base arquitectónica para defender tu elección tecnológica con absoluta seguridad.
+Como desarrollador, ver a un titán de la automoción apostar todas sus fichas por Flutter es una validación bestial. Fluorite demuestra empíricamente que Flutter ya no es solo para "dibujar botoncitos"; con su motor Impeller, es capaz de tragar cargas gráficas extremas y escupir 60 o 120 fps estables sin despeinarse. Este *prompt* es un auténtico salvavidas cuando te toca redactar un RFC (*Request for Comments*) o necesitas convencer a los *stakeholders*, tanto técnicos como de negocio, de que tu equipo no necesita comerse la curva de aprendizaje de Unity para integrar una experiencia 3D en la app. Te dará los argumentos de peso y la base arquitectónica para defender tu elección tecnológica con absoluta seguridad.
 
 ---
 
 ## 🙋 Preguntas frecuentes (FAQ)
 
 - **P: ¿Puedo usar este prompt para analizar otros motores de Flutter como Flame?**
-  - R: ¡Por supuesto! Solo tienes que cambiar la variable `[Toyota Fluorite]` por `[Motor Flame]` y ajustar un poco el contexto. Al mantener el rol de "Arquitecto de sistemas", la IA garantizará un análisis técnico con el mismo nivel de profundidad y rigor.
+  - R: ¡Por supuesto! Solo tienes que cambiar la variable `[Toyota Fluorite]` por `[Motor Flame]` y ajustar un poco el contexto. Al mantener el rol de "Arquitecto de Sistemas", la IA garantizará un análisis técnico con el mismo nivel de profundidad y rigor.
 
 - **P: ¿Por qué obligar a la IA a generar una tabla comparativa con Unity o Unreal?**
   - R: Porque en el mundo corporativo real, cualquier intento de adoptar una tecnología 3D basada en Flutter será cuestionado de inmediato frente a los líderes del mercado. Esta tabla te proporciona el arsenal de datos objetivos que necesitas para ganar esa discusión técnica y justificar tu decisión.
@@ -88,7 +91,7 @@ Como desarrollador, ver a un titán de la automoción apostar todas sus fichas p
 
 ## 🧬 Anatomía del prompt (Why it works?)
 
-1. **Juego de roles experto (Role Playing):** Al asignarle el rol de "Arquitecto de sistemas de alto rendimiento", forzamos a la IA a abandonar el tono divulgativo para novatos y adoptar una jerga estrictamente analítica, técnica y profesional.
+1. **Juego de roles experto (Role Playing):** Al asignarle el rol de "Arquitecto de Sistemas de Alto Rendimiento", forzamos a la IA a abandonar el tono divulgativo para novatos y adoptar una jerga estrictamente analítica, técnica y profesional.
 2. **Contexto blindado:** Definir con precisión quirúrgica los "Antecedentes" y el "Objetivo" evita que el modelo divague contándote la historia corporativa de Toyota. Lo obliga a ir directo al grano: evaluar y aplicar la tecnología desde una perspectiva arquitectónica.
 3. **Freno de alucinaciones (Warning):** Al prohibir de forma explícita las suposiciones sobre código cerrado, garantizamos que la IA construya sus argumentos basándose únicamente en la arquitectura pública de Flutter (Impeller/FFI), generando resultados realistas y verificables.
 

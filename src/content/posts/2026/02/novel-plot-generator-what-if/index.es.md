@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creación y Aficiones"
-description: "Un prompt de lluvia de ideas que genera giros narrativos ingeniosos a partir de un simple «¿Y si...?» para superar el temido bloqueo del escritor."
+description: "Supera el temido bloqueo del escritor con este prompt que genera giros narrativos ingeniosos e inesperados a partir de un simple «¿Y si...?»."
 tags: ["EscribirNovela", "Trama", "Idea", "Creación"]
 ---
 
-# 📝 Generador de Tramas «¿Y si...?» para Superar el Bloqueo del Escritor
+## 📝 Generador de Tramas «¿Y si...?» para Superar el Bloqueo del Escritor
 
 - **🎯 Recomendado para:** Novelistas web, guionistas, escritores aficionados y creadores de contenido.
 - **⏱️ Tiempo requerido:** 5 minutos → Reducido a 1 minuto
@@ -35,14 +35,15 @@ Al escribir una novela o un guion, toparse de bruces contra un muro invisible es
 
 ## 🚀 La solución: «Extensor infinito de tramas»
 
-### 🥉 Basic Version (Versión básica)
+### 🥉 Versión básica (Basic Version)
 
 Úsala cuando necesites una ráfaga rápida de ideas sin tener que redactar un contexto interminable.
 
 > **Rol:** Eres un exitoso autor de novelas web y un consultor experto en el desarrollo de tramas.
+>
 > **Solicitud:** Mi historia está estancada. El protagonista acaba de descubrir que su mentor es en realidad el villano. Dame 3 giros narrativos inesperados utilizando la estructura «¿Y si...?».
 
-### 🥇 Pro Version (Versión experta)
+### 🥇 Versión experta (Pro Version)
 
 Úsala cuando busques un desarrollo narrativo de alta calidad, coherente con la construcción de tu mundo (worldbuilding) y diseñado para atrapar al lector sin remedio.
 
@@ -73,7 +74,7 @@ Al escribir una novela o un guion, toparse de bruces contra un muro invisible es
 
 ## 💡 Comentarios del autor (Insight)
 
-Este prompt es un auténtico salvavidas para cualquier autor asfixiado por la página en blanco. Por mi propia experiencia en las trincheras de la escritura, sé que cuando nos bloqueamos, el verdadero problema rara vez es la falta de ideas, sino el pánico paralizante a elegir la «ruta equivocada» y arruinar la historia. Al obligar a la IA a desplegar múltiples ramas narrativas y auditar de antemano los riesgos de verosimilitud de cada una, aligeras drásticamente tu carga cognitiva. En particular, la exigencia de anticipar la «Reacción del lector» es una pieza clave para mantener un enfoque comercial sólido —algo vital en el despiadado mercado de las novelas web—, garantizando que el próximo capítulo culmine en un _cliffhanger_ de manual que impida al lector soltar el libro. Te recomiendo encarecidamente que uses Claude 3.5 Sonnet para este ejercicio; su asombrosa sensibilidad para captar los matices literarios y respetar el arco psicológico de los personajes está a años luz del resto de modelos actuales.
+Este prompt es un auténtico salvavidas para cualquier autor asfixiado por la página en blanco. Por mi propia experiencia en las trincheras de la escritura, sé que cuando nos bloqueamos, el verdadero problema rara vez es la falta de ideas, sino el pánico paralizante a elegir la «ruta equivocada» y arruinar la historia. Al obligar a la IA a desplegar múltiples ramas narrativas y auditar de antemano los riesgos de verosimilitud de cada una, aligeras drásticamente tu **carga cognitiva**. En particular, la exigencia de anticipar la **reacción del lector** es una pieza clave para mantener un enfoque comercial sólido —algo vital en el despiadado mercado de las novelas web—, garantizando que el próximo capítulo culmine en un _**cliffhanger**_ de manual que impida al lector soltar el libro. Te recomiendo encarecidamente que uses **Claude 3.5 Sonnet** para este ejercicio; su asombrosa sensibilidad para captar los matices literarios y respetar el arco psicológico de los personajes está a años luz del resto de modelos actuales.
 
 ---
 

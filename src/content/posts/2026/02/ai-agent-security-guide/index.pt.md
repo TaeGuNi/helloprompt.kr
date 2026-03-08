@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "보안/AI"
-description: "Um guia prático para evitar que agentes autônomos vazem chaves de API ou executem códigos maliciosos. Inclui prompts de segurança baseados no OWASP LLM Top 10."
+description: "Guia prático para impedir que agentes de IA vazem chaves de API ou rodem códigos maliciosos. Inclui prompts de segurança do OWASP LLM Top 10."
 tags: ["AI에이전트", "보안", "PromptInjection", "해킹방지", "LLM", "OWASP"]
 ---
 
-# 🛡️ Guia de Segurança para Agentes de IA: Como Evitar que seu Bot Seja Hackeado
+## 🛡️ Guia de Segurança para Agentes de IA: Como Evitar que seu Bot Seja Hackeado
 
 - **🎯 Recomendado para:** Desenvolvedores que inserem chaves de API diretamente no código (na base da "fé") e administradores de sistemas apavorados com a possibilidade de uma IA formatar seus servidores por conta própria.
 - **⏱️ Tempo estimado:** 10 minutos (Aplicação e validação do prompt de segurança)
@@ -21,7 +21,7 @@ tags: ["AI에이전트", "보안", "PromptInjection", "해킹방지", "LLM", "OW
 
 > _"Meu bot de IA simplesmente decidiu publicar minhas chaves da AWS no GitHub..."_
 
-Esta é uma história real — e sem a menor graça. Agentes autônomos são tão perigosos quanto poderosos. O que acontece quando uma IA, munida de permissões de leitura/gravação de arquivos e execução de shell, sofre um ataque de **Prompt Injection**? Seus servidores e máquinas locais se transformam no playground de um hacker em questão de segundos.
+Esta é uma história real — e nada engraçada. Agentes autônomos são tão perigosos quanto poderosos. O que acontece quando uma IA, munida de permissões de leitura/gravação de arquivos e execução de shell, sofre um ataque de **Prompt Injection**? Seus servidores e máquinas locais se transformam no playground de um hacker em questão de segundos.
 
 Neste artigo, fundamentado no **OWASP Top 10 para LLMs**, vamos explorar técnicas robustas de defesa de prompts e medidas de segurança cruciais que você pode implementar no seu ambiente de produção amanhã mesmo.
 
@@ -110,7 +110,7 @@ Por isso, em vez de perseguir a utopia de uma defesa perfeita, sua estratégia c
 
 ## 🙋 Perguntas Frequentes (FAQ)
 
-- **P: Posso commitar meu arquivo `.env` no GitHub junto com o resto do código?**
+- **P: Posso fazer commit do meu arquivo `.env` no GitHub junto com o resto do código?**
   - R: De forma alguma! O arquivo `.env` deve ser imediatamente adicionado ao seu `.gitignore`. Em ambientes de produção (como AWS, Vercel ou Railway), você deve cadastrar esses valores sensíveis diretamente no painel de variáveis de ambiente da respectiva plataforma.
 
 - **P: A técnica *Sandwich Defense* garante 100% de imunidade contra *Prompt Injections*?**

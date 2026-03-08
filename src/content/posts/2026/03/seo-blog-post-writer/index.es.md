@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: " "
-description: "El prompt definitivo de redacción SEO para marketers y creadores de contenido. Transforma 3 horas de bloqueo mental en un artículo posicionado en 5 minutos con solo copiar y pegar."
+description: "El prompt definitivo de redacción SEO. Transforma 3 horas de bloqueo mental en un artículo posicionado en la primera página en solo 5 minutos."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "seo-blog-post-w"]
 ---
 
-# 🚀 Pase Directo al Top de Google: Prompt de Automatización de Blogs SEO para Marketers
+## 🚀 Pase Directo al Top de Google: Prompt de Automatización de Blogs SEO para Marketers
 
 - **🎯 Recomendado para:** Marketers de contenidos (1-3 años de experiencia), mánagers de blogs, estrategas digitales.
 - **⏱️ Tiempo de ejecución:** De 3 horas de agonía a solo 5 minutos.
@@ -84,7 +84,7 @@ Despliégala cuando el campo de batalla exija una optimización SEO milimétrica
 
 El verdadero superpoder de este prompt no reside en la redacción en sí, sino en su implacable capacidad para "imponer estructura". Si cometes el error de novato de pedirle a la IA que simplemente "escriba un post", te vomitará un muro de texto interminable y denso. ¿El resultado? Los rastreadores de Google huirán espantados y tus lectores cerrarán la pestaña en dos segundos. El algoritmo premia el contenido quirúrgicamente jerarquizado (H1, H2, H3) y altamente escaneable.
 
-En las trincheras del día a día, implementar este prompt ha metamorfoseado mi flujo de trabajo: ahora mi única tarea consiste en podar un par de frases que suenan "demasiado a IA" e inyectar en las venas del texto datos propios y casos de éxito reales de nuestra agencia. **Grabate esto a fuego:** jamás copies y pegues el 100% del resultado. Añadir tu fricción humana —una anécdota de un fracaso previo, un pantallazo real, una opinión impopular— es el blindaje definitivo contra la penalización por "contenido automatizado". Úsalo bien, despídete de las horas extra y recupera tus tardes.
+En las trincheras del día a día, implementar este prompt ha metamorfoseado mi flujo de trabajo: ahora mi única tarea consiste en podar un par de frases que suenan "demasiado a IA" e inyectar en las venas del texto datos propios y casos de éxito reales de nuestra agencia. **Grábate esto a fuego:** jamás copies y pegues el 100% del resultado. Añadir tu fricción humana —una anécdota de un fracaso previo, un pantallazo real, una opinión impopular— es el blindaje definitivo contra la penalización por "contenido automatizado". Úsalo bien, despídete de las horas extra y recupera tus tardes.
 
 ---
 

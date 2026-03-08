@@ -1,17 +1,17 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Estándar de Análisis Corporativo: Analizador FODA con IA\""
+title: "Estándar de Análisis Corporativo: Analizador FODA con IA"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanzas e Inversión"
-description: " \"Prompt para identificar de un vistazo las fortalezas, debilidades, oportunidades y amenazas de una empresa antes de invertir.\""
+description: "Prompt para identificar de un vistazo las fortalezas, debilidades, oportunidades y amenazas de una empresa antes de invertir."
 tags: ["Acciones", "AnálisisCorporativo", "FODA", "Estrategia"]
 ---
 
-# 📝 Estándar de Análisis Corporativo: Analizador FODA con IA
+## 📝 Estándar de Análisis Corporativo: Analizador FODA con IA
 
-- 🎯 **Recomendado para:** Inversores particulares, Analistas financieros junior, Estudiantes de finanzas
+- 🎯 **Recomendado para:** Inversores particulares, analistas financieros junior, estudiantes de finanzas
 - ⏱️ **Tiempo requerido:** 30 minutos → 1 minuto
 - 🤖 **Modelo recomendado:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini Advanced
 
@@ -21,33 +21,32 @@ tags: ["Acciones", "AnálisisCorporativo", "FODA", "Estrategia"]
 
 > _"Si inviertes guiándote solo por las buenas noticias, tu cartera está en peligro. ¿Conoces las verdaderas amenazas de la empresa que vas a comprar hoy?"_
 
-La herramienta más básica, pero a la vez más poderosa, para analizar una empresa es el análisis FODA (Fortalezas, Oportunidades, Debilidades y Amenazas). Sin embargo, recopilar, filtrar y estructurar los últimos informes financieros y noticias del mercado lleva demasiado tiempo. Si delegas esta tarea a la IA, obtendrás en segundos una matriz FODA actualizada que refleja la situación real y los riesgos latentes de la empresa, permitiéndote tomar decisiones informadas sin sesgos emocionales.
+La herramienta más básica, pero a la vez más poderosa, para analizar una empresa es el análisis FODA (fortalezas, oportunidades, debilidades y amenazas). Sin embargo, recopilar, filtrar y estructurar los últimos informes financieros y noticias del mercado lleva demasiado tiempo. Al delegar esta tarea a la IA, obtendrás en segundos una matriz FODA actualizada que refleja la situación real y los riesgos latentes de la empresa, lo que te permitirá tomar decisiones informadas y libres de sesgos emocionales.
 
 ---
 
 ## ⚡️ Resumen en 3 líneas (TL;DR)
 
-1. **Análisis Integral:** Evalúa tanto los factores internos (Fortalezas/Debilidades) como los externos (Oportunidades/Amenazas) de la empresa objetivo.
-2. **Contexto Actualizado:** Obliga a la IA a basarse en los eventos y problemas del mercado del último año para evitar análisis obsoletos.
-3. **Decisión Estratégica:** Extrae una conclusión clara ("Punto Clave de Observación") para guiar de forma práctica tu decisión de inversión.
+1. **Análisis integral:** Evalúa tanto los factores internos (fortalezas/debilidades) como los externos (oportunidades/amenazas) de la empresa objetivo.
+2. **Contexto actualizado:** Obliga a la IA a basarse en los eventos y problemas del mercado del último año para evitar análisis obsoletos.
+3. **Decisión estratégica:** Extrae una conclusión clara ("Punto clave de observación") para guiar de forma práctica tu decisión de inversión.
 
 ---
 
-## 🚀 La Solución: "Escáner Corporativo FODA"
+## 🚀 La solución: "Escáner corporativo FODA"
 
 ### 🥉 Versión Básica (Basic Version)
 
 Úsala cuando necesites un panorama general rápido desde tu móvil antes de que abra el mercado.
 
-> **Rol:** Eres un Consultor de Estrategia Financiera.
-> **Solicitud:** Haz un análisis FODA rápido de la empresa `[Nombre de la Empresa]`, destacando los puntos más críticos que un inversor debe conocer hoy.
-
+> **Rol:** Eres un consultor de estrategia financiera.
+> **Solicitud:** Haz un análisis FODA rápido de la empresa `[Nombre de la empresa]`, destacando los puntos más críticos que un inversor debe conocer hoy.
 
 ### 🥇 Versión Pro (Pro Version)
 
 Úsala para obtener un desglose detallado y estructurado, digno de un informe de analista de Wall Street.
 
-> **Rol (Role):** Eres un `[Consultor de Estrategia y Analista de Renta Variable]` Senior en una firma de consultoría de gestión de primer nivel.
+> **Rol (Role):** Eres un `[Consultor de estrategia y analista de renta variable]` senior en una firma de consultoría de gestión de primer nivel.
 >
 > **Contexto (Context):**
 >
@@ -56,13 +55,13 @@ La herramienta más básica, pero a la vez más poderosa, para analizar una empr
 >
 > **Solicitud (Task):**
 >
-> 1. Realiza un **Análisis FODA** exhaustivo sobre la empresa.
->    - **Fortalezas (Strengths):** Ventajas competitivas y fosos económicos (Moats) frente a sus rivales.
+> 1. Realiza un **análisis FODA** exhaustivo sobre la empresa.
+>    - **Fortalezas (Strengths):** Ventajas competitivas y fosos económicos frente a sus rivales.
 >    - **Debilidades (Weaknesses):** Vulnerabilidades internas, cuellos de botella operativos o financieros.
 >    - **Oportunidades (Opportunities):** Catalizadores de crecimiento, expansión de mercado o nuevas líneas de ingresos.
 >    - **Amenazas (Threats):** Riesgos macroeconómicos, cambios regulatorios o competencia disruptiva.
-> 2. Organiza los resultados del análisis en una **Tabla Markdown** limpia y profesional.
-> 3. Sintetizando los resultados FODA, redacta una oración contundente de **'Punto Clave de Observación'** que todo inversor debe monitorear de cerca antes de comprar.
+> 2. Organiza los resultados del análisis en una **tabla Markdown** limpia y profesional.
+> 3. Sintetizando los resultados FODA, redacta una oración contundente de **'Punto clave de observación'** que todo inversor debe monitorear de cerca antes de comprar.
 >
 > **Restricciones (Constraints):**
 >
@@ -75,37 +74,37 @@ La herramienta más básica, pero a la vez más poderosa, para analizar una empr
 
 ---
 
-## 💡 Comentario del Autor (Insight)
+## 💡 Comentario del autor (Insight)
 
-El verdadero valor de este prompt no reside en saber a qué se dedica la empresa (eso lo dice Wikipedia), sino en **sistematizar el descubrimiento de riesgos (Debilidades y Amenazas)**. Los inversores novatos suelen sufrir del "sesgo de confirmación", buscando solo noticias positivas sobre la acción que ya decidieron comprar. Al forzar a la IA a estructurar el análisis en un FODA con la estricta condición de usar "datos del último año", te obligas a mirar las áreas oscuras del negocio —como huelgas sindicales, pérdida de cuota de mercado en regiones clave o nuevas regulaciones tarifarias— antes de presionar el botón de compra. Es literalmente como tener a un "abogado del diablo" financiero a tu disposición 24/7.
+El verdadero valor de este prompt no reside en saber a qué se dedica la empresa (eso ya lo dice Wikipedia), sino en **sistematizar el descubrimiento de riesgos (debilidades y amenazas)**. Los inversores novatos suelen sufrir del "sesgo de confirmación", buscando únicamente noticias positivas sobre la acción que ya decidieron comprar. Al forzar a la IA a estructurar el análisis en un FODA con la estricta condición de usar "datos del último año", te obligas a mirar las áreas oscuras del negocio —como huelgas sindicales, pérdida de cuota de mercado en regiones clave o nuevas regulaciones arancelarias— antes de presionar el botón de compra. Es, literalmente, como tener a un "abogado del diablo" financiero a tu disposición 24/7.
 
 ---
 
-## 🙋 Preguntas Frecuentes (FAQ)
+## 🙋 Preguntas frecuentes (FAQ)
 
 - **Q: ¿La IA tiene acceso a datos financieros en tiempo real?**
   - A: Depende del modelo. ChatGPT (con búsqueda web activada), Perplexity o Claude pueden buscar noticias recientes en tiempo real. Si usas un modelo sin conexión a internet, la información estará limitada a su fecha de corte de conocimiento. Para análisis de inversiones, siempre recomendamos usar modelos con acceso a la web.
 
 - **Q: ¿Puedo usar este prompt para analizar criptomonedas o ETFs?**
-  - A: ¡Absolutamente! Solo cambia el `[Nombre de la Empresa]` por el nombre del proyecto cripto (ej. `[Ethereum]`) o el ticker del ETF. El marco lógico de evaluar Fortalezas y Amenazas funciona igual de bien para auditar la adopción de una red blockchain o la exposición sectorial de un fondo.
+  - A: ¡Absolutamente! Solo cambia el `[Nombre de la empresa]` por el nombre del proyecto cripto (ej., `[Ethereum]`) o el ticker del ETF. El marco lógico de evaluar fortalezas y amenazas funciona igual de bien para auditar la adopción de una red blockchain o la exposición sectorial de un fondo.
 
 - **Q: ¿Qué hago si los resultados que me da la IA son muy genéricos?**
   - A: Añade más contexto específico en la sección de "Fondo" del prompt. En lugar de poner solo el nombre de la empresa, incluye un evento reciente que te preocupe. Ejemplo: `[Hyundai Motor, enfocándote especialmente en el impacto de la reciente huelga sindical y su cuota de mercado en vehículos eléctricos en EE. UU.]`.
 
 ---
 
-## 🧬 Anatomía del Prompt (Why it works?)
+## 🧬 Anatomía del prompt (Why it works?)
 
-1. **Rol de Analista Senior:** Al asignar el rol de consultor y analista de renta variable, la IA ajusta su tono y vocabulario para usar terminología financiera profesional (ventajas competitivas, fosos económicos, catalizadores).
-2. **Definiciones Estrictas:** No solo pedimos un "FODA", sino que definimos qué significa exactamente cada cuadrante para nosotros (ej. Oportunidades = Catalizadores de crecimiento). Esto evita respuestas ambiguas y teóricas.
-3. **Restricción Temporal (12 meses):** Obliga al modelo a priorizar la relevancia actual, filtrando la historia antigua de la empresa para centrarse en los catalizadores y riesgos de hoy.
-4. **Punto Clave (Bottom Line):** La instrucción de resumir todo en una sola oración fuerza a la IA a ponderar qué factor (positivo o negativo) tiene realmente más peso en la valoración actual de las acciones.
+1. **Rol de analista senior:** Al asignar el rol de consultor y analista de renta variable, la IA ajusta su tono y vocabulario para usar terminología financiera profesional (ventajas competitivas, fosos económicos, catalizadores).
+2. **Definiciones estrictas:** No solo pedimos un "FODA", sino que definimos qué significa exactamente cada cuadrante para nosotros (ej., oportunidades = catalizadores de crecimiento). Esto evita respuestas ambiguas y teóricas.
+3. **Restricción temporal (12 meses):** Obliga al modelo a priorizar la relevancia actual, filtrando la historia antigua de la empresa para centrarse en los catalizadores y riesgos de hoy.
+4. **Punto clave (Bottom Line):** La instrucción de resumir todo en una sola oración fuerza a la IA a ponderar qué factor (positivo o negativo) tiene realmente más peso en la valoración actual de las acciones.
 
 ---
 
 ## 📊 Prueba: Before & After
 
-### ❌ Before (Entrada Simple)
+### ❌ Before (Entrada simple)
 
 ```text
 Dime los pros y contras de comprar acciones de Hyundai Motor hoy.
@@ -113,7 +112,7 @@ Dime los pros y contras de comprar acciones de Hyundai Motor hoy.
 
 _(Resultado típico: Un texto largo y desordenado, mezclando la historia de la fundación de la empresa con opiniones genéricas sobre la industria automotriz, sin datos accionables)._
 
-### ✅ After (Usando la Versión Pro)
+### ✅ After (Usando la versión Pro)
 
 ```markdown
 ### 🚘 Análisis FODA Corporativo: Hyundai Motor
@@ -135,4 +134,4 @@ _(Resultado típico: Un texto largo y desordenado, mezclando la historia de la f
 
 Invertir sin conocer los riesgos es simplemente apostar a ciegas. Al utilizar este estructurado análisis FODA, dejas de depender de corazonadas y comienzas a evaluar las empresas con la frialdad y el rigor de un analista profesional. Descubre las amenazas ocultas antes de que el mercado las fije en el precio.
 
-¡Ahora sal del trabajo! 🍷
+¡Ahora, automatiza tu trabajo y sal a tu hora! 🍷

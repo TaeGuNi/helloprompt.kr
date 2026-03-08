@@ -1,15 +1,15 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Une Poignée de Pilules ? Combinaison de Suppléments Personnalisée par IA et Planificateur\""
+title: "Une Poignée de Pilules ? Combinaison de Suppléments Personnalisée par IA et Planificateur"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé"
-description: " \"Créez une routine de compléments optimale pour éviter les interactions et maximiser l'absorption grâce à l'IA.\""
+description: "Créez une routine de compléments optimale pour éviter les interactions et maximiser l'absorption grâce à l'IA."
 tags: ["Suppléments", "Aliment Fonctionnel Santé", "Planificateur", "Santé"]
 ---
 
-# 📝 Une Poignée de Pilules ? Combinaison de Suppléments Personnalisée par IA et Planificateur
+## 📝 Une Poignée de Pilules ? Combinaison de Suppléments Personnalisée par IA et Planificateur
 
 - **🎯 Recommandé pour :** Toute personne prenant plusieurs compléments alimentaires, passionnés de santé
 - **⏱️ Temps requis :** 5 minutes → 1 minute
@@ -21,7 +21,7 @@ tags: ["Suppléments", "Aliment Fonctionnel Santé", "Planificateur", "Santé"]
 
 > _"Vous avalez des dizaines de pilules chaque jour, mais vous sentez-vous vraiment mieux ? La compatibilité de vos compléments est cruciale. Ne gardez que ce dont votre corps a réellement besoin."_
 
-Vitamines, Oméga-3, Probiotiques... Vous prenez tout ce qui est censé être bon pour la santé, mais sans en ressentir les bienfaits ? Le problème vient souvent du moment de la prise ou d'une mauvaise combinaison. Confiez l'analyse de votre pilulier à votre « pharmacien IA » personnel pour optimiser votre routine santé.
+Vitamines, oméga-3, probiotiques... Vous prenez tout ce qui est censé être bon pour la santé, mais sans en ressentir les véritables bienfaits ? Le problème vient souvent du moment de la prise ou d'une mauvaise combinaison. Confiez l'analyse de votre pilulier à votre « pharmacien IA » personnel pour optimiser votre routine santé.
 
 ---
 
@@ -42,7 +42,6 @@ Vitamines, Oméga-3, Probiotiques... Vous prenez tout ce qui est censé être bo
 > **Rôle :** Tu es un pharmacien expert en micronutrition.
 > **Requête :** J'aimerais que tu analyses mes compléments alimentaires pour créer une routine optimale qui évite les interactions négatives et maximise l'absorption.
 
-
 ### 🥇 Pro Version (Modèle expert)
 
 À utiliser pour une analyse approfondie, personnalisée selon vos symptômes.
@@ -54,11 +53,11 @@ Copiez le contenu du **PROMPT** ci-dessous et collez-le dans ChatGPT ou Claude.
 >
 > - Routine actuelle : Je prends `[Multivitamines, Probiotiques, Oméga-3, Magnésium, Vitamine C]`.
 > - Problème rencontré : `[J'ai souvent des brûlures d'estomac après la prise, et ma fatigue persiste l'après-midi]`.
-> - Objectif : Optimiser ma routine de compléments pour résoudre ces problèmes et maximiser les bienfaits.
+> - Objectif : Optimiser ma routine de compléments pour résoudre ces problèmes et en maximiser les bienfaits.
 >
 > **Tâche (Task) :**
 >
-> 1. Analyse la « compatibilité (interaction) » entre les compléments que je prends actuellement (ce qu'il faut éviter de mélanger, ce qui entre en synergie).
+> 1. Analyse la « compatibilité (interaction) » entre les compléments de ma routine actuelle (ce qu'il faut éviter de mélanger, ce qui entre en synergie).
 > 2. Identifie les éventuels chevauchements d'ingrédients et signale tout risque de surdosage.
 > 3. En tenant compte de mes symptômes (`[brûlures d'estomac]`), conçois le planning de prise quotidienne le plus efficace (matin à jeun / après le petit-déjeuner / déjeuner / dîner / avant le coucher).
 > 4. S'il existe un nutriment plus adapté à mes symptômes spécifiques (`[fatigue persistante]`), recommande-m'en un seul pour compléter ma routine.
@@ -66,18 +65,18 @@ Copiez le contenu du **PROMPT** ci-dessous et collez-le dans ChatGPT ou Claude.
 > **Contraintes (Constraints) :**
 >
 > - Explique les interactions avec des mots simples et accessibles, sans jargon médical complexe.
-> - Ne fais la promotion d'aucune marque spécifique. Utilise uniquement le nom des molécules et ingrédients actifs.
+> - Ne fais la promotion d'aucune marque spécifique. Utilise uniquement le nom des molécules et des principes actifs.
 > - Présente le planning final sous forme de tableau Markdown clair et lisible.
 >
 > **Avertissement (Warning) :**
 >
-> - Si tu n'es pas certain d'une interaction médicamenteuse, indique clairement que tu ne sais pas et recommande de consulter un médecin. Ne génère pas de fausses informations médicales.
+> - Si tu n'es pas certain d'une interaction médicamenteuse, indique clairement que tu ne sais pas et recommande de consulter un médecin. Ne génère aucune fausse information médicale.
 
 ---
 
 ## 💡 L'avis de l'Expert (Insight)
 
-En tant que personne consommant de multiples compléments, j'ai souvent commis l'erreur de prendre du fer et du calcium en même temps, annulant ainsi presque totalement leurs effets. L'avantage majeur de ce prompt réside dans sa capacité à croiser instantanément des dizaines de bases de données pharmacologiques. Il ne se contente pas de lister vos pilules ; il agit comme un véritable « architecte de la santé » en structurant votre prise selon la chronobiologie (ex: le magnésium le soir pour le sommeil, la vitamine C le matin). De plus, l'intégration de vos symptômes personnels permet à l'IA d'identifier si votre inconfort digestif est causé par un complément spécifique pris au mauvais moment.
+En tant que personne consommant de multiples compléments, j'ai souvent commis l'erreur de prendre du fer et du calcium en même temps, annulant ainsi presque totalement leurs effets. L'avantage majeur de ce prompt réside dans sa capacité à croiser instantanément des dizaines de bases de données pharmacologiques. Il ne se contente pas de lister vos pilules ; il agit comme un véritable **« architecte de la santé »** en structurant votre prise selon la chronobiologie (par exemple, le magnésium le soir pour le sommeil, la vitamine C le matin). De plus, l'intégration de vos symptômes personnels permet à l'IA d'identifier si votre inconfort digestif est causé par un complément spécifique pris au mauvais moment.
 
 ---
 
@@ -87,15 +86,15 @@ En tant que personne consommant de multiples compléments, j'ai souvent commis l
   - R : Absolument pas. Ce prompt est conçu pour optimiser l'absorption de compléments en vente libre (vitamines, minéraux). Si vous prenez des médicaments sur ordonnance (comme des anticoagulants ou des traitements pour la thyroïde), vous **devez** consulter votre médecin ou votre pharmacien, car l'IA pourrait manquer des interactions médicamenteuses critiques.
 
 - **Q : Dois-je fournir les dosages exacts (en mg ou UI) dans le prompt ?**
-  - R : Oui, c'est vivement recommandé ! Modifier la partie `[Routine actuelle]` pour inclure les dosages (ex: `[Vitamine C 1000mg, Vitamine D 4000 UI]`) permettra à l'IA de détecter avec précision les risques de surdosage, notamment pour les vitamines liposolubles (A, D, E, K).
+  - R : Oui, c'est vivement recommandé ! Modifier la partie `[Routine actuelle]` pour inclure les dosages (par exemple : `[Vitamine C 1000 mg, Vitamine D 4000 UI]`) permettra à l'IA de détecter avec précision les risques de surdosage, notamment pour les vitamines liposolubles (A, D, E, K).
 
 ---
 
 ## 🧬 Anatomie du Prompt (Pourquoi ça marche ?)
 
 1. **Expertise ciblée (Role) :** En attribuant le rôle de « pharmacien clinicien », nous forçons l'IA à adopter une approche scientifique basée sur la pharmacocinétique (l'étude de l'absorption des nutriments).
-2. **Prise en compte des symptômes (Context) :** Contrairement à une simple recherche Google, l'IA ajuste ses recommandations en fonction de vos effets secondaires réels (ex: déplacer un supplément irritant pour l'estomac après un repas copieux).
-3. **Sécurité d'abord (Warning) :** L'instruction stricte anti-hallucination garantit que l'IA ne prendra pas de risques avec votre santé si elle manque de données cliniques avérées.
+2. **Prise en compte des symptômes (Context) :** Contrairement à une simple recherche Google, l'IA ajuste ses recommandations en fonction de vos effets secondaires réels (par exemple, déplacer un supplément irritant pour l'estomac après un repas copieux).
+3. **Sécurité d'abord (Warning) :** L'instruction stricte anti-hallucination garantit que l'IA ne prendra aucun risque avec votre santé si elle manque de données cliniques avérées.
 
 ---
 
@@ -109,7 +108,7 @@ _(L'IA donne une réponse générique et superficielle, sans tenir compte des in
 
 ### ✅ Après (Avec notre Prompt Pro)
 
-> **Analyse des interactions :** Attention, le Calcium bloque l'absorption du Fer. Vous devez les espacer d'au moins 2 heures.
+> **Analyse des interactions :** Attention, le calcium bloque l'absorption du fer. Vous devez les espacer d'au moins 2 heures.
 >
 > **Planning recommandé :**
 > | Moment | Complément | Raison |

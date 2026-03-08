@@ -9,7 +9,7 @@ description: "Deixe a escrita tediosa e complexa de testes unitários para a IA 
 tags: ["Código de Teste", "TDD", "Jest", "PyTest", "QA"]
 ---
 
-# 📝 Como Escrever Códigos de Teste em Apenas 5 Minutos com Este Prompt
+## 📝 Como Escrever Códigos de Teste em Apenas 5 Minutos com Este Prompt
 
 - **🎯 Recomendado para:** Desenvolvedores, Engenheiros de QA e Tech Leads
 - **⏱️ Tempo necessário:** 5 minutos → Reduzido para 1 minuto
@@ -28,7 +28,7 @@ Qualquer desenvolvedor experiente sabe que testes automatizados atuam como a pri
 ## ⚡️ Resumo em 3 linhas (TL;DR)
 
 1. **Cobertura Exaustiva:** Vai muito além do cenário ideal (_Happy Path_), antecipando erros e mapeando _edge cases_ de forma 100% automatizada.
-2. **Sintaxe Nativa e Fluida:** Integra-se perfeitamente aos principais frameworks do mercado (como Jest, PyTest, JUnit), gerando código idiomático e pronto para rodar.
+2. **Sintaxe Nativa e Fluida:** Integra-se perfeitamente aos principais frameworks do mercado (como Jest, PyTest e JUnit), gerando código idiomático e pronto para rodar.
 3. **Automação Inteligente de Mocks:** Estrutura _mocks_ e _stubs_ para dependências externas de forma autônoma, poupando horas de configuração manual entediante.
 
 ---
@@ -77,7 +77,7 @@ Utilize esta versão para lógicas de negócios complexas que exigem injeção d
 
 A maior vantagem estratégica deste prompt não se resume apenas à velocidade de codificação, mas à sua incrível capacidade de **descobrir pontos cegos**. Muitas vezes, ao forçar a IA a elencar os cenários de teste _antes_ de gerar qualquer linha de código (conforme o passo 1 da Tarefa), ela acaba identificando _edge cases_ críticos — como valores nulos, arrays vazios ou limites numéricos perigosos — que nós, desenvolvedores, frequentemente deixamos passar despercebidos durante a construção da _feature_.
 
-Recomendo fortemente o uso de modelos mais avançados para essa tarefa (como o Claude 3.5 Sonnet ou GPT-4o), pois eles demonstram uma capacidade superior de criar _mocks_ precisos e perfeitamente alinhados às convenções da linguagem. Caso a função a ser testada dependa de integrações muito específicas ou _factories_ exclusivas do seu projeto, experimente fornecer um pequeno exemplo de como você costuma estruturar seus _mocks_ na base de código, inserindo essa referência diretamente na seção de Contexto.
+Recomendo fortemente o uso de modelos mais avançados para essa tarefa (como o Claude 3.5 Sonnet ou o GPT-4o), pois eles demonstram uma capacidade superior de criar _mocks_ precisos e perfeitamente alinhados às convenções da linguagem. Caso a função a ser testada dependa de integrações muito específicas ou _factories_ exclusivas do seu projeto, experimente fornecer um pequeno exemplo de como você costuma estruturar seus _mocks_ na base de código, inserindo essa referência diretamente na seção de Contexto do prompt.
 
 ---
 

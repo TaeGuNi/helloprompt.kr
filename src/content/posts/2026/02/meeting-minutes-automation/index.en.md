@@ -9,7 +9,7 @@ description: "A flawless workflow to automate tedious meeting minutes using Whis
 tags: ["MeetingMinutes", "Whisper", "ChatGPT", "Automation", "Productivity"]
 ---
 
-# 📝 Escape Meeting Hell: Recording to Minutes & Email in 3 Mins
+## 📝 Escape Meeting Hell: Recording to Minutes & Email in 3 Mins
 
 - **🎯 Recommended for:** Junior professionals suffering from typing fatigue, and managers who constantly ask, "Wait, what did we decide on?"
 - **⏱️ Time Required:** 30 minutes → 3 minutes (excluding the meeting itself)
@@ -79,9 +79,9 @@ Use this when you need to share official, structured meeting minutes with your t
 
 ## 💡 Writer's Insight
 
-This workflow fundamentally shifts your role in a meeting from a passive 'note-taker' to an active 'deal-maker'. In my experience, relying solely on human memory or manual typing inevitably leads to lost nuances and action items slipping through the cracks. Automating the transcription and leveraging a highly structured prompt instantly eliminates the cognitive load of untangling chaotic thoughts.
+This workflow fundamentally shifts your role in a meeting from a passive note-taker to an active deal-maker. In my experience, relying solely on human memory or manual typing inevitably leads to lost nuances and action items slipping through the cracks. Automating the transcription and leveraging a highly structured prompt instantly eliminates the cognitive load of untangling chaotic thoughts.
 
-**Pro Tip:** If the transcript is unusually long (e.g., a grueling 2-hour strategic planning session), use Claude 3.5 Sonnet or Gemini 1.5 Pro, as their massive context windows handle lengthy raw text dumps far better than standard models. Additionally, if you notice the AI hallucinating names due to poor audio quality, briefly prepend a list of attendees to the prompt (e.g., `Attendees: John (Marketing), Sarah (Dev)`).
+**Pro Tip:** If the transcript is unusually long (e.g., a grueling two-hour strategic planning session), use Claude 3.5 Sonnet or Gemini 1.5 Pro. Their massive context windows handle lengthy raw text dumps far better than standard models. Additionally, if you notice the AI hallucinating names due to poor audio quality, briefly prepend a list of attendees to the prompt (e.g., `Attendees: John (Marketing), Sarah (Dev)`).
 
 ---
 

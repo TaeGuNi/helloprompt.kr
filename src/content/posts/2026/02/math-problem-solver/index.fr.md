@@ -5,11 +5,11 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Maths/Sciences"
-description: " \"Fini les corrigés froids et expéditifs ! Voici un prompt conçu pour expliquer chaque étape de résolution mathématique avec la pédagogie d'un tuteur privé.\""
+description: "Fini les corrigés expéditifs ! Ce prompt explique chaque étape de vos résolutions mathématiques avec la pédagogie et la patience d'un tuteur privé."
 tags: ["ÉtudeMaths", "RésolutionProblèmes", "Prompt", "Tutorat"]
 ---
 
-# 📝 Sauveur des Maths : Explicateur de Problèmes de Maths Amical
+## 📝 Sauveur des Maths : Explicateur de Problèmes de Maths Amical
 
 - **🎯 Recommandé pour :** Étudiants, parents aidant aux devoirs, toute personne bloquée sur un problème
 - **⏱️ Temps requis :** 5 minutes → 1 minute
@@ -21,15 +21,15 @@ tags: ["ÉtudeMaths", "RésolutionProblèmes", "Prompt", "Tutorat"]
 
 > _"Le corrigé est tellement avare en explications... Je ne comprends pas comment on passe d'une étape à l'autre !"_
 
-La principale raison pour laquelle on abandonne les mathématiques n'est pas la difficulté du problème en soi, mais plutôt l'incapacité à comprendre les explications. Les corrigés classiques se contentent souvent d'un "Donc A=B" lapidaire, omettant les 10 lignes de raisonnement cruciales entre les deux. Ce prompt transforme l'IA en un véritable 'tuteur privé' ultra-pédagogue, capable de détailler chaque étape manquante avec clarté et patience.
+La principale cause de décrochage en mathématiques n'est pas la complexité des problèmes, mais l'opacité des explications. Les corrigés classiques se contentent trop souvent d'un « Donc A = B » lapidaire, omettant les dix lignes de raisonnement cruciales qui relient les deux équations. Ce prompt transforme l'IA en un véritable tuteur privé ultra-pédagogue, capable de détailler chaque étape manquante avec une clarté absolue et une patience infinie.
 
 ---
 
 ## ⚡️ Résumé en 3 lignes (TL;DR)
 
-1. Affiche le 'Fil de Pensée' (Chain of Thought) complet au lieu de simplement livrer la réponse finale.
-2. Explicite systématiquement les formules et les théorèmes utilisés à chaque étape entre parenthèses.
-3. Utilise des analogies simples et accessibles, compréhensibles même par un élève de primaire.
+1. Déploie l'intégralité du fil de pensée (*Chain of Thought*) au lieu de livrer brutalement la réponse finale.
+2. Explicite systématiquement les formules et les théorèmes appliqués à chaque étape entre parenthèses.
+3. Utilise des analogies simples et accessibles, compréhensibles même par un élève de l'école primaire.
 
 ---
 
@@ -39,15 +39,14 @@ La principale raison pour laquelle on abandonne les mathématiques n'est pas la 
 
 Utilisez cette version lorsque vous souhaitez un résultat rapide et direct.
 
-> **Rôle :** Tu es un `[Docteur en didactique des mathématiques et un tuteur privé très patient]`.
-> **Demande :** Au lieu de me donner un corrigé froid avec uniquement la bonne réponse, explique-moi ce problème de mathématiques étape par étape en détaillant tout ton processus de réflexion.
-
+> **Rôle :** Tu es un `[docteur en didactique des mathématiques et un tuteur privé extrêmement patient]`.
+> **Demande :** Au lieu de me donner un corrigé froid contenant uniquement la réponse finale, explique-moi ce problème de mathématiques étape par étape en détaillant l'intégralité de ton processus de réflexion.
 
 ### 🥇 Version Pro (Expert)
 
 Utilisez cette version pour obtenir des explications d'une précision et d'une pédagogie inégalées.
 
-> **Rôle (Role) :** Tu es un `[Docteur en didactique des mathématiques et un tuteur privé très patient]`.
+> **Rôle (Role) :** Tu es un `[docteur en didactique des mathématiques et un tuteur privé extrêmement patient]`.
 >
 > **Contexte (Context) :**
 >
@@ -58,13 +57,13 @@ Utilisez cette version pour obtenir des explications d'une précision et d'une p
 >
 > 1. Définis en premier lieu les **Concepts Clés et Formules** nécessaires à la résolution du problème.
 > 2. Décompose la résolution en **Étapes Logiques et Séquentielles** (Étape 1, Étape 2, etc.).
-> 3. À chaque fois qu'une formule est modifiée ou transformée, précise **quelle règle ou théorème a été appliqué** entre parenthèses (ex : Mise au carré des deux côtés, Théorème de Pythagore, etc.).
+> 3. À chaque fois qu'une formule est modifiée ou transformée, précise **quelle règle ou quel théorème a été appliqué** entre parenthèses (ex. : Mise au carré des deux côtés, Théorème de Pythagore, etc.).
 > 4. Termine par une **Vérification** rigoureuse pour prouver que le résultat est correct.
 >
 > **Contraintes (Constraints) :**
 >
 > - Utilise le formatage LaTeX pour afficher les formules mathématiques de manière propre et lisible.
-> - N'utilise jamais d'expressions condescendantes comme "Comme tu le sais évidemment" ou "Il est trivial que" (car justement, je ne le sais pas).
+> - N'utilise jamais d'expressions condescendantes telles que "Comme tu le sais évidemment" ou "Il est trivial que" (car justement, je ne le sais pas).
 >
 > **Problème :**
 > `[Insérez ici le problème mathématique que vous souhaitez résoudre]`
@@ -73,25 +72,25 @@ Utilisez cette version pour obtenir des explications d'une précision et d'une p
 
 ## 💡 Commentaire de l'Auteur (Insight)
 
-Ce prompt est redoutable car il s'attaque au cœur du problème de l'apprentissage des mathématiques : l'implicite. En forçant l'IA à adopter le rôle d'un pédagogue patient et à expliciter chaque transformation algébrique, vous transformez un simple outil de calcul en un véritable compagnon d'étude. C'est particulièrement utile pour les parents qui souhaitent aider leurs enfants mais qui ont oublié les méthodes scolaires exactes. Si l'IA utilise une méthode que vous n'avez pas apprise en classe, n'hésitez pas à ajouter une contrainte du type : _"Résous ce problème en utilisant uniquement la méthode de substitution"_.
+Ce prompt est d'une efficacité redoutable car il s'attaque au cœur même du problème de l'apprentissage des mathématiques : l'implicite. En forçant l'IA à endosser le rôle d'un pédagogue patient et à justifier chaque transformation algébrique, vous convertissez un simple calculateur en un véritable compagnon d'étude. Cette approche s'avère particulièrement précieuse pour les parents désireux d'accompagner leurs enfants, mais qui auraient oublié les méthodes scolaires exactes. Si l'IA emploie une technique que vous n'avez pas abordée en cours, n'hésitez pas à lui imposer une contrainte supplémentaire, comme par exemple : _"Résous ce problème en utilisant exclusivement la méthode par substitution"_.
 
 ---
 
 ## 🙋 Foire Aux Questions (FAQ)
 
 - **Q : Est-ce que ça fonctionne avec des problèmes de géométrie complexes ?**
-  - R : Oui, mais l'IA ne peut pas tracer de figures directement de manière fiable. Pour la géométrie, demandez-lui de décrire les étapes de construction ou de détailler l'application des théorèmes (comme Thalès ou Pythagore) en vous basant sur les données de votre énoncé.
+  - R : Absolument, mais gardez à l'esprit que l'IA ne peut pas tracer directement de figures géométriques de manière fiable. Pour la géométrie, demandez-lui de décrire minutieusement les étapes de construction ou de détailler l'application des théorèmes (comme Thalès ou Pythagore) en se basant strictement sur les données de votre énoncé.
 
 - **Q : Que faire si l'IA se trompe dans le calcul ? (Hallucination)**
-  - R : Bien que les modèles récents soient excellents en logique, une erreur d'inattention peut arriver. C'est pourquoi la section "Vérification" est incluse dans le prompt Pro. Si le résultat vous semble suspect, répondez simplement : _"Es-tu sûr du calcul à l'étape 3 ? Peux-tu le vérifier et le recalculer ?"_
+  - R : Bien que les modèles récents fassent preuve d'une excellente logique, une erreur d'inattention reste possible. C'est précisément pour cette raison que la section "Vérification" est intégrée au prompt Pro. Si le résultat final vous semble suspect, relancez simplement l'IA avec : _"Es-tu sûr du calcul à l'étape 3 ? Peux-tu le vérifier et le recalculer ?"_
 
 ---
 
 ## 🧬 Anatomie du Prompt (Pourquoi ça marche ?)
 
-1. **Attribution d'un Rôle Pédagogique :** L'utilisation du terme "patient" oblige l'IA à adopter un ton rassurant et ultra-détaillé, évitant les sauts logiques brutaux et expéditifs.
-2. **Interdiction du Jargon Condescendant :** La contrainte bloquant les phrases comme "il est évident que" évite de décourager l'utilisateur et force l'IA à déconstruire réellement chaque concept.
-3. **L'Étape de Vérification :** Exiger une preuve inverse à la fin renforce massivement la fiabilité du résultat généré par le LLM et limite le risque d'hallucination mathématique.
+1. **Attribution d'un Rôle Pédagogique :** L'intégration du terme "patient" contraint l'IA à adopter un ton rassurant et ultra-détaillé, évitant ainsi les sauts logiques brutaux et expéditifs.
+2. **Interdiction du Jargon Condescendant :** La contrainte bloquant les formulations telles que "il est évident que" permet de ne pas décourager l'utilisateur, tout en forçant l'IA à véritablement déconstruire chaque concept.
+3. **L'Étape de Vérification :** Exiger une preuve inverse à la fin de la résolution renforce massivement la fiabilité du résultat généré par le LLM et réduit drastiquement le risque d'hallucination mathématique.
 
 ---
 
@@ -136,6 +135,6 @@ Remplaçons x par 2 dans l'équation de départ :
 
 ## 🎯 Conclusion
 
-Les mathématiques s'apprennent avec la main et l'esprit, pas seulement avec les yeux. Une fois que l'IA a détaillé les étapes, prenez un stylo et refaites le cheminement par vous-même dans votre cahier pour ancrer la logique.
+Les mathématiques s'assimilent par la pratique et la réflexion, pas seulement par l'observation. Une fois que l'IA a détaillé l'ensemble des étapes, prenez un stylo et reproduisez le cheminement par vous-même dans votre cahier afin d'ancrer profondément la logique.
 
-Maintenant, fermez vos cahiers, détendez-vous et profitez de votre temps libre ! 🍷
+Maintenant, refermez vos cahiers, détendez-vous et profitez pleinement de votre temps libre ! 🍷

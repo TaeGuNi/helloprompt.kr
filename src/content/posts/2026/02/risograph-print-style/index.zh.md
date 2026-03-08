@@ -1,15 +1,15 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"复古印刷感性 'Risograph Print' 风格\""
+title: "复古印刷感性：Risograph Print 风格"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: " \"为你揭秘如何利用 AI 生成带有独特网点与色彩错位魅力的孔版印刷 (Risograph) 风格图像提示词。\""
+description: "为你揭秘如何利用 AI 生成带有独特网点与色彩错位魅力的孔版印刷 (Risograph) 风格图像提示词，为数字艺术注入复古手工温度。"
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Print"]
 ---
 
-# 📝 墨香四溢：Risograph Print (孔版印刷风格)
+## 📝 墨香四溢：Risograph Print (孔版印刷风格)
 
 - **🎯 推荐对象:** 设计师、插画师、内容创作者
 - **⏱️ 所需时间:** 5 分钟 → 1 分钟
@@ -19,9 +19,9 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Print"]
 - ⚡️ **有效性:** ⭐⭐⭐⭐⭐
 - 🚀 **实用性:** ⭐⭐⭐⭐☆
 
-> _“想要那种以前学校讲义或复古海报一样，略带粗糙颗粒感与错位印刷的复古魅力吗？”_
+> _“想要重现以前学校讲义或复古海报上，那种略带粗糙颗粒感与错位印刷的独特复古魅力吗？”_
 
-**Risograph (孔版印刷)** 是一种通过数字孔版印刷机印制出的独特风格。其核心特征在于受限的色彩调色板、粗糙的网点 (Halftone) 以及故意制造的色彩轻微错位。在 AI 图像生成中，这种风格能为过于完美的数字图像注入迷人的手工复古温度。
+**Risograph (孔版印刷)** 是一种通过数字孔版印刷机印制出的独特风格。其核心特征在于受限的色彩调色板、粗糙的网点 (Halftone) 以及故意制造的轻微色彩错位。在 AI 图像生成中，这种风格能为过于完美的数字图像注入迷人的手工复古温度。
 
 ---
 
@@ -40,8 +40,8 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Print"]
 当你只需要快速生成带有孔版印刷感觉的基础图像时使用。
 
 > **角色:** 你是一位资深的复古印刷版画艺术家。
+>
 > **请求:** 请为我生成一张带有孔版印刷 (Risograph) 风格的图像。请确保画面具有明显的网点图案、颗粒感以及轻微的色彩错位效果。
-
 
 ### 🥇 Pro Version (专家版)
 
@@ -54,6 +54,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Print"]
 > - 目标: 创作一幅具有强烈复古印刷质感的海报插画。
 >
 > **请求 (Task):**
+> 
 > 请根据以下结构生成图像提示词：
 >
 > **Subject:** `[在此输入你的主要画面内容，例如：戴着耳机听音乐的女孩，周围绽放着鲜艳的花朵]`
@@ -68,7 +69,7 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Print"]
 
 ## 💡 作者点评 (Insight)
 
-在实际的商业设计或内容创作中，数字生成的图像往往显得过于“干净”和“完美”，这容易让观者产生审美疲劳（即所谓的 AI 塑料感）。Risograph 风格正是打破这种僵局的利器。
+在实际的商业设计或内容创作中，数字生成的图像往往显得过于“干净”和“完美”，这容易让观者产生审美疲劳（即所谓的 AI 塑料感）。Risograph 风格正是打破这种审美僵局的利器。
 
 **实战技巧：**
 在选择颜色 (Limited color palette) 时，强烈建议指定高对比度的荧光色系（如 `neon pink`, `bright orange`, `electric blue`）。因为 Risograph 的魅力就在于少数几种鲜艳油墨的相互叠加与碰撞。如果在 Midjourney 中效果不够明显，可以尝试调高 `--stylize` 的数值，或者直接在提示词末尾加上 `screen printing aesthetics`（丝网印刷美学）来强化印物质感。

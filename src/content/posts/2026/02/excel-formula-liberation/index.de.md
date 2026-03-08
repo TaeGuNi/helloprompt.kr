@@ -1,15 +1,15 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Excel-Unabhängigkeitserklärung: Kein VLOOKUP mehr\""
+title: "Excel-Unabhängigkeitserklärung: Kein VLOOKUP mehr"
 author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Datenanalyse"
-description: " \"Schluss mit dem Auswendiglernen komplexer Excel-Formeln. Nutze diese Prompt-Techniken, um Excel mühelos in natürlicher Sprache zu steuern.\""
+description: "Schluss mit dem Auswendiglernen komplexer Excel-Formeln. Nutze diese Prompt-Techniken, um Excel mühelos in natürlicher Sprache zu steuern."
 tags: ["Excel", "Datenanalyse", "ChatGPT", "VLOOKUP", "Produktivität"]
 ---
 
-# 📊 Excel-Unabhängigkeitserklärung: Nie wieder SVERWEIS (VLOOKUP)
+## 📊 Excel-Unabhängigkeitserklärung: Nie wieder SVERWEIS (VLOOKUP)
 
 - **🎯 Zielgruppe:** Zahlenmuffel, die bei Formeln kapitulieren, und Marketer, die im Datenchaos versinken
 - **⏱️ Zeitaufwand:** 30 Minuten → auf 10 Sekunden reduziert
@@ -21,15 +21,15 @@ tags: ["Excel", "Datenanalyse", "ChatGPT", "VLOOKUP", "Produktivität"]
 
 > _"Chef: 'Vergleich mal Spalte B und F, filtere die Duplikate heraus und markiere sie rot!' – Schon wieder eine Excel-Aufgabe, die dich den halben Nachmittag kostet?"_
 
-Googelst du noch immer nach `Excel Duplikate finden`? Kämpfst du regelmäßig mit `SVERWEIS`, `INDEX` und `VERGLEICH`? Schluss mit dem Auswendiglernen endloser Formel-Kombinationen! Ab heute steuerst du Excel nicht länger mit **kryptischem Code**, sondern mit **ganz natürlichen Sätzen**.
+Googelst du immer noch nach `Excel Duplikate finden`? Kämpfst du regelmäßig mit `SVERWEIS`, `INDEX` und `VERGLEICH`? Schluss mit dem Auswendiglernen endloser Formel-Kombinationen! Ab heute steuerst du Excel nicht länger mit **kryptischem Code**, sondern mit **ganz natürlichen Sätzen**.
 
 ---
 
 ## ⚡️ 3-Punkte-Zusammenfassung (TL;DR)
 
-1. Kopiere einen minimalen Datenausschnitt (Kopfzeilen plus 2-3 Datenzeilen) und füttere damit die KI.
+1. Kopiere einen minimalen Datenausschnitt (Kopfzeilen plus zwei bis drei Datenzeilen) und füttere damit die KI.
 2. Beschreibe dein exaktes Ziel ganz simpel in natürlicher Sprache.
-3. Kopiere die ausgeworfene Formel oder das Makro, füge es in Excel ein – und fertig!
+3. Kopiere die generierte Formel oder das Makro, füge es in Excel ein – und fertig!
 
 ---
 
@@ -40,7 +40,9 @@ Googelst du noch immer nach `Excel Duplikate finden`? Kämpfst du regelmäßig m
 Ideal, wenn dir der exakte Funktionsname entfallen ist oder du auf die Schnelle eine simple Berechnung benötigst.
 
 > **Rolle:** Du bist ein absoluter Excel-Großmeister.
+>
 > **Kontext:** In Spalte A steht der 'Produktname', in Spalte B der 'Preis' und in Spalte C die 'Menge'.
+>
 > **Aufgabe:** Schreibe mir eine Excel-Formel für Spalte D, die den 'Gesamtumsatz (Preis \* Menge)' berechnet. Wenn der Umsatz über 1000€ liegt, gib "VIP" aus, andernfalls "Standard".
 
 ### 🥇 Pro Version (Für tiefgehende Analysen & komplexe Workflows)
@@ -52,8 +54,8 @@ Nutze diesen Prompt, sobald Daten über zig Tabellenblätter verstreut sind oder
 > **Situation (Context):**
 >
 > - Meine Daten sind über drei verschiedene Tabellenblätter verteilt und weisen völlig inkonsistente Formate auf, was eine Zusammenführung massiv erschwert.
-> - Hier ist ein repräsentatives Datenmuster (lediglich Kopfzeilen und die ersten 3 Zeilen, um den Datenschutz zu wahren):
->   `[Füge hier deine Beispieldaten ein]`
+> - Hier ist ein repräsentatives Datenmuster (lediglich Kopfzeilen und die ersten drei Zeilen, um den Datenschutz zu wahren):
+>   `[Hier Beispieldaten einfügen]`
 >
 > **Aufgabe (Task):**
 >
@@ -74,7 +76,7 @@ Nutze diesen Prompt, sobald Daten über zig Tabellenblätter verstreut sind oder
 
 ## 💡 Autorenkommentar (Insight)
 
-Dieser Workflow ist ein absoluter Gamechanger für den Büroalltag. Das stundenlange Wühlen in verstaubten Excel-Foren nach der "perfekten" Formel gehört damit der Vergangenheit an. Besonders genial ist der Kniff, der KI lediglich die Kopfzeilen plus drei Datenzeilen zu übergeben: So wahrst du strengste Datenschutzrichtlinien für sensible Unternehmensdaten und lieferst der KI dennoch exakt den Kontext, den sie für eine maßgeschneiderte Lösung benötigt. Wer die Pro-Version regelmäßig einsetzt, wird schnell merken: Die KI schlägt oftmals wesentlich modernere und robustere Lösungswege (wie etwa den `XVERWEIS`) vor, die man selbst überhaupt nicht auf dem Radar hatte.
+Dieser Workflow ist ein absoluter Gamechanger für den Büroalltag. Das stundenlange Wühlen in verstaubten Excel-Foren nach der "perfekten" Formel gehört damit endgültig der Vergangenheit an. Besonders genial ist der Kniff, der KI lediglich die Kopfzeilen plus drei Datenzeilen zu übergeben: So wahrst du strengste Datenschutzrichtlinien für sensible Unternehmensdaten und lieferst der KI dennoch exakt den Kontext, den sie für eine maßgeschneiderte Lösung benötigt. Wer die Pro-Version regelmäßig einsetzt, wird schnell merken: Die KI schlägt oftmals wesentlich modernere und robustere Lösungswege (wie etwa den `XVERWEIS`) vor, die man selbst überhaupt nicht auf dem Radar hatte.
 
 ---
 

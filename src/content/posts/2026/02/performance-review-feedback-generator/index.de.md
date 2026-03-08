@@ -1,15 +1,15 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Personalbeurteilungskommentare, die wachsen lassen, ohne zu verletzen\""
+title: "Personalbeurteilungen, die fördern statt verletzen"
 author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Arbeitsautomatisierung"
-description: " \"Prompt, der den Schmerz von Leistungsüberprüfungen und Feedbackschreiben lindert.\""
+description: "Ein Prompt, der den Stress von Leistungsbeurteilungen nimmt und Feedback in konstruktive, motivierende Worte verwandelt."
 tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 ---
 
-# 📝 Personalbeurteilungskommentare, die wachsen lassen, ohne zu verletzen
+## 📝 Personalbeurteilungen, die fördern statt verletzen
 
 - **🎯 Empfohlen für:** Teamleiter, HR-Manager, Projektmanager
 - **⏱️ Zeitaufwand:** 30 Minuten → 2 Minuten
@@ -21,7 +21,7 @@ tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 
 > _"Die Zeit der Leistungsbeurteilungen rückt näher... Wie formuliere ich Kritik so, dass sie motiviert und nicht demotiviert?"_
 
-Leistungsbeurteilungen müssen objektiv und fair sein, das Feedback spezifisch, und am wichtigsten: Sie dürfen die Motivation der Mitarbeiter nicht zerstören. Für viele Führungskräfte ist es eine der stressigsten Aufgaben im Jahr, genau die richtigen Worte zu finden. Mit diesem KI-Prompt verwandeln Sie vage Kritik in konstruktives, wachstumsorientiertes Feedback.
+Leistungsbeurteilungen müssen objektiv und fair sein, das Feedback spezifisch, und am wichtigsten: Sie dürfen die Motivation der Mitarbeitenden nicht zerstören. Für viele Führungskräfte ist es eine der stressigsten Aufgaben im Jahr, genau die richtigen Worte zu finden. Mit diesem KI-Prompt verwandeln Sie vage oder emotionale Kritik in konstruktives, wachstumsorientiertes Feedback.
 
 ---
 
@@ -33,15 +33,15 @@ Leistungsbeurteilungen müssen objektiv und fair sein, das Feedback spezifisch, 
 
 ---
 
-## 🚀 Die Lösung: "Feedback-Coach Prompt"
+## 🚀 Die Lösung: Der "Feedback-Coach Prompt"
 
 ### 🥉 Basis-Version (Für den schnellen Einsatz)
 
 Verwenden Sie diesen Prompt, wenn Sie nur eine schnelle Umformulierung Ihrer Stichpunkte benötigen.
 
 > **Rolle:** Du bist ein erfahrener HR-Business-Coach.
+> 
 > **Anfrage:** Formuliere die folgende Kritik so um, dass sie konstruktiv, motivierend und professionell klingt: `[Ihre Stichpunkte zur Kritik]`
-
 
 ### 🥇 Pro-Version (Für detaillierte Leistungsbeurteilungen)
 
@@ -51,7 +51,7 @@ Verwenden Sie diesen Prompt für die offizielle, schriftliche Leistungsbeurteilu
 >
 > **Kontext (Context):**
 >
-> - Zielperson: Mein Teammitglied `[Name des Mitarbeiters]`
+> - Zielperson: Mein Teammitglied `[Name des Teammitglieds]`
 > - Hauptleistung (Stärken): `[Z.B. hervorragende Projektpräsentation, hohe Einsatzbereitschaft bei Deadlines]`
 > - Entwicklungsfelder (Schwächen): `[Z.B. unpünktlich bei Meetings, mangelhafte Dokumentation im Ticket-System]`
 > - Ziel des Feedbacks: Förderung des Wachstums und Verhaltensänderung ohne Frustration.
@@ -65,7 +65,7 @@ Verwenden Sie diesen Prompt für die offizielle, schriftliche Leistungsbeurteilu
 > **Einschränkungen (Constraints):**
 >
 > - Wende zwingend die Sandwich-Methode an (Lob ➡️ Verbesserung ➡️ Ermutigung/Ausblick).
-> - Verwende eine professionelle, wertschätzende Geschäftssprache (Sie-Form oder Du-Form, passe es entsprechend an: `[Du/Sie]`).
+> - Verwende eine professionelle, wertschätzende Geschäftssprache (Passe es entsprechend an: `[Du/Sie]`).
 > - Der Ton muss objektiv, aber warmherzig sein.
 > - Keine vagen Floskeln wie "hat sich stets bemüht". Sei konkret und präzise.
 >
@@ -77,9 +77,9 @@ Verwenden Sie diesen Prompt für die offizielle, schriftliche Leistungsbeurteilu
 
 ## 💡 Kommentar des Autors (Insight)
 
-Als Teamleiter habe ich früher oft Stunden vor einem leeren Word-Dokument verbracht, aus Angst, durch eine unglückliche Formulierung das Vertrauensverhältnis zu einem Mitarbeiter zu beschädigen. Dieser Prompt ist ein echter Gamechanger, insbesondere wenn man Claude 3.5 Sonnet verwendet, da dieses Modell ein bemerkenswertes Gespür für Nuancen und menschliche Emotionen hat.
+Als Teamleiter habe ich früher oft Stunden vor einem leeren Word-Dokument verbracht – aus Angst, durch eine unglückliche Formulierung das Vertrauensverhältnis zu einem Teammitglied zu beschädigen. Dieser Prompt ist ein echter Gamechanger, insbesondere wenn man Claude 3.5 Sonnet verwendet. Dieses Modell besitzt ein bemerkenswertes Gespür für Nuancen und menschliche Emotionen.
 
-Mein Tipp: Geben Sie der KI ruhig Ihre "ungefilterten" Gedanken in Stichpunkten. Die KI fungiert als emotionaler Filter und übersetzt Ihren Frust in professionelle Führungssprache. So bleibt die sachliche Kritik erhalten, aber die toxische Schärfe wird herausgenommen.
+**Mein Tipp:** Geben Sie der KI ruhig Ihre "ungefilterten" Gedanken in Stichpunkten. Die KI fungiert als emotionaler Filter und übersetzt Ihren Frust in professionelle Führungssprache. So bleibt die sachliche Kritik erhalten, aber die toxische Schärfe wird komplett herausgenommen.
 
 ---
 
@@ -88,7 +88,7 @@ Mein Tipp: Geben Sie der KI ruhig Ihre "ungefilterten" Gedanken in Stichpunkten.
 - **Q: Welches KI-Modell eignet sich am besten für diesen Prompt?**
   - A: Für Texte, die emotionale Intelligenz und Empathie erfordern, empfehle ich derzeit **Claude 3.5 Sonnet**. ChatGPT (GPT-4o) funktioniert ebenfalls gut, neigt aber manchmal dazu, etwas zu formell oder "roboterhaft" zu klingen.
 
-- **Q: Erkennt der Mitarbeiter nicht, dass das Feedback von einer KI geschrieben wurde?**
+- **Q: Erkennt das Teammitglied nicht, dass das Feedback von einer KI geschrieben wurde?**
   - A: Wenn Sie die Platzhalter (`[ ]`) mit spezifischen, echten Beispielen aus dem Arbeitsalltag füllen (z.B. "Das Projekt X im März"), wird das Feedback hochgradig personalisiert. Die KI hilft nur bei der Formulierung, die Fakten kommen von Ihnen. Lesen Sie den Text dennoch einmal durch und passen Sie typische KI-Wörter gegebenenfalls an Ihren eigenen Stil an.
 
 ---
@@ -96,14 +96,14 @@ Mein Tipp: Geben Sie der KI ruhig Ihre "ungefilterten" Gedanken in Stichpunkten.
 ## 🧬 Prompt-Anatomie (Warum funktioniert das so gut?)
 
 1. **Klare Rolle (Erfahrener Führungscoach):** Setzt den Tonfall sofort auf "unterstützend" anstatt "bestrafend".
-2. **Strukturierte Aufgabe (Sandwich-Methode):** Zwingt die KI, die psychologisch sicherste Methode für Kritik anzuwenden, sodass der Empfänger nicht sofort in eine Abwehrhaltung geht.
-3. **Zukunftsorientierung (Erwartungen für das nächste Quartal):** Verhindert, dass das Feedback nur in der Vergangenheit wühlt, und gibt dem Mitarbeiter einen klaren Handlungsauftrag.
+2. **Strukturierte Aufgabe (Sandwich-Methode):** Zwingt die KI, die psychologisch sicherste Methode für Kritik anzuwenden, sodass die empfangende Person nicht sofort in eine Abwehrhaltung geht.
+3. **Zukunftsorientierung (Erwartungen für das nächste Quartal):** Verhindert, dass das Feedback nur in der Vergangenheit wühlt, und gibt dem Mitarbeitenden einen klaren Handlungsauftrag.
 
 ---
 
 ## 📊 Beweis: Vorher & Nachher
 
-### ❌ Vorher (Eingabe des Managers)
+### ❌ Vorher (Eingabe der Führungskraft)
 
 ```text
 Tom hat das Marketing-Projekt zwar gut abgeschlossen, aber er kommt ständig zu spät zu den Morning-Dailys und das nervt das ganze Team. Schreib eine Bewertung.
@@ -112,7 +112,9 @@ Tom hat das Marketing-Projekt zwar gut abgeschlossen, aber er kommt ständig zu 
 ### ✅ Nachher (Ergebnis der KI)
 
 ```text
-Lieber Tom, ich möchte zunächst deine herausragende Arbeit beim letzten Marketing-Projekt hervorheben. Dein Engagement und die Qualität der Ergebnisse haben maßgeblich zu unserem Erfolg beigetragen.
+Lieber Tom, 
+
+ich möchte zunächst deine herausragende Arbeit beim letzten Marketing-Projekt hervorheben. Dein Engagement und die Qualität der Ergebnisse haben maßgeblich zu unserem gemeinsamen Erfolg beigetragen.
 
 Um unsere Zusammenarbeit im Team noch reibungsloser zu gestalten, wünsche ich mir für die Zukunft eine stärkere Verlässlichkeit bei unseren Morning-Dailys. Pünktlichkeit ist hier wichtig, damit alle Teammitglieder den Tag effizient und synchronisiert starten können.
 
@@ -123,6 +125,6 @@ Ich bin überzeugt, dass du diese kleine Anpassung schnell umsetzen kannst, und 
 
 ## 🎯 Fazit
 
-Feedback sollte immer ein Geschenk für das Gegenüber sein, um daran zu wachsen. Die KI nimmt Ihnen nicht die Führungsverantwortung ab, aber sie hilft Ihnen, dieses Geschenk ansprechend und professionell zu verpacken.
+Feedback sollte immer ein Geschenk für das Gegenüber sein, an dem man wachsen kann. Die KI nimmt Ihnen nicht die Führungsverantwortung ab, aber sie hilft Ihnen, dieses Geschenk ansprechend, wertschätzend und professionell zu verpacken.
 
 Machen Sie sich das Leben leichter und gehen Sie heute pünktlich in den Feierabend! 🍷

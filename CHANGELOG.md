@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.13.3](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.13.2...v1.13.3) (2026-03-08)
+
+
+### Bug Fixes
+
+* **astro:** resolve duplicate ID warnings in v5 glob loader using custom generateId ([c54f399](https://github.com/TaeGuNi/helloprompt.kr/commit/c54f39938034ae5e26ee999f40d61abffcd75ea4))
+
 ### [1.13.2](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.13.1...v1.13.2) (2026-03-05)
 
 ### [1.13.1](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.13.0...v1.13.1) (2026-03-05)

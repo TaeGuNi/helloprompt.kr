@@ -1,0 +1,74 @@
+---
+import { getCollection } from "astro:content";
+import { getKstNow } from "../utils/dateUtils";
+import { uiStrings } from "../utils/ui-translation";
+
+interface Props {
+    currentLang: string;
+    currentSlug: string;
+    currentDate: string;
+}
+
+const { currentLang, currentSlug, currentDate } = Astro.props;
+const t = uiStrings[currentLang] || uiStrings.ko;
+
+// 1. 같은 언어의 발행된 포스트 전체 가져오기
+const kstNow = getKstNow();
+const allPosts = await getCollection("posts", ({ data }) => {
+    return new Date(data.date) <= kstNow;
+});
+
+const langPosts = allPosts
+    .filter((post) => {
+        const match = post.id.match(/index\.?([a-z]{2})?\.?md$/);
+        const postLang = match?.[1] ? match[1] : "ko";
+        return postLang === currentLang;
+    })
+    .map((post) => {
+        const parts = post.id.split("/");
+        const slugBase = parts.slice(0, -1).join("/");
+        return {
+            title: post.data.title,
+            date: new Date(post.data.date).valueOf(),
+            slug: slugBase,
+            url: `/${currentLang}/posts/${slugBase}`,
+        };
+    })
+    .sort((a, b) => b.date - a.date); // 최신순
+
+// 2. 현재 글의 인덱스 찾기
+const currentIndex = langPosts.findIndex((p) => p.slug === currentSlug);
+
+// 3. Prev/Next 결정 (시간순이므로 prev = 더 오래된 글, next = 더 새로운 글)
+const prevPost =
+    currentIndex < langPosts.length - 1 ? langPosts[currentIndex + 1] : null;
+const nextPost = currentIndex > 0 ? langPosts[currentIndex - 1] : null;
+
+const hasPrevOrNext = prevPost || nextPost;
+---
+
+{
+    hasPrevOrNext && (
+        <nav class="post-navigation" aria-label="Post navigation">
+            <div class="post-nav-grid">
+                {prevPost ? (
+                    <a href={prevPost.url} class="post-nav-card post-nav-prev">
+                        <span class="post-nav-label">← {t.prev_post}</span>
+                        <span class="post-nav-title">{prevPost.title}</span>
+                    </a>
+                ) : (
+                    <div class="post-nav-card post-nav-empty" />
+                )}
+
+                {nextPost ? (
+                    <a href={nextPost.url} class="post-nav-card post-nav-next">
+                        <span class="post-nav-label">{t.next_post} →</span>
+                        <span class="post-nav-title">{nextPost.title}</span>
+                    </a>
+                ) : (
+                    <div class="post-nav-card post-nav-empty" />
+                )}
+            </div>
+        </nav>
+    )
+}

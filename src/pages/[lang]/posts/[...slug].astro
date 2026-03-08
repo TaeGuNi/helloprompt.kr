@@ -1,5 +1,6 @@
 ---
 import { getCollection, render } from "astro:content";
+import PostNavigation from "../../../components/PostNavigation.astro";
 import RelatedPosts from "../../../components/RelatedPosts.astro";
 import { LANGUAGES } from "../../../i18n/languages";
 import Layout from "../../../layouts/Layout.astro";
@@ -31,10 +32,12 @@ if (!post) {
 // Vercel ISR Caching Header (1 Day Cache for Posts)
 Astro.response.headers.set(
   "Cache-Control",
-  "public, s-maxage=86400, stale-while-revalidate=604800",
+  "public, s-maxage=86400, stale-while-revalidate=604800"
 );
 
 const { Content, headings } = await render(post);
+const postTags = (post.data as any).tags || [];
+const postDate = (post.data as any).date || "";
 ---
 
 <Layout
@@ -43,5 +46,15 @@ const { Content, headings } = await render(post);
 >
   <Content />
 
-  <RelatedPosts currentLang={paramLang} currentSlug={paramSlug} />
+  <PostNavigation
+    currentLang={paramLang}
+    currentSlug={paramSlug}
+    currentDate={postDate}
+  />
+
+  <RelatedPosts
+    currentLang={paramLang}
+    currentSlug={paramSlug}
+    currentTags={postTags}
+  />
 </Layout>

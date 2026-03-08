@@ -1,13 +1,16 @@
 ---
 import { getCollection } from "astro:content";
 import { getKstNow } from "../utils/dateUtils";
+import { uiStrings } from "../utils/ui-translation";
 
 interface Props {
   currentLang: string;
   currentSlug: string;
+  currentTags?: string[];
 }
 
-const { currentLang, currentSlug } = Astro.props;
+const { currentLang, currentSlug, currentTags = [] } = Astro.props;
+const t = uiStrings[currentLang] || uiStrings.ko;
 
 // 1. Content Collections에서 모든 발행된 포스트 가져오기
 const kstNow = getKstNow();
@@ -29,15 +32,37 @@ const filteredPosts = langPosts.filter((post) => {
   return slugBase !== currentSlug;
 });
 
-// 4. 최신순 정렬 후 상위 4개 추출
-const latestPosts = filteredPosts
-  .sort(
-    (a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf(),
-  )
+// 4. 태그 교집합 기반 관련도 점수 계산
+const now = Date.now();
+const THIRTY_DAYS_MS = 30 * 24 * 60 * 60 * 1000;
+
+const scoredPosts = filteredPosts.map((post) => {
+  const postTags = post.data.tags || [];
+  const sharedTagCount = currentTags.filter((tag) =>
+    postTags.includes(tag),
+  ).length;
+  const isRecent =
+    now - new Date(post.data.date).valueOf() < THIRTY_DAYS_MS ? 1 : 0;
+
+  // 점수: 공유 태그 × 3 + 최근 30일 × 1
+  const score = sharedTagCount * 3 + isRecent;
+
+  return { post, score };
+});
+
+// 5. 점수순 정렬 → 동점이면 최신순 → 상위 4개
+const topPosts = scoredPosts
+  .sort((a, b) => {
+    if (b.score !== a.score) return b.score - a.score;
+    return (
+      new Date(b.post.data.date).valueOf() -
+      new Date(a.post.data.date).valueOf()
+    );
+  })
   .slice(0, 4);
 
 // URL 포맷팅
-const formattedPosts = latestPosts.map((post) => {
+const formattedPosts = topPosts.map(({ post }) => {
   const parts = post.id.split("/");
   const slugBase = parts.slice(0, -1).join("/");
   return {
@@ -46,14 +71,15 @@ const formattedPosts = latestPosts.map((post) => {
     url: `/${currentLang}/posts/${slugBase}`,
   };
 });
+
+// "이 주제 더 보기" 링크용 첫 번째 태그
+const primaryTag = currentTags.length > 0 ? currentTags[0] : null;
 ---
 
 {
   formattedPosts.length > 0 && (
     <section class="related-posts-section">
-      <div class="related-posts-header">
-        함께 보면 도움되는 강력한 프롬프트 ⚡️
-      </div>
+      <div class="related-posts-header">{t.related_header}</div>
       <div class="related-posts-grid">
         {formattedPosts.map((post) => (
           <a href={post.url} class="related-post-card group">
@@ -62,6 +88,13 @@ const formattedPosts = latestPosts.map((post) => {
           </a>
         ))}
       </div>
+      {primaryTag && (
+        <div class="more-topic-link">
+          <a href={`/${currentLang}/tags/${primaryTag}`}>
+            {t.more_topic}: #{primaryTag} →
+          </a>
+        </div>
+      )}
     </section>
   )
 }

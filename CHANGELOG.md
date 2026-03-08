@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.14.0](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.13.3...v1.14.0) (2026-03-08)
+
+
+### Features
+
+* **ux:** implement Content Loop Architecture for traffic & engagement growth ([8f5b8de](https://github.com/TaeGuNi/helloprompt.kr/commit/8f5b8de374ac6f36c75f8054ec8285e2993ba207))
+
 ### [1.13.3](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.13.2...v1.13.3) (2026-03-08)
 
 

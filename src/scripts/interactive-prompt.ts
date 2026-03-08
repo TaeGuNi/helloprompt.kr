@@ -335,4 +335,84 @@ document.addEventListener("DOMContentLoaded", () => {
       wrapper.appendChild(actionContainer);
     }
   });
+
+  // --- 6. TOC Active Section Tracking (IntersectionObserver) ---
+  const tocLinksAll = document.querySelectorAll(".toc-link");
+  if (tocLinksAll.length > 0) {
+    const headingElements: Element[] = [];
+    tocLinksAll.forEach((link) => {
+      const href = link.getAttribute("href");
+      if (href) {
+        const target = document.querySelector(href);
+        if (target) headingElements.push(target);
+      }
+    });
+
+    if (headingElements.length > 0) {
+      const observer = new IntersectionObserver(
+        (entries) => {
+          entries.forEach((entry) => {
+            const id = entry.target.getAttribute("id");
+            const correspondingLink = document.querySelector(
+              `.toc-link[href="#${id}"]`,
+            );
+            if (correspondingLink) {
+              if (entry.isIntersecting) {
+                // Remove active from all, add to current
+                tocLinksAll.forEach((l) => {
+                  l.classList.remove("active");
+                });
+                correspondingLink.classList.add("active");
+              }
+            }
+          });
+        },
+        {
+          rootMargin: "-10% 0px -80% 0px",
+          threshold: 0,
+        },
+      );
+
+      headingElements.forEach((el) => {
+        observer.observe(el);
+      });
+    }
+  }
+
+  // --- 7. Reading Progress Bar ---
+  const progressBar = document.getElementById("reading-progress");
+  if (progressBar) {
+    const article = document.querySelector("article");
+    if (article) {
+      let hasCompleted = false;
+
+      const updateProgress = () => {
+        const articleRect = article.getBoundingClientRect();
+        const articleTop = articleRect.top + window.scrollY;
+        const articleHeight = article.offsetHeight;
+        const scrollPos = window.scrollY - articleTop;
+        const progress = Math.min(
+          100,
+          Math.max(0, (scrollPos / (articleHeight - window.innerHeight)) * 100),
+        );
+
+        progressBar.style.width = `${progress}%`;
+
+        if (progress >= 99 && !hasCompleted) {
+          hasCompleted = true;
+          progressBar.classList.add("complete");
+          trackEvent("article_complete", {
+            page_title: document.title,
+          });
+          // 1초 후 초록 번쩍 효과 제거
+          setTimeout(() => {
+            progressBar.classList.remove("complete");
+          }, 1500);
+        }
+      };
+
+      window.addEventListener("scroll", updateProgress, { passive: true });
+      updateProgress(); // Initial state
+    }
+  }
 });

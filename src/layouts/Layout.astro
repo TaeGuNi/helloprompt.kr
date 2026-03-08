@@ -54,6 +54,8 @@ const t = uiStrings[currentLang] || uiStrings.ko;
     <SEO frontmatter={frontmatter} isHome={isHome} />
   </head>
   <body>
+    {/* Reading Progress Bar (Article pages only) */}
+    {!isHome && <div id="reading-progress" />}
     <div class={`container ${isHome ? "is-home" : ""}`}>
       {/* Header (Contains Nav, Breadcrumbs, LanguageSwitcher, Search) */}
       <Header isHome={isHome} currentLang={currentLang} t={t} frontmatter={frontmatter} />

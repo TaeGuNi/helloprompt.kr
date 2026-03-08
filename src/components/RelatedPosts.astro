@@ -39,7 +39,7 @@ const THIRTY_DAYS_MS = 30 * 24 * 60 * 60 * 1000;
 const scoredPosts = filteredPosts.map((post) => {
   const postTags = post.data.tags || [];
   const sharedTagCount = currentTags.filter((tag) =>
-    postTags.includes(tag)
+    postTags.includes(tag),
   ).length;
   const isRecent =
     now - new Date(post.data.date).valueOf() < THIRTY_DAYS_MS ? 1 : 0;

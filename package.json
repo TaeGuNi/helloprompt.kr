@@ -58,7 +58,7 @@
     "src/content/posts/**/*.md": [
       "pnpm qa"
     ],
-    "*.{js,ts,json,cjs,mjs}": [
+    "*.{js,ts,json,cjs,mjs,astro,css}": [
       "biome check --write"
     ],
     "*.{js,ts}": [

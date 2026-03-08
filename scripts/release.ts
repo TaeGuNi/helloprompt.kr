@@ -47,6 +47,22 @@ try {
   console.log("\n📦 Running standard-version...");
   execSync("pnpm dlx standard-version", { stdio: "inherit" });
 
+  // 4.5. Pre-push formatting guard (catches files missed by lint-staged)
+  console.log("\n🔍 Running biome format check before push...");
+  try {
+    execSync("pnpm biome check --write .", { stdio: "inherit" });
+  } catch {
+    // biome may exit non-zero for warnings, continue
+  }
+  const formatDiff = execSync("git status --porcelain", {
+    encoding: "utf-8",
+  }).trim();
+  if (formatDiff) {
+    console.log("🔧 Formatting changes detected, amending version commit...");
+    execSync("git add .");
+    execSync("git commit --amend --no-edit", { stdio: "inherit" });
+  }
+
   // 5. Push to develop with tags
   console.log("\n🚀 Pushing changes to origin/develop...");
   execSync("git push --follow-tags origin develop", { stdio: "inherit" });
@@ -126,17 +142,36 @@ try {
 
     for (let i = 0; i < 40; i++) {
       try {
-        const prStatus = execSync(
-          'gh pr status --json statusCheckRollup -q ".currentBranch.statusCheckRollup[0].state" || echo "UNKNOWN"',
+        // Use `gh pr checks` for reliable multi-check status detection
+        const checksJson = execSync(
+          "gh pr checks --json name,bucket --repo TaeGuNi/helloprompt.kr 2>/dev/null || echo '[]'",
           { encoding: "utf-8" },
         ).trim();
 
-        if (prStatus.includes("SUCCESS")) {
-          currentLoopPassed = true;
-          break;
-        } else if (prStatus.includes("FAILURE")) {
-          currentLoopFailed = true;
-          break;
+        let checks: Array<{ name: string; bucket: string }> = [];
+        try {
+          checks = JSON.parse(checksJson);
+        } catch {
+          checks = [];
+        }
+
+        // Filter to only CI checks (exclude Vercel preview/comments)
+        const ciChecks = checks.filter(
+          (c) => c.name.includes("CI") || c.name.includes("Pipeline"),
+        );
+
+        if (ciChecks.length > 0) {
+          const allPassed = ciChecks.every((c) => c.bucket === "pass");
+          const anyFailed = ciChecks.some((c) => c.bucket === "fail");
+
+          if (allPassed) {
+            currentLoopPassed = true;
+            break;
+          }
+          if (anyFailed) {
+            currentLoopFailed = true;
+            break;
+          }
         }
 
         console.log(`   ⏳ Waiting for CI to finish... (${i + 1}/40)`);
@@ -214,7 +249,11 @@ CRITICAL RULES:
         execSync("./.github/auto-heal.sh", { stdio: "inherit" });
 
         // Format checking to ensure AI didn't break things further
-        execSync("pnpm biome check --write . || true");
+        try {
+          execSync("pnpm biome check --write .", { stdio: "inherit" });
+        } catch {
+          // biome may exit non-zero for warnings
+        }
 
         // Clean up AI script temp files before staging the commit
         try {

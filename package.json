@@ -4,7 +4,7 @@
   "engines": {
     "node": ">=24.13.0"
   },
-  "version": "1.14.0",
+  "version": "1.14.1",
   "scripts": {
     "dev": "astro dev",
     "build": "NODE_OPTIONS=\"--max-old-space-size=8192\" astro build",
@@ -58,7 +58,7 @@
     "src/content/posts/**/*.md": [
       "pnpm qa"
     ],
-    "*.{js,ts,json,cjs,mjs}": [
+    "*.{js,ts,json,cjs,mjs,astro,css}": [
       "biome check --write"
     ],
     "*.{js,ts}": [

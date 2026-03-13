@@ -4,7 +4,7 @@ title: "Niente Codice Spaghetti: Il Cheat Code DDD per Trasformare l'IA in un Se
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Basta con le chiacchiere inutili. Ecco il prompt severo di un Senior Architect per forzare l'IA a scrivere solo logica di business pura."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ddd-architecture"]
 ---

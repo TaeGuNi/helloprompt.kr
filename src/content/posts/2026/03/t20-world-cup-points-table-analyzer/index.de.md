@@ -4,7 +4,7 @@ title: "🏏 AI-Prompt: T20 World Cup Points Table in 1 Sekunde perfekt analysie
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Analysieren Sie T20 World Cup Tabellen in 1 Sekunde! Kopieren Sie rohe Daten und lassen Sie KI sofort Social-Media-taugliche Berichte erstellen."
 tags: ['prompt-engineering', 'ai-agent', 't20-world-cup-p']
 ---

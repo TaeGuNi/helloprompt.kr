@@ -4,9 +4,9 @@ title: " \"출근길 교통지옥 탈출! AI 교통비서\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "라이프스타일"
+category: "Lifestyle"
 description: "AI通过深度分析实时路况与备选路线，为您精准规划最佳通勤方案，让您彻底告别早高峰的出行焦虑。"
-tags: ["출근", "교통", "AI비서", "시간관리"]
+tags: ["출근", "교통", "AI비서", "Time Management"]
 ---
 
 ## 📝 逃离通勤地狱！你的专属 AI 交通出行小助手

@@ -4,7 +4,7 @@ title: "🏎️ Больше никаких проблем с формулами
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Забудьте об аде VLOOKUP. Этот проверенный промпт за 1 секунду безошибочно сгенерирует даже самую сложную формулу для Excel и Google Таблиц."
 tags: ["prompt-engineering", "ai-agent", "formula-1"]
 image: "/images/hooks/formula-1-excel-google-sheets-prompt.jpg"

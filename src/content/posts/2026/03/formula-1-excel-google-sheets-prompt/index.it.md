@@ -4,7 +4,7 @@ title: "🏎️ Basta Problemi con le Formule Excel: Prompt di Livello F1 Pronti
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Fuggi dall'inferno di CERCA.VERT. Scopri il prompt definitivo per generare all'istante le formule Excel più complesse con una precisione assoluta."
 tags: ["prompt-engineering", "ai-agent", "formula-1"]
 image: "/images/hooks/formula-1-excel-google-sheets-prompt.jpg"

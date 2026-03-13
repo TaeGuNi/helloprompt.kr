@@ -1,123 +1,166 @@
 ---
-title: "Zero-Shot vs. Few-Shot Learning: Wann Beispiele wirklich sinnvoll sind"
+layout: /src/layouts/Layout.astro
+title: "Zero-Shot vs. Few-Shot Learning: Wann sollte man Beispiele bereitstellen?"
+author: "Jay"
 date: "2026-02-15"
-description: "Ein Praxis-Leitfaden: Wann Zero-Shot-Prompting ausreicht und warum Few-Shot-Prompting für konsistente KI-Ergebnisse oft unverzichtbar ist."
+updatedDate: "2026-02-15"
+category: "Prompt Engineering"
+description: "KI gibt falsche Antworten? Ein Leitfaden zur Nutzung von Zero-Shot und Few-Shot Prompts, um die Leistung mit Beispielen um 200 % zu steigern."
+tags: ["제로샷", "퓨샷", "Prompt"]
 ---
 
-## 📝 Zero-Shot vs. Few-Shot: Das Geheimnis perfekter KI-Antworten
+## 📝 Zero-Shot vs. Few-Shot: Warum mein Prompt ständig falsche Antworten liefert
 
-- **🎯 Empfohlen für:** Marketer, Produktmanager, Junior-Entwickler
-- **⏱️ Zeitersparnis:** Stundenlanges Herumprobieren → 1 Minute für den perfekten Prompt
-- **🤖 Empfohlene Modelle:** Alle LLMs (ChatGPT, Claude 3, Gemini)
+- **🎯 Zielgruppe:** Planer, Marketer, Junior-Entwickler, Einsteiger im Prompt Engineering
+- **⏱️ Zeitaufwand:** 10 Minuten → Lebenslange Zeitersparnis
+- **🤖 Spitzenleistung:** Aktuelle Reasoning-Modelle empfohlen (kompatibel mit allen KI-Chats)
 
-- ⭐ **Schwierigkeitsgrad:** ⭐⭐☆☆☆
+- ⭐ **Schwierigkeit:** ⭐⭐☆☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
-- 🚀 **Nutzen:** ⭐⭐⭐⭐⭐
+- 🚀 **Anwendbarkeit:** ⭐⭐⭐⭐⭐
 
-> _"Warum ignoriert die KI ständig mein gewünschtes Format, egal wie oft ich es erkläre?" – Die Lösung liegt in der Macht der Beispiele._
+> _"Ich habe eine KI benutzt, die als intelligent gilt, aber warum liefert sie Ergebnisse, die völlig an meiner Absicht vorbeigehen? Die Antwort ist: Weil Sie keine 'Beispiele' gegeben haben."_
 
-In der Welt der Large Language Models (LLMs) ist das *Wie* der Kommunikation oft entscheidend. Zwei der mächtigsten, aber grundlegendsten Techniken im Prompt Engineering sind **Zero-Shot** und **Few-Shot** Prompting. Wer den Unterschied versteht – und genau weiß, wann welche Strategie greift – verwandelt mittelmäßige KI-Ausgaben auf Knopfdruck in hochprofessionelle Ergebnisse.
+Viele Planer, Marketer und Junior-Entwickler erleben den gleichen Frust. Man hört, wie intelligent ChatGPT oder Claude seien, führt sie im Arbeitsalltag ein, steht dann aber vor Ergebnissen, die weit hinter den Erwartungen zurückbleiben. Obwohl man im Prompt spezifische Kontexte wie „Schreib freundlich“, „Verfasse es professionell“ oder „Das ist ein Entschuldigungsschreiben für B2B-Kunden“ angegeben hat, liefert die KI lediglich seelenlose, mechanische Texte. Am Ende löschen wir den von der KI geschriebenen Text und verbringen wertvolle 30 Minuten damit, ihn mühsam selbst zu korrigieren.
 
----
+Wenn sich dieser Schmerz wiederholt, kommt man oft zu dem Schluss: **„KI ist noch nicht bereit für die Praxis“** – und gibt auf. Aber liegt es wirklich an der mangelnden Intelligenz der KI? Nein. Der wahre Grund ist, dass Sie der KI keine **„genauen Beispiele (Examples)“** gezeigt haben. Selbst ein hochqualifizierter neuer Mitarbeiter wird scheitern, wenn man ihm ohne Vorlagen oder Muster früherer Arbeiten sagt: „Schreib das mal ordentlich“. Bei einer KI ist es genauso. Die Methode, nur Anweisungen ohne Beispiele zu geben, nennen wir im Prompt Engineering **Zero-Shot**. Zero-Shot eignet sich gut für Brainstorming oder einfache Übersetzungen, reicht aber nicht aus, um die für die Praxis erforderliche präzise Tonalität und strikte Formatierung zu treffen.
 
-## ⚡️ 3-Sätze-Zusammenfassung (TL;DR)
+Hier ist die perfekte Lösung, um Ihre Prompts auf die nächste Stufe zu heben: Die **Few-Shot**-Technik, bei der Sie 1 bis 3 klare Beispiele (Input-Output-Paare) im Prompt bereitstellen. Few-Shot-Prompts sind der mächtigste Cheat-Code, um die Nuancen und den Arbeitsstil in Ihrem Kopf zu 100 % mit der KI zu synchronisieren. Schon durch das Hinzufügen eines einzigen Beispiels erkennt die KI die im Kontext verborgene Absicht und imitiert die einzigartige Persona Ihrer Marke perfekt.
 
-1. **Zero-Shot:** Direkte Anweisungen ohne Vorlagen. Ideal für alltägliche Standardaufgaben, bei denen die KI auf ihr massives Allgemeinwissen zurückgreift.
-2. **Few-Shot:** Prompts mit 1–3 konkreten Referenzbeispielen. Das absolute Must-have für strikte Formatvorgaben, spezielle Tonalitäten oder komplexe logische Abläufe.
-3. **Die Goldene Regel:** Beginnen Sie agil mit Zero-Shot. Sobald das Modell beim Format oder Tonfall patzt, eskalieren Sie sofort zu Few-Shot.
+Im Folgenden werden wir genau analysieren, wann Sie mit Zero-Shot schnell agieren sollten und wann Sie die KI mit Few-Shot an die Hand nehmen müssen, um das gewünschte Ziel präzise zu erreichen. Verschwenden Sie keine Zeit mehr mit unpassenden KI-Antworten. Wenn Sie diesen Leitfaden heute meistern, werden Sie zu einem wahren Prompt-Engineer, der sofort nach der Eingabe perfekte Ergebnisse erhält.
 
 ---
 
-## 🚀 Die Lösung: Prompt-Strategien im Vergleich
+## 📊 Der Beweis: Überzeugende Ergebnisse (Vorher & Nachher)
 
-### 🥉 Basic Version (Zero-Shot: Der direkte Weg)
+### ❌ Vorher (Zero-Shot Eingabe)
 
-Setzen Sie diese Methode ein, wenn Sie blitzschnelle Antworten auf alltägliche Fragen brauchen oder die Aufgabe trivial ist (wie simple Übersetzungen oder kurze Zusammenfassungen).
+Der Schmerz mechanischer und seelenloser Texte, die die KI erstellt, wenn man komplexe Situationen nicht erklärt und nur vage Anweisungen ohne Beispiele gibt.
 
-> **Rolle:** Du bist ein professioneller Übersetzer.
->
-> **Aufgabe:** Übersetze den folgenden Text ins Spanische.
->
-> **Text:** "Das Wetter ist heute wirklich hervorragend für einen Spaziergang."
+```text
+Wandle den folgenden Satz in ein Entschuldigungsschreiben an einen Kunden um:
+"Die Lieferung verzögert sich. Es gibt zu viel zu tun. Kommt morgen."
+```
 
-### 🥇 Pro Version (Few-Shot: Der Präzisions-Weg)
+_(Mechanisches Ergebnis der KI)_
 
-Nutzen Sie dieses Setup, wenn ein fehlerfreies Ausgabeformat (z. B. fehlerfreies JSON), eine unverwechselbare Brand Voice oder eine komplexe Struktur zwingend erforderlich sind – Dinge, die sich nur schwer in abstrakte Worte fassen lassen.
+```text
+Sehr geehrter Kunde, wir bitten um Entschuldigung für die Verzögerung der Lieferung. Aufgrund des hohen Aufkommens wird die Lieferung voraussichtlich morgen erfolgen.
+```
 
-> **Rolle (Role):** Du bist ein kreativer Copywriter, der modernes Englisch in feinsten Piraten-Slang übersetzt.
+### ✅ Nachher (Few-Shot Eingabe)
+
+Durch den Einsatz von nur einem klaren Beispiel imitiert die KI sofort die authentische Marken-Tonalität für B2B-Kunden und liefert das gewünschte Ergebnis.
+
+```text
+Wandle den folgenden Satz unter Bezugnahme auf das Beispiel in ein authentisches B2B-Entschuldigungsschreiben um.
+
+Beispiel 1:
+- Eingabe: "Server ist abgestürzt. Wir reparieren es."
+- Ausgabe: "Wir bitten aufrichtig um Entschuldigung für die Unannehmlichkeiten bei der Nutzung unseres Dienstes. Aufgrund eines unerwarteten Anstiegs des Traffics kam es zu Serverinstabilitäten. Wir arbeiten derzeit mit Hochdruck an der Wiederherstellung."
+
+Eingabe: "Die Lieferung verzögert sich. Es gibt zu viel zu tun. Kommt morgen."
+Ausgabe:
+```
+
+_(Ergebnis, das die Absicht perfekt widerspiegelt)_
+
+```text
+Wir bedauern die Unannehmlichkeiten durch die Verzögerung Ihrer Bestellung zutiefst. Aufgrund eines aktuellen sprunghaften Anstiegs des Bestellvolumens hat sich der Versand leider verzögert. Die Ware wird im Laufe des morgigen Tages sicher zugestellt. Wir werden unsere Prozesse optimieren, um sicherzustellen, dass ein solches Problem künftig nicht mehr auftritt.
+```
+
+---
+
+## ⚡️ 3-Zeilen-Zusammenfassung (TL;DR)
+
+1. **Zero-Shot:** Nur Anweisungen ohne Beispiele. Optimal für leichte Aufgaben wie einfache Zusammenfassungen, allgemeine Übersetzungen oder Brainstorming.
+2. **Few-Shot:** Bereitstellung von 1–3 klaren Beispielen (Input-Output-Paare). Unverzichtbar für komplexe Datenformatierung, die Wahrung der Marken-Tonalität oder die Imitation eines konsistenten Stils.
+3. **Optimale Strategie:** Testen Sie zuerst mit Zero-Shot. Wenn Tonalität oder Format auch nur geringfügig abweichen, wechseln Sie sofort zu Few-Shot und fügen Sie konkrete Beispiele ein.
+
+---
+
+## 🚀 So schreiben echte Experten
+
+Dies ist ein Prompt, der nach dutzenden Versuchen perfektioniert wurde. Kopieren Sie den untenstehenden Prompt und füllen Sie die `[Variablen]` in den Klammern passend zu Ihrer Situation aus, um ihn sofort in der Praxis einzusetzen.
+
+### 🥉 Basic Version (Zero-Shot Prompt)
+
+Verwenden Sie diesen Prompt, wenn Sie das umfassende Hintergrundwissen der KI schnell und ohne komplexe Formatierung nutzen möchten.
+
+> **Rolle (Role):** Du bist ein `[erfahrener IT-Fachübersetzer mit 10 Jahren Berufserfahrung]`.
 >
-> **Kontext (Context):**
+> **Aufgabe (Task):** Übersetze den folgenden Satz in natürliches Spanisch: `[Das Wetter heute ist wirklich schön. Es ist ein perfekter Tag für einen Spaziergang.]`
+
+### 🥇 Pro Version (Few-Shot Prompt)
+
+Verwenden Sie diesen Prompt, wenn es strikte „Regeln“ gibt, bei denen die KI keine Fehler machen darf, wie z. B. Ihre eigene Marken-Tonalität oder ein spezielles JSON-Format.
+
+> **Rolle (Role):** Du bist ein `[Copywriter mit einem humorvollen und freundlichen Piraten-Konzept]`.
 >
-> - Hintergrund: Ich brauche authentisch klingende Piraten-Sätze für ein neues Videospiel.
-> - Ziel: Der Stil muss rau, humorvoll und nautisch sein.
+> **Situation (Context):**
 >
-> **Beispiele (Few-Shot Muster):**
->
-> - Englisch: "Hello, how are you?"
-> - Pirat: "Ahoy matey, how be ye fairin'?"
-> - Englisch: "Where is the bathroom?"
-> - Pirat: "Where be the head?"
+> - Hintergrund: `[Wir müssen Hinweistexte für unsere neue Event-Seite erstellen.]`
+> - Ziel: `[Gewöhnliche Hinweistexte in die typische raue, aber freundliche Piraten-Sprache umzuwandeln.]`
 >
 > **Aufgabe (Task):**
 >
-> 1. Übersetze den folgenden Satz nach dem exakt gleichen Muster der obigen Beispiele.
+> 1. Übersetze den von mir angegebenen `[Ziel-Satz]` unter Bezugnahme auf die untenstehenden Beispiele (Shots) in Piratensprache.
 >
-> - Englisch: "I would like to order a large glass of water, please."
-> - Pirat: `[Hier die Antwort einfügen]`
+> **Beispiele (Examples - Few-Shot):**
+>
+> - Eingabe: "Hallo, willkommen!"
+> - Ausgabe: "Ahoi Kameraden, willkommen an Bord! Kommt auf das Schiff!"
+> - Eingabe: "So nehmen Sie am Event teil."
+> - Ausgabe: "Willst du den Schatz finden? Schau dir diese Karte genau an!"
+> - Eingabe: "Wo ist die Toilette?"
+> - Ausgabe: "Wo ist hier der Donnerbalken?"
+>
+> **Ausführung (Execution):**
+>
+> - `[Ziel-Satz]`: `[Nimm an unserem diesjährigen Sommer-Rabatt-Event teil und gewinne großartige Preise!]`
 >
 > **Einschränkungen (Constraints):**
 >
-> - Liefere nur den übersetzten Satz, absolut keine weiteren Erklärungen oder Einleitungen.
+> - Die Ausgabe muss zu 100 % mit dem Tonfall und der Atmosphäre der Beispiele übereinstimmen.
 
 ---
 
-## 💡 Autoren-Kommentar (Insight)
+## 💡 Kommentar des Autors (Insight & How to use)
 
-Im Agentur- und Entwickleralltag ist der Sprung von Zero-Shot zu Few-Shot für viele Kollegen ein echter Augenöffner. Wer versucht, ChatGPT mit **seitenlangen abstrakten Erklärungen** (Zero-Shot) in eine starre CSV-Struktur zu zwingen, wird unweigerlich scheitern. Liefert man der KI stattdessen einfach **zwei makellose Zeilen als Referenz** (Few-Shot), adaptiert sie das Muster augenblicklich. Der Grund ist simpel: **Anschauliche Beispiele sind für LLMs weitaus greifbarer als komplexe Regelwerke.** Ein wichtiger Trade-off bleibt jedoch: Jedes zusätzliche Beispiel frisst wertvolle Token im Kontextfenster und treibt bei API-Nutzung die Kosten in die Höhe. Der Schlüssel liegt also in der Qualität und Präzision der Beispiele, nicht in ihrer schieren Menge.
+Der häufigste fatale Fehler bei der Nutzung von KI in der Praxis ist, eine komplexe Aufgabe einfach als Zero-Shot hinzuzufügen, in der Hoffnung: „Es ist ein aktuelles Modell, das wird schon passen“. Aktuelle große Sprachmodelle (LLMs) wie GPT-4o oder Claude 3.5 Sonnet verfügen über beeindruckende Zero-Shot-Fähigkeiten basierend auf riesigen Datenmengen. Aber was wir im Geschäftsalltag wirklich wollen, ist kein „plausibler Allgemeinplatz“. Wir müssen **„genaue Datenformate (z. B. CSV, JSON, spezifische Markdown-Strukturen)“** oder **„subtile Nuancen (z. B. ein vertrauenswürdiger, aber nicht zu schwerer Ton für B2B-SaaS-Kunden)“** ohne die geringste Abweichung treffen. An diesem Punkt zeigen sich die Grenzen von Zero-Shot deutlich, und am Ende ist **Few-Shot** die einzige und perfekte Antwort.
+
+Versuchen Sie beim Schreiben eines Prompts, **nur ein einziges perfektes Beispiel (Shot)** des gewünschten Ergebnisses hinzuzufügen. Sie werden erleben, wie sich der 30-minütige Stress, in dem die KI Unsinn redet und Sie alles korrigieren müssen, in nur einer Minute in ein kleines Wunder verwandelt. Few-Shot ist mehr als nur die Anweisung „Mach es so“; es ist so, als ob man der KI einen **„Bewertungsmaßstab“** in die Hand gibt. Die KI berechnet das Muster aus dem von Ihnen bereitgestellten `Eingabe-Ausgabe`-Paar zurück und kopiert Satzlänge, Wortwahl und sogar die emotionale Temperatur perfekt.
+
+Es gibt jedoch ein wichtiges **Kern-Know-how zur Steuerung der Variablen (Constraint Control)**, das Sie bei der Verwendung von Few-Shot beachten müssen. Erstens: **Die Qualität der Beispiele bestimmt die Qualität des Ergebnisses.** Da Few-Shot eine Technik ist, die die Nachahmungsfähigkeit der KI maximiert, wird die KI selbst Fehler oder logische Sprünge in Ihren Beispielen als Regel missverstehen und hervorragend reproduzieren. Daher müssen Beispiele immer sorgfältig erstellte, perfekte Musterlösungen sein.
+
+Zweitens: **Viel hilft bei Beispielen nicht immer viel.** Im Allgemeinen reichen 1 bis 3 Beispiele (One-Shot bis Few-Shot) aus, um die Richtung der KI festzulegen. Wenn Sie zu viele Beispiele geben (z. B. 5 oder 10), gerät die KI in einen Zustand der **Überanpassung (Overfitting)**, in dem sie sich zu sehr an die vorgegebenen Beispiele klammert. Dies bedeutet den Verlust der Fähigkeit, kreativ und flexibel auf neue Eingaben zu reagieren. Zudem verbrauchen unnötig viele Beispiele schnell das Kontextfenster (Token), was die Antwortgeschwindigkeit verlangsamt und die API-Kosten in die Höhe treibt.
+
+Sorgen Sie schließlich für **„Vielfalt“ in den Beispielen.** Wenn Sie nur Beispiele für positive Situationen geben, könnte die KI bei negativen Eingaben verwirrt sein und in einem falschen Format antworten. Die Einbeziehung von Edge-Cases und verschiedenen Situationen (z. B. 1 Erfolgsfall, 1 Fehler-/Ausnahmefall) als Beispiele erhöht die Robustheit des Prompts drastisch. Wenn Sie sich an diese drei Prinzipien erinnern, haben Sie ein mächtiges Werkzeug gewonnen, um selbst die schwierigsten Aufgaben in der Praxis zu 100 % über die KI zu steuern.
 
 ---
 
 ## 🙋 Häufig gestellte Fragen (FAQ)
 
-- **Q: Wie viele Beispiele sind für ein effektives Few-Shot Prompting ideal?**
-  - A: In der Praxis genügen **1 bis 3 gestochen scharfe Beispiele** (oft auch als "One-Shot" oder "Few-Shot" bezeichnet). Alles jenseits von 5 Beispielen neigt dazu, das Modell zu überladen und verschwendet lediglich wertvolle Token-Kapazitäten.
-
-- **Q: Ist Few-Shot auch für kostenlose, schwächere Modelle (wie ChatGPT-3.5) sinnvoll?**
-  - A: Absolut! Ironischerweise profitieren **ältere oder kompaktere Modelle weitaus stärker** von präzisen Beispielen als Flaggschiff-Modelle wie GPT-4, die oft bereits im reinen Zero-Shot-Betrieb exzellente Ergebnisse liefern.
-
-- **Q: Was tue ich, wenn die KI meine Beispiele einfach stumpf kopiert, statt sie anzuwenden?**
-  - A: Dieser Fehler tritt auf, wenn Ihre Beispiele inhaltlich zu nah an der eigentlichen Zielaufgabe liegen. Die Lösung: Nutzen Sie Few-Shot-Muster, die **strukturell identisch**, aber **inhaltlich völlig unabhängig** von der finalen Aufgabe sind.
+- **Q: Wie viele Beispiele (Shots) sind am effizientesten?**
+  - A: Im Allgemeinen reichen 1–3 (One-Shot bis Few-Shot) aus. Mehr als 5 Beispiele können dazu führen, dass die KI zu stark auf die Beispiele fixiert ist (Overfitting) und keine kreativen Antworten mehr gibt, oder es kommt zu unnötiger Token-Verschwendung.
+- **Q: Obwohl ich klare Beispiele eingefügt habe, ist die Qualität des Ergebnisses schlecht.**
+  - A: Wahrscheinlich mangelt es den bereitgestellten Beispielen an Konsistenz oder die logische Struktur ist vage. Die KI lernt komplexe „Muster“ aus Ihren Beispielen. Prüfen Sie erneut, ob die logische Verbindung zwischen Eingabe und Ausgabe klar ist und ob es verborgene Regelkonflikte gibt.
 
 ---
 
-## 🧬 Prompt-Anatomie (Why it works?)
+## 🧬 Prompt-Analyse (Why it works?)
 
-1. **Unaufhaltsames Pattern Matching:** LLMs sind architektonisch darauf gedrillt, Wahrscheinlichkeiten für das nächste Token zu berechnen. Few-Shot-Beispiele liefern dem Modell ein so **starkes mathematisches Fundament**, dass ihm gar nichts anderes übrig bleibt, als die Logik präzise fortzuführen.
-2. **Implizite Formatkontrolle:** Statt der KI umständlich zu diktieren: "Der Quelltext gehört nach links, die Übersetzung nach rechts, exakt getrennt durch einen Doppelpunkt", demonstriert das Beispiel das Layout in Echtzeit. Die KI adaptiert diese visuelle Struktur **instinktiv und ohne Reibungsverluste**.
-
----
-
-## 📊 Beweis: Before & After
-
-### ❌ Before (Wenn Zero-Shot an Grenzen stößt)
-
-```text
-Prompt: Übersetze "I want water" in Piraten-Sprache.
-Ergebnis: "Ich möchte Wasser."
-(Die KI hat den Kontext ignoriert oder zu wörtlich übersetzt, weil die Anweisung zu vage war).
-```
-
-### ✅ After (Die Magie klarer Muster)
-
-```text
-Prompt: (Siehe Pro Version oben)
-Ergebnis: "Arrr, fetch me a mighty tankard o' yer finest sea water, ye scurvy dog!"
-```
+1.  **Mustererkennung (Pattern Recognition):** LLMs sind im Wesentlichen hochentwickelte Wahrscheinlichkeitsmodelle, die das nächste Wort vorhersagen. Wenn Sie mit Few-Shot klare `Eingabe-Ausgabe`-Paare zeigen, erkennt die KI sofort die darin verborgenen subtilen Muster (Tonfall, Textlänge, Format) und imitiert sie perfekt.
+2.  **Beseitigung von Mehrdeutigkeit (Disambiguation):** Eine Zero-Shot-Anweisung wie „Schreib professionell“ interpretiert jeder anders. Aber in dem Moment, in dem Sie ein konkretes Beispiel wie „Schreib wie in diesem Satz“ zeigen, wird der zuvor vage Nuancen-Maßstab zwischen KI und Mensch zu 100 % synchronisiert.
 
 ---
 
-## 🎯 Fazit
+## 🎯 Fazit (Epilogue)
 
-Die goldene Leitlinie für effizientes Prompt Engineering lautet: **Starten Sie immer schlank mit Zero-Shot.** Moderne KI-Modelle besitzen eine beeindruckende Grundintelligenz. Doch in der Sekunde, in der das Modell Formatierungsvorgaben ignoriert, unpassende Töne anschlägt oder zu halluzinieren beginnt, ist der **sofortige Wechsel zu Few-Shot** geboten. Ein einziges, durchdachtes Referenzbeispiel eliminiert stundenlange Frustration und zahllose Korrekturschleifen.
+„Die KI wird nur so intelligent sein wie die Beispiele, die Sie ihr zeigen.“
 
-Wenden Sie diese Methodik bei Ihrem nächsten Datenstrukturierungs- oder Textprojekt direkt an – und beobachten Sie, wie der KI-Output schlagartig professioneller wird. Sparen Sie wertvolle Zeit und schonen Sie Ihre Nerven! 🍷
+Testen Sie anfangs die grundlegenden Schlussfolgerungsfähigkeiten der KI mit **Zero-Shot**. Aber wenn Sie perfekte Ergebnisse benötigen, insbesondere das in der Praxis geforderte konsistente Format und die Marken-Tonalität, zögern Sie nicht, Ihren Prompt mit **Few-Shot** aufzurüsten. Dieser kleine Unterschied eines einzigen „Beispiels“ wird den Schmerz des ständigen Korrigierens der Ergebnisse vollständig beseitigen und Sie zu einem wahren Prompt-Engineer machen.
+
+Nutzen Sie jetzt perfekte Beispiele als Waffe, um sofort die gewünschten Antworten zu erhalten.
+
+Automatisieren Sie Ihre Arbeit und genießen Sie Ihren Feierabend! 🍷

@@ -4,9 +4,9 @@ title: "NestJS vs Express : Le Guide de Survie des Frameworks Backend en 2026"
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "백엔드/DB"
+category: "General"
 description: "Express, l'esprit libre, face à NestJS, le gestionnaire strict. Découvrez pourquoi NestJS est le choix incontournable pour les projets à grande échelle."
-tags: ["NestJS", "Express", "Node.js", "백엔드", "프레임워크"]
+tags: ["NestJS", "Express", "Node.js", "Backend", "프레임워크"]
 ---
 
 ## 🛡️ NestJS vs Express : Le Guide de Survie des Frameworks Backend en 2026

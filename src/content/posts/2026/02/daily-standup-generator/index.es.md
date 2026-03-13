@@ -1,134 +1,165 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"1분 만에 끝내는 스크럼/데일리 스탠드업 작성법\""
+title: "Cómo escribir tu Scrum/Daily Standup en solo 1 minuto"
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "협업"
-description: "Organiza tu día caótico en un formato ágil claro de 'Ayer / Hoy / Bloqueos' en apenas 1 minuto."
+category: "Colaboración"
+description: "Optimiza tu Daily Standup con este prompt de IA que organiza tus tareas en un formato profesional de 'Ayer, Hoy y Bloqueos' en solo un minuto."
 tags: ["Scrum", "Agile", "Standup", "Communication"]
 ---
 
-## 📝 Cómo redactar tu Scrum / Daily Standup en 1 minuto
+## 📝 Cómo escribir tu Scrum/Daily Standup en solo 1 minuto
 
-- **🎯 Recomendado para:** Desarrolladores, Product Managers y Agile Coaches
-- **⏱️ Tiempo requerido:** 15 minutos → 1 minuto
-- **🤖 Modelo recomendado:** Cualquier IA de razonamiento (ChatGPT, Claude, Gemini, etc.)
+- **🎯 Dirigido a:** Desarrolladores, gestores de proyectos, diseñadores y cualquier profesional en equipos Agile.
+- **⏱️ Tiempo requerido:** Reduce la preparación de 15 minutos a solo 1 minuto.
+- **🤖 Rendimiento óptimo:** Se recomiendan modelos de razonamiento avanzados (totalmente compatible con cualquier modelo).
 
 - ⭐ **Dificultad:** ⭐☆☆☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"¿Te quedas en blanco cada mañana intentando recordar qué hiciste ayer para la Daily? Deja que la IA estructure tu caos mental en segundos."_
+> _"¿Sientes temor al encender el micrófono en Zoom cada mañana a las 10:00 AM cuando llega el momento del Daily Scrum?"_
 
-Las reuniones diarias (Daily Standups) son el corazón de la sincronización en metodologías ágiles, pero reconozcámoslo: solemos perder un tiempo valioso intentando recordar en qué trabajamos el día anterior y estructurando nuestras prioridades actuales. Y lo que es peor, con las prisas, a menudo olvidamos mencionar bloqueos críticos. Con este prompt, ya no tendrás que esforzarte; basta con arrojar tus notas desordenadas y la IA las convertirá instantáneamente en un reporte profesional, claro y directo.
+**La presión de las 10:00 AM no es un sufrimiento que solo tú sientes.**
+Cada mañana a las 10:00, al conectarte a Slack o Zoom para compartir lo que hiciste ayer y lo que harás hoy en el Daily Standup, ¿esperas ese momento con ganas o con ansiedad? Muchos desarrolladores junior, diseñadores y especialistas en marketing sienten una presión psicológica intensa a medida que se acerca su turno. "¿Qué fue lo que hice ayer exactamente?". La mente se queda en blanco y empiezas a buscar desesperadamente tickets en Jira, notas o el historial de Slack. Al final, cuando te toca hablar, terminas diciendo excusas o quejas sin sentido como: "Ayer estuve sufriendo con un bug", "No pude hacer nada porque el servidor se cayó" o "Tuve tantas reuniones que no tuve tiempo para programar".
+Has trabajado más duro que nadie y te has quedado hasta tarde, pero si no logras presentar tus logros de forma lógica en la reunión matutina, **te arriesgas a parecer incompetente**. A veces, decidir qué decir por la mañana resulta más estresante que encontrar un bug en el código de ayer. Esta es la cruda realidad del "Síndrome del Standup" que viven a diario miles de profesionales en organizaciones Agile en todo el mundo.
+
+**El desastre de un mal Standup: la pérdida de confianza y el pozo del tiempo perdido**
+El problema es que un reporte desorganizado no solo termina en un momento vergonzoso para ti. Siendo realistas, tus compañeros no quieren escuchar TMI (Too Much Information), historias largas o relatos detallados de fracasos. Cuanto más se alarga el standup de alguien, más pesado se vuelve el ambiente, la concentración de los colegas cae en picado y solo queda una pregunta: "¿A dónde quiere llegar con esto?".
+Desde la perspectiva de un líder o Scrum Master, un reporte honesto pero sin filtrar como "Ayer estuve perdiendo el tiempo todo el día" es un error crítico que daña la confianza en ti. Lo que un líder realmente quiere saber en el standup no es **'cuánto sufriste ayer', sino 'qué problemas resolviste y cómo puede el equipo ayudarte hoy para que el proyecto avance hacia su objetivo'**.
+Este tipo de comunicación ineficiente y emocional degrada la productividad de todo el equipo y desvirtúa la esencia del Agile, que es identificar y responder rápidamente a los problemas. Al final de cada reunión, terminas en un ciclo de arrepentimiento pensando: "No debí haber dicho esa excusa" o "Debí sonar más profesional". ¿Hasta cuándo vas a permitir que este círculo vicioso te agote?
+
+**La solución definitiva: un Standup perfecto en 1 minuto gracias a la IA**
+Es hora de liberarse por completo de ese estrés agotador. Te presento el prompt de IA definitivo que reducirá drásticamente el tiempo de redacción de tus reportes **de 15 o 20 minutos a solo 1 minuto**.
+Ya no necesitas quedarte mirando el monitor intentando construir la frase perfecta. Simplemente anota de forma tosca y rápida en un bloc de notas lo que hiciste ayer, lo que tienes que hacer hoy y los obstáculos que te están molestando. La IA actuará como un filtro frío y objetivo que eliminará las palabras emocionales y las quejas para transformarlas en un guion profesional centrado en hechos y logros.
+Este prompt no es una simple herramienta de resumen de texto. Es un arma poderosa que hila tus registros de trabajo dispersos para posicionarte como el **experto senior más capaz y con mejores habilidades de comunicación** del equipo. No importa cuán compleja sea la situación o cuán delicado sea el problema, con este prompt tendrás una estructura sólida para reportar con total seguridad.
+
+**Hacia el reconocimiento profesional y la libertad de salir a tiempo**
+En el momento en que apliques este prompt en tu trabajo, el terror de cada mañana se convertirá en la oportunidad de demostrar con orgullo lo que has logrado. Tu voz en la reunión de standup transmitirá una firme convicción, y tus reportes concisos y claros harán que tus compañeros asientan con la cabeza. El elogio sincero de tu líder: "Gracias por compartirlo de forma tan clara y directa", vendrá por añadidura.
+Olvida ese pasado en el que te sentías intimidado por reportes demasiado largos. Ahora te convertirás en un talento clave e insustituible que sincroniza el trabajo de todo el equipo más rápido que nadie y explota el rendimiento del proyecto enfocándose en lo que realmente importa. Ahorra esa energía que desperdiciabas preparando reuniones para disfrutar de un café por la mañana y completa tu jornada sin horas extras gracias a una comunicación eficiente. El milagro de 1 minuto que cambiará tu carrera y tus mañanas comienza ahora mismo. ¿Empezamos?
+
+---
+
+## 📊 Prueba: Resultados impactantes (Antes y Después)
+
+### ❌ Antes (El sufrimiento habitual)
+
+Ayer hubo un error en los pagos y estuve todo el día sufriendo por eso. La API externa se caía a cada rato. Así que, por ahora, puse un código para que reintente la operación, ya que era urgente. Hoy tengo que subir esto al servidor y ver si funciona bien. Por la tarde tengo una reunión con el equipo de producto. Ah, y por cierto, el servidor de pruebas va lentísimo y es imposible trabajar así, que el equipo de infraestructura lo revise, por favor.
+
+### ✅ Después (La transformación perfecta)
+
+```text
+**[Qué hice ayer]**
+Me enfoqué en depurar errores intermitentes en el módulo de pagos. Identifiqué que la causa eran los tiempos de espera (timeouts) de la API externa y apliqué una lógica de reintento para asegurar la estabilidad del sistema, resolviendo el problema de forma temporal.
+
+**[Qué haré hoy]**
+Tengo previsto desplegar y monitorear la lógica de pagos corregida ayer. Por la tarde, asistiré a la reunión de revisión de nuevos requisitos con el equipo de producto.
+
+**[Bloqueos / Ayuda necesaria]**
+Estamos experimentando latencia significativa en el servidor de pruebas, lo que está generando un cuello de botella en el cronograma de QA. Sería de gran ayuda que el equipo de infraestructura revise el entorno para normalizar las pruebas.
+```
 
 ---
 
 ## ⚡️ Resumen en 3 líneas (TL;DR)
 
-1. Introduce tus ideas de forma caótica; la IA se encargará de darles una estructura perfecta.
-2. Obtén al instante un formato estandarizado infalible: Qué hice ayer, Qué haré hoy y Bloqueos.
-3. Recupera minutos valiosos cada mañana y eleva la calidad de la comunicación asíncrona en tu equipo.
+1. **Envoltorio de logros automático:** Reestructura las frases enfocándose en los resultados (logros) en lugar de en el proceso de dificultad (esfuerzo).
+2. **Unificación de formato perfecta:** Obliga a usar la estructura estándar que los compañeros prefieren: Ayer (Yesterday) / Hoy (Today) / Bloqueos (Blockers).
+3. **Solicitud de ayuda clara:** En lugar de quejas emocionales, especifica objetivamente qué ayuda se necesita de quién para resolver el problema.
 
 ---
 
-## 🚀 Solución: "Generador de Daily Standup"
+## 🚀 Así es como lo escriben los verdaderos expertos
 
-### 🥉 Versión Básica
+### 🥉 Versión Básica (Basic Version)
 
-Úsalo cuando estés con el tiempo en contra y necesites estructurar tus ideas rápidamente antes de la llamada.
+Útil cuando necesitas lanzar rápidamente una actualización de estado por texto en mensajería como Slack o Teams.
 
-> **Rol:** Eres un desarrollador de software ágil.
-> **Tarea:** Convierte las siguientes notas desordenadas en un reporte estructurado para una Daily Standup utilizando este formato: 1. Ayer, 2. Hoy, 3. Bloqueos.
-> **Notas:** `[Inserta aquí tus tareas de forma desordenada]`
+> **Rol:** Eres un Scrum Master experto.
+>
+> **Tarea:** Basándote en mis notas, redacta un mensaje de Daily Standup impecable para compartir en Slack.
+>
+> **Mis notas:**
+>
+> - Ayer: Corregí API de login, cambié esquema de DB, cena de equipo.
+> - Hoy: Integración de página de registro, reunión con equipo de diseño.
+> - Bloqueo: Inestabilidad en la conexión al servidor de AWS.
 
-### 🥇 Versión Profesional
+### 🥇 Versión Pro (Expert Version)
 
-Ideal para generar un reporte exhaustivo, impecable y listo para ser copiado y pegado directamente en Slack, Microsoft Teams o Jira.
+Altamente recomendada cuando tienes que presentar oralmente en una videoconferencia o cuando quieres dejar una impresión de liderazgo y profesionalismo ante los directivos.
 
-> **Rol (Role):** Eres un Scrum Master experimentado y un especialista en comunicación corporativa eficiente.
+> **Rol (Role):** Eres un desarrollador senior con excelentes habilidades de comunicación en un equipo Agile de Silicon Valley.
 >
 > **Contexto (Context):**
 >
-> - Entorno: Necesito compartir mi actualización diaria (Daily Standup) con mi equipo de desarrollo.
-> - Objetivo: Transformar un volcado de ideas caóticas en un mensaje nítido, al grano y sumamente profesional.
+> - Pasé todo el día de ayer luchando con un error de origen desconocido y estuve muy ocupado, pero me preocupa que externamente parezca que no hubo mucho progreso.
+> - No quiero sonar como si estuviera dando excusas o quejándome; quiero parecer un "experto" que resolvió el problema de forma proactiva.
+>
+> **Datos de entrada (My Notes):**
+>
+> - Ayer: Pasé 4 horas buscando un bug en el módulo de pagos. La causa era un timeout de la API externa. Al final puse una lógica de reintento y lo solucioné temporalmente.
+> - Hoy: Desplegaré lo de ayer y lo monitorearé. Por la tarde reunión de revisión de requisitos con producto.
+> - Bloqueo: El servidor de pruebas está lentísimo y el QA se está retrasando. Necesito que infraestructura lo revise.
 >
 > **Tarea (Task):**
 >
-> 1. Analiza las siguientes `[Notas de trabajo]` y clasifícalas rigurosamente en tres categorías: **Ayer (Done)**, **Hoy (To-Do)** y **Bloqueos (Blockers/Issues)**.
-> 2. Redacta cada punto utilizando viñetas (bullet points) para maximizar la legibilidad en pantalla.
-> 3. Emplea un tono profesional, colaborativo y directo. Omite cualquier jerga innecesaria salvo que se mencione explícitamente en las notas.
-> 4. Si no se identifican impedimentos en las notas, omite la sección o limítate a escribir "Ninguno".
->
-> **Notas de trabajo:**
-> `[Escribe aquí todo lo que hiciste y vas a hacer, sin preocuparte por la gramática o el orden. Ej: Ayer arreglé el bug del login, hoy voy a empezar con la API de pagos, pero necesito acceso a AWS y nadie me lo ha dado.]`
+> 1. Basándote en los datos anteriores, escribe un **guion para presentación oral (Script)** que se pueda leer en menos de 1 minuto.
+> 2. Elimina por completo expresiones emocionales como "sufrí haciendo tal cosa" y reestructura las frases enfocándote en **Logros (Achievements) y Resolución de Problemas**, por ejemplo: "Identifiqué el problema de timeout en la API externa e implementé una lógica de reintento para construir un código defensivo".
+> 3. Redacta los Blockers (bloqueos) de forma educada pero firme, con un tono que solicite el apoyo del equipo de infraestructura.
 >
 > **Restricciones (Constraints):**
 >
-> - El resultado final debe entregarse estrictamente en formato Markdown.
-> - Sé extremadamente conciso. Suprime las introducciones largas; nadie quiere leer testamentos en una Daily.
-> - Integra emojis corporativos sobrios para diferenciar cada sección (ej. 🔙 Ayer, 🔜 Hoy, 🛑 Bloqueos).
+> - Usa formato Markdown y respeta estrictamente la siguiente estructura:
+>   - **[Qué hice ayer]**: (Enfocado en logros clave, máximo 2 frases)
+>   - **[Qué haré hoy]**: (Planes específicos, máximo 2 frases)
+>   - **[Bloqueos / Ayuda necesaria]**: (Solicitud con llamada a la acción)
+> - Escribe en un lenguaje natural y profesional (usando formas verbales adecuadas para una presentación).
 
 ---
 
-## 💡 Comentario del Autor (Insight)
+## 💡 Comentario del autor (Insight)
 
-Este prompt es un auténtico salvavidas para esas mañanas en las que tienes la primera reunión del día y tu cerebro todavía no ha arrancado del todo. En mi día a día, lo utilizo haciendo un "volcado de memoria" (brain dump) directo hacia la IA: me limito a teclear palabras sueltas sobre lo que recuerdo de la jornada anterior y las tareas pendientes que marcan mi calendario de hoy.
+**La esencia del standup no es el desahogo emocional, sino la sincronización fría (Sync).**
+La reunión de standup no es, bajo ningún concepto, un lugar para reportes emocionales donde buscas consuelo o intentas demostrar a tus colegas cuánto trabajaste o cuánto sufriste. En la metodología Agile Scrum, el verdadero propósito del Daily Meeting es **sincronizar rápida y precisamente con todo el equipo 'qué obstáculos he superado para alcanzar los objetivos y dónde se están produciendo cuellos de botella (bottlenecks)'**.
+Muchos profesionales junior y middle suelen cometer el error de explicar detalladamente sus dificultades y procesos (el tiempo perdido "picando piedra"). Pero, siendo realistas, a tus colegas les importa mucho menos qué documentos de Stack Overflow consultaste para resolver un error que el hecho de que el problema se haya resuelto y 'cómo eso impacta positivamente en nuestro cronograma de Sprint hoy'. El valor real de este prompt reside precisamente aquí. Al usar la IA como un editor implacable y filtro emocional, logras **eliminar el cansancio, las quejas y las excusas desorganizadas para refinar solo los hechos, los logros y los siguientes pasos accionables (Action Items)**.
 
-La IA hace el trabajo pesado y le otorga esa estructura "ejecutiva" impecable. Resulta **excepcionalmente útil para equipos remotos y asíncronos** que comparten sus actualizaciones vía Slack o Discord, ya que te asegura un formato siempre consistente, altamente profesional y, sobre todo, fácil de escanear por el resto de tus compañeros. ¡Se acabaron los muros de texto indescifrables!
+**Control de contexto mediante variables (Context & Variables)**
+La razón por la que este prompt ofrece un rendimiento superior a otros prompts genéricos es porque incluye un diseño meticuloso de control de variables como `[Contexto]` y `[Datos de entrada]`. Si simplemente le pidieras a ChatGPT: "Resume mis notas para una reunión de standup", la IA probablemente te daría un resumen robótico y sin alma.
+Sin embargo, en este prompt hemos inyectado explícitamente las necesidades y ansiedades ocultas del hablante: "me preocupa que parezca que no hubo progreso" o "quiero parecer un experto proactivo". Una IA que recibe este contexto psicológico humano y una imagen objetivo clara comienza a realizar un **Enmarcado Estratégico (Strategic Framing)** de alto nivel.
+Por ejemplo, una entrada negativa como 'perdí 4 horas porque no encontraba la solución' se transforma perfectamente en un logro positivo y proactivo como 'analicé las causas desde múltiples ángulos y probé una lógica defensiva para asegurar la estabilidad del sistema'.
+Cuando lo uses en tu día a día, intenta variar activamente la variable `[Contexto]`. Por ejemplo: "Hoy es una situación muy delicada porque debo informar oficialmente al equipo sobre el retraso en el lanzamiento del proyecto principal" o "Esta semana todo el equipo va sobre ruedas sin problemas críticos, así que escribe con un tono alegre y relajado para animar el ambiente matutino". Podrás obtener guiones perfectamente personalizados con matices asombrosos.
+
+**La técnica de comunicación para solicitar ayuda (Blockers) con elegancia y firmeza**
+Otro punto clave que debes notar en este prompt es el diseño detallado de la sección `[Bloqueos / Ayuda necesaria]`. En el trabajo real, el momento más difícil es cuando tienes que pedir ayuda o señalar que "no puedo avanzar porque otra persona no ha terminado su parte". Si eliges mal las palabras, puede sonar como si estuvieras pasando la responsabilidad a otro o quejándote como un niño.
+Pero la comunicación de un verdadero profesional debe ser diferente. Este prompt obliga a escribir los bloqueos como una "Llamada a la Acción (CTA - Call To Action)" en la etapa de restricciones. Como resultado, una queja visceral como "el servidor va lento y es frustrante trabajar" se convierte en una solicitud de colaboración clara y profesional: "Sería de gran ayuda que el equipo de infraestructura revise el entorno para normalizar las pruebas y así reducir el tiempo de QA".
+Esto no es solo un cambio de palabras. Al dirigir la flecha de la crítica no hacia la persona ('ustedes no gestionan bien el servidor') sino hacia el problema ('el cuello de botella que es la latencia de respuesta'), experimentas la magia psicológica de guiar la colaboración entre departamentos hacia el objetivo común de 'resolver el problema' sin desgastes emocionales innecesarios.
+
+Te aseguro que si aplicas este guion de standup bien pulido durante solo 3 días en tus reuniones de equipo, tus compañeros desarrolladores y líderes de proyecto te grabarán en su mente como 'un verdadero profesional que no se deja llevar por pequeñas emociones y enfoca toda su energía en resolver problemas'. Te recomiendo encarecidamente que disfrutes de este efecto de marca personal inmediato y explosivo que puedes obtener con solo 1 minuto de inversión.
 
 ---
 
-## 🙋 Preguntas Frecuentes (FAQ)
+## 🙋 Preguntas frecuentes (FAQ)
 
-- **P: ¿Puedo adaptar este prompt para redactar reportes semanales en lugar de diarios?**
-  - R: ¡Por supuesto! Solo tienes que sustituir las variables de "Ayer / Hoy" por "Semana Pasada / Esta Semana" dentro del prompt. La IA ajustará automáticamente el enfoque para entregarte un reporte de progreso semanal (Weekly Sync) perfecto.
+- **P: ¿Pueden los perfiles no técnicos (marketing, diseño) usar este prompt?**
+  - R: Por supuesto. Solo cambia la parte de 'Rol (Role)' en el prompt Pro a "especialista en marketing de resultados senior" o "diseñador de producto senior" e introduce tus notas de trabajo. Obtendrás un guion perfecto adaptado a las características y términos propios de tu profesión.
 
-- **P: ¿Qué hago si mis apuntes son demasiado técnicos y mi equipo no los entenderá?**
-  - R: Basta con añadir una regla adicional en la sección de Restricciones: _"Simplifica la jerga técnica para que el contenido sea comprensible para stakeholders no técnicos"_. Con esto, la IA te devolverá una versión pulida, ideal para presentar ante Product Managers o clientes.
+- **P: ¿Qué pasa si el guion suena demasiado robótico o diferente a mi forma de hablar habitual?**
+  - R: Añade explícitamente una condición al final de las Restricciones (Constraints) como: `Mi forma de hablar habitual: usa un estilo amigable y suave, como "hice tal cosa y tengo pensado hacer tal otra"`. Obtendrás un resultado mucho más natural que no generará extrañeza.
 
 ---
 
 ## 🧬 Anatomía del Prompt (¿Por qué funciona?)
 
-1. **Estructura Estricta (Categorización):** Al obligar a la IA a respetar el formato clásico de "Ayer / Hoy / Bloqueos", erradicamos cualquier texto narrativo de relleno y garantizamos el cumplimiento del estándar ágil global.
-2. **Rol de Scrum Master:** Inyecta en la IA la perspectiva de un líder técnico que prioriza la eficiencia, la claridad absoluta y la resolución de problemas por encima de los detalles superfluos.
-3. **Flexibilidad de Entrada:** Te otorga la libertad de escribir de manera natural, desordenada e incluso con faltas de ortografía, delegando el cien por cien de la carga cognitiva de "redactar y organizar" directamente a la inteligencia artificial.
-
----
-
-## 📊 Demostración: Antes y Después
-
-### ❌ Antes (Entrada del Usuario)
-
-```text
-Ayer estuve casi todo el día peleando con el ticket 452 del bug de la base de datos, creo que ya quedó pero falta probar en el entorno real. Hoy tengo que revisar unos PRs urgentes de Juan y empezar el diseño de la nueva pantalla de perfil. Ah, y no puedo avanzar con el deploy porque el servidor de staging está caído desde ayer en la tarde y nadie contesta.
-```
-
-### ✅ Después (Resultado de la IA)
-
-```markdown
-¡Hola equipo! Aquí mi actualización de hoy:
-
-🔙 **Ayer (Done):**
-
-- Trabajé en la resolución del bug de la base de datos (Ticket #452). La corrección está implementada y pendiente de pruebas en el entorno real.
-
-🔜 **Hoy (To-Do):**
-
-- Revisar los Pull Requests (PRs) urgentes de Juan.
-- Iniciar el diseño de la nueva pantalla de perfil.
-
-🛑 **Bloqueos (Blockers):**
-
-- No puedo proceder con los despliegues; el servidor de staging está caído desde ayer por la tarde. ¿Alguien de infraestructura puede revisarlo?
-```
+1. **Especificación del Contexto:** Hace que la IA reconozca el factor de ansiedad psicológica del hablante ("miedo a parecer que no progresé"). Gracias a esto, la IA evita escribir de forma defensiva o pasiva y reestructura el mensaje con un tono activo y seguro.
+2. **Exclusión de emociones y sustitución por logros:** En lugar de simplemente enumerar el tiempo de sufrimiento (4 horas buscando un bug), ordena explícitamente sustituirlo por capacidad de resolución (construcción de lógica de reintento), elevando verticalmente la calidad del reporte.
+3. **Bloqueos con llamada a la acción (CTA):** Más allá de una simple queja como "el servidor va lento", hace que se presente una dirección de acción clara como "se necesita la revisión del equipo de infraestructura", maximizando la eficiencia de la reunión.
 
 ---
 
 ## 🎯 Conclusión
 
-Tu tiempo y tu energía mental son recursos sumamente valiosos; no los malgastes redactando mensajes de rutina a primera hora de la mañana. Permite que este prompt estructure tus mañanas ágiles para que puedas concentrarte de lleno en lo que verdaderamente aporta valor: tu código, tu producto y tu trabajo profundo (Deep Work).
+No te estreses preparando el standup antes de la reunión. Simplemente lanza tus palabras clave en el bloc de notas y deja que la IA se encargue de redactar el guion profesional. ¡Aprovecha el tiempo que te sobra para disfrutar de un café y empezar el día con frescura! ☕
 
-¡Ahora ve y liquida esa Daily Standup en menos de un minuto! 🚀
+¡Espero que automatices tus tareas y puedas salir siempre a tu hora! 🍷

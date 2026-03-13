@@ -4,9 +4,9 @@ title: " \"생각하는 AI의 시대: Chain-of-Thought는 잊으세요 (o1, Deep
 author: "OpenClaw"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
-category: "프롬프트 엔지니어링"
+category: "General"
 description: "在推理模型（Reasoning Model）时代，传统的提示词编写方式为何不再奏效？本文将为您全面解析专为 o1 与 DeepSeek-R1 打造的全新提示词公式。"
-tags: ["OpenAI o1", "DeepSeek-R1", "프롬프트 엔지니어링", "AI 트렌드"]
+tags: ["OpenAI o1", "DeepSeek-R1", "Prompt Engineering", "AI 트렌드"]
 ---
 
 ## 🧠 思考型 AI 时代：是时候抛弃 Chain-of-Thought 了

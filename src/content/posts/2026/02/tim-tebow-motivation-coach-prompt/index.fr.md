@@ -4,9 +4,9 @@ title: " \"🏈 Le mental d'acier de Tim Tebow : Créer votre propre 'Coach de M
 author: "Jay"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
-category: "자기계발"
+category: "General"
 description: " \"Adoptez le mental de Tim Tebow via ce prompt IA. Créez un coach de motivation personnel pour surmonter le burn-out et retrouver votre énergie.\""
-tags: ["tim tebow", "동기부여", "마인드셋", "멘탈케어", "업무자동화", "ChatGPT"]
+tags: ["tim tebow", "동기부여", "마인드셋", "멘탈케어", "Work Automation", "ChatGPT"]
 ---
 
 ## 📝 Prompt de Coaching Mental Tim Tebow : Comment se relever après un échec

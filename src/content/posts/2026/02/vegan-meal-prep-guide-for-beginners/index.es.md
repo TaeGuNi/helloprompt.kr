@@ -1,148 +1,152 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Guía Perfecta de Meal Prep para Veganos Principiantes"
+title: "Guía completa de Meal Prep para veganos principiantes"
 author: "Jay"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
-category: "Salud y Bienestar"
-description: "Descubre cómo la IA optimiza tu meal prep con recetas veganas deliciosas, ricas en nutrientes y un flujo de cocina perfecto. ¡Olvídate de cocinar a diario!"
-tags: ["Vegano", "Vegetariano", "Meal Prep", "Salud", "ChatGPT"]
+date: "2026-02-07T09:10:33.141Z"
+updatedDate: "2026-02-07T09:10:33.141Z"
+category: "Salud & Bienestar"
+description: "¡Olvídate de las ensaladas aburridas! Planifica tu menú vegano semanal en 5 minutos con IA. Optimiza tus almuerzos con este prompt profesional de Meal Prep."
+tags: ["Vegano", "Vegetariano", "MealPrep", "Salud", "ChatGPT"]
 ---
 
-## 🥗 Guía Perfecta de Meal Prep para Veganos Principiantes
+## 🥗 Guía completa de Meal Prep para veganos principiantes
 
-- **🎯 Público Objetivo:** Profesionales con poco tiempo, estudiantes y cualquiera que busque dar el salto a una dieta *plant-based* sin complicaciones.
-- **⏱️ Tiempo Requerido:** 2 horas (preparación los domingos) → 5 minutos (calentamiento diario)
-- **🤖 Modelo Recomendado:** ChatGPT (GPT-4), Claude 3.5 Sonnet, Gemini Advanced
+- **🎯 Recomendado para:** Principiantes en el veganismo, profesionales ocupados, personas a dieta.
+- **⏱️ Tiempo requerido:** 5 minutos (ejecución del prompt y planificación del menú).
+- **🤖 Mejor rendimiento:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini Advanced.
 
 - ⭐ **Dificultad:** ⭐⭐☆☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidad:** ⭐⭐⭐⭐☆
 
-> _"¿Todavía crees que la comida vegana es sinónimo de pasar hambre o de comer solo ensaladas? Descubre cómo la IA puede armar un menú semanal saciante, delicioso y económico en cuestión de segundos."_
+> _"¿Cansado de almorzar ensaladas que son solo lechuga todos los días? Con solo 2 horas de inversión el fin de semana, completa junto a la IA el Meal Prep vegano perfecto para ser feliz los 5 días de la semana."_
 
-Uno de los mayores mitos que frena a muchas personas a la hora de intentar una dieta basada en plantas es el miedo cerval a pasar hambre, a sufrir desequilibrios nutricionales o a terminar comiendo aburridas hojas de lechuga todos los días. A esto se le suma la brutal falta de tiempo de los profesionales modernos; llegar a casa exhausto después de una jornada laboral y tener que descifrar qué cocinar con los pocos vegetales que quedan en la nevera es una receta segura para el desastre, empujándonos irremediablemente hacia el *delivery* ultraprocesado.
+Al comenzar una dieta basada en plantas, los mayores obstáculos son la "sensación de vacío" que aparece fácilmente y la "monotonía del menú". Aunque declares con firmeza tu vida vegana decidido a proteger el medio ambiente y cuidar tu salud tanto interna como externa, la cruda realidad es que mantener una dieta vegetal variada y nutricionalmente equilibrada en medio de una vida laboral frenética es casi imposible.
 
-La realidad, sin embargo, es radicalmente distinta cuando aplicas la estrategia correcta. Al combinar de forma inteligente legumbres, tofu, cereales integrales y verduras frescas, lograrás platos increíblemente deliciosos, vibrantes y mucho más saciantes que los tradicionales a base de carne. El verdadero obstáculo no es la comida en sí, sino la logística.
+Al final, terminas pasando tus almuerzos apurado con una ensalada mediocre elegida al azar en una tienda de conveniencia o con una batata seca. Después de llenarte así, a las 3 de la tarde ya sufres de un hambre atroz y una caída repentina de glucosa, cayendo a menudo en la autocrítica pensando: "¿Será que el veganismo no es para mí?". Es el momento en que comienza el círculo vicioso de llegar a casa tras horas extras, mirar el refrigerador vacío y abrir una app de comida a domicilio. Además, esos vegetales frescos que compraste con ilusión terminan pudriéndose en un rincón de la nevera, generándote culpa y estrés por desperdiciar comida cuando tu intención original era salvar el planeta. Esta mala alimentación y el estrés constante no solo causan desequilibrios nutricionales, sino que agotan por completo el motor interno necesario para llevar una vida vegana sostenible y placentera.
 
-Aquí es donde entra en juego la tecnología. Hoy te revelamos el secreto definitivo del **Meal Prep Vegano con IA**: un sistema infalible que actúa como tu chef privado y nutricionista personal. Aprenderás a resolver todos tus almuerzos de lunes a viernes invirtiendo tan solo un par de horas estratégicas los domingos. Prepárate para decirle adiós a la fatiga de decisión diaria, ahorrar cientos de dólares al mes y disfrutar de comidas nutritivas que te mantendrán con una energía imparable durante toda la tarde.
+Pero a partir de ahora, ya no tienes que sufrir de estrés y dolor de cabeza pensando en el menú de tu almuerzo cada mañana de camino al trabajo. Si utilizas activamente los últimos modelos de IA generativa como tu propio <b>"Chef Ejecutivo Vegano"</b> y "Nutricionista Personal", podrás planificar en solo 5 minutos un <b>menú de Meal Prep perfecto para la semana</b>, lleno de proteínas vegetales, incluso usando solo los restos de vegetales que tienes olvidados en el refrigerador.
 
----
+Esto no es simplemente buscar recetas veganas comunes en portales o YouTube. Una IA inteligente analizará con precisión tu lista limitada de ingredientes y diseñará un flujo de <b>cocina por lotes (Batch Cooking)</b> extremadamente eficiente y económico que te ahorrará tiempo. Además, recibirás <b>secretos profesionales de almacenamiento</b> para que, incluso tras 5 días de refrigeración, la comida no se vuelva aguada ni los vegetales se ablanden, manteniendo un sabor perfecto y una textura crujiente como si estuvieran recién hechos. Experimentarás la magia de transformar unas berenjenas marchitas y un poco de tofu a punto de caducar en un banquete digno de un restaurante Michelin para toda la semana.
 
-## ⚡️ Resumen en 3 Líneas (TL;DR)
-
-1. Genera recetas veganas 100% optimizadas usando únicamente los ingredientes que ya tienes olvidados en tu nevera.
-2. Mantén niveles de energía estables y máxima saciedad durante toda tu jornada gracias a menús estratégicamente ricos en proteína vegetal.
-3. Domina el arte del *batch cooking* y el almacenamiento inteligente para preservar la frescura y el sabor intactos hasta el último día de la semana.
+Invierte solo 2 horas este fin de semana en el proceso de Meal Prep. Tu almuerzo vegano nutritivo y variado, que estará listo con solo calentarlo en el microondas de la oficina de lunes a viernes, <b>disparará tu concentración, productividad y energía por las tardes</b>. Ese tiempo agotador que pasabas buscando restaurantes veganos o pensando qué comer, se transformará en un tiempo de descanso y recarga real, ya sea leyendo un libro o disfrutando de un paseo. No te dejes atar más a una dieta aburrida y dolorosa de "solo masticar pasto". Comienza una nueva etapa de vida vegana real, cómoda y llena de vitalidad. A continuación, revelamos el prompt <b>"IA Maestro de Meal Prep Vegano"</b> que elevará drásticamente tu rutina y alimentación.
 
 ---
 
-## 🚀 Solución: "El Maestro del Meal Prep Vegano"
+## 📊 Prueba: Resultados impactantes (Before & After)
 
-### 🥉 Basic Version (Versión Básica)
-
-Perfecta para esos momentos en los que necesitas inspiración instantánea sin complicarte la vida.
-
-> **Rol:** Eres un chef experto en cocina vegana y un ferviente defensor del "Meal Prep" (preparación anticipada de comidas).
-> **Solicitud:** Diséñame un plan de meal prep vegano de 5 días que sea altamente nutritivo, saciante y completamente libre de carne. Incluye instrucciones claras de almacenamiento.
-
-### 🥇 Pro Version (Versión Experta)
-
-La herramienta definitiva cuando exiges un menú calculado al milímetro, listas de compra hiperoptimizadas y técnicas profesionales de conservación.
-
-> **Rol (Role):** Eres un nutricionista clínico especializado en dietas *plant-based* y un chef experto en eficiencia de "Batch Cooking" (cocina por lotes).
->
-> **Contexto (Context):**
->
-> - Perfil: Soy un principiante que busca transicionar hacia una alimentación vegana de forma sostenible y sin estrés.
-> - Objetivo: Concentrar toda la cocina durante el fin de semana para tener listos los almuerzos de los 5 días laborables.
-> - Ingredientes actuales: En mi nevera tengo `[berenjena, tofu, espinacas, champiñones]`, y cuento con presupuesto para adquirir algunos complementos esenciales.
->
-> **Solicitud (Task):**
->
-> 1. Diseña un **menú de almuerzos para 5 días** que maximice el uso de mis ingredientes actuales (por ejemplo: bowls de granos, ensaladas de pasta, wraps).
-> 2. Sugiéreme la lista de la compra con los ingredientes faltantes más económicos y versátiles, garantizando un aporte impecable de proteína vegetal.
-> 3. Redacta un manual de operaciones paso a paso para ejecutar el "Batch Cooking", minimizando drásticamente los tiempos muertos en la cocina.
-> 4. Detalla un protocolo riguroso de almacenamiento para asegurar que la frescura, textura y seguridad alimentaria se mantengan intactas hasta el viernes.
->
-> **Restricciones (Constraints):**
->
-> - El método de cocción debe ser brutalmente eficiente (prioriza preparaciones de una sola sartén o bandeja de horno).
-> - Incorpora al menos dos recetas de aderezos o salsas exprés para evitar la fatiga del paladar.
-> - Limítate a condimentos estándar y de fácil acceso (salsa de soja, aceite de sésamo, especias básicas).
-> - Entrega todo el plan estructurado en un formato de tabla Markdown limpio y visual.
->
-> **Advertencia (Warning):**
->
-> - Prohibido incluir superalimentos exóticos, ingredientes caros o difíciles de encontrar. Si un plato requiere técnicas culinarias avanzadas, reemplázalo inmediatamente por una alternativa a prueba de novatos.
-
----
-
-## 💡 Insight
-
-La mayoría de los intentos por adoptar una dieta basada en plantas no fracasan por falta de voluntad, sino por la ausencia de un sistema. La falta de planificación es un agujero negro que inevitablemente nos succiona hacia el abismo de los ultraprocesados o nos hace tirar la toalla por puro agotamiento mental. La magia de este prompt radica en que asume el rol de tu planificador nutricional de cabecera, erradicando de raíz la temida fatiga de decisión diaria. Ya no te preguntarás "qué como hoy"; simplemente abrirás la nevera.
-
-Un *hack* profesional invaluable que he validado tras cientos de iteraciones con este prompt es la técnica de someter el tofu a un ciclo de congelación y descongelación. Sorprendentemente, los modelos de lenguaje suelen omitir este paso crucial a menos que se lo exijas de forma explícita. Al hacerlo, rompes la estructura celular del tofu, transformando su textura frágil en una consistencia firme, porosa y sorprendentemente "carnosa", ideal para absorber cualquier salsa como una esponja. Como tip extra de rentabilidad, exige siempre a la IA que adapte el menú a la estación actual; esta simple instrucción reducirá tu factura del supermercado al forzar el uso de productos locales de temporada.
-
----
-
-## 🙋 FAQ
-
-- **Q: ¿Significa esto que tendré que cocinar 5 platos radicalmente distintos cada semana?**
-  - A: ¡En absoluto! La verdadera genialidad del *Meal Prep* moderno no reside en la variedad de cocciones, sino en el ensamblaje. La IA te enseñará a preparar bases neutras y robustas (quinoa perfecta, garbanzos especiados, tofu marinado) que adquirirán una identidad completamente nueva cada día simplemente rotando las salsas o los *toppings*, aniquilando la monotonía sin sumar un minuto extra de trabajo.
-
-- **Q: ¿Realmente es seguro consumir comida que lleva 5 días guardada en la nevera?**
-  - A: Absolutamente, siempre que respetes la cadena de frío y utilices recipientes verdaderamente herméticos (el vidrio es tu mejor aliado). Para mitigar cualquier riesgo con ingredientes de alta humedad que podrían marchitarse, la IA está programada para indicarte exactamente qué componentes deben almacenarse por separado o si es más prudente trasladar las raciones del jueves y viernes al congelador.
-
-- **Q: Tengo restricciones dietéticas estrictas (ej. alergia a la soja). ¿Sigue siendo útil este prompt?**
-  - A: Sin duda. La arquitectura de este prompt está diseñada para ser ultra-flexible. Solo tienes que inyectar tu restricción en la sección de **Contexto (Context)**. Por ejemplo: *"Soy severamente alérgico a la soja, cero tofu o salsa de soja. Recalcula todas las proteínas basándote exclusivamente en legumbres como lentejas o garbanzos"*, y el modelo reescribirá todo el ecosistema alimentario en segundos.
-
----
-
-## 🧬 Why it works?
-
-1. **Gestión de Inventario Inteligente:** Al obligar a la IA a auditar primero lo que ya tienes a mano, bloqueamos su tendencia a generar listas de compras kilométricas y exóticas. Maximizas el retorno de tus propios ingredientes y reduces drásticamente el desperdicio alimentario.
-2. **Mentalidad Arquitectónica de "Batch Cooking":** Al no pedirle "5 recetas sueltas", sino exigirle un "sistema integral de preparación en lote", forzamos al modelo a pensar en paralelo. La IA orquestará tu tiempo para que, mientras el horno asa los vegetales, la sartén dore las proteínas.
-3. **Economía Drástica de Utensilios:** La imposición estricta de usar "una sola sartén o bandeja" es el mayor salvavidas psicológico para cualquier principiante. Evitar enfrentarse a una montaña de platos sucios el domingo por la tarde es la clave para que este hábito sea sostenible a largo plazo.
-
----
-
-## 📊 Before & After
-
-### ❌ Before (Antes)
+### ❌ Before (El dolor que sufríamos)
 
 ```text
-"Recomiéndame un menú de lonchera vegana para toda la semana."
+Voy a ser vegano, recomiéndame algunos menús de almuerzo con berenjena y tofu.
 ```
 
-*(Resultado desastroso: La IA escupe 5 recetas desarticuladas, con tiempos de cocción de 2 horas cada una, exigiendo comprar 15 especias diferentes y generando una montaña de platos sucios incompatible con la vida real).*
-
-### ✅ After (Después)
+### ✅ After (La transformación perfecta)
 
 ```text
-[Guía de Batch Cooking: Bowls Versátiles de Tofu y Verduras]
+[Menú principal: Bowl de Tofu y Champiñones Crujientes con Berenjena]
 
-[Ingredientes Clave]
-- 2 bloques de Tofu Firme (Congelado y descongelado para mejor textura).
-- Berenjena, Champiñones (Tus ingredientes actuales).
-- Base: Quinoa o Arroz Integral.
-- Aderezo: Salsa de soja, sirope de agave, ajo picado, aceite de sésamo.
+**Sugerencia de ingredientes extra:** Recomiendo añadir 'garbanzos (de bote)' para un extra de proteína y 'pimiento' para mejorar la textura.
 
-[Flujo de Cocina Optimizado (60 min)]
-1. Pon a cocer el arroz/quinoa.
-2. Corta la berenjena y los champiñones, hornéalos con un poco de aceite durante 20 min.
-3. En una sola sartén, dora los cubos de tofu hasta que estén crujientes. Añade la salsa al final para glasear.
-4. Distribuye la base, las verduras asadas y el tofu en 5 recipientes herméticos.
+**[Orden eficiente de cocina por lotes en una sola sartén]**
+1. Preparar el tofu: Cortar en cubos y secar perfectamente con papel de cocina. (Pasarlo por un poco de almidón duplica su textura crujiente).
+2. Saltear vegetales: Calentar aceite y saltear la berenjena, los champiñones y el pimiento a fuego alto rápidamente para eliminar la humedad; retirar de la sartén.
+3. Cocinar el tofu: En la misma sartén, dorar el tofu por todos sus lados hasta que esté crujiente.
+4. Mezclar con salsa: Añadir una mezcla de salsa de soja (3), sirope/miel de agave (2), ajo picado (1) y aceite de sésamo (1), y saltear rápidamente.
 
-[Consejos de Almacenamiento]
-- Guarda el aderezo en un frasco separado y viértelo solo al momento de calentar.
-- Asegúrate de enfriar todo completamente antes de tapar los recipientes.
+**[Tips para conservar por 5 días]**
+- Coloca el arroz y el guiso en el mismo recipiente, pero pon una hoja de lechuga o sésamo en medio para evitar que la salsa empape el arroz antes de tiempo.
+- Deja enfriar completamente antes de tapar para que no se formen gotas de agua por condensación, manteniendo la frescura durante los 5 días.
 ```
 
 ---
 
-## 🎯 Conclusion
+## ⚡️ Resumen en 3 líneas (TL;DR)
 
-Implementar un sistema de *Meal Prep* vegano optimizado por IA no es simplemente un cambio de dieta; es una maniobra maestra para recuperar la soberanía sobre tu tiempo y tu salud. Al delegar la carga cognitiva de la planificación a modelos avanzados, erradicas el estrés dominical y transformas tus caóticos mediodías en pausas verdaderamente reparadoras. 
+1. **Optimización de sobras:** Introduce los ingredientes que tienes en la nevera y planifica 5 días de menú vegano en solo 5 minutos.
+2. **Diseño de balance nutricional:** Distribuye estratégicamente proteínas vegetales (legumbres, tofu, hongos) para asegurar saciedad y nutrición.
+3. **Cocción y conservación especializada:** Ofrece técnicas de Batch Cooking para que la comida mantenga su textura y no suelte agua tras 5 días refrigerada.
 
-Dedica un par de horas estratégicas este fin de semana ejecutando este prompt y observa cómo tu semana laboral cambia radicalmente. No más remordimientos por comer mal, no más gastos innecesarios en *delivery*. ¡Te garantizo que empezarás a mirar el reloj con pura anticipación esperando que llegue la hora del almuerzo! 🌱
+---
+
+## 🚀 Así es como escriben los verdaderos expertos
+
+Este es el prompt perfeccionado tras decenas de pruebas. Copia el siguiente texto y completa los paréntesis en la sección de `[variables]` según tu situación para aplicarlo de inmediato.
+
+### 🥉 Basic Version (Básica)
+
+Úsala cuando solo necesites ideas rápidas de menú.
+
+> **Rol:** Eres un experto en cocina vegana y un evangelista del Meal Prep.
+>
+> **Tarea:** Recomiéndame un menú de almuerzo vegano y una receta sencilla que pueda comer durante 5 días utilizando `[berenjena y tofu]` que tengo en el refrigerador.
+
+### 🥇 Pro Version (Experto)
+
+Úsala cuando necesites una <b>guía todo-en-uno</b>: desde el diseño del balance nutricional hasta la optimización del flujo de Batch Cooking y el método perfecto de conservación a largo plazo.
+
+> **Rol:** Eres un experto en cocina vegana con 10 años de experiencia y un evangelista del Meal Prep eficiente. Tu prioridad es el sabor, el equilibrio nutricional y mantener una calidad de "recién hecho" incluso después de varios días.
+>
+> **Contexto:**
+> 
+> - Antecedentes: Soy un principiante que acaba de empezar el veganismo. Quiero cocinar una vez el fin de semana y llevar mi almuerzo al trabajo durante los 5 días de la semana.
+> - Ingredientes: Actualmente tengo `[berenjena, 2 bloques de tofu, espinacas, champiñones king oyster]` en la nevera, y puedo ir de compras si es necesario.
+> - Objetivo: Aprovechar al máximo los ingredientes que tengo y completar una receta de Meal Prep rica en proteínas para toda la semana.
+>
+> **Tarea:**
+> 
+> 1. Elige un **menú de Meal Prep para 5 días** usando mis ingredientes como base (ej. Tofu crujiente sobre arroz, ensalada de tempeh a la plancha, etc.).
+> 2. Sugiere 1 o 2 ingredientes extra que debería comprar para asegurar una ingesta suficiente de proteína vegetal.
+> 3. Escribe un orden eficiente de cocina paso a paso para el fin de semana (Batch Cooking), priorizando el uso de una sola sartén (one-pan).
+> 4. Dame tips de porcionado y almacenamiento para que la comida no suelte agua y sepa deliciosa tras 5 días en el refrigerador.
+> 
+> **Restricciones:**
+> 
+> - El proceso debe ser lo más simple posible para que un principiante pueda seguirlo.
+> - Las salsas o aderezos deben basarse en condimentos familiares (soja, pasta de chile/gochujang, aceite de sésamo, etc.).
+> - Organiza el resultado usando formato Markdown para una mejor legibilidad.
+> 
+> **Advertencia:**
+> 
+> - Excluye ingredientes veganos extranjeros difíciles de conseguir (ej. levadura nutricional, quesos veganos específicos, etc.).
+
+---
+
+## 💡 Comentario del autor (Insight & How to use)
+
+El verdadero poder y el valor insustituible de este prompt no reside simplemente en recibir una recomendación unidimensional de "qué comer hoy". El secreto central está en exigirle a la IA soluciones para los mayores desafíos prácticos de los principiantes: la <b>"máxima eficiencia en el flujo de Batch Cooking"</b> y los <b>"conocimientos de almacenamiento según el ingrediente"</b>.
+
+Normalmente, los principiantes que intentan el Meal Prep con entusiasmo terminan rindiéndose por razones muy claras: se agotan el fin de semana tratando de limpiar, cortar y cocinar muchos ingredientes a la vez, o su comida preparada con tanto esfuerzo se echa a perder a los 2 o 3 días porque los vegetales sueltan agua y generan mal olor. Para atacar este <b>"punto ciego del Meal Prep"</b>, hemos incluido en las instrucciones del prompt restricciones (Constraints) poderosas como "tips científicos de almacenamiento para evitar la humedad" y "flujo eficiente de una sola sartén para minimizar el lavado de platos".
+
+De hecho, cuando apliqué este prompt para preparar un Meal Prep de 5 días de "Arroz con Tofu y Champiñones al estilo Kkanpung", la IA me sorprendió con tips de nivel de chef ejecutivo que superaron mis expectativas. No se limitó a listar una receta obvia, sino que sugirió: "Congela el tofu, descongélalo por completo y exprime el agua con las manos antes de cocinarlo; esto le dará una textura elástica y firme, muy parecida a la carne real".
+
+Además, para evitar que la comida se volviera pastosa con el tiempo, optimizó el proceso indicando: <b>"Saltea todos los vegetales a fuego muy alto antes de añadir sal para evaporar su propia humedad al aire"</b>, y recordó la regla de oro: <b>"Nunca tapes los recipientes herméticos antes de que la comida se haya enfriado completamente a temperatura ambiente; el vapor condensado favorece el crecimiento de bacterias"</b>. Gracias a esta guía, mi tiempo de cocina del fin de semana se redujo de 3 horas a solo 1 hora y media, y pude disfrutar de un almuerzo crujiente y delicioso hasta el viernes.
+
+Otro punto fuerte de este prompt es el <b>Control de Variables (Variable Control)</b> flexible. Introduce libremente en la sección de `[ingredientes]` esos restos de vegetales que suelen marchitarse en tu nevera: "repollo un poco viejo", "medio calabacín", "champiñones a punto de caducar". La IA analizará la combinación de sabores, texturas y nutrientes para transformar esos ingredientes destinados a la basura en un banquete semanal de nivel Michelin. Prueba a añadir condiciones como "estoy a dieta y necesito reducir carbohidratos" en `[Contexto]` o "necesito un menú que sepa bien frío porque no tengo microondas" en `[Restricciones]` para contratar hoy mismo a tu nutricionista privado perfecto.
+
+---
+
+## 🙋 Preguntas frecuentes (FAQ)
+
+- **P: Si hago 5 días de Meal Prep a la vez, ¿no se echará a perder el miércoles?**
+  - R: No tienes de qué preocuparte. Al exigir explícitamente "tips de almacenamiento para 5 días", la IA prioriza métodos de cocción que minimizan la humedad. Si sigues las instrucciones de enfriar la comida antes de tapar, separar el arroz de los acompañamientos y añadir las salsas justo antes de comer, la frescura se mantendrá perfectamente hasta el viernes.
+
+- **P: Quiero cambiar el menú coreano por uno de estilo occidental.**
+  - R: ¡Es muy sencillo! Cambia la condición "usa salsas coreanas" en la sección de Restricciones por "usa aceite de oliva, vinagre balsámico y hierbas para un estilo mediterráneo". Con los mismos ingredientes, obtendrás recetas de pasta fría o sándwiches veganos con un encanto totalmente diferente.
+
+---
+
+## 🧬 Anatomía del prompt (¿Por qué funciona?)
+
+1. **Especificación del contexto (Context):** Al indicar que se "cocina el fin de semana para los 5 días de la semana", la IA filtra automáticamente menús difíciles de conservar, como sándwiches con tomates que se humedecen o sopas que se pasan.
+2. **Configuración de restricciones (Constraints):** Al fijar el uso de ingredientes comunes y condimentos familiares, se elimina la barrera de "comprar ingredientes raros", lo que suele ser la causa principal de abandono del veganismo. El resultado es una receta práctica y realista que puedes hacer hoy mismo.
+
+---
+
+## 🎯 Conclusión
+
+El gran comienzo de una dieta vegana por tu salud y el medio ambiente no tiene por qué ser grandioso ni agotador. No pases más tiempo estresado frente a una tienda de conveniencia cada mañana pensando en tu almuerzo.
+
+Este fin de semana, ¿por qué no preparas tus almuerzos con la guía de Meal Prep diseñada por la IA según lo que tienes en tu refrigerador? Con solo 2 horas de inversión, no solo tus almuerzos serán más relajados y ricos, sino que experimentarás la ligereza corporal y la claridad mental que aporta una excelente dieta basada en plantas.
+
+¡Deja las preocupaciones del menú en manos de la IA y disfruta de tu vida vegana con estilo! 🍷

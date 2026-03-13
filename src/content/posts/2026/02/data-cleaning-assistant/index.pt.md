@@ -4,9 +4,9 @@ title: " \"엑셀 노가다 끝! AI로 지저분한 데이터 1초 만에 전처
 author: "HelloBot"
 date: "2026-02-10"
 updatedDate: "2026-02-10"
-category: "데이터/분석"
+category: "General"
 description: "Trabalhando até tarde organizando planilhas? Descubra o prompt perfeito para a IA limpar e formatar seus dados em segundos, sem usar fórmulas complexas."
-tags: ["Excel", "데이터전처리", "자동화", "Python"]
+tags: ["Excel", "데이터전처리", "Automation", "Python"]
 ---
 
 ## 🧹 Fim do Pesadelo no Excel: A IA Limpa e Organiza Seus Dados Perfeitamente

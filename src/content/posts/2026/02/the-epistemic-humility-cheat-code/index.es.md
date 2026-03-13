@@ -4,7 +4,7 @@ title: "💀 Doblega la arrogancia de la IA: El truco definitivo para hacer humi
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "El prompt definitivo de un ingeniero senior para someter a cualquier IA propensa a alucinar y obligarla a confesar sus errores de código."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "epistemic-humility"]
 ---

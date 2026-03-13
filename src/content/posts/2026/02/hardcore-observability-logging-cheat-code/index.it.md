@@ -4,7 +4,7 @@ title: "💀 Sterminare le fandonie dell'AI: Cheat Code Hardcore per l'Osservabi
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "프롬프트 엔지니어링"
+category: "General"
 description: "Il prompt definitivo per bloccare i console.log inutili e l'accondiscendenza dell'AI, creando un'osservabilità di sistema da Senior Architect."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "observability-logging-protocol"]
 ---

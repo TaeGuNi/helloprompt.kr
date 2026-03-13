@@ -4,9 +4,9 @@ title: " \"SEO(검색엔진최적화): 구글 1페이지 먹는 글쓰기 공식
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "비즈니스/마케팅"
+category: "General"
 description: "Multiply organic traffic 10x with this AI copywriting formula. Optimize your keywords for a perfect SEO score and dominate Google's first page."
-tags: ["SEO", "블로그", "구글상위노출", "티스토리", "마케팅"]
+tags: ["SEO", "Blog", "구글상위노출", "티스토리", "Marketing"]
 ---
 
 ## 🔍 SEO Masterclass: The Formula to Dominate Google's First Page

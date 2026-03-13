@@ -9,11 +9,21 @@ const execFileAsync = util.promisify(execFile);
 const QUEUE_FILE = path.resolve(process.cwd(), "rewrite-queue.json");
 
 // --- Configuration ---
-const MODEL_PRO = "gemini-2.5-pro";
-const MODEL_FLASH = "gemini-2.5-flash";
-const BATCH_SIZE_PHASE1 = 15;
-const BATCH_SIZE_PHASE2 = 20;
+const MODEL_PRO = "gemini-3.1-pro-preview";
+const MODEL_FLASH = "gemini-3-flash-preview";
+const BATCH_SIZE_PHASE1 = 5;
+const BATCH_SIZE_PHASE2 = 5;
 const SUPPORTED_LANGS = ["en", "de", "es", "fr", "it", "ja", "pt", "ru", "zh"];
+
+async function getGitModifiedFiles(): Promise<Set<string>> {
+  try {
+    const { stdout } = await execFileAsync("git", ["diff", "--name-only"]);
+    const files = stdout.trim().split("\n").filter(Boolean);
+    return new Set(files);
+  } catch {
+    return new Set();
+  }
+}
 
 async function getDoc(fileName: string) {
   const modelPath = path.resolve(process.cwd(), "docs", fileName);
@@ -207,7 +217,7 @@ function buildTranslatePrompt(
 }
 
 // --- Phase 1: Korean Restructuring ---
-async function phase1Restructure(targetDirs?: string[]) {
+async function phase1Restructure(targetDirs?: string[], force?: boolean) {
   console.log("\n🔥 PHASE 1: Korean Restructuring (Pro Model)");
   console.log("=".repeat(50));
 
@@ -230,8 +240,22 @@ async function phase1Restructure(targetDirs?: string[]) {
   koFiles = [...new Set(koFiles)];
   console.log("📄 Found " + koFiles.length + " Korean source files.");
 
+  // Skip already-modified files (git diff)
+  if (!force) {
+    const modifiedFiles = await getGitModifiedFiles();
+    const beforeCount = koFiles.length;
+    koFiles = koFiles.filter((f) => !modifiedFiles.has(f));
+    const skipped = beforeCount - koFiles.length;
+    if (skipped > 0) {
+      console.log("⏩ Skipping " + skipped + " already-modified files.");
+    }
+  } else {
+    console.log("⚡ --force: skipping git-modified check.");
+  }
+  console.log("🎯 " + koFiles.length + " files to process.");
+
   if (koFiles.length === 0) {
-    console.log("⚠️ No Korean files found. Skipping Phase 1.");
+    console.log("⚠️ No Korean files to process. Skipping Phase 1.");
     return [];
   }
 
@@ -309,7 +333,11 @@ async function phase1Restructure(targetDirs?: string[]) {
 }
 
 // --- Phase 2: Translation ---
-async function phase2Translate(koFiles: string[], targetDirs?: string[]) {
+async function phase2Translate(
+  koFiles: string[],
+  targetDirs?: string[],
+  force?: boolean,
+) {
   console.log("\n🌐 PHASE 2: Multi-language Translation (Flash Model)");
   console.log("=".repeat(50));
 
@@ -327,28 +355,33 @@ async function phase2Translate(koFiles: string[], targetDirs?: string[]) {
     filesToProcess = await glob("src/content/posts/**/index.ko.md");
   }
 
+  // Skip already-modified translation files
+  const modifiedFiles = force ? new Set<string>() : await getGitModifiedFiles();
+
   const tasks: Array<{ koFile: string; targetFile: string; lang: string }> = [];
 
   for (const koFile of filesToProcess) {
     const dir = path.dirname(koFile);
     for (const lang of SUPPORTED_LANGS) {
       const targetFile = path.join(dir, "index." + lang + ".md");
-      tasks.push({ koFile, targetFile, lang });
+      if (!modifiedFiles.has(targetFile)) {
+        tasks.push({ koFile, targetFile, lang });
+      }
     }
   }
 
+  const totalPossible = filesToProcess.length * SUPPORTED_LANGS.length;
+  const skippedCount = totalPossible - tasks.length;
   console.log(
     "📄 Found " +
       tasks.length +
       " translation tasks (" +
-      filesToProcess.length +
-      " posts × " +
-      SUPPORTED_LANGS.length +
-      " languages).",
+      skippedCount +
+      " already-modified skipped).",
   );
 
   if (tasks.length === 0) {
-    console.log("⚠️ No translation tasks. Skipping Phase 2.");
+    console.log("⚠️ No translation tasks remaining. Skipping Phase 2.");
     return;
   }
 
@@ -531,6 +564,7 @@ async function main() {
   const phase1Only = args.includes("--phase1");
   const phase2Only = args.includes("--phase2");
   const legacyMode = args.includes("--legacy");
+  const forceMode = args.includes("--force");
   const targetDirs = args.filter((a) => !a.startsWith("--"));
 
   console.log("==========================================");
@@ -544,18 +578,23 @@ async function main() {
   }
 
   if (phase2Only) {
-    await phase2Translate([], targetDirs.length > 0 ? targetDirs : undefined);
+    await phase2Translate(
+      [],
+      targetDirs.length > 0 ? targetDirs : undefined,
+      forceMode,
+    );
     return;
   }
 
   // Phase 1
   const completedKoFiles = await phase1Restructure(
     targetDirs.length > 0 ? targetDirs : undefined,
+    forceMode,
   );
 
   // Phase 2 (skip if --phase1 flag)
   if (!phase1Only) {
-    await phase2Translate(completedKoFiles);
+    await phase2Translate(completedKoFiles, undefined, forceMode);
   }
 
   console.log("\n🎉 ALL PHASES COMPLETE!");

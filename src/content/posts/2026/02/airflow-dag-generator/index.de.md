@@ -4,9 +4,9 @@ title: "데이터 파이프라인(ETL): Airflow DAG 작성 자동화"
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "백엔드/DB"
+category: "General"
 description: "Verlieren Sie keine Nächte mehr mit dem Coden komplexer ETL-Pipelines. Entdecken Sie den KI-Prompt, der Ihren Airflow-DAG-Code in einer Minute generiert."
-tags: ["Airflow", "ETL", "데이터엔지니어링", "파이썬", "자동화"]
+tags: ["Airflow", "ETL", "데이터엔지니어링", "파이썬", "Automation"]
 ---
 
 ## 🌪️ Datenpipelines (ETL): Airflow DAG-Erstellung automatisieren

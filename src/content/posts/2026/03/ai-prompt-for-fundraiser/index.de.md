@@ -4,7 +4,7 @@ title: "💸 Der magische Fundraiser-Prompt, der leere Konten füllt"
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Ein praxiserprobter KI-Prompt, der in nur einer Minute überzeugende Spenden-E-Mails und Kampagnentexte generiert – und so die Spendenbereitschaft weckt."
 tags: ["prompt-engineering", "ai-agent", "fundraiser"]
 ---

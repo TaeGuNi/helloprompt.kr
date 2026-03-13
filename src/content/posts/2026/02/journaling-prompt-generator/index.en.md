@@ -4,9 +4,9 @@ title: "Self-Reflection Journaling Prompt Generator"
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "자기계발"
+category: "General"
 description: "A tailored prompt generator that uncovers deep personal insights and sparks inner growth when you find yourself stuck staring at a blank page."
-tags: ["글쓰기", "치유", "회고", "저널링"]
+tags: ["Writing", "치유", "회고", "저널링"]
 ---
 
 ## 📝 Self-Reflection Journaling Prompt Generator

@@ -4,9 +4,9 @@ title: " \"출근길 교통지옥 탈출! AI 교통비서\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "라이프스타일"
+category: "Lifestyle"
 description: "L'IA analyse le trafic en temps réel et les itinéraires alternatifs pour vous indiquer l'heure de départ optimale et éviter les embouteillages."
-tags: ["출근", "교통", "AI비서", "시간관리"]
+tags: ["출근", "교통", "AI비서", "Time Management"]
 ---
 
 ## 📝 Échappez à l'Enfer des Bouchons : Votre Assistant de Trajet IA

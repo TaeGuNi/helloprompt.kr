@@ -4,7 +4,7 @@ title: "🚨 The MySQL Cheat Code: Turn Your Chatbot into a Cold-Blooded DB Engi
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "A ruthless MySQL agent prompt setup that strips away useless AI sycophancy and prevents accidental data destruction during terminal interactions."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "mysql"]
 ---

@@ -4,7 +4,7 @@ title: " \"패션 코디 추천: '내일 소개팅인데 뭐 입지?'\""
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "라이프/스타일"
+category: "General"
 description: " \"衣服堆积如山却总觉得没衣服穿？让AI私人造型师基于TPO法则为您精准定制每日完美穿搭，彻底终结出门前的选衣内耗与焦虑。\""
 tags: ["패션", "코디", "OOTD", "소개팅", "ChatGPT"]
 ---

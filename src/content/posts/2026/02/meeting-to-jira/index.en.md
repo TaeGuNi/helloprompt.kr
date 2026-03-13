@@ -4,9 +4,9 @@ title: " \"회의록을 Jira 티켓으로 자동 변환하기\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "프로젝트 관리"
+category: "General"
 description: " \"Discover a magical prompt that converts a 1-hour meeting transcript into flawless Jira tickets in just 10 seconds.\""
-tags: ["PM", "Jira", "회의록", "생산성"]
+tags: ["PM", "Jira", "회의록", "Productivity"]
 ---
 
 ## 📝 The AI Prompt That Auto-Converts Meeting Notes into Jira Tickets in 10 Seconds

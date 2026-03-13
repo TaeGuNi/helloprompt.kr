@@ -4,7 +4,7 @@ title: " \"AI 퍼스널 컬러 진단: 사진 한 장으로 웜톤/쿨톤 찾기
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "라이프/뷰티"
+category: "General"
 description: "价值数百元的个人色彩诊断，现在在家就能免费搞定。只需一张照片，AI 即可精准分析你的冷暖色调并推荐最佳穿搭色彩的专属提示词。"
 tags: ["퍼스널컬러", "웜톤", "쿨톤", "패션", "ChatGPT"]
 ---

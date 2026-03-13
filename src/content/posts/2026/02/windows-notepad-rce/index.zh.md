@@ -4,7 +4,7 @@ title: " \"윈도우 메모장(Notepad) 원격 코드 실행 취약점 주의\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "보안"
+category: "Security"
 description: "CVE-2026-20841：仅仅打开记事本就会遭到黑客攻击？利用AI生成紧急安全公告提示词，1分钟内部署防御指南，保护企业核心数据安全。"
 tags: ["Security", "Windows", "Vulnerability", "CVE"]
 ---

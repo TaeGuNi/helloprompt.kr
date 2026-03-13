@@ -1,134 +1,173 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Limpieza del refrigerador: sobras renacidas con recetas de chef"
+title: "Limpieza de nevera: transforma tus sobras en recetas de chef"
 author: "Jay"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
-category: "Vida"
-description: "Un prompt práctico que convierte las sobras de tu refrigerador en deliciosas recetas dignas de un chef. Ideal para evitar el desperdicio de alimentos."
-tags: ["Cocina", "Receta", "Consejos de Vida"]
+date: "2026-02-07T09:10:33.174Z"
+updatedDate: "2026-02-07T09:10:33.174Z"
+category: "Lifestyle"
+description: "Descubre el prompt de IA para vaciar la nevera que convierte ingredientes sobrantes en recetas nivel Michelin. Ahorra en comida y cocina como un profesional."
+tags: ["Cooking", "Recipe", "자취꿀팁"]
 ---
 
-## 📝 Limpieza del refrigerador: sobras renacidas con recetas de chef
+## 📝 Limpieza de nevera: transforma tus sobras en recetas de chef
 
-- **🎯 Recomendado para:** Estudiantes, solteros, amas de casa y cualquiera que busque ahorrar en comida.
-- **⏱️ Tiempo requerido:** 5 minutos para generar la receta (¡y salvar tu cena!).
-- **🤖 Modelo recomendado:** Cualquier modelo de IA (ChatGPT, Claude, Gemini).
+- **🎯 Recomendado para:** Estudiantes, principiantes en la cocina y personas que viven solas y desean ahorrar en comida.
+- **⏱️ Tiempo ahorrado:** 10 minutos de duda → 10 segundos de solución.
+- **🤖 Rendimiento óptimo:** Se recomiendan modelos de razonamiento recientes (compatible con cualquier modelo).
 
-- ⭐ **Dificultad:** ⭐⭐☆☆☆
+- ⭐ **Dificultad:** ⭐☆☆☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
-- 🚀 **Utilidad:** ⭐⭐⭐⭐☆
+- 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"Medio calabacín marchito, un par de huevos y salsas no identificadas al fondo del refrigerador... ¿Habrá alguna forma de no cenar cereales hoy?"_
+_“Ese trozo de calabacín marchitándose en un rincón de la nevera, dos huevos que caducan hoy... Antes de abrir inconscientemente la app de delivery, confía tu nevera al chef de IA.”_
 
-Todos hemos estado en esa situación: ingredientes sueltos que son demasiado buenos para tirarlos a la basura, pero que no parecen encajar en ninguna receta conocida. En lugar de rendirte y pedir comida a domicilio, ¿qué tal si le pasas esa lista de ingredientes a un chef de IA? Descubre cómo transformar esas tristes sobras en un plato que, si bien tal vez no gane una estrella Michelin, te hará sentir como un auténtico genio culinario (y de paso, salvará tu bolsillo).
+Gestionar los ingredientes que sobran siempre es un dolor de cabeza. ¿Alguna vez has vuelto a casa agotado, has abierto la nevera y has suspirado al ver vegetales sueltos y salsas a punto de caducar? <b>Esa media cebolla olvidada, un trozo de calabacín mustio y frascos de salsa que ni recuerdas cuándo compraste.</b> Tirarlos te da culpa, pero al intentar cocinar, no tienes ni idea de qué plato preparar con eso.
+
+Al final, por hábito, buscamos recetas en YouTube o blogs. Pero la realidad es cruel. En cuanto te decides a seguir un plato espectacular del video, chocas con la pared: <b>"¿No tengo salsa de ostras?", "¿De dónde saco ahora el caldo de pollo?".</b> Por un solo ingrediente que falta, las ganas de cocinar desaparecen. Terminas perdiendo 30 minutos buscando y acabas pidiendo comida a domicilio. Forzamos el <b>pedido mínimo</b> gastando dinero innecesario y, a la mañana siguiente, nos arrepentimos al ver la cuenta bancaria y la montaña de envases de plástico.
+
+Es hora de romper el ciclo de <b>búsquedas ineficientes y gastos absurdos en delivery</b>. No necesitas conocimientos culinarios complejos ni especias caras. Solo tienes que darle a la IA la lista de los humildes ingredientes que tienes ahora mismo. La IA creará en 10 segundos la receta más realista y deliciosa, utilizando exclusivamente lo que tienes en tu cocina.
+
+Esto no es simplemente mezclar ingredientes al azar. Si te falta un condimento, la IA encontrará el <b>sustituto perfecto (Ingredient Substitution)</b> entre tus sobras y te dará <b>medidas intuitivas como 'cucharadas' o 'tazas'</b> que cualquiera puede seguir sin necesidad de una báscula. Es como tener a un 'chef ejecutivo personal' que conoce perfectamente cada rincón de tu cocina.
+
+En cuanto uses este prompt, tu cocina cambiará por completo. Esos ingredientes "molestos" se convertirán en platos nivel Michelin, <b>protegerás tu presupuesto</b> y el tiempo de cocina pasará de ser un estrés a una forma de entretenimiento. ¡Sal del bucle del delivery y empieza hoy mismo a exprimir el 200% del potencial de tu nevera!
+
+---
+
+## 📊 Prueba: Resultados sorprendentes (Antes y Después)
+
+### ❌ Antes (El dolor que solíamos sentir)
+
+Mirar ingredientes sueltos con frustración. Abandonar la cocina porque las recetas de internet piden cosas que no tenemos. Terminar pidiendo delivery y gastando de más.
+
+Si preguntas sin restricciones claras, la IA podría sugerir platos extraños mezclando todo sin sentido o dar medidas vagas como "sal al gusto" que confunden a los novatos.
+
+```text
+질문: 남은 치킨 3조각, 양파 반 개, 신김치, 밥 있어. 간장, 설탕, 고춧가루, 마요네즈, 참기름 있는데 뭐 해먹을까? 레시피 알려줘.
+답변: 정체불명의 '치킨 김치 볶음밥' 추천, 복잡한 계량 및 집에 없는 추가 재료 요구...
+```
+
+### ✅ Después (La transformación perfecta)
+
+```text
+(AI 출력 결과 예시)
+
+- 🍗 Arroz con pollo, cebolla y mayonesa (Estilo Dulce-Salado)
+  - Introducción: ¡El renacer glorioso del pollo sobrante! Una armonía perfecta entre cebolla caramelizada con soja y mayonesa.
+  - Tiempo estimado: 10 minutos
+  - Dificultad: Principiante
+
+- 🥘 Estofado picante de pollo y kimchi
+  - Introducción: Un plato ideal para eliminar la pesadez. Un guiso de pollo ultra rápido hecho en cazuela.
+  - Tiempo estimado: 15 minutos
+  - Dificultad: Principiante
+
+---
+
+**[Receta 1: Arroz con pollo, cebolla y mayonesa Dulce-Salado]**
+
+**Ingredientes:** 3 trozos de pollo, media cebolla, 1 tazón de arroz
+**Salsa especial de soja:** 2 cucharadas de soja, 1 cucharada de azúcar, 3 cucharadas de agua (aprox. 1/5 de una taza)
+
+**Pasos de preparación:**
+1. Corta la cebolla en juliana fina.
+2. Quita los huesos al pollo y córtalo con tijeras en trozos del tamaño de un bocado.
+3. Pon un poco de aceite en la sartén (opcional) y saltea la cebolla a fuego medio hasta que esté transparente.
+4. Cuando la cebolla esté lista, añade la [Salsa especial de soja] y deja que hierva.
+5. Una vez que la salsa burbujee, añade el pollo y saltea rápidamente durante 1 minuto para que absorba el sabor.
+6. Sirve sobre el arroz caliente y, para terminar, añade mayonesa haciendo un zigzag. (¡Media cucharadita de aceite de sésamo al final realza mucho el aroma!)
+```
 
 ---
 
 ## ⚡️ Resumen en 3 líneas (TL;DR)
 
-1. **Cero desperdicio:** Convierte las sobras y los ingredientes a punto de caducar en platos deliciosos gracias a la IA.
-2. **Creatividad al instante:** Solo ingresa lo que tienes a mano; la IA actuará como tu investigador culinario personal.
-3. **Cocina a prueba de fallos:** Obtén instrucciones paso a paso adaptadas para principiantes, junto con alternativas brillantes para los condimentos que te falten.
+1. **Protección total del presupuesto:** Una solución ultra simple para dejar el delivery y aprovechar al 200% tus sobras.
+2. **Recetas ultra-personalizadas:** Se adapta exactamente a tus ingredientes y condimentos, buscando sustitutos creativos para lo que te falte.
+3. **Guía para principiantes:** Proporciona instrucciones intuitivas y detalladas para que cualquiera cocine con éxito sin conocimientos previos.
 
 ---
 
-## 🚀 La solución: el "Escuadrón de rescate del refrigerador"
+## 🚀 Así es como escriben los verdaderos expertos
+
+Este prompt es el resultado de decenas de pruebas. Copia el siguiente texto y rellena los paréntesis en la sección `[Variable]` según tu situación.
 
 ### 🥉 Versión Básica (Basic Version)
 
-Úsala cuando vayas con prisa y solo necesites una idea rápida antes de que el hambre te gane la partida.
+Úsala cuando tengas mucha hambre y solo quieras una receta rápida e intuitiva.
 
-> **Rol:** Eres un chef experto en cocina de aprovechamiento.
-> **Solicitud:** Tengo `[lista de ingredientes]`. Sugiéreme una receta rápida y fácil que pueda preparar con esto.
+> **Rol (Role):** Eres un `[investigador culinario creativo]` con 3 estrellas Michelin.
+>
+> **Tarea (Task):**
+> Dame la receta más deliciosa y fácil que pueda hacer con esta `[lista de ingredientes sobrantes]` que tengo en mi nevera.
 
 ### 🥇 Versión Pro (Expert Version)
 
-Úsala cuando busques una receta detallada, sustitutos precisos y un resultado digno de un restaurante.
+Úsala cuando quieras salir de los típicos arroces fritos o fideos de siempre, o cuando necesites trucos de chef para sustituir condimentos que te faltan.
 
-> **Rol (Role):** Eres un `[investigador culinario creativo]` y chef ejecutivo.
+> **Rol (Role):** Eres un `[investigador culinario creativo]` experto en ahorrar dinero a estudiantes y principiantes, satisfaciendo perfectamente su paladar.
 >
-> **Situación (Context):**
+> **Contexto (Context):**
 >
-> - Fondo: Necesito vaciar mi refrigerador aprovechando las sobras, pero estoy cansado de comer siempre los mismos platos aburridos.
-> - Objetivo: Preparar una comida verdaderamente deliciosa y original utilizando únicamente lo que tengo a mano.
+> - Trasfondo: Falta mucho para el día de cobro y en la nevera solo quedan sobras difíciles de combinar. Quiero evitar platos aburridos y comunes (ej. arroz con kimchi, ramen).
+> - Objetivo: Agotar los ingredientes sobrantes y crear una comida digna de presumir en redes sociales que sea deliciosa y sofisticada.
 >
-> **Solicitud (Task):**
+> **Tarea (Task):**
 >
-> 1. Recomiéndame 2 platos creativos que pueda preparar combinando los ingredientes que listaré a continuación.
-> 2. Explica la receta paso a paso de forma clara, para que incluso un principiante absoluto en la cocina pueda seguirla sin frustrarse.
-> 3. Si notas que me falta algún condimento clave para la receta, sugiéreme alternativas inteligentes usando otros ingredientes comunes.
+> 1. Recomienda las **2 opciones de platos más innovadores y deliciosos** combinando mis ingredientes principales y condimentos.
+> 2. Explica el proceso paso a paso con detalle para que un principiante no falle jamás.
+> 3. Si me falta algún condimento esencial, incluye obligatoriamente un **truco de sustitución** usando otros ingredientes que sí tengo.
 >
-> **Ingredientes que tengo (Variables):**
+> **Variables (Variables):**
 >
-> - Ingredientes principales: `[Ej: 3 piezas de pollo frito sobrante, media cebolla, un poco de kimchi agrio, un tazón de arroz frío]`
-> - Condimentos: `[Ej: salsa de soja, azúcar, chile en polvo, mayonesa, aceite de sésamo]`
+> - Ingredientes principales: `[3 trozos de pollo frito sobrante, media cebolla marchita, un poco de kimchi muy maduro, un tazón de arroz frío]`
+> - Condimentos disponibles: `[Salsa de soja, azúcar blanca, chile en polvo (gochugaru), mayonesa, aceite de sésamo, ketchup]`
 >
 > **Restricciones (Constraints):**
 >
-> - Estructura tu respuesta utilizando un formato de lista en Markdown para que sea fácil de leer en mi teléfono mientras cocino.
+> - Resume primero el nombre del plato, una breve introducción, tiempo de preparación y dificultad usando listas (bullets) fáciles de leer. (No uses tablas).
+> - Usa medidas intuitivas como 'cucharada' o 'taza' en lugar de unidades complejas (g, ml).
 >
 > **Advertencia (Warning):**
 >
-> - No asumas que tengo ingredientes básicos si no los he mencionado en la lista de condimentos. Cíñete a lo que te he dado o sugiere sustitutos viables.
+> - Nunca recomiendes combinaciones de ingredientes que presenten riesgos de intoxicación alimentaria.
+> - Excluye estrictamente recetas que requieran especias lujosas que no he listado (ej. aceite de trufa, salsa de ostras, etc.). No inventes métodos de cocción si no estás seguro.
 
 ---
 
 ## 💡 Comentario del autor (Insight)
 
-Este prompt es mi "arma secreta" a fin de mes. La magia aquí no radica simplemente en pedir una receta, sino en asignarle a la IA el rol de **"investigador culinario creativo"** y exigirle explícitamente **"alternativas para los condimentos"**. Muchas veces, la IA tradicional nos da recetas asumiendo que tenemos una despensa perfectamente abastecida. Al incluir la restricción de los sustitutos, la IA se ve obligada a pensar fuera de la caja (por ejemplo, sugiriendo usar mayonesa y ajo si te falta crema, o salsa de soja con azúcar en lugar de salsa teriyaki). ¡Pruébalo la próxima vez que estés a punto de pedir una pizza!
+El verdadero valor de este prompt no es solo recomendar un menú, sino sus <b>sugerencias de sustitución (Ingredient Substitution)</b> y <b>medidas intuitivas (Intuitive Measurement)</b>. ¿Por qué los principiantes se frustran al ver videos de recetas? Por la brecha con la realidad. <b>"No tengo caldo de pollo", "¿Qué es el polvo de albahaca?", "¿Cómo mido 15g sin báscula?"</b>. Estas barreras convierten el acto de cocinar en una muralla infranqueable.
+
+Para resolver esto, hemos diseñado cuidadosamente las secciones de **[Restricciones]** y **[Variables]**. Obligamos a la IA a <b>solucionar todo solo con los 'condimentos disponibles'</b> que el usuario ingresa. Además, considerando que muchos hogares unipersonales no tienen básculas digitales, imponemos el uso de <b>'tazas' o 'cucharadas'</b>. Al controlar las variables de esta forma, la IA deja de recitar recetas genéricas y emite un <b>libro de cocina personalizado</b> sincronizado perfectamente con tu realidad.
+
+Especialmente, pedir **trucos para sustituir** ingredientes esenciales es la clave. Si no tienes salsa de ostras, la IA te dirá qué proporción de soja y azúcar mezclar para obtener un sabor similar. Es como tener una mentoría real de un chef que te enseña las propiedades de los ingredientes.
+
+Recomendé este prompt a un colega que pedía delivery más de 5 veces por semana. El resultado fue increíble: logró ahorrar 50 euros en tres días usando solo lo que tenía en el fondo de la nevera. Creó un "Arroz con pollo estilo Katsudon" con sobras de pollo frito y una pasta espectacular con vegetales que estaban a punto de dañarse. Lo más importante no fue solo el sabor, sino el orgullo de decir <b>"yo mismo cociné esto"</b>, lo que finalmente lo rescató de la adicción al delivery.
+
+¡Anímate a probarlo hoy mismo! Ajusta las variables de `[Ingredientes principales]` y `[Condimentos disponibles]` según tu nevera real. Verás cómo esos vegetales "olvidados" se transforman en platos increíbles.
 
 ---
 
 ## 🙋 Preguntas frecuentes (FAQ)
 
-- **Q: ¿Funciona bien con la versión gratuita de ChatGPT?**
-  - A: Sí, funciona a la perfección. Sin embargo, modelos más avanzados como Claude 3.5 Sonnet o GPT-4o tienden a ser un poco más creativos con las combinaciones de sabores y la presentación de los platos.
+- **P: Tengo ingredientes con la fecha de caducidad muy justa, ¿puedo dejar que la IA decida si es seguro comerlos?**
+  - R: ¡Absolutamente no! La IA no puede ver, oler ni comprobar el estado real de conservación. Decisiones críticas sobre higiene y salud (ej. "¿la leche sabe un poco ácida, puedo hervirla?") son responsabilidad exclusiva del usuario. La seguridad es lo primero.
 
-- **Q: ¿Qué pasa si solo tengo ingredientes que no combinan para nada, como atún y mermelada?**
-  - A: ¡Esa es la mejor parte! La IA te advertirá amablemente si la combinación es un desastre culinario y te sugerirá usarlos en dos preparaciones separadas (por ejemplo, un sándwich de atún salado y un postre rápido con la mermelada) en lugar de mezclarlos a la fuerza.
-
----
-
-## 🧬 Anatomía del prompt (Why it works?)
-
-1.  **Rol de experto:** Al designar a la IA como "investigador culinario creativo", elevamos el nivel de sus respuestas, alejándola de las típicas recetas genéricas y aburridas.
-2.  **Gestión de variables:** Al separar explícitamente los "ingredientes principales" de los "condimentos", ayudamos a la IA a comprender exactamente qué constituye la base de la comida y con qué elementos puede darle sabor.
-3.  **Manejo de restricciones:** La instrucción clara de proporcionar "sustitutos para condimentos faltantes" es clave para evitar la frustración de quedarse a medias con una buena receta.
+- **P: Estoy a dieta, ¿puedo pedir recetas bajas en calorías y altas en proteínas?**
+  - R: Por supuesto. Solo añade una frase en la sección de **Contexto (Context)** como: "Estoy en una dieta cetogénica (Keto) estricta" o "Limita el menú a menos de 400 kcal y prioriza las proteínas". La IA se transformará al instante en un chef experto en nutrición.
 
 ---
 
-## 📊 Prueba: Before & After
+## 🧬 Anatomía del prompt (¿Por qué funciona?)
 
-### ❌ Before (Entrada simple)
-
-```text
-Pollo frito sobrante, cebolla, kimchi viejo, arroz. ¿Qué hago con esto? Dime una receta.
-```
-
-_(El resultado suele ser un aburrido y predecible "arroz frito con pollo y kimchi", sin medidas ni ningún rastro de creatividad)._
-
-### ✅ After (Resultado con la Versión Pro)
-
-```text
-¡Excelente desafío! Como tu investigador culinario creativo, aquí tienes dos opciones brillantes para transformar esas sobras en una comida increíble:
-
-Opción 1: "Tazón crujiente de pollo y kimchi mayo"
-(Un toque moderno a un clásico coreano, aprovechando lo crujiente del pollo frito).
-
-Paso a paso:
-1. Pica la media cebolla en juliana fina y saltéala en una sartén con unas gotas de aceite de sésamo hasta que esté suave y dulce.
-2. Corta el pollo frito y el kimchi agrio en trozos pequeños del tamaño de un bocado. Agrégalos a la sartén y calienta ligeramente.
-3. En un bol pequeño, mezcla 2 cucharadas de mayonesa, 1 cucharadita de salsa de soja y una pizca de azúcar.
-4. Sirve el arroz caliente, coloca la mezcla de pollo y kimchi encima, y rocía con la salsa de mayonesa.
-
-* Sustituto de condimento: Si deseas un toque picante extra y no tienes chile en polvo o gochujang, mezcla un poco de tu chile directamente en la salsa de mayonesa.
-```
+1. **Definición clara de situación y objetivo:** Al establecer "quiero evitar platos comunes" y "agotar ingredientes sobrantes", maximizamos la creatividad de la IA. El resultado es un "Donburi de pollo" en lugar de un simple arroz frito.
+2. **Control riguroso de restricciones (Constraints):** Bloqueamos los problemas típicos del principiante (medidas difíciles y falta de ingredientes) desde el diseño del prompt. Así evitamos la 'alucinación culinaria' donde la IA pide ingredientes caros que no tienes.
+3. **Modularización de variables (Variables):** Al separar ingredientes y condimentos, el usuario no tiene que editar todo el prompt complejo cada vez. Solo necesita cambiar la lista entre corchetes `[ ]` según el estado de su nevera.
 
 ---
 
 ## 🎯 Conclusión
 
-El verdadero ahorro no siempre significa comer menos, sino aprovechar al 200% el potencial de los ingredientes que ya tienes. Convierte la temida "limpieza del refrigerador" en una auténtica aventura gastronómica con tu nuevo asistente de cocina.
+El primer paso para ahorrar en comida no es llenar el carrito del súper, sino empezar vaciando los tesoros escondidos que ya tienes en casa. Con la ayuda del chef de IA, exprime al máximo el potencial de esos ingredientes que antes te daban dolor de cabeza.
 
-¡Ponte el delantal y buen provecho! 🍳
+¿Qué tal si hoy, en lugar de abrir la app de delivery por cansancio, te retas a "vaciar la nevera" con este prompt? ¡Disfruta de una cena deliciosa hecha por ti y mantén tu cuenta bancaria a salvo de gastos innecesarios! 🧑‍🍳

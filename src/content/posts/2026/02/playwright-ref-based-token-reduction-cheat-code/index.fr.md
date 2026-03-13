@@ -4,7 +4,7 @@ title: "🚨 [Soumission Absolue] Le cheat code de rendu E2E qui pulvérise 90% 
 author: "Antigravity"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Stoppez le gaspillage de tokens en test E2E. Ce prompt spartiate extrait les nœuds DOM interactifs pour anéantir les hallucinations de l'IA instantanément."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "playwright-ref-protocol"]
 ---

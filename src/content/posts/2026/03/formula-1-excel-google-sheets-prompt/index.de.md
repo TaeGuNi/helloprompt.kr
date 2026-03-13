@@ -4,7 +4,7 @@ title: "🏎️ Excel-Formeln (Formula) ohne Kopfschmerzen: F1-Level Prompts in 
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Entkommen Sie der VLOOKUP-Hölle! Entdecken Sie KI-Prompts, die selbst die komplexesten Excel-Formeln in nur 1 Sekunde fehlerfrei generieren."
 tags: ["prompt-engineering", "ai-agent", "formula-1"]
 image: "/images/hooks/formula-1-excel-google-sheets-prompt.jpg"

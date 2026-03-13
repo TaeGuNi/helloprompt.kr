@@ -4,7 +4,7 @@ title: " \"윈도우 메모장(Notepad) 원격 코드 실행 취약점 주의\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "보안"
+category: "Security"
 description: "CVE-2026-20841: É possível ter o sistema comprometido apenas abrindo o Bloco de Notas?"
 tags: ["Security", "Windows", "Vulnerability", "CVE"]
 ---

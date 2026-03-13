@@ -4,16 +4,9 @@ title: " \"Tendance Patinage Artistique NBC Olympics : Écrire un Contenu Sporti
 author: "Jay"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
-category: "콘텐츠 제작"
+category: "Content Creation"
 description: "Créez en 1 minute un contenu viral et une critique vibrante de patinage artistique façon NBC Olympics grâce à ce prompt IA optimisé."
-tags:
-  [
-    "nbc olympics figure skating",
-    "콘텐츠 제작",
-    "소셜미디어",
-    "ChatGPT",
-    "블로그 자동화",
-  ]
+tags: ["nbc olympics figure skating", "콘텐츠 제작", "Social Media", "ChatGPT", "블로그 자동화", ""]
 ---
 
 ## 📝 Tendance Patinage Artistique NBC Olympics : Un Prompt pour un Contenu Viral Vibrant

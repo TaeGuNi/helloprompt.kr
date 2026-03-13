@@ -4,7 +4,7 @@ title: "Criando Ganchos (Hooks) como Charlie Puth: Transformando o cotidiano em 
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Aprenda a criar ganchos virais para TikTok e Reels com este prompt inspirado em Charlie Puth. Transforme características comuns em marketing magnético."
 tags: ["prompt-engineering", "ai-agent", "charlie-puth"]
 image: "/images/hooks/charlie-puth-viral-marketing-hook-prompt.jpg"

@@ -4,7 +4,7 @@ title: " \"정중하고 명확한 비즈니스 이메일 답장, 고민 없이 3
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "비즈니스"
+category: "General"
 description: "Sparen Sie täglich 30 Minuten beim E-Mail-Schreiben. Lernen Sie, wie Sie höflich absagen und Termine professionell koordinieren."
 tags: ["이메일", "커뮤니케이션", "영어이메일"]
 ---

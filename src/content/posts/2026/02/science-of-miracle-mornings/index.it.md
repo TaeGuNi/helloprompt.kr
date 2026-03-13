@@ -4,9 +4,9 @@ title: " \"미라클 모닝의 과학: 뇌과학이 밝힌 아침의 비밀\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "건강/라이프스타일"
+category: "General"
 description: "Non si tratta solo di svegliarsi all'alba. Scopri i principi neuroscientifici del Miracle Morning in grado di riprogrammare la tua mente."
-tags: ["뇌과학", "미라클모닝", "습관", "건강"]
+tags: ["뇌과학", "미라클모닝", "Habit", "Health"]
 ---
 
 ## 🧠 La Scienza del Miracle Morning: Riprogramma il Tuo Cervello all'Alba

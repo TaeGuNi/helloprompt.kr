@@ -4,7 +4,7 @@ title: "💌 ニック・ジョナス（Nick Jonas）も承諾するセレブ交
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "마케팅 자동화"
+category: "General"
 description: "返信率0%のありきたりな提案書はもう終わり！世界的ポップスターレベルのVIPを一瞬で魅了する、完璧なコールドメール作成プロンプトを公開します。"
 tags: ["prompt-engineering", "ai-agent", "nick-jonas"]
 image: "/images/hooks/nick-jonas-influencer-pitch-prompt.jpg"

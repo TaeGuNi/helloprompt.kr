@@ -4,9 +4,9 @@ title: " \"AI로 두서없는 회의록, 깔끔한 요약본으로 변신\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "“刚才谁负责这事来着？”别再让杂乱的会议记录消耗精力了。让 AI 书记员为您一键生成清晰的完美会议纪要与待办事项（Action Item）。"
-tags: ["회의록", "요약", "ChatGPT", "Notion", "생산성"]
+tags: ["회의록", "요약", "ChatGPT", "Notion", "Productivity"]
 ---
 
 ## 📝 用 AI 将杂乱无章的会议记录变成清晰完美的摘要

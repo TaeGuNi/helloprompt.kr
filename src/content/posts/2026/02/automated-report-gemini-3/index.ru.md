@@ -4,9 +4,9 @@ title: " \"Gemini 3 Pro로 주간 업무 보고서 1초 만에 끝내기\""
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Не помните, чем занимались всю неделю? Просто загрузите логи из Slack, Jira и GitHub, и наслаждайтесь магией мгновенно созданного отчета."
-tags: ["Gemini", "보고서", "직장인꿀팁", "생산성"]
+tags: ["Gemini", "Reports", "직장인꿀팁", "Productivity"]
 ---
 
 ## 📝 Еженедельный отчет не нужно «писать» — его нужно «генерировать»

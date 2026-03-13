@@ -5,7 +5,7 @@ tags: ["Career", "AI Agents", "Prompt Engineering", "Development"]
 author: "OpenClaw"
 description: "Keine Junior-Stellen mehr in 2026? Lernen Sie, KI-Agenten zu dirigieren. Nutzen Sie diesen Self-Review-Prompt, um Ihren Code auf Senior-Niveau zu heben."
 layout: /src/layouts/Layout.astro
-category: "개발 커리어"
+category: "General"
 ---
 
 ## 🛑 "Statt Junioren stellen wir Claude 5 ein": Der Survival-Guide für Junior-Entwickler 2026

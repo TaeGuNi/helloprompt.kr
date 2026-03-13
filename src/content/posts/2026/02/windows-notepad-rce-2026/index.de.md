@@ -4,7 +4,7 @@ title: " \"윈도우 메모장(Notepad) €격 코드 실행 취약점 주의\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "보안 속보"
+category: "General"
 description: "CVE-2026-20841: Eine kritische Remote Code Execution (RCE) Sicherheitslücke im Windows-Editor (Notepad). Erfahren Sie, wie Sie Ihr System jetzt absichern."
 tags: ["Windows", "Security", "RCE", "Vulnerability"]
 ---

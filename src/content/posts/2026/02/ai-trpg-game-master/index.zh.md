@@ -4,7 +4,7 @@ title: " \"TRPG 게임 마스터: 주사위 굴리며 던전 탐험하기\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "재미/엔터"
+category: "General"
 description: "无需朋友，也不用实体骰子。体验由 AI 引导的单人 D&D（龙与地下城）冒险。"
 tags: ["TRPG", "게임", "던전앤드래곤", "판타지", "ChatGPT"]
 ---

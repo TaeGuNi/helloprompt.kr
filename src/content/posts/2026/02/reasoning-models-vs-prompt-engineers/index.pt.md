@@ -4,7 +4,7 @@ title: " \"Reasoning 모델 시대: 이제 '지시'하지 말고 '사고'하게 
 author: "Unifactory"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
-category: "AI 트렌드 & 프롬프트"
+category: "General"
 description: "A era dos modelos de raciocínio como OpenAI o3 e Gemini 2.0. Descubra por que antigos prompts falham e domine o novo paradigma da engenharia de prompts."
 tags:
   ["Reasoning Models", "Prompt Engineering", "OpenAI o3", "Gemini", "AI 트렌드"]

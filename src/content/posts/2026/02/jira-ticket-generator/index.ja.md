@@ -4,9 +4,9 @@ title: " \"Jira 티켓 자동 생성: 기획서만 넣으면 개발 티켓 10개
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "企画書を読んでチケットを分割するのが仕事であるPMのためのプロンプト。Epic、Story、Taskの構造化を自動化し、業務効率を劇的に向上させます。"
-tags: ["Jira", "지라", "PM", "기획", "애자일"]
+tags: ["Jira", "지라", "PM", "Planning", "애자일"]
 ---
 
 ## 🎫 Jiraチケット自動生成：企画書を入れるだけで開発チケット10個が即完成

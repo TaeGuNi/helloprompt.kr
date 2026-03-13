@@ -4,7 +4,7 @@ title: "🚨 Cheat Code MySQL para Transformar seu Chatbot num DBA Implacável"
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Prompt para criar um agente MySQL impiedoso, eliminando a bajulação inútil da IA e prevenindo desastres no banco de dados."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "mysql"]
 ---

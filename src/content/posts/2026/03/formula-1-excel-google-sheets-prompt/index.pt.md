@@ -4,7 +4,7 @@ title: "🏎️ Fim do sofrimento com fórmulas do Excel: Prompt tipo F1 para co
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Chega de sofrer com VLOOKUP e INDEX MATCH! Descubra o prompt definitivo que cria fórmulas complexas de Excel e Google Sheets com precisão em 1 segundo."
 tags: ["prompt-engineering", "ai-agent", "formula-1"]
 image: "/images/hooks/formula-1-excel-google-sheets-prompt.jpg"

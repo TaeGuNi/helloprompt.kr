@@ -4,9 +4,9 @@ title: " \"NestJS vs Express: 백엔드 프레임워크 2026년 생존 가이드
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "백엔드/DB"
+category: "General"
 description: "自由散漫的Express与严谨克制的NestJS。深度解析为何大型项目必须转向NestJS的架构优势。"
-tags: ["NestJS", "Express", "Node.js", "백엔드", "프레임워크"]
+tags: ["NestJS", "Express", "Node.js", "Backend", "프레임워크"]
 ---
 
 ## 🛡️ NestJS vs Express：2026年后端框架生存指南

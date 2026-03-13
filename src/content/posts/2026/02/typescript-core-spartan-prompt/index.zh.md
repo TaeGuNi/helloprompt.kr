@@ -4,7 +4,7 @@ title: "💀 榨干AI灵魂的斯巴达编程作弊码 (TypeScript Core)"
 author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "粉碎AI无用的阿谀奉承与代码幻觉，强制执行极致的类型安全与IO效率。专治各种陈旧的npm依赖和Any类型滥用，硬核TypeScript架构师必备提示词。"
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "typescript-core"]
 ---

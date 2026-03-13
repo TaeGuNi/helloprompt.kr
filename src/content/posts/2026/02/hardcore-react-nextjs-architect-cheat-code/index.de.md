@@ -4,7 +4,7 @@ title: "🚨 Klappe halten und Code schreiben: Der rücksichtslose React & Next.
 author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
-category: "AI 개발"
+category: "General"
 description: "Der kompromisslose Prompt-Cheatcode eines Senior Frontend-Entwicklers, der KI-Halluzinationen und Spaghetti-Code im Keim erstickt."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "react-next-architecture"]
 ---

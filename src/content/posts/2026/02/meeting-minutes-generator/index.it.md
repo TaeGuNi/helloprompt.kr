@@ -4,9 +4,9 @@ title: " \"AI로 두서없는 회의록, 깔끔한 요약본으로 변신\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Dimentica gli appunti disordinati e la confusione del 'chi ha detto cosa?'. Lascia che l'IA trasformi le tue riunioni in verbali perfetti e action item chiari."
-tags: ["회의록", "요약", "ChatGPT", "Notion", "생산성"]
+tags: ["회의록", "요약", "ChatGPT", "Notion", "Productivity"]
 ---
 
 ## 📝 Da Appunti Disordinati a Verbali Perfetti con l'IA

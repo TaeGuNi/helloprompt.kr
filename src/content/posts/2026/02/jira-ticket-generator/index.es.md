@@ -4,9 +4,9 @@ title: " \"Jira 티켓 자동 생성: 기획서만 넣으면 개발 티켓 10개
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "¿Cansado de desglosar PRDs manualmente? Este prompt automatiza la creación de tickets en Jira. Convierte tus requisitos en Epic, Story y Task al instante."
-tags: ["Jira", "지라", "PM", "기획", "애자일"]
+tags: ["Jira", "지라", "PM", "Planning", "애자일"]
 ---
 
 ## 🎫 Creación Automática de Tickets en Jira: Convierte tu PRD en 10 Tickets de Desarrollo al Instante

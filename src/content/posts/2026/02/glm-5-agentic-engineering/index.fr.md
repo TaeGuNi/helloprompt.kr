@@ -4,7 +4,7 @@ title: " \"GLM-5: 바이브 코딩에서 에이전트 엔지니어링으로\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "AI 트렌드"
+category: "AI Trends"
 description: "Zhipu AI a dévoilé le GLM-5. Au-delà de la simple assistance au codage, il ouvre la nouvelle ère de l'ingénierie agentique."
 tags: ["GLM-5", "AI", "Agentic Engineering", "LLM"]
 ---

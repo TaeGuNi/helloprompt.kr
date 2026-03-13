@@ -1,118 +1,49 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "복잡한 코드는 이제 그만! AI 복잡도 분석기 (Code Complexity Analyzer)"
+title: "Schluss mit komplexem Code! AI Code Complexity Analyzer"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Development
-description: "Dieser KI-Prompt analysiert toxischen Spaghetti-Code und zeigt präzises Refactoring-Potenzial auf. Verwandle komplexe Logik sofort in sauberen Code."
+description: "Diagnostizieren Sie Spaghetti-Code und erhalten Sie klare Refactoring-Punkte mit diesem AI-Prompt. Verwandeln Sie Logik in sauberen, wartbaren Code."
 tags: [AI, Refactoring, Clean Code, Development]
+image: "/images/hooks/code-complexity-analyzer.jpg"
 ---
 
-## 🍝 Schluss mit komplexem Code! KI-Komplexitätsanalysator (Code Complexity Analyzer)
+## 📝 Schluss mit komplexem Code! AI Code Complexity Analyzer
 
-- **🎯 Zielgruppe:** Junior-Entwickler, Maintainer von Legacy-Code, Code-Reviewer
-- **⏱️ Zeitaufwand:** 1 Stunde → auf 3 Minuten reduziert
-- **🤖 Empfohlene Modelle:** GPT-4o, Claude 3.5 Sonnet (Modelle mit starken logischen Fähigkeiten)
+- **🎯 Empfohlen für:** Junior-Entwickler, Wartungsteams für Legacy-Systeme, penible Code-Reviewer
+- **⏱️ Zeitersparnis:** 1 Stunde → auf 3 Minuten verkürzt
+- **🤖 Empfohlene Modelle:** GPT-4o, Claude 3.5 Sonnet (Modelle mit starken Code-Inferenz-Fähigkeiten empfohlen)
 
-- ⭐ **Schwierigkeitsgrad:** ⭐⭐⭐☆☆
+- ⭐ **Schwierigkeit:** ⭐⭐⭐☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
-- 🚀 **Nutzwert:** ⭐⭐⭐⭐⭐
+- 🚀 **Vielseitigkeit:** ⭐⭐⭐⭐⭐
 
-> _"Ein `if` in einer `for`-Schleife, darin noch ein `if`... Der Code läuft zwar, gleicht aber einer tickenden Zeitbombe. Standest du schon einmal vor so einem Chaos und wusstest nicht weiter?"_
+> _"Eine if-Anweisung in einer for-Schleife, darin wieder eine if-Anweisung... Haben Sie jemals verzweifelt vor Legacy-Code gesessen, der zwar irgendwie funktioniert, aber sich wie eine tickende Zeitbombe anfühlt?"_
 
-Im Entwickleralltag stößt man unweigerlich irgendwann auf historisch gewachsenen, extrem verschachtelten Spaghetti-Code. Mit jedem hastig implementierten Feature und schnellen Bugfix bläht sich die Codebasis weiter auf, während die zyklomatische Komplexität unaufhaltsam durch die Decke schießt. Solcher Code ist nicht nur eine Qual beim Lesen, er macht auch das Vorhersagen von Seiteneffekten bei zukünftigen Anpassungen schlichtweg unmöglich – genau hier liegt die Hauptursache für endlose, nervenaufreibende Wartungs-Albträume.
+Jeder Entwickler stößt früher oder später auf den berüchtigten **„Spaghetti-Code“**, der einem den Atem raubt.
+Durch ständige Funktionserweiterungen, Planungsänderungen und unter Zeitdruck hastig eingefügte Hotfixes wird der Code immer umfangreicher und unkontrollierbar verstrickt. Die **zyklomatische Komplexität (Cyclomatic Complexity)** schießt exponentiell in die Höhe, und es entsteht ein Monster von einer Funktion, die locker mehrere hundert Zeilen umfasst.
 
-Doch was tun, wenn der Code-Dschungel so dicht ist, dass völlig unklar bleibt, wo man mit dem Entwirren überhaupt ansetzen soll? Überlasse die mühsame Komplexitätsanalyse einfach der KI! Sie seziert den Code schonungslos, diagnostiziert strukturelle Schwachstellen anhand objektiver Metriken und liefert dir auf Knopfdruck eine konkrete, praxiserprobte Refactoring-Strategie – strikt basierend auf etablierten Design-Patterns und den goldenen Prinzipien des Clean Code.
+Solcher Legacy-Code beeinträchtigt nicht nur die physische Lesbarkeit. Selbst kleinste Änderungen an einer Button-Farbe oder einem Text können **unerwartete Seiteneffekte (Side Effects)** an völlig unbeteiligten Stellen auslösen, was Entwickler in ständige Angst versetzt. „Warum existiert diese Bedingung überhaupt?“, „Wo wird der Zustand dieser globalen Variable verändert?“
+Man verbringt den ganzen Tag damit, den Code zu lesen und die Absicht dahinter zu verstehen, anstatt wertvolle neue Features zu entwickeln. Jeder erfahrene Entwickler kennt das Gefühl, nachts vor dem Monitor zu verzweifeln, weil man in einem Sumpf aus verstricktem Code versinkt und nicht weiß, wo man anfangen soll.
 
----
+Besonders Code mit abnormal hoher **kognitiver Komplexität (Cognitive Complexity)** ist nicht nur ein individuelles Problem, sondern ein Produktivitätskiller für das gesamte Team. Neue Teammitglieder brauchen ewig für das Onboarding, und selbst Senioren mit 10 Jahren Erfahrung wissen im Code-Review nicht mehr, wo sie zuerst ansetzen sollen. Am Ende etabliert sich die resignierte Regel: „Lass es lieber so, solange es in Produktion funktioniert“, und das System bricht langsam unter der Last der **technischen Schulden (Technical Debt)** zusammen. Selbst der Versuch, Tests zu schreiben – der erste Schritt zum Refactoring – scheitert oft an der zu starken Kopplung (**Tightly Coupled**), die sogar Mocking unmöglich macht.
 
-## ⚡️ Zusammenfassung in 3 Sätzen (TL;DR)
+Oft vertrösten wir uns mit der Ausrede: „Nach diesem Sprint mache ich das Refactoring.“ Aber dieses „Nächste Woche“ kommt nie, und der Code verstrickt sich wie durch Zinseszinsen immer weiter. Das Überarbeiten von **Legacy-Code** ist wie der Reifenwechsel bei einem Auto, das mit 100 km/h fährt. Das Live-System darf nicht anhalten, das Business braucht neue Features, und natürlich dürfen keine neuen Bugs entstehen. Unter diesem extremen Druck stößt das menschliche Gehirn an seine Grenzen: Sobald `if`-Bedingungen nur 3 bis 4 Ebenen tief verschachtelt sind, sinkt die kognitive Kapazität rapide, und fatale logische Fehler schleichen sich ein.
 
-1. Die KI analysiert selbst unleserliche, tief verschachtelte Bedingungen und monolithische Funktionen auf rein struktureller Ebene.
-2. Du erhältst sofort anwendbare Refactoring-Empfehlungen wie Guard Clauses (Early Returns) und Methoden-Extraktion (Extract Method).
-3. Das Resultat: Glasklarer, maximal wartbarer Code – ohne dass die ursprüngliche Geschäftslogik im Geringsten angetastet wird.
+Doch jetzt gibt es ein Werkzeug, das diese Angst und Ratlosigkeit beseitigt: Der **AI Code Complexity Analyzer** Prompt.
+Sie müssen sich nicht mehr auf Ihr vages Bauchgefühl verlassen. Dieser Prompt fungiert wie ein hochkompetenter Senior-Pair-Programmer an Ihrer Seite, der Ihren Code auf Basis objektiver softwaretechnischer Metriken präzise diagnostiziert.
 
----
-
-## 🚀 Die Lösung: „Code-Komplexität analysieren & refactoren“
-
-### 🥉 Basic Version (Für den schnellen Überblick)
-
-Nutze diesen Prompt, wenn du die kritischsten Schwachstellen eines Code-Snippets ohne großen Aufwand schnell identifizieren möchtest.
-
-> **Rolle:** Du bist ein `[Senior Backend-Entwickler]`.
-> **Aufgabe:** Analysiere die Komplexität des folgenden Codes und nenne mir 3 konkrete Punkte, wie ich ihn refactoren kann.
->
->
-> `[Füge deinen Code hier ein]`
->
-
-### 🥇 Pro Version (Für Experten)
-
-Verwende diese Version, wenn du detaillierte Metriken benötigst und hochspezifische Design-Patterns auf Legacy-Code anwenden möchtest.
-
-> **Rolle (Role):** Du bist ein `[Senior Software Engineer mit 10 Jahren Erfahrung]`, der ein absoluter Experte für Clean-Code-Architektur ist.
->
-> **Kontext (Context):**
->
-> - Hintergrund: Ich refactore aktuell Legacy-Code, der in `[Sprache/Framework, z. B. TypeScript/NestJS]` geschrieben ist.
-> - Ziel: Die zyklomatische Komplexität des Codes drastisch zu reduzieren und sowohl die Lesbarkeit als auch die zukünftige Wartbarkeit zu maximieren.
->
-> **Aufgabe (Task):**
->
-> 1. **Komplexitätsdiagnose:** Bewerte die zyklomatische (Cyclomatic) und kognitive (Cognitive) Komplexität des bereitgestellten Codes und analysiere die Hauptursachen (z. B. tiefe Verschachtelungen, Verletzung des Single-Responsibility-Prinzips).
-> 2. **Refactoring-Strategie:** Schlage konkrete, etablierte Refactoring-Techniken vor, wie beispielsweise Guard Clauses (Early Return), Extract Method oder den konsequenten Einsatz von Polymorphismus.
-> 3. **Verbesserter Code:** Schreibe den Code so um, dass die ursprüngliche Geschäftslogik zu 100 % erhalten bleibt, die zugrundeliegende Struktur jedoch anhand der vorgeschlagenen Strategien optimal restrukturiert wird.
->
-> **Code-Eingabe (Code):**
->
->
-> `[Füge den zu refactornden Code hier ein]`
->
->
-> **Einschränkungen (Constraints):**
->
-> - Füge im verbesserten Code kurze, prägnante Kommentare für jede vorgenommene Änderung hinzu.
-> - Erkläre die einzelnen Refactoring-Schritte freundlich und leicht verständlich, sodass auch ein Junior-Entwickler die Entscheidungen problemlos nachvollziehen kann.
->
-> **Warnung (Warning):**
->
-> - Die Geschäftslogik des Originalcodes (Rückgabewerte, Seiteneffekte, Fehlertoleranzen etc.) darf unter absolut keinen Umständen verändert oder beeinträchtigt werden!
+Das Erstaunliche ist, dass die KI nicht nur als einfacher Formatter fungiert, der den Code kürzt. Basierend auf **Design Patterns** und **Clean Code** Prinzipien liefert die KI innerhalb einer Minute konkrete und elegante Architekturstrategien, die sofort in der Produktion anwendbar sind. Während die Integrität der Business-Logik zu 100 % gewahrt bleibt, wird die endlose `if-else`-Hölle durch **Early Returns** geglättet und riesige Funktionen nach dem **Single Responsibility Principle (SRP)** in kleine, modulare Einheiten zerlegt. Mit diesem Prompt wird selbst der gefürchtetste Legacy-Code zu einer Leinwand, auf der Sie Ihre Ingenieurskunst beweisen können. Erstellen Sie Pull Requests, die von Ihren Kollegen gefeiert werden, und finden Sie die Freude am Entwickeln wieder.
 
 ---
 
-## 💡 Anmerkung des Autors (Insight)
+## 📊 Beweis: Beeindruckende Ergebnisse (Vorher & Nachher)
 
-Dieser Prompt ist mein absoluter Favorit, wenn ich im Arbeitsalltag Legacy-Code reviewen oder anpassen muss – egal, ob es der Code von Teamkollegen oder mein eigener von vor ein paar Monaten ist. Die KI schreibt den Code nicht einfach blind um, sondern liefert handfeste, logisch fundierte Begründungen, wie etwa: „Diese Bedingung ist über vier Ebenen verschachtelt; es ist deutlich robuster, sie in eine Guard Clause auszulagern.“
+### ❌ Vorher (Der Schmerz, den wir kennen)
 
-Besonders wertvoll erweist sich dieser Prompt als letzter Qualitätscheck vor einem Code-Review. Wenn du deinen eigenen Code vor dem Erstellen eines Pull Requests (PR) noch einmal durch diesen Filter jagst, steigt die Wahrscheinlichkeit enorm, von deinen Kollegen ein anerkennendes „Sehr sauberer Code!“ als Feedback zu ernten.
-
----
-
-## 🙋 Häufig gestellte Fragen (FAQ)
-
-- **F: Kann ich einfach die komplette Datei auf einmal zur Analyse einfügen?**
-  - A: Das ist absolut nicht empfehlenswert. Aufgrund der begrenzten Kontextfenster aktueller KIs und der signifikant sinkenden Genauigkeit bei riesigen Textmengen solltest du den Code in kleinere, logische Einheiten (z. B. spezifische Funktionen oder einzelne Klassen) von etwa 50 bis 150 Zeilen aufteilen. Nur so erhältst du wirklich präzise und trennscharfe Refactoring-Ergebnisse.
-
-- **F: Ist es sicher, den von der KI refactorten Code blind in die Produktion zu übernehmen?**
-  - A: Auf gar keinen Fall einfach kopieren und einfügen! KIs übersehen gelegentlich subtile Edge-Cases der Geschäftslogik oder halluzinieren kleine, schwer auffindbare Änderungen. **Du musst zwingend überprüfen, ob der neue Code alle bestehenden Unit-Tests fehlerfrei besteht**, bevor du ihn überhaupt übernimmst.
-
-- **F: Passt sich die KI an meine spezifische Programmiersprache oder mein eingesetztes Framework an?**
-  - A: Ja, absolut! Wenn du in der Pro-Version in der Variable `[Sprache/Framework]` beispielsweise „Java/Spring Boot“ oder „Python/FastAPI“ definierst, berücksichtigt die KI exakt die in diesem speziellen Ökosystem empfohlenen Namenskonventionen und Design-Patterns passgenau.
-
----
-
-## 🧬 Anatomie des Prompts (Warum er funktioniert)
-
-1. **Fokus auf messbare Metriken:** Anstatt der KI einfach nur vage zu befehlen „Mach den Code hübsch“, fordern wir explizit harte Metriken wie die „zyklomatische Komplexität“ ein. Das zwingt die KI dazu, sich konsequent auf rein strukturelle und objektive Mängel zu konzentrieren.
-2. **Strikte Verhaltensvorgaben (Constraints):** Indem wir das oberste Gebot jedes Refactorings – die absolute Unveränderlichkeit des externen Verhaltens – unmissverständlich als Warnung deklarieren, minimieren wir das Risiko massiv, dass die KI eigenmächtig kritische Teile der Geschäftslogik anpasst.
-
----
-
-## 📊 Beweis: Vorher & Nachher
-
-### ❌ Vorher (Input: Tief verschachtelter Spaghetti-Code)
+Typischer Legacy-Code: verstrickt, endlose Verschachtelungen von if-Anweisungen in for-Schleifen. Es dauert ewig, die eigentliche Logik zu erfassen.
 
 ```javascript
 function processOrder(order) {
@@ -143,21 +74,23 @@ function processOrder(order) {
 }
 ```
 
-### ✅ Nachher (Ergebnis: Sauberer Code mit Guard Clauses & Array-Methoden)
+### ✅ Nachher (Das perfekt transformierte Ergebnis)
+
+![Schluss mit komplexem Code! AI Code Complexity Analyzer](/images/hooks/code-complexity-analyzer.jpg)
 
 ```javascript
 function processOrder(order) {
-  // 1. Guard Clauses: Frühzeitiges Zurückgeben bei Ausnahmen (reduziert Verschachtelungen)
+  // 1. Guard Clauses: Ausnahmebehandlung durch Early Returns (reduziert Verschachtelung)
   if (!order) throw new Error("Invalid order");
   if (order.status !== "PENDING") throw new Error("Order is not pending");
   if (!order.items || order.items.length === 0) return 0;
 
-  // 2. Nutzung von Higher-Order-Funktionen: Vereinfachung von Schleifen
+  // 2. Nutzung von High-Order Functions: Vereinfachung der Schleife
   const total = order.items
     .filter((item) => item.price > 0)
     .reduce((sum, item) => sum + item.price * item.quantity, 0);
 
-  // 3. Trennung und Vereinfachung der Geschäftslogik
+  // 3. Trennung und Vereinfachung der Business-Logik
   const discount = total > 100 ? total * 0.1 : 0;
   order.discount = discount;
 
@@ -167,8 +100,96 @@ function processOrder(order) {
 
 ---
 
+## ⚡️ 3-Zeilen-Zusammenfassung (TL;DR)
+
+1. Die KI diagnostiziert berüchtigte verschachtelte Bedingungen und aufgeblähte Legacy-Funktionen strukturell und tiefgreifend.
+2. Sie erhalten praxiserprobte Refactoring-Vorschläge wie Early Returns oder Extract Method, die sofort anwendbar sind.
+3. Die Integrität der Business-Logik bleibt gewahrt, während Lesbarkeit und Wartbarkeit maximiert werden.
+
+---
+
+## 🚀 So schreiben echte Profis
+
+### 🥉 Basis-Version
+
+Nutzen Sie diese Version, wenn Sie nur schnell die strukturellen Probleme eines komplexen Codes identifizieren möchten.
+
+> **Rolle (Role):** Du bist ein `[Senior-Backend-Entwickler]`.
+>
+> **Aufgabe (Task):** Analysiere die Komplexität des folgenden Codes und fasse die 3 wichtigsten Punkte zusammen, wie man ihn refactoring könnte.
+>
+> `[Fügen Sie hier den zu analysierenden Code ein]`
+
+### 🥇 Pro-Version (Experte)
+
+Dieser Prompt wird dringend empfohlen, wenn Sie über eine einfache Code-Bereinigung hinaus eine fundierte Architekturverbesserung auf Basis von Metriken und Design Patterns benötigen.
+
+> **Rolle (Role):** Du bist ein `[Senior-Software-Engineer mit 10 Jahren Erfahrung]`, der Experte für Clean Code Architektur ist.
+>
+> **Kontext (Context):**
+>
+> - Hintergrund: Ich refactor gerade Legacy-Code, der in `[TypeScript/NestJS]` geschrieben ist.
+> - Ziel: Die zyklomatische Komplexität drastisch senken und die Lesbarkeit sowie Wartbarkeit maximieren.
+>
+> **Aufgabe (Task):**
+>
+> 1. **Komplexitätsdiagnose:** Bewerte präzise die zyklomatische Komplexität (Cyclomatic Complexity) und die kognitive Komplexität (Cognitive Complexity) des bereitgestellten Codes. Analysiere die Hauptursachen wie tiefe Verschachtelungen oder Verstöße gegen das Single Responsibility Principle.
+> 2. **Refactoring-Strategie:** Schlage konkrete Refactoring-Techniken vor, die sofort angewendet werden können, wie Guard Clauses (Early Return), Extract Method oder Polymorphismus.
+> 3. **Verbesserter Code:** Schreibe den Code unter Anwendung dieser Strategien neu. Die Business-Logik muss zu 100 % identisch bleiben, während die interne Struktur massiv verbessert wird.
+>
+> **Code-Eingabe (Code):**
+>
+> `[Fügen Sie hier den zu refactoring Code ein]`
+>
+> **Einschränkungen (Constraints):**
+>
+> - Füge im verbesserten Code klare und prägnante Kommentare hinzu, warum die Änderungen vorgenommen wurden.
+> - Erkläre alles schrittweise und freundlich, sodass auch ein Junior-Entwickler es leicht nachvollziehen kann.
+>
+> **Warnung (Warning):**
+>
+> - Die Kern-Business-Logik des Originalcodes (Rückgabewerte, Seiteneffekte etc.) darf unter keinen Umständen geändert werden. Die funktionale Invarianz muss strikt gewahrt bleiben.
+
+---
+
+## 💡 Kommentar des Autors (Insight)
+
+Dies ist die ultimative Waffe, die ich als Erstes zücke, wenn ich im Berufsalltag auf Legacy-Code von anderen – oder von meinem früheren, weniger verantwortungsbewussten Ich – stoße.
+Kein Entwickler liest gerne den Code anderer Leute. Besonders Spaghetti-Code mit unklaren Variablennamen und wilden Verzweigungen lässt einen nur seufzen.
+Aber die KI wird nicht genervt. Ohne emotionale Schwankungen seziert sie strukturelle Mängel objektiv und eiskalt.
+
+Die Stärke dieses Prompts liegt darin, dass er nicht nur die physische Länge des Codes reduziert. Er liefert fundierte Argumente für das Code-Review: „Da diese Bedingung aktuell 4 Ebenen tief ist, ist die Anwendung des **Guard Clauses (Early Return)** Musters strukturell sinnvoll.“ So erhalten Sie eine logische Basis, um Ihre Kollegen zu überzeugen. Oft machen wir den Fehler, Refactoring als „Anpassung an meinen persönlichen Stil“ misszuverstehen. Echtes Refactoring muss jedoch auf objektiven Prinzipien basieren, und dieser Prompt liefert Ihnen diese Prinzipien durch den Mund der KI.
+
+Die Steuerung über **`[Variablen]`** im Prompt ist der Schlüssel zum Erfolg. Zum Beispiel gibt der Technologiestack `[TypeScript/NestJS]` der KI einen enormen Kontext. Es geht dann nicht nur um JavaScript-Syntax, sondern darum, wie man Dependency Injection des Frameworks eleganter nutzt oder Custom Decorators erstellt, um Cross-cutting Concerns zu trennen. Wenn Sie die Variable auf `[Python/FastAPI]` ändern, wird die KI Tipps zur Datenvalidierung mit Pydantic oder zur Optimierung von Async-Engpässen geben. Sobald Sie den Prompt an Sprache und Framework anpassen, verwandelt sich die generische KI in einen **Domain-Experten** für Ihr Projekt.
+
+Besonders vor dem Erstellen eines Pull Requests (PR) auf GitHub ist dieser Prompt für einen **Self-Review** extrem wertvoll. Direkt nach dem Schreiben ist man oft voreingenommen („Mein Code ist perfekt“). Aber durch diesen Filter entdeckt man oft Edge Cases oder strukturelle Verbesserungen zur Reduzierung der Kopplung (Coupling). Code, der diesen Prozess durchlaufen hat, erntet oft Komplimente wie: „Diese Architektur ist ein Kunstwerk!“ oder „So lesbar, da gibt es nichts zu reviewen.“
+
+Beachten Sie unbedingt die **Einschränkungen (Constraints)**. Der Satz `Die Kern-Business-Logik darf unter keinen Umständen geändert werden` ist der wichtigste Schutzschild gegen KI-Halluzinationen. LLMs neigen manchmal dazu, Code so „hübsch und kurz“ zu machen, dass sie wichtige defensive Logik löschen oder Business-Regeln subtil verändern. Indem man die Invarianz der Logik auf Promptebene strikt erzwingt, erhält man zuverlässigen Refactoring-Code, den man beruhigt in die Produktion geben kann. Rüsten Sie Ihr Arsenal mit dieser Waffe aus und gewinnen Sie den Krieg gegen die technischen Schulden.
+
+---
+
+## 🙋 Häufig gestellte Fragen (FAQ)
+
+- **Q: Kann ich eine ganze Quelldatei auf einmal einfügen und analysieren lassen?**
+  - A: Davon rate ich eher ab. Aufgrund der Grenzen des Context Windows der LLMs kann die Aufmerksamkeit für Details sinken und Halluzinationen können zunehmen. Anstatt riesige Dateien mit hunderten Zeilen einzufügen, sollten Sie sie in Einheiten von 50 bis 150 Zeilen (z. B. bestimmte Funktionen oder einzelne Klassen) aufteilen. Die KI wird dann viel präziser in den Kern des Problems vordringen.
+
+- **Q: Ist es sicher, den von der KI korrigierten Code direkt in die Produktion zu übernehmen?**
+  - A: Niemals einfach kopieren und einfügen! Auch die beste KI kann subtile Edge Cases übersehen oder die Logik unbeabsichtigt verändern. Der KI-generierte Code ist nur ein hervorragender „Entwurf“. **Stellen Sie sicher, dass alle Unit Tests bestehen**, und prüfen Sie die Integrität der Logik manuell, bevor Sie den Code mergen.
+
+- **Q: Kann die KI den Code auch an spezifische Konventionen meines Frameworks anpassen?**
+  - A: Absolut. Ersetzen Sie in der Pro-Version `[TypeScript/NestJS]` einfach durch Ihren Stack wie ‚Java/Spring Boot‘, ‚Python/FastAPI‘ oder ‚Go/Gin‘. Die KI wird die empfohlenen Naming Conventions und Design Patterns des jeweiligen Ökosystems berücksichtigen.
+
+---
+
+## 🧬 Anatomie des Prompts (Warum es funktioniert)
+
+1. **Fokus auf softwaretechnische Metriken:** Anstatt vage nach „schönerem Code“ zu fragen, haben wir eine konkrete Metrik wie die „zyklomatische Komplexität“ genannt. Dies zwingt die KI, ihre Rechenleistung auf die Lösung fundamentaler Architekturmängel zu konzentrieren.
+2. **Strikte Kontrolle der Verhaltensstabilität:** Das oberste Prinzip des Refactorings – die Invarianz des externen Verhaltens – wurde als oberste Priorität in den Constraints platziert. Dies verhindert, dass die KI aus Gier nach kürzerem Code wichtige Business-Logik oder Edge Cases ignoriert.
+
+---
+
 ## 🎯 Fazit
 
-Rauf dir wegen komplexem, unwartbarem Code nicht länger die Haare! Nutze die schonungslose Analyse der KI, um den wahren Kern des Problems zu identifizieren. Wende die vorgeschlagenen Refactoring-Strategien Schritt für Schritt an und schreibe ab sofort eleganten Code, den man auch in Zukunft noch gerne pflegt und erweitert.
+Leiden Sie nicht länger allein vor Spaghetti-Code, der wie ein Spinnennetz verstrickt ist. Mit der kühlen und objektiven Diagnose der KI können Sie den Kern des Problems sofort durchschauen. Wenn Sie die vorgeschlagenen Strategien schrittweise anwenden, kann jeder elegante Clean Code schreiben, der Bewunderung auslöst.
 
-Lass die Tests durchlaufen und mach mit gutem Gewissen Feierabend! 🍷
+Werden Sie in nur 3 Minuten zum Master für Clean Code, der strukturelle Mängel behebt und im Team anerkannt wird. Lassen Sie die Tests mit einem erleichterten Gefühl laufen und genießen Sie den wohlverdienten Feierabend mit einem Glas Wein! 🍷

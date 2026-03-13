@@ -4,7 +4,7 @@ title: "掌控 AI Agent 命脉的 Docker 基础设施作弊码 💀"
 author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "资深工程师专供的猛药级提示词，彻底终结 AI 代理接管 Docker 容器时频繁死机、无限卡顿的惨状，让你重获控制权。"
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "docker"]
 ---

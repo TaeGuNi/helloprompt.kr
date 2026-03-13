@@ -4,7 +4,7 @@ title: " \"파이썬 버그 해결사: 10초 디버깅 프롬프트\""
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Мгновенно находите и исправляйте ошибки в коде Python с помощью этого эффективного промпта для отладки."
 tags: ["태그1", "태그2"]
 ---

@@ -4,7 +4,7 @@ title: " \"베란다를 숲으로: AI 홈가드닝 플래너\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "취미/라이프"
+category: "General"
 description: "¡Rompe la maldición de 'asesino de plantas'! Descubre especies ideales para tu hogar y revive macetas moribundas con este asistente de jardinería IA."
 tags: ["가드닝", "식집사", "반려식물", "플랜테리어"]
 ---

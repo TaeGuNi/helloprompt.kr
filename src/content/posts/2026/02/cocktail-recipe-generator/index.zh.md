@@ -4,9 +4,9 @@ title: " \"칵테일 레시피: 냉장고 술 털어서 바텐더 되기\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "라이프/취미"
+category: "General"
 description: "冰箱里的剩酒别直接喝！利用家里现有的材料，让AI为你量身定制专属家庭调酒（Home-tending）配方，化身私人调酒师。"
-tags: ["칵테일", "홈텐딩", "술", "레시피", "ChatGPT"]
+tags: ["칵테일", "홈텐딩", "술", "Recipe", "ChatGPT"]
 ---
 
 ## 🍸 鸡尾酒配方：清空冰箱剩酒，化身专属调酒师

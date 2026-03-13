@@ -4,9 +4,9 @@ title: " \"Vim 단축키 마스터: 마우스 없이 코딩하는 법\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "개발/코딩"
+category: "General"
 description: "開発者のロマン、Vim。hjklからマクロまで、指が脳より速く動くようになるショートカット完全攻略ガイド。"
-tags: ["Vim", "빔", "에디터", "생산성", "단축키"]
+tags: ["Vim", "빔", "에디터", "Productivity", "단축키"]
 ---
 
 ## ⌨️ Vimショートカット完全マスター：マウスなしで爆速コーディング

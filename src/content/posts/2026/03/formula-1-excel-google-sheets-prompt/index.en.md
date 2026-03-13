@@ -4,7 +4,7 @@ title: "🏎️ End Your Excel Formula Struggles: An F1-Class Prompt Ready in 1 
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Escape the VLOOKUP nightmare. Get a highly practical AI prompt that accurately generates complex Excel and Google Sheets formulas in seconds."
 tags: ["prompt-engineering", "ai-agent", "formula-1"]
 image: "/images/hooks/formula-1-excel-google-sheets-prompt.jpg"

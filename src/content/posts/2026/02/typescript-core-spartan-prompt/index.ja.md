@@ -4,7 +4,7 @@ title: "💀 AIの魂を削るスパルタコーディングチートキー (Typ
 author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "AIの無駄な愛想笑いやハルシネーションを粉砕し、無慈悲な型安全性と極限の効率を強制するハードコア・プロンプト。"
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "typescript-core"]
 ---

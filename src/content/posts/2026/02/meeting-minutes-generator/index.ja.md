@@ -4,9 +4,9 @@ title: " \"AI로 두서없는 회의록, 깔끔한 요약본으로 변신\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "「誰が何を言ったっけ？」まとまりのない会議内容で悩むのはもう終わりにしましょう。AI書記が完璧な議事録とアクションアイテムを整理してくれます。"
-tags: ["회의록", "요약", "ChatGPT", "Notion", "생산성"]
+tags: ["회의록", "요약", "ChatGPT", "Notion", "Productivity"]
 ---
 
 ## 📝 AIでまとまりのない議事録を、綺麗な要約へと変身させる

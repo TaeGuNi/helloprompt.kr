@@ -4,9 +4,9 @@ title: " \"LangChain vs LlamaIndex: 도대체 뭘 써야 할까?\""
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "AI/개발"
+category: "General"
 description: " \"两大 LLM 框架深度对比：构建通用智能体首选 LangChain，处理海量文档必看 LlamaIndex。为您提供最契合项目的架构选型指南。\""
-tags: ["LangChain", "LlamaIndex", "LLM", "AI프레임워크", "개발"]
+tags: ["LangChain", "LlamaIndex", "LLM", "AI프레임워크", "Development"]
 ---
 
 ## ⛓️ LangChain vs LlamaIndex：到底该用哪个？

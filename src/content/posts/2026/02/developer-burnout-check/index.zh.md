@@ -4,7 +4,7 @@ title: " \"개발자 번아웃 자가진단: 내가 게으른 걸까, 아픈 걸
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "멘탈 케어"
+category: "General"
 description: "只要一碰键盘就止不住叹气？使用这个基于 MBI（马斯勒赫职业倦怠量表）的提示词，让 AI 为你精准诊断状态并开具专属恢复处方。"
 tags: ["번아웃", "개발자", "멘탈케어", "심리", "ChatGPT"]
 ---

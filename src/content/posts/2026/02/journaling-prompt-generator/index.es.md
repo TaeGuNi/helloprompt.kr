@@ -4,9 +4,9 @@ title: " \"성찰의 시간 저널링 프롬프트 생성기\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "자기계발"
+category: "General"
 description: "Generador de prompts de journaling personalizado: supera el bloqueo de la página en blanco y descubre una profunda introspección para tu crecimiento personal."
-tags: ["글쓰기", "치유", "회고", "저널링"]
+tags: ["Writing", "치유", "회고", "저널링"]
 ---
 
 ## 📝 Generador de Prompts para Journaling Introspectivo

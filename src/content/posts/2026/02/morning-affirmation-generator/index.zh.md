@@ -4,9 +4,9 @@ title: " \"미라클 모닝 긍정 확언 생성기\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "자기계발"
+category: "General"
 description: "用专属定制的正向肯定语 (Affirmation)，唤醒潜能，开启活力满满的每一个早晨。"
-tags: ["미라클모닝", "마인드셋", "자기계발", "긍정확언"]
+tags: ["미라클모닝", "마인드셋", "Self-Improvement", "긍정확언"]
 ---
 
 ## 📝 奇迹早晨：正向肯定语生成器

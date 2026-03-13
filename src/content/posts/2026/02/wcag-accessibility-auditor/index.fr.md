@@ -4,7 +4,7 @@ title: " \"WCAG 2.2 웹 접근성 감사(Audit) 봇\""
 author: "Jay"
 date: "2026-02-09"
 updatedDate: "2026-02-09"
-category: "프론트엔드"
+category: "General"
 description: "Votre code est-il accessible à tous ? Ce prompt vérifie instantanément si votre code respecte les normes strictes d'accessibilité (WCAG 2.2)."
 tags: ["Accessibility", "HTML", "WCAG"]
 ---

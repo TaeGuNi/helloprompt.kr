@@ -4,7 +4,7 @@ title: "Pas de code spaghetti : le cheat code DDD pour transformer votre IA en d
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Fini la flatterie inutile. Voici un prompt d'architecte senior intraitable pour forcer l'IA à coder uniquement de la logique métier pure."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ddd-architecture"]
 ---

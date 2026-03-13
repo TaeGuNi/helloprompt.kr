@@ -4,9 +4,9 @@ title: " \"칵테일 레시피: 냉장고 술 털어서 바텐더 되기\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "라이프/취미"
+category: "General"
 description: "Sobrou soju, cerveja ou whisky? Não beba de qualquer jeito. Crie receitas de coquetéis premium com a IA usando o que você já tem na geladeira."
-tags: ["칵테일", "홈텐딩", "술", "레시피", "ChatGPT"]
+tags: ["칵테일", "홈텐딩", "술", "Recipe", "ChatGPT"]
 ---
 
 ## 🍸 Receitas de Coquetéis: Transforme sua Geladeira em um Bar Premium

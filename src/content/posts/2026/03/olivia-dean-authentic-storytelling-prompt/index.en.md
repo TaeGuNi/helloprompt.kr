@@ -4,7 +4,7 @@ title: "🎵 A Touch of Olivia Dean's Soul: The Magic Prompt to Revive Lifeless 
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Ditch cliché ad jargon. Discover an AI copywriting prompt that channels the raw sincerity of Olivia Dean to breathe life into your brand."
 tags: ["prompt-engineering", "ai-agent", "olivia-dean"]
 ---

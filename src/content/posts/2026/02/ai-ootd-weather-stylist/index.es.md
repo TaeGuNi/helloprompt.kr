@@ -4,7 +4,7 @@ title: " \"오늘 뭐 입지? AI 날씨 스타일리스트\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "패션"
+category: "General"
 description: "Recomendaciones de OOTD infalibles teniendo en cuenta la temperatura, la humedad y la probabilidad de lluvia."
 tags: ["패션", "날씨", "OOTD", "코디"]
 ---

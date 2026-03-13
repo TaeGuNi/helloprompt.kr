@@ -1,133 +1,174 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Informe de Ecología de Monstruos: Creando Mi Propia Criatura\""
+title: "Informe de Ecología de Monstruos: Crea tu propia criatura"
 author: "Jay"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
-category: "Creación y Aficiones"
-description: " \"¿Cansado de los típicos slimes y goblins? Diseña monstruos originales y realistas considerando su ecosistema, dieta y comportamiento.\""
-tags:
-  ["Criatura", "Monstruo", "PlanificaciónJuego", "Fantasía", "Configuración"]
+date: "2026-02-07T09:10:33.146Z"
+updatedDate: "2026-02-07T09:10:33.147Z"
+category: "Creative & Hobbies"
+description: "Un prompt para diseñar monstruos originales con ecosistemas, hábitos y botines detallados en solo 5 minutos usando IA."
+tags: ["크리처", "몬스터", "게임기획", "판타지", "설정"]
 ---
 
-## 📝 Informe de Ecología de Monstruos: Creando Mi Propia Criatura
+## 📝 Informe de Ecología de Monstruos: Crea tu propia criatura
 
-- **🎯 Recomendado para:** Diseñadores de juegos, escritores de fantasía, Dungeon Masters (D&D) y creadores de mundos.
-- **⏱️ Tiempo requerido:** 5 minutos → 1 minuto
-- **🤖 Modelo recomendado:** GPT-4o, Claude 3.5 Sonnet (para descripciones ricas y lógicas).
+- **🎯 Dirigido a:** Diseñadores de juegos, escritores de novelas web, másteres de TRPG, creadores de mundos de fantasía.
+- **⏱️ Tiempo requerido:** 3 horas (investigación y configuración) → Reducido a 5 minutos.
+- **🤖 Rendimiento óptimo:** Claude 3.5 Sonnet (excelente en descripciones creativas), GPT-4o.
 
 - ⭐ **Dificultad:** ⭐⭐☆☆☆
-- ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
-- 🚀 **Utilidad:** ⭐⭐⭐⭐☆
+- ⚡️ **Eficacia:** ⭐⭐⭐⭐⭐
+- 🚀 **Versatilidad:** ⭐⭐⭐⭐⭐
 
-> _"¿Y si en lugar de un dragón genérico, creamos un depredador que se camufle perfectamente en las sombras de un pantano tóxico?"_
+> _"¿No podríamos hacer que el jugador sienta que no es solo un 'mob para golpear', sino un ser vivo real que respira en este mundo?"_
 
-El verdadero atractivo de franquicias como _Monster Hunter_ o _The Witcher_ no reside en la fuerza bruta de sus enemigos, sino en que se sienten como criaturas vivas con una ecología creíble. Si estás cansado de los clásicos monstruos de fantasía, este prompt te ayudará a diseñar bestias fascinantes, detallando su hábitat, patrones de caza, debilidades y botín, todo con una lógica biológica impecable.
+¿Por qué los monstruos que aparecen en series como 'Monster Hunter' o 'The Witcher' son tan atractivos? No es porque sean simples montones de polígonos u obstáculos sin sentido. Es por los rastros de evolución perfectamente adaptados a hábitats áridos, métodos de caza únicos para la supervivencia y debilidades claras derivadas de esas características biológicas. Cuando se otorga una verosimilitud ecológica tan detallada, el monstruo finalmente queda grabado en el juego como una existencia llena de vitalidad. Los jugadores no solo participan en una batalla de reducción de estadísticas, sino en una verdadera 'experiencia' de lucha a muerte con un ser desconocido.
+
+Sin embargo, crear el ecosistema de una nueva criatura desde cero conlleva un tiempo enorme y el dolor de la creación. Un diseño superficial como "este jefe vive en un volcán, así que hagamos que escupa fuego" rompe instantáneamente la inmersión del jugador. Esto se debe a que falta el <b>vínculo lógico</b> sobre por qué escupe fuego, qué órganos corporales desarrolló para hacerlo y por qué ese órgano no tiene más remedio que ser una debilidad fatal.
+
+Diseñar un ecosistema adecuado cada vez que se crea una nueva región es un trabajo agotador para diseñadores y escritores. Estudiar la vegetación, encajar la cadena alimenticia e insertar patrones forzados con la excusa de la licencia de juego agota el día antes de que te des cuenta. Al final, presionado por los plazos, terminas colocando monstruos con 'intercambio de paleta' (Palette Swap) o criaturas llenas de clichés como slimes y goblins. Los jugadores bostezan y se burlan diciendo "otra vez el mismo juego de colores", y el encanto del mundo que construiste con tanto esfuerzo se enfría. Como creador, el momento más doloroso debe ser ver cómo tu creación se degrada a una simple <b>'máquina expendedora de experiencia'</b>.
+
+Hay una manera de romper este terrible ciclo vicioso. Se trata de aprovechar la <b>potente capacidad de razonamiento y la ingeniería inversa biológica de la IA</b>. No dejes que simplemente enumere texto como los chatbots convencionales. Solo tienes que hacer dos cosas: definir el entorno hostil del hábitat donde vivirá la criatura y lanzar el motivo principal (animal u objeto) que servirá de base para su apariencia.
+
+La IA se encarga del resto del complejo proceso evolutivo. Describe con un detalle escalofriante qué sentidos se desarrollaron de forma extraña en lugar de la vista perdida en las profundidades marinas sin luz, o cómo mutó el tejido de la piel para sobrevivir en pantanos donde fluye el veneno. Deriva órganos corporales y métodos de caza desarrollados para sobrevivir en entornos hostiles, no habilidades mágicas simples y artificiales.
+
+Ya no sufras pasando noches en vela frente a un documento de planificación en blanco. Con solo proporcionar el entorno del hábitat y el motivo principal, puedes completar en solo 5 minutos un <b>libro ilustrado de ecología de monstruos tridimensional</b> que se integre perfectamente en tu mundo. No solo crea una apariencia plausible. Termina la planificación de una vez, incluyendo la configuración de la <b>debilidad (mecánica de combate)</b>, que es el núcleo de la estrategia, y el <b>botín (Loot)</b> que se puede obtener al derrotarlo. Al usar este prompt, tu mundo ya no será un espacio sin sentido donde monstruos predecibles se quedan parados. Los jugadores sentirán el placer de la verdadera 'caza' al observar la ecología del monstruo, encontrar la debilidad de su evolución y conquistarlo. ¡Ahora, experimenta tú mismo esa maravillosa magia de la creación!
+
+---
+
+## 📊 Prueba: Resultado satisfactorio (Antes y Después)
+
+### ❌ Antes (El dolor que sufríamos)
+
+Una breve descripción del método manual torpe o del dolor del lienzo en blanco. Este es el pobre resultado que se obtiene cuando se da una instrucción vaga como: "Hazme un monstruo cocodrilo que viva en un pantano. Ponle también una debilidad".
+
+```text
+Nombre: Cocodrilo del pantano
+Apariencia: Es un cocodrilo grande y aterrador. Sus escamas son duras.
+Debilidad: Es débil al fuego. Su vientre es blando.
+```
+
+### ✅ Después (El resultado transformado)
+
+```text
+[Información básica]
+- Nombre: Spore Snap (Mordida de Esporas)
+- Grado de amenaza: Especie destructora del entorno de nivel superior
+
+[Descripción de la apariencia]
+Tiene un exoesqueleto de color marrón oscuro que parece un tronco podrido. Su característica más destacada son los enormes "quistes de esporas" que cubren su espalda y cola. Su mandíbula se abre hasta 180 grados, y un moco pegajoso de pantano fluye entre sus innumerables dientes.
+
+[Patrón de caza y comportamiento]
+Acecha bajo la superficie del agua y emite sutilmente un gas alucinógeno con un aroma dulce desde sus quistes de esporas. Arrastra instantáneamente al fondo del pantano a las criaturas que se acercan a la orilla embriagadas por este aroma.
+
+[Mecánica de combate (Debilidad)]
+Los quistes de esporas de la espalda explotan al recibir ataques cuerpo a cuerpo, dispersando un veneno mortal que es letal para los atacantes de corto alcance. Sin embargo, si se queman los quistes con magia de fuego o flechas, se provoca una explosión en cadena que causa un gran daño a los órganos internos. Tras la explosión, su defensa disminuye drásticamente.
+
+[Botín (Loot)]
+- Glándula de esporas alucinógenas intacta: Material clave para bombas de sueño de alta calidad o pociones de parálisis.
+- Mandíbula del depredador del pantano: Material de forja para espadones o hachas que causan daño por corrosión.
+```
 
 ---
 
 ## ⚡️ Resumen en 3 líneas (TL;DR)
 
-1. Introduce el hábitat, las características base (motivo) y el nivel de peligro de la criatura.
-2. La IA estructurará un informe biológico completo: apariencia, tácticas de caza y debilidades.
-3. Obtendrás un ecosistema creíble y detalles sobre el botín (loot) ideales para integrarlos directamente en tu juego o historia.
+1. **Expansión del mundo con pocas palabras:** Ingresa solo el entorno del hábitat y el motivo (animal/objeto), y la IA diseñará una apariencia tridimensional mediante ingeniería inversa del proceso evolutivo.
+2. **Plausibilidad biológica:** Deriva órganos corporales y métodos de caza desarrollados para sobrevivir en entornos hostiles, en lugar de habilidades mágicas simples y artificiales.
+3. **Integración perfecta con el sistema de juego:** Finaliza la planificación de una vez, incluyendo la 'debilidad' central para la estrategia y el 'botín (Loot)' que se obtiene tras la victoria.
 
 ---
 
-## 🚀 La Solución: "Diccionario de Bestias Fantásticas"
+## 🚀 Así escriben los verdaderos expertos
 
-### 🥉 Versión Básica
+Este es el prompt perfeccionado tras decenas de pruebas y errores. Copia el siguiente prompt y rellena solo las partes entre `[variables]` según tu situación para aplicarlo de inmediato en tu trabajo.
 
-Ideal para generar ideas rápidas cuando te quedas en blanco durante una partida de rol o al iniciar un boceto de diseño.
+### 🥉 Versión básica (Basic)
 
-> **Rol:** Eres un biólogo experto en ecosistemas de fantasía.
-> **Solicitud:** Crea un monstruo original basado en un bosque petrificado. Describe brevemente su aspecto, cómo caza y su punto débil.
+Utilízala ligeramente cuando necesites una chispa de inspiración en la etapa de boceto de ideas.
 
-### 🥇 Versión Pro (Experto)
+> **Rol:** Eres un veterano cazador de monstruos y biólogo de un mundo de fantasía.
+> 
+> **Petición:** Describe en 3 líneas la apariencia original y el método de caza de un monstruo con forma de `[Tortuga + Horno]` que vive en una `[zona volcánica]`.
 
-Utiliza este prompt cuando necesites una criatura lista para producción, con una descripción profunda y mecánicas de juego integradas.
+### 🥇 Versión profesional (Pro)
 
-> **Rol:** Eres un biólogo e investigador de criaturas fantásticas que acaba de regresar de una expedición en un continente inexplorado.
+Este es el prompt que se utiliza cuando se necesita un 'informe ecológico profesional' que se pueda copiar y pegar directamente en documentos de planificación o libros de configuración.
+
+> **Rol (Role):** Eres un biólogo jefe que explora continentes desconocidos y un diseñador de ecología de monstruos encargado de la planificación de juegos.
 >
-> **Contexto:**
+> **Contexto (Context):**
 >
-> - Durante tu investigación, has descubierto una nueva especie depredadora.
-> - Necesito que redactes un informe de observación de campo detallado para la academia.
+> - Antecedentes: Durante la exploración de una nueva región, se descubre una criatura extraña (monstruo) nunca antes reportada.
+> - Objetivo: Debes redactar un 'diario de observación (bestiario)' completo que incluya las características ecológicas y los elementos de estrategia de juego de este ser.
 >
-> **Información Ecológica:**
+> **Tarea (Task):**
+> 
+> Basándote en la `[Información ecológica]` proporcionada, redacta un bestiario detallado del monstruo siguiendo el formato especificado a continuación.
 >
-> - Hábitat: `[Ej. Abismo submarino bioluminiscente, Ruinas de una ciudad flotante]`
-> - Motivo / Inspiración: `[Ej. Mantis religiosa + Cristal, Cuervo + Niebla]`
-> - Nivel de Peligro: `[Ej. Depredador alfa territorial, Criatura carroñera de manada]`
+> **[Información ecológica]**
 >
-> **Instrucciones:**
+> - Hábitat: `[profundidades marinas sin luz, pantanos venenosos, etc.]`
+> - Motivo: `[Mantis + Orquídea, Lobo + Fantasma, etc.]`
+> - Estatus en el ecosistema: `[depredador alfa, carroñero que viaja en manada, etc.]`
 >
-> 1. Redacta el **Registro de la Criatura** con los siguientes puntos:
->    - **Nombre:** (Proporciona un nombre científico inventado y el apodo que le dan los lugareños).
->    - **Anatomía:** (Describe su tamaño, textura de la piel, adaptaciones evolutivas y cualquier rasgo distintivo).
->    - **Comportamiento de Caza:** (Cómo acecha, persigue o embosca a su presa).
->    - **Debilidades Tácticas:** (Vulnerabilidades anatómicas o miedos irracionales, ej. sensibilidad al ruido, placas dorsales frágiles).
-> 2. Describe un **Hábito Ecológico** peculiar. (Ej. Cómo cortejan, rituales de hibernación o simbiosis con otra especie).
-> 3. Detalla el **Botín (Loot)**. ¿Qué materiales valiosos se pueden extraer tras cazarlo y cuál es su utilidad en alquimia o herrería?
+> **[Formato de salida]**
 >
-> **Restricciones:**
+> 1. **Información básica:** Nombre (nombre científico y alias), tamaño y dieta.
+> 2. **Descripción de la apariencia:** Características físicas evolucionadas para adaptarse al entorno del hábitat (textura, color, órganos especiales, etc., de forma visualmente vívida).
+> 3. **Patrón de caza y comportamiento:** Método para atraer o cazar presas, hábitos ecológicos únicos (ej. comportamiento en época de cría, marcado de territorio).
+> 4. **Mecánica de combate (Debilidad):** No un ataque a ciegas, sino una debilidad fatal o método de resolución derivado de su estructura biológica.
+> 5. **Botín (Loot):** Dos materiales únicos que se pueden obtener tras una caza exitosa y su uso (fabricación de equipo, pociones, etc.).
 >
-> - Prioriza la lógica biológica y evolutiva por encima de la magia genérica. Cada rasgo debe tener una razón de ser adaptativa.
-> - Formatea la respuesta con viñetas para facilitar la lectura.
+> **Restricciones (Constraints):**
+>
+> - Excluye al máximo los elementos mágicos (ej. "simplemente escupe fuego por magia") y explica basándote estrictamente en la 'evolución biológica y verosimilitud' (ej. "emisión de llamas por reacción química en bolsas de gas corporales").
+> - Evita los clichés (formas comunes de orcos, slimes) y propón diseños extraños u originales.
+> - Para mejorar la legibilidad en móviles, no utilices tablas (Table); organiza la información en forma de lista (List) con alta legibilidad.
+> - Resalta las palabras clave importantes en **negrita**.
+>
+> **Advertencia (Warning):**
+>
+> - No inventes información si no estás seguro, responde "lo desconozco". (Prevención de alucinaciones)
 
 ---
 
-## 💡 Comentario del Autor (Insight)
+## 💡 Comentarios del autor (Insight & How to use)
 
-La magia de este prompt reside en la palabra "biólogo". Al obligar a la IA a adoptar la perspectiva de un investigador científico, evitamos descripciones perezosas como "es muy fuerte y escupe fuego". En su lugar, obtenemos adaptaciones evolutivas reales: "desarrolló glándulas de fósforo en la garganta para cazar en la oscuridad".
+El arma más poderosa de este prompt es la <b>"exclusión de elementos mágicos y verosimilitud biológica"</b> especificada en las 'Restricciones'. Si le pides a la IA simplemente "hazme un dragón que escupa fuego", obtendrás un resultado muy predecible y superficial que parece visto en mil sitios. Pero en el momento en que pides "explícame el principio biológico de cómo escupe fuego", la situación cambia por completo. La IA genera configuraciones muy detalladas y atractivas, como 'expulsar fluido inflamable y chocar fuertemente dientes parecidos al sílex para encender la chispa'. Los lectores o jugadores sienten la profundidad del mundo en estos detalles minuciosos.
 
-Si estás diseñando un videojuego o una campaña de rol, la sección de "Debilidades Tácticas" y "Botín" te ahorrará horas de balanceo. Te proporciona directamente las mecánicas para que el jugador o el lector descubra cómo vencer a la criatura y cuál será su recompensa, conectando la narrativa con el _gameplay_ de forma increíblemente natural.
+Más allá de la simple salida de texto, hay que prestar atención a la <b>capacidad de creación de mecánicas</b> que se conectan orgánicamente con el sistema del juego. Si eres un diseñador de juegos o un creador de novelas web, utiliza activamente este prompt. Al derivar no solo la descripción física del monstruo, sino también la debilidad (mecánica de combate) que el jugador debe explotar y la recompensa por la victoria (botín), puedes reducir drásticamente los cuellos de botella en el proceso de planificación. Una debilidad con una razón ecológica hace que el combate sea comprensible, y el botín obtenido de órganos biológicos especiales motiva el farmeo de ítems.
 
----
+Puedes obtener resultados aún más sorprendentes utilizando el <b>control de variables (Constraint Control)</b>. Si estás planificando un género de fantasía oscura o terror cósmico, mezcla audazmente en la variable `[Motivo]` del prompt elementos como 'piezas mecánicas', 'cuerpo podrido' o 'criatura abisal'. Nacerán monstruos de formas extrañas y abrumadoras que no se ven en la fantasía común. Por ejemplo, imagina configurar el hábitat como 'conductos de agua subterráneos de ruinas antiguas' y el motivo como 'sanguijuela + candelabro'. La IA sugerirá en un instante una criatura con una ecología escalofriante que cuelga del techo emitiendo luz para atraer a su presa.
 
-## 🙋 Preguntas Frecuentes (FAQ)
+Cuando el resultado no sea de tu agrado o quieras guiarlo en una dirección específica, el consejo clave es aplicar <b>restricciones en el formato de salida</b> de forma estricta. Puedes dar una instrucción de seguimiento (Follow-up) como "añade obligatoriamente en el patrón de comportamiento una ecología que reaccione al sonido o las vibraciones", o añadir explícitamente la condición "todas las formas de ataque deben describirse en relación con sustancias ácidas" en la sección de restricciones del prompt para evitar por completo que la IA se desvíe.
 
-- **Q: ¿Puedo usar este prompt para crear criaturas pacíficas o monturas?**
-  - A: ¡Absolutamente! Solo cambia el "Nivel de Peligro" a algo como _herbívoro dócil_ o _compañero simbiótico_, y ajusta la sección de "Comportamiento de Caza" a "Dieta y Recolección".
+Además, el informe ecológico detallado obtenido a través de este prompt sirve como un documento de referencia perfecto para la <b>comunicación con el equipo de arte</b>. En lugar de decir "por favor, dibuja un monstruo aterrador", intenta entregar al equipo de arte las texturas vívidas, la ubicación de los órganos biológicos y los patrones de comportamiento únicos generados por la IA. Al dibujarse una imagen concreta en la mente del artista, nacerán resultados visuales que superan las expectativas y que no se podrían obtener con instrucciones simples.
 
-- **Q: La IA a veces me da nombres muy extraños o impronunciables, ¿qué hago?**
-  - A: Puedes añadir una restricción extra en el prompt: _"Asegúrate de que el apodo local sea de máximo 2 sílabas y suene amenazador y natural en español"_.
-
-- **Q: ¿Qué modelo de IA es mejor para esto?**
-  - A: Claude 3.5 Sonnet tiende a escribir informes biológicos con un tono más científico y literario, mientras que GPT-4o es excelente equilibrando las mecánicas de botín (loot) y las vulnerabilidades de combate. Ambos son altamente recomendables.
+Al final, una buena planificación surge de los <b>detalles convincentes</b>. Este prompt no es un simple generador de ideas, sino el mejor coautor que construye un sólido esqueleto de lógica y verosimilitud para tu imaginación. ¡Aplícalo de inmediato en tu planificación práctica o escritura de novelas y completa tu propio libro de ecología de monstruos original que abrumará a lectores y jugadores!
 
 ---
 
-## 🧬 Anatomía del Prompt (¿Por qué funciona?)
+## 🙋 Preguntas frecuentes (FAQ)
 
-1. **Perspectiva Científica (Rol):** Al asignar el rol de biólogo, forzamos a la IA a fundamentar la anatomía y el comportamiento en reglas naturales, creando una inmersión mucho más profunda.
-2. **Estructura Modular (Contexto y Tareas):** Separar explícitamente la anatomía, el comportamiento y las recompensas (loot) asegura que la IA no olvide detalles críticos para el diseño de juegos.
-3. **Freno a la Magia Excesiva (Restricciones):** La indicación _"Prioriza la lógica biológica"_ evita que la criatura sea un cliché invencible, obligando a generar debilidades mecánicas y tácticas aprovechables.
+- **P: ¿Se puede aplicar también a mundos de ciencia ficción o al género de terror cósmico?**
+  - R: Por supuesto. Intenta modificar el hábitat de la `[Información ecológica]` a 'estación espacial abandonada' o 'dimensión no euclidiana', y cambia el motivo a 'desechos mecánicos', 'tentáculos', etc. Instantáneamente nacerán criaturas extrañas y abrumadoras acordes a la atmósfera de dicho género.
+
+- **P: ¿Cómo puedo extraer imágenes (Midjourney, etc.) basadas en la configuración del monstruo planificado por la IA?**
+  - R: Traduce al inglés la sección de 'Descripción de la apariencia' del resultado del bestiario y añádele al final palabras clave de renderizado como `concept art, creature design, Unreal Engine 5 render` antes de ingresarlo en una IA generadora de imágenes. Cuanto más detallada y sólida sea la configuración del texto, más asombrosa será la ilustración original.
 
 ---
 
-## 📊 Prueba: Antes y Después
+## 🧬 Anatomía del prompt (Why it works?)
 
-### ❌ Antes (Sin prompt estructurado)
-
-> **Usuario:** "Crea un monstruo cocodrilo de pantano."
->
-> **IA:** "El Cocodrilo del Pantano es grande, verde y muy feroz. Tiene dientes afilados y ataca a los viajeros. Es débil al fuego. Te da cuero de cocodrilo."
-
-### ✅ Después (Con el Prompt Pro)
-
-> **Resultados generados por IA:**
->
-> - **Nombre:** _Lutosuchus insidiae_ (Conocido por los locales como **Faucefangosa**)
-> - **Anatomía:** Posee un exoesqueleto dorsal poroso donde crecen musgos y hongos venenosos, mimetizándose perfectamente con las aguas estancadas. En lugar de fosas nasales convencionales, tiene un apéndice retráctil similar a un junco para respirar sumergido.
-> - **Hábito Ecológico:** Durante la época de sequía, secreta una enzima paralizante en el barro a su alrededor, creando "trampas de fango" naturales donde caen otras criaturas.
-> - **Debilidad Táctica:** Su vientre carece de exoesqueleto protector. Además, si se corta o daña su "junco" respiratorio, se verá obligado a emerger a la superficie tosiendo barro, volviéndose extremadamente vulnerable.
-> - **Botín:** **Glándula de Enzima Paralizante** (Ideal para recubrir armas o crear trampas) y **Placas de Fango Petrificado** (Material excelente para forjar escudos ligeros resistentes al ácido).
+1. **Inducción de ingeniería inversa ecológica:** Al forzar condiciones claras como 'hábitat' y 'motivo' desde el principio, se obliga a la IA a rastrear el proceso evolutivo del ser (Chain-of-Thought), otorgando una poderosa inevitabilidad al diseño.
+2. **Combinación con el sistema de juego:** No se detiene en un juego de configuración o en una simple descripción novelesca. Al especificar formatos como 'mecánica de combate (debilidad)' y 'botín (Loot)', extrae de forma estable datos estandarizados que pueden integrarse de inmediato en documentos de planificación de juegos reales o libros de configuración del mundo.
 
 ---
 
 ## 🎯 Conclusión
 
-Un monstruo bien diseñado hace que todo el ecosistema de tu mundo cobre vida y se sienta verdaderamente peligroso e intrigante. Cuando tu audiencia entienda que cada criatura tiene su lugar en la cadena alimenticia, tu mundo dejará de ser un simple escenario para convertirse en un ecosistema que respira.
+Un ecosistema de monstruos bien diseñado es la herramienta más potente e intuitiva para sumergir profundamente a los jugadores y lectores en tu mundo.
 
-¡Es hora de poblar tus mapas con bestias que tus jugadores nunca olvidarán! 🦖
+El tiempo de sufrir frente a un documento de planificación en blanco ha terminado. ¡A partir de hoy, libera junto a la IA criaturas llenas de vida en tu mundo, ante las cuales los jugadores huirán gritando (o saltarán vitoreando por el botín)!
+
+¡Espero que automatices tu trabajo y te retires (o salgas puntual) con estilo! 🍷

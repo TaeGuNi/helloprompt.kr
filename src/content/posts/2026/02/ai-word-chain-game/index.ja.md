@@ -4,7 +4,7 @@ title: " \"AI와 끝말잇기: 절대 질 수 없는 끝말잇기 고수\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "재미/엔터"
+category: "General"
 description: "「る」攻めなどの理不尽な攻撃を完封！AIとのしりとりで絶対に負けない「しりとりマスター」プロンプトと、AIの弱点を突く必勝法を解説します。"
 tags: ["끝말잇기", "게임", "ChatGPT", "한국어", "놀이"]
 ---

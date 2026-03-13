@@ -4,9 +4,9 @@ title: " \"🏈 Gib niemals auf wie Tim Tebow: Erstelle deinen eigenen 'Motivati
 author: "Jay"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
-category: "자기계발"
+category: "General"
 description: "Nutze das unermüdliche Mindset von Tim Tebow als KI-Prompt. Erschaffe deinen persönlichen Coach, der dich bei mentaler Erschöpfung sofort motiviert."
-tags: ["tim tebow", "동기부여", "마인드셋", "멘탈케어", "업무자동화", "ChatGPT"]
+tags: ["tim tebow", "동기부여", "마인드셋", "멘탈케어", "Work Automation", "ChatGPT"]
 ---
 
 ## 📝 Tim Tebow Mental-Coaching-Prompt: Wie man nach dem Scheitern wieder aufsteht

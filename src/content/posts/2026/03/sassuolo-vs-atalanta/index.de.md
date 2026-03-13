@@ -4,7 +4,7 @@ title: "⚽ Sassuolo vs. Atalanta: Der All-in-One-Prompt für Leistungsanalyse u
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Analysieren Sie Sportdaten in nur einer Minute per KI. Ein praxisnaher Leitfaden für fundierte Geschäftsberichte und präzise Match-Analysen."
 tags: ["prompt-engineering", "ai-agent", "sassuolo-vs-ata"]
 ---

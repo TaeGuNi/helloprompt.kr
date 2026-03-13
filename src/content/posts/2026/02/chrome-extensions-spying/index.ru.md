@@ -4,7 +4,7 @@ title: " \"당신을 감시하는 크롬 확장프로그램 280개 리스트\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "보안"
+category: "Security"
 description: "Защитите свои данные: узнайте, как с помощью ИИ за 1 минуту вычислить шпионские расширения Chrome, тайно собирающие вашу личную информацию."
 tags: ["Security", "Chrome", "Privacy", "Browser"]
 ---

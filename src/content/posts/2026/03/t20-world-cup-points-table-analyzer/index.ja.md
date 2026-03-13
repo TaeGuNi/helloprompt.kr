@@ -4,7 +4,7 @@ title: "🏏 T20ワールドカップのポイント表を1秒で完璧に分析
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "複雑なT20ワールドカップのポイント表をコピペするだけでOK。直感的な要約から深層分析レポートまで、AIがたった1秒で完璧に仕上げます。"
 tags: ['prompt-engineering', 'ai-agent', 't20-world-cup-p']
 ---

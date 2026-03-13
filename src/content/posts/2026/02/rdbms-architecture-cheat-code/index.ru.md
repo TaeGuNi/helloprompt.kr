@@ -4,7 +4,7 @@ title: "🔥 Абсолютная конституция архитектуры 
 author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "AI 프롬프트"
+category: "General"
 description: "Бескомпромиссный промпт от Senior Backend-инженера для проектирования RDBMS. Заставьте ИИ строить строгие схемы, а не спагетти-базы на JSON."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "rdbms-architecture"]
 ---

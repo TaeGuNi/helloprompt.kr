@@ -4,9 +4,9 @@ title: " \"주식 차트 분석: '이거 살까 말까?' 차트 캡처해서 물
 author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
-category: "재테크/투자"
+category: "General"
 description: "专为投资新手打造的AI行情分析师。只需上传K线截图，即可瞬间获取客观的技术分析与交易策略，告别盲目跟风，精准把握买卖时机。"
-tags: ["주식", "차트분석", "비트코인", "ChatGPT", "투자"]
+tags: ["Stocks", "차트분석", "비트코인", "ChatGPT", "Investment"]
 ---
 
 ## 📈 股票图表分析：“这只股票能买吗？”一键截图问AI

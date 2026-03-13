@@ -4,7 +4,7 @@ title: "🔥 Shut Up and Code: The AI Agent Autonomous GitOps Cheat Code"
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "A senior developer's secret prompt that eliminates AI sycophancy and forces it into a ruthless, fully automated 4-step GitOps pipeline."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "github-cli"]
 ---

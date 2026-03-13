@@ -4,7 +4,7 @@ title: " \"반려 식물 진단: 시들한 잎 사진 보고 살려내기\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "라이프/식물"
+category: "General"
 description: "Die Rettung für Pflanzenkiller! Erhalte per Foto von welken Blättern oder hängenden Stängeln eine exakte KI-Diagnose und deinen optimalen Rettungsplan."
 tags: ["식물", "플랜테리어", "반려식물", "ChatGPT", "원예"]
 ---

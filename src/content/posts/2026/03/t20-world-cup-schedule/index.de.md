@@ -4,7 +4,7 @@ title: "🏏 T20 World Cup Spielplan: Der Prompt, der komplexe Zeitverschiebunge
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "KI-Prompt zur automatischen KST-Zeitberechnung für die T20-Weltmeisterschaft. Perfekt für globale Sportvermarkter zur fehlerfreien Kampagnenplanung."
 tags: ["prompt-engineering", "ai-agent", "t20-world-cup-s"]
 ---

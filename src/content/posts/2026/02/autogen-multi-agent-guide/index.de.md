@@ -4,9 +4,9 @@ title: " \"AutoGen 입문: AI 에이전트끼리 대화하게 만들기\""
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "AI/개발"
+category: "General"
 description: "Ein Leitfaden für Microsofts AutoGen: Erfahren Sie, wie KI-Agenten autonom kommunizieren, Feedback geben und gemeinsam Code schreiben."
-tags: ["AutoGen", "멀티에이전트", "MS", "AI협업", "자동화"]
+tags: ["AutoGen", "멀티에이전트", "MS", "AI협업", "Automation"]
 ---
 
 ## 🤖 AutoGen-Einführung: KI-Agenten miteinander kommunizieren lassen

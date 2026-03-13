@@ -4,9 +4,9 @@ title: " \"초보자를 위한 AI 에이전트 오케스트레이션 입문 (Mul
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "如果单个AI无法满足需求怎么办？为您揭秘能让多个AI像团队一样协同工作的'多智能体'协作提示词，助您轻松驾驭复杂项目策划。"
-tags: ["AI 에이전트", "자동화", "프롬프트 엔지니어링", "AutoGPT"]
+tags: ["AI 에이전트", "Automation", "Prompt Engineering", "AutoGPT"]
 ---
 
 ## 📝 告别单打独斗：构建你的AI多智能体团队

@@ -4,7 +4,7 @@ title: " \"AI로 밤새 쌓인 뉴스, 1분 만에 브리핑 받기\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "자기계발"
+category: "General"
 description: " \"每天通勤仅需1分钟！利用专属AI新闻主播，快速掌握全球市场趋势与核心商业动向的终极提示词。\""
 tags: ["뉴스", "요약", "ChatGPT", "시간절약"]
 ---

@@ -4,7 +4,7 @@ title: "📊 拒绝加班：用 ChatGPT 1 分钟搞定 PPT 逻辑与大纲"
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "面对空白的 PPT 页面却毫无头绪？只需复制这段实战级提示词，一键即可生成逻辑严密、直击痛点的高阶商业提案大纲。"
 tags: ["prompt-engineering", "ai-agent", "powerpoint"]
 image: "/images/hooks/powerpoint-outline-prompt.jpg"

@@ -4,7 +4,7 @@ title: "Prompt Otimizado de CoT para Modelos de Raciocínio"
 author: "Jay"
 date: "2026-02-09"
 updatedDate: "2026-02-09"
-category: "개발 생산성"
+category: "General"
 description: "Técnicas de design de prompts Chain of Thought (CoT) para maximizar o desempenho de IAs de raciocínio avançadas, como Gemini 3 e DeepSeek."
 tags: ["AI", "Prompt Engineering", "CoT"]
 ---

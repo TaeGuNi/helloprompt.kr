@@ -4,7 +4,7 @@ title: " \"인테리어 컨설팅: 방 사진 찍어 올리면 가구 배치 추
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "라이프/리빙"
+category: "General"
 description: "WG-Zimmer oder Chaos-Wohnzimmer? Mit einem Foto und simplen Maßen liefert die KI die optimale Möbelanordnung und smarte Deko-Tipps für mehr Raumgefühl."
 tags: ["인테리어", "집꾸미기", "가구배치", "ChatGPT", "홈스타일링"]
 ---

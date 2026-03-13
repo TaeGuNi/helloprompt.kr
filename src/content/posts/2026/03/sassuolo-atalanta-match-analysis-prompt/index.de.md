@@ -4,7 +4,7 @@ title: "⚽ Sassuolo vs Atalanta: Sport-Match-Analyse & Prompt zur automatischen
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Von der zähen Datenrecherche zum fertigen Blogbeitrag in Sekunden: Dieser KI-Prompt automatisiert Ihre komplette Sportberichterstattung."
 tags: ["prompt-engineering", "ai-agent", "sassuolo-atalan"]
 image: "/images/hooks/sassuolo-atalanta-match-analysis-prompt.jpg"

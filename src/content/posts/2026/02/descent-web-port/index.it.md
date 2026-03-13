@@ -1,138 +1,146 @@
 ---
-title: " \"Descent, portato sul web\""
+title: " \"Descent, portato sul Web\""
 date: 2026-02-15
 categories: ["Web", "GameDev", "WASM"]
 tags: ["Three.js", "WebGL", "Descent", "Retro"]
 cover: "./cover.png"
-description: "Scopri il prompt definitivo per convertire classici come Descent per il web usando WebAssembly e Three.js. Trasforma l'AI nel tuo architetto di porting."
+description: "Scopri come portare il legacy code C++ sul web con WASM e Three.js. Un prompt AI per analizzare progetti di porting di giochi retro in pochi minuti."
 ---
 
-## 📝 Descent sul Web: Il Prompt per il Porting di Giochi Retro
+## 📝 Oltre i limiti del browser: Guida al porting di giochi retro con WASM e Three.js
 
-- **🎯 Consigliato per:** Sviluppatori Web, Game Developer, Appassionati di Retro-gaming
-- **⏱️ Tempo risparmiato:** Da settimane di studio a 10 minuti di configurazione
-- **🤖 Modelli consigliati:** GPT-4o, Claude 3.5 Sonnet, Gemini 2.5 Pro
+- **🎯 Consigliato a:** Sviluppatori Web, Ingegneri Front-end, Sviluppatori di Giochi
+- **⏱️ Tempo stimato:** 1 settimana (analisi manuale) → ridotto a 5 minuti
+- **🤖 Prestazioni top:** Consigliati i modelli di ragionamento più recenti (piena compatibilità con qualsiasi modello)
 
 - ⭐ **Difficoltà:** ⭐⭐⭐☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
 - 🚀 **Versatilità:** ⭐⭐⭐⭐☆
 
-> _"Vuoi portare un classico del passato sui browser moderni, ma Three.js e WASM ti sembrano geroglifici incomprensibili? Lascia che l'AI scriva la mappa del tesoro per te."_
+> _"Il leggendario gioco 3D 'Descent' gira perfettamente nel browser. Come puoi applicare questo incredibile caso di porting WASM + Three.js al tuo progetto?"_
 
-Il leggendario **Descent**, capolavoro videoludico del 1995, è sbarcato di recente sui browser moderni sfruttando tecnologie all'avanguardia come **Three.js** e **WebAssembly (WASM)**. Puoi provare l'ebbrezza di giocarci direttamente online qui: [mrdoob.github.io/three-descent](https://mrdoob.github.io/three-descent/).
+**Descent**, il leggendario sparatutto a 6 gradi di libertà (6DOF) rilasciato nel 1995, è stato perfettamente portato sui moderni browser web grazie a Three.js e WebAssembly (WASM). Questo monumentale progetto open source ([Three-Descent](https://mrdoob.github.io/three-descent/)) non è solo un modo per godersi un classico, ma rappresenta un'eccellente referenza che dimostra le **capacità di rendering estremo dei browser moderni e il potenziale di WASM**. Vedere i complessi motori fisici e le pipeline di rendering del passato girare fluidamente negli ambienti browser odierni fa percepire quanto la tecnologia web sia progredita a passi da gigante.
 
-Ma come si affronta un progetto di porting di questa portata senza impazzire tra oscuri puntatori di memoria C++ e complessi context WebGL? La risposta risiede in un **prompt di ingegneria strutturata** capace di trasformare la tua AI in un vero e proprio Architetto di Porting. Una guida esperta che ti prenderà per mano, aiutandoti a scavalcare anche gli ostacoli tecnici più insidiosi con eleganza e precisione.
+Tuttavia, analizzare da soli l'architettura che unisce il vasto codice legacy C/C++ a Three.js non è affatto semplice. **Fare reverse engineering della pipeline di rendering e della logica di condivisione della memoria su una base di codice di decine di migliaia di righe richiede almeno una settimana di lavoro estenuante.** Anche per uno sviluppatore web esperto, comprendere la struttura di un motore di gioco in C++, totalmente diversa dall'ecosistema front-end tradizionale, rappresenta una barriera all'ingresso enorme.
+
+La maggior parte dei web developer si sente sopraffatta nel momento in cui si trova davanti al codice originale in **C++**. Operazioni sui puntatori, allocazione manuale della memoria e residui di un ecosistema completamente diverso dall'ambiente browser sono sparsi ovunque. Il processo di build con **Emscripten** per portarlo sul browser è già di per sé doloroso, ma il vero problema è risolvere il **collo di bottiglia della comunicazione (Interop) tra il modulo WASM e JavaScript**. Ogni frame deve ricevere coordinate, valori di rotazione di migliaia di oggetti e risultati di calcoli fisici tramite `ArrayBuffer`, sincronizzandoli con lo scene graph di **Three.js**. Se questa logica di bridge non viene compresa e ottimizzata alla perfezione, si incorre in gravi cali di prestazioni e terribili drop di frame. È frustrante vedere lo schermo scattare a causa del cosiddetto "micro-stuttering" ogni volta che interviene il Garbage Collection (GC) di JavaScript.
+
+Alla fine, lo sviluppatore finisce per passare notti insonni a spulciare i repository GitHub, saltando inefficacemente tra `main.cpp` e `index.js` inserendo infiniti log in console. Si cerca di visualizzare il flusso di esecuzione nella mente, ma si vaga senza colmare il divario tra l'event loop asincrono e l'esecuzione sincrona dei moduli WASM. Questa è un'enorme **perdita di tempo** e la causa principale della perdita di motivazione. Il vostro prezioso tempo libero e le vostre notti non possono essere sprecati così senza senso.
+
+Ma cosa succederebbe se un **senior game engine developer con 15 anni di esperienza** sedesse accanto a voi e vi indicasse con precisione l'architettura principale e i pattern di controllo della memoria di questo vasto codice sorgente? Se eliminasse il complesso codice boilerplate e vi spiegasse solo il "flusso dei dati" e il "know-how di ottimizzazione" più importanti, il vostro progetto di porting procederebbe a una velocità totalmente diversa.
+
+In questo post, sveliamo un **prompt magico per far analizzare all'IA il codice sorgente di questo enorme progetto open source ed estrarre in un colpo solo insight ingegneristici di alto livello applicabili immediatamente** al vostro progetto di web game. Non si tratta solo di riassumere il codice. È uno strumento potente che prevede difetti strutturali e delinea una roadmap architettonica per aggirare i colli di bottiglia delle prestazioni. Non affogate più nella palude del codice legacy incomprensibile. Con questo prompt, anche la complessa logica di comunicazione WASM diventerà chiara. In soli 5 minuti, potrete decodificare perfettamente i segreti di un grande progetto open source!
 
 ---
 
-## 📊 Dimostrazione: Un Risultato Straordinario (Prima & Dopo)
+## 📊 Dimostrazione: Risultati tangibili (Prima e Dopo)
 
-### ❌ Prima (L'incubo delle performance)
+### ❌ Prima (Il dolore che provavamo)
 
-Il classico approccio vago e destrutturato: _"Converti questo codice C++ di movimento del giocatore in JS."_
+Ci si perde tra decine di migliaia di righe di codice legacy C++ sconosciuto e la pipeline di rendering di Three.js. Si spulciano i repository GitHub per intere notti cercando di capire come WASM e JavaScript condividano la memoria, ma l'unico risultato sono errori di `Out of Memory` dalle cause ignote.
+
+### ✅ Dopo (Il risultato trasformato)
 
 ```text
-L'AI genera una funzione lenta e inefficiente che copia inutilmente dozzine di oggetti ad ogni ciclo di render, chiamando costantemente metodi WASM e distruggendo le performance del browser, facendole crollare a miseri 15 FPS.
-```
+(Sintesi della risposta dell'IA)
+Il cuore del port web di Descent risiede nella compilazione del codice sorgente C esistente in WASM utilizzando Emscripten, 
+e nel trasferimento dello stato tra i calcoli della logica di gioco e il rendering tramite memoria condivisa (SharedArrayBuffer) 
+all'ambiente Three.js in modalità zero-copy.
 
-### ✅ Dopo (La trasformazione perfetta a 60 FPS)
-
-Con il nostro prompt strutturato, l'AI comprende l'architettura e ottimizza la memoria in modo impeccabile:
-
-```javascript
-// Risultato: L'AI genera codice che mappa direttamente la memoria WASM per prestazioni a 60+ FPS
-const playerPosPointer = Module._getPlayerPosition();
-// Crea una vista diretta sulla memoria di WebAssembly (Nessuna copia dati!)
-const posArray = new Float32Array(Module.HEAPF32.buffer, playerPosPointer, 3);
-
-function animate() {
-  requestAnimationFrame(animate);
-  Module._updatePhysics(); // Esegue il tick fisico in C++ super veloce
-
-  // Aggiorna Three.js leggendo direttamente dalla memoria senza latenza
-  mesh.position.set(posArray[0], posArray[1], posArray[2]);
-  renderer.render(scene, camera);
-}
+La roadmap iniziale in 3 fasi per l'applicazione al progetto è la seguente:
+1. Configurazione dell'ambiente di build Emscripten e compilazione WASM della logica "Hello World" in C++.
+2. Impostazione del data binding con JavaScript (puntatori e visualizzatori di memoria).
+3. Implementazione del loop di sincronizzazione dei dati di posizione/fisica collegandolo alla pipeline della Scene di Three.js.
+...
 ```
 
 ---
 
-## ⚡️ Sintesi in 3 punti (TL;DR)
+## ⚡️ Riassunto in 3 righe (TL;DR)
 
-1. **Analisi rapida:** L'AI scompone in modo intelligente il codice legacy (C/C++) in moduli snelli e pronti per WASM.
-2. **Bridge tecnologico:** Genera il "codice colla" (glue code) perfetto per far comunicare JavaScript e WebAssembly senza attriti.
-3. **Rendering moderno:** Traduce magistralmente le vecchie chiamate grafiche software in implementazioni **Three.js** altamente ottimizzate.
+1. **Fusione Three.js + WASM:** Impara istantaneamente i potenti pattern architettonici per portare motori di gioco legacy sul browser.
+2. **Ottimizzazione analisi codice:** Utilizza l'IA per estrarre in 5 minuti i principi operativi fondamentali di vasti progetti di porting open source.
+3. **Integrazione nel proprio progetto:** Ottieni know-how di ottimizzazione applicabili immediatamente, come la gestione della memoria del browser e i loop di rendering.
 
 ---
 
-## 🚀 I Veri Esperti Scrivono Così
+## 🚀 Ecco come scrivono i veri esperti
 
-Dopo innumerevoli test, ecco i due prompt definitivi per affrontare qualsiasi conversione legacy. Copia quello più adatto alle tue esigenze, riempi le variabili tra parentesi `[ ]` e preparati a scrivere codice ad alte prestazioni.
+Fare reverse engineering di vasto codice legacy C++ è un'enorme perdita di tempo. Copia il prompt qui sotto e compila le variabili tra `[ ]` in base alla situazione del tuo progetto per metterlo subito in pratica.
 
-### 🥉 Versione Base (Per fix rapidi)
+### 🥉 Versione Basic (Modello base)
 
-> **Ruolo:** Sei un Senior WebGL e WASM Developer.
->
-> **Azione:** Spiegami come convertire questo `[Incolla qui il codice C legacy]` in un modulo WebAssembly utilizzabile in JavaScript, garantendo alte prestazioni.
+Usalo quando vuoi comprendere rapidamente solo la struttura operativa principale del progetto.
 
-### 🥇 Versione Pro (Per architetture complete)
+> **Ruolo (Role):** Sei un senior front-end game developer.
+> 
+> **Richiesta (Task):** Riassumi in 3 punti chiave il principio di funzionamento del progetto open source `https://mrdoob.github.io/three-descent/` e come il codice C++ esistente interagisce con WASM e Three.js.
 
-> **Ruolo (Role):** Sei un Software Architect specializzato nel porting di videogiochi retro (C/C++) su web tramite WebAssembly (Emscripten) e Three.js.
+### 🥇 Versione Pro (Modello esperto)
+
+Usalo quando hai bisogno di un'analisi tecnica approfondita (Deep Dive) e di una roadmap per l'applicazione reale al tuo progetto.
+
+> **Ruolo (Role):** Sei un senior game engine developer con 15 anni di esperienza ed esperto di ottimizzazione WebGL/WASM.
 >
 > **Contesto (Context):**
 >
-> - Background: Sto effettuando il porting del gioco `[Inserisci il Nome del Gioco, es: Descent]`.
-> - Obiettivo: Creare un bridge efficiente tra il motore logico compilato in WASM e il sistema di rendering 3D nel browser.
+> - Background: Il gioco del 1995 'Descent' è stato portato sul browser tramite Three.js e WASM (`mrdoob/three-descent`).
+> - Obiettivo: Analizzare l'architettura di questo progetto per ottenere lo stack tecnologico e gli insight strutturali necessari per il mio progetto `[Descrizione del mio progetto di porting di giochi retro]`.
 >
-> **Azione (Task):**
+> **Richiesta (Task):**
 >
-> 1. Analizza la logica di questo file sorgente originale: `[Incolla qui il file C/C++ o la sua logica]`.
-> 2. Scrivi i binding Emscripten (`EMSCRIPTEN_KEEPALIVE`) necessari per esporre le funzioni critiche a JavaScript.
-> 3. Genera uno script JavaScript/Three.js di base che istanzia il modulo WASM e sincronizza i dati di posizione/rotazione per aggiornare la scena 3D.
-> 4. Sostituisci le vecchie chiamate grafiche (OpenGL legacy o Software rendering) con concetti moderni di Three.js.
+> 1. **Mappatura dell'architettura:** Spiega a livello architettonico come è stato implementato il ruolo di bridge tra il modulo WASM (logica/calcoli fisici) e Three.js (rendering/gestione input) in questo port web.
+> 2. **Risoluzione dei colli di bottiglia:** Analizza i principali colli di bottiglia (leak di memoria, impatto del Garbage Collection, ecc.) che possono verificarsi eseguendo giochi 3D di questo tipo in ambiente browser e come questo progetto li ha aggirati.
+> 3. **Piano d'azione:** Crea una 'Roadmap di setup iniziale in 3 fasi' per iniziare subito ad applicare questo pattern al mio progetto.
 >
 > **Vincoli (Constraints):**
 >
-> - Utilizza le moderne sintassi ES6 per JavaScript.
-> - Ottimizza al massimo le chiamate tra JS e WASM per evitare colli di bottiglia (es. usa le **Typed Arrays** per accedere alla memoria condivisa senza copiare i dati).
-> - L'output del codice deve essere formattato in blocchi Markdown separati e meticolosamente commentati.
+> - Mantieni le parti variabili indicate con `[ ]` affinché l'utente possa compilarle.
+> - Scrivi in modo orientato agli sviluppatori utilizzando termini tecnici precisi (es. ArrayBuffer, Emscripten, requestAnimationFrame, ecc.).
+> - Organizza l'output in modo pulito utilizzando intestazioni Markdown e punti elenco.
 >
-> **Avvertenze (Warning):**
+> **Avvertenza (Warning):**
 >
-> - Se il codice originale contiene dipendenze da librerie OS-specific (come finestre Win32 o direct input), segnalalo chiaramente e suggerisci le alternative web standard (es. Pointer Lock API, Web Audio API). Non inventare librerie inesistenti e ammetti i limiti del browser.
+> - Se non conosci l'esatta logica interna del codice sorgente, non tirare a indovinare eccessivamente; spiega basandoti sui pattern generali di porting Emscripten + WebGL, dichiarando chiaramente questo fatto. (Prevenzione allucinazioni)
 
 ---
 
-## 💡 Il Commento dell'Autore (Insight & How to use)
+## 💡 Commento dell'autore (Insight e istruzioni d'uso)
 
-Portare un pilastro come **Descent** o altri titoli storici sul web rappresenta un traguardo straordinario per le moderne tecnologie browser. Quando si affrontano progetti simili, il vero incubo degli sviluppatori non è tanto riscrivere la logica core del gioco, quanto riuscire a far comunicare in modo efficiente la memoria C++ con il frenetico event loop di JavaScript.
+Questo prompt è stato progettato per **risolvere completamente il senso di smarrimento iniziale** che gli sviluppatori provano quando analizzano vasti progetti open source. Invece di perdersi tra innumerevoli cartelle e file leggendo il codice riga per riga, il vero valore di questo prompt sta nel porre all'IA prima di tutto la domanda architettonica più critica e fondamentale: **"Quindi, come si scambiano i dati WASM e il renderer?"**. Permette un approccio 'Top-down' (dall'alto verso il basso), dove si osserva prima l'intera architettura e si scava solo nella logica necessaria, invece del tradizionale metodo 'Bottom-up' di leggere tutto il codice per poi cercare di comporre il quadro generale.
 
-Questo prompt è un vero e proprio salvavita perché **impone all'AI** di utilizzare fin dalla prima riga di codice la **memoria condivisa**. Chiedendo esplicitamente di sfruttare le Typed Arrays (come `Float32Array`) invece di invocare funzioni lente e costose ad ogni singolo frame, andiamo a neutralizzare il peggior nemico del WebGL: il sovraccarico di memoria. Questo accorgimento strategico ti farà risparmiare innumerevoli ore di estenuante debugging sui cali di framerate, garantendo che l'AI non proponga mai architetture amatoriali, lente e inefficaci.
+L'errore comune che molti sviluppatori commettono quando usano l'IA per l'analisi del codice è copiare e incollare alla cieca il codice dell'intero repository e chiedere genericamente "spiegami questo codice". In questo modo, è probabile che l'IA fornisca risposte superficiali elencando solo nomi di variabili o funzioni, o che dia spiegazioni errate perdendo il contesto. Questo prompt è diverso. Forza rigorosamente un **pensiero ingegneristico di tipo Top-down**, estraendo prioritariamente insight di livello profondo come le strutture di condivisione della memoria e le pipeline di rendering. È un modo per utilizzare l'IA non come un semplice 'interprete di codice', ma come uno 'scanner architettonico' che seziona grandi sistemi.
 
----
+Assimilando questo eccellente riferimento, a cui ha partecipato direttamente mrdoob (il creatore di Three.js), con questo metodo top-down, la struttura di base del vostro nuovo progetto WebGL diventerà inevitabilmente più solida. In particolare, bisogna notare l'uso dei **Vincoli (Constraints)** nel prompt per controllare l'eccessiva creatività dell'IA. La condizione "se non conosci la logica esatta, non tirare a indovinare" è il segreto fondamentale per prevenire le allucinazioni (Hallucination) dell'IA e ottenere risultati tecnici stabili e pronti per l'uso professionale. Questo singolo vincolo previene errori fatali che potrebbero portare il vostro progetto nella direzione sbagliata.
 
-## 🙋 Domande Frequenti (FAQ)
+Un consiglio per utilizzare questo prompt in modo ancora più potente nella pratica è provare attivamente il **Controllo delle Variabili (Variable Control)**. Nella sezione `[Descrizione del mio progetto di porting di giochi retro]`, descrivete in modo molto specifico la situazione del progetto che state pianificando. Ad esempio, se specificate: *"Porterò un RPG 2D con visuale isometrica degli anni '90 scritto in C++, ma ho intenzione di usare Pixi.js invece di Three.js"*, l'IA rimuoverà la logica di rendering 3D dall'architettura del progetto Descent e si concentrerà solo sulle **tecniche di memory binding e sincronizzazione dello stato**, offrendovi una roadmap di ottimizzazione completamente nuova. È come avere un consulente tecnico personalizzato.
 
-- **D: Posso usare questo prompt per motori di rendering diversi da Three.js (es. Babylon.js)?**
-  - A: Assolutamente sì! Ti basterà sostituire il parametro `[Three.js]` all'interno del prompt con il motore WebGL di tua scelta, o persino con **Vanilla WebGL** o **WebGPU** per il massimo controllo a basso livello.
+Inoltre, è importante proseguire con domande di follow-up (Follow-up Prompt) basate sulla roadmap di setup iniziale in 3 fasi fornita dall'IA. Una volta compresa la fase 1 della roadmap, provate a richiedere la generazione di codice specifico, come: *"Scrivi l'ossatura di base di un CMakeLists.txt necessario per la configurazione dell'ambiente di build Emscripten della fase 1"*. Costruendo questa pipeline di **comprensione generale → impostazione roadmap → generazione codice dettagliato**, potrete sperimentare una produttività prodigiosa, gettando le basi di un enorme lavoro di porting (che in passato avrebbe richiesto un mese) in un solo giorno.
 
-- **D: L'AI può convertire magicamente l'intero gioco da sola in un solo colpo?**
-  - A: No, la bacchetta magica non esiste. Un gioco completo ha troppi file e dipendenze per poter entrare nell'attuale finestra di contesto di qualsiasi AI. Il metodo migliore e professionale è procedere in modo architetturale: **modulo per modulo** (gestione input, motore fisico, pipeline di rendering).
+Andare oltre la semplice comprensione del codice scritto da altri, per assorbire i pattern architettonici in esso contenuti come proprie armi. Questo è il vero modo di apprendere di un senior engineer e l'obiettivo finale di questo prompt. Non abbiate più paura davanti a nuovi stack tecnologici o vasto codice legacy. Se comprendete e utilizzate la struttura logica di questo prompt, qualsiasi progetto open source al mondo diventerà per voi un eccellente materiale didattico.
 
 ---
 
-## 🧬 Anatomia del Prompt (Perché funziona?)
+## 🙋 Domande frequenti (FAQ)
 
-1. **Role & Niche Targeting:** Impostando esplicitamente l'AI come _"Software Architect specializzato in porting"_, evitiamo risposte banali per principianti JS. Il modello viene forzato a pensare "in grande", restituendo immediatamente codice orientato alle massime performance.
-2. **Gestione del Collo di Bottiglia (Constraints):** Chiedendo in modo proattivo di ottimizzare le chiamate JS-WASM tramite memoria condivisa, costringiamo l'AI a implementare le best practice di **Emscripten** fin dal primissimo output generato.
-3. **Safety Constraints (Warning):** La clausola di avvertenza sulle API OS-specific è cruciale. Previene le classiche allucinazioni dell'AI su librerie di sistema (come DirectX o Win32) che all'interno di un browser non esistono, guidando il modello verso l'uso esclusivo di API Web standard e sicure.
+- **D: Il risultato del prompt non è quello sperato. Come posso correggerlo?**
+  - R: Prova a scrivere la sezione `[Descrizione del mio progetto di porting di giochi retro]` nel modo più specifico possibile. (Es: "Sto portando un gioco RPG 2D isometrico basato su C++ su Canvas") Più l'obiettivo è chiaro, più l'IA individuerà punti di ottimizzazione accurati.
+
+- **D: L'IA può analizzare tutto il codice sorgente fornendo solo il link?**
+  - R: Con la funzione di navigazione web è possibile cogliere una panoramica, ma se desideri un deep dive, la qualità del risultato aumenterà drasticamente se incolli direttamente il testo dei file chiave che fungono da bridge (es. `main.cpp`, `index.js`) insieme al prompt.
 
 ---
 
-## 🎯 Conclusione (Epilogue)
+## 🧬 Anatomia del prompt (Perché funziona?)
 
-I browser moderni si sono evoluti fino a diventare delle console di gioco a tutti gli effetti, capaci di compiere prodezze tecniche un tempo inimmaginabili. Sfruttando la potenza dell'AI con prompt ingegnerizzati e chirurgici come questo, ostacoli tecnici apparentemente insormontabili — come i complessi binding tra C++ e WASM — diventano semplici, chiare e gestibili checklist architetturali.
+1. **Assegnazione del ruolo (Role):** Vestendo i panni di un 'Senior Game Engine Developer', abbiamo stimolato la produzione di conoscenze ingegneristiche di livello profondo, come la gestione dei buffer di memoria o le pipeline di rendering, invece di semplici riassunti superficiali.
+2. **Strutturazione del contesto (Context):** Chiarendo l'obiettivo del lettore (applicazione al proprio progetto di porting), abbiamo forzato l'IA a non limitarsi a una semplice recensione, ma a elaborare un **piano d'azione eseguibile**.
+3. **Vincoli (Constraints):** Specificando di "non tirare a indovinare", abbiamo prevenuto le allucinazioni (Hallucination) e garantito l'affidabilità tecnica dell'analisi.
 
-Che tu stia studiando l'incredibile porting di Descent per curiosità tecnica, o che tu stia disperatamente cercando di salvare dall'oblio il tuo primissimo videogioco sviluppato ai tempi del liceo, l'AI strutturata è senza dubbio il tuo miglior co-pilota.
+---
 
-Ora vai, apri il tuo editor di codice e **riporta in vita i grandi classici!** 🎮
+## 🎯 Conclusione (Epilogo)
+
+Osservare un classico capolavoro tornare a vivere nel browser è un'esperienza emozionante per ogni sviluppatore. Non limitatevi a chiudere la scheda pensando "Wow, funziona!", ma usate questo prompt per fare vostra l'essenza dell'ingegneria che si nasconde dietro le quinte.
+
+Automatizzate il vostro lavoro e godetevi il tempo libero (o un'uscita anticipata dall'ufficio)! 🍷

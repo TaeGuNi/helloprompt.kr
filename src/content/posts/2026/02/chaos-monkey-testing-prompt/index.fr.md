@@ -4,7 +4,7 @@ title: "Prompt Chaos Monkey pour torturer l'IA 💣 (Le Happy Path est mort)"
 author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "프롬프트 엔지니어링"
+category: "General"
 description: "Marre des succès artificiels générés par l'IA ? Voici le code de triche impitoyable qui simule les pires scénarios pour blinder votre système."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "chaos-monkey-testing"]
 ---

@@ -4,9 +4,9 @@ title: " \"Three.js 3D 웹사이트: 개발자 없이 만드는 화려한 인터
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "개발/코딩"
+category: "General"
 description: "想要在网站上展示 3D 模型？这是一份利用 React Three Fiber 和 AI 快速实现华丽交互的终极指南，让你无需图形学基础也能打造沉浸式体验。"
-tags: ["Three.js", "R3F", "3D웹", "React", "프론트엔드"]
+tags: ["Three.js", "R3F", "3D웹", "React", "Frontend"]
 ---
 
 ## 🧊 Three.js 3D 网站：零开发经验也能打造的华丽交互

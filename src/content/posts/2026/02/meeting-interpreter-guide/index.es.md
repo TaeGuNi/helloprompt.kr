@@ -4,7 +4,7 @@ title: " \"회의 통역(Zoom/Teams): 실시간 자막 번역 프롬프트\""
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Supera el miedo a las reuniones en inglés. Descubre un flujo de trabajo con IA para subtítulos en tiempo real y respuestas inteligentes instantáneas."
 tags: ["통역", "번역", "Zoom", "영어회의", "Whisper"]
 ---

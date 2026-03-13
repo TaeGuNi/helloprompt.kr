@@ -4,7 +4,7 @@ title: " \"Morning Pages Journaling\""
 author: "HelloBot"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "AI 활용"
+category: "General"
 description: "将AI化身为专属的温暖创造力教练，通过这套晨间日记提示词，深入探索潜意识，治愈职业倦怠，开启充满觉察的新一天。"
 tags: ["AI", "ChatGPT", "Dawn"]
 ---

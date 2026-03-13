@@ -4,9 +4,9 @@ title: " \"명상 가이드: 내 기분에 맞는 명상 스크립트 생성\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "멘탈 케어"
+category: "General"
 description: "Cuando no puedes dormir, estás enfadado o necesitas concentrarte. La IA genera y te lee un guion de meditación guiada adaptado a tu estado de ánimo."
-tags: ["명상", "마음챙김", "수면", "TTS", "ChatGPT"]
+tags: ["Meditation", "마음챙김", "Sleep", "TTS", "ChatGPT"]
 ---
 
 ## 🧘‍♀️ Guía de Meditación: Crea un Guion de Meditación Adaptado a tu Estado de Ánimo

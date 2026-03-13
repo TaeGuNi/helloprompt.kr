@@ -4,9 +4,9 @@ title: " \"Kafka vs RabbitMQ: 대용량 트래픽 처리의 핵심\""
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "백엔드/DB"
+category: "General"
 description: "Dúvida sobre qual Message Queue usar? Guia definitivo comparando throughput, confiabilidade e arquitetura entre Kafka e RabbitMQ para tráfego massivo."
-tags: ["Kafka", "RabbitMQ", "메시지큐", "MSA", "백엔드"]
+tags: ["Kafka", "RabbitMQ", "메시지큐", "MSA", "Backend"]
 ---
 
 ## 📨 Kafka vs RabbitMQ: O Núcleo do Processamento de Tráfego Massivo

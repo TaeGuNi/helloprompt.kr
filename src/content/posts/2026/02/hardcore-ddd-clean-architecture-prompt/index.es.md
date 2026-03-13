@@ -4,7 +4,7 @@ title: "No aceptamos código espagueti: El código de trucos DDD para convertir 
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Usa este riguroso prompt de arquitecto de software para obligar a la IA a dejar la complacencia y escribir únicamente código de negocio limpio y estructurado."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ddd-architecture"]
 ---

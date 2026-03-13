@@ -4,7 +4,7 @@ title: "GLM-5: От Vibe-кодинга к Агентной Инженерии"
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "AI 트렌드"
+category: "AI Trends"
 description: "Компания Z.ai представила GLM-5. Это открывает эру агентной инженерии, выходящую далеко за рамки функции простого помощника по написанию кода."
 tags: ["GLM-5", "AI", "Agentic Engineering", "LLM"]
 ---

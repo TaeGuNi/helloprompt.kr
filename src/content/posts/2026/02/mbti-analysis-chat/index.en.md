@@ -4,7 +4,7 @@ title: " \"MBTI 분석기: 대화 내용으로 상대방 MBTI 맞히기\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "재미/엔터"
+category: "General"
 description: "Analyze texts with AI to reveal hidden personality traits. Get the exact prompt to infer MBTI from texting nuances and unlock better communication."
 tags: ["MBTI", "성격분석", "심리테스트", "ChatGPT", "연애"]
 ---

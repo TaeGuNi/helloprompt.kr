@@ -4,9 +4,9 @@ title: " \"보도자료(PR) 작성: 기자들이 좋아하는 '스트레이트 �
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "비즈니스/마케팅"
+category: "General"
 description: "¿Lanzamientos, rondas de inversión? Si no sabes cómo comunicarlos, descubre este prompt para crear notas de prensa perfectas y listas para publicar."
-tags: ["보도자료", "PR", "홍보", "ChatGPT", "글쓰기"]
+tags: ["보도자료", "PR", "홍보", "ChatGPT", "Writing"]
 ---
 
 ## 📰 Redacción de Notas de Prensa (PR): Cómo Crear el 'Artículo Directo' que los Periodistas Adoran

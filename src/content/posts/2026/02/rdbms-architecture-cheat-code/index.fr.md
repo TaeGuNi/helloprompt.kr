@@ -4,7 +4,7 @@ title: "🔥 L'Architecture RDBMS Absolue pour Détruire les Âneries de l'IA (C
 author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "AI 프롬프트"
+category: "General"
 description: "Le prompt RDBMS ultime d'un ingénieur backend senior. Empêchez l'IA de générer des bases de données spaghetti et imposez une architecture parfaite."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "rdbms-architecture"]
 ---

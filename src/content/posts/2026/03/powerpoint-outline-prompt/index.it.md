@@ -4,7 +4,7 @@ title: "🔥 Struttura PPT in 1 Minuto: Il Prompt AI per PowerPoint che Anticipa
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Basta fissare lo schermo vuoto! Scopri il prompt definitivo per generare un'ossatura logica e script impeccabili per ogni slide sfruttando l'AI."
 tags: ["prompt-engineering", "ai-agent", "powerpoint"]
 image: "/images/hooks/powerpoint-outline-prompt.jpg"

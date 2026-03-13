@@ -1,144 +1,155 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "KI-Makronährstoff-Rechner: Einfach ein Foto machen"
+title: "Nur ein Foto vom Essen machen? Der AI-Makro-Nährstoffrechner"
 author: "Jay"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
-category: "Gesundheit & Wellness"
-description: "Schluss mit dem mühsamen Eintippen von Kalorien! Berechnen Sie Ihre Makronährstoffe (Kohlenhydrate, Proteine, Fette) blitzschnell per Foto oder Text."
-tags: ["Makro", "Nährstoff", "Diät", "ChatGPT", "Mahlzeitenprotokoll"]
+date: "2026-02-07T09:10:33.169Z"
+updatedDate: "2026-02-07T09:10:33.169Z"
+category: "Health & Wellness"
+description: "Schluss mit mühsamen Diät-Apps! Dieser AI-Prompt berechnet Kalorien und Makros in 10 Sekunden aus Fotos oder Text – für perfektes Tracking ohne Aufwand."
+tags: ["매크로", "영양소", "Diet", "ChatGPT", "식단기록"]
 ---
 
-## 📊 Einfach ein Foto vom Essen machen? Der KI-Makronährstoff-Rechner
+## 📝 Nur ein Foto vom Essen machen? Der AI-Makro-Nährstoffrechner
 
-- **🎯 Empfohlene Zielgruppe:** Alle, die abnehmen oder Muskeln aufbauen möchten, Sportler, vielbeschäftigte Berufstätige
-- **⏱️ Zeitersparnis:** 5 Minuten → 10 Sekunden
-- **🤖 Ideales KI-Modell:** Alle multimodalen Modelle (ChatGPT Plus, Claude 3.5, Gemini Advanced)
+- **🎯 Empfohlen für:** Diätende, Fitness-Begeisterte (Body-Update), vielbeschäftigte Berufstätige, die keine Lust auf mühsames Protokollieren haben.
+- **⏱️ Zeitaufwand:** Diät-App-Eingabe 5 Min. → AI-Berechnung 10 Sek.
+- **🤖 Beste Performance:** ChatGPT Plus (GPT-4o), Gemini Advanced (Bilderkennungsmodell erforderlich)
 
-- ⭐ **Schwierigkeitsgrad:** ⭐⭐☆☆☆
+- ⭐ **Schwierigkeitsgrad:** ⭐☆☆☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
-- 🚀 **Nutzen im Alltag:** ⭐⭐⭐⭐☆
+- 🚀 **Nützlichkeit:** ⭐⭐⭐⭐⭐
 
-> _"100 g Hähnchenbrust, 150 g Süßkartoffeln ... Sind Sie es auch leid, jede einzelne Zutat abzuwiegen und mühsam in einer App zu suchen?"_
+> _"100g Hähnchenbrust, 150g Süßkartoffeln... Sind Sie es leid, jedes Mal die Waage zu benutzen und alles mühsam in Apps zu suchen?"_
 
-Der Weg zu einem definierten Körper und erfolgreichem Muskelaufbau führt unweigerlich über das exakte Tracken der Makronährstoffe (Kohlenhydrate, Proteine, Fette). Doch seien wir ehrlich: Die ständige Dokumentation ist oft so unglaublich nervenaufreibend, dass die meisten bereits nach wenigen Wochen frustriert das Handtuch werfen. Damit ist jetzt Schluss! Verabschieden Sie sich von starren Kalorien-Apps. Beschreiben Sie der KI ab sofort Ihre Mahlzeit einfach in einem kurzen Satz oder – noch besser – laden Sie direkt ein Foto Ihres Tellers hoch. Innerhalb einer einzigen Sekunde analysiert die KI die exakten Nährwerte und nimmt Ihnen die gesamte, lästige Rechenarbeit vollständig ab.
+Haben Sie schon einmal eine Diät abgebrochen, noch bevor sie richtig angefangen hat, weil es einfach zu anstrengend war, jedes Lebensmittel abzuwiegen und in komplizierten Apps zu erfassen? Der Stress, vor einer köstlichen Mahlzeit erst das Smartphone zücken und Kalorien berechnen zu müssen, ist eine enorme psychische Belastung. Jeder, der sich schon einmal auf ein Body-Update oder einen Wettkampf vorbereitet hat, kennt dieses Gefühl. Die Ernährungskontrolle stellt unsere Geduld oft auf eine harte Probe.
+
+Der wahre Grund, warum wir oft an Diäten oder Ernährungsplänen scheitern, ist nicht mangelnde Willenskraft. Der Hauptschuldige ist der unvermeidliche **Aufwand** und die **Umständlichkeit**. Morgens wiegt man noch gewissenhaft 40g Haferflocken, 190ml Mandelmilch und einen Scoop Proteinpulver ab. Aber in der Mittagspause mit den Kollegen im Restaurant bricht das perfektionistische Kartenhaus zusammen. Wie viel Gramm Fleisch sind in diesem Gericht? Wie viel Zucker ist in der Sauce? Man tippt dann grob "1 Portion Schweinefleisch mit Reis" ein, aber ein ungutes Gefühl bleibt. Dieser Prozess – Suchen, Tippen, Grammzahlen korrigieren, Restkalorien berechnen – frisst unsere mentale Energie auf. Ein einziger vergessener Tag bricht die Routine und führt oft zur "Jetzt ist es auch egal"-Einstellung am Wochenende. Wir wissen, dass Makros (Kohlenhydrate, Proteine, Fette) der Schlüssel zum Erfolg sind, aber der manuelle Aufwand bringt uns zu Fall.
+
+Doch der technologische Fortschritt hat nun endlich eine elegante Lösung für dieses alte Problem gefunden. Sie müssen keine Waage mehr mit sich herumtragen oder wertvolle Zeit in unübersichtlichen Apps verschwenden. Mit der <span style="color:var(--color-cyber-cyan)"><b>leistungsstarken Vision-Technologie</b></span> moderner AI-Modelle (wie ChatGPT Plus oder Gemini Advanced) können Sie diesen gesamten Stress in nur **10 Sekunden** erledigen. Die Anwendung ist fast schon lächerlich einfach: Machen Sie vor dem Essen einfach ein Foto von Ihrem Teller und senden Sie es an Ihren AI-Assistenten. Lange Texte sind nicht einmal nötig.
+
+Die AI analysiert sofort die Zutaten auf dem Bild, die Zubereitungsart sowie das geschätzte Volumen und Gewicht. Basierend auf einer riesigen ernährungswissenschaftlichen Datenbank berechnet sie blitzschnell die Gesamtkalorien sowie das Verhältnis von Kohlenhydraten, Proteinen und Fetten. Und es geht noch weiter: Die AI merkt sich Ihr vorab definiertes **Tagesziel**. Basierend auf dem gerade analysierten Mittagessen berechnet sie Ihre "verbleibenden Nährstoffe" und bietet Ihnen sogar ein 1:1-Coaching an: **"Um Ihren Proteinbedarf zu decken und Fette zu begrenzen, empfehle ich Ihnen heute Abend ein Lachssteak mit Naturreis."** Das ist mehr als ein Rechner – es ist wie ein Elite-Ernährungsberater an Ihrer Seite, rund um die Uhr. Befreien Sie sich von der Pflicht des mühsamen Protokollierens und konzentrieren Sie sich voll auf Ihre Performance und Ihren gesunden Lebensstil. Dieser Prompt ist der ultimative Cheatcode für Ihren Erfolg.
+
+---
+
+## 📊 Beweis: Überzeugende Ergebnisse (Vorher & Nachher)
+
+### ❌ Vorher (Der Schmerz)
+
+_"Ich hatte Schweinefleisch mit Reis und einen Americano zum Mittagessen, wie viele Kalorien sind das?"_
+Man muss mühsam Nährwerttabellen wälzen, Mengen schätzen und alles manuell in eine App tippen – der Hunger vergeht einem schon vor dem ersten Bissen.
+
+### ✅ Nachher (Die Verwandlung)
+
+```text
+[📊 Analyseergebnis der Nährwerte]
+| Punkt | Aktuelle Aufnahme | Tagesziel | Verbleibende Nährstoffe |
+| :--- | :--- | :--- | :--- |
+| **Kalorien** | 810 kcal | 2500 kcal | **1690 kcal** |
+| **Kohlenhydrate** | 85 g | 312 g | **227 g** |
+| **Protein** | 35 g | 187 g | **152 g** |
+| **Fett** | 30 g | 55 g | **25 g** |
+
+[💡 Empfehlung für das Abendessen]
+Basierend auf Ihrem Ziel benötigen Sie noch viel Protein, während Sie die Fettaufnahme begrenzen sollten. Unter Berücksichtigung Ihrer restlichen Makros empfehle ich:
+
+1. **Hähnchenbrust-Salat mit Süßkartoffel:** Ideal, um Protein zu decken und Fett zu minimieren.
+2. **Lachssteak mit Naturreis:** Liefert hochwertiges Protein und eine moderate Menge an Kohlenhydraten.
+```
 
 ---
 
 ## ⚡️ 3-Zeilen-Zusammenfassung (TL;DR)
 
-1. **Sekundenschnelle Nährwertanalyse** durch den simplen Upload von Essensfotos oder eine kurze Beschreibung per Spracheingabe.
-2. **Automatischer Echtzeit-Abgleich** der bereits aufgenommenen Makronährstoffe mit Ihrem individuellen Tagesziel.
-3. **Maßgeschneiderte Rezeptempfehlungen** für das Abendessen, die exakt auf Ihre noch verbleibenden Kalorien zugeschnitten sind.
+1. **Ein Foto genügt:** Ohne komplizierte Suche schätzt die AI Kalorien und Makros sofort aus einem Foto oder kurzem Text.
+2. **Personalisiertes Makro-Tracking:** Berechnet präzise die Differenz zwischen Ihrem Tagesziel und der aktuellen Aufnahme.
+3. **Smarte Essensempfehlungen:** Die AI schlägt proaktiv das optimale Abendessen vor, um Ihre Nährstoffziele punktgenau zu erreichen.
 
 ---
 
-## 🚀 Lösung: Der ultimative "Makro-Tracking-Assistent"
+## 🚀 So schreiben echte Experten
 
-### 🥉 Basic Version (Grundlagen)
+Dieser Prompt ist das Ergebnis zahlreicher Tests. Kopieren Sie den Prompt und füllen Sie die `[Variablen]` in den Klammern passend zu Ihrer Situation aus.
 
-Nutzen Sie diesen Prompt für eine blitzschnelle, unkomplizierte Nährwertschätzung im Alltag.
+### 🥉 Basic Version (Basismodell)
 
-> **Rolle:** Du bist ein hochqualifizierter Ernährungsberater und Präzisions-Analytiker. Du bist in der Lage, das Gewicht und die Nährwerte von Lebensmitteln mit bloßem Auge extrem genau einzuschätzen.
->
-> **Aufgabe:** Ich habe gerade `[eine Portion scharf gebratenes Schweinefleisch mit Reis und eine Tasse Kaffee]` gegessen. Analysiere die geschätzten Kalorien sowie die exakte Aufteilung von Kohlenhydraten, Proteinen und Fetten in Gramm. Stelle das Ergebnis in einer übersichtlichen Tabelle dar.
+Nützlich, wenn Sie vor dem Essen schnell die groben Kalorien und Kernnährwerte wissen wollen. Ein Foto maximiert die Genauigkeit.
 
-### 🥇 Pro Version (Experte)
+> **Rolle:** Du bist ein präziser Ernährungsanalyst. Du kannst Gewicht und Nährwerte allein anhand von Fotos oder kurzen Beschreibungen genau schätzen.
+> 
+> **Anfrage:** Berechne die Gesamtkalorien und das ungefähre Verhältnis von Kohlenhydraten, Proteinen und Fetten (in g) für das angehängte Foto (oder den Text).
 
-Verwenden Sie diesen Prompt für ein detailliertes Tracking, den automatischen Zielabgleich und eine personalisierte Mahlzeitenplanung. (Modelle mit Bilderkennungsfunktion, wie GPT-4o, werden hierfür dringend empfohlen.)
+### 🥇 Pro Version (Expertenmodell)
 
-> **Rolle (Role):** Du bist ein erstklassiger Ernährungsberater und Präzisions-Analytiker. Du kannst das exakte Gewicht, die Kalorien und die genaue Makronährstoffverteilung von Lebensmitteln anhand von Fotos oder kurzen Textbeschreibungen unglaublich präzise schätzen.
+Nutzen Sie diese Version für ein systematisches Tracking des gesamten Tages inklusive Empfehlungen für die nächste Mahlzeit.
+_(※ Die Nutzung von GPT-4o oder Gemini 1.5 Pro mit hoher Bilderkennungsrate wird dringend empfohlen.)_
+
+> **Rolle (Role):** Du bist ein Ernährungsberater und Fitnesstrainer mit 10 Jahren Erfahrung. Du schätzt Gewicht und Nährwerte anhand von Fotos konservativ (eher etwas höhere Kalorien ansetzen).
 >
-> **Kontext (Context):**
+> **Situation (Context):**
 >
-> - Mein tägliches Kalorienziel: `[2500]` kcal
-> - Mein angestrebtes Makro-Verhältnis (Kohlenhydrate:Proteine:Fette): `[5:3:2]`
+> - Mein Tagesziel: `[2500]` kcal
+> - Zielverhältnis Kohlenhydrate:Protein:Fett: `[5:3:2]`
 >
-> **Aufgabe (Task):**
+> **Anfrage (Task):**
 >
-> 1. Analysiere das hochgeladene Foto (oder die folgende Mahlzeitenliste: `[Mittagessen: 1 Portion scharf gebratenes Schweinefleisch mit Reis, 1 Americano, 3 Stücke gerolltes Omelett]`) und berechne die Gesamtkalorien sowie die Kohlenhydrate, Proteine und Fette in Gramm.
-> 2. Berechne mein "verbleibendes Nährstoffbudget", indem du die aktuell aufgenommenen Werte von meinem Tagesziel subtrahierst.
-> 3. Empfiehl basierend auf dem noch offenen Nährstoffbudget genau 2 konkrete Gerichte für das Abendessen, die mir helfen, mein Ziel heute perfekt zu erreichen.
+> 1. Analysiere das angehängte Foto oder die `[Speisenliste: Mittagessen mit 1 Portion Schweinefleisch mit Reis, Americano, 3 Stück Eierrollen]` und berechne Gesamtkalorien sowie Makros (g).
+> 2. Berechne die **'verbleibenden Nährstoffe (Restkalorien und Makros)'**, indem du die aktuelle Aufnahme von meinem Tagesziel abziehst.
+> 3. Empfiehl 2 realistische Menüs für das Abendessen, um die restlichen Nährstoffe perfekt zu decken, und begründe die Auswahl.
 >
-> **Einschränkungen (Constraints):**
+> **Beschränkungen (Constraints):**
 >
-> - Schätze die Portionen konsequent konservativ (im Zweifel eher etwas mehr Kalorien), basierend auf typischen Restaurant-Serviergrößen, um ein unbemerktes Überessen strikt zu vermeiden.
-> - Formatiere alle Ergebnisse ausschließlich in übersichtlichen, leicht lesbaren Markdown-Tabellen.
+> - Berechne konservativ auf Basis von Standardrezepten in Restaurants.
+> - Erstelle die Analyse und die verbleibenden Nährstoffe übersichtlich als Markdown-Tabelle.
 >
 > **Warnung (Warning):**
 >
-> - Erfinde niemals unrealistische Nährwerte. Wenn eine Zutat auf dem Bild schwer zu erkennen oder zu schätzen ist, gib eine plausible Spanne an und erkläre kurz, warum.
+> - Erfinde keine unrealistischen Gewichte oder Kalorien. Wenn eine Zutat schwer zu schätzen ist, kommentiere kurz, worauf deine Schätzung basiert.
 
 ---
 
-## 💡 Autorenkommentar (Insight)
+## 💡 Kommentar des Autors (Einblick & Anwendung)
 
-Dieser Prompt ist ein absoluter Gamechanger für jeden, der schon einmal an der eisernen Disziplin des täglichen Kalorienzählens gescheitert ist. Die wahre Hürde beim Makro-Tracking ist nämlich nicht der Verzicht auf das Essen selbst, sondern die unerträglich lästige Dateneingabe in Apps wie MyFitnessPal oder YAZIO. Dort muss man sich oft mühsam durch dutzende, teils völlig falsche User-Einträge wühlen, um den richtigen zu finden. 
+Die wahre Stärke dieses Prompts liegt nicht nur in der Kalorienanalyse, sondern in der Kombination aus **automatischer Rest-Makro-Berechnung** und **maßgeschneiderten Empfehlungen**. Herkömmliche Apps sind oft nur "passive Logbücher". Mit diesem Prompt wird die AI zu einem **"aktiven Coach"**, der Daten analysiert und Lösungen vorschlägt.
 
-Das **wirklich Geniale** an diesem Prompt ist jedoch die **automatische Empfehlungsfunktion für Ihre nächste Mahlzeit**. Wie oft stehen wir abends in der Küche und denken: _"Mir fehlen noch 50 g Protein, aber mein Fettbudget ist eigentlich schon aufgebraucht."_ Anstatt nun stundenlang Nährwerttabellen zu wälzen oder ratlos in den Kühlschrank zu starren, liefert Ihnen die KI sofort maßgeschneiderte, praxistaugliche Vorschläge wie "Thunfischsalat ohne Öl" oder "Magerquark mit Beeren". Das spart nicht nur wertvolle Zeit, sondern verhindert auch effektiv abendliche Heißhungerattacken und Diät-Frustration. Wenn Sie ein multimodales Modell wie GPT-4o nutzen: Machen Sie ab sofort einfach vor jedem Essen ein kurzes Foto – die KI erledigt den kompletten Rest für Sie!
+Die größte Hürde für viele ist die Frage: _"Was soll ich heute Abend essen, um meine Ziele genau zu treffen?"_ Wenn man mittags bei einem Geschäftsessen mehr Fett oder Kohlenhydrate als geplant zu sich genommen hat, ist es mental anstrengend, die perfekte Balance für den Rest des Tages zu finden. Die Variablen **`[Tagesziel]`** und **`[Makro-Verhältnis]`** delegieren diese komplexe Rechenaufgabe komplett an die AI.
+
+<b>💡 Kontrolle der Prompt-Variablen für überragende Genauigkeit</b>
+
+Um das Beste aus diesem Prompt herauszuholen, ist es wichtig, die **Grenzen der Bilderkennung durch Kontext zu ergänzen**. Keine AI kann durch die Sauce hindurchsehen oder die Menge an verwendetem Öl in einer Pfanne exakt bestimmen. Die Genauigkeit steigt massiv, wenn Sie dem Foto kurze Infos beifügen:
+
+1. **Kontrolle der Verzehrmenge:** Wenn Sie nicht alles gegessen haben, sagen Sie es: _"Ich habe ein Drittel des Reises übrig gelassen"_, _"Ich habe nur das Fleisch gegessen, nicht die Sauce."_
+2. **Versteckte Zutaten:** Geben Sie Hinweise auf kalorienreiche Extras: _"Im Salat ist viel Olivenöl-Dressing"_, _"Im Brot ist eine dicke Schicht Frischkäse."_
+3. **Zubereitungsart:** Beschreiben Sie, wie es gekocht wurde: _"In Butter gebraten"_, _"Fettfrei in der Heißluftfritteuse zubereitet."_
+
+<b>🔥 Praxis-Tipp (Actionable Tip)</b>
+
+Anstatt den Prompt jedes Mal neu zu kopieren, nutzen Sie die Funktion **'Custom Instructions'** oder **'System Prompt'** in der ChatGPT- oder Claude-App. Wenn Sie dort die [Situation] und [Beschränkungen] als dauerhafte Anweisung speichern, reicht es in Zukunft, einfach nur ein **Foto ohne Text** zu senden. Die AI erledigt den Rest automatisch. So bauen Sie sich eine perfekte Automatisierungs-Pipeline für Ihre Fitnessziele.
 
 ---
 
 ## 🙋 Häufig gestellte Fragen (FAQ)
 
-- **Q: Funktioniert dieser Prompt auch mit der völlig kostenlosen Version von ChatGPT?**
-  - A: Ja absolut! Die reine Texteingabe funktioniert auch mit den kostenlosen Modellen hervorragend. Für die Analyse von Essensfotos benötigen Sie jedoch zwingend ein Modell mit Bildverarbeitungsfunktionen, wie beispielsweise ChatGPT Plus (GPT-4o), den Microsoft Copilot oder Claude 3.5 Sonnet.
+- **Q: Funktionieren auch Suppen oder Eintöpfe?**
+  - A: Ja! Die AI erkennt die sichtbaren Einlagen und die Art der Brühe. Ein Hinweis wie _"Ich habe nur die Einlagen gegessen, nicht die Suppe"_ hilft, die Genauigkeit enorm zu steigern.
 
-- **Q: Sind die ermittelten Nährwertangaben der KI wirklich exakt verlässlich?**
-  - A: Sie sind erstaunlich präzise, ersetzen aber natürlich keine klinischen Laborwerte. Besonders bei verarbeiteten Lebensmitteln oder Restaurantbesuchen arbeitet die KI mit hochgerechneten Durchschnittswerten. Der entscheidende Trick im Prompt (**"konservativ schätzen"**) stellt jedoch sicher, dass Sie im Zweifel eher etwas weniger essen – was Sie in einer Diätphase effektiv vor tückischen Kalorienfallen schützt.
+- **Q: Geht das auch mit der kostenlosen Version von ChatGPT?**
+  - A: Per Texteingabe ja. Da die kostenlose Version jedoch Einschränkungen bei der Bilderkennung haben kann, sollten Sie die Mahlzeit dann sehr detailliert beschreiben. Für den vollen Komfort wird ein Modell mit Bild-Upload empfohlen.
 
-- **Q: Kann ich den Prompt nahtlos an meine spezielle Diätform (z. B. Keto oder Vegan) anpassen?**
-  - A: Selbstverständlich! Fügen Sie im Abschnitt **Kontext (Context)** einfach einen ergänzenden Satz hinzu wie: _"Ich ernähre mich strikt vegan."_ oder _"Ich mache eine strenge Keto-Diät, halte die Kohlenhydrate also zwingend unter 20 g."_ Die KI wird die Abendessenempfehlungen dann vollautomatisch an diese harten Restriktionen anpassen.
-
----
-
-## 🧬 Prompt-Analyse (Why it works?)
-
-1. **Kontextuelle Verknüpfung (Contextual Anchoring):** Durch die klare Definition von Tageszielen und Makro-Verhältnissen verwandeln wir die KI von einem simplen, passiven Taschenrechner in einen proaktiven, strategischen Ernährungsberater.
-2. **Aufgaben-Verkettung (Chain of Tasks):** Anstatt nur stumpf Kalorien zu zählen, erzwingt der Prompt eine logische, zielgerichtete Reihenfolge: Präzise Analyse -> Abgleich mit dem Tagesziel -> Konkrete Handlungsempfehlung (Abendessen).
-3. **Das Sicherheitsnetz ("Konservative Schätzung"):** Die strikte Vorgabe, bei unklaren Restaurantportionen eher mit einem leichten Kalorienaufschlag zu rechnen, schützt Sie extrem effektiv vor versteckten Kalorienbomben wie unsichtbarem Speiseöl oder zuckerhaltigen Saucen.
+- **Q: Sind die Werte zu 100 % genau?**
+  - A: Es sind keine Laborwerte, sondern "sehr genaue Schätzungen" basierend auf Durchschnittswerten. Für Diäten, Muskelaufbau oder das Halten des Gewichts ist die Genauigkeit als Orientierungspunkt jedoch mehr als ausreichend.
 
 ---
 
-## 📊 Beweis: Before & After
+## 🧬 Anatomie des Prompts (Warum er funktioniert?)
 
-### ❌ Before (Einfache Eingabe)
-
-"Wie viele Kalorien hat eine Portion scharf gebratenes Schweinefleisch mit Reis?"
-
-**(Ergebnis der KI):** _Das hängt stark von der genauen Menge und Zubereitung ab, aber scharf gebratenes Schweinefleisch mit Reis hat durchschnittlich etwa 600 bis 800 Kalorien._
-*(Die KI liefert hierbei keinerlei Makronährstoffe und hilft Ihnen bei der strategischen Tagesplanung absolut nicht weiter.)*
-
-### ✅ After (Mit Pro-Prompt)
-
-**(Ergebnis der KI):**
-
-**[Nährwert-Analyse: Mittagessen]**
-
-| Gericht | Menge | Kalorien | Kohlenhydrate | Proteine | Fette |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Schweinefleisch mit Reis | 1 Portion | 750 kcal | 90 g | 30 g | 25 g |
-| Americano | 1 Tasse | 10 kcal | 2 g | 0 g | 0 g |
-| Gerolltes Omelett | 3 Stück | 150 kcal | 2 g | 12 g | 10 g |
-| **Gesamt** | - | **910 kcal** | **94 g** | **42 g** | **35 g** |
-
-**[Aktueller Status & Verbleibendes Budget]**
-
-| Kategorie | Tagesziel | Aufgenommen | **Verbleibend** |
-| :--- | :--- | :--- | :--- |
-| **Kalorien** | 2500 kcal | 910 kcal | **1590 kcal** |
-| **Kohlenhydrate (50%)** | 312 g | 94 g | **218 g** |
-| **Proteine (30%)** | 187 g | 42 g | **145 g** |
-| **Fette (20%)** | 55 g | 35 g | **20 g** |
-
-**[🍽️ Maßgeschneiderte Empfehlungen für das Abendessen]**
-Ihnen fehlen noch reichlich Kohlenhydrate und Proteine, aber Ihr Fettbudget ist bereits stark beansprucht. Hier sind zwei ideale Mahlzeiten, um Ihr Ziel punktgenau zu treffen:
-
-1. **Putenbrust mit Quinoa und gedünstetem Brokkoli:** Liefert massig hochwertiges Protein und komplexe Kohlenhydrate, enthält aber extrem wenig Fett.
-2. **Magerquark-Bowl mit Haferflocken, Banane und einem Spritzer Honig:** Perfekt, wenn Sie abends Lust auf etwas Süßes haben, um die Kohlenhydrate und Proteine aufzufüllen, ohne das restliche Fettbudget zu belasten.
+1. **Aktive Nutzung der Vision-Analyse:** Durch die Zuweisung einer Expertenrolle wird die AI ermutigt, auch bei unvollständigen Bildinformationen proaktiv und fundiert zu schätzen.
+2. **Zielorientierte Variablen (Context):** Durch die Integration des Tagesziels liefert die AI keine isolierten Daten, sondern Antworten mit Kontext.
+3. **Konkreter Handlungsaufruf (Next Action):** Die Pflicht zur Empfehlung eines Abendessens macht den Prompt von einem bloßen Werkzeug zu einem echten digitalen Berater.
 
 ---
 
-## 🎯 Fazit
+## 🎯 Fazit (Epilogue)
 
-Verabschieden Sie sich endgültig von dem täglichen Stress, jede einzelne Zutat penibel abwiegen und manuell eintragen zu müssen. Mit einem einzigen Foto oder einem kurzen Satz übernimmt der KI-Ernährungsberater in Ihrer Hosentasche die gesamte, ermüdende Arbeit für Sie. Konzentrieren Sie sich lieber voll und ganz auf Ihr hartes Training – die komplexe Mathematik erledigt ab sofort die KI. Viel Erfolg beim Erreichen Ihrer Traumfigur und beim effektiven Muskelaufbau! 💪
+Befreien Sie sich vom mühsamen Kalorienzählen. Machen Sie das 10-sekündige Foto-Ritual zu Ihrer neuen Gewohnheit. Es wird Sie auf Ihrem Weg zum Wunschkörper perfekt unterstützen. Probieren Sie es bei Ihrer nächsten Mahlzeit direkt aus und erleben Sie, wie leicht Ernährungskontrolle sein kann.
+
+Automatisieren Sie Ihre Routine und genießen Sie Ihre Erfolge! 🍷

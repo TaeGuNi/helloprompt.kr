@@ -4,7 +4,7 @@ title: "🏏 Calendrier de la Coupe du monde T20, le prompt qui résout instanta
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Convertissez instantanément les fuseaux horaires complexes en KST pour la Coupe du monde T20. Un prompt incontournable pour les marketeurs sportifs !"
 tags: ["prompt-engineering", "ai-agent", "t20-world-cup-s"]
 ---

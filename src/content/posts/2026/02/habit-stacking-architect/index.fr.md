@@ -4,9 +4,9 @@ title: " \"습관 쌓기 설계자 (Habit Stacking)\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "자기계발"
+category: "General"
 description: "Guide de l'Habit Stacking : la stratégie scientifique pour créer des habitudes durables et en finir avec les abandons."
-tags: ["습관", "루틴", "아주작은습관의힘", "생산성"]
+tags: ["Habit", "Routine", "아주작은습관의힘", "Productivity"]
 ---
 
 ## 📝 L'Architecte d'Habitudes (Habit Stacking)

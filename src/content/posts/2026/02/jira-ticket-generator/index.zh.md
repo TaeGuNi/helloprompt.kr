@@ -4,9 +4,9 @@ title: " \"Jira 티켓 자동 생성: 기획서만 넣으면 개발 티켓 10개
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "专为整理 Ticket 感到头疼的 PM 打造的超强提示词。一键将产品需求文档结构化拆解为 Epic、Story 和 Task，瞬间解放双手。"
-tags: ["Jira", "지라", "PM", "기획", "애자일"]
+tags: ["Jira", "지라", "PM", "Planning", "애자일"]
 ---
 
 ## 🎫 自动生成 Jira Ticket：只需输入产品需求文档，瞬间拆解出数十个开发任务

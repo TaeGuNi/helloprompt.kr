@@ -1,130 +1,150 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"CrewAI: AI 팀원들에게 업무 지시하는 법 (프로세스 자동화)\""
+title: "CrewAI: Cómo dar instrucciones a equipos de IA (Automatización de procesos)"
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "AI/개발"
-description: "Descubre cómo crear un pipeline de automatización con CrewAI para tareas secuenciales. Domina el flujo de trabajo desde la investigación hasta la redacción."
-tags: ["CrewAI", "자동화", "에이전트", "워크플로우", "파이썬"]
+category: "IA/Desarrollo"
+description: "Construye un pipeline de automatización fluido desde la investigación hasta la edición. Aprende a crear el equipo de IA perfecto usando CrewAI."
+tags: ["CrewAI", "Automatización", "Agentes", "Workflow", "Python"]
 ---
 
-## 🤖 CrewAI: Cómo asignar tareas a tu equipo de IA (Automatización de procesos)
+## 📝 CrewAI: Cómo dar instrucciones a equipos de IA (Automatización de procesos)
 
-- **🎯 Recomendado para:** Product Managers (PM) con tareas secuenciales del tipo "Haz A, luego B y finalmente C", así como marketers y desarrolladores que buscan automatizar la publicación de contenido.
-- **⏱️ Tiempo estimado:** 15 minutos (Para escribir y probar el *script* en Python).
-- **🤖 Modelo recomendado:** GPT-4o (o modelos locales a través de Ollama).
+- **🎯 Recomendado para:** PMs con tareas procedimentales recurrentes (paso A, luego B, luego C), especialistas en marketing y desarrolladores que desean automatizar la publicación de contenido.
+- **⏱️ Tiempo estimado:** 15 minutos (basado en la redacción y prueba de un script de Python)
+- **🤖 Rendimiento óptimo:** Se recomiendan modelos de razonamiento actualizados (totalmente compatible con GPT-4o o modelos locales de Ollama)
 
 - ⭐ **Dificultad:** ⭐⭐⭐☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
-- 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
+- 🚀 **Versatilidad:** ⭐⭐⭐⭐⭐
 
-> _"¿Sientes que AutoGen habla demasiado y es difícil de controlar? Si necesitas un equipo de IA disciplinado que siga una cadena de mando estricta y clara, CrewAI es la respuesta."_
+> _"¿Estás cansado de la recopilación de datos y la redacción de informes que se repiten igual todos los días? Tu propio 'Equipo de IA', moviéndose al unísono con una cadena de mando perfecta, lo resolverá en solo 15 minutos"._
 
-Con el auge de los agentes autónomos, hemos entrado en una era donde múltiples inteligencias artificiales colaboran entre sí. Sin embargo, los *frameworks* diseñados para debates abiertos suelen desviarse hacia conclusiones irrelevantes o caer en bucles infinitos al aplicarse en escenarios reales. En el entorno laboral, contar con un *pipeline* controlable que ejecute tareas de forma secuencial y predecible tiene un valor incalculable. Hoy por hoy, **CrewAI** se posiciona como el *framework* más práctico y estable del mercado: asigna un rol (*Role*) y un objetivo (*Goal*) específicos a cada agente, obligándolos a operar con la precisión de una línea de ensamblaje.
+Cada mañana, al abrir los ojos, se repite la misma rutina. Revisas decenas de boletines para conocer las últimas tendencias de la industria, verificas los indicadores de los mercados globales abriendo múltiples pestañas y recopilas una cantidad ingente de información. Luego, reúnes esos datos dispersos y te esfuerzas por crear un resumen en un formato presentable. Por muy familiarizado que estés con este proceso, estas tareas repetitivas y simples **devoran sin piedad nuestro valioso tiempo y energía creativa.** Especialmente aquellas **tareas procedimentales** en cadena, como "buscar datos en el sitio A, resumirlos en el formato B y luego redactar el texto final adaptado a la plataforma C", son las que más agotan y desmotivan. Después de todo, no somos bots destinados a copiar y pegar todo el día.
 
----
+Con la aparición de modelos de IA excepcionales como ChatGPT o Claude, muchas tareas se han vuelto más sencillas, pero aún existen limitaciones claras para encargarles procesos operativos completos. Por muy largo y sofisticado que sea el prompt que envíes de una sola vez, la IA a menudo sufre de **alucinaciones (Hallucinations), omitiendo contextos intermedios importantes o inventando hechos de manera convincente.** Para solucionar esto, frameworks como AutoGen, donde múltiples agentes de IA conversan y debaten libremente para encontrar respuestas, se han vuelto muy populares. Sin embargo, al aplicarlos en entornos reales, muestran debilidades críticas: a veces se pierden en bucles infinitos charlando entre ellos sin un propósito claro o terminan la tarea forzosamente con conclusiones erróneas. En el mundo de los negocios, no necesitamos a un grupo de debatientes con ideas libres. Lo que urge es un **pipeline controlable que ejecute las tareas asignadas con precisión mecánica y en el orden establecido.** Una organización de estilo militar que cumpla tus órdenes sin malentendidos.
 
-## ⚡️ Resumen de 3 líneas (TL;DR)
+El salvador de la automatización operativa que resuelve perfectamente esta frustración es **CrewAI**. CrewAI es un framework potente que ha transformado la compleja tecnología de agentes en la forma más intuitiva y práctica posible. El núcleo de este sistema reside en asignar a cada agente un **Rol profesional (Role)** muy específico y un **Objetivo claro (Goal)**, haciendo que todo el proceso funcione de manera secuencial (Sequential), como la cinta transportadora de una gran fábrica. Un agente encargado de la investigación recopila meticulosamente los datos primarios; luego, un agente escritor especializado en redacción recibe esa información y crea un borrador fluido. Finalmente, un agente editor con carácter exigente corrige la ortografía y el contexto para completar el producto final. Es un sistema de división del trabajo perfecto. Tú solo tienes que configurar este excelente equipo con un script de Python y simplemente presionar la tecla Enter (botón de ejecución).
 
-1. **Contratación (Agentes):** Define empleados de IA (investigadores, redactores, etc.) con especialidades y antecedentes (*backstories*) únicos.
-2. **Asignación (Tareas):** Otorga a cada agente responsabilidades específicas y define el formato exacto del resultado esperado.
-3. **Ejecución (Proceso):** Agrúpalos en un equipo (*Crew*) y ejecútalos de manera secuencial (*Sequential*), asegurando que el trabajo de uno pase automáticamente al siguiente.
+Una vez que hayas construido con éxito un pipeline de CrewAI en tu trabajo, tu panorama matutino cambiará por completo. La redacción de informes de mercado complejos, que antes requería a varios empleados, se ejecutará sola con solo presionar un botón. Experimentarás la magia de ver cómo una tarea tediosa y dolorosa que desperdiciaba más de una hora diaria se convierte en un **documento Markdown perfecto generado automáticamente en solo un minuto.** Ya no serás el operario de primera línea que lucha copiando datos y cambiando de pantalla. Te convertirás en un **verdadero Gestor Estratégico (Manager)** que dirige a miembros de equipo de IA capaces y confiables, revisando con un café en la mano los resultados de alta calidad que ellos han completado. Te presentamos ahora el asombroso mundo de la automatización de CrewAI, que adelantará drásticamente tu hora de salida y elevará verticalmente la calidad de tu trabajo.
 
 ---
 
-## 🚀 Solución: Prompt para el pipeline de CrewAI
+## 📊 Prueba: Resultados contundentes (Before & After)
 
-### 🥉 Versión Básica (Basic)
+### ❌ Antes (Esfuerzo manual humano)
 
-Ideal para establecer la estructura inicial de un *pipeline* simple de recopilación y resumen de información. Úsalo para generar código rápidamente y realizar pruebas de concepto.
+1. Acceder a Yahoo Finance para verificar y anotar los principales índices (10 min).
+2. Buscar en Google 'US Economy News' y leer detenidamente 5 artículos relacionados (20 min).
+3. Abrir el bloc de notas para sintetizar lo recopilado y darle formato de informe (30 min).
+4. **Resultado:** Desperdicio de una hora de recursos valiosos cada mañana. En días de cansancio, la calidad disminuye con pensamientos como **"Qué pereza, lo escribiré por encima"**. 🐢
 
-> **Rol (*Role*):** Eres un experto en la redacción de *scripts* de CrewAI basados en Python.
->
-> **Tarea (*Task*):** Escribe un código básico en Python utilizando CrewAI con un equipo de dos agentes.
->
-> 1. **Investigador (*Researcher*):** Su función es buscar en la web las "Últimas tendencias en IA para 2026" y resumir los puntos clave.
-> 2. **Redactor (*Writer*):** Su función es tomar el resumen del investigador y redactar un artículo de blog atractivo y fácil de leer.
->
-> Configura el proceso como `Sequential` (secuencial) para que los dos agentes trabajen en orden.
+### ✅ Después (Implementación del pipeline de CrewAI)
 
+```text
+# 📈 Resumen económico y bursátil diario - 11-02-2026
 
-### 🥇 Versión Profesional (Pro)
+## 1. Resumen de tendencias de mercados globales
+- **S&P 500:** 5,102.34 (+0.8% respecto al día anterior) - El rally continúa gracias a los buenos resultados de las Big Tech.
+- **Nasdaq:** 16,041.62 (+1.2% respecto al día anterior) - Liderado por la fortaleza del sector de chips de IA.
 
-Un *pipeline* avanzado para entornos de producción que incluye la integración de herramientas externas (*Tools*) y antecedentes detallados (*Backstories*). Este *script* de automatización dota a tus agentes de verdaderas "armas" para operar.
+## 2. Top 5 Noticias Económicas Clave
+1. La Fed sugiere retrasar el recorte de tipos a la segunda mitad del año... impacto limitado en el mercado.
+2. Nvidia anuncia producción temprana de chips de próxima generación; las acciones relacionadas suben en bloque.
+3. La UE aprueba nueva regulación de IA... se espera un aumento en los costes de cumplimiento para las Big Tech.
 
-> **Rol (*Role*):** Eres un Arquitecto Senior de CrewAI experto en implementaciones para entornos de producción.
->
-> **Contexto (*Context*):**
->
-> - **Antecedentes:** Investigar y resumir las tendencias del mercado bursátil global y las principales noticias económicas cada mañana consume demasiados recursos.
-> - **Objetivo:** Construir un *script* para un equipo de IA (*Crew*) que genere automáticamente un "Informe de análisis del mercado bursátil matutino" utilizando APIs externas y herramientas de búsqueda.
->
-> **Tarea (*Task*):**
-> Escribe un código de CrewAI en Python impecable que incluya los siguientes tres agentes. Debes definir el rol (`Role`), objetivo (`Goal`) y antecedentes (`Backstory`) de cada agente con extremo detalle.
->
-> 1. **Analista de Mercado (*Market Analyst*):** Utiliza la herramienta `yfinance` para recopilar y analizar los principales indicadores del mercado de valores de EE. UU. (S&P 500, Nasdaq) del día anterior.
-> 2. **Scraper de Noticias (*News Scraper*):** Utiliza `SerperDevTool` (herramienta de búsqueda de Google) para recopilar los titulares de las 5 noticias económicas más importantes.
-> 3. **Editor en Jefe (*Chief Editor*):** Sintetiza los datos de los dos agentes anteriores para redactar un informe intuitivo estilo "Briefing de 3 minutos", y lo guarda como un archivo Markdown (`[fecha_de_hoy]_report.md`).
->
-> **Restricciones (*Constraints*):**
->
-> - El proceso de ejecución debe estar configurado estrictamente como `sequential`.
-> - Explica claramente mediante comentarios dónde se importan y asignan las herramientas (*Tools*) que utilizarán los agentes.
-> - Incluye el código de configuración básico para cargar las claves API (`OPENAI_API_KEY`, `SERPER_API_KEY`) desde un archivo `.env`.
+## 3. Resumen de 3 minutos del Editor Jefe
+"La fortaleza general de los valores tecnológicos está impulsando el mercado, pero se requiere una diversificación de cartera para prepararse ante la incertidumbre de los tipos de interés y los riesgos regulatorios en Europa."
+```
 
 ---
 
-## 💡 Comentario del autor (Insight)
+## ⚡️ Resumen en 3 líneas (TL;DR)
 
-El verdadero poder destructivo (en el buen sentido) de CrewAI se desata cuando equipas a tus agentes con **herramientas (*Tools*)**. Depender únicamente del conocimiento interno del LLM conduce inevitablemente a alucinaciones. Pero si integras un `FileReadTool`, un `WebsiteSearchTool` o incluso una función personalizada en Python, permites que los agentes interactúen directamente con datos del mundo real.
+1. **Contratación (Agent):** Define detalladamente empleados de IA (investigador, escritor, etc.) con diferentes especialidades e historias de fondo (backstories).
+2. **Instrucciones (Task):** Asigna a cada empleado tareas específicas y el formato del resultado final esperado.
+3. **Ejecución (Process):** Agrúpalos en un equipo (Crew) y ejecútalos de forma secuencial (Sequential) para que el resultado de uno se entregue sin errores al siguiente.
 
-**🔥 Consejo de producción (*Troubleshooting*):**
-Si un agente se comporta de manera errática o no logra terminar su tarea, en el 90% de los casos se debe a que el **resultado esperado (`expected_output`)** de la tarea (`Task`) es demasiado ambiguo. En lugar de pedir "Haz un buen resumen", exige "Un texto en Markdown de menos de 500 palabras estructurado en 3 viñetas (*bullet points*)". Esta especificidad extrema es la clave para evitar cuellos de botella en tu *pipeline*.
+---
+
+## 🚀 Así es como escriben los verdaderos expertos
+
+### 🥉 Versión Básica (Equipo de Newsletter)
+
+Útil para establecer la estructura básica de un pipeline simple de recopilación y resumen de información. Permite extraer código rápidamente para realizar pruebas inmediatas.
+
+> **Rol (Role):** Eres un experto en redactar scripts de CrewAI basados en Python.
+>
+> **Tarea (Task):** Escribe un código básico en Python usando CrewAI compuesto por dos agentes.
+>
+> 1.  **Researcher:** Encargado de buscar en la web las 'Últimas tendencias de IA en 2026' y resumir solo lo esencial.
+> 2.  **Writer:** Encargado de redactar una publicación de blog atractiva y fácil de leer basada en el resumen del Researcher.
+>
+> Completa el código aplicando un proceso `Sequential` para que ambos agentes funcionen en orden.
+
+### 🥇 Versión Pro (Reporte de Análisis Bursátil)
+
+Un pipeline avanzado para uso profesional que incluye integración con herramientas externas (Tools) e historias de fondo (Backstories) detalladas. Es un script de automatización potente que pone "armas" en manos de los agentes.
+
+> **Rol (Role):** Eres un Arquitecto Senior de CrewAI experto en aplicaciones prácticas.
+>
+> **Situación (Context):**
+>
+> - Antecedentes: La tarea de investigar y resumir las tendencias de los mercados globales y las noticias económicas cada mañana consume demasiados recursos.
+> - Objetivo: Construir un script de IA Crew que genere automáticamente un 'Informe de análisis de mercado diario' utilizando APIs externas y herramientas de búsqueda.
+>
+> **Tarea (Task):**
+> Escribe un código Python completo de CrewAI que incluya a los siguientes tres agentes. Debes configurar de manera muy específica el `Role`, `Goal` y `Backstory` de cada uno.
+>
+> 1.  **Market Analyst:** Utiliza la herramienta `yfinance` para recopilar y analizar los indicadores clave del mercado estadounidense de ayer (S&P 500, Nasdaq).
+> 2.  **News Scraper:** Utiliza `SerperDevTool` (herramienta de búsqueda de Google) para recopilar los 5 titulares principales de noticias económicas.
+> 3.  **Chief Editor:** Sintetiza los datos de los dos agentes anteriores para redactar un informe de 'Breve de 3 minutos' intuitivo y guárdalo como un archivo en formato Markdown (`[Fecha de hoy]_report.md`).
+>
+> **Restricciones (Constraints):**
+>
+> - El proceso de ejecución debe ser obligatoriamente `sequential`.
+> - Explica claramente con comentarios la parte de importación y asignación de las herramientas (Tools) que usarán los agentes.
+> - Incluye el código de configuración básico para cargar las llaves de API (OPENAI_API_KEY, SERPER_API_KEY) desde un archivo `.env`.
+
+---
+
+## 💡 Comentario del autor (Perspectiva y Uso)
+
+El verdadero poder destructivo y las infinitas posibilidades de CrewAI se desatan cuando pones **'herramientas (Tools)'** reales en manos de los agentes. Si dependes únicamente del conocimiento intrínseco del modelo de lenguaje (LLM), inevitablemente ocurrirán alucinaciones (Hallucinations) críticas donde se inventan hechos de forma convincente debido a las limitaciones nativas de los datos de entrenamiento. Especialmente en análisis de mercados bursátiles, donde la precisión de los números es vital, o en tareas de automatización que manejan noticias de última hora, estas alucinaciones pueden causar fallos y pérdidas críticas en el negocio. Sin embargo, si conectas a la caja de herramientas del agente las herramientas integradas que ofrece la arquitectura de CrewAI —como `FileReadTool` para leer documentos específicos, `WebsiteSearchTool` para buscar en internet en tiempo real o incluso **funciones personalizadas de llamada a APIs escritas por ti en Python**— la situación cambia 180 grados. Es el momento asombroso en el que el agente de IA adquiere **'manos y pies'** omnipotentes: puede explorar por sí mismo los datos más recientes del mundo real, llamar activamente a APIs externas para obtener cifras precisas e incluso acceder a bases de datos internas para realizar consultas y manipular datos.
+
+**🔥 Tip profesional (Troubleshooting): Especificación extrema del resultado esperado**
+Hay un momento de frustración muy común cuando los desarrolladores o especialistas en marketing introducen CrewAI en su trabajo por primera vez: cuando el agente no se mueve como se le ordenó, repite acciones inesperadas infinitamente o el trabajo se detiene porque no puede pasar los datos al siguiente agente. Nueve de cada diez veces, estos errores en el pipeline ocurren porque el parámetro **`expected_output` (resultado esperado)** dentro del objeto `Task` es demasiado ambiguo y está centrado en el lenguaje humano. Instrucciones abstractas como "resume bien los artículos relacionados que buscaste para que sean fáciles de leer" son veneno para un pipeline de IA. Si el formato del resultado del agente anterior no es algo que el agente posterior pueda procesar, toda la cinta transportadora colapsa de inmediato.
+
+Por lo tanto, al asignar tareas a cada agente, debes imponer guías extremadamente específicas y de forma cerrada (Closed-form), como **"redactar en formato de texto Markdown de menos de 500 caracteres compuesto por 3 puntos clave"** o **"devolver obligatoriamente en formato JSON incluyendo únicamente las llaves 'title' y 'summary'"**. Al controlar estrictamente la forma de salida de `expected_output` de esta manera mecánica, los cuellos de botella de datos en medio del pipeline o los errores críticos donde el siguiente agente se pierde al no poder interpretar los datos recibidos desaparecerán por completo como por arte de magia.
+
+**💡 Equilibrio inteligente entre coste y rendimiento (Estrategia de Model Delegation)**
+A medida que construyes y operas el pipeline con éxito, te enfrentarás naturalmente a la presión real del **coste de los tokens de la API**. Asignar uniformemente modelos de máximo rendimiento (y los más caros), como GPT-4o de OpenAI o Claude-3.5-Sonnet de Anthropic, a todos los agentes del pipeline para obtener la mejor calidad no es, en absoluto, una estrategia sabia. La clave para optimizar costes es la **Delegación de Modelos (Model Delegation)**, que consiste en distribuir estratégicamente el "peso" del modelo según la complejidad y naturaleza de cada etapa del trabajo.
+
+Por ejemplo, un agente de investigación de nivel 1 (Researcher), que se dedica a recorrer rápidamente numerosas páginas web para extraer texto de forma bruta o listar hechos simples, no necesita un cerebro superdotado. Se le asigna un modelo rápido y económico como **GPT-4o-mini** o **Claude-3-Haiku** para evitar el desperdicio de tokens. Estos son trabajadores excelentes especializados en recopilar grandes volúmenes de datos de forma barata y rápida. Por otro lado, solo al agente editor final (Chief Editor), que debe recibir todos estos datos brutos para redactar el informe con frases fluidas, coordinar el contexto y mostrar perspicacia, se le asigna el modelo más potente y caro, como **GPT-4o**. Al configurar de forma inteligente el nivel cerebral de la inteligencia artificial de acuerdo con el Rol de cada agente dentro del pipeline, puedes reducir drásticamente el coste operativo total del sistema hasta en un 90% respecto al coste original, manteniendo exactamente la misma calidad en el informe final.
 
 ---
 
 ## 🙋 Preguntas frecuentes (FAQ)
 
-- **P: ¿No será muy alto el costo en tokens de la API?**
-  - R: Puedes reducir los costos drásticamente mediante la delegación de modelos (*Model Delegation*). Utiliza modelos más económicos y rápidos como GPT-4o-mini o Claude-3.5-Haiku para los agentes iniciales (encargados de la investigación y el resumen), y reserva el potente GPT-4o exclusivamente para el Editor en Jefe que pule el texto final.
+- **Q: ¿Qué hago si mi entorno corporativo no permite el uso de APIs externas por seguridad de datos?**
+  - A: CrewAI soporta perfectamente la integración con LLMs en redes cerradas o entornos locales. Intenta conectar fácilmente modelos de código abierto como Llama 3 o Qwen, desplegados en servidores internos o PCs personales a través de Ollama, usando `llm=Ollama(model="llama3")`. Podrás formar un equipo de IA exclusivo para tu empresa 100% seguro, sin preocuparte por la fuga de ni un solo byte de datos al exterior.
 
-- **P: Por políticas de seguridad de datos, no puedo usar APIs externas. ¿Qué alternativas tengo?**
-  - R: CrewAI es totalmente compatible con LLMs locales. A través de Ollama, puedes conectar modelos de código abierto como Llama 3 o Qwen alojados en tus propios servidores utilizando `llm=Ollama(model="llama3")`. De esta manera, puedes desplegar un equipo de IA corporativo sin preocuparte por fugas de información confidencial.
-
-- **P: ¿Es posible que un humano intervenga en medio del proceso para aprobar o corregir el trabajo?**
-  - R: ¡Absolutamente! Si añades el parámetro `human_input=True` al configurar un agente, este pausará la ejecución y esperará tu retroalimentación en la consola tras finalizar su tarea. Podrás indicarle "Reescríbelo con un tono más formal" o simplemente "Continúa".
+- **Q: ¿Es posible que una persona verifique y apruebe el trabajo en medio del proceso?**
+  - A: ¡Es totalmente posible! Intenta añadir la opción `human_input=True` como parámetro al configurar el agente. Inmediatamente después de que dicho agente termine su tarea asignada, el sistema esperará el feedback del usuario en la consola antes de pasar al siguiente agente. En ese momento, puedes revisar el resultado y dar instrucciones de corrección como "vuelve a escribir el segundo párrafo" o aprobar con un "perfecto, procede al siguiente paso", completando así un potente sistema de Humano en el bucle (Human-in-the-loop).
 
 ---
 
-## 🧬 Anatomía del prompt (¿Por qué funciona?)
+## 🧬 Anatomía del Prompt (¿Por qué funciona?)
 
-1. **El poder de los antecedentes (*Backstory*):** Al exigir que el agente actúe como "un analista con 10 años de experiencia en Wall Street", el LLM adopta esa personalidad en profundidad. Esto eleva radicalmente el tono, el estilo y la agudeza analítica, superando con creces la calidad de un resumen mecánico estándar.
-2. **Transferencia fluida (*Handoff*):** Al especificar explícitamente un proceso secuencial (`Sequential`), garantizamos que los datos generados por el primer agente (Analista) fluyan como contexto natural para el segundo (*Scraper*) y, finalmente, para el tercero (Editor). Es la representación perfecta en código de un equipo humano compartiendo archivos a través de Slack.
-
----
-
-## 📊 Demostración: Antes y después
-
-### ❌ Antes (Esfuerzo humano)
-
-1. Abrir Yahoo Finance, revisar los índices bursátiles y tomar notas (10 minutos).
-2. Buscar noticias económicas clave en Google y leer 5 artículos a fondo (20 minutos).
-3. Abrir un editor de texto, sintetizar la información y darle formato (30 minutos).
-4. **Resultado:** Pierdes 1 hora cada mañana. Los días que estás agotado, terminas pensando: **"Qué pereza, hoy lo haré a medias"**. 🐢
-
-### ✅ Después (Con el pipeline de CrewAI)
-
-1. Ejecutas `python run_crew.py` en la terminal y presionas Enter.
-2. Vas a prepararte una taza de café.
-3. El archivo `report.md` se genera automáticamente con un formato Markdown impecable. ☕️🚀
-4. **Resultado:** Consumes solo 1 minuto de tu tiempo y mantienes una calidad sobresaliente y constante, sin importar tu nivel de energía o motivación.
+1.  **El poder del Backstory:** En el prompt, en lugar de decirle simplemente a cada agente "eres un analista", se le dieron instrucciones para asignar una situación específica ("la tarea de investigar y resumir... consume demasiados recursos") y un backstory potente como "analista con 10 años de experiencia en Wall Street". El LLM utiliza este backstory para maximizar su persona, elevando el tono, el estilo y la profundidad del análisis por encima de un simple nivel de resumen mecánico.
+2.  **Handoff claro (Traspaso de tareas):** Se forzó a que el proceso fuera obligatoriamente `sequential` en las restricciones. Esto está diseñado para que los datos brutos generados por el primer agente (Analyst) fluyan naturalmente hacia el contexto de trabajo del segundo (Scraper) y del tercero (Editor). Este es el secreto fundamental para implementar mediante código Python el proceso de colaboración en el que empleados humanos intercambian archivos a través de mensajería interna.
 
 ---
 
-## 🎯 Conclusión
+## 🎯 Conclusión (Epilogue)
 
-Contratar a un empleado humano excepcional es como buscar una aguja en un pajar, pero crear un agente de IA altamente competente solo requiere unas pocas líneas de código.
-Si en tu día a día te enfrentas a tareas repetitivas con pasos definidos (*workflows*) —como publicar artículos, realizar estudios de mercado o revisar código—, te animo a formar tu propio **equipo (*Crew*)** hoy mismo.
+Contratar a un empleado capacitado y confiable es, en la realidad, tan difícil como encontrar una aguja en un pajar. Sin embargo, formar un equipo de agentes de IA competentes es suficiente con unos pocos prompts bien estructurados y unas líneas de script.
+Si tienes un **flujo de trabajo repetitivo (Workflow)** con etapas claras, como la publicación regular de un blog, la investigación de mercado de la competencia o el resumen de noticias matutino, forma tu propia **Crew** ahora mismo.
 
-A partir de ahora, deja de ser el operario que suda la gota gorda ejecutando tareas mecánicas y conviértete en el **Manager** que dirige la orquesta y aprueba los resultados. ¡Es hora de automatizar tu trabajo y recuperar tu tiempo! 🍷
+Es hora de dejar de ser el operario que traslada datos manualmente con sudor en la frente. Es momento de convertirte en un **Gestor Estratégico (Manager)** que da instrucciones claras a sus diligentes miembros de equipo de IA y confirma elegantemente el producto final. ¡Espero que maximices tu eficiencia laboral a través de una automatización de pipeline perfectamente controlada y disfrutes de una salida del trabajo con estilo! 🍷

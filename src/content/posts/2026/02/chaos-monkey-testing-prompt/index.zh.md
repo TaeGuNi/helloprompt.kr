@@ -4,7 +4,7 @@ title: "折磨 AI 的混沌猴测试提示词 💣（Happy Path 已死）"
 author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "프롬프트 엔지니어링"
+category: "General"
 description: "厌倦了 AI 敷衍的“全绿通过”？为你奉上强制触发系统崩溃场景的硬核测试作弊码，从根源绞杀隐藏 Bug。"
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "chaos-monkey-testing"]
 ---

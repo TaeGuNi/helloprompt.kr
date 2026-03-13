@@ -4,7 +4,7 @@ title: "🚨 MySQL-Cheatcode: So machst du deinen Chatbot zum gnadenlosen DB-Eng
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Ein unerbittliches MySQL-Prompt-Setup, das dem KI-Geplapper ein Ende setzt und deine Datenbank kompromisslos vor der Zerstörung bewahrt."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "mysql"]
 ---

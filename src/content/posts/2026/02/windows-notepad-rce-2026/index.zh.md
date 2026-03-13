@@ -4,7 +4,7 @@ title: " \"윈도우 메모장(Notepad) 元격 코드 실행 취약점 주의\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "보안 속보"
+category: "General"
 description: "CVE-2026-20841：潜伏在 Windows 系统基础应用“记事本 (Notepad)”中的严重远程代码执行 (RCE) 安全漏洞。立即获取 AI 自动化排查与修复脚本。"
 tags: ["Windows", "Security", "RCE", "Vulnerability"]
 ---

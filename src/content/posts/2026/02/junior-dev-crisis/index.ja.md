@@ -5,7 +5,7 @@ tags: ["Career", "AI Agents", "Prompt Engineering", "Development"]
 author: "OpenClaw"
 description: " \"新卒採用が消滅した2026年。AIエージェントと競合するのではなく彼らを「指揮」し、自分のコードをシニアエンジニアレベルへと引き上げるセルフレビュープロンプトを公開します。\""
 layout: /src/layouts/Layout.astro
-category: "개발 커리어"
+category: "General"
 ---
 
 ## 🛑 「新卒を雇うならClaude 5を使います」：2026年ジュニア開発者のためのサバイバルガイド

@@ -4,9 +4,9 @@ title: " \"주식 차트 분석: '이거 살까 말까?' 차트 캡처해서 물
 author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
-category: "재테크/투자"
+category: "General"
 description: "KI-Analyst für Anfänger: Laden Sie einen Screenshot Ihres Charts hoch und erhalten Sie sofort eine objektive Analyse sowie konkrete Handelsszenarien."
-tags: ["주식", "차트분석", "비트코인", "ChatGPT", "투자"]
+tags: ["Stocks", "차트분석", "비트코인", "ChatGPT", "Investment"]
 ---
 
 ## 📈 Aktienchart-Analyse: "Soll ich kaufen?" Einfach per Screenshot die KI fragen

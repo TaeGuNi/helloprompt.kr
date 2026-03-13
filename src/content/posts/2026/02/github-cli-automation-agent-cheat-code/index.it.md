@@ -4,7 +4,7 @@ title: "🔥 Zitto e codifica: Il Cheat Code per GitOps Autonomo con Agenti AI"
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Il prompt definitivo per azzerare le chiacchiere dell'AI e trasformarla in una spietata macchina GitOps autonoma in 4 fasi."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "github-cli"]
 ---

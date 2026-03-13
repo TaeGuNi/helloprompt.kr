@@ -4,7 +4,7 @@ title: "El Truco Definitivo de Docker para Domar a tu Agente de IA 💀"
 author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "El remedio definitivo de un programador senior para evitar que tu IA se cuelgue al gestionar contenedores Docker."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "docker"]
 ---

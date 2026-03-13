@@ -4,7 +4,7 @@ title: "💸 Волшебный промпт для фандрайзинга, п
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Практический ИИ-промпт, который за 1 минуту создает убедительные рассылки для сбора средств и тексты, мотивирующие доноров поддержать ваш проект."
 tags: ["prompt-engineering", "ai-agent", "fundraiser"]
 ---

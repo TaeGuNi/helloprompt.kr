@@ -4,7 +4,7 @@ title: "Claude Code 성능 저하 논란? 진실은?"
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "AI 이슈"
+category: "General"
 description: "Claude Code의 성능 저하(AI Pigrizia) 현상의 원인과 이를 완벽하게 해결할 수 있는 강력한 프롬프트 엔지니어링 비법을 공개합니다."
 tags: ["Claude", "Anthropic", "AI", "Coding"]
 ---

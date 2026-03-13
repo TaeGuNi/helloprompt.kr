@@ -4,7 +4,7 @@ title: " \"반려 식물 진단: 시들한 잎 사진 보고 살려내기\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "라이프/식물"
+category: "General"
 description: "Salvador para quem mata plantas! Receba um diagnóstico preciso e uma prescrição sob medida com uma foto de folhas amarelas ou caules murchos."
 tags: ["식물", "플랜테리어", "반려식물", "ChatGPT", "원예"]
 ---

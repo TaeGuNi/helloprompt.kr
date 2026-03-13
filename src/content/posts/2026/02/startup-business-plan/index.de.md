@@ -4,9 +4,9 @@ title: " \"사업계획서 작성: 예비창업패키지 합격하는 목차 설
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "창업/기획"
+category: "General"
 description: "Die Struktur entscheidet über 80% Ihres Erfolgs. Nutzen Sie diesen KI-Prompt für das PSST-Framework bei staatlichen Förderanträgen."
-tags: ["사업계획서", "예비창업패키지", "스타트업", "정부지원사업", "ChatGPT"]
+tags: ["사업계획서", "예비창업패키지", "Startup", "정부지원사업", "ChatGPT"]
 ---
 
 ## 📑 Businessplan erstellen: Die perfekte Struktur für staatliche Startup-Förderungen

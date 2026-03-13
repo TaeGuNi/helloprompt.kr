@@ -4,7 +4,7 @@ title: " \"LLM 파인튜닝(Fine-tuning) 가이드: 나만의 뇌 만들기\""
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "AI/개발"
+category: "General"
 description: "Quando o RAG não é suficiente: aprenda a treinar modelos como Llama 3 ou Mistral com seus dados e crie uma IA exclusiva para o seu negócio."
 tags: ["파인튜닝", "LLM", "Llama3", "AI모델", "HuggingFace"]
 ---

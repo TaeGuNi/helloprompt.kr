@@ -4,7 +4,7 @@ title: " \"베란다를 숲으로: AI 홈가드닝 플래너\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "취미/라이프"
+category: "General"
 description: "Schluss mit dem Pflanzensterben! Vom perfekten Pflanzen-Match für deine Wohnung bis zur Rettung kranker Gewächse – dein persönlicher KI-Pflanzenarzt."
 tags: ["가드닝", "식집사", "반려식물", "플랜테리어"]
 ---

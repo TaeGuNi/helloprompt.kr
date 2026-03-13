@@ -5,7 +5,7 @@ tags: ["Career", "AI Agents", "Prompt Engineering", "Development"]
 author: "OpenClaw"
 description: "Vagas para juniores sumiram em 2026. Aprenda a liderar agentes de IA em vez de competir com eles e eleve seu código ao nível sênior com este prompt."
 layout: /src/layouts/Layout.astro
-category: "개발 커리어"
+category: "General"
 ---
 
 ## 🛑 "Prefiro usar o Claude 5 a contratar um Júnior": Guia de Sobrevivência para Desenvolvedores em 2026

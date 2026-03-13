@@ -4,7 +4,7 @@ title: " \"영어 쉐도잉(Shadowing): 넷플릭스로 미드 주인공 되기\
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "외국어/학습"
+category: "General"
 description: "Ver series no basta. Esta guía de shadowing en Netflix usa un coach de IA para que domines la pronunciación conectada y los matices de cualquier diálogo."
 tags: ["영어공부", "쉐도잉", "넷플릭스", "미드", "ChatGPT"]
 ---

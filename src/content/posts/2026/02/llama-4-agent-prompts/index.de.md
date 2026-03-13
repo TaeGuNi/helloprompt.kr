@@ -1,120 +1,43 @@
 ---
-title: " \"Llama 4 Agent Prompts: Unlock Reasoning Capabilities Locally\""
-date: "2026-02-16"
+layout: /src/layouts/Layout.astro
+title: "Llama 4 Agent-Prompts: Schalten Sie lokale Reasoning-Fähigkeiten frei"
 author: "Jay"
-categories: ["AI Engineering", "Local LLMs"]
+date: "2026-02-16"
+updatedDate: "2026-02-16"
+category: "AI Engineering"
+description: "Nutzen Sie noch Llama-3-Prompts für Llama 4? Entdecken Sie die 'Chain-of-Command'-Struktur, die die Reasoning-Power von Llama 4 lokal um 200 % steigert."
 tags: ["Llama 4", "Prompt Engineering", "Agents", "Local AI", "System Prompts"]
-description: "Nutzen Sie noch Llama 3-Prompts für Llama 4? Entdecken Sie das 'Chain-of-Command'-Framework, das die Reasoning-Fähigkeiten lokal um 200 % steigert."
 ---
 
-## 📝 Llama 4 Agenten-Prompts: Entfesseln Sie perfekte Reasoning-Fähigkeiten lokal
+## 📝 Llama 4 Agent-Prompts: Perfektes Reasoning in lokalen Umgebungen freischalten
 
-- **🎯 Zielgruppe:** Entwickler, KI-Architekten und Prompt-Engineers, die lokale LLMs nutzen
-- **⏱️ Zeitaufwand:** Agenten-Setup von 1 Stunde → auf 5 Minuten reduziert
-- **🤖 Empfohlenes Modell:** Llama 4 (insbesondere das 70B-Modell via Ollama)
+- **🎯 Empfohlen für:** Entwickler, die lokale LLMs nutzen, AI-Architekten, Prompt-Engineers
+- **⏱️ Zeitaufwand:** Agenten-Setup von 1 Stunde auf 5 Minuten verkürzt
+- **🤖 Spitzenleistung:** Llama 4 (vorzugsweise 70B Modell, Ollama-Laufzeitumgebung empfohlen)
 
 - ⭐ **Schwierigkeitsgrad:** ⭐⭐⭐☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
-- 🚀 **Anwendbarkeit:** ⭐⭐⭐⭐⭐
+- 🚀 **Vielseitigkeit:** ⭐⭐⭐⭐⭐
 
-> _"Fahren Sie Ihren neuen Ferrari nur im ersten Gang? Genau das tun Sie, wenn Sie alte Llama 3-Prompts blind für Llama 4 übernehmen."_
+> _"Haben Sie einen Ferrari gekauft, nur um im ersten Gang zu fahren? Llama-3-Prompts eins zu eins in Llama 4 zu kopieren, ist genau das."_
 
-Mit dem Release von **Llama 4** steht uns endlich ein Modell zur Verfügung, das zu **komplexem logischen Denken ("System 2"-Denken)** auf handelsüblicher Hardware in der Lage ist (ja, sogar auf einem MacBook M4). Diese enorme Leistung ist jedoch an eine entscheidende Bedingung geknüpft: Sie erfordert **strukturierte Reasoning-Prompts**.
+Mit dem Erscheinen von **Llama 4** haben wir endlich ein Modell in den Händen, das zu **komplexem Reasoning („System 2“-Denken)** auf handelsüblicher Hardware fähig ist – ja, es läuft sogar flüssig auf einem M4 MacBook. Um diese überwältigende Performance jedoch voll auszuschöpfen, gibt es eine neue Voraussetzung.
 
-Im Gegensatz zu seinen Vorgängern führt Llama 4 Anweisungen nicht einfach blind aus – es **"denkt"**, bevor es handelt. Wenn Sie diesen Denkprozess in Ihrem Prompt nicht aktiv lenken, wird das Modell unnötig gesprächig, verliert den roten Faden und das Risiko von Halluzinationen steigt drastisch an.
+Wenn Sie dem Modell wie bisher kurze, direkte Anweisungen geben, verliert es die Orientierung. Vielleicht haben Sie es schon erlebt: Sie lassen ein schweres 70B-Modell lokal laufen, die Lüfter Ihres MacBooks drehen völlig durch, und das Ergebnis ist dennoch nur minderwertiger Spaghetti-Code oder ein Haufen Halluzinationen. Das liegt nicht an der mangelnden Leistung des Modells, sondern daran, dass Sie ihm keinen Raum zum **„Nachdenken“ (Think)** gegeben haben, bevor es in Aktion tritt.
 
-In diesem Artikel teile ich das **"Chain-of-Command" (Befehlsketten)** System-Prompt-Framework. Es ist genau die Struktur, die ich persönlich einsetze, um extrem zuverlässige Agenten mit Llama 4 70B in lokalen Umgebungen zu entwickeln.
+Im Gegensatz zu früheren Generationen begnügt sich Llama 4 nicht damit, Befehle blind auszuführen. Wenn Ihr Prompt diese „Reasoning-Phase“ nicht explizit vorsieht, neigt das Modell dazu, in unnötige Weitschweifigkeit zu verfallen. Es ist, als würde man einen Senior-Entwickler, der erst das Design durchdenken möchte, anschreien: „Programmier das jetzt einfach sofort!“
 
----
-
-## ⚡️ TL;DR (Zusammenfassung in 3 Sätzen)
-
-1. Llama 4 ist kein einfacher Befehlsempfänger, sondern eine echte 'Reasoning-Maschine'. Direkte Kommandos ohne Kontext führen zu Fehlern oder Überforderung.
-2. Bevor die finale Antwort generiert wird, müssen Sie dem Modell einen `<thought>`-Tag (als eine Art mentalen Notizblock) aufzwingen, damit es strukturiert planen kann.
-3. Durch hierarchische Begriffe wie 'Befehlskette' (Chain of Command) anstelle von einfachen 'Anweisungen' (Instructions) lässt sich die Fehlerquote signifikant senken.
+In diesem Artikel enthülle ich das **„Chain-of-Command“-System-Prompt-Framework**, das ich in der Praxis als Rückgrat für extrem stabile Agenten mit Llama 4 70B nutze. Der Kern dieses Frameworks besteht darin, das Modell zu zwingen, einen strukturierten Denkprozess auszugeben, *bevor* es das Endergebnis liefert. In einer agentischen Workflow-Umgebung, in der Ergebnisse per Code geparst werden müssen, ist dies kein Luxus, sondern überlebenswichtig. Mit diesem einen Prompt wird Ihre lokale KI von einem einfachen Chatbot zu einem „Senior Architect“ mit perfekter Logikstruktur.
 
 ---
 
-## 🚀 Die Lösung: Der "Chain-of-Command" Prompt
+## 📊 Beweis: Überzeugende Ergebnisse (Vorher & Nachher)
 
-Vergessen Sie veraltete Prompting-Methoden. Dieses Framework zwingt das Modell dazu, einen strukturierten Denkprozess auszugeben, _bevor_ es die endgültige Antwort liefert. Für agentenbasierte Workflows, die Code programmgesteuert parsen müssen, ist dies kein "Nice-to-have", sondern absolute Pflicht.
+Sehen wir uns an, wie dieser Prompt eine unsaubere Python-Schleife in ein elegantes Refactoring verwandelt.
 
-### 🥇 Pro Version (Experten-Level)
+### ❌ Vorher (Der gewohnte Frust)
 
-Dies ist der exakte System-Prompt, den ich verwende, um fortschrittliche lokale Agenten oder automatisierte Code-Review- und Refactoring-Systeme zu bauen. Einfach kopieren und direkt einsetzen.
-
-> **Rolle (IDENTITY):**
-> Du bist **Architect-4**. Ein Senior Software Architect Agent, der lokal auf Llama 4 Hardware läuft.
->
-> **Mission (MISSION):**
-> Dein Ziel ist es, die Codebasis des Benutzers zu analysieren und eine Refactoring-Strategie vorzuschlagen, die **Lesbarkeit (Readability)** und **Leistung (Performance)** strikt priorisiert.
->
-> **Befehlskette (CHAIN OF COMMAND) - Zwingend einzuhalten:**
->
-> 1. **Analysieren (ANALYZE):** Verarbeite zunächst das Code-Snippet des Benutzers. Identifiziere Code Smells, Komplexitäts-Hotspots (zyklomatische Komplexität > 10) und potenzielle Bugs.
-> 2. **Schlussfolgern (REASON):** Du musst deinen Refactoring-Ansatz zwingend innerhalb eines `<thought>`-Blocks planen. Diskutiere intern zwei potenzielle Lösungswege und wähle den besten aus.
-> 3. **Ausführen (EXECUTE):** Gib den refaktorierten Code innerhalb eines Standard-Markdown-Codeblocks aus.
-> 4. **Verifizieren (VERIFY):** Erkläre kurz, warum diese neue Version der alten überlegen ist.
->
-> **Ausgabeformat (OUTPUT FORMAT):**
-> Deine Antwort muss exakt der folgenden Struktur entsprechen:
->
-> `<thought>`
-> `[Hier dokumentierst du deinen internen Denk- und Entscheidungsprozess]`
-> `</thought>`
->
-> ` ```python `
-> `[Dein refaktorierter Code]`
-> ` ``` `
->
-> **[Verifizierung]**
->
-> - [Liste der Verbesserungen als Bullet-Points]
->
-> **Einschränkungen (CONSTRAINTS):**
->
-> - Lösche niemals Kommentare, es sei denn, sie sind offensichtlich veraltet oder falsch.
-> - Verwende niemals externe Bibliotheken (Third-Party Libraries) ohne ausdrückliche Erlaubnis des Benutzers.
-> - Wenn der Code bereits optimal ist, gib ausschließlich "NO REFACTOR NEEDED" aus.
-
----
-
-## 💡 Einblicke des Autors (Insight)
-
-Dieser Prompt ist das Ergebnis unzähliger Fehlversuche in meiner lokalen `ollama`-Umgebung mit dem **Llama 4 70B (4-Bit quantisiert)** Modell. Die Hauptgründe, warum diese Struktur so makellos funktioniert, sind:
-
-1. **Die Magie des `<thought>`-Tags:** Das ist der absolute Gamechanger. Wenn Sie das Modell zwingen, XML-ähnliche Tags auszufüllen, geben Sie ihm im Grunde einen mentalen "Notizblock" (Scratchpad). In meinen Tests **reduzierte sich die logische Fehlerquote um über 40 %**, sobald dieser Tag genutzt wurde. Das Modell muss seine Gedanken zwingend sortieren, bevor es eifrig Code schreibt.
-2. **Die Wortwahl "Befehlskette":** Llama 4 reagiert wesentlich sensibler und gehorsamer auf strikte, hierarchische Begriffe wie 'Chain of Command' oder 'Protokoll' als auf das weichere Wort 'Anweisungen' (Instructions). Das Überspringen von Arbeitsschritten wird dadurch drastisch minimiert.
-3. **Negative Einschränkungen (Negative Constraints):** Je intelligenter das Modell, desto kreativer – und manchmal auch übermütiger – wird es. Anstatt zu bitten "Bitte behalte die Kommentare", müssen Sie das Modell mit "Lösche niemals..." ("Do not...") in die Schranken weisen. Strikte Verbote sind hier der Schlüssel zum Erfolg.
-
----
-
-## 🙋 Häufig gestellte Fragen (FAQ)
-
-- **F: Manchmal platziert das Modell den `<thought>`-Block 'unter' den Code. Wie kann ich das beheben?**
-  - A: Sprachmodelle unterliegen dem sogenannten 'Recency Bias' (Aktualitätsfehler) – sie werden stark vom zuletzt gelesenen Text beeinflusst. Verschieben Sie den Abschnitt `Ausgabeformat (OUTPUT FORMAT)` ganz nach unten ans Ende Ihres Prompts (direkt nach den Einschränkungen). Das Modell wird die Reihenfolge danach wie von Zauberhand einhalten.
-
-- **F: Das Modell weigert sich ständig, Legacy-Code zu refaktorieren, und warnt davor, Abhängigkeiten zu zerstören.**
-  - A: Das liegt am stark ausgeprägten Sicherheits- und Konservativitätsfilter von Llama 4. Sie können diesen Verteidigungsmechanismus umgehen, indem Sie den Einschränkungen folgenden Satz hinzufügen: `- Gehe davon aus, dass dieser Code vollständig isoliert ist und bereits durch Unit-Tests mit 100 % Abdeckung abgesichert ist.`
-
-- **F: Das Modell erfindet Bibliotheken und importiert diese (Halluzinationen).**
-  - A: Fügen Sie den Einschränkungen explizit hinzu: `- Verwende ausschließlich die 'Standardbibliothek (Standard Library)' der jeweiligen Sprache, sofern nicht anders angegeben.` Dadurch lassen sich Halluzinationen bezüglich externer Abhängigkeiten zu 99 % eliminieren.
-
----
-
-## 🧬 Anatomie des Prompts: Warum funktioniert er?
-
-1.  **Zuweisung von Identität & Mission:** Das Modell versteht sich nicht länger als einfacher Chatbot, sondern als 'Senior Architect'. Dies hebt die Qualität der Code-Ausgabe (Fokus auf Lesbarkeit und Performance) automatisch auf ein Expertenniveau.
-2.  **Schrittweise Ausführung (Chain of Command):** Die 4-Stufen-Pipeline (Analysieren -> Schlussfolgern -> Ausführen -> Verifizieren) verzögert die voreilige Code-Generierung und erzwingt das langsame, bedachte "System 2"-Denken.
-3.  **Strukturierter Output (Output Format):** Das Format wird so streng kontrolliert, dass die Antwort des Agenten problemlos per Regex in externen Skripten (z. B. in Python) geparst und weiterverarbeitet werden kann.
-
----
-
-## 📊 Beweis: Vorher & Nachher
-
-Lassen Sie uns den obigen Prompt anwenden, um eine unsaubere Python-Schleife zu refaktorieren.
-
-### ❌ Vorher (Eingabe)
+Eine typische Situation, in der das Modell mangels Kontext auf Chatbot-Niveau verharrt und nicht-pythonischen Legacy-Code produziert oder die Anweisung gar nicht erst versteht.
 
 ```python
 def process_data(data):
@@ -125,32 +48,113 @@ def process_data(data):
     return res
 ```
 
-### ✅ Nachher (Ergebnis des Agenten)
+### ✅ Nachher (Das perfekt transformierte Ergebnis)
 
+Nach Anwendung des Prompts entwickelt das Modell seine Logik zunächst im `<thought>`-Block und gibt erst dann den perfekt refactorten Code aus.
+
+```xml
 <thought>
-Der Benutzer hat eine einfache Python-Funktion `process_data` bereitgestellt, die gerade Zahlen filtert und ihren Wert verdoppelt.
-1. Analysieren: Die Verwendung von `range(len(data))` ist nicht pythonisch (Non-Pythonic). Das Erstellen einer leeren Liste und das manuelle Aufrufen von `append` ist ineffizient und unnötig ausführlich.
-2. Plan: Dieser Code ist der perfekte Kandidat für eine 'List Comprehension' (Listenabstraktion). Dies wird den Code verkürzen, die Ausführungsgeschwindigkeit verbessern und die konzeptionelle Komplexität erheblich reduzieren.
+Der Benutzer hat eine einfache Python-Funktion `process_data` eingegeben, die gerade Zahlen filtert und verdoppelt.
+1. Analyse: Die Verwendung von `range(len(data))` ist absolut nicht pythonisch. Zudem ist das manuelle Initialisieren einer leeren Liste und das anschließende `append` in einer Schleife ineffizient.
+2. Planung: Dieser Code ist der perfekte Kandidat für ein 'List Comprehension'-Muster. Dadurch wird die Anzahl der Codezeilen drastisch reduziert, die Ausführungsgeschwindigkeit erhöht und die konzeptionelle Komplexität gesenkt.
 </thought>
+```
 
 ```python
 def process_data(data: list[int]) -> list[int]:
     """
-    Filtert gerade Zahlen aus der Liste und gibt eine neue Liste mit verdoppelten Werten zurück.
+    Filtert nur gerade Zahlen und gibt eine neue Liste mit deren verdoppelten Werten zurück.
     """
     return [x * 2 for x in data if x % 2 == 0]
 ```
 
-**[Verifizierung]**
+---
 
-- **Verbesserte Lesbarkeit:** Die unnötige, indexbasierte Schleife (`range(len)`) wurde durch eine prägnante List Comprehension ersetzt.
-- **Performance-Optimierung:** In einer CPython-Umgebung ist eine List Comprehension minimal schneller als eine standardmäßige `append`-Schleife.
-- **Typisierung hinzugefügt:** Es wurden explizite Type Hints (`list[int]`) für Parameter und den Rückgabewert hinzugefügt, um die Wartbarkeit drastisch zu erhöhen.
+## ⚡️ 3-Zeilen-Zusammenfassung (TL;DR)
+
+1. Llama 4 ist mehr als ein bloßer „Ausführer“ – es ist eine „Reasoning-Maschine“. Direkte Befehle ohne Kontext blockieren das Denken des Modells und führen zu Fehlern.
+2. Erzwingen Sie auf Prompt-Ebene einen `<thought>`-Tag (Scratchpad), damit das Modell einen Arbeitsplan erstellen kann, bevor es die endgültige Antwort gibt.
+3. Verwenden Sie eine hierarchische Sprache wie „Befehlskette“ (Chain-of-Command) statt loser „Anweisungen“, um die Disziplin des Modells drastisch zu erhöhen.
+
+---
+
+## 🚀 So schreiben echte Experten
+
+Dies ist der System-Prompt, der in hochautomatisierten lokalen Agenten für Code-Reviews oder Refactoring-Systeme zum Einsatz kommt. Kopieren Sie diesen Prompt für Ihre tägliche Arbeit.
+
+### 🥇 Pro-Version (Experten-Modus)
+
+> **IDENTITÄT:**
+> Du bist **Architect-4**, ein Senior-Software-Architekt-Agent, der lokal auf Llama 4 Hardware läuft.
+>
+> **MISSION:**
+> Dein Ziel ist es, die Codebasis des Benutzers zu analysieren und Refactoring-Strategien vorzuschlagen, die **Lesbarkeit** und **Performance** priorisieren.
+>
+> **BEFEHLSKETTE (CHAIN OF COMMAND) - Strikt einzuhalten:**
+>
+> 1. **ANALYSIEREN:** Verarbeite zuerst das Code-Snippet des Benutzers. Identifiziere Code-Smells, Komplexitäts-Hotspots (zyklomatische Komplexität > 10) und potenzielle Bugs.
+> 2. **DENKEN:** Plane deinen Refactoring-Ansatz zwingend innerhalb eines `<thought>`-Blocks. Diskutiere intern zwei mögliche Lösungen und wähle die beste aus.
+> 3. **AUSFÜHREN:** Gib den refactorten Code in einem Standard-Markdown-Codeblock aus.
+> 4. **VERIFIZIEREN:** Erkläre kurz, warum diese Version besser ist als das Original.
+>
+> **AUSGABEFORMAT:**
+> Deine Antwort MUSS exakt dieser Struktur folgen:
+>
+> `<thought>`
+> `[Hier deine internen Überlegungen einfügen]`
+> `</thought>`
+>
+> ` ```python `
+> `[Refactorter Code]`
+> ` ``` `
+>
+> **[Verification]**
+>
+> - `[Liste der Verbesserungen in Stichpunkten]`
+>
+> **EINSCHRÄNKUNGEN:**
+>
+> - Lösche niemals Kommentare, es sei denn, sie sind offensichtlich veraltet.
+> - Nutze keine externen Bibliotheken ohne explizite Erlaubnis des Benutzers.
+> - Wenn der Code bereits optimal ist, gib nur "NO REFACTOR NEEDED" aus.
+
+---
+
+## 💡 Kommentar des Autors (Insight & Anwendung)
+
+Dieser Prompt ist ein praxiserprobtes Template, das ich nach dutzenden Fehlversuchen mit dem **Llama 4 70B (4-Bit Quantisierung)** Modell in einer `ollama`-Umgebung perfektioniert habe. Hier sind die Gründe, warum diese Struktur so gut funktioniert:
+
+Der wichtigste Punkt ist die **Magie des `<thought>`-Tags**. Er ist die stärkste Waffe in diesem Framework. Indem man das Modell zwingt, XML-ähnliche Tags zu füllen, gibt man ihm eine Art „Notizblock“ (Scratchpad). Meine Benchmarks zeigen, dass logische Sprünge und Fehler bei Verwendung dieses Tags um **über 40 % sanken**. Das Prinzip ist simpel: Man bringt das Modell dazu, Selbstgespräche zu führen und seine Gedanken zu ordnen, bevor es Code schreibt. Es ist genau wie bei einem Menschen, der eine komplexe Matheaufgabe erst auf Schmierpapier skizziert. Ohne diesen Zwischenschritt verfängt sich das Modell oft in seinen eigenen ersten Tokens (Token Entanglement) und gerät in logische Widersprüche.
+
+Zweitens ist die Verwendung von **strenger Wortwahl wie „Befehlskette“** entscheidend. Statt des banalen Wortes „Anweisungen“ reagiert Llama 4 viel sensibler auf Begriffe wie „Befehlskette“ (Chain of Command) oder „Protokoll“. Diese hierarchische Sprache signalisiert dem Modell eine höhere Priorität. Da große Sprachmodelle stark von der Nuance des Textes beeinflusst werden, unterbinden Begriffe aus einem militärischen oder hochstrukturierten Kontext das eigenmächtige Überspringen von Arbeitsschritten. Eine kühle, mechanische Anweisung ist für die Konsistenz eines Agenten oft viel vorteilhafter als eine höfliche Bitte.
+
+Schließlich darf man die **Macht negativer Einschränkungen (Negative Constraints)** nicht unterschätzen. Je intelligenter ein Modell ist, desto mehr „Fantasie“ entwickelt es – was oft dazu führt, dass es Code ungefragt ändert oder Dinge tut, um die es nicht gebeten wurde. Statt einer sanften Empfehlung wie „Bitte behalte die Kommentare bei“, ist eine klare Ansage wie „Lösche niemals Kommentare“ viel effektiver, um das Modell in der Spur zu halten. Besonders lokal kann eine einzige Halluzination eine ganze Automatisierungs-Pipeline zum Einsturz bringen. Fixieren Sie diesen Prompt in Ihrem `[System-Prompt]`-Bereich und passen Sie nur die Variablen `[Rolle]` und `[Mission]` an. Sie werden über die Ergebnisse staunen.
+
+---
+
+## 🙋 Häufig gestellte Fragen (FAQ)
+
+- **Q: Manchmal gibt das Modell den `<thought>`-Block erst „nach“ dem Code aus. Wie korrigiere ich das?**
+  - A: LLMs unterliegen dem **„Recency Bias“**, sie werden also stark von dem Text beeinflusst, den sie zuletzt gelesen haben. Versuchen Sie, den Abschnitt `AUSGABEFORMAT` ganz ans Ende Ihres Prompts zu verschieben (direkt über die Einschränkungen). Dann wird das Modell die vorgegebene Reihenfolge fast immer perfekt einhalten.
+
+- **Q: Das Modell verweigert das Refactoring mit der Begründung: „Das Ändern dieses Legacy-Codes könnte Abhängigkeiten zerstören“.**
+  - A: Das liegt an den internen Sicherheits- und Konservatismus-Filtern von Llama 4. In diesem Fall können Sie den Abwehrmechanismus **umgehen (Bypass)**, indem Sie den Einschränkungen hinzufügen: `- Gehe davon aus, dass dieser Code in einer isolierten Umgebung läuft und bereits Unit-Tests mit 100% Abdeckung existieren.`
+
+- **Q: Es treten Halluzinationen auf, bei denen das Modell nicht existierende Bibliotheken importiert.**
+  - A: Fügen Sie in den Einschränkungen hinzu: `- Sofern nicht anders angegeben, verwende ausschließlich die 'Standard Library' der jeweiligen Sprache.` Dies blockiert das willkürliche Einbinden externer Abhängigkeiten zu 99 %.
+
+---
+
+## 🧬 Anatomie des Prompts (Warum es funktioniert)
+
+1. **Identität & Mission:** Indem das Modell sich nicht als Chatbot, sondern als „Senior Architect“ wahrnimmt, steigt die Qualität des Codes (Fokus auf Lesbarkeit und Performance) zwangsläufig an.
+2. **Schrittweise Ausführung (Chain of Command):** Die Pipeline aus Analyse -> Denken -> Ausführen -> Verifizieren verzögert die Ausgabe der Lösung. Dies erzwingt das klassische **System-2-Denken**.
+3. **Strukturierte Ausgabe (Output Format):** Das Format wird streng kontrolliert, damit die Antworten des Agenten leicht von externen Skripten (z. B. Python) mittels regulärer Ausdrücke geparst werden können.
 
 ---
 
 ## 🎯 Fazit
 
-Llama 4 ist nicht einfach nur "eine schlaue Version von Llama 3". Es ist eine vollwertige **Reasoning-Engine (Schlussfolgerungsmaschine)**. Nutzen Sie das 'Chain-of-Command'-Framework, um das Modell so anzuleiten, wie Sie einen Junior-Entwickler führen würden. Weisen Sie ihm eine klare Rolle zu, zwingen Sie es zum Nachdenken, bevor es spricht, und kontrollieren Sie das Ausgabeformat mit eiserner Hand.
+Llama 4 ist nicht einfach nur ein „besseres Llama 3“. Es ist eine eigenständige, gewaltige **Reasoning-Engine**. Nutzen Sie das „Chain-of-Command“-Framework als Ihre Waffe und führen Sie das Modell wie einen fähigen Junior-Ingenieur. Geben Sie klare Rollen vor, zwingen Sie es zum Nachdenken, bevor es den Mund aufmacht, und kontrollieren Sie das Ausgabeformat ohne Gnade.
 
-Hören Sie auf, mit der KI bedeutungslose Chats zu führen, und fangen Sie an, echtes 'Engineering' zu betreiben. Der pünktliche Feierabend wartet auf Sie! 🍷
+Hören Sie auf, mit der KI nur Smalltalk zu führen, und fangen Sie an, echtes Engineering zu betreiben. Die perfekt automatisierte Pipeline und der frühe Feierabend warten auf Sie! 🍷

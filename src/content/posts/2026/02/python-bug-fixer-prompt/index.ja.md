@@ -4,7 +4,7 @@ title: "Pythonバグ解決のプロ：10秒デバッグプロンプト"
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Pythonのエラーやバグに悩んでいませんか？AIを活用してわずか10秒で根本原因を特定し、コードを修正する魔法のデバッグプロンプトをご紹介します。"
 tags: ["태그1", "태그2"]
 ---

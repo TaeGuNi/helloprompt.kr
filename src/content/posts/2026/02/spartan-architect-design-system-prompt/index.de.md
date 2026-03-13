@@ -4,7 +4,7 @@ title: "💀 Der 'Spartanische Chefarchitekt'-Prompt: Schluss mit der KI-Schmeic
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Ein gnadenloser Prompt, der nutzloses KI-Lob und Spaghetti-Code im Keim erstickt und mathematisch perfektes Design-System-Rendering erzwingt."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "design-system-identity"]
 ---

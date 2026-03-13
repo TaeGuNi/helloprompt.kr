@@ -4,7 +4,7 @@ title: "Le Code de Triche d'Infrastructure Docker pour Dresser Votre Agent IA �
 author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Le prompt ultime d'un développeur senior pour empêcher votre agent IA de planter en tentant de contrôler vos conteneurs Docker."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "docker"]
 ---

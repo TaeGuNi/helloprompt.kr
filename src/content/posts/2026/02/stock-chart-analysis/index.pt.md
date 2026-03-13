@@ -4,9 +4,9 @@ title: " \"주식 차트 분석: '이거 살까 말까?' 차트 캡처해서 물
 author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
-category: "재테크/투자"
+category: "General"
 description: "Analista de IA para iniciantes em gráficos. Envie o print do seu gráfico e obtenha análises técnicas objetivas e cenários de negociação sem emoção."
-tags: ["주식", "차트분석", "비트코인", "ChatGPT", "투자"]
+tags: ["Stocks", "차트분석", "비트코인", "ChatGPT", "Investment"]
 ---
 
 ## 📈 Análise de Gráficos de Ações: "Devo comprar ou não?" Tire um print e pergunte à IA

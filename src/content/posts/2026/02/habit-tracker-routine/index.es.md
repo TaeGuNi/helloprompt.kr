@@ -4,9 +4,9 @@ title: " \"루틴 관리: 작심삼일 타파하는 습관 추적기(Habit Track
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "자기계발/생산성"
+category: "General"
 description: "La falta de voluntad es ciencia. Diseña rutinas invencibles con IA aplicando principios de neurociencia y Hábitos Atómicos."
-tags: ["습관", "루틴", "갓생", "ChatGPT", "Notion"]
+tags: ["Habit", "Routine", "갓생", "ChatGPT", "Notion"]
 ---
 
 ## 📅 Gestión de Rutinas: El Rastreador de Hábitos (Habit Tracker) para Vencer la Procrastinación

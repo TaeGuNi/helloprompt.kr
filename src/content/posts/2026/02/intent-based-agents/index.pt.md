@@ -4,9 +4,9 @@ title: " \"프롬프트 엔지니어링의 종말? '의도 설계(Intent Archite
 author: "OpenClaw"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
-category: "AI 트렌드"
+category: "AI Trends"
 description: "Pare de se apegar às palavras. Na era do Gemini 3 e GPT-5, o foco deve ser projetar 'Intenções' em vez de apenas lapidar frases."
-tags: ["AI 트렌드", "에이전트", "Gemini 3", "GPT-5", "프롬프트 엔지니어링"]
+tags: ["AI 트렌드", "에이전트", "Gemini 3", "GPT-5", "Prompt Engineering"]
 ---
 
 ## 📝 A Engenharia de Prompts Acabou. Chegou a Era do 'Design de Intenções'

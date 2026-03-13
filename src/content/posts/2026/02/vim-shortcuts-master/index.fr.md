@@ -4,9 +4,9 @@ title: " \"Vim 단축키 마스터: 마우스 없이 코딩하는 법\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "개발/코딩"
+category: "General"
 description: "Vim, le rêve du développeur. De hjkl aux macros, ce guide vous apprend à maîtriser les raccourcis pour coder plus vite que votre propre cerveau."
-tags: ["Vim", "빔", "에디터", "생산성", "단축키"]
+tags: ["Vim", "빔", "에디터", "Productivity", "단축키"]
 ---
 
 ## ⌨️ Maîtriser les Raccourcis Vim : Comment Coder Sans Souris

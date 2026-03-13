@@ -4,7 +4,7 @@ title: " \"AI로 나의 꿈을 분석하는 방법 (꿈 해몽 프롬프트)\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "재미/흥미"
+category: "General"
 description: "Descubra os segredos do subconsciente! Peça ao ChatGPT para analisar seus sonhos bizarros e revele significados ocultos com este prompt especial."
 tags: ["꿈해몽", "심리학", "재미", "ChatGPT"]
 ---

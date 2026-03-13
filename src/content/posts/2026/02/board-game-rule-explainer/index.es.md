@@ -4,9 +4,9 @@ title: " \"복잡한 룰북은 가라: 보드게임 규칙 3분 요약\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "취미/라이프"
+category: "General"
 description: "Domina cualquier juego de mesa en minutos con IA. Olvídate de manuales de 40 páginas y del miedo a equivocarte en las reglas. Empieza a jugar ya."
-tags: ["보드게임", "취미", "규칙설명", "게임마스터"]
+tags: ["보드게임", "Hobbies", "규칙설명", "게임마스터"]
 ---
 
 ## 🎲 Adiós a los manuales interminables: Reglas de juegos de mesa en 3 minutos {#summary}

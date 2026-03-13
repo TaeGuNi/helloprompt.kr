@@ -4,7 +4,7 @@ title: "🚨 Shut Up and Code: The Ruthless React & Next.js Architect Cheat Code
 author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
-category: "AI 개발"
+category: "General"
 description: "A ruthless prompt cheat code from a senior frontend engineer that completely eliminates AI hallucinations and prevents spaghetti code."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "react-next-architecture"]
 ---

@@ -4,7 +4,7 @@ title: " \"Claude Code 성능 저하 논란? 진실은?\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "AI 이슈"
+category: "General"
 description: " \"最近、Claude Codeのコーディング性能が低下し「怠惰になった」という主張が提起されています。開発者コミュニティの反応と、AIのパフォーマンスを最大限に引き出す解決策をまとめました。\""
 tags: ["Claude", "Anthropic", "AI", "Coding"]
 ---

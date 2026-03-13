@@ -4,7 +4,7 @@ title: " \"GLM-5: 바이브 코딩에서 에이전트 엔지니어링으로\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "AI 트렌드"
+category: "AI Trends"
 description: "Mit GLM-5 läutet Z.ai die Ära des Agentic Engineerings ein und geht damit weit über simple Programmierhilfen hinaus."
 tags: ["GLM-5", "AI", "Agentic Engineering", "LLM"]
 ---

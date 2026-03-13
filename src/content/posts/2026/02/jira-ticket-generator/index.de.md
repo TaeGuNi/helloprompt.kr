@@ -4,9 +4,9 @@ title: "Jira-Tickets automatisch generieren: Vom Konzept zu 10 Entwickler-Ticket
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Der ultimative Prompt für PMs: Verwandle PRDs und Konzepte automatisch in perfekt strukturierte Jira-Tickets (Epic, Story, Task)."
-tags: ["Jira", "지라", "PM", "기획", "애자일"]
+tags: ["Jira", "지라", "PM", "Planning", "애자일"]
 ---
 
 ## 🎫 Jira-Tickets automatisch generieren: Vom Konzept zu 10 Entwickler-Tickets im Handumdrehen

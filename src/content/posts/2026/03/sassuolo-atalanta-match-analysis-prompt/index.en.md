@@ -4,7 +4,7 @@ title: "⚽ Sassuolo vs Atalanta: Sports Match Analysis & Automated Content Gene
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "From complex football match data analysis to publishing engaging sports marketing content, discover a practical AI prompt that gets it all done at once."
 tags: ["prompt-engineering", "ai-agent", "sassuolo-atalan"]
 image: "/images/hooks/sassuolo-atalanta-match-analysis-prompt.jpg"

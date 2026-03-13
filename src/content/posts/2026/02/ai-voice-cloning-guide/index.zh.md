@@ -4,7 +4,7 @@ title: " \"AI 성대모사(TTS): 내 목소리를 아이유로 바꾸는 법\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "크리에이티브/예술"
+category: "General"
 description: "一份专业指南，教你利用RVC（基于检索的语音转换）技术克隆声音，并使用名人音色制作高质量的TTS与实时变声。"
 tags: ["TTS", "성대모사", "RVC", "AI음성", "목소리변조"]
 ---

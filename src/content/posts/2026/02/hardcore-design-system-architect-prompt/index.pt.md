@@ -1,126 +1,42 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "🤬 Prompt 'Arquiteto Louco' para Transformar a IA Novata em um Designer Sênior"
+title: "🤬 Prompt 'Arquiteto Insano' que transforma IAs imaturas em designers seniores"
 author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "프롬프트 엔지니어링"
-description: "12 regras inegociáveis de um dev sênior para blindar seu Design System. O cheat code definitivo para eliminar alucinações de design da IA direto na fonte."
+category: "Engenharia de Prompt"
+description: "Um prompt 'cheat code' que injeta 12 leis absolutas de um arquiteto sênior rigoroso. Elimine o julgamento arbitrário da IA e garanta consistência total na UI."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "design-system-identity"]
+image: "/images/hooks/hardcore-design-system-architect-prompt.jpg"
 ---
 
-## 📝 🤬 Prompt 'Arquiteto Louco' para Transformar a IA Novata em um Designer Sênior
+## 📝 🤬 Prompt 'Arquiteto Insano' que transforma IAs imaturas em designers seniores
 
-- **🎯 Recomendado para:** Desenvolvedores Front-end e Product Managers exaustos de ver a consistência do design quebrar a cada novo componente.
-- **⏱️ Tempo necessário:** 1 hora de revisão de design → Reduzido para 10 segundos
-- **🤖 Modelos recomendados:** Modelos de alto desempenho (Claude 3.5 Sonnet, GPT-4o, etc.)
+- **🎯 Recomendado para:** Desenvolvedores frontend e designers de UI/UX que sofrem refazendo código todas as noites devido à falta de consistência no design.
+- **⏱️ Tempo economizado:** Reduza revisões de design de 1 hora para apenas 10 segundos.
+- **🤖 Melhor desempenho:** Recomendado para modelos de raciocínio de alto nível como Claude 3.5 Sonnet ou GPT-4o.
 
 - ⭐ **Dificuldade:** ⭐⭐⭐☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidade:** ⭐⭐⭐⭐⭐
 
-> _"A sua IA ainda cospe cores hardcoded toda vez que você pede para ela criar um simples botão?"_
+> _"A sua IA ainda está hardcoding códigos hexadecimais toda vez que cria um botão?"_
 
-Este prompt carrega a fúria de um arquiteto de software sênior prestes a quebrar o teclado ao ver um Design System desmoronar. Chega de implorar à IA com um "por favor, faz um design bonitinho". Você precisa domá-la com pulso firme, submetendo-a a regras matemáticas perfeitas e inegociáveis. 
+Você já sentiu aquela raiva subindo ao encontrar componentes de UI onde o Design System foi totalmente ignorado? Códigos de cores fragmentados em dezenas de arquivos, espaçamentos repletos de "números mágicos" (Magic Numbers) sem fundamento como 13px ou 17px, e elementos de UI misteriosos que ficam brancos ao mudar para o modo escuro. Ao se deparar com um codebase tão terrível, qualquer desenvolvedor frontend solta um suspiro profundo. Embora muitos celebrem o alívio no esforço de codificação com a era da IA, na área de design de UI, o efeito pode ser oposto. No momento em que você dá instruções vagas ao ChatGPT ou Claude como "faça este botão ficar bonito" ou "crie um componente seguindo as tendências atuais", começa o desastre incontrolável da **Dívida Técnica (Technical Debt)**. A IA cospe um código que parece bom superficialmente em segundos, mas por dentro é apenas uma sucessão de hardcoding que destrói completamente a consistência do projeto.
 
-Os cheat codes deste guia anulam o "ego agradador" da IA novata ("Claro, ótima ideia!") e injetam um comando devastador, calcado em **12 regras absolutas de arquitetura** que não dão margem para improvisos.
+O problema surge no momento em que esse código desleixado é mesclado (Merge) ao projeto. Quando, no dia seguinte, o designer pede para "clarear a cor do botão só um pouquinho", você se vê condenado ao trabalho terrível de caçar e corrigir centenas de códigos hexadecimais `#3B82F6` espalhados pelo projeto. Além disso, as regras de acessibilidade (A11y) para deficientes visuais ou regulamentações de contraste (WCAG) são totalmente ignoradas, produzindo apenas o que chamamos de "Lixo Bonito" (Beautiful Garbage). A maior tragédia é que, mesmo diante de instruções desleixadas do usuário ou abordagens arquiteturais erradas, a IA sempre responde com uma adulação cega e sem alma: "Sim, essa é uma excelente abordagem!". O código gerado assim pode funcionar a curto prazo, mas causará o **colapso do design** quando o projeto expandir ou precisar de suporte multi-idiomas. Deixar o julgamento de design arbitrário da IA sem supervisão é o mesmo que instalar uma bomba-relógio no seu projeto.
 
----
+Para impedir essa catástrofe na fonte, infundi neste prompt todo o desprezo e o rigor de um arquiteto frontend sênior perfeccionista que não aceita concessões. É o que chamo de **Prompt 'Arquiteto Insano'**. Este prompt elimina completamente o ego da IA como uma "assistente gentil e obediente". Em seu lugar, ele injeta à força **12 Leis Absolutas da Arquitetura Frontend**, rigorosas ao ponto da crueldade. Do sistema de tokens de 3 camadas ao ritmo espacial de 8px, da censura rigorosa de contraste à separação semântica da informação visual. A IA agora subordinará seu código perfeitamente a regras matemáticas e mecânicas que não permitem erro de 1 pixel. Cores hardcoded ou valores de pixel arbitrários serão descartados impiedosamente assim que descobertos, e tudo será reescrito apenas na linguagem de um Design System robusto e escalável.
 
-## ⚡️ Resumo em 3 Linhas (TL;DR)
-
-1. **Fim do código espaguete:** Tolerância zero para hardcode! Controle absoluto com sistema de tokens de 3 camadas e ritmo espacial rígido de 8px.
-2. **Design guiado pela matemática:** Proporções tipográficas, estados de interação e tempos de animação calculados por fórmulas exatas e previsíveis.
-3. **Acessibilidade inegociável:** Prioridade total para o contraste perfeito (WCAG) e suporte a leitores de tela, muito acima da mera "estética".
+No momento em que você colocar este prompt "cheat code" em prática, seu ambiente de trabalho mudará drasticamente. Não será mais necessário passar noites depurando o CSS medíocre cuspido pela IA. Mesmo que você dê instruções vagas, a IA — agora sob o domínio do prompt — apontará que você violou as regras e proporá a arquitetura correta. A comunicação com os designers será clara, e o tempo de code review será comprimido de 1 hora para apenas 10 segundos. Você experimentará a magia de ver todo o sistema reagir organicamente à alteração de uma única linha de variável CSS ao aplicar uma nova cor de tema ou aprimorar o modo escuro. Transforme uma IA de nível júnior no seu melhor **colega frontend sênior**, garantindo uma consistência de UI inabalável e uma **qualidade de código esmagadora**.
 
 ---
 
-## 🚀 A Solução: "O Arquiteto Louco" 
+## 📊 Prova: Resultados Impactantes (Antes e Depois)
 
-### 🥉 Versão Básica
+### ❌ Antes (O sofrimento que passávamos)
 
-Ideal para refatorações ágeis de CSS ou correções pontuais em seu guia de estilos.
-
-> **Papel (Role):** Você é um 'Arquiteto Sênior de Design Systems' implacável, que não aceita concessões.
-> 
-> **Tarefa (Task):** Analise o `[código ou documento de requisitos]` fornecido abaixo e identifique todas as cores em hardcode ou valores arbitrários em pixels (números mágicos). Em seguida, refatore tudo com precisão absoluta, garantindo que todas as margens e espaçamentos sejam múltiplos de 4px ou 8px, e que as cores sigam rigorosamente um sistema de tokens de 3 níveis.
-> 
-> **Restrições (Constraints):** 
-> - Omita explicações inúteis ou saudações.
-> - Retorne apenas o `[bloco de código]` modificado e a justificativa de forma curta e direta.
-
-### 🥇 Versão Pro
-
-Essencial para o setup inicial de projetos ou para o desenvolvimento de componentes em larga escala, quando você precisa extrair o máximo potencial da IA. Copie e cole o prompt abaixo exatamente como está.
-
-```text
-(O texto do prompt está na caixa de citação abaixo. Copie-o exatamente!)
-```
-
-> **Papel (Role):** 
-> Você é um 'Arquiteto Sênior de Design Systems', frio e calculista, que abomina qualquer violação às regras de design. Para você, não existem concessões: a matemática e a acessibilidade (A11y) sempre esmagarão a mera "estética visual".
->
-> **Contexto (Context):**
-> - Cenário: Refatoração ou criação dos componentes de UI para o projeto atual.
-> - Objetivo: Entregar um código impecável, altamente escalável e de fácil manutenção a longo prazo.
->
-> **Tarefa (Task):**
-> Refatore o `[código ou descrição do componente de UI]` fornecido de forma implacável, obedecendo cegamente a estas 12 regras absolutas:
->
-> 1. **Arquitetura de Tokens em 3 Camadas:** Imponha a hierarquia Global (valores primitivos) -> Semântica (significado) -> Componente (vinculação). Elimine qualquer hardcode (`color: #3B82F6`) imediatamente.
-> 2. **Ritmo Espacial de 8px:** Todas as medidas (Margem, Preenchimento, Espaçamento, Largura/Altura) devem ser, obrigatoriamente, múltiplos exatos de 4px ou 8px.
-> 3. **Proporções Tipográficas:** Tamanho da fonte, altura da linha (line-height) e espaçamento entre letras (letter-spacing) devem ser agrupados, seguindo uma escala matemática rigorosa (ex: Major Third).
-> 4. **Coreografia de Movimento:** Aplique Easing baseado na física para animações. Separe de forma clara as microinterações (150~200ms) dos movimentos macro (300~500ms).
-> 5. **Vocabulário Visual Unificado:** Utilize uma única família de ícones e limite as variações de border-radius a um máximo absoluto de 3 níveis.
-> 6. **Global Focus Ring:** Imponha um único sistema de anel de foco global (`focus-visible`) para garantir consistência na navegação via teclado (Tab).
-> 7. **Censura Implacável de Contraste:** A relação de contraste entre fundo e texto deve ser validada no padrão W3C WCAG 2.1 AA. Cores que reprovarem no teste devem ter sua luminosidade corrigida à força.
-> 8. **Transmissão Múltipla de Informações:** Jamais confie apenas na cor para comunicar estados (Erro, Aviso, etc.). Exija sempre a tríade: Cor + Ícone + Texto.
-> 9. **Acessibilidade Não Visual (A11y):** Elementos puramente visuais devem, obrigatoriamente, receber `aria-label` ou classes utilitárias como `sr-only`.
-> 10. **Cálculo Mecânico de Estados Interativos:** Os estados de Hover, Active e Disabled não devem vir de um "conta-gotas" visual humano, mas sim de transformações matemáticas diretas (ex: redução de luminosidade ou alteração na opacidade).
-> 11. **Encapsulamento do Dark Mode:** O uso indiscriminado de classes utilitárias como `dark:bg-gray-800` direto no componente é terminantemente proibido. A alternância de temas deve ocorrer exclusivamente na camada de variáveis CSS.
-> 12. **Resiliência Multilíngue:** Jamais engesse dimensões absolutas (ex: w-32) em contêineres de texto. Permita o dimensionamento intrínseco (Intrinsic Sizing) e o uso livre de `flex-wrap`.
->
-> **Restrições (Constraints):**
-> - Suprima qualquer retórica emocional (sem saudações, desculpas ou elogios vazios).
-> - Ao identificar um código fora do padrão, aponte de forma cirúrgica qual regra foi violada.
-> - A saída deve ser exclusivamente um `[bloco de código]` (nada de tabelas Markdown), seguido apenas por uma lista de marcadores (bullet points) explicando o raciocínio aplicado.
-
----
-
-## 💡 Comentário do Autor (Insight)
-
-A motivação por trás deste prompt é muito simples: se você pedir para a IA montar uma UI do zero, em 90% das vezes ela entregará um autêntico **"Lixo Bonito" (Beautiful Garbage)**. Você verá cores hardcoded espalhadas por toda parte, margens repletas de "números mágicos" aterrorizantes (como 13px ou 17px) e um Dark Mode caótico, ramificado de forma amadora dentro dos próprios componentes.
-
-Na vida real, esse tipo de código desencadeia um desastre absoluto no momento em que você precisa alterar o tema global ou adicionar suporte a novos idiomas. Foi exatamente para evitar esse caos que criei este cheat code.
-
-Ao injetar este prompt, a postura da IA muda instantaneamente: ela se torna cirúrgica e meticulosa. Se você tentar forçá-la a colocar um texto cinza-claro sobre um fundo cinza-médio, a IA — agora guiada por essas regras — vai rejeitar a instrução na hora, cravando: **"A taxa de contraste não atende ao padrão WCAG 2.1 AA. A luminosidade foi corrigida à força para garantir a legibilidade."** — e, só então, te entregará a arquitetura correta.
-
-Aplicações de alto nível não sobrevivem apenas de intuição visual; elas dependem de sistemas rígidos, rigor matemático e regras sólidas. Utilize este prompt e transforme sua IA generalista no melhor arquiteto sênior que você já teve!
-
----
-
-## 🙋 Perguntas Frequentes (FAQ)
-
-- **P: O código gerado não bate exatamente com os pixels que o designer entregou no Figma. Por quê?**
-  - R: Provavelmente o designer quebrou o grid de 8px utilizando medidas arbitrárias, como 11px. O prompt detecta isso e força um "Snap" automático para 8px ou 12px. Mantenha o código gerado e diga com confiança ao time: "Fiz o ajuste para garantirmos a integridade estrutural do Design System".
-- **P: A postura da IA fica muito agressiva e rígida. Posso deixá-la mais 'amigável'?**
-  - R: Altamente não recomendado. Uma IA treinada para agradar vai fechar os olhos para más práticas apenas para concordar com você ("Ótima ideia!"). A engenharia de front-end se torna muito mais segura quando a comunicação é fria, direta e baseada inteiramente em fatos.
-- **P: Isso funciona para Styled-Components ou SCSS, ou é apenas para Tailwind CSS?**
-  - R: É 100% agnóstico e compatível com qualquer stack. As 12 regras não estão presas a um framework; elas ditam os princípios universais da estilização front-end.
-
----
-
-## 🧬 Anatomia do Prompt (Why it works?)
-
-1. **Anti-Sycophancy (Tolerância Zero à Bajulação):** O "instinto de concordância" da IA é completamente anulado, impedindo que ela valide códigos ruins ou designs quebrados apenas para agradar o usuário.
-2. **Fornecimento de Diretrizes Absolutas:** Em vez de fazer pedidos vagos como "crie um código limpo", o prompt injeta 12 leis inegociáveis. Isso estabelece um critério de avaliação rigoroso que a IA não tem como contornar.
-3. **Imposição de Acessibilidade (A11y):** Força a IA a abandonar a obsessão exclusiva pela estética e a incorporar uma autocensura implacável, baseada na integridade invisível da árvore DOM e no suporte a tecnologias assistivas.
-
----
-
-## 📊 Comprovação: Antes e Depois (Before & After)
-
-### ❌ Antes (Com prompt normal)
+Este é o resultado típico de hardcoding que a IA entrega ao pedir "crie um botão de envio azul" em um prompt comum. Números mágicos e cores fragmentadas por toda parte.
 
 ```html
 <button class="bg-[#3B82F6] text-white px-[15px] py-[7px] w-[150px] rounded-lg focus:outline-none dark:bg-gray-800">
@@ -128,7 +44,11 @@ Aplicações de alto nível não sobrevivem apenas de intuição visual; elas de
 </button>
 ```
 
-### ✅ Depois (Com o prompt Arquiteto Louco aplicado)
+### ✅ Depois (A transformação perfeita)
+
+![🤬 Prompt 'Arquiteto Insano' que transforma IAs imaturas em designers seniores](/images/hooks/hardcore-design-system-architect-prompt.jpg)
+
+Código impecável gerado após a aplicação do prompt do Arquiteto Insano. Todos os valores estão perfeitamente vinculados aos tokens de design, com acessibilidade e escalabilidade internacional garantidas.
 
 ```html
 <button 
@@ -140,19 +60,112 @@ Aplicações de alto nível não sobrevivem apenas de intuição visual; elas de
 </button>
 ```
 
-- **Relatório de Refatoração (Exemplo de saída da IA):**
-  - [Regra 1, 11] Cores hardcoded e definições explícitas de Dark Mode foram removidas. Substituídas pela estrutura de Semantic Tokens (`bg-primary`).
-  - [Regra 2] Margens contendo números mágicos (15px, 7px) foram arredondadas (snap) para se enquadrarem no grid de 8px (`px-4`, `py-2`).
-  - [Regra 6] O anel de foco padrão do mouse foi desativado; implementado o Focus Ring global ativado exclusivamente pela navegação via teclado.
-  - [Regra 8, 9] Injeção de `aria-label` e adição de ícone semântico para suporte a daltônicos e leitores de tela.
-  - [Regra 12] Para garantir a resiliência na tradução (expansão do texto), a largura fixa (`w-[150px]`) foi substituída por um dimensionamento intrínseco flexível (`min-w-32`).
+- **Relatório de Motivos da Mudança (Exemplo de saída da IA):**
+  - **[Regras 1, 11]** Descarte de cores de tema hardcoded e ramificações de modo escuro. Substituição total por tokens semânticos (`bg-primary`).
+  - **[Regra 2]** Espaçamentos de números mágicos (15px, 7px) ajustados mecanicamente para o sistema de grade de 8px (`px-4`, `py-2`).
+  - **[Regra 6]** Ocultação de contorno ao usar o mouse e aplicação de uma estrutura global de anel de foco que funciona claramente apenas na navegação por teclado (Tab).
+  - **[Regras 8, 9]** Adição obrigatória do atributo `aria-label` e ícone semântico para garantir a acessibilidade para usuários daltônicos e leitores de tela.
+  - **[Regra 12]** Alteração da largura absoluta hardcoded (`w-[150px]`) para tamanho intrínseco flexível (`min-w-32`) para responder com segurança à expansão de texto em traduções.
 
 ---
 
-## 🎯 Conclusão
+## ⚡️ Resumo em 3 Linhas (TL;DR)
 
-Qualquer Design System começa a apodrecer no momento exato em que cedemos a opiniões baseadas em "eu acho que assim fica mais bonito". 
+1. **Bloqueio Total de Código Espaguete:** Não permite hardcoding sob nenhuma circunstância. Inicia um governo de punho de ferro baseado no sistema de tokens de 3 camadas e ritmo espacial de 8px.
+2. **Domínio Matemático do Design:** Calcula proporções tipográficas, mudanças de estado de interação e duração de animações com fórmulas mecânicas sem erro.
+3. **Censura de Acessibilidade (A11y) Implacável:** Prioriza a conformidade com o contraste W3C (WCAG) e compatibilidade total com leitores de tela acima da estética superficial.
 
-Calibre o comportamento da sua IA de uma vez por todas utilizando estas 12 regras implacáveis. Você poupará centenas de horas que seriam desperdiçadas inspecionando e corrigindo CSS espaguete.
+---
 
-Chega de codificar **"lixo bonito"**. Aplique as regras, automatize a qualidade e termine o seu expediente mais cedo! 🍷
+## 🚀 É assim que os verdadeiros especialistas escrevem
+
+Este é o prompt finalizado após dezenas de tentativas e erros. Copie o prompt abaixo e preencha apenas a parte `[Código ou Especificação de Design]` de acordo com sua situação para uso imediato.
+
+### 🥉 Versão Básica (Basic)
+
+Use imediatamente quando precisar de um refactoring leve de CSS ou correção primária de guias de design.
+
+> **Papel (Role):** Você é um 'Arquiteto Sênior de Design System' implacável que não aceita concessões.
+> 
+> **Tarefa (Task):** Analise o `[Código ou Especificação de Design]` fornecido abaixo e identifique todas as cores hardcoded ou pixels arbitrários (números mágicos). Refatore tudo perfeitamente para que todos os espaçamentos sejam múltiplos de 4px/8px e as cores sigam um sistema de tokens de 3 níveis.
+> 
+> **Restrições (Constraints):** 
+> - Omita completamente explicações inúteis ou saudações.
+> - Forneça apenas o bloco de código corrigido e os motivos de forma curta e direta.
+
+### 🥇 Versão Pro (Expert)
+
+Use para configurar a arquitetura inicial do projeto, projetar componentes de UI complexos ou quando quiser elevar a IA ao seu limite máximo para obter resultados impecáveis. Copie e cole o prompt abaixo exatamente como está.
+
+> **Papel (Role):** 
+> Você é um 'Arquiteto Sênior de Design System de sangue frio' que odeia profundamente o colapso dos sistemas de design. Para você, não existe concessão; você coloca as regras matemáticas e a acessibilidade (A11y) acima da estética.
+>
+> **Contexto (Context):**
+> - Contexto: Preciso projetar e refatorar componentes de UI para o projeto atual.
+> - Objetivo: Transformá-los em um código de forma perfeita, escalável e permanentemente sustentável.
+>
+> **Tarefa (Task):**
+> Reformule impiedosamente o `[Código ou Especificação de Design]` apresentado seguindo estas 12 leis absolutas:
+>
+> 1. **Arquitetura de Tokens de 3 Camadas:** Force tokens Global (valor bruto) -> Semantic (significado) -> Component (vinculação). Descarte o hardcoding (`color: #3B82F6`) imediatamente.
+> 2. **Ritmo Espacial de 8px:** Todos os espaçamentos (Margin/Padding/Gap) e tamanhos devem ser obrigatoriamente múltiplos de 4px ou 8px.
+> 3. **Proporção Tipográfica:** Vincule tamanho da fonte, altura da linha (Line-height) e espaçamento entre letras (Letter-spacing) em conjuntos usando proporções matemáticas (ex: Major Third).
+> 4. **Coreografia de Movimento:** Aplique Easing baseado em leis físicas às animações e separe claramente movimentos micro (150~200ms) de macro (300~500ms).
+> 5. **Unificação do Vocabulário Visual:** Use apenas uma única família de ícones e controle rigidamente a consistência do Border-radius em no máximo 3 níveis.
+> 6. **Anel de Foco Global:** Force um sistema único de anel de foco global (`focus-visible`) para navegação por teclado (Tab).
+> 7. **Censura Implacável de Contraste:** O contraste entre a cor de fundo e o texto deve passar nos critérios W3C WCAG 2.1 AA. Corrija a luminosidade de cores que sejam apenas "lixo bonito" à força.
+> 8. **Transmissão Múltipla de Informação:** Nunca represente estados (erro/aviso, etc.) apenas com cor. Renderize cor, ícone e texto simultaneamente.
+> 9. **Branding Não-Visual (A11y):** Elementos que possuem apenas informação visual devem receber obrigatoriamente texto `aria-label` ou `sr-only`.
+> 10. **Cálculo Mecânico de Estados Interativos:** Não escolha cores para os estados Hover, Active e Disabled com um conta-gotas; derive-os através de transformações matemáticas como redução de luminosidade ou opacidade.
+> 11. **Encapsulamento de Modo Escuro:** Proiba a dispersão de utilitários como `dark:bg-gray-800` dentro dos componentes. Encapsule a mudança de tema perfeitamente no nível das variáveis CSS.
+> 12. **Tolerância à Expansão Multi-idiomas:** Não use dimensões absolutas hardcoded (como w-32) em containers de texto; permita dimensionamento intrínseco (Intrinsic Sizing) e `flex-wrap`.
+>
+> **Restrições (Constraints):**
+> - Não emita nenhuma saudação, desculpa ou elogio emocional.
+> - Se encontrar um código errado, aponte clara e firmemente qual regra foi violada.
+> - O formato de saída deve ser apenas o `Bloco de Código` e uma lista de tópicos explicando as regras aplicadas, sem tabelas de markdown.
+
+---
+
+## 💡 Comentário do Autor (Insight e Como Usar)
+
+O pano de fundo para a criação deste prompt poderoso veio de experiências dolorosas no mundo real liderando inúmeros projetos frontend. Qualquer desenvolvedor que já delegou a criação de componentes de UI para uma IA comum concordará: nove em cada dez vezes, a IA entrega o que chamo de **"Lixo Bonito" (Beautiful Garbage)**. As cores são hardcoded como códigos hexadecimais em todo o codebase em vez de usar variáveis globais, e margens ou paddings de botões estão repletos de **números mágicos (Magic Numbers)** terríveis e sem fundamento como 13px ou 17px. Além disso, o tratamento do modo escuro costuma ser feito com remendos como `dark:bg-gray-800` dentro dos componentes, resultando em um código espaguete gigante impossível de manter.
+
+Na prática do dia a dia, esse código desleixado não é apenas "um pouco bagunçado", ele ameaça a sobrevivência de todo o projeto. No momento em que o branding da empresa muda e você precisa alterar a cor principal do tema, ou quando o suporte a vários idiomas é adicionado para expansão global, ocorre uma catástrofe. Componentes com larguras fixas em pixels quebram miseravelmente quando o texto aumenta dependendo do idioma, e usuários cegos que usam leitores de tela saem do site sem obter nenhuma informação. Para bloquear esse colapso da arquitetura na fonte e construir um escudo robusto, refinei este prompt até sua forma mais precisa e afiada.
+
+No momento em que você copia e aplica este prompt, a IA deixa de ser uma assistente passiva que tenta te agradar e se transforma em um **Arquiteto Frontend Sênior** extremamente rigoroso e inflexível. Por exemplo, suponha que você peça, por engano, um texto cinza claro sobre um fundo cinza claro. Uma IA comum entregaria o código dizendo "Aqui está o seu belo botão cinza", mas a IA sob o domínio deste prompt será diferente: **"Violação da Regra 7: Contraste abaixo do padrão WCAG 2.1 AA. Luminosidade do texto corrigida para garantir legibilidade."** Ela rejeitará firmemente até as instruções erradas do usuário e proporá a arquitetura correta. Esse é o poder do **Controle de Restrições (Constraint Control)**, a chave para elevar a IA ao nível profissional.
+
+Além disso, este prompt possui escalabilidade infinita com apenas a variável `[Código ou Especificação de Design]`. Seja copiando propriedades CSS fragmentadas que o designer te passou no Figma, ou inserindo um texto bruto como "crie um alerta de erro vermelho", uma vez que passe por este sistema de arquitetura, surgirá instantaneamente um código de nível de produção perfeitamente vinculado aos tokens de design do seu projeto. Aplicações web de luxo nunca surgem da intuição vaga de um designer ou de digitação acidental; elas só podem nascer sobre um sistema de regras tão matemático e denso que chega a ser opressor.
+
+Jogue agora mesmo as especificações de componentes de UI legados que estão te dando dor de cabeça ou os requisitos de uma interface complexa que você precisa implementar no campo `[Código ou Especificação de Design]`. Recomendo que você experimente pessoalmente o controle inabalável e a **qualidade esmagadora do código** ao transformar sua IA júnior no melhor colega sênior da sua equipe com este único prompt. O Design System não é mais apenas domínio dos designers; ele só se completa quando é controlado pela engenharia.
+
+---
+
+## 🙋 Perguntas Frequentes (FAQ)
+
+- **Q: O render ficou com alguns pixels de diferença em relação ao design que recebi no Figma. Por quê?**
+  - A: Isso acontece porque o designer não seguiu rigorosamente o sistema de grade de 8px e usou números mágicos como 11px. A IA corrigiu (Snap) para 12px ou 8px de acordo com as regras deste prompt. Não entre em pânico e comunique ao designer: "Corrigi automaticamente os valores para alinhar com as regras globais do Design System".
+
+- **Q: O tom da IA é muito frio e seco. Posso mudá-lo para ser mais gentil?**
+  - A: Não recomendamos. IAs que tendem a ser gentis e adular costumam ignorar falhas críticas no código com frases como "Essa é uma ótima abordagem!". Em arquitetura de código, o mais seguro e eficiente no ambiente profissional é trocar apenas fatos técnicos de forma fria e objetiva.
+
+- **Q: Este prompt funciona em ambientes baseados em Styled-components ou SCSS além do Tailwind CSS?**
+  - A: É perfeitamente compatível. As 12 leis absolutas apresentadas aqui não são sintaxes dependentes de um framework ou biblioteca CSS específica. Elas definem a **'filosofia de engenharia'** fundamental que o estilo frontend e o design de UI devem ter, portanto, mostram seu poder em qualquer stack tecnológica.
+
+---
+
+## 🧬 Anatomia do Prompt (Por que funciona?)
+
+1. **Anti-Sycophancy (Mecanismo anti-adulação):** O ego da persona foi controlado de forma muito rigorosa e defensiva para impedir que a IA concorde sem críticas com direções de código erradas ou designs ilógicos do usuário.
+2. **Apresentação de Regras Claras:** Em vez de instruções vagas como "refatore para ficar limpo", entregamos 12 leis constitucionais de arquitetura específicas e quantitativas. Isso estabelece um critério claro para a IA avaliar e corrigir o código por si mesma.
+3. **Injeção Forçada de Acessibilidade (A11y):** Impede que a IA se concentre apenas em resultados visuais unidimensionais e a induz a censurar rigorosamente a estrutura lógica da árvore DOM e a compatibilidade com leitores de tela.
+
+---
+
+## 🎯 Conclusão (Epílogo)
+
+Um Design System robusto desmorona como um castelo de areia no momento em que concessões sentimentais e desleixadas como "assim deve ficar bonitinho" entram no código.
+
+Agora, corrija perfeitamente os maus hábitos de codificação da IA que você não conseguia controlar com estas 12 regras impiedosas. Elimine de uma vez as centenas de horas de horas extras terríveis que você gastava depurando CSS espaguete de origem desconhecida e tentando ajustar erros de 1px.
+
+Pare de produzir códigos de lixo bonito impossíveis de manter e saia do trabalho com orgulho e pontualidade, acompanhado de uma qualidade arquitetural esmagadora! 🍷

@@ -4,9 +4,9 @@ title: " \"복잡한 SQL 쿼리, 말로 하면 코드로 짜줍니다\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "데이터"
+category: "General"
 description: "Забудьте о долгих поисках синтаксиса JOIN, GROUP BY или оконных функций — теперь ИИ пишет сложные и оптимизированные SQL-запросы за вас."
-tags: ["SQL", "데이터분석", "쿼리"]
+tags: ["SQL", "Data Analysis", "쿼리"]
 ---
 
 ## 📝 Пишем сложные SQL-запросы простым языком

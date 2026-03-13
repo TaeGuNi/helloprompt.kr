@@ -4,7 +4,7 @@ title: "🔥 A Constituição Absoluta de Arquitetura RDBMS para Destruir as Bob
 author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "AI 프롬프트"
+category: "General"
 description: "Diretrizes RDBMS implacáveis de um Engenheiro Backend Sênior para impedir que a IA crie bancos de dados espaguete."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "rdbms-architecture"]
 ---

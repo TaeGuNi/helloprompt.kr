@@ -4,7 +4,7 @@ title: "💌 Cold-E-Mail-Prompt für Promi-Anfragen, den selbst Nick Jonas anneh
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "마케팅 자동화"
+category: "General"
 description: "Schluss mit langweiligen Angeboten und 0 % Antwortrate! Entdecken Sie den perfekten Cold-E-Mail-Prompt, der das Management von Weltstars sofort überzeugt."
 tags: ["prompt-engineering", "ai-agent", "nick-jonas"]
 image: "/images/hooks/nick-jonas-influencer-pitch-prompt.jpg"

@@ -4,9 +4,9 @@ title: " \"루틴 관리: 작심삼일 타파하는 습관 추적기(Habit Track
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "자기계발/생산성"
+category: "General"
 description: "意志の弱さは科学で解決できます。脳科学と行動心理学を応用し、AIを使って絶対に挫折しないルーティンを設計する方法をご紹介します。"
-tags: ["습관", "루틴", "갓생", "ChatGPT", "Notion"]
+tags: ["Habit", "Routine", "갓생", "ChatGPT", "Notion"]
 ---
 
 ## 📅 ルーティン管理：三日坊主を打破する習慣トラッカー (Habit Tracker)

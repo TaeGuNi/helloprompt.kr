@@ -4,7 +4,7 @@ title: "💌 Промпт для холодного письма по привл
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "마케팅 자동화"
+category: "General"
 description: "Забудьте о банальных рассылках с нулевым откликом! Раскрываем AI-промпт для холодных писем, который покорит VIP-селебрити и мировых поп-звезд."
 tags: ["prompt-engineering", "ai-agent", "nick-jonas"]
 image: "/images/hooks/nick-jonas-influencer-pitch-prompt.jpg"

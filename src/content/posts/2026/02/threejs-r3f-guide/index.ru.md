@@ -4,9 +4,9 @@ title: " \"Three.js 3D 웹사이트: 개발자 없이 만드는 화려한 인터
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "개발/코딩"
+category: "General"
 description: "Хотите добавить 3D-модель на сайт? Практическое руководство по быстрому созданию потрясающего 3D-интерактива с помощью React Three Fiber (R3F) и ИИ."
-tags: ["Three.js", "R3F", "3D웹", "React", "프론트엔드"]
+tags: ["Three.js", "R3F", "3D웹", "React", "Frontend"]
 ---
 
 ## 🧊 3D-сайты на Three.js: Потрясающий интерактив без разработчиков

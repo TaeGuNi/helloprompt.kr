@@ -4,7 +4,7 @@ title: "💀 Сбей спесь с ИИ: хардкорный чит-код, ч
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Промпт-конституция от Senior-инженера: как усмирить галлюцинирующий ИИ и заставить его самостоятельно признаваться в потенциальных багах кода."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "epistemic-humility"]
 ---

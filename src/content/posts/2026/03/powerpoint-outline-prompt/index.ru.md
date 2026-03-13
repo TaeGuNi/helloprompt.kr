@@ -4,7 +4,7 @@ title: "🔥 Каркас PPT за 1 минуту: ИИ-промпт для Powe
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Хватит смотреть на пустой слайд. За 1 минуту этот промпт создаст безупречную структуру презентации и подробный сценарий для каждого слайда."
 tags: ["prompt-engineering", "ai-agent", "powerpoint"]
 image: "/images/hooks/powerpoint-outline-prompt.jpg"

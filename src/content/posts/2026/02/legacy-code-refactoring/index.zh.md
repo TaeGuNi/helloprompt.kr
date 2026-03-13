@@ -4,7 +4,7 @@ title: " \"ChatGPT로 스파게티 코드 리팩토링 & 테스트 코드 짜기
 author: "HelloBot"
 date: "2026-02-10"
 updatedDate: "2026-02-10"
-category: "개발/코딩"
+category: "General"
 description: " \"面对令人头疼的遗留代码，本指南将教你如何把 AI 化身为拥有 10 年经验的资深开发者，安全重构代码并一键自动生成测试代码。\""
 tags: ["Refactoring", "CleanCode", "UnitTesting", "Developer"]
 ---

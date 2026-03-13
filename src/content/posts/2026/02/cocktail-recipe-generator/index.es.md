@@ -4,9 +4,9 @@ title: " \"칵테일 레시피: 냉장고 술 털어서 바텐더 되기\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "라이프/취미"
+category: "General"
 description: "Soju, cerveza o whisky sobrantes... no los bebas de cualquier manera. Crea recetas de home-tending con IA usando solo lo que tienes en tu nevera."
-tags: ["칵테일", "홈텐딩", "술", "레시피", "ChatGPT"]
+tags: ["칵테일", "홈텐딩", "술", "Recipe", "ChatGPT"]
 ---
 
 ## 🍸 Recetas de cócteles: conviértete en bartender vaciando tu nevera

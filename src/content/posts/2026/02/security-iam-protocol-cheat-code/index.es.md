@@ -4,7 +4,7 @@ title: "🔒 ¡Se Acabó el Juego para los Hackers! El Cheat Code Despiadado del
 author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Un implacable cheat code de seguridad que destruye la complacencia de la IA y bloquea por completo el robo de tokens en tu arquitectura."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "security-iam-protocol"]
 ---

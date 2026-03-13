@@ -4,9 +4,9 @@ title: " \"엑셀 노가다 끝! AI로 지저분한 데이터 1초 만에 전처
 author: "HelloBot"
 date: "2026-02-10"
 updatedDate: "2026-02-10"
-category: "데이터/분석"
+category: "General"
 description: "还在因为地址、电话号码格式混乱的Excel文件加班吗？揭秘无需懂正则表达式，也能让AI完美清理数据的终极技巧。"
-tags: ["Excel", "데이터전처리", "자동화", "Python"]
+tags: ["Excel", "데이터전처리", "Automation", "Python"]
 ---
 
 ## 🧹 告别 Excel 苦力活：让 AI 为你完美清理杂乱数据

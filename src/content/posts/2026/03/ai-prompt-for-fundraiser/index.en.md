@@ -4,7 +4,7 @@ title: "💸 The Magic Fundraiser Prompt to Fill an Empty Balance"
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "A highly practical AI prompt that generates compelling fundraising emails and campaign copy to naturally open donors' wallets in just under a minute."
 tags: ["prompt-engineering", "ai-agent", "fundraiser"]
 ---

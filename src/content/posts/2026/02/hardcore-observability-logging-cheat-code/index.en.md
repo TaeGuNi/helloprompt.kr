@@ -4,7 +4,7 @@ title: "💀 Eradicating AI Bullshit: The Hardcore Observability Cheat Code"
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "프롬프트 엔지니어링"
+category: "General"
 description: "A master prompt that eliminates AI sycophancy and rogue console.logs, instantly enforcing senior-level system observability and structured logging."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "observability-logging-protocol"]
 ---

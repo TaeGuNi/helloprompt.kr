@@ -4,9 +4,9 @@ title: " \"스타트업 IR 피치덱: 투자자 30초 컷 시키는 스토리텔
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "창업/기획"
+category: "General"
 description: "Difficoltà a spiegare la tua idea? Ecco il prompt definitivo per creare un pitch deck in stile Silicon Valley capace di conquistare gli investitori."
-tags: ["스타트업", "IR", "피치덱", "투자유치", "발표"]
+tags: ["Startup", "IR", "피치덱", "투자유치", "발표"]
 ---
 
 ## 🎤 Pitch Deck per Startup: Lo Storytelling per Conquistare gli Investitori in 30 Secondi

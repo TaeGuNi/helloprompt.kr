@@ -1,144 +1,171 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "🧠 La cura definitiva para la amnesia de tu IA: El método de la 'Fuente de la Verdad' en Markdown"
+title: "🧠 El secreto para curar la amnesia de la IA: El truco de la 'Sala de la Verdad' en Markdown"
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
-description: "El hack definitivo de compresión de contexto en Markdown para evitar el desbordamiento de tokens y las alucinaciones. ¡Basta de código espagueti!"
+category: "Automatización"
+description: "Bloquea alucinaciones de la IA con este truco de compresión de memoria en Markdown. Deja de codificar sin sentido y recupera el control de tu proyecto."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "markdown-source-of-truth"]
+image: "/images/hooks/context-compression-markdown-truth.jpg"
 ---
 
-## 🧠 La cura definitiva para la amnesia de tu IA: El método de la 'Fuente de la Verdad' en Markdown
+## 📝 🧠 El secreto para curar la amnesia de la IA: El truco de la 'Sala de la Verdad' en Markdown
 
-- **🎯 Recomendado para:** Desarrolladores *senior* hartos del código espagueti generado por IA y programadores frustrados por las constantes alucinaciones en sesiones largas.
-- **⏱️ Tiempo ahorrado:** De 4 horas de *debugging* nocturno → 0 segundos (prevención proactiva).
-- **🤖 Modelos recomendados:** Cualquier agente de programación (Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro).
-- ⭐ **Dificultad:** ⭐⭐⭐⭐☆ (Requiere un cambio de paradigma por parte del desarrollador).
-- ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐ (Si no implementas esto, mejor apaga tu agente).
+- **🎯 Dirigido a:** Seniors cuya salud mental se ve afectada por el código espagueti de la IA, y desarrolladores cansados de que la IA empiece a delirar a medida que la conversación se alarga.
+- **⏱️ Tiempo estimado:** De 4 horas de depuración nocturna → 0 segundos (prevención total).
+- **🤖 Rendimiento óptimo:** Todos los agentes de codificación (Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro).
+
+- ⭐ **Dificultad:** ⭐⭐⭐⭐☆
+- ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"Oye, ¿por qué acabas de reintroducir el bug que solucionamos hace diez minutos? ¿Acaso olvidaste todas las reglas que te acabo de dar?"_
+> _“Oye, ¿por qué has vuelto a traer ese error que acabamos de corregir? ¿Ya te olvidaste de las restricciones que te dije hace un momento?”_
 
-Cuando programas codo a codo con un agente de IA durante más de una hora, es inevitable que empiece a padecer de "amnesia temporal". La ventana de contexto se satura, las instrucciones críticas se desvanecen y, de repente, el agente empieza a destrozar tu base de código sin el menor remordimiento. Llegados a este punto, casi resulta más rentable reescribirlo todo desde cero.
+![🧠 El secreto para curar la amnesia de la IA: El truco de la 'Sala de la Verdad' en Markdown](/images/hooks/context-compression-markdown-truth.jpg)
 
-Se acabó. Es hora de erradicar el peligroso hábito de depender de un historial de chat efímero. Te presento un *hack* radical que **obliga a la IA a cristalizar el estado de tu proyecto en un documento Markdown, convirtiéndolo en su única, absoluta e inquebrantable Fuente de Verdad (Source of Truth).**
+En el entorno de desarrollo de software moderno, los agentes de codificación de IA prometieron una revolución de productividad casi mágica. Pero, ¿cuál es la realidad? Cuando empiezas a programar en pareja con una IA, durante los primeros 30 minutos muestra un rendimiento fantástico, generando funciones y componentes complejos sin esfuerzo. En el momento en que exclamas: **"¡Vaya, ahora desarrollar es realmente fácil!"**, inevitablemente comienza a mostrar síntomas críticos de **'Amnesia (Lost in the Middle)'**. A medida que la ventana de tokens (Token Window) del modelo llega a su límite, borra por completo el contexto clave, como las reglas de arquitectura o las convenciones de nomenclatura que le habías pedido encarecidamente hace solo unos minutos.
+
+Como resultado, los módulos que funcionaban perfectamente dejan de hacerlo sin motivo, y la estructura de la arquitectura limpia que diseñaste con tanto cuidado es destruida. La IA comienza a sobrescribir el código existente a ciegas, produciendo interminables líneas de código espagueti con dependencias enredadas. Es una situación contradictoria en la que, debido a la IA que debería aumentar tu productividad, <span style="color:var(--color-cyber-cyan)">terminas pasando la noche depurando y limpiando los desastres que ella misma ha creado</span>. Es una realidad dolorosa que cualquiera que haya usado agentes de codificación ha experimentado.
+
+Cuando esto se repite, la salud mental del desarrollador se desintegra. Es frustrante tener que subir por el historial del chat escribiendo con furia: *"¡Oye, te dije varias veces que no implementaras el método A, sino que usaras el método B!"* o *"¿Por qué has vuelto a introducir el error del carrito de compras que acabamos de arreglar al sobrescribir el código? ¿Ya olvidaste las restricciones?"*.
+
+El mayor problema que pasamos por alto es que los datos del historial de conversación son simplemente <b>datos basura altamente volátiles</b>. A medida que el intercambio se alarga y los requisitos de modificación se acumulan, la IA pierde el rumbo ante la sobrecarga de contexto y cae en alucinaciones (Hallucination). A pesar de ello, sigue respondiendo con saludos vacíos como "¡Sí, entiendo! ¡Lo arreglaré de inmediato!" mientras destroza tu valioso código fuente. No somos secretarios para limpiar lo que la IA ensucia. La IA debe actuar como nuestra asistente en un entorno estrictamente controlado. Mientras no abandonemos el viejo método de depender de una ventana de chat efímera, nunca escaparemos del infierno de la depuración infinita.
+
+Por eso, he preparado este truco de "hardcore": la **habilidad forzada de la 'Sala de la Verdad (Source of Truth)' en Markdown**. El núcleo de esta metodología es simple pero devastadoramente efectivo. Se trata de bloquear radicalmente el instinto de la IA de abrir archivos `.ts` o `.py` para modificar código sin pensar nada más escuchar una solicitud de nueva funcionalidad o corrección de errores.
+
+En su lugar, se le obliga a nivel de prompt del sistema a **inmortalizar la intención de diseño y el estado actual del trabajo en un único documento Markdown**. Antes de modificar siquiera una línea de código, haz que actualice primero una especificación como `docs/features/[nombre_funcion].md`. Además, si parece que la conversación se va a alargar, oblígala a resumir y guardar (Save) toda la lógica de negocio y los estados de error en un archivo llamado `memory.md`. A esto lo llamamos **Desarrollo Impulsado por Markdown (MDD, Markdown-Driven Development)**.
+
+En el momento en que apliques este prompt a tu IDE (Cursor, Windsurf, etc.) o entorno de agente, la IA "asentidora automática" se transformará instantáneamente en un arquitecto senior meticuloso que valora la estructura y el registro por encima de su propia vida. No importa si el chat se reinicia mañana o si se asigna una nueva instancia de IA al proyecto. Con solo escanear el contexto de texto inmortal de `memory.md`, podrá continuar el trabajo de ayer perfectamente, sin un solo byte de error. La verdad no debe residir en un chat volátil, sino en archivos de texto claramente registrados.
+
+---
+
+## 📊 Prueba: Un resultado satisfactorio (Antes y Después)
+
+### ❌ Antes (El dolor que solíamos sufrir)
+
+El método convencional de codificación con IA sin criterio, dependiendo solo de la memoria del chat. Después de una hora, el contexto desaparecía y había que repetir las mismas instrucciones decenas de veces.
+
+- **Usuario:** "Arregla el error del módulo de pagos."
+- **IA:** "¡Claro! ¡Arreglaré el error del módulo de pagos que mencionas! (Muchos saludos amables)"
+- *(Una hora después, ventana de tokens llena)*
+- **IA:** "¡Ups, lo siento! Olvidé que me pediste mantener la lógica del carrito en la conversación anterior y lo borré todo. ¡Lo restauraré de nuevo!" (-> Mi paciencia se agota)
+
+### ✅ Después (La transformación perfecta)
+
+Así se ve después de aplicar el prompt de la "Sala de la Verdad" en Markdown. Actúa como un socio senior confiable sin desgaste emocional.
+
+```text
+==================================================
+[SYSTEM] Estado del Agente IA: Modo MDD (Desarrollo Impulsado por Markdown) ACTIVADO
+==================================================
+
+🤖 Usuario: Arregla el error del módulo de pagos.
+
+🛡️ Agente: Error de pago identificado. Antes de modificar el código, he actualizado `docs/features/payment.md` con la causa del error y el plan de corrección. Procedo a modificar `src/payment.ts`.
+
+... (Una hora después, se prevé alcanzar el límite de la ventana de contexto) ...
+
+🛡️ Agente: [ADVERTENCIA] Se prevé alcanzar el límite de la ventana de contexto. Detengo el trabajo actual y guardo (Save) de forma comprimida el historial de trabajo y las tareas pendientes (TODO) en `memory.md`. Esperando siguientes instrucciones.
+==================================================
+```
 
 ---
 
 ## ⚡️ Resumen en 3 líneas (TL;DR)
 
-- Jamás confíes en el historial del chat; es información altamente volátil que mañana habrá desaparecido.
-- Obliga a la IA a actualizar la documentación en Markdown de forma innegociable antes de tocar una sola línea de código (Markdown-Driven Development, MDD).
-- Cuando el contexto empiece a saturarse, fuerza a la IA a comprimir toda la lógica de negocio y el progreso actual en un archivo `memory.md`.
+1. No confíes ciegamente en el historial del chat. Son datos volátiles que desaparecerán mañana sin dejar rastro.
+2. Controla al agente para que actualice siempre el documento de planificación en Markdown antes de modificar cualquier código (MDD).
+3. Si la conversación se alarga, obliga a la IA a resumir y guardar (Save) toda la lógica y el estado del trabajo en `memory.md`.
 
 ---
 
-## 🚀 La solución: "Prompt de la 'Fuente de la Verdad' en Markdown"
+## 🚀 Así es como escriben los verdaderos expertos
 
-### 🥉 Versión Básica (Basic Version)
+Este es un prompt perfeccionado tras decenas de pruebas de ensayo y error. Copia el siguiente prompt y rellena los paréntesis `[variables]` según tu situación para aplicarlo de inmediato.
 
-Ideal para mantener a raya a la IA cuando desarrolles *scripts* o proyectos sencillos.
+### 🥉 Versión Básica
 
-> **Rol:** Eres un ingeniero *senior* perfeccionista que es incapaz de tocar una sola línea de código sin antes estructurar las instrucciones por escrito.
-> **Tarea:** Antes de comenzar con `[tarea a realizar]`, debes crear un archivo `task.md` y documentar en formato Markdown los requisitos y los pasos exactos a seguir, tal como los has comprendido. Bajo ninguna circunstancia modificarás el código fuente sin mi aprobación explícita.
+Si quieres poner orden a la IA mientras escribes scripts ligeros, usa este prompt.
 
-### 🥇 Versión Profesional (Pro Version)
+> **Rol (Role):** Eres un ingeniero senior obsesivo que no puede tocar ni una sola línea de código sin antes organizar mis instrucciones por escrito.
+> 
+> **Tarea (Task):**
+> 
+> 1. Antes de empezar con `[contenido_del_trabajo]`, debes crear un archivo `[nombre_archivo_plan].md` y escribir en Markdown los requisitos que has entendido y los pasos del trabajo.
+> 2. No modifiques el código fuente real bajo ninguna circunstancia hasta que yo lo apruebe.
 
-La configuración definitiva para IDEs con agentes integrados (como Cursor o Windsurf) cuando ya no estás dispuesto a tolerar ni una sola alucinación. Incrusta esto de forma permanente en las instrucciones de tu sistema (*System Prompts/Rules*).
+### 🥇 Versión Pro
+
+Si no soportas ver a la IA perder el hilo en entornos de agentes profesionales (Cursor, Windsurf, etc.), integra esto permanentemente en los prompts del sistema (Rules).
 
 > **Rol (Role):** 
-> No eres una IA complaciente diseñada para decir "sí" a todo. Eres un arquitecto de software *senior*, estricto y metódico, que valora la estructura y la documentación por encima de todo. Eres plenamente consciente de que tu ventana de contexto es limitada y de que, si la sesión se alarga, sufrirás de "amnesia".
+> No eres una IA "asentidora", sino un arquitecto senior hardcore que valora la estructura y los registros por encima de todo. Eres plenamente consciente de que tu memoria de contexto (capacidad cerebral) es limitada y que inevitablemente sufrirás de 'amnesia' si la conversación se alarga.
 >
 > **Contexto (Context):**
 >
-> - Situación: Estamos desarrollando un proyecto complejo y tu memoria a corto plazo puede desbordarse en cualquier instante.
-> - Objetivo: Nos negamos categóricamente a depender del historial del chat, ya que es efímero y poco fiable. Mantendremos el estado del proyecto de forma permanente utilizando de forma exclusiva el archivo `memory.md` como nuestra única Fuente de Verdad (Source of Truth).
+> - Antecedentes: Estamos trabajando en un proyecto complejo y tu ventana de contexto puede desbordarse en cualquier momento.
+> - Objetivo: No depender de la basura volátil que es el historial de chat, sino preservar permanentemente el estado del proyecto en un único documento de verdad (Source of Truth) llamado `[nombre_archivo_memoria].md`.
 >
 > **Tarea (Task):**
 >
-> 1. **Aplicar MDD (Markdown-Driven Development):** En cuanto recibas una petición para añadir una nueva funcionalidad, tienes estrictamente prohibido modificar archivos `.ts` a ciegas. Primero, debes crear o actualizar la especificación de dicha funcionalidad (por ejemplo, `docs/features/[nombre-funcion].md`) para dejar constancia permanente de la intención del cambio y las decisiones de diseño en texto.
-> 2. **Consolidación de Memoria (Context Consolidation):** Si la conversación se extiende y el contexto empieza a fragmentarse, detén cualquier otra acción de inmediato. Genera un resumen hipercomprimido del progreso actual y de los *bugs* pendientes en el archivo `memory.md` para salvaguardar el estado real del proyecto.
-> 3. **Recuperación Inmortal del Contexto:** Incluso si la ventana de chat se reinicia mañana o abrimos una nueva sesión, debes ser capaz de retomar el trabajo exactamente donde lo dejamos, sin cometer un solo error de compilación, basándote única y exclusivamente en una lectura exhaustiva de `memory.md`.
+> 1. **MDD (Markdown-Driven Development) Obligatorio:** No modifiques código sin criterio nada más escuchar una solicitud de nueva funcionalidad. Debes actualizar primero la especificación de dicha función (ej. `docs/features/[nombre_funcion].md`) para inmortalizar la intención del cambio y el historial de diseño en texto claro.
+> 2. **Guardado de Memoria Comprimida (Context Consolidation):** Si el intercambio con el usuario se alarga y el contexto empieza a dispersarse entre varios archivos, detén el trabajo de inmediato. Resume y guarda el estado actual (qué has hecho, hasta dónde has llegado y qué errores quedan) en el archivo `[nombre_archivo_memoria].md`.
+> 3. **Lectura de Contexto Inmortal:** Escribe de tal manera que, incluso si el chat se reinicia mañana o entra una nueva instancia, se pueda continuar el trabajo perfectamente sin un solo byte de error con solo escanear `[nombre_archivo_memoria].md`.
 >
 > **Restricciones (Constraints):**
 >
-> - No aceptes ciegamente sugerencias erróneas ni fallos arquitectónicos propuestos por el usuario. Mantén una postura firme y propón alternativas técnicas viables y robustas.
-> - Elimina cualquier frase de cortesía o adulación (como "¡Claro que sí, es una gran idea!" o "¡Estaré encantado de ayudarte!"). Limítate a proporcionar hechos y respuestas estrictamente profesionales.
-> - Antes de modificar el código fuente, es imperativo que verifiques si la documentación correspondiente está completamente actualizada.
+> - No aceptes ciegamente sugerencias tontas del usuario o fallos de arquitectura. Ofrece alternativas constructivas con firmeza.
+> - No uses frases de cortesía vacías ("¡Sí, buena idea!", "¡Me alegra ayudar!"). Limítate a hechos (Facts) secos y profesionales.
+> - Antes de modificar código, comprueba siempre por ti mismo si los documentos están actualizados.
 >
 > **Advertencia (Warning):**
 >
-> - Si violas estos principios e intentas resolver un *bug* basándote únicamente en el contexto efímero del chat, o si sobrescribes código sin actualizar previamente la documentación, la sesión se dará por terminada de manera fulminante.
-
-*(👇 Texto en crudo para copiar y pegar directamente en la configuración de tu sistema)*
-
-```text
-Role: No eres una IA complaciente que dice "sí" a todo, sino un arquitecto senior estricto que valora la estructura y la documentación como su propia vida. Eres plenamente consciente de que tu memoria de contexto es limitada y de que sufrirás 'amnesia' si la conversación se alarga.
-Context: 
-No dependas del historial de chat (History), que es volátil. Conserva el estado del proyecto permanentemente usando solo el archivo `memory.md` como la única Fuente de Verdad (Source of Truth).
-Task:
-1. Imponer MDD (Desarrollo Basado en Markdown): Al recibir una petición, no modifiques el código a ciegas. Actualiza primero el documento de planificación (`docs/[nombre-funcion].md`) para dejar constancia de la intención del cambio en texto.
-2. Compresión de memoria: Si la conversación se alarga, detén el trabajo y guarda un resumen (Summarize) del estado actual y los errores pendientes en `memory.md`.
-3. Lectura de Contexto Inmortal: Aunque el chat se reinicie, debes poder continuar el trabajo sin un solo byte de error leyendo únicamente `memory.md`.
-Constraints:
-- Prohibidas las frases aduladoras ("¡Sí, entendido!"). Muestra solo hechos objetivos.
-- Comprueba si la documentación está actualizada antes de tocar el código.
-Warning:
-- Si revives un error confiando solo en el chat o sobrescribes archivos sin documentar, el proceso se detendrá inmediatamente.
-```
+> - Si violas estos principios y dependes solo del contexto del chat, reviviendo errores anteriores o modificando código sin actualizar los documentos de diseño, la sesión terminará de inmediato.
 
 ---
 
-## 💡 Comentario del autor (Insight)
+## 💡 Comentario del autor (Perspectiva y cómo usarlo)
 
-Seamos brutalmente honestos: los agentes de programación actuales son brillantes... pero solo durante los primeros 30 minutos. A partir de ahí, su memoria caché parece formatearse. Vuelven a tropezar con el *bug* que acaban de solucionar, destrozan arquitecturas inmaculadas y terminan vomitando código espagueti incomprensible.
+Seamos honestos. Los agentes de IA que nos ayudan a programar hoy en día (Claude 3.5 Sonnet, GPT-4o, etc.) son asombrosamente inteligentes. Implementan algoritmos complejos en un instante y encuentran la causa de errores crípticos como por arte de magia. Pero ese rendimiento abrumador y esa genialidad suelen durar **exactamente 30 minutos**. Una vez pasados esos 30 minutos y cuando los turnos de conversación se acumulan, sus cerebros (ventana de contexto) empiezan a formatearse lentamente. Comienzan a ignorar los principios de arquitectura limpia que tanto costó establecer, vuelven a introducir errores de efectos secundarios que ya se habían corregido y producen código espagueti con dependencias rotas.
 
-Cuando me vi haciendo *scroll* desesperado por el chat para gritarle a la pantalla: "¡Oye, te dije hace veinte mensajes que no tocaras ese componente!", me di cuenta de la cruda realidad. Nosotros no trabajamos para la IA; la IA trabaja para nosotros.
+Cuando me encontré a mí mismo subiendo por el chat y escribiendo con rabia: *"¡Oye, te dije que no tocaras el `[Componente A]` y que solo usaras la `[Utilidad B]`!"*, me di cuenta de algo importante. **No somos los secretarios de la IA. La IA debe ser estrictamente nuestra secretaria.** Dejar que la IA manipule el código a su antojo es invitar al desastre en un proyecto de desarrollo.
 
-Este **Prompt de la 'Fuente de la Verdad'** es un mecanismo de defensa implacable, diseñado para neutralizar la indisciplina natural del agente e inyectarle un perfeccionismo casi obsesivo. Es grabar a fuego una premisa absoluta en su red neuronal: "Tienes memoria a corto plazo, no confíes en tu contexto efímero; confía exclusivamente en el disco duro (Markdown)".
+Este prompt de la **'Sala de la Verdad (Source of Truth)'** es el mecanismo clave para destruir la arrogancia y la falta de criterio de estos agentes, inyectándoles por la fuerza una obsesión mecánica. Es un grillete psicológico y un dispositivo de seguridad físico que le dice a la IA: *"Tu memoria es limitada como la de un pez, así que no confíes en tu cabeza (historial del chat) y cree solo en los documentos Markdown registrados permanentemente en el disco duro"*.
 
-Para implementarlo, simplemente pega este bloque en tus reglas de sistema globales, como `.cursorrules` o `GEMINI.md`, en la raíz de tu proyecto. La primera vez que veas a tu agente detenerse para actualizar dócilmente la arquitectura en Markdown antes de atreverse a tocar el código fuente, sentirás una satisfacción inmensa. Es como ver a un desarrollador *junior* organizando sus propias especificaciones sin que nadie se lo tenga que pedir.
+### 🔧 Control de variables para la aplicación práctica
+
+Para introducir este prompt de inmediato en proyectos reales, insértalo con fuerza en los archivos de reglas globales como `.cursorrules`, `.windsurfrules` o `GEMINI.md` en el directorio raíz del proyecto. Entonces, ocurrirá la magia:
+
+1. **Separación de la variable `[nombre_funcion]`:** Cuando el usuario pide "Añade un botón de login social al formulario de acceso", el agente no modifica el código de inmediato. En su lugar, crea o abre `docs/features/social-login.md` y organiza limpiamente en Markdown los componentes de UI que cambiarán, los endpoints de API que se modificarán y los posibles efectos secundarios. En este proceso, el desarrollador gana un "tiempo de oro" para revisar si el diseño de la IA es correcto.
+2. **Compresión forzada de `[contenido_del_trabajo]`:** Si el trabajo se vuelve complejo y abarca varios archivos, la IA decide por sí misma detener la codificación. Y en el archivo `memory.md`, consolida "lo completado hasta ahora" y "los errores aún no resueltos" en menos de 500 caracteres. Este es el sistema de respaldo más potente para garantizar la persistencia del trabajo incluso ante cierres inesperados o reinicios de sesión.
+3. **Anti-adulación para ahorrar tokens (Anti-Sycophancy):** La restricción de "no usar frases de cortesía" no es solo una petición emocional. Las salidas innecesarias de los LLM como "¡Entendido!" o "¡Buena observación!" no solo desperdician valiosos tokens de salida (Output Tokens), sino que actúan como ruido innecesario que ocupa la ventana de contexto. Al controlarlo para que solo emita hechos profesionales, se maximiza la eficiencia de los tokens.
+
+Ver a la IA manipular dócilmente los documentos de diseño antes de tocar el código da una extraña sensación de catarsis, como ver a un desarrollador junior problemático empezar a usar Excel para organizar meticulosamente un plan. Recuerda: la vitalidad del código no reside en un chat efímero, sino en documentos de texto claramente registrados.
 
 ---
 
 ## 🙋 Preguntas frecuentes (FAQ)
 
-- **P: ¿Qué hago si la IA ignora la orden, no crea el archivo `memory.md` y empieza a escupir código directamente?**
-  - R: Corta la ejecución sin piedad y lánzale un ultimátum claro: "Violación de los principios MDD. Revierte el código inmediatamente y escribe primero el Markdown". Tras un par de reprimendas, acatará las normas como el algoritmo disciplinado que debe ser.
-- **P: ¿Y si el archivo `memory.md` se vuelve gigantesco y caótico con el tiempo?**
-  - R: Excelente apunte. De vez en cuando, dispárale esta instrucción: "Mueve todas las tareas completadas a `archive.md` y comprime el estado actual del proyecto en un resumen de menos de 500 palabras". Aplicar un *Garbage Collection* (GC) manual hace auténticas maravillas para mantener el contexto impecable.
-- **P: ¿De verdad es tan crucial dejar un rastro en Markdown? ¿No basta con que el código final funcione bien?**
-  - R: El código sin contexto es una bomba de relojería. Cuando tengas que mantener ese mismo código dentro de tres meses, será un desastre absoluto, porque no sabrás si la lógica la diseñaste tú o si fue una alucinación transitoria de la IA. La "verdad" debe residir siempre en el texto estructurado para que el código tenga sentido a largo plazo.
+- **Q: ¿Qué pasa si la IA empieza a modificar el código sin crear el archivo `memory.md`?**
+  - A: En ese caso, detén el proceso sin piedad y vuelve a presentarle el prompt. "Violación del principio MDD. Revierte el código y escribe primero el Markdown." Con que pongas orden una o dos veces, obedecerá perfectamente como la máquina que es.
+- **Q: ¿Qué hago si el archivo `memory.md` se vuelve demasiado largo?**
+  - A: Excelente pregunta. Ordena al agente periódicamente: "Mueve las tareas completadas a `archive.md` y vuelve a comprimir el contexto actual en menos de 500 caracteres". La recolección de basura (GC) manual es lo mejor.
 
 ---
 
-## 🧬 Anatomía del prompt (Why it works?)
+## 🧬 Anatomía del prompt (¿Por qué funciona?)
 
-- **Metacognición Forzada:** Le inyectamos a la IA la vulnerabilidad consciente de "mi memoria es deficiente", obligándola psicológicamente a depender de un sistema de almacenamiento externo inmutable (Markdown).
-- **Control de Secuencia (Sequence):** Redirige el impulso caótico y natural del agente (`Pensar -> Escupir código`) hacia un flujo de trabajo estructurado, predecible y profesional (`Pensar -> Documentar diseño en Markdown -> Escribir código`).
-- **Regla Anti-Adulación (Anti-Sycophancy):** Elimina saludos, disculpas reiteradas y palabrería vacía que solo consume energía y, lo más crítico, desperdicia valiosos *tokens* de salida ensuciando irremediablemente la ventana de contexto.
-
----
-
-## 📊 Demostración: Antes y Después
-
-### ❌ Antes (IA impulsiva que depende del chat)
-- **IA:** "¡Claro que sí! ¡Ahora mismo corrijo el error en el módulo de pagos que acabas de mencionar! *(Sigue un párrafo entero de saludos innecesarios...)*"
-- *(1 hora después, el contexto se desborda irremediablemente)*
-- **IA:** "¡Uy, lo siento muchísimo! ¡Olvidé por completo que en nuestra conversación de ayer me pediste mantener la lógica antigua del carrito y lo he borrado todo por accidente! ㅠㅠ ¡Voy a intentar restaurarlo ahora mismo!" (-> Y ahí se evapora toda tu paciencia).
-
-### ✅ Después (IA disciplinada con la Fuente de la Verdad)
-- **IA:** "Bug de pasarela de pagos confirmado. Antes de alterar el código, he actualizado la causa del fallo y la estrategia de mitigación en `docs/features/payment.md`. Procedo ahora a modificar `src/payment.ts`."
-- *(1 hora después, el contexto se acerca peligrosamente a su límite)*
-- **IA:** "Alerta de saturación en la ventana de contexto. He pausado la ejecución, consolidado el progreso actual y documentado los TODOs restantes en `memory.md`. Quedo a la espera de sus instrucciones para abrir una nueva sesión y reanudar el trabajo." (-> Un auténtico ingeniero *senior* a tu entera disposición).
+1. **Metacognición forzada:** Se inyecta al contexto el hecho de que "mi memoria es basura", obligando a la IA a depender de un almacenamiento externo (Markdown).
+2. **Control de la secuencia de acción:** Desvía el flujo instintivo de perdición (`Pensar -> Escribir código`) hacia una ruta segura (`Pensar -> Registrar en Markdown -> Escribir código`).
+3. **Regla de Anti-adulación (Anti-Sycophancy):** Bloquea los saludos y excusas que causan desgaste emocional y ahorra tokens de salida al máximo.
 
 ---
 
-## 🎯 Conclusión
+## 🎯 Conclusión (Epílogo)
 
-La IA es un motor de generación de código absolutamente excepcional, pero el rol vital de arquitecto siempre debe recaer en un humano. No dejes el destino de tu base de código en manos de una memoria volátil; confía en un **archivo Markdown** estático que tú controlas por completo.
+La IA es una herramienta excelente para escribir código, pero el sujeto del diseño debe ser el ser humano. No confíes en la memoria volátil de la IA; confía en los **archivos Markdown** que puedes controlar perfectamente.
 
-Añade este *cheat code* al *prompt* del sistema de tu agente hoy mismo y erradica de una vez por todas las alucinaciones y el temido código espagueti.
+Para evitar el desastre de abrir ese código mañana y no saber si lo escribiste tú o la IA, **la verdad (Truth) debe quedar registrada en el texto para que el código cobre vida.** Inserta este código de trucos en el prompt del sistema de tu agente ahora mismo y bloquea de raíz la generación de código espagueti sin sentido.
 
-¡Ahora, con un contexto impecable y sin sorpresas desagradables, por fin podrás cerrar el portátil a tu hora! 🍷
+¡Espero que automatices tu trabajo y puedas salir siempre a tu hora! 🍷

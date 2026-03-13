@@ -4,7 +4,7 @@ title: "🚨 Zitto e Scrivi il Codice: Il Cheat Code Spietato per Architetti Rea
 author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
-category: "AI 개발"
+category: "General"
 description: "Il cheat code definitivo di un Senior Frontend Developer per bloccare alla radice le allucinazioni e lo spaghetti code dell'IA."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "react-next-architecture"]
 ---

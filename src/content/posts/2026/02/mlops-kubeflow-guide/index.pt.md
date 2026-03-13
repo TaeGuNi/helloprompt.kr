@@ -4,9 +4,9 @@ title: " \"머신러닝 모델 배포: MLOps (Kubeflow) 가이드\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "AI/개발"
+category: "General"
 description: "Chega de IA presa na sua máquina. Transforme códigos isolados do Jupyter Notebook em pipelines de produção robustas com este guia de MLOps."
-tags: ["MLOps", "Kubeflow", "머신러닝", "배포", "파이프라인"]
+tags: ["MLOps", "Kubeflow", "Machine Learning", "배포", "파이프라인"]
 ---
 
 ## 🤖 Implantação de Modelos de Machine Learning: Guia MLOps (Kubeflow) {#kubeflow}

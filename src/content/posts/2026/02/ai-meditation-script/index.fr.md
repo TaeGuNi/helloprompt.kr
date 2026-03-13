@@ -4,9 +4,9 @@ title: " \"명상 가이드: 내 기분에 맞는 명상 스크립트 생성\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "멘탈 케어"
+category: "General"
 description: "Quand le sommeil vous fuit ou que la colère monte, l'IA crée et vous lit un guide de méditation audio sur mesure, adapté à votre émotion du moment."
-tags: ["명상", "마음챙김", "수면", "TTS", "ChatGPT"]
+tags: ["Meditation", "마음챙김", "Sleep", "TTS", "ChatGPT"]
 ---
 
 ## 🧘‍♀️ Guide de Méditation : Créez des Scripts Adaptés à Votre Humeur

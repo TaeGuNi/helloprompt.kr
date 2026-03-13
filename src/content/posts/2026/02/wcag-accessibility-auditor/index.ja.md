@@ -4,7 +4,7 @@ title: " \"WCAG 2.2 웹 접근성 감사(Audit) 봇\""
 author: "Jay"
 date: "2026-02-09"
 updatedDate: "2026-02-09"
-category: "프론트엔드"
+category: "General"
 description: "あなたが書いたコードは、すべての人のためのコードですか？アクセシビリティの標準基準（WCAG）を遵守しているかを自動で検証します。"
 tags: ["Accessibility", "HTML", "WCAG"]
 ---

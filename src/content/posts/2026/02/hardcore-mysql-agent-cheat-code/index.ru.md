@@ -4,7 +4,7 @@ title: "🚨 Чит-код MySQL: Превращаем чат-бота в без
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Промпт для создания безжалостного MySQL-агента: отключаем лесть ИИ, внедряем строгий контроль и предотвращаем случайное уничтожение баз данных."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "mysql"]
 ---

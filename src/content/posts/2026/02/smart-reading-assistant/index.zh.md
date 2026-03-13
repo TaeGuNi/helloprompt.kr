@@ -4,9 +4,9 @@ title: " \"초고속 독서 소화제 (Smart Reading)\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "학습/연구"
+category: "General"
 description: "如何将晦涩难懂的原版书籍、学术论文和官方技术文档的阅读速度瞬间提升三倍，并将其完美转化为你个人的硬核知识资产。"
-tags: ["독서", "요약", "학습", "지식관리"]
+tags: ["Reading", "요약", "Learning", "지식관리"]
 ---
 
 ## 📝 极速阅读消化剂 (Smart Reading) {#smart-reading}

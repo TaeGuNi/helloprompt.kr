@@ -4,7 +4,7 @@ title: " \"영어 회화 롤플레잉: 원어민 과외비 0원으로 만들기\
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "외국어/학습"
+category: "General"
 description: "从星巴克点单到商务闲聊。这是一份通过与 AI 进行实战角色扮演 (Roleplay)，完美克服英语恐惧症的提示词指南。"
 tags: ["영어회화", "ChatGPT", "롤플레잉", "공부", "오픽"]
 ---

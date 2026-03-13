@@ -4,9 +4,9 @@ title: " \"AI로 뒤죽박죽 할 일 목록, 우선순위 정리 끝!\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Fim da dúvida sobre por onde começar. Deixe a IA organizar as suas tarefas estrategicamente por ordem de importância e urgência."
-tags: ["To-Do", "우선순위", "ChatGPT", "생산성"]
+tags: ["To-Do", "우선순위", "ChatGPT", "Productivity"]
 ---
 
 ## 📝 Chega de Listas Bagunçadas: Organize Suas Prioridades com IA!

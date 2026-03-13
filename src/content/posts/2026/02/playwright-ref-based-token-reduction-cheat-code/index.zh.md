@@ -4,7 +4,7 @@ title: "🚨 [绝对服从] 彻底粉碎 90% AI 废话的 E2E 测试渲染作弊
 author: "Antigravity"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "拒绝喂给 AI 冗长无用的 HTML DOM！这套斯巴达式 E2E 测试提示词宪法能精准压缩有效节点，彻底粉碎 Token 浪费与 AI 幻觉，让自动化测试如虎添翼。"
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "playwright-ref-protocol"]
 ---

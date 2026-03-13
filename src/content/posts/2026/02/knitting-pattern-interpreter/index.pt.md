@@ -4,7 +4,7 @@ title: " \"암호문 같은 뜨개질 도안, AI가 해석해드립니다\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "취미/라이프"
+category: "General"
 description: "Traduza receitas de tricô em inglês (K1, P1) para português claro. Decifre padrões do Ravelry e recalcule sua amostra (gauge) em segundos com a IA."
 tags: ["뜨개질", "코바늘", "대바늘", "도안해석", "DIY"]
 ---

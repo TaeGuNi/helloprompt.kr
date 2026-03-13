@@ -4,7 +4,7 @@ title: " \"개발자 번아웃 자가진단: 내가 게으른 걸까, 아픈 걸
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "멘탈 케어"
+category: "General"
 description: "Você suspira só de encostar no teclado? Um prompt para diagnosticar seu estado mental e receber uma prescrição prática baseada no framework MBI."
 tags: ["번아웃", "개발자", "멘탈케어", "심리", "ChatGPT"]
 ---

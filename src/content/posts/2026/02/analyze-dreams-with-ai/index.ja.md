@@ -4,7 +4,7 @@ title: " \"AI로 나의 꿈을 분석하는 방법 (꿈 해몽 프롬프트)\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "재미/흥미"
+category: "General"
 description: " \"昨晩見た奇妙な夢、フロイトの代わりにChatGPTに聞いてみましょう。あなたの無意識を解き明かします。\""
 tags: ["꿈해몽", "심리학", "재미", "ChatGPT"]
 ---

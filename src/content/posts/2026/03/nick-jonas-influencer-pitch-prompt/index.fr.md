@@ -4,7 +4,7 @@ title: "💌 Le prompt de cold email infaillible pour séduire une star mondiale
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "마케팅 자동화"
+category: "General"
 description: "Fini les e-mails ignorés ! Découvrez le prompt parfait pour rédiger un cold email irrésistible et séduire une célébrité mondiale comme Nick Jonas."
 tags: ["prompt-engineering", "ai-agent", "nick-jonas"]
 image: "/images/hooks/nick-jonas-influencer-pitch-prompt.jpg"

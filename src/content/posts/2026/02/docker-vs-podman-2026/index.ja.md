@@ -4,7 +4,7 @@ title: " \"Docker vs Podman: 2026년 컨테이너 승자는?\""
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "DevOps/인프라"
+category: "General"
 description: "Dockerの有料化や重いデーモンプロセスに疲弊した開発者必見！Podmanへの完全移行をAIで瞬時に実現する実践的ガイドとプロンプトを大公開。"
 tags: ["Docker", "Podman", "컨테이너", "DevOps", "서버"]
 ---

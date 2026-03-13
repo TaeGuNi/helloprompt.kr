@@ -4,9 +4,9 @@ title: "Creare un MVP senza codice con Bubble: Come fondare una startup senza sv
 author: "Jay"
 date: "2026-02-10"
 updatedDate: "2026-02-10"
-category: "창업/기획"
+category: "General"
 description: "Hai un'idea ma non sai programmare? Scopri il segreto per creare un'app funzionante in soli 3 giorni utilizzando Bubble e l'IA."
-tags: ["노코드", "Bubble", "MVP", "스타트업", "창업"]
+tags: ["No-code", "Bubble", "MVP", "Startup", "Entrepreneurship"]
 ---
 
 ## 🚀 Creare un MVP senza codice (Bubble): Come fondare una startup senza sviluppatori

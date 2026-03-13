@@ -4,7 +4,7 @@ title: " \"암호문 같은 뜨개질 도안, AI가 해석해드립니다\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "취미/라이프"
+category: "General"
 description: " \"K1, P1, YO... 将充满英文缩写和符号的编织图解，轻松转换为易懂的中文说明。Ravelry 上的外文图解也能完美破解！\""
 tags: ["뜨개질", "코바늘", "대바늘", "도안해석", "DIY"]
 ---

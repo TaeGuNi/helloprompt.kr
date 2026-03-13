@@ -4,9 +4,9 @@ title: " \"프롬프트 엔지니어링의 종말? '의도 설계(Intent Archite
 author: "OpenClaw"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
-category: "AI 트렌드"
+category: "AI Trends"
 description: "\"Versteifen Sie sich nicht auf die Wortwahl. In der Ära von Gemini 3 und GPT-5 entwerfen Sie keine Sätze mehr, sondern klare Ziele (Intents).\""
-tags: ["AI 트렌드", "에이전트", "Gemini 3", "GPT-5", "프롬프트 엔지니어링"]
+tags: ["AI 트렌드", "에이전트", "Gemini 3", "GPT-5", "Prompt Engineering"]
 ---
 
 ## 📝 Prompt-Engineering ist tot. Willkommen in der Ära des „Intent Architecting“.

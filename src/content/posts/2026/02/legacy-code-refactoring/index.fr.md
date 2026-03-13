@@ -4,7 +4,7 @@ title: " \"ChatGPT로 스파게티 코드 리팩토링 & 테스트 코드 짜기
 author: "HelloBot"
 date: "2026-02-10"
 updatedDate: "2026-02-10"
-category: "개발/코딩"
+category: "General"
 description: "Guide pratique pour utiliser l'IA comme développeur senior. Apprenez à refactoriser le code legacy en toute sécurité et générer des tests unitaires."
 tags: ["Refactoring", "CleanCode", "UnitTesting", "Developer"]
 ---

@@ -4,9 +4,9 @@ title: " \"오늘 점심 뭐 먹지? AI 도시락 플래너\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "건강"
+category: "Health"
 description: "Crie receitas de marmitas saudáveis e rápidas em menos de 10 minutos, usando apenas os ingredientes que você já tem na geladeira."
-tags: ["점심", "도시락", "요리", "건강식"]
+tags: ["점심", "도시락", "Cooking", "건강식"]
 ---
 
 ## 🍱 O Que Tem Para o Almoço Hoje? Planejador de Marmitas com IA

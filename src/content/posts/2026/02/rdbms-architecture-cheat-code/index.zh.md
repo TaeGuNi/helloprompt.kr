@@ -4,7 +4,7 @@ title: "🔥 粉碎 AI 胡言乱语的 RDBMS 架构绝对法则 (Cheat Code)"
 author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "AI 프롬프트"
+category: "General"
 description: "资深后端工程师冷酷无情的 RDBMS 架构指南，彻底终结 AI 生成的意大利面条式数据库 Schema。"
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "rdbms-architecture"]
 ---

@@ -4,9 +4,9 @@ title: " \"블로그 글 하나로 인스타, 링크드인까지 (OSMU)\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "콘텐츠 제작"
+category: "Content Creation"
 description: "Ein Master-Prompt für Content Repurposing: Verwandeln Sie einen einzigen Blogartikel mit KI in 5 verschiedene Formate für maximale Reichweite."
-tags: ["콘텐츠마케팅", "인스타그램", "링크드인", "생산성"]
+tags: ["콘텐츠마케팅", "인스타그램", "링크드인", "Productivity"]
 ---
 
 ## 📝 Aus einem Blogpost mach fünf: Der ultimative OSMU-Prompt für Instagram, LinkedIn & Co.

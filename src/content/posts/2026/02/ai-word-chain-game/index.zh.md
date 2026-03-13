@@ -4,7 +4,7 @@ title: " \"AI와 끝말잇기: 절대 질 수 없는 끝말잇기 고수\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "재미/엔터"
+category: "General"
 description: "完美掌控滥用“绝杀词”的AI。本文将为您揭秘打造绝不服输的词语接龙机器人专属提示词与破解策略。"
 tags: ["끝말잇기", "게임", "ChatGPT", "한국어", "놀이"]
 ---

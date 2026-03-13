@@ -4,7 +4,7 @@ title: "🏎️ Fini les casse-têtes avec les formules Excel : Le prompt de niv
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Dites adieu à l'enfer des RECHERCHEV et INDEX EQUIV. Découvrez le prompt ultime qui génère n'importe quelle formule Excel complexe en une seconde chrono."
 tags: ["prompt-engineering", "ai-agent", "formula-1"]
 image: "/images/hooks/formula-1-excel-google-sheets-prompt.jpg"

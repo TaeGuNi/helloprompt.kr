@@ -4,7 +4,7 @@ title: "🚨 Cállate y programa: El cheat code implacable para arquitectos de R
 author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
-category: "AI 개발"
+category: "General"
 description: "El cheat code definitivo de un desarrollador frontend senior para cortar de raíz el código espagueti y las alucinaciones de la IA."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "react-next-architecture"]
 ---

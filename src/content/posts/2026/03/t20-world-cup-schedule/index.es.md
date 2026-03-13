@@ -4,7 +4,7 @@ title: "🏏 Calendario de la Copa Mundial T20: Un prompt para calcular zonas ho
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Prompt para automatizar calendarios de marketing y convertir zonas horarias complejas de la Copa Mundial T20. Ideal para marketing deportivo."
 tags: ["prompt-engineering", "ai-agent", "t20-world-cup-s"]
 ---

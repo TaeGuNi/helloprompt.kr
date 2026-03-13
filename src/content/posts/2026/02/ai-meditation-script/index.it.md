@@ -4,9 +4,9 @@ title: " \"명상 가이드: 내 기분에 맞는 명상 스크립트 생성\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "멘탈 케어"
+category: "General"
 description: "Insonnia, rabbia o stress? L'IA crea e legge per te guide alla meditazione su misura. Ritrova subito la tua pace interiore in soli 3 minuti."
-tags: ["명상", "마음챙김", "수면", "TTS", "ChatGPT"]
+tags: ["Meditation", "마음챙김", "Sleep", "TTS", "ChatGPT"]
 ---
 
 ## 🧘‍♀️ Guida alla Meditazione: Crea Script Personalizzati per il Tuo Umore

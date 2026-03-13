@@ -4,9 +4,9 @@ title: " \"복잡한 룰북은 가라: 보드게임 규칙 3분 요약\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "취미/라이프"
+category: "General"
 description: "Marre des livrets de règles de 40 pages ? Fiez-vous à ce guide IA pour résumer n'importe quel jeu de société en 3 minutes et éviter les erreurs de jeu."
-tags: ["보드게임", "취미", "규칙설명", "게임마스터"]
+tags: ["보드게임", "Hobbies", "규칙설명", "게임마스터"]
 ---
 
 ## 🎲 Fini les livrets de règles complexes : Maîtrisez n'importe quel jeu de société en 3 minutes {#summary}

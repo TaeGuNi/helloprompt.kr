@@ -4,9 +4,9 @@ title: " \"LangChain vs LlamaIndex: 도대체 뭘 써야 할까?\""
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "AI/개발"
+category: "General"
 description: " \"Comparaison des géants des frameworks LLM. LangChain pour la polyvalence, LlamaIndex pour les données. Le guide ultime pour faire le bon choix.\""
-tags: ["LangChain", "LlamaIndex", "LLM", "AI프레임워크", "개발"]
+tags: ["LangChain", "LlamaIndex", "LLM", "AI프레임워크", "Development"]
 ---
 
 ## ⛓️ LangChain vs LlamaIndex : Lequel choisir pour votre projet ?

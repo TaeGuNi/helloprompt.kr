@@ -4,7 +4,7 @@ title: "🏏 T20世界杯赛程：一键搞定复杂时差计算的提示词"
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "专为全球体育营销人员和开发者打造，可一键自动转换T20世界杯等国际赛事复杂时差，并精准规划营销日程的高阶提示词。"
 tags: ["prompt-engineering", "ai-agent", "t20-world-cup-s"]
 ---

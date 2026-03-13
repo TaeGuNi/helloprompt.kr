@@ -1,154 +1,176 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Bugs com Causas Desconhecidas? Chame o Detetive IA"
+title: "Bugs Misteriosos? Deixe o Detetive de IA Resolver"
 author: "Jay"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
-category: "Codificação/Desenvolvimento"
-description: "Descubra a causa raiz de bugs complexos em minutos usando a IA. Forneça o stack trace e o código para solucionar problemas e poupar horas de depuração."
-tags:
-  ["Depuração", "Correção de Bugs", "Solução de Problemas", "Resolução de Erros"]
+date: "2026-02-07T09:10:33.092Z"
+updatedDate: "2026-02-07T09:10:33.092Z"
+category: "Coding/Dev"
+description: "Sofrendo com bugs sem logs? Conheça o prompt de depuração que usa IA para identificar a causa raiz com apenas trechos de código e mensagens de erro."
+tags: ["Depuração", "Correção de Bug", "Troubleshooting", "Resolução de Erros"]
+image: "/images/hooks/bug-hunter-debugging-guide.jpg"
 ---
 
-## 📝 Bugs Misteriosos? Deixe a Investigação com o Detetive IA
+## 📝 Bugs Misteriosos? Deixe o Detetive de IA Resolver
 
-- **🎯 Recomendado para:** Desenvolvedores, Engenheiros de Software, Analistas de QA
-- **⏱️ Tempo necessário:** 2 horas → 5 minutos
-- **🤖 Modelo recomendado:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (Modelos com foco em código)
+- **🎯 Público Recomendado:** Desenvolvedores juniores, profissionais perdendo noites com bugs de causa desconhecida.
+- **⏱️ Tempo Estimado:** De horas de sofrimento para uma solução em 3 minutos.
+- **🤖 Melhor Desempenho:** Claude 3.5 Sonnet (especialista em análise de código), GPT-4o.
 
-- ⭐ **Dificuldade:** ⭐⭐☆☆☆
+- ⭐ **Dificuldade:** ⭐☆☆☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidade:** ⭐⭐⭐⭐⭐
 
-> _"Na minha máquina funcionava perfeitamente... Por que estourou em produção sem deixar nenhum rastro claro nos logs?"_
+> _"Ontem, quando saí do escritório, estava funcionando perfeitamente... Por que o app está morrendo agora sem deixar sequer um log de erro?"_
 
-Os bugs mais aterrorizantes são aqueles que falham silenciosamente, sem disparar uma mensagem de erro clara, ou cujas causas parecem tão óbvias que você acaba ignorando a verdadeira raiz do problema. Passar horas depurando o código linha a linha e espalhando `console.log` por toda parte, quebrando a cabeça sozinho na madrugada, não é mais a única saída.
+Qual é o momento mais frustrante e doloroso para um desenvolvedor? Provavelmente quando se depara com um **'bug intermitente impossível de reproduzir'** ou um **'bug silencioso onde a aplicação morre sem uma única linha de mensagem de erro'**. É noite, você está prestes a terminar o expediente, faz a última verificação no código e, de repente, a tela fica branca. O console está vazio, o terminal não dá pistas. Você enche o código de `console.log('chegou até aqui')`, mas, cruelmente, nem esses logs aparecem. Tudo escurece e o suor frio começa a escorrer.
 
-Se você entregar os logs, o *stack trace* e o trecho de código suspeito para a IA, ela será capaz de conectar os pontos invisíveis e identificar a causa raiz em lugares que você sequer imaginaria.
+Você passa a noite revirando abas do Stack Overflow ou GitHub Issues, mas não encontra nenhuma resposta que se encaixe exatamente no ambiente específico do seu projeto. A maioria dos conselhos é vazia, como "tente limpar o cache" ou "delete a node_modules e instale de novo". Você pensa em pedir ajuda a um superior ou colega ocupado, mas nem sabe por onde começar a explicar todo o contexto dessa estrutura complexa de componentes e lógica assíncrona. **O tempo passa implacavelmente, o prazo de entrega se aproxima e o sentimento de autossabotagem começa a surgir.**
+
+"Será que eu realmente não entendo como o framework funciona?" Em meio a essa dúvida, você tenta consertar um código aleatório e acaba quebrando outras funções que estavam boas, caindo no **pântano do 'bug espaguete'**. Essa frustração de não saber se é um simples erro de digitação ou uma falha grave de design no nível da arquitetura é o inferno da depuração que todo desenvolvedor enfrenta.
+
+Mas **agora você não precisa mais sofrer sozinho.** Ao seu lado está o **AI, o seu pair programmer sênior mais inteligente e incansável**, que decorou todas as documentações oficiais de frameworks e milhões de issues de código aberto do mundo. Basta enviar de forma estruturada os 'trechos de código' e a 'situação atual' que você identificou.
+
+Desde pequenos erros de digitação ou parênteses ausentes que seus olhos cansados não perceberam, até conflitos complexos de ciclo de vida (Lifecycle) escondidos no framework ou problemas invisíveis de condição de corrida (Race Condition) assíncrona. **O detetive de IA disseca o código em nível micro e aponta com precisão a causa raiz (Root Cause) do bug.**
+
+Não é uma resposta unidimensional do tipo "corrija o código assim". Este prompt força a IA a criar **3 hipóteses lógicas prováveis**, iluminando pontos cegos da depuração que você talvez não tenha considerado. Além disso, você receberá sugestões de **padrões de programação defensiva (Defensive Programming)** para blindar seu código e garantir que o mesmo problema nunca mais ocorra. Resolva elegantemente em apenas 3 minutos aquele bug maligno de causa desconhecida que te atormentou por mais de uma hora, e recupere seu tempo de descanso e sua confiança como desenvolvedor. Não se limite apenas a consertar o bug; use esse processo como uma oportunidade para descobrir vulnerabilidades fundamentais no sistema e elevar a qualidade do código de toda a equipe. Saia do estresse exaustivo da depuração e crie um ambiente onde você possa se concentrar totalmente no desenvolvimento criativo e produtivo.
 
 ---
 
-## ⚡️ Resumo em 3 linhas (TL;DR)
+## 📊 Prova: Resultados Satisfatórios (Before & After)
 
-1. **Inferência da Causa Raiz:** A IA analisa logs complexos e aponta com precisão cirúrgica onde o código quebrou.
-2. **Correção Direcionada:** Receba sugestões de código refatorado que aplicam as melhores práticas do mercado para erradicar o erro de vez.
-3. **Prevenção Ativa:** Entenda o real motivo do bug e aprenda a estruturar seu código para evitar que ele ressurja no futuro.
+### ❌ Before (A dor que sentíamos)
+
+**Mensagem de erro:** `Uncaught TypeError: Cannot read properties of undefined (reading 'map')`
+**Situação:** Lógica para renderizar uma lista recebendo dados de API de forma assíncrona ao montar um componente React. No entanto, a cada atualização, ocorre intermitentemente a "Tela Branca da Morte" (White Screen of Death) e o app trava completamente.
+
+### ✅ After (Resultado Transformado)
+
+![Resultado do Detetive de IA](/images/hooks/bug-hunter-debugging-guide.jpg)
+
+**🔍 Análise da Causa Raiz (3 Hipóteses):**
+
+1. **Mais provável:** Problema de timing devido ao atraso no carregamento de dados assíncronos. No momento da renderização inicial, antes que os dados de `users` fossem preenchidos pela resposta da API, o estado era `undefined` e a função `.map()` foi chamada forçadamente, causando o crash.
+2. **Possível:** Mudança implícita no esquema da resposta da API. Há uma chance de que a chave do objeto JSON retornado pelo servidor tenha mudado de `users` para outro nome (ex: `userList`) sem aviso prévio.
+3. **Pouco provável:** Erro de design na inicialização do gerenciamento de estado do frontend. O valor inicial do `useState` que armazena os dados pode ter sido atribuído incorretamente como `null` ou `undefined` em vez de um array vazio seguro `[]`.
+
+**✨ Código Limpo Corrigido:**
+
+```javascript
+// Código defensivo usando Optional Chaining (?.) e Operador de Coalescência Nula (??)
+function UserList({ data }) {
+  // Fallback para array vazio se data.users não existir ou não for um array
+  const users = data?.users ?? [];
+
+  if (users.length === 0) {
+    return <p className="text-gray-500">Nenhum dado de usuário encontrado.</p>;
+  }
+
+  return (
+    <ul>
+      {users.map((user) => (
+        <li key={user.id}>{user.name}</li>
+      ))}
+    </ul>
+  );
+}
+```
+
+**🛡️ Conselho de Programação Defensiva:**
+Ao renderizar listas baseadas em dados externos no React, torne obrigatório o uso de Optional Chaining (`?.`) como convenção de código da equipe. Além disso, ao usar métodos nativos de array, é mais seguro projetar uma lógica defensiva que garanta que o valor inicial (Initial State) seja, no mínimo, um array vazio (`[]`) em qualquer situação de exceção.
 
 ---
 
-## 🚀 A Solução: "O Detetive de Código"
+## ⚡️ Resumo em 3 Linhas (TL;DR)
+
+1. **Compressão de Contexto Complexo:** Sem explicações longas de fundo, entregue clareza à situação central usando apenas o log de erro e o trecho de código.
+2. **Abordagem Baseada em Hipóteses:** Vá além de respostas simples e unidimensionais; obtenha 3 hipóteses prováveis para expandir drasticamente sua visão de depuração.
+3. **Sugestão de Solução e Código Defensivo:** Mais do que um paliativo, obtenha padrões de programação defensiva que bloqueiam permanentemente a reincidência do problema.
+
+---
+
+## 🚀 Como os Profissionais Escrevem
+
+Este prompt foi aperfeiçoado após dezenas de tentativas e erros. Copie o prompt abaixo e preencha apenas as partes em `[variáveis]` de acordo com sua situação para uso imediato no trabalho.
 
 ### 🥉 Basic Version (Versão Básica)
 
-Use esta versão quando precisar de um palpite rápido para destravar o raciocínio.
+Use quando quiser identificar rapidamente apenas a causa do problema.
 
-> **Papel:** Você é um Engenheiro de Software Sênior especialista em depuração.
-> **Solicitação:** Analise o erro `[mensagem_do_erro]` no seguinte código e sugira a correção: `[trecho_do_codigo]`.
+> **Papel (Role):** Você é um desenvolvedor Sênior Backend/Frontend com 15 anos de experiência.
+>
+> **Tarefa (Task):** Analise o código e o log de erro abaixo e aponte em apenas 2 linhas qual é o problema e como corrigi-lo.
+>
+> **Código:** `[Cole seu código aqui]`
+> **Log de erro:** `[Cole o log de erro aqui]`
 
-### 🥇 Pro Version (Versão Especialista)
+### 🥇 Pro Version (Versão Profissional)
 
-Ideal para lidar com problemas arquitetônicos complexos ou bugs difíceis de reproduzir.
+Use quando a estrutura do sistema for complexa ou a lógica estiver muito emaranhada, exigindo uma análise profunda (Deep Dive).
 
-> **Papel (Role):** Você é um Engenheiro de Software Sênior e um "Detetive de Bugs" com habilidades investigativas ao estilo Sherlock Holmes, capaz de enxergar além da superfície da arquitetura do sistema e encontrar conexões ocultas.
+> **Papel (Role):** Você é um gênio da depuração e um Engenheiro de Software Sênior capaz de enxergar desde a arquitetura do sistema até vazamentos de memória.
 >
 > **Contexto (Context):**
 >
-> - Cenário: Um erro inesperado ocorreu em nossa aplicação e estou travado na depuração.
-> - Objetivo: Identificar a causa raiz exata e implementar uma correção robusta e escalável.
+> - Framework/Linguagem: `[Ex: React 18, Node.js v20, Python 3.11, etc.]`
+> - Problema: `[Ex: Ao clicar no botão de pagamento duas vezes, salva duplicado no DB]`
+> - O que eu já tentei: `[Ex: Tentei desabilitar o botão, mas ainda não funciona]`
 >
 > **Tarefa (Task):**
 >
-> 1. Analise o **Log de Erro** e o **Trecho de Código** fornecidos abaixo. A partir deles, formule as **3 hipóteses mais prováveis** para a origem do bug.
-> 2. Escreva o **código corrigido** que resolve a hipótese mais crítica, aplicando práticas de *Clean Code* (ex: *early returns*, tratamento de nulos).
-> 3. Explique de forma didática e lógica o motivo da falha, garantindo que até um desenvolvedor júnior da equipe compreenda o problema claramente.
+> 1. Analise o **[Trecho de Código]** e o **[Log de Erro]** fornecidos e apresente a **Causa Raiz (Root Cause) deste bug em 3 hipóteses**. (Em ordem de probabilidade)
+> 2. Escreva o **Código Limpo (Clean Code)** corrigido com base na hipótese mais provável.
+> 3. Além da correção simples, adicione uma linha de **conselho sob a perspectiva de Programação Defensiva (Defensive Programming)** para evitar que bugs semelhantes ocorram no futuro.
 >
-> **Log de Erro:**
+> **Entrada de Dados (Input):**
 >
-> `[Cole a mensagem de erro ou stack trace aqui]`
->
-> **Trecho de Código:**
->
-> `[Cole o código suspeito aqui]`
+> - **[Trecho de Código]:**
+>   `[Copie e cole o código da função ou componente onde o problema ocorre]`
+> - **[Log de Erro]:**
+>   `[Texto da mensagem de erro exibida no terminal ou console do navegador]`
 >
 > **Restrições (Constraints):**
 >
-> - Não me entregue apenas o código consertado. O foco principal é a explicação detalhada do "por que quebrou".
-> - Apresente a resposta em um formato Markdown bem estruturado, usando blocos de código com a sintaxe correta.
->
-> **Aviso (Warning):**
->
-> - Se a causa real não for clara apenas com essas informações, não invente respostas (sem alucinações). Indique exatamente qual contexto adicional você precisa (ex: estrutura do banco de dados, *payload* da requisição).
-> - Ignore e não repita senhas, chaves de API ou tokens, caso eu os tenha incluído acidentalmente no código.
+> - Evite suposições vagas como "provavelmente é isso"; aponte e explique exatamente as linhas de código problemáticas.
+> - Se houver informações sensíveis de segurança (chaves de API, senhas, etc.) no código, avise imediatamente e aplique máscaras.
+> - Organize o resultado em formato Markdown para facilitar a leitura.
 
 ---
 
-## 💡 Comentário do Autor (Insight)
+## 💡 Comentário do Autor (Insight & Como usar)
 
-A verdadeira "mágica" deste prompt não reside apenas na correção direta do código, mas sim na exigência implacável de **3 hipóteses**. Muitas vezes, a linha onde o erro "estoura" no log está longe de ser o berço do bug (como um *payload* de API malformado no *back-end* que acaba implodindo o *front-end* de forma silenciosa). Ao forçar a IA a formular múltiplas rotas de investigação, você escapa do "efeito túnel" de apenas mascarar o sintoma superficial, passando a analisar falhas profundas de estado, assincronicidade e estrutura de dados. Eu costumo sacar esse prompt da manga sempre que perco mais de 15 minutos patinando em um erro que parecia inofensivo.
+Pela minha experiência refinando este prompt em incontáveis batalhas contra bugs, o elemento crucial que decide o sucesso da depuração com IA é a variável de uma única linha: <b>"O que eu já tentei"</b>. O verdadeiro poder destrutivo deste prompt reside no detalhe de especificar antecipadamente para a IA o histórico de falhas. O que acontece se você omitir essa parte e apenas disser "conserte esse bug"? A IA orgulhosamente apresentará como primeira hipótese a solução mais óbvia e básica que você já tentou e falhou miseravelmente há uma hora (ex: "limpe o cache do navegador", "tente rodar npm install novamente", "reinicie o servidor"). Esse é o caminho mais rápido para irritar um desenvolvedor já exausto. Mas no momento em que você especifica: <b>"Já tentei desabilitar o botão e usei uma função de debounce, mas a API ainda é chamada duas vezes no clique duplo"</b>, a IA descarta imediatamente problemas básicos de interface e mergulha profundamente (Deep Dive) em níveis de arquitetura muito mais complexos, como o Event Loop do navegador ou o funcionamento interno de ferramentas de estado assíncrono (ex: Redux, React Query).
+
+Além disso, deixo uma dica sobre o controle de Contexto. Se você é um **desenvolvedor Frontend**, tente preencher a variável `[Situação]` com o ambiente exato do navegador (ex: funciona no Chrome 120, mas morre no Safari 17.2) ou ambiente do dispositivo (ex: WebView do iOS 16). A IA é incrível capturando bugs difíceis como diferenças sutis de renderização entre motores de renderização (V8 vs WebKit) ou falta de Polyfills. No caso de **desenvolvedores Backend**, é essencial mencionar a versão exata do motor de banco de dados (ex: MySQL 8.0.32) ou a versão do ORM (ex: Prisma v5). Como os níveis de isolamento padrão (Isolation Level) ou métodos de tratamento de transação podem variar entre versões, essa pequena informação eleva a precisão do raciocínio da IA de forma absurda, às vezes até assustadora.
+
+No entanto, há um **aviso crítico que nunca deve ser ignorado** ao usar esta ferramenta poderosa: **'Segurança e Compliance'**. Por mais urgente que seja a correção do bug, em ambientes corporativos com diretrizes de segurança rigorosas, copiar e colar códigos confidenciais inteiros em modelos de IA públicos pode causar sérios incidentes de segurança. Portanto, você deve ter a sensibilidade de realizar um trabalho de **Mascaramento (Masking)** antes de inserir o código. Substitua informações pessoais de usuários reais, domínios de endpoints de API internos, chaves de autenticação exclusivas e nomes de esquemas de banco de dados ou variáveis que possam expor a lógica de negócio central do serviço por letras aleatórias (ex: `CompanySecretLogic` -> `LogicA`, `db_user_payment_info` -> `Table_X`). Surpreendentemente, a IA não terá nenhuma dificuldade em inferir o **'fluxo estrutural' e os 'erros lógicos'** do código, mesmo que os nomes das variáveis sejam simplificados para `A` ou `X`. Isso ocorre porque a causa central do bug está na falha da lógica, não nos nomes.
+
+Por fim, cuidado com o hábito de copiar e colar (Ctrl+C, Ctrl+V) o código da IA sem críticas. A IA às vezes tenta importar bibliotecas desnecessárias que não se encaixam no contexto ou escreve código em um estilo que vai contra as convenções de codificação (Coding Convention) existentes no seu projeto. Receba as 3 hipóteses e o código limpo sugeridos pela IA não como a 'resposta perfeita', mas como a **'sugestão do revisor mais brilhante'**, e valide-os antes de aplicar ao seu ambiente. Agir assim é a verdadeira atitude de um desenvolvedor sênior. Ao usar a IA de forma inteligente, você perceberá que sua própria capacidade de depuração se tornará tão afiada quanto a dela. Que este prompt seja uma arma poderosa em sua jornada para se tornar um arquiteto que não teme bugs e que projeta sistemas robustos.
 
 ---
 
 ## 🙋 Perguntas Frequentes (FAQ)
 
-- **Q: Devo usar o GPT-4o ou o Claude para este prompt?**
-  - A: Na minha experiência diária, o **Claude 3.5 Sonnet** apresenta uma vantagem absurda na leitura de arquivos extensos e na compreensão global da arquitetura do código, enquanto o GPT-4o brilha pela velocidade de resposta. Recomendo acionar o Claude primeiro se o bug envolver múltiplas camadas de complexidade.
+- **Q: O código é muito grande para colar tudo de uma vez. O que eu faço?**
+  - A: Colar arquivos inteiros com milhares de linhas aumenta exponencialmente o risco de exceder o limite de contexto ou causar **'Alucinações'** na IA. O segredo para obter resultados mais precisos é extrair cirurgicamente apenas os blocos de funções ou classes essenciais (cerca de 50 linhas antes e depois) do ponto onde o erro ocorreu.
 
-- **Q: E se o erro estiver relacionado à infraestrutura, como Docker ou AWS?**
-  - A: O prompt se adapta perfeitamente! Basta colar as mensagens de erro cruas do terminal e, no espaço destinado ao "Trecho de Código", inserir o seu arquivo `docker-compose.yml`, os *scripts* do Terraform ou os manifestos do Kubernetes.
+- **Q: É possível capturar bugs como Deadlock, onde o sistema trava sem deixar um único log de erro?**
+  - A: Sim, perfeitamente possível! Nesses casos, deixe o campo `[Log de Erro]` vazio e descreva o fenômeno observado o mais vividamente possível no campo `[Problema]`, como: "No momento em que chamo uma API de pagamento específica, o uso da CPU sobe para 100% e o servidor para de responder completamente". A IA rastreará as linhas de código perigosas com alta probabilidade de loops infinitos ou deadlocks.
 
----
-
-## 🧬 Anatomia do Prompt (Por que funciona?)
-
-1. **Role Sênior:** Configurar a IA com a persona de um detetive especialista garante que ela não ofereça "gambiarras" ou *workarounds* temporários, mas sim fundações estruturais sólidas.
-2. **Pensamento em Hipóteses (Chain-of-Thought):** Impede o salto precipitado para conclusões errôneas. Ao gerar múltiplas opções, a IA emula com precisão o rigor mental de um *tech lead* isolando variáveis de forma sistemática.
-3. **Barreira Anti-Alucinação:** A regra estrita que a obriga a pedir mais contexto diante da incerteza poupa você do pesadelo de testar trechos de código que jamais rodariam no seu ecossistema.
+- **Q: É seguro inserir código de projeto corporativo em modelos de IA?**
+  - A: Inserir códigos confidenciais da empresa sem filtragem em serviços de IA públicos (como a versão gratuita do ChatGPT) é muito perigoso e pode levar a incidentes de segurança. Recomendamos fortemente o uso apenas em ambientes com planos empresariais que garantam a recusa de treinamento de dados (Opt-out) ou que utilizem chamadas de API que não são usadas para aprendizado externo.
 
 ---
 
-## 📊 Prova: Antes e Depois
+## 🧬 Anatomia do Prompt (Why it works?)
 
-### ❌ Antes (Situação)
-
-**Erro no Terminal:** `TypeError: Cannot read properties of undefined (reading 'map')`
-
-**Trecho de Código Suspeito:**
-
-```javascript
-function renderUserList(response) {
-  return response.data.users.map((user) => `<li>${user.name}</li>`);
-}
-```
-
-### ✅ Depois (Resultado da IA)
-
-**Análise de Hipóteses:**
-
-1. **Atraso na Rede:** A resposta da API ainda não chegou e `response` ou `response.data` está indefinido.
-2. **Mudança de Contrato:** O backend alterou o formato do JSON e a propriedade `users` não existe mais dentro de `data`.
-3. **Lista Vazia/Nula:** A API retornou `null` em vez de um *array* vazio quando não há usuários cadastrados.
-
-**Código Corrigido:**
-
-```javascript
-function renderUserList(response) {
-  // 1. Tratamento seguro de nulos usando Optional Chaining
-  const users = response?.data?.users;
-
-  // 2. Early return para casos sem dados ou dados malformados
-  if (!Array.isArray(users) || users.length === 0) {
-    return "<li>Nenhum usuário encontrado.</li>";
-  }
-
-  // 3. Execução segura do map com valor padrão
-  return users.map((user) => `<li>${user?.name || "Usuário Sem Nome"}</li>`);
-}
-```
+1. **Indução de Geração de Hipóteses (Hypothesis Generation):** As causas de bugs malignos nunca são unidimensionais. O comando "apresente 3 hipóteses prováveis" força a IA a ir além de apontar erros de digitação ou gramática, raciocinando profundamente sobre problemas de nível de arquitetura, como timing sutil em comunicações assíncronas ou conflitos complexos de dependência entre pacotes. (Aplicação da técnica Chain-of-Thought)
+2. **Construção de Rede de Segurança (Defensive Coding):** Em vez de simplesmente pedir "conserte isso" para apagar o fogo imediato, peça explicitamente conselhos de **Programação Defensiva (Defensive Programming)**. Isso se torna uma poderosa rede de segurança que vai além de um Hotfix temporário e instável, elevando a robustez do sistema e a própria qualidade do código.
 
 ---
 
 ## 🎯 Conclusão
 
-Não sacrifique seus neurônios (nem suas preciosas horas de sono) tentando adivinhar em qual arquivo a tipagem falhou ou por qual brecha um `null` sorrateiro escapou. Terceirize o trabalho pesado de rastreamento contratando o seu próprio Detetive IA.
+Acabou o tempo de sofrimento olhando fixamente para logs de erro vermelhos e travando uma luta sem sentido com o monitor sem saber a causa. Se você internalizar essa habilidade de **'Engenharia de Prompt'** para alimentar a IA com o contexto desesperador em que se encontra, sua velocidade de depuração e capacidade de resolução de problemas evoluirão de forma avassaladora.
 
-Copie o prompt, aplique a correção definitiva e mova logo esse ticket para *Done*. 🍷
+Sinta a satisfação de resolver elegantemente em 3 minutos um bug que parecia impossível. 
+Desejo a você um dia perfeito, livre de bugs fatais, e um ótimo descanso após o expediente! 🍷

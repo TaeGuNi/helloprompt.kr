@@ -4,9 +4,9 @@ title: " \"AutoGen 입문: AI 에이전트끼리 대화하게 만들기\""
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "AI/개발"
+category: "General"
 description: "微软开源的多智能体框架 AutoGen：本指南将手把手教您构建自动化协作工作流，让开发者 Bot 与管理员 Bot 互相反馈，自主完成代码编写。"
-tags: ["AutoGen", "멀티에이전트", "MS", "AI협업", "자동화"]
+tags: ["AutoGen", "멀티에이전트", "MS", "AI협업", "Automation"]
 ---
 
 ## 🤖 AutoGen 入门：让 AI 智能体互相协作对话

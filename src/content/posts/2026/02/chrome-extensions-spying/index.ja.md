@@ -4,7 +4,7 @@ title: " \"당신을 감시하는 크롬 확장프로그램 280개 리스트\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "보안"
+category: "Security"
 description: "ブラウジングデータを密かに収集する悪意のあるChrome拡張機能を、AIを用いて確実に見極めるための完全ガイド。"
 tags: ["Security", "Chrome", "Privacy", "Browser"]
 ---

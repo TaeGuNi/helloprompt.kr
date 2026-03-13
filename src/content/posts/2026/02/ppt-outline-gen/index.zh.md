@@ -4,9 +4,9 @@ title: "让演示策划时间锐减90%的PPT大纲生成提示词"
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "기획"
+category: "General"
 description: "比起精美的幻灯片设计，“清晰的逻辑结构”才是核心。使用此提示词，让你在策划阶段轻松省下30分钟。"
-tags: ["PPT", "발표", "기획"]
+tags: ["PPT", "발표", "Planning"]
 ---
 
 ## 📝 让演示策划时间锐减90%的PPT大纲生成提示词

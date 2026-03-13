@@ -4,9 +4,9 @@ title: " \"칵테일 레시피: 냉장고 술 털어서 바텐더 되기\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "라이프/취미"
+category: "General"
 description: "Don't settle for straight shots. Turn your kitchen into a private speakeasy with AI-powered cocktail recipes using everyday fridge ingredients."
-tags: ["칵테일", "홈텐딩", "술", "레시피", "ChatGPT"]
+tags: ["칵테일", "홈텐딩", "술", "Recipe", "ChatGPT"]
 ---
 
 ## 🍸 Cocktail Recipes: Become a Bartender By Emptying Your Fridge

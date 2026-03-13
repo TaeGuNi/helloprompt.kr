@@ -4,7 +4,7 @@ title: "KI-Farbtypberatung: Warmen oder kühlen Unterton per Foto finden"
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "라이프/뷰티"
+category: "General"
 description: "Sparen Sie sich die teure Farbtypberatung! Finden Sie Ihren warm/kühl Unterton und Ihre perfekten Farben kostenlos per KI-Fotoanalyse von zu Hause aus."
 tags: ["Farbtypberatung", "Warmton", "Kühlton", "Fashion", "ChatGPT"]
 ---

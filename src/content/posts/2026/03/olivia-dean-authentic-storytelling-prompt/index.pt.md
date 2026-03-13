@@ -4,7 +4,7 @@ title: "🎵 Uma Colherada da Emoção de Olivia Dean: O Prompt Mágico que Revi
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Chega de textos clichês! Este prompt de IA para copywriting emocional captura a essência e a autenticidade da cantora de soul britânica Olivia Dean."
 tags: ["prompt-engineering", "ai-agent", "olivia-dean"]
 ---

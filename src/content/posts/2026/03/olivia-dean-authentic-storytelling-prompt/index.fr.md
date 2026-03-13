@@ -4,7 +4,7 @@ title: "🎵 Une touche de sensibilité à la Olivia Dean : Le prompt magique qu
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Fini les slogans clichés ! Découvrez un prompt d'IA de copywriting émotionnel inspiré par l'authenticité de la musicienne soul britannique Olivia Dean."
 tags: ["prompt-engineering", "ai-agent", "olivia-dean"]
 ---

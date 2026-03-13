@@ -4,9 +4,9 @@ title: " \"GraphQL 스키마 설계: REST API에서 넘어오기\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "백엔드/DB"
+category: "General"
 description: "オーバーフェッチング（Over-fetching）のない無駄のないAPI。フロントエンドの開発体験を劇的に向上させるGraphQLスキーマ設計パターン。"
-tags: ["GraphQL", "API", "백엔드", "스키마", "Apollo"]
+tags: ["GraphQL", "API", "Backend", "스키마", "Apollo"]
 ---
 
 ## 🕸️ GraphQLスキーマ設計：REST APIからの移行ガイド

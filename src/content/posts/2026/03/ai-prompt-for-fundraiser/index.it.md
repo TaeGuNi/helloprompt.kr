@@ -4,7 +4,7 @@ title: "💸 Il prompt magico del fundraiser per riempire i fondi vuoti"
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Un prompt AI pratico per creare in un minuto email di raccolta fondi e testi persuasivi in grado di far aprire naturalmente il portafoglio ai donatori."
 tags: ["prompt-engineering", "ai-agent", "fundraiser"]
 ---

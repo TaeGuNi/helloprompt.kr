@@ -4,7 +4,7 @@ title: "간밤의 꿈, AI 해몽가에게 물어보기"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
-category: AI 활용
+category: "General"
 description: "KI-Traumanalyse: Entschlüsseln Sie Ihre Träume tiefenpsychologisch nach Freud und Jung. Entdecken Sie wahre unbewusste Botschaften ganz ohne Aberglauben."
 tags: [AI, ChatGPT, Prompt, 꿈해몽, 자기발견]
 ---

@@ -4,7 +4,7 @@ title: "💀 KI-Bullshit ausmerzen: Der Hardcore-Observability-Cheatcode"
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "프롬프트 엔지니어링"
+category: "General"
 description: "Ein Cheatcode-Prompt, der KI-Geschwafel sowie console.log rigoros eliminiert und Observability auf Senior-Architect-Level etabliert."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "observability-logging-protocol"]
 ---

@@ -4,7 +4,7 @@ title: "🔥 Die absolute RDBMS-Architektur-Verfassung, die KI-Bullshit zerschme
 author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "AI 프롬프트"
+category: "General"
 description: "Die gnadenlosen RDBMS-Richtlinien eines Senior-Backend-Engineers, die verhindern, dass die KI eine Spaghetti-Datenbank ausspuckt."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "rdbms-architecture"]
 ---

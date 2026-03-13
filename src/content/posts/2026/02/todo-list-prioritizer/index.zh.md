@@ -4,9 +4,9 @@ title: " \"AI로 뒤죽박죽 할 일 목록, 우선순위 정리 끝!\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "不再为“先做什么”而烦恼！让 AI 助手为你精准梳理工作优先级，告别内耗，准时下班。"
-tags: ["To-Do", "우선순위", "ChatGPT", "생산성"]
+tags: ["To-Do", "우선순위", "ChatGPT", "Productivity"]
 ---
 
 ## 📝 用 AI 搞定杂乱无章的待办事项，优先级一秒理清！

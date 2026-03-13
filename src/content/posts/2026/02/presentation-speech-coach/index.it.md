@@ -4,9 +4,9 @@ title: " \"발표(PT) 코칭: 스티브 잡스 빙의 AI 스피치 트레이너\
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "자기계발/커뮤니케이션"
+category: "General"
 description: "Ansia da presentazione? Usa l'IA come tuo speech coach personale: ottimizza il copione e preparati a superare anche le sessioni di Q&A più insidiose."
-tags: ["발표", "PT", "스피치", "면접", "ChatGPT"]
+tags: ["발표", "PT", "스피치", "Interview", "ChatGPT"]
 ---
 
 ## 🎤 Coaching per Presentazioni (PT): Il tuo Trainer di Public Speaking IA in stile Steve Jobs

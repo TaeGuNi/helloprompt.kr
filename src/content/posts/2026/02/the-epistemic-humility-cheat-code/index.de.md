@@ -4,7 +4,7 @@ title: "💀 Brecht die Arroganz der KI: Der Hardcore-Cheatcode, um 100% überze
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Der Prompt-Kodex eines Senior Engineers: Pack von Halluzinationen geplagte KIs am Kragen und zwinge sie, potenzielle Code-Mängel ehrlich zu gestehen."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "epistemic-humility"]
 ---

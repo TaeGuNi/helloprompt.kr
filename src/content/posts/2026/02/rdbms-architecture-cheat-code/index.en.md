@@ -4,7 +4,7 @@ title: "🔥 The Absolute RDBMS Architecture Constitution to Crush AI's Nonsense
 author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "AI 프롬프트"
+category: "General"
 description: "A ruthless RDBMS prompt by a senior backend engineer to stop AI from generating spaghetti databases and enforce strict ANSI SQL standards."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "rdbms-architecture"]
 ---

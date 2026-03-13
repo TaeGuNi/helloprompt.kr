@@ -4,9 +4,9 @@ title: " \"블로그 글 하나로 인스타, 링크드인까지 (OSMU)\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "콘텐츠 제작"
+category: "Content Creation"
 description: " \"Le prompt OSMU ultime pour recycler un article de blog en 5 formats viraux grâce à l'IA.\""
-tags: ["콘텐츠마케팅", "인스타그램", "링크드인", "생산성"]
+tags: ["콘텐츠마케팅", "인스타그램", "링크드인", "Productivity"]
 ---
 
 ## 📝 Multipliez votre audience : Le prompt OSMU pour recycler un article sur Instagram et LinkedIn

@@ -4,9 +4,9 @@ title: " \"Kafka vs RabbitMQ: 大容量トラフィック処理の核心\""
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "백엔드/DB"
+category: "General"
 description: "メッセージキュー(MQ)の導入をお考えですか？大容量トラフィック処理に不可欠なKafkaとRabbitMQのスループット、信頼性、アーキテクチャ設計の違いを徹底比較する実践ガイドです。"
-tags: ["Kafka", "RabbitMQ", "메시지큐", "MSA", "백엔드"]
+tags: ["Kafka", "RabbitMQ", "메시지큐", "MSA", "Backend"]
 ---
 
 ## 📨 Kafka vs RabbitMQ: 大容量トラフィック処理の核心

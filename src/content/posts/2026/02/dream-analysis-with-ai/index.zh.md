@@ -4,7 +4,7 @@ title: "간밤의 꿈, AI 해몽가에게 물어보기"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
-category: AI 활용
+category: "General"
 description: "厌倦了查阅迷信的解梦大全？本文为您提供一款基于弗洛伊德与荣格心理学理论的AI提示词，帮您深度解析梦境，洞察潜意识中的真实压力与情绪。"
 tags: [AI, ChatGPT, Prompt, 꿈해몽, 자기발견]
 ---

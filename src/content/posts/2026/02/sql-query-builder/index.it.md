@@ -4,9 +4,9 @@ title: " \"복잡한 SQL 쿼리, 말로 하면 코드로 짜줍니다\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "데이터"
+category: "General"
 description: "\"JOIN, GROUP BY, Window Function... Non perdere più tempo a cercare online la complessa sintassi SQL.\""
-tags: ["SQL", "데이터분석", "쿼리"]
+tags: ["SQL", "Data Analysis", "쿼리"]
 ---
 
 ## 📝 Query SQL Complesse? Spiegale a Parole, l'IA Scriverà il Codice

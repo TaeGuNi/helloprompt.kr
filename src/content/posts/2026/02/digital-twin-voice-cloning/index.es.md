@@ -4,9 +4,9 @@ title: " \"내 말투를 그대로 따라하는 AI '디지털 트윈' 만들기\
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "퍼스널 브랜딩"
+category: "General"
 description: "Cómo crear un clon de IA que escriba y responda como tú. Descubre el prompt definitivo para replicar tu tono de voz exacto."
-tags: ["페르소나", "글쓰기", "디지털트윈", "CustomGPT"]
+tags: ["Persona", "Writing", "디지털트윈", "CustomGPT"]
 ---
 
 ## 📝 Crea una IA más parecida a ti que tú mismo (Clonación de Tono y Estilo)

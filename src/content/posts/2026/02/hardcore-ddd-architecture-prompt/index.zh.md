@@ -4,7 +4,7 @@ title: "拒绝面条代码！🍝 资深开发者的黑魔法 DDD 提示词"
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "告别意大利面条式代码！用这份硬核 DDD 架构提示词，将百依百顺的 AI 助理改造成冷酷无情的资深架构师，轻松实现代码的完美分层。"
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ddd-architecture"]
 ---

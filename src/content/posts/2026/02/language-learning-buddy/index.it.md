@@ -1,132 +1,191 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"나만의 AI 언어 튜터 만들기\""
+title: "Crea il tuo Tutor Linguistico AI personale"
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "업무 자동화"
-description: "Trasforma l'IA nel tuo tutor linguistico personale per esercitarti nella conversazione e migliorare la grammatica in qualsiasi lingua."
-tags: ["태그1", "태그2"]
+category: "Automazione del lavoro"
+description: "Crea un tutor AI 1:1 che si concentra sui tuoi punti deboli invece delle costose lezioni telefoniche. Supporta correzioni grammaticali ed espressioni native."
+tags: ["tag1", "tag2"]
 ---
 
-## 📝 Crea il Tuo Tutor Linguistico con l'IA
+## 📝 Crea il tuo Tutor Linguistico AI personale
 
-- **🎯 Consigliato per:** Studenti di lingue, professionisti all'estero, expat
-- **⏱️ Tempo risparmiato:** Da mesi di costose lezioni private → Disponibilità immediata 24/7
-- **🤖 Modelli raccomandati:** ChatGPT (Modalità Vocale), Claude, Gemini (Ottimi per conversazioni naturali)
+- **🎯 Consigliato per:** Professionisti, studenti universitari, studenti all'estero, candidati a esami linguistici
+- **⏱️ Tempo richiesto:** 10 minuti di configurazione → Utilizzo illimitato a vita
+- **🤖 Migliori prestazioni:** ChatGPT (consigliata la Modalità Voce Avanzata), Claude 3.5 Sonnet
 
 - ⭐ **Difficoltà:** ⭐⭐☆☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
-- 🚀 **Praticità:** ⭐⭐⭐⭐⭐
+- 🚀 **Utilizzo:** ⭐⭐⭐⭐⭐
 
-> _"Stai ancora pagando 30 euro all'ora per un tutor con cui parli solo una volta a settimana, dimenticando tutto nei giorni successivi?"_
+> _"Hai mai pagato costose lezioni di conversazione con un insegnante madrelingua, solo per finire a scambiare i soliti saluti senz'anima come 'How are you?' ogni volta?"_
 
-Imparare una nuova lingua richiede una pratica costante e un feedback immediato. Tuttavia, assumere un tutor madrelingua per esercitarsi quotidianamente è costoso e spesso incompatibile con i nostri ritmi lavorativi frenetici. E se potessi avere un insegnante privato, incredibilmente paziente e poliglotta, sempre a tua disposizione direttamente nel tuo smartphone?
+Ogni mattina, la cosa più spaventosa della sveglia è la **chiamata dell'insegnante di conversazione** che arriva all'orario stabilito. Rispondi stropicciandoti gli occhi assonnati, ma il primo saluto dall'altra parte del ricevitore è sempre lo stesso: _"How was your day?"_ o _"What did you do over the weekend?"_
 
-Oggi scopriremo come trasformare un'IA generativa nel tuo partner di conversazione definitivo. Non si tratta di semplici traduzioni: configureremo un vero e proprio tutor interattivo che correggerà i tuoi errori in tempo reale e ti aiuterà a parlare con la naturalezza di un madrelingua.
+Proviamo a pensare a innumerevoli parole e regole grammaticali nella nostra testa per creare la frase perfetta, ma la risposta che esce dalla nostra bocca rimane al livello di _"It was good."_ o _"I just stayed home."_ Quella lezione di conversazione, pagata a caro prezzo e con grandi speranze, si è trasformata in un **momento di saluti senza senso a livello di scuola elementare**.
+
+Il problema più grande è la **paura di sbagliare**. Quando usiamo un'espressione goffa o sbagliamo la grammatica, diventiamo sempre più silenziosi per paura di cosa possa pensare l'altra persona. Quei 3 secondi di silenzio in cui le parole si bloccano sembrano lunghi come 3 ore, e dopo la chiamata, invece di un senso di realizzazione per aver migliorato la lingua, rimane solo un **senso di spossatezza**.
+
+Ancora più frustrante è il fatto che **gli insegnanti madrelingua spesso non correggono davvero i nostri punti deboli**. La maggior parte degli insegnanti o partner di conversazione, per non interrompere il flusso del discorso o non offendere lo studente, sorvola anche su errori grammaticali fatali dicendo _"Good job!"_ o _"Perfect!"_ se il significato generale è comprensibile.
+
+Cosa succede se queste conversazioni senza feedback si ripetono? L'uso errato delle preposizioni, tempi verbali confusi e espressioni "Konglish" (o traduzioni letterali) che i locali non userebbero mai si **cristallizzano** nella nostra testa come "inglese corretto". Questo è il vero motivo per cui, nonostante le centinaia di euro che escono dal conto ogni mese per accademie e lezioni telefoniche, il livello di lingua rimane fermo anche dopo un anno.
+
+Inoltre, il disagio di dover forzare il proprio tempo prezioso nel programma dell'insegnante e l'ingiustizia di vedersi sottratta una lezione se si manca l'appuntamento trasformano la **conversazione linguistica da un apprendimento piacevole in un compito pieno di stress**.
+
+Ma ora non c'è più bisogno di pagare cifre esorbitanti o investire fatica emotiva con insegnanti umani. Grazie ai progressi fenomenali della tecnologia AI generativa, possiamo avere un **'Tutor AI Madrelingua' perfetto, disponibile 24 ore su 24 solo per noi, senza vincoli di tempo, luogo o costo**.
+
+Non è il chatbot del passato che aiutava solo a tradurre o riassumere testi. Un'AI che ha attraversato una sofisticata **'Ingegneria dei Prompt'** analizza la tua lingua in modo molto più acuto e persistente di un insegnante madrelingua con 10 anni di esperienza e certificazione TESOL.
+
+Non importa quanto le tue frasi siano disordinate, l'AI non riderà mai di te. Senza alcuna oscillazione emotiva, coglie perfettamente le tue intenzioni, individua gli errori grammaticali e consiglia immediatamente **espressioni native (Native Expression)** raffinate che i locali usano ogni giorno. Oltre al testo, utilizzando la funzione di conversazione vocale (Voice Mode) dei modelli AI più recenti, puoi seguire una lezione 1:1 perfetta solo con gli auricolari, senza nemmeno guardare lo schermo.
+
+Nel momento in cui introdurrai questo sistema nella tua vita quotidiana, tutto cambierà. L'auto bloccata nel traffico durante il tragitto casa-lavoro si trasforma in una **scuola di lingue d'élite 1:1 nel centro di New York**. Puoi goderti una conversazione libera comodamente mentre fai la doccia dopo il lavoro o mentre sei sdraiato a letto prima di dormire.
+
+Dalla scrittura di email aziendali adatte al tuo ruolo (sviluppatore IT, marketer, ecc.) alla conversazione pratica per un viaggio all'estero previsto per dopodomani, fino alla preparazione per colloqui in inglese in aziende multinazionali: un **curriculum personalizzato adatto alla tua situazione** viene completato in un solo secondo.
+
+Soprattutto, il cambiamento più grande è la **'fiducia'**. In un ambiente sicuro dove non ci si vergogna di sbagliare, ripetendo ad alta voce le frasi perfette corrette, la paura della lingua svanirà come neve al sole. Non sprecare più soldi in saluti senza senso. Assumi subito sul tuo smartphone il miglior tutor linguistico che ti seguirà gratuitamente per tutta la vita con un investimento di solo un minuto.
 
 ---
 
-## ⚡️ Sintesi in 3 punti (TL;DR)
+## 📊 Dimostrazione: Risultati Sorprendenti (Prima e Dopo)
 
-1. **Pratica Conversazionale 24/7:** Usa l'IA per simulare scenari reali (ordinare al ristorante, sostenere colloqui di lavoro) in qualsiasi momento della giornata.
-2. **Feedback Istantaneo e Costruttivo:** L'IA corregge i tuoi errori grammaticali e di pronuncia senza giudicare, offrendoti spiegazioni cristalline.
-3. **Personalizzazione Totale:** Adatta il livello di difficoltà (da A1 a C2) e il focus (business, slang, viaggi) alle tue specifiche esigenze.
+### ❌ Prima (La sofferenza comune)
+
+Una conversazione frustrante con un chatbot tradizionale che usa metodi manuali goffi e mostra solo semplice empatia, senza correggere affatto gli errori fatali di tempi passati e grammatica dei sostantivi che continui a ripetere.
+
+```text
+Utente: I didn't went to the gym today because I have too many works.
+
+AI: That's okay! Everyone needs a rest day sometimes. Don't push yourself too hard. What are you going to do instead?
+(Nonostante siano presenti errori grammaticali fatali nei tempi passati e nei sostantivi, l'AI mostra solo empatia senza alcuna correzione)
+```
+
+### ✅ Dopo (Il risultato della trasformazione)
+
+```text
+Utente: I didn't went to the gym today because I have too many works.
+
+AI:
+**[Correzione]**
+- "didn't went" ❌ -> "didn't go" ✅ (Dopo l'ausiliare negativo passato 'didn't' deve esserci sempre la forma base del verbo.)
+- "many works" ❌ -> "a lot of work" ✅ ('work' è un sostantivo non numerabile, quindi non si aggiunge la 's'; usa 'a lot of' invece di 'many'.)
+
+**[Espressione Nativa]**
+- I skipped the gym today because I'm swamped with work. (Oggi ho saltato la palestra perché sono sommerso di lavoro.)
+
+**[Risposta del Tutor]**
+- That's totally understandable. Being swamped with work can be exhausting! What kind of work kept you so busy today?
+```
 
 ---
 
-## 🚀 La Soluzione: "Il Prompt del Tutor Linguistico"
+## ⚡️ Riassunto in 3 punti (TL;DR)
 
-### 🥉 Versione Base (Basic Version)
+1. **Assegnazione della Persona:** Istruisci l'AI ad assumere il ruolo specifico di un tutor madrelingua con 10 anni di esperienza, severo ma gentile.
+2. **Configurazione delle regole di correzione:** Imposta vincoli affinché l'AI non sia solo un compagno di chiacchiere, ma fornisca un feedback immediato su errori grammaticali ed espressioni goffe a ogni turno di conversazione.
+3. **Scenario personalizzato:** Inserisci un contesto perfettamente adatto alla tua situazione, come email aziendali o conversazione pratica per viaggi, per massimizzare il senso di realtà.
 
-Ideale per una rapida correzione o per fare pratica su argomenti informali e quotidiani.
+---
 
-> **Ruolo:** Sei un insegnante madrelingua di `[Inserisci la lingua target]`.
-> **Azione:** Conversa con me al livello `[Inserisci il tuo livello, es. A2]`. Correggi ogni mio errore grammaticale o lessicale prima di rispondere alla mia frase. Iniziamo: fammi tu la prima domanda!
+## 🚀 Ecco come scrivono i veri esperti
 
-### 🥇 Versione Pro (Expert Version)
+Questo è un prompt perfezionato dopo dozzine di tentativi ed errori. Copia il prompt qui sotto e compila solo le parti tra `[parentesi]` in base alla tua situazione per metterlo subito in pratica.
 
-Questo prompt struttura un ambiente di apprendimento immersivo, perfetto per sessioni di studio approfondite e simulazioni di role-play.
+### 🥉 Versione Base
 
-> **Ruolo (Role):** Sei il mio tutor personale e madrelingua di `[Inserisci la lingua target]`, esperto in didattica delle lingue straniere. Il tuo tono è incoraggiante, paziente e altamente professionale.
+Usalo immediatamente quando hai bisogno di un partner per la conversazione libera in modo leggero durante il tragitto casa-lavoro, senza impostazioni complicate.
+
+> **Ruolo (Role):** Sei un tutor madrelingua di `[inglese]` gentile e paziente.
+>
+> **Richiesta (Task):** 
+> 1. Conversa con me quotidianamente e, se uso una grammatica errata o espressioni goffe, correggimi immediatamente e consiglia espressioni naturali.
+> 2. Fai solo una domanda alla volta.
+
+### 🥇 Versione Pro
+
+Utilizzalo quando hai bisogno di un feedback sofisticato che analizzi i tuoi punti deboli e di una correzione sistematica e approfondita, andando oltre la semplice conversazione. Se combinato con la funzione di conversazione vocale di ChatGPT, offre un'efficienza di apprendimento travolgente.
+
+> **Ruolo (Role):**
+> Sei un tutor madrelingua di `[lingua di destinazione: es. Inglese]` di altissimo livello con certificazione TESOL e oltre 10 anni di esperienza pratica. Il tuo obiettivo finale è portare le mie abilità linguistiche a un livello nativo perfetto.
 >
 > **Contesto (Context):**
+> - Background: `[situazione attuale, es: sessioni di conversazione libera di 30 minuti ogni giorno da domani]`
+> - Livello dello studente: `[livello CEFR, es: B1 (Intermedio)]`
+> - Obiettivo: `[es: preparazione per un colloquio in inglese in un'azienda IT multinazionale]`
+> - I miei punti deboli: `[es: uso delle preposizioni, confusione nel past perfect]`
 >
-> - Il mio livello attuale: `[es. B1 Intermedio]`
-> - Il mio obiettivo: `[es. Superare un colloquio di lavoro in inglese / Imparare lo slang spagnolo per viaggiare]`
-> - Tema della lezione di oggi: `[es. Simulazione di un meeting aziendale / Ordinare cibo al ristorante]`
->
-> **Azione (Task):**
->
-> 1. Iniziamo una simulazione di conversazione (role-play) basata sul tema scelto. Sarai tu a fare la prima mossa o a porre la prima domanda.
-> 2. Aspetta la mia risposta dopo ogni tua battuta. Non scrivere mai l'intero dialogo da solo.
-> 3. Dopo ogni mia risposta, fornisci il tuo feedback usando rigorosamente questo formato:
->    - **Correzione:** (La mia frase corretta, se ho commesso errori; altrimenti scrivi "Perfetto!")
->    - **Spiegazione:** (Il motivo grammaticale dell'errore, spiegato in `[Inserisci la tua lingua madre, es. Italiano]`)
->    - **La tua risposta:** (La naturale continuazione della conversazione nella `[Inserisci la lingua target]`)
+> **Richiesta (Task):**
+> 1. Analizza meticolosamente ogni messaggio che invio e rispondi seguendo rigorosamente il processo descritto di seguito.
+> 2. Se trovi errori grammaticali o lessicali nella mia frase, spiega chiaramente la frase corretta e il motivo nella sezione **[Correzione]**.
+> 3. Anche se la mia frase è grammaticalmente corretta, se esiste un'espressione naturale che un madrelingua userebbe più spesso, consiglia un'alternativa nella sezione **[Espressione Nativa]**.
+> 4. Dopo tutto il feedback, poni esattamente una domanda per continuare la conversazione in modo naturale nella sezione **[Risposta del Tutor]**.
 >
 > **Vincoli (Constraints):**
+> - Per la leggibilità su mobile, non usare mai tabelle (Table), ma organizza i contenuti in elenchi puntati (List) ad alta leggibilità.
+> - Evidenzia in **grassetto** le parole chiave importanti.
+> - Non valutare i miei messaggi tutti insieme alla fine, ma fornisci un feedback immediato a ogni turno (Turn) di conversazione.
+> - Riduci al minimo le spiegazioni in italiano (lingua madre) e spiega il più possibile in `[lingua di destinazione]` semplice, usando l'italiano solo per strutture grammaticali complesse che potrebbero essere difficili da capire.
+> - Il formato di output deve sempre mantenere il formato markdown qui sotto.
+> 
+> **[Correzione]**
+> - (Inserisci feedback qui)
+> 
+> **[Espressione Nativa]**
+> - (Inserisci espressione alternativa qui)
+> 
+> **[Risposta del Tutor]**
+> - (Inserisci continuazione della conversazione qui)
 >
-> - Mantieni il vocabolario e la complessità strutturale adatti al mio livello.
-> - Se uso una parola in `[Inserisci la tua lingua madre]`, traducila e insegnami come usarla nel contesto corretto.
-> - Non scrivere blocchi di testo troppo lunghi: mantieni un ritmo di botta e risposta naturale, scrivendo esclusivamente la tua parte.
-> - Non inventare regole grammaticali se non ne sei assolutamente sicuro.
+> **Note (Warning):**
+> - Non inventare mai etimologie o conoscenze grammaticali incerte; rispondi chiaramente "Non lo so" se non sei sicuro. (Prevenzione allucinazioni)
 
 ---
 
-## 💡 L'Intuizione dell'Autore (Insight)
+## 💡 Commento dell'Autore (Insight e Modalità d'uso)
 
-Il vero potenziale di questo prompt si sblocca quando sfrutti le **funzionalità vocali** (come la Voice Mode di ChatGPT). Indossare le cuffie e parlare ad alta voce mentre cammini o guidi trasforma questa esperienza in un'immersione linguistica totale e senza filtri.
+Il motivo per cui questo prompt ha una potenza distruttiva diversa dalle solite conversazioni con i chatbot è che forza un addestramento di **'Micro-targeting che colpisce con insistenza i propri punti deboli'**.
 
-Inoltre, l'approccio strutturato del feedback (Correzione -> Spiegazione -> Risposta) impedisce all'IA di limitarsi a una semplice conversazione, obbligandola a mantenere il suo ruolo didattico. Ti consiglio vivamente di salvare le "Correzioni" su un'app di flashcard (come Anki) per memorizzare i concetti e non ripetere mai più gli stessi errori.
+In genere, le persone danno all'AI solo istruzioni superficiali (Zero-shot) come _"Parla con me in inglese"_. In questo caso, l'AI si trasforma in una semplice chiacchierona che mostra solo empatia, diventando un 'tutor incompetente' che sorvola su qualsiasi errore tu faccia. Al contrario, questo prompt professionale assegna all'AI la potente persona di **'Capo Tutor con 10 anni di esperienza e certificazione TESOL'** e, allo stesso tempo, impone vincoli rigorosi (Constraints) per rispettare il formato di output in 3 fasi: **[Correzione] -> [Espressione Nativa] -> [Risposta del Tutor]** a ogni turno di conversazione.
+
+Grazie a questi vincoli strutturati, l'AI non perde la tensione della conversazione e funziona come una **macchina di correzione ad alta precisione** che non si lascia sfuggire nemmeno un piccolo errore negli articoli o una preposizione goffa. L'utilità di questo tutor AI si espande all'infinito a seconda di come sintonizzi le `[variabili]` all'interno del prompt.
+
+Primo, **sfrutta al 200% le variabili `[Livello dello studente]` e `[I miei punti deboli]`.**
+Se sei debole nel past perfect o nel periodo ipotetico, prova a specificare `[I miei punti deboli: periodo ipotetico, present perfect continuous]`. Sorprendentemente, il tutor AI inizierà a indurre situazioni o domande a cui puoi rispondere solo usando quella specifica grammatica durante la conversazione. In altre parole, è esattamente lo stesso principio di un **Personal Trainer (PT) in palestra** che colpisce selettivamente solo i muscoli più deboli.
+
+Secondo, **inserisci un contesto (Context) estremamente specifico nella variabile `[Obiettivo di apprendimento]`.**
+Non scrivere vagamente 'migliorare la conversazione inglese'. Più dettagliato è il background, come _"Preparazione per un meeting su Zoom per l'introduzione di uno stack tecnologico con gli ingegneri della sede centrale della Silicon Valley la prossima settimana"_ o _"Situazione in cui si ordina una cena completa e si chiede un consiglio sul vino in un ristorante di Parigi"_, più alto sarà il coinvolgimento dell'AI nel role-play. Potrai acquisire naturalmente il miglior vocabolario aziendale e il gergo del settore (Jargon) da utilizzare immediatamente nella realtà.
+
+Il vero valore di questo prompt esplode quando combinato con la **Modalità Voce Avanzata (Advanced Voice Mode)** dell'app per smartphone.
+
+L'utilizzo è molto semplice. Per prima cosa, copia e invia il prompt sopra nella chat testuale. Quando l'AI passa alla modalità tutor e invia il primo saluto via testo, premi l'**'icona della voce (microfono)'** in basso a destra dello schermo per iniziare la conversazione.
+
+Da quel momento, non c'è bisogno di guardare lo schermo dello smartphone. Indossa gli auricolari Bluetooth e parla in modo naturale mentre cammini o lavi i piatti, proprio come se fossi al telefono con un madrelingua. Se sbagli la pronuncia o la grammatica, l'AI ti correggerà gentilmente a voce: _"Quello che hai appena detto va bene, ma i madrelingua in quel caso usano molto più spesso I'm swamped with work!"_
+
+La sfacciataggine che deriva dalla sicurezza psicologica travolgente di non dover temere il giudizio altrui è il trucco più potente per triplicare le tue abilità di conversazione in breve tempo. L'esperienza elettrizzante di usare oggi una parola imparata ieri e ricevere complimenti e feedback immediati. Con questo solo prompt, puoi **risparmiare (Save) completamente oltre 200 euro al mese di costi educativi**.
 
 ---
 
 ## 🙋 Domande Frequenti (FAQ)
 
-- **Q: Devo usare per forza i modelli a pagamento (es. GPT-4 o Claude 3.5 Sonnet)?**
-  - A: No, anche le versioni gratuite (come GPT-3.5 o Gemini Flash) sono eccellenti per le lingue principali (Inglese, Spagnolo, Francese). Tuttavia, per lingue con sfumature complesse (come il Coreano o l'Arabo), i modelli avanzati offrono correzioni molto più precise e naturali.
+- **Q: È possibile usarlo per lingue diverse dall'inglese (giapponese, spagnolo, ecc.)?**
+  - A: Certamente! Basta inserire la lingua che desideri imparare nella parte `[Lingua di destinazione: es. Inglese]` e l'AI si trasformerà immediatamente nel miglior tutor madrelingua di quella lingua al mondo. Puoi persino specificare dialetti o accenti specifici, come 'spagnolo del Messico' o 'inglese australiano'.
 
-- **Q: L'IA può insegnarmi anche la pronuncia?**
-  - A: Assolutamente sì, specialmente se utilizzi la funzione vocale. Puoi anche integrare il prompt aggiungendo: _"Valuta la mia pronuncia e dammi consigli pratici su come posizionare la lingua o le labbra per riprodurre i suoni più difficili."_
+- **Q: Come devo applicare il prompt quando uso la modalità voce nell'app per smartphone?**
+  - A: Apri prima la chat testuale e invia il prompt della **Versione Pro**. L'AI riconoscerà il suo ruolo di tutor e invierà un saluto iniziale (testo). Subito dopo, premi l'icona del microfono sullo schermo dell'app per passare alla conversazione vocale; le rigorose regole di correzione inserite in precedenza rimarranno attive per tutta la durata della conversazione vocale.
 
 ---
 
 ## 🧬 Anatomia del Prompt (Perché funziona?)
 
-1. **Role-play guidato (Task):** Costringe l'IA a un'interazione passo-passo (botta e risposta) anziché generare un lungo e inutile monologo.
-2. **Formato rigido di output (Constraints):** La struttura divisa in "Correzione", "Spiegazione" e "Risposta" assicura che tu impari dall'errore prima di far progredire la storia o la conversazione.
-3. **Livellamento dinamico (Context):** Specificare il proprio livello (es. A2 o B2) impedisce all'IA di usare un gergo o strutture grammaticali troppo complesse, azzerando la frustrazione dello studente.
+1. **Persona dettagliata (Assegnazione del Role):** Invece di dire semplicemente all'AI 'fai il tutor', abbiamo inserito background dettagliati come **'Certificazione TESOL'** e **'10 anni di esperienza'**. Questo spinge l'AI a generare feedback basati su dati linguistici più accademici e precisi, piuttosto che essere una semplice compagna di chiacchiere.
+2. **Output strutturato (Format & Constraints):** Abbiamo imposto rigorosamente il formato in 3 fasi: `[Correzione]`, `[Espressione Nativa]` e `[Risposta del Tutor]`. Grazie a ciò, evitiamo che l'AI si lasci trasportare e faccia andare la conversazione fuori tema o ometta il feedback principale, garantendo un'esperienza di apprendimento di qualità costante.
 
 ---
 
-## 📊 La Prova: Prima & Dopo
+## 🎯 Conclusione (Epilogo)
 
-### ❌ Prima (Approccio non strutturato)
+I fattori decisivi che determinano il successo nell'apprendimento di una lingua straniera sono l'**'esposizione costante'** e il **'feedback immediato'**. Senza doverti vergognare o preoccuparti dello sguardo degli altri, dedica solo 10 minuti al giorno a conversazioni profonde con il tuo tutor AI e sperimenta abilità linguistiche cresciute un po' più rispetto a ieri.
 
-```text
-Utente: Let's talk in English. I want practice.
-IA: Hello! I'd be happy to practice English with you. What would you like to talk about today? We can discuss your hobbies, your work, or anything else that interests you. How was your day?
-(L'utente si perde nel testo troppo lungo e l'IA non ha corretto gli errori iniziali)
-```
+Non c'è più bisogno di pagare costose rette per lezioni telefoniche e di adattare il tuo tempo prezioso al programma di un insegnante. Copia subito il prompt sopra e inizia la prima conversazione che cambierà la tua vita! 🗣️
 
-### ✅ Dopo (Utilizzando il Prompt Pro)
-
-```text
-IA: Welcome to your interview at TechCorp! Let's start. Could you please tell me a little bit about yourself and your previous experience?
-
-Utente: I have worked as developer for 3 year. I am good at python.
-
-IA:
-- **Correzione:** I have worked as a developer for 3 years. I am good at Python.
-- **Spiegazione:** Ricorda di usare l'articolo "a" prima delle professioni e di aggiungere la "s" per il plurale di "year" visto che sono 3.
-- **La tua risposta:** That's great! Python is a very in-demand skill. Can you describe a challenging project you built using Python?
-```
-
----
-
-## 🎯 Conclusione
-
-Non hai più scuse per rimandare lo studio di quella lingua che hai sempre sognato di imparare. Con l'IA hai a disposizione un tutor infinitamente paziente, altamente competente e sempre pronto ad aiutarti, direttamente nella tua tasca. Copia il prompt, imposta la tua lingua target e inizia a parlare con sicurezza oggi stesso.
-
-Buono studio e _buena suerte_! 🌍
+Ti auguro di automatizzare il tuo lavoro e di uscire dall'ufficio in modo cool (o di finire in orario)! 🍷

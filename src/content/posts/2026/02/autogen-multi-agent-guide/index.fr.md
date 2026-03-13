@@ -4,9 +4,9 @@ title: " \"AutoGen 입문: AI 에이전트끼리 대화하게 만들기\""
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "AI/개발"
+category: "General"
 description: "Guide complet sur AutoGen de Microsoft. Créez une équipe d'agents IA autonomes qui collaborent, codent et corrigent les bugs pour finaliser vos projets."
-tags: ["AutoGen", "멀티에이전트", "MS", "AI협업", "자동화"]
+tags: ["AutoGen", "멀티에이전트", "MS", "AI협업", "Automation"]
 ---
 
 ## 🤖 Introduction à AutoGen : Faire dialoguer les agents IA entre eux

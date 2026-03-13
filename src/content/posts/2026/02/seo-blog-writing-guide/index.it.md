@@ -4,9 +4,9 @@ title: " \"SEO(검색엔진최적화): 구글 1페이지 먹는 글쓰기 공식
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "비즈니스/마케팅"
+category: "General"
 description: "Aumenta i visitatori organici di 10 volte posizionando bene le parole chiave principali. Scopri la formula IA per una struttura SEO che Google adorerà."
-tags: ["SEO", "블로그", "구글상위노출", "티스토리", "마케팅"]
+tags: ["SEO", "Blog", "구글상위노출", "티스토리", "Marketing"]
 ---
 
 ## 🔍 SEO: La Formula di Scrittura per Dominare la Prima Pagina di Google

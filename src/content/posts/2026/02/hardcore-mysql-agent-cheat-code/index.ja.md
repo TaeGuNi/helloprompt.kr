@@ -4,7 +4,7 @@ title: "🚨 チャットボットを冷酷なDBエンジニアに改造するMy
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "AIの無駄な愛想を削ぎ落とし、データ破壊を防ぐ無慈悲なMySQLエージェントプロンプトのセットアップ。"
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "mysql"]
 ---

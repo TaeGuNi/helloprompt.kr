@@ -4,7 +4,7 @@ title: " \"정중하고 명확한 비즈니스 이메일 답장, 고민 없이 3
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "비즈니스"
+category: "General"
 description: "Reduzir 30 minutos na escrita de e-mails transforma sua eficiência. Aprenda a recusar propostas e renegociar prazos com elegância usando IA."
 tags: ["이메일", "커뮤니케이션", "영어이메일"]
 ---

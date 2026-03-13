@@ -4,7 +4,7 @@ title: "추론 모델(Reasoning Model)을 위한 CoT 최적화 프롬프트"
 author: "Jay"
 date: "2026-02-09"
 updatedDate: "2026-02-09"
-category: "개발 생산성"
+category: "General"
 description: "这是一套旨在极大化 Gemini 3、DeepSeek 等推理型 AI 性能的 Chain of Thought (CoT) 提示词设计技巧与指南。"
 tags: ["AI", "Prompt Engineering", "CoT"]
 ---

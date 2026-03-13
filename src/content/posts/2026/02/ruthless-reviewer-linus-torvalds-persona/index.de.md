@@ -4,7 +4,7 @@ title: "Die ultimative Code-Reviewer-Persona, die KI-Code in Stücke reißt (Lin
 author: "Jay"
 date: "2026-02-25"
 updatedDate: "2026-02-25"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Ein rigoroser KI-Code-Reviewer-Prompt, der Schmeicheleien ignoriert und erbarmungslos Zeitkomplexität sowie extreme Edge-Cases aufdeckt."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ruthless-reviewer"]
 ---

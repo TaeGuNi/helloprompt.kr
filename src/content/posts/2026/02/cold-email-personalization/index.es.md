@@ -4,7 +4,7 @@ title: " \"응답률 200% 높이는 초개인화 콜드 메일 작성법\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "세일즈"
+category: "General"
 description: "Aprende a redactar correos en frío ultra-personalizados con IA que parecen propuestas exclusivas, basándote en la actividad reciente de tu prospecto."
 tags: ["세일즈", "콜드메일", "B2B", "영업"]
 ---

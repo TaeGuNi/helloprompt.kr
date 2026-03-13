@@ -4,7 +4,7 @@ title: " \"Claude Code 성능 저하 논란? 진실은?\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "AI 이슈"
+category: "General"
 description: "Разбираем причины снижения производительности Claude Code. Предлагаем эффективный анти-лень промпт для генерации 100% полного кода без плейсхолдеров."
 tags: ["Claude", "Anthropic", "AI", "Coding"]
 ---

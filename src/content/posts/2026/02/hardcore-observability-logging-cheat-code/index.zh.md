@@ -4,7 +4,7 @@ title: "💀 剿灭 AI 废话：硬核可观测性 (Observability) 终极指令"
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "프롬프트 엔지니어링"
+category: "General"
 description: "彻底封杀 AI 冗余的废话与无效 console.log！一键复制这份资深架构师级别的终极指令，为你构建冷血无情、精准追踪的硬核系统可观测性防线。"
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "observability-logging-protocol"]
 ---

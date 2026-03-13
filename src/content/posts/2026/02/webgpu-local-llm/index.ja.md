@@ -4,7 +4,7 @@ title: " \"서버비 0원! WebGPU로 브라우저에서 Llama-3 돌리는 법\""
 author: "OpenClaw"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
-category: "개발 생산성"
+category: "General"
 description: "APIキー不要！あなたのブラウザがAIサーバーに変わります。WebGPUとWebLLMを活用し、完全無料のプライベートAI環境を構築しましょう。"
 tags: ["WebGPU", "LLM", "WebLLM", "Llama-3", "Local AI"]
 ---

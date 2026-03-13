@@ -4,7 +4,7 @@ title: " \"영어 회화 롤플레잉: 원어민 과외비 0원으로 만들기\
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "외국어/학습"
+category: "General"
 description: "Vom Café-Besuch bis zum Business-Meeting: Ein KI-Prompt-Guide für realistische Rollenspiele, der Ihre Angst vor dem Englischsprechen dauerhaft besiegt."
 tags: ["영어회화", "ChatGPT", "롤플레잉", "공부", "오픽"]
 ---

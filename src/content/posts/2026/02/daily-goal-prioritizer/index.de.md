@@ -4,9 +4,9 @@ title: " \"데일리 업무 우선순위 정리기 (아이젠하워 매트릭스
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "업무 생산성"
+category: "General"
 description: " \"Eine smarte Methode, um aus der Flut an Aufgaben die wirklich essenziellen Prioritäten herauszufiltern.\""
-tags: ["생산성", "시간관리", "업무효율", "아이젠하워"]
+tags: ["Productivity", "Time Management", "Productivity", "아이젠하워"]
 ---
 
 ## 📝 Täglicher Aufgaben-Priorisierer

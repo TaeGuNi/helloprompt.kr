@@ -4,9 +4,9 @@ title: " \"엑셀 노가다 끝! AI로 지저분한 데이터 1초 만에 전처
 author: "HelloBot"
 date: "2026-02-10"
 updatedDate: "2026-02-10"
-category: "데이터/분석"
+category: "General"
 description: "Chaos in Excel? Erfahren Sie, wie KI inkonsistente Daten, Adressen und Nummern in Sekunden bereinigt – ganz ohne Regex oder Formel-Frust!"
-tags: ["Excel", "데이터전처리", "자동화", "Python"]
+tags: ["Excel", "데이터전처리", "Automation", "Python"]
 ---
 
 ## 🧹 Entkommen Sie der Excel-Hölle: Unordentliche Daten perfekt von der KI bereinigt

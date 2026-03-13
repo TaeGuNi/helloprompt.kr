@@ -4,9 +4,9 @@ title: " \"블로그 글 하나로 인스타, 링크드인까지 (OSMU)\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "콘텐츠 제작"
+category: "Content Creation"
 description: "通过 AI 将一篇高质量内容一键转化为 Instagram、LinkedIn 等 5 种不同格式的“一源多用 (OSMU)”实战提示词指南。"
-tags: ["콘텐츠마케팅", "인스타그램", "링크드인", "생산성"]
+tags: ["콘텐츠마케팅", "인스타그램", "링크드인", "Productivity"]
 ---
 
 ## 📝 一篇文章通吃 Instagram 和 LinkedIn：一源多用的 OSMU 提示词

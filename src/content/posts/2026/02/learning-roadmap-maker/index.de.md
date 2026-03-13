@@ -4,7 +4,7 @@ title: " \"작심삼일 없는 3일/3주 초단기 학습 로드맵 생성기\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "학습"
+category: "General"
 description: "Ein maßgeschneiderter Prompt zur Erstellung von Lernplänen für alle, die sich schnell und effizient neues Wissen aneignen möchten."
 tags: ["Learning", "Roadmap", "Education", "SelfImprovement"]
 ---

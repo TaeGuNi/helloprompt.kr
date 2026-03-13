@@ -4,7 +4,7 @@ title: " \"TRPG 게임 마스터: 주사위 굴리며 던전 탐험하기\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "재미/엔터"
+category: "General"
 description: "Non ti servono amici né dadi fisici. Vivi un'epica avventura di D&D in solitario, guidata interamente dall'IA come tuo Game Master personale."
 tags: ["TRPG", "게임", "던전앤드래곤", "판타지", "ChatGPT"]
 ---

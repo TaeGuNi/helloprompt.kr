@@ -4,7 +4,7 @@ title: " \"Claude Code 성능 저하 논란? 진실은?\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "AI 이슈"
+category: "General"
 description: "Claude Code semble paresseux ? Analyse de cette baisse de performance et stratégies de prompts stricts pour forcer l'IA à générer du code 100% complet."
 tags: ["Claude", "Anthropic", "AI", "Coding"]
 ---

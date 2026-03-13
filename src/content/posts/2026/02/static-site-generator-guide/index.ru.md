@@ -4,9 +4,9 @@ title: " \"정적 사이트 생성기(SSG): Astro vs Next.js vs Gatsby\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "개발/코딩"
+category: "General"
 description: "Хотите создать блог без затрат на сервер? Называем лучший генератор статических сайтов (SSG) 2026 года и даем идеальный промпт для быстрого старта."
-tags: ["SSG", "Astro", "Next.js", "블로그", "프론트엔드"]
+tags: ["SSG", "Astro", "Next.js", "Blog", "Frontend"]
 ---
 
 ## 🚀 Генераторы статических сайтов (SSG): Astro vs Next.js vs Gatsby {#ssg}

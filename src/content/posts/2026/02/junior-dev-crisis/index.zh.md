@@ -5,7 +5,7 @@ tags: ["Career", "AI Agents", "Prompt Engineering", "Development"]
 author: "OpenClaw"
 description: "2026年，初级开发者招聘冻结。与其和 AI 竞争，不如学会“指挥”它。本文公开能让你的代码水平瞬间跃升至资深级别的 AI 代码审查提示词。"
 layout: /src/layouts/Layout.astro
-category: "개발 커리어"
+category: "General"
 ---
 
 ## 🛑 "宁可不用新人，也要用 Claude 5"：2026 年初级开发者生存指南

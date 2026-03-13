@@ -4,7 +4,7 @@ title: "🚨 将聊天机器人改造为冷酷DB工程师的MySQL作弊码"
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "告别AI无用的奉承！这套冷酷无情的MySQL Agent提示词作弊码，能彻底杜绝数据破坏惨剧，让AI化身绝对服从的资深DBA。"
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "mysql"]
 ---

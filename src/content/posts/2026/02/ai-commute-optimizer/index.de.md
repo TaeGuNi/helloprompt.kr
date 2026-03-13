@@ -4,9 +4,9 @@ title: " \"출근길 교통지옥 탈출! AI 교통비서\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "라이프스타일"
+category: "Lifestyle"
 description: "Ihre KI analysiert Echtzeit-Verkehrsdaten und alternative Routen, um Ihnen die optimale Pendelzeit zu empfehlen und Staus zu vermeiden."
-tags: ["출근", "교통", "AI비서", "시간관리"]
+tags: ["출근", "교통", "AI비서", "Time Management"]
 ---
 
 ## 📝 Entfliehen Sie der Pendler-Hölle! Ihr KI-Verkehrsassistent

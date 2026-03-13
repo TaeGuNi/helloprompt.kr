@@ -4,7 +4,7 @@ title: " \"인테리어 컨설팅: 방 사진 찍어 올리면 가구 배치 추
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "라이프/리빙"
+category: "General"
 description: "狭小的单间或杂乱的客厅无从下手？只需一张照片和简单的尺寸数据，AI 即可为您量身定制最佳的家具摆放方案与软装搭配建议。"
 tags: ["인테리어", "집꾸미기", "가구배치", "ChatGPT", "홈스타일링"]
 ---

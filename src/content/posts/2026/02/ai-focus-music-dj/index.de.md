@@ -4,9 +4,9 @@ title: " \"아침 몰입도 200%! AI 집중력 DJ\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "생산성"
+category: "General"
 description: "Erstellen Sie maßgeschneiderte Playlists, die Ihre Gehirnwellen stimulieren und für maximalen Fokus sorgen."
-tags: ["집중력", "음악", "생산성", "몰입"]
+tags: ["집중력", "음악", "Productivity", "몰입"]
 ---
 
 ## 🎧 200 % Fokus am Morgen! Dein KI-Konzentrations-DJ

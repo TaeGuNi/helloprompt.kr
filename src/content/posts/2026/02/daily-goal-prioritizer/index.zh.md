@@ -4,9 +4,9 @@ title: " \"데일리 업무 우선순위 정리기 (아이젠하워 매트릭스
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "업무 생산성"
+category: "General"
 description: "从繁杂无章的待办事项中，精准筛选出“真正重要任务”的智能法则。"
-tags: ["생산성", "시간관리", "업무효율", "아이젠하워"]
+tags: ["Productivity", "Time Management", "Productivity", "아이젠하워"]
 ---
 
 ## 📝 每日工作优先级整理器 (Eisenhower Matrix)

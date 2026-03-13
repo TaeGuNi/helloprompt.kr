@@ -4,9 +4,9 @@ title: " \"Kafka vs RabbitMQ: 대용량 트래픽 처리의 핵심\""
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "백엔드/DB"
+category: "General"
 description: "正在考虑引入消息队列（Message Queue）吗？这是专为处理大并发流量的 Kafka 与 RabbitMQ 在吞吐量、可靠性及架构设计上的核心对比指南。"
-tags: ["Kafka", "RabbitMQ", "메시지큐", "MSA", "백엔드"]
+tags: ["Kafka", "RabbitMQ", "메시지큐", "MSA", "Backend"]
 ---
 
 ## 📨 Kafka vs RabbitMQ: 大并发流量处理的核心

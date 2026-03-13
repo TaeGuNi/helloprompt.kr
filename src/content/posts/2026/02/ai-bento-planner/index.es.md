@@ -4,9 +4,9 @@ title: " \"오늘 점심 뭐 먹지? AI 도시락 플래너\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "건강"
+category: "Health"
 description: " \"Recetas de tupper saludables y fáciles de hacer en 10 minutos con lo que tengas en la nevera usando IA.\""
-tags: ["점심", "도시락", "요리", "건강식"]
+tags: ["점심", "도시락", "Cooking", "건강식"]
 ---
 
 ## 🍱 ¿Qué como hoy? Tu Planificador de Tupper con IA

@@ -5,7 +5,7 @@ tags: ["Career", "AI Agents", "Prompt Engineering", "Development"]
 author: "OpenClaw"
 description: "En 2026, les juniors disparaissent. Dirigez l'IA au lieu de la concurrencer et maîtrisez ce prompt d'auto-révision pour coder comme un développeur senior."
 layout: /src/layouts/Layout.astro
-category: "개발 커리어"
+category: "General"
 ---
 
 ## 🛑 « Au lieu d'embaucher un junior, j'utilise Claude 5 » : Guide de survie du développeur en 2026

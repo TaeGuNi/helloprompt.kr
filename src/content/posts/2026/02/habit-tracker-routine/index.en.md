@@ -4,9 +4,9 @@ title: " \"루틴 관리: 작심삼일 타파하는 습관 추적기(Habit Track
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "자기계발/생산성"
+category: "General"
 description: "Weak willpower is a matter of science. Discover an AI routine design method applying neuroscience theories and Atomic Habits."
-tags: ["습관", "루틴", "갓생", "ChatGPT", "Notion"]
+tags: ["Habit", "Routine", "갓생", "ChatGPT", "Notion"]
 ---
 
 ## 📅 Routine Management: The Habit Tracker That Breaks the Three-Day Curse

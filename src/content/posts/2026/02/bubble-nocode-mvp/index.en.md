@@ -4,9 +4,9 @@ title: " \"노코드(Bubble)로 MVP 찍어내기: 개발자 없이 창업하는 
 author: "Jay"
 date: "2026-02-10"
 updatedDate: "2026-02-10"
-category: "창업/기획"
+category: "General"
 description: "Got a great idea but can't code? Discover the secret to building a fully functional MVP app in just 3 days using Bubble—no developer required."
-tags: ["노코드", "Bubble", "MVP", "스타트업", "창업"]
+tags: ["No-code", "Bubble", "MVP", "Startup", "Entrepreneurship"]
 ---
 
 ## 🚀 Churning Out MVPs with No-Code (Bubble): How to Launch a Startup Without Developers

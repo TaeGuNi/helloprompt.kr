@@ -4,7 +4,7 @@ title: "⚽ Sassuolo vs Atalanta: Prompt para extraer análisis de rendimiento e
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "La guía definitiva para analizar grandes volúmenes de datos deportivos con IA en un minuto y generar informes tácticos de nivel profesional."
 tags: ["prompt-engineering", "ai-agent", "sassuolo-vs-ata"]
 ---

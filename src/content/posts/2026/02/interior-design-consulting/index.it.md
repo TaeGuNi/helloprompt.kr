@@ -4,7 +4,7 @@ title: " \"인테리어 컨설팅: 방 사진 찍어 올리면 가구 배치 추
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "라이프/리빙"
+category: "General"
 description: "Monolocali stretti o disordinati? Carica una foto e l'AI ti consiglierà la disposizione ottimale di mobili e accessori per trasformare il tuo spazio."
 tags: ["인테리어", "집꾸미기", "가구배치", "ChatGPT", "홈스타일링"]
 ---

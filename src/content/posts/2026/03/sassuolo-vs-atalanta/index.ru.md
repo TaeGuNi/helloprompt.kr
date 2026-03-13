@@ -4,7 +4,7 @@ title: "⚽ Сассуоло vs Аталанта: Промпт для всест
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Идеальный ИИ-промпт для мгновенного анализа огромных массивов спортивных данных. Сократите время подготовки превью матчей и отчетов до 1 минуты."
 tags: ["prompt-engineering", "ai-agent", "sassuolo-vs-ata"]
 ---

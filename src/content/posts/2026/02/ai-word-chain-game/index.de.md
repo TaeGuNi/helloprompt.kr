@@ -4,7 +4,7 @@ title: " \"AI와 끝말잇기: 절대 질 수 없는 끝말잇기 고수\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "재미/엔터"
+category: "General"
 description: "Besiegen Sie die KI im Wortketten-Spiel! Entdecken Sie den ultimativen Prompt, der die KI bändigt und für ein faires, spannendes Match auf Augenhöhe sorgt."
 tags: ["끝말잇기", "게임", "ChatGPT", "한국어", "놀이"]
 ---

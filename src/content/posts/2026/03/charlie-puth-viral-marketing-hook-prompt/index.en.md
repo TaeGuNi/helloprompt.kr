@@ -4,7 +4,7 @@ title: "Crafting Hooks Like Charlie Puth: Turning Ordinary Daily Life into Viral
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Learn how to channel Charlie Puth's genius to turn boring product features into irresistible, viral marketing hooks for TikTok and Instagram Reels."
 tags: ["prompt-engineering", "ai-agent", "charlie-puth"]
 image: "/images/hooks/charlie-puth-viral-marketing-hook-prompt.jpg"

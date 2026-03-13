@@ -4,7 +4,7 @@ title: " \"베란다를 숲으로: AI 홈가드닝 플래너\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "취미/라이프"
+category: "General"
 description: "Adeus, dedo podre para plantas! Da recomendação ideal de luz à salvação de vasos moribundos, este é o guia definitivo do seu mordomo botânico de IA."
 tags: ["가드닝", "식집사", "반려식물", "플랜테리어"]
 ---

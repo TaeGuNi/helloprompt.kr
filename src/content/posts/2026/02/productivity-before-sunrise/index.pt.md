@@ -4,9 +4,9 @@ title: " \"해 뜨기 전 생산성을 폭발시키는 5가지 법칙\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Guia de produtividade matinal: como entregar o triplo de resultados enquanto os outros dormem, usando IA para organizar o seu dia na noite anterior."
-tags: ["생산성", "시간관리", "업무효율", "새벽업무"]
+tags: ["Productivity", "Time Management", "Productivity", "새벽업무"]
 ---
 
 ## 📝 5 Regras para Multiplicar sua Produtividade Antes do Amanhecer

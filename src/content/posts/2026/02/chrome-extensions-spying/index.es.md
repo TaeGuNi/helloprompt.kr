@@ -4,7 +4,7 @@ title: " \"당신을 감시하는 크롬 확장프로그램 280개 리스트\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "보안"
+category: "Security"
 description: "Guía definitiva con IA para detectar y eliminar extensiones maliciosas de Chrome que roban tus datos de navegación en secreto."
 tags: ["Security", "Chrome", "Privacy", "Browser"]
 ---

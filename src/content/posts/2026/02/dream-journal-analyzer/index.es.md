@@ -4,7 +4,7 @@ title: " \"내 꿈을 데이터로 분석해주는 AI 해몽 비서\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "재미/창의성"
+category: "General"
 description: "¿Crees que fue un sueño sin sentido? Podría ser una gran revelación. Analiza tu subconsciente con IA basándote en la psicología clínica y datos."
 tags: ["꿈일기", "심리분석", "창의력", "해몽"]
 ---

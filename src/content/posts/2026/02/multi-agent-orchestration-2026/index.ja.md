@@ -4,9 +4,9 @@ title: " \"초보자를 위한 AI 에이전트 오케스트레이션 입문 (Mul
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "単一のAIでは物足りないと感じていませんか？複数のAIをチームとして機能させる「マルチエージェント」コラボレーションプロンプトを大公開します。"
-tags: ["AI 에이전트", "자동화", "프롬프트 엔지니어링", "AutoGPT"]
+tags: ["AI 에이전트", "Automation", "Prompt Engineering", "AutoGPT"]
 ---
 
 ## 📝 孤独なAI作業はもう終わり：マルチエージェントチームの構築術

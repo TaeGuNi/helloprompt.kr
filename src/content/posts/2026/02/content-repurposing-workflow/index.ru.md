@@ -4,9 +4,9 @@ title: " \"블로그 글 하나로 인스타, 링크드인까지 (OSMU)\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "콘텐츠 제작"
+category: "Content Creation"
 description: "Промпт для автоматического превращения одной статьи в 5 форматов контента с помощью ИИ (One Source Multi-Use)."
-tags: ["콘텐츠마케팅", "인스타그램", "링크드인", "생산성"]
+tags: ["콘텐츠마케팅", "인스타그램", "링크드인", "Productivity"]
 ---
 
 ## 📝 Один пост в блоге — для Instagram и LinkedIn: мощный OSMU-промпт

@@ -4,7 +4,7 @@ title: "간밤의 꿈, AI 해몽가에게 물어보기"
 author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
-category: AI 활용
+category: "General"
 description: "Transformez vos souvenirs de rêves en précieuses introspections psychologiques avec ce prompt IA inspiré des théories de Freud et Jung."
 tags: [AI, ChatGPT, Prompt, 꿈해몽, 자기발견]
 ---

@@ -4,9 +4,9 @@ title: " \"출근길 교통지옥 탈출! AI 교통비서\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "라이프스타일"
+category: "Lifestyle"
 description: "La IA analiza el tráfico en tiempo real y las rutas alternativas para calcular el momento exacto en el que debes salir de casa para evitar atascos."
-tags: ["출근", "교통", "AI비서", "시간관리"]
+tags: ["출근", "교통", "AI비서", "Time Management"]
 ---
 
 ## 🚗 ¡Escapa del infierno del tráfico matutino! Tu asistente inteligente de transporte

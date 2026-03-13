@@ -4,7 +4,7 @@ title: "💀 Cheat Code de Prompt 'Arquiteto Sênior Espartano' que Destrói a B
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Prompt implacável que elimina a bajulação da IA e o código espaguete, gerando componentes de UI e design systems com perfeição matemática."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "design-system-identity"]
 ---

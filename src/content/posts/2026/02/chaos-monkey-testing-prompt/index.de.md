@@ -4,7 +4,7 @@ title: "Chaos Monkey Test-Prompt: Wie man KI foltert 💣 (Der Happy Path ist to
 author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "프롬프트 엔지니어링"
+category: "General"
 description: "Haben Sie genug vom seelenlosen 'Erfolgreich ausgeführt!' der KI? Ein Hardcore-Test-Cheatcode, der unerbittlich Systemausfall-Szenarien erzwingt."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "chaos-monkey-testing"]
 ---

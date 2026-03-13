@@ -1,136 +1,56 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"AI Code Reviewer: Transforming My Spaghetti Code into Silicon Valley Style (Code Review)\""
+title: "AI Code Reviewer: Transform Your 'Messy Code' into Silicon Valley Style (Code Review)"
 author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
-category: "개발/코딩"
-description: "No senior developer? No problem. Use this AI prompt to automate code reviews and transform your messy scripts into pristine, Silicon Valley-level clean code."
-tags: ["코드리뷰", "개발자", "클린코드", "리팩토링", "ChatGPT"]
+category: "Development/Coding"
+description: "No senior dev? No problem. Use this AI code review prompt to transform messy logic into high-quality, Silicon Valley-level clean code in seconds."
+tags: ["CodeReview", "Developer", "CleanCode", "Refactoring", "ChatGPT"]
 image: "/images/hooks/ai-code-reviewer.png"
 ---
 
-## 💻 AI Code Reviewer: Transforming My Spaghetti Code into Silicon Valley Style
+## 📝 AI Code Reviewer: Transform Your Messy Code into Silicon Valley Style
 
-- **🎯 Recommended for:** Junior developers without a mentor, maintainers drowning in legacy spaghetti code
-- **⏱️ Time required:** 30 minutes → Reduced to 1 minute
-- **🤖 Recommended model:** Claude 3.5 Sonnet (The ultimate champion at context comprehension and refactoring)
+- **🎯 Recommended For:** Junior developers struggling without a mentor, maintenance leads suffering from legacy spaghetti code.
+- **⏱️ Time Saved:** Reduced from 30 minutes → 1 minute.
+- **🤖 Best Performance:** Claude 3.5 Sonnet (The champion of code context understanding and refactoring).
 
 - ⭐ **Difficulty:** ⭐☆☆☆☆
 - ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
 - 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-> _"It works, but... the variables are named `a`, `b`, and `temp`. Even I'll curse at this in three months. Are you really going to commit this as is?"_
+> _"It works... but variable names are `a`, `b`, and `temp`. Are you really going to commit this code that even your future self will curse at in 3 months?"_
 
-![AI Code Reviewer](/images/hooks/ai-code-reviewer.png)
+It was my first year as a developer, and I had finally moved past supporting roles to handle my first independent feature. After several sleepless nights scouring Google, Stack Overflow, and various dev blogs, I managed to cobble together code that finally rendered on the screen and functioned correctly. Seeing the data move through the test server, I felt a surge of pride and uploaded my **PR (Pull Request)**. I was intoxicated by the feeling that I was finally pulling my weight. However, the next morning, I was met with dozens of ruthless review comments that plunged me into deep despair and self-doubt.
 
-During my first year as a junior developer, I was finally assigned my very first independent feature. After pulling an all-nighter, frantically scouring Google and Stack Overflow, I somehow managed to cobble together code that actually worked. Once I confirmed the feature ran smoothly on the staging server, I proudly submitted my PR. However, the next morning, my heart sank as I stared at dozens of comments lighting up my pull request. "These variable names aren't intuitive at all," "The time complexity here is O(N²)—can we optimize this?", "This is a critical logic flaw; the server could crash because of missing exception handling." The relentless feedback from the senior developers hit me hard, and I quickly realized my code was nothing short of a spaghetti nightmare. But the seniors were swamped with their own deadlines; they didn't have the time to kindly rewrite my logic or offer private tutoring sessions.
+"These variable names aren't intuitive; I can't tell what data is being held."
+"This section has a time complexity of O(N^2). It will cause serious performance degradation as users grow. Is there a better alternative?"
+"Error handling for network communication is completely missing. This is critical logic that could cause a server crash."
 
-If things continued like this, I was terrified of being branded as the "junior with rock-bottom code quality." My PRs kept getting rejected, the deadline was looming, and I was completely stuck on how to fix the structural issues. Trying to solve everything on my own just trapped me in a vicious cycle of wasting entire days. I felt too self-conscious to keep bothering my busy mentor with constant "Is it okay if I fix it like this?" questions, so my days of suffering in silence only grew longer. My stress hit an all-time high, and I even started doubting whether I was cut out to be a software engineer. If this developer lifestyle meant giving up my weekends, living at the office, and barely surviving by copy-pasting other people's snippets, I knew I was on the fast track to burnout. The isolating realization that no one had the bandwidth to review my code with both kindness and rigorous technical scrutiny was slowly eating away at me.
+The sharp, accurate feedback from senior developers was painful. I realized with agonizing clarity that the code I had written was nothing but **tangled spaghetti**. In my rush to implement the immediate feature, I had completely neglected 'maintainability' and 'readability'—the qualities needed for future colleagues to read and modify the code.
 
-Then, by pure chance, I stumbled upon a YouTube video demonstrating code refactoring using AI. It wasn't just a basic "fix my code" command; it was a brilliantly crafted prompt that assigned the AI the persona of a "Silicon Valley Principal Engineer," commanding it to ruthlessly dissect and elevate my code. Feeling like I had absolutely nothing to lose, I tossed my chaotic logic and this magic prompt into the AI. The result left me genuinely speechless. In a mere five seconds, the AI elegantly renamed my variables to perfectly align with the business logic, optimized sluggish double loops using the `reduce` function, and flawlessly rebuilt the logic with exception handling I hadn't even considered. It even added precise comments explaining exactly why these architectural decisions were made. It was a flawless experience—as if a genius, 10-year veteran engineer was sitting right next to me, patiently mentoring me through the night.
+The biggest problem was that the senior developers were also swamped with their own work. They didn't have the luxury of acting like private tutors, pointing out every single line of my code. I felt like I would forever be labeled as the **'burden junior with bottom-tier code quality.'** My PRs were constantly rejected and sent back to square one, while the release deadline loomed. I felt lost, not knowing where to even start fixing it. I was even hesitant to ask basic questions for fear of wasting my seniors' time. I began to have a fundamental crisis: "Am I even suited to be a software engineer?"
 
-Since integrating this prompt into my workflow, my life as a developer has completely transformed. I no longer dread clicking "Create Pull Request." Before I ever commit my work, I unconditionally pass my code to my AI senior developer for a rigorous preliminary review. By studying the refactored outputs, I've naturally absorbed the structural principles of clean code. The most amazing part? As I continually expose myself to the AI's elegant logic, my own coding style has dramatically leveled up. Now, even my human mentors review my PRs and say, "Your code quality has been phenomenal lately. Are you taking masterclasses on the side?" Beyond simply squashing bugs, this powerful prompt morphs fragile spaghetti code into robust, Silicon Valley-grade architecture. I highly encourage you to hire your own personal AI mentor today for free—and reclaim both your evenings and your passion for coding.
+My life as a developer was becoming a depressing cycle of meaningless copying and mechanical pasting. When unexpected bugs erupted on the production server, I couldn't even trace the flow. I spent nights staring at console logs. The end of this road was clearly a case of **severe burnout**. The temptation to quit the IT industry altogether grew stronger every night I spent frustrated in front of a dark monitor.
 
----
+Then, I discovered the **world of code refactoring prompt engineering**, moving beyond using AI just for searching. This wasn't just a basic plea of "fix this code." It was a sophisticated, scientific approach designed to wake up the vast knowledge sleeping within the AI model, forcibly assigning it the persona of a '10-year Lead Engineer at a top Silicon Valley firm' to ruthlessly and thoroughly dissect my code.
 
-## ⚡️ 3-Line Summary (TL;DR)
+With the desperation of someone clutching at straws, I threw my messiest, most 'smelly' business logic at this AI mentor. Internally, I had deep doubts: "Could even the latest AI understand the complex domain context and business rules unique to our company?" But the results displayed on the monitor were **shocking and awe-inspiring.**
 
-1. Stop feeling guilty about bothering your busy mentor and get immediate, expert-level code reviews from AI.
-2. Go beyond basic bug detection and refactor your logic for ultimate readability, efficiency, and safety.
-3. Inject the persona of a Principal Engineer to guarantee Silicon Valley-standard code quality.
+In just 5 seconds, the AI elegantly redefined every variable name to perfectly match the business context. It optimized the redundant double loops into clean, declarative logic using a combination of `reduce` and `filter` functions. It even meticulously added defensive logic for extreme **edge cases** I hadn't even imagined, transforming the code into robust software of an entirely new dimension. What touched me most was that it didn't just spit out the finished code; it provided very kind explanations in JSDoc format as to why these architectural decisions were made. It felt like a genius senior developer from Google was sitting right next to me, engaging in **1:1 pair programming**.
 
----
+After actively integrating this powerful refactoring prompt into my workflow, my dev life **changed 180 degrees.** Developing new features and opening PRs is no longer a source of fear and dread. Before pushing a commit to GitHub, I always get a first pass of code inspection from this 'AI Senior Mentor.' I'm absorbing the beautiful structural principles of **Clean Code** like a sponge and growing rapidly.
 
-## 🚀 Solution: "Code Reviewer Prompt"
-
-### 🥉 Basic Version (Quick Bug Hunter)
-
-Use this when you quickly want to catch errors and identify potential defects.
-
-> **Role:** You are a senior developer with a sharp eye.
-> **Task:** Find potential bugs or logical errors that could cause exceptions in the code below. If it's perfect, say "LGTM (Looks Good To Me)".
->
-> **Code:**
->
-> `[Paste your code here]`
-
-### 🥇 Pro Version (Expert: Silicon Valley Clean Code Refactoring)
-
-Use this when you want to completely overhaul the soul of your code, from variable names to architecture.
-
-> **Role:** You are a 10-year Principal Software Engineer at Google and an ardent believer in 'Clean Code'.
->
-> **Context:**
->
-> - Background: Writing and maintaining core logic for an internal company project.
-> - Goal: Reduce technical debt and improve the code to be intuitive and robust so that any team member can easily understand it.
->
-> **Task:**
-> Analyze the `[Code]` provided below and strictly review and refactor it according to the following 4 core criteria.
->
-> 1. **Readability:** Intuitively change variable and function names so their intent is clearly revealed (e.g., `d` -> `elapsedTimeInDays`).
-> 2. **Efficiency:** Propose better algorithms or array methods that can reduce unnecessary loops and improve time complexity (O).
-> 3. **Safety:** Meticulously defend against edge cases such as null references, type errors, or missing exception handling (Try-Catch).
-> 4. **Comments:** For complex logic, add comments in the form of JSDoc/Docstrings explaining *why* it was written this way, not *what* it does.
->
-> **Format:**
->
-> - **Review Summary:** Top 3 critical issues in the existing code (bullet points).
-> - **Refactored Code:** The completely improved, production-ready full code (code block).
-> - **Core Reasons for Change:** Summarize in 2 lines or less why this modification results in a superior architecture.
->
-> **Constraints:**
->
-> - Utilize the modern syntax of the language.
-> - Do not invent unsure libraries or built-in functions (prevent hallucinations).
->
-> **Input Code:**
->
-> `[Paste your entire code here]`
+Even my seniors, known for being incredibly picky, have started expressing surprise: "Your logic design has become incredibly solid lately! Great object-oriented separation and excellent defensive logic." This overwhelming, magical prompt elevates smelly legacy code to Silicon Valley standards in an instant. It is the perfect weapon not just for juniors, but also for seniors drowning in a sea of legacy code. Recruit your own tireless, perfect personal mentor for free today. The transformation—gaining recognition from your team and achieving both the joy of coding and a perfect work-life balance—is waiting for you right now!
 
 ---
 
-## 💡 Author's Comment (Insight)
+## 📊 Proof: Satisfying Results (Before & After)
 
-The most painful lesson I've learned while participating in hundreds of code reviews is that the gap between "code that simply works" and "highly readable Clean Code" is astronomical. If you use shallow commands like "fix this code" or "find the bugs," the AI will fail to grasp your true architectural intent. It will stop at superficial syntax tweaks—like renaming a single variable or adding a missing semicolon. Not only does this fail to improve your fundamental architecture, but it can also deform your code into an unrecognizable, over-engineered mess.
+### ❌ Before (The Pain We Experienced)
 
-The secret behind why our Pro Version prompt delivers such overwhelming performance lies in its "enforcement of multi-dimensional and ruthless evaluation criteria." We aren't simply asking the AI for a "modification." We are strictly enforcing the persona of a 10-year Principal Engineer at Google—a conservative perfectionist who pursues the absolute extremes of performance and readability. By imposing four non-negotiable ironclad rules—Readability, Efficiency, Safety, and Comments—we ensure the AI cannot cut corners.
-
-I once had to analyze a horrific 1,500-line payment integration script left behind by a predecessor. It was the ultimate spaghetti code: variables were named with cryptic abbreviations like `a1`, `b2`, and `chk_val`, while database queries, business calculations, external API calls, and UI error handlers were entirely clumped into a single, massive function. Untangling that mess line-by-line with human eyes would have taken a solid week.
-
-In that moment of absolute despair, this Pro prompt became my savior. I broke the 1,500 lines of logic into smaller functions and fed them to the AI senior engineer. Within 10 minutes, the AI completely overhauled a loop suffering from O(N³) time complexity into an optimized O(N) algorithm using a Hash Map. It accurately pinpointed three critical edge cases where missing error handling would have inevitably crashed the payment system. Furthermore, it perfectly decoupled the modules into elegant, bite-sized functions that strictly adhered to the Single Responsibility Principle (SRP).
-
-The most touching part wasn't just the refactored code itself; it was the detailed architectural reasoning the AI appended at the bottom: "This segment was a major performance bottleneck; time complexity was drastically reduced by leveraging JavaScript's Set object." Through this detailed feedback, I leveled up from a mere "coder" who copy-pastes snippets into a true "software engineer" who understands and absorbs elite design decisions. Please do not degrade this prompt into a simple typo checker. Use it as a ruthless coaching master that shatters your code to pieces and meticulously rebuilds it upon the skeleton of proper design patterns.
-
----
-
-## 🙋 Frequently Asked Questions (FAQ)
-
-- **Q: Is it safe to upload internal company code exactly as is to an AI model?**
-  - A: **You must exercise extreme caution.** Always sanitize your code before running the prompt by masking API keys, internal IP addresses, and sensitive business logic (like proprietary DB schemas), replacing them with placeholders like `[PRIVATE_DATA]`. If you are in an enterprise environment, it is strongly recommended to use a corporate plan (like Team or Enterprise) or an API-based model that explicitly guarantees your data will not be used for model training.
-
-- **Q: Can I just copy and paste the code generated by the AI directly into production?**
-  - A: Absolutely not. AI can still hallucinate by inventing library methods that don't exist or by misunderstanding the nuanced context of complex business requirements. The AI's output is an incredibly powerful draft and a structural suggestion; however, the final verification—through human code review and rigorous testing—remains entirely the developer's responsibility.
-
-- **Q: My code is too long, and the AI loses context or cuts off the output. What should I do?**
-  - A: Break your code down and ask the AI to review it in smaller function or class units. By narrowing the scope—for example, "Focus this review exclusively on the `authenticate` method within the `UserService` class"—the AI maintains deep context and delivers a significantly higher-quality, deep-dive architectural review.
-
----
-
-## 🧬 Anatomy of the Prompt (Why it works?)
-
-1. **Injecting a Top-Tier Persona (Role Prompting):** Assigning the role of a "10-year Principal Engineer" and a "Clean Code Believer" strongly biases the AI's internal weights toward optimized, industry-standard best practices and established design patterns.
-2. **Multi-Dimensional Evaluation (Constraint Enforcement):** By forcing the AI to analyze the code across three strict dimensions—"Readability", "Efficiency", and "Safety"—we fundamentally prevent it from generating lazy, superficial code that "just works."
-3. **Structured Output Format (Formatted Output):** Clearly separating the core issues, the refactored code block, and the architectural reasoning drastically improves the UX, allowing you to grasp the review's value at a single glance.
-
----
-
-## 📊 Proof: Before & After
-
-The difference between simple commands and structured prompts is immediately obvious in the final code quality. Everything from variable naming to defensive programming logic is flawlessly upgraded.
-
-### ❌ Before (Spaghetti Code)
+The function works, but the variable names are like riddles, and the O(N^2) structure wastes performance with nested loops. There is zero error-handling logic.
 
 ```javascript
 function proc(d) {
@@ -144,7 +64,11 @@ function proc(d) {
 }
 ```
 
-### ✅ After (Clean Code)
+### ✅ After (The Perfect Transformation)
+
+![AI Code Reviewer](/images/hooks/ai-code-reviewer.png)
+
+In just 5 seconds, variable names were changed intuitively to reveal intent, and the code transformed into elegant Clean Code using the `filter` method for maximum readability and efficiency. Defensive logic and detailed JSDoc were perfectly added.
 
 ```javascript
 /**
@@ -166,10 +90,107 @@ const getActiveUsers = (users) => {
 
 ---
 
-## 🎯 Conclusion
+## ⚡️ TL;DR
 
-Good code is exactly like well-written prose. It should be effortless for anyone to read, and the author's original intent should be transparent.
-Your new AI code reviewer is awake 24/7 and will never sigh in frustration, even if you ask it the exact same fundamental question a hundred times.
+1. Don't worry about busy seniors; request immediate and sharp code reviews from AI.
+2. Go beyond simple bug detection to refactor for maximum readability and execution efficiency.
+3. Inject the persona of a Google Lead Engineer to secure Silicon Valley-level code quality.
 
-Go ahead and throw that smelly legacy code collecting dust in your IDE straight into the prompt.
-Keep iterating until the day you receive that perfect, undeniable **"LGTM (Looks Good To Me)"**! 🍷
+---
+
+## 🚀 How Real Experts Write It
+
+### 🥉 Basic Version (Quick Bug Hunter)
+
+Use this when you want to catch errors and scan for potential defects quickly.
+
+> **Role:** You are a senior developer with a sharp eye for detail.
+>
+> **Task:** Find potential bugs or logical errors in the code below. If it is perfect, say "LGTM (Looks Good To Me)."
+>
+> **Code:**
+>
+> `[Paste your code here]`
+
+### 🥇 Pro Version (Expert: Silicon Valley Clean Code Refactoring)
+
+Use this when you want to overhaul everything from variable naming to the entire architecture.
+
+> **Role:** You are a 10-year Lead Software Engineer at Google and a devout believer in 'Clean Code.'
+>
+> **Context:**
+>
+> - Background: Writing and maintaining core business logic for an internal project.
+> - Goal: Drastically reduce technical debt and improve code into intuitive, robust logic that anyone on the team can understand at a glance.
+>
+> **Task:**
+> Analyze the `[Code]` provided below and strictly review and refactor it based on the following 4 core criteria.
+>
+> 1. **Readability:** Change variable and function names intuitively so their intent is clear (e.g., `d` -> `elapsedTimeInDays`).
+> 2. **Efficiency:** Suggest optimized algorithms or built-in array methods to remove unnecessary loops or improve time complexity (Big-O).
+> 3. **Safety:** Meticulously defend against edge cases where null references, type errors, or missing exception handling (Try-Catch) might occur.
+> 4. **Comments:** For complex sections, add clear comments in JSDoc/Docstring format explaining 'Why' it was designed this way, rather than just 'What' it does.
+>
+> **Output Format:**
+>
+> - **Review Summary:** Top 3 critical issues in the existing code (use bullet points).
+> - **Refactored Code:** The fully improved code in its entirety (Markdown code block).
+> - **Core Reasons for Change:** A concise summary (within 2 lines) of why this is a better architecture.
+>
+> **Constraints:**
+>
+> - Actively utilize the latest Modern Syntax of the language.
+> - Do not make up libraries or built-in functions that do not exist (Anti-hallucination).
+>
+> **Input Code:**
+>
+> `[Paste the entire code to be refactored here]`
+
+---
+
+## 💡 Author's Comment (Insight & How to Use)
+
+Through hundreds of demanding code reviews in the field, I’ve realized one immutable truth: there is a universe-sized gap between "code that works without errors" and "elegant Clean Code that is a joy to read." Beginners unfamiliar with prompts often give very flat, monotonous commands like "fix this code" or "find the bugs." In these cases, the AI fails to grasp your deep design intent and settles for **shallow syntax correction**, like changing a variable name to English or adding a semicolon. This doesn't help improve the fundamental architecture of a complex system; in fact, it can lead to a nightmare where the code becomes a patchwork of haphazard AI fixes.
+
+The secret behind why the **Pro Version Prompt** we designed for this post delivers such overwhelming performance compared to generic prompts lies in **'Constraint Control' through multifaceted, ruthless evaluation criteria.** We haven't just delegated 'editing' or 'error detection' to the AI. We've forced upon it the **'Elite Expert Persona'** of a 10-year Lead Engineer at a top tech company like Google or Meta—someone who is obsessively perfectionist, conservative, and pursues the limits of performance and readability. By hard-coding the four golden rules—**Readability, Efficiency, Safety, and Comments**—into the prompt as shackles, we ensure the AI cannot give vague answers and must scrutinize every line through these four filters.
+
+I have a harrowing story from a previous job. A predecessor quit suddenly without any handoff, leaving behind a 1,500-line "Spaghetti Code of Doom" for a core payment integration that I had to analyze and apply a hotfix to immediately. Variable names were cryptic abbreviations like `a1`, `b2`, and `chk_val`. Database queries, complex business logic, external PG API calls, and even UI error message rendering for the frontend were all mashed into one giant function. Parsing this monstrosity manually to trace the data flow would have taken even a top-tier developer a week of all-nighters.
+
+In that dark, hopeless swamp, this **Pro Version Prompt** acted as my savior. I broke down the 1,500 lines of logic into business domain units and threw them at the AI Senior Engineer. In just 10 minutes, the AI overhauled nested loops with O(N^3) complexity—which were eating up server CPU—into an **O(N) optimized algorithm** using a Hash Map. It also identified three chilling edge cases where missing error-handling logic could have led to massive payment failures for customers, and it immediately set up defensive logic. Furthermore, it perfectly separated the entire logic into elegant pure functions that strictly followed the Single Responsibility Principle (SRP).
+
+The moment that moved me most while using this prompt was not when the AI simply spat out clean code. At the bottom of the output, it clearly stated **specific, logical reasons for the architectural improvements**, such as: "Severe memory leaks and performance bottlenecks were occurring in this section; I drastically lowered the search time complexity by utilizing JavaScript's Set object." Through this, I didn't stay a 'simple coder' who just copies and pastes; I absorbed the high-level design decisions made by the AI and experienced a brilliant level-up into a true **'Senior Software Engineer.'**
+
+Here is my special **Cheat Key Tip** for utilizing this prompt at 120% in your actual work: try specifying your project environment or infrastructure constraints very specifically in the `[Context]` section of the prompt. For example, add conditions like "This is an embedded IoT environment with very limited memory, so be extremely careful about memory leaks," or "In a React frontend environment, actively use `useMemo` and `useCallback` to prevent unnecessary re-rendering of components." The AI will perfectly synchronize with that context and output the best framework-optimized code.
+
+Do not let this powerful prompt be relegated to a simple spell-checking tool. If you use it as a **Ruthless Coaching Master** that breaks your code into pieces and rebuilds it from the bones of proper software design patterns and object-oriented principles, you will be able to permanently maintain a level of code quality that no one in your team can match.
+
+---
+
+## 🙋 Frequently Asked Questions (FAQ)
+
+- **Q: Is it safe for security to input private company code directly into an AI model?**
+  - A: **You must be extremely careful.** API keys, internal IP addresses, and sensitive core business logic (DB schemas, etc.) must be masked or safely replaced with placeholders like `[PRIVATE_DATA]` before being entered. In a corporate environment, I strongly recommend using Team/Enterprise plans or dedicated API environments where user prompts are not used for data training.
+
+- **Q: Can I copy the code refactored by AI directly into production without any modification?**
+  - A: Absolutely not. AI sometimes experiences 'hallucinations,' calling non-existent library methods, or it might misunderstand the subtle context of highly complex business requirements. The output from AI is merely a powerful 'draft' or 'suggestion.' Remember that the final code review and integrity verification through thorough test cases are entirely the developer's responsibility.
+
+- **Q: The code file I need to analyze is too long, and the AI loses context. How do I fix this?**
+  - A: Break the code into small, logical units like functions or classes before asking. By narrowing the scope, such as "Focus your review only on the `authenticate` method logic of this `UserService` class," you can help the AI provide a much denser and higher-quality deep-dive review without hitting context window limits.
+
+---
+
+## 🧬 Anatomy of the Prompt (Why it works?)
+
+1. **Top-Tier Persona Injection (Role Prompting):** The powerful persona of a '10-year Lead Engineer' and 'Clean Code Devotee' pushes the weights of the AI's internal neural network strongly toward optimized best practices (design patterns, clean code principles).
+2. **Forced Multi-dimensional Evaluation (Multi-dimensional Constraints):** By forcing the AI to decompose and analyze the code through the three clear dimensions of 'Readability,' 'Efficiency,' and 'Safety,' it fundamentally blocks the generation of sloppy code that "just works."
+3. **Strict Structural Output (Formatted Output):** By instructing the AI to divide its output into clear blocks—Summary of Critical Issues, Improved Final Code, and Core Reasons for Change—it maximizes the UX so that developers can scan and grasp the review content at a glance.
+
+---
+
+## 🎯 Conclusion (Epilogue)
+
+Good code is like a smooth piece of prose. It should be readable by anyone on the team without stumbling, and the logical intent of the author must be transparent. This 'AI Senior Reviewer' you’ve hired is awake 24/7, and no matter how many times you ask the same basic or "silly" question, it will never get annoyed or sigh.
+
+Throw that smelly, tangled legacy code sitting in the corner of your IDE at it right now. I’m rooting for you to reach that thrilling moment when you receive a sincere **"LGTM (Looks Good To Me)"** from every member of your team!
+
+Automate your work and leave the office coolly (or just on time)! 🍷

@@ -4,7 +4,7 @@ title: "💀 Éradiquer le blabla de l'IA : Le cheat code de l'observabilité ha
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "프롬프트 엔지니어링"
+category: "General"
 description: "Un prompt radical pour bloquer les flatteries de l'IA et les console.log toxiques. Bâtissez une observabilité digne d'un véritable architecte senior."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "observability-logging-protocol"]
 ---

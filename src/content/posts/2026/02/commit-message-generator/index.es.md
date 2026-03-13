@@ -1,135 +1,172 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "¡Adiós al estrés del mensaje de commit! Generación automática de Conventional Commits"
+title: "¡Adiós a pensar el mensaje de commit! Generación automática de Conventional Commits"
 author: "Jay"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
+date: "2026-02-07T09:10:33.123Z"
+updatedDate: "2026-02-07T09:10:33.123Z"
 category: "Codificación/Desarrollo"
-description: "Genera mensajes de commit impecables basados en el estándar global (Conventional Commits) con solo pegar tus cambios de código (git diff)."
-tags: ["Git", "Mensaje de Commit", "Colaboración", "Productividad"]
+description: "Solo pega tus cambios (`git diff`). Un prompt práctico que genera mensajes de commit en inglés impecables siguiendo el estándar global Conventional Commits."
+tags: ["Git", "Mensaje de commit", "Colaboración", "Productividad"]
 ---
 
-## 📝 ¡Adiós al estrés del mensaje de commit! Generación automática de Conventional Commits
+## 📝 ¡Se acabó el "¿qué pongo en el commit?"! Generación automática de Conventional Commits
 
-- **🎯 Recomendado para:** Desarrolladores, líderes técnicos, contribuidores de código abierto
-- **⏱️ Tiempo requerido:** 5 minutos → 10 segundos
-- **🤖 Modelo recomendado:** Todos los modelos interactivos (ChatGPT, Claude, Gemini, etc.)
+- **🎯 Recomendado para:** Desarrolladores junior, contribuidores de código abierto, equipos que inician colaboración
+- **⏱️ Ahorro de tiempo:** De 5 minutos a 10 segundos
+- **🤖 Máximo rendimiento:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 2.5 Pro
 
-- ⭐ **Dificultad:** ⭐⭐☆☆☆
+- ⭐ **Dificultad:** ⭐☆☆☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
-- 🚀 **Utilidad:** ⭐⭐⭐⭐☆
+- 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"Redactar un buen mensaje de commit a veces duele más que resolver el propio bug."_
+> _"Escribir el código me llevó 3 horas, pero pensar el mensaje del commit me tomó 30 minutos... ¿Alguna vez has querido escribir 'Update code' y simplemente irte a casa?"_
 
-¿Sigues haciendo commits con mensajes genéricos como `fix: bug` o `update code`?
-Los mensajes de commit de alta calidad son el pilar fundamental para mantener un historial limpio y facilitar la colaboración en cualquier equipo. Sin embargo, tener que detenerse a pensar en la redacción perfecta cada vez agota mentalmente a cualquiera.
-Olvídate de ese dolor de cabeza. Solo tienes que copiar y pegar el resultado de tu `git diff` y la IA se encargará de redactar un mensaje perfecto siguiendo el estándar de **Conventional Commits**, la regla de oro indiscutible en el desarrollo de software moderno.
+`fix: bug`, `update code`, `correccion_final_de_verdad`... ¿Acaso hoy también has dejado un registro de commit sin sentido en GitHub y te has ido rápido del trabajo?
+¿O te has quedado mirando el cursor parpadeante frente al comando `git commit -m "..."` sin saber qué escribir durante más de 5 minutos?
+Escribir el código puede tomar 3 horas, pero el momento de redactar el mensaje en la terminal se convierte en un dolor crónico para todos los desarrolladores, ya sean de frontend o backend.
+Especialmente si es un proyecto global que requiere inglés y debes seguir reglas estrictas como **Conventional Commits**, el commit deja de ser una simple gestión de versiones para convertirse en un **examen de escritura complicado**.
+"¿Cómo resumo estos cambios en inglés corto?", "¿Es una funcionalidad nueva (feat) o corregí código existente (refactor)?", "¿Dónde y cómo pongo el número del issue para que no dé error?".
+Tras tantas dudas, terminas usando Google Translate o algún traductor y, agotado, dejas el mensaje más simple y descuidado posible.
+
+Pero estos mensajes descuidados **crecerán como una bola de nieve y te alcanzarán a ti y a tus compañeros sin piedad.**
+Imagina que unos meses después ocurre un bug crítico en producción y necesitas hacer un rollback urgente. Al enfrentarte a decenas de logs que solo dicen `fix: bug`, rastrear dónde empezó el problema es más doloroso que buscar una aguja en un pajar.
+El problema mayor surge en la **colaboración con el equipo**. Cuando tus compañeros revisan tu PR (Pull Request), pierden tiempo valioso descifrando el código porque no entienden la intención o por qué elegiste ese camino.
+En proyectos Open Source o empresas tecnológicas con cultura de revisión de código, un mensaje descuidado se asocia directamente con la **falta de habilidad y profesionalismo del desarrollador**, resultando a menudo en evaluaciones bajas. En la era de los pipelines CI/CD automatizados, los mensajes de commit se convierten en Notas de Versión (Release Notes), por lo que un mensaje que rompe las reglas puede incluso detener el proceso de despliegue automático.
+La era de "solo programar bien es suficiente" ha terminado. <b>Un mensaje de commit perfecto es el envoltorio más potente y sofisticado para que tu código destaque.</b>
+
+Entonces, ¿deberías revisar diccionarios y guías de convenciones cada vez para forzar una frase? Absolutamente no.
+Ya no tienes que estresarte traduciendo de un lado a otro. Simplemente lanza al prompt los **cambios realizados (`git diff`)** o un breve resumen del trabajo.
+La IA generará al instante un **mensaje de commit perfecto en inglés** que cumple sin errores con el estándar global: **Conventional Commits**, listo para copiar y pegar en tu terminal.
+No es una simple traducción de palabras. La IA analiza meticulosamente el contexto de las líneas de código añadidas y eliminadas, identificando con precisión la intención fundamental (Why) y el método de resolución (What) que quizás no mencionaste explícitamente.
+
+Al implementar este prompt en tu trabajo, tu hora de salida se adelantará al menos 10 minutos cada día.
+Ahorrarás esa energía cognitiva innecesaria consumida en la tarea improductiva de escribir commits para enfocarte únicamente en la lógica de negocio y el diseño de la arquitectura.
+Y lo más importante, te transformarás en un ingeniero profesional que recibe elogios de sus compañeros de repositorio: **"¡Qué logs tan limpios y claros! ¡Es un desarrollador senior con el que da gusto trabajar!"**.
+¡Escribe `git diff` en tu terminal ahora mismo y experimenta la magia de la automatización en el paso final de tu codificación con el prompt que preparamos abajo!
+
+---
+
+## 📊 Prueba: Resultados impactantes (Antes y Después)
+
+### ❌ Antes (El dolor que sufríamos)
+
+Esos momentos de mirar la terminal en blanco intentando exprimir un mensaje de commit.
+
+"Cambié el color del botón de login a rojo y corregí el bug que no dejaba entrar. Ah, y añadí la guía de instalación en el readme."
+
+### ✅ Después (El resultado transformado)
+
+**Resultado tras aplicar el prompt:**
+
+**Opción 1 (Prioridad en corrección de bug)**
+```text
+fix(auth): resolve login failure issue and update button UI
+
+- Fix logic error that prevented users from logging in
+- Change the login button color to red for better visibility
+- docs: Add installation guide to README.md
+```
+
+**Opción 2 (Enfoque en UI y estilo)**
+```text
+style(ui): update login button color to red and fix login bug
+
+- Change login button color to enhance UI consistency
+- Fix authentication bug causing login failures
+- docs: Update README with installation instructions
+```
 
 ---
 
 ## ⚡️ Resumen en 3 líneas (TL;DR)
 
-1. Analiza tus cambios de código y selecciona automáticamente el tipo adecuado (feat, fix, refactor, etc.).
-2. Redacta un asunto claro y conciso, junto con un cuerpo detallado que explica el "porqué" y el "qué".
-3. Formatea el mensaje estrictamente bajo las convenciones de tu equipo y del código abierto.
+1. Pega el resultado de `git diff` y se convertirá instantáneamente al estándar global Conventional Commits.
+2. La IA clasifica automáticamente el **tipo (Type)** correcto según la naturaleza de los cambios: `feat`, `fix`, `refactor`, etc.
+3. Redacta incluso el cuerpo (Body) en un inglés perfecto, incluyendo la intención (Why) y los detalles específicos (What) de forma lógica.
 
 ---
 
-## 🚀 La solución: Generador automático de mensajes de Git
+## 🚀 Los verdaderos expertos escriben así
 
-### 🥉 Versión básica (Basic Version)
+Este prompt es el resultado de decenas de pruebas. Copia el siguiente prompt y rellena el espacio `[variable]` entre paréntesis según tu situación para usarlo de inmediato.
 
-Úsala cuando necesites un resultado rápido y sin complicaciones.
+### 🥉 Versión Básica (Basic)
 
-> **Rol:** Eres un mantenedor de código abierto extremadamente estricto con el historial de Git.
-> **Solicitud:** Escribe un mensaje de commit impecable usando la convención de Conventional Commits para los siguientes cambios: `[Pega aquí el resultado de tu git diff]`
+Úsalo cuando necesites solo una línea de título rápida.
 
-### 🥇 Versión profesional (Pro Version)
+> **Rol:** Eres un desarrollador senior que busca un historial de Git perfecto.
+>
+> **Petición:** Analiza los cambios que te proporciono y sugiere 3 títulos de mensajes de commit en inglés siguiendo el estándar Conventional Commits (formato `type(scope): subject`).
 
-Úsala cuando necesites un mensaje de commit detallado, con un contexto claro y una estructura perfecta.
+### 🥇 Versión Pro (Profesional)
 
-> **Rol (Role):** Eres un ingeniero de software senior y mantenedor de código abierto, obsesionado con la claridad y la trazabilidad del historial de Git.
+Úsalo cuando necesites un mensaje de commit estructurado de alto nivel con título, cuerpo y pie. Copia el siguiente prompt y pégalo directamente en la ventana de la IA.
+
+> **Rol (Role):**
+> Eres un mantenedor estricto y un Senior Engineering Manager obsesionado con el historial de Git perfecto, que gestiona numerosos proyectos Open Source.
 >
 > **Contexto (Context):**
 >
-> - He modificado el código y necesito un mensaje de commit impecable para que mi equipo y mi "yo del futuro" puedan entender rápidamente qué cambió y por qué.
-> - Estándar a seguir: Conventional Commits.
+> - Antecedentes: Acabo de terminar de programar y necesito dejar un commit.
+> - Objetivo: Crear un mensaje de commit perfecto para que mis compañeros lo revisen fácilmente y para rastrear el historial en el futuro.
 >
-> **Solicitud (Task):**
+> **Tarea (Task):**
+> Analiza los `[Cambios]` de abajo y propón 3 borradores de mensajes de commit perfectos que cumplan con las reglas de **Conventional Commits v1.0.0**.
 >
-> 1. Analiza los `[Cambios]` proporcionados a continuación y sugiere 3 opciones distintas de mensajes de commit.
-> 2. Cada opción debe seguir estrictamente la regla de **Conventional Commits**.
-> 3. **Formato:** `<tipo>(<alcance>): <asunto>`
-> 4. **Cuerpo:** Resume la razón del cambio (Why) y el contenido exacto (What) utilizando viñetas (bullet points).
-> 5. **Pie de página (Opcional):** Si se menciona un ticket o problema, inclúyelo utilizando el formato `Closes #<número>`.
->
-> **Cambios (Changes):**
->
-> `[Pega el resultado de 'git diff' o describe brevemente tus cambios aquí]`
+> 1. **Formato:** `<tipo>(<alcance>): <asunto>` (1 línea de título)
+> 2. **Cuerpo (Body):** Resume claramente por qué (Why) se cambió y qué (What) y cómo se solucionó usando puntos (`-`).
+> 3. **Pie (Footer):** (Opcional) Si hay un número de issue relacionado, escríbelo como `Closes #NúmeroDeIssue`.
 >
 > **Restricciones (Constraints):**
 >
-> - El `tipo` debe ser estrictamente uno de los siguientes: `feat`, `fix`, `docs`, `style`, `refactor`, `perf`, `test`, `build`, `ci`, `chore`, `revert`.
-> - El `<asunto>` no debe superar los 50 caracteres y debe estar redactado en modo imperativo (ej. "add feature" en lugar de "added feature").
-> - El idioma predeterminado para el mensaje de commit es el inglés, a menos que se indique lo contrario.
+> - Usa solo uno de estos tipos: `feat`, `fix`, `docs`, `style`, `refactor`, `perf`, `test`, `build`, `ci`, `chore`, `revert`
+> - El Asunto (Subject) debe ser conciso (máx. 50 caracteres) y comenzar con un **imperativo en inglés (verbo en infinitivo)** (ej: `Add`, `Fix`, `Update`). No pongas punto final (`.`).
+> - El Cuerpo (Body) se escribe dejando una línea en blanco tras el título, y debe estar en inglés.
+> - Añade una breve explicación en español sobre la diferencia o el enfoque de cada opción (ej: centrado en corrección de bugs, centrado en mejoras de UI).
+>
+> **Entrada (Input):**
+>
+> - Cambios: `[Pega aquí el resultado de git diff o los cambios realizados en tu idioma con total libertad]`
 
 ---
 
-## 💡 Comentarios del autor (Insight)
+## 💡 Comentario del autor (Perspectiva y uso)
 
-La verdadera ventaja de este prompt no reside únicamente en el ahorro de tiempo, sino en **estandarizar la calidad** de todo tu repositorio. En entornos de trabajo ágiles o en proyectos de código abierto, un historial de Git confuso y desordenado puede ser desastroso a la hora de rastrear cuándo se introdujo un bug (utilizando `git bisect`) o al intentar generar un archivo `CHANGELOG` de forma automática. Al delegar esta tarea a la IA, te aseguras de que el "porqué" (la intención real detrás del código) quede documentado para la posteridad, un detalle crucial que los desarrolladores solemos omitir por la prisa de hacer push al final del día. Te recomiendo encarecidamente crear un alias en tu terminal que copie automáticamente el resultado de `git diff` al portapapeles.
+La mayor fortaleza de este prompt es que elimina de un plumazo dos grandes obstáculos que persiguen a los desarrolladores: la **"presión psicológica por escribir en inglés"** y las **"reglas de formato estrictas y complejas"**.
+
+Cuando hagas un commit, más allá de decir simplemente "cambié el color de este botón a azul", prueba a ejecutar el comando `git diff` en tu terminal, arrastra y copia el complejo historial de cambios en rojo y verde que aparece en pantalla, y pégalo sin miedo en el área de `[Cambios]` del prompt. Sorprendentemente, la IA deducirá por sí misma qué archivos tocaste, qué nombres de variables cambiaron y qué contexto tiene ese cambio en todo el sistema. Es capaz de completar un mensaje de commit de una calidad asombrosa, captando incluso la intención oculta del trabajo y los cambios lógicos que el desarrollador no llegó a explicar con palabras.
+
+<b>💡 Control de restricciones para el mundo real (Constraint Control):</b>
+Lo que diferencia a este prompt de una conversación normal con un chatbot es que controla al extremo la alucinación y la libertad de la IA mediante **restricciones (Constraints)**. Conventional Commits tiene reglas más estrictas de lo que parece. Por ejemplo, el mensaje debe empezar obligatoriamente con un **verbo en infinitivo (imperativo en inglés)**, y si pones un punto final (`.`) al título, saltará un error de linting. Además, si la longitud total supera los 50 caracteres, el mensaje se verá cortado en la interfaz de GitHub.
+Este prompt ha sido diseñado meticulosamente para bloquear de antemano todos estos posibles errores que un ingeniero senior señalaría en una revisión de código. Si tu equipo requiere un prefijo especial o un número de ticket de Jira, solo tienes que añadir una línea en las restricciones: `- Añade obligatoriamente un número de ticket de Jira en formato '[ABC-123]' al principio del título`. La IA mantendrá las reglas estrictas originales e integrará perfectamente la convención personalizada de tu equipo.
+
+<b>🚀 Truco para productividad extrema: Integración en el editor:</b>
+El verdadero secreto para elevar el valor de este prompt al 200% es otro. Abrir el navegador y entrar en ChatGPT o Claude cada vez que vas a hacer un commit acaba siendo tedioso. Establece el contenido completo de este prompt como una plantilla en la configuración de **System Prompt** de herramientas como **Cursor IDE**, **GitHub Copilot Chat** o herramientas de IA por CLI.
+Tras terminar de programar, solo tienes que dar una instrucción corta a la IA integrada en el editor: **"Escribe el mensaje de commit para lo que acabo de cambiar"**. El editor leerá el estado actual del `git diff` y escupirá el mensaje de commit en un segundo siguiendo estas reglas perfectas. Tú solo tendrás que darle al botón de `Accept` o copiar y hacer el commit. Acortar este flujo de trabajo un solo paso elevará tu productividad diaria y tu capacidad de concentración de forma exponencial.
 
 ---
 
 ## 🙋 Preguntas frecuentes (FAQ)
 
-- **Q: ¿Puedo pedirle a la IA que redacte el mensaje en español?**
-  - A: Sí, por supuesto. Solo necesitas añadir al prompt la instrucción: "Escribe el mensaje de commit completamente en español", aunque recuerda que el estándar en la gran mayoría de los equipos globales sigue siendo el inglés.
+- **Q: ¿Cómo aplico reglas internas de mi empresa (ej: incluir número de ticket de Jira)?**
+  - A: Simplemente añade una condición en la sección de **Restricciones (Constraints)** del prompt: `- Añade obligatoriamente un número de ticket de Jira en formato '[ABC-123]' al principio del título`. Obtendrás un resultado que cumple perfectamente con la convención única de tu equipo.
 
-- **Q: Mi `git diff` es demasiado largo y la IA devuelve un error, ¿qué debo hacer?**
-  - A: Si los cambios son masivos, es muy probable que tu commit sea demasiado grande (lo cual es un anti-patrón). Esta es una excelente señal de que deberías dividir tus cambios en commits más pequeños e independientes utilizando `git add -p` y aplicar el prompt a cada bloque por separado.
+- **Q: Quiero el título en inglés, pero ¿puedo escribir el cuerpo (Body) en español?**
+  - A: Modifica la frase del prompt que dice `Cuerpo (Body)... debe estar en inglés` por `Redacta el cuerpo claramente en español`. Así mantendrás la estructura de estándar global mientras maximizas la eficiencia de comunicación con tus compañeros de equipo.
 
 ---
 
 ## 🧬 Anatomía del prompt (¿Por qué funciona?)
 
-1. **Role & Context (Rol y contexto):** Al posicionar a la IA como un "ingeniero senior obsesionado con el historial", condicionamos fuertemente sus respuestas para que sean profesionales, altamente técnicas y libres de redundancias.
-2. **Constraints (Restricciones rígidas):** Especificar un límite estricto de 50 caracteres para el asunto y forzar el uso del modo imperativo previene que la IA cometa los errores típicos de redacción y verbosidad.
-3. **Format (Estructura de salida):** Obligar a separar el "qué" y el "porqué" en el cuerpo del mensaje garantiza que el commit aporte un valor real y duradero, yendo mucho más allá de una simple descripción de los archivos modificados.
+1. **Forzado de especificación estándar (Conventional Commits v1.0.0):** En lugar de pedir vagamente "escribe un buen mensaje", fijamos el formato mediante una instrucción directa al estándar global para que la salida sea consistente.
+2. **Restricciones claras (Constraints):** Bloqueamos preventivamente reglas de linting estrictas como "empezar con imperativo", "límite de 50 caracteres" o "prohibido el punto final", lo que reduce el coste de corrección adicional a cero.
+3. **Poder de elección (3 opciones):** Diseñado para que la IA no imponga una única respuesta. Al presentar simultáneamente 3 opciones con distintos matices, el usuario puede elegir el mensaje que mejor se adapte a la esencia de su trabajo.
 
 ---
 
-## 📊 Prueba: Antes y después
+## 🎯 Conclusión (Epílogo)
 
-### ❌ Antes (Cambios de entrada)
+El mensaje de commit es el registro de desarrollo más importante y certero que dejas para tu "yo" del futuro y para tus compañeros.
+No malgastes más energía valiosa en la redacción y el formato. Con solo implementar un prompt bien pulido, puedes convertirte en un desarrollador profesional que recibe elogios por lo impecable de sus logs.
 
-```text
-Cambié el color del botón de inicio de sesión a rojo, arreglé el error donde el inicio de sesión no funcionaba. Ah, y agregué la guía de instalación al readme.
-```
-
-### ✅ Después (Resultado de la IA)
-
-**Opción 1 (Enfoque en corrección de errores)**
-
-```text
-fix(auth): resolve login failure and update button style
-
-- Fix logic error preventing user authentication
-- Change login button color to red to improve visibility
-- Add project installation guide to README.md
-```
-
-**Opción 2 (Desglosado para commits separados)**
-
-```text
-style(ui): update login button color to red
-fix(auth): correct login authentication bug
-docs(readme): add installation guide
-```
-
----
-
-## 🎯 Conclusión
-
-Los mensajes de commit son cartas de amor (o de advertencia) para tu "yo del futuro" y para tus compañeros de equipo.
-No los redactes a la ligera bajo la presión de terminar la jornada laboral. ¡Utiliza la IA a tu favor y conviértete en ese desarrollador al que todos felicitan diciendo: "¡Qué historial de Git tan limpio y profesional tienes!" 🍷
+¡Ahora, deja la tediosa tarea de escribir mensajes a la inteligente IA y sal del trabajo con la mente ligera! 🍷

@@ -4,7 +4,7 @@ title: "💀 El Cheat Code 'Arquitecto Jefe Espartano' que Destruye la Adulació
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Un prompt radical que bloquea el código espagueti y la adulación de la IA, forzando la creación de sistemas de diseño con perfección matemática."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "design-system-identity"]
 ---

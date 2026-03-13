@@ -4,9 +4,9 @@ title: " \"블로그 글 하나로 인스타, 링크드인까지 (OSMU)\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "콘텐츠 제작"
+category: "Content Creation"
 description: "Prompt One Source Multi-Use (OSMU) para transformar um único artigo em vários formatos de conteúdo magnéticos usando IA e multiplicar seu alcance."
-tags: ["콘텐츠마케팅", "인스타그램", "링크드인", "생산성"]
+tags: ["콘텐츠마케팅", "인스타그램", "링크드인", "Productivity"]
 ---
 
 ## 📝 O Prompt OSMU Definitivo: Transforme um Artigo de Blog em Conteúdo para Instagram e LinkedIn

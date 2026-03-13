@@ -4,9 +4,9 @@ title: " \"습관 쌓기 설계자 (Habit Stacking)\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "자기계발"
+category: "General"
 description: "三日坊主を終わらせる科学的な習慣形成戦略「ハビット・スタッキング（習慣の積み上げ）」の完全ガイド。"
-tags: ["습관", "루틴", "아주작은습관의힘", "생산성"]
+tags: ["Habit", "Routine", "아주작은습관의힘", "Productivity"]
 ---
 
 ## 📝 習慣積み上げ設計者 (Habit Stacking)

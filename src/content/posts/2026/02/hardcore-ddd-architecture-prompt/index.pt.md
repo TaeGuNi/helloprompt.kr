@@ -4,7 +4,7 @@ title: "Não Aceitamos Código Espaguete! 🍝 O Prompt Mágico de DDD do Desenv
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Um prompt avançado de DDD que transforma qualquer IA obediente em um arquiteto de software sênior implacável. Diga adeus ao código espaguete."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ddd-architecture"]
 ---

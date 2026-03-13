@@ -4,9 +4,9 @@ title: " \"아침 몰입도 200%! AI 집중력 DJ\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "생산성"
+category: "General"
 description: "刺激脑波、提升注意力的个性化专属专注歌单生成器。"
-tags: ["집중력", "음악", "생산성", "몰입"]
+tags: ["집중력", "음악", "Productivity", "몰입"]
 ---
 
 ## 🎧 提升200%晨间专注力！AI 专注力 DJ

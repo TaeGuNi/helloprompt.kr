@@ -4,9 +4,9 @@ title: "Скрипт автоматизации на Python: сведение т
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Идеальный промпт для автоматизации рутины: объединяйте десятки разрозненных файлов Excel в один сводный отчет с помощью Python всего за 1 секунду."
-tags: ["파이썬", "엑셀", "자동화", "Pandas", "업무효율"]
+tags: ["파이썬", "Excel", "Automation", "Pandas", "Productivity"]
 ---
 
 ## 🐍 Скрипт автоматизации на Python: сведение десятков таблиц Excel за 1 секунду

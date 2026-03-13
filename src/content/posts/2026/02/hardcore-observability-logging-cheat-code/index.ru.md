@@ -4,7 +4,7 @@ title: "💀 Уничтожаем ИИ-бред: Чит-код для хардк
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "프롬프트 엔지니어링"
+category: "General"
 description: "Чит-код для полного искоренения мусора и console.log от ИИ. Выстройте хардкорную систему наблюдаемости (Observability) уровня сеньор-архитектора."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "observability-logging-protocol"]
 ---

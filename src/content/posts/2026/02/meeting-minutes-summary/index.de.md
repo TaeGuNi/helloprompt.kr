@@ -1,140 +1,170 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Verpasste Details beim Protokollieren? Die KI fasst Ihr Meeting zusammen"
+title: "Inhalte verpasst beim Protokollieren? KI übernimmt die Zusammenfassung für Sie"
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Arbeitsautomatisierung"
-description: "Nie wieder nachhaken müssen, was besprochen wurde: Verwandeln Sie jede Audioaufzeichnung in nur einer Minute in ein perfekt strukturiertes Protokoll."
+description: "Verlieren Sie nach Meetings nie wieder den Überblick. Mit KI verwandeln Sie Audio-Aufnahmen in nur 1 Minute in perfekte Protokolle und Aufgabenlisten."
 tags: ["Meeting", "Zusammenfassung", "Produktivität"]
 ---
 
-## 📝 Verpasste Details beim Protokollieren? Die KI fasst Ihr Meeting zusammen
+## 📝 Inhalte verpasst beim Protokollieren? KI übernimmt die Zusammenfassung für Sie
 
-- **🎯 Empfohlen für:** Projektmanager, Marketer, Junior-Mitarbeiter
-- **⏱️ Zeitaufwand:** 30 Minuten → auf 1 Minute reduziert
-- **🤖 Empfohlene Modelle:** Alle konversationsbasierten KIs (ChatGPT, Claude, Gemini etc.)
+- **🎯 Zielgruppe:** Alle Büroangestellten, Projektmanager (PM), Assistenten, Junior-Planer
+- **⏱️ Zeitersparnis:** Von 30 Minuten auf 1 Minute verkürzt
+- **🤖 Top-Performance:** Claude 3.5 Sonnet, Gemini 2.5 Pro, ChatGPT (GPT-4o)
 
-- ⭐ **Schwierigkeitsgrad:** ⭐⭐☆☆☆
+- ⭐ **Schwierigkeit:** ⭐☆☆☆☆
 - ⚡️ **Effektivität:** ⭐⭐⭐⭐⭐
-- 🚀 **Nutzen:** ⭐⭐⭐⭐⭐
+- 🚀 **Anwendbarkeit:** ⭐⭐⭐⭐⭐
 
-> _"Haben Sie auch schon einmal vor lauter Mitschreiben den Faden im Meeting verloren? Lassen Sie die KI das Protokollieren übernehmen und konzentrieren Sie sich wieder voll und ganz auf das Gespräch."_
+> _"Haben Sie direkt nach einem einstündigen Meeting oft nur ein flaues Gefühl im Magen und die Frage: 'Was genau muss ich jetzt eigentlich tun?'"_
 
-Das manuelle Verfassen von Besprechungsprotokollen raubt uns nicht nur wertvolle Arbeitszeit, sondern hindert uns auch oft daran, aktiv am Meeting teilzunehmen. Wenn Sie das nächste Mal in einer Besprechung sitzen, zeichnen Sie das Gespräch einfach auf (natürlich nach Einverständnis aller Teilnehmer) und lassen Sie ein Transkript anfertigen. Diese Prompt-Vorlage verwandelt selbst das chaotischste Roh-Transkript in ein perfekt strukturiertes, professionelles Protokoll.
+Sicherlich haben Sie es schon einmal erlebt: Sie tippen wie wild auf Ihrer Tastatur, um jedes Wort des Meetings festzuhalten, und verlieren dabei völlig den roten Faden und den entscheidenden Kontext des Gesprächs.
+
+Oft konzentrieren wir uns im Besprechungsraum so sehr auf unsere Tippgeschwindigkeit, dass wir die Mimik oder subtile Nuancen der Sprecher komplett übersehen. Wenn wir dann nach einer intensiven Stunde an unseren Platz zurückkehren und auf den Monitor schauen, finden wir im Texteditor nur noch eine fragmentierte Sammlung bedeutungsloser Wörter. Grundlegende Fragen bleiben unbeantwortet: **"War die Deadline für Plan B, die Teamleiter Kim so nachdrücklich gefordert hat, nun diesen Freitag oder nächsten Mittwoch?"**, oder **"Wer übernimmt am Ende eigentlich diese komplexe Zusatzrecherche – unser Team oder das Marketing-Team?"** Das Ergebnis ist die mühsame und frustrierende Notwendigkeit, Kollegen erneut via Slack oder Teams um Bestätigung zu bitten.
+
+Diese **reine Dokumentations- und Zusammenfassungsarbeit** ist einer der Hauptgründe, warum die wertvolle Energie von Mitarbeitern so schnell verpufft. Eine weitere Stunde zu investieren, um ein einstündiges wöchentliches Meeting in ein Dokument zu gießen, bedeutet in der modernen Geschäftswelt extreme Ineffizienz. Zudem birgt das Verlassen auf das unvollkommene menschliche Gedächtnis das Risiko, dass Erinnerungen zwischen Abteilungen divergieren, was zu unklaren Verantwortlichkeiten führt. Oft wird das Protokollieren als lästige Aufgabe für Junioren angesehen, doch in Wahrheit ist es eine hochkomplexe Kommunikationsaufgabe, die gleichzeitig klares Urteilsvermögen und ein tiefes Verständnis des gesamten Geschäftskontexts erfordert.
+
+Doch jetzt ist es an der Zeit, sich endgültig aus dieser qualvollen Tipp-Hölle zu befreien. In geschäftlichen Meetings sind nicht die exakten Wortlaute entscheidend. Wichtig sind nur zwei Kernelemente: **'Was wurde letztendlich entschieden (Key Decisions)'** und **'Wer muss was bis wann tun (Action Items)'**.
+
+Die Lösung, die ich Ihnen heute vorschlage, ist die Kombination von <span style="color:var(--color-cyber-cyan)">STT-Tools (Speech-to-Text)</span> wie dem Smartphone-Recorder, Clova Note oder Daglo mit hochgradig optimierten KI-Prompts. Sobald Sie diese automatisierte Pipeline einmal aufgebaut haben, müssen Sie sich im Meeting nicht mehr hinter Ihrem Laptop-Monitor verstecken. Sie können Ihrem Gegenüber selbstbewusst in die Augen schauen und sich voll und ganz auf den produktiven Dialog und die Ideenfindung konzentrieren.
+
+Ein strukturell gut aufgebauter Prompt verwandelt ein wirres, rohes Transkript in nur einer Minute in eine klare, systematisch strukturierte **perfekte Geschäftsanweisung**. Lassen Sie sich nicht mehr von vagen Aussagen wie "Ich werde diese Woche mal den Zeitplan prüfen" täuschen. KI ist exzellent darin, unverbindliches Geplänkel messerscharf in konkrete, messbare Handlungsziele zu übersetzen.
+
+Sobald Sie diesen Prompt in Ihrer Praxis anwenden, wird sich Ihr Arbeitsalltag grundlegend verändern. Unmittelbar nach Verlassen des Besprechungsraums wird ein sauber im Markdown-Format zusammengefasstes Protokoll in Echtzeit in Slack- oder Team-Kanälen geteilt. Alle Teammitglieder kennen ihre Rollen und Deadlines ohne Missverständnisse. Die Zeit, die früher sinnlos mit Protokollieren verschwendet wurde, wird nun produktiv für die Kernlogik des Projekts genutzt. Kollegen und Vorgesetzte werden Ihre beeindruckende Geschwindigkeit und Ihre Fähigkeit zur präzisen Dokumentation bewundern. Stellen Sie jetzt Ihre intelligenteste und unermüdlichste "Senior-Assistentin" direkt in Ihrem Monitor ein – für 0 Euro.
 
 ---
 
-## ⚡️ 3-Punkte-Zusammenfassung (TL;DR)
+## 📊 Beweis: Überzeugende Ergebnisse (Vorher & Nachher)
 
-1. **Aufzeichnen & Transkribieren:** Wandeln Sie das Audio Ihres Meetings zunächst in Text um.
-2. **KI-Verarbeitung:** Nutzen Sie den untenstehenden Prompt, um Kernpunkte, Aufgaben (To-Dos) und Entscheidungen präzise extrahieren zu lassen.
-3. **Sofortiges Teilen:** Sparen Sie sich mühsames Tippen und leiten Sie das fertig strukturierte Protokoll direkt an Ihr Team weiter.
+### ❌ Before (Das Leid, das wir kannten)
+
+Wenn man versucht, die unzähligen Gespräche während eines Meetings wahllos mitzutippen, bleiben nach einer Stunde oft nur ungeordnete Inhalte übrig, die es fast unmöglich machen, die wichtigen Entscheidungen und Rollen zu identifizieren.
+
+```text
+(Auszug aus einem wöchentlichen Team-Meeting-Transkript)
+Teamleiter Kim: Also, reden wir über die Promotion für den Launch des neuen Produkts nächste Woche. Herr Park, wie sieht es mit den Entwürfen für die Landingpage aus?
+Herr Park: Ah ja, ich habe gestern mit dem Design-Team gesprochen. Bis diesen Freitag sollte der erste Entwurf fertig sein. Ich werde ihn mir dann ansehen.
+Frau Lee: Herr Teamleiter, ich habe eine Liste mit etwa 5 Influencern zusammengestellt, aber die Preise passen nicht ganz. Was sollen wir da machen?
+Teamleiter Kim: Wirklich? Hmm... Schicken Sie mir die Liste erst mal per E-Mail. Ich werde mit dem Budget-Team sprechen. Ach ja, was wollt ihr heute zu Mittag essen? Es regnet, wie wäre es mit Jjamppong?
+```
+
+### ✅ After (Das perfekt transformierte Ergebnis)
+
+```markdown
+**✅ Entscheidungen (Decisions):**
+
+- Der erste Entwurf für die Produkt-Landingpage wird voraussichtlich diesen Freitag erhalten.
+
+**📝 Aufgaben (Action Items):**
+
+- Herr Park: Erhalt und Prüfung des ersten Landingpage-Designentwurfs (~diesen Freitag)
+- Frau Lee: E-Mail-Bericht der Liste mit 5 Influencer-Kandidaten (~Frist offen, Prüfung erforderlich)
+- Teamleiter Kim: Preisverhandlungen mit dem Finanz-/Budget-Team bezüglich der Influencer-Akquise (~Frist offen)
+```
 
 ---
 
-## 🚀 Die Lösung: Der "perfekte Protokollant"
+## ⚡️ 3-Zeilen-Zusammenfassung (TL;DR)
 
-### 🥉 Basic-Version (Für den schnellen Überblick)
+1. Strukturiert STT-basierte Texte (z. B. aus Clova Note) in perfekt formatierte Geschäftsprotokolle um.
+2. Die KI extrahiert und weist Action Items sowie geschätzte Deadlines (Fristen) pro Verantwortlichem automatisch zu.
+3. Unnötiger Smalltalk wird entfernt und vage Gespräche werden in konkrete Arbeitsergebnisse umgewandelt.
 
-Verwenden Sie diese Version, wenn Sie lediglich zügig die wichtigsten Punkte und Aufgaben erfassen möchten.
+---
 
-> **Rolle:** Du bist ein erfahrener Projektmanager.
-> **Aufgabe:** Fasse das folgende Meeting-Transkript prägnant zusammen. Nenne mir die wichtigsten Entscheidungen und wer was bis wann erledigen muss (To-Dos).
-> **Transkript:** `[Hier Transkript-Text einfügen]`
+## 🚀 So schreiben echte Profis
 
+Dies ist ein Prompt, der nach dutzenden Versuchen perfektioniert wurde. Kopieren Sie den untenstehenden Prompt und füllen Sie nur die `[Variablen]` entsprechend Ihrer Situation aus.
 
-### 🥇 Pro-Version (Für die offizielle Dokumentation)
+### 🥉 Basic Version (Basis-Form)
 
-Nutzen Sie diesen detaillierten Prompt für formelle Protokolle, die Sie direkt an Stakeholder oder Kunden weiterleiten möchten.
+Nutzen Sie diese Version, wenn Sie schnell nur die wichtigsten Entscheidungen und Ihre eigenen Aufgaben erfassen möchten.
 
-> **Rolle (Role):** Du bist ein hochqualifizierter Executive Assistant und Projektmanager. Deine Aufgabe ist es, unstrukturierte Besprechungstranskripte in klare, handlungsorientierte Protokolle zu verwandeln.
+> **Rolle:** Du bist eine kompetente und scharfsinnige Vorstandssekretärin.
 >
-> **Kontext (Context):**
+> **Anfrage:** Lies den folgenden Meeting-Text und fasse kurz die 3 wichtigsten Entscheidungen sowie die sofort zu erledigenden Aufgaben (Action Items) für die Teammitglieder zusammen.
 >
-> - Hintergrund: Das Team hatte soeben ein Meeting. Ein Transkript des Gesprächs liegt vor, ist aber roh und enthält Füllwörter sowie Gedankensprünge.
-> - Ziel: Erstellung eines formellen Meeting-Protokolls, das ohne weitere Bearbeitung an alle Teilnehmer versendet werden kann.
+> **Eingabe:** `[Text des Meeting-Transkripts]`
+
+### 🥇 Pro Version (Experten-Form)
+
+Nutzen Sie diese Version, wenn Sie sofort ein offizielles und systematisiertes Protokoll mit Teammitgliedern oder anderen Abteilungen teilen müssen.
+
+> **Rolle (Role):** Du bist ein gewissenhafter Projektmanager (PM) mit 10 Jahren Erfahrung in einem IT-Unternehmen.
 >
-> **Aufgabe (Task):**
+> **Situation (Context):**
 >
-> 1. Analysiere das folgende Transkript: `[Hier Transkript einfügen]`
-> 2. Extrahiere die wichtigsten Diskussionsthemen, getroffenen Entscheidungen und offenen Fragen.
-> 3. Erstelle eine übersichtliche Liste von Aktionspunkten (To-Dos) inklusive der verantwortlichen Person und der Deadline (sofern im Text erwähnt).
+> - Zweck des Meetings: `[z. B. Kick-off Marketingkampagne Q3]`
+> - Datum/Uhrzeit: `[z. B. 12.02.2026]`
+> - Teilnehmerliste: `[z. B. Teamleiter Kim, Herr Park, Frau Lee]`
+>
+> **Anfrage (Task):**
+>
+> Erstelle auf Basis des bereitgestellten Meeting-Transkripts ein offizielles Protokoll gemäß der unten definierten Markdown-Vorlage.
+>
+> **[Protokoll-Vorlage]**
+>
+> - **📅 Datum/Zeit:** `[Datum des Meetings]`
+> - **👥 Teilnehmer:** `[Teilnehmerliste]`
+> - **🗣️ Hauptagendapunkte (Agenda):** `[Zusammenfassung der besprochenen Kernpunkte in max. 3 Punkten]`
+> - **✅ Entscheidungen (Decisions):** `[Im Meeting klar vereinbarte Punkte]`
+> - **📝 Aufgaben (Action Items):**
+>   - `[Name des Verantwortlichen]` : `[Konkrete Handlungsanweisung]` (~`[Voraussichtliche Frist]`)
+> - **⏭️ Nächste Schritte:** `[Nächstes geplantes Datum, z. B. Follow-up-Meeting]`
 >
 > **Einschränkungen (Constraints):**
 >
-> - Formatiere die Ausgabe ausschließlich in Markdown.
-> - Nutze Aufzählungszeichen und Fettdruck, um die Lesbarkeit zu maximieren.
-> - Filtere irrelevante Gespräche (Smalltalk) komplett heraus.
-> - Verwende durchgehend einen professionellen und objektiven Business-Ton.
+> - Entferne Witze, Gespräche über das Wetter oder Smalltalk ohne Entscheidungsrelevanz komplett.
+> - Vermeide bei 'Action Items' vage Ausdrücke (z. B. "prüfen", "nachsehen") und formuliere sie ergebnisorientiert um (z. B. "Erstellung einer Preisvergleichstabelle der Wettbewerber und Teilen via Slack").
+> - Wenn nicht klar ist, wer die Aufgabe übernimmt, markiere sie mit "(Verantwortlicher offen)".
 >
 > **Warnung (Warning):**
 >
-> - Erfinde keine Fakten, Aufgaben oder Deadlines, die nicht explizit im Transkript erwähnt wurden. Wenn eine Deadline für ein To-Do fehlt, markiere diese zwingend als "TBD" (To Be Defined).
+> - Erfinde niemals Daten, Zahlen oder Informationen, die nicht im Transkript erwähnt wurden (keine Halluzinationen). Markiere unsichere Punkte mit "[Prüfung erforderlich]".
+>
+> **Eingabedaten:**
+> `[Hier den aus Clova Note o. Ä. extrahierten Transkript-Text einfügen]`
 
 ---
 
-## 💡 Insight des Autors (Wie & Warum)
+## 💡 Kommentar des Autors (Insight & How to use)
 
-Dieser Prompt ist ein absoluter Gamechanger für den Büroalltag. Die größte Herausforderung bei rohen Transkripten (z. B. aus MS Teams, Zoom oder Whisper) besteht oft darin, dass unsere gesprochene Sprache extrem unstrukturiert ist. Die KI leistet hier hervorragende Arbeit, indem sie das unwichtige "Rauschen" zuverlässig herausfiltert.
+Die wahre Stärke dieses Prompts liegt in der **'vollständigen Beseitigung von Unklarheiten'** und der **'extremen Optimierung des geschäftlichen Kommunikationsprozesses'**. Wenn man in der Praxis zahlreiche Projektmeetings leitet, entstehen die größten Effizienzverluste nicht durch schlechte Diskussionen, sondern durch Verwirrung in der anschließenden 'Ausführungsphase (Execution)'. Nehmen Sie das Meeting mit einer KI-basierten STT-App (Speech-to-Text) wie Clova Note, Daglo oder der systemeigenen Zusammenfassungsfunktion von Apple auf, kopieren Sie den rohen Text und wenden Sie ihn sofort mit diesem Prompt an. Dass sich Ihre Protokollzeit von 30 auf 1 Minute verkürzt, ist dabei nur ein grundlegender Nebeneffekt.
 
-_Pro-Tipp:_ **Claude 3 (Opus/Sonnet)** eignet sich für diese Aufgabe oft noch besser als GPT-4, da es längere Texte und subtile Nuancen in Gesprächen natürlicher verarbeitet und eine exzellente Markdown-Formatierung liefert.
+Teilen Sie die mit diesem Prompt erstellte, saubere Markdown-Zusammenfassung unmittelbar nach einem intensiven Meeting stolz im offiziellen Slack- oder Messenger-Kanal Ihres Teams. Sie werden von Kollegen und Vorgesetzten als jemand wahrgenommen, der **"sehr strukturiert und präzise arbeitet"** und **"den komplexen Kontext des Projekts sofort durchschaut"**. Dies geht über die bloße Zeitersparnis hinaus – es ist ein mächtiges Instrument für Ihr Personal Branding, um Ihre Kompetenz und Professionalität in der Organisation unter Beweis zu stellen.
 
----
+Besonders beachten sollten Sie die detaillierte Anweisung im Abschnitt 'Einschränkungen (Constraints)': **"Wandle Verben in konkrete, ergebnisorientierte Handlungen um"**. Diese eine Zeile Prompt-Engineering verändert die Qualität des gesamten Protokolls und die Umsetzungsstärke des Teams grundlegend. In alltäglichen Geschäftsgesprächen wimmelt es oft von vagen und defensiven Ausdrücken wie "Ich schau mir das morgen mal an" oder "Wir sollten das mit der Fachabteilung prüfen, wenn Zeit ist". Wenn dieser Prompt jedoch konsequent eingreift, werden solche Luftschlösser in klare, handlungsorientierte Tasks wie **"Finalisierung der Preisliste von Firma A und Versand per E-Mail"** oder **"Einreichung des Analyseberichts zu 3 Design-Referenzen der Konkurrenz via Slack"** umgewandelt. Durch diesen strengen Prozess werden unnötige Kommunikationskosten (Follow-up-Kosten) und zeitraubende Rückfragen wie "Herr Park, meinten Sie gestern das hier?" drastisch reduziert.
 
-## 🙋 Häufig gestellte Fragen (FAQ)
+Zudem ist die explizite Kontrolle der Kernvariablen wie `[Teilnehmerliste]` und `[Zweck des Meetings]` ein sehr solider Schutzmechanismus gegen die berüchtigten KI-Halluzinationen. Selbst eine hervorragende KI hat oft Schwierigkeiten, allein aus dem Textfluss zu erkennen, wer der finale Entscheidungsträger oder der Hauptverantwortliche ist. Wenn wir dem Prompt jedoch einen klaren Rahmen geben, nutzt die KI diesen Kontext intelligent, um die Hierarchie und Aufgabenverteilung der Sprecher korrekt abzuleiten. Dies ermöglicht eine viel natürlichere und präzisere Zuweisung der Action Items ohne Peinlichkeiten.
 
-- **F: Wie bekomme ich überhaupt ein Transkript meines Meetings?**
-  - A: Gängige Tools wie Zoom, Microsoft Teams oder Google Meet bieten bereits integrierte Transkriptionsfunktionen. Alternativ können Sie Audioaufnahmen auch im Nachhinein mit KI-Tools wie OpenAIs Whisper oder MacWhisper direkt lokal auf Ihrem Rechner in Text umwandeln.
-
-- **F: Ist das Hochladen von vertraulichen Meeting-Inhalten sicher?**
-  - A: Beachten Sie hierzu unbedingt die Datenschutzrichtlinien Ihres Unternehmens. Für sensible, firmeninterne Daten sollten Sie ausschließlich Enterprise-Versionen (wie ChatGPT Enterprise oder Microsoft Copilot) nutzen, da diese Ihre Eingaben nicht für das weitere Training der Modelle verwenden.
-
-- **F: Was tun, wenn das rohe Transkript Fehler enthält (z. B. falsche Eigennamen)?**
-  - A: Fügen Sie dem Prompt einfach eine kurze Legende hinzu. Zum Beispiel: _"Hinweis: Wenn im Text 'Müller' steht, ist oft 'Möller' gemeint. Außerdem wurde 'SEO' manchmal fälschlicherweise als 'CEO' transkribiert. Bitte bei der Zusammenfassung korrigieren."_
+Schließlich ist bei langen Meetings von über einer Stunde auch die "Gewichtsklasse" des von Ihnen gewählten KI-Modells eine wichtige Variable. Je länger der physische Kontext des Gesprächs ist, desto eher neigen schwächere KI-Modelle dazu, Kerninhalte vom Anfang zu vergessen oder wichtige Schlussfolgerungen willkürlich wegzulassen. Daher empfehle ich dringend die Verwendung des **Claude 3.5 Sonnet** Modells, das über ein sehr großes Kontextfenster verfügt und zehntausende Wörter gleichzeitig verarbeiten kann – es ist unschlagbar bei der Zusammenfassung und logischen Strukturierung komplexer Geschäftsdokumente. Wenn Ihre Organisation aktiv Google Workspace nutzt, ist Googles **Gemini 2.5 Pro** ebenfalls eine exzellente Alternative für die Verarbeitung langer Dokumente. Sobald Sie das Grundprinzip dieses Prompts verstanden haben und die Variablen frei an Ihre eigene Arbeitsumgebung anpassen, werden Sie von einem einfachen Ausführenden zu einem echten Prozessmanager, der die Produktivität des gesamten Teams leitet.
 
 ---
 
-## 🧬 Warum dieser Prompt so gut funktioniert (Die Anatomie)
+## 🙋    (FAQ)
 
-1. **Klare Rollenzuweisung:** Durch die exakte Definition als "Executive Assistant" begreift die KI sofort, dass der Ausgabeton formell, objektiv und exzellent strukturiert sein muss.
-2. **Umgang mit Informationslücken:** Die strikte Warnung, keinesfalls Fakten zu erfinden und fehlende Deadlines mit "TBD" zu kennzeichnen, unterbindet gefährliche KI-Halluzinationen und garantiert die absolute Verlässlichkeit Ihres Protokolls.
-3. **Fokus auf umsetzbare Handlungen:** Die explizite Anweisung, konkrete To-Dos inklusive Verantwortlichkeiten zu extrahieren, verwandelt eine bloße Textzusammenfassung in ein mächtiges Werkzeug für Ihr Projektmanagement.
-
----
-
-## 📊 Beweis: Vorher vs. Nachher
-
-### ❌ Vorher (Eingabe / Rohes Transkript)
-
-```text
-Anna: Ja, also, ich denke, wir sollten die neue Landingpage bis nächsten Freitag online bringen. Was meinst du, Ben?
-Ben: Ähm, ja, das könnte klappen. Aber vorher muss Sarah noch die neuen Grafiken hochladen.
-Sarah: Oh, stimmt. Ich kümmere mich bis Mittwoch darum. Übrigens, wie war das Mittagessen gestern?
-Anna: Super! Gut, dann steht der Plan. Ach ja, wir müssen noch den Budgetplan für Q3 an den Chef schicken. Keine Ahnung, wer das macht.
-```
-
-### ✅ Nachher (Ergebnis der KI)
-
-```markdown
-### 📝 Besprechungsprotokoll
-
-**📌 Wichtige Entscheidungen:**
-
-- Der Launch der neuen Landingpage ist für nächsten Freitag geplant.
-
-**✅ Aktionspunkte (To-Dos):**
-
-- **Sarah:** Neue Grafiken hochladen (Deadline: Mittwoch)
-- **TBD:** Budgetplan für Q3 an die Geschäftsführung senden (Deadline: TBD)
-
-_Hinweis: Privater Smalltalk wurde aus dem Protokoll entfernt._
-```
+- **Q: Der Transkript-Text eines einstündigen Meetings ist sehr lang. Passt das alles in das Prompt-Fenster?**
+  - A: Bei der kostenlosen Version von ChatGPT (z. B. GPT-3.5) kann der Text in der Mitte abgeschnitten werden. Für lange Meetings von über 30 Minuten empfehle ich dringend die Nutzung von **Claude 3.5 Sonnet** oder **Gemini 2.5 Pro**, die extrem stark in der Verarbeitung langer Kontexte (Long Context) sind.
+- **Q: Die Sprechertrennung in der Aufnahme ist nicht perfekt und zeigt nur 'Teilnehmer 1', 'Teilnehmer 2' an.**
+  - A: Wenn Sie die echten Namen in die `[Teilnehmerliste]` am Anfang des Prompts einfügen, kann die KI den Kontext des Gesprächs (z. B. Anreden mit Titeln, Aufgabenbereiche) analysieren und die Sprecher meist korrekt zuordnen. Dennoch sollten Sie den Bereich `[Name des Verantwortlichen]` im Endergebnis unbedingt noch einmal kurz manuell prüfen.
+- **Q: Unser Team nutzt Notion. Ist eine Zusammenfassung auch in Tabellenform möglich?**
+  - A: Ja, natürlich! Fügen Sie einfach unter 'Einschränkungen (Constraints)' die Zeile hinzu: _"Erstelle alle Ergebnisse als Markdown-Tabelle, damit ich sie direkt in Notion kopieren kann."_ Dann erhalten Sie das Ergebnis in einer perfekt formatierten Tabelle.
 
 ---
 
-## 🎯 Fazit (Epilog)
+## 🧬 Anatomie des Prompts (Warum er funktioniert?)
 
-Mit diesem smarten Workflow verwandelt sich das ungeliebte Schreiben von Besprechungsprotokollen von einer lästigen Pflichtaufgabe in einen vollautomatisierten Prozess. Sie sparen wertvolle Arbeitszeit, minimieren das Risiko von Missverständnissen und stellen sicher, dass das gesamte Team unmittelbar nach dem Meeting genau weiß, welche nächsten Schritte anstehen.
+1. **Erzwungene Vorlage (Template Enforcement):** Verhindert, dass die KI in langen Sätzen abschweift, und fixiert die Ausgabe auf ein geschäftliches Dokumentformat, was die Lesbarkeit extrem erhöht.
+2. **Handlungsorientierte Umstrukturierung (Action-Oriented Restructuring):** Weist die KI an, vage Alltagssprache in klare To-Do-Listen umzuwandeln, um den praktischen Nutzen zu maximieren.
+3. **Halluzinationskontrolle (Hallucination Control):** Um das fatalste Problem – das Erfinden von Fakten – zu verhindern, wurden am Ende des Prompts strenge Warnhinweise (Warning) platziert.
 
-Automatisieren Sie Ihre Routineaufgaben und machen Sie ab heute pünktlich Feierabend! 🍷
+---
+
+## 🎯 Fazit
+
+Das Protokollieren von Meetings ist nicht länger die Aufgabe des Jüngsten im Team oder eine lästige Pflichtarbeit. Delegieren Sie die monotone Aufgabe, jedes Wort festzuhalten und zusammenzufassen, ab jetzt vollständig an Ihre KI-Assistenz. Konzentrieren Sie sich stattdessen voll und ganz auf die wirklich wertschöpfenden Kernaufgaben: das **Gewinnen von Insights** und die konkrete **Ausführung (Execution)**.
+
+Mit einer Investition von nur einer Minute haben Sie ein perfektes Protokoll erstellt, das alle begeistern wird. Vergessen Sie den Stress der Zusammenfassung und genießen Sie Ihren wohlverdienten pünktlichen Feierabend! 🍷

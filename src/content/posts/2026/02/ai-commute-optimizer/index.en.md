@@ -4,9 +4,9 @@ title: " \"출근길 교통지옥 탈출! AI 교통비서\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "라이프스타일"
+category: "Lifestyle"
 description: "AI analyzes real-time traffic and alternative routes to give you the exact, optimal departure time for a stress-free commute."
-tags: ["출근", "교통", "AI비서", "시간관리"]
+tags: ["출근", "교통", "AI비서", "Time Management"]
 ---
 
 ## 🚗 Escape the Morning Traffic Hell! AI Commute Assistant

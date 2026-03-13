@@ -4,7 +4,7 @@ title: "💌 Prompt de Cold Email Infalível para Contratar Celebridades do Cali
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "마케팅 자동화"
+category: "General"
 description: "Chega de propostas ignoradas! Descubra o prompt de cold email definitivo para fechar parcerias com celebridades VIP e estrelas pop em minutos."
 tags: ["prompt-engineering", "ai-agent", "nick-jonas"]
 image: "/images/hooks/nick-jonas-influencer-pitch-prompt.jpg"

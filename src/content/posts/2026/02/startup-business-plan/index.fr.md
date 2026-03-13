@@ -4,9 +4,9 @@ title: " \"사업계획서 작성: 예비창업패키지 합격하는 목차 설
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "창업/기획"
+category: "General"
 description: "Le succès d'une subvention repose sur son sommaire. Ce prompt IA structure votre business plan selon le modèle PSST (Problème-Solution-Croissance-Équipe)."
-tags: ["사업계획서", "예비창업패키지", "스타트업", "정부지원사업", "ChatGPT"]
+tags: ["사업계획서", "예비창업패키지", "Startup", "정부지원사업", "ChatGPT"]
 ---
 
 ## 📑 Rédaction de Business Plan : Structurer un Sommaire pour Décrocher des Subventions

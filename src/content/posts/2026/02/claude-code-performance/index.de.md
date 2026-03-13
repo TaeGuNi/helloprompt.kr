@@ -4,7 +4,7 @@ title: " \"Claude Code 성능 저하 논란? 진실은?\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "AI 이슈"
+category: "General"
 description: "Häufen sich Berichte über Leistungseinbrüche bei Claude Code? Wir analysieren das Phänomen und fassen die Reaktionen der Entwickler zusammen."
 tags: ["Claude", "Anthropic", "AI", "Coding"]
 ---

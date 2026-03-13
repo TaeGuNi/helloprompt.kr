@@ -4,7 +4,7 @@ title: "🏏 Prompt de IA para Analisar a Tabela de Pontos da Copa do Mundo T20 
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Chega de sofrer com a tabela de pontos da Copa do Mundo T20. Basta copiar e colar para a IA gerar resumos e análises profundas em apenas 1 segundo!"
 tags: ['prompt-engineering', 'ai-agent', 't20-world-cup-p']
 ---

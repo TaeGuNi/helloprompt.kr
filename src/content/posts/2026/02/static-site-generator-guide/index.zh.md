@@ -4,9 +4,9 @@ title: "정적 사이트 생성기(SSG): Astro vs Next.js vs Gatsby"
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "개발/코딩"
+category: "General"
 description: "想搭建技术博客或作品集，却不想支付高昂的服务器费用？本文将为您揭晓2026年静态网站之王，并分享完美的初始化配置提示词。"
-tags: ["SSG", "Astro", "Next.js", "블로그", "프론트엔드"]
+tags: ["SSG", "Astro", "Next.js", "Blog", "Frontend"]
 ---
 
 ## 🚀 静态站点生成器 (SSG)：Astro vs Next.js vs Gatsby {#ssg}

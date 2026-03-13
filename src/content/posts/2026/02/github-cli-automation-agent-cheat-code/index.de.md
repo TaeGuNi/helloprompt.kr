@@ -4,7 +4,7 @@ title: "🔥 Halt den Mund und code: Der autonome GitOps-Cheatcode für KI-Agent
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Der geheime Prompt eines Senior-Entwicklers: Eliminiere KI-Schmeicheleien und zwinge Agenten in eine autonome, vierstufige GitOps-Pipeline."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "github-cli"]
 ---

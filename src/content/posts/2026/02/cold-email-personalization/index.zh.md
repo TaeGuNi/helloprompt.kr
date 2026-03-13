@@ -4,7 +4,7 @@ title: " \"응답률 200% 높이는 초개인화 콜드 메일 작성법\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "세일즈"
+category: "General"
 description: "基于潜在客户的近期动态，打造令人无法拒绝的专属合作提案，彻底告别干瘪的复制粘贴开发信。"
 tags: ["세일즈", "콜드메일", "B2B", "영업"]
 ---

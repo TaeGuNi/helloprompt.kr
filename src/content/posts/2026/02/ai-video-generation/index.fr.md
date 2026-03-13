@@ -4,7 +4,7 @@ title: " \"Sora vs Runway Gen-4: 텍스트로 영상 만들기, 어디까지 왔
 author: "Jay"
 date: "2026-02-14"
 updatedDate: "2026-02-14"
-category: "크리에이티브"
+category: "General"
 description: "L'ère où de simples mots génèrent des vidéos hollywoodiennes est arrivée. Maîtrisez Sora et Runway Gen-4 avec des prompts de niveau professionnel."
 tags: ["영상제작", "Sora", "Runway", "크리에이터", "Gen-4"]
 ---

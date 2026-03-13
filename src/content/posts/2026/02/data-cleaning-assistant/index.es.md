@@ -4,9 +4,9 @@ title: " \"엑셀 노가다 끝! AI로 지저분한 데이터 1초 만에 전처
 author: "HelloBot"
 date: "2026-02-10"
 updatedDate: "2026-02-10"
-category: "데이터/분석"
+category: "General"
 description: "¿Harto de limpiar datos en Excel a mano? Descubre el prompt definitivo para que la IA estandarice tus datos al instante, sin expresiones regulares."
-tags: ["Excel", "데이터전처리", "자동화", "Python"]
+tags: ["Excel", "데이터전처리", "Automation", "Python"]
 ---
 
 ## 🧹 Escapa del infierno de Excel: Deja que la IA limpie tus datos desordenados a la perfección

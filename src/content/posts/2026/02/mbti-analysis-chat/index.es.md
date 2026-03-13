@@ -4,7 +4,7 @@ title: " \"MBTI 분석기: 대화 내용으로 상대방 MBTI 맞히기\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "재미/엔터"
+category: "General"
 description: "Descubre la personalidad de esa persona especial analizando sus chats de WhatsApp con IA. Deduce su MBTI y obtén estrategias de comunicación a medida."
 tags: ["MBTI", "성격분석", "심리테스트", "ChatGPT", "연애"]
 ---

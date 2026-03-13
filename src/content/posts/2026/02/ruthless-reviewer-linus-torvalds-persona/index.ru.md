@@ -4,7 +4,7 @@ title: "Ультимативный ИИ-ревьюер кода: Режим со
 author: "Jay"
 date: "2026-02-25"
 updatedDate: "2026-02-25"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Спартанский чит-код для ИИ-ревьюера: никакой лести — только жесткий разбор временной сложности и граничных случаев (edge cases)."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ruthless-reviewer"]
 ---

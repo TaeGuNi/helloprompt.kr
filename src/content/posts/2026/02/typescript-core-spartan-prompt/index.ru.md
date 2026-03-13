@@ -4,7 +4,7 @@ title: "💀 Спартанский чит-код, выжимающий душу
 author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Хардкорный промпт, уничтожающий лесть и галлюцинации ИИ. Принуждает его к безжалостной типобезопасности и экстремальной эффективности разработки."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "typescript-core"]
 ---

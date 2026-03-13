@@ -4,9 +4,9 @@ title: "GraphQL 架构设计：从 REST API 优雅过渡"
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "백엔드/DB"
+category: "General"
 description: "告别过度获取（Over-fetching）的冗余数据。这是一份让前端幸福感爆棚的 GraphQL 架构设计模式与实战 Prompt。"
-tags: ["GraphQL", "API", "백엔드", "스키마", "Apollo"]
+tags: ["GraphQL", "API", "Backend", "스키마", "Apollo"]
 ---
 
 ## 🕸️ GraphQL 架构设计：从 REST API 优雅过渡

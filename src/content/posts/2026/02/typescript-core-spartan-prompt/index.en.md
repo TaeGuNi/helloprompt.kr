@@ -4,7 +4,7 @@ title: "💀 The Spartan Coding Cheat Code that Grinds the AI's Soul (TypeScript
 author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "A hardcore prompt that shatters the AI's useless flattery and hallucinations, enforcing ruthless type safety and extreme efficiency."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "typescript-core"]
 ---

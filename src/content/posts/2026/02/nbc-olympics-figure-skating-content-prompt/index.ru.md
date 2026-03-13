@@ -4,16 +4,9 @@ title: "Тренды фигурного катания NBC Olympics: Как на
 author: "Jay"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
-category: "콘텐츠 제작"
+category: "Content Creation"
 description: "Промпт для мгновенного создания вирусных обзоров фигурного катания NBC Olympics. Генерируйте профессиональный спортивный контент с ИИ всего за 1 минуту!"
-tags:
-  [
-    "nbc olympics figure skating",
-    "콘텐츠 제작",
-    "소셜미디어",
-    "ChatGPT",
-    "블로그 자동화",
-  ]
+tags: ["nbc olympics figure skating", "콘텐츠 제작", "Social Media", "ChatGPT", "블로그 자동화", ""]
 ---
 
 ## 📝 Тренды фигурного катания NBC Olympics: Промпт для создания вирусного контента

@@ -4,7 +4,7 @@ title: "¡Dile adiós al código espagueti! 🍝 Prompt DDD de magia negra para 
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Transforma a la IA complaciente en un arquitecto de software implacable con este prompt de DDD. Dile adiós al código espagueti y domina la Clean Architecture."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ddd-architecture"]
 ---

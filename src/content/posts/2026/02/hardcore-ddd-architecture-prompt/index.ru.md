@@ -4,7 +4,7 @@ title: "Никакого спагетти-кода! 🍝 Черная магия
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Хардкорный чит-промпт по DDD, превращающий услужливый, но бестолковый ИИ в безжалостного Senior-архитектора."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ddd-architecture"]
 ---

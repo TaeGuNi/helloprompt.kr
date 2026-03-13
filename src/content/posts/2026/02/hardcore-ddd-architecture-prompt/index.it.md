@@ -4,7 +4,7 @@ title: "Niente Codice Spaghetti! 🍝 Il Prompt Magico DDD del Senior Developer"
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Il prompt cheat code hardcore DDD che trasforma un'IA obbediente ma ingenua in uno spietato Senior Architect. Previeni il debito tecnico."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ddd-architecture"]
 ---

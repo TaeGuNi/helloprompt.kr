@@ -4,7 +4,7 @@ title: "🔥 Structure PPT en 1 minute : Le prompt IA PowerPoint pour finir plus
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Fini le syndrome de la page blanche sur PowerPoint ! Découvrez le prompt IA ultime pour structurer instantanément vos présentations et scripts."
 tags: ["prompt-engineering", "ai-agent", "powerpoint"]
 image: "/images/hooks/powerpoint-outline-prompt.jpg"

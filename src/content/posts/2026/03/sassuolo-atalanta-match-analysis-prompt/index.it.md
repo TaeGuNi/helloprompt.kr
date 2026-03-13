@@ -4,7 +4,7 @@ title: "⚽ Sassuolo vs Atalanta: Analisi del Match Sportivo & Prompt per la Gen
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Dall'analisi dei dati calcistici alla stesura di post persuasivi per il marketing sportivo: ecco il prompt AI definitivo per fare tutto in un istante."
 tags: ["prompt-engineering", "ai-agent", "sassuolo-atalan"]
 image: "/images/hooks/sassuolo-atalanta-match-analysis-prompt.jpg"

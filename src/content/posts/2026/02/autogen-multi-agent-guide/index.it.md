@@ -4,9 +4,9 @@ title: " \"AutoGen 입문: AI 에이전트끼리 대화하게 만들기\""
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "AI/개발"
+category: "General"
 description: "Scopri AutoGen di Microsoft: il framework multi-agente in cui bot sviluppatori e manager collaborano e scrivono codice in totale autonomia."
-tags: ["AutoGen", "멀티에이전트", "MS", "AI협업", "자동화"]
+tags: ["AutoGen", "멀티에이전트", "MS", "AI협업", "Automation"]
 ---
 
 ## 🤖 Introduzione ad AutoGen: Far Dialogare gli Agenti AI

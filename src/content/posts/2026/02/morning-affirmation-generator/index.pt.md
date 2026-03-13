@@ -4,9 +4,9 @@ title: " \"미라클 모닝 긍정 확언 생성기\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "자기계발"
+category: "General"
 description: "Comece o seu dia com energia e reprograme o seu mindset usando afirmações positivas hiperpersonalizadas, baseadas em neurociência. Resultados em segundos."
-tags: ["미라클모닝", "마인드셋", "자기계발", "긍정확언"]
+tags: ["미라클모닝", "마인드셋", "Self-Improvement", "긍정확언"]
 ---
 
 ## 📝 Gerador de Afirmações Positivas para o seu Miracle Morning

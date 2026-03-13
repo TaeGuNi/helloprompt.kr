@@ -4,9 +4,9 @@ title: " \"AI로 두서없는 회의록, 깔끔한 요약본으로 변신\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: " \"Fini le casse-tête des réunions décousues ! Laissez l'IA rédiger vos comptes-rendus structurés et extraire les plans d'action à votre place.\""
-tags: ["회의록", "요약", "ChatGPT", "Notion", "생산성"]
+tags: ["회의록", "요약", "ChatGPT", "Notion", "Productivity"]
 ---
 
 ## 📝 Transformer des Réunions Chaotiques en Comptes-Rendus Impeccables grâce à l'IA

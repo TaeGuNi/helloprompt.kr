@@ -4,7 +4,7 @@ title: "🎵 Un pizzico di emozione alla Olivia Dean: Il prompt magico che fa ri
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Basta con i soliti slogan freddi e artificiosi! Questo prompt AI per il copywriting emozionale cattura l'autenticità della musicista soul Olivia Dean."
 tags: ["prompt-engineering", "ai-agent", "olivia-dean"]
 ---

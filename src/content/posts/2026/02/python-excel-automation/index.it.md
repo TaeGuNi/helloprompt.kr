@@ -4,9 +4,9 @@ title: " \"Python 자동화 스크립트: 귀찮은 엑셀 취합, 1초 컷\""
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Guida definitiva ai prompt: unisci decine di file Excel in un secondo con 10 righe di Python. Dì addio per sempre al noioso copia e incolla manuale!"
-tags: ["파이썬", "엑셀", "자동화", "Pandas", "업무효율"]
+tags: ["파이썬", "Excel", "Automation", "Pandas", "Productivity"]
 ---
 
 ## 🐍 Script di Automazione Python: Unisci Decine di File Excel in un Solo Secondo

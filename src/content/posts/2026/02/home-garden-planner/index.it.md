@@ -4,7 +4,7 @@ title: " \"베란다를 숲으로: AI 홈가드닝 플래너\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "취미/라이프"
+category: "General"
 description: "Smetti di essere un serial killer di piante! Scopri le piante perfette per la tua casa e salva i vasi morenti con il tuo maggiordomo botanico AI."
 tags: ["가드닝", "식집사", "반려식물", "플랜테리어"]
 ---

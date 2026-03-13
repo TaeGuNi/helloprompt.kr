@@ -4,7 +4,7 @@ title: " \"Google Gemini 2.5 Pro: GPT-4o보다 나은 점 3가지\""
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "AI/개발"
+category: "General"
 description: " \"長い文脈（Long Context）の処理において圧倒的な強さを誇るGemini 2.5 Pro。100万トークンを活用し、分厚いPDFやコードベース全体を一括で分析するための実践的なプロンプトガイドです。\""
 tags: ["Gemini", "구글", "LLM", "GPT-4", "AI모델"]
 ---

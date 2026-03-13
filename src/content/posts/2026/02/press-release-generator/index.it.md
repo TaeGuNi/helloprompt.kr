@@ -4,9 +4,9 @@ title: " \"보도자료(PR) 작성: 기자들이 좋아하는 '스트레이트 �
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "비즈니스/마케팅"
+category: "General"
 description: "Devi annunciare un prodotto o un round di investimenti? Usa questo prompt per creare comunicati stampa oggettivi che i giornalisti pubblicheranno subito."
-tags: ["보도자료", "PR", "홍보", "ChatGPT", "글쓰기"]
+tags: ["보도자료", "PR", "홍보", "ChatGPT", "Writing"]
 ---
 
 ## 📰 Scrivere un Comunicato Stampa (PR): Crea 'Straight News' che i Giornalisti Amano in un Istante

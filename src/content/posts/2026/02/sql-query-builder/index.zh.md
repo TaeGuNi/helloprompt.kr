@@ -4,9 +4,9 @@ title: " \"복잡한 SQL 쿼리, 말로 하면 코드로 짜줍니다\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "데이터"
+category: "General"
 description: "JOIN、GROUP BY、Window Function……别再为复杂的SQL语法头疼了！掌握这套结构化提示词，让AI化身专属DBA，一句话自动生成精准代码。"
-tags: ["SQL", "데이터분석", "쿼리"]
+tags: ["SQL", "Data Analysis", "쿼리"]
 ---
 
 ## 📝 复杂SQL查询，一句话自动生成代码

@@ -4,7 +4,7 @@ title: "💀 Quebre a Arrogância da IA: O Cheat Code Hardcore para Tornar a IA 
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "A constituição de prompt de um engenheiro sênior que agarra a IA viciada em alucinações pelo colarinho e a força a confessar as falhas em seu próprio código."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "epistemic-humility"]
 ---

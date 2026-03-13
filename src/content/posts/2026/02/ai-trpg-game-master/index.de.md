@@ -4,7 +4,7 @@ title: " \"TRPG 게임 마스터: 주사위 굴리며 던전 탐험하기\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "재미/엔터"
+category: "General"
 description: "Keine Mitspieler oder echten Würfel nötig: Erlebe ein packendes D&D Solo-Abenteuer, meisterhaft geleitet von deiner persönlichen KI als Game Master."
 tags: ["TRPG", "게임", "던전앤드래곤", "판타지", "ChatGPT"]
 ---

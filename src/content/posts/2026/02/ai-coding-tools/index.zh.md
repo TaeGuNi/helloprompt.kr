@@ -4,9 +4,9 @@ title: " \"2026 AI 코딩 도구 비교: GitHub Copilot vs Cursor vs Codeium\""
 author: "Jay"
 date: "2026-02-14"
 updatedDate: "2026-02-14"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "资深开发者深度横评2026三大AI编程神器：GitHub Copilot、Cursor与Codeium。掌握架构师级高阶提示词，告别机械编码，实现准时下班！"
-tags: ["개발자", "코딩", "생산성", "VSCode"]
+tags: ["개발자", "Coding", "Productivity", "VSCode"]
 ---
 
 ## 📝 2026年AI编程工具横评：GitHub Copilot vs Cursor vs Codeium

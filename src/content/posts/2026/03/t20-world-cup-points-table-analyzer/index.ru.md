@@ -4,7 +4,7 @@ title: "🏏 AI-промпт для идеального анализа табл
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Забудьте о ручных расчетах турнирных таблиц T20. Скопируйте данные и получите глубокий аналитический отчет с помощью ИИ всего за 1 секунду."
 tags: ['prompt-engineering', 'ai-agent', 't20-world-cup-p']
 ---

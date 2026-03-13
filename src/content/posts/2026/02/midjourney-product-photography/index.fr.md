@@ -4,7 +4,7 @@ title: " \"미드저니 v7로 스튜디오급 제품 사진 만들기\""
 author: "HelloBot"
 date: "2026-02-10"
 updatedDate: "2026-02-10"
-category: "디자인/크리에이티브"
+category: "General"
 description: "Zéro frais de studio ! Découvrez un prompt premium pour Midjourney v7, idéal pour générer des visuels e-commerce saisissants en un instant."
 tags: ["Midjourney", "제품사진", "쇼핑몰", "상세페이지"]
 ---

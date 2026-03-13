@@ -4,7 +4,7 @@ title: " \"미라클 모닝 성공률 200% 만드는 AI 알람 대본\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "자기계발"
+category: "General"
 description: "Svegliarsi è un incubo? Genera uno script per la sveglia spietato e su misura per i tuoi veri obiettivi. Non premerai mai più il tasto snooze!"
 tags: ["미라클모닝", "동기부여", "알람"]
 ---

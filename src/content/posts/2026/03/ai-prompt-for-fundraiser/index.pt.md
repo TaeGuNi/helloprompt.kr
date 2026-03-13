@@ -4,7 +4,7 @@ title: "💸 O Prompt Mágico de Captação de Recursos que Enche Contas Vazias"
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Um prompt de IA prático que cria e-mails de captação e copys persuasivas em 1 minuto, incentivando doações de forma natural e autêntica."
 tags: ["prompt-engineering", "ai-agent", "fundraiser"]
 ---

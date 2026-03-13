@@ -4,9 +4,9 @@ title: " \"내 AI 서비스 지키기: 프롬프트 인젝션 방어 가이드 (
 author: "Jay"
 date: "2026-02-14"
 updatedDate: "2026-02-14"
-category: "보안"
+category: "Security"
 description: "保护您的 AI 服务免受恶意攻击的核心防御策略与实战提示词模板。"
-tags: ["보안", "프롬프트엔지니어링", "해킹", "LLM", "보안가이드"]
+tags: ["Security", "Prompt Engineering", "해킹", "LLM", "보안가이드"]
 ---
 
 ## 🛡️ 守护您的 AI 服务：提示词注入 (Prompt Injection) 防御实战指南

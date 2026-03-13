@@ -4,7 +4,7 @@ title: "💌 Prompt per una cold email che persino Nick Jonas accetterebbe"
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "마케팅 자동화"
+category: "General"
 description: "Basta email ignorate! Scopri il prompt definitivo per scrivere una cold email irresistibile, capace di ingaggiare all'istante VIP e pop star globali."
 tags: ["prompt-engineering", "ai-agent", "nick-jonas"]
 image: "/images/hooks/nick-jonas-influencer-pitch-prompt.jpg"

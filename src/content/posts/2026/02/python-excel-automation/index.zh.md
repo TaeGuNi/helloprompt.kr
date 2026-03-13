@@ -4,9 +4,9 @@ title: " \"Python 자동화 스크립트: 귀찮은 엑셀 취합, 1초 컷\""
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "每天都在疯狂复制粘贴汇总 Excel？这份完美的提示词指南教你用 10 行 Python 代码，只需 1 秒即可轻松搞定所有数据合并。"
-tags: ["파이썬", "엑셀", "자동화", "Pandas", "업무효율"]
+tags: ["파이썬", "Excel", "Automation", "Pandas", "Productivity"]
 ---
 
 ## 🐍 Python 自动化脚本：1 秒搞定几十个 Excel 文件的繁琐汇总

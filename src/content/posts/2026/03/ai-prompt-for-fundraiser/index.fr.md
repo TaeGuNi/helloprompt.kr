@@ -4,7 +4,7 @@ title: "💸 Le prompt magique de collecte de fonds pour renflouer vos caisses"
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Un prompt IA redoutable pour rédiger en une minute des e-mails de collecte de fonds percutants, incitant naturellement vos donateurs à contribuer."
 tags: ["prompt-engineering", "ai-agent", "fundraiser"]
 ---

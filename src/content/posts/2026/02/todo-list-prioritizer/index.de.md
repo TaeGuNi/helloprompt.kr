@@ -4,9 +4,9 @@ title: " \"AI로 뒤죽박죽 할 일 목록, 우선순위 정리 끝!\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Schluss mit dem Rätselraten! Der KI-Assistent priorisiert Ihre Aufgaben perfekt nach Wichtigkeit und Dringlichkeit."
-tags: ["To-Do", "우선순위", "ChatGPT", "생산성"]
+tags: ["To-Do", "우선순위", "ChatGPT", "Productivity"]
 ---
 
 ## 📝 KI-gesteuerte To-Do-Listen: So priorisieren Sie das Chaos!

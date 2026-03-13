@@ -4,7 +4,7 @@ title: "No More Spaghetti Code! 🍝 A Senior Developer's Dark Magic DDD Prompt"
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "A hardcore DDD cheat sheet prompt that transforms an overly obedient AI into a ruthless senior architect."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ddd-architecture"]
 ---

@@ -4,9 +4,9 @@ title: " \"Transformer automatiquement vos comptes rendus de réunion en tickets
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "프로젝트 관리"
+category: "General"
 description: "Découvrez le prompt magique qui transforme 1 heure de réunion en tickets Jira parfaits et prêts à l'emploi en seulement 10 secondes."
-tags: ["PM", "Jira", "회의록", "생산성"]
+tags: ["PM", "Jira", "회의록", "Productivity"]
 ---
 
 ## 📝 Transformer vos Réunions en Tickets Jira en 10 Secondes grâce à l'IA

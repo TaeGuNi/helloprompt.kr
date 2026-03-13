@@ -4,7 +4,7 @@ title: " \"회의록 지옥 탈출: 1시간 회의를 10초 만에 정리하는 
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "업무 생산성"
+category: "General"
 description: " \"将杂乱无章的会议语音转写记录瞬间转化为清晰的行动项（Action Item）与决议的魔法提示词。\""
 tags: ["회의록", "요약", "클로바노트", "액션아이템"]
 ---

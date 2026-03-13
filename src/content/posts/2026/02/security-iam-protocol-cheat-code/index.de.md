@@ -4,7 +4,7 @@ title: "🔒 Hacker-Spielplatz geschlossen! Gnadenloser Security-Agent Cheat-Cod
 author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Ein spartanischer Security-Prompt-Cheat-Code, der die Jasager-Mentalität der KI zerstört und Token-Diebstahl an der Wurzel blockiert."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "security-iam-protocol"]
 ---

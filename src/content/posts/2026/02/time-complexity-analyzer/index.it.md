@@ -1,119 +1,49 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"Qual è la Complessità Temporale (Big O) del Mio Codice?\""
+title: "Qual è la complessità temporale (Big O) del mio codice?"
 author: "Jay"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
-category: "Coding/Sviluppo"
-description: "Un prompt per calcolare la complessità temporale (Big O) e spaziale del tuo codice, individuando all'istante i colli di bottiglia algoritmici."
-tags:
-  [
-    "Algoritmo",
-    "Complessità Temporale",
-    "Big-O",
-    "Ottimizzazione Prestazioni",
-    "Conoscenza CS",
-  ]
+date: "2026-02-07T09:10:33.099Z"
+updatedDate: "2026-02-07T09:10:33.099Z"
+category: "Coding & Development"
+description: "Analizza con precisione la complessità temporale e spaziale dei tuoi algoritmi e trova punti di ottimizzazione per prestazioni drasticamente migliori."
+tags: ["알고리즘", "시간복잡도", "Big-O", "성능최적화", "CS지식"]
 ---
 
-## 📝 Qual è la Complessità Temporale (Big O) del Mio Codice?
+## 📝 Qual è la complessità temporale (Big O) del mio codice?
 
-- **🎯 Consigliato per:** Sviluppatori, Studenti di Informatica, Candidati a colloqui tecnici
-- **⏱️ Tempo richiesto:** 5 minuti → 30 secondi
-- **🤖 Modello consigliato:** Tutti i modelli IA (ChatGPT, Claude, Gemini, ecc.)
+- **🎯 Target:** Sviluppatori junior, studenti che preparano test di codifica, neoassunti che temono le code review.
+- **⏱️ Tempo richiesto:** Ridotto da 30 minuti a 1 minuto.
+- **🤖 Prestazioni top:** Consigliati i modelli di ragionamento più recenti (compatibilità perfetta con qualsiasi modello).
 
 - ⭐ **Difficoltà:** ⭐⭐☆☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
-- 🚀 **Utilità:** ⭐⭐⭐⭐☆
+- 🚀 **Utilizzo:** ⭐⭐⭐⭐⭐
 
-> _"Due cicli `for` annidati... Sarà O(N) oppure O(N²)? Smettila di tirare a indovinare e lascia che l'IA calcoli le prestazioni reali del tuo codice in pochi secondi."_
+> _"Doppi cicli for, funzioni ricorsive... Hai finito di implementare le funzionalità, ma temi che il server possa esplodere in caso di picchi di traffico?"_
 
-L'analisi della Complessità Temporale (Big-O) è un requisito fondamentale non solo per superare le temute *coding interview*, ma anche per progettare architetture scalabili in grado di reggere enormi volumi di traffico.
-Tuttavia, calcolare a mente l'impatto di chiamate ricorsive, cicli annidati o logiche condizionali intricate può rivelarsi un vero e proprio incubo matematico.
-Incollando il tuo script in questo prompt, trasformerai l'IA in un severo professore di informatica: analizzerà il tuo algoritmo con precisione chirurgica e ti fornirà istantaneamente il refactoring più efficiente possibile.
+Ogni sviluppatore ha vissuto almeno una volta quel momento da brivido. Hai appena soddisfatto tutti i requisiti funzionali, superato innumerevoli casi di test e, rassicurato, hai proceduto al rilascio in produzione. Ma non appena arriva il **traffico su larga scala**, l'utilizzo della CPU del server schizza alle stelle e i tempi di risposta diventano infiniti. In ambito professionale, i dati non sono le decine o centinaia di record usati nei test locali. Quando arrivano centinaia di migliaia o milioni di dati reali tutti in una volta, **se non sai prevedere esattamente come resisterà il tuo codice**, è come aver piantato una bomba a orologeria nel server di produzione. Specialmente nel front-end, manipolare ripetutamente elementi del DOM, o nel back-end, elaborare in memoria i risultati di query con join complessi, può portare a inefficienze algoritmiche che compromettono seriamente l'esperienza utente (UX).
 
----
+Per gli studenti in cerca di lavoro o gli sviluppatori junior che puntano a un avanzamento di carriera, la **complessità temporale (Time Complexity)** e la **complessità spaziale (Space Complexity)** sono ostacoli giganti e inevitabili. Questo perché l'essenza dei test algoritmici non è solo verificare se "il risultato è corretto", ma se il codice "funziona stabilmente entro il limite di 1 secondo e i 256MB di memoria". Cerchi di elaborare la logica nella tua testa, disegnandola su una lavagna e tormentandoti per capire se sia O(N) o O(N^2), ma non appena il codice si allunga e le ramificazioni si intrecciano, il calcolo diventa subito un labirinto.
 
-## ⚡️ Riassunto in 3 righe (TL;DR)
+La cosa più frustrante sono i **colli di bottiglia invisibili** che operano in silenzio. Anche se all'apparenza sembra un normale ciclo `for`, le librerie integrate (Built-in functions) o operazioni come lo slicing delle liste in Python e JavaScript, chiamate sbadatamente all'interno, nascondono spesso una complessità O(N). Senza rendersene conto, si scrive una logica annidata a due o tre livelli e, all'aumentare della dimensione dei dati N, la quantità di operazioni esplode esponenzialmente, portando a errori di **TimeOut** o log di crash OOM (Out of Memory). Se hai mai sentito le dita tremare prima di premere il pulsante di commit per paura di ricevere una critica tagliente da uno sviluppatore senior ("Sembra che ci sia un problema di prestazioni qui. Qual è il Big-O?"), sai bene quanto possa essere doloroso.
 
-1. **Calcolo istantaneo:** Ottieni subito l'esatta Complessità Temporale e Spaziale (Big-O).
-2. **Caccia al collo di bottiglia:** Scopri esattamente quali righe affossano le prestazioni del sistema.
-3. **Refactoring chirurgico:** Ricevi un algoritmo ottimizzato, pronto per essere portato in produzione.
+Ma ora non devi più spaccarti la testa scrivendo formule su vecchi quaderni. Utilizzando attivamente il prompt **Analizzatore di Complessità Algoritmica AI**, puoi vivere un'esperienza di mentoring straordinaria, come se avessi al tuo fianco un pignolo ma gentile Senior Backend Engineer di una Big Tech globale.
 
----
+Basta copiare e incollare il codice sospetto e l'AI traccerà instancabilmente la profondità dei cicli nascosti e delle chiamate ricorsive riga per riga, analizzando persino i costi operativi nascosti delle librerie integrate, per produrre la **notazione Big-O più accurata**. Non si ferma a una risposta fredda e scontata come "Questo codice è O(N^2)", ma analizza i punti deboli del tuo codice con una logica chiara, spiegando "perché questa parte è il collo di bottiglia decisivo".
 
-## 🚀 La Soluzione: "Analizzatore di Complessità"
-
-### 🥉 Basic Version (Versione Base)
-
-Ideale per ottenere una valutazione al volo durante la scrittura del codice.
-
-> **Ruolo (Role):** Sei un Professore di Informatica esperto nell'ottimizzazione di algoritmi e strutture dati.
-> **Richiesta (Task):** Analizza la complessità temporale e spaziale del seguente frammento di codice e suggerisci l'approccio migliore per massimizzarne le prestazioni: `[Incolla qui il tuo codice]`
-
-### 🥇 Pro Version (Versione Esperto)
-
-Sfrutta questa versione per un'ispezione profonda, completa di spiegazioni logiche riga per riga e codice pronto per la produzione.
-
-> **Ruolo (Role):** Sei un Principal Software Engineer e un Professore di Informatica esperto nell'ottimizzazione estrema delle prestazioni algoritmiche.
->
-> **Contesto (Context):**
->
-> - Background: Ho appena scritto un algoritmo e ho bisogno di valutarne l'efficienza reale prima di portarlo in produzione o discuterlo in una *coding interview*.
-> - Obiettivo: Comprendere l'esatta notazione Big-O della mia soluzione e scoprire l'approccio architetturale più efficiente.
->
-> **Compito (Task):**
->
-> 1. Analizza la **Complessità Temporale** e la **Complessità Spaziale** del codice fornito utilizzando rigorosamente la notazione Big-O.
-> 2. Spiega, analizzando il codice riga per riga, il ragionamento matematico alla base del tuo calcolo.
-> 3. Se esiste un approccio più performante (es. ottimizzando da O(N²) a O(N log N) o O(N)), proponi il codice refattorizzato spiegando in dettaglio i compromessi (Trade-off) scelti.
->
-> **Codice (Code):**
->
-> `[Incolla qui il tuo frammento di codice da analizzare]`
->
-> **Vincoli (Constraints):**
->
-> - Concentra la tua analisi principalmente sul caso peggiore (Worst-case scenario).
-> - Evidenzia qualsiasi potenziale problema di saturazione della memoria o rischio di timeout che potrebbe verificarsi scalando massivamente la dimensione dell'input (N).
+Inoltre, la vera magia inizia quando ricevi suggerimenti per l'**ottimizzazione strutturale (Structural Optimization)**. Cicli annidati O(N^2) terribilmente lenti si trasformano istantaneamente in codici O(N) incredibilmente veloci grazie a **strutture dati avanzate e pattern algoritmici** come HashMap o Two Pointers. Attraverso un feedback che scherma persino i casi limite estremi, rinascerai come un vero ingegnere capace di dominare perfettamente anche le profondità invisibili delle prestazioni.
 
 ---
 
-## 💡 Insight dell'Autore (Insight)
+## 📊 Dimostrazione: Risultati entusiasmanti (Before & After)
 
-L'ottimizzazione prematura sarà anche la radice di tutti i mali, ma ignorare deliberatamente la complessità algoritmica è una garanzia di disastro in produzione. Questo prompt mi ha letteralmente salvato la vita in innumerevoli sessioni di *code review*. Troppo spesso ci accontentiamo di soluzioni *brute force* pur di consegnare una feature in tempo, chiudendo un occhio sui colli di bottiglia silenti.
-Dare in pasto il tuo codice a questo prompt non si limita a generare la versione ottimizzata: è un allenamento intensivo per il tuo "occhio algoritmico". Soprattutto, padroneggiare il delicato equilibrio del **Time-Space Tradeoff** (il compromesso tra spazio e tempo) suggerito dall'IA, ti fornirà le armi giuste per smontare qualsiasi domanda insidiosa ti venga posta dai Senior Engineer durante i colloqui tecnici.
+La differenza tra una semplice domanda e l'output di un prompt ottimizzato è netta. Usando il prompt fornito, otterrai feedback molto più specifici e strutturati, comprendendo chiaramente anche i trade-off tra tempo e memoria.
 
----
-
-## 🙋 Domande Frequenti (FAQ)
-
-- **Q: Questo prompt è affidabile con qualsiasi linguaggio di programmazione?**
-  - A: Assolutamente sì. L'IA è in grado di destrutturare e analizzare linguaggi come Python, Java, C++, JavaScript e Go senza alcuno sforzo, applicando i principi universali della notazione Big-O in modo agnostico.
-
-- **Q: Posso usarlo per analizzare le performance di query SQL complesse?**
-  - A: Questo prompt è tarato specificamente per algoritmi e strutture dati procedurali. Per il mondo database, ti consiglio di formulare un prompt mirato che richieda esplicitamente l'analisi del *Query Execution Plan* o l'impatto sugli indici *B-Tree*.
-
-- **Q: Come si comporta l'IA se il mio script importa librerie esterne?**
-  - A: L'IA calcolerà la complessità basandosi sul comportamento nativo e documentato di tali funzioni (ad esempio, riconoscerà che il metodo `.sort()` di Python utilizza il *Timsort*, operando in O(N log N)). Nel caso di pacchetti estremamente di nicchia, procederà per deduzione logica.
-
----
-
-## 🧬 Anatomia del Prompt (Perché funziona?)
-
-1. **Ruolo Ibrido (Principal Engineer + Professore):** Costringe l'IA a non limitarsi a sputare codice ottimizzato, ma a **spiegarne meticolosamente la logica matematica**, garantendo un vero trasferimento di competenze.
-2. **Scansione Riga per Riga:** Impedisce al modello di fornire stime approssimative. Richiedere una giustificazione matematica passo-passo elimina alla radice il rischio di allucinazioni sul calcolo del Big-O.
-3. **Focus sul Caso Peggiore (Worst-case Scenario):** Orienta l'intera analisi sugli scenari di stress estremo (quando l'input *N* tende all'infinito), ovvero i momenti in cui un'architettura software rivela le sue vere fragilità.
-
----
-
-## 📊 Prova: Prima e Dopo
-
-### ❌ Prima (Codice di Input in Python)
+### ❌ Prima (La nostra sofferenza)
 
 ```python
+# Trovare un numero duplicato in un array
 def find_duplicate(nums):
-    # Approccio Brute Force
     for i in range(len(nums)):
         for j in range(i + 1, len(nums)):
             if nums[i] == nums[j]:
@@ -121,35 +51,125 @@ def find_duplicate(nums):
     return None
 ```
 
-### ✅ Dopo (Risultato Generato dall'IA)
+### ✅ Dopo (La trasformazione perfetta)
 
-**Analisi Algoritmica:**
+```text
+🔍 Risultato dell'analisi algoritmica
 
-- **Complessità Temporale:** `O(N²)` — L'utilizzo di due cicli `for` annidati costringe a iterare l'intera lista per ogni singolo elemento. Se `N = 10.000`, il sistema deve gestire circa 100.000.000 di operazioni, causando colli di bottiglia critici.
-- **Complessità Spaziale:** `O(1)` — L'impatto sulla memoria è costante. Non vengono allocate strutture dati aggiuntive che crescono proporzionalmente all'input.
+- Complessità temporale: O(N^2). Poiché sta attraversando un doppio ciclo for, la quantità di calcoli esplode esponenzialmente all'aumentare della dimensione dell'array N. Se N supera i 10.000, si verificherà un collo di bottiglia critico in produzione.
+- Complessità spaziale: O(1). Poiché confronta solo gli indici senza allocare memoria aggiuntiva, l'efficienza della memoria è eccellente.
 
-**Codice Migliorato (Utilizzando un Hash Set):**
+🛠️ Algoritmo ottimizzato (Utilizzo di Hash Set)
+Per ridurre drasticamente la complessità temporale a O(N), è possibile introdurre una struttura dati hash (Set).
 
-```python
 def find_duplicate_optimized(nums):
-    seen = set()
+    seen = set() # Hash set per ricerca O(1)
     for num in nums:
         if num in seen:
             return num
         seen.add(num)
     return None
+
+💡 Effetto del miglioramento (Trade-off)
+- Complessità temporale: O(N^2) ➡️ O(N) (Poiché l'array viene attraversato una sola volta, la velocità di esecuzione aumenta drasticamente.)
+- Complessità spaziale: O(1) ➡️ O(N) (Memorizzare i dati nel Set richiede memoria aggiuntiva, ma negli ambienti di calcolo moderni è un trade-off estremamente vantaggioso e accettabile.)
 ```
-
-**Analisi del Miglioramento (Trade-off):**
-
-- **Nuova Complessità Temporale:** `O(N)` — Ora la lista viene scansionata in un'unica passata. La ricerca all'interno di un Set opera mediamente in tempo costante `O(1)`, garantendo un incremento prestazionale sbalorditivo.
-- **Nuova Complessità Spaziale:** `O(N)` — Per raggiungere questa velocità di esecuzione, abbiamo barattato la memoria, salvando gli elementi già esplorati nel Set `seen`. È il perfetto esempio di compromesso spazio-tempo (*Space-Time Tradeoff*).
 
 ---
 
-## 🎯 Conclusione
+## ⚡️ Riassunto in 3 punti (TL;DR)
 
-Smetti di trincerarti dietro la scusa "Il codice compila ed esegue, quindi il lavoro è finito".
-I veri fuoriclasse dell'ingegneria del software si preoccupano maniacalmente di cosa accade sotto il cofano quando il traffico scala in modo esponenziale. Inizia subito ad allenare i tuoi "muscoli algoritmici" sfruttando il feedback chirurgico del tuo nuovo mentore IA.
+1. **Analisi accurata:** Calcola chiaramente la complessità temporale (Time) e spaziale (Space) del tuo codice basandosi su Big-O.
+2. **Identificazione dei colli di bottiglia:** Rileva preventivamente i punti critici che potrebbero causare il blocco del server all'aumentare della dimensione dei dati (N).
+3. **Ottimizzazione strutturale:** Ricevi immediatamente soluzioni per migliorare il lento codice O(N^2) in un velocissimo O(N) applicando strutture dati migliori.
 
-Ora torna all'editor e polverizza ogni inefficienza prima di aprire la tua prossima Pull Request! 🍷
+---
+
+## 🚀 Come scrivono i veri professionisti
+
+Scegli tra la versione base, utile quando hai bisogno rapidamente solo del risultato principale, e la versione esperta, per una qualità dettagliata e una revisione profonda. Copia i prompt sottostanti e sostituisci le parti tra `[parentesi]` con le tue informazioni per utilizzarli immediatamente nel tuo lavoro.
+
+### 🥉 Versione Basic (Base)
+
+> **Ruolo:** Sei un `[esperto di ottimizzazione degli algoritmi]`.
+>
+> **Richiesta:** Analizza la complessità temporale/spaziale del codice qui sotto che ho scritto e miglioralo con un codice più veloce.
+>
+> `[Inserisci qui il codice da analizzare]`
+
+### 🥇 Versione Pro (Esperto)
+
+> **Ruolo (Role):** Sei un Senior Backend Engineer di una Big Tech globale e un professore di CS (Computer Science).
+>
+> **Contesto (Context):**
+>
+> - Background: Ho completato l'implementazione delle funzionalità, ma temo che possa verificarsi un TimeOut in caso di traffico elevato o nei casi limite (edge cases) dei test di codifica.
+> - Obiettivo: Voglio comprendere l'esatta complessità Big-O dell'algoritmo scritto e ottimizzare le prestazioni risolvendo completamente i colli di bottiglia.
+>
+> **Richiesta (Task):**
+>
+> 1. Analizza la **complessità temporale (Time Complexity)** e la **complessità spaziale (Space Complexity)** del codice fornito usando la notazione Big-O.
+> 2. Spiega la logica dietro il calcolo della complessità, evidenziando le linee chiave del codice (cicli, chiamate ricorsive, ecc.).
+> 3. Se esiste un algoritmo più efficiente (es: O(N^2) → O(N log N)) o una struttura dati migliore (es: List → Hash Set), fornisci il codice ottimizzato e spiega chiaramente le parti modificate.
+>
+> **Codice (Code):**
+> `[Incolla qui il codice da analizzare]`
+>
+> **Vincoli (Constraints):**
+>
+> - Esegui un'analisi conservativa basata sul caso peggiore (Worst Case).
+> - Evidenzia eventuali effetti collaterali come memory leak o stack overflow che potrebbero verificarsi quando la dimensione dei dati (N) diventa estremamente grande (es: N=1.000.000).
+> - Formatta la risposta in modo leggibile usando il Markdown.
+>
+> **Avvertenza (Warning):**
+>
+> - Non ignorare mai la complessità temporale nascosta nelle librerie integrate (Built-in functions) e includila nel calcolo.
+
+---
+
+## 💡 Commento dell'autore (Insight & Come usare)
+
+Questo prompt è il "cheat code" professionale a cui mi affido di più quando preparo test di codifica o quando devo gestire in modo stabile grandi volumi di traffico e dati nel mondo reale. È un potente partner per le code review. Se chiediamo semplicemente all'AI "Qual è la complessità temporale di questo codice?", l'AI di solito risponde in modo superficiale o si limita a lanciare una singola notazione Big-O.
+
+Tuttavia, nel momento in cui imponi vincoli specifici e acuti come **"Recensisci dal punto di vista di un Senior Engineer"** o **"Trova gli effetti collaterali quando N è 1.000.000"**, l'atteggiamento dell'AI e la densità della risposta cambiano radicalmente. L'AI scansiona il codice dall'alto verso il basso, individuando cicli annidati, inefficienze nelle ramificazioni condizionali e persino i costi nascosti delle funzioni integrate come l'operatore `in` di Python o `pop(0)` delle liste, che spesso tendiamo a trascurare.
+
+**Costruzione di strategie di trade-off tra tempo e spazio**
+La cosa più importante nella pratica non è trovare l'unica risposta corretta, ma trovare il **punto di compromesso ottimale** per la situazione specifica. Il momento in cui questo prompt brilla di più è quando evidenzia proprio questo punto. Invece di limitarsi a un generico "correggilo velocemente", a seconda di come controlli i vincoli in determinati intervalli di variabili, l'AI potrebbe suggerire tecniche come HashMap o Memoization che aumentano drasticamente la velocità di calcolo sacrificando un po' di memoria. Al contrario, in ambienti con memoria limitata, potrebbe suggerire pattern algoritmici come Two Pointers o Sliding Window che contengono la complessità spaziale a O(1) scendendo a un piccolo compromesso sulla velocità di esecuzione, aiutandoti così ad avere diverse opzioni.
+
+**Ripasso pratico delle conoscenze CS e miglioramento della metacognizione**
+Non limitarti a copiare e usare il codice risultante. Leggendo attentamente le basi logiche e i metodi di controllo delle variabili spiegati dall'AI, capirai chiaramente come le conoscenze apprese nei corsi universitari di CS (Computer Science) o nei libri di teoria degli algoritmi si integrano nel codice reale. Momenti di intuizione come "Ah, ecco perché qui devo assolutamente usare un Set" o "Per evitare cicli annidati è meglio ordinare (Sorting) i dati in anticipo" si accumulano, permettendoti di progettare strutture che evitino i colli di bottiglia quando scriverai il tuo prossimo codice.
+
+Attraverso questo processo di analisi, capirai la differenza tra lo "short-coding" (ridurre semplicemente il numero di righe) e la vera ottimizzazione delle prestazioni. Imparerai che a volte è necessario accettare sacrifici in termini di complessità del codice per il bene delle performance. Poiché nel codice professionale anche la leggibilità e la manutenibilità sono valori fondamentali, attraverso questo prompt potrai persino intravedere la conoscenza tacita di uno sviluppatore senior nel bilanciare miglioramento delle prestazioni e leggibilità.
+
+Se non riesci a superare i test di efficienza sulle piattaforme di coding test, o se ti è stata affidata la missione di migliorare drasticamente le prestazioni di un codice legacy al lavoro, inserisci subito il tuo codice tra le parentesi di questo prompt. Il feedback incredibilmente meticoloso e profondo porterà istantaneamente le tue competenze professionali a un livello superiore.
+
+---
+
+## 🙋 Domande Frequenti (FAQ)
+
+- **Q: Cosa faccio se il codice è troppo lungo?**
+  - R: Invece di inserire l'intero progetto tutto in una volta, prova a isolare e chiedere solo della logica principale (funzioni specifiche o blocchi di cicli) dove sospetti ci sia un collo di bottiglia. L'accuratezza dell'analisi sarà molto più alta.
+
+- **Q: L'AI può sbagliare l'analisi della complessità temporale?**
+  - R: Sì, l'AI a volte può trascurare la profondità di funzioni ricorsive complesse o i costi operativi nascosti delle librerie interne. Ti consigliamo di usare l'analisi dell'AI come un eccellente strumento di supporto per la code review e di effettuare sempre un secondo controllo personale.
+
+- **Q: Funziona bene anche nella versione gratuita di ChatGPT?**
+  - R: La versione gratuita esegue egregiamente le analisi di complessità di base. Tuttavia, per la programmazione dinamica (DP) complessa o algoritmi difficili, la qualità del codice di ottimizzazione e la logica suggerita dai modelli di ragionamento più recenti (GPT-4, Claude 3.5 Sonnet, ecc.) sono nettamente superiori.
+
+---
+
+## 🧬 Anatomia del prompt (Perché funziona?)
+
+1. **Assegnazione del Ruolo:** Assegnando la potente persona di un Senior Engineer di una Big Tech globale, abbiamo indotto l'AI a recensire in modo rigoroso dal punto di vista del "codice efficiente e sicuro per i casi limite" piuttosto che del semplice "codice funzionante".
+2. **Suddivisione del Task:** Dividendo il calcolo della complessità, la spiegazione riga per riga e la presentazione del codice ottimizzato in fasi chiare (Chain of Thought), abbiamo forzato una risposta logica e impeccabile.
+3. **Vincoli (Constraints):** Dichiarando esplicitamente il caso peggiore (Worst Case) e dimensioni estreme dei dati (N=1.000.000), abbiamo eretto una barriera difensiva per controllare minuziosamente anche i potenziali rischi che potrebbero esplodere in un ambiente reale.
+
+---
+
+## 🎯 Conclusione (Epilogo)
+
+È ora di abbandonare il pensiero pigro del "funziona senza errori, quindi va bene"! Il vero esperto è lo sviluppatore che controlla perfettamente ogni millisecondo di prestazioni e ogni byte di memoria invisibile.
+
+Attraverso il prompt Analizzatore di Complessità Algoritmica presentato sopra, diagnostica preventivamente i colli di bottiglia del tuo codice e ottieni un'ottimizzazione strutturale drastica. Potrai allenare solidamente i tuoi muscoli algoritmici grazie ai feedback acuti e impeccabili del "professore AI".
+
+Ti auguro di automatizzare il tuo lavoro con un codice dalle prestazioni straordinarie e di finire la giornata lavorativa in bellezza! 🍷

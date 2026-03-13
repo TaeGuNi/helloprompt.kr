@@ -4,9 +4,9 @@ title: " \"내 말투를 그대로 따라하는 AI '디지털 트윈' 만들기\
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "퍼스널 브랜딩"
+category: "General"
 description: "So erstellen Sie einen KI-Klon, der exakt in Ihrem Stil textet. Hier ist der ultimative Prompt zur Stil-Analyse für authentische Blogposts und Kommentare."
-tags: ["페르소나", "글쓰기", "디지털트윈", "CustomGPT"]
+tags: ["Persona", "Writing", "디지털트윈", "CustomGPT"]
 ---
 
 ## 📝 Eine KI erschaffen, die mehr nach dir klingt als du selbst (Tone & Manner Klonen)

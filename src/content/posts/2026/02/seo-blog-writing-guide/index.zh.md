@@ -4,9 +4,9 @@ title: " \"SEO(검색엔진최적화): 구글 1페이지 먹는 글쓰기 공식
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "비즈니스/마케팅"
+category: "General"
 description: "仅仅优化核心关键词的布局，就能让自然流量暴增 10 倍以上。本文将揭秘如何利用 AI，设计出深受 Google 青睐、SEO 满分的完美文章结构。"
-tags: ["SEO", "블로그", "구글상위노출", "티스토리", "마케팅"]
+tags: ["SEO", "Blog", "구글상위노출", "티스토리", "Marketing"]
 ---
 
 ## 🔍 SEO(搜索引擎优化)：霸榜 Google 首页的写作公式

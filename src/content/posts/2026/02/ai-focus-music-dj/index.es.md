@@ -4,9 +4,9 @@ title: " \"아침 몰입도 200%! AI 집중력 DJ\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "생산성"
+category: "General"
 description: "Generador de listas de reproducción que estimulan las ondas cerebrales y maximizan tu concentración al instante."
-tags: ["집중력", "음악", "생산성", "몰입"]
+tags: ["집중력", "음악", "Productivity", "몰입"]
 ---
 
 ## 📝 ¡200% de Inmersión Matutina! Tu DJ de IA para Máxima Concentración

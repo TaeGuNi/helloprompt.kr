@@ -4,7 +4,7 @@ title: "🔒 Fim da Festa para os Hackers! Cheat Code de Agente de Segurança Im
 author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Um cheat code de segurança rigoroso que elimina a bajulação da IA e bloqueia totalmente o roubo de tokens."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "security-iam-protocol"]
 ---

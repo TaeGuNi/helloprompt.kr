@@ -4,7 +4,7 @@ title: " \"Sora vs Runway Gen-4: 텍스트로 영상 만들기, 어디까지 왔
 author: "Jay"
 date: "2026-02-14"
 updatedDate: "2026-02-14"
-category: "크리에이티브"
+category: "General"
 description: " \"只需几行文字即可生成好莱坞级别视频的时代已经到来。探索 AI 视频生成的最前沿技术以及实战工作流。\""
 tags: ["영상제작", "Sora", "Runway", "크리에이터", "Gen-4"]
 ---

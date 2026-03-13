@@ -4,7 +4,7 @@ title: "🚨 [ABSOLUTER GEHORSAM] E2E-Test Rendering-Cheatcode, der 90% des AI-U
 author: "Antigravity"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Schluss mit Token-Verschwendung und KI-Halluzinationen beim E2E-Testing. Dieser Ref-basierte Cheatcode extrahiert nur relevante DOM-Knoten für Ihren Agent."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "playwright-ref-protocol"]
 ---

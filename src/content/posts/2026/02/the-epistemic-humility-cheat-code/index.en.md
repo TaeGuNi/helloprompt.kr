@@ -4,7 +4,7 @@ title: "💀 Break the AI's Arrogance: The Hardcore Cheat Code to Force Epistemi
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "A senior engineer's prompt constitution that grabs hallucination-riddled AI by the collar and forces it to voluntarily confess its code flaws."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "epistemic-humility"]
 ---

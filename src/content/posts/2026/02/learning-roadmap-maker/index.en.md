@@ -4,7 +4,7 @@ title: " \"작심삼일 없는 3일/3주 초단기 학습 로드맵 생성기\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "학습"
+category: "General"
 description: "A tailored curriculum design prompt for those who want to learn anything rapidly without giving up."
 tags: ["Learning", "Roadmap", "Education", "SelfImprovement"]
 ---

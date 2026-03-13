@@ -4,9 +4,9 @@ title: " \"초고속 독서 소화제 (Smart Reading)\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "학습/연구"
+category: "General"
 description: " \"Wie Sie komplexe Fachliteratur, Papers und Tech-Blogs dreimal schneller lesen und perfekt verinnerlichen.\""
-tags: ["독서", "요약", "학습", "지식관리"]
+tags: ["Reading", "요약", "Learning", "지식관리"]
 ---
 
 ## 📝 Smart Reading: Der Turbo-Verdauungssaft für komplexe Texte {#smart-reading}

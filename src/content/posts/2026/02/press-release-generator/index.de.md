@@ -4,9 +4,9 @@ title: " \"보도자료(PR) 작성: 기자들이 좋아하는 '스트레이트 �
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "비즈니스/마케팅"
+category: "General"
 description: "Schreiben Sie Pressemitteilungen, die Journalisten lieben. Entdecken Sie den KI-Prompt für objektive News, die direkt und ohne Änderungen publiziert werden."
-tags: ["보도자료", "PR", "홍보", "ChatGPT", "글쓰기"]
+tags: ["보도자료", "PR", "홍보", "ChatGPT", "Writing"]
 ---
 
 ## 📰 Pressemitteilungen (PR) schreiben: "Straight News", die Journalisten lieben, in Sekunden erstellen

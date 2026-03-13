@@ -4,7 +4,7 @@ title: "🔥 1-Minute PPT Outline: AI Prompts to Guarantee an Early Clock-Out"
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Stop staring blankly at empty slides. Use these battle-tested AI prompts to generate a razor-sharp PPT outline and core scripts in seconds."
 tags: ["prompt-engineering", "ai-agent", "powerpoint"]
 image: "/images/hooks/powerpoint-outline-prompt.jpg"

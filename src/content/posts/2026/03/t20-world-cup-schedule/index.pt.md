@@ -4,7 +4,7 @@ title: "🏏 Calendário da Copa do Mundo T20: Prompt para Resolver Cálculos Co
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Prompt essencial para profissionais de marketing e desenvolvedores converterem fusos da Copa do Mundo T20 para KST e automatizar campanhas globais."
 tags: ["prompt-engineering", "ai-agent", "t20-world-cup-s"]
 ---

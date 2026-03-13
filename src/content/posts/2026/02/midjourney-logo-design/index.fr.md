@@ -4,9 +4,9 @@ title: " \"Création de Logo avec Midjourney : Obtenez un logo à 1000 € en 10
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "AI 아트/디자인"
+category: "General"
 description: "Logos de startups, icônes d'apps ou profils YouTube... Générez des maquettes ultra-pro avec Midjourney avant même de consulter un designer."
-tags: ["Midjourney", "로고", "디자인", "브랜딩", "AI그림"]
+tags: ["Midjourney", "로고", "Design", "브랜딩", "AI그림"]
 ---
 
 ## 🎨 Création de Logo avec Midjourney : Obtenez un logo à 1000 € en 10 secondes

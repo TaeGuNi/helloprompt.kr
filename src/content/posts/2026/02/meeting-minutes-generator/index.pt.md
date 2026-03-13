@@ -4,9 +4,9 @@ title: " \"AI로 두서없는 회의록, 깔끔한 요약본으로 변신\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "'Quem disse o quê?' Pare de sofrer com anotações caóticas. Deixe a IA organizar atas de reunião e planos de ação perfeitos para você."
-tags: ["회의록", "요약", "ChatGPT", "Notion", "생산성"]
+tags: ["회의록", "요약", "ChatGPT", "Notion", "Productivity"]
 ---
 
 ## 📝 Transforme Reuniões Caóticas em Atas Perfeitas com IA

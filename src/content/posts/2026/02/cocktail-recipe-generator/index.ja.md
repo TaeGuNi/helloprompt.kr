@@ -4,9 +4,9 @@ title: " \"칵테일 레시피: 냉장고 술 털어서 바텐더 되기\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "라이프/취미"
+category: "General"
 description: " \"余った焼酎、ビール、ウイスキー…そのまま飲むのはもったいない！家にある材料だけで作るAIホームテンディング(Home-tending)レシピ。\""
-tags: ["칵테일", "홈텐딩", "술", "레시피", "ChatGPT"]
+tags: ["칵테일", "홈텐딩", "술", "Recipe", "ChatGPT"]
 ---
 
 ## 🍸 カクテルレシピ：冷蔵庫の余り酒でバーテンダーになる方法

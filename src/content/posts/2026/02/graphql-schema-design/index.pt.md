@@ -4,9 +4,9 @@ title: " \"GraphQL 스키마 설계: REST API에서 넘어오기\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "백엔드/DB"
+category: "General"
 description: "Uma API limpa e sem over-fetching. Padrões de design de schema GraphQL que farão o seu frontend incrivelmente mais rápido e feliz."
-tags: ["GraphQL", "API", "백엔드", "스키마", "Apollo"]
+tags: ["GraphQL", "API", "Backend", "스키마", "Apollo"]
 ---
 
 ## 🕸️ Design de Schema GraphQL: Migrando da API REST

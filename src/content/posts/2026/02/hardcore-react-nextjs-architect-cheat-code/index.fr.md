@@ -4,7 +4,7 @@ title: "🚨 Ta gueule et code : Le Cheat Code de l'Architecte React & Next.js I
 author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
-category: "AI 개발"
+category: "General"
 description: "Le cheat code ultime d'un développeur front-end senior pour éradiquer à la source les hallucinations et le code spaghetti générés par l'IA."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "react-next-architecture"]
 ---

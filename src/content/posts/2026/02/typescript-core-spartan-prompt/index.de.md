@@ -4,7 +4,7 @@ title: "💀 Der Sparta-Coding-Cheatcode, der der KI die Seele raubt (TypeScript
 author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Ein Hardcore-Prompt, der KI-Geschleime und Halluzinationen zerschmettert und unbarmherzige Typsicherheit sowie extreme Effizienz in Ihrem Code erzwingt."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "typescript-core"]
 ---

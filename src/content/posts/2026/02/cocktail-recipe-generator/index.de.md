@@ -4,9 +4,9 @@ title: " \"칵테일 레시피: 냉장고 술 털어서 바텐더 되기\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "라이프/취미"
+category: "General"
 description: "Soju, Bier oder Whiskey-Reste im Kühlschrank? Trinken Sie sie nicht einfach pur. Kreieren Sie mit KI brillante Home-Cocktails aus Ihren Zutaten."
-tags: ["칵테일", "홈텐딩", "술", "레시피", "ChatGPT"]
+tags: ["칵테일", "홈텐딩", "술", "Recipe", "ChatGPT"]
 ---
 
 ## 🍸 Cocktail-Rezepte: Werden Sie mit Resten aus dem Kühlschrank zum Meister-Barkeeper

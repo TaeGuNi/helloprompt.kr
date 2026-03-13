@@ -4,7 +4,7 @@ title: " \"AI 퍼스널 컬러 진단: 사진 한 장으로 웜톤/쿨톤 찾기
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "라이프/뷰티"
+category: "General"
 description: "Descubre tu colorimetría gratis y sin salir de casa. Un prompt de IA que analiza si tu tono es cálido o frío y revela tus colores ideales con una foto."
 tags: ["퍼스널컬러", "웜톤", "쿨톤", "패션", "ChatGPT"]
 ---

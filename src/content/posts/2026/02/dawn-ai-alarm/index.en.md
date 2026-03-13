@@ -4,7 +4,7 @@ title: " \"미라클 모닝 성공률 200% 만드는 AI 알람 대본\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "자기계발"
+category: "General"
 description: "Struggling to wake up? Generate a personalized AI alarm script based on your goals to skyrocket your Miracle Morning success rate."
 tags: ["미라클모닝", "동기부여", "알람"]
 ---

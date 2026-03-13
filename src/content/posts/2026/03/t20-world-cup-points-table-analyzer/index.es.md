@@ -4,7 +4,7 @@ title: "🏏 Prompt de IA para analizar la tabla de posiciones de la Copa Mundia
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Olvídate de descifrar complejas tablas del Mundial T20. Copia, pega y deja que la IA genere un análisis profundo y listo para publicar en un segundo."
 tags: ['prompt-engineering', 'ai-agent', 't20-world-cup-p']
 ---

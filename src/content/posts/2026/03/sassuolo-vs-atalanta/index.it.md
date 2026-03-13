@@ -4,7 +4,7 @@ title: "⚽ Sassuolo vs Atalanta: Il prompt definitivo dall'analisi della formaz
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "La guida perfetta per analizzare enormi moli di dati sportivi con l'IA in un solo minuto, trasformandoli istantaneamente in report pronti all'uso."
 tags: ["prompt-engineering", "ai-agent", "sassuolo-vs-ata"]
 ---

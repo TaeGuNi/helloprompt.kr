@@ -4,7 +4,7 @@ title: "🔥 Tais-toi et code : Le Cheat Code GitOps Autonome pour Agent IA"
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Le cheat code d'un ingénieur senior pour anéantir l'ego de l'IA et forcer l'exécution 100% autonome d'un redoutable pipeline GitOps en 4 étapes."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "github-cli"]
 ---

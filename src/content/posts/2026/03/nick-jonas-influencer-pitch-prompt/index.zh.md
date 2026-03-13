@@ -4,7 +4,7 @@ title: "💌 连尼克·乔纳斯 (Nick Jonas) 也会接受的明星邀约冷邮
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "마케팅 자동화"
+category: "General"
 description: "告别零回复的陈词滥调！为您揭秘能瞬间俘获全球顶流巨星的完美冷邮件撰写提示词。"
 tags: ["prompt-engineering", "ai-agent", "nick-jonas"]
 image: "/images/hooks/nick-jonas-influencer-pitch-prompt.jpg"

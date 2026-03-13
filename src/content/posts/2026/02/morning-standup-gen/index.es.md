@@ -1,153 +1,163 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"1분 만에 끝내는 어제 업무 요약 & 스탠드업 준비\""
+title: "Resumen de tareas de ayer y preparación para el Stand-up en 1 minuto"
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "업무 효율화"
-description: "¿Olvidaste qué programaste ayer? Convierte tus logs de Git en un guion claro y estratégico para tu daily stand-up en segundos. Destaca en tus reuniones."
-tags: ["스탠드업", "회의준비", "개발자", "회고"]
+category: "Productividad"
+description: "La solución perfecta para quienes olvidan qué hicieron ayer. Convierte logs de commits o notas en un informe profesional de Daily Scrum en solo 1 minuto."
+tags: ["Stand-up", "Preparación de reuniones", "Desarrollador", "Retrospectiva"]
 ---
 
-## 📝 Prepara tu Daily Stand-up en 1 minuto con tus logs de Git
+## 📝 Resumen de tareas de ayer y preparación para el Stand-up en 1 minuto
 
-- **🎯 Público objetivo:** Desarrolladores, *Product Managers*, profesionales junior (1-3 años)
-- **⏱️ Tiempo estimado:** 15 minutos → reducido a 1 minuto
-- **🤖 Modelo recomendado:** ChatGPT (GPT-4o), Claude 3.5 Sonnet, Gemini 2.5 Pro
+- **🎯 Recomendado para:** Desarrolladores junior, PMs y planificadores que temen la reunión de Stand-up (Daily Scrum) cada mañana.
+- **⏱️ Tiempo requerido:** Reducción de 10 minutos a 30 segundos.
+- **🤖 Rendimiento óptimo:** Se recomiendan modelos de razonamiento actualizados (ChatGPT, Claude, Gemini, etc.).
 
 - ⭐ **Dificultad:** ⭐☆☆☆☆
-- ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
+- ⚡️ **Eficacia:** ⭐⭐⭐⭐☆
 - 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"¿Te quedas en blanco cuando te preguntan 'qué hiciste ayer' en la daily y terminas balbuceando mientras revisas desesperadamente tu historial de GitHub?"_
+> _"Eh... ayer yo... este... arreglé algunos errores menores..." Es hora de dejar de dar informes confusos que dañan tu profesionalismo cada mañana._
 
-A todos nos ha pasado. Faltan cinco minutos para la *Daily Stand-up* y, de repente, tu mente decide borrar por completo las ocho horas de código intensivo que escribiste el día anterior. Entras en pánico y empiezas a rebuscar desesperadamente entre tus *commits* de Git, los *tickets* de Jira y los mensajes de Slack, intentando armar un reporte que suene mínimamente coherente. En lugar de improvisar frente a todo tu equipo, este *prompt* te permitirá transformar ese caos de *logs* crudos y notas desordenadas en un guion profesional, estratégico y directo al grano, en tan solo unos segundos.
+9:50 AM. Faltan solo 10 minutos para la reunión de Stand-up (Daily Scrum). Las notificaciones de mensajería comienzan a sonar y tu ritmo cardíaco se acelera. Abres frenéticamente el log de commits de GitHub, revisas el tablero de Jira e intentas recordar desesperadamente qué hiciste ayer. "Sé que estuve programando todo el día, pero al intentar decirlo, parece que no hice nada". Esa sensación de vacío frente al cursor parpadeante en una nota en blanco es un **tormento matutino** que casi cualquier profesional ha experimentado.
 
----
+El problema real es que tu **esfuerzo y logros reales no se comunican correctamente**. En el momento en que balbuceas en la reunión: "Eh... ayer arreglé unos bugs y hoy planeo seguir con la integración de la API", tus colegas y líderes registran inconscientemente que 'esa persona no hizo mucho ayer'. Seguramente te esforzaste hasta tarde buscando la causa de una fuga de memoria o sudaste tinta desenredando código heredado, pero si no puedes empaquetarlo en lenguaje de negocios, ese **esfuerzo técnico se evapora en el aire**. Decirle a un PM que no sabe nada de desarrollo que "el índice de la DB funcionó" es un grito al vacío. Estos informes torpes que se repiten cada mañana no son solo una vergüenza pasajera; a largo plazo, tienen un <span style="color:var(--color-cyber-cyan)">impacto negativo crítico en tus evaluaciones de desempeño y negociaciones salariales</span>. Estás disminuyendo tu propio valor simplemente por no saber cómo expresarlo.
 
-## ⚡️ Resumen en 3 puntos (TL;DR)
+Es hora de terminar con esta rutina matutina estresante para siempre. 30 segundos son suficientes. Copia tus logs de commits fragmentados, números de tickets de Jira o esas notas rápidas que escribiste sin orden. Luego, simplemente arrójalos en el prompt del **'Generador de Informes de Stand-up'** que presentamos hoy. La IA analizará tu lenguaje sin procesar en un instante y lo traducirá perfectamente en un **'informe centrado en resultados que resalta el valor de negocio'** que todos en el equipo entenderán intuitivamente. Siguiendo el formato estándar global de Daily Scrum: "Lo que hice ayer", "Lo que haré hoy" y "Bloqueos (Blockers)", tendrás frente a ti un guion de presentación limpio y profesional.
 
-1. **Automatiza tu progreso diario:** Deja que la IA organice el caos de tus notas y olvídate de redactar reportes a mano.
-2. **Extrae el valor real de tus *commits*:** Estructura fácilmente el qué, el porqué y los posibles bloqueos a partir de tus *logs* de Git.
-3. **Comunica con impacto:** Transmite total seguridad y profesionalismo en tus reuniones matutinas mediante un guion claro y directo al grano.
+Imagínate encendiendo el micrófono y leyendo con voz segura y calmada el guion organizado por la IA. En el momento en que digas: "Ayer identifiqué la causa raíz del error 500 en el módulo de pagos, preparando la defensa contra la tasa de fallo en los pagos de los clientes", la mirada de tus colegas a través de la pantalla cambiará. Ya no serás el junior que balbucea. Serás percibido como un **profesional de alto rendimiento** que domina sus tareas, entiende cómo contribuye a los objetivos del equipo y coordina fluidamente la comunicación con otros departamentos. En el lugar donde antes había estrés, ahora habrá confianza y tiempo para enfocarte en las tareas clave del día. Es momento de demostrar tu valor real.
 
 ---
 
-## 🚀 Solución: El "Stand-up Script Generator"
+## 📊 Prueba: Resultado impactante (Before & After)
 
-### 🥉 Versión Básica (Basic Version)
+### ❌ Before (El dolor que sufríamos)
 
-Úsala cuando tengas prisa y necesites un resumen rápido a partir de tus notas desordenadas.
+Recuerdos fragmentados, logs de commits sin orden y números de tickets de Jira sin contexto. Notas escritas apresuradamente antes de la reunión.
 
-> **Rol:** Eres un desarrollador de software profesional y muy conciso.
-> **Tarea:** Convierte la siguiente lista de tareas y *commits* de ayer en un guion claro de 3 puntos para mi reunión de *Daily Stand-up*.
-> **Datos:** `[Pega aquí tus notas sueltas o logs de Git]`
+```text
+- Entendí por qué daba error 500 en la API del módulo de pagos. (¿Parece problema de conexión de DB?)
+- Corregí el CSS de los botones que se veía mal en la página de admin.
+- Trabajando en el ticket de Jira #1024 (bug en consentimiento de términos de registro), necesito confirmación del equipo de QA.
+```
 
-### 🥇 Versión Profesional (Pro Version)
+### ✅ After (Transformación perfecta)
 
-Úsala para impresionar a tu equipo, detallando el impacto, el contexto y los próximos pasos con precisión quirúrgica.
+```text
+**[Progreso de ayer]**
+- Identifiqué que el cuello de botella en las conexiones de la base de datos era la causa raíz de los errores de servidor (500) en el módulo de pagos y completé los preparativos para la respuesta. Se espera que esto reduzca la tasa de fallos en las transacciones.
+- Corregí errores de diseño en la interfaz de la página de administración, eliminando inconvenientes operativos para el equipo de gestión.
 
-> **Rol (Role):** Eres un *Tech Lead* Senior experto en metodologías ágiles y comunicación efectiva.
+**[Plan para hoy]**
+- Tengo previsto aplicar y desplegar la solución para el problema de conexión de la DB en el módulo de pagos identificado ayer.
+- Finalizaré la corrección del error relacionado con el consentimiento de términos de registro (Ticket #1024) y solicitaré la revisión de QA.
+
+**[Bloqueos (Blockers)]**
+- Respecto a la corrección del bug de consentimiento de registro, si el equipo de QA puede verificar el entorno de prueba hoy mismo, podré realizar el despliegue dentro del cronograma previsto. Agradecería su apoyo en este punto.
+```
+
+---
+
+## ⚡️ Resumen en 3 líneas (TL;DR)
+
+1. Copia tal cual tus logs de `git log`, títulos de tickets de Jira o notas desordenadas.
+2. Pégalos en el prompt del **'Generador de Informes de Stand-up'** de abajo y ejecútalo.
+3. Obtén en 30 segundos un guion perfecto donde las tareas técnicas se convierten en valor de negocio.
+
+---
+
+## 🚀 Solución: "Generador de Informes de Stand-up"
+
+### 🥉 Versión Básica (Resumen rápido)
+
+Úsala cuando quieras organizar rápidamente notas dispersas sin configuraciones complejas.
+
+> **Rol (Role):** Eres mi `[Asistente]` personal que resume mis tareas de forma impecable.
+> 
+> **Tarea (Task):** Basándote en el contenido de trabajo que te proporciono, resúmelo en tres secciones: 'Lo que hice ayer', 'Lo que haré hoy' y 'Bloqueos (Blockers)'.
+>
+> **Contenido de trabajo:**
+> `[Pega aquí libremente tus logs de commits, notas, títulos de tickets, etc.]`
+
+### 🥇 Versión Pro (Énfasis en logros y traducción de valor)
+
+Este prompt es altamente recomendado cuando quieres ir más allá de listar tareas y deseas dejar claro a tu equipo y líderes el 'Valor (Value)' real que aportas a la organización.
+
+> **Rol (Role):** Eres un `[Desarrollador Senior y Tech Lead competente]` con excelentes habilidades de comunicación.
 >
 > **Contexto (Context):**
 >
-> - **Fondo:** Estoy a punto de entrar a mi reunión diaria de *Stand-up* (Scrum).
-> - **Objetivo:** Necesito reportar mi progreso de ayer, mi plan para hoy y cualquier impedimento, sonando seguro, técnico pero comprensible, y siempre enfocado en el valor entregado.
+> - Antecedentes: Estoy preparando la reunión de Stand-up (Daily Scrum) que realizo cada mañana con mi equipo.
+> - Objetivo: Crear un guion de presentación que comunique mis logros de forma clara y profesional basado en registros de trabajo fragmentados.
 >
 > **Tarea (Task):**
 >
-> 1. Analiza los datos de entrada (*logs* de Git, notas, *tickets*) y agrúpalos por funcionalidad o proyecto.
-> 2. Redacta un guion estructurado en tres partes: "Qué hice ayer", "Qué haré hoy" y "Bloqueos/Impedimentos".
-> 3. Utiliza un tono profesional, directo y colaborativo.
-> 4. Traduce la jerga excesivamente técnica en logros orientados al impacto comercial siempre que sea posible (ej. "Arreglé el *bug* X" -> "Resolví el problema de inicio de sesión, mejorando la retención de usuarios").
+> 1. Traduce mis tareas técnicas en **'valor de negocio'** que incluso los miembros no técnicos puedan entender intuitivamente. (Ej: "Refactorización de API de login" -> "Mejora de la velocidad de inicio de sesión y fortalecimiento de la seguridad").
+> 2. Escribe el guion siguiendo estrictamente la siguiente estructura de plantilla:
 >
-> **Datos de Entrada:**
+> **[Progreso de ayer]**
 >
-> - **Lo de ayer:** `[Pega aquí tus logs de Git, mensajes de Slack o notas]`
-> - **Lo de hoy:** `[Tus metas principales para hoy]`
-> - **Bloqueos:** `[Cualquier problema que te impida avanzar, o simplemente escribe "Ninguno"]`
+> - (Escribe máximo 3 puntos clave enfocados en logros, no solo una lista simple).
+>
+> **[Plan para hoy]**
+>
+> - (Escribe 1 o 2 objetivos específicos y alcanzables para el día).
+>
+> **[Bloqueos (Blockers)]**
+>
+> - (Si necesitas ayuda de otros departamentos o hay retrasos, menciónalo claramente. Si no, escribe "No hay bloqueos que reportar actualmente").
+>
+> **Datos de entrada (Input):**
+> `[Introduce logs de commits, lista de tickets de Jira o notas de trabajo de ayer]`
 >
 > **Restricciones (Constraints):**
 >
-> - Mantén el tiempo de lectura del guion estrictamente por debajo de 1 minuto (aprox. 120-150 palabras).
-> - Usa *bullet points* (viñetas) para facilitar la lectura rápida. No uses tablas en absoluto.
->
-> **Advertencia (Warning):**
->
-> - No inventes tareas ni logros que no existan en los datos de entrada. Si los datos son confusos, cíñete estrictamente a la información proporcionada (Evita alucinaciones a toda costa).
+> - Usa un tono profesional, cortés y seguro (ej. "He realizado", "Tengo previsto").
+> - Mantén la brevedad: cada sección no debe exceder los 20 segundos de tiempo de presentación.
+> - No inventes contenido que no exista en los datos de entrada (Evitar alucinaciones).
 
 ---
 
-## 💡 Comentario del autor (Insight)
+## 💡 Comentario del autor (Perspectiva y uso)
 
-Este *prompt* es un salvavidas absoluto, especialmente los lunes por la mañana, cuando la carga de trabajo del viernes parece haber ocurrido en otra vida. Según mi propia experiencia, el mayor error que cometemos los desarrolladores en las *dailies* es recitar una monótona "lista de la compra" con tareas puramente técnicas y carentes de contexto comercial. 
+La razón por la que este prompt es tan poderoso no es solo porque pule las oraciones, sino porque realiza una traducción avanzada de **Lenguaje Técnico (Technical Jargon) a Valor de Negocio (Business Value)**. En entornos de trabajo remoto con comunicación asíncrona o en organizaciones que requieren informes diarios escritos por Slack o Teams, este prompt se convierte en tu escudo más fuerte y tu lanza más afilada.
 
-Al utilizar la **Versión Pro**, estás obligando a la IA a centrarse exclusivamente en el **impacto**. En lugar de balbucear "Hice un *refactor* en el controlador de usuarios", terminarás exponiendo con seguridad: "Optimicé el servicio de usuarios, preparando el terreno para la nueva función de perfiles". Esto no solo te ahorra un tiempo valioso de preparación, sino que eleva drásticamente tu perfil como un desarrollador analítico y estratégico ante tus *managers* y compañeros de equipo.
+Hay un mundo de diferencia entre decir secamente "Error de login corregido" y reportar "He resuelto preventivamente un error de autenticación intermitente que ocurría al iniciar sesión, protegiendo así la tasa de retención de clientes". Lo primero es el informe de un 'Trabajador (Worker)'; lo segundo es la declaración de un 'Solucionador de Problemas (Problem Solver)' que entiende el impacto en el negocio. Esta pequeña diferencia de enfoque **cambia por completo** el estándar con el que tus líderes y colegas evalúan tu desempeño. Al final, este prompt se convierte en tu <b>'arma secreta para negociaciones salariales'</b>, empaquetando elegantemente tu sudor técnico invisible en un lenguaje de negocios que todos aplauden.
 
-Además, aquí tienes un **truco *ninja*** invaluable: puedes ejecutar el comando `git log --author="Tu Nombre" --since="yesterday" --pretty=format:"%s"` directamente en tu terminal y pegar el resultado exacto en la variable de entrada del *prompt*. ¡Es magia pura en cuestión de segundos!
+Además, este prompt es altamente personalizable según tu situación y cultura organizacional mediante el **Control de Restricciones (Constraint Control)**. Si tu empresa tiene una cultura horizontal y casual, cambia las restricciones a algo como `Usa un tono amable y conversacional`. Por el contrario, si trabajas en una gran corporación conservadora o en el sector financiero, puedes ajustar las variables a `Escribe en un tono de informe ejecutivo extremadamente formal y estructurado`.
+
+Presta especial atención a la sección de 'Bloqueos (Blockers)'. Muchos juniors evitan mencionarlos porque piensan que es admitir que 'están atascados porque no saben algo'. Pero el reporte de un profesional es diferente. Este prompt transforma tus retrasos en una **solicitud de colaboración proactiva**, especificando qué recursos de qué departamento necesitas y para cuándo. Cambia la queja de "No puedo avanzar porque el diseño no está listo" por la coordinación profesional de "Si recibo el boceto del banner principal hoy a las 3 PM, podré cumplir con el despliegue de mañana por la mañana".
+
+Si el resultado generado por la IA te parece un poco exagerado o artificial para tu personalidad, mantén la estructura general y ajusta solo el 'Tono y Estilo' a tu propia voz. Si inviertes solo 1 minuto cada mañana en aplicar este prompt, sentirás en poco tiempo cómo la confianza y la percepción del equipo hacia ti aumentan drásticamente.
 
 ---
 
-## 🙋 Preguntas Frecuentes (FAQ)
+## 🙋 Preguntas frecuentes (FAQ)
 
-- **P: ¿Este *prompt* funciona bien con modelos de IA gratuitos?**
-  - R: ¡Totalmente! La versión gratuita de ChatGPT (GPT-4o mini) o Claude 3 Haiku manejan esta tarea sin despeinarse. El formato estricto de la **Versión Pro** está diseñado específicamente para evitar que cualquier modelo, incluso los menos avanzados, se desvíe del tema central y comience a alucinar.
+- **P: ¿Pueden usarlo perfiles no técnicos como expertos en marketing o diseñadores?**
+  - R: ¡Por supuesto! Solo cambia la parte de **Rol (Role)** en la `Versión Pro` a `[Marketer de Performance]` o `[Diseñador UX/UI]` e introduce tus métricas de datos o avances de diseño. Obtendrás un informe optimizado perfectamente para esa profesión.
 
-- **P: ¿Esto sirve únicamente para programadores?**
-  - R: En absoluto. Si eres diseñador, analista de datos o especialista en *marketing*, simplemente modifica el parámetro de **Rol** en el *prompt* (por ejemplo: "Eres un *Product Designer* Senior") y pega tus actualizaciones de Figma, Asana o Jira. El resultado será igual de brillante y estará 100 % adaptado a tu contexto profesional.
+- **P: ¿Si pongo solo el link de Jira o Notion, lo resume automáticamente?**
+  - R: Lamentablemente, debido a problemas de seguridad y permisos, la IA no puede rastrear directamente enlaces privados internos. Aunque sea un poco molesto, debes copiar el título y la descripción clave del ticket y pegarlos directamente en el prompt para que funcione a la perfección.
 
-- **P: ¿Qué pasa si mis *logs* están en inglés pero mi equipo realiza la *daily* en español?**
-  - R: Puedes añadir una instrucción muy sencilla en la sección de **Restricciones**: "- Traduce todas las tareas y el guion final al español de manera fluida y natural". La IA superará esta barrera del idioma a la perfección y te entregará un guion listo para leer directamente en tu reunión.
+- **P: Mi equipo es global y el Stand-up es en inglés, ¿qué hago?**
+  - R: Solo añade una línea en las **Restricciones (Constraints)**: `- Escribe la salida en inglés de negocios (Business English)`. Obtendrás instantáneamente un guion en inglés natural y perfecto de nivel nativo.
 
 ---
 
 ## 🧬 Anatomía del Prompt (¿Por qué funciona?)
 
-1. **Estructura Scrum Nativa:** Obliga a la IA a respetar el formato estándar de la industria ágil (Qué hice ayer / Qué haré hoy / Bloqueos), garantizando que el resultado sea aplicable de inmediato a tu rutina sin requerir ediciones manuales.
-2. **Traducción de Impacto:** La instrucción de convertir la "jerga técnica" en "valor entregado" es el núcleo absoluto de este *prompt*. Ayuda drásticamente a que los roles no técnicos (como *Product Owners* o *Scrum Masters*) comprendan la importancia y el peso real de tu trabajo diario.
-3. **Límite de Tiempo (Restricciones):** Al limitar explícitamente la longitud del texto a menos de 1 minuto de lectura, logras evitar el mayor pecado capital de las *dailies*: monopolizar el tiempo de todos hablando de detalles técnicos irrelevantes.
-
----
-
-## 📊 Demostración: Antes y Después
-
-### ❌ Antes (Entrada del usuario - Cruda)
-
-```text
-Ayer:
-- git commit: fix typo in header
-- git commit: update user auth middleware
-- git commit: resolve merge conflict in package.json
-- tuve una reunion con diseño sobre los nuevos botones
-Hoy:
-- terminar la integracion de la API de pagos
-Bloqueos:
-- DevOps todavia no me da los accesos a staging
-```
-
-### ✅ Después (Resultado de la IA)
-
-```text
-¡Hola equipo! Buen día a todos. Aquí mi reporte:
-
-**Lo que hice ayer:**
-- Finalicé la actualización del middleware de autenticación, mejorando directamente la seguridad del inicio de sesión.
-- Resolví algunos conflictos de configuración internos y corregí detalles menores en la interfaz del encabezado.
-- Me coordiné con el equipo de Diseño para alinear la implementación de los nuevos botones interactivos.
-
-**Lo que haré hoy:**
-- Mi enfoque principal será completar la integración de la API de pagos para el nuevo flujo de *checkout*.
-
-**Bloqueos:**
-- Sí, tengo un impedimento. Aún necesito los accesos al entorno de *staging* por parte de DevOps para poder probar la API de pagos. ¿Alguien me puede ayudar a agilizar esto con ellos?
-
-Eso es todo de mi parte. ¡Gracias!
-```
+1. **Instrucción de Traducción de Valor (Value Translation):** Más allá de un simple resumen, le dimos una directiva clara: "Traduce términos técnicos en valor de negocio". Esta frase eleva drásticamente la calidad de la salida al nivel de un experto.
+2. **Estructura de Salida Obligatoria (Template):** Al forzar el formato estándar global 'Ayer/Hoy/Bloqueos' mediante una plantilla Markdown, evitamos que la IA añada información innecesaria o responda en formatos extraños (evitando alucinaciones).
 
 ---
 
 ## 🎯 Conclusión
 
-Tu tiempo es demasiado valioso como para malgastarlo intentando recordar a la desesperada qué código escribiste el día anterior. Con este *prompt*, no solo automatizas una preparación tediosa, sino que te presentas a la reunión con total confianza y logras destacar como un comunicador altamente eficiente y estructurado dentro de tu equipo.
+La esencia de una reunión de Stand-up no es recitar mecánicamente "ayer trabajé duro en esto". Se trata de compartir de forma rápida y transparente "dónde estamos ahora hacia nuestro objetivo común y qué obstáculos están frenando nuestra velocidad".
 
-¡Ahora, ve y domina ese *stand-up*! ☕
+No sigas estresándote cada mañana confiando en tu memoria o culpando a tu falta de elocuencia. Deja la tediosa tarea de organizar registros y empaquetar logros a la IA. Y usa el tiempo restante para disfrutar de un café matutino y concentrarte plenamente en las tareas más importantes de tu día.
+
+¡Automatiza tu trabajo y disfruta de tu tiempo libre! 🍷

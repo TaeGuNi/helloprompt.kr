@@ -4,7 +4,7 @@ title: " \"미라클 모닝 성공률 200% 만드는 AI 알람 대본\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "자기계발"
+category: "General"
 description: "每天早上起床都像是一场折磨？基于你的日程安排与核心目标，AI 为你量身定制直击痛点、让你瞬间清醒的专属硬核唤醒脚本。"
 tags: ["미라클모닝", "동기부여", "알람"]
 ---

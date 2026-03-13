@@ -4,9 +4,9 @@ title: " \"Python 자동화 스크립트: 귀찮은 엑셀 취합, 1초 컷\""
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "A complete prompt guide to automating repetitive Excel copy-pasting and file consolidation tasks in just 1 second with 10 lines of Python code."
-tags: ["파이썬", "엑셀", "자동화", "Pandas", "업무효율"]
+tags: ["파이썬", "Excel", "Automation", "Pandas", "Productivity"]
 ---
 
 ## 🐍 Python Automation Script: Consolidate Dozens of Annoying Excel Files in 1 Second

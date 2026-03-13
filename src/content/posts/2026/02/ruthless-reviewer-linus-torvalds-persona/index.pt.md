@@ -4,7 +4,7 @@ title: "Persona Extrema de Revisor de Código de IA para Destruir seu Código (M
 author: "Jay"
 date: "2026-02-25"
 updatedDate: "2026-02-25"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Um prompt espartano de revisão de código que elimina elogios da IA, focando implacavelmente na complexidade de tempo e em edge cases."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ruthless-reviewer"]
 ---

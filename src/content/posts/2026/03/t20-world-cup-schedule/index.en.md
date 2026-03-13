@@ -4,7 +4,7 @@ title: "🏏 Prompt to Instantly Calculate Complex T20 World Cup Time Zones"
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "A flawless prompt for global sports marketers to instantly automate T20 World Cup KST time zone conversions and seamlessly plan marketing schedules."
 tags: ["prompt-engineering", "ai-agent", "t20-world-cup-s"]
 ---

@@ -4,7 +4,7 @@ title: " \"패션 코디 추천: '내일 소개팅인데 뭐 입지?'\""
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "라이프/스타일"
+category: "General"
 description: "Plein de vêtements mais rien à vous mettre ? Obtenez la tenue parfaite selon l'heure, le lieu et la météo grâce à votre styliste personnel IA."
 tags: ["패션", "코디", "OOTD", "소개팅", "ChatGPT"]
 ---

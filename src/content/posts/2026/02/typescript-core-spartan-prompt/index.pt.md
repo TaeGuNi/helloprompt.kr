@@ -4,7 +4,7 @@ title: "💀 Cheat Code Espartano de Codificação que Consome a Alma da IA (Typ
 author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Um prompt hardcore que destrói a bajulação e as alucinações da IA, forçando uma segurança de tipos implacável e extrema eficiência."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "typescript-core"]
 ---

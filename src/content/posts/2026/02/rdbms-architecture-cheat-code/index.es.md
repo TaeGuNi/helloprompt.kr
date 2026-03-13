@@ -4,7 +4,7 @@ title: "🔥 La Constitución Absoluta de Arquitectura RDBMS para Destruir las T
 author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "AI 프롬프트"
+category: "General"
 description: "Reglas implacables de un ingeniero backend senior para evitar que la IA genere esquemas de base de datos espagueti."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "rdbms-architecture"]
 ---

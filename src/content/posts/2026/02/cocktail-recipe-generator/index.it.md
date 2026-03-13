@@ -4,9 +4,9 @@ title: " \"칵테일 레시피: 냉장고 술 털어서 바텐더 되기\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "라이프/취미"
+category: "General"
 description: "Non sprecare gli alcolici avanzati. Trasforma la tua cucina in un bar con le ricette di home-tending su misura create dall'Intelligenza Artificiale."
-tags: ["칵테일", "홈텐딩", "술", "레시피", "ChatGPT"]
+tags: ["칵테일", "홈텐딩", "술", "Recipe", "ChatGPT"]
 ---
 
 ## 🍸 Ricette per Cocktail: Diventa un Bartender Svuotando il Frigo

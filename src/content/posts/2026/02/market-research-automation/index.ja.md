@@ -4,9 +4,9 @@ title: " \"경쟁사 리뷰 10분 만에 분석하기 (AI Market Research)\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "마케팅"
+category: "Marketing"
 description: "数千件のレビューを読まずに顧客の不満とニーズを把握する方法"
-tags: ["마케팅", "시장조사", "ChatGPT", "데이터분석"]
+tags: ["Marketing", "시장조사", "ChatGPT", "Data Analysis"]
 ---
 
 ## 📝 競合レビュー、まだ全部手作業で読んでいますか？

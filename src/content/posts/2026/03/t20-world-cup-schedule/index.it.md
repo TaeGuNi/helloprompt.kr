@@ -4,7 +4,7 @@ title: "🏏 Calendario dei Mondiali T20: Il prompt definitivo per risolvere all
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Prompt per convertire i fusi orari in KST e automatizzare i calendari marketing dei Mondiali T20. Perfetto per marketer sportivi e sviluppatori."
 tags: ["prompt-engineering", "ai-agent", "t20-world-cup-s"]
 ---

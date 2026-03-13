@@ -4,9 +4,9 @@ title: " \"명상 가이드: 내 기분에 맞는 명상 스크립트 생성\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "멘탈 케어"
+category: "General"
 description: " \"失眠、愤怒或需要专注时。AI 为您量身定制并朗读专属情境的冥想引导大纲。\""
-tags: ["명상", "마음챙김", "수면", "TTS", "ChatGPT"]
+tags: ["Meditation", "마음챙김", "Sleep", "TTS", "ChatGPT"]
 ---
 
 ## 🧘‍♀️ 冥想指南：生成契合你当下情绪的专属冥想脚本

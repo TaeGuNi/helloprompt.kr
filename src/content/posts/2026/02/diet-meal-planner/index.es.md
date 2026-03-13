@@ -1,124 +1,162 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Creando un Plan de Dieta Personalizado con IA Sin un Nutricionista"
+title: "Planificación de dietas: cocina de aprovechamiento + nutricionista IA para el cálculo de nutrientes"
 author: "Jay"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
-category: "Salud"
-description: "Crea un plan de alimentación semanal personalizado en 1 minuto según tu biometría, objetivos y gustos, sin gastar en nutricionistas."
-tags: ["Dieta", "Gestión de Dieta", "Fitness", "Salud"]
+date: "2026-02-08"
+updatedDate: "2026-02-08"
+category: "General"
+description: "Introduce los restos de comida de tu nevera. La IA diseñará en un minuto una dieta personalizada con cálculo de calorías y macros."
+tags: ["Diet", "식단", "Cooking", "ChatGPT", "Health"]
+image: "/images/hooks/diet-meal-planner.jpg"
 ---
 
-## 📝 Creando un Plan de Dieta Personalizado con IA Sin un Nutricionista
+## 📝 Planificación de dietas: cocina de aprovechamiento y cálculo de nutrientes
 
-- **🎯 Recomendado para:** Oficinistas, principiantes en el mundo del fitness y profesionales sin tiempo para planificar sus comidas.
-- **⏱️ Tiempo requerido:** 5 minutos → Reducido a 1 minuto
-- **🤖 Modelo recomendado:** Todos los modelos de IA conversacional (ChatGPT, Claude, Gemini, etc.)
+- **🎯 Público recomendado:** Personas que viven solas y se preocupan por el menú diario, o quienes están a dieta y se han cansado de la clásica combinación de pollo, batata y verdura.
+- **⏱️ Tiempo requerido:** 30 minutos (búsqueda de recetas y cálculo de nutrientes) → reducido a 1 minuto.
+- **🤖 Mejor rendimiento:** ChatGPT-4o, Claude 3.5 Sonnet (destacan por su capacidad creativa para combinar ingredientes).
 
-- ⭐ **Dificultad:** ⭐⭐☆☆☆
+- ⭐ **Dificultad:** ⭐☆☆☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
-- 🚀 **Utilidad:** ⭐⭐⭐⭐☆
+- 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"¿Tiraste la toalla al tercer día de comer pechuga de pollo seca y desabrida? Deja de sufrir: descubre cómo diseñar una dieta realista que equilibre sabor, nutrición y calorías exactas, sin gastar una fortuna en un nutricionista."_
+> _"¿Tienes repollo acumulado, o un bloque de tofu a punto de caducar que compraste con la intención de ponerte a dieta? ¿Te da pena tirarlo pero no sabes qué cocinar?"_
 
-Dicen que el 80 % del éxito al momento de perder peso o ganar masa muscular depende exclusivamente de la alimentación. Todos conocemos la teoría: comer limpio, contar calorías y asegurar el déficit calórico. Sin embargo, llevar esto a la práctica en medio del caos laboral diario es una auténtica pesadilla. Calcular los macronutrientes (proteínas, carbohidratos y grasas) de cada comida, pesar los ingredientes al gramo y romperte la cabeza pensando qué cocinar que sea saludable pero no sepa a cartón, resulta ser una tarea titánica y mentalmente agotadora. Terminas comiendo la misma pechuga de pollo con brócoli todos los días, hasta que el aburrimiento y la frustración te vencen, llevándote a pedir comida rápida un viernes por la noche y arruinando el progreso de toda la semana.
+![\"Planificación de dietas: cocina de aprovechamiento + nutricionista IA para el cálculo de nutrientes\"](/images/hooks/diet-meal-planner.jpg)
 
-Ese ciclo de dietas restrictivas, fracasos y culpabilidad no solo destruye tu metabolismo, sino también tu motivación. Pagar a un nutricionista o a un entrenador personal para que te arme un menú mensual puede costar cientos de dólares, y muchas veces terminan entregándote una plantilla genérica que no contempla tus gustos, tus alergias o, peor aún, tu absoluta falta de tiempo para cocinar. ¿Qué sentido tiene un plan perfecto en el papel si te exige pasar dos horas diarias en la cocina cuando apenas tienes energía para prepararte un café antes de salir a la oficina? El estrés de planificar las comidas se convierte en un obstáculo mayor que el propio entrenamiento.
+Cada vez que decidimos ponernos a dieta, llenamos la nevera con entusiasmo. Sin embargo, a los pocos días, se llena de restos de verduras difíciles de gestionar e ingredientes con fecha de caducidad próxima. Tirarlos es un desperdicio de dinero, y cocinarlos de cualquier manera parece que arruinará la dieta; al final, todos hemos acabado abriendo una aplicación de comida a domicilio. El proceso de pensar cada día "¿qué como hoy?", buscar recetas saludables y calcular las calorías una por una es, en sí mismo, una fuente de estrés extremo. Al llegar a casa cansado tras el trabajo o el estudio, el momento de poner la pechuga de pollo y la batata en la báscula hace que la voluntad de seguir con la dieta se enfríe por completo.
 
-Pero a partir de hoy, ese sufrimiento desaparece. Puedes delegar la compleja ingeniería de tu menú semanal a tu propio "Nutricionista de IA" personal. Al proporcionarle tus datos biométricos, tu nivel de actividad y tus preferencias alimenticias, la inteligencia artificial asume todo el trabajo pesado de calcular tu Tasa Metabólica Basal (TMB), cuadrar los macros al milímetro y generar recetas prácticas. No necesitas conocimientos avanzados de nutrición ni hojas de cálculo interminables. En tan solo un minuto, obtendrás un plan estratégico, estructurado día por día, que respeta tus gustos y descarta automáticamente todo aquello que odias comer o que te produce alergia.
+Nos quedamos atrapados en el previsible y seco menú de <b>'pollo-batata-verdura'</b>, perdiendo el apetito y cayendo en el círculo vicioso de pedir pollo frito o comida picante por la noche al explotar el hambre contenida. La verdadera razón por la que muchos fracasan en la pérdida de peso no es simplemente la falta de voluntad. Es por el <b>'cansancio de una gestión dietética insostenible'</b>. Controlar lo que se come cada vez, mirar las etiquetas de ingredientes y masticar comida sin sabor a la fuerza consume una energía mental inmensa que va en contra de la naturaleza humana.
 
-El resultado será una transformación radical en tu relación con la comida. Imagina ir al supermercado con una lista de compras ya categorizada, sabiendo exactamente qué necesitas para la semana. Imagina abrir tu *tupper* en la oficina y disfrutar de una comida deliciosa, rápida de preparar y perfectamente alineada con tus objetivos de recomposición corporal. Con este sistema automatizado, recuperarás horas de tu valioso tiempo libre, ahorrarás dinero al evitar el desperdicio de ingredientes y, lo más importante, lograrás tus metas físicas de forma sostenible, inteligente y sin un ápice de estrés.
+Además, si vives solo, el problema es aún más grave. Si compras un manojo de cebolletas o medio repollo, la mitad termina pudriéndose en un rincón de la nevera y va directo a la basura. Intentas hacer dieta y acabas gastando el doble en comida. Por otro lado, si mezclas los ingredientes que quedan para hacer un arroz frito o un guiso cualquiera, las proporciones de carbohidratos y grasas se disparan, convirtiéndose en la causa del aumento de peso. Para una persona común sin conocimientos de nutrición, crear una receta con un equilibrio perfecto de <b>macros (carbohidratos, proteínas y grasas)</b> usando solo sobras es prácticamente imposible.
+
+Pero ahora, en lugar de suspirar al abrir la nevera, es <b>momento de sacar el smartphone y usar la IA</b>. Simplemente lanza la lista de ingredientes que tienes a la IA. Este prompt no es un simple buscador de recetas. Es tu <b>nutricionista IA</b> disponible las 24 horas en tu cocina, que calcula estrictamente tus objetivos de pérdida de peso y los materiales disponibles para diseñar una <b>'receta de dieta personalizada'</b> en solo un minuto. No te pedirá ingredientes irreales que no tienes, como aceite de trufa caro, azafrán, quinoa o aguacate. Utilizará solo ese repollo que se está marchitando, el medio bloque de tofu restante y las salsas comunes que ya tienes para crear un plato milagroso.
+
+Al aplicar este método sorprendente, no solo <span style="color:var(--color-cyber-cyan)"><b>protegerás perfectamente tu presupuesto</b></span> al no desperdiciar alimentos, sino que también podrás mantener una dieta placentera lejos del aburrido 'pollo-batata-verdura'. Seguro que has oído cientos de veces que la dieta es el 80% del éxito. Controlar lo que se come es la clave y el desafío más difícil. El proceso de decidir el menú en cada comida es el principal culpable de agotar la energía de nuestro cerebro.
+
+Este prompt reduce a cero esa <b>'fatiga por toma de decisiones'</b>. Ahorra la energía que gastabas calculando calorías y concéntrate en el ejercicio y el descanso. Aquí te revelamos el nutricionista IA más realista y potente que aumentará drásticamente tus probabilidades de éxito en la dieta.
+
+---
+
+## 📊 Evidencia: Resultados sorprendentes (Antes y Después)
+
+### ❌ Antes (El sufrimiento que pasábamos)
+
+Cocinabas el tofu que rodaba por la nevera de cualquier forma y, para reponer proteínas, añadías tres huevos fritos secos. Aguantabas con una dieta deficiente y sin sabor hasta que, tarde por la noche, el hambre explotaba y acababas pidiendo comida picante a domicilio casi por instinto. El presupuesto se desperdiciaba con verduras sobrantes tiradas a la basura y la dieta fracasaba una y otra vez.
+
+### ✅ Después (La transformación perfecta)
+
+```text
+[Menú de almuerzo: Bol de atún y repollo picante (aprox. 380 kcal)]
+
+1. Reduce drásticamente la cantidad de arroz a la mitad de lo habitual (aprox. 100g).
+2. Saltea media lata de atún (sin aceite) y repollo finamente picado en la sartén, luego añade 2 huevos para cocinar un revuelto suave.
+3. Añade salsa Sriracha para dar ese toque picante que es la salvación de quienes hacen dieta.
+   
+(Insight: ¡La gran cantidad de repollo aporta una saciedad increíble, manteniendo la energía hasta la cena incluso reduciendo mucho los carbohidratos!)
+
+[🛒 Lista recomendada de compra inteligente]
+- Almendras (Grasas saludables): Tu dieta actual carece de grasas insaturadas de calidad. Muy recomendadas como merienda.
+- Tomates cherry (Vitaminas y fibra): Sacian sin aportar apenas calorías, siendo el mejor ingrediente defensivo para evitar atracones nocturnos.
+```
 
 ---
 
 ## ⚡️ Resumen en 3 líneas (TL;DR)
 
-1. Introduce tus medidas corporales y objetivos metabólicos para que la IA calcule con precisión quirúrgica tus calorías diarias.
-2. Obtén un menú semanal 100 % realista que incluya tus ingredientes favoritos y elimine los alimentos que detestas o te dan alergia.
-3. Genera automáticamente una lista de la compra optimizada y categorizada para ir al supermercado sin perder un solo minuto.
+1. Abre la nevera y anota en tu bloc de notas todos los ingredientes sobrantes actuales.
+2. Introduce en la IA la lista de ingredientes junto con tu **objetivo de calorías y propósito de la dieta**.
+3. Obtén recetas deliciosas que aprovechan el 100% de tus sobras y una lista de compra inteligente para cubrir los nutrientes faltantes.
 
 ---
 
-## 🚀 La Solución: "Nutricionista Personal de IA"
+## 🚀 Así escriben los verdaderos expertos
 
-### 🥉 Versión Básica (Basic Version)
+Este es un prompt perfeccionado tras decenas de intentos. Copia el siguiente prompt y rellena los paréntesis en la sección `[variable]` según tu situación para aplicarlo de inmediato.
 
-Ideal cuando necesitas una estructura rápida sin entrar en especificaciones complejas.
+### 🥉 Versión Básica (Cocina rápida de aprovechamiento)
 
-> **Rol:** Eres un experto en nutrición deportiva y consultor dietético profesional.
->
-> **Solicitud:** Diseña un plan de alimentación de 7 días basado en mi altura, peso actual y peso objetivo en menos de 1 minuto.
+Útil cuando el hambre aprieta y necesitas resolver una comida saludable de forma rápida y sencilla.
 
-### 🥇 Versión Pro (Pro Version)
+> **Rol (Role):** Eres un experto en cocina dietética para personas que viven solas.
+> 
+> **Tarea (Task):** En mi nevera tengo `[medio bloque de tofu, 2 huevos, un puñado de repollo, salsa Sriracha]`. Utiliza estos ingredientes para recomendarme exactamente UNA receta deliciosa de menos de 400 kcal que se pueda preparar en 15 minutos. Organiza los pasos de cocina de forma concisa.
 
-Úsala para obtener un plan de nutrición altamente personalizado, viable a largo plazo y minuciosamente detallado. Copia el siguiente texto y pégalo en tu IA de preferencia.
+### 🥇 Versión Pro (Gestión de dieta semanal personalizada)
 
-> **Rol (Role):** Eres un experto en nutrición deportiva con 15 años de experiencia y un consultor dietético de élite.
+Úsala cuando quieras resultados reales de pérdida de peso a través de un cálculo riguroso del equilibrio nutricional y una gestión sistemática, más allá de resolver una sola comida.
+
+> **Rol (Role):** Eres un nutricionista profesional con 10 años de experiencia y entrenador personal 1:1. Eres excelente implementando el equilibrio nutricional óptimo con ingredientes limitados y configurando dietas realistas pero deliciosas.
 >
 > **Contexto (Context):**
 >
-> - Perfil: Soy un oficinista. Mi altura es `[175 cm]`, mi peso actual es `[80 kg]` y mi peso objetivo es `[70 kg]`.
-> - Nivel de actividad: `[Ejercicio ligero dos veces por semana]`.
-> - Restricciones: Mis alergias o alimentos que detesto absolutamente son `[el pepino y las nueces]`.
+> - **Objetivo:** `[Pérdida de grasa corporal]` (Calorías objetivo: `[1500]` kcal diarias)
+> - **Ingredientes actuales:** `[2 packs de pechuga de pollo, 1 bolsa de setas enoki, 2 cebollas, 5 huevos, salsa Sriracha, salsa de ostras, un poco de avena]`
+> - **Preferencias y restricciones:** `[Prefiero el sabor picante, deseo desayunos muy sencillos sin proceso de cocción, tengo intolerancia a la lactosa]`
 >
 > **Tarea (Task):**
 >
-> 1. Calcula mis calorías diarias recomendadas teniendo en cuenta mi Tasa Metabólica Basal (TMB) y mi nivel de actividad física actual.
-> 2. Diseña un plan de alimentación meticuloso para una semana (7 días), optimizando la distribución de macronutrientes (carbohidratos, proteínas y grasas) para lograr mi objetivo.
-> 3. Al ser oficinista, necesito que los almuerzos sean 100 % realistas y fáciles de transportar (por ejemplo, comidas en porciones controladas o en formato *tupper* que no requieran un recalentamiento complejo).
-> 4. Indica las calorías aproximadas y el desglose en gramos de macronutrientes para cada una de las comidas sugeridas.
-> 5. Finalmente, genera una "Lista de la Compra Semanal" estructurada y categorizada por pasillos del supermercado.
+> 1. Planifica un **menú de dieta para 3 días (desayuno/almuerzo/cena)** aprovechando al máximo los ingredientes proporcionados.
+> 2. Indica claramente las calorías estimadas de cada comida y la proporción de macros (carbohidratos, proteínas y grasas).
+> 3. Recomienda **3 ingredientes económicos** que sea necesario comprar para equilibrar perfectamente la nutrición, explicando lógicamente el motivo.
+> 4. Diseña los menús de almuerzo y cena con recetas intuitivas y sencillas que incluso un principiante pueda terminar en menos de 15 minutos.
 >
 > **Restricciones (Constraints):**
 >
-> - Excluye cualquier receta que requiera más de 15 minutos de preparación activa o que utilice ingredientes exóticos y difíciles de conseguir.
-> - Presenta el plan de alimentación utilizando viñetas o listas (Markdown) que sean visualmente claras y fáciles de leer en dispositivos móviles. Evita absolutamente el uso de tablas.
-> - Prioriza un enfoque de dieta sostenible a largo plazo; prohíbe categóricamente sugerir ayunos extremos o déficits calóricos peligrosos que comprometan mi salud.
+> - Para facilitar la lectura en móviles, NO uses tablas; organiza la información mediante listas con viñetas.
+> - Usa **negrita** para las palabras clave importantes.
+> - Excluye estrictamente especias exóticas difíciles de conseguir o ingredientes caros (ej. aceite de trufa, azafrán, etc.).
+>
+> **Advertencia (Warning):**
+>
+> - No inventes información si no estás seguro, responde "no lo sé". (Prevención de alucinaciones)
+> - Calcula las calorías y macros con la mayor precisión posible, indicando si son estimaciones. Prohíbe estrictamente proponer dietas de calorías extremadamente bajas que equivalgan a pasar hambre. (Es obligatorio cubrir la tasa metabólica basal mínima).
 
 ---
 
-## 💡 Comentario del Autor (Insight)
+## 💡 Comentario del autor (Insight)
 
-El error más destructivo y frecuente a la hora de iniciar una dieta es intentar encajar tu vida en un plan perfecto, en lugar de adaptar el plan a tu estilo de vida. La mayoría de los regímenes fracasan estrepitosamente no por falta de voluntad, sino por ser **insostenibles** en la cruda realidad del día a día. Es aquí donde este prompt se convierte en una herramienta absolutamente brillante y transformadora. La magia reside en la inclusión de la variable del **"oficinista"** y en la limitación estricta de **"15 minutos de preparación"**. En el mundo real, nadie tiene tiempo un martes al mediodía para hornear un lomo de salmón salvaje con costra de finas hierbas. Si tu dieta te exige habilidades de chef profesional y dos horas de tu tarde, terminarás pidiendo comida a domicilio por puro agotamiento. Al condicionar a la IA con estas restricciones de tiempo y logística, fuerzas al modelo a pensar de manera pragmática. Te sugerirá opciones inteligentes como *overnight oats* (avena reposada) que puedes preparar la noche anterior en tres minutos, o ensaladas de legumbres y atún que se ensamblan directamente en tu recipiente para llevar.
+Este prompt es una <b>estrategia de supervivencia real</b> que diseñé yo mismo cuando estaba exhausto del ciclo interminable de 'pollo-batata-verdura' durante un periodo de pérdida de peso estricta, justo antes de que me diera un atracón por ansiedad. Especialmente para quienes viven solos, es muy común no consumir todos los ingredientes que compraron con entusiasmo y acabar tirándolos a la basura. Las ensaladas se marchitan en un día y las salchichas de pollo caducan en el congelador. Cualquiera puede empatizar con el dolor de tener que comer solo repollo durante una semana tras comprar una pieza entera. Sin embargo, si usas este prompt correctamente, puedes lograr dos objetivos a la vez: <b>proteger perfectamente tu presupuesto</b> y <b>tener éxito en la dieta</b>.
 
-Además, he comprobado en mis propios proyectos de automatización personal que el simple hecho de **categorizar la lista de la compra** marca una diferencia abismal en la adherencia al plan. Cuando vas al supermercado cansado después de una larga jornada laboral, no quieres estar cruzando del pasillo de los lácteos al de las verduras cinco veces porque tu lista es un caos. Este prompt ordena los ingredientes de forma lógica, permitiéndote entrar, comprar exactamente lo necesario y salir en tiempo récord. Incluso puedes modificar las variables de exclusión (`[el pepino y las nueces]`) no solo para evitar alergias, sino para adaptarlo a tu presupuesto. He visto a usuarios añadir restricciones como *"usa solo fuentes de proteína baratas como el huevo y la soja"*, y la IA reestructura todo el esquema de macronutrientes sin perder el equilibrio nutricional. Este nivel de hiperpersonalización, antes reservado para atletas de élite que pagaban miles de dólares a especialistas, ahora está a un simple "copiar y pegar" de distancia. Convierte a la inteligencia artificial en tu estratega personal y enfoca tu energía únicamente en la ejecución.
+Si simplemente le preguntas a la IA "hazme una dieta", lo más probable es que te sugiera platos irreales y costosos que no tienes en casa, como salmón, ensalada de aguacate o espárragos a la plancha. Al final, tienes que volver a comprar, el gasto se dispara y los ingredientes que ya tenías vuelven a quedar abandonados. El <b>principio clave de funcionamiento</b> de este prompt reside en especificar exactamente los `[ingredientes actuales]` y aplicar la <b>restricción (Constraint)</b> de `[excluir ingredientes caros]`.
 
----
+Estas condiciones tan controladas generan recetas extremadamente realistas y deliciosas que puedes preparar en tu cocina ahora mismo. La satisfacción de ver cómo la IA analiza la compatibilidad de los ingredientes y sugiere una receta nueva en la que no habías pensado es indescriptible. Es asombroso ver cómo la salsa Sriracha, las setas enoki y los huevos se unen para crear un magnífico bol de setas picante.
 
-## 🙋 Preguntas Frecuentes (FAQ)
+Además, el verdadero valor de este prompt es que detecta los nutrientes faltantes en tu dieta actual (generalmente fibra o grasas insaturadas saludables) y sugiere una <b>lista de compra inteligente</b> solo con lo necesario. En lugar de llenar el carrito con "alimentos dietéticos" que otros recomiendan a ciegas, puedes reponer solo lo que realmente le falta a tu dieta. Este es el mejor escudo contra el gasto innecesario.
 
-- **Q: ¿Puedo utilizar este prompt si sigo una alimentación estrictamente vegetariana o vegana?**
-  - A: ¡Por supuesto y con resultados sorprendentes! Solo necesitas añadir "Sigo una dieta 100 % vegana/vegetariana" en la sección de **Contexto**. La IA recalculará instantáneamente el perfil de aminoácidos, sustituyendo las proteínas de origen animal por alternativas de alto valor biológico (como el tempeh, el tofu, la quinoa o el edamame), asegurando que alcances tus requerimientos proteicos diarios sin deficiencias.
+Usando el <b>control de restricciones (Constraint Control)</b>, puedes adaptarlo al 100% según la situación. Si tienes antojo de dulce por el síndrome premenstrual (SPM) o estrés, añade a la variable `[preferencias]` algo como <i>'deseo una receta de snack dulce bajo en calorías'</i>. Te creará un postre increíble usando el eritritol, yogur griego y algunos frutos secos que te queden. Por el contrario, si te apetece salado, puedes pedir una <i>'receta picante que explote de sabor reduciendo el sodio'</i>.
 
-- **Q: ¿Qué hago si los ingredientes sugeridos escapan de mi presupuesto mensual?**
-  - A: Es un problema común que se resuelve con una simple directriz. Añade la siguiente instrucción en la sección de **Restricciones**: "El presupuesto es estricto; prioriza ingredientes económicos, locales y de temporada que se encuentren fácilmente en supermercados de descuento". De esta manera, el modelo diseñará platos ricos en nutrientes pero de muy bajo coste, apoyándose en legumbres, arroz, huevos, pollo entero o atún enlatado.
+Al final, la dieta no es una lucha contra uno mismo, sino una lucha por <b>'cuánto puedes mantener un sistema sin cansarte'</b>. Este prompt será el motor más potente de ese sistema. Introduce hoy mismo tus ingredientes sobrantes y contrata a tu propio nutricionista IA dedicado. Experimentarás el milagro de gastar menos, ver bajar los números en la báscula y disfrutar del tiempo en la cocina.
 
 ---
 
-## 🧬 Anatomía del Prompt (¿Por qué funciona?)
+## 🙋 Preguntas frecuentes (FAQ)
 
-1. **Asignación de experto de élite (Role):** Al otorgarle explícitamente el rol de un profesional con "15 años de experiencia clínica y deportiva", obligamos a la IA a abandonar el tono genérico de las revistas de moda. Esto activa en el modelo sus datos de entrenamiento sobre nutrición basada en evidencia, garantizando cálculos metabólicos precisos y combinaciones de alimentos científicamente respaldadas.
-2. **Contexto hiperespecífico y biometría (Context):** Las variables cruzadas de altura, peso actual, peso objetivo y nivel de actividad proporcionan el sustrato matemático necesario. Permiten un cálculo algorítmico exacto de la Tasa Metabólica Basal (TMB) y del Gasto Energético Diario Total (TDEE), erradicando el peligroso y obsoleto mito de la "dieta estándar de 2000 calorías" que condena al fracaso a la mayoría de las personas.
-3. **Restricciones logísticas implacables (Constraints):** La directriz de "excluir recetas de más de 15 minutos" actúa como un filtro de viabilidad en el mundo real. Asegura que el plan generado no sea una utopía teórica, sino un sistema 100 % ejecutable diseñado para sobrevivir a la ajetreada y agotadora rutina de un profesional moderno.
+- **Q: La combinación de ingredientes que recomienda la IA es muy extraña. (Ej: Salteado de pollo, manzana y kimchi)**
+  - A: A veces la IA se obsesiona demasiado con la misión de gastar todos los ingredientes y crea lo que llamamos 'comida extraña'. En esos casos, añade al prompt la restricción `[prohibido mezclar ingredientes que no combinen bien]` o dale feedback directo: "Esta combinación parece rara. Quita el kimchi y rehaz la receta con los otros ingredientes". Inmediatamente la corregirá por una receta armoniosa y normal.
+
+- **Q: ¿Qué hago si tengo una cena de empresa o una comida fuera que no puedo evitar?**
+  - A: Comparte el menú de la comida fuera con la IA sin reservas. Pregunta específicamente: "Hoy tengo que comer un menú de cerdo salteado. Para cumplir mi objetivo diario de 1500 kcal, ¿cuánto arroz debería dejar y cómo debo compensar la cena con lo que tengo en la nevera?". La IA diseñará un plan de cuidado mental y una dieta de defensa personalizada considerando el equilibrio total del día.
+
+- **Q: ¿Son 100% precisas las calorías y macros que calcula la IA?**
+  - A: Los cálculos de la IA son 'estimaciones precisas' basadas en una enorme base de datos de alimentos. No puede capturar errores a nivel de 1g o 1kcal. Sin embargo, la clave de una dieta exitosa no es el juego obsesivo de números, sino mantener el **'equilibrio de macros'** macroscópico y controlar el **'flujo de ingesta'** constante. Para usarlo como guía práctica de dieta, es más que suficiente.
 
 ---
 
-## 📊 Prueba: Antes y Después
+## 🧬 Anatomía del prompt (¿Por qué funciona?)
 
-### ❌ Antes (Entrada)
-
-"Hazme una dieta rápida para bajar de peso."
-
-_(Resultado: Un texto vago, genérico y desmotivador que sugiere desayunar una manzana, almorzar ensalada mixta y cenar pechuga hervida todos los días. Carece de proporciones exactas, ignora el gasto calórico individual y es la receta perfecta para el abandono al tercer día por fatiga y aburrimiento)._
-
-### ✅ Después (Resultado)
-
-_(Resultado: Un plan espectacularmente estructurado por días de la semana y bloques de comidas mediante listas legibles, con cálculos calóricos exactos y desglose de macronutrientes. Incluye opciones viables para llevar en tupper a la oficina y culmina con una lista de la compra organizada por pasillos del supermercado. Un esquema estratégico listo para ejecutarse sin fricción)._
+1. **Micro-detalles en el Contexto:** Más allá de dar un peso objetivo, configuramos detalles minuciosos como gustos preferidos (picante), alergias a evitar (lactosa) e incluso límites de tiempo de cocción (desayuno fácil). Estos detalles elevan al máximo la **aplicabilidad real** del resultado.
+2. **Bucle de feedback complementario:** Pedimos proactivamente "3 ingredientes que sea necesario comprar". Esto compensa inteligentemente el riesgo de 'desequilibrio nutricional' que puede ocurrir al enfocarse solo en terminar las sobras, ofreciendo un efecto de consultoría cercana similar al de un nutricionista profesional.
+3. **Restricciones afiladas (Constraints):** Bloqueamos de raíz ingredientes caros o difíciles de conseguir. Además, forzamos el formato de salida a listas para evitar problemas de legibilidad en móviles. Estas restricciones detienen los errores de 'dietas irreales de referencia' que suele cometer la IA y fuerzan solo respuestas prácticas y ejecutables de inmediato.
 
 ---
 
 ## 🎯 Conclusión
 
-Alcanzar tu peso ideal y mejorar tu composición corporal no es una cuestión exclusiva de fuerza de voluntad; se trata de contar con un sistema infalible que elimine la fricción en la toma de decisiones. Al delegar en la inteligencia artificial el complejo y agotador proceso de cuadrar macros, decidir qué cocinar y planificar las compras, tu única y sencilla responsabilidad será seguir las instrucciones.
+El 80% del éxito en la dieta reside, sin duda, en la gestión de la alimentación. Y los mayores enemigos de una gestión sostenible son la 'fatiga extrema de decidir el menú en cada comida' y el 'aburrimiento por el sabor seco repetido cada día'.
 
-¡Automatiza tu nutrición, recupera el control de tu tiempo y comienza tu transformación hoy mismo! 🍷
+Ahora, simplemente lanza la lista de ingredientes sobrantes a la IA. Delega por completo el estrés del cálculo de nutrientes y la configuración del menú a tu nutricionista IA; nosotros solo tenemos que cocinar delicioso según la receta recomendada y perder peso de forma saludable.
+
+¡Apoyo sinceramente el éxito de tu 'dieta de aprovechamiento' inteligente y deliciosa! 🥗
+
+¡Automatiza tus tareas y vete a casa con estilo (o a tiempo)! 🍷

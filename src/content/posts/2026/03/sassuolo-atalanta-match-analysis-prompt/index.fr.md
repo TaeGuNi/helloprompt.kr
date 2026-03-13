@@ -4,7 +4,7 @@ title: "⚽ Sassuolo vs Atalanta : Analyse de match sportif & Prompt de créatio
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Gagnez des heures sur l'analyse de matchs ! Découvrez un prompt IA redoutable pour transformer les statistiques en previews captivantes en un éclair."
 tags: ["prompt-engineering", "ai-agent", "sassuolo-atalan"]
 image: "/images/hooks/sassuolo-atalanta-match-analysis-prompt.jpg"

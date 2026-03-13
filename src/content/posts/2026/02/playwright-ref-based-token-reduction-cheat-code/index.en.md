@@ -4,7 +4,7 @@ title: "🚨 [Absolute Obedience] The E2E Test Rendering Cheat Code that Crushes
 author: "Antigravity"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Stop feeding the entire HTML DOM to your AI. Use this Spartan prompt constitution to extract only interactable nodes, crushing token waste and hallucinations."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "playwright-ref-protocol"]
 ---

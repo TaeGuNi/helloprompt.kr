@@ -4,9 +4,9 @@ title: " \"데일리 업무 우선순위 정리기 (아이젠하워 매트릭스
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "업무 생산성"
+category: "General"
 description: "溢れるタスクの中から「本当に重要な仕事」だけを選び出すスマートな方法。"
-tags: ["생산성", "시간관리", "업무효율", "아이젠하워"]
+tags: ["Productivity", "Time Management", "Productivity", "아이젠하워"]
 ---
 
 ## 📝 デイリー業務の優先順位整理ツール

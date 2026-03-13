@@ -4,9 +4,9 @@ title: " \"해 뜨기 전 생산성을 폭발시키는 5가지 법칙\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "La guida per gli early bird: usa l'AI per pianificare la tua routine mattutina e completare il triplo del lavoro mentre gli altri dormono."
-tags: ["생산성", "시간관리", "업무효율", "새벽업무"]
+tags: ["Productivity", "Time Management", "Productivity", "새벽업무"]
 ---
 
 ## 🌅 5 Regole d'Oro per Esplodere la Produttività Prima dell'Alba

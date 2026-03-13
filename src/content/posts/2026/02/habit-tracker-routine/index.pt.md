@@ -4,9 +4,9 @@ title: " \"루틴 관리: 작심삼일 타파하는 습관 추적기(Habit Track
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "자기계발/생산성"
+category: "General"
 description: "A falta de força de vontade é pura ciência. Aprenda a usar a IA e a neurociência para criar rotinas à prova de falhas e vencer a procrastinação."
-tags: ["습관", "루틴", "갓생", "ChatGPT", "Notion"]
+tags: ["Habit", "Routine", "갓생", "ChatGPT", "Notion"]
 ---
 
 ## 📅 Gestão de Rotina: O Rastreador de Hábitos (Habit Tracker) Definitivo para Vencer a Procrastinação

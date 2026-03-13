@@ -59,8 +59,21 @@ async function auditFile(filePath: string): Promise<boolean> {
     const parts = content.split("---");
     const bodyContent =
       parts.length >= 3 ? parts.slice(2).join("---") : content;
+
+    // Strip code blocks, blockquotes, inline code, images, and frontmatter fields before checking
+    // These intentionally contain Korean (original prompts in Before/After sections)
+    const proseOnly = bodyContent
+      .replace(/^```[^`]*\n[\s\S]*?^```$/gm, "") // fenced code blocks (line-anchored)
+      .replace(/^>.*$/gm, "") // blockquotes
+      .replace(/`[^`]+`/g, "") // inline code
+      .replace(/!\[.*?\]\(.*?\)/g, "") // image alt text
+      .replace(/^category:.*$/gm, "") // frontmatter category
+      .replace(/^tags:.*$/gm, "") // frontmatter tags
+      .replace(/^\s*[-*]\s*입력:.*$/gm, "") // input/output example lines
+      .replace(/^\s*[-*]\s*출력:.*$/gm, "");
+
     const koMatches =
-      bodyContent.match(new RegExp(CHECKS.KOREAN_TEXT, "g")) || [];
+      proseOnly.match(new RegExp(CHECKS.KOREAN_TEXT, "g")) || [];
 
     // Auto-fix minor fragments if below threshold
     if (koMatches.length > 0 && koMatches.length <= 5) {
@@ -102,6 +115,30 @@ async function auditFile(filePath: string): Promise<boolean> {
     if (!CHECKS.HAS_FAQ.test(content)) {
       console.warn(`⚠️ [MISSING_FAQ] ${filePath} is missing FAQ section.`);
       // FAQ is a warning, doesn't fail build
+    }
+
+    // 4. Before section format check: prose must be wrapped in > blockquotes
+    const beforeMatch = content.match(
+      /### ❌ Before[\s\S]*?(?=### ✅ After|^---\s*$|^##\s)/m,
+    );
+    if (beforeMatch) {
+      const beforeLines = beforeMatch[0].split("\n").slice(1); // skip header line
+      const unformattedProse = beforeLines.filter(
+        (l) =>
+          l.trim() !== "" &&
+          !l.trim().startsWith(">") &&
+          !l.trim().startsWith("```") &&
+          !l.trim().startsWith("#") &&
+          !l.trim().startsWith("![") &&
+          !l.trim().startsWith("<!--") &&
+          /[가-힣]/.test(l),
+      );
+      if (unformattedProse.length > 0) {
+        console.warn(
+          `⚠️ [BEFORE_UNFORMATTED] ${filePath} has ${unformattedProse.length} unformatted lines in Before section. Run: pnpm tsx scripts/format-before-after.ts`,
+        );
+        // Warning only, doesn't fail build
+      }
     }
   }
 

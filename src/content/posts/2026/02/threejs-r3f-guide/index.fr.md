@@ -4,9 +4,9 @@ title: " \"Three.js 3D 웹사이트: 개발자 없이 만드는 화려한 인터
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "개발/코딩"
+category: "General"
 description: "Intégrez des modèles 3D sur votre site web ! Découvrez notre guide ultime pour créer des interactions 3D bluffantes avec React Three Fiber (R3F) et l'IA."
-tags: ["Three.js", "R3F", "3D웹", "React", "프론트엔드"]
+tags: ["Three.js", "R3F", "3D웹", "React", "Frontend"]
 ---
 
 ## 🧊 Site Web 3D Three.js : Créer des Interactions Spectaculaires Sans Développeur

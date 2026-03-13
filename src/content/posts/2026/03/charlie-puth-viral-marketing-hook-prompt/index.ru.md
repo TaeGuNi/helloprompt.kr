@@ -4,7 +4,7 @@ title: "Создание хука (Hook) в стиле Чарли Пута: Пр
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Промпт, вдохновленный Чарли Путом: превратите скучные характеристики B2B-продуктов в вирусные хуки для TikTok и Reels."
 tags: ["prompt-engineering", "ai-agent", "charlie-puth"]
 image: "/images/hooks/charlie-puth-viral-marketing-hook-prompt.jpg"

@@ -4,7 +4,7 @@ title: "💀 Brisez l'Arrogance de l'IA : Le Cheat Code Hardcore pour Rendre une
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Domptez une IA sujette aux hallucinations et forcez-la à confesser les failles de son code. Le prompt system ultime d'un ingénieur senior."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "epistemic-humility"]
 ---

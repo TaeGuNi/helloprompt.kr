@@ -4,7 +4,7 @@ title: "⚽ Brighton vs. Nottingham Forest: 1-Minuten-Match-Report-Prompt für S
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "KI-Prompt, der Fußballstatistiken in Sekunden in messerscharfe Analysen und fesselnde Social-Media-Posts verwandelt. Perfekt für Sportmarketer."
 tags: ["prompt-engineering", "ai-agent", "brighton-nottin"]
 ---

@@ -4,9 +4,9 @@ title: " \"발표(PT) 코칭: 스티브 잡스 빙의 AI 스피치 트레이너\
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "자기계발/커뮤니케이션"
+category: "General"
 description: "発表のたびに声が震えてしまうあなたへ。AIを活用した台本添削から圧迫質問の防御まで、完璧なリハーサルをサポートするカスタマイズソリューション。"
-tags: ["발표", "PT", "스피치", "면접", "ChatGPT"]
+tags: ["발표", "PT", "스피치", "Interview", "ChatGPT"]
 ---
 
 ## 🎤 プレゼン(PT)コーチング：スティーブ・ジョブズ憑依型AIスピーチトレーナー

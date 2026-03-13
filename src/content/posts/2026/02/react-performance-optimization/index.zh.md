@@ -4,9 +4,9 @@ title: " \"React 성능 최적화: 렌더링 낭비 0%에 도전한다 (useMemo,
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "개발/코딩"
+category: "General"
 description: "盲目使用 useMemo 真的有必要吗？借助 React Profiler 精准定位性能瓶颈，使用实战级 AI 提示词挑战 0% 渲染浪费，彻底告别应用卡顿。"
-tags: ["React", "성능최적화", "프론트엔드", "JavaScript", "렌더링"]
+tags: ["React", "성능최적화", "Frontend", "JavaScript", "렌더링"]
 ---
 
 ## ⚡️ React 性能优化：挑战 0% 渲染浪费

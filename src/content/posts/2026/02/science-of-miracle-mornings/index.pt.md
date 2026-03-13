@@ -4,9 +4,9 @@ title: " \"미라클 모닝의 과학: 뇌과학이 밝힌 아침의 비밀\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "건강/라이프스타일"
+category: "General"
 description: "Não se trata apenas de acordar cedo. Explicamos a ciência do Milagre da Manhã e como ela transforma a estrutura do seu cérebro."
-tags: ["뇌과학", "미라클모닝", "습관", "건강"]
+tags: ["뇌과학", "미라클모닝", "Habit", "Health"]
 ---
 
 ## 🧠 A Ciência do Milagre da Manhã: O Segredo Matinal Revelado pela Neurociência

@@ -4,7 +4,7 @@ title: " \"React Native vs Flutter 2026: 개발자가 말하는 진짜 승자는
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "개발/코딩"
+category: "General"
 description: "クロスプラットフォームのアプリ開発でまだお悩みですか？パフォーマンス、エコシステム、採用市場まで、2026年の最新基準で徹底的に分析します。"
 tags: ["React Native", "Flutter", "앱개발", "크로스플랫폼", "개발자"]
 ---

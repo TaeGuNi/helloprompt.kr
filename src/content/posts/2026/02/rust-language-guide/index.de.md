@@ -4,9 +4,9 @@ title: " \"Rust 언어: C++보다 안전하고 Python보다 빠른 이유\""
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "백엔드/DB"
+category: "General"
 description: "Seit 10 Jahren Platz 1 bei Stack Overflow. Meistern Sie das Ownership-Konzept und verabschieden Sie sich endgültig von Speicherlecks und Data Races."
-tags: ["Rust", "러스트", "시스템프로그래밍", "백엔드", "WebAssembly"]
+tags: ["Rust", "러스트", "시스템프로그래밍", "Backend", "WebAssembly"]
 ---
 
 ## 🦀 Rust: Warum es sicherer als C++ und schneller als Python ist

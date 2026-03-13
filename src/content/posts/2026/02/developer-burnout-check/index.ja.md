@@ -4,7 +4,7 @@ title: " \"개발자 번아웃 자가진단: 내가 게으른 걸까, 아픈 걸
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "멘탈 케어"
+category: "General"
 description: "キーボードに向かうとため息が出るあなたへ。MBI（Maslach Burnout Inventory）に基づき、自身の状態を客観的に診断して処方箋を受け取るプロンプト。"
 tags: ["번아웃", "개발자", "멘탈케어", "심리", "ChatGPT"]
 ---

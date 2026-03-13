@@ -4,7 +4,7 @@ title: "🚨 El Truco Definitivo de MySQL para Transformar tu Chatbot en un Inge
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Configura este prompt para convertir a tu IA en un implacable experto en MySQL. Elimina respuestas innecesarias y previene desastres en tus datos."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "mysql"]
 ---

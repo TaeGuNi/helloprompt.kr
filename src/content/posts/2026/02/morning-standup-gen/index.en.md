@@ -1,148 +1,165 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "1-Minute Daily Standup Prep: Turn Git Commits into Updates"
+title: "Summarize Yesterday's Work & Prepare for Standups in 1 Minute"
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "Productivity"
-description: "Stop digging through GitHub to remember what you did yesterday. Paste your commit logs and get a clean, ready-to-read standup script in seconds."
-tags: ["Standup", "Meeting Prep", "Developer", "Retrospective"]
+category: "Work Automation"
+description: "The perfect solution for professionals struggling to remember yesterday's work. Turn fragmented commit logs into professional daily scrum briefings in 1 minute."
+tags: ["스탠드업", "회의준비", "개발자", "회고"]
 ---
 
-## 📝 1-Minute Daily Standup Prep: Turn Git Commits into Updates
+## 📝 Summarize Yesterday's Work & Prepare for Standups in 1 Minute
 
-- **🎯 Target Audience:** Developers, Tech Leads, Agile Team Members
-- **⏱️ Time Saved:** 15 mins → 1 min
-- **🤖 Recommended Model:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro
+- **🎯 Recommended for:** Junior developers, PMs, and planners who dread morning standup meetings (Daily Scrum)
+- **⏱️ Time Saved:** Reduced from 10 minutes to 30 seconds
+- **🤖 Top Performance:** Recommended for latest reasoning models (ChatGPT, Claude, Gemini, etc.)
 
 - ⭐ **Difficulty:** ⭐☆☆☆☆
-- ⚡️ **Effectiveness:** ⭐⭐⭐⭐⭐
+- ⚡️ **Effectiveness:** ⭐⭐⭐⭐☆
 - 🚀 **Utility:** ⭐⭐⭐⭐⭐
 
-> _"Staring blankly at your monitor at 9:55 AM, desperately trying to mentally reconstruct yesterday's coding marathon? Stop excavating your GitHub history."_
+> _"Uh... yesterday I... well... fixed some small bugs..." Stop the rambling reports that erode your professionalism every morning._
 
-Every developer knows that unique sense of panic that hits just minutes before the morning standup. You spent eight solid hours deep in the zone yesterday—squashing elusive bugs, untangling legacy spaghetti code, and pushing crucial commits. Yet, when the Scrum Master asks, "What did you do yesterday?", your mind goes entirely blank. You find yourself frantically running `git log`, skimming through a chaotic mess of "wip," "fix typo," and "update deps" messages, desperately trying to translate technical jargon into something your Product Manager will actually understand. This daily scramble isn't just mentally draining; it severely undersells the value of your hard work. Stumbling through your update makes it sound like you barely did anything, even on days when you moved mountains.
+It’s 9:50 AM. Only 10 minutes left until the standup meeting. As messenger notifications start chiming, your heart rate accelerates. You frantically open GitHub commit logs and scour Jira boards, desperately trying to piece together what you did yesterday. "I coded all day, but why does it feel like I have nothing to say?" The frustration of staring at a blinking cursor on a blank notepad is a **bitter morning pain** that every office worker has experienced.
 
-If you don't fix this routine, the consequences compound quickly. You're wasting 10 to 15 minutes every single day just preparing to speak for 30 seconds. That's over an hour of your peak morning productivity lost to pure administrative anxiety every week. Worse, your cross-functional team—especially PMs, designers, and QA engineers—starts tuning out because your updates are either overly technical or lack clear business context. This communication gap can easily trigger accidental micromanagement, as stakeholders struggle to see the tangible progress happening behind the scenes.
+The bigger issue is that your **true effort and achievements aren't being properly communicated**. The moment you ramble in a meeting saying, "Uh... I fixed some minor bugs yesterday, and today I'll finish the API integration," your colleagues and leaders subconsciously label you as someone who didn't get much done. You likely struggled late into the night finding a memory leak or untangling legacy code, but if you can't package that into business language, that immense **technical effort evaporates into thin air**. Telling a planner or PM who knows nothing of development that you "optimized a DB index" is often a hollow cry. These repetitive, clumsy reports do more than just cause embarrassment; they have a <span style="color:var(--color-cyber-cyan)">critically negative impact on your performance reviews and salary negotiations</span> in the long run. You are essentially devaluing yourself simply because you aren't articulating your work effectively.
 
-Enter the 1-Minute Standup Generator. This isn't just a basic text summarizer; it's a specialized communication bridge built specifically for software engineers. By simply dumping your raw, unfiltered terminal outputs—or even chaotic, fragmented notes—into the AI, it instantly restructures your data into a polished, PM-friendly script. It perfectly categorizes your work into standard Agile buckets: "Yesterday," "Today," and "Blockers," elegantly translating cryptic Git hashes and shorthand into clear, value-driven achievements.
+It’s time to end this painful morning routine forever. 30 seconds is all it takes. Simply copy your scattered commit logs, Jira ticket numbers, or those disorganized fragments of notes. Then, casually drop them into the **'Standup Briefing Generator'** prompt introduced today. The AI will analyze your unrefined language in an instant and translate it into a **'Scrum briefing focused on business value'** that every team member can intuitively understand. Following the global standard format of "What I did yesterday," "What I'll do today," and "Blockers," a clean and professional script will appear before your eyes.
 
-Imagine rolling into your 10:00 AM sync completely stress-free. In less than 60 seconds, you have a crisp, articulate update ready to go. You can confidently communicate exactly what you accomplished, highlight its impact on the user experience, and clearly outline your focus for the day. You reclaim your morning bandwidth, impress your team leads with absolute clarity, and establish yourself as a highly effective communicator. Stop relying on your short-term memory and let this prompt handle the administrative overhead of modern development.
-
----
-
-## ⚡️ TL;DR (3-Line Summary)
-
-1. **Stop the manual digging:** Simply copy and paste your raw `git log` output or scattered daily notes directly into the prompt.
-2. **Instant categorization:** The AI automatically restructures your raw input into standard Agile formats: "Done," "Doing," and "Blockers."
-3. **Stakeholder-friendly translation:** It seamlessly converts cryptic technical jargon into clear, value-driven updates that Product Managers and non-technical peers can easily digest.
+Imagine yourself turning on your mic and reading the AI-refined script with a calm, confident voice. The moment you say, "Yesterday, I identified the root cause of the 500 error in the payment module, preparing us to protect the customer conversion rate," the looks in your colleagues' eyes across the video call will change. You are no longer the rambling junior. You will be recognized as an **overwhelmingly high-performing professional** who dominates their tasks, understands their contribution to team goals, and seamlessly coordinates with other departments. In the place where morning stress once resided, you’ll find the confidence and mental space to immerse yourself in the day’s core work. Now, it’s time to prove your true value.
 
 ---
 
-## 🚀 The Solution: "The 1-Minute Standup Generator"
+## 📊 Proof: Satisfying Results (Before & After)
 
-### 🥉 Basic Version
+### ❌ Before (The Pain We Experienced)
 
-Perfect for internal, dev-only syncs where you simply need a rapid, no-frills summary of your chaotic terminal logs.
+Fragmented memories, disorganized commit logs, and jumbled Jira ticket numbers. These are the notes scribbled hastily right before a meeting.
 
-> **Role:** You are a seasoned Agile software engineer.
-> **Task:** Convert the following raw notes and commit logs into a structured daily standup update. Format it strictly into "Yesterday," "Today," and "Blockers."
-> **Input:** `[Paste your raw notes or git logs here]`
+```text
+- 결제 모듈 API 500 에러 나는거 원인 파악함. (DB 커넥션 문제인듯?)
+- 어드민 페이지 버튼 CSS 깨지는거 수정 완.
+- 지라 티켓 #1024 (회원가입 약관 동의 버그) 작업 중인데 QA팀 확인 필요함.
+```
 
-While the Basic version is excellent for a quick memory jog, it often falls short in cross-functional team settings. I used to rely on a similar prompt, but I quickly noticed my Product Manager's eyes glazing over when the AI simply regurgitated phrases like "Refactored auth controller." It completely lacked the "why." To truly shine in standups and build trust with stakeholders, you need to translate your raw code commits into tangible business value.
+### ✅ After (The Perfect Transformation)
 
-### 🥇 Pro Version
 
-Designed for developers who want a polished, stakeholder-friendly update that perfectly balances technical details with business impact.
 
-> **Role (Role):** You are an articulate Senior Software Engineer communicating with a cross-functional Agile team (including PMs, designers, and fellow developers).
+```text
+**[어제 진행 상황]**
+- 결제 모듈에서 발생하던 서버 에러(500)의 근본 원인이 DB 커넥션 병목임을 파악하고 대응 준비를 마쳤습니다. 이를 통해 결제 실패율을 낮출 수 있을 것으로 기대합니다.
+- 어드민 페이지의 UI 레이아웃 깨짐 현상을 수정하여 운영팀의 업무 불편을 해소했습니다.
+
+**[오늘 계획]**
+- 어제 파악한 결제 모듈 DB 커넥션 문제를 수정하여 배포할 예정입니다.
+- 회원가입 약관 동의 관련 버그(티켓 #1024) 수정을 마무리하고 QA를 요청하겠습니다.
+
+**[도움 필요한 점 (Blocker)]**
+- 회원가입 약관 동의 버그 수정 건과 관련하여, QA팀에서 오늘 중으로 테스트 환경을 확인해 주시면 일정 내 배포가 가능할 것 같습니다. 이 부분 도움 부탁드립니다.
+```
+
+---
+
+## ⚡️ 3-Line Summary (TL;DR)
+
+1. Copy your `git log` history, Jira ticket titles, and disorganized notes.
+2. Paste them into the **'Standup Briefing Generator'** prompt below and run it immediately.
+3. In 30 seconds, get a perfect script where technical tasks are transformed into business value.
+
+---
+
+## 🚀 Solution: "Standup Briefing Generator"
+
+### 🥉 Basic Version (Simple Summary)
+
+Use this when you want to quickly organize scattered notes without complex settings.
+
+> **Role:** You are an `[Assistant]` who summarizes my work cleanly.
+> 
+> **Task:** Based on the work details I provide, summarize them into three items: 'Yesterday's Progress', 'Today's Plan', and 'Blockers'.
 >
-> **Context (Context):**
+> **Work Details:**
+> `[Paste commit logs, notes, ticket titles, etc., here]`
+
+### 🥇 Pro Version (Highlight Achievements & Value Translation)
+
+This prompt is highly recommended when you want to go beyond listing tasks and firmly imprint the 'Value' you’ve contributed to the organization in the minds of your team and leaders.
+
+> **Role:** You are a `[Capable Senior Developer and Tech Lead]` with excellent communication skills.
 >
-> - Background: I need to share my daily standup update.
-> - Goal: Clearly communicate what I achieved yesterday, what my focus is today, and any blockers I am facing, ensuring that technical tasks are framed in terms of user or business value.
+> **Context:**
 >
-> **Task (Task):**
-> Analyze the provided `[Git Logs / Raw Notes]` and generate a professional standup script.
+> - Background: I am preparing for the daily standup meeting (Daily Scrum) with my team.
+> - Goal: Based on fragmented work records, I need to write a presentation script that clearly and professionally communicates my achievements.
 >
-> 1. Categorize the items into exactly three sections: **🔙 Yesterday**, **🎯 Today**, and **🚧 Blockers**.
-> 2. Translate cryptic commit messages (e.g., "fix typo in auth", "wip payment gateway") into clear, professional bullet points.
-> 3. Highlight the _impact_ of the work, rather than just the technical action taken.
-> 4. Keep it concise. The script should take no longer than 45 seconds to read aloud.
+> **Task:**
+>
+> 1. Translate the technical work details I input into **'Business Value'** that even non-developer team members can intuitively understand. (e.g., "Login API Refactoring" -> "Improved login speed and strengthened security")
+> 2. Strictly follow the template structure below to write the script.
+>
+> **[Yesterday's Progress]**
+>
+> - (Focus on core achievements rather than a simple list, using no more than 3 bullet points)
+>
+> **[Today's Plan]**
+>
+> - (Write 1-2 specific and achievable goals for the day)
+>
+> **[Blockers]**
+>
+> - (If the input data indicates a need for help from other departments or delay factors, specify them. Otherwise, write "No blockers to share at this time.")
 >
 > **Input Data:**
+> `[Input yesterday's commit logs, Jira ticket list, or work notes]`
 >
-> - `[Git Logs / Raw Notes]`
+> **Constraints:**
 >
-> **Constraints (Constraints):**
->
-> - Output strictly in Markdown format.
-> - Use bullet points. Do not write long paragraphs.
-> - If there are no blockers mentioned in the input, explicitly state: "No blockers today."
->
-> **Warning (Warning):**
->
-> - Do not invent tasks or make assumptions about work that is not explicitly present in the input data to prevent hallucination.
+> - Use a polite and confident business spoken tone ending in "did," "prepared," or "plan to."
+> - Keep it concise; ensure the presentation time for each item does not exceed 20 seconds.
+> - Do not make up any content that does not exist in the input data. (Hallucination prevention)
 
-The true magic of this Pro Version lies in how you utilize the `[Git Logs / Raw Notes]` variable in the real world. In my daily workflow, I don't even bother writing manual notes anymore. I just run a quick alias in my terminal: `git log --author="MyName" --since="yesterday" --oneline | pbcopy` (if you are on a Mac). This instantly copies all my recent commits directly to the clipboard, ready to be pasted right into the prompt.
+---
 
-But it gets better. Sometimes, if I spent the entire day debugging a complex issue without actually making a commit, I'll just type out a chaotic stream of consciousness: "spent 4 hrs tracing memory leak in checkout flow, fixed by updating Redis cache TTL, also reviewed 2 PRs from the frontend team." The AI takes this absolute garbage-fire of an input and spins it into pure gold. By forcing the AI to highlight the **impact**, "updated Redis cache TTL" magically becomes "Optimized the checkout flow's caching mechanism, resolving a critical memory leak to ensure stable checkouts for users."
+## 💡 Author's Comment (Insight & How to use)
 
-Furthermore, you can easily adapt this prompt for different audiences. If you have a highly technical lead, you can inject a modifier constraint like, "- Keep the specific AWS service names and variable adjustments in the output." This level of strategic framing makes you sound like a visionary senior engineer every single morning, seamlessly bridging the gap between deep technical implementation and high-level product strategy.
+The reason this prompt is so overwhelmingly powerful is that it goes beyond smoothing out sentences—it performs a high-level translation task that replaces **Technical Jargon** with **Business Value**. In remote work environments where asynchronous communication is the norm, or in organizations that require written daily reports on Slack or Teams, this prompt becomes your sturdy shield and sharpest spear.
+
+There is a world of difference between dryly stating "Fixed login error" and reporting "Proactively resolved intermittent authentication errors during user login to protect customer retention rates." The former is a report from a mere 'Worker,' while the latter is a declaration from a 'Problem Solver' who understands business impact. This seemingly minor difference in framing **completely flips the criteria** by which leaders and colleagues evaluate your performance. Ultimately, this prompt becomes a sophisticated <b>'secret weapon for salary negotiations'</b> that packages your invisible technical sweat behind the screen into business language everyone can applaud.
+
+Furthermore, this prompt is highly customizable to your situation and organizational culture through **Constraint Control**. If your organization has a casual and horizontal culture like a startup, modify the Constraints at the bottom to say, `Use a soft, spoken tone like 'I did this' or 'I'm planning to.'` Conversely, if you work for a conservative large corporation or in the financial sector, you can adjust the variables to `Write in an extremely polite and formal business written report tone.`
+
+Special attention should be paid to how the 'Blockers' section is handled. Many juniors hesitate to speak about Blockers, mistakenly viewing them as 'areas where I’m stuck because I’m incompetent.' However, a professional's Blocker report is different. This prompt analyzes your delay factors and transforms them into a **proactive collaboration request** that clearly states "what resources from which department are needed by when." It turns a complaint like "I can't develop because the design isn't ready" into professional schedule coordination: "If the main banner draft is delivered by 3 PM today, we can meet the deployment schedule for tomorrow morning."
+
+If the AI-generated result feels a bit exaggerated or artificial compared to your usual personality, keep the overall structure but slightly refine the Tone & Manner to fit your own voice. By investing just one minute every morning to apply this prompt to your work, you will feel a dramatic increase in the trust and respect your team has for you within just a month.
 
 ---
 
 ## 🙋 Frequently Asked Questions (FAQ)
 
-- **Q: Do I need a paid AI model (like GPT-4 Plus) to use this?**
-  - A: Not at all. Free models like ChatGPT (GPT-4o-mini) or Claude 3.5 Haiku handle this perfectly. The task relies heavily on summarization and formatting rather than complex logical reasoning, making it ideal for lighter, faster models.
+- **Q: Can marketers or designers use this too, not just developers?**
+  - A: Absolutely! Simply change the **Role** in the `Pro Version` prompt to `[Performance Marketer]` or `[UX/UI Designer]` and input your data metrics or draft details. You will get a customized briefing perfectly optimized for that role.
 
-- **Q: Can I use this for weekly sprint reviews instead of daily standups?**
-  - A: Absolutely! Just tweak the timeframe variables in the prompt from "Yesterday/Today" to "Last Week/This Week" and feed it your weekly commit logs, merged PR titles, or closed Jira tickets.
+- **Q: Does it summarize automatically if I just put in a Jira or Notion ticket link?**
+  - A: Unfortunately, due to security and permission issues, the AI cannot directly crawl private company links. Even if it's a bit tedious, it will work perfectly if you copy and paste the ticket title and key description as text directly into the prompt.
+
+- **Q: My team is global, so I need to conduct the standup in English. What should I do?**
+  - A: Just add one line to the **Constraints** section: `- Write the output in Business English.` You will immediately receive a natural and perfect English briefing script at a native-speaker level.
 
 ---
 
 ## 🧬 Prompt Anatomy (Why it works?)
 
-1. **Cross-Functional Persona:** By explicitly assigning the role of a Senior Engineer speaking to a *cross-functional* team, we force the AI to dial back the dense technical jargon that often alienates non-technical stakeholders like designers and PMs.
-2. **Impact-Oriented Tasking:** The explicit instruction to "Highlight the impact" acts as a transformation trigger. It shifts the output from a dry list of chores (what you did) into a value-driven narrative (why it matters to the product and the user).
-3. **Strict Formatting Constraints:** Mandating a Markdown format and a strict 45-second reading limit guarantees the output is immediately actionable. You won't have to waste time editing down a massive wall of text generated by an overzealous AI.
-
----
-
-## 📊 Proof: Before & After
-
-### ❌ Before (Raw Git Log Input)
-
-```text
-7a3b2f1 fix: login button overlap on mobile
-9c8d7e2 refactor: extract validation logic to util
-4f5a6b3 wip: starting stripe integration for premium tier
-1b2c3d4 chore: update dependencies
-```
-
-### ✅ After (AI Output)
-
-```markdown
-**🔙 Yesterday**
-
-- Resolved a UI issue on mobile devices where the login button was overlapping, improving the mobile user experience.
-- Refactored our form validation logic, which will make future feature updates faster and reduce potential bugs.
-- Kept our project dependencies up to date for security and performance.
-
-**🎯 Today**
-
-- My main focus is kicking off the Stripe payment integration for the new premium subscription tier.
-
-**🚧 Blockers**
-
-- No blockers today.
-```
+1. **Value Translation Instruction:** Beyond simple text summarization, I gave a clear Action Task: "Translate technical terms into business value." This single sentence dramatically elevates the quality of the entire output to an expert level.
+2. **Forced Template Structure:** By mandating the global standard format of standup meetings—'Yesterday/Today/Blocker'—via a Markdown template, I fundamentally blocked hallucinations where the AI might add unnecessary fluff or respond in an odd format.
 
 ---
 
 ## 🎯 Conclusion
 
-Daily standups shouldn't be a stressful test of your short-term memory, nor should they test your ability to translate code into plain English on the fly. By leveraging this prompt, you can seamlessly transform chaotic terminal outputs into articulate, professional, and value-driven updates in a matter of seconds.
+The essence of a standup meeting is not to mechanically recite and prove "I worked this hard yesterday." It is about transparently and quickly sharing "where we are now regarding the team's common goals and what obstacles are hindering our speed."
 
-Reclaim your morning focus, impress your Product Managers with crystal-clear communication, and head into your daily sync with absolute confidence. Now, close that terminal tab and go grab that coffee! ☕️
+Stop stressing every morning by relying on your failing memory or blaming your lack of eloquence. Coolly hand over the tedious task of organizing scattered records and packaging achievements to the AI. Then, use the remaining time to enjoy a morning coffee and focus entirely on the most important tasks of the day.
+
+Automate your work, stay cool, and go home on time (or retire)! 🍷

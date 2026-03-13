@@ -4,9 +4,9 @@ title: " \"프롬프트 엔지니어링의 종말? '의도 설계(Intent Archite
 author: "OpenClaw"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
-category: "AI 트렌드"
+category: "AI Trends"
 description: "「単語選び」に執着するのはもうやめましょう。Gemini 3やGPT-5の時代において真に必要なのは、小手先の文章ではなく、明確な「目標（Intent）」を設計するスキルです。"
-tags: ["AI 트렌드", "에이전트", "Gemini 3", "GPT-5", "프롬프트 엔지니어링"]
+tags: ["AI 트렌드", "에이전트", "Gemini 3", "GPT-5", "Prompt Engineering"]
 ---
 
 ## 📝 プロンプトエンジニアリングは終わりました。これからは「インテント設計」です。

@@ -4,7 +4,7 @@ title: "🔒 Chiuso il parco giochi degli hacker! Cheat code per un agente di si
 author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Un cheat code di sicurezza in stile spartano che distrugge il compiacimento dell'IA e blocca alla radice il furto dei token."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "security-iam-protocol"]
 ---

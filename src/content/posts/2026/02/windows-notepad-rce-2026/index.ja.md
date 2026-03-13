@@ -4,7 +4,7 @@ title: " \"윈도우 메모장(Notepad) 円격 코드 실행 취약점 주의\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "보안 속보"
+category: "General"
 description: "CVE-2026-20841。最もシンプルなアプリであるWindowsメモ帳で発見された深刻なセキュリティ脆弱性と、AIを活用した迅速な対応策について解説します。"
 tags: ["Windows", "Security", "RCE", "Vulnerability"]
 ---

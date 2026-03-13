@@ -4,7 +4,7 @@ title: "💀 Piega l'arroganza dell'IA: Il cheat code hardcore per rendere umile
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Domina le IA in preda alle allucinazioni: costringile a confessare i difetti del loro codice con questa costituzione di prompt per Senior Engineer."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "epistemic-humility"]
 ---

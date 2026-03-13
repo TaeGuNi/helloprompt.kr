@@ -4,7 +4,7 @@ title: "🚨 [Obediencia Absoluta] El truco de renderizado para pruebas E2E que 
 author: "Antigravity"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "No le pases todo el DOM a la IA. Esta constitución de prompts comprime solo los nodos interactivos, aniquilando las alucinaciones y el gasto de tokens."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "playwright-ref-protocol"]
 ---

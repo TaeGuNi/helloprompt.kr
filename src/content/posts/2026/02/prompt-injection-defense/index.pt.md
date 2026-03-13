@@ -4,9 +4,9 @@ title: " \"내 AI 서비스 지키기: 프롬프트 인젝션 방어 가이드 (
 author: "Jay"
 date: "2026-02-14"
 updatedDate: "2026-02-14"
-category: "보안"
+category: "Security"
 description: "Estratégias essenciais de defesa e templates práticos de prompts para proteger seu serviço de IA contra ataques de injeção de prompt."
-tags: ["보안", "프롬프트엔지니어링", "해킹", "LLM", "보안가이드"]
+tags: ["Security", "Prompt Engineering", "해킹", "LLM", "보안가이드"]
 ---
 
 ## 🛡️ Proteja seu Serviço de IA: Guia Prático contra Prompt Injection

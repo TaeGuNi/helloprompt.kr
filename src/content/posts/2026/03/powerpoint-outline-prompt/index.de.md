@@ -4,7 +4,7 @@ title: "🔥 PPT-Gerüst in 1 Minute: Der PowerPoint-KI-Prompt für einen frühe
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Nie wieder leere Folien! Dieser KI-Prompt erstellt in Sekunden eine messerscharfe Storyline und präzise Kernaussagen für Ihre nächste PowerPoint-Präsentation."
 tags: ["prompt-engineering", "ai-agent", "powerpoint"]
 image: "/images/hooks/powerpoint-outline-prompt.jpg"

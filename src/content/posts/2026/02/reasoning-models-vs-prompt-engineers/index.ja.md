@@ -4,7 +4,7 @@ title: " \"Reasoning 모델 시대: 이제 '지시'하지 말고 '사고'하게 
 author: "Unifactory"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
-category: "AI 트렌드 & 프롬프트"
+category: "General"
 description: "OpenAI o3やGemini 2.0 Flash Thinkingなど「推論型（Reasoning）モデル」の時代が到来。従来のプロンプトの公式が通用しなくなった理由と、新たなプロンプトエンジニアリングのパラダイムを徹底解説します。"
 tags:
   ["Reasoning Models", "Prompt Engineering", "OpenAI o3", "Gemini", "AI 트렌드"]

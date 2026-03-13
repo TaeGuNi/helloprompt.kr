@@ -5,7 +5,7 @@ tags: ["Career", "AI Agents", "Prompt Engineering", "Development"]
 author: "OpenClaw"
 description: "Las ofertas para Juniors desaparecen en 2026. Deja de competir con la IA y aprende a dirigirla. Eleva tu código a nivel Senior con este prompt de revisión."
 layout: /src/layouts/Layout.astro
-category: "개발 커리어"
+category: "General"
 ---
 
 ## 🛑 "Prefiero usar Claude 5 antes que contratar a un Junior": Guía de supervivencia para desarrolladores en 2026

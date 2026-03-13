@@ -4,9 +4,9 @@ title: " \"오늘 점심 뭐 먹지? AI 도시락 플래너\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "건강"
+category: "Health"
 description: "Crea schiscette sane e sfiziose in soli 10 minuti. Il tuo chef AI personale svuotafrigo per risparmiare tempo e mangiare bene ogni giorno."
-tags: ["점심", "도시락", "요리", "건강식"]
+tags: ["점심", "도시락", "Cooking", "건강식"]
 ---
 
 ## 🍱 Cosa mangio a pranzo oggi? Il Planner AI per la Schiscetta Perfetta

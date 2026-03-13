@@ -4,7 +4,7 @@ title: " \"영어 쉐도잉(Shadowing): 넷플릭스로 미드 주인공 되기\
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "외국어/학습"
+category: "General"
 description: "海外ドラマを見るだけでは英語は上達しません。AIコーチを活用してセリフのリンキングや細かなニュアンスを完璧に分析し、自分のものにするためのNetflixシャドーイング実践ガイドです。"
 tags: ["영어공부", "쉐도잉", "넷플릭스", "미드", "ChatGPT"]
 ---

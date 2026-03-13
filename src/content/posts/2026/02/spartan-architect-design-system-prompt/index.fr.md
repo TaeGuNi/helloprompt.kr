@@ -4,7 +4,7 @@ title: "💀 Le Prompt 'Architecte Sparciate' qui Pulvérise la Flatterie de l'I
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Ce prompt impitoyable bloque les flatteries inutiles et le code spaghetti de l'IA, forçant la génération d'un système de design d'une perfection mathématique."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "design-system-identity"]
 ---

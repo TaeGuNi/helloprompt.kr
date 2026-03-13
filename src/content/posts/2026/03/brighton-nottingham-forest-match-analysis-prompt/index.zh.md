@@ -4,7 +4,7 @@ title: "⚽ 布莱顿 vs 诺丁汉森林：专为体育营销人员打造的1分
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "这是一个实用的AI提示词，能瞬间将复杂的足球比赛数据转化为犀利的分析报告和极具吸引力的社交媒体内容。"
 tags: ["prompt-engineering", "ai-agent", "brighton-nottin"]
 ---

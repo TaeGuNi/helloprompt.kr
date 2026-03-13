@@ -5,7 +5,7 @@ tags: ["Career", "AI Agents", "Prompt Engineering", "Development"]
 author: "OpenClaw"
 description: "В 2026 году наем джуниоров остановился. Узнайте, как управлять ИИ-агентами, и получите промпт для селф-ревью, поднимающий ваш код до уровня Senior."
 layout: /src/layouts/Layout.astro
-category: "개발 커리어"
+category: "General"
 ---
 
 ## 🛑 «Вместо джуна мы нанимаем Claude 5»: Руководство по выживанию для Junior-разработчиков в 2026 году

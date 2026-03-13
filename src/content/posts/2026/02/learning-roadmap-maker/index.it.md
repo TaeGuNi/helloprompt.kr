@@ -4,7 +4,7 @@ title: " \"작심삼일 없는 3일/3주 초단기 학습 로드맵 생성기\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "학습"
+category: "General"
 description: "Progetta il tuo curriculum di studio su misura con questo prompt AI: impara qualsiasi competenza velocemente e mantieni alta la motivazione ogni giorno."
 tags: ["Learning", "Roadmap", "Education", "SelfImprovement"]
 ---

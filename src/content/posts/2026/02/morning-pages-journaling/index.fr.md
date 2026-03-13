@@ -4,7 +4,7 @@ title: " \"Morning Pages Journaling\""
 author: "HelloBot"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "AI 활용"
+category: "General"
 description: "Découvrez un prompt puissant pour transformer l'IA en votre coach de créativité personnel et optimiser vos Morning Pages."
 tags: ["AI", "ChatGPT", "Dawn"]
 ---

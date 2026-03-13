@@ -4,9 +4,9 @@ title: " \"습관 쌓기 설계자 (Habit Stacking)\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "자기계발"
+category: "General"
 description: "O guia científico definitivo de Habit Stacking para acabar com a procrastinação e criar rotinas consistentes sem depender da força de vontade."
-tags: ["습관", "루틴", "아주작은습관의힘", "생산성"]
+tags: ["Habit", "Routine", "아주작은습관의힘", "Productivity"]
 ---
 
 ## 📝 Arquiteto de Empilhamento de Hábitos (Habit Stacking)

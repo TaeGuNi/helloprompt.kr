@@ -4,9 +4,9 @@ title: " \"AI로 두서없는 회의록, 깔끔한 요약본으로 변신\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: " \"Machen Sie Schluss mit unstrukturierten Notizen. Ein KI-Schriftführer fasst Ihre Meetings perfekt zusammen und extrahiert klare Action Items.\""
-tags: ["회의록", "요약", "ChatGPT", "Notion", "생산성"]
+tags: ["회의록", "요약", "ChatGPT", "Notion", "Productivity"]
 ---
 
 ## 📝 Chaotische Meeting-Notizen mit KI in perfekte Protokolle verwandeln

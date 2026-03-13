@@ -4,7 +4,7 @@ title: "💸 El Prompt Mágico de Recaudación de Fondos para Llenar Cuentas Vac
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Prompt práctico de IA para redactar en solo 1 minuto correos persuasivos y textos de campaña que logren abrir naturalmente las carteras de los donantes."
 tags: ["prompt-engineering", "ai-agent", "fundraiser"]
 ---

@@ -4,7 +4,7 @@ title: "🏏 Prompt AI per Analizzare Perfettamente la Classifica (Points Table)
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Classifiche T20 World Cup complesse? Basta un copia e incolla. L'AI genererà un riepilogo cristallino e un'analisi approfondita in un solo secondo."
 tags: ['prompt-engineering', 'ai-agent', 't20-world-cup-p']
 ---

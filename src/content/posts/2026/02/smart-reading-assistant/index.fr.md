@@ -4,9 +4,9 @@ title: " \"초고속 독서 소화제 (Smart Reading)\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "학습/연구"
+category: "General"
 description: "Comment lire 3 fois plus vite des livres complexes, des articles de recherche et des blogs techniques, et les assimiler parfaitement."
-tags: ["독서", "요약", "학습", "지식관리"]
+tags: ["Reading", "요약", "Learning", "지식관리"]
 ---
 
 ## 📝 Le Digesteur de Lecture Ultra-Rapide (Smart Reading) {#smart-reading}

@@ -4,7 +4,7 @@ title: "💸 填满空空账户的魔法募捐提示词"
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "只需1分钟，即可生成极具说服力的募捐邮件与活动文案。这份实战型AI提示词能让潜在捐赠者自然地打开钱包，助力您的筹款目标。"
 tags: ["prompt-engineering", "ai-agent", "fundraiser"]
 ---

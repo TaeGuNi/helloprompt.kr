@@ -4,7 +4,7 @@ title: "Générateur de Feuille de Route d'Apprentissage Ultra-Rapide (3 Jours/3
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "학습"
+category: "General"
 description: "Créez une feuille de route d'apprentissage ultra-rapide (3 jours/3 semaines). Un prompt sur mesure pour maîtriser toute compétence sans jamais abandonner."
 tags: ["Learning", "Roadmap", "Education", "SelfImprovement"]
 ---

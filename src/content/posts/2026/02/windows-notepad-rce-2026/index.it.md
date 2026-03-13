@@ -4,7 +4,7 @@ title: " \"윈도우 메모장(Notepad) €격 코드 실행 취약점 주의\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "보안 속보"
+category: "General"
 description: "CVE-2026-20841: Scoperta una vulnerabilità critica di esecuzione di codice in modalità remota (RCE) nel Blocco note, l'app più basilare di Windows."
 tags: ["Windows", "Security", "RCE", "Vulnerability"]
 ---

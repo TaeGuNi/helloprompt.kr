@@ -4,7 +4,7 @@ title: "💀 Exterminando as Besteiras da IA: O Cheat Code Hardcore de Observabi
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "프롬프트 엔지니어링"
+category: "General"
 description: "Prompt cheat code que bloqueia bajulações da IA e elimina console.log, construindo uma observabilidade de sistema implacável ao nível de Arquiteto Sênior."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "observability-logging-protocol"]
 ---

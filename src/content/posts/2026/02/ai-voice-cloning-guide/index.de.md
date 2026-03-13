@@ -4,7 +4,7 @@ title: " \"AI 성대모사(TTS): 내 목소리를 아이유로 바꾸는 법\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "크리에이티브/예술"
+category: "General"
 description: "Ein Leitfaden, wie du deine Stimme mit RVC-Technologie veränderst und hochwertiges TTS mit der Stimme von Berühmtheiten erstellst."
 tags: ["TTS", "성대모사", "RVC", "AI음성", "목소리변조"]
 ---

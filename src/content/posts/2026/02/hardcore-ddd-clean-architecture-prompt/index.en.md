@@ -4,7 +4,7 @@ title: "No More Spaghetti Code: The DDD Cheat Code to Forcibly Upgrade AI into a
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "A senior architect's strict AI prompt that cuts out useless flattery and forces the model to write pure, production-ready business logic."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ddd-architecture"]
 ---

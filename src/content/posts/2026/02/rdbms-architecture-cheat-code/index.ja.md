@@ -4,7 +4,7 @@ title: "🔥 AIのデタラメを打ち砕くRDBMSアーキテクチャ絶対憲
 author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "AI 프롬프트"
+category: "General"
 description: "AIにスパゲッティDBを作らせないための、シニアバックエンドエンジニアによる無慈悲なRDBMSガイドライン。"
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "rdbms-architecture"]
 ---

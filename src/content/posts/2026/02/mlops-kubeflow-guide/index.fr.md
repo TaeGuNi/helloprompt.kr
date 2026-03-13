@@ -4,9 +4,9 @@ title: " \"머신러닝 모델 배포: MLOps (Kubeflow) 가이드\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "AI/개발"
+category: "General"
 description: "Fini les modèles d'IA limités au local. Découvrez le guide ultime pour transformer vos notebooks en un pipeline de production automatisé et robuste."
-tags: ["MLOps", "Kubeflow", "머신러닝", "배포", "파이프라인"]
+tags: ["MLOps", "Kubeflow", "Machine Learning", "배포", "파이프라인"]
 ---
 
 ## 🤖 Déploiement de Modèles de Machine Learning : Le Guide MLOps (Kubeflow) {#kubeflow}

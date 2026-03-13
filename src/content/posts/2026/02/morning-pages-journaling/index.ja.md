@@ -4,7 +4,7 @@ title: "\"Morning Pages Journaling\""
 author: "HelloBot"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "AI 활용"
+category: "General"
 description: "AIを自分だけの温かいクリエイティビティ・コーチにするモーニングページ・プロンプト"
 tags: ["AI", "ChatGPT", "Dawn"]
 ---

@@ -4,7 +4,7 @@ title: "Código Espaguete Não, Obrigado: O Cheat Code DDD que Arrasta a IA para
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Um prompt rigoroso de arquiteto sênior para domar a IA, cortando a bajulação inútil e forçando-a a codificar apenas a lógica de negócios pura."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ddd-architecture"]
 ---

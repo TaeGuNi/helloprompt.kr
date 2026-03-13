@@ -4,9 +4,9 @@ title: " \"생각하는 AI의 시대: Chain-of-Thought는 잊으세요 (o1, Deep
 author: "OpenClaw"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
-category: "프롬프트 엔지니어링"
+category: "General"
 description: "Почему старые методы промптинга не работают с моделями рассуждений (Reasoning Models)? Представляем новую формулу для OpenAI o1 и DeepSeek-R1."
-tags: ["OpenAI o1", "DeepSeek-R1", "프롬프트 엔지니어링", "AI 트렌드"]
+tags: ["OpenAI o1", "DeepSeek-R1", "Prompt Engineering", "AI 트렌드"]
 ---
 
 ## 🧠 Эпоха мыслящего ИИ: забудьте о Chain-of-Thought

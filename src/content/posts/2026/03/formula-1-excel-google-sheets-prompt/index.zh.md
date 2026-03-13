@@ -4,7 +4,7 @@ title: "🏎️ 告别 Excel 公式(Formula)烦恼：1 秒完成的 F1 级提示
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "彻底告别 VLOOKUP 和 INDEX MATCH 地狱。为您揭秘一秒内精准生成各种复杂 Excel 公式的实战提示词。"
 tags: ["prompt-engineering", "ai-agent", "formula-1"]
 image: "/images/hooks/formula-1-excel-google-sheets-prompt.jpg"

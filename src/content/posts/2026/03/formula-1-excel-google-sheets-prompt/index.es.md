@@ -4,7 +4,7 @@ title: "🏎️ Adiós a los problemas con fórmulas de Excel: un prompt nivel F
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Escapa del infierno de VLOOKUP e INDEX MATCH. Descubre el prompt definitivo que genera fórmulas de Excel precisas y complejas en solo un segundo."
 tags: ["prompt-engineering", "ai-agent", "formula-1"]
 image: "/images/hooks/formula-1-excel-google-sheets-prompt.jpg"

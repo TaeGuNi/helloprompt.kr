@@ -1,116 +1,164 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Servizio Ghostwriting Lettere: Dalla Dichiarazione d'Amore al Rifiuto Educato"
+title: "Servizio di Scrittura Lettere: Dalla Dichiarazione d'Amore ai Rifiuti Cortesi"
 author: "Jay"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
-category: "Creazione & Hobby"
-description: "Esprimi per iscritto ciò che è difficile dire a parole. L'IA scriverà la lettera perfetta, adattandosi alla situazione e al destinatario."
-tags: ["Scrittura", "Lettera", "Amore", "Scusa", "Rifiuto"]
+date: "2026-02-07T09:10:33.125Z"
+updatedDate: "2026-02-07T09:10:33.125Z"
+category: "Creative & Hobbies"
+description: "Scopri i prompt AI per scrivere lettere perfette: rifiuti, addii o scuse. Esprimi i tuoi sentimenti senza malintesi in un solo minuto."
+tags: ["Writing", "편지", "연애", "사과", "거절"]
 ---
 
-## 📝 Servizio Ghostwriting Lettere: Dalla Dichiarazione d'Amore al Rifiuto Educato
+## 📝 Servizio di Scrittura Lettere: Dalla Dichiarazione d'Amore ai Rifiuti Cortesi
 
-- **🎯 Consigliato per:** Tutti, specialmente per chi fatica a esprimere le proprie emozioni o deve affrontare conversazioni scomode
-- **⏱️ Tempo richiesto:** 30 minuti → 1 minuto
-- **🤖 Modello consigliato:** ChatGPT, Claude 3, Gemini (Tutti i modelli conversazionali)
+- **🎯 Target ideale:** Chiunque debba comunicare emozioni delicate come rifiuti, scuse o dichiarazioni d'amore.
+- **⏱️ Tempo richiesto:** Da oltre un'ora (tempo di riflessione) → ridotto a 1 minuto.
+- **🤖 Migliori prestazioni:** Si raccomanda l'uso di modelli di ragionamento avanzati (Claude 3.5 Sonnet caldamente consigliato).
 
-- ⭐ **Difficoltà:** ⭐⭐☆☆☆
+- ⭐ **Difficoltà:** ⭐☆☆☆☆
 - ⚡️ **Efficacia:** ⭐⭐⭐⭐⭐
-- 🚀 **Utilità:** ⭐⭐⭐⭐☆
+- 🚀 **Versatilità:** ⭐⭐⭐⭐⭐
 
-> _"Come faccio a dirgli che è finita senza ferirlo troppo?", "Come posso rifiutare educatamente la richiesta di prestito di un amico?"_
+> _"Come rifiutare un prestito a un amico senza ferirlo, come comunicare una rottura con meno dolore... La mente è affollata, ma non riuscite a scrivere nemmeno la prima riga?"_
 
-Ci sono momenti nella vita in cui un messaggio scritto ha un peso nettamente superiore rispetto alle parole dette a voce. Tuttavia, quando le emozioni prendono il sopravvento, è facile perdere il filo del discorso, finendo per risultare confusi o, nel peggiore dei casi, eccessivamente aggressivi. Quando ti trovi a dover camminare sul filo del rasoio tra la necessaria distanza e il calore umano, lascia che sia l'IA a farti da _ghostwriter_.
+Nella vita arrivano momenti decisivi in cui le parole scritte sono necessarie, o in cui solo lo scritto può trasmettere ciò che serve. Spesso ci ritroviamo davanti a una chat di WhatsApp o a un'email vuota, fissando il cursore che lampeggia per decine di minuti, o addirittura ore, immersi in riflessioni tormentate.
+
+**"Se uso questa parola, si offenderà?"**
+**"E se suonassi troppo freddo?"**
+**"D'altra parte, se non sono chiaro, me lo chiederà di nuovo..."**
+
+Soprattutto quando un caro amico chiede improvvisamente un prestito importante, quando bisogna comunicare un addio a un partner senza ferirlo ulteriormente, o quando è necessario scrivere scuse sincere a un superiore o a un cliente per un errore critico sul lavoro, veniamo assaliti da uno stress e da una pressione enormi. Questo accade perché il timore di rovinare una relazione preziosa si scontra con l'obiettivo opposto di raggiungere il proprio scopo (rifiuto, rottura, scuse) in modo fermo.
+
+In queste situazioni delicate, i problemi più critici che affrontiamo sono l'**"eccesso di emotività"** e la **"perdita di oggettività"**. Scrivere in uno stato di agitazione — che sia ansia, senso di colpa o rabbia — porta spesso a frasi confuse e inutilmente lunghe nel tentativo di difendere la propria posizione. A volte finiamo per dare spiegazioni patetiche, altre volte, per paura di essere fraintesi, diventiamo così razionali e asciutti da sembrare persone senza cuore.
+
+Spesso ci illudiamo pensando: "Se scrivo così, capirà la mia sincerità", ma un testo scritto è privo dell'espressione facciale e del tono di voce di chi parla, correndo il rischio di essere interpretato in modo opposto a seconda dello stato d'animo del destinatario. Abbiamo visto innumerevoli volte come una frase maldestra o una parola sbagliata possano recidere un'amicizia decennale o scatenare litigi emotivi irreversibili.
+
+**Camminare su quel filo sottile tra freddezza e calore per trovare l'equilibrio perfetto** non deve più essere un tormento solitario di notti insonni passate a scrivere e cancellare.
+
+La soluzione più rapida, saggia e sicura è delegare la stesura della bozza a un **"Ghostwriter AI" che filtri perfettamente le tue emozioni e utilizzi solo frasi calcolate meticolosamente**. Questo prompt non è un semplice strumento di supporto alla scrittura. È il perfetto **"Ammortizzatore Emotivo (Emotional Buffer)"** che calma i tuoi sentimenti confusi e previene la rottura delle relazioni.
+
+Un'IA dotata di un prompt avanzato utilizza il messaggio principale (rifiuto, scuse, dichiarazione, ecc.) come struttura portante e aggiunge sostanza scegliendo il vocabolario più raffinato ed elegante per minimizzare il dispiacere dell'altro. Calcola persino le sfumature sottili che un essere umano potrebbe trascurare, trovando con precisione la temperatura ottimale: né troppo fredda, né troppo pesante.
+
+Introducendo questo prompt nella tua vita quotidiana e professionale, la tua esistenza diventerà sorprendentemente serena. Invece di scervellarti, potrai ricevere in un solo minuto una bozza di lettera logica, calorosa e perfettamente bilanciata.
+
+Su una bozza già dotata di una struttura solida e di un linguaggio fluido, dovrai solo aggiungere **uno o due cucchiai di piccoli dettagli o ricordi unici** che solo tu e il destinatario conoscete. Sperimenta ora il meraviglioso cambiamento: liberati dal peso che ti opprimeva il petto per giorni e premi il pulsante "Invia" con la massima serenità. Una comunicazione chiara e priva di malintesi proteggerà ancora di più i tuoi legami preziosi.
+
+---
+
+## 📊 Dopo la prova: Risultati evidenti (Before & After)
+
+Abbiamo ipotizzato una situazione difficile in cui bisogna rifiutare cortesemente una richiesta di prestito di denaro da parte di un migliore amico da 10 anni.
+
+### ❌ Before (Il dolore che provavamo)
+
+Una frase rischiosa ed emotiva che si limita a elencare la propria situazione o rifiuta in modo troppo duro, rischiando di ferire profondamente l'amico.
+
+```text
+야 나도 요즘 힘들어. 대출 이자 내기도 빠듯한데 어떻게 빌려주냐. 미안한데 딴 데 알아봐.
+```
+
+### ✅ After (Il risultato della trasformazione)
+
+Il risultato applica un **perfetto cuscinetto emotivo** che chiarisce l'intenzione del rifiuto pur mostrando sincera empatia e conforto per la difficile situazione dell'amico.
+
+```text
+지훈아, 급하게 연락 준 걸 보니 많이 답답하고 힘든 상황인가 보네. 내가 어떻게든 도움을 줄 수 있으면 정말 좋겠지만, 나도 최근에 전세 대출 이자가 확 올라서 매달 여유 자금을 융통하기가 너무 빠듯한 상황이야.
+
+정말 아끼는 친구 부탁인데 당장 실질적인 도움을 주지 못해서 너무 미안하다. 네가 겪고 있는 일이 하루빨리 잘 해결되기를 진심으로 바랄게. 마음고생 많을 텐데, 언제 밥이나 술 한잔하면서 이야기라도 털어놔.
+```
 
 ---
 
 ## ⚡️ Riassunto in 3 righe (TL;DR)
 
-1. Definisci chiaramente il destinatario e lo scopo del messaggio (es. dichiarazione d'amore, scuse, rifiuto formale).
-2. L'IA elabora una bozza con il tono di voce più adeguato (rispettoso, addolorato, distaccato o fermo), bilanciando perfettamente le emozioni.
-3. Inserisci dettagli personali o aneddoti specifici per rendere il testo autentico e profondamente umano.
+1. **Definizione chiara di situazione e relazione:** Bisogna impostare correttamente per l'IA la relazione con il destinatario e lo scopo principale dello scritto (rifiuto, scuse, ecc.).
+2. **Regolazione fine di tono e stile:** È possibile controllare minuziosamente la temperatura emotiva delle frasi indicando il tono desiderato: cortese, fermo, accorato, ecc.
+3. **Aggiunta del tocco umano (dettagli):** Sulla bozza scritta dall'IA, aggiungi uno o due episodi specifici o parole chiave che solo voi due conoscete per eliminare la sensazione meccanica e completare la sincerità.
 
 ---
 
-## 🚀 La Soluzione: "Il Ghostwriter del Cuore"
+## 🚀 I veri esperti scrivono così
 
-### 🥉 Versione Base (Rapida)
+Ecco il prompt completato dopo dozzine di tentativi. Copia il prompt qui sotto e compila le parti tra `[parentesi]` in base alla tua situazione per utilizzarlo immediatamente.
 
-Usala quando hai bisogno di una bozza veloce senza troppi dettagli.
+### 🥉 Basic Version (Versione base)
 
-> **Ruolo:** Sei un consulente relazionale e un ghostwriter professionista, esperto nel toccare il cuore delle persone con le parole giuste.
-> **Richiesta:** Devo inviare un messaggio per `[Scopo/Situazione]`. Scrivi una lettera adatta al destinatario: `[Destinatario]`.
+Utilizzalo quando hai bisogno rapidamente di una bozza con una sfumatura generale.
 
-### 🥇 Versione Pro (Avanzata)
+> **Ruolo (Role):** Sei un consulente psicologico che tocca delicatamente il cuore delle persone e uno scrittore di lettere di successo.
+> 
+> **Richiesta (Task):** Scrivi un messaggio per `[conoscente]` per `[rifiutare cortesemente una richiesta di prestito di denaro]`. Fa' in modo che non suoni troppo freddo, ma comunica chiaramente la mia intenzione.
 
-Ideale per le situazioni delicate in cui ogni parola conta e il tono deve essere perfetto. Copia il contenuto del prompt qui sotto e riempi i campi.
+### 🥇 Pro Version (Versione esperto)
 
-> **Ruolo (Role):** Sei un esperto in comunicazione empatica, mediatore relazionale e ghostwriter professionista.
+Questo prompt è caldamente consigliato quando è necessario un approccio strategico e dettagliato per raggiungere perfettamente il proprio scopo senza offendere l'altro.
+
+> **Ruolo (Role):** Sei un consulente psicologico e un ghostwriter professionista che comprende perfettamente le sottili sfumature delle relazioni umane. Devi scrivere calcolando persino le emozioni che l'altro proverà per ogni singola parola.
 >
-> **Contesto (Context):**
-> Devo inviare una lettera o un messaggio molto importante a `[Destinatario]`. Il mio obiettivo è che i miei sentimenti e le mie intenzioni arrivino in modo chiaro, senza essere fraintesi.
+> **Contesto (Context):** Sto per inviare una lettera/messaggio importante a `[destinatario]`. È una situazione molto delicata in cui la mia sincerità non deve essere distorta e deve essere trasmessa bene affinché l'altro non fraintenda.
 >
-> **Dettagli del Messaggio:**
->
-> - **Destinatario:** `[es. il mio partner da 3 anni / un amico che mi ha chiesto dei soldi / il mio capo]`
-> - **Scopo principale:** `[es. superare un momento di crisi / rifiutare educatamente la richiesta di prestito / rassegnare le dimissioni]`
-> - **Il mio stato d'animo / Atteggiamento:** `[es. dispiaciuto ma irremovibile / grato e affettuoso ma stanco]`
-> - **Dettagli fondamentali da includere:** `[es. ricorda l'ultimo viaggio fatto insieme / fai presente che attualmente ho delle spese mediche impreviste]`
+> **Informazioni sulla lettera:**
+> - **Destinatario:** `[es: Amico da 10 anni, partner da 3 anni, collega poco stretto, referente commerciale]`
+> - **Scopo principale:** `[es: Rifiuto cortese di un prestito, avvertimento fermo per errori ripetuti, richiesta di dialogo onesto per superare una crisi di coppia]`
+> - **Miei sentimenti e atteggiamento:** `[es: Dispiaciuto ma costretto perché anche la mia situazione è difficile, arrabbiato ma razionale, grato e affettuoso ma comunico la rottura]`
+> - **Contenuti/episodi da includere assolutamente:** `[es: La scusa che recentemente sono aumentati gli interessi del mio mutuo, il litigio durante l'ultimo viaggio a Jeju]`
 >
 > **Richiesta (Task):**
->
-> 1. Scrivi un messaggio **naturale, sincero e fluido** che incorpori tutte le informazioni sopra elencate.
-> 2. Assicurati che il destinatario non si senta attaccato, ma comprenda in modo cristallino le mie intenzioni.
-> 3. Forniscimi due opzioni diverse:
->    - **Opzione 1:** Tono morbido, empatico e rassicurante.
->    - **Opzione 2:** Tono diretto, professionale e irremovibile.
+> 1. Rifletti tutte le condizioni sopra indicate e scrivi una **bozza di lettera naturale e sincera**.
+> 2. Componi le frasi in modo da offendere il meno possibile chi legge, rendendo però la mia intenzione (rifiuto, scuse, addio, ecc.) chiara al 100% senza ambiguità.
+> 3. Scrivi due versioni tra cui scegliere in base alla situazione: **Versione 1 (Tono morbido e indiretto)** e **Versione 2 (Tono chiaro e diretto)**.
 >
 > **Vincoli (Constraints):**
->
-> - Evita frasi fatte o toni eccessivamente robotici.
-> - Usa un linguaggio colloquiale ma rispettoso, adatto a un madrelingua italiano, senza sembrare una traduzione automatica.
+> - Non usare assolutamente espressioni di traduzione meccanica che facciano capire che è stata scritta da un'IA (es: "Spero nella tua comprensione", "Ti informo tramite questo scritto").
+> - Usa un linguaggio colloquiale naturale che si adatti perfettamente alla sensibilità delle chat (WhatsApp/Telegram) o delle email quotidiane.
 
 ---
 
-## 💡 Commento dell'Autore (Insight)
+## 💡 Commento dell'autore (Insight & How to use)
 
-Questa struttura di prompt è un vero e proprio "salvavita" per la gestione dei conflitti e delle comunicazioni scomode. Spesso, quando siamo coinvolti emotivamente, tendiamo a usare un linguaggio difensivo o passivo-aggressivo. Delegando all'IA la prima stesura, creiamo una "distanza di sicurezza" emotiva che ci permette di valutare oggettivamente il messaggio.
-Il trucco per far funzionare questo prompt alla perfezione risiede nella sezione "Dettagli fondamentali da includere": l'IA può simulare l'empatia, ma solo i tuoi ricordi o i fatti specifici daranno alla lettera quell'autenticità necessaria per convincere il destinatario che l'abbia scritta interamente tu.
+L'arma più potente e la filosofia centrale di questo prompt è l'**"Esternalizzazione delle emozioni (Outsourcing Emotion)"**. Poiché gli esseri umani sono creature emotive, non possono scrivere in modo oggettivo e razionale quando sono sopraffatti da stress estremo, senso di colpa o rabbia. Un testo scritto in uno stato di agitazione può dare sollievo sul momento, ma rischia di diventare un ricordo imbarazzante il giorno dopo o un'arma che lascia ferite indelebili nell'altro.
+
+Affidare prima la bozza all'IA è un processo di filtraggio delle proprie emozioni attraverso il filtro più sicuro e logico. L'IA ci restituisce la ragione e la logica che abbiamo perso a causa delle emozioni, diventando il miglior **scudo** per gestire dolcemente la situazione con frasi ordinate.
+
+Soprattutto in scritture difficili che richiedono contemporaneamente **"Giustificazione (Justification)"** ed **"Empatia (Empathy)"**, come rifiuti, scuse o addii, la capacità dell'IA brilla superando di gran lunga i limiti umani. Ad esempio, invece di espressioni unidimensionali e asciutte come "Non ho soldi" o "Mi dispiace", genera frasi che fungono da **ammortizzatore**, portando l'altro ad annuire e ad accettare senza risentimento. Consola prima la situazione difficile dell'altro e spiega in modo logico, ma con tono caloroso, che ci sono vincoli realistici che impediscono di aiutare.
+
+**Ecco però il consiglio più importante: non copiare mai parola per parola il testo scritto dall'IA per inviarlo così com'è.**
+
+Per quanto l'IA possa scrivere con una grammatica perfetta e un vocabolario splendido, mancherà sempre il **"calore umano"**. Prendi in prestito la struttura e le frasi ordinate dell'IA, ma aggiungi assolutamente **uno o due piccoli dettagli personali condivisi solo da te e dal destinatario**.
+
+Ad esempio, nella variabile `[Contenuti/episodi da includere assolutamente]`, inserisci "il fatto che recentemente sei stato ricoverato in ospedale per una gastrite". Oppure cambia la prima riga della bozza sostituendo il nome con il soprannome che usi abitualmente. Aggiungendo un ricordo estremamente personale come "Ti ricordi quando siamo andati in viaggio e abbiamo bucato una gomma dell'auto a noleggio?", la sfumatura meccanica svanisce all'istante. Il destinatario lo riceverà come un testo scritto con profonda sincerità dopo averci riflettuto tutta la notte, e questo piccolo **"Tocco Umano (Human Touch)"** eleverà la qualità del prompt al massimo livello.
+
+**Consiglio pratico sul controllo delle variabili (Variable Control):**
+La variabile `[Miei sentimenti e atteggiamento]` è il comando più importante che determina l'atmosfera generale del testo. Invece di scrivere semplicemente "con fermezza", otterrai una qualità di output esponenzialmente superiore se darai istruzioni dettagliate sulle sfumature emotive, come: **"Dispiaciuto e rammaricato, ma con fermezza e chiarezza sul fatto che non posso assolutamente prestare denaro a causa dei miei limiti realistici"**. Più sarai onesto e specifico con l'IA sui tuoi veri sentimenti, meglio essa saprà rappresentare il tuo cuore.
+
+Infine, per questo tipo di scrittura che richiede sfumature emotive e delicate, consiglio vivamente di utilizzare il modello **Claude 3.5 Sonnet di Anthropic** rispetto a ChatGPT. Tra i modelli AI esistenti, la capacità di Claude di leggere le sottili linee emotive e di usare un linguaggio colloquiale naturale non troppo artificiale è senza dubbio la migliore. Svuota subito la tua mente confusa e incolla questo prompt nella chat di Claude. Vivrai la magia di risolvere i tuoi dilemmi in un solo minuto.
 
 ---
 
 ## 🙋 Domande Frequenti (FAQ)
 
-- **Q: Rischio di sembrare artificiale o robotico inviando un testo generato dall'IA?**
-  - A: Se usi la Versione Pro, l'IA creerà un'ottima struttura di base. Tuttavia, il tocco finale spetta sempre a te. Modifica qualche parola, inserisci un'espressione tipica che usi di solito e assicurati che il ritmo rispecchi fedelmente il tuo modo di parlare.
+- **Q: Ho paura che si capisca che è stato scritto da un'IA e ho timore di inviarlo.**
+  - A: È proprio per questo che la variabile `[Contenuti/episodi da includere assolutamente]` è fondamentale. Inserendo un ricordo specifico, un evento passato o un nome proprio condiviso solo dalle due persone, la sensazione meccanica tipica dell'IA scompare. Anche specificare la 'sensibilità delle chat quotidiane' nei vincoli finali è un meccanismo di difesa chiave per prevenire toni di traduzione rigidi e ottenere un linguaggio colloquiale naturale.
 
-- **Q: Posso usare questo prompt anche per email di lavoro molto formali?**
-  - A: Assolutamente sì. Basta modificare il campo "Destinatario" (es. "Amministratore Delegato") e il campo "Atteggiamento" (es. "Estremamente formale, deferente ma sicuro di sé"). L'IA adatterà il registro linguistico istantaneamente.
-
----
-
-## 🧬 Anatomia del Prompt (Perché funziona?)
-
-1. **Gestione del Registro Emotivo:** Richiedendo esplicitamente "Il mio stato d'animo / Atteggiamento", costringiamo l'IA a ricalibrare gli aggettivi e la punteggiatura per rispecchiare l'emozione corretta, evitando il temuto effetto "robot distaccato".
-2. **Doppia Opzione Strategica (A/B Testing Emotivo):** Chiedendo due versioni (Morbida e Diretta), ti diamo la possibilità di scegliere quale livello di assertività sia più adatto al momento, o perfino di mescolare le due varianti per ottenere un testo intermedio su misura.
-3. **Vincolo Anti-Traduzione:** Il vincolo di "non sembrare una traduzione" è fondamentale per le IA, che altrimenti producono spesso testi in italiano ricalcando pedissequamente strutture grammaticali inglesi.
+- **Q: Posso usarlo anche per email di lavoro molto formali a superiori o clienti?**
+  - A: Certamente. Funziona perfettamente. Cambia il `[Destinatario]` in 'superiore' o 'referente commerciale importante' e modifica `[Miei sentimenti e atteggiamento]` in 'il più educato e formale possibile, ma difendendo chiaramente le nostre ragioni', ecc. Estrarrà in modo sorprendentemente pulito bozze di email pesanti come scuse formali o dimissioni.
 
 ---
 
-## 📊 Prova: Prima e Dopo
+## 🧬 Anatomia del Prompt (Why it works?)
 
-### ❌ Prima (Bozza di getto - Rifiuto prestito)
-
-"Scusa, ma non ho soldi da darti. Non posso prestarteli."
-> _(Rischio elevato di sembrare insensibili e incrinare irreparabilmente l'amicizia)_
-
-### ✅ Dopo (Ghostwriting IA - Tono Morbido)
-
-"Ciao `[Nome]`, ti ringrazio per avermi scritto e mi dispiace moltissimo sentire che ti trovi in una situazione così urgente. Vorrei davvero poterti dare una mano, ma purtroppo in questo periodo sono molto in difficoltà anche io con le spese e sto cercando di risparmiare per saldare un prestito. Mi fa malissimo non poter aiutare un amico così caro. Spero con tutto il cuore che la situazione si risolva al più presto per il meglio."
+1. **Massimizzazione della Persona:** Abbiamo assegnato all'IA il ruolo di **"Consulente Psicologico"** oltre a quello di semplice scrittore. Ciò spinge l'IA a regolare minuziosamente la scelta delle parole per minimizzare l'impatto emotivo sul destinatario.
+2. **Strutturazione chiara delle variabili (Conforme a RTFC):** Abbiamo separato in blocchi indipendenti il target, lo scopo, l'atteggiamento e gli episodi. Questo design permette all'IA di costruire una struttura solida (scopo) e di aggiungere dettagli (episodi, atteggiamento) in modo più tridimensionale e coerente.
+3. **Fornitura di opzioni multiple (Task 3):** Nelle relazioni umane, a volte è necessario un rifiuto morbido e indiretto, altre volte una delimitazione netta per evitare malintesi. Chiedendo contemporaneamente due toni opposti, diamo all'utente la libertà di scegliere la temperatura più adatta alla situazione attuale.
 
 ---
 
-## 🎯 Conclusione
+## 🎯 Conclusione (Epilogue)
 
-La scrittura è come un contenitore che ospita i nostri sentimenti. Non lasciare che un'emozione fuori controllo o la mancanza delle parole giuste rovinino una relazione importante. Metti la tua sincerità in un contenitore ben rifinito, intatto, e consegnalo con cura. 💌
+La scrittura è un contenitore prezioso che racchiude il cuore di una persona. A seconda del tipo di parola utilizzata per lo stesso sentimento, essa può diventare un'arma tagliente che ferisce profondamente, oppure un caldo conforto che scioglie all'istante anche un cuore gelato.
+
+Non logorarti più emotivamente davanti allo schermo vuoto della chat. Lascia che sia l'IA razionale a modellare con precisione il contenitore di frasi belle e resistenti. Il tuo unico compito è lasciar cadere in quel contenitore una goccia della tua sincerità e un cucchiaino del tuo calore umano.
+
+Da oggi, invia con la massima leggerezza anche quei messaggi difficili e pesanti che temevi di rispondere, in un solo minuto. Faccio il tifo affinché la tua sincerità arrivi perfettamente senza malintesi! 💌
+
+Automatizza il tuo lavoro e goditi il tuo tempo libero! 🍷

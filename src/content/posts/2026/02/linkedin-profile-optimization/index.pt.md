@@ -1,128 +1,168 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "Prompt de Otimização de Perfil do LinkedIn: Atraindo Headhunters"
+title: "Prompts de Otimização de Perfil no LinkedIn para atrair Headhunters"
 author: "Jay"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
-category: "Carreira e Mudança de Emprego"
-description: "Multiplique suas propostas de emprego em 10x com um Título (Headline) otimizado em SEO e uma seção Sobre (About) irresistível para recrutadores."
-tags: ["LinkedIn", "Otimização de Perfil", "Headhunting", "Marca Pessoal"]
+date: "2026-02-07T09:10:33.166Z"
+updatedDate: "2026-02-07T09:10:33.166Z"
+category: "Carreira & Transição"
+description: "O prompt perfeito para criar títulos e resumos (About) que captam o radar dos top 1% headhunters e aumentam em 10x os convites de recrutamento (InMail)."
+tags: ["LinkedIn", "OtimizaçãoDePerfil", "Headhunting", "PersonalBranding"]
+image: "/images/hooks/linkedin-profile-optimization.jpg"
 ---
 
-## 📝 Prompt de Otimização de Perfil do LinkedIn: Crie uma Fila de Headhunters
+## 📝 Prompts de Otimização de Perfil no LinkedIn para atrair Headhunters
 
-- **🎯 Recomendado para:** Profissionais de todos os níveis (de Juniores a Seniores)
-- **⏱️ Tempo necessário:** 5 minutos
-- **🤖 Modelo recomendado:** Qualquer modelo de IA conversacional (ChatGPT, Claude, Gemini, etc.)
+- **🎯 Público-alvo:** Profissionais em busca de transição de carreira, freelancers que precisam de personal branding, candidatos a emprego
+- **⏱️ Tempo economizado:** De 30 minutos → para 5 minutos
+- **🤖 Desempenho máximo:** GPT-4o, Claude 3.5 Sonnet (fortes em escrita lógica e storytelling)
 
 - ⭐ **Dificuldade:** ⭐⭐☆☆☆
 - ⚡️ **Eficácia:** ⭐⭐⭐⭐⭐
 - 🚀 **Utilidade:** ⭐⭐⭐⭐☆
 
-> _"Enquanto outros profissionais mudam de emprego com facilidade pelo LinkedIn, por que a sua caixa de entrada continua vazia?"_
+> _"Dizem que os outros recebem ótimas propostas pelo LinkedIn, mas por que minha caixa de entrada (InMail) está tão silenciosa?"_
 
-O LinkedIn há muito tempo deixou de ser um simples depósito de currículos para se consolidar como um poderoso **motor de busca (Search Engine)**. Para deixar de ser invisível na multidão, você precisa injetar estrategicamente as exatas palavras-chave que os recrutadores utilizam, focando implacavelmente no seu **Título (Headline)** e na seção **Sobre (About)**. Chegou a hora de transformar a IA no seu especialista particular em SEO, totalmente dedicado a alavancar a sua carreira.
+Todas as manhãs, no metrô lotado a caminho do trabalho, você abre o aplicativo do LinkedIn e sente aquele aperto no peito? Colegas se gabam de "receber novas propostas de cargo" ou de "fazer coffee chats com recrutadores de empresas globais", enquanto as visitas ao seu perfil permanecem em '0' há uma semana. Você tem seu currículo em PDF perfeitamente polido e guardado no HD, mas deixou sua conta do LinkedIn — onde as oportunidades do mundo inteiro circulam em tempo real — acumular poeira desde que se cadastrou?
+
+Provavelmente, você já está cansado da busca passiva por emprego: vasculhar anúncios em portais de vagas toda vez que decide mudar de ares, enviar seu currículo para posições óbvias onde todos se candidatam e esperar ansiosamente pelos resultados. Enquanto isso, outros profissionais parecem receber propostas tentadoras e InMails de **headhunters de alto nível** de grandes empresas de tecnologia sem mover um dedo. O silêncio na sua caixa de mensagens pode ser frustrante.
+
+A causa dessa situação trágica não é a falta de habilidade ou experiência. É simplesmente porque seu perfil está escondido, incapaz de ser captado pelo minucioso **Radar de Busca (Search Radar)** dos recrutadores.
+
+Entenda uma coisa: o LinkedIn não é apenas um repositório de currículos online ou um porta-cartões digital. É o **maior e mais poderoso motor de busca (SEO) e plataforma de recrutamento de negócios existente, onde mais de 800 milhões de usuários e milhões de recrutadores usam algoritmos diariamente para encontrar talentos ocultos**.
+
+Não importa se você gerou receitas incríveis ou liderou projetos espetaculares na prática; se as **'Palavras-chave' (Keywords)** que os recrutadores digitam na barra de busca não estiverem estrategicamente posicionadas no seu **Título (Headline)** e na seção **Sobre (About)**, nada disso adiantará. Você será classificado pelo algoritmo do sistema como um 'homem invisível', perdendo-se eternamente nas últimas páginas de uma lista de milhares de candidatos.
+
+Mas a era da busca de emprego à moda antiga acabou. É hora de dar à IA generativa o papel de **consultor sênior de recrutamento e especialista em personal branding do Vale do Silício** para transformar seu perfil estagnado em uma proposta irresistível do top 1% do mercado.
+
+Jogue no lixo as listas de textos chatos e secos como "Fui responsável por X na empresa Y". A IA fundirá suas experiências fragmentadas, projetos que pareciam irrelevantes e suas principais habilidades em uma arma poderosa, tecendo um **storytelling avassalador** que fará o recrutador parar o mouse assim que ler a primeira frase. Além disso, ela usará a engenharia reversa do funcionamento dos algoritmos de busca premium (Recruiter Lite) para realizar um **ajuste preciso de SEO**, garantindo que seu perfil apareça no **topo (Top Tier)** dos resultados de busca para o cargo desejado.
+
+Invista apenas 5 minutos inserindo seus dados de cargo atual e conquistas nos prompts deste guia. O sofrimento de não saber o que escrever diante de uma tela em branco desaparecerá para sempre. Amanhã de manhã, você poderá acordar com sua caixa de entrada fervendo com propostas de cargos exclusivos e convites para reuniões enviados por headhunters que representam as melhores empresas do setor. Prepare-se para uma **transformação emocionante na sua carreira**.
 
 ---
 
-## ⚡️ Resumo de 3 Linhas (TL;DR)
+## 📊 Prova: Resultados Impactantes (Antes & Depois)
 
-1. Identifique e injete as palavras-chave mais quentes do seu setor, alinhadas ao seu cargo e stack de habilidades.
-2. Gere 3 variações magnéticas de Título (Headline) projetadas para disparar a sua taxa de cliques (CTR).
-3. Crie uma seção Sobre (About) ancorada em storytelling, dando total protagonismo ao seu impacto real e às suas maiores conquistas.
+A diferença entre um prompt comum e um prompt totalmente otimizado é clara. Veja como captar a atenção de um headhunter de verdade.
+
+### ❌ Antes (O modo comum)
+
+Um texto de perfil comum, que parece apenas uma cópia colada do currículo.
+
+```text
+Headline: Planejador na Empresa OOO
+About: Trabalho com planejamento na Empresa OOO há 3 anos.
+Sou responsável por criar especificações de tela e gerenciar cronogramas. Sou esforçado e tenho boa comunicação.
+```
+
+### ✅ Depois (O resultado da transformação)
+
+![Resultado que atrai headhunters](/images/hooks/linkedin-profile-optimization.jpg)
+
+```text
+Headline: 🚀 Product Manager B2B SaaS (3 anos) | UX Otimizado por Dados | Redução de 30% no Churn Inicial
+About: "Eu projeto a voz real do usuário por trás dos dados."
+
+Não sou apenas um planejador que desenha telas. Sou um Product Manager que cria impacto nos negócios, formulando hipóteses baseadas em números e colaborando organicamente com equipes de desenvolvimento e design.
+
+[Principais Conquistas]
+✔️ Redução de 30% na taxa de cancelamento (churn) de novos usuários através da reformulação total do processo de onboarding.
+✔️ Aumento de 20% na velocidade de entrega de projetos ao liderar e implementar sprints ágeis.
+
+Estou sempre em busca de proporcionar a melhor experiência ao usuário. Convites para um café sobre novos desafios são sempre bem-vindos! ☕️
+```
 
 ---
 
-## 🚀 Solução: "Otimizador de Perfil do LinkedIn"
+## ⚡️ Resumo em 3 linhas (TL;DR)
 
-### 🥉 Versão Básica (Basic Version)
+1. **Extração de Palavras-chave:** Analisa seu cargo e habilidades para extrair as palavras-chave de SEO com maior volume de busca por recrutadores.
+2. **Otimização de Título:** Gera títulos (Headline) poderosos baseados em 3 conceitos estratégicos para incentivar o clique imediato.
+3. **Resumo com Storytelling:** Vai além de uma lista de experiências, criando um resumo (About) em primeira pessoa que destaca sua filosofia de trabalho e conquistas específicas.
 
-Ideal para quem precisa de um ponto de partida rápido e eficiente.
+---
 
-> **Papel:** Você é um headhunter global e um especialista em SEO focado no LinkedIn.
-> **Pedido:** Crie um Título (Headline) otimizado para o algoritmo de buscas e uma seção Sobre (About) altamente atrativa com o objetivo de multiplicar as minhas propostas de emprego por 10. Aqui estão as minhas informações: `[Seu Cargo e Habilidades]`
+## 🚀 Profissionais de verdade escrevem assim
 
-### 🥇 Versão Pro (Pro Version)
+Este prompt foi refinado após dezenas de tentativas. Copie o prompt abaixo e preencha apenas as partes em `[colchetes]` de acordo com sua situação.
 
-Utilize esta versão para construir um perfil de altíssimo impacto, milimetricamente otimizado e rico em detalhes.
+### 🥉 Versão Básica (Basic)
 
-> **Papel (Role):** Você é um headhunter executivo de nível global e um mestre em SEO e nos algoritmos do LinkedIn.
+Use quando quiser estruturar rapidamente a base do seu perfil.
+
+> **Papel (Role):** Você é um consultor sênior de recrutamento de uma empresa global de tecnologia.
+>
+> **Tarefa (Task):** Meu cargo atual é `[Seu cargo atual]` e minhas principais habilidades são `[3 habilidades principais]`. Por favor, escreva 3 títulos de LinkedIn otimizados para busca de headhunters e uma seção 'Sobre' (About) de cerca de 300 caracteres que me apresente de forma atraente, em português e inglês.
+
+### 🥇 Versão Profissional (Pro)
+
+Este é o prompt mestre sofisticado para quando você deseja destacar sua presença esmagadora entre inúmeros candidatos qualificados.
+
+> **Papel (Role):** Você é um consultor sênior de recrutamento de uma empresa global de tecnologia do Vale do Silício e especialista em otimização de SEO para LinkedIn.
 >
 > **Contexto (Context):**
 >
-> - Cenário: Quero reestruturar completamente o meu perfil do LinkedIn para torná-lo irresistível e altamente otimizado, atraindo o volume máximo de contatos (InMails) de recrutadores de elite.
-> - Objetivo: Posicionar-me como o talento número 1 na minha área de atuação.
->
-> **Minhas Informações (My Info):**
->
-> - **Cargo Atual:** `[Ex: Desenvolvedor Frontend Sênior]`
-> - **Habilidades Principais:** `[Ex: React, TypeScript, Next.js, Otimização de Performance Web]`
-> - **Maiores Conquistas:** `[Ex: Liderei a refatoração do app principal, reduzindo o tempo de carregamento em 50% e impactando 1 milhão de usuários ativos mensais]`
+> - Objetivo: Renovar meu perfil do LinkedIn de forma atraente para receber propostas de cargos de qualidade (InMail) de headhunters pelo menos 3 vezes por semana.
+> - Minhas Informações:
+>   - Cargo Atual: `[Ex: Product Manager B2B SaaS com 5 anos de experiência]`
+>   - Habilidades Principais: `[Ex: Tomada de decisão baseada em dados, Agile Scrum Lead, Otimização da jornada do cliente]`
+>   - Principais Conquistas: `[Ex: Redução de 30% no churn inicial através da melhoria do onboarding, aumento de 15% no MRR com lançamento de novas funcionalidades]`
 >
 > **Tarefa (Task):**
 >
-> 1. **Título (Headline):** Crie 3 variações poderosas (de apenas uma linha) que definam claramente a minha proposta de valor. As variações devem seguir estas abordagens: 1) Foco na Especialidade, 2) Foco em Impacto/Resultados, 3) Foco em Palavras-chave.
-> 2. **Sobre (About):** Escreva uma narrativa envolvente (com cerca de 300 palavras) em primeira pessoa. As duas primeiras frases devem funcionar como um "Gancho" irresistível que force o recrutador a clicar em "Ver mais". Evidencie a minha paixão pela área, a minha evolução profissional e o impacto tangível que eu entrego.
-> 3. **Palavras-Chave de SEO (SEO Keywords):** Liste 5 palavras-chave cruciais e de alta intenção de busca que eu devo distribuir estrategicamente por todo o meu perfil (nas seções de Experiência, Habilidades, etc.).
+> 1. **Palavras-chave de SEO:** Identifique as 5 principais palavras-chave que os recrutadores mais pesquisam para encontrar profissionais no meu cargo.
+> 2. **Título (Headline):** Sugira 3 conceitos de títulos impactantes (com menos de 120 caracteres) que incentivem o clique: ① Focado em resultados comprovados por números, ② Focado em especialização profissional, ③ Focado em lista de termos de busca.
+> 3. **Sobre (About):** Escreva um texto de introdução em primeira pessoa com storytelling que me destaque.
+>
+> - Comece com um "Hook" (gancho) poderoso que force a leitura das duas primeiras frases.
+> - Mostre sua filosofia de trabalho e método de resolução de problemas, em vez de apenas listar o histórico profissional.
+> - Divida os parágrafos claramente e use bullet points e emojis adequados para facilitar a leitura.
 >
 > **Restrições (Constraints):**
 >
-> - Utilize emojis de forma estratégica para quebrar blocos massivos de texto e melhorar a fluidez da leitura.
-> - Forneça o resultado final em dois idiomas: Inglês e Português do Brasil.
-> - Evite completamente jargões corporativos vazios (como "motivado" ou "excelente trabalho em equipe"). Concentre-se estritamente em métricas e fatos concretos.
+> - Evite expressões exageradas ou artificiais; mantenha um tom de voz (Tone & Manner) profissional e confiante.
+> - Forneça todos os resultados em versões separadas e claras em Português e Inglês.
 
 ---
 
-## 💡 Comentário do Autor (Insight)
+## 💡 Comentário do Autor (Insight & Como usar)
 
-A maior armadilha do LinkedIn é tratá-lo como um currículo estático e sem vida. Eu mesmo validei essa exata engenharia de prompt quando fiz a transição de uma startup para uma Big Tech. O verdadeiro "pulo do gato" não é simplesmente mandar a IA "escrever um texto bonito", mas sim forçá-la a raciocinar como um **_Headhunter_ sênior** operando sob critérios rigorosos de **SEO**. Ao gerar o seu perfil em português e inglês, você domina o mercado local e entra instantaneamente no radar global. Grave esta regra de ouro: o seu **Título (Headline)** é a vitrine da sua loja; a **seção Sobre (About)** é o seu discurso de vendas definitivo (Pitch).
+As duas áreas mais críticas e decisivas na otimização do perfil do LinkedIn são o **Título (Headline)** e o **Resumo (About)**. Recrutadores e headhunters de agências de busca ao redor do mundo analisam centenas ou milhares de listas de candidatos todos os dias. O tempo que levam para decidir se clicarão ou não na página detalhada do seu perfil é de apenas **'1 segundo'**. E o que domina esse segundo crucial é o texto curto de menos de 120 caracteres que aparece logo abaixo do seu nome: o Título.
+
+A dica mais importante ao usar esta versão Pro na prática é preencher a variável **[Minhas Informações]** com **'Números (Dados)' e 'Ações (Actions)'** específicos e vivos. A maioria dos candidatos escreve habitualmente expressões genéricas que qualquer um poderia escrever, como "Realizei tarefas de marketing de performance com dedicação" ou "Liderei a comunicação fluida dentro da equipe".
+
+No entanto, para extrair 200% da capacidade dos modelos de IA (GPT-4o, Claude 3.5 Sonnet), você deve injetar **Fatos Concretos (Hard Facts)** orientados a resultados. Por exemplo, especifique dados quantitativos como "Alcance de 300% de ROAS e gestão de orçamento anual de marketing de performance de R$ 1 milhão" ou "Defesa de 25% na taxa de rotatividade (Churn Rate) com a introdução de um novo processo de onboarding". A IA usará esses números secos como ingredientes para criar um **storytelling profissional muito mais tridimensional, confiável e impactante**, mostrando como você definiu e resolveu problemas de negócios.
+
+Além disso, este prompt possui uma **forte restrição (Constraints) para gerar as versões em português e inglês simultaneamente**. Em um mercado de contratação moderno onde os negócios globais são o padrão, ter um perfil em inglês expande exponencialmente o tamanho das oportunidades às quais você pode se candidatar. Para aqueles que se sentiam sobrecarregados em escrever um currículo em inglês por não serem nativos, ou para quem está se preparando seriamente para empresas estrangeiras globais ou trabalho remoto em startups do Vale do Silício, esta função será a arma mais poderosa, substituindo perfeitamente **consultorias de revisão de currículos em inglês que custam centenas de reais**.
+
+Por fim, em vez de apenas copiar e colar o resultado gerado, tenha uma **mentalidade de Teste A/B**. Experimente trocar seu título a cada duas semanas entre os 3 conceitos sugeridos pela IA (Resultados, Especialização, Lista de busca) e acompanhe os dados: veja quais palavras-chave e frases aumentam as visualizações do perfil e a frequência de contatos via InMail. O Personal Branding não é um documento estático que você escreve e esquece; é como um **Produto (Product) dinâmico** que você otimiza constantemente de acordo com a resposta do mercado. Espero que você encontre, através deste prompt, a linguagem ideal que fará seu valor brilhar intensamente.
 
 ---
 
 ## 🙋 Perguntas Frequentes (FAQ)
 
-- **Q: Preciso de uma assinatura do LinkedIn Premium para que essa estratégia funcione?**
-  - A: Absolutamente não! A otimização de palavras-chave (SEO) alavanca a busca orgânica do LinkedIn, independentemente do seu tipo de conta. O Premium apenas oferece recursos adicionais de visibilidade para quem já possui um bom ranqueamento orgânico, mas a mecânica base do sucesso é exatamente a mesma.
+- **Q: Sou recém-formado e não tenho resultados numéricos grandiosos para mostrar. O que eu faço?**
+  - A: Em vez de números de negócios grandiosos, escreva sobre 'experiência em resolução de problemas' ou 'insights valiosos obtidos em projetos'. Por exemplo, você pode escrever: `[Ex: Como líder de um projeto universitário, coordenei atrasos no cronograma e obtive nota máxima (A+)]`. A IA usará isso para criar um texto atraente que enfatiza seu potencial e atitude persistente na resolução de problemas.
 
-- **Q: Devo usar as três opções de Títulos (Headlines) geradas de uma só vez?**
-  - A: Não. O ideal é escolher a opção que melhor reflete o seu momento de carreira atual ou mesclar os melhores elementos das três sugestões para forjar um título matador e definitivo (sempre respeitando o limite de caracteres da plataforma).
+- **Q: Se eu atualizar meu perfil com muita frequência, meus colegas de trabalho ou chefe não vão notar que estou me preparando para sair?**
+  - A: No menu de configurações do LinkedIn, desative a opção 'Compartilhar atualizações de perfil com sua rede' (Share profile updates with your network). Assim, seus contatos não receberão nenhuma notificação. Você pode preparar seu perfil silenciosamente como um ninja e, quando estiver pronto para a transição, alterar as configurações novamente.
 
-- **Q: A IA não corre o risco de deixar o meu perfil com uma aparência genérica ou artificial?**
-  - A: Se você utilizar apenas a Versão Básica, o risco existe. É exatamente por isso que a Versão Pro exige a injeção das suas "Maiores Conquistas", com números e métricas reais. A IA não inventa a sua trajetória; ela atua como uma agência de RP, empacotando os seus fatos concretos na embalagem mais persuasiva e profissional possível.
-
----
-
-## 🧬 Anatomia do Prompt (Why it works?)
-
-1. **Especialista em SEO:** Ao instruir a IA a assumir o papel de "mestre nos algoritmos do LinkedIn", ativamos toda a sua base de dados sobre o funcionamento de motores de busca. Isso garante que o texto final seja cirurgicamente enriquecido com as palavras-chave de maior peso.
-2. **Geração de Múltiplas Opções (Variability):** Exigir 3 estilos distintos de Headline (Especialidade, Impacto e Palavras-chave) proporciona a flexibilidade tática necessária para realizar testes A/B ou simplesmente adotar a abordagem que melhor ressoa com o seu nicho.
-3. **Foco no 'Gancho' (Hook):** O LinkedIn oculta a maior parte do texto da seção 'Sobre' atrás do botão "Ver mais". O nosso prompt obriga a IA a desenhar as duas primeiras frases exclusivamente para despertar curiosidade visceral e forçar esse clique.
+- **Q: E se a versão em inglês criada pela IA parecer estranha ou muito rígida?**
+  - A: Recomendo fortemente o uso do Claude 3.5 Sonnet ou GPT-4o, que têm qualidade de tradução e escrita superior. Se a expressão parecer um pouco dura, peça novamente abaixo do resultado: `> Por favor, revise a versão em inglês para ser um pouco mais casual e com um tom natural do Vale do Silício, como um falante nativo usaria rotineiramente no trabalho.`
 
 ---
 
-## 📊 Prova: Before & After
+## 🧬 Anatomia do Prompt (Por que funciona?)
 
-### ❌ Before (O Padrão Invisível)
-
-```text
-Título: Desenvolvedor Frontend na Empresa X
-Sobre: Olá, sou um desenvolvedor apaixonado por tecnologia. Trabalho com React e JavaScript há 3 anos. Gosto de aprender coisas novas e trabalhar em equipe.
-```
-
-### ✅ After (O Ímã de Recrutadores)
-
-```text
-Título: 🚀 Especialista Frontend (React/TypeScript) | Transformando designs complexos em interfaces fluidas | Reduzi o tempo de carregamento do app em 50%
-Sobre: "O código é lido por máquinas, mas a experiência é sentida por pessoas."
-Nos últimos 3 anos, dediquei minha carreira a construir aplicações web que não são apenas rápidas, mas memoráveis. Como Desenvolvedor Frontend, minha maior vitória foi liderar a refatoração de uma plataforma com mais de 1M de acessos mensais, cortando o tempo de carregamento pela metade e aumentando a retenção em 15%...
-```
+1.  **Contexto Orientado a Objetivos (Context):** Em vez de apenas dizer "escreva um perfil", injetamos um objetivo muito específico na IA: "receber contatos de headhunters pelo menos 3 vezes por semana". Isso alinha a direção do resultado perfeitamente com um pitch de vendas real, não apenas uma autoapresentação.
+2.  **Sugestão de 3 Conceitos Estruturados:** Ao fazer a IA sugerir três tipos de títulos (resultados, especialização e palavras-chave), ampliamos as opções do usuário e permitimos a realização de testes A/B no perfil.
+3.  **Restrições Fortes (Constraints):** Forçamos a IA a evitar expressões exageradas e a manter um tom profissional. Isso remove o estilo de escrita artificial típico da IA e garante um nível de credibilidade que permite copiar e colar imediatamente para o uso profissional.
 
 ---
 
-## 🎯 Conclusão
+## 🎯 Conclusão (Epílogo)
 
-Pense no seu perfil do LinkedIn como um vendedor de elite impecável que trabalha para você 24 horas por dia, 7 dias por semana.
+Seu LinkedIn é um vendedor global que trabalha para você 24 horas por dia, sem descansar um segundo. Um perfil bem polido espalhará seu cartão de visitas para recrutadores de todo o mundo mesmo enquanto você dorme profundamente, abrindo novas portas na sua carreira que você nunca ousou imaginar.
 
-Ao maximizar a densidade de palavras-chave e lapidar a sua narrativa profissional com este prompt, você garante que esse seu "vendedor" entregue o seu cartão de visitas de forma cirúrgica para os tomadores de decisão que realmente detêm o poder de contratação.
+O sofrimento de não saber o que dizer diante de uma tela em branco foi resolvido pelo prompt LinkedIn Profile Optimizer. As oportunidades sempre chegam silenciosamente ao perfil de quem está preparado.
 
-Vá em frente, atualize o seu perfil agora mesmo e prepare-se para ver as notificações da sua caixa de entrada dispararem! 🥂
+Automatize seu trabalho e faça sua transição (ou saia no horário) com estilo! 🍷

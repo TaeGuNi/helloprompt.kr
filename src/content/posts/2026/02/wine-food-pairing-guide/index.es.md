@@ -1,142 +1,164 @@
 ---
 layout: /src/layouts/Layout.astro
-title: " \"오늘 저녁 뭐 먹지? AI 소믈리에의 와인 페어링\""
+title: "¿Qué cenamos hoy? Maridaje de vinos con un sumiller de IA"
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "취미/라이프"
-description: "Desde vinos de supermercado a etiquetas premium, recibe el maridaje perfecto para tu menú. Tu paladar es más preciso que las notas de Vivino."
+category: "Creative & Hobbies"
+description: "Desde vinos de supermercado hasta añadas de lujo, recibe recomendaciones de maridaje perfectas para tu menú con un sumiller de IA que conoce tus gustos mejor que Vivino."
 tags: ["와인", "미식", "페어링", "소믈리에"]
 ---
 
-## 🍷 ¿Qué cenamos hoy? Maridaje de vinos con tu Sommelier de IA
+## 🍷 ¿Qué cenamos hoy? Maridaje de vinos con un sumiller de IA
 
-- **🎯 Recomendado para:** Quienes dudan 10 minutos frente al pasillo de vinos, quienes solo saben pedir "un tinto que no sea dulce" y anfitriones de cenas en casa.
-- **⏱️ Tiempo requerido:** 10 minutos → Reducido a 1 minuto
-- **🤖 Modelo recomendado:** GPT-4o (usando la función de visión), Claude 3.5 Sonnet
+- **🎯 Recomendado para:** Quienes pasan 10 minutos frente al estante de vinos sin saber qué elegir, quienes solo saben decir "un tinto que no sea dulce" o anfitriones que planean la cena perfecta en casa.
+- **⏱️ Tiempo estimado:** De 10 minutos → Reducido a 1 minuto
+- **🤖 Rendimiento óptimo:** GPT-4o (se recomienda encarecidamente el uso de la función de visión), Claude 3.5 Sonnet
 
 - ⭐ **Dificultad:** ⭐☆☆☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐☆
 - 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"Frente a la abrumadora infinidad de etiquetas, deja que tu sommelier de IA encuentre el maridaje perfecto para tu paladar."_
+> _"Esa sensación de desorientación frente a innumerables etiquetas de vino... Ahora, el sumiller de IA la resuelve al instante con la propuesta de maridaje perfecta."_
 
-Cerdo asado con soju, pollo frito con cerveza: combinaciones universales y sencillas. Pero, ¿qué pasa con el vino? Términos intimidantes como cepa, *terroir*, cuerpo y taninos nos generan dolor de cabeza desde el primer momento. Todos hemos vivido la frustración de comprar una botella cara solo para descubrir que arruina el sabor de nuestra comida. Ya no te la juegues confiando a ciegas en las puntuaciones de aplicaciones. Descubre cómo pedirle a tu sommelier de IA la botella ideal que elevará tu cena de esta noche.
+Soju con panceta, cerveza con pollo frito. A diferencia de estas fórmulas intuitivas, el maridaje de vinos suele sentirse como una barrera enorme. Es fácil perderse en un pantano de términos desconocidos como cepas, regiones, cuerpo o taninos.
+
+Seguramente has tenido la experiencia de estar frente al estante de vinos de un supermercado o tienda de conveniencia mirando fijamente tu smartphone. Las etiquetas parecen estar en jeroglíficos y las descripciones del reverso están llenas de palabras abstractas como **'aromas a frutos negros, toques de roble, taninos suaves'**. Por más que leas, no tienes ni idea de si combinará con la comida que vas a cenar hoy.
+
+Al final, terminamos dependiendo únicamente de un número: **la puntuación de 4.0 o más** en aplicaciones como Vivino. Pero que una puntuación sea alta no garantiza que se adapte a tu paladar o que combine con el menú del día. La experiencia de elegir un vino vintage caro y que luego no encaje con la comida preparada con esmero puede arruinar el ambiente; sentir un fuerte olor a pescado o que el vino sepa a agua es un desastre que hace que el vino se sienta cada vez más lejano y difícil. Especialmente para un anfitrión que organiza una cena en casa, el miedo al fracaso es aún mayor.
+
+Ya no dependas más de las puntuaciones generales o de la intuición en un **'juego de azar'**. Ahora tenemos al <span style="color:var(--color-cyber-cyan)">Sumiller de IA</span>, que ha aprendido perfectamente las notas de cata de decenas de miles de vinos y los datos de maridaje de gastrónomos globales. La IA ofrece la solución óptima considerando tus gustos exigentes, tu presupuesto e incluso tu entorno de compra, como la tienda de conveniencia de tu barrio.
+
+Te revelamos el secreto para encontrar en solo un minuto el **'vino que nunca falla'**, adaptado exclusivamente a tu paladar y a tu mesa de esta noche. Más allá de una simple recomendación de producto, la IA te explicará el principio de por qué ese vino logra un maridaje fantástico con tu plato, convirtiéndote pronto en un experto en vinos entre tus conocidos. No dudes más frente al estante. Es hora de invitar a tu smartphone al sumiller de 3 estrellas Michelin más amable y capaz.
+
+---
+
+## 📊 Evidencia: Resultados impactantes (Antes y Después)
+
+### ❌ Antes (El dolor que sufríamos)
+
+Una forma descuidada de pedir recomendaciones vagas que resultaba en respuestas trilladas, obvias o totalmente desconectadas de la situación actual.
+
+```text
+Voy a comer pizza de Costco hoy, recomiéndame un vino de unos 30,000 wones.
+```
+
+_(Resultado: "Un Cabernet Sauvignon o un Merlot estarían bien. Recomiendo vinos como el 1865." - El típico ejemplo de respuesta vaga y trillada)_
+
+### ✅ Después (Resultado transformado a la perfección)
+
+Al otorgar restricciones y contextos claros, logramos una lista realista y variada que puedes recoger directamente en la tienda.
+
+```text
+1. Opción Segura (Safe Pick):
+   - 🍷 Casillero del Diablo Cabernet Sauvignon
+   - 💰 Rango de precio estimado: Menos de 20,000 wones
+   - ✨ Motivo de la recomendación: Los taninos moderados del Cabernet Sauvignon limpian la grasa del queso pesado y los toppings de carne de la pizza de Costco. Es una combinación popular que no falla.
+
+2. Nuevo Descubrimiento (Adventurous):
+   - 🥂 Prosecco Bradamante
+   - 💰 Rango de precio estimado: Alrededor de 20,000 wones
+   - ✨ Motivo de la recomendación: La frescura de las burbujas y la acidez del vino espumoso cortan la pesadez de la pizza, permitiendo experimentar un maridaje sorprendentemente ligero.
+```
+
+_(Resultado: Una curaduría personalizada con rangos de precio claros, nombres de productos específicos y hasta los principios científicos del maridaje perfectamente organizados)_
 
 ---
 
 ## ⚡️ Resumen en 3 líneas (TL;DR)
 
-1. **Curaduría adaptada a la ocasión:** Encuentra el vino que encaje a la perfección con tu plan, ya sea una copa a solas, una cita romántica o una cena con amigos.
-2. **Máxima accesibilidad:** Establece pautas de compra realistas e inmediatas, como "Elige solo entre los vinos disponibles en el supermercado de la esquina".
-3. **La ciencia del maridaje:** Más allá de una simple recomendación, la IA te explica por qué ese vino en particular combina con tu plato, enriqueciendo tu experiencia gastronómica.
+1. **Curaduría adaptada a la situación:** Encuentra el vino que se ajuste perfectamente al TPO (Tiempo, Lugar, Ocasión) del día, ya sea bebiendo solo, en una cita romántica o en una fiesta en casa.
+2. **Máxima accesibilidad:** Ofrece pautas prácticas y realistas como "Elige entre los vinos que hay en el GS25 frente a mi casa" para comprar de inmediato.
+3. **La ciencia del maridaje:** Más allá de recomendar un producto, explica el porqué de la combinación, añadiendo profundidad y placer a la experiencia gastronómica.
 
 ---
 
-## 🚀 Solución: "Prompt de Sommelier Personal de IA"
+## 🚀 Así escriben los verdaderos expertos
 
-### 🥉 Versión Básica (Centrada en el Menú)
+### 🥉 Versión Básica (Centrada en el menú)
 
-Esta es la situación más común. Úsala cuando ya tienes decidida la cena y solo necesitas elegir la bebida rápidamente.
+Esta es la situación cotidiana más frecuente. El plato principal ya está decidido y quieres elegir la bebida que lo acompañe rápido y sin errores.
 
-> **Rol:** Eres el `[Sommelier]` principal de un restaurante galardonado con 3 estrellas Michelin.
-> **Situación:** El menú para la cena de hoy es `[tteokbokki picante y frituras variadas]`.
-> **Tarea:** Recomiéndame 3 vinos que armonicen perfectamente con esta comida.
-> **Condiciones:**
-> 1. Elige vinos con excelente relación calidad-precio, que no sean excesivamente caros (entre `[15 y 35 euros/dólares]`).
-> 2. Selecciona cepas populares y amigables para alguien que está empezando en el mundo del vino.
-> 3. Explica en una sola oración por qué cada vino hace buen maridaje con este menú.
+> **Rol:** Eres el `[sumiller]` jefe de un restaurante de 3 estrellas Michelin.
+>
+> **Contexto:**
+> El menú de la cena de hoy es `[Tteokbokki picante y frituras variadas]`.
+>
+> **Tarea:**
+> Recomienda los 3 vinos que mejor combinen con esta comida.
+>
+> **Restricciones:**
+> 1. Elige vinos con buena relación calidad-precio que no sean demasiado caros, en un rango de `[20,000 a 50,000 wones]`.
+> 2. Selecciona cepas populares y fáciles de beber incluso para principiantes.
+> 3. Explica brevemente en una frase por qué cada vino combina con esta comida.
 
-### 🥇 Versión Pro (Análisis Preciso de Preferencias)
+### 🥇 Versión Pro (Análisis preciso de gustos)
 
-Este prompt avanzado refleja hasta los matices más sutiles de tus gustos, logrando un maridaje magistral con un 0% de probabilidad de fallo.
+Un prompt para expertos que refleja incluso los matices sutiles de tus gustos para lograr un maridaje perfecto con '0% de probabilidad de error'. Copia el siguiente prompt y completa los espacios entre `[corchetes]` según tu situación para ponerlo en práctica de inmediato.
 
-> **Rol (Role):** Eres mi **"Curador de Vinos Personal"**, un experto que comprende mis gustos a la perfección.
+> **Rol:** Eres un **'curador de vinos personal'** que conoce perfectamente mis gustos.
 >
-> **Perfil del Usuario (User Profile):**
+> **Perfil de Usuario:**
+> - **Preferencias:** `[Estilo con mucho cuerpo (Full Body), taninos moderados y abundantes aromas a frutas intensas.]`
+> - **Aversiones:** `[Evito vinos donde resalte demasiado la acidez o que se sientan muy dulces (Sweet).]`
+> - **Presupuesto:** `[Menos de 30,000 wones]`
+> - **Lugar de compra:** `[E-Mart, Costco, tienda de conveniencia CU]`
 >
-> - **Preferencias:** Estilo con mucho cuerpo (*Full Body*), taninos (astringencia) moderados y abundantes aromas a frutas maduras.
-> - **Aversiones:** Evito los vinos con acidez pronunciada o los vinos dulces (*Sweet*) con azúcar residual perceptible.
-> - **Presupuesto:** `[Menos de 20 euros/dólares]`
-> - **Lugar de compra:** `[Carrefour, Mercadona o tienda de conveniencia local]`
+> **Contexto:**
+> Estoy preparando una cena en casa con 4 amigos. El menú principal es `[pizza de bulgogi de Costco y ensalada de salmón fresco]`. Como hay tanto expertos como principiantes en vino, necesito opciones que satisfagan a todos sin excepciones.
 >
-> **Situación (Context):**
-> Estoy organizando una cena en casa con 4 amigos. El menú principal es `[pizza de barbacoa de Costco y ensalada de salmón fresco]`. Como hay una mezcla de expertos y principiantes en vinos, necesito una selección versátil que agrade a todos sin generar rechazo.
+> **Tarea:**
+> Propón opciones de vino divididas en las siguientes 3 categorías.
+> 1. **Opción Segura (Safe Pick):** Un vino popular que guste a todo el mundo (incluye nombre específico del producto).
+> 2. **Nuevo Descubrimiento (Adventurous):** Una combinación inesperada pero con un maridaje increíble.
+> 3. **Rey de la Calidad-Precio (Value):** Un vino cuyo rendimiento sea abrumadoramente superior a su precio.
 >
-> **Tarea (Task):**
-> Sugiéreme opciones de vino categorizadas de la siguiente manera:
+> **Restricciones:**
+> - Organiza el formato de salida con viñetas de Markdown (List).
+> - Para cada categoría, especifica el nombre del vino (Inglés/Español), el rango de precio estimado y el motivo clave de la recomendación (punto de maridaje).
 >
-> 1. **Apuesta Segura (*Safe Pick*):** Un vino popular que cualquier persona pueda disfrutar (incluye el nombre específico de la botella).
-> 2. **Nuevo Descubrimiento (*Adventurous*):** Un vino con encanto que ofrezca una combinación inesperada, pero con un maridaje espectacular.
-> 3. **Rey de la Calidad-Precio (*Value*):** Un vino con un rendimiento excepcional ajustado al presupuesto establecido.
->
-> **Restricciones (Constraints):**
->
-> - Organiza el resultado usando viñetas (*List*) en formato Markdown.
-> - Para cada categoría, especifica el nombre del vino, el rango de precio estimado y la razón principal de la recomendación (el punto clave del maridaje).
->
-> **Advertencias (Warning):**
->
-> - Excluye de la lista añadas descontinuadas o ediciones limitadas que sean difíciles de conseguir en tiendas convencionales.
+> **Advertencia:**
+> - No inventes información que no sea segura; si no lo sabes, responde "no lo sé". Excluye de la lista de recomendaciones añadas descontinuadas o ediciones limitadas difíciles de conseguir en el mercado. (Prevención de alucinaciones)
 
 ---
 
-## 💡 Comentario del Autor (Insight)
+## 💡 Comentario del autor (Perspectiva y cómo usarlo)
 
-"¿Vino con *tteokbokki* picante?" Suele ser una combinación difícil de imaginar. Sin embargo, si le preguntas a tu sommelier de IA, te dará una respuesta sorprendentemente acertada. Recomendará un **vino espumoso (Cava o Prosecco)** o un **Moscato d'Asti**, donde la efervescencia y el dulzor neutralizan el picor de la capsaicina.
+"¿Vino con Tteokbokki picante?" Es una combinación que a menudo hace dudar a la gente. Sin embargo, si planteas este desafío al sumiller de IA, te ofrecerá soluciones sorprendentes que rompen nuestros prejuicios. Podría sugerir un refrescante **'vino espumoso (Cava, Prosecco)'** para limpiar agradablemente el picante intenso de la capsaicina, o un **'Moscato d'Asti'** que envuelva suavemente el picor.
 
-La IA ha sido entrenada con un vasto mapa de perfiles aromáticos y los principios químicos del maridaje. Calcula científicamente la armonía de lo "dulce y salado" o "picante y dulce", algo que a nosotros nos resulta difícil deducir de forma instintiva. El consejo más poderoso que aplico en la práctica con este prompt es **añadir condiciones estrictas de accesibilidad**. Prueba a incluir una restricción como: *"Limítate a los vinos comerciales disponibles en las cadenas de supermercados locales"*. Aunque la IA no conozca el inventario en tiempo real, seleccionará con precisión una opción segura y comercialmente viable basándose en el catálogo habitual de esas tiendas. Ya no necesitas pasar minutos escaneando cada botella del pasillo con tu teléfono.
+La IA ya ha interiorizado perfectamente las notas de cata de decenas de miles de vinos y los datos de maridaje de expertos globales. Calcula científicamente armonías sofisticadas que son difíciles de imaginar solo con la intuición humana. El punto que más me asombra al usar este prompt en mi día a día es el **control de accesibilidad (Constraint Control)**. Prueba a añadir una restricción como `[Lugar de compra: entre los productos en oferta de febrero en la tienda CU frente a mi casa]`. Aunque no pueda conocer el inventario en tiempo real de la tienda, identificará magistralmente la 'mejor elección que nunca falla' entre la alineación principal de ese canal de distribución.
 
----
+**Consejos para el control de variables del prompt:**
+Para aprovechar este prompt al 200% en la práctica diaria, el **detalle de las variables** es vital. En lugar de escribir vagamente `[carne de res]`, especifica el método de cocción y las características de los ingredientes, como `[solomillo de ternera grueso a la brasa]` o `[chuck eye roll australiano frito en mantequilla]`. La IA calculará incluso el aroma ahumado cuando la carne toca el fuego o el sabor de la mantequilla para decidir si recomienda un Cabernet Sauvignon denso con crianza en roble o un delicado Pinot Noir.
 
-## 🙋 Preguntas Frecuentes (FAQ)
+Además, recomiendo encarecidamente incluir la **experiencia con el vino de los asistentes** en las variables. Solo cambiando el contexto a `[amigos de 20 años que prueban el vino por primera vez]` o `[conocidos que suelen disfrutar del vino natural]`, la IA cambiará por completo el carácter de la lista de recomendaciones, desde la línea popular y dulce de Moscato hasta vinos naranjas con personalidad, acidez vibrante y aromas terrosos.
 
-- **P: ¿Puedo tomarle una foto a una etiqueta de vino específica y preguntar por ella?**
-  - R: ¡Por supuesto! Aprovecha al máximo la función de visión (*Vision*) de GPT-4o o Claude 3.5 Sonnet. Si subes la foto de la etiqueta y preguntas: *"¿Se ajusta este vino a mis gustos (cuerpo, dulzor)? ¿Combinará con el tartar de atún que cenaré hoy?"*, la IA leerá la información de la botella, analizando al instante sus notas de cata y su potencial de maridaje.
-
-- **P: Además de vino, ¿funciona con whisky, sake o licores tradicionales?**
-  - R: Sí, funciona a la perfección. Simplemente cambia el apartado "Rol" en el prompt a **"Maestro Bartender de Whisky"**, **"Sommelier de Sake (*Kikisake-shi*)"** o **"Experto en Destilados"**. Obtendrás recomendaciones altamente especializadas y adaptadas a cada tipo de bebida.
+Ya se acabaron para siempre las horas perdidas escaneando etiquetas con apps de vino frente a la sección de licores del supermercado. Asegura un 0% de probabilidad de error con la **'Opción Segura'** que ofrece la IA, y de vez en cuando disfruta del placer de un maridaje perfecto e inesperado a través de un **'Nuevo Descubrimiento'**. En el momento en que sintonices las variables del prompt a tu situación, nacerá tu propio sumiller personal perfecto.
 
 ---
 
-## 🧬 Anatomía del Prompt (Why it works?)
+## 🙋 Preguntas frecuentes (FAQ)
 
-1. **Restricciones de situación y lugar de compra (*Context & Constraints*):** Por muy exquisita que sea una botella, es inútil si no puedes comprarla hoy mismo. Al limitar el "presupuesto" y el "lugar de compra", establecemos un marco realista y altamente accionable para la recomendación.
-2. **Perfilado de gustos tridimensional (*User Profile*):** Más allá de la clásica división "tinto/blanco", al especificar preferencias y aversiones exactas, reducimos el margen de error y aumentamos exponencialmente la probabilidad de dar en el clavo.
-3. **Estructura de elección tripartita (*Task Options*):** Al exigir tres opciones estratégicas (apuesta segura, descubrimiento y relación calidad-precio), le devolvemos al usuario el control absoluto para tomar la decisión final según el ambiente de la velada.
+- **P: ¿Puedo tomar una foto de la etiqueta de un vino específico y preguntar?**
+  - R: ¡Por supuesto! Utiliza activamente la **función de Visión (Vision)** de GPT-4o o Claude 3.5 Sonnet. Sube la foto de la etiqueta y pregunta: "¿Este vino se ajustará a mis gustos (cuerpo pesado, bajo dulzor)? ¿Combinará con el sashimi de atún que voy a comer hoy?". La IA leerá el texto de la etiqueta al instante y analizará agudamente las notas de cata detalladas y la idoneidad del maridaje.
 
----
-
-## 📊 Demostración: Antes y Después
-
-### ❌ Antes (Entrada)
-
-```text
-Hoy voy a cenar pizza de Costco, recomiéndame un vino de unos 20 euros/dólares.
-```
-
-*(Resultado: "El Cabernet Sauvignon o el Merlot son buenas opciones. Te recomiendo probar vinos como el Casillero del Diablo". — Una respuesta vaga, genérica y sin ningún fundamento técnico).*
-
-### ✅ Después (Resultado)
-
-```text
-1. Apuesta Segura (Safe Pick):
-   - 🍷 Casillero del Diablo Cabernet Sauvignon
-   - 💰 Rango de precio estimado: Alrededor de 15 euros/dólares
-   - ✨ Razón de la recomendación: Es una combinación clásica e infalible. Los taninos moderados del Cabernet Sauvignon equilibran limpiamente la grasa del queso pesado y los aderezos de carne de la pizza de Costco.
-
-2. Nuevo Descubrimiento (Adventurous):
-   - 🥂 Bradamante Prosecco
-   - 💰 Rango de precio estimado: Poco más de 20 euros/dólares
-   - ✨ Razón de la recomendación: La carbonatación refrescante y la acidez de este vino espumoso limpian la sensación pesada de la pizza, permitiéndote experimentar un maridaje sorprendentemente fresco y vibrante.
-```
-
-*(Resultado: Una propuesta personalizada y estructurada con precisión, que incluye precio, etiqueta específica y la razón científica detrás del maridaje).*
+- **P: Además de vino, ¿se puede con whisky, sake o licores tradicionales?**
+  - R: Sí, funciona perfectamente. Solo cambia la variable de **Rol (Role)** del prompt a 'Maestro barman de whisky', 'Kikizakeshi (sumiller de sake)' o 'Experto en licores tradicionales'. Podrás obtener perspectivas gastronómicas profundas especializadas en cada campo más allá de un solo tipo de bebida.
 
 ---
 
-## 🎯 Conclusión
+## 🧬 Anatomía del prompt (¿Por qué funciona?)
 
-El vino no tiene por qué ser una disciplina académica que exija estudio y memorización. Es, en esencia, un viaje placentero para encontrar la combinación que más haga disfrutar a tu paladar.
+1. **Restricciones de Situación y Lugar de Compra (Context & Constraints):** Por excelente que sea un vino vintage, es inútil si no puedo tenerlo en mis manos ahora mismo. Al limitar claramente el 'presupuesto' y el 'lugar de compra', se bloquean las recomendaciones irreales y se fuerzan resultados prácticos y ejecutables de inmediato.
+2. **Perfil de Gustos Tridimensional (User Profile):** No comete el error de dividir el vino simplemente en 'tinto/blanco'. Al inyectar tridimensionalmente las preferencias y aversiones específicas del usuario en el prompt, se comprime con precisión el espectro de búsqueda y se maximiza la satisfacción.
+3. **Estructura de Triple Elección (Task Options):** Presenta tres ejes de curaduría claros: Seguro, Aventura y Calidad-Precio. Esto no es que la IA decida unilateralmente, sino que otorga el liderazgo de la decisión final al usuario, permitiendo una elección flexible según el ambiente del día.
 
-Hoy, de camino a casa después del trabajo, en lugar de dudar y frustrarte frente a una pared de etiquetas incomprensibles, ¡añade un toque de alta gastronomía a tu mesa con una botella elegida estratégicamente por tu propio sommelier de IA! 🥂
+---
+
+## 🎯 Conclusión (Epílogo)
+
+El vino no es un problema engorroso que debas estudiar sentado en un escritorio como una disciplina compleja. Es simplemente un viaje gastronómico placentero para encontrar la combinación fascinante que se adapte perfectamente a tu paladar.
+
+Hoy, de camino a casa, en lugar de deambular sin fin frente al estante, ¡añade un toque de magia a tu mesa con una botella de vino perfecta elegida por el sumiller de IA en solo un minuto!
+
+¡Espero que automatices tus tareas y puedas marcharte a casa (o disfrutar de tu tiempo libre) con estilo! 🍷

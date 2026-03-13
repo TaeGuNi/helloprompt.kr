@@ -4,9 +4,9 @@ title: " \"데이터 파이프라인(ETL): Airflow DAG 작성 자동화\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "백엔드/DB"
+category: "General"
 description: " \"告别为复杂的 ETL 数据管道熬夜脱发！为您揭秘能在一分钟内自动生成健壮 Airflow DAG 代码的 AI 提示词，让数据工程更优雅。\""
-tags: ["Airflow", "ETL", "데이터엔지니어링", "파이썬", "자동화"]
+tags: ["Airflow", "ETL", "데이터엔지니어링", "파이썬", "Automation"]
 ---
 
 ## 🌪️ 数据管道 (ETL)：Airflow DAG 编写自动化

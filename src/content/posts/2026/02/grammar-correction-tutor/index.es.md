@@ -1,135 +1,152 @@
 ---
 layout: /src/layouts/Layout.astro
-title: "¿Por qué está mal mi gramática? Tu profesor particular 1:1"
+title: "¿Por qué está mal mi gramática? Tu tutor de corrección 1:1"
 author: "Jay"
-date: "2026-02-04"
-updatedDate: "2026-02-04"
-category: "Aprendizaje de Idiomas Extranjeros"
-description: "Un prompt de IA que no solo corrige tus textos, sino que te explica al detalle el porqué de cada error para que no lo repitas jamás."
-tags:
-  ["GramáticaInglesa", "CorrecciónDeEscritura", "Prompt", "EscrituraDeCorreo"]
+date: "2026-02-07T09:10:33.154Z"
+updatedDate: "2026-02-07T09:10:33.154Z"
+category: "General"
+description: "Un prompt de tutor de inglés IA 1:1 que va más allá de corregir erratas, explicando los principios gramaticales de por qué cometiste el error."
+tags: ["영어문법", "작문교정", "Prompt", "이메일작성"]
+image: "/images/hooks/grammar-correction-tutor.jpg"
 ---
 
-## 📝 ¿Por qué está mal mi gramática? Tu profesor particular 1:1
+## 📝 ¿Por qué está mal mi gramática? Tu tutor de corrección 1:1
 
-- **🎯 Recomendado para:** Estudiantes de idiomas, profesionales, redactores de correos internacionales
-- **⏱️ Tiempo requerido:** 5 minutos → 1 minuto
-- **🤖 Modelo recomendado:** Todos los modelos de IA (ChatGPT, Claude, Gemini, etc.)
+- **🎯 Público recomendado:** Profesionales que redactan correos en inglés con frecuencia, personas en búsqueda de empleo y todos los estudiantes de idiomas.
+- **⏱️ Tiempo requerido:** Reducción de 5 minutos → 1 minuto.
+- **🤖 Rendimiento superior:** Claude 3.5 Sonnet, GPT-4o, Gemini 2.5 Pro (Excelentes para captar matices lingüísticos sutiles).
 
-- ⭐ **Dificultad:** ⭐⭐☆☆☆
+- ⭐ **Dificultad:** ⭐☆☆☆☆
 - ⚡️ **Efectividad:** ⭐⭐⭐⭐⭐
-- 🚀 **Utilidad:** ⭐⭐⭐⭐☆
+- 🚀 **Utilidad:** ⭐⭐⭐⭐⭐
 
-> _"Grammarly corrige tus errores, pero tu nivel de inglés se estanca porque avanzas a ciegas, sin entender el porqué."_
+> _"Grammarly lo corrige, pero como no entiendo por qué lo hizo, mi nivel de inglés siempre se queda en el mismo sitio"._
 
-Los correctores ortográficos tradicionales se limitan a darte el resultado final: «Esto está mal, cámbialo por esto otro». Sin embargo, como estudiante o profesional, necesitas imperiosamente entender el «porqué». Es crucial descubrir por qué debes usar la preposición `in` en lugar de `at`, o por qué sobraba el artículo `the`, para evitar tropezar con la misma piedra en tu próximo correo importante. Este *prompt* asume el rol de ese profesor particular meticuloso que, bolígrafo rojo en mano, desglosa cada detalle gramatical con absoluta paciencia y claridad.
+![\"¿Por qué está mal mi gramática? Tu tutor de corrección 1:1\"](/images/hooks/grammar-correction-tutor.jpg)
+
+¿Está usted **copiando y pegando sin pensar** las frases que Grammarly o un corrector básico le devuelven corregidas? Es satisfactorio eliminar esas líneas rojas de la pantalla con un solo clic, pero queda una sensación de incertidumbre al ver el resultado final. Esto se debe a que preguntas fundamentales como **"¿Por qué cambió `at` por `in`?"** o **"¿Por qué borró ese artículo `the` que parecía estar bien?"** quedan sin respuesta. Al aceptar ciegamente las respuestas de una máquina, cuando llega el momento de redactar un correo importante para un socio extranjero desde cero a la mañana siguiente, nos volvemos a quedar en blanco.
+
+¿Por qué nuestro nivel de inglés parece estancado durante años? Es porque el bucle de retroalimentación que explica **'por qué te has equivocado'** está roto. En el colegio, analizábamos los errores y entendíamos los principios, pero como profesionales ocupados, no tenemos tiempo para investigar la **causa raíz de cada error**. Los mismos fallos gramaticales se repiten infinitamente en cada correo, y la ansiedad de "¿sonará mi inglés grosero para un nativo?" nos persigue en cada texto que enviamos. Cuanto más dependemos de los traductores, más sentimos que nuestra verdadera habilidad se atrofia.
+
+Pero ahora **no hay necesidad de depender solo de correcciones mecánicas simples.**
+Este prompt que presento supera con creces el nivel de un simple 'corrector de erratas' o un 'traductor'. Es como contratar dentro de tu portátil a un **'tutor de inglés IA 1:1 dedicado' que explica claramente en español qué está mal y por qué**. Este tutor no se limita a darte la respuesta correcta y desaparecer; disecciona tu frase para que entiendas el principio oculto tras el error gramatical en tan solo un minuto.
+
+Aún más sorprendente es la **corrección de matices**. Capta expresiones que, aunque gramaticalmente correctas, pueden sonar agresivas o poco naturales para un nativo, y sugiere **alternativas elegantes y corteses que los nativos realmente usan en el mundo de los negocios**. Escribir correos en inglés ya no será una fuente de frustración o inseguridad, sino que se transformará en **la sesión de tutoría más eficiente y personalizada para impulsar tu carrera**. No te escondas más tras los traductores; a partir de hoy, tu inglés cambiará radicalmente.
+
+---
+
+## 📊 Prueba: Resultados satisfactorios (Antes y Después)
+
+### ❌ Antes (El dolor que sufríamos)
+
+"I look forward to hear from you soon. Please reply me fast."
+(Un error común al cerrar correos de negocios)
+
+### ✅ Después (Transformación perfecta)
+
+```text
+[Versión corregida]
+"I look forward to hearing from you soon. I would appreciate a prompt reply."
+
+[Notas de corrección]
+- to hear → to hearing: Aquí, el 'to' en la estructura 'look forward to' es una preposición que indica dirección. Después de una preposición siempre debe ir una forma sustantivada (gerundio -ing), por lo que 'hearing' es la gramática correcta.
+- reply me fast → appreciate a prompt reply: El verbo 'reply' no puede llevar un objeto directo (me) inmediatamente (la forma correcta es 'reply to me'). Además, en un entorno de negocios formal, la elección de la palabra 'fast' puede sonar grosera, como si estuvieras apresurando demasiado a la otra persona.
+
+[Recomendación de expresiones nativas]
+1. "I would appreciate it if you could get back to me as soon as possible." (Tono de negocios muy cortés y profesional)
+2. "Hope to hear from you shortly." (Tono de trabajo diario un poco más casual y cercano)
+
+[Feedback de crecimiento]
+- Evaluación: 6/10
+- Punto clave de mejora: ¡No olvides la regla absoluta de que tras una preposición debe ir un gerundio! En correos de negocios, usar 'prompt' o 'as soon as possible' en lugar de la palabra directa 'fast' deja una impresión mucho más elegante y profesional.
+```
 
 ---
 
 ## ⚡️ Resumen en 3 líneas (TL;DR)
 
-1. **Corrección con contexto:** No se limita a corregir errores gramaticales o tipográficos; te explica la regla que los sustenta.
-2. **Alternativas nativas:** Propone expresiones más naturales y de uso común entre los hablantes nativos.
-3. **Feedback personalizado:** Evalúa tu nivel de redacción y te ofrece un consejo clave para que sigas mejorando.
+1. Va más allá de la simple corrección de errores, explicando en español y de forma sencilla la **causa raíz del fallo gramatical**.
+2. Incluso si no hay errores gramaticales, sugiere **expresiones naturales que los nativos usan realmente en entornos profesionales**.
+3. Permite **evaluar tu nivel de redacción de forma objetiva** y obtener puntos de mejora claros para progresar.
 
 ---
 
-## 🚀 La Solución: "Tutor de Corrección Gramatical 1:1"
+## 🚀 Así es como escriben los verdaderos expertos
 
-### 🥉 Versión Básica (Basic Version)
+### 🥉 Versión Básica (Basic)
 
-Úsala cuando necesites una corrección rápida acompañada de una breve explicación.
+Úsala cuando tengas prisa y solo quieras verificar el resultado corregido y la razón principal de forma intuitiva.
 
-> **Rol (Role):** Eres un `[tutor experto en redacción en inglés]`.
+> **Rol:** Eres un `[Tutor de inglés nativo]` meticuloso y amable.
 >
-> **Instrucción (Task):** Corrige el siguiente texto y explícame brevemente el motivo de mis errores: `[inserta tu texto aquí]`.
+> **Petición:** Corrige perfectamente la gramática de la siguiente frase y explica de forma sencilla en español 'por qué' estaba mal. `[Frase a corregir]`
 
-### 🥇 Versión Pro (Pro Version)
+### 🥇 Versión Pro (Especialista)
 
-Úsala cuando requieras un análisis profundo y detallado para estudiar y perfeccionar tu nivel de inglés a largo plazo.
+Úsala cuando desees una tutoría integral que incluya corrección gramatical, diferencias sutiles de matiz, feedback detallado y una evaluación objetiva de tu nivel.
 
-> **Rol (Role):** Eres un meticuloso y paciente `[tutor experto en redacción en inglés]`.
+> **Rol (Role):** Eres un tutor especialista en corrección de redacción en inglés con más de 10 años de experiencia.
 >
 > **Contexto (Context):**
 >
-> - Fondo: He redactado un texto en inglés y soy consciente de que contiene errores o carece de naturalidad.
-> - Objetivo: Busco comprender la "raíz" de mis fallos para aprender de ellos, no conformarme únicamente con la versión corregida.
+> - He escrito algunas frases en inglés para negocios o uso diario que pueden contener partes poco naturales o errores gramaticales.
+> - No solo quiero la respuesta correcta corregida, sino que quiero entender el principio exacto de 'por qué está mal' para no repetir el mismo error en el futuro.
 >
-> **Instrucción (Task):**
+> **Tarea (Task):**
 >
-> 1. **[Versión Revisada]**: Presenta el texto con los errores ortográficos y gramaticales impecablemente corregidos.
-> 2. **[Notas de Corrección]**: Compara mi error con tu corrección de manera estructurada y explícame la **razón gramatical** de forma sencilla (p. ej., concordancia sujeto-verbo, mal uso de preposiciones, etc.).
-> 3. **[Expresiones Nativas]**: Aunque mi texto sea gramaticalmente correcto, propón al menos 2 alternativas que suenen mucho más naturales o profesionales para un hablante nativo.
-> 4. **[Evaluación]**: Puntúa mi nivel de redacción sobre 10 y ofréceme un consejo clave para seguir mejorando.
+> 1. **[Versión corregida]**: Presenta primero la frase más natural que corrija perfectamente los errores gramaticales y de ortografía de mi texto.
+> 2. **[Notas de corrección]**: Contrasta 1:1 las partes que estaban mal con las corregidas y explica de forma muy sencilla en español el **principio gramatical** subyacente (ej: concordancia, tiempo verbal, artículos, preposiciones, etc.).
+> 3. **[Recomendación de expresiones nativas]**: Incluso si mi gramática es correcta por casualidad, recomienda 2 expresiones alternativas (Alternative) más elegantes que los nativos usen con más frecuencia en conversaciones de negocios o cotidianas.
+> 4. **[Feedback de crecimiento]**: Evalúa mi nivel actual de redacción en una escala del 1 al 10 y deja un resumen de una sola línea con el punto clave en el que debo tener especial cuidado en el futuro.
 >
 > **Restricciones (Constraints):**
 >
-> - Explica los conceptos con sencillez, priorizando los ejemplos prácticos por encima de la jerga lingüística compleja.
-> - Organiza las "Notas de Corrección" con total claridad mediante viñetas (bullet points) para agilizar la lectura.
+> - Evita estrictamente el uso de términos lingüísticos innecesariamente difíciles y explica con ejemplos intuitivos.
+> - Usa necesariamente viñetas (Bullet points) para que las [Notas de corrección] sean fáciles de leer de un vistazo.
+> - Mantén el tono de un tutor amable que anima al estudiante, en lugar de un tono rígido que solo señala errores.
 >
-> **El texto que he escrito es:**
->
-> `[inserta aquí el texto que deseas corregir]`
+> **Mi frase:**
+> `[Pega aquí el texto en inglés que deseas corregir]`
 
 ---
 
-## 💡 Comentario del Autor (Insight)
+## 💡 Comentario del autor (Perspectiva y cómo usar)
 
-Este *prompt* es una herramienta invaluable, no solo para quienes estudian idiomas, sino para cualquier profesional que deba enviar correos cruciales a clientes internacionales. La mayoría dependemos de herramientas como Grammarly o de correctores integrados que, a la larga, nos vuelven lingüísticamente «perezosos». Al implementar este *prompt*, no solo evitas enviar correos con errores embarazosos, sino que transformas cada fallo en una microlección de un minuto. Con el tiempo, notarás que cometes menos errores recurrentes porque, por fin, habrás interiorizado esas reglas que antes pasabas por alto. Es el equivalente a tener un profesor particular de primer nivel disponible las 24 horas del día, sin tener que pagar tarifas por hora.
+Antiguamente, cada vez que escribía un correo en inglés, pagaba religiosamente la suscripción premium de Grammarly. Sin embargo, poco después de implementar este prompt en mi trabajo diario, cancelé esa suscripción sin dudarlo. Los correctores mecánicos tradicionales son excelentes para detectar errores superficiales o erratas al instante. Pero nunca te enseñan lo más importante: **"por qué mi inglés suena poco natural para un nativo"**, esa diferencia esencial de matiz. Simplemente derivan una respuesta como una fórmula matemática, sin leer el contexto sutil ni la temperatura cultural del lenguaje.
 
----
+Especialmente al escribir correos a socios o clientes internacionales importantes, ocurre con frecuencia que la gramática es 100% perfecta, pero el tono resulta extrañamente grosero o rígido. Es el desastre que provocan las traducciones literales. El verdadero poder y valor de este prompt reside en el módulo de **[Recomendación de expresiones nativas]**. Por ejemplo, supongamos que escribimos inconscientemente 'Please reply quickly' (Responda rápido), que puede sonar agresivo e imperativo.
 
-## 🙋 Preguntas Frecuentes (FAQ)
+Un corrector normal lo daría por bueno porque la gramática es correcta. Pero la IA con este prompt entiende el contexto y lo reescribe elegantemente como 'I look forward to hearing from you soon' o 'Your prompt response would be highly appreciated', frases **profesionales y sofisticadas**. Además, explica con mucha amabilidad la diferencia de "temperatura" y nivel de cortesía entre ambas expresiones.
 
-- **Q: ¿Funciona igual de bien con la versión gratuita de ChatGPT?**
-  - A: Sí, los modelos gratuitos como GPT-3.5 o GPT-4o-mini procesan este *prompt* a la perfección. No obstante, los modelos más avanzados (como Claude 3.5 Sonnet o GPT-4o) suelen ofrecer explicaciones gramaticales más precisas y alternativas nativas de mayor calidad.
+El método más importante de **Control de Restricciones (Constraint Control)** al usar este prompt es limitar estrictamente el 'tono' de la IA. La instrucción de `mantener un tono amable que anima en lugar de uno rígido` es para evitar el **fenómeno de alucinación (Hallucination)** donde la IA presume de conocimientos lingüísticos extensos y pedantes. Lo que queremos es feedback intuitivo que podamos usar mañana mismo en un correo, no una tesis gramatical.
 
-- **Q: ¿Puedo usar este prompt para otros idiomas además del inglés?**
-  - A: ¡Por supuesto! Solo tienes que cambiar el `[tutor experto en redacción en inglés]` por `[tutor experto en redacción en francés/alemán/japonés]`. Los principios de corrección y explicación son perfectamente aplicables a cualquier idioma que estés aprendiendo.
-
-- **Q: ¿Resulta útil si escribo un texto muy largo, como un ensayo?**
-  - A: Para textos extensos (más de 500 palabras), te recomiendo encarecidamente dividirlos por párrafos. Si le pides a la IA que explique de golpe cada error de un ensayo de tres páginas, la respuesta será abrumadora y difícil de asimilar. Es mucho más efectivo revisar el texto párrafo a párrafo para optimizar tu aprendizaje.
+Además, obligar al uso de **viñetas (Bullet points)** en el módulo de `[Notas de corrección]` es un punto clave de optimización. En entornos móviles o durante el trabajo intenso, no tenemos tiempo para leer explicaciones en bloques de texto largos (Wall of Text). Al forzar el formato para que la información se pueda escanear visualmente, maximizamos la legibilidad. Esta es la forma más potente de tener a tu lado a un **'superior nativo'** amable que te apoya y te guía 1:1, en lugar de una simple herramienta de traducción. Si sigues conversando con este tutor y acumulando feedback, pronto notarás cómo la estructura natural de las frases en inglés se asienta en tu mente.
 
 ---
 
-## 🧬 Anatomía del Prompt (Why it works?)
+## 🙋 Preguntas frecuentes (FAQ)
 
-1. **Rol meticuloso y paciente:** Al definir al tutor de esta manera, le indicamos a la IA que no pase por alto los pequeños detalles y que adopte un tono didáctico, nunca condescendiente.
-2. **Estructura de salida obligatoria (Format):** Dividir la respuesta en [Versión Revisada], [Notas de Corrección] y [Expresiones Nativas] te garantiza obtener siempre el «qué», el «porqué» y el «cómo mejorarlo», evitando así densos bloques de texto que solo generan confusión.
-3. **Restricción de jerga (Constraints):** Al exigirle explícitamente que evite la «jerga lingüística compleja», impedimos que la IA te bombardee con explicaciones gramaticales avanzadas que solo lograrían abrumar al estudiante promedio.
+- **Q: ¿Se puede aplicar igual para redactar en otros idiomas como japonés o chino?**
+  - A: Sí, es perfectamente compatible. Solo con modificar ligeramente el rol en la primera línea del prompt a `[Tutor de japonés nativo]`, podrás recibir desde explicaciones gramaticales profundas nivel N1 de JLPT hasta recomendaciones perfectas de lenguaje honorífico (Keigo) para negocios.
+
+- **Q: ¿Está bien si pongo el cuerpo de un correo largo en lugar de una o dos frases?**
+  - A: Por supuesto. Sin embargo, si el texto es muy largo, añade una restricción adicional al final del prompt como: `(Mantén el tono general del texto acorde a un [correo electrónico de negocios formal])`. Obtendrás un resultado de corrección mucho más coherente y fluido.
+
+- **Q: Siento que el resultado de la corrección de la IA es demasiado extenso y complejo.**
+  - A: Si los apartados avanzados como [Feedback de crecimiento] o [Recomendación de expresiones nativas] te resultan abrumadores, simplemente borra esas líneas de instrucciones en la versión Pro. Recibirás solo unas 'Notas gramaticales clave' muy limpias e intuitivas.
 
 ---
 
-## 📊 Prueba: Before & After
+## 🧬 Anatomía del Prompt (¿Por qué funciona?)
 
-### ❌ Before (Entrada)
-
-"I look forward to hear from you soon. Please explain me what should I do."
-
-### ✅ After (Resultado)
-
-**[Versión Revisada]**
-"I look forward to **hearing** from you soon. Please **explain to me** what I **should do**."
-
-**[Notas de Corrección]**
-
-- **to hear → to hearing:** En la expresión «look forward to», la palabra «to» actúa como preposición y no como indicador de infinitivo. Detrás de una preposición, los verbos deben ir en gerundio (*-ing*).
-- **explain me → explain to me:** El verbo «explain» jamás admite un objeto indirecto de forma directa. Siempre se debe anteponer un «to» antes de la persona a la que le estás explicando algo.
-- **what should I do → what I should do:** En las preguntas indirectas (aquellas incrustadas dentro de otra oración), el orden de las palabras vuelve a ser el de una afirmación normal (sujeto + verbo), abandonando la estructura de pregunta (verbo + sujeto).
-
-**[Expresiones Nativas]**
-
-1. _"I hope to hear from you soon. Could you clarify the next steps for me?"_ (Más natural y de tono corporativo).
-2. _"Looking forward to your reply. Please let me know how to proceed."_ (Un poco más directo y muy habitual en el intercambio diario de correos).
-
-**[Evaluación]**
-Calificación: 6.5/10. Tu mensaje es perfectamente comprensible, pero presenta algunos errores típicos derivados de la traducción literal del español al inglés.
-_Consejo clave:_ Presta especial atención a aquellos verbos que exigen preposiciones específicas (como «explain to») y familiarízate con la estructura de las preguntas indirectas.
+1. **Asignación de Rol (Role):** Al configurar a la IA con la personalidad de un 'Tutor experto veterano con 10 años de experiencia' en lugar de un simple 'traductor automático', se ajusta el tono de todos los resultados para que sean educativos y amables.
+2. **Segmentación de la Tarea (Task):** Se fuerza el formato de salida en 4 módulos claros: [Versión corregida], [Notas de corrección], [Recomendación de expresiones], y [Feedback]. Esto evita que la IA genere bloques de texto inconexos y garantiza un informe de análisis estructurado con máxima legibilidad.
+3. **Control estricto de Restricciones (Constraints):** Al imponer la restricción de "prohibido el uso de términos lingüísticos innecesariamente difíciles", se logran explicaciones claras que incluso alguien que ha "tirado la toalla con el inglés" puede entender intuitivamente. Es un mecanismo clave para suprimir las alucinaciones académicas innecesarias de la IA.
 
 ---
 
 ## 🎯 Conclusión
 
-Invierte un solo minuto antes de enviar ese correo crucial y ejecuta este *prompt*. No solo potenciarás la confianza de tus clientes al presentarles un texto impecable, sino que tus habilidades en inglés crecerán con cada nueva iteración.
+Antes de pulsar el botón de Enviar en tu correo, dedica solo un minuto a ejecutar este prompt. Podrás proteger tu imagen profesional, que a veces se ve afectada por un inglés tosco o poco natural, y de paso, fortalecerás tus verdaderas habilidades lingüísticas día a día.
 
-¡Ahora, envía ese correo y sal a tiempo del trabajo! 🍷
+¡Ahora, pulsa el botón de Enviar con total confianza y termina tu jornada con ligereza! 🍷

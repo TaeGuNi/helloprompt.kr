@@ -4,7 +4,7 @@ title: " \"파이썬 버그 해결사: 10초 디버깅 프롬프트\""
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Risolvi i bug più insidiosi di Python in soli 10 secondi con questo prompt avanzato. La guida definitiva al debugging con l'IA per sviluppatori."
 tags: ["태그1", "태그2"]
 ---

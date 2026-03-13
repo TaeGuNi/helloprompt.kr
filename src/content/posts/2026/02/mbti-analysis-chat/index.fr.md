@@ -4,7 +4,7 @@ title: " \"MBTI 분석기: 대화 내용으로 상대방 MBTI 맞히기\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "재미/엔터"
+category: "General"
 description: "Décryptez le MBTI de votre crush via ses messages grâce à l'IA. Copiez ce prompt pour analyser sa personnalité et obtenir une stratégie d'approche sur mesure."
 tags: ["MBTI", "성격분석", "심리테스트", "ChatGPT", "연애"]
 ---

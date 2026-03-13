@@ -4,7 +4,7 @@ title: "Spaghetti-Code abgelehnt! 🍝 DDD-Prompt-Schwarze-Magie für Senior-Ent
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Ein Hardcore-DDD-Prompt, der jede naive KI in einen unbarmherzigen Senior-Architekten verwandelt und sauberen Code erzwingt."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ddd-architecture"]
 ---

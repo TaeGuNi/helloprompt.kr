@@ -4,9 +4,9 @@ title: " \"회의록을 Jira 티켓으로 자동 변환하기\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "프로젝트 관리"
+category: "General"
 description: "为您介绍一款如同魔法般的提示词：只需短短 10 秒，即可将长达 1 小时的冗长会议记录，完美转换为结构化的 Jira Ticket。"
-tags: ["PM", "Jira", "회의록", "생산성"]
+tags: ["PM", "Jira", "회의록", "Productivity"]
 ---
 
 ## 📝 将会议记录在 10 秒内自动转化为 Jira Ticket 的 AI 提示词

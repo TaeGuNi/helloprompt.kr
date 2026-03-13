@@ -4,7 +4,7 @@ title: "AIを拷問するカオスモンキー・テストプロンプト 💣 (
 author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "프롬프트 엔지니어링"
+category: "General"
 description: "AIが吐き出す魂のない「テスト成功！」の報告にうんざりしていませんか？システムの破壊シナリオを強制的に検証させる、究極のハードコアテスト用チートキー。"
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "chaos-monkey-testing"]
 ---

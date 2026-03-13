@@ -4,7 +4,7 @@ title: " \"Reasoning 모델 시대: 이제 '지시'하지 말고 '사고'하게 
 author: "Unifactory"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
-category: "AI 트렌드 & 프롬프트"
+category: "General"
 description: "Reasoning-Modelle wie OpenAI o3 verändern alles. Erfahren Sie, warum alte Prompts scheitern und wie modernes Prompt-Engineering wirklich funktioniert."
 tags:
   ["Reasoning Models", "Prompt Engineering", "OpenAI o3", "Gemini", "AI 트렌드"]

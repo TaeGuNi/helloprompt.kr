@@ -4,7 +4,7 @@ title: " \"AI 퍼스널 컬러 진단: 사진 한 장으로 웜톤/쿨톤 찾기
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "라이프/뷰티"
+category: "General"
 description: "Fini les consultations hors de prix ! Découvrez votre colorimétrie (teint chaud/froid) et vos couleurs idéales gratuitement grâce à ce prompt IA et une photo."
 tags: ["퍼스널컬러", "웜톤", "쿨톤", "패션", "ChatGPT"]
 ---

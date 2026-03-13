@@ -4,7 +4,7 @@ title: "El Persona Definitivo de Revisor de Código de IA (Modo Creador de Linux
 author: "Jay"
 date: "2026-02-25"
 updatedDate: "2026-02-25"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Un implacable revisor de código con IA que elimina los halagos y se centra estrictamente en la complejidad temporal y los casos extremos más severos."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ruthless-reviewer"]
 ---

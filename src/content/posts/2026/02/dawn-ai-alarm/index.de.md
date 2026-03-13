@@ -4,7 +4,7 @@ title: " \"미라클 모닝 성공률 200% 만드는 AI 알람 대본\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "자기계발"
+category: "General"
 description: "Fällt es dir jeden Morgen schwer, aufzuwachen? Wir erstellen dir ein knallhartes Weckruf-Skript, das exakt auf deinem Kalender und deinen Zielen basiert."
 tags: ["미라클모닝", "동기부여", "알람"]
 ---

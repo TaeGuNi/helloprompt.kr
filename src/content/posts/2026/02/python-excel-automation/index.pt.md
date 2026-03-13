@@ -4,9 +4,9 @@ title: " \"Python 자동화 스크립트: 귀찮은 엑셀 취합, 1초 컷\""
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Guia de prompt para eliminar a tarefa tediosa de copiar e colar no Excel: consolide dezenas de planilhas em apenas 1 segundo com código Python gerado por IA."
-tags: ["파이썬", "엑셀", "자동화", "Pandas", "업무효율"]
+tags: ["파이썬", "Excel", "Automation", "Pandas", "Productivity"]
 ---
 
 ## 🐍 Script de Automação em Python: Consolide Dezenas de Planilhas Excel em 1 Segundo

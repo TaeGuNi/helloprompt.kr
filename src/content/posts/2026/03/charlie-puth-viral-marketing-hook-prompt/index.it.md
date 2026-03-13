@@ -4,7 +4,7 @@ title: "Creare Hook come Charlie Puth: Trasformare la quotidianità in marketing
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Trasforma caratteristiche banali in hook virali esplosivi per TikTok e Reels, ispirandoti al genio di Charlie Puth. Cattura l'attenzione in soli 3 secondi!"
 tags: ["prompt-engineering", "ai-agent", "charlie-puth"]
 image: "/images/hooks/charlie-puth-viral-marketing-hook-prompt.jpg"

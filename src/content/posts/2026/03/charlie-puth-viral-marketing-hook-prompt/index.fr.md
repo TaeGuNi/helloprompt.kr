@@ -4,7 +4,7 @@ title: "Créer une Accroche (Hook) comme Charlie Puth : Transformer le Quotidien
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Transformez les caractéristiques de vos produits en accroches virales pour TikTok et Reels grâce à ce prompt marketing inspiré du génie de Charlie Puth."
 tags: ["prompt-engineering", "ai-agent", "charlie-puth"]
 image: "/images/hooks/charlie-puth-viral-marketing-hook-prompt.jpg"

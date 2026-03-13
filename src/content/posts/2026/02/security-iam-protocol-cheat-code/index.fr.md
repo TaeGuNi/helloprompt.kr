@@ -4,7 +4,7 @@ title: "🔒 Fermeture du terrain de jeu des hackers ! Le cheat code d'un agent 
 author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Découvrez le prompt de sécurité spartiate qui anéantit la complaisance de l'IA et bloque le vol de tokens à la source. Sécurisez votre code instantanément."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "security-iam-protocol"]
 ---

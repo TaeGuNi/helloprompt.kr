@@ -4,7 +4,7 @@ title: " \"AI와 끝말잇기: 절대 질 수 없는 끝말잇기 고수\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "재미/엔터"
+category: "General"
 description: "Domina l'IA che abusa di parole impossibili. Scopri il prompt definitivo e le strategie per creare un bot per il gioco di parole a catena imbattibile."
 tags: ["끝말잇기", "게임", "ChatGPT", "한국어", "놀이"]
 ---

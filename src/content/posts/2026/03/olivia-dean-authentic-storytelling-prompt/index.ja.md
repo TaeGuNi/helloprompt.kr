@@ -4,7 +4,7 @@ title: "🎵 オリヴィア・ディーン(Olivia Dean)の感性をひとさじ
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "もう、ありきたりな広告文句は終わりにしましょう。イギリスのソウルシンガー、オリヴィア・ディーンのように「本物の感性」を吹き込む、コピーライティング特化型AIプロンプトをご紹介します。"
 tags: ["prompt-engineering", "ai-agent", "olivia-dean"]
 ---

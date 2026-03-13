@@ -4,7 +4,7 @@ title: "🎵 Ein Hauch von Olivia Dean: Der magische Prompt, der seelenlose Werb
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Schluss mit abgedroschenen Phrasen! Ein KI-Prompt für emotionales Copywriting, der die Authentizität der Soul-Musikerin Olivia Dean meisterhaft einfängt."
 tags: ["prompt-engineering", "ai-agent", "olivia-dean"]
 ---

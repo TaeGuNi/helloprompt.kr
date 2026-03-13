@@ -4,7 +4,7 @@ title: " \"개발자 번아웃 자가진단: 내가 게으른 걸까, 아픈 걸
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "멘탈 케어"
+category: "General"
 description: "Fatigué de coder ? Ce prompt utilise le MBI pour diagnostiquer objectivement votre état de burn-out et vous prescrire des routines de récupération."
 tags: ["번아웃", "개발자", "멘탈케어", "심리", "ChatGPT"]
 ---

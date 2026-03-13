@@ -4,7 +4,7 @@ title: "💌 Prompt de Cold Email para Contactar Celebridades que hasta Nick Jon
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "마케팅 자동화"
+category: "General"
 description: "¡Basta de emails con 0% de respuesta! Descubre el prompt definitivo para redactar cold emails irresistibles y cautivar a celebridades nivel VIP."
 tags: ["prompt-engineering", "ai-agent", "nick-jonas"]
 image: "/images/hooks/nick-jonas-influencer-pitch-prompt.jpg"

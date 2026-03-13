@@ -4,9 +4,9 @@ title: " \"Kafka vs RabbitMQ: 대용량 트래픽 처리의 핵심\""
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "백엔드/DB"
+category: "General"
 description: "Message Queue einführen? Ein Architektur- und Vergleichsleitfaden zu Durchsatz und Zuverlässigkeit von Kafka und RabbitMQ für enorme Datenmengen."
-tags: ["Kafka", "RabbitMQ", "메시지큐", "MSA", "백엔드"]
+tags: ["Kafka", "RabbitMQ", "메시지큐", "MSA", "Backend"]
 ---
 
 ## 📨 Kafka vs RabbitMQ: Der Schlüssel zur Verarbeitung massiven Traffics

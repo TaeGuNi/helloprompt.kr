@@ -4,7 +4,7 @@ title: "🎵 Душевность Оливии Дин: Магический пр
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Долой шаблонные рекламные фразы! ИИ-промпт для эмоционального копирайтинга, пропитанный искренностью британской соул-певицы Оливии Дин."
 tags: ["prompt-engineering", "ai-agent", "olivia-dean"]
 ---

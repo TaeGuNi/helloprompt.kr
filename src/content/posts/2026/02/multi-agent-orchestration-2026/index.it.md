@@ -4,9 +4,9 @@ title: " \"초보자를 위한 AI 에이전트 오케스트레이션 입문 (Mul
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "E se una sola AI non bastasse? Scopri il prompt 'Multi-Agente' che fa collaborare diverse intelligenze artificiali come un vero team."
-tags: ["AI 에이전트", "자동화", "프롬프트 엔지니어링", "AutoGPT"]
+tags: ["AI 에이전트", "Automation", "Prompt Engineering", "AutoGPT"]
 ---
 
 ## 📝 L'era dell'AI Solitaria è Finita: Costruisci il tuo Team Multi-Agente

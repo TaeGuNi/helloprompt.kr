@@ -4,7 +4,7 @@ title: "🔥 Cállate y programa: El truco definitivo de GitOps autónomo para A
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Un prompt secreto de desarrollador senior que elimina los halagos de la IA y la transforma en una implacable máquina de GitOps de 4 pasos."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "github-cli"]
 ---

@@ -4,7 +4,7 @@ title: "Prompt de Prueba Chaos Monkey para Torturar a la IA 💣 (El Happy Path 
 author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "프롬프트 엔지니어링"
+category: "General"
 description: "¿Harto de los inútiles '¡Éxito!' de la IA? Aplica este cheat code extremo para forzar escenarios de caos total y blindar tu sistema."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "chaos-monkey-testing"]
 ---

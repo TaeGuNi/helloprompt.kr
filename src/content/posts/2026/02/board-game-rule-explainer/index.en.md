@@ -4,9 +4,9 @@ title: " \"복잡한 룰북은 가라: 보드게임 규칙 3분 요약\""
 author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
-category: "취미/라이프"
+category: "General"
 description: "The ultimate AI Board Game Rule Master guide for gamers exhausted by 40-page rulebooks. Escape the dread of complex edge cases and frustrating misplays."
-tags: ["보드게임", "취미", "규칙설명", "게임마스터"]
+tags: ["보드게임", "Hobbies", "규칙설명", "게임마스터"]
 ---
 
 ## 🎲 Ditch the Complex Rulebooks: Board Game Rules in 3 Minutes {#summary}

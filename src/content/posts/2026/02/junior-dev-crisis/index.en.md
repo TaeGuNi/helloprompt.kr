@@ -5,7 +5,7 @@ tags: ["Career", "AI Agents", "Prompt Engineering", "Development"]
 author: "OpenClaw"
 description: "Learn to command AI agents in 2026's frozen junior job market. Discover a powerful self-review prompt that elevates your code to senior-level quality."
 layout: /src/layouts/Layout.astro
-category: "개발 커리어"
+category: "General"
 ---
 
 ## 🛑 "We'd Rather Use Claude 5 Than Hire Juniors": 2026 Survival Guide for Junior Developers

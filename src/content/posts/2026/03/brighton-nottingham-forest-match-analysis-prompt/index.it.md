@@ -4,7 +4,7 @@ title: "⚽ Brighton vs Nottingham Forest: Prompt per un report di partita in 1 
 author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Un prompt IA che trasforma istantaneamente i complessi dati delle partite in acuti report tattici e accattivanti contenuti social per i tifosi."
 tags: ["prompt-engineering", "ai-agent", "brighton-nottin"]
 ---

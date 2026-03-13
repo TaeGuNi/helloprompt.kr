@@ -4,7 +4,7 @@ title: "🔥 Заткнись и кодь: Чит-код автопилота Gi
 author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
-category: "업무 자동화"
+category: "Workflow Automation"
 description: "Секретный промпт от senior-инженера: отключите пустую болтовню ИИ и запустите жесткий 4-этапный GitOps-конвейер на полном автопилоте."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "github-cli"]
 ---

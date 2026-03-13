@@ -4,7 +4,7 @@ title: " \"GitHub Copilot vs Cursor vs Windsurf: AI 코딩 3대장 비교\""
 author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
-category: "개발/코딩"
+category: "General"
 description: "L'ère des IA de codage est là. Quel outil est fait pour vous ? Analyse complète des fonctionnalités, des prix et de l'ergonomie."
 tags: ["Cursor", "Copilot", "Windsurf", "AI코딩", "IDE"]
 ---

@@ -4,7 +4,7 @@ title: "🚨 Cala a boca e cria meu código: Cheat Code Implacável para Arquite
 author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
-category: "AI 개발"
+category: "General"
 description: "O cheat code definitivo de um desenvolvedor frontend sênior para erradicar as alucinações da IA e exterminar o código espaguete pela raiz."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "react-next-architecture"]
 ---

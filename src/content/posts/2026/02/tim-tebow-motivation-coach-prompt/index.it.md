@@ -4,9 +4,9 @@ title: " \"🏈 La mentalità di non arrendersi mai di Tim Tebow: Crea il tuo 'C
 author: "Jay"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
-category: "자기계발"
+category: "General"
 description: "Trasforma la resilienza di Tim Tebow in un prompt IA e crea il tuo mental coach personale, pronto a motivarti e farti rialzare nei momenti di burnout."
-tags: ["tim tebow", "동기부여", "마인드셋", "멘탈케어", "업무자동화", "ChatGPT"]
+tags: ["tim tebow", "동기부여", "마인드셋", "멘탈케어", "Work Automation", "ChatGPT"]
 ---
 
 ## 📝 Prompt di Coaching Mentale Tim Tebow: Come rialzarsi dopo un fallimento

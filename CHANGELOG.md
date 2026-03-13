@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.14.3](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.14.2...v1.14.3) (2026-03-13)
+
+
+### Bug Fixes
+
+* LOC_KOREAN_REMAINS 689→0, category/tag i18n, Before/After formatting ([38df6b2](https://github.com/TaeGuNi/helloprompt.kr/commit/38df6b29f301617d6ad98b044389f8e2db52ecaf))
+
 ### [1.14.2](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.14.1...v1.14.2) (2026-03-10)
 
 ### [1.14.1](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.14.0...v1.14.1) (2026-03-08)

@@ -606,4 +606,4 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   });
 }
 
-export { rewriteWithCLI, phase1Restructure, phase2Translate };
+export { phase1Restructure, phase2Translate, rewriteWithCLI };

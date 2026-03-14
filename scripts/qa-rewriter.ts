@@ -130,7 +130,7 @@ function getTranslationInstruction(targetLang: string) {
       langName +
       " professional writer, NOT a machine translator.",
     "4. **FRONTMATTER:**",
-    "   - Translate 'title' and 'description' to " + langName + ".",
+    `   - Translate 'title' and 'description' to ${langName}.`,
     "   - Description MUST be ≤ 160 characters for SEO.",
     "   - Keep date, image, author, tags, category EXACTLY as-is.",
     "5. **TEMPLATE VARIABLES:** Translate ALL placeholder brackets into " +
@@ -164,11 +164,10 @@ async function rewriteWithCLI(prompt: string, model: string): Promise<string> {
   }
 
   // Clean off markdown fences if injected
-  text =
-    text
-      .replace(/^```markdown\n?/i, "")
-      .replace(/```$/i, "")
-      .trim() + "\n";
+  text = `${text
+    .replace(/^```markdown\n?/i, "")
+    .replace(/```$/i, "")
+    .trim()}\n`;
   return text;
 }
 
@@ -191,7 +190,7 @@ function buildRestructurePrompt(
     "</POST_TEMPLATE>",
     "",
     "<TARGET_FILE_TO_RESTRUCTURE>",
-    "File Name: " + fileName,
+    `File Name: ${fileName}`,
     "",
     content,
     "</TARGET_FILE_TO_RESTRUCTURE>",
@@ -230,7 +229,7 @@ async function phase1Restructure(targetDirs?: string[], force?: boolean) {
   if (targetDirs && targetDirs.length > 0) {
     for (const dir of targetDirs) {
       const relDir = path.relative(process.cwd(), dir);
-      const files = await glob(relDir + "/**/index.ko.md");
+      const files = await glob(`${relDir}/**/index.ko.md`);
       koFiles.push(...files);
     }
   } else {
@@ -238,7 +237,7 @@ async function phase1Restructure(targetDirs?: string[], force?: boolean) {
   }
 
   koFiles = [...new Set(koFiles)];
-  console.log("📄 Found " + koFiles.length + " Korean source files.");
+  console.log(`📄 Found ${koFiles.length} Korean source files.`);
 
   // Skip already-modified files (git diff)
   if (!force) {
@@ -247,12 +246,12 @@ async function phase1Restructure(targetDirs?: string[], force?: boolean) {
     koFiles = koFiles.filter((f) => !modifiedFiles.has(f));
     const skipped = beforeCount - koFiles.length;
     if (skipped > 0) {
-      console.log("⏩ Skipping " + skipped + " already-modified files.");
+      console.log(`⏩ Skipping ${skipped} already-modified files.`);
     }
   } else {
     console.log("⚡ --force: skipping git-modified check.");
   }
-  console.log("🎯 " + koFiles.length + " files to process.");
+  console.log(`🎯 ${koFiles.length} files to process.`);
 
   if (koFiles.length === 0) {
     console.log("⚠️ No Korean files to process. Skipping Phase 1.");
@@ -312,10 +311,10 @@ async function phase1Restructure(targetDirs?: string[], force?: boolean) {
       if (result.status === "fulfilled") {
         const val = result.value;
         if (val.success) {
-          console.log("   ✅ " + val.file);
+          console.log(`   ✅ ${val.file}`);
           completed.push(val.file);
         } else {
-          console.error("   ❌ " + val.file + ": " + val.error);
+          console.error(`   ❌ ${val.file}: ${val.error}`);
           errors.push({ file: val.file, error: val.error || "unknown" });
         }
       }
@@ -348,7 +347,7 @@ async function phase2Translate(
   } else if (targetDirs && targetDirs.length > 0) {
     for (const dir of targetDirs) {
       const relDir = path.relative(process.cwd(), dir);
-      const found = await glob(relDir + "/**/index.ko.md");
+      const found = await glob(`${relDir}/**/index.ko.md`);
       filesToProcess.push(...found);
     }
   } else {
@@ -363,7 +362,7 @@ async function phase2Translate(
   for (const koFile of filesToProcess) {
     const dir = path.dirname(koFile);
     for (const lang of SUPPORTED_LANGS) {
-      const targetFile = path.join(dir, "index." + lang + ".md");
+      const targetFile = path.join(dir, `index.${lang}.md`);
       if (!modifiedFiles.has(targetFile)) {
         tasks.push({ koFile, targetFile, lang });
       }
@@ -437,10 +436,10 @@ async function phase2Translate(
       if (result.status === "fulfilled") {
         const val = result.value;
         if (val.success) {
-          console.log("   ✅ " + val.file);
+          console.log(`   ✅ ${val.file}`);
           completed.push(val.file);
         } else {
-          console.error("   ❌ " + val.file + ": " + val.error);
+          console.error(`   ❌ ${val.file}: ${val.error}`);
           errors.push({ file: val.file, error: val.error || "unknown" });
         }
       }
@@ -480,7 +479,7 @@ async function legacyRewrite(targetDirs?: string[]) {
 
   while (queue.pending.length > 0) {
     const batch = queue.pending.splice(0, BATCH_SIZE_PHASE1);
-    console.log("\n⏳ Rewriting Batch of " + batch.length + " files...");
+    console.log(`\n⏳ Rewriting Batch of ${batch.length} files...`);
 
     const promises = batch.map(async (file: string) => {
       try {
@@ -513,10 +512,10 @@ async function legacyRewrite(targetDirs?: string[]) {
       if (result.status === "fulfilled") {
         const val = result.value;
         if (val.success) {
-          console.log("   ✅ Rewrite successful: " + val.file);
+          console.log(`   ✅ Rewrite successful: ${val.file}`);
           queue.completed.push(val.file);
         } else {
-          console.error("   ❌ Error on " + val.file + ": " + val.error);
+          console.error(`   ❌ Error on ${val.file}: ${val.error}`);
           queue.errors.push({ file: val.file, error: val.error });
         }
       }
@@ -542,7 +541,7 @@ async function initLegacyQueue(targetDirs?: string[]) {
     if (targetDirs && targetDirs.length > 0) {
       for (const dir of targetDirs) {
         const relDir = path.relative(process.cwd(), dir);
-        const files = await glob(relDir + "/**/*.md");
+        const files = await glob(`${relDir}/**/*.md`);
         allFiles.push(...files);
       }
     } else {
@@ -552,7 +551,7 @@ async function initLegacyQueue(targetDirs?: string[]) {
     allFiles = [...new Set(allFiles)];
     queue = { completed: [], pending: allFiles, errors: [] };
     await saveQueue(queue);
-    console.log("Initialized queue with " + allFiles.length + " files.");
+    console.log(`Initialized queue with ${allFiles.length} files.`);
   }
   return queue;
 }
@@ -600,11 +599,11 @@ async function main() {
   console.log("\n🎉 ALL PHASES COMPLETE!");
 }
 
-if (import.meta.url === "file://" + process.argv[1]) {
+if (import.meta.url === `file://${process.argv[1]}`) {
   main().catch((e) => {
     console.error(e);
     process.exit(1);
   });
 }
 
-export { rewriteWithCLI, phase1Restructure, phase2Translate };
+export { phase1Restructure, phase2Translate, rewriteWithCLI };

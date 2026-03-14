@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.15.1](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.15.0...v1.15.1) (2026-03-14)
+
+## [1.15.0](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.14.3...v1.15.0) (2026-03-13)
+
+
+### Features
+
+* add 12 investment analysis prompt posts (10 US stocks + WTI + SpaceX) ([6921cbf](https://github.com/TaeGuNi/helloprompt.kr/commit/6921cbf70f4637af1fb959998a210199a059a144))
+
+
 ### [1.14.3](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.14.2...v1.14.3) (2026-03-13)
 
 

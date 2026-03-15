@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.19.0](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.18.0...v1.19.0) (2026-03-15)
+
+
+### Features
+
+* **content:** add 10 digital content AI posts (100 files, 10 languages) ([9e37426](https://github.com/TaeGuNi/helloprompt.kr/commit/9e37426dcaa460405ae22fd5ba14f8784206c5ca))
+
 ## [1.18.0](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.17.1...v1.18.0) (2026-03-15)
 
 

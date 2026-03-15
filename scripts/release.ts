@@ -308,6 +308,14 @@ CRITICAL RULES:
     execSync("git merge main", { stdio: "inherit" });
     execSync("git push origin develop", { stdio: "inherit" });
     console.log("🎉 SUCCESS: Pipeline fully automated and merged!");
+
+    // 10. IndexNow Submission (Bing SEO)
+    console.log("\n📡 Submitting changed URLs to IndexNow...");
+    try {
+      execSync("tsx scripts/submit-indexnow.ts", { stdio: "inherit" });
+    } catch {
+      console.warn("⚠️ IndexNow submission failed. Non-fatal, continuing.");
+    }
   } else {
     console.error(
       "\n⚠️ CI monitoring timed out. Please check GitHub PR manually.",

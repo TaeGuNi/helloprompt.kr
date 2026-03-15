@@ -36,12 +36,12 @@ Astro.response.headers.set(
 );
 
 const { Content, headings } = await render(post);
-const postTags = (post.data as any).tags || [];
-const postDate = (post.data as any).date || "";
+const postTags = post.data.tags || [];
+const postDate = post.data.date || "";
 ---
 
 <Layout
-  frontmatter={{ ...(post.data as any), lang: paramLang }}
+  frontmatter={{ ...post.data, lang: paramLang }}
   headings={headings}
 >
   <Content />

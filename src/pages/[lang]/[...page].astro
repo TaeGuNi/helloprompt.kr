@@ -42,7 +42,7 @@ const posts = allPosts.filter(
 // === 인기 태그 계산 (빌드 타임) ===
 const tagFrequency: Record<string, number> = {};
 posts.forEach((post) => {
-  const tags = (post.data as any).tags || [];
+  const tags = post.data.tags || [];
   tags.forEach((tag: string) => {
     tagFrequency[tag] = (tagFrequency[tag] || 0) + 1;
   });

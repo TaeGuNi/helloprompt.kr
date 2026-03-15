@@ -3,7 +3,7 @@ import { execSync } from "node:child_process";
 // ─── Constants ───────────────────────────────────────────────────────────────
 
 const SITE = "https://helloprompt.kr";
-const INDEXNOW_KEY = "effa76f9626d1994c2835cb8fc876ed1";
+const INDEXNOW_KEY = "764533a1567c6d4e8e97f175879a4f66";
 const INDEXNOW_ENDPOINT = "https://api.indexnow.org/IndexNow";
 const LANGUAGES = ["ko", "en", "de", "es", "fr", "it", "ja", "pt", "ru", "zh"];
 

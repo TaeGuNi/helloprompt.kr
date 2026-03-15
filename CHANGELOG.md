@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.16.3](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.16.2...v1.16.3) (2026-03-15)
+
+
+### Bug Fixes
+
+* **indexnow:** rotate API key to bypass cached verification failure ([1355a53](https://github.com/TaeGuNi/helloprompt.kr/commit/1355a53c310b98b0dfbe2cb7581035ca49fe361a))
+* **lint:** remove unnecessary 'as any' casts from Astro pages ([09b501f](https://github.com/TaeGuNi/helloprompt.kr/commit/09b501f4822b6def626027d20102325728c80842))
+
 ### [1.16.2](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.16.1...v1.16.2) (2026-03-15)
 
 

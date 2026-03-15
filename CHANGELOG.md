@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.18.0](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.17.1...v1.18.0) (2026-03-15)
+
+
+### Features
+
+* **content:** add lofi-music-ai-prompt post (10 languages) ([20f0510](https://github.com/TaeGuNi/helloprompt.kr/commit/20f051032cf8e59defe1e4c4015e57cbc27ffea1))
+
 ### [1.17.1](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.17.0...v1.17.1) (2026-03-15)
 
 

@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.16.2](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.16.1...v1.16.2) (2026-03-15)
+
+
+### Bug Fixes
+
+* **indexnow:** guard main() from executing during vitest imports ([35e226f](https://github.com/TaeGuNi/helloprompt.kr/commit/35e226f0256af5e57dbee09ec84b4a4563bf2aa1))
+
 ### [1.16.1](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.16.0...v1.16.1) (2026-03-15)
 
 ## [1.16.0](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.15.1...v1.16.0) (2026-03-15)

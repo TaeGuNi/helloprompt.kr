@@ -147,8 +147,15 @@ async function main(): Promise<void> {
   console.log("\n✅ IndexNow submission complete.");
 }
 
-main().catch((err) => {
-  console.error("❌ IndexNow submission failed:", err);
-  // Exit 0 intentionally: IndexNow failure should NOT block the release pipeline
-  process.exit(0);
-});
+// Only run main() when executed directly (not when imported by test runner)
+const isDirectRun =
+  process.argv[1]?.endsWith("submit-indexnow.ts") ||
+  process.argv[1]?.includes("submit-indexnow");
+
+if (isDirectRun) {
+  main().catch((err) => {
+    console.error("❌ IndexNow submission failed:", err);
+    // Exit 0 intentionally: IndexNow failure should NOT block the release pipeline
+    process.exit(0);
+  });
+}

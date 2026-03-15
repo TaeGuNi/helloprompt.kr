@@ -12,7 +12,6 @@
     "astro": "astro",
     "lint": "biome check .",
     "generate:trend": "tsx scripts/generate-trends.ts",
-    "generate:image": "tsx scripts/generate-hook-image.ts",
     "qa": "tsx scripts/qa.ts",
     "qa:rewrite": "tsx scripts/qa-rewriter.ts",
     "test": "vitest run",

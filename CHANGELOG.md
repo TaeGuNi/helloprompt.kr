@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.16.0](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.15.1...v1.16.0) (2026-03-15)
+
+
+### Features
+
+* add 10 practical AI prompt posts (daily life use cases) ([e1daa56](https://github.com/TaeGuNi/helloprompt.kr/commit/e1daa567fd7ffcfa59d21768c92a6c83a51affb0))
+
 ### [1.15.1](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.15.0...v1.15.1) (2026-03-14)
 
 ## [1.15.0](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.14.3...v1.15.0) (2026-03-13)

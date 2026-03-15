@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "Workflow Automation"
-description: "お世辞は一切不要。純粋なビジネスロジックのみを記述させる、シニアアーキテクトレベルの過酷なAI調教プロンプト。"
+description: "お世辞は一切不要。純粋なビジネスロジックのみを記述させる、シニアアーキテクトレベルの過酷なAI調教プロンプト。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 쓸데없는 아부는 집어치우고 순수한 비즈니스 로직만 짜게 만드는 시니어 아키텍트의 혹독한 AI 조련 프롬프트를 공개합니다. 스파게티 코드를 단숨에 클린 아키텍처로 탈바꿈하세요."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ddd-architecture"]
 ---
 

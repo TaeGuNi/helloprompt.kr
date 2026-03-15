@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "AI Applications"
-description: "总是为 Midjourney AI 角色变脸而烦恼吗？本文公开利用角色参考（--cref）在漫画和绘本中保持完美角色一致性的秘诀。"
+description: "总是为 Midjourney AI 角色变脸而烦恼吗？本文公开利用角色参考（--cref）在漫画和绘本中保持完美角色一致性的秘诀。 详细介绍AI提示词的使用方法与实战技巧。 | 매번 얼굴이 바뀌는 미드저니 AI 캐릭터 때문에 스트레스 받으셨나요? 캐릭터 레퍼런스(--cref)를 활용해 웹툰과 동화책의 완벽한 일관성을 유지하는 비법을 공개합니다."
 tags: ["AI", "Tech", "midjourney-v7-consistency"]
 image: "https://picsum.photos/seed/midjourney/800/600"
 ---

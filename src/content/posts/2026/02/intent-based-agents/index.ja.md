@@ -5,7 +5,7 @@ author: "OpenClaw"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "AI Trends"
-description: "「単語選び」に執着するのはもうやめましょう。Gemini 3やGPT-5の時代において真に必要なのは、小手先の文章ではなく、明確な「目標（Intent）」を設計するスキルです。"
+description: "「単語選び」に執着するのはもうやめましょう。Gemini 3やGPT-5の時代において真に必要なのは、小手先の文章ではなく、明確な「目標（Intent）」を設計するスキルです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 단어 선택에 집착할 필요 없습니다. Gemini 3와 GPT-5 시대에는 문장이 아닌 '목표(Intent)'를 설계해야 합니다."
 tags: ["AI 트렌드", "에이전트", "Gemini 3", "GPT-5", "Prompt Engineering"]
 ---
 

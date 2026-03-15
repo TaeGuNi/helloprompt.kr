@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "セキュリティ自動化"
-description: "2026年のスマートスリープマスクにおける致命的なIoTセキュリティ脆弱性。BLE通信を通じて流出する脳波データを根本的に遮断するAIセキュリティレビュープロンプトを確認してください。"
+description: "2026年のスマートスリープマスクにおける致命的なIoTセキュリティ脆弱性。BLE通信を通じて流出する脳波データを根本的に遮断するAIセキュリティレビュープロンプトを確認してください。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 image: "https://picsum.photos/seed/brainwaves/800/600"
 tags: ["AI", "Tech", "smart-sleep-mask-privacy-leak"]
 ---

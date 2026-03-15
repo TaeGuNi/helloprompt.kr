@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "AI活用"
-description: "生成のたびに顔が変わるMidjourneyのAIキャラクターでお悩みですか？キャラクターリファレンス(--cref)を活用し、Webtoonや絵本で完璧な一貫性を維持する秘訣を公開します。"
+description: "生成のたびに顔が変わるMidjourneyのAIキャラクターでお悩みですか？キャラクターリファレンス(--cref)を活用し、Webtoonや絵本で完璧な一貫性を維持する秘訣を公開します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["AI", "Tech", "midjourney-v7-consistency"]
 image: "https://picsum.photos/seed/midjourney/800/600"
 ---

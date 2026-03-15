@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "办公自动化"
-description: "彻底告别企业机密泄露与订阅费焦虑！无需联网，在个人电脑上 100% 免费运行的私有 AI，本地 LLM (Ollama) 构建与应用全攻略。"
+description: "彻底告别企业机密泄露与订阅费焦虑！无需联网，在个人电脑上 100% 免费运行的私有 AI，本地 LLM (Ollama) 构建与应用全攻略。 详细介绍AI提示词的使用方法与实战技巧。 | 기업 기밀 유출과 구독료 걱정은 끝! 인터넷 없이 내 PC에서 100% 무료로 구동되는 프라이빗 AI, 로컬 LLM(Ollama) 완벽 구축 및 활용 가이드입니다."
 tags: ["AI", "Tech", "local-llm-ollama"]
 image: "https://picsum.photos/seed/ollama/800/600"
 ---

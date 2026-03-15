@@ -1,6 +1,6 @@
 ---
 date: "2026-02-13"
-description: "深入解析 Waymo 第六代完全自动驾驶系统的核心升级：传感器强化、恶劣天气抗性与丝滑乘坐体验。内附科技新闻结构化提炼的专属 AI 提示词。"
+description: "深入解析 Waymo 第六代完全自动驾驶系统的核心升级：传感器强化、恶劣天气抗性与丝滑乘坐体验。内附科技新闻结构化提炼的专属 AI 提示词。 详细介绍AI提示词的使用方法与实战技巧。 | 복잡한 영문 테크 뉴스를 1분 만에 전문가 수준의 한국어 블로그 포스팅으로 요약 및 변환해 주는 AI 프롬프트를 확인해 보세요."
 image: /images/blog/default-auto.jpg
 layout: /src/layouts/Layout.astro
 pubDate: "2026-02-13"

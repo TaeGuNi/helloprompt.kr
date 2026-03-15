@@ -5,7 +5,7 @@ author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "Automação de Trabalho"
-description: "Prompt hardcore para destruir o bajulo da IA e controlar DBs com modo read-only seguro e JSON perfeito."
+description: "Prompt hardcore para destruir o bajulo da IA e controlar DBs com modo read-only seguro e JSON perfeito. Descubra como usar prompts de IA de forma prática e eficaz."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "postgresql"]
 ---
 

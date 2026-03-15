@@ -3,7 +3,7 @@ categories:
   - AI
   - Technology
 date: "2026-02-17"
-description: "介绍利用 Google 最新 AI 模型 Gemini 3 强大的深度思考（Deep Think）能力，仅需 3 分钟即可解决复杂实务问题的提示工程技巧。"
+description: "介绍利用 Google 最新 AI 模型 Gemini 3 强大的深度思考（Deep Think）能力，仅需 3 分钟即可解决复杂实务问题的提示工程技巧。 详细介绍AI提示词的使用方法与实战技巧。 | Google 최신 AI 모델 Gemini 3의 압도적인 심층 사고(Deep Think) 능력을 활용하여 복잡한 실무 문제를 단 3분 만에 해결하는 프롬프트 엔지니어링 기법을..."
 heroImage: /blog-placeholder-3.jpg
 pubDate: "2026-02-13"
 tags:

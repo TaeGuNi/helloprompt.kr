@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalité & Éducation"
-description: "Comment expliquer la mort avec tact et réconforter un enfant face à la perte d'un animal de compagnie ou d'un proche."
+description: "Comment expliquer la mort avec tact et réconforter un enfant face à la perte d'un animal de compagnie ou d'un proche. Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags: ["Parentalité", "Éducation", "Prompt IA", "ChatGPT", "Conseils Parentaux"]
 ---
 

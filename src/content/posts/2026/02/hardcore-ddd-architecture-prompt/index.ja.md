@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "業務自動化"
-description: "従順なだけのポンコツAIを、妥協を知らない無慈悲なシニアアーキテクトへと覚醒させる、ハードコアなDDD設計用プロンプト。"
+description: "従順なだけのポンコツAIを、妥協を知らない無慈悲なシニアアーキテクトへと覚醒させる、ハードコアなDDD設計用プロンプト。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 단순 코더 AI를 무자비한 시니어 아키텍트로 개조하여 완벽한 클린 아키텍처를 강제하는 하드코어 DDD 치트키 프롬프트를 공개합니다."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ddd-architecture"]
 ---
 

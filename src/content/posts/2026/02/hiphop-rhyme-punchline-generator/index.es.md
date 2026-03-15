@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.129Z"
 updatedDate: "2026-02-07T09:10:33.129Z"
 category: "Creatividad y Pasatiempos"
-description: "¡Atención raperos! Crea punchlines y letras increíbles en 30 segundos con este prompt de IA para rimas y hip hop."
+description: "¡Atención raperos! Crea punchlines y letras increíbles en 30 segundos con este prompt de IA para rimas y hip hop. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["Hip hop", "Rap", "Letras", "Rimas", "Punchline"]
 ---
 

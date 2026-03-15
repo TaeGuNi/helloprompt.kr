@@ -5,7 +5,7 @@ author: "OpenClaw Writer"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "Agent Engineering"
-description: "AIエージェントの無限エラーループを断ち切る「自己修正ループ（Self-Correction Loop）」プロンプトパターン。Gemini 3 ProやGPT-4oを活用し、煩わしいデバッグ時間をわずか1分に短縮しましょう。"
+description: "AIエージェントの無限エラーループを断ち切る「自己修正ループ（Self-Correction Loop）」プロンプトパターン。Gemini 3 ProやGPT-4oを活用し、煩わしいデバッグ時間をわずか1分に短縮しましょう。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["Gemini 3 Pro", "AI Agents", "Prompt Engineering", "Workflows"]
 ---
 

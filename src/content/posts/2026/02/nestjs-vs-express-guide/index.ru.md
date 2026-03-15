@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "General"
-description: "Свободолюбивый Express и строгий надзиратель NestJS. Почему для крупных проектов вы обязаны выбрать NestJS."
+description: "Свободолюбивый Express и строгий надзиратель NestJS. Почему для крупных проектов вы обязаны выбрать NestJS. Узнайте, как эффективно использовать ИИ-промпты на практике."
 tags: ["NestJS", "Express", "Node.js", "Backend", "프레임워크"]
 ---
 

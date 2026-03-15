@@ -1,6 +1,6 @@
 ---
 title: "Galaxy S26：怪兽级规格与 AI 的结合"
-description: "通过 Exynos 2600 的搭载与 3D 户外广告，深入分析 Galaxy AI 进化的提示词介绍。"
+description: "通过 Exynos 2600 的搭载与 3D 户外广告，深入分析 Galaxy AI 进化的提示词介绍。 详细介绍AI提示词的使用方法与实战技巧。 | 엑시노스 2600 탑재와 3D 옥외 광고로 보는 갤럭시 AI의 진화를 심층 분석하는 프롬프트를 소개합니다."
 date: "2026-02-14"
 cover: "./cover.jpg"
 ---

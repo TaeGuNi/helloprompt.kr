@@ -5,7 +5,7 @@ author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "业务自动化"
-description: "彻底粉碎 AI 的盲目奉承和幻觉，通过安全只读模式和完美 JSON 掌控数据库的硬核提示词。"
+description: "彻底粉碎 AI 的盲目奉承和幻觉，通过安全只读模式和完美 JSON 掌控数据库的硬核提示词。 详细介绍AI提示词的使用方法与实战技巧。 | AI의 맹목적인 아첨과 환각을 박살 내고, 안전한 읽기 전용 모드와 완벽한 JSON으로 DB를 제어하는 하드코어 프롬프트."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "postgresql"]
 ---
 

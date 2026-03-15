@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codage/IT"
-description: "Un prompt qui transforme votre code brouillon et fonctionnel en un code propre, lisible et facile à maintenir."
+description: "Un prompt qui transforme votre code brouillon et fonctionnel en un code propre, lisible et facile à maintenir. Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags: ["Refactorisation", "CleanCode", "Développeur", "RevueDeCode"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "業務自動化"
-description: "LLMの予測不可能性を制御せよ！ペトリネット（Petri Nets）を活用して、安全で堅牢な分散システムアーキテクチャを設計するための実務プロンプトガイドです。"
+description: "LLMの予測不可能性を制御せよ！ペトリネット（Petri Nets）を活用して、安全で堅牢な分散システムアーキテクチャを設計するための実務プロンプトガイドです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | LLM의 예측 불가능성을 통제하라! 페트리 넷(Petri Nets)을 활용해 안전하고 견고한 분산 시스템 아키텍처를 설계하는 실무 프롬프트 가이드입니다."
 image: "https://picsum.photos/seed/distributed/800/600"
 tags: ["AI", "Tech", "llm-distributed-systems"]
 ---

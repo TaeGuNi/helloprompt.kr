@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "探讨历史人物或事件转折的“架空历史（Alternative History）”模拟提示词。"
+description: "探讨历史人物或事件转折的“架空历史（Alternative History）”模拟提示词。 详细介绍AI提示词的使用方法与实战技巧。 | 단 하나의 역사적 사건이 다르게 흘러갔다면? AI의 압도적인 추론 능력으로 정치, 경제, 사회적 나비효과를 정밀하게 계산하는 대체 역사 시뮬레이션 프롬프트를 만나보세요."
 tags: ["대체역사", "시뮬레이션", "역사", "만약에", "ChatGPT"]
 ---
 

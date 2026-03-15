@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "昨晚做了一个离奇的梦？别找弗洛伊德了，问问 ChatGPT 吧。让 AI 为你深度解析潜意识。"
+description: "昨晚做了一个离奇的梦？别找弗洛伊德了，问问 ChatGPT 吧。让 AI 为你深度解析潜意识。 详细介绍AI提示词的使用方法与实战技巧。 | 어젯밤 꾼 기묘한 꿈, 프로이트 대신 ChatGPT에게 물어보세요. AI가 당신의 무의식을 심층 분석해 드립니다."
 tags: ["꿈해몽", "심리학", "재미", "ChatGPT"]
 ---
 

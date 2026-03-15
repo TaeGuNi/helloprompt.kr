@@ -1,6 +1,6 @@
 ---
 title: "AI検索戦争：Google vs OpenAI"
-description: "GoogleとOpenAIのAI検索戦争がビジネスに及ぼす影響を分析し、実務で即座に活用できる深層リサーチプロンプトを紹介します。"
+description: "GoogleとOpenAIのAI検索戦争がビジネスに及ぼす影響を分析し、実務で即座に活用できる深層リサーチプロンプトを紹介します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 구글과 OpenAI의 AI 검색 전쟁이 비즈니스에 미치는 영향을 분석하고, 실무에 즉시 적용 가능한 심층 리서치 프롬프트를 제공합니다."
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Search", "AI", "Google", "OpenAI"]

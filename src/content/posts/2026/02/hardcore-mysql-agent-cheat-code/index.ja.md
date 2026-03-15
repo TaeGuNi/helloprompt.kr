@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "Workflow Automation"
-description: "AIの無駄な愛想を削ぎ落とし、データ破壊を防ぐ無慈悲なMySQLエージェントプロンプトのセットアップ。"
+description: "AIの無駄な愛想を削ぎ落とし、データ破壊を防ぐ無慈悲なMySQLエージェントプロンプトのセットアップ。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 쓸데없는 아부 대신 완벽한 통제력을! AI 에이전트의 데이터 파괴를 원천 차단하고 기계적인 정확성을 부여하는 무자비한 MySQL 프롬프트 셋업 가이드."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "mysql"]
 ---
 

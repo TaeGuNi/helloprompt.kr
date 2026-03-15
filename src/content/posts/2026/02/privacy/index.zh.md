@@ -5,7 +5,7 @@ author: "Hello Prompt"
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 category: "公告事项"
-description: "了解 Hello Prompt 透明且安全的全球个人信息收集与处理政策。我们严格保护您的数据，仅收集极简 Cookie，确保您的隐私万无一失。"
+description: "了解 Hello Prompt 透明且安全的全球个人信息收集与处理政策。我们严格保护您的数据，仅收集极简 Cookie，确保您的隐私万无一失。 详细介绍AI提示词的使用方法与实战技巧。 | Hello Prompt의 투명하고 안전한 글로벌 개인정보 수집 및 처리 정책을 안내합니다. 여러분의 데이터는 철저히 보호되며 최소한의 쿠키만 수집합니다."
 tags: ["개인정보", "Privacy"]
 ---
 

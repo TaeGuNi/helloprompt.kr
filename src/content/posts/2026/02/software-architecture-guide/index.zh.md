@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "后端/数据库"
-description: "MSA 难道是唯一解吗？本指南提供实战 Prompt，帮助您根据流量规模、团队大小和发布频率选择最适合的架构方案。"
+description: "MSA 难道是唯一解吗？本指南提供实战 Prompt，帮助您根据流量规模、团队大小和发布频率选择最适合的架构方案。 详细介绍AI提示词的使用方法与实战技巧。 | 무조건 MSA가 정답일까요? 트래픽 규모, 조직 크기, 배포 빈도에 맞춰 최적의 아키텍처를 선택하는 실무 프롬프트 가이드를 제공합니다."
 tags: ["MSA", "单体架构", "架构", "系统设计", "后端"]
 image: "/images/hooks/software-architecture-guide.jpg"
 ---

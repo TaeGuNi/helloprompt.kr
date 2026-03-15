@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "Thought it was just nonsense? We interpret your subconscious based on Freudian psychology and data."
+description: "Thought it was just nonsense? We interpret your subconscious based on Freudian psychology and data. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["꿈일기", "심리분석", "창의력", "해몽"]
 ---
 

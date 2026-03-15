@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Health"
-description: "Verwandle Kühlschrank-Reste in nur 10 Minuten in eine leckere Lunchbox: Dein smarter KI-Rezeptplaner."
+description: "Verwandle Kühlschrank-Reste in nur 10 Minuten in eine leckere Lunchbox: Dein smarter KI-Rezeptplaner. Erfahren Sie mehr über die praktische Anwendung von KI-Prompts."
 tags: ["점심", "도시락", "Cooking", "건강식"]
 ---
 

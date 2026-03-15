@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.124Z"
 updatedDate: "2026-02-07T09:10:33.124Z"
 category: "Work Automation"
-description: "Aprende a generar el índice lógico perfecto para persuadir a tu jefe al instante con un solo prompt."
+description: "Aprende a generar el índice lógico perfecto para persuadir a tu jefe al instante con un solo prompt. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["Productivity", "Excel", "Reports", "ChatGPT"]
 ---
 

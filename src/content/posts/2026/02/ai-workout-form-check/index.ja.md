@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "健康/ライフ"
-description: "高いパーソナルトレーニングを契約する前に、まずはAIに相談！GPT-4o Visionを活用して、怪我なく筋肉への刺激を最大化する完璧な宅トレ・フォーム矯正ガイドです。"
+description: "高いパーソナルトレーニングを契約する前に、まずはAIに相談！GPT-4o Visionを活用して、怪我なく筋肉への刺激を最大化する完璧な宅トレ・フォーム矯正ガイドです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 비싼 PT 결제 전, AI에게 먼저 물어보세요! GPT-4o Vision을 활용해 부상 없이 근육 자극을 극대화하는 완벽한 홈트레이닝 자세 교정..."
 tags: ["運動", "筋トレ", "パーソナルトレーニング", "スクワット", "ChatGPT"]
 image: "/images/hooks/ai-workout-form-check.jpg"
 ---

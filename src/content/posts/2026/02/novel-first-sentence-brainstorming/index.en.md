@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creation & Hobbies"
-description: "Captivate your readers from the very first line. Generate 10 powerful opening hook recommendations for your novel."
+description: "Captivate your readers from the very first line. Generate 10 powerful opening hook recommendations for your novel. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Novel", "FirstSentence", "Writing", "Intro", "Brainstorming"]
 ---
 

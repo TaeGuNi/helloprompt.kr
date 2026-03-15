@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "画像生成"
-description: "空から見下ろす視点で地形や配置を的確に描写する、ハイアングル・ドローンショットのAI画像生成プロンプト活用ガイドです。"
+description: "空から見下ろす視点で地形や配置を的確に描写する、ハイアングル・ドローンショットのAI画像生成プロンプト活用ガイドです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 하늘에서 내려다보는 완벽한 전지적 시점. 지형과 공간 배치를 압도적인 스케일로 담아내는 하이 앵글(High Angle) 및 드론 샷 프롬프트 가이드입니다."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Landscape"]
 ---
 

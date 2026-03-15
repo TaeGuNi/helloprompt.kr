@@ -2,7 +2,7 @@
 title: "Anthropic 获得 G 轮融资"
 date: "2026-02-17"
 pubDate: "2026-02-13T10:32:00.000Z"
-description: "还在对大量的英文外媒新闻进行简单的翻译吗？这份完美的提示词能让您在 3 分钟内将 Anthropic G 轮融资的新闻转化为深度分析报告。"
+description: "还在对大量的英文外媒新闻进行简单的翻译吗？这份完美的提示词能让您在 3 分钟内将 Anthropic G 轮融资的新闻转化为深度分析报告。 详细介绍AI提示词的使用方法与实战技巧。 | 방대한 영문 외신 뉴스, 아직도 단순 번역만 하시나요? Anthropic Series G 투자 기사를 3분 만에 심층 리포트로 탈바꿈시키는 완벽한 프롬프트를 공개합니다."
 heroImage: /images/anthropic-series-g.jpg
 tags:
   - AI

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "Tech Trends"
-description: "无需云端传输，直接在智能手机和 PC 上运行的私有 AI。本文将揭示如何利用主权 AI 和端侧 AI 技术，从源头上彻底杜绝数据泄露的恐惧。"
+description: "无需云端传输，直接在智能手机和 PC 上运行的私有 AI。本文将揭示如何利用主权 AI 和端侧 AI 技术，从源头上彻底杜绝数据泄露的恐惧。 详细介绍AI提示词的使用方法与实战技巧。 | 클라우드 전송 없이 스마트폰과 PC에서 직접 구동되는 프라이빗 AI. 소버린 AI와 온디바이스 기술로 데이터 유출 공포를 원천 차단하는 방법을 공개합니다."
 tags: ["Sovereign AI", "Edge Computing", "On-Device AI", "Privacy"]
 image: "/images/hooks/sovereign-ai-edge-computing.jpg"
 ---

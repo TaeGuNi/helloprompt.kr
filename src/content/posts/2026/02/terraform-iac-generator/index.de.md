@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 category: "DevOps"
-description: "Erstellen Sie in Sekundenschnelle sichere, produktionsreife Terraform-Module für Ihre Cloud-Infrastruktur (IaC)."
+description: "Erstellen Sie in Sekundenschnelle sichere, produktionsreife Terraform-Module für Ihre Cloud-Infrastruktur (IaC). Erfahren Sie mehr über die praktische Anwendung von KI-Prompts."
 tags: ["DevOps", "Terraform", "AWS"]
 ---
 

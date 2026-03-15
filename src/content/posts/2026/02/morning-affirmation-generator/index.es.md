@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "Comienza tu día con energía y enfoque utilizando afirmaciones positivas personalizadas generadas por IA."
+description: "Comienza tu día con energía y enfoque utilizando afirmaciones positivas personalizadas generadas por IA. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["미라클모닝", "마인드셋", "Self-Improvement", "긍정확언"]
 ---
 

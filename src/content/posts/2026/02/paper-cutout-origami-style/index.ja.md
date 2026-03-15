@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.175Z"
 updatedDate: "2026-02-07T09:10:33.176Z"
 category: "画像生成"
-description: "平坦で無機質な2Dデジタルイラストに、アナログの立体感と温かみのある感性を吹き込む、ペーパーカットアウト（切り絵）と折り紙スタイルの完璧なプロンプトガイドです。"
+description: "平坦で無機質な2Dデジタルイラストに、アナログの立体感と温かみのある感性を吹き込む、ペーパーカットアウト（切り絵）と折り紙スタイルの完璧なプロンプトガイドです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 밋밋하고 차가운 2D 디지털 일러스트에 아날로그의 입체감과 따스한 감성을 불어넣는 완벽한 페이퍼 컷아웃(Paper Cutout) 및 오리가미 프롬프트 ..."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Craft"]
 image: "/images/hooks/paper-cutout-origami-style.jpg"
 ---

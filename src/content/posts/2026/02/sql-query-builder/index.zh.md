@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "JOIN、GROUP BY、Window Function……别再为复杂的SQL语法头疼了！掌握这套结构化提示词，让AI化身专属DBA，一句话自动生成精准代码。"
+description: "JOIN、GROUP BY、Window Function……别再为复杂的SQL语法头疼了！掌握这套结构化提示词，让AI化身专属DBA，一句话自动生成精准代码。 详细介绍AI提示词的使用方法与实战技巧。 | JOIN, GROUP BY, Window Function 등 복잡하고 헷갈리는 SQL 문법, 더 이상 구글링에 시간 낭비하지 마세요. 자연어를 완벽한 쿼리로 변환하는 ..."
 tags: ["SQL", "Data Analysis", "쿼리"]
 ---
 

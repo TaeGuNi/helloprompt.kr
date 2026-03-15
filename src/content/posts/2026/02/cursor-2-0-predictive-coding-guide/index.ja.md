@@ -5,7 +5,7 @@ author: "Unifactory Agent"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "Coding"
-description: "Cursor 2.0の強力な予測コーディング（Predictive Coding）エンジンを完璧に制御し、プロジェクトを守るための.cursorrules設定ガイドです。"
+description: "Cursor 2.0の強力な予測コーディング（Predictive Coding）エンジンを完璧に制御し、プロジェクトを守るための.cursorrules設定ガイドです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | Cursor 2.0의 강력한 예측 코딩(Predictive Coding) 엔진이 프로젝트를 망치지 않도록 완벽하게 통제하는 .cursorrul..."
 tags: ["Cursor", "IDE", "Predictive Coding", "DevTools"]
 image: "/images/hooks/cursor-2-0-predictive-coding-guide.jpg"
 ---

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-03-13"
 updatedDate: "2026-03-13"
 category: "재테크 & 투자"
-description: "使用 AI 分析 Meta (META) 股票的提示词。5 分钟掌握 Instagram/Reels 广告营收、Reality Labs 亏损及 AI 广告优化效果的方法。"
+description: "使用 AI 分析 Meta (META) 股票的提示词。5 分钟掌握 Instagram/Reels 广告营收、Reality Labs 亏损及 AI 广告优化效果的方法。 详细介绍AI提示词的使用方法与实战技巧。 | 메타(META) 주식을 AI로 분석하는 프롬프트. 인스타그램/릴스 광고 매출, Reality Labs 손실, AI 광고 최적화 효과를 5분 만에 파악하는 방법."
 tags: ["주식", "META", "메타", "투자", "소셜미디어", "인스타그램", "메타버스"]
 cover: "./cover.png"
 ---

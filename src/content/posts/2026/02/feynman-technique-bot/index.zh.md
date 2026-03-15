@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.149Z"
 updatedDate: "2026-02-07T09:10:33.149Z"
 category: "学习法/个人成长"
-description: "检验你是否真正掌握知识的最好方法是向他人解释。尝试教导一个 12 岁的 AI 机器人，以此发现你的知识盲点。"
+description: "检验你是否真正掌握知识的最好方法是向他人解释。尝试教导一个 12 岁的 AI 机器人，以此发现你的知识盲点。 详细介绍AI提示词的使用方法与实战技巧。 | Die beste Methode, um zu prüfen, ob du etwas verstanden hast, ist es anderen zu erklären. Lehre eine 12-jährige KI und ..."
 tags: ["공부법", "파인만기법", "메타인지", "Education"]
 image: "/images/hooks/feynman-technique-bot.jpg"
 ---

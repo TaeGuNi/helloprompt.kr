@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-03-15"
 updatedDate: "2026-03-15"
 category: "开发"
-description: "使用 AI 调试代码错误的提示词。从错误信息分析、原因追溯到建议修复代码，提供比 StackOverflow 更快的解决方案。"
+description: "使用 AI 调试代码错误的提示词。从错误信息分析、原因追溯到建议修复代码，提供比 StackOverflow 更快的解决方案。 详细介绍AI提示词的使用方法与实战技巧。 | 코드 에러를 AI로 디버깅하는 프롬프트. 에러 메시지 분석, 원인 추적, 수정 코드 제안까지 StackOverflow보다 빠른 해결법."
 tags: ["编程", "调试", "错误", "提示词", "开发", "程序员", "StackOverflow"]
 cover: "./cover.png"
 ---

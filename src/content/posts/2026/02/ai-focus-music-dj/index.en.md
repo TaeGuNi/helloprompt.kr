@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "A personalized playlist generator designed to stimulate brain waves and skyrocket your focus."
+description: "A personalized playlist generator designed to stimulate brain waves and skyrocket your focus. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["집중력", "음악", "Productivity", "몰입"]
 ---
 

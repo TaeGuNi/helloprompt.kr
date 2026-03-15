@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.131Z"
 updatedDate: "2026-02-07T09:10:33.131Z"
 category: "Marketing"
-description: "Ein praxisorientierter Prompt, der in nur 30 Sekunden attraktive Produktnamen mit starker Markenidentität generiert."
+description: "Ein praxisorientierter Prompt, der in nur 30 Sekunden attraktive Produktnamen mit starker Markenidentität generiert. Erfahren Sie mehr über die praktische Anwendung von KI-Prompts."
 tags: ["Marketing", "네이밍", "브랜딩", "Copywriting"]
 ---
 

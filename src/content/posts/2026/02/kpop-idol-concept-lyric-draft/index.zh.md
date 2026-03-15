@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "/"
-description: "这是一份关于如何利用音乐生成 AI (Suno, Udio) 制作公告牌级别 K-pop 单曲的歌词结构化及提示词工程完整指南。"
+description: "这是一份关于如何利用音乐生成 AI (Suno, Udio) 制作公告牌级别 K-pop 单曲的歌词结构化及提示词工程完整指南。 详细介绍AI提示词的使用方法与实战技巧。 | 음악 생성 AI(Suno, Udio)로 빌보드 차트급 K-pop 음원을 제작하는 완벽한 가사 구조화 및 프롬프트 엔지니어링 가이드입니다."
 tags: ["", "", "Suno", "Udio", "AI"]
 ---
 

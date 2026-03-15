@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Criação & Hobbies"
-description: "Aprenda a criar reviravoltas chocantes e subverter clichês narrativos para surpreender seus leitores do início ao fim."
+description: "Aprenda a criar reviravoltas chocantes e subverter clichês narrativos para surpreender seus leitores do início ao fim. Descubra como usar prompts de IA de forma prática e eficaz."
 tags: ["Romance", "Reviravolta", "Ideia", "Narrativa"]
 ---
 

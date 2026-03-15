@@ -5,7 +5,7 @@ author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "提示词工程"
-description: "这是一款高级 Docker 基础设施控制提示词，旨在彻底杜绝 AI Agent 致命的终端无限等待（死锁）现象及无意义的情感表达。"
+description: "这是一款高级 Docker 基础设施控制提示词，旨在彻底杜绝 AI Agent 致命的终端无限等待（死锁）现象及无意义的情感表达。 详细介绍AI提示词的使用方法与实战技巧。 | AI 에이전트의 치명적인 터미널 무한 대기(Deadlock) 현상과 무의미한 감정 표현을 원천 차단하는 시니어 레벨의 강력한 Docker 인프라 통제 프롬프트입니다."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "docker"]
 image: "/images/hooks/hardcore-docker-infra-agent-cheat-code.jpg"
 ---

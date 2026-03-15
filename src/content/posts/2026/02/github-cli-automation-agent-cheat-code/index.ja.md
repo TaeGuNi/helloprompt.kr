@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "Workflow Automation"
-description: "AIの無駄な返答を排除し、4ステップのGitOpsパイプラインを全自動で回すシニアエンジニア秘伝のプロンプト。"
+description: "AIの無駄な返答を排除し、4ステップのGitOpsパイプラインを全自動で回すシニアエンジニア秘伝のプロンプト。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | AI의 불필요한 대화를 차단하고, 4단계 GitOps 파이프라인을 자율적으로 수행하게 만드는 시니어 개발자의 실무 프롬프트를 공개합니다."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "github-cli"]
 ---
 

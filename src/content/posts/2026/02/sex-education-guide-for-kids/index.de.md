@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Erziehung & Bildung"
-description: "Ein Leitfaden zur altersgerechten Sexualaufklärung, der unangenehme Fragen souverän beantwortet, ohne auszuweichen."
+description: "Ein Leitfaden zur altersgerechten Sexualaufklärung, der unangenehme Fragen souverän beantwortet, ohne auszuweichen. Erfahren Sie mehr über die praktische Anwendung von KI-Prompts."
 tags: ["Erziehung", "Bildung", "KI-Prompt", "ChatGPT", "Erziehungstipps"]
 ---
 

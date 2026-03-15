@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "AI Development"
-description: "构建从调研、撰写到校对的流畅自动化流水线。详细了解如何利用多智能体协作的 CrewAI 打造完美的 AI 团队。"
+description: "构建从调研、撰写到校对的流畅自动化流水线。详细了解如何利用多智能体协作的 CrewAI 打造完美的 AI 团队。 详细介绍AI提示词的使用方法与实战技巧。 | 리서치부터 작성, 교정까지 물 흐르듯 이어지는 자동화 파이프라인을 구축하세요. 여러 에이전트가 협업하는 CrewAI를 활용해 완벽한 AI 팀을 만드는 방법을 상세히 알아봅니다."
 tags: ["CrewAI", "Automation", "에이전트", "워크플로우", "파이썬"]
 ---
 

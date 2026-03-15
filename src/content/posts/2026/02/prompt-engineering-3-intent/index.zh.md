@@ -3,7 +3,7 @@ categories:
   - Prompt Engineering
   - Advanced
 date: "2026-02-13"
-description: "如果提示词越长越复杂，结果反而越糟糕？现在是提示工程 3.0 时代，核心是精简语法，传递核心意图。介绍一款能将模糊指令自动转化为完美命令的“意图精炼器”提示词，助你实现高效办公。"
+description: "如果提示词越长越复杂，结果反而越糟糕？现在是提示工程 3.0 时代，核心是精简语法，传递核心意图。介绍一款能将模糊指令自动转化为完美命令的“意图精炼器”提示词，助你实现高效办公。 详细介绍AI提示词的使用方法与实战技巧。 | 프롬프트가 길고 복잡할수록 결과물이 망가진다면? 이제 문법(Syntax)을 덜어내고 핵심 의도(Intent)만 전달하는 프롬프트 엔지니어링 3.0 시대..."
 heroImage: /images/blog/prompt-3.jpg
 layout: /src/layouts/Layout.astro
 pubDate: "2026-02-13"

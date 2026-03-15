@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "オーバーフェッチング（Over-fetching）のない無駄のないAPI。フロントエンドの開発体験を劇的に向上させるGraphQLスキーマ設計パターン。"
+description: "オーバーフェッチング（Over-fetching）のない無駄のないAPI。フロントエンドの開発体験を劇的に向上させるGraphQLスキーマ設計パターン。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 오버페칭(Over-fetching) 없는 깔끔한 API. 프론트엔드가 행복해지는 GraphQL 스키마 디자인 패턴과 실무 적용 프롬프트."
 tags: ["GraphQL", "API", "Backend", "스키마", "Apollo"]
 ---
 

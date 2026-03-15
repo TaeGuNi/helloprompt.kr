@@ -1,6 +1,6 @@
 ---
 title: "AI 搜索大战：谷歌 vs OpenAI"
-description: "分析谷歌与 OpenAI 的 AI 搜索大战对业务的影响，并提供可立即应用于实际工作的深度研究提示词。"
+description: "分析谷歌与 OpenAI 的 AI 搜索大战对业务的影响，并提供可立即应用于实际工作的深度研究提示词。 详细介绍AI提示词的使用方法与实战技巧。 | 구글과 OpenAI의 AI 검색 전쟁이 비즈니스에 미치는 영향을 분석하고, 실무에 즉시 적용 가능한 심층 리서치 프롬프트를 제공합니다."
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Search", "AI", "Google", "OpenAI"]

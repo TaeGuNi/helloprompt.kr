@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "AI Trends"
-description: "A Z.ai anunciou o GLM-5. Muito além de um simples assistente de código, ele inaugura a era da engenharia de agentes."
+description: "A Z.ai anunciou o GLM-5. Muito além de um simples assistente de código, ele inaugura a era da engenharia de agentes. Descubra como usar prompts de IA de forma prática e eficaz."
 tags: ["GLM-5", "AI", "Agentic Engineering", "LLM"]
 ---
 

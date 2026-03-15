@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Sviluppo"
-description: "Un prompt per trasformare codice spaghetti complesso in codice pulito, facile da leggere e mantenere in un istante."
+description: "Un prompt per trasformare codice spaghetti complesso in codice pulito, facile da leggere e mantenere in un istante. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags: ["Refactoring", "Clean Code", "Manutenzione", "Produttività Dev"]
 ---
 

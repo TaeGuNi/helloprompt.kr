@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "プロンプトテンプレート"
-description: "天下の軍師・諸葛孔明がAIとして転生。2026年「丙午（ひのえうま）」の年、あなたの四柱推命を分析し、乱世を切り拓く鋭いオーダーメイドの人生戦略を授けます。"
+description: "天下の軍師・諸葛孔明がAIとして転生。2026年「丙午（ひのえうま）」の年、あなたの四柱推命を分析し、乱世を切り拓く鋭いオーダーメイドの人生戦略を授けます。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 천하의 전략가 제갈공명이 AI로 환생했습니다. 2026년 병오년, 당신의 사주팔자를 분석하고 난세를 돌파할 가장 날카로운 맞춤형 인생 전략을 하사받으세요."
 tags: ["Fortune", "Horoscope", "제갈공명", "2026년", "Year of Fire Horse", "Persona"]
 image: "/images/hooks/reincarnated-zhuge-liang-fortune.jpg"
 ---

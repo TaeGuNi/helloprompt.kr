@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-23"
 updatedDate: "2026-02-23"
 category: "内容制作"
-description: "仅需1分钟！利用这款AI提示词，轻松复刻NBC体育解说的专业与激情，打造引爆社交网络的花样滑冰病毒式爆款评论。"
+description: "仅需1分钟！利用这款AI提示词，轻松复刻NBC体育解说的专业与激情，打造引爆社交网络的花样滑冰病毒式爆款评论。 详细介绍AI提示词的使用方法与实战技巧。 | NBC 올림픽 피겨스케이팅 중계 스타일의 생동감 넘치는 리뷰와 바이럴 콘텐츠를 AI로 1분 만에 작성하는 프롬프트입니다."
 tags:
   [
     "nbc olympics figure skating",

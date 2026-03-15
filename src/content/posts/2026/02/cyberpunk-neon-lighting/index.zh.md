@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.168Z"
 updatedDate: "2026-02-07T09:10:33.168Z"
 category: "图像生成"
-description: "赛博朋克霓虹灯光提示词指南：通过洋红与青色的强烈对比，营造震撼的视觉氛围，助您打造压倒性的画面感。"
+description: "赛博朋克霓虹灯光提示词指南：通过洋红与青色的强烈对比，营造震撼的视觉氛围，助您打造压倒性的画面感。 详细介绍AI提示词的使用方法与实战技巧。 | 핑크와 블루의 강렬한 대비로 압도적인 분위기를 완성하는 사이버펑크 네온 조명 프롬프트 가이드입니다."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Sci-Fi", "Color"]
 image: "/images/hooks/cyberpunk-neon-lighting.jpg"
 ---

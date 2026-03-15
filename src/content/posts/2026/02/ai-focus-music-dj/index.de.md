@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "Erstellen Sie maßgeschneiderte Playlists, die Ihre Gehirnwellen stimulieren und für maximalen Fokus sorgen."
+description: "Erstellen Sie maßgeschneiderte Playlists, die Ihre Gehirnwellen stimulieren und für maximalen Fokus sorgen. Erfahren Sie mehr über die praktische Anwendung von KI-Prompts."
 tags: ["집중력", "음악", "Productivity", "몰입"]
 ---
 

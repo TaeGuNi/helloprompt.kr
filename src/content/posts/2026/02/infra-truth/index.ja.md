@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-14"
 updatedDate: "2026-02-14"
 category: "業務自動化"
-description: "巨大なAIゴールドラッシュの中、NVIDIAだけが莫大な富を独占するインフラ市場の冷酷な現実と、その構造的な理由を解き明かします。"
+description: "巨大なAIゴールドラッシュの中、NVIDIAだけが莫大な富を独占するインフラ市場の冷酷な現実と、その構造的な理由を解き明かします。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 거대한 AI 골드러시 속, 오직 엔비디아(NVIDIA)만이 막대한 부를 독식하는 인프라 시장의 냉혹한 현실과 구조적 이유를 파헤쳐 봅니다."
 tags: ["AI", "Trend", "2026"]
 image: "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?q=80&w=2000&auto=format&fit=crop"
 ---

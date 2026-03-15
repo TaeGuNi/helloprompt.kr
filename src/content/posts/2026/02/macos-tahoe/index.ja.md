@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "業務効率化"
-description: "Apple macOS Tahoeアップデートの核となるAIベースのウィンドウリサイジング「インテリジェント・エッジ」の革新性と限界を、UXの観点から深く分析するプロンプトです。"
+description: "Apple macOS Tahoeアップデートの核となるAIベースのウィンドウリサイジング「インテリジェント・エッジ」の革新性と限界を、UXの観点から深く分析するプロンプトです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 애플 macOS Tahoe 업데이트의 핵심인 AI 기반 윈도우 리사이징 '인텔리전트 엣지'의 혁신성과 한계를 UX 관점에서 심층 분석하..."
 tags: ["macOS", "UX", "Apple", "Tahoe"]
 ---
 

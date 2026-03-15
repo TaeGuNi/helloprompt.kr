@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "后端/数据库"
-description: "告别缓慢的 Flask 和臃肿的 Django。这是一份利用超高速异步 Web 框架 FastAPI 快速构建稳健微服务的完美实战指南。"
+description: "告别缓慢的 Flask 和臃肿的 Django。这是一份利用超高速异步 Web 框架 FastAPI 快速构建稳健微服务的完美实战指南。 详细介绍AI提示词的使用方法与实战技巧。 | 느린 Flask와 무거운 Django는 잊어주세요. 초고속 비동기 웹 프레임워크 FastAPI를 활용해 견고한 마이크로서비스를 단숨에 구축하는 완벽한 실무 가이드입니다."
 tags: ["FastAPI", "Python", "后端", "异步", "API"]
 image: "/images/hooks/fastapi-production-boilerplate.jpg"
 ---

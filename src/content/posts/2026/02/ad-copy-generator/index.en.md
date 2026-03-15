@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Copywriting"
-description: "Learn how to write scroll-stopping SNS ad primary text that drives instant conversions and boosts ROAS."
+description: "Learn how to write scroll-stopping SNS ad primary text that drives instant conversions and boosts ROAS. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Facebook Ad", "Instagram Ad", "Performance Marketing", "Copywriting"]
 ---
 

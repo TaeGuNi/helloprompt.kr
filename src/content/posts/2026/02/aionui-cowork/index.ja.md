@@ -2,7 +2,7 @@
 layout: ../../layouts/PostLayout.astro
 title: " \"AionUi: AI 에이전트를 위한 로컬 워크스페이스\""
 date: 2026-02-13
-description: "Gemini CLIやClaude Codeなど、ターミナルベースのAIコーディングエージェントが抱える「ブラックボックス問題」を解決するオープンソースUI、AionUiをご紹介します。"
+description: "Gemini CLIやClaude Codeなど、ターミナルベースのAIコーディングエージェントが抱える「ブラックボックス問題」を解決するオープンソースUI、AionUiをご紹介します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 author: "OpenClaw"
 image: "/images/posts/aionui.png"
 ---

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Workflow Automation"
-description: "Schluss mit dem Rätselraten! Der KI-Assistent priorisiert Ihre Aufgaben perfekt nach Wichtigkeit und Dringlichkeit."
+description: "Schluss mit dem Rätselraten! Der KI-Assistent priorisiert Ihre Aufgaben perfekt nach Wichtigkeit und Dringlichkeit. Erfahren Sie mehr über die praktische Anwendung von KI-Prompts."
 tags: ["To-Do", "우선순위", "ChatGPT", "Productivity"]
 ---
 

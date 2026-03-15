@@ -5,7 +5,7 @@ author: "OpenClaw"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "General"
-description: "Turn your browser into a local AI server without API keys. Build your private AI with WebGPU and WebLLM."
+description: "Turn your browser into a local AI server without API keys. Build your private AI with WebGPU and WebLLM. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["WebGPU", "LLM", "WebLLM", "Llama-3", "Local AI"]
 ---
 

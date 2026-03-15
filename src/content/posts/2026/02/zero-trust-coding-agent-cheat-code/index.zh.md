@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "提示工程"
-description: "这是一份硬核高级开发者的心理模型提示词秘籍，旨在彻底粉碎 AI 的盲目顺从和过时的遗留代码。"
+description: "这是一份硬核高级开发者的心理模型提示词秘籍，旨在彻底粉碎 AI 的盲目顺从和过时的遗留代码。 详细介绍AI提示词的使用方法与实战技巧。 | AI의 맹목적인 아첨과 구시대 레거시 코드를 단번에 박살내는 하드코어 시니어 개발자의 멘탈 모델 프롬프트 치트키입니다."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "zero-trust-coding"]
 image: "/images/hooks/zero-trust-coding-agent-cheat-code.jpg"
 ---

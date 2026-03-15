@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viaggi e Cultura"
-description: "USA al 20%? Giappone allo 0%? L'IA svela i segreti della complessa e spesso imbarazzante cultura delle mance nel mondo."
+description: "USA al 20%? Giappone allo 0%? L'IA svela i segreti della complessa e spesso imbarazzante cultura delle mance nel mondo. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags:
   [
     "Cultura delle Mance",

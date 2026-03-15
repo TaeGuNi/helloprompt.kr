@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.098Z"
 updatedDate: "2026-02-07T09:10:33.098Z"
 category: "学習法/自己啓発"
-description: "膨大な専門書や講義ノートを、AnkiやQuizletに即座に連携可能なフラッシュカード（Q&A）データへ自動変換するプロンプトです。"
+description: "膨大な専門書や講義ノートを、AnkiやQuizletに即座に連携可能なフラッシュカード（Q&A）データへ自動変換するプロンプトです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 방대한 전공 서적과 강의 노트를 Anki, Quizlet에 즉시 연동 가능한 플래시카드(Q&A) 데이터로 자동 변환하는 프롬프트입니다."
 tags: ["暗記", "フラッシュカード", "Anki", "Quizlet"]
 image: "/images/hooks/anki-card-generator.jpg"
 ---

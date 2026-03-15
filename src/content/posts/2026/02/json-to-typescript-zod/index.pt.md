@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Codificação/Desenvolvimento"
-description: "Um prompt que converte automaticamente dados JSON complexos em interfaces TypeScript e esquemas do Zod."
+description: "Um prompt que converte automaticamente dados JSON complexos em interfaces TypeScript e esquemas do Zod. Descubra como usar prompts de IA de forma prática e eficaz."
 tags: ["TypeScript", "Zod", "JSON", "Definição de Tipo", "Produtividade"]
 ---
 

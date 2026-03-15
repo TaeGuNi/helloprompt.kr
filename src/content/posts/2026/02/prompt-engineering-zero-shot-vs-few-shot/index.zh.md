@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "提示词工程"
-description: "提升 AI 回复一致性的核心技术！本文对比零样本（Zero Shot）与少样本（Few Shot）提示词的区别，揭秘大幅提升复杂业务准确性与稳定性的实战技巧。"
+description: "提升 AI 回复一致性的核心技术！本文对比零样本（Zero Shot）与少样本（Few Shot）提示词的区别，揭秘大幅提升复杂业务准确性与稳定性的实战技巧。 详细介绍AI提示词的使用方法与实战技巧。 | AI 답변의 일관성을 높이는 핵심 기술! 제로 샷과 퓨 샷 프롬프팅의 차이를 비교하고, 복잡한 실무 작업의 정확도를 획기적으로 끌어올리는 비법을 공개합니다."
 image: "https://picsum.photos/seed/prompt1/800/600"
 tags: ["AI", "Tech", "prompt-engineering-zero-shot-vs-few-shot"]
 ---

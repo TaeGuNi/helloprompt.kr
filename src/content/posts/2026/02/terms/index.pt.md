@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"이용약관 (Terms of Service)\""
-description: "Termos de Serviço e condições de uso do Hello Prompt."
+description: "Termos de Serviço e condições de uso do Hello Prompt. Descubra como usar prompts de IA de forma prática e eficaz. | Hello Prompt의 안전하고 쾌적한 이용을 위한 필수 가이드라인과 책임 소재를 안내하는 공식 이용약관입니다."
 date: "2026-02-09"
 ---
 

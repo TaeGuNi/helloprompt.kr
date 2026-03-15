@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-03-15"
 updatedDate: "2026-03-15"
 category: "办公自动化"
-description: "使用 AI 创建复杂 Excel 公式的提示词。只需用中文说明 VLOOKUP、INDEX-MATCH、透视汇总等需求，即可在 2 秒内获得精确公式的方法。"
+description: "使用 AI 创建复杂 Excel 公式的提示词。只需用中文说明 VLOOKUP、INDEX-MATCH、透视汇总等需求，即可在 2 秒内获得精确公式的方法。 详细介绍AI提示词的使用方法与实战技巧。 | 복잡한 엑셀 수식을 AI로 만드는 프롬프트. VLOOKUP, INDEX-MATCH, 피벗 집계까지 원하는 조건을 한국어로 설명하면 정확한 수식이 나오는 방법."
 tags: ["Excel", "电子表格", "公式", "提示词", "VLOOKUP", "办公自动化", "Google表格"]
 cover: "./cover.png"
 ---

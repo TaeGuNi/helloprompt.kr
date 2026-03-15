@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "General"
-description: "面向 Java 与 Spring 开发者的 Go 语言实战指南。深度解析 Goroutine 的并发优势，揭秘大厂在微服务架构（MSA）中首选 Go 的核心原因。"
+description: "面向 Java 与 Spring 开发者的 Go 语言实战指南。深度解析 Goroutine 的并发优势，揭秘大厂在微服务架构（MSA）中首选 Go 的核心原因。 详细介绍AI提示词的使用方法与实战技巧。 | Java/Spring의 무거운 구동 시간과 메모리 점유율에 지치셨나요? 고루틴(Goroutine)의 압도적 동시성으로 대규모 트래픽을 완벽하게 처리하는 Go 언어 마..."
 tags: ["Golang", "Go", "MSA", "Backend", "마이크로서비스"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "就业 & 跳槽"
-description: "利用AI撰写简历顶部3-5行极具吸引力的个人核心摘要(Professional Summary)，瞬间抓住HR眼球，大幅提升简历初筛通过率。"
+description: "利用AI撰写简历顶部3-5行极具吸引力的个人核心摘要(Professional Summary)，瞬间抓住HR眼球，大幅提升简历初筛通过率。 详细介绍AI提示词的使用方法与实战技巧。 | 이력서 최상단 3~5줄의 강력한 프로필 요약(Professional Summary)을 작성하는 AI 프롬프트입니다. 인사담당자의 눈길을 사로잡아 서류 합격률을 극대화하세요."
 tags: ["简历", "Summary", "简介摘要", "自我介绍"]
 ---
 

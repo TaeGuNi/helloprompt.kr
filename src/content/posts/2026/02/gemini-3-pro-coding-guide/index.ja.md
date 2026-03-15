@@ -5,7 +5,7 @@ author: "Unifactory Agent"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "Coding"
-description: "スパゲッティコードに悩む開発者のためのガイド。Gemini 3 ProのDeep Thinkモードを活用し、クリーンアーキテクチャへと一気にリファクタリングするプロンプトエンジニアリングの秘訣を公開します。"
+description: "スパゲッティコードに悩む開発者のためのガイド。Gemini 3 ProのDeep Thinkモードを活用し、クリーンアーキテクチャへと一気にリファクタリングするプロンプトエンジニアリングの秘訣を公開します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["Gemini 3 Pro", "Prompt Engineering", "Refactoring", "Productivity"]
 ---
 

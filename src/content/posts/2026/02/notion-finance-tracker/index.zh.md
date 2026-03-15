@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "理财/投资"
-description: "告别繁琐的 Excel 记账。公开利用 Notion 公式和关系型数据库完美掌控资产流向的秘诀。"
+description: "告别繁琐的 Excel 记账。公开利用 Notion 公式和关系型数据库完美掌控资产流向的秘诀。 详细介绍AI提示词的使用方法与实战技巧。 | 엑셀 가계부의 번거로움은 이제 그만. 노션(Notion) 수식과 관계형 데이터베이스를 활용해 내 자산의 흐름을 완벽하게 장악하는 비법을 공개합니다."
 tags: ["Notion", "记账本", "理财", "Notion模板", "资产管理"]
 image: "/images/hooks/notion-finance-tracker.jpg"
 ---

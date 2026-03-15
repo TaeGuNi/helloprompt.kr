@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.166Z"
 updatedDate: "2026-02-07T09:10:33.166Z"
 category: "Parenting & Education"
-description: "被孩子问到“天空为什么是蓝色的？”时感到困惑吗？跳过“光散射”等深奥术语，使用这套专为孩子定制的童话式比喻提示词，瞬间化身完美的育儿达人。"
+description: "被孩子问到“天空为什么是蓝色的？”时感到困惑吗？跳过“光散射”等深奥术语，使用这套专为孩子定制的童话式比喻提示词，瞬间化身完美的育儿达人。 详细介绍AI提示词的使用方法与实战技巧。 | 아이의 '하늘은 왜 파래?'라는 질문에 당황하셨나요? 빛의 산란 같은 어려운 용어 대신, 아이 눈높이에 맞춘 동화적 비유로 단숨에 설명하는 맞춤형 프롬프트를 만나보세요."
 tags: ["Parenting", "Education", "AI Prompt", "ChatGPT", "Parenting Tips"]
 image: "/images/hooks/explaining-blue-sky-to-5-year-old.jpg"
 ---

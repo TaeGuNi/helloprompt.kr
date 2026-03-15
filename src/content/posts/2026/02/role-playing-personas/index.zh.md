@@ -1,6 +1,6 @@
 ---
 title: "有效角色提示词 (Role Prompting) 完整指南：赋予 AI 职业身份，实现回复质变"
-description: "给 AI 赋予“职业身份”的瞬间，回复质量将发生 180 度大转弯。了解将全才转变为专家的角色提示词 (Role Prompting) 核心原理与实战应用指南。"
+description: "给 AI 赋予“职业身份”的瞬间，回复质量将发生 180 度大转弯。了解将全才转变为专家的角色提示词 (Role Prompting) 核心原理与实战应用指南。 详细介绍AI提示词的使用方法与实战技巧。 | AI에게 '직업'을 부여하는 순간 답변의 질이 180도 달라집니다. 제너럴리스트를 스페셜리스트로 바꾸는 역할 프롬프팅(Role Prompting)의 핵심 원리와 실무 ..."
 date: "2026-02-15"
 image: "https://picsum.photos/seed/prompt5/800/600"
 tags: ["AI", "Tech", "role-playing-personas"]

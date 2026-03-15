@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Health & Wellness"
-description: "Discover how to overcome insomnia without medication using AI-guided Cognitive Behavioral Therapy for Insomnia (CBT-I)."
+description: "Discover how to overcome insomnia without medication using AI-guided Cognitive Behavioral Therapy for Insomnia (CBT-I). Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Insomnia", "CBT-I", "Sleep Therapy", "Mental Care", "ChatGPT"]
 ---
 

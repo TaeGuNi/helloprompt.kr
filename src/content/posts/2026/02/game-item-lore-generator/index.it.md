@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creazione & Hobby"
-description: "Una semplice 'Spada +1' è noiosa. Crea oggetti unici con una narrativa viva e meccaniche intriganti."
+description: "Una semplice 'Spada +1' è noiosa. Crea oggetti unici con una narrativa viva e meccaniche intriganti. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags: ["Gioco", "Oggetto", "TRPG", "Pianificazione", "Fantasy"]
 ---
 

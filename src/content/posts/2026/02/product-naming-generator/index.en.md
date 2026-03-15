@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.131Z"
 updatedDate: "2026-02-07T09:10:33.131Z"
 category: "Marketing/Copywriting"
-description: "A professional prompt to generate attractive product names capturing your brand identity in just 30 seconds."
+description: "A professional prompt to generate attractive product names capturing your brand identity in just 30 seconds. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Marketing", "Naming", "Branding", "Copywriting"]
 ---
 

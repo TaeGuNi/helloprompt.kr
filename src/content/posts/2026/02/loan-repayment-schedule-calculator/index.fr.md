@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatisation du Travail"
-description: "Créez votre propre simulateur de prêt sur Excel sans dépendre des simulateurs bancaires."
+description: "Créez votre propre simulateur de prêt sur Excel sans dépendre des simulateurs bancaires. Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags: ["Excel", "IntérêtPrêt", "FonctionFinancière", "PMT"]
 ---
 

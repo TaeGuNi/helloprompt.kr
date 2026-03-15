@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "業務自動化"
-description: "QUERY関数からApps Script自動化まで。単なるオンラインExcelを超え、Googleスプレッドシートを強力なリアルタイムデータベースとして活用する秘訣を公開します。"
+description: "QUERY関数からApps Script自動化まで。単なるオンラインExcelを超え、Googleスプレッドシートを強力なリアルタイムデータベースとして活用する秘訣を公開します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | QUERY 함수부터 AppScript 자동화까지. 단순한 온라인 엑셀을 넘어 구글 시트를 강력한 실시간 데이터베이스로 활용하는 비법을 ..."
 tags: ["GoogleSheets", "Googleスプレッドシート", "Excel", "関数", "自動化"]
 ---
 

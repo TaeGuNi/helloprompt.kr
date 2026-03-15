@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.178Z"
 updatedDate: "2026-02-07T09:10:33.178Z"
 category: "编程/开发"
-description: "将 JSON 转换为 CSV，将 XML 转换为 JSON！把令人厌烦的数据转换和清洗任务交给 AI。从复杂的嵌套结构映射到数据清洗，为您一站式解决。"
+description: "将 JSON 转换为 CSV，将 XML 转换为 JSON！把令人厌烦的数据转换和清洗任务交给 AI。从复杂的嵌套结构映射到数据清洗，为您一站式解决。 详细介绍AI提示词的使用方法与实战技巧。 | JSON을 CSV로, XML을 JSON으로! 지긋지긋한 데이터 변환과 정제 작업을 AI에게 맡기세요. 복잡한 중첩 구조 매핑부터 클렌징까지 단숨에 해결해 드립니다."
 tags: ["数据转换", "JSON", "CSV", "Excel", "生产力"]
 image: "/images/hooks/data-format-converter.jpg"
 ---

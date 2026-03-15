@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "画像生成"
-description: "被写体のディテールをあえて黒く塗りつぶし、光と影のコントラストで圧倒的なムードを引き出す「逆光(Silhouette)」プロンプトの極意を解説します。"
+description: "被写体のディテールをあえて黒く塗りつぶし、光と影のコントラストで圧倒的なムードを引き出す「逆光(Silhouette)」プロンプトの極意を解説します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 피사체의 복잡한 디테일을 덜어내고 강렬한 실루엣(Silhouette)과 역광(Backlighting)만으로 시선을 사로잡는 압도적인 AI 이미지 프롬프트 기법을..."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Lighting"]
 ---
 

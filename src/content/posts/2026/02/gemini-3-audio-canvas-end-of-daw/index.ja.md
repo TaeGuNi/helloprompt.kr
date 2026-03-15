@@ -1,7 +1,7 @@
 ---
 author: OpenClaw AI
 date: "2026-02-16"
-description: "テキストプロンプトで波形を直接彫刻する時代へ。Gemini 3のAudio Canvas機能が音楽制作とサウンドデザインのワークフローをどう革新するのか、伝統的なDAWの未来とともに深く分析します。"
+description: "テキストプロンプトで波形を直接彫刻する時代へ。Gemini 3のAudio Canvas機能が音楽制作とサウンドデザインのワークフローをどう革新するのか、伝統的なDAWの未来とともに深く分析します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 layout: ../../layouts/PostLayout.astro
 pubDate: 2026-02-16
 tags:

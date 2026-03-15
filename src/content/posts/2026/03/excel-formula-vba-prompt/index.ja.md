@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "業務自動化"
-description: "複雑なExcel関数やVBAコードの暗記はもう不要。AIにデータ構造を伝えるだけで、実務ですぐに使える完璧な数式とマクロがたった1秒で完成します。"
+description: "複雑なExcel関数やVBAコードの暗記はもう不要。AIにデータ構造を伝えるだけで、実務ですぐに使える完璧な数式とマクロがたった1秒で完成します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 구글링은 이제 그만! 복잡한 엑셀 수식과 VBA 코드를 더 이상 외울 필요 없습니다. 데이터 구조만 입력하면 AI가 실무에 즉시 투입 가능한 완벽한 코드를 1초 만..."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "excel-formula-v"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Work Automation"
-description: "Learn how to craft compelling, client-centric proposal storytelling that wins pitches and persuades clients."
+description: "Learn how to craft compelling, client-centric proposal storytelling that wins pitches and persuades clients. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Work Efficiency", "Excel", "Report", "ChatGPT"]
 ---
 

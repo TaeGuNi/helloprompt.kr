@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "编码/开发"
-description: "只需丢入复杂的 JSON 数据，即可瞬间自动生成精准的 TypeScript 接口与 Zod 校验架构。解放双手，告别重复劳动！"
+description: "只需丢入复杂的 JSON 数据，即可瞬间自动生成精准的 TypeScript 接口与 Zod 校验架构。解放双手，告别重复劳动！ 详细介绍AI提示词的使用方法与实战技巧。 | 복잡한 JSON 데이터를 TypeScript 인터페이스와 런타임 검증용 Zod 스키마로 단숨에 자동 변환하는 프롬프트를 소개합니다."
 tags: ["TypeScript", "Zod", "JSON", "类型定义", "生产力"]
 ---
 

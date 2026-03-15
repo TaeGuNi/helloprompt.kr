@@ -5,7 +5,7 @@ author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "AI "
-description: "Le direttive RDBMS spietate di un Senior Backend Engineer per impedire all'IA di generare database spaghetti."
+description: "Le direttive RDBMS spietate di un Senior Backend Engineer per impedire all'IA di generare database spaghetti. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "rdbms-architecture"]
 ---
 

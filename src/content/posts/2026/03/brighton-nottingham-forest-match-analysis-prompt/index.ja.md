@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "Workflow Automation"
-description: "複雑なサッカーの試合データを瞬時に鋭い分析レポートや魅力的なSNSコンテンツへ変換する、スポーツマーケター必見のAIプロンプトです。"
+description: "複雑なサッカーの試合データを瞬時に鋭い分析レポートや魅力的なSNSコンテンツへ変換する、スポーツマーケター必見のAIプロンプトです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 복잡하고 건조한 축구 매치 데이터를 순식간에 날카로운 전술 분석 리포트와 매력적인 소셜 미디어 콘텐츠로 변환하는 실전 AI 프롬프트입니다."
 tags: ["prompt-engineering", "ai-agent", "brighton-nottin"]
 ---
 

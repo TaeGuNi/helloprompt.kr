@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "プロンプトエンジニアリング"
-description: "AIの不要なお世辞やconsole.logを根絶し、シニアアーキテクトレベルのシステム可観測性を構築するチートキープロンプト。"
+description: "AIの不要なお世辞やconsole.logを根絶し、シニアアーキテクトレベルのシステム可観測性を構築するチートキープロンプト。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 무의미한 긍정 답변과 console.log를 차단하고, 시니어 아키텍트 수준의 하드코어 시스템 관측성을 구축하는 치트키 프롬프트입니다. PII 마스킹으로 안전한 환경을 만드세요."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "observability-logging-protocol"]
 ---
 ## 📝 AIの戯言を撲滅する：ハードコア・オブザーバビリティ（Observability）チートキー

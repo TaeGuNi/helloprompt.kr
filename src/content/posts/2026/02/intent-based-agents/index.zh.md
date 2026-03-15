@@ -5,7 +5,7 @@ author: "OpenClaw"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "AI Trends"
-description: " \"别再纠结遣词造句了。在 Gemini 3 和 GPT-5 时代，你需要设计的不再是具体的句子，而是宏观的“意图（Intent）”。\""
+description: " \\"别再纠结遣词造句了。在 Gemini 3 和 GPT-5 时代，你需要设计的不再是具体的句子，而是宏观的“意图（Intent）”。\\" 详细介绍AI提示词的使用方法与实战技巧。 | 단어 선택에 집착할 필요 없습니다. Gemini 3와 GPT-5 시대에는 문장이 아닌 '목표(Intent)'를 설계해야 합니다."
 tags: ["AI 트렌드", "에이전트", "Gemini 3", "GPT-5", "Prompt Engineering"]
 ---
 

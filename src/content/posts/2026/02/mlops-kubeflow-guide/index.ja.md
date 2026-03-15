@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "ローカル環境でしか動かないAIモデルからの脱却。Jupyter Notebookの断片的なコードを、自動化された本番用パイプラインへと進化させるMLOps完全ガイドです。"
+description: "ローカル環境でしか動かないAIモデルからの脱却。Jupyter Notebookの断片的なコードを、自動化された本番用パイプラインへと進化させるMLOps完全ガイドです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 로컬 노트북에서만 완벽한 AI 모델은 시한폭탄과 같습니다. 파편화된 주피터 코드를 Kubeflow 기반의 무인 자동화 파이프라인으로 탈바꿈시키..."
 tags: ["MLOps", "Kubeflow", "Machine Learning", "배포", "파이프라인"]
 ---
 

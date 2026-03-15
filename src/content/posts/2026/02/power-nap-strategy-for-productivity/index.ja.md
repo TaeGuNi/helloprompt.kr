@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.116Z"
 updatedDate: "2026-02-07T09:10:33.116Z"
 category: "健康＆ウェルネス"
-description: "昼食後の猛烈な眠気を我慢していませんか？わずか20分で脳を完璧に再起動する「コーヒーナップ（Coffee Nap）」プロンプトをご紹介。科学的な昼寝戦略で午後の生産性を最大化しましょう。"
+description: "昼食後の猛烈な眠気を我慢していませんか？わずか20分で脳を完璧に再起動する「コーヒーナップ（Coffee Nap）」プロンプトをご紹介。科学的な昼寝戦略で午後の生産性を最大化しましょう。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["昼寝", "生産性", "睡眠", "コーヒーナップ", "ChatGPT"]
 image: "/images/hooks/power-nap-strategy-for-productivity.jpg"
 ---

@@ -5,7 +5,7 @@ author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "General"
-description: "AIにスパゲッティDBを作らせないための、シニアバックエンドエンジニアによる無慈悲なRDBMSガイドライン。"
+description: "AIにスパゲッティDBを作らせないための、シニアバックエンドエンジニアによる無慈悲なRDBMSガイドライン。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | AI가 스파게티 코드로 DB를 망치지 않도록 철저히 통제하는 20년 차 시니어 백엔드 엔지니어의 무자비한 RDBMS 스키마 설계 프롬프트입니다."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "rdbms-architecture"]
 ---
 

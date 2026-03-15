@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generazione Immagini"
-description: "Prompt per un acquerello emozionale che combina l'effetto di diffusione dell'acqua e le linee a matita."
+description: "Prompt per un acquerello emozionale che combina l'effetto di diffusione dell'acqua e le linee a matita. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags:
   [
     "Midjourney",

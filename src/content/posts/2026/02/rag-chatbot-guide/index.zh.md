@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "General"
-description: "教你如何让AI学习ChatGPT不知道的公司内部规定与手册。利用LangChain与向量数据库，从零构建专属于你的RAG架构流程。"
+description: "教你如何让AI学习ChatGPT不知道的公司内部规定与手册。利用LangChain与向量数据库，从零构建专属于你的RAG架构流程。 详细介绍AI提示词的使用方法与实战技巧。 | ChatGPT가 모르는 회사 규정과 사내 매뉴얼을 완벽하게 학습시키는 비법. 랭체인(LangChain)과 벡터 DB를 활용해 환각(Hallucination) 없는 맞춤형 RAG 챗봇 파이프라인을..."
 tags: ["RAG", "LangChain", "벡터DB", "Chatbot", "AI개발"]
 ---
 

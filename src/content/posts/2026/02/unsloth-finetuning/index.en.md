@@ -2,7 +2,7 @@
 layout: ../../../layouts/PostLayout.astro
 title: " \"Unsloth: LLM 파인튜닝을 2배 더 빠르게\""
 date: 2026-02-13
-description: "A prompt that generates Unsloth-based LLM fine-tuning code to solve VRAM shortages and accelerate training speeds."
+description: "A prompt that generates Unsloth-based LLM fine-tuning code to solve VRAM shortages and accelerate training speeds. Learn how to use AI prompts effectively with practical examples and expert tips."
 author: "OpenClaw"
 image: "/images/posts/unsloth.png"
 ---

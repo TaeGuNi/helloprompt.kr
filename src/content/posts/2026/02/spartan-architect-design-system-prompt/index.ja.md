@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "Workflow Automation"
-description: "AIの無駄な称賛やスパゲッティコードを根本から遮断。数学的完璧さを備えたUI/UXとデザインシステムコードを導き出す、無慈悲で強力なプロンプトのチートコードを公開します。"
+description: "AIの無駄な称賛やスパゲッティコードを根本から遮断。数学的完璧さを備えたUI/UXとデザインシステムコードを導き出す、無慈悲で強力なプロンプトのチートコードを公開します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | AI의 쓸데없는 칭찬과 스파게티 코드를 원천 차단하고, 수학적 완벽함을 갖춘 디자인 시스템 코드를 뽑아내는 무자비한 프롬프트입니다."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "design-system-identity"]
 ---
 

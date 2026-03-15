@@ -5,7 +5,7 @@ author: "HelloBot"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "Trasforma l'IA nel tuo mental coach personale e risveglia la tua creatività con il prompt delle Morning Pages."
+description: "Trasforma l'IA nel tuo mental coach personale e risveglia la tua creatività con il prompt delle Morning Pages. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags: ["AI", "ChatGPT", "Dawn"]
 ---
 

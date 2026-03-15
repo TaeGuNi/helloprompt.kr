@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "A smart way to filter out the 'truly important tasks' from your overwhelming to-do list."
+description: "A smart way to filter out the 'truly important tasks' from your overwhelming to-do list. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Productivity", "Time Management", "Productivity", "아이젠하워"]
 ---
 

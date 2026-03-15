@@ -2,6 +2,7 @@
 import { getCollection, render } from "astro:content";
 import PostNavigation from "../../../components/PostNavigation.astro";
 import RelatedPosts from "../../../components/RelatedPosts.astro";
+import SeriesNav from "../../../components/SeriesNav.astro";
 import { LANGUAGES } from "../../../i18n/languages";
 import Layout from "../../../layouts/Layout.astro";
 
@@ -43,6 +44,7 @@ const postDate = post.data.date || "";
 <Layout
   frontmatter={{ ...post.data, lang: paramLang }}
   headings={headings}
+  rawContent={post.body}
 >
   <Content />
 
@@ -50,6 +52,11 @@ const postDate = post.data.date || "";
     currentLang={paramLang}
     currentSlug={paramSlug}
     currentDate={postDate}
+  />
+
+  <SeriesNav
+    currentLang={paramLang}
+    currentTags={postTags}
   />
 
   <RelatedPosts

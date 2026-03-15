@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Security"
-description: "使用 AI 完美甄别暗中收集浏览数据的恶意 Chrome 扩展程序的终极指南。"
+description: "使用 AI 完美甄别暗中收集浏览数据的恶意 Chrome 扩展程序的终极指南。 详细介绍AI提示词的使用方法与实战技巧。 | 내 브라우징 데이터를 몰래 수집하는 악성 크롬 확장프로그램을 AI로 정확하게 판별하고 차단하는 완벽 가이드입니다. 1분 만에 스파이웨어를 색출하세요."
 tags: ["Security", "Chrome", "Privacy", "Browser"]
 ---
 

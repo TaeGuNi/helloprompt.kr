@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Content Creation"
-description: "Inject the viral short-form formula (Hook-Body-CTA) into AI to mass-produce highly engaging scripts in seconds."
+description: "Inject the viral short-form formula (Hook-Body-CTA) into AI to mass-produce highly engaging scripts in seconds. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["YouTube", "Shorts", "ScriptWriting", "Creator", "TikTok"]
 ---
 

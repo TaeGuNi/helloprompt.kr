@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "General"
-description: "返信率0%のありきたりな提案書はもう終わり！世界的ポップスターレベルのVIPを一瞬で魅了する、完璧なコールドメール作成プロンプトを公開します。"
+description: "返信率0%のありきたりな提案書はもう終わり！世界的ポップスターレベルのVIPを一瞬で魅了する、完璧なコールドメール作成プロンプトを公開します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 답장률 0%의 뻔한 제안서는 그만! 글로벌 팝스타 수준의 VIP 셀럽을 단숨에 홀리는 완벽한 초개인화 콜드 이메일 작성 프롬프트를 공개합니다."
 tags: ["prompt-engineering", "ai-agent", "nick-jonas"]
 image: "/images/hooks/nick-jonas-influencer-pitch-prompt.jpg"
 ---

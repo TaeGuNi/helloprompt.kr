@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "Workflow Automation"
-description: "一周的工作内容记不清了？只需扔进 Slack、Jira 和 GitHub 日志，就能体验一秒生成完美周报的奇迹。"
+description: "一周的工作内容记不清了？只需扔进 Slack、Jira 和 GitHub 日志，就能体验一秒生成完美周报的奇迹。 详细介绍AI提示词的使用方法与实战技巧。 | 일주일 동안 뭐 했는지 기억 안 나시나요? 슬랙, 지라, 깃허브 로그만 던져주면 완벽한 주간 업무 보고서가 10초 만에 완성되는 기적을 경험해 보세요."
 tags: ["Gemini", "Reports", "직장인꿀팁", "Productivity"]
 ---
 

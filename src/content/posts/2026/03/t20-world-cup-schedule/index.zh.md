@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "Workflow Automation"
-description: "专为全球体育营销人员和开发者打造，可一键自动转换T20世界杯等国际赛事复杂时差，并精准规划营销日程的高阶提示词。"
+description: "专为全球体育营销人员和开发者打造，可一键自动转换T20世界杯等国际赛事复杂时差，并精准规划营销日程的高阶提示词。 详细介绍AI提示词的使用方法与实战技巧。 | 글로벌 스포츠 마케터와 개발자를 위한 필수 프롬프트. 복잡한 영문 일정을 한국 표준시(KST)로 오차 없이 완벽하게 변환하고 마케팅 캘린더를 자동화하세요."
 tags: ["prompt-engineering", "ai-agent", "t20-world-cup-s"]
 ---
 

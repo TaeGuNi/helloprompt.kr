@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "Workflow Automation"
-description: "チャーリー・プースが日常のノイズから世界的ヒット曲を生み出すように、ありふれた製品の特徴をTikTokやReelsで爆発的にバズるバイラルフックへと昇華させる魔法のプロンプトをご紹介します。"
+description: "チャーリー・プースが日常のノイズから世界的ヒット曲を生み出すように、ありふれた製品の特徴をTikTokやReelsで爆発的にバズるバイラルフックへと昇華させる魔法のプロンプトをご紹介します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["prompt-engineering", "ai-agent", "charlie-puth"]
 image: "/images/hooks/charlie-puth-viral-marketing-hook-prompt.jpg"
 ---

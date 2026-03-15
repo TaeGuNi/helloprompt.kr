@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parenting & Education"
-description: "An easy-to-understand explanation script that teaches kids the value of money and the true meaning of labor."
+description: "An easy-to-understand explanation script that teaches kids the value of money and the true meaning of labor. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Parenting", "Education", "AI Prompt", "ChatGPT", "Parenting Tips"]
 ---
 

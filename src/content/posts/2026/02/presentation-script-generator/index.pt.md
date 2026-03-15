@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automação de Trabalho"
-description: "Gere roteiros naturais e envolventes para cada slide do seu PPT e supere de vez o medo de falar em público."
+description: "Gere roteiros naturais e envolventes para cada slide do seu PPT e supere de vez o medo de falar em público. Descubra como usar prompts de IA de forma prática e eficaz."
 tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 ---
 

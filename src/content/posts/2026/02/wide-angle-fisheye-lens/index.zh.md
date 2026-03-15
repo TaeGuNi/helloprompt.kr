@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: "能够瞬间拓宽狭窄空间、将宏伟风景尽收眼底的广角 (Wide Angle) 与鱼眼 (Fisheye) 镜头提示词实战指南。"
+description: "能够瞬间拓宽狭窄空间、将宏伟风景尽收眼底的广角 (Wide Angle) 与鱼眼 (Fisheye) 镜头提示词实战指南。 详细介绍AI提示词的使用方法与实战技巧。 | 좁고 답답하게 잘려나가는 AI 이미지는 이제 그만! 피사체의 한계를 부수고 웅장한 풍경과 압도적인 공간감을 한눈에 담아내는 광각(Wide Angle)과 어안(Fisheye) 렌즈 프롬프트 마스터 가이드..."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Landscape"]
 ---
 

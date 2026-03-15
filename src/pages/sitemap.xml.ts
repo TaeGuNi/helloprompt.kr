@@ -1,5 +1,6 @@
 import { getCollection } from "astro:content";
 import type { APIRoute } from "astro";
+import { SERIES } from "../data/series";
 import { DEFAULT_LANGUAGE, LANGUAGES } from "../i18n/languages";
 import { getKstNow } from "../utils/dateUtils";
 
@@ -34,6 +35,15 @@ export const GET: APIRoute = async (context) => {
       });
     }
   });
+
+  // Add series hub pages to sitemap
+  for (const series of SERIES) {
+    basePathsInfo.push({
+      path: `/series/${series.id}`,
+      isHome: false,
+      date: kstNow, // Always fresh
+    });
+  }
 
   const getUrlForLang = (basePath: string, lang: string) =>
     `${site}/${lang}${basePath}`;

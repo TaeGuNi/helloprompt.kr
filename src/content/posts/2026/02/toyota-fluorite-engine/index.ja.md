@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "開発トレンド"
-description: "トヨタが初めて公開したコンソール級のFlutterゲームエンジン「Fluorite」。インフォテインメントUIを超え、ハードコアなゲームエコシステムへと拡張されたFlutterゲームアーキテクチャ設計プロンプトを紹介します。"
+description: "トヨタが初めて公開したコンソール級のFlutterゲームエンジン「Fluorite」。インフォテインメントUIを超え、ハードコアなゲームエコシステムへと拡張されたFlutterゲームアーキテクチャ設計プロンプトを紹介します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["Toyota", "Flutter", "Game Engine", "Fluorite"]
 image: "/images/hooks/toyota-fluorite-engine.jpg"
 ---

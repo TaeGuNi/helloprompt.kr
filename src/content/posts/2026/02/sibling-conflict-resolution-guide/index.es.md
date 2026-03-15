@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Crianza y Educación"
-description: "Guía de prompts para reconciliar de forma justa a niños que pelean a diario y fortalecer su vínculo fraternal."
+description: "Guía de prompts para reconciliar de forma justa a niños que pelean a diario y fortalecer su vínculo fraternal. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags:
   ["Crianza", "Educación", "Prompts de IA", "ChatGPT", "Consejos de Crianza"]
 ---

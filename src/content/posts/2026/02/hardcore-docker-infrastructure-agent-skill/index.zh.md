@@ -5,7 +5,7 @@ author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "Workflow Automation"
-description: "资深工程师专供的猛药级提示词，彻底终结 AI 代理接管 Docker 容器时频繁死机、无限卡顿的惨状，让你重获控制权。"
+description: "资深工程师专供的猛药级提示词，彻底终结 AI 代理接管 Docker 容器时频繁死机、无限卡顿的惨状，让你重获控制权。 详细介绍AI提示词的使用方法与实战技巧。 | AI 에이전트가 도커(Docker) 컨테이너 제어 시 뻗어버리는 참사를 막기 위한 시니어 엔지니어의 극약 처방 프롬프트입니다. 터미널 무한 대기를 원천 차단하세요."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "docker"]
 ---
 

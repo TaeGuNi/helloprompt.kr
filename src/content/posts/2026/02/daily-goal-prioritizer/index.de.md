@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: " \"Eine smarte Methode, um aus der Flut an Aufgaben die wirklich essenziellen Prioritäten herauszufiltern.\""
+description: " \\"Eine smarte Methode, um aus der Flut an Aufgaben die wirklich essenziellen Prioritäten herauszufiltern.\\" Erfahren Sie mehr über die praktische Anwendung von KI-Prompts."
 tags: ["Productivity", "Time Management", "Productivity", "아이젠하워"]
 ---
 

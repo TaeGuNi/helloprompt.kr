@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "业务自动化"
-description: "公开将AI视为能干的‘同事’而非简单聊天机器人的智能体工作流（Agentic Workflow）核心提示词，助你实现高效产出。"
+description: "公开将AI视为能干的‘同事’而非简单聊天机器人的智能体工作流（Agentic Workflow）核心提示词，助你实现高效产出。 详细介绍AI提示词的使用方法与实战技巧。 | AI를 단순 챗봇이 아닌 유능한 '동료'로 활용하는 에이전트 워크플로우(Agentic Workflow)의 핵심 프롬프트를 공개합니다."
 tags: ["AI智能体", "自动化", "生产力", "工作流"]
 ---
 

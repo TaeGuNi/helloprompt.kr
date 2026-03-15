@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.120Z"
 updatedDate: "2026-02-07T09:10:33.120Z"
 category: "Programação/TI"
-description: "Um prompt que transforma aquele código confuso, que apenas 'funciona', em um código limpo, legível e fácil de manter."
+description: "Um prompt que transforma aquele código confuso, que apenas 'funciona', em um código limpo, legível e fácil de manter. Descubra como usar prompts de IA de forma prática e eficaz."
 tags: ["Refatoração", "Clean Code", "Desenvolvedor", "Revisão de Código"]
 ---
 

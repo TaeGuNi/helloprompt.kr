@@ -5,7 +5,7 @@ author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "Automazione"
-description: "Il prompt definitivo di un senior per impedire agli agenti AI di bloccarsi per sempre manipolando i container Docker."
+description: "Il prompt definitivo di un senior per impedire agli agenti AI di bloccarsi per sempre manipolando i container Docker. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "docker"]
 ---
 

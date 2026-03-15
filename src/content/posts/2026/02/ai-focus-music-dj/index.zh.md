@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "刺激脑波、提升注意力的个性化专属专注歌单生成器。"
+description: "刺激脑波、提升注意力的个性化专属专注歌单生成器。 详细介绍AI提示词的使用方法与实战技巧。 | 뇌파를 자극해 몰입의 스위치를 단숨에 켜주는 AI 맞춤형 집중력 플레이리스트 생성 프롬프트를 소개합니다."
 tags: ["집중력", "음악", "Productivity", "몰입"]
 ---
 

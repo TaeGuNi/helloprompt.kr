@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "General"
-description: "flex、grid、centerなど、目的のCSSプロパティを伝えるだけで最適なTailwindクラスに即座に変換するAI活用ガイド。"
+description: "flex、grid、centerなど、目的のCSSプロパティを伝えるだけで最適なTailwindクラスに即座に変換するAI活用ガイド。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | flex, grid 등 복잡한 CSS 속성을 일상어로 설명하면 최적의 Tailwind 유틸리티 클래스로 즉시 변환해 주는 AI 프롬프트 가이드입니다. 더 이상 공식 문서를 뒤..."
 tags: ["Tailwind", "CSS", "Frontend", "웹디자인", "Coding"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "Workflow Automation"
-description: "告别AI无用的奉承！这套冷酷无情的MySQL Agent提示词作弊码，能彻底杜绝数据破坏惨剧，让AI化身绝对服从的资深DBA。"
+description: "告别AI无用的奉承！这套冷酷无情的MySQL Agent提示词作弊码，能彻底杜绝数据破坏惨剧，让AI化身绝对服从的资深DBA。 详细介绍AI提示词的使用方法与实战技巧。 | 쓸데없는 아부 대신 완벽한 통제력을! AI 에이전트의 데이터 파괴를 원천 차단하고 기계적인 정확성을 부여하는 무자비한 MySQL 프롬프트 셋업 가이드."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "mysql"]
 ---
 ## 🚨 将聊天机器人改造为冷酷DB工程师的MySQL作弊码

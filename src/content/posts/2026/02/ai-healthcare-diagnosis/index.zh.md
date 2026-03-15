@@ -1,6 +1,6 @@
 ---
 title: "AI医生进入诊室"
-description: "医疗AI应用指南：手把手教您利用AI解析症状与体检报告，并生成专业的就诊提问清单，让医患沟通更高效。"
+description: "医疗AI应用指南：手把手教您利用AI解析症状与体检报告，并生成专业的就诊提问清单，让医患沟通更高效。 详细介绍AI提示词的使用方法与实战技巧。 | 환자 차트 리뷰와 감별 진단을 1분으로 단축하는 의료 AI 프롬프트. GPT-4o, Claude를 활용하여 의사가 환자와의 소통에 더 집중할 수 있게 돕는 실전 가이드입니다."
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Healthcare", "Medical AI", "Health", "Science"]

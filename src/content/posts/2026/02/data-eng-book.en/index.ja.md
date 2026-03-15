@@ -1,6 +1,6 @@
 ---
 title: " \"Review: The Data Engineering Book (Open Source Guide)\""
-description: "オープンソースの名著『The Data Engineering Book』を深掘りし、AIエンジニアにとって必読である理由と実務への適用法を解説します。"
+description: "オープンソースの名著『The Data Engineering Book』を深掘りし、AIエンジニアにとって必読である理由と実務への適用法を解説します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 방대한 오픈소스 가이드 'The Data Engineering Book'을 완벽하게 프롬프트로 압축했습니다. AI를 시니어 DE 멘토로 만들어 데이터 파이프라..."
 date: "2026-02-15"
 tags: ["data-engineering", "books", "opensource"]
 ---

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Data Analysis"
-description: "複雑なエクセル関数の暗記はもう不要。VLOOKUPを使わず、自然言語でエクセルを完璧に操り、データ分析時間を劇的に短縮するプロンプトテクニックを紹介します。"
+description: "複雑なエクセル関数の暗記はもう不要。VLOOKUPを使わず、自然言語でエクセルを完璧に操り、データ分析時間を劇的に短縮するプロンプトテクニックを紹介します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 복잡한 엑셀 함수 암기는 이제 그만. VLOOKUP 없이 자연어로 엑셀을 완벽하게 제어하고 데이터 분석 시간을 획기적으로 단축하는 프롬프트 테크닉을 소개합니다."
 tags: ["Excel", "Data Analysis", "ChatGPT", "VLOOKUP", "Productivity"]
 image: "/images/hooks/excel-formula-liberation.jpg"
 ---

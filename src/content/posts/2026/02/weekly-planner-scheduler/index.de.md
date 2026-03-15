@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Alltag"
-description: "Viel zu tun, aber keine Ahnung, wie Sie sich organisieren sollen? Perfekte Wochenplanung basierend auf Prioritäten."
+description: "Viel zu tun, aber keine Ahnung, wie Sie sich organisieren sollen? Perfekte Wochenplanung basierend auf Prioritäten. Erfahren Sie mehr über die praktische Anwendung von KI-Prompts."
 tags: ["Planer", "Zeitplaner", "Zeitmanagement", "Produktivität"]
 ---
 

@@ -5,7 +5,7 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: DevOps
-description: "使用 AI 在 1 秒内生成完美的 Husky 和 pre-commit Shell 脚本。这是自动守护代码质量的终极方法。"
+description: "使用 AI 在 1 秒内生成完美的 Husky 和 pre-commit Shell 脚本。这是自动守护代码质量的终极方法。 详细介绍AI提示词的使用方法与实战技巧。 | Husky와 pre-commit 환경에 딱 맞는 쉘 스크립트를 AI로 1초 만에 생성하세요. 개발자의 실수를 원천 차단하고 코드 품질을 자동으로 사수하는 완벽한 가이드입니다."
 tags: [AI, Git, DevOps, Automation]
 ---
 

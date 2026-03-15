@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-14"
 updatedDate: "2026-02-14"
 category: "General"
-description: "A era de criar vídeos com qualidade de Hollywood usando apenas texto: a linha de frente da geração de vídeos com IA."
+description: "A era de criar vídeos com qualidade de Hollywood usando apenas texto: a linha de frente da geração de vídeos com IA. Descubra como usar prompts de IA de forma prática e eficaz."
 tags: ["영상제작", "Sora", "Runway", "크리에이터", "Gen-4"]
 ---
 

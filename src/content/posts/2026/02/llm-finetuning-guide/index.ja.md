@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "General"
-description: "RAGでは物足りないあなたへ。Llama 3やMistralモデルを自社データで学習させ、「業務専用AI」を構築するための実践ガイド。"
+description: "RAGでは物足りないあなたへ。Llama 3やMistralモデルを自社データで学習させ、「業務専用AI」を構築するための実践ガイド。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | RAG만으로는 한계가 있을 때, Llama 3 모델을 자체 데이터로 학습시켜 완벽한 '업무 전용 AI'를 구축하는 실전 파인튜닝 가이드입니다."
 tags: ["파인튜닝", "LLM", "Llama3", "AI모델", "HuggingFace"]
 ---
 

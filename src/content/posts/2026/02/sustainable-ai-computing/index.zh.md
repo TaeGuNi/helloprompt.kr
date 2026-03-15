@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-14"
 updatedDate: "2026-02-14"
 category: "Work Automation"
-description: "为您介绍能显著降低爆炸式增长的 AI 服务器成本和碳排放的‘可持续 AI (Green AI)’实务优化提示词。助您同时实现 ESG 管理与成本节减。"
+description: "为您介绍能显著降低爆炸式增长的 AI 服务器成本和碳排放的‘可持续 AI (Green AI)’实务优化提示词。助您同时实现 ESG 管理与成本节减。 详细介绍AI提示词的使用方法与实战技巧。 | 폭발하는 AI 서버 비용과 탄소 배출을 획기적으로 줄여주는 '지속 가능한 AI(Green AI)' 실무 최적화 프롬프트를 소개합니다. ESG 경영과 비용 절감을 동시에 달성하세요."
 image: "/images/hooks/sustainable-ai-computing.jpg"
 tags: ["Green AI", "인프라최적화", "ESG"]
 ---

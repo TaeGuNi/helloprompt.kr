@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Marketing"
-description: "Découvrez comment identifier les frustrations et besoins de vos clients sans avoir à lire des milliers d'avis."
+description: "Découvrez comment identifier les frustrations et besoins de vos clients sans avoir à lire des milliers d'avis. Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags: ["Marketing", "시장조사", "ChatGPT", "Data Analysis"]
 ---
 

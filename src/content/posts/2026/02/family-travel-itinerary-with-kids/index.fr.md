@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Voyage & Culture"
-description: "Un prompt magique pour des vacances en famille, préservant l'énergie des enfants et la sérénité des parents."
+description: "Un prompt magique pour des vacances en famille, préservant l'énergie des enfants et la sérénité des parents. Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags: ["Voyage en Famille", "Parentalité", "Zone Enfants", "Plan de Voyage"]
 ---
 

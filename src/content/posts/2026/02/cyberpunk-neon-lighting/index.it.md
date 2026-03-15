@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.168Z"
 updatedDate: "2026-02-07T09:10:33.168Z"
 category: "Generazione di immagini"
-description: "Guida ai prompt per l'illuminazione cyberpunk neon: crea atmosfere mozzafiato con il contrasto tra magenta e ciano."
+description: "Guida ai prompt per l'illuminazione cyberpunk neon: crea atmosfere mozzafiato con il contrasto tra magenta e ciano. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Sci-Fi", "Color"]
 image: "/images/hooks/cyberpunk-neon-lighting.jpg"
 ---

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Arbeitsautomatisierung"
-description: "Hunderte Kundenbewertungen sofort per Sentiment-Analyse strukturieren und auswerten."
+description: "Hunderte Kundenbewertungen sofort per Sentiment-Analyse strukturieren und auswerten. Erfahren Sie mehr über die praktische Anwendung von KI-Prompts."
 tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 ---
 

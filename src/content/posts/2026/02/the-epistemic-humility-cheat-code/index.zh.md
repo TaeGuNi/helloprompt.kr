@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "Workflow Automation"
-description: "专治 AI 幻觉与盲目自信！这是一份资深工程师必备的提示词宪法，强迫 AI 代理主动暴露代码缺陷，彻底消除生产环境隐患。"
+description: "专治 AI 幻觉与盲目自信！这是一份资深工程师必备的提示词宪法，强迫 AI 代理主动暴露代码缺陷，彻底消除生产环境隐患。 详细介绍AI提示词的使用方法与实战技巧。 | 환각(Hallucination)에 찌든 AI의 멱살을 잡고, 코드의 결함을 스스로 자백하게 만드는 시니어 엔지니어의 하드코어 프롬프트 헌법입니다."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "epistemic-humility"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.116Z"
 updatedDate: "2026-02-07T09:10:33.116Z"
 category: "健康与职场福祉"
-description: "别再硬撑午后的困倦了。介绍仅需20分钟即可完美重启大脑的‘咖啡觉(Coffee Nap)’提示词，助您摆脱食欲性睡意。"
+description: "别再硬撑午后的困倦了。介绍仅需20分钟即可完美重启大脑的‘咖啡觉(Coffee Nap)’提示词，助您摆脱食欲性睡意。 详细介绍AI提示词的使用方法与实战技巧。 | 점심 직후 쏟아지는 식곤증, 무작정 참지 마세요. 단 20분 만에 뇌를 완벽히 재부팅하는 '커피 냅(Coffee Nap)' 프롬프트를 소개합니다."
 tags: ["午睡", "生产力", "睡眠", "咖啡觉", "ChatGPT"]
 image: "/images/hooks/power-nap-strategy-for-productivity.jpg"
 ---

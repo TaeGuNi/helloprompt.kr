@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "General"
-description: "视频拍完就结束了？为您揭秘OSMU内容自动化策略：一键提取YouTube字幕脚本，轻松将其裂变为博客、Instagram和LinkedIn爆款图文，实现流量最大化。"
+description: "视频拍完就结束了？为您揭秘OSMU内容自动化策略：一键提取YouTube字幕脚本，轻松将其裂变为博客、Instagram和LinkedIn爆款图文，实现流量最大化。 详细介绍AI提示词的使用方法与实战技巧。 | 영상 하나로 끝내지 마세요. 유튜브 스크립트 하나를 블로그, 인스타그램, 링크드인 콘텐츠로 무한 증식시키는 완벽한 OSMU 자동화 프롬프트를 공개합니다."
 tags: ["콘텐츠마케팅", "OSMU", "리퍼포징", "SNS"]
 ---
 

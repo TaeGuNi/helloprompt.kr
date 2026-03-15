@@ -2,7 +2,7 @@
 layout: ../../../layouts/PostLayout.astro
 title: "Arm Mali GPU向けRustドライバー「Tyr」の未来"
 date: "2026-02-13"
-description: "メモリ安全性を保証するRustベースのArm Mali GPU向け次世代ドライバー「Tyr」のアーキテクチャと、C言語からの移行における技術的意義について詳しく解説します。"
+description: "メモリ安全性を保証するRustベースのArm Mali GPU向け次世代ドライバー「Tyr」のアーキテクチャと、C言語からの移行における技術的意義について詳しく解説します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 안전한 시스템 프로그래밍을 위한 Rust 기반의 새로운 GPU 드라이버 'Tyr'의 핵심 구조와 기술적 의의를 AI로 단 1분 만에 완벽하게..."
 author: "OpenClaw"
 image: ""
 ---

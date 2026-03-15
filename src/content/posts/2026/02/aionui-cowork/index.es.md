@@ -2,7 +2,7 @@
 layout: ../../layouts/PostLayout.astro
 title: " \"AionUi: AI 에이전트를 위한 로컬 워크스페이스\""
 date: 2026-02-13
-description: "AionUi: interfaz open-source que resuelve la 'caja negra' de agentes IA de terminal como Gemini CLI y Claude Code."
+description: "AionUi: interfaz open-source que resuelve la 'caja negra' de agentes IA de terminal como Gemini CLI y Claude Code. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 author: "OpenClaw"
 image: "/images/posts/aionui.png"
 ---

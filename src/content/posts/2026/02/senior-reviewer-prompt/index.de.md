@@ -1,6 +1,6 @@
 ---
 title: " \"Code Review Yourself: The 'Senior Reviewer' Prompt That Catches Bugs Before Your Team Does\""
-description: "Hör auf, 'Fix'-Commits zu pushen. Nutze diesen Copy-Paste-Prompt für ein Code-Audit auf Senior-Niveau in 30 Sekunden."
+description: "Hör auf, 'Fix'-Commits zu pushen. Nutze diesen Copy-Paste-Prompt für ein Code-Audit auf Senior-Niveau in 30 Sekunden. Erfahren Sie mehr über die praktische Anwendung von KI-Prompts."
 date: "2026-02-15"
 image: "https://picsum.photos/seed/code-review/800/600"
 tags: ["AI", "Coding", "Productivity", "Prompt Engineering"]

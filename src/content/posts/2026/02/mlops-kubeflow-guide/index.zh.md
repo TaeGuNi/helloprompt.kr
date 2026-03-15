@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "彻底告别只能在本地跑的AI模型。本指南带您将Jupyter Notebook中的零散代码，完美蜕变为全自动化的生产级部署流水线，实现真正的MLOps。"
+description: "彻底告别只能在本地跑的AI模型。本指南带您将Jupyter Notebook中的零散代码，完美蜕变为全自动化的生产级部署流水线，实现真正的MLOps。 详细介绍AI提示词的使用方法与实战技巧。 | 로컬 노트북에서만 완벽한 AI 모델은 시한폭탄과 같습니다. 파편화된 주피터 코드를 Kubeflow 기반의 무인 자동화 파이프라인으로 탈바꿈시키는 완벽한 MLOps 배포 가이드입니다."
 tags: ["MLOps", "Kubeflow", "Machine Learning", "배포", "파이프라인"]
 ---
 

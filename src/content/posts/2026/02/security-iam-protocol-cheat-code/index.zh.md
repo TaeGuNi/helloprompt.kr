@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "业务自动化"
-description: "粉碎AI的盲目顺从，从架构底层彻底封锁Token窃取。这是一份专为防御XSS与CSRF打造的斯巴达式安全提示词作弊码，让你的项目坚不可摧。"
+description: "粉碎AI的盲目顺从，从架构底层彻底封锁Token窃取。这是一份专为防御XSS与CSRF打造的斯巴达式安全提示词作弊码，让你的项目坚不可摧。 详细介绍AI提示词的使用方法与实战技巧。 | AI의 위험한 아부를 박살 내고 XSS 및 토큰 탈취를 원천 봉쇄하는 스파르타식 보안 프롬프트 치트키입니다."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "security-iam-protocol"]
 ---
 

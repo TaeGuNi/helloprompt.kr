@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: " \"利用上帝视角 (High Angle / Drone View) 俯瞰整体地形与布局的高效 AI 绘图提示词指南。\""
+description: " \\"利用上帝视角 (High Angle / Drone View) 俯瞰整体地形与布局的高效 AI 绘图提示词指南。\\" 详细介绍AI提示词的使用方法与实战技巧。 | 하늘에서 내려다보는 완벽한 전지적 시점. 지형과 공간 배치를 압도적인 스케일로 담아내는 하이 앵글(High Angle) 및 드론 샷 프롬프트 가이드입니다."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Landscape"]
 ---
 

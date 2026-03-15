@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creazione & Hobby"
-description: "Crea brevi poesie emozionali perfette per i social media: cattura l'attenzione e genera interazioni in soli 10 secondi."
+description: "Crea brevi poesie emozionali perfette per i social media: cattura l'attenzione e genera interazioni in soli 10 secondi. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags: ["Instagram", "Poesia", "TestoEmotivo", "SNS", "Contenuto"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: "以 80 年代霓虹色调、椰树剪影与发光网格地板为核心，带您重塑经典合成波 (Synthwave) 风格的 AI 绘画提示词指南。"
+description: "以 80 年代霓虹色调、椰树剪影与发光网格地板为核心，带您重塑经典合成波 (Synthwave) 风格的 AI 绘画提示词指南。 详细介绍AI提示词的使用方法与实战技巧。 | 단 몇 개의 키워드로 80년대 레트로 감성을 완벽하게 재현하는 신스웨이브(Synthwave) 아트 생성 프롬프트입니다. 네온빛 야자수와 그리드 바닥이 특징인 고퀄리티 이미지를 만들어보세요."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Retro"]
 ---
 

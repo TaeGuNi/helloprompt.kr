@@ -5,7 +5,7 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Development
-description: "还在苦等后端 API 接口？只需提供 API 文档，AI 即可在 1 分钟内为你生成基于 Express/Hono 的高保真 Mock 服务器，让前端开发与联调效率直接翻倍！"
+description: "还在苦等后端 API 接口？只需提供 API 文档，AI 即可在 1 分钟内为你生成基于 Express/Hono 的高保真 Mock 服务器，让前端开发与联调效率直接翻倍！ 详细介绍AI提示词的使用方法与实战技巧。 | API 명세서만 던져주면 Express, Hono 기반의 Mock 서버 코드를 뚝딱 만들어줍니다. 프론트엔드 개발 속도를 압도적으로 올리세요."
 tags: [AI, Backend, Frontend, Testing]
 ---
 

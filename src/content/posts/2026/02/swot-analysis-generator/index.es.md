@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatización del Trabajo"
-description: "Realiza un análisis FODA en 1 minuto con IA: la base para nuevas ideas de negocio y estrategias de marketing."
+description: "Realiza un análisis FODA en 1 minuto con IA: la base para nuevas ideas de negocio y estrategias de marketing. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 ---
 

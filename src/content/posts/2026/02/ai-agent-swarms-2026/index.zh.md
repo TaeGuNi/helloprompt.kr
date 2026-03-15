@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "业务自动化"
-description: "介绍如何仅通过一个提示词，让多个 AI 专家进行激烈讨论并协作，从而得出最佳策划方案的多智能体集群 (Multi-Agent Swarms) 使用方法。"
+description: "介绍如何仅通过一个提示词，让多个 AI 专家进行激烈讨论并协作，从而得出最佳策划方案的多智能体集群 (Multi-Agent Swarms) 使用方法。 详细介绍AI提示词的使用方法与实战技巧。 | 단 하나의 프롬프트로 여러 AI 전문가가 치열하게 토론하고 협력하여 최적의 기획안을 도출하는 다중 에이전트 스웜(Multi-Agent Swarms) 활용법을 소개합니다."
 image: "https://picsum.photos/seed/swarm/800/600"
 tags: ["AI", "Tech", "ai-agent-swarms-2026"]
 ---

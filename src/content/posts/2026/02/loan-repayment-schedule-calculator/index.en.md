@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Work Automation"
-description: "A comprehensive guide to building a custom loan interest calculator in Excel without relying on external banking sites."
+description: "A comprehensive guide to building a custom loan interest calculator in Excel without relying on external banking sites. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Excel", "LoanInterest", "FinancialFunction", "PMT"]
 ---
 

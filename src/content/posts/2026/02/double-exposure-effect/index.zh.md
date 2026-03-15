@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: "通过重叠两张截然不同的图像，创作出神秘且充满梦幻色彩的双重曝光（Double Exposure）技法，为你的设计注入超现实的艺术张力。"
+description: "通过重叠两张截然不同的图像，创作出神秘且充满梦幻色彩的双重曝光（Double Exposure）技法，为你的设计注入超现实的艺术张力。 详细介绍AI提示词的使用方法与实战技巧。 | 두 개의 서로 다른 이미지를 겹쳐 신비롭고 몽환적인 스토리를 담아내는 이중 노출 기법 프롬프트 가이드입니다."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Effect", "Surrealism"]
 ---
 

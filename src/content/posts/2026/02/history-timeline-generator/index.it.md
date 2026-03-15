@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Studi Umanistici/Storia"
-description: "Un prompt avanzato che organizza l'ordine e le relazioni causali di eventi storici complessi in una cronologia chiara."
+description: "Un prompt avanzato che organizza l'ordine e le relazioni causali di eventi storici complessi in una cronologia chiara. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags: ["RiassuntoStoria", "Cronologia", "LineaTemporale", "Riassunto"]
 ---
 

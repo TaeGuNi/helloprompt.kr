@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "General"
-description: " \"当 RAG 无法满足业务需求时，这份实战指南将手把手教你使用自有数据微调 Llama 3 或 Mistral 模型，零门槛打造完美契合业务架构的“企业专属 AI 大脑”。\""
+description: " \\"当 RAG 无法满足业务需求时，这份实战指南将手把手教你使用自有数据微调 Llama 3 或 Mistral 模型，零门槛打造完美契合业务架构的“企业专属 AI 大脑”。\\" 详细介绍AI提示词的使用方法与实战技巧。 | RAG만으로는 한계가 있을 때, Llama 3 모델을 자체 데이터로 학습시켜 완벽한 '업무 전용 AI'를 구축하는 실전 파인튜닝 가이드입니다."
 tags: ["파인튜닝", "LLM", "Llama3", "AI모델", "HuggingFace"]
 ---
 

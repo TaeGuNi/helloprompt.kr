@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Development"
-description: "A powerful prompt that automatically generates tedious unit tests and comprehensively covers edge cases in seconds."
+description: "A powerful prompt that automatically generates tedious unit tests and comprehensively covers edge cases in seconds. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Test Code", "TDD", "Jest", "JUnit"]
 ---
 

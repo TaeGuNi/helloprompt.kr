@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Vida Diária"
-description: "Informe a idade, gênero, nível de intimidade e orçamento, e a IA criará uma lista de presentes infalível e criativa."
+description: "Informe a idade, gênero, nível de intimidade e orçamento, e a IA criará uma lista de presentes infalível e criativa. Descubra como usar prompts de IA de forma prática e eficaz."
 tags: ["Recomendação de Presente", "Aniversário", "Open House", "Aniversário"]
 ---
 

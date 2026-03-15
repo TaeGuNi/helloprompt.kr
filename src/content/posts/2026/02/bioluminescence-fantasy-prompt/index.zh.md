@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: "掌握 Bioluminescence（生物发光）提示词，像《阿凡达》一样在 AI 绘画中完美呈现自体发光的神秘动植物与梦幻夜景氛围。"
+description: "掌握 Bioluminescence（生物发光）提示词，像《阿凡达》一样在 AI 绘画中完美呈现自体发光的神秘动植物与梦幻夜景氛围。 详细介绍AI提示词的使用方法与实战技巧。 | 영화 '아바타'처럼 스스로 빛을 내는 생명체와 몽환적인 숲을 완벽히 렌더링하는 '생체 발광' 프롬프트. 네온사인을 없애고 하이엔드 판타지 아트를 완성하세요."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fantasy", "Color"]
 ---
 

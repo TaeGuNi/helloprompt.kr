@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Criação & Hobbies"
-description: "Crie poesias curtas e de alto impacto emocional para viralizar nas redes sociais em apenas 10 segundos."
+description: "Crie poesias curtas e de alto impacto emocional para viralizar nas redes sociais em apenas 10 segundos. Descubra como usar prompts de IA de forma prática e eficaz."
 tags: ["Instagram", "Poesia", "TextoEmocional", "SNS", "Conteúdo"]
 ---
 

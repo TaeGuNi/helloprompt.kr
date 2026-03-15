@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generación de Imágenes"
-description: "Prompt de acuarela emocional que fusiona el efecto de dispersión del agua con las líneas precisas de un boceto a lápiz."
+description: "Prompt de acuarela emocional que fusiona el efecto de dispersión del agua con las líneas precisas de un boceto a lápiz. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags:
   ["Midjourney", "DALL-E", "Stable Diffusion", "Estilo de Arte", "Tradicional"]
 ---

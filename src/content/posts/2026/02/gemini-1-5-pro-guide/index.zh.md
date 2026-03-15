@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "General"
-description: "Gemini 2.5 Pro 在处理长上下文（Long Context）方面具有压倒性优势。这是一份利用 100 万 Token 完整分析超厚 PDF 或整个代码库的实战提示词指南。"
+description: "Gemini 2.5 Pro 在处理长上下文（Long Context）方面具有压倒性优势。这是一份利用 100 万 Token 完整分析超厚 PDF 或整个代码库的实战提示词指南。 详细介绍AI提示词的使用方法与实战技巧。 | 긴 문맥(Long Context) 처리에 압도적으로 강한 Gemini 2.5 Pro. 100만 토큰을 활용해 두꺼운 PDF나 방대한 코드베이스 전체..."
 tags: ["Gemini", "구글", "LLM", "GPT-4", "AI모델"]
 ---
 

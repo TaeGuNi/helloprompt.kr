@@ -1,4 +1,5 @@
 ---
+import { parseFaqFromMarkdown } from "../utils/faqParser";
 import { determineCurrentLang } from "../utils/i18nUtils";
 import { uiStrings } from "../utils/ui-translation";
 
@@ -15,9 +16,10 @@ interface Props {
     image?: string | { src: string };
   };
   isHome?: boolean;
+  rawContent?: string;
 }
 
-const { frontmatter, isHome = false } = Astro.props;
+const { frontmatter, isHome = false, rawContent } = Astro.props;
 
 const currentLang = determineCurrentLang(Astro.url.pathname, frontmatter.lang);
 const t = uiStrings[currentLang] || uiStrings.ko;
@@ -34,6 +36,9 @@ const finalOgImageUrl = isHome
   : ogImageUrlStr.startsWith("http")
     ? ogImageUrlStr
     : new URL(ogImageUrlStr, Astro.site).href;
+
+// Parse FAQ items from raw markdown for FAQPage structured data
+const faqItems = rawContent ? parseFaqFromMarkdown(rawContent) : [];
 ---
 
 <title>
@@ -180,6 +185,30 @@ const finalOgImageUrl = isHome
         ]
   )}
 />
+
+{/* [SEO] FAQPage JSON-LD for Google Rich Snippets */}
+{faqItems.length > 0 && (
+  <script
+    is:inline
+    type="application/ld+json"
+    set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      mainEntity: faqItems.map((item) => ({
+        "@type": "Question",
+        name: item.question,
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: item.answer,
+        },
+      })),
+    })}
+  />
+)}
+
+<!-- [Performance] Font Preconnect (eliminates DNS+TLS overhead) -->
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 
 <!-- [Fonts] Orbitron (Title), Noto Sans KR (Body), JetBrains Mono (Code) -->
 <link

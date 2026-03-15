@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.155Z"
 updatedDate: "2026-02-07T09:10:33.155Z"
 category: "コーディング・開発"
-description: "退屈で面倒なユニットテスト（Unit Test）作成は、もうAIに任せましょう。わずか5分でカバレッジ100%を達成する秘訣を公開します。"
+description: "退屈で面倒なユニットテスト（Unit Test）作成は、もうAIに任せましょう。わずか5分でカバレッジ100%を達成する秘訣を公開します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 지루하고 귀찮은 유닛 테스트(Unit Test) 작성, 이제 AI에게 맡기세요. 단 5분 만에 커버리지 100%를 달성하는 비법을 공개합니다."
 tags: ["テストコード", "TDD", "Jest", "PyTest", "QA"]
 image: "/images/hooks/unit-test-generator-prompt.jpg"
 ---

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Geração de Imagem"
-description: "Crie designs incríveis utilizando prompts de arte Low Poly e Voxel, com formas geométricas e estética minimalista 3D."
+description: "Crie designs incríveis utilizando prompts de arte Low Poly e Voxel, com formas geométricas e estética minimalista 3D. Descubra como usar prompts de IA de forma prática e eficaz."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "3D", "Estilo de Arte"]
 ---
 

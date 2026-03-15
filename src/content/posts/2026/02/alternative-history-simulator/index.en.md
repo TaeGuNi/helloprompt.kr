@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "An alternative history simulation prompt that twists historical figures and events to build a rich narrative universe."
+description: "An alternative history simulation prompt that twists historical figures and events to build a rich narrative universe. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["대체역사", "시뮬레이션", "역사", "만약에", "ChatGPT"]
 ---
 

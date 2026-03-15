@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automação de Trabalho"
-description: "Aprenda a criar Descrições de Trabalho (JDs) irresistíveis que atraem os melhores talentos para a sua empresa."
+description: "Aprenda a criar Descrições de Trabalho (JDs) irresistíveis que atraem os melhores talentos para a sua empresa. Descubra como usar prompts de IA de forma prática e eficaz."
 tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 ---
 

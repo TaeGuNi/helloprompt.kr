@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "Un generatore di playlist su misura che stimola le onde cerebrali per massimizzare la concentrazione."
+description: "Un generatore di playlist su misura che stimola le onde cerebrali per massimizzare la concentrazione. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags: ["집중력", "음악", "Productivity", "몰입"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "Work Automation"
-description: "A powerful AI prompt that instantly converts rambling, chaotic meeting transcripts into crisp, actionable summaries."
+description: "A powerful AI prompt that instantly converts rambling, chaotic meeting transcripts into crisp, actionable summaries. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "meeting-minutes"]
 ---
 

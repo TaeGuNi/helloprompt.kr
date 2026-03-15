@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creation & Hobbies"
-description: "A simple '+1 Sword' is boring. Create unique items with living narratives and intricate gimmicks."
+description: "A simple '+1 Sword' is boring. Create unique items with living narratives and intricate gimmicks. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Game", "Item", "TRPG", "Planning", "Fantasy"]
 ---
 

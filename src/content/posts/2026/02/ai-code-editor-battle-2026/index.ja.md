@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "開発"
-description: "まだVS Codeに重いプラグインだけでコーディングしていますか？AIが設計からテストまで担う、2026年型自律型AIエディタ3種を徹底分析。生産性を劇的に変える次世代の選択肢を解説します。"
+description: "まだVS Codeに重いプラグインだけでコーディングしていますか？AIが設計からテストまで担う、2026年型自律型AIエディタ3種を徹底分析。生産性を劇的に変える次世代の選択肢を解説します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["Cursor", "Windsurf", "OpenClaw", "生産性", "開発ツール"]
 image: "/images/hooks/ai-code-editor-battle-2026.jpg"
 ---

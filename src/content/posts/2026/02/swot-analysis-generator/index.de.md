@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Arbeitsautomatisierung"
-description: "Erstellen Sie mit KI in Sekundenschnelle fundierte SWOT-Analysen für neue Geschäftsideen und Marketingstrategien."
+description: "Erstellen Sie mit KI in Sekundenschnelle fundierte SWOT-Analysen für neue Geschäftsideen und Marketingstrategien. Erfahren Sie mehr über die praktische Anwendung von KI-Prompts."
 tags: ["Arbeitseffizienz", "Excel", "Bericht", "ChatGPT"]
 ---
 

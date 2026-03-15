@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-25"
 updatedDate: "2026-02-25"
 category: "Workflow Automation"
-description: "無意味なお世辞を徹底排除。時間計算量と極限のエッジケースを冷酷に追求する、Linux創設者クラスのスパルタ式AIコードレビュアー・チートシートです。"
+description: "無意味なお世辞を徹底排除。時間計算量と極限のエッジケースを冷酷に追求する、Linux創設者クラスのスパルタ式AIコードレビュアー・チートシートです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 무의미한 칭찬은 버리세요. 시간 복잡도와 극한의 엣지 케이스까지 집요하게 파고드는 스파르타식 AI 코드 리뷰어 프롬프트를 소개합니다."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ruthless-reviewer"]
 ---
 ## ⚔️ AIコードを引き裂く究極のコードレビュアーペルソナ（Linux創設者モード）

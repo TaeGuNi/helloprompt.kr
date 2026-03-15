@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-14"
 updatedDate: "2026-02-14"
 category: "策划/战略"
-description: "深入探讨 AI 聊天机器人过度沉迷与深度伪造引发的伦理困境。查看为规划安全、可持续服务所必需的 AI 伦理风险验证提示词。"
+description: "深入探讨 AI 聊天机器人过度沉迷与深度伪造引发的伦理困境。查看为规划安全、可持续服务所必需的 AI 伦理风险验证提示词。 详细介绍AI提示词的使用方法与实战技巧。 | AI 챗봇 과몰입과 딥페이크가 촉발한 윤리적 딜레마를 파헤칩니다. 안전하고 지속 가능한 서비스 기획을 위해 필수적인 AI 윤리 리스크 검증 프롬프트를 확인하세요."
 heroImage: ./cover.jpg
 tags: ["AI", "Ethics", "Society", "Relationships"]
 ---

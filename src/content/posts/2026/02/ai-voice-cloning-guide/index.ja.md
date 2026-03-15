@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "RVC(Retrieval-based Voice Conversion)技術を活用し、自分の声を憧れの有名人の声にリアルタイム変換するAI音声生成(TTS)の完全ガイド。"
+description: "RVC(Retrieval-based Voice Conversion)技術を活用し、自分の声を憧れの有名人の声にリアルタイム変換するAI音声生成(TTS)の完全ガイド。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | RVC 기술을 활용해 억양과 감정은 유지한 채 음색만 완벽하게 변조하는 AI 성대모사 파이프라인 구축 가이드입니다. 나만의 버추얼 목소리를 ..."
 tags: ["TTS", "성대모사", "RVC", "AI음성", "목소리변조"]
 ---
 

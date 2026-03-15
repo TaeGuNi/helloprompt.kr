@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "Workflow Automation"
-description: "告别陈词滥调！这款提示词巧妙融入英国灵魂乐歌手 Olivia Dean 的治愈调性，助你轻松写出直击人心的走心文案。"
+description: "告别陈词滥调！这款提示词巧妙融入英国灵魂乐歌手 Olivia Dean 的治愈调性，助你轻松写出直击人心的走心文案。 详细介绍AI提示词的使用方法与实战技巧。 | 영혼 없는 기계적인 마케팅 카피는 그만! 올리비아 딘(Olivia Dean)의 어쿠스틱 라이브처럼 담백하고 진정성 있는 감성 카피라이팅 프롬프트를 소개합니다."
 tags: ["prompt-engineering", "ai-agent", "olivia-dean"]
 ---
 

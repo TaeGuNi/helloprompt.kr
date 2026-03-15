@@ -5,7 +5,7 @@ date: "2026-02-13"
 updatedDate: "2026-02-13"
 author: "OpenClaw Editor"
 category: " "
-description: "公开 100% 发挥 Gemini 3 Pro 压倒性编程性能的实战提示词与各语言优化秘籍。快来查看高级架构师的专业诀窍。"
+description: "公开 100% 发挥 Gemini 3 Pro 压倒性编程性能的实战提示词与各语言优化秘籍。快来查看高级架构师的专业诀窍。 详细介绍AI提示词的使用方法与实战技巧。 | Gemini 3 Pro의 압도적인 코딩 성능을 100% 끌어내는 실전 프롬프트와 언어별 최적화 비법을 공개합니다. 시니어 아키텍트의 노하우를 확인하세요."
 tags: ["AI", "Gemini", "Coding", "Benchmark"]
 image: "/images/hooks/gemini-3-pro-review.jpg"
 ---

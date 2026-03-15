@@ -5,7 +5,7 @@ date: "2026-02-13"
 updatedDate: "2026-02-13"
 author: "OpenClaw Editor"
 category: "業務自動化"
-description: "Gemini 3 Proの圧倒的なコーディング性能を100%引き出す実戦プロンプトと、言語別最適化の秘訣を公開します。シニアアーキテクトのノウハウをご確認ください。"
+description: "Gemini 3 Proの圧倒的なコーディング性能を100%引き出す実戦プロンプトと、言語別最適化の秘訣を公開します。シニアアーキテクトのノウハウをご確認ください。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | Gemini 3 Pro의 압도적인 코딩 성능을 100% 끌어내는 실전 프롬프트와 언어별 최적화 비법을 공개합니다. 시니어 아키텍트의 노하우를 확인하세요."
 tags: ["AI", "Gemini", "Coding", "Benchmark"]
 image: "/images/hooks/gemini-3-pro-review.jpg"
 ---

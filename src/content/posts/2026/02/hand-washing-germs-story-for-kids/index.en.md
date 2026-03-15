@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parenting & Education"
-description: "A scientific, story-driven approach to persuade your child to wash their hands without nagging."
+description: "A scientific, story-driven approach to persuade your child to wash their hands without nagging. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Parenting", "Education", "AI Prompt", "ChatGPT", "Parenting Tips"]
 ---
 

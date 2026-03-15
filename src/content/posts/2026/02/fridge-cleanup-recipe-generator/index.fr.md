@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé"
-description: "Des recettes saines 5 étoiles préparées avec des ingrédients proches de la date de péremption."
+description: "Des recettes saines 5 étoiles préparées avec des ingrédients proches de la date de péremption. Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags: ["Cuisine", "Recette", "Régime", "Nettoyage du Frigo"]
 ---
 

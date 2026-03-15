@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.096Z"
 updatedDate: "2026-02-07T09:10:33.096Z"
 category: "Image Generation"
-description: "将平淡无奇的 AI 图像转化为好莱坞大片质感的魔法。本文公开生动的电影级光影 (Cinematic Lighting) 提示词设计秘诀与专家经验。"
+description: "将平淡无奇的 AI 图像转化为好莱坞大片质感的魔法。本文公开生动的电影级光影 (Cinematic Lighting) 提示词设计秘诀与专家经验。 详细介绍AI提示词的使用方法与实战技巧。 | 평면적이고 밋밋한 AI 이미지를 블록버스터 영화처럼 탈바꿈시키는 마법. 생동감 넘치는 시네마틱 라이팅(Cinematic Lighting) 프롬프트 설계 비법과 전문가 노하우를 공개..."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Lighting", "Cinematic"]
 image: "/images/hooks/cinematic-lighting-prompt.jpg"
 ---

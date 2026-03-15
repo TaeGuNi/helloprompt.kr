@@ -5,7 +5,7 @@ author: "Antigravity"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "Prompt Engineering"
-description: "告别爱顶嘴的 AI！这是一份斯巴达式提示词工程指南，旨在从源头杜绝数据库破坏，并强制其仅返回完美的 JSON 数据。"
+description: "告别爱顶嘴的 AI！这是一份斯巴达式提示词工程指南，旨在从源头杜绝数据库破坏，并强制其仅返回完美的 JSON 数据。 详细介绍AI提示词的使用方法与实战技巧。 | 말대꾸하는 AI는 이제 그만! DB 파괴를 원천 차단하고 완벽한 JSON만 반환하게 만드는 스파르타식 프롬프트 엔지니어링 가이드입니다."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "postgresql"]
 ---
 

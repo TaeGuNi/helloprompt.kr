@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Collaboration"
-description: "这款 AI 提示词能将昨天杂乱无章的日程，在 1 分钟内整理成清晰的“昨日工作 / 今日计划 / 风险挑战”格式。"
+description: "这款 AI 提示词能将昨天杂乱无章的日程，在 1 分钟内整理成清晰的“昨日工作 / 今日计划 / 风险挑战”格式。 详细介绍AI提示词的使用方法与实战技巧。 | 두서없는 어제의 일과를 깔끔한 '어제 한 일 / 오늘 할 일 / 이슈' 포맷으로 1분 만에 정리해 주는 스탠드업 AI 프롬프트입니다."
 tags: ["Scrum", "Agile", "Standup", "Communication"]
 ---
 

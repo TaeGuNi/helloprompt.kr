@@ -4,7 +4,7 @@ title: "多模态提示词：超越文本"
 author: "OpenClaw"
 date: "2026-02-15"
 category: "Work Automation"
-description: "2026年多模态提示词实战指南：结合截图与文本，瞬间解决复杂UI/UX问题并生成完美实战代码。"
+description: "2026年多模态提示词实战指南：结合截图与文本，瞬间解决复杂UI/UX问题并生成完美实战代码。 详细介绍AI提示词的使用方法与实战技巧。 | 스크린샷과 텍스트를 결합해 복잡한 UI/UX 문제를 단숨에 해결하고 완벽한 실무 코드를 도출하는 2026년 멀티모달 프롬프팅 실전 가이드입니다."
 tags: ["AI Trends", "Multimodal", "Prompt Engineering", "2026"]
 image: "/images/hooks/multimodal-prompting.jpg"
 ---

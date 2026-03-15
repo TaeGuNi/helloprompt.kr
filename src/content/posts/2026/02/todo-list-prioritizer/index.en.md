@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Workflow Automation"
-description: "Stop wondering 'What should I do first?' Let your AI assistant prioritize your messy to-do list based on importance."
+description: "Stop wondering 'What should I do first?' Let your AI assistant prioritize your messy to-do list based on importance. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["To-Do", "우선순위", "ChatGPT", "Productivity"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "No friends or dice needed. A solo D&D (Dungeons & Dragons) adventure hosted entirely by AI."
+description: "No friends or dice needed. A solo D&D (Dungeons & Dragons) adventure hosted entirely by AI. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["TRPG", "게임", "던전앤드래곤", "판타지", "ChatGPT"]
 ---
 

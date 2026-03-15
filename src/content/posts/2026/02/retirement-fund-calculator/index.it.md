@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanza & Investimenti"
-description: "Elimina la paura del futuro. Calcola con precisione il fondo pensione necessario e quanto devi risparmiare ogni mese."
+description: "Elimina la paura del futuro. Calcola con precisione il fondo pensione necessario e quanto devi risparmiare ogni mese. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags: ["Pensione", "PrepVecchiaia", "PianificazioneFinanziaria", "Investimenti"]
 ---
 

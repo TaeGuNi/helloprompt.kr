@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creation & Hobbies"
-description: "Create short, emotionally resonant poetry optimized for social media engagement in just 10 seconds."
+description: "Create short, emotionally resonant poetry optimized for social media engagement in just 10 seconds. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Instagram", "Poetry", "EmotionalText", "SNS", "Content"]
 ---
 

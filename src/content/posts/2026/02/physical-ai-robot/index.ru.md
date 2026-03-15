@@ -1,6 +1,6 @@
 ---
 title: "Physical AI: Когда у ИИ появляется тело"
-description: "Встреча EXAONE от LG AI Research и робототехники. Промпты для создания бизнес-сценариев в эпоху Physical AI."
+description: "Встреча EXAONE от LG AI Research и робототехники. Промпты для создания бизнес-сценариев в эпоху Physical AI. Узнайте, как эффективно использовать ИИ-промпты на практике."
 date: "2026-02-14"
 cover: "./cover.jpg"
 tags: ["피지컬 AI", "로봇 기획", "신사업", "Prompt"]

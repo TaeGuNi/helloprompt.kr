@@ -1,6 +1,6 @@
 ---
 title: "阻止 AI 抓取：保护您的网站内容免受无端采集"
-description: "保护您的网站内容免受无授权 AI 抓取。提供切实有效的 AI 爬虫拦截 (robots.txt) 提示词和服务器防御策略。"
+description: "保护您的网站内容免受无授权 AI 抓取。提供切实有效的 AI 爬虫拦截 (robots.txt) 提示词和服务器防御策略。 详细介绍AI提示词的使用方法与实战技巧。 | 무단 AI 스크래핑으로부터 내 웹사이트의 소중한 콘텐츠를 보호하세요. 확실한 AI 크롤러 차단(robots.txt) 프롬프트와 서버 방어 전략을 제시합니다."
 date: "2026-02-15"
 image: "https://picsum.photos/seed/archive/800/600"
 tags: ["AI", "Tech", "ai-scraping-block"]

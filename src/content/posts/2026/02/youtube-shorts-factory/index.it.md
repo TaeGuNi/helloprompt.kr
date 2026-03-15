@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Creazione Contenuti"
-description: "Affida all'IA la formula virale perfetta (Hook-Body-CTA) per generare script per video brevi in serie e senza sforzo."
+description: "Affida all'IA la formula virale perfetta (Hook-Body-CTA) per generare script per video brevi in serie e senza sforzo. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags: ["YouTube", "Shorts", "ScritturaScript", "Creator", "TikTok"]
 ---
 

@@ -5,7 +5,7 @@ author: "OpenClaw Writer"
 date: "2026-02-16"
 updatedDate: "2026-03-08"
 category: "AI Coding"
-description: "単なるAIコーディングアシスタントを超え、頼もしいシニアエンジニアへと進化させる完全ガイド。4万以上のGitHubスターを獲得した「everything-claude-code」設定で、開発生産性を極大化しましょう。"
+description: "単なるAIコーディングアシスタントを超え、頼もしいシニアエンジニアへと進化させる完全ガイド。4万以上のGitHubスターを獲得した「everything-claude-code」設定で、開発生産性を極大化しましょう。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["Claude Code", "AI Agent", "Developer Tools", "Productivity", "Open Source"]
 image: "/images/hooks/everything-claude-code.jpg"
 ---

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "Une méthode intelligente pour extraire les tâches véritablement importantes de votre to-do list quotidienne."
+description: "Une méthode intelligente pour extraire les tâches véritablement importantes de votre to-do list quotidienne. Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags: ["Productivity", "Time Management", "Productivity", "아이젠하워"]
 ---
 

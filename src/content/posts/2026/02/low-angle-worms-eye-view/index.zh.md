@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.165Z"
 updatedDate: "2026-02-07T09:10:33.165Z"
 category: "图像生成"
-description: "这是一份完美的仰角（Low Angle）提示词指南，旨在让主体呈现出威严而巨大的视觉效果。查看在 Midjourney 和 DALL-E 3 中通过“虫眼视角”构图控制增加压倒性规模和宏伟感的方法。"
+description: "这是一份完美的仰角（Low Angle）提示词指南，旨在让主体呈现出威严而巨大的视觉效果。查看在 Midjourney 和 DALL-E 3 中通过“虫眼视角”构图控制增加压倒性规模和宏伟感的方法。 详细介绍AI提示词的使用方法与实战技巧。 | 피사체를 위엄 있고 거대하게 연출하는 완벽한 로우 앵글(Low Angle) 프롬프트 가이드입니다. 미드저니, DALL-E 3에서 압도..."
 tags:
   ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Composition"]
 image: "/images/hooks/low-angle-worms-eye-view.jpg"

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "General"
-description: "Un prompt mágico que transforma transcripciones de reuniones caóticas en Action Items claros y decisiones estratégicas."
+description: "Un prompt mágico que transforma transcripciones de reuniones caóticas en Action Items claros y decisiones estratégicas. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["회의록", "요약", "클로바노트", "액션아이템"]
 ---
 

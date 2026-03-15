@@ -1,0 +1,254 @@
+---
+import { getCollection } from "astro:content";
+import BaseHtml from "../../../components/BaseHtml.astro";
+import { SERIES } from "../../../data/series";
+import { LANGUAGES } from "../../../i18n/languages";
+import { getKstNow } from "../../../utils/dateUtils";
+
+const paramLang = Astro.params.lang as string;
+const paramSlug = Astro.params.slug as string;
+
+// Validation
+if (!LANGUAGES.includes(paramLang) || !paramSlug) {
+  return new Response("Not found", { status: 404 });
+}
+
+const series = SERIES.find((s) => s.id === paramSlug);
+if (!series) {
+  return new Response("Not found", { status: 404 });
+}
+
+const kstNow = getKstNow();
+const allPosts = await getCollection("posts", ({ data }) => {
+  return data.date <= kstNow;
+});
+
+// Filter posts by language AND matching any series tag
+const filteredPosts = allPosts
+  .filter(
+    (post) =>
+      post.id.endsWith(`index${paramLang}`) ||
+      post.id.endsWith(`index.${paramLang}`) ||
+      post.id.endsWith(`index.${paramLang}.md`),
+  )
+  .filter((post) =>
+    post.data.tags?.some((tag: string) => series.tags.includes(tag)),
+  )
+  .sort(
+    (a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf(),
+  );
+
+const posts = filteredPosts.map((post) => {
+  const parts = post.id.split("/");
+  const slug = parts.slice(0, -1).join("/");
+  return {
+    id: post.id,
+    frontmatter: post.data,
+    url: `/${paramLang}/posts/${slug}`,
+  };
+});
+
+// ISR Caching
+Astro.response.headers.set(
+  "Cache-Control",
+  "public, s-maxage=86400, stale-while-revalidate=604800",
+);
+
+const seriesTitle = series.title[paramLang] || series.title.ko;
+const seriesDesc = series.description[paramLang] || series.description.ko;
+const lang = paramLang;
+---
+
+<BaseHtml lang={lang}>
+  <meta charset="utf-8" />
+  <title>{seriesTitle} | Hello Prompt</title>
+  <meta name="description" content={seriesDesc} />
+  <meta name="viewport" content="width=device-width" />
+  <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site).href} />
+  <meta property="og:title" content={`${seriesTitle} | Hello Prompt`} />
+  <meta property="og:description" content={seriesDesc} />
+  <meta property="og:type" content="website" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Noto+Sans+KR:wght@300;500;700&family=JetBrains+Mono:wght@400&display=swap"
+    rel="stylesheet"
+  />
+  <!-- [SEO] ItemList JSON-LD -->
+  <script
+    is:inline
+    type="application/ld+json"
+    set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      name: seriesTitle,
+      description: seriesDesc,
+      numberOfItems: posts.length,
+      itemListElement: posts.slice(0, 20).map((post, idx) => ({
+        "@type": "ListItem",
+        position: idx + 1,
+        name: post.frontmatter.title,
+        url: new URL(post.url, Astro.site).href,
+      })),
+    })}
+  />
+</BaseHtml>
+
+<div class="container">
+  <div class="series-hero">
+    <span class="series-badge">SERIES</span>
+    <h1 class="series-title">{seriesTitle}</h1>
+    <p class="series-desc">{seriesDesc}</p>
+    <span class="series-count">{posts.length} PROMPTS</span>
+  </div>
+
+  <div class="post-grid">
+    {
+      posts.map((post: any) => (
+        <a href={post.url} class="post-card">
+          <h2>{post.frontmatter.title}</h2>
+          <p>{post.frontmatter.description}</p>
+          <div class="post-meta">
+            <span>{post.frontmatter.date}</span>
+            {post.frontmatter.tags?.slice(0, 3).map((tag: string) => (
+              <span class="tag">#{tag}</span>
+            ))}
+          </div>
+        </a>
+      ))
+    }
+  </div>
+
+  <a href={`/${lang}/`} class="home-btn">← RETURN HOME</a>
+</div>
+
+<style>
+  .container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+  }
+
+  .series-hero {
+    text-align: center;
+    padding: 3rem 0 2rem;
+    border-bottom: 1px solid rgba(0, 243, 255, 0.2);
+    margin-bottom: 2rem;
+  }
+
+  .series-badge {
+    display: inline-block;
+    font-family: 'Orbitron', monospace;
+    font-size: 0.7rem;
+    letter-spacing: 0.3em;
+    color: #00f3ff;
+    border: 1px solid rgba(0, 243, 255, 0.4);
+    padding: 0.25rem 1rem;
+    border-radius: 999px;
+    margin-bottom: 1rem;
+  }
+
+  .series-title {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 2rem;
+    font-weight: 700;
+    color: #fff;
+    margin: 0.5rem 0;
+    text-shadow: 0 0 20px rgba(0, 243, 255, 0.3);
+  }
+
+  .series-desc {
+    font-family: 'Noto Sans KR', sans-serif;
+    color: #aaa;
+    font-size: 1rem;
+    max-width: 600px;
+    margin: 0.5rem auto;
+    line-height: 1.6;
+  }
+
+  .series-count {
+    display: inline-block;
+    font-family: 'Orbitron', monospace;
+    font-size: 0.75rem;
+    color: #00f3ff;
+    margin-top: 1rem;
+    letter-spacing: 0.15em;
+  }
+
+  .post-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+  }
+
+  .post-card {
+    display: block;
+    padding: 1.5rem;
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 12px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+  }
+
+  .post-card:hover {
+    border-color: #00f3ff;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 20px rgba(0, 243, 255, 0.1);
+  }
+
+  .post-card h2 {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: #fff;
+    margin: 0 0 0.5rem;
+    line-height: 1.4;
+  }
+
+  .post-card p {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 0.9rem;
+    color: #888;
+    margin: 0;
+    line-clamp: 2;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    line-height: 1.6;
+  }
+
+  .post-meta {
+    margin-top: 0.75rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.8rem;
+    color: #666;
+    font-family: 'JetBrains Mono', monospace;
+  }
+
+  .tag {
+    font-size: 0.7rem;
+    color: rgba(0, 243, 255, 0.7);
+  }
+
+  .home-btn {
+    display: inline-block;
+    margin-top: 2rem;
+    color: #00f3ff;
+    text-decoration: none;
+    font-family: 'Orbitron', monospace;
+    font-size: 0.85rem;
+    border: 1px solid rgba(0, 243, 255, 0.3);
+    padding: 0.5rem 1.5rem;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+  }
+
+  .home-btn:hover {
+    background: rgba(0, 243, 255, 0.1);
+    border-color: #00f3ff;
+  }
+</style>

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "提示词工程"
-description: "AI 总是答非所问？这份实战指南教你如何利用 Zero-Shot 和 Few-Shot 提示词，通过提供示例将 AI 性能提升 200%。"
+description: "AI 总是答非所问？这份实战指南教你如何利用 Zero-Shot 和 Few-Shot 提示词，通过提供示例将 AI 性能提升 200%。 详细介绍AI提示词的使用方法与实战技巧。 | AI가 엉뚱한 답을 낸다면? 예시를 활용해 성능을 200% 끌어올리는 제로샷(Zero-Shot)과 퓨샷(Few-Shot) 프롬프트 실전 활용 가이드."
 tags: ["Zero-Shot", "Few-Shot", "提示词"]
 ---
 

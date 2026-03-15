@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "编码/开发"
-description: "只需一键粘贴后端 API 代码，AI 即可为你自动生成标准的 OpenAPI (Swagger) 规范或 Markdown 格式的接口文档，彻底解放生产力。"
+description: "只需一键粘贴后端 API 代码，AI 即可为你自动生成标准的 OpenAPI (Swagger) 规范或 Markdown 格式的接口文档，彻底解放生产力。 详细介绍AI提示词的使用方法与实战技巧。 | 컨트롤러 코드를 복사해 붙여넣기만 하세요. AI가 코드를 분석하여 완벽한 구조의 OpenAPI(Swagger) 규격과 마크다운 명세서로 1분 만에 자동 변환해 주는 실무용..."
 tags: ["API", "文档化", "Swagger", "OpenAPI", "后端"]
 ---
 

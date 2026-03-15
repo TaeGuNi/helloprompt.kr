@@ -3,7 +3,7 @@ layout: ../../../layouts/MarkdownPostLayout.astro
 title: " \"下一代 CSS：Tailwind v5 与原生嵌套\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "探讨 2026 年前端样式趋势。深入解析 Tailwind v5 新特性与浏览器原生嵌套的融合，教你利用 AI 一键告别臃肿的 CSS-in-JS，实现零运行时重构。"
+description: "探讨 2026 年前端样式趋势。深入解析 Tailwind v5 新特性与浏览器原生嵌套的融合，教你利用 AI 一键告别臃肿的 CSS-in-JS，实现零运行时重构。 详细介绍AI提示词的使用方法与实战技巧。 | Tailwind v5와 네이티브 네스팅을 활용해 무거운 레거시 CSS 코드를 2026년 최신 웹 표준으로 완벽하게 리팩토링하는 프롬프트를 소개합니다."
 author: "Hello Prompt AI"
 tags: ["CSS", "Frontend", "Design"]
 ---

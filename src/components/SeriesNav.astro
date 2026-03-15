@@ -1,0 +1,95 @@
+---
+/**
+ * SeriesNav — Shows a "Part of this series" banner at the bottom of a post
+ * if the post belongs to any defined series.
+ */
+import { SERIES } from "../data/series";
+import { uiStrings } from "../utils/ui-translation";
+
+interface Props {
+  currentLang: string;
+  currentTags?: string[];
+}
+
+const { currentLang, currentTags = [] } = Astro.props;
+const t = uiStrings[currentLang] || uiStrings.ko;
+
+// Find matching series for this post's tags
+const matchingSeries = SERIES.filter((s) =>
+  s.tags.some((tag) => currentTags.includes(tag)),
+);
+---
+
+{
+  matchingSeries.length > 0 && (
+    <section class="series-nav-section">
+      <div class="series-nav-label">SERIES</div>
+      <div class="series-nav-list">
+        {matchingSeries.map((s) => (
+          <a
+            href={`/${currentLang}/series/${s.id}`}
+            class="series-nav-card"
+          >
+            <span class="series-nav-title">
+              {s.title[currentLang] || s.title.ko}
+            </span>
+            <span class="series-nav-arrow">→</span>
+          </a>
+        ))}
+      </div>
+    </section>
+  )
+}
+
+<style>
+  .series-nav-section {
+    margin-top: 2rem;
+    padding: 1.25rem;
+    border: 1px solid rgba(0, 243, 255, 0.15);
+    border-radius: 12px;
+    background: rgba(0, 243, 255, 0.03);
+  }
+
+  .series-nav-label {
+    font-family: 'Orbitron', monospace;
+    font-size: 0.65rem;
+    letter-spacing: 0.25em;
+    color: rgba(0, 243, 255, 0.6);
+    margin-bottom: 0.75rem;
+  }
+
+  .series-nav-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .series-nav-card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.75rem 1rem;
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    border-radius: 8px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+  }
+
+  .series-nav-card:hover {
+    border-color: #00f3ff;
+    background: rgba(0, 243, 255, 0.05);
+  }
+
+  .series-nav-title {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 0.95rem;
+    color: #fff;
+    font-weight: 500;
+  }
+
+  .series-nav-arrow {
+    color: #00f3ff;
+    font-size: 1.1rem;
+  }
+</style>

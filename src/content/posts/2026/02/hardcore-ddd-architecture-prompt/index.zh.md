@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "Workflow Automation"
-description: "告别意大利面条式代码！用这份硬核 DDD 架构提示词，将百依百顺的 AI 助理改造成冷酷无情的资深架构师，轻松实现代码的完美分层。"
+description: "告别意大利面条式代码！用这份硬核 DDD 架构提示词，将百依百顺的 AI 助理改造成冷酷无情的资深架构师，轻松实现代码的完美分层。 详细介绍AI提示词的使用方法与实战技巧。 | 단순 코더 AI를 무자비한 시니어 아키텍트로 개조하여 완벽한 클린 아키텍처를 강제하는 하드코어 DDD 치트키 프롬프트를 공개합니다."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ddd-architecture"]
 ---
 ## 📝 拒绝面条代码！🍝 资深开发者的黑魔法 DDD 提示词

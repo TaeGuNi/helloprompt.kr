@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.149Z"
 updatedDate: "2026-02-07T09:10:33.149Z"
 category: "学習法/自己啓発"
-description: "自分が理解しているかを確認する最善の方法は、他人に説明することです。12歳のAIに教えながら、自分の知識の盲点を見つけ出し、完璧なメタ認知を確立しましょう。"
+description: "自分が理解しているかを確認する最善の方法は、他人に説明することです。12歳のAIに教えながら、自分の知識の盲点を見つけ出し、完璧なメタ認知を確立しましょう。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | Die beste Methode, um zu prüfen, ob du etwas verstanden hast, ist es anderen zu erklär..."
 tags: ["勉強法", "ファインマンテクニック", "メタ認知", "教育"]
 image: "/images/hooks/feynman-technique-bot.jpg"
 ---

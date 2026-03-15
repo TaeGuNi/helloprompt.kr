@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.124Z"
 updatedDate: "2026-02-07T09:10:33.124Z"
 category: "Work Automation"
-description: "Como criar um sumário de relatório lógico e perfeito para convencer seu chefe instantaneamente com apenas um prompt."
+description: "Como criar um sumário de relatório lógico e perfeito para convencer seu chefe instantaneamente com apenas um prompt. Descubra como usar prompts de IA de forma prática e eficaz."
 tags: ["Productivity", "Excel", "Reports", "ChatGPT"]
 ---
 

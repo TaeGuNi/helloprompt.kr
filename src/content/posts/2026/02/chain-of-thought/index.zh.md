@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "办公自动化"
-description: "AI 总是给出风马牛不相及的答案吗？通过思维链（CoT）提示词逻辑化解决复杂问题，查看将 AI 推理能力提升 200% 的实战技巧。"
+description: "AI 总是给出风马牛不相及的答案吗？通过思维链（CoT）提示词逻辑化解决复杂问题，查看将 AI 推理能力提升 200% 的实战技巧。 详细介绍AI提示词的使用方法与实战技巧。 | AI가 자꾸 엉뚱한 답변을 내놓나요? Chain-of-Thought(CoT) 프롬프팅으로 복잡한 문제를 논리적으로 해결하고 AI의 추론 능력을 200% 극대화하는 실전 기법을 확인하세요."
 tags: ["Prompt Engineering", "AI", "Chain-of-Thought", "Reasoning"]
 ---
 

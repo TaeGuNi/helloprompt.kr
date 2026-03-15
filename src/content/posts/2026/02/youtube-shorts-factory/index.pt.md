@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Criação de Conteúdo"
-description: "Injetando a fórmula viral de vídeos curtos (Hook-Body-CTA) na IA para produzir roteiros em massa."
+description: "Injetando a fórmula viral de vídeos curtos (Hook-Body-CTA) na IA para produzir roteiros em massa. Descubra como usar prompts de IA de forma prática e eficaz."
 tags: ["YouTube", "Shorts", "Roteiro", "Criador", "TikTok"]
 ---
 

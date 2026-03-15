@@ -5,7 +5,7 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Self-Improvement
-description: "告别焦虑与内耗的早晨！为您奉上像罗马皇帝马可·奥勒留一样，以不可动摇的斯多葛心态开启高绩效一天的专属 AI 提示词。"
+description: "告别焦虑与内耗的早晨！为您奉上像罗马皇帝马可·奥勒留一样，以不可动摇的斯多葛心态开启高绩效一天的专属 AI 提示词。 详细介绍AI提示词的使用方法与实战技巧。 | 불안과 걱정으로 시작하는 아침은 이제 그만! AI 마르쿠스 아우렐리우스와 함께 단 1분 만에 강철 같은 멘탈을 장착하고 단단한 하루를 시작하는 스토아 명상 프롬프트."
 tags: [AI, ChatGPT, Stoicism, Mindset]
 ---
 

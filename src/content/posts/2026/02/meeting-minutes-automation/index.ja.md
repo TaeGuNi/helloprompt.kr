@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "業務効率化"
-description: "WhisperとGPTを連携させ、退屈な議事録作成業務を100%自動化する完璧なワークフローを紹介します。書記を任された若手社員のための必須生存ガイドです。"
+description: "WhisperとGPTを連携させ、退屈な議事録作成業務を100%自動化する完璧なワークフローを紹介します。書記を任された若手社員のための必須生存ガイドです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | Whisper와 GPT를 연동하여 지루한 회의록 작성 업무를 100% 자동화하는 완벽한 워크플로우를 소개합니다. 서기 역할을 맡은 막내 사원을 위한 필수 ..."
 tags: ["議事録", "Whisper", "ChatGPT", "業務自動化", "生産性"]
 image: "/images/hooks/meeting-minutes-automation.jpg"
 ---

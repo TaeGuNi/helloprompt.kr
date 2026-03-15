@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "Workflow Automation"
-description: "Un prompt de depuración de 10 segundos para resolver errores de Python al instante."
+description: "Un prompt de depuración de 10 segundos para resolver errores de Python al instante. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["태그1", "태그2"]
 ---
 

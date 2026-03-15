@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salud"
-description: "Confiesa tus preocupaciones a la IA sin miedo a ser juzgado y encuentra la paz mental que necesitas."
+description: "Confiesa tus preocupaciones a la IA sin miedo a ser juzgado y encuentra la paz mental que necesitas. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["Cuidado Mental", "Estrés", "Consejería Psicológica", "Sanación"]
 ---
 

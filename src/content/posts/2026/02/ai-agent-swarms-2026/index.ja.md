@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "業務自動化"
-description: "たった一つのプロンプトで、複数のAI専門家が議論・協力し、最適案を導き出す「マルチエージェントスウォーム（Multi-Agent Swarms）」の活用法をご紹介します。"
+description: "たった一つのプロンプトで、複数のAI専門家が議論・協力し、最適案を導き出す「マルチエージェントスウォーム（Multi-Agent Swarms）」の活用法をご紹介します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 단 하나의 프롬프트로 여러 AI 전문가가 치열하게 토론하고 협력하여 최적의 기획안을 도출하는 다중 에이전트 스웜(Multi-Agent Swar..."
 image: "https://picsum.photos/seed/swarm/800/600"
 tags: ["AI", "Tech", "ai-agent-swarms-2026"]
 ---

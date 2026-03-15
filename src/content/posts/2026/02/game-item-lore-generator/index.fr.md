@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Création & Loisirs"
-description: "Fini la banale 'Épée +1'. Créez des objets uniques dotés d'une histoire captivante et de mécaniques de jeu originales."
+description: "Fini la banale 'Épée +1'. Créez des objets uniques dotés d'une histoire captivante et de mécaniques de jeu originales. Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags: ["Jeu", "Objet", "JDR", "Planification", "Fantaisie"]
 ---
 

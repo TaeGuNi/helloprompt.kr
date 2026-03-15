@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "办公自动化"
-description: "介绍通过关联 Whisper 和 GPT 100% 自动完成枯燥会议记录工作的完美工作流。这是负责会议记录工作的职场新人的必备生存指南。"
+description: "介绍通过关联 Whisper 和 GPT 100% 自动完成枯燥会议记录工作的完美工作流。这是负责会议记录工作的职场新人的必备生存指南。 详细介绍AI提示词的使用方法与实战技巧。 | Whisper와 GPT를 연동하여 지루한 회의록 작성 업무를 100% 자동화하는 완벽한 워크플로우를 소개합니다. 서기 역할을 맡은 막내 사원을 위한 필수 생존 가이드입니다."
 tags: ["회의록", "Whisper", "ChatGPT", "Work Automation", "Productivity"]
 image: "/images/hooks/meeting-minutes-automation.jpg"
 ---

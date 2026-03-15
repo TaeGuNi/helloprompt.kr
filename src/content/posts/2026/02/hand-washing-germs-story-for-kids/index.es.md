@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Crianza y Educación"
-description: "Persuasión científica para enviar a tu hijo al lavabo sin regaños usando la IA para crear historias divertidas."
+description: "Persuasión científica para enviar a tu hijo al lavabo sin regaños usando la IA para crear historias divertidas. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["Crianza", "Educación", "Prompt de IA", "ChatGPT", "Consejos de Crianza"]
 ---
 

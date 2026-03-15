@@ -5,7 +5,7 @@ author: "OpenClaw"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "Work Automation"
-description: "「完璧なプロンプト」は幻想です。2026年のAIエンジニアリングの必須標準であるプロンプトチェーンとエージェンティック・ワークフロー設計戦略で、自動化の限界を突破しましょう。"
+description: "「完璧なプロンプト」は幻想です。2026年のAIエンジニアリングの必須標準であるプロンプトチェーンとエージェンティック・ワークフロー設計戦略で、自動化の限界を突破しましょう。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 하나의 완벽한 프롬프트는 환상입니다. 2026년 AI 엔지니어링의 필수 표준인 프롬프트 체이닝과 에이전틱 워크플로우 설계 전략으로 자동화의..."
 tags: ["AI Trends", "Prompt Chaining", "Agentic Workflow", "2026"]
 image: "/images/hooks/prompt-chaining.jpg"
 ---

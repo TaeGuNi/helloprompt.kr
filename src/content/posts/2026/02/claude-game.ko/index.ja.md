@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "開発"
-description: "Claude Codeを活用して、わずか1時間で2Dゴルフゲームを完成させる実践プロンプトを公開します。物理エンジンの実装からアーキテクチャ設計まで、AIペアプログラミングでゲーム開発のハードルを完璧に下げましょう。"
+description: "Claude Codeを活用して、わずか1時間で2Dゴルフゲームを完成させる実践プロンプトを公開します。物理エンジンの実装からアーキテクチャ設計まで、AIペアプログラミングでゲーム開発のハードルを完璧に下げましょう。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["ai", "gamedev", "claude"]
 image: "/images/hooks/claude-game.ko.jpg"
 ---

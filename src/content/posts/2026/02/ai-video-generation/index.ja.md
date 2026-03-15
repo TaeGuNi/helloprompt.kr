@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-14"
 updatedDate: "2026-02-14"
 category: "General"
-description: "わずか数行のテキストでハリウッド級の映像を生み出す時代。SoraとRunway Gen-4を比較し、AIビデオ生成の最前線に迫ります。"
+description: "わずか数行のテキストでハリウッド級の映像を生み出す時代。SoraとRunway Gen-4を比較し、AIビデオ生成の最前線に迫ります。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 글자 몇 줄로 헐리우드급 영상을 뽑아내는 시대. AI 비디오 생성의 최전선과 완벽한 프롬프트 작성법을 알아봅니다."
 tags: ["영상제작", "Sora", "Runway", "크리에이터", "Gen-4"]
 ---
 

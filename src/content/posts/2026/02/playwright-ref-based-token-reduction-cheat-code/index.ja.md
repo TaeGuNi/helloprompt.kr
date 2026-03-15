@@ -5,7 +5,7 @@ author: "Antigravity"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "Workflow Automation"
-description: "AIに無駄なHTML DOM全体を読み込ませるのはやめましょう。意味のあるノードのみを圧縮抽出し、トークンの浪費とハルシネーションを完全に断ち切るスパルタ式プロンプト憲法です。"
+description: "AIに無駄なHTML DOM全体を読み込ませるのはやめましょう。意味のあるノードのみを圧縮抽出し、トークンの浪費とハルシネーションを完全に断ち切るスパルタ式プロンプト憲法です。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 무의미한 HTML DOM을 AI에게 통째로 넘기지 마세요. 핵심 노드만 압축해 토큰 낭비를 막고 환각을 완벽히 통제하는 스파르타식 E2E..."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "playwright-ref-protocol"]
 ---
 

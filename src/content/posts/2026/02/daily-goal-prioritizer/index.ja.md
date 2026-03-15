@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "溢れるタスクの中から「本当に重要な仕事」だけを選び出すスマートな方法。"
+description: "溢れるタスクの中から「本当に重要な仕事」だけを選び出すスマートな方法。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 쏟아지는 할 일 중에서 '진짜 중요한 일'만 골라내는 스마트한 방법. 아이젠하워 매트릭스 기반 AI 프롬프트로 퇴근 시간을 앞당기세요."
 tags: ["Productivity", "Time Management", "Productivity", "아이젠하워"]
 ---
 

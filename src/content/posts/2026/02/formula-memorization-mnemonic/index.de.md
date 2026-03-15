@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Mathe/Wissenschaft"
-description: "Ein Prompt, der komplexe mathematische Formeln durch Storytelling und Eselsbrücken absolut unvergesslich macht."
+description: "Ein Prompt, der komplexe mathematische Formeln durch Storytelling und Eselsbrücken absolut unvergesslich macht. Erfahren Sie mehr über die praktische Anwendung von KI-Prompts."
 tags: ["Merkethode", "Mnemonik", "Lernmethode", "Prompt"]
 ---
 

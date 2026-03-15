@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "办公自动化"
-description: "探索 OpenAI GPT-5.2 令人震撼的物理学发现，并介绍一套能在 3 分钟内完美解读任何晦涩最新科学论文的超精准提示词。"
+description: "探索 OpenAI GPT-5.2 令人震撼的物理学发现，并介绍一套能在 3 分钟内完美解读任何晦涩最新科学论文的超精准提示词。 详细介绍AI提示词的使用方法与实战技巧。 | OpenAI GPT-5.2의 충격적인 물리학적 발견을 알아보고, 아무리 난해한 최신 과학 논문도 3분 만에 완벽하게 해독하는 초정밀 프롬프트를 소개합니다."
 tags: ["ai", "physics", "gpt-5"]
 image: "/images/hooks/gpt-5-physics.ko.jpg"
 ---

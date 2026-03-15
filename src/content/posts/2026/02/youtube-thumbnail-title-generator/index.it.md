@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T11:30:00.000Z"
 updatedDate: "2026-02-07T11:30:00.000Z"
 category: "Creator Economy"
-description: "Lascia che l'IA crei titoli irresistibili e idee per le tue miniature. Fai schizzare alle stelle il tuo CTR su YouTube."
+description: "Lascia che l'IA crei titoli irresistibili e idee per le tue miniature. Fai schizzare alle stelle il tuo CTR su YouTube. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags:
   [
     "YouTube",

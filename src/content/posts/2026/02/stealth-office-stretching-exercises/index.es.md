@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Salud y Bienestar"
-description: "Descubre una rutina de estiramientos diseñada con IA que puedes hacer en tu silla sin que tus colegas se den cuenta."
+description: "Descubre una rutina de estiramientos diseñada con IA que puedes hacer en tu silla sin que tus colegas se den cuenta. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags:
   [
     "Cuello de Texto",

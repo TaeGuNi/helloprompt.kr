@@ -5,7 +5,7 @@ author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "General"
-description: "Diretrizes RDBMS implacáveis de um Engenheiro Backend Sênior para impedir que a IA crie bancos de dados espaguete."
+description: "Diretrizes RDBMS implacáveis de um Engenheiro Backend Sênior para impedir que a IA crie bancos de dados espaguete. Descubra como usar prompts de IA de forma prática e eficaz."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "rdbms-architecture"]
 ---
 

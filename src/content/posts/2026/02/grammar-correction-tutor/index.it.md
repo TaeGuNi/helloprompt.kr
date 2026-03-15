@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.154Z"
 updatedDate: "2026-02-07T09:10:33.154Z"
 category: "General"
-description: "Oltre ai refusi: un prompt AI per tutor d'inglese 1:1 che spiega i principi grammaticali e il 'perché' degli errori."
+description: "Oltre ai refusi: un prompt AI per tutor d'inglese 1:1 che spiega i principi grammaticali e il 'perché' degli errori. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags: ["영어문법", "작문교정", "Prompt", "이메일작성"]
 image: "/images/hooks/grammar-correction-tutor.jpg"
 ---

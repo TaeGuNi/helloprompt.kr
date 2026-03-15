@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Travel & Culture"
-description: "Skip the generic tourist traps. Embark on a musical journey to experience the raw, authentic pulse of local artists."
+description: "Skip the generic tourist traps. Embark on a musical journey to experience the raw, authentic pulse of local artists. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Music Travel", "Jazz Bar", "Live Club", "Local Culture", "Nightlife"]
 ---
 

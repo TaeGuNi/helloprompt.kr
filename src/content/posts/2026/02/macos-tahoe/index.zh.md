@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "Work Automation"
-description: "深入分析苹果 macOS Tahoe 更新核心——基于 AI 的窗口调整‘智能边缘（Intelligent Edge）’在 UX 维度的创新性与局限性的提示词。"
+description: "深入分析苹果 macOS Tahoe 更新核心——基于 AI 的窗口调整‘智能边缘（Intelligent Edge）’在 UX 维度的创新性与局限性的提示词。 详细介绍AI提示词的使用方法与实战技巧。 | 애플 macOS Tahoe 업데이트의 핵심인 AI 기반 윈도우 리사이징 '인텔리전트 엣지'의 혁신성과 한계를 UX 관점에서 심층 분석하는 프롬프트입니다."
 tags: ["macOS", "UX", "Apple", "Tahoe"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.147Z"
 updatedDate: "2026-02-07T09:10:33.147Z"
 category: "Image Generation"
-description: "An image generation prompt to vividly realize waves and landscapes in the most Japanese aesthetic, Ukiyo-e style."
+description: "An image generation prompt to vividly realize waves and landscapes in the most Japanese aesthetic, Ukiyo-e style. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Traditional"]
 ---
 

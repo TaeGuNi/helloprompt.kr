@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatización del Trabajo"
-description: "Prompt de programación que desglosa las tareas calculando retrospectivamente desde la fecha límite."
+description: "Prompt de programación que desglosa las tareas calculando retrospectivamente desde la fecha límite. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 ---
 

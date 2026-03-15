@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "Un metodo intelligente per distinguere le attività 'veramente importanti' in un mare di cose da fare."
+description: "Un metodo intelligente per distinguere le attività 'veramente importanti' in un mare di cose da fare. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags: ["Productivity", "Time Management", "Productivity", "아이젠하워"]
 ---
 

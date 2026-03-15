@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.150Z"
 updatedDate: "2026-02-07T09:10:33.150Z"
 category: "Travel & Culture"
-description: "为独自旅行者量身定制的 AI 指南。查看能同时解决安全、预算和孤独问题的完美背包旅行路线规划提示词。"
+description: "为独自旅行者量身定制的 AI 指南。查看能同时解决安全、预算和孤独问题的完美背包旅行路线规划提示词。 详细介绍AI提示词的使用方法与实战技巧。 | 나홀로 여행객을 위한 맞춤형 AI 가이드. 안전, 예산, 외로움을 모두 해결하는 완벽한 배낭여행 루트 설계 프롬프트를 확인해 보세요."
 tags: ["Solo Travel", "Backpacking", "Safe Travel", "Wanderlust"]
 image: "/images/hooks/solo-backpacking-safe-route-guide.jpg"
 ---

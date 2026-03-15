@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "ライフ/リビング"
-description: "建築家がいなくても完璧！面積、部屋数、好みのスタイルを入力するだけで、AIがプロレベルの平面図（Floor Plan）と3D鳥瞰図をわずか1分で作成する圧倒的ソリューション。"
+description: "建築家がいなくても完璧！面積、部屋数、好みのスタイルを入力するだけで、AIがプロレベルの平面図（Floor Plan）と3D鳥瞰図をわずか1分で作成する圧倒的ソリューション。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 건축가 없이도 완벽하게! 평수, 방 개수, 원하는 스타일만 입력하면 AI가 전문가 수준의 평면도(Floor Plan)와 3D 조감도를 단 ..."
 tags: ["インテリア", "建築", "図面", "Midjourney", "家づくり"]
 image: "/images/hooks/dream-house-floor-plan.jpg"
 ---

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "工作自动化"
-description: "这款冷酷无情的提示词将彻底终结 AI 的无脑吹捧与意大利面条式代码，强制其输出符合严格数学逻辑、完美无瑕的设计系统架构代码。"
+description: "这款冷酷无情的提示词将彻底终结 AI 的无脑吹捧与意大利面条式代码，强制其输出符合严格数学逻辑、完美无瑕的设计系统架构代码。 详细介绍AI提示词的使用方法与实战技巧。 | AI의 쓸데없는 칭찬과 스파게티 코드를 원천 차단하고, 수학적 완벽함을 갖춘 디자인 시스템 코드를 뽑아내는 무자비한 프롬프트입니다."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "design-system-identity"]
 ---
 

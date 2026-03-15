@@ -5,7 +5,7 @@ author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "プロンプトエンジニアリング"
-description: "AIエージェントによる致命的なターミナル無限待機（デッドロック）現象や無意味な感情表現を根本から遮断する、シニアレベルの強力なDockerインフラ制御プロンプトです。"
+description: "AIエージェントによる致命的なターミナル無限待機（デッドロック）現象や無意味な感情表現を根本から遮断する、シニアレベルの強力なDockerインフラ制御プロンプトです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | AI 에이전트의 치명적인 터미널 무한 대기(Deadlock) 현상과 무의미한 감정 표현을 원천 차단하는 시니어 레벨의 강력한 Docker 인프라 ..."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "docker"]
 image: "/images/hooks/hardcore-docker-infra-agent-cheat-code.jpg"
 ---

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "Data Analysis"
-description: "不懂 VLOOKUP 或 Python 也没关系。教你如何利用 AI，在 1 分钟内将杂乱无章的地址与电话数据完美标准化。"
+description: "不懂 VLOOKUP 或 Python 也没关系。教你如何利用 AI，在 1 分钟内将杂乱无章的地址与电话数据完美标准化。 详细介绍AI提示词的使用方法与实战技巧。 | VLOOKUP, 파이썬 몰라도 괜찮습니다. 뒤죽박죽 섞인 주소, 전화번호 등 로우 데이터를 AI로 단 1분 만에 완벽하게 표준화하는 비법을 공개합니다."
 tags: ["Excel", "데이터전처리", "No-code", "Automation"]
 ---
 

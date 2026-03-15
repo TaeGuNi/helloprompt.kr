@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatisation du Travail"
-description: "Générateur de questions d'entretien pointues pour évaluer avec précision les véritables compétences d'un candidat."
+description: "Générateur de questions d'entretien pointues pour évaluer avec précision les véritables compétences d'un candidat. Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 ---
 

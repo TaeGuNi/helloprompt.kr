@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "CVE-2026-20841：潜伏在 Windows 系统基础应用“记事本 (Notepad)”中的严重远程代码执行 (RCE) 安全漏洞。立即获取 AI 自动化排查与修复脚本。"
+description: "CVE-2026-20841：潜伏在 Windows 系统基础应用“记事本 (Notepad)”中的严重远程代码执行 (RCE) 安全漏洞。立即获取 AI 自动化排查与修复脚本。 详细介绍AI提示词的使用方法与实战技巧。 | CVE-2026-20841: 가장 친숙한 앱인 윈도우 메모장에서 발견된 심각한 원격 코드 실행(RCE) 취약점. 임직원의 즉각 업데이트를 유도하는 사내..."
 tags: ["Windows", "Security", "RCE", "Vulnerability"]
 ---
 

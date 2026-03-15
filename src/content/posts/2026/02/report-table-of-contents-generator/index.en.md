@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.124Z"
 updatedDate: "2026-02-07T09:10:33.124Z"
 category: "Workflow Automation"
-description: "How to generate a perfectly logical report table of contents that instantly persuades your boss with a single prompt."
+description: "How to generate a perfectly logical report table of contents that instantly persuades your boss with a single prompt. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Work Efficiency", "Excel", "Report", "ChatGPT"]
 ---
 

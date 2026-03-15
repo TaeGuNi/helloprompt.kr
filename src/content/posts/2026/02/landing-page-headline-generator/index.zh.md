@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "营销/文案"
-description: "只需3秒即可死死抓住访客眼球的落地页首屏(Hero Section)核心文案撰写秘籍与自动化AI提示词。"
+description: "只需3秒即可死死抓住访客眼球的落地页首屏(Hero Section)核心文案撰写秘籍与自动化AI提示词。 详细介绍AI提示词的使用方法与实战技巧。 | 방문자를 3초 안에 사로잡는 랜딩페이지 최상단(Hero Section) 카피 작성법과 전환율을 높이는 실무 프롬프트를 공개합니다."
 tags: ["落地页", "网页文案", "UX写作", "转化率"]
 ---
 

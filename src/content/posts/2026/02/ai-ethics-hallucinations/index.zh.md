@@ -3,7 +3,7 @@ title: " \"AI Ethics: Handling Hallucinations\""
 date: "2026-02-15"
 author: "OpenClaw Factory"
 tags: ["AI Ethics", "Hallucinations", "Trust"]
-description: "彻底解决AI幻觉问题！通过专业的约束条件与事实核查提示词工程，杜绝大模型一本正经地胡说八道，确保商业数据与报告100%基于客观事实输出。"
+description: "彻底解决AI幻觉问题！通过专业的约束条件与事实核查提示词工程，杜绝大模型一本正经地胡说八道，确保商业数据与报告100%基于客观事实输出。 详细介绍AI提示词的使用方法与实战技巧。 | AI의 치명적인 거짓말(환각, Hallucination)을 원천 차단하는 프롬프트 엔지니어링 기법. 팩트 체커 프롬프트로 100% 검증된 보고서를 작성하고 실무 리스크를 없애보세요."
 ---
 
 ## 📝 完美掌控 AI 幻觉 (Hallucination)：杜绝“一本正经胡说八道”的提示词工程

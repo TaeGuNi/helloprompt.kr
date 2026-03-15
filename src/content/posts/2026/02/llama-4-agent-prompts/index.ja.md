@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "AI Engineering"
-description: "Llama 3のプロンプトをLlama 4でもそのまま使っていませんか？ローカル環境でLlama 4の推論能力を200%引き出す「Chain-of-Command」システムプロンプト構造を公開します。"
+description: "Llama 3のプロンプトをLlama 4でもそのまま使っていませんか？ローカル環境でLlama 4の推論能力を200%引き出す「Chain-of-Command」システムプロンプト構造を公開します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["Llama 4", "Prompt Engineering", "Agents", "Local AI", "System Prompts"]
 ---
 

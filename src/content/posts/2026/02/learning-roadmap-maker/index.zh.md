@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "为您量身定制的专属课程设计提示词，助您彻底告别拖延，快速掌握任何新技能。"
+description: "为您量身定制的专属课程设计提示词，助您彻底告别拖延，快速掌握任何新技能。 详细介绍AI提示词的使用方法与实战技巧。 | 무엇이든 빠르게 배우고 싶은 분들을 위한 1:1 맞춤형 커리큘럼 설계 프롬프트입니다. 내 수준과 가용 시간에 딱 맞는 파레토 법칙 기반의 실전 압축 로드맵을 1분 만에 완성해 보세요."
 tags: ["Learning", "Roadmap", "Education", "SelfImprovement"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automação de Trabalho"
-description: "Aprenda a estruturar um storytelling de proposta comercial que realmente persuade e converte seus clientes."
+description: "Aprenda a estruturar um storytelling de proposta comercial que realmente persuade e converte seus clientes. Descubra como usar prompts de IA de forma prática e eficaz."
 tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: "使用 Knolling（平铺摆放）技法，将物品呈直角整齐排列并采用极简俯拍视角的 AI 绘画高级提示词指南。"
+description: "使用 Knolling（平铺摆放）技法，将物品呈直角整齐排列并采用极简俯拍视角的 AI 绘画高级提示词指南。 详细介绍AI提示词的使用方法与实战技巧。 | 복잡한 제품이나 소품을 직각으로 반듯하게 정렬하여 시각적 쾌감을 극대화하는 '놀링(Knolling)' 기법 AI 프롬프트 가이드입니다."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Design"]
 ---
 

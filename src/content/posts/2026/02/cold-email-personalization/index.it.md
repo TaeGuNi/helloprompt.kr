@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "Fai sembrare la tua email una 'proposta esclusiva' basata sulle attività recenti del destinatario."
+description: "Fai sembrare la tua email una 'proposta esclusiva' basata sulle attività recenti del destinatario. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags: ["세일즈", "콜드메일", "B2B", "영업"]
 ---
 

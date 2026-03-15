@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "办公自动化"
-description: "超越单纯单词匹配的向量搜索局限，本指南将教你如何利用基于 Neo4j 和 LangChain 的 GraphRAG，有机连接 Obsidian 笔记中隐藏的洞察，打造实战提示词。"
+description: "超越单纯单词匹配的向量搜索局限，本指南将教你如何利用基于 Neo4j 和 LangChain 的 GraphRAG，有机连接 Obsidian 笔记中隐藏的洞察，打造实战提示词。 详细介绍AI提示词的使用方法与实战技巧。 | 단순한 단어 매칭인 벡터 검색의 한계를 넘어, Neo4j와 LangChain 기반의 GraphRAG로 옵시디언 노트 속 숨겨진 인사이트를 유기적으로 연..."
 tags: ["ai", "rag", "graphrag", "neo4j", "langchain", "pkm", "obsidian"]
 cover: "./cover.png"
 ---

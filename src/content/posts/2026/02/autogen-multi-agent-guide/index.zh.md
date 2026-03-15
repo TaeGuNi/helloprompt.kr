@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "General"
-description: "微软开源的多智能体框架 AutoGen：本指南将手把手教您构建自动化协作工作流，让开发者 Bot 与管理员 Bot 互相反馈，自主完成代码编写。"
+description: "微软开源的多智能体框架 AutoGen：本指南将手把手教您构建自动化协作工作流，让开发者 Bot 与管理员 Bot 互相反馈，自主完成代码编写。 详细介绍AI提示词的使用方法与实战技巧。 | 혼자서 기획, 코딩, 테스트까지 감당하기 벅차신가요? MS AutoGen을 활용해 AI 기획자, 개발자, QA로 구성된 나만의 자동화된 가상 개발팀을 구축하는 완벽 가이드입니다."
 tags: ["AutoGen", "멀티에이전트", "MS", "AI협업", "Automation"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Development"
-description: "Analyze slow, complex SQL queries to optimize database performance and get actionable index recommendations."
+description: "Analyze slow, complex SQL queries to optimize database performance and get actionable index recommendations. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["SQL", "DB Tuning", "Backend"]
 ---
 

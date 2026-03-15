@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Création & Loisirs"
-description: "Créez une poésie courte et percutante, conçue pour générer de l'engagement sur les réseaux sociaux en un clin d'œil."
+description: "Créez une poésie courte et percutante, conçue pour générer de l'engagement sur les réseaux sociaux en un clin d'œil. Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags: ["Instagram", "Poésie", "TexteÉmotionnel", "RéseauxSociaux", "Contenu"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalité & Éducation"
-description: "Un script simple pour expliquer la valeur de l'argent et le sens du travail aux enfants."
+description: "Un script simple pour expliquer la valeur de l'argent et le sens du travail aux enfants. Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags: ["Parentalité", "Éducation", "Prompt IA", "ChatGPT", "Conseils Parentaux"]
 ---
 

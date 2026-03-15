@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 category: "DevOps"
-description: "クラウドインフラをコードで管理（IaC）するための、本番環境レベルのTerraformモジュールを安全かつ迅速に生成します。"
+description: "クラウドインフラをコードで管理（IaC）するための、本番環境レベルのTerraformモジュールを安全かつ迅速に生成します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 클릭 실수로 서버를 날린 경험이 있나요? 하드코딩 없이 안전한 프로덕션 레벨의 Terraform 인프라 코드를 단 3분 만에 자동 생성하는 완벽한 가이드를 제공합니다."
 tags: ["DevOps", "Terraform", "AWS"]
 ---
 

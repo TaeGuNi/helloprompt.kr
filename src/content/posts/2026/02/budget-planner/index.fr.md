@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investissement"
-description: "Un prompt IA qui génère un plan budgétaire mensuel sur mesure en fonction de votre salaire et de vos dépenses fixes."
+description: "Un prompt IA qui génère un plan budgétaire mensuel sur mesure en fonction de votre salaire et de vos dépenses fixes. Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags: ["CompteMénager", "Budget", "Épargne", "Finance"]
 ---
 

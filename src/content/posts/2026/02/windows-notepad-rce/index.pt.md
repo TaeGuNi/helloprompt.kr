@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Security"
-description: "CVE-2026-20841: É possível ter o sistema comprometido apenas abrindo o Bloco de Notas?"
+description: "CVE-2026-20841: É possível ter o sistema comprometido apenas abrindo o Bloco de Notas? Descubra como usar prompts de IA de forma prática e eficaz."
 tags: ["Security", "Windows", "Vulnerability", "CVE"]
 ---
 

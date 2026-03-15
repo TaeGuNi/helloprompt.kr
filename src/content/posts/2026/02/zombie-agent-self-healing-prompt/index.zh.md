@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "工作自动化"
-description: "别再忍受只会问问题的被动 AI。本文公开硬核 Agent 系统提示词，让 AI 能够自主分析日志并持续循环调试，直到彻底解决错误。"
+description: "别再忍受只会问问题的被动 AI。本文公开硬核 Agent 系统提示词，让 AI 能够自主分析日志并持续循环调试，直到彻底解决错误。 详细介绍AI提示词的使用方法与实战技巧。 | 사소한 에러마다 질문하는 수동적인 AI는 그만. 스스로 로그를 분석하고 해결할 때까지 디버깅 루프를 도는 하드코어 에이전트 시스템 프롬프트 치트키를 공개합니다."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "self-healing"]
 ---
 

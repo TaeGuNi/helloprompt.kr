@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Work Automation"
-description: "Master data cleansing techniques to effortlessly split addresses and standardize date formats in Excel."
+description: "Master data cleansing techniques to effortlessly split addresses and standardize date formats in Excel. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Work Efficiency", "Excel", "Report", "ChatGPT"]
 ---
 

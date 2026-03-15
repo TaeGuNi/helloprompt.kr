@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "Uma forma inteligente de filtrar as tarefas 'realmente importantes' em meio à avalanche de afazeres diários."
+description: "Uma forma inteligente de filtrar as tarefas 'realmente importantes' em meio à avalanche de afazeres diários. Descubra como usar prompts de IA de forma prática e eficaz."
 tags: ["Productivity", "Time Management", "Productivity", "아이젠하워"]
 ---
 

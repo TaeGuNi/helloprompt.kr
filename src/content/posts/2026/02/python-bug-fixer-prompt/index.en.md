@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "Automation"
-description: "A 10-second AI debugging prompt to instantly solve annoying Python errors and save you hours of frustration."
+description: "A 10-second AI debugging prompt to instantly solve annoying Python errors and save you hours of frustration. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Python", "Debugging"]
 ---
 

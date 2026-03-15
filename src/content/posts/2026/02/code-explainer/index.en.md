@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/IT"
-description: "A beginner-friendly AI prompt that explains complex code line-by-line, acting as your personal developer mentor."
+description: "A beginner-friendly AI prompt that explains complex code line-by-line, acting as your personal developer mentor. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["CodingStudy", "CodeReview", "Python", "JavaScript"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generación de Imágenes"
-description: "Descubre cómo diseñar criaturas y entornos bioluminiscentes con luz propia, al estilo del Planeta Pandora en Avatar."
+description: "Descubre cómo diseñar criaturas y entornos bioluminiscentes con luz propia, al estilo del Planeta Pandora en Avatar. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fantasía", "Color"]
 ---
 

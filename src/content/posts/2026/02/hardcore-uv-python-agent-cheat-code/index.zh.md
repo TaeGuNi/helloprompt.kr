@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "业务自动化"
-description: "解决 AI Agent 令人窒息的 I/O 瓶颈，激发毫秒级压倒性性能的高速 Python 包管理器 'uv' 强制化秘籍提示词。"
+description: "解决 AI Agent 令人窒息的 I/O 瓶颈，激发毫秒级压倒性性能的高速 Python 包管理器 'uv' 强制化秘籍提示词。 详细介绍AI提示词的使用方法与实战技巧。 | 답답한 AI 에이전트의 I/O 병목을 해결하고, 밀리초 단위의 압도적인 퍼포먼스를 이끌어내는 초고속 파이썬 패키지 매니저 'uv' 강제화 치트키 프롬프트입니다."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "uv-python"]
 image: "/images/hooks/hardcore-uv-python-agent-cheat-code.jpg"
 ---

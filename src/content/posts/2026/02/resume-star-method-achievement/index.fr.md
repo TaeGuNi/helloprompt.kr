@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Emploi & Carrière"
-description: "Transformez les descriptions vagues de votre CV en réalisations percutantes et chiffrées grâce à la méthode STAR."
+description: "Transformez les descriptions vagues de votre CV en réalisations percutantes et chiffrées grâce à la méthode STAR. Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags: ["CV", "MéthodeSTAR", "PrépEmploi", "QuantifierRéalisation"]
 ---
 

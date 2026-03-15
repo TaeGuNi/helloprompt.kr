@@ -5,7 +5,7 @@ author: "Hello Prompt AI"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "软件工程"
-description: "揭秘 AI 生成代码快感背后的致命技术债。拒绝像赌博一样的“氛围编程”，掌握主动权，成为真正的软件工程师。本文将分享让你重拾架构主导权的提示词策略。"
+description: "揭秘 AI 生成代码快感背后的致命技术债。拒绝像赌博一样的“氛围编程”，掌握主动权，成为真正的软件工程师。本文将分享让你重拾架构主导权的提示词策略。 详细介绍AI提示词的使用方法与实战技巧。 | AI가 생성한 코드의 짜릿함 이면에 숨겨진 치명적 기술 부채. 도박처럼 코딩하는 '바이브 코딩'의 늪에서 벗어나, 주도권을 쥔 진짜 소프트웨어 엔지니어로 거듭나는 프롬프트 전략을..."
 tags: ["AI Coding", "Productivity", "Software Engineering", "Vibe Coding", "Fast.ai"]
 image: "/images/hooks/vibe-coding-trap.jpg"
 ---

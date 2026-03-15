@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.126Z"
 updatedDate: "2026-02-07T09:10:33.126Z"
 category: "Parenting & Education"
-description: "告别枯燥的自然观察书，为您介绍一款既能激发孩子想象力，又能增长生态知识的 AI 定制化“非虚构小说”（Fact+Fiction）睡前故事提示词。"
+description: "告别枯燥的自然观察书，为您介绍一款既能激发孩子想象力，又能增长生态知识的 AI 定制化“非虚构小说”（Fact+Fiction）睡前故事提示词。 详细介绍AI提示词的使用方法与实战技巧。 | 딱딱한 자연관찰 책 대신, 아이의 상상력과 생태 지식을 동시에 키워주는 AI 맞춤형 팩션(Fact+Fiction) 잠자리 동화 프롬프트를 소개합니다."
 tags: ["Parenting", "Education", "AI Prompt", "ChatGPT", "Parenting Tips"]
 ---
 

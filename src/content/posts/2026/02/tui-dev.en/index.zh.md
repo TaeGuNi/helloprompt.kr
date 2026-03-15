@@ -1,6 +1,6 @@
 ---
 title: " \"Modern TUI Development: Building Beautiful Terminal Apps is Easier Than Ever\""
-description: "探索现代代码库与AI工具如何彻底改变文本用户界面(TUI)的开发方式，让每位开发者都能轻松构建令人惊艳的终端应用。"
+description: "探索现代代码库与AI工具如何彻底改变文本用户界面(TUI)的开发方式，让每位开发者都能轻松构建令人惊艳的终端应用。 详细介绍AI提示词的使用方法与实战技巧。 | 밋밋한 터미널 창을 화려한 인터랙티브 대시보드로 바꾸고 싶으신가요? AI를 활용해 복잡한 TUI 레이아웃과 상태 관리를 단 5분 만에 완성하는 비법을 공개합니다."
 date: "2026-02-15"
 tags: ["tui", "dev-tools", "cli"]
 ---

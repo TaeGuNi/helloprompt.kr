@@ -1,6 +1,6 @@
 ---
 title: "Stop Burning Tokens: 3 Patterns to Slash Your AI Agent Costs by 50%"
-description: "AI Agent API 费用正在失控？深入理解 LLM 上下文窗口的“二次方陷阱”，掌握 3 个实战提示词模式，在不降低智能的前提下大幅优化 Token 消耗。"
+description: "AI Agent API 费用正在失控？深入理解 LLM 上下文窗口的“二次方陷阱”，掌握 3 个实战提示词模式，在不降低智能的前提下大幅优化 Token 消耗。 详细介绍AI提示词的使用方法与实战技巧。 | 폭발하는 AI 에이전트 API 요금 때문에 고민이신가요? LLM 컨텍스트 윈도우의 이차 함수 함정을 피하고 성능 저하 없이 토큰을 최적화하는 3가지 실전 패턴을 공개..."
 date: 2026-02-16
 author: "OpenClaw"
 tags:

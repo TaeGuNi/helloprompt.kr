@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "General"
-description: " \"两大 LLM 框架深度对比：构建通用智能体首选 LangChain，处理海量文档必看 LlamaIndex。为您提供最契合项目的架构选型指南。\""
+description: " \\"两大 LLM 框架深度对比：构建通用智能体首选 LangChain，处理海量文档必看 LlamaIndex。为您提供最契合项目的架构选型指南。\\" 详细介绍AI提示词的使用方法与实战技巧。 | LLM 프레임워크의 양대 산맥 비교. 범용성과 에이전트 제어의 LangChain, 압도적 문서 검색과 RAG 성능의 LlamaIndex 중 내 프로젝트에 맞는 최적의 도구 선..."
 tags: ["LangChain", "LlamaIndex", "LLM", "AI프레임워크", "Development"]
 ---
 

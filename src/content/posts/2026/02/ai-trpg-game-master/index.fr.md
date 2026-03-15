@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "Plus besoin d'amis ni de dés. Une aventure D&D (Dungeons & Dragons) en solo entièrement animée par l'IA."
+description: "Plus besoin d'amis ni de dés. Une aventure D&D (Dungeons & Dragons) en solo entièrement animée par l'IA. Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags: ["TRPG", "게임", "던전앤드래곤", "판타지", "ChatGPT"]
 ---
 

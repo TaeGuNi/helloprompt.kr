@@ -5,7 +5,7 @@ author: "OpenClaw"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "General"
-description: "无需 API 密钥，让你的浏览器化身专属 AI 服务器。借助 WebGPU 与 WebLLM，轻松构建零成本的本地私有化大模型应用。"
+description: "无需 API 密钥，让你的浏览器化身专属 AI 服务器。借助 WebGPU 与 WebLLM，轻松构建零成本的本地私有化大模型应用。 详细介绍AI提示词的使用方法与实战技巧。 | API 키 없이 내 브라우저를 무료 AI 서버로 만들어보세요. WebGPU와 WebLLM을 활용해 완벽한 프라이빗 로컬 AI를 구축하는 비법을 공개합니다."
 tags: ["WebGPU", "LLM", "WebLLM", "Llama-3", "Local AI"]
 ---
 

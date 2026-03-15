@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "利用規約 (Terms of Service)"
-description: "Hello Promptのサービス利用に関する公式な利用規約です。皆様が安全かつ快適にAIプロンプトを活用するための基本的なルールをご案内します。"
+description: "Hello Promptのサービス利用に関する公式な利用規約です。皆様が安全かつ快適にAIプロンプトを活用するための基本的なルールをご案内します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | Hello Prompt의 안전하고 쾌적한 이용을 위한 필수 가이드라인과 책임 소재를 안내하는 공식 이용약관입니다."
 date: "2026-02-09"
 ---
 

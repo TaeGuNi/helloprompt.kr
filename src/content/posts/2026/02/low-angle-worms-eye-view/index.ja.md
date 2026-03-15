@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.165Z"
 updatedDate: "2026-02-07T09:10:33.165Z"
 category: "画像生成"
-description: "被写体を威厳高く巨大に演出する、完璧なローアングル（Low Angle）プロンプトガイドです。MidjourneyやDALL-E 3で、圧倒的なスケールと壮大さを加える「虫の視点」の構図制御法を確認しましょう。"
+description: "被写体を威厳高く巨大に演出する、完璧なローアングル（Low Angle）プロンプトガイドです。MidjourneyやDALL-E 3で、圧倒的なスケールと壮大さを加える「虫の視点」の構図制御法を確認しましょう。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags:
   ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Composition"]
 image: "/images/hooks/low-angle-worms-eye-view.jpg"

@@ -8,7 +8,7 @@ tags:
   - "Siri"
   - "iPhone 17"
 heroImage: "https://picsum.photos/1600/900"
-description: " \"Apple Intelligence 2.0, introdotta con iPhone 17, esegue perfettamente potenti LLM on-device.\""
+description: " \\"Apple Intelligence 2.0, introdotta con iPhone 17, esegue perfettamente potenti LLM on-device.\\" Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 ---
 
 ## 📝 Apple Intelligence 2.0: Sfruttare al 100% l'LLM Locale di Siri

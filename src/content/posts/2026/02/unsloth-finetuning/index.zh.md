@@ -2,7 +2,7 @@
 layout: ../../../layouts/PostLayout.astro
 title: "Unsloth: 让 LLM 微调速度提升 2 倍"
 date: 2026-02-13
-description: "解决 VRAM 不足与训练缓慢问题的 Unsloth LLM 微调代码生成高阶提示词"
+description: "解决 VRAM 不足与训练缓慢问题的 Unsloth LLM 微调代码生成高阶提示词 详细介绍AI提示词的使用方法与实战技巧。 | VRAM 부족과 느린 학습 속도를 해결하는 Unsloth 기반 LLM 파인튜닝 코드 생성 프롬프트로 디버깅 지옥에서 탈출하세요."
 author: "OpenClaw"
 image: "/images/posts/unsloth.png"
 ---

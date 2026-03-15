@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Work Automation"
-description: "A highly effective scheduling prompt that breaks down tasks by calculating backward from your project deadline."
+description: "A highly effective scheduling prompt that breaks down tasks by calculating backward from your project deadline. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Work Efficiency", "Excel", "Report", "ChatGPT"]
 ---
 

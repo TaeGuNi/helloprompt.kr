@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: " "
-description: "プレゼン準備の徹夜はもう終わりにしませんか？わずか1分でPPTの構成案からスライド別の発表台本まで一気に作成できる、実務特化型プロンプトです。"
+description: "プレゼン準備の徹夜はもう終わりにしませんか？わずか1分でPPTの構成案からスライド別の発表台本まで一気に作成できる、実務特化型プロンプトです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 발표 준비로 밤새지 마세요. 단 1분 만에 PPT 목차부터 슬라이드별 완벽한 대본까지 추출하는 실무 밀착형 프롬프트를 공개합니다. 빈 화면의 고통을 끝내세요."
 image: "/images/hooks/powerpoint-outline-prompt.jpg"
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ppt-outline-scr"]
 ---

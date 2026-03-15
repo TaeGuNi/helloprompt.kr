@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generación de Imágenes"
-description: "Aprende a generar impresionantes vistas isométricas en 3D, ideales para iconos o diseños de videojuegos estilo diorama."
+description: "Aprende a generar impresionantes vistas isométricas en 3D, ideales para iconos o diseños de videojuegos estilo diorama. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Ángulo de Cámara", "3D"]
 ---
 

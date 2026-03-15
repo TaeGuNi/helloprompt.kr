@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "Workflow Automation"
-description: "如同查理·普斯（Charlie Puth）将日常噪音谱写成霸榜金曲，这个提示词将教你如何把枯燥的产品卖点，爆改为 TikTok 和 Reels 上疯狂传播的病毒式 Hook。"
+description: "如同查理·普斯（Charlie Puth）将日常噪音谱写成霸榜金曲，这个提示词将教你如何把枯燥的产品卖点，爆改为 TikTok 和 Reels 上疯狂传播的病毒式 Hook。 详细介绍AI提示词的使用方法与实战技巧。 | 찰리 푸스가 일상의 소음으로 히트곡을 만들듯, 지루한 제품 스펙을 틱톡과 릴스에서 터지는 폭발적인 바이럴 훅(Hook)으로 탈바꿈시키는 실전 마케팅 프롬프..."
 tags: ["prompt-engineering", "ai-agent", "charlie-puth"]
 image: "/images/hooks/charlie-puth-viral-marketing-hook-prompt.jpg"
 ---

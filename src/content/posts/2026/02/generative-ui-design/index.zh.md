@@ -3,7 +3,7 @@ categories:
   - UI/UX Design
   - Generative AI
 date: "2026-02-13"
-description: "固定菜单和按钮的时代已经结束。本文将揭秘‘生成式 UI’的核心概念与实操提示词，这种 UI 能实时洞察用户意图并即时渲染界面。"
+description: "固定菜单和按钮的时代已经结束。本文将揭秘‘生成式 UI’的核心概念与实操提示词，这种 UI 能实时洞察用户意图并即时渲染界面。 详细介绍AI提示词的使用方法与实战技巧。 | 고정된 메뉴와 버튼의 시대는 끝났습니다. 사용자의 의도를 실시간으로 파악해 즉석에서 화면을 렌더링하는 '생성형 UI'의 핵심과 실무 프롬프트를 공개합니다."
 heroImage: /images/blog/2026-02-13-generative-ui.jpg
 layout: /src/layouts/Layout.astro
 pubDate: "2026-02-13"

@@ -1,6 +1,6 @@
 ---
 title: " \"Self-Healing Code: Building an Agent That Fixes Its Own Bugs\""
-description: "AIコードジェネレーターに付きっきりになるのは終わりにしましょう。エージェントが自らコードを書き、実行し、エラーを自動修正する「自己修復（Self-Healing）」ワークフローの構築方法とリフレクションループの完全ガイド。"
+description: "AIコードジェネレーターに付きっきりになるのは終わりにしましょう。エージェントが自らコードを書き、実行し、エラーを自動修正する「自己修復（Self-Healing）」ワークフローの構築方法とリフレクションループの完全ガイド。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 author: "Unifactory Editor"
 date: "2026-02-16"
 tags: ["AI Agent", "Coding", "Automation", "Python", "Local LLM", "Workflow"]

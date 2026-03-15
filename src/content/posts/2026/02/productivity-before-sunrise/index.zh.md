@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Workflow Automation"
-description: "一份早鸟生产力黑客指南，让你在别人沉睡时完成3倍的工作量。"
+description: "一份早鸟生产力黑客指南，让你在别人沉睡时完成3倍的工作量。 详细介绍AI提示词的使用方法与实战技巧。 | 남들이 자는 시간에 3배 더 많은 일을 처리하는 얼리버드 생산성 해킹 가이드 및 AI 시간 관리 프롬프트."
 tags: ["Productivity", "Time Management", "Productivity", "새벽업무"]
 ---
 

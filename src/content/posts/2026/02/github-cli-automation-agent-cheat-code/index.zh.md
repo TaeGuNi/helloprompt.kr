@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "Workflow Automation"
-description: "告别 AI 毫无灵魂的阿谀奉承！掌握资深开发者的秘密提示词，用令人窒息的 4 阶段 GitOps 流水线彻底掌控你的 AI 智能体，实现零干预自动化提交与合并。"
+description: "告别 AI 毫无灵魂的阿谀奉承！掌握资深开发者的秘密提示词，用令人窒息的 4 阶段 GitOps 流水线彻底掌控你的 AI 智能体，实现零干预自动化提交与合并。 详细介绍AI提示词的使用方法与实战技巧。 | AI의 불필요한 대화를 차단하고, 4단계 GitOps 파이프라인을 자율적으로 수행하게 만드는 시니어 개발자의 실무 프롬프트를 공개합니다."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "github-cli"]
 ---
 

@@ -5,7 +5,7 @@ author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "提示工程"
-description: "这是一个注入了绝不容忍设计系统崩溃的严苛高级架构师 12 条铁律的秘籍提示词。彻底封锁 AI 的擅自判断，确保完美的 UI 一致性。"
+description: "这是一个注入了绝不容忍设计系统崩溃的严苛高级架构师 12 条铁律的秘籍提示词。彻底封锁 AI 的擅自判断，确保完美的 UI 一致性。 详细介绍AI提示词的使用方法与实战技巧。 | 디자인 시스템의 붕괴를 절대 용납하지 않는 깐깐한 시니어 아키텍트의 12가지 절대 법칙을 주입하는 치트키 프롬프트입니다. AI의 자의적인 판단을 원천 차단하고 완벽한 UI 일관성을 확보하세요."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "design-system-identity"]
 image: "/images/hooks/hardcore-design-system-architect-prompt.jpg"
 ---

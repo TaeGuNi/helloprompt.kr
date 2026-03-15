@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Saúde"
-description: "Diga adeus às noites em claro. Deixe a IA analisar seus hábitos e criar uma rotina de sono perfeita para você."
+description: "Diga adeus às noites em claro. Deixe a IA analisar seus hábitos e criar uma rotina de sono perfeita para você. Descubra como usar prompts de IA de forma prática e eficaz."
 tags: ["Sono", "Insônia", "Saúde", "Estilo de Vida"]
 ---
 

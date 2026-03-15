@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: " "
-description: "市場調査と競合他社のSWOT分析にかかる3日間のリサーチ業務を、たった3分で完了させる超実践的なAIプロンプト。"
+description: "市場調査と競合他社のSWOT分析にかかる3日間のリサーチ業務を、たった3分で完了させる超実践的なAIプロンプト。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 3일 밤낮 새워야 했던 경쟁사 SWOT 분석과 시장 조사를 단 3분 만에 끝내주는 기획자용 실전 AI 프롬프트입니다. 파편화된 데이터를 꿰뚫고 실무에 즉시 적용 가능한 파괴적인 전략을 도출해 보세요."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "competitor-anal"]
 ---
 

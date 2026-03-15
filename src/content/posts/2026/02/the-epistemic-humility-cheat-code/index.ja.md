@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "Workflow Automation"
-description: "ハルシネーションにまみれたAIの胸ぐらを掴み、自らコードの欠陥を自白させるシニアエンジニア向けプロンプト憲法。"
+description: "ハルシネーションにまみれたAIの胸ぐらを掴み、自らコードの欠陥を自白させるシニアエンジニア向けプロンプト憲法。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 환각(Hallucination)에 찌든 AI의 멱살을 잡고, 코드의 결함을 스스로 자백하게 만드는 시니어 엔지니어의 하드코어 프롬프트 헌법입니다."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "epistemic-humility"]
 ---
 

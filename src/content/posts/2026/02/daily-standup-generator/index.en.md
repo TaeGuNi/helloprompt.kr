@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Collaboration"
-description: "A standup AI prompt that organizes messy daily tasks into a clean 'Yesterday/Today/Blockers' format in just one minute."
+description: "A standup AI prompt that organizes messy daily tasks into a clean 'Yesterday/Today/Blockers' format in just one minute. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Scrum", "Agile", "Standup", "Communication"]
 ---
 

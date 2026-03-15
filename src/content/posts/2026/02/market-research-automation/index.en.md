@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Marketing"
-description: "How to identify customer complaints and unmet needs without manually reading thousands of reviews."
+description: "How to identify customer complaints and unmet needs without manually reading thousands of reviews. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Marketing", "시장조사", "ChatGPT", "Data Analysis"]
 ---
 

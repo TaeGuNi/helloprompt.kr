@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "콘텐츠 크리에이팅"
-description: "たった1つのYouTube動画台本を、ブログ、Instagram、Twitter（X）の投稿に無限複製しましょう。OSMUの決定版、コンテンツ再加工の自動化パイプラインを構築するプロンプトを公開します。"
+description: "たった1つのYouTube動画台本を、ブログ、Instagram、Twitter（X）の投稿に無限複製しましょう。OSMUの決定版、コンテンツ再加工の自動化パイプラインを構築するプロンプトを公開します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["유튜브", "블로그", "OSMU", "콘텐츠재가공", "ChatGPT"]
 image: "/images/hooks/youtube-to-blog-converter.jpg"
 ---

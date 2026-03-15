@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "用专属定制的正向肯定语 (Affirmation)，唤醒潜能，开启活力满满的每一个早晨。"
+description: "用专属定制的正向肯定语 (Affirmation)，唤醒潜能，开启活力满满的每一个早晨。 详细介绍AI提示词的使用方法与实战技巧。 | 단 10초 만에 뇌과학 기반의 맞춤형 긍정 확언(Affirmation)을 생성해 압도적인 퍼포먼스를 이끌어내는 프롬프트를 만나보세요."
 tags: ["미라클모닝", "마인드셋", "Self-Improvement", "긍정확언"]
 ---
 

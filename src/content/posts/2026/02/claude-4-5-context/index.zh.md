@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-14"
 updatedDate: "2026-03-08"
 category: "提示词工程"
-description: "介绍如何利用 Claude 4.5 Opus 的 100 万 Token 上下文窗口，完美分析海量文档和代码的终极提示词工程秘籍。"
+description: "介绍如何利用 Claude 4.5 Opus 的 100 万 Token 上下文窗口，完美分析海量文档和代码的终极提示词工程秘籍。 详细介绍AI提示词的使用方法与实战技巧。 | Claude 4.5 Opus의 100만 토큰 컨텍스트 윈도우를 활용해 방대한 문서와 코드를 완벽하게 분석하는 궁극의 프롬프트 엔지니어링 비법을 소개합니다."
 tags: ["anthropic", "claude", "ai"]
 image: "/images/hooks/claude-4-5-context.jpg"
 ---

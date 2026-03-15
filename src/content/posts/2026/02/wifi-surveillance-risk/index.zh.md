@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "安全/隐私"
-description: "分析仅利用路由器的 WiFi 信号即可精准追踪室内动作的“WiFi 感知”安全威胁，并构建基于 AI 的先验防御方案。"
+description: "分析仅利用路由器的 WiFi 信号即可精准追踪室内动作的“WiFi 感知”安全威胁，并构建基于 AI 的先验防御方案。 详细介绍AI提示词的使用方法与实战技巧。 | 공유기의 와이파이 신호만으로 실내 움직임을 정밀 추적하는 '와이파이 센싱'의 보안 위협을 분석하고, AI 기반의 선제적 방어 시나리오를 구축해 봅니다."
 tags: ["WiFi", "Surveillance", "Privacy", "Security"]
 ---
 

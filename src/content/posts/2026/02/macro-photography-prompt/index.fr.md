@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Génération d'Image"
-description: "Prompt de photographie macro IA pour capturer des détails infimes et des textures microscopiques invisibles à l'œil nu."
+description: "Prompt de photographie macro IA pour capturer des détails infimes et des textures microscopiques invisibles à l'œil nu. Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Angle de Caméra", "Détails"]
 ---
 

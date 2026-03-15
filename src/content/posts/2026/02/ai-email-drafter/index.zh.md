@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Work Automation"
-description: "为面对空白屏幕发呆的职场人准备的救星。公开只需3秒即可撰写完美商务邮件的AI大师级提示词。"
+description: "为面对空白屏幕发呆的职场人准备的救星。公开只需3秒即可撰写完美商务邮件的AI大师级提示词。 详细介绍AI提示词的使用方法与实战技巧。 | 빈 화면에 '안녕하세요'만 쓰고 멈춰있는 직장인을 위한 구원템. 단 3초 만에 완벽한 비즈니스 이메일을 작성하는 AI 마스터 프롬프트를 공개합니다."
 tags: ["이메일", "ChatGPT", "Productivity", "Prompt"]
 ---
 

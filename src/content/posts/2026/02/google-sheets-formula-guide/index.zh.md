@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "办公自动化"
-description: "从 QUERY 函数到 AppScript 自动化。超越简单的在线 Excel，公开将 Google 表格用作强大实时数据库的秘诀。"
+description: "从 QUERY 函数到 AppScript 自动化。超越简单的在线 Excel，公开将 Google 表格用作强大实时数据库的秘诀。 详细介绍AI提示词的使用方法与实战技巧。 | QUERY 함수부터 AppScript 자동화까지. 단순한 온라인 엑셀을 넘어 구글 시트를 강력한 실시간 데이터베이스로 활용하는 비법을 공개합니다."
 tags: ["GoogleSheets", "谷歌表格", "Excel", "函数", "自动化"]
 ---
 

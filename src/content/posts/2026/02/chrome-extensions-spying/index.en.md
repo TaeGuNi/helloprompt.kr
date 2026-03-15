@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Security"
-description: "The ultimate guide to using AI to detect malicious Chrome extensions secretly collecting your browsing data."
+description: "The ultimate guide to using AI to detect malicious Chrome extensions secretly collecting your browsing data. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Security", "Chrome", "Privacy", "Browser"]
 ---
 

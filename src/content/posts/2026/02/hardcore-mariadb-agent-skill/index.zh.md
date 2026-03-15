@@ -5,7 +5,7 @@ author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "提示工程"
-description: "彻底拦截AI的危险查询执行。通过将只会拍马屁的AI改造为无情的资深DBA，这套提示词秘籍能完美守护您的数据库。"
+description: "彻底拦截AI的危险查询执行。通过将只会拍马屁的AI改造为无情的资深DBA，这套提示词秘籍能完美守护您的数据库。 详细介绍AI提示词的使用方法与实战技巧。 | AI의 위험한 쿼리 실행을 원천 차단하세요. 아부만 떠는 AI를 무자비한 시니어 DBA로 개조하여 데이터베이스를 완벽하게 방어하는 프롬프트 치트키입니다."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "mariadb"]
 ---
 

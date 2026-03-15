@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.148Z"
 updatedDate: "2026-02-07T09:10:33.148Z"
 category: "画像生成"
-description: "真鍮の歯車と煙たい蒸気機関が支配する19世紀の代替歴史。圧倒的なディテールを誇るスチームパンク（Steampunk）プロンプトエンジニアリングガイドをご紹介します。"
+description: "真鍮の歯車と煙たい蒸気機関が支配する19世紀の代替歴史。圧倒的なディテールを誇るスチームパンク（Steampunk）プロンプトエンジニアリングガイドをご紹介します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 황동 톱니바퀴와 매캐한 증기 기관이 지배하는 19세기 대체 역사. 압도적인 디테일을 자랑하는 스팀펑크(Steampunk) 프롬프트 엔지니어링 가이드..."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Sci-Fi", "Retro"]
 image: "/images/hooks/steampunk-aesthetic.jpg"
 ---

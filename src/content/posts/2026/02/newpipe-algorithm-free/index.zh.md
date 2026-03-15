@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "产品规划"
-description: "用户厌倦了算法推送，渴望“安静的媒体消费”。探索这款旨在恢复用户自主权而非仅仅追求停留时间的产品规划提示词。"
+description: "用户厌倦了算法推送，渴望“安静的媒体消费”。探索这款旨在恢复用户自主权而非仅仅追求停留时间的产品规划提示词。 详细介绍AI提示词的使用方法与实战技巧。 | 알고리즘 피드에 지친 유저들이 '조용한 미디어 소비'를 갈망하고 있습니다. 체류 시간 대신 유저 주체성을 회복하는 프로덕트 기획 프롬프트를 만나보세요."
 tags: ["AI", "Tech", "newpipe-algorithm-free"]
 image: "https://picsum.photos/seed/quietmedia/800/600"
 ---

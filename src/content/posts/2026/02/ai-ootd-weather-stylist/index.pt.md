@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Moda"
-description: "Recomendações infalíveis de OOTD considerando a temperatura, umidade e probabilidade de chuva para o seu dia a dia."
+description: "Recomendações infalíveis de OOTD considerando a temperatura, umidade e probabilidade de chuva para o seu dia a dia. Descubra como usar prompts de IA de forma prática e eficaz."
 tags: ["Moda", "Clima", "OOTD", "Estilo"]
 ---
 

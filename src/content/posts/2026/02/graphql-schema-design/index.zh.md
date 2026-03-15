@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "告别过度获取（Over-fetching）的冗余数据。这是一份让前端幸福感爆棚的 GraphQL 架构设计模式与实战 Prompt。"
+description: "告别过度获取（Over-fetching）的冗余数据。这是一份让前端幸福感爆棚的 GraphQL 架构设计模式与实战 Prompt。 详细介绍AI提示词的使用方法与实战技巧。 | 오버페칭(Over-fetching) 없는 깔끔한 API. 프론트엔드가 행복해지는 GraphQL 스키마 디자인 패턴과 실무 적용 프롬프트."
 tags: ["GraphQL", "API", "Backend", "스키마", "Apollo"]
 ---
 

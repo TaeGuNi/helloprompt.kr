@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.098Z"
 updatedDate: "2026-02-07T09:10:33.098Z"
 category: "学习方法/个人成长"
-description: "本 Prompt 可以将海量的专业书籍和讲义笔记，自动转换为可直接导入 Anki 或 Quizlet 的记忆卡片（Q&A）数据。"
+description: "本 Prompt 可以将海量的专业书籍和讲义笔记，自动转换为可直接导入 Anki 或 Quizlet 的记忆卡片（Q&A）数据。 详细介绍AI提示词的使用方法与实战技巧。 | 방대한 전공 서적과 강의 노트를 Anki, Quizlet에 즉시 연동 가능한 플래시카드(Q&A) 데이터로 자동 변환하는 프롬프트입니다."
 tags: ["암기", "플래시카드", "Anki", "Quizlet"]
 image: "/images/hooks/anki-card-generator.jpg"
 ---

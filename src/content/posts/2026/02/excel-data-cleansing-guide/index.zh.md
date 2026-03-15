@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "业务自动化"
-description: "告别手动复制粘贴，用 AI 提示词一键完成 Excel 数据清洗与格式统一。"
+description: "告别手动复制粘贴，用 AI 提示词一键完成 Excel 数据清洗与格式统一。 详细介绍AI提示词的使用方法与实战技巧。 | 주소 분리, 날짜 형식 통일 등 지저분한 엑셀 데이터를 AI로 단숨에 클렌징하는 실무 밀착형 프롬프트 가이드입니다."
 tags: ["业务效率", "Excel", "报告书", "ChatGPT"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Daily Life"
-description: "Stop relying on sheer willpower. Build a fail-proof habit formation system rooted in brain science using AI."
+description: "Stop relying on sheer willpower. Build a fail-proof habit formation system rooted in brain science using AI. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Habit", "Routine", "GodLife", "Self-development"]
 ---
 

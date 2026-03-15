@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "General"
-description: "彻底封杀 AI 冗余的废话与无效 console.log！一键复制这份资深架构师级别的终极指令，为你构建冷血无情、精准追踪的硬核系统可观测性防线。"
+description: "彻底封杀 AI 冗余的废话与无效 console.log！一键复制这份资深架构师级别的终极指令，为你构建冷血无情、精准追踪的硬核系统可观测性防线。 详细介绍AI提示词的使用方法与实战技巧。 | 무의미한 긍정 답변과 console.log를 차단하고, 시니어 아키텍트 수준의 하드코어 시스템 관측성을 구축하는 치트키 프롬프트입니다. PII 마스킹으로 안전한 환경을 만드세요."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "observability-logging-protocol"]
 ---
 ## 📝 剿灭 AI 废话：硬核可观测性 (Observability) 终极指令

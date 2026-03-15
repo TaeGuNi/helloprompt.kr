@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.157Z"
 updatedDate: "2026-02-07T09:10:33.157Z"
 category: "Viaggi"
-description: "Ottieni in un minuto un itinerario perfetto che considera gusti, percorsi e resistenza fisica."
+description: "Ottieni in un minuto un itinerario perfetto che considera gusti, percorsi e resistenza fisica. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags: ["Viaggi", "Itinerario", "Planner", "Viaggi all'estero"]
 ---
 

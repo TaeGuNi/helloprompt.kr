@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "General"
-description: "教你完美同步 Figma 与 CSS 变量。这份基于 Design Token 的构建指南，将彻底终结设计与开发的无休止争吵。"
+description: "教你完美同步 Figma 与 CSS 变量。这份基于 Design Token 的构建指南，将彻底终结设计与开发的无休止争吵。 详细介绍AI提示词的使用方法与实战技巧。 | Figma 디자인 토큰과 프론트엔드 CSS 변수를 자동 동기화하세요. AI 프롬프트를 활용해 개발자와 디자이너의 소모적인 픽셀 논쟁을 영원히 끝내는 가이드."
 tags: ["디자인시스템", "Figma", "CSS", "UI-UX", "Collaboration"]
 ---
 

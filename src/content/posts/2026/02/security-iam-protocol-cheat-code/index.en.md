@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "Workflow Automation"
-description: "A Spartan-style security prompt cheat code that crushes AI sycophancy and completely blocks session token theft."
+description: "A Spartan-style security prompt cheat code that crushes AI sycophancy and completely blocks session token theft. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "security-iam-protocol"]
 ---
 

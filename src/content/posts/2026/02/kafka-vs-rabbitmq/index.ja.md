@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "General"
-description: "メッセージキュー(MQ)の導入をお考えですか？大容量トラフィック処理に不可欠なKafkaとRabbitMQのスループット、信頼性、アーキテクチャ設計の違いを徹底比較する実践ガイドです。"
+description: "メッセージキュー(MQ)の導入をお考えですか？大容量トラフィック処理に不可欠なKafkaとRabbitMQのスループット、信頼性、アーキテクチャ設計の違いを徹底比較する実践ガイドです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["Kafka", "RabbitMQ", "메시지큐", "MSA", "Backend"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generación de Imágenes"
-description: "Prompt maestro para la técnica Knolling: organiza y fotografía objetos con una simetría perfecta en ángulos rectos."
+description: "Prompt maestro para la técnica Knolling: organiza y fotografía objetos con una simetría perfecta en ángulos rectos. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composición", "Diseño"]
 ---
 

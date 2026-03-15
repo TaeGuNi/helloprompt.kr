@@ -5,7 +5,7 @@ author: "Antigravity"
 date: "2026-02-14"
 updatedDate: "2026-02-28"
 category: "提示词技巧"
-description: "全面应对互联网无灵魂批量生成内容（AI Slop）带来的阅读疲劳。独家披露深度‘排毒（Humanizer）’提示词框架，助你完美抹除恶俗机器味，为AI底稿注入真实人类灵魂。"
+description: "全面应对互联网无灵魂批量生成内容（AI Slop）带来的阅读疲劳。独家披露深度‘排毒（Humanizer）’提示词框架，助你完美抹除恶俗机器味，为AI底稿注入真实人类灵魂。 详细介绍AI提示词的使用方法与实战技巧。 | 인터넷을 뒤덮은 영혼 없는 AI 콘텐츠(AI Slop)에 지치셨나요? 기계적인 냄새를 완벽히 지워내는 '디톡스(Detox)' 프롬프트로 진짜 사람의 글을 완..."
 tags: ["AI", "Culture", "AI_Fatigue", "提示词"]
 ---
 

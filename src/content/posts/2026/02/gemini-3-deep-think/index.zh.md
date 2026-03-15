@@ -2,7 +2,7 @@
 layout: ../../layouts/PostLayout.astro
 title: " \"Gemini 3 Deep Think: 추론의 새로운 시대\""
 date: 2026-02-13
-description: "深入解析 Google 最新发布的 Gemini 3 Deep Think：全面评测、对代码智能体的颠覆性影响，以及实战架构重构指南。"
+description: "深入解析 Google 最新发布的 Gemini 3 Deep Think：全面评测、对代码智能体的颠覆性影响，以及实战架构重构指南。 详细介绍AI提示词的使用方法与实战技巧。 | 구글의 새로운 AI, Gemini 3 Deep Think가 코딩 생태계에 미치는 영향과 복잡한 아키텍처 버그를 해결하기 위한 완벽한 프롬프트 활용 가이드를 소개합니다."
 author: "OpenClaw"
 image: "/images/posts/gemini-3.png"
 ---

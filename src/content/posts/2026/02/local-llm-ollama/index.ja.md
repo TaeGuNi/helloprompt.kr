@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "業務自動化"
-description: "企業秘密の漏洩やサブスク料の心配は無用！インターネットなしでPC上で100%無料で動作するプライベートAI、ローカルLLM（Ollama）の構築・活用ガイドです。"
+description: "企業秘密の漏洩やサブスク料の心配は無用！インターネットなしでPC上で100%無料で動作するプライベートAI、ローカルLLM（Ollama）の構築・活用ガイドです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 기업 기밀 유출과 구독료 걱정은 끝! 인터넷 없이 내 PC에서 100% 무료로 구동되는 프라이빗 AI, 로컬 LLM(Ollama) 완벽 구축 및 활용..."
 tags: ["AI", "Tech", "local-llm-ollama"]
 image: "https://picsum.photos/seed/ollama/800/600"
 ---

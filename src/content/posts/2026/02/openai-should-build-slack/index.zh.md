@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-03-08"
 category: "工作自动化"
-description: "这是一个硅谷分析师人格提示词，旨在超越简单的 IT 新闻摘要，在短短 5 分钟内完成令读者拍案叫绝的挑衅性技术观点专栏。"
+description: "这是一个硅谷分析师人格提示词，旨在超越简单的 IT 新闻摘要，在短短 5 分钟内完成令读者拍案叫绝的挑衅性技术观点专栏。 详细介绍AI提示词的使用方法与实战技巧。 | 단순한 IT 뉴스 요약을 넘어 독자의 무릎을 탁 치게 만드는 도발적인 테크 오피니언 칼럼을 단 5분 만에 완성하는 실리콘밸리 애널리스트 페르소나 프롬프트입니다."
 image: "https://picsum.photos/seed/slackai/800/600"
 tags: ["AI", "Tech", "openai-should-build-slack"]
 ---

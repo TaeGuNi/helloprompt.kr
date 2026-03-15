@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.096Z"
 updatedDate: "2026-02-07T09:10:33.096Z"
 category: "画像生成"
-description: "平面的で物足りないAI画像を、ブロックバスター映画のように変貌させる魔法。躍動感あふれるシネマティック・ライティング（Cinematic Lighting）プロンプトの設計秘話と専門家のノウハウを公開します。"
+description: "平面的で物足りないAI画像を、ブロックバスター映画のように変貌させる魔法。躍動感あふれるシネマティック・ライティング（Cinematic Lighting）プロンプトの設計秘話と専門家のノウハウを公開します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Lighting", "Cinematic"]
 image: "/images/hooks/cinematic-lighting-prompt.jpg"
 ---

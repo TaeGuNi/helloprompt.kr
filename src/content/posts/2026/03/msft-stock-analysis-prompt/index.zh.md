@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-03-13"
 updatedDate: "2026-03-13"
 category: "理财与投资"
-description: "使用 AI 分析微软 (MSFT) 股票的提示词。5 分钟快速掌握 Azure 增长率、Copilot 营收及 OpenAI 投资回报。"
+description: "使用 AI 分析微软 (MSFT) 股票的提示词。5 分钟快速掌握 Azure 增长率、Copilot 营收及 OpenAI 投资回报。 详细介绍AI提示词的使用方法与实战技巧。 | 마이크로소프트(MSFT) 주식을 AI로 분석하는 프롬프트. Azure 성장률, Copilot 매출, OpenAI 투자 리턴까지 5분 만에 정리하는 방법."
 tags: ["股票", "MSFT", "微软", "投资", "云计算", "Azure", "Copilot"]
 cover: "./cover.png"
 ---

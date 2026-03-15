@@ -5,7 +5,7 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Productivity
-description: "在兵荒马乱的早晨，只需一个 AI 提示词，即可一键搞定任务优先级排序与时间块（Time Blocking）日程表。"
+description: "在兵荒马乱的早晨，只需一个 AI 提示词，即可一键搞定任务优先级排序与时间块（Time Blocking）日程表。 详细介绍AI提示词的使用方法与实战技巧。 | 정신없는 아침, AI 프롬프트 단 하나로 업무 우선순위부터 타임 블로킹(Time Blocking) 시간표까지 완벽하게 세팅하세요."
 tags: [AI, ChatGPT, Prompt, Productivity, DailyPlan]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "Data Analysis"
-description: "VLOOKUPやPythonの知識は不要！表記揺れが激しい住所や電話番号など、カオスなデータをAIで瞬時に標準化・クレンジングする究極のプロンプトを大公開。"
+description: "VLOOKUPやPythonの知識は不要！表記揺れが激しい住所や電話番号など、カオスなデータをAIで瞬時に標準化・クレンジングする究極のプロンプトを大公開。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | VLOOKUP, 파이썬 몰라도 괜찮습니다. 뒤죽박죽 섞인 주소, 전화번호 등 로우 데이터를 AI로 단 1분 만에 완벽하게 표준화하는 비법을 공개합니다."
 tags: ["Excel", "데이터전처리", "No-code", "Automation"]
 ---
 

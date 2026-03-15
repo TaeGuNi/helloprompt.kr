@@ -5,7 +5,7 @@ author: "Antigravity"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "プロンプトエンジニアリング"
-description: "口答えするAIはもういらない！DB破壊を根本から防ぎ、完璧なJSONのみを返却させるスパルタ式プロンプトエンジニアリングガイドです。"
+description: "口答えするAIはもういらない！DB破壊を根本から防ぎ、完璧なJSONのみを返却させるスパルタ式プロンプトエンジニアリングガイドです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 말대꾸하는 AI는 이제 그만! DB 파괴를 원천 차단하고 완벽한 JSON만 반환하게 만드는 스파르타식 프롬프트 엔지니어링 가이드입니다."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "postgresql"]
 ---
 

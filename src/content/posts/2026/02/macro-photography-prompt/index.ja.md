@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "画像生成"
-description: "肉眼では見えない微細なディテールまで鮮明に捉え、圧倒的なリアリティと没入感を生み出すマクロ（接写）撮影特化型AI画像生成プロンプト。"
+description: "肉眼では見えない微細なディテールまで鮮明に捉え、圧倒的なリアリティと没入感を生み出すマクロ（接写）撮影特化型AI画像生成プロンプト。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 눈에 보이지 않는 미세한 디테일까지 포착하는 완벽한 접사(Macro) 촬영 AI 이미지 프롬프트 가이드입니다."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Details"]
 ---
 

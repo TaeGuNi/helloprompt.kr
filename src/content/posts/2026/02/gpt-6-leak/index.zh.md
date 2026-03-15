@@ -1,6 +1,6 @@
 ---
 title: "GPT-6 泄露：聊天机器人的终结与‘设计者’的诞生"
-description: "分析超越简单文本生成的 GPT-6 ‘长期规划 (Long-horizon Planning)’ 架构，并公开将其移植到当前 AI 的提示词技术。"
+description: "分析超越简单文本生成的 GPT-6 ‘长期规划 (Long-horizon Planning)’ 架构，并公开将其移植到当前 AI 的提示词技术。 详细介绍AI提示词的使用方法与实战技巧。 | 단순한 텍스트 생성을 넘어선 GPT-6의 '장기적 계획(Long-horizon Planning)' 아키텍처를 분석하고, 이를 현재 AI에 이식하는 프롬프트 기술을 공개합니다."
 date: "2026-02-15"
 updatedDate: "2026-03-08"
 category: "办公自动化"

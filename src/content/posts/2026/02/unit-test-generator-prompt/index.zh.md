@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.155Z"
 updatedDate: "2026-02-07T09:10:33.155Z"
 category: "编程/开发"
-description: "告别枯燥繁琐的单元测试（Unit Test）编写，交给 AI 处理。揭秘如何在短短 5 分钟内实现 100% 代码测试覆盖率的提示词技巧。"
+description: "告别枯燥繁琐的单元测试（Unit Test）编写，交给 AI 处理。揭秘如何在短短 5 分钟内实现 100% 代码测试覆盖率的提示词技巧。 详细介绍AI提示词的使用方法与实战技巧。 | 지루하고 귀찮은 유닛 테스트(Unit Test) 작성, 이제 AI에게 맡기세요. 단 5분 만에 커버리지 100%를 달성하는 비법을 공개합니다."
 tags: ["测试代码", "TDD", "Jest", "PyTest", "QA"]
 image: "/images/hooks/unit-test-generator-prompt.jpg"
 ---

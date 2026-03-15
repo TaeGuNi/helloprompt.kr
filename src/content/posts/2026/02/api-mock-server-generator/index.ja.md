@@ -5,7 +5,7 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Development
-description: "API仕様書を渡すだけで、ExpressやHonoベースのモックサーバーを瞬時に自動生成。フロントエンドの開発スピードを劇的に加速させます。"
+description: "API仕様書を渡すだけで、ExpressやHonoベースのモックサーバーを瞬時に自動生成。フロントエンドの開発スピードを劇的に加速させます。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | API 명세서만 던져주면 Express, Hono 기반의 Mock 서버 코드를 뚝딱 만들어줍니다. 프론트엔드 개발 속도를 압도적으로 올리세요."
 tags: [AI, Backend, Frontend, Testing]
 ---
 

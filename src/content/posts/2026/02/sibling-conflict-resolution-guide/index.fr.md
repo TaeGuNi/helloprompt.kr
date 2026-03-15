@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalité & Éducation"
-description: "Comment réconcilier équitablement les enfants qui se disputent au quotidien et renforcer leur lien grâce à l'IA."
+description: "Comment réconcilier équitablement les enfants qui se disputent au quotidien et renforcer leur lien grâce à l'IA. Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags:
   ["Parentalité", "Éducation", "Prompts IA", "ChatGPT", "Conseils Parentaux"]
 ---

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-14"
 updatedDate: "2026-02-14"
 category: "業務自動化"
-description: "単一AIの限界を克服するマルチエージェント・スウォーム・アーキテクチャ。AutoGPT 2.0を活用し、収集・分析・検収を分業化することで、ハルシネーションのない無欠点な自動化パイプラインを構築する秘策を公開します。"
+description: "単一AIの限界を克服するマルチエージェント・スウォーム・アーキテクチャ。AutoGPT 2.0を活用し、収集・分析・検収を分業化することで、ハルシネーションのない無欠点な自動化パイプラインを構築する秘策を公開します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["agents", "autogpt", "automation"]
 image: "/images/hooks/autogpt-2-agents.jpg"
 ---

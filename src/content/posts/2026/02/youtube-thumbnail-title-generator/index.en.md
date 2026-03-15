@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T11:30:00.000Z"
 updatedDate: "2026-02-07T11:30:00.000Z"
 category: "Creator Economy"
-description: "Let AI generate highly clickable titles and thumbnail concepts to skyrocket your YouTube CTR."
+description: "Let AI generate highly clickable titles and thumbnail concepts to skyrocket your YouTube CTR. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["YouTube", "Thumbnail", "Title Generator", "Clickbait", "Views"]
 ---
 

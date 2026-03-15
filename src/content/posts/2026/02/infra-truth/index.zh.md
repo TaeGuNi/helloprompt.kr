@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-14"
 updatedDate: "2026-02-14"
 category: "业务自动化"
-description: "在宏大的 AI 淘金热中，深入剖析唯有英伟达（NVIDIA）独占巨额财富的基础设施市场冷酷现实及其结构性原因。"
+description: "在宏大的 AI 淘金热中，深入剖析唯有英伟达（NVIDIA）独占巨额财富的基础设施市场冷酷现实及其结构性原因。 详细介绍AI提示词的使用方法与实战技巧。 | 거대한 AI 골드러시 속, 오직 엔비디아(NVIDIA)만이 막대한 부를 독식하는 인프라 시장의 냉혹한 현실과 구조적 이유를 파헤쳐 봅니다."
 tags: ["AI", "Trend", "2026"]
 image: "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?q=80&w=2000&auto=format&fit=crop"
 ---

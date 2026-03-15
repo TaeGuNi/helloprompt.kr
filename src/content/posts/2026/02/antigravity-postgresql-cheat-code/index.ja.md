@@ -5,7 +5,7 @@ author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "業務効率化"
-description: "AIの盲目的な追従とハルシネーションを打破し、安全な読み取り専用モードと完璧なJSONでDBを制御するハードコアプロンプト。"
+description: "AIの盲目的な追従とハルシネーションを打破し、安全な読み取り専用モードと完璧なJSONでDBを制御するハードコアプロンプト。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | AI의 맹목적인 아첨과 환각을 박살 내고, 안전한 읽기 전용 모드와 완벽한 JSON으로 DB를 제어하는 하드코어 프롬프트."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "postgresql"]
 ---
 

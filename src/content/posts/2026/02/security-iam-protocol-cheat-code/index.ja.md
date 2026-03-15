@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "Workflow Automation"
-description: "AIの迎合を打ち砕き、トークン流出を根絶するスパルタ式セキュリティプロンプトのチートコード。脆弱性を防ぐ強固なアーキテクチャを構築します。"
+description: "AIの迎合を打ち砕き、トークン流出を根絶するスパルタ式セキュリティプロンプトのチートコード。脆弱性を防ぐ強固なアーキテクチャを構築します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | AI의 위험한 아부를 박살 내고 XSS 및 토큰 탈취를 원천 봉쇄하는 스파르타식 보안 프롬프트 치트키입니다."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "security-iam-protocol"]
 ---
 

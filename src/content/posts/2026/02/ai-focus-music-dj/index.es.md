@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "Generador de listas de reproducción que estimulan las ondas cerebrales y maximizan tu concentración al instante."
+description: "Generador de listas de reproducción que estimulan las ondas cerebrales y maximizan tu concentración al instante. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["집중력", "음악", "Productivity", "몰입"]
 ---
 

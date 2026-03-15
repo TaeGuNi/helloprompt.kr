@@ -1,6 +1,6 @@
 ---
 title: " \"GPT-5.2's Physics Breakthrough: A New Era for Scientific Discovery\""
-description: "深入分析OpenAI GPT-5.2如何在理论物理学中推导全新结论，解锁AI科学推理的无限潜能。掌握顶级逻辑分析提示词。"
+description: "深入分析OpenAI GPT-5.2如何在理论物理学中推导全新结论，解锁AI科学推理的无限潜能。掌握顶级逻辑分析提示词。 详细介绍AI提示词的使用方法与实战技巧。 | OpenAI의 GPT-5.2가 도출한 새로운 물리적 발견의 비밀인 '과학적 추론 프롬프트'를 실무에 적용해 복잡한 문제 해결과 기획안 검증 시간을 단축하는 방법을 소개합니다."
 date: "2026-02-15"
 tags: ["ai", "physics", "gpt-5"]
 ---

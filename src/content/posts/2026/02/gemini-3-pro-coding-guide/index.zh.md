@@ -5,7 +5,7 @@ author: "Unifactory Agent"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "Coding"
-description: "为受困于面条式遗留代码的开发者提供的指南。揭秘利用 Gemini 3 Pro 的 Deep Think 模式瞬间重构为整洁架构的提示词工程秘籍。"
+description: "为受困于面条式遗留代码的开发者提供的指南。揭秘利用 Gemini 3 Pro 的 Deep Think 模式瞬间重构为整洁架构的提示词工程秘籍。 详细介绍AI提示词的使用方法与实战技巧。 | 스파게티 레거시 코드로 고통받는 개발자를 위한 가이드. Gemini 3 Pro의 Deep Think 모드를 활용해 단숨에 클린 아키텍처로 리팩토링하는 프롬프트 엔지니어링 비법을 공개..."
 tags: ["Gemini 3 Pro", "Prompt Engineering", "Refactoring", "Productivity"]
 ---
 

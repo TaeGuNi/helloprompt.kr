@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Foreign Language Learning"
-description: "Improve your conversation skills through unlimited AI roleplaying instead of paying for expensive phone tutoring."
+description: "Improve your conversation skills through unlimited AI roleplaying instead of paying for expensive phone tutoring. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["EnglishConversation", "Roleplay", "Prompt", "Self-development"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "Workflow Automation"
-description: "Um cheat code de segurança rigoroso que elimina a bajulação da IA e bloqueia totalmente o roubo de tokens."
+description: "Um cheat code de segurança rigoroso que elimina a bajulação da IA e bloqueia totalmente o roubo de tokens. Descubra como usar prompts de IA de forma prática e eficaz."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "security-iam-protocol"]
 ---
 ## 🔒 Fim da Festa para os Hackers! Cheat Code de Agente de Segurança Implacável

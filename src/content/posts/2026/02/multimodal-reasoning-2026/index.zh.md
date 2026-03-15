@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "业务自动化"
-description: "现在 AI 可以实时同时分析和推理视频、音频和文本。查看能将耗时 1 小时的策划案撰写缩短至仅需 3 分钟的多模态提示词。"
+description: "现在 AI 可以实时同时分析和推理视频、音频和文本。查看能将耗时 1 小时的策划案撰写缩短至仅需 3 分钟的多模态提示词。 详细介绍AI提示词的使用方法与实战技巧。 | 이제 AI는 비디오, 오디오, 텍스트를 실시간으로 동시에 분석하고 추론합니다. 1시간 걸리던 기획서 작성을 단 3분으로 압축하는 멀티모달 프롬프트를 확인하세요."
 image: "https://picsum.photos/seed/multimodal/800/600"
 tags: ["AI", "Tech", "multimodal-reasoning-2026"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: "AIスクレイピングを阻止せよ"
-description: "無断AIスクレイピングからWebサイトの大切なコンテンツを保護しましょう。確実なAIクローラー遮断(robots.txt)プロンプトとサーバー防衛戦略を提案します。"
+description: "無断AIスクレイピングからWebサイトの大切なコンテンツを保護しましょう。確実なAIクローラー遮断(robots.txt)プロンプトとサーバー防衛戦略を提案します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 무단 AI 스크래핑으로부터 내 웹사이트의 소중한 콘텐츠를 보호하세요. 확실한 AI 크롤러 차단(robots.txt) 프롬프트와 서버 방어 전략을 제..."
 date: "2026-02-15"
 image: "https://picsum.photos/seed/archive/800/600"
 tags: ["AI", "Tech", "ai-scraping-block"]

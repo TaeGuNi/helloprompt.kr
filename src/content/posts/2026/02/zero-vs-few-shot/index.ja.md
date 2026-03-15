@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "Prompt Engineering"
-description: "AIが的外れな回答をしていませんか？例を活用して性能を200%向上させるゼロショット(Zero-Shot)とフューショット(Few-Shot)プロンプトの実践活用ガイド。"
+description: "AIが的外れな回答をしていませんか？例を活用して性能を200%向上させるゼロショット(Zero-Shot)とフューショット(Few-Shot)プロンプトの実践活用ガイド。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | AI가 엉뚱한 답을 낸다면? 예시를 활용해 성능을 200% 끌어올리는 제로샷(Zero-Shot)과 퓨샷(Few-Shot) 프롬프트 실전 활용 ..."
 tags: ["제로샷", "퓨샷", "Prompt"]
 ---
 

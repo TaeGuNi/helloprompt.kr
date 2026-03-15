@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "业务自动化"
-description: "厌倦了 AI 生成的那些没有灵魂的“正常运行”代码？本指南将为你揭秘注入 Netflix 混沌猴子哲学、强制执行无情异常处理和灾难恢复的宇宙防御级提示词。"
+description: "厌倦了 AI 生成的那些没有灵魂的“正常运行”代码？本指南将为你揭秘注入 Netflix 混沌猴子哲学、强制执行无情异常处理和灾难恢复的宇宙防御级提示词。 详细介绍AI提示词的使用方法与实战技巧。 | AI의 영혼 없는 '정상 작동' 코드에 지치셨나요? 넷플릭스 카오스 몽키 철학을 주입하여 자비 없는 예외 처리와 재난 복구를 강제하는 우주 방어급 프롬프트를 공개합니다."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "chaos-monkey-testing"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "General"
-description: "Figmaの変数とCSS変数を同期する方法。トークンベースのデザインシステム構築の完全ガイド。"
+description: "Figmaの変数とCSS変数を同期する方法。トークンベースのデザインシステム構築の完全ガイド。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | Figma 디자인 토큰과 프론트엔드 CSS 변수를 자동 동기화하세요. AI 프롬프트를 활용해 개발자와 디자이너의 소모적인 픽셀 논쟁을 영원히 끝내는 가이드."
 tags: ["디자인시스템", "Figma", "CSS", "UI-UX", "Collaboration"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "AI Engineering"
-description: "还在把 Llama 3 的提示词直接用在 Llama 4 上吗？本文公开‘Chain-of-Command’系统提示词结构，助你在本地环境将 Llama 4 的推理能力提升 200%。"
+description: "还在把 Llama 3 的提示词直接用在 Llama 4 上吗？本文公开‘Chain-of-Command’系统提示词结构，助你在本地环境将 Llama 4 的推理能力提升 200%。 详细介绍AI提示词的使用方法与实战技巧。 | Llama 3 프롬프트를 Llama 4에 그대로 쓰고 계신가요? 로컬 환경에서 Llama 4의 추론 능력을 200% 끌어올리는 'Chain-of-..."
 tags: ["Llama 4", "Prompt Engineering", "Agents", "Local AI", "System Prompts"]
 ---
 

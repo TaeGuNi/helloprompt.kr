@@ -1,6 +1,6 @@
 ---
 title: "Supercomputer in Your Hand: On-Device AI Revolution"
-description: "The era of high-performance local LLMs working entirely without the cloud."
+description: "The era of high-performance local LLMs working entirely without the cloud. Learn how to use AI prompts effectively with practical examples and expert tips."
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Mobile", "Edge AI", "Privacy", "Tech"]

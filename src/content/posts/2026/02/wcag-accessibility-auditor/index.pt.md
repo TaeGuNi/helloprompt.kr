@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 category: "General"
-description: "O seu código é acessível para todos? Verifique se ele está em conformidade com as diretrizes de acessibilidade (WCAG)."
+description: "O seu código é acessível para todos? Verifique se ele está em conformidade com as diretrizes de acessibilidade (WCAG). Descubra como usar prompts de IA de forma prática e eficaz."
 tags: ["Accessibility", "HTML", "WCAG"]
 ---
 

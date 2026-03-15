@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "开发者的浪漫，Vim。从 hjkl 到宏录制，这是一份让手指比大脑更快的快捷键征服指南。"
+description: "开发者的浪漫，Vim。从 hjkl 到宏录制，这是一份让手指比大脑更快的快捷键征服指南。 详细介绍AI提示词的使用方法与实战技巧。 | 마우스 없는 코딩, 개발자의 로망 Vim. hjkl 이동부터 강력한 매크로까지, 손가락이 뇌보다 빠르게 움직이는 압도적 생산성 정복 가이드."
 tags: ["Vim", "빔", "에디터", "Productivity", "단축키"]
 ---
 

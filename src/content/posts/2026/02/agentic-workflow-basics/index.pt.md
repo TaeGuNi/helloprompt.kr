@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "Automação de Trabalho"
-description: "Descubra os prompts essenciais do Agentic Workflow para transformar a IA em um 'colega' capaz, e não apenas um chatbot."
+description: "Descubra os prompts essenciais do Agentic Workflow para transformar a IA em um 'colega' capaz, e não apenas um chatbot. Descubra como usar prompts de IA de forma prática e eficaz."
 tags: ["Agentes de IA", "Automação", "Produtividade", "Workflow"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "複雑なETLパイプライン構築での徹夜はもう不要です。Airflow DAGコードをわずか1分で自動生成する、実務直結のAIプロンプトを公開します。"
+description: "複雑なETLパイプライン構築での徹夜はもう不要です。Airflow DAGコードをわずか1分で自動生成する、実務直結のAIプロンプトを公開します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 복잡한 데이터 파이프라인(ETL) 구축, 더 이상 밤새워 코딩하지 마세요. Airflow DAG 코드를 단 1분 만에 자동 완성해 주는 강력한 AI 프롬프트를 공개..."
 tags: ["Airflow", "ETL", "데이터엔지니어링", "파이썬", "Automation"]
 ---
 

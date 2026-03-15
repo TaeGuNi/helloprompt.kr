@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 category: "開発生産性"
-description: "ウェブパフォーマンスの限界を突破しましょう！既存のC++やRustコードをWebAssemblyへ迅速かつ安全に移植する、ゼロコピー（Zero-copy）メモリ最適化プロンプトです。"
+description: "ウェブパフォーマンスの限界を突破しましょう！既存のC++やRustコードをWebAssemblyへ迅速かつ安全に移植する、ゼロコピー（Zero-copy）メモリ最適化プロンプトです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["WebAssembly", "Rust", "Performance"]
 ---
 

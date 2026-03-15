@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automação de Trabalho"
-description: "Analise planilhas de Excel repletas de números com IA e extraia insights estratégicos valiosos para o seu negócio."
+description: "Analise planilhas de Excel repletas de números com IA e extraia insights estratégicos valiosos para o seu negócio. Descubra como usar prompts de IA de forma prática e eficaz."
 tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 ---
 

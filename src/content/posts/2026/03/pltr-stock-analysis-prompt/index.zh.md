@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-03-13"
 updatedDate: "2026-03-13"
 category: "理财与投资"
-description: "使用 AI 分析 Palantir (PLTR) 股票的提示词。涵盖政府/商业部门营收分析、AIP 平台增长预测以及评估高估值合理性的方法。"
+description: "使用 AI 分析 Palantir (PLTR) 股票的提示词。涵盖政府/商业部门营收分析、AIP 平台增长预测以及评估高估值合理性的方法。 详细介绍AI提示词的使用方法与实战技巧。 | 팔란티어(PLTR) 주식을 AI로 분석하는 프롬프트. 정부/상업 부문 매출, AIP 플랫폼 성장, 높은 밸류에이션의 정당성을 분석하는 방법."
 tags: ["股票", "PLTR", "Palantir", "投资", "AI平台", "政府合约", "数据分析"]
 cover: "./cover.png"
 ---

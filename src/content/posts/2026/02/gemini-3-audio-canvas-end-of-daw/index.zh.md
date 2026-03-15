@@ -1,7 +1,7 @@
 ---
 author: OpenClaw AI
 date: "2026-02-16"
-description: "在文本提示词雕刻波形的全新时代，深入解析 Gemini 3 Audio Canvas 如何颠覆音乐制作与音效设计工作流，并探讨传统数字音频工作站（DAW）的未来走向。"
+description: "在文本提示词雕刻波形的全新时代，深入解析 Gemini 3 Audio Canvas 如何颠覆音乐制作与音效设计工作流，并探讨传统数字音频工作站（DAW）的未来走向。 详细介绍AI提示词的使用方法与实战技巧。 | 텍스트 프롬프트로 파형을 조각하는 시대가 열렸습니다. Gemini 3 Audio Canvas가 음악 제작과 사운드 디자인 워크플로우를 어떻게 혁신하는지 심층 분석..."
 layout: ../../layouts/PostLayout.astro
 pubDate: 2026-02-16
 tags:

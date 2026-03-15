@@ -5,7 +5,7 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: DevOps
-description: "Huskyとpre-commit用の完璧なシェルスクリプトをAIで瞬時に作成。コード品質を自動で死守する自動化の秘訣です。"
+description: "Huskyとpre-commit用の完璧なシェルスクリプトをAIで瞬時に作成。コード品質を自動で死守する自動化の秘訣です。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | Husky와 pre-commit 환경에 딱 맞는 쉘 스크립트를 AI로 1초 만에 생성하세요. 개발자의 실수를 원천 차단하고 코드 품질을 자동으로 사수하는 완벽한 가이드입니다."
 tags: [AI, Git, DevOps, Automation]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Work Automation"
-description: "An early bird productivity hacking guide to getting 3x more done while others sleep."
+description: "An early bird productivity hacking guide to getting 3x more done while others sleep. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Productivity", "Time Management", "Work Efficiency", "Morning Routine"]
 ---
 

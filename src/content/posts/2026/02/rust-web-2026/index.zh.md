@@ -3,7 +3,7 @@ layout: ../../layouts/MarkdownPostLayout.astro
 title: "Web 开发中的 Rust：2026 年生态现状"
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "2026 年 Rust 在 Web 开发生态中处于什么地位？从 Axum 和 Leptos 的成熟度到性能与开发者体验 (DX) 的平衡，我们将为您完美诊断 Rust 是否适合您的团队。"
+description: "2026 年 Rust 在 Web 开发生态中处于什么地位？从 Axum 和 Leptos 的成熟度到性能与开发者体验 (DX) 的平衡，我们将为您完美诊断 Rust 是否适合您的团队。 详细介绍AI提示词的使用方法与实战技巧。 | 2026년 웹 개발 생태계에서 Rust는 어떤 위상일까요? Axum과 Leptos의 성숙도부터 성능과 개발자 경험(DX)의 균형까지, 우리 팀에..."
 author: "Hello Prompt AI"
 tags: ["Rust", "Web Dev", "Backend"]
 image: "/images/hooks/rust-web-2026.jpg"

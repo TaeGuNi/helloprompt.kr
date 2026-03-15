@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Workflow Automation"
-description: "“刚才谁负责这事来着？”别再让杂乱的会议记录消耗精力了。让 AI 书记员为您一键生成清晰的完美会议纪要与待办事项（Action Item）。"
+description: "“刚才谁负责这事来着？”别再让杂乱的会议记录消耗精力了。让 AI 书记员为您一键生成清晰的完美会议纪要与待办事项（Action Item）。 详细介绍AI提示词的使用方法与实战技巧。 | '누가 무슨 말을 했지?' 엉킨 회의 내용 때문에 고민하지 마세요. AI 서기가 완벽한 구조의 회의록과 액션 아이템을 1분 만에 정리해 드립니다."
 tags: ["회의록", "요약", "ChatGPT", "Notion", "Productivity"]
 ---
 

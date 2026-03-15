@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "画像生成"
-description: "二つの異なるイメージを重ね合わせ、神秘的で夢幻的なストーリーを創り出す「二重露出（Double Exposure）」プロンプトガイドです。"
+description: "二つの異なるイメージを重ね合わせ、神秘的で夢幻的なストーリーを創り出す「二重露出（Double Exposure）」プロンプトガイドです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 두 개의 서로 다른 이미지를 겹쳐 신비롭고 몽환적인 스토리를 담아내는 이중 노출 기법 프롬프트 가이드입니다."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Effect", "Surrealism"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creación y Aficiones"
-description: "Crea poesía corta y emocional para generar interacción en redes sociales en solo 10 segundos."
+description: "Crea poesía corta y emocional para generar interacción en redes sociales en solo 10 segundos. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["Instagram", "Poesía", "TextoEmocional", "SNS", "Contenido"]
 ---
 

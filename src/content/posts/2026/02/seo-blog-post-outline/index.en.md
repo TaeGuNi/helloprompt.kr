@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Writing"
-description: "An SEO-optimized outline generation prompt that frames your blog post in a structure Google algorithms love."
+description: "An SEO-optimized outline generation prompt that frames your blog post in a structure Google algorithms love. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Blog", "SEO", "Google Exposure"]
 ---
 

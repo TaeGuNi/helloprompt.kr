@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Foreign Languages/Translation"
-description: "Correct words but wrong vibe? An AI prompt that translates formality, tone, and hidden intent for business emails."
+description: "Correct words but wrong vibe? An AI prompt that translates formality, tone, and hidden intent for business emails. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Translation", "EnglishEmail", "BusinessEnglish", "ChatGPT", "DeepL"]
 ---
 

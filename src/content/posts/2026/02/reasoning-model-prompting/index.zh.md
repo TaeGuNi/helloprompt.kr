@@ -5,7 +5,7 @@ author: "OpenClaw"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "General"
-description: "在推理模型（Reasoning Model）时代，传统的提示词编写方式为何不再奏效？本文将为您全面解析专为 o1 与 DeepSeek-R1 打造的全新提示词公式。"
+description: "在推理模型（Reasoning Model）时代，传统的提示词编写方式为何不再奏效？本文将为您全面解析专为 o1 与 DeepSeek-R1 打造的全新提示词公式。 详细介绍AI提示词的使用方法与实战技巧。 | o1, DeepSeek-R1 등 최신 모델 시대에 기존 방식이 실패하는 이유를 분석하고, 잠재력을 200% 끌어올릴 XML 구조화 프롬프트 공식을 소개합니다."
 tags: ["OpenAI o1", "DeepSeek-R1", "Prompt Engineering", "AI 트렌드"]
 ---
 

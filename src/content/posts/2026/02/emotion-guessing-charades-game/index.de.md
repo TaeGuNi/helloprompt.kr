@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Erziehung & Bildung"
-description: " \"Ein KI-Rollenspiel-Prompt, um die Empathie und emotionale Ausdrucksfähigkeit Ihres Kindes spielerisch zu fördern.\""
+description: " \\"Ein KI-Rollenspiel-Prompt, um die Empathie und emotionale Ausdrucksfähigkeit Ihres Kindes spielerisch zu fördern.\\" Erfahren Sie mehr über die praktische Anwendung von KI-Prompts."
 tags: ["Erziehung", "Bildung", "KI-Prompts", "ChatGPT", "Erziehungstipps"]
 ---
 

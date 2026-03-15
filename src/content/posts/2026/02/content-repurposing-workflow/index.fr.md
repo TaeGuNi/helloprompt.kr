@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Content Creation"
-description: " \"Le prompt OSMU ultime pour recycler un article de blog en 5 formats viraux grâce à l'IA.\""
+description: " \\"Le prompt OSMU ultime pour recycler un article de blog en 5 formats viraux grâce à l'IA.\\" Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags: ["콘텐츠마케팅", "인스타그램", "링크드인", "Productivity"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "Workflow Automation"
-description: "彻底告别 VLOOKUP 和 INDEX MATCH 地狱。为您揭秘一秒内精准生成各种复杂 Excel 公式的实战提示词。"
+description: "彻底告别 VLOOKUP 和 INDEX MATCH 地狱。为您揭秘一秒内精准生成各种复杂 Excel 公式的实战提示词。 详细介绍AI提示词的使用方法与实战技巧。 | VLOOKUP과 INDEX MATCH 지옥에서 완벽히 탈출하세요. 아무리 복잡한 엑셀 수식도 1초 만에 정확하게 짜주는 실전 프롬프트를 공개합니다."
 tags: ["prompt-engineering", "ai-agent", "formula-1"]
 image: "/images/hooks/formula-1-excel-google-sheets-prompt.jpg"
 ---

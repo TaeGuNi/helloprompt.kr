@@ -1,6 +1,6 @@
 ---
 title: " \"Gemini 3 Deep Think Creates Pelican SVG\""
-description: "Google Gemini 3 凭借强大的推理能力，成功生成“骑自行车鹈鹕”的完美 SVG 代码。这一突破标志着多模态生成与代码理解技术迈入全新纪元。"
+description: "Google Gemini 3 凭借强大的推理能力，成功生成“骑自行车鹈鹕”的完美 SVG 代码。这一突破标志着多模态生成与代码理解技术迈入全新纪元。 详细介绍AI提示词的使用方法与实战技巧。 | 구글 제미나이 3(Gemini 3)의 Deep Think로 복잡한 SVG 코드를 완벽히 생성하는 프롬프트입니다. 상업용 에셋 검색 없이 한 줄의 프롬프트로 고품질 벡터 그래픽을..."
 date: 2026-02-15
 tags: ["AI", "Gemini", "SVG", "Generative Tech"]
 ---

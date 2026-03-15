@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.175Z"
 updatedDate: "2026-02-07T09:10:33.176Z"
 category: "图像生成"
-description: "这是一份完美的剪纸 (Paper Cutout) 与折纸 (Origami) 提示词指南，旨在为平淡冰冷的 2D 数字插画注入模拟艺术的立体感与温暖情怀。"
+description: "这是一份完美的剪纸 (Paper Cutout) 与折纸 (Origami) 提示词指南，旨在为平淡冰冷的 2D 数字插画注入模拟艺术的立体感与温暖情怀。 详细介绍AI提示词的使用方法与实战技巧。 | 밋밋하고 차가운 2D 디지털 일러스트에 아날로그의 입체감과 따스한 감성을 불어넣는 완벽한 페이퍼 컷아웃(Paper Cutout) 및 오리가미 프롬프트 가이드입니다."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Craft"]
 image: "/images/hooks/paper-cutout-origami-style.jpg"
 ---

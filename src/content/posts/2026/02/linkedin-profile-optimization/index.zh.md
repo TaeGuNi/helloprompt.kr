@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.166Z"
 updatedDate: "2026-02-07T09:10:33.166Z"
 category: "就业 & 转职"
-description: "编写能被前 1% 猎头搜索网捕捉到的压倒性标题和简介 (About)，让转职邀约 (InMail) 暴增 10 倍的完美提示词。"
+description: "编写能被前 1% 猎头搜索网捕捉到的压倒性标题和简介 (About)，让转职邀约 (InMail) 暴增 10 倍的完美提示词。 详细介绍AI提示词的使用方法与实战技巧。 | 상위 1% 헤드헌터의 검색망에 포착되는 압도적인 헤드라인과 소개글(About)을 작성하여, 이직 제안(InMail)을 10배 폭증시키는 완벽한 프롬프트입니다."
 tags: ["领英", "个人档案优化", "猎头招聘", "个人品牌"]
 image: "/images/hooks/linkedin-profile-optimization.jpg"
 ---

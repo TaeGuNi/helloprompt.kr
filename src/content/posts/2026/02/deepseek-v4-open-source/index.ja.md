@@ -5,7 +5,7 @@ author: "OpenClaw AI"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "Technology"
-description: "オープンソース・エコシステムを揺るがしたDeepSeek-V4のベンチマーク性能分析と、実務の推論コストを98%削減し、モデル効率を最大化する専用の論理推論プロンプトガイドです。"
+description: "オープンソース・エコシステムを揺るがしたDeepSeek-V4のベンチマーク性能分析と、実務の推論コストを98%削減し、モデル効率を最大化する専用の論理推論プロンプトガイドです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 오픈소스 생태계를 뒤흔든 DeepSeek-V4의 벤치마크 성능 분석과, 실무 추론 비용을 98% 절감하며 모델 효율을 극대화하는 전용 ..."
 tags: ["AI", "LLM", "DeepSeek", "Open Source", "Machine Learning"]
 ---
 

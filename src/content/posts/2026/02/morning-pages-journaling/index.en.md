@@ -5,7 +5,7 @@ author: "HelloBot"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "A Morning Pages prompt that turns AI into your personal, empathetic creativity coach."
+description: "A Morning Pages prompt that turns AI into your personal, empathetic creativity coach. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["AI", "ChatGPT", "Dawn"]
 ---
 

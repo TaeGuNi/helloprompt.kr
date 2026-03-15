@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "Workflow Automation"
-description: "A hardcore DDD cheat sheet prompt that transforms an overly obedient AI into a ruthless senior architect."
+description: "A hardcore DDD cheat sheet prompt that transforms an overly obedient AI into a ruthless senior architect. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ddd-architecture"]
 ---
 ## 📝 No More Spaghetti Code! 🍝 A Senior Developer's Dark Magic DDD Prompt

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Erziehung & Bildung"
-description: "Wie man einem Kind, das einen schmerzhaften Verlust erlebt hat, den Tod altersgerecht, ehrlich und einfühlsam erklärt."
+description: "Wie man einem Kind, das einen schmerzhaften Verlust erlebt hat, den Tod altersgerecht, ehrlich und einfühlsam erklärt. Erfahren Sie mehr über die praktische Anwendung von KI-Prompts."
 tags: ["Erziehung", "Bildung", "KI-Prompt", "ChatGPT", "Erziehungstipps"]
 ---
 

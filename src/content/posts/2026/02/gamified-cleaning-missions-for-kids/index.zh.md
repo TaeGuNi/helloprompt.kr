@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "育儿 & 教育"
-description: "每天都在为收玩具对孩子大吼大叫？试试这个游戏化（Gamification）育儿AI提示词，让孩子在10分钟内主动把房间收拾干净！"
+description: "每天都在为收玩具对孩子大吼大叫？试试这个游戏化（Gamification）育儿AI提示词，让孩子在10分钟内主动把房间收拾干净！ 详细介绍AI提示词的使用方法与实战技巧。 | 지저분한 방을 단 10분 만에 치우게 만드는 마법 같은 게임화(Gamification) 프롬프트 전략"
 tags: ["育儿", "教育", "AI提示词", "ChatGPT", "育儿妙招"]
 ---
 

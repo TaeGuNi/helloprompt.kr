@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Content Creation"
-description: "Prompt OSMU (One Source Multi-Use) basato sull'IA per trasformare un singolo articolo in molteplici formati social."
+description: "Prompt OSMU (One Source Multi-Use) basato sull'IA per trasformare un singolo articolo in molteplici formati social. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags: ["콘텐츠마케팅", "인스타그램", "링크드인", "Productivity"]
 ---
 

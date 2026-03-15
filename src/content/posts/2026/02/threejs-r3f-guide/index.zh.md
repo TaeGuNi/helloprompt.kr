@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "General"
-description: "想要在网站上展示 3D 模型？这是一份利用 React Three Fiber 和 AI 快速实现华丽交互的终极指南，让你无需图形学基础也能打造沉浸式体验。"
+description: "想要在网站上展示 3D 模型？这是一份利用 React Three Fiber 和 AI 快速实现华丽交互的终极指南，让你无需图形学基础也能打造沉浸式体验。 详细介绍AI提示词的使用方法与实战技巧。 | 밋밋한 웹사이트에 생동감을 불어넣고 싶으신가요? React Three Fiber(R3F)와 AI 프롬프트를 활용해 개발자 없이도 화려한 3D 인터랙션 씬을 빠르고 완벽하게..."
 tags: ["Three.js", "R3F", "3D웹", "React", "Frontend"]
 ---
 

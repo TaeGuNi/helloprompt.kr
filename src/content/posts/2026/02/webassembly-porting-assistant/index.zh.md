@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 category: "开发生产力"
-description: "突破 Web 性能极限！这是一个零拷贝（Zero-copy）内存优化提示词，可帮助您快速、安全地将现有的 C++、Rust 代码移植到 WebAssembly。"
+description: "突破 Web 性能极限！这是一个零拷贝（Zero-copy）内存优化提示词，可帮助您快速、安全地将现有的 C++、Rust 代码移植到 WebAssembly。 详细介绍AI提示词的使用方法与实战技巧。 | 웹 성능의 한계를 돌파하세요! 기존 C++, Rust 코드를 웹어셈블리로 빠르고 안전하게 포팅해 주는 제로 카피(Zero-copy) 메모리 최적화 프롬프트입니다."
 tags: ["WebAssembly", "Rust", "Performance"]
 ---
 

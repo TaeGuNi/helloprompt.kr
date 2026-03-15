@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "General"
-description: "从源头上杜绝 AI 废话与面条代码！资深前端架构师打造的 React & Next.js 冷酷提示词，强迫 AI 输出完美架构的作弊码。"
+description: "从源头上杜绝 AI 废话与面条代码！资深前端架构师打造的 React & Next.js 冷酷提示词，强迫 AI 输出完美架构的作弊码。 详细介绍AI提示词的使用方法与实战技巧。 | AI가 생성하는 스파게티 코드와 렌더링 지옥을 원천 차단하세요. Next.js와 React 프로젝트의 완벽한 아키텍처를 강제하는 시니어 개발자의 실전 프롬프트 치트키입니다."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "react-next-architecture"]
 ---
 

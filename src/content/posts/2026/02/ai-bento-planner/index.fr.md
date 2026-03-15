@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Health"
-description: "Des recettes de bento saines et ultra-rapides, prêtes en 10 minutes avec les restes de votre frigo."
+description: "Des recettes de bento saines et ultra-rapides, prêtes en 10 minutes avec les restes de votre frigo. Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags: ["점심", "도시락", "Cooking", "건강식"]
 ---
 

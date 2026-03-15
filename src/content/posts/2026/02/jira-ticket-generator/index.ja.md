@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "Workflow Automation"
-description: "企画書を読んでチケットを分割するのが仕事であるPMのためのプロンプト。Epic、Story、Taskの構造化を自動化し、業務効率を劇的に向上させます。"
+description: "企画書を読んでチケットを分割するのが仕事であるPMのためのプロンプト。Epic、Story、Taskの構造化を自動化し、業務効率を劇的に向上させます。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 기획서 읽고 티켓 쪼개는 게 일인 PM을 위한 맞춤형 프롬프트입니다. Epic, Story, Task 구조화 작업을 단 1분 만에 자동화해 보세요."
 tags: ["Jira", "지라", "PM", "Planning", "애자일"]
 ---
 

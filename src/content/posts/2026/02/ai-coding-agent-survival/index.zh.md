@@ -1,7 +1,7 @@
 ---
 author: HelloPrompt
 date: "2026-02-15"
-description: "在GitHub Copilot X2等自主智能体全面普及的时代，这份详尽的提示词指南将助您打破思维定势，从亲力亲为的“编码者”成功蜕变为运筹帷幄的“AI代码管理者”。"
+description: "在GitHub Copilot X2等自主智能体全面普及的时代，这份详尽的提示词指南将助您打破思维定势，从亲力亲为的“编码者”成功蜕变为运筹帷幄的“AI代码管理者”。 详细介绍AI提示词的使用方法与实战技巧。 | GitHub Copilot X2, Devin 등 자율 코딩 에이전트 시대. 단순 코더에서 AI 매니저로 완벽히 진화하기 위한 강력한 실전 프롬프트와 업무 위임 프..."
 tags:
   - AI
   - DevOps

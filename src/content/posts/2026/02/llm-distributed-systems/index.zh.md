@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "业务自动化"
-description: "控制 LLM 的不可预测性！这是一份利用 Petri 网 (Petri Nets) 设计安全稳健的分布式系统架构的实战提示词指南。"
+description: "控制 LLM 的不可预测性！这是一份利用 Petri 网 (Petri Nets) 设计安全稳健的分布式系统架构的实战提示词指南。 详细介绍AI提示词的使用方法与实战技巧。 | LLM의 예측 불가능성을 통제하라! 페트리 넷(Petri Nets)을 활용해 안전하고 견고한 분산 시스템 아키텍처를 설계하는 실무 프롬프트 가이드입니다."
 image: "https://picsum.photos/seed/distributed/800/600"
 tags: ["AI", "Tech", "llm-distributed-systems"]
 ---

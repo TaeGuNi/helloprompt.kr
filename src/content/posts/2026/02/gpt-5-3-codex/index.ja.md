@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-17"
 updatedDate: "2026-02-17"
 category: "Technology"
-description: "OpenAIの超高速コーディングAI、GPT-5.3 Codex Sparkを紹介します。15ms未満の遅延時間と200kコンテキストウィンドウにより、リアルタイムのリファクタリングと完璧なプロジェクトレベルのデバッグを体験してください。"
+description: "OpenAIの超高速コーディングAI、GPT-5.3 Codex Sparkを紹介します。15ms未満の遅延時間と200kコンテキストウィンドウにより、リアルタイムのリファクタリングと完璧なプロジェクトレベルのデバッグを体験してください。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["AI", "GPT-5.3", "Codex", "OpenAI", "Development"]
 ---
 

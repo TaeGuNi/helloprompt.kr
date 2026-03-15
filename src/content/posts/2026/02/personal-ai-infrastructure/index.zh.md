@@ -2,7 +2,7 @@
 title: "构建个人 AI 基础设施：为什么要拥有自己的 AI 技术栈"
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "了解如何构建个人 AI 基础设施，摆脱 SaaS 依赖，获得绝对的数据隐私和高度定制的自由。"
+description: "了解如何构建个人 AI 基础设施，摆脱 SaaS 依赖，获得绝对的数据隐私和高度定制的自由。 详细介绍AI提示词的使用方法与实战技巧。 | 월 구독료와 데이터 유출 걱정은 이제 그만! SaaS 의존에서 벗어나 완벽한 프라이버시와 커스텀 자유도를 보장하는 로컬 AI 인프라 구축 방법을 알아봅니다."
 author: "Hello Prompt"
 tags: ["AI", "Infrastructure", "Privacy", "Daniel Miessler"]
 ---

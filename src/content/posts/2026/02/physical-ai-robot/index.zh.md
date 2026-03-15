@@ -1,6 +1,6 @@
 ---
 title: "Physical AI：当 AI 获得身体时"
-description: "LG AI 研究院的 EXAONE 与机器人学的碰撞。为您介绍应对物理 AI 时代、推导业务应用场景的提示词。"
+description: "LG AI 研究院的 EXAONE 与机器人学的碰撞。为您介绍应对物理 AI 时代、推导业务应用场景的提示词。 详细介绍AI提示词的使用方法与实战技巧。 | LG AI연구원의 엑사원(EXAONE)과 로봇 공학의 만남. 피지컬 AI 시대에 대비하는 비즈니스 적용 시나리오 도출 프롬프트를 소개합니다."
 date: "2026-02-14"
 cover: "./cover.jpg"
 tags: ["物理 AI", "机器人策划", "新业务", "提示词"]

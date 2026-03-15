@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatización del Trabajo"
-description: "Crea una narrativa de propuesta irresistible que persuada a tus clientes de inmediato."
+description: "Crea una narrativa de propuesta irresistible que persuada a tus clientes de inmediato. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 ---
 

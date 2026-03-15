@@ -5,7 +5,7 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Development
-description: "这款 AI 提示词可以诊断难以阅读的乱麻代码，并指出清晰的重构要点。让缠绕的逻辑瞬间蜕变为优雅且易于维护的整洁代码。"
+description: "这款 AI 提示词可以诊断难以阅读的乱麻代码，并指出清晰的重构要点。让缠绕的逻辑瞬间蜕变为优雅且易于维护的整洁代码。 详细介绍AI提示词的使用方法与实战技巧。 | 읽기 힘든 스파게티 코드를 진단하고 명확한 리팩토링 포인트를 짚어주는 AI 프롬프트입니다. 얽힌 로직을 단숨에 우아하고 유지보수하기 쉬운 클린 코드로 탈바꿈시켜 보세요."
 tags: [AI, Refactoring, Clean Code, Development]
 image: "/images/hooks/code-complexity-analyzer.jpg"
 ---

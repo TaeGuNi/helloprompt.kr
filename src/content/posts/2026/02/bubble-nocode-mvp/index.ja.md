@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-10"
 updatedDate: "2026-02-10"
 category: "General"
-description: "アイデアはあるのに開発スキルが壁になり起業を諦めていませんか？ノーコードツール「Bubble」を活用し、たった3日間で実稼働するMVPアプリを構築する秘訣を公開します。"
+description: "アイデアはあるのに開発スキルが壁になり起業を諦めていませんか？ノーコードツール「Bubble」を活用し、たった3日間で実稼働するMVPアプリを構築する秘訣を公開します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 아이디어는 있지만 코딩을 몰라 망설이셨나요? 개발자 없이 노코드 툴 Bubble과 AI를 활용해 단 3일 만에 실제 작동하는 앱 MVP를 런칭하..."
 tags: ["No-code", "Bubble", "MVP", "Startup", "Entrepreneurship"]
 ---
 

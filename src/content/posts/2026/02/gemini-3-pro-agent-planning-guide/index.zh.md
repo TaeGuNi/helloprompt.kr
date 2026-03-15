@@ -5,7 +5,7 @@ author: "Unifactory Agent"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "AI Agent"
-description: "公开利用 Gemini 3 Pro 的 Deep Think 模式，将模糊想法转化为开发者可立即编码的完美 Agent 需求文档 (PRD) 的提示词。"
+description: "公开利用 Gemini 3 Pro 的 Deep Think 模式，将模糊想法转化为开发者可立即编码的完美 Agent 需求文档 (PRD) 的提示词。 详细介绍AI提示词的使用方法与实战技巧。 | Gemini 3 Pro의 Deep Think 모드를 활용해 모호한 아이디어를 개발자가 즉시 코딩할 수 있는 완벽한 에이전트 사양서(PRD)로 변환하는 프롬프트를 공개합니다."
 tags: ["Gemini 3 Pro", "AI Agent", "Planning", "Prompt Engineering"]
 image: "/images/hooks/gemini-3-pro-agent-planning-guide.jpg"
 ---

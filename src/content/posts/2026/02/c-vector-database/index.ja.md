@@ -1,6 +1,6 @@
 ---
 title: "Header-only C Vector Database"
-description: "依存関係ゼロ！超軽量な組み込みAI環境に最適な、C言語ベースのヘッダーオンリー(Header-only)ベクトルデータベースを瞬時に実装するプロンプトです。"
+description: "依存関係ゼロ！超軽量な組み込みAI環境に最適な、C言語ベースのヘッダーオンリー(Header-only)ベクトルデータベースを瞬時に実装するプロンプトです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 의존성 없는 초경량 임베디드 AI 환경을 위한 C 언어 기반 헤더 전용(Header-only) 벡터 데이터베이스 구현 프롬프트입니다."
 date: 2026-02-15
 tags: ["C", "Open Source", "Database", "AI"]
 ---

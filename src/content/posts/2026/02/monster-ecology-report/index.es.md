@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.146Z"
 updatedDate: "2026-02-07T09:10:33.147Z"
 category: "Creative & Hobbies"
-description: "Un prompt para diseñar monstruos originales con ecosistemas, hábitos y botines detallados en solo 5 minutos usando IA."
+description: "Un prompt para diseñar monstruos originales con ecosistemas, hábitos y botines detallados en solo 5 minutos usando IA. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["크리처", "몬스터", "게임기획", "판타지", "설정"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: " \"告别繁冗细节，用低多边形（Low Poly）与体素（Voxel）艺术风格打造极具辨识度的 3D 几何美学。一键掌握折纸与像素积木的高级质感提示词。\""
+description: " \\"告别繁冗细节，用低多边形（Low Poly）与体素（Voxel）艺术风格打造极具辨识度的 3D 几何美学。一键掌握折纸与像素积木的高级质感提示词。\\" 详细介绍AI提示词的使用方法与实战技巧。 | 종이접기나 마인크래프트처럼 감각적인 다각형 에셋이 필요하신가요? 단 1분 만에 세련된 로우 폴리(Low Poly) 및 복셀 아트를 생성하는 완벽한 프롬프트를 만나보세요."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "3D", "Art Style"]
 ---
 

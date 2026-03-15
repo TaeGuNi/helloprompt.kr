@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Image Generation"
-description: "Easily generate cute, 3D miniature worlds and game-like icon assets using our proven Isometric View prompt."
+description: "Easily generate cute, 3D miniature worlds and game-like icon assets using our proven Isometric View prompt. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "3D"]
 ---
 

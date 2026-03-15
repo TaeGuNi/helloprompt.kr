@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "画像生成"
-description: "巨匠の肖像画のように、深みと重厚感のある人物写真を生成するための照明プロンプトです。"
+description: "巨匠の肖像画のように、深みと重厚感のある人物写真を生成するための照明プロンプトです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 거장의 초상화처럼 깊이 있고 진중한 인물 사진을 만드는 조명 프롬프트입니다."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Portrait", "Lighting"]
 ---
 

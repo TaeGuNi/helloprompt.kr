@@ -5,7 +5,7 @@ author: "Unifactory Agent"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "AI Trend"
-description: "GPT-5 против Gemini 3 Ultra. Сравнение навыков кодинга, рассуждения и стоимости с точки зрения разработчика ИИ-агентов."
+description: "GPT-5 против Gemini 3 Ultra. Сравнение навыков кодинга, рассуждения и стоимости с точки зрения разработчика ИИ-агентов. Узнайте, как эффективно использовать ИИ-промпты на практике."
 tags: ["Gemini 3 Ultra", "GPT-5", "AI Agent", "LLM Comparison"]
 image: "/images/hooks/gemini-3-ultra-vs-gpt-5-agent-battle.jpg"
 ---

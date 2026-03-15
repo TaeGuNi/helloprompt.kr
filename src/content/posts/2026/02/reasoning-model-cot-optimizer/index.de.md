@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 category: "General"
-description: "Ein Chain-of-Thought (CoT) Prompt-Design, das die Leistung von Reasoning-KIs wie Gemini 3 und DeepSeek maximiert."
+description: "Ein Chain-of-Thought (CoT) Prompt-Design, das die Leistung von Reasoning-KIs wie Gemini 3 und DeepSeek maximiert. Erfahren Sie mehr über die praktische Anwendung von KI-Prompts."
 tags: ["AI", "Prompt Engineering", "CoT"]
 ---
 

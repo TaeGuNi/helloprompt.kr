@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "Workflow Automation"
-description: "专为整理 Ticket 感到头疼的 PM 打造的超强提示词。一键将产品需求文档结构化拆解为 Epic、Story 和 Task，瞬间解放双手。"
+description: "专为整理 Ticket 感到头疼的 PM 打造的超强提示词。一键将产品需求文档结构化拆解为 Epic、Story 和 Task，瞬间解放双手。 详细介绍AI提示词的使用方法与实战技巧。 | 기획서 읽고 티켓 쪼개는 게 일인 PM을 위한 맞춤형 프롬프트입니다. Epic, Story, Task 구조화 작업을 단 1분 만에 자동화해 보세요."
 tags: ["Jira", "지라", "PM", "Planning", "애자일"]
 ---
 

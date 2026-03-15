@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: "打造温暖感性照片的终极作弊代码——在提示词中巧妙运用黄金时刻（Golden Hour）的完美指南，让你的AI图像瞬间充满电影般的质感与故事感。"
+description: "打造温暖感性照片的终极作弊代码——在提示词中巧妙运用黄金时刻（Golden Hour）的完美指南，让你的AI图像瞬间充满电影般的质感与故事感。 详细介绍AI提示词的使用方法与实战技巧。 | 평범한 AI 이미지를 한순간에 화보로 만드는 마법의 키워드, '골든 아워(Golden Hour)' 조명 프롬프트 실전 활용 가이드입니다."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Photography", "Lighting"]
 ---
 

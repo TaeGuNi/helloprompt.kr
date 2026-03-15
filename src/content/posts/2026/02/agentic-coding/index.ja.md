@@ -5,7 +5,7 @@ author: "HelloPrompt"
 date: "2026-02-16"
 updatedDate: "2026-03-08"
 category: "業務効率化"
-description: "単なるコーディング補助を超え、AIが自ら企画・実装・検証までを完遂する『エージェンティック・ワークフロー』の実務導入ガイドとプロンプトを紹介。開発生産性を劇的に向上させるCursorやWindsurfの活用法を解説します。"
+description: "単なるコーディング補助を超え、AIが自ら企画・実装・検証までを完遂する『エージェンティック・ワークフロー』の実務導入ガイドとプロンプトを紹介。開発生産性を劇的に向上させるCursorやWindsurfの活用法を解説します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["AI", "DevTools", "Cursor", "Windsurf", "Productivity"]
 ---
 

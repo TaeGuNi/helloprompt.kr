@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "業務効率化"
-description: "単なる単語マッチングであるベクトル検索の限界を超え、Neo4jとLangChainベースのGraphRAGでObsidianノート内の隠れたインサイトを有機的に繋ぐ実戦プロンプトガイドです。"
+description: "単なる単語マッチングであるベクトル検索の限界を超え、Neo4jとLangChainベースのGraphRAGでObsidianノート内の隠れたインサイトを有機的に繋ぐ実戦プロンプトガイドです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["ai", "rag", "graphrag", "neo4j", "langchain", "pkm", "obsidian"]
 cover: "./cover.png"
 ---

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-10"
 updatedDate: "2026-02-10"
 category: "Workflow Automation"
-description: "每天如潮水般涌来的英文邮件，让 AI 在您上班前就阅读完毕并起草好定制回复。零代码打造您的专属 24 小时智能秘书系统。"
+description: "每天如潮水般涌来的英文邮件，让 AI 在您上班前就阅读完毕并起草好定制回复。零代码打造您的专属 24 小时智能秘书系统。 详细介绍AI提示词的使用方法与实战技巧。 | 밤새 쌓인 영어 이메일, 출근 전 AI가 완벽한 비즈니스 영어로 답장 초안을 작성합니다. Zapier와 ChatGPT를 활용한 노코드 24시간 글로벌 비서 세팅법을 확인하세요."
 tags: ["이메일", "Automation", "Zapier", "ChatGPT", "영어"]
 ---
 

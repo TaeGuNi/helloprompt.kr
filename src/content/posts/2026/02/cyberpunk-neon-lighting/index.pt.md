@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.168Z"
 updatedDate: "2026-02-07T09:10:33.168Z"
 category: "Geração de Imagens"
-description: "Guia de prompts para iluminação neon cyberpunk, criando atmosferas impactantes com contrastes vibrantes de rosa e azul."
+description: "Guia de prompts para iluminação neon cyberpunk, criando atmosferas impactantes com contrastes vibrantes de rosa e azul. Descubra como usar prompts de IA de forma prática e eficaz."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Sci-Fi", "Color"]
 image: "/images/hooks/cyberpunk-neon-lighting.jpg"
 ---

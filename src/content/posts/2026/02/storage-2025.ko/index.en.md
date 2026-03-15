@@ -1,6 +1,6 @@
 ---
 title: "2025 Backblaze Drive Stats: The Reality of AI Storage"
-description: "An analysis of drive reliability in the era of massive AI datasets."
+description: "An analysis of drive reliability in the era of massive AI datasets. Learn how to use AI prompts effectively with practical examples and expert tips."
 date: "2026-02-15"
 tags: ["storage", "hardware", "data"]
 ---

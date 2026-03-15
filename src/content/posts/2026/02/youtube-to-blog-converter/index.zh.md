@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "内容创作"
-description: "将单一 YouTube 视频脚本无限复刻为博客、Instagram 和 Twitter 贴文。公开 OSMU 终极内容再加工自动化流水线提示词。"
+description: "将单一 YouTube 视频脚本无限复刻为博客、Instagram 和 Twitter 贴文。公开 OSMU 终极内容再加工自动化流水线提示词。 详细介绍AI提示词的使用方法与实战技巧。 | 단 하나의 유튜브 영상 대본을 블로그, 인스타그램, 트위터 포스팅으로 무한 복제해 보세요. OSMU 끝판왕, 콘텐츠 재가공 자동화 파이프라인 구축 프롬프트를 공개합니다."
 tags: ["YouTube", "博客", "OSMU", "内容再加工", "ChatGPT"]
 image: "/images/hooks/youtube-to-blog-converter.jpg"
 ---

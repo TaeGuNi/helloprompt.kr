@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "编码/开发"
-description: "只需输入项目规模与核心需求，即可让 AI 为您量身定制 MVC、Clean Architecture 等最适合的软件架构设计方案与详细目录结构。"
+description: "只需输入项目规模与核心需求，即可让 AI 为您量身定制 MVC、Clean Architecture 等最适合的软件架构设计方案与详细目录结构。 详细介绍AI提示词的使用方法与实战技巧。 | 프로젝트 규모와 요구사항을 입력하면 MVC, Clean Architecture, MSA 등 내 서비스에 딱 맞는 최적의 소프트웨어 아키텍처를 설계해 주는 프롬프트입니다."
 tags: ["架构", "设计", "设计模式", "系统设计", "MSA"]
 ---
 

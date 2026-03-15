@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "業務自動化"
-description: "チームのモチベーションを高める目標（Objective）と、測定可能な主要な結果（Key Results）を効果的に設定するための実践的プロンプトガイド。"
+description: "チームのモチベーションを高める目標（Objective）と、測定可能な主要な結果（Key Results）を効果的に設定するための実践的プロンプトガイド。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 구글이 쓰는 진짜 OKR 작성법! AI 코치와 함께 가슴 뛰는 목표(Objective)와 냉철하게 측정 가능한 핵심 결과(Key Result)를 단 3분 만..."
 tags: ["業務効率", "Excel", "報告書", "ChatGPT"]
 ---
 

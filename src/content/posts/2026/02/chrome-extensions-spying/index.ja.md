@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Security"
-description: "ブラウジングデータを密かに収集する悪意のあるChrome拡張機能を、AIを用いて確実に見極めるための完全ガイド。"
+description: "ブラウジングデータを密かに収集する悪意のあるChrome拡張機能を、AIを用いて確実に見極めるための完全ガイド。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 내 브라우징 데이터를 몰래 수집하는 악성 크롬 확장프로그램을 AI로 정확하게 판별하고 차단하는 완벽 가이드입니다. 1분 만에 스파이웨어를 색출하세요."
 tags: ["Security", "Chrome", "Privacy", "Browser"]
 ---
 

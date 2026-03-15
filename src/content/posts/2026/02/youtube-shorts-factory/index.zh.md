@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "内容创作"
-description: "将爆款短视频公式 (Hook-Body-CTA) 注入AI，无限量产脚本的方法。"
+description: "将爆款短视频公式 (Hook-Body-CTA) 注入AI，无限量产脚本的方法。 详细介绍AI提示词的使用方法与实战技巧。 | 조회수 터지는 숏폼 공식(Hook-Body-CTA)을 AI에게 학습시켜 30초 만에 대본과 촬영 큐시트를 무한 생산하는 완벽한 프롬프트 가이드입니다."
 tags: ["YouTube", "Shorts", "脚本写作", "创作者", "TikTok"]
 ---
 

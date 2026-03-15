@@ -1,6 +1,6 @@
 ---
 title: "Backblaze Drive Stats 2025: The Reality of AI Storage"
-description: "在大规模 AI 数据集时代，基于 Backblaze 2025 数据分析存储可靠性，并快速生成企业级 AI 硬件引入规划书的专属提示词。"
+description: "在大规模 AI 数据集时代，基于 Backblaze 2025 数据分析存储可靠性，并快速生成企业级 AI 硬件引入规划书的专属提示词。 详细介绍AI提示词的使用方法与实战技巧。 | 방대한 AI 데이터셋 시대, 객관적인 스토리지 신뢰성 데이터를 분석하여 최적의 하드웨어 도입 기획서를 작성하는 프롬프트"
 date: "2026-02-15"
 tags: ["storage", "hardware", "data"]
 ---

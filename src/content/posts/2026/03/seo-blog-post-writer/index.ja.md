@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: " "
-description: "マーケター必見。Google検索エンジンに最適化されたSEOブログ記事を自動生成するプロンプトです。1回のコピペで、3時間かかっていた執筆作業を5分で完了させ、圧倒的な成果を生み出しましょう。"
+description: "マーケター必見。Google検索エンジンに最適化されたSEOブログ記事を自動生成するプロンプトです。1回のコピペで、3時間かかっていた執筆作業を5分で完了させ、圧倒的な成果を生み出しましょう。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "seo-blog-post-w"]
 ---
 

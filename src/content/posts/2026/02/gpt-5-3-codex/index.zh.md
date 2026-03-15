@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-17"
 updatedDate: "2026-02-17"
 category: "Technology"
-description: "为您介绍 OpenAI 的超高速编程 AI——GPT-5.3 Codex Spark。凭借低于 15ms 的延迟和 200k 上下文窗口，带您体验实时重构和完美的项目级调试。"
+description: "为您介绍 OpenAI 的超高速编程 AI——GPT-5.3 Codex Spark。凭借低于 15ms 的延迟和 200k 上下文窗口，带您体验实时重构和完美的项目级调试。 详细介绍AI提示词的使用方法与实战技巧。 | OpenAI의 초고속 코딩 AI, GPT-5.3 Codex Spark를 소개합니다. 15ms 미만의 지연 시간과 200k 컨텍스트 윈도우로 실시간 리팩토링..."
 tags: ["AI", "GPT-5.3", "Codex", "OpenAI", "Development"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "General"
-description: "LLMフレームワークの2大巨頭を徹底比較。汎用性のLangChainか、データ処理に特化したLlamaIndexか。プロジェクトに最適なツール選びをサポートする実践ガイド。"
+description: "LLMフレームワークの2大巨頭を徹底比較。汎用性のLangChainか、データ処理に特化したLlamaIndexか。プロジェクトに最適なツール選びをサポートする実践ガイド。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | LLM 프레임워크의 양대 산맥 비교. 범용성과 에이전트 제어의 LangChain, 압도적 문서 검색과 RAG 성능의 LlamaIndex 중 ..."
 tags: ["LangChain", "LlamaIndex", "LLM", "AI프레임워크", "Development"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-10"
 updatedDate: "2026-02-10"
 category: "Workflow Automation"
-description: " \"毎日届く大量の英語メール。出勤前にAIが文脈を読み取り、最適な返信ドラフトを自動生成します。ZapierとChatGPTを使い、ノーコードで構築する「24時間稼働のAI秘書」のセットアップ方法を徹底解説。\""
+description: " \"毎日届く大量の英語メール。出勤前にAIが文脈を読み取り、最適な返信ドラフトを自動生成します。ZapierとChatGPTを使い、ノーコードで構築する「24時間稼働のAI秘書」のセットアップ方法を徹底解説。\" AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["이메일", "Automation", "Zapier", "ChatGPT", "영어"]
 ---
 

@@ -4,7 +4,7 @@ title: "Off Grid：在智能手机上离线运行 AI 模型"
 author: "Assistant"
 date: "2026-02-15"
 category: "AI Tools"
-description: "即使在飞行模式下也能完美运行的随身 AI 助手。无需联网，即可在智能手机上最安全地分析文本、图像和机密文件的 'Off Grid' 完整使用指南及优化提示词。"
+description: "即使在飞行模式下也能完美运行的随身 AI 助手。无需联网，即可在智能手机上最安全地分析文本、图像和机密文件的 'Off Grid' 完整使用指南及优化提示词。 详细介绍AI提示词的使用方法与实战技巧。 | 비행기 모드에서도 완벽하게 작동하는 내 손안의 AI 비서. 인터넷 연결 없이 스마트폰에서 텍스트, 이미지, 기밀문서를 가장 안전하게 분석하는 'Off Grid' 완벽 활..."
 tags: ["AI", "Local LLM", "Mobile", "Offline", "Privacy", "Open Source"]
 ---
 

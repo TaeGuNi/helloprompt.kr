@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "AI 开发"
-description: "结合量子计算与 AI，构建量子 AI 混合模型的提示词。无需复杂公式，5 分钟即可生成连接 QPU 与 GPU 的流水线代码。"
+description: "结合量子计算与 AI，构建量子 AI 混合模型的提示词。无需复杂公式，5 分钟即可生成连接 QPU 与 GPU 的流水线代码。 详细介绍AI提示词的使用方法与实战技巧。 | 양자 컴퓨팅과 AI의 결합, 퀀텀 AI 하이브리드 모델을 구축하는 프롬프트입니다. 복잡한 수식 없이 5분 만에 QPU와 GPU를 연결하는 파이프라인 코드를 생성하세요."
 image: "https://picsum.photos/seed/quantum/800/600"
 tags: ["AI", "Tech", "quantum-ai-hybrids-2026"]
 ---

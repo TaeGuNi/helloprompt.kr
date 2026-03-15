@@ -5,7 +5,7 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: AI & Productivity
-description: "不要再盲目模仿他人的奇迹早晨而感到挫败了。本文将揭秘如何利用 ChatGPT 打造完美契合个人生活方式和能量状态的“超个性化晨间习惯”设计秘诀。"
+description: "不要再盲目模仿他人的奇迹早晨而感到挫败了。本文将揭秘如何利用 ChatGPT 打造完美契合个人生活方式和能量状态的“超个性化晨间习惯”设计秘诀。 详细介绍AI提示词的使用方法与实战技巧。 | 남의 미라클 모닝을 억지로 따라 하며 좌절하지 마세요. ChatGPT를 활용해 내 라이프스타일과 에너지 레벨에 완벽하게 맞춰진 '초개인화 아침 루틴' 설계 비법을 공개합니다."
 tags: [AI, ChatGPT, Prompt]
 image: "/images/hooks/miracle-morning-routine-planner.jpg"
 ---

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generación de Imágenes"
-description: "Prompt de iluminación para crear retratos profundos y dramáticos con calidad de obra maestra."
+description: "Prompt de iluminación para crear retratos profundos y dramáticos con calidad de obra maestra. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Retrato", "Iluminación"]
 ---
 

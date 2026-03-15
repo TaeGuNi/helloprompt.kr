@@ -3,7 +3,7 @@ layout: ../../../layouts/MarkdownPostLayout.astro
 title: " \"LLMアプリとRAG構築のための完全ガイド\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "awesome-llm-appsを活用し、実戦的で強力なLLMアプリケーションとRAGパイプラインを構築するためのプロンプトとノウハウを完全解説します。"
+description: "awesome-llm-appsを活用し、実戦的で強力なLLMアプリケーションとRAGパイプラインを構築するためのプロンプトとノウハウを完全解説します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 방대한 LLM 앱 생태계에서 길을 잃으셨나요? 비즈니스 요구사항에 딱 맞는 RAG 파이프라인과 아키텍처를 10분 만에 설계해 주는 시니어 아키텍트 프롬프트."
 author: "Hello Prompt"
 tags: ["LLM", "RAG", "AI", "Development", "Guide"]
 ---

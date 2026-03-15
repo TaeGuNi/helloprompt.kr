@@ -5,7 +5,7 @@ author: "Unifactory Editor"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "办公自动化"
-description: "LLM 的全新连接标准：MCP (Model Context Protocol)。告别每次手动复制粘贴上下文的繁琐，立即查看这个能将本地数据直接连接到 Claude 或 Ollama 的自定义服务端构建提示词。"
+description: "LLM 的全新连接标准：MCP (Model Context Protocol)。告别每次手动复制粘贴上下文的繁琐，立即查看这个能将本地数据直接连接到 Claude 或 Ollama 的自定义服务端构建提示词。 详细介绍AI提示词的使用方法与实战技巧。"
 tags: ["MCP", "Model Context Protocol", "Local LLM", "TypeScript", "Ollama", "Claude"]
 image: "/images/2026/02/16/mcp-server-tutorial.jpg"
 ---

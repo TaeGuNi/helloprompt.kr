@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viajes"
-description: "¿Cuánta propina dejar? ¿Qué gestos evitar? Descubre cómo evitar ser el típico turista maleducado usando la IA."
+description: "¿Cuánta propina dejar? ¿Qué gestos evitar? Descubre cómo evitar ser el típico turista maleducado usando la IA. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["Viajes", "Etiqueta", "Cultura", "Modales"]
 ---
 

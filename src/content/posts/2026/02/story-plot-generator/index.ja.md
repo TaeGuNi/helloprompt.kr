@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "業務効率化"
-description: "ウェブ小説作家の救世主となるAIプロット生成器。ありきたりなクリシェを捻り、読者のドーパミンを刺激する葛藤構造を設計。深刻な執筆スランプ（Writer's Block）から一瞬で脱出しましょう。"
+description: "ウェブ小説作家の救世主となるAIプロット生成器。ありきたりなクリシェを捻り、読者のドーパミンを刺激する葛藤構造を設計。深刻な執筆スランプ（Writer's Block）から一瞬で脱出しましょう。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["タグ1", "タグ2"]
 image: "/images/hooks/story-plot-generator.jpg"
 ---

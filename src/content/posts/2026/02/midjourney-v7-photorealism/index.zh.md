@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "设计/生成式 AI"
-description: "无需支付昂贵的摄影棚租金和专业设备费用，本文将公开能 100% 激发 Midjourney v7 极超写实（Hyper-Realism）渲染潜力的核心大师级提示词。"
+description: "无需支付昂贵的摄影棚租金和专业设备费用，本文将公开能 100% 激发 Midjourney v7 极超写实（Hyper-Realism）渲染潜力的核心大师级提示词。 详细介绍AI提示词的使用方法与实战技巧。 | 수백만 원대 스튜디오 대관료와 전문 촬영 장비 없이도, 미드저니 v7의 극사실주의(Hyper-Realism) 렌더링 잠재력을 100% 끌어내는 하이엔드 마스터 프롬..."
 tags: ["Midjourney", "图像生成", "设计", "提示词"]
 image: "/images/hooks/midjourney-v7-photorealism.jpg"
 ---

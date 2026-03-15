@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "Workflow Automation"
-description: "如果单个AI无法满足需求怎么办？为您揭秘能让多个AI像团队一样协同工作的'多智能体'协作提示词，助您轻松驾驭复杂项目策划。"
+description: "如果单个AI无法满足需求怎么办？为您揭秘能让多个AI像团队一样协同工作的'多智能体'协作提示词，助您轻松驾驭复杂项目策划。 详细介绍AI提示词的使用方法与实战技巧。 | 단일 AI의 한계를 넘고 싶으신가요? 전략가, 실행가, 비평가로 구성된 '멀티 에이전트' 팀을 구축해 복잡한 기획부터 실행 플랜까지 단 5분 만에 완성하는 실무 프롬프트를 공개합니다."
 tags: ["AI 에이전트", "Automation", "Prompt Engineering", "AutoGPT"]
 ---
 

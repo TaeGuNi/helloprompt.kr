@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: " "
-description: "告别死记硬背复杂的 Excel 公式与 VBA 代码。只需向 AI 描述数据结构，即可获取拿来即用的实战级代码，彻底终结加班烦恼。"
+description: "告别死记硬背复杂的 Excel 公式与 VBA 代码。只需向 AI 描述数据结构，即可获取拿来即用的实战级代码，彻底终结加班烦恼。 详细介绍AI提示词的使用方法与实战技巧。 | 구글링은 이제 그만! 복잡한 엑셀 수식과 VBA 코드를 더 이상 외울 필요 없습니다. 데이터 구조만 입력하면 AI가 실무에 즉시 투입 가능한 완벽한 코드를 1초 만에 완성해 줍니다."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "excel-formula-v"]
 ---
 

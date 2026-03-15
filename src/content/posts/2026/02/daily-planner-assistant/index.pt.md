@@ -5,7 +5,7 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Productivity
-description: "Manhãs caóticas? Resolva tudo de uma vez, desde a priorização até ao Time Blocking, com um único prompt de IA."
+description: "Manhãs caóticas? Resolva tudo de uma vez, desde a priorização até ao Time Blocking, com um único prompt de IA. Descubra como usar prompts de IA de forma prática e eficaz."
 tags: [AI, ChatGPT, Prompt, Productivity, DailyPlan]
 ---
 

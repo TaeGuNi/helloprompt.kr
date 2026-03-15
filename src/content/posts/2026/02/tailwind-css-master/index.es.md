@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "/"
-description: "Un conversor de IA que traduce atributos CSS como flex, grid o center a clases de Tailwind al instante."
+description: "Un conversor de IA que traduce atributos CSS como flex, grid o center a clases de Tailwind al instante. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["Tailwind", "CSS", "", "", ""]
 ---
 

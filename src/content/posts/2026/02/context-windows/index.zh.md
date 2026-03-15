@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "Work Automation"
-description: "防止 AI “短期失忆”的上下文窗口管理秘诀！公开在长对话中不丢失语境、克服 Token 限制的存档点策略。"
+description: "防止 AI “短期失忆”的上下文窗口管理秘诀！公开在长对话中不丢失语境、克服 Token 限制的存档点策略。 详细介绍AI提示词的使用方法与实战技巧。 | AI의 '단기 기억 상실증'을 막아주는 컨텍스트 윈도우 관리 비법! 긴 대화에서도 맥락을 잃지 않고 토큰 제한을 극복하는 세이브 포인트 전략을 공개합니다."
 tags: ["컨텍스트 윈도우", "Prompt Engineering", "AI 팁"]
 ---
 

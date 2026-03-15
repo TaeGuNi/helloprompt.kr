@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Health & Wellness"
-description: "在支付昂贵的私人教练费用之前，先问问 AI 吧！本指南教你如何利用 GPT-4o Vision 在不受伤的情况下最大化肌肉刺激，实现完美的居家训练姿势纠正。"
+description: "在支付昂贵的私人教练费用之前，先问问 AI 吧！本指南教你如何利用 GPT-4o Vision 在不受伤的情况下最大化肌肉刺激，实现完美的居家训练姿势纠正。 详细介绍AI提示词的使用方法与实战技巧。 | 비싼 PT 결제 전, AI에게 먼저 물어보세요! GPT-4o Vision을 활용해 부상 없이 근육 자극을 극대화하는 완벽한 홈트레이닝 자세 교정 가이드입니다."
 tags: ["Exercise", "Fitness", "PT", "스쿼트", "ChatGPT"]
 image: "/images/hooks/ai-workout-form-check.jpg"
 ---

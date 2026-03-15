@@ -1,6 +1,6 @@
 ---
 title: "NVIDIA B200 (RTX 6090 Ti) 发布日期确定：消费级 Blackwell 架构的黎明"
-description: "NVIDIA新一代消费级GPU架构——基于B200的RTX 6090 Ti发布日期终于尘埃落定。本文将带您抢先预览Blackwell架构带来的革命性性能提升与核心规格。"
+description: "NVIDIA新一代消费级GPU架构——基于B200的RTX 6090 Ti发布日期终于尘埃落定。本文将带您抢先预览Blackwell架构带来的革命性性能提升与核心规格。 详细介绍AI提示词的使用方法与实战技巧。 | NVIDIA의 차세대 소비자용 GPU B200 기반 RTX 6090 Ti의 출시 윤곽이 드러났습니다. 블랙웰 아키텍처가 가져올 압도적인 성능 향상과 핵심 사양을..."
 date: 2026-02-15
 cover: "https://picsum.photos/1600/900"
 tags: ["NVIDIA", "RTX 6090 Ti", "Blackwell", "GPU", "Tech News"]

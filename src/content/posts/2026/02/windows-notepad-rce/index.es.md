@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Security"
-description: " \"CVE-2026-20841: ¿Es posible ser hackeado con solo abrir el Bloc de notas?\""
+description: " \"CVE-2026-20841: ¿Es posible ser hackeado con solo abrir el Bloc de notas?\" Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["Security", "Windows", "Vulnerability", "CVE"]
 ---
 

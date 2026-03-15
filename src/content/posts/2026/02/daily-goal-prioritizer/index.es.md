@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: " \"El método inteligente para filtrar 'lo que realmente importa' entre una avalancha de tareas pendientes.\""
+description: " \"El método inteligente para filtrar 'lo que realmente importa' entre una avalancha de tareas pendientes.\" Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["Productivity", "Time Management", "Productivity", "아이젠하워"]
 ---
 

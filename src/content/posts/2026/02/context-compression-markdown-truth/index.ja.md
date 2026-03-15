@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "業務自動化"
-description: "AIのトークンオーバーフローとハルシネーションを根絶する、強力なマークダウンメモリ圧縮チートキー。無意識なコーディングを止め、主導権を取り戻しましょう。"
+description: "AIのトークンオーバーフローとハルシネーションを根絶する、強力なマークダウンメモリ圧縮チートキー。無意識なコーディングを止め、主導権を取り戻しましょう。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | AI의 토큰 오버플로우와 환각을 원천 차단하는 강력한 마크다운 메모리 압축 치트키. 무지성 코딩을 멈추고 주도권을 되찾으세요."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "markdown-source-of-truth"]
 image: "/images/hooks/context-compression-markdown-truth.jpg"
 ---

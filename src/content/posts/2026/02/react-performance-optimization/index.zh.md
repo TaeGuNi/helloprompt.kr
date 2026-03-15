@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "General"
-description: "盲目使用 useMemo 真的有必要吗？借助 React Profiler 精准定位性能瓶颈，使用实战级 AI 提示词挑战 0% 渲染浪费，彻底告别应用卡顿。"
+description: "盲目使用 useMemo 真的有必要吗？借助 React Profiler 精准定位性能瓶颈，使用实战级 AI 提示词挑战 0% 渲染浪费，彻底告别应用卡顿。 详细介绍AI提示词的使用方法与实战技巧。 | 습관적인 useMemo 사용이 성능을 악화시킬 수 있습니다. React Profiler로 병목을 찾고 렌더링 낭비를 0%로 만드는 실전 AI 최적화 프롬프트를 확인하세요."
 tags: ["React", "성능최적화", "Frontend", "JavaScript", "렌더링"]
 ---
 

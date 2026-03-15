@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creación y Aficiones"
-description: "Olvídate de la aburrida 'Espada +1'. Crea ítems únicos con narrativas inmersivas y mecánicas sorprendentes."
+description: "Olvídate de la aburrida 'Espada +1'. Crea ítems únicos con narrativas inmersivas y mecánicas sorprendentes. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["Juego", "Ítem", "TRPG", "Planificación", "Fantasía"]
 ---
 

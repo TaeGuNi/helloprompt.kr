@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Security"
-description: "Le guide ultime pour détecter avec l'IA les extensions Chrome malveillantes qui collectent secrètement vos données."
+description: "Le guide ultime pour détecter avec l'IA les extensions Chrome malveillantes qui collectent secrètement vos données. Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags: ["Security", "Chrome", "Privacy", "Browser"]
 ---
 

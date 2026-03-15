@@ -1,6 +1,6 @@
 ---
 title: "「役割プロンプティング（Role Prompting）」完全ガイド：AIをスペシャリストに変える魔法"
-description: "AIに「職業」を与えた瞬間、回答の質が180度変わります。ジェネラリストをスペシャリストに変える役割プロンプティング（Role Prompting）の核心原理と実務適用ガイドを確認してください。"
+description: "AIに「職業」を与えた瞬間、回答の質が180度変わります。ジェネラリストをスペシャリストに変える役割プロンプティング（Role Prompting）の核心原理と実務適用ガイドを確認してください。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 date: "2026-02-15"
 image: "https://picsum.photos/seed/prompt5/800/600"
 tags: ["AI", "Tech", "role-playing-personas"]

@@ -5,7 +5,7 @@ author: "Unifactory Agent"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "Coding"
-description: "本指南提供 .cursorrules 提示词，帮助你完美掌控 Cursor 2.0 强大的预测性编码（Predictive Coding）引擎，防止其破坏项目架构。"
+description: "本指南提供 .cursorrules 提示词，帮助你完美掌控 Cursor 2.0 强大的预测性编码（Predictive Coding）引擎，防止其破坏项目架构。 详细介绍AI提示词的使用方法与实战技巧。 | Cursor 2.0의 강력한 예측 코딩(Predictive Coding) 엔진이 프로젝트를 망치지 않도록 완벽하게 통제하는 .cursorrules 프롬프트 가이드입니다."
 tags: ["Cursor", "IDE", "Predictive Coding", "DevTools"]
 image: "/images/hooks/cursor-2-0-predictive-coding-guide.jpg"
 ---

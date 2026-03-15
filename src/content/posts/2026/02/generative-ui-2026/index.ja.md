@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "Frontend"
-description: "ユーザーの意図に合わせてリアルタイムで生成・適応するジェネレーティブUI（Generative UI）が、従来の静的なハンバーガーメニューを完全に置き換える方法を紹介します。"
+description: "ユーザーの意図に合わせてリアルタイムで生成・適応するジェネレーティブUI（Generative UI）が、従来の静的なハンバーガーメニューを完全に置き換える方法を紹介します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 사용자의 의도에 맞춰 실시간으로 생성되고 적응하는 제너레이티브 UI(Generative UI)가 기존의 정적인 햄버거 메뉴를 완전히 대체하..."
 tags: ["AI", "Tech", "generative-ui-2026"]
 ---
 

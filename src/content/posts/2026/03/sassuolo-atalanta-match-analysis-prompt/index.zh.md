@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "Workflow Automation"
-description: "告别繁杂的足球数据搜集！为您揭秘一键生成赛前深度分析与爆款体育营销文案的实战 AI 提示词，让赛事复盘与预测变得无比轻松。"
+description: "告别繁杂的足球数据搜集！为您揭秘一键生成赛前深度分析与爆款体育营销文案的实战 AI 提示词，让赛事复盘与预测变得无比轻松。 详细介绍AI提示词的使用方法与实战技巧。 | 축구 경기 데이터 분석부터 스포츠 마케팅 콘텐츠 발행까지 1분 만에 끝내는 실전 AI 프롬프트. 복잡한 매치 프리뷰를 쉽게 작성하세요."
 tags: ["prompt-engineering", "ai-agent", "sassuolo-atalan"]
 image: "/images/hooks/sassuolo-atalanta-match-analysis-prompt.jpg"
 ---

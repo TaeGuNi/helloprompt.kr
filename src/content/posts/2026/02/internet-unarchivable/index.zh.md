@@ -5,7 +5,7 @@ author: "김웹 아카이브"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "Work Automation"
-description: "介绍一款专为数字存档量身定制的提示词，只需点击一下，即可从逐渐消失的网页中完美提取核心文脉并永久保存。"
+description: "介绍一款专为数字存档量身定制的提示词，只需点击一下，即可从逐渐消失的网页中完美提取核心文脉并永久保存。 详细介绍AI提示词的使用方法与实战技巧。 | 단 한 번의 클릭으로 사라져가는 웹페이지의 핵심 문맥만 완벽하게 추출해 영구 보존하는 디지털 아카이빙 맞춤형 프롬프트를 소개합니다."
 tags: ["Internet", "Archiving", "History", "Web"]
 image: "/images/hooks/internet-unarchivable.jpg"
 ---

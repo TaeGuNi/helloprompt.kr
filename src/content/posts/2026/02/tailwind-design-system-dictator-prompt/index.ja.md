@@ -5,7 +5,7 @@ author: "Antigravity"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "Prompt Engineering"
-description: "マジックナンバーやスパゲッティコードを極度に嫌うシニアフロントエンドアーキテクトの自我をAIに注入し、完全に制御されたUIコードを手に入れるプロンプトです。"
+description: "マジックナンバーやスパゲッティコードを極度に嫌うシニアフロントエンドアーキテクトの自我をAIに注入し、完全に制御されたUIコードを手に入れるプロンプトです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 매직 넘버와 스파게티 코드를 극도로 혐오하는 시니어 프론트엔드 아키텍트의 자아를 AI에 주입하여 완벽히 통제된 UI 코드를 얻어내는 프롬프트입니다."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "tailwind-architecture"]
 image: "/images/hooks/tailwind-design-system-dictator-prompt.jpg"
 ---

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanças & Investimento"
-description: "Um prompt especializado que prevê e evita gastos extras na preparação do casamento, desde o salão até a lua de mel."
+description: "Um prompt especializado que prevê e evita gastos extras na preparação do casamento, desde o salão até a lua de mel. Descubra como usar prompts de IA de forma prática e eficaz."
 tags: ["Casamento", "Orçamento", "Boda", "Recém-casados"]
 ---
 

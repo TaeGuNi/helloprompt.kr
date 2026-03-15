@@ -5,7 +5,7 @@ author: "Unifactory Agent"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "Coding"
-description: "無料のローカルAI「DeepSeek-v4」はGoogleの最新作「Gemini 3.0 Pro」を代替できるのか？Mac M4環境で実務コードを用いたベンチマーク結果を公開。2026年のコーディング最適解を解説します。"
+description: "無料のローカルAI「DeepSeek-v4」はGoogleの最新作「Gemini 3.0 Pro」を代替できるのか？Mac M4環境で実務コードを用いたベンチマーク結果を公開。2026年のコーディング最適解を解説します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["DeepSeek v4", "Gemini 3 Pro", "Local LLM", "Mac M4", "Ollama"]
 image: "/images/hooks/deepseek-v4-vs-gemini-3-coding.jpg"
 ---

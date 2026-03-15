@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-14"
 updatedDate: "2026-02-14"
 category: "工作自动化"
-description: "深入分析 Sora、Runway 等 AI 视频生成模型如何革新好莱坞制作流程，并提供实战提示词。"
+description: "深入分析 Sora、Runway 等 AI 视频生成模型如何革新好莱坞制作流程，并提供实战提示词。 详细介绍AI提示词的使用方法与实战技巧。 | Sora, Runway 등 AI 영상 생성 모델이 할리우드 제작 파이프라인을 어떻게 혁신하는지 심층 분석하고 실전 프롬프트를 제공합니다."
 tags: ["AI", "视频生成", "提示词"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "AI Trends"
-description: "Z.ai发布了GLM-5，这标志着我们正式从单纯的代码辅助，迈入全新的智能体工程时代。"
+description: "Z.ai发布了GLM-5，这标志着我们正式从单纯的代码辅助，迈入全新的智能体工程时代。 详细介绍AI提示词的使用方法与实战技巧。 | Z.ai가 공개한 GLM-5를 통해 단순한 코딩 보조를 넘어 스스로 시스템을 설계하는 '에이전트 엔지니어링'의 시대와 실무 활용 프롬프트를 만나보세요."
 tags: ["GLM-5", "AI", "Agentic Engineering", "LLM"]
 ---
 

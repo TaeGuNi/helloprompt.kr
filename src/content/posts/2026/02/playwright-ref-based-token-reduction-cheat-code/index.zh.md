@@ -5,7 +5,7 @@ author: "Antigravity"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "Workflow Automation"
-description: "拒绝喂给 AI 冗长无用的 HTML DOM！这套斯巴达式 E2E 测试提示词宪法能精准压缩有效节点，彻底粉碎 Token 浪费与 AI 幻觉，让自动化测试如虎添翼。"
+description: "拒绝喂给 AI 冗长无用的 HTML DOM！这套斯巴达式 E2E 测试提示词宪法能精准压缩有效节点，彻底粉碎 Token 浪费与 AI 幻觉，让自动化测试如虎添翼。 详细介绍AI提示词的使用方法与实战技巧。 | 무의미한 HTML DOM을 AI에게 통째로 넘기지 마세요. 핵심 노드만 압축해 토큰 낭비를 막고 환각을 완벽히 통제하는 스파르타식 E2E 테스트 프롬프트 치트키입니다."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "playwright-ref-protocol"]
 ---
 

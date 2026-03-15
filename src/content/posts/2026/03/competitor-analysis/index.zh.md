@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: " "
-description: "告别连续三天的全网盲搜，只需三分钟即可自动生成专业级市场调研与竞品 SWOT 分析报告。即插即用，实战级 AI 提示词助你极速破局。"
+description: "告别连续三天的全网盲搜，只需三分钟即可自动生成专业级市场调研与竞品 SWOT 分析报告。即插即用，实战级 AI 提示词助你极速破局。 详细介绍AI提示词的使用方法与实战技巧。 | 3일 밤낮 새워야 했던 경쟁사 SWOT 분석과 시장 조사를 단 3분 만에 끝내주는 기획자용 실전 AI 프롬프트입니다. 파편화된 데이터를 꿰뚫고 실무에 즉시 적용 가능한 파괴적인 전략을 도출해 ..."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "competitor-anal"]
 ---
 

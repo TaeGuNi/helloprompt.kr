@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "办公自动化"
-description: "克服单一提示词局限的2026年必备AI工作流设计模式。本指南提供提示词链接（Prompt Chaining）实战设计方案，助你将复杂业务拆解为原子单位并高效连接。"
+description: "克服单一提示词局限的2026年必备AI工作流设计模式。本指南提供提示词链接（Prompt Chaining）实战设计方案，助你将复杂业务拆解为原子单位并高效连接。 详细介绍AI提示词的使用方法与实战技巧。 | 단일 프롬프트의 한계를 극복하는 2026년 필수 AI 워크플로우 디자인 패턴. 복잡한 실무를 원자 단위로 쪼개고 연결하는 프롬프트 체이닝(Prompt Chaining..."
 tags: ["AI", "Tech", "prompt-chaining-2026"]
 image: "/images/blog/default-ai.jpg"
 ---

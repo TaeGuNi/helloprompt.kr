@@ -1,6 +1,6 @@
 ---
 title: "新闻报道中的 AI 幻觉"
-description: "防御因 Ars Technica 撤稿事件而暴露的 AI 幻觉（Hallucination）致命风险。为您公开专为记者和编辑设计的完美基于原文的事实核查提示词。"
+description: "防御因 Ars Technica 撤稿事件而暴露的 AI 幻觉（Hallucination）致命风险。为您公开专为记者和编辑设计的完美基于原文的事实核查提示词。 详细介绍AI提示词的使用方法与实战技巧。 | Ars Technica 기사 철회 사태로 드러난 AI 환각(Hallucination)의 치명적 위험성을 방어하세요. 기자와 에디터를 위한 완벽한 원문 기반 팩트 체크 ..."
 date: 2026-02-15
 tags: ["AI", "Ethics", "Journalism", "Fake News"]
 ---

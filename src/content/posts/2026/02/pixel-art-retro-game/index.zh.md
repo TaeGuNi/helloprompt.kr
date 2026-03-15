@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: "唤起经典游戏乡愁的 8-bit 与 16-bit 像素艺术 (Pixel Art) 提示词，精准掌控 Midjourney 与 DALL-E，重温红白机时代的纯粹感动。"
+description: "唤起经典游戏乡愁的 8-bit 与 16-bit 像素艺术 (Pixel Art) 提示词，精准掌控 Midjourney 与 DALL-E，重温红白机时代的纯粹感动。 详细介绍AI提示词的使用方法与实战技巧。 | 고전 게임의 향수를 완벽하게 재현하는 8비트, 16비트 픽셀 아트(도트 그래픽) AI 생성 프롬프트 가이드입니다. 흐릿한 가짜 도트 대신 완벽한 칼각 픽셀을 뽑..."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Retro"]
 ---
 

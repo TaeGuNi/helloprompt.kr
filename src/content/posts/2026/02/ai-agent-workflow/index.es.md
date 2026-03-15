@@ -4,7 +4,7 @@ author: "Jay"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "Productividad"
-description: "Prompt para diseñar flujos de trabajo de agentes de IA que ejecutan tareas reales más allá de la simple conversación."
+description: "Prompt para diseñar flujos de trabajo de agentes de IA que ejecutan tareas reales más allá de la simple conversación. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["Agentes de IA", "Automatización", "Productividad", "Flujo de Trabajo"]
 ---
 

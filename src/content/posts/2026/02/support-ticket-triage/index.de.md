@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Arbeitsautomatisierung"
-description: "Ein CS-Triage-Prompt zur Echtzeit-Emotionsanalyse, der verärgerte Kunden sofort identifiziert und Prioritäten setzt."
+description: "Ein CS-Triage-Prompt zur Echtzeit-Emotionsanalyse, der verärgerte Kunden sofort identifiziert und Prioritäten setzt. Erfahren Sie mehr über die praktische Anwendung von KI-Prompts."
 tags: ["CS", "고객경험", "Automation", "감정분석"]
 ---
 

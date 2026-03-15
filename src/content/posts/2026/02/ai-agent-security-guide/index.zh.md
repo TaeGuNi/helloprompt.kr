@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "General"
-description: "防止 AI Agent 泄露 API 密钥或执行恶意代码的实战指南。基于 OWASP LLM Top 10 标准，为您提供企业级防御提示词与系统安全策略。"
+description: "防止 AI Agent 泄露 API 密钥或执行恶意代码的实战指南。基于 OWASP LLM Top 10 标准，为您提供企业级防御提示词与系统安全策略。 详细介绍AI提示词的使用方法与实战技巧。 | 자율 에이전트가 API 키를 유출하거나 악성 코드를 실행하지 않도록 막는 실전 방어 가이드입니다. OWASP LLM Top 10을 기반으로 샌드위치 방어 기법을 구축하세요."
 tags: ["AI에이전트", "Security", "PromptInjection", "해킹방지", "LLM", "OWASP"]
 ---
 

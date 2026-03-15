@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "Workflow Automation"
-description: "面对空白的 PPT 页面却毫无头绪？只需复制这段实战级提示词，一键即可生成逻辑严密、直击痛点的高阶商业提案大纲。"
+description: "面对空白的 PPT 页面却毫无头绪？只需复制这段实战级提示词，一键即可生成逻辑严密、直击痛点的高阶商业提案大纲。 详细介绍AI提示词的使用方法与实战技巧。 | 빈 슬라이드만 바라보며 막막해하던 시간은 이제 끝입니다. 단 1분 만에 치밀한 스토리라인부터 슬라이드별 핵심 메시지와 시각화 전략까지 완벽하게 도출하는 실전 프롬프트를 공개합니다."
 tags: ["prompt-engineering", "ai-agent", "powerpoint"]
 image: "/images/hooks/powerpoint-outline-prompt.jpg"
 ---

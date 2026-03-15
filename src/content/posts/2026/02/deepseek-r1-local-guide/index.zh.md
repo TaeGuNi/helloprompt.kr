@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "开发/编程"
-description: "使用 Ollama 在本地零成本部署 DeepSeek R1，打造极速、免费且 100% 隐私安全的专属 AI 编程助手，彻底告别 API 费用与代码泄露风险。"
+description: "使用 Ollama 在本地零成本部署 DeepSeek R1，打造极速、免费且 100% 隐私安全的专属 AI 编程助手，彻底告别 API 费用与代码泄露风险。 详细介绍AI提示词的使用方法与实战技巧。 | Ollama를 활용해 DeepSeek R1을 로컬 환경에 설치하고, 데이터 유출 걱정 없이 무제한 무료 코딩 비서를 구축하는 완벽 가이드입니다."
 tags: ["DeepSeek", "Ollama", "Local LLM", "编程", "生产力"]
 ---
 

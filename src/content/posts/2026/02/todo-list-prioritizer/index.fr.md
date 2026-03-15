@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Workflow Automation"
-description: "Fini le casse-tête de la priorisation ! Laissez l'IA organiser vos tâches par ordre d'importance."
+description: "Fini le casse-tête de la priorisation ! Laissez l'IA organiser vos tâches par ordre d'importance. Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags: ["To-Do", "우선순위", "ChatGPT", "Productivity"]
 ---
 

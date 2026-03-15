@@ -5,7 +5,7 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Development
-description: "Backend API not ready yet? Provide the schema to AI and generate high-quality, production-like mock data instantly."
+description: "Backend API not ready yet? Provide the schema to AI and generate high-quality, production-like mock data instantly. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: [Frontend, Testing, JSON, Mocking, AI]
 ---
 

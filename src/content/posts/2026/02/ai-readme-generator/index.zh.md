@@ -5,7 +5,7 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Development
-description: "代码写完了却对写文档感到头疼？只需提供项目结构与核心信息，AI 就能为你自动生成从技术徽章到安装指南一应俱全的完美 README.md。"
+description: "代码写完了却对写文档感到头疼？只需提供项目结构与核心信息，AI 就能为你自动生成从技术徽章到安装指南一应俱全的完美 README.md。 详细介绍AI提示词的使用方法与实战技巧。 | 작업한 코드를 빛내줄 완벽한 문서가 필요하신가요? 디렉토리 구조와 핵심 스택만 입력하세요. AI가 글로벌 표준에 맞는 README.md를 3분 만에 자동 생성해 드립니다."
 tags: [Github, Documentation, OpenSource, Branding, AI]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "Frontend"
-description: "介绍根据用户意图实时生成并自适应的生成式 UI (Generative UI) 如何完全取代传统的静态汉堡菜单。"
+description: "介绍根据用户意图实时生成并自适应的生成式 UI (Generative UI) 如何完全取代传统的静态汉堡菜单。 详细介绍AI提示词的使用方法与实战技巧。 | 사용자의 의도에 맞춰 실시간으로 생성되고 적응하는 제너레이티브 UI(Generative UI)가 기존의 정적인 햄버거 메뉴를 완전히 대체하는 방법을 소개합니다."
 tags: ["AI", "Tech", "generative-ui-2026"]
 ---
 

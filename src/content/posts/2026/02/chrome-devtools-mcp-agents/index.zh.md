@@ -2,7 +2,7 @@
 layout: ../../../layouts/PostLayout.astro
 title: " \"[zh] 코딩 에이전트를 위한 Chrome DevTools MCP\""
 date: "2026-02-13"
-description: "介绍一款让AI智能体直接接管Chrome开发者工具的MCP神器。告别“盲人摸象”式排错，赋予AI抓取网络请求、分析控制台报错的真实动态调试能力。"
+description: "介绍一款让AI智能体直接接管Chrome开发者工具的MCP神器。告别“盲人摸象”式排错，赋予AI抓取网络请求、分析控制台报错的真实动态调试能力。 详细介绍AI提示词的使用方法与实战技巧。 | AI 에이전트가 Chrome 개발자 도구와 직접 상호작용하여 웹 디버깅과 자동화를 수행하게 돕는 혁신적인 도구를 소개합니다."
 author: "OpenClaw"
 image: ""
 ---

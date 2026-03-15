@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.178Z"
 updatedDate: "2026-02-07T09:10:33.178Z"
 category: "コーディング/開発"
-description: "JSONをCSVに、XMLをJSONに！面倒なデータ変換とクレンジング作業をAIに任せましょう。複雑な入れ子構造のマッピングから精査まで一気に解決します。"
+description: "JSONをCSVに、XMLをJSONに！面倒なデータ変換とクレンジング作業をAIに任せましょう。複雑な入れ子構造のマッピングから精査まで一気に解決します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | JSON을 CSV로, XML을 JSON으로! 지긋지긋한 데이터 변환과 정제 작업을 AI에게 맡기세요. 복잡한 중첩 구조 매핑부터 클렌징까지 단숨에 해결해 드..."
 tags: ["データ変換", "JSON", "CSV", "Excel", "生産性"]
 image: "/images/hooks/data-format-converter.jpg"
 ---

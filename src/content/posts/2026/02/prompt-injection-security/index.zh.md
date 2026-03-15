@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "办公自动化"
-description: "随着 LLM 与外部工具的结合，提示词注入已成为致命的安全漏洞。本文将介绍一套能够完美防御此类攻击的提示词技术，为您的 AI 服务保驾护航。"
+description: "随着 LLM 与外部工具的结合，提示词注入已成为致命的安全漏洞。本文将介绍一套能够完美防御此类攻击的提示词技术，为您的 AI 服务保驾护航。 详细介绍AI提示词的使用方法与实战技巧。 | LLM이 외부 도구와 결합되면서 프롬프트 인젝션은 치명적 보안 취약점이 되었습니다. 이를 완벽히 방어하는 프롬프트 기술을 소개합니다."
 image: "https://picsum.photos/seed/prompt4/800/600"
 tags: ["AI", "Tech", "prompt-injection-security"]
 ---

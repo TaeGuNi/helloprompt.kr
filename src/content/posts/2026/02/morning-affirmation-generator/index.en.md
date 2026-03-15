@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "Start your energetic morning with personalized positive affirmations perfectly synchronized with your current reality."
+description: "Start your energetic morning with personalized positive affirmations perfectly synchronized with your current reality. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["미라클모닝", "마인드셋", "Self-Improvement", "긍정확언"]
 ---
 

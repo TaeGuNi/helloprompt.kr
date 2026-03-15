@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "General"
-description: "Un prompt magico per trasformare trascrizioni confuse in chiari Action Item e decisioni, risparmiando ore di lavoro."
+description: "Un prompt magico per trasformare trascrizioni confuse in chiari Action Item e decisioni, risparmiando ore di lavoro. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags: ["회의록", "요약", "클로바노트", "액션아이템"]
 ---
 

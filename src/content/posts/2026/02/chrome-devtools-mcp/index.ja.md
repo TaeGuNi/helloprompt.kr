@@ -2,7 +2,7 @@
 layout: ../../../layouts/PostLayout.astro
 title: " \"Chrome DevTools用MCPサーバー：AIエージェントによるWebデバッグの革命\""
 date: 2026-02-14
-description: "Model Context Protocol (MCP)を通じ、AIエージェントが直接ブラウザのDevToolsにアクセスし、フロントエンドのバグを自律的にデバッグ・検証する方法を解説します。"
+description: "Model Context Protocol (MCP)を通じ、AIエージェントが直接ブラウザのDevToolsにアクセスし、フロントエンドのバグを自律的にデバッグ・検証する方法を解説します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 author: "Hello Prompt"
 image: "/images/posts/chrome-devtools-mcp.png"
 tags: ["MCP", "AI Agents", "Chrome DevTools", "Debugging"]

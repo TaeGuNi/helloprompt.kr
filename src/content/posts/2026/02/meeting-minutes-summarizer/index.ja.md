@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.152Z"
 updatedDate: "2026-02-07T09:10:33.152Z"
 category: "Work Automation"
-description: "長くて散漫な会議の文字起こしから、重要議題とアクションアイテムを正確に抽出し、瞬時に完璧な報告書へと変換する実践的なプロンプトを紹介します。"
+description: "長くて散漫な会議の文字起こしから、重要議題とアクションアイテムを正確に抽出し、瞬時に完璧な報告書へと変換する実践的なプロンプトを紹介します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 길고 산만한 회의 녹취록에서 핵심 안건과 액션 아이템을 정확하게 추출해, 단숨에 완벽한 보고서로 변환하는 실전 프롬프트입니다."
 tags: ["Productivity", "Excel", "Reports", "ChatGPT"]
 image: "/images/hooks/meeting-minutes-summarizer.jpg"
 ---

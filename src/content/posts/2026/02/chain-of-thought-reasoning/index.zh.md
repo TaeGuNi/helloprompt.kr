@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "办公自动化"
-description: "指示 AI‘分步思考’，以最大限度提升复杂逻辑谜题和实际推理任务性能的提示词工程核心技巧——‘思维链 (CoT)’全攻略。"
+description: "指示 AI‘分步思考’，以最大限度提升复杂逻辑谜题和实际推理任务性能的提示词工程核心技巧——‘思维链 (CoT)’全攻略。 详细介绍AI提示词的使用方法与实战技巧。 | AI에게 '단계별로 생각하라'고 지시하여 복잡한 논리 퍼즐과 실무 추론 작업의 성능을 극대화하는 프롬프트 엔지니어링 핵심 기법, '생각의 사슬(CoT)' 완벽 가이드."
 image: "https://picsum.photos/seed/prompt3/800/600"
 tags: ["AI", "Tech", "chain-of-thought-reasoning"]
 ---

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.157Z"
 updatedDate: "2026-02-07T09:10:33.157Z"
 category: "Coding & Development"
-description: "只需一条提示词，即可生成完美的 Dockerfile 和 docker-compose.yml。涵盖多阶段构建、安全设置等全方位的自动化指南。"
+description: "只需一条提示词，即可生成完美的 Dockerfile 和 docker-compose.yml。涵盖多阶段构建、安全设置等全方位的自动化指南。 详细介绍AI提示词的使用方法与实战技巧。 | 단 한 번의 프롬프트로 완벽한 Dockerfile과 docker-compose.yml을 생성하세요. 멀티 스테이지 빌드부터 보안 설정까지 챙겨주는 자동화 가이드입니다."
 tags: ["Docker", "도커", "컨테이너", "배포", "DevOps"]
 image: "/images/hooks/docker-environment-setup.jpg"
 ---

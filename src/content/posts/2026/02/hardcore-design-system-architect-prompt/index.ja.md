@@ -5,7 +5,7 @@ author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "プロンプトエンジニアリング"
-description: "デザインシステムの崩壊を断じて許さない、厳格なシニアアーキテクトの12の鉄則を注入するチート級プロンプトです。AIの独断的な判断を根絶し、完璧なUIの一貫性を確保しましょう。"
+description: "デザインシステムの崩壊を断じて許さない、厳格なシニアアーキテクトの12の鉄則を注入するチート級プロンプトです。AIの独断的な判断を根絶し、完璧なUIの一貫性を確保しましょう。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 디자인 시스템의 붕괴를 절대 용납하지 않는 깐깐한 시니어 아키텍트의 12가지 절대 법칙을 주입하는 치트키 프롬프트입니다. AI의 자의적인 ..."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "design-system-identity"]
 image: "/images/hooks/hardcore-design-system-architect-prompt.jpg"
 ---

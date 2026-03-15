@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatisation du Travail"
-description: "Des centaines d'avis clients ? Analysez et classez-les instantanément grâce à l'analyse de sentiment par l'IA."
+description: "Des centaines d'avis clients ? Analysez et classez-les instantanément grâce à l'analyse de sentiment par l'IA. Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 ---
 

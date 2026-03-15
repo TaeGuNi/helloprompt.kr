@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Viagem e Cultura"
-description: "EUA 20%? Japão 0? Deixe a IA esclarecer a confusa cultura global de gorjetas e viaje sem estresse."
+description: "EUA 20%? Japão 0? Deixe a IA esclarecer a confusa cultura global de gorjetas e viaje sem estresse. Descubra como usar prompts de IA de forma prática e eficaz."
 tags:
   [
     "Cultura de Gorjeta",

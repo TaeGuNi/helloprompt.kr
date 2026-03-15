@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "Tech Trends"
-description: "クラウド転送なしでスマホやPCで直接駆動するプライベートAI。ソブリンAIとオンデバイス技術で、データ流出の恐怖を根本から遮断する方法を公開します。"
+description: "クラウド転送なしでスマホやPCで直接駆動するプライベートAI。ソブリンAIとオンデバイス技術で、データ流出の恐怖を根本から遮断する方法を公開します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 클라우드 전송 없이 스마트폰과 PC에서 직접 구동되는 프라이빗 AI. 소버린 AI와 온디바이스 기술로 데이터 유출 공포를 원천 차단하는 방법을 공개합니다."
 tags: ["Sovereign AI", "Edge Computing", "On-Device AI", "Privacy"]
 image: "/images/hooks/sovereign-ai-edge-computing.jpg"
 ---

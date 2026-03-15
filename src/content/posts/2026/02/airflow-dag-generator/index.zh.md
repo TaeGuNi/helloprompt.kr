@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: " \"告别为复杂的 ETL 数据管道熬夜脱发！为您揭秘能在一分钟内自动生成健壮 Airflow DAG 代码的 AI 提示词，让数据工程更优雅。\""
+description: " \"告别为复杂的 ETL 数据管道熬夜脱发！为您揭秘能在一分钟内自动生成健壮 Airflow DAG 代码的 AI 提示词，让数据工程更优雅。\" 详细介绍AI提示词的使用方法与实战技巧。 | 복잡한 데이터 파이프라인(ETL) 구축, 더 이상 밤새워 코딩하지 마세요. Airflow DAG 코드를 단 1분 만에 자동 완성해 주는 강력한 AI 프롬프트를 공개합니다."
 tags: ["Airflow", "ETL", "데이터엔지니어링", "파이썬", "Automation"]
 ---
 

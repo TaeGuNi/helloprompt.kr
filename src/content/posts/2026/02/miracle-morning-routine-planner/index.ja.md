@@ -5,7 +5,7 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: AI & Productivity
-description: "他人のミラクルモーニングを無理に真似して挫折するのはもう終わりにしましょう。ChatGPTを活用して、自分のライフスタイルとエネルギーレベルに完璧に合わせた「超パーソナライズされた朝のルーティン」設計の秘訣を公開します。"
+description: "他人のミラクルモーニングを無理に真似して挫折するのはもう終わりにしましょう。ChatGPTを活用して、自分のライフスタイルとエネルギーレベルに完璧に合わせた「超パーソナライズされた朝のルーティン」設計の秘訣を公開します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: [AI, ChatGPT, Prompt]
 image: "/images/hooks/miracle-morning-routine-planner.jpg"
 ---

@@ -5,7 +5,7 @@ author: "Antigravity"
 date: "2026-02-14"
 updatedDate: "2026-02-14"
 category: "趋势分析"
-description: "深入剖析企业口中的 AX（AI 转型）背后隐藏的“幻觉派对”。揭示那些没有实际价值、只会堆积技术债的盲目引入 AI 的问题及解决方案。"
+description: "深入剖析企业口中的 AX（AI 转型）背后隐藏的“幻觉派对”。揭示那些没有实际价值、只会堆积技术债的盲目引入 AI 的问题及解决方案。 详细介绍AI提示词的使用方法与实战技巧。 | 기업들이 외치는 AX(AI 전환)의 이면에 숨겨진 '환각 파티'를 낱낱이 파헤칩니다. 실질적 가치 없이 기술 부채만 쌓아가는 맹목적 AI 도입의 문제점과 해결책을 확인하세요."
 image: "https://picsum.photos/seed/ax-reality/800/400"
 tags: ["AI", "Trend", "2026"]
 ---

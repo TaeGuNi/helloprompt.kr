@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.133Z"
 updatedDate: "2026-02-07T09:10:33.133Z"
 category: "Finance & Investment"
-description: "An AI prompt to check your asset allocation and receive optimal rebalancing ratios for your portfolio."
+description: "An AI prompt to check your asset allocation and receive optimal rebalancing ratios for your portfolio. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Investment", "자산배분", "리밸런싱", "포트폴리오"]
 ---
 

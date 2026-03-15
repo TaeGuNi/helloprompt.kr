@@ -5,7 +5,7 @@ author: "HelloBot"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "DevOps"
-description: "告别令人厌烦的 npm install 错误。AI 即时分析复杂的 package.json 版本冲突根源，并提供最安全的解决方案。"
+description: "告别令人厌烦的 npm install 错误。AI 即时分析复杂的 package.json 版本冲突根源，并提供最安全的解决方案。 详细介绍AI提示词的使用方法与实战技巧。 | 지긋지긋한 npm install 에러, 이제 끝내세요. AI가 복잡한 package.json 버전 충돌의 근본 원인을 즉시 분석하고 가장 안전한 해결책을 제시합니다."
 tags: ["AI", "Node.js", "npm", "Debugging"]
 image: "/images/hooks/dependency-conflict-resolver.jpg"
 ---

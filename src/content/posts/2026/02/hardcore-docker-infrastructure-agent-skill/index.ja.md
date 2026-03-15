@@ -5,7 +5,7 @@ author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "業務自動化"
-description: "AIがDockerコンテナ制御中にフリーズする惨劇を終わらせる、シニアエンジニア向けの劇薬プロンプト。"
+description: "AIがDockerコンテナ制御中にフリーズする惨劇を終わらせる、シニアエンジニア向けの劇薬プロンプト。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | AI 에이전트가 도커(Docker) 컨테이너 제어 시 뻗어버리는 참사를 막기 위한 시니어 엔지니어의 극약 처방 프롬프트입니다. 터미널 무한 대기를 원천 차단하세요."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "docker"]
 ---
 

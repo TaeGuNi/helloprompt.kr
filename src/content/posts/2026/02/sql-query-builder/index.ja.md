@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "データ"
-description: "JOIN、GROUP BY、Window Function…複雑でややこしいSQL構文、もう検索する必要はありません。日常言語で説明するだけで最適化されたクエリを自動生成するプロンプトを公開します。"
+description: "JOIN、GROUP BY、Window Function…複雑でややこしいSQL構文、もう検索する必要はありません。日常言語で説明するだけで最適化されたクエリを自動生成するプロンプトを公開します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["SQL", "データ分析", "クエリ"]
 ---
 

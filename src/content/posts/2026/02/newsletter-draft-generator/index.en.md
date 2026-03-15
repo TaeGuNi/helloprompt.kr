@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Work Automation"
-description: "Instantly generate catchy titles, engaging body content, and expert curation just by providing a single topic."
+description: "Instantly generate catchy titles, engaging body content, and expert curation just by providing a single topic. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Work Efficiency", "Excel", "Report", "ChatGPT"]
 ---
 

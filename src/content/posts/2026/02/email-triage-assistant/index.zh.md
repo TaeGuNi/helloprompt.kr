@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Work Automation"
-description: "公开仅用 1 秒即可通过 AI 分类堆积如山的邮件，并根据意图完美撰写回复草稿的实战自动化秘诀。"
+description: "公开仅用 1 秒即可通过 AI 分类堆积如山的邮件，并根据意图完美撰写回复草稿的实战自动化秘诀。 详细介绍AI提示词的使用方法与实战技巧。 | 쌓여가는 이메일을 AI로 단 1초 만에 분류하고, 내 의도에 맞는 답장 초안까지 완벽하게 작성하는 실무 자동화 비법을 공개합니다."
 tags: ["Email", "Automation", "ChatGPT", "Business"]
 ---
 

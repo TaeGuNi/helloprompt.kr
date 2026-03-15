@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automazione Lavoro"
-description: "Storytelling persuasivo: crea proposte commerciali di successo e conquista i tuoi clienti in pochi minuti."
+description: "Storytelling persuasivo: crea proposte commerciali di successo e conquista i tuoi clienti in pochi minuti. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 ---
 

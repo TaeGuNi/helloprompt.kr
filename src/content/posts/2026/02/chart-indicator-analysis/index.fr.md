@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finance & Investissement"
-description: "L'IA interprète facilement les indicateurs graphiques complexes tels que le RSI, le MACD et les bandes de Bollinger."
+description: "L'IA interprète facilement les indicateurs graphiques complexes tels que le RSI, le MACD et les bandes de Bollinger. Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags: ["Action", "AnalyseGraphique", "AnalyseTechnique", "Trading"]
 ---
 

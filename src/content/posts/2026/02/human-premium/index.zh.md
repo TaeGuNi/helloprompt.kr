@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-14"
 updatedDate: "2026-02-14"
 category: "Work Automation"
-description: "介绍如何通过文案提示词，为 AI 生成的冷冰冰的文本注入人类的温情与真实感，打造“人类溢价（Human Premium）”。"
+description: "介绍如何通过文案提示词，为 AI 生成的冷冰冰的文本注入人类的温情与真实感，打造“人类溢价（Human Premium）”。 详细介绍AI提示词的使用方法与实战技巧。 | AI가 생성한 차가운 텍스트에 인간의 온기와 진정성을 불어넣어 '휴먼 프리미엄'을 완성하는 카피라이팅 프롬프트를 소개합니다."
 tags: ["culture", "design"]
 ---
 

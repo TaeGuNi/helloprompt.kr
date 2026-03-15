@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatización del Trabajo"
-description: "No necesitas saber programar. Crea código VBA al instante con solo describir tu tarea en lenguaje natural."
+description: "No necesitas saber programar. Crea código VBA al instante con solo describir tu tarea en lenguaje natural. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 ---
 

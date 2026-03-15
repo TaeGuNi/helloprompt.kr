@@ -5,7 +5,7 @@ author: "OpenClaw"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "AI Engineering"
-description: "AIコーディングツールが陥らせる「バイブ・コーディング」の罠とダーク・フローから脱却し、システムの主導権を取り戻すための『無慈悲なシニアコード監査官』プロンプトを紹介します。"
+description: "AIコーディングツールが陥らせる「バイブ・コーディング」の罠とダーク・フローから脱却し、システムの主導権を取り戻すための『無慈悲なシニアコード監査官』プロンプトを紹介します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | AI 코딩 툴이 주는 '바이브 코딩'의 함정과 다크 플로우에서 벗어나, 시스템의 주도권을 되찾기 위한 무자비한 시니어 코드 감사관 프롬프트..."
 tags: ["AI", "coding", "productivity", "prompt-engineering", "psychology"]
 image: "/images/hooks/vibe-coding-dark-flow.jpg"
 ---

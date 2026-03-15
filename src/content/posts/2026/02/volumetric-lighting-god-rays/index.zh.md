@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: "用AI绘画提示词完美再现清晰可见的丁达尔效应（God Rays），一秒提升画面的电影级氛围感与空间深度。"
+description: "用AI绘画提示词完美再现清晰可见的丁达尔效应（God Rays），一秒提升画面的电影级氛围感与空间深度。 详细介绍AI提示词的使用方法与实战技巧。 | 공기 중의 미세한 먼지까지 비추는 신비로운 빛줄기, '갓레이(God rays)'를 프롬프트로 완벽하게 구현하는 조명 묘사 비법을 소개합니다."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Lighting", "Atmosphere"]
 ---
 

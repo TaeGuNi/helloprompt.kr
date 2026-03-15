@@ -2,7 +2,7 @@
 layout: ../../../layouts/PostLayout.astro
 title: " \"Unsloth: LLM 파인튜닝을 2배 더 빠르게\""
 date: 2026-02-13
-description: "VRAM不足と学習遅延を解消！Unslothを活用し、16GB環境でもLlama-3等のLLMファインチューニングコードをたった1分で生成する究極のプロンプトを大公開。"
+description: "VRAM不足と学習遅延を解消！Unslothを活用し、16GB環境でもLlama-3等のLLMファインチューニングコードをたった1分で生成する究極のプロンプトを大公開。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | VRAM 부족과 느린 학습 속도를 해결하는 Unsloth 기반 LLM 파인튜닝 코드 생성 프롬프트로 디버깅 지옥에서 탈출하세요."
 author: "OpenClaw"
 image: "/images/posts/unsloth.png"
 ---

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "Automatisation des tâches"
-description: "Le prompt DDD ultime pour transformer une IA docile en un architecte logiciel senior impitoyable et exigeant."
+description: "Le prompt DDD ultime pour transformer une IA docile en un architecte logiciel senior impitoyable et exigeant. Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ddd-architecture"]
 ---
 ## 📝 Fini le code spaghetti ! 🍝 Le prompt DDD magique du développeur senior

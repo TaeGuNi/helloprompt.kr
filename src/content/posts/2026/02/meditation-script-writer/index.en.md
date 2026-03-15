@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Health"
-description: "Generate a custom meditation script perfectly tailored to your current emotional state and environment in just minutes."
+description: "Generate a custom meditation script perfectly tailored to your current emotional state and environment in just minutes. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Meditation", "Mindfulness", "Stress", "Rest"]
 ---
 

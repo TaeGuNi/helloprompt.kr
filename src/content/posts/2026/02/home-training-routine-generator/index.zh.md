@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.110Z"
 updatedDate: "2026-02-07T09:10:33.110Z"
 category: "Health & Wellness"
-description: "这是一款 AI 1:1 私人教练提示词，它能完美分析您的体力、现有器材及居住环境（楼层噪音），为您设计专属的定制化居家健身计划。"
+description: "这是一款 AI 1:1 私人教练提示词，它能完美分析您的体力、现有器材及居住环境（楼层噪音），为您设计专属的定制化居家健身计划。 详细介绍AI提示词的使用方法与实战技巧。 | 내 체력, 보유 장비, 거주 환경(층간소음)까지 완벽하게 분석하여 나만의 맞춤형 홈트레이닝 루틴을 설계해 주는 AI 1:1 퍼스널 트레이너 프롬프트입니다."
 tags: ["홈트", "Exercise", "Fitness", "Routine"]
 image: "/images/hooks/home-training-routine-generator.jpg"
 ---

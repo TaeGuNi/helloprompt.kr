@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "General"
-description: "自由奔放なExpressと厳格な管理者NestJS。大規模プロジェクトなら無条件でNestJSを選ぶべき理由とは。"
+description: "自由奔放なExpressと厳格な管理者NestJS。大規模プロジェクトなら無条件でNestJSを選ぶべき理由とは。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 자유분방한 Express와 엄격한 설계자 NestJS. 대규모 백엔드 프로젝트에서 살아남기 위해 반드시 NestJS를 선택해야 하는 이유와 실전 아키텍처 가이드."
 tags: ["NestJS", "Express", "Node.js", "Backend", "프레임워크"]
 ---
 

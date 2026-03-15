@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "从繁杂无章的待办事项中，精准筛选出“真正重要任务”的智能法则。"
+description: "从繁杂无章的待办事项中，精准筛选出“真正重要任务”的智能法则。 详细介绍AI提示词的使用方法与实战技巧。 | 쏟아지는 할 일 중에서 '진짜 중요한 일'만 골라내는 스마트한 방법. 아이젠하워 매트릭스 기반 AI 프롬프트로 퇴근 시간을 앞당기세요."
 tags: ["Productivity", "Time Management", "Productivity", "아이젠하워"]
 ---
 

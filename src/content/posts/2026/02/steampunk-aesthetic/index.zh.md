@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.148Z"
 updatedDate: "2026-02-07T09:10:33.148Z"
 category: "图像生成"
-description: "探索由黄铜齿轮和弥漫蒸汽统治的19世纪架空历史。这份蒸汽朋克 (Steampunk) 提示词工程指南将带你领略极致细节的魅力。"
+description: "探索由黄铜齿轮和弥漫蒸汽统治的19世纪架空历史。这份蒸汽朋克 (Steampunk) 提示词工程指南将带你领略极致细节的魅力。 详细介绍AI提示词的使用方法与实战技巧。 | 황동 톱니바퀴와 매캐한 증기 기관이 지배하는 19세기 대체 역사. 압도적인 디테일을 자랑하는 스팀펑크(Steampunk) 프롬프트 엔지니어링 가이드를 만나보세요."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Sci-Fi", "Retro"]
 image: "/images/hooks/steampunk-aesthetic.jpg"
 ---

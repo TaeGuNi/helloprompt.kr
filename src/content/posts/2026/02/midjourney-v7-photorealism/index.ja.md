@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "デザイン/生成型 AI"
-description: "数百万円のスタジオ代や専門機材なしで、ミッドジャーニー v7の極致的な写実性（Hyper-Realism）を100%引き出すハイエンド・マスタープロンプトを公開します。"
+description: "数百万円のスタジオ代や専門機材なしで、ミッドジャーニー v7の極致的な写実性（Hyper-Realism）を100%引き出すハイエンド・マスタープロンプトを公開します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 수백만 원대 스튜디오 대관료와 전문 촬영 장비 없이도, 미드저니 v7의 극사실주의(Hyper-Realism) 렌더링 잠재력을 100% 끌어내는 ..."
 tags: ["Midjourney", "Image Generation", "Design", "Prompt"]
 image: "/images/hooks/midjourney-v7-photorealism.jpg"
 ---

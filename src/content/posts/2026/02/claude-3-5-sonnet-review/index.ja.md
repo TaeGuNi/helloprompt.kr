@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "AI/開発"
-description: "GPT-4oを凌駕する圧倒的なコーディング能力！AnthropicのClaude 3.5 Sonnetの独自的な強みと、実戦で使えるプロンプトを徹底分析します。"
+description: "GPT-4oを凌駕する圧倒的なコーディング能力！AnthropicのClaude 3.5 Sonnetの独自的な強みと、実戦で使えるプロンプトを徹底分析します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | GPT-4o를 위협하는 압도적인 코딩 실력! 앤스로픽(Anthropic) Claude 3.5 Sonnet의 독보적인 강점과 실전 프롬프트를 심층 분석합니다."
 tags: ["Claude", "クロード", "AIコーディング", "LLM", "エンジニア"]
 image: "/images/hooks/claude-3-5-sonnet-review.jpg"
 ---

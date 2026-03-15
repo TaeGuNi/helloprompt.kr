@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "プロンプトエンジニアリング"
-description: "AIの盲目的な追従や古いレガシーコードを一瞬で粉砕する、ハードコアなシニア開発者のメンタルモデルに基づいたプロンプト・チートシートです。"
+description: "AIの盲目的な追従や古いレガシーコードを一瞬で粉砕する、ハードコアなシニア開発者のメンタルモデルに基づいたプロンプト・チートシートです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | AI의 맹목적인 아첨과 구시대 레거시 코드를 단번에 박살내는 하드코어 시니어 개발자의 멘탈 모델 프롬프트 치트키입니다."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "zero-trust-coding"]
 image: "/images/hooks/zero-trust-coding-agent-cheat-code.jpg"
 ---

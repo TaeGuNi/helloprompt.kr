@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "Workflow Automation"
-description: "只需1分钟，即可生成极具说服力的募捐邮件与活动文案。这份实战型AI提示词能让潜在捐赠者自然地打开钱包，助力您的筹款目标。"
+description: "只需1分钟，即可生成极具说服力的募捐邮件与活动文案。这份实战型AI提示词能让潜在捐赠者自然地打开钱包，助力您的筹款目标。 详细介绍AI提示词的使用方法与实战技巧。 | 기부자의 마음을 움직이고 지갑을 여는 설득력 있는 모금 캠페인 카피를 단 1분 만에 완성하는 실전 AI 프롬프트입니다."
 tags: ["prompt-engineering", "ai-agent", "fundraiser"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "业务自动化"
-description: "利用 AI 情感分析 (Sentiment Analysis) 快速整理数百条冗长的顾客评论与反馈，一键生成结构化的高管级洞察报告。"
+description: "利用 AI 情感分析 (Sentiment Analysis) 快速整理数百条冗长的顾客评论与反馈，一键生成结构化的高管级洞察报告。 详细介绍AI提示词的使用方法与实战技巧。 | 수백 개의 고객 리뷰와 댓글, AI 감정 분석(Sentiment Analysis)으로 단 1분 만에 완벽하게 분류하고 요약해 보세요."
 tags: ["业务效率", "Excel", "报告书", "ChatGPT"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.142Z"
 updatedDate: "2026-02-07T09:10:33.142Z"
 category: "Coding & Development"
-description: "React、Vue、Tailwind CSSなど、希望の技術スタックで実務に即投入可能な、完璧なレスポンシブUIコンポーネントを素早く生成するプロンプトです。"
+description: "React、Vue、Tailwind CSSなど、希望の技術スタックで実務に即投入可能な、完璧なレスポンシブUIコンポーネントを素早く生成するプロンプトです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | React, Vue, Tailwind CSS 등 원하는 기술 스택으로 실무에 즉시 투입 가능한 완벽한 반응형 UI 컴포넌트를 빠르게 생성하는 프롬프트입니다."
 tags: ["Frontend", "React", "Vue", "Tailwind", "UI컴포넌트"]
 ---
 

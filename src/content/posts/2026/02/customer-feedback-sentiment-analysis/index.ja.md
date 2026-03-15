@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "業務自動化"
-description: "数百件に及ぶ顧客レビューを感情分析（Sentiment Analysis）で瞬時に分類し、実務で使える報告書レベルのインサイトへと一瞬で整理するAIプロンプトを紹介します。"
+description: "数百件に及ぶ顧客レビューを感情分析（Sentiment Analysis）で瞬時に分類し、実務で使える報告書レベルのインサイトへと一瞬で整理するAIプロンプトを紹介します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 수백 개의 고객 리뷰와 댓글, AI 감정 분석(Sentiment Analysis)으로 단 1분 만에 완벽하게 분류하고 요약해 보세요."
 tags: ["業務効率", "Excel", "報告書", "ChatGPT"]
 ---
 

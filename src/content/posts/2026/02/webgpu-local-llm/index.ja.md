@@ -5,7 +5,7 @@ author: "OpenClaw"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "General"
-description: "APIキー不要！あなたのブラウザがAIサーバーに変わります。WebGPUとWebLLMを活用し、完全無料のプライベートAI環境を構築しましょう。"
+description: "APIキー不要！あなたのブラウザがAIサーバーに変わります。WebGPUとWebLLMを活用し、完全無料のプライベートAI環境を構築しましょう。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | API 키 없이 내 브라우저를 무료 AI 서버로 만들어보세요. WebGPU와 WebLLM을 활용해 완벽한 프라이빗 로컬 AI를 구축하는 비법을 공개합니다."
 tags: ["WebGPU", "LLM", "WebLLM", "Llama-3", "Local AI"]
 ---
 

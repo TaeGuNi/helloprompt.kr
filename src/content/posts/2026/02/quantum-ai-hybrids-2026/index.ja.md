@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "AI開発"
-description: "量子コンピューティングとAIを組み合わせた、クォンタムAIハイブリッドモデルを構築するためのプロンプトです。複雑な数式なしで、5分でQPUとGPUを繋ぐパイプラインコードを生成しましょう。"
+description: "量子コンピューティングとAIを組み合わせた、クォンタムAIハイブリッドモデルを構築するためのプロンプトです。複雑な数式なしで、5分でQPUとGPUを繋ぐパイプラインコードを生成しましょう。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 image: "https://picsum.photos/seed/quantum/800/600"
 tags: ["AI", "Tech", "quantum-ai-hybrids-2026"]
 ---

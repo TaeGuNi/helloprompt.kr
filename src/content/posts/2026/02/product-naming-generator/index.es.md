@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.131Z"
 updatedDate: "2026-02-07T09:10:33.131Z"
 category: "Marketing"
-description: "Un prompt especializado para generar nombres de productos atractivos con identidad de marca en solo 30 segundos."
+description: "Un prompt especializado para generar nombres de productos atractivos con identidad de marca en solo 30 segundos. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["Marketing", "네이밍", "브랜딩", "Copywriting"]
 ---
 

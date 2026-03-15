@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Copywriting"
-description: "Wie Sie mit KI fesselnde Landingpage-Texte (Hero Copy) generieren, die Besucher in unter 3 Sekunden überzeugen."
+description: "Wie Sie mit KI fesselnde Landingpage-Texte (Hero Copy) generieren, die Besucher in unter 3 Sekunden überzeugen. Erfahren Sie mehr über die praktische Anwendung von KI-Prompts."
 tags: ["Landingpage", "Web-Copy", "UX-Writing", "Konversionsrate"]
 ---
 

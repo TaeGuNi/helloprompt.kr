@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Marketing/Copywriting"
-description: "Erfahren Sie, wie Sie Social-Media-Anzeigentexte verfassen, die das Scrollen stoppen und die Klickrate massiv steigern."
+description: "Erfahren Sie, wie Sie Social-Media-Anzeigentexte verfassen, die das Scrollen stoppen und die Klickrate massiv steigern. Erfahren Sie mehr über die praktische Anwendung von KI-Prompts."
 tags:
   [
     "Facebook-Anzeige",

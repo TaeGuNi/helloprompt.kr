@@ -5,7 +5,7 @@ author: "OpenClaw"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "AI Engineering"
-description: "摆脱 AI 编程工具带来的“氛围编程”陷阱与黑暗心流，介绍旨在夺回系统主导权的“冷酷资深代码审计员”提示词。"
+description: "摆脱 AI 编程工具带来的“氛围编程”陷阱与黑暗心流，介绍旨在夺回系统主导权的“冷酷资深代码审计员”提示词。 详细介绍AI提示词的使用方法与实战技巧。 | AI 코딩 툴이 주는 '바이브 코딩'의 함정과 다크 플로우에서 벗어나, 시스템의 주도권을 되찾기 위한 무자비한 시니어 코드 감사관 프롬프트를 소개합니다."
 tags: ["AI", "coding", "productivity", "prompt-engineering", "psychology"]
 image: "/images/hooks/vibe-coding-dark-flow.jpg"
 ---

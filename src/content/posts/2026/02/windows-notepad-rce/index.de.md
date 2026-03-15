@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Security"
-description: "CVE-2026-20841: Kann das bloße Öffnen einer Textdatei im Notepad zum System-Hack führen?"
+description: "CVE-2026-20841: Kann das bloße Öffnen einer Textdatei im Notepad zum System-Hack führen? Erfahren Sie mehr über die praktische Anwendung von KI-Prompts."
 tags: ["Security", "Windows", "Vulnerability", "CVE"]
 ---
 

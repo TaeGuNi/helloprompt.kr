@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 category: "DevOps"
-description: "安全快速地生成生产级别的 Terraform 模块，轻松实现云基础设施的代码化管理（IaC），告别手动配置的繁琐与风险。"
+description: "安全快速地生成生产级别的 Terraform 模块，轻松实现云基础设施的代码化管理（IaC），告别手动配置的繁琐与风险。 详细介绍AI提示词的使用方法与实战技巧。 | 클릭 실수로 서버를 날린 경험이 있나요? 하드코딩 없이 안전한 프로덕션 레벨의 Terraform 인프라 코드를 단 3분 만에 자동 생성하는 완벽한 가이드를 제공합니다."
 tags: ["DevOps", "Terraform", "AWS"]
 ---
 

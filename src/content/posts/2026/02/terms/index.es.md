@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"이용약관 (Terms of Service)\""
-description: "Términos de servicio y políticas de uso de Hello Prompt para garantizar una experiencia segura con IA."
+description: "Términos de servicio y políticas de uso de Hello Prompt para garantizar una experiencia segura con IA. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 date: "2026-02-09"
 ---
 

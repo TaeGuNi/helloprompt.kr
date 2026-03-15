@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Création de Contenu"
-description: "Générez des scripts YouTube Shorts et TikTok viraux en masse grâce à cette formule Hook-Body-CTA infaillible pour l'IA."
+description: "Générez des scripts YouTube Shorts et TikTok viraux en masse grâce à cette formule Hook-Body-CTA infaillible pour l'IA. Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags: ["YouTube", "Shorts", "ÉcritureScript", "Créateur", "TikTok"]
 ---
 

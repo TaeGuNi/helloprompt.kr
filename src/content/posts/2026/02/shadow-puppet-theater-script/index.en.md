@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parenting & Education"
-description: "Create a magical bedtime experience with a flashlight and this AI-written shadow play script."
+description: "Create a magical bedtime experience with a flashlight and this AI-written shadow play script. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Parenting", "Education", "AI Prompt", "ChatGPT", "Parenting Tips"]
 ---
 

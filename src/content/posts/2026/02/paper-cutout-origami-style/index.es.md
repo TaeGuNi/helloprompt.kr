@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.175Z"
 updatedDate: "2026-02-07T09:10:33.176Z"
 category: "Generación de Imágenes"
-description: "Guía completa de prompts de Paper Cutout y Origami para dar volumen y calidez analógica a ilustraciones digitales 2D."
+description: "Guía completa de prompts de Paper Cutout y Origami para dar volumen y calidez analógica a ilustraciones digitales 2D. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Craft"]
 image: "/images/hooks/paper-cutout-origami-style.jpg"
 ---

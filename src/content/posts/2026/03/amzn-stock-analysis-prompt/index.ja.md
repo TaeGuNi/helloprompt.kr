@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-03-13"
 updatedDate: "2026-03-13"
 category: "재테크 & 투자"
-description: "Amazon（AMZN）株をAIで分析するプロンプト。AWS、Eコマース、広告事業をSOTPで解剖し、適正価値を算出する方法を解説します。"
+description: "Amazon（AMZN）株をAIで分析するプロンプト。AWS、Eコマース、広告事業をSOTPで解剖し、適正価値を算出する方法を解説します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 아마존(AMZN) 주식을 AI로 분석하는 프롬프트. AWS 클라우드, 이커머스, 광고 사업의 3대 축을 SOTP로 해부하는 방법."
 tags: ["주식", "AMZN", "아마존", "투자", "AWS", "이커머스", "클라우드"]
 cover: "./cover.png"
 ---

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creación y Aficiones"
-description: "Con solo 3 palabras clave, la IA crea un borrador de letra de balada emocional con calidad de nivel profesional."
+description: "Con solo 3 palabras clave, la IA crea un borrador de letra de balada emocional con calidad de nivel profesional. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["Letras", "EscrituraLetras", "Balada", "Música"]
 ---
 

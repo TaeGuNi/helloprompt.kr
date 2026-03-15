@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.157Z"
 updatedDate: "2026-02-07T09:10:33.157Z"
 category: "Viajes"
-description: "Obtén un itinerario perfecto en 1 minuto, adaptado a tus gustos, rutas y resistencia física."
+description: "Obtén un itinerario perfecto en 1 minuto, adaptado a tus gustos, rutas y resistencia física. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["viajes", "itinerario", "planificador", "viajes al extranjero"]
 ---
 

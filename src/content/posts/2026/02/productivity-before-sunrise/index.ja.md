@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Workflow Automation"
-description: "他の人が寝ている間に3倍の仕事をこなす、アーリーバード向けの生産性ハッキングガイド。"
+description: "他の人が寝ている間に3倍の仕事をこなす、アーリーバード向けの生産性ハッキングガイド。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 남들이 자는 시간에 3배 더 많은 일을 처리하는 얼리버드 생산성 해킹 가이드 및 AI 시간 관리 프롬프트."
 tags: ["Productivity", "Time Management", "Productivity", "새벽업무"]
 ---
 

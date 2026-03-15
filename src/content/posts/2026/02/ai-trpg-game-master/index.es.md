@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "Ni amigos, ni dados. Disfruta de una aventura de D&D (Dungeons & Dragons) en solitario dirigida por la IA."
+description: "Ni amigos, ni dados. Disfruta de una aventura de D&D (Dungeons & Dragons) en solitario dirigida por la IA. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["TRPG", "게임", "던전앤드래곤", "판타지", "ChatGPT"]
 ---
 

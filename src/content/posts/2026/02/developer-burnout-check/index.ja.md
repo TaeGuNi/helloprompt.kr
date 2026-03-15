@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "General"
-description: "キーボードに向かうとため息が出るあなたへ。MBI（Maslach Burnout Inventory）に基づき、自身の状態を客観的に診断して処方箋を受け取るプロンプト。"
+description: "キーボードに向かうとため息が出るあなたへ。MBI（Maslach Burnout Inventory）に基づき、自身の状態を客観的に診断して処方箋を受け取るプロンプト。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 키보드만 잡으면 한숨부터 나오는 당신. MBI(Maslach Burnout Inventory) 기반으로 내 상태를 진단하고 맞춤형 처방을 받는 ..."
 tags: ["번아웃", "개발자", "멘탈케어", "심리", "ChatGPT"]
 ---
 

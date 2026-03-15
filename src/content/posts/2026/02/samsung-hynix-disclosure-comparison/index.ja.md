@@ -5,7 +5,7 @@ author: "Antigravity"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "プロンプトのコツ"
-description: "数百ページに及ぶDART事業報告書をAIで一気に解読し、投資に必要な重要指標だけを鋭く抽出して完璧に比較する実践的なプロンプトを紹介します。"
+description: "数百ページに及ぶDART事業報告書をAIで一気に解読し、投資に必要な重要指標だけを鋭く抽出して完璧に比較する実践的なプロンプトを紹介します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 수백 페이지의 방대한 DART 사업보고서를 AI로 단숨에 해독하고, 투자에 필요한 핵심 지표만 날카롭게 뽑아내어 완벽하게 비교하는 실전 프롬프트입니다."
 tags: ["株式", "投資", "公示分析", "サムスン電子", "SKハイニックス", "DART"]
 image: "/images/hooks/samsung-hynix-disclosure-comparison.jpg"
 ---

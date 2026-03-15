@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatisation du Travail"
-description: "Générez des scripts de présentation naturels et percutants pour chaque diapositive de votre PPT."
+description: "Générez des scripts de présentation naturels et percutants pour chaque diapositive de votre PPT. Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 ---
 

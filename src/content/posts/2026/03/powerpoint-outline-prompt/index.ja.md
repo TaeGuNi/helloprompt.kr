@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "Workflow Automation"
-description: "真っ白なスライドを前に途方に暮れる時間はもう終わりです。AIを活用し、完璧なプレゼン構成から各スライドのトークスクリプトまでを一瞬で導き出す超実践的なプロンプトを公開します。"
+description: "真っ白なスライドを前に途方に暮れる時間はもう終わりです。AIを活用し、完璧なプレゼン構成から各スライドのトークスクリプトまでを一瞬で導き出す超実践的なプロンプトを公開します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 빈 슬라이드만 바라보며 막막해하던 시간은 이제 끝입니다. 단 1분 만에 치밀한 스토리라인부터 슬라이드별 핵심 메시지와 시각화 전략까지 완벽..."
 tags: ["prompt-engineering", "ai-agent", "powerpoint"]
 image: "/images/hooks/powerpoint-outline-prompt.jpg"
 ---

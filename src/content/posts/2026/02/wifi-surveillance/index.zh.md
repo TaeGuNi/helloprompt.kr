@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Security"
-description: "即便没有摄像头，仅凭 WiFi 信号波动就能监视墙后的人？揭秘 'WiFi 感知' 技术的致命风险，并为您提供全方位的隐私防御指南。"
+description: "即便没有摄像头，仅凭 WiFi 信号波动就能监视墙后的人？揭秘 'WiFi 感知' 技术的致命风险，并为您提供全方位的隐私防御指南。 详细介绍AI提示词的使用方法与实战技巧。 | 카메라 없이 와이파이(WiFi) 신호 파동만으로 벽 너머의 사람을 감시하는 'WiFi 센싱' 기술의 치명적 위험성과 완벽 방어 가이드."
 tags: ["Privacy", "Security", "WiFi", "Tech"]
 ---
 

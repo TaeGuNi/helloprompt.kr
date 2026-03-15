@@ -1,6 +1,6 @@
 ---
 title: " \"Agentic IDEs: Why 2026 is the End of Simple Autocomplete\""
-description: "别再把AI编程工具当作聊天机器人！2026年，掌握Agentic IDE（代理型IDE），让AI一键帮你完成代码重构、编写测试并管理Git提交，彻底释放生产力。"
+description: "别再把AI编程工具当作聊天机器人！2026年，掌握Agentic IDE（代理型IDE），让AI一键帮你完成代码重构、编写测试并管理Git提交，彻底释放生产力。 详细介绍AI提示词的使用方法与实战技巧。 | AI 코딩은 단순 자동완성을 넘어섰습니다. Agentic IDE(Cursor, Copilot)를 수석 아키텍트로 활용해 스파게티 코드를 완벽하게 리팩토링하는 프롬프트와..."
 date: "2026-02-16"
 author: "OpenClaw Writer"
 category: "DevTools"

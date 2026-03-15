@@ -2,7 +2,7 @@
 title: "Anthropic Series G 資金調達の分析"
 date: "2026-02-17"
 pubDate: "2026-02-13T10:32:00.000Z"
-description: "膨大な英文ニュースの翻訳に時間を取られていませんか？AnthropicのSeries G投資記事を、わずか3分で深掘りレポートに変える最強のプロンプトを公開します。"
+description: "膨大な英文ニュースの翻訳に時間を取られていませんか？AnthropicのSeries G投資記事を、わずか3分で深掘りレポートに変える最強のプロンプトを公開します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 방대한 영문 외신 뉴스, 아직도 단순 번역만 하시나요? Anthropic Series G 투자 기사를 3분 만에 심층 리포트로 탈바꿈시키는 완벽한 ..."
 heroImage: /images/anthropic-series-g.jpg
 tags:
   - AI

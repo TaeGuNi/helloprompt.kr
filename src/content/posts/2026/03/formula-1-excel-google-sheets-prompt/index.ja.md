@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "Workflow Automation"
-description: "VLOOKUPやINDEX MATCHの地獄から今すぐ抜け出しましょう。どんなに複雑なExcelやスプレッドシートの数式でも、たった1秒で正確に生成してくれる実践的なプロンプトを大公開します。"
+description: "VLOOKUPやINDEX MATCHの地獄から今すぐ抜け出しましょう。どんなに複雑なExcelやスプレッドシートの数式でも、たった1秒で正確に生成してくれる実践的なプロンプトを大公開します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["prompt-engineering", "ai-agent", "formula-1"]
 image: "/images/hooks/formula-1-excel-google-sheets-prompt.jpg"
 ---

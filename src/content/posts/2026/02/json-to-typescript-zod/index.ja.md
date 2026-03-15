@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "コーディング/開発"
-description: "複雑なJSONデータからTypeScriptの型定義とZodスキーマを一瞬で自動生成する実用的なプロンプトです。"
+description: "複雑なJSONデータからTypeScriptの型定義とZodスキーマを一瞬で自動生成する実用的なプロンプトです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 복잡한 JSON 데이터를 TypeScript 인터페이스와 런타임 검증용 Zod 스키마로 단숨에 자동 변환하는 프롬프트를 소개합니다."
 tags: ["TypeScript", "Zod", "JSON", "型定義", "生産性"]
 ---
 

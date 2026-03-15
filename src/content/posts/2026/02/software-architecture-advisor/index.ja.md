@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "コーディング/開発"
-description: "プロジェクトの規模や要件を入力するだけで、MVC、Clean Architecture、MSAなどの最適なソフトウェアアーキテクチャを提案・設計してくれるプロンプトです。"
+description: "プロジェクトの規模や要件を入力するだけで、MVC、Clean Architecture、MSAなどの最適なソフトウェアアーキテクチャを提案・設計してくれるプロンプトです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 프로젝트 규모와 요구사항을 입력하면 MVC, Clean Architecture, MSA 등 내 서비스에 딱 맞는 최적의 소프트웨어 아키텍처를 ..."
 tags: ["アーキテクチャ", "設計", "デザインパターン", "システム設計", "MSA"]
 ---
 

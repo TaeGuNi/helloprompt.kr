@@ -2,7 +2,7 @@
 layout: ../../../layouts/PostLayout.astro
 title: "Chrome DevTools MCP 服务器：AI 智能体的 Web 调试革命"
 date: 2026-02-14
-description: "了解 Model Context Protocol (MCP) 如何赋予 AI 智能体直接访问 Chrome DevTools 的能力，实现 Web 应用的自动化调试与视觉验证。"
+description: "了解 Model Context Protocol (MCP) 如何赋予 AI 智能体直接访问 Chrome DevTools 的能力，实现 Web 应用的自动化调试与视觉验证。 详细介绍AI提示词的使用方法与实战技巧。 | Model Context Protocol(MCP)을 활용해 AI가 Chrome DevTools에 직접 접속하여 웹 애플리케이션을 디버깅하고 검증하는 혁..."
 author: "Hello Prompt"
 image: "/images/posts/chrome-devtools-mcp.png"
 tags: ["MCP", "AI Agents", "Chrome DevTools", "Debugging"]

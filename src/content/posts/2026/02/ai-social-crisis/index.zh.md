@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-14"
 updatedDate: "2026-02-14"
 category: "服务策划"
-description: "分析盲目引入 AI 功能引发的“社交 AI 危机”，并提供实用的提示词，帮助策划不破坏人际关系的真诚服务。"
+description: "分析盲目引入 AI 功能引发的“社交 AI 危机”，并提供实用的提示词，帮助策划不破坏人际关系的真诚服务。 详细介绍AI提示词的使用方法与实战技巧。 | 무분별한 AI 기능 도입이 야기하는 '소셜 AI 위기'를 분석하고, 인간관계를 파괴하지 않는 진정성 있는 서비스 기획을 위한 실무 프롬프트를 제공합니다."
 tags: ["AI", "Trend", "2026"]
 image: "https://picsum.photos/seed/social-crisis/800/400"
 ---

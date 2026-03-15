@@ -8,7 +8,7 @@ tags:
   - "Siri"
   - "iPhone 17"
 heroImage: "https://picsum.photos/1600/900"
-description: "与 iPhone 17 同步推出的 Apple Intelligence 2.0，完美实现了强大的大语言模型（LLM）在端侧（On-device）的本地运行与隐私保护。"
+description: "与 iPhone 17 同步推出的 Apple Intelligence 2.0，完美实现了强大的大语言模型（LLM）在端侧（On-device）的本地运行与隐私保护。 详细介绍AI提示词的使用方法与实战技巧。 | 아이폰 17의 애플 인텔리전스 2.0을 통해 클라우드 없이 온디바이스로 구동되는 강력한 로컬 LLM Siri의 활용법과 실전 프롬프트를 소개합니다."
 ---
 
 ## 📝 Apple Intelligence 2.0：彻底释放本地 LLM Siri 的生产力

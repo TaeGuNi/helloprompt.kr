@@ -5,7 +5,7 @@ author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "General"
-description: "Reglas implacables de un ingeniero backend senior para evitar que la IA genere esquemas de base de datos espagueti."
+description: "Reglas implacables de un ingeniero backend senior para evitar que la IA genere esquemas de base de datos espagueti. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "rdbms-architecture"]
 ---
 

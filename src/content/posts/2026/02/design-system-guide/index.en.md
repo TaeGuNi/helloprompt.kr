@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "General"
-description: "How to synchronize Figma variables with CSS variables. A complete guide to building a token-based design system."
+description: "How to synchronize Figma variables with CSS variables. A complete guide to building a token-based design system. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["디자인시스템", "Figma", "CSS", "UI-UX", "Collaboration"]
 ---
 

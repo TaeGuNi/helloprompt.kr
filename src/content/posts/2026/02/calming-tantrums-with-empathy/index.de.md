@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Erziehung & Bildung"
-description: "Magische Worte für Eltern: So entschärfen Sie kindliche Wutanfälle empathisch und hochwirksam in Rekordzeit."
+description: "Magische Worte für Eltern: So entschärfen Sie kindliche Wutanfälle empathisch und hochwirksam in Rekordzeit. Erfahren Sie mehr über die praktische Anwendung von KI-Prompts."
 tags: ["Erziehung", "Bildung", "KI-Prompts", "ChatGPT", "Erziehungstipps"]
 ---
 

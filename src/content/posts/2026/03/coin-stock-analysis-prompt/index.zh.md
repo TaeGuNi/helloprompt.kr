@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-03-13"
 updatedDate: "2026-03-13"
 category: "理财与投资"
-description: "使用 AI 分析 Coinbase (COIN) 股票的提示词。涵盖比特币 ETF 托管费、交易所营收、Base L2 生态系统，深度解构加密货币领头羊的方法。"
+description: "使用 AI 分析 Coinbase (COIN) 股票的提示词。涵盖比特币 ETF 托管费、交易所营收、Base L2 生态系统，深度解构加密货币领头羊的方法。 详细介绍AI提示词的使用方法与实战技巧。 | 코인베이스(COIN) 주식을 AI로 분석하는 프롬프트. 비트코인 ETF 수탁 수수료, 거래소 매출, Base L2 생태계까지 크립토 대장주를 해부하는 방법."
 tags: ["股票", "COIN", "Coinbase", "投资", "虚拟货币", "比特币ETF", "加密货币"]
 cover: "./cover.png"
 ---

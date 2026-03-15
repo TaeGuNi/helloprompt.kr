@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-03-13"
 updatedDate: "2026-03-13"
 category: "재테크 & 투자"
-description: "マイクロソフト(MSFT)株をAIで分析するプロンプト。Azure成長率、Copilot売上、OpenAI投資リターンまで5分で整理する方法。"
+description: "マイクロソフト(MSFT)株をAIで分析するプロンプト。Azure成長率、Copilot売上、OpenAI投資リターンまで5分で整理する方法。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 마이크로소프트(MSFT) 주식을 AI로 분석하는 프롬프트. Azure 성장률, Copilot 매출, OpenAI 투자 리턴까지 5분 만에 정리하는 방법."
 tags: ["주식", "MSFT", "마이크로소프트", "투자", "클라우드", "Azure", "Copilot"]
 cover: "./cover.png"
 ---

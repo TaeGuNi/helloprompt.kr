@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: "打造如 3D 游戏或精美图标般立体、可爱的等距视角（Isometric View）图像，一键生成微缩世界。"
+description: "打造如 3D 游戏或精美图标般立体、可爱的等距视角（Isometric View）图像，一键生成微缩世界。 详细介绍AI提示词的使用方法与实战技巧。 | 마치 심시티나 미니어처 디오라마처럼, 한눈에 쏙 들어오는 귀여운 3D 입체 뷰를 만드는 아이소메트릭(Isometric) 프롬프트 완벽 가이드입니다."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "3D"]
 ---
 

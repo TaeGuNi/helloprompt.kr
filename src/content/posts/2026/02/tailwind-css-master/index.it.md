@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "General"
-description: "Convertitore IA che trasforma istantaneamente descrizioni e proprietà CSS come flex, grid e center in classi Tailwind."
+description: "Convertitore IA che trasforma istantaneamente descrizioni e proprietà CSS come flex, grid e center in classi Tailwind. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags: ["Tailwind", "CSS", "Frontend", "웹디자인", "Coding"]
 ---
 

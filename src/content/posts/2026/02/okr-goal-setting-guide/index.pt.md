@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automação de Trabalho"
-description: "Aprenda a estabelecer Objetivos (Objectives) inspiradores e Resultados-Chave (Key Results) mensuráveis com IA."
+description: "Aprenda a estabelecer Objetivos (Objectives) inspiradores e Resultados-Chave (Key Results) mensuráveis com IA. Descubra como usar prompts de IA de forma prática e eficaz."
 tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 ---
 

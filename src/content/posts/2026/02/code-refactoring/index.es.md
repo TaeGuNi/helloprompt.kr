@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.120Z"
 updatedDate: "2026-02-07T09:10:33.120Z"
 category: "Programación/TI"
-description: "Un prompt para transformar código espagueti en código limpio, legible y fácil de mantener."
+description: "Un prompt para transformar código espagueti en código limpio, legible y fácil de mantener. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags:
   ["refactorización", "código limpio", "desarrollador", "revisión de código"]
 ---

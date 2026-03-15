@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Fashion"
-description: "Foolproof OOTD recommendations considering temperature, humidity, and rain probability."
+description: "Foolproof OOTD recommendations considering temperature, humidity, and rain probability. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Fashion", "Weather", "OOTD", "Outfit"]
 ---
 

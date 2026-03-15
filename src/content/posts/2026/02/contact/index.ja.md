@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "お問い合わせ (Contact Us)"
-description: "Hello Promptへの提携依頼は大歓迎！担当者の心を1秒で掴み、返信率を200%向上させる「必勝B2Bコールドメールプロンプト」を活用して、成功するビジネスパートナーシップをスタートさせましょう。"
+description: "Hello Promptへの提携依頼は大歓迎！担当者の心を1秒で掴み、返信率を200%向上させる「必勝B2Bコールドメールプロンプト」を活用して、成功するビジネスパートナーシップをスタートさせましょう。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 date: "2026-02-09"
 image: "/images/hooks/contact.jpg"
 ---

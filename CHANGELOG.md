@@ -2,6 +2,39 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.19.0](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.18.0...v1.19.0) (2026-03-15)
+
+
+### Features
+
+* **content:** add 10 digital content AI posts (100 files, 10 languages) ([9e37426](https://github.com/TaeGuNi/helloprompt.kr/commit/9e37426dcaa460405ae22fd5ba14f8784206c5ca))
+
+## [1.18.0](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.17.1...v1.18.0) (2026-03-15)
+
+
+### Features
+
+* **content:** add lofi-music-ai-prompt post (10 languages) ([20f0510](https://github.com/TaeGuNi/helloprompt.kr/commit/20f051032cf8e59defe1e4c4015e57cbc27ffea1))
+
+### [1.17.1](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.17.0...v1.17.1) (2026-03-15)
+
+
+### Bug Fixes
+
+* **ci:** exclude font preconnect URLs from Lychee link checker ([12edf14](https://github.com/TaeGuNi/helloprompt.kr/commit/12edf14fa785b5c3cd5ce00b81a2deedec0ae58b))
+
+## [1.17.0](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.16.3...v1.17.0) (2026-03-15)
+
+
+### Features
+
+* **seo:** add FAQPage schema, series hub pages, expand meta descriptions ([84d3b15](https://github.com/TaeGuNi/helloprompt.kr/commit/84d3b15e41afbc7a1d47364b7ce41c8886eaf04f))
+
+
+### Bug Fixes
+
+* **content:** repair double-escaped YAML frontmatter in 83 description files ([051dae5](https://github.com/TaeGuNi/helloprompt.kr/commit/051dae5883ee68f1a608d8603646ba6fac0a457f))
+
 ### [1.16.3](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.16.2...v1.16.3) (2026-03-15)
 
 

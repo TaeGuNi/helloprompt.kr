@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: " "
-description: "深入解析招聘JD，只需1分钟即可生成与你过往经验100%契合的定制化求职信实战Prompt。"
+description: "深入解析招聘JD，只需1分钟即可生成与你过往经验100%契合的定制化求职信实战Prompt。 详细介绍AI提示词的使用方法与实战技巧。 | 채용 공고(JD)의 숨은 의도를 완벽히 꿰뚫고, 내 경험과 100% 일치하는 맞춤형 자기소개서를 단 1분 만에 완성하는 실전 프롬프트를 공개합니다."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "resume-cover-le"]
 ---
 

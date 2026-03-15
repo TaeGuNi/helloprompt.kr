@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "A tailored curriculum design prompt for those who want to learn anything rapidly without giving up."
+description: "A tailored curriculum design prompt for those who want to learn anything rapidly without giving up. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Learning", "Roadmap", "Education", "SelfImprovement"]
 ---
 

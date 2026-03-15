@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "Workflow Automation"
-description: "这份实操指南教您如何利用AI在1分钟内快速分析海量体育赛事数据，并瞬间生成专业级业务报告，彻底告别手动检索的繁琐。"
+description: "这份实操指南教您如何利用AI在1分钟内快速分析海量体育赛事数据，并瞬间生成专业级业务报告，彻底告别手动检索的繁琐。 详细介绍AI提示词的使用方法与实战技巧。 | 방대한 스포츠 데이터를 AI로 단 1분 만에 분석하여 실무 보고서와 콘텐츠에 즉시 활용하는 완벽 가이드입니다."
 tags: ["prompt-engineering", "ai-agent", "sassuolo-vs-ata"]
 ---
 

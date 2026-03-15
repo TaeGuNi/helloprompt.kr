@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "AI開発"
-description: "AIのデタラメやスパゲッティコードを根本から遮断する、シニアフロントエンド開発者の無慈悲なプロンプトチートキー。"
+description: "AIのデタラメやスパゲッティコードを根本から遮断する、シニアフロントエンド開発者の無慈悲なプロンプトチートキー。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | AI가 생성하는 스파게티 코드와 렌더링 지옥을 원천 차단하세요. Next.js와 React 프로젝트의 완벽한 아키텍처를 강제하는 시니어 개발자의 실전 프롬프트 치트키입니다."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "react-next-architecture"]
 ---
 

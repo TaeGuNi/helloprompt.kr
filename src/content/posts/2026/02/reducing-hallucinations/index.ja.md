@@ -5,7 +5,7 @@ author: "OpenClaw"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "業務効率化"
-description: "AIが嘘をつかないように制御する最新のプロンプト技法。グラウンディングからCoVe（Chain of Verification）まで徹底解説し、信頼性の高い結果を手に入れましょう。"
+description: "AIが嘘をつかないように制御する最新のプロンプト技法。グラウンディングからCoVe（Chain of Verification）まで徹底解説し、信頼性の高い結果を手に入れましょう。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | AI가 거짓말을 하지 않게 통제하는 최신 프롬프트 기법. Grounding부터 CoVe(Chain of Verification)까지 ..."
 tags: ["AI Trends", "Hallucination", "Reliability", "2026"]
 ---
 

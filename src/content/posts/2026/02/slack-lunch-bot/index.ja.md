@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "Work Automation"
-description: "プログラミング知識がなくても、SlackワークフロービルダーとAIを連携させ、毎日のランチメニュー選びの悩みを一瞬で解決するパーソナライズされたレコメンドボットの構築ガイドです。"
+description: "プログラミング知識がなくても、SlackワークフロービルダーとAIを連携させ、毎日のランチメニュー選びの悩みを一瞬で解決するパーソナライズされたレコメンドボットの構築ガイドです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 개발 지식 없이도 슬랙(Slack) 워크플로우 빌더와 AI를 완벽하게 연동하여, 매일 반복되는 팀원들의 점심 메뉴 고민을 단숨에 해결해..."
 tags: ["Slack", "슬랙", "Chatbot", "Automation", "사내문화"]
 image: "/images/hooks/slack-lunch-bot.jpg"
 ---

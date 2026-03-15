@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Bildgenerierung"
-description: "Ein stimmungsvoller Aquarell-Prompt, der weiche Farbverläufe mit präzisen Bleistiftskizzen kombiniert."
+description: "Ein stimmungsvoller Aquarell-Prompt, der weiche Farbverläufe mit präzisen Bleistiftskizzen kombiniert. Erfahren Sie mehr über die praktische Anwendung von KI-Prompts."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Kunststil", "Traditionell"]
 ---
 

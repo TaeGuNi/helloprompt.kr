@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.147Z"
 updatedDate: "2026-02-07T09:10:33.147Z"
 category: " "
-description: "最も日本的な美学、浮世絵（Ukiyo-e）スタイルで波や風景を鮮やかに再現する画像生成プロンプトです。"
+description: "最も日本的な美学、浮世絵（Ukiyo-e）スタイルで波や風景を鮮やかに再現する画像生成プロンプトです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 가장 일본적인 미학, 우키요에(Ukiyo-e) 스타일로 파도와 풍경을 생생하게 구현하는 이미지 생성 프롬프트입니다."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Traditional"]
 ---
 

@@ -18,9 +18,10 @@ export interface Props {
   };
   headings?: { depth: number; slug: string; text: string }[];
   isHome?: boolean;
+  rawContent?: string;
 }
 
-const { frontmatter, headings, isHome = false } = Astro.props;
+const { frontmatter, headings, isHome = false, rawContent } = Astro.props;
 
 import AdUnit from "../components/AdUnit.astro";
 import Analytics from "../components/Analytics.astro";
@@ -51,7 +52,7 @@ const t = uiStrings[currentLang] || uiStrings.ko;
       src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3431175239292021"
       crossorigin="anonymous"></script>
     <!-- [SEO & Meta Tags] -->
-    <SEO frontmatter={frontmatter} isHome={isHome} />
+    <SEO frontmatter={frontmatter} isHome={isHome} rawContent={rawContent} />
   </head>
   <body>
     {/* Reading Progress Bar (Article pages only) */}

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.150Z"
 updatedDate: "2026-02-07T09:10:33.150Z"
 category: "Travel & Culture"
-description: "ひとり旅の不安をAIで解消。安全、予算、孤独の問題をすべて解決する、完璧なバックパック旅行ルート設計プロンプトを公開。3分で安全な旅をデザインしましょう。"
+description: "ひとり旅の不安をAIで解消。安全、予算、孤独の問題をすべて解決する、完璧なバックパック旅行ルート設計プロンプトを公開。3分で安全な旅をデザインしましょう。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 나홀로 여행객을 위한 맞춤형 AI 가이드. 안전, 예산, 외로움을 모두 해결하는 완벽한 배낭여행 루트 설계 프롬프트를 확인해 보세요."
 tags: ["Solo Travel", "Backpacking", "Safe Travel", "Wanderlust"]
 image: "/images/hooks/solo-backpacking-safe-route-guide.jpg"
 ---

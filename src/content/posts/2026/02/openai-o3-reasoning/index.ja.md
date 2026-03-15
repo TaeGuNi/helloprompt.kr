@@ -2,7 +2,7 @@
 title: "OpenAI O3: 推論の深みを増す"
 date: 2026-02-14
 tags: [openai, ai, reasoning]
-description: "複雑な問題解決に特化したOpenAIの推論特化型モデル「O3」の能力を200%引き出す、深層推論（Deep Reasoning）プロンプトと実践的ノウハウを解説します。"
+description: "複雑な問題解決に特化したOpenAIの推論特化型モデル「O3」の能力を200%引き出す、深層推論（Deep Reasoning）プロンプトと実践的ノウハウを解説します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 기존 LLM의 한계를 넘은 OpenAI O3 모델의 심층 추론(Deep Reasoning) 능력을 200% 끌어내는 실전 프롬프트와 활용 노하우..."
 ---
 
 ## 📝 OpenAI O3: 推論の深みを増す

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: "捕捉连肉眼都难以察觉的微小细节。立即获取微距摄影(Macro Photography)核心提示词，一键生成令人惊叹的微观视觉大片。"
+description: "捕捉连肉眼都难以察觉的微小细节。立即获取微距摄影(Macro Photography)核心提示词，一键生成令人惊叹的微观视觉大片。 详细介绍AI提示词的使用方法与实战技巧。 | 눈에 보이지 않는 미세한 디테일까지 포착하는 완벽한 접사(Macro) 촬영 AI 이미지 프롬프트 가이드입니다."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Camera Angle", "Details"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "Workflow Automation"
-description: "1週間何をしたか思い出せませんか？Slack、Jira、GitHubのログを投げるだけで、完璧な週報が瞬時に完成する圧倒的な業務効率化を体験してください。"
+description: "1週間何をしたか思い出せませんか？Slack、Jira、GitHubのログを投げるだけで、完璧な週報が瞬時に完成する圧倒的な業務効率化を体験してください。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 일주일 동안 뭐 했는지 기억 안 나시나요? 슬랙, 지라, 깃허브 로그만 던져주면 완벽한 주간 업무 보고서가 10초 만에 완성되는 기적을 경험해 보세요."
 tags: ["Gemini", "Reports", "직장인꿀팁", "Productivity"]
 ---
 

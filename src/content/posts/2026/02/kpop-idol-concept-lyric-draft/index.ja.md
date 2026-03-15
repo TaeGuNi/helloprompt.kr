@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "Creative & Hobbies"
-description: "音楽生成AI（Suno、Udio）でビルボードチャート級のK-pop音源を制作するための、完璧な歌詞構造化およびプロンプトエンジニアリングガイドです。"
+description: "音楽生成AI（Suno、Udio）でビルボードチャート級のK-pop音源を制作するための、完璧な歌詞構造化およびプロンプトエンジニアリングガイドです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 음악 생성 AI(Suno, Udio)로 빌보드 차트급 K-pop 음원을 제작하는 완벽한 가사 구조화 및 프롬프트 엔지니어링 가이드입니다."
 tags: ["작사", "작곡", "Suno", "Udio", "AI음악"]
 ---
 

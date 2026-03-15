@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automação de Trabalho"
-description: "Não quebre a cabeça sozinho. Expanda suas ideias rapidamente com a técnica SCAMPER."
+description: "Não quebre a cabeça sozinho. Expanda suas ideias rapidamente com a técnica SCAMPER. Descubra como usar prompts de IA de forma prática e eficaz."
 tags: ["Eficiência no Trabalho", "Excel", "Relatório", "ChatGPT"]
 ---
 

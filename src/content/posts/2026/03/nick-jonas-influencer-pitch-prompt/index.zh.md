@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "General"
-description: "告别零回复的陈词滥调！为您揭秘能瞬间俘获全球顶流巨星的完美冷邮件撰写提示词。"
+description: "告别零回复的陈词滥调！为您揭秘能瞬间俘获全球顶流巨星的完美冷邮件撰写提示词。 详细介绍AI提示词的使用方法与实战技巧。 | 답장률 0%의 뻔한 제안서는 그만! 글로벌 팝스타 수준의 VIP 셀럽을 단숨에 홀리는 완벽한 초개인화 콜드 이메일 작성 프롬프트를 공개합니다."
 tags: ["prompt-engineering", "ai-agent", "nick-jonas"]
 image: "/images/hooks/nick-jonas-influencer-pitch-prompt.jpg"
 ---

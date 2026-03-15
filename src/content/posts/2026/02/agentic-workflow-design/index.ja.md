@@ -5,7 +5,7 @@ author: "Unifactory Editor"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "業務自動化"
-description: "単なる質疑応答を超え、AIに複雑な業務を完璧に委任する「エージェント・ワークフロー」設計ガイド。2026年の実務者が必ず知っておくべきプロンプトエンジニアリングの極意を公開します。"
+description: "単なる質疑応答を超え、AIに複雑な業務を完璧に委任する「エージェント・ワークフロー」設計ガイド。2026年の実務者が必ず知っておくべきプロンプトエンジニアリングの極意を公開します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 단순한 문답을 넘어 AI에게 복잡한 업무를 완벽히 위임하는 '에이전틱 워크플로우' 설계 가이드. 2026년 실무자가 반드시 알아야 할..."
 tags: ["AI Agent", "Workflow", "Prompt Engineering", "Productivity", "Automation"]
 image: "/images/2026/02/15/agent-workflow.jpg"
 ---

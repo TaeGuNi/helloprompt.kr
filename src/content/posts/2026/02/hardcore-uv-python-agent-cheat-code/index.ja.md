@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "業務自動化"
-description: "もどかしいAIエージェントのI/Oボトルネックを解消し、ミリ秒単位の圧倒的なパフォーマンスを引き出す超高速Pythonパッケージマネージャー「uv」強制化チートキープロンプトです。"
+description: "もどかしいAIエージェントのI/Oボトルネックを解消し、ミリ秒単位の圧倒的なパフォーマンスを引き出す超高速Pythonパッケージマネージャー「uv」強制化チートキープロンプトです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 답답한 AI 에이전트의 I/O 병목을 해결하고, 밀리초 단위의 압도적인 퍼포먼스를 이끌어내는 초고속 파이썬 패키지 매니저 'uv' 강..."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "uv-python"]
 image: "/images/hooks/hardcore-uv-python-agent-cheat-code.jpg"
 ---

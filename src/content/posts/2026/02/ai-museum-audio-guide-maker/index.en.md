@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Travel & Culture"
-description: "Save €10 on audio guide rentals. Simply snap a picture of any artwork, and let AI become your personal docent."
+description: "Save €10 on audio guide rentals. Simply snap a picture of any artwork, and let AI become your personal docent. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Museum", "Art Gallery", "Audio Guide", "Docent", "Art Appreciation"]
 ---
 

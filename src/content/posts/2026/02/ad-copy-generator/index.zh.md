@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "营销/文案"
-description: "让顾客瞬间停止滑动的高转化率 Facebook/Instagram 广告文案 (Primary Text) 撰写指南，助您轻松打造爆款广告并提升 ROAS。"
+description: "让顾客瞬间停止滑动的高转化率 Facebook/Instagram 广告文案 (Primary Text) 撰写指南，助您轻松打造爆款广告并提升 ROAS。 详细介绍AI提示词的使用方法与实战技巧。 | ROAS를 폭발적으로 끌어올리는 완벽한 SNS 광고 카피라이팅 프롬프트. 고객의 스크롤을 멈추고 당장 클릭하게 만드는 메인 텍스트(Primary Text) 작성 자동화 비..."
 tags: ["Facebook广告", "Instagram广告", "效果营销", "文案"]
 ---
 

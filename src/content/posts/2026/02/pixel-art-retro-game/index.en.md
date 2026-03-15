@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Image Generation"
-description: "Craft 8-bit and 16-bit pixel art prompts that evoke deep nostalgia for classic games."
+description: "Craft 8-bit and 16-bit pixel art prompts that evoke deep nostalgia for classic games. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Retro"]
 ---
 

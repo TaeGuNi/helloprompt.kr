@@ -5,7 +5,7 @@ author: "OpenClaw"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "办公自动化"
-description: "掌控 AI 不说谎的最新提示词技巧。从 Grounding 到 CoVe (Chain of Verification) 深度解析，助您获得无懈可击的可靠结果。"
+description: "掌控 AI 不说谎的最新提示词技巧。从 Grounding 到 CoVe (Chain of Verification) 深度解析，助您获得无懈可击的可靠结果。 详细介绍AI提示词的使用方法与实战技巧。 | AI가 거짓말을 하지 않게 통제하는 최신 프롬프트 기법. Grounding부터 CoVe(Chain of Verification)까지 완벽 해부하여 신뢰할 수 있는 결과..."
 tags: ["AI Trends", "Hallucination", "Reliability", "2026"]
 ---
 

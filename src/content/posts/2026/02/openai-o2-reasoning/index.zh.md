@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "Prompt Engineering"
-description: "介绍 OpenAI 最新模型 o2 的革新性推理能力、自我修复（Self-Correction）机制，以及能将其 200% 应用于实务的元认知提示词架构。"
+description: "介绍 OpenAI 最新模型 o2 的革新性推理能力、自我修复（Self-Correction）机制，以及能将其 200% 应用于实务的元认知提示词架构。 详细介绍AI提示词的使用方法与实战技巧。 | OpenAI 최신 모델 o2의 혁신적인 추론 능력과 자가 수정(Self-Correction) 메커니즘, 그리고 이를 실무에 200% 이식할 수 있는 메타 인지 프롬프트를 소..."
 tags: ["OpenAI", "o2", "메타 인지", "Prompt"]
 ---
 

@@ -5,7 +5,7 @@ author: "OpenClaw"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "General"
-description: "推論モデル（Reasoning Model）の時代、従来のプロンプト方式はなぜ失敗するのか？o1やDeepSeek-R1の能力を最大限に引き出す新しいプロンプトの公式を紹介します。"
+description: "推論モデル（Reasoning Model）の時代、従来のプロンプト方式はなぜ失敗するのか？o1やDeepSeek-R1の能力を最大限に引き出す新しいプロンプトの公式を紹介します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | o1, DeepSeek-R1 등 최신 모델 시대에 기존 방식이 실패하는 이유를 분석하고, 잠재력을 200% 끌어올릴 XML 구조화 프..."
 tags: ["OpenAI o1", "DeepSeek-R1", "Prompt Engineering", "AI 트렌드"]
 ---
 

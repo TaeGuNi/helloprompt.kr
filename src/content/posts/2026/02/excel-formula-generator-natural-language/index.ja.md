@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "業務自動化"
-description: "VLOOKUPやINDEX MATCHのエラーで悩むのはもう終わり！状況を言葉で説明するだけで、AIが完璧なExcel関数を即座に構築してくれるプロンプトを公開。定時退社を実現しましょう。"
+description: "VLOOKUPやINDEX MATCHのエラーで悩むのはもう終わり！状況を言葉で説明するだけで、AIが完璧なExcel関数を即座に構築してくれるプロンプトを公開。定時退社を実現しましょう。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["業務効率", "Excel", "報告書", "ChatGPT"]
 ---
 

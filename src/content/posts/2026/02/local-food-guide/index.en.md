@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Travel"
-description: "Skip the tourist traps. Discover authentic, hidden-gem restaurants where locals actually line up."
+description: "Skip the tourist traps. Discover authentic, hidden-gem restaurants where locals actually line up. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Travel", "Restaurant", "Mukbang", "Local Restaurant"]
 ---
 

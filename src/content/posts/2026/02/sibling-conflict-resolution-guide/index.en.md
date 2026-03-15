@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parenting & Education"
-description: "Resolve daily sibling conflicts fairly and strengthen their bond with this AI-guided mediation prompt."
+description: "Resolve daily sibling conflicts fairly and strengthen their bond with this AI-guided mediation prompt. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Parenting", "Education", "AI Prompts", "ChatGPT", "Parenting Tips"]
 ---
 

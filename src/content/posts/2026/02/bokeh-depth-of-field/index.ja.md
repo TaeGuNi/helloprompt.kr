@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.152Z"
 updatedDate: "2026-02-07T09:10:33.152Z"
 category: " "
-description: "平凡なAI画像を映画のワンシーンのように変える魔法。ボケ（Bokeh）と浅い被写界深度を活用して、幻想的な背景のボケを演出するプロンプトを公開します。"
+description: "平凡なAI画像を映画のワンシーンのように変える魔法。ボケ（Bokeh）と浅い被写界深度を活用して、幻想的な背景のボケを演出するプロンプトを公開します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 평범한 AI 이미지를 한 편의 영화처럼 탈바꿈시키는 마법. '보케(Bokeh)'와 '얕은 심도'를 활용해 몽환적인 배경 흐림을 연출하는 프롬프트를 공개합니다."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Photography", "Effect"]
 image: "/images/hooks/bokeh-depth-of-field.jpg"
 ---

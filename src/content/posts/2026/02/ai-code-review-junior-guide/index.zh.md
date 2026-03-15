@@ -1,6 +1,6 @@
 ---
 title: " \"像资深开发者一样进行代码审查：写给初级开发者的 AI 提示词指南 (2026 Edition)\""
-description: "专为畏惧代码审查（Code Review）的初级开发者打造。本文教你如何运用 AI 提示词，以 10 年资深架构师的视角，提前排查代码漏洞与优化空间，从容应对 PR。"
+description: "专为畏惧代码审查（Code Review）的初级开发者打造。本文教你如何运用 AI 提示词，以 10 年资深架构师的视角，提前排查代码漏洞与优化空间，从容应对 PR。 详细介绍AI提示词的使用方法与实战技巧。 | 코드 리뷰가 두려운 주니어 개발자를 위해, 10년 차 시니어 개발자의 시선을 빌려 코드의 취약점과 개선점을 미리 파악하는 AI 프롬프트 활용법을 소개합니다."
 date: 2026-02-16
 tags: ["AI", "Code Review", "Productivity", "Junior Developer"]
 layout: ../layouts/BlogPost.astro

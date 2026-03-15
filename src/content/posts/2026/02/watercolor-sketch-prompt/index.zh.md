@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: " \"完美融合水彩晕染效果与铅笔素描线条，教你用 AI 打造极具氛围感的清澈透明水彩画提示词。\""
+description: " \"完美融合水彩晕染效果与铅笔素描线条，教你用 AI 打造极具氛围感的清澈透明水彩画提示词。\" 详细介绍AI提示词的使用方法与实战技巧。 | 물이 번지는 듯한 몽환적인 효과와 거친 연필 스케치 라인이 완벽하게 어우러진 수채화 프롬프트를 소개합니다. 디지털 이미지에 아날로그의 따뜻한 감성을 불어넣어 보세요."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Traditional"]
 ---
 

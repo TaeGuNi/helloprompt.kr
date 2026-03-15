@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "数据分析"
-description: "告别繁琐的 Excel 函数记忆。本文将为您介绍无需 VLOOKUP，通过自然语言完美控制 Excel 并大幅缩短数据分析时间的 Prompt 技巧。"
+description: "告别繁琐的 Excel 函数记忆。本文将为您介绍无需 VLOOKUP，通过自然语言完美控制 Excel 并大幅缩短数据分析时间的 Prompt 技巧。 详细介绍AI提示词的使用方法与实战技巧。 | 복잡한 엑셀 함수 암기는 이제 그만. VLOOKUP 없이 자연어로 엑셀을 완벽하게 제어하고 데이터 분석 시간을 획기적으로 단축하는 프롬프트 테크닉을 소개합니다."
 tags: ["Excel", "数据分析", "ChatGPT", "VLOOKUP", "办公效率"]
 image: "/images/hooks/excel-formula-liberation.jpg"
 ---

@@ -1,6 +1,6 @@
 ---
 title: " \"Code Review Yourself: The 'Senior Reviewer' Prompt That Catches Bugs Before Your Team Does\""
-description: "告别充满低级错误的 PR！只需复制粘贴这段专属提示词，30秒内即可获得资深架构师级别的代码审查反馈，让你的代码无懈可击。"
+description: "告别充满低级错误的 PR！只需复制粘贴这段专属提示词，30秒内即可获得资深架构师级别的代码审查反馈，让你的代码无懈可击。 详细介绍AI提示词的使用方法与实战技巧。 | 더 이상 'fix' 커밋을 반복하지 마세요. 단 한 번의 복사-붙여넣기로 30초 만에 시니어급 코드 리뷰를 받을 수 있는 실전 프롬프트를 소개합니다."
 date: "2026-02-15"
 image: "https://picsum.photos/seed/code-review/800/600"
 tags: ["AI", "Coding", "Productivity", "Prompt Engineering"]

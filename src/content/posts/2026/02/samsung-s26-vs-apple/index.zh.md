@@ -1,6 +1,6 @@
 ---
 title: "三星 Galaxy S26 vs 苹果 iPhone 17：端侧 AI 技术深度对比"
-description: "谁将赢得智能手机 AI 之战？本提示词完美分析 Galaxy S26 混合 NPU 与 iPhone 17 神经网络引擎的技术差异及实际使用体验。"
+description: "谁将赢得智能手机 AI 之战？本提示词完美分析 Galaxy S26 混合 NPU 与 iPhone 17 神经网络引擎的技术差异及实际使用体验。 详细介绍AI提示词的使用方法与实战技巧。 | 스마트폰 AI 전쟁의 승자는 누구일까요? 갤럭시 S26 하이브리드 NPU와 아이폰 17 뉴럴 엔진의 기술적 차이부터 실사용 체감까지 완벽하게 분석하는 프롬프트입니다."
 date: "2026-02-14"
 cover: "./cover.jpg"
 ---

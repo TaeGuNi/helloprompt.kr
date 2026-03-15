@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Work Automation"
-description: "Analyze raw Excel data with AI to uncover actionable business insights and hidden patterns."
+description: "Analyze raw Excel data with AI to uncover actionable business insights and hidden patterns. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Work Efficiency", "Excel", "Report", "ChatGPT"]
 ---
 

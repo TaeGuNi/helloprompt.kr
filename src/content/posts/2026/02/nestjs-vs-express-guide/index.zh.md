@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "General"
-description: "自由散漫的Express与严谨克制的NestJS。深度解析为何大型项目必须转向NestJS的架构优势。"
+description: "自由散漫的Express与严谨克制的NestJS。深度解析为何大型项目必须转向NestJS的架构优势。 详细介绍AI提示词的使用方法与实战技巧。 | 자유분방한 Express와 엄격한 설계자 NestJS. 대규모 백엔드 프로젝트에서 살아남기 위해 반드시 NestJS를 선택해야 하는 이유와 실전 아키텍처 가이드."
 tags: ["NestJS", "Express", "Node.js", "Backend", "프레임워크"]
 ---
 

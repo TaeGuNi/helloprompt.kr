@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Matemáticas/Ciencias"
-description: "Prompt infalible para no olvidar nunca fórmulas complejas de matemáticas y ciencias usando narración y mnemotecnia."
+description: "Prompt infalible para no olvidar nunca fórmulas complejas de matemáticas y ciencias usando narración y mnemotecnia. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["MétodoMemorización", "Mnemotecnia", "MétodoEstudio", "Prompt"]
 ---
 

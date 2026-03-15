@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-03-13"
 updatedDate: "2026-03-13"
 category: "재테크 & 투자"
-description: "使用 AI 分析英伟达 (NVDA) 股票的提示词。涵盖 GPU 市场垄断力、数据中心营收及 AI 热潮可持续性的定量分析方法。"
+description: "使用 AI 分析英伟达 (NVDA) 股票的提示词。涵盖 GPU 市场垄断力、数据中心营收及 AI 热潮可持续性的定量分析方法。 详细介绍AI提示词的使用方法与实战技巧。 | 엔비디아(NVDA) 주식을 AI로 분석하는 프롬프트. GPU 시장 독점력, 데이터센터 매출, AI 붐의 지속 가능성을 정량 분석하는 방법."
 tags: ["주식", "NVDA", "엔비디아", "투자", "반도체", "GPU", "AI칩"]
 cover: "./cover.png"
 ---

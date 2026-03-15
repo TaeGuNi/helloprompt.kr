@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "General"
-description: "Java/Spring開発者のためのGo言語入門ガイド。Goroutineの強力さとMSAに最適化されている理由を解説します。"
+description: "Java/Spring開発者のためのGo言語入門ガイド。Goroutineの強力さとMSAに最適化されている理由を解説します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | Java/Spring의 무거운 구동 시간과 메모리 점유율에 지치셨나요? 고루틴(Goroutine)의 압도적 동시성으로 대규모 트래픽을 완벽하게 처리하는 Go 언어 마이그레이션 가이드..."
 tags: ["Golang", "Go", "MSA", "Backend", "마이크로서비스"]
 ---
 

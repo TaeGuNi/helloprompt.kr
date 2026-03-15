@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: " "
-description: "告别英文回复、委婉拒信与客户投诉带来的精神内耗。直接复制这套实战级商务邮件 AI 提示词，一键拯救你的职场沟通。"
+description: "告别英文回复、委婉拒信与客户投诉带来的精神内耗。直接复制这套实战级商务邮件 AI 提示词，一键拯救你的职场沟通。 详细介绍AI提示词的使用方法与实战技巧。 | 영문 메일, 정중한 거절, 고객사 클레임 대응까지. 복사해서 바로 쓰는 실전 비즈니스 이메일 작성 프롬프트를 확인해 보세요."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "business-email"]
 ---
 

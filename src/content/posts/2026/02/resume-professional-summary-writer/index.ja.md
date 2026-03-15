@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "就職 & 転職"
-description: "履歴書の最上段に配置する3〜5行の強力なプロフィール要約（Professional Summary）を作成し、書類選考の通過率を飛躍的に高めるAIプロンプトをご紹介します。"
+description: "履歴書の最上段に配置する3〜5行の強力なプロフィール要約（Professional Summary）を作成し、書類選考の通過率を飛躍的に高めるAIプロンプトをご紹介します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 이력서 최상단 3~5줄의 강력한 프로필 요약(Professional Summary)을 작성하는 AI 프롬프트입니다. 인사담당자의 눈길을 사로..."
 tags: ["履歴書", "Summary", "プロフィール要約", "自己紹介"]
 ---
 

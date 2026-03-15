@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automazione Lavoro"
-description: "Generatore di domande da colloquio mirate per valutare in profondità le reali competenze dei candidati."
+description: "Generatore di domande da colloquio mirate per valutare in profondità le reali competenze dei candidati. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 ---
 

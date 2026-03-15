@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.133Z"
 updatedDate: "2026-02-07T09:10:33.133Z"
 category: "Finanças & Investimento"
-description: "Um prompt de IA para verificar o estado da sua alocação de ativos e sugerir a proporção ideal de rebalanceamento."
+description: "Um prompt de IA para verificar o estado da sua alocação de ativos e sugerir a proporção ideal de rebalanceamento. Descubra como usar prompts de IA de forma prática e eficaz."
 tags: ["Investimento", "Alocação de Ativos", "Rebalanceamento", "Portfólio"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automazione Lavoro"
-description: "Prompt per creare automaticamente una WBS e pianificare i compiti a ritroso partendo dalla scadenza del progetto."
+description: "Prompt per creare automaticamente una WBS e pianificare i compiti a ritroso partendo dalla scadenza del progetto. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 ---
 

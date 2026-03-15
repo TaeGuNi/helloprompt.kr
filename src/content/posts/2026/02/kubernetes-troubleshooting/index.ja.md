@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "CrashLoopBackOffやPendingなど、Kubernetesのエラーログを迅速かつ正確に解釈し、障害を復旧へと導く実践的なプロンプトガイドです。"
+description: "CrashLoopBackOffやPendingなど、Kubernetesのエラーログを迅速かつ正確に解釈し、障害を復旧へと導く実践的なプロンプトガイドです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | CrashLoopBackOff, Pending 등 쿠버네티스 파드 장애 시, 방대한 에러 로그를 빠르고 정확하게 해석하여 단 3분 만에 복구하는 실전 A..."
 tags: ["쿠버네티스", "K8s", "DevOps", "트러블슈팅", "서버관리"]
 ---
 

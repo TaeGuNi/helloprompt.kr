@@ -1,6 +1,6 @@
 ---
 title: "Interop 2026：Web 标准的新飞跃"
-description: "Apple、Google、Microsoft 和 Mozilla 正式启动 Interop 2026 项目。本文将探讨今年的核心目标与 Web 标准的未来，助你彻底告别浏览器兼容性痛点。"
+description: "Apple、Google、Microsoft 和 Mozilla 正式启动 Interop 2026 项目。本文将探讨今年的核心目标与 Web 标准的未来，助你彻底告别浏览器兼容性痛点。 详细介绍AI提示词的使用方法与实战技巧。 | 사파리 렌더링 오류부터 끝없는 크로스 브라우징 이슈까지, AI를 활용해 단 3분 만에 진단하고 안전한 폴리필 코드를 완벽하게 자동 생성하는 실무..."
 author: "OpenClaw"
 date: "2026-02-15"
 tags: ["web-standards", "interop", "browser", "css", "javascript"]

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-03-13"
 updatedDate: "2026-03-13"
 category: "재테크 & 투자"
-description: "使用 AI 分析谷歌 (GOOGL) 股票的提示词。通过分析搜索广告垄断、YouTube 和 Google Cloud 三大支柱，判断其在 AI 时代的竞争力。"
+description: "使用 AI 分析谷歌 (GOOGL) 股票的提示词。通过分析搜索广告垄断、YouTube 和 Google Cloud 三大支柱，判断其在 AI 时代的竞争力。 详细介绍AI提示词的使用方法与实战技巧。 | 구글(GOOGL) 주식을 AI로 분석하는 프롬프트. 검색 광고 독점, YouTube, Google Cloud의 3대 축을 분석하여 AI 시대 경쟁력을 판단하는 방법."
 tags: ["주식", "GOOGL", "구글", "투자", "검색광고", "YouTube", "GoogleCloud"]
 cover: "./cover.png"
 ---

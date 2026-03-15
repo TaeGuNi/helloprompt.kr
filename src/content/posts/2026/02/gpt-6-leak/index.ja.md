@@ -1,6 +1,6 @@
 ---
 title: "GPT-6流出：チャットボットの終焉と「設計者」の誕生"
-description: "単なるテキスト生成を超えたGPT-6の「長期計画（Long-horizon Planning）」アーキテクチャを分析し、これを現在のAIに移植するプロンプト技術を公開します。"
+description: "単なるテキスト生成を超えたGPT-6の「長期計画（Long-horizon Planning）」アーキテクチャを分析し、これを現在のAIに移植するプロンプト技術を公開します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 단순한 텍스트 생성을 넘어선 GPT-6의 '장기적 계획(Long-horizon Planning)' 아키텍처를 분석하고, 이를 현재 AI에 ..."
 date: "2026-02-15"
 updatedDate: "2026-03-08"
 category: "業務自動化"

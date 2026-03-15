@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.147Z"
 updatedDate: "2026-02-07T09:10:33.147Z"
 category: "图像生成"
-description: "探索最日本化的美学。这是一款利用浮世绘（Ukiyo-e）风格生动呈现波浪与风景的图像生成提示词。"
+description: "探索最日本化的美学。这是一款利用浮世绘（Ukiyo-e）风格生动呈现波浪与风景的图像生成提示词。 详细介绍AI提示词的使用方法与实战技巧。 | 가장 일본적인 미학, 우키요에(Ukiyo-e) 스타일로 파도와 풍경을 생생하게 구현하는 이미지 생성 프롬프트입니다."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Traditional"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "Workflow Automation"
-description: "每天都在疯狂复制粘贴汇总 Excel？这份完美的提示词指南教你用 10 行 Python 代码，只需 1 秒即可轻松搞定所有数据合并。"
+description: "每天都在疯狂复制粘贴汇总 Excel？这份完美的提示词指南教你用 10 行 Python 代码，只需 1 秒即可轻松搞定所有数据合并。 详细介绍AI提示词的使用方法与实战技巧。 | 매일 반복되는 지루한 엑셀 파일 복붙과 취합 업무. 코딩을 전혀 몰라도 파이썬(Python) 10줄로 단 1초 만에 끝낼 수 있는 완벽한 AI 프롬프트 가이드입니다."
 tags: ["파이썬", "Excel", "Automation", "Pandas", "Productivity"]
 ---
 

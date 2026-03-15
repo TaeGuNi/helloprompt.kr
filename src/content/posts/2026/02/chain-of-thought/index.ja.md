@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "Work Automation"
-description: "AIが的外れな回答を繰り返していませんか？Chain-of-Thought (CoT) プロンプティングで複雑な問題を論理的に解決し、AIの推理能力を200%引き出す実践的なテクニックを紹介します。"
+description: "AIが的外れな回答を繰り返していませんか？Chain-of-Thought (CoT) プロンプティングで複雑な問題を論理的に解決し、AIの推理能力を200%引き出す実践的なテクニックを紹介します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["Prompt Engineering", "AI", "Chain-of-Thought", "Reasoning"]
 ---
 

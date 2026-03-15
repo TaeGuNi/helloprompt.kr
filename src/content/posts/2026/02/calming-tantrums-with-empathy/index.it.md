@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Genitorialità & Educazione"
-description: "Le parole magiche dei genitori per calmare il cervello emotivo di un bambino in preda ai capricci."
+description: "Le parole magiche dei genitori per calmare il cervello emotivo di un bambino in preda ai capricci. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags:
   [
     "Genitorialità",

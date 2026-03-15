@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.158Z"
 updatedDate: "2026-02-07T09:10:33.158Z"
 category: "Health & Wellness"
-description: "别再忍受下午3点的假性饥饿了。本文将揭秘如何利用AI在1分钟内无限生成既不发胖又能完美释放压力的定制化减肥健康零食方案。"
+description: "别再忍受下午3点的假性饥饿了。本文将揭秘如何利用AI在1分钟内无限生成既不发胖又能完美释放压力的定制化减肥健康零食方案。 详细介绍AI提示词的使用方法与实战技巧。 | 오후 3시의 가짜 배고픔, 더 이상 참지 마세요. 살찌지 않으면서 스트레스는 완벽히 날려줄 맞춤형 다이어트 건강 간식 아이디어를 AI로 1분 만에 무한 생성하는 비법을 공개합니다."
 tags: ["다이어트간식", "Health", "Recipe", "ChatGPT", "간식"]
 image: "/images/hooks/guilt-free-healthy-snack-list.jpg"
 ---

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "Workflow Automation"
-description: "Промпт, вдохновленный Чарли Путом: превратите скучные характеристики B2B-продуктов в вирусные хуки для TikTok и Reels."
+description: "Промпт, вдохновленный Чарли Путом: превратите скучные характеристики B2B-продуктов в вирусные хуки для TikTok и Reels. Узнайте, как эффективно использовать ИИ-промпты на практике."
 tags: ["prompt-engineering", "ai-agent", "charlie-puth"]
 image: "/images/hooks/charlie-puth-viral-marketing-hook-prompt.jpg"
 ---

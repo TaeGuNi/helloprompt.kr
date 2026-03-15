@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "丰田首次公开主机级 Flutter 游戏引擎 Fluorite。本文介绍从车载信息娱乐 UI 扩展至硬核游戏生态的 Flutter 游戏架构设计提示词。"
+description: "丰田首次公开主机级 Flutter 游戏引擎 Fluorite。本文介绍从车载信息娱乐 UI 扩展至硬核游戏生态的 Flutter 游戏架构设计提示词。 详细介绍AI提示词的使用方法与实战技巧。 | 토요타가 최초로 공개한 콘솔급 플러터 게임 엔진, 플루오라이트. 인포테인먼트 UI를 넘어 하드코어 게임 생태계로 확장된 플러터 게임 아키텍처 설계 프롬프트를 소개합니다."
 tags: ["Toyota", "Flutter", "Game Engine", "Fluorite"]
 image: "/images/hooks/toyota-fluorite-engine.jpg"
 ---

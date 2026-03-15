@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "General"
-description: "生成のたびに顔が変わるAIキャラクターにお悩みですか？Midjourneyのプロンプト一つで、完璧に一貫したキャラクターシートを構築し、デザインの基準を確立する実務の秘訣を公開します。"
+description: "生成のたびに顔が変わるAIキャラクターにお悩みですか？Midjourneyのプロンプト一つで、完璧に一貫したキャラクターシートを構築し、デザインの基準を確立する実務の秘訣を公開します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["Midjourney", "캐릭터 디자인", "AI 아트", "일관성"]
 image: "/images/hooks/midjourney-character.jpg"
 ---

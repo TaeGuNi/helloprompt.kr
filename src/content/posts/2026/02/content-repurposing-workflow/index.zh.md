@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Content Creation"
-description: "通过 AI 将一篇高质量内容一键转化为 Instagram、LinkedIn 等 5 种不同格式的“一源多用 (OSMU)”实战提示词指南。"
+description: "通过 AI 将一篇高质量内容一键转化为 Instagram、LinkedIn 等 5 种不同格式的“一源多用 (OSMU)”实战提示词指南。 详细介绍AI提示词的使用方法与实战技巧。 | 블로그 글 하나를 인스타, 링크드인, 쇼츠 등 다양한 채널 맞춤형 콘텐츠로 순식간에 변환하는 완벽한 OSMU(원소스 멀티유즈) AI 프롬프트를 공개합니다."
 tags: ["콘텐츠마케팅", "인스타그램", "링크드인", "Productivity"]
 ---
 

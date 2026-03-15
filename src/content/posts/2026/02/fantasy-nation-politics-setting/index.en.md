@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creation & Hobbies"
-description: "A simple kingdom is boring. Design a nation with a 3D political system like a theocracy or a merchant republic."
+description: "A simple kingdom is boring. Design a nation with a 3D political system like a theocracy or a merchant republic. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Universe", "Politics", "Nation", "Fantasy", "Setting"]
 ---
 

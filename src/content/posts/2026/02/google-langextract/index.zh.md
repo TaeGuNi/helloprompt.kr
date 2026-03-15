@@ -3,7 +3,7 @@ layout: ../../../layouts/MarkdownPostLayout.astro
 title: "利用 Google LangExtract 掌握结构化数据提取"
 date: 2026-02-20
 pubDate: 2026-02-20
-description: "了解如何使用 Google 新推出的 LangExtract 库从 LLM 中提取精确的 JSON 和结构化数据。"
+description: "了解如何使用 Google 新推出的 LangExtract 库从 LLM 中提取精确的 JSON 和结构化数据。 详细介绍AI提示词的使用方法与实战技巧。 | LLM의 고질적인 JSON 파싱 에러를 원천 차단하는 Google LangExtract와 Pydantic을 활용한 완벽한 데이터 추출 프롬프트를 공개합니다."
 author: "Hello Prompt"
 tags: ["Google", "LLM", "Data Extraction", "Python", "AI"]
 ---

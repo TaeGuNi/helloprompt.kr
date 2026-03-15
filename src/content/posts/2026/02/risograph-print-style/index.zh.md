@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: "为你揭秘如何利用 AI 生成带有独特网点与色彩错位魅力的孔版印刷 (Risograph) 风格图像提示词，为数字艺术注入复古手工温度。"
+description: "为你揭秘如何利用 AI 生成带有独特网点与色彩错位魅力的孔版印刷 (Risograph) 风格图像提示词，为数字艺术注入复古手工温度。 详细介绍AI提示词的使用方法与实战技巧。 | 특유의 거친 망점과 매력적인 색 어긋남을 완벽히 구현하는 리소그래프(Risograph) 빈티지 인쇄 프롬프트입니다. 너무 깔끔한 AI 이미지가 지루할 때 아날로그 감성을 1분 만에 재현해 보세요."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Print"]
 ---
 

@@ -3,7 +3,7 @@ layout: ../../../layouts/MarkdownPostLayout.astro
 title: " \"构建出色 LLM 应用与 RAG 的完整指南\""
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "探索如何利用 awesome-llm-apps 资源库，构建企业级大语言模型(LLM)应用与高可用 RAG 检索增强生成管道的实战指南。"
+description: "探索如何利用 awesome-llm-apps 资源库，构建企业级大语言模型(LLM)应用与高可用 RAG 检索增强生成管道的实战指南。 详细介绍AI提示词的使用方法与实战技巧。 | 방대한 LLM 앱 생태계에서 길을 잃으셨나요? 비즈니스 요구사항에 딱 맞는 RAG 파이프라인과 아키텍처를 10분 만에 설계해 주는 시니어 아키텍트 프롬프트."
 author: "Hello Prompt"
 tags: ["LLM", "RAG", "AI", "Development", "Guide"]
 ---

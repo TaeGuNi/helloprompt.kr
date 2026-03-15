@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "Read dense foreign books, research papers, and tech blogs 3x faster and instantly make their knowledge your own."
+description: "Read dense foreign books, research papers, and tech blogs 3x faster and instantly make their knowledge your own. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Reading", "요약", "Learning", "지식관리"]
 ---
 

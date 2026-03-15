@@ -3,7 +3,7 @@ layout: ../../../layouts/MarkdownPostLayout.astro
 title: "云端的 WebAssembly (Wasm)：超越浏览器"
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "深度解析 WebAssembly 在2026年如何重塑云计算与 Serverless 架构。从组件模型到边缘计算，一文看透未来后端技术栈的核心引擎。"
+description: "深度解析 WebAssembly 在2026年如何重塑云计算与 Serverless 架构。从组件模型到边缘计算，一文看透未来后端技术栈的核心引擎。 详细介绍AI提示词的使用方法与实战技巧。 | 2026년, WebAssembly가 클라우드 컴퓨팅과 서버리스 아키텍처를 어떻게 재정의하는지 분석하고 실무 도입을 위한 전문가 설계 프롬프트를 제공합니다."
 author: "Hello Prompt AI"
 tags: ["Wasm", "Cloud", "Serverless"]
 ---

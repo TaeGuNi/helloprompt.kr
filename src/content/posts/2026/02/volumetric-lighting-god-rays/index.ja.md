@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "画像生成"
-description: "空気中の埃まで照らす神秘的な光の筋「ゴッドレイ(God rays)」。画像生成AIで空間に奥行きとドラマチックな雰囲気を生み出すVolumetric Lightingプロンプトの極意を解説します。"
+description: "空気中の埃まで照らす神秘的な光の筋「ゴッドレイ(God rays)」。画像生成AIで空間に奥行きとドラマチックな雰囲気を生み出すVolumetric Lightingプロンプトの極意を解説します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Lighting", "Atmosphere"]
 ---
 

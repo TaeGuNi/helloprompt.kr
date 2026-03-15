@@ -5,7 +5,7 @@ author: "Antigravity"
 date: "2026-02-28"
 updatedDate: "2026-02-28"
 category: "提示词秘籍"
-description: "利用 AI 瞬间解读数百页的 DART 业务报告，精准提取投资核心指标并进行完美对比的实战提示词。"
+description: "利用 AI 瞬间解读数百页的 DART 业务报告，精准提取投资核心指标并进行完美对比的实战提示词。 详细介绍AI提示词的使用方法与实战技巧。 | 수백 페이지의 방대한 DART 사업보고서를 AI로 단숨에 해독하고, 투자에 필요한 핵심 지표만 날카롭게 뽑아내어 완벽하게 비교하는 실전 프롬프트입니다."
 tags: ["Stocks", "Investment", "공시분석", "삼성전자", "SK하이닉스", "DART"]
 image: "/images/hooks/samsung-hynix-disclosure-comparison.jpg"
 ---

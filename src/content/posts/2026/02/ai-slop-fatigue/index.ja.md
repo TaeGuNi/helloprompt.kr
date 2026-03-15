@@ -5,7 +5,7 @@ author: "Antigravity"
 date: "2026-02-14"
 updatedDate: "2026-02-28"
 category: "プロンプトのヒント"
-description: "インターネットを覆い尽くす魂のない大量生産AIコンテンツ（AI Slop）に対する疲労感と、機械的な匂いを完全に消し去る「デトックス（Humanizer）」プロンプトガイドです。"
+description: "インターネットを覆い尽くす魂のない大量生産AIコンテンツ（AI Slop）に対する疲労感と、機械的な匂いを完全に消し去る「デトックス（Humanizer）」プロンプトガイドです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 인터넷을 뒤덮은 영혼 없는 AI 콘텐츠(AI Slop)에 지치셨나요? 기계적인 냄새를 완벽히 지워내는 '디톡스(Detox)' 프롬프트로..."
 tags: ["AI", "Culture", "AI_Fatigue", "プロンプト"]
 ---
 

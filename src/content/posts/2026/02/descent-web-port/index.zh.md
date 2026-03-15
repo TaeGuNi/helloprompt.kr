@@ -4,7 +4,7 @@ date: 2026-02-15
 categories: ["Web", "GameDev", "WASM"]
 tags: ["Three.js", "WebGL", "Descent", "Retro"]
 cover: "./cover.png"
-description: "不再为庞大的 C++ 遗留代码 Web 移植而烦恼。本文公开完美解析 WASM 与 Three.js 融合项目的 AI 提示词。"
+description: "不再为庞大的 C++ 遗留代码 Web 移植而烦恼。本文公开完美解析 WASM 与 Three.js 融合项目的 AI 提示词。 详细介绍AI提示词的使用方法与实战技巧。 | 방대한 C++ 레거시 코드를 웹으로 포팅하는 과정, 혼자 앓지 마세요. WASM과 Three.js 융합 프로젝트를 완벽히 해부하는 AI 프롬프트를 공개합니다."
 ---
 
 ## 📝 超越浏览器限制：WASM & Three.js 复古游戏移植指南

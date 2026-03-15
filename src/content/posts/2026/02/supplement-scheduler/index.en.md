@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Health"
-description: "Build an optimal supplement routine with AI to prevent duplicate intake and maximize nutrient absorption."
+description: "Build an optimal supplement routine with AI to prevent duplicate intake and maximize nutrient absorption. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Supplements", "Health Functional Food", "Scheduler", "Health"]
 ---
 

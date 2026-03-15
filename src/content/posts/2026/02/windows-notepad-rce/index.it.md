@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Security"
-description: "\"CVE-2026-20841: È possibile essere hackerati semplicemente aprendo il Blocco note?\""
+description: "\"CVE-2026-20841: È possibile essere hackerati semplicemente aprendo il Blocco note?\" Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags: ["Security", "Windows", "Vulnerability", "CVE"]
 ---
 

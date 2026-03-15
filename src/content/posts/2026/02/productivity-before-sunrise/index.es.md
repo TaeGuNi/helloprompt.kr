@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Workflow Automation"
-description: "Guía de productividad 'early bird' para triplicar tu rendimiento mientras los demás duermen."
+description: "Guía de productividad 'early bird' para triplicar tu rendimiento mientras los demás duermen. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["Productivity", "Time Management", "Productivity", "새벽업무"]
 ---
 

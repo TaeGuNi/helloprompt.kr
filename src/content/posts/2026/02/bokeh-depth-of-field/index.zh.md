@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.152Z"
 updatedDate: "2026-02-07T09:10:33.152Z"
 category: "图像生成"
-description: "让平庸的 AI 图像蜕变为电影质感的魔法。公开利用‘波克（Bokeh）’和‘浅景深’营造梦幻背景虚化效果的提示词。"
+description: "让平庸的 AI 图像蜕变为电影质感的魔法。公开利用‘波克（Bokeh）’和‘浅景深’营造梦幻背景虚化效果的提示词。 详细介绍AI提示词的使用方法与实战技巧。 | 평범한 AI 이미지를 한 편의 영화처럼 탈바꿈시키는 마법. '보케(Bokeh)'와 '얕은 심도'를 활용해 몽환적인 배경 흐림을 연출하는 프롬프트를 공개합니다."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Photography", "Effect"]
 image: "/images/hooks/bokeh-depth-of-field.jpg"
 ---

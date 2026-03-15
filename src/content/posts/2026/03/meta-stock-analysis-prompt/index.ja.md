@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-03-13"
 updatedDate: "2026-03-13"
 category: "財テク・投資"
-description: "Meta(META)株をAIで分析するプロンプト。Instagram/Reelsの広告売上、Reality Labsの損失、AI広告最適化の効果を5分で把握する方法。"
+description: "Meta(META)株をAIで分析するプロンプト。Instagram/Reelsの広告売上、Reality Labsの損失、AI広告最適化の効果を5分で把握する方法。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 메타(META) 주식을 AI로 분석하는 프롬프트. 인스타그램/릴스 광고 매출, Reality Labs 손실, AI 광고 최적화 효과를 5분 만에 ..."
 tags: ["株", "META", "メタ", "投資", "ソーシャルメディア", "Instagram", "メタバース"]
 cover: "./cover.png"
 ---

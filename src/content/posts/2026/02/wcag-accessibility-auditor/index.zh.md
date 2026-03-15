@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 category: "General"
-description: "您的代码对所有人都是友好的吗？让 AI 自动检查并修复隐患，确保代码完美符合 Web 无障碍标准 (WCAG 2.2)。"
+description: "您的代码对所有人都是友好的吗？让 AI 自动检查并修复隐患，确保代码完美符合 Web 无障碍标准 (WCAG 2.2)。 详细介绍AI提示词的使用方法与实战技巧。 | 내가 짠 코드가 과연 모두를 위한 코드일까요? 웹 접근성 표준(WCAG 2.2)을 완벽하게 준수하는지 AI가 1분 만에 자동으로 점검해 드립니다."
 tags: ["Accessibility", "HTML", "WCAG"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "General"
-description: "AIエディタ戦国時代。Copilot、Cursor、Windsurfの中であなたやチームに最適なツールはどれか？機能・価格・使い勝手から徹底比較します。"
+description: "AIエディタ戦国時代。Copilot、Cursor、Windsurfの中であなたやチームに最適なツールはどれか？機能・価格・使い勝手から徹底比較します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 코딩 AI 춘추전국시대. 나에게 맞는 도구는? 기능, 가격, 사용성 완벽 분석을 통해 당신과 팀에 최적화된 AI 코딩 어시스턴트를 찾아보세요."
 tags: ["Cursor", "Copilot", "Windsurf", "AI코딩", "IDE"]
 ---
 

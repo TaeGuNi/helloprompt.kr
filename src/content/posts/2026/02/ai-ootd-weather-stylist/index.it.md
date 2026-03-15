@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "Consigli OOTD infallibili basati su temperatura, umidità e probabilità di pioggia."
+description: "Consigli OOTD infallibili basati su temperatura, umidità e probabilità di pioggia. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags: ["패션", "날씨", "OOTD", "코디"]
 ---
 

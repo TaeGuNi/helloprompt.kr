@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "A scientific habit-stacking guide to permanently end the cycle of giving up after just three days."
+description: "A scientific habit-stacking guide to permanently end the cycle of giving up after just three days. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Habit", "Routine", "아주작은습관의힘", "Productivity"]
 ---
 

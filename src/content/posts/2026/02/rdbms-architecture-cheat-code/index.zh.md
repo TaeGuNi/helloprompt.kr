@@ -5,7 +5,7 @@ author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "General"
-description: "资深后端工程师冷酷无情的 RDBMS 架构指南，彻底终结 AI 生成的意大利面条式数据库 Schema。"
+description: "资深后端工程师冷酷无情的 RDBMS 架构指南，彻底终结 AI 生成的意大利面条式数据库 Schema。 详细介绍AI提示词的使用方法与实战技巧。 | AI가 스파게티 코드로 DB를 망치지 않도록 철저히 통제하는 20년 차 시니어 백엔드 엔지니어의 무자비한 RDBMS 스키마 설계 프롬프트입니다."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "rdbms-architecture"]
 ---
 ## 📝 将 AI Agent 调教成资深 DBA 的终极魔法提示词

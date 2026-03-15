@@ -5,7 +5,7 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Development
-description: "バックエンドAPIがまだ完成していませんか？AIにスキーマを伝えるだけで、実際のサービスに近い高品質なダミーデータ（Mock Data）を瞬時に生成できます。"
+description: "バックエンドAPIがまだ完成していませんか？AIにスキーマを伝えるだけで、実際のサービスに近い高品質なダミーデータ（Mock Data）を瞬時に生成できます。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 백엔드 API를 마냥 기다리시나요? AI에게 스키마만 던져주세요. 실제 서비스 환경과 똑같은 고품질 더미 데이터(Mock Data)를 1분 만에 무한 생..."
 tags: [Frontend, Testing, JSON, Mocking, AI]
 ---
 

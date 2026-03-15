@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "业务自动化"
-description: "VLOOKUP 和 INDEX MATCH 总是搞混？只需简单描述你的业务需求，AI 就能立刻为你生成完美的 Excel 函数公式，再也不用死记硬背。"
+description: "VLOOKUP 和 INDEX MATCH 总是搞混？只需简单描述你的业务需求，AI 就能立刻为你生成完美的 Excel 函数公式，再也不用死记硬背。 详细介绍AI提示词的使用方法与实战技巧。 | VLOOKUP, INDEX MATCH 헷갈리시나요? 복잡한 엑셀 수식, 이제 구글링 대신 AI에게 상황만 설명하고 3초 만에 완성하세요."
 tags: ["业务效率", "Excel", "报告书", "ChatGPT"]
 ---
 

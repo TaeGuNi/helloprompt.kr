@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalité & Éducation"
-description: "Une approche scientifique et ludique pour convaincre votre enfant de se laver les mains sans rouspéter."
+description: "Une approche scientifique et ludique pour convaincre votre enfant de se laver les mains sans rouspéter. Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags: ["Parentalité", "Éducation", "Prompt IA", "ChatGPT", "Conseils Parentaux"]
 ---
 

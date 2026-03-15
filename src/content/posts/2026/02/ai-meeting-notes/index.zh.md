@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "办公自动化"
-description: "这款 AI 提示词可将会议纪要整理时间缩短 90%。通过可立即应用于实务的脱敏技术，完美保护企业隐私和机密。"
+description: "这款 AI 提示词可将会议纪要整理时间缩短 90%。通过可立即应用于实务的脱敏技术，完美保护企业隐私和机密。 详细介绍AI提示词的使用方法与实战技巧。 | 회의록 정리 시간을 90% 단축하는 AI 프롬프트입니다. 실무에 즉시 적용 가능한 마스킹 기법으로 기업 프라이버시와 기밀을 완벽하게 보호하세요."
 image: "https://picsum.photos/seed/meetings/800/600"
 tags: ["AI", "Tech", "ai-meeting-notes"]
 ---

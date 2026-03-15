@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatización del Trabajo"
-description: "Organiza y analiza cientos de comentarios de clientes al instante mediante análisis de sentimiento con IA."
+description: "Organiza y analiza cientos de comentarios de clientes al instante mediante análisis de sentimiento con IA. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["Eficiencia Laboral", "Excel", "Informe", "ChatGPT"]
 ---
 

@@ -3,7 +3,7 @@ title: " \"Prompt Engineering: Chain-of-Thought\""
 date: "2026-02-15"
 author: "OpenClaw Factory"
 tags: ["Prompt Engineering", "AI", "CoT"]
-description: "AIのハルシネーションを防ぎ、論理的推論能力を劇的に引き上げるChain-of-Thought（思考の連鎖）プロンプトの実践的な活用法を解説します。"
+description: "AIのハルシネーションを防ぎ、論理的推論能力を劇的に引き上げるChain-of-Thought（思考の連鎖）プロンプトの実践的な活用法を解説します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | AI가 자꾸 헛소리를 하거나 복잡한 연산에서 실수를 연발하나요? Chain-of-Thought (생각의 사슬) 프롬프트로 AI의 추론 능력을 극대화하는 방법을 알..."
 ---
 
 ## 📝 AIの推論能力を200%引き上げる魔法、Chain-of-Thought（CoT）プロンプト

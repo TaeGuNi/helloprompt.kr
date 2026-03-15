@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 category: "General"
-description: "这是一套旨在极大化 Gemini 3、DeepSeek 等推理型 AI 性能的 Chain of Thought (CoT) 提示词设计技巧与指南。"
+description: "这是一套旨在极大化 Gemini 3、DeepSeek 等推理型 AI 性能的 Chain of Thought (CoT) 提示词设计技巧与指南。 详细介绍AI提示词的使用方法与实战技巧。 | Gemini 3, DeepSeek 등 최신 추론형 AI의 성능을 극적으로 끌어올리는 Chain of Thought(CoT) 프롬프트 설계 기법을 알아보고 실무에 즉시 적용해 보세요."
 tags: ["AI", "Prompt Engineering", "CoT"]
 ---
 

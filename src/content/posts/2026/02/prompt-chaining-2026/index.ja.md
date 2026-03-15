@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "業務自動化"
-description: "単一プロンプトの限界を克服する2026年必須のAIワークフローデザインパターン。複雑な実務を原子単位に分割し連結する「プロンプト・チェイニング（Prompt Chaining）」の実践設計ガイドです。"
+description: "単一プロンプトの限界を克服する2026年必須のAIワークフローデザインパターン。複雑な実務を原子単位に分割し連結する「プロンプト・チェイニング（Prompt Chaining）」の実践設計ガイドです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["AI", "Tech", "prompt-chaining-2026"]
 image: "/images/blog/default-ai.jpg"
 ---

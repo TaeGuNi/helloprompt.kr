@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "办公自动化"
-description: "彻底杜绝 AI Token 溢出与幻觉的强效 Markdown 记忆压缩秘籍。停止无脑编码，夺回 AI 开发主导权。"
+description: "彻底杜绝 AI Token 溢出与幻觉的强效 Markdown 记忆压缩秘籍。停止无脑编码，夺回 AI 开发主导权。 详细介绍AI提示词的使用方法与实战技巧。 | AI의 토큰 오버플로우와 환각을 원천 차단하는 강력한 마크다운 메모리 압축 치트키. 무지성 코딩을 멈추고 주도권을 되찾으세요."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "markdown-source-of-truth"]
 image: "/images/hooks/context-compression-markdown-truth.jpg"
 ---

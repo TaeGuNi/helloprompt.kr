@@ -5,7 +5,7 @@ author: "Mad Architect"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "業務自動化"
-description: "AIの無意味なお世辞やスパゲッティコード生成を根絶し、完璧なステートレス（Stateless）アーキテクチャを強制するスパルタ式プロンプトのチートシートです。"
+description: "AIの無意味なお世辞やスパゲッティコード生成を根絶し、完璧なステートレス（Stateless）アーキテクチャを強制するスパルタ式プロンプトのチートシートです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | AI의 무의미한 아첨과 스파게티 코드 생성을 원천 차단하고, 완벽한 무상태(Stateless) 아키텍처를 강제하는 스파르타식 프롬프트 치트키입니다."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "stateless-architecture"]
 ---
 

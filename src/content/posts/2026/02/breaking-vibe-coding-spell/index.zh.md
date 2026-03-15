@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "工作自动化"
-description: "摆脱依赖直觉的“氛围编码”陷阱！本指南提供完美提示词，助您防御错误炸弹，进化至可预测的 AI 工程模式。"
+description: "摆脱依赖直觉的“氛围编码”陷阱！本指南提供完美提示词，助您防御错误炸弹，进化至可预测的 AI 工程模式。 详细介绍AI提示词的使用方法与实战技巧。 | 감에 의존하는 '바이브 코딩'의 함정에서 벗어나세요! 에러 폭탄을 막고 예측 가능한 AI 엔지니어링으로 진화하는 완벽 가이드와 프롬프트를 제공합니다."
 image: "https://picsum.photos/seed/coding/800/600"
 tags: ["AI", "Tech", "breaking-vibe-coding-spell"]
 ---

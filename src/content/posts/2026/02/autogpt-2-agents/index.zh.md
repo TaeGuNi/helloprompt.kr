@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-14"
 updatedDate: "2026-02-14"
 category: "业务自动化"
-description: "超越单一 AI 局限的多智能体集群架构。公开利用 AutoGPT 2.0 将收集、分析、审核分工化，构建无幻觉、零缺陷自动化流水线的秘诀。"
+description: "超越单一 AI 局限的多智能体集群架构。公开利用 AutoGPT 2.0 将收集、分析、审核分工化，构建无幻觉、零缺陷自动化流水线的秘诀。 详细介绍AI提示词的使用方法与实战技巧。 | 단일 AI의 한계를 극복하는 다중 에이전트 스웜 아키텍처. AutoGPT 2.0을 활용해 수집, 분석, 검수를 분업화하여 할루시네이션 없는 무결점 자동화 파이프라인을 구축하는 비법을 공개..."
 tags: ["agents", "autogpt", "automation"]
 image: "/images/hooks/autogpt-2-agents.jpg"
 ---

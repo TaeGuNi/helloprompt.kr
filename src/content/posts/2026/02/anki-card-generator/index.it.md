@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.098Z"
 updatedDate: "2026-02-07T09:10:33.098Z"
 category: "Self-Improvement"
-description: "Un prompt per trasformare istantaneamente libri e appunti in dati per flashcard (Q&A) compatibili con Anki e Quizlet."
+description: "Un prompt per trasformare istantaneamente libri e appunti in dati per flashcard (Q&A) compatibili con Anki e Quizlet. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags: ["암기", "플래시카드", "Anki", "Quizlet"]
 image: "/images/hooks/anki-card-generator.jpg"
 ---

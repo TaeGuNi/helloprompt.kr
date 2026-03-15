@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "バックエンド/DB"
-description: "トラフィックスパイクによるDBサーバーダウンを防ぐ完璧なRedis実践キャッシュ戦略。Look-asideパターンからCache Stampede防御のための分散ロックアーキテクチャまで、1分で適用できるプロンプトを確認してください。"
+description: "トラフィックスパイクによるDBサーバーダウンを防ぐ完璧なRedis実践キャッシュ戦略。Look-asideパターンからCache Stampede防御のための分散ロックアーキテクチャまで、1分で適用できるプロンプトを確認してください。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["Redis", "キャッシュ", "バックエンド", "パフォーマンス最適化", "DB"]
 image: "/images/hooks/redis-caching-strategy.jpg"
 ---

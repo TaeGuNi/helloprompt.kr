@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.157Z"
 updatedDate: "2026-02-07T09:10:33.157Z"
 category: "Travel & Culture"
-description: "Obtenez en 1 minute un itinéraire de voyage parfait adapté à vos goûts, vos déplacements et votre endurance."
+description: "Obtenez en 1 minute un itinéraire de voyage parfait adapté à vos goûts, vos déplacements et votre endurance. Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags: ["Travel", "일정", "플래너", "해외여행"]
 ---
 

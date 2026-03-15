@@ -4,7 +4,7 @@
   "engines": {
     "node": ">=24.13.0"
   },
-  "version": "1.16.3",
+  "version": "1.19.0",
   "scripts": {
     "dev": "astro dev",
     "build": "NODE_OPTIONS=\"--max-old-space-size=8192\" astro build",
@@ -12,7 +12,6 @@
     "astro": "astro",
     "lint": "biome check .",
     "generate:trend": "tsx scripts/generate-trends.ts",
-    "generate:image": "tsx scripts/generate-hook-image.ts",
     "qa": "tsx scripts/qa.ts",
     "qa:rewrite": "tsx scripts/qa-rewriter.ts",
     "test": "vitest run",

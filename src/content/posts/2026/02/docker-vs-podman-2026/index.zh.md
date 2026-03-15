@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "General"
-description: "专为厌倦 Docker 昂贵收费与沉重守护进程的开发者打造：Podman 无缝迁移实战指南与专属 AI 提示词。"
+description: "专为厌倦 Docker 昂贵收费与沉重守护进程的开发者打造：Podman 无缝迁移实战指南与专属 AI 提示词。 详细介绍AI提示词的使用方法与实战技巧。 | 무거운 도커 데몬과 유료화 정책에 지친 개발자를 위한 Podman 마이그레이션 가이드. AI 프롬프트로 1분 만에 안전하게 전환하세요."
 tags: ["Docker", "Podman", "컨테이너", "DevOps", "서버"]
 ---
 

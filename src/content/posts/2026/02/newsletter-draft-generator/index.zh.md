@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "业务自动化"
-description: "告别灵感枯竭！只需输入主题，AI 即可一键生成从吸睛标题到高转化率正文的完美Newsletter草稿。"
+description: "告别灵感枯竭！只需输入主题，AI 即可一键生成从吸睛标题到高转化率正文的完美Newsletter草稿。 详细介绍AI提示词的使用方法与实战技巧。 | 주제만 던져주면 제목부터 본문, 큐레이션까지 뚝딱 완성해 주는 마법의 프롬프트입니다."
 tags: ["业务效率", "Excel", "报告书", "ChatGPT"]
 ---
 

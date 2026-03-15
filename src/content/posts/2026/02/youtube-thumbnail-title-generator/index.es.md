@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T11:30:00.000Z"
 updatedDate: "2026-02-07T11:30:00.000Z"
 category: "Economía de Creadores"
-description: "Deja que la IA genere títulos magnéticos e ideas de miniaturas irresistibles. Descubre cómo disparar tu CTR en minutos."
+description: "Deja que la IA genere títulos magnéticos e ideas de miniaturas irresistibles. Descubre cómo disparar tu CTR en minutos. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["YouTube", "Miniatura", "Generador de Títulos", "Clickbait", "Vistas"]
 ---
 

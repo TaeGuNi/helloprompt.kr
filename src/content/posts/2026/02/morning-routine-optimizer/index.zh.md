@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "个人成长"
-description: "这款 AI 提示词通过分析您的睡眠模式、可用时间和核心目标，为您设计一套绝不失败的超个性化早间常规。助您每天早晨多出一小时的余裕。"
+description: "这款 AI 提示词通过分析您的睡眠模式、可用时间和核心目标，为您设计一套绝不失败的超个性化早间常规。助您每天早晨多出一小时的余裕。 详细介绍AI提示词的使用方法与实战技巧。 | 나의 수면 패턴, 가용 시간, 핵심 목표를 분석하여 절대 실패하지 않는 최적의 초개인화 모닝 루틴을 설계하는 AI 프롬프트입니다. 매일 아침 1시간의 여유를 확보하세요."
 tags: ["Productivity", "Routine", "Morning", "Planning"]
 image: "/images/hooks/morning-routine-optimizer.jpg"
 ---

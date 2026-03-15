@@ -1,6 +1,6 @@
 ---
 title: "寝ている間にバグが直る？2026年型自己修復（Self-Healing）CI/CDパイプラインの構築"
-description: "GitHub ActionsとAIエージェントを組み合わせ、Lintエラーやテストの失敗を自動で修正する革新的なワークフローをご紹介します。無限ループを防ぐ実践的なノウハウも収録。"
+description: "GitHub ActionsとAIエージェントを組み合わせ、Lintエラーやテストの失敗を自動で修正する革新的なワークフローをご紹介します。無限ループを防ぐ実践的なノウハウも収録。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | GitHub Actions와 AI 에이전트를 결합해 린트 오류 및 테스트 실패를 자동 수정하는 워크플로우와 무한 루프 방지 팁을 알아..."
 author: "Unifactory Editor"
 date: "2026-02-15"
 tags: ["DevOps", "CI/CD", "GitHub Actions", "AI Agent", "Automation"]

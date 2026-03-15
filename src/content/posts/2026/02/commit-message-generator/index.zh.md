@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.123Z"
 updatedDate: "2026-02-07T09:10:33.123Z"
 category: "General"
-description: "只需粘贴变更内容（`git diff`）。这是一款紧贴实战的提示词，能立即生成符合全球标准 Conventional Commits 规范的整洁、完美的英文提交信息。"
+description: "只需粘贴变更内容（`git diff`）。这是一款紧贴实战的提示词，能立即生成符合全球标准 Conventional Commits 规范的整洁、完美的英文提交信息。 详细介绍AI提示词的使用方法与实战技巧。 | 변경 사항(`git diff`)만 붙여넣으세요. 전 세계 표준인 Conventional Commits 규격에 맞춘 깔끔하고 완벽한 영문 커밋 메시지를 즉시 생성해..."
 tags: ["Git", "커밋메시지", "Collaboration", "Productivity"]
 ---
 

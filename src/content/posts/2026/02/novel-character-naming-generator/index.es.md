@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creación y Aficiones"
-description: "Crea nombres memorables para tus personajes de novela que reflejen a la perfección su personalidad, origen y época."
+description: "Crea nombres memorables para tus personajes de novela que reflejen a la perfección su personalidad, origen y época. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["Nombrar", "Personaje", "Novela", "CreaciónNombre", "Configuración"]
 ---
 

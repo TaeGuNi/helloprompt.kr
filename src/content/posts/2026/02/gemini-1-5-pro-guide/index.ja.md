@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "General"
-description: " \"長い文脈（Long Context）の処理において圧倒的な強さを誇るGemini 2.5 Pro。100万トークンを活用し、分厚いPDFやコードベース全体を一括で分析するための実践的なプロンプトガイドです。\""
+description: " \"長い文脈（Long Context）の処理において圧倒的な強さを誇るGemini 2.5 Pro。100万トークンを活用し、分厚いPDFやコードベース全体を一括で分析するための実践的なプロンプトガイドです。\" AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["Gemini", "구글", "LLM", "GPT-4", "AI모델"]
 ---
 

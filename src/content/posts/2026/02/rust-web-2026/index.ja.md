@@ -3,7 +3,7 @@ layout: ../../layouts/MarkdownPostLayout.astro
 title: "Web開発のためのRust：2026年のエコシステム現況"
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "2026年のWeb開発エコシステムにおけるRustの立ち位置とは？AxumやLeptosの成熟度からパフォーマンスと開発者体験(DX)のバランスまで、自社チームへのRust導入が最適かどうかを完璧に診断します。"
+description: "2026年のWeb開発エコシステムにおけるRustの立ち位置とは？AxumやLeptosの成熟度からパフォーマンスと開発者体験(DX)のバランスまで、自社チームへのRust導入が最適かどうかを完璧に診断します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 author: "Hello Prompt AI"
 tags: ["Rust", "Web Dev", "Backend"]
 image: "/images/hooks/rust-web-2026.jpg"

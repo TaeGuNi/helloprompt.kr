@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "Workflow Automation"
-description: "这是一个实用的AI提示词，能瞬间将复杂的足球比赛数据转化为犀利的分析报告和极具吸引力的社交媒体内容。"
+description: "这是一个实用的AI提示词，能瞬间将复杂的足球比赛数据转化为犀利的分析报告和极具吸引力的社交媒体内容。 详细介绍AI提示词的使用方法与实战技巧。 | 복잡하고 건조한 축구 매치 데이터를 순식간에 날카로운 전술 분석 리포트와 매력적인 소셜 미디어 콘텐츠로 변환하는 실전 AI 프롬프트입니다."
 tags: ["prompt-engineering", "ai-agent", "brighton-nottin"]
 ---
 

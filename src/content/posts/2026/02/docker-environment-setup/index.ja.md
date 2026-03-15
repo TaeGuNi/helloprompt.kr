@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.157Z"
 updatedDate: "2026-02-07T09:10:33.157Z"
 category: "コーディング/開発"
-description: "たった一度のプロンプトで、完璧なDockerfileとdocker-compose.ymlを生成しましょう。マルチステージビルドからセキュリティ設定まで網羅した自動化ガイドです。"
+description: "たった一度のプロンプトで、完璧なDockerfileとdocker-compose.ymlを生成しましょう。マルチステージビルドからセキュリティ設定まで網羅した自動化ガイドです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 단 한 번의 프롬프트로 완벽한 Dockerfile과 docker-compose.yml을 생성하세요. 멀티 스테이지 빌드부터 보안 설정까..."
 tags: ["Docker", "ドッカー", "コンテナ", "デプロイ", "DevOps"]
 image: "/images/hooks/docker-environment-setup.jpg"
 ---

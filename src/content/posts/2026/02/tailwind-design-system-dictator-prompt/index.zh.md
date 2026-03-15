@@ -5,7 +5,7 @@ author: "Antigravity"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "提示工程"
-description: "通过将极度厌恶魔法数字和面条代码的资深前端架构师人格注入 AI，从而获取完美受控的 UI 代码的提示词。"
+description: "通过将极度厌恶魔法数字和面条代码的资深前端架构师人格注入 AI，从而获取完美受控的 UI 代码的提示词。 详细介绍AI提示词的使用方法与实战技巧。 | 매직 넘버와 스파게티 코드를 극도로 혐오하는 시니어 프론트엔드 아키텍트의 자아를 AI에 주입하여 완벽히 통제된 UI 코드를 얻어내는 프롬프트입니다."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "tailwind-architecture"]
 image: "/images/hooks/tailwind-design-system-dictator-prompt.jpg"
 ---

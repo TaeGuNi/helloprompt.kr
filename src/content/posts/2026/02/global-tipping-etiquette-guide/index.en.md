@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Travel & Culture"
-description: "US 20%? Japan 0%? Let AI clarify confusing tipping cultures worldwide so you never overpay or offend local staff again."
+description: "US 20%? Japan 0%? Let AI clarify confusing tipping cultures worldwide so you never overpay or offend local staff again. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags:
   ["Tipping Culture", "Travel Expenses", "Global Etiquette", "Service Charge"]
 ---

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automazione Lavoro"
-description: "Non serve saper programmare. Scopri il prompt magico che genera codice VBA partendo da una semplice descrizione."
+description: "Non serve saper programmare. Scopri il prompt magico che genera codice VBA partendo da una semplice descrizione. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags: ["Efficienza Lavorativa", "Excel", "Report", "ChatGPT"]
 ---
 

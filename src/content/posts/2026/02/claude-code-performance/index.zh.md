@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: " \"最近有开发者认为 Claude Code 的编码能力出现下滑。本文将深度剖析社区争议，并提供能唤醒其巅峰状态的专家级提示词策略。\""
+description: " \"最近有开发者认为 Claude Code 的编码能力出现下滑。本文将深度剖析社区争议，并提供能唤醒其巅峰状态的专家级提示词策略。\" 详细介绍AI提示词的使用方法与实战技巧。 | 최근 불거진 Claude Code의 성능 저하(Dumbed down) 논란의 진실을 파헤치고, 잃어버린 코딩 능력을 100% 되살리는 강제 추론 프롬프트를 공개합니다."
 tags: ["Claude", "Anthropic", "AI", "Coding"]
 ---
 

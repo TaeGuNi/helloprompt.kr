@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "工作自动化"
-description: "专为网文作家打造的 AI 情节生成器。通过反转陈词滥调，设计充满多巴胺的冲突结构，助你瞬间摆脱严重的卡文（Writer's Block）困境。"
+description: "专为网文作家打造的 AI 情节生成器。通过反转陈词滥调，设计充满多巴胺的冲突结构，助你瞬间摆脱严重的卡文（Writer's Block）困境。 详细介绍AI提示词的使用方法与实战技巧。 | 웹소설 작가의 숨통을 틔워줄 AI 플롯 생성기. 뻔한 클리셰를 비틀고 도파민 터지는 갈등 구조를 설계해 지독한 글막힘(Writer's Block)에서 단숨에 탈출하세요."
 tags: ["태그1", "태그2"]
 image: "/images/hooks/story-plot-generator.jpg"
 ---

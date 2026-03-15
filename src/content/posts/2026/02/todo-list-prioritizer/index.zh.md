@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Workflow Automation"
-description: "不再为“先做什么”而烦恼！让 AI 助手为你精准梳理工作优先级，告别内耗，准时下班。"
+description: "不再为“先做什么”而烦恼！让 AI 助手为你精准梳理工作优先级，告别内耗，准时下班。 详细介绍AI提示词的使用方法与实战技巧。 | '뭐부터 해야 하지?' 고민은 이제 그만! AI 비서가 아이젠하워 매트릭스를 활용해 당신의 뒤죽박죽 엉킨 업무를 중요도 순으로 완벽하게 줄 세워드립니다."
 tags: ["To-Do", "우선순위", "ChatGPT", "Productivity"]
 ---
 

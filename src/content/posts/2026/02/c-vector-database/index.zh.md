@@ -1,6 +1,6 @@
 ---
 title: " \"Header-only C Vector Database\""
-description: " \"专为无依赖的超轻量级嵌入式 AI 环境打造的 C 语言纯头文件 (Header-only) 向量数据库实现与应用提示词。\""
+description: " \"专为无依赖的超轻量级嵌入式 AI 环境打造的 C 语言纯头文件 (Header-only) 向量数据库实现与应用提示词。\" 详细介绍AI提示词的使用方法与实战技巧。 | 의존성 없는 초경량 임베디드 AI 환경을 위한 C 언어 기반 헤더 전용(Header-only) 벡터 데이터베이스 구현 프롬프트입니다."
 date: 2026-02-15
 tags: ["C", "Open Source", "Database", "AI"]
 ---

@@ -5,7 +5,7 @@ author: "Unifactory Editor"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "業務自動化"
-description: "LLMの新しい接続標準、MCP(Model Context Protocol)。毎回コンテキストをコピペする手間を省き、ローカルデータをClaudeやOllamaに直接接続するカスタムサーバー構築プロンプトを今すぐチェックしましょう。"
+description: "LLMの新しい接続標準、MCP(Model Context Protocol)。毎回コンテキストをコピペする手間を省き、ローカルデータをClaudeやOllamaに直接接続するカスタムサーバー構築プロンプトを今すぐチェックしましょう。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["MCP", "Model Context Protocol", "Local LLM", "TypeScript", "Ollama", "Claude"]
 image: "/images/2026/02/16/mcp-server-tutorial.jpg"
 ---

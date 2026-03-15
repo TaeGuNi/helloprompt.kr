@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "Workflow Automation"
-description: "Résolvez vos bugs Python en 10 secondes grâce à ce prompt IA de débogage ultime pour les développeurs."
+description: "Résolvez vos bugs Python en 10 secondes grâce à ce prompt IA de débogage ultime pour les développeurs. Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags: ["태그1", "태그2"]
 ---
 

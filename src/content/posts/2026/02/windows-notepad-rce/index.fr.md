@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Security"
-description: "CVE-2026-20841 : le simple fait d'ouvrir le Bloc-notes peut-il vous faire pirater ?"
+description: "CVE-2026-20841 : le simple fait d'ouvrir le Bloc-notes peut-il vous faire pirater ? Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags: ["Security", "Windows", "Vulnerability", "CVE"]
 ---
 

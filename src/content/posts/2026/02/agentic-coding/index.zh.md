@@ -5,7 +5,7 @@ author: "HelloPrompt"
 date: "2026-02-16"
 updatedDate: "2026-03-08"
 category: "工作自动化"
-description: "介绍超越简单代码辅助、由 AI 自主完成策划、实现及验证的“Agentic Workflow”实操指南及提示词。"
+description: "介绍超越简单代码辅助、由 AI 自主完成策划、实现及验证的“Agentic Workflow”实操指南及提示词。 详细介绍AI提示词的使用方法与实战技巧。 | 단순한 코딩 보조를 넘어 AI가 스스로 기획, 구현, 검증까지 완벽하게 수행하는 '에이전틱 워크플로우' 실무 적용 가이드 및 프롬프트를 소개합니다."
 tags: ["AI", "DevTools", "Cursor", "Windsurf", "Productivity"]
 ---
 

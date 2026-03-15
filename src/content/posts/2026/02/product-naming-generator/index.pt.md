@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.131Z"
 updatedDate: "2026-02-07T09:10:33.131Z"
 category: "Marketing/Copywriting"
-description: "Um prompt prático para criar nomes de produtos atraentes que refletem a identidade da marca em apenas 30 segundos."
+description: "Um prompt prático para criar nomes de produtos atraentes que refletem a identidade da marca em apenas 30 segundos. Descubra como usar prompts de IA de forma prática e eficaz."
 tags: ["Marketing", "Naming", "Branding", "Copywriting"]
 ---
 

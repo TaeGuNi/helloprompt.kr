@@ -8,7 +8,7 @@ tags:
   - "Siri"
   - "iPhone 17"
 heroImage: "https://picsum.photos/1600/900"
-description: "iPhone 17と共に公開されたApple Intelligence 2.0。強力なLLMをオンデバイスで完璧に駆動させるプロンプトと実践的な活用法を解説します。"
+description: "iPhone 17と共に公開されたApple Intelligence 2.0。強力なLLMをオンデバイスで完璧に駆動させるプロンプトと実践的な活用法を解説します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 아이폰 17의 애플 인텔리전스 2.0을 통해 클라우드 없이 온디바이스로 구동되는 강력한 로컬 LLM Siri의 활용법과 실전 프롬프트를 소개합니다."
 ---
 
 ## 📝 Apple Intelligence 2.0: ローカルLLM「Siri」を100%活用する

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "DevOps/基础设施"
-description: "被高昂的云账单吓到了吗？只需 5 分钟，即可通过这套实战型 FinOps 优化指令找出闲置的基础设施，并将 AWS 成本降低 50% 以上。立即获取 ChatGPT/Claude 提示词。"
+description: "被高昂的云账单吓到了吗？只需 5 分钟，即可通过这套实战型 FinOps 优化指令找出闲置的基础设施，并将 AWS 成本降低 50% 以上。立即获取 ChatGPT/Claude 提示词。 详细介绍AI提示词的使用方法与实战技巧。 | 클라우드 요금 폭탄에 놀라셨나요? 단 5분 만에 방치된 인프라를 찾아내고 AWS 비용을 50% 이상 절감할 수 있는 실무 밀착형 FinOps ..."
 tags: ["AWS", "云", "成本优化", "DevOps", "基础设施"]
 image: "/images/hooks/aws-cost-optimization.jpg"
 ---

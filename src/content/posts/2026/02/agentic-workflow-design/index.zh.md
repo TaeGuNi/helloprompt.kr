@@ -5,7 +5,7 @@ author: "Unifactory Editor"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "办公自动化"
-description: "超越简单的问答，学习如何通过‘智能体工作流’将复杂任务完美委派给 AI。本文揭秘 2026 年职场人士必知的提示工程精华。"
+description: "超越简单的问答，学习如何通过‘智能体工作流’将复杂任务完美委派给 AI。本文揭秘 2026 年职场人士必知的提示工程精华。 详细介绍AI提示词的使用方法与实战技巧。 | 단순한 문답을 넘어 AI에게 복잡한 업무를 완벽히 위임하는 '에이전틱 워크플로우' 설계 가이드. 2026년 실무자가 반드시 알아야 할 프롬프트 엔지니어링의 정수를 공개합니다."
 tags: ["AI Agent", "Workflow", "Prompt Engineering", "Productivity", "Automation"]
 image: "/images/2026/02/15/agent-workflow.jpg"
 ---

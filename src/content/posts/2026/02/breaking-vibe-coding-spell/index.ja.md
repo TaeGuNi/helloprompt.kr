@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "Workflow Automation"
-description: "感覚に頼る「バイブコーディング」の罠から抜け出しましょう！エラーの連鎖を防ぎ、予測可能なAIエンジニアリングへと進化するための完全ガイドとプロンプトを提供します。"
+description: "感覚に頼る「バイブコーディング」の罠から抜け出しましょう！エラーの連鎖を防ぎ、予測可能なAIエンジニアリングへと進化するための完全ガイドとプロンプトを提供します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 감에 의존하는 '바이브 코딩'의 함정에서 벗어나세요! 에러 폭탄을 막고 예측 가능한 AI 엔지니어링으로 진화하는 완벽 가이드와 프롬프트를 제공합니다."
 image: "https://picsum.photos/seed/coding/800/600"
 tags: ["AI", "Tech", "breaking-vibe-coding-spell"]
 ---

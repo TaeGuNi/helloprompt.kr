@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.124Z"
 updatedDate: "2026-02-07T09:10:33.124Z"
 category: "Work Automation"
-description: "たった一つのプロンプトで、上司を即座に納得させる完璧な論理的報告書の目次を作成する方法。"
+description: "たった一つのプロンプトで、上司を即座に納得させる完璧な論理的報告書の目次を作成する方法。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 단 하나의 프롬프트로 상사를 즉시 설득하는 완벽한 논리적 보고서 목차를 생성하는 방법."
 tags: ["Productivity", "Excel", "Reports", "ChatGPT"]
 ---
 

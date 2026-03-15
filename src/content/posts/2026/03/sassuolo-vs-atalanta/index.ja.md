@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "Workflow Automation"
-description: "膨大なスポーツデータをAIで瞬時に分析し、実務レポートやプレビュー記事へ即座に活用するためのプロンプト完全ガイドです。"
+description: "膨大なスポーツデータをAIで瞬時に分析し、実務レポートやプレビュー記事へ即座に活用するためのプロンプト完全ガイドです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 방대한 스포츠 데이터를 AI로 단 1분 만에 분석하여 실무 보고서와 콘텐츠에 즉시 활용하는 완벽 가이드입니다."
 tags: ["prompt-engineering", "ai-agent", "sassuolo-vs-ata"]
 ---
 ## 📝 サッスオーロ vs アタランタ：データ分析自動化プロンプト

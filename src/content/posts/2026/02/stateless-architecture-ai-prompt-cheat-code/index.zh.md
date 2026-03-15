@@ -5,7 +5,7 @@ author: "Mad Architect"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "办公自动化"
-description: "彻底拦截 AI 无意义的谄媚与面条代码，强制执行完美无状态（Stateless）架构的斯巴达式提示词神技。"
+description: "彻底拦截 AI 无意义的谄媚与面条代码，强制执行完美无状态（Stateless）架构的斯巴达式提示词神技。 详细介绍AI提示词的使用方法与实战技巧。 | AI의 무의미한 아첨과 스파게티 코드 생성을 원천 차단하고, 완벽한 무상태(Stateless) 아키텍처를 강제하는 스파르타식 프롬프트 치트키입니다."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "stateless-architecture"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "Automazione del Lavoro"
-description: "Setup spietato per agenti MySQL: elimina le lusinghe inutili dell'IA e previene la distruzione accidentale dei dati."
+description: "Setup spietato per agenti MySQL: elimina le lusinghe inutili dell'IA e previene la distruzione accidentale dei dati. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "mysql"]
 ---
 

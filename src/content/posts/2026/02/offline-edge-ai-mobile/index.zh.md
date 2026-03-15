@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "移动开发"
-description: "无需云端服务器成本，利用智能手机自身资源，在 5 分钟内构建完全离线运行的强大本地 AI 移动应用架构的提示词指南。"
+description: "无需云端服务器成本，利用智能手机自身资源，在 5 分钟内构建完全离线运行的强大本地 AI 移动应用架构的提示词指南。 详细介绍AI提示词的使用方法与实战技巧。 | 클라우드 서버 비용 없이 스마트폰 자체 리소스를 활용해 완벽한 오프라인 환경에서 구동되는 강력한 로컬 AI 모바일 앱 아키텍처를 단 5분 만에 구축하는 프롬프트 가이드입니다."
 image: "https://picsum.photos/seed/edgeai/800/600"
 tags: ["AI", "Tech", "offline-edge-ai-mobile"]
 ---

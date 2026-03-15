@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Creation & Hobbies"
-description: "From elven forests to dwarven mines, generate perfect region and city names that fit your fantasy world seamlessly."
+description: "From elven forests to dwarven mines, generate perfect region and city names that fit your fantasy world seamlessly. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Naming", "Fantasy", "Novel", "TRPG", "Universe"]
 ---
 

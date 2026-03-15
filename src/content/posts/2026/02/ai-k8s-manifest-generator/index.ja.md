@@ -5,7 +5,7 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: DevOps
-description: "インデントが1つずれるだけでエラーになるYAML地獄。もうAIに任せましょう。Deployment、Service、Ingressまで、完璧なKubernetesマニフェストを一瞬で自動生成する実務用プロンプトを紹介します。"
+description: "インデントが1つずれるだけでエラーになるYAML地獄。もうAIに任せましょう。Deployment、Service、Ingressまで、完璧なKubernetesマニフェストを一瞬で自動生成する実務用プロンプトを紹介します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: [Kubernetes, DevOps, YAML, Infrastructure, AI]
 ---
 

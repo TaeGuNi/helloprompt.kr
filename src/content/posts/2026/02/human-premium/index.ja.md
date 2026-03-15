@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-14"
 updatedDate: "2026-02-14"
 category: " "
-description: "AI        ' '    ."
+description: "AI        ' '    . AIプロンプトの使い方と実践テクニックを詳しく解説します。 | AI가 생성한 차가운 텍스트에 인간의 온기와 진정성을 불어넣어 '휴먼 프리미엄'을 완성하는 카피라이팅 프롬프트를 소개합니다."
 tags: ["culture", "design"]
 ---
 

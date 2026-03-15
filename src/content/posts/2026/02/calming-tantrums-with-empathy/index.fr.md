@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalité & Éducation"
-description: "Les mots magiques pour apaiser le cerveau émotionnel de votre enfant en pleine crise."
+description: "Les mots magiques pour apaiser le cerveau émotionnel de votre enfant en pleine crise. Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags:
   ["Parentalité", "Éducation", "Prompts IA", "ChatGPT", "Conseils Parentaux"]
 ---

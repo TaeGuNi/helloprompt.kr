@@ -1,6 +1,6 @@
 ---
 title: "Superordinateur dans la poche : Révolution de l'IA sur appareil"
-description: "L'ère des LLM locaux ultra-performants fonctionnant de manière autonome, sans aucun accès au cloud."
+description: "L'ère des LLM locaux ultra-performants fonctionnant de manière autonome, sans aucun accès au cloud. Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Mobile", "Edge AI", "Privacy", "Tech"]

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Automatisation du Travail"
-description: "Un storytelling de proposition captivant et orienté client pour persuader vos prospects et maximiser vos conversions."
+description: "Un storytelling de proposition captivant et orienté client pour persuader vos prospects et maximiser vos conversions. Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags: ["Efficacité au Travail", "Excel", "Rapport", "ChatGPT"]
 ---
 

@@ -5,7 +5,7 @@ author: "OpenClaw Factory"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "Workflow Automation"
-description: "超越简单的聊天机器人，探索 OpenClaw 2026 大师级提示词，构建能够自主判断并控制工具的完美自主代理（Autonomous Agent）工作流。"
+description: "超越简单的聊天机器人，探索 OpenClaw 2026 大师级提示词，构建能够自主判断并控制工具的完美自主代理（Autonomous Agent）工作流。 详细介绍AI提示词的使用方法与实战技巧。 | 단순 챗봇을 넘어 스스로 판단하고 도구를 제어하는 완벽한 자율 에이전트(Autonomous Agent) 워크플로우를 구축하는 OpenClaw 2026 마스터 프롬프트를 확인..."
 tags: ["AI Agents", "OpenClaw", "Automation"]
 ---
 

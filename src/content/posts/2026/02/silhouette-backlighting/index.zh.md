@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: "巧用逆光（Silhouette）隐去冗杂细节，利用纯粹的光影对比与轮廓美感，为画面注入史诗级电影氛围的高阶提示词技巧。"
+description: "巧用逆光（Silhouette）隐去冗杂细节，利用纯粹的光影对比与轮廓美感，为画面注入史诗级电影氛围的高阶提示词技巧。 详细介绍AI提示词的使用方法与实战技巧。 | 피사체의 복잡한 디테일을 덜어내고 강렬한 실루엣(Silhouette)과 역광(Backlighting)만으로 시선을 사로잡는 압도적인 AI 이미지 프롬프트 기법을 공개합니다."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Lighting"]
 ---
 

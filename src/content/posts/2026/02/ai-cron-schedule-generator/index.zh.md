@@ -5,7 +5,7 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: DevOps
-description: "* * * * * 到底什么时候执行？想每周一凌晨 3 点执行该怎么写？只需用自然语言向 AI 提问，即可轻松获取精准无误的 Cron 表达式。"
+description: "* * * * * 到底什么时候执行？想每周一凌晨 3 点执行该怎么写？只需用自然语言向 AI 提问，即可轻松获取精准无误的 Cron 表达式。 详细介绍AI提示词的使用方法与实战技巧。 | '* * * * *' 이게 대체 언제 실행되는 거지? 매번 구글링하던 크론(Cron) 표현식, 이제 자연어로 30초 만에 완벽하게 생성하고 검증하는 AI 프롬프트를 만나보세요."
 tags: [Linux, Cron, Automation, Server, AI]
 ---
 

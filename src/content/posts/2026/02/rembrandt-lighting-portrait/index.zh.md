@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "图像生成"
-description: "宛如大师亲笔绘制的肖像画，一键生成深邃、稳重且极具故事感的人物布光提示词指南。"
+description: "宛如大师亲笔绘制的肖像画，一键生成深邃、稳重且极具故事感的人物布光提示词指南。 详细介绍AI提示词的使用方法与实战技巧。 | 거장의 초상화처럼 깊이 있고 진중한 인물 사진을 만드는 조명 프롬프트입니다."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Portrait", "Lighting"]
 ---
 

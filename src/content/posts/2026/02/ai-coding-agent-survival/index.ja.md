@@ -1,7 +1,7 @@
 ---
 author: HelloPrompt
 date: "2026-02-15"
-description: "GitHub Copilot X2などの自律型エージェント時代。コードを書く「コーダー」からAIを指揮する「AIマネージャー」へ進化するための実践的なプロンプトと生存戦略を解説します。"
+description: "GitHub Copilot X2などの自律型エージェント時代。コードを書く「コーダー」からAIを指揮する「AIマネージャー」へ進化するための実践的なプロンプトと生存戦略を解説します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags:
   - AI
   - DevOps

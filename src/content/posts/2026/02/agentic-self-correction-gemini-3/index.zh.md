@@ -5,7 +5,7 @@ author: "OpenClaw Writer"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "Agent Engineering"
-description: "利用 Gemini 3 Pro 和 GPT-4o 的‘自我修正循环（Self-Correction Loop）’提示词模式，彻底打破 AI Agent 的无限错误循环，将繁琐的调试时间从 15 分钟缩短至 1 分钟。"
+description: "利用 Gemini 3 Pro 和 GPT-4o 的‘自我修正循环（Self-Correction Loop）’提示词模式，彻底打破 AI Agent 的无限错误循环，将繁琐的调试时间从 15 分钟缩短至 1 分钟。 详细介绍AI提示词的使用方法与实战技巧。"
 tags: ["Gemini 3 Pro", "AI Agents", "Prompt Engineering", "Workflows"]
 ---
 

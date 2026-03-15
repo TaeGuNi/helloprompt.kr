@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-14"
 updatedDate: "2026-02-14"
 category: "General"
-description: "告别高昂的云端API费用！教你如何在MacBook上零成本、安全地部署Ollama与Llama 3本地大模型，100%保护企业核心代码与隐私数据。"
+description: "告别高昂的云端API费用！教你如何在MacBook上零成本、安全地部署Ollama与Llama 3本地大模型，100%保护企业核心代码与隐私数据。 详细介绍AI提示词的使用方法与实战技巧。 | 클라우드 과금과 데이터 유출 걱정 없이, 내 맥북 로컬 환경에서 강력한 AI 모델(Llama 3)을 무료로 구동하고 완벽한 비공개 보안을 유지하는 방법을 알아봅니다."
 tags: ["로컬LLM", "Security", "Ollama", "개발자", "Llama3"]
 ---
 

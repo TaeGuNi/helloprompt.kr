@@ -5,7 +5,7 @@ author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "General"
-description: "厌倦了 AI 敷衍的“全绿通过”？为你奉上强制触发系统崩溃场景的硬核测试作弊码，从根源绞杀隐藏 Bug。"
+description: "厌倦了 AI 敷衍的“全绿通过”？为你奉上强制触发系统崩溃场景的硬核测试作弊码，从根源绞杀隐藏 Bug。 详细介绍AI提示词的使用方法与实战技巧。 | AI가 작성한 허울뿐인 '성공 시나리오'에 속고 계신가요? 극단적 예외 상황과 시스템 붕괴를 강제하여 코드의 방어력을 한계치까지 끌어올리는 하드코어 테스트 치트키를 공개합니다."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "chaos-monkey-testing"]
 ---
 ## 📝 折磨 AI 的“混沌猴”测试提示词 💣

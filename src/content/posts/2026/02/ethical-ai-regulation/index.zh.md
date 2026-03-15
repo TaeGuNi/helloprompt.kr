@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "AI Ethics"
-description: "在全球 AI 监管时代，为您公开面向实务人员的数字伦理指南，以及仅需 1 分钟即可检测偏见风险的自动化提示词。"
+description: "在全球 AI 监管时代，为您公开面向实务人员的数字伦理指南，以及仅需 1 分钟即可检测偏见风险的自动化提示词。 详细介绍AI提示词的使用方法与实战技巧。 | 글로벌 AI 규제 시대, 실무자를 위한 디지털 윤리 가이드와 편향성 리스크를 1분 만에 검수하는 자동화 프롬프트를 공개합니다."
 tags: ["AI Ethics", "Regulation", "AI Governance", "Society"]
 image: "/images/hooks/ethical-ai-regulation.jpg"
 ---

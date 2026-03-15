@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "画像生成"
-description: "温かみのあるエモーショナルな写真を生成するチートキー。画像生成AIのプロンプトに「ゴールデンアワー(Golden Hour)」の魔法をかける方法を解説します。"
+description: "温かみのあるエモーショナルな写真を生成するチートキー。画像生成AIのプロンプトに「ゴールデンアワー(Golden Hour)」の魔法をかける方法を解説します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 평범한 AI 이미지를 한순간에 화보로 만드는 마법의 키워드, '골든 아워(Golden Hour)' 조명 프롬프트 실전 활용 가이드입니다."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Photography", "Lighting"]
 ---
 

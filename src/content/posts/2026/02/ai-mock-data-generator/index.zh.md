@@ -5,7 +5,7 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Development
-description: "后端API迟迟未出？只需向AI提供数据结构(Schema)，1分钟内即可瞬间生成完美还原真实业务场景的高质量测试数据(Mock Data)，彻底告别繁琐硬编码！"
+description: "后端API迟迟未出？只需向AI提供数据结构(Schema)，1分钟内即可瞬间生成完美还原真实业务场景的高质量测试数据(Mock Data)，彻底告别繁琐硬编码！ 详细介绍AI提示词的使用方法与实战技巧。 | 백엔드 API를 마냥 기다리시나요? AI에게 스키마만 던져주세요. 실제 서비스 환경과 똑같은 고품질 더미 데이터(Mock Data)를 1분 만에 무한 생성할 수 있습니다."
 tags: [Frontend, Testing, JSON, Mocking, AI]
 ---
 

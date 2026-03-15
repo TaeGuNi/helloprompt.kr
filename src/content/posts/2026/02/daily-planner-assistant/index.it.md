@@ -5,7 +5,7 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Productivity
-description: "Risolvi il caos mattutino: organizza le priorità e crea un piano di time blocking perfetto con un solo prompt AI."
+description: "Risolvi il caos mattutino: organizza le priorità e crea un piano di time blocking perfetto con un solo prompt AI. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags: [AI, ChatGPT, Prompt, Productivity, DailyPlan]
 ---
 

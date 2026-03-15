@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parenting & Education"
-description: "Improve your child's concentration and physical control with whimsical, AI-generated missions."
+description: "Improve your child's concentration and physical control with whimsical, AI-generated missions. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Parenting", "Education", "AI Prompt", "ChatGPT", "Parenting Tips"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Programmierung/Entwicklung"
-description: "Ein Prompt, der komplexe JSON-Daten automatisch in typsichere TypeScript-Interfaces und Zod-Schemata umwandelt."
+description: "Ein Prompt, der komplexe JSON-Daten automatisch in typsichere TypeScript-Interfaces und Zod-Schemata umwandelt. Erfahren Sie mehr über die praktische Anwendung von KI-Prompts."
 tags: ["TypeScript", "Zod", "JSON", "Typdefinition", "Produktivität"]
 ---
 

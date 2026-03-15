@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "画像生成"
-description: "アイテムを直角に美しく整列させて撮影する「ノーリング（Knolling）」技法の画像生成プロンプトです。"
+description: "アイテムを直角に美しく整列させて撮影する「ノーリング（Knolling）」技法の画像生成プロンプトです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 복잡한 제품이나 소품을 직각으로 반듯하게 정렬하여 시각적 쾌감을 극대화하는 '놀링(Knolling)' 기법 AI 프롬프트 가이드입니다."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Composition", "Design"]
 ---
 

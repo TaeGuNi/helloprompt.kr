@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "Workflow Automation"
-description: "寄付者の心を動かし、自然と支援を引き出す説得力抜群の募金メールやキャンペーンコピーを、わずか1分で完成させる実践的AIプロンプトです。"
+description: "寄付者の心を動かし、自然と支援を引き出す説得力抜群の募金メールやキャンペーンコピーを、わずか1分で完成させる実践的AIプロンプトです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 기부자의 마음을 움직이고 지갑을 여는 설득력 있는 모금 캠페인 카피를 단 1분 만에 완성하는 실전 AI 프롬프트입니다."
 tags: ["prompt-engineering", "ai-agent", "fundraiser"]
 ---
 

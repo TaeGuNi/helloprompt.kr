@@ -3,7 +3,7 @@ layout: ../../../layouts/MarkdownPostLayout.astro
 title: " \"Google LangExtractで構造化データ抽出をマスターする\""
 date: 2026-02-20
 pubDate: 2026-02-20
-description: "Googleの新しいLangExtractライブラリを活用し、LLMから正確にJSONや構造化データを抽出する実践的な手法を解説します。パースエラーをなくし型安全なデータ抽出を実現しましょう。"
+description: "Googleの新しいLangExtractライブラリを活用し、LLMから正確にJSONや構造化データを抽出する実践的な手法を解説します。パースエラーをなくし型安全なデータ抽出を実現しましょう。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 author: "Hello Prompt"
 tags: ["Google", "LLM", "Data Extraction", "Python", "AI"]
 ---

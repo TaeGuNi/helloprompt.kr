@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "バックエンド/DB"
-description: "遅い Flask や重い Django はもう不要です。超高速非同期 Web フレームワーク FastAPI を活用し、堅牢なマイクロサービスを一瞬で構築するための完璧な実務ガイドです。"
+description: "遅い Flask や重い Django はもう不要です。超高速非同期 Web フレームワーク FastAPI を活用し、堅牢なマイクロサービスを一瞬で構築するための完璧な実務ガイドです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["FastAPI", "Python", "バックエンド", "非同期", "API"]
 image: "/images/hooks/fastapi-production-boilerplate.jpg"
 ---

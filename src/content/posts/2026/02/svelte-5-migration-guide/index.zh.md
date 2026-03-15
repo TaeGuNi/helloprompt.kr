@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-10"
 updatedDate: "2026-02-10"
 category: "Coding & Development"
-description: "厌倦了无止境的 useEffect 地狱和沉重的虚拟 DOM？通过 Svelte 5 的核心“Runes”，开启比 React 更轻量、更直观的前端迁移之旅。"
+description: "厌倦了无止境的 useEffect 地狱和沉重的虚拟 DOM？通过 Svelte 5 的核心“Runes”，开启比 React 更轻量、更直观的前端迁移之旅。 详细介绍AI提示词的使用方法与实战技巧。 | 끝없는 useEffect 지옥과 무거운 가상 돔에 지쳤다면? Svelte 5의 핵심 'Runes'를 통해 React보다 가볍고 직관적인 프론트엔드 마이그레이션을 시작하세요."
 tags: ["Svelte", "Svelte5", "React", "Frontend", "웹개발"]
 image: "/images/hooks/svelte-5-migration-guide.jpg"
 ---

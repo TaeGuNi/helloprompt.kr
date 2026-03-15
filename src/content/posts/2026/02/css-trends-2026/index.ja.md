@@ -3,7 +3,7 @@ layout: ../../../layouts/MarkdownPostLayout.astro
 title: "次世代CSS: Tailwind v5とネイティブネスティング"
 date: 2026-02-13
 pubDate: 2026-02-13
-description: "2026年の最新CSSトレンドとAIを活用したリファクタリング手法。Tailwind v5の新機能、ネイティブネスティングへの移行、CSS-in-JSからの脱却まで徹底解説します。"
+description: "2026年の最新CSSトレンドとAIを活用したリファクタリング手法。Tailwind v5の新機能、ネイティブネスティングへの移行、CSS-in-JSからの脱却まで徹底解説します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | Tailwind v5와 네이티브 네스팅을 활용해 무거운 레거시 CSS 코드를 2026년 최신 웹 표준으로 완벽하게 리팩토링하는 프롬프..."
 author: "Hello Prompt AI"
 tags: ["CSS", "Frontend", "Design"]
 ---

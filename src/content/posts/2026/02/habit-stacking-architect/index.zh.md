@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "告别三分钟热度的科学习惯养成策略——“习惯叠加 (Habit Stacking)”指南。"
+description: "告别三分钟热度的科学习惯养成策略——“习惯叠加 (Habit Stacking)”指南。 详细介绍AI提示词的使用方法与实战技巧。 | 작심삼일을 끝내는 과학적인 습관 형성 전략 '해빗 스태킹' 가이드. 의지력 대신 시스템으로 완벽한 루틴을 설계하는 프롬프트입니다."
 tags: ["Habit", "Routine", "아주작은습관의힘", "Productivity"]
 ---
 

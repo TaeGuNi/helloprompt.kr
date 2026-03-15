@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "AI/开发"
-description: "威胁 GPT-4o 的压倒性编程能力！深入分析 Anthropic Claude 3.5 Sonnet 的独特优势及实战提示词。"
+description: "威胁 GPT-4o 的压倒性编程能力！深入分析 Anthropic Claude 3.5 Sonnet 的独特优势及实战提示词。 详细介绍AI提示词的使用方法与实战技巧。 | GPT-4o를 위협하는 압도적인 코딩 실력! 앤스로픽(Anthropic) Claude 3.5 Sonnet의 독보적인 강점과 실전 프롬프트를 심층 분석합니다."
 tags: ["Claude", "克劳德", "AI编程", "LLM", "开发者"]
 image: "/images/hooks/claude-3-5-sonnet-review.jpg"
 ---

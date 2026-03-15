@@ -5,7 +5,7 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: DevOps
-description: "只需一秒，告别少一个空格就报错的YAML地狱。这份专家级提示词能为你完美生成Deployment、Service等生产级K8s清单文件。"
+description: "只需一秒，告别少一个空格就报错的YAML地狱。这份专家级提示词能为你完美生成Deployment、Service等生产级K8s清单文件。 详细介绍AI提示词的使用方法与实战技巧。 | 들여쓰기 하나에 무너지는 YAML 지옥은 이제 끝입니다. Deployment부터 Ingress까지 무결점 쿠버네티스 매니페스트를 1초 만에 자동 생성하는 완벽한 프롬프트를 만나보세요."
 tags: [Kubernetes, DevOps, YAML, Infrastructure, AI]
 ---
 

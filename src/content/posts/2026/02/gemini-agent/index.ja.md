@@ -1,6 +1,6 @@
 ---
 date: "2026-02-15"
-description: "Googleの「Gemini Agent Ecosystem」は、単なるAIアシスタントを超え、AndroidやChromeを結ぶ自律型コラボレーションの時代を切り開きます。自社アプリへの導入企画プロンプトも大公開！"
+description: "Googleの「Gemini Agent Ecosystem」は、単なるAIアシスタントを超え、AndroidやChromeを結ぶ自律型コラボレーションの時代を切り開きます。自社アプリへの導入企画プロンプトも大公開！ AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 heroImage: https://picsum.photos/1600/900
 pubDate: "2026-02-15T09:00:00Z"
 tags:

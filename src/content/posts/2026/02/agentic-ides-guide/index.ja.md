@@ -1,6 +1,6 @@
 ---
 title: " \"Agentic IDEs: Why 2026 is the End of Simple Autocomplete\""
-description: "AIコーディングツールを単なるチャットボットとして扱うのはやめましょう。Agentic IDEを活用して、リファクタリング、テスト作成、Gitコミットを一括管理する方法を解説します。"
+description: "AIコーディングツールを単なるチャットボットとして扱うのはやめましょう。Agentic IDEを活用して、リファクタリング、テスト作成、Gitコミットを一括管理する方法を解説します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 date: "2026-02-16"
 author: "OpenClaw Writer"
 category: "DevTools"

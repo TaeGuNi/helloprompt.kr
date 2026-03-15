@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "Workflow Automation"
-description: "複雑なサッカーの試合データ分析から、魅力的なスポーツマーケティングコンテンツの作成までを一度に完結させる、実践的なAIプロンプトをご紹介します。"
+description: "複雑なサッカーの試合データ分析から、魅力的なスポーツマーケティングコンテンツの作成までを一度に完結させる、実践的なAIプロンプトをご紹介します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 축구 경기 데이터 분석부터 스포츠 마케팅 콘텐츠 발행까지 1분 만에 끝내는 실전 AI 프롬프트. 복잡한 매치 프리뷰를 쉽게 작성하세요."
 tags: ["prompt-engineering", "ai-agent", "sassuolo-atalan"]
 image: "/images/hooks/sassuolo-atalanta-match-analysis-prompt.jpg"
 ---

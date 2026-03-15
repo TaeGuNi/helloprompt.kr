@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "开发"
-description: "公开使用 Claude Code 在短短一小时内完成 2D 高尔夫游戏的实操提示词。从物理引擎实现到架构设计，通过 AI 配对编程彻底打破游戏开发的准入门槛。"
+description: "公开使用 Claude Code 在短短一小时内完成 2D 高尔夫游戏的实操提示词。从物理引擎实现到架构设计，通过 AI 配对编程彻底打破游戏开发的准入门槛。 详细介绍AI提示词的使用方法与实战技巧。 | Claude Code를 활용해 단 1시간 만에 2D 골프 게임을 완성하는 실전 프롬프트를 공개합니다. 물리 엔진 구현부터 아키텍처 설계까지, AI 페어 프로그래밍으로 게..."
 tags: ["ai", "gamedev", "claude"]
 image: "/images/hooks/claude-game.ko.jpg"
 ---

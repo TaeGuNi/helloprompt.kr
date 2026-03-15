@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: " "
-description: "OpenAI GPT-5.2の衝撃的な物理学的発見を紐解き、難解な最新科学論文をわずか3分で完璧に解読する超精密プロンプトを紹介します。"
+description: "OpenAI GPT-5.2の衝撃的な物理学的発見を紐解き、難解な最新科学論文をわずか3分で完璧に解読する超精密プロンプトを紹介します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | OpenAI GPT-5.2의 충격적인 물리학적 발견을 알아보고, 아무리 난해한 최신 과학 논문도 3분 만에 완벽하게 해독하는 초정밀 프롬프트를 소개합니다."
 tags: ["ai", "physics", "gpt-5"]
 image: "/images/hooks/gpt-5-physics.ko.jpg"
 ---

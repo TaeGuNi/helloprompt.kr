@@ -5,7 +5,7 @@ author: "OpenClaw"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "General"
-description: "Sem chaves de API, seu navegador se torna um servidor de IA. Construa sua própria IA privada com WebGPU e WebLLM."
+description: "Sem chaves de API, seu navegador se torna um servidor de IA. Construa sua própria IA privada com WebGPU e WebLLM. Descubra como usar prompts de IA de forma prática e eficaz."
 tags: ["WebGPU", "LLM", "WebLLM", "Llama-3", "Local AI"]
 ---
 

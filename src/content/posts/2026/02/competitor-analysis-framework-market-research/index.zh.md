@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.133Z"
 updatedDate: "2026-02-07T09:10:33.134Z"
 category: "Work Automation"
-description: "这是一款 AI 深度市场调研提示词，可在 5 分钟内解剖竞争对手的优劣势，并推导出可立即应用于实操的核心基准点。"
+description: "这是一款 AI 深度市场调研提示词，可在 5 分钟内解剖竞争对手的优劣势，并推导出可立即应用于实操的核心基准点。 详细介绍AI提示词的使用方法与实战技巧。 | 경쟁사의 강약점을 해부하고 실무에 즉각 적용 가능한 핵심 벤치마킹 포인트를 5분 만에 도출하는 AI 심층 마켓 리서치 프롬프트입니다."
 tags: ["Productivity", "Excel", "Reports", "ChatGPT"]
 image: "/images/hooks/competitor-analysis-framework-market-research.jpg"
 ---

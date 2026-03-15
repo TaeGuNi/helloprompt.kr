@@ -5,7 +5,7 @@ author: "Hello Prompt AI"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "ソフトウェアエンジニアリング"
-description: "AIが生成したコードの快感の裏に隠された致命的な技術的負債。ギャンブルのようにコーディングする「バイブ・コーディング」の沼から抜け出し、主導権を握る真のソフトウェアエンジニアへと生まれ変わるプロンプト戦略を公開します。"
+description: "AIが生成したコードの快感の裏に隠された致命的な技術的負債。ギャンブルのようにコーディングする「バイブ・コーディング」の沼から抜け出し、主導権を握る真のソフトウェアエンジニアへと生まれ変わるプロンプト戦略を公開します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["AI Coding", "Productivity", "Software Engineering", "Vibe Coding", "Fast.ai"]
 image: "/images/hooks/vibe-coding-trap.jpg"
 ---

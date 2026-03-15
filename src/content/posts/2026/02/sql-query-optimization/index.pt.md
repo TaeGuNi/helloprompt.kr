@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Desenvolvimento"
-description: "Um prompt que analisa consultas SQL lentas e complexas para otimizar a performance e sugerir a criação de índices."
+description: "Um prompt que analisa consultas SQL lentas e complexas para otimizar a performance e sugerir a criação de índices. Descubra como usar prompts de IA de forma prática e eficaz."
 tags: ["SQL", "Ajuste de BD", "Backend"]
 ---
 

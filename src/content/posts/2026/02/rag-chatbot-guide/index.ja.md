@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "General"
-description: "ChatGPTが知らない自社規定をAIに学習させる方法。LangChainとベクトルDBを用いて、ハルシネーションのない安全な社内用RAGチャットボットを構築するガイドです。"
+description: "ChatGPTが知らない自社規定をAIに学習させる方法。LangChainとベクトルDBを用いて、ハルシネーションのない安全な社内用RAGチャットボットを構築するガイドです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | ChatGPT가 모르는 회사 규정과 사내 매뉴얼을 완벽하게 학습시키는 비법. 랭체인(LangChain)과 벡터 DB를 활용해 환각(Hall..."
 tags: ["RAG", "LangChain", "벡터DB", "Chatbot", "AI개발"]
 ---
 

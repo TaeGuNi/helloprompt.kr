@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.152Z"
 updatedDate: "2026-02-07T09:10:33.152Z"
 category: "Work Automation"
-description: "这是一个实操提示词，能从冗长零散的会议录音稿中精准提取核心议案和待办事项，瞬间将其转化为一份完美的报告。"
+description: "这是一个实操提示词，能从冗长零散的会议录音稿中精准提取核心议案和待办事项，瞬间将其转化为一份完美的报告。 详细介绍AI提示词的使用方法与实战技巧。 | 길고 산만한 회의 녹취록에서 핵심 안건과 액션 아이템을 정확하게 추출해, 단숨에 완벽한 보고서로 변환하는 실전 프롬프트입니다."
 tags: ["Productivity", "Excel", "Reports", "ChatGPT"]
 image: "/images/hooks/meeting-minutes-summarizer.jpg"
 ---

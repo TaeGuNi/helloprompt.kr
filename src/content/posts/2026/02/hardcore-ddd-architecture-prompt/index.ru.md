@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "Workflow Automation"
-description: "Хардкорный чит-промпт по DDD, превращающий услужливый, но бестолковый ИИ в безжалостного Senior-архитектора."
+description: "Хардкорный чит-промпт по DDD, превращающий услужливый, но бестолковый ИИ в безжалостного Senior-архитектора. Узнайте, как эффективно использовать ИИ-промпты на практике."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "ddd-architecture"]
 ---
 

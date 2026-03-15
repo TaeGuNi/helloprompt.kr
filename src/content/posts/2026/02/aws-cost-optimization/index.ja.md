@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "DevOps & Infra"
-description: "クラウド料金の高騰に驚きましたか？わずか5分で放置されたインフラを特定し、AWSコストを50%以上削減できる実務密着型のFinOps最適化プロンプトを今すぐチェックしましょう。"
+description: "クラウド料金の高騰に驚きましたか？わずか5分で放置されたインフラを特定し、AWSコストを50%以上削減できる実務密着型のFinOps最適化プロンプトを今すぐチェックしましょう。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 클라우드 요금 폭탄에 놀라셨나요? 단 5분 만에 방치된 인프라를 찾아내고 AWS 비용을 50% 이상 절감할 수 있는 실무 밀착형 FinO..."
 tags: ["AWS", "클라우드", "비용절감", "DevOps", "인프라"]
 image: "/images/hooks/aws-cost-optimization.jpg"
 ---

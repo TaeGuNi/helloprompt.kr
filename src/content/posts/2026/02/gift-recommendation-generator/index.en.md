@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Daily Life"
-description: "Input the recipient's age, gender, relationship, and budget to receive a curated, foolproof gift list."
+description: "Input the recipient's age, gender, relationship, and budget to receive a curated, foolproof gift list. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Gift Recommendation", "Anniversary", "Housewarming", "Birthday"]
 ---
 

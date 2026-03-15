@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "コーディング/開発"
-description: "APIのコードを貼り付けるだけで、OpenAPI(Swagger)仕様書やMarkdownドキュメントへ一瞬で自動変換。フロントエンドとの連携を劇的に加速させる実践的プロンプトを紹介します。"
+description: "APIのコードを貼り付けるだけで、OpenAPI(Swagger)仕様書やMarkdownドキュメントへ一瞬で自動変換。フロントエンドとの連携を劇的に加速させる実践的プロンプトを紹介します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["API", "文書化", "Swagger", "OpenAPI", "バックエンド"]
 ---
 

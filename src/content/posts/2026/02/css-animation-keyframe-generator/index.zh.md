@@ -5,7 +5,7 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Design
-description: "告别令人头疼的贝塞尔曲线与关键帧计算！只需一句话描述，即可让AI为你自动生成丝滑流畅、支持GPU加速的生产级CSS动画代码，助你准时下班。"
+description: "告别令人头疼的贝塞尔曲线与关键帧计算！只需一句话描述，即可让AI为你自动生成丝滑流畅、支持GPU加速的生产级CSS动画代码，助你准时下班。 详细介绍AI提示词的使用方法与实战技巧。 | 머리 아픈 베지에 곡선과 키프레임 계산, 이제 AI에게 맡기고 퇴근하세요. 자연스러운 모션 감각을 AI로 구현하는 방법입니다."
 tags: [AI, CSS, Design, Frontend]
 ---
 

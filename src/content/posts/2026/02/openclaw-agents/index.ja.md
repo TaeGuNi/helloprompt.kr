@@ -5,7 +5,7 @@ author: "OpenClaw Factory"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "Workflow Automation"
-description: "単なるチャットボットを超え、自ら判断しツールを制御する完璧な自律型エージェント（Autonomous Agent）ワークフローを構築するためのOpenClaw 2026マスタープロンプトをご紹介します。"
+description: "単なるチャットボットを超え、自ら判断しツールを制御する完璧な自律型エージェント（Autonomous Agent）ワークフローを構築するためのOpenClaw 2026マスタープロンプトをご紹介します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["AI Agents", "OpenClaw", "Automation"]
 ---
 

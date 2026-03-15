@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-03-01"
 updatedDate: "2026-03-01"
 category: "業務自動化"
-description: "UIのわずかな変更で壊れたPlaywrightのE2Eテストを、AIの力で瞬時に自動復旧（Auto-healing）させる実践的なプロンプトを大公開します。"
+description: "UIのわずかな変更で壊れたPlaywrightのE2Eテストを、AIの力で瞬時に自動復旧（Auto-healing）させる実践的なプロンプトを大公開します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | UI 변경 때마다 깨지는 Playwright E2E 테스트, AI를 활용해 단 1분 만에 자동 복구(Auto-healing)하는 실전 프롬프트를 공개합니다."
 tags: ["prompt-engineering", "ai-agent", "playwright-auto"]
 ---
 

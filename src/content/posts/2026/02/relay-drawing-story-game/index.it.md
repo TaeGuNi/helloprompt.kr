@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Genitorialità & Educazione"
-description: "Un gioco creativo per inventare storie disegnando situazioni stravaganti suggerite dall'IA."
+description: "Un gioco creativo per inventare storie disegnando situazioni stravaganti suggerite dall'IA. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags:
   [
     "Genitorialità",

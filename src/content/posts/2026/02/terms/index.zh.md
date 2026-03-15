@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: " \"이용약관 (Terms of Service)\""
-description: "Hello Prompt 服务条款与规范指南。为您提供安全、专业的 AI 提示词使用守则，帮助您在合法合规的前提下最大化提升效率。"
+description: "Hello Prompt 服务条款与规范指南。为您提供安全、专业的 AI 提示词使用守则，帮助您在合法合规的前提下最大化提升效率。 详细介绍AI提示词的使用方法与实战技巧。 | Hello Prompt의 안전하고 쾌적한 이용을 위한 필수 가이드라인과 책임 소재를 안내하는 공식 이용약관입니다."
 date: "2026-02-09"
 ---
 

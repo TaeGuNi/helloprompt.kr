@@ -3,7 +3,7 @@ layout: ../../../layouts/MarkdownPostLayout.astro
 title: "Padroneggiare l’estrazione di dati strutturati con Google LangExtract"
 date: 2026-02-20
 pubDate: 2026-02-20
-description: "Scopri come dire addio ai parser fragili e ottenere JSON perfetti dagli LLM con la libreria LangExtract di Google."
+description: "Scopri come dire addio ai parser fragili e ottenere JSON perfetti dagli LLM con la libreria LangExtract di Google. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 author: "Hello Prompt"
 tags: ["Google", "LLM", "Data Extraction", "Python", "AI"]
 ---

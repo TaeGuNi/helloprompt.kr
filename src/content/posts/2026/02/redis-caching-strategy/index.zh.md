@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "后端/DB"
-description: "防止流量激增导致 DB 服务器崩溃的完美 Redis 实战缓存策略。从 Look-aside 模式到防御 Cache Stampede 的分布式锁架构，只需 1 分钟即可应用的提示词。"
+description: "防止流量激增导致 DB 服务器崩溃的完美 Redis 实战缓存策略。从 Look-aside 模式到防御 Cache Stampede 的分布式锁架构，只需 1 分钟即可应用的提示词。 详细介绍AI提示词的使用方法与实战技巧。 | 트래픽 스파이크로 인한 DB 서버 다운을 막는 완벽한 Redis 실전 캐싱 전략. Look-aside 패턴부터 Cache Stampede 방어를 ..."
 tags: ["Redis", "缓存", "后端", "性能优化", "DB"]
 image: "/images/hooks/redis-caching-strategy.jpg"
 ---

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "AI Art/Design"
-description: "No designer needed. Use this Midjourney thumbnail prompt cheat code to instantly boost your blog's click-through rate."
+description: "No designer needed. Use this Midjourney thumbnail prompt cheat code to instantly boost your blog's click-through rate. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Midjourney", "Design", "Thumbnail", "Blog", "AIArt"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Finanza & Investimenti"
-description: "Dimentica i noiosi questionari bancari. L'IA identifica la tua vera propensione al rischio."
+description: "Dimentica i noiosi questionari bancari. L'IA identifica la tua vera propensione al rischio. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags:
   [
     "TendenzaInvestimento",

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "La guida strategica e scientifica all'Habit Stacking per mettere fine ai buoni propositi abbandonati in tre giorni."
+description: "La guida strategica e scientifica all'Habit Stacking per mettere fine ai buoni propositi abbandonati in tre giorni. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags: ["Habit", "Routine", "아주작은습관의힘", "Productivity"]
 ---
 

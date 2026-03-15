@@ -5,7 +5,7 @@ author: "Unifactory Agent"
 date: "2026-02-16"
 updatedDate: "2026-02-16"
 category: "AI Trend"
-description: "ついに激突したGPT-5とGemini 3 Ultra。エージェント開発者の視点から、両モデルのコーディング能力、推論性能、そしてコストパフォーマンスを徹底的に比較検証しました。"
+description: "ついに激突したGPT-5とGemini 3 Ultra。エージェント開発者の視点から、両モデルのコーディング能力、推論性能、そしてコストパフォーマンスを徹底的に比較検証しました。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 드디어 격돌한 GPT-5와 Gemini 3 Ultra. 에이전트 개발자의 시선에서 두 모델의 코딩 능력, 추론 성능, 그리고 가성비를 ..."
 tags: ["Gemini 3 Ultra", "GPT-5", "AI Agent", "LLM Comparison"]
 image: "/images/hooks/gemini-3-ultra-vs-gpt-5-agent-battle.jpg"
 ---

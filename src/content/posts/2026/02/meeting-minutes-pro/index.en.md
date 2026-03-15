@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "General"
-description: "두서없는 회의 스크립트를 깔끔한 액션 아이템(Action Item)과 결정 사항으로 변환하는 마법의 프롬프트."
+description: "두서없는 회의 스크립트를 깔끔한 액션 아이템(Action Item)과 결정 사항으로 변환하는 마법의 프롬프트. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["회의록", "요약", "클로바노트", "액션아이템"]
 ---
 

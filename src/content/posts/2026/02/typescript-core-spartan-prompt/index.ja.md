@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-27"
 updatedDate: "2026-02-27"
 category: "Workflow Automation"
-description: "AIの無駄な愛想笑いやハルシネーションを粉砕し、無慈悲な型安全性と極限の効率を強制するハードコア・プロンプト。"
+description: "AIの無駄な愛想笑いやハルシネーションを粉砕し、無慈悲な型安全性と極限の効率を強制するハードコア・プロンプト。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | AI의 쓸데없는 아부와 환각을 박살 내고, 무자비한 타입 안전성과 극한의 효율을 강제하는 하드코어 프롬프트입니다."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "typescript-core"]
 ---
 # 💀 AIの魂を削るスパルタコーディングチートキー (TypeScript Core)

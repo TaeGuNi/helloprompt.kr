@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Health"
-description: "No more sleepless nights. Let AI analyze your lifestyle habits and provide the optimal sleep solution."
+description: "No more sleepless nights. Let AI analyze your lifestyle habits and provide the optimal sleep solution. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Sleep", "Insomnia", "Health", "Lifestyle"]
 ---
 

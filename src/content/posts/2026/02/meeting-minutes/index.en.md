@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Work Automation"
-description: "Don't ask 'What was that again?' after the meeting. With just a recording transcript, your summary is done in 1 minute."
+description: "Don't ask 'What was that again?' after the meeting. With just a recording transcript, your summary is done in 1 minute. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Meeting", "Summary", "Productivity"]
 ---
 

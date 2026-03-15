@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.109Z"
 updatedDate: "2026-02-07T09:10:33.110Z"
 category: "Career & Job"
-description: "面试回答总是太长且抓不住重点？我们将利用 STAR 法则完美结构化您的碎片化经验，为您打造抓住面试官心的 1 分钟演讲稿。"
+description: "面试回答总是太长且抓不住重点？我们将利用 STAR 法则完美结构化您的碎片化经验，为您打造抓住面试官心的 1 分钟演讲稿。 详细介绍AI提示词的使用方法与实战技巧。 | 면접 답변이 자꾸 길어지고 핵심을 놓치시나요? 여러분의 파편화된 경험을 STAR 기법으로 완벽하게 구조화하여 면접관을 사로잡는 1분 스피치 대본으로 완성해 드립니다."
 tags: ["STAR기법", "면접답변", "구조화", "논리적말하기"]
 image: "/images/hooks/interview-star-answer-structuring.jpg"
 ---

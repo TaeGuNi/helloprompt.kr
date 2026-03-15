@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-03-13"
 updatedDate: "2026-03-13"
 category: "理财与投资"
-description: "使用 AI 分析亚马逊 (AMZN) 股票的提示词。教你如何通过 SOTP 方法拆解 AWS 云计算、电子商务和广告业务这三大核心支柱。"
+description: "使用 AI 分析亚马逊 (AMZN) 股票的提示词。教你如何通过 SOTP 方法拆解 AWS 云计算、电子商务和广告业务这三大核心支柱。 详细介绍AI提示词的使用方法与实战技巧。 | 아마존(AMZN) 주식을 AI로 분석하는 프롬프트. AWS 클라우드, 이커머스, 광고 사업의 3대 축을 SOTP로 해부하는 방법."
 tags: ["股票", "AMZN", "亚马逊", "投资", "AWS", "电子商务", "云计算"]
 cover: "./cover.png"
 ---

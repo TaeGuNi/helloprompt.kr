@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-14"
 updatedDate: "2026-02-14"
 category: "Image Generation"
-description: "公开使用 DALL-E 4 生成完美拼写和高端电影感图像的高级提示词，告别乱码文字和廉价灯光。"
+description: "公开使用 DALL-E 4 生成完美拼写和高端电影感图像的高级提示词，告别乱码文字和廉价灯光。 详细介绍AI提示词的使用方法与实战技巧。 | DALL-E 4를 활용해 뭉개진 텍스트와 촌스러운 조명 없이 완벽한 스펠링과 하이엔드 시네마틱 이미지를 생성하는 마스터 프롬프트를 공개합니다."
 tags: ["dalle", "image-gen", "openai"]
 ---
 

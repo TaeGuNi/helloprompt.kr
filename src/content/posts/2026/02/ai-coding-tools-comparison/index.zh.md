@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "General"
-description: "AI 编程工具群雄逐鹿。Copilot、Cursor 与 Windsurf 哪款最适合你？为您全面深度解析功能差异、价格成本与实战可用性。"
+description: "AI 编程工具群雄逐鹿。Copilot、Cursor 与 Windsurf 哪款最适合你？为您全面深度解析功能差异、价格成本与实战可用性。 详细介绍AI提示词的使用方法与实战技巧。 | 코딩 AI 춘추전국시대. 나에게 맞는 도구는? 기능, 가격, 사용성 완벽 분석을 통해 당신과 팀에 최적화된 AI 코딩 어시스턴트를 찾아보세요."
 tags: ["Cursor", "Copilot", "Windsurf", "AI코딩", "IDE"]
 ---
 

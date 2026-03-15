@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07"
 updatedDate: "2026-02-07"
 category: "Productivity"
-description: "Struggling with complex Excel formulas or VBA macros? Just describe what you need, and let AI write the code for you."
+description: "Struggling with complex Excel formulas or VBA macros? Just describe what you need, and let AI write the code for you. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Excel", "Automation", "VBA", "Work Hacks"]
 ---
 

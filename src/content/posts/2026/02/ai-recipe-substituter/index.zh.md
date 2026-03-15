@@ -5,7 +5,7 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Life Hacks
-description: "做饭时发现少了一样食材而惊慌失措？无需跑去超市，让 AI 帮您用冰箱里现有的食材找出完美的替代配方。"
+description: "做饭时发现少了一样食材而惊慌失措？无需跑去超市，让 AI 帮您用冰箱里现有的食材找出完美的替代配方。 详细介绍AI提示词的使用方法与实战技巧。 | 요리 중 핵심 재료가 없어 당황하셨나요? 마트에 갈 필요 없이, 냉장고 속 남은 재료로 완벽한 대체 레시피를 찾아주는 AI 셰프 프롬프트를 소개합니다."
 tags: [AI, Cooking, LifeHack, Food]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Workflow Automation"
-description: "Stop stressing over messy meeting notes. Let an AI secretary organize perfect meeting minutes and action items for you."
+description: "Stop stressing over messy meeting notes. Let an AI secretary organize perfect meeting minutes and action items for you. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["회의록", "요약", "ChatGPT", "Notion", "Productivity"]
 ---
 

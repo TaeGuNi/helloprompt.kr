@@ -5,7 +5,7 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Development
-description: "コードは完成したのに、ドキュメント作成が面倒ですか？プロジェクトの構造と主要情報を提供するだけで、AIがバッジからインストールガイドまで完璧なREADME.mdを自動生成してくれます。"
+description: "コードは完成したのに、ドキュメント作成が面倒ですか？プロジェクトの構造と主要情報を提供するだけで、AIがバッジからインストールガイドまで完璧なREADME.mdを自動生成してくれます。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: [Github, Documentation, OpenSource, Branding, AI]
 ---
 

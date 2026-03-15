@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Generazione Immagini"
-description: "Prompt per creare opere in stile Low Poly con poligoni semplificati come origami o blocchi alla Minecraft."
+description: "Prompt per creare opere in stile Low Poly con poligoni semplificati come origami o blocchi alla Minecraft. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "3D", "Stile Artistico"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Gesundheit"
-description: "5-Sterne-Gesundheitsrezepte aus Zutaten, die kurz vor dem Verfallsdatum stehen."
+description: "5-Sterne-Gesundheitsrezepte aus Zutaten, die kurz vor dem Verfallsdatum stehen. Erfahren Sie mehr über die praktische Anwendung von KI-Prompts."
 tags: ["Kochen", "Rezept", "Diät", "Kühlschrank-Aufräumung"]
 ---
 

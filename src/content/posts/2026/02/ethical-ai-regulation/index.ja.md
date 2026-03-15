@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "AI Ethics"
-description: "グローバルAI規制時代を迎え、実務者のためのデジタル倫理ガイドと、AIのバイアスリスクをわずか1分で検収できる自動化プロンプトを公開。最新の規制に対応し、法的・倫理的リスクを最小化する戦略を解説します。"
+description: "グローバルAI規制時代を迎え、実務者のためのデジタル倫理ガイドと、AIのバイアスリスクをわずか1分で検収できる自動化プロンプトを公開。最新の規制に対応し、法的・倫理的リスクを最小化する戦略を解説します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["AI Ethics", "Regulation", "AI Governance", "Society"]
 image: "/images/hooks/ethical-ai-regulation.jpg"
 ---

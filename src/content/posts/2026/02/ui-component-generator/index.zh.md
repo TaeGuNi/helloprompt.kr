@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.142Z"
 updatedDate: "2026-02-07T09:10:33.142Z"
 category: "编码/开发"
-description: "使用 React, Vue, Tailwind CSS 等你喜欢的技术栈，快速生成可立即投入实际生产的完美响应式 UI 组件提示词。"
+description: "使用 React, Vue, Tailwind CSS 等你喜欢的技术栈，快速生成可立即投入实际生产的完美响应式 UI 组件提示词。 详细介绍AI提示词的使用方法与实战技巧。 | React, Vue, Tailwind CSS 등 원하는 기술 스택으로 실무에 즉시 투입 가능한 완벽한 반응형 UI 컴포넌트를 빠르게 생성하는 프롬프트입니다."
 tags: ["前端", "React", "Vue", "Tailwind", "UI组件"]
 ---
 

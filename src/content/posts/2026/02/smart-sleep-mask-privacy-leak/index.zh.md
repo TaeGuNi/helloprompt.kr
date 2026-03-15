@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "安全自动化"
-description: "2026年智能睡眠眼罩的致命IoT安全漏洞。立即获取AI安全审查提示词，从源头封堵通过BLE通信泄露的脑电波数据。"
+description: "2026年智能睡眠眼罩的致命IoT安全漏洞。立即获取AI安全审查提示词，从源头封堵通过BLE通信泄露的脑电波数据。 详细介绍AI提示词的使用方法与实战技巧。 | 2026년 스마트 수면 안대의 치명적 IoT 보안 취약점. BLE 통신으로 유출되는 뇌파 데이터를 원천 차단하는 AI 보안 리뷰 프롬프트를 확인하세요."
 image: "https://picsum.photos/seed/brainwaves/800/600"
 tags: ["AI", "Tech", "smart-sleep-mask-privacy-leak"]
 ---

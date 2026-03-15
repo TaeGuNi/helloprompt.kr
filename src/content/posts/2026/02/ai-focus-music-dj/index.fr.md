@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "Générateur de playlists sur mesure qui stimule vos ondes cérébrales pour décupler votre concentration."
+description: "Générateur de playlists sur mesure qui stimule vos ondes cérébrales pour décupler votre concentration. Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags: ["집중력", "음악", "Productivity", "몰입"]
 ---
 

@@ -5,7 +5,7 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Development
-description: "只说一句“用不了”，开发者会欲哭无泪。😭 这款 AI 提示词能将杂乱无章的 Bug 反馈，瞬间转化为开发者可直接着手修复的结构化专业报告。"
+description: "只说一句“用不了”，开发者会欲哭无泪。😭 这款 AI 提示词能将杂乱无章的 Bug 反馈，瞬间转化为开发者可直接着手修复的结构化专业报告。 详细介绍AI提示词的使用方法与实战技巧。 | 두서없는 버그 제보를 개발자가 즉시 디버깅할 수 있는 완벽한 리포트로 변환해 주는 AI 프롬프트입니다. 소모적인 커뮤니케이션 비용을 획기적으로 줄여보세요."
 tags: [AI, BugReport, QA, Communication]
 ---
 

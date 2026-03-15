@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "バックエンド/DB"
-description: "Stack Overflowで10年連続「最も愛される言語」第1位。所有権（Ownership）の概念を完全に理解し、メモリリークやデータ競合と永遠に決別しましょう。"
+description: "Stack Overflowで10年連続「最も愛される言語」第1位。所有権（Ownership）の概念を完全に理解し、メモリリークやデータ競合と永遠に決別しましょう。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 스택오버플로우 10년 연속 '가장 사랑받는 언어' 1위. 러스트의 소유권(Ownership) 개념만 완벽히 이해하면 지긋지긋한 메모리 누수 및 데..."
 tags: ["Rust", "システムプログラミング", "バックエンド", "WebAssembly"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "画像生成"
-description: " \"80年代の郷愁を誘うネオンカラー、ヤシの木のシルエット、果てしないグリッド床。AIで完璧なSynthwaveアートを生成する実戦用プロンプトです。\""
+description: " \"80年代の郷愁を誘うネオンカラー、ヤシの木のシルエット、果てしないグリッド床。AIで完璧なSynthwaveアートを生成する実戦用プロンプトです。\" AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 단 몇 개의 키워드로 80년대 레트로 감성을 완벽하게 재현하는 신스웨이브(Synthwave) 아트 생성 프롬프트입니다. 네온빛 야자수와 그리드 바닥이 특징..."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Art Style", "Retro"]
 ---
 

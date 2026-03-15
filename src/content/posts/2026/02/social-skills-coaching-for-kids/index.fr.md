@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Parentalité & Éducation"
-description: "Un guide de prompt IA pour aider les enfants à surmonter le rejet et développer leur résilience sociale."
+description: "Un guide de prompt IA pour aider les enfants à surmonter le rejet et développer leur résilience sociale. Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags: ["Parentalité", "Éducation", "Prompt IA", "ChatGPT", "Conseils Parentaux"]
 ---
 

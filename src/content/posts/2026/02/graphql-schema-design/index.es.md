@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "Una API limpia y sin over-fetching. Patrones de diseño de esquemas en GraphQL que harán feliz a tu equipo de frontend."
+description: "Una API limpia y sin over-fetching. Patrones de diseño de esquemas en GraphQL que harán feliz a tu equipo de frontend. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["GraphQL", "API", "Backend", "스키마", "Apollo"]
 ---
 

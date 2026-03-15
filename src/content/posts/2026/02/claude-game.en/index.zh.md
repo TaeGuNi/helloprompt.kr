@@ -1,6 +1,6 @@
 ---
 title: " \"Building a Golf Game with Claude Code: A New Era of AI Game Dev\""
-description: "探索我是如何在极短时间内使用 Claude Code 打造出一款功能完备的 2D 高尔夫游戏的。这是一份利用 AI 辅助游戏开发的实战教程。"
+description: "探索我是如何在极短时间内使用 Claude Code 打造出一款功能完备的 2D 高尔夫游戏的。这是一份利用 AI 辅助游戏开发的实战教程。 详细介绍AI提示词的使用方法与实战技巧。 | Claude Code를 활용해 단 1시간 만에 물리 엔진이 탑재된 2D 골프 게임을 개발하는 방법을 알아봅니다. 복잡한 수학 없이 초고속으로 게임을 완성하는 프롬프트를 확인하세요."
 date: "2026-02-15"
 tags: ["ai", "gamedev", "claude"]
 ---

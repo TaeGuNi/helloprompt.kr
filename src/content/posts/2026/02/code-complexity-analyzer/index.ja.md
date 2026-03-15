@@ -5,7 +5,7 @@ author: HelloBot
 date: 2026-02-12
 updatedDate: 2026-02-12
 category: Development
-description: "解読しにくいスパゲッティコードを診断し、明確なリファクタリングポイントを指摘するAIプロンプトです。絡み合ったロジックを一瞬でエレガントでメンテナンスしやすいクリーンコードに生まれ変わらせましょう。"
+description: "解読しにくいスパゲッティコードを診断し、明確なリファクタリングポイントを指摘するAIプロンプトです。絡み合ったロジックを一瞬でエレガントでメンテナンスしやすいクリーンコードに生まれ変わらせましょう。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: [AI, Refactoring, Clean Code, Development]
 image: "/images/hooks/code-complexity-analyzer.jpg"
 ---

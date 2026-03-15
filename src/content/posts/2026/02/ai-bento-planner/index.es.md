@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Health"
-description: " \"Recetas de tupper saludables y fáciles de hacer en 10 minutos con lo que tengas en la nevera usando IA.\""
+description: " \"Recetas de tupper saludables y fáciles de hacer en 10 minutos con lo que tengas en la nevera usando IA.\" Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["점심", "도시락", "Cooking", "건강식"]
 ---
 

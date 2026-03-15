@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "AI 艺术/设计"
-description: "告别“六根手指”。从文本渲染到 3D 建模，200% 发挥 Midjourney V7 核心功能的究极指南。"
+description: "告别“六根手指”。从文本渲染到 3D 建模，200% 发挥 Midjourney V7 核心功能的究极指南。 详细介绍AI提示词的使用方法与实战技巧。 | 더 이상 '손가락 6개'는 없습니다. 텍스트 렌더링부터 3D 모델링까지, 미드저니 V7의 핵심 기능을 200% 활용하는 완벽 가이드."
 tags: ["米", "Midjourney", "AI绘图", "提示词", "设计"]
 ---
 

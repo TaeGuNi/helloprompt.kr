@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Self-Improvement"
-description: "通勤路上3分钟就够了。通过根据您的职业和兴趣定制的核心新闻 AI 主播提示词，减少不必要的信息搜索时间，获取精准的行业洞察。"
+description: "通勤路上3分钟就够了。通过根据您的职业和兴趣定制的核心新闻 AI 主播提示词，减少不必要的信息搜索时间，获取精准的行业洞察。 详细介绍AI提示词的使用方法与实战技巧。 | 출근길 3분이면 충분합니다. 내 직무와 관심사에 맞춰 핵심 뉴스만 선별해 주는 맞춤형 AI 뉴스 앵커 프롬프트로 불필요한 정보 검색 시간을 줄이고 통찰력을 얻어보세요."
 tags: ["뉴스", "요약", "Self-Improvement", "아침루틴"]
 image: "/images/hooks/ai-morning-news-brief.jpg"
 ---

@@ -11,7 +11,7 @@ tags:
     "AI Hallucination",
     "Matplotlib",
   ]
-description: "分析 Ars Technica 虚假引用撤稿事件，并公开专为防止 AI 幻觉设计的实战事实核查提示词，助您打造可靠的内容发布流程。"
+description: "分析 Ars Technica 虚假引用撤稿事件，并公开专为防止 AI 幻觉设计的实战事实核查提示词，助您打造可靠的内容发布流程。 详细介绍AI提示词的使用方法与实战技巧。 | Ars Technica의 가짜 인용구 기사 철회 사태를 분석하고, 실무에서 AI 할루시네이션을 완벽 차단하는 팩트체크 전용 프롬프트를 공개합니다."
 lang: "zh"
 ---
 

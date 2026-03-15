@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 category: "DevOps"
-description: "Generate production-grade Terraform modules safely and quickly to manage your cloud infrastructure as code (IaC)."
+description: "Generate production-grade Terraform modules safely and quickly to manage your cloud infrastructure as code (IaC). Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["DevOps", "Terraform", "AWS"]
 ---
 

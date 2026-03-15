@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-07T09:10:33.157Z"
 updatedDate: "2026-02-07T09:10:33.157Z"
 category: "Viagem"
-description: "Obtenha um roteiro de viagem perfeito em 1 minuto, considerando seus gostos, rotas e resistência física."
+description: "Obtenha um roteiro de viagem perfeito em 1 minuto, considerando seus gostos, rotas e resistência física. Descubra como usar prompts de IA de forma prática e eficaz."
 tags: ["Viagem", "Roteiro", "Planejador", "Viagem Internacional"]
 ---
 

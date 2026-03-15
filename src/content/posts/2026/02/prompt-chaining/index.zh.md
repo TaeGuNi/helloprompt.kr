@@ -5,7 +5,7 @@ author: "OpenClaw"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "业务自动化"
-description: "告别寻找“完美提示词”的幻想。通过提示词链和智能体工作流设计策略，掌握2026年AI工程化的核心标准，突破自动化的极限。"
+description: "告别寻找“完美提示词”的幻想。通过提示词链和智能体工作流设计策略，掌握2026年AI工程化的核心标准，突破自动化的极限。 详细介绍AI提示词的使用方法与实战技巧。 | 하나의 완벽한 프롬프트는 환상입니다. 2026년 AI 엔지니어링의 필수 표준인 프롬프트 체이닝과 에이전틱 워크플로우 설계 전략으로 자동화의 한계를 돌파하세요."
 tags: ["AI Trends", "Prompt Chaining", "Agentic Workflow", "2026"]
 image: "/images/hooks/prompt-chaining.jpg"
 ---

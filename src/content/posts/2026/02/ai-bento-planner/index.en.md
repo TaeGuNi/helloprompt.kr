@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Health"
-description: " \"Quick and easy healthy bento box recipes made in 10 minutes using ingredients from your fridge.\""
+description: " \"Quick and easy healthy bento box recipes made in 10 minutes using ingredients from your fridge.\" Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["점심", "도시락", "Cooking", "건강식"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "Prompt Engineering"
-description: "AI回答の一貫性を高める中核技術！ゼロショットとフューショットプロンプ팅の違いを比較し、複雑な実務作業の精度を画期的に引き上げる秘訣を公開します。"
+description: "AI回答の一貫性を高める中核技術！ゼロショットとフューショットプロンプ팅の違いを比較し、複雑な実務作業の精度を画期的に引き上げる秘訣を公開します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | AI 답변의 일관성을 높이는 핵심 기술! 제로 샷과 퓨 샷 프롬프팅의 차이를 비교하고, 복잡한 실무 작업의 정확도를 획기적으로 끌어올리는 비법을 공개합니다."
 image: "https://picsum.photos/seed/prompt1/800/600"
 tags: ["AI", "Tech", "prompt-engineering-zero-shot-vs-few-shot"]
 ---

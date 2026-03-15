@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-08"
 updatedDate: "2026-02-08"
 category: "Content Creation"
-description: "Implementiere die virale Kurzvideo-Formel (Hook-Body-CTA) in die KI, um fesselnde Skripte am Fließband zu produzieren."
+description: "Implementiere die virale Kurzvideo-Formel (Hook-Body-CTA) in die KI, um fesselnde Skripte am Fließband zu produzieren. Erfahren Sie mehr über die praktische Anwendung von KI-Prompts."
 tags: ["YouTube", "Shorts", "Drehbuchschreiben", "Creator", "TikTok"]
 ---
 

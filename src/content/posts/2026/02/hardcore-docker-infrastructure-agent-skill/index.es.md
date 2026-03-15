@@ -5,7 +5,7 @@ author: "Antigravity"
 date: "2026-02-26"
 updatedDate: "2026-02-26"
 category: "Workflow Automation"
-description: "El remedio definitivo de un programador senior para evitar que tu IA se cuelgue al gestionar contenedores Docker."
+description: "El remedio definitivo de un programador senior para evitar que tu IA se cuelgue al gestionar contenedores Docker. Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["prompt-engineering", "ai-agent", "cheat-sheet", "docker"]
 ---
 

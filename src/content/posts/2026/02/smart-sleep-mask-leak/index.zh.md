@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "安全/分析"
-description: "深度分析 Somnium X 智能睡眠眼罩音频非法传输安全事故，并提供可生成即时危机应对手册的实战型 AI 提示词。"
+description: "深度分析 Somnium X 智能睡眠眼罩音频非法传输安全事故，并提供可生成即时危机应对手册的实战型 AI 提示词。 详细介绍AI提示词的使用方法与实战技巧。 | Somnium X 스마트 수면 안대의 오디오 무단 전송 보안 사고를 심층 분석하고, 즉각적인 위기 대응 매뉴얼을 도출하는 실무형 AI 프롬프트를 소개합니다."
 tags: ["IoT", "Privacy", "Security", "Wearables"]
 image: "/images/hooks/smart-sleep-mask-leak.jpg"
 ---

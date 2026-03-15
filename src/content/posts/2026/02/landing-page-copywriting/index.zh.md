@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "General"
-description: "客户一进页面就离开的原因是什么？从首屏区块（Hero Section）到 CTA，教你写出让人忍不住向下滑动的心理学转化文案。"
+description: "客户一进页面就离开的原因是什么？从首屏区块（Hero Section）到 CTA，教你写出让人忍不住向下滑动的心理学转化文案。 详细介绍AI提示词的使用方法与实战技巧。 | 고객이 들어오자마자 이탈하는 이유는? 히어로 섹션(Hero Section)부터 CTA까지, 스크롤을 멈출 수 없게 만드는 심리학적 카피 작성 공식을 공개합니다."
 tags: ["랜딩페이지", "Copywriting", "전환율", "Marketing", "상세페이지"]
 ---
 

@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-14"
 updatedDate: "2026-02-14"
 category: "Security"
-description: "保护您的 AI 服务免受恶意攻击的核心防御策略与实战提示词模板。"
+description: "保护您的 AI 服务免受恶意攻击的核心防御策略与实战提示词模板。 详细介绍AI提示词的使用方法与实战技巧。 | 수백만 원 들여 구축한 AI 서비스를 단 한 줄의 악의적 프롬프트로부터 안전하게 지켜내는 실전 방어 전략과 완벽한 프롬프트 템플릿을 공개합니다."
 tags: ["Security", "Prompt Engineering", "해킹", "LLM", "보안가이드"]
 ---
 

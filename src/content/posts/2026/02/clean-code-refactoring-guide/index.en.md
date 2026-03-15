@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Coding/Development"
-description: "A powerful prompt that instantly transforms complex spaghetti code into readable, maintainable clean code."
+description: "A powerful prompt that instantly transforms complex spaghetti code into readable, maintainable clean code. Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["Refactoring", "Clean Code", "Maintenance", "Dev Productivity"]
 ---
 

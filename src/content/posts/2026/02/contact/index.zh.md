@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/Layout.astro
 title: "联系我们 (Contact Us)"
-description: "欢迎咨询 Hello Prompt 合作！使用能在 1 秒内抓住负责人心弦、将回复率提高 200% 的‘必胜 B2B 开发信提示词’，开启成功的商务合作伙伴关系。"
+description: "欢迎咨询 Hello Prompt 合作！使用能在 1 秒内抓住负责人心弦、将回复率提高 200% 的‘必胜 B2B 开发信提示词’，开启成功的商务合作伙伴关系。 详细介绍AI提示词的使用方法与实战技巧。 | Hello Prompt 제휴 문의 환영! 담당자의 마음을 1초 만에 사로잡고 회신율을 200% 높이는 '필승 B2B 콜드 메일 프롬프트'와 함께 성공적인 비즈니스 파..."
 date: "2026-02-09"
 image: "/images/hooks/contact.jpg"
 ---

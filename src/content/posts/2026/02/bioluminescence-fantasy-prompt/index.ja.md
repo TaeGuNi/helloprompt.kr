@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "画像生成"
-description: "映画『アバター』のパンドラ惑星のように、自ら光を放つ生命体と幻想的な環境を描画する魔法のプロンプト「Bioluminescence」の活用方法を解説します。"
+description: "映画『アバター』のパンドラ惑星のように、自ら光を放つ生命体と幻想的な環境を描画する魔法のプロンプト「Bioluminescence」の活用方法を解説します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 영화 '아바타'처럼 스스로 빛을 내는 생명체와 몽환적인 숲을 완벽히 렌더링하는 '생체 발광' 프롬프트. 네온사인을 없애고 하이엔드 판타지 아트를 완성하세요."
 tags: ["Midjourney", "DALL-E", "Stable Diffusion", "Fantasy", "Color"]
 ---
 

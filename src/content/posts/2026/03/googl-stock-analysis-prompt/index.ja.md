@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-03-13"
 updatedDate: "2026-03-13"
 category: "財テク・投資"
-description: "グーグル(GOOGL)株をAIで分析するプロンプト。検索広告の独占、YouTube、Google Cloudの3大軸を分析し、AI時代の競争力を判断する方法。"
+description: "グーグル(GOOGL)株をAIで分析するプロンプト。検索広告の独占、YouTube、Google Cloudの3大軸を分析し、AI時代の競争力を判断する方法。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 구글(GOOGL) 주식을 AI로 분석하는 프롬프트. 검색 광고 독점, YouTube, Google Cloud의 3대 축을 분석하여 AI 시대 경쟁력을 판..."
 tags: ["株式", "GOOGL", "グーグル", "投資", "検索広告", "YouTube", "GoogleCloud"]
 cover: "./cover.png"
 ---

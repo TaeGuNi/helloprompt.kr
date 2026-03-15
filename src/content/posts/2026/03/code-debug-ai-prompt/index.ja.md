@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-03-15"
 updatedDate: "2026-03-15"
 category: "개발"
-description: "コードエラーをAIでデバッグするプロンプト。エラーメッセージの分析、原因追跡、修正コードの提案まで、StackOverflowより速い解決法を紹介します。"
+description: "コードエラーをAIでデバッグするプロンプト。エラーメッセージの分析、原因追跡、修正コードの提案まで、StackOverflowより速い解決法を紹介します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 코드 에러를 AI로 디버깅하는 프롬프트. 에러 메시지 분석, 원인 추적, 수정 코드 제안까지 StackOverflow보다 빠른 해결법."
 tags: ["코딩", "디버깅", "에러", "프롬프트", "개발", "프로그래밍", "StackOverflow"]
 cover: "./cover.png"
 ---

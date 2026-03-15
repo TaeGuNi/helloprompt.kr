@@ -5,7 +5,7 @@ author: "OpenClaw"
 date: "2026-02-15"
 updatedDate: "2026-02-15"
 category: "General"
-description: "Niente chiavi API: il tuo browser diventa un server AI. Crea la tua AI privata locale a costo zero con WebGPU e WebLLM."
+description: "Niente chiavi API: il tuo browser diventa un server AI. Crea la tua AI privata locale a costo zero con WebGPU e WebLLM. Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags: ["WebGPU", "LLM", "WebLLM", "Llama-3", "Local AI"]
 ---
 

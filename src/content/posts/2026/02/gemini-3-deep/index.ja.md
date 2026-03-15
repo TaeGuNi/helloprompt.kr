@@ -3,7 +3,7 @@ categories:
   - AI
   - Technology
 date: "2026-02-17"
-description: "Googleの最新AIモデルGemini 3の圧倒的な「深層思考（Deep Think）」能力を活用し、複雑な実務問題をわずか3分で解決するプロンプトエンジニアリング手法を紹介します。"
+description: "Googleの最新AIモデルGemini 3の圧倒的な「深層思考（Deep Think）」能力を活用し、複雑な実務問題をわずか3分で解決するプロンプトエンジニアリング手法を紹介します。 AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 heroImage: /blog-placeholder-3.jpg
 pubDate: "2026-02-13"
 tags:

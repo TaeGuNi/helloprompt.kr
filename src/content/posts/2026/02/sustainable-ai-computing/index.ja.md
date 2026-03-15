@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-14"
 updatedDate: "2026-02-14"
 category: " "
-description: "爆発的に増加するAIサーバー費用と炭素排出を画期的に削減する「持続可能なAI（Green AI）」の実務最適化プロンプトを紹介します。ESG経営とコスト削減を同時に達成しましょう。"
+description: "爆発的に増加するAIサーバー費用と炭素排出を画期的に削減する「持続可能なAI（Green AI）」の実務最適化プロンプトを紹介します。ESG経営とコスト削減を同時に達成しましょう。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | 폭발하는 AI 서버 비용과 탄소 배출을 획기적으로 줄여주는 '지속 가능한 AI(Green AI)' 실무 최적화 프롬프트를 소개합니다...."
 image: "/images/hooks/sustainable-ai-computing.jpg"
 tags: ["Green AI", "", "ESG"]
 ---

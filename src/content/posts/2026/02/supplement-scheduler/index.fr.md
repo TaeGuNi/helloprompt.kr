@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-04"
 updatedDate: "2026-02-04"
 category: "Santé"
-description: "Créez une routine de compléments optimale pour éviter les interactions et maximiser l'absorption grâce à l'IA."
+description: "Créez une routine de compléments optimale pour éviter les interactions et maximiser l'absorption grâce à l'IA. Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags: ["Suppléments", "Aliment Fonctionnel Santé", "Planificateur", "Santé"]
 ---
 

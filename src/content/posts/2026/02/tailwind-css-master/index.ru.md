@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "General"
-description: "Превратите обычные CSS-свойства (flex, grid) в классы Tailwind с помощью ИИ. Забудьте о шпаргалках!"
+description: "Превратите обычные CSS-свойства (flex, grid) в классы Tailwind с помощью ИИ. Забудьте о шпаргалках! Узнайте, как эффективно использовать ИИ-промпты на практике."
 tags: ["Tailwind", "CSS", "Frontend", "웹디자인", "Coding"]
 ---
 

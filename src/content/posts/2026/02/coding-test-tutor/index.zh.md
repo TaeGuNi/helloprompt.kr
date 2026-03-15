@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Coding & Development"
-description: "在解决算法问题卡住时，你会先看答案吗？介绍如何将 AI 用作编程测试 1:1 导师，仅获取最佳提示并亲自推导出答案的提示词技巧。"
+description: "在解决算法问题卡住时，你会先看答案吗？介绍如何将 AI 用作编程测试 1:1 导师，仅获取最佳提示并亲自推导出答案的提示词技巧。 详细介绍AI提示词的使用方法与实战技巧。 | 알고리즘 문제 풀다 막혔을 때 정답부터 보시나요? AI를 코딩 테스트 1:1 튜터로 활용하여 최적의 힌트만 얻고 스스로 정답을 도출하는 프롬프트 기법을 소개합니다."
 tags: ["코딩테스트", "알고리즘", "파이썬", "ChatGPT", "Job Hunting"]
 image: "/images/hooks/coding-test-tutor.jpg"
 ---

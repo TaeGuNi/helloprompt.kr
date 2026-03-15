@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "General"
-description: "正在考虑引入消息队列（Message Queue）吗？这是专为处理大并发流量的 Kafka 与 RabbitMQ 在吞吐量、可靠性及架构设计上的核心对比指南。"
+description: "正在考虑引入消息队列（Message Queue）吗？这是专为处理大并发流量的 Kafka 与 RabbitMQ 在吞吐量、可靠性及架构设计上的核心对比指南。 详细介绍AI提示词的使用方法与实战技巧。 | 메시지 큐(Message Queue) 도입을 고민 중이신가요? 대규모 트래픽 환경에서 Kafka와 RabbitMQ의 처리량, 신뢰성 및 아키텍처를 완벽하게 비교해 드립니다."
 tags: ["Kafka", "RabbitMQ", "메시지큐", "MSA", "Backend"]
 ---
 

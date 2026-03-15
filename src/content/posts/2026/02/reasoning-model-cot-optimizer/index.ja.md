@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-09"
 updatedDate: "2026-02-09"
 category: "開発生産性"
-description: "Gemini 3やDeepSeekなど、推論型AIのパフォーマンスを最大化するChain of Thought（CoT）プロンプト設計テクニックです。"
+description: "Gemini 3やDeepSeekなど、推論型AIのパフォーマンスを最大化するChain of Thought（CoT）プロンプト設計テクニックです。 AIプロンプトの使い方と実践テクニックを詳しく解説します。 | Gemini 3, DeepSeek 등 최신 추론형 AI의 성능을 극적으로 끌어올리는 Chain of Thought(CoT) 프롬프트 설계 기법을 알아보고 실무에..."
 tags: ["AI", "Prompt Engineering", "CoT"]
 ---
 

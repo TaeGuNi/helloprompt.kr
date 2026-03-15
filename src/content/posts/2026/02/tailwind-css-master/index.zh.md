@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "General"
-description: "只需用自然语言描述 flex、grid 等 CSS 属性或 UI 形态，AI 即可瞬间将其转化为最佳 Tailwind 类名组合。告别死记硬背！"
+description: "只需用自然语言描述 flex、grid 等 CSS 属性或 UI 形态，AI 即可瞬间将其转化为最佳 Tailwind 类名组合。告别死记硬背！ 详细介绍AI提示词的使用方法与实战技巧。 | flex, grid 등 복잡한 CSS 속성을 일상어로 설명하면 최적의 Tailwind 유틸리티 클래스로 즉시 변환해 주는 AI 프롬프트 가이드입니다. 더 이상 공식 문서를 뒤적일 필..."
 tags: ["Tailwind", "CSS", "Frontend", "웹디자인", "Coding"]
 ---
 

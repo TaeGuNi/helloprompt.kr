@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Workflow Automation"
-description: "Guide de productivité matinale : accomplissez 3 fois plus de travail pendant que les autres dorment."
+description: "Guide de productivité matinale : accomplissez 3 fois plus de travail pendant que les autres dorment. Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags: ["Productivity", "Time Management", "Productivity", "새벽업무"]
 ---
 

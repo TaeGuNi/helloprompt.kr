@@ -1,6 +1,6 @@
 ---
 title: " \"Contra-ataque da IA de código aberto\""
-description: "A onda avassaladora do ecossistema open-source que ameaça o domínio dos modelos de IA fechados."
+description: "A onda avassaladora do ecossistema open-source que ameaça o domínio dos modelos de IA fechados. Descubra como usar prompts de IA de forma prática e eficaz."
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Open Source", "LLM", "Meta", "Llama"]

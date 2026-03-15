@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-13"
 updatedDate: "2026-02-13"
 category: "AI 设计"
-description: "还在为 AI 生成的角色脸部每次都发生微妙变化而感到压力吗？本文将公开仅需一条 Midjourney 提示词即可构建完美一致的角色设计表并确立设计基准的实务秘籍。"
+description: "还在为 AI 生成的角色脸部每次都发生微妙变化而感到压力吗？本文将公开仅需一条 Midjourney 提示词即可构建完美一致的角色设计表并确立设计基准的实务秘籍。 详细介绍AI提示词的使用方法与实战技巧。 | 매번 미묘하게 바뀌는 AI 캐릭터 얼굴 때문에 스트레스받으시나요? 미드저니 프롬프트 단 하나로 완벽하게 일관된 캐릭터 시트를 구축하고 디자인 기준점을 세우는 실무 비..."
 tags: ["Midjourney", "角色设计", "AI 艺术", "一致性"]
 image: "/images/hooks/midjourney-character.jpg"
 ---

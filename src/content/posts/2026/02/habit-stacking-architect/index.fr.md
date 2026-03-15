@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "Guide de l'Habit Stacking : la stratégie scientifique pour créer des habitudes durables et en finir avec les abandons."
+description: "Guide de l'Habit Stacking : la stratégie scientifique pour créer des habitudes durables et en finir avec les abandons. Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags: ["Habit", "Routine", "아주작은습관의힘", "Productivity"]
 ---
 

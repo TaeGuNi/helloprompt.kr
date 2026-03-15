@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.17.0](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.16.3...v1.17.0) (2026-03-15)
+
+
+### Features
+
+* **seo:** add FAQPage schema, series hub pages, expand meta descriptions ([84d3b15](https://github.com/TaeGuNi/helloprompt.kr/commit/84d3b15e41afbc7a1d47364b7ce41c8886eaf04f))
+
+
+### Bug Fixes
+
+* **content:** repair double-escaped YAML frontmatter in 83 description files ([051dae5](https://github.com/TaeGuNi/helloprompt.kr/commit/051dae5883ee68f1a608d8603646ba6fac0a457f))
+
 ### [1.16.3](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.16.2...v1.16.3) (2026-03-15)
 
 

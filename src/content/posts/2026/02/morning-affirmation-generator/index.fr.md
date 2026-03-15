@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: " \\"Commencez votre journée avec énergie grâce à des affirmations positives ultra-personnalisées.\\" Découvrez comment utiliser les prompts IA de manière pratique et efficace."
+description: " \"Commencez votre journée avec énergie grâce à des affirmations positives ultra-personnalisées.\" Découvrez comment utiliser les prompts IA de manière pratique et efficace."
 tags: ["미라클모닝", "마인드셋", "Self-Improvement", "긍정확언"]
 ---
 

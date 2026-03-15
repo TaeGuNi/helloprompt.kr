@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-10"
 updatedDate: "2026-02-10"
 category: "General"
-description: " \\"有想法却因不会编程而放弃？教你如何用 Bubble 在3天内打造出一款真正能运行的 App。\\" 详细介绍AI提示词的使用方法与实战技巧。 | 아이디어는 있지만 코딩을 몰라 망설이셨나요? 개발자 없이 노코드 툴 Bubble과 AI를 활용해 단 3일 만에 실제 작동하는 앱 MVP를 런칭하는 비법을 공개합니다."
+description: " \"有想法却因不会编程而放弃？教你如何用 Bubble 在3天内打造出一款真正能运行的 App。\" 详细介绍AI提示词的使用方法与实战技巧。 | 아이디어는 있지만 코딩을 몰라 망설이셨나요? 개발자 없이 노코드 툴 Bubble과 AI를 활용해 단 3일 만에 실제 작동하는 앱 MVP를 런칭하는 비법을 공개합니다."
 tags: ["No-code", "Bubble", "MVP", "Startup", "Entrepreneurship"]
 ---
 

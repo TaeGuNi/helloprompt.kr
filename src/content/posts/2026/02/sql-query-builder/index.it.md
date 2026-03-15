@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: "\\"JOIN, GROUP BY, Window Function... Non perdere più tempo a cercare online la complessa sintassi SQL.\\" Scopri come utilizzare i prompt AI in modo pratico ed efficace."
+description: "\"JOIN, GROUP BY, Window Function... Non perdere più tempo a cercare online la complessa sintassi SQL.\" Scopri come utilizzare i prompt AI in modo pratico ed efficace."
 tags: ["SQL", "Data Analysis", "쿼리"]
 ---
 

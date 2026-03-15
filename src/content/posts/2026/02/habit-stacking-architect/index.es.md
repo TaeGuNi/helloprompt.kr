@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: " \\"Guía de la estrategia científica 'Habit Stacking' para formar hábitos sólidos y acabar con la inconstancia.\\" Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
+description: " \"Guía de la estrategia científica 'Habit Stacking' para formar hábitos sólidos y acabar con la inconstancia.\" Descubra cómo utilizar prompts de IA de manera práctica y efectiva."
 tags: ["Habit", "Routine", "아주작은습관의힘", "Productivity"]
 ---
 

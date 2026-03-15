@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: " \\"Discover a magical prompt that converts a 1-hour meeting transcript into flawless Jira tickets in just 10 seconds.\\" Learn how to use AI prompts effectively with practical examples and expert tips."
+description: " \"Discover a magical prompt that converts a 1-hour meeting transcript into flawless Jira tickets in just 10 seconds.\" Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["PM", "Jira", "회의록", "Productivity"]
 ---
 

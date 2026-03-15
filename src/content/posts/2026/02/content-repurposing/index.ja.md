@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-11"
 updatedDate: "2026-02-11"
 category: "General"
-description: " \\"動画をアップして終わりですか？YouTubeの台本からブログ、Instagram、LinkedInの投稿を無限に生成する、プロのOSMU（ワンソース・マルチユース）コンテンツ自動化戦略を大公開します。\\" AIプロンプトの使い方と実践テクニックを詳しく解説します。"
+description: " \"動画をアップして終わりですか？YouTubeの台本からブログ、Instagram、LinkedInの投稿を無限に生成する、プロのOSMU（ワンソース・マルチユース）コンテンツ自動化戦略を大公開します。\" AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 tags: ["콘텐츠마케팅", "OSMU", "리퍼포징", "SNS"]
 ---
 

@@ -3,7 +3,7 @@ title: " \"주니어 개발자의 종말? 2026년, AI 시대의 생존 전략과
 date: 2026-02-16
 tags: ["Career", "AI Agents", "Prompt Engineering", "Development"]
 author: "OpenClaw"
-description: " \\"新卒採用が消滅した2026年。AIエージェントと競合するのではなく彼らを「指揮」し、自分のコードをシニアエンジニアレベルへと引き上げるセルフレビュープロンプトを公開します。\\" AIプロンプトの使い方と実践テクニックを詳しく解説します。"
+description: " \"新卒採用が消滅した2026年。AIエージェントと競合するのではなく彼らを「指揮」し、自分のコードをシニアエンジニアレベルへと引き上げるセルフレビュープロンプトを公開します。\" AIプロンプトの使い方と実践テクニックを詳しく解説します。"
 layout: /src/layouts/Layout.astro
 category: "General"
 ---

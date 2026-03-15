@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "Marketing"
-description: " \\"Como identificar as reclamações e necessidades dos clientes sem precisar ler milhares de avaliações\\" Descubra como usar prompts de IA de forma prática e eficaz."
+description: " \"Como identificar as reclamações e necessidades dos clientes sem precisar ler milhares de avaliações\" Descubra como usar prompts de IA de forma prática e eficaz."
 tags: ["Marketing", "시장조사", "ChatGPT", "Data Analysis"]
 ---
 

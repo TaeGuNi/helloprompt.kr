@@ -1,6 +1,6 @@
 ---
 title: " \"Self-Healing Code: Building an Agent That Fixes Its Own Bugs\""
-description: " \\"别再给 AI 代码生成器当保姆了！学习如何构建“自我修复(Self-Healing)”工作流，让 AI Agent 自动编写、运行并修复自身的 Bug。附带 Reflection 循环完整指南。\\" 详细介绍AI提示词的使用方法与实战技巧。"
+description: " \"别再给 AI 代码生成器当保姆了！学习如何构建“自我修复(Self-Healing)”工作流，让 AI Agent 自动编写、运行并修复自身的 Bug。附带 Reflection 循环完整指南。\" 详细介绍AI提示词的使用方法与实战技巧。"
 author: "Unifactory Editor"
 date: "2026-02-16"
 tags: ["AI Agent", "Coding", "Automation", "Python", "Local LLM", "Workflow"]

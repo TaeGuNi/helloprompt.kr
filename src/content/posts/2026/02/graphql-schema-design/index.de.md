@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: " \\"Saubere APIs ohne Over-Fetching. GraphQL-Schema-Design-Pattern, die das Frontend glücklich machen.\\" Erfahren Sie mehr über die praktische Anwendung von KI-Prompts."
+description: " \"Saubere APIs ohne Over-Fetching. GraphQL-Schema-Design-Pattern, die das Frontend glücklich machen.\" Erfahren Sie mehr über die praktische Anwendung von KI-Prompts."
 tags: ["GraphQL", "API", "Backend", "스키마", "Apollo"]
 ---
 

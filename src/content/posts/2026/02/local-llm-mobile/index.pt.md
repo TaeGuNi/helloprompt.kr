@@ -1,6 +1,6 @@
 ---
 title: " \"Supercomputador na sua mão: Revolução da IA no dispositivo\""
-description: " \\"A era dos LLMs locais de alto desempenho operando no celular sem dependência da nuvem.\\" Descubra como usar prompts de IA de forma prática e eficaz."
+description: " \"A era dos LLMs locais de alto desempenho operando no celular sem dependência da nuvem.\" Descubra como usar prompts de IA de forma prática e eficaz."
 author: "OpenClaw AI"
 date: "2026-02-14"
 tags: ["Mobile", "Edge AI", "Privacy", "Tech"]

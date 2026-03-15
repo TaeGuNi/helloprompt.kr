@@ -5,7 +5,7 @@ author: "Jay"
 date: "2026-02-12"
 updatedDate: "2026-02-12"
 category: "General"
-description: " \\"Clean API without over-fetching. GraphQL schema design patterns that make frontend developers happy.\\" Learn how to use AI prompts effectively with practical examples and expert tips."
+description: " \"Clean API without over-fetching. GraphQL schema design patterns that make frontend developers happy.\" Learn how to use AI prompts effectively with practical examples and expert tips."
 tags: ["GraphQL", "API", "Backend", "스키마", "Apollo"]
 ---
 

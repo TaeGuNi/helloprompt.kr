@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.17.1](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.17.0...v1.17.1) (2026-03-15)
+
+
+### Bug Fixes
+
+* **ci:** exclude font preconnect URLs from Lychee link checker ([12edf14](https://github.com/TaeGuNi/helloprompt.kr/commit/12edf14fa785b5c3cd5ce00b81a2deedec0ae58b))
+
 ## [1.17.0](https://github.com/TaeGuNi/helloprompt.kr/compare/v1.16.3...v1.17.0) (2026-03-15)
 
 
